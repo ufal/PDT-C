@@ -16,7 +16,10 @@
 <LM>w#w-wsj0731-001-p1s0W1</LM>
 </w.rf>
 <form>Mark</form>
-<tag lemma="Mark_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Mark_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Mark_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0731-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -76,7 +79,7 @@
 <AM lemma="výkonný" src="auto" recommended="1">AAIS7----1A----</AM>
 <AM lemma="výkonný" src="auto">AAMP3----1A----</AM>
 <AM lemma="výkonný" src="auto">AAMS6----1A---7</AM>
-<AM lemma="výkonný" src="auto">AAMS7----1A----</AM>
+<AM lemma="výkonný" src="auto" selected="1">AAMS7----1A----</AM>
 <AM lemma="výkonný" src="auto">AANP3----1A----</AM>
 <AM lemma="výkonný" src="auto">AANS6----1A---7</AM>
 <AM lemma="výkonný" src="auto">AANS7----1A----</AM>
@@ -88,7 +91,10 @@
 <LM>w#w-wsj0731-001-p1s0W8</LM>
 </w.rf>
 <form>víceprezidentem</form>
-<tag lemma="víceprezidentem" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="víceprezidentem" src="auto">X@-------------</AM>
+<AM lemma="víceprezident_^(^GC**viceprezident)" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0731-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -281,6 +287,7 @@
 <AM lemma="Hart-2_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Harte_;Y_,x" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Harte_;Y_,x" src="auto">NNMS5-----A----</AM>
+<AM lemma="Harte-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0731-001-p1s1W14-Ta">
@@ -297,7 +304,10 @@
 <LM>w#w-wsj0731-001-p1s1W15</LM>
 </w.rf>
 <form>Hanks</form>
-<tag lemma="Hanks_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hanks_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hanks-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0731-001-p1s1W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -305,7 +315,10 @@
 <LM>w#w-wsj0731-001-p1s1W16</LM>
 </w.rf>
 <form>Communications</form>
-<tag lemma="Communications" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Communications" src="auto">X@-------------</AM>
+<AM lemma="Communications-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0731-001-p1s1W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -316,6 +329,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0731-001-p1s1W18-Ta">
@@ -348,6 +362,7 @@
 <tag>
 <AM lemma="management_,s_^(^DD**manažment)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="management_,s_^(^DD**manažment)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Management-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0731-001-p1s2W3-Ta">
@@ -364,6 +379,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0731-001-p1s2W4-Ta">

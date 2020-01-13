@@ -24,7 +24,10 @@
 <LM>w#w-wsj0555-001-p1s0W2</LM>
 </w.rf>
 <form>Waxman</form>
-<tag lemma="Waxman_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Waxman_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Waxman-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0555-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -32,7 +35,10 @@
 <LM>w#w-wsj0555-001-p1s0W3</LM>
 </w.rf>
 <form>Industries</form>
-<tag lemma="Industries" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Industries" src="auto">X@-------------</AM>
+<AM lemma="Industries-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0555-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,6 +49,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0555-001-p1s0W5-Ta">
@@ -214,7 +221,10 @@
 <LM>w#w-wsj0555-001-p1s0W21</LM>
 </w.rf>
 <form>ních</form>
-<tag lemma="ních" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="ních" src="auto">X@-------------</AM>
+<AM lemma="ní_,i_(12%-ní)" src="manual" selected="1">AAIP6----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj0555-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -276,7 +286,7 @@
 <AM lemma="splatný" src="auto">AAFP2----1A----</AM>
 <AM lemma="splatný" src="auto">AAFP6----1A----</AM>
 <AM lemma="splatný" src="auto" recommended="1">AAIP2----1A----</AM>
-<AM lemma="splatný" src="auto">AAIP6----1A----</AM>
+<AM lemma="splatný" src="auto" selected="1">AAIP6----1A----</AM>
 <AM lemma="splatný" src="auto">AAMP2----1A----</AM>
 <AM lemma="splatný" src="auto">AAMP6----1A----</AM>
 <AM lemma="splatný" src="auto">AANP2----1A----</AM>
@@ -696,7 +706,10 @@
 <LM>w#w-wsj0555-001-p1s3W2</LM>
 </w.rf>
 <form>Waxman</form>
-<tag lemma="Waxman_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Waxman_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Waxman-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0555-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>

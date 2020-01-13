@@ -91,7 +91,7 @@
 <LM>w#w-wsj0401-001-p1s0W4</LM>
 </w.rf>
 <form>KPMG</form>
-<tag lemma="KPMG-88_:B" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="KPMG-88_:B" src="auto" recommended="1" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-wsj0401-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -99,7 +99,10 @@
 <LM>w#w-wsj0401-001-p1s0W5</LM>
 </w.rf>
 <form>Peat</form>
-<tag lemma="Peat" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Peat" src="auto">X@-------------</AM>
+<AM lemma="Peat-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0401-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -107,7 +110,10 @@
 <LM>w#w-wsj0401-001-p1s0W6</LM>
 </w.rf>
 <form>Marwick</form>
-<tag lemma="Marwick" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Marwick" src="auto">X@-------------</AM>
+<AM lemma="Marwick-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0401-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -484,7 +490,7 @@
 <AM lemma="kupující-2" src="auto">NNMP1-----A----</AM>
 <AM lemma="kupující-2" src="auto">NNMP4-----A----</AM>
 <AM lemma="kupující-2" src="auto">NNMP5-----A----</AM>
-<AM lemma="kupující-2" src="auto">NNMS1-----A----</AM>
+<AM lemma="kupující-2" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="kupující-2" src="auto">NNMS5-----A----</AM>
 <AM lemma="kupující-3" src="auto">NNFP1-----A----</AM>
 <AM lemma="kupující-3" src="auto">NNFP4-----A----</AM>
@@ -735,7 +741,7 @@
 </w.rf>
 <form>loňským</form>
 <tag>
-<AM lemma="loňský" src="auto">AAFP3----1A----</AM>
+<AM lemma="loňský" src="auto" selected="1">AAFP3----1A----</AM>
 <AM lemma="loňský" src="auto">AAIP3----1A----</AM>
 <AM lemma="loňský" src="auto">AAIS6----1A---7</AM>
 <AM lemma="loňský" src="auto">AAIS7----1A----</AM>
@@ -1169,7 +1175,7 @@
 <LM>w#w-wsj0401-001-p1s4W17</LM>
 </w.rf>
 <form>KPMG</form>
-<tag lemma="KPMG-88_:B" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="KPMG-88_:B" src="auto" recommended="1" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-wsj0401-001-p1s4W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1177,7 +1183,10 @@
 <LM>w#w-wsj0401-001-p1s4W18</LM>
 </w.rf>
 <form>Peat</form>
-<tag lemma="Peat" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Peat" src="auto">X@-------------</AM>
+<AM lemma="Peat-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0401-001-p1s4W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1185,7 +1194,10 @@
 <LM>w#w-wsj0401-001-p1s4W19</LM>
 </w.rf>
 <form>Marwick</form>
-<tag lemma="Marwick" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Marwick" src="auto">X@-------------</AM>
+<AM lemma="Marwick-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0401-001-p1s4W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1524,7 +1536,7 @@
 </w.rf>
 <form>uvnitř</form>
 <tag>
-<AM lemma="uvnitř-1" src="auto">RR--2----------</AM>
+<AM lemma="uvnitř-1" src="auto" selected="1">RR--2----------</AM>
 <AM lemma="uvnitř-2" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>

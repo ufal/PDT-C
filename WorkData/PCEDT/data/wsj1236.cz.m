@@ -340,7 +340,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -381,7 +381,7 @@
 <AM lemma="filipínský" src="auto">AAIP4----1A---6</AM>
 <AM lemma="filipínský" src="auto">AAIP5----1A---6</AM>
 <AM lemma="filipínský" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="filipínský" src="auto">AAIS4----1A----</AM>
+<AM lemma="filipínský" src="auto" selected="1">AAIS4----1A----</AM>
 <AM lemma="filipínský" src="auto">AAIS5----1A----</AM>
 <AM lemma="filipínský" src="auto">AAMP1----1A---6</AM>
 <AM lemma="filipínský" src="auto">AAMP4----1A---6</AM>
@@ -404,7 +404,7 @@
 <form>vývoz</form>
 <tag>
 <AM lemma="vývoz" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="vývoz" src="auto">NNIS4-----A----</AM>
+<AM lemma="vývoz" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1236-001-p1s1W7-Ta">
@@ -422,7 +422,7 @@
 </w.rf>
 <form>navzdory</form>
 <tag>
-<AM lemma="navzdory-1" src="auto">RR--3----------</AM>
+<AM lemma="navzdory-1" src="auto" selected="1">RR--3----------</AM>
 <AM lemma="navzdory-2" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
@@ -734,7 +734,7 @@
 <tag>
 <AM lemma="loňský" src="auto" recommended="1">AAFP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAFP6----1A----</AM>
-<AM lemma="loňský" src="auto">AAIP2----1A----</AM>
+<AM lemma="loňský" src="auto" selected="1">AAIP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAIP6----1A----</AM>
 <AM lemma="loňský" src="auto">AAMP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAMP6----1A----</AM>

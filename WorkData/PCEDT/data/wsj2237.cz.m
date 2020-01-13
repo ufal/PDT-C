@@ -568,6 +568,7 @@
 <AM lemma="sejm" src="auto">NNIS3-----A----</AM>
 <AM lemma="sejm" src="auto">NNIS6-----A----</AM>
 <AM lemma="sejmout" src="auto">VB-S---1P-AAP--</AM>
+<AM lemma="Sejm_;K" src="manual" selected="1">NNIS3-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2237-001-p1s1W20-Ta">
@@ -659,6 +660,7 @@
 <tag>
 <AM lemma="Domenico_;Y_,t" src="auto" recommended="1">NNMP1-----A---1</AM>
 <AM lemma="Domenico_;Y_,t" src="auto">NNMP5-----A---1</AM>
+<AM lemma="Domenico_;S_;Y" src="manual" selected="1">NNMP1-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj2237-001-p1s2W4-Ta">
@@ -806,7 +808,7 @@
 </w.rf>
 <form>vidí</form>
 <tag>
-<AM lemma="vidět" src="auto">VB-P---3P-AAI--</AM>
+<AM lemma="vidět" src="auto" selected="1">VB-P---3P-AAI--</AM>
 <AM lemma="vidět" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -1146,7 +1148,15 @@
 <LM>w#w-wsj2237-001-p1s4W21</LM>
 </w.rf>
 <form>1376stránkový</form>
-<tag lemma="1376stránkový" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="1376stránkový" src="auto">X@-------------</AM>
+<AM lemma="1376stránkový" src="manual" selected="1">AAIS1----1A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2237-001-p1s4W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1374,7 +1384,7 @@
 <AM lemma="možný" src="auto">AANP4----1A----</AM>
 <AM lemma="možný" src="auto">AANP5----1A----</AM>
 <AM lemma="možná-1_^(snad)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="možná-2" src="auto">TT-------------</AM>
+<AM lemma="možná-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2237-001-p1s5W2-Ta">

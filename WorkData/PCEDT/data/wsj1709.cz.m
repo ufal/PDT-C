@@ -31,6 +31,7 @@
 <AM lemma="Schlumberger_;R_^(počítač)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Schlumberger_;R_^(počítač)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Schlumberger_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Schlumberger-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1709-001-p1s0W3-Ta">
@@ -39,7 +40,10 @@
 <LM>w#w-wsj1709-001-p1s0W3</LM>
 </w.rf>
 <form>Ltd</form>
-<tag lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Ltd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1709-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -444,7 +448,7 @@
 <form>pokles</form>
 <tag>
 <AM lemma="pokles" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="pokles" src="auto">NNIS4-----A----</AM>
+<AM lemma="pokles" src="auto" selected="1">NNIS4-----A----</AM>
 <AM lemma="poklesnout" src="auto">VpYS---XR-AAP-6</AM>
 </tag>
 </m>
@@ -693,7 +697,10 @@
 <LM>w#w-wsj1709-001-p1s1W17</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</tag>
+<tag>
+<AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1709-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2301,7 +2308,7 @@
 <form>příjmy</form>
 <tag>
 <AM lemma="příjem" src="auto" recommended="1">NNIP1-----A----</AM>
-<AM lemma="příjem" src="auto">NNIP4-----A----</AM>
+<AM lemma="příjem" src="auto" selected="1">NNIP4-----A----</AM>
 <AM lemma="příjem" src="auto">NNIP5-----A----</AM>
 <AM lemma="příjem" src="auto">NNIP7-----A----</AM>
 </tag>
@@ -2566,7 +2573,7 @@
 <form>odměny</form>
 <tag>
 <AM lemma="odměna" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="odměna" src="auto">NNFP4-----A----</AM>
+<AM lemma="odměna" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="odměna" src="auto">NNFP5-----A----</AM>
 <AM lemma="odměna" src="auto">NNFS2-----A----</AM>
 </tag>
@@ -2605,6 +2612,11 @@
 </w.rf>
 <form>IranU</form>
 <tag lemma="IranU" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Iran</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1709-001-p1s8W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2652,7 +2664,10 @@
 <LM>w#w-wsj1709-001-p1s8W36</LM>
 </w.rf>
 <form>Claims</form>
-<tag lemma="Claims" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Claims" src="auto">X@-------------</AM>
+<AM lemma="Claims-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1709-001-p1s8W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2660,7 +2675,10 @@
 <LM>w#w-wsj1709-001-p1s8W37</LM>
 </w.rf>
 <form>Tribunal</form>
-<tag lemma="Tribunal" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Tribunal" src="auto">X@-------------</AM>
+<AM lemma="Tribunal-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1709-001-p1s8W38-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2958,7 +2976,10 @@
 <LM>w#w-wsj1709-001-p1s9W12</LM>
 </w.rf>
 <form>Electricity</form>
-<tag lemma="Electricity" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Electricity" src="auto">X@-------------</AM>
+<AM lemma="Electricity-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1709-001-p1s9W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2966,7 +2987,10 @@
 <LM>w#w-wsj1709-001-p1s9W13</LM>
 </w.rf>
 <form>Control</form>
-<tag lemma="Control" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Control" src="auto">X@-------------</AM>
+<AM lemma="Control-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1709-001-p1s9W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2982,7 +3006,10 @@
 <LM>w#w-wsj1709-001-p1s9W15</LM>
 </w.rf>
 <form>Transformers</form>
-<tag lemma="Transformers" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Transformers" src="auto">X@-------------</AM>
+<AM lemma="Transformers-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1709-001-p1s9W16-Ta">
 <src.rf>tagger-a</src.rf>

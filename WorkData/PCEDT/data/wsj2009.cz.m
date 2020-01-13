@@ -53,7 +53,10 @@
 <LM>w#w-wsj2009-001-p1s0W4</LM>
 </w.rf>
 <form>Ittleson</form>
-<tag lemma="Ittleson" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ittleson" src="auto">X@-------------</AM>
+<AM lemma="Ittleson_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2009-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -131,7 +134,7 @@
 <form>vlastní</form>
 <tag>
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VB-P---3P-AAI--</AM>
-<AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VB-S---3P-AAI--</AM>
+<AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto" selected="1">VB-S---3P-AAI--</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP1----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP4----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP5----1A----</AM>
@@ -414,7 +417,10 @@
 <LM>w#w-wsj2009-001-p1s1W5</LM>
 </w.rf>
 <form>Muzak</form>
-<tag lemma="Muzak" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Muzak" src="auto">X@-------------</AM>
+<AM lemma="Muzak_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2009-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -583,7 +589,10 @@
 <LM>w#w-wsj2009-001-p1s2W1</LM>
 </w.rf>
 <form>Ittleson</form>
-<tag lemma="Ittleson" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ittleson" src="auto">X@-------------</AM>
+<AM lemma="Ittleson_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2009-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -703,6 +712,7 @@
 <AM lemma="Cita-2_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="cit" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="cit" src="auto">NNIS4-----A----</AM>
+<AM lemma="CIT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2009-001-p1s2W10-Ta">
@@ -711,7 +721,10 @@
 <LM>w#w-wsj2009-001-p1s2W10</LM>
 </w.rf>
 <form>Group</form>
-<tag lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2009-001-p1s2W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -719,7 +732,10 @@
 <LM>w#w-wsj2009-001-p1s2W11</LM>
 </w.rf>
 <form>Holdings</form>
-<tag lemma="Holdings" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Holdings" src="auto">X@-------------</AM>
+<AM lemma="Holdings-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2009-001-p1s2W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -730,6 +746,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2009-001-p1s2W13-Ta">
@@ -789,7 +806,10 @@
 <LM>w#w-wsj2009-001-p1s2W18</LM>
 </w.rf>
 <form>Manufacturers</form>
-<tag lemma="Manufacturers" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Manufacturers" src="auto">X@-------------</AM>
+<AM lemma="Manufacturers-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2009-001-p1s2W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -800,6 +820,7 @@
 <tag>
 <AM lemma="Hanover_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Hanover_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Hanover-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2009-001-p1s2W20-Ta">
@@ -808,7 +829,10 @@
 <LM>w#w-wsj2009-001-p1s2W20</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2009-001-p1s2W21-Ta">
 <src.rf>tagger-a</src.rf>

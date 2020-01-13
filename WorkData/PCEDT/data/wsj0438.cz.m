@@ -27,7 +27,10 @@
 <LM>w#w-wsj0438-001-p1s0W2</LM>
 </w.rf>
 <form>Louisiana</form>
-<tag lemma="Louisiana_;G" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Louisiana_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Louisiana-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0438-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -46,6 +49,7 @@
 <tag>
 <AM lemma="Pacifik_;G_,t" src="auto" recommended="1">NNIS1-----A---1</AM>
 <AM lemma="Pacifik_;G_,t" src="auto">NNIS4-----A---1</AM>
+<AM lemma="Pacific-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0438-001-p1s0W5-Ta">
@@ -54,7 +58,10 @@
 <LM>w#w-wsj0438-001-p1s0W5</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0438-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -249,6 +256,7 @@
 <AM lemma="program-1" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="program-1" src="auto">NNIP5-----A----</AM>
 <AM lemma="program-1" src="auto">NNIP7-----A----</AM>
+<AM lemma="program" src="manual" selected="1">NNIP4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0438-001-p1s0W21-Ta">
@@ -794,7 +802,10 @@
 <LM>w#w-wsj0438-001-p1s2W13</LM>
 </w.rf>
 <form>Louisiana</form>
-<tag lemma="Louisiana_;G" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Louisiana_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Louisiana-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0438-001-p1s2W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -813,6 +824,7 @@
 <tag>
 <AM lemma="Pacifik_;G_,t" src="auto" recommended="1">NNIS1-----A---1</AM>
 <AM lemma="Pacifik_;G_,t" src="auto">NNIS4-----A---1</AM>
+<AM lemma="Pacific-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0438-001-p1s2W16-Ta">
@@ -823,7 +835,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>

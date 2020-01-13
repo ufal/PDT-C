@@ -24,7 +24,10 @@
 <LM>w#w-wsj0914-001-p1s0W2</LM>
 </w.rf>
 <form>ALAMCO</form>
-<tag lemma="ALAMCO" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="ALAMCO" src="auto">X@-------------</AM>
+<AM lemma="ALAMCO-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0914-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,6 +38,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0914-001-p1s0W4-Ta">
@@ -139,7 +143,7 @@
 <AM lemma="zpětný" src="auto">AANP4----1A---6</AM>
 <AM lemma="zpětný" src="auto">AANP5----1A---6</AM>
 <AM lemma="zpětný" src="auto" recommended="1">AANS1----1A----</AM>
-<AM lemma="zpětný" src="auto">AANS4----1A----</AM>
+<AM lemma="zpětný" src="auto" selected="1">AANS4----1A----</AM>
 <AM lemma="zpětný" src="auto">AANS5----1A----</AM>
 </tag>
 </m>
@@ -159,7 +163,7 @@
 <AM lemma="přerozdělení_^(*3it)" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="přerozdělení_^(*3it)" src="auto">NNNS2-----A----</AM>
 <AM lemma="přerozdělení_^(*3it)" src="auto">NNNS3-----A----</AM>
-<AM lemma="přerozdělení_^(*3it)" src="auto">NNNS4-----A----</AM>
+<AM lemma="přerozdělení_^(*3it)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="přerozdělení_^(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="přerozdělení_^(*3it)" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -268,7 +272,10 @@
 <LM>w#w-wsj0914-001-p1s1W3</LM>
 </w.rf>
 <form>Clarksburgu</form>
-<tag lemma="Clarksburgu" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Clarksburgu" src="auto">X@-------------</AM>
+<AM lemma="Clarksburg_;G" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0914-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -636,7 +643,7 @@
 <AM lemma="obchodování_^(*3at)" src="auto">NNNS1-----A----</AM>
 <AM lemma="obchodování_^(*3at)" src="auto" recommended="1">NNNS2-----A----</AM>
 <AM lemma="obchodování_^(*3at)" src="auto">NNNS3-----A----</AM>
-<AM lemma="obchodování_^(*3at)" src="auto">NNNS4-----A----</AM>
+<AM lemma="obchodování_^(*3at)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="obchodování_^(*3at)" src="auto">NNNS5-----A----</AM>
 <AM lemma="obchodování_^(*3at)" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -1009,7 +1016,7 @@
 <form>penny</form>
 <tag>
 <AM lemma="penny-1" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="penny-1" src="auto">NNIXX-----A----</AM>
+<AM lemma="penny-1" src="auto" selected="1">NNIXX-----A----</AM>
 <AM lemma="penny-2_^(penny_market)" src="auto">NNNSX-----A----</AM>
 </tag>
 </m>

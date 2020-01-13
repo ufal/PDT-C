@@ -54,7 +54,7 @@
 <form>jednání</form>
 <tag>
 <AM lemma="jednání_^(*3at)" src="auto">NNNP1-----A----</AM>
-<AM lemma="jednání_^(*3at)" src="auto">NNNP2-----A----</AM>
+<AM lemma="jednání_^(*3at)" src="auto" selected="1">NNNP2-----A----</AM>
 <AM lemma="jednání_^(*3at)" src="auto">NNNP4-----A----</AM>
 <AM lemma="jednání_^(*3at)" src="auto">NNNP5-----A----</AM>
 <AM lemma="jednání_^(*3at)" src="auto">NNNS1-----A----</AM>
@@ -78,7 +78,7 @@
 <AM lemma="vedený_^(*5ést)" src="auto">AAIP6----1A----</AM>
 <AM lemma="vedený_^(*5ést)" src="auto" recommended="1">AAMP2----1A----</AM>
 <AM lemma="vedený_^(*5ést)" src="auto">AAMP6----1A----</AM>
-<AM lemma="vedený_^(*5ést)" src="auto">AANP2----1A----</AM>
+<AM lemma="vedený_^(*5ést)" src="auto" selected="1">AANP2----1A----</AM>
 <AM lemma="vedený_^(*5ést)" src="auto">AANP6----1A----</AM>
 </tag>
 </m>
@@ -259,7 +259,14 @@
 <AM lemma="devatenáct`19" src="auto" recommended="1">Cn-P3----------</AM>
 <AM lemma="devatenáct`19" src="auto">Cn-P6----------</AM>
 <AM lemma="devatenáct`19" src="auto">Cn-P7----------</AM>
+<AM lemma="devatenáct-2`19" src="manual">Cn-P3----------</AM>
+<AM lemma="devatenáct-2`19" src="manual" selected="1">A2--------A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatné dělení slov</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2427-001-p1s0W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -369,6 +376,7 @@
 <AM lemma="Peugeot-3_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="peugeot_;R" src="auto">NNIS1-----A----</AM>
 <AM lemma="peugeot_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Peugeot-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2427-001-p1s0W26-Ta">
@@ -377,7 +385,15 @@
 <LM>w#w-wsj2427-001-p1s0W26</LM>
 </w.rf>
 <form>S.A</form>
-<tag lemma="S.A" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="S.A" src="auto">X@-------------</AM>
+<AM lemma="S.A-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2427-001-p1s0W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -608,7 +624,7 @@
 <tag>
 <AM lemma="narušující_^(*5ovat)" src="auto">AGFP7-----A----</AM>
 <AM lemma="narušující_^(*5ovat)" src="auto">AGIP7-----A----</AM>
-<AM lemma="narušující_^(*5ovat)" src="auto">AGMP7-----A----</AM>
+<AM lemma="narušující_^(*5ovat)" src="auto" selected="1">AGMP7-----A----</AM>
 <AM lemma="narušující_^(*5ovat)" src="auto" recommended="1">AGNP7-----A----</AM>
 </tag>
 </m>
@@ -620,7 +636,7 @@
 <form>hraniční</form>
 <tag>
 <AM lemma="hraniční" src="auto">AAFP1----1A----</AM>
-<AM lemma="hraniční" src="auto">AAFP4----1A----</AM>
+<AM lemma="hraniční" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="hraniční" src="auto">AAFP5----1A----</AM>
 <AM lemma="hraniční" src="auto">AAFS1----1A----</AM>
 <AM lemma="hraniční" src="auto" recommended="1">AAFS2----1A----</AM>
@@ -658,7 +674,7 @@
 <form>kontroly</form>
 <tag>
 <AM lemma="kontrola" src="auto">NNFP1-----A----</AM>
-<AM lemma="kontrola" src="auto">NNFP4-----A----</AM>
+<AM lemma="kontrola" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="kontrola" src="auto">NNFP5-----A----</AM>
 <AM lemma="kontrola" src="auto" recommended="1">NNFS2-----A----</AM>
 </tag>
@@ -686,7 +702,7 @@
 <tag>
 <AM lemma="ohrožující_^(*5ovat)" src="auto">AGFP7-----A----</AM>
 <AM lemma="ohrožující_^(*5ovat)" src="auto" recommended="1">AGIP7-----A----</AM>
-<AM lemma="ohrožující_^(*5ovat)" src="auto">AGMP7-----A----</AM>
+<AM lemma="ohrožující_^(*5ovat)" src="auto" selected="1">AGMP7-----A----</AM>
 <AM lemma="ohrožující_^(*5ovat)" src="auto">AGNP7-----A----</AM>
 </tag>
 </m>
@@ -698,7 +714,7 @@
 <form>schopnost</form>
 <tag>
 <AM lemma="schopnost_^(*3ý)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="schopnost_^(*3ý)" src="auto">NNFS4-----A----</AM>
+<AM lemma="schopnost_^(*3ý)" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2427-001-p1s1W18-Ta">
@@ -1786,7 +1802,7 @@
 <form>jak</form>
 <tag>
 <AM lemma="jak-1_;L_^(živočich)" src="auto">NNMS1-----A----</AM>
-<AM lemma="jak-2" src="auto">J,-------------</AM>
+<AM lemma="jak-2" src="auto" selected="1">J,-------------</AM>
 <AM lemma="jak-2" src="auto">J^-------------</AM>
 <AM lemma="jak-3" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="jak-99_:B_;S" src="auto">NNXXX-----A----</AM>

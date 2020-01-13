@@ -200,7 +200,10 @@
 <LM>w#w-wsj1254-001-p1s0W16</LM>
 </w.rf>
 <form>Compania</form>
-<tag lemma="Compania" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Compania" src="auto">X@-------------</AM>
+<AM lemma="Compania-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1254-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -208,7 +211,10 @@
 <LM>w#w-wsj1254-001-p1s0W17</LM>
 </w.rf>
 <form>Nacional</form>
-<tag lemma="Nacional" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Nacional" src="auto">X@-------------</AM>
+<AM lemma="Nacional-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1254-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -219,6 +225,7 @@
 <tag>
 <AM lemma="jít" src="auto">VB-S---3P-AAI-6</AM>
 <AM lemma="de-77_,t" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="de-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1254-001-p1s0W19-Ta">
@@ -227,7 +234,10 @@
 <LM>w#w-wsj1254-001-p1s0W19</LM>
 </w.rf>
 <form>Subsistencias</form>
-<tag lemma="Subsistencias" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Subsistencias" src="auto">X@-------------</AM>
+<AM lemma="Subsistencias-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1254-001-p1s0W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -235,7 +245,10 @@
 <LM>w#w-wsj1254-001-p1s0W20</LM>
 </w.rf>
 <form>Populares</form>
-<tag lemma="Populares" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Populares" src="auto">X@-------------</AM>
+<AM lemma="Populares-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1254-001-p1s0W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -259,7 +272,10 @@
 <LM>w#w-wsj1254-001-p1s0W23</LM>
 </w.rf>
 <form>Conasupo</form>
-<tag lemma="Conasupo" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Conasupo" src="auto">X@-------------</AM>
+<AM lemma="Conasupo_;K" src="manual" selected="1">NNNS4-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1254-001-p1s0W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -299,7 +315,10 @@
 <LM>w#w-wsj1254-001-p1s1W3</LM>
 </w.rf>
 <form>Conasupo</form>
-<tag lemma="Conasupo" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Conasupo" src="auto">X@-------------</AM>
+<AM lemma="Conasupo_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1254-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -310,6 +329,7 @@
 <tag>
 <AM lemma="Ignacio_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Ignacio_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Ignacio_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1254-001-p1s1W5-Ta">
@@ -318,7 +338,10 @@
 <LM>w#w-wsj1254-001-p1s1W5</LM>
 </w.rf>
 <form>Ovalle</form>
-<tag lemma="Ovalle" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ovalle" src="auto">X@-------------</AM>
+<AM lemma="Ovalle_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1254-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -623,7 +646,7 @@
 <AM lemma="produkce" src="auto">NNFP4-----A----</AM>
 <AM lemma="produkce" src="auto">NNFP5-----A----</AM>
 <AM lemma="produkce" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="produkce" src="auto">NNFS2-----A----</AM>
+<AM lemma="produkce" src="auto" selected="1">NNFS2-----A----</AM>
 <AM lemma="produkce" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>
@@ -719,7 +742,7 @@
 <tag>
 <AM lemma="důležitý" src="auto" recommended="1">AAFP2----3A----</AM>
 <AM lemma="důležitý" src="auto">AAFP6----3A----</AM>
-<AM lemma="důležitý" src="auto">AAIP2----3A----</AM>
+<AM lemma="důležitý" src="auto" selected="1">AAIP2----3A----</AM>
 <AM lemma="důležitý" src="auto">AAIP6----3A----</AM>
 <AM lemma="důležitý" src="auto">AAMP2----3A----</AM>
 <AM lemma="důležitý" src="auto">AAMP6----3A----</AM>
@@ -797,7 +820,10 @@
 <LM>w#w-wsj1254-001-p1s3W1</LM>
 </w.rf>
 <form>Ovalle</form>
-<tag lemma="Ovalle" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ovalle" src="auto">X@-------------</AM>
+<AM lemma="Ovalle_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1254-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -840,7 +866,10 @@
 <LM>w#w-wsj1254-001-p1s3W6</LM>
 </w.rf>
 <form>Conasupo</form>
-<tag lemma="Conasupo" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Conasupo" src="auto">X@-------------</AM>
+<AM lemma="Conasupo_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1254-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1223,7 +1252,7 @@
 <form>nabídky</form>
 <tag>
 <AM lemma="nabídka" src="auto">NNFP1-----A----</AM>
-<AM lemma="nabídka" src="auto">NNFP4-----A----</AM>
+<AM lemma="nabídka" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="nabídka" src="auto">NNFP5-----A----</AM>
 <AM lemma="nabídka" src="auto" recommended="1">NNFS2-----A----</AM>
 </tag>
@@ -1244,7 +1273,10 @@
 <LM>w#w-wsj1254-001-p1s5W1</LM>
 </w.rf>
 <form>Conasupo</form>
-<tag lemma="Conasupo" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Conasupo" src="auto">X@-------------</AM>
+<AM lemma="Conasupo_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1254-001-p1s5W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1610,7 +1642,7 @@
 <AM lemma="odvětví" src="auto">NNNP4-----A----</AM>
 <AM lemma="odvětví" src="auto">NNNP5-----A----</AM>
 <AM lemma="odvětví" src="auto">NNNS1-----A----</AM>
-<AM lemma="odvětví" src="auto">NNNS2-----A----</AM>
+<AM lemma="odvětví" src="auto" selected="1">NNNS2-----A----</AM>
 <AM lemma="odvětví" src="auto">NNNS3-----A----</AM>
 <AM lemma="odvětví" src="auto">NNNS4-----A----</AM>
 <AM lemma="odvětví" src="auto">NNNS5-----A----</AM>
@@ -1635,7 +1667,7 @@
 <AM lemma="jenž_^(kterou_[ve_vedl.větě])" src="auto">PJFS4----------</AM>
 <AM lemma="jenž_^(kteří_[ve_vedl.větě])" src="auto">PJMP1----------</AM>
 <AM lemma="již-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="již-2" src="auto">TT-------------</AM>
+<AM lemma="již-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1254-001-p1s6W6-Ta">
@@ -1821,7 +1853,10 @@
 <LM>w#w-wsj1254-001-p1s7W6</LM>
 </w.rf>
 <form>Conasupo</form>
-<tag lemma="Conasupo" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Conasupo" src="auto">X@-------------</AM>
+<AM lemma="Conasupo_;K" src="manual" selected="1">NNNS4-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1254-001-p1s7W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1963,7 +1998,7 @@
 <form>vládní</form>
 <tag>
 <AM lemma="vládní" src="auto">AAFP1----1A----</AM>
-<AM lemma="vládní" src="auto">AAFP4----1A----</AM>
+<AM lemma="vládní" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="vládní" src="auto">AAFP5----1A----</AM>
 <AM lemma="vládní" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="vládní" src="auto">AAFS2----1A----</AM>
@@ -2001,7 +2036,7 @@
 <form>dotace</form>
 <tag>
 <AM lemma="dotace" src="auto">NNFP1-----A----</AM>
-<AM lemma="dotace" src="auto">NNFP4-----A----</AM>
+<AM lemma="dotace" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="dotace" src="auto">NNFP5-----A----</AM>
 <AM lemma="dotace" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="dotace" src="auto">NNFS2-----A----</AM>
@@ -2025,7 +2060,10 @@
 <LM>w#w-wsj1254-001-p1s8W15</LM>
 </w.rf>
 <form>Conasupo</form>
-<tag lemma="Conasupo" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Conasupo" src="auto">X@-------------</AM>
+<AM lemma="Conasupo_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1254-001-p1s8W16-Ta">
 <src.rf>tagger-a</src.rf>

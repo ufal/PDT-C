@@ -24,7 +24,10 @@
 <LM>w#w-wsj0028-001-p1s0W2</LM>
 </w.rf>
 <form>Chilver</form>
-<tag lemma="Chilver" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Chilver" src="auto">X@-------------</AM>
+<AM lemma="Chilver_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0028-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -96,7 +99,10 @@
 <LM>w#w-wsj0028-001-p1s0W7</LM>
 </w.rf>
 <form>English</form>
-<tag lemma="English" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="English" src="auto">X@-------------</AM>
+<AM lemma="English-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0028-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -110,6 +116,7 @@
 <AM lemma="Chino_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Chino_;G" src="auto">NNNP5-----A----</AM>
 <AM lemma="Chino_;G" src="auto">NNNS2-----A----</AM>
+<AM lemma="China-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0028-001-p1s0W9-Ta">
@@ -118,7 +125,10 @@
 <LM>w#w-wsj0028-001-p1s0W9</LM>
 </w.rf>
 <form>Clays</form>
-<tag lemma="Clays" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Clays" src="auto">X@-------------</AM>
+<AM lemma="Clays-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0028-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>

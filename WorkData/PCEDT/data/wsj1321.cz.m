@@ -31,6 +31,7 @@
 <AM lemma="Rockwell-1_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Rockwell_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Rockwell_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Rockwell-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1321-001-p1s0W3-Ta">
@@ -40,7 +41,7 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="International-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="International_,t" src="auto">NNISX-----A----</AM>
 <AM lemma="international-77_,t" src="auto">F%-------------</AM>
 </tag>
@@ -51,7 +52,10 @@
 <LM>w#w-wsj1321-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1321-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -102,7 +106,10 @@
 <LM>w#w-wsj1321-001-p1s0W9</LM>
 </w.rf>
 <form>Ikegai</form>
-<tag lemma="Ikegai" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ikegai" src="auto">X@-------------</AM>
+<AM lemma="Ikegai-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1321-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -110,7 +117,10 @@
 <LM>w#w-wsj1321-001-p1s0W10</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1321-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -148,7 +158,10 @@
 <LM>w#w-wsj1321-001-p1s0W14</LM>
 </w.rf>
 <form>Ikegai</form>
-<tag lemma="Ikegai" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ikegai" src="auto">X@-------------</AM>
+<AM lemma="Ikegai-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1321-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -164,7 +177,10 @@
 <LM>w#w-wsj1321-001-p1s0W16</LM>
 </w.rf>
 <form>Goss</form>
-<tag lemma="Goss_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Goss_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Goss-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1321-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -461,7 +477,10 @@
 <LM>w#w-wsj1321-001-p1s2W8</LM>
 </w.rf>
 <form>Ikegai</form>
-<tag lemma="Ikegai" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ikegai" src="auto">X@-------------</AM>
+<AM lemma="Ikegai-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1321-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -469,7 +488,10 @@
 <LM>w#w-wsj1321-001-p1s2W9</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1321-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -514,7 +536,10 @@
 <LM>w#w-wsj1321-001-p1s2W14</LM>
 </w.rf>
 <form>Ikegai</form>
-<tag lemma="Ikegai" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ikegai" src="auto">X@-------------</AM>
+<AM lemma="Ikegai-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1321-001-p1s2W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -530,7 +555,10 @@
 <LM>w#w-wsj1321-001-p1s2W16</LM>
 </w.rf>
 <form>Goss</form>
-<tag lemma="Goss_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Goss_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Goss-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1321-001-p1s2W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -699,6 +727,7 @@
 <AM lemma="Rockwell-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Rockwell_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Rockwell_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Rockwell-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1321-001-p1s3W5-Ta">
@@ -707,7 +736,10 @@
 <LM>w#w-wsj1321-001-p1s3W5</LM>
 </w.rf>
 <form>Graphic</form>
-<tag lemma="Graphic" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Graphic" src="auto">X@-------------</AM>
+<AM lemma="Graphic-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1321-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -715,7 +747,10 @@
 <LM>w#w-wsj1321-001-p1s3W6</LM>
 </w.rf>
 <form>Systems</form>
-<tag lemma="Systems" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Systems" src="auto">X@-------------</AM>
+<AM lemma="Systems-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1321-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -769,6 +804,7 @@
 <AM lemma="El_;K" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="el-77_,t" src="auto">F%-------------</AM>
 <AM lemma="elektrický_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="El-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1321-001-p1s3W12-Ta">
@@ -781,6 +817,7 @@
 <AM lemma="Segundo_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Segundo_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Segundo_;G" src="auto">NNNS5-----A----</AM>
+<AM lemma="Segundo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1321-001-p1s3W13-Ta">
@@ -840,7 +877,10 @@
 <LM>w#w-wsj1321-001-p1s4W2</LM>
 </w.rf>
 <form>Ikegai</form>
-<tag lemma="Ikegai" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ikegai" src="auto">X@-------------</AM>
+<AM lemma="Ikegai-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1321-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -856,7 +896,10 @@
 <LM>w#w-wsj1321-001-p1s4W4</LM>
 </w.rf>
 <form>Goss</form>
-<tag lemma="Goss_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Goss_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Goss-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1321-001-p1s4W5-Ta">
 <src.rf>tagger-a</src.rf>

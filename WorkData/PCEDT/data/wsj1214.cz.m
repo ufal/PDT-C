@@ -27,7 +27,10 @@
 <LM>w#w-wsj1214-001-p1s0W2</LM>
 </w.rf>
 <form>BSB</form>
-<tag lemma="BSB" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="BSB" src="auto">X@-------------</AM>
+<AM lemma="BSB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1214-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1214-001-p1s0W3</LM>
 </w.rf>
 <form>BANCORP</form>
-<tag lemma="BANCORP" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="BANCORP" src="auto">X@-------------</AM>
+<AM lemma="BANCORP-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1214-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -46,6 +52,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1214-001-p1s0W5-Ta">
@@ -142,6 +149,7 @@
 <AM lemma="York-1_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="York-2_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="York-2_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="York-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1214-001-p1s0W14-Ta">
@@ -801,7 +809,10 @@
 <LM>w#w-wsj1214-001-p1s3W2</LM>
 </w.rf>
 <form>BSB</form>
-<tag lemma="BSB" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="BSB" src="auto">X@-------------</AM>
+<AM lemma="BSB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1214-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1015,7 +1026,7 @@
 <tag>
 <AM lemma="loňský" src="auto" recommended="1">AAFP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAFP6----1A----</AM>
-<AM lemma="loňský" src="auto">AAIP2----1A----</AM>
+<AM lemma="loňský" src="auto" selected="1">AAIP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAIP6----1A----</AM>
 <AM lemma="loňský" src="auto">AAMP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAMP6----1A----</AM>
@@ -1174,7 +1185,10 @@
 <LM>w#w-wsj1214-001-p1s4W8</LM>
 </w.rf>
 <form>BSB</form>
-<tag lemma="BSB" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="BSB" src="auto">X@-------------</AM>
+<AM lemma="BSB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1214-001-p1s4W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1184,7 +1198,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>
@@ -1326,7 +1340,10 @@
 <LM>w#w-wsj1214-001-p1s5W2</LM>
 </w.rf>
 <form>BSB</form>
-<tag lemma="BSB" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="BSB" src="auto">X@-------------</AM>
+<AM lemma="BSB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1214-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>

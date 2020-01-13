@@ -35,6 +35,7 @@
 <AM lemma="Valley_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Valley_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Valley_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Valley-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0171-001-p1s0W3-Ta">
@@ -46,6 +47,7 @@
 <tag>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Federal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0171-001-p1s0W4-Ta">
@@ -54,7 +56,10 @@
 <LM>w#w-wsj0171-001-p1s0W4</LM>
 </w.rf>
 <form>Savings</form>
-<tag lemma="Savings" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Savings" src="auto">X@-------------</AM>
+<AM lemma="Savings-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0171-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -73,6 +78,7 @@
 <tag>
 <AM lemma="Loana_;K" src="auto">NNFP2-----A----</AM>
 <AM lemma="loan_^(půjčka)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Loan-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0171-001-p1s0W7-Ta">
@@ -81,7 +87,10 @@
 <LM>w#w-wsj0171-001-p1s0W7</LM>
 </w.rf>
 <form>Association</form>
-<tag lemma="Association" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Association" src="auto">X@-------------</AM>
+<AM lemma="Association-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0171-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -124,6 +133,7 @@
 <AM lemma="mil_,t_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="milión`1000000_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="míle" src="auto">NNFP2-----A----</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-wsj0171-001-p1s0W12-Ta">
@@ -214,6 +224,7 @@
 <AM lemma="mil_,t_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="milión`1000000_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="míle" src="auto">NNFP2-----A----</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-wsj0171-001-p1s0W19-Ta">
@@ -337,6 +348,7 @@
 <AM lemma="van-1_,a_^(vánek)" src="auto">NNIS4-----A----</AM>
 <AM lemma="van-77_,t" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="vana" src="auto">NNFP2-----A----</AM>
+<AM lemma="Van-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0171-001-p1s1W4-Ta">
@@ -345,7 +357,10 @@
 <LM>w#w-wsj0171-001-p1s1W4</LM>
 </w.rf>
 <form>Nuys</form>
-<tag lemma="Nuys" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Nuys" src="auto">X@-------------</AM>
+<AM lemma="Nuys-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0171-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -829,7 +844,7 @@
 </w.rf>
 <form>což</form>
 <tag>
-<AM lemma="což-1" src="auto">PE--1----------</AM>
+<AM lemma="což-1" src="auto" selected="1">PE--1----------</AM>
 <AM lemma="což-1" src="auto" recommended="1">PE--4----------</AM>
 <AM lemma="což-2_^(cožpak:_což_jsem_to_neříkal?)" src="auto">TT-------------</AM>
 <AM lemma="což-3_^(nu_což,_...;_což_o_to,_...)" src="auto">II-------------</AM>
@@ -1168,6 +1183,7 @@
 <AM lemma="Valley_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Valley_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Valley_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Valley-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0171-001-p1s4W3-Ta">
@@ -1179,6 +1195,7 @@
 <tag>
 <AM lemma="Federal_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Federal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0171-001-p1s4W4-Ta">
@@ -1679,7 +1696,7 @@
 <AM lemma="asociace" src="auto">NNFP1-----A----</AM>
 <AM lemma="asociace" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="asociace" src="auto">NNFP5-----A----</AM>
-<AM lemma="asociace" src="auto">NNFS1-----A----</AM>
+<AM lemma="asociace" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="asociace" src="auto">NNFS2-----A----</AM>
 <AM lemma="asociace" src="auto">NNFS5-----A----</AM>
 </tag>
@@ -1799,6 +1816,7 @@
 <AM lemma="Valley_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Valley_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Valley_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Valley-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0171-001-p1s6W2-Ta">
@@ -1810,6 +1828,7 @@
 <tag>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Federal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0171-001-p1s6W3-Ta">
@@ -1875,6 +1894,7 @@
 <AM lemma="regulátor" src="auto" recommended="1">NNIP7-----A----</AM>
 <AM lemma="regulátor" src="auto">NNMP4-----A----</AM>
 <AM lemma="regulátor" src="auto">NNMP7-----A----</AM>
+<AM lemma="regulátor-2" src="manual" selected="1">NNMP7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0171-001-p1s6W8-Ta">
@@ -2107,6 +2127,7 @@
 <AM lemma="mil_,t_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="milión`1000000_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="míle" src="auto">NNFP2-----A----</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-wsj0171-001-p1s7W13-Ta">
@@ -2153,6 +2174,7 @@
 <AM lemma="mil_,t_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="milión`1000000_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="míle" src="auto">NNFP2-----A----</AM>
+<AM lemma="milión`1000000" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-wsj0171-001-p1s7W18-Ta">
@@ -2292,7 +2314,10 @@
 <LM>w#w-wsj0171-001-p1s8W7</LM>
 </w.rf>
 <form>mld</form>
-<tag lemma="miliarda`1000000000_:B" src="auto" recommended="1">NNFXX-----A---8</tag>
+<tag>
+<AM lemma="miliarda`1000000000_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="miliarda`1000000000" src="manual" selected="1">NNFXX-----A---b</AM>
+</tag>
 </m>
 <m id="m-wsj0171-001-p1s8W8-Ta">
 <src.rf>tagger-a</src.rf>

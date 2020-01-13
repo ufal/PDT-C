@@ -249,6 +249,7 @@
 <AM lemma="Saab_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="saab_;R" src="auto">NNIS1-----A----</AM>
 <AM lemma="saab_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Saab-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1078-001-p1s0W20-Ta">
@@ -268,6 +269,7 @@
 <tag>
 <AM lemma="Scania_;K" src="auto">NNFS1-----A---1</AM>
 <AM lemma="Scania_;K_,t" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Scania-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1078-001-p1s0W22-Ta">
@@ -282,6 +284,7 @@
 <AM lemma="Aba_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="ab-77" src="auto">F%-------------</AM>
 <AM lemma="aba_,t_^(arabský_plášť)" src="auto">NNFP2-----A----</AM>
+<AM lemma="AB-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1078-001-p1s0W23-Ta">
@@ -1872,6 +1875,7 @@
 <AM lemma="Ford-3_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="ford_;R" src="auto">NNIS1-----A----</AM>
 <AM lemma="ford_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Ford-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1078-001-p1s5W51-Ta">
@@ -1883,6 +1887,7 @@
 <tag>
 <AM lemma="motor" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="motor" src="auto">NNIS4-----A----</AM>
+<AM lemma="Motor-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1078-001-p1s5W52-Ta">
@@ -1891,7 +1896,10 @@
 <LM>w#w-wsj1078-001-p1s5W52</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1078-001-p1s5W53-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2049,7 +2057,7 @@
 </w.rf>
 <form>Saab</form>
 <tag>
-<AM lemma="Saab_;K" src="auto">NNIS1-----A----</AM>
+<AM lemma="Saab_;K" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Saab_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="saab_;R" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="saab_;R" src="auto">NNIS4-----A----</AM>

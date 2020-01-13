@@ -27,7 +27,10 @@
 <LM>w#w-wsj1113-001-p1s0W2</LM>
 </w.rf>
 <form>Falcon</form>
-<tag lemma="Falcon_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Falcon_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Falcon-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1113-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -38,6 +41,7 @@
 <tag>
 <AM lemma="holding" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="holding" src="auto">NNIS4-----A----</AM>
+<AM lemma="Holding-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1113-001-p1s0W4-Ta">
@@ -46,7 +50,10 @@
 <LM>w#w-wsj1113-001-p1s0W4</LM>
 </w.rf>
 <form>Group</form>
-<tag lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1113-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -57,6 +64,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1113-001-p1s0W6-Ta">
@@ -243,7 +251,10 @@
 <LM>w#w-wsj1113-001-p1s0W21</LM>
 </w.rf>
 <form>First</form>
-<tag lemma="First" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="First" src="auto">X@-------------</AM>
+<AM lemma="First-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1113-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -257,6 +268,7 @@
 <AM lemma="Carolinum_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Carolinum_;G" src="auto">NNNP5-----A----</AM>
 <AM lemma="Carolinum_;G" src="auto">NNNS2-----A----</AM>
+<AM lemma="Carolina-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1113-001-p1s0W23-Ta">
@@ -265,7 +277,10 @@
 <LM>w#w-wsj1113-001-p1s0W23</LM>
 </w.rf>
 <form>Cable</form>
-<tag lemma="Cable_;K_,t" src="auto" recommended="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Cable_;K_,t" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="Cable-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1113-001-p1s0W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -277,6 +292,8 @@
 <AM lemma="teravolt" src="auto">NNIXX-----A---8</AM>
 <AM lemma="televize_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="televizní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="TV-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="TV-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1113-001-p1s0W25-Ta">
@@ -401,7 +418,7 @@
 <tag>
 <AM lemma="předplatitel" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="předplatitel" src="auto">NNMS2-----A----</AM>
-<AM lemma="předplatitel" src="auto">NNMS4-----A----</AM>
+<AM lemma="předplatitel" src="auto" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1113-001-p1s0W38-Ta">

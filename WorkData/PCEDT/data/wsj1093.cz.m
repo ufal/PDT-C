@@ -27,7 +27,10 @@
 <LM>w#w-wsj1093-001-p1s0W2</LM>
 </w.rf>
 <form>Cie</form>
-<tag lemma="Cie" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Cie" src="auto">X@-------------</AM>
+<AM lemma="Cie-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1093-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -49,6 +52,7 @@
 <AM lemma="Generale-2_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Generale-2_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Generale-2_;Y" src="auto" recommended="1">NNMXX-----A----</AM>
+<AM lemma="Generale-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1093-001-p1s0W5-Ta">
@@ -60,6 +64,7 @@
 <tag>
 <AM lemma="des-77_,t" src="auto">F%-------------</AM>
 <AM lemma="desátník_:B" src="auto" recommended="1">NNMXX-----A---8</AM>
+<AM lemma="des-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1093-001-p1s0W6-Ta">
@@ -68,7 +73,10 @@
 <LM>w#w-wsj1093-001-p1s0W6</LM>
 </w.rf>
 <form>Eaux</form>
-<tag lemma="Eaux" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Eaux" src="auto">X@-------------</AM>
+<AM lemma="Eaux-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1093-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1063,6 +1071,7 @@
 <AM lemma="Generale-2_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Generale-2_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Generale-2_;Y" src="auto">NNMXX-----A----</AM>
+<AM lemma="Generale-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1093-001-p1s3W3-Ta">
@@ -1074,6 +1083,7 @@
 <tag>
 <AM lemma="des-77_,t" src="auto">F%-------------</AM>
 <AM lemma="desátník_:B" src="auto" recommended="1">NNMXX-----A---8</AM>
+<AM lemma="des-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1093-001-p1s3W4-Ta">
@@ -1082,7 +1092,10 @@
 <LM>w#w-wsj1093-001-p1s3W4</LM>
 </w.rf>
 <form>Eaux</form>
-<tag lemma="Eaux" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Eaux" src="auto">X@-------------</AM>
+<AM lemma="Eaux-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1093-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>

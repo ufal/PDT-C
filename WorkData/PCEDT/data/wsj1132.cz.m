@@ -199,7 +199,7 @@
 <AM lemma="zařízený_^(*4dit)" src="auto">AAMP1----1A----</AM>
 <AM lemma="zařízený_^(*4dit)" src="auto">AAMP5----1A----</AM>
 <AM lemma="zařízení_^(*4dit)" src="auto">NNNP1-----A----</AM>
-<AM lemma="zařízení_^(*4dit)" src="auto">NNNP2-----A----</AM>
+<AM lemma="zařízení_^(*4dit)" src="auto" selected="1">NNNP2-----A----</AM>
 <AM lemma="zařízení_^(*4dit)" src="auto">NNNP4-----A----</AM>
 <AM lemma="zařízení_^(*4dit)" src="auto">NNNP5-----A----</AM>
 <AM lemma="zařízení_^(*4dit)" src="auto">NNNS1-----A----</AM>
@@ -430,7 +430,10 @@
 <LM>w#w-wsj1132-001-p1s1W11</LM>
 </w.rf>
 <form>Insilco</form>
-<tag lemma="Insilco" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Insilco" src="auto">X@-------------</AM>
+<AM lemma="Insilco-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1132-001-p1s1W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -438,7 +441,10 @@
 <LM>w#w-wsj1132-001-p1s1W12</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1132-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>

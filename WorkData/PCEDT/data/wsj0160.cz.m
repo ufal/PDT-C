@@ -30,6 +30,7 @@
 <tag>
 <AM lemma="Savin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Savina_;Y" src="auto">NNFP2-----A----</AM>
+<AM lemma="Savin-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0160-001-p1s0W3-Ta">
@@ -38,7 +39,10 @@
 <LM>w#w-wsj0160-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0160-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -133,7 +137,7 @@
 </w.rf>
 <form>rovnou</form>
 <tag>
-<AM lemma="rovný_^(přímý,_stejný,_spravedlivý)" src="auto">AAFS4----1A----</AM>
+<AM lemma="rovný_^(přímý,_stejný,_spravedlivý)" src="auto" selected="1">AAFS4----1A----</AM>
 <AM lemma="rovný_^(přímý,_stejný,_spravedlivý)" src="auto">AAFS7----1A----</AM>
 <AM lemma="rovnou" src="auto" recommended="1">Db-------------</AM>
 </tag>
@@ -379,7 +383,7 @@
 </w.rf>
 <form>cent</form>
 <tag>
-<AM lemma="cent" src="auto">NNIS1-----A----</AM>
+<AM lemma="cent" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="cent" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -962,7 +966,7 @@
 <form>které</form>
 <tag>
 <AM lemma="který" src="auto">P4FP1----------</AM>
-<AM lemma="který" src="auto">P4FP4----------</AM>
+<AM lemma="který" src="auto" selected="1">P4FP4----------</AM>
 <AM lemma="který" src="auto">P4FS2----------</AM>
 <AM lemma="který" src="auto">P4FS3----------</AM>
 <AM lemma="který" src="auto">P4FS6----------</AM>
@@ -1006,7 +1010,7 @@
 <form>neobvyklé</form>
 <tag>
 <AM lemma="obvyklý" src="auto" recommended="1">AAFP1----1N----</AM>
-<AM lemma="obvyklý" src="auto">AAFP4----1N----</AM>
+<AM lemma="obvyklý" src="auto" selected="1">AAFP4----1N----</AM>
 <AM lemma="obvyklý" src="auto">AAFP5----1N----</AM>
 <AM lemma="obvyklý" src="auto">AAFS2----1N----</AM>
 <AM lemma="obvyklý" src="auto">AAFS3----1N----</AM>
@@ -1423,7 +1427,10 @@
 <LM>w#w-wsj0160-001-p1s4W2</LM>
 </w.rf>
 <form>Sivan</form>
-<tag lemma="Sivan" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Sivan" src="auto">X@-------------</AM>
+<AM lemma="Sivan_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0160-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>

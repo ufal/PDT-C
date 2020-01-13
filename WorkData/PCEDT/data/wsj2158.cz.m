@@ -33,6 +33,7 @@
 <AM lemma="californium_;H" src="auto">NNNP4-----A----</AM>
 <AM lemma="californium_;H" src="auto">NNNP5-----A----</AM>
 <AM lemma="californium_;H" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="CALIFORNIA-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2158-001-p1s0W3-Ta">
@@ -46,6 +47,7 @@
 <AM lemma="Real_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="real_^(platidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="real_^(platidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="REAL-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2158-001-p1s0W4-Ta">
@@ -54,7 +56,10 @@
 <LM>w#w-wsj2158-001-p1s0W4</LM>
 </w.rf>
 <form>ESTATE</form>
-<tag lemma="ESTATE" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="ESTATE" src="auto">X@-------------</AM>
+<AM lemma="ESTATE-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2158-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -65,6 +70,7 @@
 <tag>
 <AM lemma="Investment_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Investment_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="INVESTMENT-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2158-001-p1s0W6-Ta">
@@ -73,7 +79,10 @@
 <LM>w#w-wsj2158-001-p1s0W6</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2158-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -291,7 +300,7 @@
 </w.rf>
 <form>A</form>
 <tag>
-<AM lemma="A-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="auto" selected="1">NNNXX-----A----</AM>
 <AM lemma="A-77_^(př._a_la)" src="auto">F%-------------</AM>
 <AM lemma="A-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="ampér" src="auto">NNIXX-----A---8</AM>
@@ -807,7 +816,15 @@
 <LM>w#w-wsj2158-001-p1s1W33</LM>
 </w.rf>
 <form>B.B</form>
-<tag lemma="B.B" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="B.B" src="auto">X@-------------</AM>
+<AM lemma="B.B-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2158-001-p1s1W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -828,6 +845,7 @@
 <AM lemma="Real_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="real_^(platidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="real_^(platidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Real-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2158-001-p1s1W36-Ta">
@@ -836,7 +854,10 @@
 <LM>w#w-wsj2158-001-p1s1W36</LM>
 </w.rf>
 <form>Estate</form>
-<tag lemma="Estate" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Estate" src="auto">X@-------------</AM>
+<AM lemma="Estate-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2158-001-p1s1W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -847,6 +868,7 @@
 <tag>
 <AM lemma="Investment_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Investment_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Investment-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2158-001-p1s1W38-Ta">
@@ -855,7 +877,10 @@
 <LM>w#w-wsj2158-001-p1s1W38</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2158-001-p1s1W39-Ta">
 <src.rf>tagger-a</src.rf>

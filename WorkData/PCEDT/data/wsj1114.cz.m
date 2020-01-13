@@ -49,6 +49,7 @@
 <tag>
 <AM lemma="lock" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="lock" src="auto">NNIS4-----A----</AM>
+<AM lemma="Lock_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1114-001-p1s0W5-Ta">
@@ -147,7 +148,10 @@
 <LM>w#w-wsj1114-001-p1s0W11</LM>
 </w.rf>
 <form>Owens</form>
-<tag lemma="Owens_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Owens_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Owens-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1114-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -170,6 +174,7 @@
 <AM lemma="Illinois" src="auto">NNIS7-----A---1</AM>
 <AM lemma="Illinois_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Illinois_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Illinois-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1114-001-p1s0W14-Ta">
@@ -181,6 +186,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1114-001-p1s0W15-Ta">

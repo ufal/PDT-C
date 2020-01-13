@@ -26,7 +26,7 @@
 <form>Gene</form>
 <tag>
 <AM lemma="Genus_;K" src="auto">NNIS5-----A----</AM>
-<AM lemma="Gene-1_;Y_^(muž)" src="auto">NNMSX-----A----</AM>
+<AM lemma="Gene-1_;Y_^(muž)" src="auto" selected="1">NNMSX-----A----</AM>
 <AM lemma="Gene-2_;Y_^(žena)" src="auto">NNFSX-----A----</AM>
 <AM lemma="gen" src="auto">NNIS5-----A----</AM>
 <AM lemma="genus" src="auto">NNIS5-----A----</AM>
@@ -217,7 +217,7 @@
 <AM lemma="uvolněný_^(*3it)" src="auto">AANP1----1A---6</AM>
 <AM lemma="uvolněný_^(*3it)" src="auto">AANP4----1A---6</AM>
 <AM lemma="uvolněný_^(*3it)" src="auto">AANP5----1A---6</AM>
-<AM lemma="uvolněný_^(*3it)" src="auto">AANS1----1A----</AM>
+<AM lemma="uvolněný_^(*3it)" src="auto" selected="1">AANS1----1A----</AM>
 <AM lemma="uvolněný_^(*3it)" src="auto" recommended="1">AANS4----1A----</AM>
 <AM lemma="uvolněný_^(*3it)" src="auto">AANS5----1A----</AM>
 </tag>
@@ -266,6 +266,7 @@
 <tag>
 <AM lemma="Larkin_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Larkin_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Larkin_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1914-001-p1s0W20-Ta">
@@ -319,7 +320,7 @@
 <tag>
 <AM lemma="taka-1_;L" src="auto">NNFP2-----A----</AM>
 <AM lemma="tak-1" src="auto">TT-------------</AM>
-<AM lemma="tak-2" src="auto">J^-------------</AM>
+<AM lemma="tak-2" src="auto" selected="1">J^-------------</AM>
 <AM lemma="tak-3" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
@@ -819,7 +820,7 @@
 <form>vypsaných</form>
 <tag>
 <AM lemma="vypsaný_^(*2t)" src="auto">AAFP2----1A----</AM>
-<AM lemma="vypsaný_^(*2t)" src="auto">AAFP6----1A----</AM>
+<AM lemma="vypsaný_^(*2t)" src="auto" selected="1">AAFP6----1A----</AM>
 <AM lemma="vypsaný_^(*2t)" src="auto">AAIP2----1A----</AM>
 <AM lemma="vypsaný_^(*2t)" src="auto">AAIP6----1A----</AM>
 <AM lemma="vypsaný_^(*2t)" src="auto" recommended="1">AAMP2----1A----</AM>
@@ -1002,6 +1003,7 @@
 <AM lemma="stupeň_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="středa" src="auto">NNFXX-----A---8</AM>
+<AM lemma="St-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1914-001-p1s2W9-Ta">
@@ -1024,6 +1026,7 @@
 <AM lemma="Louis-2_;G_^(př._St._Louis)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Louis-3_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Louisa_;Y_,t" src="auto">NNFP2-----A----</AM>
+<AM lemma="Louis-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1914-001-p1s2W11-Ta">
@@ -1310,6 +1313,7 @@
 <AM lemma="Trent_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Trent_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Trento_;G" src="auto">NNNP2-----A----</AM>
+<AM lemma="Trent.2_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1914-001-p1s2W34-Ta">
@@ -1424,7 +1428,7 @@
 <tag>
 <AM lemma="jak-1_;L_^(živočich)" src="auto">NNMS1-----A----</AM>
 <AM lemma="jak-2" src="auto" recommended="1">J,-------------</AM>
-<AM lemma="jak-2" src="auto">J^-------------</AM>
+<AM lemma="jak-2" src="auto" selected="1">J^-------------</AM>
 <AM lemma="jak-3" src="auto">Db-------------</AM>
 <AM lemma="jak-99_:B_;S" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -1491,7 +1495,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -1841,7 +1845,7 @@
 </w.rf>
 <form>Přesto</form>
 <tag>
-<AM lemma="přesto-1" src="auto">Db-------------</AM>
+<AM lemma="přesto-1" src="auto" selected="1">Db-------------</AM>
 <AM lemma="přesto-2" src="auto" recommended="1">J^-------------</AM>
 </tag>
 </m>
@@ -1892,7 +1896,7 @@
 <AM lemma="jediný" src="auto">AAIP4----1A---6</AM>
 <AM lemma="jediný" src="auto">AAIP5----1A---6</AM>
 <AM lemma="jediný" src="auto">AAIS1----1A----</AM>
-<AM lemma="jediný" src="auto">AAIS4----1A----</AM>
+<AM lemma="jediný" src="auto" selected="1">AAIS4----1A----</AM>
 <AM lemma="jediný" src="auto">AAIS5----1A----</AM>
 <AM lemma="jediný" src="auto">AAMP1----1A---6</AM>
 <AM lemma="jediný" src="auto">AAMP4----1A---6</AM>

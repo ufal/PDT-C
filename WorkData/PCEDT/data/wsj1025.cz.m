@@ -16,7 +16,10 @@
 <LM>w#w-wsj1025-001-p1s0W1</LM>
 </w.rf>
 <form>Sotheby</form>
-<tag lemma="Sotheby" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Sotheby" src="auto">X@-------------</AM>
+<AM lemma="Sotheby-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1025-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -45,6 +48,7 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1025-001-p1s0W4-Ta">
@@ -53,7 +57,10 @@
 <LM>w#w-wsj1025-001-p1s0W4</LM>
 </w.rf>
 <form>Holdings</form>
-<tag lemma="Holdings" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Holdings" src="auto">X@-------------</AM>
+<AM lemma="Holdings-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1025-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -64,6 +71,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1025-001-p1s0W6-Ta">
@@ -140,7 +148,10 @@
 <LM>w#w-wsj1025-001-p1s0W12</LM>
 </w.rf>
 <form>Sotheby</form>
-<tag lemma="Sotheby" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Sotheby" src="auto">X@-------------</AM>
+<AM lemma="Sotheby-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1025-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -169,6 +180,7 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1025-001-p1s0W15-Ta">

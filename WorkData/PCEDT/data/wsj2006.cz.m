@@ -28,7 +28,7 @@
 </w.rf>
 <form>US</form>
 <tag>
-<AM lemma="US-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="US-88_:B" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 <AM lemma="us-77" src="auto">F%-------------</AM>
 <AM lemma="usus_,s_^(^DD**úzus)" src="auto">NNIS1-----A---2</AM>
 <AM lemma="usus_,s_^(^DD**úzus)" src="auto">NNIS4-----A---2</AM>
@@ -40,7 +40,10 @@
 <LM>w#w-wsj2006-001-p1s0W3</LM>
 </w.rf>
 <form>Facilities</form>
-<tag lemma="Facilities" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Facilities" src="auto">X@-------------</AM>
+<AM lemma="Facilities-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2006-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -48,7 +51,10 @@
 <LM>w#w-wsj2006-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2006-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -549,7 +555,10 @@
 <LM>w#w-wsj2006-001-p1s3W3</LM>
 </w.rf>
 <form>Facilities</form>
-<tag lemma="Facilities" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Facilities" src="auto">X@-------------</AM>
+<AM lemma="Facilities-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2006-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -904,7 +913,10 @@
 <LM>w#w-wsj2006-001-p1s4W10</LM>
 </w.rf>
 <form>Facilities</form>
-<tag lemma="Facilities" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Facilities" src="auto">X@-------------</AM>
+<AM lemma="Facilities-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2006-001-p1s4W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1053,7 +1065,10 @@
 <LM>w#w-wsj2006-001-p1s5W5</LM>
 </w.rf>
 <form>Kadonada</form>
-<tag lemma="Kadonada" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Kadonada" src="auto">X@-------------</AM>
+<AM lemma="Kadonada_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2006-001-p1s5W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1128,7 +1143,10 @@
 <LM>w#w-wsj2006-001-p1s5W12</LM>
 </w.rf>
 <form>Facilities</form>
-<tag lemma="Facilities" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Facilities" src="auto">X@-------------</AM>
+<AM lemma="Facilities-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2006-001-p1s5W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1217,7 +1235,10 @@
 <LM>w#w-wsj2006-001-p1s6W6</LM>
 </w.rf>
 <form>Facilities</form>
-<tag lemma="Facilities" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Facilities" src="auto">X@-------------</AM>
+<AM lemma="Facilities-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2006-001-p1s6W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1470,7 +1491,7 @@
 </w.rf>
 <form>tvoří</form>
 <tag>
-<AM lemma="tvořit" src="auto">VB-P---3P-AAI--</AM>
+<AM lemma="tvořit" src="auto" selected="1">VB-P---3P-AAI--</AM>
 <AM lemma="tvořit" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -1807,7 +1828,10 @@
 <LM>w#w-wsj2006-001-p1s9W9</LM>
 </w.rf>
 <form>Facilities</form>
-<tag lemma="Facilities" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Facilities" src="auto">X@-------------</AM>
+<AM lemma="Facilities-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2006-001-p1s9W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1841,7 +1865,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>

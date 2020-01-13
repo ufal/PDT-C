@@ -32,6 +32,7 @@
 <AM lemma="Liberta_;K" src="auto">NNFP4-----A----</AM>
 <AM lemma="Liberta_;K" src="auto">NNFP5-----A----</AM>
 <AM lemma="Liberta_;K" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Liberty-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0217-001-p1s0W3-Ta">
@@ -40,7 +41,10 @@
 <LM>w#w-wsj0217-001-p1s0W3</LM>
 </w.rf>
 <form>National</form>
-<tag lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="National-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0217-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -48,7 +52,10 @@
 <LM>w#w-wsj0217-001-p1s0W4</LM>
 </w.rf>
 <form>Bancorp</form>
-<tag lemma="Bancorp" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Bancorp" src="auto">X@-------------</AM>
+<AM lemma="Bancorp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0217-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -141,6 +148,7 @@
 <AM lemma="Florence_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Florence_;S" src="auto">NNMXX-----A----</AM>
 <AM lemma="Florence_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Florence-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0217-001-p1s0W12-Ta">
@@ -153,6 +161,7 @@
 <AM lemma="deposit" src="auto">NNIS1-----A----</AM>
 <AM lemma="deposit" src="auto">NNIS4-----A----</AM>
 <AM lemma="depositum_,s_^(^DD**depozitum)" src="auto" recommended="1">NNNP2-----A----</AM>
+<AM lemma="Deposit-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0217-001-p1s0W13-Ta">
@@ -164,7 +173,7 @@
 <tag>
 <AM lemma="Bank_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Bank-77" src="auto">F%-------------</AM>
+<AM lemma="Bank-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="banka" src="auto">NNFP2-----A----</AM>
 <AM lemma="bank" src="auto">NNIS1-----A----</AM>
 <AM lemma="bank" src="auto">NNIS4-----A----</AM>
@@ -418,6 +427,7 @@
 <AM lemma="Liberta_;K" src="auto">NNFP4-----A----</AM>
 <AM lemma="Liberta_;K" src="auto">NNFP5-----A----</AM>
 <AM lemma="Liberta_;K" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Liberty-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0217-001-p1s1W3-Ta">
@@ -426,7 +436,10 @@
 <LM>w#w-wsj0217-001-p1s1W3</LM>
 </w.rf>
 <form>National</form>
-<tag lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="National-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0217-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -579,6 +592,7 @@
 <AM lemma="Florence_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Florence_;S" src="auto">NNMXX-----A----</AM>
 <AM lemma="Florence_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Florence-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0217-001-p1s1W17-Ta">
@@ -591,6 +605,7 @@
 <AM lemma="deposit" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="deposit" src="auto">NNIS4-----A----</AM>
 <AM lemma="depositum_,s_^(^DD**depozitum)" src="auto">NNNP2-----A----</AM>
+<AM lemma="Deposit-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0217-001-p1s1W18-Ta">
@@ -688,6 +703,7 @@
 <AM lemma="Liberta_;K" src="auto">NNFP4-----A----</AM>
 <AM lemma="Liberta_;K" src="auto">NNFP5-----A----</AM>
 <AM lemma="Liberta_;K" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Liberty-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0217-001-p1s2W4-Ta">
@@ -696,7 +712,10 @@
 <LM>w#w-wsj0217-001-p1s2W4</LM>
 </w.rf>
 <form>National</form>
-<tag lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="National-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0217-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>

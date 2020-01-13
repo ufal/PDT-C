@@ -27,7 +27,10 @@
 <LM>w#w-wsj1199-001-p1s0W2</LM>
 </w.rf>
 <form>Apogee</form>
-<tag lemma="Apogee" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Apogee" src="auto">X@-------------</AM>
+<AM lemma="Apogee-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1199-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1199-001-p1s0W3</LM>
 </w.rf>
 <form>Enterprises</form>
-<tag lemma="Enterprises" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Enterprises" src="auto">X@-------------</AM>
+<AM lemma="Enterprises-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1199-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -46,6 +52,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1199-001-p1s0W5-Ta">
@@ -836,7 +843,10 @@
 <LM>w#w-wsj1199-001-p1s2W2</LM>
 </w.rf>
 <form>Apogee</form>
-<tag lemma="Apogee" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Apogee" src="auto">X@-------------</AM>
+<AM lemma="Apogee_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1199-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1151,7 +1161,10 @@
 <LM>w#w-wsj1199-001-p1s3W2</LM>
 </w.rf>
 <form>Apogee</form>
-<tag lemma="Apogee" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Apogee" src="auto">X@-------------</AM>
+<AM lemma="Apogee_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1199-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1212,7 +1225,7 @@
 <form>rozpočet</form>
 <tag>
 <AM lemma="rozpočet" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="rozpočet" src="auto">NNIS4-----A----</AM>
+<AM lemma="rozpočet" src="auto" selected="1">NNIS4-----A----</AM>
 <AM lemma="rozpočíst" src="auto">VmYS------A-P--</AM>
 </tag>
 </m>
@@ -1343,7 +1356,7 @@
 </w.rf>
 <form>proto</form>
 <tag>
-<AM lemma="proto-1_^(proto;_a_proto,_ale_proto,...)" src="auto">J^-------------</AM>
+<AM lemma="proto-1_^(proto;_a_proto,_ale_proto,...)" src="auto" selected="1">J^-------------</AM>
 <AM lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="proto-3" src="auto">TT-------------</AM>
 </tag>
@@ -1457,7 +1470,10 @@
 <LM>w#w-wsj1199-001-p1s3W29</LM>
 </w.rf>
 <form>Apogee</form>
-<tag lemma="Apogee" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Apogee" src="auto">X@-------------</AM>
+<AM lemma="Apogee_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1199-001-p1s3W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1736,7 +1752,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>

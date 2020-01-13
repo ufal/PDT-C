@@ -1617,6 +1617,11 @@
 <AM lemma="muž" src="auto">NNMS2-----A----</AM>
 <AM lemma="muž" src="auto">NNMS4-----A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>může</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2228-001-p1s4W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1937,7 +1942,10 @@
 <LM>w#w-wsj2228-001-p1s5W16</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</tag>
+<tag>
+<AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2228-001-p1s5W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2171,7 +2179,7 @@
 <AM lemma="diplomatický" src="auto">AAFS2----1A----</AM>
 <AM lemma="diplomatický" src="auto">AAFS3----1A----</AM>
 <AM lemma="diplomatický" src="auto">AAFS6----1A----</AM>
-<AM lemma="diplomatický" src="auto">AAIP1----1A----</AM>
+<AM lemma="diplomatický" src="auto" selected="1">AAIP1----1A----</AM>
 <AM lemma="diplomatický" src="auto" recommended="1">AAIP4----1A----</AM>
 <AM lemma="diplomatický" src="auto">AAIP5----1A----</AM>
 <AM lemma="diplomatický" src="auto">AAMP4----1A----</AM>
@@ -2187,7 +2195,7 @@
 </w.rf>
 <form>zdroje</form>
 <tag>
-<AM lemma="zdroj" src="auto">NNIP1-----A----</AM>
+<AM lemma="zdroj" src="auto" selected="1">NNIP1-----A----</AM>
 <AM lemma="zdroj" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="zdroj" src="auto">NNIP5-----A----</AM>
 <AM lemma="zdroj" src="auto">NNIS2-----A----</AM>
@@ -2200,6 +2208,11 @@
 </w.rf>
 <form>uvedli</form>
 <tag lemma="uvést" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<comment>
+<LM type="New Form">
+<text>uvedly</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2228-001-p1s6W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2476,7 +2489,7 @@
 <AM lemma="oddaný_^(*2t)" src="auto">AANP1----1A---6</AM>
 <AM lemma="oddaný_^(*2t)" src="auto">AANP4----1A---6</AM>
 <AM lemma="oddaný_^(*2t)" src="auto">AANP5----1A---6</AM>
-<AM lemma="oddaný_^(*2t)" src="auto">AANS1----1A----</AM>
+<AM lemma="oddaný_^(*2t)" src="auto" selected="1">AANS1----1A----</AM>
 <AM lemma="oddaný_^(*2t)" src="auto">AANS4----1A----</AM>
 <AM lemma="oddaný_^(*2t)" src="auto">AANS5----1A----</AM>
 </tag>

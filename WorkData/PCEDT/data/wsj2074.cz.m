@@ -16,7 +16,10 @@
 <LM>w#w-wsj2074-001-p1s0W1</LM>
 </w.rf>
 <form>MACMILLAN</form>
-<tag lemma="Macmillan_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Macmillan_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="MACMILLAN-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2074-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -24,7 +27,10 @@
 <LM>w#w-wsj2074-001-p1s0W2</LM>
 </w.rf>
 <form>BLOEDEL</form>
-<tag lemma="BLOEDEL" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="BLOEDEL" src="auto">X@-------------</AM>
+<AM lemma="BLOEDEL-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2074-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -32,7 +38,10 @@
 <LM>w#w-wsj2074-001-p1s0W3</LM>
 </w.rf>
 <form>Ltd</form>
-<tag lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Ltd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2074-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -268,7 +277,10 @@
 <LM>w#w-wsj2074-001-p1s1W1</LM>
 </w.rf>
 <form>MacMillan</form>
-<tag lemma="Macmillan_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Macmillan_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="MacMillan-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2074-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -276,7 +288,10 @@
 <LM>w#w-wsj2074-001-p1s1W2</LM>
 </w.rf>
 <form>Bloedel</form>
-<tag lemma="Bloedel" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Bloedel" src="auto">X@-------------</AM>
+<AM lemma="Bloedel-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2074-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -351,6 +366,11 @@
 </w.rf>
 <form>Koumbie</form>
 <tag lemma="Koumbie" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Kolumbie</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2074-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>

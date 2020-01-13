@@ -297,7 +297,7 @@
 </w.rf>
 <form>AM</form>
 <tag>
-<AM lemma="AM-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="AM-88_:B" src="auto" selected="1">NNXXX-----A----</AM>
 <AM lemma="Am-77_,t" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="americium_:B_;H" src="auto">NNNXX-----A---8</AM>
 <AM lemma="am-77" src="auto">F%-------------</AM>
@@ -311,7 +311,7 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="International-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="International_,t" src="auto">NNISX-----A----</AM>
 <AM lemma="international-77_,t" src="auto">F%-------------</AM>
 </tag>
@@ -337,7 +337,7 @@
 </w.rf>
 <form>prezidenta</form>
 <tag>
-<AM lemma="prezident" src="auto">NNMS2-----A----</AM>
+<AM lemma="prezident" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="prezident" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -348,7 +348,7 @@
 </w.rf>
 <form>AM</form>
 <tag>
-<AM lemma="AM-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="AM-88_:B" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 <AM lemma="Am-77_,t" src="auto">F%-------------</AM>
 <AM lemma="americium_:B_;H" src="auto">NNNXX-----A---8</AM>
 <AM lemma="am-77" src="auto">F%-------------</AM>
@@ -361,7 +361,10 @@
 <LM>w#w-wsj2166-001-p1s1W13</LM>
 </w.rf>
 <form>Ventures</form>
-<tag lemma="Ventures" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ventures" src="auto">X@-------------</AM>
+<AM lemma="Ventures-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2166-001-p1s1W14-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1083,7 +1083,7 @@
 <AM lemma="taka-1_;L" src="auto">NNFP2-----A----</AM>
 <AM lemma="tak-1" src="auto">TT-------------</AM>
 <AM lemma="tak-2" src="auto">J^-------------</AM>
-<AM lemma="tak-3" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="tak-3" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0380-001-p1s3W24-Ta">
@@ -1119,7 +1119,7 @@
 <AM lemma="místní" src="auto">AAFS5----1A----</AM>
 <AM lemma="místní" src="auto">AAFS6----1A----</AM>
 <AM lemma="místní" src="auto">AAFS7----1A----</AM>
-<AM lemma="místní" src="auto">AAIP1----1A----</AM>
+<AM lemma="místní" src="auto" selected="1">AAIP1----1A----</AM>
 <AM lemma="místní" src="auto" recommended="1">AAIP4----1A----</AM>
 <AM lemma="místní" src="auto">AAIP5----1A----</AM>
 <AM lemma="místní" src="auto">AAIS1----1A----</AM>
@@ -1155,7 +1155,7 @@
 <AM lemma="prodejní" src="auto">AAFS5----1A----</AM>
 <AM lemma="prodejní" src="auto">AAFS6----1A----</AM>
 <AM lemma="prodejní" src="auto">AAFS7----1A----</AM>
-<AM lemma="prodejní" src="auto">AAIP1----1A----</AM>
+<AM lemma="prodejní" src="auto" selected="1">AAIP1----1A----</AM>
 <AM lemma="prodejní" src="auto" recommended="1">AAIP4----1A----</AM>
 <AM lemma="prodejní" src="auto">AAIP5----1A----</AM>
 <AM lemma="prodejní" src="auto">AAIS1----1A----</AM>
@@ -1183,7 +1183,7 @@
 </w.rf>
 <form>kontrakty</form>
 <tag>
-<AM lemma="kontrakt" src="auto">NNIP1-----A----</AM>
+<AM lemma="kontrakt" src="auto" selected="1">NNIP1-----A----</AM>
 <AM lemma="kontrakt" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="kontrakt" src="auto">NNIP5-----A----</AM>
 <AM lemma="kontrakt" src="auto">NNIP7-----A----</AM>

@@ -27,7 +27,10 @@
 <LM>w#w-wsj0431-001-p1s0W2</LM>
 </w.rf>
 <form>Edison</form>
-<tag lemma="Edison_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Edison_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Edison-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0431-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -36,7 +39,7 @@
 </w.rf>
 <form>Brothers</form>
 <tag>
-<AM lemma="Brothers-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Brothers-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="brothers-77_,t" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -46,7 +49,10 @@
 <LM>w#w-wsj0431-001-p1s0W4</LM>
 </w.rf>
 <form>Stores</form>
-<tag lemma="Stores" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Stores" src="auto">X@-------------</AM>
+<AM lemma="Stores-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0431-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -57,6 +63,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0431-001-p1s0W6-Ta">
@@ -179,7 +186,10 @@
 <LM>w#w-wsj0431-001-p1s0W16</LM>
 </w.rf>
 <form>Foxmoor</form>
-<tag lemma="Foxmoor" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Foxmoor" src="auto">X@-------------</AM>
+<AM lemma="Foxmoor_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0431-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -261,7 +271,10 @@
 <LM>w#w-wsj0431-001-p1s0W22</LM>
 </w.rf>
 <form>Foxmoor</form>
-<tag lemma="Foxmoor" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Foxmoor" src="auto">X@-------------</AM>
+<AM lemma="Foxmoor-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0431-001-p1s0W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -269,7 +282,10 @@
 <LM>w#w-wsj0431-001-p1s0W23</LM>
 </w.rf>
 <form>Specialty</form>
-<tag lemma="Specialty" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Specialty" src="auto">X@-------------</AM>
+<AM lemma="Specialty-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0431-001-p1s0W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -277,7 +293,10 @@
 <LM>w#w-wsj0431-001-p1s0W24</LM>
 </w.rf>
 <form>Stores</form>
-<tag lemma="Stores" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Stores" src="auto">X@-------------</AM>
+<AM lemma="Stores-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0431-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -285,7 +304,10 @@
 <LM>w#w-wsj0431-001-p1s0W25</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0431-001-p1s0W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -313,7 +335,7 @@
 <AM lemma="jednotka" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="jednotka" src="auto">NNFP4-----A----</AM>
 <AM lemma="jednotka" src="auto">NNFP5-----A----</AM>
-<AM lemma="jednotka" src="auto">NNFS2-----A----</AM>
+<AM lemma="jednotka" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0431-001-p1s0W29-Ta">
@@ -338,7 +360,10 @@
 <LM>w#w-wsj0431-001-p1s0W30</LM>
 </w.rf>
 <form>Dylex</form>
-<tag lemma="Dylex" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Dylex" src="auto">X@-------------</AM>
+<AM lemma="Dylex-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0431-001-p1s0W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -346,7 +371,10 @@
 <LM>w#w-wsj0431-001-p1s0W31</LM>
 </w.rf>
 <form>Ltd</form>
-<tag lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Ltd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0431-001-p1s0W32-Ta">
 <src.rf>tagger-a</src.rf>

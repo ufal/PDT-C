@@ -400,7 +400,7 @@
 <AM lemma="prodejní" src="auto">AAFS1----1A----</AM>
 <AM lemma="prodejní" src="auto">AAFS2----1A----</AM>
 <AM lemma="prodejní" src="auto">AAFS3----1A----</AM>
-<AM lemma="prodejní" src="auto">AAFS4----1A----</AM>
+<AM lemma="prodejní" src="auto" selected="1">AAFS4----1A----</AM>
 <AM lemma="prodejní" src="auto">AAFS5----1A----</AM>
 <AM lemma="prodejní" src="auto">AAFS6----1A----</AM>
 <AM lemma="prodejní" src="auto">AAFS7----1A----</AM>
@@ -575,7 +575,7 @@
 <AM lemma="malý" src="auto">AAFP1----3A----</AM>
 <AM lemma="malý" src="auto">AAFP4----3A----</AM>
 <AM lemma="malý" src="auto">AAFP5----3A----</AM>
-<AM lemma="malý" src="auto">AAFS1----3A----</AM>
+<AM lemma="malý" src="auto" selected="1">AAFS1----3A----</AM>
 <AM lemma="malý" src="auto">AAFS2----3A----</AM>
 <AM lemma="malý" src="auto">AAFS3----3A----</AM>
 <AM lemma="malý" src="auto">AAFS4----3A----</AM>

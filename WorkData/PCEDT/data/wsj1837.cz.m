@@ -30,7 +30,7 @@
 <tag>
 <AM lemma="Bank_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Bank-77" src="auto">F%-------------</AM>
+<AM lemma="Bank-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="banka" src="auto">NNFP2-----A----</AM>
 <AM lemma="bank" src="auto">NNIS1-----A----</AM>
 <AM lemma="bank" src="auto">NNIS4-----A----</AM>
@@ -43,7 +43,10 @@
 <LM>w#w-wsj1837-001-p1s0W3</LM>
 </w.rf>
 <form>Building</form>
-<tag lemma="Building" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Building" src="auto">X@-------------</AM>
+<AM lemma="Building-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1837-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -59,7 +62,10 @@
 <LM>w#w-wsj1837-001-p1s0W5</LM>
 </w.rf>
 <form>Equipment</form>
-<tag lemma="Equipment" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Equipment" src="auto">X@-------------</AM>
+<AM lemma="Equipment-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1837-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -67,7 +73,10 @@
 <LM>w#w-wsj1837-001-p1s0W6</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1837-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -83,7 +92,10 @@
 <LM>w#w-wsj1837-001-p1s0W8</LM>
 </w.rf>
 <form>of</form>
-<tag lemma="of-77_,t" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="of-77_,t" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="of-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1837-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -95,6 +107,7 @@
 <AM lemma="Amerika_;G" src="auto" recommended="1">NNFS1-----A---1</AM>
 <AM lemma="Americo_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Americo_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="America-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1837-001-p1s0W10-Ta">
@@ -547,7 +560,7 @@
 <tag>
 <AM lemma="obrat-2_^(okrást;_vyčistit)" src="auto">Vf--------A-P--</AM>
 <AM lemma="obrat-1_^(z_prodeje_zboží)" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="obrat-1_^(z_prodeje_zboží)" src="auto">NNIS4-----A----</AM>
+<AM lemma="obrat-1_^(z_prodeje_zboží)" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1837-001-p1s0W49-Ta">
@@ -596,7 +609,7 @@
 <tag>
 <AM lemma="Bank_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Bank-77" src="auto">F%-------------</AM>
+<AM lemma="Bank-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="banka" src="auto">NNFP2-----A----</AM>
 <AM lemma="bank" src="auto">NNIS1-----A----</AM>
 <AM lemma="bank" src="auto">NNIS4-----A----</AM>
@@ -609,7 +622,10 @@
 <LM>w#w-wsj1837-001-p1s1W3</LM>
 </w.rf>
 <form>Building</form>
-<tag lemma="Building" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Building" src="auto">X@-------------</AM>
+<AM lemma="Building-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1837-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -761,7 +777,7 @@
 <AM lemma="první" src="auto" recommended="1">CrMS1----------</AM>
 <AM lemma="první" src="auto">CrMS5----------</AM>
 <AM lemma="první" src="auto">CrNP1----------</AM>
-<AM lemma="první" src="auto">CrNP4----------</AM>
+<AM lemma="první" src="auto" selected="1">CrNP4----------</AM>
 <AM lemma="první" src="auto">CrNP5----------</AM>
 <AM lemma="první" src="auto">CrNS1----------</AM>
 <AM lemma="první" src="auto">CrNS4----------</AM>
@@ -793,7 +809,7 @@
 <AM lemma="čtvrtletý" src="auto">AAMP5----1A----</AM>
 <AM lemma="čtvrtletí" src="auto">NNNP1-----A----</AM>
 <AM lemma="čtvrtletí" src="auto">NNNP2-----A----</AM>
-<AM lemma="čtvrtletí" src="auto">NNNP4-----A----</AM>
+<AM lemma="čtvrtletí" src="auto" selected="1">NNNP4-----A----</AM>
 <AM lemma="čtvrtletí" src="auto">NNNP5-----A----</AM>
 <AM lemma="čtvrtletí" src="auto">NNNS1-----A----</AM>
 <AM lemma="čtvrtletí" src="auto">NNNS2-----A----</AM>
@@ -947,7 +963,7 @@
 </w.rf>
 <form>říjnu</form>
 <tag>
-<AM lemma="říjen" src="auto">NNIS3-----A----</AM>
+<AM lemma="říjen" src="auto" selected="1">NNIS3-----A----</AM>
 <AM lemma="říjen" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>
@@ -1523,7 +1539,7 @@
 <tag>
 <AM lemma="Bank_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Bank-77" src="auto">F%-------------</AM>
+<AM lemma="Bank-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="banka" src="auto">NNFP2-----A----</AM>
 <AM lemma="bank" src="auto">NNIS1-----A----</AM>
 <AM lemma="bank" src="auto">NNIS4-----A----</AM>
@@ -1536,7 +1552,10 @@
 <LM>w#w-wsj1837-001-p1s4W14</LM>
 </w.rf>
 <form>Building</form>
-<tag lemma="Building" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Building" src="auto">X@-------------</AM>
+<AM lemma="Building-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1837-001-p1s4W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1667,7 +1686,7 @@
 <tag>
 <AM lemma="Bank_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Bank-77" src="auto">F%-------------</AM>
+<AM lemma="Bank-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="banka" src="auto">NNFP2-----A----</AM>
 <AM lemma="bank" src="auto">NNIS1-----A----</AM>
 <AM lemma="bank" src="auto">NNIS4-----A----</AM>
@@ -1680,7 +1699,10 @@
 <LM>w#w-wsj1837-001-p1s5W3</LM>
 </w.rf>
 <form>Building</form>
-<tag lemma="Building" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Building" src="auto">X@-------------</AM>
+<AM lemma="Building-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1837-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2177,7 +2199,7 @@
 <tag>
 <AM lemma="taka-1_;L" src="auto">NNFP2-----A----</AM>
 <AM lemma="tak-1" src="auto">TT-------------</AM>
-<AM lemma="tak-2" src="auto">J^-------------</AM>
+<AM lemma="tak-2" src="auto" selected="1">J^-------------</AM>
 <AM lemma="tak-3" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
@@ -2316,7 +2338,7 @@
 <tag>
 <AM lemma="Bank_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Bank-77" src="auto">F%-------------</AM>
+<AM lemma="Bank-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="banka" src="auto">NNFP2-----A----</AM>
 <AM lemma="bank" src="auto">NNIS1-----A----</AM>
 <AM lemma="bank" src="auto">NNIS4-----A----</AM>
@@ -2329,7 +2351,10 @@
 <LM>w#w-wsj1837-001-p1s7W3</LM>
 </w.rf>
 <form>Building</form>
-<tag lemma="Building" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Building" src="auto">X@-------------</AM>
+<AM lemma="Building-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1837-001-p1s7W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2593,7 +2618,10 @@
 <LM>w#w-wsj1837-001-p1s7W25</LM>
 </w.rf>
 <form>Loughman</form>
-<tag lemma="Loughman" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Loughman" src="auto">X@-------------</AM>
+<AM lemma="Loughman-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1837-001-p1s7W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2604,6 +2632,7 @@
 <tag>
 <AM lemma="Cabinet_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Cabinet_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Cabinet-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1837-001-p1s7W27-Ta">
@@ -2821,7 +2850,7 @@
 <tag>
 <AM lemma="Bank_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Bank-77" src="auto">F%-------------</AM>
+<AM lemma="Bank-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="banka" src="auto">NNFP2-----A----</AM>
 <AM lemma="bank" src="auto">NNIS1-----A----</AM>
 <AM lemma="bank" src="auto">NNIS4-----A----</AM>
@@ -2834,7 +2863,10 @@
 <LM>w#w-wsj1837-001-p1s9W11</LM>
 </w.rf>
 <form>Building</form>
-<tag lemma="Building" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Building" src="auto">X@-------------</AM>
+<AM lemma="Building-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1837-001-p1s9W12-Ta">
 <src.rf>tagger-a</src.rf>

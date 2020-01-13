@@ -225,7 +225,7 @@
 </w.rf>
 <form>patří</form>
 <tag>
-<AM lemma="patřit" src="auto">VB-P---3P-AAI--</AM>
+<AM lemma="patřit" src="auto" selected="1">VB-P---3P-AAI--</AM>
 <AM lemma="patřit" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -591,7 +591,7 @@
 <AM lemma="vysoký" src="auto">AAFP5----2A----</AM>
 <AM lemma="vysoký" src="auto">AAFS1----2A----</AM>
 <AM lemma="vysoký" src="auto">AAFS2----2A----</AM>
-<AM lemma="vysoký" src="auto">AAFS3----2A----</AM>
+<AM lemma="vysoký" src="auto" selected="1">AAFS3----2A----</AM>
 <AM lemma="vysoký" src="auto">AAFS4----2A----</AM>
 <AM lemma="vysoký" src="auto">AAFS5----2A----</AM>
 <AM lemma="vysoký" src="auto">AAFS6----2A----</AM>
@@ -626,7 +626,7 @@
 <AM lemma="rychlost_^(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="rychlost_^(*3ý)" src="auto">NNFP5-----A----</AM>
 <AM lemma="rychlost_^(*3ý)" src="auto">NNFS2-----A----</AM>
-<AM lemma="rychlost_^(*3ý)" src="auto">NNFS3-----A----</AM>
+<AM lemma="rychlost_^(*3ý)" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="rychlost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="rychlost_^(*3ý)" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -651,7 +651,7 @@
 <AM lemma="dobrý" src="auto">AAFP5----2A----</AM>
 <AM lemma="dobrý" src="auto">AAFS1----2A----</AM>
 <AM lemma="dobrý" src="auto">AAFS2----2A----</AM>
-<AM lemma="dobrý" src="auto">AAFS3----2A----</AM>
+<AM lemma="dobrý" src="auto" selected="1">AAFS3----2A----</AM>
 <AM lemma="dobrý" src="auto">AAFS4----2A----</AM>
 <AM lemma="dobrý" src="auto">AAFS5----2A----</AM>
 <AM lemma="dobrý" src="auto">AAFS6----2A----</AM>
@@ -714,7 +714,7 @@
 <AM lemma="velký" src="auto">AAFP5----2A----</AM>
 <AM lemma="velký" src="auto">AAFS1----2A----</AM>
 <AM lemma="velký" src="auto">AAFS2----2A----</AM>
-<AM lemma="velký" src="auto">AAFS3----2A----</AM>
+<AM lemma="velký" src="auto" selected="1">AAFS3----2A----</AM>
 <AM lemma="velký" src="auto">AAFS4----2A----</AM>
 <AM lemma="velký" src="auto">AAFS5----2A----</AM>
 <AM lemma="velký" src="auto">AAFS6----2A----</AM>
@@ -754,7 +754,7 @@
 <AM lemma="paměť" src="auto">NNFP4-----A----</AM>
 <AM lemma="paměť" src="auto">NNFP5-----A----</AM>
 <AM lemma="paměť" src="auto">NNFS2-----A----</AM>
-<AM lemma="paměť" src="auto">NNFS3-----A----</AM>
+<AM lemma="paměť" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="paměť" src="auto">NNFS5-----A----</AM>
 <AM lemma="paměť" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -858,6 +858,7 @@
 <tag>
 <AM lemma="Bern_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Bern_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Bern-2_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0594-001-p1s3W3-Ta">
@@ -866,7 +867,10 @@
 <LM>w#w-wsj0594-001-p1s3W3</LM>
 </w.rf>
 <form>Sharfman</form>
-<tag lemma="Sharfman" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Sharfman" src="auto">X@-------------</AM>
+<AM lemma="Sharfman_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0594-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1219,7 +1223,10 @@
 <LM>w#w-wsj0594-001-p1s6W2</LM>
 </w.rf>
 <form>Ralph</form>
-<tag lemma="Ralph_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Ralph_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Ralph_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0594-001-p1s6W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1245,7 +1252,11 @@
 <LM>w#w-wsj0594-001-p1s7W1</LM>
 </w.rf>
 <form>Devtipnice</form>
-<tag lemma="Devtipnice" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Devtipnice" src="auto">X@-------------</AM>
+<AM lemma="devtipnce_,h" src="manual">NNFS1-----A----</AM>
+<AM lemma="devtipnice_,h" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-wsj0594-001-p1s8">
@@ -1317,7 +1328,7 @@
 <AM lemma="desatero" src="auto">NNNP1-----A----</AM>
 <AM lemma="desatero" src="auto">NNNP4-----A----</AM>
 <AM lemma="desatero" src="auto">NNNP5-----A----</AM>
-<AM lemma="desatero" src="auto">NNNS2-----A----</AM>
+<AM lemma="desatero" src="auto" selected="1">NNNS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0594-001-p1s8W7-Ta">

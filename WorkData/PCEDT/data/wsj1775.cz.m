@@ -27,7 +27,10 @@
 <LM>w#w-wsj1775-001-p1s0W2</LM>
 </w.rf>
 <form>Control</form>
-<tag lemma="Control" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Control" src="auto">X@-------------</AM>
+<AM lemma="Control-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1775-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,6 +46,7 @@
 <AM lemma="datum_^(kalendářní)" src="auto">NNNP4-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNP5-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="Data-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1775-001-p1s0W4-Ta">
@@ -51,7 +55,10 @@
 <LM>w#w-wsj1775-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1775-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -100,7 +107,7 @@
 <AM lemma="mezinárodní" src="auto">AAFP5----1A----</AM>
 <AM lemma="mezinárodní" src="auto">AAFS1----1A----</AM>
 <AM lemma="mezinárodní" src="auto">AAFS2----1A----</AM>
-<AM lemma="mezinárodní" src="auto">AAFS3----1A----</AM>
+<AM lemma="mezinárodní" src="auto" selected="1">AAFS3----1A----</AM>
 <AM lemma="mezinárodní" src="auto" recommended="1">AAFS4----1A----</AM>
 <AM lemma="mezinárodní" src="auto">AAFS5----1A----</AM>
 <AM lemma="mezinárodní" src="auto">AAFS6----1A----</AM>
@@ -131,7 +138,7 @@
 </w.rf>
 <form>asociaci</form>
 <tag>
-<AM lemma="asociace" src="auto">NNFS3-----A----</AM>
+<AM lemma="asociace" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="asociace" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="asociace" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -837,7 +844,10 @@
 <LM>w#w-wsj1775-001-p1s3W2</LM>
 </w.rf>
 <form>Control</form>
-<tag lemma="Control" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Control" src="auto">X@-------------</AM>
+<AM lemma="Control-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1775-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -853,6 +863,7 @@
 <AM lemma="datum_^(kalendářní)" src="auto">NNNP4-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNP5-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="Data-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1775-001-p1s3W4-Ta">
@@ -1113,7 +1124,7 @@
 <form>jak</form>
 <tag>
 <AM lemma="jak-1_;L_^(živočich)" src="auto">NNMS1-----A----</AM>
-<AM lemma="jak-2" src="auto">J,-------------</AM>
+<AM lemma="jak-2" src="auto" selected="1">J,-------------</AM>
 <AM lemma="jak-2" src="auto">J^-------------</AM>
 <AM lemma="jak-3" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="jak-99_:B_;S" src="auto">NNXXX-----A----</AM>
@@ -1160,7 +1171,7 @@
 <form>nabízené</form>
 <tag>
 <AM lemma="nabízený_^(*2t)" src="auto">AAFP1----1A----</AM>
-<AM lemma="nabízený_^(*2t)" src="auto">AAFP4----1A----</AM>
+<AM lemma="nabízený_^(*2t)" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="nabízený_^(*2t)" src="auto">AAFP5----1A----</AM>
 <AM lemma="nabízený_^(*2t)" src="auto" recommended="1">AAFS2----1A----</AM>
 <AM lemma="nabízený_^(*2t)" src="auto">AAFS3----1A----</AM>
@@ -1185,7 +1196,7 @@
 <form>konkurencí</form>
 <tag>
 <AM lemma="konkurence" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="konkurence" src="auto">NNFS7-----A----</AM>
+<AM lemma="konkurence" src="auto" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1775-001-p1s4W15-Ta">
@@ -1204,7 +1215,7 @@
 <form>jak</form>
 <tag>
 <AM lemma="jak-1_;L_^(živočich)" src="auto">NNMS1-----A----</AM>
-<AM lemma="jak-2" src="auto">J,-------------</AM>
+<AM lemma="jak-2" src="auto" selected="1">J,-------------</AM>
 <AM lemma="jak-2" src="auto">J^-------------</AM>
 <AM lemma="jak-3" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="jak-99_:B_;S" src="auto">NNXXX-----A----</AM>

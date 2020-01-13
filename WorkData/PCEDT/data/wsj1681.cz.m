@@ -32,6 +32,7 @@
 <AM lemma="Santa-3_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Santo_;G_^(Santo_Domingo)" src="auto">NNNS2-----A----</AM>
 <AM lemma="Santa-1_,t_^(Santa_Claus)" src="auto">AAXXX----1A----</AM>
+<AM lemma="SANTA-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1681-001-p1s0W3-Ta">
@@ -40,7 +41,10 @@
 <LM>w#w-wsj1681-001-p1s0W3</LM>
 </w.rf>
 <form>FE</form>
-<tag lemma="ferrum_:B_;H_,t" src="auto" recommended="1">NNNXX-----A---8</tag>
+<tag>
+<AM lemma="ferrum_:B_;H_,t" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="FE-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1681-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -51,6 +55,7 @@
 <tag>
 <AM lemma="Pacifik_;G_,t" src="auto" recommended="1">NNIS1-----A---1</AM>
 <AM lemma="Pacifik_;G_,t" src="auto">NNIS4-----A---1</AM>
+<AM lemma="PACIFIC-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1681-001-p1s0W5-Ta">
@@ -59,7 +64,10 @@
 <LM>w#w-wsj1681-001-p1s0W5</LM>
 </w.rf>
 <form>PIPELINE</form>
-<tag lemma="PIPELINE" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="PIPELINE" src="auto">X@-------------</AM>
+<AM lemma="PIPELINE-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1681-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -67,7 +75,10 @@
 <LM>w#w-wsj1681-001-p1s0W6</LM>
 </w.rf>
 <form>PARTNERS</form>
-<tag lemma="PARTNERS" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="PARTNERS" src="auto">X@-------------</AM>
+<AM lemma="PARTNERS-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1681-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -664,7 +675,7 @@
 <form>šest</form>
 <tag>
 <AM lemma="šest`6" src="auto" recommended="1">Cn-S1----------</AM>
-<AM lemma="šest`6" src="auto">Cn-S4----------</AM>
+<AM lemma="šest`6" src="auto" selected="1">Cn-S4----------</AM>
 <AM lemma="šest`6" src="auto">Cn-S5----------</AM>
 </tag>
 </m>

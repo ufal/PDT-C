@@ -323,7 +323,7 @@
 <form>Donu</form>
 <tag>
 <AM lemma="Don-1_;Y" src="auto">NNMS3-----A---1</AM>
-<AM lemma="Don-1_;Y" src="auto">NNMS6-----A---1</AM>
+<AM lemma="Don-1_;Y" src="auto" selected="1">NNMS6-----A---1</AM>
 <AM lemma="Don-2_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Don-2_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Don-2_;G" src="auto" recommended="1">NNIS6-----A----</AM>
@@ -337,7 +337,10 @@
 <LM>w#w-wsj1972-001-p1s1W7</LM>
 </w.rf>
 <form>Freebergovi</form>
-<tag lemma="Freebergovi" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Freebergovi" src="auto">X@-------------</AM>
+<AM lemma="Freeberg_;S" src="manual" selected="1">NNMS6-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1972-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>

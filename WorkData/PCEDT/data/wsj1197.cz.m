@@ -167,7 +167,7 @@
 <tag>
 <AM lemma="loňský" src="auto" recommended="1">AAFP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAFP6----1A----</AM>
-<AM lemma="loňský" src="auto">AAIP2----1A----</AM>
+<AM lemma="loňský" src="auto" selected="1">AAIP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAIP6----1A----</AM>
 <AM lemma="loňský" src="auto">AAMP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAMP6----1A----</AM>
@@ -333,7 +333,7 @@
 <form>dva</form>
 <tag>
 <AM lemma="dva`2" src="auto" recommended="1">ClYP1----------</AM>
-<AM lemma="dva`2" src="auto">ClYP4----------</AM>
+<AM lemma="dva`2" src="auto" selected="1">ClYP4----------</AM>
 <AM lemma="dva`2" src="auto">ClYP5----------</AM>
 </tag>
 </m>
@@ -345,7 +345,7 @@
 <form>centy</form>
 <tag>
 <AM lemma="cent" src="auto" recommended="1">NNIP1-----A----</AM>
-<AM lemma="cent" src="auto">NNIP4-----A----</AM>
+<AM lemma="cent" src="auto" selected="1">NNIP4-----A----</AM>
 <AM lemma="cent" src="auto">NNIP5-----A----</AM>
 <AM lemma="cent" src="auto">NNIP7-----A----</AM>
 </tag>
@@ -407,7 +407,10 @@
 <LM>w#w-wsj1197-001-p1s0W35</LM>
 </w.rf>
 <form>Homestake</form>
-<tag lemma="Homestake" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Homestake" src="auto">X@-------------</AM>
+<AM lemma="Homestake-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1197-001-p1s0W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -415,7 +418,10 @@
 <LM>w#w-wsj1197-001-p1s0W36</LM>
 </w.rf>
 <form>Mining</form>
-<tag lemma="Mining" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Mining" src="auto">X@-------------</AM>
+<AM lemma="Mining-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1197-001-p1s0W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -431,6 +437,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1197-001-p1s0W38-Ta">
@@ -849,7 +856,10 @@
 <LM>w#w-wsj1197-001-p1s2W11</LM>
 </w.rf>
 <form>Homestake</form>
-<tag lemma="Homestake" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Homestake" src="auto">X@-------------</AM>
+<AM lemma="Homestake_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1197-001-p1s2W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -859,7 +869,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>
@@ -1600,7 +1610,7 @@
 <tag>
 <AM lemma="vzrůst-2" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="vzrůst-2" src="auto">NNIS3-----A----</AM>
-<AM lemma="vzrůst-2" src="auto">NNIS6-----A----</AM>
+<AM lemma="vzrůst-2" src="auto" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1197-001-p1s4W12-Ta">

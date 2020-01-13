@@ -30,6 +30,7 @@
 <tag>
 <AM lemma="Cetus_;G_^(souhvězdí_Velryba)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Cetus_;G_^(souhvězdí_Velryba)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Cetus-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0460-001-p1s0W3-Ta">
@@ -38,7 +39,10 @@
 <LM>w#w-wsj0460-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0460-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -148,7 +152,10 @@
 <LM>w#w-wsj0460-001-p1s0W14</LM>
 </w.rf>
 <form>Proleukin</form>
-<tag lemma="Proleukin" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Proleukin" src="auto">X@-------------</AM>
+<AM lemma="Proleukin-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0460-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -159,6 +166,7 @@
 <tag>
 <AM lemma="interleukin" src="auto">NNIS1-----A----</AM>
 <AM lemma="interleukin" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="interleukin-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0460-001-p1s0W16-Ta">
@@ -461,7 +469,7 @@
 <AM lemma="schválení_^(*3it)" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="schválení_^(*3it)" src="auto">NNNS2-----A----</AM>
 <AM lemma="schválení_^(*3it)" src="auto">NNNS3-----A----</AM>
-<AM lemma="schválení_^(*3it)" src="auto">NNNS4-----A----</AM>
+<AM lemma="schválení_^(*3it)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="schválení_^(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="schválení_^(*3it)" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -531,7 +539,7 @@
 <form>Lék</form>
 <tag>
 <AM lemma="lék" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="lék" src="auto">NNIS4-----A----</AM>
+<AM lemma="lék" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0460-001-p1s2W2-Ta">
@@ -540,7 +548,11 @@
 <LM>w#w-wsj0460-001-p1s2W2</LM>
 </w.rf>
 <form>Proleukin</form>
-<tag lemma="Proleukin" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Proleukin" src="auto">X@-------------</AM>
+<AM lemma="Proleukin_;U" src="manual">NNIS1-----A----</AM>
+<AM lemma="Proleukin_;U" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0460-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -704,6 +716,7 @@
 <tag>
 <AM lemma="Cetus_;G_^(souhvězdí_Velryba)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Cetus_;G_^(souhvězdí_Velryba)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Cetus_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0460-001-p1s3W3-Ta">

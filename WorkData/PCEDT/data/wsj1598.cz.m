@@ -27,7 +27,10 @@
 <LM>w#w-wsj1598-001-p1s0W2</LM>
 </w.rf>
 <form>USACafes</form>
-<tag lemma="USACafes" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="USACafes" src="auto">X@-------------</AM>
+<AM lemma="USACafes-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1598-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -48,6 +51,8 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
+<AM lemma="s-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-wsj1598-001-p1s0W4-Ta">
@@ -68,6 +73,7 @@
 <AM lemma="r-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="r-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="rok_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="ručení" src="manual" selected="1">NNNS7-----A---b</AM>
 </tag>
 </m>
 <m id="m-wsj1598-001-p1s0W6-Ta">
@@ -91,6 +97,7 @@
 <AM lemma="o-77_,t" src="auto">F%-------------</AM>
 <AM lemma="o-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="obchodní_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM>
+<AM lemma="omezený_^(*3it)" src="manual" selected="1">AANS7----1A---b</AM>
 </tag>
 </m>
 <m id="m-wsj1598-001-p1s0W8-Ta">
@@ -204,7 +211,10 @@
 <LM>w#w-wsj1598-001-p1s0W18</LM>
 </w.rf>
 <form>Bonanza</form>
-<tag lemma="bonanza" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="bonanza" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Bonanza_;R" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1598-001-p1s0W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -239,7 +249,10 @@
 <LM>w#w-wsj1598-001-p1s0W21</LM>
 </w.rf>
 <form>Metromedia</form>
-<tag lemma="Metromedia" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Metromedia" src="auto">X@-------------</AM>
+<AM lemma="Metromedia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1598-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -255,6 +268,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1598-001-p1s0W23-Ta">
@@ -358,7 +372,10 @@
 <LM>w#w-wsj1598-001-p1s1W2</LM>
 </w.rf>
 <form>USACafes</form>
-<tag lemma="USACafes" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="USACafes" src="auto">X@-------------</AM>
+<AM lemma="USACafes_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1598-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -457,7 +474,7 @@
 </w.rf>
 <form>Sam</form>
 <tag>
-<AM lemma="Sam_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Sam_;Y" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="sam-2_;Y_^(v_korejských_jménech,_např._Kim_Jong-sam)" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="samostatný_:B" src="auto">AAXXX----1A---8</AM>
 </tag>
@@ -490,7 +507,10 @@
 <LM>w#w-wsj1598-001-p1s1W12</LM>
 </w.rf>
 <form>Wylyovi</form>
-<tag lemma="Wylyovi" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Wylyovi" src="auto">X@-------------</AM>
+<AM lemma="Wylyův_;S_^(*2)" src="manual" selected="1">AUMP1M---------</AM>
+</tag>
 </m>
 <m id="m-wsj1598-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -559,7 +579,7 @@
 <form>výtěžek</form>
 <tag>
 <AM lemma="výtěžek" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="výtěžek" src="auto">NNIS4-----A----</AM>
+<AM lemma="výtěžek" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1598-001-p1s1W20-Ta">
@@ -749,7 +769,10 @@
 <LM>w#w-wsj1598-001-p1s2W3</LM>
 </w.rf>
 <form>Bonanza</form>
-<tag lemma="bonanza" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="bonanza" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Bonanza_;R" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1598-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1147,7 +1170,10 @@
 <LM>w#w-wsj1598-001-p1s3W21</LM>
 </w.rf>
 <form>USACafes</form>
-<tag lemma="USACafes" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="USACafes" src="auto">X@-------------</AM>
+<AM lemma="USACafes_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1598-001-p1s3W22-Ta">
 <src.rf>tagger-a</src.rf>

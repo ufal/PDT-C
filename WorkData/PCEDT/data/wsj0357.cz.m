@@ -27,7 +27,10 @@
 <LM>w#w-wsj0357-001-p1s0W2</LM>
 </w.rf>
 <form>Fujitsu</form>
-<tag lemma="Fujitsu_;K" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Fujitsu_;K" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Fujitsu-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0357-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj0357-001-p1s0W3</LM>
 </w.rf>
 <form>Ltd</form>
-<tag lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Ltd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0357-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -951,7 +957,7 @@
 </w.rf>
 <form>osm</form>
 <tag>
-<AM lemma="osm`8" src="auto">Cn-S1----------</AM>
+<AM lemma="osm`8" src="auto" selected="1">Cn-S1----------</AM>
 <AM lemma="osm`8" src="auto" recommended="1">Cn-S4----------</AM>
 <AM lemma="osm`8" src="auto">Cn-S5----------</AM>
 </tag>

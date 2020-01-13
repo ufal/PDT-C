@@ -31,6 +31,7 @@
 <AM lemma="interface_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="interface_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="interface_,t" src="auto">NNISX-----A----</AM>
+<AM lemma="Interface-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0497-001-p1s0W3-Ta">
@@ -39,7 +40,10 @@
 <LM>w#w-wsj0497-001-p1s0W3</LM>
 </w.rf>
 <form>Systems</form>
-<tag lemma="Systems" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Systems" src="auto">X@-------------</AM>
+<AM lemma="Systems-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0497-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -50,6 +54,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0497-001-p1s0W5-Ta">
@@ -94,6 +99,7 @@
 <tag>
 <AM lemma="Ann_;Y" src="auto" recommended="1">NNFSX-----A----</AM>
 <AM lemma="Anna_;Y" src="auto">NNFP2-----A----</AM>
+<AM lemma="Ann-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0497-001-p1s0W9-Ta">
@@ -105,6 +111,7 @@
 <tag>
 <AM lemma="Arbor_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="arbor_;L_,t" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="Arbor-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0497-001-p1s0W10-Ta">
@@ -608,7 +615,10 @@
 <LM>w#w-wsj0497-001-p1s1W5</LM>
 </w.rf>
 <form>Bixby</form>
-<tag lemma="Bixby" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Bixby" src="auto">X@-------------</AM>
+<AM lemma="Bixby_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0497-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1180,7 +1190,7 @@
 <AM lemma="nízký" src="auto">AAFS5----2A----</AM>
 <AM lemma="nízký" src="auto">AAFS6----2A----</AM>
 <AM lemma="nízký" src="auto">AAFS7----2A----</AM>
-<AM lemma="nízký" src="auto">AAIP1----2A----</AM>
+<AM lemma="nízký" src="auto" selected="1">AAIP1----2A----</AM>
 <AM lemma="nízký" src="auto">AAIP4----2A----</AM>
 <AM lemma="nízký" src="auto">AAIP5----2A----</AM>
 <AM lemma="nízký" src="auto">AAIS1----2A----</AM>
@@ -1681,7 +1691,10 @@
 <LM>w#w-wsj0497-001-p1s4W4</LM>
 </w.rf>
 <form>Bixby</form>
-<tag lemma="Bixby" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Bixby" src="auto">X@-------------</AM>
+<AM lemma="Bixby_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0497-001-p1s4W5-Ta">
 <src.rf>tagger-a</src.rf>

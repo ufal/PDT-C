@@ -42,6 +42,7 @@
 <AM lemma="Ed_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Eduard_:B_;Y" src="auto">NNMXX-----A---8</AM>
 <AM lemma="ed-77_,t" src="auto">F%-------------</AM>
+<AM lemma="Ed_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0206-001-p1s0W4-Ta">

@@ -309,7 +309,7 @@
 <AM lemma="přemrštěný_^(*3it)" src="auto">AAFS3----1A----</AM>
 <AM lemma="přemrštěný_^(*3it)" src="auto">AAFS6----1A----</AM>
 <AM lemma="přemrštěný_^(*3it)" src="auto">AAIP1----1A----</AM>
-<AM lemma="přemrštěný_^(*3it)" src="auto">AAIP4----1A----</AM>
+<AM lemma="přemrštěný_^(*3it)" src="auto" selected="1">AAIP4----1A----</AM>
 <AM lemma="přemrštěný_^(*3it)" src="auto">AAIP5----1A----</AM>
 <AM lemma="přemrštěný_^(*3it)" src="auto">AAMP4----1A----</AM>
 <AM lemma="přemrštěný_^(*3it)" src="auto">AANP1----1A---6</AM>
@@ -1492,7 +1492,7 @@
 </w.rf>
 <form>potřeba</form>
 <tag>
-<AM lemma="potřeba" src="auto">Db-------------</AM>
+<AM lemma="potřeba" src="auto" selected="1">Db-------------</AM>
 <AM lemma="potřeba" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
 </m>

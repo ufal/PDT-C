@@ -51,6 +51,7 @@
 <tag>
 <AM lemma="Terra_;K" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="terra" src="auto">NNFS1-----A----</AM>
+<AM lemma="Terra-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1538-001-p1s0W5-Ta">
@@ -108,7 +109,10 @@
 <LM>w#w-wsj1538-001-p1s0W9</LM>
 </w.rf>
 <form>First</form>
-<tag lemma="First" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="First" src="auto">X@-------------</AM>
+<AM lemma="First-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1538-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -123,6 +127,7 @@
 <AM lemma="Illinois" src="auto">NNIS7-----A---1</AM>
 <AM lemma="Illinois_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Illinois_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Illinois-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1538-001-p1s0W11-Ta">
@@ -131,7 +136,10 @@
 <LM>w#w-wsj1538-001-p1s0W11</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1538-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -266,7 +274,10 @@
 <LM>w#w-wsj1538-001-p1s0W24</LM>
 </w.rf>
 <form>First</form>
-<tag lemma="First" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="First" src="auto">X@-------------</AM>
+<AM lemma="First-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1538-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -281,6 +292,7 @@
 <AM lemma="Illinois" src="auto">NNIS7-----A---1</AM>
 <AM lemma="Illinois_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Illinois_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Illinois-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1538-001-p1s0W26-Ta">
@@ -500,6 +512,7 @@
 <tag>
 <AM lemma="Terra_;K" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="terra" src="auto">NNFS1-----A----</AM>
+<AM lemma="Terra-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1538-001-p1s1W11-Ta">
@@ -660,7 +673,10 @@
 <LM>w#w-wsj1538-001-p1s1W26</LM>
 </w.rf>
 <form>First</form>
-<tag lemma="First" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="First" src="auto">X@-------------</AM>
+<AM lemma="First-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1538-001-p1s1W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -675,6 +691,7 @@
 <AM lemma="Illinois" src="auto">NNIS7-----A---1</AM>
 <AM lemma="Illinois_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Illinois_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Illinois-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1538-001-p1s1W28-Ta">
@@ -784,7 +801,7 @@
 <form>výsledek</form>
 <tag>
 <AM lemma="výsledek" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="výsledek" src="auto">NNIS4-----A----</AM>
+<AM lemma="výsledek" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1538-001-p1s2W3-Ta">
@@ -850,6 +867,7 @@
 <tag>
 <AM lemma="Terra_;K" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="terra" src="auto">NNFS1-----A----</AM>
+<AM lemma="Terra-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1538-001-p1s3W2-Ta">
@@ -1077,6 +1095,7 @@
 <AM lemma="Illinois" src="auto">NNIS7-----A---1</AM>
 <AM lemma="Illinois_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Illinois_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Illinois_;G" src="manual" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1538-001-p1s3W21-Ta">
@@ -1362,7 +1381,7 @@
 <form>ani</form>
 <tag>
 <AM lemma="ani-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="ani-2" src="auto">TT-------------</AM>
+<AM lemma="ani-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1538-001-p1s4W23-Ta">
@@ -1414,7 +1433,7 @@
 <form>nákup</form>
 <tag>
 <AM lemma="nákup" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="nákup" src="auto">NNIS4-----A----</AM>
+<AM lemma="nákup" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1538-001-p1s4W28-Ta">

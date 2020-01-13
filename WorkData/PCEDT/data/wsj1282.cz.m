@@ -36,7 +36,10 @@
 <LM>w#w-wsj1282-001-p1s0W3</LM>
 </w.rf>
 <form>Garrattová</form>
-<tag lemma="Garrattová" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Garrattová" src="auto">X@-------------</AM>
+<AM lemma="Garrattová_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1282-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -437,7 +440,7 @@
 <AM lemma="jenž_^(kterou_[ve_vedl.větě])" src="auto">PJFS4----------</AM>
 <AM lemma="jenž_^(kteří_[ve_vedl.větě])" src="auto">PJMP1----------</AM>
 <AM lemma="již-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="již-2" src="auto">TT-------------</AM>
+<AM lemma="již-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1282-001-p1s1W15-Ta">
@@ -559,7 +562,10 @@
 <LM>w#w-wsj1282-001-p1s1W25</LM>
 </w.rf>
 <form>Jerell</form>
-<tag lemma="Jerell" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Jerell" src="auto">X@-------------</AM>
+<AM lemma="Jerell-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1282-001-p1s1W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -570,6 +576,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1282-001-p1s1W27-Ta">
@@ -607,7 +614,10 @@
 <LM>w#w-wsj1282-001-p1s2W2</LM>
 </w.rf>
 <form>Garrattové</form>
-<tag lemma="Garrattové" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Garrattové" src="auto">X@-------------</AM>
+<AM lemma="Garrattová_;S" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1282-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -699,6 +709,7 @@
 <tag>
 <AM lemma="journal" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="journal" src="auto">NNIS4-----A----</AM>
+<AM lemma="Journal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1282-001-p1s2W11-Ta">
@@ -765,7 +776,10 @@
 <LM>w#w-wsj1282-001-p1s3W5</LM>
 </w.rf>
 <form>Bartholowová</form>
-<tag lemma="Bartholowová" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Bartholowová" src="auto">X@-------------</AM>
+<AM lemma="Bartholowová_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1282-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -800,7 +814,10 @@
 <LM>w#w-wsj1282-001-p1s3W9</LM>
 </w.rf>
 <form>Garrattová</form>
-<tag lemma="Garrattová" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Garrattová" src="auto">X@-------------</AM>
+<AM lemma="Garrattová_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1282-001-p1s3W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -860,6 +877,7 @@
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS1----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto" recommended="1">AANS4----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS5----1A----</AM>
+<AM lemma="konkurzní_^(týkající_se_úpadku,_soutěže)" src="manual" selected="1">AANS4----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1282-001-p1s3W14-Ta">
@@ -977,7 +995,10 @@
 <LM>w#w-wsj1282-001-p1s3W23</LM>
 </w.rf>
 <form>Jerell</form>
-<tag lemma="Jerell" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Jerell" src="auto">X@-------------</AM>
+<AM lemma="Jerell_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1282-001-p1s3W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1103,7 +1124,10 @@
 <LM>w#w-wsj1282-001-p1s4W2</LM>
 </w.rf>
 <form>Jerell</form>
-<tag lemma="Jerell" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Jerell" src="auto">X@-------------</AM>
+<AM lemma="Jerell_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1282-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1119,7 +1143,11 @@
 <LM>w#w-wsj1282-001-p1s4W4</LM>
 </w.rf>
 <form>Garrattové</form>
-<tag lemma="Garrattové" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Garrattové" src="auto">X@-------------</AM>
+<AM lemma="Garrattová_;S" src="manual">NNFS6-----A----</AM>
+<AM lemma="Garrattová_;S" src="manual" selected="1">NNFS3-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1282-001-p1s4W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1186,7 +1214,10 @@
 <LM>w#w-wsj1282-001-p1s4W10</LM>
 </w.rf>
 <form>Multiples</form>
-<tag lemma="Multiples" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Multiples" src="auto">X@-------------</AM>
+<AM lemma="Multiples-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1282-001-p1s4W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1194,7 +1225,10 @@
 <LM>w#w-wsj1282-001-p1s4W11</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="auto" recommended="1">Vc----------I--</tag>
+<tag>
+<AM lemma="být" src="auto" recommended="1">Vc----------I--</AM>
+<AM lemma="by-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1282-001-p1s4W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1206,6 +1240,7 @@
 <AM lemma="Sandra_;Y" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Sandro_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Sandro_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Sandra-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1282-001-p1s4W13-Ta">
@@ -1214,7 +1249,10 @@
 <LM>w#w-wsj1282-001-p1s4W13</LM>
 </w.rf>
 <form>Garratt</form>
-<tag lemma="Garratt" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Garratt" src="auto">X@-------------</AM>
+<AM lemma="Garratt-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1282-001-p1s4W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1325,7 +1363,10 @@
 <LM>w#w-wsj1282-001-p1s5W1</LM>
 </w.rf>
 <form>Garrattová</form>
-<tag lemma="Garrattová" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Garrattová" src="auto">X@-------------</AM>
+<AM lemma="Garrattová_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1282-001-p1s5W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1334,7 +1375,7 @@
 </w.rf>
 <form>tohoto</form>
 <tag>
-<AM lemma="tento" src="auto">PDMS4----------</AM>
+<AM lemma="tento" src="auto" selected="1">PDMS4----------</AM>
 <AM lemma="tento" src="auto" recommended="1">PDZS2----------</AM>
 </tag>
 </m>
@@ -1347,7 +1388,7 @@
 <tag>
 <AM lemma="dallaský" src="auto">AAIS2----1A----</AM>
 <AM lemma="dallaský" src="auto" recommended="1">AAMS2----1A----</AM>
-<AM lemma="dallaský" src="auto">AAMS4----1A----</AM>
+<AM lemma="dallaský" src="auto" selected="1">AAMS4----1A----</AM>
 <AM lemma="dallaský" src="auto">AANS2----1A----</AM>
 </tag>
 </m>
@@ -1361,7 +1402,7 @@
 <AM lemma="výrobce" src="auto">NNMP4-----A----</AM>
 <AM lemma="výrobce" src="auto">NNMS1-----A----</AM>
 <AM lemma="výrobce" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="výrobce" src="auto">NNMS4-----A----</AM>
+<AM lemma="výrobce" src="auto" selected="1">NNMS4-----A----</AM>
 <AM lemma="výrobce" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>
@@ -1477,7 +1518,7 @@
 <form>společnost</form>
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS4-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1282-001-p1s5W15-Ta">
@@ -1487,6 +1528,11 @@
 </w.rf>
 <form>Jerrel</form>
 <tag lemma="Jerrel" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Jerell</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1282-001-p1s5W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1807,7 +1853,7 @@
 <form>Společnost</form>
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS4-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1282-001-p1s7W2-Ta">
@@ -1816,7 +1862,10 @@
 <LM>w#w-wsj1282-001-p1s7W2</LM>
 </w.rf>
 <form>Jerell</form>
-<tag lemma="Jerell" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Jerell" src="auto">X@-------------</AM>
+<AM lemma="Jerell_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1282-001-p1s7W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1963,6 +2012,11 @@
 <AM lemma="Garrettová_;S" src="auto">NNFS3-----A----</AM>
 <AM lemma="Garrettová_;S" src="auto">NNFS6-----A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>Garrattové</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1282-001-p1s8W5-Ta">
 <src.rf>tagger-a</src.rf>

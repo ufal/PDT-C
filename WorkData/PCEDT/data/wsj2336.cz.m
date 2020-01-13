@@ -27,7 +27,10 @@
 <LM>w#w-wsj2336-001-p1s0W2</LM>
 </w.rf>
 <form>MedChem</form>
-<tag lemma="MedChem" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="MedChem" src="auto">X@-------------</AM>
+<AM lemma="MedChem-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2336-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj2336-001-p1s0W3</LM>
 </w.rf>
 <form>Products</form>
-<tag lemma="Products" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Products" src="auto">X@-------------</AM>
+<AM lemma="Products-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2336-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -46,6 +52,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2336-001-p1s0W5-Ta">
@@ -248,7 +255,10 @@
 <LM>w#w-wsj2336-001-p1s0W21</LM>
 </w.rf>
 <form>MedChem</form>
-<tag lemma="MedChem" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="MedChem" src="auto">X@-------------</AM>
+<AM lemma="MedChem_;K" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2336-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -268,7 +278,7 @@
 <AM lemma="týkající_^(*4t)" src="auto">AGFP1-----A----</AM>
 <AM lemma="týkající_^(*4t)" src="auto">AGFP4-----A----</AM>
 <AM lemma="týkající_^(*4t)" src="auto">AGFP5-----A----</AM>
-<AM lemma="týkající_^(*4t)" src="auto">AGFS1-----A----</AM>
+<AM lemma="týkající_^(*4t)" src="auto" selected="1">AGFS1-----A----</AM>
 <AM lemma="týkající_^(*4t)" src="auto">AGFS2-----A----</AM>
 <AM lemma="týkající_^(*4t)" src="auto">AGFS3-----A----</AM>
 <AM lemma="týkající_^(*4t)" src="auto">AGFS4-----A----</AM>
@@ -388,7 +398,10 @@
 <LM>w#w-wsj2336-001-p1s0W32</LM>
 </w.rf>
 <form>Pharmacia</form>
-<tag lemma="Pharmacia" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Pharmacia" src="auto">X@-------------</AM>
+<AM lemma="Pharmacia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2336-001-p1s0W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -399,6 +412,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2336-001-p1s0W34-Ta">
@@ -517,7 +531,10 @@
 <LM>w#w-wsj2336-001-p1s1W2</LM>
 </w.rf>
 <form>Pharmacia</form>
-<tag lemma="Pharmacia" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Pharmacia" src="auto">X@-------------</AM>
+<AM lemma="Pharmacia_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2336-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -605,7 +622,10 @@
 <LM>w#w-wsj2336-001-p1s1W9</LM>
 </w.rf>
 <form>Upsale</form>
-<tag lemma="Upsale" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Upsale" src="auto">X@-------------</AM>
+<AM lemma="Upsala_;G_,i_^(^DD**Uppsala)" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2336-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -690,7 +710,10 @@
 <LM>w#w-wsj2336-001-p1s1W16</LM>
 </w.rf>
 <form>MedChem</form>
-<tag lemma="MedChem" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="MedChem" src="auto">X@-------------</AM>
+<AM lemma="MedChem_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2336-001-p1s1W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -747,7 +770,10 @@
 <LM>w#w-wsj2336-001-p1s1W22</LM>
 </w.rf>
 <form>AMVISC</form>
-<tag lemma="AMVISC" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="AMVISC" src="auto">X@-------------</AM>
+<AM lemma="AMVISC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2336-001-p1s1W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -771,7 +797,10 @@
 <LM>w#w-wsj2336-001-p1s1W24</LM>
 </w.rf>
 <form>MedChem</form>
-<tag lemma="MedChem" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="MedChem" src="auto">X@-------------</AM>
+<AM lemma="MedChem_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2336-001-p1s1W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -939,7 +968,10 @@
 <LM>w#w-wsj2336-001-p1s2W6</LM>
 </w.rf>
 <form>hyluronovou</form>
-<tag lemma="hyluronovou" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="hyluronovou" src="auto">X@-------------</AM>
+<AM lemma="hyluronový_;H" src="manual" selected="1">AAFS4----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj2336-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1039,7 +1071,7 @@
 <AM lemma="používaný_^(*2t)" src="auto">AAIP1----1A---6</AM>
 <AM lemma="používaný_^(*2t)" src="auto">AAIP4----1A---6</AM>
 <AM lemma="používaný_^(*2t)" src="auto">AAIP5----1A---6</AM>
-<AM lemma="používaný_^(*2t)" src="auto">AAIS1----1A----</AM>
+<AM lemma="používaný_^(*2t)" src="auto" selected="1">AAIS1----1A----</AM>
 <AM lemma="používaný_^(*2t)" src="auto">AAIS4----1A----</AM>
 <AM lemma="používaný_^(*2t)" src="auto">AAIS5----1A----</AM>
 <AM lemma="používaný_^(*2t)" src="auto">AAMP1----1A---6</AM>
@@ -1202,7 +1234,10 @@
 <LM>w#w-wsj2336-001-p1s3W5</LM>
 </w.rf>
 <form>Pharmacia</form>
-<tag lemma="Pharmacia" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Pharmacia" src="auto">X@-------------</AM>
+<AM lemma="Pharmacia_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2336-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1233,7 +1268,7 @@
 <AM lemma="určený_^(*3it)" src="auto">AAFP1----1N----</AM>
 <AM lemma="určený_^(*3it)" src="auto" recommended="1">AAFP4----1N----</AM>
 <AM lemma="určený_^(*3it)" src="auto">AAFP5----1N----</AM>
-<AM lemma="určený_^(*3it)" src="auto">AAFS2----1N----</AM>
+<AM lemma="určený_^(*3it)" src="auto" selected="1">AAFS2----1N----</AM>
 <AM lemma="určený_^(*3it)" src="auto">AAFS3----1N----</AM>
 <AM lemma="určený_^(*3it)" src="auto">AAFS6----1N----</AM>
 <AM lemma="určený_^(*3it)" src="auto">AAIP1----1N----</AM>
@@ -1258,7 +1293,7 @@
 <AM lemma="škoda" src="auto">NNFP1-----A----</AM>
 <AM lemma="škoda" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="škoda" src="auto">NNFP5-----A----</AM>
-<AM lemma="škoda" src="auto">NNFS2-----A----</AM>
+<AM lemma="škoda" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2336-001-p1s3W10-Ta">
@@ -1387,7 +1422,10 @@
 <LM>w#w-wsj2336-001-p1s3W18</LM>
 </w.rf>
 <form>MedChem</form>
-<tag lemma="MedChem" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="MedChem" src="auto">X@-------------</AM>
+<AM lemma="MedChem_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2336-001-p1s3W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1435,7 +1473,10 @@
 <LM>w#w-wsj2336-001-p1s3W22</LM>
 </w.rf>
 <form>AMVISC</form>
-<tag lemma="AMVISC" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="AMVISC" src="auto">X@-------------</AM>
+<AM lemma="AMVISC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2336-001-p1s3W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1493,7 +1534,10 @@
 <LM>w#w-wsj2336-001-p1s4W3</LM>
 </w.rf>
 <form>MedChem</form>
-<tag lemma="MedChem" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="MedChem" src="auto">X@-------------</AM>
+<AM lemma="MedChem_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2336-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1531,7 +1575,7 @@
 <tag>
 <AM lemma="tento" src="auto">PDFP1----------</AM>
 <AM lemma="tento" src="auto">PDFP4----------</AM>
-<AM lemma="tento" src="auto">PDIP1----------</AM>
+<AM lemma="tento" src="auto" selected="1">PDIP1----------</AM>
 <AM lemma="tento" src="auto" recommended="1">PDIP4----------</AM>
 <AM lemma="tento" src="auto">PDMP4----------</AM>
 </tag>
@@ -1543,7 +1587,7 @@
 </w.rf>
 <form>výrobky</form>
 <tag>
-<AM lemma="výrobek" src="auto">NNIP1-----A----</AM>
+<AM lemma="výrobek" src="auto" selected="1">NNIP1-----A----</AM>
 <AM lemma="výrobek" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="výrobek" src="auto">NNIP5-----A----</AM>
 <AM lemma="výrobek" src="auto">NNIP7-----A----</AM>
@@ -1556,7 +1600,7 @@
 </w.rf>
 <form>činí</form>
 <tag>
-<AM lemma="činit" src="auto">VB-P---3P-AAI--</AM>
+<AM lemma="činit" src="auto" selected="1">VB-P---3P-AAI--</AM>
 <AM lemma="činit" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -1619,7 +1663,10 @@
 <LM>w#w-wsj2336-001-p1s4W15</LM>
 </w.rf>
 <form>MedChem</form>
-<tag lemma="MedChem" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="MedChem" src="auto">X@-------------</AM>
+<AM lemma="MedChem_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2336-001-p1s4W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1779,7 +1826,7 @@
 <AM lemma="končící_^(*3it)" src="auto">AGMS6-----A----</AM>
 <AM lemma="končící_^(*3it)" src="auto">AGMS7-----A----</AM>
 <AM lemma="končící_^(*3it)" src="auto">AGNP3-----A----</AM>
-<AM lemma="končící_^(*3it)" src="auto">AGNS6-----A----</AM>
+<AM lemma="končící_^(*3it)" src="auto" selected="1">AGNS6-----A----</AM>
 <AM lemma="končící_^(*3it)" src="auto" recommended="1">AGNS7-----A----</AM>
 </tag>
 </m>
@@ -1840,7 +1887,10 @@
 <LM>w#w-wsj2336-001-p1s5W11</LM>
 </w.rf>
 <form>MedChem</form>
-<tag lemma="MedChem" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="MedChem" src="auto">X@-------------</AM>
+<AM lemma="MedChem_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2336-001-p1s5W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2033,7 +2083,10 @@
 <LM>w#w-wsj2336-001-p1s6W2</LM>
 </w.rf>
 <form>MedChem</form>
-<tag lemma="MedChem" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="MedChem" src="auto">X@-------------</AM>
+<AM lemma="MedChem_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2336-001-p1s6W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2149,7 +2202,7 @@
 <AM lemma="první" src="auto">CrFP4----------</AM>
 <AM lemma="první" src="auto">CrFP5----------</AM>
 <AM lemma="první" src="auto" recommended="1">CrFS1----------</AM>
-<AM lemma="první" src="auto">CrFS2----------</AM>
+<AM lemma="první" src="auto" selected="1">CrFS2----------</AM>
 <AM lemma="první" src="auto">CrFS3----------</AM>
 <AM lemma="první" src="auto">CrFS4----------</AM>
 <AM lemma="první" src="auto">CrFS5----------</AM>
@@ -2185,7 +2238,7 @@
 <AM lemma="fáze" src="auto">NNFP4-----A----</AM>
 <AM lemma="fáze" src="auto">NNFP5-----A----</AM>
 <AM lemma="fáze" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="fáze" src="auto">NNFS2-----A----</AM>
+<AM lemma="fáze" src="auto" selected="1">NNFS2-----A----</AM>
 <AM lemma="fáze" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>
@@ -2410,6 +2463,11 @@
 <AM lemma="obhajoba" src="auto">NNFP5-----A----</AM>
 <AM lemma="obhajoba" src="auto" recommended="1">NNFS2-----A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>obhajob</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2336-001-p1s6W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2957,7 +3015,10 @@
 <LM>w#w-wsj2336-001-p1s8W23</LM>
 </w.rf>
 <form>Pharmacia</form>
-<tag lemma="Pharmacia" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Pharmacia" src="auto">X@-------------</AM>
+<AM lemma="Pharmacia_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2336-001-p1s8W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3152,7 +3213,10 @@
 <LM>w#w-wsj2336-001-p1s9W2</LM>
 </w.rf>
 <form>MedChem</form>
-<tag lemma="MedChem" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="MedChem" src="auto">X@-------------</AM>
+<AM lemma="MedChem_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2336-001-p1s9W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3434,7 +3498,7 @@
 </w.rf>
 <form>podaném</form>
 <tag>
-<AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto">AAIS6----1A----</AM>
+<AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto" selected="1">AAIS6----1A----</AM>
 <AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto">AAMS6----1A----</AM>
 <AM lemma="podaný_^(něco_[někomu]_[někam])_(*2t)" src="auto" recommended="1">AANS6----1A----</AM>
 </tag>
@@ -3456,7 +3520,10 @@
 <LM>w#w-wsj2336-001-p1s9W24</LM>
 </w.rf>
 <form>Pharmacia</form>
-<tag lemma="Pharmacia" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Pharmacia" src="auto">X@-------------</AM>
+<AM lemma="Pharmacia_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2336-001-p1s9W25-Ta">
 <src.rf>tagger-a</src.rf>

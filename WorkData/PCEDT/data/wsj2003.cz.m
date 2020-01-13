@@ -16,7 +16,10 @@
 <LM>w#w-wsj2003-001-p1s0W1</LM>
 </w.rf>
 <form>Great</form>
-<tag lemma="Great" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Great" src="auto">X@-------------</AM>
+<AM lemma="Great-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2003-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -27,6 +30,7 @@
 <tag>
 <AM lemma="American-1_;K_,t_^(souč._názvů,_např._A._Airlines)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="Americana_;G" src="auto">NNFP2-----A----</AM>
+<AM lemma="American-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2003-001-p1s0W3-Ta">
@@ -38,7 +42,7 @@
 <tag>
 <AM lemma="Bank_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="Bank-77" src="auto">F%-------------</AM>
+<AM lemma="Bank-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="banka" src="auto">NNFP2-----A----</AM>
 <AM lemma="bank" src="auto">NNIS1-----A----</AM>
 <AM lemma="bank" src="auto">NNIS4-----A----</AM>
@@ -63,7 +67,7 @@
 <AM lemma="uvádějící_^(*4t)" src="auto">AGFP1-----A----</AM>
 <AM lemma="uvádějící_^(*4t)" src="auto" recommended="1">AGFP4-----A----</AM>
 <AM lemma="uvádějící_^(*4t)" src="auto">AGFP5-----A----</AM>
-<AM lemma="uvádějící_^(*4t)" src="auto">AGFS1-----A----</AM>
+<AM lemma="uvádějící_^(*4t)" src="auto" selected="1">AGFS1-----A----</AM>
 <AM lemma="uvádějící_^(*4t)" src="auto">AGFS2-----A----</AM>
 <AM lemma="uvádějící_^(*4t)" src="auto">AGFS3-----A----</AM>
 <AM lemma="uvádějící_^(*4t)" src="auto">AGFS4-----A----</AM>
@@ -955,7 +959,10 @@
 <LM>w#w-wsj2003-001-p1s3W2</LM>
 </w.rf>
 <form>Great</form>
-<tag lemma="Great" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Great" src="auto">X@-------------</AM>
+<AM lemma="Great-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2003-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -966,6 +973,7 @@
 <tag>
 <AM lemma="American-1_;K_,t_^(souč._názvů,_např._A._Airlines)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="Americana_;G" src="auto">NNFP2-----A----</AM>
+<AM lemma="American-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2003-001-p1s3W4-Ta">

@@ -36,6 +36,7 @@
 <AM lemma="Roche_;S" src="auto">NNMS4-----A---1</AM>
 <AM lemma="Roche_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Roche_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Roche-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1392-001-p1s0W3-Ta">
@@ -47,6 +48,7 @@
 <tag>
 <AM lemma="holding" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="holding" src="auto">NNIS4-----A----</AM>
+<AM lemma="Holding-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1392-001-p1s0W4-Ta">
@@ -716,7 +718,7 @@
 <AM lemma="významný" src="auto">AAIP4----1A---6</AM>
 <AM lemma="významný" src="auto">AAIP5----1A---6</AM>
 <AM lemma="významný" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="významný" src="auto">AAIS4----1A----</AM>
+<AM lemma="významný" src="auto" selected="1">AAIS4----1A----</AM>
 <AM lemma="významný" src="auto">AAIS5----1A----</AM>
 <AM lemma="významný" src="auto">AAMP1----1A---6</AM>
 <AM lemma="významný" src="auto">AAMP4----1A---6</AM>
@@ -739,7 +741,7 @@
 <form>růst</form>
 <tag>
 <AM lemma="růst-1" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="růst-1" src="auto">NNIS4-----A----</AM>
+<AM lemma="růst-1" src="auto" selected="1">NNIS4-----A----</AM>
 <AM lemma="růst-2" src="auto">Vf--------A-I--</AM>
 </tag>
 </m>

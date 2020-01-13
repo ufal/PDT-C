@@ -27,7 +27,10 @@
 <LM>w#w-wsj1040-001-p1s0W2</LM>
 </w.rf>
 <form>ONEIDA</form>
-<tag lemma="Oneida_;G" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Oneida_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="ONEIDA-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1040-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -195,7 +198,7 @@
 <form>listopadu</form>
 <tag>
 <AM lemma="listopad" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="listopad" src="auto">NNIS3-----A----</AM>
+<AM lemma="listopad" src="auto" selected="1">NNIS3-----A----</AM>
 <AM lemma="listopad" src="auto">NNIS6-----A----</AM>
 </tag>
 </m>
@@ -240,7 +243,10 @@
 <LM>w#w-wsj1040-001-p1s1W3</LM>
 </w.rf>
 <form>Oneida</form>
-<tag lemma="Oneida_;G" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Oneida_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Oneida_;G_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1040-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -757,7 +763,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -841,7 +847,10 @@
 <LM>w#w-wsj1040-001-p1s3W2</LM>
 </w.rf>
 <form>Oneida</form>
-<tag lemma="Oneida_;G" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Oneida_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Oneida_;G_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1040-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1273,7 +1282,11 @@
 <LM>w#w-wsj1040-001-p1s5W13</LM>
 </w.rf>
 <form>Oneida</form>
-<tag lemma="Oneida_;G" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Oneida_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Oneida-77" src="manual">F%-------------</AM>
+<AM lemma="Oneida_;G_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1040-001-p1s5W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1283,7 +1296,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>

@@ -16,7 +16,10 @@
 <LM>w#w-wsj1454-001-p1s0W1</LM>
 </w.rf>
 <form>Guardian</form>
-<tag lemma="Guardian_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Guardian_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Guardian-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1454-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -28,6 +31,7 @@
 <AM lemma="Royal_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="royal" src="auto">NNIS1-----A----</AM>
 <AM lemma="royal" src="auto">NNIS4-----A----</AM>
+<AM lemma="Royal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1454-001-p1s0W3-Ta">
@@ -36,7 +40,10 @@
 <LM>w#w-wsj1454-001-p1s0W3</LM>
 </w.rf>
 <form>Exchange</form>
-<tag lemma="Exchange" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Exchange" src="auto">X@-------------</AM>
+<AM lemma="Exchange-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1454-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -44,7 +51,10 @@
 <LM>w#w-wsj1454-001-p1s0W4</LM>
 </w.rf>
 <form>Assurance</form>
-<tag lemma="Assurance" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Assurance" src="auto">X@-------------</AM>
+<AM lemma="Assurance-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1454-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -503,7 +513,10 @@
 <LM>w#w-wsj1454-001-p1s0W35</LM>
 </w.rf>
 <form>Nationwide</form>
-<tag lemma="Nationwide" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Nationwide" src="auto">X@-------------</AM>
+<AM lemma="Nationwide-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1454-001-p1s0W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -511,7 +524,10 @@
 <LM>w#w-wsj1454-001-p1s0W36</LM>
 </w.rf>
 <form>Anglia</form>
-<tag lemma="Anglia" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Anglia" src="auto">X@-------------</AM>
+<AM lemma="Anglia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1454-001-p1s0W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -519,7 +535,10 @@
 <LM>w#w-wsj1454-001-p1s0W37</LM>
 </w.rf>
 <form>Building</form>
-<tag lemma="Building" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Building" src="auto">X@-------------</AM>
+<AM lemma="Building-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1454-001-p1s0W38-Ta">
 <src.rf>tagger-a</src.rf>
@@ -533,6 +552,7 @@
 <AM lemma="societa_,a" src="auto">NNFP5-----A----</AM>
 <AM lemma="societa_,a" src="auto">NNFS2-----A----</AM>
 <AM lemma="society-1_,t_^(společnost)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Society-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1454-001-p1s0W39-Ta">
@@ -732,7 +752,10 @@
 <LM>w#w-wsj1454-001-p1s1W15</LM>
 </w.rf>
 <form>Nationwide</form>
-<tag lemma="Nationwide" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Nationwide" src="auto">X@-------------</AM>
+<AM lemma="Nationwide-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1454-001-p1s1W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -740,7 +763,10 @@
 <LM>w#w-wsj1454-001-p1s1W16</LM>
 </w.rf>
 <form>Anglia</form>
-<tag lemma="Anglia" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Anglia" src="auto">X@-------------</AM>
+<AM lemma="Anglia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1454-001-p1s1W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -748,7 +774,10 @@
 <LM>w#w-wsj1454-001-p1s1W17</LM>
 </w.rf>
 <form>Estate</form>
-<tag lemma="Estate" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Estate" src="auto">X@-------------</AM>
+<AM lemma="Estate-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1454-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -756,7 +785,10 @@
 <LM>w#w-wsj1454-001-p1s1W18</LM>
 </w.rf>
 <form>Agents</form>
-<tag lemma="Agents" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Agents" src="auto">X@-------------</AM>
+<AM lemma="Agents-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1454-001-p1s1W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -855,7 +887,10 @@
 <LM>w#w-wsj1454-001-p1s2W7</LM>
 </w.rf>
 <form>Nationwide</form>
-<tag lemma="Nationwide" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Nationwide" src="auto">X@-------------</AM>
+<AM lemma="Nationwide-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1454-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -863,7 +898,10 @@
 <LM>w#w-wsj1454-001-p1s2W8</LM>
 </w.rf>
 <form>Anglia</form>
-<tag lemma="Anglia" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Anglia" src="auto">X@-------------</AM>
+<AM lemma="Anglia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1454-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -871,7 +909,10 @@
 <LM>w#w-wsj1454-001-p1s2W9</LM>
 </w.rf>
 <form>Estate</form>
-<tag lemma="Estate" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Estate" src="auto">X@-------------</AM>
+<AM lemma="Estate-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1454-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -879,7 +920,10 @@
 <LM>w#w-wsj1454-001-p1s2W10</LM>
 </w.rf>
 <form>Agents</form>
-<tag lemma="Agents" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Agents" src="auto">X@-------------</AM>
+<AM lemma="Agents-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1454-001-p1s2W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -898,7 +942,7 @@
 <tag>
 <AM lemma="prostřednictví" src="auto">NNNP3-----A----</AM>
 <AM lemma="prostřednictví" src="auto" recommended="1">NNNS7-----A----</AM>
-<AM lemma="prostřednictvím" src="auto">RR--2----------</AM>
+<AM lemma="prostřednictvím" src="auto" selected="1">RR--2----------</AM>
 </tag>
 </m>
 <m id="m-wsj1454-001-p1s2W13-Ta">
@@ -1339,7 +1383,10 @@
 <LM>w#w-wsj1454-001-p1s3W11</LM>
 </w.rf>
 <form>Nationwide</form>
-<tag lemma="Nationwide" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Nationwide" src="auto">X@-------------</AM>
+<AM lemma="Nationwide-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1454-001-p1s3W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1347,7 +1394,10 @@
 <LM>w#w-wsj1454-001-p1s3W12</LM>
 </w.rf>
 <form>Anglia</form>
-<tag lemma="Anglia" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Anglia" src="auto">X@-------------</AM>
+<AM lemma="Anglia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1454-001-p1s3W13-Ta">
 <src.rf>tagger-a</src.rf>

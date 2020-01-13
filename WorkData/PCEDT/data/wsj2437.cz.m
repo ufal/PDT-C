@@ -27,7 +27,10 @@
 <LM>w#w-wsj2437-001-p1s0W2</LM>
 </w.rf>
 <form>Avions</form>
-<tag lemma="Avions" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Avions" src="auto">X@-------------</AM>
+<AM lemma="Avions-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2437-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -38,6 +41,7 @@
 <tag>
 <AM lemma="Marcel_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Marcela_;Y" src="auto">NNFP2-----A----</AM>
+<AM lemma="Marcel-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2437-001-p1s0W4-Ta">
@@ -46,7 +50,10 @@
 <LM>w#w-wsj2437-001-p1s0W4</LM>
 </w.rf>
 <form>Dassault</form>
-<tag lemma="Dassault_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Dassault_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Dassault-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2437-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -66,6 +73,7 @@
 <AM lemma="Breguet-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Breguet-2_;K" src="auto">NNIS1-----A----</AM>
 <AM lemma="Breguet-2_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Breguet-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2437-001-p1s0W7-Ta">
@@ -74,7 +82,10 @@
 <LM>w#w-wsj2437-001-p1s0W7</LM>
 </w.rf>
 <form>Aviation</form>
-<tag lemma="Aviation" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Aviation" src="auto">X@-------------</AM>
+<AM lemma="Aviation-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2437-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -82,7 +93,15 @@
 <LM>w#w-wsj2437-001-p1s0W8</LM>
 </w.rf>
 <form>S.A.uvedla</form>
-<tag lemma="S.A.uvedla" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="S.A.uvedla" src="auto">X@-------------</AM>
+<AM lemma="S.A.uvedla-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace, rozděit na 5 segmentů</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2437-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -400,6 +419,11 @@
 </w.rf>
 <form>mililionů</form>
 <tag lemma="mililionů" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>milionů</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2437-001-p1s0W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -585,6 +609,11 @@
 </w.rf>
 <form>francouzká</form>
 <tag lemma="francouzká" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>francouzská</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2437-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -875,7 +904,7 @@
 <AM lemma="stálý" src="auto">AAFS2----1N----</AM>
 <AM lemma="stálý" src="auto">AAFS3----1N----</AM>
 <AM lemma="stálý" src="auto">AAFS6----1N----</AM>
-<AM lemma="stálý" src="auto">AAIP1----1N----</AM>
+<AM lemma="stálý" src="auto" selected="1">AAIP1----1N----</AM>
 <AM lemma="stálý" src="auto">AAIP4----1N----</AM>
 <AM lemma="stálý" src="auto">AAIP5----1N----</AM>
 <AM lemma="stálý" src="auto">AAMP4----1N----</AM>
@@ -1437,6 +1466,11 @@
 <AM lemma="rok" src="auto">NNIS1-----A----</AM>
 <AM lemma="rok" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>patrně je zde slovo "rok" navíc (podruhé) - vymazat</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2437-001-p1s3W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1761,7 +1795,10 @@
 <LM>w#w-wsj2437-001-p1s4W8</LM>
 </w.rf>
 <form>Dassault</form>
-<tag lemma="Dassault_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Dassault_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Dassault-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2437-001-p1s4W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2027,7 +2064,7 @@
 </w.rf>
 <form>ani</form>
 <tag>
-<AM lemma="ani-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="ani-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="ani-2" src="auto">TT-------------</AM>
 </tag>
 </m>

@@ -27,7 +27,11 @@
 <LM>w#w-wsj1982-001-p1s0W2</LM>
 </w.rf>
 <form>StatesWest</form>
-<tag lemma="StatesWest" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="StatesWest" src="auto">X@-------------</AM>
+<AM lemma="StatesWest_;K" src="manual">NNFXX-----A----</AM>
+<AM lemma="StatesWest-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1982-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +39,10 @@
 <LM>w#w-wsj1982-001-p1s0W3</LM>
 </w.rf>
 <form>Airlines</form>
-<tag lemma="Airlines_;K_,t_^(souč._názvů,_např._American_A.)" src="auto" recommended="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Airlines_;K_,t_^(souč._názvů,_např._American_A.)" src="auto" recommended="1">NNFPX-----A----</AM>
+<AM lemma="Airlines-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1982-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -155,6 +162,8 @@
 <tag>
 <AM lemma="Mesa_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mesa_;L_^(izolovaná_plošina)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Mesa_;G_;K" src="manual">NNFS1-----A----</AM>
+<AM lemma="Mesa-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1982-001-p1s0W13-Ta">
@@ -163,7 +172,10 @@
 <LM>w#w-wsj1982-001-p1s0W13</LM>
 </w.rf>
 <form>Airlines</form>
-<tag lemma="Airlines_;K_,t_^(souč._názvů,_např._American_A.)" src="auto" recommended="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Airlines_;K_,t_^(souč._názvů,_např._American_A.)" src="auto" recommended="1">NNFPX-----A----</AM>
+<AM lemma="Airlines-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1982-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -241,7 +253,10 @@
 <LM>w#w-wsj1982-001-p1s0W19</LM>
 </w.rf>
 <form>Farmingtonu</form>
-<tag lemma="Farmingtonu" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Farmingtonu" src="auto">X@-------------</AM>
+<AM lemma="Farmington_;G" src="manual" selected="1">NNIS2-----A---1</AM>
+</tag>
 </m>
 <m id="m-wsj1982-001-p1s0W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -346,7 +361,11 @@
 <LM>w#w-wsj1982-001-p1s1W6</LM>
 </w.rf>
 <form>StatesWest</form>
-<tag lemma="StatesWest" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="StatesWest" src="auto">X@-------------</AM>
+<AM lemma="StatesWest_;K" src="manual">NNFXX-----A----</AM>
+<AM lemma="StatesWest-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1982-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -519,6 +538,8 @@
 <tag>
 <AM lemma="Mesa_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mesa_;L_^(izolovaná_plošina)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Mesa_;G_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Mesa-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1982-001-p1s1W22-Ta">
@@ -648,7 +669,7 @@
 <form>společnost</form>
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS4-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1982-001-p1s2W4-Ta">
@@ -660,6 +681,8 @@
 <tag>
 <AM lemma="Mesa_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mesa_;L_^(izolovaná_plošina)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Mesa_;G_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Mesa-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1982-001-p1s2W5-Ta">
@@ -797,6 +820,8 @@
 <tag>
 <AM lemma="Mesa_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mesa_;L_^(izolovaná_plošina)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Mesa_;G_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Mesa-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1982-001-p1s3W6-Ta">
@@ -1062,6 +1087,8 @@
 <tag>
 <AM lemma="Mesa_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mesa_;L_^(izolovaná_plošina)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Mesa_;G_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Mesa-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1982-001-p1s4W6-Ta">
@@ -1097,7 +1124,11 @@
 <LM>w#w-wsj1982-001-p1s4W8</LM>
 </w.rf>
 <form>StatesWest</form>
-<tag lemma="StatesWest" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="StatesWest" src="auto">X@-------------</AM>
+<AM lemma="StatesWest_;K" src="manual">NNFXX-----A----</AM>
+<AM lemma="StatesWest-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1982-001-p1s4W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1175,7 +1206,11 @@
 <LM>w#w-wsj1982-001-p1s5W1</LM>
 </w.rf>
 <form>StatesWest</form>
-<tag lemma="StatesWest" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="StatesWest" src="auto">X@-------------</AM>
+<AM lemma="StatesWest_;K" src="manual">NNFXX-----A----</AM>
+<AM lemma="StatesWest-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1982-001-p1s5W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1251,6 +1286,8 @@
 <tag>
 <AM lemma="Mesa_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mesa_;L_^(izolovaná_plošina)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Mesa_;G_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Mesa-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1982-001-p1s5W9-Ta">
@@ -1622,7 +1659,11 @@
 <LM>w#w-wsj1982-001-p1s6W2</LM>
 </w.rf>
 <form>StatesWest</form>
-<tag lemma="StatesWest" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="StatesWest" src="auto">X@-------------</AM>
+<AM lemma="StatesWest_;K" src="manual">NNFXX-----A----</AM>
+<AM lemma="StatesWest-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1982-001-p1s6W3-Ta">
 <src.rf>tagger-a</src.rf>

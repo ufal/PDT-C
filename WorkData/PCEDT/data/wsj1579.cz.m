@@ -27,7 +27,10 @@
 <LM>w#w-wsj1579-001-p1s0W2</LM>
 </w.rf>
 <form>Avondale</form>
-<tag lemma="Avondale" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Avondale" src="auto">X@-------------</AM>
+<AM lemma="Avondale-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1579-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1579-001-p1s0W3</LM>
 </w.rf>
 <form>Industries</form>
-<tag lemma="Industries" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Industries" src="auto">X@-------------</AM>
+<AM lemma="Industries-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1579-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -46,6 +52,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1579-001-p1s0W5-Ta">
@@ -511,7 +518,10 @@
 <LM>w#w-wsj1579-001-p1s1W15</LM>
 </w.rf>
 <form>Avondale</form>
-<tag lemma="Avondale" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Avondale" src="auto">X@-------------</AM>
+<AM lemma="Avondale_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1579-001-p1s1W16-Ta">
 <src.rf>tagger-a</src.rf>

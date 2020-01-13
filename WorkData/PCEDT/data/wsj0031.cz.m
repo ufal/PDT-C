@@ -27,7 +27,7 @@
 <LM>w#w-wsj0031-001-p1s0W2</LM>
 </w.rf>
 <form>LTV</form>
-<tag lemma="LTV-88_:B" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="LTV-88_:B" src="auto" recommended="1" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-wsj0031-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +35,10 @@
 <LM>w#w-wsj0031-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0031-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -239,7 +242,7 @@
 </w.rf>
 <form>společnost</form>
 <tag>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS1-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
@@ -253,7 +256,7 @@
 <AM lemma="vyrábějící_^(*4t)" src="auto">AGFP1-----A----</AM>
 <AM lemma="vyrábějící_^(*4t)" src="auto">AGFP4-----A----</AM>
 <AM lemma="vyrábějící_^(*4t)" src="auto">AGFP5-----A----</AM>
-<AM lemma="vyrábějící_^(*4t)" src="auto">AGFS1-----A----</AM>
+<AM lemma="vyrábějící_^(*4t)" src="auto" selected="1">AGFS1-----A----</AM>
 <AM lemma="vyrábějící_^(*4t)" src="auto">AGFS2-----A----</AM>
 <AM lemma="vyrábějící_^(*4t)" src="auto">AGFS3-----A----</AM>
 <AM lemma="vyrábějící_^(*4t)" src="auto" recommended="1">AGFS4-----A----</AM>
@@ -653,7 +656,7 @@
 <AM lemma="který" src="auto">P4NS4---------6</AM>
 <AM lemma="který" src="auto">P4XP1---------6</AM>
 <AM lemma="který" src="auto">P4XP4---------6</AM>
-<AM lemma="který" src="auto">P4YS1----------</AM>
+<AM lemma="který" src="auto" selected="1">P4YS1----------</AM>
 </tag>
 </m>
 <m id="m-wsj0031-001-p1s1W12-Ta">

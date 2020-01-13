@@ -366,7 +366,7 @@
 </w.rf>
 <form>vyšší</form>
 <tag>
-<AM lemma="vysoký" src="auto">AAFP1----2A----</AM>
+<AM lemma="vysoký" src="auto" selected="1">AAFP1----2A----</AM>
 <AM lemma="vysoký" src="auto">AAFP4----2A----</AM>
 <AM lemma="vysoký" src="auto">AAFP5----2A----</AM>
 <AM lemma="vysoký" src="auto">AAFS1----2A----</AM>
@@ -537,7 +537,7 @@
 <AM lemma="předchozí" src="auto">AAFS6----1A----</AM>
 <AM lemma="předchozí" src="auto">AAFS7----1A----</AM>
 <AM lemma="předchozí" src="auto" recommended="1">AAIP1----1A----</AM>
-<AM lemma="předchozí" src="auto">AAIP4----1A----</AM>
+<AM lemma="předchozí" src="auto" selected="1">AAIP4----1A----</AM>
 <AM lemma="předchozí" src="auto">AAIP5----1A----</AM>
 <AM lemma="předchozí" src="auto">AAIS1----1A----</AM>
 <AM lemma="předchozí" src="auto">AAIS4----1A----</AM>
@@ -563,7 +563,7 @@
 <form>odhady</form>
 <tag>
 <AM lemma="odhad" src="auto" recommended="1">NNIP1-----A----</AM>
-<AM lemma="odhad" src="auto">NNIP4-----A----</AM>
+<AM lemma="odhad" src="auto" selected="1">NNIP4-----A----</AM>
 <AM lemma="odhad" src="auto">NNIP5-----A----</AM>
 <AM lemma="odhad" src="auto">NNIP7-----A----</AM>
 </tag>
@@ -609,7 +609,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>
@@ -801,6 +801,11 @@
 <AM lemma="odpovídající_^(*4t)" src="auto">AGMS3-----A----</AM>
 <AM lemma="odpovídající_^(*4t)" src="auto">AGNS3-----A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>odpovídajícím</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0232-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1063,7 +1068,7 @@
 <form>růst</form>
 <tag>
 <AM lemma="růst-1" src="auto">NNIS1-----A----</AM>
-<AM lemma="růst-1" src="auto">NNIS4-----A----</AM>
+<AM lemma="růst-1" src="auto" selected="1">NNIS4-----A----</AM>
 <AM lemma="růst-2" src="auto" recommended="1">Vf--------A-I--</AM>
 </tag>
 </m>
@@ -1277,7 +1282,7 @@
 <AM lemma="který" src="auto">P4FS2----------</AM>
 <AM lemma="který" src="auto">P4FS3----------</AM>
 <AM lemma="který" src="auto">P4FS6----------</AM>
-<AM lemma="který" src="auto">P4IP1----------</AM>
+<AM lemma="který" src="auto" selected="1">P4IP1----------</AM>
 <AM lemma="který" src="auto">P4NP1---------6</AM>
 <AM lemma="který" src="auto">P4NP4---------6</AM>
 <AM lemma="který" src="auto">P4NS1----------</AM>
@@ -1301,7 +1306,7 @@
 <form>několik</form>
 <tag>
 <AM lemma="několik" src="auto" recommended="1">Ca--1----------</AM>
-<AM lemma="několik" src="auto">Ca--4----------</AM>
+<AM lemma="několik" src="auto" selected="1">Ca--4----------</AM>
 </tag>
 </m>
 <m id="m-wsj0232-001-p1s5W12-Ta">

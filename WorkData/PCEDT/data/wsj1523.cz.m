@@ -41,6 +41,11 @@
 <AM lemma="53letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="53letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1523-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -176,7 +181,10 @@
 <LM>w#w-wsj1523-001-p1s0W13</LM>
 </w.rf>
 <form>Peoples</form>
-<tag lemma="Peoples" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Peoples" src="auto">X@-------------</AM>
+<AM lemma="Peoples-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1523-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -184,7 +192,10 @@
 <LM>w#w-wsj1523-001-p1s0W14</LM>
 </w.rf>
 <form>Drug</form>
-<tag lemma="Drug" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Drug" src="auto">X@-------------</AM>
+<AM lemma="Drug-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1523-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -192,7 +203,10 @@
 <LM>w#w-wsj1523-001-p1s0W15</LM>
 </w.rf>
 <form>Stores</form>
-<tag lemma="Stores" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Stores" src="auto">X@-------------</AM>
+<AM lemma="Stores-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1523-001-p1s0W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -203,6 +217,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1523-001-p1s0W17-Ta">
@@ -231,7 +246,7 @@
 <AM lemma="jednotka" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="jednotka" src="auto">NNFP4-----A----</AM>
 <AM lemma="jednotka" src="auto">NNFP5-----A----</AM>
-<AM lemma="jednotka" src="auto">NNFS2-----A----</AM>
+<AM lemma="jednotka" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1523-001-p1s0W20-Ta">
@@ -415,7 +430,10 @@
 <LM>w#w-wsj1523-001-p1s0W35</LM>
 </w.rf>
 <form>Imasco</form>
-<tag lemma="Imasco" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Imasco" src="auto">X@-------------</AM>
+<AM lemma="Imasco_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1523-001-p1s0W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -562,7 +580,10 @@
 <LM>w#w-wsj1523-001-p1s2W2</LM>
 </w.rf>
 <form>Imasco</form>
-<tag lemma="Imasco" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Imasco" src="auto">X@-------------</AM>
+<AM lemma="Imasco_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1523-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>

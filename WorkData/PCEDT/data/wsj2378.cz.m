@@ -226,7 +226,10 @@
 <LM>w#w-wsj2378-001-p1s2W5</LM>
 </w.rf>
 <form>triskaidekafóbie</form>
-<tag lemma="triskaidekafóbie" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="triskaidekafóbie" src="auto">X@-------------</AM>
+<AM lemma="triskaidekafóbie" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2378-001-p1s2W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1114,7 +1117,7 @@
 <form>však</form>
 <tag>
 <AM lemma="však-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="však-2" src="auto">TT-------------</AM>
+<AM lemma="však-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2378-001-p1s6W13-Ta">
@@ -1232,6 +1235,7 @@
 <AM lemma="Yale_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Yale_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Yale_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Yale_;S_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2378-001-p1s7W7-Ta">
@@ -1688,7 +1692,7 @@
 </w.rf>
 <form>pátky</form>
 <tag>
-<AM lemma="pátek" src="auto">NNIP1-----A----</AM>
+<AM lemma="pátek" src="auto" selected="1">NNIP1-----A----</AM>
 <AM lemma="pátek" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="pátek" src="auto">NNIP5-----A----</AM>
 <AM lemma="pátek" src="auto">NNIP7-----A----</AM>
@@ -1903,9 +1907,10 @@
 </w.rf>
 <form>Dow</form>
 <tag>
-<AM lemma="Dow-1_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Dow-1_;S" src="auto" selected="1">NNMXX-----A----</AM>
 <AM lemma="Dow_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Dowa_;G" src="auto">NNFP2-----A----</AM>
+<AM lemma="Dow-2_;S" src="manual">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj2378-001-p1s9W8-Ta">
@@ -1915,7 +1920,7 @@
 </w.rf>
 <form>Jonesův</form>
 <tag>
-<AM lemma="Jonesův_;S_^(*2)" src="auto">AUIS1M---------</AM>
+<AM lemma="Jonesův_;S_^(*2)" src="auto" selected="1">AUIS1M---------</AM>
 <AM lemma="Jonesův_;S_^(*2)" src="auto" recommended="1">AUIS4M---------</AM>
 <AM lemma="Jonesův_;S_^(*2)" src="auto">AUIS5M---------</AM>
 <AM lemma="Jonesův_;S_^(*2)" src="auto">AUMS1M---------</AM>
@@ -1929,7 +1934,7 @@
 </w.rf>
 <form>index</form>
 <tag>
-<AM lemma="index" src="auto">NNIS1-----A----</AM>
+<AM lemma="index" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="index" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -2223,7 +2228,7 @@
 </w.rf>
 <form>podobném</form>
 <tag>
-<AM lemma="podobný" src="auto">AAIS6----1A----</AM>
+<AM lemma="podobný" src="auto" selected="1">AAIS6----1A----</AM>
 <AM lemma="podobný" src="auto" recommended="1">AAMS6----1A----</AM>
 <AM lemma="podobný" src="auto">AANS6----1A----</AM>
 </tag>
@@ -2241,7 +2246,7 @@
 <AM lemma="duch-2" src="auto">NNIS2-----A----</AM>
 <AM lemma="duch-2" src="auto">NNIS3-----A----</AM>
 <AM lemma="duch-2" src="auto">NNIS5-----A----</AM>
-<AM lemma="duch-2" src="auto">NNIS6-----A----</AM>
+<AM lemma="duch-2" src="auto" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2378-001-p1s11W4-Ta">

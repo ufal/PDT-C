@@ -28,6 +28,7 @@
 <AM lemma="Moody_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Moody_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Moody_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Moody-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2046-001-p1s0W3-Ta">
@@ -57,6 +58,7 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2046-001-p1s0W5-Ta">
@@ -65,7 +67,10 @@
 <LM>w#w-wsj2046-001-p1s0W5</LM>
 </w.rf>
 <form>Investors</form>
-<tag lemma="Investors" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Investors" src="auto">X@-------------</AM>
+<AM lemma="Investors-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2046-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -89,6 +94,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2046-001-p1s0W8-Ta">
@@ -219,7 +225,10 @@
 <LM>w#w-wsj2046-001-p1s0W19</LM>
 </w.rf>
 <form>Ryder</form>
-<tag lemma="Ryder_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Ryder_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Ryder-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2046-001-p1s0W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -547,7 +556,10 @@
 <LM>w#w-wsj2046-001-p1s1W8</LM>
 </w.rf>
 <form>Ryder</form>
-<tag lemma="Ryder_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Ryder_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Ryder-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2046-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1003,6 +1015,7 @@
 <AM lemma="Moody_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Moody_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Moody_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Moody-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2046-001-p1s2W3-Ta">
@@ -1032,6 +1045,7 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2046-001-p1s2W5-Ta">
@@ -1161,7 +1175,10 @@
 <LM>w#w-wsj2046-001-p1s2W15</LM>
 </w.rf>
 <form>Ryder</form>
-<tag lemma="Ryder_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Ryder_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Ryder-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2046-001-p1s2W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1301,7 +1318,7 @@
 <AM lemma="možný" src="auto">AANP4----1A----</AM>
 <AM lemma="možný" src="auto">AANP5----1A----</AM>
 <AM lemma="možná-1_^(snad)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="možná-2" src="auto">TT-------------</AM>
+<AM lemma="možná-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2046-001-p1s2W26-Ta">
@@ -1749,7 +1766,7 @@
 <AM lemma="leasing" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="leasing" src="auto">NNIS3-----A----</AM>
 <AM lemma="leasing" src="auto">NNIS5-----A----</AM>
-<AM lemma="leasing" src="auto">NNIS6-----A----</AM>
+<AM lemma="leasing" src="auto" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2046-001-p1s3W31-Ta">
@@ -1775,7 +1792,7 @@
 <tag>
 <AM lemma="pronájem" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="pronájem" src="auto">NNIS3-----A----</AM>
-<AM lemma="pronájem" src="auto">NNIS6-----A----</AM>
+<AM lemma="pronájem" src="auto" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2046-001-p1s3W33-Ta">

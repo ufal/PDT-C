@@ -38,6 +38,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2310-001-p1s0W4-Ta">
@@ -122,7 +123,7 @@
 <AM lemma="třetí" src="auto">CrMS6----------</AM>
 <AM lemma="třetí" src="auto">CrMS7----------</AM>
 <AM lemma="třetí" src="auto">CrNP3----------</AM>
-<AM lemma="třetí" src="auto">CrNS6----------</AM>
+<AM lemma="třetí" src="auto" selected="1">CrNS6----------</AM>
 <AM lemma="třetí" src="auto">CrNS7----------</AM>
 </tag>
 </m>
@@ -152,7 +153,7 @@
 <AM lemma="čtvrtletí" src="auto">NNNS3-----A----</AM>
 <AM lemma="čtvrtletí" src="auto">NNNS4-----A----</AM>
 <AM lemma="čtvrtletí" src="auto">NNNS5-----A----</AM>
-<AM lemma="čtvrtletí" src="auto">NNNS6-----A----</AM>
+<AM lemma="čtvrtletí" src="auto" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2310-001-p1s0W14-Ta">
@@ -184,6 +185,11 @@
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIP5-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIP7-----A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>milionu</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2310-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -213,6 +219,11 @@
 </w.rf>
 <form>milionů</form>
 <tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</tag>
+<comment>
+<LM type="New Form">
+<text>milionu</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2310-001-p1s0W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -539,7 +550,7 @@
 <AM lemma="čistý" src="auto">AAIP4----1A---6</AM>
 <AM lemma="čistý" src="auto">AAIP5----1A---6</AM>
 <AM lemma="čistý" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="čistý" src="auto">AAIS4----1A----</AM>
+<AM lemma="čistý" src="auto" selected="1">AAIS4----1A----</AM>
 <AM lemma="čistý" src="auto">AAIS5----1A----</AM>
 <AM lemma="čistý" src="auto">AAMP1----1A---6</AM>
 <AM lemma="čistý" src="auto">AAMP4----1A---6</AM>
@@ -562,7 +573,7 @@
 <form>příjem</form>
 <tag>
 <AM lemma="příjem" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="příjem" src="auto">NNIS4-----A----</AM>
+<AM lemma="příjem" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2310-001-p1s1W21-Ta">
@@ -812,7 +823,7 @@
 <AM lemma="instalování_^(*3at)" src="auto">NNNP5-----A----</AM>
 <AM lemma="instalování_^(*3at)" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="instalování_^(*3at)" src="auto">NNNS2-----A----</AM>
-<AM lemma="instalování_^(*3at)" src="auto">NNNS3-----A----</AM>
+<AM lemma="instalování_^(*3at)" src="auto" selected="1">NNNS3-----A----</AM>
 <AM lemma="instalování_^(*3at)" src="auto">NNNS4-----A----</AM>
 <AM lemma="instalování_^(*3at)" src="auto">NNNS5-----A----</AM>
 <AM lemma="instalování_^(*3at)" src="auto">NNNS6-----A----</AM>

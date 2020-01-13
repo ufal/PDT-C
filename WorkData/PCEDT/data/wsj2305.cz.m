@@ -208,7 +208,15 @@
 <LM>w#w-wsj2305-001-p1s0W18</LM>
 </w.rf>
 <form>52týdenní</form>
-<tag lemma="52týdenní" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="52týdenní" src="auto">X@-------------</AM>
+<AM lemma="52týdenní" src="manual" selected="1">AAFS7----1A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2305-001-p1s0W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -516,7 +524,7 @@
 <AM lemma="splatný" src="auto">AAFS2----1A----</AM>
 <AM lemma="splatný" src="auto">AAFS3----1A----</AM>
 <AM lemma="splatný" src="auto">AAFS6----1A----</AM>
-<AM lemma="splatný" src="auto">AAIP1----1A----</AM>
+<AM lemma="splatný" src="auto" selected="1">AAIP1----1A----</AM>
 <AM lemma="splatný" src="auto">AAIP4----1A----</AM>
 <AM lemma="splatný" src="auto">AAIP5----1A----</AM>
 <AM lemma="splatný" src="auto">AAMP4----1A----</AM>
@@ -866,7 +874,10 @@
 <LM>w#w-wsj2305-001-p1s3W12</LM>
 </w.rf>
 <form>EDT</form>
-<tag lemma="EDT" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="EDT" src="auto">X@-------------</AM>
+<AM lemma="EDT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2305-001-p1s3W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -963,7 +974,10 @@
 <LM>w#w-wsj2305-001-p1s3W20</LM>
 </w.rf>
 <form>banek</form>
-<tag lemma="banek" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="banek" src="auto">X@-------------</AM>
+<AM lemma="banka" src="manual" selected="1">NNFP2-----A---6</AM>
+</tag>
 </m>
 <m id="m-wsj2305-001-p1s3W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -974,6 +988,7 @@
 <tag>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Federal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2305-001-p1s3W22-Ta">
@@ -982,7 +997,10 @@
 <LM>w#w-wsj2305-001-p1s3W22</LM>
 </w.rf>
 <form>Reserve</form>
-<tag lemma="Reserve_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Reserve_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Reserve-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2305-001-p1s3W23-Ta">
 <src.rf>tagger-a</src.rf>

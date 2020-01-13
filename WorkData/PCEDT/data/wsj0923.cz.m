@@ -24,7 +24,10 @@
 <LM>w#w-wsj0923-001-p1s0W2</LM>
 </w.rf>
 <form>Kyle</form>
-<tag lemma="Kyle" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Kyle" src="auto">X@-------------</AM>
+<AM lemma="Kyle-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0923-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -36,6 +39,7 @@
 <AM lemma="technolog" src="auto">NNMP4-----A----</AM>
 <AM lemma="technolog" src="auto">NNMP7-----A----</AM>
 <AM lemma="technology-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Technology-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0923-001-p1s0W4-Ta">
@@ -44,7 +48,10 @@
 <LM>w#w-wsj0923-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0923-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -466,7 +473,10 @@
 <LM>w#w-wsj0923-001-p1s1W15</LM>
 </w.rf>
 <form>Kyle</form>
-<tag lemma="Kyle" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Kyle" src="auto">X@-------------</AM>
+<AM lemma="Kyle_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0923-001-p1s1W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -577,7 +587,10 @@
 <LM>w#w-wsj0923-001-p1s2W7</LM>
 </w.rf>
 <form>Kyle</form>
-<tag lemma="Kyle" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Kyle" src="auto">X@-------------</AM>
+<AM lemma="Kyle_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0923-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -637,7 +650,7 @@
 <AM lemma="schválení_^(*3it)" src="auto">NNNS1-----A----</AM>
 <AM lemma="schválení_^(*3it)" src="auto">NNNS2-----A----</AM>
 <AM lemma="schválení_^(*3it)" src="auto">NNNS3-----A----</AM>
-<AM lemma="schválení_^(*3it)" src="auto">NNNS4-----A----</AM>
+<AM lemma="schválení_^(*3it)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="schválení_^(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="schválení_^(*3it)" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -651,7 +664,7 @@
 <tag>
 <AM lemma="akcionář" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="akcionář" src="auto">NNMP5-----A----</AM>
-<AM lemma="akcionář" src="auto">NNMP7-----A----</AM>
+<AM lemma="akcionář" src="auto" selected="1">NNMP7-----A----</AM>
 <AM lemma="akcionář" src="auto">NNMS3-----A----</AM>
 <AM lemma="akcionář" src="auto">NNMS5-----A----</AM>
 <AM lemma="akcionář" src="auto">NNMS6-----A----</AM>
@@ -697,7 +710,10 @@
 <LM>w#w-wsj0923-001-p1s3W2</LM>
 </w.rf>
 <form>Kyle</form>
-<tag lemma="Kyle" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Kyle" src="auto">X@-------------</AM>
+<AM lemma="Kyle_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0923-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>

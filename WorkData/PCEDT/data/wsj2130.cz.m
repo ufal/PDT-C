@@ -166,7 +166,7 @@
 <form>dividendy</form>
 <tag>
 <AM lemma="dividenda" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="dividenda" src="auto">NNFP4-----A----</AM>
+<AM lemma="dividenda" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="dividenda" src="auto">NNFP5-----A----</AM>
 <AM lemma="dividenda" src="auto">NNFS2-----A----</AM>
 </tag>
@@ -708,7 +708,7 @@
 </w.rf>
 <form>Navzdory</form>
 <tag>
-<AM lemma="navzdory-1" src="auto">RR--3----------</AM>
+<AM lemma="navzdory-1" src="auto" selected="1">RR--3----------</AM>
 <AM lemma="navzdory-2" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>

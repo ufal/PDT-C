@@ -27,7 +27,10 @@
 <LM>w#w-wsj0115-001-p1s0W2</LM>
 </w.rf>
 <form>Olympia</form>
-<tag lemma="Olympia_;K_^(nakladatelství)" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Olympia_;K_^(nakladatelství)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Olympia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0115-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -38,6 +41,7 @@
 <tag>
 <AM lemma="broadcasting_,t_^(vysílání)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="broadcasting_,t_^(vysílání)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Broadcasting-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0115-001-p1s0W4-Ta">
@@ -46,7 +50,10 @@
 <LM>w#w-wsj0115-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0115-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -412,6 +419,8 @@
 <AM lemma="radiový" src="auto">AAMP6----1A----</AM>
 <AM lemma="radiový" src="auto">AANP2----1A----</AM>
 <AM lemma="radiový" src="auto">AANP6----1A----</AM>
+<AM lemma="radiový-2_,s_^(^DD**rádiový)" src="manual">AAFP2----1A----</AM>
+<AM lemma="radiový_,s_^(^DD**rádiový)" src="manual" selected="1">AAFP2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0115-001-p1s1W6-Ta">
@@ -834,7 +843,7 @@
 <AM lemma="dodržení_^(*2t)" src="auto">NNNP5-----N----</AM>
 <AM lemma="dodržení_^(*2t)" src="auto" recommended="1">NNNS1-----N----</AM>
 <AM lemma="dodržení_^(*2t)" src="auto">NNNS2-----N----</AM>
-<AM lemma="dodržení_^(*2t)" src="auto">NNNS3-----N----</AM>
+<AM lemma="dodržení_^(*2t)" src="auto" selected="1">NNNS3-----N----</AM>
 <AM lemma="dodržení_^(*2t)" src="auto">NNNS4-----N----</AM>
 <AM lemma="dodržení_^(*2t)" src="auto">NNNS5-----N----</AM>
 <AM lemma="dodržení_^(*2t)" src="auto">NNNS6-----N----</AM>
@@ -1149,6 +1158,8 @@
 <AM lemma="radiový" src="auto">AAMP6----1A----</AM>
 <AM lemma="radiový" src="auto">AANP2----1A----</AM>
 <AM lemma="radiový" src="auto">AANP6----1A----</AM>
+<AM lemma="radiový-2_,s_^(^DD**rádiový)" src="manual">AAFP2----1A----</AM>
+<AM lemma="radiový_,s_^(^DD**rádiový)" src="manual" selected="1">AAFP2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0115-001-p1s3W14-Ta">

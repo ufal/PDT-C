@@ -35,6 +35,7 @@
 <AM lemma="Dano_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="dan-1_^(mistr_a_učitel_japon._sportů)" src="auto">NNMS2-----A----</AM>
 <AM lemma="dan-1_^(mistr_a_učitel_japon._sportů)" src="auto">NNMS4-----A----</AM>
+<AM lemma="Dana-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1325-001-p1s0W3-Ta">
@@ -43,7 +44,10 @@
 <LM>w#w-wsj1325-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1325-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -683,7 +687,7 @@
 <form>převodovky</form>
 <tag>
 <AM lemma="převodovka" src="auto">NNFP1-----A----</AM>
-<AM lemma="převodovka" src="auto">NNFP4-----A----</AM>
+<AM lemma="převodovka" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="převodovka" src="auto">NNFP5-----A----</AM>
 <AM lemma="převodovka" src="auto" recommended="1">NNFS2-----A----</AM>
 </tag>
@@ -710,7 +714,7 @@
 <form>jiné</form>
 <tag>
 <AM lemma="jiný" src="auto">AAFP1----1A----</AM>
-<AM lemma="jiný" src="auto">AAFP4----1A----</AM>
+<AM lemma="jiný" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="jiný" src="auto">AAFP5----1A----</AM>
 <AM lemma="jiný" src="auto" recommended="1">AAFS2----1A----</AM>
 <AM lemma="jiný" src="auto">AAFS3----1A----</AM>
@@ -735,7 +739,7 @@
 <form>součásti</form>
 <tag>
 <AM lemma="součást" src="auto">NNFP1-----A----</AM>
-<AM lemma="součást" src="auto">NNFP4-----A----</AM>
+<AM lemma="součást" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="součást" src="auto">NNFP5-----A----</AM>
 <AM lemma="součást" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="součást" src="auto">NNFS3-----A----</AM>
@@ -1263,6 +1267,7 @@
 <AM lemma="Dano_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="dan-1_^(mistr_a_učitel_japon._sportů)" src="auto">NNMS2-----A----</AM>
 <AM lemma="dan-1_^(mistr_a_učitel_japon._sportů)" src="auto">NNMS4-----A----</AM>
+<AM lemma="Dana-3_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1325-001-p1s4W3-Ta">
@@ -1400,7 +1405,10 @@
 <LM>w#w-wsj1325-001-p1s4W14</LM>
 </w.rf>
 <form>USA</form>
-<tag lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="USA_:B_;G_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1325-001-p1s4W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1740,7 +1748,10 @@
 <LM>w#w-wsj1325-001-p1s6W3</LM>
 </w.rf>
 <form>Sudolová</form>
-<tag lemma="Sudolová" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Sudolová" src="auto">X@-------------</AM>
+<AM lemma="Sudolová_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1325-001-p1s6W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1792,7 +1803,10 @@
 <LM>w#w-wsj1325-001-p1s6W8</LM>
 </w.rf>
 <form>Fitch</form>
-<tag lemma="Fitch_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Fitch_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Fitch-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1325-001-p1s6W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1800,7 +1814,10 @@
 <LM>w#w-wsj1325-001-p1s6W9</LM>
 </w.rf>
 <form>Investors</form>
-<tag lemma="Investors" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Investors" src="auto">X@-------------</AM>
+<AM lemma="Investors-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1325-001-p1s6W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2019,7 +2036,10 @@
 <LM>w#w-wsj1325-001-p1s7W1</LM>
 </w.rf>
 <form>Southwood</form>
-<tag lemma="Southwood_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Southwood_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Southwood_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1325-001-p1s7W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2048,7 +2068,10 @@
 <LM>w#w-wsj1325-001-p1s7W4</LM>
 </w.rf>
 <form>Morcott</form>
-<tag lemma="Morcott" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Morcott" src="auto">X@-------------</AM>
+<AM lemma="Morcott_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1325-001-p1s7W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2096,6 +2119,7 @@
 <AM lemma="Dano_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="dan-1_^(mistr_a_učitel_japon._sportů)" src="auto">NNMS2-----A----</AM>
 <AM lemma="dan-1_^(mistr_a_učitel_japon._sportů)" src="auto">NNMS4-----A----</AM>
+<AM lemma="Dana-3_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1325-001-p1s7W9-Ta">

@@ -27,7 +27,10 @@
 <LM>w#w-wsj1806-001-p1s0W2</LM>
 </w.rf>
 <form>NEWHALL</form>
-<tag lemma="NEWHALL" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="NEWHALL" src="auto">X@-------------</AM>
+<AM lemma="NEWHALL-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1806-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1806-001-p1s0W3</LM>
 </w.rf>
 <form>LAND</form>
-<tag lemma="Land_;E" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Land_;E" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="LAND-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1806-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -51,7 +57,10 @@
 <LM>w#w-wsj1806-001-p1s0W5</LM>
 </w.rf>
 <form>FARMING</form>
-<tag lemma="FARMING" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="FARMING" src="auto">X@-------------</AM>
+<AM lemma="FARMING-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1806-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -67,6 +76,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1806-001-p1s0W7-Ta">
@@ -246,7 +256,7 @@
 <AM lemma="obchodující_^(*5ovat)" src="auto">AGFP4-----A----</AM>
 <AM lemma="obchodující_^(*5ovat)" src="auto">AGFP5-----A----</AM>
 <AM lemma="obchodující_^(*5ovat)" src="auto" recommended="1">AGFS1-----A----</AM>
-<AM lemma="obchodující_^(*5ovat)" src="auto">AGFS2-----A----</AM>
+<AM lemma="obchodující_^(*5ovat)" src="auto" selected="1">AGFS2-----A----</AM>
 <AM lemma="obchodující_^(*5ovat)" src="auto">AGFS3-----A----</AM>
 <AM lemma="obchodující_^(*5ovat)" src="auto">AGFS4-----A----</AM>
 <AM lemma="obchodující_^(*5ovat)" src="auto">AGFS5-----A----</AM>
@@ -926,6 +936,11 @@
 <AM lemma="splatný" src="auto">AANP4----1A----</AM>
 <AM lemma="splatný" src="auto">AANP5----1A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>splatné</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1806-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>

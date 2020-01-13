@@ -27,7 +27,10 @@
 <LM>w#w-wsj1546-001-p1s0W2</LM>
 </w.rf>
 <form>Amgen</form>
-<tag lemma="Amgen" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Amgen" src="auto">X@-------------</AM>
+<AM lemma="Amgen-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1546-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -38,6 +41,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1546-001-p1s0W4-Ta">
@@ -497,7 +501,10 @@
 <LM>w#w-wsj1546-001-p1s1W4</LM>
 </w.rf>
 <form>Thousand</form>
-<tag lemma="Thousand" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Thousand" src="auto">X@-------------</AM>
+<AM lemma="Thousand-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1546-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -505,7 +512,10 @@
 <LM>w#w-wsj1546-001-p1s1W5</LM>
 </w.rf>
 <form>Oaks</form>
-<tag lemma="Oaks" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Oaks" src="auto">X@-------------</AM>
+<AM lemma="Oaks-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1546-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -830,7 +840,10 @@
 <LM>w#w-wsj1546-001-p1s2W7</LM>
 </w.rf>
 <form>Amgen</form>
-<tag lemma="Amgen" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Amgen" src="auto">X@-------------</AM>
+<AM lemma="Amgen_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1546-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -948,7 +961,7 @@
 </w.rf>
 <form>na</form>
 <tag>
-<AM lemma="na-1" src="auto">RR--4----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--4----------</AM>
 <AM lemma="na-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
@@ -961,7 +974,7 @@
 <form>akcii</form>
 <tag>
 <AM lemma="akcie" src="auto">NNFS3-----A----</AM>
-<AM lemma="akcie" src="auto">NNFS4-----A----</AM>
+<AM lemma="akcie" src="auto" selected="1">NNFS4-----A----</AM>
 <AM lemma="akcie" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
 </m>

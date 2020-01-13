@@ -336,7 +336,7 @@
 <form>jak</form>
 <tag>
 <AM lemma="jak-1_;L_^(živočich)" src="auto">NNMS1-----A----</AM>
-<AM lemma="jak-2" src="auto">J,-------------</AM>
+<AM lemma="jak-2" src="auto" selected="1">J,-------------</AM>
 <AM lemma="jak-2" src="auto">J^-------------</AM>
 <AM lemma="jak-3" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="jak-99_:B_;S" src="auto">NNXXX-----A----</AM>
@@ -379,7 +379,7 @@
 <form>tak</form>
 <tag>
 <AM lemma="taka-1_;L" src="auto">NNFP2-----A----</AM>
-<AM lemma="tak-1" src="auto">TT-------------</AM>
+<AM lemma="tak-1" src="auto" selected="1">TT-------------</AM>
 <AM lemma="tak-2" src="auto" recommended="1">J^-------------</AM>
 <AM lemma="tak-3" src="auto">Db-------------</AM>
 </tag>
@@ -490,6 +490,7 @@
 <AM lemma="pat" src="auto">NNIS1-----A----</AM>
 <AM lemma="pat" src="auto">NNIS4-----A----</AM>
 <AM lemma="pata" src="auto">NNFP2-----A----</AM>
+<AM lemma="Pat-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0139-001-p1s2W3-Ta">
@@ -499,6 +500,14 @@
 </w.rf>
 <form>D'Amico</form>
 <tag lemma="D'Amico" src="auto">X@-------------</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+<LM type="New Form">
+<text>D</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0139-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>

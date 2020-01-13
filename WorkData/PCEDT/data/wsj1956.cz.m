@@ -27,7 +27,10 @@
 <LM>w#w-wsj1956-001-p1s0W2</LM>
 </w.rf>
 <form>National</form>
-<tag lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="National-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1956-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -38,6 +41,7 @@
 <tag>
 <AM lemma="patent" src="auto">NNIS1-----A----</AM>
 <AM lemma="patent" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Patent-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1956-001-p1s0W4-Ta">
@@ -49,6 +53,7 @@
 <tag>
 <AM lemma="development_,t_^(rozvoj)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="development_,t_^(rozvoj)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Development-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1956-001-p1s0W5-Ta">
@@ -57,7 +62,10 @@
 <LM>w#w-wsj1956-001-p1s0W5</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1956-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -261,6 +269,7 @@
 <tag>
 <AM lemma="interferon_;H" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="interferon_;H" src="auto">NNIS4-----A----</AM>
+<AM lemma="Interferon-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1956-001-p1s0W23-Ta">
@@ -269,7 +278,10 @@
 <LM>w#w-wsj1956-001-p1s0W23</LM>
 </w.rf>
 <form>Sciences</form>
-<tag lemma="Sciences" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Sciences" src="auto">X@-------------</AM>
+<AM lemma="Sciences-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1956-001-p1s0W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -280,6 +292,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1956-001-p1s0W25-Ta">
@@ -377,7 +390,7 @@
 </w.rf>
 <form>tvoří</form>
 <tag>
-<AM lemma="tvořit" src="auto">VB-P---3P-AAI--</AM>
+<AM lemma="tvořit" src="auto" selected="1">VB-P---3P-AAI--</AM>
 <AM lemma="tvořit" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -483,6 +496,7 @@
 <tag>
 <AM lemma="interferon_;H" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="interferon_;H" src="auto">NNIS4-----A----</AM>
+<AM lemma="interferon_;H_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1956-001-p1s1W14-Ta">
@@ -536,7 +550,10 @@
 <LM>w#w-wsj1956-001-p1s1W18</LM>
 </w.rf>
 <form>National</form>
-<tag lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="National-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1956-001-p1s1W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -547,6 +564,7 @@
 <tag>
 <AM lemma="patent" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="patent" src="auto">NNIS4-----A----</AM>
+<AM lemma="Patent-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1956-001-p1s1W20-Ta">
@@ -584,7 +602,10 @@
 <LM>w#w-wsj1956-001-p1s2W3</LM>
 </w.rf>
 <form>National</form>
-<tag lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="National-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1956-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -595,6 +616,7 @@
 <tag>
 <AM lemma="patent" src="auto">NNIS1-----A----</AM>
 <AM lemma="patent" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Patent-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1956-001-p1s2W5-Ta">
@@ -800,6 +822,7 @@
 <tag>
 <AM lemma="interferon_;H" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="interferon_;H" src="auto">NNIS4-----A----</AM>
+<AM lemma="interferon_;H_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1956-001-p1s2W22-Ta">
@@ -928,6 +951,7 @@
 <tag>
 <AM lemma="interferon_;H" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="interferon_;H" src="auto">NNIS4-----A----</AM>
+<AM lemma="interferon_;H_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1956-001-p1s2W34-Ta">
@@ -937,7 +961,7 @@
 </w.rf>
 <form>podceněné</form>
 <tag>
-<AM lemma="podceněný_^(*3it)" src="auto">AAFP1----1A----</AM>
+<AM lemma="podceněný_^(*3it)" src="auto" selected="1">AAFP1----1A----</AM>
 <AM lemma="podceněný_^(*3it)" src="auto">AAFP4----1A----</AM>
 <AM lemma="podceněný_^(*3it)" src="auto">AAFP5----1A----</AM>
 <AM lemma="podceněný_^(*3it)" src="auto">AAFS2----1A----</AM>

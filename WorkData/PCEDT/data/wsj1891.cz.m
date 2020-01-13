@@ -30,6 +30,7 @@
 <tag>
 <AM lemma="Enron_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Enron_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Enron-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1891-001-p1s0W3-Ta">
@@ -38,7 +39,10 @@
 <LM>w#w-wsj1891-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1891-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -425,7 +429,7 @@
 <form>výsledek</form>
 <tag>
 <AM lemma="výsledek" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="výsledek" src="auto">NNIS4-----A----</AM>
+<AM lemma="výsledek" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1891-001-p1s0W36-Ta">
@@ -464,6 +468,7 @@
 <AM lemma="program-1" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS3-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS6-----A----</AM>
+<AM lemma="program" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1891-001-p1s0W39-Ta">
@@ -496,6 +501,7 @@
 <tag>
 <AM lemma="Enron_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Enron_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Enron-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1891-001-p1s1W3-Ta">
@@ -508,6 +514,7 @@
 <AM lemma="Power_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Power_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="power-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Power-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1891-001-p1s1W4-Ta">
@@ -516,7 +523,10 @@
 <LM>w#w-wsj1891-001-p1s1W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1891-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1016,6 +1026,7 @@
 <tag>
 <AM lemma="Imperial_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Imperial_;Y" src="auto">NNIS4-----A----</AM>
+<AM lemma="Imperial-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1891-001-p1s3W14-Ta">
@@ -1024,7 +1035,10 @@
 <LM>w#w-wsj1891-001-p1s3W14</LM>
 </w.rf>
 <form>Chemical</form>
-<tag lemma="Chemical_:B_;K_,t_^(v_názvu_Chemical_Bank_apod.)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Chemical_:B_;K_,t_^(v_názvu_Chemical_Bank_apod.)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Chemical-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1891-001-p1s3W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1032,7 +1046,10 @@
 <LM>w#w-wsj1891-001-p1s3W15</LM>
 </w.rf>
 <form>Industries</form>
-<tag lemma="Industries" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Industries" src="auto">X@-------------</AM>
+<AM lemma="Industries-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1891-001-p1s3W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1340,7 +1357,10 @@
 <LM>w#w-wsj1891-001-p1s5W13</LM>
 </w.rf>
 <form>National</form>
-<tag lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="National-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1891-001-p1s5W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1352,6 +1372,7 @@
 <AM lemma="Power_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Power_;G" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="power-77" src="auto">F%-------------</AM>
+<AM lemma="Power-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1891-001-p1s5W15-Ta">
@@ -1508,7 +1529,10 @@
 <LM>w#w-wsj1891-001-p1s6W5</LM>
 </w.rf>
 <form>National</form>
-<tag lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="National-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1891-001-p1s6W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1520,6 +1544,7 @@
 <AM lemma="Power_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Power_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="power-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Power-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1891-001-p1s6W7-Ta">

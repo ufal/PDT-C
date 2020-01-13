@@ -27,7 +27,10 @@
 <LM>w#w-wsj1175-001-p1s0W2</LM>
 </w.rf>
 <form>BUELL</form>
-<tag lemma="Buell_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Buell_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="BUELL-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1175-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1175-001-p1s0W3</LM>
 </w.rf>
 <form>INDUSTRIES</form>
-<tag lemma="INDUSTRIES" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="INDUSTRIES" src="auto">X@-------------</AM>
+<AM lemma="INDUSTRIES-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1175-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -46,6 +52,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1175-001-p1s0W5-Ta">
@@ -1051,7 +1058,10 @@
 <LM>w#w-wsj1175-001-p1s3W4</LM>
 </w.rf>
 <form>Waterbury</form>
-<tag lemma="Waterbury" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Waterbury" src="auto">X@-------------</AM>
+<AM lemma="Waterbury_;G" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1175-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>

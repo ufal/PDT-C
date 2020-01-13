@@ -135,6 +135,7 @@
 <AM lemma="program-1" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS3-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS6-----A----</AM>
+<AM lemma="program" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1520-001-p1s0W13-Ta">
@@ -143,7 +144,10 @@
 <LM>w#w-wsj1520-001-p1s0W13</LM>
 </w.rf>
 <form>Superfund</form>
-<tag lemma="Superfund" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Superfund" src="auto">X@-------------</AM>
+<AM lemma="Superfund_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1520-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -300,7 +304,7 @@
 </w.rf>
 <form>které</form>
 <tag>
-<AM lemma="který" src="auto">P4FP1----------</AM>
+<AM lemma="který" src="auto" selected="1">P4FP1----------</AM>
 <AM lemma="který" src="auto">P4FP4----------</AM>
 <AM lemma="který" src="auto">P4FS2----------</AM>
 <AM lemma="který" src="auto">P4FS3----------</AM>
@@ -358,6 +362,7 @@
 <AM lemma="program-1" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS3-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS6-----A----</AM>
+<AM lemma="program" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1520-001-p1s1W19-Ta">
@@ -659,7 +664,7 @@
 <form>Na</form>
 <tag>
 <AM lemma="Na-88_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="na-1" src="auto">RR--4----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--4----------</AM>
 <AM lemma="na-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
@@ -677,7 +682,7 @@
 <AM lemma="příští" src="auto" recommended="1">AAIP6----1A----</AM>
 <AM lemma="příští" src="auto">AAMP2----1A----</AM>
 <AM lemma="příští" src="auto">AAMP6----1A----</AM>
-<AM lemma="příští" src="auto">AANP2----1A----</AM>
+<AM lemma="příští" src="auto" selected="1">AANP2----1A----</AM>
 <AM lemma="příští" src="auto">AANP6----1A----</AM>
 </tag>
 </m>
@@ -755,6 +760,7 @@
 <AM lemma="program-1" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS3-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS6-----A----</AM>
+<AM lemma="program" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1520-001-p1s3W10-Ta">

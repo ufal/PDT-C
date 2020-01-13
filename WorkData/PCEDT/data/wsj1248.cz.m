@@ -82,7 +82,10 @@
 <LM>w#w-wsj1248-001-p1s0W4</LM>
 </w.rf>
 <form>British</form>
-<tag lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="British-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1248-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -93,6 +96,7 @@
 <tag>
 <AM lemma="Airways-1_;K_,t_^(souč._názvů,_např._British_A.)" src="auto" recommended="1">NNFPX-----A----</AM>
 <AM lemma="Airways_;K_,t_^(souč._názvů,_např._British_A.)" src="auto">NNFPX-----A----</AM>
+<AM lemma="Airways-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1248-001-p1s0W6-Ta">
@@ -318,7 +322,7 @@
 <AM lemma="selhání_^(*3at)" src="auto">NNNP4-----A----</AM>
 <AM lemma="selhání_^(*3at)" src="auto">NNNP5-----A----</AM>
 <AM lemma="selhání_^(*3at)" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="selhání_^(*3at)" src="auto">NNNS2-----A----</AM>
+<AM lemma="selhání_^(*3at)" src="auto" selected="1">NNNS2-----A----</AM>
 <AM lemma="selhání_^(*3at)" src="auto">NNNS3-----A----</AM>
 <AM lemma="selhání_^(*3at)" src="auto">NNNS4-----A----</AM>
 <AM lemma="selhání_^(*3at)" src="auto">NNNS5-----A----</AM>
@@ -401,7 +405,10 @@
 <LM>w#w-wsj1248-001-p1s0W34</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1248-001-p1s0W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -426,7 +433,7 @@
 </w.rf>
 <form>mateřskou</form>
 <tag>
-<AM lemma="mateřský" src="auto">AAFS4----1A----</AM>
+<AM lemma="mateřský" src="auto" selected="1">AAFS4----1A----</AM>
 <AM lemma="mateřský" src="auto" recommended="1">AAFS7----1A----</AM>
 </tag>
 </m>
@@ -438,7 +445,7 @@
 <form>společnost</form>
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS4-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1248-001-p1s0W39-Ta">
@@ -460,7 +467,10 @@
 <LM>w#w-wsj1248-001-p1s0W40</LM>
 </w.rf>
 <form>United</form>
-<tag lemma="united-77" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="united-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="United-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1248-001-p1s0W41-Ta">
 <src.rf>tagger-a</src.rf>
@@ -468,7 +478,10 @@
 <LM>w#w-wsj1248-001-p1s0W41</LM>
 </w.rf>
 <form>Airlines</form>
-<tag lemma="Airlines_;K_,t_^(souč._názvů,_např._American_A.)" src="auto" recommended="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Airlines_;K_,t_^(souč._názvů,_např._American_A.)" src="auto" recommended="1">NNFPX-----A----</AM>
+<AM lemma="Airlines-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1248-001-p1s0W42-Ta">
 <src.rf>tagger-a</src.rf>
@@ -753,7 +766,10 @@
 <LM>w#w-wsj1248-001-p1s2W2</LM>
 </w.rf>
 <form>British</form>
-<tag lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="British-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1248-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -764,6 +780,7 @@
 <tag>
 <AM lemma="Airways-1_;K_,t_^(souč._názvů,_např._British_A.)" src="auto" recommended="1">NNFPX-----A----</AM>
 <AM lemma="Airways_;K_,t_^(souč._názvů,_např._British_A.)" src="auto">NNFPX-----A----</AM>
+<AM lemma="Airways-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1248-001-p1s2W4-Ta">
@@ -1172,7 +1189,10 @@
 <LM>w#w-wsj1248-001-p1s3W2</LM>
 </w.rf>
 <form>British</form>
-<tag lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="British-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1248-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1183,6 +1203,7 @@
 <tag>
 <AM lemma="Airways-1_;K_,t_^(souč._názvů,_např._British_A.)" src="auto" recommended="1">NNFPX-----A----</AM>
 <AM lemma="Airways_;K_,t_^(souč._názvů,_např._British_A.)" src="auto">NNFPX-----A----</AM>
+<AM lemma="Airways-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1248-001-p1s3W4-Ta">
@@ -1338,7 +1359,7 @@
 <form>zbytek</form>
 <tag>
 <AM lemma="zbytek" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="zbytek" src="auto">NNIS4-----A----</AM>
+<AM lemma="zbytek" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1248-001-p1s3W18-Ta">
@@ -1871,7 +1892,10 @@
 <LM>w#w-wsj1248-001-p1s5W15</LM>
 </w.rf>
 <form>Bucknell</form>
-<tag lemma="Bucknell" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Bucknell" src="auto">X@-------------</AM>
+<AM lemma="Bucknell_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1248-001-p1s5W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1958,7 +1982,10 @@
 <LM>w#w-wsj1248-001-p1s5W21</LM>
 </w.rf>
 <form>Smith</form>
-<tag lemma="Smith_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Smith_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Smith-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1248-001-p1s5W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1980,6 +2007,7 @@
 <tag>
 <AM lemma="court_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="court_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="Court-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1248-001-p1s5W24-Ta">
@@ -1988,7 +2016,10 @@
 <LM>w#w-wsj1248-001-p1s5W24</LM>
 </w.rf>
 <form>Securities</form>
-<tag lemma="Securities" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Securities" src="auto">X@-------------</AM>
+<AM lemma="Securities-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1248-001-p1s5W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2270,7 +2301,10 @@
 <LM>w#w-wsj1248-001-p1s7W7</LM>
 </w.rf>
 <form>British</form>
-<tag lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="British-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1248-001-p1s7W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2283,6 +2317,7 @@
 <AM lemma="Air_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="air" src="auto">NNIS1-----A----</AM>
 <AM lemma="air" src="auto">NNIS4-----A----</AM>
+<AM lemma="Air-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1248-001-p1s7W9-Ta">
@@ -2353,7 +2388,10 @@
 <LM>w#w-wsj1248-001-p1s7W14</LM>
 </w.rf>
 <form>United</form>
-<tag lemma="united-77" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="united-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="United-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1248-001-p1s7W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2361,7 +2399,10 @@
 <LM>w#w-wsj1248-001-p1s7W15</LM>
 </w.rf>
 <form>Airlines</form>
-<tag lemma="Airlines_;K_,t_^(souč._názvů,_např._American_A.)" src="auto" recommended="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Airlines_;K_,t_^(souč._názvů,_např._American_A.)" src="auto" recommended="1">NNFPX-----A----</AM>
+<AM lemma="Airlines-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1248-001-p1s7W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2458,7 +2499,10 @@
 <LM>w#w-wsj1248-001-p1s8W6</LM>
 </w.rf>
 <form>British</form>
-<tag lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="British-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1248-001-p1s8W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2471,6 +2515,7 @@
 <AM lemma="Air_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="air" src="auto">NNIS1-----A----</AM>
 <AM lemma="air" src="auto">NNIS4-----A----</AM>
+<AM lemma="Air-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1248-001-p1s8W8-Ta">
@@ -2490,6 +2535,7 @@
 <tag>
 <AM lemma="King_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="king_;L" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="King_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1248-001-p1s8W10-Ta">
@@ -2549,7 +2595,7 @@
 </w.rf>
 <form>zjevně</form>
 <tag>
-<AM lemma="zjevně-2" src="auto">TT-------------</AM>
+<AM lemma="zjevně-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="zjevně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
@@ -2925,7 +2971,10 @@
 <LM>w#w-wsj1248-001-p1s9W6</LM>
 </w.rf>
 <form>British</form>
-<tag lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="British-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1248-001-p1s9W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2938,6 +2987,7 @@
 <AM lemma="Air_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="air" src="auto">NNIS1-----A----</AM>
 <AM lemma="air" src="auto">NNIS4-----A----</AM>
+<AM lemma="Air-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1248-001-p1s9W8-Ta">
@@ -3102,7 +3152,10 @@
 <LM>w#w-wsj1248-001-p1s10W6</LM>
 </w.rf>
 <form>Lazard</form>
-<tag lemma="Lazard_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lazard_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Lazard-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1248-001-p1s10W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3111,7 +3164,7 @@
 </w.rf>
 <form>Brothers</form>
 <tag>
-<AM lemma="Brothers-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Brothers-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="brothers-77_,t" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -3137,6 +3190,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1248-001-p1s10W10-Ta">
@@ -4174,7 +4228,7 @@
 </w.rf>
 <form>patrně</form>
 <tag>
-<AM lemma="patrně" src="auto">TT-------------</AM>
+<AM lemma="patrně" src="auto" selected="1">TT-------------</AM>
 <AM lemma="patrně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
@@ -4630,7 +4684,10 @@
 <LM>w#w-wsj1248-001-p1s15W10</LM>
 </w.rf>
 <form>British</form>
-<tag lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="British-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1248-001-p1s15W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4641,6 +4698,7 @@
 <tag>
 <AM lemma="Airways-1_;K_,t_^(souč._názvů,_např._British_A.)" src="auto" recommended="1">NNFPX-----A----</AM>
 <AM lemma="Airways_;K_,t_^(souč._názvů,_např._British_A.)" src="auto">NNFPX-----A----</AM>
+<AM lemma="Airways-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1248-001-p1s15W12-Ta">
@@ -4702,7 +4760,10 @@
 <LM>w#w-wsj1248-001-p1s15W17</LM>
 </w.rf>
 <form>United</form>
-<tag lemma="united-77" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="united-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="United-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1248-001-p1s15W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4710,7 +4771,10 @@
 <LM>w#w-wsj1248-001-p1s15W18</LM>
 </w.rf>
 <form>Airlines</form>
-<tag lemma="Airlines_;K_,t_^(souč._názvů,_např._American_A.)" src="auto" recommended="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Airlines_;K_,t_^(souč._názvů,_např._American_A.)" src="auto" recommended="1">NNFPX-----A----</AM>
+<AM lemma="Airlines-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1248-001-p1s15W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5185,7 +5249,10 @@
 <LM>w#w-wsj1248-001-p1s17W2</LM>
 </w.rf>
 <form>British</form>
-<tag lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="British-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1248-001-p1s17W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5198,6 +5265,7 @@
 <AM lemma="Air_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="air" src="auto">NNIS1-----A----</AM>
 <AM lemma="air" src="auto">NNIS4-----A----</AM>
+<AM lemma="Air-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1248-001-p1s17W4-Ta">
@@ -5265,6 +5333,7 @@
 <AM lemma="Royal_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="royal" src="auto">NNIS1-----A----</AM>
 <AM lemma="royal" src="auto">NNIS4-----A----</AM>
+<AM lemma="Royal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1248-001-p1s17W11-Ta">
@@ -5277,6 +5346,7 @@
 <AM lemma="Dutch-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Dutch-2_;K" src="auto">NNIS1-----A----</AM>
 <AM lemma="Dutch-2_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Dutch-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1248-001-p1s17W12-Ta">
@@ -5285,7 +5355,10 @@
 <LM>w#w-wsj1248-001-p1s17W12</LM>
 </w.rf>
 <form>Airlines</form>
-<tag lemma="Airlines_;K_,t_^(souč._názvů,_např._American_A.)" src="auto" recommended="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Airlines_;K_,t_^(souč._názvů,_např._American_A.)" src="auto" recommended="1">NNFPX-----A----</AM>
+<AM lemma="Airlines-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1248-001-p1s17W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5422,7 +5495,10 @@
 <LM>w#w-wsj1248-001-p1s17W25</LM>
 </w.rf>
 <form>Sabena</form>
-<tag lemma="Sabena_;K" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Sabena_;K" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Sabena-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1248-001-p1s17W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5431,7 +5507,7 @@
 </w.rf>
 <form>World</form>
 <tag>
-<AM lemma="World-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="World-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="world-77_,t" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -5441,7 +5517,10 @@
 <LM>w#w-wsj1248-001-p1s17W27</LM>
 </w.rf>
 <form>Airlines</form>
-<tag lemma="Airlines_;K_,t_^(souč._názvů,_např._American_A.)" src="auto" recommended="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Airlines_;K_,t_^(souč._názvů,_např._American_A.)" src="auto" recommended="1">NNFPX-----A----</AM>
+<AM lemma="Airlines-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1248-001-p1s17W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5855,7 +5934,10 @@
 <LM>w#w-wsj1248-001-p1s19W13</LM>
 </w.rf>
 <form>British</form>
-<tag lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="British-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1248-001-p1s19W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5868,6 +5950,7 @@
 <AM lemma="Air_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="air" src="auto">NNIS1-----A----</AM>
 <AM lemma="air" src="auto">NNIS4-----A----</AM>
+<AM lemma="Air-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1248-001-p1s19W15-Ta">
@@ -6091,7 +6174,7 @@
 <AM lemma="emisní" src="auto">AAMS1----1A----</AM>
 <AM lemma="emisní" src="auto">AAMS5----1A----</AM>
 <AM lemma="emisní" src="auto" recommended="1">AANP1----1A----</AM>
-<AM lemma="emisní" src="auto">AANP4----1A----</AM>
+<AM lemma="emisní" src="auto" selected="1">AANP4----1A----</AM>
 <AM lemma="emisní" src="auto">AANP5----1A----</AM>
 <AM lemma="emisní" src="auto">AANS1----1A----</AM>
 <AM lemma="emisní" src="auto">AANS4----1A----</AM>
@@ -6107,7 +6190,7 @@
 <tag>
 <AM lemma="práv_^(oprávněný)" src="auto">ACQW------A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNP1-----A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNP4-----A----</AM>
+<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" selected="1">NNNP4-----A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNP5-----A----</AM>
 <AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNS2-----A----</AM>
 </tag>
@@ -6574,7 +6657,10 @@
 <LM>w#w-wsj1248-001-p1s22W8</LM>
 </w.rf>
 <form>British</form>
-<tag lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="British-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1248-001-p1s22W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6587,6 +6673,7 @@
 <AM lemma="Air_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="air" src="auto">NNIS1-----A----</AM>
 <AM lemma="air" src="auto">NNIS4-----A----</AM>
+<AM lemma="Air-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1248-001-p1s22W10-Ta">
@@ -6967,7 +7054,10 @@
 <LM>w#w-wsj1248-001-p1s23W3</LM>
 </w.rf>
 <form>British</form>
-<tag lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="British-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1248-001-p1s23W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6980,6 +7070,7 @@
 <AM lemma="Air_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="air" src="auto">NNIS1-----A----</AM>
 <AM lemma="air" src="auto">NNIS4-----A----</AM>
+<AM lemma="Air-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1248-001-p1s23W5-Ta">
@@ -7717,7 +7808,10 @@
 <LM>w#w-wsj1248-001-p1s25W11</LM>
 </w.rf>
 <form>British</form>
-<tag lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="British_;K_,t_^(souč._názvů,_např._B._Airways)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="British-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1248-001-p1s25W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7730,6 +7824,7 @@
 <AM lemma="Air_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="air" src="auto">NNIS1-----A----</AM>
 <AM lemma="air" src="auto">NNIS4-----A----</AM>
+<AM lemma="Air-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1248-001-p1s25W13-Ta">
@@ -7791,6 +7886,7 @@
 <tag>
 <AM lemma="King_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="king_;L" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="King_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1248-001-p1s26W7-Ta">

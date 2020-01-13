@@ -28,7 +28,10 @@
 <LM>w#w-wsj0724-001-p1s0W2</LM>
 </w.rf>
 <form>DeGol</form>
-<tag lemma="DeGol" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="DeGol" src="auto">X@-------------</AM>
+<AM lemma="DeGol_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0724-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -81,7 +84,10 @@
 <LM>w#w-wsj0724-001-p1s0W7</LM>
 </w.rf>
 <form>DeGol</form>
-<tag lemma="DeGol" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="DeGol" src="auto">X@-------------</AM>
+<AM lemma="DeGol-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0724-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -90,7 +96,7 @@
 </w.rf>
 <form>Brothers</form>
 <tag>
-<AM lemma="Brothers-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Brothers-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="brothers-77_,t" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -100,7 +106,10 @@
 <LM>w#w-wsj0724-001-p1s0W9</LM>
 </w.rf>
 <form>Lumber</form>
-<tag lemma="Lumber" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Lumber" src="auto">X@-------------</AM>
+<AM lemma="Lumber-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0724-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -133,7 +142,10 @@
 <LM>w#w-wsj0724-001-p1s0W12</LM>
 </w.rf>
 <form>Gallitzin</form>
-<tag lemma="Gallitzin" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Gallitzin" src="auto">X@-------------</AM>
+<AM lemma="Gallitzin_;G" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0724-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>

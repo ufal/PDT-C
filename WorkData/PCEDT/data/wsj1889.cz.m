@@ -31,6 +31,7 @@
 <AM lemma="Dayton_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Dayton_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Daytona_;G" src="auto">NNFP2-----A----</AM>
+<AM lemma="Dayton-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1889-001-p1s0W3-Ta">
@@ -45,6 +46,7 @@
 <AM lemma="Hudson_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="hudson_^(dopravní_prostředek)" src="auto">NNIS1-----A----</AM>
 <AM lemma="hudson_^(dopravní_prostředek)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Hudson-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1889-001-p1s0W4-Ta">
@@ -53,7 +55,10 @@
 <LM>w#w-wsj1889-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1889-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -736,7 +741,7 @@
 <form>zvolí</form>
 <tag>
 <AM lemma="zvolit" src="auto" recommended="1">VB-P---3P-AAP--</AM>
-<AM lemma="zvolit" src="auto">VB-S---3P-AAP--</AM>
+<AM lemma="zvolit" src="auto" selected="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m-wsj1889-001-p1s3W5-Ta">
@@ -769,7 +774,7 @@
 <form>nakoupí</form>
 <tag>
 <AM lemma="nakoupit" src="auto" recommended="1">VB-P---3P-AAP--</AM>
-<AM lemma="nakoupit" src="auto">VB-S---3P-AAP--</AM>
+<AM lemma="nakoupit" src="auto" selected="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m-wsj1889-001-p1s3W8-Ta">
@@ -811,7 +816,7 @@
 <form>akcie</form>
 <tag>
 <AM lemma="akcie" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="akcie" src="auto">NNFP4-----A----</AM>
+<AM lemma="akcie" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="akcie" src="auto">NNFP5-----A----</AM>
 <AM lemma="akcie" src="auto">NNFS1-----A----</AM>
 <AM lemma="akcie" src="auto">NNFS2-----A----</AM>
@@ -1046,6 +1051,7 @@
 <AM lemma="Dayton_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Dayton_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Daytona_;G" src="auto">NNFP2-----A----</AM>
+<AM lemma="Dayton-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1889-001-p1s4W7-Ta">
@@ -1060,6 +1066,7 @@
 <AM lemma="Hudson_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="hudson_^(dopravní_prostředek)" src="auto">NNIS1-----A----</AM>
 <AM lemma="hudson_^(dopravní_prostředek)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Hudson-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1889-001-p1s4W8-Ta">
@@ -1313,6 +1320,7 @@
 <AM lemma="Dayton_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Dayton_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Daytona_;G" src="auto">NNFP2-----A----</AM>
+<AM lemma="Dayton-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1889-001-p1s5W3-Ta">
@@ -1327,6 +1335,7 @@
 <AM lemma="Hudson_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="hudson_^(dopravní_prostředek)" src="auto">NNIS1-----A----</AM>
 <AM lemma="hudson_^(dopravní_prostředek)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Hudson-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1889-001-p1s5W4-Ta">
@@ -1480,7 +1489,7 @@
 <form>předložené</form>
 <tag>
 <AM lemma="předložený_^(*3it)" src="auto">AAFP1----1A----</AM>
-<AM lemma="předložený_^(*3it)" src="auto">AAFP4----1A----</AM>
+<AM lemma="předložený_^(*3it)" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="předložený_^(*3it)" src="auto">AAFP5----1A----</AM>
 <AM lemma="předložený_^(*3it)" src="auto" recommended="1">AAFS2----1A----</AM>
 <AM lemma="předložený_^(*3it)" src="auto">AAFS3----1A----</AM>
@@ -1598,7 +1607,7 @@
 <AM lemma="nízký" src="auto">AAFS3----2A----</AM>
 <AM lemma="nízký" src="auto">AAFS4----2A----</AM>
 <AM lemma="nízký" src="auto">AAFS5----2A----</AM>
-<AM lemma="nízký" src="auto">AAFS6----2A----</AM>
+<AM lemma="nízký" src="auto" selected="1">AAFS6----2A----</AM>
 <AM lemma="nízký" src="auto">AAFS7----2A----</AM>
 <AM lemma="nízký" src="auto">AAIP1----2A----</AM>
 <AM lemma="nízký" src="auto">AAIP4----2A----</AM>
@@ -2397,6 +2406,7 @@
 <AM lemma="Dayton_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Dayton_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Daytona_;G" src="auto">NNFP2-----A----</AM>
+<AM lemma="Dayton_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1889-001-p1s8W11-Ta">

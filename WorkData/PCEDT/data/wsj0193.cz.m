@@ -27,7 +27,7 @@
 <LM>w#w-wsj0193-001-p1s0W2</LM>
 </w.rf>
 <form>NCR</form>
-<tag lemma="NCR-88_:B" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag lemma="NCR-88_:B" src="auto" recommended="1" selected="1">NNXXX-----A----</tag>
 </m>
 <m id="m-wsj0193-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +35,10 @@
 <LM>w#w-wsj0193-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0193-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -129,6 +132,7 @@
 <tag>
 <AM lemma="Tower_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Tower_;G" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Tower_;G_;R" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0193-001-p1s0W11-Ta">
@@ -376,6 +380,7 @@
 <tag>
 <AM lemma="Tower_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Tower_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Tower_;G_;R" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0193-001-p1s0W27-Ta">
@@ -652,7 +657,10 @@
 <LM>w#w-wsj0193-001-p1s1W9</LM>
 </w.rf>
 <form>NetWare</form>
-<tag lemma="netware_;K" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="netware_;K" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="netware_;K_;R" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0193-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -681,6 +689,7 @@
 <AM lemma="Novell_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="Novella_;G_^(Santa_Maria_Novella)" src="auto">NNFP2-----A----</AM>
 <AM lemma="novela_,a_,x" src="auto">NNFP2-----A----</AM>
+<AM lemma="Novell-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0193-001-p1s1W12-Ta">
@@ -692,6 +701,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0193-001-p1s1W13-Ta">

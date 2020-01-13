@@ -85,7 +85,10 @@
 <LM>w#w-wsj2141-001-p1s0W5</LM>
 </w.rf>
 <form>Bulseco</form>
-<tag lemma="Bulseco" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Bulseco" src="auto">X@-------------</AM>
+<AM lemma="Bulseco_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2141-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -350,7 +353,7 @@
 <tag>
 <AM lemma="obsazený_^(*4dit)" src="auto" recommended="1">AAFS1----1N----</AM>
 <AM lemma="obsazený_^(*4dit)" src="auto">AAFS5----1N----</AM>
-<AM lemma="obsazený_^(*4dit)" src="auto">AANP1----1N----</AM>
+<AM lemma="obsazený_^(*4dit)" src="auto" selected="1">AANP1----1N----</AM>
 <AM lemma="obsazený_^(*4dit)" src="auto">AANP4----1N----</AM>
 <AM lemma="obsazený_^(*4dit)" src="auto">AANP5----1N----</AM>
 </tag>
@@ -414,7 +417,10 @@
 <LM>w#w-wsj2141-001-p1s2W3</LM>
 </w.rf>
 <form>Robie</form>
-<tag lemma="Robie" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Robie" src="auto">X@-------------</AM>
+<AM lemma="Robie_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2141-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>

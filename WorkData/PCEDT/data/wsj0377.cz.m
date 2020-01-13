@@ -27,7 +27,10 @@
 <LM>w#w-wsj0377-001-p1s0W2</LM>
 </w.rf>
 <form>Sanwa</form>
-<tag lemma="Sanwa" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Sanwa" src="auto">X@-------------</AM>
+<AM lemma="Sanwa-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0377-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj0377-001-p1s0W3</LM>
 </w.rf>
 <form>Shutter</form>
-<tag lemma="Shutter" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Shutter" src="auto">X@-------------</AM>
+<AM lemma="Shutter-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0377-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -408,6 +414,7 @@
 <AM lemma="sinus" src="auto">NNIS1-----A---2</AM>
 <AM lemma="sinus" src="auto">NNIS4-----A---2</AM>
 <AM lemma="sinus_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="Sin-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0377-001-p1s1W13-Ta">
@@ -416,7 +423,10 @@
 <LM>w#w-wsj0377-001-p1s1W13</LM>
 </w.rf>
 <form>Kean</form>
-<tag lemma="Kean_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Kean_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Kean-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0377-001-p1s1W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -424,7 +434,10 @@
 <LM>w#w-wsj0377-001-p1s1W14</LM>
 </w.rf>
 <form>Boon</form>
-<tag lemma="Boon_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Boon_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Boon-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0377-001-p1s1W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -438,6 +451,7 @@
 <AM lemma="metat" src="auto">VpYS---XR-AAI--</AM>
 <AM lemma="metal" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="metal" src="auto">NNIS4-----A----</AM>
+<AM lemma="Metal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0377-001-p1s1W16-Ta">
@@ -446,7 +460,10 @@
 <LM>w#w-wsj0377-001-p1s1W16</LM>
 </w.rf>
 <form>Industries</form>
-<tag lemma="Industries" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Industries" src="auto">X@-------------</AM>
+<AM lemma="Industries-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0377-001-p1s1W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -466,7 +483,7 @@
 <AM lemma="sídlící_^(*3it)" src="auto">AGFP1-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto">AGFP4-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto">AGFP5-----A----</AM>
-<AM lemma="sídlící_^(*3it)" src="auto">AGFS1-----A----</AM>
+<AM lemma="sídlící_^(*3it)" src="auto" selected="1">AGFS1-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto">AGFS2-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto">AGFS3-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto">AGFS4-----A----</AM>
@@ -688,6 +705,7 @@
 <AM lemma="sinus" src="auto">NNIS1-----A---2</AM>
 <AM lemma="sinus" src="auto">NNIS4-----A---2</AM>
 <AM lemma="sinus_:B" src="auto">NNNXX-----A---8</AM>
+<AM lemma="Sin-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0377-001-p1s2W12-Ta">
@@ -696,7 +714,10 @@
 <LM>w#w-wsj0377-001-p1s2W12</LM>
 </w.rf>
 <form>Kean</form>
-<tag lemma="Kean_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Kean_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Kean-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0377-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -704,7 +725,10 @@
 <LM>w#w-wsj0377-001-p1s2W13</LM>
 </w.rf>
 <form>Boon</form>
-<tag lemma="Boon_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Boon_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Boon-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0377-001-p1s2W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -720,7 +744,10 @@
 <LM>w#w-wsj0377-001-p1s2W15</LM>
 </w.rf>
 <form>Sanwa</form>
-<tag lemma="Sanwa" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Sanwa" src="auto">X@-------------</AM>
+<AM lemma="Sanwa-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0377-001-p1s2W16-Ta">
 <src.rf>tagger-a</src.rf>

@@ -320,7 +320,7 @@
 <AM lemma="celý" src="auto">AAIP6----1A----</AM>
 <AM lemma="celý" src="auto">AAMP2----1A----</AM>
 <AM lemma="celý" src="auto">AAMP6----1A----</AM>
-<AM lemma="celý" src="auto">AANP2----1A----</AM>
+<AM lemma="celý" src="auto" selected="1">AANP2----1A----</AM>
 <AM lemma="celý" src="auto">AANP6----1A----</AM>
 </tag>
 </m>
@@ -1605,7 +1605,7 @@
 <LM>w#w-wsj0624-001-p1s5W8</LM>
 </w.rf>
 <form>zhruba</form>
-<tag lemma="zhruba" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="zhruba" src="auto" recommended="1" selected="1">Db-------------</tag>
 </m>
 <m id="m-wsj0624-001-p1s5W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2430,6 +2430,7 @@
 <tag>
 <AM lemma="Brady_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Brady_;S" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Bradyho_;S_^(*2)" src="manual" selected="1">AUIS1M---------</AM>
 </tag>
 </m>
 <m id="m-wsj0624-001-p1s8W14-Ta">
@@ -2509,7 +2510,7 @@
 <tag>
 <AM lemma="jak-1_;L_^(živočich)" src="auto">NNMS1-----A----</AM>
 <AM lemma="jak-2" src="auto">J,-------------</AM>
-<AM lemma="jak-2" src="auto">J^-------------</AM>
+<AM lemma="jak-2" src="auto" selected="1">J^-------------</AM>
 <AM lemma="jak-3" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="jak-99_:B_;S" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -2589,7 +2590,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -2617,7 +2618,7 @@
 </w.rf>
 <form>zadluženým</form>
 <tag>
-<AM lemma="zadlužený_^(*3it)" src="auto">AAFP3----1A----</AM>
+<AM lemma="zadlužený_^(*3it)" src="auto" selected="1">AAFP3----1A----</AM>
 <AM lemma="zadlužený_^(*3it)" src="auto">AAIP3----1A----</AM>
 <AM lemma="zadlužený_^(*3it)" src="auto">AAIS6----1A---7</AM>
 <AM lemma="zadlužený_^(*3it)" src="auto">AAIS7----1A----</AM>

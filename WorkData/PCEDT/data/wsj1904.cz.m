@@ -146,7 +146,10 @@
 <LM>w#w-wsj1904-001-p1s0W11</LM>
 </w.rf>
 <form>Rhone</form>
-<tag lemma="Rhone" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Rhone" src="auto">X@-------------</AM>
+<AM lemma="Rhone-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1904-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -162,7 +165,10 @@
 <LM>w#w-wsj1904-001-p1s0W13</LM>
 </w.rf>
 <form>Poulenc</form>
-<tag lemma="Poulenc_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Poulenc_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Poulenc-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1904-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -278,7 +284,7 @@
 </w.rf>
 <form>na</form>
 <tag>
-<AM lemma="na-1" src="auto">RR--4----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--4----------</AM>
 <AM lemma="na-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
@@ -292,7 +298,7 @@
 <tag>
 <AM lemma="volno-2" src="auto" recommended="1">NNNS6-----A----</AM>
 <AM lemma="volnit_,s" src="auto">VeYS------A-I--</AM>
-<AM lemma="volně_^(*1ý)" src="auto">Dg-------1A----</AM>
+<AM lemma="volně_^(*1ý)" src="auto" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1904-001-p1s0W23-Ta">
@@ -303,7 +309,7 @@
 <form>ložené</form>
 <tag>
 <AM lemma="ložený_^(*3it)" src="auto">AAFP1----1A----</AM>
-<AM lemma="ložený_^(*3it)" src="auto">AAFP4----1A----</AM>
+<AM lemma="ložený_^(*3it)" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="ložený_^(*3it)" src="auto">AAFP5----1A----</AM>
 <AM lemma="ložený_^(*3it)" src="auto" recommended="1">AAFS2----1A----</AM>
 <AM lemma="ložený_^(*3it)" src="auto">AAFS3----1A----</AM>
@@ -328,7 +334,7 @@
 <form>chemikálie</form>
 <tag>
 <AM lemma="chemikálie" src="auto">NNFP1-----A----</AM>
-<AM lemma="chemikálie" src="auto">NNFP4-----A----</AM>
+<AM lemma="chemikálie" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="chemikálie" src="auto">NNFP5-----A----</AM>
 <AM lemma="chemikálie" src="auto">NNFS1-----A----</AM>
 <AM lemma="chemikálie" src="auto" recommended="1">NNFS2-----A----</AM>
@@ -372,6 +378,8 @@
 <AM lemma="Monsanto_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Monsanto_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Monsanto_;G" src="auto">NNNS5-----A----</AM>
+<AM lemma="Monsanto-77" src="manual">F%-------------</AM>
+<AM lemma="Monsanto_;G_;K" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1904-001-p1s0W28-Ta">
@@ -388,6 +396,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77_:B" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1904-001-p1s0W29-Ta">
@@ -1065,7 +1074,10 @@
 <LM>w#w-wsj1904-001-p1s1W37</LM>
 </w.rf>
 <form>Rhone</form>
-<tag lemma="Rhone" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Rhone" src="auto">X@-------------</AM>
+<AM lemma="Rhone-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1904-001-p1s1W38-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1081,7 +1093,10 @@
 <LM>w#w-wsj1904-001-p1s1W39</LM>
 </w.rf>
 <form>Poulenc</form>
-<tag lemma="Poulenc_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Poulenc_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Poulenc-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1904-001-p1s1W40-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1565,7 +1580,7 @@
 </w.rf>
 <form>fúzi</form>
 <tag>
-<AM lemma="fúze" src="auto">NNFS3-----A----</AM>
+<AM lemma="fúze" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="fúze" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="fúze" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -1585,7 +1600,7 @@
 </w.rf>
 <form>společnost</form>
 <tag>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS1-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
@@ -1595,7 +1610,10 @@
 <LM>w#w-wsj1904-001-p1s3W15</LM>
 </w.rf>
 <form>Rhone</form>
-<tag lemma="Rhone" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Rhone" src="auto">X@-------------</AM>
+<AM lemma="Rhone-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1904-001-p1s3W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1611,7 +1629,10 @@
 <LM>w#w-wsj1904-001-p1s3W17</LM>
 </w.rf>
 <form>Poulenc</form>
-<tag lemma="Poulenc_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Poulenc_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Poulenc-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1904-001-p1s3W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1749,6 +1770,7 @@
 <AM lemma="Monsanto_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Monsanto_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Monsanto_;G" src="auto">NNNS5-----A----</AM>
+<AM lemma="Monsanto_;G_;K" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1904-001-p1s3W30-Ta">

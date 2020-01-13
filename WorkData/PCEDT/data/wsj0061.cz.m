@@ -27,7 +27,10 @@
 <LM>w#w-wsj0061-001-p1s0W2</LM>
 </w.rf>
 <form>Life</form>
-<tag lemma="Life" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Life" src="auto">X@-------------</AM>
+<AM lemma="Life-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0061-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj0061-001-p1s0W3</LM>
 </w.rf>
 <form>Insurance</form>
-<tag lemma="Insurance" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Insurance" src="auto">X@-------------</AM>
+<AM lemma="Insurance-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0061-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -51,6 +57,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0061-001-p1s0W5-Ta">
@@ -67,7 +74,10 @@
 <LM>w#w-wsj0061-001-p1s0W6</LM>
 </w.rf>
 <form>of</form>
-<tag lemma="of-77_,t" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="of-77_,t" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="of-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0061-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -79,6 +89,7 @@
 <AM lemma="Georgias_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Georgias_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="Georgia_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Georgia-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0061-001-p1s0W8-Ta">
@@ -169,7 +180,10 @@
 <LM>w#w-wsj0061-001-p1s1W2</LM>
 </w.rf>
 <form>Wu</form>
-<tag lemma="Wu" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Wu" src="auto">X@-------------</AM>
+<AM lemma="Wu-2_;S" src="manual" selected="1">NNMXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0061-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -289,7 +303,10 @@
 <LM>w#w-wsj0061-001-p1s1W13</LM>
 </w.rf>
 <form>Life</form>
-<tag lemma="Life" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Life" src="auto">X@-------------</AM>
+<AM lemma="Life-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0061-001-p1s1W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -297,7 +314,10 @@
 <LM>w#w-wsj0061-001-p1s1W14</LM>
 </w.rf>
 <form>of</form>
-<tag lemma="of-77_,t" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="of-77_,t" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="of-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0061-001-p1s1W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -309,6 +329,7 @@
 <AM lemma="Georgias_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Georgias_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="Georgia_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Georgia-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0061-001-p1s1W16-Ta">
@@ -482,7 +503,10 @@
 <LM>w#w-wsj0061-001-p1s2W2</LM>
 </w.rf>
 <form>Life</form>
-<tag lemma="Life" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Life" src="auto">X@-------------</AM>
+<AM lemma="Life-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0061-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -490,7 +514,10 @@
 <LM>w#w-wsj0061-001-p1s2W3</LM>
 </w.rf>
 <form>of</form>
-<tag lemma="of-77_,t" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="of-77_,t" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="of-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0061-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -502,6 +529,7 @@
 <AM lemma="Georgias_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Georgias_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="Georgia_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Georgia-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0061-001-p1s2W5-Ta">
@@ -546,7 +574,10 @@
 <LM>w#w-wsj0061-001-p1s2W8</LM>
 </w.rf>
 <form>Nationale</form>
-<tag lemma="Nationale" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Nationale" src="auto">X@-------------</AM>
+<AM lemma="Nationale-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0061-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -554,7 +585,10 @@
 <LM>w#w-wsj0061-001-p1s2W9</LM>
 </w.rf>
 <form>Nederlanden</form>
-<tag lemma="Nederlanden" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Nederlanden" src="auto">X@-------------</AM>
+<AM lemma="Nederlanden-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0061-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -562,7 +596,10 @@
 <LM>w#w-wsj0061-001-p1s2W10</LM>
 </w.rf>
 <form>Group</form>
-<tag lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0061-001-p1s2W11-Ta">
 <src.rf>tagger-a</src.rf>

@@ -27,7 +27,10 @@
 <LM>w#w-wsj2026-001-p1s0W2</LM>
 </w.rf>
 <form>Rohm</form>
-<tag lemma="Rohm_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Rohm_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Rohm-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2026-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,7 +46,10 @@
 <LM>w#w-wsj2026-001-p1s0W4</LM>
 </w.rf>
 <form>Haas</form>
-<tag lemma="Haas_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Haas_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Haas-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2026-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -59,6 +65,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2026-001-p1s0W6-Ta">
@@ -894,7 +901,10 @@
 <LM>w#w-wsj2026-001-p1s3W2</LM>
 </w.rf>
 <form>Rohm</form>
-<tag lemma="Rohm_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Rohm_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Rohm-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2026-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -910,7 +920,10 @@
 <LM>w#w-wsj2026-001-p1s3W4</LM>
 </w.rf>
 <form>Haas</form>
-<tag lemma="Haas_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Haas_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Haas-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2026-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1534,7 +1547,10 @@
 <LM>w#w-wsj2026-001-p1s5W13</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</tag>
+<tag>
+<AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2026-001-p1s5W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2032,7 +2048,10 @@
 <LM>w#w-wsj2026-001-p1s7W4</LM>
 </w.rf>
 <form>Rohm</form>
-<tag lemma="Rohm_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Rohm_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Rohm-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2026-001-p1s7W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2048,7 +2067,10 @@
 <LM>w#w-wsj2026-001-p1s7W6</LM>
 </w.rf>
 <form>Haas</form>
-<tag lemma="Haas_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Haas_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Haas-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2026-001-p1s7W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2292,7 +2314,7 @@
 <tag>
 <AM lemma="loňský" src="auto" recommended="1">AAFP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAFP6----1A----</AM>
-<AM lemma="loňský" src="auto">AAIP2----1A----</AM>
+<AM lemma="loňský" src="auto" selected="1">AAIP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAIP6----1A----</AM>
 <AM lemma="loňský" src="auto">AAMP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAMP6----1A----</AM>
@@ -2474,7 +2496,7 @@
 <tag>
 <AM lemma="loňský" src="auto" recommended="1">AAFP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAFP6----1A----</AM>
-<AM lemma="loňský" src="auto">AAIP2----1A----</AM>
+<AM lemma="loňský" src="auto" selected="1">AAIP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAIP6----1A----</AM>
 <AM lemma="loňský" src="auto">AAMP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAMP6----1A----</AM>
@@ -2715,7 +2737,10 @@
 <LM>w#w-wsj2026-001-p1s9W11</LM>
 </w.rf>
 <form>Rohm</form>
-<tag lemma="Rohm_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Rohm_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Rohm-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2026-001-p1s9W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2731,7 +2756,10 @@
 <LM>w#w-wsj2026-001-p1s9W13</LM>
 </w.rf>
 <form>Haas</form>
-<tag lemma="Haas_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Haas_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Haas-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2026-001-p1s9W14-Ta">
 <src.rf>tagger-a</src.rf>

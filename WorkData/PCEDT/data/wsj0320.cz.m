@@ -27,7 +27,10 @@
 <LM>w#w-wsj0320-001-p1s0W2</LM>
 </w.rf>
 <form>DeSoto</form>
-<tag lemma="DeSoto" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="DeSoto" src="auto">X@-------------</AM>
+<AM lemma="DeSoto-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0320-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -38,6 +41,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0320-001-p1s0W4-Ta">
@@ -316,7 +320,11 @@
 <LM>w#w-wsj0320-001-p1s1W2</LM>
 </w.rf>
 <form>DeSoto</form>
-<tag lemma="DeSoto" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="DeSoto" src="auto">X@-------------</AM>
+<AM lemma="DeSoto-77" src="manual">F%-------------</AM>
+<AM lemma="DeSoto_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0320-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -569,7 +577,7 @@
 </w.rf>
 <form>Des</form>
 <tag>
-<AM lemma="Des-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Des-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="des-77_,t" src="auto">F%-------------</AM>
 <AM lemma="desátník_:B" src="auto">NNMXX-----A---8</AM>
 </tag>
@@ -580,7 +588,10 @@
 <LM>w#w-wsj0320-001-p1s2W3</LM>
 </w.rf>
 <form>Plaines</form>
-<tag lemma="Plaines" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Plaines" src="auto">X@-------------</AM>
+<AM lemma="Plaines-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0320-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -601,6 +612,11 @@
 </w.rf>
 <form>Illionis</form>
 <tag lemma="Illionis" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Illinois</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0320-001-p1s2W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1094,6 +1110,7 @@
 <AM lemma="Chicago_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Chicago_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Chicago_;G" src="auto">NNNS5-----A----</AM>
+<AM lemma="Chicago-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0320-001-p1s2W43-Ta">
@@ -1102,7 +1119,10 @@
 <LM>w#w-wsj0320-001-p1s2W43</LM>
 </w.rf>
 <form>Heights</form>
-<tag lemma="Heights" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Heights" src="auto">X@-------------</AM>
+<AM lemma="Heights-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0320-001-p1s2W44-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1129,6 +1149,7 @@
 <AM lemma="Illinois" src="auto">NNIS7-----A---1</AM>
 <AM lemma="Illinois_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Illinois_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Illinois_;G" src="manual" selected="1">NNIS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0320-001-p1s2W46-Ta">
@@ -1254,7 +1275,7 @@
 <form>výnos</form>
 <tag>
 <AM lemma="výnos" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="výnos" src="auto">NNIS4-----A----</AM>
+<AM lemma="výnos" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0320-001-p1s3W6-Ta">

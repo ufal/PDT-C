@@ -30,6 +30,7 @@
 <tag>
 <AM lemma="Honeywell_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Honeywell_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Honeywell-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1179-001-p1s0W3-Ta">
@@ -41,6 +42,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1179-001-p1s0W4-Ta">
@@ -164,7 +166,10 @@
 <LM>w#w-wsj1179-001-p1s0W15</LM>
 </w.rf>
 <form>Yamatake</form>
-<tag lemma="Yamatake" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Yamatake" src="auto">X@-------------</AM>
+<AM lemma="Yamatake-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1179-001-p1s0W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -183,6 +188,7 @@
 <tag>
 <AM lemma="Honeywell_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Honeywell_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Honeywell-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1179-001-p1s0W18-Ta">
@@ -616,7 +622,7 @@
 <AM lemma="Jaca-1_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="Jak_;R" src="auto">NNMS1-----A----</AM>
 <AM lemma="jak-1_;L_^(živočich)" src="auto">NNMS1-----A----</AM>
-<AM lemma="jak-2" src="auto">J,-------------</AM>
+<AM lemma="jak-2" src="auto" selected="1">J,-------------</AM>
 <AM lemma="jak-2" src="auto">J^-------------</AM>
 <AM lemma="jak-3" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="jak-99_:B_;S" src="auto">NNXXX-----A----</AM>
@@ -925,7 +931,10 @@
 <LM>w#w-wsj1179-001-p1s3W13</LM>
 </w.rf>
 <form>Yamatake</form>
-<tag lemma="Yamatake" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Yamatake" src="auto">X@-------------</AM>
+<AM lemma="Yamatake-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1179-001-p1s3W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -944,6 +953,7 @@
 <tag>
 <AM lemma="Honeywell_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Honeywell_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Honeywell-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1179-001-p1s3W16-Ta">
@@ -1301,7 +1311,7 @@
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -1360,7 +1370,10 @@
 <LM>w#w-wsj1179-001-p1s5W11</LM>
 </w.rf>
 <form>Yamatake</form>
-<tag lemma="Yamatake" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Yamatake" src="auto">X@-------------</AM>
+<AM lemma="Yamatake_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1179-001-p1s5W12-Ta">
 <src.rf>tagger-a</src.rf>

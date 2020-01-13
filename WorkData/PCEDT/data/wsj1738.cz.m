@@ -252,7 +252,10 @@
 <LM>w#w-wsj1738-001-p1s0W20</LM>
 </w.rf>
 <form>Seabrook</form>
-<tag lemma="Seabrook" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Seabrook" src="auto">X@-------------</AM>
+<AM lemma="Seabrook_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1738-001-p1s0W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -812,7 +815,10 @@
 <LM>w#w-wsj1738-001-p1s2W3</LM>
 </w.rf>
 <form>Seabrook</form>
-<tag lemma="Seabrook" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Seabrook" src="auto">X@-------------</AM>
+<AM lemma="Seabrook_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1738-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1090,6 +1096,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1738-001-p1s3W11-Ta">
@@ -1263,7 +1270,10 @@
 <LM>w#w-wsj1738-001-p1s3W21</LM>
 </w.rf>
 <form>Seabrook</form>
-<tag lemma="Seabrook" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Seabrook" src="auto">X@-------------</AM>
+<AM lemma="Seabrook_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1738-001-p1s3W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1441,7 +1451,7 @@
 <tag>
 <AM lemma="Shannon-2_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Shannon-2_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Shannon_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Shannon_;S" src="auto" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1738-001-p1s4W2-Ta">
@@ -1851,7 +1861,10 @@
 <LM>w#w-wsj1738-001-p1s5W14</LM>
 </w.rf>
 <form>Seabrook</form>
-<tag lemma="Seabrook" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Seabrook" src="auto">X@-------------</AM>
+<AM lemma="Seabrook_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1738-001-p1s5W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2220,7 +2233,7 @@
 </w.rf>
 <form>bezpředmětné</form>
 <tag>
-<AM lemma="bezpředmětný" src="auto">AAFP1----1A----</AM>
+<AM lemma="bezpředmětný" src="auto" selected="1">AAFP1----1A----</AM>
 <AM lemma="bezpředmětný" src="auto">AAFP4----1A----</AM>
 <AM lemma="bezpředmětný" src="auto">AAFP5----1A----</AM>
 <AM lemma="bezpředmětný" src="auto">AAFS2----1A----</AM>
@@ -2861,6 +2874,7 @@
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AAMS2----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AAMS4----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS2----1A----</AM>
+<AM lemma="konkurzní_^(týkající_se_úpadku,_soutěže)" src="manual" selected="1">AAIS2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1738-001-p1s7W18-Ta">

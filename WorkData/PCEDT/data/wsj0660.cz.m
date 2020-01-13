@@ -27,7 +27,10 @@
 <LM>w#w-wsj0660-001-p1s0W2</LM>
 </w.rf>
 <form>Montedison</form>
-<tag lemma="Montedison" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Montedison" src="auto">X@-------------</AM>
+<AM lemma="Montedison-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0660-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -70,7 +73,7 @@
 <tag>
 <AM lemma="p-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="p-77" src="auto">F%-------------</AM>
-<AM lemma="p-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="p-88_:B" src="auto" selected="1">NNXXX-----A----</AM>
 <AM lemma="pod-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="pod-1_:B" src="auto">RR--7---------8</AM>
 <AM lemma="podnik_:B" src="auto">NNIXX-----A---8</AM>
@@ -94,7 +97,7 @@
 <tag>
 <AM lemma="A-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="A-77_^(př._a_la)" src="auto">F%-------------</AM>
-<AM lemma="A-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="A-88_:B" src="auto" selected="1">NNXXX-----A----</AM>
 <AM lemma="ampér" src="auto">NNIXX-----A---8</AM>
 <AM lemma="a-1" src="auto">J^-------------</AM>
 <AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
@@ -262,7 +265,10 @@
 <LM>w#w-wsj0660-001-p1s0W20</LM>
 </w.rf>
 <form>Erbamont</form>
-<tag lemma="Erbamont" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Erbamont" src="auto">X@-------------</AM>
+<AM lemma="Erbamont-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0660-001-p1s0W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -395,7 +401,10 @@
 <LM>w#w-wsj0660-001-p1s1W2</LM>
 </w.rf>
 <form>Montedison</form>
-<tag lemma="Montedison" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Montedison" src="auto">X@-------------</AM>
+<AM lemma="Montedison_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0660-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -500,7 +509,10 @@
 <LM>w#w-wsj0660-001-p1s1W10</LM>
 </w.rf>
 <form>Erbamont</form>
-<tag lemma="Erbamont" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Erbamont" src="auto">X@-------------</AM>
+<AM lemma="Erbamont_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0660-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -685,6 +697,11 @@
 <AM lemma="složený_^(*3it)" src="auto">AANS4----1A----</AM>
 <AM lemma="složený_^(*3it)" src="auto">AANS5----1A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>složenou</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0660-001-p1s2W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -744,7 +761,10 @@
 <LM>w#w-wsj0660-001-p1s2W16</LM>
 </w.rf>
 <form>Erbamont</form>
-<tag lemma="Erbamont" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Erbamont" src="auto">X@-------------</AM>
+<AM lemma="Erbamont_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0660-001-p1s2W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -807,7 +827,10 @@
 <LM>w#w-wsj0660-001-p1s2W23</LM>
 </w.rf>
 <form>Montedison</form>
-<tag lemma="Montedison" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Montedison" src="auto">X@-------------</AM>
+<AM lemma="Montedison_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0660-001-p1s2W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -880,7 +903,10 @@
 <LM>w#w-wsj0660-001-p1s3W6</LM>
 </w.rf>
 <form>Montedison</form>
-<tag lemma="Montedison" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Montedison" src="auto">X@-------------</AM>
+<AM lemma="Montedison_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0660-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -909,6 +935,11 @@
 <AM lemma="na-1" src="auto">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>slovo sem logicky nepatří</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0660-001-p1s3W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -967,7 +998,10 @@
 <LM>w#w-wsj0660-001-p1s3W14</LM>
 </w.rf>
 <form>Erbamont</form>
-<tag lemma="Erbamont" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Erbamont" src="auto">X@-------------</AM>
+<AM lemma="Erbamont_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0660-001-p1s3W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1110,7 +1144,10 @@
 <LM>w#w-wsj0660-001-p1s4W10</LM>
 </w.rf>
 <form>Erbamont</form>
-<tag lemma="Erbamont" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Erbamont" src="auto">X@-------------</AM>
+<AM lemma="Erbamont_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0660-001-p1s4W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1133,7 +1170,7 @@
 <AM lemma="který" src="auto">P4FS3----------</AM>
 <AM lemma="který" src="auto">P4FS6----------</AM>
 <AM lemma="který" src="auto">P4IP1----------</AM>
-<AM lemma="který" src="auto">P4NP1---------6</AM>
+<AM lemma="který" src="auto" selected="1">P4NP1---------6</AM>
 <AM lemma="který" src="auto">P4NP4---------6</AM>
 <AM lemma="který" src="auto">P4NS1----------</AM>
 <AM lemma="který" src="auto">P4NS4----------</AM>
@@ -1228,7 +1265,10 @@
 <LM>w#w-wsj0660-001-p1s4W20</LM>
 </w.rf>
 <form>Montedison</form>
-<tag lemma="Montedison" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Montedison" src="auto">X@-------------</AM>
+<AM lemma="Montedison_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0660-001-p1s4W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1257,7 +1297,10 @@
 <LM>w#w-wsj0660-001-p1s5W2</LM>
 </w.rf>
 <form>Erbamont</form>
-<tag lemma="Erbamont" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Erbamont" src="auto">X@-------------</AM>
+<AM lemma="Erbamont_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0660-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1370,7 +1413,10 @@
 <LM>w#w-wsj0660-001-p1s5W10</LM>
 </w.rf>
 <form>Erbamont</form>
-<tag lemma="Erbamont" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Erbamont" src="auto">X@-------------</AM>
+<AM lemma="Erbamont_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0660-001-p1s5W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1379,7 +1425,7 @@
 </w.rf>
 <form>obdrží</form>
 <tag>
-<AM lemma="obdržet" src="auto">VB-P---3P-AAP--</AM>
+<AM lemma="obdržet" src="auto" selected="1">VB-P---3P-AAP--</AM>
 <AM lemma="obdržet" src="auto" recommended="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
@@ -1636,7 +1682,10 @@
 <LM>w#w-wsj0660-001-p1s6W20</LM>
 </w.rf>
 <form>Erbamont</form>
-<tag lemma="Erbamont" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Erbamont" src="auto">X@-------------</AM>
+<AM lemma="Erbamont_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0660-001-p1s6W21-Ta">
 <src.rf>tagger-a</src.rf>

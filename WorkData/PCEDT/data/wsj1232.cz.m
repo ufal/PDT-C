@@ -349,6 +349,7 @@
 <tag>
 <AM lemma="Fo_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Fo_;S" src="auto" recommended="1">NNMP7-----A----</AM>
+<AM lemma="Foy_;S" src="manual" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1232-001-p1s2W5-Ta">
@@ -490,7 +491,7 @@
 <form>individuální</form>
 <tag>
 <AM lemma="individuální" src="auto">AAFP1----1A----</AM>
-<AM lemma="individuální" src="auto">AAFP4----1A----</AM>
+<AM lemma="individuální" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="individuální" src="auto">AAFP5----1A----</AM>
 <AM lemma="individuální" src="auto">AAFS1----1A----</AM>
 <AM lemma="individuální" src="auto">AAFS2----1A----</AM>
@@ -531,7 +532,7 @@
 <AM lemma="pojistné_^(poplatek)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="pojistné_^(poplatek)" src="auto">NNNS5-----A----</AM>
 <AM lemma="pojistný_^(př._smlouva,_událost)" src="auto">AAFP1----1A----</AM>
-<AM lemma="pojistný_^(př._smlouva,_událost)" src="auto">AAFP4----1A----</AM>
+<AM lemma="pojistný_^(př._smlouva,_událost)" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="pojistný_^(př._smlouva,_událost)" src="auto">AAFP5----1A----</AM>
 <AM lemma="pojistný_^(př._smlouva,_událost)" src="auto">AAFS2----1A----</AM>
 <AM lemma="pojistný_^(př._smlouva,_událost)" src="auto">AAFS3----1A----</AM>
@@ -556,7 +557,7 @@
 <form>služby</form>
 <tag>
 <AM lemma="služba" src="auto">NNFP1-----A----</AM>
-<AM lemma="služba" src="auto">NNFP4-----A----</AM>
+<AM lemma="služba" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="služba" src="auto">NNFP5-----A----</AM>
 <AM lemma="služba" src="auto" recommended="1">NNFS2-----A----</AM>
 </tag>
@@ -579,9 +580,10 @@
 <form>Frank</form>
 <tag>
 <AM lemma="Franca_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Frank_;E_;S_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Frank_;E_;S_;Y" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="frank" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="frank" src="auto">NNIS4-----A----</AM>
+<AM lemma="Frank_;Y_;S_;E" src="manual">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1232-001-p1s3W2-Ta">
@@ -611,7 +613,10 @@
 <LM>w#w-wsj1232-001-p1s3W4</LM>
 </w.rf>
 <form>Ollari</form>
-<tag lemma="Ollari" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ollari" src="auto">X@-------------</AM>
+<AM lemma="Ollari_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1232-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>

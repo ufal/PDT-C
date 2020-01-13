@@ -446,7 +446,10 @@
 <LM>w#w-wsj1526-001-p1s1W15</LM>
 </w.rf>
 <form>LifeSpan</form>
-<tag lemma="LifeSpan" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="LifeSpan" src="auto">X@-------------</AM>
+<AM lemma="LifeSpan-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1526-001-p1s1W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -457,6 +460,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1526-001-p1s1W17-Ta">
@@ -540,7 +544,10 @@
 <LM>w#w-wsj1526-001-p1s1W23</LM>
 </w.rf>
 <form>Willmott</form>
-<tag lemma="Willmott" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Willmott" src="auto">X@-------------</AM>
+<AM lemma="Willmott_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1526-001-p1s1W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -638,7 +645,10 @@
 <LM>w#w-wsj1526-001-p1s1W30</LM>
 </w.rf>
 <form>Willmott</form>
-<tag lemma="Willmott" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Willmott" src="auto">X@-------------</AM>
+<AM lemma="Willmott-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1526-001-p1s1W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -646,7 +656,10 @@
 <LM>w#w-wsj1526-001-p1s1W31</LM>
 </w.rf>
 <form>Services</form>
-<tag lemma="Services" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Services" src="auto">X@-------------</AM>
+<AM lemma="Services-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1526-001-p1s1W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -657,6 +670,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1526-001-p1s1W33-Ta">

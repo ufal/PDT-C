@@ -27,7 +27,10 @@
 <LM>w#w-wsj0471-001-p1s0W2</LM>
 </w.rf>
 <form>Dataproducts</form>
-<tag lemma="Dataproducts" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Dataproducts" src="auto">X@-------------</AM>
+<AM lemma="Dataproducts-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0471-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -38,6 +41,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0471-001-p1s0W4-Ta">
@@ -267,6 +271,8 @@
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS1----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS4----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS5----1A----</AM>
+<AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)_,s_^(^DD**konkurzní)" src="manual">AAFS2----1A----</AM>
+<AM lemma="konkurzní_^(týkající_se_úpadku,_soutěže)" src="manual" selected="1">AAFS2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0471-001-p1s0W21-Ta">
@@ -333,7 +339,10 @@
 <LM>w#w-wsj0471-001-p1s0W26</LM>
 </w.rf>
 <form>Acquisition</form>
-<tag lemma="Acquisition" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Acquisition" src="auto">X@-------------</AM>
+<AM lemma="Acquisition-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0471-001-p1s0W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -341,7 +350,10 @@
 <LM>w#w-wsj0471-001-p1s0W27</LM>
 </w.rf>
 <form>Partners</form>
-<tag lemma="Partners" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Partners" src="auto">X@-------------</AM>
+<AM lemma="Partners-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0471-001-p1s0W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -631,7 +643,10 @@
 <LM>w#w-wsj0471-001-p1s1W8</LM>
 </w.rf>
 <form>Crescott</form>
-<tag lemma="Crescott" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Crescott" src="auto">X@-------------</AM>
+<AM lemma="Crescott-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0471-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -642,6 +657,7 @@
 <tag>
 <AM lemma="Investment_;K" src="auto">NNIS1-----A----</AM>
 <AM lemma="Investment_;K" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Investment-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0471-001-p1s1W10-Ta">
@@ -650,7 +666,10 @@
 <LM>w#w-wsj0471-001-p1s1W10</LM>
 </w.rf>
 <form>Associates</form>
-<tag lemma="Associates" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Associates" src="auto">X@-------------</AM>
+<AM lemma="Associates-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0471-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -847,7 +866,10 @@
 <LM>w#w-wsj0471-001-p1s2W2</LM>
 </w.rf>
 <form>Dataproducts</form>
-<tag lemma="Dataproducts" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Dataproducts" src="auto">X@-------------</AM>
+<AM lemma="Dataproducts_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0471-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1250,6 +1272,7 @@
 <tag>
 <AM lemma="Woodland_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Woodland_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Woodland-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0471-001-p1s3W15-Ta">
@@ -1258,7 +1281,10 @@
 <LM>w#w-wsj0471-001-p1s3W15</LM>
 </w.rf>
 <form>Hills</form>
-<tag lemma="Hills_;G_,t" src="auto" recommended="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Hills_;G_,t" src="auto" recommended="1">NNIPX-----A----</AM>
+<AM lemma="Hills-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0471-001-p1s3W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1276,7 +1302,7 @@
 <form>kalifornského</form>
 <tag>
 <AM lemma="kalifornský" src="auto">AAIS2----1A----</AM>
-<AM lemma="kalifornský" src="auto">AAMS2----1A----</AM>
+<AM lemma="kalifornský" src="auto" selected="1">AAMS2----1A----</AM>
 <AM lemma="kalifornský" src="auto" recommended="1">AAMS4----1A----</AM>
 <AM lemma="kalifornský" src="auto">AANS2----1A----</AM>
 </tag>
@@ -1290,7 +1316,7 @@
 <tag>
 <AM lemma="výrobce" src="auto">NNMP4-----A----</AM>
 <AM lemma="výrobce" src="auto">NNMS1-----A----</AM>
-<AM lemma="výrobce" src="auto">NNMS2-----A----</AM>
+<AM lemma="výrobce" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="výrobce" src="auto" recommended="1">NNMS4-----A----</AM>
 <AM lemma="výrobce" src="auto">NNMS5-----A----</AM>
 </tag>

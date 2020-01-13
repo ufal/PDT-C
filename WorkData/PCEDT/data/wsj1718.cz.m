@@ -85,7 +85,7 @@
 </w.rf>
 <form>na</form>
 <tag>
-<AM lemma="na-1" src="auto">RR--4----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--4----------</AM>
 <AM lemma="na-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
@@ -106,7 +106,7 @@
 <AM lemma="rozšíření_^(*3it)" src="auto">NNNS1-----A----</AM>
 <AM lemma="rozšíření_^(*3it)" src="auto">NNNS2-----A----</AM>
 <AM lemma="rozšíření_^(*3it)" src="auto">NNNS3-----A----</AM>
-<AM lemma="rozšíření_^(*3it)" src="auto">NNNS4-----A----</AM>
+<AM lemma="rozšíření_^(*3it)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="rozšíření_^(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="rozšíření_^(*3it)" src="auto" recommended="1">NNNS6-----A----</AM>
 </tag>
@@ -199,7 +199,7 @@
 </w.rf>
 <form>na</form>
 <tag>
-<AM lemma="na-1" src="auto">RR--4----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--4----------</AM>
 <AM lemma="na-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
@@ -212,7 +212,7 @@
 <form>provinční</form>
 <tag>
 <AM lemma="provinční" src="auto">AAFP1----1A----</AM>
-<AM lemma="provinční" src="auto">AAFP4----1A----</AM>
+<AM lemma="provinční" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="provinční" src="auto">AAFP5----1A----</AM>
 <AM lemma="provinční" src="auto">AAFS1----1A----</AM>
 <AM lemma="provinční" src="auto">AAFS2----1A----</AM>
@@ -248,7 +248,7 @@
 <form>telekomunikační</form>
 <tag>
 <AM lemma="telekomunikační" src="auto">AAFP1----1A----</AM>
-<AM lemma="telekomunikační" src="auto">AAFP4----1A----</AM>
+<AM lemma="telekomunikační" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="telekomunikační" src="auto">AAFP5----1A----</AM>
 <AM lemma="telekomunikační" src="auto">AAFS1----1A----</AM>
 <AM lemma="telekomunikační" src="auto">AAFS2----1A----</AM>
@@ -284,7 +284,7 @@
 <form>společnosti</form>
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP1-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS2-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
@@ -1266,7 +1266,10 @@
 <LM>w#w-wsj1718-001-p1s2W32</LM>
 </w.rf>
 <form>meziprovinčními</form>
-<tag lemma="meziprovinčními" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="meziprovinčními" src="auto">X@-------------</AM>
+<AM lemma="meziprovinční" src="manual" selected="1">AAIP7----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj1718-001-p1s2W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1315,7 +1318,7 @@
 <AM lemma="federální" src="auto">AAFP5----1A----</AM>
 <AM lemma="federální" src="auto">AAFS1----1A----</AM>
 <AM lemma="federální" src="auto" recommended="1">AAFS2----1A----</AM>
-<AM lemma="federální" src="auto">AAFS3----1A----</AM>
+<AM lemma="federální" src="auto" selected="1">AAFS3----1A----</AM>
 <AM lemma="federální" src="auto">AAFS4----1A----</AM>
 <AM lemma="federální" src="auto">AAFS5----1A----</AM>
 <AM lemma="federální" src="auto">AAFS6----1A----</AM>
@@ -1350,7 +1353,7 @@
 <AM lemma="zákonodárný" src="auto">AAFP4----1A----</AM>
 <AM lemma="zákonodárný" src="auto">AAFP5----1A----</AM>
 <AM lemma="zákonodárný" src="auto" recommended="1">AAFS2----1A----</AM>
-<AM lemma="zákonodárný" src="auto">AAFS3----1A----</AM>
+<AM lemma="zákonodárný" src="auto" selected="1">AAFS3----1A----</AM>
 <AM lemma="zákonodárný" src="auto">AAFS6----1A----</AM>
 <AM lemma="zákonodárný" src="auto">AAIP1----1A----</AM>
 <AM lemma="zákonodárný" src="auto">AAIP4----1A----</AM>
@@ -1376,7 +1379,7 @@
 <AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFP4-----A----</AM>
 <AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFP5-----A----</AM>
 <AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFS3-----A----</AM>
+<AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFS5-----A----</AM>
 <AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFS6-----A----</AM>
 <AM lemma="moce" src="auto">NNFS3-----A----</AM>
@@ -1579,6 +1582,8 @@
 <AM lemma="Quebec_;G_,s" src="auto">NNIS2-----A----</AM>
 <AM lemma="Quebec_;G_,s" src="auto">NNIS3-----A----</AM>
 <AM lemma="Quebec_;G_,s" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="Quebec_;G_,s_^(^DD**Québec)" src="manual">NNIS2-----A----</AM>
+<AM lemma="Quebec_;G_,s_^(^DD**Québec)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1718-001-p1s3W13-Ta">
@@ -2014,7 +2019,7 @@
 </w.rf>
 <form>na</form>
 <tag>
-<AM lemma="na-1" src="auto">RR--4----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--4----------</AM>
 <AM lemma="na-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
@@ -2027,7 +2032,7 @@
 <form>telefonní</form>
 <tag>
 <AM lemma="telefonní" src="auto">AAFP1----1A----</AM>
-<AM lemma="telefonní" src="auto">AAFP4----1A----</AM>
+<AM lemma="telefonní" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="telefonní" src="auto">AAFP5----1A----</AM>
 <AM lemma="telefonní" src="auto">AAFS1----1A----</AM>
 <AM lemma="telefonní" src="auto">AAFS2----1A----</AM>
@@ -2063,7 +2068,7 @@
 <form>společnosti</form>
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP1-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS2-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>

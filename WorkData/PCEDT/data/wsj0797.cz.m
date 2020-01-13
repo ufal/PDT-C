@@ -65,6 +65,7 @@
 <AM lemma="General_;K_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="General_;K_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="General_;K_,t" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="General-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0797-001-p1s0W5-Ta">
@@ -73,7 +74,10 @@
 <LM>w#w-wsj0797-001-p1s0W5</LM>
 </w.rf>
 <form>Motors</form>
-<tag lemma="Motors-1_;K_,t_^(souč._názvů,_např._General_M.)" src="auto" recommended="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Motors-1_;K_,t_^(souč._názvů,_např._General_M.)" src="auto" recommended="1">NNIPX-----A----</AM>
+<AM lemma="Motors-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0797-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -81,7 +85,10 @@
 <LM>w#w-wsj0797-001-p1s0W6</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0797-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -158,6 +165,7 @@
 <AM lemma="model" src="auto">NNIP7-----A----</AM>
 <AM lemma="model" src="auto">NNMP4-----A----</AM>
 <AM lemma="model" src="auto">NNMP7-----A----</AM>
+<AM lemma="model-1" src="manual" selected="1">NNIP4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0797-001-p1s0W14-Ta">
@@ -205,6 +213,7 @@
 <tag>
 <AM lemma="blazer" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="blazer" src="auto">NNIS4-----A----</AM>
+<AM lemma="Blazer_;R" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0797-001-p1s0W18-Ta">
@@ -227,7 +236,10 @@
 <LM>w#w-wsj0797-001-p1s0W19</LM>
 </w.rf>
 <form>Suburban</form>
-<tag lemma="Suburban" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Suburban" src="auto">X@-------------</AM>
+<AM lemma="Suburban_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0797-001-p1s0W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -563,6 +575,7 @@
 <AM lemma="model" src="auto">NNIP7-----A----</AM>
 <AM lemma="model" src="auto">NNMP4-----A----</AM>
 <AM lemma="model" src="auto">NNMP7-----A----</AM>
+<AM lemma="model-1" src="manual" selected="1">NNIP4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0797-001-p1s1W9-Ta">

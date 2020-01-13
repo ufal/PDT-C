@@ -91,7 +91,10 @@
 <LM>w#w-wsj2342-001-p1s0W7</LM>
 </w.rf>
 <form>Relational</form>
-<tag lemma="Relational" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Relational" src="auto">X@-------------</AM>
+<AM lemma="Relational-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2342-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -103,6 +106,7 @@
 <AM lemma="technolog" src="auto">NNMP4-----A----</AM>
 <AM lemma="technolog" src="auto">NNMP7-----A----</AM>
 <AM lemma="technology-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Technology-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2342-001-p1s0W9-Ta">
@@ -114,6 +118,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2342-001-p1s0W10-Ta">
@@ -1283,7 +1288,10 @@
 <LM>w#w-wsj2342-001-p1s4W2</LM>
 </w.rf>
 <form>Relational</form>
-<tag lemma="Relational" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Relational" src="auto">X@-------------</AM>
+<AM lemma="Relational-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2342-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1295,6 +1303,7 @@
 <AM lemma="technolog" src="auto">NNMP4-----A----</AM>
 <AM lemma="technolog" src="auto">NNMP7-----A----</AM>
 <AM lemma="technology-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Technology-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2342-001-p1s4W4-Ta">
@@ -2390,6 +2399,7 @@
 <AM lemma="Thomas_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Thomas_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Thomas_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Thomas_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2342-001-p1s7W9-Ta">
@@ -2770,7 +2780,10 @@
 <LM>w#w-wsj2342-001-p1s9W2</LM>
 </w.rf>
 <form>Relational</form>
-<tag lemma="Relational" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Relational" src="auto">X@-------------</AM>
+<AM lemma="Relational-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2342-001-p1s9W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2782,6 +2795,7 @@
 <AM lemma="technolog" src="auto">NNMP4-----A----</AM>
 <AM lemma="technolog" src="auto">NNMP7-----A----</AM>
 <AM lemma="technology-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Technology-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2342-001-p1s9W4-Ta">

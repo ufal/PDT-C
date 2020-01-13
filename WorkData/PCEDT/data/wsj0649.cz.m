@@ -31,6 +31,7 @@
 <AM lemma="Sharp_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Sharp_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="Sharp_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Sharp-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0649-001-p1s0W3-Ta">
@@ -39,7 +40,10 @@
 <LM>w#w-wsj0649-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0649-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -573,7 +577,7 @@
 <AM lemma="domácí-1" src="auto">AAFS6----1A----</AM>
 <AM lemma="domácí-1" src="auto">AAFS7----1A----</AM>
 <AM lemma="domácí-1" src="auto" recommended="1">AAIP1----1A----</AM>
-<AM lemma="domácí-1" src="auto">AAIP4----1A----</AM>
+<AM lemma="domácí-1" src="auto" selected="1">AAIP4----1A----</AM>
 <AM lemma="domácí-1" src="auto">AAIP5----1A----</AM>
 <AM lemma="domácí-1" src="auto">AAIS1----1A----</AM>
 <AM lemma="domácí-1" src="auto">AAIS4----1A----</AM>
@@ -614,7 +618,7 @@
 <form>spotřebiče</form>
 <tag>
 <AM lemma="spotřebič" src="auto" recommended="1">NNIP1-----A----</AM>
-<AM lemma="spotřebič" src="auto">NNIP4-----A----</AM>
+<AM lemma="spotřebič" src="auto" selected="1">NNIP4-----A----</AM>
 <AM lemma="spotřebič" src="auto">NNIP5-----A----</AM>
 <AM lemma="spotřebič" src="auto">NNIS2-----A----</AM>
 </tag>
@@ -644,7 +648,7 @@
 <AM lemma="zařízený_^(*4dit)" src="auto">AAMP5----1A----</AM>
 <AM lemma="zařízení_^(*4dit)" src="auto" recommended="1">NNNP1-----A----</AM>
 <AM lemma="zařízení_^(*4dit)" src="auto">NNNP2-----A----</AM>
-<AM lemma="zařízení_^(*4dit)" src="auto">NNNP4-----A----</AM>
+<AM lemma="zařízení_^(*4dit)" src="auto" selected="1">NNNP4-----A----</AM>
 <AM lemma="zařízení_^(*4dit)" src="auto">NNNP5-----A----</AM>
 <AM lemma="zařízení_^(*4dit)" src="auto">NNNS1-----A----</AM>
 <AM lemma="zařízení_^(*4dit)" src="auto">NNNS2-----A----</AM>
@@ -1163,7 +1167,7 @@
 </w.rf>
 <form>o</form>
 <tag>
-<AM lemma="o-1" src="auto">RR--4----------</AM>
+<AM lemma="o-1" src="auto" selected="1">RR--4----------</AM>
 <AM lemma="o-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="o-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="o-77_,t" src="auto">F%-------------</AM>
@@ -1184,7 +1188,7 @@
 <AM lemma="zanedbatelný_^(*4)" src="auto">AAIP6----1N----</AM>
 <AM lemma="zanedbatelný_^(*4)" src="auto">AAMP2----1N----</AM>
 <AM lemma="zanedbatelný_^(*4)" src="auto">AAMP6----1N----</AM>
-<AM lemma="zanedbatelný_^(*4)" src="auto">AANP2----1N----</AM>
+<AM lemma="zanedbatelný_^(*4)" src="auto" selected="1">AANP2----1N----</AM>
 <AM lemma="zanedbatelný_^(*4)" src="auto">AANP6----1N----</AM>
 </tag>
 </m>
@@ -1377,6 +1381,7 @@
 <AM lemma="audio-1" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="audio-1" src="auto">NNNS5-----A----</AM>
 <AM lemma="audio-2_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="audio-2" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0649-001-p1s3W4-Ta">
@@ -1892,6 +1897,7 @@
 <AM lemma="bilión" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="bilión" src="auto">NNIS3-----A----</AM>
 <AM lemma="bilión" src="auto">NNIS6-----A----</AM>
+<AM lemma="bilion_,s_^(^DD**bilión)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0649-001-p1s5W19-Ta">

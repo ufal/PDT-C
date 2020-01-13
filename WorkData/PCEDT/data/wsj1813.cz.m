@@ -65,6 +65,11 @@
 <AM lemma="51letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="51letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1813-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -316,6 +321,7 @@
 <tag>
 <AM lemma="Morgan-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="morgan-2_;L" src="auto">NNMS1-----A----</AM>
+<AM lemma="Morgan-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1813-001-p1s0W18-Ta">
@@ -324,7 +330,10 @@
 <LM>w#w-wsj1813-001-p1s0W18</LM>
 </w.rf>
 <form>Grenfell</form>
-<tag lemma="Grenfell_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Grenfell_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Grenfell-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1813-001-p1s0W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -348,6 +357,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1813-001-p1s0W21-Ta">
@@ -377,7 +387,7 @@
 <AM lemma="velký" src="auto">AAFP4----3A----</AM>
 <AM lemma="velký" src="auto">AAFP5----3A----</AM>
 <AM lemma="velký" src="auto">AAFS1----3A----</AM>
-<AM lemma="velký" src="auto">AAFS2----3A----</AM>
+<AM lemma="velký" src="auto" selected="1">AAFS2----3A----</AM>
 <AM lemma="velký" src="auto">AAFS3----3A----</AM>
 <AM lemma="velký" src="auto">AAFS4----3A----</AM>
 <AM lemma="velký" src="auto">AAFS5----3A----</AM>
@@ -413,7 +423,7 @@
 <AM lemma="bankovní" src="auto">AAFP4----1A----</AM>
 <AM lemma="bankovní" src="auto">AAFP5----1A----</AM>
 <AM lemma="bankovní" src="auto">AAFS1----1A----</AM>
-<AM lemma="bankovní" src="auto">AAFS2----1A----</AM>
+<AM lemma="bankovní" src="auto" selected="1">AAFS2----1A----</AM>
 <AM lemma="bankovní" src="auto">AAFS3----1A----</AM>
 <AM lemma="bankovní" src="auto">AAFS4----1A----</AM>
 <AM lemma="bankovní" src="auto">AAFS5----1A----</AM>
@@ -448,7 +458,7 @@
 <AM lemma="jednotka" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="jednotka" src="auto">NNFP4-----A----</AM>
 <AM lemma="jednotka" src="auto">NNFP5-----A----</AM>
-<AM lemma="jednotka" src="auto">NNFS2-----A----</AM>
+<AM lemma="jednotka" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1813-001-p1s0W26-Ta">
@@ -684,6 +694,11 @@
 <AM lemma="43letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="43letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1813-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -708,6 +723,7 @@
 <tag>
 <AM lemma="Richmond_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Richmond_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Richmond-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1813-001-p1s1W13-Ta">
@@ -975,6 +991,7 @@
 <tag>
 <AM lemma="Morgan-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="morgan-2_;L" src="auto">NNMS1-----A----</AM>
+<AM lemma="Morgan-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1813-001-p1s2W7-Ta">
@@ -983,7 +1000,10 @@
 <LM>w#w-wsj1813-001-p1s2W7</LM>
 </w.rf>
 <form>Grenfell</form>
-<tag lemma="Grenfell_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Grenfell_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Grenfell-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1813-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1007,6 +1027,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1813-001-p1s2W10-Ta">
@@ -1060,6 +1081,11 @@
 <AM lemma="50letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="50letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1813-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>

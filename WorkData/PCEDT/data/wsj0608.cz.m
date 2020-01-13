@@ -231,7 +231,7 @@
 </w.rf>
 <form>že</form>
 <tag>
-<AM lemma="že-1" src="auto" recommended="1">J,-------------</AM>
+<AM lemma="že-1" src="auto" recommended="1" selected="1">J,-------------</AM>
 <AM lemma="že-2" src="auto">TT-------------</AM>
 </tag>
 </m>

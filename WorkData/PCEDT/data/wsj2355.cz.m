@@ -16,7 +16,10 @@
 <LM>w#w-wsj2355-001-p1s0W1</LM>
 </w.rf>
 <form>Kenneth</form>
-<tag lemma="Kenneth_;Y_,t" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Kenneth_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Kenneth_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2355-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -45,7 +48,10 @@
 <LM>w#w-wsj2355-001-p1s0W4</LM>
 </w.rf>
 <form>Thygerson</form>
-<tag lemma="Thygerson" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Thygerson" src="auto">X@-------------</AM>
+<AM lemma="Thygerson_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2355-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -245,7 +251,10 @@
 <LM>w#w-wsj2355-001-p1s1W2</LM>
 </w.rf>
 <form>Thygerson</form>
-<tag lemma="Thygerson" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Thygerson" src="auto">X@-------------</AM>
+<AM lemma="Thygerson_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2355-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -465,6 +474,7 @@
 <tag>
 <AM lemma="Diego_;Y_,t" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Diego_;Y_,t" src="auto" recommended="1">NNMS6-----A---1</AM>
+<AM lemma="Diego-2_;G" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2355-001-p1s1W20-Ta">
@@ -540,7 +550,7 @@
 <AM lemma="obtížný" src="auto">AAMS7----1A----</AM>
 <AM lemma="obtížný" src="auto">AANP3----1A----</AM>
 <AM lemma="obtížný" src="auto">AANS6----1A---7</AM>
-<AM lemma="obtížný" src="auto">AANS7----1A----</AM>
+<AM lemma="obtížný" src="auto" selected="1">AANS7----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj2355-001-p1s1W26-Ta">

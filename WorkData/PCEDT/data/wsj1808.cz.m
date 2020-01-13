@@ -46,6 +46,7 @@
 <tag>
 <AM lemma="Champion_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="champion_,h_^(šampion)" src="auto">NNMS1-----A----</AM>
+<AM lemma="Champion-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1808-001-p1s0W4-Ta">
@@ -55,7 +56,7 @@
 </w.rf>
 <form>International</form>
 <tag>
-<AM lemma="International-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="International-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="International_,t" src="auto">NNISX-----A----</AM>
 <AM lemma="international-77_,t" src="auto">F%-------------</AM>
 </tag>
@@ -66,7 +67,10 @@
 <LM>w#w-wsj1808-001-p1s0W5</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1808-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1114,6 +1118,7 @@
 <tag>
 <AM lemma="Champion_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="champion_,h_^(šampion)" src="auto">NNMS1-----A----</AM>
+<AM lemma="Champion-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1808-001-p1s3W13-Ta">

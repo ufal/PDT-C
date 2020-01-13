@@ -24,7 +24,10 @@
 <LM>w#w-wsj0191-001-p1s0W2</LM>
 </w.rf>
 <form>First</form>
-<tag lemma="First" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="First" src="auto">X@-------------</AM>
+<AM lemma="First-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0191-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -36,6 +39,7 @@
 <AM lemma="Chicago_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Chicago_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Chicago_;G" src="auto">NNNS5-----A----</AM>
+<AM lemma="Chicago-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0191-001-p1s0W4-Ta">
@@ -44,7 +48,10 @@
 <LM>w#w-wsj0191-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0191-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -222,6 +229,7 @@
 <tag>
 <AM lemma="Ravenswood_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Ravenswood_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Ravenswood-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0191-001-p1s0W21-Ta">
@@ -230,7 +238,10 @@
 <LM>w#w-wsj0191-001-p1s0W21</LM>
 </w.rf>
 <form>Financial</form>
-<tag lemma="Financial" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Financial" src="auto">X@-------------</AM>
+<AM lemma="Financial-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0191-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -238,7 +249,10 @@
 <LM>w#w-wsj0191-001-p1s0W22</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0191-001-p1s0W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -267,7 +281,7 @@
 <AM lemma="další" src="auto">AAFP4----1A----</AM>
 <AM lemma="další" src="auto">AAFP5----1A----</AM>
 <AM lemma="další" src="auto">AAFS1----1A----</AM>
-<AM lemma="další" src="auto">AAFS2----1A----</AM>
+<AM lemma="další" src="auto" selected="1">AAFS2----1A----</AM>
 <AM lemma="další" src="auto">AAFS3----1A----</AM>
 <AM lemma="další" src="auto">AAFS4----1A----</AM>
 <AM lemma="další" src="auto">AAFS5----1A----</AM>
@@ -302,7 +316,7 @@
 <AM lemma="chicagský" src="auto" recommended="1">AAFP1----1A----</AM>
 <AM lemma="chicagský" src="auto">AAFP4----1A----</AM>
 <AM lemma="chicagský" src="auto">AAFP5----1A----</AM>
-<AM lemma="chicagský" src="auto">AAFS2----1A----</AM>
+<AM lemma="chicagský" src="auto" selected="1">AAFS2----1A----</AM>
 <AM lemma="chicagský" src="auto">AAFS3----1A----</AM>
 <AM lemma="chicagský" src="auto">AAFS6----1A----</AM>
 <AM lemma="chicagský" src="auto">AAIP1----1A----</AM>
@@ -325,7 +339,7 @@
 <AM lemma="bankovní" src="auto">AAFP4----1A----</AM>
 <AM lemma="bankovní" src="auto">AAFP5----1A----</AM>
 <AM lemma="bankovní" src="auto">AAFS1----1A----</AM>
-<AM lemma="bankovní" src="auto">AAFS2----1A----</AM>
+<AM lemma="bankovní" src="auto" selected="1">AAFS2----1A----</AM>
 <AM lemma="bankovní" src="auto">AAFS3----1A----</AM>
 <AM lemma="bankovní" src="auto">AAFS4----1A----</AM>
 <AM lemma="bankovní" src="auto">AAFS5----1A----</AM>
@@ -360,7 +374,7 @@
 <AM lemma="holdingový" src="auto" recommended="1">AAFP1----1A----</AM>
 <AM lemma="holdingový" src="auto">AAFP4----1A----</AM>
 <AM lemma="holdingový" src="auto">AAFP5----1A----</AM>
-<AM lemma="holdingový" src="auto">AAFS2----1A----</AM>
+<AM lemma="holdingový" src="auto" selected="1">AAFS2----1A----</AM>
 <AM lemma="holdingový" src="auto">AAFS3----1A----</AM>
 <AM lemma="holdingový" src="auto">AAFS6----1A----</AM>
 <AM lemma="holdingový" src="auto">AAIP1----1A----</AM>
@@ -385,7 +399,7 @@
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS2-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS2-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
@@ -478,7 +492,7 @@
 </w.rf>
 <form>několika</form>
 <tag>
-<AM lemma="několik" src="auto">Ca--2----------</AM>
+<AM lemma="několik" src="auto" selected="1">Ca--2----------</AM>
 <AM lemma="několik" src="auto">Ca--3----------</AM>
 <AM lemma="několik" src="auto" recommended="1">Ca--6----------</AM>
 <AM lemma="několik" src="auto">Ca--7----------</AM>
@@ -492,7 +506,7 @@
 <form>málo</form>
 <tag>
 <AM lemma="málo-1_^(málo_peněz)" src="auto" recommended="1">Ca--1----------</AM>
-<AM lemma="málo-1_^(málo_peněz)" src="auto">Ca--2---------1</AM>
+<AM lemma="málo-1_^(málo_peněz)" src="auto" selected="1">Ca--2---------1</AM>
 <AM lemma="málo-1_^(málo_peněz)" src="auto">Ca--3----------</AM>
 <AM lemma="málo-1_^(málo_peněz)" src="auto">Ca--4----------</AM>
 <AM lemma="málo-1_^(málo_peněz)" src="auto">Ca--6----------</AM>

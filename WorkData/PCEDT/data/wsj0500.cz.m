@@ -32,6 +32,7 @@
 <AM lemma="bio-1" src="auto">NNNS4-----A----</AM>
 <AM lemma="bio-1" src="auto">NNNS5-----A----</AM>
 <AM lemma="bio-2" src="auto">A2--------A----</AM>
+<AM lemma="Bio-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0500-001-p1s0W3-Ta">
@@ -52,6 +53,7 @@
 <AM lemma="technolog" src="auto">NNMP4-----A----</AM>
 <AM lemma="technolog" src="auto">NNMP7-----A----</AM>
 <AM lemma="technology-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Technology-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0500-001-p1s0W5-Ta">
@@ -65,6 +67,7 @@
 <AM lemma="General_;K_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="General_;K_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="General_;K_,t" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="General-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0500-001-p1s0W6-Ta">
@@ -73,7 +76,10 @@
 <LM>w#w-wsj0500-001-p1s0W6</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0500-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1229,6 +1235,11 @@
 <AM lemma="cenný" src="auto">AANS4----1A----</AM>
 <AM lemma="cenný" src="auto">AANS5----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>věta gramaticky moc nedává smysl</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0500-001-p1s2W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1337,7 +1348,7 @@
 <AM lemma="splatný" src="auto">AAFS3----1A----</AM>
 <AM lemma="splatný" src="auto">AAFS6----1A----</AM>
 <AM lemma="splatný" src="auto">AAIP1----1A----</AM>
-<AM lemma="splatný" src="auto">AAIP4----1A----</AM>
+<AM lemma="splatný" src="auto" selected="1">AAIP4----1A----</AM>
 <AM lemma="splatný" src="auto">AAIP5----1A----</AM>
 <AM lemma="splatný" src="auto">AAMP4----1A----</AM>
 <AM lemma="splatný" src="auto">AANP1----1A---6</AM>
@@ -1470,6 +1481,7 @@
 <AM lemma="bio-1" src="auto">NNNS4-----A----</AM>
 <AM lemma="bio-1" src="auto">NNNS5-----A----</AM>
 <AM lemma="bio-2" src="auto">A2--------A----</AM>
+<AM lemma="Bio-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0500-001-p1s3W3-Ta">
@@ -1490,6 +1502,7 @@
 <AM lemma="technolog" src="auto">NNMP4-----A----</AM>
 <AM lemma="technolog" src="auto">NNMP7-----A----</AM>
 <AM lemma="technology-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Technology-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0500-001-p1s3W5-Ta">

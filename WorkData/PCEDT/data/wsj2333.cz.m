@@ -52,7 +52,7 @@
 <tag>
 <AM lemma="Walden_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Walden_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Walden_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Walden_;S" src="auto" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2333-001-p1s0W5-Ta">
@@ -460,7 +460,7 @@
 <AM lemma="vrchní-1_^(horní)" src="auto">AAMP1----1A----</AM>
 <AM lemma="vrchní-1_^(horní)" src="auto">AAMP4----1A----</AM>
 <AM lemma="vrchní-1_^(horní)" src="auto">AAMP5----1A----</AM>
-<AM lemma="vrchní-1_^(horní)" src="auto">AAMS1----1A----</AM>
+<AM lemma="vrchní-1_^(horní)" src="auto" selected="1">AAMS1----1A----</AM>
 <AM lemma="vrchní-1_^(horní)" src="auto">AAMS5----1A----</AM>
 <AM lemma="vrchní-1_^(horní)" src="auto">AANP1----1A----</AM>
 <AM lemma="vrchní-1_^(horní)" src="auto">AANP4----1A----</AM>

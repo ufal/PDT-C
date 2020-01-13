@@ -27,7 +27,10 @@
 <LM>w#w-wsj2272-001-p1s1W2</LM>
 </w.rf>
 <form>Memotec</form>
-<tag lemma="Memotec" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Memotec" src="auto">X@-------------</AM>
+<AM lemma="Memotec-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2272-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,6 +46,7 @@
 <AM lemma="datum_^(kalendářní)" src="auto">NNNP4-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNP5-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNS2-----A----</AM>
+<AM lemma="Data-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2272-001-p1s1W4-Ta">
@@ -54,6 +58,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2272-001-p1s1W5-Ta">
@@ -176,7 +181,10 @@
 <LM>w#w-wsj2272-001-p1s1W16</LM>
 </w.rf>
 <form>ISI</form>
-<tag lemma="ISI-88_:B" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="ISI-88_:B" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
+<AM lemma="ISI-77" src="manual">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2272-001-p1s1W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -184,7 +192,10 @@
 <LM>w#w-wsj2272-001-p1s1W17</LM>
 </w.rf>
 <form>Systems</form>
-<tag lemma="Systems" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Systems" src="auto">X@-------------</AM>
+<AM lemma="Systems-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2272-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -195,6 +206,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2272-001-p1s1W19-Ta">
@@ -270,7 +282,10 @@
 <LM>w#w-wsj2272-001-p1s1W25</LM>
 </w.rf>
 <form>Memotec</form>
-<tag lemma="Memotec" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Memotec" src="auto">X@-------------</AM>
+<AM lemma="Memotec_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2272-001-p1s1W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -293,7 +308,7 @@
 <form>společnost</form>
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS4-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2272-001-p1s1W28-Ta">
@@ -349,7 +364,7 @@
 <tag>
 <AM lemma="americký" src="auto">AAFP2----1A----</AM>
 <AM lemma="americký" src="auto">AAFP6----1A----</AM>
-<AM lemma="americký" src="auto">AAIP2----1A----</AM>
+<AM lemma="americký" src="auto" selected="1">AAIP2----1A----</AM>
 <AM lemma="americký" src="auto">AAIP6----1A----</AM>
 <AM lemma="americký" src="auto" recommended="1">AAMP2----1A----</AM>
 <AM lemma="americký" src="auto">AAMP6----1A----</AM>
@@ -630,7 +645,7 @@
 </w.rf>
 <form>akcie</form>
 <tag>
-<AM lemma="akcie" src="auto">NNFP1-----A----</AM>
+<AM lemma="akcie" src="auto" selected="1">NNFP1-----A----</AM>
 <AM lemma="akcie" src="auto">NNFP4-----A----</AM>
 <AM lemma="akcie" src="auto">NNFP5-----A----</AM>
 <AM lemma="akcie" src="auto">NNFS1-----A----</AM>
@@ -864,7 +879,10 @@
 <LM>w#w-wsj2272-001-p1s3W7</LM>
 </w.rf>
 <form>Memotec</form>
-<tag lemma="Memotec" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Memotec" src="auto">X@-------------</AM>
+<AM lemma="Memotec_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2272-001-p1s3W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1044,7 +1062,10 @@
 <LM>w#w-wsj2272-001-p1s4W2</LM>
 </w.rf>
 <form>Memotec</form>
-<tag lemma="Memotec" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Memotec" src="auto">X@-------------</AM>
+<AM lemma="Memotec_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2272-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1163,7 +1184,10 @@
 <LM>w#w-wsj2272-001-p1s4W14</LM>
 </w.rf>
 <form>Braintree</form>
-<tag lemma="Braintree" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Braintree" src="auto">X@-------------</AM>
+<AM lemma="Braintree_;G" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2272-001-p1s4W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1395,7 +1419,10 @@
 <LM>w#w-wsj2272-001-p1s4W34</LM>
 </w.rf>
 <form>Memotec</form>
-<tag lemma="Memotec" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Memotec" src="auto">X@-------------</AM>
+<AM lemma="Memotec_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2272-001-p1s4W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1493,7 +1520,10 @@
 <LM>w#w-wsj2272-001-p1s5W2</LM>
 </w.rf>
 <form>Memotec</form>
-<tag lemma="Memotec" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Memotec" src="auto">X@-------------</AM>
+<AM lemma="Memotec_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2272-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1701,7 +1731,10 @@
 <LM>w#w-wsj2272-001-p1s6W2</LM>
 </w.rf>
 <form>Memotec</form>
-<tag lemma="Memotec" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Memotec" src="auto">X@-------------</AM>
+<AM lemma="Memotec_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2272-001-p1s6W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2070,7 +2103,10 @@
 <LM>w#w-wsj2272-001-p1s7W6</LM>
 </w.rf>
 <form>Jonston</form>
-<tag lemma="Jonston" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Jonston" src="auto">X@-------------</AM>
+<AM lemma="Jonston_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2272-001-p1s7W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2265,7 +2301,7 @@
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -2276,7 +2312,10 @@
 <LM>w#w-wsj2272-001-p1s7W25</LM>
 </w.rf>
 <form>Memotec</form>
-<tag lemma="Memotec" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Memotec" src="auto">X@-------------</AM>
+<AM lemma="Memotec_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2272-001-p1s7W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2345,6 +2384,7 @@
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS1----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS4----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS5----1A----</AM>
+<AM lemma="konkurzní_^(týkající_se_úpadku,_soutěže)" src="manual" selected="1">AAFS2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj2272-001-p1s7W29-Ta">
@@ -2463,7 +2503,10 @@
 <LM>w#w-wsj2272-001-p1s7W38</LM>
 </w.rf>
 <form>Memotec</form>
-<tag lemma="Memotec" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Memotec" src="auto">X@-------------</AM>
+<AM lemma="Memotec_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2272-001-p1s7W39-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2492,7 +2535,10 @@
 <LM>w#w-wsj2272-001-p1s8W2</LM>
 </w.rf>
 <form>Memotec</form>
-<tag lemma="Memotec" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Memotec" src="auto">X@-------------</AM>
+<AM lemma="Memotec_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2272-001-p1s8W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2555,6 +2601,7 @@
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS1----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS4----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS5----1A----</AM>
+<AM lemma="konkurzní_^(týkající_se_úpadku,_soutěže)" src="manual" selected="1">AAFS1----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj2272-001-p1s8W7-Ta">
@@ -2619,6 +2666,11 @@
 <AM lemma="jiný" src="auto">AAMP7----1A----</AM>
 <AM lemma="jiný" src="auto">AANP7----1A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>jiným</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2272-001-p1s8W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2966,7 +3018,7 @@
 <AM lemma="vedení_^(*5ést)" src="auto">NNNP5-----A----</AM>
 <AM lemma="vedení_^(*5ést)" src="auto">NNNS1-----A----</AM>
 <AM lemma="vedení_^(*5ést)" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="vedení_^(*5ést)" src="auto">NNNS3-----A----</AM>
+<AM lemma="vedení_^(*5ést)" src="auto" selected="1">NNNS3-----A----</AM>
 <AM lemma="vedení_^(*5ést)" src="auto">NNNS4-----A----</AM>
 <AM lemma="vedení_^(*5ést)" src="auto">NNNS5-----A----</AM>
 <AM lemma="vedení_^(*5ést)" src="auto">NNNS6-----A----</AM>
@@ -3247,7 +3299,10 @@
 <LM>w#w-wsj2272-001-p1s10W14</LM>
 </w.rf>
 <form>Memotec</form>
-<tag lemma="Memotec" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Memotec" src="auto">X@-------------</AM>
+<AM lemma="Memotec_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2272-001-p1s10W15-Ta">
 <src.rf>tagger-a</src.rf>

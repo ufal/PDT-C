@@ -1061,7 +1061,7 @@
 <LM>w#w-wsj1993-001-p1s3W15</LM>
 </w.rf>
 <form>upravován</form>
-<tag lemma="upravovat" src="auto" recommended="1">VsYS---XX-API--</tag>
+<tag lemma="upravovat" src="auto" recommended="1" selected="1">VsYS---XX-API--</tag>
 </m>
 <m id="m-wsj1993-001-p1s3W16-Ta">
 <src.rf>tagger-a</src.rf>

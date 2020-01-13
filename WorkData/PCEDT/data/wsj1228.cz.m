@@ -229,7 +229,7 @@
 <form>Společnosti</form>
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS2-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
@@ -373,7 +373,7 @@
 <AM lemma="změna" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="změna" src="auto">NNFP4-----A----</AM>
 <AM lemma="změna" src="auto">NNFP5-----A----</AM>
-<AM lemma="změna" src="auto">NNFS2-----A----</AM>
+<AM lemma="změna" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1228-001-p1s1W14-Ta">
@@ -728,7 +728,15 @@
 <LM>w#w-wsj1228-001-p1s3W7</LM>
 </w.rf>
 <form>30denní</form>
-<tag lemma="30denní" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="30denní" src="auto">X@-------------</AM>
+<AM lemma="30denní" src="manual" selected="1">AAIS4----1A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1228-001-p1s3W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -983,7 +991,16 @@
 <LM>w#w-wsj1228-001-p1s4W7</LM>
 </w.rf>
 <form>300denním</form>
-<tag lemma="300denním" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="300denním" src="auto">X@-------------</AM>
+<AM lemma="300denním" src="manual">AAIS7----1A----</AM>
+<AM lemma="300denní" src="manual" selected="1">AAIS7----1A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1228-001-p1s4W8-Ta">
 <src.rf>tagger-a</src.rf>

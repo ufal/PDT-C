@@ -27,7 +27,10 @@
 <LM>w#w-wsj0792-001-p1s0W2</LM>
 </w.rf>
 <form>Weirton</form>
-<tag lemma="Weirton" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Weirton" src="auto">X@-------------</AM>
+<AM lemma="Weirton-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0792-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj0792-001-p1s0W3</LM>
 </w.rf>
 <form>Steel</form>
-<tag lemma="Steel" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Steel" src="auto">X@-------------</AM>
+<AM lemma="Steel-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0792-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,7 +49,10 @@
 <LM>w#w-wsj0792-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0792-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -151,7 +160,10 @@
 <LM>w#w-wsj0792-001-p1s0W14</LM>
 </w.rf>
 <form>Independent</form>
-<tag lemma="Independent" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Independent" src="auto">X@-------------</AM>
+<AM lemma="Independent-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0792-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -159,7 +171,10 @@
 <LM>w#w-wsj0792-001-p1s0W15</LM>
 </w.rf>
 <form>Steelworkers</form>
-<tag lemma="Steelworkers" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Steelworkers" src="auto">X@-------------</AM>
+<AM lemma="Steelworkers-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0792-001-p1s0W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -182,7 +197,15 @@
 <LM>w#w-wsj0792-001-p1s0W17</LM>
 </w.rf>
 <form>48měsíční</form>
-<tag lemma="48měsíční" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="48měsíční" src="auto">X@-------------</AM>
+<AM lemma="48měsíční" src="manual" selected="1">AAFS6----1A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0792-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -625,7 +648,7 @@
 <AM lemma="září" src="auto">NNNP5-----A----</AM>
 <AM lemma="září" src="auto">NNNS1-----A----</AM>
 <AM lemma="září" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="září" src="auto">NNNS3-----A----</AM>
+<AM lemma="září" src="auto" selected="1">NNNS3-----A----</AM>
 <AM lemma="září" src="auto">NNNS4-----A----</AM>
 <AM lemma="září" src="auto">NNNS5-----A----</AM>
 <AM lemma="září" src="auto">NNNS6-----A----</AM>
@@ -1154,7 +1177,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>

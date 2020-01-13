@@ -28,6 +28,7 @@
 <AM lemma="Timothy_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Timothy_;Y_,t" src="auto">NNMS5-----A----</AM>
 <AM lemma="Timothy_;Y_,t" src="auto">NNMXX-----A----</AM>
+<AM lemma="Timothy_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1233-001-p1s0W3-Ta">
@@ -42,6 +43,7 @@
 <AM lemma="Celsius" src="auto" recommended="1">NNMXX-----A---8</AM>
 <AM lemma="c-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="c-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="C-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1233-001-p1s0W4-Ta">
@@ -306,7 +308,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>
@@ -319,7 +321,7 @@
 <tag>
 <AM lemma="pozice" src="auto">NNFS3-----A----</AM>
 <AM lemma="pozice" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="pozice" src="auto">NNFS6-----A----</AM>
+<AM lemma="pozice" src="auto" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1233-001-p1s1W10-Ta">
@@ -356,6 +358,7 @@
 <AM lemma="Joseph_;Y_,t" src="auto" recommended="1">NNMS4-----A----</AM>
 <AM lemma="Josephus_;Y_,t" src="auto">NNMS2-----A----</AM>
 <AM lemma="Josephus_;Y_,t" src="auto">NNMS4-----A----</AM>
+<AM lemma="Joseph_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1233-001-p1s1W13-Ta">
@@ -386,7 +389,10 @@
 <LM>w#w-wsj1233-001-p1s1W15</LM>
 </w.rf>
 <form>Hibbena</form>
-<tag lemma="Hibbena" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Hibbena" src="auto">X@-------------</AM>
+<AM lemma="Hibben_;S" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1233-001-p1s1W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -518,6 +524,7 @@
 <AM lemma="Celsius" src="auto" recommended="1">NNMXX-----A---8</AM>
 <AM lemma="c-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="c-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="C-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1233-001-p1s2W2-Ta">
@@ -539,6 +546,7 @@
 <AM lemma="Barr_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Barr_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Barro_;G" src="auto">NNNP2-----A----</AM>
+<AM lemma="Barr_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1233-001-p1s2W4-Ta">
@@ -547,7 +555,10 @@
 <LM>w#w-wsj1233-001-p1s2W4</LM>
 </w.rf>
 <form>Schuler</form>
-<tag lemma="Schuler" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Schuler" src="auto">X@-------------</AM>
+<AM lemma="Schuler_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1233-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -767,7 +778,7 @@
 <form>akvizice</form>
 <tag>
 <AM lemma="akvizice" src="auto">NNFP1-----A----</AM>
-<AM lemma="akvizice" src="auto">NNFP4-----A----</AM>
+<AM lemma="akvizice" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="akvizice" src="auto">NNFP5-----A----</AM>
 <AM lemma="akvizice" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="akvizice" src="auto">NNFS2-----A----</AM>
@@ -905,7 +916,10 @@
 <LM>w#w-wsj1233-001-p1s3W4</LM>
 </w.rf>
 <form>Stuecker</form>
-<tag lemma="Stuecker" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Stuecker" src="auto">X@-------------</AM>
+<AM lemma="Stuecker_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1233-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>

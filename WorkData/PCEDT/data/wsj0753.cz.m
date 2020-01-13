@@ -140,7 +140,10 @@
 <LM>w#w-wsj0753-001-p1s0W8</LM>
 </w.rf>
 <form>CRESTMONT</form>
-<tag lemma="CRESTMONT" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="CRESTMONT" src="auto">X@-------------</AM>
+<AM lemma="Crestmont_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0753-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -168,7 +171,10 @@
 <LM>w#w-wsj0753-001-p1s0W11</LM>
 </w.rf>
 <form>Edison</form>
-<tag lemma="Edison_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Edison_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Edison-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0753-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -201,7 +207,10 @@
 <LM>w#w-wsj0753-001-p1s0W14</LM>
 </w.rf>
 <form>Jersey</form>
-<tag lemma="Jersey_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Jersey_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Jersey-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0753-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -381,6 +390,11 @@
 <AM lemma="41letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="41letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0753-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -399,6 +413,7 @@
 <AM lemma="Lawrence_;S" src="auto">NNMS4-----A---1</AM>
 <AM lemma="Lawrence_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Lawrence_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Lawrence_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0753-001-p1s1W11-Ta">
@@ -430,7 +445,10 @@
 <LM>w#w-wsj0753-001-p1s1W13</LM>
 </w.rf>
 <form>Seidman</form>
-<tag lemma="Seidman" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Seidman" src="auto">X@-------------</AM>
+<AM lemma="Seidman_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0753-001-p1s1W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -686,7 +704,10 @@
 <LM>w#w-wsj0753-001-p1s3W2</LM>
 </w.rf>
 <form>Crestmont</form>
-<tag lemma="Crestmont" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Crestmont" src="auto">X@-------------</AM>
+<AM lemma="Crestmont_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0753-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -745,7 +766,10 @@
 <LM>w#w-wsj0753-001-p1s4W1</LM>
 </w.rf>
 <form>Seidman</form>
-<tag lemma="Seidman" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Seidman" src="auto">X@-------------</AM>
+<AM lemma="Seidman_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0753-001-p1s4W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -891,7 +915,10 @@
 <LM>w#w-wsj0753-001-p1s4W11</LM>
 </w.rf>
 <form>Crestmont</form>
-<tag lemma="Crestmont" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Crestmont" src="auto">X@-------------</AM>
+<AM lemma="Crestmont_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0753-001-p1s4W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1005,7 +1032,10 @@
 <LM>w#w-wsj0753-001-p1s4W20</LM>
 </w.rf>
 <form>Seidman</form>
-<tag lemma="Seidman" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Seidman" src="auto">X@-------------</AM>
+<AM lemma="Seidman-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0753-001-p1s4W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1013,7 +1043,10 @@
 <LM>w#w-wsj0753-001-p1s4W21</LM>
 </w.rf>
 <form>Financial</form>
-<tag lemma="Financial" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Financial" src="auto">X@-------------</AM>
+<AM lemma="Financial-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0753-001-p1s4W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1021,7 +1054,10 @@
 <LM>w#w-wsj0753-001-p1s4W22</LM>
 </w.rf>
 <form>Associates</form>
-<tag lemma="Associates" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Associates" src="auto">X@-------------</AM>
+<AM lemma="Associates-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0753-001-p1s4W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1120,7 +1156,10 @@
 <LM>w#w-wsj0753-001-p1s4W29</LM>
 </w.rf>
 <form>Crestmont</form>
-<tag lemma="Crestmont" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Crestmont" src="auto">X@-------------</AM>
+<AM lemma="Crestmont_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0753-001-p1s4W30-Ta">
 <src.rf>tagger-a</src.rf>

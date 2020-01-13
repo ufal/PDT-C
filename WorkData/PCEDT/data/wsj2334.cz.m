@@ -27,7 +27,10 @@
 <LM>w#w-wsj2334-001-p1s0W2</LM>
 </w.rf>
 <form>Southmark</form>
-<tag lemma="Southmark" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Southmark" src="auto">X@-------------</AM>
+<AM lemma="Southmark-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2334-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj2334-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2334-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -265,6 +271,7 @@
 <AM lemma="síci" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="síci" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="sekunda_:B" src="auto" recommended="1">NNFXX-----A---9</AM>
+<AM lemma="SEC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2334-001-p1s0W24-Ta">
@@ -664,7 +671,7 @@
 <AM lemma="úvěr" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="úvěr" src="auto">NNIP4-----A----</AM>
 <AM lemma="úvěr" src="auto">NNIP5-----A----</AM>
-<AM lemma="úvěr" src="auto">NNIP7-----A----</AM>
+<AM lemma="úvěr" src="auto" selected="1">NNIP7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2334-001-p1s1W8-Ta">
@@ -806,7 +813,7 @@
 </w.rf>
 <form>komisi</form>
 <tag>
-<AM lemma="komise" src="auto">NNFS3-----A----</AM>
+<AM lemma="komise" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="komise" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="komise" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -821,6 +828,7 @@
 <AM lemma="síci" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="síci" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="sekunda_:B" src="auto" recommended="1">NNFXX-----A---9</AM>
+<AM lemma="SEC-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2334-001-p1s1W23-Ta">
@@ -1194,7 +1202,15 @@
 <LM>w#w-wsj2334-001-p1s2W4</LM>
 </w.rf>
 <form>15denní</form>
-<tag lemma="15denní" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="15denní" src="auto">X@-------------</AM>
+<AM lemma="15denní" src="manual" selected="1">AANS4----1A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2334-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1386,7 +1402,10 @@
 <LM>w#w-wsj2334-001-p1s3W2</LM>
 </w.rf>
 <form>Southmark</form>
-<tag lemma="Southmark" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Southmark" src="auto">X@-------------</AM>
+<AM lemma="Southmark_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2334-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1466,7 +1485,10 @@
 <LM>w#w-wsj2334-001-p1s3W9</LM>
 </w.rf>
 <form>10K</form>
-<tag lemma="10K" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="10K" src="auto">X@-------------</AM>
+<AM lemma="10K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2334-001-p1s3W10-Ta">
 <src.rf>tagger-a</src.rf>

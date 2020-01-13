@@ -72,7 +72,10 @@
 <LM>w#w-wsj1497-001-p1s0W6</LM>
 </w.rf>
 <form>McInnese</form>
-<tag lemma="McInnese" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="McInnese" src="auto">X@-------------</AM>
+<AM lemma="McInnes_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1497-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -876,7 +879,7 @@
 </w.rf>
 <form>na</form>
 <tag>
-<AM lemma="na-1" src="auto">RR--4----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--4----------</AM>
 <AM lemma="na-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
@@ -889,7 +892,7 @@
 <form>historii</form>
 <tag>
 <AM lemma="historie" src="auto">NNFS3-----A----</AM>
-<AM lemma="historie" src="auto">NNFS4-----A----</AM>
+<AM lemma="historie" src="auto" selected="1">NNFS4-----A----</AM>
 <AM lemma="historie" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
 </m>
@@ -1151,7 +1154,10 @@
 <LM>w#w-wsj1497-001-p1s3W5</LM>
 </w.rf>
 <form>McInnese</form>
-<tag lemma="McInnese" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="McInnese" src="auto">X@-------------</AM>
+<AM lemma="McInnes_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1497-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1458,7 +1464,7 @@
 <tag>
 <AM lemma="Man-1_;K_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="Man-1_;K_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
-<AM lemma="Man-2_;G" src="auto">NNIS1-----A----</AM>
+<AM lemma="Man-2_;G" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Man-2_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Man-3_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="man" src="auto">NNMS1-----A----</AM>
@@ -1505,7 +1511,10 @@
 <LM>w#w-wsj1497-001-p1s4W2</LM>
 </w.rf>
 <form>Basham</form>
-<tag lemma="Basham" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Basham" src="auto">X@-------------</AM>
+<AM lemma="Basham_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

@@ -217,7 +217,7 @@
 <form>imunitní</form>
 <tag>
 <AM lemma="imunitní" src="auto">AAFP1----1A----</AM>
-<AM lemma="imunitní" src="auto">AAFP4----1A----</AM>
+<AM lemma="imunitní" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="imunitní" src="auto">AAFP5----1A----</AM>
 <AM lemma="imunitní" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="imunitní" src="auto">AAFS2----1A----</AM>
@@ -253,7 +253,7 @@
 <form>reakce</form>
 <tag>
 <AM lemma="reakce" src="auto">NNFP1-----A----</AM>
-<AM lemma="reakce" src="auto">NNFP4-----A----</AM>
+<AM lemma="reakce" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="reakce" src="auto">NNFP5-----A----</AM>
 <AM lemma="reakce" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="reakce" src="auto">NNFS2-----A----</AM>
@@ -632,7 +632,10 @@
 <LM>w#w-wsj2078-001-p1s2W14</LM>
 </w.rf>
 <form>Walter</form>
-<tag lemma="Walter_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Walter_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Walter-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2078-001-p1s2W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -640,7 +643,10 @@
 <LM>w#w-wsj2078-001-p1s2W15</LM>
 </w.rf>
 <form>Reed</form>
-<tag lemma="Reed_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Reed_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Reed-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2078-001-p1s2W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -659,6 +665,7 @@
 <AM lemma="arma_,h" src="auto">NNFP4-----A----</AM>
 <AM lemma="arma_,h" src="auto">NNFP5-----A----</AM>
 <AM lemma="arma_,h" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Army-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2078-001-p1s2W17-Ta">
@@ -668,7 +675,7 @@
 </w.rf>
 <form>Institute</form>
 <tag>
-<AM lemma="Institute-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Institute-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="institut" src="auto">NNIS5-----A----</AM>
 <AM lemma="institute-77_,t" src="auto">F%-------------</AM>
 </tag>
@@ -679,7 +686,10 @@
 <LM>w#w-wsj2078-001-p1s2W18</LM>
 </w.rf>
 <form>of</form>
-<tag lemma="of-77_,t" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="of-77_,t" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="of-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2078-001-p1s2W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -687,7 +697,10 @@
 <LM>w#w-wsj2078-001-p1s2W19</LM>
 </w.rf>
 <form>Research</form>
-<tag lemma="Research-1_;K_,t_^(souč._názvů,_např._IBM_Research)" src="auto" recommended="1">NNISX-----A----</tag>
+<tag>
+<AM lemma="Research-1_;K_,t_^(souč._názvů,_např._IBM_Research)" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="Research-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2078-001-p1s2W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1118,7 +1131,10 @@
 <LM>w#w-wsj2078-001-p1s3W16</LM>
 </w.rf>
 <form>MicroGeneSys</form>
-<tag lemma="MicroGeneSys" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="MicroGeneSys" src="auto">X@-------------</AM>
+<AM lemma="MicroGeneSys-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2078-001-p1s3W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1129,6 +1145,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2078-001-p1s3W18-Ta">
@@ -1172,6 +1189,7 @@
 <tag>
 <AM lemma="Haven_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Haven_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Haven-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2078-001-p1s3W22-Ta">
@@ -1438,7 +1456,10 @@
 <LM>w#w-wsj2078-001-p1s4W3</LM>
 </w.rf>
 <form>VaxSyn</form>
-<tag lemma="VaxSyn" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="VaxSyn" src="auto">X@-------------</AM>
+<AM lemma="VaxSyn-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2078-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2845,7 +2866,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>

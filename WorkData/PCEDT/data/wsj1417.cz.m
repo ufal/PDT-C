@@ -27,7 +27,10 @@
 <LM>w#w-wsj1417-001-p1s0W2</LM>
 </w.rf>
 <form>ENGRAPH</form>
-<tag lemma="ENGRAPH" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="ENGRAPH" src="auto">X@-------------</AM>
+<AM lemma="ENGRAPH-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1417-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -39,6 +42,7 @@
 <AM lemma="INC-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Inc-77_:B" src="auto">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="INC-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1417-001-p1s0W4-Ta">
@@ -530,7 +534,10 @@
 <LM>w#w-wsj1417-001-p1s1W2</LM>
 </w.rf>
 <form>Zacks</form>
-<tag lemma="Zacks" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Zacks" src="auto">X@-------------</AM>
+<AM lemma="Zacks-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1417-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -541,6 +548,7 @@
 <tag>
 <AM lemma="Investment_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Investment_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Investment-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1417-001-p1s1W4-Ta">
@@ -549,7 +557,10 @@
 <LM>w#w-wsj1417-001-p1s1W4</LM>
 </w.rf>
 <form>Research</form>
-<tag lemma="Research-1_;K_,t_^(souč._názvů,_např._IBM_Research)" src="auto" recommended="1">NNISX-----A----</tag>
+<tag>
+<AM lemma="Research-1_;K_,t_^(souč._názvů,_např._IBM_Research)" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="Research-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1417-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -704,7 +715,7 @@
 <AM lemma="vysoký" src="auto">AAIP1----1A---6</AM>
 <AM lemma="vysoký" src="auto">AAIP4----1A---6</AM>
 <AM lemma="vysoký" src="auto">AAIP5----1A---6</AM>
-<AM lemma="vysoký" src="auto">AAIS1----1A----</AM>
+<AM lemma="vysoký" src="auto" selected="1">AAIS1----1A----</AM>
 <AM lemma="vysoký" src="auto">AAIS4----1A----</AM>
 <AM lemma="vysoký" src="auto">AAIS5----1A----</AM>
 <AM lemma="vysoký" src="auto">AAMP1----1A---6</AM>
@@ -807,7 +818,10 @@
 <LM>w#w-wsj1417-001-p1s2W4</LM>
 </w.rf>
 <form>Engraph</form>
-<tag lemma="Engraph" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Engraph" src="auto">X@-------------</AM>
+<AM lemma="Engraph_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1417-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>

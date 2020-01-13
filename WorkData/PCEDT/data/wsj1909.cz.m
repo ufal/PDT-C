@@ -27,7 +27,10 @@
 <LM>w#w-wsj1909-001-p1s0W2</LM>
 </w.rf>
 <form>Fleet</form>
-<tag lemma="Fleet_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Fleet_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Fleet-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1909-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,7 +46,10 @@
 <LM>w#w-wsj1909-001-p1s0W4</LM>
 </w.rf>
 <form>Norstar</form>
-<tag lemma="Norstar" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Norstar" src="auto">X@-------------</AM>
+<AM lemma="Norstar-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1909-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -51,7 +57,10 @@
 <LM>w#w-wsj1909-001-p1s0W5</LM>
 </w.rf>
 <form>Financial</form>
-<tag lemma="Financial" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Financial" src="auto">X@-------------</AM>
+<AM lemma="Financial-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1909-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -59,7 +68,10 @@
 <LM>w#w-wsj1909-001-p1s0W6</LM>
 </w.rf>
 <form>Group</form>
-<tag lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1909-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -93,7 +105,7 @@
 <form>nárůst</form>
 <tag>
 <AM lemma="nárůst" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="nárůst" src="auto">NNIS4-----A----</AM>
+<AM lemma="nárůst" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1909-001-p1s0W11-Ta">
@@ -370,7 +382,10 @@
 <LM>w#w-wsj1909-001-p1s1W4</LM>
 </w.rf>
 <form>Fleet</form>
-<tag lemma="Fleet_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Fleet_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Fleet-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1909-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -535,7 +550,7 @@
 <form>loňskými</form>
 <tag>
 <AM lemma="loňský" src="auto">AAFP7----1A----</AM>
-<AM lemma="loňský" src="auto">AAIP7----1A----</AM>
+<AM lemma="loňský" src="auto" selected="1">AAIP7----1A----</AM>
 <AM lemma="loňský" src="auto" recommended="1">AAMP7----1A----</AM>
 <AM lemma="loňský" src="auto">AANP7----1A----</AM>
 </tag>
@@ -650,7 +665,7 @@
 </w.rf>
 <form>The</form>
 <tag>
-<AM lemma="The-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="The-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="the-77_,t" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -660,7 +675,10 @@
 <LM>w#w-wsj1909-001-p1s2W3</LM>
 </w.rf>
 <form>Providence</form>
-<tag lemma="Providence_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Providence_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Providence-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1909-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -711,6 +729,7 @@
 <AM lemma="Rhodos_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Rhode-1_;G_;K" src="auto" recommended="1">NNISX-----A----</AM>
 <AM lemma="Rhode-2_;S" src="auto">NNMSX-----A----</AM>
+<AM lemma="Rhode-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1909-001-p1s2W9-Ta">
@@ -722,6 +741,7 @@
 <tag>
 <AM lemma="Island_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Island_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Island-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1909-001-p1s2W10-Ta">
@@ -1136,7 +1156,10 @@
 <LM>w#w-wsj1909-001-p1s3W2</LM>
 </w.rf>
 <form>Fleet</form>
-<tag lemma="Fleet_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Fleet_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Fleet-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1909-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1472,7 +1495,10 @@
 <LM>w#w-wsj1909-001-p1s4W2</LM>
 </w.rf>
 <form>Fleet</form>
-<tag lemma="Fleet_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Fleet_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Fleet-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1909-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>

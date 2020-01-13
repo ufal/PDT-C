@@ -254,7 +254,7 @@
 <AM lemma="registrovaný_^(*2t)" src="auto">AAFP6----1A----</AM>
 <AM lemma="registrovaný_^(*2t)" src="auto">AAIP2----1A----</AM>
 <AM lemma="registrovaný_^(*2t)" src="auto">AAIP6----1A----</AM>
-<AM lemma="registrovaný_^(*2t)" src="auto">AAMP2----1A----</AM>
+<AM lemma="registrovaný_^(*2t)" src="auto" selected="1">AAMP2----1A----</AM>
 <AM lemma="registrovaný_^(*2t)" src="auto">AAMP6----1A----</AM>
 <AM lemma="registrovaný_^(*2t)" src="auto">AANP2----1A----</AM>
 <AM lemma="registrovaný_^(*2t)" src="auto">AANP6----1A----</AM>
@@ -298,7 +298,7 @@
 <form>listopadu</form>
 <tag>
 <AM lemma="listopad" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="listopad" src="auto">NNIS3-----A----</AM>
+<AM lemma="listopad" src="auto" selected="1">NNIS3-----A----</AM>
 <AM lemma="listopad" src="auto">NNIS6-----A----</AM>
 </tag>
 </m>
@@ -363,7 +363,7 @@
 <AM lemma="září" src="auto">NNNP5-----A----</AM>
 <AM lemma="září" src="auto">NNNS1-----A----</AM>
 <AM lemma="září" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="září" src="auto">NNNS3-----A----</AM>
+<AM lemma="září" src="auto" selected="1">NNNS3-----A----</AM>
 <AM lemma="září" src="auto">NNNS4-----A----</AM>
 <AM lemma="září" src="auto">NNNS5-----A----</AM>
 <AM lemma="září" src="auto">NNNS6-----A----</AM>
@@ -524,7 +524,10 @@
 <LM>w#w-wsj1231-001-p1s2W4</LM>
 </w.rf>
 <form>Marcus</form>
-<tag lemma="Marcus_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Marcus_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Marcus_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1231-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -561,7 +564,7 @@
 <form>tento</form>
 <tag>
 <AM lemma="tento" src="auto" recommended="1">PDIS4----------</AM>
-<AM lemma="tento" src="auto">PDYS1----------</AM>
+<AM lemma="tento" src="auto" selected="1">PDYS1----------</AM>
 </tag>
 </m>
 <m id="m-wsj1231-001-p1s2W9-Ta">
@@ -571,7 +574,7 @@
 </w.rf>
 <form>krok</form>
 <tag>
-<AM lemma="krok" src="auto">NNIS1-----A----</AM>
+<AM lemma="krok" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="krok" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -1096,7 +1099,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>

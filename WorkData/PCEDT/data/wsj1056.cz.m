@@ -308,7 +308,7 @@
 <form>analytiky</form>
 <tag>
 <AM lemma="analytik" src="auto">NNMP4-----A----</AM>
-<AM lemma="analytik" src="auto">NNMP7-----A----</AM>
+<AM lemma="analytik" src="auto" selected="1">NNMP7-----A----</AM>
 <AM lemma="analytika_^(věda)" src="auto">NNFP1-----A----</AM>
 <AM lemma="analytika_^(věda)" src="auto">NNFP4-----A----</AM>
 <AM lemma="analytika_^(věda)" src="auto">NNFP5-----A----</AM>
@@ -546,7 +546,7 @@
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGFS5-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGFS6-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGFS7-----A----</AM>
-<AM lemma="zahrnující_^(*5ovat)" src="auto">AGIP1-----A----</AM>
+<AM lemma="zahrnující_^(*5ovat)" src="auto" selected="1">AGIP1-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGIP4-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGIP5-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGIS1-----A----</AM>
@@ -573,7 +573,7 @@
 <form>ztráty</form>
 <tag>
 <AM lemma="ztráta" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="ztráta" src="auto">NNFP4-----A----</AM>
+<AM lemma="ztráta" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="ztráta" src="auto">NNFP5-----A----</AM>
 <AM lemma="ztráta" src="auto">NNFS2-----A----</AM>
 </tag>
@@ -757,7 +757,15 @@
 <LM>w#w-wsj1056-001-p1s3W7</LM>
 </w.rf>
 <form>30denním</form>
-<tag lemma="30denním" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="30denním" src="auto">X@-------------</AM>
+<AM lemma="30denní" src="manual" selected="1">AAIS7----1A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1056-001-p1s3W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -794,7 +802,7 @@
 <form>vývoj</form>
 <tag>
 <AM lemma="vývoj" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="vývoj" src="auto">NNIS4-----A----</AM>
+<AM lemma="vývoj" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1056-001-p1s3W12-Ta">
@@ -882,7 +890,7 @@
 </w.rf>
 <form>tři</form>
 <tag>
-<AM lemma="tři`3" src="auto">ClXP1----------</AM>
+<AM lemma="tři`3" src="auto" selected="1">ClXP1----------</AM>
 <AM lemma="tři`3" src="auto" recommended="1">ClXP4----------</AM>
 <AM lemma="tři`3" src="auto">ClXP5----------</AM>
 <AM lemma="třít" src="auto">Vi-S---2--A-I--</AM>
@@ -1008,7 +1016,15 @@
 <LM>w#w-wsj1056-001-p1s4W7</LM>
 </w.rf>
 <form>300denním</form>
-<tag lemma="300denním" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="300denním" src="auto">X@-------------</AM>
+<AM lemma="300denní" src="manual" selected="1">AAIS7----1A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1056-001-p1s4W8-Ta">
 <src.rf>tagger-a</src.rf>

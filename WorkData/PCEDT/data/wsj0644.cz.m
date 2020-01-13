@@ -205,7 +205,7 @@
 <form>ještě</form>
 <tag>
 <AM lemma="ještě-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="ještě-2" src="auto">TT-------------</AM>
+<AM lemma="ještě-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0644-001-p1s0W18-Ta">
@@ -365,6 +365,11 @@
 <AM lemma="45letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="45letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatný tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0644-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -397,6 +402,11 @@
 <AM lemma="66letý" src="auto" recommended="1">AAMS4----1A----</AM>
 <AM lemma="66letý" src="auto">AANS2----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0644-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -408,6 +418,7 @@
 <AM lemma="Thomas_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Thomas_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Thomas_;S" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Thomas_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0644-001-p1s1W6-Ta">
@@ -444,7 +455,7 @@
 <form>Bullocka</form>
 <tag>
 <AM lemma="Bullock_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Bullock_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Bullock_;S" src="auto" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0644-001-p1s1W9-Ta">

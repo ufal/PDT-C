@@ -40,7 +40,10 @@
 <LM>w#w-wsj0709-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0709-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -882,7 +885,10 @@
 <LM>w#w-wsj0709-001-p1s3W18</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0709-001-p1s3W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1189,7 +1195,7 @@
 <form>odpisy</form>
 <tag>
 <AM lemma="odpis" src="auto" recommended="1">NNIP1-----A----</AM>
-<AM lemma="odpis" src="auto">NNIP4-----A----</AM>
+<AM lemma="odpis" src="auto" selected="1">NNIP4-----A----</AM>
 <AM lemma="odpis" src="auto">NNIP5-----A----</AM>
 <AM lemma="odpis" src="auto">NNIP7-----A----</AM>
 </tag>
@@ -1319,7 +1325,7 @@
 <AM lemma="spojený_^(*3it)" src="auto">AAFS3----1A----</AM>
 <AM lemma="spojený_^(*3it)" src="auto">AAFS6----1A----</AM>
 <AM lemma="spojený_^(*3it)" src="auto">AAIP1----1A----</AM>
-<AM lemma="spojený_^(*3it)" src="auto">AAIP4----1A----</AM>
+<AM lemma="spojený_^(*3it)" src="auto" selected="1">AAIP4----1A----</AM>
 <AM lemma="spojený_^(*3it)" src="auto">AAIP5----1A----</AM>
 <AM lemma="spojený_^(*3it)" src="auto">AAMP4----1A----</AM>
 <AM lemma="spojený_^(*3it)" src="auto">AANP1----1A---6</AM>

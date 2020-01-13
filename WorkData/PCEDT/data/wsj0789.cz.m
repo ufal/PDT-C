@@ -1229,7 +1229,10 @@
 <LM>w#w-wsj0789-001-p1s2W7</LM>
 </w.rf>
 <form>programů</form>
-<tag lemma="program-1" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="program-1" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="program" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0789-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>

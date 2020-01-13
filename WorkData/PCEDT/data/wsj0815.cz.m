@@ -31,6 +31,7 @@
 <AM lemma="jít" src="auto">Vi-S---2--A-I-6</AM>
 <AM lemma="jít" src="auto">Vi-S---3--A-I-6</AM>
 <AM lemma="di_;G_;S_;Y_,t" src="auto" recommended="1">RR--X----------</AM>
+<AM lemma="Di-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0815-001-p1s0W3-Ta">
@@ -42,6 +43,7 @@
 <tag>
 <AM lemma="Giorgio_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Giorgio_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="Giorgio-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0815-001-p1s0W4-Ta">
@@ -50,7 +52,10 @@
 <LM>w#w-wsj0815-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0815-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -297,6 +302,7 @@
 <AM lemma="jít" src="auto">Vi-S---2--A-I-6</AM>
 <AM lemma="jít" src="auto">Vi-S---3--A-I-6</AM>
 <AM lemma="di_;G_;S_;Y_,t" src="auto" recommended="1">RR--X----------</AM>
+<AM lemma="Di-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0815-001-p1s1W3-Ta">
@@ -308,6 +314,7 @@
 <tag>
 <AM lemma="Giorgio_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Giorgio_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="Giorgio-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0815-001-p1s1W4-Ta">
@@ -605,7 +612,10 @@
 <LM>w#w-wsj0815-001-p1s1W27</LM>
 </w.rf>
 <form>Acquisition</form>
-<tag lemma="Acquisition" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Acquisition" src="auto">X@-------------</AM>
+<AM lemma="Acquisition-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0815-001-p1s1W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -613,7 +623,10 @@
 <LM>w#w-wsj0815-001-p1s1W28</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0815-001-p1s1W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -641,7 +654,7 @@
 <AM lemma="jednotka" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="jednotka" src="auto">NNFP4-----A----</AM>
 <AM lemma="jednotka" src="auto">NNFP5-----A----</AM>
-<AM lemma="jednotka" src="auto">NNFS2-----A----</AM>
+<AM lemma="jednotka" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0815-001-p1s1W32-Ta">
@@ -673,6 +686,7 @@
 <AM lemma="rosa" src="auto">NNFS3-----A----</AM>
 <AM lemma="rosa" src="auto">NNFS6-----A----</AM>
 <AM lemma="rosit" src="auto">VeYS------A-I--</AM>
+<AM lemma="Rose-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0815-001-p1s1W34-Ta">
@@ -681,7 +695,10 @@
 <LM>w#w-wsj0815-001-p1s1W34</LM>
 </w.rf>
 <form>Partners</form>
-<tag lemma="Partners" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Partners" src="auto">X@-------------</AM>
+<AM lemma="Partners-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0815-001-p1s1W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -689,7 +706,10 @@
 <LM>w#w-wsj0815-001-p1s1W35</LM>
 </w.rf>
 <form>Limited</form>
-<tag lemma="Limited" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Limited" src="auto">X@-------------</AM>
+<AM lemma="Limited-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0815-001-p1s1W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -697,7 +717,10 @@
 <LM>w#w-wsj0815-001-p1s1W36</LM>
 </w.rf>
 <form>Partnership</form>
-<tag lemma="Partnership" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Partnership" src="auto">X@-------------</AM>
+<AM lemma="Partnership-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0815-001-p1s1W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -933,6 +956,7 @@
 <AM lemma="jít" src="auto">Vi-S---2--A-I-6</AM>
 <AM lemma="jít" src="auto">Vi-S---3--A-I-6</AM>
 <AM lemma="di_;G_;S_;Y_,t" src="auto" recommended="1">RR--X----------</AM>
+<AM lemma="Di-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0815-001-p1s3W8-Ta">
@@ -944,6 +968,7 @@
 <tag>
 <AM lemma="Giorgio_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Giorgio_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="Giorgio-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0815-001-p1s3W9-Ta">

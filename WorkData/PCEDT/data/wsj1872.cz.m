@@ -31,7 +31,10 @@
 <LM>w#w-wsj1872-001-p1s0W2</LM>
 </w.rf>
 <form>Resolution</form>
-<tag lemma="Resolution" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Resolution" src="auto">X@-------------</AM>
+<AM lemma="Resolution-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1872-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -39,7 +42,10 @@
 <LM>w#w-wsj1872-001-p1s0W3</LM>
 </w.rf>
 <form>Funding</form>
-<tag lemma="Funding" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Funding" src="auto">X@-------------</AM>
+<AM lemma="Funding-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1872-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -47,7 +53,10 @@
 <LM>w#w-wsj1872-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1872-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -254,6 +263,11 @@
 <AM lemma="30letý" src="auto">AANS4----1A----</AM>
 <AM lemma="30letý" src="auto">AANS5----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1872-001-p1s0W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -949,7 +963,10 @@
 <LM>w#w-wsj1872-001-p1s3W2</LM>
 </w.rf>
 <form>Refcorp</form>
-<tag lemma="Refcorp" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Refcorp" src="auto">X@-------------</AM>
+<AM lemma="Refcorp_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1872-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1636,7 +1653,7 @@
 <AM lemma="možný" src="auto">AANP1----1A---6</AM>
 <AM lemma="možný" src="auto">AANP4----1A---6</AM>
 <AM lemma="možný" src="auto">AANP5----1A---6</AM>
-<AM lemma="možný" src="auto">AANS1----1A----</AM>
+<AM lemma="možný" src="auto" selected="1">AANS1----1A----</AM>
 <AM lemma="možný" src="auto">AANS4----1A----</AM>
 <AM lemma="možný" src="auto">AANS5----1A----</AM>
 </tag>
@@ -1839,7 +1856,10 @@
 <LM>w#w-wsj1872-001-p1s8W3</LM>
 </w.rf>
 <form>USA</form>
-<tag lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="USA_:B_;G_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1872-001-p1s8W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2124,7 +2144,7 @@
 </w.rf>
 <form>dani</form>
 <tag>
-<AM lemma="daň_^(peněžní/naturální_dávka)" src="auto">NNFS3-----A----</AM>
+<AM lemma="daň_^(peněžní/naturální_dávka)" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="daň_^(peněžní/naturální_dávka)" src="auto">NNFS5-----A----</AM>
 <AM lemma="daň_^(peněžní/naturální_dávka)" src="auto">NNFS6-----A----</AM>
 <AM lemma="dan-1_^(mistr_a_učitel_japon._sportů)" src="auto" recommended="1">NNMP1-----A---1</AM>
@@ -2187,7 +2207,7 @@
 <AM lemma="dědický" src="auto">AAFP4----1A----</AM>
 <AM lemma="dědický" src="auto">AAFP5----1A----</AM>
 <AM lemma="dědický" src="auto">AAFS2----1A----</AM>
-<AM lemma="dědický" src="auto">AAFS3----1A----</AM>
+<AM lemma="dědický" src="auto" selected="1">AAFS3----1A----</AM>
 <AM lemma="dědický" src="auto">AAFS6----1A----</AM>
 <AM lemma="dědický" src="auto" recommended="1">AAIP1----1A----</AM>
 <AM lemma="dědický" src="auto">AAIP4----1A----</AM>
@@ -2224,7 +2244,7 @@
 <AM lemma="darovací_^(*2t)" src="auto">AAFP5----1A----</AM>
 <AM lemma="darovací_^(*2t)" src="auto">AAFS1----1A----</AM>
 <AM lemma="darovací_^(*2t)" src="auto">AAFS2----1A----</AM>
-<AM lemma="darovací_^(*2t)" src="auto">AAFS3----1A----</AM>
+<AM lemma="darovací_^(*2t)" src="auto" selected="1">AAFS3----1A----</AM>
 <AM lemma="darovací_^(*2t)" src="auto">AAFS4----1A----</AM>
 <AM lemma="darovací_^(*2t)" src="auto">AAFS5----1A----</AM>
 <AM lemma="darovací_^(*2t)" src="auto">AAFS6----1A----</AM>

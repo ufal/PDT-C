@@ -30,7 +30,10 @@
 <LM>w#w-wsj0378-001-p1s0W2</LM>
 </w.rf>
 <form>Hackman</form>
-<tag lemma="Hackman_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hackman_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hackman-2_;S" src="manual" selected="1">NNFSX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0378-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -81,7 +84,10 @@
 <LM>w#w-wsj0378-001-p1s0W7</LM>
 </w.rf>
 <form>Franklin</form>
-<tag lemma="Franklin_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Franklin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Franklin-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0378-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -89,7 +95,10 @@
 <LM>w#w-wsj0378-001-p1s0W8</LM>
 </w.rf>
 <form>Associates</form>
-<tag lemma="Associates" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Associates" src="auto">X@-------------</AM>
+<AM lemma="Associates-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0378-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -286,7 +295,10 @@
 <LM>w#w-wsj0378-001-p1s1W9</LM>
 </w.rf>
 <form>Naomi</form>
-<tag lemma="Naomi_;Y_,t" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Naomi_;Y_,t" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Naomi_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0378-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -317,6 +329,14 @@
 </w.rf>
 <form>Albanesovi</form>
 <tag lemma="Albanesovi" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Albanesové</text>
+</LM>
+<LM type="Other">
+<text>evidentně jde o ženu</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0378-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -343,6 +363,11 @@
 <AM lemma="který" src="auto">P4XP4---------6</AM>
 <AM lemma="který" src="auto" recommended="1">P4YS1----------</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>která</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0378-001-p1s1W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -359,6 +384,11 @@
 </w.rf>
 <form>odešel</form>
 <tag lemma="odejít" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<comment>
+<LM type="New Form">
+<text>odešla</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0378-001-p1s1W17-Ta">
 <src.rf>tagger-a</src.rf>

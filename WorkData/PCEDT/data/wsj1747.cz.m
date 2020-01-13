@@ -45,7 +45,10 @@
 <LM>w#w-wsj1747-001-p1s0W3</LM>
 </w.rf>
 <form>VIACOM</form>
-<tag lemma="VIACOM" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="VIACOM" src="auto">X@-------------</AM>
+<AM lemma="VIACOM-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1747-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -56,6 +59,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1747-001-p1s0W5-Ta">
@@ -156,6 +160,11 @@
 </w.rf>
 <form>milionnů</form>
 <tag lemma="milionnů" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>milionů</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1747-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -313,7 +322,7 @@
 <AM lemma="vyčíslení_^(*3it)" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="vyčíslení_^(*3it)" src="auto">NNNS2-----A----</AM>
 <AM lemma="vyčíslení_^(*3it)" src="auto">NNNS3-----A----</AM>
-<AM lemma="vyčíslení_^(*3it)" src="auto">NNNS4-----A----</AM>
+<AM lemma="vyčíslení_^(*3it)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="vyčíslení_^(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="vyčíslení_^(*3it)" src="auto">NNNS6-----A----</AM>
 </tag>

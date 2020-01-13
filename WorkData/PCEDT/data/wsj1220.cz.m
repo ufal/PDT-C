@@ -41,7 +41,10 @@
 <LM>w#w-wsj1220-001-p1s0W3</LM>
 </w.rf>
 <form>Lloyd</form>
-<tag lemma="Lloyd_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lloyd_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Lloyd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1220-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -70,6 +73,7 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1220-001-p1s0W6-Ta">
@@ -423,7 +427,10 @@
 <LM>w#w-wsj1220-001-p1s1W4</LM>
 </w.rf>
 <form>Lloyd</form>
-<tag lemma="Lloyd_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lloyd_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Lloyd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1220-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -452,6 +459,7 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1220-001-p1s1W7-Ta">
@@ -1110,7 +1118,10 @@
 <LM>w#w-wsj1220-001-p1s3W2</LM>
 </w.rf>
 <form>Lloyd</form>
-<tag lemma="Lloyd_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lloyd_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Lloyd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1220-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1139,6 +1150,7 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1220-001-p1s3W5-Ta">
@@ -1540,7 +1552,10 @@
 <LM>w#w-wsj1220-001-p1s4W12</LM>
 </w.rf>
 <form>Lloyd</form>
-<tag lemma="Lloyd_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lloyd_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Lloyd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1220-001-p1s4W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1569,6 +1584,7 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1220-001-p1s4W15-Ta">
@@ -1725,7 +1741,10 @@
 <LM>w#w-wsj1220-001-p1s4W27</LM>
 </w.rf>
 <form>Lloyd</form>
-<tag lemma="Lloyd_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lloyd_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Lloyd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1220-001-p1s4W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1754,6 +1773,7 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1220-001-p1s4W30-Ta">
@@ -1899,7 +1919,10 @@
 <LM>w#w-wsj1220-001-p1s4W42</LM>
 </w.rf>
 <form>Lloyd</form>
-<tag lemma="Lloyd_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lloyd_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Lloyd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1220-001-p1s4W43-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1928,6 +1951,7 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1220-001-p1s4W45-Ta">
@@ -2155,7 +2179,10 @@
 <LM>w#w-wsj1220-001-p1s5W21</LM>
 </w.rf>
 <form>Lloyd</form>
-<tag lemma="Lloyd_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lloyd_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Lloyd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1220-001-p1s5W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2184,6 +2211,7 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1220-001-p1s5W24-Ta">
@@ -2463,7 +2491,10 @@
 <LM>w#w-wsj1220-001-p1s7W2</LM>
 </w.rf>
 <form>Lloyd</form>
-<tag lemma="Lloyd_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Lloyd_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Lloyd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1220-001-p1s7W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2492,6 +2523,7 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1220-001-p1s7W5-Ta">

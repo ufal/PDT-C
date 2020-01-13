@@ -178,7 +178,7 @@
 <AM lemma="Franek_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Franek_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="Frank_;E_;S_;Y" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Frank_;E_;S_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Frank_;E_;S_;Y" src="auto" selected="1">NNMS4-----A----</AM>
 <AM lemma="Franka_;Y" src="auto">NNFS1-----A----</AM>
 <AM lemma="Franko_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Franko_;S" src="auto">NNMS4-----A----</AM>
@@ -190,7 +190,10 @@
 <LM>w#w-wsj0521-001-p1s0W14</LM>
 </w.rf>
 <form>Nicastra</form>
-<tag lemma="Nicastra" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Nicastra" src="auto">X@-------------</AM>
+<AM lemma="Nicastro_;S" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0521-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -240,7 +243,10 @@
 <LM>w#w-wsj0521-001-p1s1W2</LM>
 </w.rf>
 <form>Nicastro</form>
-<tag lemma="Nicastro" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Nicastro" src="auto">X@-------------</AM>
+<AM lemma="Nicastro_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0521-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -305,6 +311,7 @@
 <AM lemma="Union" src="auto">NNIS4-----A----</AM>
 <AM lemma="union" src="auto">NNIS1-----A----</AM>
 <AM lemma="union" src="auto">NNIS4-----A----</AM>
+<AM lemma="Union-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0521-001-p1s1W8-Ta">
@@ -340,7 +347,10 @@
 <LM>w#w-wsj0521-001-p1s1W10</LM>
 </w.rf>
 <form>Singer</form>
-<tag lemma="Singer_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Singer_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Singer-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0521-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -356,6 +366,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0521-001-p1s1W12-Ta">

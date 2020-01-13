@@ -16,7 +16,11 @@
 <LM>w#w-wsj1326-001-p1s0W1</LM>
 </w.rf>
 <form>Norimasa</form>
-<tag lemma="Norimasa" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Norimasa" src="auto">X@-------------</AM>
+<AM lemma="Norimasa-77" src="manual">F%-------------</AM>
+<AM lemma="Norimasa_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1326-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -24,7 +28,10 @@
 <LM>w#w-wsj1326-001-p1s0W2</LM>
 </w.rf>
 <form>Furuta</form>
-<tag lemma="Furuta" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Furuta" src="auto">X@-------------</AM>
+<AM lemma="Furuta_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1326-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -89,6 +96,7 @@
 <tag>
 <AM lemma="Mazda_;K_;R" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mazda_;R" src="auto">NNFS1-----A----</AM>
+<AM lemma="Mazda-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1326-001-p1s0W8-Ta">
@@ -100,6 +108,7 @@
 <tag>
 <AM lemma="motor" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="motor" src="auto">NNIS4-----A----</AM>
+<AM lemma="Motor-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1326-001-p1s0W9-Ta">
@@ -108,7 +117,10 @@
 <LM>w#w-wsj1326-001-p1s0W9</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1326-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -278,6 +290,7 @@
 <AM lemma="Ford-3_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="ford_;R" src="auto">NNIS1-----A----</AM>
 <AM lemma="ford_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Ford-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1326-001-p1s0W26-Ta">
@@ -289,6 +302,7 @@
 <tag>
 <AM lemma="motor" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="motor" src="auto">NNIS4-----A----</AM>
+<AM lemma="Motor-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1326-001-p1s0W27-Ta">
@@ -299,7 +313,7 @@
 <form>ještě</form>
 <tag>
 <AM lemma="ještě-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="ještě-2" src="auto">TT-------------</AM>
+<AM lemma="ještě-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1326-001-p1s0W28-Ta">
@@ -402,7 +416,10 @@
 <LM>w#w-wsj1326-001-p1s1W1</LM>
 </w.rf>
 <form>Furuta</form>
-<tag lemma="Furuta" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Furuta" src="auto">X@-------------</AM>
+<AM lemma="Furuta_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1326-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>

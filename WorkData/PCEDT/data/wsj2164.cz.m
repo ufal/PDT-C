@@ -75,7 +75,7 @@
 <AM lemma="Post-2_;R_^(Washington_Post)" src="auto">NNIS1-----A----</AM>
 <AM lemma="Post-2_;R_^(Washington_Post)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Post-3_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Post-77" src="auto">F%-------------</AM>
+<AM lemma="Post-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="post-1_^(pozice)" src="auto">NNIS1-----A----</AM>
 <AM lemma="post-1_^(pozice)" src="auto">NNIS4-----A----</AM>
 <AM lemma="post-2_,t_^(po-,_např._post-traumatický)" src="auto">A2--------A----</AM>
@@ -98,6 +98,7 @@
 <tag>
 <AM lemma="Newsweek_;R" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Newsweek_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Newsweek-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2164-001-p1s0W10-Ta">
@@ -106,7 +107,10 @@
 <LM>w#w-wsj2164-001-p1s0W10</LM>
 </w.rf>
 <form>Stations</form>
-<tag lemma="Stations" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Stations" src="auto">X@-------------</AM>
+<AM lemma="Stations-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2164-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -161,7 +165,7 @@
 </w.rf>
 <form>lednu</form>
 <tag>
-<AM lemma="leden" src="auto">NNIS3-----A----</AM>
+<AM lemma="leden" src="auto" selected="1">NNIS3-----A----</AM>
 <AM lemma="leden" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>
@@ -361,7 +365,10 @@
 <LM>w#w-wsj2164-001-p1s1W7</LM>
 </w.rf>
 <form>Chasemana</form>
-<tag lemma="Chasemana" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Chasemana" src="auto">X@-------------</AM>
+<AM lemma="Chaseman_;S" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2164-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -467,7 +474,7 @@
 <form>stanice</form>
 <tag>
 <AM lemma="stanice" src="auto">NNFP1-----A----</AM>
-<AM lemma="stanice" src="auto">NNFP4-----A----</AM>
+<AM lemma="stanice" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="stanice" src="auto">NNFP5-----A----</AM>
 <AM lemma="stanice" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="stanice" src="auto">NNFS2-----A----</AM>
@@ -485,7 +492,7 @@
 <AM lemma="Post-2_;R_^(Washington_Post)" src="auto">NNIS1-----A----</AM>
 <AM lemma="Post-2_;R_^(Washington_Post)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Post-3_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Post-77" src="auto">F%-------------</AM>
+<AM lemma="Post-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="post-1_^(pozice)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="post-1_^(pozice)" src="auto">NNIS4-----A----</AM>
 <AM lemma="post-2_,t_^(po-,_např._post-traumatický)" src="auto">A2--------A----</AM>
@@ -508,6 +515,7 @@
 <tag>
 <AM lemma="Newsweek_;R" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Newsweek_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Newsweek-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2164-001-p1s1W21-Ta">

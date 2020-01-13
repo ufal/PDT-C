@@ -27,7 +27,10 @@
 <LM>w#w-wsj1662-001-p1s0W2</LM>
 </w.rf>
 <form>Millicom</form>
-<tag lemma="Millicom" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Millicom" src="auto">X@-------------</AM>
+<AM lemma="Millicom-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1662-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -38,6 +41,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1662-001-p1s0W4-Ta">
@@ -451,7 +455,7 @@
 <AM lemma="mluvčí-2" src="auto">NNFP1-----A----</AM>
 <AM lemma="mluvčí-2" src="auto">NNFP4-----A----</AM>
 <AM lemma="mluvčí-2" src="auto">NNFP5-----A----</AM>
-<AM lemma="mluvčí-2" src="auto">NNFS1-----A----</AM>
+<AM lemma="mluvčí-2" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="mluvčí-2" src="auto">NNFS2-----A----</AM>
 <AM lemma="mluvčí-2" src="auto">NNFS3-----A----</AM>
 <AM lemma="mluvčí-2" src="auto">NNFS4-----A----</AM>
@@ -518,7 +522,10 @@
 <LM>w#w-wsj1662-001-p1s2W4</LM>
 </w.rf>
 <form>Millicom</form>
-<tag lemma="Millicom" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Millicom" src="auto">X@-------------</AM>
+<AM lemma="Millicom_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1662-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -644,7 +651,10 @@
 <LM>w#w-wsj1662-001-p1s3W6</LM>
 </w.rf>
 <form>Cable</form>
-<tag lemma="Cable_;K_,t" src="auto" recommended="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Cable_;K_,t" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="Cable-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1662-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -660,7 +670,10 @@
 <LM>w#w-wsj1662-001-p1s3W8</LM>
 </w.rf>
 <form>Wireless</form>
-<tag lemma="Wireless" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Wireless" src="auto">X@-------------</AM>
+<AM lemma="Wireless-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1662-001-p1s3W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -697,7 +710,10 @@
 <LM>w#w-wsj1662-001-p1s4W2</LM>
 </w.rf>
 <form>Millicom</form>
-<tag lemma="Millicom" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Millicom" src="auto">X@-------------</AM>
+<AM lemma="Millicom_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1662-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -733,7 +749,7 @@
 </w.rf>
 <form>tento</form>
 <tag>
-<AM lemma="tento" src="auto">PDIS4----------</AM>
+<AM lemma="tento" src="auto" selected="1">PDIS4----------</AM>
 <AM lemma="tento" src="auto" recommended="1">PDYS1----------</AM>
 </tag>
 </m>
@@ -745,7 +761,7 @@
 <form>systém</form>
 <tag>
 <AM lemma="systém" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="systém" src="auto">NNIS4-----A----</AM>
+<AM lemma="systém" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1662-001-p1s4W8-Ta">
@@ -841,7 +857,10 @@
 <LM>w#w-wsj1662-001-p1s4W16</LM>
 </w.rf>
 <form>Comvik</form>
-<tag lemma="Comvik" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Comvik" src="auto">X@-------------</AM>
+<AM lemma="Comvik-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1662-001-p1s4W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -862,7 +881,7 @@
 </w.rf>
 <form>AB</form>
 <tag>
-<AM lemma="AB-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="AB-88_:B" src="auto" selected="1">NNXXX-----A----</AM>
 <AM lemma="Ab-77" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="Aba_;Y" src="auto">NNFP2-----A----</AM>
 <AM lemma="ab-77" src="auto">F%-------------</AM>
@@ -907,7 +926,10 @@
 <LM>w#w-wsj1662-001-p1s4W22</LM>
 </w.rf>
 <form>Kinnevik</form>
-<tag lemma="Kinnevik" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Kinnevik" src="auto">X@-------------</AM>
+<AM lemma="Kinnevik_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1662-001-p1s4W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1002,7 +1024,10 @@
 <LM>w#w-wsj1662-001-p1s4W31</LM>
 </w.rf>
 <form>Arfeen</form>
-<tag lemma="Arfeen" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Arfeen" src="auto">X@-------------</AM>
+<AM lemma="Arfeen-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1662-001-p1s4W32-Ta">
 <src.rf>tagger-a</src.rf>

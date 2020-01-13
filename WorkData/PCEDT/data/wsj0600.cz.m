@@ -16,7 +16,10 @@
 <LM>w#w-wsj0600-001-p1s0W1</LM>
 </w.rf>
 <form>Spencer</form>
-<tag lemma="Spencer_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Spencer_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Spencer_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0600-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -45,7 +48,10 @@
 <LM>w#w-wsj0600-001-p1s0W4</LM>
 </w.rf>
 <form>Volk</form>
-<tag lemma="Volk" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Volk" src="auto">X@-------------</AM>
+<AM lemma="Volk_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0600-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -390,7 +396,10 @@
 <LM>w#w-wsj0600-001-p1s1W2</LM>
 </w.rf>
 <form>Volk</form>
-<tag lemma="Volk" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Volk" src="auto">X@-------------</AM>
+<AM lemma="Volk_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0600-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -412,6 +421,7 @@
 <tag>
 <AM lemma="Duncan_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Duncan_;S" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Duncan_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0600-001-p1s1W5-Ta">
@@ -423,6 +433,7 @@
 <tag>
 <AM lemma="Dwight_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Dwight_;Y" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Dwight_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0600-001-p1s1W6-Ta">

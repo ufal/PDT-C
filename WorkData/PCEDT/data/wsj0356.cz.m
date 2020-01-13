@@ -27,7 +27,10 @@
 <LM>w#w-wsj0356-001-p1s0W2</LM>
 </w.rf>
 <form>Rally</form>
-<tag lemma="rally" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="rally" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Rally-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0356-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -56,6 +59,7 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0356-001-p1s0W5-Ta">
@@ -67,6 +71,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0356-001-p1s0W6-Ta">
@@ -845,7 +850,10 @@
 <LM>w#w-wsj0356-001-p1s3W11</LM>
 </w.rf>
 <form>Burtem</form>
-<tag lemma="Burt_;S" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Burt_;S" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="Burt_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0356-001-p1s3W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -853,7 +861,10 @@
 <LM>w#w-wsj0356-001-p1s3W12</LM>
 </w.rf>
 <form>Sugarmanem</form>
-<tag lemma="Sugarmanem" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Sugarmanem" src="auto">X@-------------</AM>
+<AM lemma="Sugarman_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0356-001-p1s3W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -934,6 +945,14 @@
 </w.rf>
 <form>Willamem</form>
 <tag lemma="Willamem" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Willaamem</text>
+</LM>
+<LM type="New Form">
+<text>Williamem</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0356-001-p1s3W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1147,7 +1166,7 @@
 <AM lemma="sídlící_^(*3it)" src="auto">AGFS3-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto">AGFS4-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto">AGFS5-----A----</AM>
-<AM lemma="sídlící_^(*3it)" src="auto">AGFS6-----A----</AM>
+<AM lemma="sídlící_^(*3it)" src="auto" selected="1">AGFS6-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto">AGFS7-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto">AGIP1-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto">AGIP4-----A----</AM>
@@ -1176,7 +1195,7 @@
 <form>v</form>
 <tag>
 <AM lemma="v-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="v-1" src="auto">RR--6----------</AM>
+<AM lemma="v-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
@@ -1192,6 +1211,7 @@
 <AM lemma="Louisville_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Louisville_;G" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="Louisville_;G" src="auto">NNIS5-----A----</AM>
+<AM lemma="Louisville_;G" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0356-001-p1s3W40-Ta">
@@ -1374,7 +1394,10 @@
 <LM>w#w-wsj0356-001-p1s3W55</LM>
 </w.rf>
 <form>Rally</form>
-<tag lemma="rally" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="rally" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Rally-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0356-001-p1s3W56-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1403,6 +1426,7 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0356-001-p1s3W58-Ta">
@@ -1717,7 +1741,10 @@
 <LM>w#w-wsj0356-001-p1s4W24</LM>
 </w.rf>
 <form>Sugarmanem</form>
-<tag lemma="Sugarmanem" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Sugarmanem" src="auto">X@-------------</AM>
+<AM lemma="Sugarman_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0356-001-p1s4W25-Ta">
 <src.rf>tagger-a</src.rf>

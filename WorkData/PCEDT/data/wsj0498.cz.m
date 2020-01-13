@@ -27,7 +27,10 @@
 <LM>w#w-wsj0498-001-p1s0W2</LM>
 </w.rf>
 <form>Priam</form>
-<tag lemma="Priam_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Priam_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Priam-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0498-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj0498-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0498-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -388,6 +394,7 @@
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AAMS2----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AAMS4----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS2----1A----</AM>
+<AM lemma="konkurzní_^(týkající_se_úpadku,_soutěže)" src="manual" selected="1">AAIS2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0498-001-p1s1W4-Ta">
@@ -658,7 +665,10 @@
 <LM>w#w-wsj0498-001-p1s2W2</LM>
 </w.rf>
 <form>Priam</form>
-<tag lemma="Priam_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Priam_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Priam-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0498-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1344,7 +1354,10 @@
 <LM>w#w-wsj0498-001-p1s4W12</LM>
 </w.rf>
 <form>Priam</form>
-<tag lemma="Priam_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Priam_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Priam-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0498-001-p1s4W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1727,7 +1740,15 @@
 <LM>w#w-wsj0498-001-p1s5W14</LM>
 </w.rf>
 <form>760megabytový</form>
-<tag lemma="760megabytový" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="760megabytový" src="auto">X@-------------</AM>
+<AM lemma="760megabytový" src="manual" selected="1">AAIS4----1A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0498-001-p1s5W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1737,7 +1758,7 @@
 <form>disk</form>
 <tag>
 <AM lemma="disk" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="disk" src="auto">NNIS4-----A----</AM>
+<AM lemma="disk" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0498-001-p1s5W16-Ta">

@@ -27,7 +27,10 @@
 <LM>w#w-wsj1921-001-p1s0W2</LM>
 </w.rf>
 <form>Beazer</form>
-<tag lemma="Beazer_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Beazer_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Beazer-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1921-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -513,7 +516,7 @@
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS2-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS2-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
@@ -525,7 +528,10 @@
 <LM>w#w-wsj1921-001-p1s0W38</LM>
 </w.rf>
 <form>Koppers</form>
-<tag lemma="Koppers" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Koppers" src="auto">X@-------------</AM>
+<AM lemma="Koppers-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1921-001-p1s0W39-Ta">
 <src.rf>tagger-a</src.rf>
@@ -541,6 +547,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1921-001-p1s0W40-Ta">
@@ -963,7 +970,7 @@
 <AM lemma="očekávání_^(*3at)" src="auto">NNNP5-----A----</AM>
 <AM lemma="očekávání_^(*3at)" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="očekávání_^(*3at)" src="auto">NNNS2-----A----</AM>
-<AM lemma="očekávání_^(*3at)" src="auto">NNNS3-----A----</AM>
+<AM lemma="očekávání_^(*3at)" src="auto" selected="1">NNNS3-----A----</AM>
 <AM lemma="očekávání_^(*3at)" src="auto">NNNS4-----A----</AM>
 <AM lemma="očekávání_^(*3at)" src="auto">NNNS5-----A----</AM>
 <AM lemma="očekávání_^(*3at)" src="auto">NNNS6-----A----</AM>
@@ -1181,7 +1188,7 @@
 <tag>
 <AM lemma="loňský" src="auto" recommended="1">AAFP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAFP6----1A----</AM>
-<AM lemma="loňský" src="auto">AAIP2----1A----</AM>
+<AM lemma="loňský" src="auto" selected="1">AAIP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAIP6----1A----</AM>
 <AM lemma="loňský" src="auto">AAMP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAMP6----1A----</AM>

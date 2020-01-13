@@ -434,7 +434,10 @@
 <LM>w#w-wsj1637-001-p1s0W37</LM>
 </w.rf>
 <form>Statistics</form>
-<tag lemma="Statistics" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Statistics" src="auto">X@-------------</AM>
+<AM lemma="Statistics-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1637-001-p1s0W38-Ta">
 <src.rf>tagger-a</src.rf>
@@ -442,7 +445,10 @@
 <LM>w#w-wsj1637-001-p1s0W38</LM>
 </w.rf>
 <form>Canada</form>
-<tag lemma="Canada_;G_;K_;R_,s_^(^DD**Kanada)" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Canada_;G_;K_;R_,s_^(^DD**Kanada)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Canada-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1637-001-p1s0W39-Ta">
 <src.rf>tagger-a</src.rf>

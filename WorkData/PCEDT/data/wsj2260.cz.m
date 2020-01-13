@@ -27,7 +27,10 @@
 <LM>w#w-wsj2260-001-p1s0W2</LM>
 </w.rf>
 <form>Burmah</form>
-<tag lemma="Burmah" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Burmah" src="auto">X@-------------</AM>
+<AM lemma="Burmah-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2260-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj2260-001-p1s0W3</LM>
 </w.rf>
 <form>Oil</form>
-<tag lemma="Oil" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Oil" src="auto">X@-------------</AM>
+<AM lemma="Oil-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2260-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -327,7 +333,10 @@
 <LM>w#w-wsj2260-001-p1s0W24</LM>
 </w.rf>
 <form>Holdings</form>
-<tag lemma="Holdings" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Holdings" src="auto">X@-------------</AM>
+<AM lemma="Holdings-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2260-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -538,7 +547,10 @@
 <LM>w#w-wsj2260-001-p1s1W6</LM>
 </w.rf>
 <form>Burmah</form>
-<tag lemma="Burmah" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Burmah" src="auto">X@-------------</AM>
+<AM lemma="Burmah_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2260-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -664,7 +676,10 @@
 <LM>w#w-wsj2260-001-p1s1W19</LM>
 </w.rf>
 <form>Burmah</form>
-<tag lemma="Burmah" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Burmah" src="auto">X@-------------</AM>
+<AM lemma="Burmah_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2260-001-p1s1W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -721,7 +736,7 @@
 <AM lemma="malý" src="auto">AAIP4----2A----</AM>
 <AM lemma="malý" src="auto">AAIP5----2A----</AM>
 <AM lemma="malý" src="auto">AAIS1----2A----</AM>
-<AM lemma="malý" src="auto">AAIS4----2A----</AM>
+<AM lemma="malý" src="auto" selected="1">AAIS4----2A----</AM>
 <AM lemma="malý" src="auto">AAIS5----2A----</AM>
 <AM lemma="malý" src="auto">AAMP1----2A----</AM>
 <AM lemma="malý" src="auto">AAMP4----2A----</AM>
@@ -858,7 +873,10 @@
 <LM>w#w-wsj2260-001-p1s2W6</LM>
 </w.rf>
 <form>Burmah</form>
-<tag lemma="Burmah" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Burmah" src="auto">X@-------------</AM>
+<AM lemma="Burmah_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2260-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1272,7 +1290,10 @@
 <LM>w#w-wsj2260-001-p1s3W22</LM>
 </w.rf>
 <form>Calor</form>
-<tag lemma="Calor" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Calor" src="auto">X@-------------</AM>
+<AM lemma="Calor-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2260-001-p1s3W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1280,7 +1301,10 @@
 <LM>w#w-wsj2260-001-p1s3W23</LM>
 </w.rf>
 <form>Group</form>
-<tag lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2260-001-p1s3W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1433,7 +1457,10 @@
 <LM>w#w-wsj2260-001-p1s3W37</LM>
 </w.rf>
 <form>Burmah</form>
-<tag lemma="Burmah" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Burmah" src="auto">X@-------------</AM>
+<AM lemma="Burmah-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2260-001-p1s3W38-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1441,7 +1468,10 @@
 <LM>w#w-wsj2260-001-p1s3W38</LM>
 </w.rf>
 <form>Oil</form>
-<tag lemma="Oil" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Oil" src="auto">X@-------------</AM>
+<AM lemma="Oil-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2260-001-p1s3W39-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1567,7 +1597,10 @@
 <LM>w#w-wsj2260-001-p1s4W9</LM>
 </w.rf>
 <form>Calor</form>
-<tag lemma="Calor" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Calor" src="auto">X@-------------</AM>
+<AM lemma="Calor_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2260-001-p1s4W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1596,7 +1629,10 @@
 <LM>w#w-wsj2260-001-p1s5W2</LM>
 </w.rf>
 <form>Burmah</form>
-<tag lemma="Burmah" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Burmah" src="auto">X@-------------</AM>
+<AM lemma="Burmah_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2260-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1733,7 +1769,7 @@
 <form>Castrol</form>
 <tag>
 <AM lemma="Castrol_;K" src="auto" recommended="1">NNIXX-----A----</AM>
-<AM lemma="Castrol_;R" src="auto">NNIS1-----A----</AM>
+<AM lemma="Castrol_;R" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Castrol_;R" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -1844,7 +1880,7 @@
 <form>vzestup</form>
 <tag>
 <AM lemma="vzestup" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="vzestup" src="auto">NNIS4-----A----</AM>
+<AM lemma="vzestup" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2260-001-p1s5W19-Ta">

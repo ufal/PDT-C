@@ -47,7 +47,10 @@
 <LM>w#w-wsj1509-001-p1s0W3</LM>
 </w.rf>
 <form>Messerschmitt</form>
-<tag lemma="Messerschmitt-1_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Messerschmitt-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Messerschmitt-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1509-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -63,7 +66,10 @@
 <LM>w#w-wsj1509-001-p1s0W5</LM>
 </w.rf>
 <form>Boelkow</form>
-<tag lemma="Boelkow" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Boelkow" src="auto">X@-------------</AM>
+<AM lemma="Boelkow-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1509-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -79,7 +85,10 @@
 <LM>w#w-wsj1509-001-p1s0W7</LM>
 </w.rf>
 <form>Blohm</form>
-<tag lemma="Blohm_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Blohm_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Blohm-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1509-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -111,7 +120,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="m-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="m-88_:B" src="auto" selected="1">NNXXX-----A----</AM>
 <AM lemma="metr" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="metrový" src="auto">AAXXX----1A---8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
@@ -305,6 +314,7 @@
 <AM lemma="Daimler_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Daimler_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="Daimler_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Daimler-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1509-001-p1s0W25-Ta">
@@ -324,6 +334,7 @@
 <tag>
 <AM lemma="Benz-1_;K_;R_^(vozidlo)" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="Benz_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Benz-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1509-001-p1s0W27-Ta">
@@ -896,6 +907,7 @@
 <AM lemma="Daimler_;K" src="auto">NNIS1-----A----</AM>
 <AM lemma="Daimler_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="Daimler_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Daimler-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1509-001-p1s1W37-Ta">
@@ -915,6 +927,7 @@
 <tag>
 <AM lemma="Benz-1_;K_;R_^(vozidlo)" src="auto">NNIXX-----A----</AM>
 <AM lemma="Benz_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Benz-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1509-001-p1s1W39-Ta">
@@ -966,7 +979,7 @@
 <AM lemma="dohoda" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="dohoda" src="auto">NNFP4-----A----</AM>
 <AM lemma="dohoda" src="auto">NNFP5-----A----</AM>
-<AM lemma="dohoda" src="auto">NNFS2-----A----</AM>
+<AM lemma="dohoda" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1509-001-p1s2W2-Ta">
@@ -1122,7 +1135,7 @@
 <AM lemma="který" src="auto">P4FS2----------</AM>
 <AM lemma="který" src="auto">P4FS3----------</AM>
 <AM lemma="který" src="auto">P4FS6----------</AM>
-<AM lemma="který" src="auto">P4IP1----------</AM>
+<AM lemma="který" src="auto" selected="1">P4IP1----------</AM>
 <AM lemma="který" src="auto">P4NP1---------6</AM>
 <AM lemma="který" src="auto">P4NP4---------6</AM>
 <AM lemma="který" src="auto">P4NS1----------</AM>
@@ -1237,7 +1250,10 @@
 <LM>w#w-wsj1509-001-p1s2W22</LM>
 </w.rf>
 <form>German</form>
-<tag lemma="German_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="German_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="German-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1509-001-p1s2W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1250,6 +1266,7 @@
 <AM lemma="Airbus_;R" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="airbus_;R" src="auto">NNIS1-----A----</AM>
 <AM lemma="airbus_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Airbus-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1509-001-p1s2W24-Ta">
@@ -1633,7 +1650,10 @@
 <LM>w#w-wsj1509-001-p1s3W14</LM>
 </w.rf>
 <form>MBB</form>
-<tag lemma="MBB" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="MBB" src="auto">X@-------------</AM>
+<AM lemma="MBB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1509-001-p1s3W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1756,6 +1776,7 @@
 <AM lemma="Daimler_;K" src="auto">NNIS1-----A----</AM>
 <AM lemma="Daimler_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="Daimler_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Daimler-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1509-001-p1s3W28-Ta">
@@ -1775,6 +1796,7 @@
 <tag>
 <AM lemma="Benz-1_;K_;R_^(vozidlo)" src="auto">NNIXX-----A----</AM>
 <AM lemma="Benz_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Benz-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1509-001-p1s3W30-Ta">

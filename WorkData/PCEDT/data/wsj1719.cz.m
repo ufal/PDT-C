@@ -27,7 +27,10 @@
 <LM>w#w-wsj1719-001-p1s0W2</LM>
 </w.rf>
 <form>Amdura</form>
-<tag lemma="Amdura" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Amdura" src="auto">X@-------------</AM>
+<AM lemma="Amdura-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1719-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1719-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1719-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -169,6 +175,7 @@
 <tag>
 <AM lemma="Continental_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Continental_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Continental-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1719-001-p1s0W15-Ta">
@@ -180,7 +187,7 @@
 <tag>
 <AM lemma="Bank_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="auto">NNFXX-----A----</AM>
-<AM lemma="Bank-77" src="auto">F%-------------</AM>
+<AM lemma="Bank-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="banka" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="bank" src="auto">NNIS1-----A----</AM>
 <AM lemma="bank" src="auto">NNIS4-----A----</AM>
@@ -407,7 +414,10 @@
 <LM>w#w-wsj1719-001-p1s0W33</LM>
 </w.rf>
 <form>Amdura</form>
-<tag lemma="Amdura" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Amdura" src="auto">X@-------------</AM>
+<AM lemma="Amdura_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1719-001-p1s0W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -602,7 +612,10 @@
 <LM>w#w-wsj1719-001-p1s1W2</LM>
 </w.rf>
 <form>Amdura</form>
-<tag lemma="Amdura" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Amdura" src="auto">X@-------------</AM>
+<AM lemma="Amdura_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1719-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -721,7 +734,7 @@
 <form>dividendy</form>
 <tag>
 <AM lemma="dividenda" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="dividenda" src="auto">NNFP4-----A----</AM>
+<AM lemma="dividenda" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="dividenda" src="auto">NNFP5-----A----</AM>
 <AM lemma="dividenda" src="auto">NNFS2-----A----</AM>
 </tag>
@@ -1165,7 +1178,10 @@
 <LM>w#w-wsj1719-001-p1s2W8</LM>
 </w.rf>
 <form>Amdura</form>
-<tag lemma="Amdura" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Amdura" src="auto">X@-------------</AM>
+<AM lemma="Amdura_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1719-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1542,7 +1558,10 @@
 <LM>w#w-wsj1719-001-p1s3W5</LM>
 </w.rf>
 <form>Amdura</form>
-<tag lemma="Amdura" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Amdura" src="auto">X@-------------</AM>
+<AM lemma="Amdura_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1719-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1647,7 +1666,10 @@
 <LM>w#w-wsj1719-001-p1s3W13</LM>
 </w.rf>
 <form>CoastAmerica</form>
-<tag lemma="CoastAmerica" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="CoastAmerica" src="auto">X@-------------</AM>
+<AM lemma="CoastAmerica_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1719-001-p1s3W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1657,7 +1679,7 @@
 <form>společností</form>
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS7-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1719-001-p1s3W15-Ta">
@@ -1666,7 +1688,10 @@
 <LM>w#w-wsj1719-001-p1s3W15</LM>
 </w.rf>
 <form>Amdura</form>
-<tag lemma="Amdura" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Amdura" src="auto">X@-------------</AM>
+<AM lemma="Amdura_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1719-001-p1s3W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1770,7 +1795,7 @@
 <AM lemma="příští" src="auto">AAIP4----1A----</AM>
 <AM lemma="příští" src="auto">AAIP5----1A----</AM>
 <AM lemma="příští" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="příští" src="auto">AAIS4----1A----</AM>
+<AM lemma="příští" src="auto" selected="1">AAIS4----1A----</AM>
 <AM lemma="příští" src="auto">AAIS5----1A----</AM>
 <AM lemma="příští" src="auto">AAMP1----1A----</AM>
 <AM lemma="příští" src="auto">AAMP4----1A----</AM>
@@ -1793,7 +1818,7 @@
 <form>pátek</form>
 <tag>
 <AM lemma="pátek" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="pátek" src="auto">NNIS4-----A----</AM>
+<AM lemma="pátek" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1719-001-p1s3W26-Ta">
@@ -2014,7 +2039,10 @@
 <LM>w#w-wsj1719-001-p1s4W12</LM>
 </w.rf>
 <form>Amdura</form>
-<tag lemma="Amdura" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Amdura" src="auto">X@-------------</AM>
+<AM lemma="Amdura_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1719-001-p1s4W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2172,7 +2200,7 @@
 <form>dvě</form>
 <tag>
 <AM lemma="dva`2" src="auto" recommended="1">ClHP1----------</AM>
-<AM lemma="dva`2" src="auto">ClHP4----------</AM>
+<AM lemma="dva`2" src="auto" selected="1">ClHP4----------</AM>
 <AM lemma="dva`2" src="auto">ClHP5----------</AM>
 </tag>
 </m>
@@ -2184,7 +2212,7 @@
 <form>jednotky</form>
 <tag>
 <AM lemma="jednotka" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="jednotka" src="auto">NNFP4-----A----</AM>
+<AM lemma="jednotka" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="jednotka" src="auto">NNFP5-----A----</AM>
 <AM lemma="jednotka" src="auto">NNFS2-----A----</AM>
 </tag>
@@ -2355,7 +2383,10 @@
 <LM>w#w-wsj1719-001-p1s6W2</LM>
 </w.rf>
 <form>Amdura</form>
-<tag lemma="Amdura" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Amdura" src="auto">X@-------------</AM>
+<AM lemma="Amdura_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1719-001-p1s6W3-Ta">
 <src.rf>tagger-a</src.rf>

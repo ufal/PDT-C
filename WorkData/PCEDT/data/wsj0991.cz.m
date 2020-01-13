@@ -43,6 +43,7 @@
 <AM lemma="Celsius" src="auto" recommended="1">NNMXX-----A---8</AM>
 <AM lemma="c-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="c-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="C-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0991-001-p1s0W4-Ta">
@@ -184,6 +185,7 @@
 <tag>
 <AM lemma="Total_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Total_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Total-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0991-001-p1s0W19-Ta">
@@ -192,7 +194,10 @@
 <LM>w#w-wsj0991-001-p1s0W19</LM>
 </w.rf>
 <form>Assets</form>
-<tag lemma="Assets" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Assets" src="auto">X@-------------</AM>
+<AM lemma="Assets-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0991-001-p1s0W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -200,7 +205,10 @@
 <LM>w#w-wsj0991-001-p1s0W20</LM>
 </w.rf>
 <form>Protection</form>
-<tag lemma="Protection" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Protection" src="auto">X@-------------</AM>
+<AM lemma="Protection-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0991-001-p1s0W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -211,6 +219,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0991-001-p1s0W22-Ta">
@@ -1198,6 +1207,7 @@
 <tag>
 <AM lemma="Total_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Total_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Total-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0991-001-p1s4W3-Ta">
@@ -1206,7 +1216,10 @@
 <LM>w#w-wsj0991-001-p1s4W3</LM>
 </w.rf>
 <form>Assets</form>
-<tag lemma="Assets" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Assets" src="auto">X@-------------</AM>
+<AM lemma="Assets-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0991-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>

@@ -81,7 +81,10 @@
 <LM>w#w-wsj1180-001-p1s0W5</LM>
 </w.rf>
 <form>OPPENHEIMER</form>
-<tag lemma="Oppenheimer_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Oppenheimer_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="OPPENHEIMER-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1180-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -89,7 +92,10 @@
 <LM>w#w-wsj1180-001-p1s0W6</LM>
 </w.rf>
 <form>CAPITAL</form>
-<tag lemma="CAPITAL" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="CAPITAL" src="auto">X@-------------</AM>
+<AM lemma="CAPITAL-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1180-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -977,7 +983,10 @@
 <LM>w#w-wsj1180-001-p1s3W19</LM>
 </w.rf>
 <form>Oppenheimer</form>
-<tag lemma="Oppenheimer_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Oppenheimer_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Oppenheimer-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1180-001-p1s3W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1001,6 +1010,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1180-001-p1s3W22-Ta">
@@ -1115,7 +1125,10 @@
 <LM>w#w-wsj1180-001-p1s5W2</LM>
 </w.rf>
 <form>Oppenheimer</form>
-<tag lemma="Oppenheimer_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Oppenheimer_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Oppenheimer-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1180-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1123,7 +1136,10 @@
 <LM>w#w-wsj1180-001-p1s5W3</LM>
 </w.rf>
 <form>Capital</form>
-<tag lemma="Capital" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Capital" src="auto">X@-------------</AM>
+<AM lemma="Capital-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1180-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1448,7 +1464,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>

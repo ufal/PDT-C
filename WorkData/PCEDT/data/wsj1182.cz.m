@@ -27,7 +27,10 @@
 <LM>w#w-wsj1182-001-p1s0W2</LM>
 </w.rf>
 <form>Knight</form>
-<tag lemma="Knight_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Knight_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Knight-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1182-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,7 +46,10 @@
 <LM>w#w-wsj1182-001-p1s0W4</LM>
 </w.rf>
 <form>Ridder</form>
-<tag lemma="Ridder" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ridder" src="auto">X@-------------</AM>
+<AM lemma="Ridder-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1182-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -54,6 +60,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1182-001-p1s0W6-Ta">
@@ -216,7 +223,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -941,7 +948,10 @@
 <LM>w#w-wsj1182-001-p1s2W22</LM>
 </w.rf>
 <form>Oklahoma</form>
-<tag lemma="Oklahoma_;G" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Oklahoma_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Oklahoma-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1182-001-p1s2W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -963,6 +973,7 @@
 <AM lemma="cit" src="auto">NNIP5-----A----</AM>
 <AM lemma="cit" src="auto">NNIP7-----A----</AM>
 <AM lemma="city_,t" src="auto">NNXXX-----A----</AM>
+<AM lemma="City-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1182-001-p1s2W24-Ta">
@@ -1007,6 +1018,7 @@
 <tag>
 <AM lemma="Flint_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="flinta" src="auto">NNFP2-----A----</AM>
+<AM lemma="Flint-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1182-001-p1s2W28-Ta">
@@ -1303,7 +1315,10 @@
 <LM>w#w-wsj1182-001-p1s4W9</LM>
 </w.rf>
 <form>Knight</form>
-<tag lemma="Knight_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Knight_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Knight-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1182-001-p1s4W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1319,7 +1334,10 @@
 <LM>w#w-wsj1182-001-p1s4W11</LM>
 </w.rf>
 <form>Ridder</form>
-<tag lemma="Ridder" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ridder" src="auto">X@-------------</AM>
+<AM lemma="Ridder-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1182-001-p1s4W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1445,7 +1463,7 @@
 </w.rf>
 <form>navzdory</form>
 <tag>
-<AM lemma="navzdory-1" src="auto">RR--3----------</AM>
+<AM lemma="navzdory-1" src="auto" selected="1">RR--3----------</AM>
 <AM lemma="navzdory-2" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
@@ -2223,7 +2241,10 @@
 <LM>w#w-wsj1182-001-p1s7W11</LM>
 </w.rf>
 <form>Knight</form>
-<tag lemma="Knight_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Knight_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Knight-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1182-001-p1s7W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2231,7 +2252,10 @@
 <LM>w#w-wsj1182-001-p1s7W12</LM>
 </w.rf>
 <form>Ridder</form>
-<tag lemma="Ridder" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ridder" src="auto">X@-------------</AM>
+<AM lemma="Ridder-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1182-001-p1s7W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2241,7 +2265,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>

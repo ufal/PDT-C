@@ -189,7 +189,7 @@
 </w.rf>
 <form>povinnost</form>
 <tag>
-<AM lemma="povinnost_^(*3ý)" src="auto">NNFS1-----A----</AM>
+<AM lemma="povinnost_^(*3ý)" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="povinnost_^(*3ý)" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
@@ -365,6 +365,7 @@
 <AM lemma="Mao_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Mao_;S" src="auto">NNMP7-----A----</AM>
 <AM lemma="May_;E_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="May_;E_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2215-001-p1s2W3-Ta">
@@ -373,7 +374,10 @@
 <LM>w#w-wsj2215-001-p1s2W3</LM>
 </w.rf>
 <form>Richstone</form>
-<tag lemma="Richstone" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Richstone" src="auto">X@-------------</AM>
+<AM lemma="Richstone_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2215-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -391,7 +395,10 @@
 <LM>w#w-wsj2215-001-p1s3W1</LM>
 </w.rf>
 <form>Telepaličatý</form>
-<tag lemma="Telepaličatý" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Telepaličatý" src="auto">X@-------------</AM>
+<AM lemma="telepaličatý" src="manual" selected="1">AAMS1----1A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-wsj2215-001-p1s4">

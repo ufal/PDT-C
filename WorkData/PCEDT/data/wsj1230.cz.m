@@ -20,6 +20,7 @@
 <AM lemma="Carlos-1_;Y" src="auto">NNMS1-----A----</AM>
 <AM lemma="Carlos-2_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Carlos-2_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Carlos-1_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1230-001-p1s0W2-Ta">
@@ -31,7 +32,7 @@
 <tag>
 <AM lemma="A-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="A-77_^(př._a_la)" src="auto">F%-------------</AM>
-<AM lemma="A-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="A-88_:B" src="auto" selected="1">NNXXX-----A----</AM>
 <AM lemma="ampér" src="auto">NNIXX-----A---8</AM>
 <AM lemma="a-1" src="auto">J^-------------</AM>
 <AM lemma="a-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
@@ -54,7 +55,10 @@
 <LM>w#w-wsj1230-001-p1s0W4</LM>
 </w.rf>
 <form>Salvagni</form>
-<tag lemma="Salvagni" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Salvagni" src="auto">X@-------------</AM>
+<AM lemma="Salvagni_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1230-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -300,7 +304,10 @@
 <LM>w#w-wsj1230-001-p1s1W1</LM>
 </w.rf>
 <form>Salvagni</form>
-<tag lemma="Salvagni" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Salvagni" src="auto">X@-------------</AM>
+<AM lemma="Salvagni_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1230-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -392,6 +399,7 @@
 <AM lemma="Celsius" src="auto">NNMXX-----A---8</AM>
 <AM lemma="c-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="c-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="C-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1230-001-p1s1W11-Ta">
@@ -410,7 +418,7 @@
 <form>Griffina</form>
 <tag>
 <AM lemma="Griffin-1_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Griffin-1_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Griffin-1_;S" src="auto" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1230-001-p1s1W13-Ta">
@@ -619,7 +627,10 @@
 <LM>w#w-wsj1230-001-p1s2W2</LM>
 </w.rf>
 <form>Upjohn</form>
-<tag lemma="Upjohn_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Upjohn_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Upjohn-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1230-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>

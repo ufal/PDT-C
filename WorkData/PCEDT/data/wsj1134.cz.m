@@ -16,7 +16,10 @@
 <LM>w#w-wsj1134-001-p1s0W1</LM>
 </w.rf>
 <form>Harris</form>
-<tag lemma="Harris_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Harris_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Harris_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1134-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -24,7 +27,10 @@
 <LM>w#w-wsj1134-001-p1s0W2</LM>
 </w.rf>
 <form>Ravine</form>
-<tag lemma="Ravine" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ravine" src="auto">X@-------------</AM>
+<AM lemma="Ravine_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1134-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -256,7 +262,7 @@
 <AM lemma="zařízený_^(*4dit)" src="auto">AAMP1----1A----</AM>
 <AM lemma="zařízený_^(*4dit)" src="auto">AAMP5----1A----</AM>
 <AM lemma="zařízení_^(*4dit)" src="auto">NNNP1-----A----</AM>
-<AM lemma="zařízení_^(*4dit)" src="auto">NNNP2-----A----</AM>
+<AM lemma="zařízení_^(*4dit)" src="auto" selected="1">NNNP2-----A----</AM>
 <AM lemma="zařízení_^(*4dit)" src="auto">NNNP4-----A----</AM>
 <AM lemma="zařízení_^(*4dit)" src="auto">NNNP5-----A----</AM>
 <AM lemma="zařízení_^(*4dit)" src="auto" recommended="1">NNNS1-----A----</AM>
@@ -325,7 +331,10 @@
 <LM>w#w-wsj1134-001-p1s1W1</LM>
 </w.rf>
 <form>Ravine</form>
-<tag lemma="Ravine" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ravine" src="auto">X@-------------</AM>
+<AM lemma="Ravine_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1134-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -379,7 +388,7 @@
 <form>Mansfielda</form>
 <tag>
 <AM lemma="Mansfield_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Mansfield_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Mansfield_;S" src="auto" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1134-001-p1s1W7-Ta">

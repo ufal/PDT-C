@@ -94,6 +94,11 @@
 <AM lemma="37letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="37letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1072-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -304,7 +309,7 @@
 <tag>
 <AM lemma="taka-1_;L" src="auto">NNFP2-----A----</AM>
 <AM lemma="tak-1" src="auto">TT-------------</AM>
-<AM lemma="tak-2" src="auto">J^-------------</AM>
+<AM lemma="tak-2" src="auto" selected="1">J^-------------</AM>
 <AM lemma="tak-3" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
@@ -320,6 +325,11 @@
 <AM lemma="63letý" src="auto" recommended="1">AAMS4----1A----</AM>
 <AM lemma="63letý" src="auto">AANS2----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1072-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -364,7 +374,10 @@
 <LM>w#w-wsj1072-001-p1s0W28</LM>
 </w.rf>
 <form>Hixsona</form>
-<tag lemma="Hixsona" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Hixsona" src="auto">X@-------------</AM>
+<AM lemma="Hixson_;S" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1072-001-p1s0W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -382,7 +395,10 @@
 <LM>w#w-wsj1072-001-p1s1W1</LM>
 </w.rf>
 <form>Hixson</form>
-<tag lemma="Hixson" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Hixson" src="auto">X@-------------</AM>
+<AM lemma="Hixson_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1072-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -488,7 +504,7 @@
 </w.rf>
 <form>lednu</form>
 <tag>
-<AM lemma="leden" src="auto">NNIS3-----A----</AM>
+<AM lemma="leden" src="auto" selected="1">NNIS3-----A----</AM>
 <AM lemma="leden" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
 </m>

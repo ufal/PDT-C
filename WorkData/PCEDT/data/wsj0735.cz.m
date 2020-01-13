@@ -113,7 +113,10 @@
 <LM>w#w-wsj0735-001-p1s0W6</LM>
 </w.rf>
 <form>FASB</form>
-<tag lemma="FASB" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="FASB" src="auto">X@-------------</AM>
+<AM lemma="FASB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0735-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -312,7 +315,7 @@
 <LM>w#w-wsj0735-001-p1s1W1</LM>
 </w.rf>
 <form>Ovšem</form>
-<tag lemma="ovšem" src="auto" recommended="1">TT-------------</tag>
+<tag lemma="ovšem" src="auto" recommended="1" selected="1">TT-------------</tag>
 </m>
 <m id="m-wsj0735-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -612,7 +615,7 @@
 <AM lemma="požadující_^(*5ovat)" src="auto">AGFS1-----A----</AM>
 <AM lemma="požadující_^(*5ovat)" src="auto">AGFS2-----A----</AM>
 <AM lemma="požadující_^(*5ovat)" src="auto">AGFS3-----A----</AM>
-<AM lemma="požadující_^(*5ovat)" src="auto">AGFS4-----A----</AM>
+<AM lemma="požadující_^(*5ovat)" src="auto" selected="1">AGFS4-----A----</AM>
 <AM lemma="požadující_^(*5ovat)" src="auto">AGFS5-----A----</AM>
 <AM lemma="požadující_^(*5ovat)" src="auto">AGFS6-----A----</AM>
 <AM lemma="požadující_^(*5ovat)" src="auto">AGFS7-----A----</AM>
@@ -972,7 +975,7 @@
 </w.rf>
 <form>náklady</form>
 <tag>
-<AM lemma="náklad" src="auto">NNIP1-----A----</AM>
+<AM lemma="náklad" src="auto" selected="1">NNIP1-----A----</AM>
 <AM lemma="náklad" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="náklad" src="auto">NNIP5-----A----</AM>
 <AM lemma="náklad" src="auto">NNIP7-----A----</AM>
@@ -1043,7 +1046,7 @@
 <AM lemma="vyvázat" src="auto">VB-P---3P-NAP-1</AM>
 <AM lemma="vyvážet_^(zboží_přes_hranice)" src="auto">VB-P---3P-NAI-1</AM>
 <AM lemma="vyvážet_^(zboží_přes_hranice)" src="auto">VB-S---3P-NAI--</AM>
-<AM lemma="vyvážit_^(do_rovnováhy)" src="auto">VB-P---3P-NAP--</AM>
+<AM lemma="vyvážit_^(do_rovnováhy)" src="auto" selected="1">VB-P---3P-NAP--</AM>
 <AM lemma="vyvážit_^(do_rovnováhy)" src="auto" recommended="1">VB-S---3P-NAP--</AM>
 </tag>
 </m>
@@ -1267,7 +1270,7 @@
 <AM lemma="odrážející_^(*4t)" src="auto">AGFS6-----A----</AM>
 <AM lemma="odrážející_^(*4t)" src="auto">AGFS7-----A----</AM>
 <AM lemma="odrážející_^(*4t)" src="auto">AGIP1-----A----</AM>
-<AM lemma="odrážející_^(*4t)" src="auto">AGIP4-----A----</AM>
+<AM lemma="odrážející_^(*4t)" src="auto" selected="1">AGIP4-----A----</AM>
 <AM lemma="odrážející_^(*4t)" src="auto">AGIP5-----A----</AM>
 <AM lemma="odrážející_^(*4t)" src="auto">AGIS1-----A----</AM>
 <AM lemma="odrážející_^(*4t)" src="auto" recommended="1">AGIS4-----A----</AM>
@@ -1665,7 +1668,10 @@
 <LM>w#w-wsj0735-001-p1s5W2</LM>
 </w.rf>
 <form>FASB</form>
-<tag lemma="FASB" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="FASB" src="auto">X@-------------</AM>
+<AM lemma="FASB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0735-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2196,7 +2202,7 @@
 </w.rf>
 <form>Společnosti</form>
 <tag>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFP1-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFP1-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
@@ -3215,7 +3221,10 @@
 <LM>w#w-wsj0735-001-p1s8W3</LM>
 </w.rf>
 <form>FASB</form>
-<tag lemma="FASB" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="FASB" src="auto">X@-------------</AM>
+<AM lemma="FASB-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0735-001-p1s8W4-Ta">
 <src.rf>tagger-a</src.rf>

@@ -31,6 +31,7 @@
 <AM lemma="Hastings_;S" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Hastings_;S" src="auto">NNIS4-----A----</AM>
 <AM lemma="Hastings_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="HASTINGS-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1513-001-p1s0W3-Ta">
@@ -39,7 +40,10 @@
 <LM>w#w-wsj1513-001-p1s0W3</LM>
 </w.rf>
 <form>MANUFACTURING</form>
-<tag lemma="MANUFACTURING" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="MANUFACTURING" src="auto">X@-------------</AM>
+<AM lemma="MANUFACTURING-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1513-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -55,6 +59,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1513-001-p1s0W5-Ta">
@@ -410,7 +415,7 @@
 <form>které</form>
 <tag>
 <AM lemma="který" src="auto" recommended="1">P4FP1----------</AM>
-<AM lemma="který" src="auto">P4FP4----------</AM>
+<AM lemma="který" src="auto" selected="1">P4FP4----------</AM>
 <AM lemma="který" src="auto">P4FS2----------</AM>
 <AM lemma="který" src="auto">P4FS3----------</AM>
 <AM lemma="který" src="auto">P4FS6----------</AM>
@@ -789,6 +794,7 @@
 <AM lemma="Hastings_;S" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Hastings_;S" src="auto">NNIS4-----A----</AM>
 <AM lemma="Hastings_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Hastings-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1513-001-p1s2W3-Ta">

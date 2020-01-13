@@ -49,7 +49,10 @@
 <LM>w#w-wsj0454-001-p1s1W2</LM>
 </w.rf>
 <form>Viacom</form>
-<tag lemma="Viacom" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Viacom" src="auto">X@-------------</AM>
+<AM lemma="Viacom-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0454-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -60,6 +63,7 @@
 <tag>
 <AM lemma="broadcasting_,t_^(vysílání)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="broadcasting_,t_^(vysílání)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Broadcasting-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0454-001-p1s1W4-Ta">
@@ -153,6 +157,7 @@
 <tag>
 <AM lemma="Pacifik_;G_,t" src="auto">NNIS1-----A---1</AM>
 <AM lemma="Pacifik_;G_,t" src="auto" recommended="1">NNIS4-----A---1</AM>
+<AM lemma="Pacific-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0454-001-p1s1W13-Ta">
@@ -162,9 +167,10 @@
 </w.rf>
 <form>FM</form>
 <tag>
-<AM lemma="FM-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="FM-88_:B" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 <AM lemma="FM_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="fermi_:B_,s_^(starší_fyzikální_jednotka)" src="auto">NNIXX-----A---8</AM>
+<AM lemma="FM-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0454-001-p1s1W14-Ta">
@@ -210,7 +216,10 @@
 <LM>w#w-wsj0454-001-p1s1W17</LM>
 </w.rf>
 <form>KOFY</form>
-<tag lemma="KOFY" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="KOFY" src="auto">X@-------------</AM>
+<AM lemma="KOFY-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0454-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -227,7 +236,7 @@
 </w.rf>
 <form>AM</form>
 <tag>
-<AM lemma="AM-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="AM-88_:B" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 <AM lemma="Am-77_,t" src="auto">F%-------------</AM>
 <AM lemma="americium_:B_;H" src="auto">NNNXX-----A---8</AM>
 <AM lemma="am-77" src="auto">F%-------------</AM>
@@ -262,7 +271,10 @@
 <LM>w#w-wsj0454-001-p1s1W22</LM>
 </w.rf>
 <form>KOFY</form>
-<tag lemma="KOFY" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="KOFY" src="auto">X@-------------</AM>
+<AM lemma="KOFY-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0454-001-p1s1W23-Ta">
 <src.rf>tagger-a</src.rf>

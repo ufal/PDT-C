@@ -454,6 +454,7 @@
 <AM lemma="Gary_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Gary_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Gary_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Gary_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2065-001-p1s1W9-Ta">
@@ -938,7 +939,7 @@
 <form>jisté</form>
 <tag>
 <AM lemma="jistý" src="auto">AAFP1----1A----</AM>
-<AM lemma="jistý" src="auto">AAFP4----1A----</AM>
+<AM lemma="jistý" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="jistý" src="auto">AAFP5----1A----</AM>
 <AM lemma="jistý" src="auto" recommended="1">AAFS2----1A----</AM>
 <AM lemma="jistý" src="auto">AAFS3----1A----</AM>
@@ -963,7 +964,7 @@
 <form>obchodní</form>
 <tag>
 <AM lemma="obchodní" src="auto">AAFP1----1A----</AM>
-<AM lemma="obchodní" src="auto">AAFP4----1A----</AM>
+<AM lemma="obchodní" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="obchodní" src="auto">AAFP5----1A----</AM>
 <AM lemma="obchodní" src="auto">AAFS1----1A----</AM>
 <AM lemma="obchodní" src="auto" recommended="1">AAFS2----1A----</AM>
@@ -999,7 +1000,7 @@
 <form>objednávky</form>
 <tag>
 <AM lemma="objednávka" src="auto">NNFP1-----A----</AM>
-<AM lemma="objednávka" src="auto">NNFP4-----A----</AM>
+<AM lemma="objednávka" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="objednávka" src="auto">NNFP5-----A----</AM>
 <AM lemma="objednávka" src="auto" recommended="1">NNFS2-----A----</AM>
 </tag>
@@ -1804,7 +1805,7 @@
 </w.rf>
 <form>ani</form>
 <tag>
-<AM lemma="ani-1" src="auto">J^-------------</AM>
+<AM lemma="ani-1" src="auto" selected="1">J^-------------</AM>
 <AM lemma="ani-2" src="auto" recommended="1">TT-------------</AM>
 </tag>
 </m>

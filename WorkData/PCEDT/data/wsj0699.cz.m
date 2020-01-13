@@ -125,6 +125,7 @@
 <tag>
 <AM lemma="Eurostat_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Eurostat_;Y" src="auto">NNIS4-----A----</AM>
+<AM lemma="Eurostat_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0699-001-p1s0W10-Ta">
@@ -142,7 +143,7 @@
 </w.rf>
 <form>index</form>
 <tag>
-<AM lemma="index" src="auto">NNIS1-----A----</AM>
+<AM lemma="index" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="index" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -469,6 +470,7 @@
 <tag>
 <AM lemma="Eurostat_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Eurostat_;Y" src="auto">NNIS4-----A----</AM>
+<AM lemma="Eurostat_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0699-001-p1s1W3-Ta">
@@ -585,7 +587,7 @@
 <AM lemma="vysoký" src="auto">AAIP1----3A----</AM>
 <AM lemma="vysoký" src="auto">AAIP4----3A----</AM>
 <AM lemma="vysoký" src="auto">AAIP5----3A----</AM>
-<AM lemma="vysoký" src="auto">AAIS1----3A----</AM>
+<AM lemma="vysoký" src="auto" selected="1">AAIS1----3A----</AM>
 <AM lemma="vysoký" src="auto">AAIS4----3A----</AM>
 <AM lemma="vysoký" src="auto">AAIS5----3A----</AM>
 <AM lemma="vysoký" src="auto">AAMP1----3A----</AM>

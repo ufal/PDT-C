@@ -27,7 +27,10 @@
 <LM>w#w-wsj2254-001-p1s0W2</LM>
 </w.rf>
 <form>BSN</form>
-<tag lemma="BSN" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="BSN" src="auto">X@-------------</AM>
+<AM lemma="BSN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2254-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -238,7 +241,10 @@
 <LM>w#w-wsj2254-001-p1s0W18</LM>
 </w.rf>
 <form>Birkel</form>
-<tag lemma="Birkel" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Birkel" src="auto">X@-------------</AM>
+<AM lemma="Birkel-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2254-001-p1s0W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -270,7 +276,7 @@
 <form>m</form>
 <tag>
 <AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="m-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="m-88_:B" src="auto" selected="1">NNXXX-----A----</AM>
 <AM lemma="metr" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="metrový" src="auto">AAXXX----1A---8</AM>
 <AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
@@ -345,7 +351,7 @@
 <form>západoněmeckého</form>
 <tag>
 <AM lemma="západoněmecký" src="auto">AAIS2----1A----</AM>
-<AM lemma="západoněmecký" src="auto">AAMS2----1A----</AM>
+<AM lemma="západoněmecký" src="auto" selected="1">AAMS2----1A----</AM>
 <AM lemma="západoněmecký" src="auto" recommended="1">AAMS4----1A----</AM>
 <AM lemma="západoněmecký" src="auto">AANS2----1A----</AM>
 </tag>
@@ -359,7 +365,7 @@
 <tag>
 <AM lemma="výrobce" src="auto">NNMP4-----A----</AM>
 <AM lemma="výrobce" src="auto">NNMS1-----A----</AM>
-<AM lemma="výrobce" src="auto">NNMS2-----A----</AM>
+<AM lemma="výrobce" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="výrobce" src="auto" recommended="1">NNMS4-----A----</AM>
 <AM lemma="výrobce" src="auto">NNMS5-----A----</AM>
 </tag>
@@ -539,7 +545,10 @@
 <LM>w#w-wsj2254-001-p1s2W9</LM>
 </w.rf>
 <form>BSN</form>
-<tag lemma="BSN" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="BSN" src="auto">X@-------------</AM>
+<AM lemma="BSN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2254-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -690,7 +699,10 @@
 <LM>w#w-wsj2254-001-p1s3W2</LM>
 </w.rf>
 <form>BSN</form>
-<tag lemma="BSN" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="BSN" src="auto">X@-------------</AM>
+<AM lemma="BSN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2254-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -777,7 +789,11 @@
 <LM>w#w-wsj2254-001-p1s3W9</LM>
 </w.rf>
 <form>Birkel</form>
-<tag lemma="Birkel" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Birkel" src="auto">X@-------------</AM>
+<AM lemma="Birkel-77" src="manual">F%-------------</AM>
+<AM lemma="Birkel_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2254-001-p1s3W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1164,7 +1180,10 @@
 <LM>w#w-wsj2254-001-p1s4W30</LM>
 </w.rf>
 <form>BSN</form>
-<tag lemma="BSN" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="BSN" src="auto">X@-------------</AM>
+<AM lemma="BSN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2254-001-p1s4W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1310,7 +1329,10 @@
 <LM>w#w-wsj2254-001-p1s5W12</LM>
 </w.rf>
 <form>BSN</form>
-<tag lemma="BSN" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="BSN" src="auto">X@-------------</AM>
+<AM lemma="BSN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2254-001-p1s5W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1336,7 +1358,10 @@
 <LM>w#w-wsj2254-001-p1s6W2</LM>
 </w.rf>
 <form>Birkel</form>
-<tag lemma="Birkel" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Birkel" src="auto">X@-------------</AM>
+<AM lemma="Birkel_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2254-001-p1s6W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1905,7 +1930,10 @@
 <LM>w#w-wsj2254-001-p1s8W5</LM>
 </w.rf>
 <form>BSN</form>
-<tag lemma="BSN" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="BSN" src="auto">X@-------------</AM>
+<AM lemma="BSN-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2254-001-p1s8W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2145,7 +2173,10 @@
 <LM>w#w-wsj2254-001-p1s9W14</LM>
 </w.rf>
 <form>Barilla</form>
-<tag lemma="Barilla_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Barilla_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Barilla_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2254-001-p1s9W15-Ta">
 <src.rf>tagger-a</src.rf>

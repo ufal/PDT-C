@@ -175,7 +175,10 @@
 <LM>w#w-wsj0369-001-p1s1W2</LM>
 </w.rf>
 <form>Ruettgers</form>
-<tag lemma="Ruettgers" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ruettgers" src="auto">X@-------------</AM>
+<AM lemma="Ruettgers_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0369-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>

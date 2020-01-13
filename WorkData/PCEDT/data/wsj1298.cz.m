@@ -332,7 +332,10 @@
 <LM>w#w-wsj1298-001-p1s1W5</LM>
 </w.rf>
 <form>Leavitt</form>
-<tag lemma="Leavitt" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Leavitt" src="auto">X@-------------</AM>
+<AM lemma="Leavitt_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1298-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -392,6 +395,11 @@
 <AM lemma="58letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="58letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1298-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -564,6 +572,7 @@
 <tag>
 <AM lemma="UNRRA_;K" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="unra_,h" src="auto">NNFP2-----A----</AM>
+<AM lemma="UNR-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1298-001-p1s2W3-Ta">
@@ -663,6 +672,7 @@
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AAMS2----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AAMS4----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS2----1A----</AM>
+<AM lemma="konkurzní_^(týkající_se_úpadku,_soutěže)" src="manual" selected="1">AAIS2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1298-001-p1s2W11-Ta">
@@ -877,6 +887,7 @@
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS1----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS4----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS5----1A----</AM>
+<AM lemma="konkurzní_^(týkající_se_úpadku,_soutěže)" src="manual" selected="1">AAFS2----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1298-001-p1s2W26-Ta">
@@ -908,7 +919,7 @@
 <form>kterou</form>
 <tag>
 <AM lemma="který" src="auto" recommended="1">P4FS4----------</AM>
-<AM lemma="který" src="auto">P4FS7----------</AM>
+<AM lemma="který" src="auto" selected="1">P4FS7----------</AM>
 </tag>
 </m>
 <m id="m-wsj1298-001-p1s2W29-Ta">
@@ -1117,6 +1128,11 @@
 <AM lemma="37letý" src="auto" recommended="1">AAMS4----1A----</AM>
 <AM lemma="37letý" src="auto">AANS2----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1298-001-p1s4W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1124,7 +1140,10 @@
 <LM>w#w-wsj1298-001-p1s4W2</LM>
 </w.rf>
 <form>Leavitta</form>
-<tag lemma="Leavitta" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Leavitta" src="auto">X@-------------</AM>
+<AM lemma="Leavitt_;S" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1298-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1479,7 +1498,10 @@
 <LM>w#w-wsj1298-001-p1s5W7</LM>
 </w.rf>
 <form>Leavitt</form>
-<tag lemma="Leavitt" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Leavitt" src="auto">X@-------------</AM>
+<AM lemma="Leavitt_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1298-001-p1s5W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1750,7 +1772,7 @@
 <form>právě</form>
 <tag>
 <AM lemma="právě-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="právě-2" src="auto">TT-------------</AM>
+<AM lemma="právě-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1298-001-p1s5W30-Ta">

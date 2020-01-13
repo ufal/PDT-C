@@ -54,7 +54,10 @@
 <LM>w#w-wsj0197-001-p1s0W4</LM>
 </w.rf>
 <form>DiLoreto</form>
-<tag lemma="DiLoreto" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="DiLoreto" src="auto">X@-------------</AM>
+<AM lemma="DiLoreto_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0197-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -262,6 +265,7 @@
 <tag>
 <AM lemma="Delmont_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Delmont_;S" src="auto" recommended="1">NNMS4-----A----</AM>
+<AM lemma="Delmont_;S_;Y" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0197-001-p1s0W22-Ta">

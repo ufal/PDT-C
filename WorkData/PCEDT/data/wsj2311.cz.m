@@ -65,6 +65,7 @@
 <AM lemma="Concord_;R" src="auto">NNIS6-----A----</AM>
 <AM lemma="concord_^(letadlo)" src="auto">NNIS5-----A----</AM>
 <AM lemma="concorde_;R_,t_^(letadlo)" src="auto" recommended="1">NNISX-----A----</AM>
+<AM lemma="concorde_;R_^(letadlo)" src="manual" selected="1">NNISX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2311-001-p1s0W5-Ta">
@@ -74,7 +75,7 @@
 </w.rf>
 <form>stojí</form>
 <tag>
-<AM lemma="stát-3_^(stojím_stojíš)" src="auto">VB-P---3P-AAI--</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="auto" selected="1">VB-P---3P-AAI--</AM>
 <AM lemma="stát-3_^(stojím_stojíš)" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -234,7 +235,10 @@
 <LM>w#w-wsj2311-001-p1s1W4</LM>
 </w.rf>
 <form>Centennial</form>
-<tag lemma="Centennial" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Centennial" src="auto">X@-------------</AM>
+<AM lemma="Centennial-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2311-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -245,6 +249,7 @@
 <tag>
 <AM lemma="journal" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="journal" src="auto">NNIS4-----A----</AM>
+<AM lemma="Journal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2311-001-p1s1W6-Ta">
@@ -260,6 +265,7 @@
 <AM lemma="čas_:B_^(př._t._č.)" src="auto">NNIXX-----A---8</AM>
 <AM lemma="český_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="číslo_:B" src="auto" recommended="1">NNNXX-----A---8</AM>
+<AM lemma="číslo" src="manual" selected="1">NNNXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-wsj2311-001-p1s1W7-Ta">

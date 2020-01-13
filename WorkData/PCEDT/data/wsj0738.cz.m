@@ -27,7 +27,10 @@
 <LM>w#w-wsj0738-001-p1s0W2</LM>
 </w.rf>
 <form>Kinder</form>
-<tag lemma="Kinder_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Kinder_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Kinder-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0738-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -46,6 +49,7 @@
 <tag>
 <AM lemma="Carus_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="care-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Care-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0738-001-p1s0W5-Ta">
@@ -57,6 +61,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0738-001-p1s0W6-Ta">
@@ -112,7 +117,7 @@
 <form>Dow</form>
 <tag>
 <AM lemma="Dow-1_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="Dow_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Dow_;S" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="Dowa_;G" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -351,7 +356,10 @@
 <LM>w#w-wsj0738-001-p1s1W7</LM>
 </w.rf>
 <form>Fuqua</form>
-<tag lemma="Fuqua" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Fuqua" src="auto">X@-------------</AM>
+<AM lemma="Fuqua-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0738-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -359,7 +367,10 @@
 <LM>w#w-wsj0738-001-p1s1W8</LM>
 </w.rf>
 <form>Industries</form>
-<tag lemma="Industries" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Industries" src="auto">X@-------------</AM>
+<AM lemma="Industries-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0738-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -370,6 +381,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0738-001-p1s1W10-Ta">

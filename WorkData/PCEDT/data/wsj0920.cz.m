@@ -251,7 +251,7 @@
 <AM lemma="úročený_^(*3it)" src="auto">AAFP2----1A----</AM>
 <AM lemma="úročený_^(*3it)" src="auto">AAFP6----1A----</AM>
 <AM lemma="úročený_^(*3it)" src="auto">AAIP2----1A----</AM>
-<AM lemma="úročený_^(*3it)" src="auto">AAIP6----1A----</AM>
+<AM lemma="úročený_^(*3it)" src="auto" selected="1">AAIP6----1A----</AM>
 <AM lemma="úročený_^(*3it)" src="auto">AAMP2----1A----</AM>
 <AM lemma="úročený_^(*3it)" src="auto">AAMP6----1A----</AM>
 <AM lemma="úročený_^(*3it)" src="auto" recommended="1">AANP2----1A----</AM>
@@ -285,7 +285,7 @@
 <AM lemma="splatný" src="auto" recommended="1">AAFP2----1A----</AM>
 <AM lemma="splatný" src="auto">AAFP6----1A----</AM>
 <AM lemma="splatný" src="auto">AAIP2----1A----</AM>
-<AM lemma="splatný" src="auto">AAIP6----1A----</AM>
+<AM lemma="splatný" src="auto" selected="1">AAIP6----1A----</AM>
 <AM lemma="splatný" src="auto">AAMP2----1A----</AM>
 <AM lemma="splatný" src="auto">AAMP6----1A----</AM>
 <AM lemma="splatný" src="auto">AANP2----1A----</AM>

@@ -27,7 +27,10 @@
 <LM>w#w-wsj1489-001-p1s0W2</LM>
 </w.rf>
 <form>Comair</form>
-<tag lemma="Comair" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Comair" src="auto">X@-------------</AM>
+<AM lemma="Comair-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1489-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1489-001-p1s0W3</LM>
 </w.rf>
 <form>Holdings</form>
-<tag lemma="Holdings" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Holdings" src="auto">X@-------------</AM>
+<AM lemma="Holdings-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1489-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -46,6 +52,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1489-001-p1s0W5-Ta">
@@ -109,7 +116,10 @@
 <LM>w#w-wsj1489-001-p1s0W11</LM>
 </w.rf>
 <form>Airline</form>
-<tag lemma="Airline" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Airline" src="auto">X@-------------</AM>
+<AM lemma="Airline-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1489-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -117,7 +127,10 @@
 <LM>w#w-wsj1489-001-p1s0W12</LM>
 </w.rf>
 <form>Aviation</form>
-<tag lemma="Aviation" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Aviation" src="auto">X@-------------</AM>
+<AM lemma="Aviation-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1489-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -125,7 +138,10 @@
 <LM>w#w-wsj1489-001-p1s0W13</LM>
 </w.rf>
 <form>Academy</form>
-<tag lemma="Academy" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Academy" src="auto">X@-------------</AM>
+<AM lemma="Academy-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1489-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -251,7 +267,7 @@
 <tag>
 <AM lemma="daleko-2" src="auto">NNNS1-----N----</AM>
 <AM lemma="daleko-1" src="auto" recommended="1">Dg-------1N----</AM>
-<AM lemma="nedaleko" src="auto">RR--2----------</AM>
+<AM lemma="nedaleko" src="auto" selected="1">RR--2----------</AM>
 </tag>
 </m>
 <m id="m-wsj1489-001-p1s0W25-Ta">
@@ -397,7 +413,10 @@
 <LM>w#w-wsj1489-001-p1s1W2</LM>
 </w.rf>
 <form>Comair</form>
-<tag lemma="Comair" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Comair" src="auto">X@-------------</AM>
+<AM lemma="Comair_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1489-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -512,7 +531,10 @@
 <LM>w#w-wsj1489-001-p1s2W2</LM>
 </w.rf>
 <form>Comair</form>
-<tag lemma="Comair" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Comair" src="auto">X@-------------</AM>
+<AM lemma="Comair-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1489-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -520,7 +542,10 @@
 <LM>w#w-wsj1489-001-p1s2W3</LM>
 </w.rf>
 <form>Holdings</form>
-<tag lemma="Holdings" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Holdings" src="auto">X@-------------</AM>
+<AM lemma="Holdings-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1489-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -581,7 +606,10 @@
 <LM>w#w-wsj1489-001-p1s2W8</LM>
 </w.rf>
 <form>Comair</form>
-<tag lemma="Comair" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Comair" src="auto">X@-------------</AM>
+<AM lemma="Comair-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1489-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -592,6 +620,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1489-001-p1s2W10-Ta">
@@ -679,7 +708,10 @@
 <LM>w#w-wsj1489-001-p1s3W2</LM>
 </w.rf>
 <form>Comair</form>
-<tag lemma="Comair" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Comair" src="auto">X@-------------</AM>
+<AM lemma="Comair_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1489-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -729,7 +761,10 @@
 <LM>w#w-wsj1489-001-p1s3W7</LM>
 </w.rf>
 <form>Airline</form>
-<tag lemma="Airline" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Airline" src="auto">X@-------------</AM>
+<AM lemma="Airline-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1489-001-p1s3W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -737,7 +772,10 @@
 <LM>w#w-wsj1489-001-p1s3W8</LM>
 </w.rf>
 <form>Aviation</form>
-<tag lemma="Aviation" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Aviation" src="auto">X@-------------</AM>
+<AM lemma="Aviation-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1489-001-p1s3W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1057,7 +1095,7 @@
 <AM lemma="velký" src="auto">AAIP4----1A---6</AM>
 <AM lemma="velký" src="auto">AAIP5----1A---6</AM>
 <AM lemma="velký" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="velký" src="auto">AAIS4----1A----</AM>
+<AM lemma="velký" src="auto" selected="1">AAIS4----1A----</AM>
 <AM lemma="velký" src="auto">AAIS5----1A----</AM>
 <AM lemma="velký" src="auto">AAMP1----1A---6</AM>
 <AM lemma="velký" src="auto">AAMP4----1A---6</AM>
@@ -1089,7 +1127,7 @@
 <AM lemma="růstový" src="auto">AAIP4----1A---6</AM>
 <AM lemma="růstový" src="auto">AAIP5----1A---6</AM>
 <AM lemma="růstový" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="růstový" src="auto">AAIS4----1A----</AM>
+<AM lemma="růstový" src="auto" selected="1">AAIS4----1A----</AM>
 <AM lemma="růstový" src="auto">AAIS5----1A----</AM>
 <AM lemma="růstový" src="auto">AAMP1----1A---6</AM>
 <AM lemma="růstový" src="auto">AAMP4----1A---6</AM>
@@ -1112,7 +1150,7 @@
 <form>potenciál</form>
 <tag>
 <AM lemma="potenciál" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="potenciál" src="auto">NNIS4-----A----</AM>
+<AM lemma="potenciál" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1489-001-p1s3W37-Ta">
@@ -1142,7 +1180,10 @@
 <LM>w#w-wsj1489-001-p1s4W2</LM>
 </w.rf>
 <form>Comair</form>
-<tag lemma="Comair" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Comair" src="auto">X@-------------</AM>
+<AM lemma="Comair_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1489-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1226,7 +1267,10 @@
 <LM>w#w-wsj1489-001-p1s4W11</LM>
 </w.rf>
 <form>Comair</form>
-<tag lemma="Comair" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Comair" src="auto">X@-------------</AM>
+<AM lemma="Comair-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1489-001-p1s4W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1234,7 +1278,10 @@
 <LM>w#w-wsj1489-001-p1s4W12</LM>
 </w.rf>
 <form>Aviation</form>
-<tag lemma="Aviation" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Aviation" src="auto">X@-------------</AM>
+<AM lemma="Aviation-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1489-001-p1s4W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1242,7 +1289,10 @@
 <LM>w#w-wsj1489-001-p1s4W13</LM>
 </w.rf>
 <form>Academy</form>
-<tag lemma="Academy" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Academy" src="auto">X@-------------</AM>
+<AM lemma="Academy-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1489-001-p1s4W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1294,7 +1344,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>

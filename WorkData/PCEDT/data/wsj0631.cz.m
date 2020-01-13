@@ -16,7 +16,10 @@
 <LM>w#w-wsj0631-001-p1s0W1</LM>
 </w.rf>
 <form>Finnair</form>
-<tag lemma="Finnair" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Finnair" src="auto">X@-------------</AM>
+<AM lemma="Finnair_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0631-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -332,7 +335,7 @@
 <LM>w#w-wsj0631-001-p1s0W24</LM>
 </w.rf>
 <form>soupeřem</form>
-<tag lemma="soupeř" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag lemma="soupeř" src="auto" recommended="1" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-wsj0631-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -359,7 +362,10 @@
 <LM>w#w-wsj0631-001-p1s0W27</LM>
 </w.rf>
 <form>Scandinavian</form>
-<tag lemma="Scandinavian" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Scandinavian" src="auto">X@-------------</AM>
+<AM lemma="Scandinavian-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0631-001-p1s0W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -367,7 +373,10 @@
 <LM>w#w-wsj0631-001-p1s0W28</LM>
 </w.rf>
 <form>Airlines</form>
-<tag lemma="Airlines_;K_,t_^(souč._názvů,_např._American_A.)" src="auto" recommended="1">NNFPX-----A----</tag>
+<tag>
+<AM lemma="Airlines_;K_,t_^(souč._názvů,_např._American_A.)" src="auto" recommended="1">NNFPX-----A----</AM>
+<AM lemma="Airlines-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0631-001-p1s0W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -378,6 +387,7 @@
 <tag>
 <AM lemma="System_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="systém" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="System-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0631-001-p1s0W30-Ta">
@@ -443,7 +453,10 @@
 <LM>w#w-wsj0631-001-p1s1W5</LM>
 </w.rf>
 <form>Finnair</form>
-<tag lemma="Finnair" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Finnair" src="auto">X@-------------</AM>
+<AM lemma="Finnair_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0631-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -648,6 +661,7 @@
 <tag>
 <AM lemma="SAS_:B" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Sas_;E" src="auto">NNMS1-----A----</AM>
+<AM lemma="SAS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0631-001-p1s1W22-Ta">
@@ -916,7 +930,10 @@
 <LM>w#w-wsj0631-001-p1s2W7</LM>
 </w.rf>
 <form>Finnair</form>
-<tag lemma="Finnair" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Finnair" src="auto">X@-------------</AM>
+<AM lemma="Finnair_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0631-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -995,7 +1012,7 @@
 <LM>w#w-wsj0631-001-p1s2W12</LM>
 </w.rf>
 <form>dopravcem</form>
-<tag lemma="dopravce" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag lemma="dopravce" src="auto" recommended="1" selected="1">NNMS7-----A----</tag>
 </m>
 <m id="m-wsj0631-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1084,6 +1101,7 @@
 <tag>
 <AM lemma="SAS_:B" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Sas_;E" src="auto">NNMS1-----A----</AM>
+<AM lemma="SAS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0631-001-p1s2W21-Ta">
@@ -1222,7 +1240,10 @@
 <LM>w#w-wsj0631-001-p1s3W2</LM>
 </w.rf>
 <form>Finnair</form>
-<tag lemma="Finnair" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Finnair" src="auto">X@-------------</AM>
+<AM lemma="Finnair_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0631-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1247,6 +1268,7 @@
 <tag>
 <AM lemma="SAS_:B" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Sas_;E" src="auto">NNMS1-----A----</AM>
+<AM lemma="SAS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0631-001-p1s3W5-Ta">
@@ -1462,7 +1484,7 @@
 <AM lemma="očekávaný_^(*2t)" src="auto">AAIP6----1A----</AM>
 <AM lemma="očekávaný_^(*2t)" src="auto">AAMP2----1A----</AM>
 <AM lemma="očekávaný_^(*2t)" src="auto">AAMP6----1A----</AM>
-<AM lemma="očekávaný_^(*2t)" src="auto">AANP2----1A----</AM>
+<AM lemma="očekávaný_^(*2t)" src="auto" selected="1">AANP2----1A----</AM>
 <AM lemma="očekávaný_^(*2t)" src="auto">AANP6----1A----</AM>
 </tag>
 </m>
@@ -1592,6 +1614,7 @@
 <tag>
 <AM lemma="SAS_:B" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Sas_;E" src="auto">NNMS1-----A----</AM>
+<AM lemma="SAS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0631-001-p1s5W8-Ta">
@@ -1688,7 +1711,10 @@
 <LM>w#w-wsj0631-001-p1s5W17</LM>
 </w.rf>
 <form>Finnairu</form>
-<tag lemma="Finnairu" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Finnairu" src="auto">X@-------------</AM>
+<AM lemma="Finnair_;K" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0631-001-p1s5W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1922,7 +1948,10 @@
 <LM>w#w-wsj0631-001-p1s6W8</LM>
 </w.rf>
 <form>Finnair</form>
-<tag lemma="Finnair" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Finnair" src="auto">X@-------------</AM>
+<AM lemma="Finnair_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0631-001-p1s6W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1980,6 +2009,7 @@
 <tag>
 <AM lemma="SAS_:B" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Sas_;E" src="auto">NNMS1-----A----</AM>
+<AM lemma="SAS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0631-001-p1s6W14-Ta">

@@ -442,7 +442,10 @@
 <LM>w#w-wsj0370-001-p1s1W7</LM>
 </w.rf>
 <form>Riordan</form>
-<tag lemma="Riordan_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Riordan_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Riordan-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0370-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -458,7 +461,10 @@
 <LM>w#w-wsj0370-001-p1s1W9</LM>
 </w.rf>
 <form>McKinzie</form>
-<tag lemma="McKinzie" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="McKinzie" src="auto">X@-------------</AM>
+<AM lemma="McKinzie-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0370-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -520,7 +526,10 @@
 <LM>w#w-wsj0370-001-p1s1W14</LM>
 </w.rf>
 <form>Riordan</form>
-<tag lemma="Riordan_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Riordan_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Riordan-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0370-001-p1s1W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -528,7 +537,10 @@
 <LM>w#w-wsj0370-001-p1s1W15</LM>
 </w.rf>
 <form>Venture</form>
-<tag lemma="venture_,t_^(joint_v.;_společný_podnik)" src="auto" recommended="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="venture_,t_^(joint_v.;_společný_podnik)" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="Venture-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0370-001-p1s1W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -539,6 +551,7 @@
 <tag>
 <AM lemma="management_,s_^(^DD**manažment)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="management_,s_^(^DD**manažment)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Management-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0370-001-p1s1W17-Ta">

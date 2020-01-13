@@ -41,6 +41,11 @@
 <AM lemma="53letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="53letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1701-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -131,7 +136,10 @@
 <LM>w#w-wsj1701-001-p1s0W10</LM>
 </w.rf>
 <form>Financial</form>
-<tag lemma="Financial" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Financial" src="auto">X@-------------</AM>
+<AM lemma="Financial-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1701-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -139,7 +147,10 @@
 <LM>w#w-wsj1701-001-p1s0W11</LM>
 </w.rf>
 <form>Times</form>
-<tag lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="auto" recommended="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="auto" recommended="1">NNIPX-----A----</AM>
+<AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1701-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -801,7 +812,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -875,7 +886,10 @@
 <LM>w#w-wsj1701-001-p1s2W9</LM>
 </w.rf>
 <form>Financial</form>
-<tag lemma="Financial" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Financial" src="auto">X@-------------</AM>
+<AM lemma="Financial-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1701-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -883,7 +897,10 @@
 <LM>w#w-wsj1701-001-p1s2W10</LM>
 </w.rf>
 <form>Times</form>
-<tag lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="auto" recommended="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="auto" recommended="1">NNIPX-----A----</AM>
+<AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1701-001-p1s2W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -999,6 +1016,11 @@
 <AM lemma="44letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="44letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1701-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1006,7 +1028,10 @@
 <LM>w#w-wsj1701-001-p1s3W2</LM>
 </w.rf>
 <form>Laurance</form>
-<tag lemma="Laurance" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Laurance" src="auto">X@-------------</AM>
+<AM lemma="Laurance_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1701-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>

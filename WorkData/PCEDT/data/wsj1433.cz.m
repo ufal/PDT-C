@@ -27,7 +27,10 @@
 <LM>w#w-wsj1433-001-p1s0W2</LM>
 </w.rf>
 <form>Falcon</form>
-<tag lemma="Falcon_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Falcon_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Falcon-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1433-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1433-001-p1s0W3</LM>
 </w.rf>
 <form>Cable</form>
-<tag lemma="Cable_;K_,t" src="auto" recommended="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Cable_;K_,t" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="Cable-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1433-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,7 +49,10 @@
 <LM>w#w-wsj1433-001-p1s0W4</LM>
 </w.rf>
 <form>Systems</form>
-<tag lemma="Systems" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Systems" src="auto">X@-------------</AM>
+<AM lemma="Systems-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1433-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -59,6 +68,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1433-001-p1s0W6-Ta">
@@ -417,7 +427,10 @@
 <LM>w#w-wsj1433-001-p1s1W2</LM>
 </w.rf>
 <form>Falcon</form>
-<tag lemma="Falcon_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Falcon_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Falcon-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1433-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -734,7 +747,7 @@
 </w.rf>
 <form>na</form>
 <tag>
-<AM lemma="na-1" src="auto">RR--4----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--4----------</AM>
 <AM lemma="na-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
@@ -747,7 +760,7 @@
 <form>expanzi</form>
 <tag>
 <AM lemma="expanze" src="auto">NNFS3-----A----</AM>
-<AM lemma="expanze" src="auto">NNFS4-----A----</AM>
+<AM lemma="expanze" src="auto" selected="1">NNFS4-----A----</AM>
 <AM lemma="expanze" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
 </m>
@@ -773,7 +786,7 @@
 <form>akvizice</form>
 <tag>
 <AM lemma="akvizice" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="akvizice" src="auto">NNFP4-----A----</AM>
+<AM lemma="akvizice" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="akvizice" src="auto">NNFP5-----A----</AM>
 <AM lemma="akvizice" src="auto">NNFS1-----A----</AM>
 <AM lemma="akvizice" src="auto">NNFS2-----A----</AM>

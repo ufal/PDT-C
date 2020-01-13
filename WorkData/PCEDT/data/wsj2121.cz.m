@@ -20,6 +20,7 @@
 <AM lemma="David_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="David_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="David_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="David-2_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2121-001-p1s0W2-Ta">
@@ -51,7 +52,10 @@
 <LM>w#w-wsj2121-001-p1s0W4</LM>
 </w.rf>
 <form>Lung</form>
-<tag lemma="Lunga_;G" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="Lunga_;G" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Lung_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2121-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -142,7 +146,7 @@
 <tag>
 <AM lemma="výrobce" src="auto">NNMP4-----A----</AM>
 <AM lemma="výrobce" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="výrobce" src="auto">NNMS2-----A----</AM>
+<AM lemma="výrobce" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="výrobce" src="auto">NNMS4-----A----</AM>
 <AM lemma="výrobce" src="auto">NNMS5-----A----</AM>
 </tag>
@@ -309,6 +313,11 @@
 <AM lemma="42letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="42letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2121-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -328,7 +337,10 @@
 <LM>w#w-wsj2121-001-p1s1W6</LM>
 </w.rf>
 <form>Lung</form>
-<tag lemma="Lunga_;G" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="Lunga_;G" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Lung_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2121-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -380,9 +392,14 @@
 <form>66letém</form>
 <tag>
 <AM lemma="66letý" src="auto" recommended="1">AAIS6----1A----</AM>
-<AM lemma="66letý" src="auto">AAMS6----1A----</AM>
+<AM lemma="66letý" src="auto" selected="1">AAMS6----1A----</AM>
 <AM lemma="66letý" src="auto">AANS6----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2121-001-p1s1W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -390,7 +407,11 @@
 <LM>w#w-wsj2121-001-p1s1W12</LM>
 </w.rf>
 <form>Mervinu</form>
-<tag lemma="Mervinu" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Mervinu" src="auto">X@-------------</AM>
+<AM lemma="Mervin_;S" src="manual">NNMS6-----A----</AM>
+<AM lemma="Mervin_;S_;Y" src="manual" selected="1">NNMS6-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2121-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -421,7 +442,10 @@
 <LM>w#w-wsj2121-001-p1s1W15</LM>
 </w.rf>
 <form>Lungovi</form>
-<tag lemma="Lungovi" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Lungovi" src="auto">X@-------------</AM>
+<AM lemma="Lung_;S" src="manual" selected="1">NNMS6-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2121-001-p1s1W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -525,7 +549,10 @@
 <LM>w#w-wsj2121-001-p1s2W1</LM>
 </w.rf>
 <form>Mervin</form>
-<tag lemma="Mervin" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Mervin" src="auto">X@-------------</AM>
+<AM lemma="Mervin_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2121-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -533,7 +560,10 @@
 <LM>w#w-wsj2121-001-p1s2W2</LM>
 </w.rf>
 <form>Lung</form>
-<tag lemma="Lunga_;G" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="Lunga_;G" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Lung_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2121-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -612,6 +642,7 @@
 <AM lemma="David_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="David_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="David_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="David-2_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2121-001-p1s3W2-Ta">
@@ -620,7 +651,10 @@
 <LM>w#w-wsj2121-001-p1s3W2</LM>
 </w.rf>
 <form>Lung</form>
-<tag lemma="Lunga_;G" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="Lunga_;G" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Lung_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2121-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -667,7 +701,10 @@
 <LM>w#w-wsj2121-001-p1s3W6</LM>
 </w.rf>
 <form>Patrick</form>
-<tag lemma="Patrick_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Patrick_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Patrick-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2121-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>

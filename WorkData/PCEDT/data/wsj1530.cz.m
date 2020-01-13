@@ -89,6 +89,7 @@
 <AM lemma="Ponec_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Ponec_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Ponec_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Ponce_;G" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1530-001-p1s0W8-Ta">
@@ -753,6 +754,7 @@
 <AM lemma="Ponec_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Ponec_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Ponec_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Ponce-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1530-001-p1s2W3-Ta">
@@ -764,6 +766,7 @@
 <tag>
 <AM lemma="Federal_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Federal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1530-001-p1s2W4-Ta">
@@ -1004,7 +1007,7 @@
 <tag>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto" recommended="1">AAFP2----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAFP6----1A----</AM>
-<AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAIP2----1A----</AM>
+<AM lemma="stanovený_^(určit)_(*3it)" src="auto" selected="1">AAIP2----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAIP6----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAMP2----1A----</AM>
 <AM lemma="stanovený_^(určit)_(*3it)" src="auto">AAMP6----1A----</AM>

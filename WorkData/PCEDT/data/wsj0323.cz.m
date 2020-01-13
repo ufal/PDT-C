@@ -24,7 +24,10 @@
 <LM>w#w-wsj0323-001-p1s0W2</LM>
 </w.rf>
 <form>Bouygues</form>
-<tag lemma="Bouygues_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Bouygues_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Bouygues-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0323-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -285,7 +288,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto">PSZS1FS3-------</AM>
+<AM lemma="jeho_^(přivlast.)" src="auto" selected="1">PSZS1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS5FS3-------</AM>
 </tag>
 </m>
@@ -305,7 +308,7 @@
 <AM lemma="společný" src="auto">AAIP1----1A---6</AM>
 <AM lemma="společný" src="auto">AAIP4----1A---6</AM>
 <AM lemma="společný" src="auto">AAIP5----1A---6</AM>
-<AM lemma="společný" src="auto">AAIS1----1A----</AM>
+<AM lemma="společný" src="auto" selected="1">AAIS1----1A----</AM>
 <AM lemma="společný" src="auto" recommended="1">AAIS4----1A----</AM>
 <AM lemma="společný" src="auto">AAIS5----1A----</AM>
 <AM lemma="společný" src="auto">AAMP1----1A---6</AM>
@@ -328,7 +331,7 @@
 </w.rf>
 <form>zisk</form>
 <tag>
-<AM lemma="zisk" src="auto">NNIS1-----A----</AM>
+<AM lemma="zisk" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="zisk" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -1035,7 +1038,7 @@
 <form>směr</form>
 <tag>
 <AM lemma="směr" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="směr" src="auto">NNIS4-----A----</AM>
+<AM lemma="směr" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0323-001-p1s3W14-Ta">

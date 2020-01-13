@@ -27,7 +27,10 @@
 <LM>w#w-wsj2408-001-p1s0W2</LM>
 </w.rf>
 <form>Drug</form>
-<tag lemma="Drug" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Drug" src="auto">X@-------------</AM>
+<AM lemma="Drug-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2408-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj2408-001-p1s0W3</LM>
 </w.rf>
 <form>Emporium</form>
-<tag lemma="Emporium" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Emporium" src="auto">X@-------------</AM>
+<AM lemma="Emporium-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2408-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -46,6 +52,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2408-001-p1s0W5-Ta">
@@ -130,6 +137,7 @@
 <AM lemma="Gary_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Gary_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Gary_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Gary_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2408-001-p1s0W11-Ta">
@@ -141,6 +149,7 @@
 <tag>
 <AM lemma="Wilber_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Wilber_;G" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Wilber-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2408-001-p1s0W12-Ta">
@@ -462,7 +471,10 @@
 <LM>w#w-wsj2408-001-p1s1W9</LM>
 </w.rf>
 <form>Wilbera</form>
-<tag lemma="Wilbera" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Wilbera" src="auto">X@-------------</AM>
+<AM lemma="Wilber-2_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2408-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -614,6 +626,7 @@
 <tag>
 <AM lemma="Lyons_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Lyons_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Lyons-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2408-001-p1s2W6-Ta">
@@ -818,7 +831,7 @@
 <tag>
 <AM lemma="taka-1_;L" src="auto">NNFP2-----A----</AM>
 <AM lemma="tak-1" src="auto">TT-------------</AM>
-<AM lemma="tak-2" src="auto">J^-------------</AM>
+<AM lemma="tak-2" src="auto" selected="1">J^-------------</AM>
 <AM lemma="tak-3" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
@@ -839,6 +852,7 @@
 <tag>
 <AM lemma="Gary_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Gary_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Gary_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2408-001-p1s2W26-Ta">
@@ -847,7 +861,10 @@
 <LM>w#w-wsj2408-001-p1s2W26</LM>
 </w.rf>
 <form>Wilbera</form>
-<tag lemma="Wilbera" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Wilbera" src="auto">X@-------------</AM>
+<AM lemma="Wilber-2_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2408-001-p1s2W27-Ta">
 <src.rf>tagger-a</src.rf>

@@ -19,6 +19,7 @@
 <tag>
 <AM lemma="Agip_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Agip_;Y" src="auto">NNIS4-----A----</AM>
+<AM lemma="Agip-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2252-001-p1s0W2-Ta">
@@ -123,7 +124,10 @@
 <LM>w#w-wsj2252-001-p1s0W9</LM>
 </w.rf>
 <form>Societe</form>
-<tag lemma="Societe" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Societe" src="auto">X@-------------</AM>
+<AM lemma="Societe-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2252-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -131,7 +135,10 @@
 <LM>w#w-wsj2252-001-p1s0W10</LM>
 </w.rf>
 <form>National</form>
-<tag lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="National-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2252-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -139,7 +146,10 @@
 <LM>w#w-wsj2252-001-p1s0W11</LM>
 </w.rf>
 <form>Elf</form>
-<tag lemma="elf" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="elf" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Elf-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2252-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -147,7 +157,10 @@
 <LM>w#w-wsj2252-001-p1s0W12</LM>
 </w.rf>
 <form>Aquitaine</form>
-<tag lemma="Aquitaine_;G_,t_,x" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Aquitaine_;G_,t_,x" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Aquitaine-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2252-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -335,7 +348,10 @@
 <LM>w#w-wsj2252-001-p1s0W25</LM>
 </w.rf>
 <form>Gatoil</form>
-<tag lemma="Gatoil" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Gatoil" src="auto">X@-------------</AM>
+<AM lemma="Gatoil-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2252-001-p1s0W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -343,7 +359,10 @@
 <LM>w#w-wsj2252-001-p1s0W26</LM>
 </w.rf>
 <form>Suisse</form>
-<tag lemma="Suisse" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Suisse" src="auto">X@-------------</AM>
+<AM lemma="Suisse-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2252-001-p1s0W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -485,7 +504,10 @@
 <LM>w#w-wsj2252-001-p1s2W3</LM>
 </w.rf>
 <form>Gatoil</form>
-<tag lemma="Gatoil" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Gatoil" src="auto">X@-------------</AM>
+<AM lemma="Gatoil_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2252-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1261,7 +1283,10 @@
 <LM>w#w-wsj2252-001-p1s5W1</LM>
 </w.rf>
 <form>Gatoil</form>
-<tag lemma="Gatoil" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Gatoil" src="auto">X@-------------</AM>
+<AM lemma="Gatoil-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2252-001-p1s5W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1269,7 +1294,10 @@
 <LM>w#w-wsj2252-001-p1s5W2</LM>
 </w.rf>
 <form>Suisse</form>
-<tag lemma="Suisse" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Suisse" src="auto">X@-------------</AM>
+<AM lemma="Suisse-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2252-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>

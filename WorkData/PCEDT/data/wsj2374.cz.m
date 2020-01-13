@@ -20,6 +20,7 @@
 <AM lemma="Bulla_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="bull_,t" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="bulla_,a_^(^DD**bula)" src="auto">NNFP2-----A----</AM>
+<AM lemma="BULL-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2374-001-p1s0W2-Ta">
@@ -28,7 +29,10 @@
 <LM>w#w-wsj2374-001-p1s0W2</LM>
 </w.rf>
 <form>HN</form>
-<tag lemma="HN-88_:B" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="HN-88_:B" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
+<AM lemma="HN-77" src="manual">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2374-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -36,7 +40,10 @@
 <LM>w#w-wsj2374-001-p1s0W3</LM>
 </w.rf>
 <form>INFORMATION</form>
-<tag lemma="INFORMATION" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="INFORMATION" src="auto">X@-------------</AM>
+<AM lemma="INFORMATION-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2374-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -44,7 +51,10 @@
 <LM>w#w-wsj2374-001-p1s0W4</LM>
 </w.rf>
 <form>SYSTEMS</form>
-<tag lemma="SYSTEMS" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="SYSTEMS" src="auto">X@-------------</AM>
+<AM lemma="SYSTEMS-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2374-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -55,6 +65,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2374-001-p1s0W6-Ta">
@@ -91,7 +102,10 @@
 <LM>w#w-wsj2374-001-p1s0W9</LM>
 </w.rf>
 <form>Cie</form>
-<tag lemma="Cie" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Cie" src="auto">X@-------------</AM>
+<AM lemma="Cie-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2374-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -110,6 +124,7 @@
 <tag>
 <AM lemma="des-77_,t" src="auto">F%-------------</AM>
 <AM lemma="desátník_:B" src="auto" recommended="1">NNMXX-----A---8</AM>
+<AM lemma="des-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2374-001-p1s0W12-Ta">
@@ -118,7 +133,10 @@
 <LM>w#w-wsj2374-001-p1s0W12</LM>
 </w.rf>
 <form>Machines</form>
-<tag lemma="Machines" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Machines" src="auto">X@-------------</AM>
+<AM lemma="Machines-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2374-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -130,6 +148,7 @@
 <AM lemma="Bulla_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="bull_,t" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="bulla_,a_^(^DD**bula)" src="auto">NNFP2-----A----</AM>
+<AM lemma="Bull-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2374-001-p1s0W14-Ta">

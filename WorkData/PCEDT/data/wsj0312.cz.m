@@ -665,7 +665,10 @@
 <LM>w#w-wsj0312-001-p1s3W5</LM>
 </w.rf>
 <form>Zarett</form>
-<tag lemma="Zarett" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Zarett" src="auto">X@-------------</AM>
+<AM lemma="Zarett_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0312-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -793,7 +796,10 @@
 <LM>w#w-wsj0312-001-p1s6W2</LM>
 </w.rf>
 <form>Marvin</form>
-<tag lemma="Marvin_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Marvin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Marvin_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0312-001-p1s6W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -801,7 +807,10 @@
 <LM>w#w-wsj0312-001-p1s6W3</LM>
 </w.rf>
 <form>Alisky</form>
-<tag lemma="Alisky" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Alisky" src="auto">X@-------------</AM>
+<AM lemma="Alisky_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0312-001-p1s6W4-Ta">
 <src.rf>tagger-a</src.rf>

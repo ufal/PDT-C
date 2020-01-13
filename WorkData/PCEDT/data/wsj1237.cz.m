@@ -27,7 +27,10 @@
 <LM>w#w-wsj1237-001-p1s0W2</LM>
 </w.rf>
 <form>Birtcher</form>
-<tag lemma="Birtcher" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Birtcher" src="auto">X@-------------</AM>
+<AM lemma="Birtcher-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1237-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1237-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1237-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -159,6 +165,7 @@
 <AM lemma="Celsius" src="auto">NNMXX-----A---8</AM>
 <AM lemma="c-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="c-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="C-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1237-001-p1s0W14-Ta">
@@ -203,6 +210,7 @@
 <AM lemma="Bardo_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="bard" src="auto">NNMS1-----A----</AM>
 <AM lemma="bardo-2_,t_^(posmrtný_mezistav)" src="auto">NNNP2-----A----</AM>
+<AM lemma="Bard-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1237-001-p1s0W18-Ta">
@@ -214,6 +222,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1237-001-p1s0W19-Ta">
@@ -268,6 +277,7 @@
 <AM lemma="Murray_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Murray_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Murray_;S" src="auto" recommended="1">NNMXX-----A----</AM>
+<AM lemma="Murray-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1237-001-p1s0W24-Ta">
@@ -279,6 +289,7 @@
 <tag>
 <AM lemma="Hill_;S" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Hill_;S" src="auto" recommended="1">NNMS6-----A---1</AM>
+<AM lemma="Hill-2_;G" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1237-001-p1s0W25-Ta">
@@ -317,7 +328,10 @@
 <LM>w#w-wsj1237-001-p1s0W28</LM>
 </w.rf>
 <form>Jersey</form>
-<tag lemma="Jersey_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Jersey_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Jersey-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1237-001-p1s0W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -422,6 +436,7 @@
 <AM lemma="Bardo_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="bard" src="auto">NNMS1-----A----</AM>
 <AM lemma="bardo-2_,t_^(posmrtný_mezistav)" src="auto">NNNP2-----A----</AM>
+<AM lemma="Bard-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1237-001-p1s0W38-Ta">
@@ -444,6 +459,7 @@
 <AM lemma="Ems_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="ems_;L_^(stratigrafický_stupeň)" src="auto">NNIS1-----A----</AM>
 <AM lemma="ems_;L_^(stratigrafický_stupeň)" src="auto">NNIS4-----A----</AM>
+<AM lemma="EMS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1237-001-p1s0W40-Ta">
@@ -452,7 +468,10 @@
 <LM>w#w-wsj1237-001-p1s0W40</LM>
 </w.rf>
 <form>Electrosurgery</form>
-<tag lemma="Electrosurgery" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Electrosurgery" src="auto">X@-------------</AM>
+<AM lemma="Electrosurgery-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1237-001-p1s0W41-Ta">
 <src.rf>tagger-a</src.rf>
@@ -553,7 +572,10 @@
 <LM>w#w-wsj1237-001-p1s1W2</LM>
 </w.rf>
 <form>Birtcher</form>
-<tag lemma="Birtcher" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Birtcher" src="auto">X@-------------</AM>
+<AM lemma="Birtcher_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1237-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -795,6 +817,7 @@
 <AM lemma="Bardo_;G" src="auto">NNNP2-----A----</AM>
 <AM lemma="bard" src="auto">NNMS1-----A----</AM>
 <AM lemma="bardo-2_,t_^(posmrtný_mezistav)" src="auto">NNNP2-----A----</AM>
+<AM lemma="Bard-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1237-001-p1s2W3-Ta">
@@ -817,6 +840,7 @@
 <AM lemma="Ems_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="ems_;L_^(stratigrafický_stupeň)" src="auto">NNIS1-----A----</AM>
 <AM lemma="ems_;L_^(stratigrafický_stupeň)" src="auto">NNIS4-----A----</AM>
+<AM lemma="EMS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1237-001-p1s2W5-Ta">
@@ -934,7 +958,10 @@
 <LM>w#w-wsj1237-001-p1s2W17</LM>
 </w.rf>
 <form>Birtcher</form>
-<tag lemma="Birtcher" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Birtcher" src="auto">X@-------------</AM>
+<AM lemma="Birtcher_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1237-001-p1s2W18-Ta">
 <src.rf>tagger-a</src.rf>

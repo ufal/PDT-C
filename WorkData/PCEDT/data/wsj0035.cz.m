@@ -83,7 +83,10 @@
 <LM>w#w-wsj0035-001-p1s0W7</LM>
 </w.rf>
 <form>USA</form>
-<tag lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="USA_:B_;G_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0035-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -276,7 +279,7 @@
 <AM lemma="který" src="auto">P4FS2---------6</AM>
 <AM lemma="který" src="auto">P4FS3---------6</AM>
 <AM lemma="který" src="auto">P4FS6---------6</AM>
-<AM lemma="který" src="auto">P4IS4----------</AM>
+<AM lemma="který" src="auto" selected="1">P4IS4----------</AM>
 <AM lemma="který" src="auto">P4NS1---------6</AM>
 <AM lemma="který" src="auto">P4NS4---------6</AM>
 <AM lemma="který" src="auto">P4XP1---------6</AM>
@@ -301,7 +304,7 @@
 <AM lemma="předkomunistický" src="auto">AAIP4----1A----</AM>
 <AM lemma="předkomunistický" src="auto">AAIP5----1A----</AM>
 <AM lemma="předkomunistický" src="auto">AAMP4----1A----</AM>
-<AM lemma="předkomunistický" src="auto">AANS1----1A----</AM>
+<AM lemma="předkomunistický" src="auto" selected="1">AANS1----1A----</AM>
 <AM lemma="předkomunistický" src="auto" recommended="1">AANS4----1A----</AM>
 <AM lemma="předkomunistický" src="auto">AANS5----1A----</AM>
 </tag>
@@ -313,7 +316,7 @@
 </w.rf>
 <form>Rusko</form>
 <tag>
-<AM lemma="Rusko_;G" src="auto">NNNS1-----A----</AM>
+<AM lemma="Rusko_;G" src="auto" selected="1">NNNS1-----A----</AM>
 <AM lemma="Rusko_;G" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="Rusko_;G" src="auto">NNNS5-----A----</AM>
 <AM lemma="ruský" src="auto">A2--------A----</AM>
@@ -327,7 +330,7 @@
 <form>dluží</form>
 <tag>
 <AM lemma="dlužit" src="auto" recommended="1">VB-P---3P-AAI--</AM>
-<AM lemma="dlužit" src="auto">VB-S---3P-AAI--</AM>
+<AM lemma="dlužit" src="auto" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-wsj0035-001-p1s0W26-Ta">
@@ -539,7 +542,10 @@
 <LM>w#w-wsj0035-001-p1s1W17</LM>
 </w.rf>
 <form>USA</form>
-<tag lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="USA_:B_;G_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0035-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -602,7 +608,7 @@
 <form>Sověty</form>
 <tag>
 <AM lemma="Sovět_;E_^(občan_SSSR)" src="auto">NNMP4-----A----</AM>
-<AM lemma="Sovět_;E_^(občan_SSSR)" src="auto">NNMP7-----A----</AM>
+<AM lemma="Sovět_;E_^(občan_SSSR)" src="auto" selected="1">NNMP7-----A----</AM>
 <AM lemma="sovět-1_^(rada;_výbor)" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="sovět-1_^(rada;_výbor)" src="auto">NNIP4-----A----</AM>
 <AM lemma="sovět-1_^(rada;_výbor)" src="auto">NNIP5-----A----</AM>
@@ -1255,7 +1261,7 @@
 <AM lemma="minulý" src="auto">AANP4----1A---6</AM>
 <AM lemma="minulý" src="auto">AANP5----1A---6</AM>
 <AM lemma="minulý" src="auto" recommended="1">AANS1----1A----</AM>
-<AM lemma="minulý" src="auto">AANS4----1A----</AM>
+<AM lemma="minulý" src="auto" selected="1">AANS4----1A----</AM>
 <AM lemma="minulý" src="auto">AANS5----1A----</AM>
 </tag>
 </m>
@@ -1267,7 +1273,7 @@
 <form>jaro</form>
 <tag>
 <AM lemma="jaro" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="jaro" src="auto">NNNS4-----A----</AM>
+<AM lemma="jaro" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="jaro" src="auto">NNNS5-----A----</AM>
 </tag>
 </m>
@@ -1619,7 +1625,7 @@
 <AM lemma="trvající_^(*4t)" src="auto">AGFP1-----A----</AM>
 <AM lemma="trvající_^(*4t)" src="auto">AGFP4-----A----</AM>
 <AM lemma="trvající_^(*4t)" src="auto">AGFP5-----A----</AM>
-<AM lemma="trvající_^(*4t)" src="auto">AGFS1-----A----</AM>
+<AM lemma="trvající_^(*4t)" src="auto" selected="1">AGFS1-----A----</AM>
 <AM lemma="trvající_^(*4t)" src="auto">AGFS2-----A----</AM>
 <AM lemma="trvající_^(*4t)" src="auto">AGFS3-----A----</AM>
 <AM lemma="trvající_^(*4t)" src="auto">AGFS4-----A----</AM>
@@ -1652,7 +1658,7 @@
 </w.rf>
 <form>Kerenského</form>
 <tag>
-<AM lemma="Kerenský_;S" src="auto">NNMS2-----A----</AM>
+<AM lemma="Kerenský_;S" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="Kerenský_;S" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -1899,6 +1905,7 @@
 <AM lemma="r-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="r-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="rok_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="rok" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-wsj0035-001-p1s6W9-Ta">
@@ -2167,7 +2174,10 @@
 <LM>w#w-wsj0035-001-p1s6W27</LM>
 </w.rf>
 <form>USA</form>
-<tag lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="USA_:B_;G_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0035-001-p1s6W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3056,7 +3066,10 @@
 <LM>w#w-wsj0035-001-p1s10W12</LM>
 </w.rf>
 <form>USA</form>
-<tag lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="USA_:B_;G_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0035-001-p1s10W13-Ta">
 <src.rf>tagger-a</src.rf>

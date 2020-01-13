@@ -143,7 +143,10 @@
 <LM>w#w-wsj2352-001-p1s0W10</LM>
 </w.rf>
 <form>Arcadian</form>
-<tag lemma="Arcadian" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Arcadian" src="auto">X@-------------</AM>
+<AM lemma="Arcadian-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2352-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -151,7 +154,10 @@
 <LM>w#w-wsj2352-001-p1s0W11</LM>
 </w.rf>
 <form>Phosphate</form>
-<tag lemma="Phosphate" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Phosphate" src="auto">X@-------------</AM>
+<AM lemma="Phosphate-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2352-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -212,6 +218,7 @@
 <tag>
 <AM lemma="Pennzoil_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Pennzoil_;Y" src="auto">NNIS4-----A----</AM>
+<AM lemma="Pennzoil-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2352-001-p1s0W18-Ta">
@@ -228,6 +235,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2352-001-p1s0W19-Ta">
@@ -562,6 +570,7 @@
 <tag>
 <AM lemma="Pennzoil_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Pennzoil_;Y" src="auto">NNIS4-----A----</AM>
+<AM lemma="Pennzoil_;K_;Y" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2352-001-p1s0W47-Ta">
@@ -892,6 +901,7 @@
 <tag>
 <AM lemma="Pennzoil_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Pennzoil_;Y" src="auto">NNIS4-----A----</AM>
+<AM lemma="Pennzoil_;K_;Y" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2352-001-p1s2W4-Ta">
@@ -979,6 +989,7 @@
 <tag>
 <AM lemma="Pennzoil_;Y" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Pennzoil_;Y" src="auto">NNIS4-----A----</AM>
+<AM lemma="Pennzoil_;K_;Y" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2352-001-p1s2W12-Ta">
@@ -1005,6 +1016,7 @@
 <AM lemma="Getty_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Getty_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Getty_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Getty-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2352-001-p1s2W14-Ta">
@@ -1013,7 +1025,10 @@
 <LM>w#w-wsj2352-001-p1s2W14</LM>
 </w.rf>
 <form>Oil</form>
-<tag lemma="Oil" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Oil" src="auto">X@-------------</AM>
+<AM lemma="Oil-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2352-001-p1s2W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1105,7 +1120,10 @@
 <LM>w#w-wsj2352-001-p1s2W23</LM>
 </w.rf>
 <form>Arcadian</form>
-<tag lemma="Arcadian" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Arcadian" src="auto">X@-------------</AM>
+<AM lemma="Arcadian-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2352-001-p1s2W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1113,7 +1131,10 @@
 <LM>w#w-wsj2352-001-p1s2W24</LM>
 </w.rf>
 <form>Phosphates</form>
-<tag lemma="Phosphates" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Phosphates" src="auto">X@-------------</AM>
+<AM lemma="Phosphates-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2352-001-p1s2W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1642,7 +1663,7 @@
 <tag>
 <AM lemma="rozdílný" src="auto" recommended="1">AAFS1----1A----</AM>
 <AM lemma="rozdílný" src="auto">AAFS5----1A----</AM>
-<AM lemma="rozdílný" src="auto">AANP1----1A----</AM>
+<AM lemma="rozdílný" src="auto" selected="1">AANP1----1A----</AM>
 <AM lemma="rozdílný" src="auto">AANP4----1A----</AM>
 <AM lemma="rozdílný" src="auto">AANP5----1A----</AM>
 </tag>
@@ -1850,7 +1871,10 @@
 <LM>w#w-wsj2352-001-p1s7W4</LM>
 </w.rf>
 <form>Vihon</form>
-<tag lemma="Vihon" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Vihon" src="auto">X@-------------</AM>
+<AM lemma="Vihon_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

@@ -119,7 +119,7 @@
 </w.rf>
 <form>auto</form>
 <tag>
-<AM lemma="auto" src="auto">NNNS1-----A----</AM>
+<AM lemma="auto" src="auto" selected="1">NNNS1-----A----</AM>
 <AM lemma="auto" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="auto" src="auto">NNNS5-----A----</AM>
 </tag>
@@ -484,7 +484,7 @@
 <AM lemma="technický" src="auto">AAIP5----1A----</AM>
 <AM lemma="technický" src="auto">AAMP4----1A----</AM>
 <AM lemma="technický" src="auto">AANS1----1A----</AM>
-<AM lemma="technický" src="auto">AANS4----1A----</AM>
+<AM lemma="technický" src="auto" selected="1">AANS4----1A----</AM>
 <AM lemma="technický" src="auto">AANS5----1A----</AM>
 </tag>
 </m>
@@ -743,7 +743,7 @@
 <form>stydí</form>
 <tag>
 <AM lemma="stydět" src="auto" recommended="1">VB-P---3P-AAI--</AM>
-<AM lemma="stydět" src="auto">VB-S---3P-AAI--</AM>
+<AM lemma="stydět" src="auto" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-wsj0757-001-p1s4W15-Ta">
@@ -781,7 +781,10 @@
 <LM>w#w-wsj0757-001-p1s5W3</LM>
 </w.rf>
 <form>Gordon</form>
-<tag lemma="Gordon_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Gordon_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Gordon_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0757-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -967,7 +970,10 @@
 <LM>w#w-wsj0757-001-p1s7W15</LM>
 </w.rf>
 <form>programů</form>
-<tag lemma="program-1" src="auto" recommended="1">NNIP2-----A----</tag>
+<tag>
+<AM lemma="program-1" src="auto" recommended="1">NNIP2-----A----</AM>
+<AM lemma="program" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0757-001-p1s7W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1001,7 +1007,10 @@
 <LM>w#w-wsj0757-001-p1s8W3</LM>
 </w.rf>
 <form>Drybred</form>
-<tag lemma="Drybred" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Drybred" src="auto">X@-------------</AM>
+<AM lemma="Drybred_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0757-001-p1s8W4-Ta">
 <src.rf>tagger-a</src.rf>

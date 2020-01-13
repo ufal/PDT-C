@@ -30,6 +30,7 @@
 <tag>
 <AM lemma="Maxtor_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Maxtor_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Maxtor-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2332-001-p1s0W3-Ta">
@@ -38,7 +39,10 @@
 <LM>w#w-wsj2332-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2332-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -727,7 +731,7 @@
 <form>pět</form>
 <tag>
 <AM lemma="pět-2_^(zpívat)" src="auto">Vf--------A-I--</AM>
-<AM lemma="pět-1`5" src="auto">Cn-S1----------</AM>
+<AM lemma="pět-1`5" src="auto" selected="1">Cn-S1----------</AM>
 <AM lemma="pět-1`5" src="auto" recommended="1">Cn-S4----------</AM>
 <AM lemma="pět-1`5" src="auto">Cn-S5----------</AM>
 </tag>
@@ -1058,7 +1062,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSFSXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
+<AM lemma="jeho_^(přivlast.)" src="auto" selected="1">PSXP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSZS1FS3-------</AM>
@@ -1158,7 +1162,7 @@
 <AM lemma="přijatý_^(*3mout)" src="auto">AAFP4----1A----</AM>
 <AM lemma="přijatý_^(*3mout)" src="auto">AAFP5----1A----</AM>
 <AM lemma="přijatý_^(*3mout)" src="auto">AAFS2----1A----</AM>
-<AM lemma="přijatý_^(*3mout)" src="auto">AAFS3----1A----</AM>
+<AM lemma="přijatý_^(*3mout)" src="auto" selected="1">AAFS3----1A----</AM>
 <AM lemma="přijatý_^(*3mout)" src="auto">AAFS6----1A----</AM>
 <AM lemma="přijatý_^(*3mout)" src="auto">AAIP1----1A----</AM>
 <AM lemma="přijatý_^(*3mout)" src="auto">AAIP4----1A----</AM>

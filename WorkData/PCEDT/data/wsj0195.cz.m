@@ -357,7 +357,7 @@
 </w.rf>
 <form>obsazené</form>
 <tag>
-<AM lemma="obsazený_^(*4dit)" src="auto">AAFP1----1A----</AM>
+<AM lemma="obsazený_^(*4dit)" src="auto" selected="1">AAFP1----1A----</AM>
 <AM lemma="obsazený_^(*4dit)" src="auto">AAFP4----1A----</AM>
 <AM lemma="obsazený_^(*4dit)" src="auto">AAFP5----1A----</AM>
 <AM lemma="obsazený_^(*4dit)" src="auto">AAFS2----1A----</AM>

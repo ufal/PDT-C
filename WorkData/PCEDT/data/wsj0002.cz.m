@@ -132,7 +132,10 @@
 <LM>w#w-wsj0002-001-p1s0W8</LM>
 </w.rf>
 <form>Consolidated</form>
-<tag lemma="Consolidated" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Consolidated" src="auto">X@-------------</AM>
+<AM lemma="Consolidated-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0002-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -143,6 +146,7 @@
 <tag>
 <AM lemma="Gold_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Golda_;Y" src="auto">NNFP2-----A----</AM>
+<AM lemma="Gold-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0002-001-p1s0W10-Ta">
@@ -151,7 +155,10 @@
 <LM>w#w-wsj0002-001-p1s0W10</LM>
 </w.rf>
 <form>Fields</form>
-<tag lemma="Fields_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Fields_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Fields-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0002-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>

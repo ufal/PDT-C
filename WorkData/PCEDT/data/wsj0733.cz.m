@@ -24,7 +24,10 @@
 <LM>w#w-wsj0733-001-p1s0W2</LM>
 </w.rf>
 <form>Hersly</form>
-<tag lemma="Hersly" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Hersly" src="auto">X@-------------</AM>
+<AM lemma="Hersly_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0733-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -495,7 +498,10 @@
 <LM>w#w-wsj0733-001-p1s1W8</LM>
 </w.rf>
 <form>Leuberta</form>
-<tag lemma="Leuberta" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Leuberta" src="auto">X@-------------</AM>
+<AM lemma="Leubert_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0733-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -648,7 +654,10 @@
 <LM>w#w-wsj0733-001-p1s2W1</LM>
 </w.rf>
 <form>Hersly</form>
-<tag lemma="Hersly" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Hersly" src="auto">X@-------------</AM>
+<AM lemma="Hersly_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0733-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -772,7 +781,10 @@
 <LM>w#w-wsj0733-001-p1s2W12</LM>
 </w.rf>
 <form>Chyron</form>
-<tag lemma="Chyron" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Chyron" src="auto">X@-------------</AM>
+<AM lemma="Chyron_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0733-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -861,6 +873,7 @@
 <AM lemma="video-1" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="video-1" src="auto">NNNS5-----A----</AM>
 <AM lemma="video-2_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="video-2" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj0733-001-p1s2W20-Ta">

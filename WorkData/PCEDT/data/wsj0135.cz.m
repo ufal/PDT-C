@@ -24,7 +24,10 @@
 <LM>w#w-wsj0135-001-p1s0W2</LM>
 </w.rf>
 <form>Elco</form>
-<tag lemma="Elco" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Elco" src="auto">X@-------------</AM>
+<AM lemma="Elco-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0135-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -32,7 +35,10 @@
 <LM>w#w-wsj0135-001-p1s0W3</LM>
 </w.rf>
 <form>Industries</form>
-<tag lemma="Industries" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Industries" src="auto">X@-------------</AM>
+<AM lemma="Industries-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0135-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,6 +49,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0135-001-p1s0W5-Ta">
@@ -368,6 +375,7 @@
 <tag>
 <AM lemma="Rockford_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Rockford_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Rockford_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0135-001-p1s1W3-Ta">
@@ -395,6 +403,7 @@
 <AM lemma="Illinois" src="auto">NNIS7-----A---1</AM>
 <AM lemma="Illinois_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Illinois_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Illinois-2_;G" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0135-001-p1s1W5-Ta">
@@ -1056,7 +1065,10 @@
 <LM>w#w-wsj0135-001-p1s3W6</LM>
 </w.rf>
 <form>Elco</form>
-<tag lemma="Elco" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Elco" src="auto">X@-------------</AM>
+<AM lemma="Elco_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0135-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1126,6 +1138,11 @@
 <AM lemma="li-2" src="auto" recommended="1">J,-------------</AM>
 <AM lemma="li-99_:B_;S" src="auto">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatný zápis neboli</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0135-001-p1s3W15-Ta">
 <src.rf>tagger-a</src.rf>

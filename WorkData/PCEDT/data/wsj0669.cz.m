@@ -32,6 +32,7 @@
 <AM lemma="Nissan_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="nissan_;R_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="nissan_;R_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Nissan-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0669-001-p1s0W3-Ta">
@@ -43,6 +44,7 @@
 <tag>
 <AM lemma="motor" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="motor" src="auto">NNIS4-----A----</AM>
+<AM lemma="Motor-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0669-001-p1s0W4-Ta">
@@ -59,6 +61,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0669-001-p1s0W5-Ta">
@@ -492,7 +495,10 @@
 <LM>w#w-wsj0669-001-p1s0W40</LM>
 </w.rf>
 <form>Yutaka</form>
-<tag lemma="Yutaka" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Yutaka" src="auto">X@-------------</AM>
+<AM lemma="Yutaka_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0669-001-p1s0W41-Ta">
 <src.rf>tagger-a</src.rf>
@@ -500,7 +506,10 @@
 <LM>w#w-wsj0669-001-p1s0W41</LM>
 </w.rf>
 <form>Kume</form>
-<tag lemma="Kume_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Kume_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Kume_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0669-001-p1s0W42-Ta">
 <src.rf>tagger-a</src.rf>
@@ -518,7 +527,10 @@
 <LM>w#w-wsj0669-001-p1s1W1</LM>
 </w.rf>
 <form>Kume</form>
-<tag lemma="Kume_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Kume_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Kume_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0669-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -674,6 +686,7 @@
 <AM lemma="Tokyo_;G_,s_^(^GC**Tokio)" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Tokyo_;G_,s_^(^GC**Tokio)" src="auto">NNNS4-----A----</AM>
 <AM lemma="Tokyo_;G_,s_^(^GC**Tokio)" src="auto">NNNS5-----A----</AM>
+<AM lemma="Tokyo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0669-001-p1s1W12-Ta">
@@ -685,6 +698,7 @@
 <tag>
 <AM lemma="motor" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="motor" src="auto">NNIS4-----A----</AM>
+<AM lemma="Motor-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0669-001-p1s1W13-Ta">
@@ -693,7 +707,10 @@
 <LM>w#w-wsj0669-001-p1s1W13</LM>
 </w.rf>
 <form>Show</form>
-<tag lemma="show" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="show" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Show-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0669-001-p1s1W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -711,7 +728,7 @@
 <form>odhad</form>
 <tag>
 <AM lemma="odhad" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="odhad" src="auto">NNIS4-----A----</AM>
+<AM lemma="odhad" src="auto" selected="1">NNIS4-----A----</AM>
 <AM lemma="odhadnout" src="auto">VpYS---XR-AAP-6</AM>
 </tag>
 </m>
@@ -1278,7 +1295,10 @@
 <LM>w#w-wsj0669-001-p1s3W1</LM>
 </w.rf>
 <form>Kume</form>
-<tag lemma="Kume_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Kume_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Kume_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0669-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1613,7 +1633,7 @@
 <form>jak</form>
 <tag>
 <AM lemma="jak-1_;L_^(živočich)" src="auto">NNMS1-----A----</AM>
-<AM lemma="jak-2" src="auto">J,-------------</AM>
+<AM lemma="jak-2" src="auto" selected="1">J,-------------</AM>
 <AM lemma="jak-2" src="auto">J^-------------</AM>
 <AM lemma="jak-3" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="jak-99_:B_;S" src="auto">NNXXX-----A----</AM>
@@ -1633,7 +1653,10 @@
 <LM>w#w-wsj0669-001-p1s4W7</LM>
 </w.rf>
 <form>Kume</form>
-<tag lemma="Kume_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Kume_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Kume_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0669-001-p1s4W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2231,7 +2254,7 @@
 <form>tolik</form>
 <tag>
 <AM lemma="tolik-1" src="auto">Ca--1----------</AM>
-<AM lemma="tolik-1" src="auto">Ca--4----------</AM>
+<AM lemma="tolik-1" src="auto" selected="1">Ca--4----------</AM>
 <AM lemma="tolik-3_^(ve_spojení_s_adj.)" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
@@ -2309,7 +2332,7 @@
 <form>vývozu</form>
 <tag>
 <AM lemma="vývoz" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="vývoz" src="auto">NNIS3-----A----</AM>
+<AM lemma="vývoz" src="auto" selected="1">NNIS3-----A----</AM>
 <AM lemma="vývoz" src="auto">NNIS6-----A----</AM>
 </tag>
 </m>

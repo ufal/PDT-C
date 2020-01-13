@@ -30,6 +30,7 @@
 <tag>
 <AM lemma="Newport_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Newport_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Newport-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2088-001-p1s0W3-Ta">
@@ -38,7 +39,10 @@
 <LM>w#w-wsj2088-001-p1s0W3</LM>
 </w.rf>
 <form>Electronics</form>
-<tag lemma="Electronics" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Electronics" src="auto">X@-------------</AM>
+<AM lemma="Electronics-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2088-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -49,6 +53,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2088-001-p1s0W5-Ta">
@@ -78,6 +83,7 @@
 <AM lemma="Santa-3_;Y" src="auto">NNFS1-----A----</AM>
 <AM lemma="Santo_;G_^(Santo_Domingo)" src="auto" recommended="1">NNNS2-----A----</AM>
 <AM lemma="Santa-1_,t_^(Santa_Claus)" src="auto">AAXXX----1A----</AM>
+<AM lemma="Santa-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2088-001-p1s0W8-Ta">
@@ -97,6 +103,7 @@
 <AM lemma="anus" src="auto">NNIP5-----A----</AM>
 <AM lemma="anus" src="auto">NNIP7-----A----</AM>
 <AM lemma="any-77" src="auto">F%-------------</AM>
+<AM lemma="Ana-2_;G" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2088-001-p1s0W9-Ta">
@@ -162,7 +169,10 @@
 <LM>w#w-wsj2088-001-p1s0W14</LM>
 </w.rf>
 <form>Milton</form>
-<tag lemma="Milton_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Milton_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Milton_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2088-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -641,6 +651,11 @@
 </w.rf>
 <form>Hollanderaova</form>
 <tag lemma="Hollanderaova" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Hollanderova</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2088-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -659,7 +674,10 @@
 <LM>w#w-wsj2088-001-p1s1W3</LM>
 </w.rf>
 <form>High</form>
-<tag lemma="High" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="High" src="auto">X@-------------</AM>
+<AM lemma="High-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2088-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -671,6 +689,7 @@
 <AM lemma="technolog" src="auto">NNMP4-----A----</AM>
 <AM lemma="technolog" src="auto">NNMP7-----A----</AM>
 <AM lemma="technology-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Technology-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2088-001-p1s1W5-Ta">
@@ -682,6 +701,7 @@
 <tag>
 <AM lemma="holding" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="holding" src="auto">NNIS4-----A----</AM>
+<AM lemma="Holding-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2088-001-p1s1W6-Ta">
@@ -698,6 +718,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2088-001-p1s1W7-Ta">
@@ -957,6 +978,7 @@
 <tag>
 <AM lemma="Newport_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Newport_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Newport_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2088-001-p1s1W30-Ta">
@@ -1136,6 +1158,7 @@
 <tag>
 <AM lemma="Newport_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Newport_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Newport_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2088-001-p1s2W3-Ta">
@@ -1301,7 +1324,7 @@
 <tag>
 <AM lemma="ten" src="auto">PDNS1----------</AM>
 <AM lemma="ten" src="auto" recommended="1">PDNS4----------</AM>
-<AM lemma="to-1_^(tehdy;to_jsem_byla_ještě_malá)" src="auto">PDXXX----------</AM>
+<AM lemma="to-1_^(tehdy;to_jsem_byla_ještě_malá)" src="auto" selected="1">PDXXX----------</AM>
 <AM lemma="to-9_^(být_s_to)" src="auto">TT-------------</AM>
 <AM lemma="to-77" src="auto">F%-------------</AM>
 </tag>
@@ -1342,7 +1365,10 @@
 <LM>w#w-wsj2088-001-p1s2W22</LM>
 </w.rf>
 <form>Lees</form>
-<tag lemma="Leesa_;Y" src="auto" recommended="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="Leesa_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Lees_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2088-001-p1s2W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1385,6 +1411,7 @@
 <tag>
 <AM lemma="Newport_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Newport_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Newport_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2088-001-p1s2W27-Ta">
@@ -1417,6 +1444,7 @@
 <tag>
 <AM lemma="Newport_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Newport_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Newport_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2088-001-p1s3W3-Ta">
@@ -1752,7 +1780,10 @@
 <LM>w#w-wsj2088-001-p1s4W1</LM>
 </w.rf>
 <form>Barret</form>
-<tag lemma="Barret_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Barret_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Barret_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2088-001-p1s4W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1783,7 +1814,10 @@
 <LM>w#w-wsj2088-001-p1s4W4</LM>
 </w.rf>
 <form>Weekes</form>
-<tag lemma="Weekes" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Weekes" src="auto">X@-------------</AM>
+<AM lemma="Weekes_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2088-001-p1s4W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1826,6 +1860,7 @@
 <tag>
 <AM lemma="Newport_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Newport_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Newport_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2088-001-p1s4W9-Ta">

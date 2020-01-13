@@ -494,6 +494,7 @@
 <AM lemma="Yale_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Yale_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Yale_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Yale_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0433-001-p1s2W2-Ta">
@@ -514,7 +515,10 @@
 <LM>w#w-wsj0433-001-p1s2W3</LM>
 </w.rf>
 <form>Lubkin</form>
-<tag lemma="Lubkin" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Lubkin" src="auto">X@-------------</AM>
+<AM lemma="Lubkin_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="m-wsj0433-001-p1s3">
@@ -524,7 +528,10 @@
 <LM>w#w-wsj0433-001-p1s3W1</LM>
 </w.rf>
 <form>Owings</form>
-<tag lemma="Owings" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Owings" src="auto">X@-------------</AM>
+<AM lemma="Owings-2_;G" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0433-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>

@@ -32,6 +32,7 @@
 <AM lemma="Union" src="auto">NNIS4-----A----</AM>
 <AM lemma="union" src="auto">NNIS1-----A----</AM>
 <AM lemma="union" src="auto">NNIS4-----A----</AM>
+<AM lemma="Union-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1295-001-p1s0W3-Ta">
@@ -40,7 +41,10 @@
 <LM>w#w-wsj1295-001-p1s0W3</LM>
 </w.rf>
 <form>Carbide</form>
-<tag lemma="Carbide" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Carbide" src="auto">X@-------------</AM>
+<AM lemma="Carbide-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1295-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -48,7 +52,10 @@
 <LM>w#w-wsj1295-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1295-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1126,7 +1133,10 @@
 <LM>w#w-wsj1295-001-p1s3W6</LM>
 </w.rf>
 <form>Carbide</form>
-<tag lemma="Carbide" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Carbide" src="auto">X@-------------</AM>
+<AM lemma="Carbide_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1295-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1661,7 +1671,7 @@
 <form>ještě</form>
 <tag>
 <AM lemma="ještě-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="ještě-2" src="auto">TT-------------</AM>
+<AM lemma="ještě-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1295-001-p1s4W8-Ta">
@@ -1842,7 +1852,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>
@@ -1899,7 +1909,7 @@
 </w.rf>
 <form>Určitě</form>
 <tag>
-<AM lemma="určitě-2" src="auto">TT-------------</AM>
+<AM lemma="určitě-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="určitě_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
@@ -2200,7 +2210,10 @@
 <LM>w#w-wsj1295-001-p1s5W29</LM>
 </w.rf>
 <form>Oppenheimer</form>
-<tag lemma="Oppenheimer_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Oppenheimer_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Oppenheimer-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1295-001-p1s5W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2224,6 +2237,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1295-001-p1s5W32-Ta">
@@ -2385,7 +2399,10 @@
 <LM>w#w-wsj1295-001-p1s6W11</LM>
 </w.rf>
 <form>Carbide</form>
-<tag lemma="Carbide" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Carbide" src="auto">X@-------------</AM>
+<AM lemma="Carbide_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1295-001-p1s6W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2395,7 +2412,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>
@@ -2590,7 +2607,7 @@
 <AM lemma="běžný" src="auto">AAIP4----1A---6</AM>
 <AM lemma="běžný" src="auto">AAIP5----1A---6</AM>
 <AM lemma="běžný" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="běžný" src="auto">AAIS4----1A----</AM>
+<AM lemma="běžný" src="auto" selected="1">AAIS4----1A----</AM>
 <AM lemma="běžný" src="auto">AAIS5----1A----</AM>
 <AM lemma="běžný" src="auto">AAMP1----1A---6</AM>
 <AM lemma="běžný" src="auto">AAMP4----1A---6</AM>
@@ -2613,7 +2630,7 @@
 <form>plast</form>
 <tag>
 <AM lemma="plast" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="plast" src="auto">NNIS4-----A----</AM>
+<AM lemma="plast" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1295-001-p1s7W7-Ta">
@@ -2647,7 +2664,7 @@
 <AM lemma="významný" src="auto">AAIP4----1A---6</AM>
 <AM lemma="významný" src="auto">AAIP5----1A---6</AM>
 <AM lemma="významný" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="významný" src="auto">AAIS4----1A----</AM>
+<AM lemma="významný" src="auto" selected="1">AAIS4----1A----</AM>
 <AM lemma="významný" src="auto">AAIS5----1A----</AM>
 <AM lemma="významný" src="auto">AAMP1----1A---6</AM>
 <AM lemma="významný" src="auto">AAMP4----1A---6</AM>
@@ -2670,7 +2687,7 @@
 <form>produkt</form>
 <tag>
 <AM lemma="produkt" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="produkt" src="auto">NNIS4-----A----</AM>
+<AM lemma="produkt" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1295-001-p1s7W10-Ta">
@@ -2692,7 +2709,10 @@
 <LM>w#w-wsj1295-001-p1s7W11</LM>
 </w.rf>
 <form>Carbide</form>
-<tag lemma="Carbide" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Carbide" src="auto">X@-------------</AM>
+<AM lemma="Carbide_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1295-001-p1s7W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2907,7 +2927,7 @@
 <AM lemma="kupující_^(*5ovat)" src="auto">AGNS1-----A----</AM>
 <AM lemma="kupující_^(*5ovat)" src="auto">AGNS4-----A----</AM>
 <AM lemma="kupující_^(*5ovat)" src="auto">AGNS5-----A----</AM>
-<AM lemma="kupující-2" src="auto">NNMP1-----A----</AM>
+<AM lemma="kupující-2" src="auto" selected="1">NNMP1-----A----</AM>
 <AM lemma="kupující-2" src="auto">NNMP4-----A----</AM>
 <AM lemma="kupující-2" src="auto">NNMP5-----A----</AM>
 <AM lemma="kupující-2" src="auto">NNMS1-----A----</AM>
@@ -3000,7 +3020,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -3617,7 +3637,7 @@
 </w.rf>
 <form>vstoupí</form>
 <tag>
-<AM lemma="vstoupit" src="auto">VB-P---3P-AAP--</AM>
+<AM lemma="vstoupit" src="auto" selected="1">VB-P---3P-AAP--</AM>
 <AM lemma="vstoupit" src="auto" recommended="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
@@ -3653,7 +3673,7 @@
 </w.rf>
 <form>nové</form>
 <tag>
-<AM lemma="nový" src="auto">AAFP1----1A----</AM>
+<AM lemma="nový" src="auto" selected="1">AAFP1----1A----</AM>
 <AM lemma="nový" src="auto">AAFP4----1A----</AM>
 <AM lemma="nový" src="auto">AAFP5----1A----</AM>
 <AM lemma="nový" src="auto" recommended="1">AAFS2----1A----</AM>
@@ -3678,7 +3698,7 @@
 </w.rf>
 <form>ceny</form>
 <tag>
-<AM lemma="cena" src="auto">NNFP1-----A----</AM>
+<AM lemma="cena" src="auto" selected="1">NNFP1-----A----</AM>
 <AM lemma="cena" src="auto">NNFP4-----A----</AM>
 <AM lemma="cena" src="auto">NNFP5-----A----</AM>
 <AM lemma="cena" src="auto" recommended="1">NNFS2-----A----</AM>
@@ -3740,7 +3760,10 @@
 <LM>w#w-wsj1295-001-p1s11W3</LM>
 </w.rf>
 <form>Carbide</form>
-<tag lemma="Carbide" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Carbide" src="auto">X@-------------</AM>
+<AM lemma="Carbide_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1295-001-p1s11W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4119,7 +4142,10 @@
 <LM>w#w-wsj1295-001-p1s12W15</LM>
 </w.rf>
 <form>Carbide</form>
-<tag lemma="Carbide" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Carbide" src="auto">X@-------------</AM>
+<AM lemma="Carbide_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1295-001-p1s12W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4917,7 +4943,10 @@
 <LM>w#w-wsj1295-001-p1s15W15</LM>
 </w.rf>
 <form>uretanových</form>
-<tag lemma="uretanových" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="uretanových" src="auto">X@-------------</AM>
+<AM lemma="uretanový" src="manual" selected="1">AAIP2----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj1295-001-p1s15W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4925,7 +4954,10 @@
 <LM>w#w-wsj1295-001-p1s15W16</LM>
 </w.rf>
 <form>polyolů</form>
-<tag lemma="polyolů" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="polyolů" src="auto">X@-------------</AM>
+<AM lemma="polyol" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1295-001-p1s15W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4947,7 +4979,10 @@
 <LM>w#w-wsj1295-001-p1s15W18</LM>
 </w.rf>
 <form>propylénglykolů</form>
-<tag lemma="propylénglykolů" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="propylénglykolů" src="auto">X@-------------</AM>
+<AM lemma="propylénglykol" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1295-001-p1s15W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4965,7 +5000,10 @@
 <LM>w#w-wsj1295-001-p1s16W1</LM>
 </w.rf>
 <form>Propylénglykoly</form>
-<tag lemma="Propylénglykoly" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Propylénglykoly" src="auto">X@-------------</AM>
+<AM lemma="propylénglykol" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1295-001-p1s16W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5136,7 +5174,10 @@
 <LM>w#w-wsj1295-001-p1s16W15</LM>
 </w.rf>
 <form>uretanové</form>
-<tag lemma="uretanové" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="uretanové" src="auto">X@-------------</AM>
+<AM lemma="uretanový" src="manual" selected="1">AAIP1----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj1295-001-p1s16W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5144,7 +5185,10 @@
 <LM>w#w-wsj1295-001-p1s16W16</LM>
 </w.rf>
 <form>polyoly</form>
-<tag lemma="polyoly" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="polyoly" src="auto">X@-------------</AM>
+<AM lemma="polyol" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1295-001-p1s16W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5576,7 +5620,10 @@
 <LM>w#w-wsj1295-001-p1s17W19</LM>
 </w.rf>
 <form>polysilikonů</form>
-<tag lemma="polysilikonů" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="polysilikonů" src="auto">X@-------------</AM>
+<AM lemma="polysilikon" src="manual" selected="1">NNIP2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1295-001-p1s17W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5594,7 +5641,10 @@
 <LM>w#w-wsj1295-001-p1s18W1</LM>
 </w.rf>
 <form>Polysilikony</form>
-<tag lemma="Polysilikony" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Polysilikony" src="auto">X@-------------</AM>
+<AM lemma="polysilikon" src="manual" selected="1">NNIP1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1295-001-p1s18W2-Ta">
 <src.rf>tagger-a</src.rf>

@@ -27,7 +27,10 @@
 <LM>w#w-wsj0915-001-p1s0W2</LM>
 </w.rf>
 <form>Duriron</form>
-<tag lemma="Duriron" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Duriron" src="auto">X@-------------</AM>
+<AM lemma="Duriron-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0915-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,6 +46,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0915-001-p1s0W4-Ta">
@@ -141,7 +145,10 @@
 <LM>w#w-wsj0915-001-p1s0W12</LM>
 </w.rf>
 <form>Automax</form>
-<tag lemma="Automax" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Automax" src="auto">X@-------------</AM>
+<AM lemma="Automax-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0915-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -152,6 +159,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0915-001-p1s0W14-Ta">
@@ -179,7 +187,7 @@
 <tag>
 <AM lemma="výrobce" src="auto">NNMP4-----A----</AM>
 <AM lemma="výrobce" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="výrobce" src="auto">NNMS2-----A----</AM>
+<AM lemma="výrobce" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="výrobce" src="auto">NNMS4-----A----</AM>
 <AM lemma="výrobce" src="auto">NNMS5-----A----</AM>
 </tag>
@@ -192,7 +200,7 @@
 <form>řídicího</form>
 <tag>
 <AM lemma="řídicí" src="auto">AAIS2----1A----</AM>
-<AM lemma="řídicí" src="auto">AAMS2----1A----</AM>
+<AM lemma="řídicí" src="auto" selected="1">AAMS2----1A----</AM>
 <AM lemma="řídicí" src="auto">AAMS4----1A----</AM>
 <AM lemma="řídicí" src="auto" recommended="1">AANS2----1A----</AM>
 </tag>
@@ -211,7 +219,7 @@
 <AM lemma="příslušenství" src="auto">NNNS1-----A----</AM>
 <AM lemma="příslušenství" src="auto" recommended="1">NNNS2-----A----</AM>
 <AM lemma="příslušenství" src="auto">NNNS3-----A----</AM>
-<AM lemma="příslušenství" src="auto">NNNS4-----A----</AM>
+<AM lemma="příslušenství" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="příslušenství" src="auto">NNNS5-----A----</AM>
 <AM lemma="příslušenství" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -364,7 +372,10 @@
 <LM>w#w-wsj0915-001-p1s1W7</LM>
 </w.rf>
 <form>Duriron</form>
-<tag lemma="Duriron" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Duriron" src="auto">X@-------------</AM>
+<AM lemma="Duriron_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0915-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -421,7 +432,7 @@
 <tag>
 <AM lemma="prostřednictví" src="auto">NNNP3-----A----</AM>
 <AM lemma="prostřednictví" src="auto" recommended="1">NNNS7-----A----</AM>
-<AM lemma="prostřednictvím" src="auto">RR--2----------</AM>
+<AM lemma="prostřednictvím" src="auto" selected="1">RR--2----------</AM>
 </tag>
 </m>
 <m id="m-wsj0915-001-p1s1W14-Ta">
@@ -472,7 +483,10 @@
 <LM>w#w-wsj0915-001-p1s2W2</LM>
 </w.rf>
 <form>Automax</form>
-<tag lemma="Automax" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Automax" src="auto">X@-------------</AM>
+<AM lemma="Automax_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0915-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -655,7 +669,10 @@
 <LM>w#w-wsj0915-001-p1s3W2</LM>
 </w.rf>
 <form>Duriron</form>
-<tag lemma="Duriron" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Duriron" src="auto">X@-------------</AM>
+<AM lemma="Duriron_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0915-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>

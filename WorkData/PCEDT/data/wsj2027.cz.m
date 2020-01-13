@@ -53,7 +53,10 @@
 <LM>w#w-wsj2027-001-p1s0W4</LM>
 </w.rf>
 <form>Gaskin</form>
-<tag lemma="Gaskin" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Gaskin" src="auto">X@-------------</AM>
+<AM lemma="Gaskin_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2027-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -546,7 +549,7 @@
 <form>jak</form>
 <tag>
 <AM lemma="jak-1_;L_^(živočich)" src="auto">NNMS1-----A----</AM>
-<AM lemma="jak-2" src="auto">J,-------------</AM>
+<AM lemma="jak-2" src="auto" selected="1">J,-------------</AM>
 <AM lemma="jak-2" src="auto">J^-------------</AM>
 <AM lemma="jak-3" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="jak-99_:B_;S" src="auto">NNXXX-----A----</AM>
@@ -626,7 +629,10 @@
 <LM>w#w-wsj2027-001-p1s2W1</LM>
 </w.rf>
 <form>Gaskin</form>
-<tag lemma="Gaskin" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Gaskin" src="auto">X@-------------</AM>
+<AM lemma="Gaskin_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2027-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -699,7 +705,10 @@
 <LM>w#w-wsj2027-001-p1s2W8</LM>
 </w.rf>
 <form>Taylor</form>
-<tag lemma="Taylor_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Taylor_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Taylor-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2027-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -715,7 +724,10 @@
 <LM>w#w-wsj2027-001-p1s2W10</LM>
 </w.rf>
 <form>Gaskin</form>
-<tag lemma="Gaskin" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Gaskin" src="auto">X@-------------</AM>
+<AM lemma="Gaskin-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2027-001-p1s2W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -726,6 +738,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2027-001-p1s2W12-Ta">
@@ -804,7 +817,10 @@
 <LM>w#w-wsj2027-001-p1s2W19</LM>
 </w.rf>
 <form>Prab</form>
-<tag lemma="Prab" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Prab" src="auto">X@-------------</AM>
+<AM lemma="Prab-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2027-001-p1s2W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -812,7 +828,10 @@
 <LM>w#w-wsj2027-001-p1s2W20</LM>
 </w.rf>
 <form>Robots</form>
-<tag lemma="Robots" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Robots" src="auto">X@-------------</AM>
+<AM lemma="Robots-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2027-001-p1s2W21-Ta">
 <src.rf>tagger-a</src.rf>

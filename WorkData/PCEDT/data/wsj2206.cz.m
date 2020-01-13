@@ -62,7 +62,10 @@
 <LM>w#w-wsj2206-001-p1s0W4</LM>
 </w.rf>
 <form>Nitzeho</form>
-<tag lemma="Nitzeho" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Nitzeho" src="auto">X@-------------</AM>
+<AM lemma="Nitze_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2206-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -286,7 +289,7 @@
 <form>tak</form>
 <tag>
 <AM lemma="taka-1_;L" src="auto">NNFP2-----A----</AM>
-<AM lemma="tak-1" src="auto">TT-------------</AM>
+<AM lemma="tak-1" src="auto" selected="1">TT-------------</AM>
 <AM lemma="tak-2" src="auto" recommended="1">J^-------------</AM>
 <AM lemma="tak-3" src="auto">Db-------------</AM>
 </tag>
@@ -811,7 +814,7 @@
 <form>tak</form>
 <tag>
 <AM lemma="taka-1_;L" src="auto">NNFP2-----A----</AM>
-<AM lemma="tak-1" src="auto">TT-------------</AM>
+<AM lemma="tak-1" src="auto" selected="1">TT-------------</AM>
 <AM lemma="tak-2" src="auto" recommended="1">J^-------------</AM>
 <AM lemma="tak-3" src="auto">Db-------------</AM>
 </tag>
@@ -1165,7 +1168,10 @@
 <LM>w#w-wsj2206-001-p1s3W2</LM>
 </w.rf>
 <form>Tremdine</form>
-<tag lemma="Tremdine" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Tremdine" src="auto">X@-------------</AM>
+<AM lemma="Tremdine_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

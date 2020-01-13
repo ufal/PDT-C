@@ -205,7 +205,7 @@
 <AM lemma="strojírenský" src="auto">AAFS3----1A----</AM>
 <AM lemma="strojírenský" src="auto">AAFS6----1A----</AM>
 <AM lemma="strojírenský" src="auto" recommended="1">AAIP1----1A----</AM>
-<AM lemma="strojírenský" src="auto">AAIP4----1A----</AM>
+<AM lemma="strojírenský" src="auto" selected="1">AAIP4----1A----</AM>
 <AM lemma="strojírenský" src="auto">AAIP5----1A----</AM>
 <AM lemma="strojírenský" src="auto">AAMP4----1A----</AM>
 <AM lemma="strojírenský" src="auto">AANS1----1A----</AM>
@@ -221,7 +221,7 @@
 <form>nástroje</form>
 <tag>
 <AM lemma="nástroj" src="auto" recommended="1">NNIP1-----A----</AM>
-<AM lemma="nástroj" src="auto">NNIP4-----A----</AM>
+<AM lemma="nástroj" src="auto" selected="1">NNIP4-----A----</AM>
 <AM lemma="nástroj" src="auto">NNIP5-----A----</AM>
 <AM lemma="nástroj" src="auto">NNIS2-----A----</AM>
 </tag>
@@ -250,7 +250,7 @@
 <AM lemma="zařízení_^(*4dit)" src="auto">NNNS1-----A----</AM>
 <AM lemma="zařízení_^(*4dit)" src="auto">NNNS2-----A----</AM>
 <AM lemma="zařízení_^(*4dit)" src="auto">NNNS3-----A----</AM>
-<AM lemma="zařízení_^(*4dit)" src="auto">NNNS4-----A----</AM>
+<AM lemma="zařízení_^(*4dit)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="zařízení_^(*4dit)" src="auto">NNNS5-----A----</AM>
 <AM lemma="zařízení_^(*4dit)" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -457,7 +457,7 @@
 <tag>
 <AM lemma="taka-1_;L" src="auto">NNFP2-----A----</AM>
 <AM lemma="tak-1" src="auto">TT-------------</AM>
-<AM lemma="tak-2" src="auto">J^-------------</AM>
+<AM lemma="tak-2" src="auto" selected="1">J^-------------</AM>
 <AM lemma="tak-3" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
@@ -504,7 +504,10 @@
 <LM>w#w-wsj0212-001-p1s0W42</LM>
 </w.rf>
 <form>Entrekina</form>
-<tag lemma="Entrekina" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Entrekina" src="auto">X@-------------</AM>
+<AM lemma="Entrekina_;S" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0212-001-p1s0W43-Ta">
 <src.rf>tagger-a</src.rf>

@@ -30,6 +30,7 @@
 <tag>
 <AM lemma="Bell_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bella_;Y_,t" src="auto">NNFP2-----A----</AM>
+<AM lemma="BELL-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0202-001-p1s0W3-Ta">
@@ -38,7 +39,10 @@
 <LM>w#w-wsj0202-001-p1s0W3</LM>
 </w.rf>
 <form>INDUSTRIES</form>
-<tag lemma="INDUSTRIES" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="INDUSTRIES" src="auto">X@-------------</AM>
+<AM lemma="INDUSTRIES-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0202-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -49,6 +53,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0202-001-p1s0W5-Ta">
@@ -321,7 +326,7 @@
 <form>únoru</form>
 <tag>
 <AM lemma="únor" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="únor" src="auto">NNIS3-----A----</AM>
+<AM lemma="únor" src="auto" selected="1">NNIS3-----A----</AM>
 <AM lemma="únor" src="auto">NNIS6-----A----</AM>
 </tag>
 </m>

@@ -31,6 +31,7 @@
 <AM lemma="Diamond-1_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Diamond-1_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="Diamond-2_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Diamond-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2312-001-p1s0W3-Ta">
@@ -39,7 +40,10 @@
 <LM>w#w-wsj2312-001-p1s0W3</LM>
 </w.rf>
 <form>Shamrock</form>
-<tag lemma="Shamrock" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Shamrock" src="auto">X@-------------</AM>
+<AM lemma="Shamrock-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2312-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -47,7 +51,10 @@
 <LM>w#w-wsj2312-001-p1s0W4</LM>
 </w.rf>
 <form>Offshore</form>
-<tag lemma="Offshore" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Offshore" src="auto">X@-------------</AM>
+<AM lemma="Offshore-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2312-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -55,7 +62,10 @@
 <LM>w#w-wsj2312-001-p1s0W5</LM>
 </w.rf>
 <form>Partners</form>
-<tag lemma="Partners" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Partners" src="auto">X@-------------</AM>
+<AM lemma="Partners-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2312-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -306,7 +316,15 @@
 <LM>w#w-wsj2312-001-p1s1W13</LM>
 </w.rf>
 <form>64palcových</form>
-<tag lemma="64palcových" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="64palcových" src="auto">X@-------------</AM>
+<AM lemma="64palcový" src="manual" selected="1">AAIP2----1A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2312-001-p1s1W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -416,6 +434,7 @@
 <AM lemma="Diamond-1_;K" src="auto">NNIS1-----A----</AM>
 <AM lemma="Diamond-1_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="Diamond-2_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Diamond-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2312-001-p1s2W3-Ta">
@@ -424,7 +443,10 @@
 <LM>w#w-wsj2312-001-p1s2W3</LM>
 </w.rf>
 <form>Shamrock</form>
-<tag lemma="Shamrock" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Shamrock" src="auto">X@-------------</AM>
+<AM lemma="Shamrock-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2312-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -560,6 +582,7 @@
 <AM lemma="Diamond-1_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Diamond-1_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="Diamond-2_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Diamond-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2312-001-p1s3W4-Ta">
@@ -568,7 +591,10 @@
 <LM>w#w-wsj2312-001-p1s3W4</LM>
 </w.rf>
 <form>Shamrock</form>
-<tag lemma="Shamrock" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Shamrock" src="auto">X@-------------</AM>
+<AM lemma="Shamrock-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2312-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -576,7 +602,10 @@
 <LM>w#w-wsj2312-001-p1s3W5</LM>
 </w.rf>
 <form>Offshore</form>
-<tag lemma="Offshore" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Offshore" src="auto">X@-------------</AM>
+<AM lemma="Offshore-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2312-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>

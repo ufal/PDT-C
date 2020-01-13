@@ -30,6 +30,7 @@
 <tag>
 <AM lemma="standard" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="standard" src="auto">NNIS4-----A----</AM>
+<AM lemma="Standard-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0143-001-p1s0W3-Ta">
@@ -46,7 +47,10 @@
 <LM>w#w-wsj0143-001-p1s0W4</LM>
 </w.rf>
 <form>Poor</form>
-<tag lemma="Poor" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Poor" src="auto">X@-------------</AM>
+<AM lemma="Poor-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0143-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -75,6 +79,7 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0143-001-p1s0W7-Ta">
@@ -201,6 +206,7 @@
 <AM lemma="CC-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="Cc-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="cc-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="CC-33_^(označení_pomocí_písmen)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0143-001-p1s0W19-Ta">
@@ -224,6 +230,7 @@
 <tag>
 <AM lemma="CCC-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="chlorcholinchlorid_:B_;H" src="auto">NNIXX-----A---8</AM>
+<AM lemma="CCC-33_^(označení_pomocí_písmen)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0143-001-p1s0W21-Ta">

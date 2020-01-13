@@ -90,6 +90,7 @@
 <AM lemma="jet-2_,h_^(letadlo_s_tryskovým_pohonem)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jet-2_,h_^(letadlo_s_tryskovým_pohonem)" src="auto">NNIS4-----A----</AM>
 <AM lemma="jet-99_:B_;S" src="auto">NNXXX-----A----</AM>
+<AM lemma="Jet-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1498-001-p1s0W9-Ta">
@@ -98,7 +99,10 @@
 <LM>w#w-wsj1498-001-p1s0W9</LM>
 </w.rf>
 <form>Vacations</form>
-<tag lemma="Vacations" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Vacations" src="auto">X@-------------</AM>
+<AM lemma="Vacations-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1498-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -109,6 +113,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1498-001-p1s0W11-Ta">

@@ -35,7 +35,10 @@
 <LM>w#w-wsj0372-001-p1s0W3</LM>
 </w.rf>
 <form>Communications</form>
-<tag lemma="Communications" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Communications" src="auto">X@-------------</AM>
+<AM lemma="Communications-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0372-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,7 +46,10 @@
 <LM>w#w-wsj0372-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0372-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -94,7 +100,15 @@
 <LM>w#w-wsj0372-001-p1s0W10</LM>
 </w.rf>
 <form>27milionový</form>
-<tag lemma="27milionový" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="27milionový" src="auto">X@-------------</AM>
+<AM lemma="27milionový_,s_^(^DD**27miliónový)" src="manual" selected="1">AAIS4----1A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0372-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -130,6 +144,7 @@
 <AM lemma="Stuart_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Stuart_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Stuart_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Stuart-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0372-001-p1s0W14-Ta">
@@ -146,7 +161,10 @@
 <LM>w#w-wsj0372-001-p1s0W15</LM>
 </w.rf>
 <form>James</form>
-<tag lemma="James_;S_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="James_;S_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="James-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0372-001-p1s0W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -162,6 +180,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0372-001-p1s0W17-Ta">
@@ -583,7 +602,10 @@
 <LM>w#w-wsj0372-001-p1s1W13</LM>
 </w.rf>
 <form>Vnet</form>
-<tag lemma="Vnet" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Vnet" src="auto">X@-------------</AM>
+<AM lemma="Vnet_;R" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0372-001-p1s1W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -731,7 +753,7 @@
 </w.rf>
 <form>Společnosti</form>
 <tag>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFP1-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFP1-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS2-----A----</AM>
@@ -747,7 +769,7 @@
 </w.rf>
 <form>nesdělí</form>
 <tag>
-<AM lemma="sdělit" src="auto">VB-P---3P-NAP--</AM>
+<AM lemma="sdělit" src="auto" selected="1">VB-P---3P-NAP--</AM>
 <AM lemma="sdělit" src="auto" recommended="1">VB-S---3P-NAP--</AM>
 </tag>
 </m>

@@ -27,7 +27,10 @@
 <LM>w#w-wsj2266-001-p1s1W2</LM>
 </w.rf>
 <form>Knight</form>
-<tag lemma="Knight_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Knight_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Knight-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2266-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,7 +46,10 @@
 <LM>w#w-wsj2266-001-p1s1W4</LM>
 </w.rf>
 <form>Ridder</form>
-<tag lemma="Ridder" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ridder" src="auto">X@-------------</AM>
+<AM lemma="Ridder-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2266-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -54,6 +60,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2266-001-p1s1W6-Ta">
@@ -99,7 +106,7 @@
 <form>ohlásí</form>
 <tag>
 <AM lemma="ohlásit" src="auto" recommended="1">VB-P---3P-AAP--</AM>
-<AM lemma="ohlásit" src="auto">VB-S---3P-AAP--</AM>
+<AM lemma="ohlásit" src="auto" selected="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m-wsj2266-001-p1s1W11-Ta">
@@ -120,7 +127,7 @@
 <AM lemma="velký" src="auto">AAFS6----2A----</AM>
 <AM lemma="velký" src="auto">AAFS7----2A----</AM>
 <AM lemma="velký" src="auto" recommended="1">AAIP1----2A----</AM>
-<AM lemma="velký" src="auto">AAIP4----2A----</AM>
+<AM lemma="velký" src="auto" selected="1">AAIP4----2A----</AM>
 <AM lemma="velký" src="auto">AAIP5----2A----</AM>
 <AM lemma="velký" src="auto">AAIS1----2A----</AM>
 <AM lemma="velký" src="auto">AAIS4----2A----</AM>
@@ -148,7 +155,7 @@
 <form>výnosy</form>
 <tag>
 <AM lemma="výnos" src="auto" recommended="1">NNIP1-----A----</AM>
-<AM lemma="výnos" src="auto">NNIP4-----A----</AM>
+<AM lemma="výnos" src="auto" selected="1">NNIP4-----A----</AM>
 <AM lemma="výnos" src="auto">NNIP5-----A----</AM>
 <AM lemma="výnos" src="auto">NNIP7-----A----</AM>
 </tag>
@@ -260,7 +267,10 @@
 <LM>w#w-wsj2266-001-p1s1W19</LM>
 </w.rf>
 <form>narozdíl</form>
-<tag lemma="narozdíl_,x" src="auto" recommended="1">RF-------------</tag>
+<tag>
+<AM lemma="narozdíl_,x" src="auto" recommended="1">RF-------------</AM>
+<AM lemma="narozdíl_,h" src="manual" selected="1">RF-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2266-001-p1s1W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -401,7 +411,7 @@
 <AM lemma="nízký" src="auto">AAFS5----2A----</AM>
 <AM lemma="nízký" src="auto">AAFS6----2A----</AM>
 <AM lemma="nízký" src="auto">AAFS7----2A----</AM>
-<AM lemma="nízký" src="auto">AAIP1----2A----</AM>
+<AM lemma="nízký" src="auto" selected="1">AAIP1----2A----</AM>
 <AM lemma="nízký" src="auto">AAIP4----2A----</AM>
 <AM lemma="nízký" src="auto">AAIP5----2A----</AM>
 <AM lemma="nízký" src="auto">AAIS1----2A----</AM>
@@ -674,7 +684,10 @@
 <LM>w#w-wsj2266-001-p1s2W20</LM>
 </w.rf>
 <form>Knight</form>
-<tag lemma="Knight_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Knight_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Knight-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2266-001-p1s2W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -690,7 +703,10 @@
 <LM>w#w-wsj2266-001-p1s2W22</LM>
 </w.rf>
 <form>Ridder</form>
-<tag lemma="Ridder" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ridder" src="auto">X@-------------</AM>
+<AM lemma="Ridder-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2266-001-p1s2W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1125,7 +1141,10 @@
 <LM>w#w-wsj2266-001-p1s3W3</LM>
 </w.rf>
 <form>Knight</form>
-<tag lemma="Knight_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Knight_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Knight-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2266-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1141,7 +1160,10 @@
 <LM>w#w-wsj2266-001-p1s3W5</LM>
 </w.rf>
 <form>Ridder</form>
-<tag lemma="Ridder" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ridder" src="auto">X@-------------</AM>
+<AM lemma="Ridder-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2266-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1312,7 +1334,7 @@
 <form>což</form>
 <tag>
 <AM lemma="což-1" src="auto" recommended="1">PE--1----------</AM>
-<AM lemma="což-1" src="auto">PE--4----------</AM>
+<AM lemma="což-1" src="auto" selected="1">PE--4----------</AM>
 <AM lemma="což-2_^(cožpak:_což_jsem_to_neříkal?)" src="auto">TT-------------</AM>
 <AM lemma="což-3_^(nu_což,_...;_což_o_to,_...)" src="auto">II-------------</AM>
 </tag>
@@ -1864,7 +1886,7 @@
 <AM lemma="který" src="auto">P4NP4---------6</AM>
 <AM lemma="který" src="auto">P4NS1----------</AM>
 <AM lemma="který" src="auto">P4NS4----------</AM>
-<AM lemma="který" src="auto">P4YP4----------</AM>
+<AM lemma="který" src="auto" selected="1">P4YP4----------</AM>
 </tag>
 </m>
 <m id="m-wsj2266-001-p1s4W38-Ta">
@@ -1997,7 +2019,10 @@
 <LM>w#w-wsj2266-001-p1s5W2</LM>
 </w.rf>
 <form>Knight</form>
-<tag lemma="Knight_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Knight_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Knight-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2266-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2013,7 +2038,10 @@
 <LM>w#w-wsj2266-001-p1s5W4</LM>
 </w.rf>
 <form>Ridder</form>
-<tag lemma="Ridder" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ridder" src="auto">X@-------------</AM>
+<AM lemma="Ridder-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2266-001-p1s5W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2519,7 +2547,10 @@
 <LM>w#w-wsj2266-001-p1s6W11</LM>
 </w.rf>
 <form>Knight</form>
-<tag lemma="Knight_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Knight_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Knight-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2266-001-p1s6W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2535,7 +2566,10 @@
 <LM>w#w-wsj2266-001-p1s6W13</LM>
 </w.rf>
 <form>Ridder</form>
-<tag lemma="Ridder" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ridder" src="auto">X@-------------</AM>
+<AM lemma="Ridder-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2266-001-p1s6W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2553,7 +2587,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>

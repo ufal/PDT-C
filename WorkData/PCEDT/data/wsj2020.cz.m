@@ -56,6 +56,7 @@
 <tag>
 <AM lemma="Jelenice_;G" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="jelenice" src="auto">NNFP2-----A----</AM>
+<AM lemma="Jelenic_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2020-001-p1s0W5-Ta">
@@ -342,6 +343,7 @@
 <tag>
 <AM lemma="Jelenice_;G" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="jelenice" src="auto">NNFP2-----A----</AM>
+<AM lemma="Jelenic_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2020-001-p1s2W2-Ta">
@@ -425,7 +427,10 @@
 <LM>w#w-wsj2020-001-p1s3W1</LM>
 </w.rf>
 <form>Ralph</form>
-<tag lemma="Ralph_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Ralph_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Ralph_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2020-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -436,6 +441,7 @@
 <tag>
 <AM lemma="Ingersoll_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Ingersoll_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Ingersoll-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2020-001-p1s3W3-Ta">
@@ -714,7 +720,10 @@
 <LM>w#w-wsj2020-001-p1s4W2</LM>
 </w.rf>
 <form>Wilpers</form>
-<tag lemma="Wilpers" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Wilpers" src="auto">X@-------------</AM>
+<AM lemma="Wilpers_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2020-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -792,6 +801,7 @@
 <tag>
 <AM lemma="Ingersoll_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Ingersoll_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Ingersoll-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2020-001-p1s5W3-Ta">
@@ -844,6 +854,7 @@
 <AM lemma="stupeň_:B" src="auto">NNIXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="středa" src="auto">NNFXX-----A---8</AM>
+<AM lemma="St-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2020-001-p1s5W7-Ta">
@@ -866,6 +877,7 @@
 <AM lemma="Louis-2_;G_^(př._St._Louis)" src="auto">NNIS4-----A----</AM>
 <AM lemma="Louis-3_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Louisa_;Y_,t" src="auto">NNFP2-----A----</AM>
+<AM lemma="Louis-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2020-001-p1s5W9-Ta">
@@ -881,6 +893,7 @@
 <AM lemma="sun" src="auto">NNIS1-----A----</AM>
 <AM lemma="sun" src="auto">NNIS4-----A----</AM>
 <AM lemma="sunna_,t_,x_^(ústní_podání_Mohamedových_činů)" src="auto">NNFP2-----A----</AM>
+<AM lemma="Sun-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2020-001-p1s5W10-Ta">
@@ -981,7 +994,10 @@
 <LM>w#w-wsj2020-001-p1s6W3</LM>
 </w.rf>
 <form>Jean</form>
-<tag lemma="Jean_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Jean_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Jean-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2020-001-p1s6W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1012,7 +1028,10 @@
 <LM>w#w-wsj2020-001-p1s6W6</LM>
 </w.rf>
 <form>Cliftonová</form>
-<tag lemma="Cliftonová" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Cliftonová" src="auto">X@-------------</AM>
+<AM lemma="Cliftonová_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2020-001-p1s6W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1285,7 +1304,10 @@
 <LM>w#w-wsj2020-001-p1s8W2</LM>
 </w.rf>
 <form>Cliftonová</form>
-<tag lemma="Cliftonová" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Cliftonová" src="auto">X@-------------</AM>
+<AM lemma="Cliftonová_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2020-001-p1s8W3-Ta">
 <src.rf>tagger-a</src.rf>

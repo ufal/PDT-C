@@ -27,7 +27,10 @@
 <LM>w#w-wsj0177-001-p1s0W2</LM>
 </w.rf>
 <form>Komatsu</form>
-<tag lemma="Komatsu_;G" src="auto" recommended="1">NNNSX-----A----</tag>
+<tag>
+<AM lemma="Komatsu_;G" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Komatsu-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0177-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj0177-001-p1s0W3</LM>
 </w.rf>
 <form>Ltd</form>
-<tag lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Ltd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0177-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -519,6 +525,11 @@
 </w.rf>
 <form>milardy</form>
 <tag lemma="milardy" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>miliardy</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0177-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -615,6 +626,11 @@
 </w.rf>
 <form>milard</form>
 <tag lemma="milard" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>miliard</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0177-001-p1s1W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -754,6 +770,11 @@
 </w.rf>
 <form>milard</form>
 <tag lemma="milard" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>miliard</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0177-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -791,6 +812,11 @@
 </w.rf>
 <form>milard</form>
 <tag lemma="milard" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>miliard</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0177-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -934,6 +960,11 @@
 </w.rf>
 <form>milard</form>
 <tag lemma="milard" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>miliard</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0177-001-p1s3W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1112,7 +1143,7 @@
 <LM>w#w-wsj0177-001-p1s5W1</LM>
 </w.rf>
 <form>Následkem</form>
-<tag lemma="následek" src="auto" recommended="1">NNIS7-----A----</tag>
+<tag lemma="následek" src="auto" recommended="1" selected="1">NNIS7-----A----</tag>
 </m>
 <m id="m-wsj0177-001-p1s5W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1121,6 +1152,11 @@
 </w.rf>
 <form>zvyšujjících</form>
 <tag lemma="zvyšujjících" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>zvyšujících</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0177-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1469,6 +1505,11 @@
 </w.rf>
 <form>milard</form>
 <tag lemma="milard" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>miliard</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0177-001-p1s6W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1870,7 +1911,10 @@
 <LM>w#w-wsj0177-001-p1s8W3</LM>
 </w.rf>
 <form>Komatsu</form>
-<tag lemma="Komatsu_;G" src="auto" recommended="1">NNNSX-----A----</tag>
+<tag>
+<AM lemma="Komatsu_;G" src="auto" recommended="1">NNNSX-----A----</AM>
+<AM lemma="Komatsu_;G_;K" src="manual" selected="1">NNNSX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0177-001-p1s8W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2115,6 +2159,11 @@
 </w.rf>
 <form>milard</form>
 <tag lemma="milard" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>miliard</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0177-001-p1s8W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2197,7 +2246,7 @@
 </w.rf>
 <form>nárůst</form>
 <tag>
-<AM lemma="nárůst" src="auto">NNIS1-----A----</AM>
+<AM lemma="nárůst" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="nárůst" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -2232,6 +2281,11 @@
 </w.rf>
 <form>milard</form>
 <tag lemma="milard" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>miliard</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0177-001-p1s8W39-Ta">
 <src.rf>tagger-a</src.rf>

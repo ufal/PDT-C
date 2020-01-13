@@ -1023,7 +1023,7 @@
 <LM>w#w-wsj2152-001-p1s2W24</LM>
 </w.rf>
 <form>.</form>
-<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+<tag lemma="." src="auto" recommended="1" selected="1">Z:-------------</tag>
 </m>
 </s>
 </mdata>

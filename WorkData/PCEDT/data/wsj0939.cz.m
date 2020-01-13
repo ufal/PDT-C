@@ -146,7 +146,7 @@
 </w.rf>
 <form>zjevně</form>
 <tag>
-<AM lemma="zjevně-2" src="auto">TT-------------</AM>
+<AM lemma="zjevně-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="zjevně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
@@ -305,6 +305,7 @@
 <tag>
 <AM lemma="Hoechst_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Hoechst_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Hoechst-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0939-001-p1s1W4-Ta">
@@ -314,7 +315,7 @@
 </w.rf>
 <form>AG</form>
 <tag>
-<AM lemma="AG-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="AG-88_:B" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 <AM lemma="Ag_:B_^(stříbro)" src="auto">NNXXX-----A----</AM>
 <AM lemma="Aga_;Y" src="auto">NNFP2-----A----</AM>
 </tag>
@@ -336,6 +337,7 @@
 <tag>
 <AM lemma="Hilger_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Hilger_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Hilger-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0939-001-p1s1W7-Ta">
@@ -538,7 +540,7 @@
 <form>freony</form>
 <tag>
 <AM lemma="freon" src="auto" recommended="1">NNIP1-----A----</AM>
-<AM lemma="freon" src="auto">NNIP4-----A----</AM>
+<AM lemma="freon" src="auto" selected="1">NNIP4-----A----</AM>
 <AM lemma="freon" src="auto">NNIP5-----A----</AM>
 <AM lemma="freon" src="auto">NNIP7-----A----</AM>
 </tag>
@@ -561,7 +563,7 @@
 <AM lemma="ničící_^(*3it)" src="auto">AGFS6-----A----</AM>
 <AM lemma="ničící_^(*3it)" src="auto">AGFS7-----A----</AM>
 <AM lemma="ničící_^(*3it)" src="auto" recommended="1">AGIP1-----A----</AM>
-<AM lemma="ničící_^(*3it)" src="auto">AGIP4-----A----</AM>
+<AM lemma="ničící_^(*3it)" src="auto" selected="1">AGIP4-----A----</AM>
 <AM lemma="ničící_^(*3it)" src="auto">AGIP5-----A----</AM>
 <AM lemma="ničící_^(*3it)" src="auto">AGIS1-----A----</AM>
 <AM lemma="ničící_^(*3it)" src="auto">AGIS4-----A----</AM>
@@ -905,6 +907,7 @@
 <tag>
 <AM lemma="Hilger_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Hilger_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Hilger-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0939-001-p1s3W2-Ta">
@@ -1166,7 +1169,7 @@
 <AM lemma="který" src="auto">P4NS4---------6</AM>
 <AM lemma="který" src="auto">P4XP1---------6</AM>
 <AM lemma="který" src="auto">P4XP4---------6</AM>
-<AM lemma="který" src="auto">P4YS1----------</AM>
+<AM lemma="který" src="auto" selected="1">P4YS1----------</AM>
 </tag>
 </m>
 <m id="m-wsj0939-001-p1s3W27-Ta">
@@ -1928,7 +1931,10 @@
 <LM>w#w-wsj0939-001-p1s7W6</LM>
 </w.rf>
 <form>BASF</form>
-<tag lemma="Basf_:B_;K" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Basf_:B_;K" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="BASF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0939-001-p1s7W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1937,7 +1943,7 @@
 </w.rf>
 <form>AG</form>
 <tag>
-<AM lemma="AG-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="AG-88_:B" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
 <AM lemma="Ag_:B_^(stříbro)" src="auto">NNXXX-----A----</AM>
 <AM lemma="Aga_;Y" src="auto">NNFP2-----A----</AM>
 </tag>

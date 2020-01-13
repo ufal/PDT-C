@@ -30,6 +30,7 @@
 <tag>
 <AM lemma="Texas_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Texas_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Texas-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0017-001-p1s0W3-Ta">
@@ -38,7 +39,10 @@
 <LM>w#w-wsj0017-001-p1s0W3</LM>
 </w.rf>
 <form>Instruments</form>
-<tag lemma="Instruments" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Instruments" src="auto">X@-------------</AM>
+<AM lemma="Instruments-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0017-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -49,6 +53,7 @@
 <tag>
 <AM lemma="japan" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="japan" src="auto">NNIS4-----A----</AM>
+<AM lemma="Japan-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0017-001-p1s0W5-Ta">
@@ -57,7 +62,10 @@
 <LM>w#w-wsj0017-001-p1s0W5</LM>
 </w.rf>
 <form>Ltd</form>
-<tag lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Ltd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0017-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -111,6 +119,7 @@
 <tag>
 <AM lemma="Texas_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Texas_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Texas-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0017-001-p1s0W11-Ta">
@@ -122,6 +131,7 @@
 <tag>
 <AM lemma="instrument" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="instrument" src="auto">NNIS4-----A----</AM>
+<AM lemma="Instrument-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0017-001-p1s0W12-Ta">
@@ -133,6 +143,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0017-001-p1s0W13-Ta">
@@ -455,7 +466,10 @@
 <LM>w#w-wsj0017-001-p1s1W10</LM>
 </w.rf>
 <form>Chinchonu</form>
-<tag lemma="Chinchonu" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Chinchonu" src="auto">X@-------------</AM>
+<AM lemma="Chinchon_;G" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0017-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -618,7 +632,7 @@
 <AM lemma="rozrůzňující_^(*5ovat)" src="auto">AGFP5-----A----</AM>
 <AM lemma="rozrůzňující_^(*5ovat)" src="auto">AGFS1-----A----</AM>
 <AM lemma="rozrůzňující_^(*5ovat)" src="auto">AGFS2-----A----</AM>
-<AM lemma="rozrůzňující_^(*5ovat)" src="auto">AGFS3-----A----</AM>
+<AM lemma="rozrůzňující_^(*5ovat)" src="auto" selected="1">AGFS3-----A----</AM>
 <AM lemma="rozrůzňující_^(*5ovat)" src="auto">AGFS4-----A----</AM>
 <AM lemma="rozrůzňující_^(*5ovat)" src="auto">AGFS5-----A----</AM>
 <AM lemma="rozrůzňující_^(*5ovat)" src="auto">AGFS6-----A----</AM>

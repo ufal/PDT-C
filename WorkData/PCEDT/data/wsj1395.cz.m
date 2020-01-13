@@ -27,7 +27,10 @@
 <LM>w#w-wsj1395-001-p1s0W2</LM>
 </w.rf>
 <form>Harsco</form>
-<tag lemma="Harsco" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Harsco" src="auto">X@-------------</AM>
+<AM lemma="Harsco-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1395-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1395-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1395-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -363,7 +369,10 @@
 <LM>w#w-wsj1395-001-p1s1W2</LM>
 </w.rf>
 <form>Harsco</form>
-<tag lemma="Harsco" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Harsco" src="auto">X@-------------</AM>
+<AM lemma="Harsco_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1395-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -778,7 +787,7 @@
 <AM lemma="další" src="auto">AAIP6----1A----</AM>
 <AM lemma="další" src="auto">AAMP2----1A----</AM>
 <AM lemma="další" src="auto">AAMP6----1A----</AM>
-<AM lemma="další" src="auto">AANP2----1A----</AM>
+<AM lemma="další" src="auto" selected="1">AANP2----1A----</AM>
 <AM lemma="další" src="auto">AANP6----1A----</AM>
 </tag>
 </m>
@@ -886,7 +895,10 @@
 <LM>w#w-wsj1395-001-p1s4W2</LM>
 </w.rf>
 <form>Harsco</form>
-<tag lemma="Harsco" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Harsco" src="auto">X@-------------</AM>
+<AM lemma="Harsco_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1395-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>

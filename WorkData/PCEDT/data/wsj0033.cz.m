@@ -694,7 +694,7 @@
 <form>přijímané</form>
 <tag>
 <AM lemma="přijímaný_^(*2t)" src="auto">AAFP1----1A----</AM>
-<AM lemma="přijímaný_^(*2t)" src="auto">AAFP4----1A----</AM>
+<AM lemma="přijímaný_^(*2t)" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="přijímaný_^(*2t)" src="auto">AAFP5----1A----</AM>
 <AM lemma="přijímaný_^(*2t)" src="auto">AAFS2----1A----</AM>
 <AM lemma="přijímaný_^(*2t)" src="auto">AAFS3----1A----</AM>

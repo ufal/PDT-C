@@ -35,7 +35,10 @@
 <LM>w#w-wsj0659-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0659-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -69,7 +72,7 @@
 <AM lemma="počítačový" src="auto">AAIP1----1A---6</AM>
 <AM lemma="počítačový" src="auto">AAIP4----1A---6</AM>
 <AM lemma="počítačový" src="auto">AAIP5----1A---6</AM>
-<AM lemma="počítačový" src="auto">AAIS1----1A----</AM>
+<AM lemma="počítačový" src="auto" selected="1">AAIS1----1A----</AM>
 <AM lemma="počítačový" src="auto" recommended="1">AAIS4----1A----</AM>
 <AM lemma="počítačový" src="auto">AAIS5----1A----</AM>
 <AM lemma="počítačový" src="auto">AAMP1----1A---6</AM>
@@ -115,7 +118,7 @@
 <AM lemma="elektronický" src="auto">AAIP1----1A---6</AM>
 <AM lemma="elektronický" src="auto">AAIP4----1A---6</AM>
 <AM lemma="elektronický" src="auto">AAIP5----1A---6</AM>
-<AM lemma="elektronický" src="auto">AAIS1----1A----</AM>
+<AM lemma="elektronický" src="auto" selected="1">AAIS1----1A----</AM>
 <AM lemma="elektronický" src="auto" recommended="1">AAIS4----1A----</AM>
 <AM lemma="elektronický" src="auto">AAIS5----1A----</AM>
 <AM lemma="elektronický" src="auto">AAMP1----1A---6</AM>
@@ -138,7 +141,7 @@
 </w.rf>
 <form>koncern</form>
 <tag>
-<AM lemma="koncern" src="auto">NNIS1-----A----</AM>
+<AM lemma="koncern" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="koncern" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -532,7 +535,7 @@
 <tag>
 <AM lemma="loňský" src="auto" recommended="1">AAFP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAFP6----1A----</AM>
-<AM lemma="loňský" src="auto">AAIP2----1A----</AM>
+<AM lemma="loňský" src="auto" selected="1">AAIP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAIP6----1A----</AM>
 <AM lemma="loňský" src="auto">AAMP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAMP6----1A----</AM>
@@ -2038,7 +2041,7 @@
 <form>tržby</form>
 <tag>
 <AM lemma="tržba" src="auto">NNFP1-----A----</AM>
-<AM lemma="tržba" src="auto">NNFP4-----A----</AM>
+<AM lemma="tržba" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="tržba" src="auto">NNFP5-----A----</AM>
 <AM lemma="tržba" src="auto" recommended="1">NNFS2-----A----</AM>
 </tag>

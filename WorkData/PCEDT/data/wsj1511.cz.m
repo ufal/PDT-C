@@ -30,6 +30,7 @@
 <tag>
 <AM lemma="Sierra_;G_;R" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="sierra_;R_^(vozidlo)" src="auto">NNFS1-----A----</AM>
+<AM lemma="SIERRA-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1511-001-p1s0W3-Ta">
@@ -41,6 +42,7 @@
 <tag>
 <AM lemma="Tucson_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Tucson_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="TUCSON-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1511-001-p1s0W4-Ta">
@@ -52,6 +54,7 @@
 <tag>
 <AM lemma="co-1" src="auto" recommended="1">PQ--4--2-------</AM>
 <AM lemma="cosinus_:B" src="auto">NNIXX-----A---8</AM>
+<AM lemma="Cos-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1511-001-p1s0W5-Ta">
@@ -305,6 +308,7 @@
 <tag>
 <AM lemma="Tucson_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Tucson_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Tucson_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1511-001-p1s1W3-Ta">
@@ -666,7 +670,10 @@
 <LM>w#w-wsj1511-001-p1s2W5</LM>
 </w.rf>
 <form>Oppenheimer</form>
-<tag lemma="Oppenheimer_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Oppenheimer_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Oppenheimer-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1511-001-p1s2W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -690,6 +697,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1511-001-p1s2W8-Ta">

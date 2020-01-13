@@ -137,7 +137,10 @@
 <LM>w#w-wsj0200-001-p1s0W10</LM>
 </w.rf>
 <form>Goodman</form>
-<tag lemma="Goodman_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Goodman_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Goodman-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0200-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -145,7 +148,10 @@
 <LM>w#w-wsj0200-001-p1s0W11</LM>
 </w.rf>
 <form>Theatre</form>
-<tag lemma="Theatre" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Theatre" src="auto">X@-------------</AM>
+<AM lemma="Theatre-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0200-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -265,7 +271,10 @@
 <LM>w#w-wsj0200-001-p1s0W23</LM>
 </w.rf>
 <form>Leisure</form>
-<tag lemma="Leisure" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Leisure" src="auto">X@-------------</AM>
+<AM lemma="Leisure-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0200-001-p1s0W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -281,7 +290,10 @@
 <LM>w#w-wsj0200-001-p1s0W25</LM>
 </w.rf>
 <form>Arts</form>
-<tag lemma="Arts" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Arts" src="auto">X@-------------</AM>
+<AM lemma="Arts-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0200-001-p1s0W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -362,6 +374,7 @@
 <AM lemma="Celimena_;Y_,t" src="auto">NNFP4-----A----</AM>
 <AM lemma="Celimena_;Y_,t" src="auto">NNFP5-----A----</AM>
 <AM lemma="Celimena_;Y_,t" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="Celimena_;Y" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0200-001-p1s0W34-Ta">
@@ -441,6 +454,7 @@
 <tag>
 <AM lemma="Christina_;S_;Y_,t" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="Christina_;S_;Y_,t" src="auto">NNFS6-----A----</AM>
+<AM lemma="Christina_;S_;Y" src="manual" selected="1">NNFS3-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0200-001-p1s0W42-Ta">
@@ -449,7 +463,10 @@
 <LM>w#w-wsj0200-001-p1s0W42</LM>
 </w.rf>
 <form>Haagové</form>
-<tag lemma="Haagové" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Haagové" src="auto">X@-------------</AM>
+<AM lemma="Haagová_;S" src="manual" selected="1">NNFS3-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0200-001-p1s0W43-Ta">
 <src.rf>tagger-a</src.rf>
@@ -467,7 +484,10 @@
 <LM>w#w-wsj0200-001-p1s1W1</LM>
 </w.rf>
 <form>Haagová</form>
-<tag lemma="Haagová" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Haagová" src="auto">X@-------------</AM>
+<AM lemma="Haagová_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0200-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -521,7 +541,10 @@
 <LM>w#w-wsj0200-001-p1s1W6</LM>
 </w.rf>
 <form>Elianti</form>
-<tag lemma="Elianti" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Elianti" src="auto">X@-------------</AM>
+<AM lemma="Elianti_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0200-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>

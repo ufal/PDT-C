@@ -27,7 +27,10 @@
 <LM>w#w-wsj2244-001-p1s0W2</LM>
 </w.rf>
 <form>Interspec</form>
-<tag lemma="Interspec" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Interspec" src="auto">X@-------------</AM>
+<AM lemma="Interspec-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2244-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -38,6 +41,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2244-001-p1s0W4-Ta">
@@ -911,7 +915,7 @@
 <AM lemma="sídlící_^(*3it)" src="auto">AGMP1-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto">AGMP4-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto">AGMP5-----A----</AM>
-<AM lemma="sídlící_^(*3it)" src="auto">AGMS1-----A----</AM>
+<AM lemma="sídlící_^(*3it)" src="auto" selected="1">AGMS1-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto">AGMS5-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto">AGNP1-----A----</AM>
 <AM lemma="sídlící_^(*3it)" src="auto">AGNP4-----A----</AM>
@@ -944,6 +948,7 @@
 <tag>
 <AM lemma="Ambler_;S" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Ambler_;S" src="auto" recommended="1">NNMS6-----A---1</AM>
+<AM lemma="Ambler-2_;G" src="manual" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj2244-001-p1s3W10-Ta">
@@ -1428,7 +1433,10 @@
 <LM>w#w-wsj2244-001-p1s4W6</LM>
 </w.rf>
 <form>Interspec</form>
-<tag lemma="Interspec" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Interspec" src="auto">X@-------------</AM>
+<AM lemma="Interspec_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2244-001-p1s4W7-Ta">
 <src.rf>tagger-a</src.rf>

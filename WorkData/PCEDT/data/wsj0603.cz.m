@@ -162,7 +162,7 @@
 <form>o</form>
 <tag>
 <AM lemma="o-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="o-1" src="auto">RR--6----------</AM>
+<AM lemma="o-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="o-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="o-77_,t" src="auto">F%-------------</AM>
 <AM lemma="o-88_:B" src="auto">NNXXX-----A----</AM>
@@ -185,7 +185,7 @@
 <AM lemma="zveřejňování_^(*3at)" src="auto">NNNS3-----A----</AM>
 <AM lemma="zveřejňování_^(*3at)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="zveřejňování_^(*3at)" src="auto">NNNS5-----A----</AM>
-<AM lemma="zveřejňování_^(*3at)" src="auto">NNNS6-----A----</AM>
+<AM lemma="zveřejňování_^(*3at)" src="auto" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0603-001-p1s0W9-Ta">
@@ -383,7 +383,7 @@
 <AM lemma="končící_^(*3it)" src="auto">AGIP6-----A----</AM>
 <AM lemma="končící_^(*3it)" src="auto" recommended="1">AGMP2-----A----</AM>
 <AM lemma="končící_^(*3it)" src="auto">AGMP6-----A----</AM>
-<AM lemma="končící_^(*3it)" src="auto">AGNP2-----A----</AM>
+<AM lemma="končící_^(*3it)" src="auto" selected="1">AGNP2-----A----</AM>
 <AM lemma="končící_^(*3it)" src="auto">AGNP6-----A----</AM>
 </tag>
 </m>

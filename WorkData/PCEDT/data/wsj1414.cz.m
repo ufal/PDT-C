@@ -31,6 +31,7 @@
 <AM lemma="Rochester_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Rochester_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Rochester_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Rochester-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1414-001-p1s0W3-Ta">
@@ -39,7 +40,10 @@
 <LM>w#w-wsj1414-001-p1s0W3</LM>
 </w.rf>
 <form>Telephone</form>
-<tag lemma="Telephone" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Telephone" src="auto">X@-------------</AM>
+<AM lemma="Telephone-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1414-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -47,7 +51,10 @@
 <LM>w#w-wsj1414-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1414-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -129,6 +136,7 @@
 <tag>
 <AM lemma="Urban_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Urbana_;G" src="auto">NNFP2-----A----</AM>
+<AM lemma="Urban-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1414-001-p1s0W13-Ta">
@@ -137,7 +145,10 @@
 <LM>w#w-wsj1414-001-p1s0W13</LM>
 </w.rf>
 <form>Telephone</form>
-<tag lemma="Telephone" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Telephone" src="auto">X@-------------</AM>
+<AM lemma="Telephone-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1414-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -145,7 +156,10 @@
 <LM>w#w-wsj1414-001-p1s0W14</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1414-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -173,7 +187,10 @@
 <LM>w#w-wsj1414-001-p1s0W17</LM>
 </w.rf>
 <form>Clintonville</form>
-<tag lemma="Clintonville" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Clintonville" src="auto">X@-------------</AM>
+<AM lemma="Clintonville_;G" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1414-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -430,6 +447,7 @@
 <AM lemma="Rochester_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Rochester_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Rochester_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Rochester-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1414-001-p1s1W3-Ta">
@@ -438,7 +456,10 @@
 <LM>w#w-wsj1414-001-p1s1W3</LM>
 </w.rf>
 <form>Telephone</form>
-<tag lemma="Telephone" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Telephone" src="auto">X@-------------</AM>
+<AM lemma="Telephone-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1414-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -625,6 +646,7 @@
 <tag>
 <AM lemma="Urban_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Urbana_;G" src="auto">NNFP2-----A----</AM>
+<AM lemma="Urban-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1414-001-p1s1W20-Ta">
@@ -633,7 +655,10 @@
 <LM>w#w-wsj1414-001-p1s1W20</LM>
 </w.rf>
 <form>Telephone</form>
-<tag lemma="Telephone" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Telephone" src="auto">X@-------------</AM>
+<AM lemma="Telephone-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1414-001-p1s1W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -708,6 +733,7 @@
 <tag>
 <AM lemma="Urban_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Urbana_;G" src="auto">NNFP2-----A----</AM>
+<AM lemma="Urban-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1414-001-p1s2W3-Ta">
@@ -873,6 +899,7 @@
 <AM lemma="Rochester_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Rochester_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Rochester_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Rochester-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1414-001-p1s3W3-Ta">
@@ -881,7 +908,10 @@
 <LM>w#w-wsj1414-001-p1s3W3</LM>
 </w.rf>
 <form>Telephone</form>
-<tag lemma="Telephone" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Telephone" src="auto">X@-------------</AM>
+<AM lemma="Telephone-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1414-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>

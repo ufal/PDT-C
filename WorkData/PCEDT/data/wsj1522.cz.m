@@ -27,7 +27,10 @@
 <LM>w#w-wsj1522-001-p1s0W2</LM>
 </w.rf>
 <form>Basf</form>
-<tag lemma="Basf_:B_;K" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Basf_:B_;K" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Basf-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1522-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -256,7 +259,7 @@
 <AM lemma="ústředí" src="auto">NNNS1-----A----</AM>
 <AM lemma="ústředí" src="auto" recommended="1">NNNS2-----A----</AM>
 <AM lemma="ústředí" src="auto">NNNS3-----A----</AM>
-<AM lemma="ústředí" src="auto">NNNS4-----A----</AM>
+<AM lemma="ústředí" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="ústředí" src="auto">NNNS5-----A----</AM>
 <AM lemma="ústředí" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -330,7 +333,7 @@
 <AM lemma="Asie_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Asie_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Asie_;G" src="auto">NNFP5-----A----</AM>
-<AM lemma="Asie_;G" src="auto">NNFS1-----A----</AM>
+<AM lemma="Asie_;G" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="Asie_;G" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Asie_;G" src="auto">NNFS5-----A----</AM>
 </tag>
@@ -616,7 +619,7 @@
 <form>Tento</form>
 <tag>
 <AM lemma="tento" src="auto" recommended="1">PDIS4----------</AM>
-<AM lemma="tento" src="auto">PDYS1----------</AM>
+<AM lemma="tento" src="auto" selected="1">PDYS1----------</AM>
 </tag>
 </m>
 <m id="m-wsj1522-001-p1s2W2-Ta">
@@ -635,7 +638,7 @@
 <AM lemma="západoněmecký" src="auto">AAIP1----1A---6</AM>
 <AM lemma="západoněmecký" src="auto">AAIP4----1A---6</AM>
 <AM lemma="západoněmecký" src="auto">AAIP5----1A---6</AM>
-<AM lemma="západoněmecký" src="auto">AAIS1----1A----</AM>
+<AM lemma="západoněmecký" src="auto" selected="1">AAIS1----1A----</AM>
 <AM lemma="západoněmecký" src="auto" recommended="1">AAIS4----1A----</AM>
 <AM lemma="západoněmecký" src="auto">AAIS5----1A----</AM>
 <AM lemma="západoněmecký" src="auto">AAMP1----1A---6</AM>
@@ -667,7 +670,7 @@
 <AM lemma="chemický" src="auto">AAIP1----1A---6</AM>
 <AM lemma="chemický" src="auto">AAIP4----1A---6</AM>
 <AM lemma="chemický" src="auto">AAIP5----1A---6</AM>
-<AM lemma="chemický" src="auto">AAIS1----1A----</AM>
+<AM lemma="chemický" src="auto" selected="1">AAIS1----1A----</AM>
 <AM lemma="chemický" src="auto" recommended="1">AAIS4----1A----</AM>
 <AM lemma="chemický" src="auto">AAIS5----1A----</AM>
 <AM lemma="chemický" src="auto">AAMP1----1A---6</AM>
@@ -690,7 +693,7 @@
 </w.rf>
 <form>koncern</form>
 <tag>
-<AM lemma="koncern" src="auto">NNIS1-----A----</AM>
+<AM lemma="koncern" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="koncern" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>

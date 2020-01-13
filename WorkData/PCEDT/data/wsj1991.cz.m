@@ -27,7 +27,10 @@
 <LM>w#w-wsj1991-001-p1s0W2</LM>
 </w.rf>
 <form>Apogee</form>
-<tag lemma="Apogee" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Apogee" src="auto">X@-------------</AM>
+<AM lemma="Apogee-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1991-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1991-001-p1s0W3</LM>
 </w.rf>
 <form>Robotics</form>
-<tag lemma="Robotics" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Robotics" src="auto">X@-------------</AM>
+<AM lemma="Robotics-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1991-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -46,6 +52,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1991-001-p1s0W5-Ta">
@@ -402,7 +409,7 @@
 <AM lemma="každý" src="auto">AAIP1----1A---6</AM>
 <AM lemma="každý" src="auto">AAIP4----1A---6</AM>
 <AM lemma="každý" src="auto">AAIP5----1A---6</AM>
-<AM lemma="každý" src="auto">AAIS1----1A----</AM>
+<AM lemma="každý" src="auto" selected="1">AAIS1----1A----</AM>
 <AM lemma="každý" src="auto">AAIS4----1A----</AM>
 <AM lemma="každý" src="auto">AAIS5----1A----</AM>
 <AM lemma="každý" src="auto">AAMP1----1A---6</AM>
@@ -670,7 +677,10 @@
 <LM>w#w-wsj1991-001-p1s3W3</LM>
 </w.rf>
 <form>Apogee</form>
-<tag lemma="Apogee" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Apogee" src="auto">X@-------------</AM>
+<AM lemma="Apogee_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1991-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -790,7 +800,7 @@
 </w.rf>
 <form>dolary</form>
 <tag>
-<AM lemma="dolar" src="auto">NNIP1-----A----</AM>
+<AM lemma="dolar" src="auto" selected="1">NNIP1-----A----</AM>
 <AM lemma="dolar" src="auto">NNIP4-----A----</AM>
 <AM lemma="dolar" src="auto">NNIP5-----A----</AM>
 <AM lemma="dolar" src="auto" recommended="1">NNIP7-----A----</AM>

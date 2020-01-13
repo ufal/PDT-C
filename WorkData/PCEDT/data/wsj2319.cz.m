@@ -30,6 +30,7 @@
 <tag>
 <AM lemma="Questa_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="quest-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Quest-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2319-001-p1s0W3-Ta">
@@ -38,7 +39,10 @@
 <LM>w#w-wsj2319-001-p1s0W3</LM>
 </w.rf>
 <form>Medical</form>
-<tag lemma="Medical" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Medical" src="auto">X@-------------</AM>
+<AM lemma="Medical-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2319-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -49,6 +53,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2319-001-p1s0W5-Ta">
@@ -509,6 +514,7 @@
 <tag>
 <AM lemma="Questa_;G" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="quest-77" src="auto">F%-------------</AM>
+<AM lemma="Quest_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2319-001-p1s1W17-Ta">
@@ -686,6 +692,7 @@
 <tag>
 <AM lemma="Questa_;G" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="quest-77" src="auto">F%-------------</AM>
+<AM lemma="Quest_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2319-001-p1s2W8-Ta">

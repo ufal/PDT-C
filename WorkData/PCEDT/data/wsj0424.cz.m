@@ -20,6 +20,7 @@
 <AM lemma="Vernon-1_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Vernon-1_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Vernon-2_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Vernon-2_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0424-001-p1s0W2-Ta">
@@ -286,7 +287,10 @@
 <LM>w#w-wsj0424-001-p1s1W7</LM>
 </w.rf>
 <form>United</form>
-<tag lemma="united-77" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="united-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="United-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0424-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -299,6 +303,7 @@
 <AM lemma="Negro_;G_,t_^(součást_názvu_Río_Negro)" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Negro_;G_,t_^(součást_názvu_Río_Negro)" src="auto">NNNS4-----A----</AM>
 <AM lemma="Negro_;G_,t_^(součást_názvu_Río_Negro)" src="auto">NNNS5-----A----</AM>
+<AM lemma="Negro-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0424-001-p1s1W9-Ta">
@@ -308,7 +313,7 @@
 </w.rf>
 <form>College</form>
 <tag>
-<AM lemma="College-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="College-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="College_;K_,t" src="auto">NNFXX-----A----</AM>
 <AM lemma="college-77_,t" src="auto">F%-------------</AM>
 </tag>
@@ -322,6 +327,7 @@
 <tag>
 <AM lemma="fundus" src="auto" recommended="1">NNIS1-----A---2</AM>
 <AM lemma="fundus" src="auto">NNIS4-----A---2</AM>
+<AM lemma="Fund-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0424-001-p1s1W11-Ta">

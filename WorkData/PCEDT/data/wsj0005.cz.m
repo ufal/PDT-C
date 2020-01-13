@@ -152,6 +152,7 @@
 <AM lemma="Grace_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Grace_;S" src="auto">NNMXX-----A----</AM>
 <AM lemma="Grace_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Grace-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0005-001-p1s0W14-Ta">
@@ -176,6 +177,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0005-001-p1s0W16-Ta">
@@ -375,7 +377,10 @@
 <LM>w#w-wsj0005-001-p1s1W3</LM>
 </w.rf>
 <form>Terrence</form>
-<tag lemma="Terrence" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Terrence" src="auto">X@-------------</AM>
+<AM lemma="Terrence_;S_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0005-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -515,6 +520,7 @@
 <AM lemma="Grace_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Grace_;S" src="auto">NNMXX-----A----</AM>
 <AM lemma="Grace_;Y" src="auto">NNFXX-----A----</AM>
+<AM lemma="Grace-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0005-001-p1s1W16-Ta">
@@ -627,6 +633,7 @@
 <AM lemma="Grace_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Grace_;S" src="auto">NNMXX-----A----</AM>
 <AM lemma="Grace_;Y" src="auto">NNFXX-----A----</AM>
+<AM lemma="Grace-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0005-001-p1s2W7-Ta">
@@ -735,6 +742,7 @@
 <AM lemma="Grace_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Grace_;S" src="auto">NNMXX-----A----</AM>
 <AM lemma="Grace_;Y" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Grace-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0005-001-p1s2W16-Ta">
@@ -743,7 +751,10 @@
 <LM>w#w-wsj0005-001-p1s2W16</LM>
 </w.rf>
 <form>Energy</form>
-<tag lemma="Energy" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Energy" src="auto">X@-------------</AM>
+<AM lemma="Energy-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0005-001-p1s2W17-Ta">
 <src.rf>tagger-a</src.rf>

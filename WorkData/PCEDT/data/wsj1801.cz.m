@@ -48,7 +48,10 @@
 <LM>w#w-wsj1801-001-p1s0W4</LM>
 </w.rf>
 <form>Klatman</form>
-<tag lemma="Klatman" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Klatman" src="auto">X@-------------</AM>
+<AM lemma="Klatman_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1801-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -154,6 +157,7 @@
 <AM lemma="datum_^(kalendářní)" src="auto">NNNP4-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNP5-----A----</AM>
 <AM lemma="datum_^(kalendářní)" src="auto">NNNS2-----A----</AM>
+<AM lemma="Data-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1801-001-p1s0W13-Ta">
@@ -167,6 +171,7 @@
 <AM lemma="General_;K_,t" src="auto">NNIS1-----A----</AM>
 <AM lemma="General_;K_,t" src="auto">NNIS4-----A----</AM>
 <AM lemma="General_;K_,t" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="General-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1801-001-p1s0W14-Ta">
@@ -175,7 +180,10 @@
 <LM>w#w-wsj1801-001-p1s0W14</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1801-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -371,7 +379,7 @@
 <AM lemma="vybavení_^(*3it)" src="auto">NNNP4-----A----</AM>
 <AM lemma="vybavení_^(*3it)" src="auto">NNNP5-----A----</AM>
 <AM lemma="vybavení_^(*3it)" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="vybavení_^(*3it)" src="auto">NNNS2-----A----</AM>
+<AM lemma="vybavení_^(*3it)" src="auto" selected="1">NNNS2-----A----</AM>
 <AM lemma="vybavení_^(*3it)" src="auto">NNNS3-----A----</AM>
 <AM lemma="vybavení_^(*3it)" src="auto">NNNS4-----A----</AM>
 <AM lemma="vybavení_^(*3it)" src="auto">NNNS5-----A----</AM>

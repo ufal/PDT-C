@@ -81,7 +81,10 @@
 <LM>w#w-wsj1568-001-p1s0W5</LM>
 </w.rf>
 <form>Fashion</form>
-<tag lemma="Fashion" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Fashion" src="auto">X@-------------</AM>
+<AM lemma="Fashion-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1568-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -92,6 +95,7 @@
 <tag>
 <AM lemma="Island_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Island_;G" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Island-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s0W7-Ta">
@@ -501,7 +505,11 @@
 <LM>w#w-wsj1568-001-p1s1W7</LM>
 </w.rf>
 <form>Neiman</form>
-<tag lemma="Neiman" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Neiman" src="auto">X@-------------</AM>
+<AM lemma="Neiman-77" src="manual">F%-------------</AM>
+<AM lemma="Neiman_;S" src="manual" selected="1">NNMXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1568-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -524,6 +532,7 @@
 <AM lemma="Marcuse_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Marcuse_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Marcuse_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Marcus_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s1W10-Ta">
@@ -546,7 +555,10 @@
 <LM>w#w-wsj1568-001-p1s1W11</LM>
 </w.rf>
 <form>Bullocks</form>
-<tag lemma="Bullocks" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Bullocks" src="auto">X@-------------</AM>
+<AM lemma="Bullocks-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1568-001-p1s1W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -554,7 +566,10 @@
 <LM>w#w-wsj1568-001-p1s1W12</LM>
 </w.rf>
 <form>Wilshire</form>
-<tag lemma="Wilshire" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Wilshire" src="auto">X@-------------</AM>
+<AM lemma="Wilshire-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1568-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -657,6 +672,7 @@
 <AM lemma="atrium" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="atrium" src="auto">NNNS4-----A----</AM>
 <AM lemma="atrium" src="auto">NNNS5-----A----</AM>
+<AM lemma="Atrium-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s2W9-Ta">
@@ -668,6 +684,7 @@
 <tag>
 <AM lemma="court_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="court_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="Court-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s2W10-Ta">
@@ -1433,7 +1450,10 @@
 <LM>w#w-wsj1568-001-p1s5W12</LM>
 </w.rf>
 <form>Fashion</form>
-<tag lemma="Fashion" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Fashion" src="auto">X@-------------</AM>
+<AM lemma="Fashion-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1568-001-p1s5W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1444,6 +1464,7 @@
 <tag>
 <AM lemma="Island_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Island_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Island-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s5W14-Ta">
@@ -1722,7 +1743,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -1926,7 +1947,10 @@
 <LM>w#w-wsj1568-001-p1s7W12</LM>
 </w.rf>
 <form>Kacy</form>
-<tag lemma="Kacy" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Kacy" src="auto">X@-------------</AM>
+<AM lemma="Kacy_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1568-001-p1s7W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2141,7 +2165,7 @@
 </w.rf>
 <form>farmy</form>
 <tag>
-<AM lemma="farma" src="auto">NNFP1-----A----</AM>
+<AM lemma="farma" src="auto" selected="1">NNFP1-----A----</AM>
 <AM lemma="farma" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="farma" src="auto">NNFP5-----A----</AM>
 <AM lemma="farma" src="auto">NNFS2-----A----</AM>
@@ -2255,7 +2279,7 @@
 <AM lemma="známý-2_^(co_známe)" src="auto">AAFP5----1A----</AM>
 <AM lemma="známý-2_^(co_známe)" src="auto" recommended="1">AAFS2----1A----</AM>
 <AM lemma="známý-2_^(co_známe)" src="auto">AAFS3----1A----</AM>
-<AM lemma="známý-2_^(co_známe)" src="auto">AAFS6----1A----</AM>
+<AM lemma="známý-2_^(co_známe)" src="auto" selected="1">AAFS6----1A----</AM>
 <AM lemma="známý-2_^(co_známe)" src="auto">AAIP1----1A----</AM>
 <AM lemma="známý-2_^(co_známe)" src="auto">AAIP4----1A----</AM>
 <AM lemma="známý-2_^(co_známe)" src="auto">AAIP5----1A----</AM>
@@ -2285,6 +2309,7 @@
 <tag>
 <AM lemma="Newport_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Newport_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Newport-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s9W8-Ta">
@@ -2297,6 +2322,7 @@
 <AM lemma="beach-1_,t_^(plážový_volejbal)" src="auto">NNIS1-----A----</AM>
 <AM lemma="beach-1_,t_^(plážový_volejbal)" src="auto">NNIS4-----A----</AM>
 <AM lemma="beach-2_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Beach-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s9W9-Ta">
@@ -2682,7 +2708,10 @@
 <LM>w#w-wsj1568-001-p1s11W9</LM>
 </w.rf>
 <form>USA</form>
-<tag lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="USA_:B_;G_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1568-001-p1s11W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2777,7 +2806,7 @@
 <AM lemma="pobřeží" src="auto">NNNP2-----A----</AM>
 <AM lemma="pobřeží" src="auto">NNNP4-----A----</AM>
 <AM lemma="pobřeží" src="auto">NNNP5-----A----</AM>
-<AM lemma="pobřeží" src="auto">NNNS1-----A----</AM>
+<AM lemma="pobřeží" src="auto" selected="1">NNNS1-----A----</AM>
 <AM lemma="pobřeží" src="auto">NNNS2-----A----</AM>
 <AM lemma="pobřeží" src="auto">NNNS3-----A----</AM>
 <AM lemma="pobřeží" src="auto">NNNS4-----A----</AM>
@@ -3056,7 +3085,7 @@
 <AM lemma="první" src="auto" recommended="1">CrIS2----------</AM>
 <AM lemma="první" src="auto">CrMS2----------</AM>
 <AM lemma="první" src="auto">CrMS4----------</AM>
-<AM lemma="první" src="auto">CrNS2----------</AM>
+<AM lemma="první" src="auto" selected="1">CrNS2----------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s13W3-Ta">
@@ -3086,7 +3115,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -3099,7 +3128,7 @@
 <form>to</form>
 <tag>
 <AM lemma="ten" src="auto" recommended="1">PDNS1----------</AM>
-<AM lemma="ten" src="auto">PDNS4----------</AM>
+<AM lemma="ten" src="auto" selected="1">PDNS4----------</AM>
 <AM lemma="to-1_^(tehdy;to_jsem_byla_ještě_malá)" src="auto">PDXXX----------</AM>
 <AM lemma="to-9_^(být_s_to)" src="auto">TT-------------</AM>
 <AM lemma="to-77" src="auto">F%-------------</AM>
@@ -3126,7 +3155,7 @@
 <AM lemma="druhý" src="auto">CrNP4---------6</AM>
 <AM lemma="druhý" src="auto">CrNP5---------6</AM>
 <AM lemma="druhý" src="auto" recommended="1">CrNS1----------</AM>
-<AM lemma="druhý" src="auto">CrNS4----------</AM>
+<AM lemma="druhý" src="auto" selected="1">CrNS4----------</AM>
 <AM lemma="druhý" src="auto">CrNS5----------</AM>
 </tag>
 </m>
@@ -3188,7 +3217,7 @@
 </w.rf>
 <form>líhně</form>
 <tag>
-<AM lemma="líheň" src="auto">NNFP1-----A----</AM>
+<AM lemma="líheň" src="auto" selected="1">NNFP1-----A----</AM>
 <AM lemma="líheň" src="auto">NNFP4-----A----</AM>
 <AM lemma="líheň" src="auto">NNFP5-----A----</AM>
 <AM lemma="líheň" src="auto">NNFS2-----A----</AM>
@@ -3230,7 +3259,7 @@
 <tag>
 <AM lemma="čtvrtit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="čtvrtit" src="auto">Vi-S---3--A-I-4</AM>
-<AM lemma="čtvrť_^(města)" src="auto">NNFS1-----A----</AM>
+<AM lemma="čtvrť_^(města)" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="čtvrť_^(města)" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
@@ -3460,6 +3489,7 @@
 <AM lemma="Las-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="las-77" src="auto">F%-------------</AM>
 <AM lemma="laso" src="auto">NNNP2-----A----</AM>
+<AM lemma="Las-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s14W24-Ta">
@@ -3468,7 +3498,10 @@
 <LM>w#w-wsj1568-001-p1s14W24</LM>
 </w.rf>
 <form>Vegas</form>
-<tag lemma="Vegas_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Vegas_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Vegas-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1568-001-p1s14W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3593,7 +3626,7 @@
 <form>okouzlující</form>
 <tag>
 <AM lemma="okouzlující" src="auto" recommended="1">AAFP1----1A----</AM>
-<AM lemma="okouzlující" src="auto">AAFP4----1A----</AM>
+<AM lemma="okouzlující" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="okouzlující" src="auto">AAFP5----1A----</AM>
 <AM lemma="okouzlující" src="auto">AAFS1----1A----</AM>
 <AM lemma="okouzlující" src="auto">AAFS2----1A----</AM>
@@ -3629,7 +3662,7 @@
 <form>ženy</form>
 <tag>
 <AM lemma="žena" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="žena" src="auto">NNFP4-----A----</AM>
+<AM lemma="žena" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="žena" src="auto">NNFP5-----A----</AM>
 <AM lemma="žena" src="auto">NNFS2-----A----</AM>
 </tag>
@@ -3707,7 +3740,7 @@
 <AM lemma="V-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="volt" src="auto">NNIXX-----A---8</AM>
 <AM lemma="v-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="v-1" src="auto">RR--6----------</AM>
+<AM lemma="v-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
@@ -3723,6 +3756,7 @@
 <AM lemma="Green_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="green_^(v_golfu_prostor_okolo_jamky)" src="auto">NNIS1-----A----</AM>
 <AM lemma="green_^(v_golfu_prostor_okolo_jamky)" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Green-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s15W3-Ta">
@@ -3735,6 +3769,7 @@
 <AM lemma="Bay-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Bay-2_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Bay-2_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Bay-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s15W4-Ta">
@@ -3908,6 +3943,7 @@
 <tag>
 <AM lemma="Newport_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Newport_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Newport-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s17W2-Ta">
@@ -3920,6 +3956,7 @@
 <AM lemma="beach-1_,t_^(plážový_volejbal)" src="auto">NNIS1-----A----</AM>
 <AM lemma="beach-1_,t_^(plážový_volejbal)" src="auto">NNIS4-----A----</AM>
 <AM lemma="beach-2_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Beach-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s17W3-Ta">
@@ -4529,7 +4566,7 @@
 </w.rf>
 <form>okázalost</form>
 <tag>
-<AM lemma="okázalost_^(*3ý)" src="auto">NNFS1-----A----</AM>
+<AM lemma="okázalost_^(*3ý)" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="okázalost_^(*3ý)" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
@@ -5102,6 +5139,7 @@
 <tag>
 <AM lemma="Newport_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Newport_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Newport-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s26W4-Ta">
@@ -5114,6 +5152,7 @@
 <AM lemma="beach-1_,t_^(plážový_volejbal)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="beach-1_,t_^(plážový_volejbal)" src="auto">NNIS4-----A----</AM>
 <AM lemma="beach-2_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="Beach-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s26W5-Ta">
@@ -5287,6 +5326,7 @@
 <tag>
 <AM lemma="Newport_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Newport_;G" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Newport-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s27W9-Ta">
@@ -5299,6 +5339,7 @@
 <AM lemma="beach-1_,t_^(plážový_volejbal)" src="auto">NNIS1-----A----</AM>
 <AM lemma="beach-1_,t_^(plážový_volejbal)" src="auto">NNIS4-----A----</AM>
 <AM lemma="beach-2_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Beach-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s27W10-Ta">
@@ -5787,6 +5828,7 @@
 <AM lemma="Rhodos_;G" src="auto">NNIS5-----A----</AM>
 <AM lemma="Rhode-1_;G_;K" src="auto">NNISX-----A----</AM>
 <AM lemma="Rhode-2_;S" src="auto" recommended="1">NNMSX-----A----</AM>
+<AM lemma="Rhode-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s28W4-Ta">
@@ -5822,6 +5864,7 @@
 <tag>
 <AM lemma="Newport_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Newport_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Newport-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s28W7-Ta">
@@ -5834,6 +5877,7 @@
 <AM lemma="beach-1_,t_^(plážový_volejbal)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="beach-1_,t_^(plážový_volejbal)" src="auto">NNIS4-----A----</AM>
 <AM lemma="beach-2_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="Beach-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s28W8-Ta">
@@ -5863,7 +5907,7 @@
 <AM lemma="známý-2_^(co_známe)" src="auto">AANP1----1A---6</AM>
 <AM lemma="známý-2_^(co_známe)" src="auto">AANP4----1A---6</AM>
 <AM lemma="známý-2_^(co_známe)" src="auto">AANP5----1A---6</AM>
-<AM lemma="známý-2_^(co_známe)" src="auto">AANS1----1A----</AM>
+<AM lemma="známý-2_^(co_známe)" src="auto" selected="1">AANS1----1A----</AM>
 <AM lemma="známý-2_^(co_známe)" src="auto">AANS4----1A----</AM>
 <AM lemma="známý-2_^(co_známe)" src="auto">AANS5----1A----</AM>
 </tag>
@@ -6130,7 +6174,7 @@
 <tag>
 <AM lemma="osvobozený_^(*4dit)" src="auto" recommended="1">AAFP2----1A----</AM>
 <AM lemma="osvobozený_^(*4dit)" src="auto">AAFP6----1A----</AM>
-<AM lemma="osvobozený_^(*4dit)" src="auto">AAIP2----1A----</AM>
+<AM lemma="osvobozený_^(*4dit)" src="auto" selected="1">AAIP2----1A----</AM>
 <AM lemma="osvobozený_^(*4dit)" src="auto">AAIP6----1A----</AM>
 <AM lemma="osvobozený_^(*4dit)" src="auto">AAMP2----1A----</AM>
 <AM lemma="osvobozený_^(*4dit)" src="auto">AAMP6----1A----</AM>
@@ -6465,6 +6509,7 @@
 <tag>
 <AM lemma="takzvaný_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
 <AM lemma="takzvaně_:B" src="auto">Dg-------1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---8</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s30W9-Ta">
@@ -6529,7 +6574,7 @@
 <AM lemma="vykládající_^(*4t)" src="auto">AGFP6-----A----</AM>
 <AM lemma="vykládající_^(*4t)" src="auto" recommended="1">AGIP2-----A----</AM>
 <AM lemma="vykládající_^(*4t)" src="auto">AGIP6-----A----</AM>
-<AM lemma="vykládající_^(*4t)" src="auto">AGMP2-----A----</AM>
+<AM lemma="vykládající_^(*4t)" src="auto" selected="1">AGMP2-----A----</AM>
 <AM lemma="vykládající_^(*4t)" src="auto">AGMP6-----A----</AM>
 <AM lemma="vykládající_^(*4t)" src="auto">AGNP2-----A----</AM>
 <AM lemma="vykládající_^(*4t)" src="auto">AGNP6-----A----</AM>
@@ -6708,7 +6753,7 @@
 </w.rf>
 <form>zmizí</form>
 <tag>
-<AM lemma="zmizet" src="auto">VB-P---3P-AAP--</AM>
+<AM lemma="zmizet" src="auto" selected="1">VB-P---3P-AAP--</AM>
 <AM lemma="zmizet" src="auto" recommended="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
@@ -6741,7 +6786,7 @@
 <AM lemma="jen-2_^(japonská_měna)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jen-2_^(japonská_měna)" src="auto">NNIS4-----A----</AM>
 <AM lemma="jen-3" src="auto">J,-------------</AM>
-<AM lemma="jen-4_^(pouze)" src="auto">Db-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s31W3-Ta">
@@ -6954,7 +6999,7 @@
 </w.rf>
 <form>sklidí</form>
 <tag>
-<AM lemma="sklidit" src="auto">VB-P---3P-AAP--</AM>
+<AM lemma="sklidit" src="auto" selected="1">VB-P---3P-AAP--</AM>
 <AM lemma="sklidit" src="auto" recommended="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
@@ -7505,7 +7550,7 @@
 </w.rf>
 <form>zřejmě</form>
 <tag>
-<AM lemma="zřejmě-2" src="auto">TT-------------</AM>
+<AM lemma="zřejmě-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="zřejmě_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
@@ -7528,7 +7573,7 @@
 <form>v</form>
 <tag>
 <AM lemma="v-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="v-1" src="auto">RR--6----------</AM>
+<AM lemma="v-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
@@ -7543,6 +7588,7 @@
 <tag>
 <AM lemma="Newport_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Newport_;G" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Newport-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s34W14-Ta">
@@ -7555,6 +7601,7 @@
 <AM lemma="beach-1_,t_^(plážový_volejbal)" src="auto">NNIS1-----A----</AM>
 <AM lemma="beach-1_,t_^(plážový_volejbal)" src="auto">NNIS4-----A----</AM>
 <AM lemma="beach-2_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Beach-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s34W15-Ta">
@@ -7946,7 +7993,10 @@
 <LM>w#w-wsj1568-001-p1s35W2</LM>
 </w.rf>
 <form>mnohadolarové</form>
-<tag lemma="mnohadolarové" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="mnohadolarové" src="auto">X@-------------</AM>
+<AM lemma="mnohadolarový" src="manual" selected="1">AAIP1----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj1568-001-p1s35W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8051,7 +8101,7 @@
 <AM lemma="známý-2_^(co_známe)" src="auto">AAFS2----1A----</AM>
 <AM lemma="známý-2_^(co_známe)" src="auto">AAFS3----1A----</AM>
 <AM lemma="známý-2_^(co_známe)" src="auto">AAFS6----1A----</AM>
-<AM lemma="známý-2_^(co_známe)" src="auto">AAIP1----1A----</AM>
+<AM lemma="známý-2_^(co_známe)" src="auto" selected="1">AAIP1----1A----</AM>
 <AM lemma="známý-2_^(co_známe)" src="auto">AAIP4----1A----</AM>
 <AM lemma="známý-2_^(co_známe)" src="auto">AAIP5----1A----</AM>
 <AM lemma="známý-2_^(co_známe)" src="auto">AAMP4----1A----</AM>
@@ -8081,7 +8131,7 @@
 <AM lemma="operace" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="operace" src="auto">NNFP4-----A----</AM>
 <AM lemma="operace" src="auto">NNFP5-----A----</AM>
-<AM lemma="operace" src="auto">NNFS1-----A----</AM>
+<AM lemma="operace" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="operace" src="auto">NNFS2-----A----</AM>
 <AM lemma="operace" src="auto">NNFS5-----A----</AM>
 </tag>
@@ -8103,6 +8153,7 @@
 <tag>
 <AM lemma="Newport_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Newport_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Newport-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s35W16-Ta">
@@ -8115,6 +8166,7 @@
 <AM lemma="beach-1_,t_^(plážový_volejbal)" src="auto">NNIS1-----A----</AM>
 <AM lemma="beach-1_,t_^(plážový_volejbal)" src="auto">NNIS4-----A----</AM>
 <AM lemma="beach-2_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Beach-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s35W17-Ta">
@@ -8225,7 +8277,7 @@
 </w.rf>
 <form>pár</form>
 <tag>
-<AM lemma="pár-1" src="auto">ClXXX----------</AM>
+<AM lemma="pár-1" src="auto" selected="1">ClXXX----------</AM>
 <AM lemma="pár-2" src="auto">NNIS1-----A----</AM>
 <AM lemma="pár-2" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
@@ -8338,7 +8390,7 @@
 <AM lemma="který" src="auto">P4FS2----------</AM>
 <AM lemma="který" src="auto">P4FS3----------</AM>
 <AM lemma="který" src="auto">P4FS6----------</AM>
-<AM lemma="který" src="auto">P4IP1----------</AM>
+<AM lemma="který" src="auto" selected="1">P4IP1----------</AM>
 <AM lemma="který" src="auto">P4NP1---------6</AM>
 <AM lemma="který" src="auto">P4NP4---------6</AM>
 <AM lemma="který" src="auto">P4NS1----------</AM>
@@ -8500,6 +8552,7 @@
 <tag>
 <AM lemma="Newport_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Newport_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Newport-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s37W5-Ta">
@@ -8512,6 +8565,7 @@
 <AM lemma="beach-1_,t_^(plážový_volejbal)" src="auto">NNIS1-----A----</AM>
 <AM lemma="beach-1_,t_^(plážový_volejbal)" src="auto">NNIS4-----A----</AM>
 <AM lemma="beach-2_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Beach-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s37W6-Ta">
@@ -8685,7 +8739,7 @@
 <AM lemma="který" src="auto">P4FS2----------</AM>
 <AM lemma="který" src="auto">P4FS3----------</AM>
 <AM lemma="který" src="auto">P4FS6----------</AM>
-<AM lemma="který" src="auto">P4IP1----------</AM>
+<AM lemma="který" src="auto" selected="1">P4IP1----------</AM>
 <AM lemma="který" src="auto">P4NP1---------6</AM>
 <AM lemma="který" src="auto">P4NP4---------6</AM>
 <AM lemma="který" src="auto">P4NS1----------</AM>
@@ -8720,7 +8774,7 @@
 <form>tisíce</form>
 <tag>
 <AM lemma="tisíc-2`1000" src="auto" recommended="1">NNIP1-----A----</AM>
-<AM lemma="tisíc-2`1000" src="auto">NNIP4-----A----</AM>
+<AM lemma="tisíc-2`1000" src="auto" selected="1">NNIP4-----A----</AM>
 <AM lemma="tisíc-2`1000" src="auto">NNIP5-----A----</AM>
 <AM lemma="tisíc-2`1000" src="auto">NNIS2-----A----</AM>
 </tag>
@@ -9195,7 +9249,7 @@
 <form>v</form>
 <tag>
 <AM lemma="v-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="v-1" src="auto">RR--6----------</AM>
+<AM lemma="v-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
@@ -9210,6 +9264,7 @@
 <tag>
 <AM lemma="Newport_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Newport_;G" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Newport-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s39W24-Ta">
@@ -9222,6 +9277,7 @@
 <AM lemma="beach-1_,t_^(plážový_volejbal)" src="auto">NNIS1-----A----</AM>
 <AM lemma="beach-1_,t_^(plážový_volejbal)" src="auto">NNIS4-----A----</AM>
 <AM lemma="beach-2_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Beach-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s39W25-Ta">
@@ -9273,7 +9329,10 @@
 <LM>w#w-wsj1568-001-p1s39W28</LM>
 </w.rf>
 <form>Capital</form>
-<tag lemma="Capital" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Capital" src="auto">X@-------------</AM>
+<AM lemma="Capital-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1568-001-p1s39W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9284,6 +9343,7 @@
 <tag>
 <AM lemma="trust" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="trust" src="auto">NNIS4-----A----</AM>
+<AM lemma="Trust-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s39W30-Ta">
@@ -9295,6 +9355,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s39W31-Ta">
@@ -9358,7 +9419,7 @@
 <AM lemma="investice" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="investice" src="auto">NNFP4-----A----</AM>
 <AM lemma="investice" src="auto">NNFP5-----A----</AM>
-<AM lemma="investice" src="auto">NNFS1-----A----</AM>
+<AM lemma="investice" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="investice" src="auto">NNFS2-----A----</AM>
 <AM lemma="investice" src="auto">NNFS5-----A----</AM>
 </tag>
@@ -9473,7 +9534,7 @@
 <tag>
 <AM lemma="zaměstnanec" src="auto">NNMP1-----A----</AM>
 <AM lemma="zaměstnanec" src="auto">NNMP5-----A----</AM>
-<AM lemma="zaměstnanec" src="auto">NNMP7-----A----</AM>
+<AM lemma="zaměstnanec" src="auto" selected="1">NNMP7-----A----</AM>
 <AM lemma="zaměstnanec" src="auto" recommended="1">NNMS3-----A----</AM>
 <AM lemma="zaměstnanec" src="auto">NNMS6-----A----</AM>
 </tag>
@@ -9542,7 +9603,7 @@
 <AM lemma="zničený_^(*3it)" src="auto">AAMP1----1A----</AM>
 <AM lemma="zničený_^(*3it)" src="auto">AAMP5----1A----</AM>
 <AM lemma="zničení_^(*3it)" src="auto">NNNP1-----A----</AM>
-<AM lemma="zničení_^(*3it)" src="auto">NNNP2-----A----</AM>
+<AM lemma="zničení_^(*3it)" src="auto" selected="1">NNNP2-----A----</AM>
 <AM lemma="zničení_^(*3it)" src="auto">NNNP4-----A----</AM>
 <AM lemma="zničení_^(*3it)" src="auto">NNNP5-----A----</AM>
 <AM lemma="zničení_^(*3it)" src="auto" recommended="1">NNNS1-----A----</AM>
@@ -9571,7 +9632,7 @@
 <AM lemma="zmizený_^(*2t)" src="auto">AAMP1----1A----</AM>
 <AM lemma="zmizený_^(*2t)" src="auto">AAMP5----1A----</AM>
 <AM lemma="zmizení_^(*2t)" src="auto">NNNP1-----A----</AM>
-<AM lemma="zmizení_^(*2t)" src="auto">NNNP2-----A----</AM>
+<AM lemma="zmizení_^(*2t)" src="auto" selected="1">NNNP2-----A----</AM>
 <AM lemma="zmizení_^(*2t)" src="auto">NNNP4-----A----</AM>
 <AM lemma="zmizení_^(*2t)" src="auto">NNNP5-----A----</AM>
 <AM lemma="zmizení_^(*2t)" src="auto" recommended="1">NNNS1-----A----</AM>
@@ -9697,7 +9758,7 @@
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS2-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -9723,6 +9784,7 @@
 <tag>
 <AM lemma="Newport_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Newport_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Newport-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s40W12-Ta">
@@ -9735,6 +9797,7 @@
 <AM lemma="beach-1_,t_^(plážový_volejbal)" src="auto">NNIS1-----A----</AM>
 <AM lemma="beach-1_,t_^(plážový_volejbal)" src="auto">NNIS4-----A----</AM>
 <AM lemma="beach-2_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Beach-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s40W13-Ta">
@@ -9839,6 +9902,7 @@
 <AM lemma="Douglas-1_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Douglas-2_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Douglas-3_;K_,t_^(souč._názvů,_např._McDonnel_D.)" src="auto">NNIXX-----A----</AM>
+<AM lemma="Douglas-2_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s41W2-Ta">
@@ -9947,7 +10011,7 @@
 <form>Kellyho</form>
 <tag>
 <AM lemma="Kelly_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Kelly_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Kelly_;S" src="auto" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s41W10-Ta">
@@ -9962,6 +10026,7 @@
 <AM lemma="sen-1_,t_^(měnová_jednotka)" src="auto">NNIS1-----A----</AM>
 <AM lemma="sen-1_,t_^(měnová_jednotka)" src="auto">NNIS4-----A----</AM>
 <AM lemma="seno" src="auto">NNNP2-----A----</AM>
+<AM lemma="sen-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s41W11-Ta">
@@ -10023,7 +10088,7 @@
 <form>prezidenta</form>
 <tag>
 <AM lemma="prezident" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="prezident" src="auto">NNMS4-----A----</AM>
+<AM lemma="prezident" src="auto" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s41W17-Ta">
@@ -10048,7 +10113,10 @@
 <LM>w#w-wsj1568-001-p1s41W18</LM>
 </w.rf>
 <form>Capital</form>
-<tag lemma="Capital" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Capital" src="auto">X@-------------</AM>
+<AM lemma="Capital-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1568-001-p1s41W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10059,6 +10127,7 @@
 <tag>
 <AM lemma="trust" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="trust" src="auto">NNIS4-----A----</AM>
+<AM lemma="Trust-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s41W20-Ta">
@@ -10443,7 +10512,7 @@
 <form>v</form>
 <tag>
 <AM lemma="v-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="v-1" src="auto">RR--6----------</AM>
+<AM lemma="v-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
@@ -10458,6 +10527,7 @@
 <tag>
 <AM lemma="Newport_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Newport_;G" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Newport-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s43W4-Ta">
@@ -10470,6 +10540,7 @@
 <AM lemma="beach-1_,t_^(plážový_volejbal)" src="auto">NNIS1-----A----</AM>
 <AM lemma="beach-1_,t_^(plážový_volejbal)" src="auto">NNIS4-----A----</AM>
 <AM lemma="beach-2_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Beach-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s43W5-Ta">
@@ -10683,7 +10754,7 @@
 </w.rf>
 <form>málo</form>
 <tag>
-<AM lemma="málo-1_^(málo_peněz)" src="auto">Ca--1----------</AM>
+<AM lemma="málo-1_^(málo_peněz)" src="auto" selected="1">Ca--1----------</AM>
 <AM lemma="málo-1_^(málo_peněz)" src="auto">Ca--2---------1</AM>
 <AM lemma="málo-1_^(málo_peněz)" src="auto">Ca--3----------</AM>
 <AM lemma="málo-1_^(málo_peněz)" src="auto" recommended="1">Ca--4----------</AM>
@@ -11147,6 +11218,7 @@
 <tag>
 <AM lemma="Newport_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Newport_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Newport-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s46W12-Ta">
@@ -11159,6 +11231,7 @@
 <AM lemma="beach-1_,t_^(plážový_volejbal)" src="auto">NNIS1-----A----</AM>
 <AM lemma="beach-1_,t_^(plážový_volejbal)" src="auto">NNIS4-----A----</AM>
 <AM lemma="beach-2_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Beach-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s46W13-Ta">
@@ -11624,7 +11697,7 @@
 <AM lemma="velký" src="auto">AAIP1----1A---6</AM>
 <AM lemma="velký" src="auto">AAIP4----1A---6</AM>
 <AM lemma="velký" src="auto">AAIP5----1A---6</AM>
-<AM lemma="velký" src="auto">AAIS1----1A----</AM>
+<AM lemma="velký" src="auto" selected="1">AAIS1----1A----</AM>
 <AM lemma="velký" src="auto" recommended="1">AAIS4----1A----</AM>
 <AM lemma="velký" src="auto">AAIS5----1A----</AM>
 <AM lemma="velký" src="auto">AAMP1----1A---6</AM>
@@ -11647,7 +11720,7 @@
 </w.rf>
 <form>rozdíl</form>
 <tag>
-<AM lemma="rozdíl" src="auto">NNIS1-----A----</AM>
+<AM lemma="rozdíl" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="rozdíl" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -11701,6 +11774,7 @@
 <tag>
 <AM lemma="Newport_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Newport_;G" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Newport-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s48W4-Ta">
@@ -11713,6 +11787,7 @@
 <AM lemma="beach-1_,t_^(plážový_volejbal)" src="auto">NNIS1-----A----</AM>
 <AM lemma="beach-1_,t_^(plážový_volejbal)" src="auto">NNIS4-----A----</AM>
 <AM lemma="beach-2_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Beach-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s48W5-Ta">
@@ -11763,7 +11838,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -11852,6 +11927,7 @@
 <tag>
 <AM lemma="Matthew_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Matthew_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Matthew_;S_;Y" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s49W5-Ta">
@@ -11870,6 +11946,8 @@
 <AM lemma="Valentinos_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="Valentinus_;S" src="auto">NNMS2-----A----</AM>
 <AM lemma="Valentinus_;S" src="auto">NNMS4-----A----</AM>
+<AM lemma="Valentino_;S_;Y" src="manual">NNMS2-----A----</AM>
+<AM lemma="Valentine-1_;S_^(muž)" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s49W6-Ta">
@@ -12055,7 +12133,10 @@
 <LM>w#w-wsj1568-001-p1s49W17</LM>
 </w.rf>
 <form>Lompoc</form>
-<tag lemma="Lompoc" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Lompoc" src="auto">X@-------------</AM>
+<AM lemma="Lompoc_;G" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1568-001-p1s49W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12125,7 +12206,10 @@
 <LM>w#w-wsj1568-001-p1s49W23</LM>
 </w.rf>
 <form>Intech</form>
-<tag lemma="Intech" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Intech" src="auto">X@-------------</AM>
+<AM lemma="Intech-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1568-001-p1s49W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12136,6 +12220,7 @@
 <tag>
 <AM lemma="Investment_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Investment_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Investment-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s49W25-Ta">
@@ -12144,7 +12229,10 @@
 <LM>w#w-wsj1568-001-p1s49W25</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1568-001-p1s49W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12301,6 +12389,7 @@
 <AM lemma="Valentine-1_;S_^(muž)" src="auto">NNMS5-----A----</AM>
 <AM lemma="Valentine-1_;S_^(muž)" src="auto">NNMXX-----A----</AM>
 <AM lemma="Valentine-2_;S_^(žena)" src="auto">NNFSX-----A----</AM>
+<AM lemma="Valentine-1_;S_^(muž)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s50W3-Ta">
@@ -12613,7 +12702,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>
@@ -12630,6 +12719,7 @@
 <AM lemma="lido" src="auto">NNNS1-----A----</AM>
 <AM lemma="lido" src="auto">NNNS4-----A----</AM>
 <AM lemma="lido" src="auto">NNNS5-----A----</AM>
+<AM lemma="Lido-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s50W31-Ta">
@@ -12638,7 +12728,10 @@
 <LM>w#w-wsj1568-001-p1s50W31</LM>
 </w.rf>
 <form>Isle</form>
-<tag lemma="Isle" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Isle" src="auto">X@-------------</AM>
+<AM lemma="Isle-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1568-001-p1s50W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12763,7 +12856,7 @@
 <tag>
 <AM lemma="přijatý_^(*3mout)" src="auto">AAFP2----1A----</AM>
 <AM lemma="přijatý_^(*3mout)" src="auto">AAFP6----1A----</AM>
-<AM lemma="přijatý_^(*3mout)" src="auto">AAIP2----1A----</AM>
+<AM lemma="přijatý_^(*3mout)" src="auto" selected="1">AAIP2----1A----</AM>
 <AM lemma="přijatý_^(*3mout)" src="auto">AAIP6----1A----</AM>
 <AM lemma="přijatý_^(*3mout)" src="auto" recommended="1">AAMP2----1A----</AM>
 <AM lemma="přijatý_^(*3mout)" src="auto">AAMP6----1A----</AM>
@@ -13288,7 +13381,7 @@
 </w.rf>
 <form>utrácí</form>
 <tag>
-<AM lemma="utrácet" src="auto">VB-P---3P-AAI-1</AM>
+<AM lemma="utrácet" src="auto" selected="1">VB-P---3P-AAI-1</AM>
 <AM lemma="utrácet" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -13406,6 +13499,7 @@
 <AM lemma="Las-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="las-77" src="auto">F%-------------</AM>
 <AM lemma="laso" src="auto">NNNP2-----A----</AM>
+<AM lemma="Las-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s52W23-Ta">
@@ -13414,7 +13508,10 @@
 <LM>w#w-wsj1568-001-p1s52W23</LM>
 </w.rf>
 <form>Vegas</form>
-<tag lemma="Vegas_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Vegas_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Vegas-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1568-001-p1s52W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13680,7 +13777,10 @@
 <LM>w#w-wsj1568-001-p1s54W4</LM>
 </w.rf>
 <form>Ciavarella</form>
-<tag lemma="Ciavarella" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ciavarella" src="auto">X@-------------</AM>
+<AM lemma="Ciavarella_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1568-001-p1s54W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13760,7 +13860,10 @@
 <LM>w#w-wsj1568-001-p1s54W9</LM>
 </w.rf>
 <form>Property</form>
-<tag lemma="Property" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Property" src="auto">X@-------------</AM>
+<AM lemma="Property-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1568-001-p1s54W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13771,6 +13874,7 @@
 <tag>
 <AM lemma="management_,s_^(^DD**manažment)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="management_,s_^(^DD**manažment)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Management-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s54W11-Ta">
@@ -13779,7 +13883,10 @@
 <LM>w#w-wsj1568-001-p1s54W11</LM>
 </w.rf>
 <form>Systems</form>
-<tag lemma="Systems" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Systems" src="auto">X@-------------</AM>
+<AM lemma="Systems-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1568-001-p1s54W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13948,7 +14055,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>
@@ -14054,7 +14161,10 @@
 <LM>w#w-wsj1568-001-p1s54W34</LM>
 </w.rf>
 <form>Fashion</form>
-<tag lemma="Fashion" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Fashion" src="auto">X@-------------</AM>
+<AM lemma="Fashion-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1568-001-p1s54W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -14084,7 +14194,7 @@
 <form>které</form>
 <tag>
 <AM lemma="který" src="auto">P4FP1----------</AM>
-<AM lemma="který" src="auto">P4FP4----------</AM>
+<AM lemma="který" src="auto" selected="1">P4FP4----------</AM>
 <AM lemma="který" src="auto">P4FS2----------</AM>
 <AM lemma="který" src="auto">P4FS3----------</AM>
 <AM lemma="který" src="auto">P4FS6----------</AM>
@@ -14155,6 +14265,7 @@
 <AM lemma="Irvine-1_;Y" src="auto">NNMS5-----A----</AM>
 <AM lemma="Irvine-1_;Y" src="auto">NNMXX-----A----</AM>
 <AM lemma="Irvine-2_;G" src="auto">NNNSX-----A----</AM>
+<AM lemma="Irvine-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s54W43-Ta">
@@ -14171,6 +14282,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s54W44-Ta">
@@ -14268,7 +14380,10 @@
 <LM>w#w-wsj1568-001-p1s55W2</LM>
 </w.rf>
 <form>Ciavarella</form>
-<tag lemma="Ciavarella" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ciavarella" src="auto">X@-------------</AM>
+<AM lemma="Ciavarella_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1568-001-p1s55W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -14689,7 +14804,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -14871,7 +14986,10 @@
 <LM>w#w-wsj1568-001-p1s57W2</LM>
 </w.rf>
 <form>Luehrs</form>
-<tag lemma="Luehrs" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Luehrs" src="auto">X@-------------</AM>
+<AM lemma="Luehrs_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1568-001-p1s57W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -15531,6 +15649,7 @@
 <tag>
 <AM lemma="journal" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="journal" src="auto">NNIS4-----A----</AM>
+<AM lemma="Journal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1568-001-p1s59W11-Ta">

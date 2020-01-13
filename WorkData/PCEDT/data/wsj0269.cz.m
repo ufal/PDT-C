@@ -303,7 +303,10 @@
 <LM>w#w-wsj0269-001-p1s0W23</LM>
 </w.rf>
 <form>Garbage</form>
-<tag lemma="Garbage" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Garbage" src="auto">X@-------------</AM>
+<AM lemma="Garbage_;R" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0269-001-p1s0W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -369,6 +372,7 @@
 <tag>
 <AM lemma="journal" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="journal" src="auto">NNIS4-----A----</AM>
+<AM lemma="Journal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0269-001-p1s0W30-Ta">
@@ -491,7 +495,7 @@
 <AM lemma="jen-2_^(japonská_měna)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jen-2_^(japonská_měna)" src="auto">NNIS4-----A----</AM>
 <AM lemma="jen-3" src="auto">J,-------------</AM>
-<AM lemma="jen-4_^(pouze)" src="auto">Db-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0269-001-p1s0W41-Ta">
@@ -640,7 +644,10 @@
 <LM>w#w-wsj0269-001-p1s1W4</LM>
 </w.rf>
 <form>Times</form>
-<tag lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="auto" recommended="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="auto" recommended="1">NNIPX-----A----</AM>
+<AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0269-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1014,7 +1021,7 @@
 <AM lemma="odpadky" src="auto">NNIP1-----A----</AM>
 <AM lemma="odpadky" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="odpadky" src="auto">NNIP5-----A----</AM>
-<AM lemma="odpadky" src="auto">NNIP7-----A----</AM>
+<AM lemma="odpadky" src="auto" selected="1">NNIP7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0269-001-p1s2W22-Ta">
@@ -1040,7 +1047,7 @@
 </w.rf>
 <form>všechny</form>
 <tag>
-<AM lemma="všechen" src="auto">PLFP1----------</AM>
+<AM lemma="všechen" src="auto" selected="1">PLFP1----------</AM>
 <AM lemma="všechen" src="auto" recommended="1">PLFP4----------</AM>
 <AM lemma="všechen" src="auto">PLFP5----------</AM>
 <AM lemma="všechen" src="auto">PLIP1----------</AM>
@@ -1055,7 +1062,7 @@
 </w.rf>
 <form>oblasti</form>
 <tag>
-<AM lemma="oblast" src="auto">NNFP1-----A----</AM>
+<AM lemma="oblast" src="auto" selected="1">NNFP1-----A----</AM>
 <AM lemma="oblast" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="oblast" src="auto">NNFP5-----A----</AM>
 <AM lemma="oblast" src="auto">NNFS2-----A----</AM>
@@ -1295,6 +1302,7 @@
 <tag>
 <AM lemma="journal" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="journal" src="auto">NNIS4-----A----</AM>
+<AM lemma="Journal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0269-001-p1s3W4-Ta">
@@ -1514,7 +1522,7 @@
 <form>tisíce</form>
 <tag>
 <AM lemma="tisíc-2`1000" src="auto" recommended="1">NNIP1-----A----</AM>
-<AM lemma="tisíc-2`1000" src="auto">NNIP4-----A----</AM>
+<AM lemma="tisíc-2`1000" src="auto" selected="1">NNIP4-----A----</AM>
 <AM lemma="tisíc-2`1000" src="auto">NNIP5-----A----</AM>
 <AM lemma="tisíc-2`1000" src="auto">NNIS2-----A----</AM>
 </tag>
@@ -1933,7 +1941,10 @@
 <LM>w#w-wsj0269-001-p1s5W1</LM>
 </w.rf>
 <form>Virginia</form>
-<tag lemma="Virginia_;G" src="auto" recommended="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Virginia_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Virginia-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0269-001-p1s5W2-Ta">
 <src.rf>tagger-a</src.rf>

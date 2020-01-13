@@ -196,7 +196,10 @@
 <LM>w#w-wsj1476-001-p1s0W14</LM>
 </w.rf>
 <form>Clean</form>
-<tag lemma="Clean" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Clean" src="auto">X@-------------</AM>
+<AM lemma="Clean-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1476-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -204,7 +207,10 @@
 <LM>w#w-wsj1476-001-p1s0W15</LM>
 </w.rf>
 <form>Harbors</form>
-<tag lemma="Harbors" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Harbors" src="auto">X@-------------</AM>
+<AM lemma="Harbors-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1476-001-p1s0W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -215,6 +221,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1476-001-p1s0W17-Ta">
@@ -315,7 +322,10 @@
 <LM>w#w-wsj1476-001-p1s0W24</LM>
 </w.rf>
 <form>Braintree</form>
-<tag lemma="Braintree" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Braintree" src="auto">X@-------------</AM>
+<AM lemma="Braintree_;G" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1476-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -410,7 +420,7 @@
 <AM lemma="dostačující_^(*5ovat)" src="auto">AGFP1-----N----</AM>
 <AM lemma="dostačující_^(*5ovat)" src="auto">AGFP4-----N----</AM>
 <AM lemma="dostačující_^(*5ovat)" src="auto">AGFP5-----N----</AM>
-<AM lemma="dostačující_^(*5ovat)" src="auto">AGFS1-----N----</AM>
+<AM lemma="dostačující_^(*5ovat)" src="auto" selected="1">AGFS1-----N----</AM>
 <AM lemma="dostačující_^(*5ovat)" src="auto">AGFS2-----N----</AM>
 <AM lemma="dostačující_^(*5ovat)" src="auto">AGFS3-----N----</AM>
 <AM lemma="dostačující_^(*5ovat)" src="auto">AGFS4-----N----</AM>
@@ -599,7 +609,10 @@
 <LM>w#w-wsj1476-001-p1s1W15</LM>
 </w.rf>
 <form>DeVillars</form>
-<tag lemma="DeVillars" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="DeVillars" src="auto">X@-------------</AM>
+<AM lemma="DeVillars_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1476-001-p1s1W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -617,7 +630,7 @@
 <form>společnost</form>
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS4-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1476-001-p1s1W18-Ta">
@@ -626,7 +639,10 @@
 <LM>w#w-wsj1476-001-p1s1W18</LM>
 </w.rf>
 <form>Clean</form>
-<tag lemma="Clean" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Clean" src="auto">X@-------------</AM>
+<AM lemma="Clean-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1476-001-p1s1W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -634,7 +650,10 @@
 <LM>w#w-wsj1476-001-p1s1W19</LM>
 </w.rf>
 <form>Harbors</form>
-<tag lemma="Harbors" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Harbors" src="auto">X@-------------</AM>
+<AM lemma="Harbors-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1476-001-p1s1W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -734,6 +753,11 @@
 </w.rf>
 <form>Brainstree</form>
 <tag lemma="Brainstree" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Braintree</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1476-001-p1s2W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -864,7 +888,10 @@
 <LM>w#w-wsj1476-001-p1s3W2</LM>
 </w.rf>
 <form>Clean</form>
-<tag lemma="Clean" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Clean" src="auto">X@-------------</AM>
+<AM lemma="Clean-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1476-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -872,7 +899,10 @@
 <LM>w#w-wsj1476-001-p1s3W3</LM>
 </w.rf>
 <form>Harbors</form>
-<tag lemma="Harbors" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Harbors" src="auto">X@-------------</AM>
+<AM lemma="Harbors-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1476-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -926,6 +956,7 @@
 <AM lemma="Quincy_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Quincy_;Y_,t" src="auto">NNMS5-----A----</AM>
 <AM lemma="Quincy_;Y_,t" src="auto">NNMXX-----A----</AM>
+<AM lemma="Quincy.2_;G" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1476-001-p1s3W9-Ta">
@@ -1102,7 +1133,10 @@
 <LM>w#w-wsj1476-001-p1s4W2</LM>
 </w.rf>
 <form>McKim</form>
-<tag lemma="McKim" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="McKim" src="auto">X@-------------</AM>
+<AM lemma="McKim_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1476-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1174,7 +1208,10 @@
 <LM>w#w-wsj1476-001-p1s4W7</LM>
 </w.rf>
 <form>Clean</form>
-<tag lemma="Clean" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Clean" src="auto">X@-------------</AM>
+<AM lemma="Clean-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1476-001-p1s4W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1182,7 +1219,10 @@
 <LM>w#w-wsj1476-001-p1s4W8</LM>
 </w.rf>
 <form>Harbors</form>
-<tag lemma="Harbors" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Harbors" src="auto">X@-------------</AM>
+<AM lemma="Harbors-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1476-001-p1s4W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1340,7 +1380,10 @@
 <LM>w#w-wsj1476-001-p1s4W25</LM>
 </w.rf>
 <form>Clean</form>
-<tag lemma="Clean" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Clean" src="auto">X@-------------</AM>
+<AM lemma="Clean-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1476-001-p1s4W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1348,7 +1391,10 @@
 <LM>w#w-wsj1476-001-p1s4W26</LM>
 </w.rf>
 <form>Harbors</form>
-<tag lemma="Harbors" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Harbors" src="auto">X@-------------</AM>
+<AM lemma="Harbors-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1476-001-p1s4W27-Ta">
 <src.rf>tagger-a</src.rf>

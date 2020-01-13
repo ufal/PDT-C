@@ -62,6 +62,7 @@
 <AM lemma="rosa" src="auto">NNFS3-----A----</AM>
 <AM lemma="rosa" src="auto">NNFS6-----A----</AM>
 <AM lemma="rosit" src="auto">VeYS------A-I--</AM>
+<AM lemma="Rose-2_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1839-001-p1s0W4-Ta">
@@ -70,7 +71,10 @@
 <LM>w#w-wsj1839-001-p1s0W4</LM>
 </w.rf>
 <form>Oakarová</form>
-<tag lemma="Oakarová" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Oakarová" src="auto">X@-------------</AM>
+<AM lemma="Oakarová_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1839-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -251,7 +255,10 @@
 <LM>w#w-wsj1839-001-p1s0W19</LM>
 </w.rf>
 <form>programech</form>
-<tag lemma="program-1" src="auto" recommended="1">NNIP6-----A----</tag>
+<tag>
+<AM lemma="program-1" src="auto" recommended="1">NNIP6-----A----</AM>
+<AM lemma="program" src="manual" selected="1">NNIP6-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1839-001-p1s0W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -604,7 +611,7 @@
 </w.rf>
 <form>ministra</form>
 <tag>
-<AM lemma="ministr" src="auto">NNMS2-----A----</AM>
+<AM lemma="ministr" src="auto" selected="1">NNMS2-----A----</AM>
 <AM lemma="ministr" src="auto" recommended="1">NNMS4-----A----</AM>
 </tag>
 </m>
@@ -1935,6 +1942,7 @@
 <AM lemma="ať" src="auto">J^-------------</AM>
 <AM lemma="ať-1" src="auto" recommended="1">J,-------------</AM>
 <AM lemma="ať-2" src="auto">TT-------------</AM>
+<AM lemma="ať-3" src="manual" selected="1">J^-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1839-001-p1s7W20-Ta">
@@ -2071,7 +2079,7 @@
 <form>ani</form>
 <tag>
 <AM lemma="ani-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="ani-2" src="auto">TT-------------</AM>
+<AM lemma="ani-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1839-001-p1s7W33-Ta">
@@ -2122,7 +2130,7 @@
 <form>tak</form>
 <tag>
 <AM lemma="taka-1_;L" src="auto">NNFP2-----A----</AM>
-<AM lemma="tak-1" src="auto">TT-------------</AM>
+<AM lemma="tak-1" src="auto" selected="1">TT-------------</AM>
 <AM lemma="tak-2" src="auto">J^-------------</AM>
 <AM lemma="tak-3" src="auto" recommended="1">Db-------------</AM>
 </tag>
@@ -2488,6 +2496,7 @@
 <AM lemma="program-1" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="program-1" src="auto">NNIP5-----A----</AM>
 <AM lemma="program-1" src="auto">NNIP7-----A----</AM>
+<AM lemma="program" src="manual" selected="1">NNIP4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1839-001-p1s8W18-Ta">
@@ -2707,7 +2716,7 @@
 <form>příležitost</form>
 <tag>
 <AM lemma="příležitost" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="příležitost" src="auto">NNFS4-----A----</AM>
+<AM lemma="příležitost" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1839-001-p1s9W13-Ta">

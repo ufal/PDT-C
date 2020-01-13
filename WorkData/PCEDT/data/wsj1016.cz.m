@@ -52,7 +52,10 @@
 <LM>w#w-wsj1016-001-p1s0W4</LM>
 </w.rf>
 <form>Orkem</form>
-<tag lemma="Orko_;S" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Orko_;S" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="Orkem-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1016-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -231,7 +234,10 @@
 <LM>w#w-wsj1016-001-p1s0W20</LM>
 </w.rf>
 <form>Coates</form>
-<tag lemma="Coates_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Coates_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Coates-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1016-001-p1s0W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -240,7 +246,7 @@
 </w.rf>
 <form>Brothers</form>
 <tag>
-<AM lemma="Brothers-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Brothers-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="brothers-77_,t" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -386,7 +392,10 @@
 <LM>w#w-wsj1016-001-p1s1W4</LM>
 </w.rf>
 <form>Orkem</form>
-<tag lemma="Orko_;S" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Orko_;S" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="Orkem_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1016-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -478,7 +487,10 @@
 <LM>w#w-wsj1016-001-p1s1W10</LM>
 </w.rf>
 <form>Coates</form>
-<tag lemma="Coates_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Coates_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Coates-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1016-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -589,7 +601,7 @@
 <AM lemma="zbývající_^(*4t)" src="auto" recommended="1">AGFS1-----A----</AM>
 <AM lemma="zbývající_^(*4t)" src="auto">AGFS2-----A----</AM>
 <AM lemma="zbývající_^(*4t)" src="auto">AGFS3-----A----</AM>
-<AM lemma="zbývající_^(*4t)" src="auto">AGFS4-----A----</AM>
+<AM lemma="zbývající_^(*4t)" src="auto" selected="1">AGFS4-----A----</AM>
 <AM lemma="zbývající_^(*4t)" src="auto">AGFS5-----A----</AM>
 <AM lemma="zbývající_^(*4t)" src="auto">AGFS6-----A----</AM>
 <AM lemma="zbývající_^(*4t)" src="auto">AGFS7-----A----</AM>
@@ -620,7 +632,7 @@
 <form>část</form>
 <tag>
 <AM lemma="část" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="část" src="auto">NNFS4-----A----</AM>
+<AM lemma="část" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1016-001-p1s2W9-Ta">
@@ -641,7 +653,7 @@
 </w.rf>
 <form>veřejnost</form>
 <tag>
-<AM lemma="veřejnost_^(*3ý)" src="auto">NNFS1-----A----</AM>
+<AM lemma="veřejnost_^(*3ý)" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="veřejnost_^(*3ý)" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
@@ -666,7 +678,7 @@
 </w.rf>
 <form>obchodní</form>
 <tag>
-<AM lemma="obchodní" src="auto">AAFP1----1A----</AM>
+<AM lemma="obchodní" src="auto" selected="1">AAFP1----1A----</AM>
 <AM lemma="obchodní" src="auto" recommended="1">AAFP4----1A----</AM>
 <AM lemma="obchodní" src="auto">AAFP5----1A----</AM>
 <AM lemma="obchodní" src="auto">AAFS1----1A----</AM>
@@ -702,7 +714,7 @@
 </w.rf>
 <form>rodiny</form>
 <tag>
-<AM lemma="rodina" src="auto">NNFP1-----A----</AM>
+<AM lemma="rodina" src="auto" selected="1">NNFP1-----A----</AM>
 <AM lemma="rodina" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="rodina" src="auto">NNFP5-----A----</AM>
 <AM lemma="rodina" src="auto">NNFS2-----A----</AM>
@@ -735,7 +747,10 @@
 <LM>w#w-wsj1016-001-p1s3W2</LM>
 </w.rf>
 <form>Orkem</form>
-<tag lemma="Orko_;S" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Orko_;S" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="Orkem_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1016-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -830,7 +845,7 @@
 <LM>w#w-wsj1016-001-p1s3W10</LM>
 </w.rf>
 <form>pouze</form>
-<tag lemma="pouze" src="auto" recommended="1">Db-------------</tag>
+<tag lemma="pouze" src="auto" recommended="1" selected="1">Db-------------</tag>
 </m>
 <m id="m-wsj1016-001-p1s3W11-Ta">
 <src.rf>tagger-a</src.rf>

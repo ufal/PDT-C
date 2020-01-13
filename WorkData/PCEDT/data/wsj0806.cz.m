@@ -27,7 +27,10 @@
 <LM>w#w-wsj0806-001-p1s0W2</LM>
 </w.rf>
 <form>HEALTHDYNE</form>
-<tag lemma="HEALTHDYNE" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="HEALTHDYNE" src="auto">X@-------------</AM>
+<AM lemma="HEALTHDYNE-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0806-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -38,6 +41,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0806-001-p1s0W4-Ta">
@@ -173,6 +177,7 @@
 <tag>
 <AM lemma="Home_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="home_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="Home-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0806-001-p1s0W17-Ta">
@@ -181,7 +186,10 @@
 <LM>w#w-wsj0806-001-p1s0W17</LM>
 </w.rf>
 <form>Nutritional</form>
-<tag lemma="Nutritional" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Nutritional" src="auto">X@-------------</AM>
+<AM lemma="Nutritional-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0806-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -189,7 +197,10 @@
 <LM>w#w-wsj0806-001-p1s0W18</LM>
 </w.rf>
 <form>Services</form>
-<tag lemma="Services" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Services" src="auto">X@-------------</AM>
+<AM lemma="Services-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0806-001-p1s0W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -200,6 +211,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0806-001-p1s0W20-Ta">
@@ -618,6 +630,7 @@
 <tag>
 <AM lemma="Home_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="home_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="Home-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0806-001-p1s1W18-Ta">
@@ -626,7 +639,10 @@
 <LM>w#w-wsj0806-001-p1s1W18</LM>
 </w.rf>
 <form>Nutritional</form>
-<tag lemma="Nutritional" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Nutritional" src="auto">X@-------------</AM>
+<AM lemma="Nutritional-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0806-001-p1s1W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -634,7 +650,10 @@
 <LM>w#w-wsj0806-001-p1s1W19</LM>
 </w.rf>
 <form>Services</form>
-<tag lemma="Services" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Services" src="auto">X@-------------</AM>
+<AM lemma="Services-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0806-001-p1s1W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -651,7 +670,7 @@
 </w.rf>
 <form>zbývajících</form>
 <tag>
-<AM lemma="zbývající_^(*4t)" src="auto">AGFP2-----A----</AM>
+<AM lemma="zbývající_^(*4t)" src="auto" selected="1">AGFP2-----A----</AM>
 <AM lemma="zbývající_^(*4t)" src="auto">AGFP6-----A----</AM>
 <AM lemma="zbývající_^(*4t)" src="auto">AGIP2-----A----</AM>
 <AM lemma="zbývající_^(*4t)" src="auto">AGIP6-----A----</AM>
@@ -888,7 +907,7 @@
 <form>výtěžek</form>
 <tag>
 <AM lemma="výtěžek" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="výtěžek" src="auto">NNIS4-----A----</AM>
+<AM lemma="výtěžek" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0806-001-p1s3W9-Ta">
@@ -1199,6 +1218,7 @@
 <tag>
 <AM lemma="Home_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="home_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="Home-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0806-001-p1s4W3-Ta">
@@ -1207,7 +1227,10 @@
 <LM>w#w-wsj0806-001-p1s4W3</LM>
 </w.rf>
 <form>Nutritional</form>
-<tag lemma="Nutritional" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Nutritional" src="auto">X@-------------</AM>
+<AM lemma="Nutritional-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0806-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1516,7 +1539,10 @@
 <LM>w#w-wsj0806-001-p1s5W20</LM>
 </w.rf>
 <form>Healthdyne</form>
-<tag lemma="Healthdyne" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Healthdyne" src="auto">X@-------------</AM>
+<AM lemma="Healthdyne_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0806-001-p1s5W21-Ta">
 <src.rf>tagger-a</src.rf>

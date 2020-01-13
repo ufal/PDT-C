@@ -203,7 +203,10 @@
 <LM>w#w-wsj1452-001-p1s0W16</LM>
 </w.rf>
 <form>Capital</form>
-<tag lemma="Capital" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Capital" src="auto">X@-------------</AM>
+<AM lemma="Capital-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1452-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -215,6 +218,7 @@
 <AM lemma="Ganga_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="gang" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="gang" src="auto">NNIS4-----A----</AM>
+<AM lemma="Gang-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1452-001-p1s0W18-Ta">

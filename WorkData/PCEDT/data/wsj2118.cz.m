@@ -27,7 +27,10 @@
 <LM>w#w-wsj2118-001-p1s0W2</LM>
 </w.rf>
 <form>CAE</form>
-<tag lemma="CAE-88_:B" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="CAE-88_:B" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
+<AM lemma="CAE-77" src="manual">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2118-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj2118-001-p1s0W3</LM>
 </w.rf>
 <form>Industries</form>
-<tag lemma="Industries" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Industries" src="auto">X@-------------</AM>
+<AM lemma="Industries-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2118-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,7 +49,10 @@
 <LM>w#w-wsj2118-001-p1s0W4</LM>
 </w.rf>
 <form>Ltd</form>
-<tag lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Ltd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2118-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -122,6 +131,7 @@
 <AM lemma="Link-2_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="link-1" src="auto">NNIS1-----A----</AM>
 <AM lemma="link-1" src="auto">NNIS4-----A----</AM>
+<AM lemma="Link-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2118-001-p1s0W12-Ta">
@@ -133,6 +143,7 @@
 <tag>
 <AM lemma="flight_,t_^(skupina_hráčů_na_hřišti)" src="auto">NNIS1-----A----</AM>
 <AM lemma="flight_,t_^(skupina_hráčů_na_hřišti)" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Flight-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2118-001-p1s0W13-Ta">
@@ -141,7 +152,10 @@
 <LM>w#w-wsj2118-001-p1s0W13</LM>
 </w.rf>
 <form>Simulation</form>
-<tag lemma="Simulation" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Simulation" src="auto">X@-------------</AM>
+<AM lemma="Simulation-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2118-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -275,7 +289,7 @@
 <AM lemma="který" src="auto">P4NP4---------6</AM>
 <AM lemma="který" src="auto">P4NS1----------</AM>
 <AM lemma="který" src="auto">P4NS4----------</AM>
-<AM lemma="který" src="auto">P4YP4----------</AM>
+<AM lemma="který" src="auto" selected="1">P4YP4----------</AM>
 </tag>
 </m>
 <m id="m-wsj2118-001-p1s0W25-Ta">
@@ -580,6 +594,7 @@
 <tag>
 <AM lemma="ampérhodina" src="auto">NNFXX-----A---8</AM>
 <AM lemma="ah" src="auto" recommended="1">II-------------</AM>
+<AM lemma="AH-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2118-001-p1s1W11-Ta">
@@ -604,7 +619,10 @@
 <LM>w#w-wsj2118-001-p1s1W13</LM>
 </w.rf>
 <form>Apache</form>
-<tag lemma="Apache_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Apache_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Apache-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2118-001-p1s1W14-Ta">
 <src.rf>tagger-a</src.rf>

@@ -88,7 +88,7 @@
 </w.rf>
 <form>na</form>
 <tag>
-<AM lemma="na-1" src="auto">RR--4----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--4----------</AM>
 <AM lemma="na-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
@@ -109,7 +109,7 @@
 <AM lemma="shromáždění_^(*3it)" src="auto">NNNS1-----A----</AM>
 <AM lemma="shromáždění_^(*3it)" src="auto">NNNS2-----A----</AM>
 <AM lemma="shromáždění_^(*3it)" src="auto">NNNS3-----A----</AM>
-<AM lemma="shromáždění_^(*3it)" src="auto">NNNS4-----A----</AM>
+<AM lemma="shromáždění_^(*3it)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="shromáždění_^(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="shromáždění_^(*3it)" src="auto" recommended="1">NNNS6-----A----</AM>
 </tag>
@@ -144,7 +144,7 @@
 <AM lemma="řízení_^(*4dit)" src="auto">NNNS1-----A----</AM>
 <AM lemma="řízení_^(*4dit)" src="auto">NNNS2-----A----</AM>
 <AM lemma="řízení_^(*4dit)" src="auto">NNNS3-----A----</AM>
-<AM lemma="řízení_^(*4dit)" src="auto">NNNS4-----A----</AM>
+<AM lemma="řízení_^(*4dit)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="řízení_^(*4dit)" src="auto">NNNS5-----A----</AM>
 <AM lemma="řízení_^(*4dit)" src="auto" recommended="1">NNNS6-----A----</AM>
 </tag>
@@ -559,7 +559,10 @@
 <LM>w#w-wsj1070-001-p1s1W16</LM>
 </w.rf>
 <form>NonProfit</form>
-<tag lemma="NonProfit" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="NonProfit" src="auto">X@-------------</AM>
+<AM lemma="NonProfit-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1070-001-p1s1W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -567,7 +570,10 @@
 <LM>w#w-wsj1070-001-p1s1W17</LM>
 </w.rf>
 <form>Times</form>
-<tag lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="auto" recommended="1">NNIPX-----A----</tag>
+<tag>
+<AM lemma="Times-1_;K_,t_^(souč._názvů,_např._The_Times)" src="auto" recommended="1">NNIPX-----A----</AM>
+<AM lemma="Times-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1070-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -587,7 +593,7 @@
 <AM lemma="měsíčník-1_;L_^(živočich)" src="auto">NNMS3-----A---1</AM>
 <AM lemma="měsíčník-1_;L_^(živočich)" src="auto">NNMS5-----A----</AM>
 <AM lemma="měsíčník-1_;L_^(živočich)" src="auto">NNMS6-----A---1</AM>
-<AM lemma="měsíčník-2_^(časopis)" src="auto">NNIS2-----A----</AM>
+<AM lemma="měsíčník-2_^(časopis)" src="auto" selected="1">NNIS2-----A----</AM>
 <AM lemma="měsíčník-2_^(časopis)" src="auto">NNIS3-----A----</AM>
 <AM lemma="měsíčník-2_^(časopis)" src="auto">NNIS5-----A----</AM>
 <AM lemma="měsíčník-2_^(časopis)" src="auto" recommended="1">NNIS6-----A----</AM>
@@ -600,7 +606,7 @@
 </w.rf>
 <form>informujícího</form>
 <tag>
-<AM lemma="informující_^(*5ovat)" src="auto">AGIS2-----A----</AM>
+<AM lemma="informující_^(*5ovat)" src="auto" selected="1">AGIS2-----A----</AM>
 <AM lemma="informující_^(*5ovat)" src="auto" recommended="1">AGMS2-----A----</AM>
 <AM lemma="informující_^(*5ovat)" src="auto">AGMS4-----A----</AM>
 <AM lemma="informující_^(*5ovat)" src="auto">AGNS2-----A----</AM>

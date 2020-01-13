@@ -16,7 +16,10 @@
 <LM>w#w-wsj2099-001-p1s0W1</LM>
 </w.rf>
 <form>Norcrosská</form>
-<tag lemma="Norcrosská" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Norcrosská" src="auto">X@-------------</AM>
+<AM lemma="norcrosský" src="manual" selected="1">AAFS1----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj2099-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj2099-001-p1s0W3</LM>
 </w.rf>
 <form>Unilab</form>
-<tag lemma="Unilab" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Unilab" src="auto">X@-------------</AM>
+<AM lemma="Unilab-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2099-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,7 +49,10 @@
 <LM>w#w-wsj2099-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2099-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -167,6 +176,7 @@
 <tag>
 <AM lemma="Central_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Central_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Central-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2099-001-p1s0W16-Ta">
@@ -175,7 +185,10 @@
 <LM>w#w-wsj2099-001-p1s0W16</LM>
 </w.rf>
 <form>Diagnostic</form>
-<tag lemma="Diagnostic" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Diagnostic" src="auto">X@-------------</AM>
+<AM lemma="Diagnostic-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2099-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -183,7 +196,10 @@
 <LM>w#w-wsj2099-001-p1s0W17</LM>
 </w.rf>
 <form>Laboratory</form>
-<tag lemma="Laboratory" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Laboratory" src="auto">X@-------------</AM>
+<AM lemma="Laboratory-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2099-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -194,6 +210,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2099-001-p1s0W19-Ta">
@@ -213,7 +230,7 @@
 <tag>
 <AM lemma="prostřednictví" src="auto">NNNP3-----A----</AM>
 <AM lemma="prostřednictví" src="auto" recommended="1">NNNS7-----A----</AM>
-<AM lemma="prostřednictvím" src="auto">RR--2----------</AM>
+<AM lemma="prostřednictvím" src="auto" selected="1">RR--2----------</AM>
 </tag>
 </m>
 <m id="m-wsj2099-001-p1s0W21-Ta">
@@ -492,7 +509,10 @@
 <LM>w#w-wsj2099-001-p1s1W1</LM>
 </w.rf>
 <form>Unilab</form>
-<tag lemma="Unilab" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Unilab" src="auto">X@-------------</AM>
+<AM lemma="Unilab_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2099-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -527,7 +547,10 @@
 <LM>w#w-wsj2099-001-p1s1W5</LM>
 </w.rf>
 <form>MetWest</form>
-<tag lemma="MetWest" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="MetWest" src="auto">X@-------------</AM>
+<AM lemma="MetWest-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2099-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -538,6 +561,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2099-001-p1s1W7-Ta">
@@ -633,7 +657,10 @@
 <LM>w#w-wsj2099-001-p1s1W13</LM>
 </w.rf>
 <form>Unilab</form>
-<tag lemma="Unilab" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Unilab" src="auto">X@-------------</AM>
+<AM lemma="Unilab_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2099-001-p1s1W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -823,7 +850,7 @@
 </w.rf>
 <form>třicet</form>
 <tag>
-<AM lemma="třicet`30" src="auto">Cn-S1----------</AM>
+<AM lemma="třicet`30" src="auto" selected="1">Cn-S1----------</AM>
 <AM lemma="třicet`30" src="auto" recommended="1">Cn-S4----------</AM>
 <AM lemma="třicet`30" src="auto">Cn-S5----------</AM>
 </tag>
@@ -1007,7 +1034,10 @@
 <LM>w#w-wsj2099-001-p1s2W1</LM>
 </w.rf>
 <form>Unilab</form>
-<tag lemma="Unilab" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Unilab" src="auto">X@-------------</AM>
+<AM lemma="Unilab_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2099-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1248,6 +1278,7 @@
 <AM lemma="Tarzan_;Y" src="auto">NNMS4-----A----</AM>
 <AM lemma="tarzan" src="auto">NNMS2-----A----</AM>
 <AM lemma="tarzan" src="auto">NNMS4-----A----</AM>
+<AM lemma="Tarzana_;G" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2099-001-p1s2W20-Ta">
@@ -1497,7 +1528,10 @@
 <LM>w#w-wsj2099-001-p1s3W20</LM>
 </w.rf>
 <form>Unilab</form>
-<tag lemma="Unilab" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Unilab" src="auto">X@-------------</AM>
+<AM lemma="Unilab_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2099-001-p1s3W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1531,7 +1565,10 @@
 <LM>w#w-wsj2099-001-p1s4W2</LM>
 </w.rf>
 <form>Unilab</form>
-<tag lemma="Unilab" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Unilab" src="auto">X@-------------</AM>
+<AM lemma="Unilab_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2099-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1798,7 +1835,10 @@
 <LM>w#w-wsj2099-001-p1s5W16</LM>
 </w.rf>
 <form>Unilab</form>
-<tag lemma="Unilab" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Unilab" src="auto">X@-------------</AM>
+<AM lemma="Unilab_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2099-001-p1s5W17-Ta">
 <src.rf>tagger-a</src.rf>

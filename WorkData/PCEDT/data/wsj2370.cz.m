@@ -597,7 +597,7 @@
 <AM lemma="stabilní" src="auto">AAFP1----1A----</AM>
 <AM lemma="stabilní" src="auto">AAFP4----1A----</AM>
 <AM lemma="stabilní" src="auto">AAFP5----1A----</AM>
-<AM lemma="stabilní" src="auto">AAFS1----1A----</AM>
+<AM lemma="stabilní" src="auto" selected="1">AAFS1----1A----</AM>
 <AM lemma="stabilní" src="auto">AAFS2----1A----</AM>
 <AM lemma="stabilní" src="auto">AAFS3----1A----</AM>
 <AM lemma="stabilní" src="auto">AAFS4----1A----</AM>
@@ -1404,7 +1404,7 @@
 </w.rf>
 <form>dobrém</form>
 <tag>
-<AM lemma="dobrý" src="auto">AAIS6----1A----</AM>
+<AM lemma="dobrý" src="auto" selected="1">AAIS6----1A----</AM>
 <AM lemma="dobrý" src="auto">AAMS6----1A----</AM>
 <AM lemma="dobrý" src="auto" recommended="1">AANS6----1A----</AM>
 </tag>
@@ -1432,7 +1432,7 @@
 <tag>
 <AM lemma="prosperující_^(*5ovat)" src="auto">AGFP3-----A----</AM>
 <AM lemma="prosperující_^(*5ovat)" src="auto">AGIP3-----A----</AM>
-<AM lemma="prosperující_^(*5ovat)" src="auto">AGIS6-----A----</AM>
+<AM lemma="prosperující_^(*5ovat)" src="auto" selected="1">AGIS6-----A----</AM>
 <AM lemma="prosperující_^(*5ovat)" src="auto">AGIS7-----A----</AM>
 <AM lemma="prosperující_^(*5ovat)" src="auto">AGMP3-----A----</AM>
 <AM lemma="prosperující_^(*5ovat)" src="auto">AGMS6-----A----</AM>
@@ -1451,7 +1451,7 @@
 <tag>
 <AM lemma="základ" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="základ" src="auto">NNIS3-----A----</AM>
-<AM lemma="základ" src="auto">NNIS6-----A---1</AM>
+<AM lemma="základ" src="auto" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj2370-001-p1s7W23-Ta">

@@ -27,7 +27,10 @@
 <LM>w#w-wsj1069-001-p1s0W2</LM>
 </w.rf>
 <form>Genentech</form>
-<tag lemma="Genentech" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Genentech" src="auto">X@-------------</AM>
+<AM lemma="Genentech-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1069-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -38,6 +41,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1069-001-p1s0W4-Ta">
@@ -821,7 +825,7 @@
 <form>loňským</form>
 <tag>
 <AM lemma="loňský" src="auto">AAFP3----1A----</AM>
-<AM lemma="loňský" src="auto">AAIP3----1A----</AM>
+<AM lemma="loňský" src="auto" selected="1">AAIP3----1A----</AM>
 <AM lemma="loňský" src="auto">AAIS6----1A---7</AM>
 <AM lemma="loňský" src="auto">AAIS7----1A----</AM>
 <AM lemma="loňský" src="auto" recommended="1">AAMP3----1A----</AM>
@@ -869,7 +873,7 @@
 <form>vzrůst</form>
 <tag>
 <AM lemma="vzrůst-1" src="auto" recommended="1">Vf--------A-P--</AM>
-<AM lemma="vzrůst-2" src="auto">NNIS1-----A----</AM>
+<AM lemma="vzrůst-2" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="vzrůst-2" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -935,7 +939,10 @@
 <LM>w#w-wsj1069-001-p1s3W5</LM>
 </w.rf>
 <form>TPA</form>
-<tag lemma="TPA" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="TPA" src="auto">X@-------------</AM>
+<AM lemma="TPA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1069-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1289,7 +1296,10 @@
 <LM>w#w-wsj1069-001-p1s4W3</LM>
 </w.rf>
 <form>TPA</form>
-<tag lemma="TPA" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="TPA" src="auto">X@-------------</AM>
+<AM lemma="TPA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1069-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1716,7 +1726,10 @@
 <LM>w#w-wsj1069-001-p1s5W12</LM>
 </w.rf>
 <form>Genentech</form>
-<tag lemma="Genentech" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Genentech" src="auto">X@-------------</AM>
+<AM lemma="Genentech_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1069-001-p1s5W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2378,7 +2391,7 @@
 <tag>
 <AM lemma="obrat-2_^(okrást;_vyčistit)" src="auto">Vf--------A-P--</AM>
 <AM lemma="obrat-1_^(z_prodeje_zboží)" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="obrat-1_^(z_prodeje_zboží)" src="auto">NNIS4-----A----</AM>
+<AM lemma="obrat-1_^(z_prodeje_zboží)" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1069-001-p1s8W12-Ta">
@@ -2400,7 +2413,10 @@
 <LM>w#w-wsj1069-001-p1s8W13</LM>
 </w.rf>
 <form>TPA</form>
-<tag lemma="TPA" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="TPA" src="auto">X@-------------</AM>
+<AM lemma="TPA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1069-001-p1s8W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2709,7 +2725,10 @@
 <LM>w#w-wsj1069-001-p1s10W4</LM>
 </w.rf>
 <form>TPA</form>
-<tag lemma="TPA" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="TPA" src="auto">X@-------------</AM>
+<AM lemma="TPA-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1069-001-p1s10W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3277,6 +3296,7 @@
 <AM lemma="Denis_;S" src="auto" recommended="1">NNMS4-----A----</AM>
 <AM lemma="Denisa_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Denisa_;Y" src="auto">NNFS6-----A----</AM>
+<AM lemma="Denise_;Y" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1069-001-p1s13W14-Ta">
@@ -3345,6 +3365,7 @@
 <AM lemma="Montgomery_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Montgomery_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Montgomery_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Montgomery-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1069-001-p1s13W20-Ta">
@@ -3353,7 +3374,10 @@
 <LM>w#w-wsj1069-001-p1s13W20</LM>
 </w.rf>
 <form>Securities</form>
-<tag lemma="Securities" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Securities" src="auto">X@-------------</AM>
+<AM lemma="Securities-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1069-001-p1s13W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3419,7 +3443,10 @@
 <LM>w#w-wsj1069-001-p1s14W2</LM>
 </w.rf>
 <form>Genentech</form>
-<tag lemma="Genentech" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Genentech" src="auto">X@-------------</AM>
+<AM lemma="Genentech_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1069-001-p1s14W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3562,7 +3589,7 @@
 </w.rf>
 <form>konkurenci</form>
 <tag>
-<AM lemma="konkurence" src="auto">NNFS3-----A----</AM>
+<AM lemma="konkurence" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="konkurence" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="konkurence" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -3620,7 +3647,10 @@
 <LM>w#w-wsj1069-001-p1s14W17</LM>
 </w.rf>
 <form>Eminase</form>
-<tag lemma="Eminase" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Eminase" src="auto">X@-------------</AM>
+<AM lemma="Eminase_;R" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1069-001-p1s14W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3655,7 +3685,10 @@
 <LM>w#w-wsj1069-001-p1s14W20</LM>
 </w.rf>
 <form>SmithKline</form>
-<tag lemma="SmithKline" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="SmithKline" src="auto">X@-------------</AM>
+<AM lemma="SmithKline-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1069-001-p1s14W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3663,7 +3696,10 @@
 <LM>w#w-wsj1069-001-p1s14W21</LM>
 </w.rf>
 <form>Beecham</form>
-<tag lemma="Beecham_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Beecham_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Beecham-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1069-001-p1s14W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3671,7 +3707,10 @@
 <LM>w#w-wsj1069-001-p1s14W22</LM>
 </w.rf>
 <form>PLC</form>
-<tag lemma="PLC-88_:B" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="PLC-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="PLC-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1069-001-p1s14W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3715,7 +3754,7 @@
 <form>jak</form>
 <tag>
 <AM lemma="jak-1_;L_^(živočich)" src="auto">NNMS1-----A----</AM>
-<AM lemma="jak-2" src="auto">J,-------------</AM>
+<AM lemma="jak-2" src="auto" selected="1">J,-------------</AM>
 <AM lemma="jak-2" src="auto">J^-------------</AM>
 <AM lemma="jak-3" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="jak-99_:B_;S" src="auto">NNXXX-----A----</AM>
@@ -3901,7 +3940,10 @@
 <LM>w#w-wsj1069-001-p1s15W7</LM>
 </w.rf>
 <form>Genentech</form>
-<tag lemma="Genentech" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Genentech" src="auto">X@-------------</AM>
+<AM lemma="Genentech_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1069-001-p1s15W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4141,7 +4183,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>
@@ -4151,7 +4193,15 @@
 <LM>w#w-wsj1069-001-p1s16W7</LM>
 </w.rf>
 <form>40násobku</form>
-<tag lemma="40násobku" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="40násobku" src="auto">X@-------------</AM>
+<AM lemma="40násobek" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1069-001-p1s16W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4459,7 +4509,10 @@
 <LM>w#w-wsj1069-001-p1s17W9</LM>
 </w.rf>
 <form>Genentech</form>
-<tag lemma="Genentech" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Genentech" src="auto">X@-------------</AM>
+<AM lemma="Genentech_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1069-001-p1s17W10-Ta">
 <src.rf>tagger-a</src.rf>

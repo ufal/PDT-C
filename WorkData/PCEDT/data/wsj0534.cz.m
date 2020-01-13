@@ -24,7 +24,10 @@
 <LM>w#w-wsj0534-001-p1s0W2</LM>
 </w.rf>
 <form>Conseco</form>
-<tag lemma="Conseco" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Conseco" src="auto">X@-------------</AM>
+<AM lemma="Conseco-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0534-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,6 +38,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0534-001-p1s0W4-Ta">
@@ -191,7 +195,7 @@
 <tag>
 <AM lemma="zbývající_^(*4t)" src="auto">AGFP2-----A----</AM>
 <AM lemma="zbývající_^(*4t)" src="auto">AGFP6-----A----</AM>
-<AM lemma="zbývající_^(*4t)" src="auto">AGIP2-----A----</AM>
+<AM lemma="zbývající_^(*4t)" src="auto" selected="1">AGIP2-----A----</AM>
 <AM lemma="zbývající_^(*4t)" src="auto">AGIP6-----A----</AM>
 <AM lemma="zbývající_^(*4t)" src="auto">AGMP2-----A----</AM>
 <AM lemma="zbývající_^(*4t)" src="auto">AGMP6-----A----</AM>
@@ -338,7 +342,7 @@
 <form>po</form>
 <tag>
 <AM lemma="po-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="po-1" src="auto">RR--6----------</AM>
+<AM lemma="po-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="pondělí" src="auto">NNNXX-----A---8</AM>
 </tag>
 </m>
@@ -395,7 +399,7 @@
 <AM lemma="ten" src="auto">PDNS1----------</AM>
 <AM lemma="ten" src="auto" recommended="1">PDNS4----------</AM>
 <AM lemma="to-1_^(tehdy;to_jsem_byla_ještě_malá)" src="auto">PDXXX----------</AM>
-<AM lemma="to-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="to-9_^(být_s_to)" src="auto" selected="1">TT-------------</AM>
 <AM lemma="to-77" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -682,7 +686,7 @@
 </w.rf>
 <form>skončí</form>
 <tag>
-<AM lemma="skončit" src="auto">VB-P---3P-AAP--</AM>
+<AM lemma="skončit" src="auto" selected="1">VB-P---3P-AAP--</AM>
 <AM lemma="skončit" src="auto" recommended="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
@@ -724,7 +728,7 @@
 <form>listopadu</form>
 <tag>
 <AM lemma="listopad" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="listopad" src="auto">NNIS3-----A----</AM>
+<AM lemma="listopad" src="auto" selected="1">NNIS3-----A----</AM>
 <AM lemma="listopad" src="auto">NNIS6-----A----</AM>
 </tag>
 </m>
@@ -818,7 +822,10 @@
 <LM>w#w-wsj0534-001-p1s2W8</LM>
 </w.rf>
 <form>Conseco</form>
-<tag lemma="Conseco" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Conseco" src="auto">X@-------------</AM>
+<AM lemma="Conseco_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0534-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -978,7 +985,7 @@
 <AM lemma="kmenový" src="auto" recommended="1">AAFP1----1A----</AM>
 <AM lemma="kmenový" src="auto">AAFP4----1A----</AM>
 <AM lemma="kmenový" src="auto">AAFP5----1A----</AM>
-<AM lemma="kmenový" src="auto">AAFS2----1A----</AM>
+<AM lemma="kmenový" src="auto" selected="1">AAFS2----1A----</AM>
 <AM lemma="kmenový" src="auto">AAFS3----1A----</AM>
 <AM lemma="kmenový" src="auto">AAFS6----1A----</AM>
 <AM lemma="kmenový" src="auto">AAIP1----1A----</AM>
@@ -1004,7 +1011,7 @@
 <AM lemma="akcie" src="auto">NNFP4-----A----</AM>
 <AM lemma="akcie" src="auto">NNFP5-----A----</AM>
 <AM lemma="akcie" src="auto">NNFS1-----A----</AM>
-<AM lemma="akcie" src="auto">NNFS2-----A----</AM>
+<AM lemma="akcie" src="auto" selected="1">NNFS2-----A----</AM>
 <AM lemma="akcie" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>
@@ -1143,7 +1150,7 @@
 <AM lemma="ekvivalentní" src="auto">AANP1----1A----</AM>
 <AM lemma="ekvivalentní" src="auto">AANP4----1A----</AM>
 <AM lemma="ekvivalentní" src="auto">AANP5----1A----</AM>
-<AM lemma="ekvivalentní" src="auto">AANS1----1A----</AM>
+<AM lemma="ekvivalentní" src="auto" selected="1">AANS1----1A----</AM>
 <AM lemma="ekvivalentní" src="auto">AANS4----1A----</AM>
 <AM lemma="ekvivalentní" src="auto">AANS5----1A----</AM>
 </tag>
@@ -1404,7 +1411,10 @@
 <LM>w#w-wsj0534-001-p1s3W10</LM>
 </w.rf>
 <form>Conseco</form>
-<tag lemma="Conseco" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Conseco" src="auto">X@-------------</AM>
+<AM lemma="Conseco_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0534-001-p1s3W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1422,7 +1432,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>

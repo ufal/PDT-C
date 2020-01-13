@@ -552,7 +552,11 @@
 <LM>w#w-wsj0932-001-p1s2W9</LM>
 </w.rf>
 <form>Amgen</form>
-<tag lemma="Amgen" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Amgen" src="auto">X@-------------</AM>
+<AM lemma="Amgen_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Amgen-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0932-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -560,7 +564,10 @@
 <LM>w#w-wsj0932-001-p1s2W10</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0932-001-p1s2W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -588,7 +595,10 @@
 <LM>w#w-wsj0932-001-p1s2W13</LM>
 </w.rf>
 <form>Thousand</form>
-<tag lemma="Thousand" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Thousand" src="auto">X@-------------</AM>
+<AM lemma="Thousand-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0932-001-p1s2W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -596,7 +606,10 @@
 <LM>w#w-wsj0932-001-p1s2W14</LM>
 </w.rf>
 <form>Oaks</form>
-<tag lemma="Oaks" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Oaks" src="auto">X@-------------</AM>
+<AM lemma="Oaks-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0932-001-p1s2W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -689,7 +702,7 @@
 <form>divize</form>
 <tag>
 <AM lemma="divize" src="auto">NNFP1-----A----</AM>
-<AM lemma="divize" src="auto">NNFP4-----A----</AM>
+<AM lemma="divize" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="divize" src="auto">NNFP5-----A----</AM>
 <AM lemma="divize" src="auto">NNFS1-----A----</AM>
 <AM lemma="divize" src="auto" recommended="1">NNFS2-----A----</AM>
@@ -702,7 +715,10 @@
 <LM>w#w-wsj0932-001-p1s2W23</LM>
 </w.rf>
 <form>Ortho</form>
-<tag lemma="ortho_,s_^(^DD**orto)" src="auto" recommended="1">A2--------A----</tag>
+<tag>
+<AM lemma="ortho_,s_^(^DD**orto)" src="auto" recommended="1">A2--------A----</AM>
+<AM lemma="Ortho-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0932-001-p1s2W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -710,7 +726,10 @@
 <LM>w#w-wsj0932-001-p1s2W24</LM>
 </w.rf>
 <form>Pharmaceuticals</form>
-<tag lemma="Pharmaceuticals" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Pharmaceuticals" src="auto">X@-------------</AM>
+<AM lemma="Pharmaceuticals-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0932-001-p1s2W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -858,7 +877,10 @@
 <LM>w#w-wsj0932-001-p1s3W7</LM>
 </w.rf>
 <form>Genetics</form>
-<tag lemma="Genetics" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Genetics" src="auto">X@-------------</AM>
+<AM lemma="Genetics-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0932-001-p1s3W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -881,6 +903,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0932-001-p1s3W10-Ta">
@@ -926,7 +949,7 @@
 <form>v</form>
 <tag>
 <AM lemma="v-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="v-1" src="auto">RR--6----------</AM>
+<AM lemma="v-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
@@ -941,6 +964,7 @@
 <tag>
 <AM lemma="Massachusetts_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Massachusetts_;G" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Massachusetts_;G" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0932-001-p1s3W15-Ta">
@@ -1226,6 +1250,7 @@
 <tag>
 <AM lemma="journal" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="journal" src="auto">NNIS4-----A----</AM>
+<AM lemma="Journal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0932-001-p1s5W12-Ta">
@@ -1234,7 +1259,10 @@
 <LM>w#w-wsj0932-001-p1s5W12</LM>
 </w.rf>
 <form>of</form>
-<tag lemma="of-77_,t" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="of-77_,t" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="of-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0932-001-p1s5W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1242,7 +1270,10 @@
 <LM>w#w-wsj0932-001-p1s5W13</LM>
 </w.rf>
 <form>Medicine</form>
-<tag lemma="Medicine" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Medicine" src="auto">X@-------------</AM>
+<AM lemma="Medicine-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0932-001-p1s5W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1328,7 +1359,10 @@
 <LM>w#w-wsj0932-001-p1s5W21</LM>
 </w.rf>
 <form>Amgen</form>
-<tag lemma="Amgen" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Amgen" src="auto">X@-------------</AM>
+<AM lemma="Amgen_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0932-001-p1s5W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2168,7 +2202,7 @@
 <AM lemma="jednotka" src="auto">NNFP1-----A----</AM>
 <AM lemma="jednotka" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="jednotka" src="auto">NNFP5-----A----</AM>
-<AM lemma="jednotka" src="auto">NNFS2-----A----</AM>
+<AM lemma="jednotka" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0932-001-p1s9W17-Ta">

@@ -334,7 +334,7 @@
 <tag>
 <AM lemma="taka-1_;L" src="auto">NNFP2-----A----</AM>
 <AM lemma="tak-1" src="auto">TT-------------</AM>
-<AM lemma="tak-2" src="auto">J^-------------</AM>
+<AM lemma="tak-2" src="auto" selected="1">J^-------------</AM>
 <AM lemma="tak-3" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
@@ -428,7 +428,10 @@
 <LM>w#w-wsj1108-001-p1s1W2</LM>
 </w.rf>
 <form>Istat</form>
-<tag lemma="Istat" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Istat" src="auto">X@-------------</AM>
+<AM lemma="Istat_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1108-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -991,6 +994,7 @@
 <tag>
 <AM lemma="takzvaný_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
 <AM lemma="takzvaně_:B" src="auto">Dg-------1A---8</AM>
+<AM lemma="takzvaný" src="manual" selected="1">AAXXX----1A---b</AM>
 </tag>
 </m>
 <m id="m-wsj1108-001-p1s2W12-Ta">
@@ -1010,7 +1014,7 @@
 <tag>
 <AM lemma="region" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="region" src="auto">NNIS3-----A----</AM>
-<AM lemma="region" src="auto">NNIS6-----A----</AM>
+<AM lemma="region" src="auto" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1108-001-p1s2W14-Ta">
@@ -1019,7 +1023,10 @@
 <LM>w#w-wsj1108-001-p1s2W14</LM>
 </w.rf>
 <form>Mezzogiorno</form>
-<tag lemma="Mezzogiorno" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Mezzogiorno" src="auto">X@-------------</AM>
+<AM lemma="Mezzogiorno_;G" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1108-001-p1s2W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1296,7 +1303,10 @@
 <LM>w#w-wsj1108-001-p1s4W2</LM>
 </w.rf>
 <form>Istat</form>
-<tag lemma="Istat" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Istat" src="auto">X@-------------</AM>
+<AM lemma="Istat_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1108-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>

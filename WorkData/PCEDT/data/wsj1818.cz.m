@@ -48,7 +48,10 @@
 <LM>w#w-wsj1818-001-p1s0W3</LM>
 </w.rf>
 <form>Associated</form>
-<tag lemma="Associated" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Associated" src="auto">X@-------------</AM>
+<AM lemma="Associated-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1818-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -57,7 +60,7 @@
 </w.rf>
 <form>Press</form>
 <tag>
-<AM lemma="Press-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Press-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="press-77" src="auto">F%-------------</AM>
 <AM lemma="presso_,t_^(káva)" src="auto">NNNP2-----A----</AM>
 </tag>
@@ -934,7 +937,7 @@
 <form>jak</form>
 <tag>
 <AM lemma="jak-1_;L_^(živočich)" src="auto">NNMS1-----A----</AM>
-<AM lemma="jak-2" src="auto">J,-------------</AM>
+<AM lemma="jak-2" src="auto" selected="1">J,-------------</AM>
 <AM lemma="jak-2" src="auto">J^-------------</AM>
 <AM lemma="jak-3" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="jak-99_:B_;S" src="auto">NNXXX-----A----</AM>
@@ -1111,7 +1114,7 @@
 </w.rf>
 <form>na</form>
 <tag>
-<AM lemma="na-1" src="auto">RR--4----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--4----------</AM>
 <AM lemma="na-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
@@ -1124,7 +1127,7 @@
 <form>reakci</form>
 <tag>
 <AM lemma="reakce" src="auto">NNFS3-----A----</AM>
-<AM lemma="reakce" src="auto">NNFS4-----A----</AM>
+<AM lemma="reakce" src="auto" selected="1">NNFS4-----A----</AM>
 <AM lemma="reakce" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
 </m>
@@ -1225,7 +1228,7 @@
 <AM lemma="všeobecný" src="auto">AAIP1----1A---6</AM>
 <AM lemma="všeobecný" src="auto">AAIP4----1A---6</AM>
 <AM lemma="všeobecný" src="auto">AAIP5----1A---6</AM>
-<AM lemma="všeobecný" src="auto">AAIS1----1A----</AM>
+<AM lemma="všeobecný" src="auto" selected="1">AAIS1----1A----</AM>
 <AM lemma="všeobecný" src="auto" recommended="1">AAIS4----1A----</AM>
 <AM lemma="všeobecný" src="auto">AAIS5----1A----</AM>
 <AM lemma="všeobecný" src="auto">AAMP1----1A---6</AM>
@@ -1248,7 +1251,7 @@
 </w.rf>
 <form>dojem</form>
 <tag>
-<AM lemma="dojem" src="auto">NNIS1-----A----</AM>
+<AM lemma="dojem" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="dojem" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>

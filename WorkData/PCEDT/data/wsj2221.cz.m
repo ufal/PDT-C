@@ -288,7 +288,10 @@
 <LM>w#w-wsj2221-001-p1s1W7</LM>
 </w.rf>
 <form>arbitražéři</form>
-<tag lemma="arbitražéři" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="arbitražéři" src="auto">X@-------------</AM>
+<AM lemma="arbitražér" src="manual" selected="1">NNMP1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2221-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -928,7 +931,7 @@
 <form>žádné</form>
 <tag>
 <AM lemma="žádný" src="auto" recommended="1">PWFP1----------</AM>
-<AM lemma="žádný" src="auto">PWFP4----------</AM>
+<AM lemma="žádný" src="auto" selected="1">PWFP4----------</AM>
 <AM lemma="žádný" src="auto">PWFP5----------</AM>
 <AM lemma="žádný" src="auto">PWFS2----------</AM>
 <AM lemma="žádný" src="auto">PWFS3----------</AM>
@@ -952,7 +955,7 @@
 <form>známky</form>
 <tag>
 <AM lemma="známka" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="známka" src="auto">NNFP4-----A----</AM>
+<AM lemma="známka" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="známka" src="auto">NNFP5-----A----</AM>
 <AM lemma="známka" src="auto">NNFS2-----A----</AM>
 </tag>
@@ -1528,7 +1531,7 @@
 <AM lemma="vedoucí_^(*6ést)" src="auto">AGMP1-----A----</AM>
 <AM lemma="vedoucí_^(*6ést)" src="auto">AGMP4-----A----</AM>
 <AM lemma="vedoucí_^(*6ést)" src="auto">AGMP5-----A----</AM>
-<AM lemma="vedoucí_^(*6ést)" src="auto">AGMS1-----A----</AM>
+<AM lemma="vedoucí_^(*6ést)" src="auto" selected="1">AGMS1-----A----</AM>
 <AM lemma="vedoucí_^(*6ést)" src="auto">AGMS5-----A----</AM>
 <AM lemma="vedoucí_^(*6ést)" src="auto">AGNP1-----A----</AM>
 <AM lemma="vedoucí_^(*6ést)" src="auto">AGNP4-----A----</AM>
@@ -2038,7 +2041,10 @@
 <LM>w#w-wsj2221-001-p1s6W9</LM>
 </w.rf>
 <form>zatraceně</form>
-<tag lemma="zatraceně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="zatraceně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="zatraceně" src="manual" selected="1">II-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2221-001-p1s6W10-Ta">
 <src.rf>tagger-a</src.rf>

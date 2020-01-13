@@ -27,7 +27,10 @@
 <LM>w#w-wsj1543-001-p1s0W2</LM>
 </w.rf>
 <form>Lyondell</form>
-<tag lemma="Lyondell" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Lyondell" src="auto">X@-------------</AM>
+<AM lemma="Lyondell-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1543-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1543-001-p1s0W3</LM>
 </w.rf>
 <form>Petrochemical</form>
-<tag lemma="Petrochemical" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Petrochemical" src="auto">X@-------------</AM>
+<AM lemma="Petrochemical-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1543-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -51,6 +57,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1543-001-p1s0W5-Ta">
@@ -1319,7 +1326,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -1361,7 +1368,10 @@
 <LM>w#w-wsj1543-001-p1s4W10</LM>
 </w.rf>
 <form>Lyondell</form>
-<tag lemma="Lyondell" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Lyondell" src="auto">X@-------------</AM>
+<AM lemma="Lyondell_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1543-001-p1s4W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1733,7 +1743,7 @@
 <AM lemma="rozšíření_^(*3it)" src="auto">NNNP5-----A----</AM>
 <AM lemma="rozšíření_^(*3it)" src="auto">NNNS1-----A----</AM>
 <AM lemma="rozšíření_^(*3it)" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="rozšíření_^(*3it)" src="auto">NNNS3-----A----</AM>
+<AM lemma="rozšíření_^(*3it)" src="auto" selected="1">NNNS3-----A----</AM>
 <AM lemma="rozšíření_^(*3it)" src="auto">NNNS4-----A----</AM>
 <AM lemma="rozšíření_^(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="rozšíření_^(*3it)" src="auto">NNNS6-----A----</AM>
@@ -1953,7 +1963,10 @@
 <LM>w#w-wsj1543-001-p1s6W12</LM>
 </w.rf>
 <form>Lyondell</form>
-<tag lemma="Lyondell" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Lyondell" src="auto">X@-------------</AM>
+<AM lemma="Lyondell_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1543-001-p1s6W13-Ta">
 <src.rf>tagger-a</src.rf>

@@ -30,6 +30,7 @@
 <tag>
 <AM lemma="Birmingham_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Birmingham_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Birmingham-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1075-001-p1s0W3-Ta">
@@ -38,7 +39,10 @@
 <LM>w#w-wsj1075-001-p1s0W3</LM>
 </w.rf>
 <form>Steel</form>
-<tag lemma="Steel" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Steel" src="auto">X@-------------</AM>
+<AM lemma="Steel-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1075-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -46,7 +50,10 @@
 <LM>w#w-wsj1075-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1075-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -133,7 +140,10 @@
 <LM>w#w-wsj1075-001-p1s0W13</LM>
 </w.rf>
 <form>Emeryville</form>
-<tag lemma="Emeryville" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Emeryville" src="auto">X@-------------</AM>
+<AM lemma="Emeryville_;G" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1075-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -517,7 +527,7 @@
 <AM lemma="dopravní" src="auto">AAMP5----1A----</AM>
 <AM lemma="dopravní" src="auto">AAMS1----1A----</AM>
 <AM lemma="dopravní" src="auto">AAMS5----1A----</AM>
-<AM lemma="dopravní" src="auto">AANP1----1A----</AM>
+<AM lemma="dopravní" src="auto" selected="1">AANP1----1A----</AM>
 <AM lemma="dopravní" src="auto">AANP4----1A----</AM>
 <AM lemma="dopravní" src="auto">AANP5----1A----</AM>
 <AM lemma="dopravní" src="auto">AANS1----1A----</AM>
@@ -534,7 +544,7 @@
 <tag>
 <AM lemma="omezený_^(*3it)" src="auto">AAMP1----1A----</AM>
 <AM lemma="omezený_^(*3it)" src="auto">AAMP5----1A----</AM>
-<AM lemma="omezení_^(*3it)" src="auto">NNNP1-----A----</AM>
+<AM lemma="omezení_^(*3it)" src="auto" selected="1">NNNP1-----A----</AM>
 <AM lemma="omezení_^(*3it)" src="auto">NNNP2-----A----</AM>
 <AM lemma="omezení_^(*3it)" src="auto">NNNP4-----A----</AM>
 <AM lemma="omezení_^(*3it)" src="auto">NNNP5-----A----</AM>
@@ -592,7 +602,7 @@
 </w.rf>
 <form>výpadky</form>
 <tag>
-<AM lemma="výpadek" src="auto">NNIP1-----A----</AM>
+<AM lemma="výpadek" src="auto" selected="1">NNIP1-----A----</AM>
 <AM lemma="výpadek" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="výpadek" src="auto">NNIP5-----A----</AM>
 <AM lemma="výpadek" src="auto">NNIP7-----A----</AM>

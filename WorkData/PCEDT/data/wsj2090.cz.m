@@ -155,6 +155,7 @@
 <tag>
 <AM lemma="Amstrad_;R" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Amstrad_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Amstrad-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2090-001-p1s0W9-Ta">
@@ -252,7 +253,7 @@
 <form>pokles</form>
 <tag>
 <AM lemma="pokles" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="pokles" src="auto">NNIS4-----A----</AM>
+<AM lemma="pokles" src="auto" selected="1">NNIS4-----A----</AM>
 <AM lemma="poklesnout" src="auto">VpYS---XR-AAP-6</AM>
 </tag>
 </m>
@@ -1000,7 +1001,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -1073,7 +1074,7 @@
 <AM lemma="vyrovnaný_^(*2t)" src="auto">AAIP4----1A---6</AM>
 <AM lemma="vyrovnaný_^(*2t)" src="auto">AAIP5----1A---6</AM>
 <AM lemma="vyrovnaný_^(*2t)" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="vyrovnaný_^(*2t)" src="auto">AAIS4----1A----</AM>
+<AM lemma="vyrovnaný_^(*2t)" src="auto" selected="1">AAIS4----1A----</AM>
 <AM lemma="vyrovnaný_^(*2t)" src="auto">AAIS5----1A----</AM>
 <AM lemma="vyrovnaný_^(*2t)" src="auto">AAMP1----1A---6</AM>
 <AM lemma="vyrovnaný_^(*2t)" src="auto">AAMP4----1A---6</AM>
@@ -1097,7 +1098,7 @@
 <tag>
 <AM lemma="odbýt" src="auto">VsYS---XX-APP--</AM>
 <AM lemma="odbyt" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="odbyt" src="auto">NNIS4-----A----</AM>
+<AM lemma="odbyt" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2090-001-p1s2W13-Ta">
@@ -1359,6 +1360,7 @@
 <tag>
 <AM lemma="Amstrad_;R" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Amstrad_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Amstrad_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2090-001-p1s3W7-Ta">
@@ -1577,7 +1579,7 @@
 <tag>
 <AM lemma="loňský" src="auto" recommended="1">AAFP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAFP6----1A----</AM>
-<AM lemma="loňský" src="auto">AAIP2----1A----</AM>
+<AM lemma="loňský" src="auto" selected="1">AAIP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAIP6----1A----</AM>
 <AM lemma="loňský" src="auto">AAMP2----1A----</AM>
 <AM lemma="loňský" src="auto">AAMP6----1A----</AM>

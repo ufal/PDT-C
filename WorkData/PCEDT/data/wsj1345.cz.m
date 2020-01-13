@@ -27,7 +27,10 @@
 <LM>w#w-wsj1345-001-p1s0W2</LM>
 </w.rf>
 <form>TW</form>
-<tag lemma="terawatt" src="auto" recommended="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="terawatt" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="TW-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1345-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1345-001-p1s0W3</LM>
 </w.rf>
 <form>Services</form>
-<tag lemma="Services" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Services" src="auto">X@-------------</AM>
+<AM lemma="Services-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1345-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -46,6 +52,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1345-001-p1s0W5-Ta">
@@ -512,7 +519,10 @@
 <LM>w#w-wsj1345-001-p1s0W41</LM>
 </w.rf>
 <form>Coniston</form>
-<tag lemma="Coniston" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Coniston" src="auto">X@-------------</AM>
+<AM lemma="Coniston-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1345-001-p1s0W42-Ta">
 <src.rf>tagger-a</src.rf>
@@ -520,7 +530,10 @@
 <LM>w#w-wsj1345-001-p1s0W42</LM>
 </w.rf>
 <form>Partners</form>
-<tag lemma="Partners" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Partners" src="auto">X@-------------</AM>
+<AM lemma="Partners-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1345-001-p1s0W43-Ta">
 <src.rf>tagger-a</src.rf>
@@ -695,7 +708,10 @@
 <LM>w#w-wsj1345-001-p1s1W15</LM>
 </w.rf>
 <form>Paramus</form>
-<tag lemma="Paramus" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Paramus" src="auto">X@-------------</AM>
+<AM lemma="Paramus_;G" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1345-001-p1s1W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -728,7 +744,10 @@
 <LM>w#w-wsj1345-001-p1s1W18</LM>
 </w.rf>
 <form>Jersey</form>
-<tag lemma="Jersey_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Jersey_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Jersey-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1345-001-p1s1W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1054,7 +1073,10 @@
 <LM>w#w-wsj1345-001-p1s3W2</LM>
 </w.rf>
 <form>Coniston</form>
-<tag lemma="Coniston" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Coniston" src="auto">X@-------------</AM>
+<AM lemma="Coniston_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1345-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1227,7 +1249,10 @@
 <LM>w#w-wsj1345-001-p1s3W15</LM>
 </w.rf>
 <form>TW</form>
-<tag lemma="terawatt" src="auto" recommended="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="terawatt" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="TW-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1345-001-p1s3W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1356,7 +1381,10 @@
 <LM>w#w-wsj1345-001-p1s3W26</LM>
 </w.rf>
 <form>Coniston</form>
-<tag lemma="Coniston" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Coniston" src="auto">X@-------------</AM>
+<AM lemma="Coniston_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1345-001-p1s3W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1387,7 +1415,10 @@
 <LM>w#w-wsj1345-001-p1s3W29</LM>
 </w.rf>
 <form>TW</form>
-<tag lemma="terawatt" src="auto" recommended="1">NNIXX-----A---8</tag>
+<tag>
+<AM lemma="terawatt" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="TW-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1345-001-p1s3W30-Ta">
 <src.rf>tagger-a</src.rf>

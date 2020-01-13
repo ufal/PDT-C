@@ -45,7 +45,10 @@
 <LM>w#w-wsj1580-001-p1s0W4</LM>
 </w.rf>
 <form>Pinola</form>
-<tag lemma="Pinola" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Pinola" src="auto">X@-------------</AM>
+<AM lemma="Pinola_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1580-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -278,7 +281,10 @@
 <LM>w#w-wsj1580-001-p1s1W1</LM>
 </w.rf>
 <form>Pinola</form>
-<tag lemma="Pinola" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Pinola" src="auto">X@-------------</AM>
+<AM lemma="Pinola_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1580-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -384,6 +390,7 @@
 <AM lemma="Penn_;K" src="auto">NNIS1-----A----</AM>
 <AM lemma="Penn_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="Penn_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Penn-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1580-001-p1s1W9-Ta">
@@ -392,7 +399,10 @@
 <LM>w#w-wsj1580-001-p1s1W9</LM>
 </w.rf>
 <form>Mutual</form>
-<tag lemma="Mutual" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Mutual" src="auto">X@-------------</AM>
+<AM lemma="Mutual-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1580-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -400,7 +410,10 @@
 <LM>w#w-wsj1580-001-p1s1W10</LM>
 </w.rf>
 <form>Life</form>
-<tag lemma="Life" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Life" src="auto">X@-------------</AM>
+<AM lemma="Life-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1580-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -408,7 +421,10 @@
 <LM>w#w-wsj1580-001-p1s1W11</LM>
 </w.rf>
 <form>Insurance</form>
-<tag lemma="Insurance" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Insurance" src="auto">X@-------------</AM>
+<AM lemma="Insurance-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1580-001-p1s1W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -424,6 +440,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1580-001-p1s1W13-Ta">

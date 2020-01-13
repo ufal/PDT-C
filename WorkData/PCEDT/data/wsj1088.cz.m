@@ -46,7 +46,10 @@
 <LM>w#w-wsj1088-001-p1s0W4</LM>
 </w.rf>
 <form>Mangino</form>
-<tag lemma="Mangino" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Mangino" src="auto">X@-------------</AM>
+<AM lemma="Mangino_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1088-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -122,7 +125,10 @@
 <LM>w#w-wsj1088-001-p1s0W9</LM>
 </w.rf>
 <form>EniChem</form>
-<tag lemma="EniChem" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="EniChem" src="auto">X@-------------</AM>
+<AM lemma="EniChem-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1088-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -130,7 +136,10 @@
 <LM>w#w-wsj1088-001-p1s0W10</LM>
 </w.rf>
 <form>Americas</form>
-<tag lemma="Americas" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Americas" src="auto">X@-------------</AM>
+<AM lemma="Americas-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1088-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>

@@ -30,6 +30,8 @@
 <tag>
 <AM lemma="FileNet_;R" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="FileNet_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="FileNet_;K_;R" src="manual">NNIS1-----A----</AM>
+<AM lemma="FileNet-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1703-001-p1s0W3-Ta">
@@ -38,7 +40,10 @@
 <LM>w#w-wsj1703-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1703-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -116,6 +121,7 @@
 <AM lemma="Costa_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Costa_;G_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="costa_,t" src="auto">NNFS1-----A----</AM>
+<AM lemma="Costa-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1703-001-p1s0W9-Ta">
@@ -127,6 +133,7 @@
 <tag>
 <AM lemma="Mesa_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mesa_;L_^(izolovaná_plošina)" src="auto">NNFS1-----A----</AM>
+<AM lemma="Mesa-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1703-001-p1s0W10-Ta">
@@ -160,6 +167,7 @@
 <AM lemma="californium_;H" src="auto">NNNP4-----A----</AM>
 <AM lemma="californium_;H" src="auto">NNNP5-----A----</AM>
 <AM lemma="californium_;H" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="California_;G" src="manual" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1703-001-p1s0W13-Ta">
@@ -689,6 +697,7 @@
 <AM lemma="californium_;H" src="auto">NNNP4-----A----</AM>
 <AM lemma="californium_;H" src="auto">NNNP5-----A----</AM>
 <AM lemma="californium_;H" src="auto">NNNS2-----A----</AM>
+<AM lemma="California_;G" src="manual" selected="1">NNFS1-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1703-001-p1s0W56-Ta">
@@ -988,6 +997,7 @@
 <tag>
 <AM lemma="FileNet_;R" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="FileNet_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="FileNet_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1703-001-p1s2W17-Ta">
@@ -1190,6 +1200,7 @@
 <tag>
 <AM lemma="FileNet_;R" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="FileNet_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="FileNet_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1703-001-p1s3W3-Ta">
@@ -1332,7 +1343,7 @@
 <form>o</form>
 <tag>
 <AM lemma="o-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="o-1" src="auto">RR--6----------</AM>
+<AM lemma="o-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="o-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="o-77_,t" src="auto">F%-------------</AM>
 <AM lemma="o-88_:B" src="auto">NNXXX-----A----</AM>
@@ -1357,7 +1368,7 @@
 <AM lemma="plnění_^(*3it)" src="auto">NNNS3-----N----</AM>
 <AM lemma="plnění_^(*3it)" src="auto" recommended="1">NNNS4-----N----</AM>
 <AM lemma="plnění_^(*3it)" src="auto">NNNS5-----N----</AM>
-<AM lemma="plnění_^(*3it)" src="auto">NNNS6-----N----</AM>
+<AM lemma="plnění_^(*3it)" src="auto" selected="1">NNNS6-----N----</AM>
 </tag>
 </m>
 <m id="m-wsj1703-001-p1s3W16-Ta">
@@ -1577,6 +1588,11 @@
 <AM lemma="spor_^([soudní]_pře)" src="auto">NNIS3-----A----</AM>
 <AM lemma="spor_^([soudní]_pře)" src="auto">NNIS6-----A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>spor</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1703-001-p1s3W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1907,7 +1923,7 @@
 <tag>
 <AM lemma="jenž_^(kterou_[ve_vedl.větě])" src="auto">PJFS4----------</AM>
 <AM lemma="jenž_^(kteří_[ve_vedl.větě])" src="auto">PJMP1----------</AM>
-<AM lemma="již-1" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="již-1" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="již-2" src="auto">TT-------------</AM>
 </tag>
 </m>
@@ -2012,6 +2028,7 @@
 <tag>
 <AM lemma="FileNet_;R" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="FileNet_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="FileNet_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1703-001-p1s6W2-Ta">
@@ -2500,7 +2517,7 @@
 <AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSFSXFS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
+<AM lemma="jeho_^(přivlast.)" src="auto" selected="1">PSXP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS1FS3-------</AM>

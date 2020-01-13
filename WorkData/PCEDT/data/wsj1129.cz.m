@@ -27,7 +27,10 @@
 <LM>w#w-wsj1129-001-p1s0W2</LM>
 </w.rf>
 <form>Brush</form>
-<tag lemma="Brush_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Brush_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Brush-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1129-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,11 @@
 <LM>w#w-wsj1129-001-p1s0W3</LM>
 </w.rf>
 <form>Wellman</form>
-<tag lemma="Wellman" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Wellman" src="auto">X@-------------</AM>
+<AM lemma="Wellman_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Wellman-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1129-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -46,6 +53,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1129-001-p1s0W5-Ta">

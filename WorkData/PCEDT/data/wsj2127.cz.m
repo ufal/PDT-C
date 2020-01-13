@@ -19,6 +19,7 @@
 <tag>
 <AM lemma="Continental_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Continental_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="CONTINENTAL-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2127-001-p1s0W2-Ta">
@@ -27,7 +28,10 @@
 <LM>w#w-wsj2127-001-p1s0W2</LM>
 </w.rf>
 <form>MORTGAGE</form>
-<tag lemma="MORTGAGE" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="MORTGAGE" src="auto">X@-------------</AM>
+<AM lemma="MORTGAGE-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2127-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,7 +47,10 @@
 <LM>w#w-wsj2127-001-p1s0W4</LM>
 </w.rf>
 <form>EQUITY</form>
-<tag lemma="equity_,t_^(soustava_jurisprudence_v_Anglii)" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="equity_,t_^(soustava_jurisprudence_v_Anglii)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="EQUITY-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2127-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -54,6 +61,7 @@
 <tag>
 <AM lemma="trust" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="trust" src="auto">NNIS4-----A----</AM>
+<AM lemma="TRUST-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2127-001-p1s0W6-Ta">
@@ -194,7 +202,7 @@
 <form>výplaty</form>
 <tag>
 <AM lemma="výplata" src="auto">NNFP1-----A----</AM>
-<AM lemma="výplata" src="auto">NNFP4-----A----</AM>
+<AM lemma="výplata" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="výplata" src="auto">NNFP5-----A----</AM>
 <AM lemma="výplata" src="auto" recommended="1">NNFS2-----A----</AM>
 </tag>
@@ -567,7 +575,7 @@
 <AM lemma="problémový" src="auto">AAFP7----1A----</AM>
 <AM lemma="problémový" src="auto" recommended="1">AAIP7----1A----</AM>
 <AM lemma="problémový" src="auto">AAMP7----1A----</AM>
-<AM lemma="problémový" src="auto">AANP7----1A----</AM>
+<AM lemma="problémový" src="auto" selected="1">AANP7----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj2127-001-p1s2W6-Ta">
@@ -581,7 +589,7 @@
 <AM lemma="aktiv_^(schůze)" src="auto">NNIP4-----A----</AM>
 <AM lemma="aktiv_^(schůze)" src="auto">NNIP5-----A----</AM>
 <AM lemma="aktiv_^(schůze)" src="auto" recommended="1">NNIP7-----A----</AM>
-<AM lemma="aktivum_^(pohledávka,_přebytek,_majetek;;lingvistický_termín_[činný_rod])" src="auto">NNNP7-----A----</AM>
+<AM lemma="aktivum_^(pohledávka,_přebytek,_majetek;;lingvistický_termín_[činný_rod])" src="auto" selected="1">NNNP7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2127-001-p1s2W7-Ta">

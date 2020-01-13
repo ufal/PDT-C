@@ -47,7 +47,10 @@
 <LM>w#w-wsj1112-001-p1s0W4</LM>
 </w.rf>
 <form>Curcio</form>
-<tag lemma="Curcio" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Curcio" src="auto">X@-------------</AM>
+<AM lemma="Curcio_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1112-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -465,7 +468,10 @@
 <LM>w#w-wsj1112-001-p1s1W13</LM>
 </w.rf>
 <form>Curcio</form>
-<tag lemma="Curcio" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Curcio" src="auto">X@-------------</AM>
+<AM lemma="Curcio_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1112-001-p1s1W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -529,7 +535,10 @@
 <LM>w#w-wsj1112-001-p1s1W19</LM>
 </w.rf>
 <form>Ralphem</form>
-<tag lemma="Ralph_;S" src="auto" recommended="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="Ralph_;S" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="Ralph_;S_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1112-001-p1s1W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -560,7 +569,10 @@
 <LM>w#w-wsj1112-001-p1s1W22</LM>
 </w.rf>
 <form>Reinsem</form>
-<tag lemma="Reinsem" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Reinsem" src="auto">X@-------------</AM>
+<AM lemma="Reins_;S" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1112-001-p1s1W23-Ta">
 <src.rf>tagger-a</src.rf>

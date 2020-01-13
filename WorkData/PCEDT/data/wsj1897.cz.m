@@ -27,7 +27,10 @@
 <LM>w#w-wsj1897-001-p1s0W2</LM>
 </w.rf>
 <form>Consolidated</form>
-<tag lemma="Consolidated" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Consolidated" src="auto">X@-------------</AM>
+<AM lemma="Consolidated-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1897-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1897-001-p1s0W3</LM>
 </w.rf>
 <form>Rail</form>
-<tag lemma="Rail" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Rail" src="auto">X@-------------</AM>
+<AM lemma="Rail-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1897-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,7 +49,10 @@
 <LM>w#w-wsj1897-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1897-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1386,7 +1395,11 @@
 <LM>w#w-wsj1897-001-p1s4W14</LM>
 </w.rf>
 <form>Conrail</form>
-<tag lemma="Conrail" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Conrail" src="auto">X@-------------</AM>
+<AM lemma="Conrail-77" src="manual">F%-------------</AM>
+<AM lemma="Conrail_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1897-001-p1s4W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1485,7 +1498,10 @@
 <LM>w#w-wsj1897-001-p1s4W22</LM>
 </w.rf>
 <form>Conrail</form>
-<tag lemma="Conrail" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Conrail" src="auto">X@-------------</AM>
+<AM lemma="Conrail_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1897-001-p1s4W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1730,7 +1746,10 @@
 <LM>w#w-wsj1897-001-p1s5W8</LM>
 </w.rf>
 <form>Conrail</form>
-<tag lemma="Conrail" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Conrail" src="auto">X@-------------</AM>
+<AM lemma="Conrail_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1897-001-p1s5W9-Ta">
 <src.rf>tagger-a</src.rf>

@@ -27,6 +27,7 @@
 <tag>
 <AM lemma="Coast_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Coast_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Coast-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0325-001-p1s0W3-Ta">
@@ -35,7 +36,10 @@
 <LM>w#w-wsj0325-001-p1s0W3</LM>
 </w.rf>
 <form>Savings</form>
-<tag lemma="Savings" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Savings" src="auto">X@-------------</AM>
+<AM lemma="Savings-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0325-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,7 +47,10 @@
 <LM>w#w-wsj0325-001-p1s0W4</LM>
 </w.rf>
 <form>Financial</form>
-<tag lemma="Financial" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Financial" src="auto">X@-------------</AM>
+<AM lemma="Financial-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0325-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -54,6 +61,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0325-001-p1s0W6-Ta">
@@ -259,6 +267,7 @@
 <AM lemma="program-1" src="auto">NNIS2-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS3-----A----</AM>
 <AM lemma="program-1" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="program" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0325-001-p1s0W21-Ta">
@@ -651,6 +660,7 @@
 <tag>
 <AM lemma="Coast_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Coast_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Coast_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0325-001-p1s2W3-Ta">
@@ -915,7 +925,7 @@
 <AM lemma="vládní" src="auto">AAMP3----1A----</AM>
 <AM lemma="vládní" src="auto">AAMS6----1A----</AM>
 <AM lemma="vládní" src="auto">AAMS7----1A----</AM>
-<AM lemma="vládní" src="auto">AANP3----1A----</AM>
+<AM lemma="vládní" src="auto" selected="1">AANP3----1A----</AM>
 <AM lemma="vládní" src="auto">AANS6----1A----</AM>
 <AM lemma="vládní" src="auto" recommended="1">AANS7----1A----</AM>
 </tag>
@@ -927,7 +937,7 @@
 </w.rf>
 <form>nařízením</form>
 <tag>
-<AM lemma="nařízení_^(*4dit)" src="auto">NNNP3-----A----</AM>
+<AM lemma="nařízení_^(*4dit)" src="auto" selected="1">NNNP3-----A----</AM>
 <AM lemma="nařízení_^(*4dit)" src="auto" recommended="1">NNNS7-----A----</AM>
 </tag>
 </m>
@@ -986,6 +996,7 @@
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS4-----A----</AM>
+<AM lemma="program" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0325-001-p1s4W3-Ta">

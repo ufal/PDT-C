@@ -27,7 +27,10 @@
 <LM>w#w-wsj1207-001-p1s0W2</LM>
 </w.rf>
 <form>Rubbermaid</form>
-<tag lemma="Rubbermaid" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Rubbermaid" src="auto">X@-------------</AM>
+<AM lemma="Rubbermaid-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1207-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -38,6 +41,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1207-001-p1s0W4-Ta">
@@ -536,7 +540,7 @@
 <form>listopadu</form>
 <tag>
 <AM lemma="listopad" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="listopad" src="auto">NNIS3-----A----</AM>
+<AM lemma="listopad" src="auto" selected="1">NNIS3-----A----</AM>
 <AM lemma="listopad" src="auto">NNIS6-----A----</AM>
 </tag>
 </m>
@@ -928,7 +932,10 @@
 <LM>w#w-wsj1207-001-p1s3W3</LM>
 </w.rf>
 <form>Rubbermaid</form>
-<tag lemma="Rubbermaid" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Rubbermaid" src="auto">X@-------------</AM>
+<AM lemma="Rubbermaid_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1207-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -994,7 +1001,7 @@
 <AM lemma="žádný" src="auto" recommended="1">PWFP1----------</AM>
 <AM lemma="žádný" src="auto">PWFP4----------</AM>
 <AM lemma="žádný" src="auto">PWFP5----------</AM>
-<AM lemma="žádný" src="auto">PWFS2----------</AM>
+<AM lemma="žádný" src="auto" selected="1">PWFS2----------</AM>
 <AM lemma="žádný" src="auto">PWFS3----------</AM>
 <AM lemma="žádný" src="auto">PWFS6----------</AM>
 <AM lemma="žádný" src="auto">PWIP1----------</AM>
@@ -1018,7 +1025,7 @@
 <AM lemma="snaha" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="snaha" src="auto">NNFP4-----A----</AM>
 <AM lemma="snaha" src="auto">NNFP5-----A----</AM>
-<AM lemma="snaha" src="auto">NNFS2-----A----</AM>
+<AM lemma="snaha" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1207-001-p1s3W12-Ta">
@@ -1288,7 +1295,11 @@
 <LM>w#w-wsj1207-001-p1s4W9</LM>
 </w.rf>
 <form>Rubbermaid</form>
-<tag lemma="Rubbermaid" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Rubbermaid" src="auto">X@-------------</AM>
+<AM lemma="Rubbermaid-77" src="manual">F%-------------</AM>
+<AM lemma="Rubbermaid_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1207-001-p1s4W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1426,7 +1437,10 @@
 <LM>w#w-wsj1207-001-p1s4W23</LM>
 </w.rf>
 <form>Rubbermaid</form>
-<tag lemma="Rubbermaid" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Rubbermaid" src="auto">X@-------------</AM>
+<AM lemma="Rubbermaid_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1207-001-p1s4W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1503,7 +1517,7 @@
 <AM lemma="jen-2_^(japonská_měna)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jen-2_^(japonská_měna)" src="auto">NNIS4-----A----</AM>
 <AM lemma="jen-3" src="auto">J,-------------</AM>
-<AM lemma="jen-4_^(pouze)" src="auto">Db-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="auto" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1207-001-p1s5W6-Ta">
@@ -1794,7 +1808,10 @@
 <LM>w#w-wsj1207-001-p1s5W28</LM>
 </w.rf>
 <form>Rubbermaid</form>
-<tag lemma="Rubbermaid" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Rubbermaid" src="auto">X@-------------</AM>
+<AM lemma="Rubbermaid_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1207-001-p1s5W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1975,7 +1992,10 @@
 <LM>w#w-wsj1207-001-p1s5W42</LM>
 </w.rf>
 <form>Rubbermaid</form>
-<tag lemma="Rubbermaid" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Rubbermaid" src="auto">X@-------------</AM>
+<AM lemma="Rubbermaid_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1207-001-p1s5W43-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2091,7 +2111,7 @@
 <form>dvojnásobku</form>
 <tag>
 <AM lemma="dvojnásobek" src="auto">NNIS2-----A----</AM>
-<AM lemma="dvojnásobek" src="auto">NNIS3-----A----</AM>
+<AM lemma="dvojnásobek" src="auto" selected="1">NNIS3-----A----</AM>
 <AM lemma="dvojnásobek" src="auto">NNIS5-----A----</AM>
 <AM lemma="dvojnásobek" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
@@ -2390,7 +2410,10 @@
 <LM>w#w-wsj1207-001-p1s6W23</LM>
 </w.rf>
 <form>Rubbermaid</form>
-<tag lemma="Rubbermaid" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Rubbermaid" src="auto">X@-------------</AM>
+<AM lemma="Rubbermaid_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1207-001-p1s6W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2587,7 +2610,10 @@
 <LM>w#w-wsj1207-001-p1s7W2</LM>
 </w.rf>
 <form>Rubbermaid</form>
-<tag lemma="Rubbermaid" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Rubbermaid" src="auto">X@-------------</AM>
+<AM lemma="Rubbermaid_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1207-001-p1s7W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3173,7 +3199,10 @@
 <LM>w#w-wsj1207-001-p1s9W3</LM>
 </w.rf>
 <form>Rubbermaid</form>
-<tag lemma="Rubbermaid" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Rubbermaid" src="auto">X@-------------</AM>
+<AM lemma="Rubbermaid_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1207-001-p1s9W4-Ta">
 <src.rf>tagger-a</src.rf>

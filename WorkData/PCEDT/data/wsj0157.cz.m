@@ -36,6 +36,7 @@
 <AM lemma="tonus" src="auto">NNIP4-----A----</AM>
 <AM lemma="tonus" src="auto">NNIP5-----A----</AM>
 <AM lemma="tonus" src="auto">NNIP7-----A----</AM>
+<AM lemma="Tony-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0157-001-p1s0W3-Ta">
@@ -49,6 +50,7 @@
 <AM lemma="Lam_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="lama-1_^(živočich)" src="auto">NNFS1-----A----</AM>
 <AM lemma="lama-2_^(buddhistický_mnich)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Lama-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0157-001-p1s0W4-Ta">
@@ -65,6 +67,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0157-001-p1s0W5-Ta">
@@ -122,6 +125,7 @@
 <tag>
 <AM lemma="Equus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Equus" src="auto">NNIS4-----A----</AM>
+<AM lemma="Equus-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0157-001-p1s0W11-Ta">
@@ -133,6 +137,7 @@
 <tag>
 <AM lemma="Investment_;K" src="auto">NNIS1-----A----</AM>
 <AM lemma="Investment_;K" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Investment-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0157-001-p1s0W12-Ta">
@@ -149,7 +154,10 @@
 <LM>w#w-wsj0157-001-p1s0W13</LM>
 </w.rf>
 <form>Limited</form>
-<tag lemma="Limited" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Limited" src="auto">X@-------------</AM>
+<AM lemma="Limited-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0157-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -157,7 +165,10 @@
 <LM>w#w-wsj0157-001-p1s0W14</LM>
 </w.rf>
 <form>Partnership</form>
-<tag lemma="Partnership" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Partnership" src="auto">X@-------------</AM>
+<AM lemma="Partnership-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0157-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -430,6 +441,7 @@
 <tag>
 <AM lemma="Equus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Equus" src="auto">NNIS4-----A----</AM>
+<AM lemma="Equus_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0157-001-p1s1W8-Ta">
@@ -471,6 +483,7 @@
 <tag>
 <AM lemma="Equus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Equus" src="auto">NNIS4-----A----</AM>
+<AM lemma="Equus-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0157-001-p1s1W12-Ta">
@@ -479,7 +492,10 @@
 <LM>w#w-wsj0157-001-p1s1W12</LM>
 </w.rf>
 <form>Capital</form>
-<tag lemma="Capital" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Capital" src="auto">X@-------------</AM>
+<AM lemma="Capital-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0157-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -487,7 +503,10 @@
 <LM>w#w-wsj0157-001-p1s1W13</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0157-001-p1s1W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -912,6 +931,7 @@
 <AM lemma="tonus" src="auto">NNIP4-----A----</AM>
 <AM lemma="tonus" src="auto">NNIP5-----A----</AM>
 <AM lemma="tonus" src="auto">NNIP7-----A----</AM>
+<AM lemma="Tony-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0157-001-p1s1W45-Ta">
@@ -925,6 +945,7 @@
 <AM lemma="Lam_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="lama-1_^(živočich)" src="auto">NNFS1-----A----</AM>
 <AM lemma="lama-2_^(buddhistický_mnich)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Lama-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0157-001-p1s1W46-Ta">
@@ -1033,6 +1054,11 @@
 <AM lemma="li-2" src="auto" recommended="1">J,-------------</AM>
 <AM lemma="li-99_:B_;S" src="auto">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>neboli dohromady</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0157-001-p1s2W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1086,6 +1112,7 @@
 <AM lemma="El_;K" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="el-77_,t" src="auto">F%-------------</AM>
 <AM lemma="elektrický_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="El-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0157-001-p1s3W3-Ta">
@@ -1101,6 +1128,7 @@
 <AM lemma="paso_,t_^(passo_doble)" src="auto">NNNS1-----A----</AM>
 <AM lemma="paso_,t_^(passo_doble)" src="auto">NNNS4-----A----</AM>
 <AM lemma="paso_,t_^(passo_doble)" src="auto">NNNS5-----A----</AM>
+<AM lemma="Paso-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0157-001-p1s3W4-Ta">
@@ -1368,7 +1396,7 @@
 <AM lemma="mír_^(opak_války)" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="mír_^(opak_války)" src="auto">NNIS3-----A----</AM>
 <AM lemma="mír_^(opak_války)" src="auto">NNIS6-----A----</AM>
-<AM lemma="míra_^(měřítko,poměr)" src="auto">NNFS4-----A----</AM>
+<AM lemma="míra_^(měřítko,poměr)" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0157-001-p1s3W26-Ta">
@@ -1668,6 +1696,7 @@
 <tag>
 <AM lemma="Equus" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Equus" src="auto">NNIS4-----A----</AM>
+<AM lemma="Equus_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0157-001-p1s5W4-Ta">
@@ -1715,6 +1744,7 @@
 <AM lemma="tonus" src="auto">NNIP4-----A----</AM>
 <AM lemma="tonus" src="auto">NNIP5-----A----</AM>
 <AM lemma="tonus" src="auto">NNIP7-----A----</AM>
+<AM lemma="Tony-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0157-001-p1s5W8-Ta">
@@ -1728,6 +1758,7 @@
 <AM lemma="Lam_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="lama-1_^(živočich)" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="lama-2_^(buddhistický_mnich)" src="auto">NNMS1-----A----</AM>
+<AM lemma="Lama-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0157-001-p1s5W9-Ta">
@@ -1856,6 +1887,7 @@
 <AM lemma="tonus" src="auto">NNIP4-----A----</AM>
 <AM lemma="tonus" src="auto">NNIP5-----A----</AM>
 <AM lemma="tonus" src="auto">NNIP7-----A----</AM>
+<AM lemma="Tony-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0157-001-p1s5W20-Ta">
@@ -1869,6 +1901,7 @@
 <AM lemma="Lam_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="lama-1_^(živočich)" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="lama-2_^(buddhistický_mnich)" src="auto">NNMS1-----A----</AM>
+<AM lemma="Lama-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0157-001-p1s5W21-Ta">
@@ -2012,6 +2045,7 @@
 <AM lemma="tonus" src="auto">NNIP4-----A----</AM>
 <AM lemma="tonus" src="auto">NNIP5-----A----</AM>
 <AM lemma="tonus" src="auto">NNIP7-----A----</AM>
+<AM lemma="Tony-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0157-001-p1s6W4-Ta">
@@ -2025,6 +2059,7 @@
 <AM lemma="Lam_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="lama-1_^(živočich)" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="lama-2_^(buddhistický_mnich)" src="auto">NNMS1-----A----</AM>
+<AM lemma="Lama-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0157-001-p1s6W5-Ta">

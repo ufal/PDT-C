@@ -29,7 +29,10 @@
 <LM>w#w-wsj2001-001-p1s0W2</LM>
 </w.rf>
 <form>Carlucci</form>
-<tag lemma="Carlucci" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Carlucci" src="auto">X@-------------</AM>
+<AM lemma="Carlucci_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2001-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -173,7 +176,7 @@
 <tag>
 <AM lemma="taka-1_;L" src="auto">NNFP2-----A----</AM>
 <AM lemma="tak-1" src="auto">TT-------------</AM>
-<AM lemma="tak-2" src="auto">J^-------------</AM>
+<AM lemma="tak-2" src="auto" selected="1">J^-------------</AM>
 <AM lemma="tak-3" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
@@ -247,7 +250,10 @@
 <LM>w#w-wsj2001-001-p1s0W17</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</tag>
+<tag>
+<AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2001-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -282,7 +288,7 @@
 <form>smrtí</form>
 <tag>
 <AM lemma="smrt" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="smrt" src="auto">NNFS7-----A----</AM>
+<AM lemma="smrt" src="auto" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2001-001-p1s0W21-Ta">
@@ -302,7 +308,10 @@
 <LM>w#w-wsj2001-001-p1s0W22</LM>
 </w.rf>
 <form>Sobeye</form>
-<tag lemma="Sobeye" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Sobeye" src="auto">X@-------------</AM>
+<AM lemma="Sobey_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2001-001-p1s0W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -320,7 +329,10 @@
 <LM>w#w-wsj2001-001-p1s1W1</LM>
 </w.rf>
 <form>Carlucci</form>
-<tag lemma="Carlucci" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Carlucci" src="auto">X@-------------</AM>
+<AM lemma="Carlucci_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2001-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -494,7 +506,7 @@
 <form>úřad</form>
 <tag>
 <AM lemma="úřad" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="úřad" src="auto">NNIS4-----A----</AM>
+<AM lemma="úřad" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2001-001-p1s2W5-Ta">
@@ -556,6 +568,7 @@
 <AM lemma="Carlyle-1_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Carlyle-1_;S" src="auto" recommended="1">NNMXX-----A----</AM>
 <AM lemma="Carlyle-2_;S" src="auto">NNISX-----A----</AM>
+<AM lemma="Carlyle-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2001-001-p1s2W10-Ta">
@@ -564,7 +577,10 @@
 <LM>w#w-wsj2001-001-p1s2W10</LM>
 </w.rf>
 <form>Group</form>
-<tag lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2001-001-p1s2W11-Ta">
 <src.rf>tagger-a</src.rf>

@@ -27,7 +27,10 @@
 <LM>w#w-wsj1278-001-p1s0W2</LM>
 </w.rf>
 <form>Manville</form>
-<tag lemma="Manville" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Manville" src="auto">X@-------------</AM>
+<AM lemma="Manville-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1278-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1278-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1278-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -263,7 +269,10 @@
 <LM>w#w-wsj1278-001-p1s0W26</LM>
 </w.rf>
 <form>Igarasu</form>
-<tag lemma="Igarasu" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Igarasu" src="auto">X@-------------</AM>
+<AM lemma="Igaras_;G" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1278-001-p1s0W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -532,7 +541,10 @@
 <LM>w#w-wsj1278-001-p1s2W2</LM>
 </w.rf>
 <form>Manville</form>
-<tag lemma="Manville" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Manville" src="auto">X@-------------</AM>
+<AM lemma="Manville_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1278-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>

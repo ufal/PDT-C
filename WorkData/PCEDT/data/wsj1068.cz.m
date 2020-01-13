@@ -27,7 +27,10 @@
 <LM>w#w-wsj1068-001-p1s0W2</LM>
 </w.rf>
 <form>Kennametal</form>
-<tag lemma="Kennametal" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Kennametal" src="auto">X@-------------</AM>
+<AM lemma="Kennametal-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1068-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -38,6 +41,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1068-001-p1s0W4-Ta">
@@ -110,7 +114,7 @@
 <form>J</form>
 <tag>
 <AM lemma="J-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="J-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="J-88_:B" src="auto" selected="1">NNXXX-----A----</AM>
 <AM lemma="j-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="j-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -132,7 +136,7 @@
 <tag>
 <AM lemma="L-3`50" src="auto">C}-------------</AM>
 <AM lemma="L-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="L-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="L-88_:B" src="auto" selected="1">NNXXX-----A----</AM>
 <AM lemma="l-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="l-77_,t" src="auto">F%-------------</AM>
 <AM lemma="l-88_:B" src="auto">NNXXX-----A----</AM>
@@ -151,6 +155,7 @@
 <AM lemma="Amerika_;G" src="auto" recommended="1">NNFS1-----A---1</AM>
 <AM lemma="Americo_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Americo_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="America-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1068-001-p1s0W15-Ta">
@@ -162,6 +167,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1068-001-p1s0W16-Ta">
@@ -393,7 +399,10 @@
 <LM>w#w-wsj1068-001-p1s1W2</LM>
 </w.rf>
 <form>Kennametal</form>
-<tag lemma="Kennametal" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Kennametal" src="auto">X@-------------</AM>
+<AM lemma="Kennametal_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1068-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -476,7 +485,7 @@
 <AM lemma="výrobek" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="výrobek" src="auto">NNIP4-----A----</AM>
 <AM lemma="výrobek" src="auto">NNIP5-----A----</AM>
-<AM lemma="výrobek" src="auto">NNIP7-----A----</AM>
+<AM lemma="výrobek" src="auto" selected="1">NNIP7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1068-001-p1s1W8-Ta">
@@ -632,7 +641,7 @@
 <AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto">P1NS4FS3-------</AM>
 <AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto" recommended="1">P1XP1FS3-------</AM>
 <AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto">P1XP4FS3-------</AM>
-<AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto">P1ZS1FS3-------</AM>
+<AM lemma="jenž_^(který...[ve_vedl._větě])" src="auto" selected="1">P1ZS1FS3-------</AM>
 </tag>
 </m>
 <m id="m-wsj1068-001-p1s2W7-Ta">
@@ -832,7 +841,7 @@
 <AM lemma="příslušenství" src="auto">NNNP4-----A----</AM>
 <AM lemma="příslušenství" src="auto">NNNP5-----A----</AM>
 <AM lemma="příslušenství" src="auto">NNNS1-----A----</AM>
-<AM lemma="příslušenství" src="auto">NNNS2-----A----</AM>
+<AM lemma="příslušenství" src="auto" selected="1">NNNS2-----A----</AM>
 <AM lemma="příslušenství" src="auto">NNNS3-----A----</AM>
 <AM lemma="příslušenství" src="auto">NNNS4-----A----</AM>
 <AM lemma="příslušenství" src="auto">NNNS5-----A----</AM>
@@ -933,7 +942,10 @@
 <LM>w#w-wsj1068-001-p1s3W7</LM>
 </w.rf>
 <form>Kennametal</form>
-<tag lemma="Kennametal" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Kennametal" src="auto">X@-------------</AM>
+<AM lemma="Kennametal_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1068-001-p1s3W8-Ta">
 <src.rf>tagger-a</src.rf>

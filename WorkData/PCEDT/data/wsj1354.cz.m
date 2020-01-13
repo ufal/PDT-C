@@ -49,7 +49,10 @@
 <LM>w#w-wsj1354-001-p1s0W4</LM>
 </w.rf>
 <form>Enhancements</form>
-<tag lemma="Enhancements" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Enhancements" src="auto">X@-------------</AM>
+<AM lemma="Enhancements-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1354-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -120,7 +123,7 @@
 <form>obrat</form>
 <tag>
 <AM lemma="obrat-2_^(okrást;_vyčistit)" src="auto">Vf--------A-P--</AM>
-<AM lemma="obrat-1_^(z_prodeje_zboží)" src="auto">NNIS1-----A----</AM>
+<AM lemma="obrat-1_^(z_prodeje_zboží)" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="obrat-1_^(z_prodeje_zboží)" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -144,7 +147,7 @@
 </w.rf>
 <form>příjmy</form>
 <tag>
-<AM lemma="příjem" src="auto">NNIP1-----A----</AM>
+<AM lemma="příjem" src="auto" selected="1">NNIP1-----A----</AM>
 <AM lemma="příjem" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="příjem" src="auto">NNIP5-----A----</AM>
 <AM lemma="příjem" src="auto">NNIP7-----A----</AM>
@@ -384,7 +387,10 @@
 <LM>w#w-wsj1354-001-p1s1W2</LM>
 </w.rf>
 <form>Farooquee</form>
-<tag lemma="Farooquee" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Farooquee" src="auto">X@-------------</AM>
+<AM lemma="Farooquee_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1354-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -478,7 +484,10 @@
 <LM>w#w-wsj1354-001-p1s1W8</LM>
 </w.rf>
 <form>Tustin</form>
-<tag lemma="Tustin" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Tustin" src="auto">X@-------------</AM>
+<AM lemma="Tustin_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1354-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -574,7 +583,7 @@
 </w.rf>
 <form>očekávání</form>
 <tag>
-<AM lemma="očekávání_^(*3at)" src="auto">NNNP1-----A----</AM>
+<AM lemma="očekávání_^(*3at)" src="auto" selected="1">NNNP1-----A----</AM>
 <AM lemma="očekávání_^(*3at)" src="auto">NNNP2-----A----</AM>
 <AM lemma="očekávání_^(*3at)" src="auto">NNNP4-----A----</AM>
 <AM lemma="očekávání_^(*3at)" src="auto">NNNP5-----A----</AM>
@@ -856,7 +865,7 @@
 </w.rf>
 <form>líbí</form>
 <tag>
-<AM lemma="líbit" src="auto">VB-P---3P-AAI--</AM>
+<AM lemma="líbit" src="auto" selected="1">VB-P---3P-AAI--</AM>
 <AM lemma="líbit" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -1206,7 +1215,10 @@
 <LM>w#w-wsj1354-001-p1s4W1</LM>
 </w.rf>
 <form>Farooquee</form>
-<tag lemma="Farooquee" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Farooquee" src="auto">X@-------------</AM>
+<AM lemma="Farooquee_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1354-001-p1s4W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1254,7 +1266,7 @@
 <AM lemma="slábnutí_^(*3out)" src="auto">NNNP5-----A----</AM>
 <AM lemma="slábnutí_^(*3out)" src="auto">NNNS1-----A----</AM>
 <AM lemma="slábnutí_^(*3out)" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="slábnutí_^(*3out)" src="auto">NNNS3-----A----</AM>
+<AM lemma="slábnutí_^(*3out)" src="auto" selected="1">NNNS3-----A----</AM>
 <AM lemma="slábnutí_^(*3out)" src="auto">NNNS4-----A----</AM>
 <AM lemma="slábnutí_^(*3out)" src="auto">NNNS5-----A----</AM>
 <AM lemma="slábnutí_^(*3out)" src="auto">NNNS6-----A----</AM>

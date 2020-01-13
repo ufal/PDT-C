@@ -24,7 +24,10 @@
 <LM>w#w-wsj0346-001-p1s0W2</LM>
 </w.rf>
 <form>Cilcorp</form>
-<tag lemma="Cilcorp" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Cilcorp" src="auto">X@-------------</AM>
+<AM lemma="Cilcorp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0346-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,6 +38,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0346-001-p1s0W4-Ta">
@@ -81,7 +85,10 @@
 <LM>w#w-wsj0346-001-p1s0W8</LM>
 </w.rf>
 <form>Peoriy</form>
-<tag lemma="Peoriy" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Peoriy" src="auto">X@-------------</AM>
+<AM lemma="Peoriy_;G" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0346-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -110,6 +117,7 @@
 <AM lemma="Illinois" src="auto">NNIS7-----A---1</AM>
 <AM lemma="Illinois_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Illinois_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Illinois_;G" src="manual" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj0346-001-p1s0W11-Ta">
@@ -197,7 +205,7 @@
 <AM lemma="poradenský" src="auto">AAFS3----1A----</AM>
 <AM lemma="poradenský" src="auto">AAFS6----1A----</AM>
 <AM lemma="poradenský" src="auto">AAIP1----1A----</AM>
-<AM lemma="poradenský" src="auto">AAIP4----1A----</AM>
+<AM lemma="poradenský" src="auto" selected="1">AAIP4----1A----</AM>
 <AM lemma="poradenský" src="auto">AAIP5----1A----</AM>
 <AM lemma="poradenský" src="auto">AAMP4----1A----</AM>
 <AM lemma="poradenský" src="auto">AANS1----1A----</AM>
@@ -282,7 +290,10 @@
 <LM>w#w-wsj0346-001-p1s0W24</LM>
 </w.rf>
 <form>Hunter</form>
-<tag lemma="Hunter_;G" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hunter_;G" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hunter-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0346-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -290,7 +301,10 @@
 <LM>w#w-wsj0346-001-p1s0W25</LM>
 </w.rf>
 <form>Environmental</form>
-<tag lemma="Environmental" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Environmental" src="auto">X@-------------</AM>
+<AM lemma="Environmental-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0346-001-p1s0W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -298,7 +312,10 @@
 <LM>w#w-wsj0346-001-p1s0W26</LM>
 </w.rf>
 <form>Services</form>
-<tag lemma="Services" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Services" src="auto">X@-------------</AM>
+<AM lemma="Services-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0346-001-p1s0W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -309,6 +326,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0346-001-p1s0W28-Ta">
@@ -507,7 +525,10 @@
 <LM>w#w-wsj0346-001-p1s1W9</LM>
 </w.rf>
 <form>Hunter</form>
-<tag lemma="Hunter_;G" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hunter_;G" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hunter-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0346-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -695,7 +716,10 @@
 <LM>w#w-wsj0346-001-p1s1W23</LM>
 </w.rf>
 <form>Cilcorp</form>
-<tag lemma="Cilcorp" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Cilcorp" src="auto">X@-------------</AM>
+<AM lemma="Cilcorp_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0346-001-p1s1W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -810,7 +834,10 @@
 <LM>w#w-wsj0346-001-p1s2W2</LM>
 </w.rf>
 <form>Cilcorp</form>
-<tag lemma="Cilcorp" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Cilcorp" src="auto">X@-------------</AM>
+<AM lemma="Cilcorp_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0346-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -911,7 +938,10 @@
 <LM>w#w-wsj0346-001-p1s2W8</LM>
 </w.rf>
 <form>Hunter</form>
-<tag lemma="Hunter_;G" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hunter_;G" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hunter-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0346-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -989,7 +1019,7 @@
 <form>součást</form>
 <tag>
 <AM lemma="součást" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="součást" src="auto">NNFS4-----A----</AM>
+<AM lemma="součást" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0346-001-p1s3W3-Ta">
@@ -1002,7 +1032,7 @@
 <AM lemma="dohoda" src="auto">NNFP1-----A----</AM>
 <AM lemma="dohoda" src="auto">NNFP4-----A----</AM>
 <AM lemma="dohoda" src="auto">NNFP5-----A----</AM>
-<AM lemma="dohoda" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="dohoda" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0346-001-p1s3W4-Ta">
@@ -1035,7 +1065,10 @@
 <LM>w#w-wsj0346-001-p1s3W7</LM>
 </w.rf>
 <form>Cilcorp</form>
-<tag lemma="Cilcorp" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Cilcorp" src="auto">X@-------------</AM>
+<AM lemma="Cilcorp_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0346-001-p1s3W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1073,7 +1106,10 @@
 <LM>w#w-wsj0346-001-p1s3W11</LM>
 </w.rf>
 <form>Hunter</form>
-<tag lemma="Hunter_;G" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hunter_;G" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hunter-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0346-001-p1s3W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1190,7 +1226,10 @@
 <LM>w#w-wsj0346-001-p1s4W2</LM>
 </w.rf>
 <form>Cilcorp</form>
-<tag lemma="Cilcorp" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Cilcorp" src="auto">X@-------------</AM>
+<AM lemma="Cilcorp_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0346-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1483,7 +1522,10 @@
 <LM>w#w-wsj0346-001-p1s5W3</LM>
 </w.rf>
 <form>Cilcorp</form>
-<tag lemma="Cilcorp" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Cilcorp" src="auto">X@-------------</AM>
+<AM lemma="Cilcorp_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0346-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>

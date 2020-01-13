@@ -383,7 +383,7 @@
 </w.rf>
 <form>členství</form>
 <tag>
-<AM lemma="členství" src="auto">NNNP1-----A----</AM>
+<AM lemma="členství" src="auto" selected="1">NNNP1-----A----</AM>
 <AM lemma="členství" src="auto">NNNP2-----A----</AM>
 <AM lemma="členství" src="auto">NNNP4-----A----</AM>
 <AM lemma="členství" src="auto">NNNP5-----A----</AM>

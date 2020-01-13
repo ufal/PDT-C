@@ -41,6 +41,11 @@
 <AM lemma="48letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="48letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0948-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -316,7 +321,7 @@
 <AM lemma="hlavní" src="auto">AAFP4----1A----</AM>
 <AM lemma="hlavní" src="auto">AAFP5----1A----</AM>
 <AM lemma="hlavní" src="auto">AAFS1----1A----</AM>
-<AM lemma="hlavní" src="auto">AAFS2----1A----</AM>
+<AM lemma="hlavní" src="auto" selected="1">AAFS2----1A----</AM>
 <AM lemma="hlavní" src="auto">AAFS3----1A----</AM>
 <AM lemma="hlavní" src="auto">AAFS4----1A----</AM>
 <AM lemma="hlavní" src="auto">AAFS5----1A----</AM>
@@ -351,7 +356,7 @@
 <AM lemma="jednotka" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="jednotka" src="auto">NNFP4-----A----</AM>
 <AM lemma="jednotka" src="auto">NNFP5-----A----</AM>
-<AM lemma="jednotka" src="auto">NNFS2-----A----</AM>
+<AM lemma="jednotka" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0948-001-p1s0W23-Ta">
@@ -372,7 +377,7 @@
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFP1-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS2-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS2-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
@@ -432,7 +437,10 @@
 <LM>w#w-wsj0948-001-p1s0W29</LM>
 </w.rf>
 <form>Hodson</form>
-<tag lemma="Hodson_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hodson_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hodson-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0948-001-p1s0W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -453,6 +461,7 @@
 <AM lemma="son_^(jednotka_hlasitosti)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="son_^(jednotka_hlasitosti)" src="auto">NNIS4-----A----</AM>
 <AM lemma="sono_,l_^(sonografie)" src="auto">NNNP2-----A----</AM>
+<AM lemma="Son-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0948-001-p1s0W32-Ta">
@@ -464,6 +473,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0948-001-p1s0W33-Ta">
@@ -507,6 +517,11 @@
 <AM lemma="65letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="65letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0948-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -681,6 +696,11 @@
 <AM lemma="44letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="44letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0948-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1239,7 +1259,10 @@
 <LM>w#w-wsj0948-001-p1s4W2</LM>
 </w.rf>
 <form>Corroon</form>
-<tag lemma="Corroon" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Corroon" src="auto">X@-------------</AM>
+<AM lemma="Corroon_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0948-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1278,7 +1301,7 @@
 <AM lemma="nástupce" src="auto">NNMP4-----A----</AM>
 <AM lemma="nástupce" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="nástupce" src="auto">NNMS2-----A----</AM>
-<AM lemma="nástupce" src="auto">NNMS4-----A----</AM>
+<AM lemma="nástupce" src="auto" selected="1">NNMS4-----A----</AM>
 <AM lemma="nástupce" src="auto">NNMS5-----A----</AM>
 </tag>
 </m>

@@ -16,7 +16,10 @@
 <LM>w#w-wsj0009-001-p1s0W1</LM>
 </w.rf>
 <form>Clark</form>
-<tag lemma="Clark_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Clark_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Clark_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0009-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -45,7 +48,10 @@
 <LM>w#w-wsj0009-001-p1s0W4</LM>
 </w.rf>
 <form>Vitulli</form>
-<tag lemma="Vitulli" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Vitulli" src="auto">X@-------------</AM>
+<AM lemma="Vitulli_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0009-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -325,6 +331,7 @@
 <tag>
 <AM lemma="Mazda_;K_;R" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="mazda_;R" src="auto">NNFS1-----A----</AM>
+<AM lemma="Mazda-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0009-001-p1s0W24-Ta">
@@ -336,6 +343,7 @@
 <tag>
 <AM lemma="motor" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="motor" src="auto">NNIS4-----A----</AM>
+<AM lemma="Motor-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0009-001-p1s0W25-Ta">
@@ -344,7 +352,10 @@
 <LM>w#w-wsj0009-001-p1s0W25</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0009-001-p1s0W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -362,7 +373,10 @@
 <LM>w#w-wsj0009-001-p1s1W1</LM>
 </w.rf>
 <form>Vitulli</form>
-<tag lemma="Vitulli" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Vitulli" src="auto">X@-------------</AM>
+<AM lemma="Vitulli_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0009-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -653,7 +667,10 @@
 <LM>w#w-wsj0009-001-p1s2W2</LM>
 </w.rf>
 <form>Vitulli</form>
-<tag lemma="Vitulli" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Vitulli" src="auto">X@-------------</AM>
+<AM lemma="Vitulli_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0009-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -740,7 +757,7 @@
 </w.rf>
 <form>Chrysler</form>
 <tag>
-<AM lemma="Chrysler-1_;K_;R" src="auto">NNIS1-----A----</AM>
+<AM lemma="Chrysler-1_;K_;R" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Chrysler-1_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="Chrysler-3_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="chrysler_^(vozidlo)" src="auto">NNIS1-----A----</AM>
@@ -775,6 +792,7 @@
 <AM lemma="Chrysler-3_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="chrysler_^(vozidlo)" src="auto">NNIS1-----A----</AM>
 <AM lemma="chrysler_^(vozidlo)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Chrysler-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0009-001-p1s2W12-Ta">
@@ -783,7 +801,10 @@
 <LM>w#w-wsj0009-001-p1s2W12</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0009-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -901,7 +922,7 @@
 </w.rf>
 <form>Chrysler</form>
 <tag>
-<AM lemma="Chrysler-1_;K_;R" src="auto">NNIS1-----A----</AM>
+<AM lemma="Chrysler-1_;K_;R" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="Chrysler-1_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="Chrysler-3_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="chrysler_^(vozidlo)" src="auto">NNIS1-----A----</AM>

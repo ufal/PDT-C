@@ -45,12 +45,13 @@
 <AM lemma="vedení_^(*5ést)" src="auto">NNNP2-----A----</AM>
 <AM lemma="vedení_^(*5ést)" src="auto">NNNP4-----A----</AM>
 <AM lemma="vedení_^(*5ést)" src="auto">NNNP5-----A----</AM>
-<AM lemma="vedení_^(*5ést)" src="auto">NNNS1-----A----</AM>
+<AM lemma="vedení_^(*5ést)" src="auto" selected="1">NNNS1-----A----</AM>
 <AM lemma="vedení_^(*5ést)" src="auto">NNNS2-----A----</AM>
 <AM lemma="vedení_^(*5ést)" src="auto">NNNS3-----A----</AM>
 <AM lemma="vedení_^(*5ést)" src="auto">NNNS4-----A----</AM>
 <AM lemma="vedení_^(*5ést)" src="auto">NNNS5-----A----</AM>
 <AM lemma="vedení_^(*5ést)" src="auto">NNNS6-----A----</AM>
+<AM lemma="Vedení-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1545-001-p1s1W2-Ta">
@@ -174,6 +175,7 @@
 <AM lemma="Toronto_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Toronto_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Toronto_;G" src="auto">NNNS5-----A----</AM>
+<AM lemma="Toronto-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1545-001-p1s1W10-Ta">
@@ -187,6 +189,7 @@
 <AM lemma="star" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="star" src="auto">NNIS4-----A----</AM>
 <AM lemma="star_,t" src="auto">NNXXX-----A----</AM>
+<AM lemma="Star-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1545-001-p1s1W11-Ta">
@@ -242,7 +245,10 @@
 <LM>w#w-wsj1545-001-p1s1W15</LM>
 </w.rf>
 <form>Torstar</form>
-<tag lemma="Torstar" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Torstar" src="auto">X@-------------</AM>
+<AM lemma="Torstar-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1545-001-p1s1W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -250,7 +256,10 @@
 <LM>w#w-wsj1545-001-p1s1W16</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1545-001-p1s1W17-Ta">
 <src.rf>tagger-a</src.rf>

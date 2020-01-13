@@ -27,7 +27,10 @@
 <LM>w#w-wsj0086-001-p1s0W2</LM>
 </w.rf>
 <form>SHAREDATA</form>
-<tag lemma="SHAREDATA" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="SHAREDATA" src="auto">X@-------------</AM>
+<AM lemma="SHAREDATA-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0086-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -38,6 +41,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0086-001-p1s0W4-Ta">
@@ -490,6 +494,7 @@
 <tag>
 <AM lemma="Chandler_;S" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Chandler_;S" src="auto" recommended="1">NNMS6-----A---1</AM>
+<AM lemma="Chandler-2_;G" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0086-001-p1s1W7-Ta">
@@ -937,7 +942,10 @@
 <LM>w#w-wsj0086-001-p1s2W6</LM>
 </w.rf>
 <form>ShareData</form>
-<tag lemma="ShareData" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="ShareData" src="auto">X@-------------</AM>
+<AM lemma="ShareData_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0086-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1040,7 +1048,10 @@
 <LM>w#w-wsj0086-001-p1s3W2</LM>
 </w.rf>
 <form>ShareData</form>
-<tag lemma="ShareData" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="ShareData" src="auto">X@-------------</AM>
+<AM lemma="ShareData_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0086-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1161,7 +1172,7 @@
 <AM lemma="periferní" src="auto">AAMS1----1A----</AM>
 <AM lemma="periferní" src="auto">AAMS5----1A----</AM>
 <AM lemma="periferní" src="auto">AANP1----1A----</AM>
-<AM lemma="periferní" src="auto">AANP4----1A----</AM>
+<AM lemma="periferní" src="auto" selected="1">AANP4----1A----</AM>
 <AM lemma="periferní" src="auto">AANP5----1A----</AM>
 <AM lemma="periferní" src="auto">AANS1----1A----</AM>
 <AM lemma="periferní" src="auto" recommended="1">AANS4----1A----</AM>
@@ -1179,7 +1190,7 @@
 <AM lemma="zařízený_^(*4dit)" src="auto">AAMP5----1A----</AM>
 <AM lemma="zařízení_^(*4dit)" src="auto">NNNP1-----A----</AM>
 <AM lemma="zařízení_^(*4dit)" src="auto">NNNP2-----A----</AM>
-<AM lemma="zařízení_^(*4dit)" src="auto">NNNP4-----A----</AM>
+<AM lemma="zařízení_^(*4dit)" src="auto" selected="1">NNNP4-----A----</AM>
 <AM lemma="zařízení_^(*4dit)" src="auto">NNNP5-----A----</AM>
 <AM lemma="zařízení_^(*4dit)" src="auto">NNNS1-----A----</AM>
 <AM lemma="zařízení_^(*4dit)" src="auto">NNNS2-----A----</AM>

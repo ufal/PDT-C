@@ -27,7 +27,10 @@
 <LM>w#w-wsj1080-001-p1s0W2</LM>
 </w.rf>
 <form>Amoco</form>
-<tag lemma="Amoco" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Amoco" src="auto">X@-------------</AM>
+<AM lemma="Amoco-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1080-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1080-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1080-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -436,7 +442,7 @@
 <AM lemma="Kongo_;G" src="auto">NNNP1-----A----</AM>
 <AM lemma="Kongo_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Kongo_;G" src="auto">NNNP5-----A----</AM>
-<AM lemma="Kongo_;G" src="auto">NNNS2-----A----</AM>
+<AM lemma="Kongo_;G" src="auto" selected="1">NNNS2-----A----</AM>
 <AM lemma="konga-2_^(druh_tance)" src="auto">NNFS1-----A----</AM>
 <AM lemma="konga-1_^(bicí_nástroj)" src="auto">NNNP1-----A----</AM>
 <AM lemma="konga-1_^(bicí_nástroj)" src="auto">NNNP4-----A----</AM>
@@ -502,7 +508,10 @@
 <LM>w#w-wsj1080-001-p1s1W3</LM>
 </w.rf>
 <form>Amoco</form>
-<tag lemma="Amoco" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Amoco" src="auto">X@-------------</AM>
+<AM lemma="Amoco_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1080-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -701,6 +710,7 @@
 <AM lemma="Hydro_;K_^(časopis)" src="auto">NNNS5-----A----</AM>
 <AM lemma="hydra" src="auto">NNFS5-----A----</AM>
 <AM lemma="hydro-77" src="auto">F%-------------</AM>
+<AM lemma="Hydro-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1080-001-p1s1W20-Ta">
@@ -713,6 +723,7 @@
 <AM lemma="Kongo_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Kongo_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Kongo_;G" src="auto">NNNS5-----A----</AM>
+<AM lemma="Congo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1080-001-p1s1W21-Ta">
@@ -893,6 +904,7 @@
 <tag>
 <AM lemma="Kuwait_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Kuwait_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Kuwait-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1080-001-p1s1W35-Ta">
@@ -901,7 +913,10 @@
 <LM>w#w-wsj1080-001-p1s1W35</LM>
 </w.rf>
 <form>Foreign</form>
-<tag lemma="Foreign" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Foreign" src="auto">X@-------------</AM>
+<AM lemma="Foreign-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1080-001-p1s1W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -909,7 +924,10 @@
 <LM>w#w-wsj1080-001-p1s1W36</LM>
 </w.rf>
 <form>Petroleum</form>
-<tag lemma="Petroleum" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Petroleum" src="auto">X@-------------</AM>
+<AM lemma="Petroleum-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1080-001-p1s1W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -917,7 +935,10 @@
 <LM>w#w-wsj1080-001-p1s1W37</LM>
 </w.rf>
 <form>Exploration</form>
-<tag lemma="Exploration" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Exploration" src="auto">X@-------------</AM>
+<AM lemma="Exploration-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1080-001-p1s1W38-Ta">
 <src.rf>tagger-a</src.rf>
@@ -933,6 +954,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1080-001-p1s1W39-Ta">
@@ -1055,6 +1077,7 @@
 <AM lemma="program-1" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS3-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS6-----A----</AM>
+<AM lemma="program" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1080-001-p1s2W5-Ta">

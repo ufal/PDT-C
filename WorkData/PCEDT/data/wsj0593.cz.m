@@ -16,7 +16,10 @@
 <LM>w#w-wsj0593-001-p1s0W1</LM>
 </w.rf>
 <form>Joseph</form>
-<tag lemma="Joseph_;Y_,t" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Joseph_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Joseph_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0593-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -24,7 +27,15 @@
 <LM>w#w-wsj0593-001-p1s0W2</LM>
 </w.rf>
 <form>L.</form>
-<tag lemma="L." src="auto">X@-------------</tag>
+<tag>
+<AM lemma="L." src="auto">X@-------------</AM>
+<AM lemma="L.-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0593-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -169,7 +180,10 @@
 <LM>w#w-wsj0593-001-p1s0W11</LM>
 </w.rf>
 <form>McGraw</form>
-<tag lemma="McGraw_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="McGraw_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="McGraw-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0593-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -185,7 +199,10 @@
 <LM>w#w-wsj0593-001-p1s0W13</LM>
 </w.rf>
 <form>Hill</form>
-<tag lemma="Hill_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Hill_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hill-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0593-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -196,6 +213,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0593-001-p1s0W15-Ta">
@@ -365,7 +383,10 @@
 <LM>w#w-wsj0593-001-p1s1W5</LM>
 </w.rf>
 <form>Wilcocka</form>
-<tag lemma="Wilcocka" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Wilcocka" src="auto">X@-------------</AM>
+<AM lemma="Wilcock_;S" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0593-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>

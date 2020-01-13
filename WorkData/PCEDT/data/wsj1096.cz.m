@@ -33,6 +33,7 @@
 <AM lemma="Ford-3_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="ford_;R" src="auto">NNIS1-----A----</AM>
 <AM lemma="ford_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Ford-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1096-001-p1s0W3-Ta">
@@ -44,6 +45,7 @@
 <tag>
 <AM lemma="motor" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="motor" src="auto">NNIS4-----A----</AM>
+<AM lemma="Motor-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1096-001-p1s0W4-Ta">
@@ -60,6 +62,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1096-001-p1s0W5-Ta">
@@ -174,7 +177,7 @@
 <tag>
 <AM lemma="prostřednictví" src="auto">NNNP3-----A----</AM>
 <AM lemma="prostřednictví" src="auto" recommended="1">NNNS7-----A----</AM>
-<AM lemma="prostřednictvím" src="auto">RR--2----------</AM>
+<AM lemma="prostřednictvím" src="auto" selected="1">RR--2----------</AM>
 </tag>
 </m>
 <m id="m-wsj1096-001-p1s0W16-Ta">
@@ -363,6 +366,7 @@
 <AM lemma="Ford-3_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="ford_;R" src="auto">NNIS1-----A----</AM>
 <AM lemma="ford_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Ford-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1096-001-p1s1W3-Ta">
@@ -371,7 +375,10 @@
 <LM>w#w-wsj1096-001-p1s1W3</LM>
 </w.rf>
 <form>Asia</form>
-<tag lemma="Asia_;K_^(restaurace)" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Asia_;K_^(restaurace)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Asia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1096-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -390,6 +397,7 @@
 <tag>
 <AM lemma="Pacifik_;G_,t" src="auto" recommended="1">NNIS1-----A---1</AM>
 <AM lemma="Pacifik_;G_,t" src="auto">NNIS4-----A---1</AM>
+<AM lemma="Pacific-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1096-001-p1s1W6-Ta">
@@ -1130,6 +1138,7 @@
 <AM lemma="Ford-3_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="ford_;R" src="auto">NNIS1-----A----</AM>
 <AM lemma="ford_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Ford-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1096-001-p1s3W12-Ta">
@@ -1138,7 +1147,10 @@
 <LM>w#w-wsj1096-001-p1s3W12</LM>
 </w.rf>
 <form>Automotive</form>
-<tag lemma="Automotive" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Automotive" src="auto">X@-------------</AM>
+<AM lemma="Automotive-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1096-001-p1s3W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1146,7 +1158,10 @@
 <LM>w#w-wsj1096-001-p1s3W13</LM>
 </w.rf>
 <form>Operations</form>
-<tag lemma="Operations" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Operations" src="auto">X@-------------</AM>
+<AM lemma="Operations-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1096-001-p1s3W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1257,6 +1272,7 @@
 <AM lemma="Ford-3_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="ford_;R" src="auto">NNIS1-----A----</AM>
 <AM lemma="ford_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Ford-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1096-001-p1s3W23-Ta">
@@ -1265,7 +1281,10 @@
 <LM>w#w-wsj1096-001-p1s3W23</LM>
 </w.rf>
 <form>Asia</form>
-<tag lemma="Asia_;K_^(restaurace)" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Asia_;K_^(restaurace)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Asia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1096-001-p1s3W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1284,6 +1303,7 @@
 <tag>
 <AM lemma="Pacifik_;G_,t" src="auto" recommended="1">NNIS1-----A---1</AM>
 <AM lemma="Pacifik_;G_,t" src="auto">NNIS4-----A---1</AM>
+<AM lemma="Pacific-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1096-001-p1s3W26-Ta">

@@ -41,7 +41,10 @@
 <LM>w#w-wsj1352-001-p1s0W3</LM>
 </w.rf>
 <form>LDI</form>
-<tag lemma="LDI" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="LDI" src="auto">X@-------------</AM>
+<AM lemma="LDI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1352-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -467,7 +470,10 @@
 <LM>w#w-wsj1352-001-p1s2W2</LM>
 </w.rf>
 <form>LDI</form>
-<tag lemma="LDI" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="LDI" src="auto">X@-------------</AM>
+<AM lemma="LDI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1352-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -653,7 +659,10 @@
 <LM>w#w-wsj1352-001-p1s2W20</LM>
 </w.rf>
 <form>LDI</form>
-<tag lemma="LDI" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="LDI" src="auto">X@-------------</AM>
+<AM lemma="LDI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1352-001-p1s2W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -745,7 +754,10 @@
 <LM>w#w-wsj1352-001-p1s3W2</LM>
 </w.rf>
 <form>LDI</form>
-<tag lemma="LDI" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="LDI" src="auto">X@-------------</AM>
+<AM lemma="LDI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1352-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -788,7 +800,7 @@
 <AM lemma="zařízený_^(*4dit)" src="auto">AAMP5----1A----</AM>
 <AM lemma="zařízení_^(*4dit)" src="auto">NNNP1-----A----</AM>
 <AM lemma="zařízení_^(*4dit)" src="auto">NNNP2-----A----</AM>
-<AM lemma="zařízení_^(*4dit)" src="auto">NNNP4-----A----</AM>
+<AM lemma="zařízení_^(*4dit)" src="auto" selected="1">NNNP4-----A----</AM>
 <AM lemma="zařízení_^(*4dit)" src="auto">NNNP5-----A----</AM>
 <AM lemma="zařízení_^(*4dit)" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="zařízení_^(*4dit)" src="auto">NNNS2-----A----</AM>
@@ -932,7 +944,7 @@
 <AM lemma="vyžadující_^(*5ovat)" src="auto">AGFS6-----A----</AM>
 <AM lemma="vyžadující_^(*5ovat)" src="auto">AGFS7-----A----</AM>
 <AM lemma="vyžadující_^(*5ovat)" src="auto">AGIP1-----A----</AM>
-<AM lemma="vyžadující_^(*5ovat)" src="auto">AGIP4-----A----</AM>
+<AM lemma="vyžadující_^(*5ovat)" src="auto" selected="1">AGIP4-----A----</AM>
 <AM lemma="vyžadující_^(*5ovat)" src="auto">AGIP5-----A----</AM>
 <AM lemma="vyžadující_^(*5ovat)" src="auto">AGIS1-----A----</AM>
 <AM lemma="vyžadující_^(*5ovat)" src="auto">AGIS4-----A----</AM>
@@ -958,7 +970,7 @@
 <form>špičkové</form>
 <tag>
 <AM lemma="špičkový" src="auto">AAFP1----1A----</AM>
-<AM lemma="špičkový" src="auto">AAFP4----1A----</AM>
+<AM lemma="špičkový" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="špičkový" src="auto">AAFP5----1A----</AM>
 <AM lemma="špičkový" src="auto" recommended="1">AAFS2----1A----</AM>
 <AM lemma="špičkový" src="auto">AAFS3----1A----</AM>
@@ -983,7 +995,7 @@
 <form>technologie</form>
 <tag>
 <AM lemma="technologie" src="auto">NNFP1-----A----</AM>
-<AM lemma="technologie" src="auto">NNFP4-----A----</AM>
+<AM lemma="technologie" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="technologie" src="auto">NNFP5-----A----</AM>
 <AM lemma="technologie" src="auto">NNFS1-----A----</AM>
 <AM lemma="technologie" src="auto" recommended="1">NNFS2-----A----</AM>

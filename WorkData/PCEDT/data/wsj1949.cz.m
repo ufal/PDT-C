@@ -30,6 +30,7 @@
 <tag>
 <AM lemma="Morgan-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="morgan-2_;L" src="auto">NNMS1-----A----</AM>
+<AM lemma="Morgan-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1949-001-p1s0W3-Ta">
@@ -38,7 +39,10 @@
 <LM>w#w-wsj1949-001-p1s0W3</LM>
 </w.rf>
 <form>Grenfell</form>
-<tag lemma="Grenfell_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Grenfell_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Grenfell-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1949-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -46,7 +50,10 @@
 <LM>w#w-wsj1949-001-p1s0W4</LM>
 </w.rf>
 <form>Group</form>
-<tag lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1949-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -328,7 +335,7 @@
 <AM lemma="předsednictví" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="předsednictví" src="auto">NNNS2-----A----</AM>
 <AM lemma="předsednictví" src="auto">NNNS3-----A----</AM>
-<AM lemma="předsednictví" src="auto">NNNS4-----A----</AM>
+<AM lemma="předsednictví" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="předsednictví" src="auto">NNNS5-----A----</AM>
 <AM lemma="předsednictví" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -662,6 +669,7 @@
 <tag>
 <AM lemma="Morgan-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="morgan-2_;L" src="auto">NNMS1-----A----</AM>
+<AM lemma="Morgan-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1949-001-p1s2W16-Ta">
@@ -670,7 +678,10 @@
 <LM>w#w-wsj1949-001-p1s2W16</LM>
 </w.rf>
 <form>Grenfell</form>
-<tag lemma="Grenfell_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Grenfell_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Grenfell-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1949-001-p1s2W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -752,7 +763,7 @@
 <AM lemma="řízení_^(*4dit)" src="auto">NNNS1-----A----</AM>
 <AM lemma="řízení_^(*4dit)" src="auto" recommended="1">NNNS2-----A----</AM>
 <AM lemma="řízení_^(*4dit)" src="auto">NNNS3-----A----</AM>
-<AM lemma="řízení_^(*4dit)" src="auto">NNNS4-----A----</AM>
+<AM lemma="řízení_^(*4dit)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="řízení_^(*4dit)" src="auto">NNNS5-----A----</AM>
 <AM lemma="řízení_^(*4dit)" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -787,7 +798,7 @@
 <form>bankovní</form>
 <tag>
 <AM lemma="bankovní" src="auto">AAFP1----1A----</AM>
-<AM lemma="bankovní" src="auto">AAFP4----1A----</AM>
+<AM lemma="bankovní" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="bankovní" src="auto">AAFP5----1A----</AM>
 <AM lemma="bankovní" src="auto">AAFS1----1A----</AM>
 <AM lemma="bankovní" src="auto" recommended="1">AAFS2----1A----</AM>
@@ -823,7 +834,7 @@
 <form>aktivity</form>
 <tag>
 <AM lemma="aktivita" src="auto">NNFP1-----A----</AM>
-<AM lemma="aktivita" src="auto">NNFP4-----A----</AM>
+<AM lemma="aktivita" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="aktivita" src="auto">NNFP5-----A----</AM>
 <AM lemma="aktivita" src="auto" recommended="1">NNFS2-----A----</AM>
 </tag>
@@ -847,7 +858,7 @@
 <tag>
 <AM lemma="Lon_;S" src="auto">NNMP1-----A---1</AM>
 <AM lemma="Lon_;S" src="auto">NNMP5-----A---1</AM>
-<AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1949-001-p1s3W2-Ta">
@@ -878,6 +889,7 @@
 <tag>
 <AM lemma="Morgan-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="morgan-2_;L" src="auto">NNMS1-----A----</AM>
+<AM lemma="Morgan-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1949-001-p1s3W5-Ta">
@@ -886,7 +898,10 @@
 <LM>w#w-wsj1949-001-p1s3W5</LM>
 </w.rf>
 <form>Grenfell</form>
-<tag lemma="Grenfell_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Grenfell_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Grenfell-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1949-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1505,6 +1520,7 @@
 <tag>
 <AM lemma="Morgan-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="morgan-2_;L" src="auto">NNMS1-----A----</AM>
+<AM lemma="Morgan-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1949-001-p1s5W6-Ta">
@@ -1513,7 +1529,10 @@
 <LM>w#w-wsj1949-001-p1s5W6</LM>
 </w.rf>
 <form>Grenfell</form>
-<tag lemma="Grenfell_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Grenfell_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Grenfell-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1949-001-p1s5W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1651,7 +1670,7 @@
 </w.rf>
 <form>pár</form>
 <tag>
-<AM lemma="pár-1" src="auto">ClXXX----------</AM>
+<AM lemma="pár-1" src="auto" selected="1">ClXXX----------</AM>
 <AM lemma="pár-2" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="pár-2" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -1977,6 +1996,7 @@
 <tag>
 <AM lemma="Distiller" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Distiller" src="auto">NNIS4-----A----</AM>
+<AM lemma="Distiller-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1949-001-p1s5W39-Ta">
@@ -2006,6 +2026,7 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1949-001-p1s5W41-Ta">
@@ -2022,6 +2043,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1949-001-p1s5W42-Ta">
@@ -2049,7 +2071,10 @@
 <LM>w#w-wsj1949-001-p1s5W44</LM>
 </w.rf>
 <form>Guinness</form>
-<tag lemma="Guinness_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Guinness_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Guinness-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1949-001-p1s5W45-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2119,6 +2144,7 @@
 <tag>
 <AM lemma="Morgan-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="morgan-2_;L" src="auto">NNMS1-----A----</AM>
+<AM lemma="Morgan-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1949-001-p1s6W3-Ta">
@@ -2127,7 +2153,10 @@
 <LM>w#w-wsj1949-001-p1s6W3</LM>
 </w.rf>
 <form>Grenfell</form>
-<tag lemma="Grenfell_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Grenfell_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Grenfell-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1949-001-p1s6W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2143,7 +2172,10 @@
 <LM>w#w-wsj1949-001-p1s6W5</LM>
 </w.rf>
 <form>Guinness</form>
-<tag lemma="Guinness_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Guinness_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Guinness-2_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1949-001-p1s6W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2257,7 +2289,10 @@
 <LM>w#w-wsj1949-001-p1s6W17</LM>
 </w.rf>
 <form>Guinness</form>
-<tag lemma="Guinness_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Guinness_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Guinness-2_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1949-001-p1s6W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2394,6 +2429,7 @@
 <tag>
 <AM lemma="Morgan-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="morgan-2_;L" src="auto">NNMS1-----A----</AM>
+<AM lemma="Morgan-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1949-001-p1s7W3-Ta">
@@ -2402,7 +2438,10 @@
 <LM>w#w-wsj1949-001-p1s7W3</LM>
 </w.rf>
 <form>Grenfell</form>
-<tag lemma="Grenfell_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Grenfell_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Grenfell-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1949-001-p1s7W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2439,7 +2478,7 @@
 <form>místo</form>
 <tag>
 <AM lemma="místo-1_^(fyzické_umístění)" src="auto">NNNS1-----A----</AM>
-<AM lemma="místo-1_^(fyzické_umístění)" src="auto">NNNS4-----A----</AM>
+<AM lemma="místo-1_^(fyzické_umístění)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="místo-1_^(fyzické_umístění)" src="auto">NNNS5-----A----</AM>
 <AM lemma="místo-2_^(záměnou_za)" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="místo-3" src="auto">Db-------------</AM>
@@ -2761,7 +2800,10 @@
 <LM>w#w-wsj1949-001-p1s8W10</LM>
 </w.rf>
 <form>Eward</form>
-<tag lemma="Eward" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Eward" src="auto">X@-------------</AM>
+<AM lemma="Eward_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1949-001-p1s8W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2941,7 +2983,7 @@
 <tag>
 <AM lemma="Anthon_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Anthon_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Anthony_;Y_,s_^(^DD**Antony)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Anthony_;Y_,s_^(^DD**Antony)" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="Anthony_;Y_,s_^(^DD**Antony)" src="auto">NNMS5-----A----</AM>
 <AM lemma="Anthony_;Y_,s_^(^DD**Antony)" src="auto">NNMXX-----A----</AM>
 </tag>
@@ -2955,6 +2997,7 @@
 <tag>
 <AM lemma="Richmond_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Richmond_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Richmond-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1949-001-p1s9W7-Ta">
@@ -3062,7 +3105,10 @@
 <LM>w#w-wsj1949-001-p1s10W3</LM>
 </w.rf>
 <form>Ewardově</form>
-<tag lemma="Ewardově" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ewardově" src="auto">X@-------------</AM>
+<AM lemma="Ewardův_;S_^(*2)" src="manual" selected="1">AUIS6M---------</AM>
+</tag>
 </m>
 <m id="m-wsj1949-001-p1s10W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3073,7 +3119,7 @@
 <tag>
 <AM lemma="odchod" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="odchod" src="auto">NNIS3-----A----</AM>
-<AM lemma="odchod" src="auto">NNIS6-----A---1</AM>
+<AM lemma="odchod" src="auto" selected="1">NNIS6-----A---1</AM>
 </tag>
 </m>
 <m id="m-wsj1949-001-p1s10W5-Ta">
@@ -3169,7 +3215,7 @@
 <AM lemma="co-1" src="auto">PQ--1----------</AM>
 <AM lemma="co-1" src="auto" recommended="1">PQ--4----------</AM>
 <AM lemma="co-2_^(cože;_ale_co)" src="auto">TT-------------</AM>
-<AM lemma="co-3_^(když:_poté/od_té_doby,_co)" src="auto">J,-------------</AM>
+<AM lemma="co-3_^(když:_poté/od_té_doby,_co)" src="auto" selected="1">J,-------------</AM>
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
@@ -3184,6 +3230,7 @@
 <tag>
 <AM lemma="Morgan-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="morgan-2_;L" src="auto">NNMS1-----A----</AM>
+<AM lemma="Morgan-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1949-001-p1s10W14-Ta">
@@ -3350,6 +3397,7 @@
 <tag>
 <AM lemma="Morgan-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="morgan-2_;L" src="auto">NNMS1-----A----</AM>
+<AM lemma="Morgan-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1949-001-p1s10W27-Ta">
@@ -3453,7 +3501,7 @@
 <form>finanční</form>
 <tag>
 <AM lemma="finanční" src="auto">AAFP1----1A----</AM>
-<AM lemma="finanční" src="auto">AAFP4----1A----</AM>
+<AM lemma="finanční" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="finanční" src="auto">AAFP5----1A----</AM>
 <AM lemma="finanční" src="auto">AAFS1----1A----</AM>
 <AM lemma="finanční" src="auto" recommended="1">AAFS2----1A----</AM>
@@ -3489,7 +3537,7 @@
 <form>služby</form>
 <tag>
 <AM lemma="služba" src="auto">NNFP1-----A----</AM>
-<AM lemma="služba" src="auto">NNFP4-----A----</AM>
+<AM lemma="služba" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="služba" src="auto">NNFP5-----A----</AM>
 <AM lemma="služba" src="auto" recommended="1">NNFS2-----A----</AM>
 </tag>
@@ -3545,7 +3593,10 @@
 <LM>w#w-wsj1949-001-p1s11W5</LM>
 </w.rf>
 <form>Eward</form>
-<tag lemma="Eward" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Eward" src="auto">X@-------------</AM>
+<AM lemma="Eward_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1949-001-p1s11W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3910,7 +3961,7 @@
 </w.rf>
 <form>pak</form>
 <tag>
-<AM lemma="pak" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="pak" src="auto" recommended="1" selected="1">Db-------------</AM>
 <AM lemma="pako-1_,l" src="auto">NNNP2-----A----</AM>
 </tag>
 </m>
@@ -4227,6 +4278,7 @@
 <tag>
 <AM lemma="Morgan-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="morgan-2_;L" src="auto">NNMS1-----A----</AM>
+<AM lemma="Morgan-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1949-001-p1s13W6-Ta">
@@ -4235,7 +4287,10 @@
 <LM>w#w-wsj1949-001-p1s13W6</LM>
 </w.rf>
 <form>Grenfell</form>
-<tag lemma="Grenfell_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Grenfell_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Grenfell-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1949-001-p1s13W7-Ta">
 <src.rf>tagger-a</src.rf>

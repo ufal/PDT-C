@@ -16,7 +16,10 @@
 <LM>w#w-wsj0952-001-p1s0W1</LM>
 </w.rf>
 <form>Alvin</form>
-<tag lemma="Alvin_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Alvin_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Alvin_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0952-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -46,7 +49,10 @@
 <LM>w#w-wsj0952-001-p1s0W4</LM>
 </w.rf>
 <form>Trivelpiece</form>
-<tag lemma="Trivelpiece" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Trivelpiece" src="auto">X@-------------</AM>
+<AM lemma="Trivelpiece_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0952-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -86,7 +92,10 @@
 <LM>w#w-wsj0952-001-p1s0W8</LM>
 </w.rf>
 <form>Oak</form>
-<tag lemma="Oak" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Oak" src="auto">X@-------------</AM>
+<AM lemma="Oak-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0952-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -94,7 +103,10 @@
 <LM>w#w-wsj0952-001-p1s0W9</LM>
 </w.rf>
 <form>Ridge</form>
-<tag lemma="Ridge" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ridge" src="auto">X@-------------</AM>
+<AM lemma="Ridge-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0952-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -102,7 +114,10 @@
 <LM>w#w-wsj0952-001-p1s0W10</LM>
 </w.rf>
 <form>National</form>
-<tag lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="National-1_;K_,t_^(souč._názvů,_např._N._Semiconductor)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="National-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0952-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -110,7 +125,10 @@
 <LM>w#w-wsj0952-001-p1s0W11</LM>
 </w.rf>
 <form>Laboratory</form>
-<tag lemma="Laboratory" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Laboratory" src="auto">X@-------------</AM>
+<AM lemma="Laboratory-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0952-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -143,7 +161,10 @@
 <LM>w#w-wsj0952-001-p1s0W14</LM>
 </w.rf>
 <form>Oak</form>
-<tag lemma="Oak" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Oak" src="auto">X@-------------</AM>
+<AM lemma="Oak-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0952-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -151,7 +172,10 @@
 <LM>w#w-wsj0952-001-p1s0W15</LM>
 </w.rf>
 <form>Ridge</form>
-<tag lemma="Ridge" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ridge" src="auto">X@-------------</AM>
+<AM lemma="Ridge-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0952-001-p1s0W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -328,6 +352,11 @@
 <AM lemma="58letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="58letý" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0952-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -335,7 +364,10 @@
 <LM>w#w-wsj0952-001-p1s1W2</LM>
 </w.rf>
 <form>Trivelpiece</form>
-<tag lemma="Trivelpiece" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Trivelpiece" src="auto">X@-------------</AM>
+<AM lemma="Trivelpiece_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0952-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>

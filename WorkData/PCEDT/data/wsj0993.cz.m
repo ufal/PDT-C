@@ -31,6 +31,7 @@
 <AM lemma="Parker_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="parker_;R_,h_,t_^(druh_plnicího_pera)" src="auto">NNIS1-----A----</AM>
 <AM lemma="parker_;R_,h_,t_^(druh_plnicího_pera)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Parker-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0993-001-p1s0W3-Ta">
@@ -39,7 +40,10 @@
 <LM>w#w-wsj0993-001-p1s0W3</LM>
 </w.rf>
 <form>Hannifin</form>
-<tag lemma="Hannifin" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Hannifin" src="auto">X@-------------</AM>
+<AM lemma="Hannifin-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0993-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -47,7 +51,10 @@
 <LM>w#w-wsj0993-001-p1s0W4</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0993-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -229,7 +236,7 @@
 <AM lemma="řízený_^(*4dit)" src="auto">AAFP4----1A----</AM>
 <AM lemma="řízený_^(*4dit)" src="auto">AAFP5----1A----</AM>
 <AM lemma="řízený_^(*4dit)" src="auto">AAFS2----1A----</AM>
-<AM lemma="řízený_^(*4dit)" src="auto">AAFS3----1A----</AM>
+<AM lemma="řízený_^(*4dit)" src="auto" selected="1">AAFS3----1A----</AM>
 <AM lemma="řízený_^(*4dit)" src="auto">AAFS6----1A----</AM>
 <AM lemma="řízený_^(*4dit)" src="auto" recommended="1">AAIP1----1A----</AM>
 <AM lemma="řízený_^(*4dit)" src="auto">AAIP4----1A----</AM>
@@ -666,7 +673,10 @@
 <LM>w#w-wsj0993-001-p1s2W7</LM>
 </w.rf>
 <form>Ideal</form>
-<tag lemma="Ideal" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Ideal" src="auto">X@-------------</AM>
+<AM lemma="Ideal_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0993-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -688,7 +698,10 @@
 <LM>w#w-wsj0993-001-p1s2W9</LM>
 </w.rf>
 <form>Plews</form>
-<tag lemma="Plews" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Plews" src="auto">X@-------------</AM>
+<AM lemma="Plews_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0993-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -836,7 +849,7 @@
 <tag>
 <AM lemma="končící_^(*3it)" src="auto">AGFP3-----A----</AM>
 <AM lemma="končící_^(*3it)" src="auto">AGIP3-----A----</AM>
-<AM lemma="končící_^(*3it)" src="auto">AGIS6-----A----</AM>
+<AM lemma="končící_^(*3it)" src="auto" selected="1">AGIS6-----A----</AM>
 <AM lemma="končící_^(*3it)" src="auto">AGIS7-----A----</AM>
 <AM lemma="končící_^(*3it)" src="auto" recommended="1">AGMP3-----A----</AM>
 <AM lemma="končící_^(*3it)" src="auto">AGMS6-----A----</AM>

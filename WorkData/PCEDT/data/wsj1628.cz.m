@@ -70,7 +70,7 @@
 </w.rf>
 <form>straní</form>
 <tag>
-<AM lemma="stranit-1_^(nadržovat,_přilepšovat_někomu)" src="auto">VB-P---3P-AAI--</AM>
+<AM lemma="stranit-1_^(nadržovat,_přilepšovat_někomu)" src="auto" selected="1">VB-P---3P-AAI--</AM>
 <AM lemma="stranit-1_^(nadržovat,_přilepšovat_někomu)" src="auto">VB-S---3P-AAI--</AM>
 <AM lemma="stranit-2_^([se]_čeho,_vyhýbat_se_něčemu)" src="auto" recommended="1">VB-P---3P-AAI--</AM>
 <AM lemma="stranit-2_^([se]_čeho,_vyhýbat_se_něčemu)" src="auto">VB-S---3P-AAI--</AM>
@@ -91,7 +91,7 @@
 <AM lemma="snížení_^(*3it)" src="auto">NNNP5-----A----</AM>
 <AM lemma="snížení_^(*3it)" src="auto">NNNS1-----A----</AM>
 <AM lemma="snížení_^(*3it)" src="auto">NNNS2-----A----</AM>
-<AM lemma="snížení_^(*3it)" src="auto">NNNS3-----A----</AM>
+<AM lemma="snížení_^(*3it)" src="auto" selected="1">NNNS3-----A----</AM>
 <AM lemma="snížení_^(*3it)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="snížení_^(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="snížení_^(*3it)" src="auto">NNNS6-----A----</AM>
@@ -875,7 +875,7 @@
 <AM lemma="jenž_^(kterou_[ve_vedl.větě])" src="auto">PJFS4----------</AM>
 <AM lemma="jenž_^(kteří_[ve_vedl.větě])" src="auto">PJMP1----------</AM>
 <AM lemma="již-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="již-2" src="auto">TT-------------</AM>
+<AM lemma="již-2" src="auto" selected="1">TT-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1628-001-p1s2W19-Ta">
@@ -1815,7 +1815,7 @@
 <form>demokraty</form>
 <tag>
 <AM lemma="demokrat" src="auto" recommended="1">NNMP4-----A----</AM>
-<AM lemma="demokrat" src="auto">NNMP7-----A----</AM>
+<AM lemma="demokrat" src="auto" selected="1">NNMP7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1628-001-p1s6W18-Ta">
@@ -2114,7 +2114,7 @@
 <form>úkol</form>
 <tag>
 <AM lemma="úkol" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="úkol" src="auto">NNIS4-----A----</AM>
+<AM lemma="úkol" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1628-001-p1s8W6-Ta">
@@ -2176,7 +2176,10 @@
 <LM>w#w-wsj1628-001-p1s9W4</LM>
 </w.rf>
 <form>Packwood</form>
-<tag lemma="Packwood" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Packwood" src="auto">X@-------------</AM>
+<AM lemma="Packwood_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1628-001-p1s9W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3596,7 +3599,7 @@
 <AM lemma="opatření_^(*3it)" src="auto">NNNS1-----A----</AM>
 <AM lemma="opatření_^(*3it)" src="auto">NNNS2-----A----</AM>
 <AM lemma="opatření_^(*3it)" src="auto">NNNS3-----A----</AM>
-<AM lemma="opatření_^(*3it)" src="auto">NNNS4-----A----</AM>
+<AM lemma="opatření_^(*3it)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="opatření_^(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="opatření_^(*3it)" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -4136,7 +4139,7 @@
 <AM lemma="snížení_^(*3it)" src="auto">NNNS1-----A----</AM>
 <AM lemma="snížení_^(*3it)" src="auto" recommended="1">NNNS2-----A----</AM>
 <AM lemma="snížení_^(*3it)" src="auto">NNNS3-----A----</AM>
-<AM lemma="snížení_^(*3it)" src="auto">NNNS4-----A----</AM>
+<AM lemma="snížení_^(*3it)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="snížení_^(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="snížení_^(*3it)" src="auto">NNNS6-----A----</AM>
 </tag>
@@ -5145,7 +5148,7 @@
 </w.rf>
 <form>zřejmě</form>
 <tag>
-<AM lemma="zřejmě-2" src="auto">TT-------------</AM>
+<AM lemma="zřejmě-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="zřejmě_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
@@ -5260,7 +5263,10 @@
 <LM>w#w-wsj1628-001-p1s19W13</LM>
 </w.rf>
 <form>Packwooda</form>
-<tag lemma="Packwooda" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Packwooda" src="auto">X@-------------</AM>
+<AM lemma="Packwood_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1628-001-p1s19W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5474,6 +5480,7 @@
 <tag>
 <AM lemma="program-1" src="auto">NNIS1-----A----</AM>
 <AM lemma="program-1" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="program" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1628-001-p1s20W8-Ta">
@@ -5762,7 +5769,10 @@
 <LM>w#w-wsj1628-001-p1s21W1</LM>
 </w.rf>
 <form>Packwoodův</form>
-<tag lemma="Packwoodův" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Packwoodův" src="auto">X@-------------</AM>
+<AM lemma="Packwoodův_^(*2)" src="manual" selected="1">AUIS1M---------</AM>
+</tag>
 </m>
 <m id="m-wsj1628-001-p1s21W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5799,7 +5809,7 @@
 <form>jak</form>
 <tag>
 <AM lemma="jak-1_;L_^(živočich)" src="auto">NNMS1-----A----</AM>
-<AM lemma="jak-2" src="auto">J,-------------</AM>
+<AM lemma="jak-2" src="auto" selected="1">J,-------------</AM>
 <AM lemma="jak-2" src="auto">J^-------------</AM>
 <AM lemma="jak-3" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="jak-99_:B_;S" src="auto">NNXXX-----A----</AM>
@@ -7209,7 +7219,10 @@
 <LM>w#w-wsj1628-001-p1s27W1</LM>
 </w.rf>
 <form>Packwoodův</form>
-<tag lemma="Packwoodův" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Packwoodův" src="auto">X@-------------</AM>
+<AM lemma="Packwoodův_^(*2)" src="manual" selected="1">AUIS1M---------</AM>
+</tag>
 </m>
 <m id="m-wsj1628-001-p1s27W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7337,6 +7350,7 @@
 <AM lemma="Roth" src="auto" recommended="1">NNMS7-----A----</AM>
 <AM lemma="Rothe_;S" src="auto">NNMS6-----A----</AM>
 <AM lemma="Rothe_;S" src="auto">NNMS7-----A----</AM>
+<AM lemma="Roth_;S" src="manual" selected="1">NNMS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1628-001-p1s27W12-Ta">
@@ -8424,7 +8438,7 @@
 </w.rf>
 <form>dani</form>
 <tag>
-<AM lemma="daň_^(peněžní/naturální_dávka)" src="auto">NNFS3-----A----</AM>
+<AM lemma="daň_^(peněžní/naturální_dávka)" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="daň_^(peněžní/naturální_dávka)" src="auto">NNFS5-----A----</AM>
 <AM lemma="daň_^(peněžní/naturální_dávka)" src="auto">NNFS6-----A----</AM>
 <AM lemma="dan-1_^(mistr_a_učitel_japon._sportů)" src="auto" recommended="1">NNMP1-----A---1</AM>

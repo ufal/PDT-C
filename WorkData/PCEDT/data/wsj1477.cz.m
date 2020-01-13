@@ -27,7 +27,10 @@
 <LM>w#w-wsj1477-001-p1s0W2</LM>
 </w.rf>
 <form>Citizens</form>
-<tag lemma="Citizens" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Citizens" src="auto">X@-------------</AM>
+<AM lemma="Citizens-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1477-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,7 +46,10 @@
 <LM>w#w-wsj1477-001-p1s0W4</LM>
 </w.rf>
 <form>Southern</form>
-<tag lemma="Southern" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Southern" src="auto">X@-------------</AM>
+<AM lemma="Southern-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1477-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -51,7 +57,10 @@
 <LM>w#w-wsj1477-001-p1s0W5</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1477-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -256,7 +265,10 @@
 <LM>w#w-wsj1477-001-p1s0W19</LM>
 </w.rf>
 <form>Security</form>
-<tag lemma="Security" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Security" src="auto">X@-------------</AM>
+<AM lemma="Security-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1477-001-p1s0W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -267,6 +279,7 @@
 <tag>
 <AM lemma="Pacifik_;G_,t" src="auto" recommended="1">NNIS1-----A---1</AM>
 <AM lemma="Pacifik_;G_,t" src="auto">NNIS4-----A---1</AM>
+<AM lemma="Pacific-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1477-001-p1s0W21-Ta">
@@ -275,7 +288,10 @@
 <LM>w#w-wsj1477-001-p1s0W21</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1477-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -554,7 +570,10 @@
 <LM>w#w-wsj1477-001-p1s3W2</LM>
 </w.rf>
 <form>Citizens</form>
-<tag lemma="Citizens" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Citizens" src="auto">X@-------------</AM>
+<AM lemma="Citizens_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1477-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -768,7 +787,10 @@
 <LM>w#w-wsj1477-001-p1s3W23</LM>
 </w.rf>
 <form>Security</form>
-<tag lemma="Security" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Security" src="auto">X@-------------</AM>
+<AM lemma="Security-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1477-001-p1s3W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -779,6 +801,7 @@
 <tag>
 <AM lemma="Pacifik_;G_,t" src="auto">NNIS1-----A---1</AM>
 <AM lemma="Pacifik_;G_,t" src="auto" recommended="1">NNIS4-----A---1</AM>
+<AM lemma="Pacific-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1477-001-p1s3W25-Ta">
@@ -899,7 +922,10 @@
 <LM>w#w-wsj1477-001-p1s4W4</LM>
 </w.rf>
 <form>Security</form>
-<tag lemma="Security" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Security" src="auto">X@-------------</AM>
+<AM lemma="Security-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1477-001-p1s4W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -910,6 +936,7 @@
 <tag>
 <AM lemma="Pacifik_;G_,t" src="auto" recommended="1">NNIS1-----A---1</AM>
 <AM lemma="Pacifik_;G_,t" src="auto">NNIS4-----A---1</AM>
+<AM lemma="Pacific-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1477-001-p1s4W6-Ta">

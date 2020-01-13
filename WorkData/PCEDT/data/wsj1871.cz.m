@@ -31,6 +31,7 @@
 <AM lemma="Henri_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Henri_;Y_,t" src="auto">NNMS5-----A----</AM>
 <AM lemma="Henri_;Y_,t" src="auto">NNMXX-----A----</AM>
+<AM lemma="Henri_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1871-001-p1s0W3-Ta">
@@ -195,6 +196,7 @@
 <tag>
 <AM lemma="business_,t" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="business_,t" src="auto">NNIS4-----A----</AM>
+<AM lemma="Business-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1871-001-p1s1W6-Ta">
@@ -207,6 +209,7 @@
 <AM lemma="Report_;K_,t_^(umělecký_soubor_Wheather_Report)" src="auto">NNIXX-----A----</AM>
 <AM lemma="report" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="report" src="auto">NNIS4-----A----</AM>
+<AM lemma="Report-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1871-001-p1s1W7-Ta">

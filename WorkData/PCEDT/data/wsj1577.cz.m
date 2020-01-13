@@ -27,7 +27,11 @@
 <LM>w#w-wsj1577-001-p1s0W2</LM>
 </w.rf>
 <form>HomeFed</form>
-<tag lemma="HomeFed" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="HomeFed" src="auto">X@-------------</AM>
+<AM lemma="HomeFed_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="HomeFed-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1577-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +39,10 @@
 <LM>w#w-wsj1577-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1577-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -181,6 +188,7 @@
 <tag>
 <AM lemma="Home_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="home_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Home-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1577-001-p1s0W15-Ta">
@@ -192,6 +200,7 @@
 <tag>
 <AM lemma="Federal_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Federal_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Federal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1577-001-p1s0W16-Ta">
@@ -200,7 +209,10 @@
 <LM>w#w-wsj1577-001-p1s0W16</LM>
 </w.rf>
 <form>Savings</form>
-<tag lemma="Savings" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Savings" src="auto">X@-------------</AM>
+<AM lemma="Savings-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1577-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -219,6 +231,7 @@
 <tag>
 <AM lemma="Loana_;K" src="auto">NNFP2-----A----</AM>
 <AM lemma="loan_^(půjčka)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="Loan-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1577-001-p1s0W19-Ta">
@@ -543,7 +556,10 @@
 <LM>w#w-wsj1577-001-p1s0W36</LM>
 </w.rf>
 <form>HomeFed</form>
-<tag lemma="HomeFed" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="HomeFed" src="auto">X@-------------</AM>
+<AM lemma="HomeFed-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1577-001-p1s0W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -554,7 +570,7 @@
 <tag>
 <AM lemma="Bank_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Bank-1_;K_,t_^(v_cizojaz._názvech_bank)" src="auto">NNFXX-----A----</AM>
-<AM lemma="Bank-77" src="auto">F%-------------</AM>
+<AM lemma="Bank-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="banka" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="bank" src="auto">NNIS1-----A----</AM>
 <AM lemma="bank" src="auto">NNIS4-----A----</AM>
@@ -787,7 +803,10 @@
 <LM>w#w-wsj1577-001-p1s1W17</LM>
 </w.rf>
 <form>HomeFed</form>
-<tag lemma="HomeFed" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="HomeFed" src="auto">X@-------------</AM>
+<AM lemma="HomeFed_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1577-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>

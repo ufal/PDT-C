@@ -27,7 +27,10 @@
 <LM>w#w-wsj1304-001-p1s0W2</LM>
 </w.rf>
 <form>Inco</form>
-<tag lemma="Inco" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Inco" src="auto">X@-------------</AM>
+<AM lemma="Inco-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1304-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1304-001-p1s0W3</LM>
 </w.rf>
 <form>Ltd</form>
-<tag lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="Ltd-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Ltd-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1304-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -77,7 +83,7 @@
 <form>pokles</form>
 <tag>
 <AM lemma="pokles" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="pokles" src="auto">NNIS4-----A----</AM>
+<AM lemma="pokles" src="auto" selected="1">NNIS4-----A----</AM>
 <AM lemma="poklesnout" src="auto">VpYS---XR-AAP-6</AM>
 </tag>
 </m>
@@ -684,7 +690,10 @@
 <LM>w#w-wsj1304-001-p1s2W3</LM>
 </w.rf>
 <form>Inco</form>
-<tag lemma="Inco" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Inco" src="auto">X@-------------</AM>
+<AM lemma="Inco_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1304-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1094,7 +1103,10 @@
 <LM>w#w-wsj1304-001-p1s4W10</LM>
 </w.rf>
 <form>Inco</form>
-<tag lemma="Inco" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Inco" src="auto">X@-------------</AM>
+<AM lemma="Inco_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1304-001-p1s4W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1132,7 +1144,7 @@
 </w.rf>
 <form>dolaru</form>
 <tag>
-<AM lemma="dolar" src="auto">NNIS2-----A----</AM>
+<AM lemma="dolar" src="auto" selected="1">NNIS2-----A----</AM>
 <AM lemma="dolar" src="auto">NNIS3-----A----</AM>
 <AM lemma="dolar" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
@@ -1318,7 +1330,10 @@
 <LM>w#w-wsj1304-001-p1s5W7</LM>
 </w.rf>
 <form>Inco</form>
-<tag lemma="Inco" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Inco" src="auto">X@-------------</AM>
+<AM lemma="Inco_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1304-001-p1s5W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1397,7 +1412,7 @@
 <AM lemma="září" src="auto">NNNP5-----A----</AM>
 <AM lemma="září" src="auto">NNNS1-----A----</AM>
 <AM lemma="září" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="září" src="auto">NNNS3-----A----</AM>
+<AM lemma="září" src="auto" selected="1">NNNS3-----A----</AM>
 <AM lemma="září" src="auto">NNNS4-----A----</AM>
 <AM lemma="září" src="auto">NNNS5-----A----</AM>
 <AM lemma="září" src="auto">NNNS6-----A----</AM>
@@ -1782,7 +1797,10 @@
 <LM>w#w-wsj1304-001-p1s5W47</LM>
 </w.rf>
 <form>loni</form>
-<tag lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</tag>
+<tag>
+<AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1304-001-p1s5W48-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2119,7 +2137,10 @@
 <LM>w#w-wsj1304-001-p1s7W8</LM>
 </w.rf>
 <form>Inco</form>
-<tag lemma="Inco" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Inco" src="auto">X@-------------</AM>
+<AM lemma="Inco_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1304-001-p1s7W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2526,7 +2547,7 @@
 <AM lemma="mimořádný" src="auto">AAFS3----1A----</AM>
 <AM lemma="mimořádný" src="auto">AAFS6----1A----</AM>
 <AM lemma="mimořádný" src="auto" recommended="1">AAIP1----1A----</AM>
-<AM lemma="mimořádný" src="auto">AAIP4----1A----</AM>
+<AM lemma="mimořádný" src="auto" selected="1">AAIP4----1A----</AM>
 <AM lemma="mimořádný" src="auto">AAIP5----1A----</AM>
 <AM lemma="mimořádný" src="auto">AAMP4----1A----</AM>
 <AM lemma="mimořádný" src="auto">AANP1----1A---6</AM>
@@ -2545,7 +2566,7 @@
 <form>zisky</form>
 <tag>
 <AM lemma="zisk" src="auto" recommended="1">NNIP1-----A----</AM>
-<AM lemma="zisk" src="auto">NNIP4-----A----</AM>
+<AM lemma="zisk" src="auto" selected="1">NNIP4-----A----</AM>
 <AM lemma="zisk" src="auto">NNIP5-----A----</AM>
 <AM lemma="zisk" src="auto">NNIP7-----A----</AM>
 </tag>
@@ -2961,7 +2982,10 @@
 <LM>w#w-wsj1304-001-p1s10W2</LM>
 </w.rf>
 <form>Inco</form>
-<tag lemma="Inco" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Inco" src="auto">X@-------------</AM>
+<AM lemma="Inco_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1304-001-p1s10W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3044,7 +3068,7 @@
 </w.rf>
 <form>nižšími</form>
 <tag>
-<AM lemma="nízký" src="auto">AAFP7----2A----</AM>
+<AM lemma="nízký" src="auto" selected="1">AAFP7----2A----</AM>
 <AM lemma="nízký" src="auto">AAIP7----2A----</AM>
 <AM lemma="nízký" src="auto" recommended="1">AAMP7----2A----</AM>
 <AM lemma="nízký" src="auto">AANP7----2A----</AM>
@@ -3212,7 +3236,7 @@
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP1-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS2-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS2-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS6-----A----</AM>
@@ -3367,7 +3391,10 @@
 <LM>w#w-wsj1304-001-p1s11W2</LM>
 </w.rf>
 <form>Inco</form>
-<tag lemma="Inco" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Inco" src="auto">X@-------------</AM>
+<AM lemma="Inco_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1304-001-p1s11W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3701,6 +3728,7 @@
 <AM lemma="program-1" src="auto">NNIS2-----A----</AM>
 <AM lemma="program-1" src="auto">NNIS3-----A----</AM>
 <AM lemma="program-1" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="program" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1304-001-p1s12W4-Ta">
@@ -3753,7 +3781,10 @@
 <LM>w#w-wsj1304-001-p1s12W8</LM>
 </w.rf>
 <form>Inco</form>
-<tag lemma="Inco" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Inco" src="auto">X@-------------</AM>
+<AM lemma="Inco_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1304-001-p1s12W9-Ta">
 <src.rf>tagger-a</src.rf>

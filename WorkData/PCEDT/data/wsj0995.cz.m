@@ -43,6 +43,7 @@
 <tag>
 <AM lemma="North-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="north-77" src="auto">F%-------------</AM>
+<AM lemma="NORTH-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0995-001-p1s0W4-Ta">
@@ -51,7 +52,10 @@
 <LM>w#w-wsj0995-001-p1s0W4</LM>
 </w.rf>
 <form>SIDE</form>
-<tag lemma="SIDE" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="SIDE" src="auto">X@-------------</AM>
+<AM lemma="SIDE-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0995-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -59,7 +63,10 @@
 <LM>w#w-wsj0995-001-p1s0W5</LM>
 </w.rf>
 <form>SAVINGS</form>
-<tag lemma="SAVINGS" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="SAVINGS" src="auto">X@-------------</AM>
+<AM lemma="SAVINGS-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0995-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -75,6 +82,7 @@
 <AM lemma="bank" src="auto">NNIS1-----A----</AM>
 <AM lemma="bank" src="auto">NNIS4-----A----</AM>
 <AM lemma="bank-77_,t" src="auto">F%-------------</AM>
+<AM lemma="BANK-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0995-001-p1s0W7-Ta">
@@ -460,7 +468,10 @@
 <LM>w#w-wsj0995-001-p1s1W7</LM>
 </w.rf>
 <form>Confer</form>
-<tag lemma="confer-77" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="confer-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Confer_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0995-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -634,7 +645,10 @@
 <LM>w#w-wsj0995-001-p1s1W20</LM>
 </w.rf>
 <form>Floral</form>
-<tag lemma="Floral" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Floral" src="auto">X@-------------</AM>
+<AM lemma="Floral-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0995-001-p1s1W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -645,6 +659,7 @@
 <tag>
 <AM lemma="park" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="park" src="auto">NNIS4-----A----</AM>
+<AM lemma="Park-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0995-001-p1s1W22-Ta">

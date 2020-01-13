@@ -20,7 +20,7 @@
 <AM lemma="Jaca-1_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="Jak_;R" src="auto">NNMS1-----A----</AM>
 <AM lemma="jak-1_;L_^(živočich)" src="auto">NNMS1-----A----</AM>
-<AM lemma="jak-2" src="auto">J,-------------</AM>
+<AM lemma="jak-2" src="auto" selected="1">J,-------------</AM>
 <AM lemma="jak-2" src="auto">J^-------------</AM>
 <AM lemma="jak-3" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="jak-99_:B_;S" src="auto">NNXXX-----A----</AM>
@@ -1217,7 +1217,7 @@
 <tag>
 <AM lemma="jak-1_;L_^(živočich)" src="auto">NNMS1-----A----</AM>
 <AM lemma="jak-2" src="auto">J,-------------</AM>
-<AM lemma="jak-2" src="auto">J^-------------</AM>
+<AM lemma="jak-2" src="auto" selected="1">J^-------------</AM>
 <AM lemma="jak-3" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="jak-99_:B_;S" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -1243,7 +1243,7 @@
 <AM lemma="původní" src="auto">AAIP4----1A----</AM>
 <AM lemma="původní" src="auto">AAIP5----1A----</AM>
 <AM lemma="původní" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="původní" src="auto">AAIS4----1A----</AM>
+<AM lemma="původní" src="auto" selected="1">AAIS4----1A----</AM>
 <AM lemma="původní" src="auto">AAIS5----1A----</AM>
 <AM lemma="původní" src="auto">AAMP1----1A----</AM>
 <AM lemma="původní" src="auto">AAMP4----1A----</AM>
@@ -1266,7 +1266,7 @@
 <form>cíl</form>
 <tag>
 <AM lemma="cíl" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="cíl" src="auto">NNIS4-----A----</AM>
+<AM lemma="cíl" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2389-001-p1s3W18-Ta">
@@ -1394,7 +1394,10 @@
 <LM>w#w-wsj2389-001-p1s3W29</LM>
 </w.rf>
 <form>Felipa</form>
-<tag lemma="Felipa" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Felipa" src="auto">X@-------------</AM>
+<AM lemma="Felipe_;S_;Y" src="manual" selected="1">NNMS2-----A---1</AM>
+</tag>
 </m>
 <m id="m-wsj2389-001-p1s3W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1607,7 +1610,7 @@
 <form>inflací</form>
 <tag>
 <AM lemma="inflace" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="inflace" src="auto">NNFS7-----A----</AM>
+<AM lemma="inflace" src="auto" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2389-001-p1s3W43-Ta">

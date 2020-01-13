@@ -317,7 +317,7 @@
 <AM lemma="komise" src="auto">NNFP1-----A----</AM>
 <AM lemma="komise" src="auto">NNFP4-----A----</AM>
 <AM lemma="komise" src="auto">NNFP5-----A----</AM>
-<AM lemma="komise" src="auto">NNFS1-----A----</AM>
+<AM lemma="komise" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="komise" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="komise" src="auto">NNFS5-----A----</AM>
 </tag>
@@ -505,6 +505,7 @@
 <AM lemma="Air_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="air" src="auto">NNIS1-----A----</AM>
 <AM lemma="air" src="auto">NNIS4-----A----</AM>
+<AM lemma="Air-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0743-001-p1s1W22-Ta">
@@ -529,6 +530,7 @@
 <AM lemma="France-1_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="France-1_;S" src="auto">NNMXX-----A----</AM>
 <AM lemma="France-2_;G_;K" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="France-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0743-001-p1s1W23-Ta">
@@ -614,6 +616,7 @@
 <AM lemma="Air_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="air" src="auto">NNIS1-----A----</AM>
 <AM lemma="air" src="auto">NNIS4-----A----</AM>
+<AM lemma="Air-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0743-001-p1s1W29-Ta">
@@ -627,6 +630,7 @@
 <AM lemma="Inter_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Inter_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="inter" src="auto">A2--------A----</AM>
+<AM lemma="Inter-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0743-001-p1s1W30-Ta">
@@ -1016,6 +1020,7 @@
 <AM lemma="Air_;K" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="air" src="auto">NNIS1-----A----</AM>
 <AM lemma="air" src="auto">NNIS4-----A----</AM>
+<AM lemma="Air-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0743-001-p1s3W12-Ta">
@@ -1040,6 +1045,7 @@
 <AM lemma="France-1_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="France-1_;S" src="auto">NNMXX-----A----</AM>
 <AM lemma="France-2_;G_;K" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="France-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0743-001-p1s3W13-Ta">
@@ -1224,6 +1230,7 @@
 <AM lemma="Air_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="air" src="auto">NNIS1-----A----</AM>
 <AM lemma="air" src="auto">NNIS4-----A----</AM>
+<AM lemma="Air-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0743-001-p1s3W26-Ta">
@@ -1237,6 +1244,7 @@
 <AM lemma="Inter_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Inter_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="inter" src="auto">A2--------A----</AM>
+<AM lemma="Inter-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0743-001-p1s3W27-Ta">
@@ -1445,6 +1453,7 @@
 <AM lemma="Air_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="air" src="auto">NNIS1-----A----</AM>
 <AM lemma="air" src="auto">NNIS4-----A----</AM>
+<AM lemma="Air-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0743-001-p1s3W41-Ta">
@@ -1469,6 +1478,7 @@
 <AM lemma="France-1_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="France-1_;S" src="auto">NNMXX-----A----</AM>
 <AM lemma="France-2_;G_;K" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="France-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0743-001-p1s3W42-Ta">
@@ -1633,7 +1643,7 @@
 <form>o</form>
 <tag>
 <AM lemma="o-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="o-1" src="auto">RR--6----------</AM>
+<AM lemma="o-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="o-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="o-77_,t" src="auto">F%-------------</AM>
 <AM lemma="o-88_:B" src="auto">NNXXX-----A----</AM>
@@ -1656,7 +1666,7 @@
 <AM lemma="oceňování_^(*3at)" src="auto">NNNS3-----A----</AM>
 <AM lemma="oceňování_^(*3at)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="oceňování_^(*3at)" src="auto">NNNS5-----A----</AM>
-<AM lemma="oceňování_^(*3at)" src="auto">NNNS6-----A----</AM>
+<AM lemma="oceňování_^(*3at)" src="auto" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0743-001-p1s4W15-Ta">
@@ -2064,6 +2074,11 @@
 <AM lemma="lepšit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="lepšit" src="auto" recommended="1">Vi-S---3--A-I-4</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>lepší</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0743-001-p1s6W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2125,7 +2140,7 @@
 <AM lemma="mluvčí-2" src="auto">NNFP1-----A----</AM>
 <AM lemma="mluvčí-2" src="auto">NNFP4-----A----</AM>
 <AM lemma="mluvčí-2" src="auto">NNFP5-----A----</AM>
-<AM lemma="mluvčí-2" src="auto">NNFS1-----A----</AM>
+<AM lemma="mluvčí-2" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="mluvčí-2" src="auto">NNFS2-----A----</AM>
 <AM lemma="mluvčí-2" src="auto">NNFS3-----A----</AM>
 <AM lemma="mluvčí-2" src="auto">NNFS4-----A----</AM>
@@ -2161,6 +2176,7 @@
 <AM lemma="Air_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="air" src="auto">NNIS1-----A----</AM>
 <AM lemma="air" src="auto">NNIS4-----A----</AM>
+<AM lemma="Air-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0743-001-p1s7W4-Ta">
@@ -2185,6 +2201,7 @@
 <AM lemma="France-1_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="France-1_;S" src="auto">NNMXX-----A----</AM>
 <AM lemma="France-2_;G_;K" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="France-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0743-001-p1s7W5-Ta">
@@ -2358,6 +2375,7 @@
 <AM lemma="Air_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="air" src="auto">NNIS1-----A----</AM>
 <AM lemma="air" src="auto">NNIS4-----A----</AM>
+<AM lemma="Air-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0743-001-p1s8W4-Ta">
@@ -2371,6 +2389,7 @@
 <AM lemma="Inter_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Inter_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="inter" src="auto">A2--------A----</AM>
+<AM lemma="Inter-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0743-001-p1s8W5-Ta">

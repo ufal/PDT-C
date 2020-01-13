@@ -27,7 +27,10 @@
 <LM>w#w-wsj1074-001-p1s0W2</LM>
 </w.rf>
 <form>Maxicare</form>
-<tag lemma="Maxicare" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Maxicare" src="auto">X@-------------</AM>
+<AM lemma="Maxicare-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1074-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj1074-001-p1s0W3</LM>
 </w.rf>
 <form>Health</form>
-<tag lemma="Health" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Health" src="auto">X@-------------</AM>
+<AM lemma="Health-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1074-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,7 +49,10 @@
 <LM>w#w-wsj1074-001-p1s0W4</LM>
 </w.rf>
 <form>Plans</form>
-<tag lemma="Plans" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Plans" src="auto">X@-------------</AM>
+<AM lemma="Plans-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1074-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -54,6 +63,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1074-001-p1s0W6-Ta">
@@ -1155,7 +1165,7 @@
 <form>určenými</form>
 <tag>
 <AM lemma="určený_^(*3it)" src="auto">AAFP7----1A----</AM>
-<AM lemma="určený_^(*3it)" src="auto">AAIP7----1A----</AM>
+<AM lemma="určený_^(*3it)" src="auto" selected="1">AAIP7----1A----</AM>
 <AM lemma="určený_^(*3it)" src="auto" recommended="1">AAMP7----1A----</AM>
 <AM lemma="určený_^(*3it)" src="auto">AANP7----1A----</AM>
 </tag>
@@ -1170,7 +1180,7 @@
 <AM lemma="výbor" src="auto">NNIP1-----A----</AM>
 <AM lemma="výbor" src="auto">NNIP4-----A----</AM>
 <AM lemma="výbor" src="auto">NNIP5-----A----</AM>
-<AM lemma="výbor" src="auto">NNIP7-----A----</AM>
+<AM lemma="výbor" src="auto" selected="1">NNIP7-----A----</AM>
 <AM lemma="výbor" src="auto">NNMP4-----A----</AM>
 <AM lemma="výbor" src="auto" recommended="1">NNMP7-----A----</AM>
 </tag>
@@ -1271,6 +1281,7 @@
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto" recommended="1">AAIS3----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AAMS3----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS3----1A----</AM>
+<AM lemma="konkurzní_^(týkající_se_úpadku,_soutěže)" src="manual" selected="1">AAIS3----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1074-001-p1s2W25-Ta">
@@ -1312,7 +1323,10 @@
 <LM>w#w-wsj1074-001-p1s3W2</LM>
 </w.rf>
 <form>Maxicare</form>
-<tag lemma="Maxicare" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Maxicare" src="auto">X@-------------</AM>
+<AM lemma="Maxicare-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1074-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1751,7 +1765,10 @@
 <LM>w#w-wsj1074-001-p1s4W17</LM>
 </w.rf>
 <form>Maxicare</form>
-<tag lemma="Maxicare" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Maxicare" src="auto">X@-------------</AM>
+<AM lemma="Maxicare-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1074-001-p1s4W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1896,7 +1913,10 @@
 <LM>w#w-wsj1074-001-p1s5W8</LM>
 </w.rf>
 <form>Maxicare</form>
-<tag lemma="Maxicare" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Maxicare" src="auto">X@-------------</AM>
+<AM lemma="Maxicare-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1074-001-p1s5W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2456,7 +2476,10 @@
 <LM>w#w-wsj1074-001-p1s7W6</LM>
 </w.rf>
 <form>Maxicare</form>
-<tag lemma="Maxicare" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Maxicare" src="auto">X@-------------</AM>
+<AM lemma="Maxicare-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1074-001-p1s7W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2751,7 +2774,10 @@
 <LM>w#w-wsj1074-001-p1s8W4</LM>
 </w.rf>
 <form>Maxicare</form>
-<tag lemma="Maxicare" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Maxicare" src="auto">X@-------------</AM>
+<AM lemma="Maxicare-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1074-001-p1s8W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3729,7 +3755,10 @@
 <LM>w#w-wsj1074-001-p1s11W2</LM>
 </w.rf>
 <form>Maxicare</form>
-<tag lemma="Maxicare" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Maxicare" src="auto">X@-------------</AM>
+<AM lemma="Maxicare-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1074-001-p1s11W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3793,7 +3822,7 @@
 </w.rf>
 <form>zpeněží</form>
 <tag>
-<AM lemma="zpeněžit" src="auto">VB-P---3P-AAP--</AM>
+<AM lemma="zpeněžit" src="auto" selected="1">VB-P---3P-AAP--</AM>
 <AM lemma="zpeněžit" src="auto" recommended="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
@@ -3946,7 +3975,10 @@
 <LM>w#w-wsj1074-001-p1s12W2</LM>
 </w.rf>
 <form>Maxicare</form>
-<tag lemma="Maxicare" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Maxicare" src="auto">X@-------------</AM>
+<AM lemma="Maxicare-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1074-001-p1s12W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4102,7 +4134,7 @@
 </w.rf>
 <form>o</form>
 <tag>
-<AM lemma="o-1" src="auto">RR--4----------</AM>
+<AM lemma="o-1" src="auto" selected="1">RR--4----------</AM>
 <AM lemma="o-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="o-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="o-77_,t" src="auto">F%-------------</AM>
@@ -4128,7 +4160,7 @@
 <AM lemma="zdraví" src="auto">NNNS1-----A----</AM>
 <AM lemma="zdraví" src="auto">NNNS2-----A----</AM>
 <AM lemma="zdraví" src="auto">NNNS3-----A----</AM>
-<AM lemma="zdraví" src="auto">NNNS4-----A----</AM>
+<AM lemma="zdraví" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="zdraví" src="auto">NNNS5-----A----</AM>
 <AM lemma="zdraví" src="auto" recommended="1">NNNS6-----A----</AM>
 </tag>
@@ -4455,7 +4487,7 @@
 </w.rf>
 <form>činí</form>
 <tag>
-<AM lemma="činit" src="auto">VB-P---3P-AAI--</AM>
+<AM lemma="činit" src="auto" selected="1">VB-P---3P-AAI--</AM>
 <AM lemma="činit" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -4588,6 +4620,7 @@
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANP3----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS6----1A----</AM>
 <AM lemma="konkursní_^(týkající_se_úpadku,_soutěže)" src="auto">AANS7----1A----</AM>
+<AM lemma="konkurzní_^(týkající_se_úpadku,_soutěže)" src="manual" selected="1">AAIS7----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj1074-001-p1s14W5-Ta">
@@ -4711,7 +4744,10 @@
 <LM>w#w-wsj1074-001-p1s15W6</LM>
 </w.rf>
 <form>Maxicare</form>
-<tag lemma="Maxicare" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Maxicare" src="auto">X@-------------</AM>
+<AM lemma="Maxicare-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1074-001-p1s15W7-Ta">
 <src.rf>tagger-a</src.rf>

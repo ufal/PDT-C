@@ -334,7 +334,10 @@
 <LM>w#w-wsj0963-001-p1s1W8</LM>
 </w.rf>
 <form>Comerica</form>
-<tag lemma="Comerica" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Comerica" src="auto">X@-------------</AM>
+<AM lemma="Comerica-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0963-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -345,6 +348,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0963-001-p1s1W10-Ta">

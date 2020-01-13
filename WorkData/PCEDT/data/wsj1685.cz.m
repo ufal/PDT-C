@@ -48,6 +48,7 @@
 <AM lemma="Blake_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Blake_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Blake_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Blake_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1685-001-p1s0W5-Ta">
@@ -181,7 +182,10 @@
 <LM>w#w-wsj1685-001-p1s0W14</LM>
 </w.rf>
 <form>Heritage</form>
-<tag lemma="Heritage" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Heritage" src="auto">X@-------------</AM>
+<AM lemma="Heritage_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1685-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -318,7 +322,7 @@
 </w.rf>
 <form>Samozřejmě</form>
 <tag>
-<AM lemma="samozřejmě-2" src="auto">TT-------------</AM>
+<AM lemma="samozřejmě-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="samozřejmě_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
 </tag>
 </m>
@@ -782,7 +786,7 @@
 <AM lemma="dobrý" src="auto">AAFP1----2A----</AM>
 <AM lemma="dobrý" src="auto">AAFP4----2A----</AM>
 <AM lemma="dobrý" src="auto">AAFP5----2A----</AM>
-<AM lemma="dobrý" src="auto">AAFS1----2A----</AM>
+<AM lemma="dobrý" src="auto" selected="1">AAFS1----2A----</AM>
 <AM lemma="dobrý" src="auto">AAFS2----2A----</AM>
 <AM lemma="dobrý" src="auto">AAFS3----2A----</AM>
 <AM lemma="dobrý" src="auto">AAFS4----2A----</AM>
@@ -1469,6 +1473,11 @@
 <AM lemma="být" src="auto">VB-S---2P-AAI-7</AM>
 <AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X3----------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>je tu navíc slovo (dvakrát "si")</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1685-001-p1s5W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1904,7 +1913,10 @@
 <LM>w#w-wsj1685-001-p1s6W32</LM>
 </w.rf>
 <form>atchinsonském</form>
-<tag lemma="atchinsonském" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="atchinsonském" src="auto">X@-------------</AM>
+<AM lemma="atchinsonský" src="manual" selected="1">AAIS6----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj1685-001-p1s6W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2288,7 +2300,7 @@
 </w.rf>
 <form>mnohé</form>
 <tag>
-<AM lemma="mnohý" src="auto">AAFP1----1A----</AM>
+<AM lemma="mnohý" src="auto" selected="1">AAFP1----1A----</AM>
 <AM lemma="mnohý" src="auto">AAFP4----1A----</AM>
 <AM lemma="mnohý" src="auto">AAFP5----1A----</AM>
 <AM lemma="mnohý" src="auto">AAFS2----1A----</AM>
@@ -2492,7 +2504,7 @@
 </w.rf>
 <form>nebezpečné</form>
 <tag>
-<AM lemma="bezpečný" src="auto">AAFP1----1N----</AM>
+<AM lemma="bezpečný" src="auto" selected="1">AAFP1----1N----</AM>
 <AM lemma="bezpečný" src="auto">AAFP4----1N----</AM>
 <AM lemma="bezpečný" src="auto">AAFP5----1N----</AM>
 <AM lemma="bezpečný" src="auto">AAFS2----1N----</AM>
@@ -2606,7 +2618,7 @@
 </w.rf>
 <form>užitek</form>
 <tag>
-<AM lemma="užitek" src="auto">NNIS1-----A----</AM>
+<AM lemma="užitek" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="užitek" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -2645,7 +2657,7 @@
 <AM lemma="jakýkoli" src="auto">PZIP1----------</AM>
 <AM lemma="jakýkoli" src="auto">PZIP5----------</AM>
 <AM lemma="jakýkoli" src="auto" recommended="1">PZNS1----------</AM>
-<AM lemma="jakýkoli" src="auto">PZNS4----------</AM>
+<AM lemma="jakýkoli" src="auto" selected="1">PZNS4----------</AM>
 <AM lemma="jakýkoli" src="auto">PZNS5----------</AM>
 <AM lemma="jakýkoli" src="auto">PZYP4----------</AM>
 </tag>
@@ -2658,7 +2670,7 @@
 <form>riziko</form>
 <tag>
 <AM lemma="riziko" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="riziko" src="auto">NNNS4-----A----</AM>
+<AM lemma="riziko" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="riziko" src="auto">NNNS5-----A----</AM>
 </tag>
 </m>

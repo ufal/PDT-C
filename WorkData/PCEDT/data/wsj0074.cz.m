@@ -19,6 +19,7 @@
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS4-----A----</AM>
+<AM lemma="Společnost-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0074-001-p1s0W2-Ta">
@@ -27,7 +28,10 @@
 <LM>w#w-wsj0074-001-p1s0W2</LM>
 </w.rf>
 <form>Copperweld</form>
-<tag lemma="Copperweld" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Copperweld" src="auto">X@-------------</AM>
+<AM lemma="Copperweld-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0074-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +39,10 @@
 <LM>w#w-wsj0074-001-p1s0W3</LM>
 </w.rf>
 <form>Corp</form>
-<tag lemma="corp-77_:B" src="auto" recommended="1">F%-------------</tag>
+<tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Corp-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0074-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -535,7 +542,10 @@
 <LM>w#w-wsj0074-001-p1s1W6</LM>
 </w.rf>
 <form>Copperweld</form>
-<tag lemma="Copperweld" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Copperweld" src="auto">X@-------------</AM>
+<AM lemma="Copperweld-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0074-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -547,6 +557,7 @@
 <AM lemma="Ohio_;G" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="Ohio_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Ohio_;G" src="auto">NNNS5-----A----</AM>
+<AM lemma="Ohio-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0074-001-p1s1W8-Ta">
@@ -555,7 +566,10 @@
 <LM>w#w-wsj0074-001-p1s1W8</LM>
 </w.rf>
 <form>Steel</form>
-<tag lemma="Steel" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Steel" src="auto">X@-------------</AM>
+<AM lemma="Steel-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0074-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -563,7 +577,10 @@
 <LM>w#w-wsj0074-001-p1s1W9</LM>
 </w.rf>
 <form>Tube</form>
-<tag lemma="Tube" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Tube" src="auto">X@-------------</AM>
+<AM lemma="Tube-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0074-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -593,7 +610,7 @@
 <AM lemma="odbory_^(odborářská_organizace)" src="auto" recommended="1">NNIP1-----A----</AM>
 <AM lemma="odbory_^(odborářská_organizace)" src="auto">NNIP4-----A----</AM>
 <AM lemma="odbory_^(odborářská_organizace)" src="auto">NNIP5-----A----</AM>
-<AM lemma="odbory_^(odborářská_organizace)" src="auto">NNIP7-----A----</AM>
+<AM lemma="odbory_^(odborářská_organizace)" src="auto" selected="1">NNIP7-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0074-001-p1s1W12-Ta">
@@ -869,7 +886,10 @@
 <LM>w#w-wsj0074-001-p1s3W2</LM>
 </w.rf>
 <form>Copperweld</form>
-<tag lemma="Copperweld" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Copperweld" src="auto">X@-------------</AM>
+<AM lemma="Copperweld_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0074-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1071,7 +1091,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>

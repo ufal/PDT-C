@@ -99,7 +99,10 @@
 <LM>w#w-wsj0023-001-p1s0W8</LM>
 </w.rf>
 <form>Faulding</form>
-<tag lemma="Faulding" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Faulding" src="auto">X@-------------</AM>
+<AM lemma="Faulding-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0023-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -123,6 +126,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0023-001-p1s0W11-Ta">
@@ -208,7 +212,10 @@
 <LM>w#w-wsj0023-001-p1s0W18</LM>
 </w.rf>
 <form>Moleculon</form>
-<tag lemma="Moleculon" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Moleculon" src="auto">X@-------------</AM>
+<AM lemma="Moleculon-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0023-001-p1s0W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -219,6 +226,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0023-001-p1s0W20-Ta">
@@ -286,7 +294,7 @@
 <form>společnost</form>
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS4-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0023-001-p1s0W27-Ta">
@@ -295,7 +303,10 @@
 <LM>w#w-wsj0023-001-p1s0W27</LM>
 </w.rf>
 <form>Kalipharma</form>
-<tag lemma="Kalipharma" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Kalipharma" src="auto">X@-------------</AM>
+<AM lemma="Kalipharma-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0023-001-p1s0W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -306,6 +317,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0023-001-p1s0W29-Ta">
@@ -335,7 +347,10 @@
 <LM>w#w-wsj0023-001-p1s1W2</LM>
 </w.rf>
 <form>Kalipharma</form>
-<tag lemma="Kalipharma" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Kalipharma" src="auto">X@-------------</AM>
+<AM lemma="Kalipharma_;K" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0023-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -443,7 +458,10 @@
 <LM>w#w-wsj0023-001-p1s1W10</LM>
 </w.rf>
 <form>Jersey</form>
-<tag lemma="Jersey_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Jersey_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Jersey-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0023-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -542,7 +560,10 @@
 <LM>w#w-wsj0023-001-p1s1W18</LM>
 </w.rf>
 <form>Purepac</form>
-<tag lemma="Purepac" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Purepac" src="auto">X@-------------</AM>
+<AM lemma="Purepac_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0023-001-p1s1W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -571,7 +592,10 @@
 <LM>w#w-wsj0023-001-p1s2W2</LM>
 </w.rf>
 <form>Faulding</form>
-<tag lemma="Faulding" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Faulding" src="auto">X@-------------</AM>
+<AM lemma="Faulding_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0023-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -687,7 +711,10 @@
 <LM>w#w-wsj0023-001-p1s2W11</LM>
 </w.rf>
 <form>Moleculon</form>
-<tag lemma="Moleculon" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Moleculon" src="auto">X@-------------</AM>
+<AM lemma="Moleculon_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0023-001-p1s2W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -817,7 +844,7 @@
 </w.rf>
 <form>dalších</form>
 <tag>
-<AM lemma="další" src="auto">AAFP2----1A----</AM>
+<AM lemma="další" src="auto" selected="1">AAFP2----1A----</AM>
 <AM lemma="další" src="auto">AAFP6----1A----</AM>
 <AM lemma="další" src="auto">AAIP2----1A----</AM>
 <AM lemma="další" src="auto">AAIP6----1A----</AM>
@@ -1009,7 +1036,10 @@
 <LM>w#w-wsj0023-001-p1s3W13</LM>
 </w.rf>
 <form>Faulding</form>
-<tag lemma="Faulding" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Faulding" src="auto">X@-------------</AM>
+<AM lemma="Faulding_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0023-001-p1s3W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1168,7 +1198,10 @@
 <LM>w#w-wsj0023-001-p1s3W26</LM>
 </w.rf>
 <form>Moleculon</form>
-<tag lemma="Moleculon" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Moleculon" src="auto">X@-------------</AM>
+<AM lemma="Moleculon_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0023-001-p1s3W27-Ta">
 <src.rf>tagger-a</src.rf>

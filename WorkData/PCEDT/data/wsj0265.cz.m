@@ -27,7 +27,10 @@
 <LM>w#w-wsj0265-001-p1s0W2</LM>
 </w.rf>
 <form>Healthcare</form>
-<tag lemma="Healthcare" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Healthcare" src="auto">X@-------------</AM>
+<AM lemma="Healthcare-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0265-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -50,6 +53,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0265-001-p1s0W5-Ta">
@@ -132,7 +136,10 @@
 <LM>w#w-wsj0265-001-p1s0W13</LM>
 </w.rf>
 <form>HealthVest</form>
-<tag lemma="HealthVest" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="HealthVest" src="auto">X@-------------</AM>
+<AM lemma="HealthVest_;K" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0265-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -163,7 +170,15 @@
 <LM>w#w-wsj0265-001-p1s0W16</LM>
 </w.rf>
 <form>120denním</form>
-<tag lemma="120denním" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="120denním" src="auto">X@-------------</AM>
+<AM lemma="120denní" src="manual" selected="1">AANS6----1A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0265-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -216,7 +231,7 @@
 <AM lemma="požadující_^(*5ovat)" src="auto" recommended="1">AGFS1-----A----</AM>
 <AM lemma="požadující_^(*5ovat)" src="auto">AGFS2-----A----</AM>
 <AM lemma="požadující_^(*5ovat)" src="auto">AGFS3-----A----</AM>
-<AM lemma="požadující_^(*5ovat)" src="auto">AGFS4-----A----</AM>
+<AM lemma="požadující_^(*5ovat)" src="auto" selected="1">AGFS4-----A----</AM>
 <AM lemma="požadující_^(*5ovat)" src="auto">AGFS5-----A----</AM>
 <AM lemma="požadující_^(*5ovat)" src="auto">AGFS6-----A----</AM>
 <AM lemma="požadující_^(*5ovat)" src="auto">AGFS7-----A----</AM>
@@ -279,7 +294,10 @@
 <LM>w#w-wsj0265-001-p1s0W23</LM>
 </w.rf>
 <form>Healthcare</form>
-<tag lemma="Healthcare" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Healthcare" src="auto">X@-------------</AM>
+<AM lemma="Healthcare-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0265-001-p1s0W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -319,7 +337,10 @@
 <LM>w#w-wsj0265-001-p1s0W27</LM>
 </w.rf>
 <form>HealthVest</form>
-<tag lemma="HealthVest" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="HealthVest" src="auto">X@-------------</AM>
+<AM lemma="HealthVest_;K" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0265-001-p1s0W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -511,7 +532,10 @@
 <LM>w#w-wsj0265-001-p1s1W6</LM>
 </w.rf>
 <form>Healthcare</form>
-<tag lemma="Healthcare" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Healthcare" src="auto">X@-------------</AM>
+<AM lemma="Healthcare-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0265-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -646,7 +670,10 @@
 <LM>w#w-wsj0265-001-p1s1W17</LM>
 </w.rf>
 <form>HealthVest</form>
-<tag lemma="HealthVest" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="HealthVest" src="auto">X@-------------</AM>
+<AM lemma="HealthVest_;K" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0265-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -766,7 +793,7 @@
 <AM lemma="hypoteční" src="auto" recommended="1">AAFP4----1A----</AM>
 <AM lemma="hypoteční" src="auto">AAFP5----1A----</AM>
 <AM lemma="hypoteční" src="auto">AAFS1----1A----</AM>
-<AM lemma="hypoteční" src="auto">AAFS2----1A----</AM>
+<AM lemma="hypoteční" src="auto" selected="1">AAFS2----1A----</AM>
 <AM lemma="hypoteční" src="auto">AAFS3----1A----</AM>
 <AM lemma="hypoteční" src="auto">AAFS4----1A----</AM>
 <AM lemma="hypoteční" src="auto">AAFS5----1A----</AM>
@@ -801,7 +828,7 @@
 <AM lemma="splátka" src="auto">NNFP1-----A----</AM>
 <AM lemma="splátka" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="splátka" src="auto">NNFP5-----A----</AM>
-<AM lemma="splátka" src="auto">NNFS2-----A----</AM>
+<AM lemma="splátka" src="auto" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0265-001-p1s1W28-Ta">
@@ -937,7 +964,10 @@
 <LM>w#w-wsj0265-001-p1s1W39</LM>
 </w.rf>
 <form>HealthVest</form>
-<tag lemma="HealthVest" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="HealthVest" src="auto">X@-------------</AM>
+<AM lemma="HealthVest_;K" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0265-001-p1s1W40-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1068,7 +1098,10 @@
 <LM>w#w-wsj0265-001-p1s2W2</LM>
 </w.rf>
 <form>HealthVest</form>
-<tag lemma="HealthVest" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="HealthVest" src="auto">X@-------------</AM>
+<AM lemma="HealthVest_;K" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0265-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1191,7 +1224,15 @@
 <LM>w#w-wsj0265-001-p1s2W13</LM>
 </w.rf>
 <form>120denního</form>
-<tag lemma="120denního" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="120denního" src="auto">X@-------------</AM>
+<AM lemma="120denní" src="manual" selected="1">AANS2----1A----</AM>
+</tag>
+<comment>
+<LM type="Other">
+<text>špatná tokenizace</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0265-001-p1s2W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1331,7 +1372,10 @@
 <LM>w#w-wsj0265-001-p1s2W25</LM>
 </w.rf>
 <form>Healthcare</form>
-<tag lemma="Healthcare" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Healthcare" src="auto">X@-------------</AM>
+<AM lemma="Healthcare-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0265-001-p1s2W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1409,7 +1453,10 @@
 <LM>w#w-wsj0265-001-p1s3W6</LM>
 </w.rf>
 <form>Healthcare</form>
-<tag lemma="Healthcare" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Healthcare" src="auto">X@-------------</AM>
+<AM lemma="Healthcare-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0265-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1419,7 +1466,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -1605,7 +1652,7 @@
 <AM lemma="splatný" src="auto">AAFS3----1A----</AM>
 <AM lemma="splatný" src="auto">AAFS6----1A----</AM>
 <AM lemma="splatný" src="auto">AAIP1----1A----</AM>
-<AM lemma="splatný" src="auto">AAIP4----1A----</AM>
+<AM lemma="splatný" src="auto" selected="1">AAIP4----1A----</AM>
 <AM lemma="splatný" src="auto">AAIP5----1A----</AM>
 <AM lemma="splatný" src="auto">AAMP4----1A----</AM>
 <AM lemma="splatný" src="auto">AANP1----1A---6</AM>
@@ -1627,7 +1674,7 @@
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -1638,7 +1685,10 @@
 <LM>w#w-wsj0265-001-p1s3W23</LM>
 </w.rf>
 <form>HealthVest</form>
-<tag lemma="HealthVest" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="HealthVest" src="auto">X@-------------</AM>
+<AM lemma="HealthVest_;K" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0265-001-p1s3W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1656,7 +1706,7 @@
 <form>trustu</form>
 <tag>
 <AM lemma="trust" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="trust" src="auto">NNIS3-----A----</AM>
+<AM lemma="trust" src="auto" selected="1">NNIS3-----A----</AM>
 <AM lemma="trust" src="auto">NNIS6-----A----</AM>
 </tag>
 </m>
@@ -1672,6 +1722,11 @@
 <AM lemma="investující_^(*5ovat)" src="auto">AGMS4-----A----</AM>
 <AM lemma="investující_^(*5ovat)" src="auto">AGNS2-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>špatný pád, mělo by být "investujícímu"</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0265-001-p1s3W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1726,7 +1781,7 @@
 </w.rf>
 <form>portfolio</form>
 <tag>
-<AM lemma="portfolio" src="auto">NNNS1-----A----</AM>
+<AM lemma="portfolio" src="auto" selected="1">NNNS1-----A----</AM>
 <AM lemma="portfolio" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="portfolio" src="auto">NNNS5-----A----</AM>
 </tag>
@@ -1826,7 +1881,10 @@
 <LM>w#w-wsj0265-001-p1s3W40</LM>
 </w.rf>
 <form>Healthcare</form>
-<tag lemma="Healthcare" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Healthcare" src="auto">X@-------------</AM>
+<AM lemma="Healthcare-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0265-001-p1s3W41-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1855,7 +1913,10 @@
 <LM>w#w-wsj0265-001-p1s4W2</LM>
 </w.rf>
 <form>Healthcare</form>
-<tag lemma="Healthcare" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Healthcare" src="auto">X@-------------</AM>
+<AM lemma="Healthcare-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0265-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1876,7 +1937,7 @@
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -1887,7 +1948,10 @@
 <LM>w#w-wsj0265-001-p1s4W5</LM>
 </w.rf>
 <form>HealthVest</form>
-<tag lemma="HealthVest" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="HealthVest" src="auto">X@-------------</AM>
+<AM lemma="HealthVest_;K" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0265-001-p1s4W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2064,7 +2128,10 @@
 <LM>w#w-wsj0265-001-p1s5W2</LM>
 </w.rf>
 <form>Healthcare</form>
-<tag lemma="Healthcare" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Healthcare" src="auto">X@-------------</AM>
+<AM lemma="Healthcare-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0265-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2226,7 +2293,10 @@
 <LM>w#w-wsj0265-001-p1s5W16</LM>
 </w.rf>
 <form>HealthVest</form>
-<tag lemma="HealthVest" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="HealthVest" src="auto">X@-------------</AM>
+<AM lemma="HealthVest_;K" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0265-001-p1s5W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2381,7 +2451,7 @@
 </w.rf>
 <form>miliony</form>
 <tag>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIP1-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" selected="1">NNIP1-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIP5-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIP7-----A----</AM>
@@ -2482,7 +2552,10 @@
 <LM>w#w-wsj0265-001-p1s5W38</LM>
 </w.rf>
 <form>Healthcare</form>
-<tag lemma="Healthcare" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Healthcare" src="auto">X@-------------</AM>
+<AM lemma="Healthcare-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0265-001-p1s5W39-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2608,7 +2681,10 @@
 <LM>w#w-wsj0265-001-p1s6W7</LM>
 </w.rf>
 <form>Healthcare</form>
-<tag lemma="Healthcare" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Healthcare" src="auto">X@-------------</AM>
+<AM lemma="Healthcare-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0265-001-p1s6W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2643,7 +2719,10 @@
 <LM>w#w-wsj0265-001-p1s6W10</LM>
 </w.rf>
 <form>HealthVest</form>
-<tag lemma="HealthVest" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="HealthVest" src="auto">X@-------------</AM>
+<AM lemma="HealthVest_;K" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0265-001-p1s6W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3070,7 +3149,10 @@
 <LM>w#w-wsj0265-001-p1s7W9</LM>
 </w.rf>
 <form>HealthVest</form>
-<tag lemma="HealthVest" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="HealthVest" src="auto">X@-------------</AM>
+<AM lemma="HealthVest_;K" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0265-001-p1s7W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3162,7 +3244,10 @@
 <LM>w#w-wsj0265-001-p1s7W19</LM>
 </w.rf>
 <form>Healthcare</form>
-<tag lemma="Healthcare" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Healthcare" src="auto">X@-------------</AM>
+<AM lemma="Healthcare-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0265-001-p1s7W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3211,7 +3296,7 @@
 <AM lemma="nájemné_^(činže)" src="auto">NNNP1-----A---6</AM>
 <AM lemma="nájemné_^(činže)" src="auto">NNNP4-----A---6</AM>
 <AM lemma="nájemné_^(činže)" src="auto">NNNS1-----A----</AM>
-<AM lemma="nájemné_^(činže)" src="auto">NNNS4-----A----</AM>
+<AM lemma="nájemné_^(činže)" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="nájemné_^(činže)" src="auto">NNNS5-----A----</AM>
 <AM lemma="nájemný" src="auto" recommended="1">AAFP1----1A----</AM>
 <AM lemma="nájemný" src="auto">AAFP4----1A----</AM>
@@ -3253,7 +3338,7 @@
 <form>hypoteční</form>
 <tag>
 <AM lemma="hypoteční" src="auto" recommended="1">AAFP1----1A----</AM>
-<AM lemma="hypoteční" src="auto">AAFP4----1A----</AM>
+<AM lemma="hypoteční" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="hypoteční" src="auto">AAFP5----1A----</AM>
 <AM lemma="hypoteční" src="auto">AAFS1----1A----</AM>
 <AM lemma="hypoteční" src="auto">AAFS2----1A----</AM>
@@ -3289,7 +3374,7 @@
 <form>splátky</form>
 <tag>
 <AM lemma="splátka" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="splátka" src="auto">NNFP4-----A----</AM>
+<AM lemma="splátka" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="splátka" src="auto">NNFP5-----A----</AM>
 <AM lemma="splátka" src="auto">NNFS2-----A----</AM>
 </tag>
@@ -3423,7 +3508,10 @@
 <LM>w#w-wsj0265-001-p1s8W6</LM>
 </w.rf>
 <form>HealthVest</form>
-<tag lemma="HealthVest" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="HealthVest" src="auto">X@-------------</AM>
+<AM lemma="HealthVest_;K" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0265-001-p1s8W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3466,7 +3554,7 @@
 <form>dvěma</form>
 <tag>
 <AM lemma="dva`2" src="auto">ClFD7----------</AM>
-<AM lemma="dva`2" src="auto">ClXP3----------</AM>
+<AM lemma="dva`2" src="auto" selected="1">ClXP3----------</AM>
 <AM lemma="dva`2" src="auto" recommended="1">ClXP7----------</AM>
 </tag>
 </m>
@@ -3649,7 +3737,10 @@
 <LM>w#w-wsj0265-001-p1s9W2</LM>
 </w.rf>
 <form>Healthcare</form>
-<tag lemma="Healthcare" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Healthcare" src="auto">X@-------------</AM>
+<AM lemma="Healthcare-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0265-001-p1s9W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3787,6 +3878,7 @@
 <AM lemma="schopnost_^(*3ý)" src="auto">NNFS3-----N----</AM>
 <AM lemma="schopnost_^(*3ý)" src="auto">NNFS5-----N----</AM>
 <AM lemma="schopnost_^(*3ý)" src="auto">NNFS6-----N----</AM>
+<AM lemma="neschopnost_^(odb._termín:_pracovní_n.)" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0265-001-p1s9W11-Ta">
@@ -3928,7 +4020,10 @@
 <LM>w#w-wsj0265-001-p1s9W24</LM>
 </w.rf>
 <form>Greenery</form>
-<tag lemma="Greenery" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Greenery" src="auto">X@-------------</AM>
+<AM lemma="Greenery-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0265-001-p1s9W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3936,7 +4031,10 @@
 <LM>w#w-wsj0265-001-p1s9W25</LM>
 </w.rf>
 <form>Rehabilitation</form>
-<tag lemma="Rehabilitation" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Rehabilitation" src="auto">X@-------------</AM>
+<AM lemma="Rehabilitation-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0265-001-p1s9W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3944,7 +4042,10 @@
 <LM>w#w-wsj0265-001-p1s9W26</LM>
 </w.rf>
 <form>Group</form>
-<tag lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="auto" recommended="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Group-1_;K_,t_^(obv._souč._názvu_firem,_&quot;skupina&quot;)" src="auto" recommended="1">NNFXX-----A----</AM>
+<AM lemma="Group-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0265-001-p1s9W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3955,6 +4056,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0265-001-p1s9W28-Ta">
@@ -4019,7 +4121,10 @@
 <LM>w#w-wsj0265-001-p1s9W33</LM>
 </w.rf>
 <form>Greenery</form>
-<tag lemma="Greenery" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Greenery" src="auto">X@-------------</AM>
+<AM lemma="Greenery-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0265-001-p1s9W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4133,7 +4238,7 @@
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
 </tag>
@@ -4144,7 +4249,10 @@
 <LM>w#w-wsj0265-001-p1s9W44</LM>
 </w.rf>
 <form>Healthcare</form>
-<tag lemma="Healthcare" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Healthcare" src="auto">X@-------------</AM>
+<AM lemma="Healthcare-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0265-001-p1s9W45-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4228,7 +4336,10 @@
 <LM>w#w-wsj0265-001-p1s10W5</LM>
 </w.rf>
 <form>Healthcare</form>
-<tag lemma="Healthcare" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Healthcare" src="auto">X@-------------</AM>
+<AM lemma="Healthcare-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0265-001-p1s10W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4300,7 +4411,10 @@
 <LM>w#w-wsj0265-001-p1s10W12</LM>
 </w.rf>
 <form>HealthVest</form>
-<tag lemma="HealthVest" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="HealthVest" src="auto">X@-------------</AM>
+<AM lemma="HealthVest_;K" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0265-001-p1s10W13-Ta">
 <src.rf>tagger-a</src.rf>

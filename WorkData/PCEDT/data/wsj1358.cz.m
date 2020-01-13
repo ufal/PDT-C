@@ -115,7 +115,10 @@
 <LM>w#w-wsj1358-001-p1s0W7</LM>
 </w.rf>
 <form>Allied</form>
-<tag lemma="Allied" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Allied" src="auto">X@-------------</AM>
+<AM lemma="Allied-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1358-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -134,6 +137,7 @@
 <tag>
 <AM lemma="Signal_;R" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Signal_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Signal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1358-001-p1s0W10-Ta">
@@ -320,7 +324,10 @@
 <LM>w#w-wsj1358-001-p1s1W2</LM>
 </w.rf>
 <form>Allied</form>
-<tag lemma="Allied" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Allied" src="auto">X@-------------</AM>
+<AM lemma="Allied-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1358-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -339,6 +346,7 @@
 <tag>
 <AM lemma="Signal_;R" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Signal_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Signal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1358-001-p1s1W5-Ta">
@@ -789,6 +797,7 @@
 <AM lemma="Morris-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Morris-2_;R_^(vozidlo;;cigarety)" src="auto">NNIS1-----A----</AM>
 <AM lemma="Morris-2_;R_^(vozidlo;;cigarety)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Morris-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1358-001-p1s3W2-Ta">
@@ -797,7 +806,10 @@
 <LM>w#w-wsj1358-001-p1s3W2</LM>
 </w.rf>
 <form>Township</form>
-<tag lemma="Township" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Township" src="auto">X@-------------</AM>
+<AM lemma="Township-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1358-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1525,7 +1537,10 @@
 <LM>w#w-wsj1358-001-p1s5W5</LM>
 </w.rf>
 <form>Hennessy</form>
-<tag lemma="Hennessy" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Hennessy" src="auto">X@-------------</AM>
+<AM lemma="Hennessy_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1358-001-p1s5W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2228,7 +2243,10 @@
 <LM>w#w-wsj1358-001-p1s8W5</LM>
 </w.rf>
 <form>Allied</form>
-<tag lemma="Allied" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Allied" src="auto">X@-------------</AM>
+<AM lemma="Allied-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1358-001-p1s8W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2247,6 +2265,7 @@
 <tag>
 <AM lemma="Signal_;R" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Signal_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Signal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1358-001-p1s8W8-Ta">
@@ -2738,7 +2757,10 @@
 <LM>w#w-wsj1358-001-p1s9W13</LM>
 </w.rf>
 <form>Allied</form>
-<tag lemma="Allied" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Allied" src="auto">X@-------------</AM>
+<AM lemma="Allied-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1358-001-p1s9W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2757,6 +2779,7 @@
 <tag>
 <AM lemma="Signal_;R" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Signal_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Signal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1358-001-p1s9W16-Ta">

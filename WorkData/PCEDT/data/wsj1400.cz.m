@@ -27,7 +27,10 @@
 <LM>w#w-wsj1400-001-p1s0W2</LM>
 </w.rf>
 <form>CRI</form>
-<tag lemma="CRI" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="CRI" src="auto">X@-------------</AM>
+<AM lemma="CRI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1400-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -38,6 +41,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1400-001-p1s0W4-Ta">
@@ -318,7 +322,10 @@
 <LM>w#w-wsj1400-001-p1s0W26</LM>
 </w.rf>
 <form>Capital</form>
-<tag lemma="Capital" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Capital" src="auto">X@-------------</AM>
+<AM lemma="Capital-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1400-001-p1s0W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -326,7 +333,10 @@
 <LM>w#w-wsj1400-001-p1s0W27</LM>
 </w.rf>
 <form>Housing</form>
-<tag lemma="Housing" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Housing" src="auto">X@-------------</AM>
+<AM lemma="Housing-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1400-001-p1s0W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -337,6 +347,7 @@
 <tag>
 <AM lemma="and-77_,t" src="auto">F%-------------</AM>
 <AM lemma="and-99_:B_;S" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="and-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1400-001-p1s0W29-Ta">
@@ -345,7 +356,10 @@
 <LM>w#w-wsj1400-001-p1s0W29</LM>
 </w.rf>
 <form>Mortgage</form>
-<tag lemma="Mortgage" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Mortgage" src="auto">X@-------------</AM>
+<AM lemma="Mortgage-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1400-001-p1s0W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -353,7 +367,10 @@
 <LM>w#w-wsj1400-001-p1s0W30</LM>
 </w.rf>
 <form>Partners</form>
-<tag lemma="Partners" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Partners" src="auto">X@-------------</AM>
+<AM lemma="Partners-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1400-001-p1s0W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -364,6 +381,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1400-001-p1s0W32-Ta">
@@ -695,7 +713,10 @@
 <LM>w#w-wsj1400-001-p1s1W9</LM>
 </w.rf>
 <form>Champs</form>
-<tag lemma="Champs_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Champs_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Champs-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1400-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -707,7 +728,7 @@
 <AM lemma="kotovaný_,s_^(^DD**kótovat)_(*2t)" src="auto" recommended="1">AAFP1----1A----</AM>
 <AM lemma="kotovaný_,s_^(^DD**kótovat)_(*2t)" src="auto">AAFP4----1A----</AM>
 <AM lemma="kotovaný_,s_^(^DD**kótovat)_(*2t)" src="auto">AAFP5----1A----</AM>
-<AM lemma="kotovaný_,s_^(^DD**kótovat)_(*2t)" src="auto">AAFS2----1A----</AM>
+<AM lemma="kotovaný_,s_^(^DD**kótovat)_(*2t)" src="auto" selected="1">AAFS2----1A----</AM>
 <AM lemma="kotovaný_,s_^(^DD**kótovat)_(*2t)" src="auto">AAFS3----1A----</AM>
 <AM lemma="kotovaný_,s_^(^DD**kótovat)_(*2t)" src="auto">AAFS6----1A----</AM>
 <AM lemma="kotovaný_,s_^(^DD**kótovat)_(*2t)" src="auto">AAIP1----1A----</AM>
@@ -946,7 +967,10 @@
 <LM>w#w-wsj1400-001-p1s1W29</LM>
 </w.rf>
 <form>Champs</form>
-<tag lemma="Champs_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Champs_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Champs-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1400-001-p1s1W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -975,7 +999,10 @@
 <LM>w#w-wsj1400-001-p1s2W2</LM>
 </w.rf>
 <form>CRI</form>
-<tag lemma="CRI" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="CRI" src="auto">X@-------------</AM>
+<AM lemma="CRI-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1400-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1025,7 +1052,10 @@
 <LM>w#w-wsj1400-001-p1s2W7</LM>
 </w.rf>
 <form>Champs</form>
-<tag lemma="Champs_;G" src="auto" recommended="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="Champs_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Champs-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1400-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>

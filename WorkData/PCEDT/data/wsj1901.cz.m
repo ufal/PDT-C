@@ -69,7 +69,10 @@
 <LM>w#w-wsj1901-001-p1s0W4</LM>
 </w.rf>
 <form>Tae</form>
-<tag lemma="tae_^(tae-kwon-do)" src="auto" recommended="1">A2--------A----</tag>
+<tag>
+<AM lemma="tae_^(tae-kwon-do)" src="auto" recommended="1">A2--------A----</AM>
+<AM lemma="Tae_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1901-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -85,7 +88,10 @@
 <LM>w#w-wsj1901-001-p1s0W6</LM>
 </w.rf>
 <form>woo</form>
-<tag lemma="woo" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="woo" src="auto">X@-------------</AM>
+<AM lemma="woo_;Y" src="manual" selected="1">NNMXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1901-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -602,7 +608,10 @@
 <LM>w#w-wsj1901-001-p1s1W18</LM>
 </w.rf>
 <form>USA</form>
-<tag lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="USA_:B_;G_^(United_States_ofmerica)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="USA_:B_;G_^(United_States_of_America)" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1901-001-p1s1W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -943,7 +952,7 @@
 <tag>
 <AM lemma="taka-1_;L" src="auto">NNFP2-----A----</AM>
 <AM lemma="tak-1" src="auto">TT-------------</AM>
-<AM lemma="tak-2" src="auto">J^-------------</AM>
+<AM lemma="tak-2" src="auto" selected="1">J^-------------</AM>
 <AM lemma="tak-3" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
@@ -1835,7 +1844,7 @@
 </w.rf>
 <form>jeden</form>
 <tag>
-<AM lemma="jeden`1" src="auto">ClIS4----------</AM>
+<AM lemma="jeden`1" src="auto" selected="1">ClIS4----------</AM>
 <AM lemma="jeden`1" src="auto" recommended="1">ClYS1----------</AM>
 <AM lemma="jeden`1" src="auto">ClYS5----------</AM>
 <AM lemma="jíst" src="auto">VsYS---XX-API--</AM>

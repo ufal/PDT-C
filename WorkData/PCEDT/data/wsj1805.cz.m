@@ -344,7 +344,7 @@
 </w.rf>
 <form>termín</form>
 <tag>
-<AM lemma="termín" src="auto">NNIS1-----A----</AM>
+<AM lemma="termín" src="auto" selected="1">NNIS1-----A----</AM>
 <AM lemma="termín" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
 </m>

@@ -32,7 +32,10 @@
 <LM>w#w-wsj0722-001-p1s0W2</LM>
 </w.rf>
 <form>Calgene</form>
-<tag lemma="Calgene" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Calgene" src="auto">X@-------------</AM>
+<AM lemma="Calgene-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0722-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,6 +46,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0722-001-p1s0W4-Ta">
@@ -73,7 +77,10 @@
 <LM>w#w-wsj0722-001-p1s0W6</LM>
 </w.rf>
 <form>Gustafson</form>
-<tag lemma="Gustafson_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Gustafson_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Gustafson-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0722-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -84,6 +91,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0722-001-p1s0W8-Ta">
@@ -334,6 +342,7 @@
 <AM lemma="činitel" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="činitel" src="auto">NNIS4-----A----</AM>
 <AM lemma="činitel" src="auto">NNMS1-----A----</AM>
+<AM lemma="činitel-1" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0722-001-p1s0W29-Ta">
@@ -516,7 +525,10 @@
 <LM>w#w-wsj0722-001-p1s1W11</LM>
 </w.rf>
 <form>Calgene</form>
-<tag lemma="Calgene" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Calgene" src="auto">X@-------------</AM>
+<AM lemma="Calgene_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0722-001-p1s1W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -608,7 +620,10 @@
 <LM>w#w-wsj0722-001-p1s1W19</LM>
 </w.rf>
 <form>Bacillus</form>
-<tag lemma="Bacillus_;L_,t" src="auto" recommended="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Bacillus_;L_,t" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="Bacillus-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0722-001-p1s1W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -616,7 +631,10 @@
 <LM>w#w-wsj0722-001-p1s1W20</LM>
 </w.rf>
 <form>subtilis</form>
-<tag lemma="subtilis_;L_,t" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="subtilis_;L_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="subtilis-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0722-001-p1s1W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -742,7 +760,10 @@
 <LM>w#w-wsj0722-001-p1s2W2</LM>
 </w.rf>
 <form>Calgene</form>
-<tag lemma="Calgene" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Calgene" src="auto">X@-------------</AM>
+<AM lemma="Calgene_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0722-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -905,7 +926,7 @@
 <form>zaměří</form>
 <tag>
 <AM lemma="zaměřit" src="auto" recommended="1">VB-P---3P-AAP--</AM>
-<AM lemma="zaměřit" src="auto">VB-S---3P-AAP--</AM>
+<AM lemma="zaměřit" src="auto" selected="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m-wsj0722-001-p1s2W15-Ta">
@@ -980,7 +1001,10 @@
 <LM>w#w-wsj0722-001-p1s2W19</LM>
 </w.rf>
 <form>Bacillus</form>
-<tag lemma="Bacillus_;L_,t" src="auto" recommended="1">NNIXX-----A----</tag>
+<tag>
+<AM lemma="Bacillus_;L_,t" src="auto" recommended="1">NNIXX-----A----</AM>
+<AM lemma="Bacillus-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0722-001-p1s2W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -988,7 +1012,10 @@
 <LM>w#w-wsj0722-001-p1s2W20</LM>
 </w.rf>
 <form>subtilis</form>
-<tag lemma="subtilis_;L_,t" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="subtilis_;L_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="subtilis-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0722-001-p1s2W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1124,7 +1151,10 @@
 <LM>w#w-wsj0722-001-p1s3W5</LM>
 </w.rf>
 <form>Morigana</form>
-<tag lemma="Morigana" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Morigana" src="auto">X@-------------</AM>
+<AM lemma="Morigana-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0722-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1148,6 +1178,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0722-001-p1s3W8-Ta">
@@ -1271,6 +1302,7 @@
 <tag>
 <AM lemma="Uniroyal_;R" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Uniroyal_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Uniroyal-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0722-001-p1s3W19-Ta">
@@ -1279,7 +1311,10 @@
 <LM>w#w-wsj0722-001-p1s3W19</LM>
 </w.rf>
 <form>Chemical</form>
-<tag lemma="Chemical_:B_;K_,t_^(v_názvu_Chemical_Bank_apod.)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Chemical_:B_;K_,t_^(v_názvu_Chemical_Bank_apod.)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Chemical-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0722-001-p1s3W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1295,6 +1330,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0722-001-p1s3W21-Ta">
@@ -1685,7 +1721,7 @@
 <AM lemma="zvýšený_^(*3it)" src="auto">AAIP4----1A---6</AM>
 <AM lemma="zvýšený_^(*3it)" src="auto">AAIP5----1A---6</AM>
 <AM lemma="zvýšený_^(*3it)" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="zvýšený_^(*3it)" src="auto">AAIS4----1A----</AM>
+<AM lemma="zvýšený_^(*3it)" src="auto" selected="1">AAIS4----1A----</AM>
 <AM lemma="zvýšený_^(*3it)" src="auto">AAIS5----1A----</AM>
 <AM lemma="zvýšený_^(*3it)" src="auto">AAMP1----1A---6</AM>
 <AM lemma="zvýšený_^(*3it)" src="auto">AAMP4----1A---6</AM>
@@ -1708,7 +1744,7 @@
 <form>zájem</form>
 <tag>
 <AM lemma="zájem" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="zájem" src="auto">NNIS4-----A----</AM>
+<AM lemma="zájem" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0722-001-p1s5W21-Ta">

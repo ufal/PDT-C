@@ -27,7 +27,10 @@
 <LM>w#w-wsj2271-001-p1s1W2</LM>
 </w.rf>
 <form>Enviromental</form>
-<tag lemma="Enviromental" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Enviromental" src="auto">X@-------------</AM>
+<AM lemma="Enviromental-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2271-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -35,7 +38,10 @@
 <LM>w#w-wsj2271-001-p1s1W3</LM>
 </w.rf>
 <form>Systems</form>
-<tag lemma="Systems" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Systems" src="auto">X@-------------</AM>
+<AM lemma="Systems-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2271-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -43,7 +49,18 @@
 <LM>w#w-wsj2271-001-p1s1W4</LM>
 </w.rf>
 <form>Co.uvedla</form>
-<tag lemma="Co.uvedla" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Co.uvedla" src="auto">X@-------------</AM>
+<AM lemma="Co.uvedla-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>Co.</text>
+</LM>
+<LM type="Other">
+<text>špatné dělení slov, nutno rozdělit</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2271-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -314,7 +331,7 @@
 <AM lemma="co-1" src="auto" recommended="1">PQ--4----------</AM>
 <AM lemma="co-2_^(cože;_ale_co)" src="auto">TT-------------</AM>
 <AM lemma="co-3_^(když:_poté/od_té_doby,_co)" src="auto">J,-------------</AM>
-<AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
+<AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto" selected="1">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
 </tag>
@@ -364,6 +381,11 @@
 <AM lemma="dan-1_^(mistr_a_učitel_japon._sportů)" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="dan-1_^(mistr_a_učitel_japon._sportů)" src="auto">NNMP5-----A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>daňové</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2271-001-p1s1W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -631,6 +653,7 @@
 <tag>
 <AM lemma="Little_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="Little_;S" src="auto" recommended="1">NNMS5-----A----</AM>
+<AM lemma="Little-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2271-001-p1s2W11-Ta">
@@ -644,6 +667,7 @@
 <AM lemma="rock" src="auto">NNIS3-----A----</AM>
 <AM lemma="rock" src="auto">NNIS5-----A----</AM>
 <AM lemma="rock" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="Rock_;G" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2271-001-p1s2W12-Ta">
@@ -739,7 +763,7 @@
 <form>její</form>
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSFSXFS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
+<AM lemma="jeho_^(přivlast.)" src="auto" selected="1">PSIS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
@@ -765,7 +789,7 @@
 <AM lemma="čistý" src="auto">AAIP4----1A---6</AM>
 <AM lemma="čistý" src="auto">AAIP5----1A---6</AM>
 <AM lemma="čistý" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="čistý" src="auto">AAIS4----1A----</AM>
+<AM lemma="čistý" src="auto" selected="1">AAIS4----1A----</AM>
 <AM lemma="čistý" src="auto">AAIS5----1A----</AM>
 <AM lemma="čistý" src="auto">AAMP1----1A---6</AM>
 <AM lemma="čistý" src="auto">AAMP4----1A---6</AM>
@@ -788,7 +812,7 @@
 <form>příjem</form>
 <tag>
 <AM lemma="příjem" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="příjem" src="auto">NNIS4-----A----</AM>
+<AM lemma="příjem" src="auto" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2271-001-p1s2W22-Ta">
@@ -1749,6 +1773,11 @@
 <AM lemma="dan-1_^(mistr_a_učitel_japon._sportů)" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="dan-1_^(mistr_a_učitel_japon._sportů)" src="auto">NNMP5-----A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>daňové</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2271-001-p1s5W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1993,7 +2022,7 @@
 </w.rf>
 <form>Jack</form>
 <tag>
-<AM lemma="Jack_;Y" src="auto">NNMS1-----A----</AM>
+<AM lemma="Jack_;Y" src="auto" selected="1">NNMS1-----A----</AM>
 <AM lemma="jack" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="jack" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -2148,7 +2177,10 @@
 <LM>w#w-wsj2271-001-p1s7W11</LM>
 </w.rf>
 <form>Environmental</form>
-<tag lemma="Environmental" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Environmental" src="auto">X@-------------</AM>
+<AM lemma="Environmental-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2271-001-p1s7W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2156,7 +2188,10 @@
 <LM>w#w-wsj2271-001-p1s7W12</LM>
 </w.rf>
 <form>Systems</form>
-<tag lemma="Systems" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Systems" src="auto">X@-------------</AM>
+<AM lemma="Systems-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2271-001-p1s7W13-Ta">
 <src.rf>tagger-a</src.rf>

@@ -29,6 +29,7 @@
 <AM lemma="Apple_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="Apple_;K" src="auto">NNIS5-----A----</AM>
 <AM lemma="Apple_;K" src="auto">NNISX-----A----</AM>
+<AM lemma="Apple-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2434-001-p1s0W3-Ta">
@@ -40,6 +41,7 @@
 <tag>
 <AM lemma="computer_,s_^(^DD**komputer)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="computer_,s_^(^DD**komputer)" src="auto">NNIS4-----A----</AM>
+<AM lemma="Computer-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2434-001-p1s0W4-Ta">
@@ -51,6 +53,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2434-001-p1s0W5-Ta">
@@ -154,7 +157,7 @@
 <form>počínaje</form>
 <tag>
 <AM lemma="počínat" src="auto" recommended="1">VeYS------A-I--</AM>
-<AM lemma="počínaje" src="auto">RR--7----------</AM>
+<AM lemma="počínaje" src="auto" selected="1">RR--7----------</AM>
 </tag>
 </m>
 <m id="m-wsj2434-001-p1s0W16-Ta">
@@ -392,6 +395,7 @@
 <AM lemma="Apple_;K" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="Apple_;K" src="auto">NNIS5-----A----</AM>
 <AM lemma="Apple_;K" src="auto">NNISX-----A----</AM>
+<AM lemma="Apple_;K_;R" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2434-001-p1s1W10-Ta">
@@ -400,7 +404,10 @@
 <LM>w#w-wsj2434-001-p1s1W10</LM>
 </w.rf>
 <form>IIGS</form>
-<tag lemma="IIGS" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="IIGS" src="auto">X@-------------</AM>
+<AM lemma="IIGS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2434-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -445,6 +452,7 @@
 <AM lemma="Apple_;K" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="Apple_;K" src="auto">NNIS5-----A----</AM>
 <AM lemma="Apple_;K" src="auto">NNISX-----A----</AM>
+<AM lemma="Apple_;K_;R" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj2434-001-p1s1W14-Ta">
@@ -475,7 +483,10 @@
 <LM>w#w-wsj2434-001-p1s1W16</LM>
 </w.rf>
 <form>hard</form>
-<tag lemma="hard_,t_^(tvrdý,_pevný)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="hard_,t_^(tvrdý,_pevný)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="hard-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2434-001-p1s1W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -531,6 +542,11 @@
 </w.rf>
 <form>zákládní</form>
 <tag lemma="zákládní" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>základní</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2434-001-p1s1W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -557,7 +573,10 @@
 <LM>w#w-wsj2434-001-p1s1W25</LM>
 </w.rf>
 <form>Macintosh</form>
-<tag lemma="Macintosh_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Macintosh_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Macintosh_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2434-001-p1s1W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -670,7 +689,10 @@
 <LM>w#w-wsj2434-001-p1s1W34</LM>
 </w.rf>
 <form>Macintosh</form>
-<tag lemma="Macintosh_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Macintosh_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Macintosh_;R" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2434-001-p1s1W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -682,6 +704,7 @@
 <AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
+<AM lemma="SE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2434-001-p1s1W36-Ta">
@@ -741,6 +764,7 @@
 <AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
 <AM lemma="s-1" src="auto">RV--7----------</AM>
+<AM lemma="SE-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2434-001-p1s1W42-Ta">
@@ -815,7 +839,10 @@
 <LM>w#w-wsj2434-001-p1s1W49</LM>
 </w.rf>
 <form>Macintosh</form>
-<tag lemma="Macintosh_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Macintosh_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Macintosh_;R" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2434-001-p1s1W50-Ta">
 <src.rf>tagger-a</src.rf>
@@ -823,7 +850,10 @@
 <LM>w#w-wsj2434-001-p1s1W50</LM>
 </w.rf>
 <form>IIcx</form>
-<tag lemma="IIcx" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="IIcx" src="auto">X@-------------</AM>
+<AM lemma="IIcx-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2434-001-p1s1W51-Ta">
 <src.rf>tagger-a</src.rf>
@@ -868,6 +898,7 @@
 <AM lemma="video-1" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="video-1" src="auto">NNNS5-----A----</AM>
 <AM lemma="video-2_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="video-2" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj2434-001-p1s1W54-Ta">
@@ -903,6 +934,7 @@
 <AM lemma="Apple_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="Apple_;K" src="auto">NNIS5-----A----</AM>
 <AM lemma="Apple_;K" src="auto">NNISX-----A----</AM>
+<AM lemma="Apple_;K_;R" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-wsj2434-001-p1s1W57-Ta">
@@ -1097,7 +1129,7 @@
 </w.rf>
 <form>činí</form>
 <tag>
-<AM lemma="činit" src="auto">VB-P---3P-AAI--</AM>
+<AM lemma="činit" src="auto" selected="1">VB-P---3P-AAI--</AM>
 <AM lemma="činit" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
@@ -1315,7 +1347,10 @@
 <LM>w#w-wsj2434-001-p1s3W14</LM>
 </w.rf>
 <form>creditní</form>
-<tag lemma="creditní" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="creditní" src="auto">X@-------------</AM>
+<AM lemma="creditní_,i_^(^DS**kreditní)" src="manual" selected="1">AAFP4----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj2434-001-p1s3W15-Ta">
 <src.rf>tagger-a</src.rf>

@@ -275,7 +275,7 @@
 </w.rf>
 <form>pár</form>
 <tag>
-<AM lemma="pár-1" src="auto">ClXXX----------</AM>
+<AM lemma="pár-1" src="auto" selected="1">ClXXX----------</AM>
 <AM lemma="pár-2" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="pár-2" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -324,7 +324,7 @@
 <AM lemma="co-1" src="auto">PQ--1----------</AM>
 <AM lemma="co-1" src="auto">PQ--4----------</AM>
 <AM lemma="co-2_^(cože;_ale_co)" src="auto">TT-------------</AM>
-<AM lemma="co-3_^(když:_poté/od_té_doby,_co)" src="auto" recommended="1">J,-------------</AM>
+<AM lemma="co-3_^(když:_poté/od_té_doby,_co)" src="auto" recommended="1" selected="1">J,-------------</AM>
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
@@ -582,7 +582,7 @@
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGNP1-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGNP4-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGNP5-----A----</AM>
-<AM lemma="zahrnující_^(*5ovat)" src="auto">AGNS1-----A----</AM>
+<AM lemma="zahrnující_^(*5ovat)" src="auto" selected="1">AGNS1-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGNS4-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGNS5-----A----</AM>
 </tag>
@@ -595,7 +595,7 @@
 <form>Wales</form>
 <tag>
 <AM lemma="Wales-1_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Wales-1_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Wales-1_;G" src="auto" selected="1">NNIS4-----A----</AM>
 <AM lemma="Wales-2_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -649,7 +649,7 @@
 <AM lemma="severní" src="auto">AANP4----1A----</AM>
 <AM lemma="severní" src="auto">AANP5----1A----</AM>
 <AM lemma="severní" src="auto" recommended="1">AANS1----1A----</AM>
-<AM lemma="severní" src="auto">AANS4----1A----</AM>
+<AM lemma="severní" src="auto" selected="1">AANS4----1A----</AM>
 <AM lemma="severní" src="auto">AANS5----1A----</AM>
 </tag>
 </m>
@@ -661,7 +661,7 @@
 <form>Irsko</form>
 <tag>
 <AM lemma="Irsko_;G" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Irsko_;G" src="auto">NNNS4-----A----</AM>
+<AM lemma="Irsko_;G" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="Irsko_;G" src="auto">NNNS5-----A----</AM>
 <AM lemma="irský" src="auto">A2--------A----</AM>
 </tag>
@@ -682,7 +682,7 @@
 <form>Skotsko</form>
 <tag>
 <AM lemma="Skotsko_;G" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="Skotsko_;G" src="auto">NNNS4-----A----</AM>
+<AM lemma="Skotsko_;G" src="auto" selected="1">NNNS4-----A----</AM>
 <AM lemma="Skotsko_;G" src="auto">NNNS5-----A----</AM>
 <AM lemma="skotský" src="auto">A2--------A----</AM>
 </tag>
