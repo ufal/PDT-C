@@ -38,38 +38,43 @@ my $ADD_MULTILINE_TAG = qr{
 	(?: $ADD_LEMMA )+
 	\+</tag>\n
 }x;
-my $NEW_FORM = qr{
+my $NEW_FORM = qr{ (?:
 	\+<comment>\n
 	\+<LM\ type="New\ Form">\n
 	\+<text>.*\n
 	\+</LM>\n
 	\+</comment>\n
+	|
+	\+<comment\ type="New\ Form">\n
+	\+<text>.*\n
+	\+</comment>\n
+	)
 }x;
-my $OTHER_COMMENT = qr{
+my $OTHER_COMMENT = qr{ (?:
 	\+<comment>\n
 	\+<LM\ type="Other">\n
 	\+<text>.*\n
 	\+</LM>\n
 	\+</comment>\n
-}x;
-my $MORE_OTHER_COMMENTS = qr{
-	\+<comment>\n
-	\+<LM\ type="Other">\n
+	|
+	\+<comment\ type="Other">\n
 	\+<text>.*\n
-	\+</LM>\n
-	\+<LM\ type="Other">\n
-	\+<text>.*\n
-	\+</LM>\n
 	\+</comment>\n
+	)
 }x;
-my $NEW_FORM_AND_COMMENT = qr{
+my $NEW_FORMS_AND_OR_COMMENTS = qr{
 	\+<comment>\n
-	\+<LM\ type="New\ Form">\n
-	\+<text>.*\n
-	\+</LM>\n
-	\+<LM\ type="Other">\n
-	\+<text>.*\n
-	\+</LM>\n
+	(?:
+		\+<LM\ type="New\ Form">\n
+		\+<text>.*\n
+		\+</LM>\n
+	|
+		\+<LM\ type="Other">\n
+		\+<text>.*\n
+		\+</LM>\n
+	|
+		\+<LM\ type="Other"\/>\n
+	){2,}
 	\+</comment>\n
 }x;
 
@@ -154,12 +159,10 @@ sub examine_change {
 		$OTHER_COMMENT
 	$}x;
 	# Nebo poznamek
-	return if $change =~ m{^
-		$MORE_OTHER_COMMENTS
-	$}x;
+	# Nebo vice novych forem (pri preklepu)
 	# Nebo nove formy a poznamky
 	return if $change =~ m{^
-		$NEW_FORM_AND_COMMENT
+		$NEW_FORMS_AND_OR_COMMENTS
 	$}x;
 
 	# Kombinace
@@ -188,7 +191,12 @@ sub examine_change {
 	return if $change =~ m{^
 		$REMOVE_ONELINE_TAG
 		$ADD_ONELINE_TAG
-		$NEW_FORM_AND_COMMENT
+		$NEW_FORMS_AND_OR_COMMENTS
+	$}x;
+	return if $change =~ m{^
+		$REMOVE_ONELINE_TAG
+		$ADD_MULTILINE_TAG
+		$NEW_FORMS_AND_OR_COMMENTS
 	$}x;
 	return if $change =~ m{^
 		$REMOVE_ONELINE_TAG
