@@ -1491,19 +1491,12 @@
 <LM>w#w-mf920925-104-p3s5w14</LM>
 </w.rf>
 <form_change>spell</form_change>
-<form>právo</form>
+<form>krávo</form>
 <tag>
-<AM lemma="práv_^(oprávněný)" src="auto">ACNS------A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNS4-----A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto">NNNS5-----A----</AM>
-<AM lemma="právo_^(právo_na_něco;_také_jako_obor)" src="auto" recommended="1">NNNS1-----A----</AM>
-</tag>
+<AM lemma="kráva" src="auto" recommended="1">NNFS5-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>krávo</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-mf920925-104-p3s5w15">
 <src.rf>manual</src.rf>
 <w.rf>

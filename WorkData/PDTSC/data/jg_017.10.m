@@ -570,17 +570,13 @@
 <LM>w#w-d1t2996-4</LM>
 </w.rf>
 <form_change>spell</form_change>
-<form>děštník</form>
+<form>deštník</form>
 <tag>
-<AM lemma="děštník" src="auto">X@-------------</AM>
-<AM lemma="děštník" src="auto" recommended="1">Db-------------</AM>
-</tag>
+<AM lemma="deštník" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="deštník" src="auto">NNIS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>deštník</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m017-d1e2991-x2-566">
 <w.rf>
 <LM>w#w-d1e2991-x2-566</LM>

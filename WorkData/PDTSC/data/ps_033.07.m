@@ -4867,17 +4867,12 @@
 <w.rf>
 <LM>w#w-d1t2432-22</LM>
 </w.rf>
-<form>Foje</form>
+<form>Eforie</form>
 <tag>
-<AM lemma="Foje" src="auto">X@-------------</AM>
-<AM lemma="Foje_;G" src="manual">NNNS1-----A----</AM>
-</tag>
+<AM lemma="Eforie" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Eforie</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m033-190-193">
 <w.rf>
 <LM>w#w-190-193</LM>
