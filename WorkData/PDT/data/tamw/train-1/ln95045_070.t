@@ -4,7 +4,7 @@
 <schema href="tdata_35_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ln95045_070.a" />
-<reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
+<reffile id="v" name="vallex" href="vallex3.xml" />
 </references>
 </head>
 <meta>
