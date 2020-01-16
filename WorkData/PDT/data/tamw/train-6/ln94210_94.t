@@ -1,1 +1,202 @@
-../../../../../OriginalInputData/PDT/data/tamw/train-6/ln94210_94.t
+<?xml version="1.0" encoding="UTF-8"?>
+<tdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
+<head>
+<schema href="tdata_35_schema.xml" />
+<references>
+<reffile id="a" name="adata" href="ln94210_94.a" />
+<reffile id="v" name="vallex" href="pdtvallex3.0.xml" />
+</references>
+</head>
+<meta>
+<annotation_info>
+<desc>Manual annotation</desc>
+</annotation_info>
+<genre>caption</genre>
+</meta>
+<trees>
+<LM id="t-ln94210-94-p1s1">
+<atree.rf>a#a-ln94210-94-p1s1</atree.rf>
+<deepord>0</deepord>
+<children>
+<LM id="t-ln94210-94-p1s1w4">
+<a>
+<lex.rf>a#a-ln94210-94-p1s1w4</lex.rf>
+</a>
+<nodetype>coap</nodetype>
+<t_lemma>#Comma</t_lemma>
+<functor>CONJ</functor>
+<deepord>4</deepord>
+<discourse_special>caption</discourse_special>
+<children>
+<LM id="t-ln94210-94-p1s1a0">
+<nodetype>qcomplex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#Gen</t_lemma>
+<functor>ACT</functor>
+<tfa>t</tfa>
+<deepord>1</deepord>
+</LM>
+<LM id="t-ln94210-94-p1s1w3">
+<a>
+<lex.rf>a#a-ln94210-94-p1s1w3</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>bourat</t_lemma>
+<functor>PRED</functor>
+<sentmod>enunc</sentmod>
+<is_member>1</is_member>
+<gram>
+<sempos>v</sempos>
+<deontmod>decl</deontmod>
+<tense>sim</tense>
+<aspect>proc</aspect>
+<iterativeness>it0</iterativeness>
+<diatgram>deagent</diatgram>
+<factmod>asserted</factmod>
+</gram>
+<tfa>f</tfa>
+<deepord>3</deepord>
+<val_frame.rf>v#v-w191f1</val_frame.rf>
+<children>
+<LM id="t-ln94210-94-p1s1w1">
+<a>
+<lex.rf>a#a-ln94210-94-p1s1w1</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>příčka</t_lemma>
+<functor>PAT</functor>
+<gram>
+<sempos>n.denot</sempos>
+<gender>fem</gender>
+<number>pl</number>
+<typgroup>single</typgroup>
+</gram>
+<tfa>c</tfa>
+<deepord>2</deepord>
+</LM>
+</children>
+</LM>
+<LM id="t-ln94210-94-p1s1w7">
+<a>
+<lex.rf>a#a-ln94210-94-p1s1w7</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>snášet</t_lemma>
+<functor>PRED</functor>
+<sentmod>enunc</sentmod>
+<is_member>1</is_member>
+<gram>
+<sempos>v</sempos>
+<deontmod>decl</deontmod>
+<tense>sim</tense>
+<aspect>proc</aspect>
+<iterativeness>it0</iterativeness>
+<diatgram>deagent</diatgram>
+<factmod>asserted</factmod>
+</gram>
+<tfa>f</tfa>
+<deepord>6</deepord>
+<val_frame.rf>v#v-w6230f2</val_frame.rf>
+<children>
+<LM id="t-ln94210-94-p1s1w5">
+<a>
+<lex.rf>a#a-ln94210-94-p1s1w5</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>strop</t_lemma>
+<functor>PAT</functor>
+<gram>
+<sempos>n.denot</sempos>
+<gender>inan</gender>
+<number>pl</number>
+<typgroup>single</typgroup>
+</gram>
+<tfa>c</tfa>
+<deepord>5</deepord>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+<LM id="t-ln94210-94-p1s2">
+<atree.rf>a#a-ln94210-94-p1s2</atree.rf>
+<deepord>0</deepord>
+<mwes>
+<LM id="s-ln94210-94-l1A">
+<type>person</type>
+<tnode.rfs>
+<LM>t-ln94210-94-p1s2w2</LM>
+<LM>t-ln94210-94-p1s2w3</LM>
+</tnode.rfs>
+</LM>
+</mwes>
+<children>
+<LM id="t-ln94210-94-p1s2a0">
+<nodetype>qcomplex</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#EmpVerb</t_lemma>
+<functor>PRED</functor>
+<sentmod>enunc</sentmod>
+<tfa>t</tfa>
+<deepord>2</deepord>
+<children>
+<LM id="t-ln94210-94-p1s2w1">
+<a>
+<lex.rf>a#a-ln94210-94-p1s2w1</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>foto</t_lemma>
+<functor>PAT</functor>
+<gram>
+<sempos>n.denot</sempos>
+<gender>neut</gender>
+<number>sg</number>
+<typgroup>single</typgroup>
+</gram>
+<tfa>c</tfa>
+<deepord>1</deepord>
+</LM>
+<LM id="t-ln94210-94-p1s2w3">
+<a>
+<lex.rf>a#a-ln94210-94-p1s2w3</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>Cudlín</t_lemma>
+<functor>ACT</functor>
+<is_name_of_person>1</is_name_of_person>
+<gram>
+<sempos>n.denot</sempos>
+<gender>anim</gender>
+<number>sg</number>
+<typgroup>single</typgroup>
+</gram>
+<tfa>f</tfa>
+<deepord>3</deepord>
+<children>
+<LM id="t-ln94210-94-p1s2w2">
+<a>
+<lex.rf>a#a-ln94210-94-p1s2w2</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>Karel</t_lemma>
+<functor>RSTR</functor>
+<is_name_of_person>1</is_name_of_person>
+<gram>
+<sempos>n.denot</sempos>
+<gender>anim</gender>
+<number>sg</number>
+<typgroup>single</typgroup>
+</gram>
+<tfa>f</tfa>
+<deepord>4</deepord>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</trees>
+</tdata>
