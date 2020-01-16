@@ -1,0 +1,16 @@
+#!btred -NTe m2a ()
+
+use strict;
+use warnings;
+
+open my $in, '<', 'mids' or die "mids: $!";
+chomp( my @mids = <$in> );
+
+my %id;
+@id{@mids} = ();
+
+sub m2a {
+    if ($this->attr('m/id') && exists $id{ $this->attr('m/id') }) {
+        print $this->{id}, "\n";
+    }
+}

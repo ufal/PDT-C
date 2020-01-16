@@ -1,0 +1,20 @@
+#!btred -NTe a2t ()
+
+use strict;
+use warnings;
+
+open my $in, '<', 'aids' or die "aids: $!";
+chomp( my @aids = <$in> );
+
+my %id;
+@id{@aids} = ();
+
+sub a2t {
+    my $lex = ($this->attr('a/lex.rf') || "") =~ s/^.*#//r;
+    my @aux = map s/^.*#//r, ListV($this->attr('a/aux.rf'));
+    if ($lex && exists $id{$lex}
+        || @aux && grep exists $id{$_}, @aux
+    ) {
+        FPosition();
+    }
+}
