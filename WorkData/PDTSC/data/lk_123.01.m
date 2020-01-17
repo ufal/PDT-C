@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml" />
+<schema href="mdata_36_schema.xml"/>
 <references>
-<reffile id="w" name="wdata" href="lk_123.01.w" />
+<reffile id="w" name="wdata" href="lk_123.01.w"/>
 </references>
 </head>
 <s id="m123-311">
@@ -322,10 +322,17 @@
 <form>5,5m</form>
 <tag lemma="5,5m" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: 5.5 m</text>
+<LM type="New Form">
+<text>5.5</text>
 </LM>
 </comment>
+</m><m id="m123-313-321-sw1">
+<w.rf>
+<LM>w#w-313-321</LM>
+</w.rf>
+<form>5,5m</form>
+<tag lemma="5,5m" src="auto">X@-------------</tag>
+<comment><LM type="New Form"><text>m</text></LM></comment>
 </m>
 <m id="m123-313-322">
 <w.rf>

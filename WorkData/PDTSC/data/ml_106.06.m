@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml" />
+<schema href="mdata_36_schema.xml"/>
 <references>
-<reffile id="w" name="wdata" href="ml_106.06.w" />
+<reffile id="w" name="wdata" href="ml_106.06.w"/>
 </references>
 </head>
 <s id="m106-488">
@@ -656,11 +656,54 @@
 <AM lemma="rock_^(rock'n'roll)" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="rock-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>5v1: rock ´ n ´ rollové</text>
-</LM>
-</comment>
+</m><m id="m106-d1t1454-6-sw1">
+<w.rf>
+<LM>w#w-d1t1454-6</LM>
+</w.rf>
+<form>rock</form>
+<tag>
+<AM lemma="rock" src="auto">NNIS1-----A----</AM>
+<AM lemma="rock" src="auto">NNIS4-----A----</AM>
+<AM lemma="rock_^(rock'n'roll)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="rock-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment><LM type="New Form"><text>´</text></LM></comment>
+</m><m id="m106-d1t1454-6-sw2">
+<w.rf>
+<LM>w#w-d1t1454-6</LM>
+</w.rf>
+<form>rock</form>
+<tag>
+<AM lemma="rock" src="auto">NNIS1-----A----</AM>
+<AM lemma="rock" src="auto">NNIS4-----A----</AM>
+<AM lemma="rock_^(rock'n'roll)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="rock-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment><LM type="New Form"><text>n</text></LM></comment>
+</m><m id="m106-d1t1454-6-sw3">
+<w.rf>
+<LM>w#w-d1t1454-6</LM>
+</w.rf>
+<form>rock</form>
+<tag>
+<AM lemma="rock" src="auto">NNIS1-----A----</AM>
+<AM lemma="rock" src="auto">NNIS4-----A----</AM>
+<AM lemma="rock_^(rock'n'roll)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="rock-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment><LM type="New Form"><text>´</text></LM></comment>
+</m><m id="m106-d1t1454-6-sw4">
+<w.rf>
+<LM>w#w-d1t1454-6</LM>
+</w.rf>
+<form>rock</form>
+<tag>
+<AM lemma="rock" src="auto">NNIS1-----A----</AM>
+<AM lemma="rock" src="auto">NNIS4-----A----</AM>
+<AM lemma="rock_^(rock'n'roll)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="rock-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment><LM type="New Form"><text>rollové</text></LM></comment>
 </m>
 <m id="m106-d1t1454-7">
 <w.rf>
@@ -849,11 +892,58 @@
 <AM lemma="rock" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="rock-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>5v1: rock ´ n ´ rollový</text>
-</LM>
-</comment>
+</m><m id="m106-d1t1456-18-sw1">
+<w.rf>
+<LM>w#w-d1t1456-18</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>rock</form>
+<tag>
+<AM lemma="rock" src="auto">NNIS4-----A----</AM>
+<AM lemma="rock_^(rock'n'roll)" src="auto">NNXXX-----A----</AM>
+<AM lemma="rock" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="rock-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment><LM type="New Form"><text>´</text></LM></comment>
+</m><m id="m106-d1t1456-18-sw2">
+<w.rf>
+<LM>w#w-d1t1456-18</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>rock</form>
+<tag>
+<AM lemma="rock" src="auto">NNIS4-----A----</AM>
+<AM lemma="rock_^(rock'n'roll)" src="auto">NNXXX-----A----</AM>
+<AM lemma="rock" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="rock-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment><LM type="New Form"><text>n</text></LM></comment>
+</m><m id="m106-d1t1456-18-sw3">
+<w.rf>
+<LM>w#w-d1t1456-18</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>rock</form>
+<tag>
+<AM lemma="rock" src="auto">NNIS4-----A----</AM>
+<AM lemma="rock_^(rock'n'roll)" src="auto">NNXXX-----A----</AM>
+<AM lemma="rock" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="rock-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment><LM type="New Form"><text>´</text></LM></comment>
+</m><m id="m106-d1t1456-18-sw4">
+<w.rf>
+<LM>w#w-d1t1456-18</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>rock</form>
+<tag>
+<AM lemma="rock" src="auto">NNIS4-----A----</AM>
+<AM lemma="rock_^(rock'n'roll)" src="auto">NNXXX-----A----</AM>
+<AM lemma="rock" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="rock-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment><LM type="New Form"><text>rollový</text></LM></comment>
 </m>
 <m id="m106-d1t1456-19">
 <w.rf>

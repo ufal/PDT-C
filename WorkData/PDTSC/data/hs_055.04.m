@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml" />
+<schema href="mdata_36_schema.xml"/>
 <references>
-<reffile id="w" name="wdata" href="hs_055.04.w" />
+<reffile id="w" name="wdata" href="hs_055.04.w"/>
 </references>
 </head>
 <s id="m055-d1e1609-x2">
@@ -305,10 +305,17 @@
 <form>2,5letého</form>
 <tag lemma="2,5letého" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: 2.5 letého</text>
+<LM type="New Form">
+<text>2.5</text>
 </LM>
 </comment>
+</m><m id="m055-d1t1627-8-sw1">
+<w.rf>
+<LM>w#w-d1t1627-8</LM>
+</w.rf>
+<form>2,5letého</form>
+<tag lemma="2,5letého" src="auto">X@-------------</tag>
+<comment><LM type="New Form"><text>letého</text></LM></comment>
 </m>
 <m id="m055-d-m-d1e1609-x2-punct-punct">
 <w.rf>

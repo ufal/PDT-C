@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml" />
+<schema href="mdata_36_schema.xml"/>
 <references>
-<reffile id="w" name="wdata" href="dk_111.06.w" />
+<reffile id="w" name="wdata" href="dk_111.06.w"/>
 </references>
 </head>
 <s id="m111-235">
@@ -72,10 +72,24 @@
 <form>100+1</form>
 <tag lemma="100+1" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>3v1: 100 + 1</text>
+<LM type="New Form">
+<text>100</text>
 </LM>
 </comment>
+</m><m id="m111-d1t881-14-sw1">
+<w.rf>
+<LM>w#w-d1t881-14</LM>
+</w.rf>
+<form>100+1</form>
+<tag lemma="100+1" src="auto">X@-------------</tag>
+<comment><LM type="New Form"><text>+</text></LM></comment>
+</m><m id="m111-d1t881-14-sw2">
+<w.rf>
+<LM>w#w-d1t881-14</LM>
+</w.rf>
+<form>100+1</form>
+<tag lemma="100+1" src="auto">X@-------------</tag>
+<comment><LM type="New Form"><text>1</text></LM></comment>
 </m>
 <m id="m111-d1t883-2">
 <w.rf>

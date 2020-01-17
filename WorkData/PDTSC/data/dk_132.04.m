@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml" />
+<schema href="mdata_36_schema.xml"/>
 <references>
-<reffile id="w" name="wdata" href="dk_132.04.w" />
+<reffile id="w" name="wdata" href="dk_132.04.w"/>
 </references>
 </head>
 <s id="m132-110">
@@ -1406,10 +1406,24 @@
 <form>km/h</form>
 <tag lemma="km/h" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>3v1: km / h</text>
+<LM type="New Form">
+<text>km</text>
 </LM>
 </comment>
+</m><m id="m132-d1t1277-21-sw1">
+<w.rf>
+<LM>w#w-d1t1277-21</LM>
+</w.rf>
+<form>km/h</form>
+<tag lemma="km/h" src="auto">X@-------------</tag>
+<comment><LM type="New Form"><text>/</text></LM></comment>
+</m><m id="m132-d1t1277-21-sw2">
+<w.rf>
+<LM>w#w-d1t1277-21</LM>
+</w.rf>
+<form>km/h</form>
+<tag lemma="km/h" src="auto">X@-------------</tag>
+<comment><LM type="New Form"><text>h</text></LM></comment>
 </m>
 <m id="m132-d-m-d1e1272-x2-punct-punct">
 <w.rf>

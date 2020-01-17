@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml" />
+<schema href="mdata_36_schema.xml"/>
 <references>
-<reffile id="w" name="wdata" href="ak_100.05.w" />
+<reffile id="w" name="wdata" href="ak_100.05.w"/>
 </references>
 </head>
 <s id="m100-447">
@@ -1139,10 +1139,24 @@
 <form>Je-li</form>
 <tag lemma="Je-li" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>3v1: Je - li</text>
+<LM type="New Form">
+<text>Je</text>
 </LM>
 </comment>
+</m><m id="m100-d1t1222-6-sw1">
+<w.rf>
+<LM>w#w-d1t1222-6</LM>
+</w.rf>
+<form>Je-li</form>
+<tag lemma="Je-li" src="auto">X@-------------</tag>
+<comment><LM type="New Form"><text>-</text></LM></comment>
+</m><m id="m100-d1t1222-6-sw2">
+<w.rf>
+<LM>w#w-d1t1222-6</LM>
+</w.rf>
+<form>Je-li</form>
+<tag lemma="Je-li" src="auto">X@-------------</tag>
+<comment><LM type="New Form"><text>li</text></LM></comment>
 </m>
 <m id="m100-d1t1222-7">
 <w.rf>

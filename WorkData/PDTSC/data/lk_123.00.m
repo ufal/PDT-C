@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml" />
+<schema href="mdata_36_schema.xml"/>
 <references>
-<reffile id="w" name="wdata" href="lk_123.00.w" />
+<reffile id="w" name="wdata" href="lk_123.00.w"/>
 </references>
 </head>
 <s id="m123-d1e12-x2">
@@ -2096,10 +2096,17 @@
 <form>7m</form>
 <tag lemma="7m" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: 7 m</text>
+<LM type="New Form">
+<text>7</text>
 </LM>
 </comment>
+</m><m id="m123-60-63-sw1">
+<w.rf>
+<LM>w#w-60-63</LM>
+</w.rf>
+<form>7m</form>
+<tag lemma="7m" src="auto">X@-------------</tag>
+<comment><LM type="New Form"><text>m</text></LM></comment>
 </m>
 <m id="m123-d1t141-1">
 <w.rf>
@@ -2161,10 +2168,17 @@
 <form>7,20m</form>
 <tag lemma="7,20m" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: 7.20 m</text>
+<LM type="New Form">
+<text>7.20</text>
 </LM>
 </comment>
+</m><m id="m123-60-66-sw1">
+<w.rf>
+<LM>w#w-60-66</LM>
+</w.rf>
+<form>7,20m</form>
+<tag lemma="7,20m" src="auto">X@-------------</tag>
+<comment><LM type="New Form"><text>m</text></LM></comment>
 </m>
 <m id="m123-60-67">
 <w.rf>
@@ -3648,10 +3662,17 @@
 <form>3,5m</form>
 <tag lemma="3,5m" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: 3.5 m</text>
+<LM type="New Form">
+<text>3.5</text>
 </LM>
 </comment>
+</m><m id="m123-110-126-sw1">
+<w.rf>
+<LM>w#w-110-126</LM>
+</w.rf>
+<form>3,5m</form>
+<tag lemma="3,5m" src="auto">X@-------------</tag>
+<comment><LM type="New Form"><text>m</text></LM></comment>
 </m>
 <m id="m123-d1t214-3">
 <w.rf>

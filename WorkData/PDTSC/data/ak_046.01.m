@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml" />
+<schema href="mdata_36_schema.xml"/>
 <references>
-<reffile id="w" name="wdata" href="ak_046.01.w" />
+<reffile id="w" name="wdata" href="ak_046.01.w"/>
 </references>
 </head>
 <s id="m046-d1e323-x2">
@@ -1403,10 +1403,17 @@
 <form>potom</form>
 <tag lemma="potom" src="auto" recommended="1" selected="1">Db-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: po tom</text>
+<LM type="New Form">
+<text>po</text>
 </LM>
 </comment>
+</m><m id="m046-d1t425-4-sw1">
+<w.rf>
+<LM>w#w-d1t425-4</LM>
+</w.rf>
+<form>potom</form>
+<tag lemma="potom" src="auto" recommended="1" selected="1">Db-------------</tag>
+<comment><LM type="New Form"><text>tom</text></LM></comment>
 </m>
 <m id="m046-d1t425-5">
 <w.rf>

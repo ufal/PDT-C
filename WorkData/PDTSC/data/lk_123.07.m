@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml" />
+<schema href="mdata_36_schema.xml"/>
 <references>
-<reffile id="w" name="wdata" href="lk_123.07.w" />
+<reffile id="w" name="wdata" href="lk_123.07.w"/>
 </references>
 </head>
 <s id="m123-322">
@@ -2695,10 +2695,17 @@
 <form>150g</form>
 <tag lemma="150g" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: 150 g</text>
+<LM type="New Form">
+<text>150</text>
 </LM>
 </comment>
+</m><m id="m123-448-449-sw1">
+<w.rf>
+<LM>w#w-448-449</LM>
+</w.rf>
+<form>150g</form>
+<tag lemma="150g" src="auto">X@-------------</tag>
+<comment><LM type="New Form"><text>g</text></LM></comment>
 </m>
 <m id="m123-d1t2384-1">
 <w.rf>
@@ -2754,10 +2761,17 @@
 <form>150g</form>
 <tag lemma="150g" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: 150 g</text>
+<LM type="New Form">
+<text>150</text>
 </LM>
 </comment>
+</m><m id="m123-448-451-sw1">
+<w.rf>
+<LM>w#w-448-451</LM>
+</w.rf>
+<form>150g</form>
+<tag lemma="150g" src="auto">X@-------------</tag>
+<comment><LM type="New Form"><text>g</text></LM></comment>
 </m>
 <m id="m123-d1t2384-7">
 <w.rf>

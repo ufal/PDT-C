@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml" />
+<schema href="mdata_36_schema.xml"/>
 <references>
-<reffile id="w" name="wdata" href="ez_144.01.w" />
+<reffile id="w" name="wdata" href="ez_144.01.w"/>
 </references>
 </head>
 <s id="m144-d1e227-x2">
@@ -1398,10 +1398,20 @@
 <AM lemma="21arová" src="manual" selected="1">AAFS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 21 arová</text>
+<LM type="New Form">
+<text>21</text>
 </LM>
 </comment>
+</m><m id="m144-d1t296-8-sw1">
+<w.rf>
+<LM>w#w-d1t296-8</LM>
+</w.rf>
+<form>21arová</form>
+<tag>
+<AM lemma="21arová" src="auto">X@-------------</AM>
+<AM lemma="21arová" src="manual" selected="1">AAFS1----1A----</AM>
+</tag>
+<comment><LM type="New Form"><text>arová</text></LM></comment>
 </m>
 <m id="m144-196-197">
 <w.rf>

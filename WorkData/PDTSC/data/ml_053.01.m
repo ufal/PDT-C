@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml" />
+<schema href="mdata_36_schema.xml"/>
 <references>
-<reffile id="w" name="wdata" href="ml_053.01.w" />
+<reffile id="w" name="wdata" href="ml_053.01.w"/>
 </references>
 </head>
 <s id="m053-174">
@@ -1104,10 +1104,17 @@
 <form>tadyodtud</form>
 <tag lemma="tadyodtud" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: tady odtud</text>
+<LM type="New Form">
+<text>tady</text>
 </LM>
 </comment>
+</m><m id="m053-d1t361-9-sw1">
+<w.rf>
+<LM>w#w-d1t361-9</LM>
+</w.rf>
+<form>tadyodtud</form>
+<tag lemma="tadyodtud" src="auto">X@-------------</tag>
+<comment><LM type="New Form"><text>odtud</text></LM></comment>
 </m>
 <m id="m053-d-id66512-punct">
 <w.rf>

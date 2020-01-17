@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml" />
+<schema href="mdata_36_schema.xml"/>
 <references>
-<reffile id="w" name="wdata" href="ju_038.08.w" />
+<reffile id="w" name="wdata" href="ju_038.08.w"/>
 </references>
 </head>
 <s id="m038-d1e2484-x2">
@@ -963,10 +963,17 @@
 <form>dvatisíce</form>
 <tag lemma="dvatisíce" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: dva tisíce</text>
+<LM type="New Form">
+<text>dva</text>
 </LM>
 </comment>
+</m><m id="m038-d1t2572-5-sw1">
+<w.rf>
+<LM>w#w-d1t2572-5</LM>
+</w.rf>
+<form>dvatisíce</form>
+<tag lemma="dvatisíce" src="auto">X@-------------</tag>
+<comment><LM type="New Form"><text>tisíce</text></LM></comment>
 </m>
 <m id="m038-d1t2572-6">
 <w.rf>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml" />
+<schema href="mdata_36_schema.xml"/>
 <references>
-<reffile id="w" name="wdata" href="jg_019.03.w" />
+<reffile id="w" name="wdata" href="jg_019.03.w"/>
 </references>
 </head>
 <s id="m019-d1e1053-x2">
@@ -1398,22 +1398,6 @@
 </m>
 </s>
 <s id="m019-454_2">
-<m id="m019-d1t1154-2">
-<w.rf>
-<LM>w#w-d1t1154-2</LM>
-</w.rf>
-<form>Od</form>
-<tag>
-<AM lemma="Oda-1_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="od-1" src="auto" recommended="1">RR--2----------</AM>
-<AM lemma="od-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>1v2: &gt;Odleva</text>
-</LM>
-</comment>
-</m>
 <m id="m019-d1t1154-3">
 <w.rf>
 <LM>w#w-d1t1154-3</LM>
@@ -1421,8 +1405,8 @@
 <form>leva</form>
 <tag lemma="leva_;b_^(bulh._měna)" src="auto" recommended="1">NNNXX-----A----</tag>
 <comment>
-<LM type="Other">
-<text>1v2: &lt;Odleva</text>
+<LM type="New Form">
+<text>Odleva</text>
 </LM>
 </comment>
 </m>

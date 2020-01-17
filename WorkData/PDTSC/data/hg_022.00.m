@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml" />
+<schema href="mdata_36_schema.xml"/>
 <references>
-<reffile id="w" name="wdata" href="hg_022.00.w" />
+<reffile id="w" name="wdata" href="hg_022.00.w"/>
 </references>
 </head>
 <s id="m022-d1e23-x2">
@@ -491,10 +491,17 @@
 <form>svámi</form>
 <tag lemma="svámi" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: s vámi</text>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
+</m><m id="m022-d1t62-5-sw1">
+<w.rf>
+<LM>w#w-d1t62-5</LM>
+</w.rf>
+<form>svámi</form>
+<tag lemma="svámi" src="auto">X@-------------</tag>
+<comment><LM type="New Form"><text>vámi</text></LM></comment>
 </m>
 <m id="m022-d1t62-6">
 <w.rf>

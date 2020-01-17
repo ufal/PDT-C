@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml" />
+<schema href="mdata_36_schema.xml"/>
 <references>
-<reffile id="w" name="wdata" href="ak_145.13.w" />
+<reffile id="w" name="wdata" href="ak_145.13.w"/>
 </references>
 </head>
 <s id="m145-347">
@@ -1720,24 +1720,6 @@
 <form>tadyhle</form>
 <tag lemma="tadyhle" src="auto" recommended="1">Db-------------</tag>
 </m>
-<m id="m145-d1t2628-8">
-<w.rf>
-<LM>w#w-d1t2628-8</LM>
-</w.rf>
-<form>v</form>
-<tag>
-<AM lemma="v-1" src="auto">RR--4----------</AM>
-<AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="versus_:B" src="auto">RR--1---------9</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>1v2: &gt;vzadu</text>
-</LM>
-</comment>
-</m>
 <m id="m145-d1t2628-9">
 <w.rf>
 <LM>w#w-d1t2628-9</LM>
@@ -1745,8 +1727,8 @@
 <form>zadu</form>
 <tag lemma="zadu" src="auto" recommended="1">Db-------------</tag>
 <comment>
-<LM type="Other">
-<text>1v2: &lt;vzadu</text>
+<LM type="New Form">
+<text>vzadu</text>
 </LM>
 </comment>
 </m>

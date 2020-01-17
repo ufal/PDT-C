@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml" />
+<schema href="mdata_36_schema.xml"/>
 <references>
-<reffile id="w" name="wdata" href="jg_017.02.w" />
+<reffile id="w" name="wdata" href="jg_017.02.w"/>
 </references>
 </head>
 <s id="m017-798">
@@ -674,11 +674,30 @@
 <AM lemma="d-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="d-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>3v1: d ´ Huez</text>
-</LM>
-</comment>
+</m><m id="m017-d1e540-x2-918-sw1">
+<w.rf>
+<LM>w#w-d1e540-x2-918</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>d</form>
+<tag>
+<AM lemma="d-77" selected="1" src="auto">F%-------------</AM>
+<AM lemma="d-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="d-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>´</text></LM></comment>
+</m><m id="m017-d1e540-x2-918-sw2">
+<w.rf>
+<LM>w#w-d1e540-x2-918</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>d</form>
+<tag>
+<AM lemma="d-77" selected="1" src="auto">F%-------------</AM>
+<AM lemma="d-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="d-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>Huez</text></LM></comment>
 </m>
 <m id="m017-d-m-d1e540-x2-punct-punct">
 <w.rf>

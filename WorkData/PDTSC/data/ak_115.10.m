@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml" />
+<schema href="mdata_36_schema.xml"/>
 <references>
-<reffile id="w" name="wdata" href="ak_115.10.w" />
+<reffile id="w" name="wdata" href="ak_115.10.w"/>
 </references>
 </head>
 <s id="m115-873">
@@ -513,11 +513,30 @@
 <AM lemma="au" src="auto" recommended="1">II-------------</AM>
 <AM lemma="au-2_^(au-pair)" src="manual" selected="1">S2--------A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>3v1: au - pairku</text>
-</LM>
-</comment>
+</m><m id="m115-d1t1503-12-sw1">
+<w.rf>
+<LM>w#w-d1t1503-12</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>au</form>
+<tag>
+<AM lemma="au_^(au-pair)" src="auto">A2--------A----</AM>
+<AM lemma="au" src="auto" recommended="1">II-------------</AM>
+<AM lemma="au-2_^(au-pair)" src="manual" selected="1">S2--------A----</AM>
+</tag>
+<comment><LM type="New Form"><text>-</text></LM></comment>
+</m><m id="m115-d1t1503-12-sw2">
+<w.rf>
+<LM>w#w-d1t1503-12</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>au</form>
+<tag>
+<AM lemma="au_^(au-pair)" src="auto">A2--------A----</AM>
+<AM lemma="au" src="auto" recommended="1">II-------------</AM>
+<AM lemma="au-2_^(au-pair)" src="manual" selected="1">S2--------A----</AM>
+</tag>
+<comment><LM type="New Form"><text>pairku</text></LM></comment>
 </m>
 <m id="m115-d1t1505-1">
 <w.rf>
@@ -611,11 +630,30 @@
 <AM lemma="au" src="auto" recommended="1">II-------------</AM>
 <AM lemma="au-2_^(au-pair)" src="manual" selected="1">S2--------A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>3v1: au - pairka</text>
-</LM>
-</comment>
+</m><m id="m115-d1t1508-14-sw1">
+<w.rf>
+<LM>w#w-d1t1508-14</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>au</form>
+<tag>
+<AM lemma="au_^(au-pair)" src="auto">A2--------A----</AM>
+<AM lemma="au" src="auto" recommended="1">II-------------</AM>
+<AM lemma="au-2_^(au-pair)" src="manual" selected="1">S2--------A----</AM>
+</tag>
+<comment><LM type="New Form"><text>-</text></LM></comment>
+</m><m id="m115-d1t1508-14-sw2">
+<w.rf>
+<LM>w#w-d1t1508-14</LM>
+</w.rf>
+<form_change>spell</form_change>
+<form>au</form>
+<tag>
+<AM lemma="au_^(au-pair)" src="auto">A2--------A----</AM>
+<AM lemma="au" src="auto" recommended="1">II-------------</AM>
+<AM lemma="au-2_^(au-pair)" src="manual" selected="1">S2--------A----</AM>
+</tag>
+<comment><LM type="New Form"><text>pairka</text></LM></comment>
 </m>
 <m id="m115-d1t1508-10">
 <w.rf>
