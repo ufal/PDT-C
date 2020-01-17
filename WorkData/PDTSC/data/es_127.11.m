@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"/>
+<schema href="mdata_36_schema.xml"></schema>
 <references>
-<reffile id="w" name="wdata" href="es_127.11.w"/>
+<reffile id="w" name="wdata" href="es_127.11.w"></reffile>
 </references>
 </head>
 <s id="m127-d1e2354-x2">
@@ -426,24 +426,22 @@
 <LM>w#w-d1t2363-18</LM>
 </w.rf>
 <form_change>spell</form_change>
-<form>ne</form>
+<form>-</form>
 <tag>
-<AM lemma="neděle" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ne" src="auto" recommended="1" selected="1">TT-------------</AM>
-</tag>
-<comment><LM type="New Form"><text>-</text></LM></comment>
+<AM lemma="-" src="auto" recommended="1">Z:-------------</AM></tag>
+<comment></comment>
 </m><m id="m127-d1t2363-18-sw2">
 <w.rf>
 <LM>w#w-d1t2363-18</LM>
 </w.rf>
 <form_change>spell</form_change>
-<form>ne</form>
+<form>li</form>
 <tag>
-<AM lemma="neděle" src="auto">NNFXX-----A---8</AM>
-<AM lemma="ne" src="auto" recommended="1" selected="1">TT-------------</AM>
-</tag>
-<comment><LM type="New Form"><text>li</text></LM></comment>
-</m>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="auto" recommended="1">J,-------------</AM>
+<AM lemma="li-99_:B_;S" src="auto">NNXXX-----A----</AM></tag>
+<comment></comment>
+<form_change>spell</form_change></m>
 <m id="m127-d1t2363-19">
 <w.rf>
 <LM>w#w-d1t2363-19</LM>

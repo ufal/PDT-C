@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"/>
+<schema href="mdata_36_schema.xml"></schema>
 <references>
-<reffile id="w" name="wdata" href="hg_022.00.w"/>
+<reffile id="w" name="wdata" href="hg_022.00.w"></reffile>
 </references>
 </head>
 <s id="m022-d1e23-x2">
@@ -488,21 +488,31 @@
 <w.rf>
 <LM>w#w-d1t62-5</LM>
 </w.rf>
-<form>svámi</form>
-<tag lemma="svámi" src="auto">X@-------------</tag>
+<form>s</form>
+<tag>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-1" src="auto" recommended="1">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>s</text>
-</LM>
 </comment>
 </m><m id="m022-d1t62-5-sw1">
 <w.rf>
 <LM>w#w-d1t62-5</LM>
 </w.rf>
-<form>svámi</form>
-<tag lemma="svámi" src="auto">X@-------------</tag>
-<comment><LM type="New Form"><text>vámi</text></LM></comment>
-</m>
+<form>vámi</form>
+<tag>
+<AM lemma="ty" src="auto" recommended="1">PP-P7--2-------</AM></tag>
+<comment></comment>
+<form_change>spell</form_change></m>
 <m id="m022-d1t62-6">
 <w.rf>
 <LM>w#w-d1t62-6</LM>

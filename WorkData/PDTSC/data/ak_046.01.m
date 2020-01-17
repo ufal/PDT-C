@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"/>
+<schema href="mdata_36_schema.xml"></schema>
 <references>
-<reffile id="w" name="wdata" href="ak_046.01.w"/>
+<reffile id="w" name="wdata" href="ak_046.01.w"></reffile>
 </references>
 </head>
 <s id="m046-d1e323-x2">
@@ -1400,21 +1400,22 @@
 <w.rf>
 <LM>w#w-d1t425-4</LM>
 </w.rf>
-<form>potom</form>
-<tag lemma="potom" src="auto" recommended="1" selected="1">Db-------------</tag>
+<form>po</form>
+<tag>
+<AM lemma="po-1" src="auto">RR--4----------</AM>
+<AM lemma="po-1" src="auto" recommended="1">RR--6----------</AM>
+<AM lemma="pondělí" src="auto">NNNXX-----A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>po</text>
-</LM>
 </comment>
 </m><m id="m046-d1t425-4-sw1">
 <w.rf>
 <LM>w#w-d1t425-4</LM>
 </w.rf>
-<form>potom</form>
-<tag lemma="potom" src="auto" recommended="1" selected="1">Db-------------</tag>
-<comment><LM type="New Form"><text>tom</text></LM></comment>
-</m>
+<form>tom</form>
+<tag>
+<AM lemma="ten" src="auto" recommended="1">PDZS6----------</AM></tag>
+<comment></comment>
+<form_change>spell</form_change></m>
 <m id="m046-d1t425-5">
 <w.rf>
 <LM>w#w-d1t425-5</LM>

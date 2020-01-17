@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"/>
+<schema href="mdata_36_schema.xml"></schema>
 <references>
-<reffile id="w" name="wdata" href="ez_144.01.w"/>
+<reffile id="w" name="wdata" href="ez_144.01.w"></reffile>
 </references>
 </head>
 <s id="m144-d1e227-x2">
@@ -1392,27 +1392,20 @@
 <w.rf>
 <LM>w#w-d1t296-8</LM>
 </w.rf>
-<form>21arová</form>
+<form>21</form>
 <tag>
-<AM lemma="21arová" src="auto">X@-------------</AM>
-<AM lemma="21arová" src="manual" selected="1">AAFS1----1A----</AM>
-</tag>
+<AM lemma="21" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>21</text>
-</LM>
 </comment>
 </m><m id="m144-d1t296-8-sw1">
 <w.rf>
 <LM>w#w-d1t296-8</LM>
 </w.rf>
-<form>21arová</form>
+<form>arová</form>
 <tag>
-<AM lemma="21arová" src="auto">X@-------------</AM>
-<AM lemma="21arová" src="manual" selected="1">AAFS1----1A----</AM>
-</tag>
-<comment><LM type="New Form"><text>arová</text></LM></comment>
-</m>
+<AM lemma="arová" src="auto">X@-------------</AM></tag>
+<comment></comment>
+<form_change>spell</form_change></m>
 <m id="m144-196-197">
 <w.rf>
 <LM>w#w-196-197</LM>

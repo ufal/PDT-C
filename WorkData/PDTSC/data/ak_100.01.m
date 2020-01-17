@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"/>
+<schema href="mdata_36_schema.xml"></schema>
 <references>
-<reffile id="w" name="wdata" href="ak_100.01.w"/>
+<reffile id="w" name="wdata" href="ak_100.01.w"></reffile>
 </references>
 </head>
 <s id="m100-d1e268-x2">
@@ -2283,14 +2283,11 @@
 <LM>w#w-d1t437-7</LM>
 </w.rf>
 <form_change>spell</form_change>
-<form>po</form>
+<form>tom</form>
 <tag>
-<AM lemma="po-1" src="auto">RR--4----------</AM>
-<AM lemma="pondělí" src="auto">NNNXX-----A---8</AM>
-<AM lemma="po-1" src="auto" recommended="1" selected="1">RR--6----------</AM>
-</tag>
-<comment><LM type="New Form"><text>tom</text></LM></comment>
-</m>
+<AM lemma="ten" src="auto" recommended="1">PDZS6----------</AM></tag>
+<comment></comment>
+<form_change>spell</form_change></m>
 <m id="m100-d-id70352-punct">
 <w.rf>
 <LM>w#w-d-id70352-punct</LM>

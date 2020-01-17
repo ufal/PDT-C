@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"/>
+<schema href="mdata_36_schema.xml"></schema>
 <references>
-<reffile id="w" name="wdata" href="lk_713.04.w"/>
+<reffile id="w" name="wdata" href="lk_713.04.w"></reffile>
 </references>
 </head>
 <s id="m713-26171_03-1345">
@@ -1117,21 +1117,20 @@
 <w.rf>
 <LM>w#w-453-489</LM>
 </w.rf>
-<form>říkali:</form>
-<tag lemma="říkali:" src="auto">X@-------------</tag>
+<form>říkali</form>
+<tag>
+<AM lemma="říkat" src="auto" recommended="1">VpMP---XR-AAI--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>říkali</text>
-</LM>
 </comment>
 </m><m id="m713-453-489-sw1">
 <w.rf>
 <LM>w#w-453-489</LM>
 </w.rf>
-<form>říkali:</form>
-<tag lemma="říkali:" src="auto">X@-------------</tag>
-<comment><LM type="New Form"><text>:</text></LM></comment>
-</m>
+<form>:</form>
+<tag>
+<AM lemma=":" src="auto" recommended="1">Z:-------------</AM></tag>
+<comment></comment>
+<form_change>spell</form_change></m>
 <m id="m713-453-488">
 <w.rf>
 <LM>w#w-453-488</LM>

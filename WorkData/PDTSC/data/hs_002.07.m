@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"/>
+<schema href="mdata_36_schema.xml"></schema>
 <references>
-<reffile id="w" name="wdata" href="hs_002.07.w"/>
+<reffile id="w" name="wdata" href="hs_002.07.w"></reffile>
 </references>
 </head>
 <s id="m002-1794">
@@ -3965,10 +3965,11 @@
 <LM>w#w-d1e2244-x2-2376</LM>
 </w.rf>
 <form_change>spell</form_change>
-<form>být</form>
-<tag lemma="být" src="auto" recommended="1" selected="1">Vf--------A-I--</tag>
-<comment><LM type="New Form"><text>?</text></LM></comment>
-</m>
+<form>?</form>
+<tag>
+<AM lemma="?" src="auto" recommended="1">Z:-------------</AM></tag>
+<comment></comment>
+<form_change>spell</form_change></m>
 </s>
 <s id="m002-2374">
 <m id="m002-d1t2249-1">

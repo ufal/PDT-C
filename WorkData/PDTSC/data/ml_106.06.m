@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"/>
+<schema href="mdata_36_schema.xml"></schema>
 <references>
-<reffile id="w" name="wdata" href="ml_106.06.w"/>
+<reffile id="w" name="wdata" href="ml_106.06.w"></reffile>
 </references>
 </head>
 <s id="m106-488">
@@ -660,50 +660,39 @@
 <w.rf>
 <LM>w#w-d1t1454-6</LM>
 </w.rf>
-<form>rock</form>
+<form>´</form>
 <tag>
-<AM lemma="rock" src="auto">NNIS1-----A----</AM>
-<AM lemma="rock" src="auto">NNIS4-----A----</AM>
-<AM lemma="rock_^(rock'n'roll)" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="rock-77" src="manual" selected="1">F%-------------</AM>
-</tag>
-<comment><LM type="New Form"><text>´</text></LM></comment>
+<AM lemma="´" src="auto">X@-------------</AM></tag>
+<comment></comment>
 </m><m id="m106-d1t1454-6-sw2">
 <w.rf>
 <LM>w#w-d1t1454-6</LM>
 </w.rf>
-<form>rock</form>
+<form>n</form>
 <tag>
-<AM lemma="rock" src="auto">NNIS1-----A----</AM>
-<AM lemma="rock" src="auto">NNIS4-----A----</AM>
-<AM lemma="rock_^(rock'n'roll)" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="rock-77" src="manual" selected="1">F%-------------</AM>
-</tag>
-<comment><LM type="New Form"><text>n</text></LM></comment>
+<AM lemma="můj_^(přivlast.)" src="auto">PSZS2-P1------8</AM>
+<AM lemma="můj_^(přivlast.)" src="auto">PSZS7-P1------8</AM>
+<AM lemma="n-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="n-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="n_^(n-tice)" src="auto">A2--------A----</AM>
+<AM lemma="nad-1_:B" src="auto" recommended="1">RR--7---------8</AM></tag>
+<comment></comment>
 </m><m id="m106-d1t1454-6-sw3">
 <w.rf>
 <LM>w#w-d1t1454-6</LM>
 </w.rf>
-<form>rock</form>
+<form>´</form>
 <tag>
-<AM lemma="rock" src="auto">NNIS1-----A----</AM>
-<AM lemma="rock" src="auto">NNIS4-----A----</AM>
-<AM lemma="rock_^(rock'n'roll)" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="rock-77" src="manual" selected="1">F%-------------</AM>
-</tag>
-<comment><LM type="New Form"><text>´</text></LM></comment>
+<AM lemma="´" src="auto">X@-------------</AM></tag>
+<comment></comment>
 </m><m id="m106-d1t1454-6-sw4">
 <w.rf>
 <LM>w#w-d1t1454-6</LM>
 </w.rf>
-<form>rock</form>
+<form>rollové</form>
 <tag>
-<AM lemma="rock" src="auto">NNIS1-----A----</AM>
-<AM lemma="rock" src="auto">NNIS4-----A----</AM>
-<AM lemma="rock_^(rock'n'roll)" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="rock-77" src="manual" selected="1">F%-------------</AM>
-</tag>
-<comment><LM type="New Form"><text>rollové</text></LM></comment>
+<AM lemma="rollové" src="auto">X@-------------</AM></tag>
+<comment></comment>
 </m>
 <m id="m106-d1t1454-7">
 <w.rf>
@@ -897,54 +886,43 @@
 <LM>w#w-d1t1456-18</LM>
 </w.rf>
 <form_change>spell</form_change>
-<form>rock</form>
+<form>´</form>
 <tag>
-<AM lemma="rock" src="auto">NNIS4-----A----</AM>
-<AM lemma="rock_^(rock'n'roll)" src="auto">NNXXX-----A----</AM>
-<AM lemma="rock" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="rock-77" src="manual" selected="1">F%-------------</AM>
-</tag>
-<comment><LM type="New Form"><text>´</text></LM></comment>
+<AM lemma="´" src="auto">X@-------------</AM></tag>
+<comment></comment>
 </m><m id="m106-d1t1456-18-sw2">
 <w.rf>
 <LM>w#w-d1t1456-18</LM>
 </w.rf>
 <form_change>spell</form_change>
-<form>rock</form>
+<form>n</form>
 <tag>
-<AM lemma="rock" src="auto">NNIS4-----A----</AM>
-<AM lemma="rock_^(rock'n'roll)" src="auto">NNXXX-----A----</AM>
-<AM lemma="rock" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="rock-77" src="manual" selected="1">F%-------------</AM>
-</tag>
-<comment><LM type="New Form"><text>n</text></LM></comment>
+<AM lemma="můj_^(přivlast.)" src="auto">PSZS2-P1------8</AM>
+<AM lemma="můj_^(přivlast.)" src="auto">PSZS7-P1------8</AM>
+<AM lemma="n-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="n-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="n_^(n-tice)" src="auto">A2--------A----</AM>
+<AM lemma="nad-1_:B" src="auto" recommended="1">RR--7---------8</AM></tag>
+<comment></comment>
 </m><m id="m106-d1t1456-18-sw3">
 <w.rf>
 <LM>w#w-d1t1456-18</LM>
 </w.rf>
 <form_change>spell</form_change>
-<form>rock</form>
+<form>´</form>
 <tag>
-<AM lemma="rock" src="auto">NNIS4-----A----</AM>
-<AM lemma="rock_^(rock'n'roll)" src="auto">NNXXX-----A----</AM>
-<AM lemma="rock" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="rock-77" src="manual" selected="1">F%-------------</AM>
-</tag>
-<comment><LM type="New Form"><text>´</text></LM></comment>
+<AM lemma="´" src="auto">X@-------------</AM></tag>
+<comment></comment>
 </m><m id="m106-d1t1456-18-sw4">
 <w.rf>
 <LM>w#w-d1t1456-18</LM>
 </w.rf>
 <form_change>spell</form_change>
-<form>rock</form>
+<form>rollový</form>
 <tag>
-<AM lemma="rock" src="auto">NNIS4-----A----</AM>
-<AM lemma="rock_^(rock'n'roll)" src="auto">NNXXX-----A----</AM>
-<AM lemma="rock" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="rock-77" src="manual" selected="1">F%-------------</AM>
-</tag>
-<comment><LM type="New Form"><text>rollový</text></LM></comment>
-</m>
+<AM lemma="rollový" src="auto">X@-------------</AM></tag>
+<comment></comment>
+<form_change>spell</form_change></m>
 <m id="m106-d1t1456-19">
 <w.rf>
 <LM>w#w-d1t1456-19</LM>

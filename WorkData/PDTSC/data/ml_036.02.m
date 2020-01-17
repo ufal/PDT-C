@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"/>
+<schema href="mdata_36_schema.xml"></schema>
 <references>
-<reffile id="w" name="wdata" href="ml_036.02.w"/>
+<reffile id="w" name="wdata" href="ml_036.02.w"></reffile>
 </references>
 </head>
 <s id="m036-240">
@@ -1528,21 +1528,33 @@
 <w.rf>
 <LM>w#w-d1t608-2</LM>
 </w.rf>
-<form>vpozadí</form>
-<tag lemma="vpozadí" src="auto">X@-------------</tag>
+<form>v</form>
+<tag>
+<AM lemma="v-1" src="auto">RR--4----------</AM>
+<AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
+<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="versus_:B" src="auto">RR--1---------9</AM></tag>
 <comment>
-<LM type="New Form">
-<text>v</text>
-</LM>
 </comment>
 </m><m id="m036-d1t608-2-sw1">
 <w.rf>
 <LM>w#w-d1t608-2</LM>
 </w.rf>
-<form>vpozadí</form>
-<tag lemma="vpozadí" src="auto">X@-------------</tag>
-<comment><LM type="New Form"><text>pozadí</text></LM></comment>
-</m>
+<form>pozadí</form>
+<tag>
+<AM lemma="pozadí" src="auto">NNNP1-----A----</AM>
+<AM lemma="pozadí" src="auto">NNNP2-----A----</AM>
+<AM lemma="pozadí" src="auto">NNNP4-----A----</AM>
+<AM lemma="pozadí" src="auto">NNNP5-----A----</AM>
+<AM lemma="pozadí" src="auto">NNNS1-----A----</AM>
+<AM lemma="pozadí" src="auto">NNNS2-----A----</AM>
+<AM lemma="pozadí" src="auto">NNNS3-----A----</AM>
+<AM lemma="pozadí" src="auto">NNNS4-----A----</AM>
+<AM lemma="pozadí" src="auto">NNNS5-----A----</AM>
+<AM lemma="pozadí" src="auto" recommended="1">NNNS6-----A----</AM></tag>
+<comment></comment>
+<form_change>spell</form_change></m>
 <m id="m036-d1t608-3">
 <w.rf>
 <LM>w#w-d1t608-3</LM>

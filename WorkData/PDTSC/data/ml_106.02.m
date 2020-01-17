@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"/>
+<schema href="mdata_36_schema.xml"></schema>
 <references>
-<reffile id="w" name="wdata" href="ml_106.02.w"/>
+<reffile id="w" name="wdata" href="ml_106.02.w"></reffile>
 </references>
 </head>
 <s id="m106-d1e428-x2">
@@ -1420,28 +1420,24 @@
 <LM>w#w-d1t502-16</LM>
 </w.rf>
 <form_change>spell</form_change>
-<form>F</form>
+<form>&amp;</form>
 <tag>
-<AM lemma="F-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="f-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="f-88_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="F-88_:B" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>&amp;</text></LM></comment>
+<AM lemma="&amp;amp;" src="auto" recommended="1">Z:-------------</AM></tag>
+<comment></comment>
 </m><m id="m106-d1t502-16-sw2">
 <w.rf>
 <LM>w#w-d1t502-16</LM>
 </w.rf>
 <form_change>spell</form_change>
-<form>F</form>
+<form>C</form>
 <tag>
-<AM lemma="F-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="f-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="f-88_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="F-88_:B" src="auto" recommended="1" selected="1">NNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>C</text></LM></comment>
-</m>
+<AM lemma="C-3`100" src="auto">C}-------------</AM>
+<AM lemma="C-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="Celsius" src="auto">NNMXX-----A---8</AM>
+<AM lemma="c-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="c-88_:B" src="auto" recommended="1">NNXXX-----A----</AM></tag>
+<comment></comment>
+<form_change>spell</form_change></m>
 <m id="m106-d1t504-1">
 <w.rf>
 <LM>w#w-d1t504-1</LM>

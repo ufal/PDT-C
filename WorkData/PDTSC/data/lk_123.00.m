@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"/>
+<schema href="mdata_36_schema.xml"></schema>
 <references>
-<reffile id="w" name="wdata" href="lk_123.00.w"/>
+<reffile id="w" name="wdata" href="lk_123.00.w"></reffile>
 </references>
 </head>
 <s id="m123-d1e12-x2">
@@ -2093,20 +2093,24 @@
 <w.rf>
 <LM>w#w-60-63</LM>
 </w.rf>
-<form>7m</form>
-<tag lemma="7m" src="auto">X@-------------</tag>
+<form>7</form>
+<tag>
+<AM lemma="7" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>7</text>
-</LM>
 </comment>
 </m><m id="m123-60-63-sw1">
 <w.rf>
 <LM>w#w-60-63</LM>
 </w.rf>
-<form>7m</form>
-<tag lemma="7m" src="auto">X@-------------</tag>
-<comment><LM type="New Form"><text>m</text></LM></comment>
+<form>m</form>
+<tag>
+<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="metr" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="metrový" src="auto">AAXXX----1A---8</AM>
+<AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="moře_:B" src="auto">NNNS7-----A---8</AM></tag>
+<comment></comment>
 </m>
 <m id="m123-d1t141-1">
 <w.rf>
@@ -2165,21 +2169,25 @@
 <w.rf>
 <LM>w#w-60-66</LM>
 </w.rf>
-<form>7,20m</form>
-<tag lemma="7,20m" src="auto">X@-------------</tag>
+<form>7.20</form>
+<tag>
+<AM lemma="7.20" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>7.20</text>
-</LM>
 </comment>
 </m><m id="m123-60-66-sw1">
 <w.rf>
 <LM>w#w-60-66</LM>
 </w.rf>
-<form>7,20m</form>
-<tag lemma="7,20m" src="auto">X@-------------</tag>
-<comment><LM type="New Form"><text>m</text></LM></comment>
-</m>
+<form>m</form>
+<tag>
+<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="metr" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="metrový" src="auto">AAXXX----1A---8</AM>
+<AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="moře_:B" src="auto">NNNS7-----A---8</AM></tag>
+<comment></comment>
+<form_change>spell</form_change></m>
 <m id="m123-60-67">
 <w.rf>
 <LM>w#w-60-67</LM>
@@ -3659,21 +3667,25 @@
 <w.rf>
 <LM>w#w-110-126</LM>
 </w.rf>
-<form>3,5m</form>
-<tag lemma="3,5m" src="auto">X@-------------</tag>
+<form>3.5</form>
+<tag>
+<AM lemma="3.5" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>3.5</text>
-</LM>
 </comment>
 </m><m id="m123-110-126-sw1">
 <w.rf>
 <LM>w#w-110-126</LM>
 </w.rf>
-<form>3,5m</form>
-<tag lemma="3,5m" src="auto">X@-------------</tag>
-<comment><LM type="New Form"><text>m</text></LM></comment>
-</m>
+<form>m</form>
+<tag>
+<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="metr" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="metrový" src="auto">AAXXX----1A---8</AM>
+<AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="moře_:B" src="auto">NNNS7-----A---8</AM></tag>
+<comment></comment>
+<form_change>spell</form_change></m>
 <m id="m123-d1t214-3">
 <w.rf>
 <LM>w#w-d1t214-3</LM>

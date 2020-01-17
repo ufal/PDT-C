@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"/>
+<schema href="mdata_36_schema.xml"></schema>
 <references>
-<reffile id="w" name="wdata" href="dk_132.04.w"/>
+<reffile id="w" name="wdata" href="dk_132.04.w"></reffile>
 </references>
 </head>
 <s id="m132-110">
@@ -1403,28 +1403,32 @@
 <w.rf>
 <LM>w#w-d1t1277-21</LM>
 </w.rf>
-<form>km/h</form>
-<tag lemma="km/h" src="auto">X@-------------</tag>
+<form>km</form>
+<tag>
+<AM lemma="kilometr" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="kilometrový" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>km</text>
-</LM>
 </comment>
 </m><m id="m132-d1t1277-21-sw1">
 <w.rf>
 <LM>w#w-d1t1277-21</LM>
 </w.rf>
-<form>km/h</form>
-<tag lemma="km/h" src="auto">X@-------------</tag>
-<comment><LM type="New Form"><text>/</text></LM></comment>
+<form>/</form>
+<tag>
+<AM lemma="/" src="auto" recommended="1">Z:-------------</AM></tag>
+<comment></comment>
 </m><m id="m132-d1t1277-21-sw2">
 <w.rf>
 <LM>w#w-d1t1277-21</LM>
 </w.rf>
-<form>km/h</form>
-<tag lemma="km/h" src="auto">X@-------------</tag>
-<comment><LM type="New Form"><text>h</text></LM></comment>
-</m>
+<form>h</form>
+<tag>
+<AM lemma="h-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="h-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="hodina" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="hodinový" src="auto">AAXXX----1A---8</AM></tag>
+<comment></comment>
+<form_change>spell</form_change></m>
 <m id="m132-d-m-d1e1272-x2-punct-punct">
 <w.rf>
 <LM>w#w-d-m-d1e1272-x2-punct-punct</LM>

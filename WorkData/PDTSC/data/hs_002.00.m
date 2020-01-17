@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"/>
+<schema href="mdata_36_schema.xml"></schema>
 <references>
-<reffile id="w" name="wdata" href="hs_002.00.w"/>
+<reffile id="w" name="wdata" href="hs_002.00.w"></reffile>
 </references>
 </head>
 <s id="m002-d1e12-x2">
@@ -1193,15 +1193,11 @@
 <LM>w#w-155-159</LM>
 </w.rf>
 <form_change>spell</form_change>
-<form>příbuzní</form>
+<form>?</form>
 <tag>
-<AM lemma="příbuzný-2_^(podobný)" src="auto">AAMP1----1A----</AM>
-<AM lemma="příbuzný-2_^(podobný)" src="auto">AAMP5----1A----</AM>
-<AM lemma="příbuzný-1_^(člen_rodiny)" src="auto">NNMP5-----A----</AM>
-<AM lemma="příbuzný-1_^(člen_rodiny)" src="auto" recommended="1" selected="1">NNMP1-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>?</text></LM></comment>
-</m>
+<AM lemma="?" src="auto" recommended="1">Z:-------------</AM></tag>
+<comment></comment>
+<form_change>spell</form_change></m>
 </s>
 <s id="m002-d1e59-x2">
 <m id="m002-d1t68-1">

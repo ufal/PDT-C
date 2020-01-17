@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"/>
+<schema href="mdata_36_schema.xml"></schema>
 <references>
-<reffile id="w" name="wdata" href="ak_100.05.w"/>
+<reffile id="w" name="wdata" href="ak_100.05.w"></reffile>
 </references>
 </head>
 <s id="m100-447">
@@ -1136,28 +1136,32 @@
 <w.rf>
 <LM>w#w-d1t1222-6</LM>
 </w.rf>
-<form>Je-li</form>
-<tag lemma="Je-li" src="auto">X@-------------</tag>
+<form>Je</form>
+<tag>
+<AM lemma="být" src="auto" recommended="1">VB-S---3P-AAI--</AM>
+<AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
+<AM lemma="on-1_^(oni/ono)" src="auto">PPXP4--3-------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Je</text>
-</LM>
 </comment>
 </m><m id="m100-d1t1222-6-sw1">
 <w.rf>
 <LM>w#w-d1t1222-6</LM>
 </w.rf>
-<form>Je-li</form>
-<tag lemma="Je-li" src="auto">X@-------------</tag>
-<comment><LM type="New Form"><text>-</text></LM></comment>
+<form>-</form>
+<tag>
+<AM lemma="-" src="auto" recommended="1">Z:-------------</AM></tag>
+<comment></comment>
 </m><m id="m100-d1t1222-6-sw2">
 <w.rf>
 <LM>w#w-d1t1222-6</LM>
 </w.rf>
-<form>Je-li</form>
-<tag lemma="Je-li" src="auto">X@-------------</tag>
-<comment><LM type="New Form"><text>li</text></LM></comment>
-</m>
+<form>li</form>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="auto" recommended="1">J,-------------</AM>
+<AM lemma="li-99_:B_;S" src="auto">NNXXX-----A----</AM></tag>
+<comment></comment>
+<form_change>spell</form_change></m>
 <m id="m100-d1t1222-7">
 <w.rf>
 <LM>w#w-d1t1222-7</LM>

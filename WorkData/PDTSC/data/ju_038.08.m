@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"/>
+<schema href="mdata_36_schema.xml"></schema>
 <references>
-<reffile id="w" name="wdata" href="ju_038.08.w"/>
+<reffile id="w" name="wdata" href="ju_038.08.w"></reffile>
 </references>
 </head>
 <s id="m038-d1e2484-x2">
@@ -960,21 +960,25 @@
 <w.rf>
 <LM>w#w-d1t2572-5</LM>
 </w.rf>
-<form>dvatisíce</form>
-<tag lemma="dvatisíce" src="auto">X@-------------</tag>
+<form>dva</form>
+<tag>
+<AM lemma="dva`2" src="auto" recommended="1">ClYP1----------</AM>
+<AM lemma="dva`2" src="auto">ClYP4----------</AM>
+<AM lemma="dva`2" src="auto">ClYP5----------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>dva</text>
-</LM>
 </comment>
 </m><m id="m038-d1t2572-5-sw1">
 <w.rf>
 <LM>w#w-d1t2572-5</LM>
 </w.rf>
-<form>dvatisíce</form>
-<tag lemma="dvatisíce" src="auto">X@-------------</tag>
-<comment><LM type="New Form"><text>tisíce</text></LM></comment>
-</m>
+<form>tisíce</form>
+<tag>
+<AM lemma="tisíc-2`1000" src="auto" recommended="1">NNIP1-----A----</AM>
+<AM lemma="tisíc-2`1000" src="auto">NNIP4-----A----</AM>
+<AM lemma="tisíc-2`1000" src="auto">NNIP5-----A----</AM>
+<AM lemma="tisíc-2`1000" src="auto">NNIS2-----A----</AM></tag>
+<comment></comment>
+<form_change>spell</form_change></m>
 <m id="m038-d1t2572-6">
 <w.rf>
 <LM>w#w-d1t2572-6</LM>

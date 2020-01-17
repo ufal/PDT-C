@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"/>
+<schema href="mdata_36_schema.xml"></schema>
 <references>
-<reffile id="w" name="wdata" href="ak_065.12.w"/>
+<reffile id="w" name="wdata" href="ak_065.12.w"></reffile>
 </references>
 </head>
 <s id="m065-171">
@@ -2914,26 +2914,21 @@
 <LM>w#w-d1t3619-3</LM>
 </w.rf>
 <form_change>spell</form_change>
-<form>au</form>
+<form>-</form>
 <tag>
-<AM lemma="au_^(au-pair)" src="auto">A2--------A----</AM>
-<AM lemma="au" src="auto" recommended="1">II-------------</AM>
-<AM lemma="au-2_^(au-pair)" src="manual" selected="1">S2--------A----</AM>
-</tag>
-<comment><LM type="New Form"><text>-</text></LM></comment>
+<AM lemma="-" src="auto" recommended="1">Z:-------------</AM></tag>
+<comment></comment>
 </m><m id="m065-d1t3619-3-sw2">
 <w.rf>
 <LM>w#w-d1t3619-3</LM>
 </w.rf>
 <form_change>spell</form_change>
-<form>au</form>
+<form>pair</form>
 <tag>
-<AM lemma="au_^(au-pair)" src="auto">A2--------A----</AM>
-<AM lemma="au" src="auto" recommended="1">II-------------</AM>
-<AM lemma="au-2_^(au-pair)" src="manual" selected="1">S2--------A----</AM>
-</tag>
-<comment><LM type="New Form"><text>pair</text></LM></comment>
-</m>
+<AM lemma="pair" src="auto">NNMS1-----A----</AM>
+<AM lemma="pair-2_^(au-pair)" src="auto" recommended="1">NNFXX-----A----</AM></tag>
+<comment></comment>
+<form_change>spell</form_change></m>
 <m id="m065-d1t3622-3">
 <w.rf>
 <LM>w#w-d1t3622-3</LM>

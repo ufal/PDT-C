@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"/>
+<schema href="mdata_36_schema.xml"></schema>
 <references>
-<reffile id="w" name="wdata" href="jg_019.03.w"/>
+<reffile id="w" name="wdata" href="jg_019.03.w"></reffile>
 </references>
 </head>
 <s id="m019-d1e1053-x2">
@@ -1402,14 +1402,13 @@
 <w.rf>
 <LM>w#w-d1t1154-3</LM>
 </w.rf>
-<form>leva</form>
-<tag lemma="leva_;b_^(bulh._měna)" src="auto" recommended="1">NNNXX-----A----</tag>
+<form>Odleva</form>
+<tag>
+<AM lemma="odleva-1" src="auto">NNFS1-----A----</AM>
+<AM lemma="odleva-2" src="auto" recommended="1">Db-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Odleva</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m019-d1t1154-4">
 <w.rf>
 <LM>w#w-d1t1154-4</LM>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"/>
+<schema href="mdata_36_schema.xml"></schema>
 <references>
-<reffile id="w" name="wdata" href="lk_123.01.w"/>
+<reffile id="w" name="wdata" href="lk_123.01.w"></reffile>
 </references>
 </head>
 <s id="m123-311">
@@ -319,21 +319,25 @@
 <w.rf>
 <LM>w#w-313-321</LM>
 </w.rf>
-<form>5,5m</form>
-<tag lemma="5,5m" src="auto">X@-------------</tag>
+<form>5.5</form>
+<tag>
+<AM lemma="5.5" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>5.5</text>
-</LM>
 </comment>
 </m><m id="m123-313-321-sw1">
 <w.rf>
 <LM>w#w-313-321</LM>
 </w.rf>
-<form>5,5m</form>
-<tag lemma="5,5m" src="auto">X@-------------</tag>
-<comment><LM type="New Form"><text>m</text></LM></comment>
-</m>
+<form>m</form>
+<tag>
+<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="metr" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="metrový" src="auto">AAXXX----1A---8</AM>
+<AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="moře_:B" src="auto">NNNS7-----A---8</AM></tag>
+<comment></comment>
+<form_change>spell</form_change></m>
 <m id="m123-313-322">
 <w.rf>
 <LM>w#w-313-322</LM>
@@ -1432,7 +1436,7 @@
 <tag>
 <AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto" recommended="1">VpNS---XR-AA---</AM>
 <AM lemma="stát-5_^(sníh)" src="auto">VpNS---XR-AA---</AM>
-<AM lemma="stát-3_^(stojím_stojíš)" src="manual"/>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual"></AM>
 <AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VpNS---XR-AA---</AM>
 </tag>
 </m>
