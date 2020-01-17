@@ -6,7 +6,7 @@
 <reffile id="w" name="wdata" href="hg_783.06.w" />
 </references>
 </head>
-<s id="m-27638_03-d1e2297-x4">
+<s id="m783-27638_03-d1e2297-x4">
 <m id="m783-d1t2315-1">
 <w.rf>
 <LM>w#w-d1t2315-1</LM>
@@ -59,7 +59,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-27638_03-d1e2318-x2">
+<s id="m783-27638_03-d1e2318-x2">
 <m id="m783-d1t2323-1">
 <w.rf>
 <LM>w#w-d1t2323-1</LM>

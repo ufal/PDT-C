@@ -9,7 +9,7 @@
 </head>
 <trees>
 <LM id="ps_003.08-SCzechA-ps_003-11880-root">
-<s.rf>m#m-11880</s.rf>
+<s.rf>m#m003-11880</s.rf>
 <ord>0</ord>
 <children>
 <LM id="ps_003.08-SCzechA-m-d1t2523-1">
@@ -47,7 +47,7 @@
 </children>
 </LM>
 <LM id="ps_003.08-SCzechA-ps_003-d1e2524-x2-root">
-<s.rf>m#m-d1e2524-x2</s.rf>
+<s.rf>m#m003-d1e2524-x2</s.rf>
 <ord>0</ord>
 <children>
 <LM id="ps_003.08-SCzechA-m-d1t2527-1">
@@ -63,7 +63,7 @@
 </children>
 </LM>
 <LM id="ps_003.08-SCzechA-ps_003-d1e2528-x2-root">
-<s.rf>m#m-d1e2528-x2</s.rf>
+<s.rf>m#m003-d1e2528-x2</s.rf>
 <ord>0</ord>
 <children>
 <LM id="ps_003.08-SCzechA-m-d-id136540-punct">
@@ -115,7 +115,7 @@
 </children>
 </LM>
 <LM id="ps_003.08-SCzechA-ps_003-d1e2532-x2-root">
-<s.rf>m#m-d1e2532-x2</s.rf>
+<s.rf>m#m003-d1e2532-x2</s.rf>
 <ord>0</ord>
 <children>
 <LM id="ps_003.08-SCzechA-m-d1t2539-3">
@@ -143,7 +143,7 @@
 </children>
 </LM>
 <LM id="ps_003.08-SCzechA-ps_003-d1e2532-x3-root">
-<s.rf>m#m-d1e2532-x3</s.rf>
+<s.rf>m#m003-d1e2532-x3</s.rf>
 <ord>0</ord>
 <children>
 <LM id="ps_003.08-SCzechA-m-d1t2541-1">
@@ -159,7 +159,7 @@
 </children>
 </LM>
 <LM id="ps_003.08-SCzechA-ps_003-d1e2542-x2-root">
-<s.rf>m#m-d1e2542-x2</s.rf>
+<s.rf>m#m003-d1e2542-x2</s.rf>
 <ord>0</ord>
 <children>
 <LM id="ps_003.08-SCzechA-m-d1t2545-1">

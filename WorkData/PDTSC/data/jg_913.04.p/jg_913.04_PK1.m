@@ -6,7 +6,7 @@
 <reffile id="w" name="wdata" href="../jg_913.04.w" />
 </references>
 </head>
-<s id="m-12941_03-4719">
+<s id="m913-12941_03-4719">
 <m id="m913-d1t1271-2">
 <w.rf>
 <LM>w#w-d1t1271-2</LM>
@@ -112,7 +112,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-12941_03-898">
+<s id="m913-12941_03-898">
 <m id="m913-d1t1271-11">
 <w.rf>
 <LM>w#w-d1t1271-11</LM>
@@ -227,7 +227,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-12941_03-d1e1264-x3">
+<s id="m913-12941_03-d1e1264-x3">
 <m id="m913-d1t1275-1">
 <w.rf>
 <LM>w#w-d1t1275-1</LM>

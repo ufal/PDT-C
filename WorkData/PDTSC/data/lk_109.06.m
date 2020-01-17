@@ -6,7 +6,7 @@
 <reffile id="w" name="wdata" href="lk_109.06.w" />
 </references>
 </head>
-<s id="m-d1e983-x2">
+<s id="m109-d1e983-x2">
 <m id="m109-d1t986-1">
 <w.rf>
 <LM>w#w-d1t986-1</LM>
@@ -22,7 +22,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-694">
+<s id="m109-694">
 <m id="m109-d1t988-1">
 <w.rf>
 <LM>w#w-d1t988-1</LM>
@@ -80,7 +80,7 @@
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-d1e989-x2">
+<s id="m109-d1e989-x2">
 <m id="m109-d1t994-2">
 <w.rf>
 <LM>w#w-d1t994-2</LM>
@@ -164,7 +164,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-706">
+<s id="m109-706">
 <m id="m109-d1t996-1">
 <w.rf>
 <LM>w#w-d1t996-1</LM>
@@ -346,7 +346,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-708">
+<s id="m109-708">
 <m id="m109-d1t998-3">
 <w.rf>
 <LM>w#w-d1t998-3</LM>
@@ -429,7 +429,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-710">
+<s id="m109-710">
 <m id="m109-d1t1000-2">
 <w.rf>
 <LM>w#w-d1t1000-2</LM>
@@ -520,7 +520,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-713">
+<s id="m109-713">
 <m id="m109-d1t1000-15">
 <w.rf>
 <LM>w#w-d1t1000-15</LM>
@@ -581,7 +581,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-715">
+<s id="m109-715">
 <m id="m109-d1t1000-21">
 <w.rf>
 <LM>w#w-d1t1000-21</LM>
@@ -833,7 +833,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-730">
+<s id="m109-730">
 <m id="m109-d1t1000-46">
 <w.rf>
 <LM>w#w-d1t1000-46</LM>
@@ -888,7 +888,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-d1e1001-x2">
+<s id="m109-d1e1001-x2">
 <m id="m109-d1t1004-1">
 <w.rf>
 <LM>w#w-d1t1004-1</LM>
@@ -940,7 +940,7 @@
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-d1e1005-x2">
+<s id="m109-d1e1005-x2">
 <m id="m109-d1t1008-1">
 <w.rf>
 <LM>w#w-d1t1008-1</LM>
@@ -981,7 +981,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-747">
+<s id="m109-747">
 <m id="m109-d1t1010-2">
 <w.rf>
 <LM>w#w-d1t1010-2</LM>
@@ -1056,7 +1056,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-739">
+<s id="m109-739">
 <m id="m109-d1t1014-1">
 <w.rf>
 <LM>w#w-d1t1014-1</LM>
@@ -1234,7 +1234,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-743">
+<s id="m109-743">
 <m id="m109-d1t1021-1">
 <w.rf>
 <LM>w#w-d1t1021-1</LM>
@@ -1313,7 +1313,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-753">
+<s id="m109-753">
 <m id="m109-d1t1025-2">
 <w.rf>
 <LM>w#w-d1t1025-2</LM>
@@ -1402,7 +1402,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-740">
+<s id="m109-740">
 <m id="m109-d1t1025-15">
 <w.rf>
 <LM>w#w-d1t1025-15</LM>
@@ -1613,7 +1613,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-d1e1036-x2">
+<s id="m109-d1e1036-x2">
 <m id="m109-d1t1039-1">
 <w.rf>
 <LM>w#w-d1t1039-1</LM>
@@ -1651,7 +1651,7 @@
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-d1e1040-x2">
+<s id="m109-d1e1040-x2">
 <m id="m109-d1t1043-1">
 <w.rf>
 <LM>w#w-d1t1043-1</LM>
@@ -1803,7 +1803,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-d1e1048-x2">
+<s id="m109-d1e1048-x2">
 <m id="m109-d1t1051-2">
 <w.rf>
 <LM>w#w-d1t1051-2</LM>
@@ -1869,7 +1869,7 @@
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-d1e1052-x2">
+<s id="m109-d1e1052-x2">
 <m id="m109-d1t1055-3">
 <w.rf>
 <LM>w#w-d1t1055-3</LM>
@@ -1938,7 +1938,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-d1e1062-x2">
+<s id="m109-d1e1062-x2">
 <m id="m109-d1t1065-2">
 <w.rf>
 <LM>w#w-d1t1065-2</LM>
@@ -1986,7 +1986,7 @@
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-d1e1066-x2">
+<s id="m109-d1e1066-x2">
 <m id="m109-d1t1071-1">
 <w.rf>
 <LM>w#w-d1t1071-1</LM>
@@ -2085,7 +2085,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-d1e1072-x2">
+<s id="m109-d1e1072-x2">
 <m id="m109-d1t1075-1">
 <w.rf>
 <LM>w#w-d1t1075-1</LM>
@@ -2101,7 +2101,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-769">
+<s id="m109-769">
 <m id="m109-d1t1077-2">
 <w.rf>
 <LM>w#w-d1t1077-2</LM>
@@ -2147,7 +2147,7 @@
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-d1e1078-x2">
+<s id="m109-d1e1078-x2">
 <m id="m109-d1t1081-3">
 <w.rf>
 <LM>w#w-d1t1081-3</LM>
@@ -2222,7 +2222,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-777">
+<s id="m109-777">
 <m id="m109-d1t1083-1">
 <w.rf>
 <LM>w#w-d1t1083-1</LM>
@@ -2329,7 +2329,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-779">
+<s id="m109-779">
 <m id="m109-d1t1087-1">
 <w.rf>
 <LM>w#w-d1t1087-1</LM>
@@ -2598,7 +2598,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-781">
+<s id="m109-781">
 <m id="m109-d1t1092-1">
 <w.rf>
 <LM>w#w-d1t1092-1</LM>
@@ -2685,7 +2685,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-783">
+<s id="m109-783">
 <m id="m109-d1t1092-11">
 <w.rf>
 <LM>w#w-d1t1092-11</LM>
@@ -2733,7 +2733,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-786">
+<s id="m109-786">
 <m id="m109-d1t1094-1">
 <w.rf>
 <LM>w#w-d1t1094-1</LM>
@@ -2815,7 +2815,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-788">
+<s id="m109-788">
 <m id="m109-d1t1094-10">
 <w.rf>
 <LM>w#w-d1t1094-10</LM>
@@ -2910,7 +2910,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-790">
+<s id="m109-790">
 <m id="m109-d1t1096-3">
 <w.rf>
 <LM>w#w-d1t1096-3</LM>
@@ -3064,7 +3064,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-803">
+<s id="m109-803">
 <m id="m109-d1t1098-1">
 <w.rf>
 <LM>w#w-d1t1098-1</LM>
@@ -3207,7 +3207,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-805">
+<s id="m109-805">
 <m id="m109-d1t1100-15">
 <w.rf>
 <LM>w#w-d1t1100-15</LM>
@@ -3306,7 +3306,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-807">
+<s id="m109-807">
 <m id="m109-d1t1105-2">
 <w.rf>
 <LM>w#w-d1t1105-2</LM>
@@ -3416,7 +3416,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-780">
+<s id="m109-780">
 <m id="m109-d1t1109-4">
 <w.rf>
 <LM>w#w-d1t1109-4</LM>
@@ -3559,7 +3559,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-809">
+<s id="m109-809">
 <m id="m109-d1t1111-1">
 <w.rf>
 <LM>w#w-d1t1111-1</LM>
@@ -3679,7 +3679,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-830">
+<s id="m109-830">
 <m id="m109-d1t1115-2">
 <w.rf>
 <LM>w#w-d1t1115-2</LM>
@@ -3915,7 +3915,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-792">
+<s id="m109-792">
 <m id="m109-d1t1115-22">
 <w.rf>
 <LM>w#w-d1t1115-22</LM>
@@ -4104,7 +4104,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-846">
+<s id="m109-846">
 <m id="m109-d1t1118-5">
 <w.rf>
 <LM>w#w-d1t1118-5</LM>
@@ -4160,7 +4160,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-848">
+<s id="m109-848">
 <m id="m109-d1t1120-2">
 <w.rf>
 <LM>w#w-d1t1120-2</LM>
@@ -4211,7 +4211,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-850">
+<s id="m109-850">
 <m id="m109-d1t1120-11">
 <w.rf>
 <LM>w#w-d1t1120-11</LM>
@@ -4338,7 +4338,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-869">
+<s id="m109-869">
 <m id="m109-d1t1120-21">
 <w.rf>
 <LM>w#w-d1t1120-21</LM>
@@ -4567,7 +4567,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-871">
+<s id="m109-871">
 <m id="m109-d1t1122-11">
 <w.rf>
 <LM>w#w-d1t1122-11</LM>
@@ -4613,7 +4613,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-873">
+<s id="m109-873">
 <m id="m109-d1t1124-2">
 <w.rf>
 <LM>w#w-d1t1124-2</LM>
@@ -4748,7 +4748,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-d1e1125-x2">
+<s id="m109-d1e1125-x2">
 <m id="m109-d1t1128-1">
 <w.rf>
 <LM>w#w-d1t1128-1</LM>
@@ -4792,7 +4792,7 @@
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-d1e1129-x2">
+<s id="m109-d1e1129-x2">
 <m id="m109-d1t1132-1">
 <w.rf>
 <LM>w#w-d1t1132-1</LM>
@@ -4837,7 +4837,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-887">
+<s id="m109-887">
 <m id="m109-d1t1132-6">
 <w.rf>
 <LM>w#w-d1t1132-6</LM>
@@ -5039,7 +5039,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-889">
+<s id="m109-889">
 <m id="m109-d1t1132-30">
 <w.rf>
 <LM>w#w-d1t1132-30</LM>
@@ -5092,7 +5092,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-891">
+<s id="m109-891">
 <m id="m109-d1t1132-35">
 <w.rf>
 <LM>w#w-d1t1132-35</LM>

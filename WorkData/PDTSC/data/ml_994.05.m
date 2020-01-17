@@ -6,7 +6,7 @@
 <reffile id="w" name="wdata" href="ml_994.05.w" />
 </references>
 </head>
-<s id="m-25819_04-1938">
+<s id="m994-25819_04-1938">
 <m id="m994-d1t1646-1">
 <w.rf>
 <LM>w#w-d1t1646-1</LM>
@@ -54,7 +54,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-25819_04-1948">
+<s id="m994-25819_04-1948">
 <m id="m994-1948-1951">
 <w.rf>
 <LM>w#w-1948-1951</LM>

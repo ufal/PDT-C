@@ -6,7 +6,7 @@
 <reffile id="w" name="wdata" href="lk_713.06.w" />
 </references>
 </head>
-<s id="m-26171_03-id61485-x62">
+<s id="m713-26171_03-id61485-x62">
 <m id="m713-id63421-3">
 <w.rf>
 <LM>w#w-id63421-3</LM>
@@ -145,7 +145,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-26171_03-4185">
+<s id="m713-26171_03-4185">
 <m id="m713-id63431-13">
 <w.rf>
 <LM>w#w-id63431-13</LM>
@@ -316,7 +316,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-26171_03-4410">
+<s id="m713-26171_03-4410">
 <m id="m713-id63442-2">
 <w.rf>
 <LM>w#w-id63442-2</LM>
@@ -513,7 +513,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-26171_03-id61485-x63">
+<s id="m713-26171_03-id61485-x63">
 <m id="m713-id63467-3">
 <w.rf>
 <LM>w#w-id63467-3</LM>
@@ -647,7 +647,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-26171_03-id61485-x64">
+<s id="m713-26171_03-id61485-x64">
 <m id="m713-id63500-1">
 <w.rf>
 <LM>w#w-id63500-1</LM>
@@ -697,7 +697,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-26171_03-4515">
+<s id="m713-26171_03-4515">
 <m id="m713-id63500-9">
 <w.rf>
 <LM>w#w-id63500-9</LM>

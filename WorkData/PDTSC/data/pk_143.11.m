@@ -6,7 +6,7 @@
 <reffile id="w" name="wdata" href="pk_143.11.w" />
 </references>
 </head>
-<s id="m-2580">
+<s id="m143-2580">
 <m id="m143-d1t3023-8">
 <w.rf>
 <LM>w#w-d1t3023-8</LM>
@@ -62,7 +62,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-d1e3026-x2">
+<s id="m143-d1e3026-x2">
 <m id="m143-d1e3026-x2-2589">
 <w.rf>
 <LM>w#w-d1e3026-x2-2589</LM>
@@ -95,7 +95,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-d1e3026-x3">
+<s id="m143-d1e3026-x3">
 <m id="m143-d1e3026-x3-2588">
 <w.rf>
 <LM>w#w-d1e3026-x3-2588</LM>

@@ -6,7 +6,7 @@
 <reffile id="w" name="wdata" href="hg_951.04.w" />
 </references>
 </head>
-<s id="m-28105_01-2446">
+<s id="m951-28105_01-2446">
 <m id="m951-d1t1767-1">
 <w.rf>
 <LM>w#w-d1t1767-1</LM>
@@ -226,7 +226,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-28105_01-d1e1779-x2">
+<s id="m951-28105_01-d1e1779-x2">
 <m id="m951-d1t1784-1">
 <w.rf>
 <LM>w#w-d1t1784-1</LM>
@@ -309,7 +309,7 @@
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-28105_01-d1e1779-x3">
+<s id="m951-28105_01-d1e1779-x3">
 <m id="m951-d1t1786-1">
 <w.rf>
 <LM>w#w-d1t1786-1</LM>
@@ -335,7 +335,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-28105_01-2455">
+<s id="m951-28105_01-2455">
 <m id="m951-d1t1786-5">
 <w.rf>
 <LM>w#w-d1t1786-5</LM>
@@ -544,7 +544,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-28105_01-d1e1787-x3">
+<s id="m951-28105_01-d1e1787-x3">
 <m id="m951-d1t1801-8">
 <w.rf>
 <LM>w#w-d1t1801-8</LM>
@@ -625,7 +625,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-28105_01-d1e1804-x2">
+<s id="m951-28105_01-d1e1804-x2">
 <m id="m951-d1t1807-1">
 <w.rf>
 <LM>w#w-d1t1807-1</LM>

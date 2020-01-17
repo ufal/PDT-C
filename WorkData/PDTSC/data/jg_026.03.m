@@ -6,7 +6,7 @@
 <reffile id="w" name="wdata" href="jg_026.03.w" />
 </references>
 </head>
-<s id="m-d1e1044-x2">
+<s id="m026-d1e1044-x2">
 <m id="m026-d1t1047-1">
 <w.rf>
 <LM>w#w-d1t1047-1</LM>
@@ -53,7 +53,7 @@
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-d1e1048-x2">
+<s id="m026-d1e1048-x2">
 <m id="m026-d1t1051-1">
 <w.rf>
 <LM>w#w-d1t1051-1</LM>
@@ -103,7 +103,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-213">
+<s id="m026-213">
 <m id="m026-d1t1051-5">
 <w.rf>
 <LM>w#w-d1t1051-5</LM>
@@ -201,7 +201,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-217">
+<s id="m026-217">
 <m id="m026-d1t1053-2">
 <w.rf>
 <LM>w#w-d1t1053-2</LM>
@@ -397,7 +397,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-d1e1054-x2">
+<s id="m026-d1e1054-x2">
 <m id="m026-d1t1059-3">
 <w.rf>
 <LM>w#w-d1t1059-3</LM>
@@ -448,7 +448,7 @@
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-221">
+<s id="m026-221">
 <m id="m026-d1t1059-8">
 <w.rf>
 <LM>w#w-d1t1059-8</LM>
@@ -513,7 +513,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-d1e1054-x3">
+<s id="m026-d1e1054-x3">
 <m id="m026-d1t1061-3">
 <w.rf>
 <LM>w#w-d1t1061-3</LM>
@@ -565,7 +565,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-d1e1062-x2">
+<s id="m026-d1e1062-x2">
 <m id="m026-d1t1065-1">
 <w.rf>
 <LM>w#w-d1t1065-1</LM>

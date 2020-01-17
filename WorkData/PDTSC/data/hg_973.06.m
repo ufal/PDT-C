@@ -6,7 +6,7 @@
 <reffile id="w" name="wdata" href="hg_973.06.w" />
 </references>
 </head>
-<s id="m-26797_03-909">
+<s id="m973-26797_03-909">
 <m id="m973-id66329-3">
 <w.rf>
 <LM>w#w-id66329-3</LM>
@@ -117,7 +117,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-26797_03-911">
+<s id="m973-26797_03-911">
 <m id="m973-id66357-4">
 <w.rf>
 <LM>w#w-id66357-4</LM>
@@ -224,7 +224,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-26797_03-4600">
+<s id="m973-26797_03-4600">
 <m id="m973-id66381-2">
 <w.rf>
 <LM>w#w-id66381-2</LM>
@@ -378,7 +378,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-26797_03-915">
+<s id="m973-26797_03-915">
 <m id="m973-id66419-2">
 <w.rf>
 <LM>w#w-id66419-2</LM>
@@ -643,7 +643,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-26797_03-id66437-x1">
+<s id="m973-26797_03-id66437-x1">
 <m id="m973-id66453-1">
 <w.rf>
 <LM>w#w-id66453-1</LM>

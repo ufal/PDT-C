@@ -6,7 +6,7 @@
 <reffile id="w" name="wdata" href="jg_774.03.w" />
 </references>
 </head>
-<s id="m-26127_04-d1e948-x2">
+<s id="m774-26127_04-d1e948-x2">
 <m id="m774-d1t951-1">
 <w.rf>
 <LM>w#w-d1t951-1</LM>
@@ -26,7 +26,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-26127_04-d1e955-x2">
+<s id="m774-26127_04-d1e955-x2">
 <m id="m774-d1t964-2">
 <w.rf>
 <LM>w#w-d1t964-2</LM>
@@ -162,7 +162,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-26127_04-5532">
+<s id="m774-26127_04-5532">
 <m id="m774-d1t969-7">
 <w.rf>
 <LM>w#w-d1t969-7</LM>

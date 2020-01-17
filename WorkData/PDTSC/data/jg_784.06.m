@@ -6,7 +6,7 @@
 <reffile id="w" name="wdata" href="jg_784.06.w" />
 </references>
 </head>
-<s id="m-27638_04-d1e2087-x2">
+<s id="m784-27638_04-d1e2087-x2">
 <m id="m784-d1t2090-2">
 <w.rf>
 <LM>w#w-d1t2090-2</LM>
@@ -161,7 +161,7 @@
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-27638_04-d1e2092-x2">
+<s id="m784-27638_04-d1e2092-x2">
 <m id="m784-d1t2099-1">
 <w.rf>
 <LM>w#w-d1t2099-1</LM>
@@ -276,7 +276,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-27638_04-1673">
+<s id="m784-27638_04-1673">
 <m id="m784-d1t2101-2">
 <w.rf>
 <LM>w#w-d1t2101-2</LM>
@@ -493,7 +493,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-27638_04-d1e2102-x2">
+<s id="m784-27638_04-d1e2102-x2">
 <m id="m784-d1t2107-1">
 <w.rf>
 <LM>w#w-d1t2107-1</LM>
@@ -593,7 +593,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-27638_04-d1e2112-x2">
+<s id="m784-27638_04-d1e2112-x2">
 <m id="m784-d1t2119-1">
 <w.rf>
 <LM>w#w-d1t2119-1</LM>
@@ -781,7 +781,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-27638_04-1677">
+<s id="m784-27638_04-1677">
 <m id="m784-d1t2128-3">
 <w.rf>
 <LM>w#w-d1t2128-3</LM>

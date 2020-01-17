@@ -6,7 +6,7 @@
 <reffile id="w" name="wdata" href="ak_115.15.w" />
 </references>
 </head>
-<s id="m-d1e2257-x2">
+<s id="m115-d1e2257-x2">
 <m id="m115-d1t2260-1">
 <w.rf>
 <LM>w#w-d1t2260-1</LM>
@@ -39,7 +39,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-d1e2261-x2">
+<s id="m115-d1e2261-x2">
 <m id="m115-d1t2264-1">
 <w.rf>
 <LM>w#w-d1t2264-1</LM>

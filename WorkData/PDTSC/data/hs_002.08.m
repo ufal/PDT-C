@@ -6,7 +6,7 @@
 <reffile id="w" name="wdata" href="hs_002.08.w" />
 </references>
 </head>
-<s id="m-d1e2348-x2">
+<s id="m002-d1e2348-x2">
 <m id="m002-d1t2351-2">
 <w.rf>
 <LM>w#w-d1t2351-2</LM>
@@ -137,7 +137,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-d1e2354-x2">
+<s id="m002-d1e2354-x2">
 <m id="m002-d1t2359-1">
 <w.rf>
 <LM>w#w-d1t2359-1</LM>
@@ -156,7 +156,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-d1e2354-x3">
+<s id="m002-d1e2354-x3">
 <m id="m002-d1e2354-x3-2430">
 <w.rf>
 <LM>w#w-d1e2354-x3-2430</LM>
@@ -189,7 +189,7 @@
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 </s>
-<s id="m-d1e2354-x4">
+<s id="m002-d1e2354-x4">
 <m id="m002-d1e2354-x4-2432">
 <w.rf>
 <LM>w#w-d1e2354-x4-2432</LM>
