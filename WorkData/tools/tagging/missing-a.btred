@@ -1,0 +1,45 @@
+#!btred -e missing_a()
+# -*- mode: cperl -*-
+use warnings;
+use strict;
+use feature qw{ say };
+
+our ($this, $root);
+
+use XML::LibXML;
+my $xpc = 'XML::LibXML::XPathContext'->new;
+$xpc->registerNs(p => 'http://ufal.mff.cuni.cz/pdt/pml/');
+
+
+sub missing_a {
+    my $mfile = CurrentFile()->metaData('references')->{'m'};
+    my $mdom = 'XML::LibXML'->load_xml(location => $mfile);
+    do {{
+        my @surplus = grep ! $_->attr('m/id'), $root->descendants;
+        for my $anode (@surplus) {
+            ChangingFile(1);
+            CutPaste($_, $root) for $anode->children;
+            DeleteLeafNode($anode);
+        }
+
+        my $s = $root->attr('s.rf');
+        my $sid = $s =~ s/^m#//r;
+        my ($ms) = $xpc->findnodes("//p:s[\@id='$sid']", $mdom);
+        my %mnodes = map +($_->{id}, $_), $xpc->findnodes('p:m', $ms);
+        my %anodes = map +($_->attr('m/id'), $_), $root->descendants;
+
+        my %missing_a = %mnodes;
+        delete @missing_a{ keys %anodes };
+
+        for my $missing (reverse sort keys %missing_a) {
+            ChangingFile(1);
+            my $brother = $anodes{ $missing =~ s/-sw\d+$//r };
+            my $new = NewRBrother($brother);
+            $new->set_attr('id', $missing =~ s/m/a/r);
+            $new->set_attr('m/id', "m#$missing");
+            $new->set_attr('afun', 'ExD');
+        }
+    }} while NextTree();
+}
+
+
