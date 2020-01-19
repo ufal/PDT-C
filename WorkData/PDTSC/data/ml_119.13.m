@@ -83,7 +83,10 @@
 <LM>w#w-d1t2552-42</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" recommended="1">Db-------------</tag>
+<tag>
+<AM lemma="dost" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="dost" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m119-d1t2552-43">
 <w.rf>
@@ -214,7 +217,10 @@
 <LM>w#w-d1t2562-7</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" recommended="1">Db-------------</tag>
+<tag>
+<AM lemma="dost" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="dost" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m119-d1e2557-x2-456">
 <w.rf>
@@ -376,7 +382,10 @@
 <LM>w#w-d1t2573-14</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" recommended="1">Db-------------</tag>
+<tag>
+<AM lemma="dost" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="dost" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m119-d1t2573-13">
 <w.rf>
@@ -590,7 +599,7 @@
 <AM lemma="napsaný_^(*2t)" src="auto">AANP4----1A---6</AM>
 <AM lemma="napsaný_^(*2t)" src="auto">AANP5----1A---6</AM>
 <AM lemma="napsaný_^(*2t)" src="auto">AANS1----1A----</AM>
-<AM lemma="napsaný_^(*2t)" src="auto">AANS4----1A----</AM>
+<AM lemma="napsaný_^(*2t)" src="auto" selected="1">AANS4----1A----</AM>
 <AM lemma="napsaný_^(*2t)" src="auto">AANS5----1A----</AM>
 </tag>
 </m>
@@ -1083,6 +1092,7 @@
 <tag>
 <AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto" recommended="1">VpNS---XR-AA---</AM>
 <AM lemma="stát-5_^(sníh)" src="auto">VpNS---XR-AA---</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VpNS---XR-AA---</AM>
 </tag>
 </m>
 <m id="m119-d-id182399-punct">
@@ -1315,7 +1325,7 @@
 <form>i</form>
 <tag>
 <AM lemma="i-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="i-2" src="auto">TT-------------</AM>
+<AM lemma="i-2" src="auto" selected="1">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
@@ -1367,7 +1377,7 @@
 </w.rf>
 <form>nás</form>
 <tag>
-<AM lemma="já" src="auto">PP-P2--1-------</AM>
+<AM lemma="já" src="auto" selected="1">PP-P2--1-------</AM>
 <AM lemma="já" src="auto" recommended="1">PP-P4--1-------</AM>
 <AM lemma="já" src="auto">PP-P6--1-------</AM>
 </tag>
@@ -2383,7 +2393,7 @@
 <form>tak</form>
 <tag>
 <AM lemma="taka-1_;L" src="auto">NNFP2-----A----</AM>
-<AM lemma="tak-1" src="auto">TT-------------</AM>
+<AM lemma="tak-1" src="auto" selected="1">TT-------------</AM>
 <AM lemma="tak-2" src="auto">J^-------------</AM>
 <AM lemma="tak-3" src="auto" recommended="1">Db-------------</AM>
 </tag>
@@ -2848,14 +2858,21 @@
 <LM>w#w-d1t2697-18</LM>
 </w.rf>
 <form>stojím</form>
-<tag lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto" recommended="1">VB-S---1P-AA---</tag>
+<tag>
+<AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto" recommended="1">VB-S---1P-AA---</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual">VB-S---1P-AA---</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VB-S---1P-AA---</AM>
+</tag>
 </m>
 <m id="m119-d1t2697-19">
 <w.rf>
 <LM>w#w-d1t2697-19</LM>
 </w.rf>
 <form>dost</form>
-<tag lemma="dost" src="auto" recommended="1">Db-------------</tag>
+<tag>
+<AM lemma="dost" src="auto" recommended="1">Db-------------</AM>
+<AM lemma="dost" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m119-d1t2697-16">
 <w.rf>
@@ -3139,7 +3156,7 @@
 <AM lemma="Bakalář_;S" src="auto">NNMS4-----A----</AM>
 <AM lemma="bakalář" src="auto">NNMP4-----A----</AM>
 <AM lemma="bakalář" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="bakalář" src="auto">NNMS4-----A----</AM>
+<AM lemma="bakalář" src="auto" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="m119-d1e2711-x2-617">
@@ -3193,6 +3210,8 @@
 <tag>
 <AM lemma="filosofický" src="auto" recommended="1">AAFS4----1A----</AM>
 <AM lemma="filosofický" src="auto">AAFS7----1A----</AM>
+<AM lemma="filosofický_,s_^(^DD**filozofický)" src="manual">AAFS4----1A----</AM>
+<AM lemma="filosofický_,s_^(^DD**filozofický)" src="manual" selected="1">AAFS4----1A----</AM>
 </tag>
 </m>
 <m id="m119-d1t2720-10">
