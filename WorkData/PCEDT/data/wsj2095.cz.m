@@ -113,7 +113,10 @@
 <LM>w#w-wsj2095-001-p1s0W5</LM>
 </w.rf>
 <form>BroadBeach</form>
-<tag lemma="BroadBeach" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="BroadBeach" src="auto">X@-------------</AM>
+<AM lemma="BroadBeach-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2095-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -121,7 +124,10 @@
 <LM>w#w-wsj2095-001-p1s0W6</LM>
 </w.rf>
 <form>Associates</form>
-<tag lemma="Associates" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Associates" src="auto">X@-------------</AM>
+<AM lemma="Associates-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2095-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -132,6 +138,7 @@
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2095-001-p1s0W8-Ta">
@@ -235,7 +242,10 @@
 <LM>w#w-wsj2095-001-p1s0W17</LM>
 </w.rf>
 <form>McGill</form>
-<tag lemma="McGill_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="McGill_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="McGill-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2095-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -243,7 +253,10 @@
 <LM>w#w-wsj2095-001-p1s0W18</LM>
 </w.rf>
 <form>Manufacturing</form>
-<tag lemma="Manufacturing" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="Manufacturing" src="auto">X@-------------</AM>
+<AM lemma="Manufacturing-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2095-001-p1s0W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -259,6 +272,7 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj2095-001-p1s0W20-Ta">
@@ -715,7 +729,10 @@
 <LM>w#w-wsj2095-001-p1s1W17</LM>
 </w.rf>
 <form>BroadBeach</form>
-<tag lemma="BroadBeach" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="BroadBeach" src="auto">X@-------------</AM>
+<AM lemma="BroadBeach_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2095-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1074,7 +1091,10 @@
 <LM>w#w-wsj2095-001-p1s2W29</LM>
 </w.rf>
 <form>SKF</form>
-<tag lemma="SKF" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="SKF" src="auto">X@-------------</AM>
+<AM lemma="SKF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2095-001-p1s2W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1134,7 +1154,7 @@
 </w.rf>
 <form>nedokončí</form>
 <tag>
-<AM lemma="dokončit" src="auto">VB-P---3P-NAP--</AM>
+<AM lemma="dokončit" src="auto" selected="1">VB-P---3P-NAP--</AM>
 <AM lemma="dokončit" src="auto" recommended="1">VB-S---3P-NAP--</AM>
 </tag>
 </m>
@@ -1319,7 +1339,10 @@
 <LM>w#w-wsj2095-001-p1s3W11</LM>
 </w.rf>
 <form>BroadBeach</form>
-<tag lemma="BroadBeach" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="BroadBeach" src="auto">X@-------------</AM>
+<AM lemma="BroadBeach_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2095-001-p1s3W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1547,7 +1570,10 @@
 <LM>w#w-wsj2095-001-p1s4W2</LM>
 </w.rf>
 <form>BroadBeach</form>
-<tag lemma="BroadBeach" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="BroadBeach" src="auto">X@-------------</AM>
+<AM lemma="BroadBeach_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2095-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1564,7 +1590,7 @@
 </w.rf>
 <form>kupce</form>
 <tag>
-<AM lemma="kupec" src="auto" recommended="1">NNMP4-----A----</AM>
+<AM lemma="kupec" src="auto" recommended="1" selected="1">NNMP4-----A----</AM>
 <AM lemma="kupec" src="auto">NNMS2-----A----</AM>
 <AM lemma="kupec" src="auto">NNMS4-----A----</AM>
 <AM lemma="kupka" src="auto">NNFS3-----A----</AM>
@@ -1835,7 +1861,10 @@
 <LM>w#w-wsj2095-001-p1s4W26</LM>
 </w.rf>
 <form>SKF</form>
-<tag lemma="SKF" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="SKF" src="auto">X@-------------</AM>
+<AM lemma="SKF-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2095-001-p1s4W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1956,7 +1985,10 @@
 <LM>w#w-wsj2095-001-p1s5W3</LM>
 </w.rf>
 <form>BroadBeach</form>
-<tag lemma="BroadBeach" src="auto">X@-------------</tag>
+<tag>
+<AM lemma="BroadBeach" src="auto">X@-------------</AM>
+<AM lemma="BroadBeach_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2095-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2097,7 +2129,7 @@
 </w.rf>
 <form>kupce</form>
 <tag>
-<AM lemma="kupec" src="auto">NNMP4-----A----</AM>
+<AM lemma="kupec" src="auto" selected="1">NNMP4-----A----</AM>
 <AM lemma="kupec" src="auto">NNMS2-----A----</AM>
 <AM lemma="kupec" src="auto" recommended="1">NNMS4-----A----</AM>
 <AM lemma="kupka" src="auto">NNFS3-----A----</AM>

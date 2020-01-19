@@ -1,12 +1,12 @@
 # -*- mode: org -*-
 
-* Duplicates [3/4]
+* Duplicates [4/4]
 
 Randomly select one file in *.p/ and move it to the main dir.
 
 - [X] PDTSC
 - [X] PDT
-- [ ] PCEDT
+- [X] PCEDT
 - [X] Faust
 
 * Anotovatko PDT
