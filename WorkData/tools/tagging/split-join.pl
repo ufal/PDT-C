@@ -20,6 +20,7 @@ sub join_nodes {
 
     my ($prev_m) = $xpc->findnodes('preceding-sibling::p:m[1]', $m);
     print $prev_m->{id}, "\n";
+    print $m->{id}, "\n";
     $prev_m->parentNode->removeChild($prev_m);
     $m->parentNode->removeChild(
         $m->findnodes('preceding-sibling::text()[1]'));
