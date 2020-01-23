@@ -4,7 +4,7 @@
 <schema href="tanot_coref_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ml_053.01.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -1860,7 +1860,7 @@
 <nodetype>coap</nodetype>
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
-<deepord>9</deepord>
+<deepord>10</deepord>
 <children>
 <LM id="ml_053.01-SCzechT-m-d1t361-8">
 <a>
@@ -1886,7 +1886,7 @@
 <person>1</person>
 <negation>neg0</negation>
 </gram>
-<deepord>3</deepord>
+<deepord>4</deepord>
 <children>
 <LM id="ml_053.01-SCzechT-ml_053-223-n14">
 <nodetype>complex</nodetype>
@@ -1907,25 +1907,39 @@
 </LM>
 <LM id="ml_053.01-SCzechT-m-d1t361-9">
 <a>
-<lex.rf>a#ml_053.01-SCzechA-m-d1t361-9</lex.rf>
+<lex.rf>a#a053-d1t361-9-sw1</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>tadyodtud</t_lemma>
+<t_lemma>odtud</t_lemma>
 <functor>DIR1</functor>
 <gram>
-<sempos>n.denot</sempos>
+<sempos>adv.denot.ngrad.nneg</sempos>
 <gender>nr</gender>
 <number>nr</number>
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
+<children>
+<LM id="ml_053.01-SCzechT-ml_053-223-roota4">
+<a>
+<lex.rf>a#ml_053.01-SCzechA-m-d1t361-9</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>tady</t_lemma>
+<functor>RSTR</functor>
+<gram>
+<sempos>adv.denot.ngrad.nneg</sempos>
+</gram>
+<deepord>3</deepord>
+</LM>
+</children>
 </LM>
 <LM id="ml_053.01-SCzechT-ml_053-223-roota3">
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Oblfm</t_lemma>
 <functor>DIR3</functor>
-<deepord>4</deepord>
+<deepord>5</deepord>
 </LM>
 </children>
 </LM>
@@ -1952,7 +1966,7 @@
 <person>1</person>
 <negation>neg0</negation>
 </gram>
-<deepord>7</deepord>
+<deepord>8</deepord>
 <children>
 <LM id="ml_053.01-SCzechT-m-d1t361-12">
 <a>
@@ -1961,7 +1975,7 @@
 <nodetype>atom</nodetype>
 <t_lemma>tak</t_lemma>
 <functor>PREC</functor>
-<deepord>5</deepord>
+<deepord>6</deepord>
 </LM>
 <LM id="ml_053.01-SCzechT-m-d1t361-13">
 <a>
@@ -1976,7 +1990,7 @@
 <gender>neut</gender>
 <number>sg</number>
 </gram>
-<deepord>6</deepord>
+<deepord>7</deepord>
 </LM>
 </children>
 </LM>
@@ -1988,7 +2002,7 @@
 <gram>
 <sempos>n.pron.def.pers</sempos>
 </gram>
-<deepord>8</deepord>
+<deepord>9</deepord>
 <coref_text>
 <LM>
 <target-node.rf>ml_053.01-SCzechT-ml_053-219-n7</target-node.rf>
@@ -2020,7 +2034,7 @@
 <person>1</person>
 <negation>neg0</negation>
 </gram>
-<deepord>11</deepord>
+<deepord>12</deepord>
 <children>
 <LM id="ml_053.01-SCzechT-ml_053-223-roota1">
 <nodetype>complex</nodetype>
@@ -2030,7 +2044,7 @@
 <gram>
 <sempos>n.pron.def.pers</sempos>
 </gram>
-<deepord>10</deepord>
+<deepord>11</deepord>
 <coref_text>
 <LM>
 <target-node.rf>ml_053.01-SCzechT-m-d1t361-13</target-node.rf>
@@ -2055,7 +2069,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>12</deepord>
+<deepord>13</deepord>
 </LM>
 </children>
 </LM>
@@ -2082,14 +2096,14 @@
 <person>1</person>
 <negation>neg0</negation>
 </gram>
-<deepord>13</deepord>
+<deepord>14</deepord>
 <children>
 <LM id="ml_053.01-SCzechT-ml_053-223-roota2">
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Oblfm</t_lemma>
 <functor>DIR3</functor>
-<deepord>14</deepord>
+<deepord>15</deepord>
 </LM>
 </children>
 </LM>

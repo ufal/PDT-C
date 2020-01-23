@@ -4,7 +4,7 @@
 <schema href="tanot_coref_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="hg_981.02.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -2743,27 +2743,15 @@
 <functor>FPHR</functor>
 <is_name_of_person>1</is_name_of_person>
 <deepord>13</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="hg-13808_01.02-SCzechT-hg-13808_01-11681-roota6">
 <a>
-<lex.rf>a#hg-13808_01.02-SCzechA-m-11681-11698</lex.rf>
+<lex.rf>a#a981-11681-11698-sw1</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
 <t_lemma>kipur</t_lemma>
 <functor>FPHR</functor>
 <deepord>14</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

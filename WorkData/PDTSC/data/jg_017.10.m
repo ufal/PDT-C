@@ -572,11 +572,10 @@
 <form_change>spell</form_change>
 <form>deštník</form>
 <tag>
-<AM lemma="deštník" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="deštník" src="auto">NNIS4-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="deštník" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="deštník" src="auto">NNIS4-----A----</AM>
+</tag>
+</m>
 <m id="m017-d1e2991-x2-566">
 <w.rf>
 <LM>w#w-d1e2991-x2-566</LM>

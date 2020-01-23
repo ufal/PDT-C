@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"></schema>
+<schema href="mdata_36_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="hs_055.04.w"></reffile>
+<reffile id="w" name="wdata" href="hs_055.04.w" />
 </references>
 </head>
 <s id="m055-d1e1609-x2">
@@ -303,22 +303,21 @@
 <LM>w#w-d1t1627-8</LM>
 </w.rf>
 <form>2.5</form>
-<tag>
-<AM lemma="2.5" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
-</m><m id="m055-d1t1627-8-sw1">
+<tag lemma="2.5" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m055-d1t1627-8-sw1">
 <w.rf>
 <LM>w#w-d1t1627-8</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letého</form>
 <tag>
 <AM lemma="letý" src="auto">AAIS2----1A----</AM>
 <AM lemma="letý" src="auto">AAMS2----1A----</AM>
-<AM lemma="letý" src="auto">AAMS4----1A----</AM>
-<AM lemma="letý" src="auto" recommended="1">AANS2----1A----</AM></tag>
-<comment></comment>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto" selected="1">AAMS4----1A----</AM>
+<AM lemma="letý" src="auto" recommended="1">AANS2----1A----</AM>
+</tag>
+</m>
 <m id="m055-d-m-d1e1609-x2-punct-punct">
 <w.rf>
 <LM>w#w-d-m-d1e1609-x2-punct-punct</LM>

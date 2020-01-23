@@ -4,7 +4,7 @@
 <schema href="tanot_coref_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ml_106.02.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -1959,7 +1959,7 @@
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
 <is_member>1</is_member>
-<deepord>12</deepord>
+<deepord>14</deepord>
 <children>
 <LM id="ml_106.02-SCzechT-m-d1t502-15">
 <a>
@@ -2014,20 +2014,45 @@
 <functor>PAT</functor>
 <deepord>10</deepord>
 <children>
+<LM id="ml_106.02-SCzechT-ml_106-d1e497-x2-roota3">
+<a>
+<lex.rf>a#a106-d1t502-16-sw1</lex.rf>
+</a>
+<nodetype>coap</nodetype>
+<t_lemma>#Amp</t_lemma>
+<functor>CONJ</functor>
+<deepord>11</deepord>
+<children>
 <LM id="ml_106.02-SCzechT-m-d1t502-16">
 <a>
 <lex.rf>a#ml_106.02-SCzechA-m-d1t502-16</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>F&amp;C</t_lemma>
+<t_lemma>F</t_lemma>
 <functor>ID</functor>
+<is_member>1</is_member>
 <gram>
 <sempos>n.denot</sempos>
 <gender>nr</gender>
 <number>nr</number>
 <negation>neg0</negation>
 </gram>
-<deepord>11</deepord>
+<deepord>12</deepord>
+</LM>
+<LM id="ml_106.02-SCzechT-ml_106-d1e497-x2-roota4">
+<a>
+<lex.rf>a#a106-d1t502-16-sw2</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>C</t_lemma>
+<functor>ID</functor>
+<is_member>1</is_member>
+<gram>
+<sempos>n.denot</sempos>
+</gram>
+<deepord>13</deepord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -2053,7 +2078,7 @@
 <iterativeness>it0</iterativeness>
 <negation>neg0</negation>
 </gram>
-<deepord>14</deepord>
+<deepord>16</deepord>
 <children>
 <LM id="ml_106.02-SCzechT-m-d1t504-3">
 <a>
@@ -2067,7 +2092,7 @@
 <gender>neut</gender>
 <number>sg</number>
 </gram>
-<deepord>13</deepord>
+<deepord>15</deepord>
 <coref_text>
 <LM>
 <target-node.rf>ml_106.02-SCzechT-ml_106-d1e497-x2-roota1</target-node.rf>
@@ -2081,7 +2106,7 @@
 <is_generated>1</is_generated>
 <t_lemma>#Idph</t_lemma>
 <functor>PAT</functor>
-<deepord>15</deepord>
+<deepord>17</deepord>
 <children>
 <LM id="ml_106.02-SCzechT-m-d1t504-5">
 <a>
@@ -2090,7 +2115,7 @@
 <nodetype>coap</nodetype>
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
-<deepord>17</deepord>
+<deepord>19</deepord>
 <children>
 <LM id="ml_106.02-SCzechT-m-d1t504-4">
 <a>
@@ -2106,7 +2131,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>16</deepord>
+<deepord>18</deepord>
 </LM>
 <LM id="ml_106.02-SCzechT-m-d1t504-6">
 <a>
@@ -2122,7 +2147,7 @@
 <number>nr</number>
 <negation>neg0</negation>
 </gram>
-<deepord>18</deepord>
+<deepord>20</deepord>
 </LM>
 </children>
 </LM>

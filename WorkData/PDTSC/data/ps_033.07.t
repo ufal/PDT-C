@@ -4,7 +4,7 @@
 <schema href="tanot_coref_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ps_033.07.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -6728,12 +6728,12 @@
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>Foje</t_lemma>
+<t_lemma>Eforie</t_lemma>
 <functor>DIR3</functor>
 <is_member>1</is_member>
 <gram>
 <sempos>n.denot</sempos>
-<gender>nr</gender>
+<gender>fem</gender>
 <number>nr</number>
 <negation>neg0</negation>
 </gram>

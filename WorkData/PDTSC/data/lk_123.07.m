@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"></schema>
+<schema href="mdata_36_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="lk_123.07.w"></reffile>
+<reffile id="w" name="wdata" href="lk_123.07.w" />
 </references>
 </head>
 <s id="m123-322">
@@ -2693,11 +2693,9 @@
 <LM>w#w-448-449</LM>
 </w.rf>
 <form>150</form>
-<tag>
-<AM lemma="150" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
-</m><m id="m123-448-449-sw1">
+<tag lemma="150" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m123-448-449-sw1">
 <w.rf>
 <LM>w#w-448-449</LM>
 </w.rf>
@@ -2705,8 +2703,9 @@
 <tag>
 <AM lemma="g-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="g-88_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="gram" src="auto" recommended="1">NNIXX-----A---8</AM></tag>
-<comment></comment>
+<AM lemma="gram" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="gram" src="manual" selected="1">NNIXX-----A---b</AM>
+</tag>
 </m>
 <m id="m123-d1t2384-1">
 <w.rf>
@@ -2760,21 +2759,21 @@
 <LM>w#w-448-451</LM>
 </w.rf>
 <form>150</form>
-<tag>
-<AM lemma="150" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
-</m><m id="m123-448-451-sw1">
+<tag lemma="150" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="m123-448-451-sw1">
 <w.rf>
 <LM>w#w-448-451</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>g</form>
 <tag>
 <AM lemma="g-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="g-88_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="gram" src="auto" recommended="1">NNIXX-----A---8</AM></tag>
-<comment></comment>
-<form_change>spell</form_change></m>
+<AM lemma="gram" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="gram" src="manual" selected="1">NNIXX-----A---b</AM>
+</tag>
+</m>
 <m id="m123-d1t2384-7">
 <w.rf>
 <LM>w#w-d1t2384-7</LM>

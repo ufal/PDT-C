@@ -4,7 +4,7 @@
 <schema href="tanot_coref_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="lk_123.07.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -4074,28 +4074,36 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>6</deepord>
+<deepord>7</deepord>
 <children>
 <LM id="lk_123.07-SCzechT-m-448-449">
 <a>
-<lex.rf>a#lk_123.07-SCzechA-m-448-449</lex.rf>
+<lex.rf>a#a123-448-449-sw1</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>150g</t_lemma>
+<t_lemma>g</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.denot</sempos>
-<gender>nr</gender>
+<gender>inan</gender>
 <number>nr</number>
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
+<children>
+<LM id="lk_123.07-SCzechT-lk_123-448-roota2">
+<a>
+<lex.rf>a#lk_123.07-SCzechA-m-448-449</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>150</t_lemma>
+<functor>RSTR</functor>
+<gram>
+<sempos>adj.quant.def</sempos>
+</gram>
+<deepord>5</deepord>
 </LM>
-</annot_comment>
+</children>
 </LM>
 <LM id="lk_123.07-SCzechT-m-d1t2384-1">
 <a>
@@ -4109,7 +4117,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>5</deepord>
+<deepord>6</deepord>
 </LM>
 <LM id="lk_123.07-SCzechT-m-d1t2384-7">
 <a>
@@ -4127,14 +4135,14 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>8</deepord>
+<deepord>10</deepord>
 <children>
 <LM id="lk_123.07-SCzechT-m-448-451">
 <a>
-<lex.rf>a#lk_123.07-SCzechA-m-448-451</lex.rf>
+<lex.rf>a#a123-448-451-sw1</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>150g</t_lemma>
+<t_lemma>g</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -4142,13 +4150,21 @@
 <number>nr</number>
 <negation>neg0</negation>
 </gram>
-<deepord>7</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
+<deepord>8</deepord>
+<children>
+<LM id="lk_123.07-SCzechT-lk_123-448-roota3">
+<a>
+<lex.rf>a#lk_123.07-SCzechA-m-448-451</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>150</t_lemma>
+<functor>RSTR</functor>
+<gram>
+<sempos>adj.quant.def</sempos>
+</gram>
+<deepord>9</deepord>
 </LM>
-</annot_comment>
+</children>
 </LM>
 </children>
 </LM>
@@ -4176,7 +4192,7 @@
 <person>1</person>
 <negation>neg0</negation>
 </gram>
-<deepord>11</deepord>
+<deepord>13</deepord>
 <children>
 <LM id="lk_123.07-SCzechT-m-d1t2388-1">
 <a>
@@ -4196,7 +4212,7 @@
 <indeftype>inter</indeftype>
 <person>3</person>
 </gram>
-<deepord>9</deepord>
+<deepord>11</deepord>
 </LM>
 <LM id="lk_123.07-SCzechT-m-d1t2388-3x3">
 <coref_special>exoph</coref_special>
@@ -4207,7 +4223,7 @@
 <gram>
 <sempos>n.pron.def.pers</sempos>
 </gram>
-<deepord>10</deepord>
+<deepord>12</deepord>
 </LM>
 <LM id="lk_123.07-SCzechT-lk_123-448-roota1">
 <coref_gram.rf>
@@ -4217,7 +4233,7 @@
 <is_generated>1</is_generated>
 <t_lemma>#Rcp</t_lemma>
 <functor>ADDR</functor>
-<deepord>12</deepord>
+<deepord>14</deepord>
 </LM>
 </children>
 </LM>

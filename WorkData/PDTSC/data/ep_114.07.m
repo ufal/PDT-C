@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"></schema>
+<schema href="mdata_36_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="ep_114.07.w"></reffile>
+<reffile id="w" name="wdata" href="ep_114.07.w" />
 </references>
 </head>
 <s id="m114-1164">
@@ -4838,7 +4838,10 @@
 <LM>w#w-d1t2209-4</LM>
 </w.rf>
 <form>francouzsko</form>
-<tag lemma="francouzský" src="auto" recommended="1">A2--------A----</tag>
+<tag>
+<AM lemma="francouzský" src="auto" recommended="1">A2--------A----</AM>
+<AM lemma="francouzsko" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m114-108-122">
 <w.rf>
@@ -4952,25 +4955,23 @@
 <AM lemma="ten" src="auto" recommended="1">PDFS4----------</AM>
 <AM lemma="TU-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
-</m><m id="m114-d1t2215-2-sw1">
+</m>
+<m id="m114-d1t2215-2-sw1">
 <w.rf>
 <LM>w#w-d1t2215-2</LM>
 </w.rf>
 <form_change>spell</form_change>
 <form>-</form>
-<tag>
-<AM lemma="-" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment></comment>
-</m><m id="m114-d1t2215-2-sw2">
+<tag lemma="-" src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m114-d1t2215-2-sw2">
 <w.rf>
 <LM>w#w-d1t2215-2</LM>
 </w.rf>
 <form_change>spell</form_change>
 <form>144</form>
-<tag>
-<AM lemma="144" src="auto" recommended="1">C=-------------</AM></tag>
-<comment></comment>
-<form_change>spell</form_change></m>
+<tag lemma="144" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="m114-d-id155220-punct">
 <w.rf>
 <LM>w#w-d-id155220-punct</LM>
@@ -5418,7 +5419,7 @@
 <form>L</form>
 <tag>
 <AM lemma="L-3`50" src="auto">C}-------------</AM>
-<AM lemma="L-88_:B" selected="1" src="auto">NNXXX-----A----</AM>
+<AM lemma="L-88_:B" src="auto" selected="1">NNXXX-----A----</AM>
 <AM lemma="l-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="l-77_,t" src="auto">F%-------------</AM>
 <AM lemma="l-88_:B" src="auto">NNXXX-----A----</AM>
@@ -5427,25 +5428,23 @@
 <AM lemma="litr" src="auto">NNIXX-----A---8</AM>
 <AM lemma="L-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 </tag>
-</m><m id="m114-d1t2230-3-sw1">
+</m>
+<m id="m114-d1t2230-3-sw1">
 <w.rf>
 <LM>w#w-d1t2230-3</LM>
 </w.rf>
 <form_change>spell</form_change>
 <form>-</form>
-<tag>
-<AM lemma="-" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment></comment>
-</m><m id="m114-d1t2230-3-sw2">
+<tag lemma="-" src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m114-d1t2230-3-sw2">
 <w.rf>
 <LM>w#w-d1t2230-3</LM>
 </w.rf>
 <form_change>spell</form_change>
 <form>39</form>
-<tag>
-<AM lemma="39" src="auto" recommended="1">C=-------------</AM></tag>
-<comment></comment>
-<form_change>spell</form_change></m>
+<tag lemma="39" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="m114-d-m-d1e2182-x3-punct-punct">
 <w.rf>
 <LM>w#w-d-m-d1e2182-x3-punct-punct</LM>

@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"></schema>
+<schema href="mdata_36_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="dk_132.04.w"></reffile>
+<reffile id="w" name="wdata" href="dk_132.04.w" />
 </references>
 </head>
 <s id="m132-110">
@@ -1406,29 +1406,31 @@
 <form>km</form>
 <tag>
 <AM lemma="kilometr" src="auto" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="kilometrový" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
-</m><m id="m132-d1t1277-21-sw1">
+<AM lemma="kilometrový" src="auto">AAXXX----1A---8</AM>
+<AM lemma="kilometr" src="manual" selected="1">NNIXX-----A---b</AM>
+</tag>
+</m>
+<m id="m132-d1t1277-21-sw1">
 <w.rf>
 <LM>w#w-d1t1277-21</LM>
 </w.rf>
 <form>/</form>
-<tag>
-<AM lemma="/" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment></comment>
-</m><m id="m132-d1t1277-21-sw2">
+<tag lemma="/" src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m132-d1t1277-21-sw2">
 <w.rf>
 <LM>w#w-d1t1277-21</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>h</form>
 <tag>
 <AM lemma="h-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="h-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="hodina" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="hodinový" src="auto">AAXXX----1A---8</AM></tag>
-<comment></comment>
-<form_change>spell</form_change></m>
+<AM lemma="hodinový" src="auto">AAXXX----1A---8</AM>
+<AM lemma="hodina" src="manual" selected="1">NNFXX-----A---b</AM>
+</tag>
+</m>
 <m id="m132-d-m-d1e1272-x2-punct-punct">
 <w.rf>
 <LM>w#w-d-m-d1e1272-x2-punct-punct</LM>

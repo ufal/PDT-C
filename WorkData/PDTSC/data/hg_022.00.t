@@ -4,7 +4,7 @@
 <schema href="tanot_coref_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="hg_022.00.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -598,7 +598,10 @@
 </LM>
 <LM id="hg_022.00-SCzechT-m-d1t62-5">
 <a>
-<lex.rf>a#hg_022.00-SCzechA-m-d1t62-5</lex.rf>
+<lex.rf>a#a022-d1t62-5-sw1</lex.rf>
+<aux.rf>
+<LM>a#hg_022.00-SCzechA-m-d1t62-5</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
@@ -617,11 +620,6 @@
 <src>coref</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="hg_022.00-SCzechT-m-d1t62-6x3">
 <nodetype>complex</nodetype>

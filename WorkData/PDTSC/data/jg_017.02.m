@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"></schema>
+<schema href="mdata_36_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="jg_017.02.w"></reffile>
+<reffile id="w" name="wdata" href="jg_017.02.w" />
 </references>
 </head>
 <s id="m017-798">
@@ -670,29 +670,33 @@
 <form_change>spell</form_change>
 <form>d</form>
 <tag>
-<AM lemma="d-77" selected="1" src="auto">F%-------------</AM>
+<AM lemma="d-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="d-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="d-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
 </tag>
-</m><m id="m017-d1e540-x2-918-sw1">
+</m>
+<m id="m017-d1e540-x2-918-sw1">
 <w.rf>
 <LM>w#w-d1e540-x2-918</LM>
 </w.rf>
 <form_change>spell</form_change>
 <form>´</form>
 <tag>
-<AM lemma="´" src="auto">X@-------------</AM></tag>
-<comment></comment>
-</m><m id="m017-d1e540-x2-918-sw2">
+<AM lemma="´" src="auto">X@-------------</AM>
+<AM lemma="´" src="manual" selected="1">Z:-------------</AM>
+</tag>
+</m>
+<m id="m017-d1e540-x2-918-sw2">
 <w.rf>
 <LM>w#w-d1e540-x2-918</LM>
 </w.rf>
 <form_change>spell</form_change>
 <form>Huez</form>
 <tag>
-<AM lemma="Huez" src="auto">X@-------------</AM></tag>
-<comment></comment>
-<form_change>spell</form_change></m>
+<AM lemma="Huez" src="auto">X@-------------</AM>
+<AM lemma="Huez-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m017-d-m-d1e540-x2-punct-punct">
 <w.rf>
 <LM>w#w-d-m-d1e540-x2-punct-punct</LM>

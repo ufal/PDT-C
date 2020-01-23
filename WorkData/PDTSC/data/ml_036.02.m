@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"></schema>
+<schema href="mdata_36_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="ml_036.02.w"></reffile>
+<reffile id="w" name="wdata" href="ml_036.02.w" />
 </references>
 </head>
 <s id="m036-240">
@@ -1534,13 +1534,14 @@
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="versus_:B" src="auto">RR--1---------9</AM></tag>
-<comment>
-</comment>
-</m><m id="m036-d1t608-2-sw1">
+<AM lemma="versus_:B" src="auto">RR--1---------9</AM>
+</tag>
+</m>
+<m id="m036-d1t608-2-sw1">
 <w.rf>
 <LM>w#w-d1t608-2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>pozadí</form>
 <tag>
 <AM lemma="pozadí" src="auto">NNNP1-----A----</AM>
@@ -1552,9 +1553,9 @@
 <AM lemma="pozadí" src="auto">NNNS3-----A----</AM>
 <AM lemma="pozadí" src="auto">NNNS4-----A----</AM>
 <AM lemma="pozadí" src="auto">NNNS5-----A----</AM>
-<AM lemma="pozadí" src="auto" recommended="1">NNNS6-----A----</AM></tag>
-<comment></comment>
-<form_change>spell</form_change></m>
+<AM lemma="pozadí" src="auto" recommended="1">NNNS6-----A----</AM>
+</tag>
+</m>
 <m id="m036-d1t608-3">
 <w.rf>
 <LM>w#w-d1t608-3</LM>
@@ -1757,7 +1758,10 @@
 <LM>w#w-d1t614-8</LM>
 </w.rf>
 <form>Láďa</form>
-<tag lemma="Láďa_;Y_^(^HN*3adislav)" src="auto" recommended="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Láďa_;Y_^(^HN*3adislav)" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Láďa_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m036-d-m-d1e609-x2-punct-punct">
 <w.rf>

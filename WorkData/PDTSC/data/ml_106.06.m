@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"></schema>
+<schema href="mdata_36_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="ml_106.06.w"></reffile>
+<reffile id="w" name="wdata" href="ml_106.06.w" />
 </references>
 </head>
 <s id="m106-488">
@@ -654,17 +654,21 @@
 <AM lemma="rock" src="auto">NNIS1-----A----</AM>
 <AM lemma="rock" src="auto">NNIS4-----A----</AM>
 <AM lemma="rock_^(rock'n'roll)" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="rock-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="rock-77" src="manual">F%-------------</AM>
+<AM lemma="rock-3_^(rock'n'roll)" src="manual" selected="1">S2--------A----</AM>
 </tag>
-</m><m id="m106-d1t1454-6-sw1">
+</m>
+<m id="m106-d1t1454-6-sw1">
 <w.rf>
 <LM>w#w-d1t1454-6</LM>
 </w.rf>
 <form>´</form>
 <tag>
-<AM lemma="´" src="auto">X@-------------</AM></tag>
-<comment></comment>
-</m><m id="m106-d1t1454-6-sw2">
+<AM lemma="´" src="auto">X@-------------</AM>
+<AM lemma="´" src="manual" selected="1">Z:-------------</AM>
+</tag>
+</m>
+<m id="m106-d1t1454-6-sw2">
 <w.rf>
 <LM>w#w-d1t1454-6</LM>
 </w.rf>
@@ -675,24 +679,29 @@
 <AM lemma="n-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="n-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="n_^(n-tice)" src="auto">A2--------A----</AM>
-<AM lemma="nad-1_:B" src="auto" recommended="1">RR--7---------8</AM></tag>
-<comment></comment>
-</m><m id="m106-d1t1454-6-sw3">
+<AM lemma="nad-1_:B" src="auto" recommended="1">RR--7---------8</AM>
+<AM lemma="n-1_^(rock'n'roll,n-tice)" src="manual" selected="1">S2--------A----</AM>
+</tag>
+</m>
+<m id="m106-d1t1454-6-sw3">
 <w.rf>
 <LM>w#w-d1t1454-6</LM>
 </w.rf>
 <form>´</form>
 <tag>
-<AM lemma="´" src="auto">X@-------------</AM></tag>
-<comment></comment>
-</m><m id="m106-d1t1454-6-sw4">
+<AM lemma="´" src="auto">X@-------------</AM>
+<AM lemma="´" src="manual" selected="1">Z:-------------</AM>
+</tag>
+</m>
+<m id="m106-d1t1454-6-sw4">
 <w.rf>
 <LM>w#w-d1t1454-6</LM>
 </w.rf>
 <form>rollové</form>
 <tag>
-<AM lemma="rollové" src="auto">X@-------------</AM></tag>
-<comment></comment>
+<AM lemma="rollové" src="auto">X@-------------</AM>
+<AM lemma="rollový" src="manual" selected="1">AAFP1----1A----</AM>
+</tag>
 </m>
 <m id="m106-d1t1454-7">
 <w.rf>
@@ -879,18 +888,22 @@
 <AM lemma="rock" src="auto">NNIS4-----A----</AM>
 <AM lemma="rock_^(rock'n'roll)" src="auto">NNXXX-----A----</AM>
 <AM lemma="rock" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="rock-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="rock-77" src="manual">F%-------------</AM>
+<AM lemma="rock-3_^(rock'n'roll)" src="manual" selected="1">S2--------A----</AM>
 </tag>
-</m><m id="m106-d1t1456-18-sw1">
+</m>
+<m id="m106-d1t1456-18-sw1">
 <w.rf>
 <LM>w#w-d1t1456-18</LM>
 </w.rf>
 <form_change>spell</form_change>
 <form>´</form>
 <tag>
-<AM lemma="´" src="auto">X@-------------</AM></tag>
-<comment></comment>
-</m><m id="m106-d1t1456-18-sw2">
+<AM lemma="´" src="auto">X@-------------</AM>
+<AM lemma="´" src="manual" selected="1">Z:-------------</AM>
+</tag>
+</m>
+<m id="m106-d1t1456-18-sw2">
 <w.rf>
 <LM>w#w-d1t1456-18</LM>
 </w.rf>
@@ -902,27 +915,32 @@
 <AM lemma="n-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="n-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="n_^(n-tice)" src="auto">A2--------A----</AM>
-<AM lemma="nad-1_:B" src="auto" recommended="1">RR--7---------8</AM></tag>
-<comment></comment>
-</m><m id="m106-d1t1456-18-sw3">
+<AM lemma="nad-1_:B" src="auto" recommended="1">RR--7---------8</AM>
+<AM lemma="n-1_^(rock'n'roll,n-tice)" src="manual" selected="1">S2--------A----</AM>
+</tag>
+</m>
+<m id="m106-d1t1456-18-sw3">
 <w.rf>
 <LM>w#w-d1t1456-18</LM>
 </w.rf>
 <form_change>spell</form_change>
 <form>´</form>
 <tag>
-<AM lemma="´" src="auto">X@-------------</AM></tag>
-<comment></comment>
-</m><m id="m106-d1t1456-18-sw4">
+<AM lemma="´" src="auto">X@-------------</AM>
+<AM lemma="´" src="manual" selected="1">Z:-------------</AM>
+</tag>
+</m>
+<m id="m106-d1t1456-18-sw4">
 <w.rf>
 <LM>w#w-d1t1456-18</LM>
 </w.rf>
 <form_change>spell</form_change>
 <form>rollový</form>
 <tag>
-<AM lemma="rollový" src="auto">X@-------------</AM></tag>
-<comment></comment>
-<form_change>spell</form_change></m>
+<AM lemma="rollový" src="auto">X@-------------</AM>
+<AM lemma="rollový" src="manual" selected="1">AAMS1----1A----</AM>
+</tag>
+</m>
 <m id="m106-d1t1456-19">
 <w.rf>
 <LM>w#w-d1t1456-19</LM>

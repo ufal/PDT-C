@@ -4,7 +4,7 @@
 <schema href="tanot_coref_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="jg_017.10.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -899,18 +899,13 @@
 <sempos>adv.denot.grad.neg</sempos>
 </gram>
 <deepord>7</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="jg_017.10-SCzechT-m-d1t2996-4">
 <a>
 <lex.rf>a#jg_017.10-SCzechA-m-d1t2996-4</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>děštník</t_lemma>
+<t_lemma>deštník</t_lemma>
 <functor>ACT</functor>
 <gram>
 <sempos>n.denot</sempos>

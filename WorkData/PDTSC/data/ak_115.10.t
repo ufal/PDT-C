@@ -4,7 +4,7 @@
 <schema href="tanot_coref_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ak_115.10.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -775,21 +775,26 @@
 </LM>
 <LM id="ak_115.10-SCzechT-ak_115-915-roota3">
 <a>
-<lex.rf>a#ak_115.10-SCzechA-m-d1t1503-12</lex.rf>
+<lex.rf>a#a115-d1t1503-12-sw2</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>au-pairka</t_lemma>
+<t_lemma>pairka</t_lemma>
 <functor>PAT</functor>
 <gram>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>chybný tvar</text>
+<children>
+<LM id="ak_115.10-SCzechT-ak_115-915-roota4">
+<a>
+<lex.rf>a#ak_115.10-SCzechA-m-d1t1503-12</lex.rf>
+</a>
+<nodetype>dphr</nodetype>
+<t_lemma>au</t_lemma>
+<functor>DPHR</functor>
+<deepord>6</deepord>
 </LM>
-</annot_comment>
+</children>
 </LM>
 </children>
 </LM>
@@ -809,7 +814,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>6</deepord>
+<deepord>7</deepord>
 </LM>
 </children>
 </LM>
@@ -932,11 +937,11 @@
 <gram>
 <sempos>v</sempos>
 </gram>
-<deepord>2</deepord>
+<deepord>3</deepord>
 <children>
 <LM id="ak_115.10-SCzechT-m-d1t1508-14">
 <a>
-<lex.rf>a#ak_115.10-SCzechA-m-d1t1508-14</lex.rf>
+<lex.rf>a#a115-d1t1508-14-sw2</lex.rf>
 <aux.rf>
 <LM>a#ak_115.10-SCzechA-m-d1t1508-13</LM>
 </aux.rf>
@@ -945,28 +950,33 @@
 <LM>ak_115.10-SCzechT-ak_115-919-roota3</LM>
 </compl.rf>
 <nodetype>complex</nodetype>
-<t_lemma>au-pairka</t_lemma>
+<t_lemma>pairka</t_lemma>
 <functor>COMPL</functor>
 <gram>
 <sempos>n.denot</sempos>
-<gender>nr</gender>
-<number>nr</number>
+<gender>fem</gender>
+<number>sg</number>
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>chybný tvar</text>
+<children>
+<LM id="ak_115.10-SCzechT-ak_115-919-roota5">
+<a>
+<lex.rf>a#ak_115.10-SCzechA-m-d1t1508-14</lex.rf>
+</a>
+<nodetype>dphr</nodetype>
+<t_lemma>au</t_lemma>
+<functor>DPHR</functor>
+<deepord>2</deepord>
 </LM>
-</annot_comment>
+</children>
 </LM>
 <LM id="ak_115.10-SCzechT-ak_115-919-roota4">
 <nodetype>atom</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Neg</t_lemma>
 <functor>RHEM</functor>
-<deepord>3</deepord>
+<deepord>4</deepord>
 </LM>
 <LM id="ak_115.10-SCzechT-ak_115-919-roota3">
 <nodetype>complex</nodetype>
@@ -976,7 +986,7 @@
 <gram>
 <sempos>n.pron.def.pers</sempos>
 </gram>
-<deepord>4</deepord>
+<deepord>5</deepord>
 <coref_text>
 <LM>
 <target-node.rf>ak_115.10-SCzechT-m-d1t1505-8</target-node.rf>
@@ -996,7 +1006,7 @@
 <sempos>adv.denot.ngrad.nneg</sempos>
 <negation>neg0</negation>
 </gram>
-<deepord>5</deepord>
+<deepord>6</deepord>
 </LM>
 <LM id="ak_115.10-SCzechT-m-d1t1508-12">
 <a>
@@ -1011,7 +1021,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>7</deepord>
+<deepord>8</deepord>
 <children>
 <LM id="ak_115.10-SCzechT-m-d1t1508-11">
 <a>
@@ -1026,7 +1036,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>6</deepord>
+<deepord>7</deepord>
 </LM>
 <LM id="ak_115.10-SCzechT-m-d1t1508-18">
 <a>
@@ -1049,7 +1059,7 @@
 <person>3</person>
 <negation>neg1</negation>
 </gram>
-<deepord>9</deepord>
+<deepord>10</deepord>
 <children>
 <LM id="ak_115.10-SCzechT-ak_115-919-n10">
 <nodetype>complex</nodetype>
@@ -1059,7 +1069,7 @@
 <gram>
 <sempos>n.pron.def.pers</sempos>
 </gram>
-<deepord>8</deepord>
+<deepord>9</deepord>
 <coref_text>
 <LM>
 <target-node.rf>ak_115.10-SCzechT-ak_115-919-roota3</target-node.rf>
@@ -1073,7 +1083,7 @@
 <is_generated>1</is_generated>
 <t_lemma>#Neg</t_lemma>
 <functor>RHEM</functor>
-<deepord>10</deepord>
+<deepord>11</deepord>
 </LM>
 <LM id="ak_115.10-SCzechT-m-d1t1508-21">
 <a>
@@ -1091,7 +1101,7 @@
 <number>pl</number>
 <negation>neg0</negation>
 </gram>
-<deepord>12</deepord>
+<deepord>13</deepord>
 <children>
 <LM id="ak_115.10-SCzechT-m-d1t1508-20">
 <a>
@@ -1105,7 +1115,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>11</deepord>
+<deepord>12</deepord>
 </LM>
 </children>
 </LM>

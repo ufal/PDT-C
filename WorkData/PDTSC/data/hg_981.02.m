@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"></schema>
+<schema href="mdata_36_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="hg_981.02.w"></reffile>
+<reffile id="w" name="wdata" href="hg_981.02.w" />
 </references>
 </head>
 <s id="m981-13808_01-10345">
@@ -1902,18 +1902,21 @@
 </w.rf>
 <form>Jom</form>
 <tag>
-<AM lemma="Jom" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
-</m><m id="m981-11681-11698-sw1">
+<AM lemma="Jom" src="auto">X@-------------</AM>
+<AM lemma="Jom-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
+<m id="m981-11681-11698-sw1">
 <w.rf>
 <LM>w#w-11681-11698</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>kipur</form>
 <tag>
-<AM lemma="kipur" src="auto">X@-------------</AM></tag>
-<comment></comment>
-<form_change>spell</form_change></m>
+<AM lemma="kipur" src="auto">X@-------------</AM>
+<AM lemma="kipur-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m981-11681-11696">
 <w.rf>
 <LM>w#w-11681-11696</LM>

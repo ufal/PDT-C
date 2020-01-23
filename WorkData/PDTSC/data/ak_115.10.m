@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="mdata_36_schema.xml"></schema>
+<schema href="mdata_36_schema.xml" />
 <references>
-<reffile id="w" name="wdata" href="ak_115.10.w"></reffile>
+<reffile id="w" name="wdata" href="ak_115.10.w" />
 </references>
 </head>
 <s id="m115-873">
@@ -513,25 +513,26 @@
 <AM lemma="au" src="auto" recommended="1">II-------------</AM>
 <AM lemma="au-2_^(au-pair)" src="manual" selected="1">S2--------A----</AM>
 </tag>
-</m><m id="m115-d1t1503-12-sw1">
+</m>
+<m id="m115-d1t1503-12-sw1">
 <w.rf>
 <LM>w#w-d1t1503-12</LM>
 </w.rf>
 <form_change>spell</form_change>
 <form>-</form>
-<tag>
-<AM lemma="-" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment></comment>
-</m><m id="m115-d1t1503-12-sw2">
+<tag lemma="-" src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m115-d1t1503-12-sw2">
 <w.rf>
 <LM>w#w-d1t1503-12</LM>
 </w.rf>
 <form_change>spell</form_change>
 <form>pairku</form>
 <tag>
-<AM lemma="pairku" src="auto">X@-------------</AM></tag>
-<comment></comment>
-<form_change>spell</form_change></m>
+<AM lemma="pairku" src="auto">X@-------------</AM>
+<AM lemma="pairka_^(au-pairka)" src="manual" selected="1">NNFS4-----A----</AM>
+</tag>
+</m>
 <m id="m115-d1t1505-1">
 <w.rf>
 <LM>w#w-d1t1505-1</LM>
@@ -624,25 +625,26 @@
 <AM lemma="au" src="auto" recommended="1">II-------------</AM>
 <AM lemma="au-2_^(au-pair)" src="manual" selected="1">S2--------A----</AM>
 </tag>
-</m><m id="m115-d1t1508-14-sw1">
+</m>
+<m id="m115-d1t1508-14-sw1">
 <w.rf>
 <LM>w#w-d1t1508-14</LM>
 </w.rf>
 <form_change>spell</form_change>
 <form>-</form>
-<tag>
-<AM lemma="-" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment></comment>
-</m><m id="m115-d1t1508-14-sw2">
+<tag lemma="-" src="auto" recommended="1">Z:-------------</tag>
+</m>
+<m id="m115-d1t1508-14-sw2">
 <w.rf>
 <LM>w#w-d1t1508-14</LM>
 </w.rf>
 <form_change>spell</form_change>
 <form>pairka</form>
 <tag>
-<AM lemma="pairka" src="auto">X@-------------</AM></tag>
-<comment></comment>
-<form_change>spell</form_change></m>
+<AM lemma="pairka" src="auto">X@-------------</AM>
+<AM lemma="pairka_^(au-pairka)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
+</m>
 <m id="m115-d1t1508-10">
 <w.rf>
 <LM>w#w-d1t1508-10</LM>

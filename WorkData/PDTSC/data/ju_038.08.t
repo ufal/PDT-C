@@ -4,7 +4,7 @@
 <schema href="tanot_coref_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ju_038.08.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -1375,7 +1375,7 @@
 <nodetype>coap</nodetype>
 <t_lemma>#Comma</t_lemma>
 <functor>CSQ</functor>
-<deepord>11</deepord>
+<deepord>12</deepord>
 <children>
 <LM id="ju_038.08-SCzechT-ju_038-d1e2569-x2-roota4">
 <nodetype>qcomplex</nodetype>
@@ -1392,7 +1392,7 @@
 <nodetype>coap</nodetype>
 <t_lemma>#Comma</t_lemma>
 <functor>CONJ</functor>
-<deepord>8</deepord>
+<deepord>9</deepord>
 <children>
 <LM id="ju_038.08-SCzechT-m-d1t2564-2">
 <a>
@@ -1450,21 +1450,37 @@
 <is_member>1</is_member>
 <deepord>6</deepord>
 <children>
+<LM id="ju_038.08-SCzechT-ju_038-d1e2569-x2-roota5">
+<a>
+<lex.rf>a#a038-d1t2572-5-sw1</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>tisíc</t_lemma>
+<functor>PAT</functor>
+<is_member>1</is_member>
+<gram>
+<sempos>n.quant.def</sempos>
+<gender>inan</gender>
+<number>pl</number>
+</gram>
+<deepord>7</deepord>
+<children>
 <LM id="ju_038.08-SCzechT-m-d1t2572-5">
 <a>
 <lex.rf>a#ju_038.08-SCzechA-m-d1t2572-5</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>dvatisíce</t_lemma>
-<functor>PAT</functor>
-<is_member>1</is_member>
+<t_lemma>dva</t_lemma>
+<functor>RSTR</functor>
 <gram>
-<sempos>n.denot</sempos>
+<sempos>adj.quant.def</sempos>
 <gender>nr</gender>
 <number>nr</number>
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
+</LM>
+</children>
 </LM>
 <LM id="ju_038.08-SCzechT-m-d1t2572-6">
 <a>
@@ -1480,7 +1496,7 @@
 <number>pl</number>
 <numertype>basic</numertype>
 </gram>
-<deepord>7</deepord>
+<deepord>8</deepord>
 </LM>
 </children>
 </LM>
@@ -1498,7 +1514,7 @@
 <number>pl</number>
 <negation>neg0</negation>
 </gram>
-<deepord>10</deepord>
+<deepord>11</deepord>
 <children>
 <LM id="ju_038.08-SCzechT-m-d1t2572-8">
 <a>
@@ -1513,7 +1529,7 @@
 <number>pl</number>
 <numertype>basic</numertype>
 </gram>
-<deepord>9</deepord>
+<deepord>10</deepord>
 </LM>
 </children>
 </LM>
@@ -1528,7 +1544,7 @@
 <nodetype>atom</nodetype>
 <t_lemma>tak</t_lemma>
 <functor>CM</functor>
-<deepord>12</deepord>
+<deepord>13</deepord>
 </LM>
 <LM id="ju_038.08-SCzechT-m-d1t2574-3">
 <a>
@@ -1551,7 +1567,7 @@
 <iterativeness>it0</iterativeness>
 <negation>neg0</negation>
 </gram>
-<deepord>14</deepord>
+<deepord>15</deepord>
 <children>
 <LM id="ju_038.08-SCzechT-m-d1t2574-2">
 <a>
@@ -1565,7 +1581,7 @@
 <gender>neut</gender>
 <number>sg</number>
 </gram>
-<deepord>13</deepord>
+<deepord>14</deepord>
 <coref_text>
 <LM>
 <target-node.rf>ju_038.08-SCzechT-m-d1t2526-6</target-node.rf>
@@ -1590,7 +1606,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>15</deepord>
+<deepord>16</deepord>
 <coref_text>
 <LM>
 <target-node.rf>ju_038.08-SCzechT-m-d1t2526-3</target-node.rf>
