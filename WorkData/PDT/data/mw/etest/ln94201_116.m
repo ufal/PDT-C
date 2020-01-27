@@ -906,7 +906,7 @@
 <form>jr</form>
 <tag>
 <AM lemma="jr_:B" src="auto">NNMSX-----A----</AM>
-<AM lemma="jr_:B_^(junior) NNXXX-----A---8" src="manual">NNMSX-----A----</AM>
+<AM lemma="jr_:B_^(junior)" src="manual">NNMSX-----A----</AM>
 <AM lemma="jr_:B_^(junior)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
@@ -6245,7 +6245,7 @@
 <form>jr</form>
 <tag>
 <AM lemma="jr_:B" src="auto">NNMSX-----A----</AM>
-<AM lemma="jr_:B_^(junior) NNXXX-----A---8" src="manual">NNXXX-----A----</AM>
+<AM lemma="jr_:B_^(junior)" src="manual">NNXXX-----A----</AM>
 <AM lemma="jr_:B_^(junior)" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>

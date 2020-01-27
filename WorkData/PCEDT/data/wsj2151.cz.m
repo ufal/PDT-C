@@ -1890,7 +1890,7 @@
 <form>irsko</form>
 <tag>
 <AM lemma="irský" src="auto" recommended="1">A2--------A----</AM>
-<AM lemma="irsko _^(*1ý)  " src="manual" selected="1">S2--------A----</AM>
+<AM lemma="irsko_^(*1ý)" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj2151-001-p1s7W8-Ta">
@@ -2210,7 +2210,7 @@
 <AM lemma="Irsko_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Irsko_;G" src="auto">NNNS5-----A----</AM>
 <AM lemma="irský" src="auto">A2--------A----</AM>
-<AM lemma="irsko _^(*1ý)  " src="manual" selected="1">S2--------A----</AM>
+<AM lemma="irsko_^(*1ý)" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj2151-001-p1s10W2-Ta">
@@ -7289,7 +7289,7 @@
 <form>sovětsko</form>
 <tag>
 <AM lemma="sovětský" src="auto" recommended="1">A2--------A----</AM>
-<AM lemma="sovětsko_^(*1ý)  " src="manual" selected="1">S2--------A----</AM>
+<AM lemma="sovětsko_^(*1ý)" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj2151-001-p1s32W18-Ta">

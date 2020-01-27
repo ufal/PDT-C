@@ -10406,7 +10406,7 @@
 <form>Křesťansko</form>
 <tag>
 <AM lemma="křesťanský" src="auto" recommended="1">A2--------A----</AM>
-<AM lemma="křesťansko _^(*1ý)" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="křesťansko_^(*1ý)" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj1337-001-p1s38W15-Ta">

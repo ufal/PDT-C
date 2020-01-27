@@ -2472,7 +2472,7 @@
 <form>čtyř</form>
 <tag>
 <AM lemma="čtyři`4" src="auto" recommended="1">ClXP2----------</AM>
-<AM lemma="čtyř`4 _^(*1i)" src="manual">S2--------A----</AM>
+<AM lemma="čtyř`4_^(*1i)" src="manual">S2--------A----</AM>
 <AM lemma="čtyř`4" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>

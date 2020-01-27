@@ -93,10 +93,10 @@
 <w.rf>
 <LM>w#w-d1t3230-15</LM>
 </w.rf>
-<form>2 000</form>
+<form>2000</form>
 <tag>
-<AM lemma="2 000" src="auto">X@-------------</AM>
-<AM lemma="2 000" src="manual">C=-------------</AM>
+<AM lemma="2000" src="auto">X@-------------</AM>
+<AM lemma="2000" src="manual">C=-------------</AM>
 <AM lemma="2000" src="manual" selected="1">C=-------------</AM>
 </tag>
 </m>

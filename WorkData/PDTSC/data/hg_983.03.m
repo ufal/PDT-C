@@ -3660,7 +3660,7 @@
 <form>Mauriciánky</form>
 <tag>
 <AM lemma="Mauriciánky" src="auto">X@-------------</AM>
-<AM lemma="Mauriciánka_;E_^(obyvatelky Mauricia)" src="manual">NNFP1-----A----</AM>
+<AM lemma="Mauriciánka_;E_^(obyvatelky_Mauricia)" src="manual">NNFP1-----A----</AM>
 <AM lemma="Mauriciánka_;E_^(obyvatelka_Mauricia)" src="manual" selected="1">NNFP1-----A----</AM>
 </tag>
 </m>

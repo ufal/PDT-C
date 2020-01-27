@@ -834,7 +834,7 @@
 <w.rf>
 <LM>w#w-d1t1109-8</LM>
 </w.rf>
-<form>Göring </form>
+<form>Göring</form>
 <tag>
 <AM lemma="Göring" src="auto">X@-------------</AM>
 <AM lemma="Göring_;S" src="manual" selected="1">NNMS1-----A----</AM>
@@ -863,7 +863,7 @@
 <w.rf>
 <LM>w#w-d1t1111-2</LM>
 </w.rf>
-<form>Göring </form>
+<form>Göring</form>
 <tag>
 <AM lemma="Göring" src="auto">X@-------------</AM>
 <AM lemma="Göring_;S" src="manual" selected="1">NNMS1-----A----</AM>

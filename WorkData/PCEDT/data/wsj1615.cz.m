@@ -12070,7 +12070,7 @@
 <form>Courterovu</form>
 <tag>
 <AM lemma="Courterovu" src="auto">X@-------------</AM>
-<AM lemma="Courterův_;S_^(*2) " src="manual" selected="1">AUIS3M---------</AM>
+<AM lemma="Courterův_;S_^(*2)" src="manual" selected="1">AUIS3M---------</AM>
 </tag>
 </m>
 <m id="m-wsj1615-001-p1s38W12-Ta">
@@ -21120,7 +21120,7 @@
 <form>Courterovým</form>
 <tag>
 <AM lemma="Courterovým" src="auto">X@-------------</AM>
-<AM lemma="Courterův_;S_^(*2) " src="manual" selected="1">AUIS7M---------</AM>
+<AM lemma="Courterův_;S_^(*2)" src="manual" selected="1">AUIS7M---------</AM>
 </tag>
 </m>
 <m id="m-wsj1615-001-p1s69W9-Ta">

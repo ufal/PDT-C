@@ -2166,7 +2166,7 @@
 <tag>
 <AM lemma="rubín" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="rubín" src="auto">NNIS4-----A----</AM>
-<AM lemma="Rubín-2_;R_^(odrůda jablek)" src="manual">NNIS1-----A----</AM>
+<AM lemma="Rubín-2_;R_^(odrůda_jablek)" src="manual">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m009-d-id131600">

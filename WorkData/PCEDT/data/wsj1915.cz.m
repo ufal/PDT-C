@@ -8872,7 +8872,7 @@
 <form>Herculesu</form>
 <tag>
 <AM lemma="Herculesu" src="auto">X@-------------</AM>
-<AM lemma=" Hercules-2_;G_;R_^(město;;letadlo;;lepidlo)" src="manual">NNIS6-----A----</AM>
+<AM lemma="Hercules-2_;G_;R_^(město;;letadlo;;lepidlo)" src="manual">NNIS6-----A----</AM>
 <AM lemma="Hercules-2_;G_;R_^(město;;letadlo;;lepidlo)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>

@@ -2554,7 +2554,7 @@
 <AM lemma="pragmatizmus" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="pragmatizmus" src="auto">NNIS3-----A----</AM>
 <AM lemma="pragmatizmus" src="auto">NNIS6-----A----</AM>
-<AM lemma="pragmatismus_,s_^(^DD** pragmatizmus)" src="manual">NNIS2-----A----</AM>
+<AM lemma="pragmatismus_,s_^(^DD**pragmatizmus)" src="manual">NNIS2-----A----</AM>
 <AM lemma="pragmatismus_,s_^(^DD**pragmatizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>

@@ -5939,7 +5939,7 @@
 <form>milion</form>
 <tag>
 <AM lemma="milión`1000000" src="orig">NNIS4-----A----</AM>
-<AM lemma="milion`1000000_,s _^(^DD**milión)" src="manual">NNIS4-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual">NNIS4-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>

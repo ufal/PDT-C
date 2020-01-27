@@ -1154,7 +1154,7 @@
 <form>konjunkturalismu</form>
 <tag>
 <AM lemma="konjunkturalismus" src="orig">NNIS2-----A----</AM>
-<AM lemma="konjunkturalismus_,s_^(^DD** konjunkturalizmus(" src="manual">NNIS2-----A----</AM>
+<AM lemma="konjunkturalismus_,s_^(^DD**konjunkturalizmus)" src="manual">NNIS2-----A----</AM>
 <AM lemma="konjunkturalismus_,s_^(^DD**konjunkturalizmus)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>

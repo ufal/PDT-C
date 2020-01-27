@@ -39,7 +39,7 @@
 <form>México</form>
 <tag>
 <AM lemma="Mexiko_;G_,t_,x" src="auto">NNNS1-----A----</AM>
-<AM lemma="México_;G_,s_^(^DD** Mexiko)" src="manual">NNNS1-----A----</AM>
+<AM lemma="México_;G_,s_^(^DD**Mexiko)" src="manual">NNNS1-----A----</AM>
 <AM lemma="México_;G_,s_^(^DD**Mexiko)" src="manual" selected="1">NNNS1-----A----</AM>
 </tag>
 </m>

@@ -1023,7 +1023,7 @@
 <form>Philadelphií</form>
 <tag>
 <AM lemma="Philadelphia_;G" src="orig">NNFS7-----A----</AM>
-<AM lemma="Philadelphia_;G_,s_^(^DD** Filadelfie)" src="manual">NNFS7-----A----</AM>
+<AM lemma="Philadelphia_;G_,s_^(^DD**Filadelfie)" src="manual">NNFS7-----A----</AM>
 <AM lemma="Philadelphia_;G_,s_^(^DD**Filadelfie)" src="manual">NNFS7-----A----</AM>
 <AM lemma="Philadelphie_;G_,s_^(^DD**Filadelfie)" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>

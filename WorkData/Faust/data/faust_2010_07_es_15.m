@@ -1824,7 +1824,7 @@
 <tag>
 <AM lemma="zas-1" recommended="1">Db-------------</AM>
 <AM lemma="zas-2">TT-------------</AM>
-<AM lemma="s zas-1_,s_^(^DD**zase-1)" src="manual">Db-------------</AM>
+<AM lemma="zas-1_,s_^(^DD**zase-1)" src="manual">Db-------------</AM>
 <AM lemma="zas-1_,s_^(^DD**zase-1)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>

@@ -885,7 +885,7 @@
 <form>kursorem</form>
 <tag>
 <AM lemma="kurzor_,x" src="orig">NNIS7-----A----</AM>
-<AM lemma="kursor _,s_^(^DD**kurzor)" src="manual">NNIS7-----A----</AM>
+<AM lemma="kursor_,s_^(^DD**kurzor)" src="manual">NNIS7-----A----</AM>
 <AM lemma="kursor_,s_^(^DD**kurzor)" src="manual" selected="1">NNIS7-----A----</AM>
 </tag>
 </m>

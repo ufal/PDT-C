@@ -10454,7 +10454,7 @@
 <form>tří</form>
 <tag>
 <AM lemma="tři`3" src="auto" recommended="1">ClXP2----------</AM>
-<AM lemma="tří`3 _^(*1i)" src="manual">S2--------A----</AM>
+<AM lemma="tří`3_^(*1i)" src="manual">S2--------A----</AM>
 <AM lemma="tří`3_^(*1i)" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>

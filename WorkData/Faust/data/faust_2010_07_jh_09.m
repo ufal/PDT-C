@@ -5231,7 +5231,7 @@
 <AM lemma="zaměstnanost-1_^(všeob._význam:_činnost,_zaměstnání)_(*5ý-1)">NNFP2-----A----</AM>
 <AM lemma="zaměstnanost-2_^(politika_z.;_přednost_před_odvoz.)">NNFP2-----A----</AM>
 <AM lemma="zaměstnanost-2_^(politika_z.;_přednost_před_odvoz.)">NNFS7-----A----</AM>
-<AM lemma=" zaměstnanost_^(*3ý)" src="manual">NNFS7-----A----</AM>
+<AM lemma="zaměstnanost_^(*3ý)" src="manual">NNFS7-----A----</AM>
 <AM lemma="zaměstnanost_^(*3ý)" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>

@@ -91,7 +91,7 @@
 <AM lemma="expertiza_,x" src="auto">NNFP4-----A----</AM>
 <AM lemma="expertiza_,x" src="auto">NNFP5-----A----</AM>
 <AM lemma="expertiza_,x" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="expertíza_,s _^(^DD**expertiza)" src="manual">NNFS2-----A----</AM>
+<AM lemma="expertíza_,s_^(^DD**expertiza)" src="manual">NNFS2-----A----</AM>
 <AM lemma="expertíza_,s_^(^DD**expertiza)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
@@ -7034,7 +7034,7 @@
 <AM lemma="expertiza_,x" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="expertiza_,x" src="auto">NNFP5-----A----</AM>
 <AM lemma="expertiza_,x" src="auto">NNFS2-----A----</AM>
-<AM lemma="expertíza_,s _^(^DD**expertiza)" src="manual">NNFP4-----A----</AM>
+<AM lemma="expertíza_,s_^(^DD**expertiza)" src="manual">NNFP4-----A----</AM>
 <AM lemma="expertíza_,s_^(^DD**expertiza)" src="manual" selected="1">NNFP4-----A----</AM>
 </tag>
 </m>

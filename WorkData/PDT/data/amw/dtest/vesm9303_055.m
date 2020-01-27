@@ -1805,7 +1805,7 @@
 <form>therapii</form>
 <tag>
 <AM lemma="therapie" src="orig">NNFS6-----A----</AM>
-<AM lemma="therapie_,s _^(^DD**terapie)" src="manual">NNFS6-----A----</AM>
+<AM lemma="therapie_,s_^(^DD**terapie)" src="manual">NNFS6-----A----</AM>
 <AM lemma="therapie_,s_^(^DD**terapie)" src="manual" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
@@ -1859,7 +1859,7 @@
 <form>naftolismus</form>
 <tag>
 <AM lemma="naftolismus" src="orig">NNIS4-----A----</AM>
-<AM lemma="naftolismus_,s _^(^DD**naftolizmus)" src="manual">NNIS4-----A----</AM>
+<AM lemma="naftolismus_,s_^(^DD**naftolizmus)" src="manual">NNIS4-----A----</AM>
 <AM lemma="naftolismus_,s_^(^DD**naftolizmus)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
@@ -2160,7 +2160,7 @@
 <form>therapie</form>
 <tag>
 <AM lemma="therapie" src="orig">NNFS2-----A----</AM>
-<AM lemma="therapie_,s _^(^DD**terapie)" src="manual">NNFS2-----A----</AM>
+<AM lemma="therapie_,s_^(^DD**terapie)" src="manual">NNFS2-----A----</AM>
 <AM lemma="therapie_,s_^(^DD**terapie)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>

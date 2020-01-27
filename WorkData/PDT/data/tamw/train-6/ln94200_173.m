@@ -3762,7 +3762,7 @@
 <form>cynismus</form>
 <tag>
 <AM lemma="cynismus" src="orig">NNIS4-----A----</AM>
-<AM lemma="cynismus _,s_^(^DD** cynizmus)" src="manual">NNIS4-----A----</AM>
+<AM lemma="cynismus_,s_^(^DD**cynizmus)" src="manual">NNIS4-----A----</AM>
 <AM lemma="cynismus_,s_^(^DD**cynizmus)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>

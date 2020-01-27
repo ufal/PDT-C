@@ -61,7 +61,7 @@
 <form>mafioso</form>
 <tag>
 <AM lemma="mafiózo" src="auto">NNMS1-----A---1</AM>
-<AM lemma="mafioso _,s_^(^DD*mafiózo)" src="manual">NNMS1-----A---1</AM>
+<AM lemma="mafioso_,s_^(^DD*mafiózo)" src="manual">NNMS1-----A---1</AM>
 <AM lemma="mafioso_,s_^(^DD*mafiózo)" src="manual">NNMS1-----A----</AM>
 <AM lemma="mafioso_,s_^(^DD**mafiózo)" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>

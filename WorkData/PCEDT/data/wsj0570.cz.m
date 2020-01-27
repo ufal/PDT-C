@@ -2761,7 +2761,7 @@
 <form>Massachussetts</form>
 <tag>
 <AM lemma="Massachussetts" src="auto">X@-------------</AM>
-<AM lemma="Massachussetts_;G ,h_^(^GC**Massachusetts)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Massachussetts_;G_,h_^(^GC**Massachusetts)" src="manual">NNIXX-----A----</AM>
 <AM lemma="Massachussetts_;G_,h_^(^GC**Massachusetts)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>

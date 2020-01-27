@@ -14873,7 +14873,7 @@
 <form>Muniakova</form>
 <tag>
 <AM lemma="Muniakova" src="auto">X@-------------</AM>
-<AM lemma="Muniakův " src="manual">AUFS1M---------</AM>
+<AM lemma="Muniakův" src="manual">AUFS1M---------</AM>
 <AM lemma="Muniakův_;S_^(*2)" src="manual" selected="1">AUFS1M---------</AM>
 </tag>
 </m>

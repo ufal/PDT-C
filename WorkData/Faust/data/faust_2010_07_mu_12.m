@@ -1705,7 +1705,7 @@
 <AM lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)">AANS1----1A---6</AM>
 <AM lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)">AANS4----1A---6</AM>
 <AM lemma="dlouhý-2_^(o_čase;_př._dlouhá_doba)">AANS5----1A---6</AM>
-<AM lemma=" dlouhý_^(tyč;doba)" src="manual">AAIS4----1A----</AM>
+<AM lemma="dlouhý_^(tyč;doba)" src="manual">AAIS4----1A----</AM>
 <AM lemma="dlouhý_^(tyč;doba)" src="manual" selected="1">AAIS4----1A----</AM>
 </tag>
 </m>

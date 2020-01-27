@@ -3697,7 +3697,7 @@
 <form>havajsko</form>
 <tag>
 <AM lemma="havajský" src="auto" recommended="1">A2--------A----</AM>
-<AM lemma="havajsko_^(*1ý) " src="manual" selected="1">S2--------A----</AM>
+<AM lemma="havajsko_^(*1ý)" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj1649-001-p1s13W21-Ta">

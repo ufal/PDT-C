@@ -2996,7 +2996,7 @@
 <form>dá</form>
 <tag>
 <AM lemma="dát" recommended="1">VB-S---3P-AA---</AM>
-<AM lemma=" dát-2_^(dá_se_očekávat)" src="manual">VB-S---3P-AAI--</AM>
+<AM lemma="dát-2_^(dá_se_očekávat)" src="manual">VB-S---3P-AAI--</AM>
 <AM lemma="dát-2_^(dá_se_očekávat)" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>

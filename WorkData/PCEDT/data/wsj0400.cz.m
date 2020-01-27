@@ -12139,7 +12139,7 @@
 <AM lemma="kupónový" src="auto">AANS1----1A---6</AM>
 <AM lemma="kupónový" src="auto">AANS4----1A---6</AM>
 <AM lemma="kupónový" src="auto">AANS5----1A---6</AM>
-<AM lemma=" kuponový_,s_^(^DD**kupónový)" src="manual">AAIS1----1A----</AM>
+<AM lemma="kuponový_,s_^(^DD**kupónový)" src="manual">AAIS1----1A----</AM>
 <AM lemma="kuponový_,s_^(^DD**kupónový)" src="manual" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>

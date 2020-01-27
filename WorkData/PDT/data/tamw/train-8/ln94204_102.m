@@ -1584,7 +1584,7 @@
 <AM lemma="rayonismus" src="orig">NNIS1-----A----</AM>
 <AM lemma="rayonizmus_;u_,x" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="rayonizmus_;u_,x" src="auto">NNIS4-----A----</AM>
-<AM lemma="rayonismus _,s_^(^DD** rayonizmus)" src="manual">NNIS1-----A----</AM>
+<AM lemma="rayonismus_,s_^(^DD**rayonizmus)" src="manual">NNIS1-----A----</AM>
 <AM lemma="rayonismus_,s_^(^DD**rayonizmus)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
