@@ -1779,11 +1779,14 @@
 <form>600milionové</form>
 <tag>
 <AM lemma="600milionové" src="auto">X@-------------</AM>
-<AM lemma="600milionový_,s_^(^DD**600miliónový)" src="manual" selected="1">AAFS2----1A----</AM>
+<AM lemma="600milionový_,s_^(^DD**600miliónový)" src="manual">AAFS2----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 600 milionové</text>
+</LM>
+<LM type="New Form">
+<text>600</text>
 </LM>
 </comment>
 </m>

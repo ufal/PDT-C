@@ -2417,11 +2417,14 @@
 <form>45akrovou</form>
 <tag>
 <AM lemma="45akrovou" src="auto">X@-------------</AM>
-<AM lemma="45akrový" src="manual" selected="1">AAFS4----1A----</AM>
+<AM lemma="45akrový" src="manual">AAFS4----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 45 akrovou</text>
+</LM>
+<LM type="New Form">
+<text>45</text>
 </LM>
 </comment>
 </m>
@@ -6098,11 +6101,6 @@
 <AM lemma="totalizátor" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="totalizátor" src="auto">NNMS1-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>mezi slovy systému a totalizátor by logicky měla být čárka</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1174-001-p1s23W17-Ta">
 <src.rf>tagger-a</src.rf>

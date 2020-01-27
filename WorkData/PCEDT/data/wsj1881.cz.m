@@ -8552,11 +8552,6 @@
 </w.rf>
 <form>,</form>
 <tag lemma="," src="auto" recommended="1">Z:-------------</tag>
-<comment>
-<LM type="Other">
-<text>čárka je tu patrně navíc</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1881-001-p1s26W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9496,6 +9491,11 @@
 <AM lemma="v-1" src="auto">RV--4----------</AM>
 <AM lemma="v-1" src="auto" recommended="1">RV--6----------</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>v</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1881-001-p1s31W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9512,6 +9512,11 @@
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS6-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>delete</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1881-001-p1s31W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9529,11 +9534,6 @@
 <AM lemma="Buffettův_;S_^(*2)" src="auto">AUNS3M--------6</AM>
 <AM lemma="Buffettův_;S_^(*2)" src="auto">AUNS6M---------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>doplnit čárku za slovo "Buffettově"</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1881-001-p1s31W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9989,11 +9989,6 @@
 <AM lemma="13D" src="auto">X@-------------</AM>
 <AM lemma="13D-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1881-001-p1s33W14-Ta">
 <src.rf>tagger-a</src.rf>

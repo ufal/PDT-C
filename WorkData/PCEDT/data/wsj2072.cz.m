@@ -324,11 +324,14 @@
 <form>68týdenní</form>
 <tag>
 <AM lemma="68týdenní" src="auto">X@-------------</AM>
-<AM lemma="68týdenní" src="manual" selected="1">AAFS4----1A----</AM>
+<AM lemma="68týdenní" src="manual">AAFS4----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 68 týdenní</text>
+</LM>
+<LM type="New Form">
+<text>68</text>
 </LM>
 </comment>
 </m>

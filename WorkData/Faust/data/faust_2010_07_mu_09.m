@@ -2043,11 +2043,11 @@
 <form>3330kg</form>
 <tag lemma="3330kg">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace, rozdělit</text>
-</LM>
 <LM type="New Form">
 <text>3330</text>
+</LM>
+<LM type="Other">
+<text>2v1: 3330 kg</text>
 </LM>
 </comment>
 </m>
@@ -2086,8 +2086,16 @@
 <form>m3</form>
 <tag>
 <AM lemma="m3-1_:B_^(metr_krychlový)" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="m3_^(metr_krychlový)" src="manual" selected="1">NNIXX-----A---b</AM>
+<AM lemma="m3_^(metr_krychlový)" src="manual">NNIXX-----A---b</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: m 3</text>
+</LM>
+<LM type="New Form">
+<text>m</text>
+</LM>
+</comment>
 </m>
 <m id="mu_09-SCzechM-p0897-s1-w10">
 <w.rf>
@@ -3366,6 +3374,12 @@
 <LM type="New Form">
 <text>Narozdíl</text>
 </LM>
+<LM type="Other">
+<text>2v1: Na rozdíl</text>
+</LM>
+<LM type="New Form">
+<text>Na</text>
+</LM>
 </comment>
 </m>
 <m id="mu_09-SCzechM-p0913-s1-w16">
@@ -3672,6 +3686,9 @@
 <comment>
 <LM type="New Form">
 <text>okamažicích</text>
+</LM>
+<LM type="New Form">
+<text>okamžicích</text>
 </LM>
 </comment>
 </m>

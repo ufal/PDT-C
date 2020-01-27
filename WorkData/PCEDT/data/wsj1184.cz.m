@@ -5023,11 +5023,14 @@
 <form>136stránková</form>
 <tag>
 <AM lemma="136stránková" src="auto">X@-------------</AM>
-<AM lemma="136stránkový" src="manual" selected="1">AAFS1----1A----</AM>
+<AM lemma="136stránkový" src="manual">AAFS1----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 136 stránková</text>
+</LM>
+<LM type="New Form">
+<text>136</text>
 </LM>
 </comment>
 </m>

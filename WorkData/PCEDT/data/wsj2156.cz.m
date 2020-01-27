@@ -2436,7 +2436,7 @@
 <text>čtyř</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: čtyř -</text>
 </LM>
 </comment>
 </m>

@@ -236,7 +236,7 @@
 <text>S</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace, nutno rozdělit</text>
+<text>3v1: S . p</text>
 </LM>
 </comment>
 </m>

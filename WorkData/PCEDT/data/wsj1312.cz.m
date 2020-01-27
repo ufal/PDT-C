@@ -6137,13 +6137,16 @@
 <form>15letými</form>
 <tag>
 <AM lemma="15letý" src="auto" recommended="1">AAFP7----1A----</AM>
-<AM lemma="15letý" src="auto" selected="1">AAIP7----1A----</AM>
+<AM lemma="15letý" src="auto">AAIP7----1A----</AM>
 <AM lemma="15letý" src="auto">AAMP7----1A----</AM>
 <AM lemma="15letý" src="auto">AANP7----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 15 letými</text>
+</LM>
+<LM type="New Form">
+<text>15</text>
 </LM>
 </comment>
 </m>
@@ -12189,11 +12192,14 @@
 <form>45miliardového</form>
 <tag>
 <AM lemma="45miliardového" src="auto">X@-------------</AM>
-<AM lemma="45miliardový" src="manual" selected="1">AAIS2----1A----</AM>
+<AM lemma="45miliardový" src="manual">AAIS2----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 45 miliardového</text>
+</LM>
+<LM type="New Form">
+<text>45</text>
 </LM>
 </comment>
 </m>

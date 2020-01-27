@@ -2257,11 +2257,14 @@
 <form>12kusové</form>
 <tag>
 <AM lemma="12kusové" src="auto">X@-------------</AM>
-<AM lemma="12kusový" src="manual" selected="1">AANS4----1A----</AM>
+<AM lemma="12kusový" src="manual">AANS4----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 12 kusové</text>
+</LM>
+<LM type="New Form">
+<text>12</text>
 </LM>
 </comment>
 </m>

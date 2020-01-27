@@ -17046,7 +17046,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>jedno "platby" je tu navíc</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>

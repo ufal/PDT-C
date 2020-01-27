@@ -2601,7 +2601,7 @@
 <text>0</text>
 </LM>
 <LM type="Other">
-<text>nutno rozdělit</text>
+<text>3v1: 0 x 00000000</text>
 </LM>
 </comment>
 </m>

@@ -3241,7 +3241,7 @@
 <text>80</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace, nutno rozdělit</text>
+<text>3v1: 80 . let</text>
 </LM>
 </comment>
 </m>

@@ -4659,7 +4659,7 @@
 <AM lemma="30letý" src="auto">AAFS2----1A----</AM>
 <AM lemma="30letý" src="auto">AAFS3----1A----</AM>
 <AM lemma="30letý" src="auto">AAFS6----1A----</AM>
-<AM lemma="30letý" src="auto" selected="1">AAIP1----1A----</AM>
+<AM lemma="30letý" src="auto">AAIP1----1A----</AM>
 <AM lemma="30letý" src="auto" recommended="1">AAIP4----1A----</AM>
 <AM lemma="30letý" src="auto">AAIP5----1A----</AM>
 <AM lemma="30letý" src="auto">AAMP4----1A----</AM>
@@ -4672,7 +4672,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 30 leté</text>
+</LM>
+<LM type="New Form">
+<text>30</text>
 </LM>
 </comment>
 </m>
@@ -6563,7 +6566,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 30 letých</text>
+</LM>
+<LM type="New Form">
+<text>30</text>
 </LM>
 </comment>
 </m>
@@ -8154,7 +8160,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 30 leté</text>
+</LM>
+<LM type="New Form">
+<text>30</text>
 </LM>
 </comment>
 </m>
@@ -8525,7 +8534,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 10 leté</text>
+</LM>
+<LM type="New Form">
+<text>10</text>
 </LM>
 </comment>
 </m>
@@ -12127,7 +12139,7 @@
 <AM lemma="kupónový" src="auto">AANS1----1A---6</AM>
 <AM lemma="kupónový" src="auto">AANS4----1A---6</AM>
 <AM lemma="kupónový" src="auto">AANS5----1A---6</AM>
-<AM lemma="	kuponový_,s_^(^DD**kupónový)" src="manual">AAIS1----1A----</AM>
+<AM lemma=" kuponový_,s_^(^DD**kupónový)" src="manual">AAIS1----1A----</AM>
 <AM lemma="kuponový_,s_^(^DD**kupónový)" src="manual" selected="1">AAIS1----1A----</AM>
 </tag>
 </m>

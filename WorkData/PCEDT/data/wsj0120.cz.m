@@ -2654,11 +2654,14 @@
 <form>Christie's</form>
 <tag>
 <AM lemma="Christie's" src="auto">X@-------------</AM>
-<AM lemma="Christie's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Christie's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>Christie</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Christie ' s</text>
 </LM>
 </comment>
 </m>
@@ -7351,11 +7354,14 @@
 <form>Sprint's</form>
 <tag>
 <AM lemma="Sprint's" src="auto">X@-------------</AM>
-<AM lemma="Sprint's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Sprint's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>Sprint</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Sprint ' s</text>
 </LM>
 </comment>
 </m>
@@ -11831,11 +11837,6 @@
 <AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nedokončená věta</text>
-</LM>
-</comment>
 </m>
 </s>
 <s id="m-wsj0120-001-p1s46">

@@ -1111,11 +1111,14 @@
 <form>225akciový</form>
 <tag>
 <AM lemma="225akciový" src="auto">X@-------------</AM>
-<AM lemma="225akciový" src="manual" selected="1">AAIS1----1A----</AM>
+<AM lemma="225akciový" src="manual">AAIS1----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 225 akciový</text>
+</LM>
+<LM type="New Form">
+<text>225</text>
 </LM>
 </comment>
 </m>

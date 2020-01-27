@@ -1079,7 +1079,7 @@
 <tag lemma="," src="auto" recommended="1">Z:-------------</tag>
 <comment>
 <LM type="Other">
-<text>špatné umístění čárky, měla by být před slovem "co"</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>

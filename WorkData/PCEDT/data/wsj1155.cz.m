@@ -2873,6 +2873,11 @@
 <form_change>num_normalization</form_change>
 <form>1125</form>
 <tag lemma="1125" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>1.125</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1155-001-p1s9W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2881,15 +2886,10 @@
 </w.rf>
 <form>dolaru</form>
 <tag>
-<AM lemma="dolar" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="dolar" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="dolar" src="auto">NNIS3-----A----</AM>
 <AM lemma="dolar" src="auto">NNIS6-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>dolarů</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1155-001-p1s9W16-Ta">
 <src.rf>tagger-a</src.rf>

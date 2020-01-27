@@ -196,11 +196,6 @@
 <AM lemma="X1i">X@-------------</AM>
 <AM lemma="X1i-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
-</LM>
-</comment>
 </m>
 <m id="es_17-SCzechM-p1754-s1-w2">
 <w.rf>
@@ -218,11 +213,6 @@
 <AM lemma="X1j">X@-------------</AM>
 <AM lemma="X1j-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
-</LM>
-</comment>
 </m>
 <m id="es_17-SCzechM-p1754-s1-w4">
 <w.rf>
@@ -1609,11 +1599,14 @@
 <form>PT10</form>
 <tag>
 <AM lemma="PT10">X@-------------</AM>
-<AM lemma="PT10-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PT10-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: PT 10</text>
+</LM>
+<LM type="New Form">
+<text>PT</text>
 </LM>
 </comment>
 </m>
@@ -1683,11 +1676,14 @@
 <form>T6</form>
 <tag>
 <AM lemma="T6">X@-------------</AM>
-<AM lemma="T6-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="T6-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: T 6</text>
+</LM>
+<LM type="New Form">
+<text>T</text>
 </LM>
 </comment>
 </m>

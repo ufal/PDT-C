@@ -1374,6 +1374,11 @@
 <form_change>num_normalization</form_change>
 <form>1875</form>
 <tag lemma="1875" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>1.875</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0950-001-p1s3W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1428,6 +1433,11 @@
 <form_change>num_normalization</form_change>
 <form>44875</form>
 <tag lemma="44875" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>44.875</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0950-001-p1s3W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1436,15 +1446,10 @@
 </w.rf>
 <form>dolaru</form>
 <tag>
-<AM lemma="dolar" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="dolar" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="dolar" src="auto">NNIS3-----A----</AM>
 <AM lemma="dolar" src="auto">NNIS6-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>dolarech</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0950-001-p1s3W19-Ta">
 <src.rf>tagger-a</src.rf>

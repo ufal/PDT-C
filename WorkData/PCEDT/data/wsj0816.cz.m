@@ -5081,7 +5081,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>chybná tokenizace</text>
+<text>2v1: 30 letý</text>
+</LM>
+<LM type="New Form">
+<text>30</text>
 </LM>
 </comment>
 </m>
@@ -5467,6 +5470,11 @@
 <form_change>num_normalization</form_change>
 <form>18400</form>
 <tag lemma="18400" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>1.8400</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0816-001-p1s24W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5478,13 +5486,8 @@
 <AM lemma="marka" src="auto">NNFP1-----A----</AM>
 <AM lemma="marka" src="auto">NNFP4-----A----</AM>
 <AM lemma="marka" src="auto">NNFP5-----A----</AM>
-<AM lemma="marka" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="marka" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>marek</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0816-001-p1s24W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5588,6 +5591,11 @@
 <form_change>num_normalization</form_change>
 <form>18353</form>
 <tag lemma="18353" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>1.8353</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0816-001-p1s24W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5599,13 +5607,8 @@
 <AM lemma="marka" src="auto">NNFP1-----A----</AM>
 <AM lemma="marka" src="auto">NNFP4-----A----</AM>
 <AM lemma="marka" src="auto">NNFP5-----A----</AM>
-<AM lemma="marka" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="marka" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>markami</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0816-001-p1s24W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5762,6 +5765,11 @@
 <form_change>num_normalization</form_change>
 <form>15765</form>
 <tag lemma="15765" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>1.5765</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0816-001-p1s25W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5770,15 +5778,10 @@
 </w.rf>
 <form>dolaru</form>
 <tag>
-<AM lemma="dolar" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="dolar" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="dolar" src="auto">NNIS3-----A----</AM>
 <AM lemma="dolar" src="auto">NNIS6-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>dolarů</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0816-001-p1s25W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5839,6 +5842,11 @@
 <form_change>num_normalization</form_change>
 <form>16145</form>
 <tag lemma="16145" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>1.6145</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0816-001-p1s25W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5847,15 +5855,10 @@
 </w.rf>
 <form>dolaru</form>
 <tag>
-<AM lemma="dolar" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="dolar" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="dolar" src="auto">NNIS3-----A----</AM>
 <AM lemma="dolar" src="auto">NNIS6-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>dolary</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0816-001-p1s25W16-Ta">
 <src.rf>tagger-a</src.rf>

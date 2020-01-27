@@ -1781,11 +1781,11 @@
 <form>13ti</form>
 <tag>
 <AM lemma="13ti" src="auto">X@-------------</AM>
-<AM lemma="13ti" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="13ti" src="manual">S2--------A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
+<LM type="New Form">
+<text>13</text>
 </LM>
 </comment>
 </m>

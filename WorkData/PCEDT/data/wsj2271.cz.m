@@ -58,7 +58,10 @@
 <text>Co.</text>
 </LM>
 <LM type="Other">
-<text>špatné dělení slov, nutno rozdělit</text>
+<text>3v1: Co . uvedla</text>
+</LM>
+<LM type="New Form">
+<text>Co</text>
 </LM>
 </comment>
 </m>

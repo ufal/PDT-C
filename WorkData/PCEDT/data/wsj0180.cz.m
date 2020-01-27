@@ -747,11 +747,11 @@
 <AM lemma="ručení" src="manual">NNNS7-----A---8</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
-</LM>
 <LM type="New Form">
 <text>r</text>
+</LM>
+<LM type="Other">
+<text>2v1: r .</text>
 </LM>
 </comment>
 </m>
@@ -1296,17 +1296,12 @@
 <form>transplantace</form>
 <tag>
 <AM lemma="transplantace" src="auto">NNFP1-----A----</AM>
-<AM lemma="transplantace" src="auto">NNFP4-----A----</AM>
+<AM lemma="transplantace" src="auto" selected="1">NNFP4-----A----</AM>
 <AM lemma="transplantace" src="auto">NNFP5-----A----</AM>
 <AM lemma="transplantace" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="transplantace" src="auto">NNFS2-----A----</AM>
 <AM lemma="transplantace" src="auto">NNFS5-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>transplantaci</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0180-001-p1s3W21-Ta">
 <src.rf>tagger-a</src.rf>

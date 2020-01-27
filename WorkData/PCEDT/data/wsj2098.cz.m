@@ -1598,6 +1598,9 @@
 <LM type="New Form">
 <text>Dr</text>
 </LM>
+<LM type="Other">
+<text>2v1: Dr .</text>
+</LM>
 </comment>
 </m>
 <m id="m-wsj2098-001-p1s4W2-Ta">
@@ -2356,6 +2359,9 @@
 <comment>
 <LM type="New Form">
 <text>dr</text>
+</LM>
+<LM type="Other">
+<text>2v1: dr .</text>
 </LM>
 </comment>
 </m>

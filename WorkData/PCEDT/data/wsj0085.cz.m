@@ -6480,12 +6480,15 @@
 <tag>
 <AM lemma="55letý" src="auto">AAIS2----1A----</AM>
 <AM lemma="55letý" src="auto" recommended="1">AAMS2----1A----</AM>
-<AM lemma="55letý" src="auto" selected="1">AAMS4----1A----</AM>
+<AM lemma="55letý" src="auto">AAMS4----1A----</AM>
 <AM lemma="55letý" src="auto">AANS2----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 55 letého</text>
+</LM>
+<LM type="New Form">
+<text>55</text>
 </LM>
 </comment>
 </m>

@@ -6244,12 +6244,7 @@
 <LM>w#w-wsj0108-001-p1s33W12</LM>
 </w.rf>
 <form>Států</form>
-<tag lemma="stát-1_^(státní_útvar)" src="auto" recommended="1">NNIP2-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>států</text>
-</LM>
-</comment>
+<tag lemma="stát-1_^(státní_útvar)" src="auto" recommended="1" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj0108-001-p1s33W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7066,12 +7061,7 @@
 <LM>w#w-wsj0108-001-p1s36W24</LM>
 </w.rf>
 <form>Státech</form>
-<tag lemma="stát-1_^(státní_útvar)" src="auto" recommended="1">NNIP6-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>státech</text>
-</LM>
-</comment>
+<tag lemma="stát-1_^(státní_útvar)" src="auto" recommended="1" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-wsj0108-001-p1s36W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10101,11 +10091,14 @@
 <form>O'Brien</form>
 <tag>
 <AM lemma="O'Brien" src="auto">X@-------------</AM>
-<AM lemma="O'Brien_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="O'Brien_;S" src="manual">NNMS1-----A----</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>O</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: O ' Brien</text>
 </LM>
 </comment>
 </m>
@@ -11510,11 +11503,14 @@
 <form>O'Brien</form>
 <tag>
 <AM lemma="O'Brien" src="auto">X@-------------</AM>
-<AM lemma="O'Brien_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="O'Brien_;S" src="manual">NNMS1-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: O ' Brien</text>
+</LM>
+<LM type="New Form">
+<text>O</text>
 </LM>
 </comment>
 </m>

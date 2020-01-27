@@ -97,12 +97,7 @@
 <LM>w#w-wsj2406-001-p1s0W8</LM>
 </w.rf>
 <form>Států</form>
-<tag lemma="stát-1_^(státní_útvar)" src="auto" recommended="1">NNIP2-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>států</text>
-</LM>
-</comment>
+<tag lemma="stát-1_^(státní_útvar)" src="auto" recommended="1" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj2406-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -886,11 +881,11 @@
 <form>55ti</form>
 <tag>
 <AM lemma="55ti" src="auto">X@-------------</AM>
-<AM lemma="55ti" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="55ti" src="manual">S2--------A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
+<LM type="New Form">
+<text>55</text>
 </LM>
 </comment>
 </m>
@@ -1456,13 +1451,8 @@
 <AM lemma="blok" src="auto">NNIS2-----A----</AM>
 <AM lemma="blok" src="auto">NNIS3-----A----</AM>
 <AM lemma="blok" src="auto">NNIS5-----A----</AM>
-<AM lemma="blok" src="auto" recommended="1">NNIS6-----A----</AM>
+<AM lemma="blok" src="auto" recommended="1" selected="1">NNIS6-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>bloku</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj2406-001-p1s4W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6585,7 +6575,7 @@
 <tag lemma="povolit" src="auto" recommended="1">VpNS---XR-AAP--</tag>
 <comment>
 <LM type="Other">
-<text>ve větě je 2x slovo povolilo, zde ja navíc</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>
@@ -9601,7 +9591,7 @@
 <text>23</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace, nutno rozdělit</text>
+<text>2v1: 23 h</text>
 </LM>
 </comment>
 </m>
@@ -10959,11 +10949,11 @@
 <form>40ti</form>
 <tag>
 <AM lemma="40ti" src="auto">X@-------------</AM>
-<AM lemma="40ti" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="40ti" src="manual">S2--------A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
+<LM type="New Form">
+<text>40</text>
 </LM>
 </comment>
 </m>
@@ -11413,11 +11403,11 @@
 <form>35ti</form>
 <tag>
 <AM lemma="35ti" src="auto">X@-------------</AM>
-<AM lemma="35ti" src="manual" selected="1">S2--------A----</AM>
+<AM lemma="35ti" src="manual">S2--------A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
+<LM type="New Form">
+<text>35</text>
 </LM>
 </comment>
 </m>

@@ -5689,11 +5689,6 @@
 <AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nedokončená věta</text>
-</LM>
-</comment>
 </m>
 </s>
 <s id="m-wsj0254-001-p1s20">

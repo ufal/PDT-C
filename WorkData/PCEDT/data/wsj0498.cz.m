@@ -1742,11 +1742,14 @@
 <form>760megabytový</form>
 <tag>
 <AM lemma="760megabytový" src="auto">X@-------------</AM>
-<AM lemma="760megabytový" src="manual" selected="1">AAIS4----1A----</AM>
+<AM lemma="760megabytový" src="manual">AAIS4----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 760 megabytový</text>
+</LM>
+<LM type="New Form">
+<text>760</text>
 </LM>
 </comment>
 </m>

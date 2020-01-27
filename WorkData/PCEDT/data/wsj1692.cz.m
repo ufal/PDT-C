@@ -6752,7 +6752,7 @@
 <AM lemma="právní" src="auto">AAFP1----1A----</AM>
 <AM lemma="právní" src="auto">AAFP4----1A----</AM>
 <AM lemma="právní" src="auto">AAFP5----1A----</AM>
-<AM lemma="právní" src="auto" selected="1">AAFS1----1A----</AM>
+<AM lemma="právní" src="auto">AAFS1----1A----</AM>
 <AM lemma="právní" src="auto">AAFS2----1A----</AM>
 <AM lemma="právní" src="auto">AAFS3----1A----</AM>
 <AM lemma="právní" src="auto">AAFS4----1A----</AM>
@@ -6768,7 +6768,7 @@
 <AM lemma="právní" src="auto">AAMP1----1A----</AM>
 <AM lemma="právní" src="auto">AAMP4----1A----</AM>
 <AM lemma="právní" src="auto">AAMP5----1A----</AM>
-<AM lemma="právní" src="auto" recommended="1">AAMS1----1A----</AM>
+<AM lemma="právní" src="auto" recommended="1" selected="1">AAMS1----1A----</AM>
 <AM lemma="právní" src="auto">AAMS5----1A----</AM>
 <AM lemma="právní" src="auto">AANP1----1A----</AM>
 <AM lemma="právní" src="auto">AANP4----1A----</AM>
@@ -6786,7 +6786,7 @@
 <form>zástupce</form>
 <tag>
 <AM lemma="zástupce" src="auto">NNMP4-----A----</AM>
-<AM lemma="zástupce" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="zástupce" src="auto" recommended="1" selected="1">NNMS1-----A----</AM>
 <AM lemma="zástupce" src="auto">NNMS2-----A----</AM>
 <AM lemma="zástupce" src="auto">NNMS4-----A----</AM>
 <AM lemma="zástupce" src="auto">NNMS5-----A----</AM>
@@ -6795,11 +6795,6 @@
 <AM lemma="zástupka-2_,a_^(zastoupení)" src="auto">NNFS3-----A----</AM>
 <AM lemma="zástupka-2_,a_^(zastoupení)" src="auto">NNFS6-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>zástupkyně</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1692-001-p1s17W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13108,7 +13103,7 @@
 <text>O</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace, nutno rozdělit</text>
+<text>2v1: O Brion</text>
 </LM>
 </comment>
 </m>

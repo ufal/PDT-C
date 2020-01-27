@@ -10910,8 +10910,11 @@
 <AM lemma="44letý" src="auto">AANS5----1A---6</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>44</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 44 letý</text>
 </LM>
 </comment>
 </m>
@@ -21433,6 +21436,9 @@
 <LM type="New Form">
 <text>Kontra</text>
 </LM>
+<LM type="New Form">
+<text>Contras</text>
+</LM>
 </comment>
 </m>
 <m id="m-wsj0049-001-p1s72W10-Ta">
@@ -22215,7 +22221,7 @@
 <AM lemma="35letý" src="auto">AAMP1----1A---6</AM>
 <AM lemma="35letý" src="auto">AAMP4----1A---6</AM>
 <AM lemma="35letý" src="auto">AAMP5----1A---6</AM>
-<AM lemma="35letý" src="auto" selected="1">AAMS1----1A----</AM>
+<AM lemma="35letý" src="auto">AAMS1----1A----</AM>
 <AM lemma="35letý" src="auto">AAMS5----1A----</AM>
 <AM lemma="35letý" src="auto">AANP1----1A---6</AM>
 <AM lemma="35letý" src="auto">AANP4----1A---6</AM>
@@ -22226,7 +22232,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 35 letý</text>
+</LM>
+<LM type="New Form">
+<text>35</text>
 </LM>
 </comment>
 </m>

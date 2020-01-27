@@ -1788,11 +1788,14 @@
 <form>Barron's</form>
 <tag>
 <AM lemma="Barron's" src="auto">X@-------------</AM>
-<AM lemma="Barron's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Barron's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>Barron</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace Barron ' s</text>
+<text>3v1: Barron ' s</text>
 </LM>
 </comment>
 </m>

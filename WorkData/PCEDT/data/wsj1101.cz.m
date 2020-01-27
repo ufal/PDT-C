@@ -686,11 +686,14 @@
 <form>20stránkový</form>
 <tag>
 <AM lemma="20stránkový" src="auto">X@-------------</AM>
-<AM lemma="20stránkový" src="manual" selected="1">AAIS4----1A----</AM>
+<AM lemma="20stránkový" src="manual">AAIS4----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 20 stránkový</text>
+</LM>
+<LM type="New Form">
+<text>20</text>
 </LM>
 </comment>
 </m>

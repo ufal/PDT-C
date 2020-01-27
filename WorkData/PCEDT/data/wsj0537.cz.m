@@ -1236,8 +1236,8 @@
 <form>většina</form>
 <tag lemma="většina" src="auto" recommended="1">NNFS1-----A----</tag>
 <comment>
-<LM type="Other">
-<text>nepovedený překlad, pády nedávají smysl</text>
+<LM type="New Form">
+<text>většinu</text>
 </LM>
 </comment>
 </m>

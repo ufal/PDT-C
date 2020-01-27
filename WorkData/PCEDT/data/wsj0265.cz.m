@@ -172,11 +172,14 @@
 <form>120denním</form>
 <tag>
 <AM lemma="120denním" src="auto">X@-------------</AM>
-<AM lemma="120denní" src="manual" selected="1">AANS6----1A----</AM>
+<AM lemma="120denní" src="manual">AANS6----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 120 denním</text>
+</LM>
+<LM type="New Form">
+<text>120</text>
 </LM>
 </comment>
 </m>
@@ -1226,11 +1229,14 @@
 <form>120denního</form>
 <tag>
 <AM lemma="120denního" src="auto">X@-------------</AM>
-<AM lemma="120denní" src="manual" selected="1">AANS2----1A----</AM>
+<AM lemma="120denní" src="manual">AANS2----1A----</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>120</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 120 denního</text>
 </LM>
 </comment>
 </m>
@@ -1723,8 +1729,8 @@
 <AM lemma="investující_^(*5ovat)" src="auto">AGNS2-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatný pád, mělo by být "investujícímu"</text>
+<LM type="New Form">
+<text>investujícímu</text>
 </LM>
 </comment>
 </m>

@@ -2097,7 +2097,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 13 th</text>
 </LM>
 </comment>
 </m>

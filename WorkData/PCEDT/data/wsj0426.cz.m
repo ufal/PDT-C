@@ -9695,12 +9695,10 @@
 <LM>w#w-wsj0426-001-p1s32W15</LM>
 </w.rf>
 <form>Massachusets</form>
-<tag lemma="Massachusets" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Massachusetts</text>
-</LM>
-</comment>
+<tag>
+<AM lemma="Massachusets" src="auto">X@-------------</AM>
+<AM lemma="Massachusets_;G_,h_^(^GC**Massachusetts)" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0426-001-p1s32W16-Ta">
 <src.rf>tagger-a</src.rf>

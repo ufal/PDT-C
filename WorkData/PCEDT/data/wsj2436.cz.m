@@ -69,11 +69,11 @@
 <AM lemma="U.S-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
-</LM>
 <LM type="New Form">
 <text>U</text>
+</LM>
+<LM type="Other">
+<text>3v1: U . S</text>
 </LM>
 </comment>
 </m>
@@ -988,7 +988,7 @@
 <text>U</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace, nutno rozdělit</text>
+<text>5v1: U . S . News</text>
 </LM>
 </comment>
 </m>
@@ -1364,7 +1364,7 @@
 <text>3.3</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace, nutno rozdělit</text>
+<text>2v1: 3.3 mil</text>
 </LM>
 </comment>
 </m>
@@ -1401,7 +1401,7 @@
 <text>B</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace, nutno rozdělit</text>
+<text>3v1: B . Zuckerman</text>
 </LM>
 </comment>
 </m>
@@ -2285,7 +2285,7 @@
 <text>to</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace, nutno rozdělit</text>
+<text>2v1: to '</text>
 </LM>
 </comment>
 </m>
@@ -2485,7 +2485,7 @@
 <text>U</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace, nutno rozdělit</text>
+<text>5v1: U . S . News</text>
 </LM>
 </comment>
 </m>

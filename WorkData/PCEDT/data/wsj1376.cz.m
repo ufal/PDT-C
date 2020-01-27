@@ -12749,6 +12749,11 @@
 </w.rf>
 <form>3</form>
 <tag lemma="3" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="Other">
+<text>1v2: >3.2</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1376-001-p1s44W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12757,6 +12762,11 @@
 </w.rf>
 <form>,</form>
 <tag lemma="," src="auto" recommended="1">Z:-------------</tag>
+<comment>
+<LM type="Other">
+<text>1v2: &lt;3.2</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1376-001-p1s44W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12766,11 +12776,11 @@
 <form>2akrový</form>
 <tag>
 <AM lemma="2akrový" src="auto">X@-------------</AM>
-<AM lemma="2akrový" src="manual" selected="1">AAIS1----1A----</AM>
+<AM lemma="2akrový" src="manual">AAIS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
+<LM type="New Form">
+<text>akrový</text>
 </LM>
 </comment>
 </m>

@@ -2491,11 +2491,14 @@
 <form>30násobek</form>
 <tag>
 <AM lemma="30násobek" src="auto">X@-------------</AM>
-<AM lemma="30násobek" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="30násobek" src="manual">NNIS4-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 30 násobek</text>
+</LM>
+<LM type="New Form">
+<text>30</text>
 </LM>
 </comment>
 </m>

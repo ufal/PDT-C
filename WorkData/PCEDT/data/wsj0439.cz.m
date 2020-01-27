@@ -8723,11 +8723,6 @@
 <AM lemma="trh" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="trhnout" src="auto">VpYS---XR-AAP-6</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>zde zřejmě chybí přeložka "na"</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0439-001-p1s22W21-Ta">
 <src.rf>tagger-a</src.rf>

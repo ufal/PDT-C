@@ -8059,8 +8059,8 @@
 <form>7875</form>
 <tag lemma="7875" src="auto" recommended="1">C=-------------</tag>
 <comment>
-<LM type="Other">
-<text>chyba</text>
+<LM type="New Form">
+<text>7.875</text>
 </LM>
 </comment>
 </m>

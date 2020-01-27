@@ -199,11 +199,14 @@
 <form>F-A</form>
 <tag>
 <AM lemma="F-A" src="auto">X@-------------</AM>
-<AM lemma="F-A" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="F-A" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: F - A </text>
+</LM>
+<LM type="New Form">
+<text>F</text>
 </LM>
 </comment>
 </m>

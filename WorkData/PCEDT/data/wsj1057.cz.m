@@ -7623,11 +7623,14 @@
 <form>zhořknouthodně</form>
 <tag>
 <AM lemma="zhořknouthodně" src="auto">X@-------------</AM>
-<AM lemma="zhořknouthodně-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="zhořknouthodně-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>chybí mezera</text>
+<text>2v1: zhořknout hodně</text>
+</LM>
+<LM type="New Form">
+<text>zhořknout</text>
 </LM>
 </comment>
 </m>
@@ -14101,7 +14104,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 49 letý</text>
+</LM>
+<LM type="New Form">
+<text>49</text>
 </LM>
 </comment>
 </m>

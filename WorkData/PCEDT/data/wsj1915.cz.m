@@ -8872,7 +8872,7 @@
 <form>Herculesu</form>
 <tag>
 <AM lemma="Herculesu" src="auto">X@-------------</AM>
-<AM lemma="	Hercules-2_;G_;R_^(město;;letadlo;;lepidlo)" src="manual">NNIS6-----A----</AM>
+<AM lemma=" Hercules-2_;G_;R_^(město;;letadlo;;lepidlo)" src="manual">NNIS6-----A----</AM>
 <AM lemma="Hercules-2_;G_;R_^(město;;letadlo;;lepidlo)" src="manual" selected="1">NNIS6-----A----</AM>
 </tag>
 </m>
@@ -16337,12 +16337,10 @@
 <LM>w#w-wsj1915-001-p1s43W10</LM>
 </w.rf>
 <form>Massachussets</form>
-<tag lemma="Massachussets" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Massachusetts</text>
-</LM>
-</comment>
+<tag>
+<AM lemma="Massachussets" src="auto">X@-------------</AM>
+<AM lemma="Massachussets_;G_,h_^(^GC**Massachusetts)" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1915-001-p1s43W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -28456,11 +28454,14 @@
 <form>28podlažní</form>
 <tag>
 <AM lemma="28podlažní" src="auto">X@-------------</AM>
-<AM lemma="28podlažní" src="manual" selected="1">AAFS6----1A----</AM>
+<AM lemma="28podlažní" src="manual">AAFS6----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 28 podlažní</text>
+</LM>
+<LM type="New Form">
+<text>28</text>
 </LM>
 </comment>
 </m>

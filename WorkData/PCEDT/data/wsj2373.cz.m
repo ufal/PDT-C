@@ -1097,7 +1097,7 @@
 <text>r</text>
 </LM>
 <LM type="Other">
-<text>nutno rozdělit</text>
+<text>2v1: r . </text>
 </LM>
 </comment>
 </m>
@@ -1134,7 +1134,7 @@
 <text>r</text>
 </LM>
 <LM type="Other">
-<text>nutno rozdělit</text>
+<text>2v1: r .</text>
 </LM>
 </comment>
 </m>
@@ -2461,12 +2461,10 @@
 <LM>w#w-wsj2373-001-p1s10W3</LM>
 </w.rf>
 <form>Massachussetts</form>
-<tag lemma="Massachussetts" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Massachusetts</text>
-</LM>
-</comment>
+<tag>
+<AM lemma="Massachussetts" src="auto">X@-------------</AM>
+<AM lemma="Massachussetts_;G_,h_^(^GC**Massachusetts)" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2373-001-p1s10W4-Ta">
 <src.rf>tagger-a</src.rf>

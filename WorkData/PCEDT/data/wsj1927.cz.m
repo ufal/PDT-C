@@ -2655,16 +2655,11 @@
 </w.rf>
 <form>Nejvyššího</form>
 <tag>
-<AM lemma="vysoký" src="auto" recommended="1">AAIS2----3A----</AM>
+<AM lemma="vysoký" src="auto" recommended="1" selected="1">AAIS2----3A----</AM>
 <AM lemma="vysoký" src="auto">AAMS2----3A----</AM>
 <AM lemma="vysoký" src="auto">AAMS4----3A----</AM>
 <AM lemma="vysoký" src="auto">AANS2----3A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>nejvyššího</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1927-001-p1s7W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8236,7 +8231,7 @@
 <AM lemma="vysoký" src="auto">AAIP1----3A----</AM>
 <AM lemma="vysoký" src="auto">AAIP4----3A----</AM>
 <AM lemma="vysoký" src="auto">AAIP5----3A----</AM>
-<AM lemma="vysoký" src="auto" recommended="1">AAIS1----3A----</AM>
+<AM lemma="vysoký" src="auto" recommended="1" selected="1">AAIS1----3A----</AM>
 <AM lemma="vysoký" src="auto">AAIS4----3A----</AM>
 <AM lemma="vysoký" src="auto">AAIS5----3A----</AM>
 <AM lemma="vysoký" src="auto">AAMP1----3A----</AM>
@@ -8251,11 +8246,6 @@
 <AM lemma="vysoký" src="auto">AANS4----3A----</AM>
 <AM lemma="vysoký" src="auto">AANS5----3A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>nejvyšší</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1927-001-p1s25W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10165,7 +10155,7 @@
 <AM lemma="vysoký" src="auto">AAIP4----3A----</AM>
 <AM lemma="vysoký" src="auto">AAIP5----3A----</AM>
 <AM lemma="vysoký" src="auto" recommended="1">AAIS1----3A----</AM>
-<AM lemma="vysoký" src="auto">AAIS4----3A----</AM>
+<AM lemma="vysoký" src="auto" selected="1">AAIS4----3A----</AM>
 <AM lemma="vysoký" src="auto">AAIS5----3A----</AM>
 <AM lemma="vysoký" src="auto">AAMP1----3A----</AM>
 <AM lemma="vysoký" src="auto">AAMP4----3A----</AM>
@@ -10179,11 +10169,6 @@
 <AM lemma="vysoký" src="auto">AANS4----3A----</AM>
 <AM lemma="vysoký" src="auto">AANS5----3A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>nejvyšší</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1927-001-p1s32W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10889,15 +10874,10 @@
 </w.rf>
 <form>Ministerstvo</form>
 <tag>
-<AM lemma="ministerstvo" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="ministerstvo" src="auto" recommended="1" selected="1">NNNS1-----A----</AM>
 <AM lemma="ministerstvo" src="auto">NNNS4-----A----</AM>
 <AM lemma="ministerstvo" src="auto">NNNS5-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>ministerstvo</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1927-001-p1s34W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11093,16 +11073,11 @@
 </w.rf>
 <form>Nejvyššího</form>
 <tag>
-<AM lemma="vysoký" src="auto" recommended="1">AAIS2----3A----</AM>
+<AM lemma="vysoký" src="auto" recommended="1" selected="1">AAIS2----3A----</AM>
 <AM lemma="vysoký" src="auto">AAMS2----3A----</AM>
 <AM lemma="vysoký" src="auto">AAMS4----3A----</AM>
 <AM lemma="vysoký" src="auto">AANS2----3A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>nejvyššího</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1927-001-p1s35W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11986,7 +11961,7 @@
 <AM lemma="vysoký" src="auto">AAIP1----3A----</AM>
 <AM lemma="vysoký" src="auto">AAIP4----3A----</AM>
 <AM lemma="vysoký" src="auto">AAIP5----3A----</AM>
-<AM lemma="vysoký" src="auto" recommended="1">AAIS1----3A----</AM>
+<AM lemma="vysoký" src="auto" recommended="1" selected="1">AAIS1----3A----</AM>
 <AM lemma="vysoký" src="auto">AAIS4----3A----</AM>
 <AM lemma="vysoký" src="auto">AAIS5----3A----</AM>
 <AM lemma="vysoký" src="auto">AAMP1----3A----</AM>
@@ -12001,11 +11976,6 @@
 <AM lemma="vysoký" src="auto">AANS4----3A----</AM>
 <AM lemma="vysoký" src="auto">AANS5----3A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>nejvyšší</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1927-001-p1s37W21-Ta">
 <src.rf>tagger-a</src.rf>

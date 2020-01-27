@@ -3215,7 +3215,7 @@
 <text>134</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace, nutno rozdělit</text>
+<text>3v1: 134 . týdnu</text>
 </LM>
 </comment>
 </m>

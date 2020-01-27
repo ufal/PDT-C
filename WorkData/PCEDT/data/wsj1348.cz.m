@@ -1553,7 +1553,7 @@
 <AM lemma="americký" src="auto">AAFP5----1A----</AM>
 <AM lemma="americký" src="auto">AAFS2----1A----</AM>
 <AM lemma="americký" src="auto">AAFS3----1A----</AM>
-<AM lemma="americký" src="auto" recommended="1">AAFS6----1A----</AM>
+<AM lemma="americký" src="auto" recommended="1" selected="1">AAFS6----1A----</AM>
 <AM lemma="americký" src="auto">AAIP1----1A----</AM>
 <AM lemma="americký" src="auto">AAIP4----1A----</AM>
 <AM lemma="americký" src="auto">AAIP5----1A----</AM>
@@ -1562,11 +1562,6 @@
 <AM lemma="americký" src="auto">AANS4----1A----</AM>
 <AM lemma="americký" src="auto">AANS5----1A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>americké</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1348-001-p1s5W6-Ta">
 <src.rf>tagger-a</src.rf>

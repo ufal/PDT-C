@@ -668,11 +668,14 @@
 <form>Bloomingdale's</form>
 <tag>
 <AM lemma="Bloomingdale's" src="auto">X@-------------</AM>
-<AM lemma="Bloomingdale's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Bloomingdale's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>Bloomingdale</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Bloomingdale ' s</text>
 </LM>
 </comment>
 </m>
@@ -889,11 +892,14 @@
 <form>B.A.T</form>
 <tag>
 <AM lemma="B.A.T" src="auto">X@-------------</AM>
-<AM lemma="B.A.T-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>5v1: B . A . T</text>
+</LM>
+<LM type="New Form">
+<text>B</text>
 </LM>
 </comment>
 </m>

@@ -3504,8 +3504,8 @@
 <form>jedním</form>
 <tag lemma="jeden`1" src="auto" recommended="1">ClZS7----------</tag>
 <comment>
-<LM type="Other">
-<text>měla by být shoda v rodě - jednou z verzí</text>
+<LM type="New Form">
+<text>jednou</text>
 </LM>
 </comment>
 </m>

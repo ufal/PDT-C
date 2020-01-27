@@ -1701,11 +1701,14 @@
 <form>10krát</form>
 <tag>
 <AM lemma="10krát" src="auto">X@-------------</AM>
-<AM lemma="10krát`10" src="manual" selected="1">Cv-------------</AM>
+<AM lemma="10krát`10" src="manual">Cv-------------</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>10</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 10 krát</text>
 </LM>
 </comment>
 </m>
@@ -5123,16 +5126,8 @@
 <tag>
 <AM lemma="MIPS" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="MIPS" src="auto">NNIS4-----A----</AM>
-<AM lemma="MIPS-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="MIPS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>výše bylo jako Mips</text>
-</LM>
-<LM type="New Form">
-<text>Mips</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0258-001-p1s16W20-Ta">
 <src.rf>tagger-a</src.rf>

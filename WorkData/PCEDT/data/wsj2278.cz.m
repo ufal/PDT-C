@@ -478,8 +478,8 @@
 <AM lemma="40letý" src="auto">AANP6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
+<LM type="New Form">
+<text>čtyřicetiletých</text>
 </LM>
 </comment>
 </m>
@@ -9500,7 +9500,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 19 členný</text>
+</LM>
+<LM type="New Form">
+<text>19</text>
 </LM>
 </comment>
 </m>
@@ -9826,11 +9829,14 @@
 <form>165členném</form>
 <tag>
 <AM lemma="165členném" src="auto">X@-------------</AM>
-<AM lemma="165členný" src="manual" selected="1">AAIS6----1A----</AM>
+<AM lemma="165členný" src="manual">AAIS6----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 165 členném</text>
+</LM>
+<LM type="New Form">
+<text>165</text>
 </LM>
 </comment>
 </m>

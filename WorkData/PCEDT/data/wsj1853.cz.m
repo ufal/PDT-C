@@ -1072,6 +1072,11 @@
 </w.rf>
 <form>1</form>
 <tag lemma="1" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="Other">
+<text>1v2: >1.5</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1853-001-p1s2W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1080,6 +1085,11 @@
 </w.rf>
 <form>,</form>
 <tag lemma="," src="auto" recommended="1">Z:-------------</tag>
+<comment>
+<LM type="Other">
+<text>1v2: &lt;1.5</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1853-001-p1s2W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1089,11 +1099,11 @@
 <form>5násobek</form>
 <tag>
 <AM lemma="5násobek" src="auto">X@-------------</AM>
-<AM lemma="5násobek" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="5násobek" src="manual">NNIS4-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
+<LM type="New Form">
+<text>násobek</text>
 </LM>
 </comment>
 </m>

@@ -675,7 +675,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 88 leté</text>
+</LM>
+<LM type="New Form">
+<text>88</text>
 </LM>
 </comment>
 </m>
@@ -3393,7 +3396,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 72 letý</text>
+</LM>
+<LM type="New Form">
+<text>72</text>
 </LM>
 </comment>
 </m>
@@ -7798,12 +7804,15 @@
 <tag>
 <AM lemma="54letý" src="auto">AAIS2----1A----</AM>
 <AM lemma="54letý" src="auto" recommended="1">AAMS2----1A----</AM>
-<AM lemma="54letý" src="auto" selected="1">AAMS4----1A----</AM>
+<AM lemma="54letý" src="auto">AAMS4----1A----</AM>
 <AM lemma="54letý" src="auto">AANS2----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 54 letého</text>
+</LM>
+<LM type="New Form">
+<text>54</text>
 </LM>
 </comment>
 </m>

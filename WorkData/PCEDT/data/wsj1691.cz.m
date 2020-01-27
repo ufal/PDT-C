@@ -10114,11 +10114,14 @@
 <form>16podlažní</form>
 <tag>
 <AM lemma="16podlažní" src="auto">X@-------------</AM>
-<AM lemma="16podlažní" src="manual" selected="1">AAFS6----1A----</AM>
+<AM lemma="16podlažní" src="manual">AAFS6----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 16 podlažní</text>
+</LM>
+<LM type="New Form">
+<text>16</text>
 </LM>
 </comment>
 </m>

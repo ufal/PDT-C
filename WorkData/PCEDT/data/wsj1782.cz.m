@@ -3238,7 +3238,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 30 letých</text>
 </LM>
 </comment>
 </m>

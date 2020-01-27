@@ -7995,11 +7995,6 @@
 <AM lemma="akciový" src="auto">AANS4----1A---6</AM>
 <AM lemma="akciový" src="auto">AANS5----1A---6</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>Chybná mezera navíc: dvacetiakciový</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1208-001-p1s35W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8327,15 +8322,10 @@
 </w.rf>
 <form>Indexu</form>
 <tag>
-<AM lemma="index" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="index" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="index" src="auto">NNIS3-----A----</AM>
 <AM lemma="index" src="auto">NNIS6-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>indexu</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1208-001-p1s37W5-Ta">
 <src.rf>tagger-a</src.rf>

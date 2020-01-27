@@ -439,11 +439,11 @@
 <form>15krát</form>
 <tag>
 <AM lemma="15krát" src="auto">X@-------------</AM>
-<AM lemma="15krát`15" src="manual" selected="1">Cv-------------</AM>
+<AM lemma="15krát`15" src="manual">Cv-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
+<LM type="New Form">
+<text>patnáctkrát</text>
 </LM>
 </comment>
 </m>

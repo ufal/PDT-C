@@ -1,24 +1,24 @@
-<?xml version="1.0" encoding="utf-8"?>
+<?xml version="1.0" encoding="UTF-8"?>
 <wdata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="wdata_schema.xml"/>
+<schema href="wdata_schema.xml" />
 </head>
 <meta>
-<original_format>csts</original_format>
 <lang>cs</lang>
+<original_format>csts</original_format>
 </meta>
 <doc id="w-a4066a.tm1-1" source_id="a4066a.tm1-1">
 <docmeta>
-<othermeta origin="csts/doc/a"><![CDATA[
-<mod>s
-<txtype>inf
-<genre>mix
-<med>nws
-<temp>2007
-<authname>y
-<opus>a4066a.tm1
-<id>001
-]]></othermeta>
+<othermeta origin="csts/doc/a">
+&lt;mod>s
+&lt;txtype>inf
+&lt;genre>mix
+&lt;med>nws
+&lt;temp>2007
+&lt;authname>y
+&lt;opus>a4066a.tm1
+&lt;id>001
+</othermeta>
 </docmeta>
 <para>
 <othermarkup origin="csts/doc/p/@n">1</othermarkup>

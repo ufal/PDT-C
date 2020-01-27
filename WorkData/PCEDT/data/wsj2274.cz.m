@@ -1082,7 +1082,7 @@
 <text>v</text>
 </LM>
 <LM type="Other">
-<text>nutno rozdělit</text>
+<text>2v1: v rámci</text>
 </LM>
 </comment>
 </m>

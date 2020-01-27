@@ -2678,13 +2678,16 @@
 <form>77letého</form>
 <tag>
 <AM lemma="77letý" src="auto" recommended="1">AAIS2----1A----</AM>
-<AM lemma="77letý" src="auto" selected="1">AAMS2----1A----</AM>
+<AM lemma="77letý" src="auto">AAMS2----1A----</AM>
 <AM lemma="77letý" src="auto">AAMS4----1A----</AM>
 <AM lemma="77letý" src="auto">AANS2----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 77 letého</text>
+</LM>
+<LM type="New Form">
+<text>77</text>
 </LM>
 </comment>
 </m>
@@ -9582,6 +9585,11 @@
 <AM lemma="po-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="pondělí" src="auto">NNNXX-----A---8</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>1v2: >poté</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0790-001-p1s34W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9596,7 +9604,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace (poté)</text>
+<text>1v2: &lt;poté</text>
 </LM>
 </comment>
 </m>

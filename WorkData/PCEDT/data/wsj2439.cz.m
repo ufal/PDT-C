@@ -66,7 +66,7 @@
 <text>Inc</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace, nutno rozdělit</text>
+<text>3v1: Inc .uvedla</text>
 </LM>
 </comment>
 </m>
@@ -1861,7 +1861,7 @@
 <text>v</text>
 </LM>
 <LM type="Other">
-<text>nutno rozdělit</text>
+<text>2v1: v rámci</text>
 </LM>
 </comment>
 </m>

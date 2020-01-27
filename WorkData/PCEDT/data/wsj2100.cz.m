@@ -7716,11 +7716,14 @@
 <form>System's</form>
 <tag>
 <AM lemma="System's" src="auto">X@-------------</AM>
-<AM lemma="System's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="System's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>System</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: System ' s</text>
 </LM>
 </comment>
 </m>
@@ -12170,11 +12173,14 @@
 <form>N.V</form>
 <tag>
 <AM lemma="N.V" src="auto">X@-------------</AM>
-<AM lemma="N.V-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="N.V-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>N</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: N . V</text>
 </LM>
 </comment>
 </m>
@@ -17965,7 +17971,7 @@
 <text>č</text>
 </LM>
 <LM type="Other">
-<text>nutno rozdělit</text>
+<text>3v1: č . 1</text>
 </LM>
 </comment>
 </m>
@@ -18014,7 +18020,7 @@
 <text>č</text>
 </LM>
 <LM type="Other">
-<text>nutno rozdělit</text>
+<text>2v1: č .</text>
 </LM>
 </comment>
 </m>

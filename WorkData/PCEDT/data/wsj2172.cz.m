@@ -3265,13 +3265,13 @@
 </w.rf>
 <form>druhém</form>
 <tag>
-<AM lemma="druhý" src="auto" recommended="1" selected="1">CrIS6----------</AM>
+<AM lemma="druhý" src="auto" recommended="1">CrIS6----------</AM>
 <AM lemma="druhý" src="auto">CrMS6----------</AM>
 <AM lemma="druhý" src="auto">CrNS6----------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>Tvar nedává smysl - asi má být "druhého"? Nejsem si jistá.</text>
+<LM type="New Form">
+<text>druhého</text>
 </LM>
 </comment>
 </m>
@@ -15368,11 +15368,14 @@
 <form>F.C</form>
 <tag>
 <AM lemma="F.C" src="auto">X@-------------</AM>
-<AM lemma="F.C-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="F.C-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: F . C</text>
+</LM>
+<LM type="New Form">
+<text>F</text>
 </LM>
 </comment>
 </m>

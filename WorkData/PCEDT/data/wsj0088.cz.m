@@ -1658,11 +1658,14 @@
 <form>150bodového</form>
 <tag>
 <AM lemma="150bodového" src="auto">X@-------------</AM>
-<AM lemma="150bodový" src="manual" selected="1">AAIS2----1A----</AM>
+<AM lemma="150bodový" src="manual">AAIS2----1A----</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>150</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 150 bodového</text>
 </LM>
 </comment>
 </m>
@@ -3724,6 +3727,14 @@
 <AM lemma="30minutový" src="auto">AANS4----1A---6</AM>
 <AM lemma="30minutový" src="auto">AANS5----1A---6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 30 minutový</text>
+</LM>
+<LM type="New Form">
+<text>30</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0088-001-p1s8W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3733,11 +3744,14 @@
 <form>12bodový</form>
 <tag>
 <AM lemma="12bodový" src="auto">X@-------------</AM>
-<AM lemma="12bodový" src="manual" selected="1">AAIS1----1A----</AM>
+<AM lemma="12bodový" src="manual">AAIS1----1A----</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>12</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 12 bodový</text>
 </LM>
 </comment>
 </m>
@@ -4369,11 +4383,14 @@
 <form>12bodový</form>
 <tag>
 <AM lemma="12bodový" src="auto">X@-------------</AM>
-<AM lemma="12bodový" src="manual" selected="1">AAIS1----1A----</AM>
+<AM lemma="12bodový" src="manual">AAIS1----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 12 bodový</text>
+</LM>
+<LM type="New Form">
+<text>12</text>
 </LM>
 </comment>
 </m>
@@ -4724,11 +4741,14 @@
 <form>30bodovou</form>
 <tag>
 <AM lemma="30bodovou" src="auto">X@-------------</AM>
-<AM lemma="30bodový" src="manual" selected="1">AAFS4----1A----</AM>
+<AM lemma="30bodový" src="manual">AAFS4----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 30 bodovou</text>
+</LM>
+<LM type="New Form">
+<text>30</text>
 </LM>
 </comment>
 </m>
@@ -5047,11 +5067,14 @@
 <form>12bodová</form>
 <tag>
 <AM lemma="12bodová" src="auto">X@-------------</AM>
-<AM lemma="12bodový" src="manual" selected="1">AAFS1----1A----</AM>
+<AM lemma="12bodový" src="manual">AAFS1----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 12 bodová</text>
+</LM>
+<LM type="New Form">
+<text>12</text>
 </LM>
 </comment>
 </m>
@@ -5725,11 +5748,14 @@
 <form>30bodová</form>
 <tag>
 <AM lemma="30bodová" src="auto">X@-------------</AM>
-<AM lemma="30bodový" src="manual" selected="1">AAFS1----1A----</AM>
+<AM lemma="30bodový" src="manual">AAFS1----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 30 bodová</text>
+</LM>
+<LM type="New Form">
+<text>30</text>
 </LM>
 </comment>
 </m>

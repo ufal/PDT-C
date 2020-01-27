@@ -95,11 +95,14 @@
 <form>S.A.uvedla</form>
 <tag>
 <AM lemma="S.A.uvedla" src="auto">X@-------------</AM>
-<AM lemma="S.A.uvedla-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="S.A.uvedla-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>S</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace, rozděit na 5 segmentů</text>
+<text>5v1: S . A . uvedla</text>
 </LM>
 </comment>
 </m>
@@ -1468,7 +1471,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>patrně je zde slovo "rok" navíc (podruhé) - vymazat</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>

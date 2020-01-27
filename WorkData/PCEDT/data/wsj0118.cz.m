@@ -1504,11 +1504,6 @@
 <AM lemma="daný_^(*3át)" src="auto">AANS4----1A---6</AM>
 <AM lemma="daný_^(*3át)" src="auto">AANS5----1A---6</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>zřejmě omylem prohozený slovosled, mělo by být "ovládne daný trh"</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0118-001-p1s5W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5332,7 +5327,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>je zde navíc</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>
@@ -50550,6 +50545,11 @@
 </w.rf>
 <form>uvažovali</form>
 <tag lemma="uvažovat" src="auto" recommended="1">VpMP---XR-AAI--</tag>
+<comment>
+<LM type="Other">
+<text>2v1: uvažovali o</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0118-001-p1s166W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -50567,11 +50567,6 @@
 <AM lemma="dlouhodobý" src="auto">AANP2----1A----</AM>
 <AM lemma="dlouhodobý" src="auto">AANP6----1A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>chybí zde předložka "o"</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0118-001-p1s166W9-Ta">
 <src.rf>tagger-a</src.rf>

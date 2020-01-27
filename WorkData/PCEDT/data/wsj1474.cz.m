@@ -4288,12 +4288,8 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="co-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Co</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1474-001-p1s12W5-Ta">
 <src.rf>tagger-a</src.rf>

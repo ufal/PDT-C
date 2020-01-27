@@ -2892,11 +2892,6 @@
 <AM lemma="na-1" src="auto">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>chybí zbytek věty</text>
-</LM>
-</comment>
 </m>
 </s>
 <s id="m-wsj0345-001-p1s9">

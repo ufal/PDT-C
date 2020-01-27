@@ -3085,7 +3085,7 @@
 <tag lemma="být" src="auto" recommended="1">Vc----------I--</tag>
 <comment>
 <LM type="Other">
-<text>toto slovo je tu navíc</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>

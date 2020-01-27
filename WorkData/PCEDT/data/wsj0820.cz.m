@@ -3752,7 +3752,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 100 členném</text>
+</LM>
+<LM type="New Form">
+<text>100</text>
 </LM>
 </comment>
 </m>

@@ -970,7 +970,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>prohozený slovosled, mělo by být "drží v bance"</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>
@@ -984,6 +984,11 @@
 <AM lemma="držet" src="auto" selected="1">VB-P---3P-AAI--</AM>
 <AM lemma="držet" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: drží v</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0616-001-p1s2W16-Ta">
 <src.rf>tagger-a</src.rf>

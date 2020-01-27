@@ -59,11 +59,14 @@
 <form>S.p</form>
 <tag>
 <AM lemma="S.p" src="auto">X@-------------</AM>
-<AM lemma="S.p-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="S.p-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: S . p</text>
+</LM>
+<LM type="New Form">
+<text>S</text>
 </LM>
 </comment>
 </m>

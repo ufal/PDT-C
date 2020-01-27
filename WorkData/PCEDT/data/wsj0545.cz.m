@@ -1061,7 +1061,7 @@
 <text>L</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace - nutno rozdělit</text>
+<text>2v1: L .</text>
 </LM>
 </comment>
 </m>

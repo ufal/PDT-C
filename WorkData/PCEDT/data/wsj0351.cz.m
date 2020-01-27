@@ -3527,7 +3527,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 30 letý</text>
+</LM>
+<LM type="New Form">
+<text>30</text>
 </LM>
 </comment>
 </m>
@@ -4871,7 +4874,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 30 leté</text>
+</LM>
+<LM type="New Form">
+<text>30</text>
 </LM>
 </comment>
 </m>
@@ -5195,7 +5201,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 30 leté</text>
+</LM>
+<LM type="New Form">
+<text>30</text>
 </LM>
 </comment>
 </m>
@@ -6894,7 +6903,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 30 letou</text>
+</LM>
+<LM type="New Form">
+<text>30</text>
 </LM>
 </comment>
 </m>
@@ -8288,7 +8300,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 30 letý</text>
+</LM>
+<LM type="New Form">
+<text>30</text>
 </LM>
 </comment>
 </m>
@@ -8693,7 +8708,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 10 leté</text>
+</LM>
+<LM type="New Form">
+<text>10</text>
 </LM>
 </comment>
 </m>
@@ -16227,7 +16245,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 12 leté</text>
+</LM>
+<LM type="New Form">
+<text>12</text>
 </LM>
 </comment>
 </m>

@@ -3140,12 +3140,10 @@
 <LM>w#w-wsj0807-001-p1s11W2</LM>
 </w.rf>
 <form>Bostic</form>
-<tag lemma="Bostic" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Bostik</text>
-</LM>
-</comment>
+<tag>
+<AM lemma="Bostic" src="auto">X@-------------</AM>
+<AM lemma="Bostic_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0807-001-p1s11W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3897,12 +3895,10 @@
 <LM>w#w-wsj0807-001-p1s14W2</LM>
 </w.rf>
 <form>Bostic</form>
-<tag lemma="Bostic" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Bostik</text>
-</LM>
-</comment>
+<tag>
+<AM lemma="Bostic" src="auto">X@-------------</AM>
+<AM lemma="Bostic_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0807-001-p1s14W3-Ta">
 <src.rf>tagger-a</src.rf>

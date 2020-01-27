@@ -6315,12 +6315,8 @@
 <AM lemma="Thajsko_;G" src="auto">NNNS4-----A----</AM>
 <AM lemma="Thajsko_;G" src="auto">NNNS5-----A----</AM>
 <AM lemma="thajský" src="auto" recommended="1">A2--------A----</AM>
+<AM lemma="thajsko" src="manual" selected="1">S2--------A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>thajsko</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1700-001-p1s21W27-Ta">
 <src.rf>tagger-a</src.rf>

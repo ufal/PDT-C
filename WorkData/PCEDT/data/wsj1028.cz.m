@@ -5638,13 +5638,9 @@
 <form>Baa2</form>
 <tag>
 <AM lemma="Baa2" src="auto">X@-------------</AM>
-<AM lemma="Baa2" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Baa2" src="manual">NNXXX-----A----</AM>
+<AM lemma="Baa2-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>token takto dohromady? Nejsem si jistá anotací, dělala jsem po vzoru spojení jako A4</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1028-001-p1s14W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5666,13 +5662,9 @@
 <form>Ba3</form>
 <tag>
 <AM lemma="Ba3" src="auto">X@-------------</AM>
-<AM lemma="Ba3" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Ba3" src="manual">NNXXX-----A----</AM>
+<AM lemma="Ba3-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>token takto dohromady? Nejsem si jistá anotací, dělala jsem po vzoru spojení jako A4</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1028-001-p1s14W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5921,13 +5913,9 @@
 <form>Baa3</form>
 <tag>
 <AM lemma="Baa3" src="auto">X@-------------</AM>
-<AM lemma="Baa3" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Baa3" src="manual">NNXXX-----A----</AM>
+<AM lemma="Baa3-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>token takto dohromady? Nejsem si jistá anotací, dělala jsem po vzoru spojení jako A4</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1028-001-p1s14W50-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5949,7 +5937,8 @@
 <form>B2</form>
 <tag>
 <AM lemma="B2" src="auto">X@-------------</AM>
-<AM lemma="B2" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="B2" src="manual">NNXXX-----A----</AM>
+<AM lemma="B2-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1028-001-p1s14W52-Ta">
@@ -6113,13 +6102,9 @@
 <form>Baa2</form>
 <tag>
 <AM lemma="Baa2" src="auto">X@-------------</AM>
-<AM lemma="Baa2" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Baa2" src="manual">NNXXX-----A----</AM>
+<AM lemma="Baa2-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>token takto dohromady? Nejsem si jistá anotací, dělala jsem po vzoru spojení jako A4</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1028-001-p1s15W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6141,13 +6126,9 @@
 <form>Ba3</form>
 <tag>
 <AM lemma="Ba3" src="auto">X@-------------</AM>
-<AM lemma="Ba3" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Ba3" src="manual">NNXXX-----A----</AM>
+<AM lemma="Ba3-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>token takto dohromady? Nejsem si jistá anotací, dělala jsem po vzoru spojení jako A4</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1028-001-p1s15W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6346,11 +6327,14 @@
 <form>Moody´s</form>
 <tag>
 <AM lemma="Moody´s" src="auto">X@-------------</AM>
-<AM lemma="Moody´s-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Moody´s-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>Moody</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Moody ´ s</text>
 </LM>
 </comment>
 </m>

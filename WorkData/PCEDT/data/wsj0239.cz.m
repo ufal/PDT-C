@@ -1794,12 +1794,7 @@
 <LM>w#w-wsj0239-001-p1s5W4</LM>
 </w.rf>
 <form>Státech</form>
-<tag lemma="stát-1_^(státní_útvar)" src="auto" recommended="1">NNIP6-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>státech</text>
-</LM>
-</comment>
+<tag lemma="stát-1_^(státní_útvar)" src="auto" recommended="1" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-wsj0239-001-p1s5W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2816,11 +2811,6 @@
 </w.rf>
 <form>Státech</form>
 <tag lemma="stát-1_^(státní_útvar)" src="auto" recommended="1">NNIP6-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>státech</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0239-001-p1s10W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3686,6 +3676,9 @@
 <comment>
 <LM type="New Form">
 <text>Épinale</text>
+</LM>
+<LM type="New Form">
+<text>Épinalu</text>
 </LM>
 </comment>
 </m>
@@ -12159,6 +12152,9 @@
 <LM type="New Form">
 <text>Épinale</text>
 </LM>
+<LM type="New Form">
+<text>Épinalu</text>
+</LM>
 </comment>
 </m>
 <m id="m-wsj0239-001-p1s50W19-Ta">
@@ -13818,12 +13814,7 @@
 <LM>w#w-wsj0239-001-p1s54W14</LM>
 </w.rf>
 <form>Státech</form>
-<tag lemma="stát-1_^(státní_útvar)" src="auto" recommended="1">NNIP6-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>státech</text>
-</LM>
-</comment>
+<tag lemma="stát-1_^(státní_útvar)" src="auto" recommended="1" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-wsj0239-001-p1s54W15-Ta">
 <src.rf>tagger-a</src.rf>

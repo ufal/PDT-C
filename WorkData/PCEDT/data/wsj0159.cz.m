@@ -2238,8 +2238,16 @@
 <form>Dunkin'</form>
 <tag>
 <AM lemma="Dunkin'" src="auto">X@-------------</AM>
-<AM lemma="Dunkin'_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Dunkin'_;K" src="manual">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="New Form">
+<text>Dunkin</text>
+</LM>
+<LM type="Other">
+<text>2v1: Dunkin '</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0159-001-p1s7W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2312,12 +2320,10 @@
 <LM>w#w-wsj0159-001-p1s7W8</LM>
 </w.rf>
 <form>Massachussetts</form>
-<tag lemma="Massachussetts" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Massachusetts</text>
-</LM>
-</comment>
+<tag>
+<AM lemma="Massachussetts" src="auto">X@-------------</AM>
+<AM lemma="Massachussetts_;G_,h_^(^GC**Massachusetts)" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0159-001-p1s7W9-Ta">
 <src.rf>tagger-a</src.rf>

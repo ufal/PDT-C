@@ -93,7 +93,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 35 letý</text>
+</LM>
+<LM type="New Form">
+<text>35</text>
 </LM>
 </comment>
 </m>
@@ -290,8 +293,11 @@
 <AM lemma="42letý" src="auto">AANS2----1A----</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>42</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 42  letý</text>
 </LM>
 </comment>
 </m>

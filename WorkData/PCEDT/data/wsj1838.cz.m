@@ -478,9 +478,6 @@
 <LM type="New Form">
 <text>Lafontantové</text>
 </LM>
-<LM type="Other">
-<text>jedná se o ženu (snadno ověřitelné)</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1838-001-p1s0W37-Ta">

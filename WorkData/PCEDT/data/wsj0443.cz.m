@@ -5334,17 +5334,12 @@
 </w.rf>
 <form>světová</form>
 <tag>
-<AM lemma="světový" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="světový" src="auto" recommended="1" selected="1">AAFS1----1A----</AM>
 <AM lemma="světový" src="auto">AAFS5----1A----</AM>
 <AM lemma="světový" src="auto">AANP1----1A----</AM>
 <AM lemma="světový" src="auto">AANP4----1A----</AM>
 <AM lemma="světový" src="auto">AANP5----1A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Světová</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0443-001-p1s15W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6824,8 +6819,16 @@
 <tag>
 <AM lemma="11denní" src="auto">X@-------------</AM>
 <AM lemma="11denní" src="manual">AAIS1----1A----</AM>
-<AM lemma="11denní" src="manual" selected="1">AANS1----1A----</AM>
+<AM lemma="11denní" src="manual">AANS1----1A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: 11 denní</text>
+</LM>
+<LM type="New Form">
+<text>11</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0443-001-p1s19W7-Ta">
 <src.rf>tagger-a</src.rf>

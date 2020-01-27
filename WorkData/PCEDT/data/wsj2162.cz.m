@@ -2756,11 +2756,14 @@
 <form>32patrovým</form>
 <tag>
 <AM lemma="32patrovým" src="auto">X@-------------</AM>
-<AM lemma="32patrový" src="manual" selected="1">AAIS7----1A----</AM>
+<AM lemma="32patrový" src="manual">AAIS7----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 32 patrovým</text>
+</LM>
+<LM type="New Form">
+<text>32</text>
 </LM>
 </comment>
 </m>

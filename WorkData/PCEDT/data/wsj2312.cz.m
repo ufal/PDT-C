@@ -318,11 +318,14 @@
 <form>64palcových</form>
 <tag>
 <AM lemma="64palcových" src="auto">X@-------------</AM>
-<AM lemma="64palcový" src="manual" selected="1">AAIP2----1A----</AM>
+<AM lemma="64palcový" src="manual">AAIP2----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 64 palcových</text>
+</LM>
+<LM type="New Form">
+<text>64</text>
 </LM>
 </comment>
 </m>

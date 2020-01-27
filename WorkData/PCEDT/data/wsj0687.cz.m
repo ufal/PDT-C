@@ -7630,12 +7630,10 @@
 <LM>w#w-wsj0687-001-p1s30W16</LM>
 </w.rf>
 <form>Blues</form>
-<tag lemma="blues" src="auto" recommended="1">NNNXX-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>blues</text>
-</LM>
-</comment>
+<tag>
+<AM lemma="blues" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="blues-1" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0687-001-p1s30W17-Ta">
 <src.rf>tagger-a</src.rf>

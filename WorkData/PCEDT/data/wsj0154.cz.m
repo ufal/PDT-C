@@ -796,13 +796,9 @@
 <tag>
 <AM lemma="ten" src="auto" recommended="1">PDMP1----------</AM>
 <AM lemma="ty" src="auto">PH-S3--2-------</AM>
-<AM lemma="ti" src="manual" selected="1">SAXXX----1A----</AM>
+<AM lemma="ti" src="manual">SAXXX----1A----</AM>
+<AM lemma="ti_,i_^(10-ti)" src="manual" selected="1">S2--------A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>chybné dělení slov</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0154-001-p1s1W45-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1318,7 +1314,7 @@
 <text>tj</text>
 </LM>
 <LM type="Other">
-<text>nutno rozdělit</text>
+<text>2v1: tj .</text>
 </LM>
 </comment>
 </m>

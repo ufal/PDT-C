@@ -152,11 +152,14 @@
 <form>Weisfield's</form>
 <tag>
 <AM lemma="Weisfield's" src="auto">X@-------------</AM>
-<AM lemma="Weisfield's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>Weisfield</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Weisfield ' s</text>
 </LM>
 </comment>
 </m>
@@ -365,11 +368,14 @@
 <form>Weisfield's</form>
 <tag>
 <AM lemma="Weisfield's" src="auto">X@-------------</AM>
-<AM lemma="Weisfield's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Weisfield ' s</text>
+</LM>
+<LM type="New Form">
+<text>Weisfield</text>
 </LM>
 </comment>
 </m>
@@ -677,11 +683,14 @@
 <form>Weisfield's</form>
 <tag>
 <AM lemma="Weisfield's" src="auto">X@-------------</AM>
-<AM lemma="Weisfield's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>Weisfield</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Weisfield ' s</text>
 </LM>
 </comment>
 </m>
@@ -826,11 +835,14 @@
 <form>Weisfield's</form>
 <tag>
 <AM lemma="Weisfield's" src="auto">X@-------------</AM>
-<AM lemma="Weisfield's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Weisfield ' s</text>
+</LM>
+<LM type="New Form">
+<text>Weisfield</text>
 </LM>
 </comment>
 </m>
@@ -1176,11 +1188,14 @@
 <form>Weisfield's</form>
 <tag>
 <AM lemma="Weisfield's" src="auto">X@-------------</AM>
-<AM lemma="Weisfield's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Weisfield ' s</text>
+</LM>
+<LM type="New Form">
+<text>Weisfield</text>
 </LM>
 </comment>
 </m>

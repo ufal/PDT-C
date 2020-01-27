@@ -1935,6 +1935,11 @@
 </w.rf>
 <form>,</form>
 <tag lemma="," src="auto" recommended="1">Z:-------------</tag>
+<comment>
+<LM type="Other">
+<text>delete</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2106-001-p1s8W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1946,11 +1951,6 @@
 <AM lemma="líbit" src="auto">VB-P---3P-AAI--</AM>
 <AM lemma="líbit" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>špatná interpunkce</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj2106-001-p1s8W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2409,6 +2409,11 @@
 </w.rf>
 <form>,</form>
 <tag lemma="," src="auto" recommended="1">Z:-------------</tag>
+<comment>
+<LM type="Other">
+<text>delete</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2106-001-p1s11W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2422,11 +2427,6 @@
 <AM lemma="nový" src="auto">AAMP7----1A----</AM>
 <AM lemma="nový" src="auto">AANP7----1A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>špatná interpunkce</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj2106-001-p1s11W10-Ta">
 <src.rf>tagger-a</src.rf>

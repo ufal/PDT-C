@@ -4457,11 +4457,11 @@
 <tag>
 <AM lemma="20krát" src="auto">X@-------------</AM>
 <AM lemma="20krát" src="manual">Db-------------</AM>
-<AM lemma="20krát" src="manual" selected="1">Cv-------------</AM>
+<AM lemma="20krát" src="manual">Cv-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
+<LM type="New Form">
+<text>dvacetkrát</text>
 </LM>
 </comment>
 </m>
@@ -12873,7 +12873,7 @@
 </w.rf>
 <form>Polsko</form>
 <tag>
-<AM lemma="Polsko_;G" src="auto">NNNS1-----A----</AM>
+<AM lemma="Polsko_;G" src="auto" selected="1">NNNS1-----A----</AM>
 <AM lemma="Polsko_;G" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="Polsko_;G" src="auto">NNNS5-----A----</AM>
 <AM lemma="polský" src="auto">A2--------A----</AM>
@@ -12885,12 +12885,11 @@
 <LM>w#w-wsj1284-001-p1s44W4</LM>
 </w.rf>
 <form>Pittsburk</form>
-<tag lemma="Pittsburk" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Pittsburgh</text>
-</LM>
-</comment>
+<tag>
+<AM lemma="Pittsburk" src="auto">X@-------------</AM>
+<AM lemma="	Pittsburk_;G_,a_^(^DD**Pittsburgh)" src="manual">NNIS4-----A----</AM>
+<AM lemma="Pittsburk_;G_,a_^(^DD**Pittsburgh)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1284-001-p1s44W5-Ta">
 <src.rf>tagger-a</src.rf>

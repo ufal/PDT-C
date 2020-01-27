@@ -1059,11 +1059,14 @@
 <form>32akrového</form>
 <tag>
 <AM lemma="32akrového" src="auto">X@-------------</AM>
-<AM lemma="32akrový" src="manual" selected="1">AAIS2----1A----</AM>
+<AM lemma="32akrový" src="manual">AAIS2----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 32 akrového</text>
+</LM>
+<LM type="New Form">
+<text>32</text>
 </LM>
 </comment>
 </m>

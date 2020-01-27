@@ -33,11 +33,14 @@
 <form>´Američtí</form>
 <tag>
 <AM lemma="´Američtí" src="auto">X@-------------</AM>
-<AM lemma="americký" src="manual" selected="1">AAMP1----1A----</AM>
+<AM lemma="americký" src="manual">AAMP1----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace (oddělit jednoduché uvozovky)</text>
+<text>2v1: ´ Američtí</text>
+</LM>
+<LM type="New Form">
+<text>´</text>
 </LM>
 </comment>
 </m>
@@ -60,11 +63,14 @@
 <form>spojů´</form>
 <tag>
 <AM lemma="spojů´" src="auto">X@-------------</AM>
-<AM lemma="spoj" src="manual" selected="1">NNIP2-----A----</AM>
+<AM lemma="spoj" src="manual">NNIP2-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: spojů ´ </text>
+</LM>
+<LM type="New Form">
+<text>spojů</text>
 </LM>
 </comment>
 </m>
@@ -1050,11 +1056,14 @@
 <form>5.srpna</form>
 <tag>
 <AM lemma="5.srpna" src="auto">X@-------------</AM>
-<AM lemma="srpen" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="srpen" src="manual">NNIS2-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace (rozdělit na 3 segmenty)</text>
+<text>3v1: 5 . srpna</text>
+</LM>
+<LM type="New Form">
+<text>5</text>
 </LM>
 </comment>
 </m>
@@ -1394,11 +1403,14 @@
 <form>´Mezinárodního</form>
 <tag>
 <AM lemma="´Mezinárodního" src="auto">X@-------------</AM>
-<AM lemma="mezinárodní" src="manual" selected="1">NNNS2-----A----</AM>
+<AM lemma="mezinárodní" src="manual">NNNS2-----A----</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>´</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace (oddělit uvozovky)</text>
+<text>2v1: ´ Mezinárodního</text>
 </LM>
 </comment>
 </m>
@@ -1457,11 +1469,14 @@
 <form>průmyslu´</form>
 <tag>
 <AM lemma="průmyslu´" src="auto">X@-------------</AM>
-<AM lemma="průmysl" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="průmysl" src="manual">NNIS6-----A----</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>průmyslu</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: průmyslu ´</text>
 </LM>
 </comment>
 </m>

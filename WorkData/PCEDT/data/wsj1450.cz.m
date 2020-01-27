@@ -6245,7 +6245,7 @@
 <text>37</text>
 </LM>
 <LM type="Other">
-<text>Rozdělit na dvě slova: "37" a "krát"</text>
+<text>2v1: 37 krát</text>
 </LM>
 </comment>
 </m>

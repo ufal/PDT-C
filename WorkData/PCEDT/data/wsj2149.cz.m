@@ -236,6 +236,11 @@
 </w.rf>
 <form>jako</form>
 <tag lemma="jako-1" src="auto" recommended="1">J,-------------</tag>
+<comment>
+<LM type="New Form">
+<text>jakoby</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2149-001-p1s0W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -244,6 +249,11 @@
 </w.rf>
 <form>kdyby</form>
 <tag lemma="kdyby" src="auto" recommended="1">J,-------------</tag>
+<comment>
+<LM type="Other">
+<text>delete</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2149-001-p1s0W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -360,7 +370,7 @@
 <tag lemma="jako-1" src="auto" recommended="1">J,-------------</tag>
 <comment>
 <LM type="Other">
-<text>špatný překlad? česká věta mi nedává smysl</text>
+<text>1v2: jako kdyby</text>
 </LM>
 </comment>
 </m>
@@ -400,6 +410,11 @@
 </w.rf>
 <form>,</form>
 <tag lemma="," src="auto" recommended="1">Z:-------------</tag>
+<comment>
+<LM type="Other">
+<text>delete</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2149-001-p1s0W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2627,8 +2642,8 @@
 <AM lemma="20letý" src="auto" recommended="1">AANS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
+<LM type="New Form">
+<text>dvacetiletého</text>
 </LM>
 </comment>
 </m>
@@ -5315,7 +5330,7 @@
 <text>skvělý</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace - jednoduchá uvozovka připojená ke slovu</text>
+<text>2v1: skvělý '</text>
 </LM>
 </comment>
 </m>
@@ -6737,7 +6752,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 72 letý</text>
+</LM>
+<LM type="New Form">
+<text>72</text>
 </LM>
 </comment>
 </m>
@@ -9677,11 +9695,6 @@
 <AM lemma="a-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>špatný překlad? věta jako celek nedává příliš smysl</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj2149-001-p1s30W28-Ta">
 <src.rf>tagger-a</src.rf>

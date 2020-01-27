@@ -1100,13 +1100,8 @@
 <AM lemma="Silvestro_;S">NNMS2-----A----</AM>
 <AM lemma="Silvestro_;S">NNMS4-----A----</AM>
 <AM lemma="silvestr">NNIS2-----A---1</AM>
-<AM lemma="silvestr">NNIS4-----A---1</AM>
+<AM lemma="silvestr" selected="1">NNIS4-----A---1</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>silvestra</text>
-</LM>
-</comment>
 </m>
 <m id="jh_15-SCzechM-p1543-s1-w10">
 <w.rf>

@@ -120,6 +120,9 @@
 <LM type="New Form">
 <text>R</text>
 </LM>
+<LM type="Other">
+<text>2v1: R .</text>
+</LM>
 </comment>
 </m>
 <m id="m-wsj2055-001-p1s0W12-Ta">
@@ -303,6 +306,9 @@
 <comment>
 <LM type="New Form">
 <text>L</text>
+</LM>
+<LM type="Other">
+<text>2v1: L . </text>
 </LM>
 </comment>
 </m>
@@ -2277,11 +2283,14 @@
 <form>Archer-Daniels</form>
 <tag>
 <AM lemma="Archer-Daniels" src="auto">X@-------------</AM>
-<AM lemma="Archer-Daniels-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Archer-Daniels-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>Archer</text>
+</LM>
 <LM type="Other">
-<text>mělo by nejspíš být jako tři uzly</text>
+<text>3v1: Archer - Daniels</text>
 </LM>
 </comment>
 </m>
@@ -9371,11 +9380,14 @@
 <form>Christie's</form>
 <tag>
 <AM lemma="Christie's" src="auto">X@-------------</AM>
-<AM lemma="Christie's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Christie's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>Christie</text>
+</LM>
 <LM type="Other">
-<text>měly by být tři uzly</text>
+<text>3v1: Christie ' s</text>
 </LM>
 </comment>
 </m>

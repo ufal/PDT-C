@@ -2764,6 +2764,11 @@
 </w.rf>
 <form>1</form>
 <tag lemma="1" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="Other">
+<text>1v2 >1.5</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0026-001-p1s7W41-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2772,6 +2777,14 @@
 </w.rf>
 <form>,</form>
 <tag lemma="," src="auto" recommended="1">Z:-------------</tag>
+<comment>
+<LM type="Other">
+<text>1v2 &lt;1.5</text>
+</LM>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0026-001-p1s7W42-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2781,11 +2794,11 @@
 <form>5miliardového</form>
 <tag>
 <AM lemma="5miliardového" src="auto">X@-------------</AM>
-<AM lemma="5miliardový" src="manual" selected="1">AAIS2----1A----</AM>
+<AM lemma="5miliardový" src="manual">AAIS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
+<LM type="New Form">
+<text>miliardového</text>
 </LM>
 </comment>
 </m>

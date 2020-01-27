@@ -1204,11 +1204,14 @@
 <form>Poor's</form>
 <tag>
 <AM lemma="Poor's" src="auto">X@-------------</AM>
-<AM lemma="Poor's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Poor's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>Poor</text>
+</LM>
 <LM type="Other">
-<text>rozdělit na tři segmenty</text>
+<text>3v1: Poor ' s</text>
 </LM>
 </comment>
 </m>
@@ -4323,6 +4326,11 @@
 <AM lemma="dopad" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="dopadnout" src="auto">VpYS---XR-AAP-6</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: dopad na</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0162-001-p1s13W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4335,11 +4343,6 @@
 <AM lemma="realizace" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="realizace" src="auto">NNFS6-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>doplnit předložku "na"</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0162-001-p1s13W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11433,6 +11436,11 @@
 </w.rf>
 <form>dnes</form>
 <tag lemma="dnes" src="auto" recommended="1">Db-------------</tag>
+<comment>
+<LM type="Other">
+<text>2v1: dnes se</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0162-001-p1s32W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11464,11 +11472,6 @@
 <AM lemma="vyplácet" src="auto">VB-P---3P-AAI-1</AM>
 <AM lemma="vyplácet" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>doplnit "se" ("dnes se akcionářům dividenda vyplácí")</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0162-001-p1s32W22-Ta">
 <src.rf>tagger-a</src.rf>

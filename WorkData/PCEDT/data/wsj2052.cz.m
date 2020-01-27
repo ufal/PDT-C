@@ -2870,14 +2870,9 @@
 </w.rf>
 <form>Američtí</form>
 <tag>
-<AM lemma="americký" src="auto" recommended="1">AAMP1----1A----</AM>
+<AM lemma="americký" src="auto" recommended="1" selected="1">AAMP1----1A----</AM>
 <AM lemma="americký" src="auto">AAMP5----1A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>američtí</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj2052-001-p1s13W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3295,15 +3290,10 @@
 </w.rf>
 <form>Kábulskému</form>
 <tag>
-<AM lemma="kábulský" src="auto" recommended="1">AAIS3----1A----</AM>
+<AM lemma="kábulský" src="auto" recommended="1" selected="1">AAIS3----1A----</AM>
 <AM lemma="kábulský" src="auto">AAMS3----1A----</AM>
 <AM lemma="kábulský" src="auto">AANS3----1A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>kábulskému</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj2052-001-p1s16W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3758,7 +3748,7 @@
 <AM lemma="americký" src="auto">AAFP1----1A----</AM>
 <AM lemma="americký" src="auto">AAFP4----1A----</AM>
 <AM lemma="americký" src="auto">AAFP5----1A----</AM>
-<AM lemma="americký" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="americký" src="auto" recommended="1" selected="1">AAFS2----1A----</AM>
 <AM lemma="americký" src="auto">AAFS3----1A----</AM>
 <AM lemma="americký" src="auto">AAFS6----1A----</AM>
 <AM lemma="americký" src="auto">AAIP1----1A----</AM>
@@ -3769,11 +3759,6 @@
 <AM lemma="americký" src="auto">AANS4----1A----</AM>
 <AM lemma="americký" src="auto">AANS5----1A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>americké</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj2052-001-p1s17W27-Ta">
 <src.rf>tagger-a</src.rf>

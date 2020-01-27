@@ -9814,11 +9814,14 @@
 <form>100akrovém</form>
 <tag>
 <AM lemma="100akrovém" src="auto">X@-------------</AM>
-<AM lemma="100akrový" src="manual" selected="1">AAIS6----1A----</AM>
+<AM lemma="100akrový" src="manual">AAIS6----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 100 akrovém</text>
+</LM>
+<LM type="New Form">
+<text>100</text>
 </LM>
 </comment>
 </m>

@@ -168,7 +168,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 40 letý</text>
+</LM>
+<LM type="New Form">
+<text>40</text>
 </LM>
 </comment>
 </m>
@@ -7918,11 +7921,14 @@
 <form>100mílovém</form>
 <tag>
 <AM lemma="100mílovém" src="auto">X@-------------</AM>
-<AM lemma="100mílový" src="manual" selected="1">AAIS6----1A----</AM>
+<AM lemma="100mílový" src="manual">AAIS6----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 100 mílovém</text>
+</LM>
+<LM type="New Form">
+<text>100</text>
 </LM>
 </comment>
 </m>
@@ -8466,11 +8472,6 @@
 <AM lemma="běh" src="auto">NNIS7-----A----</AM>
 <AM lemma="během" src="auto" recommended="1">RR--2----------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>chybí zbytek věty</text>
-</LM>
-</comment>
 </m>
 </s>
 <s id="m-wsj0367-001-p1s34">

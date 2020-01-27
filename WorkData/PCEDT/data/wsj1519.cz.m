@@ -709,11 +709,17 @@
 <form>250megawattové</form>
 <tag>
 <AM lemma="250megawattové" src="auto">X@-------------</AM>
-<AM lemma="250megawattový" src="manual" selected="1">AAFS2----1A----</AM>
+<AM lemma="250megawattový" src="manual">AAFS2----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 250 megawattové</text>
+</LM>
+<LM type="New Form">
+<text>25</text>
+</LM>
+<LM type="New Form">
+<text>250</text>
 </LM>
 </comment>
 </m>

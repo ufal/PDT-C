@@ -3203,6 +3203,11 @@
 <form_change>num_normalization</form_change>
 <form>18353</form>
 <tag lemma="18353" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>1.8353</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1007-001-p1s9W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3214,13 +3219,8 @@
 <AM lemma="marka" src="auto">NNFP1-----A----</AM>
 <AM lemma="marka" src="auto">NNFP4-----A----</AM>
 <AM lemma="marka" src="auto">NNFP5-----A----</AM>
-<AM lemma="marka" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="marka" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>marek</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1007-001-p1s9W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3336,6 +3336,11 @@
 <form_change>num_normalization</form_change>
 <form>18355</form>
 <tag lemma="18355" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>1.8355</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1007-001-p1s9W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3347,13 +3352,8 @@
 <AM lemma="marka" src="auto">NNFP1-----A----</AM>
 <AM lemma="marka" src="auto">NNFP4-----A----</AM>
 <AM lemma="marka" src="auto">NNFP5-----A----</AM>
-<AM lemma="marka" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="marka" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>marek</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1007-001-p1s9W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3594,6 +3594,11 @@
 <form_change>num_normalization</form_change>
 <form>16145</form>
 <tag lemma="16145" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>1.6145</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1007-001-p1s10W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3602,15 +3607,10 @@
 </w.rf>
 <form>dolaru</form>
 <tag>
-<AM lemma="dolar" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="dolar" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="dolar" src="auto">NNIS3-----A----</AM>
 <AM lemma="dolar" src="auto">NNIS6-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>dolarů</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1007-001-p1s10W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3734,6 +3734,11 @@
 <form_change>num_normalization</form_change>
 <form>16055</form>
 <tag lemma="16055" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>1.6055</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1007-001-p1s10W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3742,15 +3747,10 @@
 </w.rf>
 <form>dolaru</form>
 <tag>
-<AM lemma="dolar" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="dolar" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="dolar" src="auto">NNIS3-----A----</AM>
 <AM lemma="dolar" src="auto">NNIS6-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>dolarů</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1007-001-p1s10W16-Ta">
 <src.rf>tagger-a</src.rf>

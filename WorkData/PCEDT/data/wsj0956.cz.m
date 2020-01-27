@@ -5286,11 +5286,14 @@
 <form>34stránkovém</form>
 <tag>
 <AM lemma="34stránkovém" src="auto">X@-------------</AM>
-<AM lemma="34stránkový" src="manual" selected="1">AANS6----1A----</AM>
+<AM lemma="34stránkový" src="manual">AANS6----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 34 stránkovém</text>
+</LM>
+<LM type="New Form">
+<text>34</text>
 </LM>
 </comment>
 </m>

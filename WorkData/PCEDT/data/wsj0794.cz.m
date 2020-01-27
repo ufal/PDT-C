@@ -1411,11 +1411,6 @@
 <AM lemma="závislý" src="auto" recommended="1">AAMP1----1A----</AM>
 <AM lemma="závislý" src="auto">AAMP5----1A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>Doplnit čárku za toto slovo</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0794-001-p1s8W12-Ta">
 <src.rf>tagger-a</src.rf>

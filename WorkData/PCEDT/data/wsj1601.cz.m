@@ -6546,7 +6546,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>slovo je tu navíc</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>

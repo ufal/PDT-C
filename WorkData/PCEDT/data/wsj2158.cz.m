@@ -818,11 +818,14 @@
 <form>B.B</form>
 <tag>
 <AM lemma="B.B" src="auto">X@-------------</AM>
-<AM lemma="B.B-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="B.B-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: B . B</text>
+</LM>
+<LM type="New Form">
+<text>B</text>
 </LM>
 </comment>
 </m>

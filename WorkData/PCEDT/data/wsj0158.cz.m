@@ -4002,12 +4002,7 @@
 <LM>w#w-wsj0158-001-p1s13W6</LM>
 </w.rf>
 <form>Státech</form>
-<tag lemma="stát-1_^(státní_útvar)" src="auto" recommended="1">NNIP6-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>státech</text>
-</LM>
-</comment>
+<tag lemma="stát-1_^(státní_útvar)" src="auto" recommended="1" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-wsj0158-001-p1s13W7-Ta">
 <src.rf>tagger-a</src.rf>

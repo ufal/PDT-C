@@ -78,7 +78,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 60 letý</text>
+</LM>
+<LM type="New Form">
+<text>60</text>
 </LM>
 </comment>
 </m>

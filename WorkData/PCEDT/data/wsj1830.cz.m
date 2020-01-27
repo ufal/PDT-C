@@ -1073,7 +1073,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 46 letý</text>
+</LM>
+<LM type="New Form">
+<text>46</text>
 </LM>
 </comment>
 </m>
@@ -3288,11 +3291,14 @@
 <form>30librových</form>
 <tag>
 <AM lemma="30librových" src="auto">X@-------------</AM>
-<AM lemma="30librový" src="manual" selected="1">AAFP2----1A----</AM>
+<AM lemma="30librový" src="manual">AAFP2----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 30 librových</text>
+</LM>
+<LM type="New Form">
+<text>30</text>
 </LM>
 </comment>
 </m>

@@ -597,7 +597,7 @@
 <text>O</text>
 </LM>
 <LM type="Other">
-<text>nutno rozdělit</text>
+<text>3v1: O ' Rourke</text>
 </LM>
 </comment>
 </m>

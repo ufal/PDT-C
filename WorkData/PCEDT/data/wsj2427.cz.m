@@ -260,13 +260,9 @@
 <AM lemma="devatenáct`19" src="auto">Cn-P6----------</AM>
 <AM lemma="devatenáct`19" src="auto">Cn-P7----------</AM>
 <AM lemma="devatenáct-2`19" src="manual">Cn-P3----------</AM>
-<AM lemma="devatenáct-2`19" src="manual" selected="1">A2--------A----</AM>
+<AM lemma="devatenáct-2`19" src="manual">A2--------A----</AM>
+<AM lemma="devatenáct-2`19" src="manual" selected="1">S2--------A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>špatné dělení slov</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj2427-001-p1s0W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -387,11 +383,14 @@
 <form>S.A</form>
 <tag>
 <AM lemma="S.A" src="auto">X@-------------</AM>
-<AM lemma="S.A-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="S.A-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: S . A</text>
+</LM>
+<LM type="New Form">
+<text>S</text>
 </LM>
 </comment>
 </m>

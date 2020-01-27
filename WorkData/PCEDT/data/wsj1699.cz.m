@@ -1246,7 +1246,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 45 členná</text>
+</LM>
+<LM type="New Form">
+<text>45</text>
 </LM>
 </comment>
 </m>
@@ -14080,11 +14083,14 @@
 <tag>
 <AM lemma="38milionového" src="auto">X@-------------</AM>
 <AM lemma="38milionový_,s_^(^DD**38miliónvý)" src="manual">AAIS2----1A----</AM>
-<AM lemma="38milionový_,s_^(^DD**38miliónový)" src="manual" selected="1">AAIS2----1A----</AM>
+<AM lemma="38milionový_,s_^(^DD**38miliónový)" src="manual">AAIS2----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 38 milionového</text>
+</LM>
+<LM type="New Form">
+<text>38</text>
 </LM>
 </comment>
 </m>

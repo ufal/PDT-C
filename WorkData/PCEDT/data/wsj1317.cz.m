@@ -9543,7 +9543,7 @@
 <AM lemma="severní" src="auto">AAFS1----1A----</AM>
 <AM lemma="severní" src="auto">AAFS2----1A----</AM>
 <AM lemma="severní" src="auto">AAFS3----1A----</AM>
-<AM lemma="severní" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="severní" src="auto" recommended="1" selected="1">AAFS4----1A----</AM>
 <AM lemma="severní" src="auto">AAFS5----1A----</AM>
 <AM lemma="severní" src="auto">AAFS6----1A----</AM>
 <AM lemma="severní" src="auto">AAFS7----1A----</AM>
@@ -9565,11 +9565,6 @@
 <AM lemma="severní" src="auto">AANS4----1A----</AM>
 <AM lemma="severní" src="auto">AANS5----1A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Severní</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1317-001-p1s35W22-Ta">
 <src.rf>tagger-a</src.rf>

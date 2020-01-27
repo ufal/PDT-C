@@ -500,12 +500,8 @@
 <tag>
 <AM lemma="Massachussets" src="auto">X@-------------</AM>
 <AM lemma="Massachussets_;G" src="manual">NNXXX-----A----</AM>
+<AM lemma="Massachussets_;G_,h_^(^GC**Massachusetts)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Massachusetts</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0635-001-p1s0W43-Ta">
 <src.rf>tagger-a</src.rf>

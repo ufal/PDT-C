@@ -692,11 +692,14 @@
 <form>190bodovému</form>
 <tag>
 <AM lemma="190bodovému" src="auto">X@-------------</AM>
-<AM lemma="190bodový" src="manual" selected="1">AAIS3----1A----</AM>
+<AM lemma="190bodový" src="manual">AAIS3----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 190 bodovému</text>
+</LM>
+<LM type="New Form">
+<text>190</text>
 </LM>
 </comment>
 </m>
@@ -3070,11 +3073,14 @@
 <form>190bodový</form>
 <tag>
 <AM lemma="190bodový" src="auto">X@-------------</AM>
-<AM lemma="190bodový" src="manual" selected="1">AAIS4----1A----</AM>
+<AM lemma="190bodový" src="manual">AAIS4----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 190 bodový</text>
+</LM>
+<LM type="New Form">
+<text>190</text>
 </LM>
 </comment>
 </m>
@@ -5812,7 +5818,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 39 letý</text>
+</LM>
+<LM type="New Form">
+<text>39</text>
 </LM>
 </comment>
 </m>

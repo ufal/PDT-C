@@ -2867,12 +2867,7 @@
 <LM>w#w-wsj1602-001-p1s6W30</LM>
 </w.rf>
 <form>Sandinovců</form>
-<tag lemma="sandinovec_;E" src="auto" recommended="1">NNMP2-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>sandinovců</text>
-</LM>
-</comment>
+<tag lemma="sandinovec_;E" src="auto" recommended="1" selected="1">NNMP2-----A----</tag>
 </m>
 <m id="m-wsj1602-001-p1s6W31-Ta">
 <src.rf>tagger-a</src.rf>

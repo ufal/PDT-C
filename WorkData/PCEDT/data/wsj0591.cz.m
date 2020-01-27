@@ -1610,7 +1610,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 79 letý</text>
+</LM>
+<LM type="New Form">
+<text>79</text>
 </LM>
 </comment>
 </m>
@@ -2582,7 +2585,7 @@
 <tag lemma="," src="auto" recommended="1">Z:-------------</tag>
 <comment>
 <LM type="Other">
-<text>chybná čárka</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>

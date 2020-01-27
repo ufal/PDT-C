@@ -1241,11 +1241,14 @@
 <form>Hart-Scott</form>
 <tag>
 <AM lemma="Hart-Scott" src="auto">X@-------------</AM>
-<AM lemma="Hart-Scott-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Hart-Scott-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>Hart</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Hart - Scott</text>
 </LM>
 </comment>
 </m>

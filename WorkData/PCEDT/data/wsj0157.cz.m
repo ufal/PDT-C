@@ -1034,6 +1034,11 @@
 </w.rf>
 <form>nebo</form>
 <tag lemma="nebo" src="auto" recommended="1">J^-------------</tag>
+<comment>
+<LM type="Other">
+<text>1v3: >neboli</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0157-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1042,6 +1047,11 @@
 </w.rf>
 <form>-</form>
 <tag lemma="-" src="auto" recommended="1">Z:-------------</tag>
+<comment>
+<LM type="Other">
+<text>1v3: &lt;neboli</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0157-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1056,7 +1066,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>neboli dohromady</text>
+<text>1v3: &lt;neboli</text>
 </LM>
 </comment>
 </m>

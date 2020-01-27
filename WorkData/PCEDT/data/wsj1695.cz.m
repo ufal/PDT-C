@@ -4242,8 +4242,8 @@
 <AM lemma="platit" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>neshoduje se kondicionálové "by" a prézens ve větě</text>
+<LM type="New Form">
+<text>platily</text>
 </LM>
 </comment>
 </m>

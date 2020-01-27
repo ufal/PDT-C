@@ -1070,7 +1070,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>předložka navíc</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>

@@ -3144,7 +3144,7 @@
 <text>S</text>
 </LM>
 <LM type="Other">
-<text>nutno rozdělit</text>
+<text>3v1: S . Growe</text>
 </LM>
 </comment>
 </m>

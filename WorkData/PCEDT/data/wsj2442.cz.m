@@ -1150,7 +1150,7 @@
 <text>1.17</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace - nutno rozdělit</text>
+<text>2v1: 1.17 miliardy</text>
 </LM>
 </comment>
 </m>

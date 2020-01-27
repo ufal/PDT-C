@@ -1769,11 +1769,14 @@
 <form>190bodového</form>
 <tag>
 <AM lemma="190bodového" src="auto">X@-------------</AM>
-<AM lemma="190bodový" src="manual" selected="1">AAIS2----1A----</AM>
+<AM lemma="190bodový" src="manual">AAIS2----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 190 bodového</text>
+</LM>
+<LM type="New Form">
+<text>190</text>
 </LM>
 </comment>
 </m>
@@ -18640,12 +18643,10 @@
 <LM>w#w-wsj0449-001-p1s53W21</LM>
 </w.rf>
 <form>Massachussetts</form>
-<tag lemma="Massachussetts" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Massachusetts</text>
-</LM>
-</comment>
+<tag>
+<AM lemma="Massachussetts" src="auto">X@-------------</AM>
+<AM lemma="Massachussetts_;G_,h_^(^GC**Massachusetts)" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0449-001-p1s53W22-Ta">
 <src.rf>tagger-a</src.rf>

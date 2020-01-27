@@ -8571,11 +8571,6 @@
 <AM lemma="ničí" src="auto">PWZS7----------</AM>
 <AM lemma="nic" src="auto" recommended="1">PW--7----------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>chybná interpunkce, chybí čárka</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0044-001-p1s32W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -16580,7 +16575,13 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 37 letá</text>
+</LM>
+<LM type="New Form">
+<text>37l</text>
+</LM>
+<LM type="New Form">
+<text>37</text>
 </LM>
 </comment>
 </m>
@@ -20580,11 +20581,6 @@
 <AM lemma="Bethové" src="auto">X@-------------</AM>
 <AM lemma="Bethová_;S" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>chybný překlad</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0044-001-p1s70W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -24032,11 +24028,6 @@
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>chybná interpunkce, chybí čárka</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0044-001-p1s85W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -24065,11 +24056,14 @@
 <form>48hodinovém</form>
 <tag>
 <AM lemma="48hodinovém" src="auto">X@-------------</AM>
-<AM lemma="48hodinový" src="manual" selected="1">AAIS6----1A----</AM>
+<AM lemma="48hodinový" src="manual">AAIS6----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>chybná tokenizace</text>
+<text>2v1: 48 hodinovém</text>
+</LM>
+<LM type="New Form">
+<text>48</text>
 </LM>
 </comment>
 </m>

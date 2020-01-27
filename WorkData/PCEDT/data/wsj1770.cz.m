@@ -1061,7 +1061,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 47 letý</text>
+</LM>
+<LM type="New Form">
+<text>47</text>
 </LM>
 </comment>
 </m>
@@ -2281,7 +2284,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 39 letý</text>
+</LM>
+<LM type="New Form">
+<text>39</text>
 </LM>
 </comment>
 </m>

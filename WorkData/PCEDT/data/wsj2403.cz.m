@@ -644,11 +644,14 @@
 <tag>
 <AM lemma="B.A.T" src="auto">X@-------------</AM>
 <AM lemma="B.A.T-77" src="manual">F%-------------</AM>
-<AM lemma="B.A.T-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>chybná tokenizace</text>
+<text>5v1: B . A . T</text>
+</LM>
+<LM type="New Form">
+<text>B</text>
 </LM>
 </comment>
 </m>
@@ -1354,11 +1357,14 @@
 <form>B.A.T</form>
 <tag>
 <AM lemma="B.A.T" src="auto">X@-------------</AM>
-<AM lemma="B.A.T-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>chybná tokenizace</text>
+<text>5v1: B . A . T</text>
+</LM>
+<LM type="New Form">
+<text>B</text>
 </LM>
 </comment>
 </m>
@@ -4056,11 +4062,14 @@
 <form>B.A.T</form>
 <tag>
 <AM lemma="B.A.T" src="auto">X@-------------</AM>
-<AM lemma="B.A.T-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>chybná tokenizace</text>
+<text>5v1: B . A . T</text>
+</LM>
+<LM type="New Form">
+<text>B</text>
 </LM>
 </comment>
 </m>
@@ -5935,11 +5944,14 @@
 <form>B.A.T</form>
 <tag>
 <AM lemma="B.A.T" src="auto">X@-------------</AM>
-<AM lemma="B.A.T-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>chybná tokenizace</text>
+<text>5v1: B . A . T</text>
+</LM>
+<LM type="New Form">
+<text>B</text>
 </LM>
 </comment>
 </m>
@@ -6621,11 +6633,14 @@
 <form>B.A.T</form>
 <tag>
 <AM lemma="B.A.T" src="auto">X@-------------</AM>
-<AM lemma="B.A.T-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>chybná tokenizace</text>
+<text>5v1: B . A . T</text>
+</LM>
+<LM type="New Form">
+<text>B</text>
 </LM>
 </comment>
 </m>
@@ -6945,11 +6960,14 @@
 <form>B.A.T</form>
 <tag>
 <AM lemma="B.A.T" src="auto">X@-------------</AM>
-<AM lemma="B.A.T-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>chybná tokenizace</text>
+<text>5v1: B . A . T</text>
+</LM>
+<LM type="New Form">
+<text>B</text>
 </LM>
 </comment>
 </m>

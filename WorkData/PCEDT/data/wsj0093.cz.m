@@ -2673,7 +2673,10 @@
 <tag lemma="-4" src="auto" recommended="1">C=-------------</tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: - 4</text>
+</LM>
+<LM type="New Form">
+<text>-</text>
 </LM>
 </comment>
 </m>

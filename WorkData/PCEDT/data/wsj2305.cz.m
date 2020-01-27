@@ -210,11 +210,14 @@
 <form>52týdenní</form>
 <tag>
 <AM lemma="52týdenní" src="auto">X@-------------</AM>
-<AM lemma="52týdenní" src="manual" selected="1">AAFS7----1A----</AM>
+<AM lemma="52týdenní" src="manual">AAFS7----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 52 týdenní</text>
+</LM>
+<LM type="New Form">
+<text>52</text>
 </LM>
 </comment>
 </m>

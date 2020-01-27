@@ -4152,7 +4152,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 11 letém</text>
+</LM>
+<LM type="New Form">
+<text>11</text>
 </LM>
 </comment>
 </m>
@@ -11935,12 +11938,10 @@
 <LM>w#w-wsj0360-001-p1s37W13</LM>
 </w.rf>
 <form>Massachussets</form>
-<tag lemma="Massachussets" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Massachusetts</text>
-</LM>
-</comment>
+<tag>
+<AM lemma="Massachussets" src="auto">X@-------------</AM>
+<AM lemma="Massachussets_;G_,h_^(^GC**Massachusetts)" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 </s>
 </mdata>

@@ -1518,12 +1518,10 @@
 <LM>w#w-wsj1059-001-p1s4W9</LM>
 </w.rf>
 <form>Massachussetts</form>
-<tag lemma="Massachussetts" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Massachusetts</text>
-</LM>
-</comment>
+<tag>
+<AM lemma="Massachussetts" src="auto">X@-------------</AM>
+<AM lemma="Massachussetts_;G_,h_^(^GC**Massachusetts)" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1059-001-p1s4W10-Ta">
 <src.rf>tagger-a</src.rf>

@@ -3002,11 +3002,6 @@
 <AM lemma="který" src="auto">P4NS4----------</AM>
 <AM lemma="který" src="auto">P4YP4----------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>chybějící čárka</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1974-001-p1s12W10-Ta">
 <src.rf>tagger-a</src.rf>

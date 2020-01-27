@@ -736,11 +736,14 @@
 <form>C.E</form>
 <tag>
 <AM lemma="C.E" src="auto">X@-------------</AM>
-<AM lemma="C.E-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="C.E-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: C . E</text>
+</LM>
+<LM type="New Form">
+<text>C</text>
 </LM>
 </comment>
 </m>

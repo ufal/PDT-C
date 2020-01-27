@@ -7293,6 +7293,9 @@
 <LM type="New Form">
 <text>17</text>
 </LM>
+<LM type="Other">
+<text>2v1: 17 h</text>
+</LM>
 </comment>
 </m>
 <m id="m-wsj2413-001-p1s24W13-Ta">
@@ -8693,6 +8696,9 @@
 <comment>
 <LM type="New Form">
 <text>r</text>
+</LM>
+<LM type="Other">
+<text>2v1: r .</text>
 </LM>
 </comment>
 </m>
@@ -11305,6 +11311,9 @@
 <comment>
 <LM type="New Form">
 <text>10</text>
+</LM>
+<LM type="Other">
+<text>2v1: 10 h</text>
 </LM>
 </comment>
 </m>

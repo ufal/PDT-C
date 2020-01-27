@@ -5182,12 +5182,14 @@
 <form>30denní</form>
 <tag>
 <AM lemma="30denní" src="auto">X@-------------</AM>
-<AM lemma="30denní" src="manual" selected="1">AANS4----1A----</AM>
+<AM lemma="30denní" src="manual">AANS4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other"/>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 30 denní</text>
+</LM>
+<LM type="New Form">
+<text>30</text>
 </LM>
 </comment>
 </m>

@@ -339,11 +339,14 @@
 <form>76stránkového</form>
 <tag>
 <AM lemma="76stránkového" src="auto">X@-------------</AM>
-<AM lemma="76stránkový" src="manual" selected="1">AAIS2----1A----</AM>
+<AM lemma="76stránkový" src="manual">AAIS2----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 76 stránkového</text>
+</LM>
+<LM type="New Form">
+<text>76</text>
 </LM>
 </comment>
 </m>

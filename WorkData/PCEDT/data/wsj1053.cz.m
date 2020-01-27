@@ -749,8 +749,8 @@
 <form>někdo</form>
 <tag lemma="někdo" src="auto" recommended="1">PZM-1----------</tag>
 <comment>
-<LM type="Other">
-<text>použit špatný pád, správně by mělo být "jako někoho"</text>
+<LM type="New Form">
+<text>někoho</text>
 </LM>
 </comment>
 </m>
@@ -905,8 +905,8 @@
 <form>skočilo</form>
 <tag lemma="skočit" src="auto" recommended="1">VpNS---XR-AAP--</tag>
 <comment>
-<LM type="Other">
-<text>mělo by být asi "skončilo" spíš než "skočilo"</text>
+<LM type="New Form">
+<text>skončilo</text>
 </LM>
 </comment>
 </m>

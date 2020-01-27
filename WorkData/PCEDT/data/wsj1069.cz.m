@@ -4195,11 +4195,14 @@
 <form>40násobku</form>
 <tag>
 <AM lemma="40násobku" src="auto">X@-------------</AM>
-<AM lemma="40násobek" src="manual" selected="1">NNIS6-----A----</AM>
+<AM lemma="40násobek" src="manual">NNIS6-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 40 násobku</text>
+</LM>
+<LM type="New Form">
+<text>40</text>
 </LM>
 </comment>
 </m>

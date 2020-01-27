@@ -14111,11 +14111,6 @@
 <AM lemma="Vietnam_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Vietnam_;G" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>čárka před "a přesto"</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1615-001-p1s44W14-Ta">
 <src.rf>tagger-a</src.rf>

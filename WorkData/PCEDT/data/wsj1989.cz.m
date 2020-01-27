@@ -659,12 +659,8 @@
 <AM lemma="radiový" src="auto">AANS1----1A---6</AM>
 <AM lemma="radiový" src="auto">AANS4----1A---6</AM>
 <AM lemma="radiový" src="auto">AANS5----1A---6</AM>
+<AM lemma="radiový_,s_^(^DD**rádiový)" src="manual" selected="1">AAIS4----1A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>rádiový</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1989-001-p1s2W12-Ta">
 <src.rf>tagger-a</src.rf>

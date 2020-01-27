@@ -250,11 +250,14 @@
 <form>190bodového</form>
 <tag>
 <AM lemma="190bodového" src="auto">X@-------------</AM>
-<AM lemma="190bodový" src="manual" selected="1">AAIS2----1A----</AM>
+<AM lemma="190bodový" src="manual">AAIS2----1A----</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>190</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 190 bodového</text>
 </LM>
 </comment>
 </m>

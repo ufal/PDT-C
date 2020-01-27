@@ -882,11 +882,14 @@
 <form>16měsícní</form>
 <tag>
 <AM lemma="16měsícní" src="auto">X@-------------</AM>
-<AM lemma="16měsícní" src="manual" selected="1">AAFS3----1A----</AM>
+<AM lemma="16měsícní" src="manual">AAFS3----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace, rozdělit</text>
+<text>2v1: 16 měsíční</text>
+</LM>
+<LM type="New Form">
+<text>16</text>
 </LM>
 </comment>
 </m>

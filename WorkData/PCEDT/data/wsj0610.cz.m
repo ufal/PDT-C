@@ -1503,11 +1503,14 @@
 <form>6miliardovém</form>
 <tag>
 <AM lemma="6miliardovém" src="auto">X@-------------</AM>
-<AM lemma="6miliardový" src="manual" selected="1">AAIS6----1A----</AM>
+<AM lemma="6miliardový" src="manual">AAIS6----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatný tokenizace</text>
+<text>2v1: 6 miliardovém</text>
+</LM>
+<LM type="New Form">
+<text>6</text>
 </LM>
 </comment>
 </m>
@@ -9203,11 +9206,14 @@
 <form>185akrovém</form>
 <tag>
 <AM lemma="185akrovém" src="auto">X@-------------</AM>
-<AM lemma="185akrový" src="manual" selected="1">AANS6----1A----</AM>
+<AM lemma="185akrový" src="manual">AANS6----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 185 akrovém</text>
+</LM>
+<LM type="New Form">
+<text>185</text>
 </LM>
 </comment>
 </m>

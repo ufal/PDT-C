@@ -12055,11 +12055,14 @@
 <form>Moody's</form>
 <tag>
 <AM lemma="Moody's" src="auto">X@-------------</AM>
-<AM lemma="Moody's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Moody's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>má být jako tři uzly</text>
+<text>3v1: Moody ' s</text>
+</LM>
+<LM type="New Form">
+<text>Moody</text>
 </LM>
 </comment>
 </m>
@@ -12387,11 +12390,14 @@
 <form>Moody's</form>
 <tag>
 <AM lemma="Moody's" src="auto">X@-------------</AM>
-<AM lemma="Moody's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Moody's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>Moody</text>
+</LM>
 <LM type="Other">
-<text>má být jako tři uzly</text>
+<text>3v1: Moody ' s</text>
 </LM>
 </comment>
 </m>
@@ -12921,11 +12927,14 @@
 <form>Moody's</form>
 <tag>
 <AM lemma="Moody's" src="auto">X@-------------</AM>
-<AM lemma="Moody's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Moody's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>Moody</text>
+</LM>
 <LM type="Other">
-<text>má být jako tři uzly</text>
+<text>3v1: Moody ' s</text>
 </LM>
 </comment>
 </m>
@@ -13704,11 +13713,14 @@
 <form>Moody's</form>
 <tag>
 <AM lemma="Moody's" src="auto">X@-------------</AM>
-<AM lemma="Moody's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Moody's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>má být jako tři uzly</text>
+<text>3v1: Moody ' s</text>
+</LM>
+<LM type="New Form">
+<text>Moody</text>
 </LM>
 </comment>
 </m>
@@ -13938,11 +13950,14 @@
 <form>Moody's</form>
 <tag>
 <AM lemma="Moody's" src="auto">X@-------------</AM>
-<AM lemma="Moody's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Moody's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>má být jako tři uzly</text>
+<text>3v1: Moody ' s</text>
+</LM>
+<LM type="New Form">
+<text>Moody</text>
 </LM>
 </comment>
 </m>
@@ -17452,11 +17467,6 @@
 <AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>chybí dokončení věty</text>
-</LM>
-</comment>
 </m>
 </s>
 <s id="m-wsj0142-001-p1s58">
@@ -18018,11 +18028,6 @@
 <AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>chybí dokončení věty</text>
-</LM>
-</comment>
 </m>
 </s>
 <s id="m-wsj0142-001-p1s60">

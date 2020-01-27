@@ -17869,12 +17869,10 @@
 <LM>w#w-wsj0096-001-p1s46W90</LM>
 </w.rf>
 <form>Luisianě</form>
-<tag lemma="Luisianě" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Louisianě</text>
-</LM>
-</comment>
+<tag>
+<AM lemma="Luisianě" src="auto">X@-------------</AM>
+<AM lemma="Luisiana_;G_,h_^(^GC**Lousiana)" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0096-001-p1s46W91-Ta">
 <src.rf>tagger-a</src.rf>

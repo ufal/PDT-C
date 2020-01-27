@@ -3492,11 +3492,6 @@
 <AM lemma="styl" recommended="1">NNIS1-----A----</AM>
 <AM lemma="styl">NNIS4-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>doplnit čárku za slovo "styl"</text>
-</LM>
-</comment>
 </m>
 <m id="mu_02-SCzechM-p0141-s1-w7">
 <w.rf>

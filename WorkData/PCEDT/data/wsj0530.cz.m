@@ -126,13 +126,8 @@
 <form>Brother</form>
 <tag>
 <AM lemma="Brother" src="auto">X@-------------</AM>
-<AM lemma="Brother-77" src="manual">F%-------------</AM>
+<AM lemma="Brother-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Brothers</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0530-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1976,13 +1971,8 @@
 <form>Brother</form>
 <tag>
 <AM lemma="Brother" src="auto">X@-------------</AM>
-<AM lemma="Brother-77" src="manual">F%-------------</AM>
+<AM lemma="Brother-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Brothers</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0530-001-p1s5W32-Ta">
 <src.rf>tagger-a</src.rf>

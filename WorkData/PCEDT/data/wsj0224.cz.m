@@ -4190,12 +4190,7 @@
 <LM>w#w-wsj0224-001-p1s14W5</LM>
 </w.rf>
 <form>Států</form>
-<tag lemma="stát-1_^(státní_útvar)" src="auto" recommended="1">NNIP2-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>států</text>
-</LM>
-</comment>
+<tag lemma="stát-1_^(státní_útvar)" src="auto" recommended="1" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj0224-001-p1s14W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8502,12 +8497,7 @@
 <LM>w#w-wsj0224-001-p1s29W6</LM>
 </w.rf>
 <form>Státech</form>
-<tag lemma="stát-1_^(státní_útvar)" src="auto" recommended="1">NNIP6-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>státech</text>
-</LM>
-</comment>
+<tag lemma="stát-1_^(státní_útvar)" src="auto" recommended="1" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-wsj0224-001-p1s29W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8781,12 +8771,7 @@
 <LM>w#w-wsj0224-001-p1s30W5</LM>
 </w.rf>
 <form>Státech</form>
-<tag lemma="stát-1_^(státní_útvar)" src="auto" recommended="1">NNIP6-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>státech</text>
-</LM>
-</comment>
+<tag lemma="stát-1_^(státní_útvar)" src="auto" recommended="1" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-wsj0224-001-p1s30W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9655,12 +9640,7 @@
 <LM>w#w-wsj0224-001-p1s32W6</LM>
 </w.rf>
 <form>Státech</form>
-<tag lemma="stát-1_^(státní_útvar)" src="auto" recommended="1">NNIP6-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>státech</text>
-</LM>
-</comment>
+<tag lemma="stát-1_^(státní_útvar)" src="auto" recommended="1" selected="1">NNIP6-----A----</tag>
 </m>
 <m id="m-wsj0224-001-p1s32W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10308,12 +10288,7 @@
 <LM>w#w-wsj0224-001-p1s34W7</LM>
 </w.rf>
 <form>Států</form>
-<tag lemma="stát-1_^(státní_útvar)" src="auto" recommended="1">NNIP2-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>států</text>
-</LM>
-</comment>
+<tag lemma="stát-1_^(státní_útvar)" src="auto" recommended="1" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj0224-001-p1s34W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12570,11 +12545,6 @@
 <AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>chybí zbytek věty</text>
-</LM>
-</comment>
 </m>
 </s>
 <s id="m-wsj0224-001-p1s41">

@@ -1655,11 +1655,6 @@
 <AM lemma="od-1" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="od-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nedokončená věta</text>
-</LM>
-</comment>
 </m>
 </s>
 <s id="m-wsj2159-001-p1s6">

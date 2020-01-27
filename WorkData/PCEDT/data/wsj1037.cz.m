@@ -11974,11 +11974,14 @@
 <form>57měsíční</form>
 <tag>
 <AM lemma="57měsíční" src="auto">X@-------------</AM>
-<AM lemma="57měsíční_^(lhůta;svit)" src="manual" selected="1">AAFS4----1A----</AM>
+<AM lemma="57měsíční_^(lhůta;svit)" src="manual">AAFS4----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 57 měsíční</text>
+</LM>
+<LM type="New Form">
+<text>57</text>
 </LM>
 </comment>
 </m>
@@ -12290,11 +12293,14 @@
 <form>29palcovou</form>
 <tag>
 <AM lemma="29palcovou" src="auto">X@-------------</AM>
-<AM lemma="29palcový" src="manual" selected="1">AAFS7----1A----</AM>
+<AM lemma="29palcový" src="manual">AAFS7----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 29 palcovou</text>
+</LM>
+<LM type="New Form">
+<text>29</text>
 </LM>
 </comment>
 </m>

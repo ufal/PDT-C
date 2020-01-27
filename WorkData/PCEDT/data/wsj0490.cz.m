@@ -2772,11 +2772,6 @@
 </w.rf>
 <form>16</form>
 <tag lemma="16" src="auto" recommended="1">C=-------------</tag>
-<comment>
-<LM type="Other">
-<text>tato část věty nedává nějak smysl - možná chybí slovo? </text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0490-001-p1s10W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5352,11 +5347,14 @@
 <tag>
 <AM lemma="19měsíční" src="auto">X@-------------</AM>
 <AM lemma="19měsíční_,s_^(^DD**19měsíční)" src="manual">AANS4----1A----</AM>
-<AM lemma="19měsíční" src="manual" selected="1">AANS4----1A----</AM>
+<AM lemma="19měsíční" src="manual">AANS4----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 19 měsíční</text>
+</LM>
+<LM type="New Form">
+<text>19</text>
 </LM>
 </comment>
 </m>

@@ -314,7 +314,7 @@
 <text>1</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace, nutno rozdělit</text>
+<text>3v1: 1 . listopadu</text>
 </LM>
 </comment>
 </m>
@@ -1010,7 +1010,7 @@
 <text>1</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace, nutno rozdělit</text>
+<text>3v1: 1. listopadu</text>
 </LM>
 </comment>
 </m>

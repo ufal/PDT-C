@@ -373,8 +373,8 @@
 <form>991875</form>
 <tag lemma="991875" src="auto" recommended="1">C=-------------</tag>
 <comment>
-<LM type="Other">
-<text>zřejmě chybí desetinná čárka</text>
+<LM type="New Form">
+<text>99.1875</text>
 </LM>
 </comment>
 </m>

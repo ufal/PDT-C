@@ -6860,7 +6860,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>to slovo sem logicky nepatří</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>

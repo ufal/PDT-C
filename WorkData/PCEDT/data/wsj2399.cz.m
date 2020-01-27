@@ -1057,8 +1057,8 @@
 <AM lemma="10letý" src="auto">AANP7----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
+<LM type="New Form">
+<text>desetiletými</text>
 </LM>
 </comment>
 </m>
@@ -2209,8 +2209,8 @@
 <AM lemma="10letý" src="auto">AANP7----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
+<LM type="New Form">
+<text>desetiletými</text>
 </LM>
 </comment>
 </m>
@@ -3916,8 +3916,8 @@
 <AM lemma="10letý" src="auto">AANP7----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
+<LM type="New Form">
+<text>desetiletými</text>
 </LM>
 </comment>
 </m>

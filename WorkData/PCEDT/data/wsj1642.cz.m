@@ -8350,11 +8350,14 @@
 <form>11miliónová</form>
 <tag>
 <AM lemma="11miliónová" src="auto">X@-------------</AM>
-<AM lemma="11miliónový" src="manual" selected="1">AAFS1----1A----</AM>
+<AM lemma="11miliónový" src="manual">AAFS1----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 11 miliónová</text>
+</LM>
+<LM type="New Form">
+<text>11</text>
 </LM>
 </comment>
 </m>

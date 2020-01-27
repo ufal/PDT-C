@@ -651,13 +651,8 @@
 <AM lemma="ministerstvo" src="auto">NNNP1-----A----</AM>
 <AM lemma="ministerstvo" src="auto">NNNP4-----A----</AM>
 <AM lemma="ministerstvo" src="auto">NNNP5-----A----</AM>
-<AM lemma="ministerstvo" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="ministerstvo" src="auto" recommended="1" selected="1">NNNS2-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>ministerstva</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj2157-001-p1s2W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1004,13 +999,8 @@
 <form>Ministerstvu</form>
 <tag>
 <AM lemma="ministerstvo" src="auto">NNNS3-----A----</AM>
-<AM lemma="ministerstvo" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="ministerstvo" src="auto" recommended="1" selected="1">NNNS6-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>ministerstvu</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj2157-001-p1s3W17-Ta">
 <src.rf>tagger-a</src.rf>

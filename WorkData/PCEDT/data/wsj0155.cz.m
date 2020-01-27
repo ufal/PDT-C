@@ -1489,11 +1489,14 @@
 <AM lemma="tj." src="auto">X@-------------</AM>
 <AM lemma="tj.-88_:B" src="manual">NNXXX-----A----</AM>
 <AM lemma="tj.-88_:B" src="manual">J^-------------</AM>
-<AM lemma="tj-1_:B_^(to_je/jest)" src="manual" selected="1">J^-------------</AM>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="manual">J^-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: tj .</text>
+</LM>
+<LM type="New Form">
+<text>tj</text>
 </LM>
 </comment>
 </m>

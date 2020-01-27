@@ -6473,11 +6473,14 @@
 <form>M.D.C</form>
 <tag>
 <AM lemma="M.D.C" src="auto">X@-------------</AM>
-<AM lemma="M.D.C-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="M.D.C-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>5v1: M . D . C</text>
+</LM>
+<LM type="New Form">
+<text>M</text>
 </LM>
 </comment>
 </m>
@@ -6557,11 +6560,14 @@
 <form>aPrice</form>
 <tag>
 <AM lemma="aPrice" src="auto">X@-------------</AM>
-<AM lemma="aPrice-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="aPrice-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace: zřejmě spojka "a" plus "Price"</text>
+<text>2v1: a Price</text>
+</LM>
+<LM type="New Form">
+<text>a</text>
 </LM>
 </comment>
 </m>

@@ -4524,11 +4524,14 @@
 <form>21měsíční</form>
 <tag>
 <AM lemma="21měsíční" src="auto">X@-------------</AM>
-<AM lemma="21měsíční" src="manual" selected="1">AAFS4----1A----</AM>
+<AM lemma="21měsíční" src="manual">AAFS4----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 21 měsíční</text>
+</LM>
+<LM type="New Form">
+<text>21</text>
 </LM>
 </comment>
 </m>
@@ -7143,11 +7146,14 @@
 <form>250krát</form>
 <tag>
 <AM lemma="250krát" src="auto">X@-------------</AM>
-<AM lemma="250krát`250" src="manual" selected="1">Cv-------------</AM>
+<AM lemma="250krát`250" src="manual">Cv-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 250 krát</text>
+</LM>
+<LM type="New Form">
+<text>250</text>
 </LM>
 </comment>
 </m>

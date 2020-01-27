@@ -314,11 +314,6 @@
 <AM lemma="Milpitas_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Milpitas_;G" src="auto">NNIS4-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>chybí tu "z" nebo alespoň oddělení názvu města čárkou</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0734-001-p1s0W28-Ta">
 <src.rf>tagger-a</src.rf>

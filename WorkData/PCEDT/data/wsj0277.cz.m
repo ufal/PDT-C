@@ -3364,6 +3364,11 @@
 <AM lemma="aby" src="auto" recommended="1">J,-------------</AM>
 <AM lemma="aby-2_^(už_aby_to_bylo)" src="auto">TT-------------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: aby se</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0277-001-p1s10W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3372,11 +3377,6 @@
 </w.rf>
 <form>zdržely</form>
 <tag lemma="zdržet" src="auto" recommended="1">VpTP---XR-AAP--</tag>
-<comment>
-<LM type="Other">
-<text>má být "se zdržely"</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0277-001-p1s10W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3434,11 +3434,6 @@
 <AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>zde něco chybí</text>
-</LM>
-</comment>
 </m>
 </s>
 <s id="m-wsj0277-001-p1s11">

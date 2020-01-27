@@ -1599,12 +1599,14 @@
 <form>40bodový</form>
 <tag>
 <AM lemma="40bodový" src="auto">X@-------------</AM>
-<AM lemma="40bodový" src="manual" selected="1">AAIS1----1A----</AM>
+<AM lemma="40bodový" src="manual">AAIS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other"/>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 40 bodový</text>
+</LM>
+<LM type="New Form">
+<text>40</text>
 </LM>
 </comment>
 </m>

@@ -11548,11 +11548,14 @@
 <form>16bitový</form>
 <tag>
 <AM lemma="16bitový" src="auto">X@-------------</AM>
-<AM lemma="16bitový" src="manual" selected="1">AAIS4----1A----</AM>
+<AM lemma="16bitový" src="manual">AAIS4----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 16 bitový</text>
+</LM>
+<LM type="New Form">
+<text>16</text>
 </LM>
 </comment>
 </m>
@@ -11708,11 +11711,17 @@
 <form>16bitový</form>
 <tag>
 <AM lemma="16bitový" src="auto">X@-------------</AM>
-<AM lemma="16bitový" src="manual" selected="1">AAIS1----1A----</AM>
+<AM lemma="16bitový" src="manual">AAIS1----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
 <text>špatná tokenizace</text>
+</LM>
+<LM type="Other">
+<text>2v1: 16 bitový</text>
+</LM>
+<LM type="New Form">
+<text>16</text>
 </LM>
 </comment>
 </m>
@@ -11896,11 +11905,14 @@
 <form>32bitové</form>
 <tag>
 <AM lemma="32bitové" src="auto">X@-------------</AM>
-<AM lemma="32bitový" src="manual" selected="1">AAIP1----1A----</AM>
+<AM lemma="32bitový" src="manual">AAIP1----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 32 bitové</text>
+</LM>
+<LM type="New Form">
+<text>32</text>
 </LM>
 </comment>
 </m>
@@ -12087,11 +12099,14 @@
 <form>16bitových</form>
 <tag>
 <AM lemma="16bitových" src="auto">X@-------------</AM>
-<AM lemma="16bitový" src="manual" selected="1">AAIP2----1A----</AM>
+<AM lemma="16bitový" src="manual">AAIP2----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 16 bitových</text>
+</LM>
+<LM type="New Form">
+<text>16</text>
 </LM>
 </comment>
 </m>
@@ -12117,11 +12132,14 @@
 <form>32bitových</form>
 <tag>
 <AM lemma="32bitových" src="auto">X@-------------</AM>
-<AM lemma="32bitový" src="manual" selected="1">AAIP2----1A----</AM>
+<AM lemma="32bitový" src="manual">AAIP2----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 32 bitových</text>
+</LM>
+<LM type="New Form">
+<text>32</text>
 </LM>
 </comment>
 </m>

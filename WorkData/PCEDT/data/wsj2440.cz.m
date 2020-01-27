@@ -1132,6 +1132,9 @@
 <LM type="New Form">
 <text>15</text>
 </LM>
+<LM type="New Form">
+<text>patnácti</text>
+</LM>
 </comment>
 </m>
 <m id="m-wsj2440-001-p1s2W34-Ta">

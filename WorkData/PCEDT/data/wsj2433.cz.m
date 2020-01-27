@@ -6386,7 +6386,7 @@
 <text>U</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1:  U . S</text>
 </LM>
 </comment>
 </m>
@@ -7700,7 +7700,7 @@
 <text>R</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: R .</text>
 </LM>
 </comment>
 </m>
@@ -11102,7 +11102,7 @@
 <text>D</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1:  D . C</text>
 </LM>
 </comment>
 </m>
@@ -12089,7 +12089,7 @@
 <text>W</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: W . R</text>
 </LM>
 </comment>
 </m>
@@ -13700,7 +13700,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 500 členné</text>
+</LM>
+<LM type="New Form">
+<text>500</text>
 </LM>
 </comment>
 </m>
@@ -13875,7 +13878,7 @@
 <text>D</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: D . C</text>
 </LM>
 </comment>
 </m>
@@ -15760,7 +15763,7 @@
 <text>D</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: D . C</text>
 </LM>
 </comment>
 </m>

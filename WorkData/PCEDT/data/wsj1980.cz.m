@@ -4298,11 +4298,14 @@
 <form>24měsíční</form>
 <tag>
 <AM lemma="24měsíční" src="auto">X@-------------</AM>
-<AM lemma="24měsíční" src="manual" selected="1">AAFS4----1A----</AM>
+<AM lemma="24měsíční" src="manual">AAFS4----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 24 měsíční</text>
+</LM>
+<LM type="New Form">
+<text>24</text>
 </LM>
 </comment>
 </m>
@@ -5740,11 +5743,14 @@
 <form>400milionové</form>
 <tag>
 <AM lemma="400milionové" src="auto">X@-------------</AM>
-<AM lemma="400milionový_,s_^(^DD**400miliónový)" src="manual" selected="1">AAIP4----1A----</AM>
+<AM lemma="400milionový_,s_^(^DD**400miliónový)" src="manual">AAIP4----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 400 milionové</text>
+</LM>
+<LM type="New Form">
+<text>400</text>
 </LM>
 </comment>
 </m>

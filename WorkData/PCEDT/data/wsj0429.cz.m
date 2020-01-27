@@ -2709,11 +2709,14 @@
 <form>120denní</form>
 <tag>
 <AM lemma="120denní" src="auto">X@-------------</AM>
-<AM lemma="120denní" src="manual" selected="1">AAFS1----1A----</AM>
+<AM lemma="120denní" src="manual">AAFS1----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 120 denní</text>
+</LM>
+<LM type="New Form">
+<text>120</text>
 </LM>
 </comment>
 </m>

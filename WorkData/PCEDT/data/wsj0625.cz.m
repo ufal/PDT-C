@@ -92,11 +92,14 @@
 <form>51denní</form>
 <tag>
 <AM lemma="51denní" src="auto">X@-------------</AM>
-<AM lemma="51denní" src="manual" selected="1">AAFP4----1A----</AM>
+<AM lemma="51denní" src="manual">AAFP4----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 51 denní</text>
+</LM>
+<LM type="New Form">
+<text>51</text>
 </LM>
 </comment>
 </m>
@@ -1337,11 +1340,14 @@
 <form>13týdenní</form>
 <tag>
 <AM lemma="13týdenní" src="auto">X@-------------</AM>
-<AM lemma="13týdenní" src="manual" selected="1">AAFP1----1A----</AM>
+<AM lemma="13týdenní" src="manual">AAFP1----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 13 týdenní</text>
+</LM>
+<LM type="New Form">
+<text>13</text>
 </LM>
 </comment>
 </m>
@@ -1367,11 +1373,14 @@
 <form>27týdenní</form>
 <tag>
 <AM lemma="27týdenní" src="auto">X@-------------</AM>
-<AM lemma="27týdenní" src="manual" selected="1">AAFP1----1A----</AM>
+<AM lemma="27týdenní" src="manual">AAFP1----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 27 týdenní</text>
+</LM>
+<LM type="New Form">
+<text>27</text>
 </LM>
 </comment>
 </m>

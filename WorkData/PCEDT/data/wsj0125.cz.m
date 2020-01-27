@@ -1156,11 +1156,14 @@
 <form>Moody's</form>
 <tag>
 <AM lemma="Moody's" src="auto">X@-------------</AM>
-<AM lemma="Moody's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Moody's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>Moody</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Moody ' s</text>
 </LM>
 </comment>
 </m>
@@ -1260,11 +1263,14 @@
 <form>Poor's</form>
 <tag>
 <AM lemma="Poor's" src="auto">X@-------------</AM>
-<AM lemma="Poor's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Poor's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>Poor</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Poor ' s</text>
 </LM>
 </comment>
 </m>
@@ -7695,11 +7701,14 @@
 <form>Moody's</form>
 <tag>
 <AM lemma="Moody's" src="auto">X@-------------</AM>
-<AM lemma="Moody's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Moody's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>Moody</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Moody ' s</text>
 </LM>
 </comment>
 </m>

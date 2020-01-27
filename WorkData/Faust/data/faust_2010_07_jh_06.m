@@ -1894,11 +1894,6 @@
 <AM lemma="čína">NNFP5-----A----</AM>
 <AM lemma="čína">NNFS2-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>zřejmě chybí předložka (z nebo do)</text>
-</LM>
-</comment>
 </m>
 <m id="jh_06-SCzechM-p0579-s1-w5">
 <w.rf>
@@ -5523,11 +5518,14 @@
 <form>m2</form>
 <tag>
 <AM lemma="m2-1_:B_^(metr_čtvereční)" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="m2_:B_^(metr_čtvereční)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="m2_:B_^(metr_čtvereční)" src="manual">NNIXX-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: m 2</text>
+</LM>
+<LM type="New Form">
+<text>m</text>
 </LM>
 </comment>
 </m>
@@ -5606,11 +5604,14 @@
 <form>m2</form>
 <tag>
 <AM lemma="m2-1_:B_^(metr_čtvereční)" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="m2_:B_^(metr_čtvereční)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="m2_:B_^(metr_čtvereční)" src="manual">NNIXX-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: m 2</text>
+</LM>
+<LM type="New Form">
+<text>m</text>
 </LM>
 </comment>
 </m>

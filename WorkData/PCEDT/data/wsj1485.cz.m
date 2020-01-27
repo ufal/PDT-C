@@ -793,11 +793,6 @@
 <AM lemma="tento" src="auto">PDMS4----------</AM>
 <AM lemma="tento" src="auto" recommended="1">PDZS2----------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>chybí konec věty</text>
-</LM>
-</comment>
 </m>
 </s>
 <s id="m-wsj1485-001-p1s2">

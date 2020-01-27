@@ -770,11 +770,14 @@
 <form>90miliardového</form>
 <tag>
 <AM lemma="90miliardového" src="auto">X@-------------</AM>
-<AM lemma="90miliardový" src="manual" selected="1">AAIS2----1A----</AM>
+<AM lemma="90miliardový" src="manual">AAIS2----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 90 miliardového</text>
+</LM>
+<LM type="New Form">
+<text>90</text>
 </LM>
 </comment>
 </m>
@@ -2898,11 +2901,6 @@
 <AM lemma="to-9_^(být_s_to)" src="auto">TT-------------</AM>
 <AM lemma="to-77" src="auto">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>možná vhodněji ten, ale nechci zbytečně zasahovat</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj2064-001-p1s10W16-Ta">
 <src.rf>tagger-a</src.rf>

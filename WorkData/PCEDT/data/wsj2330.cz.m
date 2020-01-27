@@ -8547,11 +8547,14 @@
 <form>90librových</form>
 <tag>
 <AM lemma="90librových" src="auto">X@-------------</AM>
-<AM lemma="90librový" src="manual" selected="1">AAFP2----1A----</AM>
+<AM lemma="90librový" src="manual">AAFP2----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 90 librových</text>
+</LM>
+<LM type="New Form">
+<text>90</text>
 </LM>
 </comment>
 </m>

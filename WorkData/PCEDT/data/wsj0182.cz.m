@@ -1075,6 +1075,9 @@
 <LM type="New Form">
 <text>r</text>
 </LM>
+<LM type="Other">
+<text>2v1: r .</text>
+</LM>
 </comment>
 </m>
 <m id="m-wsj0182-001-p1s3W27-Ta">

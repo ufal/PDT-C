@@ -2663,12 +2663,10 @@
 <LM>w#w-wsj0562-001-p1s8W14</LM>
 </w.rf>
 <form>Massachussetts</form>
-<tag lemma="Massachussetts" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Massachusetts</text>
-</LM>
-</comment>
+<tag>
+<AM lemma="Massachussetts" src="auto">X@-------------</AM>
+<AM lemma="Massachussetts_;G_,h_^(^GC**Massachusetts)" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0562-001-p1s8W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12746,12 +12744,12 @@
 <LM>w#w-wsj0562-001-p1s46W13</LM>
 </w.rf>
 <form>Massachussetts</form>
-<tag lemma="Massachussetts" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Massachusetts</text>
-</LM>
-</comment>
+<tag>
+<AM lemma="Massachussetts" src="auto">X@-------------</AM>
+<AM lemma="Massachussetts_;G h_^(^GC** Massachusetts)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Massachussetts_;G ,h_^(^GC**Massachusetts)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Massachussetts_;G_,h_^(^GC**Massachusetts)" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0562-001-p1s46W14-Ta">
 <src.rf>tagger-a</src.rf>

@@ -14648,11 +14648,11 @@
 <form>10krát</form>
 <tag>
 <AM lemma="10krát" src="auto">X@-------------</AM>
-<AM lemma="10krát`10" src="manual" selected="1">Cv-------------</AM>
+<AM lemma="10krát`10" src="manual">Cv-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
+<LM type="New Form">
+<text>desetkrát</text>
 </LM>
 </comment>
 </m>
@@ -14676,11 +14676,17 @@
 <form>50krát</form>
 <tag>
 <AM lemma="50krát" src="auto">X@-------------</AM>
-<AM lemma="50krát`50" src="manual" selected="1">Cv-------------</AM>
+<AM lemma="50krát`50" src="manual">Cv-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
+<LM type="New Form">
+<text>pedesátkrátkrát</text>
+</LM>
+<LM type="New Form">
+<text>pedesátkrát</text>
+</LM>
+<LM type="New Form">
+<text>padesátkrát</text>
 </LM>
 </comment>
 </m>
@@ -16906,12 +16912,10 @@
 <LM>w#w-wsj1870-001-p1s58W37</LM>
 </w.rf>
 <form>Massachussetts</form>
-<tag lemma="Massachussetts" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Massachusetts</text>
-</LM>
-</comment>
+<tag>
+<AM lemma="Massachussetts" src="auto">X@-------------</AM>
+<AM lemma="Massachussetts_;G_,h_^(^GC**Massachusetts)" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1870-001-p1s58W38-Ta">
 <src.rf>tagger-a</src.rf>
@@ -27382,11 +27386,14 @@
 <form>2mílový</form>
 <tag>
 <AM lemma="2mílový" src="auto">X@-------------</AM>
-<AM lemma="2mílový" src="manual" selected="1">AAIS4----1A----</AM>
+<AM lemma="2mílový" src="manual">AAIS4----1A----</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>2</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 2 mílový</text>
 </LM>
 </comment>
 </m>
@@ -31080,8 +31087,11 @@
 <AM lemma="85letý" src="auto">AANP5----1A----</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>85</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 85 letá</text>
 </LM>
 </comment>
 </m>

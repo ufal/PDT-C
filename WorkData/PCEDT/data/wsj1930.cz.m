@@ -1486,7 +1486,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>nedává smysl, pravděpodobně slovo navíc</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>
@@ -6332,12 +6332,9 @@
 <AM lemma="džin" src="auto">NNIS1-----A----</AM>
 <AM lemma="džin" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="džin" src="auto">NNMS1-----A----</AM>
+<AM lemma="džin-2" src="manual">NNIS4-----A----</AM>
+<AM lemma="džin-2_,s_^(^DD**gin)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>gin</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1930-001-p1s29W6-Ta">
 <src.rf>tagger-a</src.rf>

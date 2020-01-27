@@ -3114,11 +3114,14 @@
 <form>1palcových</form>
 <tag>
 <AM lemma="1palcových" src="auto">X@-------------</AM>
-<AM lemma="1palcový" src="manual" selected="1">AAIP2----1A----</AM>
+<AM lemma="1palcový" src="manual">AAIP2----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 1 palcový</text>
+</LM>
+<LM type="New Form">
+<text>1</text>
 </LM>
 </comment>
 </m>
@@ -3798,11 +3801,14 @@
 <form>120megabytovým</form>
 <tag>
 <AM lemma="120megabytovým" src="auto">X@-------------</AM>
-<AM lemma="120megabytový" src="manual" selected="1">AAIS7----1A----</AM>
+<AM lemma="120megabytový" src="manual">AAIS7----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 120 megabytovým</text>
+</LM>
+<LM type="New Form">
+<text>120</text>
 </LM>
 </comment>
 </m>

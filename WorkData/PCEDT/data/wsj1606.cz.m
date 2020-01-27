@@ -6391,6 +6391,11 @@
 </w.rf>
 <form>3</form>
 <tag lemma="3" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="Other">
+<text>1v2: >3.5</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1606-001-p1s20W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6399,6 +6404,11 @@
 </w.rf>
 <form>,</form>
 <tag lemma="," src="auto" recommended="1">Z:-------------</tag>
+<comment>
+<LM type="Other">
+<text>1v2: &lt;3.5</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1606-001-p1s20W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6408,11 +6418,11 @@
 <form>5palcové</form>
 <tag>
 <AM lemma="5palcové" src="auto">X@-------------</AM>
-<AM lemma="5palcový" src="manual" selected="1">AAFP4----1A----</AM>
+<AM lemma="5palcový" src="manual">AAFP4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
+<LM type="New Form">
+<text>palcové</text>
 </LM>
 </comment>
 </m>

@@ -1102,16 +1102,11 @@
 <AM lemma="bezpečnost_^(*3ý)" src="auto">NNFP1-----A----</AM>
 <AM lemma="bezpečnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="bezpečnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
-<AM lemma="bezpečnost_^(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="bezpečnost_^(*3ý)" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 <AM lemma="bezpečnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
 <AM lemma="bezpečnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="bezpečnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>bezpečnost</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0103-001-p1s2W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1157,6 +1152,11 @@
 </w.rf>
 <form>ochranu</form>
 <tag lemma="ochrana" src="auto" recommended="1">NNFS4-----A----</tag>
+<comment>
+<LM type="New Form">
+<text>ochrany</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0103-001-p1s2W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2106,11 +2106,6 @@
 <AM lemma="pracující-3" src="auto">NNFP2-----A----</AM>
 <AM lemma="pracující-3" src="auto">NNFP6-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>za "pracujících" by měla být čárka</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0103-001-p1s4W31-Ta">
 <src.rf>tagger-a</src.rf>

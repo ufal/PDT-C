@@ -4740,7 +4740,7 @@
 <text>z</text>
 </LM>
 <LM type="Other">
-<text>nutno rozdělit</text>
+<text>2v1: z nás</text>
 </LM>
 </comment>
 </m>

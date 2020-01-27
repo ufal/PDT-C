@@ -158,11 +158,6 @@
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)">Db-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>oddělit slova "co musíte dělat" čárkami z obou stran</text>
-</LM>
-</comment>
 </m>
 <m id="jh_11-SCzechM-p1076-s1-w12">
 <w.rf>

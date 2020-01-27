@@ -8750,11 +8750,14 @@
 <form>30akciový</form>
 <tag>
 <AM lemma="30akciový" src="auto">X@-------------</AM>
-<AM lemma="30akciový" src="manual" selected="1">AAIS1----1A----</AM>
+<AM lemma="30akciový" src="manual">AAIS1----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 30 akciový</text>
+</LM>
+<LM type="New Form">
+<text>30</text>
 </LM>
 </comment>
 </m>
@@ -11773,11 +11776,6 @@
 <AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>chybí zbytek věty</text>
-</LM>
-</comment>
 </m>
 </s>
 <s id="m-wsj1723-001-p1s40">

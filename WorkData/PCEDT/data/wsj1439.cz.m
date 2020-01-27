@@ -2961,6 +2961,11 @@
 <AM lemma="srovnání_^(*3at)" src="auto">NNNS5-----A----</AM>
 <AM lemma="srovnání_^(*3at)" src="auto" recommended="1">NNNS6-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: srovnání s</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1439-001-p1s8W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2974,11 +2979,6 @@
 <AM lemma="loňský" src="auto">AAMP7----1A----</AM>
 <AM lemma="loňský" src="auto">AANP7----1A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>chybí zde předložka "s"</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1439-001-p1s8W33-Ta">
 <src.rf>tagger-a</src.rf>

@@ -65,7 +65,7 @@
 <text>Inc</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace - rozdělit, zmizely mezery</text>
+<text>3v1: Inc . počítá</text>
 </LM>
 </comment>
 </m>
@@ -536,7 +536,7 @@
 <text>R</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace - rozdělit</text>
+<text>3v1: R . Simmons</text>
 </LM>
 </comment>
 </m>
@@ -932,7 +932,7 @@
 <text>62</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace - rozdělit</text>
+<text>2v1: 62 centů</text>
 </LM>
 </comment>
 </m>
@@ -3560,7 +3560,10 @@
 <text>247</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace - rozdělit</text>
+<text>2v1: 247.3 mil</text>
+</LM>
+<LM type="New Form">
+<text>247.3</text>
 </LM>
 </comment>
 </m>
@@ -3654,7 +3657,7 @@
 <text>30</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace - rozdělit</text>
+<text>3v1: 30 . září</text>
 </LM>
 </comment>
 </m>
@@ -5792,7 +5795,7 @@
 <text>W</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace - rozdělit</text>
+<text>3v1: W . Singera</text>
 </LM>
 </comment>
 </m>

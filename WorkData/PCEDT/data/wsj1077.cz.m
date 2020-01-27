@@ -623,11 +623,14 @@
 <form>700milionového</form>
 <tag>
 <AM lemma="700milionového" src="auto">X@-------------</AM>
-<AM lemma="700milionový_,s_^(^DD**700miliónový)" src="manual" selected="1">AAIS2----1A----</AM>
+<AM lemma="700milionový_,s_^(^DD**700miliónový)" src="manual">AAIS2----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 700 milionového</text>
+</LM>
+<LM type="New Form">
+<text>700</text>
 </LM>
 </comment>
 </m>

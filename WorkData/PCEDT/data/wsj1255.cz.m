@@ -1232,11 +1232,14 @@
 <form>68uncových</form>
 <tag>
 <AM lemma="68uncových" src="auto">X@-------------</AM>
-<AM lemma="68uncový" src="manual" selected="1">AAFP6----1A----</AM>
+<AM lemma="68uncový" src="manual">AAFP6----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 68 uncových</text>
+</LM>
+<LM type="New Form">
+<text>68</text>
 </LM>
 </comment>
 </m>

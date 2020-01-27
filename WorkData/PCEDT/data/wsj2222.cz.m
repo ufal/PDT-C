@@ -6823,11 +6823,14 @@
 <form>250bodovém</form>
 <tag>
 <AM lemma="250bodovém" src="auto">X@-------------</AM>
-<AM lemma="250bodový" src="manual" selected="1">AAIS6----1A----</AM>
+<AM lemma="250bodový" src="manual">AAIS6----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 250 bodovém</text>
+</LM>
+<LM type="New Form">
+<text>250</text>
 </LM>
 </comment>
 </m>

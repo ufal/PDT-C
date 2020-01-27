@@ -4724,11 +4724,14 @@
 <form>12slabičný</form>
 <tag>
 <AM lemma="12slabičný" src="auto">X@-------------</AM>
-<AM lemma="12slabičný" src="manual" selected="1">AAIS4----1A----</AM>
+<AM lemma="12slabičný" src="manual">AAIS4----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 12 slabičný</text>
+</LM>
+<LM type="New Form">
+<text>12</text>
 </LM>
 </comment>
 </m>
@@ -6262,7 +6265,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 25 letou</text>
+</LM>
+<LM type="New Form">
+<text>25</text>
 </LM>
 </comment>
 </m>

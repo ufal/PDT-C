@@ -118,11 +118,14 @@
 <form>190bodovém</form>
 <tag>
 <AM lemma="190bodovém" src="auto">X@-------------</AM>
-<AM lemma="190bodovém" src="manual" selected="1">AAIS6----1A----</AM>
+<AM lemma="190bodovém" src="manual">AAIS6----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 190 bodovém</text>
+</LM>
+<LM type="New Form">
+<text>190</text>
 </LM>
 </comment>
 </m>
@@ -10186,12 +10189,7 @@
 <LM>w#w-wsj2201-001-p1s42W4</LM>
 </w.rf>
 <form>zareagovaly</form>
-<tag lemma="zareagovat" src="auto" recommended="1">VpTP---XR-AAP--</tag>
-<comment>
-<LM type="New Form">
-<text>zareagovali</text>
-</LM>
-</comment>
+<tag lemma="zareagovat" src="auto" recommended="1" selected="1">VpTP---XR-AAP--</tag>
 </m>
 <m id="m-wsj2201-001-p1s42W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10200,8 +10198,8 @@
 </w.rf>
 <form>makléřské</form>
 <tag>
-<AM lemma="makléřský" src="auto" recommended="1">AAFP1----1A----</AM>
-<AM lemma="makléřský" src="auto" selected="1">AAFP4----1A----</AM>
+<AM lemma="makléřský" src="auto" recommended="1" selected="1">AAFP1----1A----</AM>
+<AM lemma="makléřský" src="auto">AAFP4----1A----</AM>
 <AM lemma="makléřský" src="auto">AAFP5----1A----</AM>
 <AM lemma="makléřský" src="auto">AAFS2----1A----</AM>
 <AM lemma="makléřský" src="auto">AAFS3----1A----</AM>
@@ -10222,8 +10220,8 @@
 </w.rf>
 <form>firmy</form>
 <tag>
-<AM lemma="firma" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="firma" src="auto" selected="1">NNFP4-----A----</AM>
+<AM lemma="firma" src="auto" recommended="1" selected="1">NNFP1-----A----</AM>
+<AM lemma="firma" src="auto">NNFP4-----A----</AM>
 <AM lemma="firma" src="auto">NNFP5-----A----</AM>
 <AM lemma="firma" src="auto">NNFS2-----A----</AM>
 </tag>
@@ -12563,11 +12561,14 @@
 <form>142stránková</form>
 <tag>
 <AM lemma="142stránková" src="auto">X@-------------</AM>
-<AM lemma="142stránková" src="manual" selected="1">AAFS1----1A----</AM>
+<AM lemma="142stránková" src="manual">AAFS1----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 142 stránková</text>
+</LM>
+<LM type="New Form">
+<text>142</text>
 </LM>
 </comment>
 </m>

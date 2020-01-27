@@ -6668,11 +6668,11 @@
 <form>3miliardové</form>
 <tag>
 <AM lemma="3miliardové" src="auto">X@-------------</AM>
-<AM lemma="3miliardový" src="manual" selected="1">AAFP1----1A----</AM>
+<AM lemma="3miliardový" src="manual">AAFP1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
+<LM type="New Form">
+<text>třímiliardové</text>
 </LM>
 </comment>
 </m>

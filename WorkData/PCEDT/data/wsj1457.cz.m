@@ -721,7 +721,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 20 procentní</text>
+</LM>
+<LM type="New Form">
+<text>20</text>
 </LM>
 </comment>
 </m>
@@ -7169,7 +7172,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 62 letý</text>
+</LM>
+<LM type="New Form">
+<text>62</text>
 </LM>
 </comment>
 </m>
@@ -8791,7 +8797,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 45 letý</text>
+</LM>
+<LM type="New Form">
+<text>45</text>
 </LM>
 </comment>
 </m>

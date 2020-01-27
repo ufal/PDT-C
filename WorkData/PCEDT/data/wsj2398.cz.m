@@ -6933,12 +6933,7 @@
 <LM>w#w-wsj2398-001-p1s20W39</LM>
 </w.rf>
 <form>Států</form>
-<tag lemma="stát-1_^(státní_útvar)" src="auto" recommended="1">NNIP2-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>států</text>
-</LM>
-</comment>
+<tag lemma="stát-1_^(státní_útvar)" src="auto" recommended="1" selected="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj2398-001-p1s20W40-Ta">
 <src.rf>tagger-a</src.rf>

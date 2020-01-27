@@ -29,11 +29,14 @@
 <form>L.</form>
 <tag>
 <AM lemma="L." src="auto">X@-------------</AM>
-<AM lemma="L.-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="L.-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace - tečka</text>
+<text>2v1: L .</text>
+</LM>
+<LM type="New Form">
+<text>L</text>
 </LM>
 </comment>
 </m>
@@ -491,11 +494,14 @@
 <form>L.</form>
 <tag>
 <AM lemma="L." src="auto">X@-------------</AM>
-<AM lemma="L.-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="L.-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace - tečka</text>
+<text>2v1: L .</text>
+</LM>
+<LM type="New Form">
+<text>L</text>
 </LM>
 </comment>
 </m>
@@ -991,11 +997,14 @@
 <form>L.</form>
 <tag>
 <AM lemma="L." src="auto">X@-------------</AM>
-<AM lemma="L.-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="L.-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: L . </text>
+</LM>
+<LM type="New Form">
+<text>L</text>
 </LM>
 </comment>
 </m>
@@ -1158,7 +1167,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace - má být S. I. </text>
+<text>4v1: S . I .</text>
+</LM>
+<LM type="New Form">
+<text>S</text>
 </LM>
 </comment>
 </m>
@@ -1594,14 +1606,11 @@
 <form>L.</form>
 <tag lemma="L." src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
-</LM>
 <LM type="New Form">
 <text>L</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace + umazána tečka</text>
+<text>2v1: L .</text>
 </LM>
 </comment>
 </m>
@@ -2387,11 +2396,14 @@
 <form>L.</form>
 <tag>
 <AM lemma="L." src="auto">X@-------------</AM>
-<AM lemma="L.-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="L.-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: L . </text>
+</LM>
+<LM type="New Form">
+<text>L</text>
 </LM>
 </comment>
 </m>
@@ -3640,11 +3652,14 @@
 <form>L.</form>
 <tag>
 <AM lemma="L." src="auto">X@-------------</AM>
-<AM lemma="L.-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="L.-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: L . </text>
+</LM>
+<LM type="New Form">
+<text>L</text>
 </LM>
 </comment>
 </m>
@@ -6456,11 +6471,14 @@
 <form>L.</form>
 <tag>
 <AM lemma="L." src="auto">X@-------------</AM>
-<AM lemma="L.-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="L.-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>L</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: L . </text>
 </LM>
 </comment>
 </m>

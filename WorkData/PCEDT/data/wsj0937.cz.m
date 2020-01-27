@@ -4834,7 +4834,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>toto sem logicky nepatří</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>

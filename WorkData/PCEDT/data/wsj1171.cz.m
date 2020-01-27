@@ -2360,7 +2360,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 47 letý</text>
+</LM>
+<LM type="New Form">
+<text>47</text>
 </LM>
 </comment>
 </m>
@@ -2583,7 +2586,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 33 letým</text>
+</LM>
+<LM type="New Form">
+<text>33</text>
 </LM>
 </comment>
 </m>
@@ -4028,11 +4034,14 @@
 <form>80bodového</form>
 <tag>
 <AM lemma="80bodového" src="auto">X@-------------</AM>
-<AM lemma="80bodový" src="manual" selected="1">AAIS2----1A----</AM>
+<AM lemma="80bodový" src="manual">AAIS2----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 80 bodového</text>
+</LM>
+<LM type="New Form">
+<text>80</text>
 </LM>
 </comment>
 </m>

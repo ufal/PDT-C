@@ -6982,11 +6982,14 @@
 <form>O'Connell</form>
 <tag>
 <AM lemma="O'Connell" src="auto">X@-------------</AM>
-<AM lemma="O'Connell_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="O'Connell_;S" src="manual">NNMS1-----A----</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>O</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: O ' Connell</text>
 </LM>
 </comment>
 </m>
@@ -8395,12 +8398,7 @@
 <LM>w#w-wsj0335-001-p1s23W2</LM>
 </w.rf>
 <form>Gonzales</form>
-<tag lemma="Gonzales_;S_;Y" src="auto" recommended="1">NNMS1-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>Gonzalez</text>
-</LM>
-</comment>
+<tag lemma="Gonzales_;S_;Y" src="auto" recommended="1" selected="1">NNMS1-----A----</tag>
 </m>
 <m id="m-wsj0335-001-p1s23W3-Ta">
 <src.rf>tagger-a</src.rf>

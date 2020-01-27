@@ -2704,14 +2704,17 @@
 <AM lemma="40letý" src="auto">AAIS7----1A----</AM>
 <AM lemma="40letý" src="auto" recommended="1">AAMP3----1A----</AM>
 <AM lemma="40letý" src="auto">AAMS6----1A---7</AM>
-<AM lemma="40letý" src="auto" selected="1">AAMS7----1A----</AM>
+<AM lemma="40letý" src="auto">AAMS7----1A----</AM>
 <AM lemma="40letý" src="auto">AANP3----1A----</AM>
 <AM lemma="40letý" src="auto">AANS6----1A---7</AM>
 <AM lemma="40letý" src="auto">AANS7----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 40 letým</text>
+</LM>
+<LM type="New Form">
+<text>40</text>
 </LM>
 </comment>
 </m>
@@ -4481,8 +4484,11 @@
 <AM lemma="44letý" src="auto">AANS5----1A---6</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>44</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 40 letý</text>
 </LM>
 </comment>
 </m>
@@ -12612,11 +12618,14 @@
 <form>24hodinového</form>
 <tag>
 <AM lemma="24hodinového" src="auto">X@-------------</AM>
-<AM lemma="24hodinovéhý" src="manual" selected="1">AAIS2----1A----</AM>
+<AM lemma="24hodinovéhý" src="manual">AAIS2----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 24 hodinového</text>
+</LM>
+<LM type="New Form">
+<text>24</text>
 </LM>
 </comment>
 </m>

@@ -1502,11 +1502,6 @@
 <AM lemma="na-1" src="auto">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nedokončená věta</text>
-</LM>
-</comment>
 </m>
 </s>
 <s id="m-wsj0464-001-p1s6">

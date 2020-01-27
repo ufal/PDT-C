@@ -118,6 +118,9 @@
 <LM type="New Form">
 <text>tzv</text>
 </LM>
+<LM type="Other">
+<text>2v1: tzv .</text>
+</LM>
 </comment>
 </m>
 <m id="m-wsj1760-001-p1s0W8-Ta">

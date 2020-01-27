@@ -5887,11 +5887,11 @@
 <form>10násobné</form>
 <tag>
 <AM lemma="10násobné" src="auto">X@-------------</AM>
-<AM lemma="10násobný" src="manual" selected="1">AANS4----1A----</AM>
+<AM lemma="10násobný" src="manual">AANS4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
+<LM type="New Form">
+<text>desetinásobné</text>
 </LM>
 </comment>
 </m>

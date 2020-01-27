@@ -1098,7 +1098,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 52 letý</text>
+</LM>
+<LM type="New Form">
+<text>52</text>
 </LM>
 </comment>
 </m>
@@ -2699,7 +2702,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 43 letý</text>
+</LM>
+<LM type="New Form">
+<text>43</text>
 </LM>
 </comment>
 </m>
@@ -8333,7 +8339,7 @@
 <tag lemma="být" src="auto" recommended="1">Vc----------I--</tag>
 <comment>
 <LM type="Other">
-<text>nadbytečný uzel, zřejmě překlep</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>
@@ -10693,7 +10699,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 30 letý</text>
+</LM>
+<LM type="New Form">
+<text>30</text>
 </LM>
 </comment>
 </m>

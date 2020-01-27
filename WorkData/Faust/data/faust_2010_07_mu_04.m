@@ -2768,6 +2768,9 @@
 <LM type="New Form">
 <text>krátokodobých</text>
 </LM>
+<LM type="New Form">
+<text>krátkodobých</text>
+</LM>
 </comment>
 </m>
 <m id="mu_04-SCzechM-p0351-s1-w5">
@@ -3957,6 +3960,9 @@
 <comment>
 <LM type="New Form">
 <text>pravědopodobně</text>
+</LM>
+<LM type="New Form">
+<text>pravděpodobně</text>
 </LM>
 </comment>
 </m>

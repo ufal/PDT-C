@@ -12668,11 +12668,14 @@
 <form>O'Neill</form>
 <tag>
 <AM lemma="O'Neill" src="auto">X@-------------</AM>
-<AM lemma="O'Neill_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="O'Neill_;S" src="manual">NNMS1-----A----</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>O</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: O ' Neill</text>
 </LM>
 </comment>
 </m>

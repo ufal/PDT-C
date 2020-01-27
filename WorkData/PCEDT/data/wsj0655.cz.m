@@ -920,7 +920,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 19 měsíční</text>
 </LM>
 </comment>
 </m>

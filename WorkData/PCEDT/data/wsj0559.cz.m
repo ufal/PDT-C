@@ -2285,12 +2285,10 @@
 <LM>w#w-wsj0559-001-p1s8W11</LM>
 </w.rf>
 <form>pářecím</form>
-<tag lemma="pářecím" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>pářícím</text>
-</LM>
-</comment>
+<tag>
+<AM lemma="pářecím" src="auto">X@-------------</AM>
+<AM lemma="pářecí" src="manual" selected="1">AAIS7----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj0559-001-p1s8W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4123,7 +4121,7 @@
 <tag lemma="vláda" src="auto" recommended="1">NNFS1-----A----</tag>
 <comment>
 <LM type="Other">
-<text>toto slovo je zde navíc</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>

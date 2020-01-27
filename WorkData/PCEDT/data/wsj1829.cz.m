@@ -7167,13 +7167,9 @@
 <form>narozdíl</form>
 <tag>
 <AM lemma="narozdíl_,x" src="auto" recommended="1">RF-------------</AM>
-<AM lemma="narozdíl" src="manual" selected="1">RF-------------</AM>
+<AM lemma="narozdíl" src="manual">RF-------------</AM>
+<AM lemma="narozdíl_,h" src="manual" selected="1">RF-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>mělo by být psáno zvlášť</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1829-001-p1s22W11-Ta">
 <src.rf>tagger-a</src.rf>

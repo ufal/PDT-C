@@ -943,7 +943,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 26 letém</text>
+</LM>
+<LM type="New Form">
+<text>26</text>
 </LM>
 </comment>
 </m>
@@ -3426,11 +3429,14 @@
 <form>350místném</form>
 <tag>
 <AM lemma="350místném" src="auto">X@-------------</AM>
-<AM lemma="350místný" src="manual" selected="1">AAIS6----1A----</AM>
+<AM lemma="350místný" src="manual">AAIS6----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 350 místném</text>
+</LM>
+<LM type="New Form">
+<text>350</text>
 </LM>
 </comment>
 </m>
@@ -8958,11 +8964,14 @@
 <form>10denní</form>
 <tag>
 <AM lemma="10denní" src="auto">X@-------------</AM>
-<AM lemma="10denní" src="manual" selected="1">AANS4----1A----</AM>
+<AM lemma="10denní" src="manual">AANS4----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 10 denní</text>
+</LM>
+<LM type="New Form">
+<text>10</text>
 </LM>
 </comment>
 </m>

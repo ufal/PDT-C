@@ -987,7 +987,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 29 letá</text>
+</LM>
+<LM type="New Form">
+<text>29</text>
 </LM>
 </comment>
 </m>
@@ -20002,8 +20005,14 @@
 <AM lemma="12letý" src="auto" recommended="1">AAFS7----1A----</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>12l</text>
+</LM>
+<LM type="New Form">
+<text>12</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 12 letou</text>
 </LM>
 </comment>
 </m>

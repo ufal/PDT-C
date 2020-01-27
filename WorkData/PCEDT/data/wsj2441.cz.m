@@ -1414,7 +1414,7 @@
 <text>1</text>
 </LM>
 <LM type="Other">
-<text>rozdělit slova "1.září" na tři segmenty</text>
+<text>3v1: 1 . září</text>
 </LM>
 </comment>
 </m>
@@ -1440,7 +1440,7 @@
 <text>24</text>
 </LM>
 <LM type="Other">
-<text>rozdělit "24.září" na tři segmenty</text>
+<text>3v1: 24 . září</text>
 </LM>
 </comment>
 </m>

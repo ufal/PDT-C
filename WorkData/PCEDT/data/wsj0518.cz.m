@@ -10245,11 +10245,6 @@
 <AM lemma="nákladový" src="auto">AANS4----1A---6</AM>
 <AM lemma="nákladový" src="auto">AANS5----1A---6</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>správnější by bylo "nízkonákladový"</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0518-001-p1s29W13-Ta">
 <src.rf>tagger-a</src.rf>

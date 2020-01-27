@@ -3212,11 +3212,14 @@
 <form>D.C</form>
 <tag>
 <AM lemma="D.C" src="auto">X@-------------</AM>
-<AM lemma="D.C-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="D.C-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: D . C</text>
+</LM>
+<LM type="New Form">
+<text>D</text>
 </LM>
 </comment>
 </m>

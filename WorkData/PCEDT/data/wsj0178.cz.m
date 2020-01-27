@@ -1149,11 +1149,11 @@
 <AM lemma="R.-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
-</LM>
 <LM type="New Form">
 <text>R</text>
+</LM>
+<LM type="Other">
+<text>2v1. R .</text>
 </LM>
 </comment>
 </m>
@@ -4806,8 +4806,8 @@
 <AM lemma="nový" src="auto">AANS5----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>nemělo by být „nově"?</text>
+<LM type="New Form">
+<text>nově</text>
 </LM>
 </comment>
 </m>

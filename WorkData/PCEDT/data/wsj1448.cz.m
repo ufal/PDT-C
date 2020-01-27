@@ -90,7 +90,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>"se" je ve věte jednou navíc</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>
@@ -4864,11 +4864,11 @@
 <form>2miliardového</form>
 <tag>
 <AM lemma="2miliardového" src="auto">X@-------------</AM>
-<AM lemma="2miliardový" src="manual" selected="1">AAIS2----1A----</AM>
+<AM lemma="2miliardový" src="manual">AAIS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
+<LM type="New Form">
+<text>dvoumiliardového</text>
 </LM>
 </comment>
 </m>

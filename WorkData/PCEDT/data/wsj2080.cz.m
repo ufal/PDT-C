@@ -162,11 +162,14 @@
 <form>91denními</form>
 <tag>
 <AM lemma="91denními" src="auto">X@-------------</AM>
-<AM lemma="91denní" src="manual" selected="1">AAIP7----1A----</AM>
+<AM lemma="91denní" src="manual">AAIP7----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 91 denními</text>
+</LM>
+<LM type="New Form">
+<text>91</text>
 </LM>
 </comment>
 </m>
@@ -786,11 +789,14 @@
 <form>182denními</form>
 <tag>
 <AM lemma="182denními" src="auto">X@-------------</AM>
-<AM lemma="182denní" src="manual" selected="1">AAIP7----1A----</AM>
+<AM lemma="182denní" src="manual">AAIP7----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 182 denními</text>
+</LM>
+<LM type="New Form">
+<text>182</text>
 </LM>
 </comment>
 </m>

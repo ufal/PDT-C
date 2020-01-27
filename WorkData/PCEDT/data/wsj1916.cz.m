@@ -1122,6 +1122,11 @@
 </w.rf>
 <form>2</form>
 <tag lemma="2" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="Other">
+<text>1v2: >2.5</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1916-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1130,6 +1135,11 @@
 </w.rf>
 <form>,</form>
 <tag lemma="," src="auto" recommended="1">Z:-------------</tag>
+<comment>
+<LM type="Other">
+<text>2v1: &lt;2.5</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1916-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1139,11 +1149,11 @@
 <form>5mílového</form>
 <tag>
 <AM lemma="5mílového" src="auto">X@-------------</AM>
-<AM lemma="5mílový" src="manual" selected="1">AAIS2----1A----</AM>
+<AM lemma="5mílový" src="manual">AAIS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
+<LM type="New Form">
+<text>mílového</text>
 </LM>
 </comment>
 </m>
@@ -2980,6 +2990,11 @@
 </w.rf>
 <form>2</form>
 <tag lemma="2" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="Other">
+<text>1v2: 2.5</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1916-001-p1s8W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2988,6 +3003,11 @@
 </w.rf>
 <form>,</form>
 <tag lemma="," src="auto" recommended="1">Z:-------------</tag>
+<comment>
+<LM type="Other">
+<text>1v2: &lt;2.5</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1916-001-p1s8W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2997,11 +3017,11 @@
 <form>5mílového</form>
 <tag>
 <AM lemma="5mílového" src="auto">X@-------------</AM>
-<AM lemma="5mílový" src="manual" selected="1">AAIS2----1A----</AM>
+<AM lemma="5mílový" src="manual">AAIS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
+<LM type="New Form">
+<text>mílového</text>
 </LM>
 </comment>
 </m>
@@ -7483,11 +7503,14 @@
 <form>55milionového</form>
 <tag>
 <AM lemma="55milionového" src="auto">X@-------------</AM>
-<AM lemma="55milionový_,s_^(^DD**55miliónový)" src="manual" selected="1">AAIS2----1A----</AM>
+<AM lemma="55milionový_,s_^(^DD**55miliónový)" src="manual">AAIS2----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 55 milionového</text>
+</LM>
+<LM type="New Form">
+<text>55</text>
 </LM>
 </comment>
 </m>

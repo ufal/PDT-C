@@ -2572,11 +2572,14 @@
 <form>163členný</form>
 <tag>
 <AM lemma="163členný" src="auto">X@-------------</AM>
-<AM lemma="163členný" src="manual" selected="1">AAIS1----1A----</AM>
+<AM lemma="163členný" src="manual">AAIS1----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 163 členný</text>
+</LM>
+<LM type="New Form">
+<text>163</text>
 </LM>
 </comment>
 </m>
@@ -3043,7 +3046,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 26 členné</text>
+</LM>
+<LM type="New Form">
+<text>26</text>
 </LM>
 </comment>
 </m>

@@ -2558,11 +2558,6 @@
 <AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>není konec věty</text>
-</LM>
-</comment>
 </m>
 </s>
 <s id="m-wsj2264-001-p1s9">

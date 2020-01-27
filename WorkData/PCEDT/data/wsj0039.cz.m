@@ -8332,11 +8332,11 @@
 <form>Louiseová</form>
 <tag>
 <AM lemma="Louiseová" src="auto">X@-------------</AM>
-<AM lemma="Louiseová_;S_,i" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Louiseová_;S_,i" src="manual">NNFS1-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatný překlad: mělo by být "Marie-Louise"</text>
+<LM type="New Form">
+<text>Louise</text>
 </LM>
 </comment>
 </m>
@@ -9279,11 +9279,11 @@
 <form>Louiseová</form>
 <tag>
 <AM lemma="Louiseová" src="auto">X@-------------</AM>
-<AM lemma="Louiseová_;S_,i" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Louiseová_;S_,i" src="manual">NNFS1-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatný překlad: mělo by být "Marie Louise"</text>
+<LM type="New Form">
+<text>Louise</text>
 </LM>
 </comment>
 </m>

@@ -961,6 +961,11 @@
 </w.rf>
 <form>9</form>
 <tag lemma="9" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="Other">
+<text>1v2: >9.9</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1995-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -969,6 +974,11 @@
 </w.rf>
 <form>,</form>
 <tag lemma="," src="auto" recommended="1">Z:-------------</tag>
+<comment>
+<LM type="Other">
+<text>1v2: &lt;9.9</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1995-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -989,8 +999,8 @@
 <AM lemma="9procentní" src="auto">AANS7----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
+<LM type="New Form">
+<text>procentním</text>
 </LM>
 </comment>
 </m>

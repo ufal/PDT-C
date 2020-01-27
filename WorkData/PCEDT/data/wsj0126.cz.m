@@ -851,11 +851,6 @@
 <AM lemma="jak-3" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="jak-99_:B_;S" src="auto">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>špatné číslování lemmat: dvakrát jak-2 (J, a J^)</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0126-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>

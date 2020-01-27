@@ -2800,6 +2800,11 @@
 </w.rf>
 <form>8</form>
 <tag lemma="8" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="Other">
+<text>1v2: >8.5</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1490-001-p1s6W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2808,6 +2813,11 @@
 </w.rf>
 <form>,</form>
 <tag lemma="," src="auto" recommended="1">Z:-------------</tag>
+<comment>
+<LM type="Other">
+<text>1v2: &lt;8.5</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1490-001-p1s6W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2817,11 +2827,11 @@
 <form>5krát</form>
 <tag>
 <AM lemma="5krát" src="auto">X@-------------</AM>
-<AM lemma="5krát`5" src="manual" selected="1">Cv-------------</AM>
+<AM lemma="5krát`5" src="manual">Cv-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
+<LM type="New Form">
+<text>krát</text>
 </LM>
 </comment>
 </m>
@@ -2845,11 +2855,11 @@
 <form>10krát</form>
 <tag>
 <AM lemma="10krát" src="auto">X@-------------</AM>
-<AM lemma="10krát`10" src="manual" selected="1">Cv-------------</AM>
+<AM lemma="10krát`10" src="manual">Cv-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
+<LM type="New Form">
+<text>desetkrát</text>
 </LM>
 </comment>
 </m>
@@ -3462,11 +3472,14 @@
 <form>13násobek</form>
 <tag>
 <AM lemma="13násobek" src="auto">X@-------------</AM>
-<AM lemma="13násobek" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="13násobek" src="manual">NNIS1-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 13 násobek</text>
+</LM>
+<LM type="New Form">
+<text>13</text>
 </LM>
 </comment>
 </m>
@@ -5218,11 +5231,6 @@
 <AM lemma="komanditní_:B_^(jen_komanditní_společnost)" src="auto">AAXXX----1A---8</AM>
 <AM lemma="kůň" src="auto">NNMXX-----A---8</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>chybí zbytek věty</text>
-</LM>
-</comment>
 </m>
 </s>
 <s id="m-wsj1490-001-p1s13">

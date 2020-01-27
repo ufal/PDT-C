@@ -555,7 +555,7 @@
 <tag lemma="," src="auto" recommended="1">Z:-------------</tag>
 <comment>
 <LM type="Other">
-<text>odstranit čárku</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>

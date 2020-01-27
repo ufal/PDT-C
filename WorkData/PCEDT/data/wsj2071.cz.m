@@ -984,7 +984,7 @@
 <text>tzv</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace - tečka má být ve zvláštním uzlu</text>
+<text>2v1: tzv .</text>
 </LM>
 </comment>
 </m>

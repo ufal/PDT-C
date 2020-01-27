@@ -786,12 +786,7 @@
 <LM>w#w-wsj1419-001-p1s3W1</LM>
 </w.rf>
 <form>smlouva</form>
-<tag lemma="smlouva" src="auto" recommended="1">NNFS1-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>Smlouva</text>
-</LM>
-</comment>
+<tag lemma="smlouva" src="auto" recommended="1" selected="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj1419-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>

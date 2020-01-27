@@ -1823,11 +1823,14 @@
 <form>42denní</form>
 <tag>
 <AM lemma="42denní" src="auto">X@-------------</AM>
-<AM lemma="42denní" src="manual" selected="1">AAFS4----1A----</AM>
+<AM lemma="42denní" src="manual">AAFS4----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 42 denní</text>
+</LM>
+<LM type="New Form">
+<text>42</text>
 </LM>
 </comment>
 </m>

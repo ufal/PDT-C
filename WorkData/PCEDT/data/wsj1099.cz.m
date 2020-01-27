@@ -20583,11 +20583,6 @@
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS4-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>doplnit čárku před "a pokud"</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1099-001-p1s66W10-Ta">
 <src.rf>tagger-a</src.rf>

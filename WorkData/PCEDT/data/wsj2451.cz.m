@@ -1756,7 +1756,7 @@
 <text>tzv</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace, nutno rozdělit</text>
+<text>2v1: tzv .</text>
 </LM>
 </comment>
 </m>
@@ -8321,7 +8321,7 @@
 <text>J</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace, nutno rozdělit</text>
+<text>3v1: J . B</text>
 </LM>
 </comment>
 </m>
@@ -15849,12 +15849,10 @@
 <LM>w#w-wsj2451-001-p1s55W10</LM>
 </w.rf>
 <form>Massachussets</form>
-<tag lemma="Massachussets" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Massachusetts</text>
-</LM>
-</comment>
+<tag>
+<AM lemma="Massachussets" src="auto">X@-------------</AM>
+<AM lemma="Massachussets_;G_,h_^(^GC**Massachusetts)" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2451-001-p1s55W11-Ta">
 <src.rf>tagger-a</src.rf>

@@ -962,9 +962,9 @@
 </w.rf>
 <form>Science</form>
 <tag>
-<AM lemma="Science-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="Science-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="science-77" src="auto">F%-------------</AM>
-<AM lemma="Science_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Science_;R" src="manual">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0739-001-p1s2W25-Ta">

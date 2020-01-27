@@ -701,11 +701,14 @@
 <form>52týdenního</form>
 <tag>
 <AM lemma="52týdenního" src="auto">X@-------------</AM>
-<AM lemma="52týdenní" src="manual" selected="1">AAIS2----1A----</AM>
+<AM lemma="52týdenní" src="manual">AAIS2----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 52 týdenního</text>
+</LM>
+<LM type="New Form">
+<text>52</text>
 </LM>
 </comment>
 </m>
@@ -6846,11 +6849,14 @@
 <form>22násobek</form>
 <tag>
 <AM lemma="22násobek" src="auto">X@-------------</AM>
-<AM lemma="22násobek" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="22násobek" src="manual">NNIS4-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 22 násobek</text>
+</LM>
+<LM type="New Form">
+<text>22</text>
 </LM>
 </comment>
 </m>
@@ -7406,11 +7412,14 @@
 <form>14násobek</form>
 <tag>
 <AM lemma="14násobek" src="auto">X@-------------</AM>
-<AM lemma="14násobek" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="14násobek" src="manual">NNIS4-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 14 násobek</text>
+</LM>
+<LM type="New Form">
+<text>14</text>
 </LM>
 </comment>
 </m>
@@ -8899,11 +8908,14 @@
 <form>12měsíční</form>
 <tag>
 <AM lemma="12měsíční" src="auto">X@-------------</AM>
-<AM lemma="12měsíční" src="manual" selected="1">AANS4----1A----</AM>
+<AM lemma="12měsíční" src="manual">AANS4----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 12 měsíční</text>
+</LM>
+<LM type="New Form">
+<text>12</text>
 </LM>
 </comment>
 </m>

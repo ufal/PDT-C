@@ -11011,7 +11011,7 @@
 <AM lemma="2letý" src="auto">AAIP4----1A---6</AM>
 <AM lemma="2letý" src="auto">AAIP5----1A---6</AM>
 <AM lemma="2letý" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="2letý" src="auto" selected="1">AAIS4----1A----</AM>
+<AM lemma="2letý" src="auto">AAIS4----1A----</AM>
 <AM lemma="2letý" src="auto">AAIS5----1A----</AM>
 <AM lemma="2letý" src="auto">AAMP1----1A---6</AM>
 <AM lemma="2letý" src="auto">AAMP4----1A---6</AM>
@@ -11027,7 +11027,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 2 letý</text>
+</LM>
+<LM type="New Form">
+<text>2</text>
 </LM>
 </comment>
 </m>

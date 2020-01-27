@@ -21369,11 +21369,14 @@
 <form>Campbell´s</form>
 <tag>
 <AM lemma="Campbell´s" src="auto">X@-------------</AM>
-<AM lemma="Campbell´s-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Campbell´s-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>Campbell</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Campbell ´ s</text>
 </LM>
 </comment>
 </m>

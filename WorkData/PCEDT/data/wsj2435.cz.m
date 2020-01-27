@@ -68,7 +68,7 @@
 <text>Co</text>
 </LM>
 <LM type="Other">
-<text>rozdělit uzly: Co, tečka, z</text>
+<text>3v1: Co . z</text>
 </LM>
 </comment>
 </m>

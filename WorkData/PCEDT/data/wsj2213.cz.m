@@ -1246,11 +1246,14 @@
 <form>25dolarová</form>
 <tag>
 <AM lemma="25dolarová" src="auto">X@-------------</AM>
-<AM lemma="25dolarový" src="manual" selected="1">AAFS1----1A----</AM>
+<AM lemma="25dolarový" src="manual">AAFS1----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 25 dolarová</text>
+</LM>
+<LM type="New Form">
+<text>25</text>
 </LM>
 </comment>
 </m>

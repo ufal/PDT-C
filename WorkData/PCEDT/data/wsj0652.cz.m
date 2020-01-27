@@ -381,11 +381,14 @@
 <form>12bodové</form>
 <tag>
 <AM lemma="12bodové" src="auto">X@-------------</AM>
-<AM lemma="12bodový" src="manual" selected="1">AAFS6----1A----</AM>
+<AM lemma="12bodový" src="manual">AAFS6----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 12 bodové</text>
+</LM>
+<LM type="New Form">
+<text>12</text>
 </LM>
 </comment>
 </m>

@@ -9108,7 +9108,8 @@
 <form>Tchai</form>
 <tag>
 <AM lemma="Tchai" src="auto">X@-------------</AM>
-<AM lemma="Tchai-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Tchai-77" src="manual">F%-------------</AM>
+<AM lemma="Tchai" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj1743-001-p1s33W7-Ta">
@@ -18161,6 +18162,11 @@
 </w.rf>
 <form>budou</form>
 <tag lemma="být" src="auto" recommended="1">VB-P---3F-AAI--</tag>
+<comment>
+<LM type="Other">
+<text>delete</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1743-001-p1s63W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -18169,11 +18175,6 @@
 </w.rf>
 <form>vzrostou</form>
 <tag lemma="vzrůst-1" src="auto" recommended="1">VB-P---3P-AAP--</tag>
-<comment>
-<LM type="Other">
-<text>nesmyslný uzel</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1743-001-p1s63W13-Ta">
 <src.rf>tagger-a</src.rf>

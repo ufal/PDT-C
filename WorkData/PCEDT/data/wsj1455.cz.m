@@ -668,7 +668,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 38 letém</text>
+</LM>
+<LM type="New Form">
+<text>38</text>
 </LM>
 </comment>
 </m>
@@ -4184,11 +4187,14 @@
 <form>20patrová</form>
 <tag>
 <AM lemma="20patrová" src="auto">X@-------------</AM>
-<AM lemma="20patrový" src="manual" selected="1">AAFS1----1A----</AM>
+<AM lemma="20patrový" src="manual">AAFS1----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 20 patrová</text>
+</LM>
+<LM type="New Form">
+<text>20</text>
 </LM>
 </comment>
 </m>
@@ -14867,7 +14873,7 @@
 <form>Muniakova</form>
 <tag>
 <AM lemma="Muniakova" src="auto">X@-------------</AM>
-<AM lemma="Muniakův	" src="manual">AUFS1M---------</AM>
+<AM lemma="Muniakův " src="manual">AUFS1M---------</AM>
 <AM lemma="Muniakův_;S_^(*2)" src="manual" selected="1">AUFS1M---------</AM>
 </tag>
 </m>

@@ -1015,12 +1015,10 @@
 <LM>w#w-wsj0318-001-p1s3W4</LM>
 </w.rf>
 <form>adenocard</form>
-<tag lemma="adenocard" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Adenocard</text>
-</LM>
-</comment>
+<tag>
+<AM lemma="adenocard" src="auto">X@-------------</AM>
+<AM lemma="adenocard" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0318-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>

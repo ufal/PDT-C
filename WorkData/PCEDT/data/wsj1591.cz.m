@@ -595,7 +595,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 32 bitovém</text>
 </LM>
 </comment>
 </m>

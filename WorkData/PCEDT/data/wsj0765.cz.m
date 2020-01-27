@@ -8507,7 +8507,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 12 letým</text>
+</LM>
+<LM type="New Form">
+<text>12</text>
 </LM>
 </comment>
 </m>
@@ -11348,11 +11351,14 @@
 <form>33bodového</form>
 <tag>
 <AM lemma="33bodového" src="auto">X@-------------</AM>
-<AM lemma="33bodový" src="manual" selected="1">AANS2----1A----</AM>
+<AM lemma="33bodový" src="manual">AANS2----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 33 bodového</text>
+</LM>
+<LM type="New Form">
+<text>33</text>
 </LM>
 </comment>
 </m>

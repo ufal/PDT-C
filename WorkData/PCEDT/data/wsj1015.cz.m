@@ -1128,11 +1128,6 @@
 <AM lemma="na-1" src="auto">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nedokončená věta</text>
-</LM>
-</comment>
 </m>
 </s>
 <s id="m-wsj1015-001-p1s6">
@@ -4939,11 +4934,14 @@
 <form>100akciový</form>
 <tag>
 <AM lemma="100akciový" src="auto">X@-------------</AM>
-<AM lemma="100akciový" src="manual" selected="1">AAIS1----1A----</AM>
+<AM lemma="100akciový" src="manual">AAIS1----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 100 akciový</text>
+</LM>
+<LM type="New Form">
+<text>100</text>
 </LM>
 </comment>
 </m>
@@ -5125,11 +5123,14 @@
 <form>30akciový</form>
 <tag>
 <AM lemma="30akciový" src="auto">X@-------------</AM>
-<AM lemma="30akciový" src="manual" selected="1">AAIS1----1A----</AM>
+<AM lemma="30akciový" src="manual">AAIS1----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 30 akciový</text>
+</LM>
+<LM type="New Form">
+<text>30</text>
 </LM>
 </comment>
 </m>
@@ -9045,11 +9046,6 @@
 <AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nedokončená věta</text>
-</LM>
-</comment>
 </m>
 </s>
 <s id="m-wsj1015-001-p1s37">
@@ -9913,11 +9909,14 @@
 <form>80bodové</form>
 <tag>
 <AM lemma="80bodové" src="auto">X@-------------</AM>
-<AM lemma="80bodový" src="manual" selected="1">AAFS2----1A----</AM>
+<AM lemma="80bodový" src="manual">AAFS2----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 80 bodové</text>
+</LM>
+<LM type="New Form">
+<text>80</text>
 </LM>
 </comment>
 </m>
@@ -13168,11 +13167,6 @@
 <AM lemma="na-1" src="auto">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nedokončená věta</text>
-</LM>
-</comment>
 </m>
 </s>
 <s id="m-wsj1015-001-p1s49">

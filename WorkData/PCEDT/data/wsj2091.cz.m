@@ -4904,7 +4904,7 @@
 <text>např</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace, nutno rozdělit</text>
+<text>1v2: např .</text>
 </LM>
 </comment>
 </m>

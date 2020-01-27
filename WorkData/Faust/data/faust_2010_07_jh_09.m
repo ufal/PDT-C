@@ -2111,6 +2111,11 @@
 </w.rf>
 <form>6</form>
 <tag lemma="6" recommended="1">C=-------------</tag>
+<comment>
+<LM type="Other">
+<text>1v2: >6.96</text>
+</LM>
+</comment>
 </m>
 <m id="jh_09-SCzechM-p0897-s1-w8">
 <w.rf>
@@ -2118,6 +2123,11 @@
 </w.rf>
 <form>.</form>
 <tag lemma="." recommended="1">Z:-------------</tag>
+<comment>
+<LM type="Other">
+<text>1v2:  &lt;6.96</text>
+</LM>
+</comment>
 </m>
 <m id="jh_09-SCzechM-p0897-s1-w9">
 <w.rf>
@@ -2129,8 +2139,11 @@
 <LM type="New Form">
 <text>96</text>
 </LM>
+<LM type="New Form">
+<text>m</text>
+</LM>
 <LM type="Other">
-<text>nutno rozdělit</text>
+<text>2v1: m 3</text>
 </LM>
 </comment>
 </m>
@@ -5218,7 +5231,7 @@
 <AM lemma="zaměstnanost-1_^(všeob._význam:_činnost,_zaměstnání)_(*5ý-1)">NNFP2-----A----</AM>
 <AM lemma="zaměstnanost-2_^(politika_z.;_přednost_před_odvoz.)">NNFP2-----A----</AM>
 <AM lemma="zaměstnanost-2_^(politika_z.;_přednost_před_odvoz.)">NNFS7-----A----</AM>
-<AM lemma="	zaměstnanost_^(*3ý)" src="manual">NNFS7-----A----</AM>
+<AM lemma=" zaměstnanost_^(*3ý)" src="manual">NNFS7-----A----</AM>
 <AM lemma="zaměstnanost_^(*3ý)" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>

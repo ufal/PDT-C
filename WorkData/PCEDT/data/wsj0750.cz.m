@@ -2658,7 +2658,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>to slovo je tu navíc</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>

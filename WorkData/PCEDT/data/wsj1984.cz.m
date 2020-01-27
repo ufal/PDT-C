@@ -5671,12 +5671,10 @@
 <LM>w#w-wsj1984-001-p1s17W48</LM>
 </w.rf>
 <form>podiatr</form>
-<tag lemma="podiatr" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>pediatr</text>
-</LM>
-</comment>
+<tag>
+<AM lemma="podiatr" src="auto">X@-------------</AM>
+<AM lemma="podiatr" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1984-001-p1s17W49-Ta">
 <src.rf>tagger-a</src.rf>

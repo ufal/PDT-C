@@ -859,7 +859,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 57 letého</text>
+</LM>
+<LM type="New Form">
+<text>57</text>
 </LM>
 </comment>
 </m>
@@ -2509,7 +2512,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>navíc</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>

@@ -2287,13 +2287,9 @@
 <form>B2</form>
 <tag>
 <AM lemma="B2" src="auto">X@-------------</AM>
-<AM lemma="B2" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="B2" src="manual">NNXXX-----A----</AM>
+<AM lemma="B2-33_^(označení_pomocí_písmene)" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1441-001-p1s7W6-Ta">
 <src.rf>tagger-a</src.rf>

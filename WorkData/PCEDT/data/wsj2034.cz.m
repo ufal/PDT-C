@@ -5703,7 +5703,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>opakující se slovo</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>
@@ -14165,8 +14165,8 @@
 <form>ohledem</form>
 <tag lemma="ohled" src="auto" recommended="1">NNIS7-----A----</tag>
 <comment>
-<LM type="Other">
-<text>nesedí tvar</text>
+<LM type="New Form">
+<text>ohledech</text>
 </LM>
 </comment>
 </m>

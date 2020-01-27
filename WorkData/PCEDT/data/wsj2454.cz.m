@@ -5896,11 +5896,14 @@
 <form>F.W</form>
 <tag>
 <AM lemma="F.W" src="auto">X@-------------</AM>
-<AM lemma="F.W-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="F.W-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace, nelze přiřadit tag</text>
+<text>3v1: F . W</text>
+</LM>
+<LM type="New Form">
+<text>F</text>
 </LM>
 </comment>
 </m>

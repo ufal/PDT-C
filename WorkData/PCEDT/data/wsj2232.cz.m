@@ -6087,11 +6087,14 @@
 <form>27bodovou</form>
 <tag>
 <AM lemma="27bodovou" src="auto">X@-------------</AM>
-<AM lemma="27bodový" src="manual" selected="1">AAFS4----1A----</AM>
+<AM lemma="27bodový" src="manual">AAFS4----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 27 bodovou</text>
+</LM>
+<LM type="New Form">
+<text>27</text>
 </LM>
 </comment>
 </m>
@@ -14276,8 +14279,8 @@
 <form>Byl</form>
 <tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
 <comment>
-<LM type="Other">
-<text>špatný rod, nedává ve větě smysl</text>
+<LM type="New Form">
+<text>Bylo</text>
 </LM>
 </comment>
 </m>

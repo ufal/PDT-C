@@ -1431,6 +1431,11 @@
 </w.rf>
 <form>_</form>
 <tag lemma="_" recommended="1">Z:-------------</tag>
+<comment>
+<LM type="New Form">
+<text>k</text>
+</LM>
+</comment>
 </m>
 <m id="jh_20-SCzechM-p2102-s1-w7">
 <w.rf>

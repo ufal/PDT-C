@@ -1190,7 +1190,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 11 členném</text>
+</LM>
+<LM type="New Form">
+<text>11</text>
 </LM>
 </comment>
 </m>

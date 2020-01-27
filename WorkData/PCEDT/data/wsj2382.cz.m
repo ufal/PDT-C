@@ -1931,11 +1931,14 @@
 <form>100miligramovou</form>
 <tag>
 <AM lemma="100miligramovou" src="auto">X@-------------</AM>
-<AM lemma="100miligramový" src="manual" selected="1">AAFS4----1A----</AM>
+<AM lemma="100miligramový" src="manual">AAFS4----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 100 miligramovou</text>
+</LM>
+<LM type="New Form">
+<text>100</text>
 </LM>
 </comment>
 </m>
@@ -1968,11 +1971,14 @@
 <form>50miligramovou</form>
 <tag>
 <AM lemma="50miligramovou" src="auto">X@-------------</AM>
-<AM lemma="50miligramový" src="manual" selected="1">AAFS4----1A----</AM>
+<AM lemma="50miligramový" src="manual">AAFS4----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 50 miligramovou</text>
+</LM>
+<LM type="New Form">
+<text>50</text>
 </LM>
 </comment>
 </m>

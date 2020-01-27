@@ -1729,11 +1729,14 @@
 <form>20denní</form>
 <tag>
 <AM lemma="20denní" src="auto">X@-------------</AM>
-<AM lemma="20denní" src="manual" selected="1">AANS4----1A----</AM>
+<AM lemma="20denní" src="manual">AANS4----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 20 denní</text>
+</LM>
+<LM type="New Form">
+<text>20</text>
 </LM>
 </comment>
 </m>

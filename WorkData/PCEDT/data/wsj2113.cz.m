@@ -919,6 +919,9 @@
 <LM type="New Form">
 <text>L</text>
 </LM>
+<LM type="Other">
+<text>2v1: L .</text>
+</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s2W24-Ta">
@@ -8223,6 +8226,9 @@
 <LM type="New Form">
 <text>Říkají</text>
 </LM>
+<LM type="Other">
+<text>2v1: Říkají Johnny</text>
+</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s30W3-Ta">
@@ -9095,11 +9101,14 @@
 <form>Sotheby's</form>
 <tag>
 <AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>Sotheby</text>
+</LM>
 <LM type="Other">
-<text>mělo by být jako tři uzly</text>
+<text>3v1: Sotheby ' s</text>
 </LM>
 </comment>
 </m>
@@ -9366,11 +9375,14 @@
 <form>Sotheby's</form>
 <tag>
 <AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>mělo by být jako tři uzly</text>
+<text>3v1: Sotheby ' s</text>
+</LM>
+<LM type="New Form">
+<text>Sotheby</text>
 </LM>
 </comment>
 </m>
@@ -9936,11 +9948,14 @@
 <form>Sotheby's</form>
 <tag>
 <AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>mělo by být jako tři uzly</text>
+<text>3v1: Sotheby ' s</text>
+</LM>
+<LM type="New Form">
+<text>Sotheby</text>
 </LM>
 </comment>
 </m>
@@ -11197,6 +11212,9 @@
 <LM type="New Form">
 <text>je</text>
 </LM>
+<LM type="Other">
+<text>4v1: je ' ukradl '</text>
+</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s42W6-Ta">
@@ -11856,11 +11874,14 @@
 <form>Sotheby's</form>
 <tag>
 <AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>Sotheby</text>
+</LM>
 <LM type="Other">
-<text>mělo by být jako tři uzly</text>
+<text>3v1: Sotheby ' s</text>
 </LM>
 </comment>
 </m>
@@ -12458,6 +12479,9 @@
 <LM type="New Form">
 <text>U</text>
 </LM>
+<LM type="Other">
+<text>5v1: U . S . A</text>
+</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s49W8-Ta">
@@ -13016,11 +13040,14 @@
 <form>Sotheby's</form>
 <tag>
 <AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>mělo by být jako tři uzly</text>
+<text>3v1: Sotheby ' s</text>
+</LM>
+<LM type="New Form">
+<text>Sotheby</text>
 </LM>
 </comment>
 </m>
@@ -13146,11 +13173,14 @@
 <form>Sotheby's</form>
 <tag>
 <AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>mělo by být jako tři uzly</text>
+<text>3v1: Sotheby ' s</text>
+</LM>
+<LM type="New Form">
+<text>Sotheby</text>
 </LM>
 </comment>
 </m>
@@ -13489,11 +13519,14 @@
 <form>Sotheby's</form>
 <tag>
 <AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>mělo by být jako tři uzly</text>
+<text>3v1: Sotheby ' s</text>
+</LM>
+<LM type="New Form">
+<text>Sotheby</text>
 </LM>
 </comment>
 </m>
@@ -13663,11 +13696,14 @@
 <form>Sotheby's</form>
 <tag>
 <AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>mělo by být jako tři uzly</text>
+<text>3v1: Sotheby ' s</text>
+</LM>
+<LM type="New Form">
+<text>Sotheby</text>
 </LM>
 </comment>
 </m>
@@ -14040,11 +14076,14 @@
 <form>Sotheby's</form>
 <tag>
 <AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>mělo by být jako tři uzly</text>
+<text>3v1: Sotheby ' s</text>
+</LM>
+<LM type="New Form">
+<text>Sotheby</text>
 </LM>
 </comment>
 </m>
@@ -14723,11 +14762,14 @@
 <form>Sotheby's</form>
 <tag>
 <AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>mělo by být jako tři uzly</text>
+<text>3v1: Sotheby ' s</text>
+</LM>
+<LM type="New Form">
+<text>Sotheby</text>
 </LM>
 </comment>
 </m>
@@ -18580,11 +18622,14 @@
 <form>Sotheby's</form>
 <tag>
 <AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>mělo by být jako tři uzly</text>
+<text>3v1: Sotheby ' s</text>
+</LM>
+<LM type="New Form">
+<text>Sotheby</text>
 </LM>
 </comment>
 </m>
@@ -20058,11 +20103,14 @@
 <form>Sotheby's</form>
 <tag>
 <AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>mělo by být jako tři uzly</text>
+<text>3v1: Sotheby ' s</text>
+</LM>
+<LM type="New Form">
+<text>Sotheby</text>
 </LM>
 </comment>
 </m>
@@ -24061,11 +24109,14 @@
 <form>Sotheby's</form>
 <tag>
 <AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>mělo by být jako tři uzly</text>
+<text>3v1: Sotheby ' s</text>
+</LM>
+<LM type="New Form">
+<text>Sotheby</text>
 </LM>
 </comment>
 </m>
@@ -24300,11 +24351,14 @@
 <form>Sotheby's</form>
 <tag>
 <AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>mělo by být jako tři uzly</text>
+<text>3v1: Sotheby ' s</text>
+</LM>
+<LM type="New Form">
+<text>Sotheby</text>
 </LM>
 </comment>
 </m>
@@ -25101,11 +25155,14 @@
 <form>Sotheby's</form>
 <tag>
 <AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>mělo by být jako tři uzly</text>
+<text>3v1: Sotheby ' s</text>
+</LM>
+<LM type="New Form">
+<text>Sotheby</text>
 </LM>
 </comment>
 </m>
@@ -27400,11 +27457,14 @@
 <form>Sotheby's</form>
 <tag>
 <AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>mělo by být jako tři uzly</text>
+<text>3v1: Sotheby ' s</text>
+</LM>
+<LM type="New Form">
+<text>Sotheby</text>
 </LM>
 </comment>
 </m>
@@ -27697,11 +27757,14 @@
 <form>Sotheby's</form>
 <tag>
 <AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>mělo by být jako tři uzly</text>
+<text>3v1: Sotheby ' s</text>
+</LM>
+<LM type="New Form">
+<text>Sotheby</text>
 </LM>
 </comment>
 </m>
@@ -28441,11 +28504,14 @@
 <form>Sotheby's</form>
 <tag>
 <AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>mělo by být jako tři uzly</text>
+<text>3v1: Sotheby ' s</text>
+</LM>
+<LM type="New Form">
+<text>Sotheby</text>
 </LM>
 </comment>
 </m>
@@ -30298,11 +30364,14 @@
 <form>Sotheby's</form>
 <tag>
 <AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>mělo by být jako tři uzly</text>
+<text>3v1: Sotheby ' s</text>
+</LM>
+<LM type="New Form">
+<text>Sotheby</text>
 </LM>
 </comment>
 </m>
@@ -31555,11 +31624,14 @@
 <form>Sotheby's</form>
 <tag>
 <AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>mělo by být jako tři uzly</text>
+<text>3v1: Sotheby ' s</text>
+</LM>
+<LM type="New Form">
+<text>Sotheby</text>
 </LM>
 </comment>
 </m>
@@ -31786,11 +31858,14 @@
 <form>Sotheby's</form>
 <tag>
 <AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>mělo by být jako tři uzly</text>
+<text>3v1: Sotheby ' s</text>
+</LM>
+<LM type="New Form">
+<text>Sotheby</text>
 </LM>
 </comment>
 </m>
@@ -33765,11 +33840,14 @@
 <form>Sotheby's</form>
 <tag>
 <AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>Sotheby</text>
+</LM>
 <LM type="Other">
-<text>mělo by být jako tři uzly</text>
+<text>3v1: Sotheby ' s</text>
 </LM>
 </comment>
 </m>

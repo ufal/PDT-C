@@ -785,6 +785,9 @@
 <LM type="New Form">
 <text>dvanácti</text>
 </LM>
+<LM type="New Form">
+<text>12</text>
+</LM>
 </comment>
 </m>
 <m id="m-wsj0166-001-p1s2W9-Ta">
@@ -3055,6 +3058,9 @@
 <comment>
 <LM type="New Form">
 <text>patnácti</text>
+</LM>
+<LM type="New Form">
+<text>15</text>
 </LM>
 </comment>
 </m>

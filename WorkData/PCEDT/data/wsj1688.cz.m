@@ -2223,6 +2223,11 @@
 </w.rf>
 <form>6</form>
 <tag lemma="6" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>6000</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1688-001-p1s8W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2232,11 +2237,11 @@
 <form>000členné</form>
 <tag>
 <AM lemma="000členné" src="auto">X@-------------</AM>
-<AM lemma="000členný" src="manual" selected="1">AAFS2----1A----</AM>
+<AM lemma="000členný" src="manual">AAFS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
+<LM type="New Form">
+<text>členné</text>
 </LM>
 </comment>
 </m>

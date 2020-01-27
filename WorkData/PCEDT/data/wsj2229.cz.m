@@ -8725,12 +8725,7 @@
 <LM>w#w-wsj2229-001-p1s26W17</LM>
 </w.rf>
 <form>street</form>
-<tag lemma="street-77" src="auto" recommended="1">F%-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Street</text>
-</LM>
-</comment>
+<tag lemma="street-77" src="auto" recommended="1" selected="1">F%-------------</tag>
 </m>
 <m id="m-wsj2229-001-p1s26W18-Ta">
 <src.rf>tagger-a</src.rf>

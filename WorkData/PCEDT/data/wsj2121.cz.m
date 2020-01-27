@@ -315,7 +315,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 42 letý</text>
+</LM>
+<LM type="New Form">
+<text>42</text>
 </LM>
 </comment>
 </m>
@@ -392,12 +395,15 @@
 <form>66letém</form>
 <tag>
 <AM lemma="66letý" src="auto" recommended="1">AAIS6----1A----</AM>
-<AM lemma="66letý" src="auto" selected="1">AAMS6----1A----</AM>
+<AM lemma="66letý" src="auto">AAMS6----1A----</AM>
 <AM lemma="66letý" src="auto">AANS6----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 66 letém</text>
+</LM>
+<LM type="New Form">
+<text>66</text>
 </LM>
 </comment>
 </m>

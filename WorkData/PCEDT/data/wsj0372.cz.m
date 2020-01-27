@@ -102,11 +102,14 @@
 <form>27milionový</form>
 <tag>
 <AM lemma="27milionový" src="auto">X@-------------</AM>
-<AM lemma="27milionový_,s_^(^DD**27miliónový)" src="manual" selected="1">AAIS4----1A----</AM>
+<AM lemma="27milionový_,s_^(^DD**27miliónový)" src="manual">AAIS4----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 27 milionový</text>
+</LM>
+<LM type="New Form">
+<text>27</text>
 </LM>
 </comment>
 </m>

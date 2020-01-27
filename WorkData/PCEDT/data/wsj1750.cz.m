@@ -2165,11 +2165,11 @@
 <form>50ti</form>
 <tag>
 <AM lemma="50ti" src="auto">X@-------------</AM>
-<AM lemma="50ti`50" src="manual" selected="1">Cn-P2----------</AM>
+<AM lemma="50ti`50" src="manual">Cn-P2----------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
+<LM type="New Form">
+<text>50</text>
 </LM>
 </comment>
 </m>

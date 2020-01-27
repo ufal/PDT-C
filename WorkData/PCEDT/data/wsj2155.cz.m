@@ -2348,7 +2348,7 @@
 <text>Ltd</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace, nutno rozdělit</text>
+<text>3v1: Ltd . v</text>
 </LM>
 </comment>
 </m>
@@ -2628,11 +2628,14 @@
 <form>N.Y</form>
 <tag>
 <AM lemma="N.Y" src="auto">X@-------------</AM>
-<AM lemma="N.Y-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="N.Y-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: N . Y</text>
+</LM>
+<LM type="New Form">
+<text>N</text>
 </LM>
 </comment>
 </m>

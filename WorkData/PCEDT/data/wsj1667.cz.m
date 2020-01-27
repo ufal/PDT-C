@@ -363,6 +363,11 @@
 </w.rf>
 <form>1</form>
 <tag lemma="1" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="Other">
+<text>1v2: >1.5</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1667-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -371,6 +376,11 @@
 </w.rf>
 <form>,</form>
 <tag lemma="," src="auto" recommended="1">Z:-------------</tag>
+<comment>
+<LM type="Other">
+<text>1v2: &lt;1.5</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1667-001-p1s0W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -380,11 +390,11 @@
 <form>5mílovém</form>
 <tag>
 <AM lemma="5mílovém" src="auto">X@-------------</AM>
-<AM lemma="5mílový" src="manual" selected="1">AAIS6----1A----</AM>
+<AM lemma="5mílový" src="manual">AAIS6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
+<LM type="New Form">
+<text>mílovém</text>
 </LM>
 </comment>
 </m>

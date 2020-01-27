@@ -8065,8 +8065,8 @@
 <AM lemma="30letý" src="auto">AANP6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
+<LM type="New Form">
+<text>třicetiletých</text>
 </LM>
 </comment>
 </m>
@@ -8784,8 +8784,8 @@
 <AM lemma="30letý" src="auto">AANP6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
+<LM type="New Form">
+<text>třicetiletých</text>
 </LM>
 </comment>
 </m>

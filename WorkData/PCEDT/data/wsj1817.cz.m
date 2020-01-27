@@ -2203,11 +2203,14 @@
 <form>318krát</form>
 <tag>
 <AM lemma="318krát" src="auto">X@-------------</AM>
-<AM lemma="318krát`318" src="manual" selected="1">Cv-------------</AM>
+<AM lemma="318krát`318" src="manual">Cv-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 318 krát</text>
+</LM>
+<LM type="New Form">
+<text>318</text>
 </LM>
 </comment>
 </m>

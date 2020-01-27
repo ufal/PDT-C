@@ -16355,11 +16355,14 @@
 <form>Sydney´s</form>
 <tag>
 <AM lemma="Sydney´s" src="auto">X@-------------</AM>
-<AM lemma="Sydney´s-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Sydney´s-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>Sydney</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Sydney ´ s</text>
 </LM>
 </comment>
 </m>
@@ -17261,11 +17264,14 @@
 <form>100akciový</form>
 <tag>
 <AM lemma="100akciový" src="auto">X@-------------</AM>
-<AM lemma="100akciový" src="manual" selected="1">AAIS1----1A----</AM>
+<AM lemma="100akciový" src="manual">AAIS1----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 100 akciový</text>
+</LM>
+<LM type="New Form">
+<text>100</text>
 </LM>
 </comment>
 </m>
@@ -17789,11 +17795,14 @@
 <form>30akciový</form>
 <tag>
 <AM lemma="30akciový" src="auto">X@-------------</AM>
-<AM lemma="30akciový" src="manual" selected="1">AAIS1----1A----</AM>
+<AM lemma="30akciový" src="manual">AAIS1----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 30 akciový</text>
+</LM>
+<LM type="New Form">
+<text>30</text>
 </LM>
 </comment>
 </m>

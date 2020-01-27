@@ -2105,11 +2105,14 @@
 <form>19palcovými</form>
 <tag>
 <AM lemma="19palcovými" src="auto">X@-------------</AM>
-<AM lemma="19palcový" src="manual" selected="1">AAFP7----1A----</AM>
+<AM lemma="19palcový" src="manual">AAFP7----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 19 palcovými</text>
+</LM>
+<LM type="New Form">
+<text>19</text>
 </LM>
 </comment>
 </m>
@@ -3135,7 +3138,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 12 minutové</text>
+</LM>
+<LM type="New Form">
+<text>12</text>
 </LM>
 </comment>
 </m>
@@ -3268,7 +3274,7 @@
 </w.rf>
 <form>30vteřinové</form>
 <tag>
-<AM lemma="30vteřinový" src="auto" selected="1">AAFP1----1A----</AM>
+<AM lemma="30vteřinový" src="auto">AAFP1----1A----</AM>
 <AM lemma="30vteřinový" src="auto" recommended="1">AAFP4----1A----</AM>
 <AM lemma="30vteřinový" src="auto">AAFP5----1A----</AM>
 <AM lemma="30vteřinový" src="auto">AAFS2----1A----</AM>
@@ -3286,8 +3292,11 @@
 <AM lemma="30vteřinový" src="auto">AANS5----1A----</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>30</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 30 vteřinové</text>
 </LM>
 </comment>
 </m>

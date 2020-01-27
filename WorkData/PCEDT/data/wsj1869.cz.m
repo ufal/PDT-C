@@ -6962,6 +6962,9 @@
 <LM type="New Form">
 <text>Sněmovnou</text>
 </LM>
+<LM type="New Form">
+<text>sněmovnou</text>
+</LM>
 </comment>
 </m>
 <m id="m-wsj1869-001-p1s23W32-Ta">

@@ -12867,7 +12867,7 @@
 <text>nutná</text>
 </LM>
 <LM type="Other">
-<text>nutno rozdělit</text>
+<text>2v1: nutná '</text>
 </LM>
 </comment>
 </m>
@@ -12907,7 +12907,7 @@
 <text>přiměřená</text>
 </LM>
 <LM type="Other">
-<text>nutno rozdělit</text>
+<text>2v1: přiměřená '</text>
 </LM>
 </comment>
 </m>

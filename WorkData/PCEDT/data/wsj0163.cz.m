@@ -241,7 +241,7 @@
 <text>r</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace - nutno rozdělit</text>
+<text>2v1: r .</text>
 </LM>
 </comment>
 </m>

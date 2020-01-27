@@ -6036,11 +6036,6 @@
 <AM lemma="na-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nedokončená věta, nedává smysl</text>
-</LM>
-</comment>
 </m>
 </s>
 <s id="m-wsj0322-001-p1s25">

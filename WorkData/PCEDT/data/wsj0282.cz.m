@@ -11708,7 +11708,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>slovo je tu evidentně navíc</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>

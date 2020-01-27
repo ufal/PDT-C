@@ -1949,11 +1949,14 @@
 <tag>
 <AM lemma="800akrové" src="auto">X@-------------</AM>
 <AM lemma="800akrový" src="manual">NNFS6-----A----</AM>
-<AM lemma="800akrový" src="manual" selected="1">AAFS6----1A----</AM>
+<AM lemma="800akrový" src="manual">AAFS6----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 800 akrové</text>
+</LM>
+<LM type="New Form">
+<text>800</text>
 </LM>
 </comment>
 </m>

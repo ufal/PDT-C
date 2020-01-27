@@ -192,11 +192,14 @@
 <form>80megabytovou</form>
 <tag>
 <AM lemma="80megabytovou" src="auto">X@-------------</AM>
-<AM lemma="80megabytový" src="manual" selected="1">AAFS4----1A----</AM>
+<AM lemma="80megabytový" src="manual">AAFS4----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 80 megabytový</text>
+</LM>
+<LM type="New Form">
+<text>80</text>
 </LM>
 </comment>
 </m>

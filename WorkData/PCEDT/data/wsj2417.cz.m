@@ -3611,11 +3611,14 @@
 <form>Poor's</form>
 <tag>
 <AM lemma="Poor's" src="auto">X@-------------</AM>
-<AM lemma="Poor's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Poor's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Poor ' s</text>
+</LM>
+<LM type="New Form">
+<text>Poor</text>
 </LM>
 </comment>
 </m>
@@ -5740,11 +5743,11 @@
 <form>30bodový</form>
 <tag>
 <AM lemma="30bodový" src="auto">X@-------------</AM>
-<AM lemma="30bodový" src="manual" selected="1">AAIS4----1A----</AM>
+<AM lemma="30bodový" src="manual">AAIS4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
+<LM type="New Form">
+<text>třicetibodový</text>
 </LM>
 </comment>
 </m>
@@ -6488,11 +6491,14 @@
 <form>250bodová</form>
 <tag>
 <AM lemma="250bodová" src="auto">X@-------------</AM>
-<AM lemma="250bodový" src="manual" selected="1">AAFS1----1A----</AM>
+<AM lemma="250bodový" src="manual">AAFS1----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 250 bodová</text>
+</LM>
+<LM type="New Form">
+<text>250</text>
 </LM>
 </comment>
 </m>

@@ -3269,6 +3269,9 @@
 <LM type="New Form">
 <text>které</text>
 </LM>
+<LM type="New Form">
+<text>který</text>
+</LM>
 </comment>
 </m>
 <m id="m-wsj1550-001-p1s8W11-Ta">

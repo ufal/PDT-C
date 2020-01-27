@@ -1204,11 +1204,11 @@
 <form>15denní</form>
 <tag>
 <AM lemma="15denní" src="auto">X@-------------</AM>
-<AM lemma="15denní" src="manual" selected="1">AANS4----1A----</AM>
+<AM lemma="15denní" src="manual">AANS4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
+<LM type="New Form">
+<text>patnáctidenní</text>
 </LM>
 </comment>
 </m>

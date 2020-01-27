@@ -3428,11 +3428,14 @@
 <form>30denního</form>
 <tag>
 <AM lemma="30denního" src="auto">X@-------------</AM>
-<AM lemma="30denní" src="manual" selected="1">AAIS2----1A----</AM>
+<AM lemma="30denní" src="manual">AAIS2----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 30 denního</text>
+</LM>
+<LM type="New Form">
+<text>30</text>
 </LM>
 </comment>
 </m>

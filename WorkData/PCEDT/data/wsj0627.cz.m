@@ -3009,7 +3009,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>uzel navíc</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>

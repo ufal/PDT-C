@@ -4631,11 +4631,6 @@
 </w.rf>
 <form>rozhodují</form>
 <tag lemma="rozhodovat" src="auto" recommended="1">VB-P---3P-AAI--</tag>
-<comment>
-<LM type="Other">
-<text>Doplnit čárku za slovo "rozhodují"</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0732-001-p1s17W11-Ta">
 <src.rf>tagger-a</src.rf>

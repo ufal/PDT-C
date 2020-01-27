@@ -3985,12 +3985,7 @@
 <LM>w#w-wsj1154-001-p1s15W12</LM>
 </w.rf>
 <form>mi</form>
-<tag lemma="já" src="auto" recommended="1">PH-S3--1-------</tag>
-<comment>
-<LM type="New Form">
-<text>mu</text>
-</LM>
-</comment>
+<tag lemma="já" src="auto" recommended="1" selected="1">PH-S3--1-------</tag>
 </m>
 <m id="m-wsj1154-001-p1s15W13-Ta">
 <src.rf>tagger-a</src.rf>

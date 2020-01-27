@@ -669,11 +669,14 @@
 <form>14měsíční</form>
 <tag>
 <AM lemma="14měsíční" src="auto">X@-------------</AM>
-<AM lemma="14měsíční" src="manual" selected="1">AANS4----1A----</AM>
+<AM lemma="14měsíční" src="manual">AANS4----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 14 měsíční</text>
+</LM>
+<LM type="New Form">
+<text>14</text>
 </LM>
 </comment>
 </m>
@@ -3641,7 +3644,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 62 letého</text>
+</LM>
+<LM type="New Form">
+<text>62</text>
 </LM>
 </comment>
 </m>
@@ -4025,7 +4031,7 @@
 <AM lemma="55letý" src="auto">AAMP1----1A---6</AM>
 <AM lemma="55letý" src="auto">AAMP4----1A---6</AM>
 <AM lemma="55letý" src="auto">AAMP5----1A---6</AM>
-<AM lemma="55letý" src="auto" recommended="1" selected="1">AAMS1----1A----</AM>
+<AM lemma="55letý" src="auto" recommended="1">AAMS1----1A----</AM>
 <AM lemma="55letý" src="auto">AAMS5----1A----</AM>
 <AM lemma="55letý" src="auto">AANP1----1A---6</AM>
 <AM lemma="55letý" src="auto">AANP4----1A---6</AM>
@@ -4036,7 +4042,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 55 letý</text>
+</LM>
+<LM type="New Form">
+<text>55</text>
 </LM>
 </comment>
 </m>
@@ -4200,7 +4209,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 53 letý</text>
+</LM>
+<LM type="New Form">
+<text>53</text>
 </LM>
 </comment>
 </m>
@@ -4443,7 +4455,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 44 letý</text>
+</LM>
+<LM type="New Form">
+<text>44</text>
 </LM>
 </comment>
 </m>
@@ -4534,7 +4549,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 42 letý</text>
+</LM>
+<LM type="New Form">
+<text>42</text>
 </LM>
 </comment>
 </m>

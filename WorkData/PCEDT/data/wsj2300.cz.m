@@ -4863,11 +4863,14 @@
 <form>508bodovému</form>
 <tag>
 <AM lemma="508bodovému" src="auto">X@-------------</AM>
-<AM lemma="508bodový" src="manual" selected="1">AAIS3----1A----</AM>
+<AM lemma="508bodový" src="manual">AAIS3----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 508 bodovému</text>
+</LM>
+<LM type="New Form">
+<text>508</text>
 </LM>
 </comment>
 </m>
@@ -8224,11 +8227,6 @@
 <AM lemma="USAir" src="auto">X@-------------</AM>
 <AM lemma="USAir-77" src="manual" selected="1">F%-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nejspíš špatné dělení slov</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj2300-001-p1s31W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10153,11 +10151,14 @@
 <form>100bodovému</form>
 <tag>
 <AM lemma="100bodovému" src="auto">X@-------------</AM>
-<AM lemma="100bodový" src="manual" selected="1">AAIS3----1A----</AM>
+<AM lemma="100bodový" src="manual">AAIS3----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 100 bodovému</text>
+</LM>
+<LM type="New Form">
+<text>100</text>
 </LM>
 </comment>
 </m>
@@ -19262,7 +19263,7 @@
 <text>tzv</text>
 </LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: tzv .</text>
 </LM>
 </comment>
 </m>
@@ -19680,11 +19681,14 @@
 <form>30bodovému</form>
 <tag>
 <AM lemma="30bodovému" src="auto">X@-------------</AM>
-<AM lemma="30bodový" src="manual" selected="1">AAIS3----1A----</AM>
+<AM lemma="30bodový" src="manual">AAIS3----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 30 bodovému</text>
+</LM>
+<LM type="New Form">
+<text>30</text>
 </LM>
 </comment>
 </m>

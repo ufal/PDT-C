@@ -2838,11 +2838,14 @@
 <form>150megawattové</form>
 <tag>
 <AM lemma="150megawattové" src="auto">X@-------------</AM>
-<AM lemma="150megawattový" src="manual" selected="1">AAFP4----1A----</AM>
+<AM lemma="150megawattový" src="manual">AAFP4----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 150 megawattové</text>
+</LM>
+<LM type="New Form">
+<text>150</text>
 </LM>
 </comment>
 </m>
@@ -3035,11 +3038,14 @@
 <form>300megawattové</form>
 <tag>
 <AM lemma="300megawattové" src="auto">X@-------------</AM>
-<AM lemma="300megawattový" src="manual" selected="1">AAFP4----1A----</AM>
+<AM lemma="300megawattový" src="manual">AAFP4----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 300 megawattové</text>
+</LM>
+<LM type="New Form">
+<text>300</text>
 </LM>
 </comment>
 </m>
@@ -3706,11 +3712,14 @@
 <form>55megawattové</form>
 <tag>
 <AM lemma="55megawattové" src="auto">X@-------------</AM>
-<AM lemma="55megawattový" src="manual" selected="1">AAFS2----1A----</AM>
+<AM lemma="55megawattový" src="manual">AAFS2----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 55 megawattové</text>
+</LM>
+<LM type="New Form">
+<text>55</text>
 </LM>
 </comment>
 </m>

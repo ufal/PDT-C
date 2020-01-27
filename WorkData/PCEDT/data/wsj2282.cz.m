@@ -495,7 +495,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 45 letý</text>
+</LM>
+<LM type="New Form">
+<text>45</text>
 </LM>
 </comment>
 </m>
@@ -1454,12 +1457,10 @@
 <LM>w#w-wsj2282-001-p1s4W9</LM>
 </w.rf>
 <form>Massachussets</form>
-<tag lemma="Massachussets" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Massachusetts</text>
-</LM>
-</comment>
+<tag>
+<AM lemma="Massachussets" src="auto">X@-------------</AM>
+<AM lemma="Massachussets_;G_,h_^(^GC**Massachusetts)" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2282-001-p1s4W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3888,11 +3889,6 @@
 <AM lemma="konec" src="auto">NNIP5-----A----</AM>
 <AM lemma="konec" src="auto" recommended="1">NNIS2-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>chybí zbytek věty</text>
-</LM>
-</comment>
 </m>
 </s>
 <s id="m-wsj2282-001-p1s13">

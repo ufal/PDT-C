@@ -382,11 +382,14 @@
 <form>52týdenního</form>
 <tag>
 <AM lemma="52týdenního" src="auto">X@-------------</AM>
-<AM lemma="52týdenní" src="manual" selected="1">AANS2----1A----</AM>
+<AM lemma="52týdenní" src="manual">AANS2----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 52 týdenního</text>
+</LM>
+<LM type="New Form">
+<text>52</text>
 </LM>
 </comment>
 </m>
@@ -1492,7 +1495,7 @@
 </w.rf>
 <form>které</form>
 <tag>
-<AM lemma="který" src="auto" recommended="1" selected="1">P4FP1----------</AM>
+<AM lemma="který" src="auto" recommended="1">P4FP1----------</AM>
 <AM lemma="který" src="auto">P4FP4----------</AM>
 <AM lemma="který" src="auto">P4FS2----------</AM>
 <AM lemma="který" src="auto">P4FS3----------</AM>
@@ -1505,8 +1508,8 @@
 <AM lemma="který" src="auto">P4YP4----------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>nesedí tvar - asi "která"</text>
+<LM type="New Form">
+<text>která</text>
 </LM>
 </comment>
 </m>

@@ -350,11 +350,14 @@
 <form>76patrové</form>
 <tag>
 <AM lemma="76patrové" src="auto">X@-------------</AM>
-<AM lemma="76patrový" src="manual" selected="1">AAFS2----1A----</AM>
+<AM lemma="76patrový" src="manual">AAFS2----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 76 patrové</text>
+</LM>
+<LM type="New Form">
+<text>76</text>
 </LM>
 </comment>
 </m>

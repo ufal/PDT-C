@@ -2591,11 +2591,11 @@
 <AM lemma="Moody's-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>mělo by být zvlášť</text>
-</LM>
 <LM type="New Form">
 <text>Moody</text>
+</LM>
+<LM type="Other">
+<text>3v1: Moody ' s</text>
 </LM>
 </comment>
 </m>
@@ -5496,6 +5496,12 @@
 <LM type="New Form">
 <text>R .</text>
 </LM>
+<LM type="Other">
+<text>2v1: R .</text>
+</LM>
+<LM type="New Form">
+<text>R</text>
+</LM>
 </comment>
 </m>
 <m id="m-wsj2428-001-p1s17W6-Ta">
@@ -6557,13 +6563,9 @@
 <AM lemma="vika" src="auto">NNFS6-----A----</AM>
 <AM lemma="vice_,t_^(ve_spojení_&quot;vice_versa&quot;)" src="auto" recommended="1">NNNXX-----A----</AM>
 <AM lemma="vice_^(ve_spojení_&quot;vice_versa&quot;)" src="manual">NNNXX-----A----</AM>
-<AM lemma="vice-1_^(vice-prezident)" src="manual" selected="1">A2--------A----</AM>
+<AM lemma="vice-1_^(vice-prezident)" src="manual">A2--------A----</AM>
+<AM lemma="vice-1_^(vice-prezident)" src="manual" selected="1">S2--------A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>mělo by být dohromady</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj2428-001-p1s19W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11471,6 +11473,12 @@
 <comment>
 <LM type="New Form">
 <text>LP</text>
+</LM>
+<LM type="Other">
+<text>3v1: L . P</text>
+</LM>
+<LM type="New Form">
+<text>L</text>
 </LM>
 </comment>
 </m>
@@ -16722,16 +16730,13 @@
 </w.rf>
 <form>Yorská</form>
 <tag>
-<AM lemma="yorský" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="yorský" src="auto" recommended="1" selected="1">AAFS1----1A----</AM>
 <AM lemma="yorský" src="auto">AAFS5----1A----</AM>
 <AM lemma="yorský" src="auto">AANP1----1A----</AM>
 <AM lemma="yorský" src="auto">AANP4----1A----</AM>
 <AM lemma="yorský" src="auto">AANP5----1A----</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>yorská</text>
-</LM>
 <LM type="Other">
 <text>mělo by být dohromady "newyorská"</text>
 </LM>
@@ -18598,11 +18603,11 @@
 <AM lemma="Moody's-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>mělo by být zvlášť</text>
-</LM>
 <LM type="New Form">
 <text>Moody</text>
+</LM>
+<LM type="Other">
+<text>3v1:  Moody ' s</text>
 </LM>
 </comment>
 </m>
@@ -19272,11 +19277,11 @@
 <AM lemma="Grant's-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>mělo by být zvlášť</text>
-</LM>
 <LM type="New Form">
 <text>Grant</text>
+</LM>
+<LM type="Other">
+<text>3v1:  Grant ' s</text>
 </LM>
 </comment>
 </m>

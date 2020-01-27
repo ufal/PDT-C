@@ -1235,11 +1235,6 @@
 <AM lemma="cenný" src="auto">AANS4----1A----</AM>
 <AM lemma="cenný" src="auto">AANS5----1A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>věta gramaticky moc nedává smysl</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0500-001-p1s2W17-Ta">
 <src.rf>tagger-a</src.rf>

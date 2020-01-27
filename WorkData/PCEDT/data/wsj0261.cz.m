@@ -1548,7 +1548,7 @@
 <text>5</text>
 </LM>
 <LM type="Other">
-<text>nutno rozdělit</text>
+<text>3v1: 5 x 8</text>
 </LM>
 </comment>
 </m>

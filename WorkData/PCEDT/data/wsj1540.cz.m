@@ -374,7 +374,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>pravděpodobně omylem dvakrát</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>

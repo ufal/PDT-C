@@ -2466,11 +2466,14 @@
 <form>100akciový</form>
 <tag>
 <AM lemma="100akciový" src="auto">X@-------------</AM>
-<AM lemma="100akciový" src="manual" selected="1">AAIS1----1A----</AM>
+<AM lemma="100akciový" src="manual">AAIS1----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 100 akciový</text>
+</LM>
+<LM type="New Form">
+<text>100</text>
 </LM>
 </comment>
 </m>
@@ -11731,8 +11734,11 @@
 <AM lemma="32letý" src="auto">AANS5----1A---6</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>32</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 32 letý</text>
 </LM>
 </comment>
 </m>

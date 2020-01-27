@@ -2495,8 +2495,8 @@
 <form>10625</form>
 <tag lemma="10625" src="auto" recommended="1">C=-------------</tag>
 <comment>
-<LM type="Other">
-<text>chybí desetinné znaménko?</text>
+<LM type="New Form">
+<text>10.625</text>
 </LM>
 </comment>
 </m>

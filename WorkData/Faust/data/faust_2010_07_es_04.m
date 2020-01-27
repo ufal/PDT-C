@@ -2140,11 +2140,14 @@
 <form>0x00000000</form>
 <tag>
 <AM lemma="0x00000000">X@-------------</AM>
-<AM lemma="0x00000000" src="manual" selected="1">C=-------------</AM>
+<AM lemma="0x00000000" src="manual">C=-------------</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>0</text>
+</LM>
 <LM type="Other">
-<text>chybná tokenizace</text>
+<text>3v1: 0 x 00000000</text>
 </LM>
 </comment>
 </m>

@@ -501,11 +501,11 @@
 <form>D'Amico</form>
 <tag lemma="D'Amico" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
-</LM>
 <LM type="New Form">
 <text>D</text>
+</LM>
+<LM type="Other">
+<text>3v1: D ' Amico</text>
 </LM>
 </comment>
 </m>

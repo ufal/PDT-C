@@ -1145,7 +1145,7 @@
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGIP1-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGIP4-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGIP5-----A----</AM>
-<AM lemma="zahrnující_^(*5ovat)" src="auto" recommended="1">AGIS1-----A----</AM>
+<AM lemma="zahrnující_^(*5ovat)" src="auto" recommended="1" selected="1">AGIS1-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGIS4-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGIS5-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGMP1-----A----</AM>
@@ -1160,11 +1160,6 @@
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGNS4-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGNS5-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>zahrnujících</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0702-001-p1s3W16-Ta">
 <src.rf>tagger-a</src.rf>

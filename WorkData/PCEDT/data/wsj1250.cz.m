@@ -411,9 +411,9 @@
 <AM lemma="křesťanskodemokratický" src="auto">AAFP1----1A----</AM>
 <AM lemma="křesťanskodemokratický" src="auto">AAFP4----1A----</AM>
 <AM lemma="křesťanskodemokratický" src="auto">AAFP5----1A----</AM>
-<AM lemma="křesťanskodemokratický" src="auto" selected="1">AAFS2----1A----</AM>
+<AM lemma="křesťanskodemokratický" src="auto">AAFS2----1A----</AM>
 <AM lemma="křesťanskodemokratický" src="auto">AAFS3----1A----</AM>
-<AM lemma="křesťanskodemokratický" src="auto" recommended="1">AAFS6----1A----</AM>
+<AM lemma="křesťanskodemokratický" src="auto" recommended="1" selected="1">AAFS6----1A----</AM>
 <AM lemma="křesťanskodemokratický" src="auto">AAIP1----1A----</AM>
 <AM lemma="křesťanskodemokratický" src="auto">AAIP4----1A----</AM>
 <AM lemma="křesťanskodemokratický" src="auto">AAIP5----1A----</AM>
@@ -432,13 +432,8 @@
 <tag>
 <AM lemma="unie" src="auto">NNFS3-----A----</AM>
 <AM lemma="unie" src="auto">NNFS4-----A----</AM>
-<AM lemma="unie" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="unie" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>unie</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1250-001-p1s0W30-Ta">
 <src.rf>tagger-a</src.rf>

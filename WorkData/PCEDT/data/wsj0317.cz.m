@@ -443,7 +443,7 @@
 <text>R</text>
 </LM>
 <LM type="Other">
-<text>Rozdělit na dva segmenty (tečku zvlášť)</text>
+<text>2v1: R .</text>
 </LM>
 </comment>
 </m>
@@ -2457,6 +2457,11 @@
 <form_change>num_normalization</form_change>
 <form>62875</form>
 <tag lemma="62875" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>62.875</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0317-001-p1s6W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2465,15 +2470,10 @@
 </w.rf>
 <form>dolaru</form>
 <tag>
-<AM lemma="dolar" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="dolar" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="dolar" src="auto">NNIS3-----A----</AM>
 <AM lemma="dolar" src="auto">NNIS6-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>dolarech</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0317-001-p1s6W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2542,6 +2542,11 @@
 <form_change>num_normalization</form_change>
 <form>20125</form>
 <tag lemma="20125" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>20.125</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0317-001-p1s6W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2550,15 +2555,10 @@
 </w.rf>
 <form>dolaru</form>
 <tag>
-<AM lemma="dolar" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="dolar" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="dolar" src="auto">NNIS3-----A----</AM>
 <AM lemma="dolar" src="auto">NNIS6-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>dolarů</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0317-001-p1s6W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2848,6 +2848,11 @@
 <form_change>num_normalization</form_change>
 <form>50875</form>
 <tag lemma="50875" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>50.875</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0317-001-p1s7W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2856,15 +2861,10 @@
 </w.rf>
 <form>dolaru</form>
 <tag>
-<AM lemma="dolar" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="dolar" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="dolar" src="auto">NNIS3-----A----</AM>
 <AM lemma="dolar" src="auto">NNIS6-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>dolarů</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0317-001-p1s7W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -16157,12 +16157,10 @@
 <LM>w#w-wsj0317-001-p1s52W20</LM>
 </w.rf>
 <form>nízko</form>
-<tag lemma="nízko-1" src="auto" recommended="1">Dg-------1A----</tag>
-<comment>
-<LM type="Other">
-<text>spojit "nízko" a "nákladové" do jednoho slova</text>
-</LM>
-</comment>
+<tag>
+<AM lemma="nízko-1" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="nízko-2" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m-wsj0317-001-p1s52W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -16666,6 +16664,11 @@
 <form_change>num_normalization</form_change>
 <form>27875</form>
 <tag lemma="27875" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>27.875</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0317-001-p1s53W39-Ta">
 <src.rf>tagger-a</src.rf>
@@ -16674,15 +16677,10 @@
 </w.rf>
 <form>dolaru</form>
 <tag>
-<AM lemma="dolar" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="dolar" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="dolar" src="auto">NNIS3-----A----</AM>
 <AM lemma="dolar" src="auto">NNIS6-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>dolarů</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0317-001-p1s53W40-Ta">
 <src.rf>tagger-a</src.rf>
@@ -16764,6 +16762,11 @@
 <form_change>num_normalization</form_change>
 <form>2375</form>
 <tag lemma="2375" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>2.375</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0317-001-p1s53W47-Ta">
 <src.rf>tagger-a</src.rf>
@@ -16772,15 +16775,10 @@
 </w.rf>
 <form>dolaru</form>
 <tag>
-<AM lemma="dolar" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="dolar" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="dolar" src="auto">NNIS3-----A----</AM>
 <AM lemma="dolar" src="auto">NNIS6-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>dolarů</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0317-001-p1s53W48-Ta">
 <src.rf>tagger-a</src.rf>

@@ -3354,12 +3354,10 @@
 <LM>w#w-wsj0461-001-p1s10W7</LM>
 </w.rf>
 <form>Massachussetts</form>
-<tag lemma="Massachussetts" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Massachusetts</text>
-</LM>
-</comment>
+<tag>
+<AM lemma="Massachussetts" src="auto">X@-------------</AM>
+<AM lemma="Massachussetts_;G_,h_^(^GC**Massachusetts)" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0461-001-p1s10W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4032,11 +4030,14 @@
 <form>60denního</form>
 <tag>
 <AM lemma="60denního" src="auto">X@-------------</AM>
-<AM lemma="60denní" src="manual" selected="1">AANS2----1A----</AM>
+<AM lemma="60denní" src="manual">AANS2----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 60 denního</text>
+</LM>
+<LM type="New Form">
+<text>60</text>
 </LM>
 </comment>
 </m>

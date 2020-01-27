@@ -8311,11 +8311,14 @@
 <form>400denní</form>
 <tag>
 <AM lemma="400denní" src="auto">X@-------------</AM>
-<AM lemma="400denní" src="manual" selected="1">AAIS4----1A----</AM>
+<AM lemma="400denní" src="manual">AAIS4----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 400 denní</text>
+</LM>
+<LM type="New Form">
+<text>400</text>
 </LM>
 </comment>
 </m>

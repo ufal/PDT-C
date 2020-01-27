@@ -8087,8 +8087,8 @@
 <form>?</form>
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 <comment>
-<LM type="Other">
-<text>zřejmě špatný znak</text>
+<LM type="New Form">
+<text>-</text>
 </LM>
 </comment>
 </m>
@@ -8180,7 +8180,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>navíc</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>
@@ -11382,11 +11382,14 @@
 <form>2palcové</form>
 <tag>
 <AM lemma="2palcové" src="auto">X@-------------</AM>
-<AM lemma="2palcové" src="manual" selected="1">AAFP4----1A----</AM>
+<AM lemma="2palcové" src="manual">AAFP4----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 2 palcové</text>
+</LM>
+<LM type="New Form">
+<text>2</text>
 </LM>
 </comment>
 </m>
@@ -11635,11 +11638,14 @@
 <form>2palcové</form>
 <tag>
 <AM lemma="2palcové" src="auto">X@-------------</AM>
-<AM lemma="2palcové" src="manual" selected="1">AAFP1----1A----</AM>
+<AM lemma="2palcové" src="manual">AAFP1----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 2 palcové</text>
+</LM>
+<LM type="New Form">
+<text>2</text>
 </LM>
 </comment>
 </m>
@@ -13293,11 +13299,14 @@
 <form>2palcovou</form>
 <tag>
 <AM lemma="2palcovou" src="auto">X@-------------</AM>
-<AM lemma="2palcovou" src="manual" selected="1">AAFS4----1A----</AM>
+<AM lemma="2palcovou" src="manual">AAFS4----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 2 palcovou</text>
+</LM>
+<LM type="New Form">
+<text>2</text>
 </LM>
 </comment>
 </m>

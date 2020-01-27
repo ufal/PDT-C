@@ -7531,11 +7531,14 @@
 <form>20hodinová</form>
 <tag>
 <AM lemma="20hodinová" src="auto">X@-------------</AM>
-<AM lemma="20hodinový" src="manual" selected="1">AAFS1----1A----</AM>
+<AM lemma="20hodinový" src="manual">AAFS1----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 20 hodinová</text>
+</LM>
+<LM type="New Form">
+<text>20</text>
 </LM>
 </comment>
 </m>
@@ -8212,11 +8215,14 @@
 <form>20hodinových</form>
 <tag>
 <AM lemma="20hodinových" src="auto">X@-------------</AM>
-<AM lemma="20hodinový" src="manual" selected="1">AAFS6----1A----</AM>
+<AM lemma="20hodinový" src="manual">AAFS6----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 20 hodinových</text>
+</LM>
+<LM type="New Form">
+<text>20</text>
 </LM>
 </comment>
 </m>

@@ -2602,11 +2602,14 @@
 <form>52týdenního</form>
 <tag>
 <AM lemma="52týdenního" src="auto">X@-------------</AM>
-<AM lemma="52týdenní" src="manual" selected="1">AANS2----1A----</AM>
+<AM lemma="52týdenní" src="manual">AANS2----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 52 týdenního</text>
+</LM>
+<LM type="New Form">
+<text>52</text>
 </LM>
 </comment>
 </m>
@@ -4713,6 +4716,11 @@
 </w.rf>
 <form>12</form>
 <tag lemma="12" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="Other">
+<text>1v2: >12.5</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2376-001-p1s24W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4721,6 +4729,11 @@
 </w.rf>
 <form>,</form>
 <tag lemma="," src="auto" recommended="1">Z:-------------</tag>
+<comment>
+<LM type="Other">
+<text>1v2: &lt;12.5</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2376-001-p1s24W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4730,11 +4743,11 @@
 <form>5násobek</form>
 <tag>
 <AM lemma="5násobek" src="auto">X@-------------</AM>
-<AM lemma="5násobek" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="5násobek" src="manual">NNIS4-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
+<LM type="New Form">
+<text>násobek</text>
 </LM>
 </comment>
 </m>
@@ -10349,7 +10362,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>chybná věta, "se" je tu navíc</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>

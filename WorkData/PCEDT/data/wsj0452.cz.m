@@ -8291,11 +8291,6 @@
 </w.rf>
 <form>.</form>
 <tag lemma="." src="auto" recommended="1">Z:-------------</tag>
-<comment>
-<LM type="Other">
-<text>doplnit konec závorky</text>
-</LM>
-</comment>
 </m>
 </s>
 </mdata>

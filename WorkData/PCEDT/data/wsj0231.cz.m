@@ -9241,11 +9241,6 @@
 <AM lemma="začátek" src="auto" recommended="1">NNIS7-----A----</AM>
 <AM lemma="začátkem" src="auto">RR--2----------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nedokončená věta</text>
-</LM>
-</comment>
 </m>
 </s>
 <s id="m-wsj0231-001-p1s39">

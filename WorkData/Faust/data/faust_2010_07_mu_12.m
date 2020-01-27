@@ -1912,11 +1912,14 @@
 <form>Tádžmahál</form>
 <tag>
 <AM lemma="Tádžmahál">X@-------------</AM>
-<AM lemma="Tádžmahál_;G" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Tádžmahál_;G" src="manual">NNIS1-----A----</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>Tádž</text>
+</LM>
 <LM type="Other">
-<text>správně se píše zvlášť</text>
+<text>2v1: Tádž Mahal</text>
 </LM>
 </comment>
 </m>

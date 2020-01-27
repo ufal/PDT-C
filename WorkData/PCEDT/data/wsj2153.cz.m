@@ -9012,6 +9012,9 @@
 <LM type="New Form">
 <text>koupit</text>
 </LM>
+<LM type="Other">
+<text>2v1: koupit '</text>
+</LM>
 </comment>
 </m>
 <m id="m-wsj2153-001-p1s35W16-Ta">
@@ -9448,11 +9451,14 @@
 <form>Corp.ve</form>
 <tag>
 <AM lemma="Corp.ve" src="auto">X@-------------</AM>
-<AM lemma="Corp.ve-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Corp.ve-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>rozdělit na 3 segmenty</text>
+<text>3v1: Corp . ve</text>
+</LM>
+<LM type="New Form">
+<text>Corp</text>
 </LM>
 </comment>
 </m>

@@ -11437,7 +11437,7 @@
 <AM lemma="další" src="auto">AAFS4----1A----</AM>
 <AM lemma="další" src="auto">AAFS5----1A----</AM>
 <AM lemma="další" src="auto">AAFS6----1A----</AM>
-<AM lemma="další" src="auto" recommended="1">AAFS7----1A----</AM>
+<AM lemma="další" src="auto" recommended="1" selected="1">AAFS7----1A----</AM>
 <AM lemma="další" src="auto">AAIP1----1A----</AM>
 <AM lemma="další" src="auto">AAIP4----1A----</AM>
 <AM lemma="další" src="auto">AAIP5----1A----</AM>
@@ -11456,11 +11456,6 @@
 <AM lemma="další" src="auto">AANS4----1A----</AM>
 <AM lemma="další" src="auto">AANS5----1A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Další</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0944-001-p1s40W2-Ta">
 <src.rf>tagger-a</src.rf>

@@ -21,6 +21,9 @@
 <LM type="New Form">
 <text>R</text>
 </LM>
+<LM type="Other">
+<text>2v1: R .</text>
+</LM>
 </comment>
 </m>
 <m id="m-wsj0109-001-p1s0W2-Ta">
@@ -761,6 +764,9 @@
 <comment>
 <LM type="New Form">
 <text>L</text>
+</LM>
+<LM type="Other">
+<text>2v1: L . </text>
 </LM>
 </comment>
 </m>

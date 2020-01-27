@@ -736,11 +736,14 @@
 <form>30denním</form>
 <tag>
 <AM lemma="30denním" src="auto">X@-------------</AM>
-<AM lemma="30denní" src="manual" selected="1">AAIS7----1A----</AM>
+<AM lemma="30denní" src="manual">AAIS7----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 30 denním</text>
+</LM>
+<LM type="New Form">
+<text>30</text>
 </LM>
 </comment>
 </m>
@@ -1010,11 +1013,14 @@
 <tag>
 <AM lemma="300denním" src="auto">X@-------------</AM>
 <AM lemma="300denním" src="manual">AAIS7----1A----</AM>
-<AM lemma="300denní" src="manual" selected="1">AAIS7----1A----</AM>
+<AM lemma="300denní" src="manual">AAIS7----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 300 denním</text>
+</LM>
+<LM type="New Form">
+<text>300</text>
 </LM>
 </comment>
 </m>

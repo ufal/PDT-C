@@ -5022,15 +5022,10 @@
 </w.rf>
 <form>kanalizaci</form>
 <tag>
-<AM lemma="kanalizace" src="auto">NNFS3-----A----</AM>
+<AM lemma="kanalizace" src="auto" selected="1">NNFS3-----A----</AM>
 <AM lemma="kanalizace" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="kanalizace" src="auto">NNFS6-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>kanalizací</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1125-001-p1s18W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7017,9 +7012,6 @@
 <comment>
 <LM type="New Form">
 <text>Vezměte</text>
-</LM>
-<LM type="Other">
-<text>špatná tokenizace, nutno rozdělit</text>
 </LM>
 </comment>
 </m>

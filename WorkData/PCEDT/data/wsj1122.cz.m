@@ -5317,11 +5317,14 @@
 <form>15akrovou</form>
 <tag>
 <AM lemma="15akrovou" src="auto">X@-------------</AM>
-<AM lemma="15akrový" src="manual" selected="1">AAFS4----1A----</AM>
+<AM lemma="15akrový" src="manual">AAFS4----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 15 akrovou</text>
+</LM>
+<LM type="New Form">
+<text>15</text>
 </LM>
 </comment>
 </m>
@@ -5923,11 +5926,14 @@
 <form>15akrovým</form>
 <tag>
 <AM lemma="15akrovým" src="auto">X@-------------</AM>
-<AM lemma="15akrový" src="manual" selected="1">AAIS7----1A----</AM>
+<AM lemma="15akrový" src="manual">AAIS7----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 15 akrovým</text>
+</LM>
+<LM type="New Form">
+<text>15</text>
 </LM>
 </comment>
 </m>

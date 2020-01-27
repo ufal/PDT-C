@@ -5891,13 +5891,8 @@
 <form>Muslimů</form>
 <tag>
 <AM lemma="Muslim_;E" src="auto">NNMP2-----A----</AM>
-<AM lemma="muslim" src="auto" recommended="1">NNMP2-----A----</AM>
+<AM lemma="muslim" src="auto" recommended="1" selected="1">NNMP2-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>muslimů</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0174-001-p1s22W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7792,11 +7787,14 @@
 <form>237členném</form>
 <tag>
 <AM lemma="237členném" src="auto">X@-------------</AM>
-<AM lemma="237členný" src="manual" selected="1">AANS6----1A----</AM>
+<AM lemma="237členný" src="manual">AANS6----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 237 členném</text>
+</LM>
+<LM type="New Form">
+<text>237</text>
 </LM>
 </comment>
 </m>

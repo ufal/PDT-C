@@ -2740,12 +2740,11 @@
 <form>R.</form>
 <tag lemma="R." src="auto">X@-------------</tag>
 <comment>
-<LM type="Other"/>
-<LM type="Other">
-<text>špatná tokenizace</text>
-</LM>
 <LM type="New Form">
 <text>R</text>
+</LM>
+<LM type="Other">
+<text>2v1: R .</text>
 </LM>
 </comment>
 </m>

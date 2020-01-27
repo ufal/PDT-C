@@ -2672,7 +2672,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 101 letou</text>
+</LM>
+<LM type="New Form">
+<text>101</text>
 </LM>
 </comment>
 </m>
@@ -9289,11 +9292,14 @@
 <form>80krát</form>
 <tag>
 <AM lemma="80krát" src="auto">X@-------------</AM>
-<AM lemma="80krát" src="manual" selected="1">Cv-------------</AM>
+<AM lemma="80krát" src="manual">Cv-------------</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>80</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 80 krát</text>
 </LM>
 </comment>
 </m>
@@ -11586,11 +11592,6 @@
 <AM lemma="ča_^(ča-ča)" src="auto">NNFS6-----A---1</AM>
 <AM lemma="či" src="auto" recommended="1">J^-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nedává smysl - opravit na čili?</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj2109-001-p1s37W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12875,8 +12876,11 @@
 <AM lemma="49letý" src="auto">AANS5----1A---6</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>49</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 49 letý</text>
 </LM>
 </comment>
 </m>

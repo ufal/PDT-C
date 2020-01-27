@@ -2000,7 +2000,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>chybná vazba, "se" je tu navíc</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>
@@ -3348,11 +3348,6 @@
 <AM lemma="konec" src="auto">NNIS5-----A----</AM>
 <AM lemma="konec" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>nedokončená věta</text>
-</LM>
-</comment>
 </m>
 </s>
 <s id="m-wsj0472-001-p1s9">
@@ -11613,7 +11608,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 2 letého</text>
+</LM>
+<LM type="New Form">
+<text>2</text>
 </LM>
 </comment>
 </m>

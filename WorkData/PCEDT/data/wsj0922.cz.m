@@ -9483,15 +9483,11 @@
 <form>super</form>
 <tag>
 <AM lemma="super" src="auto">A2--------A----</AM>
-<AM lemma="super" src="auto" selected="1">AAXXX----1A----</AM>
+<AM lemma="super" src="auto">AAXXX----1A----</AM>
 <AM lemma="super-2" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="super-2" src="auto">NNIS4-----A----</AM>
+<AM lemma="super-1" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>Zřejmě nevhodné členění – obvykle se píše dohromady jako „superstát“, nelze přiřadit optimální tag.</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0922-001-p1s27W8-Ta">
 <src.rf>tagger-a</src.rf>

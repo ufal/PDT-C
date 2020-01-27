@@ -1232,11 +1232,14 @@
 <form>10miliardový</form>
 <tag>
 <AM lemma="10miliardový" src="auto">X@-------------</AM>
-<AM lemma="10miliardový" src="manual" selected="1">AAIS4----1A----</AM>
+<AM lemma="10miliardový" src="manual">AAIS4----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 10 miliardový</text>
+</LM>
+<LM type="New Form">
+<text>10</text>
 </LM>
 </comment>
 </m>

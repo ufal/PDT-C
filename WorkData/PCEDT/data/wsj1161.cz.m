@@ -955,7 +955,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 10 letými</text>
+</LM>
+<LM type="New Form">
+<text>10</text>
 </LM>
 </comment>
 </m>
@@ -2637,8 +2640,8 @@
 <form>9275</form>
 <tag lemma="9275" src="auto" recommended="1">C=-------------</tag>
 <comment>
-<LM type="Other">
-<text>nesmyslně vysoké číslo - nechybí tečka? </text>
+<LM type="New Form">
+<text>9.275</text>
 </LM>
 </comment>
 </m>
@@ -2827,7 +2830,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 10 letými</text>
+</LM>
+<LM type="New Form">
+<text>10</text>
 </LM>
 </comment>
 </m>
@@ -4989,7 +4995,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 10 letými</text>
+</LM>
+<LM type="New Form">
+<text>10</text>
 </LM>
 </comment>
 </m>
@@ -6338,7 +6347,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 10 letými</text>
+</LM>
+<LM type="New Form">
+<text>10</text>
 </LM>
 </comment>
 </m>

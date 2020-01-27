@@ -8645,6 +8645,11 @@
 <AM lemma="v-1" src="auto" recommended="1">RV--4----------</AM>
 <AM lemma="v-1" src="auto" selected="1">RV--6----------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>1v2: >vestoje</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1778-001-p1s68W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8662,7 +8667,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>správně by mělo být vestoje</text>
+<text>1v2: &lt;vestoje</text>
 </LM>
 </comment>
 </m>

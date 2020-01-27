@@ -408,7 +408,7 @@
 <text>O</text>
 </LM>
 <LM type="Other">
-<text>nutno rozdělit</text>
+<text>3v1: O ' Donnell</text>
 </LM>
 </comment>
 </m>
@@ -727,15 +727,10 @@
 <tag>
 <AM lemma="Listopad_;S" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Listopad_;S" src="auto">NNMS6-----A---1</AM>
-<AM lemma="listopad" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="listopad" src="auto" recommended="1" selected="1">NNIS2-----A----</AM>
 <AM lemma="listopad" src="auto">NNIS3-----A----</AM>
 <AM lemma="listopad" src="auto">NNIS6-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>listopadu</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1763-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>

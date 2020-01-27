@@ -1475,7 +1475,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>je tu navíc slovo (dvakrát "si")</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>

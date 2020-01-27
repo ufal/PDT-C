@@ -367,7 +367,7 @@
 <text>ve</text>
 </LM>
 <LM type="Other">
-<text>nutno rozdělit na dva uzly</text>
+<text>2v1: ve Wisconsinu</text>
 </LM>
 </comment>
 </m>

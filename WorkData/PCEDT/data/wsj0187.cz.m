@@ -3384,12 +3384,10 @@
 <LM>w#w-wsj0187-001-p1s11W1</LM>
 </w.rf>
 <form>Konkursové</form>
-<tag lemma="Konkursové" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Konkurzové</text>
-</LM>
-</comment>
+<tag>
+<AM lemma="Konkursové" src="auto">X@-------------</AM>
+<AM lemma="konkursový_,s_^(^DD**konkurzový)" src="manual" selected="1">AANS1----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj0187-001-p1s11W2-Ta">
 <src.rf>tagger-a</src.rf>

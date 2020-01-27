@@ -1521,11 +1521,11 @@
 <form>Způlky</form>
 <tag lemma="Způlky">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace, rozdělit</text>
-</LM>
 <LM type="New Form">
 <text>Z</text>
+</LM>
+<LM type="Other">
+<text>2v1: Z půlky</text>
 </LM>
 </comment>
 </m>

@@ -2667,16 +2667,11 @@
 <form>v</form>
 <tag>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
-<AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
+<AM lemma="v-1" src="auto" recommended="1" selected="1">RR--6----------</AM>
 <AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>.</text>
-</LM>
-</comment>
 </m>
 </s>
 <s id="m-wsj2093-001-p1s9">

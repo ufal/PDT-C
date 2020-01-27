@@ -7360,7 +7360,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>to slovo je tu navíc, nejspíš chyba</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>

@@ -8978,11 +8978,6 @@
 </w.rf>
 <form>proti</form>
 <tag lemma="proti-1" src="auto" recommended="1">RR--3----------</tag>
-<comment>
-<LM type="Other">
-<text>nedokončená věta</text>
-</LM>
-</comment>
 </m>
 </s>
 <s id="m-wsj1022-001-p1s26">

@@ -1406,11 +1406,14 @@
 <form>40miliardový</form>
 <tag>
 <AM lemma="40miliardový" src="auto">X@-------------</AM>
-<AM lemma="40miliardový" src="manual" selected="1">AAIS1----1A----</AM>
+<AM lemma="40miliardový" src="manual">AAIS1----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 40 miliardový</text>
+</LM>
+<LM type="New Form">
+<text>40</text>
 </LM>
 </comment>
 </m>
@@ -2311,12 +2314,10 @@
 <LM>w#w-wsj1809-001-p1s9W9</LM>
 </w.rf>
 <form>Massachussetts</form>
-<tag lemma="Massachussetts" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Massachusetts</text>
-</LM>
-</comment>
+<tag>
+<AM lemma="Massachussetts" src="auto">X@-------------</AM>
+<AM lemma="Massachussetts_;G_,h_^(^GC**Massachusetts)" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1809-001-p1s9W10-Ta">
 <src.rf>tagger-a</src.rf>

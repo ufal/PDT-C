@@ -12544,7 +12544,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>odstranit "se"</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>
@@ -14140,11 +14140,14 @@
 <form>14bodovém</form>
 <tag>
 <AM lemma="14bodovém" src="auto">X@-------------</AM>
-<AM lemma="14bodový" src="manual" selected="1">AANS6----1A----</AM>
+<AM lemma="14bodový" src="manual">AANS6----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>rozdělit na dvě slova: "14" a "bodovém"</text>
+<text>2v1: 14 bodovém</text>
+</LM>
+<LM type="New Form">
+<text>14</text>
 </LM>
 </comment>
 </m>

@@ -3663,7 +3663,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>vymazat "se", je ve větě navíc</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>

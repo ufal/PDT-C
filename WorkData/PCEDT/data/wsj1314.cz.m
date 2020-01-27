@@ -3531,7 +3531,7 @@
 <text>válek</text>
 </LM>
 <LM type="Other">
-<text>nutno rozdělit</text>
+<text>2v1: válek '</text>
 </LM>
 </comment>
 </m>
@@ -6809,11 +6809,14 @@
 <form>Poor´s</form>
 <tag>
 <AM lemma="Poor´s" src="auto">X@-------------</AM>
-<AM lemma="Poor´s-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Poor´s-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>Poor</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Poor ´ s</text>
 </LM>
 </comment>
 </m>

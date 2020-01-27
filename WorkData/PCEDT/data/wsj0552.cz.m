@@ -4162,12 +4162,10 @@
 <LM>w#w-wsj0552-001-p1s15W20</LM>
 </w.rf>
 <form>Amsterdamsko</form>
-<tag lemma="Amsterdamsko" src="auto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>amsterdamsko</text>
-</LM>
-</comment>
+<tag>
+<AM lemma="Amsterdamsko" src="auto">X@-------------</AM>
+<AM lemma="amsterdamsko" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m-wsj0552-001-p1s15W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4189,7 +4187,7 @@
 <AM lemma="rotterdamský" src="auto">AAFP5----1A----</AM>
 <AM lemma="rotterdamský" src="auto">AAFS2----1A----</AM>
 <AM lemma="rotterdamský" src="auto">AAFS3----1A----</AM>
-<AM lemma="rotterdamský" src="auto" recommended="1">AAFS6----1A----</AM>
+<AM lemma="rotterdamský" src="auto" recommended="1" selected="1">AAFS6----1A----</AM>
 <AM lemma="rotterdamský" src="auto">AAIP1----1A----</AM>
 <AM lemma="rotterdamský" src="auto">AAIP4----1A----</AM>
 <AM lemma="rotterdamský" src="auto">AAIP5----1A----</AM>
@@ -4198,11 +4196,6 @@
 <AM lemma="rotterdamský" src="auto">AANS4----1A----</AM>
 <AM lemma="rotterdamský" src="auto">AANS5----1A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>rotterdamské</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0552-001-p1s15W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9790,7 +9783,7 @@
 <AM lemma="výnosný" src="auto">AAIP1----1A---6</AM>
 <AM lemma="výnosný" src="auto">AAIP4----1A---6</AM>
 <AM lemma="výnosný" src="auto">AAIP5----1A---6</AM>
-<AM lemma="výnosný" src="auto">AAIS1----1A----</AM>
+<AM lemma="výnosný" src="auto" selected="1">AAIS1----1A----</AM>
 <AM lemma="výnosný" src="auto" recommended="1">AAIS4----1A----</AM>
 <AM lemma="výnosný" src="auto">AAIS5----1A----</AM>
 <AM lemma="výnosný" src="auto">AAMP1----1A---6</AM>
@@ -9805,11 +9798,6 @@
 <AM lemma="výnosný" src="auto">AANS4----1A---6</AM>
 <AM lemma="výnosný" src="auto">AANS5----1A---6</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>výnosným</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0552-001-p1s33W27-Ta">
 <src.rf>tagger-a</src.rf>

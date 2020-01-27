@@ -286,11 +286,14 @@
 <form>Pinkerton's</form>
 <tag>
 <AM lemma="Pinkerton's" src="auto">X@-------------</AM>
-<AM lemma="Pinkerton's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>Pinkerton</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Pinkerton ' s</text>
 </LM>
 </comment>
 </m>
@@ -693,11 +696,14 @@
 <form>Pinkerton's</form>
 <tag>
 <AM lemma="Pinkerton's" src="auto">X@-------------</AM>
-<AM lemma="Pinkerton's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Pinkerton ' s</text>
+</LM>
+<LM type="New Form">
+<text>Pinkerton</text>
 </LM>
 </comment>
 </m>
@@ -3729,11 +3735,14 @@
 <form>Pinkerton's</form>
 <tag>
 <AM lemma="Pinkerton's" src="auto">X@-------------</AM>
-<AM lemma="Pinkerton's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Pinkerton ' s</text>
+</LM>
+<LM type="New Form">
+<text>Pinkerton</text>
 </LM>
 </comment>
 </m>
@@ -4209,11 +4218,14 @@
 <form>Pinkerton's</form>
 <tag>
 <AM lemma="Pinkerton's" src="auto">X@-------------</AM>
-<AM lemma="Pinkerton's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Pinkerton ' s</text>
+</LM>
+<LM type="New Form">
+<text>Pinkerton</text>
 </LM>
 </comment>
 </m>
@@ -4525,11 +4537,14 @@
 <form>Pinkerton's</form>
 <tag>
 <AM lemma="Pinkerton's" src="auto">X@-------------</AM>
-<AM lemma="Pinkerton's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Pinkerton ' s</text>
+</LM>
+<LM type="New Form">
+<text>Pinkerton</text>
 </LM>
 </comment>
 </m>
@@ -5113,11 +5128,14 @@
 <form>Pinkerton's</form>
 <tag>
 <AM lemma="Pinkerton's" src="auto">X@-------------</AM>
-<AM lemma="Pinkerton's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Pinkerton ' s</text>
+</LM>
+<LM type="New Form">
+<text>Pinkerton</text>
 </LM>
 </comment>
 </m>
@@ -6712,11 +6730,14 @@
 <form>Pinkerton's</form>
 <tag>
 <AM lemma="Pinkerton's" src="auto">X@-------------</AM>
-<AM lemma="Pinkerton's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>Pinkerton</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Pinkerton ' s</text>
 </LM>
 </comment>
 </m>
@@ -6774,7 +6795,8 @@
 <form>nízko</form>
 <tag>
 <AM lemma="nízko-1" src="auto" recommended="1">Dg-------1A----</AM>
-<AM lemma="nízko-2" src="manual" selected="1">A2--------A----</AM>
+<AM lemma="nízko-2" src="manual">A2--------A----</AM>
+<AM lemma="nízko-2" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-wsj0305-001-p1s23W8-Ta">
@@ -7693,11 +7715,14 @@
 <form>Pinkerton's</form>
 <tag>
 <AM lemma="Pinkerton's" src="auto">X@-------------</AM>
-<AM lemma="Pinkerton's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Pinkerton ' s</text>
+</LM>
+<LM type="New Form">
+<text>Pinkerton</text>
 </LM>
 </comment>
 </m>
@@ -8132,11 +8157,14 @@
 <form>Pinkerton's</form>
 <tag>
 <AM lemma="Pinkerton's" src="auto">X@-------------</AM>
-<AM lemma="Pinkerton's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Pinkerton ' s</text>
+</LM>
+<LM type="New Form">
+<text>Pinkerton</text>
 </LM>
 </comment>
 </m>
@@ -8338,11 +8366,14 @@
 <form>Pinkerton's</form>
 <tag>
 <AM lemma="Pinkerton's" src="auto">X@-------------</AM>
-<AM lemma="Pinkerton's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Pinkerton ' s</text>
+</LM>
+<LM type="New Form">
+<text>Pinkerton</text>
 </LM>
 </comment>
 </m>
@@ -8638,7 +8669,10 @@
 <tag lemma="-3" src="auto" recommended="1">C=-------------</tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: - 3</text>
+</LM>
+<LM type="New Form">
+<text>-</text>
 </LM>
 </comment>
 </m>
@@ -8878,11 +8912,14 @@
 <form>Pinkerton's</form>
 <tag>
 <AM lemma="Pinkerton's" src="auto">X@-------------</AM>
-<AM lemma="Pinkerton's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Pinkerton ' s</text>
+</LM>
+<LM type="New Form">
+<text>Pinkerton</text>
 </LM>
 </comment>
 </m>
@@ -9590,11 +9627,14 @@
 <form>Pinkerton's</form>
 <tag>
 <AM lemma="Pinkerton's" src="auto">X@-------------</AM>
-<AM lemma="Pinkerton's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Pinkerton ' s</text>
+</LM>
+<LM type="New Form">
+<text>Pinkerton</text>
 </LM>
 </comment>
 </m>
@@ -9824,11 +9864,14 @@
 <form>Pinkerton's</form>
 <tag>
 <AM lemma="Pinkerton's" src="auto">X@-------------</AM>
-<AM lemma="Pinkerton's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>Pinkerton</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Pinkerton ' s</text>
 </LM>
 </comment>
 </m>
@@ -10349,11 +10392,14 @@
 <form>Pinkerton's</form>
 <tag>
 <AM lemma="Pinkerton's" src="auto">X@-------------</AM>
-<AM lemma="Pinkerton's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Pinkerton ' s</text>
+</LM>
+<LM type="New Form">
+<text>Pinkerton</text>
 </LM>
 </comment>
 </m>
@@ -10548,11 +10594,14 @@
 <form>Pinkerton's</form>
 <tag>
 <AM lemma="Pinkerton's" src="auto">X@-------------</AM>
-<AM lemma="Pinkerton's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Pinkerton ' s</text>
+</LM>
+<LM type="New Form">
+<text>Pinkerton</text>
 </LM>
 </comment>
 </m>
@@ -11033,11 +11082,14 @@
 <form>Pinkerton's</form>
 <tag>
 <AM lemma="Pinkerton's" src="auto">X@-------------</AM>
-<AM lemma="Pinkerton's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Pinkerton ' s</text>
+</LM>
+<LM type="New Form">
+<text>Pinkerton</text>
 </LM>
 </comment>
 </m>
@@ -11565,11 +11617,14 @@
 <form>Pinkerton's</form>
 <tag>
 <AM lemma="Pinkerton's" src="auto">X@-------------</AM>
-<AM lemma="Pinkerton's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Pinkerton ' s</text>
+</LM>
+<LM type="New Form">
+<text>Pinkerton</text>
 </LM>
 </comment>
 </m>
@@ -12267,11 +12322,14 @@
 <form>Pinkerton's</form>
 <tag>
 <AM lemma="Pinkerton's" src="auto">X@-------------</AM>
-<AM lemma="Pinkerton's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Pinkerton ' s</text>
+</LM>
+<LM type="New Form">
+<text>Pinkerton</text>
 </LM>
 </comment>
 </m>
@@ -12504,11 +12562,14 @@
 <form>Pinkerton's</form>
 <tag>
 <AM lemma="Pinkerton's" src="auto">X@-------------</AM>
-<AM lemma="Pinkerton's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>Pinkerton</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Pinkerton ' s</text>
 </LM>
 </comment>
 </m>
@@ -12659,11 +12720,14 @@
 <form>Pinkerton's</form>
 <tag>
 <AM lemma="Pinkerton's" src="auto">X@-------------</AM>
-<AM lemma="Pinkerton's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Pinkerton ' s</text>
+</LM>
+<LM type="New Form">
+<text>Pinkerton</text>
 </LM>
 </comment>
 </m>
@@ -12954,11 +13018,14 @@
 <form>Pinkerton's</form>
 <tag>
 <AM lemma="Pinkerton's" src="auto">X@-------------</AM>
-<AM lemma="Pinkerton's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Pinkerton ' s</text>
+</LM>
+<LM type="New Form">
+<text>Pinkerton</text>
 </LM>
 </comment>
 </m>
@@ -14233,11 +14300,14 @@
 <form>Pinkerton's</form>
 <tag>
 <AM lemma="Pinkerton's" src="auto">X@-------------</AM>
-<AM lemma="Pinkerton's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Pinkerton ' s</text>
+</LM>
+<LM type="New Form">
+<text>Pinkerton</text>
 </LM>
 </comment>
 </m>
@@ -14749,11 +14819,14 @@
 <form>Pinkerton's</form>
 <tag>
 <AM lemma="Pinkerton's" src="auto">X@-------------</AM>
-<AM lemma="Pinkerton's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Pinkerton ' s</text>
+</LM>
+<LM type="New Form">
+<text>Pinkerton</text>
 </LM>
 </comment>
 </m>
@@ -15240,11 +15313,14 @@
 <form>Pinkerton's</form>
 <tag>
 <AM lemma="Pinkerton's" src="auto">X@-------------</AM>
-<AM lemma="Pinkerton's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Pinkerton ' s</text>
+</LM>
+<LM type="New Form">
+<text>Pinkerton</text>
 </LM>
 </comment>
 </m>

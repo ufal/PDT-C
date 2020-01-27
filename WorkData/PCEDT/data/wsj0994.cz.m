@@ -4063,11 +4063,14 @@
 <form>117akrového</form>
 <tag>
 <AM lemma="117akrového" src="auto">X@-------------</AM>
-<AM lemma="117akrový" src="manual" selected="1">AAIS2----1A----</AM>
+<AM lemma="117akrový" src="manual">AAIS2----1A----</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>117</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 117 akrového</text>
 </LM>
 </comment>
 </m>

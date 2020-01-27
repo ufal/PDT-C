@@ -12336,11 +12336,14 @@
 <form>37hodinový</form>
 <tag>
 <AM lemma="37hodinový" src="auto">X@-------------</AM>
-<AM lemma="37hodinový" src="manual" selected="1">AAIS4----1A----</AM>
+<AM lemma="37hodinový" src="manual">AAIS4----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 37 hodinový</text>
+</LM>
+<LM type="New Form">
+<text>37</text>
 </LM>
 </comment>
 </m>

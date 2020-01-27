@@ -5158,12 +5158,7 @@
 <LM>w#w-wsj1397-001-p1s20W5</LM>
 </w.rf>
 <form>Neochraňoval</form>
-<tag lemma="ochraňovat" src="auto" recommended="1">VpYS---XR-NAI--</tag>
-<comment>
-<LM type="New Form">
-<text>neochraňoval</text>
-</LM>
-</comment>
+<tag lemma="ochraňovat" src="auto" recommended="1" selected="1">VpYS---XR-NAI--</tag>
 </m>
 <m id="m-wsj1397-001-p1s20W6-Ta">
 <src.rf>tagger-a</src.rf>

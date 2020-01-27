@@ -2068,7 +2068,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 77 letý</text>
+</LM>
+<LM type="New Form">
+<text>77</text>
 </LM>
 </comment>
 </m>
@@ -2279,11 +2282,14 @@
 <form>163členného</form>
 <tag>
 <AM lemma="163členného" src="auto">X@-------------</AM>
-<AM lemma="163členný" src="manual" selected="1">AAIS2----1A----</AM>
+<AM lemma="163členný" src="manual">AAIS2----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 163 členného</text>
+</LM>
+<LM type="New Form">
+<text>163</text>
 </LM>
 </comment>
 </m>
@@ -2861,7 +2867,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 52 letý</text>
+</LM>
+<LM type="New Form">
+<text>52</text>
 </LM>
 </comment>
 </m>
@@ -4030,7 +4039,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 21 člennou</text>
+</LM>
+<LM type="New Form">
+<text>21</text>
 </LM>
 </comment>
 </m>
@@ -9516,14 +9528,9 @@
 </w.rf>
 <form>Muslimů</form>
 <tag>
-<AM lemma="Muslim_;E" src="auto">NNMP2-----A----</AM>
+<AM lemma="Muslim_;E" src="auto" selected="1">NNMP2-----A----</AM>
 <AM lemma="muslim" src="auto" recommended="1">NNMP2-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>muslimů</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1924-001-p1s32W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9867,11 +9874,14 @@
 <form>72hodinové</form>
 <tag>
 <AM lemma="72hodinové" src="auto">X@-------------</AM>
-<AM lemma="72hodinový" src="manual" selected="1">AAFS2----1A----</AM>
+<AM lemma="72hodinový" src="manual">AAFS2----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 72 hodinové</text>
+</LM>
+<LM type="New Form">
+<text>72</text>
 </LM>
 </comment>
 </m>

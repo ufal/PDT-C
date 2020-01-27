@@ -13600,11 +13600,14 @@
 <form>77B</form>
 <tag>
 <AM lemma="77B" src="auto">X@-------------</AM>
-<AM lemma="77B-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="77B-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná segmentace</text>
+<text>2v1: 77 B</text>
+</LM>
+<LM type="New Form">
+<text>77</text>
 </LM>
 </comment>
 </m>

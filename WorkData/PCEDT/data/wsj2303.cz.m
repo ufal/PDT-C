@@ -538,11 +538,14 @@
 <form>409milionová</form>
 <tag>
 <AM lemma="409milionová" src="auto">X@-------------</AM>
-<AM lemma="409milionový_,s_^(^DD**409miliónový)" src="manual" selected="1">AAFS1----1A----</AM>
+<AM lemma="409milionový_,s_^(^DD**409miliónový)" src="manual">AAFS1----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 409 milionová</text>
+</LM>
+<LM type="New Form">
+<text>409</text>
 </LM>
 </comment>
 </m>
@@ -3103,11 +3106,14 @@
 <form>409milionová</form>
 <tag>
 <AM lemma="409milionová" src="auto">X@-------------</AM>
-<AM lemma="409milionový_,s_^(^DD**409miliónový)" src="manual" selected="1">AAFS1----1A----</AM>
+<AM lemma="409milionový_,s_^(^DD**409miliónový)" src="manual">AAFS1----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 409 milionová</text>
+</LM>
+<LM type="New Form">
+<text>409</text>
 </LM>
 </comment>
 </m>
@@ -4630,11 +4636,11 @@
 <form>20patrová</form>
 <tag>
 <AM lemma="20patrová" src="auto">X@-------------</AM>
-<AM lemma="20patrový" src="manual" selected="1">AAFS1----1A----</AM>
+<AM lemma="20patrový" src="manual">AAFS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
+<LM type="New Form">
+<text>dvacetipatrová</text>
 </LM>
 </comment>
 </m>

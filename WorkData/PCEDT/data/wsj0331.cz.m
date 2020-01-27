@@ -1552,11 +1552,14 @@
 <form>Zell's</form>
 <tag>
 <AM lemma="Zell's" src="auto">X@-------------</AM>
-<AM lemma="Zell's-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Zell's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>Zell</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>3v1: Zell ' s</text>
 </LM>
 </comment>
 </m>

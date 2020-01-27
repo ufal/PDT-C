@@ -1202,7 +1202,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 63 letý</text>
+</LM>
+<LM type="New Form">
+<text>63</text>
 </LM>
 </comment>
 </m>
@@ -2174,7 +2177,10 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 42 letý</text>
+</LM>
+<LM type="New Form">
+<text>42</text>
 </LM>
 </comment>
 </m>
@@ -13358,11 +13364,14 @@
 <form>20týdenní</form>
 <tag>
 <AM lemma="20týdenní" src="auto">X@-------------</AM>
-<AM lemma="20týdenní" src="manual" selected="1">AANS4----1A----</AM>
+<AM lemma="20týdenní" src="manual">AANS4----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 20 týdenní</text>
+</LM>
+<LM type="New Form">
+<text>20</text>
 </LM>
 </comment>
 </m>

@@ -7568,11 +7568,14 @@
 <form>Trim'</form>
 <tag>
 <AM lemma="Trim'" src="auto">X@-------------</AM>
-<AM lemma="Trim'-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Trim'-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>Trim</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: Trim '</text>
 </LM>
 </comment>
 </m>

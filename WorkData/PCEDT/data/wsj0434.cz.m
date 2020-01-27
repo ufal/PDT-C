@@ -1770,7 +1770,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>nadbytečný uzel</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>

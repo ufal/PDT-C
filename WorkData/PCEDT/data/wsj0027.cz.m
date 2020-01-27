@@ -1643,11 +1643,14 @@
 <form>52týdenním</form>
 <tag>
 <AM lemma="52týdenním" src="auto">X@-------------</AM>
-<AM lemma="52týdenní" src="manual" selected="1">AAIS7----1A----</AM>
+<AM lemma="52týdenní" src="manual">AAIS7----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 52 týdenním</text>
+</LM>
+<LM type="New Form">
+<text>52</text>
 </LM>
 </comment>
 </m>

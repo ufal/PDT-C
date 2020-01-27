@@ -2344,11 +2344,14 @@
 <form>28uncových</form>
 <tag>
 <AM lemma="28uncových" src="auto">X@-------------</AM>
-<AM lemma="28uncový" src="manual" selected="1">AAFP2----1A----</AM>
+<AM lemma="28uncový" src="manual">AAFP2----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 28 uncových</text>
+</LM>
+<LM type="New Form">
+<text>28</text>
 </LM>
 </comment>
 </m>
@@ -2414,11 +2417,14 @@
 <form>5uncových</form>
 <tag>
 <AM lemma="5uncových" src="auto">X@-------------</AM>
-<AM lemma="5uncový" src="manual" selected="1">AAFP2----1A----</AM>
+<AM lemma="5uncový" src="manual">AAFP2----1A----</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>5</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 5 uncových</text>
 </LM>
 </comment>
 </m>

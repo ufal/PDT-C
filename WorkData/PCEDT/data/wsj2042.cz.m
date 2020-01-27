@@ -95,11 +95,14 @@
 <form>L.</form>
 <tag>
 <AM lemma="L." src="auto">X@-------------</AM>
-<AM lemma="L.-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="L.-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>L</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: L .</text>
 </LM>
 </comment>
 </m>

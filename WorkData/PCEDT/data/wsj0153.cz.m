@@ -1415,6 +1415,9 @@
 <LM type="New Form">
 <text>tj</text>
 </LM>
+<LM type="Other">
+<text>2v1: tj .</text>
+</LM>
 </comment>
 </m>
 <m id="m-wsj0153-001-p1s3W34-Ta">

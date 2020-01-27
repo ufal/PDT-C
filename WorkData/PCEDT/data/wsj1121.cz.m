@@ -6418,11 +6418,14 @@
 <form>18jamkové</form>
 <tag>
 <AM lemma="18jamkové" src="auto">X@-------------</AM>
-<AM lemma="18jamkový" src="manual" selected="1">AANS1----1A----</AM>
+<AM lemma="18jamkový" src="manual">AANS1----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 18 jamkové</text>
+</LM>
+<LM type="New Form">
+<text>18</text>
 </LM>
 </comment>
 </m>

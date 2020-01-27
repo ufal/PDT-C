@@ -6361,11 +6361,6 @@
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>ve větě je chybná interpunkce</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1055-001-p1s27W5-Ta">
 <src.rf>tagger-a</src.rf>

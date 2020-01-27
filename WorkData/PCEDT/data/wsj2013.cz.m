@@ -4945,7 +4945,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 55 letý</text>
 </LM>
 </comment>
 </m>

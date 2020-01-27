@@ -3328,6 +3328,11 @@
 <AM lemma="vstup" src="auto">NNIS3-----A----</AM>
 <AM lemma="vstup" src="auto">NNIS6-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: vstupu do</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2407-001-p1s9W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3341,11 +3346,6 @@
 <AM lemma="armáda" src="auto">NNFP5-----A----</AM>
 <AM lemma="armáda" src="auto" recommended="1">NNFS2-----A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>pravděpodobně zde chybí předložka "do"</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj2407-001-p1s9W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6615,8 +6615,8 @@
 <AM lemma="18letý" src="auto">AANP5----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace</text>
+<LM type="New Form">
+<text>osmnáctiletá</text>
 </LM>
 </comment>
 </m>

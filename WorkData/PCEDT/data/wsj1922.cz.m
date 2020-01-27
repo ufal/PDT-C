@@ -718,11 +718,11 @@
 <form>10krát</form>
 <tag>
 <AM lemma="10krát" src="auto">X@-------------</AM>
-<AM lemma="10krát" src="manual" selected="1">Db-------------</AM>
+<AM lemma="10krát" src="manual">Db-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace: rozdělit na 10 a krát</text>
+<LM type="New Form">
+<text>desetkrát</text>
 </LM>
 </comment>
 </m>
@@ -746,11 +746,11 @@
 <form>20krát</form>
 <tag>
 <AM lemma="20krát" src="auto">X@-------------</AM>
-<AM lemma="20krát" src="manual" selected="1">Db-------------</AM>
+<AM lemma="20krát" src="manual">Db-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>špatná tokenizace: rozdělit na 20 a krát</text>
+<LM type="New Form">
+<text>dvacetkrát</text>
 </LM>
 </comment>
 </m>

@@ -9118,7 +9118,7 @@
 </w.rf>
 <form>Amerických</form>
 <tag>
-<AM lemma="americký" src="auto" recommended="1">AAFP2----1A----</AM>
+<AM lemma="americký" src="auto" recommended="1" selected="1">AAFP2----1A----</AM>
 <AM lemma="americký" src="auto">AAFP6----1A----</AM>
 <AM lemma="americký" src="auto">AAIP2----1A----</AM>
 <AM lemma="americký" src="auto">AAIP6----1A----</AM>
@@ -9127,11 +9127,6 @@
 <AM lemma="americký" src="auto">AANP2----1A----</AM>
 <AM lemma="americký" src="auto">AANP6----1A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>amerických</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj2346-001-p1s33W23-Ta">
 <src.rf>tagger-a</src.rf>

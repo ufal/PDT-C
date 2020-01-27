@@ -1314,8 +1314,11 @@
 <AM lemma="64letý" src="auto">AANS5----1A---6</AM>
 </tag>
 <comment>
+<LM type="New Form">
+<text>64</text>
+</LM>
 <LM type="Other">
-<text>špatná tokenizace</text>
+<text>2v1: 64 letý</text>
 </LM>
 </comment>
 </m>
