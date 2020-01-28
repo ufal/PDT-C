@@ -370,7 +370,7 @@
 <tag lemma="jako-1" src="auto" recommended="1">J,-------------</tag>
 <comment>
 <LM type="Other">
-<text>1v2: jako kdyby</text>
+<text>2v1: jako kdyby</text>
 </LM>
 </comment>
 </m>

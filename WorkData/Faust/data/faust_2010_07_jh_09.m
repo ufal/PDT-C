@@ -2125,7 +2125,7 @@
 <tag lemma="." recommended="1">Z:-------------</tag>
 <comment>
 <LM type="Other">
-<text>1v2:  &lt;6.96</text>
+<text>1v2: &lt;6.96</text>
 </LM>
 </comment>
 </m>

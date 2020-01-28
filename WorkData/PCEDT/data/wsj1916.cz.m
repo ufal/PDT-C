@@ -1137,7 +1137,7 @@
 <tag lemma="," src="auto" recommended="1">Z:-------------</tag>
 <comment>
 <LM type="Other">
-<text>2v1: &lt;2.5</text>
+<text>1v2: &lt;2.5</text>
 </LM>
 </comment>
 </m>
@@ -2992,7 +2992,7 @@
 <tag lemma="2" src="auto" recommended="1">C=-------------</tag>
 <comment>
 <LM type="Other">
-<text>1v2: 2.5</text>
+<text>1v2: >2.5</text>
 </LM>
 </comment>
 </m>

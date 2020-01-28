@@ -66,7 +66,7 @@
 <text>Inc</text>
 </LM>
 <LM type="Other">
-<text>3v1: Inc .uvedla</text>
+<text>3v1: Inc . uvedla</text>
 </LM>
 </comment>
 </m>

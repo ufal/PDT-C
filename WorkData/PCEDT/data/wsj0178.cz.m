@@ -1153,7 +1153,7 @@
 <text>R</text>
 </LM>
 <LM type="Other">
-<text>2v1. R .</text>
+<text>2v1: R .</text>
 </LM>
 </comment>
 </m>

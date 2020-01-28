@@ -5706,7 +5706,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>3v1: 400 členná</text>
+<text>2v1: 400 členná</text>
 </LM>
 <LM type="New Form">
 <text>400</text>

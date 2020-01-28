@@ -4904,7 +4904,7 @@
 <text>např</text>
 </LM>
 <LM type="Other">
-<text>1v2: např .</text>
+<text>2v1: např .</text>
 </LM>
 </comment>
 </m>

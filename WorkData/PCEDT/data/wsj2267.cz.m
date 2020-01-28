@@ -1010,7 +1010,7 @@
 <text>1</text>
 </LM>
 <LM type="Other">
-<text>3v1: 1. listopadu</text>
+<text>3v1: 1 . listopadu</text>
 </LM>
 </comment>
 </m>
