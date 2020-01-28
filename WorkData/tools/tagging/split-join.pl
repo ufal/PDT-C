@@ -9,13 +9,12 @@ $xpc->registerNs(p => my $ns = 'http://ufal.mff.cuni.cz/pdt/pml/');
 
 
 sub join_nodes {
-    my ($detail, $m, $text, $comment) = @_;
+    my ($number, $detail, $m, $text, $comment) = @_;
 
     my $form = $xpc->findvalue('p:form', $m);
     my $prev_form = $xpc->findvalue('preceding-sibling::p:m[1]/p:form', $m);
-    if ("<$prev_form$form" ne $detail) {
-        warn "'<$prev_form$form' ne '$detail'\n";
-        return
+    if ($number == 2 && "<$prev_form$form" ne $detail) {
+        warn "'<$prev_form$form' ne '$detail' at $m->{id}\n";
     }
 
     my ($prev_m) = $xpc->findnodes('preceding-sibling::p:m[1]', $m);
@@ -24,8 +23,14 @@ sub join_nodes {
     $prev_m->parentNode->removeChild($prev_m);
     $m->parentNode->removeChild(
         $m->findnodes('preceding-sibling::text()[1]'));
-    $comment->{type} = 'New Form';
-    $text->firstChild->setData("$prev_form$form");
+    if ($number > 2) {
+        --$number;
+        $text->firstChild->setData("1v$number: <$detail");
+
+    } else {
+        $comment->{type} = 'New Form';
+        $text->firstChild->setData("$prev_form$form");
+    }
     return 1
 }
 
@@ -36,7 +41,7 @@ sub verify_following {
     my $following_form = $xpc->findvalue(
         'following-sibling::p:m[1]/p:form', $m);
     if (">$form$following_form" ne $detail) {
-        warn "'>$form$following_form' ne '$detail'\n";
+        warn "'>$form$following_form' ne '$detail' at $m->{id}\n";
     }
 }
 
@@ -45,7 +50,7 @@ sub split_words {
     my ($new_count, $old_count, $new_text, $m, $comment, $text) = @_;
     my @words = split ' ', $new_text;
     unless (@words == $new_count) {
-        warn scalar @words, "!= $new_count at $m->{id}\n";
+        warn 'SKIP: ', scalar @words, "!= $new_count at $m->{id}\n";
         return
     }
     if ($old_count > 1) {
@@ -69,6 +74,7 @@ sub split_words {
             warn "Form $words[0] not set $form $m->{id}\n";
             $comment->{type} = 'New Form';
             $text->firstChild->setData($words[0]);
+
         } else {
             $comment->parentNode->removeChild(
                 $comment->findnodes('preceding-sibling::text()[1]'));
@@ -89,6 +95,13 @@ sub split_words {
 }
 
 
+sub delete_node {
+    my ($m) = @_;
+    print $m->{id}, "\n";
+    $m->parentNode->removeChild($m);
+}
+
+
 binmode *STDOUT, ':encoding(UTF-8)';
 binmode *STDERR, ':encoding(UTF-8)';
 
@@ -104,14 +117,14 @@ for my $mfile (@ARGV) {
             my ($text) = $xpc->findnodes('p:text', $comment);
 
             unless ($type eq 'Other') {
-                warn "Invalid type: $type at $m->{id}\n";
+                warn "SKIP: Invalid type: $type at $m->{id}\n";
                 next
             }
-            if ($text->textContent =~ /1v2: ([<>].*)/) {
-                my $detail = $1;
+            if ($text->textContent =~ /1v([0-9]+): ([<>].*)/) {
+                my ($number, $detail) = ($1, $2);
                 if ($detail =~ /^</) {
                     $change = 1
-                        if join_nodes($detail, $m, $text, $comment);
+                        if join_nodes($number, $detail, $m, $text, $comment);
 
                 } elsif ($detail =~ /^>/) {
                     verify_following($m, $detail);
@@ -121,8 +134,13 @@ for my $mfile (@ARGV) {
                 $change = 1 if split_words(
                         $new_count, $old_count, $new_text, $m, $comment, $text);
 
+            } elsif ($text->textContent eq 'delete') {
+                delete_node($m);
+                $change = 1;
+
             } else {
-                warn "Cannot parse\t'" . $text->textContent . "'\n";
+                warn "SKIP: Cannot parse\t'" . $text->textContent
+                    . "' at $m->{id}\n";
             }
         }
     }
