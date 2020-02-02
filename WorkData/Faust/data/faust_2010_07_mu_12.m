@@ -1915,9 +1915,6 @@
 <AM lemma="Tádžmahál_;G" src="manual">NNIS1-----A----</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Tádž</text>
-</LM>
 <LM type="Other">
 <text>2v1: Tádž Mahal</text>
 </LM>

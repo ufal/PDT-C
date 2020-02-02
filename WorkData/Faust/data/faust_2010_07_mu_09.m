@@ -2043,9 +2043,6 @@
 <form>3330kg</form>
 <tag lemma="3330kg">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>3330</text>
-</LM>
 <LM type="Other">
 <text>2v1: 3330 kg</text>
 </LM>
@@ -2091,9 +2088,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: m 3</text>
-</LM>
-<LM type="New Form">
-<text>m</text>
 </LM>
 </comment>
 </m>

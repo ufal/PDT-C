@@ -3581,9 +3581,6 @@
 <LM type="Other">
 <text>2v1: 33 letý</text>
 </LM>
-<LM type="New Form">
-<text>33</text>
-</LM>
 </comment>
 </m>
 <m id="es_09-SCzechM-p0930-s1-w15">

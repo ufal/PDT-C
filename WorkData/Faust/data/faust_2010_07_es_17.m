@@ -1605,9 +1605,6 @@
 <LM type="Other">
 <text>2v1: PT 10</text>
 </LM>
-<LM type="New Form">
-<text>PT</text>
-</LM>
 </comment>
 </m>
 <m id="es_17-SCzechM-p1769-s1-w13">
@@ -1681,9 +1678,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: T 6</text>
-</LM>
-<LM type="New Form">
-<text>T</text>
 </LM>
 </comment>
 </m>

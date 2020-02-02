@@ -4736,9 +4736,6 @@
 <form>znás</form>
 <tag lemma="znás">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>z</text>
-</LM>
 <LM type="Other">
 <text>2v1: z nás</text>
 </LM>

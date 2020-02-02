@@ -1935,9 +1935,6 @@
 <form>0x00000000</form>
 <tag lemma="0x00000000">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>0</text>
-</LM>
 <LM type="Other">
 <text>3v1: 0 x 00000000</text>
 </LM>

@@ -5524,9 +5524,6 @@
 <LM type="Other">
 <text>2v1: m 2</text>
 </LM>
-<LM type="New Form">
-<text>m</text>
-</LM>
 </comment>
 </m>
 <m id="jh_06-SCzechM-p0628-s1-w24">
@@ -5609,9 +5606,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: m 2</text>
-</LM>
-<LM type="New Form">
-<text>m</text>
 </LM>
 </comment>
 </m>

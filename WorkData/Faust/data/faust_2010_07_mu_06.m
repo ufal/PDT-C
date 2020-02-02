@@ -5727,9 +5727,6 @@
 <LM type="Other">
 <text>2v1: m 2</text>
 </LM>
-<LM type="New Form">
-<text>m</text>
-</LM>
 </comment>
 </m>
 <m id="mu_06-SCzechM-p0628-s1-w22">
@@ -5806,9 +5803,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: m 2</text>
-</LM>
-<LM type="New Form">
-<text>m</text>
 </LM>
 </comment>
 </m>
