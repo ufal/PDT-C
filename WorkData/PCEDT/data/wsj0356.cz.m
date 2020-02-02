@@ -947,9 +947,6 @@
 <tag lemma="Willamem" src="auto">X@-------------</tag>
 <comment>
 <LM type="New Form">
-<text>Willaamem</text>
-</LM>
-<LM type="New Form">
 <text>Williamem</text>
 </LM>
 </comment>

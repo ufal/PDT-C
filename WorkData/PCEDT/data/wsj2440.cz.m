@@ -1130,9 +1130,6 @@
 <tag lemma="15ti" src="auto">X@-------------</tag>
 <comment>
 <LM type="New Form">
-<text>15</text>
-</LM>
-<LM type="New Form">
 <text>patnácti</text>
 </LM>
 </comment>

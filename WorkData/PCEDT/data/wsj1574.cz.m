@@ -25846,9 +25846,6 @@
 <tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
 <comment>
 <LM type="New Form">
-<text>!</text>
-</LM>
-<LM type="New Form">
 <text>"</text>
 </LM>
 </comment>

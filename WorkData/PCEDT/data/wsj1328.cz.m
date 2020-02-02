@@ -7915,9 +7915,6 @@
 <tag lemma="5násobek" src="auto">X@-------------</tag>
 <comment>
 <LM type="New Form">
-<text>5</text>
-</LM>
-<LM type="New Form">
 <text>násobek</text>
 </LM>
 </comment>

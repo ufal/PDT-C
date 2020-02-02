@@ -4897,12 +4897,6 @@
 <form>např.</form>
 <tag lemma="např." src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>nap.</text>
-</LM>
-<LM type="New Form">
-<text>např</text>
-</LM>
 <LM type="Other">
 <text>2v1: např .</text>
 </LM>

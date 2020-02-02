@@ -3434,9 +3434,6 @@
 <LM type="Other">
 <text>2v1: 30 denního</text>
 </LM>
-<LM type="New Form">
-<text>30</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0476-001-p1s13W22-Ta">
@@ -4221,9 +4218,6 @@
 <AM lemma="certifikát" src="auto">NNIP7-----A----</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Certifikátů</text>
-</LM>
 <LM type="New Form">
 <text>certifikátů</text>
 </LM>

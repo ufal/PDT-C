@@ -882,9 +882,6 @@
 <tag lemma="nezplatí" src="auto">X@-------------</tag>
 <comment>
 <LM type="New Form">
-<text>nezaplatí</text>
-</LM>
-<LM type="New Form">
 <text>nesplatí</text>
 </LM>
 </comment>

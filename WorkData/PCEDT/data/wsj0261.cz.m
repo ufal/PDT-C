@@ -520,9 +520,6 @@
 <tag lemma="Restaurance" src="auto">X@-------------</tag>
 <comment>
 <LM type="New Form">
-<text>Restaurane</text>
-</LM>
-<LM type="New Form">
 <text>Restaurace</text>
 </LM>
 </comment>
@@ -1544,9 +1541,6 @@
 <form>5x8</form>
 <tag lemma="5x8" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>5</text>
-</LM>
 <LM type="Other">
 <text>3v1: 5 x 8</text>
 </LM>

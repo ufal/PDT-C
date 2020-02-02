@@ -532,9 +532,6 @@
 </tag>
 <comment>
 <LM type="New Form">
-<text>Sezómně</text>
-</LM>
-<LM type="New Form">
 <text>Sezónně</text>
 </LM>
 </comment>

@@ -11056,12 +11056,6 @@
 <LM type="Other">
 <text>2v1: 37 milionové</text>
 </LM>
-<LM type="New Form">
-<text>3</text>
-</LM>
-<LM type="New Form">
-<text>37</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0818-001-p1s35W13-Ta">

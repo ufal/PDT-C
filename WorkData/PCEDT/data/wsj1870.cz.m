@@ -14680,12 +14680,6 @@
 </tag>
 <comment>
 <LM type="New Form">
-<text>pedesátkrátkrát</text>
-</LM>
-<LM type="New Form">
-<text>pedesátkrát</text>
-</LM>
-<LM type="New Form">
 <text>padesátkrát</text>
 </LM>
 </comment>
@@ -27389,9 +27383,6 @@
 <AM lemma="2mílový" src="manual">AAIS4----1A----</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>2</text>
-</LM>
 <LM type="Other">
 <text>2v1: 2 mílový</text>
 </LM>
@@ -31087,9 +31078,6 @@
 <AM lemma="85letý" src="auto">AANP5----1A----</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>85</text>
-</LM>
 <LM type="Other">
 <text>2v1: 85 letá</text>
 </LM>

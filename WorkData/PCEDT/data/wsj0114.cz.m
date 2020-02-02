@@ -1131,9 +1131,6 @@
 </tag>
 <comment>
 <LM type="New Form">
-<text>miulion</text>
-</LM>
-<LM type="New Form">
 <text>milionu</text>
 </LM>
 </comment>

@@ -6960,9 +6960,6 @@
 <tag lemma="sněmovna" src="auto" recommended="1">NNFS1-----A----</tag>
 <comment>
 <LM type="New Form">
-<text>Sněmovnou</text>
-</LM>
-<LM type="New Form">
 <text>sněmovnou</text>
 </LM>
 </comment>

@@ -4331,9 +4331,6 @@
 <tag lemma="neplynujeli">X@-------------</tag>
 <comment>
 <LM type="New Form">
-<text>nejplynujeli</text>
-</LM>
-<LM type="New Form">
 <text>nejplynuleji</text>
 </LM>
 </comment>

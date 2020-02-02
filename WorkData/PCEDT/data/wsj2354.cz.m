@@ -2649,9 +2649,6 @@
 <tag lemma="Dalasští" src="auto">X@-------------</tag>
 <comment>
 <LM type="New Form">
-<text>Dalaští</text>
-</LM>
-<LM type="New Form">
 <text>Dallaští</text>
 </LM>
 </comment>

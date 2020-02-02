@@ -1292,9 +1292,6 @@
 </tag>
 <comment>
 <LM type="New Form">
-<text>Savaikem</text>
-</LM>
-<LM type="New Form">
 <text>Savaika</text>
 </LM>
 </comment>

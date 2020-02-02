@@ -1836,9 +1836,6 @@
 <tag lemma="5milionu" src="auto">X@-------------</tag>
 <comment>
 <LM type="New Form">
-<text>5</text>
-</LM>
-<LM type="New Form">
 <text>milionu</text>
 </LM>
 </comment>

@@ -61,9 +61,6 @@
 <form>Inc.počítá</form>
 <tag lemma="Inc.počítá" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>Inc</text>
-</LM>
 <LM type="Other">
 <text>3v1: Inc . počítá</text>
 </LM>
@@ -532,9 +529,6 @@
 <form>R.Simmons</form>
 <tag lemma="R.Simmons" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>R</text>
-</LM>
 <LM type="Other">
 <text>3v1: R . Simmons</text>
 </LM>
@@ -928,9 +922,6 @@
 <form>62centů</form>
 <tag lemma="62centů" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>62</text>
-</LM>
 <LM type="Other">
 <text>2v1: 62 centů</text>
 </LM>
@@ -3556,14 +3547,8 @@
 <form>247.3mil</form>
 <tag lemma="247.3mil" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>247</text>
-</LM>
 <LM type="Other">
 <text>2v1: 247.3 mil</text>
-</LM>
-<LM type="New Form">
-<text>247.3</text>
 </LM>
 </comment>
 </m>
@@ -3653,9 +3638,6 @@
 <form>30.září</form>
 <tag lemma="30.září" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>30</text>
-</LM>
 <LM type="Other">
 <text>3v1: 30 . září</text>
 </LM>
@@ -5791,9 +5773,6 @@
 <form>W.Singera</form>
 <tag lemma="W.Singera" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>W</text>
-</LM>
 <LM type="Other">
 <text>3v1: W . Singera</text>
 </LM>

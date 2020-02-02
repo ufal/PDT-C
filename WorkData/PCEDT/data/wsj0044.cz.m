@@ -16577,12 +16577,6 @@
 <LM type="Other">
 <text>2v1: 37 letá</text>
 </LM>
-<LM type="New Form">
-<text>37l</text>
-</LM>
-<LM type="New Form">
-<text>37</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0044-001-p1s57W14-Ta">
@@ -24061,9 +24055,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 48 hodinovém</text>
-</LM>
-<LM type="New Form">
-<text>48</text>
 </LM>
 </comment>
 </m>

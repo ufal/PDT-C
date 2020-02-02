@@ -3675,9 +3675,6 @@
 <tag lemma="Epinale" src="auto">X@-------------</tag>
 <comment>
 <LM type="New Form">
-<text>Épinale</text>
-</LM>
-<LM type="New Form">
 <text>Épinalu</text>
 </LM>
 </comment>
@@ -12149,9 +12146,6 @@
 <form>Epinale</form>
 <tag lemma="Epinale" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>Épinale</text>
-</LM>
 <LM type="New Form">
 <text>Épinalu</text>
 </LM>

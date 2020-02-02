@@ -2121,9 +2121,6 @@
 <tag lemma="věsmes" src="auto">X@-------------</tag>
 <comment>
 <LM type="New Form">
-<text>vesmě</text>
-</LM>
-<LM type="New Form">
 <text>vesměs</text>
 </LM>
 </comment>

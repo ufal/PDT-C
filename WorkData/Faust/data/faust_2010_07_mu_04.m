@@ -2766,9 +2766,6 @@
 <tag lemma="kratokodobých">X@-------------</tag>
 <comment>
 <LM type="New Form">
-<text>krátokodobých</text>
-</LM>
-<LM type="New Form">
 <text>krátkodobých</text>
 </LM>
 </comment>
@@ -3958,9 +3955,6 @@
 <form>pravědopodbně</form>
 <tag lemma="pravědopodbně">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>pravědopodobně</text>
-</LM>
 <LM type="New Form">
 <text>pravděpodobně</text>
 </LM>

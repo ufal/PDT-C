@@ -267,12 +267,6 @@
 <LM type="Other">
 <text>2v1: 30 leté</text>
 </LM>
-<LM type="New Form">
-<text>30l</text>
-</LM>
-<LM type="New Form">
-<text>30</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1872-001-p1s0W20-Ta">

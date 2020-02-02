@@ -1146,9 +1146,6 @@
 <form>1.17miliardy</form>
 <tag lemma="1.17miliardy" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>1.17</text>
-</LM>
 <LM type="Other">
 <text>2v1: 1.17 miliardy</text>
 </LM>
@@ -1536,9 +1533,6 @@
 <form>čtvrletí</form>
 <tag lemma="čtvrletí" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>čtvrzletí</text>
-</LM>
 <LM type="New Form">
 <text>čtvrtletí</text>
 </LM>

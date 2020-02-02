@@ -681,9 +681,6 @@
 <tag lemma="vytvořit" src="auto" recommended="1">VsNS---XX-APP--</tag>
 <comment>
 <LM type="New Form">
-<text>vytvořena</text>
-</LM>
-<LM type="New Form">
 <text>vytvořená</text>
 </LM>
 </comment>

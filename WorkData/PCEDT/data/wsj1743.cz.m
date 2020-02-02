@@ -7061,6 +7061,11 @@
 </w.rf>
 <form>-</form>
 <tag lemma="-" src="auto" recommended="1">Z:-------------</tag>
+<comment>
+<LM type="Other">
+<text>delete</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj1743-001-p1s25W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -14492,9 +14497,6 @@
 <comment>
 <LM type="New Form">
 <text>60</text>
-</LM>
-<LM type="New Form">
-<text>šedesáti</text>
 </LM>
 </comment>
 </m>

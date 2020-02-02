@@ -434,9 +434,6 @@
 <tag lemma="jeno">X@-------------</tag>
 <comment>
 <LM type="New Form">
-<text>jedno</text>
-</LM>
-<LM type="New Form">
 <text>jednou</text>
 </LM>
 </comment>
@@ -2136,12 +2133,6 @@
 <form>96m3</form>
 <tag lemma="96m3">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>96</text>
-</LM>
-<LM type="New Form">
-<text>m</text>
-</LM>
 <LM type="Other">
 <text>2v1: m 3</text>
 </LM>

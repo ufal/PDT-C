@@ -3155,9 +3155,6 @@
 </tag>
 <comment>
 <LM type="New Form">
-<text>desetiletý</text>
-</LM>
-<LM type="New Form">
 <text>desetiletých</text>
 </LM>
 </comment>

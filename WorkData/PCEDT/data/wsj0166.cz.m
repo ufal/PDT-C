@@ -783,9 +783,6 @@
 <tag lemma="12ti" src="auto">X@-------------</tag>
 <comment>
 <LM type="New Form">
-<text>dvanácti</text>
-</LM>
-<LM type="New Form">
 <text>12</text>
 </LM>
 </comment>
@@ -3056,9 +3053,6 @@
 <form>15ti</form>
 <tag lemma="15ti" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>patnácti</text>
-</LM>
 <LM type="New Form">
 <text>15</text>
 </LM>

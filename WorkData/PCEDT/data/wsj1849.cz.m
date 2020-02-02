@@ -260,9 +260,6 @@
 <tag lemma="výkladat" src="auto">X@-------------</tag>
 <comment>
 <LM type="New Form">
-<text>vykladat</text>
-</LM>
-<LM type="New Form">
 <text>vykládat</text>
 </LM>
 </comment>

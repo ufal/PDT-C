@@ -844,9 +844,6 @@
 <LM type="Other">
 <text>2v1: 10 letou</text>
 </LM>
-<LM type="New Form">
-<text>10</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1676-001-p1s2W13-Ta">
@@ -1678,12 +1675,6 @@
 <comment>
 <LM type="Other">
 <text>3v1: 1992 , 2000</text>
-</LM>
-<LM type="New Form">
-<text>199</text>
-</LM>
-<LM type="New Form">
-<text>1991</text>
 </LM>
 </comment>
 </m>
@@ -5883,9 +5874,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 20 leté</text>
-</LM>
-<LM type="New Form">
-<text>20</text>
 </LM>
 </comment>
 </m>
@@ -11582,9 +11570,6 @@
 <LM type="Other">
 <text>2v1: 10 letých</text>
 </LM>
-<LM type="New Form">
-<text>10</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1676-001-p1s38W14-Ta">
@@ -12028,9 +12013,6 @@
 <LM type="Other">
 <text>2v1: 10 letou</text>
 </LM>
-<LM type="New Form">
-<text>10</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1676-001-p1s39W22-Ta">
@@ -12183,9 +12165,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 17 členné</text>
-</LM>
-<LM type="New Form">
-<text>17</text>
 </LM>
 </comment>
 </m>

@@ -3371,14 +3371,8 @@
 <form>Narodíl</form>
 <tag lemma="Narodíl">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>Narozdíl</text>
-</LM>
 <LM type="Other">
 <text>2v1: Na rozdíl</text>
-</LM>
-<LM type="New Form">
-<text>Na</text>
 </LM>
 </comment>
 </m>
@@ -3684,9 +3678,6 @@
 <form>okmažicích</form>
 <tag lemma="okmažicích">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>okamažicích</text>
-</LM>
 <LM type="New Form">
 <text>okamžicích</text>
 </LM>

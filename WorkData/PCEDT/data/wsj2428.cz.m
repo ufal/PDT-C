@@ -2591,9 +2591,6 @@
 <AM lemma="Moody's-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Moody</text>
-</LM>
 <LM type="Other">
 <text>3v1: Moody ' s</text>
 </LM>
@@ -5493,14 +5490,8 @@
 <AM lemma="R.-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>R .</text>
-</LM>
 <LM type="Other">
 <text>2v1: R .</text>
-</LM>
-<LM type="New Form">
-<text>R</text>
 </LM>
 </comment>
 </m>
@@ -11471,14 +11462,8 @@
 <AM lemma="L.P-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>LP</text>
-</LM>
 <LM type="Other">
 <text>3v1: L . P</text>
-</LM>
-<LM type="New Form">
-<text>L</text>
 </LM>
 </comment>
 </m>
@@ -18603,9 +18588,6 @@
 <AM lemma="Moody's-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Moody</text>
-</LM>
 <LM type="Other">
 <text>3v1:  Moody ' s</text>
 </LM>
@@ -19277,9 +19259,6 @@
 <AM lemma="Grant's-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Grant</text>
-</LM>
 <LM type="Other">
 <text>3v1:  Grant ' s</text>
 </LM>

@@ -715,12 +715,6 @@
 <LM type="Other">
 <text>2v1: 250 megawattové</text>
 </LM>
-<LM type="New Form">
-<text>25</text>
-</LM>
-<LM type="New Form">
-<text>250</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1519-001-p1s1W21-Ta">

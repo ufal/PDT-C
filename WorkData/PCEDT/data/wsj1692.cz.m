@@ -13096,12 +13096,6 @@
 <form>OBrion</form>
 <tag lemma="OBrion" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>OB</text>
-</LM>
-<LM type="New Form">
-<text>O</text>
-</LM>
 <LM type="Other">
 <text>2v1: O Brion</text>
 </LM>

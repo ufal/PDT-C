@@ -54,14 +54,8 @@
 <AM lemma="Co.uvedla-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Co.</text>
-</LM>
 <LM type="Other">
 <text>3v1: Co . uvedla</text>
-</LM>
-<LM type="New Form">
-<text>Co</text>
 </LM>
 </comment>
 </m>

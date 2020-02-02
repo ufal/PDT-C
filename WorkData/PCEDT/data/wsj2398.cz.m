@@ -9542,9 +9542,6 @@
 </tag>
 <comment>
 <LM type="New Form">
-<text>cent</text>
-</LM>
-<LM type="New Form">
 <text>centů</text>
 </LM>
 </comment>

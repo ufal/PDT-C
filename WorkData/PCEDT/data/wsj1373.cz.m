@@ -11471,9 +11471,6 @@
 <tag lemma="3" src="auto" recommended="1">C=-------------</tag>
 <comment>
 <LM type="New Form">
-<text>300</text>
-</LM>
-<LM type="New Form">
 <text>3000</text>
 </LM>
 </comment>
