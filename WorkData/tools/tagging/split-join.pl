@@ -12,10 +12,6 @@ sub join_nodes {
     my ($number, $detail, $m, $text, $comment) = @_;
 
     my $form = $xpc->findvalue('p:form', $m);
-    my $prev_form = $xpc->findvalue('preceding-sibling::p:m[1]/p:form', $m);
-    if ($number == 2 && "<$prev_form$form" ne $detail) {
-        warn "'<$prev_form$form' ne '$detail' at $m->{id}\n";
-    }
 
     my ($prev_m) = $xpc->findnodes('preceding-sibling::p:m[1]', $m);
     print $prev_m->{id}, "\n";
@@ -23,14 +19,20 @@ sub join_nodes {
     $prev_m->parentNode->removeChild($prev_m);
     $m->parentNode->removeChild(
         $m->findnodes('preceding-sibling::text()[1]'));
-    if ($number > 2) {
-        --$number;
-        $text->firstChild->setData("1v$number: <$detail");
+
+    my ($new_number)
+        = $xpc->findvalue('p:comment/p:LM[@type="Other"]/p:text', $prev_m)
+        =~ /1v([0-9]+)/;
+
+    if ($new_number > 2) {
+        --$new_number;
+        $text->firstChild->setData("1v$new_number: $detail");
 
     } else {
         $comment->{type} = 'New Form';
-        $text->firstChild->setData("$prev_form$form");
+        $text->firstChild->setData(substr $detail, 1);
     }
+
     return 1
 }
 
@@ -150,4 +152,3 @@ for my $mfile (@ARGV) {
     $dom->toFH($out);
     close $out;
 }
-
