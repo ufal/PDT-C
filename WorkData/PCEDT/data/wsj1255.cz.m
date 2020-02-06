@@ -1238,9 +1238,6 @@
 <LM type="Other">
 <text>2v1: 68 uncových</text>
 </LM>
-<LM type="New Form">
-<text>68</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1255-001-p1s3W11-Ta">

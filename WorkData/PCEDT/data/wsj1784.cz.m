@@ -7571,9 +7571,6 @@
 <AM lemma="Trim'-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Trim</text>
-</LM>
 <LM type="Other">
 <text>2v1: Trim '</text>
 </LM>

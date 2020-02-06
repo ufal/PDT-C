@@ -1826,6 +1826,11 @@
 <AM lemma="Dunkin'" src="auto">X@-------------</AM>
 <AM lemma="Dunkin'_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: Dunkin '</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj0159-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2241,9 +2246,6 @@
 <AM lemma="Dunkin'_;K" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Dunkin</text>
-</LM>
 <LM type="Other">
 <text>2v1: Dunkin '</text>
 </LM>

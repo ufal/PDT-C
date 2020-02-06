@@ -196,10 +196,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>2v1: 80 megabytový</text>
-</LM>
-<LM type="New Form">
-<text>80</text>
+<text>2v1: 80 megabytovou</text>
 </LM>
 </comment>
 </m>

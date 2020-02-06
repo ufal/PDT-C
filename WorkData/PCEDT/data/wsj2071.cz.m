@@ -980,9 +980,6 @@
 <form>tzv.</form>
 <tag lemma="tzv." src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>tzv</text>
-</LM>
 <LM type="Other">
 <text>2v1: tzv .</text>
 </LM>

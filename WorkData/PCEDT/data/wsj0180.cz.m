@@ -747,9 +747,6 @@
 <AM lemma="ručení" src="manual">NNNS7-----A---8</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>r</text>
-</LM>
 <LM type="Other">
 <text>2v1: r .</text>
 </LM>

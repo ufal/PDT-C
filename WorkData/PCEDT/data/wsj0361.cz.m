@@ -3117,11 +3117,8 @@
 <AM lemma="1palcový" src="manual">AAIP2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 1 palcový</text>
-</LM>
 <LM type="New Form">
-<text>1</text>
+<text>jednopalcových</text>
 </LM>
 </comment>
 </m>
@@ -3806,9 +3803,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 120 megabytovým</text>
-</LM>
-<LM type="New Form">
-<text>120</text>
 </LM>
 </comment>
 </m>

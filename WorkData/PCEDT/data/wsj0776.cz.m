@@ -2472,9 +2472,6 @@
 <LM type="Other">
 <text>2v1: 100 akciový</text>
 </LM>
-<LM type="New Form">
-<text>100</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0776-001-p1s9W2-Ta">
@@ -11734,9 +11731,6 @@
 <AM lemma="32letý" src="auto">AANS5----1A---6</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>32</text>
-</LM>
 <LM type="Other">
 <text>2v1: 32 letý</text>
 </LM>

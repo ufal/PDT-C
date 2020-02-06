@@ -2762,9 +2762,6 @@
 <LM type="Other">
 <text>2v1: 32 patrovým</text>
 </LM>
-<LM type="New Form">
-<text>32</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2162-001-p1s9W15-Ta">

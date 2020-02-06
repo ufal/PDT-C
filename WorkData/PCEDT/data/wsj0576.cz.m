@@ -12342,9 +12342,6 @@
 <LM type="Other">
 <text>2v1: 37 hodinový</text>
 </LM>
-<LM type="New Form">
-<text>37</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0576-001-p1s39W7-Ta">

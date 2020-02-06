@@ -6424,9 +6424,6 @@
 <LM type="Other">
 <text>2v1: 18 jamkové</text>
 </LM>
-<LM type="New Form">
-<text>18</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1121-001-p1s24W5-Ta">

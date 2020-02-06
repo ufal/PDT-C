@@ -124,9 +124,6 @@
 <LM type="Other">
 <text>2v1: 190 bodovém</text>
 </LM>
-<LM type="New Form">
-<text>190</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2201-001-p1s1W5-Ta">
@@ -12566,9 +12563,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 142 stránková</text>
-</LM>
-<LM type="New Form">
-<text>142</text>
 </LM>
 </comment>
 </m>

@@ -6218,9 +6218,6 @@
 <form>resp.</form>
 <tag lemma="resp." src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>resp</text>
-</LM>
 <LM type="Other">
 <text>2v1: resp .</text>
 </LM>
@@ -6797,9 +6794,6 @@
 <comment>
 <LM type="Other">
 <text>3v1: S . A </text>
-</LM>
-<LM type="New Form">
-<text>S</text>
 </LM>
 </comment>
 </m>

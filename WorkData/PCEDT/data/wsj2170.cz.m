@@ -3341,9 +3341,6 @@
 <AM lemma="Poor's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Poor</text>
-</LM>
 <LM type="Other">
 <text>3v1: Poor ' s</text>
 </LM>
@@ -7846,9 +7843,6 @@
 <AM lemma="Price's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Price</text>
-</LM>
 <LM type="Other">
 <text>3v1: Price ' s</text>
 </LM>
@@ -11289,9 +11283,6 @@
 <AM lemma="Poor's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Poor</text>
-</LM>
 <LM type="Other">
 <text>3v1: Poor ' s</text>
 </LM>

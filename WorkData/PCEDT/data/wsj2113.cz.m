@@ -916,9 +916,6 @@
 <form>L.</form>
 <tag lemma="L." src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>L</text>
-</LM>
 <LM type="Other">
 <text>2v1: L .</text>
 </LM>
@@ -8223,11 +8220,8 @@
 <form>Říkají'Johnny</form>
 <tag lemma="Říkají'Johnny" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>Říkají</text>
-</LM>
 <LM type="Other">
-<text>2v1: Říkají Johnny</text>
+<text>3v1: Říkají ' Johnny</text>
 </LM>
 </comment>
 </m>
@@ -9104,9 +9098,6 @@
 <AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Sotheby</text>
-</LM>
 <LM type="Other">
 <text>3v1: Sotheby ' s</text>
 </LM>
@@ -9380,9 +9371,6 @@
 <comment>
 <LM type="Other">
 <text>3v1: Sotheby ' s</text>
-</LM>
-<LM type="New Form">
-<text>Sotheby</text>
 </LM>
 </comment>
 </m>
@@ -9953,9 +9941,6 @@
 <comment>
 <LM type="Other">
 <text>3v1: Sotheby ' s</text>
-</LM>
-<LM type="New Form">
-<text>Sotheby</text>
 </LM>
 </comment>
 </m>
@@ -11209,9 +11194,6 @@
 <form>je'ukradl'</form>
 <tag lemma="je'ukradl'" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>je</text>
-</LM>
 <LM type="Other">
 <text>4v1: je ' ukradl '</text>
 </LM>
@@ -11877,9 +11859,6 @@
 <AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Sotheby</text>
-</LM>
 <LM type="Other">
 <text>3v1: Sotheby ' s</text>
 </LM>
@@ -12476,9 +12455,6 @@
 <form>U.S.A</form>
 <tag lemma="U.S.A" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>U</text>
-</LM>
 <LM type="Other">
 <text>5v1: U . S . A</text>
 </LM>
@@ -13046,9 +13022,6 @@
 <LM type="Other">
 <text>3v1: Sotheby ' s</text>
 </LM>
-<LM type="New Form">
-<text>Sotheby</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s51W18-Ta">
@@ -13178,9 +13151,6 @@
 <comment>
 <LM type="Other">
 <text>3v1: Sotheby ' s</text>
-</LM>
-<LM type="New Form">
-<text>Sotheby</text>
 </LM>
 </comment>
 </m>
@@ -13525,9 +13495,6 @@
 <LM type="Other">
 <text>3v1: Sotheby ' s</text>
 </LM>
-<LM type="New Form">
-<text>Sotheby</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s54W2-Ta">
@@ -13701,9 +13668,6 @@
 <comment>
 <LM type="Other">
 <text>3v1: Sotheby ' s</text>
-</LM>
-<LM type="New Form">
-<text>Sotheby</text>
 </LM>
 </comment>
 </m>
@@ -14081,9 +14045,6 @@
 <comment>
 <LM type="Other">
 <text>3v1: Sotheby ' s</text>
-</LM>
-<LM type="New Form">
-<text>Sotheby</text>
 </LM>
 </comment>
 </m>
@@ -14767,9 +14728,6 @@
 <comment>
 <LM type="Other">
 <text>3v1: Sotheby ' s</text>
-</LM>
-<LM type="New Form">
-<text>Sotheby</text>
 </LM>
 </comment>
 </m>
@@ -18628,9 +18586,6 @@
 <LM type="Other">
 <text>3v1: Sotheby ' s</text>
 </LM>
-<LM type="New Form">
-<text>Sotheby</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s70W22-Ta">
@@ -20108,9 +20063,6 @@
 <comment>
 <LM type="Other">
 <text>3v1: Sotheby ' s</text>
-</LM>
-<LM type="New Form">
-<text>Sotheby</text>
 </LM>
 </comment>
 </m>
@@ -24115,9 +24067,6 @@
 <LM type="Other">
 <text>3v1: Sotheby ' s</text>
 </LM>
-<LM type="New Form">
-<text>Sotheby</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s92W14-Ta">
@@ -24356,9 +24305,6 @@
 <comment>
 <LM type="Other">
 <text>3v1: Sotheby ' s</text>
-</LM>
-<LM type="New Form">
-<text>Sotheby</text>
 </LM>
 </comment>
 </m>
@@ -25160,9 +25106,6 @@
 <comment>
 <LM type="Other">
 <text>3v1: Sotheby ' s</text>
-</LM>
-<LM type="New Form">
-<text>Sotheby</text>
 </LM>
 </comment>
 </m>
@@ -27463,9 +27406,6 @@
 <LM type="Other">
 <text>3v1: Sotheby ' s</text>
 </LM>
-<LM type="New Form">
-<text>Sotheby</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s108W3-Ta">
@@ -27762,9 +27702,6 @@
 <comment>
 <LM type="Other">
 <text>3v1: Sotheby ' s</text>
-</LM>
-<LM type="New Form">
-<text>Sotheby</text>
 </LM>
 </comment>
 </m>
@@ -28509,9 +28446,6 @@
 <comment>
 <LM type="Other">
 <text>3v1: Sotheby ' s</text>
-</LM>
-<LM type="New Form">
-<text>Sotheby</text>
 </LM>
 </comment>
 </m>
@@ -30370,9 +30304,6 @@
 <LM type="Other">
 <text>3v1: Sotheby ' s</text>
 </LM>
-<LM type="New Form">
-<text>Sotheby</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s121W2-Ta">
@@ -31630,9 +31561,6 @@
 <LM type="Other">
 <text>3v1: Sotheby ' s</text>
 </LM>
-<LM type="New Form">
-<text>Sotheby</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s125W5-Ta">
@@ -31863,9 +31791,6 @@
 <comment>
 <LM type="Other">
 <text>3v1: Sotheby ' s</text>
-</LM>
-<LM type="New Form">
-<text>Sotheby</text>
 </LM>
 </comment>
 </m>
@@ -33843,9 +33768,6 @@
 <AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Sotheby</text>
-</LM>
 <LM type="Other">
 <text>3v1: Sotheby ' s</text>
 </LM>

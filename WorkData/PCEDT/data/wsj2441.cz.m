@@ -1410,9 +1410,6 @@
 <form>1.září</form>
 <tag lemma="1.září" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>1</text>
-</LM>
 <LM type="Other">
 <text>3v1: 1 . září</text>
 </LM>
@@ -1436,9 +1433,6 @@
 <form>24.září</form>
 <tag lemma="24.září" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>24</text>
-</LM>
 <LM type="Other">
 <text>3v1: 24 . září</text>
 </LM>

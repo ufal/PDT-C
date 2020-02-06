@@ -310,9 +310,6 @@
 <form>1.listopadu</form>
 <tag lemma="1.listopadu" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>1</text>
-</LM>
 <LM type="Other">
 <text>3v1: 1 . listopadu</text>
 </LM>
@@ -1006,9 +1003,6 @@
 <form>1.listopadu</form>
 <tag lemma="1.listopadu" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>1</text>
-</LM>
 <LM type="Other">
 <text>3v1: 1 . listopadu</text>
 </LM>

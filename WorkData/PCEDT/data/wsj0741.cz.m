@@ -677,9 +677,6 @@
 <LM type="Other">
 <text>2v1: 88 leté</text>
 </LM>
-<LM type="New Form">
-<text>88</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0741-001-p1s2W3-Ta">
@@ -3397,9 +3394,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 72 letý</text>
-</LM>
-<LM type="New Form">
-<text>72</text>
 </LM>
 </comment>
 </m>
@@ -7810,9 +7804,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 54 letého</text>
-</LM>
-<LM type="New Form">
-<text>54</text>
 </LM>
 </comment>
 </m>

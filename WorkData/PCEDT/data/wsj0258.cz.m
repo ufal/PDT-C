@@ -1704,9 +1704,6 @@
 <AM lemma="10krát`10" src="manual">Cv-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>10</text>
-</LM>
 <LM type="Other">
 <text>2v1: 10 krát</text>
 </LM>

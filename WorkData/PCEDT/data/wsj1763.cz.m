@@ -404,9 +404,6 @@
 <form>O'Donnell</form>
 <tag lemma="O'Donnell" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>O</text>
-</LM>
 <LM type="Other">
 <text>3v1: O ' Donnell</text>
 </LM>

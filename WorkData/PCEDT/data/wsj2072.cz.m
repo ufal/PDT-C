@@ -330,9 +330,6 @@
 <LM type="Other">
 <text>2v1: 68 týdenní</text>
 </LM>
-<LM type="New Form">
-<text>68</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2072-001-p1s1W19-Ta">

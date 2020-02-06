@@ -2657,9 +2657,6 @@
 <AM lemma="Christie's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Christie</text>
-</LM>
 <LM type="Other">
 <text>3v1: Christie ' s</text>
 </LM>
@@ -7357,9 +7354,6 @@
 <AM lemma="Sprint's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Sprint</text>
-</LM>
 <LM type="Other">
 <text>3v1: Sprint ' s</text>
 </LM>

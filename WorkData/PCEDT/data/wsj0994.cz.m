@@ -4066,9 +4066,6 @@
 <AM lemma="117akrový" src="manual">AAIS2----1A----</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>117</text>
-</LM>
 <LM type="Other">
 <text>2v1: 117 akrového</text>
 </LM>

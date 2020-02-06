@@ -6825,9 +6825,6 @@
 <LM type="Other">
 <text>2v1: 11 denní</text>
 </LM>
-<LM type="New Form">
-<text>11</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0443-001-p1s19W7-Ta">

@@ -2713,9 +2713,6 @@
 <LM type="Other">
 <text>2v1: 40 letým</text>
 </LM>
-<LM type="New Form">
-<text>40</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0664-001-p1s7W22-Ta">
@@ -4484,11 +4481,8 @@
 <AM lemma="44letý" src="auto">AANS5----1A---6</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>44</text>
-</LM>
 <LM type="Other">
-<text>2v1: 40 letý</text>
+<text>2v1: 44 letý</text>
 </LM>
 </comment>
 </m>
@@ -12623,9 +12617,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 24 hodinového</text>
-</LM>
-<LM type="New Form">
-<text>24</text>
 </LM>
 </comment>
 </m>

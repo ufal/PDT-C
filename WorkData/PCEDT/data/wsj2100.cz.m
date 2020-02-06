@@ -7719,9 +7719,6 @@
 <AM lemma="System's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>System</text>
-</LM>
 <LM type="Other">
 <text>3v1: System ' s</text>
 </LM>
@@ -12176,9 +12173,6 @@
 <AM lemma="N.V-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>N</text>
-</LM>
 <LM type="Other">
 <text>3v1: N . V</text>
 </LM>
@@ -17967,9 +17961,6 @@
 <form>č.1</form>
 <tag lemma="č.1" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>č</text>
-</LM>
 <LM type="Other">
 <text>3v1: č . 1</text>
 </LM>
@@ -18016,9 +18007,6 @@
 <form>č.</form>
 <tag lemma="č." src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>č</text>
-</LM>
 <LM type="Other">
 <text>2v1: č .</text>
 </LM>

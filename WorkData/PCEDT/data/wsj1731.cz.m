@@ -1605,9 +1605,6 @@
 <LM type="Other">
 <text>2v1: 40 bodový</text>
 </LM>
-<LM type="New Form">
-<text>40</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1731-001-p1s6W7-Ta">

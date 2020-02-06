@@ -73,7 +73,7 @@
 <AM lemma="58letý" src="auto">AAMP1----1A---6</AM>
 <AM lemma="58letý" src="auto">AAMP4----1A---6</AM>
 <AM lemma="58letý" src="auto">AAMP5----1A---6</AM>
-<AM lemma="58letý" src="auto" recommended="1">AAMS1----1A----</AM>
+<AM lemma="58letý" src="auto" recommended="1" selected="1">AAMS1----1A----</AM>
 <AM lemma="58letý" src="auto">AAMS5----1A----</AM>
 <AM lemma="58letý" src="auto">AANP1----1A---6</AM>
 <AM lemma="58letý" src="auto">AANP4----1A---6</AM>
@@ -85,9 +85,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 58 letý</text>
-</LM>
-<LM type="New Form">
-<text>58</text>
 </LM>
 </comment>
 </m>
@@ -462,15 +459,12 @@
 <tag>
 <AM lemma="65letý" src="auto">AAIS2----1A----</AM>
 <AM lemma="65letý" src="auto">AAMS2----1A----</AM>
-<AM lemma="65letý" src="auto" recommended="1">AAMS4----1A----</AM>
+<AM lemma="65letý" src="auto" recommended="1" selected="1">AAMS4----1A----</AM>
 <AM lemma="65letý" src="auto">AANS2----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
 <text>2v1: 65 letý</text>
-</LM>
-<LM type="New Form">
-<text>65</text>
 </LM>
 </comment>
 </m>

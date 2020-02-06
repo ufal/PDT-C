@@ -2674,9 +2674,6 @@
 <LM type="Other">
 <text>2v1: 101 letou</text>
 </LM>
-<LM type="New Form">
-<text>101</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2109-001-p1s9W4-Ta">
@@ -9296,10 +9293,7 @@
 </tag>
 <comment>
 <LM type="New Form">
-<text>80</text>
-</LM>
-<LM type="Other">
-<text>2v1: 80 krát</text>
+<text>osmdesátkrát</text>
 </LM>
 </comment>
 </m>
@@ -12876,9 +12870,6 @@
 <AM lemma="49letý" src="auto">AANS5----1A---6</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>49</text>
-</LM>
 <LM type="Other">
 <text>2v1: 49 letý</text>
 </LM>

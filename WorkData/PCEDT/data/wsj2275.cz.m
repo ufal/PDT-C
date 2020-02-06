@@ -39,9 +39,6 @@
 <LM type="Other">
 <text>2v1: ´ Američtí</text>
 </LM>
-<LM type="New Form">
-<text>´</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2275-001-p1s1W3-Ta">
@@ -68,9 +65,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: spojů ´ </text>
-</LM>
-<LM type="New Form">
-<text>spojů</text>
 </LM>
 </comment>
 </m>
@@ -1062,9 +1056,6 @@
 <LM type="Other">
 <text>3v1: 5 . srpna</text>
 </LM>
-<LM type="New Form">
-<text>5</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2275-001-p1s4W13-Ta">
@@ -1406,9 +1397,6 @@
 <AM lemma="mezinárodní" src="manual">NNNS2-----A----</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>´</text>
-</LM>
 <LM type="Other">
 <text>2v1: ´ Mezinárodního</text>
 </LM>
@@ -1472,9 +1460,6 @@
 <AM lemma="průmysl" src="manual">NNIS6-----A----</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>průmyslu</text>
-</LM>
 <LM type="Other">
 <text>2v1: průmyslu ´</text>
 </LM>

@@ -4671,11 +4671,8 @@
 <AM lemma="30letý" src="auto">AANS5----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 30 leté</text>
-</LM>
 <LM type="New Form">
-<text>30</text>
+<text>Třicetileté</text>
 </LM>
 </comment>
 </m>
@@ -6565,11 +6562,8 @@
 <AM lemma="30letý" src="auto">AANP6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 30 letých</text>
-</LM>
 <LM type="New Form">
-<text>30</text>
+<text>třicetiletých</text>
 </LM>
 </comment>
 </m>
@@ -8159,11 +8153,8 @@
 <AM lemma="30letý" src="auto">AANS5----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 30 leté</text>
-</LM>
 <LM type="New Form">
-<text>30</text>
+<text>třicetileté</text>
 </LM>
 </comment>
 </m>
@@ -8533,11 +8524,8 @@
 <AM lemma="10letý" src="auto">AANS5----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 10 leté</text>
-</LM>
 <LM type="New Form">
-<text>10</text>
+<text>desetileté</text>
 </LM>
 </comment>
 </m>

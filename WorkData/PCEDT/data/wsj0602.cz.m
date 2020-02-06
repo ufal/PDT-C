@@ -8035,9 +8035,6 @@
 <LM type="Other">
 <text>2v1: 30 letých</text>
 </LM>
-<LM type="New Form">
-<text>30</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0602-001-p1s26W5-Ta">
@@ -8758,9 +8755,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 30 letých</text>
-</LM>
-<LM type="New Form">
-<text>30</text>
 </LM>
 </comment>
 </m>

@@ -3529,9 +3529,6 @@
 <LM type="Other">
 <text>2v1: 30 letý</text>
 </LM>
-<LM type="New Form">
-<text>30</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0351-001-p1s14W3-Ta">
@@ -4876,9 +4873,6 @@
 <LM type="Other">
 <text>2v1: 30 leté</text>
 </LM>
-<LM type="New Form">
-<text>30</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0351-001-p1s19W19-Ta">
@@ -5202,9 +5196,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 30 leté</text>
-</LM>
-<LM type="New Form">
-<text>30</text>
 </LM>
 </comment>
 </m>
@@ -6905,9 +6896,6 @@
 <LM type="Other">
 <text>2v1: 30 letou</text>
 </LM>
-<LM type="New Form">
-<text>30</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0351-001-p1s26W10-Ta">
@@ -8302,9 +8290,6 @@
 <LM type="Other">
 <text>2v1: 30 letý</text>
 </LM>
-<LM type="New Form">
-<text>30</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0351-001-p1s33W3-Ta">
@@ -8709,9 +8694,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 10 leté</text>
-</LM>
-<LM type="New Form">
-<text>10</text>
 </LM>
 </comment>
 </m>
@@ -16246,9 +16228,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 12 leté</text>
-</LM>
-<LM type="New Form">
-<text>12</text>
 </LM>
 </comment>
 </m>

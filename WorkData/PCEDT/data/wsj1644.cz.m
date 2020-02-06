@@ -345,9 +345,6 @@
 <LM type="Other">
 <text>2v1: 76 stránkového</text>
 </LM>
-<LM type="New Form">
-<text>76</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1644-001-p1s1W5-Ta">

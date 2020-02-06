@@ -2477,9 +2477,6 @@
 <LM type="Other">
 <text>2v1: 12 letou</text>
 </LM>
-<LM type="New Form">
-<text>12</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2115-001-p1s6W6-Ta">

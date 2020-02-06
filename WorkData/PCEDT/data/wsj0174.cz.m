@@ -7793,9 +7793,6 @@
 <LM type="Other">
 <text>2v1: 237 členném</text>
 </LM>
-<LM type="New Form">
-<text>237</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0174-001-p1s28W17-Ta">

@@ -945,9 +945,6 @@
 <LM type="Other">
 <text>2v1: 26 letém</text>
 </LM>
-<LM type="New Form">
-<text>26</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0587-001-p1s3W15-Ta">
@@ -3434,9 +3431,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 350 místném</text>
-</LM>
-<LM type="New Form">
-<text>350</text>
 </LM>
 </comment>
 </m>
@@ -8969,9 +8963,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 10 denní</text>
-</LM>
-<LM type="New Form">
-<text>10</text>
 </LM>
 </comment>
 </m>

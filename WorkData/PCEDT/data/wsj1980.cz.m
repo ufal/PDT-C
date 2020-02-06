@@ -4304,9 +4304,6 @@
 <LM type="Other">
 <text>2v1: 24 měsíční</text>
 </LM>
-<LM type="New Form">
-<text>24</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1980-001-p1s12W27-Ta">
@@ -5748,9 +5745,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 400 milionové</text>
-</LM>
-<LM type="New Form">
-<text>400</text>
 </LM>
 </comment>
 </m>

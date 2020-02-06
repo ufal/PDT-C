@@ -5323,9 +5323,6 @@
 <LM type="Other">
 <text>2v1: 15 akrovou</text>
 </LM>
-<LM type="New Form">
-<text>15</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1122-001-p1s21W14-Ta">
@@ -5931,9 +5928,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 15 akrovým</text>
-</LM>
-<LM type="New Form">
-<text>15</text>
 </LM>
 </comment>
 </m>

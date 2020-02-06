@@ -8117,9 +8117,6 @@
 <LM type="Other">
 <text>2v1: 20 letého</text>
 </LM>
-<LM type="New Form">
-<text>20</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1423-001-p1s20W8-Ta">
@@ -8971,9 +8968,6 @@
 <LM type="Other">
 <text>2v1: 21 letí</text>
 </LM>
-<LM type="New Form">
-<text>21</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1423-001-p1s21W28-Ta">
@@ -9061,9 +9055,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 30 denní</text>
-</LM>
-<LM type="New Form">
-<text>30</text>
 </LM>
 </comment>
 </m>

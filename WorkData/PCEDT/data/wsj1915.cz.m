@@ -28460,9 +28460,6 @@
 <LM type="Other">
 <text>2v1: 28 podlažní</text>
 </LM>
-<LM type="New Form">
-<text>28</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1915-001-p1s74W25-Ta">

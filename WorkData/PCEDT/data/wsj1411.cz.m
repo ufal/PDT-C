@@ -1580,9 +1580,6 @@
 <LM type="Other">
 <text>2v1: 20 metrovou</text>
 </LM>
-<LM type="New Form">
-<text>20</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1411-001-p1s6W20-Ta">
@@ -6158,9 +6155,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 47 letý</text>
-</LM>
-<LM type="New Form">
-<text>47</text>
 </LM>
 </comment>
 </m>

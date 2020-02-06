@@ -69,9 +69,6 @@
 <AM lemma="U.S-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>U</text>
-</LM>
 <LM type="Other">
 <text>3v1: U . S</text>
 </LM>
@@ -984,9 +981,6 @@
 <form>U.S.News</form>
 <tag lemma="U.S.News" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>U</text>
-</LM>
 <LM type="Other">
 <text>5v1: U . S . News</text>
 </LM>
@@ -1360,9 +1354,6 @@
 <form>3.3mil</form>
 <tag lemma="3.3mil" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>3.3</text>
-</LM>
 <LM type="Other">
 <text>2v1: 3.3 mil</text>
 </LM>
@@ -1397,9 +1388,6 @@
 <form>B.Zuckerman</form>
 <tag lemma="B.Zuckerman" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>B</text>
-</LM>
 <LM type="Other">
 <text>3v1: B . Zuckerman</text>
 </LM>
@@ -2281,9 +2269,6 @@
 <form>to'</form>
 <tag lemma="to'" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>to</text>
-</LM>
 <LM type="Other">
 <text>2v1: to '</text>
 </LM>
@@ -2481,9 +2466,6 @@
 <form>U.S.News</form>
 <tag lemma="U.S.News" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>U</text>
-</LM>
 <LM type="Other">
 <text>5v1: U . S . News</text>
 </LM>

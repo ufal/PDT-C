@@ -10120,9 +10120,6 @@
 <LM type="Other">
 <text>2v1: 16 podlažní</text>
 </LM>
-<LM type="New Form">
-<text>16</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1691-001-p1s34W17-Ta">

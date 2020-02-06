@@ -65,9 +65,6 @@
 <LM type="Other">
 <text>3v1: S . p</text>
 </LM>
-<LM type="New Form">
-<text>S</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2084-001-p1s0W5-Ta">

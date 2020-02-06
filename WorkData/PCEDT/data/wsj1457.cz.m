@@ -723,9 +723,6 @@
 <LM type="Other">
 <text>2v1: 20 procentní</text>
 </LM>
-<LM type="New Form">
-<text>20</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1457-001-p1s2W24-Ta">
@@ -7174,9 +7171,6 @@
 <LM type="Other">
 <text>2v1: 62 letý</text>
 </LM>
-<LM type="New Form">
-<text>62</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1457-001-p1s27W2-Ta">
@@ -8798,9 +8792,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 45 letý</text>
-</LM>
-<LM type="New Form">
-<text>45</text>
 </LM>
 </comment>
 </m>

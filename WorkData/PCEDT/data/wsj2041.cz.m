@@ -13606,9 +13606,6 @@
 <LM type="Other">
 <text>2v1: 77 B</text>
 </LM>
-<LM type="New Form">
-<text>77</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2041-001-p1s51W32-Ta">

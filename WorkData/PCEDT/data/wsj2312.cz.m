@@ -324,9 +324,6 @@
 <LM type="Other">
 <text>2v1: 64 palcových</text>
 </LM>
-<LM type="New Form">
-<text>64</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2312-001-p1s1W14-Ta">

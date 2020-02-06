@@ -1955,9 +1955,6 @@
 <LM type="Other">
 <text>2v1: 800 akrové</text>
 </LM>
-<LM type="New Form">
-<text>800</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1309-001-p1s6W10-Ta">

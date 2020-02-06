@@ -3527,9 +3527,6 @@
 <form>válek´</form>
 <tag lemma="válek´" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>válek</text>
-</LM>
 <LM type="Other">
 <text>2v1: válek '</text>
 </LM>
@@ -6812,9 +6809,6 @@
 <AM lemma="Poor´s-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Poor</text>
-</LM>
 <LM type="Other">
 <text>3v1: Poor ´ s</text>
 </LM>

@@ -799,9 +799,6 @@
 <LM type="Other">
 <text>2v1: 77 letý</text>
 </LM>
-<LM type="New Form">
-<text>77</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2356-001-p1s3W2-Ta">

@@ -2432,9 +2432,6 @@
 <form>čtyř-</form>
 <tag lemma="čtyř-" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>čtyř</text>
-</LM>
 <LM type="Other">
 <text>2v1: čtyř -</text>
 </LM>

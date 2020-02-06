@@ -4530,9 +4530,6 @@
 <LM type="Other">
 <text>2v1: 21 měsíční</text>
 </LM>
-<LM type="New Form">
-<text>21</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1004-001-p1s12W19-Ta">
@@ -7151,9 +7148,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 250 krát</text>
-</LM>
-<LM type="New Form">
-<text>250</text>
 </LM>
 </comment>
 </m>

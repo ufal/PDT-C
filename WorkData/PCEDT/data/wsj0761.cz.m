@@ -626,9 +626,6 @@
 <LM type="Other">
 <text>2v1: 33 letá</text>
 </LM>
-<LM type="New Form">
-<text>33</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0761-001-p1s2W2-Ta">

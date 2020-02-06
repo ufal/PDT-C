@@ -155,9 +155,6 @@
 <AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Weisfield</text>
-</LM>
 <LM type="Other">
 <text>3v1: Weisfield ' s</text>
 </LM>
@@ -373,9 +370,6 @@
 <comment>
 <LM type="Other">
 <text>3v1: Weisfield ' s</text>
-</LM>
-<LM type="New Form">
-<text>Weisfield</text>
 </LM>
 </comment>
 </m>
@@ -686,9 +680,6 @@
 <AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Weisfield</text>
-</LM>
 <LM type="Other">
 <text>3v1: Weisfield ' s</text>
 </LM>
@@ -840,9 +831,6 @@
 <comment>
 <LM type="Other">
 <text>3v1: Weisfield ' s</text>
-</LM>
-<LM type="New Form">
-<text>Weisfield</text>
 </LM>
 </comment>
 </m>
@@ -1193,9 +1181,6 @@
 <comment>
 <LM type="Other">
 <text>3v1: Weisfield ' s</text>
-</LM>
-<LM type="New Form">
-<text>Weisfield</text>
 </LM>
 </comment>
 </m>

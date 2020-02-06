@@ -10259,9 +10259,6 @@
 <LM type="Other">
 <text>2v1: 43 letou</text>
 </LM>
-<LM type="New Form">
-<text>43</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1903-001-p1s42W9-Ta">

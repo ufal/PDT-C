@@ -593,9 +593,6 @@
 <form>O'Rourke</form>
 <tag lemma="O'Rourke" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>O</text>
-</LM>
 <LM type="Other">
 <text>3v1: O ' Rourke</text>
 </LM>

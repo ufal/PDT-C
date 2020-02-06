@@ -843,9 +843,6 @@
 <AM lemma="Poor´s-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Poor</text>
-</LM>
 <LM type="Other">
 <text>3v1: Poor ´ s</text>
 </LM>
@@ -5707,9 +5704,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 400 členná</text>
-</LM>
-<LM type="New Form">
-<text>400</text>
 </LM>
 </comment>
 </m>

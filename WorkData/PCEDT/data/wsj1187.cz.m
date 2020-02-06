@@ -613,9 +613,6 @@
 <LM type="Other">
 <text>2v1: 100 akciový</text>
 </LM>
-<LM type="New Form">
-<text>100</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1187-001-p1s2W3-Ta">
@@ -2110,9 +2107,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 30 akciový</text>
-</LM>
-<LM type="New Form">
-<text>30</text>
 </LM>
 </comment>
 </m>
@@ -12591,9 +12585,6 @@
 <LM type="Other">
 <text>2v1: 35 hodinového</text>
 </LM>
-<LM type="New Form">
-<text>35</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1187-001-p1s42W17-Ta">
@@ -12708,9 +12699,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 37 hodinovému</text>
-</LM>
-<LM type="New Form">
-<text>37</text>
 </LM>
 </comment>
 </m>

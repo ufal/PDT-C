@@ -707,9 +707,6 @@
 <LM type="Other">
 <text>2v1: 52 týdenního</text>
 </LM>
-<LM type="New Form">
-<text>52</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0359-001-p1s2W12-Ta">
@@ -6855,9 +6852,6 @@
 <LM type="Other">
 <text>2v1: 22 násobek</text>
 </LM>
-<LM type="New Form">
-<text>22</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0359-001-p1s26W25-Ta">
@@ -7417,9 +7411,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 14 násobek</text>
-</LM>
-<LM type="New Form">
-<text>14</text>
 </LM>
 </comment>
 </m>
@@ -8913,9 +8904,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 12 měsíční</text>
-</LM>
-<LM type="New Form">
-<text>12</text>
 </LM>
 </comment>
 </m>

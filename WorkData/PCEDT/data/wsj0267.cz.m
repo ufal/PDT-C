@@ -2919,9 +2919,6 @@
 <LM type="Other">
 <text>2v1: 80 stránkové</text>
 </LM>
-<LM type="New Form">
-<text>80</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0267-001-p1s9W8-Ta">

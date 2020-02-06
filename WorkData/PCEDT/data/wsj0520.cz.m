@@ -1244,9 +1244,6 @@
 <AM lemma="Hart-Scott-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Hart</text>
-</LM>
 <LM type="Other">
 <text>3v1: Hart - Scott</text>
 </LM>

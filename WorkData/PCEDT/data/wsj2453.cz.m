@@ -3140,9 +3140,6 @@
 <form>S.Grove</form>
 <tag lemma="S.Grove" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>S</text>
-</LM>
 <LM type="Other">
 <text>3v1: S . Growe</text>
 </LM>

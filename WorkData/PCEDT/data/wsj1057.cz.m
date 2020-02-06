@@ -7629,9 +7629,6 @@
 <LM type="Other">
 <text>2v1: zhořknout hodně</text>
 </LM>
-<LM type="New Form">
-<text>zhořknout</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1057-001-p1s28W24-Ta">
@@ -14105,9 +14102,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 49 letý</text>
-</LM>
-<LM type="New Form">
-<text>49</text>
 </LM>
 </comment>
 </m>

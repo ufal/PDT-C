@@ -1156,9 +1156,6 @@
 <LM type="Other">
 <text>2v1: 80 bodový</text>
 </LM>
-<LM type="New Form">
-<text>80</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1151-001-p1s5W2-Ta">

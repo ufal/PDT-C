@@ -1156,9 +1156,6 @@
 <LM type="Other">
 <text>2v1: 1367 stránkový</text>
 </LM>
-<LM type="New Form">
-<text>1376</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2237-001-p1s4W22-Ta">

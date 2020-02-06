@@ -5353,9 +5353,6 @@
 <LM type="Other">
 <text>2v1: 19 měsíční</text>
 </LM>
-<LM type="New Form">
-<text>19</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0490-001-p1s18W7-Ta">

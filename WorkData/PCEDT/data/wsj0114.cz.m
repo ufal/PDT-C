@@ -8987,9 +8987,6 @@
 <LM type="Other">
 <text>2v1: L . </text>
 </LM>
-<LM type="New Form">
-<text>L</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0114-001-p1s33W9-Ta">

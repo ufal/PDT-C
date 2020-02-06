@@ -544,9 +544,6 @@
 <LM type="Other">
 <text>2v1: 409 milionová</text>
 </LM>
-<LM type="New Form">
-<text>409</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2303-001-p1s1W8-Ta">
@@ -3111,9 +3108,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 409 milionová</text>
-</LM>
-<LM type="New Form">
-<text>409</text>
 </LM>
 </comment>
 </m>

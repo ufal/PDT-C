@@ -736,9 +736,6 @@
 <LM type="Other">
 <text>2v1: 30 denní</text>
 </LM>
-<LM type="New Form">
-<text>30</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1382-001-p1s3W8-Ta">
@@ -1000,10 +997,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>2v1: 300 denní</text>
-</LM>
-<LM type="New Form">
-<text>300</text>
+<text>2v1: 300 denním</text>
 </LM>
 </comment>
 </m>

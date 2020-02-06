@@ -3478,9 +3478,6 @@
 <LM type="Other">
 <text>2v1: 13 násobek</text>
 </LM>
-<LM type="New Form">
-<text>13</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1490-001-p1s7W28-Ta">

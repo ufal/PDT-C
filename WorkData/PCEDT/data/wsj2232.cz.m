@@ -6093,9 +6093,6 @@
 <LM type="Other">
 <text>2v1: 27 bodovou</text>
 </LM>
-<LM type="New Form">
-<text>27</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2232-001-p1s19W7-Ta">

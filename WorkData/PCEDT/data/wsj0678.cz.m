@@ -506,9 +506,6 @@
 <AM lemma="51denní" src="manual">AAFP1----1A----</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>51</text>
-</LM>
 <LM type="Other">
 <text>2v1: 51 denní</text>
 </LM>

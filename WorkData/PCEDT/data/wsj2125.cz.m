@@ -671,9 +671,6 @@
 <AM lemma="Bloomingdale's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Bloomingdale</text>
-</LM>
 <LM type="Other">
 <text>3v1: Bloomingdale ' s</text>
 </LM>
@@ -897,9 +894,6 @@
 <comment>
 <LM type="Other">
 <text>5v1: B . A . T</text>
-</LM>
-<LM type="New Form">
-<text>B</text>
 </LM>
 </comment>
 </m>

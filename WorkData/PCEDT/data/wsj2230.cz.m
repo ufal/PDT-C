@@ -16358,9 +16358,6 @@
 <AM lemma="Sydney´s-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Sydney</text>
-</LM>
 <LM type="Other">
 <text>3v1: Sydney ´ s</text>
 </LM>
@@ -17270,9 +17267,6 @@
 <LM type="Other">
 <text>2v1: 100 akciový</text>
 </LM>
-<LM type="New Form">
-<text>100</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2230-001-p1s60W3-Ta">
@@ -17800,9 +17794,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 30 akciový</text>
-</LM>
-<LM type="New Form">
-<text>30</text>
 </LM>
 </comment>
 </m>

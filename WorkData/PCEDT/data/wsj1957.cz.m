@@ -1117,9 +1117,6 @@
 <LM type="Other">
 <text>2v1: 225 akciový</text>
 </LM>
-<LM type="New Form">
-<text>225</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1957-001-p1s4W3-Ta">

@@ -5996,9 +5996,6 @@
 <LM type="Other">
 <text>2v1: 48 letá</text>
 </LM>
-<LM type="New Form">
-<text>48</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1367-001-p1s22W4-Ta">

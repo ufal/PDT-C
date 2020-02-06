@@ -8509,9 +8509,6 @@
 <LM type="Other">
 <text>2v1: 12 letým</text>
 </LM>
-<LM type="New Form">
-<text>12</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0765-001-p1s31W32-Ta">
@@ -11356,9 +11353,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 33 bodového</text>
-</LM>
-<LM type="New Form">
-<text>33</text>
 </LM>
 </comment>
 </m>

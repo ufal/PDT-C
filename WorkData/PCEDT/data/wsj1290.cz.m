@@ -95,9 +95,6 @@
 <LM type="Other">
 <text>2v1: 35 letý</text>
 </LM>
-<LM type="New Form">
-<text>35</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1290-001-p1s0W7-Ta">
@@ -293,11 +290,8 @@
 <AM lemma="42letý" src="auto">AANS2----1A----</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>42</text>
-</LM>
 <LM type="Other">
-<text>2v1: 42  letý</text>
+<text>2v1: 42 letého</text>
 </LM>
 </comment>
 </m>

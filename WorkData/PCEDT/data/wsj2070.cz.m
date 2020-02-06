@@ -5144,9 +5144,6 @@
 <LM type="Other">
 <text>2v1: 190 bodový</text>
 </LM>
-<LM type="New Form">
-<text>190</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2070-001-p1s18W49-Ta">

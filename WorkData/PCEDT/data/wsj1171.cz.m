@@ -2362,9 +2362,6 @@
 <LM type="Other">
 <text>2v1: 47 letý</text>
 </LM>
-<LM type="New Form">
-<text>47</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1171-001-p1s8W13-Ta">
@@ -2587,9 +2584,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 33 letým</text>
-</LM>
-<LM type="New Form">
-<text>33</text>
 </LM>
 </comment>
 </m>
@@ -4039,9 +4033,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 80 bodového</text>
-</LM>
-<LM type="New Form">
-<text>80</text>
 </LM>
 </comment>
 </m>

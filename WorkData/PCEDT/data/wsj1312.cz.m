@@ -6145,9 +6145,6 @@
 <LM type="Other">
 <text>2v1: 15 letými</text>
 </LM>
-<LM type="New Form">
-<text>15</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1312-001-p1s18W9-Ta">
@@ -12197,9 +12194,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 45 miliardového</text>
-</LM>
-<LM type="New Form">
-<text>45</text>
 </LM>
 </comment>
 </m>

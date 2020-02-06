@@ -5292,9 +5292,6 @@
 <LM type="Other">
 <text>2v1: 34 stránkovém</text>
 </LM>
-<LM type="New Form">
-<text>34</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0956-001-p1s18W5-Ta">

@@ -452,9 +452,6 @@
 <form>8O</form>
 <tag lemma="8O" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>80</text>
-</LM>
 <LM type="Other">
 <text>1v3: &lt;5.80</text>
 </LM>

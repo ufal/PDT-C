@@ -62,9 +62,6 @@
 <AM lemma="Inc.uvedla-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Inc</text>
-</LM>
 <LM type="Other">
 <text>3v1: Inc . uvedla</text>
 </LM>
@@ -1857,9 +1854,6 @@
 <form>vrámci</form>
 <tag lemma="vrámci" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>v</text>
-</LM>
 <LM type="Other">
 <text>2v1: v rámci</text>
 </LM>

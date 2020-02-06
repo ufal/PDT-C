@@ -7651,9 +7651,6 @@
 <LM type="Other">
 <text>2v1: 14 leté</text>
 </LM>
-<LM type="New Form">
-<text>14</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1353-001-p1s23W21-Ta">

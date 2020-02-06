@@ -8317,9 +8317,6 @@
 <LM type="Other">
 <text>2v1: 400 denní</text>
 </LM>
-<LM type="New Form">
-<text>400</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0755-001-p1s28W11-Ta">

@@ -10091,12 +10091,9 @@
 <form>O'Brien</form>
 <tag>
 <AM lemma="O'Brien" src="auto">X@-------------</AM>
-<AM lemma="O'Brien_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="O'Brien_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>O</text>
-</LM>
 <LM type="Other">
 <text>3v1: O ' Brien</text>
 </LM>
@@ -11503,14 +11500,11 @@
 <form>O'Brien</form>
 <tag>
 <AM lemma="O'Brien" src="auto">X@-------------</AM>
-<AM lemma="O'Brien_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="O'Brien_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 <comment>
 <LM type="Other">
 <text>3v1: O ' Brien</text>
-</LM>
-<LM type="New Form">
-<text>O</text>
 </LM>
 </comment>
 </m>

@@ -6829,9 +6829,6 @@
 <LM type="Other">
 <text>2v1: 250 bodovém</text>
 </LM>
-<LM type="New Form">
-<text>250</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2222-001-p1s25W26-Ta">

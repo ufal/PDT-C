@@ -5326,9 +5326,6 @@
 <form>skvělý'</form>
 <tag lemma="skvělý'" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>skvělý</text>
-</LM>
 <LM type="Other">
 <text>2v1: skvělý '</text>
 </LM>
@@ -6753,9 +6750,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 72 letý</text>
-</LM>
-<LM type="New Form">
-<text>72</text>
 </LM>
 </comment>
 </m>

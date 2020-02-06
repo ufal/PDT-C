@@ -4201,9 +4201,6 @@
 <LM type="Other">
 <text>2v1: 40 násobku</text>
 </LM>
-<LM type="New Form">
-<text>40</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1069-001-p1s16W8-Ta">

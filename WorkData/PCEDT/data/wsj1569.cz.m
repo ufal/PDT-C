@@ -1420,9 +1420,6 @@
 <LM type="Other">
 <text>2v1: 10 letém</text>
 </LM>
-<LM type="New Form">
-<text>10</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1569-001-p1s8W3-Ta">

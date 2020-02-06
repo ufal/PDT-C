@@ -1658,12 +1658,9 @@
 <form>150bodového</form>
 <tag>
 <AM lemma="150bodového" src="auto">X@-------------</AM>
-<AM lemma="150bodový" src="manual">AAIS2----1A----</AM>
+<AM lemma="150bodový" src="manual" selected="1">AAIS2----1A----</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>150</text>
-</LM>
 <LM type="Other">
 <text>2v1: 150 bodového</text>
 </LM>
@@ -3712,7 +3709,7 @@
 <AM lemma="30minutový" src="auto">AAIP1----1A---6</AM>
 <AM lemma="30minutový" src="auto">AAIP4----1A---6</AM>
 <AM lemma="30minutový" src="auto">AAIP5----1A---6</AM>
-<AM lemma="30minutový" src="auto" recommended="1">AAIS1----1A----</AM>
+<AM lemma="30minutový" src="auto" recommended="1" selected="1">AAIS1----1A----</AM>
 <AM lemma="30minutový" src="auto">AAIS4----1A----</AM>
 <AM lemma="30minutový" src="auto">AAIS5----1A----</AM>
 <AM lemma="30minutový" src="auto">AAMP1----1A---6</AM>
@@ -3731,9 +3728,6 @@
 <LM type="Other">
 <text>2v1: 30 minutový</text>
 </LM>
-<LM type="New Form">
-<text>30</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0088-001-p1s8W9-Ta">
@@ -3744,12 +3738,9 @@
 <form>12bodový</form>
 <tag>
 <AM lemma="12bodový" src="auto">X@-------------</AM>
-<AM lemma="12bodový" src="manual">AAIS1----1A----</AM>
+<AM lemma="12bodový" src="manual" selected="1">AAIS1----1A----</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>12</text>
-</LM>
 <LM type="Other">
 <text>2v1: 12 bodový</text>
 </LM>
@@ -4383,14 +4374,11 @@
 <form>12bodový</form>
 <tag>
 <AM lemma="12bodový" src="auto">X@-------------</AM>
-<AM lemma="12bodový" src="manual">AAIS1----1A----</AM>
+<AM lemma="12bodový" src="manual" selected="1">AAIS1----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
 <text>2v1: 12 bodový</text>
-</LM>
-<LM type="New Form">
-<text>12</text>
 </LM>
 </comment>
 </m>
@@ -4741,14 +4729,11 @@
 <form>30bodovou</form>
 <tag>
 <AM lemma="30bodovou" src="auto">X@-------------</AM>
-<AM lemma="30bodový" src="manual">AAFS4----1A----</AM>
+<AM lemma="30bodový" src="manual" selected="1">AAFS4----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
 <text>2v1: 30 bodovou</text>
-</LM>
-<LM type="New Form">
-<text>30</text>
 </LM>
 </comment>
 </m>
@@ -5067,14 +5052,11 @@
 <form>12bodová</form>
 <tag>
 <AM lemma="12bodová" src="auto">X@-------------</AM>
-<AM lemma="12bodový" src="manual">AAFS1----1A----</AM>
+<AM lemma="12bodový" src="manual" selected="1">AAFS1----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
 <text>2v1: 12 bodová</text>
-</LM>
-<LM type="New Form">
-<text>12</text>
 </LM>
 </comment>
 </m>
@@ -5748,14 +5730,11 @@
 <form>30bodová</form>
 <tag>
 <AM lemma="30bodová" src="auto">X@-------------</AM>
-<AM lemma="30bodový" src="manual">AAFS1----1A----</AM>
+<AM lemma="30bodový" src="manual" selected="1">AAFS1----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
 <text>2v1: 30 bodová</text>
-</LM>
-<LM type="New Form">
-<text>30</text>
 </LM>
 </comment>
 </m>

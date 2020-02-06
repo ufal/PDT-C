@@ -117,9 +117,6 @@
 <form>R.</form>
 <tag lemma="R." src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>R</text>
-</LM>
 <LM type="Other">
 <text>2v1: R .</text>
 </LM>
@@ -304,9 +301,6 @@
 <form>L.</form>
 <tag lemma="L." src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>L</text>
-</LM>
 <LM type="Other">
 <text>2v1: L . </text>
 </LM>
@@ -2286,9 +2280,6 @@
 <AM lemma="Archer-Daniels-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Archer</text>
-</LM>
 <LM type="Other">
 <text>3v1: Archer - Daniels</text>
 </LM>
@@ -9383,9 +9374,6 @@
 <AM lemma="Christie's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Christie</text>
-</LM>
 <LM type="Other">
 <text>3v1: Christie ' s</text>
 </LM>

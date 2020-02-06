@@ -2209,9 +2209,6 @@
 <LM type="Other">
 <text>2v1: 318 krát</text>
 </LM>
-<LM type="New Form">
-<text>318</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1817-001-p1s6W8-Ta">

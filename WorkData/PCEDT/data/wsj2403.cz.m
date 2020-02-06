@@ -650,9 +650,6 @@
 <LM type="Other">
 <text>5v1: B . A . T</text>
 </LM>
-<LM type="New Form">
-<text>B</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2403-001-p1s1W14-Ta">
@@ -1362,9 +1359,6 @@
 <comment>
 <LM type="Other">
 <text>5v1: B . A . T</text>
-</LM>
-<LM type="New Form">
-<text>B</text>
 </LM>
 </comment>
 </m>
@@ -4068,9 +4062,6 @@
 <LM type="Other">
 <text>5v1: B . A . T</text>
 </LM>
-<LM type="New Form">
-<text>B</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2403-001-p1s10W25-Ta">
@@ -5950,9 +5941,6 @@
 <LM type="Other">
 <text>5v1: B . A . T</text>
 </LM>
-<LM type="New Form">
-<text>B</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2403-001-p1s15W4-Ta">
@@ -6639,9 +6627,6 @@
 <LM type="Other">
 <text>5v1: B . A . T</text>
 </LM>
-<LM type="New Form">
-<text>B</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2403-001-p1s17W17-Ta">
@@ -6965,9 +6950,6 @@
 <comment>
 <LM type="Other">
 <text>5v1: B . A . T</text>
-</LM>
-<LM type="New Form">
-<text>B</text>
 </LM>
 </comment>
 </m>

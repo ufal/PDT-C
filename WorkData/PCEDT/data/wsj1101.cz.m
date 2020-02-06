@@ -692,9 +692,6 @@
 <LM type="Other">
 <text>2v1: 20 stránkový</text>
 </LM>
-<LM type="New Form">
-<text>20</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1101-001-p1s2W8-Ta">

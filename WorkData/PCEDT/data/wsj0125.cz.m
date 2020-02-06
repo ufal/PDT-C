@@ -1159,9 +1159,6 @@
 <AM lemma="Moody's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Moody</text>
-</LM>
 <LM type="Other">
 <text>3v1: Moody ' s</text>
 </LM>
@@ -1266,9 +1263,6 @@
 <AM lemma="Poor's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Poor</text>
-</LM>
 <LM type="Other">
 <text>3v1: Poor ' s</text>
 </LM>
@@ -7704,9 +7698,6 @@
 <AM lemma="Moody's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Moody</text>
-</LM>
 <LM type="Other">
 <text>3v1: Moody ' s</text>
 </LM>

@@ -712,11 +712,8 @@
 <AM lemma="30denní" src="manual">AAIS7----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 30 denním</text>
-</LM>
 <LM type="New Form">
-<text>30</text>
+<text>třicetidenním</text>
 </LM>
 </comment>
 </m>
@@ -1008,9 +1005,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 300 denním</text>
-</LM>
-<LM type="New Form">
-<text>300</text>
 </LM>
 </comment>
 </m>

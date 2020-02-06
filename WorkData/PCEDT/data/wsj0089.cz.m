@@ -2528,7 +2528,7 @@
 <AM lemma="64letý" src="auto">AAMP1----1A---6</AM>
 <AM lemma="64letý" src="auto">AAMP4----1A---6</AM>
 <AM lemma="64letý" src="auto">AAMP5----1A---6</AM>
-<AM lemma="64letý" src="auto" recommended="1">AAMS1----1A----</AM>
+<AM lemma="64letý" src="auto" recommended="1" selected="1">AAMS1----1A----</AM>
 <AM lemma="64letý" src="auto">AAMS5----1A----</AM>
 <AM lemma="64letý" src="auto">AANP1----1A---6</AM>
 <AM lemma="64letý" src="auto">AANP4----1A---6</AM>
@@ -2538,9 +2538,6 @@
 <AM lemma="64letý" src="auto">AANS5----1A---6</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>64</text>
-</LM>
 <LM type="Other">
 <text>2v1: 64 letý</text>
 </LM>

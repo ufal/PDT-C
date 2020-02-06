@@ -11029,9 +11029,6 @@
 <LM type="Other">
 <text>2v1: 2 letý</text>
 </LM>
-<LM type="New Form">
-<text>2</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1626-001-p1s35W15-Ta">

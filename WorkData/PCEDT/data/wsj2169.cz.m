@@ -6479,9 +6479,6 @@
 <LM type="Other">
 <text>5v1: M . D . C</text>
 </LM>
-<LM type="New Form">
-<text>M</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2169-001-p1s20W47-Ta">
@@ -6565,9 +6562,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: a Price</text>
-</LM>
-<LM type="New Form">
-<text>a</text>
 </LM>
 </comment>
 </m>

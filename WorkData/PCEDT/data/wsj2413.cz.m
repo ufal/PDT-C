@@ -7290,9 +7290,6 @@
 <form>17h</form>
 <tag lemma="17h" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>17</text>
-</LM>
 <LM type="Other">
 <text>2v1: 17 h</text>
 </LM>
@@ -8694,9 +8691,6 @@
 <form>r.</form>
 <tag lemma="r." src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>r</text>
-</LM>
 <LM type="Other">
 <text>2v1: r .</text>
 </LM>
@@ -11309,9 +11303,6 @@
 <form>10h</form>
 <tag lemma="10h" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>10</text>
-</LM>
 <LM type="Other">
 <text>2v1: 10 h</text>
 </LM>

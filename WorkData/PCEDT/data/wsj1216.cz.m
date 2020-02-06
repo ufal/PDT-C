@@ -915,9 +915,6 @@
 <LM type="Other">
 <text>2v1: 500 členného</text>
 </LM>
-<LM type="New Form">
-<text>500</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1216-001-p1s4W8-Ta">
@@ -1061,9 +1058,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 40 letou</text>
-</LM>
-<LM type="New Form">
-<text>40</text>
 </LM>
 </comment>
 </m>

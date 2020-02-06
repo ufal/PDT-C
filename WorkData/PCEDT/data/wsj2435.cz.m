@@ -64,9 +64,6 @@
 <form>Co.z</form>
 <tag lemma="Co.z" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>Co</text>
-</LM>
 <LM type="Other">
 <text>3v1: Co . z</text>
 </LM>

@@ -1791,9 +1791,6 @@
 <AM lemma="Barron's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Barron</text>
-</LM>
 <LM type="Other">
 <text>3v1: Barron ' s</text>
 </LM>

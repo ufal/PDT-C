@@ -2324,11 +2324,8 @@
 <AM lemma="10letý" src="auto">AANP7----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 10 letými</text>
-</LM>
 <LM type="New Form">
-<text>10</text>
+<text>desetiletými</text>
 </LM>
 </comment>
 </m>

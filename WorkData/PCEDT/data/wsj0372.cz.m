@@ -108,9 +108,6 @@
 <LM type="Other">
 <text>2v1: 27 milionový</text>
 </LM>
-<LM type="New Form">
-<text>27</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0372-001-p1s0W11-Ta">

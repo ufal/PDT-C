@@ -98,9 +98,6 @@
 <AM lemma="S.A.uvedla-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>S</text>
-</LM>
 <LM type="Other">
 <text>5v1: S . A . uvedla</text>
 </LM>

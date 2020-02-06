@@ -35,9 +35,6 @@
 <LM type="Other">
 <text>2v1: L .</text>
 </LM>
-<LM type="New Form">
-<text>L</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0111-001-p1s0W3-Ta">
@@ -499,9 +496,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: L .</text>
-</LM>
-<LM type="New Form">
-<text>L</text>
 </LM>
 </comment>
 </m>
@@ -1003,9 +997,6 @@
 <LM type="Other">
 <text>2v1: L . </text>
 </LM>
-<LM type="New Form">
-<text>L</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0111-001-p1s3W3-Ta">
@@ -1168,9 +1159,6 @@
 <comment>
 <LM type="Other">
 <text>4v1: S . I .</text>
-</LM>
-<LM type="New Form">
-<text>S</text>
 </LM>
 </comment>
 </m>
@@ -1606,9 +1594,6 @@
 <form>L.</form>
 <tag lemma="L." src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>L</text>
-</LM>
 <LM type="Other">
 <text>2v1: L .</text>
 </LM>
@@ -2401,9 +2386,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: L . </text>
-</LM>
-<LM type="New Form">
-<text>L</text>
 </LM>
 </comment>
 </m>
@@ -3657,9 +3639,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: L . </text>
-</LM>
-<LM type="New Form">
-<text>L</text>
 </LM>
 </comment>
 </m>
@@ -6474,9 +6453,6 @@
 <AM lemma="L.-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>L</text>
-</LM>
 <LM type="Other">
 <text>2v1: L . </text>
 </LM>

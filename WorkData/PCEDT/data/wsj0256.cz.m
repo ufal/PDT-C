@@ -115,9 +115,6 @@
 <LM type="Other">
 <text>2v1: 91 denních</text>
 </LM>
-<LM type="New Form">
-<text>91</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0256-001-p1s0W8-Ta">
@@ -796,9 +793,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 182 denních</text>
-</LM>
-<LM type="New Form">
-<text>182</text>
 </LM>
 </comment>
 </m>

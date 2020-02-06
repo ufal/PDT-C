@@ -333,9 +333,6 @@
 <LM type="New Form">
 <text>Albanesové</text>
 </LM>
-<LM type="Other">
-<text>evidentně jde o ženu</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0378-001-p1s1W13-Ta">

@@ -253,9 +253,6 @@
 <AM lemma="190bodový" src="manual">AAIS2----1A----</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>190</text>
-</LM>
 <LM type="Other">
 <text>2v1: 190 bodového</text>
 </LM>

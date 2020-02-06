@@ -5106,13 +5106,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
-</LM>
-<LM type="Other">
 <text>2v1: 12 letého</text>
-</LM>
-<LM type="New Form">
-<text>12</text>
 </LM>
 </comment>
 </m>
@@ -14477,9 +14471,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 66 letý</text>
-</LM>
-<LM type="New Form">
-<text>66</text>
 </LM>
 </comment>
 </m>

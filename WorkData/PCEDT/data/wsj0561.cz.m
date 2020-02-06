@@ -7831,9 +7831,6 @@
 <LM type="Other">
 <text>2v1: 61 letému</text>
 </LM>
-<LM type="New Form">
-<text>61</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0561-001-p1s27W34-Ta">

@@ -593,9 +593,6 @@
 <LM type="Other">
 <text>2v1: 15 leté</text>
 </LM>
-<LM type="New Form">
-<text>15</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1674-001-p1s1W13-Ta">

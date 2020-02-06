@@ -8848,9 +8848,6 @@
 <LM type="Other">
 <text>2v1: 2 procentní</text>
 </LM>
-<LM type="New Form">
-<text>2</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0953-001-p1s35W12-Ta">

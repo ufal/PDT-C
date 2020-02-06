@@ -2613,9 +2613,6 @@
 <form>IranU</form>
 <tag lemma="IranU" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>Iran</text>
-</LM>
 <LM type="Other">
 <text>2v1: Iran U</text>
 </LM>

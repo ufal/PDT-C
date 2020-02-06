@@ -363,9 +363,6 @@
 <form>veWisconsinu</form>
 <tag lemma="veWisconsinu" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>ve</text>
-</LM>
 <LM type="Other">
 <text>2v1: ve Wisconsinu</text>
 </LM>

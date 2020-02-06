@@ -8356,9 +8356,6 @@
 <LM type="Other">
 <text>2v1: 11 miliónová</text>
 </LM>
-<LM type="New Form">
-<text>11</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1642-001-p1s31W17-Ta">

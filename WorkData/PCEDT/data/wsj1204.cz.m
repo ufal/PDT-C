@@ -1735,9 +1735,6 @@
 <LM type="Other">
 <text>2v1: 20 denní</text>
 </LM>
-<LM type="New Form">
-<text>20</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1204-001-p1s3W33-Ta">

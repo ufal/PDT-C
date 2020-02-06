@@ -1752,9 +1752,6 @@
 <form>tzv.</form>
 <tag lemma="tzv." src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>tzv</text>
-</LM>
 <LM type="Other">
 <text>2v1: tzv .</text>
 </LM>
@@ -8317,9 +8314,6 @@
 <form>J.B</form>
 <tag lemma="J.B" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>J</text>
-</LM>
 <LM type="Other">
 <text>3v1: J . B</text>
 </LM>

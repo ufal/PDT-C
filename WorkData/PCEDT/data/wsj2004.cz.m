@@ -3804,11 +3804,8 @@
 <AM lemma="40letý" src="auto">AANS5----1A---6</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 40 letý</text>
-</LM>
 <LM type="New Form">
-<text>40</text>
+<text>Čtyřicetiletý</text>
 </LM>
 </comment>
 </m>

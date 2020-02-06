@@ -2111,9 +2111,6 @@
 <LM type="Other">
 <text>2v1: 19 palcovými</text>
 </LM>
-<LM type="New Form">
-<text>19</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0677-001-p1s4W12-Ta">
@@ -3140,9 +3137,6 @@
 <LM type="Other">
 <text>2v1: 12 minutové</text>
 </LM>
-<LM type="New Form">
-<text>12</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0677-001-p1s9W7-Ta">
@@ -3292,9 +3286,6 @@
 <AM lemma="30vteřinový" src="auto">AANS5----1A----</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>30</text>
-</LM>
 <LM type="Other">
 <text>2v1: 30 vteřinové</text>
 </LM>

@@ -5902,9 +5902,6 @@
 <LM type="Other">
 <text>3v1: F . W</text>
 </LM>
-<LM type="New Form">
-<text>F</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2454-001-p1s18W3-Ta">

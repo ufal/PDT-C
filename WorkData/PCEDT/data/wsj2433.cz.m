@@ -6382,9 +6382,6 @@
 <AM lemma="U.S-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>U</text>
-</LM>
 <LM type="Other">
 <text>3v1:  U . S</text>
 </LM>
@@ -7696,9 +7693,6 @@
 <form>R.</form>
 <tag lemma="R." src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>R</text>
-</LM>
 <LM type="Other">
 <text>2v1: R .</text>
 </LM>
@@ -11098,9 +11092,6 @@
 <form>D.C</form>
 <tag lemma="D.C" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>D</text>
-</LM>
 <LM type="Other">
 <text>3v1:  D . C</text>
 </LM>
@@ -12085,9 +12076,6 @@
 <form>W.R</form>
 <tag lemma="W.R" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>W</text>
-</LM>
 <LM type="Other">
 <text>3v1: W . R</text>
 </LM>
@@ -13702,9 +13690,6 @@
 <LM type="Other">
 <text>2v1: 500 členné</text>
 </LM>
-<LM type="New Form">
-<text>500</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2433-001-p1s42W8-Ta">
@@ -13874,9 +13859,6 @@
 <form>D.C</form>
 <tag lemma="D.C" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>D</text>
-</LM>
 <LM type="Other">
 <text>3v1: D . C</text>
 </LM>
@@ -15759,9 +15741,6 @@
 <form>D.C</form>
 <tag lemma="D.C" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>D</text>
-</LM>
 <LM type="Other">
 <text>3v1: D . C</text>
 </LM>

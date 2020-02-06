@@ -12863,9 +12863,6 @@
 <form>nutná'</form>
 <tag lemma="nutná'" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>nutná</text>
-</LM>
 <LM type="Other">
 <text>2v1: nutná '</text>
 </LM>
@@ -12903,9 +12900,6 @@
 <form>přiměřená'</form>
 <tag lemma="přiměřená'" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>přiměřená</text>
-</LM>
 <LM type="Other">
 <text>2v1: přiměřená '</text>
 </LM>

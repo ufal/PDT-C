@@ -12720,9 +12720,6 @@
 <LM type="Other">
 <text>2v1: 35 členný</text>
 </LM>
-<LM type="New Form">
-<text>35</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1388-001-p1s52W2-Ta">

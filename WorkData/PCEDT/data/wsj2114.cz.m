@@ -742,9 +742,6 @@
 <LM type="Other">
 <text>2v1: 30 denním</text>
 </LM>
-<LM type="New Form">
-<text>30</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2114-001-p1s3W8-Ta">
@@ -1018,9 +1015,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 300 denním</text>
-</LM>
-<LM type="New Form">
-<text>300</text>
 </LM>
 </comment>
 </m>

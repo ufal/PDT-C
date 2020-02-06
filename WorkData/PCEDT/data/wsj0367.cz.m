@@ -170,9 +170,6 @@
 <LM type="Other">
 <text>2v1: 40 letý</text>
 </LM>
-<LM type="New Form">
-<text>40</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0367-001-p1s0W9-Ta">
@@ -7926,9 +7923,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 100 mílovém</text>
-</LM>
-<LM type="New Form">
-<text>100</text>
 </LM>
 </comment>
 </m>

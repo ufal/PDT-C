@@ -2350,9 +2350,6 @@
 <LM type="Other">
 <text>2v1: 28 uncových</text>
 </LM>
-<LM type="New Form">
-<text>28</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0941-001-p1s6W24-Ta">
@@ -2420,9 +2417,6 @@
 <AM lemma="5uncový" src="manual">AAFP2----1A----</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>5</text>
-</LM>
 <LM type="Other">
 <text>2v1: 5 uncových</text>
 </LM>

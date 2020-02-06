@@ -15977,9 +15977,6 @@
 <LM type="Other">
 <text>2v1: 13 týdenní</text>
 </LM>
-<LM type="New Form">
-<text>13</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2239-001-p1s60W2-Ta">
@@ -16089,9 +16086,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 26 týdenní</text>
-</LM>
-<LM type="New Form">
-<text>26</text>
 </LM>
 </comment>
 </m>

@@ -3617,9 +3617,6 @@
 <LM type="Other">
 <text>3v1: Poor ' s</text>
 </LM>
-<LM type="New Form">
-<text>Poor</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2417-001-p1s12W22-Ta">
@@ -6496,9 +6493,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 250 bodová</text>
-</LM>
-<LM type="New Form">
-<text>250</text>
 </LM>
 </comment>
 </m>

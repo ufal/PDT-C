@@ -3735,9 +3735,6 @@
 <LM type="Other">
 <text>2v1: 34 letá</text>
 </LM>
-<LM type="New Form">
-<text>34</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2351-001-p1s12W12-Ta">

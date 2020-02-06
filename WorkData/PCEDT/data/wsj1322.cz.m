@@ -5798,9 +5798,6 @@
 <LM type="Other">
 <text>2v1: 30 leté</text>
 </LM>
-<LM type="New Form">
-<text>30</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1322-001-p1s19W35-Ta">
@@ -8696,9 +8693,6 @@
 <LM type="Other">
 <text>2v1: 30 letou</text>
 </LM>
-<LM type="New Form">
-<text>30</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1322-001-p1s31W6-Ta">
@@ -11538,9 +11532,6 @@
 <LM type="Other">
 <text>2v1: 13 týdenní</text>
 </LM>
-<LM type="New Form">
-<text>13</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1322-001-p1s43W2-Ta">
@@ -11650,9 +11641,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 26 týdenní</text>
-</LM>
-<LM type="New Form">
-<text>26</text>
 </LM>
 </comment>
 </m>
@@ -12087,9 +12075,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 12 letých</text>
-</LM>
-<LM type="New Form">
-<text>12</text>
 </LM>
 </comment>
 </m>
@@ -15688,9 +15673,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 15 letými</text>
-</LM>
-<LM type="New Form">
-<text>15</text>
 </LM>
 </comment>
 </m>

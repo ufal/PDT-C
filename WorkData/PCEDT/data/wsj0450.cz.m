@@ -3810,9 +3810,6 @@
 <LM type="Other">
 <text>2v1: 27 letý</text>
 </LM>
-<LM type="New Form">
-<text>27</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0450-001-p1s8W5-Ta">
@@ -11026,9 +11023,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 35 letý</text>
-</LM>
-<LM type="New Form">
-<text>35</text>
 </LM>
 </comment>
 </m>

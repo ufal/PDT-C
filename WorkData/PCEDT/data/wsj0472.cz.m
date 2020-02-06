@@ -11610,9 +11610,6 @@
 <LM type="Other">
 <text>2v1: 2 letého</text>
 </LM>
-<LM type="New Form">
-<text>2</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0472-001-p1s37W11-Ta">

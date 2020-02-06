@@ -9502,9 +9502,6 @@
 <LM type="Other">
 <text>2v1: 19 členný</text>
 </LM>
-<LM type="New Form">
-<text>19</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2278-001-p1s32W2-Ta">
@@ -9834,9 +9831,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 165 členném</text>
-</LM>
-<LM type="New Form">
-<text>165</text>
 </LM>
 </comment>
 </m>

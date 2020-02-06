@@ -3065,9 +3065,6 @@
 <LM type="Other">
 <text>2v1: 68 letý</text>
 </LM>
-<LM type="New Form">
-<text>68</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0601-001-p1s10W19-Ta">
@@ -3216,9 +3213,6 @@
 <LM type="Other">
 <text>2v1: 85 letý</text>
 </LM>
-<LM type="New Form">
-<text>85</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0601-001-p1s10W27-Ta">
@@ -3333,9 +3327,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 73 letým</text>
-</LM>
-<LM type="New Form">
-<text>73</text>
 </LM>
 </comment>
 </m>
@@ -4673,9 +4664,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 54 letého</text>
-</LM>
-<LM type="New Form">
-<text>54</text>
 </LM>
 </comment>
 </m>

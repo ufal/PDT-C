@@ -1078,9 +1078,6 @@
 <form>vrámci</form>
 <tag lemma="vrámci" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>v</text>
-</LM>
 <LM type="Other">
 <text>2v1: v rámci</text>
 </LM>

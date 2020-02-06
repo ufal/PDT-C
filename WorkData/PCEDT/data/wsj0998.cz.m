@@ -1065,9 +1065,6 @@
 <LM type="Other">
 <text>2v1: 32 akrového</text>
 </LM>
-<LM type="New Form">
-<text>32</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0998-001-p1s4W3-Ta">

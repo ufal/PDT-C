@@ -4730,9 +4730,6 @@
 <LM type="Other">
 <text>2v1: 12 slabičný</text>
 </LM>
-<LM type="New Form">
-<text>12</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1936-001-p1s18W11-Ta">
@@ -6266,9 +6263,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 25 letou</text>
-</LM>
-<LM type="New Form">
-<text>25</text>
 </LM>
 </comment>
 </m>

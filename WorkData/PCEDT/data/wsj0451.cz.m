@@ -788,9 +788,6 @@
 <LM type="Other">
 <text>2v1: 6 litrovými</text>
 </LM>
-<LM type="New Form">
-<text>6</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0451-001-p1s1W43-Ta">
@@ -4857,9 +4854,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 24 měsíční</text>
-</LM>
-<LM type="New Form">
-<text>24</text>
 </LM>
 </comment>
 </m>

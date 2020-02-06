@@ -4940,9 +4940,6 @@
 <LM type="Other">
 <text>2v1: 100 akciový</text>
 </LM>
-<LM type="New Form">
-<text>100</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1015-001-p1s22W2-Ta">
@@ -5128,9 +5125,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 30 akciový</text>
-</LM>
-<LM type="New Form">
-<text>30</text>
 </LM>
 </comment>
 </m>
@@ -9914,9 +9908,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 80 bodové</text>
-</LM>
-<LM type="New Form">
-<text>80</text>
 </LM>
 </comment>
 </m>

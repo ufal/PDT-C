@@ -1248,9 +1248,6 @@
 <LM type="Other">
 <text>2v1: 45 členná</text>
 </LM>
-<LM type="New Form">
-<text>45</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1699-001-p1s4W7-Ta">
@@ -14088,9 +14085,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 38 milionového</text>
-</LM>
-<LM type="New Form">
-<text>38</text>
 </LM>
 </comment>
 </m>

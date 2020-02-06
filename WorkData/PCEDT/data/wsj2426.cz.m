@@ -232,9 +232,6 @@
 <form>S.p</form>
 <tag lemma="S.p" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>S</text>
-</LM>
 <LM type="Other">
 <text>3v1: S . p</text>
 </LM>

@@ -80,9 +80,6 @@
 <LM type="Other">
 <text>2v1: 60 letý</text>
 </LM>
-<LM type="New Form">
-<text>60</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1777-001-p1s0W6-Ta">

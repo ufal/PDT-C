@@ -1937,9 +1937,6 @@
 <LM type="Other">
 <text>2v1: 100 miligramovou</text>
 </LM>
-<LM type="New Form">
-<text>100</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2382-001-p1s6W15-Ta">
@@ -1976,9 +1973,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 50 miligramovou</text>
-</LM>
-<LM type="New Form">
-<text>50</text>
 </LM>
 </comment>
 </m>

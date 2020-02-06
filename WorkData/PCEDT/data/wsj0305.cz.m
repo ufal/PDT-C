@@ -289,9 +289,6 @@
 <AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Pinkerton</text>
-</LM>
 <LM type="Other">
 <text>3v1: Pinkerton ' s</text>
 </LM>
@@ -701,9 +698,6 @@
 <comment>
 <LM type="Other">
 <text>3v1: Pinkerton ' s</text>
-</LM>
-<LM type="New Form">
-<text>Pinkerton</text>
 </LM>
 </comment>
 </m>
@@ -3741,9 +3735,6 @@
 <LM type="Other">
 <text>3v1: Pinkerton ' s</text>
 </LM>
-<LM type="New Form">
-<text>Pinkerton</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0305-001-p1s10W35-Ta">
@@ -4224,9 +4215,6 @@
 <LM type="Other">
 <text>3v1: Pinkerton ' s</text>
 </LM>
-<LM type="New Form">
-<text>Pinkerton</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0305-001-p1s12W11-Ta">
@@ -4542,9 +4530,6 @@
 <comment>
 <LM type="Other">
 <text>3v1: Pinkerton ' s</text>
-</LM>
-<LM type="New Form">
-<text>Pinkerton</text>
 </LM>
 </comment>
 </m>
@@ -5133,9 +5118,6 @@
 <comment>
 <LM type="Other">
 <text>3v1: Pinkerton ' s</text>
-</LM>
-<LM type="New Form">
-<text>Pinkerton</text>
 </LM>
 </comment>
 </m>
@@ -6733,9 +6715,6 @@
 <AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Pinkerton</text>
-</LM>
 <LM type="Other">
 <text>3v1: Pinkerton ' s</text>
 </LM>
@@ -7721,9 +7700,6 @@
 <LM type="Other">
 <text>3v1: Pinkerton ' s</text>
 </LM>
-<LM type="New Form">
-<text>Pinkerton</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0305-001-p1s27W12-Ta">
@@ -8163,9 +8139,6 @@
 <LM type="Other">
 <text>3v1: Pinkerton ' s</text>
 </LM>
-<LM type="New Form">
-<text>Pinkerton</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0305-001-p1s27W48-Ta">
@@ -8371,9 +8344,6 @@
 <comment>
 <LM type="Other">
 <text>3v1: Pinkerton ' s</text>
-</LM>
-<LM type="New Form">
-<text>Pinkerton</text>
 </LM>
 </comment>
 </m>
@@ -8671,9 +8641,6 @@
 <LM type="Other">
 <text>2v1: - 3</text>
 </LM>
-<LM type="New Form">
-<text>-</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0305-001-p1s28W39-Ta">
@@ -8917,9 +8884,6 @@
 <comment>
 <LM type="Other">
 <text>3v1: Pinkerton ' s</text>
-</LM>
-<LM type="New Form">
-<text>Pinkerton</text>
 </LM>
 </comment>
 </m>
@@ -9633,9 +9597,6 @@
 <LM type="Other">
 <text>3v1: Pinkerton ' s</text>
 </LM>
-<LM type="New Form">
-<text>Pinkerton</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0305-001-p1s32W7-Ta">
@@ -9867,9 +9828,6 @@
 <AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Pinkerton</text>
-</LM>
 <LM type="Other">
 <text>3v1: Pinkerton ' s</text>
 </LM>
@@ -10398,9 +10356,6 @@
 <LM type="Other">
 <text>3v1: Pinkerton ' s</text>
 </LM>
-<LM type="New Form">
-<text>Pinkerton</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0305-001-p1s35W10-Ta">
@@ -10599,9 +10554,6 @@
 <comment>
 <LM type="Other">
 <text>3v1: Pinkerton ' s</text>
-</LM>
-<LM type="New Form">
-<text>Pinkerton</text>
 </LM>
 </comment>
 </m>
@@ -11087,9 +11039,6 @@
 <comment>
 <LM type="Other">
 <text>3v1: Pinkerton ' s</text>
-</LM>
-<LM type="New Form">
-<text>Pinkerton</text>
 </LM>
 </comment>
 </m>
@@ -11622,9 +11571,6 @@
 <comment>
 <LM type="Other">
 <text>3v1: Pinkerton ' s</text>
-</LM>
-<LM type="New Form">
-<text>Pinkerton</text>
 </LM>
 </comment>
 </m>
@@ -12328,9 +12274,6 @@
 <LM type="Other">
 <text>3v1: Pinkerton ' s</text>
 </LM>
-<LM type="New Form">
-<text>Pinkerton</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0305-001-p1s42W15-Ta">
@@ -12565,9 +12508,6 @@
 <AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Pinkerton</text>
-</LM>
 <LM type="Other">
 <text>3v1: Pinkerton ' s</text>
 </LM>
@@ -12725,9 +12665,6 @@
 <comment>
 <LM type="Other">
 <text>3v1: Pinkerton ' s</text>
-</LM>
-<LM type="New Form">
-<text>Pinkerton</text>
 </LM>
 </comment>
 </m>
@@ -13023,9 +12960,6 @@
 <comment>
 <LM type="Other">
 <text>3v1: Pinkerton ' s</text>
-</LM>
-<LM type="New Form">
-<text>Pinkerton</text>
 </LM>
 </comment>
 </m>
@@ -14306,9 +14240,6 @@
 <LM type="Other">
 <text>3v1: Pinkerton ' s</text>
 </LM>
-<LM type="New Form">
-<text>Pinkerton</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0305-001-p1s48W6-Ta">
@@ -14825,9 +14756,6 @@
 <LM type="Other">
 <text>3v1: Pinkerton ' s</text>
 </LM>
-<LM type="New Form">
-<text>Pinkerton</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0305-001-p1s50W13-Ta">
@@ -15318,9 +15246,6 @@
 <comment>
 <LM type="Other">
 <text>3v1: Pinkerton ' s</text>
-</LM>
-<LM type="New Form">
-<text>Pinkerton</text>
 </LM>
 </comment>
 </m>

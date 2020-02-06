@@ -1252,9 +1252,6 @@
 <LM type="Other">
 <text>2v1: 25 dolarová</text>
 </LM>
-<LM type="New Form">
-<text>25</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2213-001-p1s1W67-Ta">

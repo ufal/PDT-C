@@ -2844,9 +2844,6 @@
 <LM type="Other">
 <text>2v1: 150 megawattové</text>
 </LM>
-<LM type="New Form">
-<text>150</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0560-001-p1s8W21-Ta">
@@ -3043,9 +3040,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 300 megawattové</text>
-</LM>
-<LM type="New Form">
-<text>300</text>
 </LM>
 </comment>
 </m>
@@ -3717,9 +3711,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 55 megawattové</text>
-</LM>
-<LM type="New Form">
-<text>55</text>
 </LM>
 </comment>
 </m>

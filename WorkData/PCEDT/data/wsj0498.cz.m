@@ -1748,9 +1748,6 @@
 <LM type="Other">
 <text>2v1: 760 megabytový</text>
 </LM>
-<LM type="New Form">
-<text>760</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0498-001-p1s5W15-Ta">

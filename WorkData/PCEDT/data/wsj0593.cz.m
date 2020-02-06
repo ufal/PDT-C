@@ -35,9 +35,6 @@
 <LM type="Other">
 <text>2v1: L . </text>
 </LM>
-<LM type="New Form">
-<text>L</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0593-001-p1s0W3-Ta">

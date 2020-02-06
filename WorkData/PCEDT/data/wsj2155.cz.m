@@ -2344,9 +2344,6 @@
 <form>Ltd.v</form>
 <tag lemma="Ltd.v" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>Ltd</text>
-</LM>
 <LM type="Other">
 <text>3v1: Ltd . v</text>
 </LM>
@@ -2633,9 +2630,6 @@
 <comment>
 <LM type="Other">
 <text>3v1: N . Y</text>
-</LM>
-<LM type="New Form">
-<text>N</text>
 </LM>
 </comment>
 </m>

@@ -237,9 +237,6 @@
 <AM lemma="44letý" src="auto">AANS5----1A---6</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>44</text>
-</LM>
 <LM type="Other">
 <text>2v1: 44 letý</text>
 </LM>
@@ -778,9 +775,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 37 letý</text>
-</LM>
-<LM type="New Form">
-<text>37</text>
 </LM>
 </comment>
 </m>

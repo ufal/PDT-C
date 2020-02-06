@@ -7121,14 +7121,11 @@
 <form>90dolarový</form>
 <tag>
 <AM lemma="90dolarový" src="auto">X@-------------</AM>
-<AM lemma="90dolarový" src="manual">AAIS1----1A----</AM>
+<AM lemma="90dolarový" src="manual" selected="1">AAIS1----1A----</AM>
 </tag>
 <comment>
 <LM type="Other">
 <text>2v1: 90 dolarový</text>
-</LM>
-<LM type="New Form">
-<text>90</text>
 </LM>
 </comment>
 </m>

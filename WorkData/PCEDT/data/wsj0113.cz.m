@@ -4516,9 +4516,6 @@
 <LM type="Other">
 <text>2v1: 30 letého</text>
 </LM>
-<LM type="New Form">
-<text>30</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0113-001-p1s14W21-Ta">

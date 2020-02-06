@@ -742,9 +742,6 @@
 <LM type="Other">
 <text>3v1: C . E</text>
 </LM>
-<LM type="New Form">
-<text>C</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2401-001-p1s5W3-Ta">

@@ -1200,9 +1200,6 @@
 <LM type="Other">
 <text>2v1: 30 minutový</text>
 </LM>
-<LM type="New Form">
-<text>30</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2165-001-p1s7W11-Ta">

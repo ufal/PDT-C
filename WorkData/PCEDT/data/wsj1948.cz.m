@@ -675,9 +675,6 @@
 <LM type="Other">
 <text>2v1: 14 měsíční</text>
 </LM>
-<LM type="New Form">
-<text>14</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1948-001-p1s1W39-Ta">
@@ -3646,9 +3643,6 @@
 <LM type="Other">
 <text>2v1: 62 letého</text>
 </LM>
-<LM type="New Form">
-<text>62</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1948-001-p1s12W3-Ta">
@@ -4044,9 +4038,6 @@
 <LM type="Other">
 <text>2v1: 55 letý</text>
 </LM>
-<LM type="New Form">
-<text>55</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1948-001-p1s13W6-Ta">
@@ -4210,9 +4201,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 53 letý</text>
-</LM>
-<LM type="New Form">
-<text>53</text>
 </LM>
 </comment>
 </m>
@@ -4457,9 +4445,6 @@
 <LM type="Other">
 <text>2v1: 44 letý</text>
 </LM>
-<LM type="New Form">
-<text>44</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1948-001-p1s13W39-Ta">
@@ -4550,9 +4535,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 42 letý</text>
-</LM>
-<LM type="New Form">
-<text>42</text>
 </LM>
 </comment>
 </m>

@@ -387,9 +387,6 @@
 <LM type="Other">
 <text>2v1: 12 bodové</text>
 </LM>
-<LM type="New Form">
-<text>12</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0652-001-p1s1W4-Ta">

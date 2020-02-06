@@ -4450,9 +4450,6 @@
 <LM type="Other">
 <text>2v1: 73 letého</text>
 </LM>
-<LM type="New Form">
-<text>73</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1730-001-p1s17W7-Ta">
@@ -9432,9 +9429,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 14 leté</text>
-</LM>
-<LM type="New Form">
-<text>14</text>
 </LM>
 </comment>
 </m>

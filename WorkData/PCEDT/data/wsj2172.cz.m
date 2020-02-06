@@ -15374,9 +15374,6 @@
 <LM type="Other">
 <text>3v1: F . C</text>
 </LM>
-<LM type="New Form">
-<text>F</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2172-001-p1s53W4-Ta">

@@ -6241,9 +6241,6 @@
 <form>37krát</form>
 <tag lemma="37krát" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>37</text>
-</LM>
 <LM type="Other">
 <text>2v1: 37 krát</text>
 </LM>

@@ -9009,9 +9009,6 @@
 <form>koupit'</form>
 <tag lemma="koupit'" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>koupit</text>
-</LM>
 <LM type="Other">
 <text>2v1: koupit '</text>
 </LM>
@@ -9456,9 +9453,6 @@
 <comment>
 <LM type="Other">
 <text>3v1: Corp . ve</text>
-</LM>
-<LM type="New Form">
-<text>Corp</text>
 </LM>
 </comment>
 </m>

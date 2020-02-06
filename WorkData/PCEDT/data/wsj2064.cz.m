@@ -776,9 +776,6 @@
 <LM type="Other">
 <text>2v1: 90 miliardového</text>
 </LM>
-<LM type="New Form">
-<text>90</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2064-001-p1s2W23-Ta">

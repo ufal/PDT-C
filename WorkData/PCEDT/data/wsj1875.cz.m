@@ -2578,9 +2578,6 @@
 <LM type="Other">
 <text>2v1: 163 členný</text>
 </LM>
-<LM type="New Form">
-<text>163</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1875-001-p1s9W16-Ta">
@@ -3047,9 +3044,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 26 členné</text>
-</LM>
-<LM type="New Form">
-<text>26</text>
 </LM>
 </comment>
 </m>

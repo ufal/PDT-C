@@ -1595,9 +1595,6 @@
 <form>Dr.</form>
 <tag lemma="Dr." src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>Dr</text>
-</LM>
 <LM type="Other">
 <text>2v1: Dr .</text>
 </LM>
@@ -2357,9 +2354,6 @@
 <form>dr.</form>
 <tag lemma="dr." src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>dr</text>
-</LM>
 <LM type="Other">
 <text>2v1: dr .</text>
 </LM>

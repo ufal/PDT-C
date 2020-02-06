@@ -1555,9 +1555,6 @@
 <AM lemma="Zell's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Zell</text>
-</LM>
 <LM type="Other">
 <text>3v1: Zell ' s</text>
 </LM>

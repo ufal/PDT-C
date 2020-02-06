@@ -9820,9 +9820,6 @@
 <LM type="Other">
 <text>2v1: 100 akrovém</text>
 </LM>
-<LM type="New Form">
-<text>100</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1128-001-p1s37W40-Ta">

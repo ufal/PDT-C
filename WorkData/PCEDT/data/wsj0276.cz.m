@@ -1192,9 +1192,6 @@
 <LM type="Other">
 <text>2v1: 11 členném</text>
 </LM>
-<LM type="New Form">
-<text>11</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0276-001-p1s2W17-Ta">

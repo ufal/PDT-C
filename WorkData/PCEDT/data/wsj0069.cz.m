@@ -59,7 +59,7 @@
 <AM lemma="51letý" src="auto">AAMP1----1A---6</AM>
 <AM lemma="51letý" src="auto">AAMP4----1A---6</AM>
 <AM lemma="51letý" src="auto">AAMP5----1A---6</AM>
-<AM lemma="51letý" src="auto" recommended="1">AAMS1----1A----</AM>
+<AM lemma="51letý" src="auto" recommended="1" selected="1">AAMS1----1A----</AM>
 <AM lemma="51letý" src="auto">AAMS5----1A----</AM>
 <AM lemma="51letý" src="auto">AANP1----1A---6</AM>
 <AM lemma="51letý" src="auto">AANP4----1A---6</AM>
@@ -71,9 +71,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 51 letý</text>
-</LM>
-<LM type="New Form">
-<text>51</text>
 </LM>
 </comment>
 </m>

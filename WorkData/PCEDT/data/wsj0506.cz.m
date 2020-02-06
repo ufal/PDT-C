@@ -205,9 +205,6 @@
 <LM type="Other">
 <text>3v1: F - A </text>
 </LM>
-<LM type="New Form">
-<text>F</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0506-001-p1s0W18-Ta">

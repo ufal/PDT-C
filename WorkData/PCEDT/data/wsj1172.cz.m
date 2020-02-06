@@ -888,9 +888,6 @@
 <LM type="Other">
 <text>2v1: 16 měsíční</text>
 </LM>
-<LM type="New Form">
-<text>16</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1172-001-p1s1W19-Ta">

@@ -4036,9 +4036,6 @@
 <LM type="Other">
 <text>2v1: 60 denního</text>
 </LM>
-<LM type="New Form">
-<text>60</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0461-001-p1s12W6-Ta">

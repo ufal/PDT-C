@@ -2359,9 +2359,6 @@
 <LM type="Other">
 <text>2v1: 19 leté</text>
 </LM>
-<LM type="New Form">
-<text>19</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1493-001-p1s8W12-Ta">

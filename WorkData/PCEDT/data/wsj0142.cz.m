@@ -12061,9 +12061,6 @@
 <LM type="Other">
 <text>3v1: Moody ' s</text>
 </LM>
-<LM type="New Form">
-<text>Moody</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0142-001-p1s38W9-Ta">
@@ -12393,9 +12390,6 @@
 <AM lemma="Moody's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Moody</text>
-</LM>
 <LM type="Other">
 <text>3v1: Moody ' s</text>
 </LM>
@@ -12930,9 +12924,6 @@
 <AM lemma="Moody's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Moody</text>
-</LM>
 <LM type="Other">
 <text>3v1: Moody ' s</text>
 </LM>
@@ -13719,9 +13710,6 @@
 <LM type="Other">
 <text>3v1: Moody ' s</text>
 </LM>
-<LM type="New Form">
-<text>Moody</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0142-001-p1s43W34-Ta">
@@ -13955,9 +13943,6 @@
 <comment>
 <LM type="Other">
 <text>3v1: Moody ' s</text>
-</LM>
-<LM type="New Form">
-<text>Moody</text>
 </LM>
 </comment>
 </m>

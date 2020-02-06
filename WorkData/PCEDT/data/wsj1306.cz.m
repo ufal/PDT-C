@@ -1238,9 +1238,6 @@
 <LM type="Other">
 <text>2v1: 10 miliardový</text>
 </LM>
-<LM type="New Form">
-<text>10</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1306-001-p1s4W20-Ta">

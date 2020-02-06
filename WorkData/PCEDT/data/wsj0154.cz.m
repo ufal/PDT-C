@@ -1310,9 +1310,6 @@
 <form>tj.</form>
 <tag lemma="tj." src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>tj</text>
-</LM>
 <LM type="Other">
 <text>2v1: tj .</text>
 </LM>

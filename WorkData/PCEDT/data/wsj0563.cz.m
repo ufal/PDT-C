@@ -5050,9 +5050,6 @@
 <LM type="Other">
 <text>2v1: 291 stránkové </text>
 </LM>
-<LM type="New Form">
-<text>291</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0563-001-p1s13W8-Ta">

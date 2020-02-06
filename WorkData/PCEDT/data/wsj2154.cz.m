@@ -3237,9 +3237,6 @@
 <form>80.let</form>
 <tag lemma="80.let" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>80</text>
-</LM>
 <LM type="Other">
 <text>3v1: 80 . let</text>
 </LM>

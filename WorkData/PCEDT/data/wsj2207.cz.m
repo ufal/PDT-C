@@ -5188,9 +5188,6 @@
 <LM type="Other">
 <text>2v1: 30 denní</text>
 </LM>
-<LM type="New Form">
-<text>30</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2207-001-p1s15W29-Ta">

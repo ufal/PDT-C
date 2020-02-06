@@ -2263,9 +2263,6 @@
 <LM type="Other">
 <text>2v1: 12 kusové</text>
 </LM>
-<LM type="New Form">
-<text>12</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1014-001-p1s5W57-Ta">

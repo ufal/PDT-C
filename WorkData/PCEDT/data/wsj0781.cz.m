@@ -11554,9 +11554,6 @@
 <LM type="Other">
 <text>2v1: 16 bitový</text>
 </LM>
-<LM type="New Form">
-<text>16</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0781-001-p1s40W26-Ta">
@@ -11715,13 +11712,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>špatná tokenizace</text>
-</LM>
-<LM type="Other">
 <text>2v1: 16 bitový</text>
-</LM>
-<LM type="New Form">
-<text>16</text>
 </LM>
 </comment>
 </m>
@@ -11910,9 +11901,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 32 bitové</text>
-</LM>
-<LM type="New Form">
-<text>32</text>
 </LM>
 </comment>
 </m>
@@ -12105,9 +12093,6 @@
 <LM type="Other">
 <text>2v1: 16 bitových</text>
 </LM>
-<LM type="New Form">
-<text>16</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0781-001-p1s42W14-Ta">
@@ -12137,9 +12122,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 32 bitových</text>
-</LM>
-<LM type="New Form">
-<text>32</text>
 </LM>
 </comment>
 </m>

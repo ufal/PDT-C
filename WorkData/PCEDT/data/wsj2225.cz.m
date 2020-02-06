@@ -5478,9 +5478,6 @@
 <LM type="Other">
 <text>2v1: 60 sekundové</text>
 </LM>
-<LM type="New Form">
-<text>60</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2225-001-p1s20W5-Ta">

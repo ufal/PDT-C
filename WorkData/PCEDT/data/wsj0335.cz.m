@@ -6985,9 +6985,6 @@
 <AM lemma="O'Connell_;S" src="manual">NNMS1-----A----</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>O</text>
-</LM>
 <LM type="Other">
 <text>3v1: O ' Connell</text>
 </LM>

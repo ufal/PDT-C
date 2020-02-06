@@ -178,9 +178,6 @@
 <LM type="Other">
 <text>2v1: 120 denním</text>
 </LM>
-<LM type="New Form">
-<text>120</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0265-001-p1s0W17-Ta">
@@ -1232,9 +1229,6 @@
 <AM lemma="120denní" src="manual">AANS2----1A----</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>120</text>
-</LM>
 <LM type="Other">
 <text>2v1: 120 denního</text>
 </LM>

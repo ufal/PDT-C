@@ -1072,9 +1072,6 @@
 <form>r.</form>
 <tag lemma="r." src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>r</text>
-</LM>
 <LM type="Other">
 <text>2v1: r .</text>
 </LM>

@@ -670,9 +670,6 @@
 <LM type="Other">
 <text>2v1: 38 letém</text>
 </LM>
-<LM type="New Form">
-<text>38</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1455-001-p1s4W3-Ta">
@@ -4192,9 +4189,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 20 patrová</text>
-</LM>
-<LM type="New Form">
-<text>20</text>
 </LM>
 </comment>
 </m>

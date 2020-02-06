@@ -5824,9 +5824,6 @@
 <LM type="Other">
 <text>2v1: 55 letá</text>
 </LM>
-<LM type="New Form">
-<text>55</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1377-001-p1s22W4-Ta">

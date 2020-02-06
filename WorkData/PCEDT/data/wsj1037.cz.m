@@ -11980,9 +11980,6 @@
 <LM type="Other">
 <text>2v1: 57 měsíční</text>
 </LM>
-<LM type="New Form">
-<text>57</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1037-001-p1s38W40-Ta">
@@ -12298,9 +12295,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 29 palcovou</text>
-</LM>
-<LM type="New Form">
-<text>29</text>
 </LM>
 </comment>
 </m>

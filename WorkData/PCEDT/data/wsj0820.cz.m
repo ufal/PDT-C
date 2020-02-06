@@ -3754,9 +3754,6 @@
 <LM type="Other">
 <text>2v1: 100 členném</text>
 </LM>
-<LM type="New Form">
-<text>100</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0820-001-p1s17W7-Ta">

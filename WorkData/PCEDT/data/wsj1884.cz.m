@@ -14146,9 +14146,6 @@
 <LM type="Other">
 <text>2v1: 14 bodovém</text>
 </LM>
-<LM type="New Form">
-<text>14</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1884-001-p1s36W12-Ta">

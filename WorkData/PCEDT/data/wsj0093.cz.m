@@ -2670,13 +2670,10 @@
 </w.rf>
 <form_change>num_normalization</form_change>
 <form>-4</form>
-<tag lemma="-4" src="auto" recommended="1">C=-------------</tag>
+<tag lemma="-4" src="auto" recommended="1" selected="1">C=-------------</tag>
 <comment>
 <LM type="Other">
 <text>2v1: - 4</text>
-</LM>
-<LM type="New Form">
-<text>-</text>
 </LM>
 </comment>
 </m>

@@ -13066,9 +13066,6 @@
 <LM type="Other">
 <text>2v1: 48 letý</text>
 </LM>
-<LM type="New Form">
-<text>48</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1647-001-p1s47W21-Ta">

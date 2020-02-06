@@ -9587,9 +9587,6 @@
 <form>23h</form>
 <tag lemma="23h" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>23</text>
-</LM>
 <LM type="Other">
 <text>2v1: 23 h</text>
 </LM>

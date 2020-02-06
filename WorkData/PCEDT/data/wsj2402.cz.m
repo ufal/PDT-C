@@ -3211,9 +3211,6 @@
 <form>134.týdnu</form>
 <tag lemma="134.týdnu" src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>134</text>
-</LM>
 <LM type="Other">
 <text>3v1: 134 . týdnu</text>
 </LM>

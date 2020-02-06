@@ -3218,9 +3218,6 @@
 <LM type="Other">
 <text>3v1: D . C</text>
 </LM>
-<LM type="New Form">
-<text>D</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2416-001-p1s11W14-Ta">

@@ -957,9 +957,6 @@
 <LM type="Other">
 <text>2v1: 10 letými</text>
 </LM>
-<LM type="New Form">
-<text>10</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1161-001-p1s2W19-Ta">
@@ -2831,9 +2828,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 10 letými</text>
-</LM>
-<LM type="New Form">
-<text>10</text>
 </LM>
 </comment>
 </m>
@@ -4997,9 +4991,6 @@
 <LM type="Other">
 <text>2v1: 10 letými</text>
 </LM>
-<LM type="New Form">
-<text>10</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1161-001-p1s14W26-Ta">
@@ -6348,9 +6339,6 @@
 <comment>
 <LM type="Other">
 <text>2v1: 10 letými</text>
-</LM>
-<LM type="New Form">
-<text>10</text>
 </LM>
 </comment>
 </m>

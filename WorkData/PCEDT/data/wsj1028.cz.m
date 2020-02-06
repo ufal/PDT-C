@@ -6330,9 +6330,6 @@
 <AM lemma="Moody´s-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="New Form">
-<text>Moody</text>
-</LM>
 <LM type="Other">
 <text>3v1: Moody ´ s</text>
 </LM>
