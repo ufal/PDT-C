@@ -2781,9 +2781,6 @@
 <LM type="Other">
 <text>1v2: &lt;1.5</text>
 </LM>
-<LM type="New Form">
-<text>.</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0026-001-p1s7W42-Ta">

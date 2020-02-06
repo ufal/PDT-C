@@ -18,9 +18,6 @@
 <form>R.</form>
 <tag lemma="R." src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>R</text>
-</LM>
 <LM type="Other">
 <text>2v1: R .</text>
 </LM>
@@ -762,9 +759,6 @@
 <form>L.</form>
 <tag lemma="L." src="auto">X@-------------</tag>
 <comment>
-<LM type="New Form">
-<text>L</text>
-</LM>
 <LM type="Other">
 <text>2v1: L . </text>
 </LM>
