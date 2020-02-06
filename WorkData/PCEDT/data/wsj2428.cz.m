@@ -16707,6 +16707,11 @@
 <AM lemma="New-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="new-77_,t" src="auto">F%-------------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>1v2: >newyorská</text>
+</LM>
+</comment>
 </m>
 <m id="m-wsj2428-001-p1s53W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -16723,7 +16728,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>mělo by být dohromady "newyorská"</text>
+<text>1v2: &lt;newyorská</text>
 </LM>
 </comment>
 </m>
