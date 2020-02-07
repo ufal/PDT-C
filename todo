@@ -1,5 +1,9 @@
 # -*- mode: org -*-
 
+* PCEDT + Faust [0/2]
+- [ ] Fix forms (new dictionary?)
+- [ ] Repeat all steps for Faust
+
 * Duplicates [4/4]
 
 Randomly select one file in *.p/ and move it to the main dir.
