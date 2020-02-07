@@ -1410,8 +1410,34 @@
 <form>1.září</form>
 <tag lemma="1.září" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>3v1: 1 . září</text>
+<LM type="New Form">
+<text>1</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2441-001-p1s3W31-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2441-001-p1s3W31</LM>
+</w.rf>
+<form>1.září</form>
+<tag lemma="1.září" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2441-001-p1s3W31-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2441-001-p1s3W31</LM>
+</w.rf>
+<form>1.září</form>
+<tag lemma="1.září" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>září</text>
 </LM>
 </comment>
 </m>
@@ -1433,8 +1459,34 @@
 <form>24.září</form>
 <tag lemma="24.září" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>3v1: 24 . září</text>
+<LM type="New Form">
+<text>24</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2441-001-p1s4W1-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2441-001-p1s4W1</LM>
+</w.rf>
+<form>24.září</form>
+<tag lemma="24.září" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2441-001-p1s4W1-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2441-001-p1s4W1</LM>
+</w.rf>
+<form>24.září</form>
+<tag lemma="24.září" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>září</text>
 </LM>
 </comment>
 </m>

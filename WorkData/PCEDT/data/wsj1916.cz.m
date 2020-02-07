@@ -1115,19 +1115,6 @@
 <AM lemma="tento" src="auto" recommended="1">PDZS2----------</AM>
 </tag>
 </m>
-<m id="m-wsj1916-001-p1s3W4-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj1916-001-p1s3W4</LM>
-</w.rf>
-<form>2</form>
-<tag lemma="2" src="auto" recommended="1">C=-------------</tag>
-<comment>
-<LM type="Other">
-<text>1v2: >2.5</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj1916-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1136,8 +1123,8 @@
 <form>,</form>
 <tag lemma="," src="auto" recommended="1">Z:-------------</tag>
 <comment>
-<LM type="Other">
-<text>1v2: &lt;2.5</text>
+<LM type="New Form">
+<text>2.5</text>
 </LM>
 </comment>
 </m>
@@ -2983,19 +2970,6 @@
 <AM lemma="část" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
-<m id="m-wsj1916-001-p1s8W13-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj1916-001-p1s8W13</LM>
-</w.rf>
-<form>2</form>
-<tag lemma="2" src="auto" recommended="1">C=-------------</tag>
-<comment>
-<LM type="Other">
-<text>1v2: >2.5</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj1916-001-p1s8W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3004,8 +2978,8 @@
 <form>,</form>
 <tag lemma="," src="auto" recommended="1">Z:-------------</tag>
 <comment>
-<LM type="Other">
-<text>1v2: &lt;2.5</text>
+<LM type="New Form">
+<text>2.5</text>
 </LM>
 </comment>
 </m>
@@ -7506,8 +7480,24 @@
 <AM lemma="55milionový_,s_^(^DD**55miliónový)" src="manual">AAIS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 55 milionového</text>
+<LM type="New Form">
+<text>55</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1916-001-p1s22W10-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1916-001-p1s22W10</LM>
+</w.rf>
+<form>55milionového</form>
+<tag>
+<AM lemma="55milionového" src="auto">X@-------------</AM>
+<AM lemma="55milionový_,s_^(^DD**55miliónový)" src="manual">AAIS2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>milionového</text>
 </LM>
 </comment>
 </m>

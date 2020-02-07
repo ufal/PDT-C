@@ -6421,8 +6421,24 @@
 <AM lemma="18jamkový" src="manual">AANS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 18 jamkové</text>
+<LM type="New Form">
+<text>18</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1121-001-p1s24W4-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1121-001-p1s24W4</LM>
+</w.rf>
+<form>18jamkové</form>
+<tag>
+<AM lemma="18jamkové" src="auto">X@-------------</AM>
+<AM lemma="18jamkový" src="manual">AANS1----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>jamkové</text>
 </LM>
 </comment>
 </m>

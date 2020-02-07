@@ -357,27 +357,6 @@
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
 </tag>
 </m>
-<m id="m-wsj1540-001-p1s1W12-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj1540-001-p1s1W12</LM>
-</w.rf>
-<form>společnosti</form>
-<tag>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFP1-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj1540-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

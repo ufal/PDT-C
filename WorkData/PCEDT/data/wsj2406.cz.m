@@ -6566,19 +6566,6 @@
 <AM lemma="umístění_^(*3it)" src="auto">NNNS6-----A----</AM>
 </tag>
 </m>
-<m id="m-wsj2406-001-p1s25W13-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj2406-001-p1s25W13</LM>
-</w.rf>
-<form>povolilo</form>
-<tag lemma="povolit" src="auto" recommended="1">VpNS---XR-AAP--</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj2406-001-p1s25W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9587,8 +9574,21 @@
 <form>23h</form>
 <tag lemma="23h" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: 23 h</text>
+<LM type="New Form">
+<text>23</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2406-001-p1s37W28-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2406-001-p1s37W28</LM>
+</w.rf>
+<form>23h</form>
+<tag lemma="23h" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>h</text>
 </LM>
 </comment>
 </m>

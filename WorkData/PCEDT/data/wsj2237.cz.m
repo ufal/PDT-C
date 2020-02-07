@@ -1153,8 +1153,24 @@
 <AM lemma="1376stránkový" src="manual">AAIS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 1367 stránkový</text>
+<LM type="New Form">
+<text>1367</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2237-001-p1s4W21-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2237-001-p1s4W21</LM>
+</w.rf>
+<form>1376stránkový</form>
+<tag>
+<AM lemma="1376stránkový" src="auto">X@-------------</AM>
+<AM lemma="1376stránkový" src="manual">AAIS1----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>stránkový</text>
 </LM>
 </comment>
 </m>

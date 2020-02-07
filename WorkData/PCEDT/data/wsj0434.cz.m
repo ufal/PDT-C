@@ -1757,23 +1757,6 @@
 <AM lemma="který" src="auto" recommended="1">P4YP4----------</AM>
 </tag>
 </m>
-<m id="m-wsj0434-001-p1s7W27-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj0434-001-p1s7W27</LM>
-</w.rf>
-<form>u</form>
-<tag>
-<AM lemma="u-1" src="auto" recommended="1">RR--2----------</AM>
-<AM lemma="u-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="u-88_:B" src="auto">NNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj0434-001-p1s7W28-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

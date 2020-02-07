@@ -1826,8 +1826,24 @@
 <AM lemma="42denní" src="manual">AAFS4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 42 denní</text>
+<LM type="New Form">
+<text>42</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0347-001-p1s6W15-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0347-001-p1s6W15</LM>
+</w.rf>
+<form>42denní</form>
+<tag>
+<AM lemma="42denní" src="auto">X@-------------</AM>
+<AM lemma="42denní" src="manual">AAFS4----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>denní</text>
 </LM>
 </comment>
 </m>

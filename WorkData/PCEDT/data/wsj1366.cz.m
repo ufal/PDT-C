@@ -7347,23 +7347,6 @@
 <form>Gonzalez</form>
 <tag lemma="Gonzalez_;S" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
-<m id="m-wsj1366-001-p1s21W28-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj1366-001-p1s21W28</LM>
-</w.rf>
-<form>je</form>
-<tag>
-<AM lemma="být" src="auto" recommended="1">VB-S---3P-AAI--</AM>
-<AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
-<AM lemma="on-1_^(oni/ono)" src="auto">PPXP4--3-------</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj1366-001-p1s21W29-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

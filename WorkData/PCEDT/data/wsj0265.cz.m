@@ -175,8 +175,24 @@
 <AM lemma="120denní" src="manual">AANS6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 120 denním</text>
+<LM type="New Form">
+<text>120</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0265-001-p1s0W16-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0265-001-p1s0W16</LM>
+</w.rf>
+<form>120denním</form>
+<tag>
+<AM lemma="120denním" src="auto">X@-------------</AM>
+<AM lemma="120denní" src="manual">AANS6----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>denním</text>
 </LM>
 </comment>
 </m>
@@ -1229,8 +1245,24 @@
 <AM lemma="120denní" src="manual">AANS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 120 denního</text>
+<LM type="New Form">
+<text>120</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0265-001-p1s2W13-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0265-001-p1s2W13</LM>
+</w.rf>
+<form>120denního</form>
+<tag>
+<AM lemma="120denního" src="auto">X@-------------</AM>
+<AM lemma="120denní" src="manual">AANS2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>denního</text>
 </LM>
 </comment>
 </m>

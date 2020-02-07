@@ -11695,23 +11695,6 @@
 <form>jsem</form>
 <tag lemma="být" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
-<m id="m-wsj0282-001-p1s33W19-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj0282-001-p1s33W19</LM>
-</w.rf>
-<form>se</form>
-<tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
-<AM lemma="s-1" src="auto">RV--2----------</AM>
-<AM lemma="s-1" src="auto">RV--7----------</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj0282-001-p1s33W20-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -610,8 +610,24 @@
 <AM lemma="100akciový" src="manual">AAIS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 100 akciový</text>
+<LM type="New Form">
+<text>100</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1187-001-p1s2W2-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1187-001-p1s2W2</LM>
+</w.rf>
+<form>100akciový</form>
+<tag>
+<AM lemma="100akciový" src="auto">X@-------------</AM>
+<AM lemma="100akciový" src="manual">AAIS1----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>akciový</text>
 </LM>
 </comment>
 </m>
@@ -2105,8 +2121,24 @@
 <AM lemma="30akciový" src="manual">AAIS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 30 akciový</text>
+<LM type="New Form">
+<text>30</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1187-001-p1s6W1-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1187-001-p1s6W1</LM>
+</w.rf>
+<form>30akciový</form>
+<tag>
+<AM lemma="30akciový" src="auto">X@-------------</AM>
+<AM lemma="30akciový" src="manual">AAIS1----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>akciový</text>
 </LM>
 </comment>
 </m>
@@ -12582,8 +12614,24 @@
 <AM lemma="35hodinový" src="manual">AAIS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 35 hodinového</text>
+<LM type="New Form">
+<text>35</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1187-001-p1s42W16-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1187-001-p1s42W16</LM>
+</w.rf>
+<form>35hodinového</form>
+<tag>
+<AM lemma="35hodinového" src="auto">X@-------------</AM>
+<AM lemma="35hodinový" src="manual">AAIS2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>hodinového</text>
 </LM>
 </comment>
 </m>
@@ -12697,8 +12745,24 @@
 <AM lemma="37hodinový" src="manual">AAIS3----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 37 hodinovému</text>
+<LM type="New Form">
+<text>37</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1187-001-p1s42W25-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1187-001-p1s42W25</LM>
+</w.rf>
+<form>37hodinovému</form>
+<tag>
+<AM lemma="37hodinovému" src="auto">X@-------------</AM>
+<AM lemma="37hodinový" src="manual">AAIS3----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>hodinovému</text>
 </LM>
 </comment>
 </m>

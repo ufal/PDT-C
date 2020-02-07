@@ -4689,8 +4689,24 @@
 <AM lemma="10milionkrát`10000000_,s_^(^DD**10miliónkrát)" src="manual" selected="1">Cv-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 10 milionkrát</text>
+<LM type="New Form">
+<text>10</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0045-001-p1s13W7-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0045-001-p1s13W7</LM>
+</w.rf>
+<form>10milionkrát</form>
+<tag>
+<AM lemma="10milionkrát" src="auto">X@-------------</AM>
+<AM lemma="10milionkrát`10000000_,s_^(^DD**10miliónkrát)" src="manual" selected="1">Cv-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>milionkrát</text>
 </LM>
 </comment>
 </m>

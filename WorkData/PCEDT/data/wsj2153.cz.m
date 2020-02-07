@@ -9009,8 +9009,21 @@
 <form>koupit'</form>
 <tag lemma="koupit'" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: koupit '</text>
+<LM type="New Form">
+<text>koupit</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2153-001-p1s35W15-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2153-001-p1s35W15</LM>
+</w.rf>
+<form>koupit'</form>
+<tag lemma="koupit'" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
 </LM>
 </comment>
 </m>
@@ -9451,8 +9464,40 @@
 <AM lemma="Corp.ve-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Corp . ve</text>
+<LM type="New Form">
+<text>Corp</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2153-001-p1s36W17-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2153-001-p1s36W17</LM>
+</w.rf>
+<form>Corp.ve</form>
+<tag>
+<AM lemma="Corp.ve" src="auto">X@-------------</AM>
+<AM lemma="Corp.ve-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2153-001-p1s36W17-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2153-001-p1s36W17</LM>
+</w.rf>
+<form>Corp.ve</form>
+<tag>
+<AM lemma="Corp.ve" src="auto">X@-------------</AM>
+<AM lemma="Corp.ve-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>ve</text>
 </LM>
 </comment>
 </m>

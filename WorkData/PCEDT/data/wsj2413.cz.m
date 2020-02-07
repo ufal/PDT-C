@@ -7290,8 +7290,21 @@
 <form>17h</form>
 <tag lemma="17h" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: 17 h</text>
+<LM type="New Form">
+<text>17</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2413-001-p1s24W12-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2413-001-p1s24W12</LM>
+</w.rf>
+<form>17h</form>
+<tag lemma="17h" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>h</text>
 </LM>
 </comment>
 </m>
@@ -8691,8 +8704,21 @@
 <form>r.</form>
 <tag lemma="r." src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: r .</text>
+<LM type="New Form">
+<text>r</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2413-001-p1s29W19-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2413-001-p1s29W19</LM>
+</w.rf>
+<form>r.</form>
+<tag lemma="r." src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
 </LM>
 </comment>
 </m>
@@ -11303,8 +11329,21 @@
 <form>10h</form>
 <tag lemma="10h" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: 10 h</text>
+<LM type="New Form">
+<text>10</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2413-001-p1s39W23-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2413-001-p1s39W23</LM>
+</w.rf>
+<form>10h</form>
+<tag lemma="10h" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>h</text>
 </LM>
 </comment>
 </m>

@@ -647,8 +647,76 @@
 <AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>5v1: B . A . T</text>
+<LM type="New Form">
+<text>B</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2403-001-p1s1W13-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2403-001-p1s1W13</LM>
+</w.rf>
+<form>B.A.T</form>
+<tag>
+<AM lemma="B.A.T" src="auto">X@-------------</AM>
+<AM lemma="B.A.T-77" src="manual">F%-------------</AM>
+<AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2403-001-p1s1W13-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2403-001-p1s1W13</LM>
+</w.rf>
+<form>B.A.T</form>
+<tag>
+<AM lemma="B.A.T" src="auto">X@-------------</AM>
+<AM lemma="B.A.T-77" src="manual">F%-------------</AM>
+<AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>A</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2403-001-p1s1W13-Ta-sw3">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2403-001-p1s1W13</LM>
+</w.rf>
+<form>B.A.T</form>
+<tag>
+<AM lemma="B.A.T" src="auto">X@-------------</AM>
+<AM lemma="B.A.T-77" src="manual">F%-------------</AM>
+<AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2403-001-p1s1W13-Ta-sw4">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2403-001-p1s1W13</LM>
+</w.rf>
+<form>B.A.T</form>
+<tag>
+<AM lemma="B.A.T" src="auto">X@-------------</AM>
+<AM lemma="B.A.T-77" src="manual">F%-------------</AM>
+<AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>T</text>
 </LM>
 </comment>
 </m>
@@ -1357,8 +1425,72 @@
 <AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>5v1: B . A . T</text>
+<LM type="New Form">
+<text>B</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2403-001-p1s2W30-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2403-001-p1s2W30</LM>
+</w.rf>
+<form>B.A.T</form>
+<tag>
+<AM lemma="B.A.T" src="auto">X@-------------</AM>
+<AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2403-001-p1s2W30-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2403-001-p1s2W30</LM>
+</w.rf>
+<form>B.A.T</form>
+<tag>
+<AM lemma="B.A.T" src="auto">X@-------------</AM>
+<AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>A</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2403-001-p1s2W30-Ta-sw3">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2403-001-p1s2W30</LM>
+</w.rf>
+<form>B.A.T</form>
+<tag>
+<AM lemma="B.A.T" src="auto">X@-------------</AM>
+<AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2403-001-p1s2W30-Ta-sw4">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2403-001-p1s2W30</LM>
+</w.rf>
+<form>B.A.T</form>
+<tag>
+<AM lemma="B.A.T" src="auto">X@-------------</AM>
+<AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>T</text>
 </LM>
 </comment>
 </m>
@@ -4059,8 +4191,72 @@
 <AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>5v1: B . A . T</text>
+<LM type="New Form">
+<text>B</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2403-001-p1s10W24-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2403-001-p1s10W24</LM>
+</w.rf>
+<form>B.A.T</form>
+<tag>
+<AM lemma="B.A.T" src="auto">X@-------------</AM>
+<AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2403-001-p1s10W24-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2403-001-p1s10W24</LM>
+</w.rf>
+<form>B.A.T</form>
+<tag>
+<AM lemma="B.A.T" src="auto">X@-------------</AM>
+<AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>A</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2403-001-p1s10W24-Ta-sw3">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2403-001-p1s10W24</LM>
+</w.rf>
+<form>B.A.T</form>
+<tag>
+<AM lemma="B.A.T" src="auto">X@-------------</AM>
+<AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2403-001-p1s10W24-Ta-sw4">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2403-001-p1s10W24</LM>
+</w.rf>
+<form>B.A.T</form>
+<tag>
+<AM lemma="B.A.T" src="auto">X@-------------</AM>
+<AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>T</text>
 </LM>
 </comment>
 </m>
@@ -5938,8 +6134,72 @@
 <AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>5v1: B . A . T</text>
+<LM type="New Form">
+<text>B</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2403-001-p1s15W3-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2403-001-p1s15W3</LM>
+</w.rf>
+<form>B.A.T</form>
+<tag>
+<AM lemma="B.A.T" src="auto">X@-------------</AM>
+<AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2403-001-p1s15W3-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2403-001-p1s15W3</LM>
+</w.rf>
+<form>B.A.T</form>
+<tag>
+<AM lemma="B.A.T" src="auto">X@-------------</AM>
+<AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>A</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2403-001-p1s15W3-Ta-sw3">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2403-001-p1s15W3</LM>
+</w.rf>
+<form>B.A.T</form>
+<tag>
+<AM lemma="B.A.T" src="auto">X@-------------</AM>
+<AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2403-001-p1s15W3-Ta-sw4">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2403-001-p1s15W3</LM>
+</w.rf>
+<form>B.A.T</form>
+<tag>
+<AM lemma="B.A.T" src="auto">X@-------------</AM>
+<AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>T</text>
 </LM>
 </comment>
 </m>
@@ -6624,8 +6884,72 @@
 <AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>5v1: B . A . T</text>
+<LM type="New Form">
+<text>B</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2403-001-p1s17W16-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2403-001-p1s17W16</LM>
+</w.rf>
+<form>B.A.T</form>
+<tag>
+<AM lemma="B.A.T" src="auto">X@-------------</AM>
+<AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2403-001-p1s17W16-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2403-001-p1s17W16</LM>
+</w.rf>
+<form>B.A.T</form>
+<tag>
+<AM lemma="B.A.T" src="auto">X@-------------</AM>
+<AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>A</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2403-001-p1s17W16-Ta-sw3">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2403-001-p1s17W16</LM>
+</w.rf>
+<form>B.A.T</form>
+<tag>
+<AM lemma="B.A.T" src="auto">X@-------------</AM>
+<AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2403-001-p1s17W16-Ta-sw4">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2403-001-p1s17W16</LM>
+</w.rf>
+<form>B.A.T</form>
+<tag>
+<AM lemma="B.A.T" src="auto">X@-------------</AM>
+<AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>T</text>
 </LM>
 </comment>
 </m>
@@ -6948,8 +7272,72 @@
 <AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>5v1: B . A . T</text>
+<LM type="New Form">
+<text>B</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2403-001-p1s19W9-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2403-001-p1s19W9</LM>
+</w.rf>
+<form>B.A.T</form>
+<tag>
+<AM lemma="B.A.T" src="auto">X@-------------</AM>
+<AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2403-001-p1s19W9-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2403-001-p1s19W9</LM>
+</w.rf>
+<form>B.A.T</form>
+<tag>
+<AM lemma="B.A.T" src="auto">X@-------------</AM>
+<AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>A</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2403-001-p1s19W9-Ta-sw3">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2403-001-p1s19W9</LM>
+</w.rf>
+<form>B.A.T</form>
+<tag>
+<AM lemma="B.A.T" src="auto">X@-------------</AM>
+<AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2403-001-p1s19W9-Ta-sw4">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2403-001-p1s19W9</LM>
+</w.rf>
+<form>B.A.T</form>
+<tag>
+<AM lemma="B.A.T" src="auto">X@-------------</AM>
+<AM lemma="B.A.T-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>T</text>
 </LM>
 </comment>
 </m>

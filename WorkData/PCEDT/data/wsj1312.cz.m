@@ -6142,8 +6142,26 @@
 <AM lemma="15letý" src="auto">AANP7----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 15 letými</text>
+<LM type="New Form">
+<text>15</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1312-001-p1s18W8-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1312-001-p1s18W8</LM>
+</w.rf>
+<form>15letými</form>
+<tag>
+<AM lemma="15letý" src="auto" recommended="1">AAFP7----1A----</AM>
+<AM lemma="15letý" src="auto">AAIP7----1A----</AM>
+<AM lemma="15letý" src="auto">AAMP7----1A----</AM>
+<AM lemma="15letý" src="auto">AANP7----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>letými</text>
 </LM>
 </comment>
 </m>
@@ -12192,8 +12210,24 @@
 <AM lemma="45miliardový" src="manual">AAIS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 45 miliardového</text>
+<LM type="New Form">
+<text>45</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1312-001-p1s38W26-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1312-001-p1s38W26</LM>
+</w.rf>
+<form>45miliardového</form>
+<tag>
+<AM lemma="45miliardového" src="auto">X@-------------</AM>
+<AM lemma="45miliardový" src="manual">AAIS2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>miliardového</text>
 </LM>
 </comment>
 </m>

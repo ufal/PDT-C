@@ -2657,8 +2657,40 @@
 <AM lemma="Christie's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Christie ' s</text>
+<LM type="New Form">
+<text>Christie</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0120-001-p1s12W2-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0120-001-p1s12W2</LM>
+</w.rf>
+<form>Christie's</form>
+<tag>
+<AM lemma="Christie's" src="auto">X@-------------</AM>
+<AM lemma="Christie's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0120-001-p1s12W2-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0120-001-p1s12W2</LM>
+</w.rf>
+<form>Christie's</form>
+<tag>
+<AM lemma="Christie's" src="auto">X@-------------</AM>
+<AM lemma="Christie's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -7354,8 +7386,40 @@
 <AM lemma="Sprint's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Sprint ' s</text>
+<LM type="New Form">
+<text>Sprint</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0120-001-p1s29W21-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0120-001-p1s29W21</LM>
+</w.rf>
+<form>Sprint's</form>
+<tag>
+<AM lemma="Sprint's" src="auto">X@-------------</AM>
+<AM lemma="Sprint's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0120-001-p1s29W21-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0120-001-p1s29W21</LM>
+</w.rf>
+<form>Sprint's</form>
+<tag>
+<AM lemma="Sprint's" src="auto">X@-------------</AM>
+<AM lemma="Sprint's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>

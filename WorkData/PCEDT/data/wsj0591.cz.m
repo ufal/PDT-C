@@ -1609,8 +1609,45 @@
 <AM lemma="79letý" src="auto">AANS5----1A---6</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 79 letý</text>
+<LM type="New Form">
+<text>79</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0591-001-p1s4W15-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0591-001-p1s4W15</LM>
+</w.rf>
+<form>79letý</form>
+<tag>
+<AM lemma="79letý" src="auto">AAFP1----1A---6</AM>
+<AM lemma="79letý" src="auto">AAFP4----1A---6</AM>
+<AM lemma="79letý" src="auto">AAFP5----1A---6</AM>
+<AM lemma="79letý" src="auto">AAFS2----1A---6</AM>
+<AM lemma="79letý" src="auto">AAFS3----1A---6</AM>
+<AM lemma="79letý" src="auto">AAFS6----1A---6</AM>
+<AM lemma="79letý" src="auto">AAIP1----1A---6</AM>
+<AM lemma="79letý" src="auto">AAIP4----1A---6</AM>
+<AM lemma="79letý" src="auto">AAIP5----1A---6</AM>
+<AM lemma="79letý" src="auto">AAIS1----1A----</AM>
+<AM lemma="79letý" src="auto">AAIS4----1A----</AM>
+<AM lemma="79letý" src="auto">AAIS5----1A----</AM>
+<AM lemma="79letý" src="auto">AAMP1----1A---6</AM>
+<AM lemma="79letý" src="auto">AAMP4----1A---6</AM>
+<AM lemma="79letý" src="auto">AAMP5----1A---6</AM>
+<AM lemma="79letý" src="auto" recommended="1">AAMS1----1A----</AM>
+<AM lemma="79letý" src="auto">AAMS5----1A----</AM>
+<AM lemma="79letý" src="auto">AANP1----1A---6</AM>
+<AM lemma="79letý" src="auto">AANP4----1A---6</AM>
+<AM lemma="79letý" src="auto">AANP5----1A---6</AM>
+<AM lemma="79letý" src="auto">AANS1----1A---6</AM>
+<AM lemma="79letý" src="auto">AANS4----1A---6</AM>
+<AM lemma="79letý" src="auto">AANS5----1A---6</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>letý</text>
 </LM>
 </comment>
 </m>
@@ -2572,19 +2609,6 @@
 </w.rf>
 <form>investorů</form>
 <tag lemma="investor" src="auto" recommended="1">NNMP2-----A----</tag>
-</m>
-<m id="m-wsj0591-001-p1s8W22-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj0591-001-p1s8W22</LM>
-</w.rf>
-<form>,</form>
-<tag lemma="," src="auto" recommended="1">Z:-------------</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0591-001-p1s8W23-Ta">
 <src.rf>tagger-a</src.rf>

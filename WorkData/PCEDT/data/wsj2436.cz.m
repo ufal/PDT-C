@@ -69,8 +69,40 @@
 <AM lemma="U.S-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: U . S</text>
+<LM type="New Form">
+<text>U</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2436-001-p1s0W6-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2436-001-p1s0W6</LM>
+</w.rf>
+<form>U.S</form>
+<tag>
+<AM lemma="U.S" src="auto">X@-------------</AM>
+<AM lemma="U.S-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2436-001-p1s0W6-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2436-001-p1s0W6</LM>
+</w.rf>
+<form>U.S</form>
+<tag>
+<AM lemma="U.S" src="auto">X@-------------</AM>
+<AM lemma="U.S-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>S</text>
 </LM>
 </comment>
 </m>
@@ -981,8 +1013,60 @@
 <form>U.S.News</form>
 <tag lemma="U.S.News" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>5v1: U . S . News</text>
+<LM type="New Form">
+<text>U</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2436-001-p1s4W10-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2436-001-p1s4W10</LM>
+</w.rf>
+<form>U.S.News</form>
+<tag lemma="U.S.News" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2436-001-p1s4W10-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2436-001-p1s4W10</LM>
+</w.rf>
+<form>U.S.News</form>
+<tag lemma="U.S.News" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>S</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2436-001-p1s4W10-Ta-sw3">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2436-001-p1s4W10</LM>
+</w.rf>
+<form>U.S.News</form>
+<tag lemma="U.S.News" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2436-001-p1s4W10-Ta-sw4">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2436-001-p1s4W10</LM>
+</w.rf>
+<form>U.S.News</form>
+<tag lemma="U.S.News" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>News</text>
 </LM>
 </comment>
 </m>
@@ -1354,8 +1438,21 @@
 <form>3.3mil</form>
 <tag lemma="3.3mil" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: 3.3 mil</text>
+<LM type="New Form">
+<text>3.3</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2436-001-p1s4W40-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2436-001-p1s4W40</LM>
+</w.rf>
+<form>3.3mil</form>
+<tag lemma="3.3mil" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>mil</text>
 </LM>
 </comment>
 </m>
@@ -1388,8 +1485,34 @@
 <form>B.Zuckerman</form>
 <tag lemma="B.Zuckerman" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>3v1: B . Zuckerman</text>
+<LM type="New Form">
+<text>B</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2436-001-p1s5W2-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2436-001-p1s5W2</LM>
+</w.rf>
+<form>B.Zuckerman</form>
+<tag lemma="B.Zuckerman" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2436-001-p1s5W2-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2436-001-p1s5W2</LM>
+</w.rf>
+<form>B.Zuckerman</form>
+<tag lemma="B.Zuckerman" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Zuckerman</text>
 </LM>
 </comment>
 </m>
@@ -2269,8 +2392,21 @@
 <form>to'</form>
 <tag lemma="to'" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: to '</text>
+<LM type="New Form">
+<text>to</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2436-001-p1s7W29-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2436-001-p1s7W29</LM>
+</w.rf>
+<form>to'</form>
+<tag lemma="to'" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
 </LM>
 </comment>
 </m>
@@ -2466,8 +2602,60 @@
 <form>U.S.News</form>
 <tag lemma="U.S.News" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>5v1: U . S . News</text>
+<LM type="New Form">
+<text>U</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2436-001-p1s8W16-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2436-001-p1s8W16</LM>
+</w.rf>
+<form>U.S.News</form>
+<tag lemma="U.S.News" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2436-001-p1s8W16-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2436-001-p1s8W16</LM>
+</w.rf>
+<form>U.S.News</form>
+<tag lemma="U.S.News" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>S</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2436-001-p1s8W16-Ta-sw3">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2436-001-p1s8W16</LM>
+</w.rf>
+<form>U.S.News</form>
+<tag lemma="U.S.News" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2436-001-p1s8W16-Ta-sw4">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2436-001-p1s8W16</LM>
+</w.rf>
+<form>U.S.News</form>
+<tag lemma="U.S.News" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>News</text>
 </LM>
 </comment>
 </m>

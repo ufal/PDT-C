@@ -2206,8 +2206,24 @@
 <AM lemma="318krát`318" src="manual">Cv-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 318 krát</text>
+<LM type="New Form">
+<text>318</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1817-001-p1s6W7-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1817-001-p1s6W7</LM>
+</w.rf>
+<form>318krát</form>
+<tag>
+<AM lemma="318krát" src="auto">X@-------------</AM>
+<AM lemma="318krát`318" src="manual">Cv-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>krát</text>
 </LM>
 </comment>
 </m>

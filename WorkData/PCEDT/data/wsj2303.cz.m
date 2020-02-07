@@ -541,8 +541,24 @@
 <AM lemma="409milionový_,s_^(^DD**409miliónový)" src="manual">AAFS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 409 milionová</text>
+<LM type="New Form">
+<text>409</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2303-001-p1s1W7-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2303-001-p1s1W7</LM>
+</w.rf>
+<form>409milionová</form>
+<tag>
+<AM lemma="409milionová" src="auto">X@-------------</AM>
+<AM lemma="409milionový_,s_^(^DD**409miliónový)" src="manual">AAFS1----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>milionová</text>
 </LM>
 </comment>
 </m>
@@ -3106,8 +3122,24 @@
 <AM lemma="409milionový_,s_^(^DD**409miliónový)" src="manual">AAFS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 409 milionová</text>
+<LM type="New Form">
+<text>409</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2303-001-p1s10W6-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2303-001-p1s10W6</LM>
+</w.rf>
+<form>409milionová</form>
+<tag>
+<AM lemma="409milionová" src="auto">X@-------------</AM>
+<AM lemma="409milionový_,s_^(^DD**409miliónový)" src="manual">AAFS1----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>milionová</text>
 </LM>
 </comment>
 </m>

@@ -10094,8 +10094,40 @@
 <AM lemma="O'Brien_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: O ' Brien</text>
+<LM type="New Form">
+<text>O</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0108-001-p1s44W18-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0108-001-p1s44W18</LM>
+</w.rf>
+<form>O'Brien</form>
+<tag>
+<AM lemma="O'Brien" src="auto">X@-------------</AM>
+<AM lemma="O'Brien_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0108-001-p1s44W18-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0108-001-p1s44W18</LM>
+</w.rf>
+<form>O'Brien</form>
+<tag>
+<AM lemma="O'Brien" src="auto">X@-------------</AM>
+<AM lemma="O'Brien_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>Brien</text>
 </LM>
 </comment>
 </m>
@@ -11503,8 +11535,40 @@
 <AM lemma="O'Brien_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: O ' Brien</text>
+<LM type="New Form">
+<text>O</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0108-001-p1s51W3-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0108-001-p1s51W3</LM>
+</w.rf>
+<form>O'Brien</form>
+<tag>
+<AM lemma="O'Brien" src="auto">X@-------------</AM>
+<AM lemma="O'Brien_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0108-001-p1s51W3-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0108-001-p1s51W3</LM>
+</w.rf>
+<form>O'Brien</form>
+<tag>
+<AM lemma="O'Brien" src="auto">X@-------------</AM>
+<AM lemma="O'Brien_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>Brien</text>
 </LM>
 </comment>
 </m>

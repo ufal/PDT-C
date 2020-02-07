@@ -962,8 +962,24 @@
 <AM lemma="30denní" src="manual">AAIS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 30 denního</text>
+<LM type="New Form">
+<text>30</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0637-001-p1s2W20-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0637-001-p1s2W20</LM>
+</w.rf>
+<form>30denního</form>
+<tag>
+<AM lemma="30denního" src="auto">X@-------------</AM>
+<AM lemma="30denní" src="manual">AAIS2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>denního</text>
 </LM>
 </comment>
 </m>

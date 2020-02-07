@@ -4897,8 +4897,21 @@
 <form>např.</form>
 <tag lemma="např." src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: např .</text>
+<LM type="New Form">
+<text>např</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2091-001-p1s13W17-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2091-001-p1s13W17</LM>
+</w.rf>
+<form>např.</form>
+<tag lemma="např." src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
 </LM>
 </comment>
 </m>

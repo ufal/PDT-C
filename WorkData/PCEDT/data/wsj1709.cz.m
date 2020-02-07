@@ -2613,8 +2613,21 @@
 <form>IranU</form>
 <tag lemma="IranU" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: Iran U</text>
+<LM type="New Form">
+<text>Iran</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1709-001-p1s8W32-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1709-001-p1s8W32</LM>
+</w.rf>
+<form>IranU</form>
+<tag lemma="IranU" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>U</text>
 </LM>
 </comment>
 </m>

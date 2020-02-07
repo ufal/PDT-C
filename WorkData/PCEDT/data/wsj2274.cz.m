@@ -1078,8 +1078,21 @@
 <form>vrámci</form>
 <tag lemma="vrámci" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: v rámci</text>
+<LM type="New Form">
+<text>v</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2274-001-p1s3W50-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2274-001-p1s3W50</LM>
+</w.rf>
+<form>vrámci</form>
+<tag lemma="vrámci" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>rámci</text>
 </LM>
 </comment>
 </m>

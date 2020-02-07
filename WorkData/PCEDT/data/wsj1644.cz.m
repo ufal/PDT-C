@@ -342,8 +342,24 @@
 <AM lemma="76stránkový" src="manual">AAIS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 76 stránkového</text>
+<LM type="New Form">
+<text>76</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1644-001-p1s1W4-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1644-001-p1s1W4</LM>
+</w.rf>
+<form>76stránkového</form>
+<tag>
+<AM lemma="76stránkového" src="auto">X@-------------</AM>
+<AM lemma="76stránkový" src="manual">AAIS2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>stránkového</text>
 </LM>
 </comment>
 </m>

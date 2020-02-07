@@ -36,8 +36,24 @@
 <AM lemma="americký" src="manual">AAMP1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: ´ Američtí</text>
+<LM type="New Form">
+<text>´</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2275-001-p1s1W2-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2275-001-p1s1W2</LM>
+</w.rf>
+<form>´Američtí</form>
+<tag>
+<AM lemma="´Američtí" src="auto">X@-------------</AM>
+<AM lemma="americký" src="manual">AAMP1----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>Američtí</text>
 </LM>
 </comment>
 </m>
@@ -63,8 +79,24 @@
 <AM lemma="spoj" src="manual">NNIP2-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: spojů ´ </text>
+<LM type="New Form">
+<text>spojů</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2275-001-p1s1W4-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2275-001-p1s1W4</LM>
+</w.rf>
+<form>spojů´</form>
+<tag>
+<AM lemma="spojů´" src="auto">X@-------------</AM>
+<AM lemma="spoj" src="manual">NNIP2-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>´</text>
 </LM>
 </comment>
 </m>
@@ -1053,8 +1085,40 @@
 <AM lemma="srpen" src="manual">NNIS2-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: 5 . srpna</text>
+<LM type="New Form">
+<text>5</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2275-001-p1s4W12-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2275-001-p1s4W12</LM>
+</w.rf>
+<form>5.srpna</form>
+<tag>
+<AM lemma="5.srpna" src="auto">X@-------------</AM>
+<AM lemma="srpen" src="manual">NNIS2-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2275-001-p1s4W12-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2275-001-p1s4W12</LM>
+</w.rf>
+<form>5.srpna</form>
+<tag>
+<AM lemma="5.srpna" src="auto">X@-------------</AM>
+<AM lemma="srpen" src="manual">NNIS2-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>srpna</text>
 </LM>
 </comment>
 </m>
@@ -1397,8 +1461,24 @@
 <AM lemma="mezinárodní" src="manual">NNNS2-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: ´ Mezinárodního</text>
+<LM type="New Form">
+<text>´</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2275-001-p1s6W6-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2275-001-p1s6W6</LM>
+</w.rf>
+<form>´Mezinárodního</form>
+<tag>
+<AM lemma="´Mezinárodního" src="auto">X@-------------</AM>
+<AM lemma="mezinárodní" src="manual">NNNS2-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>Mezinárodního</text>
 </LM>
 </comment>
 </m>
@@ -1460,8 +1540,24 @@
 <AM lemma="průmysl" src="manual">NNIS6-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: průmyslu ´</text>
+<LM type="New Form">
+<text>průmyslu</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2275-001-p1s6W11-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2275-001-p1s6W11</LM>
+</w.rf>
+<form>průmyslu´</form>
+<tag>
+<AM lemma="průmyslu´" src="auto">X@-------------</AM>
+<AM lemma="průmysl" src="manual">NNIS6-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>´</text>
 </LM>
 </comment>
 </m>

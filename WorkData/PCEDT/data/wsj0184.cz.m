@@ -2425,19 +2425,6 @@
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
 </tag>
 </m>
-<m id="m-wsj0184-001-p1s8W15-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj0184-001-p1s8W15</LM>
-</w.rf>
-<form>,</form>
-<tag lemma="," src="auto" recommended="1">Z:-------------</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj0184-001-p1s8W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

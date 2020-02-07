@@ -2841,8 +2841,24 @@
 <AM lemma="150megawattový" src="manual">AAFP4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 150 megawattové</text>
+<LM type="New Form">
+<text>150</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0560-001-p1s8W20-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0560-001-p1s8W20</LM>
+</w.rf>
+<form>150megawattové</form>
+<tag>
+<AM lemma="150megawattové" src="auto">X@-------------</AM>
+<AM lemma="150megawattový" src="manual">AAFP4----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>megawattové</text>
 </LM>
 </comment>
 </m>
@@ -3038,8 +3054,24 @@
 <AM lemma="300megawattový" src="manual">AAFP4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 300 megawattové</text>
+<LM type="New Form">
+<text>300</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0560-001-p1s8W33-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0560-001-p1s8W33</LM>
+</w.rf>
+<form>300megawattové</form>
+<tag>
+<AM lemma="300megawattové" src="auto">X@-------------</AM>
+<AM lemma="300megawattový" src="manual">AAFP4----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>megawattové</text>
 </LM>
 </comment>
 </m>
@@ -3709,8 +3741,24 @@
 <AM lemma="55megawattový" src="manual">AAFS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 55 megawattové</text>
+<LM type="New Form">
+<text>55</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0560-001-p1s11W20-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0560-001-p1s11W20</LM>
+</w.rf>
+<form>55megawattové</form>
+<tag>
+<AM lemma="55megawattové" src="auto">X@-------------</AM>
+<AM lemma="55megawattový" src="manual">AAFS2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>megawattové</text>
 </LM>
 </comment>
 </m>

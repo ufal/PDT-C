@@ -6985,8 +6985,40 @@
 <AM lemma="O'Connell_;S" src="manual">NNMS1-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: O ' Connell</text>
+<LM type="New Form">
+<text>O</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0335-001-p1s18W17-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0335-001-p1s18W17</LM>
+</w.rf>
+<form>O'Connell</form>
+<tag>
+<AM lemma="O'Connell" src="auto">X@-------------</AM>
+<AM lemma="O'Connell_;S" src="manual">NNMS1-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0335-001-p1s18W17-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0335-001-p1s18W17</LM>
+</w.rf>
+<form>O'Connell</form>
+<tag>
+<AM lemma="O'Connell" src="auto">X@-------------</AM>
+<AM lemma="O'Connell_;S" src="manual">NNMS1-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>Connell</text>
 </LM>
 </comment>
 </m>

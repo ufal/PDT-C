@@ -213,8 +213,24 @@
 <AM lemma="52týdenní" src="manual">AAFS7----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 52 týdenní</text>
+<LM type="New Form">
+<text>52</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2305-001-p1s0W18-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2305-001-p1s0W18</LM>
+</w.rf>
+<form>52týdenní</form>
+<tag>
+<AM lemma="52týdenní" src="auto">X@-------------</AM>
+<AM lemma="52týdenní" src="manual">AAFS7----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>týdenní</text>
 </LM>
 </comment>
 </m>

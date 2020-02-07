@@ -1249,8 +1249,24 @@
 <AM lemma="25dolarový" src="manual">AAFS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 25 dolarová</text>
+<LM type="New Form">
+<text>25</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2213-001-p1s1W66-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2213-001-p1s1W66</LM>
+</w.rf>
+<form>25dolarová</form>
+<tag>
+<AM lemma="25dolarová" src="auto">X@-------------</AM>
+<AM lemma="25dolarový" src="manual">AAFS1----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>dolarová</text>
 </LM>
 </comment>
 </m>

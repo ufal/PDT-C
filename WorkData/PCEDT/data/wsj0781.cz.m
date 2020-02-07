@@ -11551,8 +11551,24 @@
 <AM lemma="16bitový" src="manual">AAIS4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 16 bitový</text>
+<LM type="New Form">
+<text>16</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0781-001-p1s40W25-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0781-001-p1s40W25</LM>
+</w.rf>
+<form>16bitový</form>
+<tag>
+<AM lemma="16bitový" src="auto">X@-------------</AM>
+<AM lemma="16bitový" src="manual">AAIS4----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>bitový</text>
 </LM>
 </comment>
 </m>
@@ -11711,8 +11727,24 @@
 <AM lemma="16bitový" src="manual">AAIS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 16 bitový</text>
+<LM type="New Form">
+<text>16</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0781-001-p1s41W2-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0781-001-p1s41W2</LM>
+</w.rf>
+<form>16bitový</form>
+<tag>
+<AM lemma="16bitový" src="auto">X@-------------</AM>
+<AM lemma="16bitový" src="manual">AAIS1----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>bitový</text>
 </LM>
 </comment>
 </m>
@@ -11899,8 +11931,24 @@
 <AM lemma="32bitový" src="manual">AAIP1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 32 bitové</text>
+<LM type="New Form">
+<text>32</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0781-001-p1s41W14-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0781-001-p1s41W14</LM>
+</w.rf>
+<form>32bitové</form>
+<tag>
+<AM lemma="32bitové" src="auto">X@-------------</AM>
+<AM lemma="32bitový" src="manual">AAIP1----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>bitové</text>
 </LM>
 </comment>
 </m>
@@ -12090,8 +12138,24 @@
 <AM lemma="16bitový" src="manual">AAIP2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 16 bitových</text>
+<LM type="New Form">
+<text>16</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0781-001-p1s42W13-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0781-001-p1s42W13</LM>
+</w.rf>
+<form>16bitových</form>
+<tag>
+<AM lemma="16bitových" src="auto">X@-------------</AM>
+<AM lemma="16bitový" src="manual">AAIP2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>bitových</text>
 </LM>
 </comment>
 </m>
@@ -12120,8 +12184,24 @@
 <AM lemma="32bitový" src="manual">AAIP2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 32 bitových</text>
+<LM type="New Form">
+<text>32</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0781-001-p1s42W15-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0781-001-p1s42W15</LM>
+</w.rf>
+<form>32bitových</form>
+<tag>
+<AM lemma="32bitových" src="auto">X@-------------</AM>
+<AM lemma="32bitový" src="manual">AAIP2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>bitových</text>
 </LM>
 </comment>
 </m>

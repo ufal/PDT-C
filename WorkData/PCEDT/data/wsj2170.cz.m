@@ -3341,8 +3341,40 @@
 <AM lemma="Poor's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Poor ' s</text>
+<LM type="New Form">
+<text>Poor</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2170-001-p1s11W23-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2170-001-p1s11W23</LM>
+</w.rf>
+<form>Poor's</form>
+<tag>
+<AM lemma="Poor's" src="auto">X@-------------</AM>
+<AM lemma="Poor's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2170-001-p1s11W23-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2170-001-p1s11W23</LM>
+</w.rf>
+<form>Poor's</form>
+<tag>
+<AM lemma="Poor's" src="auto">X@-------------</AM>
+<AM lemma="Poor's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -7843,8 +7875,40 @@
 <AM lemma="Price's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Price ' s</text>
+<LM type="New Form">
+<text>Price</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2170-001-p1s25W36-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2170-001-p1s25W36</LM>
+</w.rf>
+<form>Price's</form>
+<tag>
+<AM lemma="Price's" src="auto">X@-------------</AM>
+<AM lemma="Price's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2170-001-p1s25W36-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2170-001-p1s25W36</LM>
+</w.rf>
+<form>Price's</form>
+<tag>
+<AM lemma="Price's" src="auto">X@-------------</AM>
+<AM lemma="Price's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -11283,8 +11347,40 @@
 <AM lemma="Poor's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Poor ' s</text>
+<LM type="New Form">
+<text>Poor</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2170-001-p1s36W17-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2170-001-p1s36W17</LM>
+</w.rf>
+<form>Poor's</form>
+<tag>
+<AM lemma="Poor's" src="auto">X@-------------</AM>
+<AM lemma="Poor's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2170-001-p1s36W17-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2170-001-p1s36W17</LM>
+</w.rf>
+<form>Poor's</form>
+<tag>
+<AM lemma="Poor's" src="auto">X@-------------</AM>
+<AM lemma="Poor's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>

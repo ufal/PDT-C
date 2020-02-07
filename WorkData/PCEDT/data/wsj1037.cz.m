@@ -11977,8 +11977,24 @@
 <AM lemma="57měsíční_^(lhůta;svit)" src="manual">AAFS4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 57 měsíční</text>
+<LM type="New Form">
+<text>57</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1037-001-p1s38W39-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1037-001-p1s38W39</LM>
+</w.rf>
+<form>57měsíční</form>
+<tag>
+<AM lemma="57měsíční" src="auto">X@-------------</AM>
+<AM lemma="57měsíční_^(lhůta;svit)" src="manual">AAFS4----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>měsíční</text>
 </LM>
 </comment>
 </m>
@@ -12293,8 +12309,24 @@
 <AM lemma="29palcový" src="manual">AAFS7----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 29 palcovou</text>
+<LM type="New Form">
+<text>29</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1037-001-p1s39W17-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1037-001-p1s39W17</LM>
+</w.rf>
+<form>29palcovou</form>
+<tag>
+<AM lemma="29palcovou" src="auto">X@-------------</AM>
+<AM lemma="29palcový" src="manual">AAFS7----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>palcovou</text>
 </LM>
 </comment>
 </m>

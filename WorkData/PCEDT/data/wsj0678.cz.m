@@ -506,8 +506,24 @@
 <AM lemma="51denní" src="manual">AAFP1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 51 denní</text>
+<LM type="New Form">
+<text>51</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0678-001-p1s2W1-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0678-001-p1s2W1</LM>
+</w.rf>
+<form>51denní</form>
+<tag>
+<AM lemma="51denní" src="auto">X@-------------</AM>
+<AM lemma="51denní" src="manual">AAFP1----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>denní</text>
 </LM>
 </comment>
 </m>

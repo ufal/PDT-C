@@ -4198,8 +4198,24 @@
 <AM lemma="40násobek" src="manual">NNIS6-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 40 násobku</text>
+<LM type="New Form">
+<text>40</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1069-001-p1s16W7-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1069-001-p1s16W7</LM>
+</w.rf>
+<form>40násobku</form>
+<tag>
+<AM lemma="40násobku" src="auto">X@-------------</AM>
+<AM lemma="40násobek" src="manual">NNIS6-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>násobku</text>
 </LM>
 </comment>
 </m>

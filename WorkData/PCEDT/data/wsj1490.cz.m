@@ -2793,19 +2793,6 @@
 <AM lemma="tak-3" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
-<m id="m-wsj1490-001-p1s6W8-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj1490-001-p1s6W8</LM>
-</w.rf>
-<form>8</form>
-<tag lemma="8" src="auto" recommended="1">C=-------------</tag>
-<comment>
-<LM type="Other">
-<text>1v2: >8.5</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj1490-001-p1s6W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2814,8 +2801,8 @@
 <form>,</form>
 <tag lemma="," src="auto" recommended="1">Z:-------------</tag>
 <comment>
-<LM type="Other">
-<text>1v2: &lt;8.5</text>
+<LM type="New Form">
+<text>8.5</text>
 </LM>
 </comment>
 </m>
@@ -3475,8 +3462,24 @@
 <AM lemma="13násobek" src="manual">NNIS1-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 13 násobek</text>
+<LM type="New Form">
+<text>13</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1490-001-p1s7W27-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1490-001-p1s7W27</LM>
+</w.rf>
+<form>13násobek</form>
+<tag>
+<AM lemma="13násobek" src="auto">X@-------------</AM>
+<AM lemma="13násobek" src="manual">NNIS1-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>násobek</text>
 </LM>
 </comment>
 </m>

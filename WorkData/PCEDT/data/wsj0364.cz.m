@@ -1003,8 +1003,24 @@
 <AM lemma="300denní" src="manual">AAIS7----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 300 denním</text>
+<LM type="New Form">
+<text>300</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0364-001-p1s4W8-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0364-001-p1s4W8</LM>
+</w.rf>
+<form>300denním</form>
+<tag>
+<AM lemma="300denním" src="auto">X@-------------</AM>
+<AM lemma="300denní" src="manual">AAIS7----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>denním</text>
 </LM>
 </comment>
 </m>

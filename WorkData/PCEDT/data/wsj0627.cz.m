@@ -2997,22 +2997,6 @@
 <AM lemma="myslit" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
-<m id="m-wsj0627-001-p1s9W5-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj0627-001-p1s9W5</LM>
-</w.rf>
-<form>si</form>
-<tag>
-<AM lemma="být" src="auto">VB-S---2P-AAI-7</AM>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X3----------</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj0627-001-p1s9W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

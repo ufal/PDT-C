@@ -385,8 +385,24 @@
 <AM lemma="52týdenní" src="manual">AANS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 52 týdenního</text>
+<LM type="New Form">
+<text>52</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2391-001-p1s2W24-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2391-001-p1s2W24</LM>
+</w.rf>
+<form>52týdenního</form>
+<tag>
+<AM lemma="52týdenního" src="auto">X@-------------</AM>
+<AM lemma="52týdenní" src="manual">AANS2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>týdenního</text>
 </LM>
 </comment>
 </m>

@@ -3751,8 +3751,25 @@
 <AM lemma="100členný" src="auto">AANS6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 100 členném</text>
+<LM type="New Form">
+<text>100</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0820-001-p1s17W6-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0820-001-p1s17W6</LM>
+</w.rf>
+<form>100členném</form>
+<tag>
+<AM lemma="100členný" src="auto" recommended="1">AAIS6----1A----</AM>
+<AM lemma="100členný" src="auto">AAMS6----1A----</AM>
+<AM lemma="100členný" src="auto">AANS6----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>členném</text>
 </LM>
 </comment>
 </m>

@@ -6330,8 +6330,40 @@
 <AM lemma="Moody´s-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Moody ´ s</text>
+<LM type="New Form">
+<text>Moody</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1028-001-p1s16W15-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1028-001-p1s16W15</LM>
+</w.rf>
+<form>Moody´s</form>
+<tag>
+<AM lemma="Moody´s" src="auto">X@-------------</AM>
+<AM lemma="Moody´s-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>´</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1028-001-p1s16W15-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1028-001-p1s16W15</LM>
+</w.rf>
+<form>Moody´s</form>
+<tag>
+<AM lemma="Moody´s" src="auto">X@-------------</AM>
+<AM lemma="Moody´s-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>

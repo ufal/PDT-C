@@ -739,8 +739,40 @@
 <AM lemma="C.E-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: C . E</text>
+<LM type="New Form">
+<text>C</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2401-001-p1s5W2-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2401-001-p1s5W2</LM>
+</w.rf>
+<form>C.E</form>
+<tag>
+<AM lemma="C.E" src="auto">X@-------------</AM>
+<AM lemma="C.E-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2401-001-p1s5W2-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2401-001-p1s5W2</LM>
+</w.rf>
+<form>C.E</form>
+<tag>
+<AM lemma="C.E" src="auto">X@-------------</AM>
+<AM lemma="C.E-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>E</text>
 </LM>
 </comment>
 </m>

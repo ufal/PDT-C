@@ -712,8 +712,24 @@
 <AM lemma="250megawattový" src="manual">AAFS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 250 megawattové</text>
+<LM type="New Form">
+<text>250</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1519-001-p1s1W20-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1519-001-p1s1W20</LM>
+</w.rf>
+<form>250megawattové</form>
+<tag>
+<AM lemma="250megawattové" src="auto">X@-------------</AM>
+<AM lemma="250megawattový" src="manual">AAFS2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>megawattové</text>
 </LM>
 </comment>
 </m>

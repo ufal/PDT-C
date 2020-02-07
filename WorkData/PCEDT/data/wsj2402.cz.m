@@ -3211,8 +3211,34 @@
 <form>134.týdnu</form>
 <tag lemma="134.týdnu" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>3v1: 134 . týdnu</text>
+<LM type="New Form">
+<text>134</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2402-001-p1s9W19-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2402-001-p1s9W19</LM>
+</w.rf>
+<form>134.týdnu</form>
+<tag lemma="134.týdnu" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2402-001-p1s9W19-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2402-001-p1s9W19</LM>
+</w.rf>
+<form>134.týdnu</form>
+<tag lemma="134.týdnu" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>týdnu</text>
 </LM>
 </comment>
 </m>

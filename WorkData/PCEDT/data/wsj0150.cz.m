@@ -55,8 +55,24 @@
 <AM lemma="L.-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: L .</text>
+<LM type="New Form">
+<text>L</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0150-001-p1s0W4-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0150-001-p1s0W4</LM>
+</w.rf>
+<form>L.</form>
+<tag>
+<AM lemma="L." src="auto">X@-------------</AM>
+<AM lemma="L.-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
 </LM>
 </comment>
 </m>
@@ -1685,8 +1701,24 @@
 <AM lemma="L.-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: L . </text>
+<LM type="New Form">
+<text>L</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0150-001-p1s6W12-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0150-001-p1s6W12</LM>
+</w.rf>
+<form>L.</form>
+<tag>
+<AM lemma="L." src="auto">X@-------------</AM>
+<AM lemma="L.-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
 </LM>
 </comment>
 </m>

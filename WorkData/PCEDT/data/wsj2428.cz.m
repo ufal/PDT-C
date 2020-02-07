@@ -2591,8 +2591,40 @@
 <AM lemma="Moody's-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Moody ' s</text>
+<LM type="New Form">
+<text>Moody</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2428-001-p1s7W36-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2428-001-p1s7W36</LM>
+</w.rf>
+<form>Moody's</form>
+<tag>
+<AM lemma="Moody's" src="auto">X@-------------</AM>
+<AM lemma="Moody's-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2428-001-p1s7W36-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2428-001-p1s7W36</LM>
+</w.rf>
+<form>Moody's</form>
+<tag>
+<AM lemma="Moody's" src="auto">X@-------------</AM>
+<AM lemma="Moody's-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -5490,8 +5522,24 @@
 <AM lemma="R.-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: R .</text>
+<LM type="New Form">
+<text>R</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2428-001-p1s17W5-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2428-001-p1s17W5</LM>
+</w.rf>
+<form>R.</form>
+<tag>
+<AM lemma="R." src="auto">X@-------------</AM>
+<AM lemma="R.-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
 </LM>
 </comment>
 </m>
@@ -11462,8 +11510,40 @@
 <AM lemma="L.P-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: L . P</text>
+<LM type="New Form">
+<text>L</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2428-001-p1s35W9-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2428-001-p1s35W9</LM>
+</w.rf>
+<form>L.P</form>
+<tag>
+<AM lemma="L.P" src="auto">X@-------------</AM>
+<AM lemma="L.P-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2428-001-p1s35W9-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2428-001-p1s35W9</LM>
+</w.rf>
+<form>L.P</form>
+<tag>
+<AM lemma="L.P" src="auto">X@-------------</AM>
+<AM lemma="L.P-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>P</text>
 </LM>
 </comment>
 </m>
@@ -16697,22 +16777,6 @@
 <form>oznámila</form>
 <tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
 </m>
-<m id="m-wsj2428-001-p1s53W25-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj2428-001-p1s53W25</LM>
-</w.rf>
-<form>New</form>
-<tag>
-<AM lemma="New-77" src="auto" recommended="1" selected="1">F%-------------</AM>
-<AM lemma="new-77_,t" src="auto">F%-------------</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>1v2: >newyorská</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj2428-001-p1s53W26-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -16727,8 +16791,8 @@
 <AM lemma="yorský" src="auto">AANP5----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>1v2: &lt;newyorská</text>
+<LM type="New Form">
+<text>newyorská</text>
 </LM>
 </comment>
 </m>
@@ -18593,8 +18657,40 @@
 <AM lemma="Moody's-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1:  Moody ' s</text>
+<LM type="New Form">
+<text>Moody</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2428-001-p1s59W2-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2428-001-p1s59W2</LM>
+</w.rf>
+<form>Moody's</form>
+<tag>
+<AM lemma="Moody's" src="auto">X@-------------</AM>
+<AM lemma="Moody's-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2428-001-p1s59W2-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2428-001-p1s59W2</LM>
+</w.rf>
+<form>Moody's</form>
+<tag>
+<AM lemma="Moody's" src="auto">X@-------------</AM>
+<AM lemma="Moody's-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -19264,8 +19360,40 @@
 <AM lemma="Grant's-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1:  Grant ' s</text>
+<LM type="New Form">
+<text>Grant</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2428-001-p1s61W22-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2428-001-p1s61W22</LM>
+</w.rf>
+<form>Grant's</form>
+<tag>
+<AM lemma="Grant's" src="auto">X@-------------</AM>
+<AM lemma="Grant's-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2428-001-p1s61W22-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2428-001-p1s61W22</LM>
+</w.rf>
+<form>Grant's</form>
+<tag>
+<AM lemma="Grant's" src="auto">X@-------------</AM>
+<AM lemma="Grant's-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>

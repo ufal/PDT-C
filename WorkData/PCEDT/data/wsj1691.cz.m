@@ -10117,8 +10117,24 @@
 <AM lemma="16podlažní" src="manual">AAFS6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 16 podlažní</text>
+<LM type="New Form">
+<text>16</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1691-001-p1s34W16-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1691-001-p1s34W16</LM>
+</w.rf>
+<form>16podlažní</form>
+<tag>
+<AM lemma="16podlažní" src="auto">X@-------------</AM>
+<AM lemma="16podlažní" src="manual">AAFS6----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>podlažní</text>
 </LM>
 </comment>
 </m>

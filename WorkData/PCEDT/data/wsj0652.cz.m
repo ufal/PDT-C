@@ -384,8 +384,24 @@
 <AM lemma="12bodový" src="manual">AAFS6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 12 bodové</text>
+<LM type="New Form">
+<text>12</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0652-001-p1s1W3-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0652-001-p1s1W3</LM>
+</w.rf>
+<form>12bodové</form>
+<tag>
+<AM lemma="12bodové" src="auto">X@-------------</AM>
+<AM lemma="12bodový" src="manual">AAFS6----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>bodové</text>
 </LM>
 </comment>
 </m>

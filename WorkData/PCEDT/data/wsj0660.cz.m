@@ -924,23 +924,6 @@
 <form>dolarů</form>
 <tag lemma="dolar" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
-<m id="m-wsj0660-001-p1s3W9-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj0660-001-p1s3W9</LM>
-</w.rf>
-<form>na</form>
-<tag>
-<AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
-<AM lemma="na-2" src="auto">II-------------</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj0660-001-p1s3W10-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

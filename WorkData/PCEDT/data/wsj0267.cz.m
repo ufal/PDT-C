@@ -2916,8 +2916,24 @@
 <AM lemma="80stránkový" src="manual">AAFS6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 80 stránkové</text>
+<LM type="New Form">
+<text>80</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0267-001-p1s9W7-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0267-001-p1s9W7</LM>
+</w.rf>
+<form>80stránkové</form>
+<tag>
+<AM lemma="80stránkové" src="auto">X@-------------</AM>
+<AM lemma="80stránkový" src="manual">AAFS6----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>stránkové</text>
 </LM>
 </comment>
 </m>

@@ -2432,8 +2432,21 @@
 <form>čtyř-</form>
 <tag lemma="čtyř-" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: čtyř -</text>
+<LM type="New Form">
+<text>čtyř</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2156-001-p1s9W23-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2156-001-p1s9W23</LM>
+</w.rf>
+<form>čtyř-</form>
+<tag lemma="čtyř-" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>-</text>
 </LM>
 </comment>
 </m>

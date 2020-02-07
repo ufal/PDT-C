@@ -1492,8 +1492,26 @@
 <AM lemma="tj-1_:B_^(to_je/jest)" src="manual">J^-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: tj .</text>
+<LM type="New Form">
+<text>tj</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0155-001-p1s4W15-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0155-001-p1s4W15</LM>
+</w.rf>
+<form>tj.</form>
+<tag>
+<AM lemma="tj." src="auto">X@-------------</AM>
+<AM lemma="tj.-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="tj.-88_:B" src="manual">J^-------------</AM>
+<AM lemma="tj-1_:B_^(to_je/jest)" src="manual">J^-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
 </LM>
 </comment>
 </m>

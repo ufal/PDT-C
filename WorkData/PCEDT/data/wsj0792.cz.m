@@ -202,8 +202,24 @@
 <AM lemma="48měsíční" src="manual">AAFS6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 48 měsíční</text>
+<LM type="New Form">
+<text>48</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0792-001-p1s0W17-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0792-001-p1s0W17</LM>
+</w.rf>
+<form>48měsíční</form>
+<tag>
+<AM lemma="48měsíční" src="auto">X@-------------</AM>
+<AM lemma="48měsíční" src="manual">AAFS6----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>měsíční</text>
 </LM>
 </comment>
 </m>

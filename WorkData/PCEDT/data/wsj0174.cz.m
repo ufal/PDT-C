@@ -7790,8 +7790,24 @@
 <AM lemma="237členný" src="manual">AANS6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 237 členném</text>
+<LM type="New Form">
+<text>237</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0174-001-p1s28W16-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0174-001-p1s28W16</LM>
+</w.rf>
+<form>237členném</form>
+<tag>
+<AM lemma="237členném" src="auto">X@-------------</AM>
+<AM lemma="237členný" src="manual">AANS6----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>členném</text>
 </LM>
 </comment>
 </m>

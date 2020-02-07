@@ -95,8 +95,45 @@
 <AM lemma="37letý" src="auto">AANS5----1A---6</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 37 letý</text>
+<LM type="New Form">
+<text>37</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1072-001-p1s0W6-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1072-001-p1s0W6</LM>
+</w.rf>
+<form>37letý</form>
+<tag>
+<AM lemma="37letý" src="auto">AAFP1----1A---6</AM>
+<AM lemma="37letý" src="auto">AAFP4----1A---6</AM>
+<AM lemma="37letý" src="auto">AAFP5----1A---6</AM>
+<AM lemma="37letý" src="auto">AAFS2----1A---6</AM>
+<AM lemma="37letý" src="auto">AAFS3----1A---6</AM>
+<AM lemma="37letý" src="auto">AAFS6----1A---6</AM>
+<AM lemma="37letý" src="auto">AAIP1----1A---6</AM>
+<AM lemma="37letý" src="auto">AAIP4----1A---6</AM>
+<AM lemma="37letý" src="auto">AAIP5----1A---6</AM>
+<AM lemma="37letý" src="auto">AAIS1----1A----</AM>
+<AM lemma="37letý" src="auto">AAIS4----1A----</AM>
+<AM lemma="37letý" src="auto">AAIS5----1A----</AM>
+<AM lemma="37letý" src="auto">AAMP1----1A---6</AM>
+<AM lemma="37letý" src="auto">AAMP4----1A---6</AM>
+<AM lemma="37letý" src="auto">AAMP5----1A---6</AM>
+<AM lemma="37letý" src="auto" recommended="1">AAMS1----1A----</AM>
+<AM lemma="37letý" src="auto">AAMS5----1A----</AM>
+<AM lemma="37letý" src="auto">AANP1----1A---6</AM>
+<AM lemma="37letý" src="auto">AANP4----1A---6</AM>
+<AM lemma="37letý" src="auto">AANP5----1A---6</AM>
+<AM lemma="37letý" src="auto">AANS1----1A---6</AM>
+<AM lemma="37letý" src="auto">AANS4----1A---6</AM>
+<AM lemma="37letý" src="auto">AANS5----1A---6</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>letý</text>
 </LM>
 </comment>
 </m>
@@ -326,8 +363,26 @@
 <AM lemma="63letý" src="auto">AANS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 63 letého</text>
+<LM type="New Form">
+<text>63</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1072-001-p1s0W24-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1072-001-p1s0W24</LM>
+</w.rf>
+<form>63letého</form>
+<tag>
+<AM lemma="63letý" src="auto">AAIS2----1A----</AM>
+<AM lemma="63letý" src="auto">AAMS2----1A----</AM>
+<AM lemma="63letý" src="auto" recommended="1">AAMS4----1A----</AM>
+<AM lemma="63letý" src="auto">AANS2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>letého</text>
 </LM>
 </comment>
 </m>

@@ -8353,8 +8353,24 @@
 <AM lemma="11miliónový" src="manual">AAFS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 11 miliónová</text>
+<LM type="New Form">
+<text>11</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1642-001-p1s31W16-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1642-001-p1s31W16</LM>
+</w.rf>
+<form>11miliónová</form>
+<tag>
+<AM lemma="11miliónová" src="auto">X@-------------</AM>
+<AM lemma="11miliónový" src="manual">AAFS1----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>miliónová</text>
 </LM>
 </comment>
 </m>

@@ -121,8 +121,24 @@
 <AM lemma="190bodovém" src="manual">AAIS6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 190 bodovém</text>
+<LM type="New Form">
+<text>190</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2201-001-p1s1W4-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2201-001-p1s1W4</LM>
+</w.rf>
+<form>190bodovém</form>
+<tag>
+<AM lemma="190bodovém" src="auto">X@-------------</AM>
+<AM lemma="190bodovém" src="manual">AAIS6----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>bodovém</text>
 </LM>
 </comment>
 </m>
@@ -12561,8 +12577,24 @@
 <AM lemma="142stránková" src="manual">AAFS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 142 stránková</text>
+<LM type="New Form">
+<text>142</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2201-001-p1s55W1-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2201-001-p1s55W1</LM>
+</w.rf>
+<form>142stránková</form>
+<tag>
+<AM lemma="142stránková" src="auto">X@-------------</AM>
+<AM lemma="142stránková" src="manual">AAFS1----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>stránková</text>
 </LM>
 </comment>
 </m>

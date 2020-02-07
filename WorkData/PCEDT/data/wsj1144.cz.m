@@ -3035,8 +3035,26 @@
 <AM lemma="27letý" src="auto" recommended="1">AANS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 27 letého</text>
+<LM type="New Form">
+<text>27</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1144-001-p1s9W20-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1144-001-p1s9W20</LM>
+</w.rf>
+<form>27letého</form>
+<tag>
+<AM lemma="27letý" src="auto">AAIS2----1A----</AM>
+<AM lemma="27letý" src="auto">AAMS2----1A----</AM>
+<AM lemma="27letý" src="auto">AAMS4----1A----</AM>
+<AM lemma="27letý" src="auto" recommended="1">AANS2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>letého</text>
 </LM>
 </comment>
 </m>

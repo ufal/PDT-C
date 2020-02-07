@@ -2420,8 +2420,24 @@
 <AM lemma="45akrový" src="manual">AAFS4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 45 akrovou</text>
+<LM type="New Form">
+<text>45</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1174-001-p1s8W34-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1174-001-p1s8W34</LM>
+</w.rf>
+<form>45akrovou</form>
+<tag>
+<AM lemma="45akrovou" src="auto">X@-------------</AM>
+<AM lemma="45akrový" src="manual">AAFS4----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>akrovou</text>
 </LM>
 </comment>
 </m>

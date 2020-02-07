@@ -2474,8 +2474,24 @@
 <AM lemma="12letý" src="auto">AAFS7----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 12 letou</text>
+<LM type="New Form">
+<text>12</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2115-001-p1s6W5-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2115-001-p1s6W5</LM>
+</w.rf>
+<form>12letou</form>
+<tag>
+<AM lemma="12letý" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="12letý" src="auto">AAFS7----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>letou</text>
 </LM>
 </comment>
 </m>

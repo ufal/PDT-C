@@ -3364,9 +3364,24 @@
 <AM lemma="aby" src="auto" recommended="1">J,-------------</AM>
 <AM lemma="aby-2_^(už_aby_to_bylo)" src="auto">TT-------------</AM>
 </tag>
+</m>
+<m id="m-wsj0277-001-p1s10W16-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0277-001-p1s10W16</LM>
+</w.rf>
+<form>aby</form>
+<tag>
+<AM lemma="aba_,t_^(arabský_plášť)" src="auto">NNFP1-----A----</AM>
+<AM lemma="aba_,t_^(arabský_plášť)" src="auto">NNFP4-----A----</AM>
+<AM lemma="aba_,t_^(arabský_plášť)" src="auto">NNFP5-----A----</AM>
+<AM lemma="aba_,t_^(arabský_plášť)" src="auto">NNFS2-----A----</AM>
+<AM lemma="aby" src="auto" recommended="1">J,-------------</AM>
+<AM lemma="aby-2_^(už_aby_to_bylo)" src="auto">TT-------------</AM>
+</tag>
 <comment>
-<LM type="Other">
-<text>2v1: aby se</text>
+<LM type="New Form">
+<text>se</text>
 </LM>
 </comment>
 </m>

@@ -1244,8 +1244,40 @@
 <AM lemma="Hart-Scott-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Hart - Scott</text>
+<LM type="New Form">
+<text>Hart</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0520-001-p1s2W38-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0520-001-p1s2W38</LM>
+</w.rf>
+<form>Hart-Scott</form>
+<tag>
+<AM lemma="Hart-Scott" src="auto">X@-------------</AM>
+<AM lemma="Hart-Scott-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>-</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0520-001-p1s2W38-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0520-001-p1s2W38</LM>
+</w.rf>
+<form>Hart-Scott</form>
+<tag>
+<AM lemma="Hart-Scott" src="auto">X@-------------</AM>
+<AM lemma="Hart-Scott-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>Scott</text>
 </LM>
 </comment>
 </m>

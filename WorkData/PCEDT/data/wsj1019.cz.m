@@ -843,8 +843,40 @@
 <AM lemma="Poor´s-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Poor ´ s</text>
+<LM type="New Form">
+<text>Poor</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1019-001-p1s2W15-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1019-001-p1s2W15</LM>
+</w.rf>
+<form>Poor´s</form>
+<tag>
+<AM lemma="Poor´s" src="auto">X@-------------</AM>
+<AM lemma="Poor´s-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>´</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1019-001-p1s2W15-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1019-001-p1s2W15</LM>
+</w.rf>
+<form>Poor´s</form>
+<tag>
+<AM lemma="Poor´s" src="auto">X@-------------</AM>
+<AM lemma="Poor´s-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -5702,8 +5734,27 @@
 <AM lemma="400členný" src="auto">AANP5----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 400 členná</text>
+<LM type="New Form">
+<text>400</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1019-001-p1s15W1-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1019-001-p1s15W1</LM>
+</w.rf>
+<form>400členná</form>
+<tag>
+<AM lemma="400členný" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="400členný" src="auto">AAFS5----1A----</AM>
+<AM lemma="400členný" src="auto">AANP1----1A----</AM>
+<AM lemma="400členný" src="auto">AANP4----1A----</AM>
+<AM lemma="400členný" src="auto">AANP5----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>členná</text>
 </LM>
 </comment>
 </m>

@@ -17032,24 +17032,6 @@
 <form>mohu</form>
 <tag lemma="moci" src="auto" recommended="1">VB-S---1P-AAI-1</tag>
 </m>
-<m id="m-wsj1574-001-p1s53W33-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj1574-001-p1s53W33</LM>
-</w.rf>
-<form>platby</form>
-<tag>
-<AM lemma="platba" src="auto">NNFP1-----A----</AM>
-<AM lemma="platba" src="auto" recommended="1">NNFP4-----A----</AM>
-<AM lemma="platba" src="auto">NNFP5-----A----</AM>
-<AM lemma="platba" src="auto">NNFS2-----A----</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj1574-001-p1s53W34-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

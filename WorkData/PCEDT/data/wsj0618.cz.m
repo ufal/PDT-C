@@ -2879,8 +2879,24 @@
 <AM lemma="15denní" src="manual">AAFS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 15 denní</text>
+<LM type="New Form">
+<text>15</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0618-001-p1s8W16-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0618-001-p1s8W16</LM>
+</w.rf>
+<form>15denní</form>
+<tag>
+<AM lemma="15denní" src="auto">X@-------------</AM>
+<AM lemma="15denní" src="manual">AAFS2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>denní</text>
 </LM>
 </comment>
 </m>

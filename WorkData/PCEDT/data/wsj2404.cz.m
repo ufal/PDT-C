@@ -4398,19 +4398,6 @@
 <AM lemma="GM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
-<m id="m-wsj2404-001-p1s13W4-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj2404-001-p1s13W4</LM>
-</w.rf>
-<form>,</form>
-<tag lemma="," src="auto" recommended="1">Z:-------------</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj2404-001-p1s13W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

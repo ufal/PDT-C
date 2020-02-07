@@ -6822,8 +6822,25 @@
 <AM lemma="11denní" src="manual">AANS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 11 denní</text>
+<LM type="New Form">
+<text>11</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0443-001-p1s19W6-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0443-001-p1s19W6</LM>
+</w.rf>
+<form>11denní</form>
+<tag>
+<AM lemma="11denní" src="auto">X@-------------</AM>
+<AM lemma="11denní" src="manual">AAIS1----1A----</AM>
+<AM lemma="11denní" src="manual">AANS1----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>denní</text>
 </LM>
 </comment>
 </m>

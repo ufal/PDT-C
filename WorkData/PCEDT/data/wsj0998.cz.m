@@ -1062,8 +1062,24 @@
 <AM lemma="32akrový" src="manual">AAIS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 32 akrového</text>
+<LM type="New Form">
+<text>32</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0998-001-p1s4W2-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0998-001-p1s4W2</LM>
+</w.rf>
+<form>32akrového</form>
+<tag>
+<AM lemma="32akrového" src="auto">X@-------------</AM>
+<AM lemma="32akrový" src="manual">AAIS2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>akrového</text>
 </LM>
 </comment>
 </m>

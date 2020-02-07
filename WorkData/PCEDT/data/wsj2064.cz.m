@@ -773,8 +773,24 @@
 <AM lemma="90miliardový" src="manual">AAIS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 90 miliardového</text>
+<LM type="New Form">
+<text>90</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2064-001-p1s2W22-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2064-001-p1s2W22</LM>
+</w.rf>
+<form>90miliardového</form>
+<tag>
+<AM lemma="90miliardového" src="auto">X@-------------</AM>
+<AM lemma="90miliardový" src="manual">AAIS2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>miliardového</text>
 </LM>
 </comment>
 </m>

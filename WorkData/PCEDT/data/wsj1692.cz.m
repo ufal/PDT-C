@@ -13096,8 +13096,21 @@
 <form>OBrion</form>
 <tag lemma="OBrion" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: O Brion</text>
+<LM type="New Form">
+<text>O</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1692-001-p1s40W7-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1692-001-p1s40W7</LM>
+</w.rf>
+<form>OBrion</form>
+<tag lemma="OBrion" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Brion</text>
 </LM>
 </comment>
 </m>

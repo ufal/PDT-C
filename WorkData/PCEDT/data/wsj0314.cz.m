@@ -12863,8 +12863,21 @@
 <form>nutná'</form>
 <tag lemma="nutná'" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: nutná '</text>
+<LM type="New Form">
+<text>nutná</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0314-001-p1s42W17-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0314-001-p1s42W17</LM>
+</w.rf>
+<form>nutná'</form>
+<tag lemma="nutná'" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
 </LM>
 </comment>
 </m>
@@ -12900,8 +12913,21 @@
 <form>přiměřená'</form>
 <tag lemma="přiměřená'" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: přiměřená '</text>
+<LM type="New Form">
+<text>přiměřená</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0314-001-p1s42W20-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0314-001-p1s42W20</LM>
+</w.rf>
+<form>přiměřená'</form>
+<tag lemma="přiměřená'" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
 </LM>
 </comment>
 </m>

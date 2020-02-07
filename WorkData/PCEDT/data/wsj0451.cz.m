@@ -785,8 +785,26 @@
 <AM lemma="6litrový" src="auto">AANP7----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 6 litrovými</text>
+<LM type="New Form">
+<text>6</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0451-001-p1s1W42-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0451-001-p1s1W42</LM>
+</w.rf>
+<form>6litrovými</form>
+<tag>
+<AM lemma="6litrový" src="auto">AAFP7----1A----</AM>
+<AM lemma="6litrový" src="auto" recommended="1">AAIP7----1A----</AM>
+<AM lemma="6litrový" src="auto">AAMP7----1A----</AM>
+<AM lemma="6litrový" src="auto">AANP7----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>litrovými</text>
 </LM>
 </comment>
 </m>
@@ -4852,8 +4870,24 @@
 <AM lemma="24měsíční" src="manual">AAIP4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 24 měsíční</text>
+<LM type="New Form">
+<text>24</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0451-001-p1s15W14-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0451-001-p1s15W14</LM>
+</w.rf>
+<form>24měsíční</form>
+<tag>
+<AM lemma="24měsíční" src="auto">X@-------------</AM>
+<AM lemma="24měsíční" src="manual">AAIP4----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>měsíční</text>
 </LM>
 </comment>
 </m>

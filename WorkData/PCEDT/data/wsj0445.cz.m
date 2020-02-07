@@ -12042,8 +12042,45 @@
 <AM lemma="66letý" src="auto">AANS5----1A---6</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 66 letý</text>
+<LM type="New Form">
+<text>66</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0445-001-p1s48W16-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0445-001-p1s48W16</LM>
+</w.rf>
+<form>66letý</form>
+<tag>
+<AM lemma="66letý" src="auto">AAFP1----1A---6</AM>
+<AM lemma="66letý" src="auto">AAFP4----1A---6</AM>
+<AM lemma="66letý" src="auto">AAFP5----1A---6</AM>
+<AM lemma="66letý" src="auto">AAFS2----1A---6</AM>
+<AM lemma="66letý" src="auto">AAFS3----1A---6</AM>
+<AM lemma="66letý" src="auto">AAFS6----1A---6</AM>
+<AM lemma="66letý" src="auto">AAIP1----1A---6</AM>
+<AM lemma="66letý" src="auto">AAIP4----1A---6</AM>
+<AM lemma="66letý" src="auto">AAIP5----1A---6</AM>
+<AM lemma="66letý" src="auto">AAIS1----1A----</AM>
+<AM lemma="66letý" src="auto">AAIS4----1A----</AM>
+<AM lemma="66letý" src="auto">AAIS5----1A----</AM>
+<AM lemma="66letý" src="auto">AAMP1----1A---6</AM>
+<AM lemma="66letý" src="auto">AAMP4----1A---6</AM>
+<AM lemma="66letý" src="auto">AAMP5----1A---6</AM>
+<AM lemma="66letý" src="auto" recommended="1">AAMS1----1A----</AM>
+<AM lemma="66letý" src="auto">AAMS5----1A----</AM>
+<AM lemma="66letý" src="auto">AANP1----1A---6</AM>
+<AM lemma="66letý" src="auto">AANP4----1A---6</AM>
+<AM lemma="66letý" src="auto">AANP5----1A---6</AM>
+<AM lemma="66letý" src="auto">AANS1----1A---6</AM>
+<AM lemma="66letý" src="auto">AANS4----1A---6</AM>
+<AM lemma="66letý" src="auto">AANS5----1A---6</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>letý</text>
 </LM>
 </comment>
 </m>
@@ -23681,26 +23718,6 @@
 <AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPXP4--3-------</AM>
 </tag>
-</m>
-<m id="m-wsj0445-001-p1s90W6-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj0445-001-p1s90W6</LM>
-</w.rf>
-<form>o</form>
-<tag>
-<AM lemma="o-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="o-1" src="auto">RR--6----------</AM>
-<AM lemma="o-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="o-77_,t" src="auto">F%-------------</AM>
-<AM lemma="o-88_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="obchodní_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0445-001-p1s90W7-Ta">
 <src.rf>tagger-a</src.rf>

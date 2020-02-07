@@ -4066,8 +4066,24 @@
 <AM lemma="117akrový" src="manual">AAIS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 117 akrového</text>
+<LM type="New Form">
+<text>117</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0994-001-p1s15W7-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0994-001-p1s15W7</LM>
+</w.rf>
+<form>117akrového</form>
+<tag>
+<AM lemma="117akrového" src="auto">X@-------------</AM>
+<AM lemma="117akrový" src="manual">AAIS2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>akrového</text>
 </LM>
 </comment>
 </m>

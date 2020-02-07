@@ -3128,25 +3128,6 @@
 <form>vehnalo</form>
 <tag lemma="vehnat" src="auto" recommended="1">VpNS---XR-AAP--</tag>
 </m>
-<m id="m-wsj0107-001-p1s8W36-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj0107-001-p1s8W36</LM>
-</w.rf>
-<form>to</form>
-<tag>
-<AM lemma="ten" src="auto">PDNS1----------</AM>
-<AM lemma="ten" src="auto" recommended="1" selected="1">PDNS4----------</AM>
-<AM lemma="to-1_^(tehdy;to_jsem_byla_ještě_malá)" src="auto">PDXXX----------</AM>
-<AM lemma="to-9_^(být_s_to)" src="auto">TT-------------</AM>
-<AM lemma="to-77" src="auto">F%-------------</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj0107-001-p1s8W37-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -2344,8 +2344,34 @@
 <form>Ltd.v</form>
 <tag lemma="Ltd.v" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>3v1: Ltd . v</text>
+<LM type="New Form">
+<text>Ltd</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2155-001-p1s5W44-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2155-001-p1s5W44</LM>
+</w.rf>
+<form>Ltd.v</form>
+<tag lemma="Ltd.v" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2155-001-p1s5W44-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2155-001-p1s5W44</LM>
+</w.rf>
+<form>Ltd.v</form>
+<tag lemma="Ltd.v" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>v</text>
 </LM>
 </comment>
 </m>
@@ -2628,8 +2654,40 @@
 <AM lemma="N.Y-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: N . Y</text>
+<LM type="New Form">
+<text>N</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2155-001-p1s7W6-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2155-001-p1s7W6</LM>
+</w.rf>
+<form>N.Y</form>
+<tag>
+<AM lemma="N.Y" src="auto">X@-------------</AM>
+<AM lemma="N.Y-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2155-001-p1s7W6-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2155-001-p1s7W6</LM>
+</w.rf>
+<form>N.Y</form>
+<tag>
+<AM lemma="N.Y" src="auto">X@-------------</AM>
+<AM lemma="N.Y-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>Y</text>
 </LM>
 </comment>
 </m>

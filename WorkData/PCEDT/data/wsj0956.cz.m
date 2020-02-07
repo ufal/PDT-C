@@ -5289,8 +5289,24 @@
 <AM lemma="34stránkový" src="manual">AANS6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 34 stránkovém</text>
+<LM type="New Form">
+<text>34</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0956-001-p1s18W4-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0956-001-p1s18W4</LM>
+</w.rf>
+<form>34stránkovém</form>
+<tag>
+<AM lemma="34stránkovém" src="auto">X@-------------</AM>
+<AM lemma="34stránkový" src="manual">AANS6----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>stránkovém</text>
 </LM>
 </comment>
 </m>

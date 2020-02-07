@@ -3614,8 +3614,40 @@
 <AM lemma="Poor's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Poor ' s</text>
+<LM type="New Form">
+<text>Poor</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2417-001-p1s12W21-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2417-001-p1s12W21</LM>
+</w.rf>
+<form>Poor's</form>
+<tag>
+<AM lemma="Poor's" src="auto">X@-------------</AM>
+<AM lemma="Poor's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2417-001-p1s12W21-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2417-001-p1s12W21</LM>
+</w.rf>
+<form>Poor's</form>
+<tag>
+<AM lemma="Poor's" src="auto">X@-------------</AM>
+<AM lemma="Poor's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -6491,8 +6523,24 @@
 <AM lemma="250bodový" src="manual">AAFS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 250 bodová</text>
+<LM type="New Form">
+<text>250</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2417-001-p1s23W1-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2417-001-p1s23W1</LM>
+</w.rf>
+<form>250bodová</form>
+<tag>
+<AM lemma="250bodová" src="auto">X@-------------</AM>
+<AM lemma="250bodový" src="manual">AAFS1----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>bodová</text>
 </LM>
 </comment>
 </m>

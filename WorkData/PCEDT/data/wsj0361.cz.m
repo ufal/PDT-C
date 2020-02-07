@@ -3801,8 +3801,24 @@
 <AM lemma="120megabytový" src="manual">AAIS7----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 120 megabytovým</text>
+<LM type="New Form">
+<text>120</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0361-001-p1s10W39-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0361-001-p1s10W39</LM>
+</w.rf>
+<form>120megabytovým</form>
+<tag>
+<AM lemma="120megabytovým" src="auto">X@-------------</AM>
+<AM lemma="120megabytový" src="manual">AAIS7----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>megabytovým</text>
 </LM>
 </comment>
 </m>

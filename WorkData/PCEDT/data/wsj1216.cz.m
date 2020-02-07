@@ -912,8 +912,26 @@
 <AM lemma="500členný" src="auto">AANS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 500 členného</text>
+<LM type="New Form">
+<text>500</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1216-001-p1s4W7-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1216-001-p1s4W7</LM>
+</w.rf>
+<form>500členného</form>
+<tag>
+<AM lemma="500členný" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="500členný" src="auto">AAMS2----1A----</AM>
+<AM lemma="500členný" src="auto">AAMS4----1A----</AM>
+<AM lemma="500členný" src="auto">AANS2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>členného</text>
 </LM>
 </comment>
 </m>
@@ -1056,8 +1074,24 @@
 <AM lemma="40letý" src="auto">AAFS7----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 40 letou</text>
+<LM type="New Form">
+<text>40</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1216-001-p1s4W19-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1216-001-p1s4W19</LM>
+</w.rf>
+<form>40letou</form>
+<tag>
+<AM lemma="40letý" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="40letý" src="auto">AAFS7----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>letou</text>
 </LM>
 </comment>
 </m>

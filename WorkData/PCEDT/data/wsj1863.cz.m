@@ -6356,8 +6356,40 @@
 <AM lemma="Poor´s-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Poor ´ s</text>
+<LM type="New Form">
+<text>Poor</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1863-001-p1s20W29-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1863-001-p1s20W29</LM>
+</w.rf>
+<form>Poor´s</form>
+<tag>
+<AM lemma="Poor´s" src="auto">X@-------------</AM>
+<AM lemma="Poor´s-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>´</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1863-001-p1s20W29-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1863-001-p1s20W29</LM>
+</w.rf>
+<form>Poor´s</form>
+<tag>
+<AM lemma="Poor´s" src="auto">X@-------------</AM>
+<AM lemma="Poor´s-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>

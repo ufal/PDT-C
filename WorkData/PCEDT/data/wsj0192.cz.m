@@ -12671,8 +12671,40 @@
 <AM lemma="O'Neill_;S" src="manual">NNMS1-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: O ' Neill</text>
+<LM type="New Form">
+<text>O</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0192-001-p1s47W29-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0192-001-p1s47W29</LM>
+</w.rf>
+<form>O'Neill</form>
+<tag>
+<AM lemma="O'Neill" src="auto">X@-------------</AM>
+<AM lemma="O'Neill_;S" src="manual">NNMS1-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0192-001-p1s47W29-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0192-001-p1s47W29</LM>
+</w.rf>
+<form>O'Neill</form>
+<tag>
+<AM lemma="O'Neill" src="auto">X@-------------</AM>
+<AM lemma="O'Neill_;S" src="manual">NNMS1-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>Neill</text>
 </LM>
 </comment>
 </m>

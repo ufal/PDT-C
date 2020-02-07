@@ -7534,8 +7534,24 @@
 <AM lemma="20hodinový" src="manual">AAFS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 20 hodinová</text>
+<LM type="New Form">
+<text>20</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0730-001-p1s34W13-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0730-001-p1s34W13</LM>
+</w.rf>
+<form>20hodinová</form>
+<tag>
+<AM lemma="20hodinová" src="auto">X@-------------</AM>
+<AM lemma="20hodinový" src="manual">AAFS1----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>hodinová</text>
 </LM>
 </comment>
 </m>
@@ -8215,8 +8231,24 @@
 <AM lemma="20hodinový" src="manual">AAFS6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 20 hodinových</text>
+<LM type="New Form">
+<text>20</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0730-001-p1s36W15-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0730-001-p1s36W15</LM>
+</w.rf>
+<form>20hodinových</form>
+<tag>
+<AM lemma="20hodinových" src="auto">X@-------------</AM>
+<AM lemma="20hodinový" src="manual">AAFS6----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>hodinových</text>
 </LM>
 </comment>
 </m>

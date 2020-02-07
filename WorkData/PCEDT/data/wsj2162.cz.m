@@ -2759,8 +2759,24 @@
 <AM lemma="32patrový" src="manual">AAIS7----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 32 patrovým</text>
+<LM type="New Form">
+<text>32</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2162-001-p1s9W14-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2162-001-p1s9W14</LM>
+</w.rf>
+<form>32patrovým</form>
+<tag>
+<AM lemma="32patrovým" src="auto">X@-------------</AM>
+<AM lemma="32patrový" src="manual">AAIS7----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>patrovým</text>
 </LM>
 </comment>
 </m>

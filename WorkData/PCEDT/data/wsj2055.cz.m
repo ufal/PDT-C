@@ -117,8 +117,21 @@
 <form>R.</form>
 <tag lemma="R." src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: R .</text>
+<LM type="New Form">
+<text>R</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2055-001-p1s0W11-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2055-001-p1s0W11</LM>
+</w.rf>
+<form>R.</form>
+<tag lemma="R." src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
 </LM>
 </comment>
 </m>
@@ -301,8 +314,21 @@
 <form>L.</form>
 <tag lemma="L." src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: L . </text>
+<LM type="New Form">
+<text>L</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2055-001-p1s1W2-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2055-001-p1s1W2</LM>
+</w.rf>
+<form>L.</form>
+<tag lemma="L." src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
 </LM>
 </comment>
 </m>
@@ -2280,8 +2306,40 @@
 <AM lemma="Archer-Daniels-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Archer - Daniels</text>
+<LM type="New Form">
+<text>Archer</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2055-001-p1s10W3-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2055-001-p1s10W3</LM>
+</w.rf>
+<form>Archer-Daniels</form>
+<tag>
+<AM lemma="Archer-Daniels" src="auto">X@-------------</AM>
+<AM lemma="Archer-Daniels-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>-</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2055-001-p1s10W3-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2055-001-p1s10W3</LM>
+</w.rf>
+<form>Archer-Daniels</form>
+<tag>
+<AM lemma="Archer-Daniels" src="auto">X@-------------</AM>
+<AM lemma="Archer-Daniels-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>Daniels</text>
 </LM>
 </comment>
 </m>
@@ -9374,8 +9432,40 @@
 <AM lemma="Christie's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Christie ' s</text>
+<LM type="New Form">
+<text>Christie</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2055-001-p1s33W1-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2055-001-p1s33W1</LM>
+</w.rf>
+<form>Christie's</form>
+<tag>
+<AM lemma="Christie's" src="auto">X@-------------</AM>
+<AM lemma="Christie's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2055-001-p1s33W1-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2055-001-p1s33W1</LM>
+</w.rf>
+<form>Christie's</form>
+<tag>
+<AM lemma="Christie's" src="auto">X@-------------</AM>
+<AM lemma="Christie's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>

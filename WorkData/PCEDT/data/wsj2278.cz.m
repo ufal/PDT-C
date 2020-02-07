@@ -9499,8 +9499,45 @@
 <AM lemma="19členný" src="auto">AANS5----1A---6</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 19 členný</text>
+<LM type="New Form">
+<text>19</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2278-001-p1s32W1-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2278-001-p1s32W1</LM>
+</w.rf>
+<form>19členný</form>
+<tag>
+<AM lemma="19členný" src="auto">AAFP1----1A---6</AM>
+<AM lemma="19členný" src="auto">AAFP4----1A---6</AM>
+<AM lemma="19členný" src="auto">AAFP5----1A---6</AM>
+<AM lemma="19členný" src="auto">AAFS2----1A---6</AM>
+<AM lemma="19členný" src="auto">AAFS3----1A---6</AM>
+<AM lemma="19členný" src="auto">AAFS6----1A---6</AM>
+<AM lemma="19členný" src="auto">AAIP1----1A---6</AM>
+<AM lemma="19členný" src="auto">AAIP4----1A---6</AM>
+<AM lemma="19členný" src="auto">AAIP5----1A---6</AM>
+<AM lemma="19členný" src="auto" recommended="1">AAIS1----1A----</AM>
+<AM lemma="19členný" src="auto">AAIS4----1A----</AM>
+<AM lemma="19členný" src="auto">AAIS5----1A----</AM>
+<AM lemma="19členný" src="auto">AAMP1----1A---6</AM>
+<AM lemma="19členný" src="auto">AAMP4----1A---6</AM>
+<AM lemma="19členný" src="auto">AAMP5----1A---6</AM>
+<AM lemma="19členný" src="auto">AAMS1----1A----</AM>
+<AM lemma="19členný" src="auto">AAMS5----1A----</AM>
+<AM lemma="19členný" src="auto">AANP1----1A---6</AM>
+<AM lemma="19členný" src="auto">AANP4----1A---6</AM>
+<AM lemma="19členný" src="auto">AANP5----1A---6</AM>
+<AM lemma="19členný" src="auto">AANS1----1A---6</AM>
+<AM lemma="19členný" src="auto">AANS4----1A---6</AM>
+<AM lemma="19členný" src="auto">AANS5----1A---6</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>členný</text>
 </LM>
 </comment>
 </m>
@@ -9829,8 +9866,24 @@
 <AM lemma="165členný" src="manual">AAIS6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 165 členném</text>
+<LM type="New Form">
+<text>165</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2278-001-p1s32W26-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2278-001-p1s32W26</LM>
+</w.rf>
+<form>165členném</form>
+<tag>
+<AM lemma="165členném" src="auto">X@-------------</AM>
+<AM lemma="165členný" src="manual">AAIS6----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>členném</text>
 </LM>
 </comment>
 </m>

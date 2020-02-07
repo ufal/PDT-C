@@ -8314,8 +8314,24 @@
 <AM lemma="400denní" src="manual">AAIS4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 400 denní</text>
+<LM type="New Form">
+<text>400</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0755-001-p1s28W10-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0755-001-p1s28W10</LM>
+</w.rf>
+<form>400denní</form>
+<tag>
+<AM lemma="400denní" src="auto">X@-------------</AM>
+<AM lemma="400denní" src="manual">AAIS4----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>denní</text>
 </LM>
 </comment>
 </m>

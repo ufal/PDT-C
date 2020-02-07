@@ -1084,8 +1084,24 @@
 <AM lemma="26bodový" src="manual">AAIS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 26 bodový</text>
+<LM type="New Form">
+<text>26</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1335-001-p1s3W5-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1335-001-p1s3W5</LM>
+</w.rf>
+<form>26bodový</form>
+<tag>
+<AM lemma="26bodový" src="auto">X@-------------</AM>
+<AM lemma="26bodový" src="manual">AAIS1----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>bodový</text>
 </LM>
 </comment>
 </m>

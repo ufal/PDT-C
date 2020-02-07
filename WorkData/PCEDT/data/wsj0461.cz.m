@@ -4033,8 +4033,24 @@
 <AM lemma="60denní" src="manual">AANS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 60 denního</text>
+<LM type="New Form">
+<text>60</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0461-001-p1s12W5-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0461-001-p1s12W5</LM>
+</w.rf>
+<form>60denního</form>
+<tag>
+<AM lemma="60denního" src="auto">X@-------------</AM>
+<AM lemma="60denní" src="manual">AANS2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>denního</text>
 </LM>
 </comment>
 </m>

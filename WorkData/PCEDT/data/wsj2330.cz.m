@@ -8550,8 +8550,24 @@
 <AM lemma="90librový" src="manual">AAFP2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 90 librových</text>
+<LM type="New Form">
+<text>90</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2330-001-p1s27W11-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2330-001-p1s27W11</LM>
+</w.rf>
+<form>90librových</form>
+<tag>
+<AM lemma="90librových" src="auto">X@-------------</AM>
+<AM lemma="90librový" src="manual">AAFP2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>librových</text>
 </LM>
 </comment>
 </m>

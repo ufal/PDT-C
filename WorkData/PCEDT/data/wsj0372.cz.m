@@ -105,8 +105,24 @@
 <AM lemma="27milionový_,s_^(^DD**27miliónový)" src="manual">AAIS4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 27 milionový</text>
+<LM type="New Form">
+<text>27</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0372-001-p1s0W10-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0372-001-p1s0W10</LM>
+</w.rf>
+<form>27milionový</form>
+<tag>
+<AM lemma="27milionový" src="auto">X@-------------</AM>
+<AM lemma="27milionový_,s_^(^DD**27miliónový)" src="manual">AAIS4----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>milionový</text>
 </LM>
 </comment>
 </m>

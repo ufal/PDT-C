@@ -12717,8 +12717,45 @@
 <AM lemma="35členný" src="auto">AANS5----1A---6</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 35 členný</text>
+<LM type="New Form">
+<text>35</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1388-001-p1s52W1-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1388-001-p1s52W1</LM>
+</w.rf>
+<form>35členný</form>
+<tag>
+<AM lemma="35členný" src="auto">AAFP1----1A---6</AM>
+<AM lemma="35členný" src="auto">AAFP4----1A---6</AM>
+<AM lemma="35členný" src="auto">AAFP5----1A---6</AM>
+<AM lemma="35členný" src="auto">AAFS2----1A---6</AM>
+<AM lemma="35členný" src="auto">AAFS3----1A---6</AM>
+<AM lemma="35členný" src="auto">AAFS6----1A---6</AM>
+<AM lemma="35členný" src="auto">AAIP1----1A---6</AM>
+<AM lemma="35členný" src="auto">AAIP4----1A---6</AM>
+<AM lemma="35členný" src="auto">AAIP5----1A---6</AM>
+<AM lemma="35členný" src="auto" recommended="1">AAIS1----1A----</AM>
+<AM lemma="35členný" src="auto">AAIS4----1A----</AM>
+<AM lemma="35členný" src="auto">AAIS5----1A----</AM>
+<AM lemma="35členný" src="auto">AAMP1----1A---6</AM>
+<AM lemma="35členný" src="auto">AAMP4----1A---6</AM>
+<AM lemma="35členný" src="auto">AAMP5----1A---6</AM>
+<AM lemma="35členný" src="auto">AAMS1----1A----</AM>
+<AM lemma="35členný" src="auto">AAMS5----1A----</AM>
+<AM lemma="35členný" src="auto">AANP1----1A---6</AM>
+<AM lemma="35členný" src="auto">AANP4----1A---6</AM>
+<AM lemma="35členný" src="auto">AANP5----1A---6</AM>
+<AM lemma="35členný" src="auto">AANS1----1A---6</AM>
+<AM lemma="35členný" src="auto">AANS4----1A---6</AM>
+<AM lemma="35členný" src="auto">AANS5----1A---6</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>členný</text>
 </LM>
 </comment>
 </m>

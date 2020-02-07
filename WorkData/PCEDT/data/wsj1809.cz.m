@@ -1409,8 +1409,24 @@
 <AM lemma="40miliardový" src="manual">AAIS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 40 miliardový</text>
+<LM type="New Form">
+<text>40</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1809-001-p1s6W5-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1809-001-p1s6W5</LM>
+</w.rf>
+<form>40miliardový</form>
+<tag>
+<AM lemma="40miliardový" src="auto">X@-------------</AM>
+<AM lemma="40miliardový" src="manual">AAIS1----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>miliardový</text>
 </LM>
 </comment>
 </m>

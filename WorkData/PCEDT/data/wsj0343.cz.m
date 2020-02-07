@@ -1056,19 +1056,6 @@
 <form>Očekává</form>
 <tag lemma="očekávat" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
-<m id="m-wsj0343-001-p1s3W2-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj0343-001-p1s3W2</LM>
-</w.rf>
-<form>,</form>
-<tag lemma="," src="auto" recommended="1">Z:-------------</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj0343-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

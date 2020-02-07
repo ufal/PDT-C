@@ -1417,8 +1417,25 @@
 <AM lemma="10letý" src="auto" recommended="1">AANS6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 10 letém</text>
+<LM type="New Form">
+<text>10</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1569-001-p1s8W2-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1569-001-p1s8W2</LM>
+</w.rf>
+<form>10letém</form>
+<tag>
+<AM lemma="10letý" src="auto">AAIS6----1A----</AM>
+<AM lemma="10letý" src="auto">AAMS6----1A----</AM>
+<AM lemma="10letý" src="auto" recommended="1">AANS6----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>letém</text>
 </LM>
 </comment>
 </m>

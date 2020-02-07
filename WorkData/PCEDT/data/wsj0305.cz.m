@@ -289,8 +289,40 @@
 <AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Pinkerton ' s</text>
+<LM type="New Form">
+<text>Pinkerton</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s0W24-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s0W24</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s0W24-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s0W24</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -696,8 +728,40 @@
 <AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Pinkerton ' s</text>
+<LM type="New Form">
+<text>Pinkerton</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s1W27-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s1W27</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s1W27-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s1W27</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -3732,8 +3796,40 @@
 <AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Pinkerton ' s</text>
+<LM type="New Form">
+<text>Pinkerton</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s10W34-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s10W34</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s10W34-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s10W34</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -4212,8 +4308,40 @@
 <AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Pinkerton ' s</text>
+<LM type="New Form">
+<text>Pinkerton</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s12W10-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s12W10</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s12W10-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s12W10</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -4528,8 +4656,40 @@
 <AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Pinkerton ' s</text>
+<LM type="New Form">
+<text>Pinkerton</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s13W9-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s13W9</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s13W9-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s13W9</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -5116,8 +5276,40 @@
 <AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Pinkerton ' s</text>
+<LM type="New Form">
+<text>Pinkerton</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s14W27-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s14W27</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s14W27-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s14W27</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -6715,8 +6907,40 @@
 <AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Pinkerton ' s</text>
+<LM type="New Form">
+<text>Pinkerton</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s23W2-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s23W2</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s23W2-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s23W2</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -7697,8 +7921,40 @@
 <AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Pinkerton ' s</text>
+<LM type="New Form">
+<text>Pinkerton</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s27W11-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s27W11</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s27W11-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s27W11</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -8136,8 +8392,40 @@
 <AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Pinkerton ' s</text>
+<LM type="New Form">
+<text>Pinkerton</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s27W47-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s27W47</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s27W47-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s27W47</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -8342,8 +8630,40 @@
 <AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Pinkerton ' s</text>
+<LM type="New Form">
+<text>Pinkerton</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s28W17-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s28W17</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s28W17-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s28W17</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -8638,8 +8958,22 @@
 <form>-3</form>
 <tag lemma="-3" src="auto" recommended="1">C=-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: - 3</text>
+<LM type="New Form">
+<text>-</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s28W38-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s28W38</LM>
+</w.rf>
+<form_change>num_normalization</form_change>
+<form>-3</form>
+<tag lemma="-3" src="auto" recommended="1">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>3</text>
 </LM>
 </comment>
 </m>
@@ -8882,8 +9216,40 @@
 <AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Pinkerton ' s</text>
+<LM type="New Form">
+<text>Pinkerton</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s28W59-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s28W59</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s28W59-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s28W59</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -9594,8 +9960,40 @@
 <AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Pinkerton ' s</text>
+<LM type="New Form">
+<text>Pinkerton</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s32W6-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s32W6</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s32W6-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s32W6</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -9828,8 +10226,40 @@
 <AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Pinkerton ' s</text>
+<LM type="New Form">
+<text>Pinkerton</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s33W7-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s33W7</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s33W7-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s33W7</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -10353,8 +10783,40 @@
 <AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Pinkerton ' s</text>
+<LM type="New Form">
+<text>Pinkerton</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s35W9-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s35W9</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s35W9-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s35W9</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -10552,8 +11014,40 @@
 <AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Pinkerton ' s</text>
+<LM type="New Form">
+<text>Pinkerton</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s35W29-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s35W29</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s35W29-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s35W29</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -11037,8 +11531,40 @@
 <AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Pinkerton ' s</text>
+<LM type="New Form">
+<text>Pinkerton</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s37W13-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s37W13</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s37W13-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s37W13</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -11569,8 +12095,40 @@
 <AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Pinkerton ' s</text>
+<LM type="New Form">
+<text>Pinkerton</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s40W5-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s40W5</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s40W5-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s40W5</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -12271,8 +12829,40 @@
 <AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Pinkerton ' s</text>
+<LM type="New Form">
+<text>Pinkerton</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s42W14-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s42W14</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s42W14-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s42W14</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -12508,8 +13098,40 @@
 <AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Pinkerton ' s</text>
+<LM type="New Form">
+<text>Pinkerton</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s42W30-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s42W30</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s42W30-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s42W30</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -12663,8 +13285,40 @@
 <AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Pinkerton ' s</text>
+<LM type="New Form">
+<text>Pinkerton</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s42W41-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s42W41</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s42W41-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s42W41</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -12958,8 +13612,40 @@
 <AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Pinkerton ' s</text>
+<LM type="New Form">
+<text>Pinkerton</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s43W10-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s43W10</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s43W10-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s43W10</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -14237,8 +14923,40 @@
 <AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Pinkerton ' s</text>
+<LM type="New Form">
+<text>Pinkerton</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s48W5-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s48W5</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s48W5-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s48W5</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -14753,8 +15471,40 @@
 <AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Pinkerton ' s</text>
+<LM type="New Form">
+<text>Pinkerton</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s50W12-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s50W12</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s50W12-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s50W12</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -15244,8 +15994,40 @@
 <AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Pinkerton ' s</text>
+<LM type="New Form">
+<text>Pinkerton</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s51W17-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s51W17</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0305-001-p1s51W17-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0305-001-p1s51W17</LM>
+</w.rf>
+<form>Pinkerton's</form>
+<tag>
+<AM lemma="Pinkerton's" src="auto">X@-------------</AM>
+<AM lemma="Pinkerton's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>

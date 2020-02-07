@@ -1934,8 +1934,24 @@
 <AM lemma="100miligramový" src="manual">AAFS4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 100 miligramovou</text>
+<LM type="New Form">
+<text>100</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2382-001-p1s6W14-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2382-001-p1s6W14</LM>
+</w.rf>
+<form>100miligramovou</form>
+<tag>
+<AM lemma="100miligramovou" src="auto">X@-------------</AM>
+<AM lemma="100miligramový" src="manual">AAFS4----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>miligramovou</text>
 </LM>
 </comment>
 </m>
@@ -1971,8 +1987,24 @@
 <AM lemma="50miligramový" src="manual">AAFS4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 50 miligramovou</text>
+<LM type="New Form">
+<text>50</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2382-001-p1s6W17-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2382-001-p1s6W17</LM>
+</w.rf>
+<form>50miligramovou</form>
+<tag>
+<AM lemma="50miligramovou" src="auto">X@-------------</AM>
+<AM lemma="50miligramový" src="manual">AAFS4----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>miligramovou</text>
 </LM>
 </comment>
 </m>

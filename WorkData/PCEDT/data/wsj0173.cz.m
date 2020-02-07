@@ -546,19 +546,6 @@
 <AM lemma="plán" src="auto">NNIS6-----A----</AM>
 </tag>
 </m>
-<m id="m-wsj0173-001-p1s1W4-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj0173-001-p1s1W4</LM>
-</w.rf>
-<form>,</form>
-<tag lemma="," src="auto" recommended="1">Z:-------------</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj0173-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

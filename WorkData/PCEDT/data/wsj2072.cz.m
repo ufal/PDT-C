@@ -327,8 +327,24 @@
 <AM lemma="68týdenní" src="manual">AAFS4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 68 týdenní</text>
+<LM type="New Form">
+<text>68</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2072-001-p1s1W18-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2072-001-p1s1W18</LM>
+</w.rf>
+<form>68týdenní</form>
+<tag>
+<AM lemma="68týdenní" src="auto">X@-------------</AM>
+<AM lemma="68týdenní" src="manual">AAFS4----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>týdenní</text>
 </LM>
 </comment>
 </m>

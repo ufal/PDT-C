@@ -6476,8 +6476,72 @@
 <AM lemma="M.D.C-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>5v1: M . D . C</text>
+<LM type="New Form">
+<text>M</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2169-001-p1s20W46-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2169-001-p1s20W46</LM>
+</w.rf>
+<form>M.D.C</form>
+<tag>
+<AM lemma="M.D.C" src="auto">X@-------------</AM>
+<AM lemma="M.D.C-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2169-001-p1s20W46-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2169-001-p1s20W46</LM>
+</w.rf>
+<form>M.D.C</form>
+<tag>
+<AM lemma="M.D.C" src="auto">X@-------------</AM>
+<AM lemma="M.D.C-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>D</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2169-001-p1s20W46-Ta-sw3">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2169-001-p1s20W46</LM>
+</w.rf>
+<form>M.D.C</form>
+<tag>
+<AM lemma="M.D.C" src="auto">X@-------------</AM>
+<AM lemma="M.D.C-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2169-001-p1s20W46-Ta-sw4">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2169-001-p1s20W46</LM>
+</w.rf>
+<form>M.D.C</form>
+<tag>
+<AM lemma="M.D.C" src="auto">X@-------------</AM>
+<AM lemma="M.D.C-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>C</text>
 </LM>
 </comment>
 </m>
@@ -6560,8 +6624,24 @@
 <AM lemma="aPrice-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: a Price</text>
+<LM type="New Form">
+<text>a</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2169-001-p1s20W54-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2169-001-p1s20W54</LM>
+</w.rf>
+<form>aPrice</form>
+<tag>
+<AM lemma="aPrice" src="auto">X@-------------</AM>
+<AM lemma="aPrice-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>Price</text>
 </LM>
 </comment>
 </m>

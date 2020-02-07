@@ -6241,8 +6241,21 @@
 <form>37krát</form>
 <tag lemma="37krát" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: 37 krát</text>
+<LM type="New Form">
+<text>37</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1450-001-p1s28W17-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1450-001-p1s28W17</LM>
+</w.rf>
+<form>37krát</form>
+<tag lemma="37krát" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>krát</text>
 </LM>
 </comment>
 </m>

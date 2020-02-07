@@ -4936,8 +4936,26 @@
 <AM lemma="81letý" src="auto">AANS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 81 letého</text>
+<LM type="New Form">
+<text>81</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2347-001-p1s16W2-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2347-001-p1s16W2</LM>
+</w.rf>
+<form>81letého</form>
+<tag>
+<AM lemma="81letý" src="auto">AAIS2----1A----</AM>
+<AM lemma="81letý" src="auto" recommended="1">AAMS2----1A----</AM>
+<AM lemma="81letý" src="auto">AAMS4----1A----</AM>
+<AM lemma="81letý" src="auto">AANS2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>letého</text>
 </LM>
 </comment>
 </m>

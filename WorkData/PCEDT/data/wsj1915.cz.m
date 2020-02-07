@@ -28457,8 +28457,24 @@
 <AM lemma="28podlažní" src="manual">AAFS6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 28 podlažní</text>
+<LM type="New Form">
+<text>28</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1915-001-p1s74W24-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1915-001-p1s74W24</LM>
+</w.rf>
+<form>28podlažní</form>
+<tag>
+<AM lemma="28podlažní" src="auto">X@-------------</AM>
+<AM lemma="28podlažní" src="manual">AAFS6----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>podlažní</text>
 </LM>
 </comment>
 </m>

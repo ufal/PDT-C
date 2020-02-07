@@ -1111,32 +1111,6 @@
 <form>,</form>
 <tag lemma="," src="auto" recommended="1">Z:-------------</tag>
 </m>
-<m id="m-wsj0135-001-p1s3W12-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj0135-001-p1s3W12</LM>
-</w.rf>
-<form>nebo</form>
-<tag lemma="nebo" src="auto" recommended="1">J^-------------</tag>
-<comment>
-<LM type="Other">
-<text>1v3: >neboli</text>
-</LM>
-</comment>
-</m>
-<m id="m-wsj0135-001-p1s3W13-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj0135-001-p1s3W13</LM>
-</w.rf>
-<form>-</form>
-<tag lemma="-" src="auto" recommended="1">Z:-------------</tag>
-<comment>
-<LM type="Other">
-<text>1v3: &lt;neboli</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj0135-001-p1s3W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1149,8 +1123,8 @@
 <AM lemma="li-99_:B_;S" src="auto">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>1v3: &lt;neboli</text>
+<LM type="New Form">
+<text>neboli</text>
 </LM>
 </comment>
 </m>

@@ -3076,19 +3076,6 @@
 <AM lemma="chemikálie" src="auto">NNFS7-----A----</AM>
 </tag>
 </m>
-<m id="m-wsj1652-001-p1s11W24-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj1652-001-p1s11W24</LM>
-</w.rf>
-<form>by</form>
-<tag lemma="být" src="auto" recommended="1">Vc----------I--</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj1652-001-p1s11W25-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

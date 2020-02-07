@@ -7054,19 +7054,6 @@
 </LM>
 </comment>
 </m>
-<m id="m-wsj1743-001-p1s25W16-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj1743-001-p1s25W16</LM>
-</w.rf>
-<form>-</form>
-<tag lemma="-" src="auto" recommended="1">Z:-------------</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj1743-001-p1s25W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -18156,19 +18143,6 @@
 <AM lemma="Japonsko_;G" src="auto" recommended="1">NNNS6-----A----</AM>
 <AM lemma="japonsko" src="auto">NNNS6-----A----</AM>
 </tag>
-</m>
-<m id="m-wsj1743-001-p1s63W11-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj1743-001-p1s63W11</LM>
-</w.rf>
-<form>budou</form>
-<tag lemma="být" src="auto" recommended="1">VB-P---3F-AAI--</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj1743-001-p1s63W12-Ta">
 <src.rf>tagger-a</src.rf>

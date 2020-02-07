@@ -2575,8 +2575,24 @@
 <AM lemma="163členný" src="manual">AAIS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 163 členný</text>
+<LM type="New Form">
+<text>163</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1875-001-p1s9W15-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1875-001-p1s9W15</LM>
+</w.rf>
+<form>163členný</form>
+<tag>
+<AM lemma="163členný" src="auto">X@-------------</AM>
+<AM lemma="163členný" src="manual">AAIS1----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>členný</text>
 </LM>
 </comment>
 </m>
@@ -3042,8 +3058,38 @@
 <AM lemma="26členný" src="auto">AANS5----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 26 členné</text>
+<LM type="New Form">
+<text>26</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1875-001-p1s10W29-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1875-001-p1s10W29</LM>
+</w.rf>
+<form>26členné</form>
+<tag>
+<AM lemma="26členný" src="auto">AAFP1----1A----</AM>
+<AM lemma="26členný" src="auto">AAFP4----1A----</AM>
+<AM lemma="26členný" src="auto">AAFP5----1A----</AM>
+<AM lemma="26členný" src="auto">AAFS2----1A----</AM>
+<AM lemma="26členný" src="auto">AAFS3----1A----</AM>
+<AM lemma="26členný" src="auto">AAFS6----1A----</AM>
+<AM lemma="26členný" src="auto">AAIP1----1A----</AM>
+<AM lemma="26členný" src="auto">AAIP4----1A----</AM>
+<AM lemma="26členný" src="auto">AAIP5----1A----</AM>
+<AM lemma="26členný" src="auto">AAMP4----1A----</AM>
+<AM lemma="26členný" src="auto">AANP1----1A---6</AM>
+<AM lemma="26členný" src="auto">AANP4----1A---6</AM>
+<AM lemma="26členný" src="auto">AANP5----1A---6</AM>
+<AM lemma="26členný" src="auto" recommended="1">AANS1----1A----</AM>
+<AM lemma="26členný" src="auto">AANS4----1A----</AM>
+<AM lemma="26členný" src="auto">AANS5----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>členné</text>
 </LM>
 </comment>
 </m>

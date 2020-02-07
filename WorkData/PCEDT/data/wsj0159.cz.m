@@ -1827,8 +1827,24 @@
 <AM lemma="Dunkin'_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: Dunkin '</text>
+<LM type="New Form">
+<text>Dunkin</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0159-001-p1s5W2-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0159-001-p1s5W2</LM>
+</w.rf>
+<form>Dunkin'</form>
+<tag>
+<AM lemma="Dunkin'" src="auto">X@-------------</AM>
+<AM lemma="Dunkin'_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
 </LM>
 </comment>
 </m>
@@ -2246,8 +2262,24 @@
 <AM lemma="Dunkin'_;K" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: Dunkin '</text>
+<LM type="New Form">
+<text>Dunkin</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0159-001-p1s7W2-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0159-001-p1s7W2</LM>
+</w.rf>
+<form>Dunkin'</form>
+<tag>
+<AM lemma="Dunkin'" src="auto">X@-------------</AM>
+<AM lemma="Dunkin'_;K" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
 </LM>
 </comment>
 </m>

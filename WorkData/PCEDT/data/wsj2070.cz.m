@@ -5141,8 +5141,24 @@
 <AM lemma="190bodový" src="manual">AAIS4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 190 bodový</text>
+<LM type="New Form">
+<text>190</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2070-001-p1s18W48-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2070-001-p1s18W48</LM>
+</w.rf>
+<form>190bodový</form>
+<tag>
+<AM lemma="190bodový" src="auto">X@-------------</AM>
+<AM lemma="190bodový" src="manual">AAIS4----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>bodový</text>
 </LM>
 </comment>
 </m>

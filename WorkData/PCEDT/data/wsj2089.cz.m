@@ -418,32 +418,6 @@
 <form>(</form>
 <tag lemma="(" src="auto" recommended="1">Z:-------------</tag>
 </m>
-<m id="m-wsj2089-001-p1s0W31-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj2089-001-p1s0W31</LM>
-</w.rf>
-<form>5</form>
-<tag lemma="5" src="auto" recommended="1">C=-------------</tag>
-<comment>
-<LM type="Other">
-<text>1v3: >5.80</text>
-</LM>
-</comment>
-</m>
-<m id="m-wsj2089-001-p1s0W32-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj2089-001-p1s0W32</LM>
-</w.rf>
-<form>,</form>
-<tag lemma="," src="auto" recommended="1">Z:-------------</tag>
-<comment>
-<LM type="Other">
-<text>1v3: &lt;5.80</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj2089-001-p1s0W33-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -452,8 +426,8 @@
 <form>8O</form>
 <tag lemma="8O" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>1v3: &lt;5.80</text>
+<LM type="New Form">
+<text>5.80</text>
 </LM>
 </comment>
 </m>

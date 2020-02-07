@@ -3215,8 +3215,40 @@
 <AM lemma="D.C-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: D . C</text>
+<LM type="New Form">
+<text>D</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2416-001-p1s11W13-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2416-001-p1s11W13</LM>
+</w.rf>
+<form>D.C</form>
+<tag>
+<AM lemma="D.C" src="auto">X@-------------</AM>
+<AM lemma="D.C-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2416-001-p1s11W13-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2416-001-p1s11W13</LM>
+</w.rf>
+<form>D.C</form>
+<tag>
+<AM lemma="D.C" src="auto">X@-------------</AM>
+<AM lemma="D.C-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>C</text>
 </LM>
 </comment>
 </m>

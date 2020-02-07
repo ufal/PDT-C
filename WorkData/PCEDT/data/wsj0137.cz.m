@@ -6580,8 +6580,24 @@
 <AM lemma="100akciový" src="manual">AAIS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 100 akciový</text>
+<LM type="New Form">
+<text>100</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0137-001-p1s25W1-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0137-001-p1s25W1</LM>
+</w.rf>
+<form>100akciový</form>
+<tag>
+<AM lemma="100akciový" src="auto">X@-------------</AM>
+<AM lemma="100akciový" src="manual">AAIS1----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>akciový</text>
 </LM>
 </comment>
 </m>
@@ -8434,8 +8450,24 @@
 <AM lemma="30akciový" src="manual">AAIS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 30 akciový</text>
+<LM type="New Form">
+<text>30</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0137-001-p1s32W1-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0137-001-p1s32W1</LM>
+</w.rf>
+<form>30akciový</form>
+<tag>
+<AM lemma="30akciový" src="auto">X@-------------</AM>
+<AM lemma="30akciový" src="manual">AAIS1----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>akciový</text>
 </LM>
 </comment>
 </m>

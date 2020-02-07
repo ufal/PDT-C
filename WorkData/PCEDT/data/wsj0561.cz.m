@@ -7828,8 +7828,25 @@
 <AM lemma="61letý" src="auto">AANS3----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 61 letému</text>
+<LM type="New Form">
+<text>61</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0561-001-p1s27W33-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0561-001-p1s27W33</LM>
+</w.rf>
+<form>61letému</form>
+<tag>
+<AM lemma="61letý" src="auto" recommended="1">AAIS3----1A----</AM>
+<AM lemma="61letý" src="auto">AAMS3----1A----</AM>
+<AM lemma="61letý" src="auto">AANS3----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>letému</text>
 </LM>
 </comment>
 </m>

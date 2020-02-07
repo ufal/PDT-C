@@ -1646,8 +1646,24 @@
 <AM lemma="52týdenní" src="manual" selected="1">AAIS7----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 52 týdenním</text>
+<LM type="New Form">
+<text>52</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0027-001-p1s5W20-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0027-001-p1s5W20</LM>
+</w.rf>
+<form>52týdenním</form>
+<tag>
+<AM lemma="52týdenním" src="auto">X@-------------</AM>
+<AM lemma="52týdenní" src="manual" selected="1">AAIS7----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>týdenním</text>
 </LM>
 </comment>
 </m>

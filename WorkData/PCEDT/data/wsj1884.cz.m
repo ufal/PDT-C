@@ -12531,23 +12531,6 @@
 <AM lemma="který" src="auto">P4NP4----------</AM>
 </tag>
 </m>
-<m id="m-wsj1884-001-p1s32W42-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj1884-001-p1s32W42</LM>
-</w.rf>
-<form>se</form>
-<tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
-<AM lemma="s-1" src="auto">RV--2----------</AM>
-<AM lemma="s-1" src="auto">RV--7----------</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj1884-001-p1s32W43-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -14143,8 +14126,24 @@
 <AM lemma="14bodový" src="manual">AANS6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 14 bodovém</text>
+<LM type="New Form">
+<text>14</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1884-001-p1s36W11-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1884-001-p1s36W11</LM>
+</w.rf>
+<form>14bodovém</form>
+<tag>
+<AM lemma="14bodovém" src="auto">X@-------------</AM>
+<AM lemma="14bodový" src="manual">AANS6----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>bodovém</text>
 </LM>
 </comment>
 </m>

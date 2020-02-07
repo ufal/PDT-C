@@ -1207,8 +1207,40 @@
 <AM lemma="Poor's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Poor ' s</text>
+<LM type="New Form">
+<text>Poor</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0162-001-p1s3W4-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0162-001-p1s3W4</LM>
+</w.rf>
+<form>Poor's</form>
+<tag>
+<AM lemma="Poor's" src="auto">X@-------------</AM>
+<AM lemma="Poor's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0162-001-p1s3W4-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0162-001-p1s3W4</LM>
+</w.rf>
+<form>Poor's</form>
+<tag>
+<AM lemma="Poor's" src="auto">X@-------------</AM>
+<AM lemma="Poor's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -4323,9 +4355,21 @@
 <AM lemma="dopad" src="auto" recommended="1">NNIS4-----A----</AM>
 <AM lemma="dopadnout" src="auto">VpYS---XR-AAP-6</AM>
 </tag>
+</m>
+<m id="m-wsj0162-001-p1s13W25-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0162-001-p1s13W25</LM>
+</w.rf>
+<form>dopad</form>
+<tag>
+<AM lemma="dopad" src="auto">NNIS1-----A----</AM>
+<AM lemma="dopad" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="dopadnout" src="auto">VpYS---XR-AAP-6</AM>
+</tag>
 <comment>
-<LM type="Other">
-<text>2v1: dopad na</text>
+<LM type="New Form">
+<text>na</text>
 </LM>
 </comment>
 </m>
@@ -11433,9 +11477,17 @@
 </w.rf>
 <form>dnes</form>
 <tag lemma="dnes" src="auto" recommended="1">Db-------------</tag>
+</m>
+<m id="m-wsj0162-001-p1s32W18-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0162-001-p1s32W18</LM>
+</w.rf>
+<form>dnes</form>
+<tag lemma="dnes" src="auto" recommended="1">Db-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: dnes se</text>
+<LM type="New Form">
+<text>se</text>
 </LM>
 </comment>
 </m>

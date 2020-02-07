@@ -95,8 +95,24 @@
 <AM lemma="51denní" src="manual">AAFP4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 51 denní</text>
+<LM type="New Form">
+<text>51</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0625-001-p1s0W9-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0625-001-p1s0W9</LM>
+</w.rf>
+<form>51denní</form>
+<tag>
+<AM lemma="51denní" src="auto">X@-------------</AM>
+<AM lemma="51denní" src="manual">AAFP4----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>denní</text>
 </LM>
 </comment>
 </m>
@@ -1340,8 +1356,24 @@
 <AM lemma="13týdenní" src="manual">AAFP1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 13 týdenní</text>
+<LM type="New Form">
+<text>13</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0625-001-p1s5W2-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0625-001-p1s5W2</LM>
+</w.rf>
+<form>13týdenní</form>
+<tag>
+<AM lemma="13týdenní" src="auto">X@-------------</AM>
+<AM lemma="13týdenní" src="manual">AAFP1----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>týdenní</text>
 </LM>
 </comment>
 </m>
@@ -1370,8 +1402,24 @@
 <AM lemma="27týdenní" src="manual">AAFP1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 27 týdenní</text>
+<LM type="New Form">
+<text>27</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0625-001-p1s5W4-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0625-001-p1s5W4</LM>
+</w.rf>
+<form>27týdenní</form>
+<tag>
+<AM lemma="27týdenní" src="auto">X@-------------</AM>
+<AM lemma="27týdenní" src="manual">AAFP1----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>týdenní</text>
 </LM>
 </comment>
 </m>

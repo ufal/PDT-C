@@ -1072,8 +1072,21 @@
 <form>r.</form>
 <tag lemma="r." src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: r .</text>
+<LM type="New Form">
+<text>r</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0182-001-p1s3W26-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0182-001-p1s3W26</LM>
+</w.rf>
+<form>r.</form>
+<tag lemma="r." src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
 </LM>
 </comment>
 </m>

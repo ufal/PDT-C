@@ -8999,19 +8999,6 @@
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>
-<m id="m-wsj1302-001-p1s33W14-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj1302-001-p1s33W14</LM>
-</w.rf>
-<form>2</form>
-<tag lemma="2" src="auto" recommended="1">C=-------------</tag>
-<comment>
-<LM type="Other">
-<text>1v2: >2.5</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj1302-001-p1s33W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9020,8 +9007,8 @@
 <form>,</form>
 <tag lemma="," src="auto" recommended="1">Z:-------------</tag>
 <comment>
-<LM type="Other">
-<text>1v2: &lt;2.5</text>
+<LM type="New Form">
+<text>2.5</text>
 </LM>
 </comment>
 </m>

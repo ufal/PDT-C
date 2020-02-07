@@ -6847,23 +6847,6 @@
 <AM lemma="konkurence" src="auto">NNFS5-----A----</AM>
 </tag>
 </m>
-<m id="m-wsj2320-001-p1s25W2-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj2320-001-p1s25W2</LM>
-</w.rf>
-<form>je</form>
-<tag>
-<AM lemma="být" src="auto" selected="1">VB-S---3P-AAI--</AM>
-<AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
-<AM lemma="on-1_^(oni/ono)" src="auto" recommended="1">PPXP4--3-------</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj2320-001-p1s25W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

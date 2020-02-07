@@ -1153,8 +1153,24 @@
 <AM lemma="80bodový" src="manual">AAIS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 80 bodový</text>
+<LM type="New Form">
+<text>80</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1151-001-p1s5W1-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1151-001-p1s5W1</LM>
+</w.rf>
+<form>80bodový</form>
+<tag>
+<AM lemma="80bodový" src="auto">X@-------------</AM>
+<AM lemma="80bodový" src="manual">AAIS1----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>bodový</text>
 </LM>
 </comment>
 </m>

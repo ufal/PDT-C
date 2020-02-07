@@ -1661,8 +1661,24 @@
 <AM lemma="150bodový" src="manual" selected="1">AAIS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 150 bodového</text>
+<LM type="New Form">
+<text>150</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0088-001-p1s3W46-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0088-001-p1s3W46</LM>
+</w.rf>
+<form>150bodového</form>
+<tag>
+<AM lemma="150bodového" src="auto">X@-------------</AM>
+<AM lemma="150bodový" src="manual" selected="1">AAIS2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>bodového</text>
 </LM>
 </comment>
 </m>
@@ -3725,8 +3741,45 @@
 <AM lemma="30minutový" src="auto">AANS5----1A---6</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 30 minutový</text>
+<LM type="New Form">
+<text>30</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0088-001-p1s8W8-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0088-001-p1s8W8</LM>
+</w.rf>
+<form>30minutový</form>
+<tag>
+<AM lemma="30minutový" src="auto">AAFP1----1A---6</AM>
+<AM lemma="30minutový" src="auto">AAFP4----1A---6</AM>
+<AM lemma="30minutový" src="auto">AAFP5----1A---6</AM>
+<AM lemma="30minutový" src="auto">AAFS2----1A---6</AM>
+<AM lemma="30minutový" src="auto">AAFS3----1A---6</AM>
+<AM lemma="30minutový" src="auto">AAFS6----1A---6</AM>
+<AM lemma="30minutový" src="auto">AAIP1----1A---6</AM>
+<AM lemma="30minutový" src="auto">AAIP4----1A---6</AM>
+<AM lemma="30minutový" src="auto">AAIP5----1A---6</AM>
+<AM lemma="30minutový" src="auto" recommended="1" selected="1">AAIS1----1A----</AM>
+<AM lemma="30minutový" src="auto">AAIS4----1A----</AM>
+<AM lemma="30minutový" src="auto">AAIS5----1A----</AM>
+<AM lemma="30minutový" src="auto">AAMP1----1A---6</AM>
+<AM lemma="30minutový" src="auto">AAMP4----1A---6</AM>
+<AM lemma="30minutový" src="auto">AAMP5----1A---6</AM>
+<AM lemma="30minutový" src="auto">AAMS1----1A----</AM>
+<AM lemma="30minutový" src="auto">AAMS5----1A----</AM>
+<AM lemma="30minutový" src="auto">AANP1----1A---6</AM>
+<AM lemma="30minutový" src="auto">AANP4----1A---6</AM>
+<AM lemma="30minutový" src="auto">AANP5----1A---6</AM>
+<AM lemma="30minutový" src="auto">AANS1----1A---6</AM>
+<AM lemma="30minutový" src="auto">AANS4----1A---6</AM>
+<AM lemma="30minutový" src="auto">AANS5----1A---6</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>minutový</text>
 </LM>
 </comment>
 </m>
@@ -3741,8 +3794,24 @@
 <AM lemma="12bodový" src="manual" selected="1">AAIS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 12 bodový</text>
+<LM type="New Form">
+<text>12</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0088-001-p1s8W9-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0088-001-p1s8W9</LM>
+</w.rf>
+<form>12bodový</form>
+<tag>
+<AM lemma="12bodový" src="auto">X@-------------</AM>
+<AM lemma="12bodový" src="manual" selected="1">AAIS1----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>bodový</text>
 </LM>
 </comment>
 </m>
@@ -4377,8 +4446,24 @@
 <AM lemma="12bodový" src="manual" selected="1">AAIS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 12 bodový</text>
+<LM type="New Form">
+<text>12</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0088-001-p1s9W12-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0088-001-p1s9W12</LM>
+</w.rf>
+<form>12bodový</form>
+<tag>
+<AM lemma="12bodový" src="auto">X@-------------</AM>
+<AM lemma="12bodový" src="manual" selected="1">AAIS1----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>bodový</text>
 </LM>
 </comment>
 </m>
@@ -4732,8 +4817,24 @@
 <AM lemma="30bodový" src="manual" selected="1">AAFS4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 30 bodovou</text>
+<LM type="New Form">
+<text>30</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0088-001-p1s10W22-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0088-001-p1s10W22</LM>
+</w.rf>
+<form>30bodovou</form>
+<tag>
+<AM lemma="30bodovou" src="auto">X@-------------</AM>
+<AM lemma="30bodový" src="manual" selected="1">AAFS4----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>bodovou</text>
 </LM>
 </comment>
 </m>
@@ -5055,8 +5156,24 @@
 <AM lemma="12bodový" src="manual" selected="1">AAFS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 12 bodová</text>
+<LM type="New Form">
+<text>12</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0088-001-p1s11W6-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0088-001-p1s11W6</LM>
+</w.rf>
+<form>12bodová</form>
+<tag>
+<AM lemma="12bodová" src="auto">X@-------------</AM>
+<AM lemma="12bodový" src="manual" selected="1">AAFS1----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>bodová</text>
 </LM>
 </comment>
 </m>
@@ -5733,8 +5850,24 @@
 <AM lemma="30bodový" src="manual" selected="1">AAFS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 30 bodová</text>
+<LM type="New Form">
+<text>30</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0088-001-p1s13W6-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0088-001-p1s13W6</LM>
+</w.rf>
+<form>30bodová</form>
+<tag>
+<AM lemma="30bodová" src="auto">X@-------------</AM>
+<AM lemma="30bodový" src="manual" selected="1">AAFS1----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>bodová</text>
 </LM>
 </comment>
 </m>

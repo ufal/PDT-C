@@ -6534,22 +6534,6 @@
 <AM lemma="být" src="manual" selected="1">VpQW----R-AAI--</AM>
 </tag>
 </m>
-<m id="m-wsj1601-001-p1s20W16-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj1601-001-p1s20W16</LM>
-</w.rf>
-<form>vedla</form>
-<tag>
-<AM lemma="vést" src="auto" recommended="1">VpQW---XR-AAI--</AM>
-<AM lemma="vést" src="manual" selected="1">VpQW----R-AAI--</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj1601-001-p1s20W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

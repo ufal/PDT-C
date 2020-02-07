@@ -501,8 +501,34 @@
 <form>D'Amico</form>
 <tag lemma="D'Amico" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>3v1: D ' Amico</text>
+<LM type="New Form">
+<text>D</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0139-001-p1s2W3-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0139-001-p1s2W3</LM>
+</w.rf>
+<form>D'Amico</form>
+<tag lemma="D'Amico" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0139-001-p1s2W3-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0139-001-p1s2W3</LM>
+</w.rf>
+<form>D'Amico</form>
+<tag lemma="D'Amico" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Amico</text>
 </LM>
 </comment>
 </m>

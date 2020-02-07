@@ -1055,25 +1055,6 @@
 <AM lemma="do-99_:B_;S" src="auto">NNXXX-----A----</AM>
 </tag>
 </m>
-<m id="m-wsj1804-001-p1s3W13-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj1804-001-p1s3W13</LM>
-</w.rf>
-<form>v</form>
-<tag>
-<AM lemma="v-1" src="auto">RR--4----------</AM>
-<AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="versus_:B" src="auto">RR--1---------9</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj1804-001-p1s3W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

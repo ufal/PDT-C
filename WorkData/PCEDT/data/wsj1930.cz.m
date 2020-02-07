@@ -1474,22 +1474,6 @@
 <form>,</form>
 <tag lemma="," src="auto" recommended="1">Z:-------------</tag>
 </m>
-<m id="m-wsj1930-001-p1s6W13-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj1930-001-p1s6W13</LM>
-</w.rf>
-<form>ve</form>
-<tag>
-<AM lemma="v-1" src="auto">RV--4----------</AM>
-<AM lemma="v-1" src="auto" recommended="1">RV--6----------</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj1930-001-p1s6W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

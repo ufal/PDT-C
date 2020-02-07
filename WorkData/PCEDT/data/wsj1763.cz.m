@@ -404,8 +404,34 @@
 <form>O'Donnell</form>
 <tag lemma="O'Donnell" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>3v1: O ' Donnell</text>
+<LM type="New Form">
+<text>O</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1763-001-p1s1W5-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1763-001-p1s1W5</LM>
+</w.rf>
+<form>O'Donnell</form>
+<tag lemma="O'Donnell" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1763-001-p1s1W5-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1763-001-p1s1W5</LM>
+</w.rf>
+<form>O'Donnell</form>
+<tag lemma="O'Donnell" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Donnell</text>
 </LM>
 </comment>
 </m>

@@ -10256,8 +10256,24 @@
 <AM lemma="43letý" src="auto">AAFS7----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 43 letou</text>
+<LM type="New Form">
+<text>43</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1903-001-p1s42W8-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1903-001-p1s42W8</LM>
+</w.rf>
+<form>43letou</form>
+<tag>
+<AM lemma="43letý" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="43letý" src="auto">AAFS7----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>letou</text>
 </LM>
 </comment>
 </m>

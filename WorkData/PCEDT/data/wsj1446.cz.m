@@ -7974,8 +7974,27 @@
 <AM lemma="49letý" src="auto">AANP5----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 49 letá</text>
+<LM type="New Form">
+<text>49</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1446-001-p1s29W1-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1446-001-p1s29W1</LM>
+</w.rf>
+<form>49letá</form>
+<tag>
+<AM lemma="49letý" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="49letý" src="auto">AAFS5----1A----</AM>
+<AM lemma="49letý" src="auto">AANP1----1A----</AM>
+<AM lemma="49letý" src="auto">AANP4----1A----</AM>
+<AM lemma="49letý" src="auto">AANP5----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>letá</text>
 </LM>
 </comment>
 </m>

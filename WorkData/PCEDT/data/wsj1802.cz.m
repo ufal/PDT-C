@@ -2520,8 +2520,24 @@
 <AM lemma="100akciový" src="manual">AAIS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 100 akciového</text>
+<LM type="New Form">
+<text>100</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1802-001-p1s5W31-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1802-001-p1s5W31</LM>
+</w.rf>
+<form>100akciového</form>
+<tag>
+<AM lemma="100akciového" src="auto">X@-------------</AM>
+<AM lemma="100akciový" src="manual">AAIS2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>akciového</text>
 </LM>
 </comment>
 </m>

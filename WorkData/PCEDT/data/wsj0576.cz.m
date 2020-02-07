@@ -12339,8 +12339,24 @@
 <AM lemma="37hodinový" src="manual">AAIS4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 37 hodinový</text>
+<LM type="New Form">
+<text>37</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0576-001-p1s39W6-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0576-001-p1s39W6</LM>
+</w.rf>
+<form>37hodinový</form>
+<tag>
+<AM lemma="37hodinový" src="auto">X@-------------</AM>
+<AM lemma="37hodinový" src="manual">AAIS4----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>hodinový</text>
 </LM>
 </comment>
 </m>

@@ -5185,8 +5185,24 @@
 <AM lemma="30denní" src="manual">AANS4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 30 denní</text>
+<LM type="New Form">
+<text>30</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2207-001-p1s15W28-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2207-001-p1s15W28</LM>
+</w.rf>
+<form>30denní</form>
+<tag>
+<AM lemma="30denní" src="auto">X@-------------</AM>
+<AM lemma="30denní" src="manual">AANS4----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>denní</text>
 </LM>
 </comment>
 </m>

@@ -6382,8 +6382,40 @@
 <AM lemma="U.S-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1:  U . S</text>
+<LM type="New Form">
+<text>U</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2433-001-p1s18W25-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2433-001-p1s18W25</LM>
+</w.rf>
+<form>U.S</form>
+<tag>
+<AM lemma="U.S" src="auto">X@-------------</AM>
+<AM lemma="U.S-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2433-001-p1s18W25-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2433-001-p1s18W25</LM>
+</w.rf>
+<form>U.S</form>
+<tag>
+<AM lemma="U.S" src="auto">X@-------------</AM>
+<AM lemma="U.S-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>S</text>
 </LM>
 </comment>
 </m>
@@ -7693,8 +7725,21 @@
 <form>R.</form>
 <tag lemma="R." src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: R .</text>
+<LM type="New Form">
+<text>R</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2433-001-p1s23W2-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2433-001-p1s23W2</LM>
+</w.rf>
+<form>R.</form>
+<tag lemma="R." src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
 </LM>
 </comment>
 </m>
@@ -11092,8 +11137,34 @@
 <form>D.C</form>
 <tag lemma="D.C" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>3v1:  D . C</text>
+<LM type="New Form">
+<text>D</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2433-001-p1s35W10-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2433-001-p1s35W10</LM>
+</w.rf>
+<form>D.C</form>
+<tag lemma="D.C" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2433-001-p1s35W10-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2433-001-p1s35W10</LM>
+</w.rf>
+<form>D.C</form>
+<tag lemma="D.C" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>C</text>
 </LM>
 </comment>
 </m>
@@ -12076,8 +12147,34 @@
 <form>W.R</form>
 <tag lemma="W.R" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>3v1: W . R</text>
+<LM type="New Form">
+<text>W</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2433-001-p1s37W14-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2433-001-p1s37W14</LM>
+</w.rf>
+<form>W.R</form>
+<tag lemma="W.R" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2433-001-p1s37W14-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2433-001-p1s37W14</LM>
+</w.rf>
+<form>W.R</form>
+<tag lemma="W.R" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>R</text>
 </LM>
 </comment>
 </m>
@@ -13687,8 +13784,38 @@
 <AM lemma="500členný" src="auto">AANS5----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 500 členné</text>
+<LM type="New Form">
+<text>500</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2433-001-p1s42W7-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2433-001-p1s42W7</LM>
+</w.rf>
+<form>500členné</form>
+<tag>
+<AM lemma="500členný" src="auto">AAFP1----1A----</AM>
+<AM lemma="500členný" src="auto">AAFP4----1A----</AM>
+<AM lemma="500členný" src="auto">AAFP5----1A----</AM>
+<AM lemma="500členný" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="500členný" src="auto">AAFS3----1A----</AM>
+<AM lemma="500členný" src="auto">AAFS6----1A----</AM>
+<AM lemma="500členný" src="auto">AAIP1----1A----</AM>
+<AM lemma="500členný" src="auto">AAIP4----1A----</AM>
+<AM lemma="500členný" src="auto">AAIP5----1A----</AM>
+<AM lemma="500členný" src="auto">AAMP4----1A----</AM>
+<AM lemma="500členný" src="auto">AANP1----1A---6</AM>
+<AM lemma="500členný" src="auto">AANP4----1A---6</AM>
+<AM lemma="500členný" src="auto">AANP5----1A---6</AM>
+<AM lemma="500členný" src="auto">AANS1----1A----</AM>
+<AM lemma="500členný" src="auto">AANS4----1A----</AM>
+<AM lemma="500členný" src="auto">AANS5----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>členné</text>
 </LM>
 </comment>
 </m>
@@ -13859,8 +13986,34 @@
 <form>D.C</form>
 <tag lemma="D.C" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>3v1: D . C</text>
+<LM type="New Form">
+<text>D</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2433-001-p1s42W21-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2433-001-p1s42W21</LM>
+</w.rf>
+<form>D.C</form>
+<tag lemma="D.C" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2433-001-p1s42W21-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2433-001-p1s42W21</LM>
+</w.rf>
+<form>D.C</form>
+<tag lemma="D.C" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>C</text>
 </LM>
 </comment>
 </m>
@@ -15741,8 +15894,34 @@
 <form>D.C</form>
 <tag lemma="D.C" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>3v1: D . C</text>
+<LM type="New Form">
+<text>D</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2433-001-p1s49W20-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2433-001-p1s49W20</LM>
+</w.rf>
+<form>D.C</form>
+<tag lemma="D.C" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2433-001-p1s49W20-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2433-001-p1s49W20</LM>
+</w.rf>
+<form>D.C</form>
+<tag lemma="D.C" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>C</text>
 </LM>
 </comment>
 </m>

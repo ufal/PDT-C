@@ -5320,8 +5320,24 @@
 <AM lemma="15akrový" src="manual">AAFS4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 15 akrovou</text>
+<LM type="New Form">
+<text>15</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1122-001-p1s21W13-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1122-001-p1s21W13</LM>
+</w.rf>
+<form>15akrovou</form>
+<tag>
+<AM lemma="15akrovou" src="auto">X@-------------</AM>
+<AM lemma="15akrový" src="manual">AAFS4----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>akrovou</text>
 </LM>
 </comment>
 </m>
@@ -5926,8 +5942,24 @@
 <AM lemma="15akrový" src="manual">AAIS7----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 15 akrovým</text>
+<LM type="New Form">
+<text>15</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1122-001-p1s22W33-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1122-001-p1s22W33</LM>
+</w.rf>
+<form>15akrovým</form>
+<tag>
+<AM lemma="15akrovým" src="auto">X@-------------</AM>
+<AM lemma="15akrový" src="manual">AAIS7----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>akrovým</text>
 </LM>
 </comment>
 </m>

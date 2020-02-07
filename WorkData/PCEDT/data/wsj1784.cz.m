@@ -7571,8 +7571,24 @@
 <AM lemma="Trim'-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: Trim '</text>
+<LM type="New Form">
+<text>Trim</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1784-001-p1s25W14-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1784-001-p1s25W14</LM>
+</w.rf>
+<form>Trim'</form>
+<tag>
+<AM lemma="Trim'" src="auto">X@-------------</AM>
+<AM lemma="Trim'-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
 </LM>
 </comment>
 </m>

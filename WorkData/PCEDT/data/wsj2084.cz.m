@@ -62,8 +62,40 @@
 <AM lemma="S.p-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: S . p</text>
+<LM type="New Form">
+<text>S</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2084-001-p1s0W4-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2084-001-p1s0W4</LM>
+</w.rf>
+<form>S.p</form>
+<tag>
+<AM lemma="S.p" src="auto">X@-------------</AM>
+<AM lemma="S.p-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2084-001-p1s0W4-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2084-001-p1s0W4</LM>
+</w.rf>
+<form>S.p</form>
+<tag>
+<AM lemma="S.p" src="auto">X@-------------</AM>
+<AM lemma="S.p-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>p</text>
 </LM>
 </comment>
 </m>

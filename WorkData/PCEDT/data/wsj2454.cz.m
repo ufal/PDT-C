@@ -5899,8 +5899,40 @@
 <AM lemma="F.W-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: F . W</text>
+<LM type="New Form">
+<text>F</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2454-001-p1s18W2-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2454-001-p1s18W2</LM>
+</w.rf>
+<form>F.W</form>
+<tag>
+<AM lemma="F.W" src="auto">X@-------------</AM>
+<AM lemma="F.W-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2454-001-p1s18W2-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2454-001-p1s18W2</LM>
+</w.rf>
+<form>F.W</form>
+<tag>
+<AM lemma="F.W" src="auto">X@-------------</AM>
+<AM lemma="F.W-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>W</text>
 </LM>
 </comment>
 </m>

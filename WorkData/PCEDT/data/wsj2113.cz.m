@@ -916,8 +916,21 @@
 <form>L.</form>
 <tag lemma="L." src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: L .</text>
+<LM type="New Form">
+<text>L</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s2W23-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s2W23</LM>
+</w.rf>
+<form>L.</form>
+<tag lemma="L." src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
 </LM>
 </comment>
 </m>
@@ -8220,8 +8233,34 @@
 <form>Říkají'Johnny</form>
 <tag lemma="Říkají'Johnny" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>3v1: Říkají ' Johnny</text>
+<LM type="New Form">
+<text>Říkají</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s30W2-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s30W2</LM>
+</w.rf>
+<form>Říkají'Johnny</form>
+<tag lemma="Říkají'Johnny" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s30W2-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s30W2</LM>
+</w.rf>
+<form>Říkají'Johnny</form>
+<tag lemma="Říkají'Johnny" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Johnny</text>
 </LM>
 </comment>
 </m>
@@ -9098,8 +9137,40 @@
 <AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Sotheby ' s</text>
+<LM type="New Form">
+<text>Sotheby</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s32W19-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s32W19</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s32W19-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s32W19</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -9369,8 +9440,40 @@
 <AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Sotheby ' s</text>
+<LM type="New Form">
+<text>Sotheby</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s33W16-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s33W16</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s33W16-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s33W16</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -9939,8 +10042,40 @@
 <AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Sotheby ' s</text>
+<LM type="New Form">
+<text>Sotheby</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s35W12-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s35W12</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s35W12-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s35W12</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -11194,8 +11329,47 @@
 <form>je'ukradl'</form>
 <tag lemma="je'ukradl'" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>4v1: je ' ukradl '</text>
+<LM type="New Form">
+<text>je</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s42W5-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s42W5</LM>
+</w.rf>
+<form>je'ukradl'</form>
+<tag lemma="je'ukradl'" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s42W5-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s42W5</LM>
+</w.rf>
+<form>je'ukradl'</form>
+<tag lemma="je'ukradl'" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>ukradl</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s42W5-Ta-sw3">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s42W5</LM>
+</w.rf>
+<form>je'ukradl'</form>
+<tag lemma="je'ukradl'" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
 </LM>
 </comment>
 </m>
@@ -11859,8 +12033,40 @@
 <AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Sotheby ' s</text>
+<LM type="New Form">
+<text>Sotheby</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s46W15-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s46W15</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s46W15-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s46W15</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -12455,8 +12661,60 @@
 <form>U.S.A</form>
 <tag lemma="U.S.A" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>5v1: U . S . A</text>
+<LM type="New Form">
+<text>U</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s49W7-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s49W7</LM>
+</w.rf>
+<form>U.S.A</form>
+<tag lemma="U.S.A" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s49W7-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s49W7</LM>
+</w.rf>
+<form>U.S.A</form>
+<tag lemma="U.S.A" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>S</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s49W7-Ta-sw3">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s49W7</LM>
+</w.rf>
+<form>U.S.A</form>
+<tag lemma="U.S.A" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s49W7-Ta-sw4">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s49W7</LM>
+</w.rf>
+<form>U.S.A</form>
+<tag lemma="U.S.A" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>A</text>
 </LM>
 </comment>
 </m>
@@ -13019,8 +13277,40 @@
 <AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Sotheby ' s</text>
+<LM type="New Form">
+<text>Sotheby</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s51W17-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s51W17</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s51W17-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s51W17</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -13149,8 +13439,40 @@
 <AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Sotheby ' s</text>
+<LM type="New Form">
+<text>Sotheby</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s52W5-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s52W5</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s52W5-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s52W5</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -13492,8 +13814,40 @@
 <AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Sotheby ' s</text>
+<LM type="New Form">
+<text>Sotheby</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s54W1-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s54W1</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s54W1-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s54W1</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -13666,8 +14020,40 @@
 <AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Sotheby ' s</text>
+<LM type="New Form">
+<text>Sotheby</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s54W15-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s54W15</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s54W15-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s54W15</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -14043,8 +14429,40 @@
 <AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Sotheby ' s</text>
+<LM type="New Form">
+<text>Sotheby</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s55W7-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s55W7</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s55W7-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s55W7</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -14726,8 +15144,40 @@
 <AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Sotheby ' s</text>
+<LM type="New Form">
+<text>Sotheby</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s58W13-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s58W13</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s58W13-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s58W13</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -18583,8 +19033,40 @@
 <AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Sotheby ' s</text>
+<LM type="New Form">
+<text>Sotheby</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s70W21-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s70W21</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s70W21-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s70W21</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -20061,8 +20543,40 @@
 <AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Sotheby ' s</text>
+<LM type="New Form">
+<text>Sotheby</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s76W28-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s76W28</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s76W28-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s76W28</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -24064,8 +24578,40 @@
 <AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Sotheby ' s</text>
+<LM type="New Form">
+<text>Sotheby</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s92W13-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s92W13</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s92W13-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s92W13</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -24303,8 +24849,40 @@
 <AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Sotheby ' s</text>
+<LM type="New Form">
+<text>Sotheby</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s93W10-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s93W10</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s93W10-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s93W10</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -25104,8 +25682,40 @@
 <AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Sotheby ' s</text>
+<LM type="New Form">
+<text>Sotheby</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s97W9-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s97W9</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s97W9-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s97W9</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -27403,8 +28013,40 @@
 <AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Sotheby ' s</text>
+<LM type="New Form">
+<text>Sotheby</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s108W2-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s108W2</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s108W2-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s108W2</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -27700,8 +28342,40 @@
 <AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Sotheby ' s</text>
+<LM type="New Form">
+<text>Sotheby</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s109W7-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s109W7</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s109W7-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s109W7</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -28444,8 +29118,40 @@
 <AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Sotheby ' s</text>
+<LM type="New Form">
+<text>Sotheby</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s112W10-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s112W10</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s112W10-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s112W10</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -30301,8 +31007,40 @@
 <AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Sotheby ' s</text>
+<LM type="New Form">
+<text>Sotheby</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s121W1-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s121W1</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s121W1-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s121W1</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -31558,8 +32296,40 @@
 <AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Sotheby ' s</text>
+<LM type="New Form">
+<text>Sotheby</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s125W4-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s125W4</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s125W4-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s125W4</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -31789,8 +32559,40 @@
 <AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Sotheby ' s</text>
+<LM type="New Form">
+<text>Sotheby</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s126W17-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s126W17</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s126W17-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s126W17</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -33768,8 +34570,40 @@
 <AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Sotheby ' s</text>
+<LM type="New Form">
+<text>Sotheby</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s134W14-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s134W14</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2113-001-p1s134W14-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2113-001-p1s134W14</LM>
+</w.rf>
+<form>Sotheby's</form>
+<tag>
+<AM lemma="Sotheby's" src="auto">X@-------------</AM>
+<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>

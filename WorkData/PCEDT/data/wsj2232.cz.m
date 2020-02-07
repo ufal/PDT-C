@@ -6090,8 +6090,24 @@
 <AM lemma="27bodový" src="manual">AAFS4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 27 bodovou</text>
+<LM type="New Form">
+<text>27</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2232-001-p1s19W6-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2232-001-p1s19W6</LM>
+</w.rf>
+<form>27bodovou</form>
+<tag>
+<AM lemma="27bodovou" src="auto">X@-------------</AM>
+<AM lemma="27bodový" src="manual">AAFS4----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>bodovou</text>
 </LM>
 </comment>
 </m>

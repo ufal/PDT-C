@@ -2494,8 +2494,24 @@
 <AM lemma="30násobek" src="manual">NNIS4-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 30 násobek</text>
+<LM type="New Form">
+<text>30</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0900-001-p1s5W37-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0900-001-p1s5W37</LM>
+</w.rf>
+<form>30násobek</form>
+<tag>
+<AM lemma="30násobek" src="auto">X@-------------</AM>
+<AM lemma="30násobek" src="manual">NNIS4-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>násobek</text>
 </LM>
 </comment>
 </m>

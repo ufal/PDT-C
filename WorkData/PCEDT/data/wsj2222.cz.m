@@ -6826,8 +6826,24 @@
 <AM lemma="250bodový" src="manual">AAIS6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 250 bodovém</text>
+<LM type="New Form">
+<text>250</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2222-001-p1s25W25-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2222-001-p1s25W25</LM>
+</w.rf>
+<form>250bodovém</form>
+<tag>
+<AM lemma="250bodovém" src="auto">X@-------------</AM>
+<AM lemma="250bodový" src="manual">AAIS6----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>bodovém</text>
 </LM>
 </comment>
 </m>

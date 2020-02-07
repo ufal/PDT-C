@@ -594,8 +594,24 @@
 <AM lemma="32bitový" src="manual" selected="1">AAIS6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 32 bitovém</text>
+<LM type="New Form">
+<text>32</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1591-001-p1s2W14-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1591-001-p1s2W14</LM>
+</w.rf>
+<form>32bitovém</form>
+<tag>
+<AM lemma="32bitovém" src="auto">X@-------------</AM>
+<AM lemma="32bitový" src="manual" selected="1">AAIS6----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>bitovém</text>
 </LM>
 </comment>
 </m>

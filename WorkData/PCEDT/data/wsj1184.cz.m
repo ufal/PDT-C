@@ -5026,8 +5026,24 @@
 <AM lemma="136stránkový" src="manual">AAFS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 136 stránková</text>
+<LM type="New Form">
+<text>136</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1184-001-p1s12W1-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1184-001-p1s12W1</LM>
+</w.rf>
+<form>136stránková</form>
+<tag>
+<AM lemma="136stránková" src="auto">X@-------------</AM>
+<AM lemma="136stránkový" src="manual">AAFS1----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>stránková</text>
 </LM>
 </comment>
 </m>

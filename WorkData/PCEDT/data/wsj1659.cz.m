@@ -2096,8 +2096,24 @@
 <AM lemma="13th-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 13 th</text>
+<LM type="New Form">
+<text>13</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1659-001-p1s3W63-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1659-001-p1s3W63</LM>
+</w.rf>
+<form>13th</form>
+<tag>
+<AM lemma="13th" src="auto">X@-------------</AM>
+<AM lemma="13th-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>th</text>
 </LM>
 </comment>
 </m>

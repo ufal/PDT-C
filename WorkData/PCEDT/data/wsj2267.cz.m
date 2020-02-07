@@ -310,8 +310,34 @@
 <form>1.listopadu</form>
 <tag lemma="1.listopadu" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>3v1: 1 . listopadu</text>
+<LM type="New Form">
+<text>1</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2267-001-p1s1W28-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2267-001-p1s1W28</LM>
+</w.rf>
+<form>1.listopadu</form>
+<tag lemma="1.listopadu" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2267-001-p1s1W28-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2267-001-p1s1W28</LM>
+</w.rf>
+<form>1.listopadu</form>
+<tag lemma="1.listopadu" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>listopadu</text>
 </LM>
 </comment>
 </m>
@@ -1003,8 +1029,34 @@
 <form>1.listopadu</form>
 <tag lemma="1.listopadu" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>3v1: 1 . listopadu</text>
+<LM type="New Form">
+<text>1</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2267-001-p1s4W26-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2267-001-p1s4W26</LM>
+</w.rf>
+<form>1.listopadu</form>
+<tag lemma="1.listopadu" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2267-001-p1s4W26-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2267-001-p1s4W26</LM>
+</w.rf>
+<form>1.listopadu</form>
+<tag lemma="1.listopadu" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>listopadu</text>
 </LM>
 </comment>
 </m>

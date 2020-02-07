@@ -885,8 +885,24 @@
 <AM lemma="16měsícní" src="manual">AAFS3----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 16 měsíční</text>
+<LM type="New Form">
+<text>16</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1172-001-p1s1W18-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1172-001-p1s1W18</LM>
+</w.rf>
+<form>16měsícní</form>
+<tag>
+<AM lemma="16měsícní" src="auto">X@-------------</AM>
+<AM lemma="16měsícní" src="manual">AAFS3----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>měsíční</text>
 </LM>
 </comment>
 </m>

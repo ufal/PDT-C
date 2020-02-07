@@ -2672,8 +2672,22 @@
 <form>-4</form>
 <tag lemma="-4" src="auto" recommended="1" selected="1">C=-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: - 4</text>
+<LM type="New Form">
+<text>-</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0093-001-p1s7W23-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0093-001-p1s7W23</LM>
+</w.rf>
+<form_change>num_normalization</form_change>
+<form>-4</form>
+<tag lemma="-4" src="auto" recommended="1" selected="1">C=-------------</tag>
+<comment>
+<LM type="New Form">
+<text>4</text>
 </LM>
 </comment>
 </m>

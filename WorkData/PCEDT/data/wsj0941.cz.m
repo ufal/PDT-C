@@ -2347,8 +2347,24 @@
 <AM lemma="28uncový" src="manual">AAFP2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 28 uncových</text>
+<LM type="New Form">
+<text>28</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0941-001-p1s6W23-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0941-001-p1s6W23</LM>
+</w.rf>
+<form>28uncových</form>
+<tag>
+<AM lemma="28uncových" src="auto">X@-------------</AM>
+<AM lemma="28uncový" src="manual">AAFP2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>uncových</text>
 </LM>
 </comment>
 </m>
@@ -2417,8 +2433,24 @@
 <AM lemma="5uncový" src="manual">AAFP2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 5 uncových</text>
+<LM type="New Form">
+<text>5</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0941-001-p1s6W29-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0941-001-p1s6W29</LM>
+</w.rf>
+<form>5uncových</form>
+<tag>
+<AM lemma="5uncových" src="auto">X@-------------</AM>
+<AM lemma="5uncový" src="manual">AAFP2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>uncových</text>
 </LM>
 </comment>
 </m>

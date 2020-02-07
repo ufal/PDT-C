@@ -1235,8 +1235,24 @@
 <AM lemma="10miliardový" src="manual">AAIS4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 10 miliardový</text>
+<LM type="New Form">
+<text>10</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1306-001-p1s4W19-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1306-001-p1s4W19</LM>
+</w.rf>
+<form>10miliardový</form>
+<tag>
+<AM lemma="10miliardový" src="auto">X@-------------</AM>
+<AM lemma="10miliardový" src="manual">AAIS4----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>miliardový</text>
 </LM>
 </comment>
 </m>

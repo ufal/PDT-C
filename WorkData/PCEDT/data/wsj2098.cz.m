@@ -1595,8 +1595,21 @@
 <form>Dr.</form>
 <tag lemma="Dr." src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: Dr .</text>
+<LM type="New Form">
+<text>Dr</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2098-001-p1s4W1-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2098-001-p1s4W1</LM>
+</w.rf>
+<form>Dr.</form>
+<tag lemma="Dr." src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
 </LM>
 </comment>
 </m>
@@ -2354,8 +2367,21 @@
 <form>dr.</form>
 <tag lemma="dr." src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: dr .</text>
+<LM type="New Form">
+<text>dr</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2098-001-p1s5W22-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2098-001-p1s5W22</LM>
+</w.rf>
+<form>dr.</form>
+<tag lemma="dr." src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
 </LM>
 </comment>
 </m>

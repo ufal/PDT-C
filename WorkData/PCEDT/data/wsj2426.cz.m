@@ -232,8 +232,34 @@
 <form>S.p</form>
 <tag lemma="S.p" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>3v1: S . p</text>
+<LM type="New Form">
+<text>S</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2426-001-p1s0W20-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2426-001-p1s0W20</LM>
+</w.rf>
+<form>S.p</form>
+<tag lemma="S.p" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2426-001-p1s0W20-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2426-001-p1s0W20</LM>
+</w.rf>
+<form>S.p</form>
+<tag lemma="S.p" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>p</text>
 </LM>
 </comment>
 </m>

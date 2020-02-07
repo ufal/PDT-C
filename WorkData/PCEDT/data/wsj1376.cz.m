@@ -12742,19 +12742,6 @@
 <AM lemma="že-2" src="auto">TT-------------</AM>
 </tag>
 </m>
-<m id="m-wsj1376-001-p1s44W5-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj1376-001-p1s44W5</LM>
-</w.rf>
-<form>3</form>
-<tag lemma="3" src="auto" recommended="1">C=-------------</tag>
-<comment>
-<LM type="Other">
-<text>1v2: >3.2</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj1376-001-p1s44W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -12763,8 +12750,8 @@
 <form>,</form>
 <tag lemma="," src="auto" recommended="1">Z:-------------</tag>
 <comment>
-<LM type="Other">
-<text>1v2: &lt;3.2</text>
+<LM type="New Form">
+<text>3.2</text>
 </LM>
 </comment>
 </m>

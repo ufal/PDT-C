@@ -2683,8 +2683,26 @@
 <AM lemma="77letý" src="auto">AANS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 77 letého</text>
+<LM type="New Form">
+<text>77</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0790-001-p1s7W55-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0790-001-p1s7W55</LM>
+</w.rf>
+<form>77letého</form>
+<tag>
+<AM lemma="77letý" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="77letý" src="auto">AAMS2----1A----</AM>
+<AM lemma="77letý" src="auto">AAMS4----1A----</AM>
+<AM lemma="77letý" src="auto">AANS2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>letého</text>
 </LM>
 </comment>
 </m>
@@ -9571,23 +9589,6 @@
 <form>nastoupila</form>
 <tag lemma="nastoupit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
 </m>
-<m id="m-wsj0790-001-p1s34W12-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj0790-001-p1s34W12</LM>
-</w.rf>
-<form>po</form>
-<tag>
-<AM lemma="po-1" src="auto">RR--4----------</AM>
-<AM lemma="po-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="pondělí" src="auto">NNNXX-----A---8</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>1v2: >poté</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj0790-001-p1s34W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9600,8 +9601,8 @@
 <AM lemma="ten" src="auto" recommended="1" selected="1">PDFS6----------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>1v2: &lt;poté</text>
+<LM type="New Form">
+<text>poté</text>
 </LM>
 </comment>
 </m>

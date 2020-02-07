@@ -7124,8 +7124,24 @@
 <AM lemma="90dolarový" src="manual" selected="1">AAIS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 90 dolarový</text>
+<LM type="New Form">
+<text>90</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0071-001-p1s24W20-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0071-001-p1s24W20</LM>
+</w.rf>
+<form>90dolarový</form>
+<tag>
+<AM lemma="90dolarový" src="auto">X@-------------</AM>
+<AM lemma="90dolarový" src="manual" selected="1">AAIS1----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>dolarový</text>
 </LM>
 </comment>
 </m>

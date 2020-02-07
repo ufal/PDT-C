@@ -11053,8 +11053,24 @@
 <AM lemma="37milionový_,s_^(^DD**37miliónový)" src="manual">AAFS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 37 milionové</text>
+<LM type="New Form">
+<text>37</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0818-001-p1s35W12-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0818-001-p1s35W12</LM>
+</w.rf>
+<form>37milionové</form>
+<tag>
+<AM lemma="37milionové" src="auto">X@-------------</AM>
+<AM lemma="37milionový_,s_^(^DD**37miliónový)" src="manual">AAFS2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>milionové</text>
 </LM>
 </comment>
 </m>

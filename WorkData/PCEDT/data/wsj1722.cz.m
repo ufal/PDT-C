@@ -1070,19 +1070,6 @@
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
 </tag>
 </m>
-<m id="m-wsj1722-001-p1s4W3-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj1722-001-p1s4W3</LM>
-</w.rf>
-<form>,</form>
-<tag lemma="," src="auto" recommended="1">Z:-------------</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj1722-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

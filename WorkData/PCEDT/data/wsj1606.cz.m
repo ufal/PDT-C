@@ -6384,19 +6384,6 @@
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM>
 </tag>
 </m>
-<m id="m-wsj1606-001-p1s20W14-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj1606-001-p1s20W14</LM>
-</w.rf>
-<form>3</form>
-<tag lemma="3" src="auto" recommended="1">C=-------------</tag>
-<comment>
-<LM type="Other">
-<text>1v2: >3.5</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj1606-001-p1s20W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6405,8 +6392,8 @@
 <form>,</form>
 <tag lemma="," src="auto" recommended="1">Z:-------------</tag>
 <comment>
-<LM type="Other">
-<text>1v2: &lt;3.5</text>
+<LM type="New Form">
+<text>3.5</text>
 </LM>
 </comment>
 </m>

@@ -1235,8 +1235,24 @@
 <AM lemma="68uncový" src="manual">AAFP6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 68 uncových</text>
+<LM type="New Form">
+<text>68</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1255-001-p1s3W10-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1255-001-p1s3W10</LM>
+</w.rf>
+<form>68uncových</form>
+<tag>
+<AM lemma="68uncových" src="auto">X@-------------</AM>
+<AM lemma="68uncový" src="manual">AAFP6----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>uncových</text>
 </LM>
 </comment>
 </m>

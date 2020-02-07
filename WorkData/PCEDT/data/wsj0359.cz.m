@@ -704,8 +704,24 @@
 <AM lemma="52týdenní" src="manual">AAIS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 52 týdenního</text>
+<LM type="New Form">
+<text>52</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0359-001-p1s2W11-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0359-001-p1s2W11</LM>
+</w.rf>
+<form>52týdenního</form>
+<tag>
+<AM lemma="52týdenního" src="auto">X@-------------</AM>
+<AM lemma="52týdenní" src="manual">AAIS2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>týdenního</text>
 </LM>
 </comment>
 </m>
@@ -6849,8 +6865,24 @@
 <AM lemma="22násobek" src="manual">NNIS4-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 22 násobek</text>
+<LM type="New Form">
+<text>22</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0359-001-p1s26W24-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0359-001-p1s26W24</LM>
+</w.rf>
+<form>22násobek</form>
+<tag>
+<AM lemma="22násobek" src="auto">X@-------------</AM>
+<AM lemma="22násobek" src="manual">NNIS4-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>násobek</text>
 </LM>
 </comment>
 </m>
@@ -7409,8 +7441,24 @@
 <AM lemma="14násobek" src="manual">NNIS4-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 14 násobek</text>
+<LM type="New Form">
+<text>14</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0359-001-p1s28W14-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0359-001-p1s28W14</LM>
+</w.rf>
+<form>14násobek</form>
+<tag>
+<AM lemma="14násobek" src="auto">X@-------------</AM>
+<AM lemma="14násobek" src="manual">NNIS4-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>násobek</text>
 </LM>
 </comment>
 </m>
@@ -8902,8 +8950,24 @@
 <AM lemma="12měsíční" src="manual">AANS4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 12 měsíční</text>
+<LM type="New Form">
+<text>12</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0359-001-p1s36W5-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0359-001-p1s36W5</LM>
+</w.rf>
+<form>12měsíční</form>
+<tag>
+<AM lemma="12měsíční" src="auto">X@-------------</AM>
+<AM lemma="12měsíční" src="manual">AANS4----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>měsíční</text>
 </LM>
 </comment>
 </m>

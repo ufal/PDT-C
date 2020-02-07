@@ -16358,8 +16358,40 @@
 <AM lemma="Sydney´s-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Sydney ´ s</text>
+<LM type="New Form">
+<text>Sydney</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2230-001-p1s57W5-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2230-001-p1s57W5</LM>
+</w.rf>
+<form>Sydney´s</form>
+<tag>
+<AM lemma="Sydney´s" src="auto">X@-------------</AM>
+<AM lemma="Sydney´s-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>´</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2230-001-p1s57W5-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2230-001-p1s57W5</LM>
+</w.rf>
+<form>Sydney´s</form>
+<tag>
+<AM lemma="Sydney´s" src="auto">X@-------------</AM>
+<AM lemma="Sydney´s-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -17264,8 +17296,24 @@
 <AM lemma="100akciový" src="manual">AAIS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 100 akciový</text>
+<LM type="New Form">
+<text>100</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2230-001-p1s60W2-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2230-001-p1s60W2</LM>
+</w.rf>
+<form>100akciový</form>
+<tag>
+<AM lemma="100akciový" src="auto">X@-------------</AM>
+<AM lemma="100akciový" src="manual">AAIS1----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>akciový</text>
 </LM>
 </comment>
 </m>
@@ -17792,8 +17840,24 @@
 <AM lemma="30akciový" src="manual">AAIS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 30 akciový</text>
+<LM type="New Form">
+<text>30</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2230-001-p1s62W1-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2230-001-p1s62W1</LM>
+</w.rf>
+<form>30akciový</form>
+<tag>
+<AM lemma="30akciový" src="auto">X@-------------</AM>
+<AM lemma="30akciový" src="manual">AAIS1----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>akciový</text>
 </LM>
 </comment>
 </m>

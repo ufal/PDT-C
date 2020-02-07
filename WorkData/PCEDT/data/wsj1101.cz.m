@@ -689,8 +689,24 @@
 <AM lemma="20stránkový" src="manual">AAIS4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 20 stránkový</text>
+<LM type="New Form">
+<text>20</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1101-001-p1s2W7-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1101-001-p1s2W7</LM>
+</w.rf>
+<form>20stránkový</form>
+<tag>
+<AM lemma="20stránkový" src="auto">X@-------------</AM>
+<AM lemma="20stránkový" src="manual">AAIS4----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>stránkový</text>
 </LM>
 </comment>
 </m>

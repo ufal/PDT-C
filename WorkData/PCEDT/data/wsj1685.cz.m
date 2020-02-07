@@ -1463,22 +1463,6 @@
 <AM lemma="co-77_:B" src="auto">F%-------------</AM>
 </tag>
 </m>
-<m id="m-wsj1685-001-p1s5W19-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj1685-001-p1s5W19</LM>
-</w.rf>
-<form>si</form>
-<tag>
-<AM lemma="být" src="auto">VB-S---2P-AAI-7</AM>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X3----------</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj1685-001-p1s5W20-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

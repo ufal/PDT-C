@@ -353,8 +353,24 @@
 <AM lemma="76patrový" src="manual">AAFS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 76 patrové</text>
+<LM type="New Form">
+<text>76</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2220-001-p1s1W3-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2220-001-p1s1W3</LM>
+</w.rf>
+<form>76patrové</form>
+<tag>
+<AM lemma="76patrové" src="auto">X@-------------</AM>
+<AM lemma="76patrový" src="manual">AAFS2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>patrové</text>
 </LM>
 </comment>
 </m>

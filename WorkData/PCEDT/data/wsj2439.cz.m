@@ -62,8 +62,40 @@
 <AM lemma="Inc.uvedla-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Inc . uvedla</text>
+<LM type="New Form">
+<text>Inc</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2439-001-p1s0W5-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2439-001-p1s0W5</LM>
+</w.rf>
+<form>Inc.uvedla</form>
+<tag>
+<AM lemma="Inc.uvedla" src="auto">X@-------------</AM>
+<AM lemma="Inc.uvedla-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2439-001-p1s0W5-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2439-001-p1s0W5</LM>
+</w.rf>
+<form>Inc.uvedla</form>
+<tag>
+<AM lemma="Inc.uvedla" src="auto">X@-------------</AM>
+<AM lemma="Inc.uvedla-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>uvedla</text>
 </LM>
 </comment>
 </m>
@@ -1854,8 +1886,21 @@
 <form>vrámci</form>
 <tag lemma="vrámci" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: v rámci</text>
+<LM type="New Form">
+<text>v</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2439-001-p1s5W13-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2439-001-p1s5W13</LM>
+</w.rf>
+<form>vrámci</form>
+<tag lemma="vrámci" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>rámci</text>
 </LM>
 </comment>
 </m>

@@ -1752,8 +1752,21 @@
 <form>tzv.</form>
 <tag lemma="tzv." src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: tzv .</text>
+<LM type="New Form">
+<text>tzv</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2451-001-p1s5W12-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2451-001-p1s5W12</LM>
+</w.rf>
+<form>tzv.</form>
+<tag lemma="tzv." src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
 </LM>
 </comment>
 </m>
@@ -8314,8 +8327,34 @@
 <form>J.B</form>
 <tag lemma="J.B" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>3v1: J . B</text>
+<LM type="New Form">
+<text>J</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2451-001-p1s28W37-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2451-001-p1s28W37</LM>
+</w.rf>
+<form>J.B</form>
+<tag lemma="J.B" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2451-001-p1s28W37-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2451-001-p1s28W37</LM>
+</w.rf>
+<form>J.B</form>
+<tag lemma="J.B" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>B</text>
 </LM>
 </comment>
 </m>

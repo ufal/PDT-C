@@ -363,8 +363,21 @@
 <form>veWisconsinu</form>
 <tag lemma="veWisconsinu" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: ve Wisconsinu</text>
+<LM type="New Form">
+<text>ve</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2150-001-p1s0W28-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2150-001-p1s0W28</LM>
+</w.rf>
+<form>veWisconsinu</form>
+<tag lemma="veWisconsinu" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Wisconsinu</text>
 </LM>
 </comment>
 </m>

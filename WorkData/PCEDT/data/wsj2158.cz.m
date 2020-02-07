@@ -821,8 +821,40 @@
 <AM lemma="B.B-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: B . B</text>
+<LM type="New Form">
+<text>B</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2158-001-p1s1W33-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2158-001-p1s1W33</LM>
+</w.rf>
+<form>B.B</form>
+<tag>
+<AM lemma="B.B" src="auto">X@-------------</AM>
+<AM lemma="B.B-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2158-001-p1s1W33-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2158-001-p1s1W33</LM>
+</w.rf>
+<form>B.B</form>
+<tag>
+<AM lemma="B.B" src="auto">X@-------------</AM>
+<AM lemma="B.B-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>B</text>
 </LM>
 </comment>
 </m>

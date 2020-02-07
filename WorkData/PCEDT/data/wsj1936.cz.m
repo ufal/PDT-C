@@ -4727,8 +4727,24 @@
 <AM lemma="12slabičný" src="manual">AAIS4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 12 slabičný</text>
+<LM type="New Form">
+<text>12</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1936-001-p1s18W10-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1936-001-p1s18W10</LM>
+</w.rf>
+<form>12slabičný</form>
+<tag>
+<AM lemma="12slabičný" src="auto">X@-------------</AM>
+<AM lemma="12slabičný" src="manual">AAIS4----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>slabičný</text>
 </LM>
 </comment>
 </m>
@@ -6261,8 +6277,24 @@
 <AM lemma="25letý" src="auto">AAFS7----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 25 letou</text>
+<LM type="New Form">
+<text>25</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1936-001-p1s22W12-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1936-001-p1s22W12</LM>
+</w.rf>
+<form>25letou</form>
+<tag>
+<AM lemma="25letý" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="25letý" src="auto">AAFS7----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>letou</text>
 </LM>
 </comment>
 </m>

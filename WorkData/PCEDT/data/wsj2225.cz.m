@@ -5475,8 +5475,38 @@
 <AM lemma="60sekundový" src="auto">AANS5----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 60 sekundové</text>
+<LM type="New Form">
+<text>60</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2225-001-p1s20W4-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2225-001-p1s20W4</LM>
+</w.rf>
+<form>60sekundové</form>
+<tag>
+<AM lemma="60sekundový" src="auto">AAFP1----1A----</AM>
+<AM lemma="60sekundový" src="auto">AAFP4----1A----</AM>
+<AM lemma="60sekundový" src="auto">AAFP5----1A----</AM>
+<AM lemma="60sekundový" src="auto">AAFS2----1A----</AM>
+<AM lemma="60sekundový" src="auto">AAFS3----1A----</AM>
+<AM lemma="60sekundový" src="auto">AAFS6----1A----</AM>
+<AM lemma="60sekundový" src="auto" recommended="1">AAIP1----1A----</AM>
+<AM lemma="60sekundový" src="auto">AAIP4----1A----</AM>
+<AM lemma="60sekundový" src="auto">AAIP5----1A----</AM>
+<AM lemma="60sekundový" src="auto">AAMP4----1A----</AM>
+<AM lemma="60sekundový" src="auto">AANP1----1A---6</AM>
+<AM lemma="60sekundový" src="auto">AANP4----1A---6</AM>
+<AM lemma="60sekundový" src="auto">AANP5----1A---6</AM>
+<AM lemma="60sekundový" src="auto">AANS1----1A----</AM>
+<AM lemma="60sekundový" src="auto">AANS4----1A----</AM>
+<AM lemma="60sekundový" src="auto">AANS5----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>sekundové</text>
 </LM>
 </comment>
 </m>

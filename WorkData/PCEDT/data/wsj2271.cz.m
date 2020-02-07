@@ -54,8 +54,40 @@
 <AM lemma="Co.uvedla-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Co . uvedla</text>
+<LM type="New Form">
+<text>Co</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2271-001-p1s1W4-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2271-001-p1s1W4</LM>
+</w.rf>
+<form>Co.uvedla</form>
+<tag>
+<AM lemma="Co.uvedla" src="auto">X@-------------</AM>
+<AM lemma="Co.uvedla-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2271-001-p1s1W4-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2271-001-p1s1W4</LM>
+</w.rf>
+<form>Co.uvedla</form>
+<tag>
+<AM lemma="Co.uvedla" src="auto">X@-------------</AM>
+<AM lemma="Co.uvedla-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>uvedla</text>
 </LM>
 </comment>
 </m>

@@ -5690,23 +5690,6 @@
 <AM lemma="až-3_^(až_k_...,_až_dost)" src="auto" recommended="1">TT-------------</AM>
 </tag>
 </m>
-<m id="m-wsj2034-001-p1s18W12-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj2034-001-p1s18W12</LM>
-</w.rf>
-<form>až</form>
-<tag>
-<AM lemma="až-1_^(2_až_3)" src="auto">J^-------------</AM>
-<AM lemma="až-2_^(přijde,_až_to_dodělá)" src="auto">J,-------------</AM>
-<AM lemma="až-3_^(až_k_...,_až_dost)" src="auto" recommended="1">TT-------------</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj2034-001-p1s18W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

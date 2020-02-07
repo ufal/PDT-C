@@ -1516,8 +1516,26 @@
 <AM lemma="45letý" src="auto">AANS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 45 letého</text>
+<LM type="New Form">
+<text>45</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0786-001-p1s5W11-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0786-001-p1s5W11</LM>
+</w.rf>
+<form>45letého</form>
+<tag>
+<AM lemma="45letý" src="auto">AAIS2----1A----</AM>
+<AM lemma="45letý" src="auto" recommended="1">AAMS2----1A----</AM>
+<AM lemma="45letý" src="auto">AAMS4----1A----</AM>
+<AM lemma="45letý" src="auto">AANS2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>letého</text>
 </LM>
 </comment>
 </m>

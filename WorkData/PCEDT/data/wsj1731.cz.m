@@ -1602,8 +1602,24 @@
 <AM lemma="40bodový" src="manual">AAIS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 40 bodový</text>
+<LM type="New Form">
+<text>40</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1731-001-p1s6W6-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1731-001-p1s6W6</LM>
+</w.rf>
+<form>40bodový</form>
+<tag>
+<AM lemma="40bodový" src="auto">X@-------------</AM>
+<AM lemma="40bodový" src="manual">AAIS1----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>bodový</text>
 </LM>
 </comment>
 </m>

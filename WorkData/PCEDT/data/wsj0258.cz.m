@@ -1704,8 +1704,24 @@
 <AM lemma="10krát`10" src="manual">Cv-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 10 krát</text>
+<LM type="New Form">
+<text>10</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0258-001-p1s5W16-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0258-001-p1s5W16</LM>
+</w.rf>
+<form>10krát</form>
+<tag>
+<AM lemma="10krát" src="auto">X@-------------</AM>
+<AM lemma="10krát`10" src="manual">Cv-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>krát</text>
 </LM>
 </comment>
 </m>

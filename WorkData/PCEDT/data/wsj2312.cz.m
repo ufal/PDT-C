@@ -321,8 +321,24 @@
 <AM lemma="64palcový" src="manual">AAIP2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 64 palcových</text>
+<LM type="New Form">
+<text>64</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2312-001-p1s1W13-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2312-001-p1s1W13</LM>
+</w.rf>
+<form>64palcových</form>
+<tag>
+<AM lemma="64palcových" src="auto">X@-------------</AM>
+<AM lemma="64palcový" src="manual">AAIP2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>palcových</text>
 </LM>
 </comment>
 </m>

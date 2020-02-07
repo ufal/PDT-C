@@ -3328,9 +3328,21 @@
 <AM lemma="vstup" src="auto">NNIS3-----A----</AM>
 <AM lemma="vstup" src="auto">NNIS6-----A----</AM>
 </tag>
+</m>
+<m id="m-wsj2407-001-p1s9W7-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2407-001-p1s9W7</LM>
+</w.rf>
+<form>vstupu</form>
+<tag>
+<AM lemma="vstup" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="vstup" src="auto">NNIS3-----A----</AM>
+<AM lemma="vstup" src="auto">NNIS6-----A----</AM>
+</tag>
 <comment>
-<LM type="Other">
-<text>2v1: vstupu do</text>
+<LM type="New Form">
+<text>do</text>
 </LM>
 </comment>
 </m>

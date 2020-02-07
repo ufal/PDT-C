@@ -2605,8 +2605,24 @@
 <AM lemma="52týdenní" src="manual">AANS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 52 týdenního</text>
+<LM type="New Form">
+<text>52</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2376-001-p1s12W19-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2376-001-p1s12W19</LM>
+</w.rf>
+<form>52týdenního</form>
+<tag>
+<AM lemma="52týdenního" src="auto">X@-------------</AM>
+<AM lemma="52týdenní" src="manual">AANS2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>týdenního</text>
 </LM>
 </comment>
 </m>
@@ -4706,19 +4722,6 @@
 <AM lemma="za" src="auto">RR--7----------</AM>
 </tag>
 </m>
-<m id="m-wsj2376-001-p1s24W10-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj2376-001-p1s24W10</LM>
-</w.rf>
-<form>12</form>
-<tag lemma="12" src="auto" recommended="1">C=-------------</tag>
-<comment>
-<LM type="Other">
-<text>1v2: >12.5</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj2376-001-p1s24W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4727,8 +4730,8 @@
 <form>,</form>
 <tag lemma="," src="auto" recommended="1">Z:-------------</tag>
 <comment>
-<LM type="Other">
-<text>1v2: &lt;12.5</text>
+<LM type="New Form">
+<text>12.5</text>
 </LM>
 </comment>
 </m>
@@ -10345,23 +10348,6 @@
 </w.rf>
 <form>jsme</form>
 <tag lemma="být" src="auto" recommended="1">VB-P---1P-AAI--</tag>
-</m>
-<m id="m-wsj2376-001-p1s56W3-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj2376-001-p1s56W3</LM>
-</w.rf>
-<form>se</form>
-<tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
-<AM lemma="s-1" src="auto">RV--2----------</AM>
-<AM lemma="s-1" src="auto">RV--7----------</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj2376-001-p1s56W4-Ta">
 <src.rf>tagger-a</src.rf>

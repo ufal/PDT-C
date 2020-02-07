@@ -2712,8 +2712,24 @@
 <AM lemma="120denní" src="manual">AAFS1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 120 denní</text>
+<LM type="New Form">
+<text>120</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0429-001-p1s6W1-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0429-001-p1s6W1</LM>
+</w.rf>
+<form>120denní</form>
+<tag>
+<AM lemma="120denní" src="auto">X@-------------</AM>
+<AM lemma="120denní" src="manual">AAFS1----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>denní</text>
 </LM>
 </comment>
 </m>

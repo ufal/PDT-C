@@ -13006,8 +13006,21 @@
 <form>tzv.</form>
 <tag lemma="tzv." src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: tzv .</text>
+<LM type="New Form">
+<text>tzv</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2415-001-p1s54W21-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2415-001-p1s54W21</LM>
+</w.rf>
+<form>tzv.</form>
+<tag lemma="tzv." src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
 </LM>
 </comment>
 </m>

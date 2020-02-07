@@ -626,8 +626,24 @@
 <AM lemma="700milionový_,s_^(^DD**700miliónový)" src="manual">AAIS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 700 milionového</text>
+<LM type="New Form">
+<text>700</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1077-001-p1s1W21-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1077-001-p1s1W21</LM>
+</w.rf>
+<form>700milionového</form>
+<tag>
+<AM lemma="700milionového" src="auto">X@-------------</AM>
+<AM lemma="700milionový_,s_^(^DD**700miliónový)" src="manual">AAIS2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>milionového</text>
 </LM>
 </comment>
 </m>

@@ -1412,8 +1412,21 @@
 <form>tj.</form>
 <tag lemma="tj." src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: tj .</text>
+<LM type="New Form">
+<text>tj</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0153-001-p1s3W33-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0153-001-p1s3W33</LM>
+</w.rf>
+<form>tj.</form>
+<tag lemma="tj." src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
 </LM>
 </comment>
 </m>

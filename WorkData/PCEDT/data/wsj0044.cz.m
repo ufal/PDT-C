@@ -16574,8 +16574,27 @@
 <AM lemma="37letý" src="auto">AANP5----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 37 letá</text>
+<LM type="New Form">
+<text>37</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0044-001-p1s57W13-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0044-001-p1s57W13</LM>
+</w.rf>
+<form>37letá</form>
+<tag>
+<AM lemma="37letý" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="37letý" src="auto">AAFS5----1A----</AM>
+<AM lemma="37letý" src="auto">AANP1----1A----</AM>
+<AM lemma="37letý" src="auto">AANP4----1A----</AM>
+<AM lemma="37letý" src="auto">AANP5----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>letá</text>
 </LM>
 </comment>
 </m>
@@ -24053,8 +24072,24 @@
 <AM lemma="48hodinový" src="manual">AAIS6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 48 hodinovém</text>
+<LM type="New Form">
+<text>48</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0044-001-p1s85W8-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0044-001-p1s85W8</LM>
+</w.rf>
+<form>48hodinovém</form>
+<tag>
+<AM lemma="48hodinovém" src="auto">X@-------------</AM>
+<AM lemma="48hodinový" src="manual">AAIS6----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>hodinovém</text>
 </LM>
 </comment>
 </m>

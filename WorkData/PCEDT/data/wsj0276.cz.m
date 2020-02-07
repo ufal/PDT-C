@@ -1189,8 +1189,25 @@
 <AM lemma="11členný" src="auto" recommended="1">AANS6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 11 členném</text>
+<LM type="New Form">
+<text>11</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0276-001-p1s2W16-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0276-001-p1s2W16</LM>
+</w.rf>
+<form>11členném</form>
+<tag>
+<AM lemma="11členný" src="auto">AAIS6----1A----</AM>
+<AM lemma="11členný" src="auto">AAMS6----1A----</AM>
+<AM lemma="11členný" src="auto" recommended="1">AANS6----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>členném</text>
 </LM>
 </comment>
 </m>

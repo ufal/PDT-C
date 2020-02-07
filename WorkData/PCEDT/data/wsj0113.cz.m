@@ -4513,8 +4513,26 @@
 <AM lemma="30letý" src="auto" recommended="1">AANS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 30 letého</text>
+<LM type="New Form">
+<text>30</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0113-001-p1s14W20-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0113-001-p1s14W20</LM>
+</w.rf>
+<form>30letého</form>
+<tag>
+<AM lemma="30letý" src="auto">AAIS2----1A----</AM>
+<AM lemma="30letý" src="auto">AAMS2----1A----</AM>
+<AM lemma="30letý" src="auto">AAMS4----1A----</AM>
+<AM lemma="30letý" src="auto" recommended="1">AANS2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>letého</text>
 </LM>
 </comment>
 </m>

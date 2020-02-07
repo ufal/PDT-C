@@ -8635,22 +8635,6 @@
 <form>píšu</form>
 <tag lemma="psát" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
-<m id="m-wsj1778-001-p1s68W3-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj1778-001-p1s68W3</LM>
-</w.rf>
-<form>ve</form>
-<tag>
-<AM lemma="v-1" src="auto" recommended="1">RV--4----------</AM>
-<AM lemma="v-1" src="auto" selected="1">RV--6----------</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>1v2: >vestoje</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj1778-001-p1s68W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8666,8 +8650,8 @@
 <AM lemma="stoje_^(ve_stoje)" src="manual" selected="1">Db-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>1v2: &lt;vestoje</text>
+<LM type="New Form">
+<text>vestoje</text>
 </LM>
 </comment>
 </m>

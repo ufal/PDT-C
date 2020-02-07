@@ -2654,8 +2654,30 @@
 <AM lemma="20letý" src="auto">AANP6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 20 letých</text>
+<LM type="New Form">
+<text>20</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0671-001-p1s9W13-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0671-001-p1s9W13</LM>
+</w.rf>
+<form>20letých</form>
+<tag>
+<AM lemma="20letý" src="auto">AAFP2----1A----</AM>
+<AM lemma="20letý" src="auto">AAFP6----1A----</AM>
+<AM lemma="20letý" src="auto" recommended="1">AAIP2----1A----</AM>
+<AM lemma="20letý" src="auto">AAIP6----1A----</AM>
+<AM lemma="20letý" src="auto">AAMP2----1A----</AM>
+<AM lemma="20letý" src="auto">AAMP6----1A----</AM>
+<AM lemma="20letý" src="auto">AANP2----1A----</AM>
+<AM lemma="20letý" src="auto">AANP6----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>letých</text>
 </LM>
 </comment>
 </m>
@@ -2770,8 +2792,30 @@
 <AM lemma="30letý" src="auto">AANP6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 30 letých</text>
+<LM type="New Form">
+<text>30</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0671-001-p1s9W23-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0671-001-p1s9W23</LM>
+</w.rf>
+<form>30letých</form>
+<tag>
+<AM lemma="30letý" src="auto" recommended="1">AAFP2----1A----</AM>
+<AM lemma="30letý" src="auto">AAFP6----1A----</AM>
+<AM lemma="30letý" src="auto">AAIP2----1A----</AM>
+<AM lemma="30letý" src="auto">AAIP6----1A----</AM>
+<AM lemma="30letý" src="auto">AAMP2----1A----</AM>
+<AM lemma="30letý" src="auto">AAMP6----1A----</AM>
+<AM lemma="30letý" src="auto">AANP2----1A----</AM>
+<AM lemma="30letý" src="auto">AANP6----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>letých</text>
 </LM>
 </comment>
 </m>
@@ -3396,8 +3440,30 @@
 <AM lemma="30letý" src="auto">AANP6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 30 letých</text>
+<LM type="New Form">
+<text>30</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0671-001-p1s11W14-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0671-001-p1s11W14</LM>
+</w.rf>
+<form>30letých</form>
+<tag>
+<AM lemma="30letý" src="auto">AAFP2----1A----</AM>
+<AM lemma="30letý" src="auto">AAFP6----1A----</AM>
+<AM lemma="30letý" src="auto" recommended="1">AAIP2----1A----</AM>
+<AM lemma="30letý" src="auto">AAIP6----1A----</AM>
+<AM lemma="30letý" src="auto">AAMP2----1A----</AM>
+<AM lemma="30letý" src="auto">AAMP6----1A----</AM>
+<AM lemma="30letý" src="auto">AANP2----1A----</AM>
+<AM lemma="30letý" src="auto">AANP6----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>letých</text>
 </LM>
 </comment>
 </m>
@@ -9471,8 +9537,30 @@
 <AM lemma="20letý" src="auto">AANP6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 20 letých</text>
+<LM type="New Form">
+<text>20</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0671-001-p1s33W8-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0671-001-p1s33W8</LM>
+</w.rf>
+<form>20letých</form>
+<tag>
+<AM lemma="20letý" src="auto">AAFP2----1A----</AM>
+<AM lemma="20letý" src="auto">AAFP6----1A----</AM>
+<AM lemma="20letý" src="auto">AAIP2----1A----</AM>
+<AM lemma="20letý" src="auto" recommended="1">AAIP6----1A----</AM>
+<AM lemma="20letý" src="auto">AAMP2----1A----</AM>
+<AM lemma="20letý" src="auto">AAMP6----1A----</AM>
+<AM lemma="20letý" src="auto">AANP2----1A----</AM>
+<AM lemma="20letý" src="auto">AANP6----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>letých</text>
 </LM>
 </comment>
 </m>
@@ -12062,8 +12150,45 @@
 <AM lemma="30letý" src="auto">AANS5----1A---6</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 30 letý</text>
+<LM type="New Form">
+<text>30</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0671-001-p1s45W2-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0671-001-p1s45W2</LM>
+</w.rf>
+<form>30letý</form>
+<tag>
+<AM lemma="30letý" src="auto">AAFP1----1A---6</AM>
+<AM lemma="30letý" src="auto">AAFP4----1A---6</AM>
+<AM lemma="30letý" src="auto">AAFP5----1A---6</AM>
+<AM lemma="30letý" src="auto">AAFS2----1A---6</AM>
+<AM lemma="30letý" src="auto">AAFS3----1A---6</AM>
+<AM lemma="30letý" src="auto">AAFS6----1A---6</AM>
+<AM lemma="30letý" src="auto">AAIP1----1A---6</AM>
+<AM lemma="30letý" src="auto">AAIP4----1A---6</AM>
+<AM lemma="30letý" src="auto">AAIP5----1A---6</AM>
+<AM lemma="30letý" src="auto" recommended="1">AAIS1----1A----</AM>
+<AM lemma="30letý" src="auto">AAIS4----1A----</AM>
+<AM lemma="30letý" src="auto">AAIS5----1A----</AM>
+<AM lemma="30letý" src="auto">AAMP1----1A---6</AM>
+<AM lemma="30letý" src="auto">AAMP4----1A---6</AM>
+<AM lemma="30letý" src="auto">AAMP5----1A---6</AM>
+<AM lemma="30letý" src="auto">AAMS1----1A----</AM>
+<AM lemma="30letý" src="auto">AAMS5----1A----</AM>
+<AM lemma="30letý" src="auto">AANP1----1A---6</AM>
+<AM lemma="30letý" src="auto">AANP4----1A---6</AM>
+<AM lemma="30letý" src="auto">AANP5----1A---6</AM>
+<AM lemma="30letý" src="auto">AANS1----1A---6</AM>
+<AM lemma="30letý" src="auto">AANS4----1A---6</AM>
+<AM lemma="30letý" src="auto">AANS5----1A---6</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>letý</text>
 </LM>
 </comment>
 </m>
@@ -13295,8 +13420,24 @@
 <AM lemma="51denní" src="manual">AAFS6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 51 denních</text>
+<LM type="New Form">
+<text>51</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0671-001-p1s49W14-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0671-001-p1s49W14</LM>
+</w.rf>
+<form>51denních</form>
+<tag>
+<AM lemma="51denních" src="auto">X@-------------</AM>
+<AM lemma="51denní" src="manual">AAFS6----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>denních</text>
 </LM>
 </comment>
 </m>
@@ -14233,8 +14374,30 @@
 <AM lemma="30letý" src="auto">AANP6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 30 letých</text>
+<LM type="New Form">
+<text>30</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0671-001-p1s51W17-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0671-001-p1s51W17</LM>
+</w.rf>
+<form>30letých</form>
+<tag>
+<AM lemma="30letý" src="auto">AAFP2----1A----</AM>
+<AM lemma="30letý" src="auto">AAFP6----1A----</AM>
+<AM lemma="30letý" src="auto" recommended="1">AAIP2----1A----</AM>
+<AM lemma="30letý" src="auto">AAIP6----1A----</AM>
+<AM lemma="30letý" src="auto">AAMP2----1A----</AM>
+<AM lemma="30letý" src="auto">AAMP6----1A----</AM>
+<AM lemma="30letý" src="auto">AANP2----1A----</AM>
+<AM lemma="30letý" src="auto">AANP6----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>letých</text>
 </LM>
 </comment>
 </m>
@@ -14527,8 +14690,30 @@
 <AM lemma="30letý" src="auto">AANP6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 30 letých</text>
+<LM type="New Form">
+<text>30</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0671-001-p1s52W21-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0671-001-p1s52W21</LM>
+</w.rf>
+<form>30letých</form>
+<tag>
+<AM lemma="30letý" src="auto">AAFP2----1A----</AM>
+<AM lemma="30letý" src="auto">AAFP6----1A----</AM>
+<AM lemma="30letý" src="auto">AAIP2----1A----</AM>
+<AM lemma="30letý" src="auto" recommended="1">AAIP6----1A----</AM>
+<AM lemma="30letý" src="auto">AAMP2----1A----</AM>
+<AM lemma="30letý" src="auto">AAMP6----1A----</AM>
+<AM lemma="30letý" src="auto">AANP2----1A----</AM>
+<AM lemma="30letý" src="auto">AANP6----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>letých</text>
 </LM>
 </comment>
 </m>
@@ -14845,8 +15030,30 @@
 <AM lemma="30letý" src="auto">AANP6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 30 letých</text>
+<LM type="New Form">
+<text>30</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0671-001-p1s53W23-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0671-001-p1s53W23</LM>
+</w.rf>
+<form>30letých</form>
+<tag>
+<AM lemma="30letý" src="auto">AAFP2----1A----</AM>
+<AM lemma="30letý" src="auto">AAFP6----1A----</AM>
+<AM lemma="30letý" src="auto">AAIP2----1A----</AM>
+<AM lemma="30letý" src="auto" recommended="1">AAIP6----1A----</AM>
+<AM lemma="30letý" src="auto">AAMP2----1A----</AM>
+<AM lemma="30letý" src="auto">AAMP6----1A----</AM>
+<AM lemma="30letý" src="auto">AANP2----1A----</AM>
+<AM lemma="30letý" src="auto">AANP6----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>letých</text>
 </LM>
 </comment>
 </m>
@@ -15062,8 +15269,30 @@
 <AM lemma="30letý" src="auto">AANP6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 30 letých</text>
+<LM type="New Form">
+<text>30</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0671-001-p1s54W14-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0671-001-p1s54W14</LM>
+</w.rf>
+<form>30letých</form>
+<tag>
+<AM lemma="30letý" src="auto">AAFP2----1A----</AM>
+<AM lemma="30letý" src="auto">AAFP6----1A----</AM>
+<AM lemma="30letý" src="auto" recommended="1">AAIP2----1A----</AM>
+<AM lemma="30letý" src="auto">AAIP6----1A----</AM>
+<AM lemma="30letý" src="auto">AAMP2----1A----</AM>
+<AM lemma="30letý" src="auto">AAMP6----1A----</AM>
+<AM lemma="30letý" src="auto">AANP2----1A----</AM>
+<AM lemma="30letý" src="auto">AANP6----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>letých</text>
 </LM>
 </comment>
 </m>
@@ -17320,8 +17549,24 @@
 <AM lemma="52týdenní" src="manual">AANS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 52 týdenního</text>
+<LM type="New Form">
+<text>52</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0671-001-p1s62W16-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0671-001-p1s62W16</LM>
+</w.rf>
+<form>52týdenního</form>
+<tag>
+<AM lemma="52týdenního" src="auto">X@-------------</AM>
+<AM lemma="52týdenní" src="manual">AANS2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>týdenního</text>
 </LM>
 </comment>
 </m>

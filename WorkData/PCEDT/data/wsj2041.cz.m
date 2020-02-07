@@ -13603,8 +13603,24 @@
 <AM lemma="77B-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 77 B</text>
+<LM type="New Form">
+<text>77</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2041-001-p1s51W31-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2041-001-p1s51W31</LM>
+</w.rf>
+<form>77B</form>
+<tag>
+<AM lemma="77B" src="auto">X@-------------</AM>
+<AM lemma="77B-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>B</text>
 </LM>
 </comment>
 </m>

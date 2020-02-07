@@ -4151,8 +4151,25 @@
 <AM lemma="11letý" src="auto">AANS6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 11 letém</text>
+<LM type="New Form">
+<text>11</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0360-001-p1s13W22-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0360-001-p1s13W22</LM>
+</w.rf>
+<form>11letém</form>
+<tag>
+<AM lemma="11letý" src="auto" recommended="1">AAIS6----1A----</AM>
+<AM lemma="11letý" src="auto">AAMS6----1A----</AM>
+<AM lemma="11letý" src="auto">AANS6----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>letém</text>
 </LM>
 </comment>
 </m>

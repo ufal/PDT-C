@@ -858,8 +858,26 @@
 <AM lemma="57letý" src="auto">AANS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 57 letého</text>
+<LM type="New Form">
+<text>57</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0800-001-p1s3W8-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0800-001-p1s3W8</LM>
+</w.rf>
+<form>57letého</form>
+<tag>
+<AM lemma="57letý" src="auto">AAIS2----1A----</AM>
+<AM lemma="57letý" src="auto" recommended="1">AAMS2----1A----</AM>
+<AM lemma="57letý" src="auto">AAMS4----1A----</AM>
+<AM lemma="57letý" src="auto">AANS2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>letého</text>
 </LM>
 </comment>
 </m>
@@ -2496,22 +2514,6 @@
 </w.rf>
 <form>rádi</form>
 <tag lemma="rád" src="auto" recommended="1">ACMP------A----</tag>
-</m>
-<m id="m-wsj0800-001-p1s9W6-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj0800-001-p1s9W6</LM>
-</w.rf>
-<form>si</form>
-<tag>
-<AM lemma="být" src="auto">VB-S---2P-AAI-7</AM>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X3----------</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj0800-001-p1s9W7-Ta">
 <src.rf>tagger-a</src.rf>

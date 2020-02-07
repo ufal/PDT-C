@@ -5047,8 +5047,24 @@
 <AM lemma="291stránkový" src="manual">AAFS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 291 stránkové </text>
+<LM type="New Form">
+<text>291</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0563-001-p1s13W7-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0563-001-p1s13W7</LM>
+</w.rf>
+<form>291stránkové</form>
+<tag>
+<AM lemma="291stránkové" src="auto">X@-------------</AM>
+<AM lemma="291stránkový" src="manual">AAFS2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>stránkové</text>
 </LM>
 </comment>
 </m>

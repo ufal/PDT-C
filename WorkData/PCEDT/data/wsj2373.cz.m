@@ -1093,8 +1093,21 @@
 <form>r.</form>
 <tag lemma="r." src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: r . </text>
+<LM type="New Form">
+<text>r</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2373-001-p1s3W14-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2373-001-p1s3W14</LM>
+</w.rf>
+<form>r.</form>
+<tag lemma="r." src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
 </LM>
 </comment>
 </m>
@@ -1127,8 +1140,21 @@
 <form>r.</form>
 <tag lemma="r." src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: r .</text>
+<LM type="New Form">
+<text>r</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2373-001-p1s3W17-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2373-001-p1s3W17</LM>
+</w.rf>
+<form>r.</form>
+<tag lemma="r." src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
 </LM>
 </comment>
 </m>

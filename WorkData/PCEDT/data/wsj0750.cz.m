@@ -2642,26 +2642,6 @@
 <form>jako</form>
 <tag lemma="jako-1" src="auto" recommended="1">J,-------------</tag>
 </m>
-<m id="m-wsj0750-001-p1s9W21-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj0750-001-p1s9W21</LM>
-</w.rf>
-<form>o</form>
-<tag>
-<AM lemma="o-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="o-1" src="auto">RR--6----------</AM>
-<AM lemma="o-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="o-77_,t" src="auto">F%-------------</AM>
-<AM lemma="o-88_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="obchodní_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj0750-001-p1s9W22-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

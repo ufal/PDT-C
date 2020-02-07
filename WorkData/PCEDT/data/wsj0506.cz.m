@@ -202,8 +202,40 @@
 <AM lemma="F-A" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: F - A </text>
+<LM type="New Form">
+<text>F</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0506-001-p1s0W17-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0506-001-p1s0W17</LM>
+</w.rf>
+<form>F-A</form>
+<tag>
+<AM lemma="F-A" src="auto">X@-------------</AM>
+<AM lemma="F-A" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>-</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0506-001-p1s0W17-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0506-001-p1s0W17</LM>
+</w.rf>
+<form>F-A</form>
+<tag>
+<AM lemma="F-A" src="auto">X@-------------</AM>
+<AM lemma="F-A" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>A</text>
 </LM>
 </comment>
 </m>

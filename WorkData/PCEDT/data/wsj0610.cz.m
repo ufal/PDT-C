@@ -1506,8 +1506,24 @@
 <AM lemma="6miliardový" src="manual">AAIS6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 6 miliardovém</text>
+<LM type="New Form">
+<text>6</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0610-001-p1s6W29-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0610-001-p1s6W29</LM>
+</w.rf>
+<form>6miliardovém</form>
+<tag>
+<AM lemma="6miliardovém" src="auto">X@-------------</AM>
+<AM lemma="6miliardový" src="manual">AAIS6----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>miliardovém</text>
 </LM>
 </comment>
 </m>
@@ -9206,8 +9222,24 @@
 <AM lemma="185akrový" src="manual">AANS6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 185 akrovém</text>
+<LM type="New Form">
+<text>185</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0610-001-p1s32W18-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0610-001-p1s32W18</LM>
+</w.rf>
+<form>185akrovém</form>
+<tag>
+<AM lemma="185akrovém" src="auto">X@-------------</AM>
+<AM lemma="185akrový" src="manual">AANS6----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>akrovém</text>
 </LM>
 </comment>
 </m>

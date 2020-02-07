@@ -1928,19 +1928,6 @@
 <AM lemma="člověk" src="auto" recommended="1">NNMP3-----A----</AM>
 </tag>
 </m>
-<m id="m-wsj2106-001-p1s8W5-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj2106-001-p1s8W5</LM>
-</w.rf>
-<form>,</form>
-<tag lemma="," src="auto" recommended="1">Z:-------------</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj2106-001-p1s8W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2401,19 +2388,6 @@
 </w.rf>
 <form>hudba</form>
 <tag lemma="hudba" src="auto" recommended="1">NNFS1-----A----</tag>
-</m>
-<m id="m-wsj2106-001-p1s11W8-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj2106-001-p1s11W8</LM>
-</w.rf>
-<form>,</form>
-<tag lemma="," src="auto" recommended="1">Z:-------------</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj2106-001-p1s11W9-Ta">
 <src.rf>tagger-a</src.rf>

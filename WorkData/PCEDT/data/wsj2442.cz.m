@@ -1146,8 +1146,21 @@
 <form>1.17miliardy</form>
 <tag lemma="1.17miliardy" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: 1.17 miliardy</text>
+<LM type="New Form">
+<text>1.17</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2442-001-p1s1W40-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2442-001-p1s1W40</LM>
+</w.rf>
+<form>1.17miliardy</form>
+<tag lemma="1.17miliardy" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>miliardy</text>
 </LM>
 </comment>
 </m>

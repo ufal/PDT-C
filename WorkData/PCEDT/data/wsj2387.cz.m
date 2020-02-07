@@ -8167,23 +8167,6 @@
 <AM lemma="který" src="auto">P4YS1----------</AM>
 </tag>
 </m>
-<m id="m-wsj2387-001-p1s31W24-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj2387-001-p1s31W24</LM>
-</w.rf>
-<form>se</form>
-<tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
-<AM lemma="s-1" src="auto">RV--2----------</AM>
-<AM lemma="s-1" src="auto">RV--7----------</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj2387-001-p1s31W25-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -11385,8 +11368,24 @@
 <AM lemma="2palcové" src="manual">AAFP4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 2 palcové</text>
+<LM type="New Form">
+<text>2</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2387-001-p1s40W40-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2387-001-p1s40W40</LM>
+</w.rf>
+<form>2palcové</form>
+<tag>
+<AM lemma="2palcové" src="auto">X@-------------</AM>
+<AM lemma="2palcové" src="manual">AAFP4----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>palcové</text>
 </LM>
 </comment>
 </m>
@@ -11638,8 +11637,24 @@
 <AM lemma="2palcové" src="manual">AAFP1----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 2 palcové</text>
+<LM type="New Form">
+<text>2</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2387-001-p1s41W22-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2387-001-p1s41W22</LM>
+</w.rf>
+<form>2palcové</form>
+<tag>
+<AM lemma="2palcové" src="auto">X@-------------</AM>
+<AM lemma="2palcové" src="manual">AAFP1----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>palcové</text>
 </LM>
 </comment>
 </m>
@@ -13296,8 +13311,24 @@
 <AM lemma="2palcovou" src="manual">AAFS4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 2 palcovou</text>
+<LM type="New Form">
+<text>2</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2387-001-p1s47W8-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2387-001-p1s47W8</LM>
+</w.rf>
+<form>2palcovou</form>
+<tag>
+<AM lemma="2palcovou" src="auto">X@-------------</AM>
+<AM lemma="2palcovou" src="manual">AAFS4----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>palcovou</text>
 </LM>
 </comment>
 </m>

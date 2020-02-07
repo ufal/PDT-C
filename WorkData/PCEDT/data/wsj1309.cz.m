@@ -1952,8 +1952,25 @@
 <AM lemma="800akrový" src="manual">AAFS6----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 800 akrové</text>
+<LM type="New Form">
+<text>800</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1309-001-p1s6W9-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1309-001-p1s6W9</LM>
+</w.rf>
+<form>800akrové</form>
+<tag>
+<AM lemma="800akrové" src="auto">X@-------------</AM>
+<AM lemma="800akrový" src="manual">NNFS6-----A----</AM>
+<AM lemma="800akrový" src="manual">AAFS6----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>akrové</text>
 </LM>
 </comment>
 </m>

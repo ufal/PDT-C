@@ -165,8 +165,24 @@
 <AM lemma="91denní" src="manual">AAIP7----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 91 denními</text>
+<LM type="New Form">
+<text>91</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2080-001-p1s0W10-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2080-001-p1s0W10</LM>
+</w.rf>
+<form>91denními</form>
+<tag>
+<AM lemma="91denními" src="auto">X@-------------</AM>
+<AM lemma="91denní" src="manual">AAIP7----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>denními</text>
 </LM>
 </comment>
 </m>
@@ -789,8 +805,24 @@
 <AM lemma="182denní" src="manual">AAIP7----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 182 denními</text>
+<LM type="New Form">
+<text>182</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2080-001-p1s2W12-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2080-001-p1s2W12</LM>
+</w.rf>
+<form>182denními</form>
+<tag>
+<AM lemma="182denními" src="auto">X@-------------</AM>
+<AM lemma="182denní" src="manual">AAIP7----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>denními</text>
 </LM>
 </comment>
 </m>

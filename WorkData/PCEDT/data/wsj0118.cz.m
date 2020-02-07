@@ -5314,23 +5314,6 @@
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANS5----1A----</AM>
 </tag>
 </m>
-<m id="m-wsj0118-001-p1s13W38-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj0118-001-p1s13W38</LM>
-</w.rf>
-<form>na</form>
-<tag>
-<AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
-<AM lemma="na-2" src="auto">II-------------</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj0118-001-p1s13W39-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -50545,9 +50528,17 @@
 </w.rf>
 <form>uvažovali</form>
 <tag lemma="uvažovat" src="auto" recommended="1">VpMP---XR-AAI--</tag>
+</m>
+<m id="m-wsj0118-001-p1s166W7-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0118-001-p1s166W7</LM>
+</w.rf>
+<form>uvažovali</form>
+<tag lemma="uvažovat" src="auto" recommended="1">VpMP---XR-AAI--</tag>
 <comment>
-<LM type="Other">
-<text>2v1: uvažovali o</text>
+<LM type="New Form">
+<text>o</text>
 </LM>
 </comment>
 </m>

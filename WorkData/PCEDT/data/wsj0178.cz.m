@@ -1149,8 +1149,24 @@
 <AM lemma="R.-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: R .</text>
+<LM type="New Form">
+<text>R</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0178-001-p1s5W11-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0178-001-p1s5W11</LM>
+</w.rf>
+<form>R.</form>
+<tag>
+<AM lemma="R." src="auto">X@-------------</AM>
+<AM lemma="R.-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
 </LM>
 </comment>
 </m>

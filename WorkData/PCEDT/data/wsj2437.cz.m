@@ -98,8 +98,72 @@
 <AM lemma="S.A.uvedla-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>5v1: S . A . uvedla</text>
+<LM type="New Form">
+<text>S</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2437-001-p1s0W8-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2437-001-p1s0W8</LM>
+</w.rf>
+<form>S.A.uvedla</form>
+<tag>
+<AM lemma="S.A.uvedla" src="auto">X@-------------</AM>
+<AM lemma="S.A.uvedla-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2437-001-p1s0W8-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2437-001-p1s0W8</LM>
+</w.rf>
+<form>S.A.uvedla</form>
+<tag>
+<AM lemma="S.A.uvedla" src="auto">X@-------------</AM>
+<AM lemma="S.A.uvedla-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>A</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2437-001-p1s0W8-Ta-sw3">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2437-001-p1s0W8</LM>
+</w.rf>
+<form>S.A.uvedla</form>
+<tag>
+<AM lemma="S.A.uvedla" src="auto">X@-------------</AM>
+<AM lemma="S.A.uvedla-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2437-001-p1s0W8-Ta-sw4">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2437-001-p1s0W8</LM>
+</w.rf>
+<form>S.A.uvedla</form>
+<tag>
+<AM lemma="S.A.uvedla" src="auto">X@-------------</AM>
+<AM lemma="S.A.uvedla-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>uvedla</text>
 </LM>
 </comment>
 </m>
@@ -1455,22 +1519,6 @@
 <AM lemma="rok" src="auto">NNIS1-----A----</AM>
 <AM lemma="rok" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
-</m>
-<m id="m-wsj2437-001-p1s3W10-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj2437-001-p1s3W10</LM>
-</w.rf>
-<form>rok</form>
-<tag>
-<AM lemma="rok" src="auto">NNIS1-----A----</AM>
-<AM lemma="rok" src="auto" recommended="1">NNIS4-----A----</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
 </m>
 <m id="m-wsj2437-001-p1s3W11-Ta">
 <src.rf>tagger-a</src.rf>

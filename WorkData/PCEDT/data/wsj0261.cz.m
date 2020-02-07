@@ -1541,8 +1541,34 @@
 <form>5x8</form>
 <tag lemma="5x8" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>3v1: 5 x 8</text>
+<LM type="New Form">
+<text>5</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0261-001-p1s5W20-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0261-001-p1s5W20</LM>
+</w.rf>
+<form>5x8</form>
+<tag lemma="5x8" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>x</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0261-001-p1s5W20-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0261-001-p1s5W20</LM>
+</w.rf>
+<form>5x8</form>
+<tag lemma="5x8" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>8</text>
 </LM>
 </comment>
 </m>

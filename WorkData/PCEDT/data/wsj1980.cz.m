@@ -4301,8 +4301,24 @@
 <AM lemma="24měsíční" src="manual">AAFS4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 24 měsíční</text>
+<LM type="New Form">
+<text>24</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1980-001-p1s12W26-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1980-001-p1s12W26</LM>
+</w.rf>
+<form>24měsíční</form>
+<tag>
+<AM lemma="24měsíční" src="auto">X@-------------</AM>
+<AM lemma="24měsíční" src="manual">AAFS4----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>měsíční</text>
 </LM>
 </comment>
 </m>
@@ -5743,8 +5759,24 @@
 <AM lemma="400milionový_,s_^(^DD**400miliónový)" src="manual">AAIP4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 400 milionové</text>
+<LM type="New Form">
+<text>400</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1980-001-p1s15W24-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1980-001-p1s15W24</LM>
+</w.rf>
+<form>400milionové</form>
+<tag>
+<AM lemma="400milionové" src="auto">X@-------------</AM>
+<AM lemma="400milionový_,s_^(^DD**400miliónový)" src="manual">AAIP4----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>milionové</text>
 </LM>
 </comment>
 </m>

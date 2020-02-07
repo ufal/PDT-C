@@ -155,8 +155,40 @@
 <AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Weisfield ' s</text>
+<LM type="New Form">
+<text>Weisfield</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0505-001-p1s0W12-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0505-001-p1s0W12</LM>
+</w.rf>
+<form>Weisfield's</form>
+<tag>
+<AM lemma="Weisfield's" src="auto">X@-------------</AM>
+<AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0505-001-p1s0W12-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0505-001-p1s0W12</LM>
+</w.rf>
+<form>Weisfield's</form>
+<tag>
+<AM lemma="Weisfield's" src="auto">X@-------------</AM>
+<AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -368,8 +400,40 @@
 <AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Weisfield ' s</text>
+<LM type="New Form">
+<text>Weisfield</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0505-001-p1s1W4-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0505-001-p1s1W4</LM>
+</w.rf>
+<form>Weisfield's</form>
+<tag>
+<AM lemma="Weisfield's" src="auto">X@-------------</AM>
+<AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0505-001-p1s1W4-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0505-001-p1s1W4</LM>
+</w.rf>
+<form>Weisfield's</form>
+<tag>
+<AM lemma="Weisfield's" src="auto">X@-------------</AM>
+<AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -680,8 +744,40 @@
 <AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Weisfield ' s</text>
+<LM type="New Form">
+<text>Weisfield</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0505-001-p1s2W4-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0505-001-p1s2W4</LM>
+</w.rf>
+<form>Weisfield's</form>
+<tag>
+<AM lemma="Weisfield's" src="auto">X@-------------</AM>
+<AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0505-001-p1s2W4-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0505-001-p1s2W4</LM>
+</w.rf>
+<form>Weisfield's</form>
+<tag>
+<AM lemma="Weisfield's" src="auto">X@-------------</AM>
+<AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -829,8 +925,40 @@
 <AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Weisfield ' s</text>
+<LM type="New Form">
+<text>Weisfield</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0505-001-p1s2W16-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0505-001-p1s2W16</LM>
+</w.rf>
+<form>Weisfield's</form>
+<tag>
+<AM lemma="Weisfield's" src="auto">X@-------------</AM>
+<AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0505-001-p1s2W16-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0505-001-p1s2W16</LM>
+</w.rf>
+<form>Weisfield's</form>
+<tag>
+<AM lemma="Weisfield's" src="auto">X@-------------</AM>
+<AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>
@@ -1179,8 +1307,40 @@
 <AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Weisfield ' s</text>
+<LM type="New Form">
+<text>Weisfield</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0505-001-p1s5W2-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0505-001-p1s5W2</LM>
+</w.rf>
+<form>Weisfield's</form>
+<tag>
+<AM lemma="Weisfield's" src="auto">X@-------------</AM>
+<AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0505-001-p1s5W2-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0505-001-p1s5W2</LM>
+</w.rf>
+<form>Weisfield's</form>
+<tag>
+<AM lemma="Weisfield's" src="auto">X@-------------</AM>
+<AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>

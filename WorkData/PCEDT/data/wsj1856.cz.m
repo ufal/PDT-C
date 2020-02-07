@@ -21372,8 +21372,40 @@
 <AM lemma="Campbell´s-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Campbell ´ s</text>
+<LM type="New Form">
+<text>Campbell</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1856-001-p1s80W16-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1856-001-p1s80W16</LM>
+</w.rf>
+<form>Campbell´s</form>
+<tag>
+<AM lemma="Campbell´s" src="auto">X@-------------</AM>
+<AM lemma="Campbell´s-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>´</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1856-001-p1s80W16-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1856-001-p1s80W16</LM>
+</w.rf>
+<form>Campbell´s</form>
+<tag>
+<AM lemma="Campbell´s" src="auto">X@-------------</AM>
+<AM lemma="Campbell´s-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>

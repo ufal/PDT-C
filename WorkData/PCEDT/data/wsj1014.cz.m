@@ -2260,8 +2260,24 @@
 <AM lemma="12kusový" src="manual">AANS4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 12 kusové</text>
+<LM type="New Form">
+<text>12</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1014-001-p1s5W56-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1014-001-p1s5W56</LM>
+</w.rf>
+<form>12kusové</form>
+<tag>
+<AM lemma="12kusové" src="auto">X@-------------</AM>
+<AM lemma="12kusový" src="manual">AANS4----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>kusové</text>
 </LM>
 </comment>
 </m>

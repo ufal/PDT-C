@@ -2961,9 +2961,28 @@
 <AM lemma="srovnání_^(*3at)" src="auto">NNNS5-----A----</AM>
 <AM lemma="srovnání_^(*3at)" src="auto" recommended="1">NNNS6-----A----</AM>
 </tag>
+</m>
+<m id="m-wsj1439-001-p1s8W31-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1439-001-p1s8W31</LM>
+</w.rf>
+<form>srovnání</form>
+<tag>
+<AM lemma="srovnání_^(*3at)" src="auto">NNNP1-----A----</AM>
+<AM lemma="srovnání_^(*3at)" src="auto">NNNP2-----A----</AM>
+<AM lemma="srovnání_^(*3at)" src="auto">NNNP4-----A----</AM>
+<AM lemma="srovnání_^(*3at)" src="auto">NNNP5-----A----</AM>
+<AM lemma="srovnání_^(*3at)" src="auto">NNNS1-----A----</AM>
+<AM lemma="srovnání_^(*3at)" src="auto">NNNS2-----A----</AM>
+<AM lemma="srovnání_^(*3at)" src="auto">NNNS3-----A----</AM>
+<AM lemma="srovnání_^(*3at)" src="auto">NNNS4-----A----</AM>
+<AM lemma="srovnání_^(*3at)" src="auto">NNNS5-----A----</AM>
+<AM lemma="srovnání_^(*3at)" src="auto" recommended="1">NNNS6-----A----</AM>
+</tag>
 <comment>
-<LM type="Other">
-<text>2v1: srovnání s</text>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>

@@ -1987,23 +1987,6 @@
 <AM lemma="obrat-1_^(z_prodeje_zboží)" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>
-<m id="m-wsj0472-001-p1s5W2-Ta">
-<src.rf>tagger-a</src.rf>
-<w.rf>
-<LM>w#w-wsj0472-001-p1s5W2</LM>
-</w.rf>
-<form>se</form>
-<tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
-<AM lemma="s-1" src="auto">RV--2----------</AM>
-<AM lemma="s-1" src="auto">RV--7----------</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
-</m>
 <m id="m-wsj0472-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -11607,8 +11590,26 @@
 <AM lemma="2letý" src="auto" recommended="1">AANS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 2 letého</text>
+<LM type="New Form">
+<text>2</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0472-001-p1s37W10-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0472-001-p1s37W10</LM>
+</w.rf>
+<form>2letého</form>
+<tag>
+<AM lemma="2letý" src="auto">AAIS2----1A----</AM>
+<AM lemma="2letý" src="auto">AAMS2----1A----</AM>
+<AM lemma="2letý" src="auto">AAMS4----1A----</AM>
+<AM lemma="2letý" src="auto" recommended="1">AANS2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>letého</text>
 </LM>
 </comment>
 </m>

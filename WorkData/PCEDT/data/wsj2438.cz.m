@@ -61,8 +61,34 @@
 <form>Inc.počítá</form>
 <tag lemma="Inc.počítá" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>3v1: Inc . počítá</text>
+<LM type="New Form">
+<text>Inc</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2438-001-p1s0W5-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2438-001-p1s0W5</LM>
+</w.rf>
+<form>Inc.počítá</form>
+<tag lemma="Inc.počítá" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2438-001-p1s0W5-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2438-001-p1s0W5</LM>
+</w.rf>
+<form>Inc.počítá</form>
+<tag lemma="Inc.počítá" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>počítá</text>
 </LM>
 </comment>
 </m>
@@ -529,8 +555,34 @@
 <form>R.Simmons</form>
 <tag lemma="R.Simmons" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>3v1: R . Simmons</text>
+<LM type="New Form">
+<text>R</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2438-001-p1s0W42-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2438-001-p1s0W42</LM>
+</w.rf>
+<form>R.Simmons</form>
+<tag lemma="R.Simmons" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2438-001-p1s0W42-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2438-001-p1s0W42</LM>
+</w.rf>
+<form>R.Simmons</form>
+<tag lemma="R.Simmons" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Simmons</text>
 </LM>
 </comment>
 </m>
@@ -922,8 +974,21 @@
 <form>62centů</form>
 <tag lemma="62centů" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: 62 centů</text>
+<LM type="New Form">
+<text>62</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2438-001-p1s1W23-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2438-001-p1s1W23</LM>
+</w.rf>
+<form>62centů</form>
+<tag lemma="62centů" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>centů</text>
 </LM>
 </comment>
 </m>
@@ -3547,8 +3612,21 @@
 <form>247.3mil</form>
 <tag lemma="247.3mil" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: 247.3 mil</text>
+<LM type="New Form">
+<text>247.3</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2438-001-p1s7W27-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2438-001-p1s7W27</LM>
+</w.rf>
+<form>247.3mil</form>
+<tag lemma="247.3mil" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>mil</text>
 </LM>
 </comment>
 </m>
@@ -3638,8 +3716,34 @@
 <form>30.září</form>
 <tag lemma="30.září" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>3v1: 30 . září</text>
+<LM type="New Form">
+<text>30</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2438-001-p1s8W6-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2438-001-p1s8W6</LM>
+</w.rf>
+<form>30.září</form>
+<tag lemma="30.září" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2438-001-p1s8W6-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2438-001-p1s8W6</LM>
+</w.rf>
+<form>30.září</form>
+<tag lemma="30.září" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>září</text>
 </LM>
 </comment>
 </m>
@@ -5773,8 +5877,34 @@
 <form>W.Singera</form>
 <tag lemma="W.Singera" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>3v1: W . Singera</text>
+<LM type="New Form">
+<text>W</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2438-001-p1s14W4-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2438-001-p1s14W4</LM>
+</w.rf>
+<form>W.Singera</form>
+<tag lemma="W.Singera" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2438-001-p1s14W4-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2438-001-p1s14W4</LM>
+</w.rf>
+<form>W.Singera</form>
+<tag lemma="W.Singera" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Singera</text>
 </LM>
 </comment>
 </m>

@@ -1782,8 +1782,24 @@
 <AM lemma="600milionový_,s_^(^DD**600miliónový)" src="manual">AAFS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 600 milionové</text>
+<LM type="New Form">
+<text>600</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2224-001-p1s6W14-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2224-001-p1s6W14</LM>
+</w.rf>
+<form>600milionové</form>
+<tag>
+<AM lemma="600milionové" src="auto">X@-------------</AM>
+<AM lemma="600milionový_,s_^(^DD**600miliónový)" src="manual">AAFS2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>milionové</text>
 </LM>
 </comment>
 </m>

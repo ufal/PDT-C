@@ -4527,8 +4527,24 @@
 <AM lemma="21měsíční" src="manual">AAFS4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 21 měsíční</text>
+<LM type="New Form">
+<text>21</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1004-001-p1s12W18-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1004-001-p1s12W18</LM>
+</w.rf>
+<form>21měsíční</form>
+<tag>
+<AM lemma="21měsíční" src="auto">X@-------------</AM>
+<AM lemma="21měsíční" src="manual">AAFS4----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>měsíční</text>
 </LM>
 </comment>
 </m>
@@ -7146,8 +7162,24 @@
 <AM lemma="250krát`250" src="manual">Cv-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 250 krát</text>
+<LM type="New Form">
+<text>250</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1004-001-p1s21W29-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1004-001-p1s21W29</LM>
+</w.rf>
+<form>250krát</form>
+<tag>
+<AM lemma="250krát" src="auto">X@-------------</AM>
+<AM lemma="250krát`250" src="manual">Cv-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>krát</text>
 </LM>
 </comment>
 </m>

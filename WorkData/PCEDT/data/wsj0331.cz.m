@@ -1555,8 +1555,40 @@
 <AM lemma="Zell's-77" src="manual">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>3v1: Zell ' s</text>
+<LM type="New Form">
+<text>Zell</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0331-001-p1s6W14-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0331-001-p1s6W14</LM>
+</w.rf>
+<form>Zell's</form>
+<tag>
+<AM lemma="Zell's" src="auto">X@-------------</AM>
+<AM lemma="Zell's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0331-001-p1s6W14-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0331-001-p1s6W14</LM>
+</w.rf>
+<form>Zell's</form>
+<tag>
+<AM lemma="Zell's" src="auto">X@-------------</AM>
+<AM lemma="Zell's-77" src="manual">F%-------------</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>s</text>
 </LM>
 </comment>
 </m>

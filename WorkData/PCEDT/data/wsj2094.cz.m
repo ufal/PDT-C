@@ -593,8 +593,34 @@
 <form>O'Rourke</form>
 <tag lemma="O'Rourke" src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>3v1: O ' Rourke</text>
+<LM type="New Form">
+<text>O</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2094-001-p1s2W3-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2094-001-p1s2W3</LM>
+</w.rf>
+<form>O'Rourke</form>
+<tag lemma="O'Rourke" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>'</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2094-001-p1s2W3-Ta-sw2">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2094-001-p1s2W3</LM>
+</w.rf>
+<form>O'Rourke</form>
+<tag lemma="O'Rourke" src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>Rourke</text>
 </LM>
 </comment>
 </m>

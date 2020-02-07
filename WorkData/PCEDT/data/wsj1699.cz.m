@@ -1245,8 +1245,27 @@
 <AM lemma="45členný" src="auto">AANP5----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 45 členná</text>
+<LM type="New Form">
+<text>45</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1699-001-p1s4W6-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1699-001-p1s4W6</LM>
+</w.rf>
+<form>45členná</form>
+<tag>
+<AM lemma="45členný" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="45členný" src="auto">AAFS5----1A----</AM>
+<AM lemma="45členný" src="auto">AANP1----1A----</AM>
+<AM lemma="45členný" src="auto">AANP4----1A----</AM>
+<AM lemma="45členný" src="auto">AANP5----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>členná</text>
 </LM>
 </comment>
 </m>
@@ -14083,8 +14102,25 @@
 <AM lemma="38milionový_,s_^(^DD**38miliónový)" src="manual">AAIS2----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 38 milionového</text>
+<LM type="New Form">
+<text>38</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj1699-001-p1s48W7-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj1699-001-p1s48W7</LM>
+</w.rf>
+<form>38milionového</form>
+<tag>
+<AM lemma="38milionového" src="auto">X@-------------</AM>
+<AM lemma="38milionový_,s_^(^DD**38miliónvý)" src="manual">AAIS2----1A----</AM>
+<AM lemma="38milionový_,s_^(^DD**38miliónový)" src="manual">AAIS2----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>milionového</text>
 </LM>
 </comment>
 </m>

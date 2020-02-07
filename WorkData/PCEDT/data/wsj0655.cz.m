@@ -919,8 +919,24 @@
 <AM lemma="19měsíční" src="manual" selected="1">AANS4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 19 měsíční</text>
+<LM type="New Form">
+<text>19</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0655-001-p1s2W8-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0655-001-p1s2W8</LM>
+</w.rf>
+<form>19měsíční</form>
+<tag>
+<AM lemma="19měsíční" src="auto">X@-------------</AM>
+<AM lemma="19měsíční" src="manual" selected="1">AANS4----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>měsíční</text>
 </LM>
 </comment>
 </m>

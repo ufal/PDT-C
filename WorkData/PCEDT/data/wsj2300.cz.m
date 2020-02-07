@@ -4866,8 +4866,24 @@
 <AM lemma="508bodový" src="manual">AAIS3----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 508 bodovému</text>
+<LM type="New Form">
+<text>508</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2300-001-p1s18W14-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2300-001-p1s18W14</LM>
+</w.rf>
+<form>508bodovému</form>
+<tag>
+<AM lemma="508bodovému" src="auto">X@-------------</AM>
+<AM lemma="508bodový" src="manual">AAIS3----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>bodovému</text>
 </LM>
 </comment>
 </m>
@@ -10151,8 +10167,24 @@
 <AM lemma="100bodový" src="manual">AAIS3----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 100 bodovému</text>
+<LM type="New Form">
+<text>100</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2300-001-p1s38W22-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2300-001-p1s38W22</LM>
+</w.rf>
+<form>100bodovému</form>
+<tag>
+<AM lemma="100bodovému" src="auto">X@-------------</AM>
+<AM lemma="100bodový" src="manual">AAIS3----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>bodovému</text>
 </LM>
 </comment>
 </m>
@@ -19253,8 +19285,21 @@
 <form>tzv.</form>
 <tag lemma="tzv." src="auto">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: tzv .</text>
+<LM type="New Form">
+<text>tzv</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2300-001-p1s70W13-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2300-001-p1s70W13</LM>
+</w.rf>
+<form>tzv.</form>
+<tag lemma="tzv." src="auto">X@-------------</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
 </LM>
 </comment>
 </m>
@@ -19675,8 +19720,24 @@
 <AM lemma="30bodový" src="manual">AAIS3----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 30 bodovému</text>
+<LM type="New Form">
+<text>30</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj2300-001-p1s72W23-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj2300-001-p1s72W23</LM>
+</w.rf>
+<form>30bodovému</form>
+<tag>
+<AM lemma="30bodovému" src="auto">X@-------------</AM>
+<AM lemma="30bodový" src="manual">AAIS3----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>bodovému</text>
 </LM>
 </comment>
 </m>

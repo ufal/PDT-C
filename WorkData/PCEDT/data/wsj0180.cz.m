@@ -747,8 +747,24 @@
 <AM lemma="ručení" src="manual">NNNS7-----A---8</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: r .</text>
+<LM type="New Form">
+<text>r</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0180-001-p1s2W4-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0180-001-p1s2W4</LM>
+</w.rf>
+<form>r.</form>
+<tag>
+<AM lemma="r." src="auto">X@-------------</AM>
+<AM lemma="ručení" src="manual">NNNS7-----A---8</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>.</text>
 </LM>
 </comment>
 </m>

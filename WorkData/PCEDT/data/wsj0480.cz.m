@@ -195,8 +195,24 @@
 <AM lemma="80megabytový" src="manual">AAFS4----1A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: 80 megabytovou</text>
+<LM type="New Form">
+<text>80</text>
+</LM>
+</comment>
+</m>
+<m id="m-wsj0480-001-p1s0W17-Ta-sw1">
+<src.rf>tagger-a</src.rf>
+<w.rf>
+<LM>w#w-wsj0480-001-p1s0W17</LM>
+</w.rf>
+<form>80megabytovou</form>
+<tag>
+<AM lemma="80megabytovou" src="auto">X@-------------</AM>
+<AM lemma="80megabytový" src="manual">AAFS4----1A----</AM>
+</tag>
+<comment>
+<LM type="New Form">
+<text>megabytovou</text>
 </LM>
 </comment>
 </m>
