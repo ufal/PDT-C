@@ -7388,20 +7388,27 @@
 <w.rf>
 <LM>w#w-wsj1058-001-p1s26W9</LM>
 </w.rf>
-<form>přípustná</form>
+<form>přípustné</form>
 <tag>
-<AM lemma="přípustný" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="přípustný" src="auto">AAFS5----1A----</AM>
-<AM lemma="přípustný" src="auto">AANP1----1A----</AM>
-<AM lemma="přípustný" src="auto">AANP4----1A----</AM>
-<AM lemma="přípustný" src="auto">AANP5----1A----</AM>
-</tag>
+<AM lemma="přípustný" src="auto">AAFP1----1A----</AM>
+<AM lemma="přípustný" src="auto">AAFP4----1A----</AM>
+<AM lemma="přípustný" src="auto">AAFP5----1A----</AM>
+<AM lemma="přípustný" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="přípustný" src="auto">AAFS3----1A----</AM>
+<AM lemma="přípustný" src="auto">AAFS6----1A----</AM>
+<AM lemma="přípustný" src="auto">AAIP1----1A----</AM>
+<AM lemma="přípustný" src="auto">AAIP4----1A----</AM>
+<AM lemma="přípustný" src="auto">AAIP5----1A----</AM>
+<AM lemma="přípustný" src="auto">AAMP4----1A----</AM>
+<AM lemma="přípustný" src="auto">AANP1----1A---6</AM>
+<AM lemma="přípustný" src="auto">AANP4----1A---6</AM>
+<AM lemma="přípustný" src="auto">AANP5----1A---6</AM>
+<AM lemma="přípustný" src="auto">AANS1----1A----</AM>
+<AM lemma="přípustný" src="auto">AANS4----1A----</AM>
+<AM lemma="přípustný" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>přípustné</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1058-001-p1s26W10-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

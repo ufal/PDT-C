@@ -1116,18 +1116,12 @@
 <w.rf>
 <LM>w#w-wsj0135-001-p1s3W14</LM>
 </w.rf>
-<form>li</form>
+<form>neboli</form>
 <tag>
-<AM lemma="li-1" src="auto">TT-------------</AM>
-<AM lemma="li-2" src="auto" recommended="1">J,-------------</AM>
-<AM lemma="li-99_:B_;S" src="auto">NNXXX-----A----</AM>
-</tag>
+<AM lemma="neboli" src="auto" recommended="1">J^-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>neboli</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0135-001-p1s3W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

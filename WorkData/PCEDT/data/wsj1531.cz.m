@@ -2537,14 +2537,12 @@
 <w.rf>
 <LM>w#w-wsj1531-001-p1s6W24</LM>
 </w.rf>
-<form>nabídko</form>
-<tag lemma="nabídka" src="auto" recommended="1">NNFS5-----A----</tag>
+<form>nabídkou</form>
+<tag>
+<AM lemma="nabídka" src="auto" recommended="1">NNFS7-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>nabídkou</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1531-001-p1s6W25-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

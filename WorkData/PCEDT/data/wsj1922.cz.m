@@ -715,15 +715,10 @@
 <w.rf>
 <LM>w#w-wsj1922-001-p1s1W28</LM>
 </w.rf>
-<form>10krát</form>
+<form>desetkrát</form>
 <tag>
-<AM lemma="10krát" src="auto">X@-------------</AM>
-<AM lemma="10krát" src="manual">Db-------------</AM>
-</tag>
+<AM lemma="desetkrát`10" src="auto" recommended="1">Cv-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>desetkrát</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1922-001-p1s1W29-Ta">
@@ -743,17 +738,12 @@
 <w.rf>
 <LM>w#w-wsj1922-001-p1s1W30</LM>
 </w.rf>
-<form>20krát</form>
+<form>dvacetkrát</form>
 <tag>
-<AM lemma="20krát" src="auto">X@-------------</AM>
-<AM lemma="20krát" src="manual">Db-------------</AM>
-</tag>
+<AM lemma="dvacetkrát`20" src="auto" recommended="1">Cv-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>dvacetkrát</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1922-001-p1s1W31-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

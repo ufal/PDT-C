@@ -285,19 +285,13 @@
 <w.rf>
 <LM>w#w-wsj0293-001-p1s1W8</LM>
 </w.rf>
-<form>úřadu</form>
+<form>úřad</form>
 <tag>
-<AM lemma="úřad" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="úřad" src="auto">NNIS3-----A----</AM>
-<AM lemma="úřad" src="auto">NNIS6-----A---1</AM>
-<AM lemma="úřada_,h" src="auto">NNMS4-----A----</AM>
-</tag>
+<AM lemma="úřad" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="úřad" src="auto">NNIS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>úřad</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0293-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

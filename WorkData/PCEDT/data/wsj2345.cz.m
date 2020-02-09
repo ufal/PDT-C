@@ -5100,14 +5100,12 @@
 <w.rf>
 <LM>w#w-wsj2345-001-p1s15W17</LM>
 </w.rf>
-<form>magnatém</form>
-<tag lemma="magnatém" src="auto">X@-------------</tag>
+<form>magnátem</form>
+<tag>
+<AM lemma="magnát" src="auto" recommended="1">NNMS7-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>magnátem</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2345-001-p1s15W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -2488,18 +2488,12 @@
 <w.rf>
 <LM>w#w-wsj2151-001-p1s11W7</LM>
 </w.rf>
-<form>za</form>
+<form>ze</form>
 <tag>
-<AM lemma="za" src="auto" recommended="1">RR--2----------</AM>
-<AM lemma="za" src="auto">RR--4----------</AM>
-<AM lemma="za" src="auto">RR--7----------</AM>
-</tag>
+<AM lemma="z-1" src="auto" recommended="1">RV--2----------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>ze</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2151-001-p1s11W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7101,14 +7095,12 @@
 <w.rf>
 <LM>w#w-wsj2151-001-p1s32W4</LM>
 </w.rf>
-<form>Pulkova</form>
-<tag lemma="Pulkov_;G" src="auto" recommended="1">NNIS2-----A----</tag>
+<form>Pulkovo</form>
+<tag>
+<AM lemma="Pulkovo" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Pulkovo</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2151-001-p1s32W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -1284,14 +1284,12 @@
 <w.rf>
 <LM>w#w-wsj0024-001-p1s5W6</LM>
 </w.rf>
-<form>polí</form>
-<tag lemma="pole" src="auto" recommended="1">NNNP2-----A----</tag>
+<form>polích</form>
+<tag>
+<AM lemma="pole" src="auto" recommended="1">NNNP6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>polích</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0024-001-p1s5W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

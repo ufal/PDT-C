@@ -1530,14 +1530,12 @@
 <w.rf>
 <LM>w#w-wsj2317-001-p1s4W14</LM>
 </w.rf>
-<form>soukromně</form>
-<tag lemma="soukromně" src="auto">X@-------------</tag>
+<form>soukromě</form>
+<tag>
+<AM lemma="soukromě_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>soukromě</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2317-001-p1s4W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

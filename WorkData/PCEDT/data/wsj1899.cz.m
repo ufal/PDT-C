@@ -2625,25 +2625,12 @@
 <w.rf>
 <LM>w#w-wsj1899-001-p1s7W15</LM>
 </w.rf>
-<form>O</form>
+<form>0</form>
 <tag>
-<AM lemma="O-2_:B_^(kyslík)" src="auto">NNIXX-----A----</AM>
-<AM lemma="O-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="O-77" src="auto">F%-------------</AM>
-<AM lemma="O-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="o-1" src="auto">RR--4----------</AM>
-<AM lemma="o-1" src="auto">RR--6----------</AM>
-<AM lemma="o-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="o-77_,t" src="auto">F%-------------</AM>
-<AM lemma="o-88_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="obchodní_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM>
-</tag>
+<AM lemma="0" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>0</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1899-001-p1s7W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

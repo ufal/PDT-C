@@ -8474,17 +8474,12 @@
 <w.rf>
 <LM>w#w-wsj0819-001-p1s23W22</LM>
 </w.rf>
-<form>Gabora</form>
+<form>Gabor</form>
 <tag>
-<AM lemma="Gabor_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Gabor_;S" src="auto">NNMS4-----A----</AM>
-</tag>
+<AM lemma="Gabor_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Gabor</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0819-001-p1s23W23-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9433,14 +9428,12 @@
 <w.rf>
 <LM>w#w-wsj0819-001-p1s28W11</LM>
 </w.rf>
-<form>vedla</form>
-<tag lemma="vést" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<form>vedlo</form>
+<tag>
+<AM lemma="vést" src="auto" recommended="1">VpNS---XR-AAI--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>vedlo</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0819-001-p1s28W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

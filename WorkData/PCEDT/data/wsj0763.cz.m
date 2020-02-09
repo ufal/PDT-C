@@ -3040,27 +3040,13 @@
 <w.rf>
 <LM>w#w-wsj0763-001-p1s8W16</LM>
 </w.rf>
-<form>začlenění</form>
+<form>začlení</form>
 <tag>
-<AM lemma="začleněný_^(*3it)" src="auto">AAMP1----1A----</AM>
-<AM lemma="začleněný_^(*3it)" src="auto">AAMP5----1A----</AM>
-<AM lemma="začlenění_^(*3it)" src="auto">NNNP1-----A----</AM>
-<AM lemma="začlenění_^(*3it)" src="auto">NNNP2-----A----</AM>
-<AM lemma="začlenění_^(*3it)" src="auto">NNNP4-----A----</AM>
-<AM lemma="začlenění_^(*3it)" src="auto">NNNP5-----A----</AM>
-<AM lemma="začlenění_^(*3it)" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="začlenění_^(*3it)" src="auto">NNNS2-----A----</AM>
-<AM lemma="začlenění_^(*3it)" src="auto">NNNS3-----A----</AM>
-<AM lemma="začlenění_^(*3it)" src="auto">NNNS4-----A----</AM>
-<AM lemma="začlenění_^(*3it)" src="auto">NNNS5-----A----</AM>
-<AM lemma="začlenění_^(*3it)" src="auto">NNNS6-----A----</AM>
-</tag>
+<AM lemma="začlenit" src="auto">VB-P---3P-AAP--</AM>
+<AM lemma="začlenit" src="auto" recommended="1">VB-S---3P-AAP--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>začlení</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0763-001-p1s8W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

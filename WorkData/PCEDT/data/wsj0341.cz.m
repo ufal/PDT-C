@@ -1752,14 +1752,17 @@
 <w.rf>
 <LM>w#w-wsj0341-001-p1s4W11</LM>
 </w.rf>
-<form>Illionis</form>
-<tag lemma="Illionis" src="auto">X@-------------</tag>
+<form>Illinois</form>
+<tag>
+<AM lemma="Illinois" src="auto">NNIS2-----A---1</AM>
+<AM lemma="Illinois" src="auto">NNIS3-----A---1</AM>
+<AM lemma="Illinois" src="auto" recommended="1">NNIS6-----A---1</AM>
+<AM lemma="Illinois" src="auto">NNIS7-----A---1</AM>
+<AM lemma="Illinois_;G" src="auto">NNIS1-----A----</AM>
+<AM lemma="Illinois_;G" src="auto">NNIS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Illinois</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0341-001-p1s4W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

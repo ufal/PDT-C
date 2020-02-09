@@ -1056,15 +1056,10 @@
 <w.rf>
 <LM>w#w-wsj0998-001-p1s4W2</LM>
 </w.rf>
-<form>32akrového</form>
+<form>32</form>
 <tag>
-<AM lemma="32akrového" src="auto">X@-------------</AM>
-<AM lemma="32akrový" src="manual">AAIS2----1A----</AM>
-</tag>
+<AM lemma="32" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>32</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0998-001-p1s4W2-Ta-sw1">
@@ -1072,17 +1067,15 @@
 <w.rf>
 <LM>w#w-wsj0998-001-p1s4W2</LM>
 </w.rf>
-<form>32akrového</form>
+<form>akrového</form>
 <tag>
-<AM lemma="32akrového" src="auto">X@-------------</AM>
-<AM lemma="32akrový" src="manual">AAIS2----1A----</AM>
-</tag>
+<AM lemma="akrový" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="akrový" src="auto">AAMS2----1A----</AM>
+<AM lemma="akrový" src="auto">AAMS4----1A----</AM>
+<AM lemma="akrový" src="auto">AANS2----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>akrového</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0998-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1435,14 +1428,14 @@
 <w.rf>
 <LM>w#w-wsj0998-001-p1s5W11</LM>
 </w.rf>
-<form>Connecticuttu</form>
-<tag lemma="Connecticuttu" src="auto">X@-------------</tag>
+<form>Connecticutu</form>
+<tag>
+<AM lemma="Connecticut_;G" src="auto">NNIS2-----A----</AM>
+<AM lemma="Connecticut_;G" src="auto">NNIS3-----A----</AM>
+<AM lemma="Connecticut_;G" src="auto" recommended="1">NNIS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Connecticutu</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0998-001-p1s5W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

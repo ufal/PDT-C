@@ -48,15 +48,16 @@
 <w.rf>
 <LM>w#w-wsj2271-001-p1s1W4</LM>
 </w.rf>
-<form>Co.uvedla</form>
+<form>Co</form>
 <tag>
-<AM lemma="Co.uvedla" src="auto">X@-------------</AM>
-<AM lemma="Co.uvedla-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="co-1" src="auto">PQ--1----------</AM>
+<AM lemma="co-1" src="auto" recommended="1">PQ--4----------</AM>
+<AM lemma="co-2_^(cože;_ale_co)" src="auto">TT-------------</AM>
+<AM lemma="co-3_^(když:_poté/od_té_doby,_co)" src="auto">J,-------------</AM>
+<AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
+<AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
+<AM lemma="co-77_:B" src="auto">F%-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Co</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2271-001-p1s1W4-Ta-sw1">
@@ -64,15 +65,10 @@
 <w.rf>
 <LM>w#w-wsj2271-001-p1s1W4</LM>
 </w.rf>
-<form>Co.uvedla</form>
+<form>.</form>
 <tag>
-<AM lemma="Co.uvedla" src="auto">X@-------------</AM>
-<AM lemma="Co.uvedla-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>.</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2271-001-p1s1W4-Ta-sw2">
@@ -80,15 +76,10 @@
 <w.rf>
 <LM>w#w-wsj2271-001-p1s1W4</LM>
 </w.rf>
-<form>Co.uvedla</form>
+<form>uvedla</form>
 <tag>
-<AM lemma="Co.uvedla" src="auto">X@-------------</AM>
-<AM lemma="Co.uvedla-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>uvedla</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2271-001-p1s1W5-Ta">
@@ -405,17 +396,27 @@
 <w.rf>
 <LM>w#w-wsj2271-001-p1s1W29</LM>
 </w.rf>
-<form>danové</form>
+<form>daňové</form>
 <tag>
-<AM lemma="dan-1_^(mistr_a_učitel_japon._sportů)" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="dan-1_^(mistr_a_učitel_japon._sportů)" src="auto">NNMP5-----A----</AM>
-</tag>
+<AM lemma="daňový" src="auto">AAFP1----1A----</AM>
+<AM lemma="daňový" src="auto" recommended="1">AAFP4----1A----</AM>
+<AM lemma="daňový" src="auto">AAFP5----1A----</AM>
+<AM lemma="daňový" src="auto">AAFS2----1A----</AM>
+<AM lemma="daňový" src="auto">AAFS3----1A----</AM>
+<AM lemma="daňový" src="auto">AAFS6----1A----</AM>
+<AM lemma="daňový" src="auto">AAIP1----1A----</AM>
+<AM lemma="daňový" src="auto">AAIP4----1A----</AM>
+<AM lemma="daňový" src="auto">AAIP5----1A----</AM>
+<AM lemma="daňový" src="auto">AAMP4----1A----</AM>
+<AM lemma="daňový" src="auto">AANP1----1A---6</AM>
+<AM lemma="daňový" src="auto">AANP4----1A---6</AM>
+<AM lemma="daňový" src="auto">AANP5----1A---6</AM>
+<AM lemma="daňový" src="auto">AANS1----1A----</AM>
+<AM lemma="daňový" src="auto">AANS4----1A----</AM>
+<AM lemma="daňový" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>daňové</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2271-001-p1s1W30-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1797,17 +1798,27 @@
 <w.rf>
 <LM>w#w-wsj2271-001-p1s5W15</LM>
 </w.rf>
-<form>danové</form>
+<form>daňové</form>
 <tag>
-<AM lemma="dan-1_^(mistr_a_učitel_japon._sportů)" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="dan-1_^(mistr_a_učitel_japon._sportů)" src="auto">NNMP5-----A----</AM>
-</tag>
+<AM lemma="daňový" src="auto">AAFP1----1A----</AM>
+<AM lemma="daňový" src="auto">AAFP4----1A----</AM>
+<AM lemma="daňový" src="auto">AAFP5----1A----</AM>
+<AM lemma="daňový" src="auto">AAFS2----1A----</AM>
+<AM lemma="daňový" src="auto">AAFS3----1A----</AM>
+<AM lemma="daňový" src="auto">AAFS6----1A----</AM>
+<AM lemma="daňový" src="auto">AAIP1----1A----</AM>
+<AM lemma="daňový" src="auto" recommended="1">AAIP4----1A----</AM>
+<AM lemma="daňový" src="auto">AAIP5----1A----</AM>
+<AM lemma="daňový" src="auto">AAMP4----1A----</AM>
+<AM lemma="daňový" src="auto">AANP1----1A---6</AM>
+<AM lemma="daňový" src="auto">AANP4----1A---6</AM>
+<AM lemma="daňový" src="auto">AANP5----1A---6</AM>
+<AM lemma="daňový" src="auto">AANS1----1A----</AM>
+<AM lemma="daňový" src="auto">AANS4----1A----</AM>
+<AM lemma="daňový" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>daňové</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2271-001-p1s5W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

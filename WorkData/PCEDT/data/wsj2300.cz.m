@@ -1702,19 +1702,19 @@
 <w.rf>
 <LM>w#w-wsj2300-001-p1s5W3</LM>
 </w.rf>
-<form>termínovými</form>
+<form>termínových</form>
 <tag>
-<AM lemma="termínový" src="auto">AAFP7----1A----</AM>
-<AM lemma="termínový" src="auto" recommended="1">AAIP7----1A----</AM>
-<AM lemma="termínový" src="auto">AAMP7----1A----</AM>
-<AM lemma="termínový" src="auto">AANP7----1A----</AM>
-</tag>
+<AM lemma="termínový" src="auto">AAFP2----1A----</AM>
+<AM lemma="termínový" src="auto">AAFP6----1A----</AM>
+<AM lemma="termínový" src="auto" recommended="1">AAIP2----1A----</AM>
+<AM lemma="termínový" src="auto">AAIP6----1A----</AM>
+<AM lemma="termínový" src="auto">AAMP2----1A----</AM>
+<AM lemma="termínový" src="auto">AAMP6----1A----</AM>
+<AM lemma="termínový" src="auto">AANP2----1A----</AM>
+<AM lemma="termínový" src="auto">AANP6----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>termínových</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2300-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4860,15 +4860,10 @@
 <w.rf>
 <LM>w#w-wsj2300-001-p1s18W14</LM>
 </w.rf>
-<form>508bodovému</form>
+<form>508</form>
 <tag>
-<AM lemma="508bodovému" src="auto">X@-------------</AM>
-<AM lemma="508bodový" src="manual">AAIS3----1A----</AM>
-</tag>
+<AM lemma="508" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>508</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2300-001-p1s18W14-Ta-sw1">
@@ -4876,17 +4871,14 @@
 <w.rf>
 <LM>w#w-wsj2300-001-p1s18W14</LM>
 </w.rf>
-<form>508bodovému</form>
+<form>bodovému</form>
 <tag>
-<AM lemma="508bodovému" src="auto">X@-------------</AM>
-<AM lemma="508bodový" src="manual">AAIS3----1A----</AM>
-</tag>
+<AM lemma="bodový" src="auto" recommended="1">AAIS3----1A----</AM>
+<AM lemma="bodový" src="auto">AAMS3----1A----</AM>
+<AM lemma="bodový" src="auto">AANS3----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>bodovému</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2300-001-p1s18W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5653,21 +5645,12 @@
 <w.rf>
 <LM>w#w-wsj2300-001-p1s21W2</LM>
 </w.rf>
-<form>akcie</form>
+<form>akciemi</form>
 <tag>
-<AM lemma="akcie" src="auto">NNFP1-----A----</AM>
-<AM lemma="akcie" src="auto" recommended="1">NNFP4-----A----</AM>
-<AM lemma="akcie" src="auto">NNFP5-----A----</AM>
-<AM lemma="akcie" src="auto">NNFS1-----A----</AM>
-<AM lemma="akcie" src="auto">NNFS2-----A----</AM>
-<AM lemma="akcie" src="auto">NNFS5-----A----</AM>
-</tag>
+<AM lemma="akcie" src="auto" recommended="1">NNFP7-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>akciemi</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2300-001-p1s21W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6653,14 +6636,16 @@
 <w.rf>
 <LM>w#w-wsj2300-001-p1s23W9</LM>
 </w.rf>
-<form>nepříjmená</form>
-<tag lemma="nepříjmená" src="auto">X@-------------</tag>
+<form>nepříjemná</form>
+<tag>
+<AM lemma="příjemný-1_^(všeob.,_poz._emoce)" src="auto" recommended="1">AAFS1----1N----</AM>
+<AM lemma="příjemný-1_^(všeob.,_poz._emoce)" src="auto">AAFS5----1N----</AM>
+<AM lemma="příjemný-1_^(všeob.,_poz._emoce)" src="auto">AANP1----1N----</AM>
+<AM lemma="příjemný-1_^(všeob.,_poz._emoce)" src="auto">AANP4----1N----</AM>
+<AM lemma="příjemný-1_^(všeob.,_poz._emoce)" src="auto">AANP5----1N----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>nepříjemná</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2300-001-p1s23W10-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7427,14 +7412,12 @@
 <w.rf>
 <LM>w#w-wsj2300-001-p1s26W23</LM>
 </w.rf>
-<form>ohrožován</form>
-<tag lemma="ohrožovat" src="auto" recommended="1">VsYS---XX-API--</tag>
+<form>ohrožována</form>
+<tag>
+<AM lemma="ohrožovat" src="auto" recommended="1">VsQW---XX-API--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>ohrožována</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2300-001-p1s26W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9672,14 +9655,24 @@
 <w.rf>
 <LM>w#w-wsj2300-001-p1s36W10</LM>
 </w.rf>
-<form>Newyorké</form>
-<tag lemma="Newyorké" src="auto">X@-------------</tag>
+<form>Newyorské</form>
+<tag>
+<AM lemma="newyorský" src="auto">AAFP1----1A----</AM>
+<AM lemma="newyorský" src="auto">AAFP4----1A----</AM>
+<AM lemma="newyorský" src="auto">AAFP5----1A----</AM>
+<AM lemma="newyorský" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="newyorský" src="auto">AAFS3----1A----</AM>
+<AM lemma="newyorský" src="auto">AAFS6----1A----</AM>
+<AM lemma="newyorský" src="auto">AAIP1----1A----</AM>
+<AM lemma="newyorský" src="auto">AAIP4----1A----</AM>
+<AM lemma="newyorský" src="auto">AAIP5----1A----</AM>
+<AM lemma="newyorský" src="auto">AAMP4----1A----</AM>
+<AM lemma="newyorský" src="auto">AANS1----1A----</AM>
+<AM lemma="newyorský" src="auto">AANS4----1A----</AM>
+<AM lemma="newyorský" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Newyorské</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2300-001-p1s36W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10161,15 +10154,10 @@
 <w.rf>
 <LM>w#w-wsj2300-001-p1s38W22</LM>
 </w.rf>
-<form>100bodovému</form>
+<form>100</form>
 <tag>
-<AM lemma="100bodovému" src="auto">X@-------------</AM>
-<AM lemma="100bodový" src="manual">AAIS3----1A----</AM>
-</tag>
+<AM lemma="100" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>100</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2300-001-p1s38W22-Ta-sw1">
@@ -10177,17 +10165,14 @@
 <w.rf>
 <LM>w#w-wsj2300-001-p1s38W22</LM>
 </w.rf>
-<form>100bodovému</form>
+<form>bodovému</form>
 <tag>
-<AM lemma="100bodovému" src="auto">X@-------------</AM>
-<AM lemma="100bodový" src="manual">AAIS3----1A----</AM>
-</tag>
+<AM lemma="bodový" src="auto" recommended="1">AAIS3----1A----</AM>
+<AM lemma="bodový" src="auto">AAMS3----1A----</AM>
+<AM lemma="bodový" src="auto">AANS3----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>bodovému</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2300-001-p1s38W23-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -19282,12 +19267,11 @@
 <w.rf>
 <LM>w#w-wsj2300-001-p1s70W13</LM>
 </w.rf>
-<form>tzv.</form>
-<tag lemma="tzv." src="auto">X@-------------</tag>
+<form>tzv</form>
+<tag>
+<AM lemma="takzvaný_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaně_:B" src="auto">Dg-------1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>tzv</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2300-001-p1s70W13-Ta-sw1">
@@ -19295,14 +19279,12 @@
 <w.rf>
 <LM>w#w-wsj2300-001-p1s70W13</LM>
 </w.rf>
-<form>tzv.</form>
-<tag lemma="tzv." src="auto">X@-------------</tag>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>.</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2300-001-p1s70W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -19714,15 +19696,10 @@
 <w.rf>
 <LM>w#w-wsj2300-001-p1s72W23</LM>
 </w.rf>
-<form>30bodovému</form>
+<form>30</form>
 <tag>
-<AM lemma="30bodovému" src="auto">X@-------------</AM>
-<AM lemma="30bodový" src="manual">AAIS3----1A----</AM>
-</tag>
+<AM lemma="30" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>30</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2300-001-p1s72W23-Ta-sw1">
@@ -19730,17 +19707,14 @@
 <w.rf>
 <LM>w#w-wsj2300-001-p1s72W23</LM>
 </w.rf>
-<form>30bodovému</form>
+<form>bodovému</form>
 <tag>
-<AM lemma="30bodovému" src="auto">X@-------------</AM>
-<AM lemma="30bodový" src="manual">AAIS3----1A----</AM>
-</tag>
+<AM lemma="bodový" src="auto" recommended="1">AAIS3----1A----</AM>
+<AM lemma="bodový" src="auto">AAMS3----1A----</AM>
+<AM lemma="bodový" src="auto">AANS3----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>bodovému</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2300-001-p1s72W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -21950,19 +21924,19 @@
 <w.rf>
 <LM>w#w-wsj2300-001-p1s80W13</LM>
 </w.rf>
-<form>dobra</form>
+<form>dobrá</form>
 <tag>
-<AM lemma="dobro_^(prospěch;;hudební_nástroj)" src="auto" recommended="1">NNNP1-----A----</AM>
-<AM lemma="dobro_^(prospěch;;hudební_nástroj)" src="auto">NNNP4-----A----</AM>
-<AM lemma="dobro_^(prospěch;;hudební_nástroj)" src="auto">NNNP5-----A----</AM>
-<AM lemma="dobro_^(prospěch;;hudební_nástroj)" src="auto">NNNS2-----A----</AM>
-</tag>
+<AM lemma="dobrá-1_^(známka_ve_škole:_3)" src="auto">NNFS1-----A----</AM>
+<AM lemma="dobrá-1_^(známka_ve_škole:_3)" src="auto">NNFS5-----A----</AM>
+<AM lemma="dobrý" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="dobrý" src="auto">AAFS5----1A----</AM>
+<AM lemma="dobrý" src="auto">AANP1----1A----</AM>
+<AM lemma="dobrý" src="auto">AANP4----1A----</AM>
+<AM lemma="dobrý" src="auto">AANP5----1A----</AM>
+<AM lemma="dobrá-2" src="auto">TT-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>dobrá</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2300-001-p1s80W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

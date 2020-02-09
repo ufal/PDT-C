@@ -1372,14 +1372,12 @@
 <w.rf>
 <LM>w#w-wsj1428-001-p1s3W22</LM>
 </w.rf>
-<form>dohodou</form>
-<tag lemma="dohoda" src="auto" recommended="1">NNFS7-----A----</tag>
+<form>dohodu</form>
+<tag>
+<AM lemma="dohoda" src="auto" recommended="1">NNFS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>dohodu</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1428-001-p1s3W23-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -6033,18 +6033,11 @@
 <w.rf>
 <LM>w#w-wsj1149-001-p1s20W24</LM>
 </w.rf>
-<form>Josepha</form>
+<form>Josephem</form>
 <tag>
-<AM lemma="Joseph_;Y_,t" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Joseph_;Y_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Josephus_;Y_,t" src="auto">NNMS2-----A----</AM>
-<AM lemma="Josephus_;Y_,t" src="auto">NNMS4-----A----</AM>
-<AM lemma="Joseph_;Y" src="manual">NNMS2-----A----</AM>
-</tag>
+<AM lemma="Joseph_;Y_,t" src="auto" recommended="1">NNMS7-----A----</AM>
+<AM lemma="Josephus_;Y_,t" src="auto">NNMS7-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Josephem</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1149-001-p1s20W25-Ta">
@@ -6052,17 +6045,12 @@
 <w.rf>
 <LM>w#w-wsj1149-001-p1s20W25</LM>
 </w.rf>
-<form>DiGenovy</form>
+<form>DiGenovou</form>
 <tag>
-<AM lemma="DiGenovy" src="auto">X@-------------</AM>
-<AM lemma="DiGenova_;S" src="manual">NNMS2-----A----</AM>
-</tag>
+<AM lemma="DiGenovou" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>DiGenovou</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1149-001-p1s20W26-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6803,18 +6791,22 @@
 <w.rf>
 <LM>w#w-wsj1149-001-p1s22W27</LM>
 </w.rf>
-<form>která</form>
+<form>které</form>
 <tag>
-<AM lemma="který" src="auto">P4FS1----------</AM>
-<AM lemma="který" src="auto" recommended="1">P4NP1----------</AM>
-<AM lemma="který" src="auto">P4NP4----------</AM>
-</tag>
+<AM lemma="který" src="auto">P4FP1----------</AM>
+<AM lemma="který" src="auto">P4FP4----------</AM>
+<AM lemma="který" src="auto">P4FS2----------</AM>
+<AM lemma="který" src="auto">P4FS3----------</AM>
+<AM lemma="který" src="auto">P4FS6----------</AM>
+<AM lemma="který" src="auto">P4IP1----------</AM>
+<AM lemma="který" src="auto">P4NP1---------6</AM>
+<AM lemma="který" src="auto">P4NP4---------6</AM>
+<AM lemma="který" src="auto" recommended="1">P4NS1----------</AM>
+<AM lemma="který" src="auto">P4NS4----------</AM>
+<AM lemma="který" src="auto">P4YP4----------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>které</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1149-001-p1s22W28-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

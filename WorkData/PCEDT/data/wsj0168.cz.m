@@ -1806,12 +1806,10 @@
 <w.rf>
 <LM>w#w-wsj0168-001-p1s5W48</LM>
 </w.rf>
-<form>,</form>
-<tag lemma="," src="auto" recommended="1">Z:-------------</tag>
+<form>8.5</form>
+<tag>
+<AM lemma="8.5" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>8.5</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0168-001-p1s5W49-Ta">
@@ -1819,14 +1817,14 @@
 <w.rf>
 <LM>w#w-wsj0168-001-p1s5W49</LM>
 </w.rf>
-<form>5milionu</form>
-<tag lemma="5milionu" src="auto">X@-------------</tag>
+<form>milionu</form>
+<tag>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS3-----A----</AM>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>milionu</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0168-001-p1s5W50-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

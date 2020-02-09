@@ -1147,15 +1147,10 @@
 <w.rf>
 <LM>w#w-wsj2237-001-p1s4W21</LM>
 </w.rf>
-<form>1376stránkový</form>
+<form>1367</form>
 <tag>
-<AM lemma="1376stránkový" src="auto">X@-------------</AM>
-<AM lemma="1376stránkový" src="manual">AAIS1----1A----</AM>
-</tag>
+<AM lemma="1367" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>1367</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2237-001-p1s4W21-Ta-sw1">
@@ -1163,17 +1158,34 @@
 <w.rf>
 <LM>w#w-wsj2237-001-p1s4W21</LM>
 </w.rf>
-<form>1376stránkový</form>
+<form>stránkový</form>
 <tag>
-<AM lemma="1376stránkový" src="auto">X@-------------</AM>
-<AM lemma="1376stránkový" src="manual">AAIS1----1A----</AM>
-</tag>
+<AM lemma="stránkový" src="auto">AAFP1----1A---6</AM>
+<AM lemma="stránkový" src="auto">AAFP4----1A---6</AM>
+<AM lemma="stránkový" src="auto">AAFP5----1A---6</AM>
+<AM lemma="stránkový" src="auto">AAFS2----1A---6</AM>
+<AM lemma="stránkový" src="auto">AAFS3----1A---6</AM>
+<AM lemma="stránkový" src="auto">AAFS6----1A---6</AM>
+<AM lemma="stránkový" src="auto">AAIP1----1A---6</AM>
+<AM lemma="stránkový" src="auto">AAIP4----1A---6</AM>
+<AM lemma="stránkový" src="auto">AAIP5----1A---6</AM>
+<AM lemma="stránkový" src="auto" recommended="1">AAIS1----1A----</AM>
+<AM lemma="stránkový" src="auto">AAIS4----1A----</AM>
+<AM lemma="stránkový" src="auto">AAIS5----1A----</AM>
+<AM lemma="stránkový" src="auto">AAMP1----1A---6</AM>
+<AM lemma="stránkový" src="auto">AAMP4----1A---6</AM>
+<AM lemma="stránkový" src="auto">AAMP5----1A---6</AM>
+<AM lemma="stránkový" src="auto">AAMS1----1A----</AM>
+<AM lemma="stránkový" src="auto">AAMS5----1A----</AM>
+<AM lemma="stránkový" src="auto">AANP1----1A---6</AM>
+<AM lemma="stránkový" src="auto">AANP4----1A---6</AM>
+<AM lemma="stránkový" src="auto">AANP5----1A---6</AM>
+<AM lemma="stránkový" src="auto">AANS1----1A---6</AM>
+<AM lemma="stránkový" src="auto">AANS4----1A---6</AM>
+<AM lemma="stránkový" src="auto">AANS5----1A---6</AM></tag>
 <comment>
-<LM type="New Form">
-<text>stránkový</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2237-001-p1s4W22-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

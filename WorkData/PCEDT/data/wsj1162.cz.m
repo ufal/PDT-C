@@ -9685,14 +9685,14 @@
 <w.rf>
 <LM>w#w-wsj1162-001-p1s32W1</LM>
 </w.rf>
-<form>Maquire</form>
-<tag lemma="Maquire" src="auto">X@-------------</tag>
+<form>Maguire</form>
+<tag>
+<AM lemma="Maguire_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Maguire_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="Maguire_;S" src="auto">NNMXX-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Maguire</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1162-001-p1s32W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

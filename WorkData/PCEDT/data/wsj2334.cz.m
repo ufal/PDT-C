@@ -1201,17 +1201,38 @@
 <w.rf>
 <LM>w#w-wsj2334-001-p1s2W4</LM>
 </w.rf>
-<form>15denní</form>
+<form>patnáctidenní</form>
 <tag>
-<AM lemma="15denní" src="auto">X@-------------</AM>
-<AM lemma="15denní" src="manual">AANS4----1A----</AM>
-</tag>
+<AM lemma="patnáctidenní" src="auto">AAFP1----1A----</AM>
+<AM lemma="patnáctidenní" src="auto">AAFP4----1A----</AM>
+<AM lemma="patnáctidenní" src="auto">AAFP5----1A----</AM>
+<AM lemma="patnáctidenní" src="auto">AAFS1----1A----</AM>
+<AM lemma="patnáctidenní" src="auto">AAFS2----1A----</AM>
+<AM lemma="patnáctidenní" src="auto">AAFS3----1A----</AM>
+<AM lemma="patnáctidenní" src="auto">AAFS4----1A----</AM>
+<AM lemma="patnáctidenní" src="auto">AAFS5----1A----</AM>
+<AM lemma="patnáctidenní" src="auto">AAFS6----1A----</AM>
+<AM lemma="patnáctidenní" src="auto">AAFS7----1A----</AM>
+<AM lemma="patnáctidenní" src="auto">AAIP1----1A----</AM>
+<AM lemma="patnáctidenní" src="auto">AAIP4----1A----</AM>
+<AM lemma="patnáctidenní" src="auto">AAIP5----1A----</AM>
+<AM lemma="patnáctidenní" src="auto">AAIS1----1A----</AM>
+<AM lemma="patnáctidenní" src="auto">AAIS4----1A----</AM>
+<AM lemma="patnáctidenní" src="auto">AAIS5----1A----</AM>
+<AM lemma="patnáctidenní" src="auto">AAMP1----1A----</AM>
+<AM lemma="patnáctidenní" src="auto">AAMP4----1A----</AM>
+<AM lemma="patnáctidenní" src="auto">AAMP5----1A----</AM>
+<AM lemma="patnáctidenní" src="auto">AAMS1----1A----</AM>
+<AM lemma="patnáctidenní" src="auto">AAMS5----1A----</AM>
+<AM lemma="patnáctidenní" src="auto">AANP1----1A----</AM>
+<AM lemma="patnáctidenní" src="auto">AANP4----1A----</AM>
+<AM lemma="patnáctidenní" src="auto">AANP5----1A----</AM>
+<AM lemma="patnáctidenní" src="auto">AANS1----1A----</AM>
+<AM lemma="patnáctidenní" src="auto" recommended="1">AANS4----1A----</AM>
+<AM lemma="patnáctidenní" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>patnáctidenní</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2334-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

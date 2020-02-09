@@ -381,18 +381,12 @@
 <w.rf>
 <LM>w#w-wsj2167-001-p1s2W7</LM>
 </w.rf>
-<form>Frieda</form>
+<form>Frienda</form>
 <tag>
-<AM lemma="Fried_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Fried_;S" src="auto">NNMS4-----A----</AM>
-<AM lemma="Frieda_;Y" src="auto">NNFS1-----A----</AM>
-</tag>
+<AM lemma="Frienda" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Frienda</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2167-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

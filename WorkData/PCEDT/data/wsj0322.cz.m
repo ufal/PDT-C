@@ -4424,17 +4424,21 @@
 <w.rf>
 <LM>w#w-wsj0322-001-p1s17W13</LM>
 </w.rf>
-<form>nakupovaní</form>
+<form>nakupování</form>
 <tag>
-<AM lemma="nakupovaný_^(*2t)" src="auto">AAMP1----1A----</AM>
-<AM lemma="nakupovaný_^(*2t)" src="auto" recommended="1">AAMP5----1A----</AM>
-</tag>
+<AM lemma="nakupování_^(*3at)" src="auto">NNNP1-----A----</AM>
+<AM lemma="nakupování_^(*3at)" src="auto">NNNP2-----A----</AM>
+<AM lemma="nakupování_^(*3at)" src="auto">NNNP4-----A----</AM>
+<AM lemma="nakupování_^(*3at)" src="auto">NNNP5-----A----</AM>
+<AM lemma="nakupování_^(*3at)" src="auto">NNNS1-----A----</AM>
+<AM lemma="nakupování_^(*3at)" src="auto">NNNS2-----A----</AM>
+<AM lemma="nakupování_^(*3at)" src="auto">NNNS3-----A----</AM>
+<AM lemma="nakupování_^(*3at)" src="auto">NNNS4-----A----</AM>
+<AM lemma="nakupování_^(*3at)" src="auto">NNNS5-----A----</AM>
+<AM lemma="nakupování_^(*3at)" src="auto" recommended="1">NNNS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>nakupování</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0322-001-p1s17W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6417,27 +6421,14 @@
 <w.rf>
 <LM>w#w-wsj0322-001-p1s27W2</LM>
 </w.rf>
-<form>s</form>
+<form>z</form>
 <tag>
-<AM lemma="s-1" src="auto" recommended="1">RR--2----------</AM>
-<AM lemma="s-1" src="auto">RR--4----------</AM>
-<AM lemma="s-1" src="auto">RR--7----------</AM>
-<AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
-<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="s-77_,t" src="auto">F%-------------</AM>
-<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
-<AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
-<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
-<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
-</tag>
+<AM lemma="z-1" src="auto" recommended="1">RR--2----------</AM>
+<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="z-88_:B" src="auto">NNXXX-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>z</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0322-001-p1s27W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -5006,14 +5006,12 @@
 <w.rf>
 <LM>w#w-wsj1094-001-p1s21W5</LM>
 </w.rf>
-<form>máme</form>
-<tag lemma="mít" src="auto" recommended="1">VB-P---1P-AAI--</tag>
+<form>láme</form>
+<tag>
+<AM lemma="lámat" src="auto" recommended="1">VB-S---3P-AAI--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>láme</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1094-001-p1s21W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

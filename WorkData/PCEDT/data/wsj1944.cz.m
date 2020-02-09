@@ -6612,14 +6612,24 @@
 <w.rf>
 <LM>w#w-wsj1944-001-p1s29W5</LM>
 </w.rf>
-<form>Neworské</form>
-<tag lemma="Neworské" src="auto">X@-------------</tag>
+<form>Newyorské</form>
+<tag>
+<AM lemma="newyorský" src="auto">AAFP1----1A----</AM>
+<AM lemma="newyorský" src="auto">AAFP4----1A----</AM>
+<AM lemma="newyorský" src="auto">AAFP5----1A----</AM>
+<AM lemma="newyorský" src="auto">AAFS2----1A----</AM>
+<AM lemma="newyorský" src="auto">AAFS3----1A----</AM>
+<AM lemma="newyorský" src="auto" recommended="1">AAFS6----1A----</AM>
+<AM lemma="newyorský" src="auto">AAIP1----1A----</AM>
+<AM lemma="newyorský" src="auto">AAIP4----1A----</AM>
+<AM lemma="newyorský" src="auto">AAIP5----1A----</AM>
+<AM lemma="newyorský" src="auto">AAMP4----1A----</AM>
+<AM lemma="newyorský" src="auto">AANS1----1A----</AM>
+<AM lemma="newyorský" src="auto">AANS4----1A----</AM>
+<AM lemma="newyorský" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Newyorské</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1944-001-p1s29W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

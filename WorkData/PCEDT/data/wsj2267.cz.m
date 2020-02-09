@@ -307,12 +307,10 @@
 <w.rf>
 <LM>w#w-wsj2267-001-p1s1W28</LM>
 </w.rf>
-<form>1.listopadu</form>
-<tag lemma="1.listopadu" src="auto">X@-------------</tag>
+<form>1</form>
+<tag>
+<AM lemma="1" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>1</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2267-001-p1s1W28-Ta-sw1">
@@ -320,12 +318,10 @@
 <w.rf>
 <LM>w#w-wsj2267-001-p1s1W28</LM>
 </w.rf>
-<form>1.listopadu</form>
-<tag lemma="1.listopadu" src="auto">X@-------------</tag>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>.</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2267-001-p1s1W28-Ta-sw2">
@@ -333,14 +329,14 @@
 <w.rf>
 <LM>w#w-wsj2267-001-p1s1W28</LM>
 </w.rf>
-<form>1.listopadu</form>
-<tag lemma="1.listopadu" src="auto">X@-------------</tag>
+<form>listopadu</form>
+<tag>
+<AM lemma="listopad" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="listopad" src="auto">NNIS3-----A----</AM>
+<AM lemma="listopad" src="auto">NNIS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>listopadu</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2267-001-p1s1W29-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1026,12 +1022,10 @@
 <w.rf>
 <LM>w#w-wsj2267-001-p1s4W26</LM>
 </w.rf>
-<form>1.listopadu</form>
-<tag lemma="1.listopadu" src="auto">X@-------------</tag>
+<form>1</form>
+<tag>
+<AM lemma="1" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>1</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2267-001-p1s4W26-Ta-sw1">
@@ -1039,12 +1033,10 @@
 <w.rf>
 <LM>w#w-wsj2267-001-p1s4W26</LM>
 </w.rf>
-<form>1.listopadu</form>
-<tag lemma="1.listopadu" src="auto">X@-------------</tag>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>.</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2267-001-p1s4W26-Ta-sw2">
@@ -1052,14 +1044,14 @@
 <w.rf>
 <LM>w#w-wsj2267-001-p1s4W26</LM>
 </w.rf>
-<form>1.listopadu</form>
-<tag lemma="1.listopadu" src="auto">X@-------------</tag>
+<form>listopadu</form>
+<tag>
+<AM lemma="listopad" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="listopad" src="auto">NNIS3-----A----</AM>
+<AM lemma="listopad" src="auto">NNIS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>listopadu</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2267-001-p1s4W27-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

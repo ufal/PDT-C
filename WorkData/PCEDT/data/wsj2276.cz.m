@@ -11460,14 +11460,14 @@
 <w.rf>
 <LM>w#w-wsj2276-001-p1s41W4</LM>
 </w.rf>
-<form>Franfurktu</form>
-<tag lemma="Franfurktu" src="auto">X@-------------</tag>
+<form>Frankfurtu</form>
+<tag>
+<AM lemma="Frankfurt_;G" src="auto">NNIS2-----A----</AM>
+<AM lemma="Frankfurt_;G" src="auto">NNIS3-----A----</AM>
+<AM lemma="Frankfurt_;G" src="auto" recommended="1">NNIS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Frankfurtu</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2276-001-p1s41W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -14400,14 +14400,15 @@
 <w.rf>
 <LM>w#w-wsj2276-001-p1s54W9</LM>
 </w.rf>
-<form>Sreet</form>
-<tag lemma="Sreet" src="auto">X@-------------</tag>
+<form>Street</form>
+<tag>
+<AM lemma="Street-1_;G" src="auto">NNIS1-----A----</AM>
+<AM lemma="Street-1_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Street-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="street-77" src="auto">F%-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Street</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2276-001-p1s54W10-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -15449,14 +15450,16 @@
 <w.rf>
 <LM>w#w-wsj2276-001-p1s57W32</LM>
 </w.rf>
-<form>Jonesovův</form>
-<tag lemma="Jonesovův" src="auto">X@-------------</tag>
+<form>Jonesův</form>
+<tag>
+<AM lemma="Jonesův_;S_^(*2)" src="auto" recommended="1">AUIS1M---------</AM>
+<AM lemma="Jonesův_;S_^(*2)" src="auto">AUIS4M---------</AM>
+<AM lemma="Jonesův_;S_^(*2)" src="auto">AUIS5M---------</AM>
+<AM lemma="Jonesův_;S_^(*2)" src="auto">AUMS1M---------</AM>
+<AM lemma="Jonesův_;S_^(*2)" src="auto">AUMS5M---------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Jonesův</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2276-001-p1s57W33-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -1419,7 +1419,7 @@
 <form>Geneho</form>
 <tag>
 <AM lemma="Geneho" src="auto">X@-------------</AM>
-<AM lemma="	Gene-1_;Y_^(muž)" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma=" Gene-1_;Y_^(muž)" src="manual" selected="1">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1140-001-p1s4W4-Ta">
@@ -5354,14 +5354,12 @@
 <w.rf>
 <LM>w#w-wsj1140-001-p1s13W15</LM>
 </w.rf>
-<form>Champeau</form>
-<tag lemma="Champeau" src="auto">X@-------------</tag>
+<form>Campeau</form>
+<tag>
+<AM lemma="Campeau" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Campeau</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1140-001-p1s13W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5499,14 +5497,12 @@
 <w.rf>
 <LM>w#w-wsj1140-001-p1s14W7</LM>
 </w.rf>
-<form>Champeau</form>
-<tag lemma="Champeau" src="auto">X@-------------</tag>
+<form>Campeau</form>
+<tag>
+<AM lemma="Campeau" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Campeau</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1140-001-p1s14W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

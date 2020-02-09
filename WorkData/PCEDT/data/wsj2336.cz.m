@@ -2456,19 +2456,12 @@
 <w.rf>
 <LM>w#w-wsj2336-001-p1s6W30</LM>
 </w.rf>
-<form>obhajoby</form>
+<form>obhajob</form>
 <tag>
-<AM lemma="obhajoba" src="auto">NNFP1-----A----</AM>
-<AM lemma="obhajoba" src="auto">NNFP4-----A----</AM>
-<AM lemma="obhajoba" src="auto">NNFP5-----A----</AM>
-<AM lemma="obhajoba" src="auto" recommended="1">NNFS2-----A----</AM>
-</tag>
+<AM lemma="obhajoba" src="auto" recommended="1">NNFP2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>obhajob</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2336-001-p1s6W31-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

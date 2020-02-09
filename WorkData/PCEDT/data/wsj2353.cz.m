@@ -1759,14 +1759,15 @@
 <w.rf>
 <LM>w#w-wsj2353-001-p1s4W28</LM>
 </w.rf>
-<form>miliónů</form>
-<tag lemma="milión`1000000" src="auto" recommended="1">NNIP2-----A----</tag>
+<form>milióny</form>
+<tag>
+<AM lemma="milión`1000000" src="auto">NNIP1-----A----</AM>
+<AM lemma="milión`1000000" src="auto" recommended="1">NNIP4-----A----</AM>
+<AM lemma="milión`1000000" src="auto">NNIP5-----A----</AM>
+<AM lemma="milión`1000000" src="auto">NNIP7-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>milióny</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2353-001-p1s4W29-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

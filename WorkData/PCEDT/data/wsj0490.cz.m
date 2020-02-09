@@ -5343,16 +5343,10 @@
 <w.rf>
 <LM>w#w-wsj0490-001-p1s18W6</LM>
 </w.rf>
-<form>19měsíční</form>
+<form>19</form>
 <tag>
-<AM lemma="19měsíční" src="auto">X@-------------</AM>
-<AM lemma="19měsíční_,s_^(^DD**19měsíční)" src="manual">AANS4----1A----</AM>
-<AM lemma="19měsíční" src="manual">AANS4----1A----</AM>
-</tag>
+<AM lemma="19" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>19</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0490-001-p1s18W6-Ta-sw1">
@@ -5360,18 +5354,40 @@
 <w.rf>
 <LM>w#w-wsj0490-001-p1s18W6</LM>
 </w.rf>
-<form>19měsíční</form>
+<form>měsíční</form>
 <tag>
-<AM lemma="19měsíční" src="auto">X@-------------</AM>
-<AM lemma="19měsíční_,s_^(^DD**19měsíční)" src="manual">AANS4----1A----</AM>
-<AM lemma="19měsíční" src="manual">AANS4----1A----</AM>
-</tag>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFP1----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFP4----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFP5----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS1----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS2----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS3----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS4----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS5----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS6----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS7----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIP1----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIP4----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIP5----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIS1----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIS4----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIS5----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAMP1----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAMP4----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAMP5----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAMS1----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAMS5----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AANP1----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AANP4----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AANP5----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AANS1----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto" recommended="1">AANS4----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AANS5----1A----</AM>
+<AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP1----1A----</AM>
+<AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>měsíční</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0490-001-p1s18W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

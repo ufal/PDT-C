@@ -928,20 +928,27 @@
 <w.rf>
 <LM>w#w-wsj1806-001-p1s2W4</LM>
 </w.rf>
-<form>splatná</form>
+<form>splatné</form>
 <tag>
-<AM lemma="splatný" src="auto">AAFS1----1A----</AM>
-<AM lemma="splatný" src="auto">AAFS5----1A----</AM>
-<AM lemma="splatný" src="auto" recommended="1">AANP1----1A----</AM>
-<AM lemma="splatný" src="auto">AANP4----1A----</AM>
-<AM lemma="splatný" src="auto">AANP5----1A----</AM>
-</tag>
+<AM lemma="splatný" src="auto" recommended="1">AAFP1----1A----</AM>
+<AM lemma="splatný" src="auto">AAFP4----1A----</AM>
+<AM lemma="splatný" src="auto">AAFP5----1A----</AM>
+<AM lemma="splatný" src="auto">AAFS2----1A----</AM>
+<AM lemma="splatný" src="auto">AAFS3----1A----</AM>
+<AM lemma="splatný" src="auto">AAFS6----1A----</AM>
+<AM lemma="splatný" src="auto">AAIP1----1A----</AM>
+<AM lemma="splatný" src="auto">AAIP4----1A----</AM>
+<AM lemma="splatný" src="auto">AAIP5----1A----</AM>
+<AM lemma="splatný" src="auto">AAMP4----1A----</AM>
+<AM lemma="splatný" src="auto">AANP1----1A---6</AM>
+<AM lemma="splatný" src="auto">AANP4----1A---6</AM>
+<AM lemma="splatný" src="auto">AANP5----1A---6</AM>
+<AM lemma="splatný" src="auto">AANS1----1A----</AM>
+<AM lemma="splatný" src="auto">AANS4----1A----</AM>
+<AM lemma="splatný" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>splatné</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1806-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

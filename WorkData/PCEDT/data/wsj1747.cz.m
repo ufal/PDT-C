@@ -158,14 +158,12 @@
 <w.rf>
 <LM>w#w-wsj1747-001-p1s0W13</LM>
 </w.rf>
-<form>milionnů</form>
-<tag lemma="milionnů" src="auto">X@-------------</tag>
+<form>milionů</form>
+<tag>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>milionů</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1747-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

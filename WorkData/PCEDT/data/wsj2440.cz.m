@@ -301,14 +301,13 @@
 <w.rf>
 <LM>w#w-wsj2440-001-p1s1W11</LM>
 </w.rf>
-<form>vychazí</form>
-<tag lemma="vychazí" src="auto">X@-------------</tag>
+<form>vychází</form>
+<tag>
+<AM lemma="vycházet" src="auto">VB-P---3P-AAI-1</AM>
+<AM lemma="vycházet" src="auto" recommended="1">VB-S---3P-AAI--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>vychází</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2440-001-p1s1W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1126,14 +1125,15 @@
 <w.rf>
 <LM>w#w-wsj2440-001-p1s2W33</LM>
 </w.rf>
-<form>15ti</form>
-<tag lemma="15ti" src="auto">X@-------------</tag>
+<form>patnácti</form>
+<tag>
+<AM lemma="patnáct`15" src="auto" recommended="1">Cn-P2----------</AM>
+<AM lemma="patnáct`15" src="auto">Cn-P3----------</AM>
+<AM lemma="patnáct`15" src="auto">Cn-P6----------</AM>
+<AM lemma="patnáct`15" src="auto">Cn-P7----------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>patnácti</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2440-001-p1s2W34-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

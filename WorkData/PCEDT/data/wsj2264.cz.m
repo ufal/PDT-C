@@ -4703,17 +4703,13 @@
 <w.rf>
 <LM>w#w-wsj2264-001-p1s15W12</LM>
 </w.rf>
-<form>Stanelyho</form>
+<form>Stanleyho</form>
 <tag>
-<AM lemma="Stanelyho" src="auto">X@-------------</AM>
-<AM lemma="Stanely_;S" src="manual">NNMS2-----A----</AM>
-</tag>
+<AM lemma="Stanley_;S" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Stanley_;S" src="auto">NNMS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Stanleyho</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2264-001-p1s15W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

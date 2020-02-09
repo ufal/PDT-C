@@ -1049,19 +1049,15 @@
 <w.rf>
 <LM>w#w-wsj2399-001-p1s3W27</LM>
 </w.rf>
-<form>10letými</form>
+<form>desetiletými</form>
 <tag>
-<AM lemma="10letý" src="auto" recommended="1">AAFP7----1A----</AM>
-<AM lemma="10letý" src="auto">AAIP7----1A----</AM>
-<AM lemma="10letý" src="auto">AAMP7----1A----</AM>
-<AM lemma="10letý" src="auto">AANP7----1A----</AM>
-</tag>
+<AM lemma="desetiletý" src="auto" recommended="1">AAFP7----1A----</AM>
+<AM lemma="desetiletý" src="auto">AAIP7----1A----</AM>
+<AM lemma="desetiletý" src="auto">AAMP7----1A----</AM>
+<AM lemma="desetiletý" src="auto">AANP7----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>desetiletými</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2399-001-p1s3W28-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2201,19 +2197,15 @@
 <w.rf>
 <LM>w#w-wsj2399-001-p1s7W23</LM>
 </w.rf>
-<form>10letými</form>
+<form>desetiletými</form>
 <tag>
-<AM lemma="10letý" src="auto" recommended="1">AAFP7----1A----</AM>
-<AM lemma="10letý" src="auto">AAIP7----1A----</AM>
-<AM lemma="10letý" src="auto">AAMP7----1A----</AM>
-<AM lemma="10letý" src="auto">AANP7----1A----</AM>
-</tag>
+<AM lemma="desetiletý" src="auto" recommended="1">AAFP7----1A----</AM>
+<AM lemma="desetiletý" src="auto">AAIP7----1A----</AM>
+<AM lemma="desetiletý" src="auto">AAMP7----1A----</AM>
+<AM lemma="desetiletý" src="auto">AANP7----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>desetiletými</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2399-001-p1s7W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3908,19 +3900,15 @@
 <w.rf>
 <LM>w#w-wsj2399-001-p1s12W38</LM>
 </w.rf>
-<form>10letými</form>
+<form>desetiletými</form>
 <tag>
-<AM lemma="10letý" src="auto">AAFP7----1A----</AM>
-<AM lemma="10letý" src="auto" recommended="1">AAIP7----1A----</AM>
-<AM lemma="10letý" src="auto">AAMP7----1A----</AM>
-<AM lemma="10letý" src="auto">AANP7----1A----</AM>
-</tag>
+<AM lemma="desetiletý" src="auto">AAFP7----1A----</AM>
+<AM lemma="desetiletý" src="auto" recommended="1">AAIP7----1A----</AM>
+<AM lemma="desetiletý" src="auto">AAMP7----1A----</AM>
+<AM lemma="desetiletý" src="auto">AANP7----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>desetiletými</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2399-001-p1s12W39-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

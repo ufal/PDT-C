@@ -3236,14 +3236,12 @@
 <w.rf>
 <LM>w#w-wsj1399-001-p1s11W6</LM>
 </w.rf>
-<form>zkompoikovala</form>
-<tag lemma="zkompoikovala" src="auto">X@-------------</tag>
+<form>zkomplikovala</form>
+<tag>
+<AM lemma="zkomplikovat" src="auto" recommended="1">VpQW---XR-AAP--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>zkomplikovala</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1399-001-p1s11W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

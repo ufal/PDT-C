@@ -6146,14 +6146,12 @@
 <w.rf>
 <LM>w#w-wsj1937-001-p1s25W3</LM>
 </w.rf>
-<form>Casualta</form>
-<tag lemma="Casualta" src="auto">X@-------------</tag>
+<form>Casualty</form>
+<tag>
+<AM lemma="Casualty" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Casualty</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1937-001-p1s25W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

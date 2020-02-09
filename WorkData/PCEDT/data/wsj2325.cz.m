@@ -5776,19 +5776,27 @@
 <w.rf>
 <LM>w#w-wsj2325-001-p1s22W2</LM>
 </w.rf>
-<form>surového</form>
+<form>surové</form>
 <tag>
-<AM lemma="surový" src="auto" recommended="1">AAIS2----1A----</AM>
-<AM lemma="surový" src="auto">AAMS2----1A----</AM>
-<AM lemma="surový" src="auto">AAMS4----1A----</AM>
-<AM lemma="surový" src="auto">AANS2----1A----</AM>
-</tag>
+<AM lemma="surový" src="auto">AAFP1----1A----</AM>
+<AM lemma="surový" src="auto">AAFP4----1A----</AM>
+<AM lemma="surový" src="auto">AAFP5----1A----</AM>
+<AM lemma="surový" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="surový" src="auto">AAFS3----1A----</AM>
+<AM lemma="surový" src="auto">AAFS6----1A----</AM>
+<AM lemma="surový" src="auto">AAIP1----1A----</AM>
+<AM lemma="surový" src="auto">AAIP4----1A----</AM>
+<AM lemma="surový" src="auto">AAIP5----1A----</AM>
+<AM lemma="surový" src="auto">AAMP4----1A----</AM>
+<AM lemma="surový" src="auto">AANP1----1A---6</AM>
+<AM lemma="surový" src="auto">AANP4----1A---6</AM>
+<AM lemma="surový" src="auto">AANP5----1A---6</AM>
+<AM lemma="surový" src="auto">AANS1----1A----</AM>
+<AM lemma="surový" src="auto">AANS4----1A----</AM>
+<AM lemma="surový" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>surové</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2325-001-p1s22W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

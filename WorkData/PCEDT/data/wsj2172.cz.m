@@ -3263,18 +3263,15 @@
 <w.rf>
 <LM>w#w-wsj2172-001-p1s8W25</LM>
 </w.rf>
-<form>druhém</form>
+<form>druhého</form>
 <tag>
-<AM lemma="druhý" src="auto" recommended="1">CrIS6----------</AM>
-<AM lemma="druhý" src="auto">CrMS6----------</AM>
-<AM lemma="druhý" src="auto">CrNS6----------</AM>
-</tag>
+<AM lemma="druhý" src="auto">CrIS2----------</AM>
+<AM lemma="druhý" src="auto">CrMS2----------</AM>
+<AM lemma="druhý" src="auto" recommended="1">CrMS4----------</AM>
+<AM lemma="druhý" src="auto">CrNS2----------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>druhého</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2172-001-p1s8W26-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10073,14 +10070,14 @@
 <w.rf>
 <LM>w#w-wsj2172-001-p1s31W21</LM>
 </w.rf>
-<form>prch</form>
-<tag lemma="prchnout" src="auto" recommended="1">VpYS---XR-AAP-6</tag>
+<form>prach</form>
+<tag>
+<AM lemma="prach-1_^(střelný_prach)" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="prach-1_^(střelný_prach)" src="auto">NNIS4-----A----</AM>
+<AM lemma="prach-2_^(prach_sakra)" src="auto">II-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>prach</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2172-001-p1s31W22-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -15365,15 +15362,13 @@
 <w.rf>
 <LM>w#w-wsj2172-001-p1s53W3</LM>
 </w.rf>
-<form>F.C</form>
+<form>F</form>
 <tag>
-<AM lemma="F.C" src="auto">X@-------------</AM>
-<AM lemma="F.C-88_:B" src="manual">NNXXX-----A----</AM>
-</tag>
+<AM lemma="F-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="F-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="f-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="f-88_:B" src="auto">NNXXX-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>F</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2172-001-p1s53W3-Ta-sw1">
@@ -15381,15 +15376,10 @@
 <w.rf>
 <LM>w#w-wsj2172-001-p1s53W3</LM>
 </w.rf>
-<form>F.C</form>
+<form>.</form>
 <tag>
-<AM lemma="F.C" src="auto">X@-------------</AM>
-<AM lemma="F.C-88_:B" src="manual">NNXXX-----A----</AM>
-</tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>.</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2172-001-p1s53W3-Ta-sw2">
@@ -15397,17 +15387,16 @@
 <w.rf>
 <LM>w#w-wsj2172-001-p1s53W3</LM>
 </w.rf>
-<form>F.C</form>
+<form>C</form>
 <tag>
-<AM lemma="F.C" src="auto">X@-------------</AM>
-<AM lemma="F.C-88_:B" src="manual">NNXXX-----A----</AM>
-</tag>
+<AM lemma="C-3`100" src="auto">C}-------------</AM>
+<AM lemma="C-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="Celsius" src="auto" recommended="1">NNMXX-----A---8</AM>
+<AM lemma="c-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="c-88_:B" src="auto">NNXXX-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>C</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2172-001-p1s53W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -16517,14 +16506,13 @@
 <w.rf>
 <LM>w#w-wsj2172-001-p1s57W6</LM>
 </w.rf>
-<form>nabídne</form>
-<tag lemma="nabídnout" src="auto" recommended="1">VB-S---3P-AAP--</tag>
+<form>nabídce</form>
+<tag>
+<AM lemma="nabídka" src="auto">NNFS3-----A----</AM>
+<AM lemma="nabídka" src="auto" recommended="1">NNFS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>nabídce</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2172-001-p1s57W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -1410,16 +1410,10 @@
 <w.rf>
 <LM>w#w-wsj1569-001-p1s8W2</LM>
 </w.rf>
-<form>10letém</form>
+<form>10</form>
 <tag>
-<AM lemma="10letý" src="auto">AAIS6----1A----</AM>
-<AM lemma="10letý" src="auto">AAMS6----1A----</AM>
-<AM lemma="10letý" src="auto" recommended="1">AANS6----1A----</AM>
-</tag>
+<AM lemma="10" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>10</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1569-001-p1s8W2-Ta-sw1">
@@ -1427,18 +1421,14 @@
 <w.rf>
 <LM>w#w-wsj1569-001-p1s8W2</LM>
 </w.rf>
-<form>10letém</form>
+<form>letém</form>
 <tag>
-<AM lemma="10letý" src="auto">AAIS6----1A----</AM>
-<AM lemma="10letý" src="auto">AAMS6----1A----</AM>
-<AM lemma="10letý" src="auto" recommended="1">AANS6----1A----</AM>
-</tag>
+<AM lemma="letý" src="auto">AAIS6----1A----</AM>
+<AM lemma="letý" src="auto">AAMS6----1A----</AM>
+<AM lemma="letý" src="auto" recommended="1">AANS6----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>letém</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1569-001-p1s8W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

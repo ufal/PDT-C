@@ -1045,36 +1045,10 @@
 <w.rf>
 <LM>w#w-wsj1830-001-p1s6W2</LM>
 </w.rf>
-<form>46letý</form>
+<form>46</form>
 <tag>
-<AM lemma="46letý" src="auto">AAFP1----1A---6</AM>
-<AM lemma="46letý" src="auto">AAFP4----1A---6</AM>
-<AM lemma="46letý" src="auto">AAFP5----1A---6</AM>
-<AM lemma="46letý" src="auto">AAFS2----1A---6</AM>
-<AM lemma="46letý" src="auto">AAFS3----1A---6</AM>
-<AM lemma="46letý" src="auto">AAFS6----1A---6</AM>
-<AM lemma="46letý" src="auto">AAIP1----1A---6</AM>
-<AM lemma="46letý" src="auto">AAIP4----1A---6</AM>
-<AM lemma="46letý" src="auto">AAIP5----1A---6</AM>
-<AM lemma="46letý" src="auto">AAIS1----1A----</AM>
-<AM lemma="46letý" src="auto">AAIS4----1A----</AM>
-<AM lemma="46letý" src="auto">AAIS5----1A----</AM>
-<AM lemma="46letý" src="auto">AAMP1----1A---6</AM>
-<AM lemma="46letý" src="auto">AAMP4----1A---6</AM>
-<AM lemma="46letý" src="auto">AAMP5----1A---6</AM>
-<AM lemma="46letý" src="auto" recommended="1">AAMS1----1A----</AM>
-<AM lemma="46letý" src="auto">AAMS5----1A----</AM>
-<AM lemma="46letý" src="auto">AANP1----1A---6</AM>
-<AM lemma="46letý" src="auto">AANP4----1A---6</AM>
-<AM lemma="46letý" src="auto">AANP5----1A---6</AM>
-<AM lemma="46letý" src="auto">AANS1----1A---6</AM>
-<AM lemma="46letý" src="auto">AANS4----1A---6</AM>
-<AM lemma="46letý" src="auto">AANS5----1A---6</AM>
-</tag>
+<AM lemma="46" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>46</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1830-001-p1s6W2-Ta-sw1">
@@ -1082,38 +1056,34 @@
 <w.rf>
 <LM>w#w-wsj1830-001-p1s6W2</LM>
 </w.rf>
-<form>46letý</form>
+<form>letý</form>
 <tag>
-<AM lemma="46letý" src="auto">AAFP1----1A---6</AM>
-<AM lemma="46letý" src="auto">AAFP4----1A---6</AM>
-<AM lemma="46letý" src="auto">AAFP5----1A---6</AM>
-<AM lemma="46letý" src="auto">AAFS2----1A---6</AM>
-<AM lemma="46letý" src="auto">AAFS3----1A---6</AM>
-<AM lemma="46letý" src="auto">AAFS6----1A---6</AM>
-<AM lemma="46letý" src="auto">AAIP1----1A---6</AM>
-<AM lemma="46letý" src="auto">AAIP4----1A---6</AM>
-<AM lemma="46letý" src="auto">AAIP5----1A---6</AM>
-<AM lemma="46letý" src="auto">AAIS1----1A----</AM>
-<AM lemma="46letý" src="auto">AAIS4----1A----</AM>
-<AM lemma="46letý" src="auto">AAIS5----1A----</AM>
-<AM lemma="46letý" src="auto">AAMP1----1A---6</AM>
-<AM lemma="46letý" src="auto">AAMP4----1A---6</AM>
-<AM lemma="46letý" src="auto">AAMP5----1A---6</AM>
-<AM lemma="46letý" src="auto" recommended="1">AAMS1----1A----</AM>
-<AM lemma="46letý" src="auto">AAMS5----1A----</AM>
-<AM lemma="46letý" src="auto">AANP1----1A---6</AM>
-<AM lemma="46letý" src="auto">AANP4----1A---6</AM>
-<AM lemma="46letý" src="auto">AANP5----1A---6</AM>
-<AM lemma="46letý" src="auto">AANS1----1A---6</AM>
-<AM lemma="46letý" src="auto">AANS4----1A---6</AM>
-<AM lemma="46letý" src="auto">AANS5----1A---6</AM>
-</tag>
+<AM lemma="letý" src="auto">AAFP1----1A---6</AM>
+<AM lemma="letý" src="auto">AAFP4----1A---6</AM>
+<AM lemma="letý" src="auto">AAFP5----1A---6</AM>
+<AM lemma="letý" src="auto">AAFS2----1A---6</AM>
+<AM lemma="letý" src="auto">AAFS3----1A---6</AM>
+<AM lemma="letý" src="auto">AAFS6----1A---6</AM>
+<AM lemma="letý" src="auto">AAIP1----1A---6</AM>
+<AM lemma="letý" src="auto">AAIP4----1A---6</AM>
+<AM lemma="letý" src="auto">AAIP5----1A---6</AM>
+<AM lemma="letý" src="auto">AAIS1----1A----</AM>
+<AM lemma="letý" src="auto">AAIS4----1A----</AM>
+<AM lemma="letý" src="auto">AAIS5----1A----</AM>
+<AM lemma="letý" src="auto">AAMP1----1A---6</AM>
+<AM lemma="letý" src="auto">AAMP4----1A---6</AM>
+<AM lemma="letý" src="auto">AAMP5----1A---6</AM>
+<AM lemma="letý" src="auto" recommended="1">AAMS1----1A----</AM>
+<AM lemma="letý" src="auto">AAMS5----1A----</AM>
+<AM lemma="letý" src="auto">AANP1----1A---6</AM>
+<AM lemma="letý" src="auto">AANP4----1A---6</AM>
+<AM lemma="letý" src="auto">AANP5----1A---6</AM>
+<AM lemma="letý" src="auto">AANS1----1A---6</AM>
+<AM lemma="letý" src="auto">AANS4----1A---6</AM>
+<AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
 <comment>
-<LM type="New Form">
-<text>letý</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1830-001-p1s6W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3322,15 +3292,10 @@
 <w.rf>
 <LM>w#w-wsj1830-001-p1s12W43</LM>
 </w.rf>
-<form>30librových</form>
+<form>30</form>
 <tag>
-<AM lemma="30librových" src="auto">X@-------------</AM>
-<AM lemma="30librový" src="manual">AAFP2----1A----</AM>
-</tag>
+<AM lemma="30" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>30</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1830-001-p1s12W43-Ta-sw1">
@@ -3338,17 +3303,19 @@
 <w.rf>
 <LM>w#w-wsj1830-001-p1s12W43</LM>
 </w.rf>
-<form>30librových</form>
+<form>librových</form>
 <tag>
-<AM lemma="30librových" src="auto">X@-------------</AM>
-<AM lemma="30librový" src="manual">AAFP2----1A----</AM>
-</tag>
+<AM lemma="librový" src="auto" recommended="1">AAFP2----1A----</AM>
+<AM lemma="librový" src="auto">AAFP6----1A----</AM>
+<AM lemma="librový" src="auto">AAIP2----1A----</AM>
+<AM lemma="librový" src="auto">AAIP6----1A----</AM>
+<AM lemma="librový" src="auto">AAMP2----1A----</AM>
+<AM lemma="librový" src="auto">AAMP6----1A----</AM>
+<AM lemma="librový" src="auto">AANP2----1A----</AM>
+<AM lemma="librový" src="auto">AANP6----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>librových</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1830-001-p1s12W44-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -777,17 +777,10 @@
 <w.rf>
 <LM>w#w-wsj0451-001-p1s1W42</LM>
 </w.rf>
-<form>6litrovými</form>
+<form>6</form>
 <tag>
-<AM lemma="6litrový" src="auto">AAFP7----1A----</AM>
-<AM lemma="6litrový" src="auto" recommended="1">AAIP7----1A----</AM>
-<AM lemma="6litrový" src="auto">AAMP7----1A----</AM>
-<AM lemma="6litrový" src="auto">AANP7----1A----</AM>
-</tag>
+<AM lemma="6" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>6</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0451-001-p1s1W42-Ta-sw1">
@@ -795,19 +788,15 @@
 <w.rf>
 <LM>w#w-wsj0451-001-p1s1W42</LM>
 </w.rf>
-<form>6litrovými</form>
+<form>litrovými</form>
 <tag>
-<AM lemma="6litrový" src="auto">AAFP7----1A----</AM>
-<AM lemma="6litrový" src="auto" recommended="1">AAIP7----1A----</AM>
-<AM lemma="6litrový" src="auto">AAMP7----1A----</AM>
-<AM lemma="6litrový" src="auto">AANP7----1A----</AM>
-</tag>
+<AM lemma="litrový" src="auto">AAFP7----1A----</AM>
+<AM lemma="litrový" src="auto" recommended="1">AAIP7----1A----</AM>
+<AM lemma="litrový" src="auto">AAMP7----1A----</AM>
+<AM lemma="litrový" src="auto">AANP7----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>litrovými</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0451-001-p1s1W43-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4864,15 +4853,10 @@
 <w.rf>
 <LM>w#w-wsj0451-001-p1s15W14</LM>
 </w.rf>
-<form>24měsíční</form>
+<form>24</form>
 <tag>
-<AM lemma="24měsíční" src="auto">X@-------------</AM>
-<AM lemma="24měsíční" src="manual">AAIP4----1A----</AM>
-</tag>
+<AM lemma="24" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>24</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0451-001-p1s15W14-Ta-sw1">
@@ -4880,17 +4864,40 @@
 <w.rf>
 <LM>w#w-wsj0451-001-p1s15W14</LM>
 </w.rf>
-<form>24měsíční</form>
+<form>měsíční</form>
 <tag>
-<AM lemma="24měsíční" src="auto">X@-------------</AM>
-<AM lemma="24měsíční" src="manual">AAIP4----1A----</AM>
-</tag>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFP1----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFP4----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFP5----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS1----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS2----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS3----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS4----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS5----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS6----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS7----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIP1----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto" recommended="1">AAIP4----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIP5----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIS1----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIS4----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIS5----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAMP1----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAMP4----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAMP5----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAMS1----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAMS5----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AANP1----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AANP4----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AANP5----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AANS1----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AANS4----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AANS5----1A----</AM>
+<AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP1----1A----</AM>
+<AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>měsíční</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0451-001-p1s15W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

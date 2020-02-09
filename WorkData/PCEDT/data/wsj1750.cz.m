@@ -878,12 +878,11 @@
 <w.rf>
 <LM>w#w-wsj1750-001-p1s1W36</LM>
 </w.rf>
-<form>nezplatí</form>
-<tag lemma="nezplatí" src="auto">X@-------------</tag>
+<form>nesplatí</form>
+<tag>
+<AM lemma="splatit" src="auto">VB-P---3P-NAP--</AM>
+<AM lemma="splatit" src="auto" recommended="1">VB-S---3P-NAP--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>nesplatí</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1750-001-p1s1W37-Ta">
@@ -1110,14 +1109,12 @@
 <w.rf>
 <LM>w#w-wsj1750-001-p1s1W52</LM>
 </w.rf>
-<form>Healthvest</form>
-<tag lemma="Healthvest" src="auto">X@-------------</tag>
+<form>HealthVest</form>
+<tag>
+<AM lemma="HealthVest" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>HealthVest</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1750-001-p1s1W53-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2159,17 +2156,12 @@
 <w.rf>
 <LM>w#w-wsj1750-001-p1s6W12</LM>
 </w.rf>
-<form>50ti</form>
+<form>50</form>
 <tag>
-<AM lemma="50ti" src="auto">X@-------------</AM>
-<AM lemma="50ti`50" src="manual">Cn-P2----------</AM>
-</tag>
+<AM lemma="50" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>50</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1750-001-p1s6W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

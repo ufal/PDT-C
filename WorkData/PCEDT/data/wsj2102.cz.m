@@ -9002,19 +9002,27 @@
 <w.rf>
 <LM>w#w-wsj2102-001-p1s28W20</LM>
 </w.rf>
-<form>světového</form>
+<form>světové</form>
 <tag>
-<AM lemma="světový" src="auto">AAIS2----1A----</AM>
-<AM lemma="světový" src="auto">AAMS2----1A----</AM>
-<AM lemma="světový" src="auto">AAMS4----1A----</AM>
-<AM lemma="světový" src="auto" recommended="1">AANS2----1A----</AM>
-</tag>
+<AM lemma="světový" src="auto">AAFP1----1A----</AM>
+<AM lemma="světový" src="auto">AAFP4----1A----</AM>
+<AM lemma="světový" src="auto">AAFP5----1A----</AM>
+<AM lemma="světový" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="světový" src="auto">AAFS3----1A----</AM>
+<AM lemma="světový" src="auto">AAFS6----1A----</AM>
+<AM lemma="světový" src="auto">AAIP1----1A----</AM>
+<AM lemma="světový" src="auto">AAIP4----1A----</AM>
+<AM lemma="světový" src="auto">AAIP5----1A----</AM>
+<AM lemma="světový" src="auto">AAMP4----1A----</AM>
+<AM lemma="světový" src="auto">AANP1----1A---6</AM>
+<AM lemma="světový" src="auto">AANP4----1A---6</AM>
+<AM lemma="světový" src="auto">AANP5----1A---6</AM>
+<AM lemma="světový" src="auto">AANS1----1A----</AM>
+<AM lemma="světový" src="auto">AANS4----1A----</AM>
+<AM lemma="světový" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>světové</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2102-001-p1s28W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -11601,14 +11609,12 @@
 <w.rf>
 <LM>w#w-wsj2102-001-p1s37W19</LM>
 </w.rf>
-<form>kolumbijců</form>
-<tag lemma="kolumbijců" src="auto">X@-------------</tag>
+<form>Kolumbijců</form>
+<tag>
+<AM lemma="Kolumbijec_;E" src="auto" recommended="1">NNMP2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Kolumbijců</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2102-001-p1s37W20-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -5900,17 +5900,18 @@
 <w.rf>
 <LM>w#w-wsj0280-001-p1s25W2</LM>
 </w.rf>
-<form>společnost</form>
+<form>společnosti</form>
 <tag>
-<AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS4-----A----</AM>
-</tag>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFP1-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>společnosti</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0280-001-p1s25W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6912,19 +6913,40 @@
 <w.rf>
 <LM>w#w-wsj0280-001-p1s29W14</LM>
 </w.rf>
-<form>prodejního</form>
+<form>prodejní</form>
 <tag>
-<AM lemma="prodejní" src="auto">AAIS2----1A----</AM>
-<AM lemma="prodejní" src="auto" recommended="1">AAMS2----1A----</AM>
-<AM lemma="prodejní" src="auto">AAMS4----1A----</AM>
-<AM lemma="prodejní" src="auto">AANS2----1A----</AM>
-</tag>
+<AM lemma="prodejní" src="auto">AAFP1----1A----</AM>
+<AM lemma="prodejní" src="auto">AAFP4----1A----</AM>
+<AM lemma="prodejní" src="auto">AAFP5----1A----</AM>
+<AM lemma="prodejní" src="auto">AAFS1----1A----</AM>
+<AM lemma="prodejní" src="auto">AAFS2----1A----</AM>
+<AM lemma="prodejní" src="auto">AAFS3----1A----</AM>
+<AM lemma="prodejní" src="auto">AAFS4----1A----</AM>
+<AM lemma="prodejní" src="auto">AAFS5----1A----</AM>
+<AM lemma="prodejní" src="auto">AAFS6----1A----</AM>
+<AM lemma="prodejní" src="auto">AAFS7----1A----</AM>
+<AM lemma="prodejní" src="auto">AAIP1----1A----</AM>
+<AM lemma="prodejní" src="auto">AAIP4----1A----</AM>
+<AM lemma="prodejní" src="auto">AAIP5----1A----</AM>
+<AM lemma="prodejní" src="auto">AAIS1----1A----</AM>
+<AM lemma="prodejní" src="auto">AAIS4----1A----</AM>
+<AM lemma="prodejní" src="auto">AAIS5----1A----</AM>
+<AM lemma="prodejní" src="auto">AAMP1----1A----</AM>
+<AM lemma="prodejní" src="auto">AAMP4----1A----</AM>
+<AM lemma="prodejní" src="auto">AAMP5----1A----</AM>
+<AM lemma="prodejní" src="auto" recommended="1">AAMS1----1A----</AM>
+<AM lemma="prodejní" src="auto">AAMS5----1A----</AM>
+<AM lemma="prodejní" src="auto">AANP1----1A----</AM>
+<AM lemma="prodejní" src="auto">AANP4----1A----</AM>
+<AM lemma="prodejní" src="auto">AANP5----1A----</AM>
+<AM lemma="prodejní" src="auto">AANS1----1A----</AM>
+<AM lemma="prodejní" src="auto">AANS4----1A----</AM>
+<AM lemma="prodejní" src="auto">AANS5----1A----</AM>
+<AM lemma="prodejný" src="auto">AAMP1----1A----</AM>
+<AM lemma="prodejný" src="auto">AAMP5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>prodejní</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0280-001-p1s29W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

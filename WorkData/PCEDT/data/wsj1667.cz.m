@@ -361,12 +361,10 @@
 <w.rf>
 <LM>w#w-wsj1667-001-p1s0W25</LM>
 </w.rf>
-<form>,</form>
-<tag lemma="," src="auto" recommended="1">Z:-------------</tag>
+<form>1.5</form>
+<tag>
+<AM lemma="1.5" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>1.5</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1667-001-p1s0W26-Ta">
@@ -374,17 +372,14 @@
 <w.rf>
 <LM>w#w-wsj1667-001-p1s0W26</LM>
 </w.rf>
-<form>5mílovém</form>
+<form>mílovém</form>
 <tag>
-<AM lemma="5mílovém" src="auto">X@-------------</AM>
-<AM lemma="5mílový" src="manual">AAIS6----1A----</AM>
-</tag>
+<AM lemma="mílový" src="auto" recommended="1">AAIS6----1A----</AM>
+<AM lemma="mílový" src="auto">AAMS6----1A----</AM>
+<AM lemma="mílový" src="auto">AANS6----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>mílovém</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1667-001-p1s0W27-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6731,14 +6726,15 @@
 <w.rf>
 <LM>w#w-wsj1667-001-p1s23W15</LM>
 </w.rf>
-<form>sanfraciského</form>
-<tag lemma="sanfraciského" src="auto">X@-------------</tag>
+<form>sanfranciského</form>
+<tag>
+<AM lemma="sanfranciský" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="sanfranciský" src="auto">AAMS2----1A----</AM>
+<AM lemma="sanfranciský" src="auto">AAMS4----1A----</AM>
+<AM lemma="sanfranciský" src="auto">AANS2----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>sanfranciského</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1667-001-p1s23W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

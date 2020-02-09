@@ -2065,30 +2065,15 @@
 <w.rf>
 <LM>w#w-wsj2383-001-p1s5W4</LM>
 </w.rf>
-<form>mluvčí</form>
+<form>mluvčích</form>
 <tag>
-<AM lemma="mluvčí-1" src="auto">NNMP1-----A----</AM>
-<AM lemma="mluvčí-1" src="auto">NNMP4-----A----</AM>
-<AM lemma="mluvčí-1" src="auto">NNMP5-----A----</AM>
-<AM lemma="mluvčí-1" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="mluvčí-1" src="auto">NNMS5-----A----</AM>
-<AM lemma="mluvčí-2" src="auto">NNFP1-----A----</AM>
-<AM lemma="mluvčí-2" src="auto">NNFP4-----A----</AM>
-<AM lemma="mluvčí-2" src="auto">NNFP5-----A----</AM>
-<AM lemma="mluvčí-2" src="auto">NNFS1-----A----</AM>
-<AM lemma="mluvčí-2" src="auto">NNFS2-----A----</AM>
-<AM lemma="mluvčí-2" src="auto">NNFS3-----A----</AM>
-<AM lemma="mluvčí-2" src="auto">NNFS4-----A----</AM>
-<AM lemma="mluvčí-2" src="auto">NNFS5-----A----</AM>
-<AM lemma="mluvčí-2" src="auto">NNFS6-----A----</AM>
-<AM lemma="mluvčí-2" src="auto">NNFS7-----A----</AM>
-</tag>
+<AM lemma="mluvčí-1" src="auto" recommended="1">NNMP2-----A----</AM>
+<AM lemma="mluvčí-1" src="auto">NNMP6-----A----</AM>
+<AM lemma="mluvčí-2" src="auto">NNFP2-----A----</AM>
+<AM lemma="mluvčí-2" src="auto">NNFP6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>mluvčích</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2383-001-p1s5W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -1831,14 +1831,12 @@
 <w.rf>
 <LM>w#w-wsj2379-001-p1s6W3</LM>
 </w.rf>
-<form>?</form>
-<tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
+<form>:</form>
+<tag>
+<AM lemma=":" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>:</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2379-001-p1s6W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

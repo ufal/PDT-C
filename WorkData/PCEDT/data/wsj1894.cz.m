@@ -450,24 +450,14 @@
 <w.rf>
 <LM>w#w-wsj1894-001-p1s0W33</LM>
 </w.rf>
-<form>který</form>
+<form>která</form>
 <tag>
-<AM lemma="který" src="auto">P4FS2---------6</AM>
-<AM lemma="který" src="auto">P4FS3---------6</AM>
-<AM lemma="který" src="auto">P4FS6---------6</AM>
-<AM lemma="který" src="auto">P4IS4----------</AM>
-<AM lemma="který" src="auto">P4NS1---------6</AM>
-<AM lemma="který" src="auto">P4NS4---------6</AM>
-<AM lemma="který" src="auto">P4XP1---------6</AM>
-<AM lemma="který" src="auto">P4XP4---------6</AM>
-<AM lemma="který" src="auto" recommended="1">P4YS1----------</AM>
-</tag>
+<AM lemma="který" src="auto" recommended="1">P4FS1----------</AM>
+<AM lemma="který" src="auto">P4NP1----------</AM>
+<AM lemma="který" src="auto">P4NP4----------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>která</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1894-001-p1s0W34-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1168,14 +1158,34 @@
 <w.rf>
 <LM>w#w-wsj1894-001-p1s2W17</LM>
 </w.rf>
-<form>banknotový</form>
-<tag lemma="banknotový" src="auto">X@-------------</tag>
+<form>bankrotový</form>
+<tag>
+<AM lemma="bankrotový" src="auto">AAFP1----1A---6</AM>
+<AM lemma="bankrotový" src="auto">AAFP4----1A---6</AM>
+<AM lemma="bankrotový" src="auto">AAFP5----1A---6</AM>
+<AM lemma="bankrotový" src="auto">AAFS2----1A---6</AM>
+<AM lemma="bankrotový" src="auto">AAFS3----1A---6</AM>
+<AM lemma="bankrotový" src="auto">AAFS6----1A---6</AM>
+<AM lemma="bankrotový" src="auto">AAIP1----1A---6</AM>
+<AM lemma="bankrotový" src="auto">AAIP4----1A---6</AM>
+<AM lemma="bankrotový" src="auto">AAIP5----1A---6</AM>
+<AM lemma="bankrotový" src="auto">AAIS1----1A----</AM>
+<AM lemma="bankrotový" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="bankrotový" src="auto">AAIS5----1A----</AM>
+<AM lemma="bankrotový" src="auto">AAMP1----1A---6</AM>
+<AM lemma="bankrotový" src="auto">AAMP4----1A---6</AM>
+<AM lemma="bankrotový" src="auto">AAMP5----1A---6</AM>
+<AM lemma="bankrotový" src="auto">AAMS1----1A----</AM>
+<AM lemma="bankrotový" src="auto">AAMS5----1A----</AM>
+<AM lemma="bankrotový" src="auto">AANP1----1A---6</AM>
+<AM lemma="bankrotový" src="auto">AANP4----1A---6</AM>
+<AM lemma="bankrotový" src="auto">AANP5----1A---6</AM>
+<AM lemma="bankrotový" src="auto">AANS1----1A---6</AM>
+<AM lemma="bankrotový" src="auto">AANS4----1A---6</AM>
+<AM lemma="bankrotový" src="auto">AANS5----1A---6</AM></tag>
 <comment>
-<LM type="New Form">
-<text>bankrotový</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1894-001-p1s2W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

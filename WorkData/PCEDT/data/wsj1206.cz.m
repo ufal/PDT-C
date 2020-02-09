@@ -897,25 +897,12 @@
 <w.rf>
 <LM>w#w-wsj1206-001-p1s2W29</LM>
 </w.rf>
-<form>jež</form>
+<form>jenž</form>
 <tag>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJFP1----------</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJFS1----------</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJIP1----------</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJNP1----------</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJNS1----------</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJNS4----------</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJXP4----------</AM>
-<AM lemma="jež-99_:B_;S" src="auto">NNXXX-----A----</AM>
-<AM lemma="ježit" src="auto">Vi-S---2--A-I--</AM>
-<AM lemma="ježit" src="auto">Vi-S---3--A-I-4</AM>
-</tag>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJYS1----------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>jenž</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1206-001-p1s2W30-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

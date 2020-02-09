@@ -1387,14 +1387,12 @@
 <w.rf>
 <LM>w#w-wsj1256-001-p1s5W3</LM>
 </w.rf>
-<form>Rafulem</form>
-<tag lemma="Rafulem" src="auto">X@-------------</tag>
+<form>Rayfulem</form>
+<tag>
+<AM lemma="Rayfulem" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Rayfulem</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1256-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

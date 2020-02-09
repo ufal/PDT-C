@@ -1299,17 +1299,13 @@
 <w.rf>
 <LM>w#w-wsj1565-001-p1s4W11</LM>
 </w.rf>
-<form>Medellin</form>
+<form>Medellín</form>
 <tag>
-<AM lemma="Medellin" src="auto">X@-------------</AM>
-<AM lemma="Medellin-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="Medellín_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Medellín_;G" src="auto">NNIS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Medellín</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1565-001-p1s4W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

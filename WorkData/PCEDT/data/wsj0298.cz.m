@@ -1126,28 +1126,16 @@
 <w.rf>
 <LM>w#w-wsj0298-001-p1s3W9</LM>
 </w.rf>
-<form>americké</form>
+<form>americká</form>
 <tag>
-<AM lemma="americký" src="auto" recommended="1">AAFP1----1A----</AM>
-<AM lemma="americký" src="auto">AAFP4----1A----</AM>
-<AM lemma="americký" src="auto">AAFP5----1A----</AM>
-<AM lemma="americký" src="auto">AAFS2----1A----</AM>
-<AM lemma="americký" src="auto">AAFS3----1A----</AM>
-<AM lemma="americký" src="auto">AAFS6----1A----</AM>
-<AM lemma="americký" src="auto">AAIP1----1A----</AM>
-<AM lemma="americký" src="auto">AAIP4----1A----</AM>
-<AM lemma="americký" src="auto">AAIP5----1A----</AM>
-<AM lemma="americký" src="auto">AAMP4----1A----</AM>
-<AM lemma="americký" src="auto">AANS1----1A----</AM>
-<AM lemma="americký" src="auto">AANS4----1A----</AM>
-<AM lemma="americký" src="auto">AANS5----1A----</AM>
-</tag>
+<AM lemma="americký" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="americký" src="auto">AAFS5----1A----</AM>
+<AM lemma="americký" src="auto">AANP1----1A----</AM>
+<AM lemma="americký" src="auto">AANP4----1A----</AM>
+<AM lemma="americký" src="auto">AANP5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>americká</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0298-001-p1s3W10-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -2814,17 +2814,14 @@
 <w.rf>
 <LM>w#w-wsj1939-001-p1s8W21</LM>
 </w.rf>
-<form>strategií</form>
+<form>strategii</form>
 <tag>
-<AM lemma="strategie" src="auto">NNFP2-----A----</AM>
-<AM lemma="strategie" src="auto" recommended="1">NNFS7-----A----</AM>
-</tag>
+<AM lemma="strategie" src="auto">NNFS3-----A----</AM>
+<AM lemma="strategie" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="strategie" src="auto">NNFS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>strategii</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1939-001-p1s8W22-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

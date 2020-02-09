@@ -1140,17 +1140,14 @@
 <w.rf>
 <LM>w#w-wsj1613-001-p1s4W9</LM>
 </w.rf>
-<form>Institut</form>
+<form>Institute</form>
 <tag>
-<AM lemma="institut" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="institut" src="auto">NNIS4-----A----</AM>
-</tag>
+<AM lemma="Institute-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="institut" src="auto">NNIS5-----A----</AM>
+<AM lemma="institute-77_,t" src="auto">F%-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Institute</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1613-001-p1s4W10-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

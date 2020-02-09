@@ -4858,17 +4858,18 @@
 <w.rf>
 <LM>w#w-wsj0405-001-p1s18W13</LM>
 </w.rf>
-<form>schopností</form>
+<form>schopnosti</form>
 <tag>
-<AM lemma="schopnost_^(*3ý)" src="auto">NNFP2-----A----</AM>
-<AM lemma="schopnost_^(*3ý)" src="auto" recommended="1">NNFS7-----A----</AM>
-</tag>
+<AM lemma="schopnost_^(*3ý)" src="auto">NNFP1-----A----</AM>
+<AM lemma="schopnost_^(*3ý)" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="schopnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
+<AM lemma="schopnost_^(*3ý)" src="auto">NNFS2-----A----</AM>
+<AM lemma="schopnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
+<AM lemma="schopnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
+<AM lemma="schopnost_^(*3ý)" src="auto">NNFS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>schopnosti</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0405-001-p1s18W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8655,17 +8656,18 @@
 <w.rf>
 <LM>w#w-wsj0405-001-p1s34W6</LM>
 </w.rf>
-<form>oblastí</form>
+<form>oblasti</form>
 <tag>
-<AM lemma="oblast" src="auto">NNFP2-----A----</AM>
-<AM lemma="oblast" src="auto" recommended="1">NNFS7-----A----</AM>
-</tag>
+<AM lemma="oblast" src="auto" recommended="1">NNFP1-----A----</AM>
+<AM lemma="oblast" src="auto">NNFP4-----A----</AM>
+<AM lemma="oblast" src="auto">NNFP5-----A----</AM>
+<AM lemma="oblast" src="auto">NNFS2-----A----</AM>
+<AM lemma="oblast" src="auto">NNFS3-----A----</AM>
+<AM lemma="oblast" src="auto">NNFS5-----A----</AM>
+<AM lemma="oblast" src="auto">NNFS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>oblasti</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0405-001-p1s34W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9399,17 +9401,18 @@
 <w.rf>
 <LM>w#w-wsj0405-001-p1s36W23</LM>
 </w.rf>
-<form>schopností</form>
+<form>schopnosti</form>
 <tag>
-<AM lemma="schopnost_^(*3ý)" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="schopnost_^(*3ý)" src="auto">NNFS7-----A----</AM>
-</tag>
+<AM lemma="schopnost_^(*3ý)" src="auto">NNFP1-----A----</AM>
+<AM lemma="schopnost_^(*3ý)" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="schopnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
+<AM lemma="schopnost_^(*3ý)" src="auto">NNFS2-----A----</AM>
+<AM lemma="schopnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
+<AM lemma="schopnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
+<AM lemma="schopnost_^(*3ý)" src="auto">NNFS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>schopnosti</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0405-001-p1s36W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

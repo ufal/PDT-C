@@ -8478,42 +8478,21 @@
 <w.rf>
 <LM>w#w-wsj0745-001-p1s25W8</LM>
 </w.rf>
-<form>zabraňující</form>
+<form>zabraňujícím</form>
 <tag>
-<AM lemma="zabraňující_^(*5ovat)" src="auto">AGFP1-----A----</AM>
-<AM lemma="zabraňující_^(*5ovat)" src="auto">AGFP4-----A----</AM>
-<AM lemma="zabraňující_^(*5ovat)" src="auto">AGFP5-----A----</AM>
-<AM lemma="zabraňující_^(*5ovat)" src="auto">AGFS1-----A----</AM>
-<AM lemma="zabraňující_^(*5ovat)" src="auto">AGFS2-----A----</AM>
-<AM lemma="zabraňující_^(*5ovat)" src="auto">AGFS3-----A----</AM>
-<AM lemma="zabraňující_^(*5ovat)" src="auto">AGFS4-----A----</AM>
-<AM lemma="zabraňující_^(*5ovat)" src="auto">AGFS5-----A----</AM>
-<AM lemma="zabraňující_^(*5ovat)" src="auto">AGFS6-----A----</AM>
-<AM lemma="zabraňující_^(*5ovat)" src="auto">AGFS7-----A----</AM>
-<AM lemma="zabraňující_^(*5ovat)" src="auto">AGIP1-----A----</AM>
-<AM lemma="zabraňující_^(*5ovat)" src="auto">AGIP4-----A----</AM>
-<AM lemma="zabraňující_^(*5ovat)" src="auto">AGIP5-----A----</AM>
-<AM lemma="zabraňující_^(*5ovat)" src="auto">AGIS1-----A----</AM>
-<AM lemma="zabraňující_^(*5ovat)" src="auto">AGIS4-----A----</AM>
-<AM lemma="zabraňující_^(*5ovat)" src="auto">AGIS5-----A----</AM>
-<AM lemma="zabraňující_^(*5ovat)" src="auto">AGMP1-----A----</AM>
-<AM lemma="zabraňující_^(*5ovat)" src="auto">AGMP4-----A----</AM>
-<AM lemma="zabraňující_^(*5ovat)" src="auto">AGMP5-----A----</AM>
-<AM lemma="zabraňující_^(*5ovat)" src="auto">AGMS1-----A----</AM>
-<AM lemma="zabraňující_^(*5ovat)" src="auto">AGMS5-----A----</AM>
-<AM lemma="zabraňující_^(*5ovat)" src="auto">AGNP1-----A----</AM>
-<AM lemma="zabraňující_^(*5ovat)" src="auto">AGNP4-----A----</AM>
-<AM lemma="zabraňující_^(*5ovat)" src="auto">AGNP5-----A----</AM>
-<AM lemma="zabraňující_^(*5ovat)" src="auto">AGNS1-----A----</AM>
-<AM lemma="zabraňující_^(*5ovat)" src="auto" recommended="1">AGNS4-----A----</AM>
-<AM lemma="zabraňující_^(*5ovat)" src="auto">AGNS5-----A----</AM>
-</tag>
+<AM lemma="zabraňující_^(*5ovat)" src="auto">AGFP3-----A----</AM>
+<AM lemma="zabraňující_^(*5ovat)" src="auto">AGIP3-----A----</AM>
+<AM lemma="zabraňující_^(*5ovat)" src="auto">AGIS6-----A----</AM>
+<AM lemma="zabraňující_^(*5ovat)" src="auto">AGIS7-----A----</AM>
+<AM lemma="zabraňující_^(*5ovat)" src="auto">AGMP3-----A----</AM>
+<AM lemma="zabraňující_^(*5ovat)" src="auto">AGMS6-----A----</AM>
+<AM lemma="zabraňující_^(*5ovat)" src="auto">AGMS7-----A----</AM>
+<AM lemma="zabraňující_^(*5ovat)" src="auto">AGNP3-----A----</AM>
+<AM lemma="zabraňující_^(*5ovat)" src="auto" recommended="1">AGNS6-----A----</AM>
+<AM lemma="zabraňující_^(*5ovat)" src="auto">AGNS7-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>zabraňujícím</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0745-001-p1s25W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

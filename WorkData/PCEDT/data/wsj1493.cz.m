@@ -2336,29 +2336,10 @@
 <w.rf>
 <LM>w#w-wsj1493-001-p1s8W11</LM>
 </w.rf>
-<form>19leté</form>
+<form>19</form>
 <tag>
-<AM lemma="19letý" src="auto">AAFP1----1A----</AM>
-<AM lemma="19letý" src="auto">AAFP4----1A----</AM>
-<AM lemma="19letý" src="auto">AAFP5----1A----</AM>
-<AM lemma="19letý" src="auto">AAFS2----1A----</AM>
-<AM lemma="19letý" src="auto">AAFS3----1A----</AM>
-<AM lemma="19letý" src="auto" recommended="1">AAFS6----1A----</AM>
-<AM lemma="19letý" src="auto">AAIP1----1A----</AM>
-<AM lemma="19letý" src="auto">AAIP4----1A----</AM>
-<AM lemma="19letý" src="auto">AAIP5----1A----</AM>
-<AM lemma="19letý" src="auto">AAMP4----1A----</AM>
-<AM lemma="19letý" src="auto">AANP1----1A---6</AM>
-<AM lemma="19letý" src="auto">AANP4----1A---6</AM>
-<AM lemma="19letý" src="auto">AANP5----1A---6</AM>
-<AM lemma="19letý" src="auto">AANS1----1A----</AM>
-<AM lemma="19letý" src="auto">AANS4----1A----</AM>
-<AM lemma="19letý" src="auto">AANS5----1A----</AM>
-</tag>
+<AM lemma="19" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>19</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1493-001-p1s8W11-Ta-sw1">
@@ -2366,31 +2347,27 @@
 <w.rf>
 <LM>w#w-wsj1493-001-p1s8W11</LM>
 </w.rf>
-<form>19leté</form>
+<form>leté</form>
 <tag>
-<AM lemma="19letý" src="auto">AAFP1----1A----</AM>
-<AM lemma="19letý" src="auto">AAFP4----1A----</AM>
-<AM lemma="19letý" src="auto">AAFP5----1A----</AM>
-<AM lemma="19letý" src="auto">AAFS2----1A----</AM>
-<AM lemma="19letý" src="auto">AAFS3----1A----</AM>
-<AM lemma="19letý" src="auto" recommended="1">AAFS6----1A----</AM>
-<AM lemma="19letý" src="auto">AAIP1----1A----</AM>
-<AM lemma="19letý" src="auto">AAIP4----1A----</AM>
-<AM lemma="19letý" src="auto">AAIP5----1A----</AM>
-<AM lemma="19letý" src="auto">AAMP4----1A----</AM>
-<AM lemma="19letý" src="auto">AANP1----1A---6</AM>
-<AM lemma="19letý" src="auto">AANP4----1A---6</AM>
-<AM lemma="19letý" src="auto">AANP5----1A---6</AM>
-<AM lemma="19letý" src="auto">AANS1----1A----</AM>
-<AM lemma="19letý" src="auto">AANS4----1A----</AM>
-<AM lemma="19letý" src="auto">AANS5----1A----</AM>
-</tag>
+<AM lemma="letý" src="auto">AAFP1----1A----</AM>
+<AM lemma="letý" src="auto">AAFP4----1A----</AM>
+<AM lemma="letý" src="auto">AAFP5----1A----</AM>
+<AM lemma="letý" src="auto">AAFS2----1A----</AM>
+<AM lemma="letý" src="auto">AAFS3----1A----</AM>
+<AM lemma="letý" src="auto" recommended="1">AAFS6----1A----</AM>
+<AM lemma="letý" src="auto">AAIP1----1A----</AM>
+<AM lemma="letý" src="auto">AAIP4----1A----</AM>
+<AM lemma="letý" src="auto">AAIP5----1A----</AM>
+<AM lemma="letý" src="auto">AAMP4----1A----</AM>
+<AM lemma="letý" src="auto">AANP1----1A---6</AM>
+<AM lemma="letý" src="auto">AANP4----1A---6</AM>
+<AM lemma="letý" src="auto">AANP5----1A---6</AM>
+<AM lemma="letý" src="auto">AANS1----1A----</AM>
+<AM lemma="letý" src="auto">AANS4----1A----</AM>
+<AM lemma="letý" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>leté</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1493-001-p1s8W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -11053,26 +11030,11 @@
 <w.rf>
 <LM>w#w-wsj1493-001-p1s36W22</LM>
 </w.rf>
-<form>jamajské</form>
+<form>jamajskou</form>
 <tag>
-<AM lemma="jamajský" src="auto">AAFP1----1A----</AM>
-<AM lemma="jamajský" src="auto">AAFP4----1A----</AM>
-<AM lemma="jamajský" src="auto">AAFP5----1A----</AM>
-<AM lemma="jamajský" src="auto">AAFS2----1A----</AM>
-<AM lemma="jamajský" src="auto">AAFS3----1A----</AM>
-<AM lemma="jamajský" src="auto" recommended="1">AAFS6----1A----</AM>
-<AM lemma="jamajský" src="auto">AAIP1----1A----</AM>
-<AM lemma="jamajský" src="auto">AAIP4----1A----</AM>
-<AM lemma="jamajský" src="auto">AAIP5----1A----</AM>
-<AM lemma="jamajský" src="auto">AAMP4----1A----</AM>
-<AM lemma="jamajský" src="auto">AANS1----1A----</AM>
-<AM lemma="jamajský" src="auto">AANS4----1A----</AM>
-<AM lemma="jamajský" src="auto">AANS5----1A----</AM>
-</tag>
+<AM lemma="jamajský" src="auto">AAFS4----1A----</AM>
+<AM lemma="jamajský" src="auto" recommended="1">AAFS7----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>jamajskou</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1493-001-p1s36W23-Ta">
@@ -11080,15 +11042,10 @@
 <w.rf>
 <LM>w#w-wsj1493-001-p1s36W23</LM>
 </w.rf>
-<form>firmě</form>
+<form>firmou</form>
 <tag>
-<AM lemma="firma" src="auto">NNFS3-----A----</AM>
-<AM lemma="firma" src="auto" recommended="1">NNFS6-----A----</AM>
-</tag>
+<AM lemma="firma" src="auto" recommended="1">NNFS7-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>firmou</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1493-001-p1s36W24-Ta">
@@ -11096,31 +11053,13 @@
 <w.rf>
 <LM>w#w-wsj1493-001-p1s36W24</LM>
 </w.rf>
-<form>najaté</form>
+<form>najatou</form>
 <tag>
-<AM lemma="najatý_^(*3mout)" src="auto">AAFP1----1A----</AM>
-<AM lemma="najatý_^(*3mout)" src="auto">AAFP4----1A----</AM>
-<AM lemma="najatý_^(*3mout)" src="auto">AAFP5----1A----</AM>
-<AM lemma="najatý_^(*3mout)" src="auto">AAFS2----1A----</AM>
-<AM lemma="najatý_^(*3mout)" src="auto">AAFS3----1A----</AM>
-<AM lemma="najatý_^(*3mout)" src="auto" recommended="1">AAFS6----1A----</AM>
-<AM lemma="najatý_^(*3mout)" src="auto">AAIP1----1A----</AM>
-<AM lemma="najatý_^(*3mout)" src="auto">AAIP4----1A----</AM>
-<AM lemma="najatý_^(*3mout)" src="auto">AAIP5----1A----</AM>
-<AM lemma="najatý_^(*3mout)" src="auto">AAMP4----1A----</AM>
-<AM lemma="najatý_^(*3mout)" src="auto">AANP1----1A---6</AM>
-<AM lemma="najatý_^(*3mout)" src="auto">AANP4----1A---6</AM>
-<AM lemma="najatý_^(*3mout)" src="auto">AANP5----1A---6</AM>
-<AM lemma="najatý_^(*3mout)" src="auto">AANS1----1A----</AM>
-<AM lemma="najatý_^(*3mout)" src="auto">AANS4----1A----</AM>
-<AM lemma="najatý_^(*3mout)" src="auto">AANS5----1A----</AM>
-</tag>
+<AM lemma="najatý_^(*3mout)" src="auto">AAFS4----1A----</AM>
+<AM lemma="najatý_^(*3mout)" src="auto" recommended="1">AAFS7----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>najatou</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1493-001-p1s36W25-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

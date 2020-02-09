@@ -1053,14 +1053,15 @@
 <w.rf>
 <LM>w#w-wsj1221-001-p1s3W8</LM>
 </w.rf>
-<form>Stret</form>
-<tag lemma="Stret" src="auto">X@-------------</tag>
+<form>Street</form>
+<tag>
+<AM lemma="Street-1_;G" src="auto">NNIS1-----A----</AM>
+<AM lemma="Street-1_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Street-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="street-77" src="auto">F%-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Street</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1221-001-p1s3W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

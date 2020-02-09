@@ -1517,14 +1517,19 @@
 <w.rf>
 <LM>w#w-wsj0161-001-p1s3W9</LM>
 </w.rf>
-<form>nemhmotných</form>
-<tag lemma="nemhmotných" src="auto">X@-------------</tag>
+<form>nehmotných</form>
+<tag>
+<AM lemma="hmotný" src="auto">AAFP2----1N----</AM>
+<AM lemma="hmotný" src="auto">AAFP6----1N----</AM>
+<AM lemma="hmotný" src="auto">AAIP2----1N----</AM>
+<AM lemma="hmotný" src="auto">AAIP6----1N----</AM>
+<AM lemma="hmotný" src="auto">AAMP2----1N----</AM>
+<AM lemma="hmotný" src="auto">AAMP6----1N----</AM>
+<AM lemma="hmotný" src="auto" recommended="1">AANP2----1N----</AM>
+<AM lemma="hmotný" src="auto">AANP6----1N----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>nehmotných</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0161-001-p1s3W10-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

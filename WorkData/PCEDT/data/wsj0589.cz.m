@@ -13921,19 +13921,12 @@
 <w.rf>
 <LM>w#w-wsj0589-001-p1s46W17</LM>
 </w.rf>
-<form>řadu</form>
+<form>řadou</form>
 <tag>
-<AM lemma="řad" src="auto">NNIS2-----A----</AM>
-<AM lemma="řad" src="auto">NNIS3-----A----</AM>
-<AM lemma="řad" src="auto">NNIS6-----A---1</AM>
-<AM lemma="řada_^(linka,zástup,pořadí,...)" src="auto" recommended="1">NNFS4-----A----</AM>
-</tag>
+<AM lemma="řada_^(linka,zástup,pořadí,...)" src="auto" recommended="1">NNFS7-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>řadou</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0589-001-p1s46W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -14653,22 +14646,13 @@
 <w.rf>
 <LM>w#w-wsj0589-001-p1s49W1</LM>
 </w.rf>
-<form>Společnosti</form>
+<form>Společnost</form>
 <tag>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFP1-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS2-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS3-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
-</tag>
+<AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Společnost</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0589-001-p1s49W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -299,18 +299,12 @@
 <w.rf>
 <LM>w#w-wsj1881-001-p1s0W26</LM>
 </w.rf>
-<form>byt</form>
+<form>být</form>
 <tag>
-<AM lemma="byt_^(místo_k_bydlení)" src="auto">NNIS1-----A----</AM>
-<AM lemma="byt_^(místo_k_bydlení)" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="bytový_:B" src="auto">AAXXX----1A---8</AM>
-</tag>
+<AM lemma="být" src="auto" recommended="1">Vf--------A-I--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>být</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1881-001-p1s0W27-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -699,18 +693,12 @@
 <w.rf>
 <LM>w#w-wsj1881-001-p1s2W12</LM>
 </w.rf>
-<form>milionu</form>
+<form>milionů</form>
 <tag>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS3-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS6-----A----</AM>
-</tag>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>milionů</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1881-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9486,17 +9474,16 @@
 <w.rf>
 <LM>w#w-wsj1881-001-p1s31W21</LM>
 </w.rf>
-<form>ve</form>
+<form>v</form>
 <tag>
-<AM lemma="v-1" src="auto">RV--4----------</AM>
-<AM lemma="v-1" src="auto" recommended="1">RV--6----------</AM>
-</tag>
+<AM lemma="v-1" src="auto">RR--4----------</AM>
+<AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
+<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="versus_:B" src="auto">RR--1---------9</AM></tag>
 <comment>
-<LM type="New Form">
-<text>v</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1881-001-p1s31W23-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -11450,14 +11437,12 @@
 <w.rf>
 <LM>w#w-wsj1881-001-p1s40W22</LM>
 </w.rf>
-<form>zalčenit</form>
-<tag lemma="zalčenit" src="auto">X@-------------</tag>
+<form>začlenit</form>
+<tag>
+<AM lemma="začlenit" src="auto" recommended="1">Vf--------A-P--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>začlenit</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1881-001-p1s40W23-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

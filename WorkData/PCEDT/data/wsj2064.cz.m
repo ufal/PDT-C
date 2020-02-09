@@ -767,15 +767,10 @@
 <w.rf>
 <LM>w#w-wsj2064-001-p1s2W22</LM>
 </w.rf>
-<form>90miliardového</form>
+<form>90</form>
 <tag>
-<AM lemma="90miliardového" src="auto">X@-------------</AM>
-<AM lemma="90miliardový" src="manual">AAIS2----1A----</AM>
-</tag>
+<AM lemma="90" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>90</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2064-001-p1s2W22-Ta-sw1">
@@ -783,17 +778,15 @@
 <w.rf>
 <LM>w#w-wsj2064-001-p1s2W22</LM>
 </w.rf>
-<form>90miliardového</form>
+<form>miliardového</form>
 <tag>
-<AM lemma="90miliardového" src="auto">X@-------------</AM>
-<AM lemma="90miliardový" src="manual">AAIS2----1A----</AM>
-</tag>
+<AM lemma="miliardový" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="miliardový" src="auto">AAMS2----1A----</AM>
+<AM lemma="miliardový" src="auto">AAMS4----1A----</AM>
+<AM lemma="miliardový" src="auto">AANS2----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>miliardového</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2064-001-p1s2W23-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9917,26 +9910,14 @@
 <w.rf>
 <LM>w#w-wsj2064-001-p1s32W18</LM>
 </w.rf>
-<form>které</form>
+<form>která</form>
 <tag>
-<AM lemma="který" src="auto">P4FP1----------</AM>
-<AM lemma="který" src="auto">P4FP4----------</AM>
-<AM lemma="který" src="auto">P4FS2----------</AM>
-<AM lemma="který" src="auto">P4FS3----------</AM>
-<AM lemma="který" src="auto">P4FS6----------</AM>
-<AM lemma="který" src="auto" recommended="1">P4IP1----------</AM>
-<AM lemma="který" src="auto">P4NP1---------6</AM>
-<AM lemma="který" src="auto">P4NP4---------6</AM>
-<AM lemma="který" src="auto">P4NS1----------</AM>
-<AM lemma="který" src="auto">P4NS4----------</AM>
-<AM lemma="který" src="auto">P4YP4----------</AM>
-</tag>
+<AM lemma="který" src="auto" recommended="1">P4FS1----------</AM>
+<AM lemma="který" src="auto">P4NP1----------</AM>
+<AM lemma="který" src="auto">P4NP4----------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>která</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2064-001-p1s32W19-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

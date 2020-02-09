@@ -4767,17 +4767,12 @@
 <w.rf>
 <LM>w#w-wsj0288-001-p1s14W23</LM>
 </w.rf>
-<form>lodí</form>
+<form>lodích</form>
 <tag>
-<AM lemma="loď" src="auto">NNFP2-----A----</AM>
-<AM lemma="loď" src="auto" recommended="1">NNFS7-----A----</AM>
-</tag>
+<AM lemma="loď" src="auto" recommended="1">NNFP6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>lodích</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0288-001-p1s14W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9191,26 +9186,15 @@
 <w.rf>
 <LM>w#w-wsj0288-001-p1s26W17</LM>
 </w.rf>
-<form>životním</form>
+<form>životního</form>
 <tag>
-<AM lemma="životní_^(souvisí_se_životem;_prostředí,...)" src="auto">AAFP3----1A----</AM>
-<AM lemma="životní_^(souvisí_se_životem;_prostředí,...)" src="auto">AAIP3----1A----</AM>
-<AM lemma="životní_^(souvisí_se_životem;_prostředí,...)" src="auto">AAIS6----1A----</AM>
-<AM lemma="životní_^(souvisí_se_životem;_prostředí,...)" src="auto">AAIS7----1A----</AM>
-<AM lemma="životní_^(souvisí_se_životem;_prostředí,...)" src="auto">AAMP3----1A----</AM>
-<AM lemma="životní_^(souvisí_se_životem;_prostředí,...)" src="auto">AAMS6----1A----</AM>
-<AM lemma="životní_^(souvisí_se_životem;_prostředí,...)" src="auto">AAMS7----1A----</AM>
-<AM lemma="životní_^(souvisí_se_životem;_prostředí,...)" src="auto">AANP3----1A----</AM>
-<AM lemma="životní_^(souvisí_se_životem;_prostředí,...)" src="auto" recommended="1">AANS6----1A----</AM>
-<AM lemma="životní_^(souvisí_se_životem;_prostředí,...)" src="auto">AANS7----1A----</AM>
-<AM lemma="životnět_,s" src="auto">VB-S---1P-AAI--</AM>
-</tag>
+<AM lemma="životní_^(souvisí_se_životem;_prostředí,...)" src="auto">AAIS2----1A----</AM>
+<AM lemma="životní_^(souvisí_se_životem;_prostředí,...)" src="auto">AAMS2----1A----</AM>
+<AM lemma="životní_^(souvisí_se_životem;_prostředí,...)" src="auto">AAMS4----1A----</AM>
+<AM lemma="životní_^(souvisí_se_životem;_prostředí,...)" src="auto" recommended="1">AANS2----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>životního</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0288-001-p1s26W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

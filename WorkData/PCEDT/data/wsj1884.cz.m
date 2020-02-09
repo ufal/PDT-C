@@ -3845,19 +3845,14 @@
 <w.rf>
 <LM>w#w-wsj1884-001-p1s12W6</LM>
 </w.rf>
-<form>plného</form>
+<form>plném</form>
 <tag>
-<AM lemma="plný" src="auto" recommended="1">AAIS2----1A----</AM>
-<AM lemma="plný" src="auto">AAMS2----1A----</AM>
-<AM lemma="plný" src="auto">AAMS4----1A----</AM>
-<AM lemma="plný" src="auto">AANS2----1A----</AM>
-</tag>
+<AM lemma="plný" src="auto">AAIS6----1A----</AM>
+<AM lemma="plný" src="auto">AAMS6----1A----</AM>
+<AM lemma="plný" src="auto" recommended="1">AANS6----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>plném</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1884-001-p1s12W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -14120,15 +14115,10 @@
 <w.rf>
 <LM>w#w-wsj1884-001-p1s36W11</LM>
 </w.rf>
-<form>14bodovém</form>
+<form>14</form>
 <tag>
-<AM lemma="14bodovém" src="auto">X@-------------</AM>
-<AM lemma="14bodový" src="manual">AANS6----1A----</AM>
-</tag>
+<AM lemma="14" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>14</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1884-001-p1s36W11-Ta-sw1">
@@ -14136,17 +14126,14 @@
 <w.rf>
 <LM>w#w-wsj1884-001-p1s36W11</LM>
 </w.rf>
-<form>14bodovém</form>
+<form>bodovém</form>
 <tag>
-<AM lemma="14bodovém" src="auto">X@-------------</AM>
-<AM lemma="14bodový" src="manual">AANS6----1A----</AM>
-</tag>
+<AM lemma="bodový" src="auto">AAIS6----1A----</AM>
+<AM lemma="bodový" src="auto">AAMS6----1A----</AM>
+<AM lemma="bodový" src="auto" recommended="1">AANS6----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>bodovém</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1884-001-p1s36W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

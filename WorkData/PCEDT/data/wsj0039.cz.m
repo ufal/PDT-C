@@ -2962,14 +2962,14 @@
 <w.rf>
 <LM>w#w-wsj0039-001-p1s10W3</LM>
 </w.rf>
-<form>fimu</form>
-<tag lemma="fimu" src="auto">X@-------------</tag>
+<form>filmu</form>
+<tag>
+<AM lemma="film" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="film" src="auto">NNIS3-----A----</AM>
+<AM lemma="film" src="auto">NNIS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>filmu</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0039-001-p1s10W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8329,17 +8329,18 @@
 <w.rf>
 <LM>w#w-wsj0039-001-p1s32W7</LM>
 </w.rf>
-<form>Louiseová</form>
+<form>Louise</form>
 <tag>
-<AM lemma="Louiseová" src="auto">X@-------------</AM>
-<AM lemma="Louiseová_;S_,i" src="manual">NNFS1-----A----</AM>
-</tag>
+<AM lemma="Louis-2_;G_^(př._St._Louis)" src="auto">NNIS5-----A----</AM>
+<AM lemma="Louis-3_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Louis-3_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Louis-3_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Louisa_;Y_,t" src="auto">NNFS3-----A----</AM>
+<AM lemma="Louisa_;Y_,t" src="auto">NNFS6-----A----</AM>
+<AM lemma="Louise_;Y" src="auto" recommended="1">NNFXX-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Louise</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0039-001-p1s32W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9276,17 +9277,18 @@
 <w.rf>
 <LM>w#w-wsj0039-001-p1s37W3</LM>
 </w.rf>
-<form>Louiseová</form>
+<form>Louise</form>
 <tag>
-<AM lemma="Louiseová" src="auto">X@-------------</AM>
-<AM lemma="Louiseová_;S_,i" src="manual">NNFS1-----A----</AM>
-</tag>
+<AM lemma="Louis-2_;G_^(př._St._Louis)" src="auto">NNIS5-----A----</AM>
+<AM lemma="Louis-3_;Y" src="auto">NNMP4-----A----</AM>
+<AM lemma="Louis-3_;Y" src="auto">NNMS2-----A----</AM>
+<AM lemma="Louis-3_;Y" src="auto">NNMS4-----A----</AM>
+<AM lemma="Louisa_;Y_,t" src="auto">NNFS3-----A----</AM>
+<AM lemma="Louisa_;Y_,t" src="auto">NNFS6-----A----</AM>
+<AM lemma="Louise_;Y" src="auto" recommended="1">NNFXX-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Louise</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0039-001-p1s37W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

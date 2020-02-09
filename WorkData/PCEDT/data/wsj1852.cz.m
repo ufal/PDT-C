@@ -9060,14 +9060,12 @@
 <w.rf>
 <LM>w#w-wsj1852-001-p1s28W22</LM>
 </w.rf>
-<form>zřídili</form>
-<tag lemma="zřídit" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<form>zřídily</form>
+<tag>
+<AM lemma="zřídit" src="auto" recommended="1">VpTP---XR-AAP--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>zřídily</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1852-001-p1s28W23-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

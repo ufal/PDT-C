@@ -480,14 +480,12 @@
 <w.rf>
 <LM>w#w-wsj1544-001-p1s1W9</LM>
 </w.rf>
-<form>Hershhensona</form>
-<tag lemma="Hershhensona" src="auto">X@-------------</tag>
+<form>Hershensona</form>
+<tag>
+<AM lemma="Hershensona" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Hershensona</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1544-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

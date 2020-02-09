@@ -649,14 +649,20 @@
 <w.rf>
 <LM>w#w-wsj2088-001-p1s1W1</LM>
 </w.rf>
-<form>Hollanderaova</form>
-<tag lemma="Hollanderaova" src="auto">X@-------------</tag>
+<form>Hollanderova</form>
+<tag>
+<AM lemma="Hollanderův_;S_^(*2)" src="auto" recommended="1">AUFS1M---------</AM>
+<AM lemma="Hollanderův_;S_^(*2)" src="auto">AUFS5M---------</AM>
+<AM lemma="Hollanderův_;S_^(*2)" src="auto">AUIS2M---------</AM>
+<AM lemma="Hollanderův_;S_^(*2)" src="auto">AUMS2M---------</AM>
+<AM lemma="Hollanderův_;S_^(*2)" src="auto">AUMS4M---------</AM>
+<AM lemma="Hollanderův_;S_^(*2)" src="auto">AUNP1M---------</AM>
+<AM lemma="Hollanderův_;S_^(*2)" src="auto">AUNP4M---------</AM>
+<AM lemma="Hollanderův_;S_^(*2)" src="auto">AUNP5M---------</AM>
+<AM lemma="Hollanderův_;S_^(*2)" src="auto">AUNS2M---------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Hollanderova</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2088-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -2702,18 +2702,12 @@
 <w.rf>
 <LM>w#w-wsj0409-001-p1s13W2</LM>
 </w.rf>
-<form>lidi</form>
+<form>lidí</form>
 <tag>
-<AM lemma="člověk" src="auto">NNMP1-----A----</AM>
-<AM lemma="člověk" src="auto" recommended="1">NNMP4-----A----</AM>
-<AM lemma="člověk" src="auto">NNMP5-----A----</AM>
-</tag>
+<AM lemma="člověk" src="auto" recommended="1">NNMP2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>lidí</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0409-001-p1s13W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5481,12 +5475,10 @@
 <w.rf>
 <LM>w#w-wsj0409-001-p1s22W15</LM>
 </w.rf>
-<form>milionům</form>
-<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP3-----A----</tag>
+<form>milionů</form>
+<tag>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>milionů</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0409-001-p1s22W16-Ta">
@@ -5550,17 +5542,27 @@
 <w.rf>
 <LM>w#w-wsj0409-001-p1s22W23</LM>
 </w.rf>
-<form>plně</form>
+<form>plné</form>
 <tag>
-<AM lemma="plnit" src="auto">VeYS------A-I--</AM>
-<AM lemma="plně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
-</tag>
+<AM lemma="plný" src="auto" recommended="1">AAFP1----1A----</AM>
+<AM lemma="plný" src="auto">AAFP4----1A----</AM>
+<AM lemma="plný" src="auto">AAFP5----1A----</AM>
+<AM lemma="plný" src="auto">AAFS2----1A----</AM>
+<AM lemma="plný" src="auto">AAFS3----1A----</AM>
+<AM lemma="plný" src="auto">AAFS6----1A----</AM>
+<AM lemma="plný" src="auto">AAIP1----1A----</AM>
+<AM lemma="plný" src="auto">AAIP4----1A----</AM>
+<AM lemma="plný" src="auto">AAIP5----1A----</AM>
+<AM lemma="plný" src="auto">AAMP4----1A----</AM>
+<AM lemma="plný" src="auto">AANP1----1A---6</AM>
+<AM lemma="plný" src="auto">AANP4----1A---6</AM>
+<AM lemma="plný" src="auto">AANP5----1A---6</AM>
+<AM lemma="plný" src="auto">AANS1----1A----</AM>
+<AM lemma="plný" src="auto">AANS4----1A----</AM>
+<AM lemma="plný" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>plné</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0409-001-p1s22W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

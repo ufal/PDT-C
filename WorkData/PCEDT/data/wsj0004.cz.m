@@ -1731,17 +1731,12 @@
 <w.rf>
 <LM>w#w-wsj0004-001-p1s5W10</LM>
 </w.rf>
-<form>zazeb</form>
+<form>sazeb</form>
 <tag>
-<AM lemma="zazábst_,s" src="auto" recommended="1">Vi-S---2--A-P--</AM>
-<AM lemma="zazábst_,s" src="auto">Vi-S---3--A-P-4</AM>
-</tag>
+<AM lemma="sazba" src="auto" recommended="1">NNFP2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>sazeb</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0004-001-p1s5W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

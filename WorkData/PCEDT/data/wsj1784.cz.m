@@ -5384,38 +5384,19 @@
 <w.rf>
 <LM>w#w-wsj1784-001-p1s18W7</LM>
 </w.rf>
-<form>cenný</form>
+<form>cenných</form>
 <tag>
-<AM lemma="cenný" src="auto">AAFP1----1A---6</AM>
-<AM lemma="cenný" src="auto">AAFP4----1A---6</AM>
-<AM lemma="cenný" src="auto">AAFP5----1A---6</AM>
-<AM lemma="cenný" src="auto">AAFS2----1A---6</AM>
-<AM lemma="cenný" src="auto">AAFS3----1A---6</AM>
-<AM lemma="cenný" src="auto">AAFS6----1A---6</AM>
-<AM lemma="cenný" src="auto">AAIP1----1A---6</AM>
-<AM lemma="cenný" src="auto">AAIP4----1A---6</AM>
-<AM lemma="cenný" src="auto">AAIP5----1A---6</AM>
-<AM lemma="cenný" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="cenný" src="auto">AAIS4----1A----</AM>
-<AM lemma="cenný" src="auto">AAIS5----1A----</AM>
-<AM lemma="cenný" src="auto">AAMP1----1A---6</AM>
-<AM lemma="cenný" src="auto">AAMP4----1A---6</AM>
-<AM lemma="cenný" src="auto">AAMP5----1A---6</AM>
-<AM lemma="cenný" src="auto">AAMS1----1A----</AM>
-<AM lemma="cenný" src="auto">AAMS5----1A----</AM>
-<AM lemma="cenný" src="auto">AANP1----1A---6</AM>
-<AM lemma="cenný" src="auto">AANP4----1A---6</AM>
-<AM lemma="cenný" src="auto">AANP5----1A---6</AM>
-<AM lemma="cenný" src="auto">AANS1----1A---6</AM>
-<AM lemma="cenný" src="auto">AANS4----1A---6</AM>
-<AM lemma="cenný" src="auto">AANS5----1A---6</AM>
-</tag>
+<AM lemma="cenný" src="auto">AAFP2----1A----</AM>
+<AM lemma="cenný" src="auto">AAFP6----1A----</AM>
+<AM lemma="cenný" src="auto" recommended="1">AAIP2----1A----</AM>
+<AM lemma="cenný" src="auto">AAIP6----1A----</AM>
+<AM lemma="cenný" src="auto">AAMP2----1A----</AM>
+<AM lemma="cenný" src="auto">AAMP6----1A----</AM>
+<AM lemma="cenný" src="auto">AANP2----1A----</AM>
+<AM lemma="cenný" src="auto">AANP6----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>cenných</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1784-001-p1s18W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6107,14 +6088,25 @@
 <w.rf>
 <LM>w#w-wsj1784-001-p1s21W20</LM>
 </w.rf>
-<form>svém</form>
-<tag lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS6----------</tag>
+<form>své</form>
+<tag>
+<AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP1---------1</AM>
+<AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP4---------1</AM>
+<AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS2---------1</AM>
+<AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS3---------1</AM>
+<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS6---------1</AM>
+<AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP1---------1</AM>
+<AM lemma="svůj-1_^(přivlast.)" src="auto">P8IP5---------1</AM>
+<AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS1---------1</AM>
+<AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS4---------1</AM>
+<AM lemma="svůj-1_^(přivlast.)" src="auto">P8NS5---------1</AM>
+<AM lemma="svůj-1_^(přivlast.)" src="auto">P8YP4---------1</AM>
+<AM lemma="svůj-2_^(být_svůj)" src="auto">AOFP-----------</AM>
+<AM lemma="svůj-2_^(být_svůj)" src="auto">AOIP-----------</AM>
+<AM lemma="svůj-2_^(být_svůj)" src="auto">AONS-----------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>své</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1784-001-p1s21W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6578,14 +6570,12 @@
 <w.rf>
 <LM>w#w-wsj1784-001-p1s22W16</LM>
 </w.rf>
-<form>bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AAI--</tag>
+<form>byl</form>
+<tag>
+<AM lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>byl</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1784-001-p1s22W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7565,15 +7555,11 @@
 <w.rf>
 <LM>w#w-wsj1784-001-p1s25W14</LM>
 </w.rf>
-<form>Trim'</form>
+<form>Trim</form>
 <tag>
-<AM lemma="Trim'" src="auto">X@-------------</AM>
-<AM lemma="Trim'-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="trim" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="trim" src="auto">NNIS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Trim</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1784-001-p1s25W14-Ta-sw1">
@@ -7581,17 +7567,12 @@
 <w.rf>
 <LM>w#w-wsj1784-001-p1s25W14</LM>
 </w.rf>
-<form>Trim'</form>
+<form>'</form>
 <tag>
-<AM lemma="Trim'" src="auto">X@-------------</AM>
-<AM lemma="Trim'-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1784-001-p1s25W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

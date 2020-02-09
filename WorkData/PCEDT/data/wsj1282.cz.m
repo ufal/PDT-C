@@ -1526,14 +1526,12 @@
 <w.rf>
 <LM>w#w-wsj1282-001-p1s5W15</LM>
 </w.rf>
-<form>Jerrel</form>
-<tag lemma="Jerrel" src="auto">X@-------------</tag>
+<form>Jerell</form>
+<tag>
+<AM lemma="Jerell" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Jerell</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1282-001-p1s5W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2001,23 +1999,12 @@
 <w.rf>
 <LM>w#w-wsj1282-001-p1s8W4</LM>
 </w.rf>
-<form>Garrettové</form>
+<form>Garrattové</form>
 <tag>
-<AM lemma="Garrett_;S" src="auto">NNMP1-----A----</AM>
-<AM lemma="Garrett_;S" src="auto">NNMP5-----A----</AM>
-<AM lemma="Garrettová_;S" src="auto">NNFP1-----A----</AM>
-<AM lemma="Garrettová_;S" src="auto">NNFP4-----A----</AM>
-<AM lemma="Garrettová_;S" src="auto">NNFP5-----A----</AM>
-<AM lemma="Garrettová_;S" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="Garrettová_;S" src="auto">NNFS3-----A----</AM>
-<AM lemma="Garrettová_;S" src="auto">NNFS6-----A----</AM>
-</tag>
+<AM lemma="Garrattové" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Garrattové</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1282-001-p1s8W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

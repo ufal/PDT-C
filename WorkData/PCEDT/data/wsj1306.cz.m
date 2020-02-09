@@ -1229,15 +1229,10 @@
 <w.rf>
 <LM>w#w-wsj1306-001-p1s4W19</LM>
 </w.rf>
-<form>10miliardový</form>
+<form>10</form>
 <tag>
-<AM lemma="10miliardový" src="auto">X@-------------</AM>
-<AM lemma="10miliardový" src="manual">AAIS4----1A----</AM>
-</tag>
+<AM lemma="10" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>10</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1306-001-p1s4W19-Ta-sw1">
@@ -1245,17 +1240,34 @@
 <w.rf>
 <LM>w#w-wsj1306-001-p1s4W19</LM>
 </w.rf>
-<form>10miliardový</form>
+<form>miliardový</form>
 <tag>
-<AM lemma="10miliardový" src="auto">X@-------------</AM>
-<AM lemma="10miliardový" src="manual">AAIS4----1A----</AM>
-</tag>
+<AM lemma="miliardový" src="auto">AAFP1----1A---6</AM>
+<AM lemma="miliardový" src="auto">AAFP4----1A---6</AM>
+<AM lemma="miliardový" src="auto">AAFP5----1A---6</AM>
+<AM lemma="miliardový" src="auto">AAFS2----1A---6</AM>
+<AM lemma="miliardový" src="auto">AAFS3----1A---6</AM>
+<AM lemma="miliardový" src="auto">AAFS6----1A---6</AM>
+<AM lemma="miliardový" src="auto">AAIP1----1A---6</AM>
+<AM lemma="miliardový" src="auto">AAIP4----1A---6</AM>
+<AM lemma="miliardový" src="auto">AAIP5----1A---6</AM>
+<AM lemma="miliardový" src="auto">AAIS1----1A----</AM>
+<AM lemma="miliardový" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="miliardový" src="auto">AAIS5----1A----</AM>
+<AM lemma="miliardový" src="auto">AAMP1----1A---6</AM>
+<AM lemma="miliardový" src="auto">AAMP4----1A---6</AM>
+<AM lemma="miliardový" src="auto">AAMP5----1A---6</AM>
+<AM lemma="miliardový" src="auto">AAMS1----1A----</AM>
+<AM lemma="miliardový" src="auto">AAMS5----1A----</AM>
+<AM lemma="miliardový" src="auto">AANP1----1A---6</AM>
+<AM lemma="miliardový" src="auto">AANP4----1A---6</AM>
+<AM lemma="miliardový" src="auto">AANP5----1A---6</AM>
+<AM lemma="miliardový" src="auto">AANS1----1A---6</AM>
+<AM lemma="miliardový" src="auto">AANS4----1A---6</AM>
+<AM lemma="miliardový" src="auto">AANS5----1A---6</AM></tag>
 <comment>
-<LM type="New Form">
-<text>miliardový</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1306-001-p1s4W20-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -4477,19 +4477,38 @@
 <w.rf>
 <LM>w#w-wsj2339-001-p1s14W20</LM>
 </w.rf>
-<form>mimosoudního</form>
+<form>mimosoudní</form>
 <tag>
-<AM lemma="mimosoudní" src="auto">AAIS2----1A----</AM>
-<AM lemma="mimosoudní" src="auto">AAMS2----1A----</AM>
-<AM lemma="mimosoudní" src="auto">AAMS4----1A----</AM>
-<AM lemma="mimosoudní" src="auto" recommended="1">AANS2----1A----</AM>
-</tag>
+<AM lemma="mimosoudní" src="auto">AAFP1----1A----</AM>
+<AM lemma="mimosoudní" src="auto">AAFP4----1A----</AM>
+<AM lemma="mimosoudní" src="auto">AAFP5----1A----</AM>
+<AM lemma="mimosoudní" src="auto">AAFS1----1A----</AM>
+<AM lemma="mimosoudní" src="auto">AAFS2----1A----</AM>
+<AM lemma="mimosoudní" src="auto">AAFS3----1A----</AM>
+<AM lemma="mimosoudní" src="auto">AAFS4----1A----</AM>
+<AM lemma="mimosoudní" src="auto">AAFS5----1A----</AM>
+<AM lemma="mimosoudní" src="auto">AAFS6----1A----</AM>
+<AM lemma="mimosoudní" src="auto">AAFS7----1A----</AM>
+<AM lemma="mimosoudní" src="auto">AAIP1----1A----</AM>
+<AM lemma="mimosoudní" src="auto">AAIP4----1A----</AM>
+<AM lemma="mimosoudní" src="auto">AAIP5----1A----</AM>
+<AM lemma="mimosoudní" src="auto">AAIS1----1A----</AM>
+<AM lemma="mimosoudní" src="auto">AAIS4----1A----</AM>
+<AM lemma="mimosoudní" src="auto">AAIS5----1A----</AM>
+<AM lemma="mimosoudní" src="auto">AAMP1----1A----</AM>
+<AM lemma="mimosoudní" src="auto">AAMP4----1A----</AM>
+<AM lemma="mimosoudní" src="auto">AAMP5----1A----</AM>
+<AM lemma="mimosoudní" src="auto">AAMS1----1A----</AM>
+<AM lemma="mimosoudní" src="auto">AAMS5----1A----</AM>
+<AM lemma="mimosoudní" src="auto">AANP1----1A----</AM>
+<AM lemma="mimosoudní" src="auto">AANP4----1A----</AM>
+<AM lemma="mimosoudní" src="auto">AANP5----1A----</AM>
+<AM lemma="mimosoudní" src="auto" recommended="1">AANS1----1A----</AM>
+<AM lemma="mimosoudní" src="auto">AANS4----1A----</AM>
+<AM lemma="mimosoudní" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>mimosoudní</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2339-001-p1s14W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5992,17 +6011,12 @@
 <w.rf>
 <LM>w#w-wsj2339-001-p1s18W41</LM>
 </w.rf>
-<form>Emmeryville</form>
+<form>Emeryville</form>
 <tag>
-<AM lemma="Emmeryville" src="auto">X@-------------</AM>
-<AM lemma="Emmeryville_;G" src="manual">NNNXX-----A----</AM>
-</tag>
+<AM lemma="Emeryville" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Emeryville</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2339-001-p1s18W42-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

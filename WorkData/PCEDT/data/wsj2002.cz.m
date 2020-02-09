@@ -677,14 +677,16 @@
 <w.rf>
 <LM>w#w-wsj2002-001-p1s2W15</LM>
 </w.rf>
-<form>vytvořeno</form>
-<tag lemma="vytvořit" src="auto" recommended="1">VsNS---XX-APP--</tag>
+<form>vytvořená</form>
+<tag>
+<AM lemma="vytvořený_^(*3it)" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="vytvořený_^(*3it)" src="auto">AAFS5----1A----</AM>
+<AM lemma="vytvořený_^(*3it)" src="auto">AANP1----1A----</AM>
+<AM lemma="vytvořený_^(*3it)" src="auto">AANP4----1A----</AM>
+<AM lemma="vytvořený_^(*3it)" src="auto">AANP5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>vytvořená</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2002-001-p1s2W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

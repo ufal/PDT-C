@@ -99,15 +99,10 @@
 <w.rf>
 <LM>w#w-wsj0372-001-p1s0W10</LM>
 </w.rf>
-<form>27milionový</form>
+<form>27</form>
 <tag>
-<AM lemma="27milionový" src="auto">X@-------------</AM>
-<AM lemma="27milionový_,s_^(^DD**27miliónový)" src="manual">AAIS4----1A----</AM>
-</tag>
+<AM lemma="27" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>27</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0372-001-p1s0W10-Ta-sw1">
@@ -115,17 +110,34 @@
 <w.rf>
 <LM>w#w-wsj0372-001-p1s0W10</LM>
 </w.rf>
-<form>27milionový</form>
+<form>milionový</form>
 <tag>
-<AM lemma="27milionový" src="auto">X@-------------</AM>
-<AM lemma="27milionový_,s_^(^DD**27miliónový)" src="manual">AAIS4----1A----</AM>
-</tag>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AAFP1----1A---6</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AAFP4----1A---6</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AAFP5----1A---6</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AAFS2----1A---6</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AAFS3----1A---6</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AAFS6----1A---6</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AAIP1----1A---6</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AAIP4----1A---6</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AAIP5----1A---6</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AAIS1----1A----</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AAIS5----1A----</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AAMP1----1A---6</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AAMP4----1A---6</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AAMP5----1A---6</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AAMS1----1A----</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AAMS5----1A----</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AANP1----1A---6</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AANP4----1A---6</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AANP5----1A---6</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AANS1----1A---6</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AANS4----1A---6</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AANS5----1A---6</AM></tag>
 <comment>
-<LM type="New Form">
-<text>milionový</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0372-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

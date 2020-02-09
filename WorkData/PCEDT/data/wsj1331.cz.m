@@ -1743,18 +1743,22 @@
 <w.rf>
 <LM>w#w-wsj1331-001-p1s4W19</LM>
 </w.rf>
-<form>hlavnímu</form>
+<form>hlavním</form>
 <tag>
-<AM lemma="hlavní" src="auto">AAIS3----1A----</AM>
-<AM lemma="hlavní" src="auto" recommended="1">AAMS3----1A----</AM>
-<AM lemma="hlavní" src="auto">AANS3----1A----</AM>
-</tag>
+<AM lemma="hlaveň" src="auto">NNFP3-----A----</AM>
+<AM lemma="hlavní" src="auto">AAFP3----1A----</AM>
+<AM lemma="hlavní" src="auto">AAIP3----1A----</AM>
+<AM lemma="hlavní" src="auto">AAIS6----1A----</AM>
+<AM lemma="hlavní" src="auto">AAIS7----1A----</AM>
+<AM lemma="hlavní" src="auto">AAMP3----1A----</AM>
+<AM lemma="hlavní" src="auto" recommended="1">AAMS6----1A----</AM>
+<AM lemma="hlavní" src="auto">AAMS7----1A----</AM>
+<AM lemma="hlavní" src="auto">AANP3----1A----</AM>
+<AM lemma="hlavní" src="auto">AANS6----1A----</AM>
+<AM lemma="hlavní" src="auto">AANS7----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>hlavním</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1331-001-p1s4W20-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5237,14 +5241,15 @@
 <w.rf>
 <LM>w#w-wsj1331-001-p1s18W2</LM>
 </w.rf>
-<form>nezúčastěnými</form>
-<tag lemma="nezúčastěnými" src="auto">X@-------------</tag>
+<form>nezúčastněnými</form>
+<tag>
+<AM lemma="zúčastněný_^(*3it)" src="auto">AAFP7----1N----</AM>
+<AM lemma="zúčastněný_^(*3it)" src="auto">AAIP7----1N----</AM>
+<AM lemma="zúčastněný_^(*3it)" src="auto" recommended="1">AAMP7----1N----</AM>
+<AM lemma="zúčastněný_^(*3it)" src="auto">AANP7----1N----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>nezúčastněnými</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1331-001-p1s18W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

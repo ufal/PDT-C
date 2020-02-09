@@ -5155,14 +5155,12 @@
 <w.rf>
 <LM>w#w-wsj0976-001-p1s16W39</LM>
 </w.rf>
-<form>Tojka</form>
-<tag lemma="Tojka" src="auto">X@-------------</tag>
+<form>Trojka</form>
+<tag>
+<AM lemma="trojka" src="auto" recommended="1">NNFS1-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Trojka</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0976-001-p1s16W40-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

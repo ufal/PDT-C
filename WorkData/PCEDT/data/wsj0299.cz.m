@@ -370,14 +370,12 @@
 <LM>w#w-wsj0299-001-p1s1W6</LM>
 </w.rf>
 <form_change>num_normalization</form_change>
-<form>991875</form>
-<tag lemma="991875" src="auto" recommended="1">C=-------------</tag>
+<form>99.1875</form>
+<tag>
+<AM lemma="99.1875" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>99.1875</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0299-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

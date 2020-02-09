@@ -1273,14 +1273,15 @@
 <w.rf>
 <LM>w#w-wsj1432-001-p1s3W17</LM>
 </w.rf>
-<form>pekigského</form>
-<tag lemma="pekigského" src="auto">X@-------------</tag>
+<form>pekingského</form>
+<tag>
+<AM lemma="pekingský" src="auto">AAIS2----1A----</AM>
+<AM lemma="pekingský" src="auto">AAMS2----1A----</AM>
+<AM lemma="pekingský" src="auto">AAMS4----1A----</AM>
+<AM lemma="pekingský" src="auto" recommended="1">AANS2----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>pekingského</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1432-001-p1s3W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

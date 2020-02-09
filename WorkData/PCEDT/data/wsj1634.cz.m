@@ -21653,25 +21653,14 @@
 <w.rf>
 <LM>w#w-wsj1634-001-p1s85W37</LM>
 </w.rf>
-<form>Tomy</form>
+<form>Tommy</form>
 <tag>
-<AM lemma="Tom_;Y" src="auto">NNMP4-----A----</AM>
-<AM lemma="Tom_;Y" src="auto">NNMP7-----A----</AM>
-<AM lemma="Toma-1_;G_;K" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="Toma-1_;G_;K" src="auto">NNFP4-----A----</AM>
-<AM lemma="Toma-1_;G_;K" src="auto">NNFP5-----A----</AM>
-<AM lemma="Toma-1_;G_;K" src="auto">NNFS2-----A----</AM>
-<AM lemma="Toma-2_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Toma-2_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Toma-2_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Tomo_;G" src="auto">NNNP7-----A----</AM>
-</tag>
+<AM lemma="Tommy_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Tommy_;Y_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="Tommy_;Y_,t" src="auto">NNMXX-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Tommy</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1634-001-p1s85W38-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -23252,14 +23241,19 @@
 <w.rf>
 <LM>w#w-wsj1634-001-p1s91W12</LM>
 </w.rf>
-<form>ranných</form>
-<tag lemma="ranných" src="auto">X@-------------</tag>
+<form>raných</form>
+<tag>
+<AM lemma="raný" src="auto">AAFP2----1A----</AM>
+<AM lemma="raný" src="auto">AAFP6----1A----</AM>
+<AM lemma="raný" src="auto">AAIP2----1A----</AM>
+<AM lemma="raný" src="auto">AAIP6----1A----</AM>
+<AM lemma="raný" src="auto">AAMP2----1A----</AM>
+<AM lemma="raný" src="auto">AAMP6----1A----</AM>
+<AM lemma="raný" src="auto">AANP2----1A----</AM>
+<AM lemma="raný" src="auto" recommended="1">AANP6----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>raných</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1634-001-p1s91W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -26576,14 +26570,13 @@
 <w.rf>
 <LM>w#w-wsj1634-001-p1s104W2</LM>
 </w.rf>
-<form>Gubers</form>
-<tag lemma="Gubers" src="auto">X@-------------</tag>
+<form>Guber</form>
+<tag>
+<AM lemma="Guber_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Guber_;G" src="auto">NNIS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Guber</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1634-001-p1s104W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

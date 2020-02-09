@@ -5899,14 +5899,13 @@
 <w.rf>
 <LM>w#w-wsj1970-001-p1s18W30</LM>
 </w.rf>
-<form>postatě</form>
-<tag lemma="postatě" src="auto">X@-------------</tag>
+<form>podstatě</form>
+<tag>
+<AM lemma="podstata" src="auto">NNFS3-----A----</AM>
+<AM lemma="podstata" src="auto" recommended="1">NNFS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>podstatě</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1970-001-p1s18W31-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

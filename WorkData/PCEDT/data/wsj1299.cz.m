@@ -2249,17 +2249,38 @@
 <w.rf>
 <LM>w#w-wsj1299-001-p1s5W25</LM>
 </w.rf>
-<form>bezpečností</form>
+<form>bezpečnostní</form>
 <tag>
-<AM lemma="bezpečnost_^(*3ý)" src="auto">NNFP2-----A----</AM>
-<AM lemma="bezpečnost_^(*3ý)" src="auto" recommended="1">NNFS7-----A----</AM>
-</tag>
+<AM lemma="bezpečnostní" src="auto">AAFP1----1A----</AM>
+<AM lemma="bezpečnostní" src="auto">AAFP4----1A----</AM>
+<AM lemma="bezpečnostní" src="auto">AAFP5----1A----</AM>
+<AM lemma="bezpečnostní" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="bezpečnostní" src="auto">AAFS2----1A----</AM>
+<AM lemma="bezpečnostní" src="auto">AAFS3----1A----</AM>
+<AM lemma="bezpečnostní" src="auto">AAFS4----1A----</AM>
+<AM lemma="bezpečnostní" src="auto">AAFS5----1A----</AM>
+<AM lemma="bezpečnostní" src="auto">AAFS6----1A----</AM>
+<AM lemma="bezpečnostní" src="auto">AAFS7----1A----</AM>
+<AM lemma="bezpečnostní" src="auto">AAIP1----1A----</AM>
+<AM lemma="bezpečnostní" src="auto">AAIP4----1A----</AM>
+<AM lemma="bezpečnostní" src="auto">AAIP5----1A----</AM>
+<AM lemma="bezpečnostní" src="auto">AAIS1----1A----</AM>
+<AM lemma="bezpečnostní" src="auto">AAIS4----1A----</AM>
+<AM lemma="bezpečnostní" src="auto">AAIS5----1A----</AM>
+<AM lemma="bezpečnostní" src="auto">AAMP1----1A----</AM>
+<AM lemma="bezpečnostní" src="auto">AAMP4----1A----</AM>
+<AM lemma="bezpečnostní" src="auto">AAMP5----1A----</AM>
+<AM lemma="bezpečnostní" src="auto">AAMS1----1A----</AM>
+<AM lemma="bezpečnostní" src="auto">AAMS5----1A----</AM>
+<AM lemma="bezpečnostní" src="auto">AANP1----1A----</AM>
+<AM lemma="bezpečnostní" src="auto">AANP4----1A----</AM>
+<AM lemma="bezpečnostní" src="auto">AANP5----1A----</AM>
+<AM lemma="bezpečnostní" src="auto">AANS1----1A----</AM>
+<AM lemma="bezpečnostní" src="auto">AANS4----1A----</AM>
+<AM lemma="bezpečnostní" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>bezpečnostní</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1299-001-p1s5W26-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

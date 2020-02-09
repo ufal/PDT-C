@@ -706,15 +706,10 @@
 <w.rf>
 <LM>w#w-wsj1519-001-p1s1W20</LM>
 </w.rf>
-<form>250megawattové</form>
+<form>250</form>
 <tag>
-<AM lemma="250megawattové" src="auto">X@-------------</AM>
-<AM lemma="250megawattový" src="manual">AAFS2----1A----</AM>
-</tag>
+<AM lemma="250" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>250</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1519-001-p1s1W20-Ta-sw1">
@@ -722,17 +717,27 @@
 <w.rf>
 <LM>w#w-wsj1519-001-p1s1W20</LM>
 </w.rf>
-<form>250megawattové</form>
+<form>megawattové</form>
 <tag>
-<AM lemma="250megawattové" src="auto">X@-------------</AM>
-<AM lemma="250megawattový" src="manual">AAFS2----1A----</AM>
-</tag>
+<AM lemma="megawattový" src="auto">AAFP1----1A----</AM>
+<AM lemma="megawattový" src="auto">AAFP4----1A----</AM>
+<AM lemma="megawattový" src="auto">AAFP5----1A----</AM>
+<AM lemma="megawattový" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="megawattový" src="auto">AAFS3----1A----</AM>
+<AM lemma="megawattový" src="auto">AAFS6----1A----</AM>
+<AM lemma="megawattový" src="auto">AAIP1----1A----</AM>
+<AM lemma="megawattový" src="auto">AAIP4----1A----</AM>
+<AM lemma="megawattový" src="auto">AAIP5----1A----</AM>
+<AM lemma="megawattový" src="auto">AAMP4----1A----</AM>
+<AM lemma="megawattový" src="auto">AANP1----1A---6</AM>
+<AM lemma="megawattový" src="auto">AANP4----1A---6</AM>
+<AM lemma="megawattový" src="auto">AANP5----1A---6</AM>
+<AM lemma="megawattový" src="auto">AANS1----1A----</AM>
+<AM lemma="megawattový" src="auto">AANS4----1A----</AM>
+<AM lemma="megawattový" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>megawattové</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1519-001-p1s1W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

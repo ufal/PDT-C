@@ -1003,14 +1003,18 @@
 <w.rf>
 <LM>w#w-wsj1622-001-p1s3W9</LM>
 </w.rf>
-<form>vlastnsoti</form>
-<tag lemma="vlastnsoti" src="auto">X@-------------</tag>
+<form>vlastnosti</form>
+<tag>
+<AM lemma="vlastnost" src="auto">NNFP1-----A----</AM>
+<AM lemma="vlastnost" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="vlastnost" src="auto">NNFP5-----A----</AM>
+<AM lemma="vlastnost" src="auto">NNFS2-----A----</AM>
+<AM lemma="vlastnost" src="auto">NNFS3-----A----</AM>
+<AM lemma="vlastnost" src="auto">NNFS5-----A----</AM>
+<AM lemma="vlastnost" src="auto">NNFS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>vlastnosti</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1622-001-p1s3W10-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

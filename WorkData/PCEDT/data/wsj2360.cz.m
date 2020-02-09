@@ -4394,27 +4394,13 @@
 <w.rf>
 <LM>w#w-wsj2360-001-p1s13W10</LM>
 </w.rf>
-<form>ocenění</form>
+<form>oceněním</form>
 <tag>
-<AM lemma="oceněný_^(*3it)" src="auto">AAMP1----1A----</AM>
-<AM lemma="oceněný_^(*3it)" src="auto">AAMP5----1A----</AM>
-<AM lemma="ocenění_^(*3it)" src="auto">NNNP1-----A----</AM>
-<AM lemma="ocenění_^(*3it)" src="auto">NNNP2-----A----</AM>
-<AM lemma="ocenění_^(*3it)" src="auto">NNNP4-----A----</AM>
-<AM lemma="ocenění_^(*3it)" src="auto">NNNP5-----A----</AM>
-<AM lemma="ocenění_^(*3it)" src="auto">NNNS1-----A----</AM>
-<AM lemma="ocenění_^(*3it)" src="auto">NNNS2-----A----</AM>
-<AM lemma="ocenění_^(*3it)" src="auto" recommended="1">NNNS3-----A----</AM>
-<AM lemma="ocenění_^(*3it)" src="auto">NNNS4-----A----</AM>
-<AM lemma="ocenění_^(*3it)" src="auto">NNNS5-----A----</AM>
-<AM lemma="ocenění_^(*3it)" src="auto">NNNS6-----A----</AM>
-</tag>
+<AM lemma="ocenění_^(*3it)" src="auto" recommended="1">NNNP3-----A----</AM>
+<AM lemma="ocenění_^(*3it)" src="auto">NNNS7-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>oceněním</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2360-001-p1s13W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

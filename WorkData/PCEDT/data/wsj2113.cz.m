@@ -913,12 +913,18 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s2W23</LM>
 </w.rf>
-<form>L.</form>
-<tag lemma="L." src="auto">X@-------------</tag>
+<form>L</form>
+<tag>
+<AM lemma="L-3`50" src="auto">C}-------------</AM>
+<AM lemma="L-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="L-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="l-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="l-77_,t" src="auto">F%-------------</AM>
+<AM lemma="l-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="letopočet_:B" src="auto">NNIS2-----A---8</AM>
+<AM lemma="letopočet_:B" src="auto">NNIS7-----A---8</AM>
+<AM lemma="litr" src="auto">NNIXX-----A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>L</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s2W23-Ta-sw1">
@@ -926,14 +932,12 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s2W23</LM>
 </w.rf>
-<form>L.</form>
-<tag lemma="L." src="auto">X@-------------</tag>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>.</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2113-001-p1s2W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4947,14 +4951,38 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s18W20</LM>
 </w.rf>
-<form>najvětší</form>
-<tag lemma="najvětší" src="auto">X@-------------</tag>
+<form>největší</form>
+<tag>
+<AM lemma="velký" src="auto">AAFP1----3A----</AM>
+<AM lemma="velký" src="auto">AAFP4----3A----</AM>
+<AM lemma="velký" src="auto">AAFP5----3A----</AM>
+<AM lemma="velký" src="auto">AAFS1----3A----</AM>
+<AM lemma="velký" src="auto">AAFS2----3A----</AM>
+<AM lemma="velký" src="auto">AAFS3----3A----</AM>
+<AM lemma="velký" src="auto" recommended="1">AAFS4----3A----</AM>
+<AM lemma="velký" src="auto">AAFS5----3A----</AM>
+<AM lemma="velký" src="auto">AAFS6----3A----</AM>
+<AM lemma="velký" src="auto">AAFS7----3A----</AM>
+<AM lemma="velký" src="auto">AAIP1----3A----</AM>
+<AM lemma="velký" src="auto">AAIP4----3A----</AM>
+<AM lemma="velký" src="auto">AAIP5----3A----</AM>
+<AM lemma="velký" src="auto">AAIS1----3A----</AM>
+<AM lemma="velký" src="auto">AAIS4----3A----</AM>
+<AM lemma="velký" src="auto">AAIS5----3A----</AM>
+<AM lemma="velký" src="auto">AAMP1----3A----</AM>
+<AM lemma="velký" src="auto">AAMP4----3A----</AM>
+<AM lemma="velký" src="auto">AAMP5----3A----</AM>
+<AM lemma="velký" src="auto">AAMS1----3A----</AM>
+<AM lemma="velký" src="auto">AAMS5----3A----</AM>
+<AM lemma="velký" src="auto">AANP1----3A----</AM>
+<AM lemma="velký" src="auto">AANP4----3A----</AM>
+<AM lemma="velký" src="auto">AANP5----3A----</AM>
+<AM lemma="velký" src="auto">AANS1----3A----</AM>
+<AM lemma="velký" src="auto">AANS4----3A----</AM>
+<AM lemma="velký" src="auto">AANS5----3A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>největší</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2113-001-p1s18W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6804,14 +6832,38 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s25W5</LM>
 </w.rf>
-<form>nějvětší</form>
-<tag lemma="nějvětší" src="auto">X@-------------</tag>
+<form>největší</form>
+<tag>
+<AM lemma="velký" src="auto">AAFP1----3A----</AM>
+<AM lemma="velký" src="auto">AAFP4----3A----</AM>
+<AM lemma="velký" src="auto">AAFP5----3A----</AM>
+<AM lemma="velký" src="auto">AAFS1----3A----</AM>
+<AM lemma="velký" src="auto">AAFS2----3A----</AM>
+<AM lemma="velký" src="auto">AAFS3----3A----</AM>
+<AM lemma="velký" src="auto" recommended="1">AAFS4----3A----</AM>
+<AM lemma="velký" src="auto">AAFS5----3A----</AM>
+<AM lemma="velký" src="auto">AAFS6----3A----</AM>
+<AM lemma="velký" src="auto">AAFS7----3A----</AM>
+<AM lemma="velký" src="auto">AAIP1----3A----</AM>
+<AM lemma="velký" src="auto">AAIP4----3A----</AM>
+<AM lemma="velký" src="auto">AAIP5----3A----</AM>
+<AM lemma="velký" src="auto">AAIS1----3A----</AM>
+<AM lemma="velký" src="auto">AAIS4----3A----</AM>
+<AM lemma="velký" src="auto">AAIS5----3A----</AM>
+<AM lemma="velký" src="auto">AAMP1----3A----</AM>
+<AM lemma="velký" src="auto">AAMP4----3A----</AM>
+<AM lemma="velký" src="auto">AAMP5----3A----</AM>
+<AM lemma="velký" src="auto">AAMS1----3A----</AM>
+<AM lemma="velký" src="auto">AAMS5----3A----</AM>
+<AM lemma="velký" src="auto">AANP1----3A----</AM>
+<AM lemma="velký" src="auto">AANP4----3A----</AM>
+<AM lemma="velký" src="auto">AANP5----3A----</AM>
+<AM lemma="velký" src="auto">AANS1----3A----</AM>
+<AM lemma="velký" src="auto">AANS4----3A----</AM>
+<AM lemma="velký" src="auto">AANS5----3A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>největší</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2113-001-p1s25W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8230,12 +8282,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s30W2</LM>
 </w.rf>
-<form>Říkají'Johnny</form>
-<tag lemma="Říkají'Johnny" src="auto">X@-------------</tag>
+<form>Říkají</form>
+<tag>
+<AM lemma="říkat" src="auto" recommended="1">VB-P---3P-AAI--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Říkají</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s30W2-Ta-sw1">
@@ -8243,12 +8293,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s30W2</LM>
 </w.rf>
-<form>Říkají'Johnny</form>
-<tag lemma="Říkají'Johnny" src="auto">X@-------------</tag>
+<form>'</form>
+<tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s30W2-Ta-sw2">
@@ -8256,14 +8304,14 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s30W2</LM>
 </w.rf>
-<form>Říkají'Johnny</form>
-<tag lemma="Říkají'Johnny" src="auto">X@-------------</tag>
+<form>Johnny</form>
+<tag>
+<AM lemma="Johnny_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Johnny_;Y" src="auto">NNMS5-----A----</AM>
+<AM lemma="Johnny_;Y" src="auto">NNMXX-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Johnny</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2113-001-p1s30W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9131,15 +9179,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s32W19</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>Sotheby</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="Sotheby" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Sotheby</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s32W19-Ta-sw1">
@@ -9147,15 +9190,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s32W19</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>'</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s32W19-Ta-sw2">
@@ -9163,17 +9201,23 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s32W19</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>s</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-1" src="auto" recommended="1">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>s</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2113-001-p1s32W20-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9434,15 +9478,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s33W16</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>Sotheby</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="Sotheby" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Sotheby</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s33W16-Ta-sw1">
@@ -9450,15 +9489,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s33W16</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>'</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s33W16-Ta-sw2">
@@ -9466,17 +9500,23 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s33W16</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>s</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-1" src="auto" recommended="1">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>s</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2113-001-p1s33W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10036,15 +10076,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s35W12</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>Sotheby</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="Sotheby" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Sotheby</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s35W12-Ta-sw1">
@@ -10052,15 +10087,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s35W12</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>'</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s35W12-Ta-sw2">
@@ -10068,17 +10098,23 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s35W12</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>s</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-1" src="auto" recommended="1">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>s</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2113-001-p1s35W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -11326,12 +11362,12 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s42W5</LM>
 </w.rf>
-<form>je'ukradl'</form>
-<tag lemma="je'ukradl'" src="auto">X@-------------</tag>
+<form>je</form>
+<tag>
+<AM lemma="být" src="auto" recommended="1">VB-S---3P-AAI--</AM>
+<AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
+<AM lemma="on-1_^(oni/ono)" src="auto">PPXP4--3-------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>je</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s42W5-Ta-sw1">
@@ -11339,12 +11375,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s42W5</LM>
 </w.rf>
-<form>je'ukradl'</form>
-<tag lemma="je'ukradl'" src="auto">X@-------------</tag>
+<form>'</form>
+<tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s42W5-Ta-sw2">
@@ -11352,12 +11386,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s42W5</LM>
 </w.rf>
-<form>je'ukradl'</form>
-<tag lemma="je'ukradl'" src="auto">X@-------------</tag>
+<form>ukradl</form>
+<tag>
+<AM lemma="ukradnout" src="auto" recommended="1">VpYS---XR-AAP-1</AM></tag>
 <comment>
-<LM type="New Form">
-<text>ukradl</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s42W5-Ta-sw3">
@@ -11365,14 +11397,12 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s42W5</LM>
 </w.rf>
-<form>je'ukradl'</form>
-<tag lemma="je'ukradl'" src="auto">X@-------------</tag>
+<form>'</form>
+<tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2113-001-p1s42W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -11936,12 +11966,19 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s46W8</LM>
 </w.rf>
-<form>agreasivnějším</form>
-<tag lemma="agreasivnějším" src="auto">X@-------------</tag>
+<form>agresivnějším</form>
+<tag>
+<AM lemma="agresivní" src="auto">AAFP3----2A----</AM>
+<AM lemma="agresivní" src="auto">AAIP3----2A----</AM>
+<AM lemma="agresivní" src="auto">AAIS6----2A----</AM>
+<AM lemma="agresivní" src="auto">AAIS7----2A----</AM>
+<AM lemma="agresivní" src="auto">AAMP3----2A----</AM>
+<AM lemma="agresivní" src="auto">AAMS6----2A----</AM>
+<AM lemma="agresivní" src="auto" recommended="1">AAMS7----2A----</AM>
+<AM lemma="agresivní" src="auto">AANP3----2A----</AM>
+<AM lemma="agresivní" src="auto">AANS6----2A----</AM>
+<AM lemma="agresivní" src="auto">AANS7----2A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>agresivnějším</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s46W9-Ta">
@@ -12027,15 +12064,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s46W15</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>Sotheby</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="Sotheby" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Sotheby</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s46W15-Ta-sw1">
@@ -12043,15 +12075,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s46W15</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>'</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s46W15-Ta-sw2">
@@ -12059,17 +12086,23 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s46W15</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>s</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-1" src="auto" recommended="1">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>s</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2113-001-p1s46W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -12658,12 +12691,14 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s49W7</LM>
 </w.rf>
-<form>U.S.A</form>
-<tag lemma="U.S.A" src="auto">X@-------------</tag>
+<form>U</form>
+<tag>
+<AM lemma="U-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="U-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="u-1" src="auto">RR--2----------</AM>
+<AM lemma="u-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="u-88_:B" src="auto">NNXXX-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>U</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s49W7-Ta-sw1">
@@ -12671,12 +12706,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s49W7</LM>
 </w.rf>
-<form>U.S.A</form>
-<tag lemma="U.S.A" src="auto">X@-------------</tag>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>.</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s49W7-Ta-sw2">
@@ -12684,12 +12717,24 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s49W7</LM>
 </w.rf>
-<form>U.S.A</form>
-<tag lemma="U.S.A" src="auto">X@-------------</tag>
+<form>S</form>
+<tag>
+<AM lemma="S-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="S-77" src="auto">F%-------------</AM>
+<AM lemma="S-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-1" src="auto">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>S</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s49W7-Ta-sw3">
@@ -12697,12 +12742,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s49W7</LM>
 </w.rf>
-<form>U.S.A</form>
-<tag lemma="U.S.A" src="auto">X@-------------</tag>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>.</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s49W7-Ta-sw4">
@@ -12710,14 +12753,20 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s49W7</LM>
 </w.rf>
-<form>U.S.A</form>
-<tag lemma="U.S.A" src="auto">X@-------------</tag>
+<form>A</form>
+<tag>
+<AM lemma="A-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="A-77_^(př._a_la)" src="auto">F%-------------</AM>
+<AM lemma="A-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="ampér" src="auto">NNIXX-----A---8</AM>
+<AM lemma="a-1" src="auto">J^-------------</AM>
+<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-77_,t" src="auto">F%-------------</AM>
+<AM lemma="a-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="akciový" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>A</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2113-001-p1s49W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -13271,15 +13320,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s51W17</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>Sotheby</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="Sotheby" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Sotheby</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s51W17-Ta-sw1">
@@ -13287,15 +13331,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s51W17</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>'</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s51W17-Ta-sw2">
@@ -13303,17 +13342,23 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s51W17</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>s</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-1" src="auto">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>s</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2113-001-p1s51W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -13433,15 +13478,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s52W5</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>Sotheby</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="Sotheby" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Sotheby</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s52W5-Ta-sw1">
@@ -13449,15 +13489,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s52W5</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>'</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s52W5-Ta-sw2">
@@ -13465,17 +13500,23 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s52W5</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>s</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-1" src="auto" recommended="1">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>s</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2113-001-p1s52W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -13808,15 +13849,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s54W1</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>Sotheby</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="Sotheby" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Sotheby</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s54W1-Ta-sw1">
@@ -13824,15 +13860,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s54W1</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>'</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s54W1-Ta-sw2">
@@ -13840,15 +13871,21 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s54W1</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>s</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-1" src="auto">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>s</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s54W2-Ta">
@@ -14014,15 +14051,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s54W15</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>Sotheby</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="Sotheby" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Sotheby</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s54W15-Ta-sw1">
@@ -14030,15 +14062,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s54W15</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>'</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s54W15-Ta-sw2">
@@ -14046,17 +14073,23 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s54W15</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>s</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-1" src="auto" recommended="1">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>s</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2113-001-p1s54W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -14423,15 +14456,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s55W7</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>Sotheby</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="Sotheby" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Sotheby</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s55W7-Ta-sw1">
@@ -14439,15 +14467,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s55W7</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>'</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s55W7-Ta-sw2">
@@ -14455,17 +14478,23 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s55W7</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>s</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-1" src="auto">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>s</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2113-001-p1s55W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -15138,15 +15167,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s58W13</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>Sotheby</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="Sotheby" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Sotheby</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s58W13-Ta-sw1">
@@ -15154,15 +15178,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s58W13</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>'</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s58W13-Ta-sw2">
@@ -15170,17 +15189,23 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s58W13</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>s</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-1" src="auto" recommended="1">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>s</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2113-001-p1s58W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -19027,15 +19052,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s70W21</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>Sotheby</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="Sotheby" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Sotheby</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s70W21-Ta-sw1">
@@ -19043,15 +19063,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s70W21</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>'</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s70W21-Ta-sw2">
@@ -19059,17 +19074,23 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s70W21</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>s</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-1" src="auto">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>s</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2113-001-p1s70W22-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -20537,15 +20558,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s76W28</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>Sotheby</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="Sotheby" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Sotheby</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s76W28-Ta-sw1">
@@ -20553,15 +20569,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s76W28</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>'</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s76W28-Ta-sw2">
@@ -20569,17 +20580,23 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s76W28</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>s</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-1" src="auto" recommended="1">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>s</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2113-001-p1s76W29-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -24572,15 +24589,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s92W13</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>Sotheby</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="Sotheby" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Sotheby</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s92W13-Ta-sw1">
@@ -24588,15 +24600,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s92W13</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>'</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s92W13-Ta-sw2">
@@ -24604,17 +24611,23 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s92W13</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>s</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-1" src="auto" recommended="1">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>s</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2113-001-p1s92W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -24843,15 +24856,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s93W10</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>Sotheby</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="Sotheby" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Sotheby</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s93W10-Ta-sw1">
@@ -24859,15 +24867,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s93W10</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>'</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s93W10-Ta-sw2">
@@ -24875,17 +24878,23 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s93W10</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>s</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-1" src="auto">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>s</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2113-001-p1s93W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -25676,15 +25685,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s97W9</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>Sotheby</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="Sotheby" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Sotheby</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s97W9-Ta-sw1">
@@ -25692,15 +25696,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s97W9</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>'</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s97W9-Ta-sw2">
@@ -25708,17 +25707,23 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s97W9</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>s</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-1" src="auto" recommended="1">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>s</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2113-001-p1s97W10-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -28007,15 +28012,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s108W2</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>Sotheby</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="Sotheby" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Sotheby</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s108W2-Ta-sw1">
@@ -28023,15 +28023,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s108W2</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>'</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s108W2-Ta-sw2">
@@ -28039,17 +28034,23 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s108W2</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>s</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-1" src="auto" recommended="1">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>s</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2113-001-p1s108W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -28336,15 +28337,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s109W7</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>Sotheby</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="Sotheby" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Sotheby</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s109W7-Ta-sw1">
@@ -28352,15 +28348,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s109W7</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>'</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s109W7-Ta-sw2">
@@ -28368,17 +28359,23 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s109W7</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>s</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-1" src="auto" recommended="1">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>s</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2113-001-p1s109W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -29112,15 +29109,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s112W10</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>Sotheby</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="Sotheby" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Sotheby</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s112W10-Ta-sw1">
@@ -29128,15 +29120,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s112W10</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>'</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s112W10-Ta-sw2">
@@ -29144,17 +29131,23 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s112W10</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>s</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-1" src="auto" recommended="1">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>s</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2113-001-p1s112W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -31001,15 +30994,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s121W1</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>Sotheby</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="Sotheby" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Sotheby</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s121W1-Ta-sw1">
@@ -31017,15 +31005,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s121W1</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>'</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s121W1-Ta-sw2">
@@ -31033,17 +31016,23 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s121W1</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>s</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-1" src="auto" recommended="1">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>s</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2113-001-p1s121W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -32290,15 +32279,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s125W4</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>Sotheby</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="Sotheby" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Sotheby</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s125W4-Ta-sw1">
@@ -32306,15 +32290,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s125W4</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>'</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s125W4-Ta-sw2">
@@ -32322,17 +32301,23 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s125W4</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>s</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-1" src="auto">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>s</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2113-001-p1s125W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -32553,15 +32538,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s126W17</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>Sotheby</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="Sotheby" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Sotheby</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s126W17-Ta-sw1">
@@ -32569,15 +32549,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s126W17</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>'</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s126W17-Ta-sw2">
@@ -32585,17 +32560,23 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s126W17</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>s</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-1" src="auto">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>s</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2113-001-p1s126W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -34564,15 +34545,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s134W14</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>Sotheby</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="Sotheby" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Sotheby</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s134W14-Ta-sw1">
@@ -34580,15 +34556,10 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s134W14</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>'</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2113-001-p1s134W14-Ta-sw2">
@@ -34596,17 +34567,23 @@
 <w.rf>
 <LM>w#w-wsj2113-001-p1s134W14</LM>
 </w.rf>
-<form>Sotheby's</form>
+<form>s</form>
 <tag>
-<AM lemma="Sotheby's" src="auto">X@-------------</AM>
-<AM lemma="Sotheby's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto" recommended="1">RR--4----------</AM>
+<AM lemma="s-1" src="auto">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>s</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2113-001-p1s134W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

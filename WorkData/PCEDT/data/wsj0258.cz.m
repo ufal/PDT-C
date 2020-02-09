@@ -1698,15 +1698,10 @@
 <w.rf>
 <LM>w#w-wsj0258-001-p1s5W16</LM>
 </w.rf>
-<form>10krát</form>
+<form>10</form>
 <tag>
-<AM lemma="10krát" src="auto">X@-------------</AM>
-<AM lemma="10krát`10" src="manual">Cv-------------</AM>
-</tag>
+<AM lemma="10" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>10</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0258-001-p1s5W16-Ta-sw1">
@@ -1714,17 +1709,13 @@
 <w.rf>
 <LM>w#w-wsj0258-001-p1s5W16</LM>
 </w.rf>
-<form>10krát</form>
+<form>krát</form>
 <tag>
-<AM lemma="10krát" src="auto">X@-------------</AM>
-<AM lemma="10krát`10" src="manual">Cv-------------</AM>
-</tag>
+<AM lemma="krát-1_^(mat._operace;_2_krát_3)" src="auto">J*-------------</AM>
+<AM lemma="krát-2" src="auto" recommended="1">Db-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>krát</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0258-001-p1s5W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2085,17 +2076,12 @@
 <w.rf>
 <LM>w#w-wsj0258-001-p1s6W20</LM>
 </w.rf>
-<form>InfoCor</form>
+<form>InfoCorp</form>
 <tag>
-<AM lemma="InfoCor" src="auto">X@-------------</AM>
-<AM lemma="InfoCor_;K" src="manual">NNIS1-----A----</AM>
-</tag>
+<AM lemma="InfoCorp" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>InfoCorp</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0258-001-p1s6W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -7271,17 +7271,21 @@
 <w.rf>
 <LM>w#w-wsj1567-001-p1s22W21</LM>
 </w.rf>
-<form>plánovaní</form>
+<form>plánování</form>
 <tag>
-<AM lemma="plánovaný_^(*2t)" src="auto" recommended="1">AAMP1----1A----</AM>
-<AM lemma="plánovaný_^(*2t)" src="auto">AAMP5----1A----</AM>
-</tag>
+<AM lemma="plánování_^(*3at)" src="auto">NNNP1-----A----</AM>
+<AM lemma="plánování_^(*3at)" src="auto">NNNP2-----A----</AM>
+<AM lemma="plánování_^(*3at)" src="auto">NNNP4-----A----</AM>
+<AM lemma="plánování_^(*3at)" src="auto">NNNP5-----A----</AM>
+<AM lemma="plánování_^(*3at)" src="auto">NNNS1-----A----</AM>
+<AM lemma="plánování_^(*3at)" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="plánování_^(*3at)" src="auto">NNNS3-----A----</AM>
+<AM lemma="plánování_^(*3at)" src="auto">NNNS4-----A----</AM>
+<AM lemma="plánování_^(*3at)" src="auto">NNNS5-----A----</AM>
+<AM lemma="plánování_^(*3at)" src="auto">NNNS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>plánování</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1567-001-p1s22W22-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

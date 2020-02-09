@@ -2240,17 +2240,13 @@
 <w.rf>
 <LM>w#w-wsj2007-001-p1s8W6</LM>
 </w.rf>
-<form>Merk</form>
+<form>Merck</form>
 <tag>
-<AM lemma="merk-1_,a_^(rodové_označení)" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="merk-1_,a_^(rodové_označení)" src="auto">NNIS4-----A----</AM>
-</tag>
+<AM lemma="Merck_;K" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Merck_;K" src="auto">NNIS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Merck</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2007-001-p1s8W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2910,17 +2906,13 @@
 <w.rf>
 <LM>w#w-wsj2007-001-p1s10W11</LM>
 </w.rf>
-<form>Merk</form>
+<form>Merck</form>
 <tag>
-<AM lemma="merk-1_,a_^(rodové_označení)" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="merk-1_,a_^(rodové_označení)" src="auto">NNIS4-----A----</AM>
-</tag>
+<AM lemma="Merck_;K" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Merck_;K" src="auto">NNIS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Merck</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2007-001-p1s10W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7327,19 +7319,14 @@
 <w.rf>
 <LM>w#w-wsj2007-001-p1s24W12</LM>
 </w.rf>
-<form>získaného</form>
+<form>získaném</form>
 <tag>
-<AM lemma="získaný_^(*2t)" src="auto" recommended="1">AAIS2----1A----</AM>
-<AM lemma="získaný_^(*2t)" src="auto">AAMS2----1A----</AM>
-<AM lemma="získaný_^(*2t)" src="auto">AAMS4----1A----</AM>
-<AM lemma="získaný_^(*2t)" src="auto">AANS2----1A----</AM>
-</tag>
+<AM lemma="získaný_^(*2t)" src="auto" recommended="1">AAIS6----1A----</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AAMS6----1A----</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AANS6----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>získaném</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2007-001-p1s24W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -569,14 +569,12 @@
 <w.rf>
 <LM>w#w-wsj0324-001-p1s2W5</LM>
 </w.rf>
-<form>přivedlo</form>
-<tag lemma="přivést" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<form>přivedla</form>
+<tag>
+<AM lemma="přivést" src="auto" recommended="1">VpQW---XR-AAP--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>přivedla</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0324-001-p1s2W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

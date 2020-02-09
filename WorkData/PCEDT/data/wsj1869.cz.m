@@ -6956,14 +6956,12 @@
 <w.rf>
 <LM>w#w-wsj1869-001-p1s23W31</LM>
 </w.rf>
-<form>Sněmovna</form>
-<tag lemma="sněmovna" src="auto" recommended="1">NNFS1-----A----</tag>
+<form>sněmovnou</form>
+<tag>
+<AM lemma="sněmovna" src="auto" recommended="1">NNFS7-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>sněmovnou</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1869-001-p1s23W32-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -943,14 +943,12 @@
 <w.rf>
 <LM>w#w-wsj0356-001-p1s3W20</LM>
 </w.rf>
-<form>Willamem</form>
-<tag lemma="Willamem" src="auto">X@-------------</tag>
+<form>Williamem</form>
+<tag>
+<AM lemma="William_;Y" src="auto" recommended="1">NNMS7-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Williamem</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0356-001-p1s3W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

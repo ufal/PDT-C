@@ -4863,18 +4863,16 @@
 <w.rf>
 <LM>w#w-wsj0456-001-p1s18W14</LM>
 </w.rf>
-<form>je</form>
+<form>jen</form>
 <tag>
-<AM lemma="být" src="auto">VB-S---3P-AAI--</AM>
-<AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
-<AM lemma="on-1_^(oni/ono)" src="auto" recommended="1">PPXP4--3-------</AM>
-</tag>
+<AM lemma="jen-1" src="auto">TT-------------</AM>
+<AM lemma="jen-2_^(japonská_měna)" src="auto">NNIS1-----A----</AM>
+<AM lemma="jen-2_^(japonská_měna)" src="auto">NNIS4-----A----</AM>
+<AM lemma="jen-3" src="auto">J,-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="auto" recommended="1">Db-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>jen</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0456-001-p1s18W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

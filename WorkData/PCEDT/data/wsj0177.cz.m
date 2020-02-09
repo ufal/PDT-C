@@ -523,12 +523,13 @@
 <w.rf>
 <LM>w#w-wsj0177-001-p1s1W12</LM>
 </w.rf>
-<form>milardy</form>
-<tag lemma="milardy" src="auto">X@-------------</tag>
+<form>miliardy</form>
+<tag>
+<AM lemma="miliarda`1000000000" src="auto">NNFP1-----A----</AM>
+<AM lemma="miliarda`1000000000" src="auto">NNFP4-----A----</AM>
+<AM lemma="miliarda`1000000000" src="auto">NNFP5-----A----</AM>
+<AM lemma="miliarda`1000000000" src="auto" recommended="1">NNFS2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>miliardy</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0177-001-p1s1W13-Ta">
@@ -624,14 +625,12 @@
 <w.rf>
 <LM>w#w-wsj0177-001-p1s1W20</LM>
 </w.rf>
-<form>milard</form>
-<tag lemma="milard" src="auto">X@-------------</tag>
+<form>miliard</form>
+<tag>
+<AM lemma="miliarda`1000000000" src="auto" recommended="1">NNFP2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>miliard</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0177-001-p1s1W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -768,12 +767,10 @@
 <w.rf>
 <LM>w#w-wsj0177-001-p1s2W8</LM>
 </w.rf>
-<form>milard</form>
-<tag lemma="milard" src="auto">X@-------------</tag>
+<form>miliard</form>
+<tag>
+<AM lemma="miliarda`1000000000" src="auto" recommended="1">NNFP2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>miliard</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0177-001-p1s2W9-Ta">
@@ -810,14 +807,12 @@
 <w.rf>
 <LM>w#w-wsj0177-001-p1s2W12</LM>
 </w.rf>
-<form>milard</form>
-<tag lemma="milard" src="auto">X@-------------</tag>
+<form>miliard</form>
+<tag>
+<AM lemma="miliarda`1000000000" src="auto" recommended="1">NNFP2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>miliard</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0177-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -958,14 +953,12 @@
 <w.rf>
 <LM>w#w-wsj0177-001-p1s3W10</LM>
 </w.rf>
-<form>milard</form>
-<tag lemma="milard" src="auto">X@-------------</tag>
+<form>miliard</form>
+<tag>
+<AM lemma="miliarda`1000000000" src="auto" recommended="1">NNFP2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>miliard</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0177-001-p1s3W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1150,14 +1143,19 @@
 <w.rf>
 <LM>w#w-wsj0177-001-p1s5W2</LM>
 </w.rf>
-<form>zvyšujjících</form>
-<tag lemma="zvyšujjících" src="auto">X@-------------</tag>
+<form>zvyšujících</form>
+<tag>
+<AM lemma="zvyšující_^(*5ovat)" src="auto" recommended="1">AGFP2-----A----</AM>
+<AM lemma="zvyšující_^(*5ovat)" src="auto">AGFP6-----A----</AM>
+<AM lemma="zvyšující_^(*5ovat)" src="auto">AGIP2-----A----</AM>
+<AM lemma="zvyšující_^(*5ovat)" src="auto">AGIP6-----A----</AM>
+<AM lemma="zvyšující_^(*5ovat)" src="auto">AGMP2-----A----</AM>
+<AM lemma="zvyšující_^(*5ovat)" src="auto">AGMP6-----A----</AM>
+<AM lemma="zvyšující_^(*5ovat)" src="auto">AGNP2-----A----</AM>
+<AM lemma="zvyšující_^(*5ovat)" src="auto">AGNP6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>zvyšujících</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0177-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1503,14 +1501,12 @@
 <w.rf>
 <LM>w#w-wsj0177-001-p1s6W17</LM>
 </w.rf>
-<form>milard</form>
-<tag lemma="milard" src="auto">X@-------------</tag>
+<form>miliard</form>
+<tag>
+<AM lemma="miliarda`1000000000" src="auto" recommended="1">NNFP2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>miliard</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0177-001-p1s6W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2157,12 +2153,10 @@
 <w.rf>
 <LM>w#w-wsj0177-001-p1s8W27</LM>
 </w.rf>
-<form>milard</form>
-<tag lemma="milard" src="auto">X@-------------</tag>
+<form>miliard</form>
+<tag>
+<AM lemma="miliarda`1000000000" src="auto" recommended="1">NNFP2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>miliard</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0177-001-p1s8W28-Ta">
@@ -2279,14 +2273,12 @@
 <w.rf>
 <LM>w#w-wsj0177-001-p1s8W38</LM>
 </w.rf>
-<form>milard</form>
-<tag lemma="milard" src="auto">X@-------------</tag>
+<form>miliard</form>
+<tag>
+<AM lemma="miliarda`1000000000" src="auto" recommended="1">NNFP2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>miliard</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0177-001-p1s8W39-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -715,17 +715,13 @@
 <w.rf>
 <LM>w#w-wsj1682-001-p1s2W21</LM>
 </w.rf>
-<form>Breedena</form>
+<form>Bredena</form>
 <tag>
-<AM lemma="Breedena" src="auto">X@-------------</AM>
-<AM lemma="Breeden_;S" src="manual">NNMS4-----A----</AM>
-</tag>
+<AM lemma="Breden_;S" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="Breden_;S" src="auto">NNMS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Bredena</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1682-001-p1s2W22-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

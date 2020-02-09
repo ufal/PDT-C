@@ -865,14 +865,15 @@
 <w.rf>
 <LM>w#w-wsj2165-001-p1s4W10</LM>
 </w.rf>
-<form>letadle</form>
-<tag lemma="letadlo" src="auto" recommended="1">NNNS6-----A----</tag>
+<form>letadla</form>
+<tag>
+<AM lemma="letadlo" src="auto">NNNP1-----A----</AM>
+<AM lemma="letadlo" src="auto">NNNP4-----A----</AM>
+<AM lemma="letadlo" src="auto">NNNP5-----A----</AM>
+<AM lemma="letadlo" src="auto" recommended="1">NNNS2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>letadla</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2165-001-p1s4W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1170,36 +1171,10 @@
 <w.rf>
 <LM>w#w-wsj2165-001-p1s7W10</LM>
 </w.rf>
-<form>30minutový</form>
+<form>30</form>
 <tag>
-<AM lemma="30minutový" src="auto">AAFP1----1A---6</AM>
-<AM lemma="30minutový" src="auto">AAFP4----1A---6</AM>
-<AM lemma="30minutový" src="auto">AAFP5----1A---6</AM>
-<AM lemma="30minutový" src="auto">AAFS2----1A---6</AM>
-<AM lemma="30minutový" src="auto">AAFS3----1A---6</AM>
-<AM lemma="30minutový" src="auto">AAFS6----1A---6</AM>
-<AM lemma="30minutový" src="auto">AAIP1----1A---6</AM>
-<AM lemma="30minutový" src="auto">AAIP4----1A---6</AM>
-<AM lemma="30minutový" src="auto">AAIP5----1A---6</AM>
-<AM lemma="30minutový" src="auto">AAIS1----1A----</AM>
-<AM lemma="30minutový" src="auto" recommended="1">AAIS4----1A----</AM>
-<AM lemma="30minutový" src="auto">AAIS5----1A----</AM>
-<AM lemma="30minutový" src="auto">AAMP1----1A---6</AM>
-<AM lemma="30minutový" src="auto">AAMP4----1A---6</AM>
-<AM lemma="30minutový" src="auto">AAMP5----1A---6</AM>
-<AM lemma="30minutový" src="auto">AAMS1----1A----</AM>
-<AM lemma="30minutový" src="auto">AAMS5----1A----</AM>
-<AM lemma="30minutový" src="auto">AANP1----1A---6</AM>
-<AM lemma="30minutový" src="auto">AANP4----1A---6</AM>
-<AM lemma="30minutový" src="auto">AANP5----1A---6</AM>
-<AM lemma="30minutový" src="auto">AANS1----1A---6</AM>
-<AM lemma="30minutový" src="auto">AANS4----1A---6</AM>
-<AM lemma="30minutový" src="auto">AANS5----1A---6</AM>
-</tag>
+<AM lemma="30" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>30</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2165-001-p1s7W10-Ta-sw1">
@@ -1207,38 +1182,34 @@
 <w.rf>
 <LM>w#w-wsj2165-001-p1s7W10</LM>
 </w.rf>
-<form>30minutový</form>
+<form>minutový</form>
 <tag>
-<AM lemma="30minutový" src="auto">AAFP1----1A---6</AM>
-<AM lemma="30minutový" src="auto">AAFP4----1A---6</AM>
-<AM lemma="30minutový" src="auto">AAFP5----1A---6</AM>
-<AM lemma="30minutový" src="auto">AAFS2----1A---6</AM>
-<AM lemma="30minutový" src="auto">AAFS3----1A---6</AM>
-<AM lemma="30minutový" src="auto">AAFS6----1A---6</AM>
-<AM lemma="30minutový" src="auto">AAIP1----1A---6</AM>
-<AM lemma="30minutový" src="auto">AAIP4----1A---6</AM>
-<AM lemma="30minutový" src="auto">AAIP5----1A---6</AM>
-<AM lemma="30minutový" src="auto">AAIS1----1A----</AM>
-<AM lemma="30minutový" src="auto" recommended="1">AAIS4----1A----</AM>
-<AM lemma="30minutový" src="auto">AAIS5----1A----</AM>
-<AM lemma="30minutový" src="auto">AAMP1----1A---6</AM>
-<AM lemma="30minutový" src="auto">AAMP4----1A---6</AM>
-<AM lemma="30minutový" src="auto">AAMP5----1A---6</AM>
-<AM lemma="30minutový" src="auto">AAMS1----1A----</AM>
-<AM lemma="30minutový" src="auto">AAMS5----1A----</AM>
-<AM lemma="30minutový" src="auto">AANP1----1A---6</AM>
-<AM lemma="30minutový" src="auto">AANP4----1A---6</AM>
-<AM lemma="30minutový" src="auto">AANP5----1A---6</AM>
-<AM lemma="30minutový" src="auto">AANS1----1A---6</AM>
-<AM lemma="30minutový" src="auto">AANS4----1A---6</AM>
-<AM lemma="30minutový" src="auto">AANS5----1A---6</AM>
-</tag>
+<AM lemma="minutový" src="auto">AAFP1----1A---6</AM>
+<AM lemma="minutový" src="auto">AAFP4----1A---6</AM>
+<AM lemma="minutový" src="auto">AAFP5----1A---6</AM>
+<AM lemma="minutový" src="auto">AAFS2----1A---6</AM>
+<AM lemma="minutový" src="auto">AAFS3----1A---6</AM>
+<AM lemma="minutový" src="auto">AAFS6----1A---6</AM>
+<AM lemma="minutový" src="auto">AAIP1----1A---6</AM>
+<AM lemma="minutový" src="auto">AAIP4----1A---6</AM>
+<AM lemma="minutový" src="auto">AAIP5----1A---6</AM>
+<AM lemma="minutový" src="auto">AAIS1----1A----</AM>
+<AM lemma="minutový" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="minutový" src="auto">AAIS5----1A----</AM>
+<AM lemma="minutový" src="auto">AAMP1----1A---6</AM>
+<AM lemma="minutový" src="auto">AAMP4----1A---6</AM>
+<AM lemma="minutový" src="auto">AAMP5----1A---6</AM>
+<AM lemma="minutový" src="auto">AAMS1----1A----</AM>
+<AM lemma="minutový" src="auto">AAMS5----1A----</AM>
+<AM lemma="minutový" src="auto">AANP1----1A---6</AM>
+<AM lemma="minutový" src="auto">AANP4----1A---6</AM>
+<AM lemma="minutový" src="auto">AANP5----1A---6</AM>
+<AM lemma="minutový" src="auto">AANS1----1A---6</AM>
+<AM lemma="minutový" src="auto">AANS4----1A---6</AM>
+<AM lemma="minutový" src="auto">AANS5----1A---6</AM></tag>
 <comment>
-<LM type="New Form">
-<text>minutový</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2165-001-p1s7W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5475,17 +5446,15 @@
 <w.rf>
 <LM>w#w-wsj2165-001-p1s24W13</LM>
 </w.rf>
-<form>cany</form>
+<form>ceny</form>
 <tag>
-<AM lemma="cany" src="auto">X@-------------</AM>
-<AM lemma="can" src="manual">NNIP4-----A----</AM>
-</tag>
+<AM lemma="cena" src="auto">NNFP1-----A----</AM>
+<AM lemma="cena" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="cena" src="auto">NNFP5-----A----</AM>
+<AM lemma="cena" src="auto">NNFS2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>ceny</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2165-001-p1s24W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

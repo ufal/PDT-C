@@ -1268,14 +1268,21 @@
 <w.rf>
 <LM>w#w-wsj1821-001-p1s5W11</LM>
 </w.rf>
-<form>jenž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJYS1----------</tag>
+<form>jež</form>
+<tag>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJFP1----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJFS1----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJIP1----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJNP1----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJNS1----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJNS4----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJXP4----------</AM>
+<AM lemma="jež-99_:B_;S" src="auto">NNXXX-----A----</AM>
+<AM lemma="ježit" src="auto">Vi-S---2--A-I--</AM>
+<AM lemma="ježit" src="auto">Vi-S---3--A-I-4</AM></tag>
 <comment>
-<LM type="New Form">
-<text>jež</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1821-001-p1s5W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

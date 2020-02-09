@@ -2144,17 +2144,14 @@
 <w.rf>
 <LM>w#w-wsj1141-001-p1s9W36</LM>
 </w.rf>
-<form>rozklad</form>
+<form>rozkladu</form>
 <tag>
-<AM lemma="rozklad" src="auto">NNIS1-----A----</AM>
-<AM lemma="rozklad" src="auto" recommended="1">NNIS4-----A----</AM>
-</tag>
+<AM lemma="rozklad" src="auto">NNIS2-----A----</AM>
+<AM lemma="rozklad" src="auto" recommended="1">NNIS3-----A----</AM>
+<AM lemma="rozklad" src="auto">NNIS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>rozkladu</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1141-001-p1s9W37-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -20326,25 +20326,38 @@
 <w.rf>
 <LM>w#w-wsj1574-001-p1s62W1</LM>
 </w.rf>
-<form>Univerzálním</form>
+<form>Univerzální</form>
 <tag>
-<AM lemma="univerzální" src="auto">AAFP3----1A----</AM>
-<AM lemma="univerzální" src="auto">AAIP3----1A----</AM>
-<AM lemma="univerzální" src="auto">AAIS6----1A----</AM>
-<AM lemma="univerzální" src="auto">AAIS7----1A----</AM>
-<AM lemma="univerzální" src="auto">AAMP3----1A----</AM>
-<AM lemma="univerzální" src="auto">AAMS6----1A----</AM>
-<AM lemma="univerzální" src="auto">AAMS7----1A----</AM>
-<AM lemma="univerzální" src="auto">AANP3----1A----</AM>
-<AM lemma="univerzální" src="auto">AANS6----1A----</AM>
-<AM lemma="univerzální" src="auto" recommended="1">AANS7----1A----</AM>
-</tag>
+<AM lemma="univerzální" src="auto">AAFP1----1A----</AM>
+<AM lemma="univerzální" src="auto">AAFP4----1A----</AM>
+<AM lemma="univerzální" src="auto">AAFP5----1A----</AM>
+<AM lemma="univerzální" src="auto">AAFS1----1A----</AM>
+<AM lemma="univerzální" src="auto">AAFS2----1A----</AM>
+<AM lemma="univerzální" src="auto">AAFS3----1A----</AM>
+<AM lemma="univerzální" src="auto">AAFS4----1A----</AM>
+<AM lemma="univerzální" src="auto">AAFS5----1A----</AM>
+<AM lemma="univerzální" src="auto">AAFS6----1A----</AM>
+<AM lemma="univerzální" src="auto">AAFS7----1A----</AM>
+<AM lemma="univerzální" src="auto">AAIP1----1A----</AM>
+<AM lemma="univerzální" src="auto">AAIP4----1A----</AM>
+<AM lemma="univerzální" src="auto">AAIP5----1A----</AM>
+<AM lemma="univerzální" src="auto">AAIS1----1A----</AM>
+<AM lemma="univerzální" src="auto">AAIS4----1A----</AM>
+<AM lemma="univerzální" src="auto">AAIS5----1A----</AM>
+<AM lemma="univerzální" src="auto">AAMP1----1A----</AM>
+<AM lemma="univerzální" src="auto">AAMP4----1A----</AM>
+<AM lemma="univerzální" src="auto">AAMP5----1A----</AM>
+<AM lemma="univerzální" src="auto">AAMS1----1A----</AM>
+<AM lemma="univerzální" src="auto">AAMS5----1A----</AM>
+<AM lemma="univerzální" src="auto">AANP1----1A----</AM>
+<AM lemma="univerzální" src="auto">AANP4----1A----</AM>
+<AM lemma="univerzální" src="auto">AANP5----1A----</AM>
+<AM lemma="univerzální" src="auto" recommended="1">AANS1----1A----</AM>
+<AM lemma="univerzální" src="auto">AANS4----1A----</AM>
+<AM lemma="univerzální" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Univerzální</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1574-001-p1s62W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -25824,12 +25837,10 @@
 <w.rf>
 <LM>w#w-wsj1574-001-p1s77W6</LM>
 </w.rf>
-<form>?</form>
-<tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
+<form>"</form>
+<tag>
+<AM lemma="&quot;" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>"</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1574-001-p1s77W7-Ta">
@@ -25968,14 +25979,12 @@
 <w.rf>
 <LM>w#w-wsj1574-001-p1s77W20</LM>
 </w.rf>
-<form>?</form>
-<tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
+<form>"</form>
+<tag>
+<AM lemma="&quot;" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>"</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1574-001-p1s77W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

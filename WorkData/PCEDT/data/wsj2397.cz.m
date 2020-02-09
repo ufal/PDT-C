@@ -5485,17 +5485,21 @@
 <w.rf>
 <LM>w#w-wsj2397-001-p1s25W2</LM>
 </w.rf>
-<form>očekávaní</form>
+<form>očekávání</form>
 <tag>
-<AM lemma="očekávaný_^(*2t)" src="auto" recommended="1">AAMP1----1A----</AM>
-<AM lemma="očekávaný_^(*2t)" src="auto">AAMP5----1A----</AM>
-</tag>
+<AM lemma="očekávání_^(*3at)" src="auto">NNNP1-----A----</AM>
+<AM lemma="očekávání_^(*3at)" src="auto">NNNP2-----A----</AM>
+<AM lemma="očekávání_^(*3at)" src="auto">NNNP4-----A----</AM>
+<AM lemma="očekávání_^(*3at)" src="auto">NNNP5-----A----</AM>
+<AM lemma="očekávání_^(*3at)" src="auto">NNNS1-----A----</AM>
+<AM lemma="očekávání_^(*3at)" src="auto">NNNS2-----A----</AM>
+<AM lemma="očekávání_^(*3at)" src="auto">NNNS3-----A----</AM>
+<AM lemma="očekávání_^(*3at)" src="auto">NNNS4-----A----</AM>
+<AM lemma="očekávání_^(*3at)" src="auto">NNNS5-----A----</AM>
+<AM lemma="očekávání_^(*3at)" src="auto" recommended="1">NNNS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>očekávání</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2397-001-p1s25W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -12343,42 +12347,19 @@
 <w.rf>
 <LM>w#w-wsj2397-001-p1s47W35</LM>
 </w.rf>
-<form>finanční</form>
+<form>finančních</form>
 <tag>
-<AM lemma="finanční" src="auto">AAFP1----1A----</AM>
-<AM lemma="finanční" src="auto">AAFP4----1A----</AM>
-<AM lemma="finanční" src="auto">AAFP5----1A----</AM>
-<AM lemma="finanční" src="auto">AAFS1----1A----</AM>
-<AM lemma="finanční" src="auto" recommended="1">AAFS2----1A----</AM>
-<AM lemma="finanční" src="auto">AAFS3----1A----</AM>
-<AM lemma="finanční" src="auto">AAFS4----1A----</AM>
-<AM lemma="finanční" src="auto">AAFS5----1A----</AM>
-<AM lemma="finanční" src="auto">AAFS6----1A----</AM>
-<AM lemma="finanční" src="auto">AAFS7----1A----</AM>
-<AM lemma="finanční" src="auto">AAIP1----1A----</AM>
-<AM lemma="finanční" src="auto">AAIP4----1A----</AM>
-<AM lemma="finanční" src="auto">AAIP5----1A----</AM>
-<AM lemma="finanční" src="auto">AAIS1----1A----</AM>
-<AM lemma="finanční" src="auto">AAIS4----1A----</AM>
-<AM lemma="finanční" src="auto">AAIS5----1A----</AM>
-<AM lemma="finanční" src="auto">AAMP1----1A----</AM>
-<AM lemma="finanční" src="auto">AAMP4----1A----</AM>
-<AM lemma="finanční" src="auto">AAMP5----1A----</AM>
-<AM lemma="finanční" src="auto">AAMS1----1A----</AM>
-<AM lemma="finanční" src="auto">AAMS5----1A----</AM>
-<AM lemma="finanční" src="auto">AANP1----1A----</AM>
-<AM lemma="finanční" src="auto">AANP4----1A----</AM>
-<AM lemma="finanční" src="auto">AANP5----1A----</AM>
-<AM lemma="finanční" src="auto">AANS1----1A----</AM>
-<AM lemma="finanční" src="auto">AANS4----1A----</AM>
-<AM lemma="finanční" src="auto">AANS5----1A----</AM>
-</tag>
+<AM lemma="finanční" src="auto">AAFP2----1A----</AM>
+<AM lemma="finanční" src="auto">AAFP6----1A----</AM>
+<AM lemma="finanční" src="auto" recommended="1">AAIP2----1A----</AM>
+<AM lemma="finanční" src="auto">AAIP6----1A----</AM>
+<AM lemma="finanční" src="auto">AAMP2----1A----</AM>
+<AM lemma="finanční" src="auto">AAMP6----1A----</AM>
+<AM lemma="finanční" src="auto">AANP2----1A----</AM>
+<AM lemma="finanční" src="auto">AANP6----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>finančních</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2397-001-p1s47W36-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

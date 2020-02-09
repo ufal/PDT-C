@@ -795,18 +795,21 @@
 <w.rf>
 <LM>w#w-wsj0232-001-p1s2W7</LM>
 </w.rf>
-<form>odpovídajícímu</form>
+<form>odpovídajícím</form>
 <tag>
-<AM lemma="odpovídající_^(*4t)" src="auto" recommended="1">AGIS3-----A----</AM>
-<AM lemma="odpovídající_^(*4t)" src="auto">AGMS3-----A----</AM>
-<AM lemma="odpovídající_^(*4t)" src="auto">AGNS3-----A----</AM>
-</tag>
+<AM lemma="odpovídající_^(*4t)" src="auto">AGFP3-----A----</AM>
+<AM lemma="odpovídající_^(*4t)" src="auto">AGIP3-----A----</AM>
+<AM lemma="odpovídající_^(*4t)" src="auto" recommended="1">AGIS6-----A----</AM>
+<AM lemma="odpovídající_^(*4t)" src="auto">AGIS7-----A----</AM>
+<AM lemma="odpovídající_^(*4t)" src="auto">AGMP3-----A----</AM>
+<AM lemma="odpovídající_^(*4t)" src="auto">AGMS6-----A----</AM>
+<AM lemma="odpovídající_^(*4t)" src="auto">AGMS7-----A----</AM>
+<AM lemma="odpovídající_^(*4t)" src="auto">AGNP3-----A----</AM>
+<AM lemma="odpovídající_^(*4t)" src="auto">AGNS6-----A----</AM>
+<AM lemma="odpovídající_^(*4t)" src="auto">AGNS7-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>odpovídajícím</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0232-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

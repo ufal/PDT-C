@@ -3111,17 +3111,19 @@
 <w.rf>
 <LM>w#w-wsj0361-001-p1s9W13</LM>
 </w.rf>
-<form>1palcových</form>
+<form>jednopalcových</form>
 <tag>
-<AM lemma="1palcových" src="auto">X@-------------</AM>
-<AM lemma="1palcový" src="manual">AAIP2----1A----</AM>
-</tag>
+<AM lemma="jednopalcový" src="auto">AAFP2----1A----</AM>
+<AM lemma="jednopalcový" src="auto">AAFP6----1A----</AM>
+<AM lemma="jednopalcový" src="auto" recommended="1">AAIP2----1A----</AM>
+<AM lemma="jednopalcový" src="auto">AAIP6----1A----</AM>
+<AM lemma="jednopalcový" src="auto">AAMP2----1A----</AM>
+<AM lemma="jednopalcový" src="auto">AAMP6----1A----</AM>
+<AM lemma="jednopalcový" src="auto">AANP2----1A----</AM>
+<AM lemma="jednopalcový" src="auto">AANP6----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>jednopalcových</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0361-001-p1s9W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3795,15 +3797,10 @@
 <w.rf>
 <LM>w#w-wsj0361-001-p1s10W39</LM>
 </w.rf>
-<form>120megabytovým</form>
+<form>120</form>
 <tag>
-<AM lemma="120megabytovým" src="auto">X@-------------</AM>
-<AM lemma="120megabytový" src="manual">AAIS7----1A----</AM>
-</tag>
+<AM lemma="120" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>120</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0361-001-p1s10W39-Ta-sw1">
@@ -3811,17 +3808,21 @@
 <w.rf>
 <LM>w#w-wsj0361-001-p1s10W39</LM>
 </w.rf>
-<form>120megabytovým</form>
+<form>megabytovým</form>
 <tag>
-<AM lemma="120megabytovým" src="auto">X@-------------</AM>
-<AM lemma="120megabytový" src="manual">AAIS7----1A----</AM>
-</tag>
+<AM lemma="megabytový" src="auto">AAFP3----1A----</AM>
+<AM lemma="megabytový" src="auto">AAIP3----1A----</AM>
+<AM lemma="megabytový" src="auto">AAIS6----1A---7</AM>
+<AM lemma="megabytový" src="auto">AAIS7----1A----</AM>
+<AM lemma="megabytový" src="auto">AAMP3----1A----</AM>
+<AM lemma="megabytový" src="auto">AAMS6----1A---7</AM>
+<AM lemma="megabytový" src="auto">AAMS7----1A----</AM>
+<AM lemma="megabytový" src="auto">AANP3----1A----</AM>
+<AM lemma="megabytový" src="auto">AANS6----1A---7</AM>
+<AM lemma="megabytový" src="auto" recommended="1">AANS7----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>megabytovým</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0361-001-p1s10W40-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

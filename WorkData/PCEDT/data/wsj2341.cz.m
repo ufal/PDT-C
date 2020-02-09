@@ -2027,42 +2027,19 @@
 <w.rf>
 <LM>w#w-wsj2341-001-p1s4W26</LM>
 </w.rf>
-<form>rostoucí</form>
+<form>rostoucích</form>
 <tag>
-<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGFP1-----A----</AM>
-<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGFP4-----A----</AM>
-<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGFP5-----A----</AM>
-<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGFS1-----A----</AM>
-<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto" recommended="1">AGFS2-----A----</AM>
-<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGFS3-----A----</AM>
-<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGFS4-----A----</AM>
-<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGFS5-----A----</AM>
-<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGFS6-----A----</AM>
-<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGFS7-----A----</AM>
-<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGIP1-----A----</AM>
-<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGIP4-----A----</AM>
-<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGIP5-----A----</AM>
-<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGIS1-----A----</AM>
-<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGIS4-----A----</AM>
-<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGIS5-----A----</AM>
-<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGMP1-----A----</AM>
-<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGMP4-----A----</AM>
-<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGMP5-----A----</AM>
-<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGMS1-----A----</AM>
-<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGMS5-----A----</AM>
-<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGNP1-----A----</AM>
-<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGNP4-----A----</AM>
-<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGNP5-----A----</AM>
-<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGNS1-----A----</AM>
-<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGNS4-----A----</AM>
-<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGNS5-----A----</AM>
-</tag>
+<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGFP2-----A----</AM>
+<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGFP6-----A----</AM>
+<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto" recommended="1">AGIP2-----A----</AM>
+<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGIP6-----A----</AM>
+<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGMP2-----A----</AM>
+<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGMP6-----A----</AM>
+<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGNP2-----A----</AM>
+<AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGNP6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>rostoucích</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2341-001-p1s4W27-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

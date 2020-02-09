@@ -1778,14 +1778,14 @@
 <w.rf>
 <LM>w#w-wsj1754-001-p1s5W23</LM>
 </w.rf>
-<form>Pennsylvani</form>
-<tag lemma="Pennsylvani" src="auto">X@-------------</tag>
+<form>Pennsylvanii</form>
+<tag>
+<AM lemma="Pennsylvanie_;G" src="auto">NNFS3-----A----</AM>
+<AM lemma="Pennsylvanie_;G" src="auto">NNFS4-----A----</AM>
+<AM lemma="Pennsylvanie_;G" src="auto" recommended="1">NNFS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Pennsylvanii</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1754-001-p1s5W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

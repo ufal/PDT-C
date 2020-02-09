@@ -640,38 +640,34 @@
 <w.rf>
 <LM>w#w-wsj1887-001-p1s1W20</LM>
 </w.rf>
-<form>borovský</form>
+<form>obrovský</form>
 <tag>
-<AM lemma="borovský" src="auto">AAFP1----1A---6</AM>
-<AM lemma="borovský" src="auto">AAFP4----1A---6</AM>
-<AM lemma="borovský" src="auto">AAFP5----1A---6</AM>
-<AM lemma="borovský" src="auto">AAFS2----1A---6</AM>
-<AM lemma="borovský" src="auto">AAFS3----1A---6</AM>
-<AM lemma="borovský" src="auto">AAFS6----1A---6</AM>
-<AM lemma="borovský" src="auto">AAIP1----1A---6</AM>
-<AM lemma="borovský" src="auto">AAIP4----1A---6</AM>
-<AM lemma="borovský" src="auto">AAIP5----1A---6</AM>
-<AM lemma="borovský" src="auto">AAIS1----1A----</AM>
-<AM lemma="borovský" src="auto" recommended="1">AAIS4----1A----</AM>
-<AM lemma="borovský" src="auto">AAIS5----1A----</AM>
-<AM lemma="borovský" src="auto">AAMP1----1A---6</AM>
-<AM lemma="borovský" src="auto">AAMP4----1A---6</AM>
-<AM lemma="borovský" src="auto">AAMP5----1A---6</AM>
-<AM lemma="borovský" src="auto">AAMS1----1A----</AM>
-<AM lemma="borovský" src="auto">AAMS5----1A----</AM>
-<AM lemma="borovský" src="auto">AANP1----1A---6</AM>
-<AM lemma="borovský" src="auto">AANP4----1A---6</AM>
-<AM lemma="borovský" src="auto">AANP5----1A---6</AM>
-<AM lemma="borovský" src="auto">AANS1----1A---6</AM>
-<AM lemma="borovský" src="auto">AANS4----1A---6</AM>
-<AM lemma="borovský" src="auto">AANS5----1A---6</AM>
-</tag>
+<AM lemma="obrovský" src="auto">AAFP1----1A---6</AM>
+<AM lemma="obrovský" src="auto">AAFP4----1A---6</AM>
+<AM lemma="obrovský" src="auto">AAFP5----1A---6</AM>
+<AM lemma="obrovský" src="auto">AAFS2----1A---6</AM>
+<AM lemma="obrovský" src="auto">AAFS3----1A---6</AM>
+<AM lemma="obrovský" src="auto">AAFS6----1A---6</AM>
+<AM lemma="obrovský" src="auto">AAIP1----1A---6</AM>
+<AM lemma="obrovský" src="auto">AAIP4----1A---6</AM>
+<AM lemma="obrovský" src="auto">AAIP5----1A---6</AM>
+<AM lemma="obrovský" src="auto">AAIS1----1A----</AM>
+<AM lemma="obrovský" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="obrovský" src="auto">AAIS5----1A----</AM>
+<AM lemma="obrovský" src="auto">AAMP1----1A---6</AM>
+<AM lemma="obrovský" src="auto">AAMP4----1A---6</AM>
+<AM lemma="obrovský" src="auto">AAMP5----1A---6</AM>
+<AM lemma="obrovský" src="auto">AAMS1----1A----</AM>
+<AM lemma="obrovský" src="auto">AAMS5----1A----</AM>
+<AM lemma="obrovský" src="auto">AANP1----1A---6</AM>
+<AM lemma="obrovský" src="auto">AANP4----1A---6</AM>
+<AM lemma="obrovský" src="auto">AANP5----1A---6</AM>
+<AM lemma="obrovský" src="auto">AANS1----1A---6</AM>
+<AM lemma="obrovský" src="auto">AANS4----1A---6</AM>
+<AM lemma="obrovský" src="auto">AANS5----1A---6</AM></tag>
 <comment>
-<LM type="New Form">
-<text>obrovský</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1887-001-p1s1W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1536,14 +1532,13 @@
 <w.rf>
 <LM>w#w-wsj1887-001-p1s4W6</LM>
 </w.rf>
-<form>Massechussets</form>
-<tag lemma="Massechussets" src="auto">X@-------------</tag>
+<form>Massachusetts</form>
+<tag>
+<AM lemma="Massachusetts_;G" src="auto">NNIS1-----A----</AM>
+<AM lemma="Massachusetts_;G" src="auto" recommended="1">NNIS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Massachusetts</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1887-001-p1s4W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

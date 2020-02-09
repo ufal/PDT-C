@@ -3744,16 +3744,10 @@
 <w.rf>
 <LM>w#w-wsj0820-001-p1s17W6</LM>
 </w.rf>
-<form>100členném</form>
+<form>100</form>
 <tag>
-<AM lemma="100členný" src="auto" recommended="1">AAIS6----1A----</AM>
-<AM lemma="100členný" src="auto">AAMS6----1A----</AM>
-<AM lemma="100členný" src="auto">AANS6----1A----</AM>
-</tag>
+<AM lemma="100" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>100</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0820-001-p1s17W6-Ta-sw1">
@@ -3761,18 +3755,14 @@
 <w.rf>
 <LM>w#w-wsj0820-001-p1s17W6</LM>
 </w.rf>
-<form>100členném</form>
+<form>členném</form>
 <tag>
-<AM lemma="100členný" src="auto" recommended="1">AAIS6----1A----</AM>
-<AM lemma="100členný" src="auto">AAMS6----1A----</AM>
-<AM lemma="100členný" src="auto">AANS6----1A----</AM>
-</tag>
+<AM lemma="členný" src="auto" recommended="1">AAIS6----1A----</AM>
+<AM lemma="členný" src="auto">AAMS6----1A----</AM>
+<AM lemma="členný" src="auto">AANS6----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>členném</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0820-001-p1s17W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

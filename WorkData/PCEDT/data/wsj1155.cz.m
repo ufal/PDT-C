@@ -2871,14 +2871,12 @@
 <LM>w#w-wsj1155-001-p1s9W14</LM>
 </w.rf>
 <form_change>num_normalization</form_change>
-<form>1125</form>
-<tag lemma="1125" src="auto" recommended="1">C=-------------</tag>
+<form>1.125</form>
+<tag>
+<AM lemma="1.125" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>1.125</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1155-001-p1s9W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

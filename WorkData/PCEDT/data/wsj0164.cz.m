@@ -408,14 +408,12 @@
 <w.rf>
 <LM>w#w-wsj0164-001-p1s0W30</LM>
 </w.rf>
-<form>milard</form>
-<tag lemma="milard" src="auto">X@-------------</tag>
+<form>miliard</form>
+<tag>
+<AM lemma="miliarda`1000000000" src="auto" recommended="1">NNFP2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>miliard</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0164-001-p1s0W31-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -804,14 +802,12 @@
 <w.rf>
 <LM>w#w-wsj0164-001-p1s2W10</LM>
 </w.rf>
-<form>milard</form>
-<tag lemma="milard" src="auto">X@-------------</tag>
+<form>miliard</form>
+<tag>
+<AM lemma="miliarda`1000000000" src="auto" recommended="1">NNFP2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>miliard</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0164-001-p1s2W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1531,17 +1527,18 @@
 <w.rf>
 <LM>w#w-wsj0164-001-p1s5W10</LM>
 </w.rf>
-<form>společnost</form>
+<form>společnosti</form>
 <tag>
-<AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS4-----A----</AM>
-</tag>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFP1-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>společnosti</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0164-001-p1s5W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

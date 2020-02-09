@@ -61,12 +61,16 @@
 <w.rf>
 <LM>w#w-wsj2435-001-p1s0W5</LM>
 </w.rf>
-<form>Co.z</form>
-<tag lemma="Co.z" src="auto">X@-------------</tag>
+<form>Co</form>
+<tag>
+<AM lemma="co-1" src="auto">PQ--1----------</AM>
+<AM lemma="co-1" src="auto" recommended="1">PQ--4----------</AM>
+<AM lemma="co-2_^(cože;_ale_co)" src="auto">TT-------------</AM>
+<AM lemma="co-3_^(když:_poté/od_té_doby,_co)" src="auto">J,-------------</AM>
+<AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
+<AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
+<AM lemma="co-77_:B" src="auto">F%-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Co</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2435-001-p1s0W5-Ta-sw1">
@@ -74,12 +78,10 @@
 <w.rf>
 <LM>w#w-wsj2435-001-p1s0W5</LM>
 </w.rf>
-<form>Co.z</form>
-<tag lemma="Co.z" src="auto">X@-------------</tag>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>.</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2435-001-p1s0W5-Ta-sw2">
@@ -87,14 +89,14 @@
 <w.rf>
 <LM>w#w-wsj2435-001-p1s0W5</LM>
 </w.rf>
-<form>Co.z</form>
-<tag lemma="Co.z" src="auto">X@-------------</tag>
+<form>z</form>
+<tag>
+<AM lemma="z-1" src="auto" recommended="1">RR--2----------</AM>
+<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="z-88_:B" src="auto">NNXXX-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>z</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2435-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -515,12 +517,10 @@
 <w.rf>
 <LM>w#w-wsj2435-001-p1s1W10</LM>
 </w.rf>
-<form>vlasnit</form>
-<tag lemma="vlasnit" src="auto">X@-------------</tag>
+<form>vlastnit</form>
+<tag>
+<AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto" recommended="1">Vf--------A-I--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>vlastnit</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2435-001-p1s1W11-Ta">
@@ -572,24 +572,16 @@
 <w.rf>
 <LM>w#w-wsj2435-001-p1s1W15</LM>
 </w.rf>
-<form>dceřina</form>
+<form>dceřiná</form>
 <tag>
-<AM lemma="dceřin_^(*3ra)" src="auto" recommended="1">AUFS1F---------</AM>
-<AM lemma="dceřin_^(*3ra)" src="auto">AUFS5F---------</AM>
-<AM lemma="dceřin_^(*3ra)" src="auto">AUIS2F---------</AM>
-<AM lemma="dceřin_^(*3ra)" src="auto">AUMS2F---------</AM>
-<AM lemma="dceřin_^(*3ra)" src="auto">AUMS4F---------</AM>
-<AM lemma="dceřin_^(*3ra)" src="auto">AUNP1F---------</AM>
-<AM lemma="dceřin_^(*3ra)" src="auto">AUNP4F---------</AM>
-<AM lemma="dceřin_^(*3ra)" src="auto">AUNP5F---------</AM>
-<AM lemma="dceřin_^(*3ra)" src="auto">AUNS2F---------</AM>
-</tag>
+<AM lemma="dceřiný" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="dceřiný" src="auto">AAFS5----1A----</AM>
+<AM lemma="dceřiný" src="auto">AANP1----1A----</AM>
+<AM lemma="dceřiný" src="auto">AANP4----1A----</AM>
+<AM lemma="dceřiný" src="auto">AANP5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>dceřiná</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2435-001-p1s1W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

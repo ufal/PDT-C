@@ -16265,20 +16265,27 @@
 <w.rf>
 <LM>w#w-wsj2061-001-p1s55W27</LM>
 </w.rf>
-<form>kapitálová</form>
+<form>kapitálové</form>
 <tag>
-<AM lemma="kapitálový" src="auto">AAFS1----1A----</AM>
-<AM lemma="kapitálový" src="auto">AAFS5----1A----</AM>
-<AM lemma="kapitálový" src="auto">AANP1----1A----</AM>
-<AM lemma="kapitálový" src="auto" recommended="1">AANP4----1A----</AM>
-<AM lemma="kapitálový" src="auto">AANP5----1A----</AM>
-</tag>
+<AM lemma="kapitálový" src="auto">AAFP1----1A----</AM>
+<AM lemma="kapitálový" src="auto" recommended="1">AAFP4----1A----</AM>
+<AM lemma="kapitálový" src="auto">AAFP5----1A----</AM>
+<AM lemma="kapitálový" src="auto">AAFS2----1A----</AM>
+<AM lemma="kapitálový" src="auto">AAFS3----1A----</AM>
+<AM lemma="kapitálový" src="auto">AAFS6----1A----</AM>
+<AM lemma="kapitálový" src="auto">AAIP1----1A----</AM>
+<AM lemma="kapitálový" src="auto">AAIP4----1A----</AM>
+<AM lemma="kapitálový" src="auto">AAIP5----1A----</AM>
+<AM lemma="kapitálový" src="auto">AAMP4----1A----</AM>
+<AM lemma="kapitálový" src="auto">AANP1----1A---6</AM>
+<AM lemma="kapitálový" src="auto">AANP4----1A---6</AM>
+<AM lemma="kapitálový" src="auto">AANP5----1A---6</AM>
+<AM lemma="kapitálový" src="auto">AANS1----1A----</AM>
+<AM lemma="kapitálový" src="auto">AANS4----1A----</AM>
+<AM lemma="kapitálový" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>kapitálové</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2061-001-p1s55W28-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

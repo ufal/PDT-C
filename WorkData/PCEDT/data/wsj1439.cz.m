@@ -251,14 +251,16 @@
 <w.rf>
 <LM>w#w-wsj1439-001-p1s0W21</LM>
 </w.rf>
-<form>Houstnou</form>
-<tag lemma="houstnout" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<form>Houstonu</form>
+<tag>
+<AM lemma="Houston-1_;G" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="Houston-1_;G" src="auto">NNIS3-----A----</AM>
+<AM lemma="Houston-1_;G" src="auto">NNIS6-----A----</AM>
+<AM lemma="Houston-2_;S" src="auto">NNMS3-----A---1</AM>
+<AM lemma="Houston-2_;S" src="auto">NNMS6-----A---1</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Houstonu</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1439-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2967,25 +2969,23 @@
 <w.rf>
 <LM>w#w-wsj1439-001-p1s8W31</LM>
 </w.rf>
-<form>srovnání</form>
+<form>s</form>
 <tag>
-<AM lemma="srovnání_^(*3at)" src="auto">NNNP1-----A----</AM>
-<AM lemma="srovnání_^(*3at)" src="auto">NNNP2-----A----</AM>
-<AM lemma="srovnání_^(*3at)" src="auto">NNNP4-----A----</AM>
-<AM lemma="srovnání_^(*3at)" src="auto">NNNP5-----A----</AM>
-<AM lemma="srovnání_^(*3at)" src="auto">NNNS1-----A----</AM>
-<AM lemma="srovnání_^(*3at)" src="auto">NNNS2-----A----</AM>
-<AM lemma="srovnání_^(*3at)" src="auto">NNNS3-----A----</AM>
-<AM lemma="srovnání_^(*3at)" src="auto">NNNS4-----A----</AM>
-<AM lemma="srovnání_^(*3at)" src="auto">NNNS5-----A----</AM>
-<AM lemma="srovnání_^(*3at)" src="auto" recommended="1">NNNS6-----A----</AM>
-</tag>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-1" src="auto" recommended="1">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>s</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1439-001-p1s8W32-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

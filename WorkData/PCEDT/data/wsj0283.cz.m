@@ -7473,25 +7473,12 @@
 <w.rf>
 <LM>w#w-wsj0283-001-p1s21W7</LM>
 </w.rf>
-<form>shledání</form>
+<form>shledáni</form>
 <tag>
-<AM lemma="shledání_^(*3at)" src="auto">NNNP1-----A----</AM>
-<AM lemma="shledání_^(*3at)" src="auto">NNNP2-----A----</AM>
-<AM lemma="shledání_^(*3at)" src="auto">NNNP4-----A----</AM>
-<AM lemma="shledání_^(*3at)" src="auto">NNNP5-----A----</AM>
-<AM lemma="shledání_^(*3at)" src="auto">NNNS1-----A----</AM>
-<AM lemma="shledání_^(*3at)" src="auto">NNNS2-----A----</AM>
-<AM lemma="shledání_^(*3at)" src="auto">NNNS3-----A----</AM>
-<AM lemma="shledání_^(*3at)" src="auto" recommended="1">NNNS4-----A----</AM>
-<AM lemma="shledání_^(*3at)" src="auto">NNNS5-----A----</AM>
-<AM lemma="shledání_^(*3at)" src="auto">NNNS6-----A----</AM>
-</tag>
+<AM lemma="shledat" src="auto" recommended="1">VsMP---XX-APP--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>shledáni</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0283-001-p1s21W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

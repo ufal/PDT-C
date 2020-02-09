@@ -497,18 +497,12 @@
 <w.rf>
 <LM>w#w-wsj2083-001-p1s1W3</LM>
 </w.rf>
-<form>pokles</form>
+<form>poklesl</form>
 <tag>
-<AM lemma="pokles" src="auto">NNIS1-----A----</AM>
-<AM lemma="pokles" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="poklesnout" src="auto">VpYS---XR-AAP-6</AM>
-</tag>
+<AM lemma="poklesnout" src="auto" recommended="1">VpYS---XR-AAP-1</AM></tag>
 <comment>
-<LM type="New Form">
-<text>poklesl</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2083-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

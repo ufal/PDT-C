@@ -562,14 +562,13 @@
 <w.rf>
 <LM>w#w-wsj1243-001-p1s1W11</LM>
 </w.rf>
-<form>měsic</form>
-<tag lemma="měsic" src="auto">X@-------------</tag>
+<form>měsíc</form>
+<tag>
+<AM lemma="měsíc" src="auto">NNIS1-----A----</AM>
+<AM lemma="měsíc" src="auto" recommended="1">NNIS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>měsíc</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1243-001-p1s1W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

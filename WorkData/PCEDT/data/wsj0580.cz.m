@@ -696,14 +696,12 @@
 <w.rf>
 <LM>w#w-wsj0580-001-p1s2W12</LM>
 </w.rf>
-<form>zprávu</form>
-<tag lemma="zpráva" src="auto" recommended="1">NNFS4-----A----</tag>
+<form>zprávou</form>
+<tag>
+<AM lemma="zpráva" src="auto" recommended="1">NNFS7-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>zprávou</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0580-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

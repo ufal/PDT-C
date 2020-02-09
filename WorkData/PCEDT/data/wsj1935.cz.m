@@ -3157,14 +3157,13 @@
 <w.rf>
 <LM>w#w-wsj1935-001-p1s10W8</LM>
 </w.rf>
-<form>zájmem</form>
-<tag lemma="zájem" src="auto" recommended="1">NNIS7-----A----</tag>
+<form>zájem</form>
+<tag>
+<AM lemma="zájem" src="auto">NNIS1-----A----</AM>
+<AM lemma="zájem" src="auto" recommended="1">NNIS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>zájem</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1935-001-p1s10W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8513,14 +8512,12 @@
 <w.rf>
 <LM>w#w-wsj1935-001-p1s39W1</LM>
 </w.rf>
-<form>Mělo</form>
-<tag lemma="mít" src="auto" recommended="1">VpNS---XR-AAI--</tag>
+<form>Měly</form>
+<tag>
+<AM lemma="mít" src="auto" recommended="1">VpTP---XR-AAI--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Měly</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1935-001-p1s39W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -11509,17 +11509,38 @@
 <w.rf>
 <LM>w#w-wsj2308-001-p1s36W35</LM>
 </w.rf>
-<form>10denní</form>
+<form>desetidenní</form>
 <tag>
-<AM lemma="10denní" src="auto">X@-------------</AM>
-<AM lemma="10denní" src="manual">AAFS7----1A----</AM>
-</tag>
+<AM lemma="desetidenní" src="auto">AAFP1----1A----</AM>
+<AM lemma="desetidenní" src="auto">AAFP4----1A----</AM>
+<AM lemma="desetidenní" src="auto">AAFP5----1A----</AM>
+<AM lemma="desetidenní" src="auto">AAFS1----1A----</AM>
+<AM lemma="desetidenní" src="auto">AAFS2----1A----</AM>
+<AM lemma="desetidenní" src="auto">AAFS3----1A----</AM>
+<AM lemma="desetidenní" src="auto">AAFS4----1A----</AM>
+<AM lemma="desetidenní" src="auto">AAFS5----1A----</AM>
+<AM lemma="desetidenní" src="auto">AAFS6----1A----</AM>
+<AM lemma="desetidenní" src="auto" recommended="1">AAFS7----1A----</AM>
+<AM lemma="desetidenní" src="auto">AAIP1----1A----</AM>
+<AM lemma="desetidenní" src="auto">AAIP4----1A----</AM>
+<AM lemma="desetidenní" src="auto">AAIP5----1A----</AM>
+<AM lemma="desetidenní" src="auto">AAIS1----1A----</AM>
+<AM lemma="desetidenní" src="auto">AAIS4----1A----</AM>
+<AM lemma="desetidenní" src="auto">AAIS5----1A----</AM>
+<AM lemma="desetidenní" src="auto">AAMP1----1A----</AM>
+<AM lemma="desetidenní" src="auto">AAMP4----1A----</AM>
+<AM lemma="desetidenní" src="auto">AAMP5----1A----</AM>
+<AM lemma="desetidenní" src="auto">AAMS1----1A----</AM>
+<AM lemma="desetidenní" src="auto">AAMS5----1A----</AM>
+<AM lemma="desetidenní" src="auto">AANP1----1A----</AM>
+<AM lemma="desetidenní" src="auto">AANP4----1A----</AM>
+<AM lemma="desetidenní" src="auto">AANP5----1A----</AM>
+<AM lemma="desetidenní" src="auto">AANS1----1A----</AM>
+<AM lemma="desetidenní" src="auto">AANS4----1A----</AM>
+<AM lemma="desetidenní" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>desetidenní</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2308-001-p1s36W36-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

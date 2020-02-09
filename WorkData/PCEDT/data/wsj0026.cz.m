@@ -2762,12 +2762,10 @@
 <w.rf>
 <LM>w#w-wsj0026-001-p1s7W41</LM>
 </w.rf>
-<form>,</form>
-<tag lemma="," src="auto" recommended="1">Z:-------------</tag>
+<form>1.5</form>
+<tag>
+<AM lemma="1.5" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>1.5</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0026-001-p1s7W42-Ta">
@@ -2775,17 +2773,15 @@
 <w.rf>
 <LM>w#w-wsj0026-001-p1s7W42</LM>
 </w.rf>
-<form>5miliardového</form>
+<form>miliardového</form>
 <tag>
-<AM lemma="5miliardového" src="auto">X@-------------</AM>
-<AM lemma="5miliardový" src="manual">AAIS2----1A----</AM>
-</tag>
+<AM lemma="miliardový" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="miliardový" src="auto">AAMS2----1A----</AM>
+<AM lemma="miliardový" src="auto">AAMS4----1A----</AM>
+<AM lemma="miliardový" src="auto">AANS2----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>miliardového</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0026-001-p1s7W43-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

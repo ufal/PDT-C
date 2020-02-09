@@ -10013,14 +10013,13 @@
 <w.rf>
 <LM>w#w-wsj0562-001-p1s35W31</LM>
 </w.rf>
-<form>Grumann</form>
-<tag lemma="Grumann" src="auto">X@-------------</tag>
+<form>Grumman</form>
+<tag>
+<AM lemma="Grumman_;R_^(typ_letounu)" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Grumman_;R_^(typ_letounu)" src="auto">NNIS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Grumman</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0562-001-p1s35W32-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10197,14 +10196,12 @@
 <w.rf>
 <LM>w#w-wsj0562-001-p1s36W16</LM>
 </w.rf>
-<form>cílích</form>
-<tag lemma="cílích" src="auto">X@-------------</tag>
+<form>cílech</form>
+<tag>
+<AM lemma="cíl" src="auto" recommended="1">NNIP6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>cílech</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0562-001-p1s36W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

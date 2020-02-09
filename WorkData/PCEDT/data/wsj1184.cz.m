@@ -5020,15 +5020,10 @@
 <w.rf>
 <LM>w#w-wsj1184-001-p1s12W1</LM>
 </w.rf>
-<form>136stránková</form>
+<form>136</form>
 <tag>
-<AM lemma="136stránková" src="auto">X@-------------</AM>
-<AM lemma="136stránkový" src="manual">AAFS1----1A----</AM>
-</tag>
+<AM lemma="136" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>136</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1184-001-p1s12W1-Ta-sw1">
@@ -5036,17 +5031,16 @@
 <w.rf>
 <LM>w#w-wsj1184-001-p1s12W1</LM>
 </w.rf>
-<form>136stránková</form>
+<form>stránková</form>
 <tag>
-<AM lemma="136stránková" src="auto">X@-------------</AM>
-<AM lemma="136stránkový" src="manual">AAFS1----1A----</AM>
-</tag>
+<AM lemma="stránkový" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="stránkový" src="auto">AAFS5----1A----</AM>
+<AM lemma="stránkový" src="auto">AANP1----1A----</AM>
+<AM lemma="stránkový" src="auto">AANP4----1A----</AM>
+<AM lemma="stránkový" src="auto">AANP5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>stránková</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1184-001-p1s12W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

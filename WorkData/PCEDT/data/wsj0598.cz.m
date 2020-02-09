@@ -1326,17 +1326,12 @@
 <w.rf>
 <LM>w#w-wsj0598-001-p1s6W22</LM>
 </w.rf>
-<form>rozhodně</form>
+<form>rozhodne</form>
 <tag>
-<AM lemma="rozhodně-2" src="auto">TT-------------</AM>
-<AM lemma="rozhodně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
-</tag>
+<AM lemma="rozhodnout" src="auto" recommended="1">VB-S---3P-AAP--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>rozhodne</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0598-001-p1s6W23-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2889,17 +2884,13 @@
 <w.rf>
 <LM>w#w-wsj0598-001-p1s12W15</LM>
 </w.rf>
-<form>radostní</form>
+<form>radostí</form>
 <tag>
-<AM lemma="radostný" src="auto" recommended="1">AAMP1----1A----</AM>
-<AM lemma="radostný" src="auto">AAMP5----1A----</AM>
-</tag>
+<AM lemma="radost" src="auto">NNFP2-----A----</AM>
+<AM lemma="radost" src="auto" recommended="1">NNFS7-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>radostí</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0598-001-p1s12W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

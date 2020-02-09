@@ -6415,15 +6415,10 @@
 <w.rf>
 <LM>w#w-wsj1121-001-p1s24W4</LM>
 </w.rf>
-<form>18jamkové</form>
+<form>18</form>
 <tag>
-<AM lemma="18jamkové" src="auto">X@-------------</AM>
-<AM lemma="18jamkový" src="manual">AANS1----1A----</AM>
-</tag>
+<AM lemma="18" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>18</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1121-001-p1s24W4-Ta-sw1">
@@ -6431,17 +6426,27 @@
 <w.rf>
 <LM>w#w-wsj1121-001-p1s24W4</LM>
 </w.rf>
-<form>18jamkové</form>
+<form>jamkové</form>
 <tag>
-<AM lemma="18jamkové" src="auto">X@-------------</AM>
-<AM lemma="18jamkový" src="manual">AANS1----1A----</AM>
-</tag>
+<AM lemma="jamkový" src="auto">AAFP1----1A----</AM>
+<AM lemma="jamkový" src="auto">AAFP4----1A----</AM>
+<AM lemma="jamkový" src="auto">AAFP5----1A----</AM>
+<AM lemma="jamkový" src="auto">AAFS2----1A----</AM>
+<AM lemma="jamkový" src="auto">AAFS3----1A----</AM>
+<AM lemma="jamkový" src="auto">AAFS6----1A----</AM>
+<AM lemma="jamkový" src="auto">AAIP1----1A----</AM>
+<AM lemma="jamkový" src="auto">AAIP4----1A----</AM>
+<AM lemma="jamkový" src="auto">AAIP5----1A----</AM>
+<AM lemma="jamkový" src="auto">AAMP4----1A----</AM>
+<AM lemma="jamkový" src="auto">AANP1----1A---6</AM>
+<AM lemma="jamkový" src="auto">AANP4----1A---6</AM>
+<AM lemma="jamkový" src="auto">AANP5----1A---6</AM>
+<AM lemma="jamkový" src="auto" recommended="1">AANS1----1A----</AM>
+<AM lemma="jamkový" src="auto">AANS4----1A----</AM>
+<AM lemma="jamkový" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>jamkové</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1121-001-p1s24W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7314,14 +7319,13 @@
 <w.rf>
 <LM>w#w-wsj1121-001-p1s27W12</LM>
 </w.rf>
-<form>namíbijskou</form>
-<tag lemma="namíbijskou" src="auto">X@-------------</tag>
+<form>namibijskou</form>
+<tag>
+<AM lemma="namibijský" src="auto">AAFS4----1A----</AM>
+<AM lemma="namibijský" src="auto" recommended="1">AAFS7----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>namibijskou</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1121-001-p1s27W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

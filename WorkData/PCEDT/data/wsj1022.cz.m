@@ -7216,38 +7216,21 @@
 <w.rf>
 <LM>w#w-wsj1022-001-p1s20W12</LM>
 </w.rf>
-<form>klíčový</form>
+<form>klíčovým</form>
 <tag>
-<AM lemma="klíčový" src="auto">AAFP1----1A---6</AM>
-<AM lemma="klíčový" src="auto">AAFP4----1A---6</AM>
-<AM lemma="klíčový" src="auto">AAFP5----1A---6</AM>
-<AM lemma="klíčový" src="auto">AAFS2----1A---6</AM>
-<AM lemma="klíčový" src="auto">AAFS3----1A---6</AM>
-<AM lemma="klíčový" src="auto">AAFS6----1A---6</AM>
-<AM lemma="klíčový" src="auto">AAIP1----1A---6</AM>
-<AM lemma="klíčový" src="auto">AAIP4----1A---6</AM>
-<AM lemma="klíčový" src="auto">AAIP5----1A---6</AM>
-<AM lemma="klíčový" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="klíčový" src="auto">AAIS4----1A----</AM>
-<AM lemma="klíčový" src="auto">AAIS5----1A----</AM>
-<AM lemma="klíčový" src="auto">AAMP1----1A---6</AM>
-<AM lemma="klíčový" src="auto">AAMP4----1A---6</AM>
-<AM lemma="klíčový" src="auto">AAMP5----1A---6</AM>
-<AM lemma="klíčový" src="auto">AAMS1----1A----</AM>
-<AM lemma="klíčový" src="auto">AAMS5----1A----</AM>
-<AM lemma="klíčový" src="auto">AANP1----1A---6</AM>
-<AM lemma="klíčový" src="auto">AANP4----1A---6</AM>
-<AM lemma="klíčový" src="auto">AANP5----1A---6</AM>
-<AM lemma="klíčový" src="auto">AANS1----1A---6</AM>
-<AM lemma="klíčový" src="auto">AANS4----1A---6</AM>
-<AM lemma="klíčový" src="auto">AANS5----1A---6</AM>
-</tag>
+<AM lemma="klíčový" src="auto">AAFP3----1A----</AM>
+<AM lemma="klíčový" src="auto">AAIP3----1A----</AM>
+<AM lemma="klíčový" src="auto">AAIS6----1A---7</AM>
+<AM lemma="klíčový" src="auto" recommended="1">AAIS7----1A----</AM>
+<AM lemma="klíčový" src="auto">AAMP3----1A----</AM>
+<AM lemma="klíčový" src="auto">AAMS6----1A---7</AM>
+<AM lemma="klíčový" src="auto">AAMS7----1A----</AM>
+<AM lemma="klíčový" src="auto">AANP3----1A----</AM>
+<AM lemma="klíčový" src="auto">AANS6----1A---7</AM>
+<AM lemma="klíčový" src="auto">AANS7----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>klíčovým</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1022-001-p1s20W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -12800,14 +12783,12 @@
 <w.rf>
 <LM>w#w-wsj1022-001-p1s38W10</LM>
 </w.rf>
-<form>Bidenen</form>
-<tag lemma="Bidenen" src="auto">X@-------------</tag>
+<form>Bidenem</form>
+<tag>
+<AM lemma="Biden_;S" src="auto" recommended="1">NNMS7-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Bidenem</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1022-001-p1s38W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

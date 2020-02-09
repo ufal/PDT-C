@@ -1821,24 +1821,22 @@
 <w.rf>
 <LM>w#w-wsj0478-001-p1s4W15</LM>
 </w.rf>
-<form>který</form>
+<form>které</form>
 <tag>
-<AM lemma="který" src="auto">P4FS2---------6</AM>
-<AM lemma="který" src="auto">P4FS3---------6</AM>
-<AM lemma="který" src="auto">P4FS6---------6</AM>
-<AM lemma="který" src="auto">P4IS4----------</AM>
-<AM lemma="který" src="auto">P4NS1---------6</AM>
-<AM lemma="který" src="auto">P4NS4---------6</AM>
-<AM lemma="který" src="auto">P4XP1---------6</AM>
-<AM lemma="který" src="auto">P4XP4---------6</AM>
-<AM lemma="který" src="auto" recommended="1">P4YS1----------</AM>
-</tag>
+<AM lemma="který" src="auto">P4FP1----------</AM>
+<AM lemma="který" src="auto">P4FP4----------</AM>
+<AM lemma="který" src="auto">P4FS2----------</AM>
+<AM lemma="který" src="auto">P4FS3----------</AM>
+<AM lemma="který" src="auto">P4FS6----------</AM>
+<AM lemma="který" src="auto">P4IP1----------</AM>
+<AM lemma="který" src="auto">P4NP1---------6</AM>
+<AM lemma="který" src="auto">P4NP4---------6</AM>
+<AM lemma="který" src="auto">P4NS1----------</AM>
+<AM lemma="který" src="auto">P4NS4----------</AM>
+<AM lemma="který" src="auto" recommended="1">P4YP4----------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>které</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0478-001-p1s4W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

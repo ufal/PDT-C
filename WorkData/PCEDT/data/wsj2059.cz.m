@@ -15385,17 +15385,23 @@
 <w.rf>
 <LM>w#w-wsj2059-001-p1s49W6</LM>
 </w.rf>
-<form>uchopením</form>
+<form>uchopení</form>
 <tag>
-<AM lemma="uchopení_^(*3it)" src="auto">NNNP3-----A----</AM>
-<AM lemma="uchopení_^(*3it)" src="auto" recommended="1">NNNS7-----A----</AM>
-</tag>
+<AM lemma="uchopený_^(*3it)" src="auto">AAMP1----1A----</AM>
+<AM lemma="uchopený_^(*3it)" src="auto">AAMP5----1A----</AM>
+<AM lemma="uchopení_^(*3it)" src="auto">NNNP1-----A----</AM>
+<AM lemma="uchopení_^(*3it)" src="auto">NNNP2-----A----</AM>
+<AM lemma="uchopení_^(*3it)" src="auto">NNNP4-----A----</AM>
+<AM lemma="uchopení_^(*3it)" src="auto">NNNP5-----A----</AM>
+<AM lemma="uchopení_^(*3it)" src="auto">NNNS1-----A----</AM>
+<AM lemma="uchopení_^(*3it)" src="auto">NNNS2-----A----</AM>
+<AM lemma="uchopení_^(*3it)" src="auto">NNNS3-----A----</AM>
+<AM lemma="uchopení_^(*3it)" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="uchopení_^(*3it)" src="auto">NNNS5-----A----</AM>
+<AM lemma="uchopení_^(*3it)" src="auto">NNNS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>uchopení</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2059-001-p1s49W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

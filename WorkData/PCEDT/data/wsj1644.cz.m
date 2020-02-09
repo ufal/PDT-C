@@ -336,15 +336,10 @@
 <w.rf>
 <LM>w#w-wsj1644-001-p1s1W4</LM>
 </w.rf>
-<form>76stránkového</form>
+<form>76</form>
 <tag>
-<AM lemma="76stránkového" src="auto">X@-------------</AM>
-<AM lemma="76stránkový" src="manual">AAIS2----1A----</AM>
-</tag>
+<AM lemma="76" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>76</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1644-001-p1s1W4-Ta-sw1">
@@ -352,17 +347,15 @@
 <w.rf>
 <LM>w#w-wsj1644-001-p1s1W4</LM>
 </w.rf>
-<form>76stránkového</form>
+<form>stránkového</form>
 <tag>
-<AM lemma="76stránkového" src="auto">X@-------------</AM>
-<AM lemma="76stránkový" src="manual">AAIS2----1A----</AM>
-</tag>
+<AM lemma="stránkový" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="stránkový" src="auto">AAMS2----1A----</AM>
+<AM lemma="stránkový" src="auto">AAMS4----1A----</AM>
+<AM lemma="stránkový" src="auto">AANS2----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>stránkového</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1644-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

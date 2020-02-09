@@ -5170,14 +5170,12 @@
 <w.rf>
 <LM>w#w-wsj0453-001-p1s19W22</LM>
 </w.rf>
-<form>vyzývali</form>
-<tag lemma="vyzývat" src="auto" recommended="1">VpMP---XR-AAI--</tag>
+<form>vyzývaly</form>
+<tag>
+<AM lemma="vyzývat" src="auto" recommended="1">VpTP---XR-AAI--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>vyzývaly</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0453-001-p1s19W23-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

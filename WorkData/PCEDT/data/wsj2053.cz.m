@@ -899,14 +899,24 @@
 <w.rf>
 <LM>w#w-wsj2053-001-p1s2W24</LM>
 </w.rf>
-<form>Strategiské</form>
-<tag lemma="Strategiské" src="auto">X@-------------</tag>
+<form>Strategické</form>
+<tag>
+<AM lemma="strategický" src="auto">AAFP1----1A----</AM>
+<AM lemma="strategický" src="auto">AAFP4----1A----</AM>
+<AM lemma="strategický" src="auto">AAFP5----1A----</AM>
+<AM lemma="strategický" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="strategický" src="auto">AAFS3----1A----</AM>
+<AM lemma="strategický" src="auto">AAFS6----1A----</AM>
+<AM lemma="strategický" src="auto">AAIP1----1A----</AM>
+<AM lemma="strategický" src="auto">AAIP4----1A----</AM>
+<AM lemma="strategický" src="auto">AAIP5----1A----</AM>
+<AM lemma="strategický" src="auto">AAMP4----1A----</AM>
+<AM lemma="strategický" src="auto">AANS1----1A----</AM>
+<AM lemma="strategický" src="auto">AANS4----1A----</AM>
+<AM lemma="strategický" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Strategické</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2053-001-p1s2W25-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5784,14 +5794,14 @@
 <w.rf>
 <LM>w#w-wsj2053-001-p1s21W17</LM>
 </w.rf>
-<form>Senátů</form>
-<tag lemma="senát" src="auto" recommended="1">NNIP2-----A----</tag>
+<form>Senátu</form>
+<tag>
+<AM lemma="senát" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="senát" src="auto">NNIS3-----A----</AM>
+<AM lemma="senát" src="auto">NNIS6-----A---1</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Senátu</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2053-001-p1s21W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5969,14 +5979,34 @@
 <w.rf>
 <LM>w#w-wsj2053-001-p1s22W3</LM>
 </w.rf>
-<form>minul</form>
-<tag lemma="minout" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<form>minulý</form>
+<tag>
+<AM lemma="minulý" src="auto">AAFP1----1A---6</AM>
+<AM lemma="minulý" src="auto">AAFP4----1A---6</AM>
+<AM lemma="minulý" src="auto">AAFP5----1A---6</AM>
+<AM lemma="minulý" src="auto">AAFS2----1A---6</AM>
+<AM lemma="minulý" src="auto">AAFS3----1A---6</AM>
+<AM lemma="minulý" src="auto">AAFS6----1A---6</AM>
+<AM lemma="minulý" src="auto">AAIP1----1A---6</AM>
+<AM lemma="minulý" src="auto">AAIP4----1A---6</AM>
+<AM lemma="minulý" src="auto">AAIP5----1A---6</AM>
+<AM lemma="minulý" src="auto">AAIS1----1A----</AM>
+<AM lemma="minulý" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="minulý" src="auto">AAIS5----1A----</AM>
+<AM lemma="minulý" src="auto">AAMP1----1A---6</AM>
+<AM lemma="minulý" src="auto">AAMP4----1A---6</AM>
+<AM lemma="minulý" src="auto">AAMP5----1A---6</AM>
+<AM lemma="minulý" src="auto">AAMS1----1A----</AM>
+<AM lemma="minulý" src="auto">AAMS5----1A----</AM>
+<AM lemma="minulý" src="auto">AANP1----1A---6</AM>
+<AM lemma="minulý" src="auto">AANP4----1A---6</AM>
+<AM lemma="minulý" src="auto">AANP5----1A---6</AM>
+<AM lemma="minulý" src="auto">AANS1----1A---6</AM>
+<AM lemma="minulý" src="auto">AANS4----1A---6</AM>
+<AM lemma="minulý" src="auto">AANS5----1A---6</AM></tag>
 <comment>
-<LM type="New Form">
-<text>minulý</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2053-001-p1s22W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -378,15 +378,10 @@
 <w.rf>
 <LM>w#w-wsj0652-001-p1s1W3</LM>
 </w.rf>
-<form>12bodové</form>
+<form>12</form>
 <tag>
-<AM lemma="12bodové" src="auto">X@-------------</AM>
-<AM lemma="12bodový" src="manual">AAFS6----1A----</AM>
-</tag>
+<AM lemma="12" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>12</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0652-001-p1s1W3-Ta-sw1">
@@ -394,17 +389,27 @@
 <w.rf>
 <LM>w#w-wsj0652-001-p1s1W3</LM>
 </w.rf>
-<form>12bodové</form>
+<form>bodové</form>
 <tag>
-<AM lemma="12bodové" src="auto">X@-------------</AM>
-<AM lemma="12bodový" src="manual">AAFS6----1A----</AM>
-</tag>
+<AM lemma="bodový" src="auto">AAFP1----1A----</AM>
+<AM lemma="bodový" src="auto">AAFP4----1A----</AM>
+<AM lemma="bodový" src="auto">AAFP5----1A----</AM>
+<AM lemma="bodový" src="auto">AAFS2----1A----</AM>
+<AM lemma="bodový" src="auto">AAFS3----1A----</AM>
+<AM lemma="bodový" src="auto" recommended="1">AAFS6----1A----</AM>
+<AM lemma="bodový" src="auto">AAIP1----1A----</AM>
+<AM lemma="bodový" src="auto">AAIP4----1A----</AM>
+<AM lemma="bodový" src="auto">AAIP5----1A----</AM>
+<AM lemma="bodový" src="auto">AAMP4----1A----</AM>
+<AM lemma="bodový" src="auto">AANP1----1A---6</AM>
+<AM lemma="bodový" src="auto">AANP4----1A---6</AM>
+<AM lemma="bodový" src="auto">AANP5----1A---6</AM>
+<AM lemma="bodový" src="auto">AANS1----1A----</AM>
+<AM lemma="bodový" src="auto">AANS4----1A----</AM>
+<AM lemma="bodový" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>bodové</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0652-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1729,14 +1734,13 @@
 <w.rf>
 <LM>w#w-wsj0652-001-p1s5W6</LM>
 </w.rf>
-<form>Massachutsetts</form>
-<tag lemma="Massachutsetts" src="auto">X@-------------</tag>
+<form>Massachusetts</form>
+<tag>
+<AM lemma="Massachusetts_;G" src="auto">NNIS1-----A----</AM>
+<AM lemma="Massachusetts_;G" src="auto" recommended="1">NNIS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Massachusetts</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0652-001-p1s5W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

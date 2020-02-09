@@ -4236,17 +4236,12 @@
 <w.rf>
 <LM>w#w-wsj1695-001-p1s12W5</LM>
 </w.rf>
-<form>platí</form>
+<form>platily</form>
 <tag>
-<AM lemma="platit" src="auto" recommended="1">VB-P---3P-AAI--</AM>
-<AM lemma="platit" src="auto">VB-S---3P-AAI--</AM>
-</tag>
+<AM lemma="platit" src="auto" recommended="1">VpTP---XR-AAI--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>platily</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1695-001-p1s12W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

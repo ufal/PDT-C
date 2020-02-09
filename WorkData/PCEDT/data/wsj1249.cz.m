@@ -513,26 +513,13 @@
 <w.rf>
 <LM>w#w-wsj1249-001-p1s1W29</LM>
 </w.rf>
-<form>které</form>
+<form>kterou</form>
 <tag>
-<AM lemma="který" src="auto">P4FP1----------</AM>
-<AM lemma="který" src="auto">P4FP4----------</AM>
-<AM lemma="který" src="auto">P4FS2----------</AM>
-<AM lemma="který" src="auto">P4FS3----------</AM>
-<AM lemma="který" src="auto">P4FS6----------</AM>
-<AM lemma="který" src="auto">P4IP1----------</AM>
-<AM lemma="který" src="auto">P4NP1---------6</AM>
-<AM lemma="který" src="auto">P4NP4---------6</AM>
-<AM lemma="který" src="auto">P4NS1----------</AM>
-<AM lemma="který" src="auto">P4NS4----------</AM>
-<AM lemma="který" src="auto" recommended="1">P4YP4----------</AM>
-</tag>
+<AM lemma="který" src="auto" recommended="1">P4FS4----------</AM>
+<AM lemma="který" src="auto">P4FS7----------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>kterou</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1249-001-p1s1W30-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4835,14 +4822,12 @@
 <w.rf>
 <LM>w#w-wsj1249-001-p1s20W14</LM>
 </w.rf>
-<form>Američanům</form>
-<tag lemma="Američan_;E" src="auto" recommended="1">NNMP3-----A----</tag>
+<form>Američanů</form>
+<tag>
+<AM lemma="Američan_;E" src="auto" recommended="1">NNMP2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Američanů</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1249-001-p1s20W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

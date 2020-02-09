@@ -4027,15 +4027,10 @@
 <w.rf>
 <LM>w#w-wsj0461-001-p1s12W5</LM>
 </w.rf>
-<form>60denního</form>
+<form>60</form>
 <tag>
-<AM lemma="60denního" src="auto">X@-------------</AM>
-<AM lemma="60denní" src="manual">AANS2----1A----</AM>
-</tag>
+<AM lemma="60" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>60</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0461-001-p1s12W5-Ta-sw1">
@@ -4043,17 +4038,15 @@
 <w.rf>
 <LM>w#w-wsj0461-001-p1s12W5</LM>
 </w.rf>
-<form>60denního</form>
+<form>denního</form>
 <tag>
-<AM lemma="60denního" src="auto">X@-------------</AM>
-<AM lemma="60denní" src="manual">AANS2----1A----</AM>
-</tag>
+<AM lemma="denní" src="auto">AAIS2----1A----</AM>
+<AM lemma="denní" src="auto">AAMS2----1A----</AM>
+<AM lemma="denní" src="auto">AAMS4----1A----</AM>
+<AM lemma="denní" src="auto" recommended="1">AANS2----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>denního</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0461-001-p1s12W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

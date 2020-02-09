@@ -13287,17 +13287,12 @@
 <w.rf>
 <LM>w#w-wsj1002-001-p1s52W2</LM>
 </w.rf>
-<form>Konhein</form>
+<form>Konheim</form>
 <tag>
-<AM lemma="Konhein" src="auto">X@-------------</AM>
-<AM lemma="Konhein_;S" src="manual">NNMS1-----A----</AM>
-</tag>
+<AM lemma="Konheim" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Konheim</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1002-001-p1s52W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

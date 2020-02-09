@@ -3234,12 +3234,10 @@
 <w.rf>
 <LM>w#w-wsj2154-001-p1s10W5</LM>
 </w.rf>
-<form>80.let</form>
-<tag lemma="80.let" src="auto">X@-------------</tag>
+<form>80</form>
+<tag>
+<AM lemma="80" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>80</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2154-001-p1s10W5-Ta-sw1">
@@ -3247,12 +3245,10 @@
 <w.rf>
 <LM>w#w-wsj2154-001-p1s10W5</LM>
 </w.rf>
-<form>80.let</form>
-<tag lemma="80.let" src="auto">X@-------------</tag>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>.</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2154-001-p1s10W5-Ta-sw2">
@@ -3260,14 +3256,14 @@
 <w.rf>
 <LM>w#w-wsj2154-001-p1s10W5</LM>
 </w.rf>
-<form>80.let</form>
-<tag lemma="80.let" src="auto">X@-------------</tag>
+<form>let</form>
+<tag>
+<AM lemma="let" src="auto">NNIS1-----A----</AM>
+<AM lemma="let" src="auto">NNIS4-----A----</AM>
+<AM lemma="rok" src="auto" recommended="1">NNNP2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>let</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2154-001-p1s10W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7031,14 +7027,12 @@
 <w.rf>
 <LM>w#w-wsj2154-001-p1s22W4</LM>
 </w.rf>
-<form>Buzzelal</form>
-<tag lemma="Buzzelal" src="auto">X@-------------</tag>
+<form>Buzzella</form>
+<tag>
+<AM lemma="Buzzella" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Buzzella</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2154-001-p1s22W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

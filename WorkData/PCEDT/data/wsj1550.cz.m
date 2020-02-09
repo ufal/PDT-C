@@ -3260,17 +3260,20 @@
 <w.rf>
 <LM>w#w-wsj1550-001-p1s8W10</LM>
 </w.rf>
-<form>kterou</form>
+<form>který</form>
 <tag>
-<AM lemma="který" src="auto" recommended="1">P4FS4----------</AM>
-<AM lemma="který" src="auto">P4FS7----------</AM>
-</tag>
+<AM lemma="který" src="auto">P4FS2---------6</AM>
+<AM lemma="který" src="auto">P4FS3---------6</AM>
+<AM lemma="který" src="auto">P4FS6---------6</AM>
+<AM lemma="který" src="auto">P4IS4----------</AM>
+<AM lemma="který" src="auto">P4NS1---------6</AM>
+<AM lemma="který" src="auto">P4NS4---------6</AM>
+<AM lemma="který" src="auto">P4XP1---------6</AM>
+<AM lemma="který" src="auto">P4XP4---------6</AM>
+<AM lemma="který" src="auto" recommended="1">P4YS1----------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>který</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1550-001-p1s8W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5329,20 +5332,24 @@
 <w.rf>
 <LM>w#w-wsj1550-001-p1s15W27</LM>
 </w.rf>
-<form>elektrická</form>
+<form>elektrické</form>
 <tag>
-<AM lemma="elektrický" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="elektrický" src="auto">AAFS5----1A----</AM>
-<AM lemma="elektrický" src="auto">AANP1----1A----</AM>
-<AM lemma="elektrický" src="auto">AANP4----1A----</AM>
-<AM lemma="elektrický" src="auto">AANP5----1A----</AM>
-</tag>
+<AM lemma="elektrický" src="auto">AAFP1----1A----</AM>
+<AM lemma="elektrický" src="auto">AAFP4----1A----</AM>
+<AM lemma="elektrický" src="auto">AAFP5----1A----</AM>
+<AM lemma="elektrický" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="elektrický" src="auto">AAFS3----1A----</AM>
+<AM lemma="elektrický" src="auto">AAFS6----1A----</AM>
+<AM lemma="elektrický" src="auto">AAIP1----1A----</AM>
+<AM lemma="elektrický" src="auto">AAIP4----1A----</AM>
+<AM lemma="elektrický" src="auto">AAIP5----1A----</AM>
+<AM lemma="elektrický" src="auto">AAMP4----1A----</AM>
+<AM lemma="elektrický" src="auto">AANS1----1A----</AM>
+<AM lemma="elektrický" src="auto">AANS4----1A----</AM>
+<AM lemma="elektrický" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>elektrické</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1550-001-p1s15W28-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

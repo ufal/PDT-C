@@ -1679,14 +1679,12 @@
 <w.rf>
 <LM>w#w-wsj1405-001-p1s4W2</LM>
 </w.rf>
-<form>Scrowcroft</form>
-<tag lemma="Scrowcroft" src="auto">X@-------------</tag>
+<form>Scowcroft</form>
+<tag>
+<AM lemma="Scowcroft" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Scowcroft</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1405-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

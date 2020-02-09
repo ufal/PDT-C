@@ -2938,17 +2938,21 @@
 <w.rf>
 <LM>w#w-wsj1529-001-p1s7W40</LM>
 </w.rf>
-<form>srovnáním</form>
+<form>srovnání</form>
 <tag>
-<AM lemma="srovnání_^(*3at)" src="auto">NNNP3-----A----</AM>
-<AM lemma="srovnání_^(*3at)" src="auto" recommended="1">NNNS7-----A----</AM>
-</tag>
+<AM lemma="srovnání_^(*3at)" src="auto">NNNP1-----A----</AM>
+<AM lemma="srovnání_^(*3at)" src="auto">NNNP2-----A----</AM>
+<AM lemma="srovnání_^(*3at)" src="auto">NNNP4-----A----</AM>
+<AM lemma="srovnání_^(*3at)" src="auto">NNNP5-----A----</AM>
+<AM lemma="srovnání_^(*3at)" src="auto">NNNS1-----A----</AM>
+<AM lemma="srovnání_^(*3at)" src="auto">NNNS2-----A----</AM>
+<AM lemma="srovnání_^(*3at)" src="auto">NNNS3-----A----</AM>
+<AM lemma="srovnání_^(*3at)" src="auto">NNNS4-----A----</AM>
+<AM lemma="srovnání_^(*3at)" src="auto">NNNS5-----A----</AM>
+<AM lemma="srovnání_^(*3at)" src="auto" recommended="1">NNNS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>srovnání</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1529-001-p1s7W41-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

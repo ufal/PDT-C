@@ -555,19 +555,12 @@
 <w.rf>
 <LM>w#w-wsj0289-001-p1s0W41</LM>
 </w.rf>
-<form>bilionu</form>
+<form>bilionů</form>
 <tag>
-<AM lemma="bilión" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="bilión" src="auto">NNIS3-----A----</AM>
-<AM lemma="bilión" src="auto">NNIS6-----A----</AM>
-<AM lemma="bilion_,s_^(^DD**bilión)" src="manual">NNIS2-----A----</AM>
-</tag>
+<AM lemma="bilión" src="auto" recommended="1">NNIP2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>bilionů</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0289-001-p1s0W42-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -1769,14 +1769,12 @@
 <w.rf>
 <LM>w#w-wsj1774-001-p1s6W8</LM>
 </w.rf>
-<form>předvídali</form>
-<tag lemma="předvídat" src="auto" recommended="1">VpMP---XR-AAI--</tag>
+<form>předvídaly</form>
+<tag>
+<AM lemma="předvídat" src="auto" recommended="1">VpTP---XR-AAI--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>předvídaly</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1774-001-p1s6W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

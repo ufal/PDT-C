@@ -15,12 +15,10 @@
 <w.rf>
 <LM>w#w-wsj1588-001-p1s0W1</LM>
 </w.rf>
-<form>Byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<form>Byla</form>
+<tag>
+<AM lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Byla</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1588-001-p1s0W2-Ta">
@@ -36,12 +34,10 @@
 <w.rf>
 <LM>w#w-wsj1588-001-p1s0W3</LM>
 </w.rf>
-<form>zděšen</form>
-<tag lemma="zděsit" src="auto" recommended="1">VsYS---XX-APP--</tag>
+<form>zděšena</form>
+<tag>
+<AM lemma="zděsit" src="auto" recommended="1">VsQW---XX-APP--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>zděšena</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1588-001-p1s0W4-Ta">
@@ -241,14 +237,12 @@
 <w.rf>
 <LM>w#w-wsj1588-001-p1s0W20</LM>
 </w.rf>
-<form>četl</form>
-<tag lemma="číst" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<form>četla</form>
+<tag>
+<AM lemma="číst" src="auto" recommended="1">VpQW---XR-AAI--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>četla</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1588-001-p1s0W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

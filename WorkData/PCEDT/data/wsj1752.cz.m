@@ -436,17 +436,12 @@
 <w.rf>
 <LM>w#w-wsj1752-001-p1s0W33</LM>
 </w.rf>
-<form>15krát</form>
+<form>patnáctkrát</form>
 <tag>
-<AM lemma="15krát" src="auto">X@-------------</AM>
-<AM lemma="15krát`15" src="manual">Cv-------------</AM>
-</tag>
+<AM lemma="patnáctkrát`15_^(*4)" src="auto" recommended="1">Cv-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>patnáctkrát</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1752-001-p1s0W34-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

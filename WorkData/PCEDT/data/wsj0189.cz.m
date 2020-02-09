@@ -681,14 +681,14 @@
 <w.rf>
 <LM>w#w-wsj0189-001-p1s1W17</LM>
 </w.rf>
-<form>skcii</form>
-<tag lemma="skcii" src="auto">X@-------------</tag>
+<form>akcii</form>
+<tag>
+<AM lemma="akcie" src="auto">NNFS3-----A----</AM>
+<AM lemma="akcie" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="akcie" src="auto">NNFS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>akcii</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0189-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1778,17 +1778,12 @@
 <w.rf>
 <LM>w#w-wsj0189-001-p1s5W12</LM>
 </w.rf>
-<form>13ti</form>
+<form>13</form>
 <tag>
-<AM lemma="13ti" src="auto">X@-------------</AM>
-<AM lemma="13ti" src="manual">S2--------A----</AM>
-</tag>
+<AM lemma="13" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>13</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0189-001-p1s5W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

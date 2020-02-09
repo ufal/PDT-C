@@ -8172,17 +8172,27 @@
 <w.rf>
 <LM>w#w-wsj0814-001-p1s25W7</LM>
 </w.rf>
-<form>svázaní</form>
+<form>svázané</form>
 <tag>
-<AM lemma="svázaný_^(*2t)" src="auto" recommended="1">AAMP1----1A----</AM>
-<AM lemma="svázaný_^(*2t)" src="auto">AAMP5----1A----</AM>
-</tag>
+<AM lemma="svázaný_^(*2t)" src="auto">AAFP1----1A----</AM>
+<AM lemma="svázaný_^(*2t)" src="auto">AAFP4----1A----</AM>
+<AM lemma="svázaný_^(*2t)" src="auto">AAFP5----1A----</AM>
+<AM lemma="svázaný_^(*2t)" src="auto">AAFS2----1A----</AM>
+<AM lemma="svázaný_^(*2t)" src="auto">AAFS3----1A----</AM>
+<AM lemma="svázaný_^(*2t)" src="auto">AAFS6----1A----</AM>
+<AM lemma="svázaný_^(*2t)" src="auto">AAIP1----1A----</AM>
+<AM lemma="svázaný_^(*2t)" src="auto">AAIP4----1A----</AM>
+<AM lemma="svázaný_^(*2t)" src="auto">AAIP5----1A----</AM>
+<AM lemma="svázaný_^(*2t)" src="auto" recommended="1">AAMP4----1A----</AM>
+<AM lemma="svázaný_^(*2t)" src="auto">AANP1----1A---6</AM>
+<AM lemma="svázaný_^(*2t)" src="auto">AANP4----1A---6</AM>
+<AM lemma="svázaný_^(*2t)" src="auto">AANP5----1A---6</AM>
+<AM lemma="svázaný_^(*2t)" src="auto">AANS1----1A----</AM>
+<AM lemma="svázaný_^(*2t)" src="auto">AANS4----1A----</AM>
+<AM lemma="svázaný_^(*2t)" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>svázané</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0814-001-p1s25W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

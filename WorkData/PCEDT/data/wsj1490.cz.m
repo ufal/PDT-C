@@ -2798,12 +2798,10 @@
 <w.rf>
 <LM>w#w-wsj1490-001-p1s6W9</LM>
 </w.rf>
-<form>,</form>
-<tag lemma="," src="auto" recommended="1">Z:-------------</tag>
+<form>8.5</form>
+<tag>
+<AM lemma="8.5" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>8.5</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1490-001-p1s6W10-Ta">
@@ -2811,15 +2809,11 @@
 <w.rf>
 <LM>w#w-wsj1490-001-p1s6W10</LM>
 </w.rf>
-<form>5krát</form>
+<form>krát</form>
 <tag>
-<AM lemma="5krát" src="auto">X@-------------</AM>
-<AM lemma="5krát`5" src="manual">Cv-------------</AM>
-</tag>
+<AM lemma="krát-1_^(mat._operace;_2_krát_3)" src="auto" recommended="1">J*-------------</AM>
+<AM lemma="krát-2" src="auto">Db-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>krát</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1490-001-p1s6W11-Ta">
@@ -2839,17 +2833,12 @@
 <w.rf>
 <LM>w#w-wsj1490-001-p1s6W12</LM>
 </w.rf>
-<form>10krát</form>
+<form>desetkrát</form>
 <tag>
-<AM lemma="10krát" src="auto">X@-------------</AM>
-<AM lemma="10krát`10" src="manual">Cv-------------</AM>
-</tag>
+<AM lemma="desetkrát`10" src="auto" recommended="1">Cv-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>desetkrát</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1490-001-p1s6W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3456,15 +3445,10 @@
 <w.rf>
 <LM>w#w-wsj1490-001-p1s7W27</LM>
 </w.rf>
-<form>13násobek</form>
+<form>13</form>
 <tag>
-<AM lemma="13násobek" src="auto">X@-------------</AM>
-<AM lemma="13násobek" src="manual">NNIS1-----A----</AM>
-</tag>
+<AM lemma="13" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>13</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1490-001-p1s7W27-Ta-sw1">
@@ -3472,17 +3456,13 @@
 <w.rf>
 <LM>w#w-wsj1490-001-p1s7W27</LM>
 </w.rf>
-<form>13násobek</form>
+<form>násobek</form>
 <tag>
-<AM lemma="13násobek" src="auto">X@-------------</AM>
-<AM lemma="13násobek" src="manual">NNIS1-----A----</AM>
-</tag>
+<AM lemma="násobek" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="násobek" src="auto">NNIS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>násobek</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1490-001-p1s7W28-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -364,14 +364,17 @@
 <w.rf>
 <LM>w#w-wsj2074-001-p1s1W9</LM>
 </w.rf>
-<form>Koumbie</form>
-<tag lemma="Koumbie" src="auto">X@-------------</tag>
+<form>Kolumbie</form>
+<tag>
+<AM lemma="Kolumbie_;G" src="auto">NNFP1-----A----</AM>
+<AM lemma="Kolumbie_;G" src="auto">NNFP4-----A----</AM>
+<AM lemma="Kolumbie_;G" src="auto">NNFP5-----A----</AM>
+<AM lemma="Kolumbie_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="Kolumbie_;G" src="auto">NNFS2-----A----</AM>
+<AM lemma="Kolumbie_;G" src="auto">NNFS5-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Kolumbie</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2074-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

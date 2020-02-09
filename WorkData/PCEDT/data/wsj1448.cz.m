@@ -4844,17 +4844,15 @@
 <w.rf>
 <LM>w#w-wsj1448-001-p1s20W6</LM>
 </w.rf>
-<form>2miliardového</form>
+<form>dvoumiliardového</form>
 <tag>
-<AM lemma="2miliardového" src="auto">X@-------------</AM>
-<AM lemma="2miliardový" src="manual">AAIS2----1A----</AM>
-</tag>
+<AM lemma="dvoumiliardový" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="dvoumiliardový" src="auto">AAMS2----1A----</AM>
+<AM lemma="dvoumiliardový" src="auto">AAMS4----1A----</AM>
+<AM lemma="dvoumiliardový" src="auto">AANS2----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>dvoumiliardového</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1448-001-p1s20W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9213,14 +9211,12 @@
 <w.rf>
 <LM>w#w-wsj1448-001-p1s36W33</LM>
 </w.rf>
-<form>vybrali</form>
-<tag lemma="vybrat" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<form>vybraly</form>
+<tag>
+<AM lemma="vybrat" src="auto" recommended="1">VpTP---XR-AAP--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>vybraly</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1448-001-p1s36W34-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

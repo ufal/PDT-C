@@ -217,17 +217,12 @@
 <w.rf>
 <LM>w#w-wsj1343-001-p1s0W20</LM>
 </w.rf>
-<form>Guadaljara</form>
+<form>Guadalajara</form>
 <tag>
-<AM lemma="Guadaljara" src="auto">X@-------------</AM>
-<AM lemma="Guadaljara_;G" src="manual">NNFS1-----A----</AM>
-</tag>
+<AM lemma="Guadalajara_;G" src="auto" recommended="1">NNFS1-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Guadalajara</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1343-001-p1s0W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -646,14 +641,12 @@
 <w.rf>
 <LM>w#w-wsj1343-001-p1s2W9</LM>
 </w.rf>
-<form>Gaudaljara</form>
-<tag lemma="Gaudaljara" src="auto">X@-------------</tag>
+<form>Guadalajara</form>
+<tag>
+<AM lemma="Guadalajara_;G" src="auto" recommended="1">NNFS1-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Guadalajara</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1343-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1017,14 +1010,12 @@
 <w.rf>
 <LM>w#w-wsj1343-001-p1s3W12</LM>
 </w.rf>
-<form>Gaudaljara</form>
-<tag lemma="Gaudaljara" src="auto">X@-------------</tag>
+<form>Guadalajara</form>
+<tag>
+<AM lemma="Guadalajara_;G" src="auto" recommended="1">NNFS1-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Guadalajara</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1343-001-p1s3W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

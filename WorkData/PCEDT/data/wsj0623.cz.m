@@ -1540,31 +1540,15 @@
 <w.rf>
 <LM>w#w-wsj0623-001-p1s7W5</LM>
 </w.rf>
-<form>Rozpočtové</form>
+<form>Rozpočtového</form>
 <tag>
-<AM lemma="rozpočtový" src="auto">AAFP1----1A----</AM>
-<AM lemma="rozpočtový" src="auto">AAFP4----1A----</AM>
-<AM lemma="rozpočtový" src="auto">AAFP5----1A----</AM>
-<AM lemma="rozpočtový" src="auto" recommended="1">AAFS2----1A----</AM>
-<AM lemma="rozpočtový" src="auto">AAFS3----1A----</AM>
-<AM lemma="rozpočtový" src="auto">AAFS6----1A----</AM>
-<AM lemma="rozpočtový" src="auto">AAIP1----1A----</AM>
-<AM lemma="rozpočtový" src="auto">AAIP4----1A----</AM>
-<AM lemma="rozpočtový" src="auto">AAIP5----1A----</AM>
-<AM lemma="rozpočtový" src="auto">AAMP4----1A----</AM>
-<AM lemma="rozpočtový" src="auto">AANP1----1A---6</AM>
-<AM lemma="rozpočtový" src="auto">AANP4----1A---6</AM>
-<AM lemma="rozpočtový" src="auto">AANP5----1A---6</AM>
-<AM lemma="rozpočtový" src="auto">AANS1----1A----</AM>
-<AM lemma="rozpočtový" src="auto">AANS4----1A----</AM>
-<AM lemma="rozpočtový" src="auto">AANS5----1A----</AM>
-</tag>
+<AM lemma="rozpočtový" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="rozpočtový" src="auto">AAMS2----1A----</AM>
+<AM lemma="rozpočtový" src="auto">AAMS4----1A----</AM>
+<AM lemma="rozpočtový" src="auto">AANS2----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Rozpočtového</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0623-001-p1s7W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

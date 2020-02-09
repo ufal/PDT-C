@@ -8084,14 +8084,12 @@
 <w.rf>
 <LM>w#w-wsj2387-001-p1s31W17</LM>
 </w.rf>
-<form>?</form>
-<tag lemma="?" src="auto" recommended="1">Z:-------------</tag>
+<form>-</form>
+<tag>
+<AM lemma="-" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>-</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2387-001-p1s31W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -11362,15 +11360,10 @@
 <w.rf>
 <LM>w#w-wsj2387-001-p1s40W40</LM>
 </w.rf>
-<form>2palcové</form>
+<form>2</form>
 <tag>
-<AM lemma="2palcové" src="auto">X@-------------</AM>
-<AM lemma="2palcové" src="manual">AAFP4----1A----</AM>
-</tag>
+<AM lemma="2" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>2</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2387-001-p1s40W40-Ta-sw1">
@@ -11378,17 +11371,27 @@
 <w.rf>
 <LM>w#w-wsj2387-001-p1s40W40</LM>
 </w.rf>
-<form>2palcové</form>
+<form>palcové</form>
 <tag>
-<AM lemma="2palcové" src="auto">X@-------------</AM>
-<AM lemma="2palcové" src="manual">AAFP4----1A----</AM>
-</tag>
+<AM lemma="palcový" src="auto" recommended="1">AAFP1----1A----</AM>
+<AM lemma="palcový" src="auto">AAFP4----1A----</AM>
+<AM lemma="palcový" src="auto">AAFP5----1A----</AM>
+<AM lemma="palcový" src="auto">AAFS2----1A----</AM>
+<AM lemma="palcový" src="auto">AAFS3----1A----</AM>
+<AM lemma="palcový" src="auto">AAFS6----1A----</AM>
+<AM lemma="palcový" src="auto">AAIP1----1A----</AM>
+<AM lemma="palcový" src="auto">AAIP4----1A----</AM>
+<AM lemma="palcový" src="auto">AAIP5----1A----</AM>
+<AM lemma="palcový" src="auto">AAMP4----1A----</AM>
+<AM lemma="palcový" src="auto">AANP1----1A---6</AM>
+<AM lemma="palcový" src="auto">AANP4----1A---6</AM>
+<AM lemma="palcový" src="auto">AANP5----1A---6</AM>
+<AM lemma="palcový" src="auto">AANS1----1A----</AM>
+<AM lemma="palcový" src="auto">AANS4----1A----</AM>
+<AM lemma="palcový" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>palcové</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2387-001-p1s40W41-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -11631,15 +11634,10 @@
 <w.rf>
 <LM>w#w-wsj2387-001-p1s41W22</LM>
 </w.rf>
-<form>2palcové</form>
+<form>2</form>
 <tag>
-<AM lemma="2palcové" src="auto">X@-------------</AM>
-<AM lemma="2palcové" src="manual">AAFP1----1A----</AM>
-</tag>
+<AM lemma="2" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>2</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2387-001-p1s41W22-Ta-sw1">
@@ -11647,17 +11645,27 @@
 <w.rf>
 <LM>w#w-wsj2387-001-p1s41W22</LM>
 </w.rf>
-<form>2palcové</form>
+<form>palcové</form>
 <tag>
-<AM lemma="2palcové" src="auto">X@-------------</AM>
-<AM lemma="2palcové" src="manual">AAFP1----1A----</AM>
-</tag>
+<AM lemma="palcový" src="auto" recommended="1">AAFP1----1A----</AM>
+<AM lemma="palcový" src="auto">AAFP4----1A----</AM>
+<AM lemma="palcový" src="auto">AAFP5----1A----</AM>
+<AM lemma="palcový" src="auto">AAFS2----1A----</AM>
+<AM lemma="palcový" src="auto">AAFS3----1A----</AM>
+<AM lemma="palcový" src="auto">AAFS6----1A----</AM>
+<AM lemma="palcový" src="auto">AAIP1----1A----</AM>
+<AM lemma="palcový" src="auto">AAIP4----1A----</AM>
+<AM lemma="palcový" src="auto">AAIP5----1A----</AM>
+<AM lemma="palcový" src="auto">AAMP4----1A----</AM>
+<AM lemma="palcový" src="auto">AANP1----1A---6</AM>
+<AM lemma="palcový" src="auto">AANP4----1A---6</AM>
+<AM lemma="palcový" src="auto">AANP5----1A---6</AM>
+<AM lemma="palcový" src="auto">AANS1----1A----</AM>
+<AM lemma="palcový" src="auto">AANS4----1A----</AM>
+<AM lemma="palcový" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>palcové</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2387-001-p1s41W23-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -13305,15 +13313,10 @@
 <w.rf>
 <LM>w#w-wsj2387-001-p1s47W8</LM>
 </w.rf>
-<form>2palcovou</form>
+<form>2</form>
 <tag>
-<AM lemma="2palcovou" src="auto">X@-------------</AM>
-<AM lemma="2palcovou" src="manual">AAFS4----1A----</AM>
-</tag>
+<AM lemma="2" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>2</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2387-001-p1s47W8-Ta-sw1">
@@ -13321,17 +13324,13 @@
 <w.rf>
 <LM>w#w-wsj2387-001-p1s47W8</LM>
 </w.rf>
-<form>2palcovou</form>
+<form>palcovou</form>
 <tag>
-<AM lemma="2palcovou" src="auto">X@-------------</AM>
-<AM lemma="2palcovou" src="manual">AAFS4----1A----</AM>
-</tag>
+<AM lemma="palcový" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="palcový" src="auto">AAFS7----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>palcovou</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2387-001-p1s47W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

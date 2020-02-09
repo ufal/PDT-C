@@ -1284,18 +1284,12 @@
 <w.rf>
 <LM>w#w-wsj2045-001-p1s5W4</LM>
 </w.rf>
-<form>Saivaka</form>
+<form>Savaika</form>
 <tag>
-<AM lemma="Saivaka" src="auto">X@-------------</AM>
-<AM lemma="Saivak_;S" src="manual">NNMS2-----A----</AM>
-<AM lemma="Saivako_;S" src="manual">NNMS2-----A----</AM>
-</tag>
+<AM lemma="Savaika" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Savaika</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2045-001-p1s5W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

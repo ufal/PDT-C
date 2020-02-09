@@ -8835,14 +8835,12 @@
 <w.rf>
 <LM>w#w-wsj0530-001-p1s28W18</LM>
 </w.rf>
-<form>specialista</form>
-<tag lemma="specialista" src="auto" recommended="1">NNMS1-----A----</tag>
+<form>specialistka</form>
+<tag>
+<AM lemma="specialistka_^(*2a)" src="auto" recommended="1">NNFS1-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>specialistka</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0530-001-p1s28W19-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

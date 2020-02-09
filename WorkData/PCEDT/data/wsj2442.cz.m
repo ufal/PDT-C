@@ -1075,12 +1075,17 @@
 <w.rf>
 <LM>w#w-wsj2442-001-p1s1W34</LM>
 </w.rf>
-<form>vyspělích</form>
-<tag lemma="vyspělích" src="auto">X@-------------</tag>
+<form>vyspělých</form>
+<tag>
+<AM lemma="vyspělý_^(*2t)" src="auto" recommended="1">AAFP2----1A----</AM>
+<AM lemma="vyspělý_^(*2t)" src="auto">AAFP6----1A----</AM>
+<AM lemma="vyspělý_^(*2t)" src="auto">AAIP2----1A----</AM>
+<AM lemma="vyspělý_^(*2t)" src="auto">AAIP6----1A----</AM>
+<AM lemma="vyspělý_^(*2t)" src="auto">AAMP2----1A----</AM>
+<AM lemma="vyspělý_^(*2t)" src="auto">AAMP6----1A----</AM>
+<AM lemma="vyspělý_^(*2t)" src="auto">AANP2----1A----</AM>
+<AM lemma="vyspělý_^(*2t)" src="auto">AANP6----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>vyspělých</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2442-001-p1s1W35-Ta">
@@ -1143,12 +1148,10 @@
 <w.rf>
 <LM>w#w-wsj2442-001-p1s1W40</LM>
 </w.rf>
-<form>1.17miliardy</form>
-<tag lemma="1.17miliardy" src="auto">X@-------------</tag>
+<form>1.17</form>
+<tag>
+<AM lemma="1.17" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>1.17</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2442-001-p1s1W40-Ta-sw1">
@@ -1156,14 +1159,15 @@
 <w.rf>
 <LM>w#w-wsj2442-001-p1s1W40</LM>
 </w.rf>
-<form>1.17miliardy</form>
-<tag lemma="1.17miliardy" src="auto">X@-------------</tag>
+<form>miliardy</form>
+<tag>
+<AM lemma="miliarda`1000000000" src="auto">NNFP1-----A----</AM>
+<AM lemma="miliarda`1000000000" src="auto">NNFP4-----A----</AM>
+<AM lemma="miliarda`1000000000" src="auto">NNFP5-----A----</AM>
+<AM lemma="miliarda`1000000000" src="auto" recommended="1">NNFS2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>miliardy</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2442-001-p1s1W41-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1543,14 +1547,23 @@
 <w.rf>
 <LM>w#w-wsj2442-001-p1s3W13</LM>
 </w.rf>
-<form>čtvrletí</form>
-<tag lemma="čtvrletí" src="auto">X@-------------</tag>
+<form>čtvrtletí</form>
+<tag>
+<AM lemma="čtvrtletý" src="auto">AAMP1----1A----</AM>
+<AM lemma="čtvrtletý" src="auto">AAMP5----1A----</AM>
+<AM lemma="čtvrtletí" src="auto">NNNP1-----A----</AM>
+<AM lemma="čtvrtletí" src="auto">NNNP2-----A----</AM>
+<AM lemma="čtvrtletí" src="auto">NNNP4-----A----</AM>
+<AM lemma="čtvrtletí" src="auto">NNNP5-----A----</AM>
+<AM lemma="čtvrtletí" src="auto">NNNS1-----A----</AM>
+<AM lemma="čtvrtletí" src="auto">NNNS2-----A----</AM>
+<AM lemma="čtvrtletí" src="auto">NNNS3-----A----</AM>
+<AM lemma="čtvrtletí" src="auto">NNNS4-----A----</AM>
+<AM lemma="čtvrtletí" src="auto">NNNS5-----A----</AM>
+<AM lemma="čtvrtletí" src="auto" recommended="1">NNNS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>čtvrtletí</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2442-001-p1s3W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1890,14 +1903,12 @@
 <w.rf>
 <LM>w#w-wsj2442-001-p1s4W2</LM>
 </w.rf>
-<form>Bowden</form>
-<tag lemma="Bowden_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<form>Bowder</form>
+<tag>
+<AM lemma="Bowder" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Bowder</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2442-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3259,14 +3270,12 @@
 <w.rf>
 <LM>w#w-wsj2442-001-p1s8W2</LM>
 </w.rf>
-<form>Bowden</form>
-<tag lemma="Bowden_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<form>Bowder</form>
+<tag>
+<AM lemma="Bowder" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Bowder</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2442-001-p1s8W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

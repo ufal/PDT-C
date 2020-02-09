@@ -2344,14 +2344,13 @@
 <w.rf>
 <LM>w#w-wsj2322-001-p1s8W24</LM>
 </w.rf>
-<form>zavázuje</form>
-<tag lemma="zavázuje" src="auto">X@-------------</tag>
+<form>zavazuje</form>
+<tag>
+<AM lemma="zavazovat" src="auto" recommended="1">VB-S---3P-AAI--</AM>
+<AM lemma="zavazovat" src="auto">VeYS------A-I--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>zavazuje</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2322-001-p1s8W25-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

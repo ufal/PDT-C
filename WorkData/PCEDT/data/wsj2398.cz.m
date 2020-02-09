@@ -9533,19 +9533,12 @@
 <w.rf>
 <LM>w#w-wsj2398-001-p1s31W8</LM>
 </w.rf>
-<form>centy</form>
+<form>centů</form>
 <tag>
-<AM lemma="cent" src="auto">NNIP1-----A----</AM>
-<AM lemma="cent" src="auto">NNIP4-----A----</AM>
-<AM lemma="cent" src="auto">NNIP5-----A----</AM>
-<AM lemma="cent" src="auto" recommended="1">NNIP7-----A----</AM>
-</tag>
+<AM lemma="cent" src="auto" recommended="1">NNIP2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>centů</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2398-001-p1s31W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10464,14 +10457,14 @@
 <w.rf>
 <LM>w#w-wsj2398-001-p1s33W6</LM>
 </w.rf>
-<form>Wilmigtonu</form>
-<tag lemma="Wilmigtonu" src="auto">X@-------------</tag>
+<form>Wilmingtonu</form>
+<tag>
+<AM lemma="Wilmington_;G" src="auto">NNIS2-----A----</AM>
+<AM lemma="Wilmington_;G" src="auto">NNIS3-----A----</AM>
+<AM lemma="Wilmington_;G" src="auto" recommended="1">NNIS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Wilmingtonu</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2398-001-p1s33W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

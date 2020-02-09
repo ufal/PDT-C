@@ -1233,14 +1233,12 @@
 <w.rf>
 <LM>w#w-wsj0537-001-p1s2W40</LM>
 </w.rf>
-<form>většina</form>
-<tag lemma="většina" src="auto" recommended="1">NNFS1-----A----</tag>
+<form>většinu</form>
+<tag>
+<AM lemma="většina" src="auto" recommended="1">NNFS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>většinu</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0537-001-p1s2W41-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5572,18 +5570,23 @@
 <w.rf>
 <LM>w#w-wsj0537-001-p1s12W18</LM>
 </w.rf>
-<form>z</form>
+<form>s</form>
 <tag>
-<AM lemma="z-1" src="auto" recommended="1">RR--2----------</AM>
-<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="z-88_:B" src="auto">NNXXX-----A----</AM>
-</tag>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-1" src="auto" recommended="1">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>s</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0537-001-p1s12W19-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

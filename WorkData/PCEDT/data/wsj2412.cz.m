@@ -782,42 +782,19 @@
 <w.rf>
 <LM>w#w-wsj2412-001-p1s2W12</LM>
 </w.rf>
-<form>doporučující</form>
+<form>doporučujících</form>
 <tag>
-<AM lemma="doporučující_^(*5ovat)" src="auto">AGFP1-----A----</AM>
-<AM lemma="doporučující_^(*5ovat)" src="auto">AGFP4-----A----</AM>
-<AM lemma="doporučující_^(*5ovat)" src="auto">AGFP5-----A----</AM>
-<AM lemma="doporučující_^(*5ovat)" src="auto">AGFS1-----A----</AM>
-<AM lemma="doporučující_^(*5ovat)" src="auto">AGFS2-----A----</AM>
-<AM lemma="doporučující_^(*5ovat)" src="auto">AGFS3-----A----</AM>
-<AM lemma="doporučující_^(*5ovat)" src="auto">AGFS4-----A----</AM>
-<AM lemma="doporučující_^(*5ovat)" src="auto">AGFS5-----A----</AM>
-<AM lemma="doporučující_^(*5ovat)" src="auto">AGFS6-----A----</AM>
-<AM lemma="doporučující_^(*5ovat)" src="auto">AGFS7-----A----</AM>
-<AM lemma="doporučující_^(*5ovat)" src="auto" recommended="1">AGIP1-----A----</AM>
-<AM lemma="doporučující_^(*5ovat)" src="auto">AGIP4-----A----</AM>
-<AM lemma="doporučující_^(*5ovat)" src="auto">AGIP5-----A----</AM>
-<AM lemma="doporučující_^(*5ovat)" src="auto">AGIS1-----A----</AM>
-<AM lemma="doporučující_^(*5ovat)" src="auto">AGIS4-----A----</AM>
-<AM lemma="doporučující_^(*5ovat)" src="auto">AGIS5-----A----</AM>
-<AM lemma="doporučující_^(*5ovat)" src="auto">AGMP1-----A----</AM>
-<AM lemma="doporučující_^(*5ovat)" src="auto">AGMP4-----A----</AM>
-<AM lemma="doporučující_^(*5ovat)" src="auto">AGMP5-----A----</AM>
-<AM lemma="doporučující_^(*5ovat)" src="auto">AGMS1-----A----</AM>
-<AM lemma="doporučující_^(*5ovat)" src="auto">AGMS5-----A----</AM>
-<AM lemma="doporučující_^(*5ovat)" src="auto">AGNP1-----A----</AM>
-<AM lemma="doporučující_^(*5ovat)" src="auto">AGNP4-----A----</AM>
-<AM lemma="doporučující_^(*5ovat)" src="auto">AGNP5-----A----</AM>
-<AM lemma="doporučující_^(*5ovat)" src="auto">AGNS1-----A----</AM>
-<AM lemma="doporučující_^(*5ovat)" src="auto">AGNS4-----A----</AM>
-<AM lemma="doporučující_^(*5ovat)" src="auto">AGNS5-----A----</AM>
-</tag>
+<AM lemma="doporučující_^(*5ovat)" src="auto">AGFP2-----A----</AM>
+<AM lemma="doporučující_^(*5ovat)" src="auto">AGFP6-----A----</AM>
+<AM lemma="doporučující_^(*5ovat)" src="auto" recommended="1">AGIP2-----A----</AM>
+<AM lemma="doporučující_^(*5ovat)" src="auto">AGIP6-----A----</AM>
+<AM lemma="doporučující_^(*5ovat)" src="auto">AGMP2-----A----</AM>
+<AM lemma="doporučující_^(*5ovat)" src="auto">AGMP6-----A----</AM>
+<AM lemma="doporučující_^(*5ovat)" src="auto">AGNP2-----A----</AM>
+<AM lemma="doporučující_^(*5ovat)" src="auto">AGNP6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>doporučujících</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2412-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1686,17 +1663,12 @@
 <w.rf>
 <LM>w#w-wsj2412-001-p1s4W28</LM>
 </w.rf>
-<form>Caliborne</form>
+<form>Claiborne</form>
 <tag>
-<AM lemma="Caliborne" src="auto">X@-------------</AM>
-<AM lemma="Caliborne_;Y" src="manual">NNMS2-----A----</AM>
-</tag>
+<AM lemma="Claiborne_;S" src="auto" recommended="1">NNFXX-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Claiborne</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2412-001-p1s4W29-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10665,17 +10637,12 @@
 <w.rf>
 <LM>w#w-wsj2412-001-p1s56W21</LM>
 </w.rf>
-<form>víz</form>
+<form>víc</form>
 <tag>
-<AM lemma="vízo_,l_^(vysvědčení;;školní_vyznamenání)" src="auto">NNNP2-----A----</AM>
-<AM lemma="vízum_^(cest._formalita)" src="auto" recommended="1">NNNP2-----A----</AM>
-</tag>
+<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM></tag>
 <comment>
-<LM type="New Form">
-<text>víc</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2412-001-p1s56W22-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

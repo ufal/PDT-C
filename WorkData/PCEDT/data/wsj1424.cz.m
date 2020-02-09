@@ -1498,14 +1498,12 @@
 <w.rf>
 <LM>w#w-wsj1424-001-p1s5W11</LM>
 </w.rf>
-<form>uvězněni</form>
-<tag lemma="uvěznit" src="auto" recommended="1">VsMP---XX-APP--</tag>
+<form>uvězněny</form>
+<tag>
+<AM lemma="uvěznit" src="auto" recommended="1">VsTP---XX-APP--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>uvězněny</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1424-001-p1s5W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2283,17 +2281,12 @@
 <w.rf>
 <LM>w#w-wsj1424-001-p1s8W5</LM>
 </w.rf>
-<form>Gersony</form>
+<form>Gerson</form>
 <tag>
-<AM lemma="Gerson_;S" src="auto" recommended="1">NNMP4-----A----</AM>
-<AM lemma="Gerson_;S" src="auto">NNMP7-----A----</AM>
-</tag>
+<AM lemma="Gerson_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Gerson</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1424-001-p1s8W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7674,12 +7667,10 @@
 <w.rf>
 <LM>w#w-wsj1424-001-p1s24W11</LM>
 </w.rf>
-<form>Ababa</form>
-<tag lemma="Ababa" src="auto">X@-------------</tag>
+<form>Abeba</form>
+<tag>
+<AM lemma="Abeba_;G" src="auto" recommended="1">NNFS1-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Abeba</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1424-001-p1s24W12-Ta">
@@ -8045,14 +8036,15 @@
 <w.rf>
 <LM>w#w-wsj1424-001-p1s24W37</LM>
 </w.rf>
-<form>Ababy</form>
-<tag lemma="Ababy" src="auto">X@-------------</tag>
+<form>Abeby</form>
+<tag>
+<AM lemma="Abeba_;G" src="auto">NNFP1-----A----</AM>
+<AM lemma="Abeba_;G" src="auto">NNFP4-----A----</AM>
+<AM lemma="Abeba_;G" src="auto">NNFP5-----A----</AM>
+<AM lemma="Abeba_;G" src="auto" recommended="1">NNFS2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Abeby</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1424-001-p1s24W38-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

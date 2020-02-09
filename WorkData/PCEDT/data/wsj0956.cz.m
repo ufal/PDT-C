@@ -1279,19 +1279,13 @@
 <w.rf>
 <LM>w#w-wsj0956-001-p1s4W7</LM>
 </w.rf>
-<form>přehlídky</form>
+<form>přehlídce</form>
 <tag>
-<AM lemma="přehlídka" src="auto">NNFP1-----A----</AM>
-<AM lemma="přehlídka" src="auto">NNFP4-----A----</AM>
-<AM lemma="přehlídka" src="auto">NNFP5-----A----</AM>
-<AM lemma="přehlídka" src="auto" recommended="1">NNFS2-----A----</AM>
-</tag>
+<AM lemma="přehlídka" src="auto">NNFS3-----A----</AM>
+<AM lemma="přehlídka" src="auto" recommended="1">NNFS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>přehlídce</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0956-001-p1s4W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5283,15 +5277,10 @@
 <w.rf>
 <LM>w#w-wsj0956-001-p1s18W4</LM>
 </w.rf>
-<form>34stránkovém</form>
+<form>34</form>
 <tag>
-<AM lemma="34stránkovém" src="auto">X@-------------</AM>
-<AM lemma="34stránkový" src="manual">AANS6----1A----</AM>
-</tag>
+<AM lemma="34" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>34</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0956-001-p1s18W4-Ta-sw1">
@@ -5299,17 +5288,14 @@
 <w.rf>
 <LM>w#w-wsj0956-001-p1s18W4</LM>
 </w.rf>
-<form>34stránkovém</form>
+<form>stránkovém</form>
 <tag>
-<AM lemma="34stránkovém" src="auto">X@-------------</AM>
-<AM lemma="34stránkový" src="manual">AANS6----1A----</AM>
-</tag>
+<AM lemma="stránkový" src="auto">AAIS6----1A----</AM>
+<AM lemma="stránkový" src="auto">AAMS6----1A----</AM>
+<AM lemma="stránkový" src="auto" recommended="1">AANS6----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>stránkovém</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0956-001-p1s18W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

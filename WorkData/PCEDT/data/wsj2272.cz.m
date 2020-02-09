@@ -2659,19 +2659,21 @@
 <w.rf>
 <LM>w#w-wsj2272-001-p1s8W12</LM>
 </w.rf>
-<form>jinými</form>
+<form>jiným</form>
 <tag>
-<AM lemma="jiný" src="auto" recommended="1">AAFP7----1A----</AM>
-<AM lemma="jiný" src="auto">AAIP7----1A----</AM>
-<AM lemma="jiný" src="auto">AAMP7----1A----</AM>
-<AM lemma="jiný" src="auto">AANP7----1A----</AM>
-</tag>
+<AM lemma="jiný" src="auto">AAFP3----1A----</AM>
+<AM lemma="jiný" src="auto">AAIP3----1A----</AM>
+<AM lemma="jiný" src="auto">AAIS6----1A---7</AM>
+<AM lemma="jiný" src="auto">AAIS7----1A----</AM>
+<AM lemma="jiný" src="auto">AAMP3----1A----</AM>
+<AM lemma="jiný" src="auto">AAMS6----1A---7</AM>
+<AM lemma="jiný" src="auto">AAMS7----1A----</AM>
+<AM lemma="jiný" src="auto">AANP3----1A----</AM>
+<AM lemma="jiný" src="auto">AANS6----1A---7</AM>
+<AM lemma="jiný" src="auto" recommended="1">AANS7----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>jiným</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2272-001-p1s8W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

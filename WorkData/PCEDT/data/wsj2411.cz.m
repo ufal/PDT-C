@@ -476,14 +476,24 @@
 <w.rf>
 <LM>w#w-wsj2411-001-p1s2W1</LM>
 </w.rf>
-<form>Kadanské</form>
-<tag lemma="Kadanské" src="auto">X@-------------</tag>
+<form>Kanadské</form>
+<tag>
+<AM lemma="kanadský" src="auto">AAFP1----1A----</AM>
+<AM lemma="kanadský" src="auto">AAFP4----1A----</AM>
+<AM lemma="kanadský" src="auto">AAFP5----1A----</AM>
+<AM lemma="kanadský" src="auto">AAFS2----1A----</AM>
+<AM lemma="kanadský" src="auto">AAFS3----1A----</AM>
+<AM lemma="kanadský" src="auto">AAFS6----1A----</AM>
+<AM lemma="kanadský" src="auto" recommended="1">AAIP1----1A----</AM>
+<AM lemma="kanadský" src="auto">AAIP4----1A----</AM>
+<AM lemma="kanadský" src="auto">AAIP5----1A----</AM>
+<AM lemma="kanadský" src="auto">AAMP4----1A----</AM>
+<AM lemma="kanadský" src="auto">AANS1----1A----</AM>
+<AM lemma="kanadský" src="auto">AANS4----1A----</AM>
+<AM lemma="kanadský" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Kanadské</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2411-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

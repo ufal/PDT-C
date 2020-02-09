@@ -11830,18 +11830,14 @@
 <w.rf>
 <LM>w#w-wsj2104-001-p1s30W14</LM>
 </w.rf>
-<form>nás</form>
+<form>náš</form>
 <tag>
-<AM lemma="já" src="auto">PP-P2--1-------</AM>
-<AM lemma="já" src="auto" recommended="1">PP-P4--1-------</AM>
-<AM lemma="já" src="auto">PP-P6--1-------</AM>
-</tag>
+<AM lemma="můj_^(přivlast.)" src="auto">PSIS4-P1-------</AM>
+<AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSYS1-P1-------</AM>
+<AM lemma="můj_^(přivlast.)" src="auto">PSYS5-P1-------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>náš</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2104-001-p1s30W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

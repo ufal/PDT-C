@@ -3334,18 +3334,15 @@
 <w.rf>
 <LM>w#w-wsj2407-001-p1s9W7</LM>
 </w.rf>
-<form>vstupu</form>
+<form>do</form>
 <tag>
-<AM lemma="vstup" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="vstup" src="auto">NNIS3-----A----</AM>
-<AM lemma="vstup" src="auto">NNIS6-----A----</AM>
-</tag>
+<AM lemma="do-1" src="auto" recommended="1">RR--2----------</AM>
+<AM lemma="do-2_^(tae-kwon-do)" src="auto">NNNXX-----A----</AM>
+<AM lemma="do-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
+<AM lemma="do-99_:B_;S" src="auto">NNXXX-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>do</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2407-001-p1s9W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6618,20 +6615,16 @@
 <w.rf>
 <LM>w#w-wsj2407-001-p1s19W15</LM>
 </w.rf>
-<form>18letá</form>
+<form>osmnáctiletá</form>
 <tag>
-<AM lemma="18letý" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="18letý" src="auto">AAFS5----1A----</AM>
-<AM lemma="18letý" src="auto">AANP1----1A----</AM>
-<AM lemma="18letý" src="auto">AANP4----1A----</AM>
-<AM lemma="18letý" src="auto">AANP5----1A----</AM>
-</tag>
+<AM lemma="osmnáctiletý" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="osmnáctiletý" src="auto">AAFS5----1A----</AM>
+<AM lemma="osmnáctiletý" src="auto">AANP1----1A----</AM>
+<AM lemma="osmnáctiletý" src="auto">AANP4----1A----</AM>
+<AM lemma="osmnáctiletý" src="auto">AANP5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>osmnáctiletá</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2407-001-p1s19W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

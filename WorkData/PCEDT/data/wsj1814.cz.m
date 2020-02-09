@@ -2427,25 +2427,19 @@
 <w.rf>
 <LM>w#w-wsj1814-001-p1s7W17</LM>
 </w.rf>
-<form>poskytovaným</form>
+<form>poskytovaných</form>
 <tag>
-<AM lemma="poskytovaný_^(*2t)" src="auto">AAFP3----1A----</AM>
-<AM lemma="poskytovaný_^(*2t)" src="auto" recommended="1">AAIP3----1A----</AM>
-<AM lemma="poskytovaný_^(*2t)" src="auto">AAIS6----1A---7</AM>
-<AM lemma="poskytovaný_^(*2t)" src="auto">AAIS7----1A----</AM>
-<AM lemma="poskytovaný_^(*2t)" src="auto">AAMP3----1A----</AM>
-<AM lemma="poskytovaný_^(*2t)" src="auto">AAMS6----1A---7</AM>
-<AM lemma="poskytovaný_^(*2t)" src="auto">AAMS7----1A----</AM>
-<AM lemma="poskytovaný_^(*2t)" src="auto">AANP3----1A----</AM>
-<AM lemma="poskytovaný_^(*2t)" src="auto">AANS6----1A---7</AM>
-<AM lemma="poskytovaný_^(*2t)" src="auto">AANS7----1A----</AM>
-</tag>
+<AM lemma="poskytovaný_^(*2t)" src="auto">AAFP2----1A----</AM>
+<AM lemma="poskytovaný_^(*2t)" src="auto">AAFP6----1A----</AM>
+<AM lemma="poskytovaný_^(*2t)" src="auto" recommended="1">AAIP2----1A----</AM>
+<AM lemma="poskytovaný_^(*2t)" src="auto">AAIP6----1A----</AM>
+<AM lemma="poskytovaný_^(*2t)" src="auto">AAMP2----1A----</AM>
+<AM lemma="poskytovaný_^(*2t)" src="auto">AAMP6----1A----</AM>
+<AM lemma="poskytovaný_^(*2t)" src="auto">AANP2----1A----</AM>
+<AM lemma="poskytovaný_^(*2t)" src="auto">AANP6----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>poskytovaných</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1814-001-p1s7W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

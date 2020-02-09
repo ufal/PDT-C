@@ -67,27 +67,10 @@
 <w.rf>
 <LM>w#w-wsj0338-001-p1s0W6</LM>
 </w.rf>
-<form>Penny</form>
+<form>Penney</form>
 <tag>
-<AM lemma="Penn_;K" src="auto">NNIP1-----A----</AM>
-<AM lemma="Penn_;K" src="auto">NNIP4-----A----</AM>
-<AM lemma="Penn_;K" src="auto">NNIP5-----A----</AM>
-<AM lemma="Penn_;K" src="auto">NNIP7-----A----</AM>
-<AM lemma="Penn_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Penn_;S" src="auto">NNMP7-----A----</AM>
-<AM lemma="Penny_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Penny_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Penny_;S" src="auto">NNMXX-----A----</AM>
-<AM lemma="penny-1" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="penny-1" src="auto">NNIXX-----A----</AM>
-<AM lemma="penny-2_^(penny_market)" src="auto">NNNSX-----A----</AM>
-<AM lemma="Penny-88_:B" src="manual">NNXXX-----A----</AM>
-<AM lemma="Penny-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="Penney_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Penney</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0338-001-p1s0W7-Ta">
@@ -249,19 +232,14 @@
 <w.rf>
 <LM>w#w-wsj0338-001-p1s0W17</LM>
 </w.rf>
-<form>vysílaného</form>
+<form>vysílaném</form>
 <tag>
-<AM lemma="vysílaný_^(*2t)" src="auto" recommended="1">AAIS2----1A----</AM>
-<AM lemma="vysílaný_^(*2t)" src="auto">AAMS2----1A----</AM>
-<AM lemma="vysílaný_^(*2t)" src="auto">AAMS4----1A----</AM>
-<AM lemma="vysílaný_^(*2t)" src="auto">AANS2----1A----</AM>
-</tag>
+<AM lemma="vysílaný_^(*2t)" src="auto" recommended="1">AAIS6----1A----</AM>
+<AM lemma="vysílaný_^(*2t)" src="auto">AAMS6----1A----</AM>
+<AM lemma="vysílaný_^(*2t)" src="auto">AANS6----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>vysílaném</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0338-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

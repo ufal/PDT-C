@@ -510,19 +510,38 @@
 <w.rf>
 <LM>w#w-wsj0072-001-p1s1W6</LM>
 </w.rf>
-<form>Federálního</form>
+<form>Federální</form>
 <tag>
-<AM lemma="federální" src="auto" recommended="1">AAIS2----1A----</AM>
-<AM lemma="federální" src="auto">AAMS2----1A----</AM>
-<AM lemma="federální" src="auto">AAMS4----1A----</AM>
-<AM lemma="federální" src="auto">AANS2----1A----</AM>
-</tag>
+<AM lemma="federální" src="auto">AAFP1----1A----</AM>
+<AM lemma="federální" src="auto">AAFP4----1A----</AM>
+<AM lemma="federální" src="auto">AAFP5----1A----</AM>
+<AM lemma="federální" src="auto">AAFS1----1A----</AM>
+<AM lemma="federální" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="federální" src="auto">AAFS3----1A----</AM>
+<AM lemma="federální" src="auto">AAFS4----1A----</AM>
+<AM lemma="federální" src="auto">AAFS5----1A----</AM>
+<AM lemma="federální" src="auto">AAFS6----1A----</AM>
+<AM lemma="federální" src="auto">AAFS7----1A----</AM>
+<AM lemma="federální" src="auto">AAIP1----1A----</AM>
+<AM lemma="federální" src="auto">AAIP4----1A----</AM>
+<AM lemma="federální" src="auto">AAIP5----1A----</AM>
+<AM lemma="federální" src="auto">AAIS1----1A----</AM>
+<AM lemma="federální" src="auto">AAIS4----1A----</AM>
+<AM lemma="federální" src="auto">AAIS5----1A----</AM>
+<AM lemma="federální" src="auto">AAMP1----1A----</AM>
+<AM lemma="federální" src="auto">AAMP4----1A----</AM>
+<AM lemma="federální" src="auto">AAMP5----1A----</AM>
+<AM lemma="federální" src="auto">AAMS1----1A----</AM>
+<AM lemma="federální" src="auto">AAMS5----1A----</AM>
+<AM lemma="federální" src="auto">AANP1----1A----</AM>
+<AM lemma="federální" src="auto">AANP4----1A----</AM>
+<AM lemma="federální" src="auto">AANP5----1A----</AM>
+<AM lemma="federální" src="auto">AANS1----1A----</AM>
+<AM lemma="federální" src="auto">AANS4----1A----</AM>
+<AM lemma="federální" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Federální</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0072-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

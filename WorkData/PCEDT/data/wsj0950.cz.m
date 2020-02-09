@@ -1372,12 +1372,10 @@
 <LM>w#w-wsj0950-001-p1s3W13</LM>
 </w.rf>
 <form_change>num_normalization</form_change>
-<form>1875</form>
-<tag lemma="1875" src="auto" recommended="1">C=-------------</tag>
+<form>1.875</form>
+<tag>
+<AM lemma="1.875" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>1.875</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0950-001-p1s3W14-Ta">
@@ -1431,14 +1429,12 @@
 <LM>w#w-wsj0950-001-p1s3W17</LM>
 </w.rf>
 <form_change>num_normalization</form_change>
-<form>44875</form>
-<tag lemma="44875" src="auto" recommended="1">C=-------------</tag>
+<form>44.875</form>
+<tag>
+<AM lemma="44.875" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>44.875</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0950-001-p1s3W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

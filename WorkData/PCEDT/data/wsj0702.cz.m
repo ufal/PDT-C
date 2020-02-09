@@ -1341,23 +1341,13 @@
 <w.rf>
 <LM>w#w-wsj0702-001-p1s3W29</LM>
 </w.rf>
-<form>její</form>
+<form>jejích</form>
 <tag>
-<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSFSXFS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto">PSIS4FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto">PSNS4FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto">PSXP1FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto">PSXP4FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto">PSZS1FS3-------</AM>
-<AM lemma="jeho_^(přivlast.)" src="auto">PSZS5FS3-------</AM>
-</tag>
+<AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXP2FS3-------</AM>
+<AM lemma="jeho_^(přivlast.)" src="auto">PSXP6FS3-------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>jejích</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0702-001-p1s3W30-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

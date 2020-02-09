@@ -2910,15 +2910,10 @@
 <w.rf>
 <LM>w#w-wsj0267-001-p1s9W7</LM>
 </w.rf>
-<form>80stránkové</form>
+<form>80</form>
 <tag>
-<AM lemma="80stránkové" src="auto">X@-------------</AM>
-<AM lemma="80stránkový" src="manual">AAFS6----1A----</AM>
-</tag>
+<AM lemma="80" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>80</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0267-001-p1s9W7-Ta-sw1">
@@ -2926,17 +2921,27 @@
 <w.rf>
 <LM>w#w-wsj0267-001-p1s9W7</LM>
 </w.rf>
-<form>80stránkové</form>
+<form>stránkové</form>
 <tag>
-<AM lemma="80stránkové" src="auto">X@-------------</AM>
-<AM lemma="80stránkový" src="manual">AAFS6----1A----</AM>
-</tag>
+<AM lemma="stránkový" src="auto">AAFP1----1A----</AM>
+<AM lemma="stránkový" src="auto">AAFP4----1A----</AM>
+<AM lemma="stránkový" src="auto">AAFP5----1A----</AM>
+<AM lemma="stránkový" src="auto">AAFS2----1A----</AM>
+<AM lemma="stránkový" src="auto">AAFS3----1A----</AM>
+<AM lemma="stránkový" src="auto" recommended="1">AAFS6----1A----</AM>
+<AM lemma="stránkový" src="auto">AAIP1----1A----</AM>
+<AM lemma="stránkový" src="auto">AAIP4----1A----</AM>
+<AM lemma="stránkový" src="auto">AAIP5----1A----</AM>
+<AM lemma="stránkový" src="auto">AAMP4----1A----</AM>
+<AM lemma="stránkový" src="auto">AANP1----1A---6</AM>
+<AM lemma="stránkový" src="auto">AANP4----1A---6</AM>
+<AM lemma="stránkový" src="auto">AANP5----1A---6</AM>
+<AM lemma="stránkový" src="auto">AANS1----1A----</AM>
+<AM lemma="stránkový" src="auto">AANS4----1A----</AM>
+<AM lemma="stránkový" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>stránkové</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0267-001-p1s9W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -11368,17 +11373,12 @@
 <w.rf>
 <LM>w#w-wsj0267-001-p1s31W14</LM>
 </w.rf>
-<form>jednoho</form>
+<form>jedním</form>
 <tag>
-<AM lemma="jeden`1" src="auto">ClMS4----------</AM>
-<AM lemma="jeden`1" src="auto" recommended="1">ClZS2----------</AM>
-</tag>
+<AM lemma="jeden`1" src="auto" recommended="1">ClZS7----------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>jedním</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0267-001-p1s31W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

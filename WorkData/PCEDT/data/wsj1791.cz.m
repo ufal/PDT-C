@@ -4084,17 +4084,15 @@
 <w.rf>
 <LM>w#w-wsj1791-001-p1s12W6</LM>
 </w.rf>
-<form>nedávnou</form>
+<form>nedávno</form>
 <tag>
-<AM lemma="dávný" src="auto" recommended="1">AAFS4----1N----</AM>
-<AM lemma="dávný" src="auto">AAFS7----1N----</AM>
-</tag>
+<AM lemma="dávno-1" src="auto" recommended="1">Dg-------1N----</AM>
+<AM lemma="nedávno-2" src="auto">NNNS1-----A----</AM>
+<AM lemma="nedávno-2" src="auto">NNNS4-----A----</AM>
+<AM lemma="nedávno-2" src="auto">NNNS5-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>nedávno</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1791-001-p1s12W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

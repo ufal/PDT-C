@@ -959,12 +959,10 @@
 <w.rf>
 <LM>w#w-wsj1995-001-p1s2W8</LM>
 </w.rf>
-<form>,</form>
-<tag lemma="," src="auto" recommended="1">Z:-------------</tag>
+<form>9.9</form>
+<tag>
+<AM lemma="9.9" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>9.9</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1995-001-p1s2W9-Ta">
@@ -972,25 +970,21 @@
 <w.rf>
 <LM>w#w-wsj1995-001-p1s2W9</LM>
 </w.rf>
-<form>9procentním</form>
+<form>procentním</form>
 <tag>
-<AM lemma="9procentní" src="auto">AAFP3----1A----</AM>
-<AM lemma="9procentní" src="auto">AAIP3----1A----</AM>
-<AM lemma="9procentní" src="auto">AAIS6----1A----</AM>
-<AM lemma="9procentní" src="auto" recommended="1">AAIS7----1A----</AM>
-<AM lemma="9procentní" src="auto">AAMP3----1A----</AM>
-<AM lemma="9procentní" src="auto">AAMS6----1A----</AM>
-<AM lemma="9procentní" src="auto">AAMS7----1A----</AM>
-<AM lemma="9procentní" src="auto">AANP3----1A----</AM>
-<AM lemma="9procentní" src="auto">AANS6----1A----</AM>
-<AM lemma="9procentní" src="auto">AANS7----1A----</AM>
-</tag>
+<AM lemma="procentní" src="auto">AAFP3----1A----</AM>
+<AM lemma="procentní" src="auto">AAIP3----1A----</AM>
+<AM lemma="procentní" src="auto">AAIS6----1A----</AM>
+<AM lemma="procentní" src="auto" recommended="1">AAIS7----1A----</AM>
+<AM lemma="procentní" src="auto">AAMP3----1A----</AM>
+<AM lemma="procentní" src="auto">AAMS6----1A----</AM>
+<AM lemma="procentní" src="auto">AAMS7----1A----</AM>
+<AM lemma="procentní" src="auto">AANP3----1A----</AM>
+<AM lemma="procentní" src="auto">AANS6----1A----</AM>
+<AM lemma="procentní" src="auto">AANS7----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>procentním</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1995-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

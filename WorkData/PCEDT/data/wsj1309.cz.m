@@ -1945,16 +1945,10 @@
 <w.rf>
 <LM>w#w-wsj1309-001-p1s6W9</LM>
 </w.rf>
-<form>800akrové</form>
+<form>800</form>
 <tag>
-<AM lemma="800akrové" src="auto">X@-------------</AM>
-<AM lemma="800akrový" src="manual">NNFS6-----A----</AM>
-<AM lemma="800akrový" src="manual">AAFS6----1A----</AM>
-</tag>
+<AM lemma="800" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>800</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1309-001-p1s6W9-Ta-sw1">
@@ -1962,18 +1956,27 @@
 <w.rf>
 <LM>w#w-wsj1309-001-p1s6W9</LM>
 </w.rf>
-<form>800akrové</form>
+<form>akrové</form>
 <tag>
-<AM lemma="800akrové" src="auto">X@-------------</AM>
-<AM lemma="800akrový" src="manual">NNFS6-----A----</AM>
-<AM lemma="800akrový" src="manual">AAFS6----1A----</AM>
-</tag>
+<AM lemma="akrový" src="auto">AAFP1----1A----</AM>
+<AM lemma="akrový" src="auto">AAFP4----1A----</AM>
+<AM lemma="akrový" src="auto">AAFP5----1A----</AM>
+<AM lemma="akrový" src="auto">AAFS2----1A----</AM>
+<AM lemma="akrový" src="auto">AAFS3----1A----</AM>
+<AM lemma="akrový" src="auto" recommended="1">AAFS6----1A----</AM>
+<AM lemma="akrový" src="auto">AAIP1----1A----</AM>
+<AM lemma="akrový" src="auto">AAIP4----1A----</AM>
+<AM lemma="akrový" src="auto">AAIP5----1A----</AM>
+<AM lemma="akrový" src="auto">AAMP4----1A----</AM>
+<AM lemma="akrový" src="auto">AANP1----1A---6</AM>
+<AM lemma="akrový" src="auto">AANP4----1A---6</AM>
+<AM lemma="akrový" src="auto">AANP5----1A---6</AM>
+<AM lemma="akrový" src="auto">AANS1----1A----</AM>
+<AM lemma="akrový" src="auto">AANS4----1A----</AM>
+<AM lemma="akrový" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>akrové</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1309-001-p1s6W10-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

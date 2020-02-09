@@ -10796,18 +10796,13 @@
 <w.rf>
 <LM>w#w-wsj1631-001-p1s40W33</LM>
 </w.rf>
-<form>investici</form>
+<form>investicí</form>
 <tag>
-<AM lemma="investice" src="auto" recommended="1">NNFS3-----A----</AM>
-<AM lemma="investice" src="auto">NNFS4-----A----</AM>
-<AM lemma="investice" src="auto">NNFS6-----A----</AM>
-</tag>
+<AM lemma="investice" src="auto">NNFP2-----A----</AM>
+<AM lemma="investice" src="auto" recommended="1">NNFS7-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>investicí</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1631-001-p1s40W34-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

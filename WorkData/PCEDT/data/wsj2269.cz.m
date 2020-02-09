@@ -1492,14 +1492,13 @@
 <w.rf>
 <LM>w#w-wsj2269-001-p1s4W10</LM>
 </w.rf>
-<form>ohen</form>
-<tag lemma="ohen" src="auto">X@-------------</tag>
+<form>oheň</form>
+<tag>
+<AM lemma="oheň" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="oheň" src="auto">NNIS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>oheň</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2269-001-p1s4W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

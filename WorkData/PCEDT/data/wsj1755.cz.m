@@ -4340,14 +4340,22 @@
 <w.rf>
 <LM>w#w-wsj1755-001-p1s18W18</LM>
 </w.rf>
-<form>kterém</form>
-<tag lemma="který" src="auto" recommended="1">P4ZS6----------</tag>
+<form>které</form>
+<tag>
+<AM lemma="který" src="auto">P4FP1----------</AM>
+<AM lemma="který" src="auto" recommended="1">P4FP4----------</AM>
+<AM lemma="který" src="auto">P4FS2----------</AM>
+<AM lemma="který" src="auto">P4FS3----------</AM>
+<AM lemma="který" src="auto">P4FS6----------</AM>
+<AM lemma="který" src="auto">P4IP1----------</AM>
+<AM lemma="který" src="auto">P4NP1---------6</AM>
+<AM lemma="který" src="auto">P4NP4---------6</AM>
+<AM lemma="který" src="auto">P4NS1----------</AM>
+<AM lemma="který" src="auto">P4NS4----------</AM>
+<AM lemma="který" src="auto">P4YP4----------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>které</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1755-001-p1s18W19-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

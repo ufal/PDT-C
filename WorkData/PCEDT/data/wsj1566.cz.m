@@ -1625,17 +1625,13 @@
 <w.rf>
 <LM>w#w-wsj1566-001-p1s7W12</LM>
 </w.rf>
-<form>mě</form>
+<form>mně</form>
 <tag>
-<AM lemma="já" src="auto">PH-S2--1-------</AM>
-<AM lemma="já" src="auto" recommended="1">PH-S4--1-------</AM>
-</tag>
+<AM lemma="já" src="auto" recommended="1">PP-S3--1-------</AM>
+<AM lemma="já" src="auto">PP-S6--1-------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>mně</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1566-001-p1s7W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -11446,18 +11442,19 @@
 <w.rf>
 <LM>w#w-wsj1566-001-p1s40W4</LM>
 </w.rf>
-<form>pomocí</form>
+<form>pomoci</form>
 <tag>
-<AM lemma="pomoc" src="auto">NNFP2-----A----</AM>
-<AM lemma="pomoc" src="auto" recommended="1">NNFS7-----A----</AM>
-<AM lemma="pomocí" src="auto">RR--2----------</AM>
-</tag>
+<AM lemma="pomoci" src="auto">Vf--------A-P-1</AM>
+<AM lemma="pomoc" src="auto">NNFP1-----A----</AM>
+<AM lemma="pomoc" src="auto">NNFP4-----A----</AM>
+<AM lemma="pomoc" src="auto">NNFP5-----A----</AM>
+<AM lemma="pomoc" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="pomoc" src="auto">NNFS3-----A----</AM>
+<AM lemma="pomoc" src="auto">NNFS5-----A----</AM>
+<AM lemma="pomoc" src="auto">NNFS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>pomoci</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1566-001-p1s40W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

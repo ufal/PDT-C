@@ -11173,14 +11173,12 @@
 <w.rf>
 <LM>w#w-wsj1600-001-p1s33W18</LM>
 </w.rf>
-<form>Carter</form>
-<tag lemma="Carter_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<form>Carder</form>
+<tag>
+<AM lemma="Carder" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Carder</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1600-001-p1s33W19-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

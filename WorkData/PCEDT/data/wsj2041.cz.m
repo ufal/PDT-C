@@ -13597,15 +13597,10 @@
 <w.rf>
 <LM>w#w-wsj2041-001-p1s51W31</LM>
 </w.rf>
-<form>77B</form>
+<form>77</form>
 <tag>
-<AM lemma="77B" src="auto">X@-------------</AM>
-<AM lemma="77B-88_:B" src="manual">NNXXX-----A----</AM>
-</tag>
+<AM lemma="77" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>77</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2041-001-p1s51W31-Ta-sw1">
@@ -13613,17 +13608,17 @@
 <w.rf>
 <LM>w#w-wsj2041-001-p1s51W31</LM>
 </w.rf>
-<form>77B</form>
+<form>B</form>
 <tag>
-<AM lemma="77B" src="auto">X@-------------</AM>
-<AM lemma="77B-88_:B" src="manual">NNXXX-----A----</AM>
-</tag>
+<AM lemma="B-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="B-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="b-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="b-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="bod_:B" src="auto">NNIXX-----A----</AM>
+<AM lemma="bodový" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>B</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2041-001-p1s51W32-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

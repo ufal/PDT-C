@@ -8544,15 +8544,10 @@
 <w.rf>
 <LM>w#w-wsj2330-001-p1s27W11</LM>
 </w.rf>
-<form>90librových</form>
+<form>90</form>
 <tag>
-<AM lemma="90librových" src="auto">X@-------------</AM>
-<AM lemma="90librový" src="manual">AAFP2----1A----</AM>
-</tag>
+<AM lemma="90" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>90</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2330-001-p1s27W11-Ta-sw1">
@@ -8560,17 +8555,19 @@
 <w.rf>
 <LM>w#w-wsj2330-001-p1s27W11</LM>
 </w.rf>
-<form>90librových</form>
+<form>librových</form>
 <tag>
-<AM lemma="90librových" src="auto">X@-------------</AM>
-<AM lemma="90librový" src="manual">AAFP2----1A----</AM>
-</tag>
+<AM lemma="librový" src="auto" recommended="1">AAFP2----1A----</AM>
+<AM lemma="librový" src="auto">AAFP6----1A----</AM>
+<AM lemma="librový" src="auto">AAIP2----1A----</AM>
+<AM lemma="librový" src="auto">AAIP6----1A----</AM>
+<AM lemma="librový" src="auto">AAMP2----1A----</AM>
+<AM lemma="librový" src="auto">AAMP6----1A----</AM>
+<AM lemma="librový" src="auto">AANP2----1A----</AM>
+<AM lemma="librový" src="auto">AANP6----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>librových</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2330-001-p1s27W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

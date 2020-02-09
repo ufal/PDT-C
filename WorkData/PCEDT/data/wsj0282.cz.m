@@ -9427,14 +9427,12 @@
 <w.rf>
 <LM>w#w-wsj0282-001-p1s26W29</LM>
 </w.rf>
-<form>milionům</form>
-<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP3-----A----</tag>
+<form>milionů</form>
+<tag>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>milionů</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0282-001-p1s26W30-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -15689,14 +15687,24 @@
 <w.rf>
 <LM>w#w-wsj0282-001-p1s46W40</LM>
 </w.rf>
-<form>křížácké</form>
-<tag lemma="křížácké" src="auto">X@-------------</tag>
+<form>křižácké</form>
+<tag>
+<AM lemma="křižácký" src="auto">AAFP1----1A----</AM>
+<AM lemma="křižácký" src="auto">AAFP4----1A----</AM>
+<AM lemma="křižácký" src="auto">AAFP5----1A----</AM>
+<AM lemma="křižácký" src="auto">AAFS2----1A----</AM>
+<AM lemma="křižácký" src="auto">AAFS3----1A----</AM>
+<AM lemma="křižácký" src="auto">AAFS6----1A----</AM>
+<AM lemma="křižácký" src="auto">AAIP1----1A----</AM>
+<AM lemma="křižácký" src="auto">AAIP4----1A----</AM>
+<AM lemma="křižácký" src="auto">AAIP5----1A----</AM>
+<AM lemma="křižácký" src="auto">AAMP4----1A----</AM>
+<AM lemma="křižácký" src="auto" recommended="1">AANS1----1A----</AM>
+<AM lemma="křižácký" src="auto">AANS4----1A----</AM>
+<AM lemma="křižácký" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>křižácké</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0282-001-p1s46W41-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

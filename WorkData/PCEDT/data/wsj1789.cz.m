@@ -4926,27 +4926,13 @@
 <w.rf>
 <LM>w#w-wsj1789-001-p1s18W16</LM>
 </w.rf>
-<form>zamezení</form>
+<form>zamezí</form>
 <tag>
-<AM lemma="zamezený_^(*3it)" src="auto">AAMP1----1A----</AM>
-<AM lemma="zamezený_^(*3it)" src="auto">AAMP5----1A----</AM>
-<AM lemma="zamezení_^(*3it)" src="auto">NNNP1-----A----</AM>
-<AM lemma="zamezení_^(*3it)" src="auto">NNNP2-----A----</AM>
-<AM lemma="zamezení_^(*3it)" src="auto">NNNP4-----A----</AM>
-<AM lemma="zamezení_^(*3it)" src="auto">NNNP5-----A----</AM>
-<AM lemma="zamezení_^(*3it)" src="auto">NNNS1-----A----</AM>
-<AM lemma="zamezení_^(*3it)" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="zamezení_^(*3it)" src="auto">NNNS3-----A----</AM>
-<AM lemma="zamezení_^(*3it)" src="auto">NNNS4-----A----</AM>
-<AM lemma="zamezení_^(*3it)" src="auto">NNNS5-----A----</AM>
-<AM lemma="zamezení_^(*3it)" src="auto">NNNS6-----A----</AM>
-</tag>
+<AM lemma="zamezit" src="auto">VB-P---3P-AAP--</AM>
+<AM lemma="zamezit" src="auto" recommended="1">VB-S---3P-AAP--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>zamezí</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1789-001-p1s18W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7879,19 +7865,14 @@
 <w.rf>
 <LM>w#w-wsj1789-001-p1s30W4</LM>
 </w.rf>
-<form>investičního</form>
+<form>investičnímu</form>
 <tag>
-<AM lemma="investiční" src="auto" recommended="1">AAIS2----1A----</AM>
-<AM lemma="investiční" src="auto">AAMS2----1A----</AM>
-<AM lemma="investiční" src="auto">AAMS4----1A----</AM>
-<AM lemma="investiční" src="auto">AANS2----1A----</AM>
-</tag>
+<AM lemma="investiční" src="auto" recommended="1">AAIS3----1A----</AM>
+<AM lemma="investiční" src="auto">AAMS3----1A----</AM>
+<AM lemma="investiční" src="auto">AANS3----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>investičnímu</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1789-001-p1s30W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

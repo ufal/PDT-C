@@ -1227,14 +1227,12 @@
 <w.rf>
 <LM>w#w-wsj0097-001-p1s3W16</LM>
 </w.rf>
-<form>přestavitel</form>
-<tag lemma="přestavitel" src="auto">X@-------------</tag>
+<form>představitel</form>
+<tag>
+<AM lemma="představitel" src="auto" recommended="1">NNMS1-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>představitel</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0097-001-p1s3W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

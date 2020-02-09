@@ -1243,15 +1243,10 @@
 <w.rf>
 <LM>w#w-wsj2213-001-p1s1W66</LM>
 </w.rf>
-<form>25dolarová</form>
+<form>25</form>
 <tag>
-<AM lemma="25dolarová" src="auto">X@-------------</AM>
-<AM lemma="25dolarový" src="manual">AAFS1----1A----</AM>
-</tag>
+<AM lemma="25" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>25</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2213-001-p1s1W66-Ta-sw1">
@@ -1259,17 +1254,16 @@
 <w.rf>
 <LM>w#w-wsj2213-001-p1s1W66</LM>
 </w.rf>
-<form>25dolarová</form>
+<form>dolarová</form>
 <tag>
-<AM lemma="25dolarová" src="auto">X@-------------</AM>
-<AM lemma="25dolarový" src="manual">AAFS1----1A----</AM>
-</tag>
+<AM lemma="dolarový" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="dolarový" src="auto">AAFS5----1A----</AM>
+<AM lemma="dolarový" src="auto">AANP1----1A----</AM>
+<AM lemma="dolarový" src="auto">AANP4----1A----</AM>
+<AM lemma="dolarový" src="auto">AANP5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>dolarová</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2213-001-p1s1W67-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

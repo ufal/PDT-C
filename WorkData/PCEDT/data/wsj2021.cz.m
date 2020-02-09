@@ -2625,22 +2625,12 @@
 <w.rf>
 <LM>w#w-wsj2021-001-p1s10W7</LM>
 </w.rf>
-<form>osobnosti</form>
+<form>osobnostmi</form>
 <tag>
-<AM lemma="osobnost" src="auto" recommended="1">NNFP1-----A----</AM>
-<AM lemma="osobnost" src="auto">NNFP4-----A----</AM>
-<AM lemma="osobnost" src="auto">NNFP5-----A----</AM>
-<AM lemma="osobnost" src="auto">NNFS2-----A----</AM>
-<AM lemma="osobnost" src="auto">NNFS3-----A----</AM>
-<AM lemma="osobnost" src="auto">NNFS5-----A----</AM>
-<AM lemma="osobnost" src="auto">NNFS6-----A----</AM>
-</tag>
+<AM lemma="osobnost" src="auto" recommended="1">NNFP7-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>osobnostmi</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2021-001-p1s10W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

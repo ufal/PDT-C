@@ -10719,29 +10719,10 @@
 <w.rf>
 <LM>w#w-wsj2136-001-p1s34W23</LM>
 </w.rf>
-<form>30leté</form>
+<form>30</form>
 <tag>
-<AM lemma="30letý" src="auto">AAFP1----1A----</AM>
-<AM lemma="30letý" src="auto">AAFP4----1A----</AM>
-<AM lemma="30letý" src="auto">AAFP5----1A----</AM>
-<AM lemma="30letý" src="auto">AAFS2----1A----</AM>
-<AM lemma="30letý" src="auto">AAFS3----1A----</AM>
-<AM lemma="30letý" src="auto">AAFS6----1A----</AM>
-<AM lemma="30letý" src="auto">AAIP1----1A----</AM>
-<AM lemma="30letý" src="auto" recommended="1">AAIP4----1A----</AM>
-<AM lemma="30letý" src="auto">AAIP5----1A----</AM>
-<AM lemma="30letý" src="auto">AAMP4----1A----</AM>
-<AM lemma="30letý" src="auto">AANP1----1A---6</AM>
-<AM lemma="30letý" src="auto">AANP4----1A---6</AM>
-<AM lemma="30letý" src="auto">AANP5----1A---6</AM>
-<AM lemma="30letý" src="auto">AANS1----1A----</AM>
-<AM lemma="30letý" src="auto">AANS4----1A----</AM>
-<AM lemma="30letý" src="auto">AANS5----1A----</AM>
-</tag>
+<AM lemma="30" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>30</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2136-001-p1s34W23-Ta-sw1">
@@ -10749,31 +10730,27 @@
 <w.rf>
 <LM>w#w-wsj2136-001-p1s34W23</LM>
 </w.rf>
-<form>30leté</form>
+<form>leté</form>
 <tag>
-<AM lemma="30letý" src="auto">AAFP1----1A----</AM>
-<AM lemma="30letý" src="auto">AAFP4----1A----</AM>
-<AM lemma="30letý" src="auto">AAFP5----1A----</AM>
-<AM lemma="30letý" src="auto">AAFS2----1A----</AM>
-<AM lemma="30letý" src="auto">AAFS3----1A----</AM>
-<AM lemma="30letý" src="auto">AAFS6----1A----</AM>
-<AM lemma="30letý" src="auto">AAIP1----1A----</AM>
-<AM lemma="30letý" src="auto" recommended="1">AAIP4----1A----</AM>
-<AM lemma="30letý" src="auto">AAIP5----1A----</AM>
-<AM lemma="30letý" src="auto">AAMP4----1A----</AM>
-<AM lemma="30letý" src="auto">AANP1----1A---6</AM>
-<AM lemma="30letý" src="auto">AANP4----1A---6</AM>
-<AM lemma="30letý" src="auto">AANP5----1A---6</AM>
-<AM lemma="30letý" src="auto">AANS1----1A----</AM>
-<AM lemma="30letý" src="auto">AANS4----1A----</AM>
-<AM lemma="30letý" src="auto">AANS5----1A----</AM>
-</tag>
+<AM lemma="letý" src="auto">AAFP1----1A----</AM>
+<AM lemma="letý" src="auto">AAFP4----1A----</AM>
+<AM lemma="letý" src="auto">AAFP5----1A----</AM>
+<AM lemma="letý" src="auto">AAFS2----1A----</AM>
+<AM lemma="letý" src="auto">AAFS3----1A----</AM>
+<AM lemma="letý" src="auto">AAFS6----1A----</AM>
+<AM lemma="letý" src="auto">AAIP1----1A----</AM>
+<AM lemma="letý" src="auto" recommended="1">AAIP4----1A----</AM>
+<AM lemma="letý" src="auto">AAIP5----1A----</AM>
+<AM lemma="letý" src="auto">AAMP4----1A----</AM>
+<AM lemma="letý" src="auto">AANP1----1A---6</AM>
+<AM lemma="letý" src="auto">AANP4----1A---6</AM>
+<AM lemma="letý" src="auto">AANP5----1A---6</AM>
+<AM lemma="letý" src="auto">AANS1----1A----</AM>
+<AM lemma="letý" src="auto">AANS4----1A----</AM>
+<AM lemma="letý" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>leté</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2136-001-p1s34W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -11891,16 +11868,10 @@
 <w.rf>
 <LM>w#w-wsj2136-001-p1s38W6</LM>
 </w.rf>
-<form>30letému</form>
+<form>30</form>
 <tag>
-<AM lemma="30letý" src="auto" recommended="1">AAIS3----1A----</AM>
-<AM lemma="30letý" src="auto">AAMS3----1A----</AM>
-<AM lemma="30letý" src="auto">AANS3----1A----</AM>
-</tag>
+<AM lemma="30" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>30</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2136-001-p1s38W6-Ta-sw1">
@@ -11908,18 +11879,14 @@
 <w.rf>
 <LM>w#w-wsj2136-001-p1s38W6</LM>
 </w.rf>
-<form>30letému</form>
+<form>letému</form>
 <tag>
-<AM lemma="30letý" src="auto" recommended="1">AAIS3----1A----</AM>
-<AM lemma="30letý" src="auto">AAMS3----1A----</AM>
-<AM lemma="30letý" src="auto">AANS3----1A----</AM>
-</tag>
+<AM lemma="letý" src="auto" recommended="1">AAIS3----1A----</AM>
+<AM lemma="letý" src="auto">AAMS3----1A----</AM>
+<AM lemma="letý" src="auto">AANS3----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>letému</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2136-001-p1s38W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

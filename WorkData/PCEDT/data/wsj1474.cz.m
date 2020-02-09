@@ -5960,23 +5960,19 @@
 <w.rf>
 <LM>w#w-wsj1474-001-p1s18W18</LM>
 </w.rf>
-<form>obraných</form>
+<form>obranných</form>
 <tag>
-<AM lemma="obraný-2_^(okrást;_vyčistit)_(*4t-2)" src="auto">AAFP2----1A----</AM>
-<AM lemma="obraný-2_^(okrást;_vyčistit)_(*4t-2)" src="auto">AAFP6----1A----</AM>
-<AM lemma="obraný-2_^(okrást;_vyčistit)_(*4t-2)" src="auto" recommended="1">AAIP2----1A----</AM>
-<AM lemma="obraný-2_^(okrást;_vyčistit)_(*4t-2)" src="auto">AAIP6----1A----</AM>
-<AM lemma="obraný-2_^(okrást;_vyčistit)_(*4t-2)" src="auto">AAMP2----1A----</AM>
-<AM lemma="obraný-2_^(okrást;_vyčistit)_(*4t-2)" src="auto">AAMP6----1A----</AM>
-<AM lemma="obraný-2_^(okrást;_vyčistit)_(*4t-2)" src="auto">AANP2----1A----</AM>
-<AM lemma="obraný-2_^(okrást;_vyčistit)_(*4t-2)" src="auto">AANP6----1A----</AM>
-</tag>
+<AM lemma="obranný" src="auto">AAFP2----1A----</AM>
+<AM lemma="obranný" src="auto">AAFP6----1A----</AM>
+<AM lemma="obranný" src="auto" recommended="1">AAIP2----1A----</AM>
+<AM lemma="obranný" src="auto">AAIP6----1A----</AM>
+<AM lemma="obranný" src="auto">AAMP2----1A----</AM>
+<AM lemma="obranný" src="auto">AAMP6----1A----</AM>
+<AM lemma="obranný" src="auto">AANP2----1A----</AM>
+<AM lemma="obranný" src="auto">AANP6----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>obranných</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1474-001-p1s18W19-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7007,44 +7003,22 @@
 <w.rf>
 <LM>w#w-wsj1474-001-p1s22W9</LM>
 </w.rf>
-<form>vysoký</form>
+<form>vysokým</form>
 <tag>
-<AM lemma="vysoký" src="auto">AAFP1----1A---6</AM>
-<AM lemma="vysoký" src="auto">AAFP4----1A---6</AM>
-<AM lemma="vysoký" src="auto">AAFP5----1A---6</AM>
-<AM lemma="vysoký" src="auto">AAFS2----1A---6</AM>
-<AM lemma="vysoký" src="auto">AAFS3----1A---6</AM>
-<AM lemma="vysoký" src="auto">AAFS6----1A---6</AM>
-<AM lemma="vysoký" src="auto">AAIP1----1A---6</AM>
-<AM lemma="vysoký" src="auto">AAIP4----1A---6</AM>
-<AM lemma="vysoký" src="auto">AAIP5----1A---6</AM>
-<AM lemma="vysoký" src="auto">AAIS1----1A----</AM>
-<AM lemma="vysoký" src="auto">AAIS4----1A----</AM>
-<AM lemma="vysoký" src="auto">AAIS5----1A----</AM>
-<AM lemma="vysoký" src="auto">AAMP1----1A---6</AM>
-<AM lemma="vysoký" src="auto">AAMP4----1A---6</AM>
-<AM lemma="vysoký" src="auto">AAMP5----1A---6</AM>
-<AM lemma="vysoký" src="auto">AAMS1----1A----</AM>
-<AM lemma="vysoký" src="auto" recommended="1">AAMS5----1A----</AM>
-<AM lemma="vysoký" src="auto">AANP1----1A---6</AM>
-<AM lemma="vysoký" src="auto">AANP4----1A---6</AM>
-<AM lemma="vysoký" src="auto">AANP5----1A---6</AM>
-<AM lemma="vysoký" src="auto">AANS1----1A---6</AM>
-<AM lemma="vysoký" src="auto">AANS4----1A---6</AM>
-<AM lemma="vysoký" src="auto">AANS5----1A---6</AM>
-<AM lemma="vysoká_^(zvěř)" src="auto">NNFP1-----A---6</AM>
-<AM lemma="vysoká_^(zvěř)" src="auto">NNFP4-----A---6</AM>
-<AM lemma="vysoká_^(zvěř)" src="auto">NNFP5-----A---6</AM>
-<AM lemma="vysoká_^(zvěř)" src="auto">NNFS2-----A---6</AM>
-<AM lemma="vysoká_^(zvěř)" src="auto">NNFS3-----A---6</AM>
-<AM lemma="vysoká_^(zvěř)" src="auto">NNFS6-----A---6</AM>
-</tag>
+<AM lemma="vysoký" src="auto">AAFP3----1A----</AM>
+<AM lemma="vysoký" src="auto">AAIP3----1A----</AM>
+<AM lemma="vysoký" src="auto">AAIS6----1A---7</AM>
+<AM lemma="vysoký" src="auto">AAIS7----1A----</AM>
+<AM lemma="vysoký" src="auto">AAMP3----1A----</AM>
+<AM lemma="vysoký" src="auto">AAMS6----1A---7</AM>
+<AM lemma="vysoký" src="auto">AAMS7----1A----</AM>
+<AM lemma="vysoký" src="auto">AANP3----1A----</AM>
+<AM lemma="vysoký" src="auto">AANS6----1A---7</AM>
+<AM lemma="vysoký" src="auto" recommended="1">AANS7----1A----</AM>
+<AM lemma="vysoká_^(zvěř)" src="auto">NNFP3-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>vysokým</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1474-001-p1s22W10-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

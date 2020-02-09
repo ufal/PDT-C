@@ -8472,25 +8472,12 @@
 <w.rf>
 <LM>w#w-wsj0592-001-p1s29W7</LM>
 </w.rf>
-<form>ponechání</form>
+<form>ponecháni</form>
 <tag>
-<AM lemma="ponechání_^(*3at)" src="auto">NNNP1-----A----</AM>
-<AM lemma="ponechání_^(*3at)" src="auto">NNNP2-----A----</AM>
-<AM lemma="ponechání_^(*3at)" src="auto">NNNP4-----A----</AM>
-<AM lemma="ponechání_^(*3at)" src="auto">NNNP5-----A----</AM>
-<AM lemma="ponechání_^(*3at)" src="auto">NNNS1-----A----</AM>
-<AM lemma="ponechání_^(*3at)" src="auto">NNNS2-----A----</AM>
-<AM lemma="ponechání_^(*3at)" src="auto">NNNS3-----A----</AM>
-<AM lemma="ponechání_^(*3at)" src="auto" recommended="1">NNNS4-----A----</AM>
-<AM lemma="ponechání_^(*3at)" src="auto">NNNS5-----A----</AM>
-<AM lemma="ponechání_^(*3at)" src="auto">NNNS6-----A----</AM>
-</tag>
+<AM lemma="ponechat" src="auto" recommended="1">VsMP---XX-APP--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>ponecháni</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0592-001-p1s29W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

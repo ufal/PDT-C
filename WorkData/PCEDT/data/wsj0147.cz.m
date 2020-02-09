@@ -666,14 +666,12 @@
 <w.rf>
 <LM>w#w-wsj0147-001-p1s1W17</LM>
 </w.rf>
-<form>Missoury</form>
-<tag lemma="Missoury" src="auto">X@-------------</tag>
+<form>Missouri</form>
+<tag>
+<AM lemma="Missouri_;G" src="auto" recommended="1">NNNXX-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Missouri</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0147-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -1640,17 +1640,13 @@
 <w.rf>
 <LM>w#w-wsj0188-001-p1s4W4</LM>
 </w.rf>
-<form>pane</form>
+<form>pana</form>
 <tag>
-<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS5-----A----</AM>
-<AM lemma="pán_^(oslovení)" src="auto">NNMS5-----A---1</AM>
-</tag>
+<AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="pan_^(oslovení)" src="auto">NNMS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>pana</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0188-001-p1s4W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

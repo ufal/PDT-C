@@ -7442,14 +7442,38 @@
 <w.rf>
 <LM>w#w-wsj1822-001-p1s23W4</LM>
 </w.rf>
-<form>odkupují</form>
-<tag lemma="odkupovat" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<form>odkupující</form>
+<tag>
+<AM lemma="odkupující_^(*5ovat)" src="auto">AGFP1-----A----</AM>
+<AM lemma="odkupující_^(*5ovat)" src="auto">AGFP4-----A----</AM>
+<AM lemma="odkupující_^(*5ovat)" src="auto">AGFP5-----A----</AM>
+<AM lemma="odkupující_^(*5ovat)" src="auto">AGFS1-----A----</AM>
+<AM lemma="odkupující_^(*5ovat)" src="auto">AGFS2-----A----</AM>
+<AM lemma="odkupující_^(*5ovat)" src="auto">AGFS3-----A----</AM>
+<AM lemma="odkupující_^(*5ovat)" src="auto" recommended="1">AGFS4-----A----</AM>
+<AM lemma="odkupující_^(*5ovat)" src="auto">AGFS5-----A----</AM>
+<AM lemma="odkupující_^(*5ovat)" src="auto">AGFS6-----A----</AM>
+<AM lemma="odkupující_^(*5ovat)" src="auto">AGFS7-----A----</AM>
+<AM lemma="odkupující_^(*5ovat)" src="auto">AGIP1-----A----</AM>
+<AM lemma="odkupující_^(*5ovat)" src="auto">AGIP4-----A----</AM>
+<AM lemma="odkupující_^(*5ovat)" src="auto">AGIP5-----A----</AM>
+<AM lemma="odkupující_^(*5ovat)" src="auto">AGIS1-----A----</AM>
+<AM lemma="odkupující_^(*5ovat)" src="auto">AGIS4-----A----</AM>
+<AM lemma="odkupující_^(*5ovat)" src="auto">AGIS5-----A----</AM>
+<AM lemma="odkupující_^(*5ovat)" src="auto">AGMP1-----A----</AM>
+<AM lemma="odkupující_^(*5ovat)" src="auto">AGMP4-----A----</AM>
+<AM lemma="odkupující_^(*5ovat)" src="auto">AGMP5-----A----</AM>
+<AM lemma="odkupující_^(*5ovat)" src="auto">AGMS1-----A----</AM>
+<AM lemma="odkupující_^(*5ovat)" src="auto">AGMS5-----A----</AM>
+<AM lemma="odkupující_^(*5ovat)" src="auto">AGNP1-----A----</AM>
+<AM lemma="odkupující_^(*5ovat)" src="auto">AGNP4-----A----</AM>
+<AM lemma="odkupující_^(*5ovat)" src="auto">AGNP5-----A----</AM>
+<AM lemma="odkupující_^(*5ovat)" src="auto">AGNS1-----A----</AM>
+<AM lemma="odkupující_^(*5ovat)" src="auto">AGNS4-----A----</AM>
+<AM lemma="odkupující_^(*5ovat)" src="auto">AGNS5-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>odkupující</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1822-001-p1s23W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

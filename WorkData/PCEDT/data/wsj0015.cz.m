@@ -3951,18 +3951,12 @@
 <w.rf>
 <LM>w#w-wsj0015-001-p1s12W23</LM>
 </w.rf>
-<form>milionu</form>
+<form>milionů</form>
 <tag>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS3-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS6-----A----</AM>
-</tag>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>milionů</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0015-001-p1s12W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

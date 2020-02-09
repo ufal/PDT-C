@@ -16565,18 +16565,10 @@
 <w.rf>
 <LM>w#w-wsj0044-001-p1s57W13</LM>
 </w.rf>
-<form>37letá</form>
+<form>37</form>
 <tag>
-<AM lemma="37letý" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="37letý" src="auto">AAFS5----1A----</AM>
-<AM lemma="37letý" src="auto">AANP1----1A----</AM>
-<AM lemma="37letý" src="auto">AANP4----1A----</AM>
-<AM lemma="37letý" src="auto">AANP5----1A----</AM>
-</tag>
+<AM lemma="37" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>37</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0044-001-p1s57W13-Ta-sw1">
@@ -16584,20 +16576,16 @@
 <w.rf>
 <LM>w#w-wsj0044-001-p1s57W13</LM>
 </w.rf>
-<form>37letá</form>
+<form>letá</form>
 <tag>
-<AM lemma="37letý" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="37letý" src="auto">AAFS5----1A----</AM>
-<AM lemma="37letý" src="auto">AANP1----1A----</AM>
-<AM lemma="37letý" src="auto">AANP4----1A----</AM>
-<AM lemma="37letý" src="auto">AANP5----1A----</AM>
-</tag>
+<AM lemma="letý" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="letý" src="auto">AAFS5----1A----</AM>
+<AM lemma="letý" src="auto">AANP1----1A----</AM>
+<AM lemma="letý" src="auto">AANP4----1A----</AM>
+<AM lemma="letý" src="auto">AANP5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>letá</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0044-001-p1s57W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -24066,15 +24054,10 @@
 <w.rf>
 <LM>w#w-wsj0044-001-p1s85W8</LM>
 </w.rf>
-<form>48hodinovém</form>
+<form>48</form>
 <tag>
-<AM lemma="48hodinovém" src="auto">X@-------------</AM>
-<AM lemma="48hodinový" src="manual">AAIS6----1A----</AM>
-</tag>
+<AM lemma="48" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>48</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0044-001-p1s85W8-Ta-sw1">
@@ -24082,17 +24065,14 @@
 <w.rf>
 <LM>w#w-wsj0044-001-p1s85W8</LM>
 </w.rf>
-<form>48hodinovém</form>
+<form>hodinovém</form>
 <tag>
-<AM lemma="48hodinovém" src="auto">X@-------------</AM>
-<AM lemma="48hodinový" src="manual">AAIS6----1A----</AM>
-</tag>
+<AM lemma="hodinový" src="auto" recommended="1">AAIS6----1A----</AM>
+<AM lemma="hodinový" src="auto">AAMS6----1A----</AM>
+<AM lemma="hodinový" src="auto">AANS6----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>hodinovém</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0044-001-p1s85W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

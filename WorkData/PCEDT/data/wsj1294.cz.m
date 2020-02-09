@@ -5868,19 +5868,14 @@
 <w.rf>
 <LM>w#w-wsj1294-001-p1s17W14</LM>
 </w.rf>
-<form>Ministerstva</form>
+<form>Ministerstvo</form>
 <tag>
-<AM lemma="ministerstvo" src="auto" recommended="1">NNNP1-----A----</AM>
-<AM lemma="ministerstvo" src="auto">NNNP4-----A----</AM>
-<AM lemma="ministerstvo" src="auto">NNNP5-----A----</AM>
-<AM lemma="ministerstvo" src="auto">NNNS2-----A----</AM>
-</tag>
+<AM lemma="ministerstvo" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="ministerstvo" src="auto">NNNS4-----A----</AM>
+<AM lemma="ministerstvo" src="auto">NNNS5-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Ministerstvo</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1294-001-p1s17W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

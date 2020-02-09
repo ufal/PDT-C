@@ -2386,17 +2386,12 @@
 <w.rf>
 <LM>w#w-wsj0585-001-p1s7W10</LM>
 </w.rf>
-<form>příčnou</form>
+<form>příčinou</form>
 <tag>
-<AM lemma="příčný" src="auto">AAFS4----1A----</AM>
-<AM lemma="příčný" src="auto" recommended="1">AAFS7----1A----</AM>
-</tag>
+<AM lemma="příčina" src="auto" recommended="1">NNFS7-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>příčinou</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0585-001-p1s7W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -13446,18 +13441,17 @@
 <w.rf>
 <LM>w#w-wsj0585-001-p1s47W28</LM>
 </w.rf>
-<form>akcii</form>
+<form>akcie</form>
 <tag>
-<AM lemma="akcie" src="auto" recommended="1">NNFS3-----A----</AM>
-<AM lemma="akcie" src="auto">NNFS4-----A----</AM>
-<AM lemma="akcie" src="auto">NNFS6-----A----</AM>
-</tag>
+<AM lemma="akcie" src="auto">NNFP1-----A----</AM>
+<AM lemma="akcie" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="akcie" src="auto">NNFP5-----A----</AM>
+<AM lemma="akcie" src="auto">NNFS1-----A----</AM>
+<AM lemma="akcie" src="auto">NNFS2-----A----</AM>
+<AM lemma="akcie" src="auto">NNFS5-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>akcie</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0585-001-p1s47W29-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

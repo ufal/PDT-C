@@ -14145,14 +14145,12 @@
 <w.rf>
 <LM>w#w-wsj2034-001-p1s44W12</LM>
 </w.rf>
-<form>ohledem</form>
-<tag lemma="ohled" src="auto" recommended="1">NNIS7-----A----</tag>
+<form>ohledech</form>
+<tag>
+<AM lemma="ohled" src="auto" recommended="1">NNIP6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>ohledech</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2034-001-p1s44W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

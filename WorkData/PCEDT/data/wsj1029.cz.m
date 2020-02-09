@@ -614,42 +614,19 @@
 <w.rf>
 <LM>w#w-wsj1029-001-p1s1W21</LM>
 </w.rf>
-<form>další</form>
+<form>dalších</form>
 <tag>
-<AM lemma="další" src="auto">AAFP1----1A----</AM>
-<AM lemma="další" src="auto">AAFP4----1A----</AM>
-<AM lemma="další" src="auto">AAFP5----1A----</AM>
-<AM lemma="další" src="auto">AAFS1----1A----</AM>
-<AM lemma="další" src="auto">AAFS2----1A----</AM>
-<AM lemma="další" src="auto">AAFS3----1A----</AM>
-<AM lemma="další" src="auto">AAFS4----1A----</AM>
-<AM lemma="další" src="auto">AAFS5----1A----</AM>
-<AM lemma="další" src="auto">AAFS6----1A----</AM>
-<AM lemma="další" src="auto">AAFS7----1A----</AM>
-<AM lemma="další" src="auto">AAIP1----1A----</AM>
-<AM lemma="další" src="auto">AAIP4----1A----</AM>
-<AM lemma="další" src="auto">AAIP5----1A----</AM>
-<AM lemma="další" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="další" src="auto">AAIS4----1A----</AM>
-<AM lemma="další" src="auto">AAIS5----1A----</AM>
-<AM lemma="další" src="auto">AAMP1----1A----</AM>
-<AM lemma="další" src="auto">AAMP4----1A----</AM>
-<AM lemma="další" src="auto">AAMP5----1A----</AM>
-<AM lemma="další" src="auto">AAMS1----1A----</AM>
-<AM lemma="další" src="auto">AAMS5----1A----</AM>
-<AM lemma="další" src="auto">AANP1----1A----</AM>
-<AM lemma="další" src="auto">AANP4----1A----</AM>
-<AM lemma="další" src="auto">AANP5----1A----</AM>
-<AM lemma="další" src="auto">AANS1----1A----</AM>
-<AM lemma="další" src="auto">AANS4----1A----</AM>
-<AM lemma="další" src="auto">AANS5----1A----</AM>
-</tag>
+<AM lemma="další" src="auto">AAFP2----1A----</AM>
+<AM lemma="další" src="auto">AAFP6----1A----</AM>
+<AM lemma="další" src="auto" recommended="1">AAIP2----1A----</AM>
+<AM lemma="další" src="auto">AAIP6----1A----</AM>
+<AM lemma="další" src="auto">AAMP2----1A----</AM>
+<AM lemma="další" src="auto">AAMP6----1A----</AM>
+<AM lemma="další" src="auto">AANP2----1A----</AM>
+<AM lemma="další" src="auto">AANP6----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>dalších</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1029-001-p1s1W22-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1324,14 +1301,15 @@
 <w.rf>
 <LM>w#w-wsj1029-001-p1s4W9</LM>
 </w.rf>
-<form>massachussettského</form>
-<tag lemma="massachussettského" src="auto">X@-------------</tag>
+<form>massachusettského</form>
+<tag>
+<AM lemma="massachusettský" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="massachusettský" src="auto">AAMS2----1A----</AM>
+<AM lemma="massachusettský" src="auto">AAMS4----1A----</AM>
+<AM lemma="massachusettský" src="auto">AANS2----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>massachusettského</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1029-001-p1s4W10-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

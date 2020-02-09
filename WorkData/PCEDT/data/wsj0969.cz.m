@@ -861,14 +861,13 @@
 <w.rf>
 <LM>w#w-wsj0969-001-p1s2W11</LM>
 </w.rf>
-<form>Connectitut</form>
-<tag lemma="Connectitut" src="auto">X@-------------</tag>
+<form>Connecticut</form>
+<tag>
+<AM lemma="Connecticut_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Connecticut_;G" src="auto">NNIS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Connecticut</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0969-001-p1s2W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

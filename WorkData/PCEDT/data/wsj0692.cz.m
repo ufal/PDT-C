@@ -14098,18 +14098,11 @@
 <w.rf>
 <LM>w#w-wsj0692-001-p1s54W13</LM>
 </w.rf>
-<form>proslulá</form>
+<form>proslulou</form>
 <tag>
-<AM lemma="proslulý_^(*3out)" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="proslulý_^(*3out)" src="auto">AAFS5----1A----</AM>
-<AM lemma="proslulý_^(*3out)" src="auto">AANP1----1A----</AM>
-<AM lemma="proslulý_^(*3out)" src="auto">AANP4----1A----</AM>
-<AM lemma="proslulý_^(*3out)" src="auto">AANP5----1A----</AM>
-</tag>
+<AM lemma="proslulý_^(*3out)" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="proslulý_^(*3out)" src="auto">AAFS7----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>proslulou</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0692-001-p1s54W14-Ta">
@@ -14117,21 +14110,14 @@
 <w.rf>
 <LM>w#w-wsj0692-001-p1s54W14</LM>
 </w.rf>
-<form>koncepce</form>
+<form>koncepci</form>
 <tag>
-<AM lemma="koncepce" src="auto">NNFP1-----A----</AM>
-<AM lemma="koncepce" src="auto">NNFP4-----A----</AM>
-<AM lemma="koncepce" src="auto">NNFP5-----A----</AM>
-<AM lemma="koncepce" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="koncepce" src="auto">NNFS2-----A----</AM>
-<AM lemma="koncepce" src="auto">NNFS5-----A----</AM>
-</tag>
+<AM lemma="koncepce" src="auto">NNFS3-----A----</AM>
+<AM lemma="koncepce" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="koncepce" src="auto">NNFS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>koncepci</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0692-001-p1s54W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

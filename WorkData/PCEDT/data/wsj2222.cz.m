@@ -6820,15 +6820,10 @@
 <w.rf>
 <LM>w#w-wsj2222-001-p1s25W25</LM>
 </w.rf>
-<form>250bodovém</form>
+<form>250</form>
 <tag>
-<AM lemma="250bodovém" src="auto">X@-------------</AM>
-<AM lemma="250bodový" src="manual">AAIS6----1A----</AM>
-</tag>
+<AM lemma="250" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>250</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2222-001-p1s25W25-Ta-sw1">
@@ -6836,17 +6831,14 @@
 <w.rf>
 <LM>w#w-wsj2222-001-p1s25W25</LM>
 </w.rf>
-<form>250bodovém</form>
+<form>bodovém</form>
 <tag>
-<AM lemma="250bodovém" src="auto">X@-------------</AM>
-<AM lemma="250bodový" src="manual">AAIS6----1A----</AM>
-</tag>
+<AM lemma="bodový" src="auto" recommended="1">AAIS6----1A----</AM>
+<AM lemma="bodový" src="auto">AAMS6----1A----</AM>
+<AM lemma="bodový" src="auto">AANS6----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>bodovém</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2222-001-p1s25W26-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

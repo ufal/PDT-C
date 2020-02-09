@@ -1500,15 +1500,10 @@
 <w.rf>
 <LM>w#w-wsj0610-001-p1s6W29</LM>
 </w.rf>
-<form>6miliardovém</form>
+<form>6</form>
 <tag>
-<AM lemma="6miliardovém" src="auto">X@-------------</AM>
-<AM lemma="6miliardový" src="manual">AAIS6----1A----</AM>
-</tag>
+<AM lemma="6" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>6</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0610-001-p1s6W29-Ta-sw1">
@@ -1516,17 +1511,14 @@
 <w.rf>
 <LM>w#w-wsj0610-001-p1s6W29</LM>
 </w.rf>
-<form>6miliardovém</form>
+<form>miliardovém</form>
 <tag>
-<AM lemma="6miliardovém" src="auto">X@-------------</AM>
-<AM lemma="6miliardový" src="manual">AAIS6----1A----</AM>
-</tag>
+<AM lemma="miliardový" src="auto" recommended="1">AAIS6----1A----</AM>
+<AM lemma="miliardový" src="auto">AAMS6----1A----</AM>
+<AM lemma="miliardový" src="auto">AANS6----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>miliardovém</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0610-001-p1s6W30-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5627,14 +5619,14 @@
 <w.rf>
 <LM>w#w-wsj0610-001-p1s20W5</LM>
 </w.rf>
-<form>Kellog</form>
-<tag lemma="Kellog_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<form>Kellogg</form>
+<tag>
+<AM lemma="Kellogg_;G" src="auto">NNIS1-----A----</AM>
+<AM lemma="Kellogg_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Kellogg_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Kellogg</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0610-001-p1s20W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9216,15 +9208,10 @@
 <w.rf>
 <LM>w#w-wsj0610-001-p1s32W18</LM>
 </w.rf>
-<form>185akrovém</form>
+<form>185</form>
 <tag>
-<AM lemma="185akrovém" src="auto">X@-------------</AM>
-<AM lemma="185akrový" src="manual">AANS6----1A----</AM>
-</tag>
+<AM lemma="185" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>185</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0610-001-p1s32W18-Ta-sw1">
@@ -9232,17 +9219,14 @@
 <w.rf>
 <LM>w#w-wsj0610-001-p1s32W18</LM>
 </w.rf>
-<form>185akrovém</form>
+<form>akrovém</form>
 <tag>
-<AM lemma="185akrovém" src="auto">X@-------------</AM>
-<AM lemma="185akrový" src="manual">AANS6----1A----</AM>
-</tag>
+<AM lemma="akrový" src="auto">AAIS6----1A----</AM>
+<AM lemma="akrový" src="auto">AAMS6----1A----</AM>
+<AM lemma="akrový" src="auto" recommended="1">AANS6----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>akrovém</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0610-001-p1s32W19-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

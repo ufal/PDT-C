@@ -960,14 +960,12 @@
 <w.rf>
 <LM>w#w-wsj1724-001-p1s3W6</LM>
 </w.rf>
-<form>Quayelovi</form>
-<tag lemma="Quayelovi" src="auto">X@-------------</tag>
+<form>Quayleovi</form>
+<tag>
+<AM lemma="Quayleovi" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Quayleovi</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1724-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

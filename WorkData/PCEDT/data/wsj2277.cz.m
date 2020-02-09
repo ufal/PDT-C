@@ -1214,14 +1214,15 @@
 <w.rf>
 <LM>w#w-wsj2277-001-p1s2W7</LM>
 </w.rf>
-<form>Pittsbrurghu</form>
-<tag lemma="Pittsbrurghu" src="auto">X@-------------</tag>
+<form>Pittsburghu</form>
+<tag>
+<AM lemma="Pittsburgh_;G" src="auto">NNIS2-----A----</AM>
+<AM lemma="Pittsburgh_;G" src="auto">NNIS3-----A----</AM>
+<AM lemma="Pittsburgh_;G" src="auto">NNIS5-----A----</AM>
+<AM lemma="Pittsburgh_;G" src="auto" recommended="1">NNIS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Pittsburghu</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2277-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

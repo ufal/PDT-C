@@ -2254,15 +2254,10 @@
 <w.rf>
 <LM>w#w-wsj1014-001-p1s5W56</LM>
 </w.rf>
-<form>12kusové</form>
+<form>12</form>
 <tag>
-<AM lemma="12kusové" src="auto">X@-------------</AM>
-<AM lemma="12kusový" src="manual">AANS4----1A----</AM>
-</tag>
+<AM lemma="12" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>12</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1014-001-p1s5W56-Ta-sw1">
@@ -2270,17 +2265,27 @@
 <w.rf>
 <LM>w#w-wsj1014-001-p1s5W56</LM>
 </w.rf>
-<form>12kusové</form>
+<form>kusové</form>
 <tag>
-<AM lemma="12kusové" src="auto">X@-------------</AM>
-<AM lemma="12kusový" src="manual">AANS4----1A----</AM>
-</tag>
+<AM lemma="kusový" src="auto">AAFP1----1A----</AM>
+<AM lemma="kusový" src="auto">AAFP4----1A----</AM>
+<AM lemma="kusový" src="auto">AAFP5----1A----</AM>
+<AM lemma="kusový" src="auto">AAFS2----1A----</AM>
+<AM lemma="kusový" src="auto">AAFS3----1A----</AM>
+<AM lemma="kusový" src="auto">AAFS6----1A----</AM>
+<AM lemma="kusový" src="auto">AAIP1----1A----</AM>
+<AM lemma="kusový" src="auto">AAIP4----1A----</AM>
+<AM lemma="kusový" src="auto">AAIP5----1A----</AM>
+<AM lemma="kusový" src="auto">AAMP4----1A----</AM>
+<AM lemma="kusový" src="auto">AANP1----1A---6</AM>
+<AM lemma="kusový" src="auto">AANP4----1A---6</AM>
+<AM lemma="kusový" src="auto">AANP5----1A---6</AM>
+<AM lemma="kusový" src="auto">AANS1----1A----</AM>
+<AM lemma="kusový" src="auto" recommended="1">AANS4----1A----</AM>
+<AM lemma="kusový" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>kusové</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1014-001-p1s5W57-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

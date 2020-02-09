@@ -9682,22 +9682,13 @@
 <w.rf>
 <LM>w#w-wsj1286-001-p1s42W12</LM>
 </w.rf>
-<form>znalosti</form>
+<form>znalost</form>
 <tag>
-<AM lemma="znalost_^(*3ý)" src="auto">NNFP1-----A----</AM>
-<AM lemma="znalost_^(*3ý)" src="auto" recommended="1">NNFP4-----A----</AM>
-<AM lemma="znalost_^(*3ý)" src="auto">NNFP5-----A----</AM>
-<AM lemma="znalost_^(*3ý)" src="auto">NNFS2-----A----</AM>
-<AM lemma="znalost_^(*3ý)" src="auto">NNFS3-----A----</AM>
-<AM lemma="znalost_^(*3ý)" src="auto">NNFS5-----A----</AM>
-<AM lemma="znalost_^(*3ý)" src="auto">NNFS6-----A----</AM>
-</tag>
+<AM lemma="znalost_^(*3ý)" src="auto">NNFS1-----A----</AM>
+<AM lemma="znalost_^(*3ý)" src="auto" recommended="1">NNFS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>znalost</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1286-001-p1s42W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -12248,12 +12239,10 @@
 <w.rf>
 <LM>w#w-wsj1286-001-p1s53W10</LM>
 </w.rf>
-<form>nechodili</form>
-<tag lemma="chodit" src="auto" recommended="1">VpMP---XR-NAI--</tag>
+<form>nechodily</form>
+<tag>
+<AM lemma="chodit" src="auto" recommended="1">VpTP---XR-NAI--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>nechodily</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1286-001-p1s53W11-Ta">
@@ -12348,14 +12337,12 @@
 <w.rf>
 <LM>w#w-wsj1286-001-p1s53W20</LM>
 </w.rf>
-<form>věnovali</form>
-<tag lemma="věnovat" src="auto" recommended="1">VpMP---XR-AAI--</tag>
+<form>věnovaly</form>
+<tag>
+<AM lemma="věnovat" src="auto" recommended="1">VpTP---XR-AAI--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>věnovaly</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1286-001-p1s53W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

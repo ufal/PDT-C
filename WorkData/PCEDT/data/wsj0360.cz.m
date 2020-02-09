@@ -3316,21 +3316,17 @@
 <w.rf>
 <LM>w#w-wsj0360-001-p1s11W22</LM>
 </w.rf>
-<form>Molinově</form>
+<form>Molinovy</form>
 <tag>
-<AM lemma="Molinův-1_;S_^(*4a-1)" src="auto" recommended="1">AUFS3M---------</AM>
-<AM lemma="Molinův-1_;S_^(*4a-1)" src="auto">AUFS6M---------</AM>
-<AM lemma="Molinův-1_;S_^(*4a-1)" src="auto">AUIS3M--------6</AM>
-<AM lemma="Molinův-1_;S_^(*4a-1)" src="auto">AUIS6M---------</AM>
-<AM lemma="Molinův-1_;S_^(*4a-1)" src="auto">AUMS3M--------6</AM>
-<AM lemma="Molinův-1_;S_^(*4a-1)" src="auto">AUMS6M---------</AM>
-<AM lemma="Molinův-1_;S_^(*4a-1)" src="auto">AUNS3M--------6</AM>
-<AM lemma="Molinův-1_;S_^(*4a-1)" src="auto">AUNS6M---------</AM>
-</tag>
+<AM lemma="Molinův-1_;S_^(*4a-1)" src="auto">AUFP1M---------</AM>
+<AM lemma="Molinův-1_;S_^(*4a-1)" src="auto">AUFP4M---------</AM>
+<AM lemma="Molinův-1_;S_^(*4a-1)" src="auto">AUFP5M---------</AM>
+<AM lemma="Molinův-1_;S_^(*4a-1)" src="auto">AUFS2M---------</AM>
+<AM lemma="Molinův-1_;S_^(*4a-1)" src="auto" recommended="1">AUIP1M---------</AM>
+<AM lemma="Molinův-1_;S_^(*4a-1)" src="auto">AUIP4M---------</AM>
+<AM lemma="Molinův-1_;S_^(*4a-1)" src="auto">AUIP5M---------</AM>
+<AM lemma="Molinův-1_;S_^(*4a-1)" src="auto">AUMP4M---------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Molinovy</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0360-001-p1s11W23-Ta">
@@ -3338,18 +3334,17 @@
 <w.rf>
 <LM>w#w-wsj0360-001-p1s11W23</LM>
 </w.rf>
-<form>teorii</form>
+<form>teorie</form>
 <tag>
-<AM lemma="teorie" src="auto" recommended="1">NNFS3-----A----</AM>
-<AM lemma="teorie" src="auto">NNFS4-----A----</AM>
-<AM lemma="teorie" src="auto">NNFS6-----A----</AM>
-</tag>
+<AM lemma="teorie" src="auto">NNFP1-----A----</AM>
+<AM lemma="teorie" src="auto">NNFP4-----A----</AM>
+<AM lemma="teorie" src="auto">NNFP5-----A----</AM>
+<AM lemma="teorie" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="teorie" src="auto">NNFS2-----A----</AM>
+<AM lemma="teorie" src="auto">NNFS5-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>teorie</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0360-001-p1s11W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4144,16 +4139,10 @@
 <w.rf>
 <LM>w#w-wsj0360-001-p1s13W22</LM>
 </w.rf>
-<form>11letém</form>
+<form>11</form>
 <tag>
-<AM lemma="11letý" src="auto" recommended="1">AAIS6----1A----</AM>
-<AM lemma="11letý" src="auto">AAMS6----1A----</AM>
-<AM lemma="11letý" src="auto">AANS6----1A----</AM>
-</tag>
+<AM lemma="11" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>11</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0360-001-p1s13W22-Ta-sw1">
@@ -4161,18 +4150,14 @@
 <w.rf>
 <LM>w#w-wsj0360-001-p1s13W22</LM>
 </w.rf>
-<form>11letém</form>
+<form>letém</form>
 <tag>
-<AM lemma="11letý" src="auto" recommended="1">AAIS6----1A----</AM>
-<AM lemma="11letý" src="auto">AAMS6----1A----</AM>
-<AM lemma="11letý" src="auto">AANS6----1A----</AM>
-</tag>
+<AM lemma="letý" src="auto" recommended="1">AAIS6----1A----</AM>
+<AM lemma="letý" src="auto">AAMS6----1A----</AM>
+<AM lemma="letý" src="auto">AANS6----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>letém</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0360-001-p1s13W23-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -11865,14 +11850,12 @@
 <w.rf>
 <LM>w#w-wsj0360-001-p1s37W5</LM>
 </w.rf>
-<form>vydavatel</form>
-<tag lemma="vydavatel" src="auto" recommended="1">NNMS1-----A----</tag>
+<form>vydavatelka</form>
+<tag>
+<AM lemma="vydavatelka_^(*2)" src="auto" recommended="1">NNFS1-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>vydavatelka</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0360-001-p1s37W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

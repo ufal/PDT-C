@@ -1875,14 +1875,14 @@
 <w.rf>
 <LM>w#w-wsj0554-001-p1s4W21</LM>
 </w.rf>
-<form>Phyllips</form>
-<tag lemma="Phyllips" src="auto">X@-------------</tag>
+<form>Phillips</form>
+<tag>
+<AM lemma="Philips_;K" src="auto">NNIS1-----A----</AM>
+<AM lemma="Philips_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Phillips_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Phillips</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0554-001-p1s4W22-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -12656,17 +12656,12 @@
 <w.rf>
 <LM>w#w-wsj0554-001-p1s40W11</LM>
 </w.rf>
-<form>viceprezidentskou</form>
+<form>viceprezidentkou</form>
 <tag>
-<AM lemma="viceprezidentský" src="auto" recommended="1">AAFS4----1A----</AM>
-<AM lemma="viceprezidentský" src="auto">AAFS7----1A----</AM>
-</tag>
+<AM lemma="viceprezidentka_^(*2)" src="auto" recommended="1">NNFS7-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>viceprezidentkou</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0554-001-p1s40W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -14096,14 +14091,12 @@
 <w.rf>
 <LM>w#w-wsj0554-001-p1s44W36</LM>
 </w.rf>
-<form>Keller</form>
-<tag lemma="Keller_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+<form>Heller</form>
+<tag>
+<AM lemma="Heller_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Heller</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0554-001-p1s44W37-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

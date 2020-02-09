@@ -3097,42 +3097,21 @@
 <w.rf>
 <LM>w#w-wsj0062-001-p1s9W30</LM>
 </w.rf>
-<form>první</form>
+<form>prvním</form>
 <tag>
-<AM lemma="první" src="auto">CrFP1----------</AM>
-<AM lemma="první" src="auto">CrFP4----------</AM>
-<AM lemma="první" src="auto">CrFP5----------</AM>
-<AM lemma="první" src="auto">CrFS1----------</AM>
-<AM lemma="první" src="auto">CrFS2----------</AM>
-<AM lemma="první" src="auto">CrFS3----------</AM>
-<AM lemma="první" src="auto">CrFS4----------</AM>
-<AM lemma="první" src="auto">CrFS5----------</AM>
-<AM lemma="první" src="auto" recommended="1">CrFS6----------</AM>
-<AM lemma="první" src="auto">CrFS7----------</AM>
-<AM lemma="první" src="auto">CrIP1----------</AM>
-<AM lemma="první" src="auto">CrIP4----------</AM>
-<AM lemma="první" src="auto">CrIP5----------</AM>
-<AM lemma="první" src="auto">CrIS1----------</AM>
-<AM lemma="první" src="auto">CrIS4----------</AM>
-<AM lemma="první" src="auto">CrIS5----------</AM>
-<AM lemma="první" src="auto">CrMP1----------</AM>
-<AM lemma="první" src="auto">CrMP4----------</AM>
-<AM lemma="první" src="auto">CrMP5----------</AM>
-<AM lemma="první" src="auto">CrMS1----------</AM>
-<AM lemma="první" src="auto">CrMS5----------</AM>
-<AM lemma="první" src="auto">CrNP1----------</AM>
-<AM lemma="první" src="auto">CrNP4----------</AM>
-<AM lemma="první" src="auto">CrNP5----------</AM>
-<AM lemma="první" src="auto">CrNS1----------</AM>
-<AM lemma="první" src="auto">CrNS4----------</AM>
-<AM lemma="první" src="auto">CrNS5----------</AM>
-</tag>
+<AM lemma="první" src="auto">CrFP3----------</AM>
+<AM lemma="první" src="auto">CrIP3----------</AM>
+<AM lemma="první" src="auto">CrIS6----------</AM>
+<AM lemma="první" src="auto">CrIS7----------</AM>
+<AM lemma="první" src="auto">CrMP3----------</AM>
+<AM lemma="první" src="auto">CrMS6----------</AM>
+<AM lemma="první" src="auto">CrMS7----------</AM>
+<AM lemma="první" src="auto">CrNP3----------</AM>
+<AM lemma="první" src="auto" recommended="1">CrNS6----------</AM>
+<AM lemma="první" src="auto">CrNS7----------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>prvním</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0062-001-p1s9W31-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8074,14 +8053,12 @@
 <w.rf>
 <LM>w#w-wsj0062-001-p1s28W13</LM>
 </w.rf>
-<form>séfredaktorka</form>
-<tag lemma="séfredaktorka" src="auto">X@-------------</tag>
+<form>šéfredaktorka</form>
+<tag>
+<AM lemma="šéfredaktorka_^(*2)" src="auto" recommended="1">NNFS1-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>šéfredaktorka</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0062-001-p1s28W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10804,17 +10781,13 @@
 <w.rf>
 <LM>w#w-wsj0062-001-p1s41W8</LM>
 </w.rf>
-<form>Amarican</form>
+<form>American</form>
 <tag>
-<AM lemma="Amarican" src="auto">X@-------------</AM>
-<AM lemma="Amarican-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="American-1_;K_,t_^(souč._názvů,_např._A._Airlines)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Americana_;G" src="auto">NNFP2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>American</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0062-001-p1s41W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

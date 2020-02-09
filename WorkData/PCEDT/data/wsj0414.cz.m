@@ -535,17 +535,23 @@
 <w.rf>
 <LM>w#w-wsj0414-001-p1s2W29</LM>
 </w.rf>
-<form>zhroucením</form>
+<form>zhroucení</form>
 <tag>
-<AM lemma="zhroucení_^(*4tit)" src="auto">NNNP3-----A----</AM>
-<AM lemma="zhroucení_^(*4tit)" src="auto" recommended="1">NNNS7-----A----</AM>
-</tag>
+<AM lemma="zhroucený_^(*4tit)" src="auto">AAMP1----1A----</AM>
+<AM lemma="zhroucený_^(*4tit)" src="auto">AAMP5----1A----</AM>
+<AM lemma="zhroucení_^(*4tit)" src="auto">NNNP1-----A----</AM>
+<AM lemma="zhroucení_^(*4tit)" src="auto">NNNP2-----A----</AM>
+<AM lemma="zhroucení_^(*4tit)" src="auto">NNNP4-----A----</AM>
+<AM lemma="zhroucení_^(*4tit)" src="auto">NNNP5-----A----</AM>
+<AM lemma="zhroucení_^(*4tit)" src="auto">NNNS1-----A----</AM>
+<AM lemma="zhroucení_^(*4tit)" src="auto">NNNS2-----A----</AM>
+<AM lemma="zhroucení_^(*4tit)" src="auto">NNNS3-----A----</AM>
+<AM lemma="zhroucení_^(*4tit)" src="auto">NNNS4-----A----</AM>
+<AM lemma="zhroucení_^(*4tit)" src="auto">NNNS5-----A----</AM>
+<AM lemma="zhroucení_^(*4tit)" src="auto" recommended="1">NNNS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>zhroucení</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0414-001-p1s2W30-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8177,7 +8183,7 @@
 <form>loni</form>
 <tag>
 <AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="vloni_,s_^(^DD**vloni)" src="manual"/>
+<AM lemma="vloni_,s_^(^DD**vloni)" src="manual"></AM>
 <AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>

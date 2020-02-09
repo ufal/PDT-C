@@ -1265,17 +1265,12 @@
 <w.rf>
 <LM>w#w-wsj0343-001-p1s3W18</LM>
 </w.rf>
-<form>protějšek</form>
+<form>protějškem</form>
 <tag>
-<AM lemma="protějšek" src="auto">NNIS1-----A----</AM>
-<AM lemma="protějšek" src="auto" recommended="1">NNIS4-----A----</AM>
-</tag>
+<AM lemma="protějšek" src="auto" recommended="1">NNIS7-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>protějškem</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0343-001-p1s3W19-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2529,14 +2524,12 @@
 <w.rf>
 <LM>w#w-wsj0343-001-p1s5W38</LM>
 </w.rf>
-<form>vyvážil</form>
-<tag lemma="vyvážit_^(do_rovnováhy)" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<form>vyvážilo</form>
+<tag>
+<AM lemma="vyvážit_^(do_rovnováhy)" src="auto" recommended="1">VpNS---XR-AAP--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>vyvážilo</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0343-001-p1s5W39-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3806,14 +3799,13 @@
 <w.rf>
 <LM>w#w-wsj0343-001-p1s9W25</LM>
 </w.rf>
-<form>zákona</form>
-<tag lemma="zákon" src="auto" recommended="1">NNIS2-----A----</tag>
+<form>zákon</form>
+<tag>
+<AM lemma="zákon" src="auto">NNIS1-----A----</AM>
+<AM lemma="zákon" src="auto" recommended="1">NNIS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>zákon</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0343-001-p1s9W26-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4537,19 +4529,19 @@
 <w.rf>
 <LM>w#w-wsj0343-001-p1s12W12</LM>
 </w.rf>
-<form>Bushovi</form>
+<form>Bushovy</form>
 <tag>
-<AM lemma="Bush_;S" src="auto" recommended="1">NNMS3-----A---1</AM>
-<AM lemma="Bush_;S" src="auto">NNMS6-----A---1</AM>
-<AM lemma="Bushův_;S_^(*2)" src="auto">AUMP1M---------</AM>
-<AM lemma="Bushův_;S_^(*2)" src="auto">AUMP5M---------</AM>
-</tag>
+<AM lemma="Bushův_;S_^(*2)" src="auto">AUFP1M---------</AM>
+<AM lemma="Bushův_;S_^(*2)" src="auto">AUFP4M---------</AM>
+<AM lemma="Bushův_;S_^(*2)" src="auto">AUFP5M---------</AM>
+<AM lemma="Bushův_;S_^(*2)" src="auto" recommended="1">AUFS2M---------</AM>
+<AM lemma="Bushův_;S_^(*2)" src="auto">AUIP1M---------</AM>
+<AM lemma="Bushův_;S_^(*2)" src="auto">AUIP4M---------</AM>
+<AM lemma="Bushův_;S_^(*2)" src="auto">AUIP5M---------</AM>
+<AM lemma="Bushův_;S_^(*2)" src="auto">AUMP4M---------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Bushovy</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0343-001-p1s12W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6005,17 +5997,12 @@
 <w.rf>
 <LM>w#w-wsj0343-001-p1s16W17</LM>
 </w.rf>
-<form>Ill</form>
+<form>III</form>
 <tag>
-<AM lemma="Ill_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="ill_,t" src="auto" recommended="1">NNXXX-----A----</AM>
-</tag>
+<AM lemma="III-3`3" src="auto" recommended="1">C}-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>III</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0343-001-p1s16W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -4499,17 +4499,12 @@
 <w.rf>
 <LM>w#w-wsj0404-001-p1s13W14</LM>
 </w.rf>
-<form>společností</form>
+<form>společnostech</form>
 <tag>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFP2-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS7-----A----</AM>
-</tag>
+<AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFP6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>společnostech</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0404-001-p1s13W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

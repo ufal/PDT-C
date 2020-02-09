@@ -9573,18 +9573,14 @@
 <w.rf>
 <LM>w#w-wsj0568-001-p1s29W23</LM>
 </w.rf>
-<form>akci</form>
+<form>akcii</form>
 <tag>
-<AM lemma="akce" src="auto">NNFS3-----A----</AM>
-<AM lemma="akce" src="auto">NNFS4-----A----</AM>
-<AM lemma="akce" src="auto" recommended="1">NNFS6-----A----</AM>
-</tag>
+<AM lemma="akcie" src="auto">NNFS3-----A----</AM>
+<AM lemma="akcie" src="auto">NNFS4-----A----</AM>
+<AM lemma="akcie" src="auto" recommended="1">NNFS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>akcii</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0568-001-p1s29W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

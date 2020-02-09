@@ -6084,15 +6084,10 @@
 <w.rf>
 <LM>w#w-wsj2232-001-p1s19W6</LM>
 </w.rf>
-<form>27bodovou</form>
+<form>27</form>
 <tag>
-<AM lemma="27bodovou" src="auto">X@-------------</AM>
-<AM lemma="27bodový" src="manual">AAFS4----1A----</AM>
-</tag>
+<AM lemma="27" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>27</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2232-001-p1s19W6-Ta-sw1">
@@ -6100,17 +6095,13 @@
 <w.rf>
 <LM>w#w-wsj2232-001-p1s19W6</LM>
 </w.rf>
-<form>27bodovou</form>
+<form>bodovou</form>
 <tag>
-<AM lemma="27bodovou" src="auto">X@-------------</AM>
-<AM lemma="27bodový" src="manual">AAFS4----1A----</AM>
-</tag>
+<AM lemma="bodový" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="bodový" src="auto">AAFS7----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>bodovou</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2232-001-p1s19W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -14289,14 +14280,12 @@
 <w.rf>
 <LM>w#w-wsj2232-001-p1s52W2</LM>
 </w.rf>
-<form>Byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<form>Bylo</form>
+<tag>
+<AM lemma="být" src="auto" recommended="1">VpNS---XR-AAI--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Bylo</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2232-001-p1s52W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -20266,27 +20255,13 @@
 <w.rf>
 <LM>w#w-wsj2232-001-p1s70W39</LM>
 </w.rf>
-<form>pojištění</form>
+<form>pojištěním</form>
 <tag>
-<AM lemma="pojištěný_^(*5stit)" src="auto">AAMP1----1A----</AM>
-<AM lemma="pojištěný_^(*5stit)" src="auto">AAMP5----1A----</AM>
-<AM lemma="pojištění_^(*5stit)" src="auto">NNNP1-----A----</AM>
-<AM lemma="pojištění_^(*5stit)" src="auto">NNNP2-----A----</AM>
-<AM lemma="pojištění_^(*5stit)" src="auto">NNNP4-----A----</AM>
-<AM lemma="pojištění_^(*5stit)" src="auto">NNNP5-----A----</AM>
-<AM lemma="pojištění_^(*5stit)" src="auto">NNNS1-----A----</AM>
-<AM lemma="pojištění_^(*5stit)" src="auto">NNNS2-----A----</AM>
-<AM lemma="pojištění_^(*5stit)" src="auto">NNNS3-----A----</AM>
-<AM lemma="pojištění_^(*5stit)" src="auto">NNNS4-----A----</AM>
-<AM lemma="pojištění_^(*5stit)" src="auto">NNNS5-----A----</AM>
-<AM lemma="pojištění_^(*5stit)" src="auto" recommended="1">NNNS6-----A----</AM>
-</tag>
+<AM lemma="pojištění_^(*5stit)" src="auto">NNNP3-----A----</AM>
+<AM lemma="pojištění_^(*5stit)" src="auto" recommended="1">NNNS7-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>pojištěním</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2232-001-p1s70W40-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

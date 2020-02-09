@@ -7821,16 +7821,10 @@
 <w.rf>
 <LM>w#w-wsj0561-001-p1s27W33</LM>
 </w.rf>
-<form>61letému</form>
+<form>61</form>
 <tag>
-<AM lemma="61letý" src="auto" recommended="1">AAIS3----1A----</AM>
-<AM lemma="61letý" src="auto">AAMS3----1A----</AM>
-<AM lemma="61letý" src="auto">AANS3----1A----</AM>
-</tag>
+<AM lemma="61" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>61</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0561-001-p1s27W33-Ta-sw1">
@@ -7838,18 +7832,14 @@
 <w.rf>
 <LM>w#w-wsj0561-001-p1s27W33</LM>
 </w.rf>
-<form>61letému</form>
+<form>letému</form>
 <tag>
-<AM lemma="61letý" src="auto" recommended="1">AAIS3----1A----</AM>
-<AM lemma="61letý" src="auto">AAMS3----1A----</AM>
-<AM lemma="61letý" src="auto">AANS3----1A----</AM>
-</tag>
+<AM lemma="letý" src="auto" recommended="1">AAIS3----1A----</AM>
+<AM lemma="letý" src="auto">AAMS3----1A----</AM>
+<AM lemma="letý" src="auto">AANS3----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>letému</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0561-001-p1s27W34-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10480,14 +10470,13 @@
 <w.rf>
 <LM>w#w-wsj0561-001-p1s35W8</LM>
 </w.rf>
-<form>oakladskou</form>
-<tag lemma="oakladskou" src="auto">X@-------------</tag>
+<form>oaklandskou</form>
+<tag>
+<AM lemma="oaklandský" src="auto">AAFS4----1A----</AM>
+<AM lemma="oaklandský" src="auto" recommended="1">AAFS7----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>oaklandskou</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0561-001-p1s35W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

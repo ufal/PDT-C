@@ -1928,15 +1928,10 @@
 <w.rf>
 <LM>w#w-wsj2382-001-p1s6W14</LM>
 </w.rf>
-<form>100miligramovou</form>
+<form>100</form>
 <tag>
-<AM lemma="100miligramovou" src="auto">X@-------------</AM>
-<AM lemma="100miligramový" src="manual">AAFS4----1A----</AM>
-</tag>
+<AM lemma="100" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>100</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2382-001-p1s6W14-Ta-sw1">
@@ -1944,15 +1939,11 @@
 <w.rf>
 <LM>w#w-wsj2382-001-p1s6W14</LM>
 </w.rf>
-<form>100miligramovou</form>
+<form>miligramovou</form>
 <tag>
-<AM lemma="100miligramovou" src="auto">X@-------------</AM>
-<AM lemma="100miligramový" src="manual">AAFS4----1A----</AM>
-</tag>
+<AM lemma="miligramový" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="miligramový" src="auto">AAFS7----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>miligramovou</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2382-001-p1s6W15-Ta">
@@ -1981,15 +1972,10 @@
 <w.rf>
 <LM>w#w-wsj2382-001-p1s6W17</LM>
 </w.rf>
-<form>50miligramovou</form>
+<form>50</form>
 <tag>
-<AM lemma="50miligramovou" src="auto">X@-------------</AM>
-<AM lemma="50miligramový" src="manual">AAFS4----1A----</AM>
-</tag>
+<AM lemma="50" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>50</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2382-001-p1s6W17-Ta-sw1">
@@ -1997,17 +1983,13 @@
 <w.rf>
 <LM>w#w-wsj2382-001-p1s6W17</LM>
 </w.rf>
-<form>50miligramovou</form>
+<form>miligramovou</form>
 <tag>
-<AM lemma="50miligramovou" src="auto">X@-------------</AM>
-<AM lemma="50miligramový" src="manual">AAFS4----1A----</AM>
-</tag>
+<AM lemma="miligramový" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="miligramový" src="auto">AAFS7----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>miligramovou</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2382-001-p1s6W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

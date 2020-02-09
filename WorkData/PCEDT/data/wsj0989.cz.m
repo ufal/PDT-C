@@ -376,14 +376,12 @@
 <w.rf>
 <LM>w#w-wsj0989-001-p1s1W19</LM>
 </w.rf>
-<form>přestala</form>
-<tag lemma="přestat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<form>přestaly</form>
+<tag>
+<AM lemma="přestat" src="auto" recommended="1">VpTP---XR-AAP--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>přestaly</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0989-001-p1s1W20-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -12190,19 +12188,12 @@
 <w.rf>
 <LM>w#w-wsj0989-001-p1s42W16</LM>
 </w.rf>
-<form>zmatku</form>
+<form>zmatkem</form>
 <tag>
-<AM lemma="zmatek" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="zmatek" src="auto">NNIS3-----A----</AM>
-<AM lemma="zmatek" src="auto">NNIS5-----A----</AM>
-<AM lemma="zmatek" src="auto">NNIS6-----A----</AM>
-</tag>
+<AM lemma="zmatek" src="auto" recommended="1">NNIS7-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>zmatkem</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0989-001-p1s42W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -189,15 +189,10 @@
 <w.rf>
 <LM>w#w-wsj0480-001-p1s0W17</LM>
 </w.rf>
-<form>80megabytovou</form>
+<form>80</form>
 <tag>
-<AM lemma="80megabytovou" src="auto">X@-------------</AM>
-<AM lemma="80megabytový" src="manual">AAFS4----1A----</AM>
-</tag>
+<AM lemma="80" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>80</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0480-001-p1s0W17-Ta-sw1">
@@ -205,17 +200,13 @@
 <w.rf>
 <LM>w#w-wsj0480-001-p1s0W17</LM>
 </w.rf>
-<form>80megabytovou</form>
+<form>megabytovou</form>
 <tag>
-<AM lemma="80megabytovou" src="auto">X@-------------</AM>
-<AM lemma="80megabytový" src="manual">AAFS4----1A----</AM>
-</tag>
+<AM lemma="megabytový" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="megabytový" src="auto">AAFS7----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>megabytovou</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0480-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

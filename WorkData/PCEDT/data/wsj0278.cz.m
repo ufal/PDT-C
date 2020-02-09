@@ -10140,14 +10140,12 @@
 <w.rf>
 <LM>w#w-wsj0278-001-p1s24W10</LM>
 </w.rf>
-<form>Guberse</form>
-<tag lemma="Guberse" src="auto">X@-------------</tag>
+<form>Gubera</form>
+<tag>
+<AM lemma="Gubera" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Gubera</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0278-001-p1s24W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

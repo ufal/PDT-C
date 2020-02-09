@@ -1611,18 +1611,12 @@
 <w.rf>
 <LM>w#w-wsj2228-001-p1s4W16</LM>
 </w.rf>
-<form>muže</form>
+<form>může</form>
 <tag>
-<AM lemma="muž" src="auto" recommended="1">NNMP4-----A----</AM>
-<AM lemma="muž" src="auto">NNMS2-----A----</AM>
-<AM lemma="muž" src="auto">NNMS4-----A----</AM>
-</tag>
+<AM lemma="moci" src="auto" recommended="1">VB-S---3P-AAI--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>může</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2228-001-p1s4W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2206,14 +2200,12 @@
 <w.rf>
 <LM>w#w-wsj2228-001-p1s6W3</LM>
 </w.rf>
-<form>uvedli</form>
-<tag lemma="uvést" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<form>uvedly</form>
+<tag>
+<AM lemma="uvést" src="auto" recommended="1">VpTP---XR-AAP--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>uvedly</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2228-001-p1s6W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

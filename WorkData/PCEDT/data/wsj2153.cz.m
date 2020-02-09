@@ -5712,14 +5712,13 @@
 <w.rf>
 <LM>w#w-wsj2153-001-p1s23W25</LM>
 </w.rf>
-<form>Vadar</form>
-<tag lemma="Vadar" src="auto">X@-------------</tag>
+<form>Vader</form>
+<tag>
+<AM lemma="Vader_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Vader_;G" src="auto">NNIS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Vader</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2153-001-p1s23W26-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6642,14 +6641,12 @@
 <w.rf>
 <LM>w#w-wsj2153-001-p1s27W10</LM>
 </w.rf>
-<form>Indianna</form>
-<tag lemma="Indianna" src="auto">X@-------------</tag>
+<form>Indiana</form>
+<tag>
+<AM lemma="Indiana_;G" src="auto" recommended="1">NNFS1-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Indiana</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2153-001-p1s27W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9006,12 +9003,10 @@
 <w.rf>
 <LM>w#w-wsj2153-001-p1s35W15</LM>
 </w.rf>
-<form>koupit'</form>
-<tag lemma="koupit'" src="auto">X@-------------</tag>
+<form>koupit</form>
+<tag>
+<AM lemma="koupit_^(něco_sobě/někomu)" src="auto" recommended="1">Vf--------A-P--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>koupit</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2153-001-p1s35W15-Ta-sw1">
@@ -9019,14 +9014,12 @@
 <w.rf>
 <LM>w#w-wsj2153-001-p1s35W15</LM>
 </w.rf>
-<form>koupit'</form>
-<tag lemma="koupit'" src="auto">X@-------------</tag>
+<form>'</form>
+<tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2153-001-p1s35W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9458,15 +9451,10 @@
 <w.rf>
 <LM>w#w-wsj2153-001-p1s36W17</LM>
 </w.rf>
-<form>Corp.ve</form>
+<form>Corp</form>
 <tag>
-<AM lemma="Corp.ve" src="auto">X@-------------</AM>
-<AM lemma="Corp.ve-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="corp-77_:B" src="auto" recommended="1">F%-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Corp</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2153-001-p1s36W17-Ta-sw1">
@@ -9474,15 +9462,10 @@
 <w.rf>
 <LM>w#w-wsj2153-001-p1s36W17</LM>
 </w.rf>
-<form>Corp.ve</form>
+<form>.</form>
 <tag>
-<AM lemma="Corp.ve" src="auto">X@-------------</AM>
-<AM lemma="Corp.ve-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>.</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2153-001-p1s36W17-Ta-sw2">
@@ -9490,17 +9473,13 @@
 <w.rf>
 <LM>w#w-wsj2153-001-p1s36W17</LM>
 </w.rf>
-<form>Corp.ve</form>
+<form>ve</form>
 <tag>
-<AM lemma="Corp.ve" src="auto">X@-------------</AM>
-<AM lemma="Corp.ve-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="v-1" src="auto">RV--4----------</AM>
+<AM lemma="v-1" src="auto" recommended="1">RV--6----------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>ve</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2153-001-p1s36W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

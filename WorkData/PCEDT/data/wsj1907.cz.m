@@ -620,14 +620,12 @@
 <w.rf>
 <LM>w#w-wsj1907-001-p1s2W5</LM>
 </w.rf>
-<form>StateWest</form>
-<tag lemma="StateWest" src="auto">X@-------------</tag>
+<form>StatesWest</form>
+<tag>
+<AM lemma="StatesWest" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>StatesWest</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1907-001-p1s2W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1162,14 +1160,13 @@
 <w.rf>
 <LM>w#w-wsj1907-001-p1s4W6</LM>
 </w.rf>
-<form>Messa</form>
-<tag lemma="missa_,t_,x_^(mše)" src="auto" recommended="1">NNFS1-----A----</tag>
+<form>Mesa</form>
+<tag>
+<AM lemma="Mesa_;G" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="mesa_;L_^(izolovaná_plošina)" src="auto">NNFS1-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Mesa</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1907-001-p1s4W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -1238,15 +1238,14 @@
 <w.rf>
 <LM>w#w-wsj0520-001-p1s2W38</LM>
 </w.rf>
-<form>Hart-Scott</form>
+<form>Hart</form>
 <tag>
-<AM lemma="Hart-Scott" src="auto">X@-------------</AM>
-<AM lemma="Hart-Scott-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="Hart-1_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Hart-2_;G" src="auto">NNIS1-----A----</AM>
+<AM lemma="Hart-2_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Harta_;G" src="auto">NNFP2-----A----</AM>
+<AM lemma="Harty_;G" src="auto">NNIP2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Hart</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0520-001-p1s2W38-Ta-sw1">
@@ -1254,15 +1253,10 @@
 <w.rf>
 <LM>w#w-wsj0520-001-p1s2W38</LM>
 </w.rf>
-<form>Hart-Scott</form>
+<form>-</form>
 <tag>
-<AM lemma="Hart-Scott" src="auto">X@-------------</AM>
-<AM lemma="Hart-Scott-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="-" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>-</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0520-001-p1s2W38-Ta-sw2">
@@ -1270,17 +1264,12 @@
 <w.rf>
 <LM>w#w-wsj0520-001-p1s2W38</LM>
 </w.rf>
-<form>Hart-Scott</form>
+<form>Scott</form>
 <tag>
-<AM lemma="Hart-Scott" src="auto">X@-------------</AM>
-<AM lemma="Hart-Scott-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="Scott_;Y" src="auto" recommended="1">NNMS1-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Scott</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0520-001-p1s2W39-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

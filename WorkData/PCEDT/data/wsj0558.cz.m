@@ -3785,14 +3785,12 @@
 <w.rf>
 <LM>w#w-wsj0558-001-p1s11W4</LM>
 </w.rf>
-<form>vrostl</form>
-<tag lemma="vrůst" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<form>vzrostl</form>
+<tag>
+<AM lemma="vzrůst-1" src="auto" recommended="1">VpYS---XR-AAP--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>vzrostl</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0558-001-p1s11W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

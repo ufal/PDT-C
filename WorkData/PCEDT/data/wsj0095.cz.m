@@ -871,14 +871,12 @@
 <w.rf>
 <LM>w#w-wsj0095-001-p1s1W20</LM>
 </w.rf>
-<form>profesor</form>
-<tag lemma="profesor" src="auto" recommended="1">NNMS1-----A----</tag>
+<form>profesorka</form>
+<tag>
+<AM lemma="profesorka_^(*2)" src="auto" recommended="1">NNFS1-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>profesorka</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0095-001-p1s1W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -725,14 +725,12 @@
 <w.rf>
 <LM>w#w-wsj2320-001-p1s3W1</LM>
 </w.rf>
-<form>Vzrůstjí</form>
-<tag lemma="Vzrůstjí" src="auto">X@-------------</tag>
+<form>Vzrůstají</form>
+<tag>
+<AM lemma="vzrůstat" src="auto" recommended="1">VB-P---3P-AAI--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Vzrůstají</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2320-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

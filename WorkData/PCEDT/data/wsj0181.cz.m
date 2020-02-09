@@ -1616,14 +1616,12 @@
 <w.rf>
 <LM>w#w-wsj0181-001-p1s4W14</LM>
 </w.rf>
-<form>řekli</form>
-<tag lemma="říci" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<form>řeklo</form>
+<tag>
+<AM lemma="říci" src="auto" recommended="1">VpNS---XR-AAP--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>řeklo</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0181-001-p1s4W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

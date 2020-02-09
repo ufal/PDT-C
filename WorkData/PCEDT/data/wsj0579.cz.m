@@ -879,14 +879,12 @@
 <w.rf>
 <LM>w#w-wsj0579-001-p1s3W10</LM>
 </w.rf>
-<form>stale</form>
-<tag lemma="stale" src="auto">X@-------------</tag>
+<form>stále</form>
+<tag>
+<AM lemma="stále_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>stále</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0579-001-p1s3W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

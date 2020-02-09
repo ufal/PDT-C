@@ -5717,23 +5717,21 @@
 <w.rf>
 <LM>w#w-wsj0773-001-p1s17W16</LM>
 </w.rf>
-<form>odhadovaných</form>
+<form>odhadovaným</form>
 <tag>
-<AM lemma="odhadovaný_^(*2t)" src="auto" recommended="1">AAFP2----1A----</AM>
-<AM lemma="odhadovaný_^(*2t)" src="auto">AAFP6----1A----</AM>
-<AM lemma="odhadovaný_^(*2t)" src="auto">AAIP2----1A----</AM>
-<AM lemma="odhadovaný_^(*2t)" src="auto">AAIP6----1A----</AM>
-<AM lemma="odhadovaný_^(*2t)" src="auto">AAMP2----1A----</AM>
-<AM lemma="odhadovaný_^(*2t)" src="auto">AAMP6----1A----</AM>
-<AM lemma="odhadovaný_^(*2t)" src="auto">AANP2----1A----</AM>
-<AM lemma="odhadovaný_^(*2t)" src="auto">AANP6----1A----</AM>
-</tag>
+<AM lemma="odhadovaný_^(*2t)" src="auto" recommended="1">AAFP3----1A----</AM>
+<AM lemma="odhadovaný_^(*2t)" src="auto">AAIP3----1A----</AM>
+<AM lemma="odhadovaný_^(*2t)" src="auto">AAIS6----1A---7</AM>
+<AM lemma="odhadovaný_^(*2t)" src="auto">AAIS7----1A----</AM>
+<AM lemma="odhadovaný_^(*2t)" src="auto">AAMP3----1A----</AM>
+<AM lemma="odhadovaný_^(*2t)" src="auto">AAMS6----1A---7</AM>
+<AM lemma="odhadovaný_^(*2t)" src="auto">AAMS7----1A----</AM>
+<AM lemma="odhadovaný_^(*2t)" src="auto">AANP3----1A----</AM>
+<AM lemma="odhadovaný_^(*2t)" src="auto">AANS6----1A---7</AM>
+<AM lemma="odhadovaný_^(*2t)" src="auto">AANS7----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>odhadovaným</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0773-001-p1s17W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -436,12 +436,14 @@
 <w.rf>
 <LM>w#w-wsj0317-001-p1s1W2</LM>
 </w.rf>
-<form>R.</form>
-<tag lemma="R." src="auto">X@-------------</tag>
+<form>R</form>
+<tag>
+<AM lemma="R-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="R-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="r-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="r-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="rok_:B" src="auto">NNIXX-----A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>R</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0317-001-p1s1W2-Ta-sw1">
@@ -449,14 +451,12 @@
 <w.rf>
 <LM>w#w-wsj0317-001-p1s1W2</LM>
 </w.rf>
-<form>R.</form>
-<tag lemma="R." src="auto">X@-------------</tag>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>.</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0317-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2465,12 +2465,10 @@
 <LM>w#w-wsj0317-001-p1s6W16</LM>
 </w.rf>
 <form_change>num_normalization</form_change>
-<form>62875</form>
-<tag lemma="62875" src="auto" recommended="1">C=-------------</tag>
+<form>62.875</form>
+<tag>
+<AM lemma="62.875" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>62.875</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0317-001-p1s6W17-Ta">
@@ -2550,14 +2548,12 @@
 <LM>w#w-wsj0317-001-p1s6W23</LM>
 </w.rf>
 <form_change>num_normalization</form_change>
-<form>20125</form>
-<tag lemma="20125" src="auto" recommended="1">C=-------------</tag>
+<form>20.125</form>
+<tag>
+<AM lemma="20.125" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>20.125</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0317-001-p1s6W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2856,14 +2852,12 @@
 <LM>w#w-wsj0317-001-p1s7W16</LM>
 </w.rf>
 <form_change>num_normalization</form_change>
-<form>50875</form>
-<tag lemma="50875" src="auto" recommended="1">C=-------------</tag>
+<form>50.875</form>
+<tag>
+<AM lemma="50.875" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>50.875</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0317-001-p1s7W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5919,19 +5913,12 @@
 <w.rf>
 <LM>w#w-wsj0317-001-p1s17W16</LM>
 </w.rf>
-<form>dolary</form>
+<form>dolarů</form>
 <tag>
-<AM lemma="dolar" src="auto">NNIP1-----A----</AM>
-<AM lemma="dolar" src="auto">NNIP4-----A----</AM>
-<AM lemma="dolar" src="auto">NNIP5-----A----</AM>
-<AM lemma="dolar" src="auto" recommended="1">NNIP7-----A----</AM>
-</tag>
+<AM lemma="dolar" src="auto" recommended="1">NNIP2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>dolarů</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0317-001-p1s17W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -15984,17 +15971,13 @@
 <w.rf>
 <LM>w#w-wsj0317-001-p1s52W6</LM>
 </w.rf>
-<form>kandidáti</form>
+<form>kandidáty</form>
 <tag>
-<AM lemma="kandidát" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="kandidát" src="auto">NNMP5-----A----</AM>
-</tag>
+<AM lemma="kandidát" src="auto" recommended="1">NNMP4-----A----</AM>
+<AM lemma="kandidát" src="auto">NNMP7-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>kandidáty</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0317-001-p1s52W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -16672,12 +16655,10 @@
 <LM>w#w-wsj0317-001-p1s53W38</LM>
 </w.rf>
 <form_change>num_normalization</form_change>
-<form>27875</form>
-<tag lemma="27875" src="auto" recommended="1">C=-------------</tag>
+<form>27.875</form>
+<tag>
+<AM lemma="27.875" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>27.875</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0317-001-p1s53W39-Ta">
@@ -16770,14 +16751,12 @@
 <LM>w#w-wsj0317-001-p1s53W46</LM>
 </w.rf>
 <form_change>num_normalization</form_change>
-<form>2375</form>
-<tag lemma="2375" src="auto" recommended="1">C=-------------</tag>
+<form>2.375</form>
+<tag>
+<AM lemma="2.375" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>2.375</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0317-001-p1s53W47-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

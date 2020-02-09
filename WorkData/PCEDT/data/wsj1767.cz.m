@@ -2238,14 +2238,15 @@
 <w.rf>
 <LM>w#w-wsj1767-001-p1s5W27</LM>
 </w.rf>
-<form>cíly</form>
-<tag lemma="cíly" src="auto">X@-------------</tag>
+<form>cíli</form>
+<tag>
+<AM lemma="cíl" src="auto" recommended="1">NNIP7-----A----</AM>
+<AM lemma="cíl" src="auto">NNIS3-----A----</AM>
+<AM lemma="cíl" src="auto">NNIS5-----A----</AM>
+<AM lemma="cíl" src="auto">NNIS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>cíli</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1767-001-p1s5W28-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3907,18 +3908,12 @@
 <w.rf>
 <LM>w#w-wsj1767-001-p1s10W19</LM>
 </w.rf>
-<form>vozu</form>
+<form>vozů</form>
 <tag>
-<AM lemma="vůz" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="vůz" src="auto">NNIS3-----A----</AM>
-<AM lemma="vůz" src="auto">NNIS6-----A---1</AM>
-</tag>
+<AM lemma="vůz" src="auto" recommended="1">NNIP2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>vozů</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1767-001-p1s10W20-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

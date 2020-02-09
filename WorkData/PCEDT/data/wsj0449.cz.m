@@ -1766,15 +1766,10 @@
 <w.rf>
 <LM>w#w-wsj0449-001-p1s4W13</LM>
 </w.rf>
-<form>190bodového</form>
+<form>190</form>
 <tag>
-<AM lemma="190bodového" src="auto">X@-------------</AM>
-<AM lemma="190bodový" src="manual">AAIS2----1A----</AM>
-</tag>
+<AM lemma="190" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>190</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0449-001-p1s4W13-Ta-sw1">
@@ -1782,17 +1777,15 @@
 <w.rf>
 <LM>w#w-wsj0449-001-p1s4W13</LM>
 </w.rf>
-<form>190bodového</form>
+<form>bodového</form>
 <tag>
-<AM lemma="190bodového" src="auto">X@-------------</AM>
-<AM lemma="190bodový" src="manual">AAIS2----1A----</AM>
-</tag>
+<AM lemma="bodový" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="bodový" src="auto">AAMS2----1A----</AM>
+<AM lemma="bodový" src="auto">AAMS4----1A----</AM>
+<AM lemma="bodový" src="auto">AANS2----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>bodového</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0449-001-p1s4W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

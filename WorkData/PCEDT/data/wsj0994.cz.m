@@ -4060,15 +4060,10 @@
 <w.rf>
 <LM>w#w-wsj0994-001-p1s15W7</LM>
 </w.rf>
-<form>117akrového</form>
+<form>117</form>
 <tag>
-<AM lemma="117akrového" src="auto">X@-------------</AM>
-<AM lemma="117akrový" src="manual">AAIS2----1A----</AM>
-</tag>
+<AM lemma="117" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>117</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0994-001-p1s15W7-Ta-sw1">
@@ -4076,17 +4071,15 @@
 <w.rf>
 <LM>w#w-wsj0994-001-p1s15W7</LM>
 </w.rf>
-<form>117akrového</form>
+<form>akrového</form>
 <tag>
-<AM lemma="117akrového" src="auto">X@-------------</AM>
-<AM lemma="117akrový" src="manual">AAIS2----1A----</AM>
-</tag>
+<AM lemma="akrový" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="akrový" src="auto">AAMS2----1A----</AM>
+<AM lemma="akrový" src="auto">AAMS4----1A----</AM>
+<AM lemma="akrový" src="auto">AANS2----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>akrového</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0994-001-p1s15W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6258,17 +6251,14 @@
 <w.rf>
 <LM>w#w-wsj0994-001-p1s22W17</LM>
 </w.rf>
-<form>průmysl</form>
+<form>průmyslu</form>
 <tag>
-<AM lemma="průmysl" src="auto">NNIS1-----A----</AM>
-<AM lemma="průmysl" src="auto" recommended="1">NNIS4-----A----</AM>
-</tag>
+<AM lemma="průmysl" src="auto">NNIS2-----A----</AM>
+<AM lemma="průmysl" src="auto">NNIS3-----A----</AM>
+<AM lemma="průmysl" src="auto" recommended="1">NNIS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>průmyslu</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0994-001-p1s22W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -17878,14 +17868,12 @@
 <w.rf>
 <LM>w#w-wsj0994-001-p1s64W29</LM>
 </w.rf>
-<form>lákali</form>
-<tag lemma="lákat" src="auto" recommended="1">VpMP---XR-AAI--</tag>
+<form>lákaly</form>
+<tag>
+<AM lemma="lákat" src="auto" recommended="1">VpTP---XR-AAI--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>lákaly</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0994-001-p1s64W30-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

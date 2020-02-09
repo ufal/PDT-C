@@ -1024,14 +1024,13 @@
 <w.rf>
 <LM>w#w-wsj0179-001-p1s3W3</LM>
 </w.rf>
-<form>ivestoři</form>
-<tag lemma="ivestoři" src="auto">X@-------------</tag>
+<form>investoři</form>
+<tag>
+<AM lemma="investor" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="investor" src="auto">NNMP5-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>investoři</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0179-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3070,14 +3069,12 @@
 <w.rf>
 <LM>w#w-wsj0179-001-p1s8W14</LM>
 </w.rf>
-<form>přednostě</form>
-<tag lemma="přednostě" src="auto">X@-------------</tag>
+<form>přednostně</form>
+<tag>
+<AM lemma="přednostně_^(*1í)" src="auto" recommended="1">Dg-------1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>přednostně</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0179-001-p1s8W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5332,14 +5329,16 @@
 <w.rf>
 <LM>w#w-wsj0179-001-p1s18W6</LM>
 </w.rf>
-<form>Columia</form>
-<tag lemma="Columia" src="auto">X@-------------</tag>
+<form>Columbia</form>
+<tag>
+<AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto" recommended="1">NNFS1-----A---1</AM>
+<AM lemma="columbium" src="auto">NNNP1-----A----</AM>
+<AM lemma="columbium" src="auto">NNNP4-----A----</AM>
+<AM lemma="columbium" src="auto">NNNP5-----A----</AM>
+<AM lemma="columbium" src="auto">NNNS2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Columbia</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0179-001-p1s18W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9367,14 +9366,12 @@
 <w.rf>
 <LM>w#w-wsj0179-001-p1s30W7</LM>
 </w.rf>
-<form>pomohohla</form>
-<tag lemma="pomohohla" src="auto">X@-------------</tag>
+<form>pomohla</form>
+<tag>
+<AM lemma="pomoci" src="auto" recommended="1">VpQW---XR-AAP--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>pomohla</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0179-001-p1s30W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -5129,14 +5129,12 @@
 <w.rf>
 <LM>w#w-wsj0725-001-p1s22W25</LM>
 </w.rf>
-<form>pokrčují</form>
-<tag lemma="pokrčovat" src="auto" recommended="1">VB-P---3P-AAI--</tag>
+<form>pokračují</form>
+<tag>
+<AM lemma="pokračovat" src="auto" recommended="1">VB-P---3P-AAI--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>pokračují</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0725-001-p1s22W26-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

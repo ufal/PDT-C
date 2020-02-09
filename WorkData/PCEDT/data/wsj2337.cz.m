@@ -9749,14 +9749,17 @@
 <w.rf>
 <LM>w#w-wsj2337-001-p1s28W11</LM>
 </w.rf>
-<form>inzertce</form>
-<tag lemma="inzertce" src="auto">X@-------------</tag>
+<form>inzerce</form>
+<tag>
+<AM lemma="inzerce" src="auto">NNFP1-----A----</AM>
+<AM lemma="inzerce" src="auto">NNFP4-----A----</AM>
+<AM lemma="inzerce" src="auto">NNFP5-----A----</AM>
+<AM lemma="inzerce" src="auto">NNFS1-----A----</AM>
+<AM lemma="inzerce" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="inzerce" src="auto">NNFS5-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>inzerce</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2337-001-p1s28W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

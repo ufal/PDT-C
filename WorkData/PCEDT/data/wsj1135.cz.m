@@ -6393,14 +6393,15 @@
 <w.rf>
 <LM>w#w-wsj1135-001-p1s15W7</LM>
 </w.rf>
-<form>pravila</form>
-<tag lemma="pravit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<form>pravidla</form>
+<tag>
+<AM lemma="pravidlo" src="auto" recommended="1">NNNP1-----A----</AM>
+<AM lemma="pravidlo" src="auto">NNNP4-----A----</AM>
+<AM lemma="pravidlo" src="auto">NNNP5-----A----</AM>
+<AM lemma="pravidlo" src="auto">NNNS2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>pravidla</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1135-001-p1s15W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

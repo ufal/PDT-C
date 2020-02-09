@@ -2589,14 +2589,12 @@
 <w.rf>
 <LM>w#w-wsj0918-001-p1s8W3</LM>
 </w.rf>
-<form>jsem</form>
-<tag lemma="být" src="auto" recommended="1">VB-S---1P-AAI--</tag>
+<form>jsme</form>
+<tag>
+<AM lemma="být" src="auto" recommended="1">VB-P---1P-AAI--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>jsme</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0918-001-p1s8W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

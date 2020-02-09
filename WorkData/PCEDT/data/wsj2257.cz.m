@@ -8053,23 +8053,19 @@
 <w.rf>
 <LM>w#w-wsj2257-001-p1s25W14</LM>
 </w.rf>
-<form>30letých</form>
+<form>třicetiletých</form>
 <tag>
-<AM lemma="30letý" src="auto">AAFP2----1A----</AM>
-<AM lemma="30letý" src="auto">AAFP6----1A----</AM>
-<AM lemma="30letý" src="auto" recommended="1">AAIP2----1A----</AM>
-<AM lemma="30letý" src="auto">AAIP6----1A----</AM>
-<AM lemma="30letý" src="auto">AAMP2----1A----</AM>
-<AM lemma="30letý" src="auto">AAMP6----1A----</AM>
-<AM lemma="30letý" src="auto">AANP2----1A----</AM>
-<AM lemma="30letý" src="auto">AANP6----1A----</AM>
-</tag>
+<AM lemma="třicetiletý" src="auto">AAFP2----1A----</AM>
+<AM lemma="třicetiletý" src="auto">AAFP6----1A----</AM>
+<AM lemma="třicetiletý" src="auto" recommended="1">AAIP2----1A----</AM>
+<AM lemma="třicetiletý" src="auto">AAIP6----1A----</AM>
+<AM lemma="třicetiletý" src="auto">AAMP2----1A----</AM>
+<AM lemma="třicetiletý" src="auto">AAMP6----1A----</AM>
+<AM lemma="třicetiletý" src="auto">AANP2----1A----</AM>
+<AM lemma="třicetiletý" src="auto">AANP6----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>třicetiletých</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2257-001-p1s25W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8772,23 +8768,19 @@
 <w.rf>
 <LM>w#w-wsj2257-001-p1s28W12</LM>
 </w.rf>
-<form>30letých</form>
+<form>třicetiletých</form>
 <tag>
-<AM lemma="30letý" src="auto">AAFP2----1A----</AM>
-<AM lemma="30letý" src="auto">AAFP6----1A----</AM>
-<AM lemma="30letý" src="auto" recommended="1">AAIP2----1A----</AM>
-<AM lemma="30letý" src="auto">AAIP6----1A----</AM>
-<AM lemma="30letý" src="auto">AAMP2----1A----</AM>
-<AM lemma="30letý" src="auto">AAMP6----1A----</AM>
-<AM lemma="30letý" src="auto">AANP2----1A----</AM>
-<AM lemma="30letý" src="auto">AANP6----1A----</AM>
-</tag>
+<AM lemma="třicetiletý" src="auto">AAFP2----1A----</AM>
+<AM lemma="třicetiletý" src="auto">AAFP6----1A----</AM>
+<AM lemma="třicetiletý" src="auto" recommended="1">AAIP2----1A----</AM>
+<AM lemma="třicetiletý" src="auto">AAIP6----1A----</AM>
+<AM lemma="třicetiletý" src="auto">AAMP2----1A----</AM>
+<AM lemma="třicetiletý" src="auto">AAMP6----1A----</AM>
+<AM lemma="třicetiletý" src="auto">AANP2----1A----</AM>
+<AM lemma="třicetiletý" src="auto">AANP6----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>třicetiletých</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2257-001-p1s28W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

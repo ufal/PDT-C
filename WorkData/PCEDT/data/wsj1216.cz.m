@@ -904,17 +904,10 @@
 <w.rf>
 <LM>w#w-wsj1216-001-p1s4W7</LM>
 </w.rf>
-<form>500členného</form>
+<form>500</form>
 <tag>
-<AM lemma="500členný" src="auto" recommended="1">AAIS2----1A----</AM>
-<AM lemma="500členný" src="auto">AAMS2----1A----</AM>
-<AM lemma="500členný" src="auto">AAMS4----1A----</AM>
-<AM lemma="500členný" src="auto">AANS2----1A----</AM>
-</tag>
+<AM lemma="500" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>500</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1216-001-p1s4W7-Ta-sw1">
@@ -922,17 +915,13 @@
 <w.rf>
 <LM>w#w-wsj1216-001-p1s4W7</LM>
 </w.rf>
-<form>500členného</form>
+<form>členného</form>
 <tag>
-<AM lemma="500členný" src="auto" recommended="1">AAIS2----1A----</AM>
-<AM lemma="500členný" src="auto">AAMS2----1A----</AM>
-<AM lemma="500členný" src="auto">AAMS4----1A----</AM>
-<AM lemma="500členný" src="auto">AANS2----1A----</AM>
-</tag>
+<AM lemma="členný" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="členný" src="auto">AAMS2----1A----</AM>
+<AM lemma="členný" src="auto">AAMS4----1A----</AM>
+<AM lemma="členný" src="auto">AANS2----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>členného</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1216-001-p1s4W8-Ta">
@@ -1068,15 +1057,10 @@
 <w.rf>
 <LM>w#w-wsj1216-001-p1s4W19</LM>
 </w.rf>
-<form>40letou</form>
+<form>40</form>
 <tag>
-<AM lemma="40letý" src="auto" recommended="1">AAFS4----1A----</AM>
-<AM lemma="40letý" src="auto">AAFS7----1A----</AM>
-</tag>
+<AM lemma="40" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>40</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1216-001-p1s4W19-Ta-sw1">
@@ -1084,17 +1068,13 @@
 <w.rf>
 <LM>w#w-wsj1216-001-p1s4W19</LM>
 </w.rf>
-<form>40letou</form>
+<form>letou</form>
 <tag>
-<AM lemma="40letý" src="auto" recommended="1">AAFS4----1A----</AM>
-<AM lemma="40letý" src="auto">AAFS7----1A----</AM>
-</tag>
+<AM lemma="letý" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="letý" src="auto">AAFS7----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>letou</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1216-001-p1s4W20-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

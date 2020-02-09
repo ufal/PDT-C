@@ -5668,14 +5668,12 @@
 <w.rf>
 <LM>w#w-wsj0968-001-p1s15W14</LM>
 </w.rf>
-<form>prodejen</form>
-<tag lemma="prodejna" src="auto" recommended="1">NNFP2-----A----</tag>
+<form>prodejnách</form>
+<tag>
+<AM lemma="prodejna" src="auto" recommended="1">NNFP6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>prodejnách</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0968-001-p1s15W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

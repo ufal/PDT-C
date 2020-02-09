@@ -112,12 +112,11 @@
 <w.rf>
 <LM>w#w-wsj1760-001-p1s0W7</LM>
 </w.rf>
-<form>tzv.</form>
-<tag lemma="tzv." src="auto">X@-------------</tag>
+<form>tzv</form>
+<tag>
+<AM lemma="takzvaný_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaně_:B" src="auto">Dg-------1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>tzv</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1760-001-p1s0W7-Ta-sw1">
@@ -125,14 +124,12 @@
 <w.rf>
 <LM>w#w-wsj1760-001-p1s0W7</LM>
 </w.rf>
-<form>tzv.</form>
-<tag lemma="tzv." src="auto">X@-------------</tag>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>.</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1760-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -733,18 +730,12 @@
 <w.rf>
 <LM>w#w-wsj1760-001-p1s2W6</LM>
 </w.rf>
-<form>Conradiových</form>
+<form>Conradieových</form>
 <tag>
-<AM lemma="Conradiových" src="auto">X@-------------</AM>
-<AM lemma="Conradiův_;S_^(*2)" src="manual">AUMP2M---------</AM>
-<AM lemma="Conradiův_;S_^(*2e)" src="manual">AUMP2M---------</AM>
-</tag>
+<AM lemma="Conradieových" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Conradieových</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1760-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6317,26 +6308,40 @@
 <w.rf>
 <LM>w#w-wsj1760-001-p1s25W12</LM>
 </w.rf>
-<form>vlastním</form>
+<form>vlastní</form>
 <tag>
-<AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VB-S---1P-AAI--</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AAFP3----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIP3----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIS6----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIS7----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMP3----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMS6----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMS7----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANP3----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANS6----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANS7----1A----</AM>
-</tag>
+<AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VB-P---3P-AAI--</AM>
+<AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VB-S---3P-AAI--</AM>
+<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP1----1A----</AM>
+<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP4----1A----</AM>
+<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFP5----1A----</AM>
+<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS1----1A----</AM>
+<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS2----1A----</AM>
+<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS3----1A----</AM>
+<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS5----1A----</AM>
+<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS6----1A----</AM>
+<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAFS7----1A----</AM>
+<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIP1----1A----</AM>
+<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIP4----1A----</AM>
+<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIP5----1A----</AM>
+<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIS1----1A----</AM>
+<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIS4----1A----</AM>
+<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAIS5----1A----</AM>
+<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMP1----1A----</AM>
+<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMP4----1A----</AM>
+<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMP5----1A----</AM>
+<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMS1----1A----</AM>
+<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AAMS5----1A----</AM>
+<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANP1----1A----</AM>
+<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANP4----1A----</AM>
+<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANP5----1A----</AM>
+<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANS1----1A----</AM>
+<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANS4----1A----</AM>
+<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>vlastní</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1760-001-p1s25W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10600,14 +10605,12 @@
 <w.rf>
 <LM>w#w-wsj1760-001-p1s42W3</LM>
 </w.rf>
-<form>Werwoerda</form>
-<tag lemma="Werwoerda" src="auto">X@-------------</tag>
+<form>Verwoerda</form>
+<tag>
+<AM lemma="Verwoerda" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Verwoerda</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1760-001-p1s42W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

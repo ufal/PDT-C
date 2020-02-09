@@ -8347,15 +8347,10 @@
 <w.rf>
 <LM>w#w-wsj1642-001-p1s31W16</LM>
 </w.rf>
-<form>11miliónová</form>
+<form>11</form>
 <tag>
-<AM lemma="11miliónová" src="auto">X@-------------</AM>
-<AM lemma="11miliónový" src="manual">AAFS1----1A----</AM>
-</tag>
+<AM lemma="11" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>11</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1642-001-p1s31W16-Ta-sw1">
@@ -8363,17 +8358,16 @@
 <w.rf>
 <LM>w#w-wsj1642-001-p1s31W16</LM>
 </w.rf>
-<form>11miliónová</form>
+<form>miliónová</form>
 <tag>
-<AM lemma="11miliónová" src="auto">X@-------------</AM>
-<AM lemma="11miliónový" src="manual">AAFS1----1A----</AM>
-</tag>
+<AM lemma="miliónový" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="miliónový" src="auto">AAFS5----1A----</AM>
+<AM lemma="miliónový" src="auto">AANP1----1A----</AM>
+<AM lemma="miliónový" src="auto">AANP4----1A----</AM>
+<AM lemma="miliónový" src="auto">AANP5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>miliónová</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1642-001-p1s31W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

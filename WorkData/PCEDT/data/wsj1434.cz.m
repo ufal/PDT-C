@@ -6405,23 +6405,38 @@
 <w.rf>
 <LM>w#w-wsj1434-001-p1s21W2</LM>
 </w.rf>
-<form>mezibankovních</form>
+<form>mezibankovní</form>
 <tag>
-<AM lemma="mezibankovní" src="auto" recommended="1">AAFP2----1A----</AM>
-<AM lemma="mezibankovní" src="auto">AAFP6----1A----</AM>
-<AM lemma="mezibankovní" src="auto">AAIP2----1A----</AM>
-<AM lemma="mezibankovní" src="auto">AAIP6----1A----</AM>
-<AM lemma="mezibankovní" src="auto">AAMP2----1A----</AM>
-<AM lemma="mezibankovní" src="auto">AAMP6----1A----</AM>
-<AM lemma="mezibankovní" src="auto">AANP2----1A----</AM>
-<AM lemma="mezibankovní" src="auto">AANP6----1A----</AM>
-</tag>
+<AM lemma="mezibankovní" src="auto">AAFP1----1A----</AM>
+<AM lemma="mezibankovní" src="auto">AAFP4----1A----</AM>
+<AM lemma="mezibankovní" src="auto">AAFP5----1A----</AM>
+<AM lemma="mezibankovní" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="mezibankovní" src="auto">AAFS2----1A----</AM>
+<AM lemma="mezibankovní" src="auto">AAFS3----1A----</AM>
+<AM lemma="mezibankovní" src="auto">AAFS4----1A----</AM>
+<AM lemma="mezibankovní" src="auto">AAFS5----1A----</AM>
+<AM lemma="mezibankovní" src="auto">AAFS6----1A----</AM>
+<AM lemma="mezibankovní" src="auto">AAFS7----1A----</AM>
+<AM lemma="mezibankovní" src="auto">AAIP1----1A----</AM>
+<AM lemma="mezibankovní" src="auto">AAIP4----1A----</AM>
+<AM lemma="mezibankovní" src="auto">AAIP5----1A----</AM>
+<AM lemma="mezibankovní" src="auto">AAIS1----1A----</AM>
+<AM lemma="mezibankovní" src="auto">AAIS4----1A----</AM>
+<AM lemma="mezibankovní" src="auto">AAIS5----1A----</AM>
+<AM lemma="mezibankovní" src="auto">AAMP1----1A----</AM>
+<AM lemma="mezibankovní" src="auto">AAMP4----1A----</AM>
+<AM lemma="mezibankovní" src="auto">AAMP5----1A----</AM>
+<AM lemma="mezibankovní" src="auto">AAMS1----1A----</AM>
+<AM lemma="mezibankovní" src="auto">AAMS5----1A----</AM>
+<AM lemma="mezibankovní" src="auto">AANP1----1A----</AM>
+<AM lemma="mezibankovní" src="auto">AANP4----1A----</AM>
+<AM lemma="mezibankovní" src="auto">AANP5----1A----</AM>
+<AM lemma="mezibankovní" src="auto">AANS1----1A----</AM>
+<AM lemma="mezibankovní" src="auto">AANS4----1A----</AM>
+<AM lemma="mezibankovní" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>mezibankovní</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1434-001-p1s21W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8641,14 +8656,23 @@
 <w.rf>
 <LM>w#w-wsj1434-001-p1s27W4</LM>
 </w.rf>
-<form>SRDUŽENÍ</form>
-<tag lemma="SRDUŽENÍ" src="auto">X@-------------</tag>
+<form>SDRUŽENÍ</form>
+<tag>
+<AM lemma="sdružený_^(*3it)" src="auto">AAMP1----1A----</AM>
+<AM lemma="sdružený_^(*3it)" src="auto">AAMP5----1A----</AM>
+<AM lemma="sdružení_^(*3it)" src="auto">NNNP1-----A----</AM>
+<AM lemma="sdružení_^(*3it)" src="auto">NNNP2-----A----</AM>
+<AM lemma="sdružení_^(*3it)" src="auto">NNNP4-----A----</AM>
+<AM lemma="sdružení_^(*3it)" src="auto">NNNP5-----A----</AM>
+<AM lemma="sdružení_^(*3it)" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="sdružení_^(*3it)" src="auto">NNNS2-----A----</AM>
+<AM lemma="sdružení_^(*3it)" src="auto">NNNS3-----A----</AM>
+<AM lemma="sdružení_^(*3it)" src="auto">NNNS4-----A----</AM>
+<AM lemma="sdružení_^(*3it)" src="auto">NNNS5-----A----</AM>
+<AM lemma="sdružení_^(*3it)" src="auto">NNNS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>SDRUŽENÍ</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1434-001-p1s27W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

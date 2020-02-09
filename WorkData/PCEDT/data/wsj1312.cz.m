@@ -6134,17 +6134,10 @@
 <w.rf>
 <LM>w#w-wsj1312-001-p1s18W8</LM>
 </w.rf>
-<form>15letými</form>
+<form>15</form>
 <tag>
-<AM lemma="15letý" src="auto" recommended="1">AAFP7----1A----</AM>
-<AM lemma="15letý" src="auto">AAIP7----1A----</AM>
-<AM lemma="15letý" src="auto">AAMP7----1A----</AM>
-<AM lemma="15letý" src="auto">AANP7----1A----</AM>
-</tag>
+<AM lemma="15" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>15</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1312-001-p1s18W8-Ta-sw1">
@@ -6152,19 +6145,15 @@
 <w.rf>
 <LM>w#w-wsj1312-001-p1s18W8</LM>
 </w.rf>
-<form>15letými</form>
+<form>letými</form>
 <tag>
-<AM lemma="15letý" src="auto" recommended="1">AAFP7----1A----</AM>
-<AM lemma="15letý" src="auto">AAIP7----1A----</AM>
-<AM lemma="15letý" src="auto">AAMP7----1A----</AM>
-<AM lemma="15letý" src="auto">AANP7----1A----</AM>
-</tag>
+<AM lemma="letý" src="auto" recommended="1">AAFP7----1A----</AM>
+<AM lemma="letý" src="auto">AAIP7----1A----</AM>
+<AM lemma="letý" src="auto">AAMP7----1A----</AM>
+<AM lemma="letý" src="auto">AANP7----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>letými</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1312-001-p1s18W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -12204,15 +12193,10 @@
 <w.rf>
 <LM>w#w-wsj1312-001-p1s38W26</LM>
 </w.rf>
-<form>45miliardového</form>
+<form>45</form>
 <tag>
-<AM lemma="45miliardového" src="auto">X@-------------</AM>
-<AM lemma="45miliardový" src="manual">AAIS2----1A----</AM>
-</tag>
+<AM lemma="45" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>45</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1312-001-p1s38W26-Ta-sw1">
@@ -12220,17 +12204,15 @@
 <w.rf>
 <LM>w#w-wsj1312-001-p1s38W26</LM>
 </w.rf>
-<form>45miliardového</form>
+<form>miliardového</form>
 <tag>
-<AM lemma="45miliardového" src="auto">X@-------------</AM>
-<AM lemma="45miliardový" src="manual">AAIS2----1A----</AM>
-</tag>
+<AM lemma="miliardový" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="miliardový" src="auto">AAMS2----1A----</AM>
+<AM lemma="miliardový" src="auto">AAMS4----1A----</AM>
+<AM lemma="miliardový" src="auto">AANS2----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>miliardového</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1312-001-p1s38W27-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -620,15 +620,10 @@
 <w.rf>
 <LM>w#w-wsj1077-001-p1s1W21</LM>
 </w.rf>
-<form>700milionového</form>
+<form>700</form>
 <tag>
-<AM lemma="700milionového" src="auto">X@-------------</AM>
-<AM lemma="700milionový_,s_^(^DD**700miliónový)" src="manual">AAIS2----1A----</AM>
-</tag>
+<AM lemma="700" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>700</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1077-001-p1s1W21-Ta-sw1">
@@ -636,17 +631,15 @@
 <w.rf>
 <LM>w#w-wsj1077-001-p1s1W21</LM>
 </w.rf>
-<form>700milionového</form>
+<form>milionového</form>
 <tag>
-<AM lemma="700milionového" src="auto">X@-------------</AM>
-<AM lemma="700milionový_,s_^(^DD**700miliónový)" src="manual">AAIS2----1A----</AM>
-</tag>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AAMS2----1A----</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AAMS4----1A----</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AANS2----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>milionového</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1077-001-p1s1W22-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

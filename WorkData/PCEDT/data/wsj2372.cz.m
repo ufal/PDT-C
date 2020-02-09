@@ -16268,18 +16268,14 @@
 <w.rf>
 <LM>w#w-wsj2372-001-p1s50W35</LM>
 </w.rf>
-<form>na</form>
+<form>nad</form>
 <tag>
-<AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
-<AM lemma="na-2" src="auto">II-------------</AM>
-</tag>
+<AM lemma="nad-1" src="auto">RR--4----------</AM>
+<AM lemma="nad-1" src="auto" recommended="1">RR--7----------</AM>
+<AM lemma="nad-7_^(předpona,_sam.)" src="auto">A2--------A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>nad</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2372-001-p1s50W36-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -1236,18 +1236,10 @@
 <w.rf>
 <LM>w#w-wsj1699-001-p1s4W6</LM>
 </w.rf>
-<form>45členná</form>
+<form>45</form>
 <tag>
-<AM lemma="45členný" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="45členný" src="auto">AAFS5----1A----</AM>
-<AM lemma="45členný" src="auto">AANP1----1A----</AM>
-<AM lemma="45členný" src="auto">AANP4----1A----</AM>
-<AM lemma="45členný" src="auto">AANP5----1A----</AM>
-</tag>
+<AM lemma="45" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>45</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1699-001-p1s4W6-Ta-sw1">
@@ -1255,20 +1247,16 @@
 <w.rf>
 <LM>w#w-wsj1699-001-p1s4W6</LM>
 </w.rf>
-<form>45členná</form>
+<form>členná</form>
 <tag>
-<AM lemma="45členný" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="45členný" src="auto">AAFS5----1A----</AM>
-<AM lemma="45členný" src="auto">AANP1----1A----</AM>
-<AM lemma="45členný" src="auto">AANP4----1A----</AM>
-<AM lemma="45členný" src="auto">AANP5----1A----</AM>
-</tag>
+<AM lemma="členný" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="členný" src="auto">AAFS5----1A----</AM>
+<AM lemma="členný" src="auto">AANP1----1A----</AM>
+<AM lemma="členný" src="auto">AANP4----1A----</AM>
+<AM lemma="členný" src="auto">AANP5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>členná</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1699-001-p1s4W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -14095,16 +14083,10 @@
 <w.rf>
 <LM>w#w-wsj1699-001-p1s48W7</LM>
 </w.rf>
-<form>38milionového</form>
+<form>38</form>
 <tag>
-<AM lemma="38milionového" src="auto">X@-------------</AM>
-<AM lemma="38milionový_,s_^(^DD**38miliónvý)" src="manual">AAIS2----1A----</AM>
-<AM lemma="38milionový_,s_^(^DD**38miliónový)" src="manual">AAIS2----1A----</AM>
-</tag>
+<AM lemma="38" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>38</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1699-001-p1s48W7-Ta-sw1">
@@ -14112,18 +14094,15 @@
 <w.rf>
 <LM>w#w-wsj1699-001-p1s48W7</LM>
 </w.rf>
-<form>38milionového</form>
+<form>milionového</form>
 <tag>
-<AM lemma="38milionového" src="auto">X@-------------</AM>
-<AM lemma="38milionový_,s_^(^DD**38miliónvý)" src="manual">AAIS2----1A----</AM>
-<AM lemma="38milionový_,s_^(^DD**38miliónový)" src="manual">AAIS2----1A----</AM>
-</tag>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AAMS2----1A----</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AAMS4----1A----</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AANS2----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>milionového</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1699-001-p1s48W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

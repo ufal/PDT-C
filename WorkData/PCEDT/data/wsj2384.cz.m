@@ -2882,21 +2882,14 @@
 <w.rf>
 <LM>w#w-wsj2384-001-p1s10W42</LM>
 </w.rf>
-<form>stanice</form>
+<form>stanici</form>
 <tag>
-<AM lemma="stanice" src="auto">NNFP1-----A----</AM>
-<AM lemma="stanice" src="auto" recommended="1">NNFP4-----A----</AM>
-<AM lemma="stanice" src="auto">NNFP5-----A----</AM>
-<AM lemma="stanice" src="auto">NNFS1-----A----</AM>
-<AM lemma="stanice" src="auto">NNFS2-----A----</AM>
-<AM lemma="stanice" src="auto">NNFS5-----A----</AM>
-</tag>
+<AM lemma="stanice" src="auto">NNFS3-----A----</AM>
+<AM lemma="stanice" src="auto">NNFS4-----A----</AM>
+<AM lemma="stanice" src="auto" recommended="1">NNFS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>stanici</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2384-001-p1s10W43-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10462,17 +10455,10 @@
 <w.rf>
 <LM>w#w-wsj2384-001-p1s33W8</LM>
 </w.rf>
-<form>190bodového</form>
+<form>190</form>
 <tag>
-<AM lemma="190bodového" src="auto">X@-------------</AM>
-<AM lemma="190bodového_,s_^(^DD**190bodový)" src="manual">AAIS2----1A----</AM>
-<AM lemma="190bodový_,s_^(^DD**190bodový)" src="manual">AAIS2----1A----</AM>
-<AM lemma="190bodový" src="manual">AAIS2----1A----</AM>
-</tag>
+<AM lemma="190" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>190</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2384-001-p1s33W8-Ta-sw1">
@@ -10480,19 +10466,15 @@
 <w.rf>
 <LM>w#w-wsj2384-001-p1s33W8</LM>
 </w.rf>
-<form>190bodového</form>
+<form>bodového</form>
 <tag>
-<AM lemma="190bodového" src="auto">X@-------------</AM>
-<AM lemma="190bodového_,s_^(^DD**190bodový)" src="manual">AAIS2----1A----</AM>
-<AM lemma="190bodový_,s_^(^DD**190bodový)" src="manual">AAIS2----1A----</AM>
-<AM lemma="190bodový" src="manual">AAIS2----1A----</AM>
-</tag>
+<AM lemma="bodový" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="bodový" src="auto">AAMS2----1A----</AM>
+<AM lemma="bodový" src="auto">AAMS4----1A----</AM>
+<AM lemma="bodový" src="auto">AANS2----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>bodového</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2384-001-p1s33W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

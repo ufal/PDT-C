@@ -3201,12 +3201,10 @@
 <LM>w#w-wsj1007-001-p1s9W11</LM>
 </w.rf>
 <form_change>num_normalization</form_change>
-<form>18353</form>
-<tag lemma="18353" src="auto" recommended="1">C=-------------</tag>
+<form>1.8353</form>
+<tag>
+<AM lemma="1.8353" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>1.8353</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1007-001-p1s9W12-Ta">
@@ -3334,14 +3332,12 @@
 <LM>w#w-wsj1007-001-p1s9W20</LM>
 </w.rf>
 <form_change>num_normalization</form_change>
-<form>18355</form>
-<tag lemma="18355" src="auto" recommended="1">C=-------------</tag>
+<form>1.8355</form>
+<tag>
+<AM lemma="1.8355" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>1.8355</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1007-001-p1s9W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3592,12 +3588,10 @@
 <LM>w#w-wsj1007-001-p1s10W4</LM>
 </w.rf>
 <form_change>num_normalization</form_change>
-<form>16145</form>
-<tag lemma="16145" src="auto" recommended="1">C=-------------</tag>
+<form>1.6145</form>
+<tag>
+<AM lemma="1.6145" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>1.6145</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1007-001-p1s10W5-Ta">
@@ -3732,14 +3726,12 @@
 <LM>w#w-wsj1007-001-p1s10W14</LM>
 </w.rf>
 <form_change>num_normalization</form_change>
-<form>16055</form>
-<tag lemma="16055" src="auto" recommended="1">C=-------------</tag>
+<form>1.6055</form>
+<tag>
+<AM lemma="1.6055" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>1.6055</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1007-001-p1s10W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7322,17 +7314,12 @@
 <w.rf>
 <LM>w#w-wsj1007-001-p1s18W31</LM>
 </w.rf>
-<form>akcií</form>
+<form>akciích</form>
 <tag>
-<AM lemma="akcie" src="auto">NNFP2-----A----</AM>
-<AM lemma="akcie" src="auto" recommended="1">NNFS7-----A----</AM>
-</tag>
+<AM lemma="akcie" src="auto" recommended="1">NNFP6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>akciích</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1007-001-p1s18W32-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -9370,23 +9370,21 @@
 <w.rf>
 <LM>w#w-wsj0274-001-p1s32W6</LM>
 </w.rf>
-<form>hypotečních</form>
+<form>hypotečním</form>
 <tag>
-<AM lemma="hypoteční" src="auto">AAFP2----1A----</AM>
-<AM lemma="hypoteční" src="auto">AAFP6----1A----</AM>
-<AM lemma="hypoteční" src="auto" recommended="1">AAIP2----1A----</AM>
-<AM lemma="hypoteční" src="auto">AAIP6----1A----</AM>
-<AM lemma="hypoteční" src="auto">AAMP2----1A----</AM>
-<AM lemma="hypoteční" src="auto">AAMP6----1A----</AM>
-<AM lemma="hypoteční" src="auto">AANP2----1A----</AM>
-<AM lemma="hypoteční" src="auto">AANP6----1A----</AM>
-</tag>
+<AM lemma="hypoteční" src="auto">AAFP3----1A----</AM>
+<AM lemma="hypoteční" src="auto" recommended="1">AAIP3----1A----</AM>
+<AM lemma="hypoteční" src="auto">AAIS6----1A----</AM>
+<AM lemma="hypoteční" src="auto">AAIS7----1A----</AM>
+<AM lemma="hypoteční" src="auto">AAMP3----1A----</AM>
+<AM lemma="hypoteční" src="auto">AAMS6----1A----</AM>
+<AM lemma="hypoteční" src="auto">AAMS7----1A----</AM>
+<AM lemma="hypoteční" src="auto">AANP3----1A----</AM>
+<AM lemma="hypoteční" src="auto">AANS6----1A----</AM>
+<AM lemma="hypoteční" src="auto">AANS7----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>hypotečním</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0274-001-p1s32W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

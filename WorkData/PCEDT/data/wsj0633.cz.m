@@ -15279,14 +15279,12 @@
 <w.rf>
 <LM>w#w-wsj0633-001-p1s62W3</LM>
 </w.rf>
-<form>mohu</form>
-<tag lemma="moci" src="auto" recommended="1">VB-S---1P-AAI-1</tag>
+<form>mohou</form>
+<tag>
+<AM lemma="moci" src="auto" recommended="1">VB-P---3P-AAI-1</AM></tag>
 <comment>
-<LM type="New Form">
-<text>mohou</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0633-001-p1s62W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

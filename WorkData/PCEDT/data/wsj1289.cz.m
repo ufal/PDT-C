@@ -1415,14 +1415,12 @@
 <w.rf>
 <LM>w#w-wsj1289-001-p1s3W21</LM>
 </w.rf>
-<form>Tesora</form>
-<tag lemma="Tesora" src="auto">X@-------------</tag>
+<form>Tesoro</form>
+<tag>
+<AM lemma="Tesoro" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Tesoro</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1289-001-p1s3W22-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

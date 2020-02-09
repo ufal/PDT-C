@@ -4003,19 +4003,27 @@
 <w.rf>
 <LM>w#w-wsj0983-001-p1s17W11</LM>
 </w.rf>
-<form>problémového</form>
+<form>problémové</form>
 <tag>
-<AM lemma="problémový" src="auto">AAIS2----1A----</AM>
-<AM lemma="problémový" src="auto">AAMS2----1A----</AM>
-<AM lemma="problémový" src="auto">AAMS4----1A----</AM>
-<AM lemma="problémový" src="auto" recommended="1">AANS2----1A----</AM>
-</tag>
+<AM lemma="problémový" src="auto">AAFP1----1A----</AM>
+<AM lemma="problémový" src="auto">AAFP4----1A----</AM>
+<AM lemma="problémový" src="auto">AAFP5----1A----</AM>
+<AM lemma="problémový" src="auto">AAFS2----1A----</AM>
+<AM lemma="problémový" src="auto">AAFS3----1A----</AM>
+<AM lemma="problémový" src="auto">AAFS6----1A----</AM>
+<AM lemma="problémový" src="auto">AAIP1----1A----</AM>
+<AM lemma="problémový" src="auto">AAIP4----1A----</AM>
+<AM lemma="problémový" src="auto">AAIP5----1A----</AM>
+<AM lemma="problémový" src="auto">AAMP4----1A----</AM>
+<AM lemma="problémový" src="auto">AANP1----1A---6</AM>
+<AM lemma="problémový" src="auto">AANP4----1A---6</AM>
+<AM lemma="problémový" src="auto">AANP5----1A---6</AM>
+<AM lemma="problémový" src="auto" recommended="1">AANS1----1A----</AM>
+<AM lemma="problémový" src="auto">AANS4----1A----</AM>
+<AM lemma="problémový" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>problémové</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0983-001-p1s17W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

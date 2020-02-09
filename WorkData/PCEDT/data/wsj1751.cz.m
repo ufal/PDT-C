@@ -58,14 +58,12 @@
 <w.rf>
 <LM>w#w-wsj1751-001-p1s0W5</LM>
 </w.rf>
-<form>pozdějí</form>
-<tag lemma="pozdějí" src="auto">X@-------------</tag>
+<form>později</form>
+<tag>
+<AM lemma="pozdě" src="auto" recommended="1">Dg-------2A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>později</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1751-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

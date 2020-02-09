@@ -5811,17 +5811,18 @@
 <w.rf>
 <LM>w#w-wsj1570-001-p1s19W1</LM>
 </w.rf>
-<form>Příležitostí</form>
+<form>Příležitosti</form>
 <tag>
-<AM lemma="příležitost" src="auto">NNFP2-----A----</AM>
-<AM lemma="příležitost" src="auto" recommended="1">NNFS7-----A----</AM>
-</tag>
+<AM lemma="příležitost" src="auto" recommended="1">NNFP1-----A----</AM>
+<AM lemma="příležitost" src="auto">NNFP4-----A----</AM>
+<AM lemma="příležitost" src="auto">NNFP5-----A----</AM>
+<AM lemma="příležitost" src="auto">NNFS2-----A----</AM>
+<AM lemma="příležitost" src="auto">NNFS3-----A----</AM>
+<AM lemma="příležitost" src="auto">NNFS5-----A----</AM>
+<AM lemma="příležitost" src="auto">NNFS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Příležitosti</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1570-001-p1s19W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -11751,14 +11752,21 @@
 <w.rf>
 <LM>w#w-wsj1570-001-p1s32W8</LM>
 </w.rf>
-<form>jenž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJYS1----------</tag>
+<form>jež</form>
+<tag>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJFP1----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJFS1----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJIP1----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJNP1----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJNS1----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJNS4----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJXP4----------</AM>
+<AM lemma="jež-99_:B_;S" src="auto">NNXXX-----A----</AM>
+<AM lemma="ježit" src="auto">Vi-S---2--A-I--</AM>
+<AM lemma="ježit" src="auto">Vi-S---3--A-I-4</AM></tag>
 <comment>
-<LM type="New Form">
-<text>jež</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1570-001-p1s32W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -17473,14 +17481,21 @@
 <w.rf>
 <LM>w#w-wsj1570-001-p1s47W11</LM>
 </w.rf>
-<form>jenž</form>
-<tag lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJYS1----------</tag>
+<form>jež</form>
+<tag>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJFP1----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJFS1----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJIP1----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJNP1----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJNS1----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJNS4----------</AM>
+<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJXP4----------</AM>
+<AM lemma="jež-99_:B_;S" src="auto">NNXXX-----A----</AM>
+<AM lemma="ježit" src="auto">Vi-S---2--A-I--</AM>
+<AM lemma="ježit" src="auto">Vi-S---3--A-I-4</AM></tag>
 <comment>
-<LM type="New Form">
-<text>jež</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1570-001-p1s47W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

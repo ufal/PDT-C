@@ -1780,14 +1780,38 @@
 <w.rf>
 <LM>w#w-wsj0457-001-p1s10W6</LM>
 </w.rf>
-<form>bankovni</form>
-<tag lemma="bankovni" src="auto">X@-------------</tag>
+<form>bankovní</form>
+<tag>
+<AM lemma="bankovní" src="auto">AAFP1----1A----</AM>
+<AM lemma="bankovní" src="auto" recommended="1">AAFP4----1A----</AM>
+<AM lemma="bankovní" src="auto">AAFP5----1A----</AM>
+<AM lemma="bankovní" src="auto">AAFS1----1A----</AM>
+<AM lemma="bankovní" src="auto">AAFS2----1A----</AM>
+<AM lemma="bankovní" src="auto">AAFS3----1A----</AM>
+<AM lemma="bankovní" src="auto">AAFS4----1A----</AM>
+<AM lemma="bankovní" src="auto">AAFS5----1A----</AM>
+<AM lemma="bankovní" src="auto">AAFS6----1A----</AM>
+<AM lemma="bankovní" src="auto">AAFS7----1A----</AM>
+<AM lemma="bankovní" src="auto">AAIP1----1A----</AM>
+<AM lemma="bankovní" src="auto">AAIP4----1A----</AM>
+<AM lemma="bankovní" src="auto">AAIP5----1A----</AM>
+<AM lemma="bankovní" src="auto">AAIS1----1A----</AM>
+<AM lemma="bankovní" src="auto">AAIS4----1A----</AM>
+<AM lemma="bankovní" src="auto">AAIS5----1A----</AM>
+<AM lemma="bankovní" src="auto">AAMP1----1A----</AM>
+<AM lemma="bankovní" src="auto">AAMP4----1A----</AM>
+<AM lemma="bankovní" src="auto">AAMP5----1A----</AM>
+<AM lemma="bankovní" src="auto">AAMS1----1A----</AM>
+<AM lemma="bankovní" src="auto">AAMS5----1A----</AM>
+<AM lemma="bankovní" src="auto">AANP1----1A----</AM>
+<AM lemma="bankovní" src="auto">AANP4----1A----</AM>
+<AM lemma="bankovní" src="auto">AANP5----1A----</AM>
+<AM lemma="bankovní" src="auto">AANS1----1A----</AM>
+<AM lemma="bankovní" src="auto">AANS4----1A----</AM>
+<AM lemma="bankovní" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>bankovní</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0457-001-p1s10W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7414,14 +7438,12 @@
 <LM>w#w-wsj0457-001-p1s26W11</LM>
 </w.rf>
 <form_change>num_normalization</form_change>
-<form>7875</form>
-<tag lemma="7875" src="auto" recommended="1">C=-------------</tag>
+<form>7.875</form>
+<tag>
+<AM lemma="7.875" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>7.875</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0457-001-p1s26W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

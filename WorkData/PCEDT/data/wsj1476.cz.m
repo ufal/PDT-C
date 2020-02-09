@@ -751,14 +751,12 @@
 <w.rf>
 <LM>w#w-wsj1476-001-p1s2W5</LM>
 </w.rf>
-<form>Brainstree</form>
-<tag lemma="Brainstree" src="auto">X@-------------</tag>
+<form>Braintree</form>
+<tag>
+<AM lemma="Braintree" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Braintree</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1476-001-p1s2W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -2599,15 +2599,10 @@
 <w.rf>
 <LM>w#w-wsj2376-001-p1s12W19</LM>
 </w.rf>
-<form>52týdenního</form>
+<form>52</form>
 <tag>
-<AM lemma="52týdenního" src="auto">X@-------------</AM>
-<AM lemma="52týdenní" src="manual">AANS2----1A----</AM>
-</tag>
+<AM lemma="52" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>52</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2376-001-p1s12W19-Ta-sw1">
@@ -2615,17 +2610,15 @@
 <w.rf>
 <LM>w#w-wsj2376-001-p1s12W19</LM>
 </w.rf>
-<form>52týdenního</form>
+<form>týdenního</form>
 <tag>
-<AM lemma="52týdenního" src="auto">X@-------------</AM>
-<AM lemma="52týdenní" src="manual">AANS2----1A----</AM>
-</tag>
+<AM lemma="týdenní" src="auto">AAIS2----1A----</AM>
+<AM lemma="týdenní" src="auto">AAMS2----1A----</AM>
+<AM lemma="týdenní" src="auto">AAMS4----1A----</AM>
+<AM lemma="týdenní" src="auto" recommended="1">AANS2----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>týdenního</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2376-001-p1s12W20-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4727,12 +4720,10 @@
 <w.rf>
 <LM>w#w-wsj2376-001-p1s24W11</LM>
 </w.rf>
-<form>,</form>
-<tag lemma="," src="auto" recommended="1">Z:-------------</tag>
+<form>12.5</form>
+<tag>
+<AM lemma="12.5" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>12.5</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2376-001-p1s24W12-Ta">
@@ -4740,17 +4731,13 @@
 <w.rf>
 <LM>w#w-wsj2376-001-p1s24W12</LM>
 </w.rf>
-<form>5násobek</form>
+<form>násobek</form>
 <tag>
-<AM lemma="5násobek" src="auto">X@-------------</AM>
-<AM lemma="5násobek" src="manual">NNIS4-----A----</AM>
-</tag>
+<AM lemma="násobek" src="auto">NNIS1-----A----</AM>
+<AM lemma="násobek" src="auto" recommended="1">NNIS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>násobek</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2376-001-p1s24W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10925,17 +10912,36 @@
 <w.rf>
 <LM>w#w-wsj2376-001-p1s59W7</LM>
 </w.rf>
-<form>finančního</form>
+<form>finanční</form>
 <tag>
-<AM lemma="finanční" src="auto" recommended="1">AAIS2----1A----</AM>
-<AM lemma="finanční" src="auto">AAMS2----1A----</AM>
-<AM lemma="finanční" src="auto">AAMS4----1A----</AM>
-<AM lemma="finanční" src="auto">AANS2----1A----</AM>
-</tag>
+<AM lemma="finanční" src="auto">AAFP1----1A----</AM>
+<AM lemma="finanční" src="auto">AAFP4----1A----</AM>
+<AM lemma="finanční" src="auto">AAFP5----1A----</AM>
+<AM lemma="finanční" src="auto">AAFS1----1A----</AM>
+<AM lemma="finanční" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="finanční" src="auto">AAFS3----1A----</AM>
+<AM lemma="finanční" src="auto">AAFS4----1A----</AM>
+<AM lemma="finanční" src="auto">AAFS5----1A----</AM>
+<AM lemma="finanční" src="auto">AAFS6----1A----</AM>
+<AM lemma="finanční" src="auto">AAFS7----1A----</AM>
+<AM lemma="finanční" src="auto">AAIP1----1A----</AM>
+<AM lemma="finanční" src="auto">AAIP4----1A----</AM>
+<AM lemma="finanční" src="auto">AAIP5----1A----</AM>
+<AM lemma="finanční" src="auto">AAIS1----1A----</AM>
+<AM lemma="finanční" src="auto">AAIS4----1A----</AM>
+<AM lemma="finanční" src="auto">AAIS5----1A----</AM>
+<AM lemma="finanční" src="auto">AAMP1----1A----</AM>
+<AM lemma="finanční" src="auto">AAMP4----1A----</AM>
+<AM lemma="finanční" src="auto">AAMP5----1A----</AM>
+<AM lemma="finanční" src="auto">AAMS1----1A----</AM>
+<AM lemma="finanční" src="auto">AAMS5----1A----</AM>
+<AM lemma="finanční" src="auto">AANP1----1A----</AM>
+<AM lemma="finanční" src="auto">AANP4----1A----</AM>
+<AM lemma="finanční" src="auto">AANP5----1A----</AM>
+<AM lemma="finanční" src="auto">AANS1----1A----</AM>
+<AM lemma="finanční" src="auto">AANS4----1A----</AM>
+<AM lemma="finanční" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>finanční</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2376-001-p1s59W8-Ta">
@@ -11069,14 +11075,12 @@
 <w.rf>
 <LM>w#w-wsj2376-001-p1s59W17</LM>
 </w.rf>
-<form>Galbraigth</form>
-<tag lemma="Galbraigth" src="auto">X@-------------</tag>
+<form>Galbraith</form>
+<tag>
+<AM lemma="Galbraith_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Galbraith</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2376-001-p1s59W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

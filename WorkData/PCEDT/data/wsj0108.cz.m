@@ -7608,14 +7608,12 @@
 <w.rf>
 <LM>w#w-wsj0108-001-p1s37W16</LM>
 </w.rf>
-<form>ificiálně</form>
-<tag lemma="ificiálně" src="auto">X@-------------</tag>
+<form>oficiálně</form>
+<tag>
+<AM lemma="oficiálně_^(*1í)" src="auto" recommended="1">Dg-------1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>oficiálně</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0108-001-p1s37W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10088,15 +10086,19 @@
 <w.rf>
 <LM>w#w-wsj0108-001-p1s44W18</LM>
 </w.rf>
-<form>O'Brien</form>
+<form>O</form>
 <tag>
-<AM lemma="O'Brien" src="auto">X@-------------</AM>
-<AM lemma="O'Brien_;S" src="manual" selected="1">NNMS1-----A----</AM>
-</tag>
+<AM lemma="O-2_:B_^(kyslík)" src="auto">NNIXX-----A----</AM>
+<AM lemma="O-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="O-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="O-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="o-1" src="auto">RR--4----------</AM>
+<AM lemma="o-1" src="auto">RR--6----------</AM>
+<AM lemma="o-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="o-77_,t" src="auto">F%-------------</AM>
+<AM lemma="o-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="obchodní_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>O</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0108-001-p1s44W18-Ta-sw1">
@@ -10104,15 +10106,10 @@
 <w.rf>
 <LM>w#w-wsj0108-001-p1s44W18</LM>
 </w.rf>
-<form>O'Brien</form>
+<form>'</form>
 <tag>
-<AM lemma="O'Brien" src="auto">X@-------------</AM>
-<AM lemma="O'Brien_;S" src="manual" selected="1">NNMS1-----A----</AM>
-</tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0108-001-p1s44W18-Ta-sw2">
@@ -10120,17 +10117,12 @@
 <w.rf>
 <LM>w#w-wsj0108-001-p1s44W18</LM>
 </w.rf>
-<form>O'Brien</form>
+<form>Brien</form>
 <tag>
-<AM lemma="O'Brien" src="auto">X@-------------</AM>
-<AM lemma="O'Brien_;S" src="manual" selected="1">NNMS1-----A----</AM>
-</tag>
+<AM lemma="Brien_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Brien</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0108-001-p1s44W19-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -11529,15 +11521,19 @@
 <w.rf>
 <LM>w#w-wsj0108-001-p1s51W3</LM>
 </w.rf>
-<form>O'Brien</form>
+<form>O</form>
 <tag>
-<AM lemma="O'Brien" src="auto">X@-------------</AM>
-<AM lemma="O'Brien_;S" src="manual" selected="1">NNMS1-----A----</AM>
-</tag>
+<AM lemma="O-2_:B_^(kyslík)" src="auto">NNIXX-----A----</AM>
+<AM lemma="O-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="O-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="O-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="o-1" src="auto">RR--4----------</AM>
+<AM lemma="o-1" src="auto">RR--6----------</AM>
+<AM lemma="o-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="o-77_,t" src="auto">F%-------------</AM>
+<AM lemma="o-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="obchodní_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>O</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0108-001-p1s51W3-Ta-sw1">
@@ -11545,15 +11541,10 @@
 <w.rf>
 <LM>w#w-wsj0108-001-p1s51W3</LM>
 </w.rf>
-<form>O'Brien</form>
+<form>'</form>
 <tag>
-<AM lemma="O'Brien" src="auto">X@-------------</AM>
-<AM lemma="O'Brien_;S" src="manual" selected="1">NNMS1-----A----</AM>
-</tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0108-001-p1s51W3-Ta-sw2">
@@ -11561,17 +11552,12 @@
 <w.rf>
 <LM>w#w-wsj0108-001-p1s51W3</LM>
 </w.rf>
-<form>O'Brien</form>
+<form>Brien</form>
 <tag>
-<AM lemma="O'Brien" src="auto">X@-------------</AM>
-<AM lemma="O'Brien_;S" src="manual" selected="1">NNMS1-----A----</AM>
-</tag>
+<AM lemma="Brien_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Brien</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0108-001-p1s51W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

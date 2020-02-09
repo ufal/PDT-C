@@ -710,14 +710,12 @@
 <w.rf>
 <LM>w#w-wsj1794-001-p1s1W33</LM>
 </w.rf>
-<form>Bapilly</form>
-<tag lemma="Bapilly" src="auto">X@-------------</tag>
+<form>Batilly</form>
+<tag>
+<AM lemma="Batilly" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Batilly</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1794-001-p1s1W34-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

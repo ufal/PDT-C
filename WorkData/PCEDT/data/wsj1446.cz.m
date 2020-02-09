@@ -7894,14 +7894,12 @@
 <w.rf>
 <LM>w#w-wsj1446-001-p1s28W31</LM>
 </w.rf>
-<form>Garia</form>
-<tag lemma="Garia" src="auto">X@-------------</tag>
+<form>Garcia</form>
+<tag>
+<AM lemma="Garcia_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Garcia</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1446-001-p1s28W32-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7965,18 +7963,10 @@
 <w.rf>
 <LM>w#w-wsj1446-001-p1s29W1</LM>
 </w.rf>
-<form>49letá</form>
+<form>49</form>
 <tag>
-<AM lemma="49letý" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="49letý" src="auto">AAFS5----1A----</AM>
-<AM lemma="49letý" src="auto">AANP1----1A----</AM>
-<AM lemma="49letý" src="auto">AANP4----1A----</AM>
-<AM lemma="49letý" src="auto">AANP5----1A----</AM>
-</tag>
+<AM lemma="49" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>49</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1446-001-p1s29W1-Ta-sw1">
@@ -7984,20 +7974,16 @@
 <w.rf>
 <LM>w#w-wsj1446-001-p1s29W1</LM>
 </w.rf>
-<form>49letá</form>
+<form>letá</form>
 <tag>
-<AM lemma="49letý" src="auto" recommended="1">AAFS1----1A----</AM>
-<AM lemma="49letý" src="auto">AAFS5----1A----</AM>
-<AM lemma="49letý" src="auto">AANP1----1A----</AM>
-<AM lemma="49letý" src="auto">AANP4----1A----</AM>
-<AM lemma="49letý" src="auto">AANP5----1A----</AM>
-</tag>
+<AM lemma="letý" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="letý" src="auto">AAFS5----1A----</AM>
+<AM lemma="letý" src="auto">AANP1----1A----</AM>
+<AM lemma="letý" src="auto">AANP4----1A----</AM>
+<AM lemma="letý" src="auto">AANP5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>letá</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1446-001-p1s29W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

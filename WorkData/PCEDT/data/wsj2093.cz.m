@@ -4119,25 +4119,21 @@
 <w.rf>
 <LM>w#w-wsj2093-001-p1s16W8</LM>
 </w.rf>
-<form>nenovějším</form>
+<form>nejnovějším</form>
 <tag>
-<AM lemma="nový" src="auto">AAFP3----2N----</AM>
-<AM lemma="nový" src="auto">AAIP3----2N----</AM>
-<AM lemma="nový" src="auto">AAIS6----2N----</AM>
-<AM lemma="nový" src="auto">AAIS7----2N----</AM>
-<AM lemma="nový" src="auto">AAMP3----2N----</AM>
-<AM lemma="nový" src="auto">AAMS6----2N----</AM>
-<AM lemma="nový" src="auto" recommended="1">AAMS7----2N----</AM>
-<AM lemma="nový" src="auto">AANP3----2N----</AM>
-<AM lemma="nový" src="auto">AANS6----2N----</AM>
-<AM lemma="nový" src="auto">AANS7----2N----</AM>
-</tag>
+<AM lemma="nový" src="auto">AAFP3----3A----</AM>
+<AM lemma="nový" src="auto">AAIP3----3A----</AM>
+<AM lemma="nový" src="auto">AAIS6----3A----</AM>
+<AM lemma="nový" src="auto" recommended="1">AAIS7----3A----</AM>
+<AM lemma="nový" src="auto">AAMP3----3A----</AM>
+<AM lemma="nový" src="auto">AAMS6----3A----</AM>
+<AM lemma="nový" src="auto">AAMS7----3A----</AM>
+<AM lemma="nový" src="auto">AANP3----3A----</AM>
+<AM lemma="nový" src="auto">AANS6----3A----</AM>
+<AM lemma="nový" src="auto">AANS7----3A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>nejnovějším</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2093-001-p1s16W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6302,14 +6298,14 @@
 <w.rf>
 <LM>w#w-wsj2093-001-p1s23W20</LM>
 </w.rf>
-<form>mangementu</form>
-<tag lemma="mangementu" src="auto">X@-------------</tag>
+<form>managementu</form>
+<tag>
+<AM lemma="management_,s_^(^DD**manažment)" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="management_,s_^(^DD**manažment)" src="auto">NNIS3-----A----</AM>
+<AM lemma="management_,s_^(^DD**manažment)" src="auto">NNIS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>managementu</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2093-001-p1s23W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -9894,14 +9894,15 @@
 <w.rf>
 <LM>w#w-wsj0576-001-p1s33W3</LM>
 </w.rf>
-<form>Krjučkovo</form>
-<tag lemma="Krjučkovo" src="auto">X@-------------</tag>
+<form>Krjučkovovo</form>
+<tag>
+<AM lemma="Krjučkovův_;S_^(*2)" src="auto" recommended="1">AUNS1M---------</AM>
+<AM lemma="Krjučkovův_;S_^(*2)" src="auto">AUNS4M---------</AM>
+<AM lemma="Krjučkovův_;S_^(*2)" src="auto">AUNS5M---------</AM>
+<AM lemma="Krjučkovův_;S_^(*2)" src="auto">AUXXXM--------7</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Krjučkovovo</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0576-001-p1s33W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -12333,15 +12334,10 @@
 <w.rf>
 <LM>w#w-wsj0576-001-p1s39W6</LM>
 </w.rf>
-<form>37hodinový</form>
+<form>37</form>
 <tag>
-<AM lemma="37hodinový" src="auto">X@-------------</AM>
-<AM lemma="37hodinový" src="manual">AAIS4----1A----</AM>
-</tag>
+<AM lemma="37" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>37</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0576-001-p1s39W6-Ta-sw1">
@@ -12349,17 +12345,34 @@
 <w.rf>
 <LM>w#w-wsj0576-001-p1s39W6</LM>
 </w.rf>
-<form>37hodinový</form>
+<form>hodinový</form>
 <tag>
-<AM lemma="37hodinový" src="auto">X@-------------</AM>
-<AM lemma="37hodinový" src="manual">AAIS4----1A----</AM>
-</tag>
+<AM lemma="hodinový" src="auto">AAFP1----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAFP4----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAFP5----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAFS2----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAFS3----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAFS6----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAIP1----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAIP4----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAIP5----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAIS1----1A----</AM>
+<AM lemma="hodinový" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="hodinový" src="auto">AAIS5----1A----</AM>
+<AM lemma="hodinový" src="auto">AAMP1----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAMP4----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAMP5----1A---6</AM>
+<AM lemma="hodinový" src="auto">AAMS1----1A----</AM>
+<AM lemma="hodinový" src="auto">AAMS5----1A----</AM>
+<AM lemma="hodinový" src="auto">AANP1----1A---6</AM>
+<AM lemma="hodinový" src="auto">AANP4----1A---6</AM>
+<AM lemma="hodinový" src="auto">AANP5----1A---6</AM>
+<AM lemma="hodinový" src="auto">AANS1----1A---6</AM>
+<AM lemma="hodinový" src="auto">AANS4----1A---6</AM>
+<AM lemma="hodinový" src="auto">AANS5----1A---6</AM></tag>
 <comment>
-<LM type="New Form">
-<text>hodinový</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0576-001-p1s39W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

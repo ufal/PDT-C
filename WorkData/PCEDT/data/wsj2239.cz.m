@@ -15967,16 +15967,10 @@
 <w.rf>
 <LM>w#w-wsj2239-001-p1s60W1</LM>
 </w.rf>
-<form>13týdenní</form>
+<form>13</form>
 <tag>
-<AM lemma="13týdenní" src="auto">X@-------------</AM>
-<AM lemma="13týdenní" src="manual">AAFS1----1A----</AM>
-<AM lemma="13týdenní" src="manual">AAFP1----1A----</AM>
-</tag>
+<AM lemma="13" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>13</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2239-001-p1s60W1-Ta-sw1">
@@ -15984,16 +15978,36 @@
 <w.rf>
 <LM>w#w-wsj2239-001-p1s60W1</LM>
 </w.rf>
-<form>13týdenní</form>
+<form>týdenní</form>
 <tag>
-<AM lemma="13týdenní" src="auto">X@-------------</AM>
-<AM lemma="13týdenní" src="manual">AAFS1----1A----</AM>
-<AM lemma="13týdenní" src="manual">AAFP1----1A----</AM>
-</tag>
+<AM lemma="týdenní" src="auto" recommended="1">AAFP1----1A----</AM>
+<AM lemma="týdenní" src="auto">AAFP4----1A----</AM>
+<AM lemma="týdenní" src="auto">AAFP5----1A----</AM>
+<AM lemma="týdenní" src="auto">AAFS1----1A----</AM>
+<AM lemma="týdenní" src="auto">AAFS2----1A----</AM>
+<AM lemma="týdenní" src="auto">AAFS3----1A----</AM>
+<AM lemma="týdenní" src="auto">AAFS4----1A----</AM>
+<AM lemma="týdenní" src="auto">AAFS5----1A----</AM>
+<AM lemma="týdenní" src="auto">AAFS6----1A----</AM>
+<AM lemma="týdenní" src="auto">AAFS7----1A----</AM>
+<AM lemma="týdenní" src="auto">AAIP1----1A----</AM>
+<AM lemma="týdenní" src="auto">AAIP4----1A----</AM>
+<AM lemma="týdenní" src="auto">AAIP5----1A----</AM>
+<AM lemma="týdenní" src="auto">AAIS1----1A----</AM>
+<AM lemma="týdenní" src="auto">AAIS4----1A----</AM>
+<AM lemma="týdenní" src="auto">AAIS5----1A----</AM>
+<AM lemma="týdenní" src="auto">AAMP1----1A----</AM>
+<AM lemma="týdenní" src="auto">AAMP4----1A----</AM>
+<AM lemma="týdenní" src="auto">AAMP5----1A----</AM>
+<AM lemma="týdenní" src="auto">AAMS1----1A----</AM>
+<AM lemma="týdenní" src="auto">AAMS5----1A----</AM>
+<AM lemma="týdenní" src="auto">AANP1----1A----</AM>
+<AM lemma="týdenní" src="auto">AANP4----1A----</AM>
+<AM lemma="týdenní" src="auto">AANP5----1A----</AM>
+<AM lemma="týdenní" src="auto">AANS1----1A----</AM>
+<AM lemma="týdenní" src="auto">AANS4----1A----</AM>
+<AM lemma="týdenní" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>týdenní</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2239-001-p1s60W2-Ta">
@@ -16095,15 +16109,10 @@
 <w.rf>
 <LM>w#w-wsj2239-001-p1s60W10</LM>
 </w.rf>
-<form>26týdenní</form>
+<form>26</form>
 <tag>
-<AM lemma="26týdenní" src="auto">X@-------------</AM>
-<AM lemma="26týdenní" src="manual">AAFP1----1A----</AM>
-</tag>
+<AM lemma="26" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>26</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2239-001-p1s60W10-Ta-sw1">
@@ -16111,17 +16120,38 @@
 <w.rf>
 <LM>w#w-wsj2239-001-p1s60W10</LM>
 </w.rf>
-<form>26týdenní</form>
+<form>týdenní</form>
 <tag>
-<AM lemma="26týdenní" src="auto">X@-------------</AM>
-<AM lemma="26týdenní" src="manual">AAFP1----1A----</AM>
-</tag>
+<AM lemma="týdenní" src="auto" recommended="1">AAFP1----1A----</AM>
+<AM lemma="týdenní" src="auto">AAFP4----1A----</AM>
+<AM lemma="týdenní" src="auto">AAFP5----1A----</AM>
+<AM lemma="týdenní" src="auto">AAFS1----1A----</AM>
+<AM lemma="týdenní" src="auto">AAFS2----1A----</AM>
+<AM lemma="týdenní" src="auto">AAFS3----1A----</AM>
+<AM lemma="týdenní" src="auto">AAFS4----1A----</AM>
+<AM lemma="týdenní" src="auto">AAFS5----1A----</AM>
+<AM lemma="týdenní" src="auto">AAFS6----1A----</AM>
+<AM lemma="týdenní" src="auto">AAFS7----1A----</AM>
+<AM lemma="týdenní" src="auto">AAIP1----1A----</AM>
+<AM lemma="týdenní" src="auto">AAIP4----1A----</AM>
+<AM lemma="týdenní" src="auto">AAIP5----1A----</AM>
+<AM lemma="týdenní" src="auto">AAIS1----1A----</AM>
+<AM lemma="týdenní" src="auto">AAIS4----1A----</AM>
+<AM lemma="týdenní" src="auto">AAIS5----1A----</AM>
+<AM lemma="týdenní" src="auto">AAMP1----1A----</AM>
+<AM lemma="týdenní" src="auto">AAMP4----1A----</AM>
+<AM lemma="týdenní" src="auto">AAMP5----1A----</AM>
+<AM lemma="týdenní" src="auto">AAMS1----1A----</AM>
+<AM lemma="týdenní" src="auto">AAMS5----1A----</AM>
+<AM lemma="týdenní" src="auto">AANP1----1A----</AM>
+<AM lemma="týdenní" src="auto">AANP4----1A----</AM>
+<AM lemma="týdenní" src="auto">AANP5----1A----</AM>
+<AM lemma="týdenní" src="auto">AANS1----1A----</AM>
+<AM lemma="týdenní" src="auto">AANS4----1A----</AM>
+<AM lemma="týdenní" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>týdenní</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2239-001-p1s60W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

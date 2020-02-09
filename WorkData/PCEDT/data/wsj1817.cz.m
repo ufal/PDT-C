@@ -2200,15 +2200,10 @@
 <w.rf>
 <LM>w#w-wsj1817-001-p1s6W7</LM>
 </w.rf>
-<form>318krát</form>
+<form>318</form>
 <tag>
-<AM lemma="318krát" src="auto">X@-------------</AM>
-<AM lemma="318krát`318" src="manual">Cv-------------</AM>
-</tag>
+<AM lemma="318" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>318</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1817-001-p1s6W7-Ta-sw1">
@@ -2216,17 +2211,13 @@
 <w.rf>
 <LM>w#w-wsj1817-001-p1s6W7</LM>
 </w.rf>
-<form>318krát</form>
+<form>krát</form>
 <tag>
-<AM lemma="318krát" src="auto">X@-------------</AM>
-<AM lemma="318krát`318" src="manual">Cv-------------</AM>
-</tag>
+<AM lemma="krát-1_^(mat._operace;_2_krát_3)" src="auto" recommended="1">J*-------------</AM>
+<AM lemma="krát-2" src="auto">Db-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>krát</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1817-001-p1s6W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

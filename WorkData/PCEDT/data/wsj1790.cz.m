@@ -5007,17 +5007,13 @@
 <w.rf>
 <LM>w#w-wsj1790-001-p1s15W33</LM>
 </w.rf>
-<form>činní</form>
+<form>činí</form>
 <tag>
-<AM lemma="činný" src="auto" recommended="1">AAMP1----1A----</AM>
-<AM lemma="činný" src="auto">AAMP5----1A----</AM>
-</tag>
+<AM lemma="činit" src="auto">VB-P---3P-AAI--</AM>
+<AM lemma="činit" src="auto" recommended="1">VB-S---3P-AAI--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>činí</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1790-001-p1s15W34-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

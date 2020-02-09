@@ -2090,15 +2090,10 @@
 <w.rf>
 <LM>w#w-wsj1659-001-p1s3W63</LM>
 </w.rf>
-<form>13th</form>
+<form>13</form>
 <tag>
-<AM lemma="13th" src="auto">X@-------------</AM>
-<AM lemma="13th-77" src="manual" selected="1">F%-------------</AM>
-</tag>
+<AM lemma="13" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>13</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1659-001-p1s3W63-Ta-sw1">
@@ -2106,17 +2101,13 @@
 <w.rf>
 <LM>w#w-wsj1659-001-p1s3W63</LM>
 </w.rf>
-<form>13th</form>
+<form>th</form>
 <tag>
-<AM lemma="13th" src="auto">X@-------------</AM>
-<AM lemma="13th-77" src="manual" selected="1">F%-------------</AM>
-</tag>
+<AM lemma="th-77_,t" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="th-88_:B" src="auto">NNXXX-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>th</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1659-001-p1s3W64-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

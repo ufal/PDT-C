@@ -5068,14 +5068,12 @@
 <w.rf>
 <LM>w#w-wsj0807-001-p1s18W11</LM>
 </w.rf>
-<form>Embarg</form>
-<tag lemma="embargo" src="auto" recommended="1">NNNP2-----A----</tag>
+<form>Emhart</form>
+<tag>
+<AM lemma="Emhart" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Emhart</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0807-001-p1s18W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

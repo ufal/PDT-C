@@ -241,20 +241,14 @@
 <w.rf>
 <LM>w#w-wsj0736-001-p1s0W19</LM>
 </w.rf>
-<form>Karolině</form>
+<form>Karolíně</form>
 <tag>
-<AM lemma="Karolina_;Y" src="auto">NNFS3-----A----</AM>
-<AM lemma="Karolina_;Y" src="auto">NNFS6-----A----</AM>
-<AM lemma="karolina" src="auto">NNFS3-----A----</AM>
-<AM lemma="karolina" src="auto" recommended="1">NNFS6-----A----</AM>
-<AM lemma="Karolina-2_;G" src="manual">NNFS6-----A----</AM>
-</tag>
+<AM lemma="Karolín_;G" src="auto">NNIS6-----A----</AM>
+<AM lemma="Karolína_;Y" src="auto">NNFS3-----A----</AM>
+<AM lemma="Karolína_;Y" src="auto" recommended="1">NNFS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Karolíně</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0736-001-p1s0W20-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1015,19 +1009,14 @@
 <w.rf>
 <LM>w#w-wsj0736-001-p1s2W27</LM>
 </w.rf>
-<form>Karolině</form>
+<form>Karolíně</form>
 <tag>
-<AM lemma="Karolina_;Y" src="auto">NNFS3-----A----</AM>
-<AM lemma="Karolina_;Y" src="auto">NNFS6-----A----</AM>
-<AM lemma="karolina" src="auto">NNFS3-----A----</AM>
-<AM lemma="karolina" src="auto" recommended="1">NNFS6-----A----</AM>
-</tag>
+<AM lemma="Karolín_;G" src="auto">NNIS6-----A----</AM>
+<AM lemma="Karolína_;Y" src="auto">NNFS3-----A----</AM>
+<AM lemma="Karolína_;Y" src="auto" recommended="1">NNFS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Karolíně</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0736-001-p1s2W28-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

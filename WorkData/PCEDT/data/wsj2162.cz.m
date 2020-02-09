@@ -2051,25 +2051,15 @@
 <w.rf>
 <LM>w#w-wsj2162-001-p1s6W19</LM>
 </w.rf>
-<form>zahraničním</form>
+<form>zahraničního</form>
 <tag>
-<AM lemma="zahraniční" src="auto">AAFP3----1A----</AM>
-<AM lemma="zahraniční" src="auto">AAIP3----1A----</AM>
-<AM lemma="zahraniční" src="auto" recommended="1">AAIS6----1A----</AM>
-<AM lemma="zahraniční" src="auto">AAIS7----1A----</AM>
-<AM lemma="zahraniční" src="auto">AAMP3----1A----</AM>
-<AM lemma="zahraniční" src="auto">AAMS6----1A----</AM>
-<AM lemma="zahraniční" src="auto">AAMS7----1A----</AM>
-<AM lemma="zahraniční" src="auto">AANP3----1A----</AM>
-<AM lemma="zahraniční" src="auto">AANS6----1A----</AM>
-<AM lemma="zahraniční" src="auto">AANS7----1A----</AM>
-</tag>
+<AM lemma="zahraniční" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="zahraniční" src="auto">AAMS2----1A----</AM>
+<AM lemma="zahraniční" src="auto">AAMS4----1A----</AM>
+<AM lemma="zahraniční" src="auto">AANS2----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>zahraničního</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2162-001-p1s6W20-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2753,15 +2743,10 @@
 <w.rf>
 <LM>w#w-wsj2162-001-p1s9W14</LM>
 </w.rf>
-<form>32patrovým</form>
+<form>32</form>
 <tag>
-<AM lemma="32patrovým" src="auto">X@-------------</AM>
-<AM lemma="32patrový" src="manual">AAIS7----1A----</AM>
-</tag>
+<AM lemma="32" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>32</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2162-001-p1s9W14-Ta-sw1">
@@ -2769,17 +2754,21 @@
 <w.rf>
 <LM>w#w-wsj2162-001-p1s9W14</LM>
 </w.rf>
-<form>32patrovým</form>
+<form>patrovým</form>
 <tag>
-<AM lemma="32patrovým" src="auto">X@-------------</AM>
-<AM lemma="32patrový" src="manual">AAIS7----1A----</AM>
-</tag>
+<AM lemma="patrový" src="auto">AAFP3----1A----</AM>
+<AM lemma="patrový" src="auto">AAIP3----1A----</AM>
+<AM lemma="patrový" src="auto">AAIS6----1A---7</AM>
+<AM lemma="patrový" src="auto" recommended="1">AAIS7----1A----</AM>
+<AM lemma="patrový" src="auto">AAMP3----1A----</AM>
+<AM lemma="patrový" src="auto">AAMS6----1A---7</AM>
+<AM lemma="patrový" src="auto">AAMS7----1A----</AM>
+<AM lemma="patrový" src="auto">AANP3----1A----</AM>
+<AM lemma="patrový" src="auto">AANS6----1A---7</AM>
+<AM lemma="patrový" src="auto">AANS7----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>patrovým</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2162-001-p1s9W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

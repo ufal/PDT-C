@@ -786,17 +786,14 @@
 <w.rf>
 <LM>w#w-wsj1502-001-p1s1W29</LM>
 </w.rf>
-<form>pro</form>
+<form>po</form>
 <tag>
-<AM lemma="pro-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="pro-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
-</tag>
+<AM lemma="po-1" src="auto">RR--4----------</AM>
+<AM lemma="po-1" src="auto" recommended="1">RR--6----------</AM>
+<AM lemma="pondělí" src="auto">NNNXX-----A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>po</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1502-001-p1s1W30-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -3486,17 +3486,14 @@
 <w.rf>
 <LM>w#w-wsj0617-001-p1s10W6</LM>
 </w.rf>
-<form>šancí</form>
+<form>šanci</form>
 <tag>
-<AM lemma="šance" src="auto">NNFP2-----A----</AM>
-<AM lemma="šance" src="auto" recommended="1">NNFS7-----A----</AM>
-</tag>
+<AM lemma="šance" src="auto">NNFS3-----A----</AM>
+<AM lemma="šance" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="šance" src="auto">NNFS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>šanci</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0617-001-p1s10W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

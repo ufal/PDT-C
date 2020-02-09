@@ -2361,14 +2361,14 @@
 <w.rf>
 <LM>w#w-wsj1273-001-p1s8W8</LM>
 </w.rf>
-<form>Merril</form>
-<tag lemma="Merril" src="auto">X@-------------</tag>
+<form>Merrill</form>
+<tag>
+<AM lemma="Merrill-77_,t" src="auto">F%-------------</AM>
+<AM lemma="Merrill_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Merrill_;G" src="auto">NNIS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Merrill</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1273-001-p1s8W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3987,18 +3987,22 @@
 <w.rf>
 <LM>w#w-wsj1273-001-p1s12W8</LM>
 </w.rf>
-<form>která</form>
+<form>které</form>
 <tag>
-<AM lemma="který" src="auto">P4FS1----------</AM>
-<AM lemma="který" src="auto" recommended="1">P4NP1----------</AM>
-<AM lemma="který" src="auto">P4NP4----------</AM>
-</tag>
+<AM lemma="který" src="auto">P4FP1----------</AM>
+<AM lemma="který" src="auto">P4FP4----------</AM>
+<AM lemma="který" src="auto">P4FS2----------</AM>
+<AM lemma="který" src="auto">P4FS3----------</AM>
+<AM lemma="který" src="auto">P4FS6----------</AM>
+<AM lemma="který" src="auto">P4IP1----------</AM>
+<AM lemma="který" src="auto">P4NP1---------6</AM>
+<AM lemma="který" src="auto">P4NP4---------6</AM>
+<AM lemma="který" src="auto" recommended="1">P4NS1----------</AM>
+<AM lemma="který" src="auto">P4NS4----------</AM>
+<AM lemma="který" src="auto">P4YP4----------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>které</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1273-001-p1s12W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

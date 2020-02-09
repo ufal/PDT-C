@@ -4669,14 +4669,14 @@
 <w.rf>
 <LM>w#w-wsj1208-001-p1s21W30</LM>
 </w.rf>
-<form>ze</form>
-<tag lemma="z-1" src="auto" recommended="1">RV--2----------</tag>
+<form>z</form>
+<tag>
+<AM lemma="z-1" src="auto" recommended="1">RR--2----------</AM>
+<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="z-88_:B" src="auto">NNXXX-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>z</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1208-001-p1s21W31-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5610,14 +5610,12 @@
 <w.rf>
 <LM>w#w-wsj1208-001-p1s27W7</LM>
 </w.rf>
-<form>naznačil</form>
-<tag lemma="naznačit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<form>naznačilo</form>
+<tag>
+<AM lemma="naznačit" src="auto" recommended="1">VpNS---XR-AAP--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>naznačilo</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1208-001-p1s27W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7956,14 +7954,15 @@
 <w.rf>
 <LM>w#w-wsj1208-001-p1s35W1</LM>
 </w.rf>
-<form>20ti</form>
-<tag lemma="20ti" src="auto">X@-------------</tag>
+<form>Dvaceti</form>
+<tag>
+<AM lemma="dvacet`20" src="auto">Cn-P2----------</AM>
+<AM lemma="dvacet`20" src="auto" recommended="1">Cn-P3----------</AM>
+<AM lemma="dvacet`20" src="auto">Cn-P6----------</AM>
+<AM lemma="dvacet`20" src="auto">Cn-P7----------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Dvaceti</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1208-001-p1s35W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8773,12 +8772,10 @@
 <w.rf>
 <LM>w#w-wsj1208-001-p1s38W22</LM>
 </w.rf>
-<form>zaznamenal</form>
-<tag lemma="zaznamenat" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<form>zaznamenala</form>
+<tag>
+<AM lemma="zaznamenat" src="auto" recommended="1">VpQW---XR-AAP--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>zaznamenala</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1208-001-p1s38W23-Ta">
@@ -9081,12 +9078,10 @@
 <w.rf>
 <LM>w#w-wsj1208-001-p1s38W43</LM>
 </w.rf>
-<form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<form>bylo</form>
+<tag>
+<AM lemma="být" src="auto" recommended="1">VpNS---XR-AAI--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>bylo</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1208-001-p1s38W44-Ta">
@@ -9094,14 +9089,12 @@
 <w.rf>
 <LM>w#w-wsj1208-001-p1s38W44</LM>
 </w.rf>
-<form>nasměrovány</form>
-<tag lemma="nasměrovat" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<form>nasměrováno</form>
+<tag>
+<AM lemma="nasměrovat" src="auto" recommended="1">VsNS---XX-APP--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>nasměrováno</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1208-001-p1s38W45-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -19032,14 +19025,12 @@
 <w.rf>
 <LM>w#w-wsj1208-001-p1s74W75</LM>
 </w.rf>
-<form>sklouzl</form>
-<tag lemma="sklouznout" src="auto" recommended="1">VpYS---XR-AAP-1</tag>
+<form>sklouzla</form>
+<tag>
+<AM lemma="sklouznout" src="auto" recommended="1">VpQW---XR-AAP-1</AM></tag>
 <comment>
-<LM type="New Form">
-<text>sklouzla</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1208-001-p1s74W76-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -22659,22 +22650,13 @@
 <w.rf>
 <LM>w#w-wsj1208-001-p1s85W44</LM>
 </w.rf>
-<form>společnosti</form>
+<form>společnost</form>
 <tag>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFP1-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS2-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS3-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
-</tag>
+<AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>společnost</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1208-001-p1s85W45-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -5462,31 +5462,12 @@
 <w.rf>
 <LM>w#w-wsj0609-001-p1s18W23</LM>
 </w.rf>
-<form>pevné</form>
+<form>pevně</form>
 <tag>
-<AM lemma="pevný" src="auto">AAFP1----1A----</AM>
-<AM lemma="pevný" src="auto">AAFP4----1A----</AM>
-<AM lemma="pevný" src="auto">AAFP5----1A----</AM>
-<AM lemma="pevný" src="auto">AAFS2----1A----</AM>
-<AM lemma="pevný" src="auto">AAFS3----1A----</AM>
-<AM lemma="pevný" src="auto">AAFS6----1A----</AM>
-<AM lemma="pevný" src="auto">AAIP1----1A----</AM>
-<AM lemma="pevný" src="auto">AAIP4----1A----</AM>
-<AM lemma="pevný" src="auto">AAIP5----1A----</AM>
-<AM lemma="pevný" src="auto">AAMP4----1A----</AM>
-<AM lemma="pevný" src="auto">AANP1----1A---6</AM>
-<AM lemma="pevný" src="auto">AANP4----1A---6</AM>
-<AM lemma="pevný" src="auto">AANP5----1A---6</AM>
-<AM lemma="pevný" src="auto" recommended="1">AANS1----1A----</AM>
-<AM lemma="pevný" src="auto">AANS4----1A----</AM>
-<AM lemma="pevný" src="auto">AANS5----1A----</AM>
-</tag>
+<AM lemma="pevně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>pevně</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0609-001-p1s18W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

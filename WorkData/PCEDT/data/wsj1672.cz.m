@@ -2117,14 +2117,12 @@
 <w.rf>
 <LM>w#w-wsj1672-001-p1s8W4</LM>
 </w.rf>
-<form>věsmes</form>
-<tag lemma="věsmes" src="auto">X@-------------</tag>
+<form>vesměs</form>
+<tag>
+<AM lemma="vesměs" src="auto" recommended="1">Db-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>vesměs</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1672-001-p1s8W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

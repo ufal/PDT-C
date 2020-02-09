@@ -605,25 +605,19 @@
 <w.rf>
 <LM>w#w-wsj0597-001-p1s0W44</LM>
 </w.rf>
-<form>patřícím</form>
+<form>patřících</form>
 <tag>
-<AM lemma="patřící_^(*3it)" src="auto">AGFP3-----A----</AM>
-<AM lemma="patřící_^(*3it)" src="auto">AGIP3-----A----</AM>
-<AM lemma="patřící_^(*3it)" src="auto">AGIS6-----A----</AM>
-<AM lemma="patřící_^(*3it)" src="auto">AGIS7-----A----</AM>
-<AM lemma="patřící_^(*3it)" src="auto">AGMP3-----A----</AM>
-<AM lemma="patřící_^(*3it)" src="auto">AGMS6-----A----</AM>
-<AM lemma="patřící_^(*3it)" src="auto" recommended="1">AGMS7-----A----</AM>
-<AM lemma="patřící_^(*3it)" src="auto">AGNP3-----A----</AM>
-<AM lemma="patřící_^(*3it)" src="auto">AGNS6-----A----</AM>
-<AM lemma="patřící_^(*3it)" src="auto">AGNS7-----A----</AM>
-</tag>
+<AM lemma="patřící_^(*3it)" src="auto">AGFP2-----A----</AM>
+<AM lemma="patřící_^(*3it)" src="auto">AGFP6-----A----</AM>
+<AM lemma="patřící_^(*3it)" src="auto">AGIP2-----A----</AM>
+<AM lemma="patřící_^(*3it)" src="auto">AGIP6-----A----</AM>
+<AM lemma="patřící_^(*3it)" src="auto" recommended="1">AGMP2-----A----</AM>
+<AM lemma="patřící_^(*3it)" src="auto">AGMP6-----A----</AM>
+<AM lemma="patřící_^(*3it)" src="auto">AGNP2-----A----</AM>
+<AM lemma="patřící_^(*3it)" src="auto">AGNP6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>patřících</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0597-001-p1s0W45-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

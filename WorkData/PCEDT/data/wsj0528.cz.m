@@ -1413,18 +1413,16 @@
 <w.rf>
 <LM>w#w-wsj0528-001-p1s7W3</LM>
 </w.rf>
-<form>and</form>
+<form>a</form>
 <tag>
-<AM lemma="and-77_,t" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="and-99_:B_;S" src="auto">NNXXX-----A----</AM>
-<AM lemma="and-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="a-77_,t" src="auto">F%-------------</AM>
+<AM lemma="a-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="akciový" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>a</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0528-001-p1s7W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

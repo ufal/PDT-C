@@ -21915,14 +21915,12 @@
 <w.rf>
 <LM>w#w-wsj0118-001-p1s65W7</LM>
 </w.rf>
-<form>neokáže</form>
-<tag lemma="neokáže" src="auto">X@-------------</tag>
+<form>nedokáže</form>
+<tag>
+<AM lemma="dokázat" src="auto" recommended="1">VB-S---3P-NAP--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>nedokáže</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0118-001-p1s65W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -47242,25 +47240,13 @@
 <w.rf>
 <LM>w#w-wsj0118-001-p1s155W28</LM>
 </w.rf>
-<form>vítání</form>
+<form>vítaní</form>
 <tag>
-<AM lemma="vítání_^(*3at)" src="auto" recommended="1">NNNP1-----A----</AM>
-<AM lemma="vítání_^(*3at)" src="auto">NNNP2-----A----</AM>
-<AM lemma="vítání_^(*3at)" src="auto">NNNP4-----A----</AM>
-<AM lemma="vítání_^(*3at)" src="auto">NNNP5-----A----</AM>
-<AM lemma="vítání_^(*3at)" src="auto">NNNS1-----A----</AM>
-<AM lemma="vítání_^(*3at)" src="auto">NNNS2-----A----</AM>
-<AM lemma="vítání_^(*3at)" src="auto">NNNS3-----A----</AM>
-<AM lemma="vítání_^(*3at)" src="auto">NNNS4-----A----</AM>
-<AM lemma="vítání_^(*3at)" src="auto">NNNS5-----A----</AM>
-<AM lemma="vítání_^(*3at)" src="auto">NNNS6-----A----</AM>
-</tag>
+<AM lemma="vítaný_^(*2t)" src="auto" recommended="1">AAMP1----1A----</AM>
+<AM lemma="vítaný_^(*2t)" src="auto">AAMP5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>vítaní</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0118-001-p1s155W29-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -50534,14 +50520,17 @@
 <w.rf>
 <LM>w#w-wsj0118-001-p1s166W7</LM>
 </w.rf>
-<form>uvažovali</form>
-<tag lemma="uvažovat" src="auto" recommended="1">VpMP---XR-AAI--</tag>
+<form>o</form>
+<tag>
+<AM lemma="o-1" src="auto">RR--4----------</AM>
+<AM lemma="o-1" src="auto" recommended="1">RR--6----------</AM>
+<AM lemma="o-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="o-77_,t" src="auto">F%-------------</AM>
+<AM lemma="o-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="obchodní_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>o</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0118-001-p1s166W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

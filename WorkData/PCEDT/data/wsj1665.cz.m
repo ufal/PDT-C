@@ -1596,14 +1596,13 @@
 <w.rf>
 <LM>w#w-wsj1665-001-p1s4W26</LM>
 </w.rf>
-<form>přizpůsobit</form>
-<tag lemma="přizpůsobit" src="auto" recommended="1">Vf--------A-P--</tag>
+<form>přizpůsobí</form>
+<tag>
+<AM lemma="přizpůsobit" src="auto">VB-P---3P-AAP--</AM>
+<AM lemma="přizpůsobit" src="auto" recommended="1">VB-S---3P-AAP--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>přizpůsobí</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1665-001-p1s4W27-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

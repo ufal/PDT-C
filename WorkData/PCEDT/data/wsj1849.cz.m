@@ -256,14 +256,12 @@
 <w.rf>
 <LM>w#w-wsj1849-001-p1s0W21</LM>
 </w.rf>
-<form>výkladat</form>
-<tag lemma="výkladat" src="auto">X@-------------</tag>
+<form>vykládat</form>
+<tag>
+<AM lemma="vykládat" src="auto" recommended="1">Vf--------A-I--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>vykládat</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1849-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

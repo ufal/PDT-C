@@ -3717,25 +3717,15 @@
 <w.rf>
 <LM>w#w-wsj0550-001-p1s12W6</LM>
 </w.rf>
-<form>jež</form>
+<form>již</form>
 <tag>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJFP1----------</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJFS1----------</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJIP1----------</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJNP1----------</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJNS1----------</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJNS4----------</AM>
-<AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto">PJXP4----------</AM>
-<AM lemma="jež-99_:B_;S" src="auto">NNXXX-----A----</AM>
-<AM lemma="ježit" src="auto">Vi-S---2--A-I--</AM>
-<AM lemma="ježit" src="auto">Vi-S---3--A-I-4</AM>
-</tag>
+<AM lemma="jenž_^(kterou_[ve_vedl.větě])" src="auto">PJFS4----------</AM>
+<AM lemma="jenž_^(kteří_[ve_vedl.větě])" src="auto" recommended="1">PJMP1----------</AM>
+<AM lemma="již-1" src="auto">Db-------------</AM>
+<AM lemma="již-2" src="auto">TT-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>již</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0550-001-p1s12W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9403,17 +9393,12 @@
 <w.rf>
 <LM>w#w-wsj0550-001-p1s31W47</LM>
 </w.rf>
-<form>Roswellovi</form>
+<form>Roswellovy</form>
 <tag>
-<AM lemma="Roswellovi" src="auto">X@-------------</AM>
-<AM lemma="Roswellův_;S_^(*2)" src="manual">AUFS2M---------</AM>
-</tag>
+<AM lemma="Roswellovy" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Roswellovy</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0550-001-p1s31W48-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

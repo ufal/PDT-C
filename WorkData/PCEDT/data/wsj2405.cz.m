@@ -15,12 +15,10 @@
 <w.rf>
 <LM>w#w-wsj2405-001-p1s0W1</LM>
 </w.rf>
-<form>66ti</form>
-<tag lemma="66ti" src="auto">X@-------------</tag>
+<form>66</form>
+<tag>
+<AM lemma="66" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>66</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2405-001-p1s0W2-Ta">
@@ -71,15 +69,18 @@
 <w.rf>
 <LM>w#w-wsj2405-001-p1s0W4</LM>
 </w.rf>
-<form>L.</form>
+<form>L</form>
 <tag>
-<AM lemma="L." src="auto">X@-------------</AM>
-<AM lemma="L.-88_:B" src="manual">NNXXX-----A----</AM>
-</tag>
+<AM lemma="L-3`50" src="auto">C}-------------</AM>
+<AM lemma="L-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="L-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="l-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="l-77_,t" src="auto">F%-------------</AM>
+<AM lemma="l-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="letopočet_:B" src="auto">NNIS2-----A---8</AM>
+<AM lemma="letopočet_:B" src="auto">NNIS7-----A---8</AM>
+<AM lemma="litr" src="auto">NNIXX-----A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>L</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2405-001-p1s0W4-Ta-sw1">
@@ -87,17 +88,12 @@
 <w.rf>
 <LM>w#w-wsj2405-001-p1s0W4</LM>
 </w.rf>
-<form>L.</form>
+<form>.</form>
 <tag>
-<AM lemma="L." src="auto">X@-------------</AM>
-<AM lemma="L.-88_:B" src="manual">NNXXX-----A----</AM>
-</tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>.</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2405-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

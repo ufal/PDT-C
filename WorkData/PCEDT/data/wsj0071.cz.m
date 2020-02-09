@@ -7118,15 +7118,10 @@
 <w.rf>
 <LM>w#w-wsj0071-001-p1s24W20</LM>
 </w.rf>
-<form>90dolarový</form>
+<form>90</form>
 <tag>
-<AM lemma="90dolarový" src="auto">X@-------------</AM>
-<AM lemma="90dolarový" src="manual" selected="1">AAIS1----1A----</AM>
-</tag>
+<AM lemma="90" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>90</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0071-001-p1s24W20-Ta-sw1">
@@ -7134,17 +7129,34 @@
 <w.rf>
 <LM>w#w-wsj0071-001-p1s24W20</LM>
 </w.rf>
-<form>90dolarový</form>
+<form>dolarový</form>
 <tag>
-<AM lemma="90dolarový" src="auto">X@-------------</AM>
-<AM lemma="90dolarový" src="manual" selected="1">AAIS1----1A----</AM>
-</tag>
+<AM lemma="dolarový" src="auto">AAFP1----1A---6</AM>
+<AM lemma="dolarový" src="auto">AAFP4----1A---6</AM>
+<AM lemma="dolarový" src="auto">AAFP5----1A---6</AM>
+<AM lemma="dolarový" src="auto">AAFS2----1A---6</AM>
+<AM lemma="dolarový" src="auto">AAFS3----1A---6</AM>
+<AM lemma="dolarový" src="auto">AAFS6----1A---6</AM>
+<AM lemma="dolarový" src="auto">AAIP1----1A---6</AM>
+<AM lemma="dolarový" src="auto">AAIP4----1A---6</AM>
+<AM lemma="dolarový" src="auto">AAIP5----1A---6</AM>
+<AM lemma="dolarový" src="auto" recommended="1">AAIS1----1A----</AM>
+<AM lemma="dolarový" src="auto">AAIS4----1A----</AM>
+<AM lemma="dolarový" src="auto">AAIS5----1A----</AM>
+<AM lemma="dolarový" src="auto">AAMP1----1A---6</AM>
+<AM lemma="dolarový" src="auto">AAMP4----1A---6</AM>
+<AM lemma="dolarový" src="auto">AAMP5----1A---6</AM>
+<AM lemma="dolarový" src="auto">AAMS1----1A----</AM>
+<AM lemma="dolarový" src="auto">AAMS5----1A----</AM>
+<AM lemma="dolarový" src="auto">AANP1----1A---6</AM>
+<AM lemma="dolarový" src="auto">AANP4----1A---6</AM>
+<AM lemma="dolarový" src="auto">AANP5----1A---6</AM>
+<AM lemma="dolarový" src="auto">AANS1----1A---6</AM>
+<AM lemma="dolarový" src="auto">AANS4----1A---6</AM>
+<AM lemma="dolarový" src="auto">AANS5----1A---6</AM></tag>
 <comment>
-<LM type="New Form">
-<text>dolarový</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0071-001-p1s24W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

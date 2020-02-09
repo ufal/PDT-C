@@ -1075,12 +1075,14 @@
 <w.rf>
 <LM>w#w-wsj2274-001-p1s3W50</LM>
 </w.rf>
-<form>vrámci</form>
-<tag lemma="vrámci" src="auto">X@-------------</tag>
+<form>v</form>
+<tag>
+<AM lemma="v-1" src="auto">RR--4----------</AM>
+<AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
+<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="versus_:B" src="auto">RR--1---------9</AM></tag>
 <comment>
-<LM type="New Form">
-<text>v</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2274-001-p1s3W50-Ta-sw1">
@@ -1088,14 +1090,15 @@
 <w.rf>
 <LM>w#w-wsj2274-001-p1s3W50</LM>
 </w.rf>
-<form>vrámci</form>
-<tag lemma="vrámci" src="auto">X@-------------</tag>
+<form>rámci</form>
+<tag>
+<AM lemma="rámec" src="auto">NNIP7-----A----</AM>
+<AM lemma="rámec" src="auto">NNIS3-----A----</AM>
+<AM lemma="rámec" src="auto">NNIS5-----A----</AM>
+<AM lemma="rámec" src="auto" recommended="1">NNIS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>rámci</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2274-001-p1s3W51-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1296,12 +1299,12 @@
 <w.rf>
 <LM>w#w-wsj2274-001-p1s4W13</LM>
 </w.rf>
-<form>Connecticatu</form>
-<tag lemma="Connecticatu" src="auto">X@-------------</tag>
+<form>Connecticutu</form>
+<tag>
+<AM lemma="Connecticut_;G" src="auto">NNIS2-----A----</AM>
+<AM lemma="Connecticut_;G" src="auto">NNIS3-----A----</AM>
+<AM lemma="Connecticut_;G" src="auto" recommended="1">NNIS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Connecticutu</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2274-001-p1s4W14-Ta">
@@ -1418,14 +1421,14 @@
 <w.rf>
 <LM>w#w-wsj2274-001-p1s4W24</LM>
 </w.rf>
-<form>Connecticatu</form>
-<tag lemma="Connecticatu" src="auto">X@-------------</tag>
+<form>Connecticutu</form>
+<tag>
+<AM lemma="Connecticut_;G" src="auto">NNIS2-----A----</AM>
+<AM lemma="Connecticut_;G" src="auto">NNIS3-----A----</AM>
+<AM lemma="Connecticut_;G" src="auto" recommended="1">NNIS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Connecticutu</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2274-001-p1s4W25-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

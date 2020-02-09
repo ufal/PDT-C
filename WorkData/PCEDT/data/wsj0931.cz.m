@@ -2333,14 +2333,13 @@
 <w.rf>
 <LM>w#w-wsj0931-001-p1s6W25</LM>
 </w.rf>
-<form>přestavitelé</form>
-<tag lemma="přestavitelé" src="auto">X@-------------</tag>
+<form>představitelé</form>
+<tag>
+<AM lemma="představitel" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="představitel" src="auto">NNMP5-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>představitelé</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0931-001-p1s6W26-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

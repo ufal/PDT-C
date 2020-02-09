@@ -7676,42 +7676,21 @@
 <w.rf>
 <LM>w#w-wsj0271-001-p1s32W11</LM>
 </w.rf>
-<form>státní</form>
+<form>státním</form>
 <tag>
-<AM lemma="státní" src="auto">AAFP1----1A----</AM>
-<AM lemma="státní" src="auto">AAFP4----1A----</AM>
-<AM lemma="státní" src="auto">AAFP5----1A----</AM>
-<AM lemma="státní" src="auto">AAFS1----1A----</AM>
-<AM lemma="státní" src="auto">AAFS2----1A----</AM>
-<AM lemma="státní" src="auto" recommended="1">AAFS3----1A----</AM>
-<AM lemma="státní" src="auto">AAFS4----1A----</AM>
-<AM lemma="státní" src="auto">AAFS5----1A----</AM>
-<AM lemma="státní" src="auto">AAFS6----1A----</AM>
-<AM lemma="státní" src="auto">AAFS7----1A----</AM>
-<AM lemma="státní" src="auto">AAIP1----1A----</AM>
-<AM lemma="státní" src="auto">AAIP4----1A----</AM>
-<AM lemma="státní" src="auto">AAIP5----1A----</AM>
-<AM lemma="státní" src="auto">AAIS1----1A----</AM>
-<AM lemma="státní" src="auto">AAIS4----1A----</AM>
-<AM lemma="státní" src="auto">AAIS5----1A----</AM>
-<AM lemma="státní" src="auto">AAMP1----1A----</AM>
-<AM lemma="státní" src="auto">AAMP4----1A----</AM>
-<AM lemma="státní" src="auto">AAMP5----1A----</AM>
-<AM lemma="státní" src="auto">AAMS1----1A----</AM>
-<AM lemma="státní" src="auto">AAMS5----1A----</AM>
-<AM lemma="státní" src="auto">AANP1----1A----</AM>
-<AM lemma="státní" src="auto">AANP4----1A----</AM>
-<AM lemma="státní" src="auto">AANP5----1A----</AM>
-<AM lemma="státní" src="auto">AANS1----1A----</AM>
-<AM lemma="státní" src="auto">AANS4----1A----</AM>
-<AM lemma="státní" src="auto">AANS5----1A----</AM>
-</tag>
+<AM lemma="státní" src="auto">AAFP3----1A----</AM>
+<AM lemma="státní" src="auto" recommended="1">AAIP3----1A----</AM>
+<AM lemma="státní" src="auto">AAIS6----1A----</AM>
+<AM lemma="státní" src="auto">AAIS7----1A----</AM>
+<AM lemma="státní" src="auto">AAMP3----1A----</AM>
+<AM lemma="státní" src="auto">AAMS6----1A----</AM>
+<AM lemma="státní" src="auto">AAMS7----1A----</AM>
+<AM lemma="státní" src="auto">AANP3----1A----</AM>
+<AM lemma="státní" src="auto">AANS6----1A----</AM>
+<AM lemma="státní" src="auto">AANS7----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>státním</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0271-001-p1s32W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

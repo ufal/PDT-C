@@ -1403,27 +1403,13 @@
 <w.rf>
 <LM>w#w-wsj2364-001-p1s2W29</LM>
 </w.rf>
-<form>čtvrtletí</form>
+<form>čtvrtletím</form>
 <tag>
-<AM lemma="čtvrtletý" src="auto">AAMP1----1A----</AM>
-<AM lemma="čtvrtletý" src="auto">AAMP5----1A----</AM>
-<AM lemma="čtvrtletí" src="auto">NNNP1-----A----</AM>
-<AM lemma="čtvrtletí" src="auto">NNNP2-----A----</AM>
-<AM lemma="čtvrtletí" src="auto">NNNP4-----A----</AM>
-<AM lemma="čtvrtletí" src="auto">NNNP5-----A----</AM>
-<AM lemma="čtvrtletí" src="auto">NNNS1-----A----</AM>
-<AM lemma="čtvrtletí" src="auto">NNNS2-----A----</AM>
-<AM lemma="čtvrtletí" src="auto">NNNS3-----A----</AM>
-<AM lemma="čtvrtletí" src="auto" recommended="1">NNNS4-----A----</AM>
-<AM lemma="čtvrtletí" src="auto">NNNS5-----A----</AM>
-<AM lemma="čtvrtletí" src="auto">NNNS6-----A----</AM>
-</tag>
+<AM lemma="čtvrtletí" src="auto">NNNP3-----A----</AM>
+<AM lemma="čtvrtletí" src="auto" recommended="1">NNNS7-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>čtvrtletím</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2364-001-p1s2W30-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

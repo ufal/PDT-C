@@ -1229,17 +1229,18 @@
 <w.rf>
 <LM>w#w-wsj2086-001-p1s4W3</LM>
 </w.rf>
-<form>společnost</form>
+<form>společnosti</form>
 <tag>
-<AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS4-----A----</AM>
-</tag>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFP1-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>společnosti</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2086-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10788,14 +10789,13 @@
 <w.rf>
 <LM>w#w-wsj2086-001-p1s36W16</LM>
 </w.rf>
-<form>sv0ho</form>
-<tag lemma="sv0ho" src="auto">X@-------------</tag>
+<form>svého</form>
+<tag>
+<AM lemma="svůj-1_^(přivlast.)" src="auto">P8MS4----------</AM>
+<AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS2----------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>svého</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2086-001-p1s36W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

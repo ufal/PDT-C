@@ -234,12 +234,12 @@
 <w.rf>
 <LM>w#w-wsj0163-001-p1s0W20</LM>
 </w.rf>
-<form>r.</form>
-<tag lemma="r." src="auto">X@-------------</tag>
+<form>r</form>
+<tag>
+<AM lemma="r-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="r-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="rok_:B" src="auto" recommended="1">NNIXX-----A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>r</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0163-001-p1s0W20-Ta-sw1">
@@ -247,14 +247,12 @@
 <w.rf>
 <LM>w#w-wsj0163-001-p1s0W20</LM>
 </w.rf>
-<form>r.</form>
-<tag lemma="r." src="auto">X@-------------</tag>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>.</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0163-001-p1s0W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

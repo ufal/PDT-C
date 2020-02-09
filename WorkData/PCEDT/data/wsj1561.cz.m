@@ -2204,25 +2204,13 @@
 <w.rf>
 <LM>w#w-wsj1561-001-p1s8W5</LM>
 </w.rf>
-<form>přestěhování</form>
+<form>přestěhovaní</form>
 <tag>
-<AM lemma="přestěhování_^(*3at)" src="auto">NNNP1-----A----</AM>
-<AM lemma="přestěhování_^(*3at)" src="auto">NNNP2-----A----</AM>
-<AM lemma="přestěhování_^(*3at)" src="auto">NNNP4-----A----</AM>
-<AM lemma="přestěhování_^(*3at)" src="auto">NNNP5-----A----</AM>
-<AM lemma="přestěhování_^(*3at)" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="přestěhování_^(*3at)" src="auto">NNNS2-----A----</AM>
-<AM lemma="přestěhování_^(*3at)" src="auto">NNNS3-----A----</AM>
-<AM lemma="přestěhování_^(*3at)" src="auto">NNNS4-----A----</AM>
-<AM lemma="přestěhování_^(*3at)" src="auto">NNNS5-----A----</AM>
-<AM lemma="přestěhování_^(*3at)" src="auto">NNNS6-----A----</AM>
-</tag>
+<AM lemma="přestěhovaný_^(*2t)" src="auto" recommended="1">AAMP1----1A----</AM>
+<AM lemma="přestěhovaný_^(*2t)" src="auto">AAMP5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>přestěhovaní</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1561-001-p1s8W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4028,31 +4016,16 @@
 <w.rf>
 <LM>w#w-wsj1561-001-p1s12W35</LM>
 </w.rf>
-<form>pouhé</form>
+<form>pouhá</form>
 <tag>
-<AM lemma="pouhý" src="auto">AAFP1----1A----</AM>
-<AM lemma="pouhý" src="auto">AAFP4----1A----</AM>
-<AM lemma="pouhý" src="auto">AAFP5----1A----</AM>
-<AM lemma="pouhý" src="auto">AAFS2----1A----</AM>
-<AM lemma="pouhý" src="auto">AAFS3----1A----</AM>
-<AM lemma="pouhý" src="auto">AAFS6----1A----</AM>
-<AM lemma="pouhý" src="auto">AAIP1----1A----</AM>
-<AM lemma="pouhý" src="auto">AAIP4----1A----</AM>
-<AM lemma="pouhý" src="auto">AAIP5----1A----</AM>
-<AM lemma="pouhý" src="auto" recommended="1">AAMP4----1A----</AM>
-<AM lemma="pouhý" src="auto">AANP1----1A---6</AM>
-<AM lemma="pouhý" src="auto">AANP4----1A---6</AM>
-<AM lemma="pouhý" src="auto">AANP5----1A---6</AM>
-<AM lemma="pouhý" src="auto">AANS1----1A----</AM>
-<AM lemma="pouhý" src="auto">AANS4----1A----</AM>
-<AM lemma="pouhý" src="auto">AANS5----1A----</AM>
-</tag>
+<AM lemma="pouhý" src="auto">AAFS1----1A----</AM>
+<AM lemma="pouhý" src="auto">AAFS5----1A----</AM>
+<AM lemma="pouhý" src="auto">AANP1----1A----</AM>
+<AM lemma="pouhý" src="auto" recommended="1">AANP4----1A----</AM>
+<AM lemma="pouhý" src="auto">AANP5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>pouhá</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1561-001-p1s12W36-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -11299,14 +11299,18 @@
 <w.rf>
 <LM>w#w-wsj0295-001-p1s44W2</LM>
 </w.rf>
-<form>soplečnosti</form>
-<tag lemma="soplečnosti" src="auto">X@-------------</tag>
+<form>společnosti</form>
+<tag>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFP1-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>společnosti</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0295-001-p1s44W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

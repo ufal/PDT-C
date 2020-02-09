@@ -177,19 +177,14 @@
 <w.rf>
 <LM>w#w-wsj2048-001-p1s0W11</LM>
 </w.rf>
-<form>Karolině</form>
+<form>Karolíně</form>
 <tag>
-<AM lemma="Karolina_;Y" src="auto">NNFS3-----A----</AM>
-<AM lemma="Karolina_;Y" src="auto">NNFS6-----A----</AM>
-<AM lemma="karolina" src="auto">NNFS3-----A----</AM>
-<AM lemma="karolina" src="auto" recommended="1">NNFS6-----A----</AM>
-</tag>
+<AM lemma="Karolín_;G" src="auto">NNIS6-----A----</AM>
+<AM lemma="Karolína_;Y" src="auto">NNFS3-----A----</AM>
+<AM lemma="Karolína_;Y" src="auto" recommended="1">NNFS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Karolíně</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2048-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2899,18 +2894,12 @@
 <w.rf>
 <LM>w#w-wsj2048-001-p1s12W11</LM>
 </w.rf>
-<form>se</form>
+<form>ze</form>
 <tag>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
-<AM lemma="s-1" src="auto">RV--2----------</AM>
-<AM lemma="s-1" src="auto">RV--7----------</AM>
-</tag>
+<AM lemma="z-1" src="auto" recommended="1">RV--2----------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>ze</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2048-001-p1s12W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6796,19 +6785,18 @@
 <w.rf>
 <LM>w#w-wsj2048-001-p1s26W8</LM>
 </w.rf>
-<form>Karolinu</form>
+<form>Karolínu</form>
 <tag>
-<AM lemma="Karolina_;Y" src="auto">NNFS4-----A----</AM>
-<AM lemma="Karolinum_;G_;K" src="auto">NNNS3-----A----</AM>
-<AM lemma="Karolinum_;G_;K" src="auto">NNNS6-----A----</AM>
-<AM lemma="karolina" src="auto" recommended="1">NNFS4-----A----</AM>
-</tag>
+<AM lemma="Karolín_;G" src="auto">NNIS3-----A----</AM>
+<AM lemma="Karolín_;G" src="auto">NNIS6-----A---1</AM>
+<AM lemma="Karolín_;Y_,t" src="auto">NNMS3-----A---1</AM>
+<AM lemma="Karolín_;Y_,t" src="auto">NNMS6-----A---1</AM>
+<AM lemma="Karolína_;Y" src="auto" recommended="1">NNFS4-----A----</AM>
+<AM lemma="Karolínum_;G_;K_,s_^(^DD**Karolinum)" src="auto">NNNS3-----A----</AM>
+<AM lemma="Karolínum_;G_;K_,s_^(^DD**Karolinum)" src="auto">NNNS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Karolínu</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2048-001-p1s26W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

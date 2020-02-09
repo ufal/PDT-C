@@ -1008,14 +1008,12 @@
 <w.rf>
 <LM>w#w-wsj2159-001-p1s2W39</LM>
 </w.rf>
-<form>služebám</form>
-<tag lemma="služebám" src="auto">X@-------------</tag>
+<form>službám</form>
+<tag>
+<AM lemma="služba" src="auto" recommended="1">NNFP3-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>službám</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2159-001-p1s2W40-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

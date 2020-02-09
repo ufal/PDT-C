@@ -946,17 +946,10 @@
 <w.rf>
 <LM>w#w-wsj1161-001-p1s2W18</LM>
 </w.rf>
-<form>10letými</form>
+<form>10</form>
 <tag>
-<AM lemma="10letý" src="auto">AAFP7----1A----</AM>
-<AM lemma="10letý" src="auto" recommended="1">AAIP7----1A----</AM>
-<AM lemma="10letý" src="auto">AAMP7----1A----</AM>
-<AM lemma="10letý" src="auto">AANP7----1A----</AM>
-</tag>
+<AM lemma="10" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>10</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1161-001-p1s2W18-Ta-sw1">
@@ -964,19 +957,15 @@
 <w.rf>
 <LM>w#w-wsj1161-001-p1s2W18</LM>
 </w.rf>
-<form>10letými</form>
+<form>letými</form>
 <tag>
-<AM lemma="10letý" src="auto">AAFP7----1A----</AM>
-<AM lemma="10letý" src="auto" recommended="1">AAIP7----1A----</AM>
-<AM lemma="10letý" src="auto">AAMP7----1A----</AM>
-<AM lemma="10letý" src="auto">AANP7----1A----</AM>
-</tag>
+<AM lemma="letý" src="auto">AAFP7----1A----</AM>
+<AM lemma="letý" src="auto" recommended="1">AAIP7----1A----</AM>
+<AM lemma="letý" src="auto">AAMP7----1A----</AM>
+<AM lemma="letý" src="auto">AANP7----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>letými</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1161-001-p1s2W19-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2652,14 +2641,12 @@
 <LM>w#w-wsj1161-001-p1s7W35</LM>
 </w.rf>
 <form_change>num_normalization</form_change>
-<form>9275</form>
-<tag lemma="9275" src="auto" recommended="1">C=-------------</tag>
+<form>9.275</form>
+<tag>
+<AM lemma="9.275" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>9.275</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1161-001-p1s7W36-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2836,17 +2823,10 @@
 <w.rf>
 <LM>w#w-wsj1161-001-p1s8W14</LM>
 </w.rf>
-<form>10letými</form>
+<form>10</form>
 <tag>
-<AM lemma="10letý" src="auto">AAFP7----1A----</AM>
-<AM lemma="10letý" src="auto" recommended="1">AAIP7----1A----</AM>
-<AM lemma="10letý" src="auto">AAMP7----1A----</AM>
-<AM lemma="10letý" src="auto">AANP7----1A----</AM>
-</tag>
+<AM lemma="10" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>10</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1161-001-p1s8W14-Ta-sw1">
@@ -2854,19 +2834,15 @@
 <w.rf>
 <LM>w#w-wsj1161-001-p1s8W14</LM>
 </w.rf>
-<form>10letými</form>
+<form>letými</form>
 <tag>
-<AM lemma="10letý" src="auto">AAFP7----1A----</AM>
-<AM lemma="10letý" src="auto" recommended="1">AAIP7----1A----</AM>
-<AM lemma="10letý" src="auto">AAMP7----1A----</AM>
-<AM lemma="10letý" src="auto">AANP7----1A----</AM>
-</tag>
+<AM lemma="letý" src="auto">AAFP7----1A----</AM>
+<AM lemma="letý" src="auto" recommended="1">AAIP7----1A----</AM>
+<AM lemma="letý" src="auto">AAMP7----1A----</AM>
+<AM lemma="letý" src="auto">AANP7----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>letými</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1161-001-p1s8W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5016,17 +4992,10 @@
 <w.rf>
 <LM>w#w-wsj1161-001-p1s14W25</LM>
 </w.rf>
-<form>10letými</form>
+<form>10</form>
 <tag>
-<AM lemma="10letý" src="auto">AAFP7----1A----</AM>
-<AM lemma="10letý" src="auto" recommended="1">AAIP7----1A----</AM>
-<AM lemma="10letý" src="auto">AAMP7----1A----</AM>
-<AM lemma="10letý" src="auto">AANP7----1A----</AM>
-</tag>
+<AM lemma="10" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>10</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1161-001-p1s14W25-Ta-sw1">
@@ -5034,19 +5003,15 @@
 <w.rf>
 <LM>w#w-wsj1161-001-p1s14W25</LM>
 </w.rf>
-<form>10letými</form>
+<form>letými</form>
 <tag>
-<AM lemma="10letý" src="auto">AAFP7----1A----</AM>
-<AM lemma="10letý" src="auto" recommended="1">AAIP7----1A----</AM>
-<AM lemma="10letý" src="auto">AAMP7----1A----</AM>
-<AM lemma="10letý" src="auto">AANP7----1A----</AM>
-</tag>
+<AM lemma="letý" src="auto">AAFP7----1A----</AM>
+<AM lemma="letý" src="auto" recommended="1">AAIP7----1A----</AM>
+<AM lemma="letý" src="auto">AAMP7----1A----</AM>
+<AM lemma="letý" src="auto">AANP7----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>letými</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1161-001-p1s14W26-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6383,17 +6348,10 @@
 <w.rf>
 <LM>w#w-wsj1161-001-p1s18W12</LM>
 </w.rf>
-<form>10letými</form>
+<form>10</form>
 <tag>
-<AM lemma="10letý" src="auto">AAFP7----1A----</AM>
-<AM lemma="10letý" src="auto" recommended="1">AAIP7----1A----</AM>
-<AM lemma="10letý" src="auto">AAMP7----1A----</AM>
-<AM lemma="10letý" src="auto">AANP7----1A----</AM>
-</tag>
+<AM lemma="10" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>10</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1161-001-p1s18W12-Ta-sw1">
@@ -6401,19 +6359,15 @@
 <w.rf>
 <LM>w#w-wsj1161-001-p1s18W12</LM>
 </w.rf>
-<form>10letými</form>
+<form>letými</form>
 <tag>
-<AM lemma="10letý" src="auto">AAFP7----1A----</AM>
-<AM lemma="10letý" src="auto" recommended="1">AAIP7----1A----</AM>
-<AM lemma="10letý" src="auto">AAMP7----1A----</AM>
-<AM lemma="10letý" src="auto">AANP7----1A----</AM>
-</tag>
+<AM lemma="letý" src="auto">AAFP7----1A----</AM>
+<AM lemma="letý" src="auto" recommended="1">AAIP7----1A----</AM>
+<AM lemma="letý" src="auto">AAMP7----1A----</AM>
+<AM lemma="letý" src="auto">AANP7----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>letými</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1161-001-p1s18W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

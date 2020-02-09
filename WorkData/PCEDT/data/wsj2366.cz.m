@@ -615,19 +615,13 @@
 <w.rf>
 <LM>w#w-wsj2366-001-p1s5W1</LM>
 </w.rf>
-<form>Úřadu</form>
+<form>Úřad</form>
 <tag>
-<AM lemma="úřad" src="auto">NNIS2-----A----</AM>
-<AM lemma="úřad" src="auto" recommended="1">NNIS3-----A----</AM>
-<AM lemma="úřad" src="auto">NNIS6-----A---1</AM>
-<AM lemma="úřada_,h" src="auto">NNMS4-----A----</AM>
-</tag>
+<AM lemma="úřad" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="úřad" src="auto">NNIS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Úřad</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2366-001-p1s5W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4306,20 +4300,13 @@
 <w.rf>
 <LM>w#w-wsj2366-001-p1s21W1</LM>
 </w.rf>
-<form>Tato</form>
+<form>Tento</form>
 <tag>
-<AM lemma="Tata-1_;G_^(město)" src="auto">NNFS5-----A----</AM>
-<AM lemma="tata_,n_^(tatínek)" src="auto">NNMS5-----A----</AM>
-<AM lemma="tento" src="auto" recommended="1">PDFS1----------</AM>
-<AM lemma="tento" src="auto">PDNP1----------</AM>
-<AM lemma="tento" src="auto">PDNP4----------</AM>
-</tag>
+<AM lemma="tento" src="auto">PDIS4----------</AM>
+<AM lemma="tento" src="auto" recommended="1">PDYS1----------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Tento</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2366-001-p1s21W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

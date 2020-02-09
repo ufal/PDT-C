@@ -1224,17 +1224,12 @@
 <w.rf>
 <LM>w#w-wsj0172-001-p1s3W26</LM>
 </w.rf>
-<form>Firs</form>
+<form>First</form>
 <tag>
-<AM lemma="Firs_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Firs-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="First" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>First</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0172-001-p1s3W27-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

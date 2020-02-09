@@ -1016,14 +1016,12 @@
 <w.rf>
 <LM>w#w-wsj0559-001-p1s3W8</LM>
 </w.rf>
-<form>vrhnou</form>
-<tag lemma="vrhnout" src="auto" recommended="1">VB-P---3P-AAP--</tag>
+<form>vrhnout</form>
+<tag>
+<AM lemma="vrhnout" src="auto" recommended="1">Vf--------A-P--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>vrhnout</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0559-001-p1s3W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3240,17 +3238,21 @@
 <w.rf>
 <LM>w#w-wsj0559-001-p1s10W35</LM>
 </w.rf>
-<form>nezakázaní</form>
+<form>nezakázání</form>
 <tag>
-<AM lemma="zakázaný_^(*2t)" src="auto" recommended="1">AAMP1----1N----</AM>
-<AM lemma="zakázaný_^(*2t)" src="auto">AAMP5----1N----</AM>
-</tag>
+<AM lemma="zakázání_^(*3at)" src="auto">NNNP1-----N----</AM>
+<AM lemma="zakázání_^(*3at)" src="auto">NNNP2-----N----</AM>
+<AM lemma="zakázání_^(*3at)" src="auto">NNNP4-----N----</AM>
+<AM lemma="zakázání_^(*3at)" src="auto">NNNP5-----N----</AM>
+<AM lemma="zakázání_^(*3at)" src="auto" recommended="1">NNNS1-----N----</AM>
+<AM lemma="zakázání_^(*3at)" src="auto">NNNS2-----N----</AM>
+<AM lemma="zakázání_^(*3at)" src="auto">NNNS3-----N----</AM>
+<AM lemma="zakázání_^(*3at)" src="auto">NNNS4-----N----</AM>
+<AM lemma="zakázání_^(*3at)" src="auto">NNNS5-----N----</AM>
+<AM lemma="zakázání_^(*3at)" src="auto">NNNS6-----N----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>nezakázání</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0559-001-p1s10W36-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6027,14 +6029,12 @@
 <w.rf>
 <LM>w#w-wsj0559-001-p1s21W8</LM>
 </w.rf>
-<form>zvýšili</form>
-<tag lemma="zvýšit" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<form>zvýšily</form>
+<tag>
+<AM lemma="zvýšit" src="auto" recommended="1">VpTP---XR-AAP--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>zvýšily</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0559-001-p1s21W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8168,14 +8168,12 @@
 <w.rf>
 <LM>w#w-wsj0559-001-p1s31W9</LM>
 </w.rf>
-<form>Situlu</form>
-<tag lemma="situla" src="auto" recommended="1">NNFS4-----A----</tag>
+<form>Sisulu</form>
+<tag>
+<AM lemma="Sisulu" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Sisulu</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0559-001-p1s31W10-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

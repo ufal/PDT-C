@@ -678,31 +678,13 @@
 <w.rf>
 <LM>w#w-wsj0660-001-p1s2W11</LM>
 </w.rf>
-<form>složené</form>
+<form>složenou</form>
 <tag>
-<AM lemma="složený_^(*3it)" src="auto">AAFP1----1A----</AM>
-<AM lemma="složený_^(*3it)" src="auto">AAFP4----1A----</AM>
-<AM lemma="složený_^(*3it)" src="auto">AAFP5----1A----</AM>
-<AM lemma="složený_^(*3it)" src="auto">AAFS2----1A----</AM>
-<AM lemma="složený_^(*3it)" src="auto">AAFS3----1A----</AM>
-<AM lemma="složený_^(*3it)" src="auto">AAFS6----1A----</AM>
-<AM lemma="složený_^(*3it)" src="auto" recommended="1">AAIP1----1A----</AM>
-<AM lemma="složený_^(*3it)" src="auto">AAIP4----1A----</AM>
-<AM lemma="složený_^(*3it)" src="auto">AAIP5----1A----</AM>
-<AM lemma="složený_^(*3it)" src="auto">AAMP4----1A----</AM>
-<AM lemma="složený_^(*3it)" src="auto">AANP1----1A---6</AM>
-<AM lemma="složený_^(*3it)" src="auto">AANP4----1A---6</AM>
-<AM lemma="složený_^(*3it)" src="auto">AANP5----1A---6</AM>
-<AM lemma="složený_^(*3it)" src="auto">AANS1----1A----</AM>
-<AM lemma="složený_^(*3it)" src="auto">AANS4----1A----</AM>
-<AM lemma="složený_^(*3it)" src="auto">AANS5----1A----</AM>
-</tag>
+<AM lemma="složený_^(*3it)" src="auto">AAFS4----1A----</AM>
+<AM lemma="složený_^(*3it)" src="auto" recommended="1">AAFS7----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>složenou</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0660-001-p1s2W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

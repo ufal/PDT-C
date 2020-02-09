@@ -4828,14 +4828,12 @@
 <w.rf>
 <LM>w#w-wsj1996-001-p1s13W11</LM>
 </w.rf>
-<form>Olissy</form>
-<tag lemma="Olissy" src="auto">X@-------------</tag>
+<form>Olisy</form>
+<tag>
+<AM lemma="Olisy" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Olisy</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1996-001-p1s13W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6665,17 +6663,27 @@
 <w.rf>
 <LM>w#w-wsj1996-001-p1s19W23</LM>
 </w.rf>
-<form>3miliardové</form>
+<form>třímiliardové</form>
 <tag>
-<AM lemma="3miliardové" src="auto">X@-------------</AM>
-<AM lemma="3miliardový" src="manual">AAFP1----1A----</AM>
-</tag>
+<AM lemma="třímiliardový" src="auto" recommended="1">AAFP1----1A----</AM>
+<AM lemma="třímiliardový" src="auto">AAFP4----1A----</AM>
+<AM lemma="třímiliardový" src="auto">AAFP5----1A----</AM>
+<AM lemma="třímiliardový" src="auto">AAFS2----1A----</AM>
+<AM lemma="třímiliardový" src="auto">AAFS3----1A----</AM>
+<AM lemma="třímiliardový" src="auto">AAFS6----1A----</AM>
+<AM lemma="třímiliardový" src="auto">AAIP1----1A----</AM>
+<AM lemma="třímiliardový" src="auto">AAIP4----1A----</AM>
+<AM lemma="třímiliardový" src="auto">AAIP5----1A----</AM>
+<AM lemma="třímiliardový" src="auto">AAMP4----1A----</AM>
+<AM lemma="třímiliardový" src="auto">AANP1----1A---6</AM>
+<AM lemma="třímiliardový" src="auto">AANP4----1A---6</AM>
+<AM lemma="třímiliardový" src="auto">AANP5----1A---6</AM>
+<AM lemma="třímiliardový" src="auto">AANS1----1A----</AM>
+<AM lemma="třímiliardový" src="auto">AANS4----1A----</AM>
+<AM lemma="třímiliardový" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>třímiliardové</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1996-001-p1s19W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10784,14 +10792,12 @@
 <w.rf>
 <LM>w#w-wsj1996-001-p1s34W13</LM>
 </w.rf>
-<form>přesvědčil</form>
-<tag lemma="přesvědčit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<form>přesvědčila</form>
+<tag>
+<AM lemma="přesvědčit" src="auto" recommended="1">VpQW---XR-AAP--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>přesvědčila</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1996-001-p1s34W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -15650,14 +15656,40 @@
 <w.rf>
 <LM>w#w-wsj1996-001-p1s49W14</LM>
 </w.rf>
-<form>´prodejní</form>
-<tag lemma="´prodejní" src="auto">X@-------------</tag>
+<form>prodejní</form>
+<tag>
+<AM lemma="prodejní" src="auto">AAFP1----1A----</AM>
+<AM lemma="prodejní" src="auto">AAFP4----1A----</AM>
+<AM lemma="prodejní" src="auto">AAFP5----1A----</AM>
+<AM lemma="prodejní" src="auto">AAFS1----1A----</AM>
+<AM lemma="prodejní" src="auto">AAFS2----1A----</AM>
+<AM lemma="prodejní" src="auto">AAFS3----1A----</AM>
+<AM lemma="prodejní" src="auto">AAFS4----1A----</AM>
+<AM lemma="prodejní" src="auto">AAFS5----1A----</AM>
+<AM lemma="prodejní" src="auto">AAFS6----1A----</AM>
+<AM lemma="prodejní" src="auto">AAFS7----1A----</AM>
+<AM lemma="prodejní" src="auto">AAIP1----1A----</AM>
+<AM lemma="prodejní" src="auto">AAIP4----1A----</AM>
+<AM lemma="prodejní" src="auto">AAIP5----1A----</AM>
+<AM lemma="prodejní" src="auto">AAIS1----1A----</AM>
+<AM lemma="prodejní" src="auto">AAIS4----1A----</AM>
+<AM lemma="prodejní" src="auto">AAIS5----1A----</AM>
+<AM lemma="prodejní" src="auto">AAMP1----1A----</AM>
+<AM lemma="prodejní" src="auto">AAMP4----1A----</AM>
+<AM lemma="prodejní" src="auto">AAMP5----1A----</AM>
+<AM lemma="prodejní" src="auto">AAMS1----1A----</AM>
+<AM lemma="prodejní" src="auto">AAMS5----1A----</AM>
+<AM lemma="prodejní" src="auto">AANP1----1A----</AM>
+<AM lemma="prodejní" src="auto">AANP4----1A----</AM>
+<AM lemma="prodejní" src="auto">AANP5----1A----</AM>
+<AM lemma="prodejní" src="auto">AANS1----1A----</AM>
+<AM lemma="prodejní" src="auto" recommended="1">AANS4----1A----</AM>
+<AM lemma="prodejní" src="auto">AANS5----1A----</AM>
+<AM lemma="prodejný" src="auto">AAMP1----1A----</AM>
+<AM lemma="prodejný" src="auto">AAMP5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>prodejní</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1996-001-p1s49W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

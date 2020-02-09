@@ -2450,17 +2450,34 @@
 <w.rf>
 <LM>w#w-wsj0485-001-p1s6W11</LM>
 </w.rf>
-<form>politováníhodní</form>
+<form>politováníhodný</form>
 <tag>
-<AM lemma="politováníhodný" src="auto" recommended="1">AAMP1----1A----</AM>
-<AM lemma="politováníhodný" src="auto">AAMP5----1A----</AM>
-</tag>
+<AM lemma="politováníhodný" src="auto">AAFP1----1A---6</AM>
+<AM lemma="politováníhodný" src="auto">AAFP4----1A---6</AM>
+<AM lemma="politováníhodný" src="auto">AAFP5----1A---6</AM>
+<AM lemma="politováníhodný" src="auto">AAFS2----1A---6</AM>
+<AM lemma="politováníhodný" src="auto">AAFS3----1A---6</AM>
+<AM lemma="politováníhodný" src="auto">AAFS6----1A---6</AM>
+<AM lemma="politováníhodný" src="auto">AAIP1----1A---6</AM>
+<AM lemma="politováníhodný" src="auto">AAIP4----1A---6</AM>
+<AM lemma="politováníhodný" src="auto">AAIP5----1A---6</AM>
+<AM lemma="politováníhodný" src="auto">AAIS1----1A----</AM>
+<AM lemma="politováníhodný" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="politováníhodný" src="auto">AAIS5----1A----</AM>
+<AM lemma="politováníhodný" src="auto">AAMP1----1A---6</AM>
+<AM lemma="politováníhodný" src="auto">AAMP4----1A---6</AM>
+<AM lemma="politováníhodný" src="auto">AAMP5----1A---6</AM>
+<AM lemma="politováníhodný" src="auto">AAMS1----1A----</AM>
+<AM lemma="politováníhodný" src="auto">AAMS5----1A----</AM>
+<AM lemma="politováníhodný" src="auto">AANP1----1A---6</AM>
+<AM lemma="politováníhodný" src="auto">AANP4----1A---6</AM>
+<AM lemma="politováníhodný" src="auto">AANP5----1A---6</AM>
+<AM lemma="politováníhodný" src="auto">AANS1----1A---6</AM>
+<AM lemma="politováníhodný" src="auto">AANS4----1A---6</AM>
+<AM lemma="politováníhodný" src="auto">AANS5----1A---6</AM></tag>
 <comment>
-<LM type="New Form">
-<text>politováníhodný</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0485-001-p1s6W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

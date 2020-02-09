@@ -3671,14 +3671,14 @@
 <w.rf>
 <LM>w#w-wsj0239-001-p1s12W3</LM>
 </w.rf>
-<form>Epinale</form>
-<tag lemma="Epinale" src="auto">X@-------------</tag>
+<form>Épinalu</form>
+<tag>
+<AM lemma="Épinal_;G" src="auto">NNIS2-----A----</AM>
+<AM lemma="Épinal_;G" src="auto">NNIS3-----A----</AM>
+<AM lemma="Épinal_;G" src="auto" recommended="1">NNIS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Épinalu</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0239-001-p1s12W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6969,17 +6969,13 @@
 <w.rf>
 <LM>w#w-wsj0239-001-p1s28W3</LM>
 </w.rf>
-<form>mě</form>
+<form>mně</form>
 <tag>
-<AM lemma="já" src="auto">PH-S2--1-------</AM>
-<AM lemma="já" src="auto" recommended="1">PH-S4--1-------</AM>
-</tag>
+<AM lemma="já" src="auto">PP-S3--1-------</AM>
+<AM lemma="já" src="auto" recommended="1">PP-S6--1-------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>mně</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0239-001-p1s28W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10950,14 +10946,12 @@
 <w.rf>
 <LM>w#w-wsj0239-001-p1s45W3</LM>
 </w.rf>
-<form>jsem</form>
-<tag lemma="být" src="auto" recommended="1">VB-S---1P-AAI--</tag>
+<form>jsme</form>
+<tag>
+<AM lemma="být" src="auto" recommended="1">VB-P---1P-AAI--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>jsme</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0239-001-p1s45W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -12143,14 +12137,14 @@
 <w.rf>
 <LM>w#w-wsj0239-001-p1s50W18</LM>
 </w.rf>
-<form>Epinale</form>
-<tag lemma="Epinale" src="auto">X@-------------</tag>
+<form>Épinalu</form>
+<tag>
+<AM lemma="Épinal_;G" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="Épinal_;G" src="auto">NNIS3-----A----</AM>
+<AM lemma="Épinal_;G" src="auto">NNIS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Épinalu</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0239-001-p1s50W19-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

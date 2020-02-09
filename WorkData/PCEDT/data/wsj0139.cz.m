@@ -498,12 +498,15 @@
 <w.rf>
 <LM>w#w-wsj0139-001-p1s2W3</LM>
 </w.rf>
-<form>D'Amico</form>
-<tag lemma="D'Amico" src="auto">X@-------------</tag>
+<form>D</form>
+<tag>
+<AM lemma="D-3`500" src="auto">C}-------------</AM>
+<AM lemma="D-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="D-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="d-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="d-77" src="auto">F%-------------</AM>
+<AM lemma="d-88_:B" src="auto">NNXXX-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>D</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0139-001-p1s2W3-Ta-sw1">
@@ -511,12 +514,10 @@
 <w.rf>
 <LM>w#w-wsj0139-001-p1s2W3</LM>
 </w.rf>
-<form>D'Amico</form>
-<tag lemma="D'Amico" src="auto">X@-------------</tag>
+<form>'</form>
+<tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0139-001-p1s2W3-Ta-sw2">
@@ -524,14 +525,12 @@
 <w.rf>
 <LM>w#w-wsj0139-001-p1s2W3</LM>
 </w.rf>
-<form>D'Amico</form>
-<tag lemma="D'Amico" src="auto">X@-------------</tag>
+<form>Amico</form>
+<tag>
+<AM lemma="Amica_;K" src="auto" recommended="1">NNFS5-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Amico</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0139-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

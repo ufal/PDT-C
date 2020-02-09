@@ -956,15 +956,10 @@
 <w.rf>
 <LM>w#w-wsj0637-001-p1s2W20</LM>
 </w.rf>
-<form>30denního</form>
+<form>30</form>
 <tag>
-<AM lemma="30denního" src="auto">X@-------------</AM>
-<AM lemma="30denní" src="manual">AAIS2----1A----</AM>
-</tag>
+<AM lemma="30" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>30</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0637-001-p1s2W20-Ta-sw1">
@@ -972,17 +967,15 @@
 <w.rf>
 <LM>w#w-wsj0637-001-p1s2W20</LM>
 </w.rf>
-<form>30denního</form>
+<form>denního</form>
 <tag>
-<AM lemma="30denního" src="auto">X@-------------</AM>
-<AM lemma="30denní" src="manual">AAIS2----1A----</AM>
-</tag>
+<AM lemma="denní" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="denní" src="auto">AAMS2----1A----</AM>
+<AM lemma="denní" src="auto">AAMS4----1A----</AM>
+<AM lemma="denní" src="auto">AANS2----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>denního</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0637-001-p1s2W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

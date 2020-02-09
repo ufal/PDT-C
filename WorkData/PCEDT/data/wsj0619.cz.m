@@ -5783,17 +5783,13 @@
 <w.rf>
 <LM>w#w-wsj0619-001-p1s19W15</LM>
 </w.rf>
-<form>nesrovnalostech</form>
+<form>nesrovnalostem</form>
 <tag>
-<AM lemma="nesrovnalost_^(*3ý)" src="auto" recommended="1">NNFP6-----A----</AM>
-<AM lemma="srovnalost_^(*3ý)" src="auto">NNFP6-----N----</AM>
-</tag>
+<AM lemma="nesrovnalost_^(*3ý)" src="auto" recommended="1">NNFP3-----A----</AM>
+<AM lemma="srovnalost_^(*3ý)" src="auto">NNFP3-----N----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>nesrovnalostem</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0619-001-p1s19W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -272,14 +272,13 @@
 <w.rf>
 <LM>w#w-wsj0076-001-p1s2W1</LM>
 </w.rf>
-<form>Společnot</form>
-<tag lemma="Společnot" src="auto">X@-------------</tag>
+<form>Společnost</form>
+<tag>
+<AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Společnost</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0076-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

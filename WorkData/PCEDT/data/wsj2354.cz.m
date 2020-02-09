@@ -2645,14 +2645,13 @@
 <w.rf>
 <LM>w#w-wsj2354-001-p1s6W36</LM>
 </w.rf>
-<form>Dalasští</form>
-<tag lemma="Dalasští" src="auto">X@-------------</tag>
+<form>Dallaští</form>
+<tag>
+<AM lemma="dallaský" src="auto" recommended="1">AAMP1----1A----</AM>
+<AM lemma="dallaský" src="auto">AAMP5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Dallaští</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2354-001-p1s6W37-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

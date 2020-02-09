@@ -601,14 +601,13 @@
 <w.rf>
 <LM>w#w-wsj2424-001-p1s1W11</LM>
 </w.rf>
-<form>společnosí</form>
-<tag lemma="společnosí" src="auto">X@-------------</tag>
+<form>společností</form>
+<tag>
+<AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFS7-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>společností</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2424-001-p1s1W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1424,14 +1423,17 @@
 <w.rf>
 <LM>w#w-wsj2424-001-p1s4W1</LM>
 </w.rf>
-<form>Aerkolinie</form>
-<tag lemma="Aerkolinie" src="auto">X@-------------</tag>
+<form>Aerolinie</form>
+<tag>
+<AM lemma="aerolinie" src="auto">NNFP1-----A----</AM>
+<AM lemma="aerolinie" src="auto">NNFP4-----A----</AM>
+<AM lemma="aerolinie" src="auto">NNFP5-----A----</AM>
+<AM lemma="aerolinie" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="aerolinie" src="auto">NNFS2-----A----</AM>
+<AM lemma="aerolinie" src="auto">NNFS5-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Aerolinie</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2424-001-p1s4W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

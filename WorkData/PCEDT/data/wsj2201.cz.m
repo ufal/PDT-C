@@ -115,15 +115,10 @@
 <w.rf>
 <LM>w#w-wsj2201-001-p1s1W4</LM>
 </w.rf>
-<form>190bodovém</form>
+<form>190</form>
 <tag>
-<AM lemma="190bodovém" src="auto">X@-------------</AM>
-<AM lemma="190bodovém" src="manual">AAIS6----1A----</AM>
-</tag>
+<AM lemma="190" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>190</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2201-001-p1s1W4-Ta-sw1">
@@ -131,17 +126,14 @@
 <w.rf>
 <LM>w#w-wsj2201-001-p1s1W4</LM>
 </w.rf>
-<form>190bodovém</form>
+<form>bodovém</form>
 <tag>
-<AM lemma="190bodovém" src="auto">X@-------------</AM>
-<AM lemma="190bodovém" src="manual">AAIS6----1A----</AM>
-</tag>
+<AM lemma="bodový" src="auto" recommended="1">AAIS6----1A----</AM>
+<AM lemma="bodový" src="auto">AAMS6----1A----</AM>
+<AM lemma="bodový" src="auto">AANS6----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>bodovém</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2201-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1089,17 +1081,12 @@
 <w.rf>
 <LM>w#w-wsj2201-001-p1s5W2</LM>
 </w.rf>
-<form>PaineWeber</form>
+<form>PaineWebber</form>
 <tag>
-<AM lemma="PaineWeber" src="auto">X@-------------</AM>
-<AM lemma="PaineWeber-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="PaineWebber" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>PaineWebber</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2201-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5041,17 +5028,12 @@
 <w.rf>
 <LM>w#w-wsj2201-001-p1s23W2</LM>
 </w.rf>
-<form>PaineWeber</form>
+<form>PaineWebber</form>
 <tag>
-<AM lemma="PaineWeber" src="auto">X@-------------</AM>
-<AM lemma="PaineWeber_;K" src="manual">NNIS1-----A----</AM>
-</tag>
+<AM lemma="PaineWebber" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>PaineWebber</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2201-001-p1s23W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -12571,15 +12553,10 @@
 <w.rf>
 <LM>w#w-wsj2201-001-p1s55W1</LM>
 </w.rf>
-<form>142stránková</form>
+<form>142</form>
 <tag>
-<AM lemma="142stránková" src="auto">X@-------------</AM>
-<AM lemma="142stránková" src="manual">AAFS1----1A----</AM>
-</tag>
+<AM lemma="142" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>142</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2201-001-p1s55W1-Ta-sw1">
@@ -12587,17 +12564,16 @@
 <w.rf>
 <LM>w#w-wsj2201-001-p1s55W1</LM>
 </w.rf>
-<form>142stránková</form>
+<form>stránková</form>
 <tag>
-<AM lemma="142stránková" src="auto">X@-------------</AM>
-<AM lemma="142stránková" src="manual">AAFS1----1A----</AM>
-</tag>
+<AM lemma="stránkový" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="stránkový" src="auto">AAFS5----1A----</AM>
+<AM lemma="stránkový" src="auto">AANP1----1A----</AM>
+<AM lemma="stránkový" src="auto">AANP4----1A----</AM>
+<AM lemma="stránkový" src="auto">AANP5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>stránková</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2201-001-p1s55W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

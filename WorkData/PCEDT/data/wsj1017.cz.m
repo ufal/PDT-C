@@ -4729,23 +4729,27 @@
 <w.rf>
 <LM>w#w-wsj1017-001-p1s13W17</LM>
 </w.rf>
-<form>očekávaných</form>
+<form>očekávané</form>
 <tag>
-<AM lemma="očekávaný_^(*2t)" src="auto" recommended="1">AAFP2----1A----</AM>
-<AM lemma="očekávaný_^(*2t)" src="auto">AAFP6----1A----</AM>
-<AM lemma="očekávaný_^(*2t)" src="auto">AAIP2----1A----</AM>
-<AM lemma="očekávaný_^(*2t)" src="auto">AAIP6----1A----</AM>
-<AM lemma="očekávaný_^(*2t)" src="auto">AAMP2----1A----</AM>
-<AM lemma="očekávaný_^(*2t)" src="auto">AAMP6----1A----</AM>
-<AM lemma="očekávaný_^(*2t)" src="auto">AANP2----1A----</AM>
-<AM lemma="očekávaný_^(*2t)" src="auto">AANP6----1A----</AM>
-</tag>
+<AM lemma="očekávaný_^(*2t)" src="auto" recommended="1">AAFP1----1A----</AM>
+<AM lemma="očekávaný_^(*2t)" src="auto">AAFP4----1A----</AM>
+<AM lemma="očekávaný_^(*2t)" src="auto">AAFP5----1A----</AM>
+<AM lemma="očekávaný_^(*2t)" src="auto">AAFS2----1A----</AM>
+<AM lemma="očekávaný_^(*2t)" src="auto">AAFS3----1A----</AM>
+<AM lemma="očekávaný_^(*2t)" src="auto">AAFS6----1A----</AM>
+<AM lemma="očekávaný_^(*2t)" src="auto">AAIP1----1A----</AM>
+<AM lemma="očekávaný_^(*2t)" src="auto">AAIP4----1A----</AM>
+<AM lemma="očekávaný_^(*2t)" src="auto">AAIP5----1A----</AM>
+<AM lemma="očekávaný_^(*2t)" src="auto">AAMP4----1A----</AM>
+<AM lemma="očekávaný_^(*2t)" src="auto">AANP1----1A---6</AM>
+<AM lemma="očekávaný_^(*2t)" src="auto">AANP4----1A---6</AM>
+<AM lemma="očekávaný_^(*2t)" src="auto">AANP5----1A---6</AM>
+<AM lemma="očekávaný_^(*2t)" src="auto">AANS1----1A----</AM>
+<AM lemma="očekávaný_^(*2t)" src="auto">AANS4----1A----</AM>
+<AM lemma="očekávaný_^(*2t)" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>očekávané</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1017-001-p1s13W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

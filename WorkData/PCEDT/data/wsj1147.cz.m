@@ -8034,14 +8034,21 @@
 <w.rf>
 <LM>w#w-wsj1147-001-p1s20W32</LM>
 </w.rf>
-<form>drobnch</form>
-<tag lemma="drobnch" src="auto">X@-------------</tag>
+<form>drobných</form>
+<tag>
+<AM lemma="drobný" src="auto">AAFP2----1A----</AM>
+<AM lemma="drobný" src="auto">AAFP6----1A----</AM>
+<AM lemma="drobný" src="auto">AAIP2----1A----</AM>
+<AM lemma="drobný" src="auto">AAIP6----1A----</AM>
+<AM lemma="drobný" src="auto" recommended="1">AAMP2----1A----</AM>
+<AM lemma="drobný" src="auto">AAMP6----1A----</AM>
+<AM lemma="drobný" src="auto">AANP2----1A----</AM>
+<AM lemma="drobný" src="auto">AANP6----1A----</AM>
+<AM lemma="drobné_^(peníze)" src="auto">NNIP2-----A----</AM>
+<AM lemma="drobné_^(peníze)" src="auto">NNIP6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>drobných</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1147-001-p1s20W33-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -12576,14 +12583,15 @@
 <w.rf>
 <LM>w#w-wsj1147-001-p1s34W2</LM>
 </w.rf>
-<form>směmovny</form>
-<tag lemma="směmovny" src="auto">X@-------------</tag>
+<form>sněmovny</form>
+<tag>
+<AM lemma="sněmovna" src="auto">NNFP1-----A----</AM>
+<AM lemma="sněmovna" src="auto">NNFP4-----A----</AM>
+<AM lemma="sněmovna" src="auto">NNFP5-----A----</AM>
+<AM lemma="sněmovna" src="auto" recommended="1">NNFS2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>sněmovny</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1147-001-p1s34W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

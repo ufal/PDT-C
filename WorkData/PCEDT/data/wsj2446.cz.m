@@ -9491,14 +9491,12 @@
 <w.rf>
 <LM>w#w-wsj2446-001-p1s26W9</LM>
 </w.rf>
-<form>měla</form>
-<tag lemma="mít" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<form>měl</form>
+<tag>
+<AM lemma="mít" src="auto" recommended="1">VpYS---XR-AAI--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>měl</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2446-001-p1s26W10-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

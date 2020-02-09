@@ -4522,17 +4522,12 @@
 <w.rf>
 <LM>w#w-wsj1120-001-p1s20W11</LM>
 </w.rf>
-<form>konferencí</form>
+<form>konferencích</form>
 <tag>
-<AM lemma="konference" src="auto">NNFP2-----A----</AM>
-<AM lemma="konference" src="auto" recommended="1">NNFS7-----A----</AM>
-</tag>
+<AM lemma="konference" src="auto" recommended="1">NNFP6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>konferencích</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1120-001-p1s20W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

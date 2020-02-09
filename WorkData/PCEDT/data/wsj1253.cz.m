@@ -2080,18 +2080,14 @@
 <w.rf>
 <LM>w#w-wsj1253-001-p1s9W5</LM>
 </w.rf>
-<form>vedeném</form>
+<form>vedenému</form>
 <tag>
-<AM lemma="vedený_^(*5ést)" src="auto" recommended="1">AAIS6----1A----</AM>
-<AM lemma="vedený_^(*5ést)" src="auto">AAMS6----1A----</AM>
-<AM lemma="vedený_^(*5ést)" src="auto">AANS6----1A----</AM>
-</tag>
+<AM lemma="vedený_^(*5ést)" src="auto">AAIS3----1A----</AM>
+<AM lemma="vedený_^(*5ést)" src="auto">AAMS3----1A----</AM>
+<AM lemma="vedený_^(*5ést)" src="auto" recommended="1">AANS3----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>vedenému</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1253-001-p1s9W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

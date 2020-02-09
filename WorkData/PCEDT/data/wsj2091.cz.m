@@ -4894,12 +4894,10 @@
 <w.rf>
 <LM>w#w-wsj2091-001-p1s13W17</LM>
 </w.rf>
-<form>např.</form>
-<tag lemma="např." src="auto">X@-------------</tag>
+<form>např</form>
+<tag>
+<AM lemma="například_:B" src="auto" recommended="1">Db------------8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>např</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2091-001-p1s13W17-Ta-sw1">
@@ -4907,14 +4905,12 @@
 <w.rf>
 <LM>w#w-wsj2091-001-p1s13W17</LM>
 </w.rf>
-<form>např.</form>
-<tag lemma="např." src="auto">X@-------------</tag>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>.</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2091-001-p1s13W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

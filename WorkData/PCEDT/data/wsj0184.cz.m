@@ -731,14 +731,14 @@
 <w.rf>
 <LM>w#w-wsj0184-001-p1s1W28</LM>
 </w.rf>
-<form>důhodu</form>
-<tag lemma="důhodu" src="auto">X@-------------</tag>
+<form>důchodu</form>
+<tag>
+<AM lemma="důchod" src="auto">NNIS2-----A----</AM>
+<AM lemma="důchod" src="auto">NNIS3-----A----</AM>
+<AM lemma="důchod" src="auto" recommended="1">NNIS6-----A---1</AM></tag>
 <comment>
-<LM type="New Form">
-<text>důchodu</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0184-001-p1s1W29-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -793,14 +793,23 @@
 <w.rf>
 <LM>w#w-wsj0184-001-p1s2W3</LM>
 </w.rf>
-<form>vyj8dření</form>
-<tag lemma="vyj8dření" src="auto">X@-------------</tag>
+<form>vyjádření</form>
+<tag>
+<AM lemma="vyjádřený_^(*3it)" src="auto">AAMP1----1A----</AM>
+<AM lemma="vyjádřený_^(*3it)" src="auto">AAMP5----1A----</AM>
+<AM lemma="vyjádření_^(*3it)" src="auto">NNNP1-----A----</AM>
+<AM lemma="vyjádření_^(*3it)" src="auto">NNNP2-----A----</AM>
+<AM lemma="vyjádření_^(*3it)" src="auto">NNNP4-----A----</AM>
+<AM lemma="vyjádření_^(*3it)" src="auto">NNNP5-----A----</AM>
+<AM lemma="vyjádření_^(*3it)" src="auto">NNNS1-----A----</AM>
+<AM lemma="vyjádření_^(*3it)" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="vyjádření_^(*3it)" src="auto">NNNS3-----A----</AM>
+<AM lemma="vyjádření_^(*3it)" src="auto">NNNS4-----A----</AM>
+<AM lemma="vyjádření_^(*3it)" src="auto">NNNS5-----A----</AM>
+<AM lemma="vyjádření_^(*3it)" src="auto">NNNS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>vyjádření</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0184-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2401,14 +2410,12 @@
 <w.rf>
 <LM>w#w-wsj0184-001-p1s8W13</LM>
 </w.rf>
-<form>zaměstnaců</form>
-<tag lemma="zaměstnaců" src="auto">X@-------------</tag>
+<form>zaměstnanců</form>
+<tag>
+<AM lemma="zaměstnanec" src="auto" recommended="1">NNMP2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>zaměstnanců</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0184-001-p1s8W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -1244,57 +1244,23 @@
 <w.rf>
 <LM>w#w-wsj2115-001-p1s2W25</LM>
 </w.rf>
-<form>účetní</form>
+<form>účetních</form>
 <tag>
-<AM lemma="účetní-1" src="auto">AAFP1----1A----</AM>
-<AM lemma="účetní-1" src="auto">AAFP4----1A----</AM>
-<AM lemma="účetní-1" src="auto">AAFP5----1A----</AM>
-<AM lemma="účetní-1" src="auto">AAFS1----1A----</AM>
-<AM lemma="účetní-1" src="auto">AAFS2----1A----</AM>
-<AM lemma="účetní-1" src="auto">AAFS3----1A----</AM>
-<AM lemma="účetní-1" src="auto">AAFS4----1A----</AM>
-<AM lemma="účetní-1" src="auto">AAFS5----1A----</AM>
-<AM lemma="účetní-1" src="auto">AAFS6----1A----</AM>
-<AM lemma="účetní-1" src="auto">AAFS7----1A----</AM>
-<AM lemma="účetní-1" src="auto">AAIP1----1A----</AM>
-<AM lemma="účetní-1" src="auto">AAIP4----1A----</AM>
-<AM lemma="účetní-1" src="auto">AAIP5----1A----</AM>
-<AM lemma="účetní-1" src="auto">AAIS1----1A----</AM>
-<AM lemma="účetní-1" src="auto">AAIS4----1A----</AM>
-<AM lemma="účetní-1" src="auto">AAIS5----1A----</AM>
-<AM lemma="účetní-1" src="auto">AAMP1----1A----</AM>
-<AM lemma="účetní-1" src="auto">AAMP4----1A----</AM>
-<AM lemma="účetní-1" src="auto">AAMP5----1A----</AM>
-<AM lemma="účetní-1" src="auto">AAMS1----1A----</AM>
-<AM lemma="účetní-1" src="auto">AAMS5----1A----</AM>
-<AM lemma="účetní-1" src="auto">AANP1----1A----</AM>
-<AM lemma="účetní-1" src="auto">AANP4----1A----</AM>
-<AM lemma="účetní-1" src="auto">AANP5----1A----</AM>
-<AM lemma="účetní-1" src="auto">AANS1----1A----</AM>
-<AM lemma="účetní-1" src="auto">AANS4----1A----</AM>
-<AM lemma="účetní-1" src="auto">AANS5----1A----</AM>
-<AM lemma="účetní-2" src="auto">NNMP1-----A----</AM>
-<AM lemma="účetní-2" src="auto">NNMP4-----A----</AM>
-<AM lemma="účetní-2" src="auto">NNMP5-----A----</AM>
-<AM lemma="účetní-2" src="auto">NNMS1-----A----</AM>
-<AM lemma="účetní-2" src="auto">NNMS5-----A----</AM>
-<AM lemma="účetní-3" src="auto">NNFP1-----A----</AM>
-<AM lemma="účetní-3" src="auto">NNFP4-----A----</AM>
-<AM lemma="účetní-3" src="auto">NNFP5-----A----</AM>
-<AM lemma="účetní-3" src="auto">NNFS1-----A----</AM>
-<AM lemma="účetní-3" src="auto" recommended="1">NNFS2-----A----</AM>
-<AM lemma="účetní-3" src="auto">NNFS3-----A----</AM>
-<AM lemma="účetní-3" src="auto">NNFS4-----A----</AM>
-<AM lemma="účetní-3" src="auto">NNFS5-----A----</AM>
-<AM lemma="účetní-3" src="auto">NNFS6-----A----</AM>
-<AM lemma="účetní-3" src="auto">NNFS7-----A----</AM>
-</tag>
+<AM lemma="účetní-1" src="auto">AAFP2----1A----</AM>
+<AM lemma="účetní-1" src="auto">AAFP6----1A----</AM>
+<AM lemma="účetní-1" src="auto">AAIP2----1A----</AM>
+<AM lemma="účetní-1" src="auto">AAIP6----1A----</AM>
+<AM lemma="účetní-1" src="auto">AAMP2----1A----</AM>
+<AM lemma="účetní-1" src="auto">AAMP6----1A----</AM>
+<AM lemma="účetní-1" src="auto">AANP2----1A----</AM>
+<AM lemma="účetní-1" src="auto">AANP6----1A----</AM>
+<AM lemma="účetní-2" src="auto">NNMP2-----A----</AM>
+<AM lemma="účetní-2" src="auto">NNMP6-----A----</AM>
+<AM lemma="účetní-3" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="účetní-3" src="auto">NNFP6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>účetních</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2115-001-p1s2W26-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2468,15 +2434,10 @@
 <w.rf>
 <LM>w#w-wsj2115-001-p1s6W5</LM>
 </w.rf>
-<form>12letou</form>
+<form>12</form>
 <tag>
-<AM lemma="12letý" src="auto" recommended="1">AAFS4----1A----</AM>
-<AM lemma="12letý" src="auto">AAFS7----1A----</AM>
-</tag>
+<AM lemma="12" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>12</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2115-001-p1s6W5-Ta-sw1">
@@ -2484,17 +2445,13 @@
 <w.rf>
 <LM>w#w-wsj2115-001-p1s6W5</LM>
 </w.rf>
-<form>12letou</form>
+<form>letou</form>
 <tag>
-<AM lemma="12letý" src="auto" recommended="1">AAFS4----1A----</AM>
-<AM lemma="12letý" src="auto">AAFS7----1A----</AM>
-</tag>
+<AM lemma="letý" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="letý" src="auto">AAFS7----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>letou</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2115-001-p1s6W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -9340,14 +9340,27 @@
 <w.rf>
 <LM>w#w-wsj2145-001-p1s34W15</LM>
 </w.rf>
-<form>uspěšné</form>
-<tag lemma="uspěšné" src="auto">X@-------------</tag>
+<form>úspěšné</form>
+<tag>
+<AM lemma="úspěšný" src="auto" recommended="1">AAFP1----1A----</AM>
+<AM lemma="úspěšný" src="auto">AAFP4----1A----</AM>
+<AM lemma="úspěšný" src="auto">AAFP5----1A----</AM>
+<AM lemma="úspěšný" src="auto">AAFS2----1A----</AM>
+<AM lemma="úspěšný" src="auto">AAFS3----1A----</AM>
+<AM lemma="úspěšný" src="auto">AAFS6----1A----</AM>
+<AM lemma="úspěšný" src="auto">AAIP1----1A----</AM>
+<AM lemma="úspěšný" src="auto">AAIP4----1A----</AM>
+<AM lemma="úspěšný" src="auto">AAIP5----1A----</AM>
+<AM lemma="úspěšný" src="auto">AAMP4----1A----</AM>
+<AM lemma="úspěšný" src="auto">AANP1----1A---6</AM>
+<AM lemma="úspěšný" src="auto">AANP4----1A---6</AM>
+<AM lemma="úspěšný" src="auto">AANP5----1A---6</AM>
+<AM lemma="úspěšný" src="auto">AANS1----1A----</AM>
+<AM lemma="úspěšný" src="auto">AANS4----1A----</AM>
+<AM lemma="úspěšný" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>úspěšné</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2145-001-p1s34W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

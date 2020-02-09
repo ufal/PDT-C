@@ -2310,14 +2310,12 @@
 <w.rf>
 <LM>w#w-wsj2019-001-p1s10W5</LM>
 </w.rf>
-<form>15krát</form>
-<tag lemma="15krát" src="auto">X@-------------</tag>
+<form>patnáctkrát</form>
+<tag>
+<AM lemma="patnáctkrát`15_^(*4)" src="auto" recommended="1">Cv-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>patnáctkrát</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2019-001-p1s10W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3772,14 +3770,15 @@
 <w.rf>
 <LM>w#w-wsj2019-001-p1s18W5</LM>
 </w.rf>
-<form>mimoburozvního</form>
-<tag lemma="mimoburozvního" src="auto">X@-------------</tag>
+<form>mimoburzovního</form>
+<tag>
+<AM lemma="mimoburzovní" src="auto">AAIS2----1A----</AM>
+<AM lemma="mimoburzovní" src="auto">AAMS2----1A----</AM>
+<AM lemma="mimoburzovní" src="auto">AAMS4----1A----</AM>
+<AM lemma="mimoburzovní" src="auto" recommended="1">AANS2----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>mimoburzovního</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2019-001-p1s18W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

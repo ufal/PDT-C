@@ -11307,15 +11307,25 @@
 <w.rf>
 <LM>w#w-wsj0749-001-p1s52W35</LM>
 </w.rf>
-<form>basketbalovou</form>
+<form>basketbalové</form>
 <tag>
-<AM lemma="basketbalový" src="auto" recommended="1">AAFS4----1A----</AM>
-<AM lemma="basketbalový" src="auto">AAFS7----1A----</AM>
-</tag>
+<AM lemma="basketbalový" src="auto">AAFP1----1A----</AM>
+<AM lemma="basketbalový" src="auto">AAFP4----1A----</AM>
+<AM lemma="basketbalový" src="auto">AAFP5----1A----</AM>
+<AM lemma="basketbalový" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="basketbalový" src="auto">AAFS3----1A----</AM>
+<AM lemma="basketbalový" src="auto">AAFS6----1A----</AM>
+<AM lemma="basketbalový" src="auto">AAIP1----1A----</AM>
+<AM lemma="basketbalový" src="auto">AAIP4----1A----</AM>
+<AM lemma="basketbalový" src="auto">AAIP5----1A----</AM>
+<AM lemma="basketbalový" src="auto">AAMP4----1A----</AM>
+<AM lemma="basketbalový" src="auto">AANP1----1A---6</AM>
+<AM lemma="basketbalový" src="auto">AANP4----1A---6</AM>
+<AM lemma="basketbalový" src="auto">AANP5----1A---6</AM>
+<AM lemma="basketbalový" src="auto">AANS1----1A----</AM>
+<AM lemma="basketbalový" src="auto">AANS4----1A----</AM>
+<AM lemma="basketbalový" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>basketbalové</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0749-001-p1s52W36-Ta">
@@ -11323,14 +11333,15 @@
 <w.rf>
 <LM>w#w-wsj0749-001-p1s52W36</LM>
 </w.rf>
-<form>přípravu</form>
-<tag lemma="příprava" src="auto" recommended="1">NNFS4-----A----</tag>
+<form>přípravy</form>
+<tag>
+<AM lemma="příprava" src="auto">NNFP1-----A----</AM>
+<AM lemma="příprava" src="auto">NNFP4-----A----</AM>
+<AM lemma="příprava" src="auto">NNFP5-----A----</AM>
+<AM lemma="příprava" src="auto" recommended="1">NNFS2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>přípravy</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0749-001-p1s52W37-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

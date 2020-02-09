@@ -451,19 +451,12 @@
 <w.rf>
 <LM>w#w-wsj0574-001-p1s3W1</LM>
 </w.rf>
-<form>RA</form>
+<form>CRA</form>
 <tag>
-<AM lemma="RA-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="Ra-88_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="Ra_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="ra-88_:B" src="auto">NNXXX-----A----</AM>
-</tag>
+<AM lemma="CRA-88_:B" src="auto" recommended="1">NNXXX-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>CRA</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0574-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

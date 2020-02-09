@@ -3490,17 +3490,13 @@
 <w.rf>
 <LM>w#w-wsj1480-001-p1s12W26</LM>
 </w.rf>
-<form>společnost</form>
+<form>společností</form>
 <tag>
-<AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS4-----A----</AM>
-</tag>
+<AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFS7-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>společností</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1480-001-p1s12W27-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -18671,42 +18667,19 @@
 <w.rf>
 <LM>w#w-wsj1480-001-p1s66W3</LM>
 </w.rf>
-<form>zabývající</form>
+<form>zabývajících</form>
 <tag>
-<AM lemma="zabývající_^(*4t)" src="auto" recommended="1">AGFP1-----A----</AM>
-<AM lemma="zabývající_^(*4t)" src="auto">AGFP4-----A----</AM>
-<AM lemma="zabývající_^(*4t)" src="auto">AGFP5-----A----</AM>
-<AM lemma="zabývající_^(*4t)" src="auto">AGFS1-----A----</AM>
-<AM lemma="zabývající_^(*4t)" src="auto">AGFS2-----A----</AM>
-<AM lemma="zabývající_^(*4t)" src="auto">AGFS3-----A----</AM>
-<AM lemma="zabývající_^(*4t)" src="auto">AGFS4-----A----</AM>
-<AM lemma="zabývající_^(*4t)" src="auto">AGFS5-----A----</AM>
-<AM lemma="zabývající_^(*4t)" src="auto">AGFS6-----A----</AM>
-<AM lemma="zabývající_^(*4t)" src="auto">AGFS7-----A----</AM>
-<AM lemma="zabývající_^(*4t)" src="auto">AGIP1-----A----</AM>
-<AM lemma="zabývající_^(*4t)" src="auto">AGIP4-----A----</AM>
-<AM lemma="zabývající_^(*4t)" src="auto">AGIP5-----A----</AM>
-<AM lemma="zabývající_^(*4t)" src="auto">AGIS1-----A----</AM>
-<AM lemma="zabývající_^(*4t)" src="auto">AGIS4-----A----</AM>
-<AM lemma="zabývající_^(*4t)" src="auto">AGIS5-----A----</AM>
-<AM lemma="zabývající_^(*4t)" src="auto">AGMP1-----A----</AM>
-<AM lemma="zabývající_^(*4t)" src="auto">AGMP4-----A----</AM>
-<AM lemma="zabývající_^(*4t)" src="auto">AGMP5-----A----</AM>
-<AM lemma="zabývající_^(*4t)" src="auto">AGMS1-----A----</AM>
-<AM lemma="zabývající_^(*4t)" src="auto">AGMS5-----A----</AM>
-<AM lemma="zabývající_^(*4t)" src="auto">AGNP1-----A----</AM>
-<AM lemma="zabývající_^(*4t)" src="auto">AGNP4-----A----</AM>
-<AM lemma="zabývající_^(*4t)" src="auto">AGNP5-----A----</AM>
-<AM lemma="zabývající_^(*4t)" src="auto">AGNS1-----A----</AM>
-<AM lemma="zabývající_^(*4t)" src="auto">AGNS4-----A----</AM>
-<AM lemma="zabývající_^(*4t)" src="auto">AGNS5-----A----</AM>
-</tag>
+<AM lemma="zabývající_^(*4t)" src="auto" recommended="1">AGFP2-----A----</AM>
+<AM lemma="zabývající_^(*4t)" src="auto">AGFP6-----A----</AM>
+<AM lemma="zabývající_^(*4t)" src="auto">AGIP2-----A----</AM>
+<AM lemma="zabývající_^(*4t)" src="auto">AGIP6-----A----</AM>
+<AM lemma="zabývající_^(*4t)" src="auto">AGMP2-----A----</AM>
+<AM lemma="zabývající_^(*4t)" src="auto">AGMP6-----A----</AM>
+<AM lemma="zabývající_^(*4t)" src="auto">AGNP2-----A----</AM>
+<AM lemma="zabývající_^(*4t)" src="auto">AGNP6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>zabývajících</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1480-001-p1s66W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

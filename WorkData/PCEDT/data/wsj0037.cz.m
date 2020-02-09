@@ -12402,12 +12402,10 @@
 <w.rf>
 <LM>w#w-wsj0037-001-p1s40W3</LM>
 </w.rf>
-<form>zahájil</form>
-<tag lemma="zahájit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<form>zahájila</form>
+<tag>
+<AM lemma="zahájit" src="auto" recommended="1">VpQW---XR-AAP--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>zahájila</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0037-001-p1s40W4-Ta">
@@ -12456,12 +12454,15 @@
 <w.rf>
 <LM>w#w-wsj0037-001-p1s40W8</LM>
 </w.rf>
-<form>náměstek</form>
-<tag lemma="náměstek" src="auto" recommended="1">NNMS1-----A----</tag>
+<form>náměstkyně</form>
+<tag>
+<AM lemma="náměstkyně" src="auto">NNFP1-----A----</AM>
+<AM lemma="náměstkyně" src="auto">NNFP4-----A----</AM>
+<AM lemma="náměstkyně" src="auto">NNFP5-----A----</AM>
+<AM lemma="náměstkyně" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="náměstkyně" src="auto">NNFS2-----A----</AM>
+<AM lemma="náměstkyně" src="auto">NNFS5-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>náměstkyně</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0037-001-p1s40W9-Ta">
@@ -12681,14 +12682,12 @@
 <w.rf>
 <LM>w#w-wsj0037-001-p1s40W27</LM>
 </w.rf>
-<form>vyzval</form>
-<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<form>vyzvala</form>
+<tag>
+<AM lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="auto" recommended="1">VpQW---XR-AAP--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>vyzvala</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0037-001-p1s40W28-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

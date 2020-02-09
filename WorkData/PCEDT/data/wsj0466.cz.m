@@ -708,14 +708,13 @@
 <w.rf>
 <LM>w#w-wsj0466-001-p1s3W1</LM>
 </w.rf>
-<form>PVýrobek</form>
-<tag lemma="PVýrobek" src="auto">X@-------------</tag>
+<form>Výrobek</form>
+<tag>
+<AM lemma="výrobek" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="výrobek" src="auto">NNIS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Výrobek</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0466-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7688,18 +7687,14 @@
 <w.rf>
 <LM>w#w-wsj0466-001-p1s28W19</LM>
 </w.rf>
-<form>za</form>
+<form>na</form>
 <tag>
-<AM lemma="za" src="auto" recommended="1">RR--2----------</AM>
-<AM lemma="za" src="auto">RR--4----------</AM>
-<AM lemma="za" src="auto">RR--7----------</AM>
-</tag>
+<AM lemma="na-1" src="auto">RR--4----------</AM>
+<AM lemma="na-1" src="auto" recommended="1">RR--6----------</AM>
+<AM lemma="na-2" src="auto">II-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>na</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0466-001-p1s28W20-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

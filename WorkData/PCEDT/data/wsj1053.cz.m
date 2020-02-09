@@ -746,14 +746,13 @@
 <w.rf>
 <LM>w#w-wsj1053-001-p1s2W15</LM>
 </w.rf>
-<form>někdo</form>
-<tag lemma="někdo" src="auto" recommended="1">PZM-1----------</tag>
+<form>někoho</form>
+<tag>
+<AM lemma="někdo" src="auto">PZM-2----------</AM>
+<AM lemma="někdo" src="auto" recommended="1">PZM-4----------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>někoho</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1053-001-p1s2W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -902,14 +901,12 @@
 <w.rf>
 <LM>w#w-wsj1053-001-p1s3W4</LM>
 </w.rf>
-<form>skočilo</form>
-<tag lemma="skočit" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<form>skončilo</form>
+<tag>
+<AM lemma="skončit" src="auto" recommended="1">VpNS---XR-AAP--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>skončilo</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1053-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

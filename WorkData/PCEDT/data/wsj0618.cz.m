@@ -2873,15 +2873,10 @@
 <w.rf>
 <LM>w#w-wsj0618-001-p1s8W16</LM>
 </w.rf>
-<form>15denní</form>
+<form>15</form>
 <tag>
-<AM lemma="15denní" src="auto">X@-------------</AM>
-<AM lemma="15denní" src="manual">AAFS2----1A----</AM>
-</tag>
+<AM lemma="15" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>15</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0618-001-p1s8W16-Ta-sw1">
@@ -2889,17 +2884,38 @@
 <w.rf>
 <LM>w#w-wsj0618-001-p1s8W16</LM>
 </w.rf>
-<form>15denní</form>
+<form>denní</form>
 <tag>
-<AM lemma="15denní" src="auto">X@-------------</AM>
-<AM lemma="15denní" src="manual">AAFS2----1A----</AM>
-</tag>
+<AM lemma="denní" src="auto">AAFP1----1A----</AM>
+<AM lemma="denní" src="auto">AAFP4----1A----</AM>
+<AM lemma="denní" src="auto">AAFP5----1A----</AM>
+<AM lemma="denní" src="auto">AAFS1----1A----</AM>
+<AM lemma="denní" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="denní" src="auto">AAFS3----1A----</AM>
+<AM lemma="denní" src="auto">AAFS4----1A----</AM>
+<AM lemma="denní" src="auto">AAFS5----1A----</AM>
+<AM lemma="denní" src="auto">AAFS6----1A----</AM>
+<AM lemma="denní" src="auto">AAFS7----1A----</AM>
+<AM lemma="denní" src="auto">AAIP1----1A----</AM>
+<AM lemma="denní" src="auto">AAIP4----1A----</AM>
+<AM lemma="denní" src="auto">AAIP5----1A----</AM>
+<AM lemma="denní" src="auto">AAIS1----1A----</AM>
+<AM lemma="denní" src="auto">AAIS4----1A----</AM>
+<AM lemma="denní" src="auto">AAIS5----1A----</AM>
+<AM lemma="denní" src="auto">AAMP1----1A----</AM>
+<AM lemma="denní" src="auto">AAMP4----1A----</AM>
+<AM lemma="denní" src="auto">AAMP5----1A----</AM>
+<AM lemma="denní" src="auto">AAMS1----1A----</AM>
+<AM lemma="denní" src="auto">AAMS5----1A----</AM>
+<AM lemma="denní" src="auto">AANP1----1A----</AM>
+<AM lemma="denní" src="auto">AANP4----1A----</AM>
+<AM lemma="denní" src="auto">AANP5----1A----</AM>
+<AM lemma="denní" src="auto">AANS1----1A----</AM>
+<AM lemma="denní" src="auto">AANS4----1A----</AM>
+<AM lemma="denní" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>denní</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0618-001-p1s8W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

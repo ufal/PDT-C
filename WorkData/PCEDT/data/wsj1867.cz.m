@@ -6098,16 +6098,12 @@
 <w.rf>
 <LM>w#w-wsj1867-001-p1s31W14</LM>
 </w.rf>
-<form>nabízeném</form>
+<form>nabízenému</form>
 <tag>
-<AM lemma="nabízený_^(*2t)" src="auto" recommended="1">AAIS6----1A----</AM>
-<AM lemma="nabízený_^(*2t)" src="auto">AAMS6----1A----</AM>
-<AM lemma="nabízený_^(*2t)" src="auto">AANS6----1A----</AM>
-</tag>
+<AM lemma="nabízený_^(*2t)" src="auto" recommended="1">AAIS3----1A----</AM>
+<AM lemma="nabízený_^(*2t)" src="auto">AAMS3----1A----</AM>
+<AM lemma="nabízený_^(*2t)" src="auto">AANS3----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>nabízenému</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1867-001-p1s31W15-Ta">
@@ -6339,18 +6335,14 @@
 <w.rf>
 <LM>w#w-wsj1867-001-p1s31W33</LM>
 </w.rf>
-<form>nabízeném</form>
+<form>nabízenému</form>
 <tag>
-<AM lemma="nabízený_^(*2t)" src="auto" recommended="1">AAIS6----1A----</AM>
-<AM lemma="nabízený_^(*2t)" src="auto">AAMS6----1A----</AM>
-<AM lemma="nabízený_^(*2t)" src="auto">AANS6----1A----</AM>
-</tag>
+<AM lemma="nabízený_^(*2t)" src="auto" recommended="1">AAIS3----1A----</AM>
+<AM lemma="nabízený_^(*2t)" src="auto">AAMS3----1A----</AM>
+<AM lemma="nabízený_^(*2t)" src="auto">AANS3----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>nabízenému</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1867-001-p1s31W34-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6729,25 +6721,38 @@
 <w.rf>
 <LM>w#w-wsj1867-001-p1s33W19</LM>
 </w.rf>
-<form>indikujícím</form>
+<form>indikující</form>
 <tag>
-<AM lemma="indikující_^(*5ovat)" src="auto" recommended="1">AGFP3-----A----</AM>
-<AM lemma="indikující_^(*5ovat)" src="auto">AGIP3-----A----</AM>
-<AM lemma="indikující_^(*5ovat)" src="auto">AGIS6-----A----</AM>
-<AM lemma="indikující_^(*5ovat)" src="auto">AGIS7-----A----</AM>
-<AM lemma="indikující_^(*5ovat)" src="auto">AGMP3-----A----</AM>
-<AM lemma="indikující_^(*5ovat)" src="auto">AGMS6-----A----</AM>
-<AM lemma="indikující_^(*5ovat)" src="auto">AGMS7-----A----</AM>
-<AM lemma="indikující_^(*5ovat)" src="auto">AGNP3-----A----</AM>
-<AM lemma="indikující_^(*5ovat)" src="auto">AGNS6-----A----</AM>
-<AM lemma="indikující_^(*5ovat)" src="auto">AGNS7-----A----</AM>
-</tag>
+<AM lemma="indikující_^(*5ovat)" src="auto">AGFP1-----A----</AM>
+<AM lemma="indikující_^(*5ovat)" src="auto">AGFP4-----A----</AM>
+<AM lemma="indikující_^(*5ovat)" src="auto">AGFP5-----A----</AM>
+<AM lemma="indikující_^(*5ovat)" src="auto">AGFS1-----A----</AM>
+<AM lemma="indikující_^(*5ovat)" src="auto">AGFS2-----A----</AM>
+<AM lemma="indikující_^(*5ovat)" src="auto">AGFS3-----A----</AM>
+<AM lemma="indikující_^(*5ovat)" src="auto" recommended="1">AGFS4-----A----</AM>
+<AM lemma="indikující_^(*5ovat)" src="auto">AGFS5-----A----</AM>
+<AM lemma="indikující_^(*5ovat)" src="auto">AGFS6-----A----</AM>
+<AM lemma="indikující_^(*5ovat)" src="auto">AGFS7-----A----</AM>
+<AM lemma="indikující_^(*5ovat)" src="auto">AGIP1-----A----</AM>
+<AM lemma="indikující_^(*5ovat)" src="auto">AGIP4-----A----</AM>
+<AM lemma="indikující_^(*5ovat)" src="auto">AGIP5-----A----</AM>
+<AM lemma="indikující_^(*5ovat)" src="auto">AGIS1-----A----</AM>
+<AM lemma="indikující_^(*5ovat)" src="auto">AGIS4-----A----</AM>
+<AM lemma="indikující_^(*5ovat)" src="auto">AGIS5-----A----</AM>
+<AM lemma="indikující_^(*5ovat)" src="auto">AGMP1-----A----</AM>
+<AM lemma="indikující_^(*5ovat)" src="auto">AGMP4-----A----</AM>
+<AM lemma="indikující_^(*5ovat)" src="auto">AGMP5-----A----</AM>
+<AM lemma="indikující_^(*5ovat)" src="auto">AGMS1-----A----</AM>
+<AM lemma="indikující_^(*5ovat)" src="auto">AGMS5-----A----</AM>
+<AM lemma="indikující_^(*5ovat)" src="auto">AGNP1-----A----</AM>
+<AM lemma="indikující_^(*5ovat)" src="auto">AGNP4-----A----</AM>
+<AM lemma="indikující_^(*5ovat)" src="auto">AGNP5-----A----</AM>
+<AM lemma="indikující_^(*5ovat)" src="auto">AGNS1-----A----</AM>
+<AM lemma="indikující_^(*5ovat)" src="auto">AGNS4-----A----</AM>
+<AM lemma="indikující_^(*5ovat)" src="auto">AGNS5-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>indikující</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1867-001-p1s33W20-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

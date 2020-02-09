@@ -1027,42 +1027,15 @@
 <w.rf>
 <LM>w#w-wsj1788-001-p1s2W19</LM>
 </w.rf>
-<form>sněmovní</form>
+<form>sněmovního</form>
 <tag>
-<AM lemma="sněmovní" src="auto">AAFP1----1A----</AM>
-<AM lemma="sněmovní" src="auto">AAFP4----1A----</AM>
-<AM lemma="sněmovní" src="auto">AAFP5----1A----</AM>
-<AM lemma="sněmovní" src="auto">AAFS1----1A----</AM>
-<AM lemma="sněmovní" src="auto">AAFS2----1A----</AM>
-<AM lemma="sněmovní" src="auto">AAFS3----1A----</AM>
-<AM lemma="sněmovní" src="auto">AAFS4----1A----</AM>
-<AM lemma="sněmovní" src="auto">AAFS5----1A----</AM>
-<AM lemma="sněmovní" src="auto">AAFS6----1A----</AM>
-<AM lemma="sněmovní" src="auto">AAFS7----1A----</AM>
-<AM lemma="sněmovní" src="auto">AAIP1----1A----</AM>
-<AM lemma="sněmovní" src="auto">AAIP4----1A----</AM>
-<AM lemma="sněmovní" src="auto">AAIP5----1A----</AM>
-<AM lemma="sněmovní" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="sněmovní" src="auto">AAIS4----1A----</AM>
-<AM lemma="sněmovní" src="auto">AAIS5----1A----</AM>
-<AM lemma="sněmovní" src="auto">AAMP1----1A----</AM>
-<AM lemma="sněmovní" src="auto">AAMP4----1A----</AM>
-<AM lemma="sněmovní" src="auto">AAMP5----1A----</AM>
-<AM lemma="sněmovní" src="auto">AAMS1----1A----</AM>
-<AM lemma="sněmovní" src="auto">AAMS5----1A----</AM>
-<AM lemma="sněmovní" src="auto">AANP1----1A----</AM>
-<AM lemma="sněmovní" src="auto">AANP4----1A----</AM>
-<AM lemma="sněmovní" src="auto">AANP5----1A----</AM>
-<AM lemma="sněmovní" src="auto">AANS1----1A----</AM>
-<AM lemma="sněmovní" src="auto">AANS4----1A----</AM>
-<AM lemma="sněmovní" src="auto">AANS5----1A----</AM>
-</tag>
+<AM lemma="sněmovní" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="sněmovní" src="auto">AAMS2----1A----</AM>
+<AM lemma="sněmovní" src="auto">AAMS4----1A----</AM>
+<AM lemma="sněmovní" src="auto">AANS2----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>sněmovního</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1788-001-p1s2W20-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

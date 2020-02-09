@@ -4957,14 +4957,13 @@
 <w.rf>
 <LM>w#w-wsj1125-001-p1s18W18</LM>
 </w.rf>
-<form>jednám</form>
-<tag lemma="jednat" src="auto" recommended="1">VB-S---1P-AAI--</tag>
+<form>jednáním</form>
+<tag>
+<AM lemma="jednání_^(*3at)" src="auto">NNNP3-----A----</AM>
+<AM lemma="jednání_^(*3at)" src="auto" recommended="1">NNNS7-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>jednáním</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1125-001-p1s18W19-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7007,14 +7006,13 @@
 <w.rf>
 <LM>w#w-wsj1125-001-p1s23W23</LM>
 </w.rf>
-<form>´Vezměte</form>
-<tag lemma="´Vezměte" src="auto">X@-------------</tag>
+<form>Vezměte</form>
+<tag>
+<AM lemma="vzít" src="auto" recommended="1">Vi-P---2--A-P--</AM>
+<AM lemma="vzít" src="auto">Vi-P---3--A-P-4</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Vezměte</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1125-001-p1s23W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -28451,15 +28451,10 @@
 <w.rf>
 <LM>w#w-wsj1915-001-p1s74W24</LM>
 </w.rf>
-<form>28podlažní</form>
+<form>28</form>
 <tag>
-<AM lemma="28podlažní" src="auto">X@-------------</AM>
-<AM lemma="28podlažní" src="manual">AAFS6----1A----</AM>
-</tag>
+<AM lemma="28" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>28</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1915-001-p1s74W24-Ta-sw1">
@@ -28467,17 +28462,38 @@
 <w.rf>
 <LM>w#w-wsj1915-001-p1s74W24</LM>
 </w.rf>
-<form>28podlažní</form>
+<form>podlažní</form>
 <tag>
-<AM lemma="28podlažní" src="auto">X@-------------</AM>
-<AM lemma="28podlažní" src="manual">AAFS6----1A----</AM>
-</tag>
+<AM lemma="podlažní" src="auto">AAFP1----1A----</AM>
+<AM lemma="podlažní" src="auto">AAFP4----1A----</AM>
+<AM lemma="podlažní" src="auto">AAFP5----1A----</AM>
+<AM lemma="podlažní" src="auto">AAFS1----1A----</AM>
+<AM lemma="podlažní" src="auto">AAFS2----1A----</AM>
+<AM lemma="podlažní" src="auto">AAFS3----1A----</AM>
+<AM lemma="podlažní" src="auto">AAFS4----1A----</AM>
+<AM lemma="podlažní" src="auto">AAFS5----1A----</AM>
+<AM lemma="podlažní" src="auto" recommended="1">AAFS6----1A----</AM>
+<AM lemma="podlažní" src="auto">AAFS7----1A----</AM>
+<AM lemma="podlažní" src="auto">AAIP1----1A----</AM>
+<AM lemma="podlažní" src="auto">AAIP4----1A----</AM>
+<AM lemma="podlažní" src="auto">AAIP5----1A----</AM>
+<AM lemma="podlažní" src="auto">AAIS1----1A----</AM>
+<AM lemma="podlažní" src="auto">AAIS4----1A----</AM>
+<AM lemma="podlažní" src="auto">AAIS5----1A----</AM>
+<AM lemma="podlažní" src="auto">AAMP1----1A----</AM>
+<AM lemma="podlažní" src="auto">AAMP4----1A----</AM>
+<AM lemma="podlažní" src="auto">AAMP5----1A----</AM>
+<AM lemma="podlažní" src="auto">AAMS1----1A----</AM>
+<AM lemma="podlažní" src="auto">AAMS5----1A----</AM>
+<AM lemma="podlažní" src="auto">AANP1----1A----</AM>
+<AM lemma="podlažní" src="auto">AANP4----1A----</AM>
+<AM lemma="podlažní" src="auto">AANP5----1A----</AM>
+<AM lemma="podlažní" src="auto">AANS1----1A----</AM>
+<AM lemma="podlažní" src="auto">AANS4----1A----</AM>
+<AM lemma="podlažní" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>podlažní</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1915-001-p1s74W25-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -39506,31 +39522,27 @@
 <w.rf>
 <LM>w#w-wsj1915-001-p1s97W21</LM>
 </w.rf>
-<form>učité</form>
+<form>určité</form>
 <tag>
-<AM lemma="učitý_,a_^(*3ít)" src="auto">AAFP1----1A----</AM>
-<AM lemma="učitý_,a_^(*3ít)" src="auto" recommended="1">AAFP4----1A----</AM>
-<AM lemma="učitý_,a_^(*3ít)" src="auto">AAFP5----1A----</AM>
-<AM lemma="učitý_,a_^(*3ít)" src="auto">AAFS2----1A----</AM>
-<AM lemma="učitý_,a_^(*3ít)" src="auto">AAFS3----1A----</AM>
-<AM lemma="učitý_,a_^(*3ít)" src="auto">AAFS6----1A----</AM>
-<AM lemma="učitý_,a_^(*3ít)" src="auto">AAIP1----1A----</AM>
-<AM lemma="učitý_,a_^(*3ít)" src="auto">AAIP4----1A----</AM>
-<AM lemma="učitý_,a_^(*3ít)" src="auto">AAIP5----1A----</AM>
-<AM lemma="učitý_,a_^(*3ít)" src="auto">AAMP4----1A----</AM>
-<AM lemma="učitý_,a_^(*3ít)" src="auto">AANP1----1A---6</AM>
-<AM lemma="učitý_,a_^(*3ít)" src="auto">AANP4----1A---6</AM>
-<AM lemma="učitý_,a_^(*3ít)" src="auto">AANP5----1A---6</AM>
-<AM lemma="učitý_,a_^(*3ít)" src="auto">AANS1----1A----</AM>
-<AM lemma="učitý_,a_^(*3ít)" src="auto">AANS4----1A----</AM>
-<AM lemma="učitý_,a_^(*3ít)" src="auto">AANS5----1A----</AM>
-</tag>
+<AM lemma="určitý" src="auto">AAFP1----1A----</AM>
+<AM lemma="určitý" src="auto" recommended="1">AAFP4----1A----</AM>
+<AM lemma="určitý" src="auto">AAFP5----1A----</AM>
+<AM lemma="určitý" src="auto">AAFS2----1A----</AM>
+<AM lemma="určitý" src="auto">AAFS3----1A----</AM>
+<AM lemma="určitý" src="auto">AAFS6----1A----</AM>
+<AM lemma="určitý" src="auto">AAIP1----1A----</AM>
+<AM lemma="určitý" src="auto">AAIP4----1A----</AM>
+<AM lemma="určitý" src="auto">AAIP5----1A----</AM>
+<AM lemma="určitý" src="auto">AAMP4----1A----</AM>
+<AM lemma="určitý" src="auto">AANP1----1A---6</AM>
+<AM lemma="určitý" src="auto">AANP4----1A---6</AM>
+<AM lemma="určitý" src="auto">AANP5----1A---6</AM>
+<AM lemma="určitý" src="auto">AANS1----1A----</AM>
+<AM lemma="určitý" src="auto">AANS4----1A----</AM>
+<AM lemma="určitý" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>určité</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1915-001-p1s97W22-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

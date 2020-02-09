@@ -1894,23 +1894,14 @@
 <w.rf>
 <LM>w#w-wsj0291-001-p1s3W42</LM>
 </w.rf>
-<form>pomoci</form>
+<form>pomocí</form>
 <tag>
-<AM lemma="pomoci" src="auto" recommended="1">Vf--------A-P-1</AM>
-<AM lemma="pomoc" src="auto">NNFP1-----A----</AM>
-<AM lemma="pomoc" src="auto">NNFP4-----A----</AM>
-<AM lemma="pomoc" src="auto">NNFP5-----A----</AM>
-<AM lemma="pomoc" src="auto">NNFS2-----A----</AM>
-<AM lemma="pomoc" src="auto">NNFS3-----A----</AM>
-<AM lemma="pomoc" src="auto">NNFS5-----A----</AM>
-<AM lemma="pomoc" src="auto">NNFS6-----A----</AM>
-</tag>
+<AM lemma="pomoc" src="auto">NNFP2-----A----</AM>
+<AM lemma="pomoc" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="pomocí" src="auto">RR--2----------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>pomocí</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0291-001-p1s3W43-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -1573,19 +1573,12 @@
 <w.rf>
 <LM>w#w-wsj1980-001-p1s4W33</LM>
 </w.rf>
-<form>Prospekt</form>
+<form>Prospect</form>
 <tag>
-<AM lemma="Prospekta_;K" src="auto">NNFP2-----A----</AM>
-<AM lemma="prospekt" src="auto">NNIS1-----A----</AM>
-<AM lemma="prospekt" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="Prospekt_;K" src="manual">NNIS1-----A----</AM>
-</tag>
+<AM lemma="Prospect" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Prospect</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1980-001-p1s4W34-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4295,15 +4288,10 @@
 <w.rf>
 <LM>w#w-wsj1980-001-p1s12W26</LM>
 </w.rf>
-<form>24měsíční</form>
+<form>24</form>
 <tag>
-<AM lemma="24měsíční" src="auto">X@-------------</AM>
-<AM lemma="24měsíční" src="manual">AAFS4----1A----</AM>
-</tag>
+<AM lemma="24" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>24</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1980-001-p1s12W26-Ta-sw1">
@@ -4311,17 +4299,40 @@
 <w.rf>
 <LM>w#w-wsj1980-001-p1s12W26</LM>
 </w.rf>
-<form>24měsíční</form>
+<form>měsíční</form>
 <tag>
-<AM lemma="24měsíční" src="auto">X@-------------</AM>
-<AM lemma="24měsíční" src="manual">AAFS4----1A----</AM>
-</tag>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFP1----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFP4----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFP5----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS1----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS2----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS3----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS5----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS6----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS7----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIP1----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIP4----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIP5----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIS1----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIS4----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAIS5----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAMP1----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAMP4----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAMP5----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAMS1----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAMS5----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AANP1----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AANP4----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AANP5----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AANS1----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AANS4----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto">AANS5----1A----</AM>
+<AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP1----1A----</AM>
+<AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>měsíční</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1980-001-p1s12W27-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4496,14 +4507,12 @@
 <w.rf>
 <LM>w#w-wsj1980-001-p1s13W4</LM>
 </w.rf>
-<form>Recogniton</form>
-<tag lemma="Recogniton" src="auto">X@-------------</tag>
+<form>Recognition</form>
+<tag>
+<AM lemma="Recognition" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Recognition</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1980-001-p1s13W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5753,15 +5762,10 @@
 <w.rf>
 <LM>w#w-wsj1980-001-p1s15W24</LM>
 </w.rf>
-<form>400milionové</form>
+<form>400</form>
 <tag>
-<AM lemma="400milionové" src="auto">X@-------------</AM>
-<AM lemma="400milionový_,s_^(^DD**400miliónový)" src="manual">AAIP4----1A----</AM>
-</tag>
+<AM lemma="400" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>400</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1980-001-p1s15W24-Ta-sw1">
@@ -5769,17 +5773,27 @@
 <w.rf>
 <LM>w#w-wsj1980-001-p1s15W24</LM>
 </w.rf>
-<form>400milionové</form>
+<form>milionové</form>
 <tag>
-<AM lemma="400milionové" src="auto">X@-------------</AM>
-<AM lemma="400milionový_,s_^(^DD**400miliónový)" src="manual">AAIP4----1A----</AM>
-</tag>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AAFP1----1A----</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AAFP4----1A----</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AAFP5----1A----</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AAFS2----1A----</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AAFS3----1A----</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AAFS6----1A----</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AAIP1----1A----</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto" recommended="1">AAIP4----1A----</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AAIP5----1A----</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AAMP4----1A----</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AANP1----1A---6</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AANP4----1A---6</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AANP5----1A---6</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AANS1----1A----</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AANS4----1A----</AM>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>milionové</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1980-001-p1s15W25-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

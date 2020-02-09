@@ -660,16 +660,10 @@
 <w.rf>
 <LM>w#w-wsj1455-001-p1s4W2</LM>
 </w.rf>
-<form>38letém</form>
+<form>38</form>
 <tag>
-<AM lemma="38letý" src="auto">AAIS6----1A----</AM>
-<AM lemma="38letý" src="auto" recommended="1">AAMS6----1A----</AM>
-<AM lemma="38letý" src="auto">AANS6----1A----</AM>
-</tag>
+<AM lemma="38" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>38</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1455-001-p1s4W2-Ta-sw1">
@@ -677,18 +671,14 @@
 <w.rf>
 <LM>w#w-wsj1455-001-p1s4W2</LM>
 </w.rf>
-<form>38letém</form>
+<form>letém</form>
 <tag>
-<AM lemma="38letý" src="auto">AAIS6----1A----</AM>
-<AM lemma="38letý" src="auto" recommended="1">AAMS6----1A----</AM>
-<AM lemma="38letý" src="auto">AANS6----1A----</AM>
-</tag>
+<AM lemma="letý" src="auto">AAIS6----1A----</AM>
+<AM lemma="letý" src="auto" recommended="1">AAMS6----1A----</AM>
+<AM lemma="letý" src="auto">AANS6----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>letém</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1455-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4198,15 +4188,10 @@
 <w.rf>
 <LM>w#w-wsj1455-001-p1s18W8</LM>
 </w.rf>
-<form>20patrová</form>
+<form>20</form>
 <tag>
-<AM lemma="20patrová" src="auto">X@-------------</AM>
-<AM lemma="20patrový" src="manual">AAFS1----1A----</AM>
-</tag>
+<AM lemma="20" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>20</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1455-001-p1s18W8-Ta-sw1">
@@ -4214,17 +4199,16 @@
 <w.rf>
 <LM>w#w-wsj1455-001-p1s18W8</LM>
 </w.rf>
-<form>20patrová</form>
+<form>patrová</form>
 <tag>
-<AM lemma="20patrová" src="auto">X@-------------</AM>
-<AM lemma="20patrový" src="manual">AAFS1----1A----</AM>
-</tag>
+<AM lemma="patrový" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="patrový" src="auto">AAFS5----1A----</AM>
+<AM lemma="patrový" src="auto">AANP1----1A----</AM>
+<AM lemma="patrový" src="auto">AANP4----1A----</AM>
+<AM lemma="patrový" src="auto">AANP5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>patrová</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1455-001-p1s18W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

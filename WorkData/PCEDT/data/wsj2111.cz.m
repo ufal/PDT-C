@@ -2112,14 +2112,14 @@
 <w.rf>
 <LM>w#w-wsj2111-001-p1s9W3</LM>
 </w.rf>
-<form>Luisville</form>
-<tag lemma="Luisville" src="auto">X@-------------</tag>
+<form>Louisville</form>
+<tag>
+<AM lemma="Louisville_;G" src="auto">NNIS1-----A----</AM>
+<AM lemma="Louisville_;G" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Louisville_;G" src="auto">NNIS5-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Louisville</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2111-001-p1s9W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

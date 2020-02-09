@@ -525,17 +525,12 @@
 <w.rf>
 <LM>w#w-wsj0522-001-p1s2W1</LM>
 </w.rf>
-<form>Sezóně</form>
+<form>Sezónně</form>
 <tag>
-<AM lemma="sezóna" src="auto" recommended="1">NNFS3-----A----</AM>
-<AM lemma="sezóna" src="auto">NNFS6-----A----</AM>
-</tag>
+<AM lemma="sezónně_^(*1í)" src="auto" recommended="1">Dg-------1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Sezónně</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0522-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

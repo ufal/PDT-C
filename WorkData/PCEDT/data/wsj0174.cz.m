@@ -2000,14 +2000,13 @@
 <w.rf>
 <LM>w#w-wsj0174-001-p1s7W7</LM>
 </w.rf>
-<form>Moskě</form>
-<tag lemma="Moskě" src="auto">X@-------------</tag>
+<form>Moskvě</form>
+<tag>
+<AM lemma="Moskva_;G" src="auto">NNFS3-----A----</AM>
+<AM lemma="Moskva_;G" src="auto" recommended="1">NNFS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Moskvě</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0174-001-p1s7W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2684,14 +2683,12 @@
 <w.rf>
 <LM>w#w-wsj0174-001-p1s10W4</LM>
 </w.rf>
-<form>funkionář</form>
-<tag lemma="funkionář" src="auto">X@-------------</tag>
+<form>funkcionář</form>
+<tag>
+<AM lemma="funkcionář" src="auto" recommended="1">NNMS1-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>funkcionář</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0174-001-p1s10W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3378,14 +3375,20 @@
 <w.rf>
 <LM>w#w-wsj0174-001-p1s13W16</LM>
 </w.rf>
-<form>Alzheimrova</form>
-<tag lemma="Alzheimrova" src="auto">X@-------------</tag>
+<form>Alzheimerova</form>
+<tag>
+<AM lemma="Alzheimerův_;S_^(*2)" src="auto" recommended="1">AUFS1M---------</AM>
+<AM lemma="Alzheimerův_;S_^(*2)" src="auto">AUFS5M---------</AM>
+<AM lemma="Alzheimerův_;S_^(*2)" src="auto">AUIS2M---------</AM>
+<AM lemma="Alzheimerův_;S_^(*2)" src="auto">AUMS2M---------</AM>
+<AM lemma="Alzheimerův_;S_^(*2)" src="auto">AUMS4M---------</AM>
+<AM lemma="Alzheimerův_;S_^(*2)" src="auto">AUNP1M---------</AM>
+<AM lemma="Alzheimerův_;S_^(*2)" src="auto">AUNP4M---------</AM>
+<AM lemma="Alzheimerův_;S_^(*2)" src="auto">AUNP5M---------</AM>
+<AM lemma="Alzheimerův_;S_^(*2)" src="auto">AUNS2M---------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Alzheimerova</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0174-001-p1s13W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3512,12 +3515,12 @@
 <w.rf>
 <LM>w#w-wsj0174-001-p1s14W4</LM>
 </w.rf>
-<form>Michinganu</form>
-<tag lemma="Michinganu" src="auto">X@-------------</tag>
+<form>Michiganu</form>
+<tag>
+<AM lemma="Michigan_;G" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="Michigan_;G" src="auto">NNIS3-----A----</AM>
+<AM lemma="Michigan_;G" src="auto">NNIS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Michiganu</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0174-001-p1s14W5-Ta">
@@ -3571,14 +3574,20 @@
 <w.rf>
 <LM>w#w-wsj0174-001-p1s14W10</LM>
 </w.rf>
-<form>kteý</form>
-<tag lemma="kteý" src="auto">X@-------------</tag>
+<form>který</form>
+<tag>
+<AM lemma="který" src="auto">P4FS2---------6</AM>
+<AM lemma="který" src="auto">P4FS3---------6</AM>
+<AM lemma="který" src="auto">P4FS6---------6</AM>
+<AM lemma="který" src="auto">P4IS4----------</AM>
+<AM lemma="který" src="auto">P4NS1---------6</AM>
+<AM lemma="který" src="auto">P4NS4---------6</AM>
+<AM lemma="který" src="auto">P4XP1---------6</AM>
+<AM lemma="který" src="auto">P4XP4---------6</AM>
+<AM lemma="který" src="auto" recommended="1">P4YS1----------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>který</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0174-001-p1s14W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7784,15 +7793,10 @@
 <w.rf>
 <LM>w#w-wsj0174-001-p1s28W16</LM>
 </w.rf>
-<form>237členném</form>
+<form>237</form>
 <tag>
-<AM lemma="237členném" src="auto">X@-------------</AM>
-<AM lemma="237členný" src="manual">AANS6----1A----</AM>
-</tag>
+<AM lemma="237" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>237</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0174-001-p1s28W16-Ta-sw1">
@@ -7800,17 +7804,14 @@
 <w.rf>
 <LM>w#w-wsj0174-001-p1s28W16</LM>
 </w.rf>
-<form>237členném</form>
+<form>členném</form>
 <tag>
-<AM lemma="237členném" src="auto">X@-------------</AM>
-<AM lemma="237členný" src="manual">AANS6----1A----</AM>
-</tag>
+<AM lemma="členný" src="auto">AAIS6----1A----</AM>
+<AM lemma="členný" src="auto">AAMS6----1A----</AM>
+<AM lemma="členný" src="auto" recommended="1">AANS6----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>členném</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0174-001-p1s28W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

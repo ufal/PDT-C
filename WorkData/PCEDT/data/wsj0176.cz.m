@@ -512,14 +512,21 @@
 <w.rf>
 <LM>w#w-wsj0176-001-p1s1W19</LM>
 </w.rf>
-<form>snížování</form>
-<tag lemma="snížování" src="auto">X@-------------</tag>
+<form>snižování</form>
+<tag>
+<AM lemma="snižování_^(*3at)" src="auto">NNNP1-----A----</AM>
+<AM lemma="snižování_^(*3at)" src="auto">NNNP2-----A----</AM>
+<AM lemma="snižování_^(*3at)" src="auto">NNNP4-----A----</AM>
+<AM lemma="snižování_^(*3at)" src="auto">NNNP5-----A----</AM>
+<AM lemma="snižování_^(*3at)" src="auto">NNNS1-----A----</AM>
+<AM lemma="snižování_^(*3at)" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="snižování_^(*3at)" src="auto">NNNS3-----A----</AM>
+<AM lemma="snižování_^(*3at)" src="auto">NNNS4-----A----</AM>
+<AM lemma="snižování_^(*3at)" src="auto">NNNS5-----A----</AM>
+<AM lemma="snižování_^(*3at)" src="auto">NNNS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>snižování</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0176-001-p1s1W20-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

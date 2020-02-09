@@ -6165,25 +6165,38 @@
 <w.rf>
 <LM>w#w-wsj1635-001-p1s30W11</LM>
 </w.rf>
-<form>minimálním</form>
+<form>minimální</form>
 <tag>
-<AM lemma="minimální" src="auto">AAFP3----1A----</AM>
-<AM lemma="minimální" src="auto">AAIP3----1A----</AM>
-<AM lemma="minimální" src="auto">AAIS6----1A----</AM>
-<AM lemma="minimální" src="auto">AAIS7----1A----</AM>
-<AM lemma="minimální" src="auto">AAMP3----1A----</AM>
-<AM lemma="minimální" src="auto">AAMS6----1A----</AM>
-<AM lemma="minimální" src="auto">AAMS7----1A----</AM>
-<AM lemma="minimální" src="auto">AANP3----1A----</AM>
-<AM lemma="minimální" src="auto">AANS6----1A----</AM>
-<AM lemma="minimální" src="auto" recommended="1">AANS7----1A----</AM>
-</tag>
+<AM lemma="minimální" src="auto">AAFP1----1A----</AM>
+<AM lemma="minimální" src="auto">AAFP4----1A----</AM>
+<AM lemma="minimální" src="auto">AAFP5----1A----</AM>
+<AM lemma="minimální" src="auto">AAFS1----1A----</AM>
+<AM lemma="minimální" src="auto">AAFS2----1A----</AM>
+<AM lemma="minimální" src="auto">AAFS3----1A----</AM>
+<AM lemma="minimální" src="auto">AAFS4----1A----</AM>
+<AM lemma="minimální" src="auto">AAFS5----1A----</AM>
+<AM lemma="minimální" src="auto">AAFS6----1A----</AM>
+<AM lemma="minimální" src="auto" recommended="1">AAFS7----1A----</AM>
+<AM lemma="minimální" src="auto">AAIP1----1A----</AM>
+<AM lemma="minimální" src="auto">AAIP4----1A----</AM>
+<AM lemma="minimální" src="auto">AAIP5----1A----</AM>
+<AM lemma="minimální" src="auto">AAIS1----1A----</AM>
+<AM lemma="minimální" src="auto">AAIS4----1A----</AM>
+<AM lemma="minimální" src="auto">AAIS5----1A----</AM>
+<AM lemma="minimální" src="auto">AAMP1----1A----</AM>
+<AM lemma="minimální" src="auto">AAMP4----1A----</AM>
+<AM lemma="minimální" src="auto">AAMP5----1A----</AM>
+<AM lemma="minimální" src="auto">AAMS1----1A----</AM>
+<AM lemma="minimální" src="auto">AAMS5----1A----</AM>
+<AM lemma="minimální" src="auto">AANP1----1A----</AM>
+<AM lemma="minimální" src="auto">AANP4----1A----</AM>
+<AM lemma="minimální" src="auto">AANP5----1A----</AM>
+<AM lemma="minimální" src="auto">AANS1----1A----</AM>
+<AM lemma="minimální" src="auto">AANS4----1A----</AM>
+<AM lemma="minimální" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>minimální</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1635-001-p1s30W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

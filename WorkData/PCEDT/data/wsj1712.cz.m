@@ -987,18 +987,12 @@
 <w.rf>
 <LM>w#w-wsj1712-001-p1s2W20</LM>
 </w.rf>
-<form>je</form>
+<form>jsou</form>
 <tag>
-<AM lemma="být" src="auto" recommended="1">VB-S---3P-AAI--</AM>
-<AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
-<AM lemma="on-1_^(oni/ono)" src="auto">PPXP4--3-------</AM>
-</tag>
+<AM lemma="být" src="auto" recommended="1">VB-P---3P-AAI--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>jsou</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1712-001-p1s2W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

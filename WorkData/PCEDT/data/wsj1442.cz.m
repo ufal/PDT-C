@@ -13891,19 +13891,21 @@
 <w.rf>
 <LM>w#w-wsj1442-001-p1s41W16</LM>
 </w.rf>
-<form>spojenými</form>
+<form>spojeným</form>
 <tag>
-<AM lemma="spojený_^(*3it)" src="auto">AAFP7----1A----</AM>
-<AM lemma="spojený_^(*3it)" src="auto" recommended="1">AAIP7----1A----</AM>
-<AM lemma="spojený_^(*3it)" src="auto">AAMP7----1A----</AM>
-<AM lemma="spojený_^(*3it)" src="auto">AANP7----1A----</AM>
-</tag>
+<AM lemma="spojený_^(*3it)" src="auto" recommended="1">AAFP3----1A----</AM>
+<AM lemma="spojený_^(*3it)" src="auto">AAIP3----1A----</AM>
+<AM lemma="spojený_^(*3it)" src="auto">AAIS6----1A---7</AM>
+<AM lemma="spojený_^(*3it)" src="auto">AAIS7----1A----</AM>
+<AM lemma="spojený_^(*3it)" src="auto">AAMP3----1A----</AM>
+<AM lemma="spojený_^(*3it)" src="auto">AAMS6----1A---7</AM>
+<AM lemma="spojený_^(*3it)" src="auto">AAMS7----1A----</AM>
+<AM lemma="spojený_^(*3it)" src="auto">AANP3----1A----</AM>
+<AM lemma="spojený_^(*3it)" src="auto">AANS6----1A---7</AM>
+<AM lemma="spojený_^(*3it)" src="auto">AANS7----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>spojeným</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1442-001-p1s41W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

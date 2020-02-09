@@ -4984,17 +4984,12 @@
 <w.rf>
 <LM>w#w-wsj0532-001-p1s17W17</LM>
 </w.rf>
-<form>Tankerem</form>
+<form>Tinkerem</form>
 <tag>
-<AM lemma="tanker" src="auto" recommended="1">NNIS7-----A----</AM>
-<AM lemma="Tanker_;S" src="manual">NNMS7-----A----</AM>
-</tag>
+<AM lemma="Tinkerem" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Tinkerem</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0532-001-p1s17W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5453,23 +5448,34 @@
 <w.rf>
 <LM>w#w-wsj0532-001-p1s19W21</LM>
 </w.rf>
-<form>získaných</form>
+<form>získaný</form>
 <tag>
-<AM lemma="získaný_^(*2t)" src="auto" recommended="1">AAFP2----1A----</AM>
-<AM lemma="získaný_^(*2t)" src="auto">AAFP6----1A----</AM>
-<AM lemma="získaný_^(*2t)" src="auto">AAIP2----1A----</AM>
-<AM lemma="získaný_^(*2t)" src="auto">AAIP6----1A----</AM>
-<AM lemma="získaný_^(*2t)" src="auto">AAMP2----1A----</AM>
-<AM lemma="získaný_^(*2t)" src="auto">AAMP6----1A----</AM>
-<AM lemma="získaný_^(*2t)" src="auto">AANP2----1A----</AM>
-<AM lemma="získaný_^(*2t)" src="auto">AANP6----1A----</AM>
-</tag>
+<AM lemma="získaný_^(*2t)" src="auto">AAFP1----1A---6</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AAFP4----1A---6</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AAFP5----1A---6</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AAFS2----1A---6</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AAFS3----1A---6</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AAFS6----1A---6</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AAIP1----1A---6</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AAIP4----1A---6</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AAIP5----1A---6</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AAIS1----1A----</AM>
+<AM lemma="získaný_^(*2t)" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AAIS5----1A----</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AAMP1----1A---6</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AAMP4----1A---6</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AAMP5----1A---6</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AAMS1----1A----</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AAMS5----1A----</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AANP1----1A---6</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AANP4----1A---6</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AANP5----1A---6</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AANS1----1A---6</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AANS4----1A---6</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AANS5----1A---6</AM></tag>
 <comment>
-<LM type="New Form">
-<text>získaný</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0532-001-p1s19W22-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

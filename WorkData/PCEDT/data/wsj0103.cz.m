@@ -1150,14 +1150,15 @@
 <w.rf>
 <LM>w#w-wsj0103-001-p1s2W19</LM>
 </w.rf>
-<form>ochranu</form>
-<tag lemma="ochrana" src="auto" recommended="1">NNFS4-----A----</tag>
+<form>ochrany</form>
+<tag>
+<AM lemma="ochrana" src="auto">NNFP1-----A----</AM>
+<AM lemma="ochrana" src="auto">NNFP4-----A----</AM>
+<AM lemma="ochrana" src="auto">NNFP5-----A----</AM>
+<AM lemma="ochrana" src="auto" recommended="1">NNFS2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>ochrany</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0103-001-p1s2W20-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1968,14 +1969,12 @@
 <w.rf>
 <LM>w#w-wsj0103-001-p1s4W22</LM>
 </w.rf>
-<form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<form>byla</form>
+<tag>
+<AM lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>byla</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0103-001-p1s4W23-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

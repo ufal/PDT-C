@@ -1176,17 +1176,13 @@
 <w.rf>
 <LM>w#w-wsj1696-001-p1s2W4</LM>
 </w.rf>
-<form>opouští</form>
+<form>upouští</form>
 <tag>
-<AM lemma="opouštět" src="auto">VB-P---3P-AAI-1</AM>
-<AM lemma="opouštět" src="auto" recommended="1">VB-S---3P-AAI--</AM>
-</tag>
+<AM lemma="upouštět" src="auto">VB-P---3P-AAI-1</AM>
+<AM lemma="upouštět" src="auto" recommended="1">VB-S---3P-AAI--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>upouští</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1696-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5661,42 +5657,14 @@
 <w.rf>
 <LM>w#w-wsj1696-001-p1s12W17</LM>
 </w.rf>
-<form>Federální</form>
+<form>Federálnímu</form>
 <tag>
-<AM lemma="federální" src="auto">AAFP1----1A----</AM>
-<AM lemma="federální" src="auto">AAFP4----1A----</AM>
-<AM lemma="federální" src="auto">AAFP5----1A----</AM>
-<AM lemma="federální" src="auto">AAFS1----1A----</AM>
-<AM lemma="federální" src="auto">AAFS2----1A----</AM>
-<AM lemma="federální" src="auto">AAFS3----1A----</AM>
-<AM lemma="federální" src="auto">AAFS4----1A----</AM>
-<AM lemma="federální" src="auto">AAFS5----1A----</AM>
-<AM lemma="federální" src="auto">AAFS6----1A----</AM>
-<AM lemma="federální" src="auto">AAFS7----1A----</AM>
-<AM lemma="federální" src="auto">AAIP1----1A----</AM>
-<AM lemma="federální" src="auto">AAIP4----1A----</AM>
-<AM lemma="federální" src="auto">AAIP5----1A----</AM>
-<AM lemma="federální" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="federální" src="auto">AAIS4----1A----</AM>
-<AM lemma="federální" src="auto">AAIS5----1A----</AM>
-<AM lemma="federální" src="auto">AAMP1----1A----</AM>
-<AM lemma="federální" src="auto">AAMP4----1A----</AM>
-<AM lemma="federální" src="auto">AAMP5----1A----</AM>
-<AM lemma="federální" src="auto">AAMS1----1A----</AM>
-<AM lemma="federální" src="auto">AAMS5----1A----</AM>
-<AM lemma="federální" src="auto">AANP1----1A----</AM>
-<AM lemma="federální" src="auto">AANP4----1A----</AM>
-<AM lemma="federální" src="auto">AANP5----1A----</AM>
-<AM lemma="federální" src="auto">AANS1----1A----</AM>
-<AM lemma="federální" src="auto">AANS4----1A----</AM>
-<AM lemma="federální" src="auto">AANS5----1A----</AM>
-</tag>
+<AM lemma="federální" src="auto" recommended="1">AAIS3----1A----</AM>
+<AM lemma="federální" src="auto">AAMS3----1A----</AM>
+<AM lemma="federální" src="auto">AANS3----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Federálnímu</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1696-001-p1s12W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

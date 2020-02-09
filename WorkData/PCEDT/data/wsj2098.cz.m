@@ -1592,12 +1592,12 @@
 <w.rf>
 <LM>w#w-wsj2098-001-p1s4W1</LM>
 </w.rf>
-<form>Dr.</form>
-<tag lemma="Dr." src="auto">X@-------------</tag>
+<form>Dr</form>
+<tag>
+<AM lemma="Dr_:B_^(doktor,_akad._titul)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="dr-99_:B_;S" src="auto">NNXXX-----A----</AM>
+<AM lemma="dr_:B_^(doktor,_akad._titul)" src="auto">NNXXX-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Dr</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2098-001-p1s4W1-Ta-sw1">
@@ -1605,14 +1605,12 @@
 <w.rf>
 <LM>w#w-wsj2098-001-p1s4W1</LM>
 </w.rf>
-<form>Dr.</form>
-<tag lemma="Dr." src="auto">X@-------------</tag>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>.</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2098-001-p1s4W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2364,12 +2362,11 @@
 <w.rf>
 <LM>w#w-wsj2098-001-p1s5W22</LM>
 </w.rf>
-<form>dr.</form>
-<tag lemma="dr." src="auto">X@-------------</tag>
+<form>dr</form>
+<tag>
+<AM lemma="dr-99_:B_;S" src="auto">NNXXX-----A----</AM>
+<AM lemma="dr_:B_^(doktor,_akad._titul)" src="auto" recommended="1">NNXXX-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>dr</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2098-001-p1s5W22-Ta-sw1">
@@ -2377,14 +2374,12 @@
 <w.rf>
 <LM>w#w-wsj2098-001-p1s5W22</LM>
 </w.rf>
-<form>dr.</form>
-<tag lemma="dr." src="auto">X@-------------</tag>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>.</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2098-001-p1s5W23-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -1070,12 +1070,10 @@
 <w.rf>
 <LM>w#w-wsj1853-001-p1s2W27</LM>
 </w.rf>
-<form>,</form>
-<tag lemma="," src="auto" recommended="1">Z:-------------</tag>
+<form>1.5</form>
+<tag>
+<AM lemma="1.5" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>1.5</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1853-001-p1s2W28-Ta">
@@ -1083,17 +1081,13 @@
 <w.rf>
 <LM>w#w-wsj1853-001-p1s2W28</LM>
 </w.rf>
-<form>5násobek</form>
+<form>násobek</form>
 <tag>
-<AM lemma="5násobek" src="auto">X@-------------</AM>
-<AM lemma="5násobek" src="manual">NNIS4-----A----</AM>
-</tag>
+<AM lemma="násobek" src="auto">NNIS1-----A----</AM>
+<AM lemma="násobek" src="auto" recommended="1">NNIS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>násobek</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1853-001-p1s2W29-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

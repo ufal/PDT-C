@@ -382,14 +382,12 @@
 <w.rf>
 <LM>w#w-wsj0328-001-p1s0W29</LM>
 </w.rf>
-<form>miliardách</form>
-<tag lemma="miliarda`1000000000" src="auto" recommended="1">NNFP6-----A----</tag>
+<form>miliard</form>
+<tag>
+<AM lemma="miliarda`1000000000" src="auto" recommended="1">NNFP2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>miliard</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0328-001-p1s0W30-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6277,14 +6275,12 @@
 <w.rf>
 <LM>w#w-wsj0328-001-p1s16W29</LM>
 </w.rf>
-<form>vzrostla</form>
-<tag lemma="vzrůst-1" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<form>vzrostly</form>
+<tag>
+<AM lemma="vzrůst-1" src="auto" recommended="1">VpTP---XR-AAP--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>vzrostly</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0328-001-p1s16W30-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

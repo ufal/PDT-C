@@ -10092,14 +10092,13 @@
 <w.rf>
 <LM>w#w-wsj1376-001-p1s36W3</LM>
 </w.rf>
-<form>Clevelend</form>
-<tag lemma="Clevelend" src="auto">X@-------------</tag>
+<form>Cleveland</form>
+<tag>
+<AM lemma="Cleveland_;G" src="auto">NNIS1-----A----</AM>
+<AM lemma="Cleveland_;G" src="auto" recommended="1">NNIS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Cleveland</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1376-001-p1s36W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -12747,12 +12746,10 @@
 <w.rf>
 <LM>w#w-wsj1376-001-p1s44W6</LM>
 </w.rf>
-<form>,</form>
-<tag lemma="," src="auto" recommended="1">Z:-------------</tag>
+<form>3.2</form>
+<tag>
+<AM lemma="3.2" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>3.2</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1376-001-p1s44W7-Ta">
@@ -12760,17 +12757,34 @@
 <w.rf>
 <LM>w#w-wsj1376-001-p1s44W7</LM>
 </w.rf>
-<form>2akrový</form>
+<form>akrový</form>
 <tag>
-<AM lemma="2akrový" src="auto">X@-------------</AM>
-<AM lemma="2akrový" src="manual">AAIS1----1A----</AM>
-</tag>
+<AM lemma="akrový" src="auto">AAFP1----1A---6</AM>
+<AM lemma="akrový" src="auto">AAFP4----1A---6</AM>
+<AM lemma="akrový" src="auto">AAFP5----1A---6</AM>
+<AM lemma="akrový" src="auto">AAFS2----1A---6</AM>
+<AM lemma="akrový" src="auto">AAFS3----1A---6</AM>
+<AM lemma="akrový" src="auto">AAFS6----1A---6</AM>
+<AM lemma="akrový" src="auto">AAIP1----1A---6</AM>
+<AM lemma="akrový" src="auto">AAIP4----1A---6</AM>
+<AM lemma="akrový" src="auto">AAIP5----1A---6</AM>
+<AM lemma="akrový" src="auto" recommended="1">AAIS1----1A----</AM>
+<AM lemma="akrový" src="auto">AAIS4----1A----</AM>
+<AM lemma="akrový" src="auto">AAIS5----1A----</AM>
+<AM lemma="akrový" src="auto">AAMP1----1A---6</AM>
+<AM lemma="akrový" src="auto">AAMP4----1A---6</AM>
+<AM lemma="akrový" src="auto">AAMP5----1A---6</AM>
+<AM lemma="akrový" src="auto">AAMS1----1A----</AM>
+<AM lemma="akrový" src="auto">AAMS5----1A----</AM>
+<AM lemma="akrový" src="auto">AANP1----1A---6</AM>
+<AM lemma="akrový" src="auto">AANP4----1A---6</AM>
+<AM lemma="akrový" src="auto">AANP5----1A---6</AM>
+<AM lemma="akrový" src="auto">AANS1----1A---6</AM>
+<AM lemma="akrový" src="auto">AANS4----1A---6</AM>
+<AM lemma="akrový" src="auto">AANS5----1A---6</AM></tag>
 <comment>
-<LM type="New Form">
-<text>akrový</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1376-001-p1s44W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

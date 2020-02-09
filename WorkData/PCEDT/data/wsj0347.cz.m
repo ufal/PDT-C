@@ -1820,15 +1820,10 @@
 <w.rf>
 <LM>w#w-wsj0347-001-p1s6W15</LM>
 </w.rf>
-<form>42denní</form>
+<form>42</form>
 <tag>
-<AM lemma="42denní" src="auto">X@-------------</AM>
-<AM lemma="42denní" src="manual">AAFS4----1A----</AM>
-</tag>
+<AM lemma="42" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>42</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0347-001-p1s6W15-Ta-sw1">
@@ -1836,17 +1831,38 @@
 <w.rf>
 <LM>w#w-wsj0347-001-p1s6W15</LM>
 </w.rf>
-<form>42denní</form>
+<form>denní</form>
 <tag>
-<AM lemma="42denní" src="auto">X@-------------</AM>
-<AM lemma="42denní" src="manual">AAFS4----1A----</AM>
-</tag>
+<AM lemma="denní" src="auto">AAFP1----1A----</AM>
+<AM lemma="denní" src="auto">AAFP4----1A----</AM>
+<AM lemma="denní" src="auto">AAFP5----1A----</AM>
+<AM lemma="denní" src="auto">AAFS1----1A----</AM>
+<AM lemma="denní" src="auto">AAFS2----1A----</AM>
+<AM lemma="denní" src="auto">AAFS3----1A----</AM>
+<AM lemma="denní" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="denní" src="auto">AAFS5----1A----</AM>
+<AM lemma="denní" src="auto">AAFS6----1A----</AM>
+<AM lemma="denní" src="auto">AAFS7----1A----</AM>
+<AM lemma="denní" src="auto">AAIP1----1A----</AM>
+<AM lemma="denní" src="auto">AAIP4----1A----</AM>
+<AM lemma="denní" src="auto">AAIP5----1A----</AM>
+<AM lemma="denní" src="auto">AAIS1----1A----</AM>
+<AM lemma="denní" src="auto">AAIS4----1A----</AM>
+<AM lemma="denní" src="auto">AAIS5----1A----</AM>
+<AM lemma="denní" src="auto">AAMP1----1A----</AM>
+<AM lemma="denní" src="auto">AAMP4----1A----</AM>
+<AM lemma="denní" src="auto">AAMP5----1A----</AM>
+<AM lemma="denní" src="auto">AAMS1----1A----</AM>
+<AM lemma="denní" src="auto">AAMS5----1A----</AM>
+<AM lemma="denní" src="auto">AANP1----1A----</AM>
+<AM lemma="denní" src="auto">AANP4----1A----</AM>
+<AM lemma="denní" src="auto">AANP5----1A----</AM>
+<AM lemma="denní" src="auto">AANS1----1A----</AM>
+<AM lemma="denní" src="auto">AANS4----1A----</AM>
+<AM lemma="denní" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>denní</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0347-001-p1s6W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3989,14 +4005,16 @@
 <w.rf>
 <LM>w#w-wsj0347-001-p1s13W3</LM>
 </w.rf>
-<form>Waschingtonu</form>
-<tag lemma="Waschingtonu" src="auto">X@-------------</tag>
+<form>Washingtonu</form>
+<tag>
+<AM lemma="Washington-1_;S" src="auto">NNMS3-----A---1</AM>
+<AM lemma="Washington-1_;S" src="auto">NNMS6-----A---1</AM>
+<AM lemma="Washington-2_;G" src="auto">NNIS2-----A----</AM>
+<AM lemma="Washington-2_;G" src="auto">NNIS3-----A----</AM>
+<AM lemma="Washington-2_;G" src="auto" recommended="1">NNIS6-----A---1</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Washingtonu</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0347-001-p1s13W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5680,14 +5698,12 @@
 <w.rf>
 <LM>w#w-wsj0347-001-p1s17W9</LM>
 </w.rf>
-<form>přizezl</form>
-<tag lemma="přizezl" src="auto">X@-------------</tag>
+<form>přivezl</form>
+<tag>
+<AM lemma="přivézt" src="auto" recommended="1">VpYS---XR-AAP--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>přivezl</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0347-001-p1s17W10-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6881,14 +6897,24 @@
 <w.rf>
 <LM>w#w-wsj0347-001-p1s22W2</LM>
 </w.rf>
-<form>teké</form>
-<tag lemma="teké" src="auto">X@-------------</tag>
+<form>také</form>
+<tag>
+<AM lemma="taký" src="auto">PDFP1----------</AM>
+<AM lemma="taký" src="auto">PDFP4----------</AM>
+<AM lemma="taký" src="auto">PDFS2----------</AM>
+<AM lemma="taký" src="auto">PDFS3----------</AM>
+<AM lemma="taký" src="auto">PDFS6----------</AM>
+<AM lemma="taký" src="auto">PDIP1----------</AM>
+<AM lemma="taký" src="auto">PDIP4----------</AM>
+<AM lemma="taký" src="auto">PDMP4----------</AM>
+<AM lemma="taký" src="auto">PDNP1---------6</AM>
+<AM lemma="taký" src="auto">PDNP4---------6</AM>
+<AM lemma="taký" src="auto">PDNS1----------</AM>
+<AM lemma="taký" src="auto">PDNS4----------</AM>
+<AM lemma="také" src="auto" recommended="1">Db-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>také</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0347-001-p1s22W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8069,14 +8095,12 @@
 <w.rf>
 <LM>w#w-wsj0347-001-p1s25W24</LM>
 </w.rf>
-<form>američanů</form>
-<tag lemma="američanů" src="auto">X@-------------</tag>
+<form>Američanů</form>
+<tag>
+<AM lemma="Američan_;E" src="auto" recommended="1">NNMP2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Američanů</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0347-001-p1s25W25-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9125,14 +9149,16 @@
 <w.rf>
 <LM>w#w-wsj0347-001-p1s29W6</LM>
 </w.rf>
-<form>vietnamci</form>
-<tag lemma="vietnamci" src="auto">X@-------------</tag>
+<form>Vietnamci</form>
+<tag>
+<AM lemma="Vietnamec_;E" src="auto">NNMP1-----A----</AM>
+<AM lemma="Vietnamec_;E" src="auto">NNMP5-----A----</AM>
+<AM lemma="Vietnamec_;E" src="auto">NNMP7-----A----</AM>
+<AM lemma="Vietnamec_;E" src="auto" recommended="1">NNMS3-----A----</AM>
+<AM lemma="Vietnamec_;E" src="auto">NNMS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Vietnamci</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0347-001-p1s29W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

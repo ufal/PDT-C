@@ -971,17 +971,16 @@
 <w.rf>
 <LM>w#w-wsj0616-001-p1s2W15</LM>
 </w.rf>
-<form>drží</form>
+<form>v</form>
 <tag>
-<AM lemma="držet" src="auto" selected="1">VB-P---3P-AAI--</AM>
-<AM lemma="držet" src="auto" recommended="1">VB-S---3P-AAI--</AM>
-</tag>
+<AM lemma="v-1" src="auto">RR--4----------</AM>
+<AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
+<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="versus_:B" src="auto">RR--1---------9</AM></tag>
 <comment>
-<LM type="New Form">
-<text>v</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0616-001-p1s2W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

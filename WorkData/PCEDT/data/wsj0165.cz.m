@@ -2040,14 +2040,19 @@
 <w.rf>
 <LM>w#w-wsj0165-001-p1s5W14</LM>
 </w.rf>
-<form>ochodních</form>
-<tag lemma="ochodních" src="auto">X@-------------</tag>
+<form>obchodních</form>
+<tag>
+<AM lemma="obchodní" src="auto">AAFP2----1A----</AM>
+<AM lemma="obchodní" src="auto">AAFP6----1A----</AM>
+<AM lemma="obchodní" src="auto">AAIP2----1A----</AM>
+<AM lemma="obchodní" src="auto" recommended="1">AAIP6----1A----</AM>
+<AM lemma="obchodní" src="auto">AAMP2----1A----</AM>
+<AM lemma="obchodní" src="auto">AAMP6----1A----</AM>
+<AM lemma="obchodní" src="auto">AANP2----1A----</AM>
+<AM lemma="obchodní" src="auto">AANP6----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>obchodních</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0165-001-p1s5W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

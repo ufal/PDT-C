@@ -6104,14 +6104,15 @@
 <w.rf>
 <LM>w#w-wsj0003-001-p1s19W41</LM>
 </w.rf>
-<form>amfobily</form>
-<tag lemma="amfobily" src="auto">X@-------------</tag>
+<form>amfiboly</form>
+<tag>
+<AM lemma="amfibol" src="auto" recommended="1">NNIP1-----A----</AM>
+<AM lemma="amfibol" src="auto">NNIP4-----A----</AM>
+<AM lemma="amfibol" src="auto">NNIP5-----A----</AM>
+<AM lemma="amfibol" src="auto">NNIP7-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>amfiboly</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0003-001-p1s19W42-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

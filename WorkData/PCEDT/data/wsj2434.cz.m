@@ -540,14 +540,38 @@
 <w.rf>
 <LM>w#w-wsj2434-001-p1s1W22</LM>
 </w.rf>
-<form>zákládní</form>
-<tag lemma="zákládní" src="auto">X@-------------</tag>
+<form>základní</form>
+<tag>
+<AM lemma="základní" src="auto">AAFP1----1A----</AM>
+<AM lemma="základní" src="auto">AAFP4----1A----</AM>
+<AM lemma="základní" src="auto">AAFP5----1A----</AM>
+<AM lemma="základní" src="auto">AAFS1----1A----</AM>
+<AM lemma="základní" src="auto">AAFS2----1A----</AM>
+<AM lemma="základní" src="auto">AAFS3----1A----</AM>
+<AM lemma="základní" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="základní" src="auto">AAFS5----1A----</AM>
+<AM lemma="základní" src="auto">AAFS6----1A----</AM>
+<AM lemma="základní" src="auto">AAFS7----1A----</AM>
+<AM lemma="základní" src="auto">AAIP1----1A----</AM>
+<AM lemma="základní" src="auto">AAIP4----1A----</AM>
+<AM lemma="základní" src="auto">AAIP5----1A----</AM>
+<AM lemma="základní" src="auto">AAIS1----1A----</AM>
+<AM lemma="základní" src="auto">AAIS4----1A----</AM>
+<AM lemma="základní" src="auto">AAIS5----1A----</AM>
+<AM lemma="základní" src="auto">AAMP1----1A----</AM>
+<AM lemma="základní" src="auto">AAMP4----1A----</AM>
+<AM lemma="základní" src="auto">AAMP5----1A----</AM>
+<AM lemma="základní" src="auto">AAMS1----1A----</AM>
+<AM lemma="základní" src="auto">AAMS5----1A----</AM>
+<AM lemma="základní" src="auto">AANP1----1A----</AM>
+<AM lemma="základní" src="auto">AANP4----1A----</AM>
+<AM lemma="základní" src="auto">AANP5----1A----</AM>
+<AM lemma="základní" src="auto">AANS1----1A----</AM>
+<AM lemma="základní" src="auto">AANS4----1A----</AM>
+<AM lemma="základní" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>základní</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2434-001-p1s1W23-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

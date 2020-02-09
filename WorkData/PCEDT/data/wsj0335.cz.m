@@ -6979,15 +6979,19 @@
 <w.rf>
 <LM>w#w-wsj0335-001-p1s18W17</LM>
 </w.rf>
-<form>O'Connell</form>
+<form>O</form>
 <tag>
-<AM lemma="O'Connell" src="auto">X@-------------</AM>
-<AM lemma="O'Connell_;S" src="manual">NNMS1-----A----</AM>
-</tag>
+<AM lemma="O-2_:B_^(kyslík)" src="auto">NNIXX-----A----</AM>
+<AM lemma="O-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="O-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="O-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="o-1" src="auto">RR--4----------</AM>
+<AM lemma="o-1" src="auto">RR--6----------</AM>
+<AM lemma="o-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="o-77_,t" src="auto">F%-------------</AM>
+<AM lemma="o-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="obchodní_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>O</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0335-001-p1s18W17-Ta-sw1">
@@ -6995,15 +6999,10 @@
 <w.rf>
 <LM>w#w-wsj0335-001-p1s18W17</LM>
 </w.rf>
-<form>O'Connell</form>
+<form>'</form>
 <tag>
-<AM lemma="O'Connell" src="auto">X@-------------</AM>
-<AM lemma="O'Connell_;S" src="manual">NNMS1-----A----</AM>
-</tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0335-001-p1s18W17-Ta-sw2">
@@ -7011,17 +7010,13 @@
 <w.rf>
 <LM>w#w-wsj0335-001-p1s18W17</LM>
 </w.rf>
-<form>O'Connell</form>
+<form>Connell</form>
 <tag>
-<AM lemma="O'Connell" src="auto">X@-------------</AM>
-<AM lemma="O'Connell_;S" src="manual">NNMS1-----A----</AM>
-</tag>
+<AM lemma="Connell_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Connell_;G" src="auto">NNIS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Connell</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0335-001-p1s18W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

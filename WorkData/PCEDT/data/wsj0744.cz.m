@@ -2264,57 +2264,23 @@
 <w.rf>
 <LM>w#w-wsj0744-001-p1s6W4</LM>
 </w.rf>
-<form>vedoucí</form>
+<form>vedoucích</form>
 <tag>
-<AM lemma="vedoucí_^(*6ést)" src="auto">AGFP1-----A----</AM>
-<AM lemma="vedoucí_^(*6ést)" src="auto">AGFP4-----A----</AM>
-<AM lemma="vedoucí_^(*6ést)" src="auto">AGFP5-----A----</AM>
-<AM lemma="vedoucí_^(*6ést)" src="auto">AGFS1-----A----</AM>
-<AM lemma="vedoucí_^(*6ést)" src="auto">AGFS2-----A----</AM>
-<AM lemma="vedoucí_^(*6ést)" src="auto">AGFS3-----A----</AM>
-<AM lemma="vedoucí_^(*6ést)" src="auto">AGFS4-----A----</AM>
-<AM lemma="vedoucí_^(*6ést)" src="auto">AGFS5-----A----</AM>
-<AM lemma="vedoucí_^(*6ést)" src="auto">AGFS6-----A----</AM>
-<AM lemma="vedoucí_^(*6ést)" src="auto">AGFS7-----A----</AM>
-<AM lemma="vedoucí_^(*6ést)" src="auto">AGIP1-----A----</AM>
-<AM lemma="vedoucí_^(*6ést)" src="auto">AGIP4-----A----</AM>
-<AM lemma="vedoucí_^(*6ést)" src="auto">AGIP5-----A----</AM>
-<AM lemma="vedoucí_^(*6ést)" src="auto">AGIS1-----A----</AM>
-<AM lemma="vedoucí_^(*6ést)" src="auto">AGIS4-----A----</AM>
-<AM lemma="vedoucí_^(*6ést)" src="auto">AGIS5-----A----</AM>
-<AM lemma="vedoucí_^(*6ést)" src="auto">AGMP1-----A----</AM>
-<AM lemma="vedoucí_^(*6ést)" src="auto">AGMP4-----A----</AM>
-<AM lemma="vedoucí_^(*6ést)" src="auto">AGMP5-----A----</AM>
-<AM lemma="vedoucí_^(*6ést)" src="auto">AGMS1-----A----</AM>
-<AM lemma="vedoucí_^(*6ést)" src="auto">AGMS5-----A----</AM>
-<AM lemma="vedoucí_^(*6ést)" src="auto">AGNP1-----A----</AM>
-<AM lemma="vedoucí_^(*6ést)" src="auto">AGNP4-----A----</AM>
-<AM lemma="vedoucí_^(*6ést)" src="auto">AGNP5-----A----</AM>
-<AM lemma="vedoucí_^(*6ést)" src="auto">AGNS1-----A----</AM>
-<AM lemma="vedoucí_^(*6ést)" src="auto">AGNS4-----A----</AM>
-<AM lemma="vedoucí_^(*6ést)" src="auto">AGNS5-----A----</AM>
-<AM lemma="vedoucí-2" src="auto">NNMP1-----A----</AM>
-<AM lemma="vedoucí-2" src="auto">NNMP4-----A----</AM>
-<AM lemma="vedoucí-2" src="auto">NNMP5-----A----</AM>
-<AM lemma="vedoucí-2" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="vedoucí-2" src="auto">NNMS5-----A----</AM>
-<AM lemma="vedoucí-3" src="auto">NNFP1-----A----</AM>
-<AM lemma="vedoucí-3" src="auto">NNFP4-----A----</AM>
-<AM lemma="vedoucí-3" src="auto">NNFP5-----A----</AM>
-<AM lemma="vedoucí-3" src="auto">NNFS1-----A----</AM>
-<AM lemma="vedoucí-3" src="auto">NNFS2-----A----</AM>
-<AM lemma="vedoucí-3" src="auto">NNFS3-----A----</AM>
-<AM lemma="vedoucí-3" src="auto">NNFS4-----A----</AM>
-<AM lemma="vedoucí-3" src="auto">NNFS5-----A----</AM>
-<AM lemma="vedoucí-3" src="auto">NNFS6-----A----</AM>
-<AM lemma="vedoucí-3" src="auto">NNFS7-----A----</AM>
-</tag>
+<AM lemma="vedoucí_^(*6ést)" src="auto">AGFP2-----A----</AM>
+<AM lemma="vedoucí_^(*6ést)" src="auto">AGFP6-----A----</AM>
+<AM lemma="vedoucí_^(*6ést)" src="auto">AGIP2-----A----</AM>
+<AM lemma="vedoucí_^(*6ést)" src="auto">AGIP6-----A----</AM>
+<AM lemma="vedoucí_^(*6ést)" src="auto" recommended="1">AGMP2-----A----</AM>
+<AM lemma="vedoucí_^(*6ést)" src="auto">AGMP6-----A----</AM>
+<AM lemma="vedoucí_^(*6ést)" src="auto">AGNP2-----A----</AM>
+<AM lemma="vedoucí_^(*6ést)" src="auto">AGNP6-----A----</AM>
+<AM lemma="vedoucí-2" src="auto">NNMP2-----A----</AM>
+<AM lemma="vedoucí-2" src="auto">NNMP6-----A----</AM>
+<AM lemma="vedoucí-3" src="auto">NNFP2-----A----</AM>
+<AM lemma="vedoucí-3" src="auto">NNFP6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>vedoucích</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0744-001-p1s6W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

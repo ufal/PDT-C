@@ -15469,14 +15469,15 @@
 <w.rf>
 <LM>w#w-wsj0112-001-p1s42W42</LM>
 </w.rf>
-<form>cíly</form>
-<tag lemma="cíly" src="auto">X@-------------</tag>
+<form>cíli</form>
+<tag>
+<AM lemma="cíl" src="auto" recommended="1">NNIP7-----A----</AM>
+<AM lemma="cíl" src="auto">NNIS3-----A----</AM>
+<AM lemma="cíl" src="auto">NNIS5-----A----</AM>
+<AM lemma="cíl" src="auto">NNIS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>cíli</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0112-001-p1s42W43-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

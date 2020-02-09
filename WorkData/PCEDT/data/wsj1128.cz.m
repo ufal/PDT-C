@@ -9811,15 +9811,10 @@
 <w.rf>
 <LM>w#w-wsj1128-001-p1s37W39</LM>
 </w.rf>
-<form>100akrovém</form>
+<form>100</form>
 <tag>
-<AM lemma="100akrovém" src="auto">X@-------------</AM>
-<AM lemma="100akrový" src="manual">AAIS6----1A----</AM>
-</tag>
+<AM lemma="100" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>100</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1128-001-p1s37W39-Ta-sw1">
@@ -9827,17 +9822,14 @@
 <w.rf>
 <LM>w#w-wsj1128-001-p1s37W39</LM>
 </w.rf>
-<form>100akrovém</form>
+<form>akrovém</form>
 <tag>
-<AM lemma="100akrovém" src="auto">X@-------------</AM>
-<AM lemma="100akrový" src="manual">AAIS6----1A----</AM>
-</tag>
+<AM lemma="akrový" src="auto" recommended="1">AAIS6----1A----</AM>
+<AM lemma="akrový" src="auto">AAMS6----1A----</AM>
+<AM lemma="akrový" src="auto">AANS6----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>akrovém</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1128-001-p1s37W40-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

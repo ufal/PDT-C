@@ -3934,42 +3934,12 @@
 <w.rf>
 <LM>w#w-wsj0525-001-p1s9W8</LM>
 </w.rf>
-<form>obchodující</form>
+<form>obchodují</form>
 <tag>
-<AM lemma="obchodující_^(*5ovat)" src="auto">AGFP1-----A----</AM>
-<AM lemma="obchodující_^(*5ovat)" src="auto">AGFP4-----A----</AM>
-<AM lemma="obchodující_^(*5ovat)" src="auto">AGFP5-----A----</AM>
-<AM lemma="obchodující_^(*5ovat)" src="auto">AGFS1-----A----</AM>
-<AM lemma="obchodující_^(*5ovat)" src="auto">AGFS2-----A----</AM>
-<AM lemma="obchodující_^(*5ovat)" src="auto">AGFS3-----A----</AM>
-<AM lemma="obchodující_^(*5ovat)" src="auto">AGFS4-----A----</AM>
-<AM lemma="obchodující_^(*5ovat)" src="auto">AGFS5-----A----</AM>
-<AM lemma="obchodující_^(*5ovat)" src="auto">AGFS6-----A----</AM>
-<AM lemma="obchodující_^(*5ovat)" src="auto">AGFS7-----A----</AM>
-<AM lemma="obchodující_^(*5ovat)" src="auto">AGIP1-----A----</AM>
-<AM lemma="obchodující_^(*5ovat)" src="auto">AGIP4-----A----</AM>
-<AM lemma="obchodující_^(*5ovat)" src="auto">AGIP5-----A----</AM>
-<AM lemma="obchodující_^(*5ovat)" src="auto">AGIS1-----A----</AM>
-<AM lemma="obchodující_^(*5ovat)" src="auto">AGIS4-----A----</AM>
-<AM lemma="obchodující_^(*5ovat)" src="auto">AGIS5-----A----</AM>
-<AM lemma="obchodující_^(*5ovat)" src="auto">AGMP1-----A----</AM>
-<AM lemma="obchodující_^(*5ovat)" src="auto">AGMP4-----A----</AM>
-<AM lemma="obchodující_^(*5ovat)" src="auto">AGMP5-----A----</AM>
-<AM lemma="obchodující_^(*5ovat)" src="auto" recommended="1">AGMS1-----A----</AM>
-<AM lemma="obchodující_^(*5ovat)" src="auto">AGMS5-----A----</AM>
-<AM lemma="obchodující_^(*5ovat)" src="auto">AGNP1-----A----</AM>
-<AM lemma="obchodující_^(*5ovat)" src="auto">AGNP4-----A----</AM>
-<AM lemma="obchodující_^(*5ovat)" src="auto">AGNP5-----A----</AM>
-<AM lemma="obchodující_^(*5ovat)" src="auto">AGNS1-----A----</AM>
-<AM lemma="obchodující_^(*5ovat)" src="auto">AGNS4-----A----</AM>
-<AM lemma="obchodující_^(*5ovat)" src="auto">AGNS5-----A----</AM>
-</tag>
+<AM lemma="obchodovat" src="auto" recommended="1">VB-P---3P-AAI--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>obchodují</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0525-001-p1s9W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5782,14 +5752,19 @@
 <w.rf>
 <LM>w#w-wsj0525-001-p1s16W2</LM>
 </w.rf>
-<form>aktiových</form>
-<tag lemma="aktiových" src="auto">X@-------------</tag>
+<form>akciových</form>
+<tag>
+<AM lemma="akciový" src="auto">AAFP2----1A----</AM>
+<AM lemma="akciový" src="auto">AAFP6----1A----</AM>
+<AM lemma="akciový" src="auto" recommended="1">AAIP2----1A----</AM>
+<AM lemma="akciový" src="auto">AAIP6----1A----</AM>
+<AM lemma="akciový" src="auto">AAMP2----1A----</AM>
+<AM lemma="akciový" src="auto">AAMP6----1A----</AM>
+<AM lemma="akciový" src="auto">AANP2----1A----</AM>
+<AM lemma="akciový" src="auto">AANP6----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>akciových</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0525-001-p1s16W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -13662,23 +13637,21 @@
 <w.rf>
 <LM>w#w-wsj0525-001-p1s39W6</LM>
 </w.rf>
-<form>termínových</form>
+<form>termínovým</form>
 <tag>
-<AM lemma="termínový" src="auto">AAFP2----1A----</AM>
-<AM lemma="termínový" src="auto">AAFP6----1A----</AM>
-<AM lemma="termínový" src="auto" recommended="1">AAIP2----1A----</AM>
-<AM lemma="termínový" src="auto">AAIP6----1A----</AM>
-<AM lemma="termínový" src="auto">AAMP2----1A----</AM>
-<AM lemma="termínový" src="auto">AAMP6----1A----</AM>
-<AM lemma="termínový" src="auto">AANP2----1A----</AM>
-<AM lemma="termínový" src="auto">AANP6----1A----</AM>
-</tag>
+<AM lemma="termínový" src="auto">AAFP3----1A----</AM>
+<AM lemma="termínový" src="auto" recommended="1">AAIP3----1A----</AM>
+<AM lemma="termínový" src="auto">AAIS6----1A---7</AM>
+<AM lemma="termínový" src="auto">AAIS7----1A----</AM>
+<AM lemma="termínový" src="auto">AAMP3----1A----</AM>
+<AM lemma="termínový" src="auto">AAMS6----1A---7</AM>
+<AM lemma="termínový" src="auto">AAMS7----1A----</AM>
+<AM lemma="termínový" src="auto">AANP3----1A----</AM>
+<AM lemma="termínový" src="auto">AANS6----1A---7</AM>
+<AM lemma="termínový" src="auto">AANS7----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>termínovým</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0525-001-p1s39W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

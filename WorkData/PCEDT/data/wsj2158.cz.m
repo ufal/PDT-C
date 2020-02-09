@@ -815,15 +815,15 @@
 <w.rf>
 <LM>w#w-wsj2158-001-p1s1W33</LM>
 </w.rf>
-<form>B.B</form>
+<form>B</form>
 <tag>
-<AM lemma="B.B" src="auto">X@-------------</AM>
-<AM lemma="B.B-88_:B" src="manual">NNXXX-----A----</AM>
-</tag>
+<AM lemma="B-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="B-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="b-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="b-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="bod_:B" src="auto">NNIXX-----A----</AM>
+<AM lemma="bodový" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>B</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2158-001-p1s1W33-Ta-sw1">
@@ -831,15 +831,10 @@
 <w.rf>
 <LM>w#w-wsj2158-001-p1s1W33</LM>
 </w.rf>
-<form>B.B</form>
+<form>.</form>
 <tag>
-<AM lemma="B.B" src="auto">X@-------------</AM>
-<AM lemma="B.B-88_:B" src="manual">NNXXX-----A----</AM>
-</tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>.</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2158-001-p1s1W33-Ta-sw2">
@@ -847,17 +842,17 @@
 <w.rf>
 <LM>w#w-wsj2158-001-p1s1W33</LM>
 </w.rf>
-<form>B.B</form>
+<form>B</form>
 <tag>
-<AM lemma="B.B" src="auto">X@-------------</AM>
-<AM lemma="B.B-88_:B" src="manual">NNXXX-----A----</AM>
-</tag>
+<AM lemma="B-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="B-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="b-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="b-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="bod_:B" src="auto">NNIXX-----A----</AM>
+<AM lemma="bodový" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>B</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2158-001-p1s1W34-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -149,15 +149,10 @@
 <w.rf>
 <LM>w#w-wsj0505-001-p1s0W12</LM>
 </w.rf>
-<form>Weisfield's</form>
+<form>Weisfield</form>
 <tag>
-<AM lemma="Weisfield's" src="auto">X@-------------</AM>
-<AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="Weisfield" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Weisfield</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0505-001-p1s0W12-Ta-sw1">
@@ -165,15 +160,10 @@
 <w.rf>
 <LM>w#w-wsj0505-001-p1s0W12</LM>
 </w.rf>
-<form>Weisfield's</form>
+<form>'</form>
 <tag>
-<AM lemma="Weisfield's" src="auto">X@-------------</AM>
-<AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0505-001-p1s0W12-Ta-sw2">
@@ -181,17 +171,23 @@
 <w.rf>
 <LM>w#w-wsj0505-001-p1s0W12</LM>
 </w.rf>
-<form>Weisfield's</form>
+<form>s</form>
 <tag>
-<AM lemma="Weisfield's" src="auto">X@-------------</AM>
-<AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-1" src="auto">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>s</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0505-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -394,15 +390,10 @@
 <w.rf>
 <LM>w#w-wsj0505-001-p1s1W4</LM>
 </w.rf>
-<form>Weisfield's</form>
+<form>Weisfield</form>
 <tag>
-<AM lemma="Weisfield's" src="auto">X@-------------</AM>
-<AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="Weisfield" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Weisfield</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0505-001-p1s1W4-Ta-sw1">
@@ -410,15 +401,10 @@
 <w.rf>
 <LM>w#w-wsj0505-001-p1s1W4</LM>
 </w.rf>
-<form>Weisfield's</form>
+<form>'</form>
 <tag>
-<AM lemma="Weisfield's" src="auto">X@-------------</AM>
-<AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0505-001-p1s1W4-Ta-sw2">
@@ -426,17 +412,23 @@
 <w.rf>
 <LM>w#w-wsj0505-001-p1s1W4</LM>
 </w.rf>
-<form>Weisfield's</form>
+<form>s</form>
 <tag>
-<AM lemma="Weisfield's" src="auto">X@-------------</AM>
-<AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-1" src="auto" recommended="1">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>s</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0505-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -738,15 +730,10 @@
 <w.rf>
 <LM>w#w-wsj0505-001-p1s2W4</LM>
 </w.rf>
-<form>Weisfield's</form>
+<form>Weisfield</form>
 <tag>
-<AM lemma="Weisfield's" src="auto">X@-------------</AM>
-<AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="Weisfield" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Weisfield</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0505-001-p1s2W4-Ta-sw1">
@@ -754,15 +741,10 @@
 <w.rf>
 <LM>w#w-wsj0505-001-p1s2W4</LM>
 </w.rf>
-<form>Weisfield's</form>
+<form>'</form>
 <tag>
-<AM lemma="Weisfield's" src="auto">X@-------------</AM>
-<AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0505-001-p1s2W4-Ta-sw2">
@@ -770,15 +752,21 @@
 <w.rf>
 <LM>w#w-wsj0505-001-p1s2W4</LM>
 </w.rf>
-<form>Weisfield's</form>
+<form>s</form>
 <tag>
-<AM lemma="Weisfield's" src="auto">X@-------------</AM>
-<AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-1" src="auto" recommended="1">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>s</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0505-001-p1s2W5-Ta">
@@ -919,15 +907,10 @@
 <w.rf>
 <LM>w#w-wsj0505-001-p1s2W16</LM>
 </w.rf>
-<form>Weisfield's</form>
+<form>Weisfield</form>
 <tag>
-<AM lemma="Weisfield's" src="auto">X@-------------</AM>
-<AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="Weisfield" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Weisfield</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0505-001-p1s2W16-Ta-sw1">
@@ -935,15 +918,10 @@
 <w.rf>
 <LM>w#w-wsj0505-001-p1s2W16</LM>
 </w.rf>
-<form>Weisfield's</form>
+<form>'</form>
 <tag>
-<AM lemma="Weisfield's" src="auto">X@-------------</AM>
-<AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0505-001-p1s2W16-Ta-sw2">
@@ -951,17 +929,23 @@
 <w.rf>
 <LM>w#w-wsj0505-001-p1s2W16</LM>
 </w.rf>
-<form>Weisfield's</form>
+<form>s</form>
 <tag>
-<AM lemma="Weisfield's" src="auto">X@-------------</AM>
-<AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-1" src="auto" recommended="1">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>s</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0505-001-p1s2W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1301,15 +1285,10 @@
 <w.rf>
 <LM>w#w-wsj0505-001-p1s5W2</LM>
 </w.rf>
-<form>Weisfield's</form>
+<form>Weisfield</form>
 <tag>
-<AM lemma="Weisfield's" src="auto">X@-------------</AM>
-<AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="Weisfield" src="auto">X@-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Weisfield</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0505-001-p1s5W2-Ta-sw1">
@@ -1317,15 +1296,10 @@
 <w.rf>
 <LM>w#w-wsj0505-001-p1s5W2</LM>
 </w.rf>
-<form>Weisfield's</form>
+<form>'</form>
 <tag>
-<AM lemma="Weisfield's" src="auto">X@-------------</AM>
-<AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>'</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0505-001-p1s5W2-Ta-sw2">
@@ -1333,17 +1307,23 @@
 <w.rf>
 <LM>w#w-wsj0505-001-p1s5W2</LM>
 </w.rf>
-<form>Weisfield's</form>
+<form>s</form>
 <tag>
-<AM lemma="Weisfield's" src="auto">X@-------------</AM>
-<AM lemma="Weisfield's-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-1" src="auto">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>s</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0505-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

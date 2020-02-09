@@ -2221,12 +2221,10 @@
 <w.rf>
 <LM>w#w-wsj1688-001-p1s8W10</LM>
 </w.rf>
-<form>6</form>
-<tag lemma="6" src="auto" recommended="1">C=-------------</tag>
+<form>6000</form>
+<tag>
+<AM lemma="6000" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>6000</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1688-001-p1s8W11-Ta">
@@ -2234,17 +2232,27 @@
 <w.rf>
 <LM>w#w-wsj1688-001-p1s8W11</LM>
 </w.rf>
-<form>000členné</form>
+<form>členné</form>
 <tag>
-<AM lemma="000členné" src="auto">X@-------------</AM>
-<AM lemma="000členný" src="manual">AAFS2----1A----</AM>
-</tag>
+<AM lemma="členný" src="auto">AAFP1----1A----</AM>
+<AM lemma="členný" src="auto">AAFP4----1A----</AM>
+<AM lemma="členný" src="auto">AAFP5----1A----</AM>
+<AM lemma="členný" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="členný" src="auto">AAFS3----1A----</AM>
+<AM lemma="členný" src="auto">AAFS6----1A----</AM>
+<AM lemma="členný" src="auto">AAIP1----1A----</AM>
+<AM lemma="členný" src="auto">AAIP4----1A----</AM>
+<AM lemma="členný" src="auto">AAIP5----1A----</AM>
+<AM lemma="členný" src="auto">AAMP4----1A----</AM>
+<AM lemma="členný" src="auto">AANP1----1A---6</AM>
+<AM lemma="členný" src="auto">AANP4----1A---6</AM>
+<AM lemma="členný" src="auto">AANP5----1A---6</AM>
+<AM lemma="členný" src="auto">AANS1----1A----</AM>
+<AM lemma="členný" src="auto">AANS4----1A----</AM>
+<AM lemma="členný" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>členné</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1688-001-p1s8W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5642,14 +5650,14 @@
 <w.rf>
 <LM>w#w-wsj1688-001-p1s19W7</LM>
 </w.rf>
-<form>veřer</form>
-<tag lemma="veřer" src="auto">X@-------------</tag>
+<form>večer</form>
+<tag>
+<AM lemma="večer-1" src="auto">NNIS1-----A----</AM>
+<AM lemma="večer-1" src="auto">NNIS4-----A----</AM>
+<AM lemma="večer-2" src="auto" recommended="1">Db-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>večer</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1688-001-p1s19W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -5996,14 +5996,12 @@
 <w.rf>
 <LM>w#w-wsj0575-001-p1s20W21</LM>
 </w.rf>
-<form>Minnesottou</form>
-<tag lemma="Minnesottou" src="auto">X@-------------</tag>
+<form>Minnesotou</form>
+<tag>
+<AM lemma="Minnesota_;G" src="auto" recommended="1">NNFS7-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Minnesotou</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0575-001-p1s20W22-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

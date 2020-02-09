@@ -2703,17 +2703,12 @@
 <w.rf>
 <LM>w#w-wsj1919-001-p1s7W12</LM>
 </w.rf>
-<form>Persey</form>
+<form>Jersey</form>
 <tag>
-<AM lemma="Perseus_;S" src="auto">NNMP4-----A----</AM>
-<AM lemma="Perseus_;S" src="auto" recommended="1">NNMP7-----A----</AM>
-</tag>
+<AM lemma="Jersey_;G" src="auto" recommended="1">NNNXX-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Jersey</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1919-001-p1s7W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -5884,17 +5884,27 @@
 <w.rf>
 <LM>w#w-wsj1795-001-p1s21W19</LM>
 </w.rf>
-<form>10násobné</form>
+<form>desetinásobné</form>
 <tag>
-<AM lemma="10násobné" src="auto">X@-------------</AM>
-<AM lemma="10násobný" src="manual">AANS4----1A----</AM>
-</tag>
+<AM lemma="desetinásobný`10" src="auto">AAFP1----1A----</AM>
+<AM lemma="desetinásobný`10" src="auto">AAFP4----1A----</AM>
+<AM lemma="desetinásobný`10" src="auto">AAFP5----1A----</AM>
+<AM lemma="desetinásobný`10" src="auto">AAFS2----1A----</AM>
+<AM lemma="desetinásobný`10" src="auto">AAFS3----1A----</AM>
+<AM lemma="desetinásobný`10" src="auto">AAFS6----1A----</AM>
+<AM lemma="desetinásobný`10" src="auto">AAIP1----1A----</AM>
+<AM lemma="desetinásobný`10" src="auto">AAIP4----1A----</AM>
+<AM lemma="desetinásobný`10" src="auto">AAIP5----1A----</AM>
+<AM lemma="desetinásobný`10" src="auto">AAMP4----1A----</AM>
+<AM lemma="desetinásobný`10" src="auto">AANP1----1A---6</AM>
+<AM lemma="desetinásobný`10" src="auto">AANP4----1A---6</AM>
+<AM lemma="desetinásobný`10" src="auto">AANP5----1A---6</AM>
+<AM lemma="desetinásobný`10" src="auto">AANS1----1A----</AM>
+<AM lemma="desetinásobný`10" src="auto" recommended="1">AANS4----1A----</AM>
+<AM lemma="desetinásobný`10" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>desetinásobné</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1795-001-p1s21W20-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8355,14 +8365,12 @@
 <w.rf>
 <LM>w#w-wsj1795-001-p1s31W4</LM>
 </w.rf>
-<form>touhu</form>
-<tag lemma="touha" src="auto" recommended="1">NNFS4-----A----</tag>
+<form>touhou</form>
+<tag>
+<AM lemma="touha" src="auto" recommended="1">NNFS7-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>touhou</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1795-001-p1s31W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -11590,42 +11590,21 @@
 <w.rf>
 <LM>w#w-wsj2381-001-p1s40W2</LM>
 </w.rf>
-<form>národní</form>
+<form>národním</form>
 <tag>
-<AM lemma="národní" src="auto">AAFP1----1A----</AM>
-<AM lemma="národní" src="auto">AAFP4----1A----</AM>
-<AM lemma="národní" src="auto">AAFP5----1A----</AM>
-<AM lemma="národní" src="auto">AAFS1----1A----</AM>
-<AM lemma="národní" src="auto">AAFS2----1A----</AM>
-<AM lemma="národní" src="auto">AAFS3----1A----</AM>
-<AM lemma="národní" src="auto">AAFS4----1A----</AM>
-<AM lemma="národní" src="auto">AAFS5----1A----</AM>
-<AM lemma="národní" src="auto">AAFS6----1A----</AM>
-<AM lemma="národní" src="auto" recommended="1">AAFS7----1A----</AM>
-<AM lemma="národní" src="auto">AAIP1----1A----</AM>
-<AM lemma="národní" src="auto">AAIP4----1A----</AM>
-<AM lemma="národní" src="auto">AAIP5----1A----</AM>
-<AM lemma="národní" src="auto">AAIS1----1A----</AM>
-<AM lemma="národní" src="auto">AAIS4----1A----</AM>
-<AM lemma="národní" src="auto">AAIS5----1A----</AM>
-<AM lemma="národní" src="auto">AAMP1----1A----</AM>
-<AM lemma="národní" src="auto">AAMP4----1A----</AM>
-<AM lemma="národní" src="auto">AAMP5----1A----</AM>
-<AM lemma="národní" src="auto">AAMS1----1A----</AM>
-<AM lemma="národní" src="auto">AAMS5----1A----</AM>
-<AM lemma="národní" src="auto">AANP1----1A----</AM>
-<AM lemma="národní" src="auto">AANP4----1A----</AM>
-<AM lemma="národní" src="auto">AANP5----1A----</AM>
-<AM lemma="národní" src="auto">AANS1----1A----</AM>
-<AM lemma="národní" src="auto">AANS4----1A----</AM>
-<AM lemma="národní" src="auto">AANS5----1A----</AM>
-</tag>
+<AM lemma="národní" src="auto">AAFP3----1A----</AM>
+<AM lemma="národní" src="auto">AAIP3----1A----</AM>
+<AM lemma="národní" src="auto">AAIS6----1A----</AM>
+<AM lemma="národní" src="auto">AAIS7----1A----</AM>
+<AM lemma="národní" src="auto">AAMP3----1A----</AM>
+<AM lemma="národní" src="auto">AAMS6----1A----</AM>
+<AM lemma="národní" src="auto" recommended="1">AAMS7----1A----</AM>
+<AM lemma="národní" src="auto">AANP3----1A----</AM>
+<AM lemma="národní" src="auto">AANS6----1A----</AM>
+<AM lemma="národní" src="auto">AANS7----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>národním</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2381-001-p1s40W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

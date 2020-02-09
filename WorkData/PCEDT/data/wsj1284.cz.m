@@ -4453,18 +4453,12 @@
 <w.rf>
 <LM>w#w-wsj1284-001-p1s12W4</LM>
 </w.rf>
-<form>20krát</form>
+<form>dvacetkrát</form>
 <tag>
-<AM lemma="20krát" src="auto">X@-------------</AM>
-<AM lemma="20krát" src="manual">Db-------------</AM>
-<AM lemma="20krát" src="manual">Cv-------------</AM>
-</tag>
+<AM lemma="dvacetkrát`20" src="auto" recommended="1">Cv-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>dvacetkrát</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1284-001-p1s12W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -12887,7 +12881,7 @@
 <form>Pittsburk</form>
 <tag>
 <AM lemma="Pittsburk" src="auto">X@-------------</AM>
-<AM lemma="	Pittsburk_;G_,a_^(^DD**Pittsburgh)" src="manual">NNIS4-----A----</AM>
+<AM lemma=" Pittsburk_;G_,a_^(^DD**Pittsburgh)" src="manual">NNIS4-----A----</AM>
 <AM lemma="Pittsburk_;G_,a_^(^DD**Pittsburgh)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>

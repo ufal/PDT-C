@@ -294,21 +294,12 @@
 <w.rf>
 <LM>w#w-wsj2226-001-p1s1W2</LM>
 </w.rf>
-<form>jí</form>
+<form>ji</form>
 <tag>
-<AM lemma="jíst" src="auto">VB-P---3P-AAI--</AM>
-<AM lemma="jíst" src="auto">VB-S---3P-AAI--</AM>
-<AM lemma="on-1_^(ona)" src="auto">PPFS2--3-------</AM>
-<AM lemma="on-1_^(ona)" src="auto" recommended="1">PPFS3--3-------</AM>
-<AM lemma="on-1_^(ona)" src="auto">PPFS4--3------6</AM>
-<AM lemma="on-1_^(ona)" src="auto">PPFS7--3-------</AM>
-</tag>
+<AM lemma="on-1" src="auto" recommended="1">PPFS4--3-------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>ji</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2226-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

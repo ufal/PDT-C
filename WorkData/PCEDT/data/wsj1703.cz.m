@@ -1581,19 +1581,14 @@
 <w.rf>
 <LM>w#w-wsj1703-001-p1s3W36</LM>
 </w.rf>
-<form>sporu</form>
+<form>spor</form>
 <tag>
-<AM lemma="spora" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="spor_^([soudní]_pře)" src="auto">NNIS2-----A----</AM>
-<AM lemma="spor_^([soudní]_pře)" src="auto">NNIS3-----A----</AM>
-<AM lemma="spor_^([soudní]_pře)" src="auto">NNIS6-----A----</AM>
-</tag>
+<AM lemma="spora" src="auto">NNFP2-----A----</AM>
+<AM lemma="spor_^([soudní]_pře)" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="spor_^([soudní]_pře)" src="auto">NNIS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>spor</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1703-001-p1s3W37-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

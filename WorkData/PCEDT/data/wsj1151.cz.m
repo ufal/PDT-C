@@ -1147,15 +1147,10 @@
 <w.rf>
 <LM>w#w-wsj1151-001-p1s5W1</LM>
 </w.rf>
-<form>80bodový</form>
+<form>80</form>
 <tag>
-<AM lemma="80bodový" src="auto">X@-------------</AM>
-<AM lemma="80bodový" src="manual">AAIS1----1A----</AM>
-</tag>
+<AM lemma="80" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>80</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1151-001-p1s5W1-Ta-sw1">
@@ -1163,17 +1158,34 @@
 <w.rf>
 <LM>w#w-wsj1151-001-p1s5W1</LM>
 </w.rf>
-<form>80bodový</form>
+<form>bodový</form>
 <tag>
-<AM lemma="80bodový" src="auto">X@-------------</AM>
-<AM lemma="80bodový" src="manual">AAIS1----1A----</AM>
-</tag>
+<AM lemma="bodový" src="auto">AAFP1----1A---6</AM>
+<AM lemma="bodový" src="auto">AAFP4----1A---6</AM>
+<AM lemma="bodový" src="auto">AAFP5----1A---6</AM>
+<AM lemma="bodový" src="auto">AAFS2----1A---6</AM>
+<AM lemma="bodový" src="auto">AAFS3----1A---6</AM>
+<AM lemma="bodový" src="auto">AAFS6----1A---6</AM>
+<AM lemma="bodový" src="auto">AAIP1----1A---6</AM>
+<AM lemma="bodový" src="auto">AAIP4----1A---6</AM>
+<AM lemma="bodový" src="auto">AAIP5----1A---6</AM>
+<AM lemma="bodový" src="auto" recommended="1">AAIS1----1A----</AM>
+<AM lemma="bodový" src="auto">AAIS4----1A----</AM>
+<AM lemma="bodový" src="auto">AAIS5----1A----</AM>
+<AM lemma="bodový" src="auto">AAMP1----1A---6</AM>
+<AM lemma="bodový" src="auto">AAMP4----1A---6</AM>
+<AM lemma="bodový" src="auto">AAMP5----1A---6</AM>
+<AM lemma="bodový" src="auto">AAMS1----1A----</AM>
+<AM lemma="bodový" src="auto">AAMS5----1A----</AM>
+<AM lemma="bodový" src="auto">AANP1----1A---6</AM>
+<AM lemma="bodový" src="auto">AANP4----1A---6</AM>
+<AM lemma="bodový" src="auto">AANP5----1A---6</AM>
+<AM lemma="bodový" src="auto">AANS1----1A---6</AM>
+<AM lemma="bodový" src="auto">AANS4----1A---6</AM>
+<AM lemma="bodový" src="auto">AANS5----1A---6</AM></tag>
 <comment>
-<LM type="New Form">
-<text>bodový</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1151-001-p1s5W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

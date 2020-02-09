@@ -56,15 +56,11 @@
 <w.rf>
 <LM>w#w-wsj2439-001-p1s0W5</LM>
 </w.rf>
-<form>Inc.uvedla</form>
+<form>Inc</form>
 <tag>
-<AM lemma="Inc.uvedla" src="auto">X@-------------</AM>
-<AM lemma="Inc.uvedla-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="inc-77_:B" src="auto">F%-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Inc</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2439-001-p1s0W5-Ta-sw1">
@@ -72,15 +68,10 @@
 <w.rf>
 <LM>w#w-wsj2439-001-p1s0W5</LM>
 </w.rf>
-<form>Inc.uvedla</form>
+<form>.</form>
 <tag>
-<AM lemma="Inc.uvedla" src="auto">X@-------------</AM>
-<AM lemma="Inc.uvedla-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>.</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2439-001-p1s0W5-Ta-sw2">
@@ -88,17 +79,12 @@
 <w.rf>
 <LM>w#w-wsj2439-001-p1s0W5</LM>
 </w.rf>
-<form>Inc.uvedla</form>
+<form>uvedla</form>
 <tag>
-<AM lemma="Inc.uvedla" src="auto">X@-------------</AM>
-<AM lemma="Inc.uvedla-77" src="manual">F%-------------</AM>
-</tag>
+<AM lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>uvedla</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2439-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1883,12 +1869,14 @@
 <w.rf>
 <LM>w#w-wsj2439-001-p1s5W13</LM>
 </w.rf>
-<form>vrámci</form>
-<tag lemma="vrámci" src="auto">X@-------------</tag>
+<form>v</form>
+<tag>
+<AM lemma="v-1" src="auto">RR--4----------</AM>
+<AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
+<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="versus_:B" src="auto">RR--1---------9</AM></tag>
 <comment>
-<LM type="New Form">
-<text>v</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2439-001-p1s5W13-Ta-sw1">
@@ -1896,14 +1884,15 @@
 <w.rf>
 <LM>w#w-wsj2439-001-p1s5W13</LM>
 </w.rf>
-<form>vrámci</form>
-<tag lemma="vrámci" src="auto">X@-------------</tag>
+<form>rámci</form>
+<tag>
+<AM lemma="rámec" src="auto">NNIP7-----A----</AM>
+<AM lemma="rámec" src="auto">NNIS3-----A----</AM>
+<AM lemma="rámec" src="auto">NNIS5-----A----</AM>
+<AM lemma="rámec" src="auto" recommended="1">NNIS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>rámci</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2439-001-p1s5W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

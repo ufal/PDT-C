@@ -2624,14 +2624,17 @@
 <w.rf>
 <LM>w#w-wsj0113-001-p1s8W21</LM>
 </w.rf>
-<form>Illionois</form>
-<tag lemma="Illionois" src="auto">X@-------------</tag>
+<form>Illinois</form>
+<tag>
+<AM lemma="Illinois" src="auto">NNIS2-----A---1</AM>
+<AM lemma="Illinois" src="auto">NNIS3-----A---1</AM>
+<AM lemma="Illinois" src="auto">NNIS6-----A---1</AM>
+<AM lemma="Illinois" src="auto">NNIS7-----A---1</AM>
+<AM lemma="Illinois_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Illinois_;G" src="auto">NNIS4-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Illinois</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0113-001-p1s8W22-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4505,17 +4508,10 @@
 <w.rf>
 <LM>w#w-wsj0113-001-p1s14W20</LM>
 </w.rf>
-<form>30letého</form>
+<form>30</form>
 <tag>
-<AM lemma="30letý" src="auto">AAIS2----1A----</AM>
-<AM lemma="30letý" src="auto">AAMS2----1A----</AM>
-<AM lemma="30letý" src="auto">AAMS4----1A----</AM>
-<AM lemma="30letý" src="auto" recommended="1">AANS2----1A----</AM>
-</tag>
+<AM lemma="30" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>30</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0113-001-p1s14W20-Ta-sw1">
@@ -4523,19 +4519,15 @@
 <w.rf>
 <LM>w#w-wsj0113-001-p1s14W20</LM>
 </w.rf>
-<form>30letého</form>
+<form>letého</form>
 <tag>
-<AM lemma="30letý" src="auto">AAIS2----1A----</AM>
-<AM lemma="30letý" src="auto">AAMS2----1A----</AM>
-<AM lemma="30letý" src="auto">AAMS4----1A----</AM>
-<AM lemma="30letý" src="auto" recommended="1">AANS2----1A----</AM>
-</tag>
+<AM lemma="letý" src="auto">AAIS2----1A----</AM>
+<AM lemma="letý" src="auto">AAMS2----1A----</AM>
+<AM lemma="letý" src="auto">AAMS4----1A----</AM>
+<AM lemma="letý" src="auto" recommended="1">AANS2----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>letého</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0113-001-p1s14W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6531,14 +6523,12 @@
 <w.rf>
 <LM>w#w-wsj0113-001-p1s22W10</LM>
 </w.rf>
-<form>podnítil</form>
-<tag lemma="podnítit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<form>podnítilo</form>
+<tag>
+<AM lemma="podnítit" src="auto" recommended="1">VpNS---XR-AAP--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>podnítilo</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0113-001-p1s22W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

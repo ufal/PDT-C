@@ -130,27 +130,15 @@
 <w.rf>
 <LM>w#w-wsj1190-001-p1s0W12</LM>
 </w.rf>
-<form>zpochybnění</form>
+<form>zpochybní</form>
 <tag>
-<AM lemma="zpochybněný_^(*2t)_(*3it)" src="auto">AAMP1----1A----</AM>
-<AM lemma="zpochybněný_^(*2t)_(*3it)" src="auto">AAMP5----1A----</AM>
-<AM lemma="zpochybnění_^(*2t)_(*3it)" src="auto">NNNP1-----A----</AM>
-<AM lemma="zpochybnění_^(*2t)_(*3it)" src="auto">NNNP2-----A----</AM>
-<AM lemma="zpochybnění_^(*2t)_(*3it)" src="auto">NNNP4-----A----</AM>
-<AM lemma="zpochybnění_^(*2t)_(*3it)" src="auto">NNNP5-----A----</AM>
-<AM lemma="zpochybnění_^(*2t)_(*3it)" src="auto" recommended="1">NNNS1-----A----</AM>
-<AM lemma="zpochybnění_^(*2t)_(*3it)" src="auto">NNNS2-----A----</AM>
-<AM lemma="zpochybnění_^(*2t)_(*3it)" src="auto">NNNS3-----A----</AM>
-<AM lemma="zpochybnění_^(*2t)_(*3it)" src="auto">NNNS4-----A----</AM>
-<AM lemma="zpochybnění_^(*2t)_(*3it)" src="auto">NNNS5-----A----</AM>
-<AM lemma="zpochybnění_^(*2t)_(*3it)" src="auto">NNNS6-----A----</AM>
-</tag>
+<AM lemma="zpochybnit" src="auto">VB-P---3P-AAP--</AM>
+<AM lemma="zpochybnit" src="auto" recommended="1">VB-S---3P-AAP--</AM>
+<AM lemma="zpochybnět_,s" src="auto">VB-P---3P-AAP-1</AM>
+<AM lemma="zpochybnět_,s" src="auto">VB-S---3P-AAP--</AM></tag>
 <comment>
-<LM type="New Form">
-<text>zpochybní</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1190-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

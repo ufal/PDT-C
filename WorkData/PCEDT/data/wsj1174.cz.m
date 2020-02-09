@@ -2414,15 +2414,10 @@
 <w.rf>
 <LM>w#w-wsj1174-001-p1s8W34</LM>
 </w.rf>
-<form>45akrovou</form>
+<form>45</form>
 <tag>
-<AM lemma="45akrovou" src="auto">X@-------------</AM>
-<AM lemma="45akrový" src="manual">AAFS4----1A----</AM>
-</tag>
+<AM lemma="45" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>45</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1174-001-p1s8W34-Ta-sw1">
@@ -2430,17 +2425,13 @@
 <w.rf>
 <LM>w#w-wsj1174-001-p1s8W34</LM>
 </w.rf>
-<form>45akrovou</form>
+<form>akrovou</form>
 <tag>
-<AM lemma="45akrovou" src="auto">X@-------------</AM>
-<AM lemma="45akrový" src="manual">AAFS4----1A----</AM>
-</tag>
+<AM lemma="akrový" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="akrový" src="auto">AAFS7----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>akrovou</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1174-001-p1s8W35-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

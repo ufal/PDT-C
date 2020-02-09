@@ -6389,12 +6389,10 @@
 <w.rf>
 <LM>w#w-wsj1606-001-p1s20W15</LM>
 </w.rf>
-<form>,</form>
-<tag lemma="," src="auto" recommended="1">Z:-------------</tag>
+<form>3.5</form>
+<tag>
+<AM lemma="3.5" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>3.5</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj1606-001-p1s20W16-Ta">
@@ -6402,17 +6400,27 @@
 <w.rf>
 <LM>w#w-wsj1606-001-p1s20W16</LM>
 </w.rf>
-<form>5palcové</form>
+<form>palcové</form>
 <tag>
-<AM lemma="5palcové" src="auto">X@-------------</AM>
-<AM lemma="5palcový" src="manual">AAFP4----1A----</AM>
-</tag>
+<AM lemma="palcový" src="auto">AAFP1----1A----</AM>
+<AM lemma="palcový" src="auto" recommended="1">AAFP4----1A----</AM>
+<AM lemma="palcový" src="auto">AAFP5----1A----</AM>
+<AM lemma="palcový" src="auto">AAFS2----1A----</AM>
+<AM lemma="palcový" src="auto">AAFS3----1A----</AM>
+<AM lemma="palcový" src="auto">AAFS6----1A----</AM>
+<AM lemma="palcový" src="auto">AAIP1----1A----</AM>
+<AM lemma="palcový" src="auto">AAIP4----1A----</AM>
+<AM lemma="palcový" src="auto">AAIP5----1A----</AM>
+<AM lemma="palcový" src="auto">AAMP4----1A----</AM>
+<AM lemma="palcový" src="auto">AANP1----1A---6</AM>
+<AM lemma="palcový" src="auto">AANP4----1A---6</AM>
+<AM lemma="palcový" src="auto">AANP5----1A---6</AM>
+<AM lemma="palcový" src="auto">AANS1----1A----</AM>
+<AM lemma="palcový" src="auto">AANS4----1A----</AM>
+<AM lemma="palcový" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>palcové</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1606-001-p1s20W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

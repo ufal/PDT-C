@@ -290,18 +290,12 @@
 <w.rf>
 <LM>w#w-wsj0141-001-p1s1W9</LM>
 </w.rf>
-<form>papíru</form>
+<form>papírů</form>
 <tag>
-<AM lemma="papír" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="papír" src="auto">NNIS3-----A----</AM>
-<AM lemma="papír" src="auto">NNIS6-----A---1</AM>
-</tag>
+<AM lemma="papír" src="auto" recommended="1">NNIP2-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>papírů</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0141-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -1459,14 +1459,14 @@
 <w.rf>
 <LM>w#w-wsj0790-001-p1s5W6</LM>
 </w.rf>
-<form>súfi</form>
-<tag lemma="súfi" src="auto">X@-------------</tag>
+<form>súfí</form>
+<tag>
+<AM lemma="súfí_,t" src="auto">NNMS1-----A----</AM>
+<AM lemma="súfí_,t" src="auto">NNMS5-----A----</AM>
+<AM lemma="súfí_,t" src="auto" recommended="1">NNMXX-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>súfí</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0790-001-p1s5W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2675,17 +2675,10 @@
 <w.rf>
 <LM>w#w-wsj0790-001-p1s7W55</LM>
 </w.rf>
-<form>77letého</form>
+<form>77</form>
 <tag>
-<AM lemma="77letý" src="auto" recommended="1">AAIS2----1A----</AM>
-<AM lemma="77letý" src="auto">AAMS2----1A----</AM>
-<AM lemma="77letý" src="auto">AAMS4----1A----</AM>
-<AM lemma="77letý" src="auto">AANS2----1A----</AM>
-</tag>
+<AM lemma="77" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>77</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0790-001-p1s7W55-Ta-sw1">
@@ -2693,19 +2686,15 @@
 <w.rf>
 <LM>w#w-wsj0790-001-p1s7W55</LM>
 </w.rf>
-<form>77letého</form>
+<form>letého</form>
 <tag>
-<AM lemma="77letý" src="auto" recommended="1">AAIS2----1A----</AM>
-<AM lemma="77letý" src="auto">AAMS2----1A----</AM>
-<AM lemma="77letý" src="auto">AAMS4----1A----</AM>
-<AM lemma="77letý" src="auto">AANS2----1A----</AM>
-</tag>
+<AM lemma="letý" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="letý" src="auto">AAMS2----1A----</AM>
+<AM lemma="letý" src="auto">AAMS4----1A----</AM>
+<AM lemma="letý" src="auto">AANS2----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>letého</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0790-001-p1s7W56-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9594,18 +9583,12 @@
 <w.rf>
 <LM>w#w-wsj0790-001-p1s34W13</LM>
 </w.rf>
-<form>té</form>
+<form>poté</form>
 <tag>
-<AM lemma="ten" src="auto">PDFS2----------</AM>
-<AM lemma="ten" src="auto">PDFS3----------</AM>
-<AM lemma="ten" src="auto" recommended="1" selected="1">PDFS6----------</AM>
-</tag>
+<AM lemma="poté" src="auto" recommended="1">Db-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>poté</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0790-001-p1s34W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

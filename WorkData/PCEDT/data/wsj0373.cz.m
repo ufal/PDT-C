@@ -371,14 +371,17 @@
 <w.rf>
 <LM>w#w-wsj0373-001-p1s0W32</LM>
 </w.rf>
-<form>stanic</form>
-<tag lemma="stanice" src="auto" recommended="1">NNFP2-----A----</tag>
+<form>stanice</form>
+<tag>
+<AM lemma="stanice" src="auto">NNFP1-----A----</AM>
+<AM lemma="stanice" src="auto">NNFP4-----A----</AM>
+<AM lemma="stanice" src="auto">NNFP5-----A----</AM>
+<AM lemma="stanice" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="stanice" src="auto">NNFS2-----A----</AM>
+<AM lemma="stanice" src="auto">NNFS5-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>stanice</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0373-001-p1s0W33-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

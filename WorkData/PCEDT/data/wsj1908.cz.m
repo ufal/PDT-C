@@ -547,25 +547,13 @@
 <w.rf>
 <LM>w#w-wsj1908-001-p1s1W26</LM>
 </w.rf>
-<form>očekávání</form>
+<form>očekáváním</form>
 <tag>
-<AM lemma="očekávání_^(*3at)" src="auto">NNNP1-----A----</AM>
-<AM lemma="očekávání_^(*3at)" src="auto">NNNP2-----A----</AM>
-<AM lemma="očekávání_^(*3at)" src="auto">NNNP4-----A----</AM>
-<AM lemma="očekávání_^(*3at)" src="auto">NNNP5-----A----</AM>
-<AM lemma="očekávání_^(*3at)" src="auto">NNNS1-----A----</AM>
-<AM lemma="očekávání_^(*3at)" src="auto">NNNS2-----A----</AM>
-<AM lemma="očekávání_^(*3at)" src="auto" recommended="1">NNNS3-----A----</AM>
-<AM lemma="očekávání_^(*3at)" src="auto">NNNS4-----A----</AM>
-<AM lemma="očekávání_^(*3at)" src="auto">NNNS5-----A----</AM>
-<AM lemma="očekávání_^(*3at)" src="auto">NNNS6-----A----</AM>
-</tag>
+<AM lemma="očekávání_^(*3at)" src="auto">NNNP3-----A----</AM>
+<AM lemma="očekávání_^(*3at)" src="auto" recommended="1">NNNS7-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>očekáváním</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj1908-001-p1s1W27-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

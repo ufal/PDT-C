@@ -5041,15 +5041,10 @@
 <w.rf>
 <LM>w#w-wsj0563-001-p1s13W7</LM>
 </w.rf>
-<form>291stránkové</form>
+<form>291</form>
 <tag>
-<AM lemma="291stránkové" src="auto">X@-------------</AM>
-<AM lemma="291stránkový" src="manual">AAFS2----1A----</AM>
-</tag>
+<AM lemma="291" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>291</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0563-001-p1s13W7-Ta-sw1">
@@ -5057,17 +5052,27 @@
 <w.rf>
 <LM>w#w-wsj0563-001-p1s13W7</LM>
 </w.rf>
-<form>291stránkové</form>
+<form>stránkové</form>
 <tag>
-<AM lemma="291stránkové" src="auto">X@-------------</AM>
-<AM lemma="291stránkový" src="manual">AAFS2----1A----</AM>
-</tag>
+<AM lemma="stránkový" src="auto">AAFP1----1A----</AM>
+<AM lemma="stránkový" src="auto">AAFP4----1A----</AM>
+<AM lemma="stránkový" src="auto">AAFP5----1A----</AM>
+<AM lemma="stránkový" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="stránkový" src="auto">AAFS3----1A----</AM>
+<AM lemma="stránkový" src="auto">AAFS6----1A----</AM>
+<AM lemma="stránkový" src="auto">AAIP1----1A----</AM>
+<AM lemma="stránkový" src="auto">AAIP4----1A----</AM>
+<AM lemma="stránkový" src="auto">AAIP5----1A----</AM>
+<AM lemma="stránkový" src="auto">AAMP4----1A----</AM>
+<AM lemma="stránkový" src="auto">AANP1----1A---6</AM>
+<AM lemma="stránkový" src="auto">AANP4----1A---6</AM>
+<AM lemma="stránkový" src="auto">AANP5----1A---6</AM>
+<AM lemma="stránkový" src="auto">AANS1----1A----</AM>
+<AM lemma="stránkový" src="auto">AANS4----1A----</AM>
+<AM lemma="stránkový" src="auto">AANS5----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>stránkové</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0563-001-p1s13W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -297,14 +297,12 @@
 <w.rf>
 <LM>w#w-wsj0472-001-p1s0W22</LM>
 </w.rf>
-<form>výsledků</form>
-<tag lemma="výsledek" src="auto" recommended="1">NNIP2-----A----</tag>
+<form>výsledkům</form>
+<tag>
+<AM lemma="výsledek" src="auto" recommended="1">NNIP3-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>výsledkům</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0472-001-p1s0W23-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2624,17 +2622,18 @@
 <w.rf>
 <LM>w#w-wsj0472-001-p1s6W29</LM>
 </w.rf>
-<form>společnost</form>
+<form>společnosti</form>
 <tag>
-<AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS4-----A----</AM>
-</tag>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFP1-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>společnosti</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0472-001-p1s6W30-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -11582,17 +11581,10 @@
 <w.rf>
 <LM>w#w-wsj0472-001-p1s37W10</LM>
 </w.rf>
-<form>2letého</form>
+<form>2</form>
 <tag>
-<AM lemma="2letý" src="auto">AAIS2----1A----</AM>
-<AM lemma="2letý" src="auto">AAMS2----1A----</AM>
-<AM lemma="2letý" src="auto">AAMS4----1A----</AM>
-<AM lemma="2letý" src="auto" recommended="1">AANS2----1A----</AM>
-</tag>
+<AM lemma="2" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>2</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0472-001-p1s37W10-Ta-sw1">
@@ -11600,19 +11592,15 @@
 <w.rf>
 <LM>w#w-wsj0472-001-p1s37W10</LM>
 </w.rf>
-<form>2letého</form>
+<form>letého</form>
 <tag>
-<AM lemma="2letý" src="auto">AAIS2----1A----</AM>
-<AM lemma="2letý" src="auto">AAMS2----1A----</AM>
-<AM lemma="2letý" src="auto">AAMS4----1A----</AM>
-<AM lemma="2letý" src="auto" recommended="1">AANS2----1A----</AM>
-</tag>
+<AM lemma="letý" src="auto">AAIS2----1A----</AM>
+<AM lemma="letý" src="auto">AAMS2----1A----</AM>
+<AM lemma="letý" src="auto">AAMS4----1A----</AM>
+<AM lemma="letý" src="auto" recommended="1">AANS2----1A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>letého</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0472-001-p1s37W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

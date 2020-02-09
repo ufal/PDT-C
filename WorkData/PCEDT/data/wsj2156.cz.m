@@ -2429,12 +2429,10 @@
 <w.rf>
 <LM>w#w-wsj2156-001-p1s9W23</LM>
 </w.rf>
-<form>čtyř-</form>
-<tag lemma="čtyř-" src="auto">X@-------------</tag>
+<form>čtyř</form>
+<tag>
+<AM lemma="čtyři`4" src="auto" recommended="1">ClXP2----------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>čtyř</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2156-001-p1s9W23-Ta-sw1">
@@ -2442,14 +2440,12 @@
 <w.rf>
 <LM>w#w-wsj2156-001-p1s9W23</LM>
 </w.rf>
-<form>čtyř-</form>
-<tag lemma="čtyř-" src="auto">X@-------------</tag>
+<form>-</form>
+<tag>
+<AM lemma="-" src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>-</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2156-001-p1s9W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

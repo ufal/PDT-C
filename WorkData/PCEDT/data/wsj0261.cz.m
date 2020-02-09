@@ -516,14 +516,17 @@
 <w.rf>
 <LM>w#w-wsj0261-001-p1s2W1</LM>
 </w.rf>
-<form>Restaurance</form>
-<tag lemma="Restaurance" src="auto">X@-------------</tag>
+<form>Restaurace</form>
+<tag>
+<AM lemma="restaurace" src="auto">NNFP1-----A----</AM>
+<AM lemma="restaurace" src="auto">NNFP4-----A----</AM>
+<AM lemma="restaurace" src="auto">NNFP5-----A----</AM>
+<AM lemma="restaurace" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="restaurace" src="auto">NNFS2-----A----</AM>
+<AM lemma="restaurace" src="auto">NNFS5-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>Restaurace</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0261-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1538,12 +1541,10 @@
 <w.rf>
 <LM>w#w-wsj0261-001-p1s5W20</LM>
 </w.rf>
-<form>5x8</form>
-<tag lemma="5x8" src="auto">X@-------------</tag>
+<form>5</form>
+<tag>
+<AM lemma="5" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>5</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0261-001-p1s5W20-Ta-sw1">
@@ -1551,12 +1552,12 @@
 <w.rf>
 <LM>w#w-wsj0261-001-p1s5W20</LM>
 </w.rf>
-<form>5x8</form>
-<tag lemma="5x8" src="auto">X@-------------</tag>
+<form>x</form>
+<tag>
+<AM lemma="x-5_^(náhr._symbolu_krát,_mat._symbol)" src="auto" recommended="1">J*-------------</AM>
+<AM lemma="x-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="x-88_:B" src="auto">NNXXX-----A----</AM></tag>
 <comment>
-<LM type="New Form">
-<text>x</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj0261-001-p1s5W20-Ta-sw2">
@@ -1564,14 +1565,12 @@
 <w.rf>
 <LM>w#w-wsj0261-001-p1s5W20</LM>
 </w.rf>
-<form>5x8</form>
-<tag lemma="5x8" src="auto">X@-------------</tag>
+<form>8</form>
+<tag>
+<AM lemma="8" src="auto" recommended="1">C=-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>8</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj0261-001-p1s5W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

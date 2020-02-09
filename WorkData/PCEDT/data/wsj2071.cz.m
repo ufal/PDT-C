@@ -977,12 +977,11 @@
 <w.rf>
 <LM>w#w-wsj2071-001-p1s2W4</LM>
 </w.rf>
-<form>tzv.</form>
-<tag lemma="tzv." src="auto">X@-------------</tag>
+<form>tzv</form>
+<tag>
+<AM lemma="takzvaný_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
+<AM lemma="takzvaně_:B" src="auto">Dg-------1A---8</AM></tag>
 <comment>
-<LM type="New Form">
-<text>tzv</text>
-</LM>
 </comment>
 </m>
 <m id="m-wsj2071-001-p1s2W4-Ta-sw1">
@@ -990,14 +989,12 @@
 <w.rf>
 <LM>w#w-wsj2071-001-p1s2W4</LM>
 </w.rf>
-<form>tzv.</form>
-<tag lemma="tzv." src="auto">X@-------------</tag>
+<form>.</form>
+<tag>
+<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
 <comment>
-<LM type="New Form">
-<text>.</text>
-</LM>
 </comment>
-</m>
+<form_change>spell</form_change></m>
 <m id="m-wsj2071-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
