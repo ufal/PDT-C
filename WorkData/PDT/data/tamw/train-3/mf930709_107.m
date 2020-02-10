@@ -523,7 +523,7 @@
 <LM>w#w-mf930709-107-p2s3w5</LM>
 </w.rf>
 <form>zachránit</form>
-<tag lemma="zachránit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zachránit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930709-107-p2s3w6">
 <src.rf>manual</src.rf>
@@ -563,7 +563,7 @@
 <LM>w#w-mf930709-107-p2s3w10</LM>
 </w.rf>
 <form>převézt</form>
-<tag lemma="převézt" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="převézt" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930709-107-p2s3w11">
 <src.rf>manual</src.rf>
@@ -717,7 +717,7 @@
 <LM>w#w-mf930709-107-p2s4w16</LM>
 </w.rf>
 <form>zjistit</form>
-<tag lemma="zjistit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zjistit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930709-107-p2s4w17">
 <src.rf>manual</src.rf>

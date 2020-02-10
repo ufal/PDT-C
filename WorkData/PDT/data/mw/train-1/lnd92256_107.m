@@ -98,7 +98,7 @@
 <LM>w#w-lnd92256-107-p2s2w5</LM>
 </w.rf>
 <form>budou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3F-AAI--</tag>
 </m>
 <m id="m-lnd92256-107-p2s2w6">
 <src.rf>manual</src.rf>
@@ -106,7 +106,7 @@
 <LM>w#w-lnd92256-107-p2s2w6</LM>
 </w.rf>
 <form>muset</form>
-<tag lemma="muset" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="muset" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd92256-107-p2s2w7">
 <src.rf>manual</src.rf>
@@ -115,8 +115,8 @@
 </w.rf>
 <form>dát</form>
 <tag>
-<AM lemma="dát" src="orig">Vf--------A----</AM>
-<AM lemma="dát_:W" src="manual" selected="1">Vf--------A----</AM>
+<AM lemma="dát" src="orig">Vf--------A-P--</AM>
+<AM lemma="dát" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m-lnd92256-107-p2s2w8">

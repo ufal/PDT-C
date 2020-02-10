@@ -35,7 +35,7 @@
 <LM>w#w-mf920922-104-p1s1w3</LM>
 </w.rf>
 <form>mít</form>
-<tag lemma="mít" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="mít" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf920922-104-p1s1w4">
 <src.rf>manual</src.rf>

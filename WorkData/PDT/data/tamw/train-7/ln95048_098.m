@@ -85,7 +85,7 @@
 <LM>w#w-ln95048-098-p2s1w8</LM>
 </w.rf>
 <form>uskutečnit</form>
-<tag lemma="uskutečnit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="uskutečnit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95048-098-p2s1w9">
 <src.rf>manual</src.rf>
@@ -209,7 +209,7 @@
 <LM>w#w-ln95048-098-p2s1w21</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95048-098-p2s1w22">
 <src.rf>manual</src.rf>

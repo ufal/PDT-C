@@ -35,7 +35,7 @@
 <LM>w#w-ln95047-130-p1s1w3</LM>
 </w.rf>
 <form>stoupá</form>
-<tag lemma="stoupat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="stoupat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 </s>
 <s id="m-ln95047-130-p2s1A">
@@ -234,7 +234,7 @@
 <LM>w#w-ln95047-130-p2s1Bw22</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95047-130-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -592,7 +592,7 @@
 <LM>w#w-ln95047-130-p5s1w2</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95047-130-p5s1w3">
 <src.rf>manual</src.rf>
@@ -802,7 +802,7 @@
 <LM>w#w-ln95047-130-p6s1w12</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95047-130-p6s1w13">
 <src.rf>manual</src.rf>

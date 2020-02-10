@@ -167,7 +167,7 @@
 <LM>w#w-ln94210-23-p2s6w13</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94210-23-p2s6w14">
 <src.rf>manual</src.rf>
@@ -272,7 +272,7 @@
 <LM>w#w-ln94210-23-p2s7w7</LM>
 </w.rf>
 <form>připočítává</form>
-<tag lemma="připočítávat_:T_^(*4at)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="připočítávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94210-23-p2s7w8">
 <src.rf>manual</src.rf>
@@ -455,7 +455,7 @@
 <LM>w#w-ln94210-23-p2s8w10</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94210-23-p2s8w11">
 <src.rf>manual</src.rf>

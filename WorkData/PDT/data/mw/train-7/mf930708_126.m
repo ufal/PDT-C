@@ -410,7 +410,7 @@
 <LM>w#w-mf930708-126-p2s3w6</LM>
 </w.rf>
 <form>nastoupí</form>
-<tag lemma="nastoupit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="nastoupit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930708-126-p2s3w7">
 <src.rf>manual</src.rf>

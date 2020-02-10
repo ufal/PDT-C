@@ -36,8 +36,8 @@
 </w.rf>
 <form>vede</form>
 <tag>
-<AM lemma="vést" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="vést_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="vést" src="auto">VB-S---3P-AAI--</AM>
+<AM lemma="vést" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 </s>
@@ -67,8 +67,8 @@
 <tag>
 <AM lemma="mel-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mela" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="mlít" src="auto">Vi-S---2--A----</AM>
-<AM lemma="mlít" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="mlít" src="auto">Vi-S---2--A-I--</AM>
+<AM lemma="mlít" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="mel-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -530,7 +530,7 @@
 <LM>w#w-lnd94104-118-p1s4w27</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-lnd94104-118-p1s4w28">
 <src.rf>manual</src.rf>
@@ -570,7 +570,7 @@
 <LM>w#w-lnd94104-118-p1s4w32</LM>
 </w.rf>
 <form>chybět</form>
-<tag lemma="chybět_:T_^(někde_něco_chybí)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="chybět_^(někde_něco_chybí)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd94104-118-p1s4w33">
 <src.rf>manual</src.rf>

@@ -458,7 +458,7 @@
 <LM>w#w-lnd92253-082-p2s4w23</LM>
 </w.rf>
 <form>běž</form>
-<tag lemma="běžet" src="orig" selected="1">Vi-S---2--A----</tag>
+<tag lemma="běžet" src="orig" selected="1">Vi-S---2--A-I--</tag>
 </m>
 <m id="m-lnd92253-082-p2s4w24">
 <src.rf>manual</src.rf>

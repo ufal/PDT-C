@@ -113,7 +113,7 @@
 <LM>w#w-ln94200-131-p1s1Aw11</LM>
 </w.rf>
 <form>uniká</form>
-<tag lemma="unikat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="unikat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94200-131-p1s1Aw12">
 <src.rf>manual</src.rf>

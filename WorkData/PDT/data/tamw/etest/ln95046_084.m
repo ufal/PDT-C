@@ -59,7 +59,7 @@
 <LM>w#w-ln95046-084-p1s1w6</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95046-084-p1s1w7">
 <src.rf>manual</src.rf>
@@ -146,7 +146,7 @@
 <LM>w#w-ln95046-084-p2s1Cw4</LM>
 </w.rf>
 <form>oslabit</form>
-<tag lemma="oslabit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="oslabit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95046-084-p2s1Cw5">
 <src.rf>manual</src.rf>
@@ -170,7 +170,7 @@
 <LM>w#w-ln95046-084-p2s1Cw7</LM>
 </w.rf>
 <form>zúžit</form>
-<tag lemma="zúžit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zúžit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95046-084-p2s1Cw8">
 <src.rf>manual</src.rf>
@@ -210,7 +210,7 @@
 <LM>w#w-ln95046-084-p2s1Cw12</LM>
 </w.rf>
 <form>omezit</form>
-<tag lemma="omezit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="omezit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95046-084-p2s1Cw13">
 <src.rf>manual</src.rf>
@@ -234,7 +234,7 @@
 <LM>w#w-ln95046-084-p2s1Cw15</LM>
 </w.rf>
 <form>ohrožují</form>
-<tag lemma="ohrožovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="ohrožovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95046-084-p2s1Cw16">
 <src.rf>manual</src.rf>
@@ -276,7 +276,7 @@
 <LM>w#w-ln95046-084-p2s2w1</LM>
 </w.rf>
 <form>Uvádí</form>
-<tag lemma="uvádět_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="uvádět" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95046-084-p2s2w2">
 <src.rf>manual</src.rf>
@@ -556,7 +556,7 @@
 <LM>w#w-ln95046-084-p2s3w17</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95046-084-p2s3w18">
 <src.rf>manual</src.rf>
@@ -723,7 +723,7 @@
 <LM>w#w-ln95046-084-p2s5w3</LM>
 </w.rf>
 <form>vyvrcholí</form>
-<tag lemma="vyvrcholit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vyvrcholit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95046-084-p2s5w4">
 <src.rf>manual</src.rf>

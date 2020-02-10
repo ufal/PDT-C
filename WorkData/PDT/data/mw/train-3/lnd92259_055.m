@@ -102,7 +102,7 @@
 <LM>w#w-lnd92259-055-p2s2w6</LM>
 </w.rf>
 <form>považují</form>
-<tag lemma="považovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="považovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92259-055-p2s2w7">
 <src.rf>manual</src.rf>
@@ -280,7 +280,7 @@
 <LM>w#w-lnd92259-055-p2s3w4</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92259-055-p2s3w5">
 <src.rf>manual</src.rf>
@@ -392,7 +392,7 @@
 <LM>w#w-lnd92259-055-p2s3w18</LM>
 </w.rf>
 <form>trvají</form>
-<tag lemma="trvat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="trvat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92259-055-p2s3w19">
 <src.rf>manual</src.rf>

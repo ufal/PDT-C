@@ -552,7 +552,7 @@
 <LM>w#w-lnd92257-053-p3s4w6</LM>
 </w.rf>
 <form>domnívá</form>
-<tag lemma="domnívat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="domnívat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92257-053-p3s4w7">
 <src.rf>manual</src.rf>

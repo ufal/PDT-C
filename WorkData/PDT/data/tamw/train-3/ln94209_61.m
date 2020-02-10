@@ -99,8 +99,8 @@
 </w.rf>
 <form>vypluje</form>
 <tag>
-<AM lemma="vyplout" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="vyplout_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="vyplout" src="orig">VB-S---3P-AAP--</AM>
+<AM lemma="vyplout" src="manual" selected="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94209-61-p1s1Aw11">
@@ -173,7 +173,7 @@
 <LM>w#w-ln94209-61-p1s1Aw19</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-ln94209-61-p1s1Aw20">
 <src.rf>manual</src.rf>
@@ -197,7 +197,7 @@
 <LM>w#w-ln94209-61-p1s1Aw22</LM>
 </w.rf>
 <form>plavit</form>
-<tag lemma="plavit_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="plavit" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94209-61-p1s1Aw23">
 <src.rf>manual</src.rf>

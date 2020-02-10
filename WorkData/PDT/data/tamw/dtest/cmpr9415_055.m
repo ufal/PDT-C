@@ -77,7 +77,7 @@
 <LM>w#w-cmpr9415-055-p3s1w4</LM>
 </w.rf>
 <form>JE</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9415-055-p3s1w5">
 <src.rf>manual</src.rf>
@@ -157,7 +157,7 @@
 <LM>w#w-cmpr9415-055-p3s1w14</LM>
 </w.rf>
 <form>říká</form>
-<tag lemma="říkat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="říkat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9415-055-p3s1w15">
 <src.rf>manual</src.rf>

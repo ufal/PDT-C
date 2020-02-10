@@ -143,7 +143,7 @@
 <LM>w#w-mf930703-009-p3s1w8</LM>
 </w.rf>
 <form>platit</form>
-<tag lemma="platit_:T" src="auto" selected="1">Vf--------A----</tag>
+<tag lemma="platit" src="auto" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf930703-009-p3s1w9">
 <src.rf>manual</src.rf>
@@ -421,7 +421,7 @@
 <LM>w#w-mf930703-009-p5s2w6</LM>
 </w.rf>
 <form>způsobit</form>
-<tag lemma="způsobit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="způsobit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930703-009-p5s2w7">
 <src.rf>manual</src.rf>
@@ -618,7 +618,7 @@
 <LM>w#w-mf930703-009-p6s1w5</LM>
 </w.rf>
 <form>závisí</form>
-<tag lemma="záviset_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="záviset" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 </s>
 <s id="m-mf930703-009-p6s2">
@@ -678,7 +678,7 @@
 <LM>w#w-mf930703-009-p6s3w3</LM>
 </w.rf>
 <form>bývá</form>
-<tag lemma="bývat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="bývat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930703-009-p6s3w4">
 <src.rf>manual</src.rf>
@@ -776,7 +776,7 @@
 <LM>w#w-mf930703-009-p6s4w5</LM>
 </w.rf>
 <form>objeví</form>
-<tag lemma="objevit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="objevit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930703-009-p6s4w6">
 <src.rf>manual</src.rf>
@@ -848,7 +848,7 @@
 <LM>w#w-mf930703-009-p6s4w14</LM>
 </w.rf>
 <form>zvětšovat</form>
-<tag lemma="zvětšovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zvětšovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf930703-009-p6s4w15">
 <src.rf>manual</src.rf>
@@ -866,7 +866,7 @@
 <LM>w#w-mf930703-009-p6s5w1</LM>
 </w.rf>
 <form>Doprovází</form>
-<tag lemma="doprovázet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="doprovázet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930703-009-p6s5w2">
 <src.rf>manual</src.rf>
@@ -999,7 +999,7 @@
 <LM>w#w-mf930703-009-p6s6w6</LM>
 </w.rf>
 <form>proběhnout</form>
-<tag lemma="proběhnout_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="proběhnout" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930703-009-p6s6w7">
 <src.rf>manual</src.rf>

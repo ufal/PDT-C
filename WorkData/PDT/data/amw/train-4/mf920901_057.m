@@ -19,7 +19,7 @@
 <LM>w#w-mf920901-057-p1s1w1</LM>
 </w.rf>
 <form>Uvádíme</form>
-<tag lemma="uvádět_:T" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="uvádět" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-mf920901-057-p1s1w2">
 <src.rf>manual</src.rf>
@@ -155,7 +155,7 @@
 <LM>w#w-mf920901-057-p1s1w18</LM>
 </w.rf>
 <form>připojujeme</form>
-<tag lemma="připojovat_:T" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="připojovat" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-mf920901-057-p1s1w19">
 <src.rf>manual</src.rf>

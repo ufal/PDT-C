@@ -69,7 +69,7 @@
 <LM>w#w-mf920924-151-p1s1Bw1</LM>
 </w.rf>
 <form>OTEVÍRÁ</form>
-<tag lemma="otevírat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="otevírat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920924-151-p1s1Bw2">
 <src.rf>manual</src.rf>
@@ -217,7 +217,7 @@
 <LM>w#w-mf920924-151-p1s1Dw9</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-mf920924-151-p1s1Dw10">
 <src.rf>manual</src.rf>
@@ -387,7 +387,7 @@
 <LM>w#w-mf920924-151-p1s2w15</LM>
 </w.rf>
 <form>ústí</form>
-<tag lemma="ústit_:T_^(vyúsťovat)" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="ústit_^(vyúsťovat)" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920924-151-p1s2w16">
 <src.rf>manual</src.rf>
@@ -427,7 +427,7 @@
 <LM>w#w-mf920924-151-p1s2w20</LM>
 </w.rf>
 <form>završí</form>
-<tag lemma="završit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="završit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf920924-151-p1s2w21">
 <src.rf>manual</src.rf>
@@ -589,7 +589,7 @@
 <LM>w#w-mf920924-151-p1s3w3</LM>
 </w.rf>
 <form>spočívá</form>
-<tag lemma="spočívat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="spočívat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920924-151-p1s3w4">
 <src.rf>manual</src.rf>

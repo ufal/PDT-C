@@ -317,7 +317,7 @@
 <LM>w#w-mf930713-041-p1s2w4</LM>
 </w.rf>
 <form>vyšetřuje</form>
-<tag lemma="vyšetřovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vyšetřovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930713-041-p1s2w5">
 <src.rf>manual</src.rf>
@@ -1397,7 +1397,7 @@
 <LM>w#w-mf930713-041-p3s2w16</LM>
 </w.rf>
 <form>osahávat</form>
-<tag lemma="osahávat_:T_^(*4at)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="osahávat_^(*4at)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf930713-041-p3s2w17">
 <src.rf>manual</src.rf>
@@ -1455,7 +1455,7 @@
 <LM>w#w-mf930713-041-p3s3w6</LM>
 </w.rf>
 <form>odmrštit</form>
-<tag lemma="odmrštit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="odmrštit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930713-041-p3s3w7">
 <src.rf>manual</src.rf>
@@ -1471,7 +1471,7 @@
 <LM>w#w-mf930713-041-p3s3w8</LM>
 </w.rf>
 <form>uprchnout</form>
-<tag lemma="uprchnout_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="uprchnout" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930713-041-p3s3w9">
 <src.rf>manual</src.rf>

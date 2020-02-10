@@ -224,7 +224,7 @@
 <form>Matete</form>
 <tag>
 <AM lemma="Matete_;S" src="orig">NNXXX-----A----</AM>
-<AM lemma="mást" src="auto" recommended="1">VB-P---2P-AA---</AM>
+<AM lemma="mást" src="auto" recommended="1">VB-P---2P-AAI--</AM>
 <AM lemma="Matete_;S" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
@@ -3034,7 +3034,7 @@
 <LM>w#w-ln94202-109-p36s1w2</LM>
 </w.rf>
 <form>jste</form>
-<tag lemma="být" src="orig" selected="1">VB-P---2P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m-ln94202-109-p36s1w3">
 <src.rf>manual</src.rf>

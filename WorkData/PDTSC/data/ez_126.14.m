@@ -60,14 +60,14 @@
 <LM>w#w-d1t2351-10</LM>
 </w.rf>
 <form>nemá</form>
-<tag lemma="mít" src="auto" recommended="1">VB-S---3P-NA---</tag>
+<tag lemma="mít" src="auto" recommended="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m126-d1t2351-11">
 <w.rf>
 <LM>w#w-d1t2351-11</LM>
 </w.rf>
 <form>opalovat</form>
-<tag lemma="opalovat_:T" src="auto" recommended="1">Vf--------A----</tag>
+<tag lemma="opalovat" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="m126-d-id186868-punct">
 <w.rf>
@@ -81,7 +81,7 @@
 <LM>w#w-d1t2351-18</LM>
 </w.rf>
 <form>opaluju</form>
-<tag lemma="opalovat_:T" src="auto" recommended="1">VB-S---1P-AA---</tag>
+<tag lemma="opalovat" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m126-d1t2351-15">
 <w.rf>
@@ -122,7 +122,7 @@
 <LM>w#w-d1t2355-1</LM>
 </w.rf>
 <form>Děkuji</form>
-<tag lemma="děkovat_:T" src="auto" recommended="1">VB-S---1P-AA--1</tag>
+<tag lemma="děkovat" src="auto" recommended="1">VB-S---1P-AAI-1</tag>
 </m>
 <m id="m126-d1t2355-2">
 <w.rf>
@@ -311,7 +311,7 @@
 </w.rf>
 <form>je</form>
 <tag>
-<AM lemma="být" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="být" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPXP4--3-------</AM>
 </tag>
@@ -416,7 +416,7 @@
 <LM>w#w-d1t2375-13</LM>
 </w.rf>
 <form>nejste</form>
-<tag lemma="být" src="auto" recommended="1">VB-P---2P-NA---</tag>
+<tag lemma="být" src="auto" recommended="1">VB-P---2P-NAI--</tag>
 </m>
 <m id="m126-d1t2375-15">
 <w.rf>
@@ -452,7 +452,7 @@
 <LM>w#w-d1t2375-25</LM>
 </w.rf>
 <form>Přeju</form>
-<tag lemma="přát" src="auto" recommended="1">VB-S---1P-AA---</tag>
+<tag lemma="přát" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m126-d1t2375-26">
 <w.rf>
@@ -537,7 +537,7 @@
 <LM>w#w-d1t2377-1</LM>
 </w.rf>
 <form>končím</form>
-<tag lemma="končit_:T" src="auto" recommended="1">VB-S---1P-AA---</tag>
+<tag lemma="končit" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m126-d-m-d1e2372-x2-punct-punct">
 <w.rf>

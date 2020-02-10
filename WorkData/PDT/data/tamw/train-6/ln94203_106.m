@@ -27,7 +27,7 @@
 <LM>w#w-ln94203-106-p1s1w2</LM>
 </w.rf>
 <form>odpočívá</form>
-<tag lemma="odpočívat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="odpočívat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 </s>
 <s id="m-ln94203-106-p2s1A">
@@ -178,7 +178,7 @@
 <LM>w#w-ln94203-106-p2s1Bw16</LM>
 </w.rf>
 <form>vynechává</form>
-<tag lemma="vynechávat_:T_^(*4at)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vynechávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94203-106-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -231,7 +231,7 @@
 <LM>w#w-ln94203-106-p2s2w3</LM>
 </w.rf>
 <form>miluji</form>
-<tag lemma="milovat_:T" src="orig" selected="1">VB-S---1P-AA--1</tag>
+<tag lemma="milovat" src="orig" selected="1">VB-S---1P-AAI-1</tag>
 </m>
 <m id="m-ln94203-106-p2s2w4">
 <src.rf>manual</src.rf>
@@ -319,7 +319,7 @@
 <LM>w#w-ln94203-106-p2s2w14</LM>
 </w.rf>
 <form>nedoporučují</form>
-<tag lemma="doporučovat_:T" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="doporučovat" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 <m id="m-ln94203-106-p2s2w15">
 <src.rf>manual</src.rf>
@@ -400,7 +400,7 @@
 <LM>w#w-ln94203-106-p2s3w2</LM>
 </w.rf>
 <form>trpí</form>
-<tag lemma="trpět" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="trpět" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94203-106-p2s3w3">
 <src.rf>manual</src.rf>
@@ -442,7 +442,7 @@
 <LM>w#w-ln94203-106-p2s4w1</LM>
 </w.rf>
 <form>Trápí</form>
-<tag lemma="trápit_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="trápit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94203-106-p2s4w2">
 <src.rf>manual</src.rf>

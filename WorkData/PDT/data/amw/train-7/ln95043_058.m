@@ -119,7 +119,7 @@
 <LM>w#w-ln95043-058-p2s1Bw4</LM>
 </w.rf>
 <form>žádá</form>
-<tag lemma="žádat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="žádat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95043-058-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -647,7 +647,7 @@
 <LM>w#w-ln95043-058-p2s5w3</LM>
 </w.rf>
 <form>obrací</form>
-<tag lemma="obracet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="obracet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95043-058-p2s5w4">
 <src.rf>manual</src.rf>

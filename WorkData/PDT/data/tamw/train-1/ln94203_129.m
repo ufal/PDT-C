@@ -38,7 +38,7 @@
 <LM>w#w-ln94203-129-p1s1w3</LM>
 </w.rf>
 <form>bývají</form>
-<tag lemma="bývat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="bývat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94203-129-p1s1w4">
 <src.rf>manual</src.rf>
@@ -171,7 +171,7 @@
 <LM>w#w-ln94203-129-p1s2w8</LM>
 </w.rf>
 <form>připravuje</form>
-<tag lemma="připravovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="připravovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94203-129-p1s2w9">
 <src.rf>manual</src.rf>

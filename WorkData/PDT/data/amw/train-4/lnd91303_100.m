@@ -541,7 +541,7 @@
 <LM>w#w-lnd91303-100-p2s1w61</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd91303-100-p2s1w62">
 <src.rf>manual</src.rf>
@@ -605,7 +605,7 @@
 <LM>w#w-lnd91303-100-p2s1w69</LM>
 </w.rf>
 <form>splňují</form>
-<tag lemma="splňovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="splňovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd91303-100-p2s1w70">
 <src.rf>manual</src.rf>
@@ -661,7 +661,7 @@
 <LM>w#w-lnd91303-100-p2s1w76</LM>
 </w.rf>
 <form>zavazují</form>
-<tag lemma="zavazovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="zavazovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd91303-100-p2s1w77">
 <src.rf>manual</src.rf>

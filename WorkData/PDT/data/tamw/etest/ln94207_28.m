@@ -35,7 +35,7 @@
 <LM>w#w-ln94207-28-p1s1w3</LM>
 </w.rf>
 <form>zúčastní</form>
-<tag lemma="zúčastnit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zúčastnit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94207-28-p1s1w4">
 <src.rf>manual</src.rf>
@@ -130,7 +130,7 @@
 <LM>w#w-ln94207-28-p2s1Bw7</LM>
 </w.rf>
 <form>zúčastní</form>
-<tag lemma="zúčastnit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zúčastnit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94207-28-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -229,7 +229,7 @@
 <LM>w#w-ln94207-28-p2s1Bw19</LM>
 </w.rf>
 <form>uskuteční</form>
-<tag lemma="uskutečnit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="uskutečnit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94207-28-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -701,7 +701,7 @@
 <LM>w#w-ln94207-28-p2s5w5</LM>
 </w.rf>
 <form>slyšet</form>
-<tag lemma="slyšet" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="slyšet" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94207-28-p2s5w6">
 <src.rf>manual</src.rf>
@@ -813,7 +813,7 @@
 <LM>w#w-ln94207-28-p2s5w19</LM>
 </w.rf>
 <form>znamená</form>
-<tag lemma="znamenat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="znamenat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-28-p2s5w20">
 <src.rf>manual</src.rf>

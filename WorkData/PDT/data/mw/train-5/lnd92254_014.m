@@ -466,7 +466,7 @@
 <LM>w#w-lnd92254-014-p1s3w21</LM>
 </w.rf>
 <form>dají</form>
-<tag lemma="dát" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="dát" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-lnd92254-014-p1s3w22">
 <src.rf>manual</src.rf>
@@ -546,7 +546,7 @@
 <LM>w#w-lnd92254-014-p1s3w31</LM>
 </w.rf>
 <form>nevyhoví</form>
-<tag lemma="vyhovět_:W" src="auto" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="vyhovět" src="auto" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-lnd92254-014-p1s3w32">
 <src.rf>manual</src.rf>
@@ -850,7 +850,7 @@
 <LM>w#w-lnd92254-014-p2s1w25</LM>
 </w.rf>
 <form>vytvoří</form>
-<tag lemma="vytvořit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vytvořit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd92254-014-p2s1w26">
 <src.rf>manual</src.rf>
@@ -900,7 +900,7 @@
 <LM>w#w-lnd92254-014-p2s2w5</LM>
 </w.rf>
 <form>podporuje</form>
-<tag lemma="podporovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="podporovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92254-014-p2s2w6">
 <src.rf>manual</src.rf>
@@ -1074,7 +1074,7 @@
 <LM>w#w-lnd92254-014-p2s2w27</LM>
 </w.rf>
 <form>vytvořit</form>
-<tag lemma="vytvořit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vytvořit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92254-014-p2s2w28">
 <src.rf>manual</src.rf>
@@ -1188,7 +1188,7 @@
 <LM>w#w-lnd92254-014-p3s1w5</LM>
 </w.rf>
 <form>budou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3F-AAI--</tag>
 </m>
 <m id="m-lnd92254-014-p3s1w6">
 <src.rf>manual</src.rf>
@@ -1348,7 +1348,7 @@
 <LM>w#w-lnd92254-014-p3s2w8</LM>
 </w.rf>
 <form>odvolává</form>
-<tag lemma="odvolávat_:T_^(*4at)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="odvolávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92254-014-p3s2w9">
 <src.rf>manual</src.rf>
@@ -1388,7 +1388,7 @@
 <LM>w#w-lnd92254-014-p3s2w13</LM>
 </w.rf>
 <form>hodlá</form>
-<tag lemma="hodlat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="hodlat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92254-014-p3s2w14">
 <src.rf>manual</src.rf>
@@ -1420,7 +1420,7 @@
 <LM>w#w-lnd92254-014-p3s2w17</LM>
 </w.rf>
 <form>prodávat</form>
-<tag lemma="prodávat_:T_^(*4at)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="prodávat_^(*4at)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd92254-014-p3s2w18">
 <src.rf>manual</src.rf>

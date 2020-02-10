@@ -43,7 +43,7 @@
 <LM>w#w-lnd94104-053-p1s1w4</LM>
 </w.rf>
 <form>hrozí</form>
-<tag lemma="hrozit_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="hrozit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd94104-053-p1s1w5">
 <src.rf>manual</src.rf>
@@ -209,7 +209,7 @@
 <LM>w#w-lnd94104-053-p1s4w3</LM>
 </w.rf>
 <form>zuří</form>
-<tag lemma="zuřit_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="zuřit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd94104-053-p1s4w4">
 <src.rf>manual</src.rf>
@@ -267,7 +267,7 @@
 <LM>w#w-lnd94104-053-p1s5w3</LM>
 </w.rf>
 <form>prchají</form>
-<tag lemma="prchat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="prchat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd94104-053-p1s5w4">
 <src.rf>manual</src.rf>
@@ -365,7 +365,7 @@
 <LM>w#w-lnd94104-053-p1s6w3</LM>
 </w.rf>
 <form>chystají</form>
-<tag lemma="chystat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="chystat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd94104-053-p1s6w4">
 <src.rf>manual</src.rf>
@@ -546,7 +546,7 @@
 <LM>w#w-lnd94104-053-p1s7w16</LM>
 </w.rf>
 <form>tísní</form>
-<tag lemma="tísnit_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="tísnit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd94104-053-p1s7w17">
 <src.rf>manual</src.rf>
@@ -587,7 +587,7 @@
 <LM>w#w-lnd94104-053-p1s7w21</LM>
 </w.rf>
 <form>hrozí</form>
-<tag lemma="hrozit_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="hrozit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd94104-053-p1s7w22">
 <src.rf>manual</src.rf>

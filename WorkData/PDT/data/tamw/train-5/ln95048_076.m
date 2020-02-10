@@ -393,8 +393,8 @@
 </w.rf>
 <form>hraje</form>
 <tag>
-<AM lemma="hrát" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="hrát_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="hrát" src="auto">VB-S---3P-AAI--</AM>
+<AM lemma="hrát" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln95048-076-p1s2Bw5">
@@ -573,7 +573,7 @@
 <LM>w#w-ln95048-076-p1s3w10</LM>
 </w.rf>
 <form>pochvaluje</form>
-<tag lemma="pochvalovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="pochvalovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95048-076-p1s3w11">
 <src.rf>manual</src.rf>

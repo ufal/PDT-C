@@ -183,7 +183,7 @@
 <LM>w#w-cmpr9416-030-p4s2w2</LM>
 </w.rf>
 <form>patří</form>
-<tag lemma="patřit_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="patřit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9416-030-p4s2w3">
 <src.rf>manual</src.rf>
@@ -353,7 +353,7 @@
 <LM>w#w-cmpr9416-030-p4s3w9</LM>
 </w.rf>
 <form>znamená</form>
-<tag lemma="znamenat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="znamenat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9416-030-p4s3w10">
 <src.rf>manual</src.rf>

@@ -493,8 +493,8 @@
 <form>Slov</form>
 <tag>
 <AM lemma="slovenský_:B_;K" src="orig" selected="1">AAXXX----1A---8</AM>
-<AM lemma="slovit_:W" src="auto">Vi-S---2--A----</AM>
-<AM lemma="slovit_:W" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="slovit" src="auto">Vi-S---2--A-P--</AM>
+<AM lemma="slovit" src="auto">Vi-S---3--A-P-4</AM>
 <AM lemma="slovo" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>
@@ -601,8 +601,8 @@
 <form>Slov</form>
 <tag>
 <AM lemma="slovenský_:B_;K_,t" src="orig" selected="1">AAXXX----1A---8</AM>
-<AM lemma="slovit_:W" src="auto">Vi-S---2--A----</AM>
-<AM lemma="slovit_:W" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="slovit" src="auto">Vi-S---2--A-P--</AM>
+<AM lemma="slovit" src="auto">Vi-S---3--A-P-4</AM>
 <AM lemma="slovo" src="auto" recommended="1">NNNP2-----A----</AM>
 </tag>
 </m>

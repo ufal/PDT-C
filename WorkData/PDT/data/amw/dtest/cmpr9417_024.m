@@ -28,8 +28,8 @@
 </w.rf>
 <form>Nezapomeňte</form>
 <tag>
-<AM lemma="zapomenout" src="orig">Vi-P---2--N----</AM>
-<AM lemma="zapomenout_:W" src="manual" selected="1">Vi-P---2--N----</AM>
+<AM lemma="zapomenout" src="orig">Vi-P---2--N-P--</AM>
+<AM lemma="zapomenout" src="manual" selected="1">Vi-P---2--N-P--</AM>
 </tag>
 </m>
 <m id="m-cmpr9417-024-p3s1w3">
@@ -88,7 +88,7 @@
 <LM>w#w-cmpr9417-024-p5s1w6</LM>
 </w.rf>
 <form>připadá</form>
-<tag lemma="připadat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="připadat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9417-024-p5s1w7">
 <src.rf>manual</src.rf>

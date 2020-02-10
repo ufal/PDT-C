@@ -51,7 +51,7 @@
 <LM>w#w-mf930709-137-p1s1w5</LM>
 </w.rf>
 <form>pozorují</form>
-<tag lemma="pozorovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="pozorovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930709-137-p1s1w6">
 <src.rf>manual</src.rf>
@@ -123,7 +123,7 @@
 <LM>w#w-mf930709-137-p1s1w14</LM>
 </w.rf>
 <form>leží</form>
-<tag lemma="ležet" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="ležet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930709-137-p1s1w15">
 <src.rf>manual</src.rf>
@@ -187,7 +187,7 @@
 <LM>w#w-mf930709-137-p1s1w22</LM>
 </w.rf>
 <form>panují</form>
-<tag lemma="panovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="panovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930709-137-p1s1w23">
 <src.rf>manual</src.rf>

@@ -71,7 +71,7 @@
 <form>jet</form>
 <tag>
 <AM lemma="jet-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
-<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">Vf--------A----</AM>
+<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">Vf--------A-I--</AM>
 <AM lemma="jet-2_,h_^(letadlo_s_tryskovým_pohonem)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jet-2_,h_^(letadlo_s_tryskovým_pohonem)" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -454,7 +454,7 @@
 <LM>w#w-mf920902-113-p2s3w18</LM>
 </w.rf>
 <form>jde</form>
-<tag lemma="jít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="jít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920902-113-p2s3w19">
 <src.rf>manual</src.rf>
@@ -542,7 +542,7 @@
 <LM>w#w-mf920902-113-p2s3w29</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-mf920902-113-p2s3w30">
 <src.rf>manual</src.rf>
@@ -566,7 +566,7 @@
 <LM>w#w-mf920902-113-p2s3w32</LM>
 </w.rf>
 <form>zajišťovat</form>
-<tag lemma="zajišťovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zajišťovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf920902-113-p2s3w33">
 <src.rf>manual</src.rf>
@@ -672,7 +672,7 @@
 <LM>w#w-mf920902-113-p2s4w7</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920902-113-p2s4w8">
 <src.rf>manual</src.rf>
@@ -736,7 +736,7 @@
 <LM>w#w-mf920902-113-p2s4w15</LM>
 </w.rf>
 <form>následují</form>
-<tag lemma="následovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="následovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920902-113-p2s4w16">
 <src.rf>manual</src.rf>
@@ -946,7 +946,7 @@
 <LM>w#w-mf920902-113-p3s1w25</LM>
 </w.rf>
 <form>určuje</form>
-<tag lemma="určovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="určovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920902-113-p3s1w26">
 <src.rf>manual</src.rf>
@@ -1002,7 +1002,7 @@
 <LM>w#w-mf920902-113-p3s1w32</LM>
 </w.rf>
 <form>mít</form>
-<tag lemma="mít" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="mít" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf920902-113-p3s1w33">
 <src.rf>manual</src.rf>

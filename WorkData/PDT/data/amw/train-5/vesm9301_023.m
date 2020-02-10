@@ -188,7 +188,7 @@
 <LM>w#w-vesm9301-023-p2s1w13</LM>
 </w.rf>
 <form>mají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-vesm9301-023-p2s1w14">
 <src.rf>manual</src.rf>
@@ -212,7 +212,7 @@
 <LM>w#w-vesm9301-023-p2s1w16</LM>
 </w.rf>
 <form>nemají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 <m id="m-vesm9301-023-p2s1w17">
 <src.rf>manual</src.rf>
@@ -220,7 +220,7 @@
 <LM>w#w-vesm9301-023-p2s1w17</LM>
 </w.rf>
 <form>být</form>
-<tag lemma="být" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="být" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-vesm9301-023-p2s1w18">
 <src.rf>manual</src.rf>
@@ -412,7 +412,7 @@
 <LM>w#w-vesm9301-023-p2s3w3</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-vesm9301-023-p2s3w4">
 <src.rf>manual</src.rf>
@@ -436,7 +436,7 @@
 <LM>w#w-vesm9301-023-p2s3w6</LM>
 </w.rf>
 <form>poučit</form>
-<tag lemma="poučit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="poučit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-vesm9301-023-p2s3w7">
 <src.rf>manual</src.rf>
@@ -588,7 +588,7 @@
 <LM>w#w-vesm9301-023-p3s1w6</LM>
 </w.rf>
 <form>začíná</form>
-<tag lemma="začínat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="začínat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9301-023-p3s1w7">
 <src.rf>manual</src.rf>
@@ -596,7 +596,7 @@
 <LM>w#w-vesm9301-023-p3s1w7</LM>
 </w.rf>
 <form>používat</form>
-<tag lemma="používat_:T_^(*3t)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="používat_^(*3t)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-vesm9301-023-p3s1w8">
 <src.rf>manual</src.rf>
@@ -699,7 +699,7 @@
 <LM>w#w-vesm9301-023-p3s1w19</LM>
 </w.rf>
 <form>znamená</form>
-<tag lemma="znamenat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="znamenat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9301-023-p3s1w20">
 <src.rf>manual</src.rf>
@@ -897,7 +897,7 @@
 <LM>w#w-vesm9301-023-p3s2w3</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9301-023-p3s2w4">
 <src.rf>manual</src.rf>
@@ -963,7 +963,7 @@
 <LM>w#w-vesm9301-023-p3s3w4</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9301-023-p3s3w5">
 <src.rf>manual</src.rf>
@@ -1027,7 +1027,7 @@
 <LM>w#w-vesm9301-023-p3s3w12</LM>
 </w.rf>
 <form>mluví</form>
-<tag lemma="mluvit_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="mluvit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-vesm9301-023-p3s3w13">
 <src.rf>manual</src.rf>
@@ -1123,7 +1123,7 @@
 <LM>w#w-vesm9301-023-p3s3w24</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-vesm9301-023-p3s3w25">
 <src.rf>manual</src.rf>
@@ -1172,7 +1172,7 @@
 <LM>w#w-vesm9301-023-p3s3w30</LM>
 </w.rf>
 <form>počínaje</form>
-<tag lemma="počínat_:T" src="orig" selected="1">VeYS------A----</tag>
+<tag lemma="počínat" src="orig" selected="1">VeYS------A-I--</tag>
 </m>
 <m id="m-vesm9301-023-p3s3w31">
 <src.rf>manual</src.rf>
@@ -1180,7 +1180,7 @@
 <LM>w#w-vesm9301-023-p3s3w31</LM>
 </w.rf>
 <form>zřizuje</form>
-<tag lemma="zřizovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zřizovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9301-023-p3s3w32">
 <src.rf>manual</src.rf>
@@ -1284,7 +1284,7 @@
 <LM>w#w-vesm9301-023-p3s3w44</LM>
 </w.rf>
 <form>mají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-vesm9301-023-p3s3w45">
 <src.rf>manual</src.rf>
@@ -1292,7 +1292,7 @@
 <LM>w#w-vesm9301-023-p3s3w45</LM>
 </w.rf>
 <form>zaměřit</form>
-<tag lemma="zaměřit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zaměřit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-vesm9301-023-p3s3w46">
 <src.rf>manual</src.rf>
@@ -1422,7 +1422,7 @@
 <LM>w#w-vesm9301-023-p3s4w2</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9301-023-p3s4w3">
 <src.rf>manual</src.rf>
@@ -1506,7 +1506,7 @@
 <LM>w#w-vesm9301-023-p3s4w12</LM>
 </w.rf>
 <form>lze</form>
-<tag lemma="lze" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="lze" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9301-023-p3s4w13">
 <src.rf>manual</src.rf>
@@ -1514,7 +1514,7 @@
 <LM>w#w-vesm9301-023-p3s4w13</LM>
 </w.rf>
 <form>připsat</form>
-<tag lemma="připsat" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="připsat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-vesm9301-023-p3s4w14">
 <src.rf>manual</src.rf>
@@ -1645,7 +1645,7 @@
 <LM>w#w-vesm9301-023-p3s4w29</LM>
 </w.rf>
 <form>setkávají</form>
-<tag lemma="setkávat_:T_^(*4at)" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="setkávat_^(*4at)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-vesm9301-023-p3s4w30">
 <src.rf>manual</src.rf>
@@ -1703,7 +1703,7 @@
 <LM>w#w-vesm9301-023-p4s1w3</LM>
 </w.rf>
 <form>přijde</form>
-<tag lemma="přijít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="přijít" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-vesm9301-023-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1823,7 +1823,7 @@
 <LM>w#w-vesm9301-023-p4s1w18</LM>
 </w.rf>
 <form>zpomaluje</form>
-<tag lemma="zpomalovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zpomalovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9301-023-p4s1w19">
 <src.rf>manual</src.rf>
@@ -1841,7 +1841,7 @@
 <LM>w#w-vesm9301-023-p4s2w1</LM>
 </w.rf>
 <form>Bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-vesm9301-023-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1873,7 +1873,7 @@
 <LM>w#w-vesm9301-023-p4s2w5</LM>
 </w.rf>
 <form>snižovat</form>
-<tag lemma="snižovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="snižovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-vesm9301-023-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1921,7 +1921,7 @@
 <LM>w#w-vesm9301-023-p4s2w11</LM>
 </w.rf>
 <form>budou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3F-AAI--</tag>
 </m>
 <m id="m-vesm9301-023-p4s2w12">
 <src.rf>manual</src.rf>
@@ -1929,7 +1929,7 @@
 <LM>w#w-vesm9301-023-p4s2w12</LM>
 </w.rf>
 <form>rušit</form>
-<tag lemma="rušit_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="rušit" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-vesm9301-023-p4s2w13">
 <src.rf>manual</src.rf>
@@ -2017,7 +2017,7 @@
 <LM>w#w-vesm9301-023-p4s2w23</LM>
 </w.rf>
 <form>budou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3F-AAI--</tag>
 </m>
 <m id="m-vesm9301-023-p4s2w24">
 <src.rf>manual</src.rf>
@@ -2025,7 +2025,7 @@
 <LM>w#w-vesm9301-023-p4s2w24</LM>
 </w.rf>
 <form>pracovat</form>
-<tag lemma="pracovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="pracovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-vesm9301-023-p4s2w25">
 <src.rf>manual</src.rf>
@@ -2049,7 +2049,7 @@
 <LM>w#w-vesm9301-023-p4s2w27</LM>
 </w.rf>
 <form>umírat</form>
-<tag lemma="umírat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="umírat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-vesm9301-023-p4s2w28">
 <src.rf>manual</src.rf>

@@ -144,7 +144,7 @@
 <LM>w#w-cmpr9413-005-p2s2w3</LM>
 </w.rf>
 <form>činí</form>
-<tag lemma="činit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="činit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9413-005-p2s2w4">
 <src.rf>manual</src.rf>
@@ -198,7 +198,7 @@
 <LM>w#w-cmpr9413-005-p2s3w3</LM>
 </w.rf>
 <form>zasílejte</form>
-<tag lemma="zasílat_:T" src="orig" selected="1">Vi-P---2--A----</tag>
+<tag lemma="zasílat" src="orig" selected="1">Vi-P---2--A-I--</tag>
 </m>
 <m id="m-cmpr9413-005-p2s3w4">
 <src.rf>manual</src.rf>
@@ -432,7 +432,7 @@
 <LM>w#w-cmpr9413-005-p2s4w3</LM>
 </w.rf>
 <form>přiložte</form>
-<tag lemma="přiložit_:W" src="orig" selected="1">Vi-P---2--A----</tag>
+<tag lemma="přiložit" src="orig" selected="1">Vi-P---2--A-P--</tag>
 </m>
 <m id="m-cmpr9413-005-p2s4w4">
 <src.rf>manual</src.rf>
@@ -597,7 +597,7 @@
 <LM>w#w-cmpr9413-005-p2s5w1</LM>
 </w.rf>
 <form>Lze</form>
-<tag lemma="lze" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="lze" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9413-005-p2s5w2">
 <src.rf>manual</src.rf>
@@ -605,7 +605,7 @@
 <LM>w#w-cmpr9413-005-p2s5w2</LM>
 </w.rf>
 <form>platit</form>
-<tag lemma="platit_:T" src="auto" selected="1">Vf--------A----</tag>
+<tag lemma="platit" src="auto" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-cmpr9413-005-p2s5w3">
 <src.rf>manual</src.rf>
@@ -735,7 +735,7 @@
 <LM>w#w-cmpr9413-005-p2s6w2</LM>
 </w.rf>
 <form>zasílejte</form>
-<tag lemma="zasílat_:T" src="orig" selected="1">Vi-P---2--A----</tag>
+<tag lemma="zasílat" src="orig" selected="1">Vi-P---2--A-I--</tag>
 </m>
 <m id="m-cmpr9413-005-p2s6w3">
 <src.rf>manual</src.rf>
@@ -865,7 +865,7 @@
 <LM>w#w-cmpr9413-005-p2s7w5</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9413-005-p2s7w6">
 <src.rf>manual</src.rf>
@@ -1020,7 +1020,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>zajišťuje</form>
-<tag lemma="zajišťovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zajišťovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9413-005-p2s8w4">
 <src.rf>manual</src.rf>

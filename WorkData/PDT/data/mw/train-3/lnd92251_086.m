@@ -400,7 +400,7 @@
 <LM>w#w-lnd92251-086-p2s4w6</LM>
 </w.rf>
 <form>vede</form>
-<tag lemma="vést" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vést" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92251-086-p2s4w7">
 <src.rf>manual</src.rf>

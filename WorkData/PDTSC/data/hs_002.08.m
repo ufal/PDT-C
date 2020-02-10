@@ -13,8 +13,8 @@
 </w.rf>
 <form>Nemusí</form>
 <tag>
-<AM lemma="muset" src="auto" selected="1">VB-P---3P-NA--1</AM>
-<AM lemma="muset" src="auto" recommended="1">VB-S---3P-NA---</AM>
+<AM lemma="muset" src="auto" selected="1">VB-P---3P-NAI-1</AM>
+<AM lemma="muset" src="auto" recommended="1">VB-S---3P-NAI--</AM>
 </tag>
 </m>
 <m id="m002-d1t2351-3">
@@ -45,7 +45,7 @@
 <LM>w#w-d1t2351-5</LM>
 </w.rf>
 <form>vysvobozovat</form>
-<tag lemma="vysvobozovat_:T" src="auto" recommended="1">Vf--------A----</tag>
+<tag lemma="vysvobozovat" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="m002-d1e2348-x2-2426">
 <w.rf>
@@ -71,7 +71,7 @@
 <LM>w#w-d1t2351-7</LM>
 </w.rf>
 <form>nemám</form>
-<tag lemma="mít" src="auto" recommended="1">VB-S---1P-NA---</tag>
+<tag lemma="mít" src="auto" recommended="1">VB-S---1P-NAI--</tag>
 </m>
 <m id="m002-d-id2676266">
 <w.rf>
@@ -127,7 +127,7 @@
 <LM>w#w-d1t2351-13</LM>
 </w.rf>
 <form>počkám</form>
-<tag lemma="počkat_:W" src="auto" recommended="1">VB-S---1P-AA---</tag>
+<tag lemma="počkat" src="auto" recommended="1">VB-S---1P-AAP--</tag>
 </m>
 <m id="m002-d-id2676140">
 <w.rf>

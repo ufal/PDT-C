@@ -382,7 +382,7 @@
 <LM>w#w-ln94204-12-p3s1w3</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94204-12-p3s1w4">
 <src.rf>manual</src.rf>
@@ -712,7 +712,7 @@
 <LM>w#w-ln94204-12-p4s1w6</LM>
 </w.rf>
 <form>dokazují</form>
-<tag lemma="dokazovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="dokazovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94204-12-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1152,7 +1152,7 @@
 <LM>w#w-ln94204-12-p4s2w10</LM>
 </w.rf>
 <form>chybějí</form>
-<tag lemma="chybět_:T_^(někde_něco_chybí)" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="chybět_^(někde_něco_chybí)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94204-12-p4s2w11">
 <src.rf>manual</src.rf>
@@ -1168,7 +1168,7 @@
 <LM>w#w-ln94204-12-p4s2w12</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94204-12-p4s2w13">
 <src.rf>manual</src.rf>
@@ -1258,7 +1258,7 @@
 <LM>w#w-ln94204-12-p5s1w3</LM>
 </w.rf>
 <form>předpokládá</form>
-<tag lemma="předpokládat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="předpokládat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94204-12-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1314,7 +1314,7 @@
 <LM>w#w-ln94204-12-p5s1w10</LM>
 </w.rf>
 <form>zůstane</form>
-<tag lemma="zůstat" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zůstat" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94204-12-p5s1w11">
 <src.rf>manual</src.rf>

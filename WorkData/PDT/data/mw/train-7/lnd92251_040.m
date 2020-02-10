@@ -19,7 +19,7 @@
 <LM>w#w-lnd92251-040-p1s1w1</LM>
 </w.rf>
 <form>Chtějí</form>
-<tag lemma="chtít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="chtít" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92251-040-p1s1w2">
 <src.rf>manual</src.rf>
@@ -372,7 +372,7 @@
 <LM>w#w-lnd92251-040-p2s3w11</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-lnd92251-040-p2s3w12">
 <src.rf>manual</src.rf>

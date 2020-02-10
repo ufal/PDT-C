@@ -61,7 +61,7 @@
 <LM>w#w-ln94205-140-p2s1w5</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-ln94205-140-p2s1w6">
 <src.rf>manual</src.rf>
@@ -111,7 +111,7 @@
 <LM>w#w-ln94205-140-p2s2w2</LM>
 </w.rf>
 <form>vznikne</form>
-<tag lemma="vzniknout_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vzniknout" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94205-140-p2s2w3">
 <src.rf>manual</src.rf>
@@ -356,7 +356,7 @@
 <LM>w#w-ln94205-140-p2s4w10</LM>
 </w.rf>
 <form>vyjadřuje</form>
-<tag lemma="vyjadřovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vyjadřovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94205-140-p2s4w11">
 <src.rf>manual</src.rf>
@@ -694,7 +694,7 @@
 <LM>w#w-ln94205-140-p2s6w2</LM>
 </w.rf>
 <form>vychází</form>
-<tag lemma="vycházet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vycházet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94205-140-p2s6w3">
 <src.rf>manual</src.rf>

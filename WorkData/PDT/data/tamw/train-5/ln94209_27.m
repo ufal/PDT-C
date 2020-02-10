@@ -136,7 +136,7 @@
 <LM>w#w-ln94209-27-p2s1Bw1</LM>
 </w.rf>
 <form>Ukázat</form>
-<tag lemma="ukázat" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="ukázat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94209-27-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -171,7 +171,7 @@
 <LM>w#w-ln94209-27-p2s1Bw5</LM>
 </w.rf>
 <form>chápe</form>
-<tag lemma="chápat" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="chápat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94209-27-p2s1Bw6">
 <src.rf>manual</src.rf>

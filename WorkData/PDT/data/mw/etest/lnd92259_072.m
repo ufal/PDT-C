@@ -750,7 +750,7 @@
 <LM>w#w-lnd92259-072-p3s7w4</LM>
 </w.rf>
 <form>odvolat</form>
-<tag lemma="odvolat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="odvolat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92259-072-p3s7w5">
 <src.rf>manual</src.rf>

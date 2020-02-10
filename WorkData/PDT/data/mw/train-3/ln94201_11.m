@@ -418,7 +418,7 @@
 <LM>w#w-ln94201-11-p2s2w18</LM>
 </w.rf>
 <form>vyrábí</form>
-<tag lemma="vyrábět_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vyrábět" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94201-11-p2s2w19">
 <src.rf>manual</src.rf>
@@ -1302,7 +1302,7 @@
 <LM>w#w-ln94201-11-p2s8w4</LM>
 </w.rf>
 <form>vylučuje</form>
-<tag lemma="vylučovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vylučovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94201-11-p2s8w5">
 <src.rf>manual</src.rf>
@@ -1382,7 +1382,7 @@
 <LM>w#w-ln94201-11-p2s8w14</LM>
 </w.rf>
 <form>svědčí</form>
-<tag lemma="svědčit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="svědčit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94201-11-p2s8w15">
 <src.rf>manual</src.rf>

@@ -189,7 +189,7 @@
 <LM>w#w-lnd94103-092-p1s2w3</LM>
 </w.rf>
 <form>věnuje</form>
-<tag lemma="věnovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="věnovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94103-092-p1s2w4">
 <src.rf>manual</src.rf>
@@ -245,7 +245,7 @@
 <LM>w#w-lnd94103-092-p1s2w10</LM>
 </w.rf>
 <form>vybíráme</form>
-<tag lemma="vybírat_:T" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="vybírat" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-lnd94103-092-p1s2w11">
 <src.rf>manual</src.rf>

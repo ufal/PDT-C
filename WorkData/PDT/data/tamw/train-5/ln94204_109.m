@@ -290,7 +290,7 @@
 <LM>w#w-ln94204-109-p2s1Bw29</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94204-109-p2s1Bw30">
 <src.rf>manual</src.rf>

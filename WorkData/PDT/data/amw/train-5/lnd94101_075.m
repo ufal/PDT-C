@@ -54,7 +54,7 @@
 <LM>w#w-lnd94101-075-p1s1Aw5</LM>
 </w.rf>
 <form>vychází</form>
-<tag lemma="vycházet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vycházet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94101-075-p1s1Aw6">
 <src.rf>manual</src.rf>
@@ -153,7 +153,7 @@
 <LM>w#w-lnd94101-075-p1s1Bw3</LM>
 </w.rf>
 <form>uvádí</form>
-<tag lemma="uvádět_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="uvádět" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94101-075-p1s1Bw4">
 <src.rf>manual</src.rf>

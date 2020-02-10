@@ -141,7 +141,7 @@
 <LM>w#w-ln94200-74-p2s1w15</LM>
 </w.rf>
 <form>Vítejte</form>
-<tag lemma="vítat_:T" src="orig" selected="1">Vi-P---2--A----</tag>
+<tag lemma="vítat" src="orig" selected="1">Vi-P---2--A-I--</tag>
 </m>
 <m id="m-ln94200-74-p2s1w16">
 <src.rf>manual</src.rf>
@@ -295,7 +295,7 @@
 <LM>w#w-ln94200-74-p3s1w4</LM>
 </w.rf>
 <form>pořádá</form>
-<tag lemma="pořádat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="pořádat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94200-74-p3s1w5">
 <src.rf>manual</src.rf>

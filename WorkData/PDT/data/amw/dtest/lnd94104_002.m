@@ -43,7 +43,7 @@
 <LM>w#w-lnd94104-002-p1s1Aw4</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94104-002-p1s1Aw5">
 <src.rf>manual</src.rf>
@@ -746,7 +746,7 @@
 <LM>w#w-lnd94104-002-p1s5w5</LM>
 </w.rf>
 <form>není</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-lnd94104-002-p1s5w6">
 <src.rf>manual</src.rf>
@@ -796,7 +796,7 @@
 <LM>w#w-lnd94104-002-p1s6Aw2</LM>
 </w.rf>
 <form>zůstávají</form>
-<tag lemma="zůstávat_:T_^(*4at)" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="zůstávat_^(*4at)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd94104-002-p1s6Aw3">
 <src.rf>manual</src.rf>
@@ -965,7 +965,7 @@
 <LM>w#w-lnd94104-002-p1s6Bw5</LM>
 </w.rf>
 <form>nehrozí</form>
-<tag lemma="hrozit_:T" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="hrozit" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-lnd94104-002-p1s6Bw6">
 <src.rf>manual</src.rf>
@@ -1023,7 +1023,7 @@
 <LM>w#w-lnd94104-002-p1s7w6</LM>
 </w.rf>
 <form>zůstávají</form>
-<tag lemma="zůstávat_:T_^(*4at)" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="zůstávat_^(*4at)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd94104-002-p1s7w7">
 <src.rf>manual</src.rf>
@@ -1071,7 +1071,7 @@
 <LM>w#w-lnd94104-002-p1s7w12</LM>
 </w.rf>
 <form>obávají</form>
-<tag lemma="obávat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="obávat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd94104-002-p1s7w13">
 <src.rf>manual</src.rf>
@@ -1167,7 +1167,7 @@
 <LM>w#w-lnd94104-002-p1s7w24</LM>
 </w.rf>
 <form>klesá</form>
-<tag lemma="klesat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="klesat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94104-002-p1s7w25">
 <src.rf>manual</src.rf>

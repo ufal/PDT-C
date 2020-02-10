@@ -61,7 +61,7 @@
 <LM>w#w-ln95044-117-p2s1w5</LM>
 </w.rf>
 <form>hodlá</form>
-<tag lemma="hodlat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="hodlat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95044-117-p2s1w6">
 <src.rf>manual</src.rf>
@@ -69,7 +69,7 @@
 <LM>w#w-ln95044-117-p2s1w6</LM>
 </w.rf>
 <form>zaměřit</form>
-<tag lemma="zaměřit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zaměřit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95044-117-p2s1w7">
 <src.rf>manual</src.rf>
@@ -149,7 +149,7 @@
 <LM>w#w-ln95044-117-p2s1w16</LM>
 </w.rf>
 <form>podávají</form>
-<tag lemma="podávat_:T_^(něco_[někomu]_[někam])_(*4at)" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95044-117-p2s1w17">
 <src.rf>manual</src.rf>
@@ -231,7 +231,7 @@
 <LM>w#w-ln95044-117-p2s2w1</LM>
 </w.rf>
 <form>Hodlá</form>
-<tag lemma="hodlat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="hodlat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95044-117-p2s2w2">
 <src.rf>manual</src.rf>
@@ -287,7 +287,7 @@
 <LM>w#w-ln95044-117-p2s2w8</LM>
 </w.rf>
 <form>uspořádat</form>
-<tag lemma="uspořádat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="uspořádat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95044-117-p2s2w9">
 <src.rf>manual</src.rf>

@@ -1281,7 +1281,7 @@
 <LM>w#w-ln94205-133-p2s7w24</LM>
 </w.rf>
 <form>musejí</form>
-<tag lemma="muset" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="muset" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94205-133-p2s7w25">
 <src.rf>manual</src.rf>
@@ -1289,7 +1289,7 @@
 <LM>w#w-ln94205-133-p2s7w25</LM>
 </w.rf>
 <form>seznámit</form>
-<tag lemma="seznámit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="seznámit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94205-133-p2s7w26">
 <src.rf>manual</src.rf>

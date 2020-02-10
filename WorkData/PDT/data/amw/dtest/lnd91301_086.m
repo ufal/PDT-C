@@ -759,7 +759,7 @@
 <LM>w#w-lnd91301-086-p4s3w19</LM>
 </w.rf>
 <form>lze</form>
-<tag lemma="lze" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="lze" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd91301-086-p4s3w20">
 <src.rf>manual</src.rf>
@@ -767,7 +767,7 @@
 <LM>w#w-lnd91301-086-p4s3w20</LM>
 </w.rf>
 <form>nazvat</form>
-<tag lemma="nazvat" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="nazvat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd91301-086-p4s3w21">
 <src.rf>manual</src.rf>
@@ -873,7 +873,7 @@
 <LM>w#w-lnd91301-086-p4s4w9</LM>
 </w.rf>
 <form>promíjejí</form>
-<tag lemma="promíjet_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="promíjet" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd91301-086-p4s4w10">
 <src.rf>manual</src.rf>

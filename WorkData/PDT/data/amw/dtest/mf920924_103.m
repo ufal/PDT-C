@@ -51,7 +51,7 @@
 <LM>w#w-mf920924-103-p1s1w5</LM>
 </w.rf>
 <form>zachraňuje</form>
-<tag lemma="zachraňovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zachraňovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920924-103-p1s1w6">
 <src.rf>manual</src.rf>

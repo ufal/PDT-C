@@ -32,7 +32,7 @@
 <LM>w#w-ln94205-84-p1s1w2</LM>
 </w.rf>
 <form>odškodní</form>
-<tag lemma="odškodnit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="odškodnit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94205-84-p1s1w3">
 <src.rf>manual</src.rf>
@@ -121,7 +121,7 @@
 <LM>w#w-ln94205-84-p2s1Bw6</LM>
 </w.rf>
 <form>vytvoří</form>
-<tag lemma="vytvořit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vytvořit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94205-84-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -188,7 +188,7 @@
 <LM>w#w-ln94205-84-p2s1Bw14</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-ln94205-84-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -228,7 +228,7 @@
 <LM>w#w-ln94205-84-p2s1Bw19</LM>
 </w.rf>
 <form>financovat</form>
-<tag lemma="financovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="financovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94205-84-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -398,7 +398,7 @@
 <LM>w#w-ln94205-84-p2s2w2</LM>
 </w.rf>
 <form>zahrnuje</form>
-<tag lemma="zahrnovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zahrnovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94205-84-p2s2w3">
 <src.rf>manual</src.rf>
@@ -736,7 +736,7 @@
 <LM>w#w-ln94205-84-p2s3w6</LM>
 </w.rf>
 <form>poskytovat</form>
-<tag lemma="poskytovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="poskytovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94205-84-p2s3w7">
 <src.rf>manual</src.rf>
@@ -800,7 +800,7 @@
 <LM>w#w-ln94205-84-p2s3w14</LM>
 </w.rf>
 <form>budou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3F-AAI--</tag>
 </m>
 <m id="m-ln94205-84-p2s3w15">
 <src.rf>manual</src.rf>

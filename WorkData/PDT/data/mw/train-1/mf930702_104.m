@@ -465,7 +465,7 @@
 <LM>w#w-mf930702-104-p2s4w14</LM>
 </w.rf>
 <form>považuje</form>
-<tag lemma="považovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="považovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930702-104-p2s4w15">
 <src.rf>manual</src.rf>

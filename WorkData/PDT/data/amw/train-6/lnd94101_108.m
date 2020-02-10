@@ -215,7 +215,7 @@
 <LM>w#w-lnd94101-108-p1s3w19</LM>
 </w.rf>
 <form>prošetřuje</form>
-<tag lemma="prošetřovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="prošetřovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94101-108-p1s3w20">
 <src.rf>manual</src.rf>
@@ -874,7 +874,7 @@
 <LM>w#w-lnd94101-108-p1s8w11</LM>
 </w.rf>
 <form>nachází</form>
-<tag lemma="nacházet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="nacházet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94101-108-p1s8w12">
 <src.rf>manual</src.rf>

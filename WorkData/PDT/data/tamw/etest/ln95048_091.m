@@ -1268,7 +1268,7 @@
 <LM>w#w-ln95048-091-p4s1w12</LM>
 </w.rf>
 <form>raduje</form>
-<tag lemma="radovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="radovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95048-091-p4s1w13">
 <src.rf>manual</src.rf>

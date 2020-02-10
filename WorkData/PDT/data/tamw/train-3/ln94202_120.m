@@ -59,7 +59,7 @@
 <LM>w#w-ln94202-120-p1s1Aw6</LM>
 </w.rf>
 <form>bojuje</form>
-<tag lemma="bojovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="bojovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94202-120-p1s1Aw7">
 <src.rf>manual</src.rf>

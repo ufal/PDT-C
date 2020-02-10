@@ -48,7 +48,7 @@
 <LM>w#w-mf930709-026-p1s1w4</LM>
 </w.rf>
 <form>nestihnou</form>
-<tag lemma="stihnout_:W" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="stihnout" src="orig" selected="1">VB-P---3P-NAP--</tag>
 </m>
 <m id="m-mf930709-026-p1s1w5">
 <src.rf>manual</src.rf>
@@ -58,7 +58,7 @@
 <form>vydat</form>
 <tag>
 <AM lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig">Vf--------A----</AM>
-<AM lemma="vydat_:W" src="manual" selected="1">Vf--------A----</AM>
+<AM lemma="vydat" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m-mf930709-026-p1s1w6">
@@ -95,7 +95,7 @@
 <LM>w#w-mf930709-026-p2s1Bw1</LM>
 </w.rf>
 <form>Je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930709-026-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -186,7 +186,7 @@
 <LM>w#w-mf930709-026-p2s1Bw12</LM>
 </w.rf>
 <form>nestihne</form>
-<tag lemma="stihnout_:W" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="stihnout" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-mf930709-026-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -471,7 +471,7 @@
 <LM>w#w-mf930709-026-p2s3w3</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930709-026-p2s3w4">
 <src.rf>manual</src.rf>
@@ -593,7 +593,7 @@
 <LM>w#w-mf930709-026-p2s4w5</LM>
 </w.rf>
 <form>zvládnout</form>
-<tag lemma="zvládnout_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zvládnout" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930709-026-p2s4w6">
 <src.rf>manual</src.rf>
@@ -617,7 +617,7 @@
 <LM>w#w-mf930709-026-p2s4w8</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930709-026-p2s4w9">
 <src.rf>manual</src.rf>
@@ -681,7 +681,7 @@
 <LM>w#w-mf930709-026-p2s4w16</LM>
 </w.rf>
 <form>nebudou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3F-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3F-NAI--</tag>
 </m>
 <m id="m-mf930709-026-p2s4w17">
 <src.rf>manual</src.rf>
@@ -697,7 +697,7 @@
 <LM>w#w-mf930709-026-p2s4w18</LM>
 </w.rf>
 <form>obchodovat</form>
-<tag lemma="obchodovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="obchodovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf930709-026-p2s4w19">
 <src.rf>manual</src.rf>

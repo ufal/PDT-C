@@ -96,7 +96,7 @@
 <LM>w#w-mf920925-114-p1s1Bw1</LM>
 </w.rf>
 <form>HROZÍ</form>
-<tag lemma="hrozit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="hrozit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-114-p1s1Bw2">
 <src.rf>manual</src.rf>
@@ -770,7 +770,7 @@
 <LM>w#w-mf920925-114-p4s1w11</LM>
 </w.rf>
 <form>odstoupit</form>
-<tag lemma="odstoupit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="odstoupit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920925-114-p4s1w12">
 <src.rf>manual</src.rf>
@@ -1154,7 +1154,7 @@
 <LM>w#w-mf920925-114-p7s1w1</LM>
 </w.rf>
 <form>Bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-mf920925-114-p7s1w2">
 <src.rf>manual</src.rf>
@@ -1205,7 +1205,7 @@
 <LM>w#w-mf920925-114-p7s1w7</LM>
 </w.rf>
 <form>hrozí</form>
-<tag lemma="hrozit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="hrozit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-114-p7s1w8">
 <src.rf>manual</src.rf>

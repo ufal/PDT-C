@@ -512,7 +512,7 @@
 <LM>w#w-ln95045-106-p2s4w13</LM>
 </w.rf>
 <form>protrhnout</form>
-<tag lemma="protrhnout_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="protrhnout" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95045-106-p2s4w14">
 <src.rf>manual</src.rf>
@@ -594,7 +594,7 @@
 <LM>w#w-ln95045-106-p2s5w6</LM>
 </w.rf>
 <form>pokračovat</form>
-<tag lemma="pokračovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="pokračovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95045-106-p2s5w7">
 <src.rf>manual</src.rf>

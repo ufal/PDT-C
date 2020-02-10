@@ -27,7 +27,7 @@
 <LM>w#w-mf930703-114-p1s1w2</LM>
 </w.rf>
 <form>zlikviduje</form>
-<tag lemma="zlikvidovat_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zlikvidovat" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930703-114-p1s1w3">
 <src.rf>manual</src.rf>
@@ -289,7 +289,7 @@
 <LM>w#w-mf930703-114-p2s1w30</LM>
 </w.rf>
 <form>zlikviduje</form>
-<tag lemma="zlikvidovat_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zlikvidovat" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930703-114-p2s1w31">
 <src.rf>manual</src.rf>
@@ -567,7 +567,7 @@
 <LM>w#w-mf930703-114-p2s4w1</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-mf930703-114-p2s4w2">
 <src.rf>manual</src.rf>

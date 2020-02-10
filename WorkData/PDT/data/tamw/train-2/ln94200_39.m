@@ -502,7 +502,7 @@
 <LM>w#w-ln94200-39-p3s1w3</LM>
 </w.rf>
 <form>znamenat</form>
-<tag lemma="znamenat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="znamenat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94200-39-p3s1w4">
 <src.rf>manual</src.rf>
@@ -640,7 +640,7 @@
 <LM>w#w-ln94200-39-p3s2w14</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94200-39-p3s2w15">
 <src.rf>manual</src.rf>
@@ -2373,7 +2373,7 @@
 <LM>w#w-ln94200-39-p7s4w3</LM>
 </w.rf>
 <form>srovnáme</form>
-<tag lemma="srovnat_:W" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="srovnat" src="orig" selected="1">VB-P---1P-AAP--</tag>
 </m>
 <m id="m-ln94200-39-p7s4w4">
 <src.rf>manual</src.rf>
@@ -2485,7 +2485,7 @@
 <LM>w#w-ln94200-39-p7s4w17</LM>
 </w.rf>
 <form>zjistíme</form>
-<tag lemma="zjistit_:W" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="zjistit" src="orig" selected="1">VB-P---1P-AAP--</tag>
 </m>
 <m id="m-ln94200-39-p7s4w18">
 <src.rf>manual</src.rf>
@@ -2593,7 +2593,7 @@
 <LM>w#w-ln94200-39-p8s1w2</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94200-39-p8s1w3">
 <src.rf>manual</src.rf>
@@ -2633,7 +2633,7 @@
 <LM>w#w-ln94200-39-p8s1w7</LM>
 </w.rf>
 <form>čeká</form>
-<tag lemma="čekat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="čekat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94200-39-p8s1w8">
 <src.rf>manual</src.rf>
@@ -2729,7 +2729,7 @@
 <LM>w#w-ln94200-39-p8s1w19</LM>
 </w.rf>
 <form>budou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3F-AAI--</tag>
 </m>
 <m id="m-ln94200-39-p8s1w20">
 <src.rf>manual</src.rf>
@@ -2737,7 +2737,7 @@
 <LM>w#w-ln94200-39-p8s1w20</LM>
 </w.rf>
 <form>stoupat</form>
-<tag lemma="stoupat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="stoupat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94200-39-p8s1w21">
 <src.rf>manual</src.rf>
@@ -2867,7 +2867,7 @@
 <LM>w#w-ln94200-39-p8s2w15</LM>
 </w.rf>
 <form>klesne</form>
-<tag lemma="klesnout_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="klesnout" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94200-39-p8s2w16">
 <src.rf>manual</src.rf>

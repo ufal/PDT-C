@@ -77,7 +77,7 @@
 <LM>w#w-vesm9211-021-p2s1w5</LM>
 </w.rf>
 <form>funguje</form>
-<tag lemma="fungovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="fungovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9211-021-p2s1w6">
 <src.rf>manual</src.rf>
@@ -120,7 +120,7 @@
 <LM>w#w-vesm9211-021-p2s1w10</LM>
 </w.rf>
 <form>jsme</form>
-<tag lemma="být" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-vesm9211-021-p2s1w11">
 <src.rf>manual</src.rf>
@@ -214,7 +214,7 @@
 <LM>w#w-vesm9211-021-p2s1w21</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9211-021-p2s1w22">
 <src.rf>manual</src.rf>
@@ -265,7 +265,7 @@
 <LM>w#w-vesm9211-021-p2s1w27</LM>
 </w.rf>
 <form>dostaneme</form>
-<tag lemma="dostat" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="dostat" src="orig" selected="1">VB-P---1P-AAP--</tag>
 </m>
 <m id="m-vesm9211-021-p2s1w28">
 <src.rf>manual</src.rf>
@@ -427,7 +427,7 @@
 <LM>w#w-vesm9211-021-p4s3w4</LM>
 </w.rf>
 <form>umocňuje</form>
-<tag lemma="umocňovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="umocňovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9211-021-p4s3w5">
 <src.rf>manual</src.rf>
@@ -520,7 +520,7 @@
 <LM>w#w-vesm9211-021-p6s1w6</LM>
 </w.rf>
 <form>obsahují</form>
-<tag lemma="obsahovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="obsahovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-vesm9211-021-p6s1w7">
 <src.rf>manual</src.rf>
@@ -728,7 +728,7 @@
 <LM>w#w-vesm9211-021-p6s1w29</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9211-021-p6s1w30">
 <src.rf>manual</src.rf>
@@ -754,7 +754,7 @@
 <LM>w#w-vesm9211-021-p12s3w1</LM>
 </w.rf>
 <form>Platí</form>
-<tag lemma="platit_:T" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="platit" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9211-021-p12s3w2">
 <src.rf>manual</src.rf>

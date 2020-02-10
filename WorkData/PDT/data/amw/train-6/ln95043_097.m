@@ -51,7 +51,7 @@
 <LM>w#w-ln95043-097-p1s1w5</LM>
 </w.rf>
 <form>provokovat</form>
-<tag lemma="provokovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="provokovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95043-097-p1s1w6">
 <src.rf>manual</src.rf>
@@ -304,7 +304,7 @@
 <LM>w#w-ln95043-097-p1s3w3</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-ln95043-097-p1s3w4">
 <src.rf>manual</src.rf>
@@ -320,7 +320,7 @@
 <LM>w#w-ln95043-097-p1s3w5</LM>
 </w.rf>
 <form>ocenit</form>
-<tag lemma="ocenit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="ocenit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95043-097-p1s3w6">
 <src.rf>manual</src.rf>
@@ -475,7 +475,7 @@
 <LM>w#w-ln95043-097-p1s4w8</LM>
 </w.rf>
 <form>kryje</form>
-<tag lemma="krýt" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="krýt" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95043-097-p1s4w9">
 <src.rf>manual</src.rf>

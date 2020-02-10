@@ -27,7 +27,7 @@
 <LM>w#w-ln95044-036-p1s1w2</LM>
 </w.rf>
 <form>musí</form>
-<tag lemma="muset" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="muset" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95044-036-p1s1w3">
 <src.rf>manual</src.rf>
@@ -35,7 +35,7 @@
 <LM>w#w-ln95044-036-p1s1w3</LM>
 </w.rf>
 <form>čekat</form>
-<tag lemma="čekat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="čekat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 </s>
 <s id="m-ln95044-036-p2s1A">
@@ -119,7 +119,7 @@
 <LM>w#w-ln95044-036-p2s1Bw8</LM>
 </w.rf>
 <form>odkládá</form>
-<tag lemma="odkládat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="odkládat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95044-036-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -228,7 +228,7 @@
 <LM>w#w-ln95044-036-p2s2w12</LM>
 </w.rf>
 <form>trápí</form>
-<tag lemma="trápit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="trápit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95044-036-p2s2w13">
 <src.rf>manual</src.rf>
@@ -358,7 +358,7 @@
 <LM>w#w-ln95044-036-p2s3w3</LM>
 </w.rf>
 <form>jsem</form>
-<tag lemma="být" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-ln95044-036-p2s3w4">
 <src.rf>manual</src.rf>
@@ -448,7 +448,7 @@
 <LM>w#w-ln95044-036-p2s4w4</LM>
 </w.rf>
 <form>odhaduje</form>
-<tag lemma="odhadovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="odhadovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95044-036-p2s4w5">
 <src.rf>manual</src.rf>
@@ -613,7 +613,7 @@
 <LM>w#w-ln95044-036-p2s5w8</LM>
 </w.rf>
 <form>kráčí</form>
-<tag lemma="kráčet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="kráčet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95044-036-p2s5w9">
 <src.rf>manual</src.rf>
@@ -701,7 +701,7 @@
 <LM>w#w-ln95044-036-p2s5w19</LM>
 </w.rf>
 <form>vede</form>
-<tag lemma="vést" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vést" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95044-036-p2s5w20">
 <src.rf>manual</src.rf>

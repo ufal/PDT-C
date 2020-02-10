@@ -452,7 +452,7 @@
 <LM>w#w-mf930708-007-p2s3w10</LM>
 </w.rf>
 <form>požaduje</form>
-<tag lemma="požadovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="požadovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-007-p2s3w11">
 <src.rf>manual</src.rf>
@@ -872,7 +872,7 @@
 <LM>w#w-mf930708-007-p3s1w12</LM>
 </w.rf>
 <form>distancuje</form>
-<tag lemma="distancovat_:T_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="distancovat" src="orig" selected="1">VB-S---3P-AAB--</tag>
 </m>
 <m id="m-mf930708-007-p3s1w13">
 <src.rf>manual</src.rf>
@@ -962,7 +962,7 @@
 <LM>w#w-mf930708-007-p3s2w6</LM>
 </w.rf>
 <form>vyvíjí</form>
-<tag lemma="vyvíjet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vyvíjet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-007-p3s2w7">
 <src.rf>manual</src.rf>

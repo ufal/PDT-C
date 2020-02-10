@@ -582,7 +582,7 @@
 <LM>w#w-ln94201-67-p2s5w10</LM>
 </w.rf>
 <form>nezúčastní</form>
-<tag lemma="zúčastnit_:W" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="zúčastnit" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-ln94201-67-p2s5w11">
 <src.rf>manual</src.rf>

@@ -62,7 +62,7 @@
 <LM>w#w-lnd94104-139-p1s1w6</LM>
 </w.rf>
 <form>vymýšlím</form>
-<tag lemma="vymýšlet_:T" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="vymýšlet" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-lnd94104-139-p1s1w7">
 <src.rf>manual</src.rf>
@@ -102,7 +102,7 @@
 <LM>w#w-lnd94104-139-p1s1w11</LM>
 </w.rf>
 <form>slibuje</form>
-<tag lemma="slibovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="slibovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94104-139-p1s1w12">
 <src.rf>manual</src.rf>

@@ -127,7 +127,7 @@
 <LM>w#w-mf920922-081-p2s2w7</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-mf920922-081-p2s2w8">
 <src.rf>manual</src.rf>
@@ -428,7 +428,7 @@
 <LM>w#w-mf920922-081-p2s3w11</LM>
 </w.rf>
 <form>nezpochybňuje</form>
-<tag lemma="zpochybňovat_:T" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="zpochybňovat" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-mf920922-081-p2s3w12">
 <src.rf>manual</src.rf>
@@ -487,7 +487,7 @@
 <LM>w#w-mf920922-081-p2s3w18</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-mf920922-081-p2s3w19">
 <src.rf>manual</src.rf>
@@ -551,7 +551,7 @@
 <LM>w#w-mf920922-081-p2s3w26</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-mf920922-081-p2s3w27">
 <src.rf>manual</src.rf>
@@ -583,7 +583,7 @@
 <LM>w#w-mf920922-081-p2s3w30</LM>
 </w.rf>
 <form>využít</form>
-<tag lemma="využít" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="využít" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920922-081-p2s3w31">
 <src.rf>manual</src.rf>
@@ -804,7 +804,7 @@
 <LM>w#w-mf920922-081-p2s4w24</LM>
 </w.rf>
 <form>vyjádří</form>
-<tag lemma="vyjádřit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vyjádřit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf920922-081-p2s4w25">
 <src.rf>manual</src.rf>
@@ -828,7 +828,7 @@
 <LM>w#w-mf920922-081-p2s4w27</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-mf920922-081-p2s4w28">
 <src.rf>manual</src.rf>
@@ -836,7 +836,7 @@
 <LM>w#w-mf920922-081-p2s4w28</LM>
 </w.rf>
 <form>následovat</form>
-<tag lemma="následovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="následovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf920922-081-p2s4w29">
 <src.rf>manual</src.rf>

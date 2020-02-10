@@ -252,7 +252,7 @@
 <LM>w#w-lnd94105-100-p1s4w3</LM>
 </w.rf>
 <form>držet</form>
-<tag lemma="držet" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="držet" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd94105-100-p1s4w4">
 <src.rf>manual</src.rf>

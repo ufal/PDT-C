@@ -98,7 +98,7 @@
 <LM>w#w-ln94207-96-p2s2w1</LM>
 </w.rf>
 <form>Chci</form>
-<tag lemma="chtít" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="chtít" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-ln94207-96-p2s2w2">
 <src.rf>manual</src.rf>
@@ -300,7 +300,7 @@
 <LM>w#w-ln94207-96-p2s3w23</LM>
 </w.rf>
 <form>zažívá</form>
-<tag lemma="zažívat_:T_^(*3t)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zažívat_^(*3t)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-96-p2s3w24">
 <src.rf>manual</src.rf>
@@ -344,7 +344,7 @@
 <form>Vydává</form>
 <tag>
 <AM lemma="vydávat-1_:T_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="vydávat_:T_^(*4at)" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="vydávat_^(*4at)" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln94207-96-p2s4w2">
@@ -496,7 +496,7 @@
 <LM>w#w-ln94207-96-p3s2w10</LM>
 </w.rf>
 <form>představuje</form>
-<tag lemma="představovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="představovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-96-p3s2w11">
 <src.rf>manual</src.rf>
@@ -644,7 +644,7 @@
 <form>Vydává</form>
 <tag>
 <AM lemma="vydávat-1_:T_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="vydávat_:T_^(*4at)" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="vydávat_^(*4at)" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln94207-96-p3s3w2">
@@ -828,7 +828,7 @@
 <LM>w#w-ln94207-96-p4s2w2</LM>
 </w.rf>
 <form>postihuje</form>
-<tag lemma="postihovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="postihovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-96-p4s2w3">
 <src.rf>manual</src.rf>
@@ -1075,7 +1075,7 @@
 <LM>w#w-ln94207-96-p5s2w5</LM>
 </w.rf>
 <form>uvažuje</form>
-<tag lemma="uvažovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="uvažovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-96-p5s2w6">
 <src.rf>manual</src.rf>
@@ -1553,7 +1553,7 @@
 <form>vydává</form>
 <tag>
 <AM lemma="vydávat-1_:T_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="vydávat_:T_^(*4at)" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="vydávat_^(*4at)" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln94207-96-p6s6w20">

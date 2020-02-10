@@ -182,7 +182,7 @@
 <LM>w#w-mf930701-123-p2s1w18</LM>
 </w.rf>
 <form>vzdát</form>
-<tag lemma="vzdát" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vzdát" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930701-123-p2s1w19">
 <src.rf>manual</src.rf>

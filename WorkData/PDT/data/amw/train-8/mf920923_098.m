@@ -281,7 +281,7 @@
 <LM>w#w-mf920923-098-p1s2w11</LM>
 </w.rf>
 <form>vyhrává</form>
-<tag lemma="vyhrávat_:T_^(*3t)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vyhrávat_^(*3t)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920923-098-p1s2w12">
 <src.rf>manual</src.rf>

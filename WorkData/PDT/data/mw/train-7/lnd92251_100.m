@@ -101,7 +101,7 @@
 <LM>w#w-lnd92251-100-p2s1w4</LM>
 </w.rf>
 <form>prohlubuje</form>
-<tag lemma="prohlubovat_:T" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="prohlubovat" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 </s>
 <s id="m-lnd92251-100-p3s1">
@@ -145,7 +145,7 @@
 <LM>w#w-lnd92251-100-p3s2w3</LM>
 </w.rf>
 <form>pokračuje</form>
-<tag lemma="pokračovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="pokračovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92251-100-p3s2w4">
 <src.rf>manual</src.rf>
@@ -639,7 +639,7 @@
 <LM>w#w-lnd92251-100-p3s6w6</LM>
 </w.rf>
 <form>jsme</form>
-<tag lemma="být" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-lnd92251-100-p3s6w7">
 <src.rf>manual</src.rf>

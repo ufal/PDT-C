@@ -242,7 +242,7 @@
 <LM>w#w-mf930709-117-p2s1Bw17</LM>
 </w.rf>
 <form>nebudou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3F-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3F-NAI--</tag>
 </m>
 <m id="m-mf930709-117-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -250,7 +250,7 @@
 <LM>w#w-mf930709-117-p2s1Bw18</LM>
 </w.rf>
 <form>vystavovat</form>
-<tag lemma="vystavovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vystavovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf930709-117-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -402,7 +402,7 @@
 <LM>w#w-mf930709-117-p2s1Bw37</LM>
 </w.rf>
 <form>představí</form>
-<tag lemma="představit-1_:W_^(si_něco;_něco/někoho_někomu)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="představit-1_^(si_něco;_něco/někoho_někomu)" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930709-117-p2s1Bw38">
 <src.rf>manual</src.rf>

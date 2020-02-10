@@ -120,7 +120,7 @@
 <LM>w#w-ln94208-124-p2s1Aw9</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94208-124-p2s1Aw10">
 <src.rf>manual</src.rf>
@@ -505,7 +505,7 @@
 <LM>w#w-ln94208-124-p2s3w5</LM>
 </w.rf>
 <form>obléká</form>
-<tag lemma="oblékat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="oblékat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94208-124-p2s3w6">
 <src.rf>manual</src.rf>
@@ -545,7 +545,7 @@
 <LM>w#w-ln94208-124-p2s3w10</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94208-124-p2s3w11">
 <src.rf>manual</src.rf>
@@ -1999,8 +1999,8 @@
 </w.rf>
 <form>vede</form>
 <tag>
-<AM lemma="vést" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="vést_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="vést" src="auto">VB-S---3P-AAI--</AM>
+<AM lemma="vést" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln94208-124-p4s5w3">
@@ -2537,7 +2537,7 @@
 <LM>w#w-ln94208-124-p5s2w37</LM>
 </w.rf>
 <form>prodat</form>
-<tag lemma="prodat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="prodat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94208-124-p5s2w38">
 <src.rf>manual</src.rf>

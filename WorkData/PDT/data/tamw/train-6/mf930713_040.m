@@ -253,7 +253,7 @@
 <LM>w#w-mf930713-040-p7s1w2</LM>
 </w.rf>
 <form>Mají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930713-040-p7s1w3">
 <src.rf>manual</src.rf>
@@ -304,7 +304,7 @@
 <LM>w#w-mf930713-040-p8s1w3</LM>
 </w.rf>
 <form>přijde</form>
-<tag lemma="přijít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="přijít" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930713-040-p8s1w4">
 <src.rf>manual</src.rf>
@@ -1773,8 +1773,8 @@
 <AM lemma="televizní_:B" src="orig">AAXXX----1A---8</AM>
 <AM lemma="telefon_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="telefonní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="telit_:T" src="auto">Vi-S---2--A----</AM>
-<AM lemma="telit_:T" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="telit" src="auto">Vi-S---2--A-I--</AM>
+<AM lemma="telit" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="tlo_,n" src="auto">NNNP2-----A----</AM>
 <AM lemma="telefonní" src="manual" selected="1">AAXXX----1A---8</AM>
 </tag>
@@ -2095,7 +2095,7 @@
 <LM>w#w-mf930713-040-p56s1w2</LM>
 </w.rf>
 <form>Pomůže</form>
-<tag lemma="pomoci" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="pomoci" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930713-040-p56s1w3">
 <src.rf>manual</src.rf>

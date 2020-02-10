@@ -255,7 +255,7 @@
 <LM>w#w-ln94211-107-p2s2w7</LM>
 </w.rf>
 <form>představuje</form>
-<tag lemma="představovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="představovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94211-107-p2s2w8">
 <src.rf>manual</src.rf>
@@ -319,7 +319,7 @@
 <LM>w#w-ln94211-107-p2s2w15</LM>
 </w.rf>
 <form>potrvá</form>
-<tag lemma="trvat" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="trvat" src="orig" selected="1">VB-S---3F-AAP--</tag>
 </m>
 <m id="m-ln94211-107-p2s2w16">
 <src.rf>manual</src.rf>
@@ -417,7 +417,7 @@
 <LM>w#w-ln94211-107-p3s1w7</LM>
 </w.rf>
 <form>pokřtí</form>
-<tag lemma="pokřtít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="pokřtít" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94211-107-p3s1w8">
 <src.rf>manual</src.rf>

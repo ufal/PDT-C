@@ -890,10 +890,10 @@
 <AM lemma="Taj_;S" src="orig">NNFXX-----A----</AM>
 <AM lemma="taj" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="taj" src="auto">NNIS4-----A----</AM>
-<AM lemma="tajit_:T" src="auto">Vi-S---2--A----</AM>
-<AM lemma="tajit_:T" src="auto">Vi-S---3--A---4</AM>
-<AM lemma="tát" src="auto">Vi-S---2--A----</AM>
-<AM lemma="tát" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="tajit" src="auto">Vi-S---2--A-I--</AM>
+<AM lemma="tajit" src="auto">Vi-S---3--A-I-4</AM>
+<AM lemma="tát" src="auto">Vi-S---2--A-I--</AM>
+<AM lemma="tát" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="Taj_;S" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>

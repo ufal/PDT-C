@@ -130,7 +130,7 @@
 <LM>w#w-lnd94103-135-p1s3w5</LM>
 </w.rf>
 <form>potřebujeme</form>
-<tag lemma="potřebovat_:T" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="potřebovat" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-lnd94103-135-p1s3w6">
 <src.rf>manual</src.rf>
@@ -173,7 +173,7 @@
 <LM>w#w-lnd94103-135-p1s3w10</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94103-135-p1s3w11">
 <src.rf>manual</src.rf>
@@ -448,7 +448,7 @@
 <LM>w#w-lnd94103-135-p1s5w7</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94103-135-p1s5w8">
 <src.rf>manual</src.rf>

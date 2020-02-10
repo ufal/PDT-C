@@ -1166,8 +1166,8 @@
 <AM lemma="Tela_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="telefon_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
 <AM lemma="telefonní_:B" src="auto">AAXXX----1A---8</AM>
-<AM lemma="telit_:T" src="auto">Vi-S---2--A----</AM>
-<AM lemma="telit_:T" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="telit" src="auto">Vi-S---2--A-I--</AM>
+<AM lemma="telit" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="tlo_,n" src="auto">NNNP2-----A----</AM>
 <AM lemma="Tel-77" src="manual" selected="1">F%-------------</AM>
 </tag>

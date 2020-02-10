@@ -957,7 +957,7 @@
 <LM>w#w-lnd92255-118-p5s2w4</LM>
 </w.rf>
 <form>budou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3F-AAI--</tag>
 </m>
 <m id="m-lnd92255-118-p5s2w5">
 <src.rf>manual</src.rf>
@@ -983,7 +983,7 @@
 <form>stát</form>
 <tag>
 <AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">Vf--------A----</AM>
-<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">Vf--------A----</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">Vf--------A-I--</AM>
 </tag>
 </m>
 <m id="m-lnd92255-118-p5s2w8">

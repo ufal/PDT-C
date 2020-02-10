@@ -1560,7 +1560,7 @@
 <LM>w#w-cmpr9406-019-p9s1Bw7</LM>
 </w.rf>
 <form>ocení</form>
-<tag lemma="ocenit_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="ocenit" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-cmpr9406-019-p9s1Bw8">
 <src.rf>manual</src.rf>

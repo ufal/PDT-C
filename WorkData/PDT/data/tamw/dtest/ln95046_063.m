@@ -415,7 +415,7 @@
 <LM>w#w-ln95046-063-p2s2w2</LM>
 </w.rf>
 <form>Nebudou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3F-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3F-NAI--</tag>
 </m>
 <m id="m-ln95046-063-p2s2w3">
 <src.rf>manual</src.rf>
@@ -611,7 +611,7 @@
 <LM>w#w-ln95046-063-p2s2w25</LM>
 </w.rf>
 <form>hrozí</form>
-<tag lemma="hrozit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="hrozit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95046-063-p2s2w26">
 <src.rf>manual</src.rf>
@@ -691,7 +691,7 @@
 <LM>w#w-ln95046-063-p2s2w35</LM>
 </w.rf>
 <form>promění</form>
-<tag lemma="proměnit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="proměnit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95046-063-p2s2w36">
 <src.rf>manual</src.rf>
@@ -755,7 +755,7 @@
 <LM>w#w-ln95046-063-p2s2w43</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-ln95046-063-p2s2w44">
 <src.rf>manual</src.rf>

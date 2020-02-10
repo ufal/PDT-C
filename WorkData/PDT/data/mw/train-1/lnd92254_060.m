@@ -393,7 +393,7 @@
 <LM>w#w-lnd92254-060-p3s3w26</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-lnd92254-060-p3s3w27">
 <src.rf>manual</src.rf>
@@ -687,7 +687,7 @@
 <LM>w#w-lnd92254-060-p3s4w32</LM>
 </w.rf>
 <form>získat</form>
-<tag lemma="získat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="získat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92254-060-p3s4w33">
 <src.rf>manual</src.rf>
@@ -842,8 +842,8 @@
 </w.rf>
 <form>nemá</form>
 <tag>
-<AM lemma="mít" src="orig">VB-S---3P-NA---</AM>
-<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-NA---</AM>
+<AM lemma="mít" src="orig">VB-S---3P-NAI--</AM>
+<AM lemma="mít" src="manual" selected="1">VB-S---3P-NAI--</AM>
 </tag>
 </m>
 <m id="m-lnd92254-060-p3s5w16">
@@ -1142,7 +1142,7 @@
 <LM>w#w-lnd92254-060-p4s1w4</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92254-060-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1174,7 +1174,7 @@
 <LM>w#w-lnd92254-060-p4s1w8</LM>
 </w.rf>
 <form>znamená</form>
-<tag lemma="znamenat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="znamenat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92254-060-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1310,7 +1310,7 @@
 <LM>w#w-lnd92254-060-p4s1w25</LM>
 </w.rf>
 <form>není</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-lnd92254-060-p4s1w26">
 <src.rf>manual</src.rf>
@@ -1342,7 +1342,7 @@
 <LM>w#w-lnd92254-060-p4s1w29</LM>
 </w.rf>
 <form>mají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92254-060-p4s1w30">
 <src.rf>manual</src.rf>
@@ -1350,7 +1350,7 @@
 <LM>w#w-lnd92254-060-p4s1w30</LM>
 </w.rf>
 <form>sjednat</form>
-<tag lemma="sjednat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="sjednat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92254-060-p4s1w31">
 <src.rf>manual</src.rf>

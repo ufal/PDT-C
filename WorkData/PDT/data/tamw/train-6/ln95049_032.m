@@ -83,7 +83,7 @@
 <LM>w#w-ln95049-032-p1s1w9</LM>
 </w.rf>
 <form>snaží</form>
-<tag lemma="snažit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="snažit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95049-032-p1s1w10">
 <src.rf>manual</src.rf>

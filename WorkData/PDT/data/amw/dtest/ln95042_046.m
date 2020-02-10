@@ -27,7 +27,7 @@
 <LM>w#w-ln95042-046-p1s1w2</LM>
 </w.rf>
 <form>kritizuje</form>
-<tag lemma="kritizovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="kritizovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95042-046-p1s1w3">
 <src.rf>manual</src.rf>
@@ -454,7 +454,7 @@
 <LM>w#w-ln95042-046-p2s3w3</LM>
 </w.rf>
 <form>potřebuje</form>
-<tag lemma="potřebovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="potřebovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95042-046-p2s3w4">
 <src.rf>manual</src.rf>
@@ -526,7 +526,7 @@
 <LM>w#w-ln95042-046-p2s3w13</LM>
 </w.rf>
 <form>přejít</form>
-<tag lemma="přejít" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="přejít" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95042-046-p2s3w14">
 <src.rf>manual</src.rf>
@@ -640,7 +640,7 @@
 <LM>w#w-ln95042-046-p2s4w5</LM>
 </w.rf>
 <form>nemá</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln95042-046-p2s4w6">
 <src.rf>manual</src.rf>
@@ -680,7 +680,7 @@
 <LM>w#w-ln95042-046-p2s4w11</LM>
 </w.rf>
 <form>odškodnit</form>
-<tag lemma="odškodnit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="odškodnit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95042-046-p2s4w12">
 <src.rf>manual</src.rf>
@@ -786,7 +786,7 @@
 <LM>w#w-ln95042-046-p2s5w9</LM>
 </w.rf>
 <form>organizují</form>
-<tag lemma="organizovat_:T_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="organizovat" src="orig" selected="1">VB-P---3P-AAB--</tag>
 </m>
 <m id="m-ln95042-046-p2s5w10">
 <src.rf>manual</src.rf>
@@ -810,7 +810,7 @@
 <LM>w#w-ln95042-046-p2s5w12</LM>
 </w.rf>
 <form>podnikají</form>
-<tag lemma="podnikat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="podnikat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95042-046-p2s5w13">
 <src.rf>manual</src.rf>
@@ -834,7 +834,7 @@
 <LM>w#w-ln95042-046-p2s5w15</LM>
 </w.rf>
 <form>vytvářejí</form>
-<tag lemma="vytvářet_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="vytvářet" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95042-046-p2s5w16">
 <src.rf>manual</src.rf>
@@ -866,7 +866,7 @@
 <LM>w#w-ln95042-046-p2s5w19</LM>
 </w.rf>
 <form>destabilizovat</form>
-<tag lemma="destabilizovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="destabilizovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95042-046-p2s5w20">
 <src.rf>manual</src.rf>

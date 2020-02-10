@@ -737,7 +737,7 @@
 <LM>w#w-lnd92258-025-p3s5w10</LM>
 </w.rf>
 <form>lze</form>
-<tag lemma="lze" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="lze" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92258-025-p3s5w11">
 <src.rf>manual</src.rf>
@@ -753,7 +753,7 @@
 <LM>w#w-lnd92258-025-p3s5w12</LM>
 </w.rf>
 <form>léčit</form>
-<tag lemma="léčit_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="léčit" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd92258-025-p3s5w13">
 <src.rf>manual</src.rf>
@@ -769,7 +769,7 @@
 <LM>w#w-lnd92258-025-p3s5w14</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92258-025-p3s5w15">
 <src.rf>manual</src.rf>
@@ -785,7 +785,7 @@
 <LM>w#w-lnd92258-025-p3s5w16</LM>
 </w.rf>
 <form>odhalit</form>
-<tag lemma="odhalit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="odhalit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92258-025-p3s5w17">
 <src.rf>manual</src.rf>
@@ -827,7 +827,7 @@
 <LM>w#w-lnd92258-025-p3s6w1</LM>
 </w.rf>
 <form>Umožnit</form>
-<tag lemma="umožnit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="umožnit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92258-025-p3s6w2">
 <src.rf>manual</src.rf>
@@ -883,7 +883,7 @@
 <LM>w#w-lnd92258-025-p3s6w8</LM>
 </w.rf>
 <form>usiluje</form>
-<tag lemma="usilovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="usilovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92258-025-p3s6w9">
 <src.rf>manual</src.rf>
@@ -947,7 +947,7 @@
 <LM>w#w-lnd92258-025-p3s6w16</LM>
 </w.rf>
 <form>sídlí</form>
-<tag lemma="sídlit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="sídlit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92258-025-p3s6w17">
 <src.rf>manual</src.rf>
@@ -1069,7 +1069,7 @@
 <LM>w#w-lnd92258-025-p3s7w7</LM>
 </w.rf>
 <form>poskytuje</form>
-<tag lemma="poskytovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="poskytovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92258-025-p3s7w8">
 <src.rf>manual</src.rf>

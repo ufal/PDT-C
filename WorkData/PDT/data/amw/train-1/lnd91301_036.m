@@ -43,7 +43,7 @@
 <LM>w#w-lnd91301-036-p1s1w4</LM>
 </w.rf>
 <form>nemění</form>
-<tag lemma="měnit_:T" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="měnit" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 </s>
 <s id="m-lnd91301-036-p2s1">
@@ -186,7 +186,7 @@
 <LM>w#w-lnd91301-036-p3s1w15</LM>
 </w.rf>
 <form>nemění</form>
-<tag lemma="měnit_:T" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="měnit" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-lnd91301-036-p3s1w16">
 <src.rf>manual</src.rf>
@@ -228,7 +228,7 @@
 <LM>w#w-lnd91301-036-p3s2w4</LM>
 </w.rf>
 <form>nepředpokládáme</form>
-<tag lemma="předpokládat_:T" src="orig" selected="1">VB-P---1P-NA---</tag>
+<tag lemma="předpokládat" src="orig" selected="1">VB-P---1P-NAI--</tag>
 </m>
 <m id="m-lnd91301-036-p3s2w5">
 <src.rf>manual</src.rf>
@@ -536,7 +536,7 @@
 <LM>w#w-lnd91301-036-p3s4w4</LM>
 </w.rf>
 <form>vycházejí</form>
-<tag lemma="vycházet_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="vycházet" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd91301-036-p3s4w5">
 <src.rf>manual</src.rf>

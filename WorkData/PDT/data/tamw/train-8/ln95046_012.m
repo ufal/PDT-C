@@ -35,7 +35,7 @@
 <LM>w#w-ln95046-012-p1s1w3</LM>
 </w.rf>
 <form>množí</form>
-<tag lemma="množit_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="množit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95046-012-p1s1w4">
 <src.rf>manual</src.rf>
@@ -331,8 +331,8 @@
 </w.rf>
 <form>máme</form>
 <tag>
-<AM lemma="mít" src="orig">VB-P---1P-AA---</AM>
-<AM lemma="mít_:T" src="manual" selected="1">VB-P---1P-AA---</AM>
+<AM lemma="mít" src="orig">VB-P---1P-AAI--</AM>
+<AM lemma="mít" src="manual" selected="1">VB-P---1P-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln95046-012-p3s1w4">
@@ -406,7 +406,7 @@
 <LM>w#w-ln95046-012-p3s2w3</LM>
 </w.rf>
 <form>lze</form>
-<tag lemma="lze" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="lze" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95046-012-p3s2w4">
 <src.rf>manual</src.rf>
@@ -414,7 +414,7 @@
 <LM>w#w-ln95046-012-p3s2w4</LM>
 </w.rf>
 <form>hodnotit</form>
-<tag lemma="hodnotit_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="hodnotit" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95046-012-p3s2w5">
 <src.rf>manual</src.rf>
@@ -577,7 +577,7 @@
 <LM>w#w-ln95046-012-p3s3w6</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-ln95046-012-p3s3w7">
 <src.rf>manual</src.rf>
@@ -652,7 +652,7 @@
 <LM>w#w-ln95046-012-p3s3w15</LM>
 </w.rf>
 <form>nahradit</form>
-<tag lemma="nahradit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="nahradit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95046-012-p3s3w16">
 <src.rf>manual</src.rf>

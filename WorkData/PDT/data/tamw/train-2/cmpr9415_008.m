@@ -422,7 +422,7 @@
 <LM>w#w-cmpr9415-008-p9s1w13</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9415-008-p9s1w14">
 <src.rf>manual</src.rf>
@@ -480,7 +480,7 @@
 <LM>w#w-cmpr9415-008-p9s2w2</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9415-008-p9s2w3">
 <src.rf>manual</src.rf>
@@ -586,7 +586,7 @@
 <LM>w#w-cmpr9415-008-p9s3w3</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9415-008-p9s3w4">
 <src.rf>manual</src.rf>
@@ -782,7 +782,7 @@
 <LM>w#w-cmpr9415-008-p9s5w3</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9415-008-p9s5w4">
 <src.rf>manual</src.rf>
@@ -1059,7 +1059,7 @@
 <LM>w#w-cmpr9415-008-p9s6w16</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-cmpr9415-008-p9s6w17">
 <src.rf>manual</src.rf>
@@ -1173,7 +1173,7 @@
 <LM>w#w-cmpr9415-008-p9s7w1</LM>
 </w.rf>
 <form>Je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9415-008-p9s7w2">
 <src.rf>manual</src.rf>
@@ -1190,7 +1190,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>dohodnout</form>
-<tag lemma="dohodnout_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="dohodnout" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-cmpr9415-008-p9s7w4">
 <src.rf>manual</src.rf>

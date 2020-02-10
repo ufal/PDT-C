@@ -514,7 +514,7 @@
 <LM>w#w-lnd92255-115-p3s3w25</LM>
 </w.rf>
 <form>zúčastní</form>
-<tag lemma="zúčastnit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zúčastnit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd92255-115-p3s3w26">
 <src.rf>manual</src.rf>
@@ -769,7 +769,7 @@
 <LM>w#w-lnd92255-115-p3s5w2</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92255-115-p3s5w3">
 <src.rf>manual</src.rf>
@@ -947,7 +947,7 @@
 <LM>w#w-lnd92255-115-p3s6w14</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92255-115-p3s6w15">
 <src.rf>manual</src.rf>
@@ -1051,9 +1051,9 @@
 </w.rf>
 <form>vede</form>
 <tag>
-<AM lemma="vést" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="vést" src="auto">VB-S---3P-AAI--</AM>
 <AM lemma="vést_:T)" src="manual">VB-S---3P-AA---</AM>
-<AM lemma="vést_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="vést" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-lnd92255-115-p3s7w7">

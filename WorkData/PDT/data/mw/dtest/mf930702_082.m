@@ -70,7 +70,7 @@
 <LM>w#w-mf930702-082-p1s1w7</LM>
 </w.rf>
 <form>navštíví</form>
-<tag lemma="navštívit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="navštívit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930702-082-p1s1w8">
 <src.rf>manual</src.rf>
@@ -445,7 +445,7 @@
 <LM>w#w-mf930702-082-p1s3w2</LM>
 </w.rf>
 <form>odjíždí</form>
-<tag lemma="odjíždět_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="odjíždět" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930702-082-p1s3w3">
 <src.rf>manual</src.rf>
@@ -586,7 +586,7 @@
 <LM>w#w-mf930702-082-p1s4w3</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930702-082-p1s4w4">
 <src.rf>manual</src.rf>

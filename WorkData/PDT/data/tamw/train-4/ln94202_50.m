@@ -266,7 +266,7 @@
 <LM>w#w-ln94202-50-p2s2w9</LM>
 </w.rf>
 <form>připomínají</form>
-<tag lemma="připomínat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="připomínat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94202-50-p2s2w10">
 <src.rf>manual</src.rf>

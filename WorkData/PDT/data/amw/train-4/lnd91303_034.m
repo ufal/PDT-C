@@ -264,7 +264,7 @@
 <LM>w#w-lnd91303-034-p3s1w22</LM>
 </w.rf>
 <form>patří</form>
-<tag lemma="patřit_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="patřit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd91303-034-p3s1w23">
 <src.rf>manual</src.rf>

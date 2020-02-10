@@ -35,7 +35,7 @@
 <LM>w#w-lnd91301-057-p2s1Bw3</LM>
 </w.rf>
 <form>hoří</form>
-<tag lemma="hořet" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="hořet" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd91301-057-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -215,7 +215,7 @@
 <LM>w#w-lnd91301-057-p4s1Bw19</LM>
 </w.rf>
 <form>skrývá</form>
-<tag lemma="skrývat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="skrývat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd91301-057-p4s1Bw20">
 <src.rf>manual</src.rf>
@@ -369,7 +369,7 @@
 <LM>w#w-lnd91301-057-p5s1Bw3</LM>
 </w.rf>
 <form>znamená</form>
-<tag lemma="znamenat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="znamenat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd91301-057-p5s1Bw4">
 <src.rf>manual</src.rf>
@@ -1398,7 +1398,7 @@
 <LM>w#w-lnd91301-057-p7s1Bw14</LM>
 </w.rf>
 <form>odmítá</form>
-<tag lemma="odmítat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="odmítat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd91301-057-p7s1Bw15">
 <src.rf>manual</src.rf>
@@ -1470,7 +1470,7 @@
 <LM>w#w-lnd91301-057-p7s1Bw23</LM>
 </w.rf>
 <form>označuje</form>
-<tag lemma="označovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="označovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd91301-057-p7s1Bw24">
 <src.rf>manual</src.rf>

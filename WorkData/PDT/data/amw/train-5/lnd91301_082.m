@@ -69,7 +69,7 @@
 <LM>w#w-lnd91301-082-p2s1w5</LM>
 </w.rf>
 <form>rozšíří</form>
-<tag lemma="rozšířit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="rozšířit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd91301-082-p2s1w6">
 <src.rf>manual</src.rf>

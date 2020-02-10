@@ -505,7 +505,7 @@
 <LM>w#w-ln94203-67-p3s2Aw16</LM>
 </w.rf>
 <form>počítá</form>
-<tag lemma="počítat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="počítat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94203-67-p3s2Aw17">
 <src.rf>manual</src.rf>
@@ -651,7 +651,7 @@
 <LM>w#w-ln94203-67-p3s2Bw18</LM>
 </w.rf>
 <form>vrátit</form>
-<tag lemma="vrátit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vrátit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94203-67-p3s2Bw19">
 <src.rf>manual</src.rf>
@@ -699,7 +699,7 @@
 <LM>w#w-ln94203-67-p3s2Bw24</LM>
 </w.rf>
 <form>pobývají</form>
-<tag lemma="pobývat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="pobývat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94203-67-p3s2Bw25">
 <src.rf>manual</src.rf>
@@ -739,7 +739,7 @@
 <LM>w#w-ln94203-67-p3s2Bw29</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94203-67-p3s2Bw30">
 <src.rf>manual</src.rf>
@@ -779,7 +779,7 @@
 <LM>w#w-ln94203-67-p3s2Bw34</LM>
 </w.rf>
 <form>opustit</form>
-<tag lemma="opustit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="opustit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94203-67-p3s2Bw35">
 <src.rf>manual</src.rf>
@@ -1320,7 +1320,7 @@
 <LM>w#w-ln94203-67-p5s1w14</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-ln94203-67-p5s1w15">
 <src.rf>manual</src.rf>
@@ -1400,7 +1400,7 @@
 <LM>w#w-ln94203-67-p5s1w24</LM>
 </w.rf>
 <form>pokusí</form>
-<tag lemma="pokusit_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="pokusit" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-ln94203-67-p5s1w25">
 <src.rf>manual</src.rf>
@@ -1408,7 +1408,7 @@
 <LM>w#w-ln94203-67-p5s1w25</LM>
 </w.rf>
 <form>změnit</form>
-<tag lemma="změnit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="změnit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94203-67-p5s1w26">
 <src.rf>manual</src.rf>

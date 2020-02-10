@@ -102,7 +102,7 @@
 <LM>w#w-lnd92259-039-p1s1w11</LM>
 </w.rf>
 <form>normalizovat</form>
-<tag lemma="normalizovat_:T_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="normalizovat" src="orig" selected="1">Vf--------A-B--</tag>
 </m>
 <m id="m-lnd92259-039-p1s1w12">
 <src.rf>manual</src.rf>

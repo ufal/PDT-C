@@ -123,7 +123,7 @@
 <LM>w#w-cmpr9415-057-p3s1w14</LM>
 </w.rf>
 <form>zveřejňujeme</form>
-<tag lemma="zveřejňovat_:T" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="zveřejňovat" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-cmpr9415-057-p3s1w15">
 <src.rf>manual</src.rf>

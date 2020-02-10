@@ -59,7 +59,7 @@
 <LM>w#w-mf930708-058-p1s1w6</LM>
 </w.rf>
 <form>počítá</form>
-<tag lemma="počítat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="počítat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-058-p1s1w7">
 <src.rf>manual</src.rf>

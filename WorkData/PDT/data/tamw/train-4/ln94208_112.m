@@ -806,7 +806,7 @@
 <LM>w#w-ln94208-112-p2s4w13</LM>
 </w.rf>
 <form>zkrotit</form>
-<tag lemma="zkrotit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zkrotit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94208-112-p2s4w14">
 <src.rf>manual</src.rf>

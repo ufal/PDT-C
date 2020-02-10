@@ -729,7 +729,7 @@
 <LM>w#w-vesm9211-014-p23s1w3</LM>
 </w.rf>
 <form>přizpůsobit</form>
-<tag lemma="přizpůsobit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="přizpůsobit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-vesm9211-014-p23s1w4">
 <src.rf>manual</src.rf>
@@ -1270,7 +1270,7 @@
 <LM>w#w-vesm9211-014-p45s1w2</LM>
 </w.rf>
 <form>JSME</form>
-<tag lemma="být" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-vesm9211-014-p45s1w3">
 <src.rf>manual</src.rf>
@@ -1500,7 +1500,7 @@
 <LM>w#w-vesm9211-014-p52s1w3</LM>
 </w.rf>
 <form>vyvolávají</form>
-<tag lemma="vyvolávat_:T_^(*4at)" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="vyvolávat_^(*4at)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-vesm9211-014-p52s1w4">
 <src.rf>manual</src.rf>

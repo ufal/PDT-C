@@ -129,7 +129,7 @@
 <LM>w#w-ln95047-081-p2s1w8</LM>
 </w.rf>
 <form>být</form>
-<tag lemma="být" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="být" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95047-081-p2s1w9">
 <src.rf>manual</src.rf>

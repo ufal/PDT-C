@@ -67,7 +67,7 @@
 <LM>w#w-mf930713-155-p1s1w7</LM>
 </w.rf>
 <form>vyváží</form>
-<tag lemma="vyvážet_:T_^(zboží_přes_hranice)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vyvážet_^(zboží_přes_hranice)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930713-155-p1s1w8">
 <src.rf>manual</src.rf>
@@ -186,7 +186,7 @@
 <LM>w#w-mf930713-155-p2s1Bw9</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930713-155-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -258,7 +258,7 @@
 <LM>w#w-mf930713-155-p2s1Bw18</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930713-155-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -438,7 +438,7 @@
 <LM>w#w-mf930713-155-p2s3w2</LM>
 </w.rf>
 <form>exportuje</form>
-<tag lemma="exportovat_:T_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="exportovat" src="orig" selected="1">VB-S---3P-AAB--</tag>
 </m>
 <m id="m-mf930713-155-p2s3w3">
 <src.rf>manual</src.rf>
@@ -547,7 +547,7 @@
 <LM>w#w-mf930713-155-p2s4w3</LM>
 </w.rf>
 <form>jde</form>
-<tag lemma="jít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="jít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930713-155-p2s4w4">
 <src.rf>manual</src.rf>
@@ -643,7 +643,7 @@
 <LM>w#w-mf930713-155-p2s4w15</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930713-155-p2s4w16">
 <src.rf>manual</src.rf>

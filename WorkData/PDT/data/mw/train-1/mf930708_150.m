@@ -37,7 +37,7 @@
 <LM>w#w-mf930708-150-p2s1w1</LM>
 </w.rf>
 <form>Posoudit</form>
-<tag lemma="posoudit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="posoudit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930708-150-p2s1w2">
 <src.rf>manual</src.rf>
@@ -85,7 +85,7 @@
 <LM>w#w-mf930708-150-p2s1w7</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-mf930708-150-p2s1w8">
 <src.rf>manual</src.rf>
@@ -191,7 +191,7 @@
 <LM>w#w-mf930708-150-p3s1w10</LM>
 </w.rf>
 <form>doporučuji</form>
-<tag lemma="doporučovat_:T" src="orig" selected="1">VB-S---1P-AA--1</tag>
+<tag lemma="doporučovat" src="orig" selected="1">VB-S---1P-AAI-1</tag>
 </m>
 <m id="m-mf930708-150-p3s1w11">
 <src.rf>manual</src.rf>
@@ -207,7 +207,7 @@
 <LM>w#w-mf930708-150-p3s1w12</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-mf930708-150-p3s1w13">
 <src.rf>manual</src.rf>

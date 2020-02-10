@@ -327,7 +327,7 @@
 <LM>w#w-mf930709-116-p2s2w2</LM>
 </w.rf>
 <form>uděluje</form>
-<tag lemma="udělovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="udělovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930709-116-p2s2w3">
 <src.rf>manual</src.rf>
@@ -439,7 +439,7 @@
 <LM>w#w-mf930709-116-p2s2w16</LM>
 </w.rf>
 <form>nejsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 <m id="m-mf930709-116-p2s2w17">
 <src.rf>manual</src.rf>
@@ -514,7 +514,7 @@
 <LM>w#w-mf930709-116-p2s2w25</LM>
 </w.rf>
 <form>obchodují</form>
-<tag lemma="obchodovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="obchodovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930709-116-p2s2w26">
 <src.rf>manual</src.rf>
@@ -572,7 +572,7 @@
 <LM>w#w-mf930709-116-p2s3w6</LM>
 </w.rf>
 <form>vyváží</form>
-<tag lemma="vyvážet_:T_^(zboží_přes_hranice)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vyvážet_^(zboží_přes_hranice)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930709-116-p2s3w7">
 <src.rf>manual</src.rf>

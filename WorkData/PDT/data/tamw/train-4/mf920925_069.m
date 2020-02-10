@@ -463,7 +463,7 @@
 <LM>w#w-mf920925-069-p2s3w9</LM>
 </w.rf>
 <form>souvisí</form>
-<tag lemma="souviset_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="souviset" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-069-p2s3w10">
 <src.rf>manual</src.rf>
@@ -726,7 +726,7 @@
 <LM>w#w-mf920925-069-p2s4w6</LM>
 </w.rf>
 <form>konstatuje</form>
-<tag lemma="konstatovat_:T_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="konstatovat" src="orig" selected="1">VB-S---3P-AAB--</tag>
 </m>
 <m id="m-mf920925-069-p2s4w7">
 <src.rf>manual</src.rf>
@@ -892,7 +892,7 @@
 <LM>w#w-mf920925-069-p2s4w26</LM>
 </w.rf>
 <form>dodává</form>
-<tag lemma="dodávat_:T_^(*4at)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="dodávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-069-p2s4w27">
 <src.rf>manual</src.rf>

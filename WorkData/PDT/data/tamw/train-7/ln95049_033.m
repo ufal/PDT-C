@@ -1441,7 +1441,7 @@
 <LM>w#w-ln95049-033-p4s1w7</LM>
 </w.rf>
 <form>nedaří</form>
-<tag lemma="dařit_:T" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="dařit" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln95049-033-p4s1w8">
 <src.rf>manual</src.rf>
@@ -2240,7 +2240,7 @@
 <LM>w#w-ln95049-033-p5s1w8</LM>
 </w.rf>
 <form>nebude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-NAI--</tag>
 </m>
 <m id="m-ln95049-033-p5s1w9">
 <src.rf>manual</src.rf>
@@ -2248,7 +2248,7 @@
 <LM>w#w-ln95049-033-p5s1w9</LM>
 </w.rf>
 <form>hrát</form>
-<tag lemma="hrát" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="hrát" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95049-033-p5s1w10">
 <src.rf>manual</src.rf>

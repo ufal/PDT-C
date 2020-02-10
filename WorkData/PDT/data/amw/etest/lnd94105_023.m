@@ -143,7 +143,7 @@
 <LM>w#w-lnd94105-023-p1s3w8</LM>
 </w.rf>
 <form>není</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-lnd94105-023-p1s3w9">
 <src.rf>manual</src.rf>

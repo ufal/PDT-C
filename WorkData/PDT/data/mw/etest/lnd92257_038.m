@@ -155,7 +155,7 @@
 <LM>w#w-lnd92257-038-p1s1w18</LM>
 </w.rf>
 <form>počínaje</form>
-<tag lemma="počínat_:T" src="orig" selected="1">VeYS------A----</tag>
+<tag lemma="počínat" src="orig" selected="1">VeYS------A-I--</tag>
 </m>
 <m id="m-lnd92257-038-p1s1w19">
 <src.rf>manual</src.rf>

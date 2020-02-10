@@ -197,7 +197,7 @@
 <LM>w#w-cmpr9415-036-p4s3w5</LM>
 </w.rf>
 <form>používá</form>
-<tag lemma="používat_:T_^(*3t)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="používat_^(*3t)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9415-036-p4s3w6">
 <src.rf>manual</src.rf>

@@ -40,7 +40,7 @@
 <LM>w#w-ln95047-007-p2s1w2</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-ln95047-007-p2s1w3">
 <src.rf>manual</src.rf>
@@ -48,7 +48,7 @@
 <LM>w#w-ln95047-007-p2s1w3</LM>
 </w.rf>
 <form>emitovat</form>
-<tag lemma="emitovat_:T_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="emitovat" src="orig" selected="1">Vf--------A-B--</tag>
 </m>
 <m id="m-ln95047-007-p2s1w4">
 <src.rf>manual</src.rf>
@@ -135,7 +135,7 @@
 <LM>w#w-ln95047-007-p2s1w13</LM>
 </w.rf>
 <form>budou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3F-AAI--</tag>
 </m>
 <m id="m-ln95047-007-p2s1w14">
 <src.rf>manual</src.rf>

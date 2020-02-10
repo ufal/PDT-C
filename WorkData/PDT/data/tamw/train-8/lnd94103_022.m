@@ -832,7 +832,7 @@
 <LM>w#w-lnd94103-022-p1s7w7</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-lnd94103-022-p1s7w8">
 <src.rf>manual</src.rf>
@@ -856,7 +856,7 @@
 <LM>w#w-lnd94103-022-p1s7w10</LM>
 </w.rf>
 <form>opustit</form>
-<tag lemma="opustit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="opustit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd94103-022-p1s7w11">
 <src.rf>manual</src.rf>

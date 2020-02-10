@@ -41,7 +41,7 @@
 <LM>w#w-ln94208-65-p1s1w3</LM>
 </w.rf>
 <form>stěhují</form>
-<tag lemma="stěhovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="stěhovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94208-65-p1s1w4">
 <src.rf>manual</src.rf>
@@ -200,7 +200,7 @@
 <LM>w#w-ln94208-65-p2s1Bw13</LM>
 </w.rf>
 <form>stěhovat</form>
-<tag lemma="stěhovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="stěhovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94208-65-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -287,8 +287,8 @@
 </w.rf>
 <form>žije</form>
 <tag>
-<AM lemma="žít" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="žít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="žít" src="auto">VB-S---3P-AAI--</AM>
+<AM lemma="žít" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln94208-65-p2s1Bw24">
@@ -348,8 +348,8 @@
 </w.rf>
 <form>chtějí</form>
 <tag>
-<AM lemma="chtít" src="orig">VB-P---3P-AA---</AM>
-<AM lemma="chtít_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+<AM lemma="chtít" src="orig">VB-P---3P-AAI--</AM>
+<AM lemma="chtít" src="manual" selected="1">VB-P---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln94208-65-p2s2w3">
@@ -375,8 +375,8 @@
 </w.rf>
 <form>přesunout</form>
 <tag>
-<AM lemma="přesunout" src="orig">Vf--------A----</AM>
-<AM lemma="přesunout_:W" src="manual" selected="1">Vf--------A----</AM>
+<AM lemma="přesunout" src="orig">Vf--------A-P--</AM>
+<AM lemma="přesunout" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m-ln94208-65-p2s2w6">
@@ -467,7 +467,7 @@
 <LM>w#w-ln94208-65-p2s3w6</LM>
 </w.rf>
 <form>dostává</form>
-<tag lemma="dostávat_:T_^(*4at)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="dostávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94208-65-p2s3w7">
 <src.rf>manual</src.rf>
@@ -773,7 +773,7 @@
 <LM>w#w-ln94208-65-p3s1w20</LM>
 </w.rf>
 <form>vyšle</form>
-<tag lemma="vyslat" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vyslat" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94208-65-p3s1w21">
 <src.rf>manual</src.rf>

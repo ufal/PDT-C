@@ -353,7 +353,7 @@
 <LM>w#w-mf920922-037-p2s4w1</LM>
 </w.rf>
 <form>Shledá</form>
-<tag lemma="shledat_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="shledat" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf920922-037-p2s4w2">
 <src.rf>manual</src.rf>
@@ -412,7 +412,7 @@
 <LM>w#w-mf920922-037-p2s4w8</LM>
 </w.rf>
 <form>hrozí</form>
-<tag lemma="hrozit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="hrozit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920922-037-p2s4w9">
 <src.rf>manual</src.rf>
@@ -534,7 +534,7 @@
 <LM>w#w-mf920922-037-p2s5w5</LM>
 </w.rf>
 <form>nezná</form>
-<tag lemma="znát" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="znát" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-mf920922-037-p2s5w6">
 <src.rf>manual</src.rf>

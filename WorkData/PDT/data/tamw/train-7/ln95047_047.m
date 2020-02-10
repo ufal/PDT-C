@@ -117,7 +117,7 @@
 <LM>w#w-ln95047-047-p2s1w8</LM>
 </w.rf>
 <form>uvádí</form>
-<tag lemma="uvádět_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="uvádět" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95047-047-p2s1w9">
 <src.rf>manual</src.rf>
@@ -263,7 +263,7 @@
 <LM>w#w-ln95047-047-p3s1w5</LM>
 </w.rf>
 <form>uvede</form>
-<tag lemma="uvést" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95047-047-p3s1w6">
 <src.rf>manual</src.rf>

@@ -551,7 +551,7 @@
 <LM>w#w-ln95044-131-p3s3w2</LM>
 </w.rf>
 <form>poskytuje</form>
-<tag lemma="poskytovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="poskytovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95044-131-p3s3w3">
 <src.rf>manual</src.rf>
@@ -657,7 +657,7 @@
 <LM>w#w-ln95044-131-p3s4w5</LM>
 </w.rf>
 <form>exportuje</form>
-<tag lemma="exportovat_:T_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="exportovat" src="orig" selected="1">VB-S---3P-AAB--</tag>
 </m>
 <m id="m-ln95044-131-p3s4w6">
 <src.rf>manual</src.rf>
@@ -699,7 +699,7 @@
 <LM>w#w-ln95044-131-p3s5w4</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95044-131-p3s5w5">
 <src.rf>manual</src.rf>
@@ -715,7 +715,7 @@
 <LM>w#w-ln95044-131-p3s5w6</LM>
 </w.rf>
 <form>rozdělit</form>
-<tag lemma="rozdělit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="rozdělit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95044-131-p3s5w7">
 <src.rf>manual</src.rf>

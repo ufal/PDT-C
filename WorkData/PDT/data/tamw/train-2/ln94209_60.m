@@ -167,7 +167,7 @@
 <LM>w#w-ln94209-60-p2s1Bw15</LM>
 </w.rf>
 <form>vydělují</form>
-<tag lemma="vydělovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="vydělovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94209-60-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -487,7 +487,7 @@
 <LM>w#w-ln94209-60-p2s2w22</LM>
 </w.rf>
 <form>říká</form>
-<tag lemma="říkat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="říkat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94209-60-p2s2w23">
 <src.rf>manual</src.rf>
@@ -1649,7 +1649,7 @@
 <LM>w#w-ln94209-60-p4s2w8</LM>
 </w.rf>
 <form>kombinuje</form>
-<tag lemma="kombinovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="kombinovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94209-60-p4s2w9">
 <src.rf>manual</src.rf>
@@ -1790,7 +1790,7 @@
 <LM>w#w-ln94209-60-p4s3w4</LM>
 </w.rf>
 <form>bere</form>
-<tag lemma="brát" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="brát" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94209-60-p4s3w5">
 <src.rf>manual</src.rf>
@@ -1983,7 +1983,7 @@
 <LM>w#w-ln94209-60-p4s4Aw3</LM>
 </w.rf>
 <form>vychází</form>
-<tag lemma="vycházet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vycházet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94209-60-p4s4Aw4">
 <src.rf>manual</src.rf>
@@ -2047,7 +2047,7 @@
 <LM>w#w-ln94209-60-p4s4Aw11</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94209-60-p4s4Aw12">
 <src.rf>manual</src.rf>
@@ -2217,7 +2217,7 @@
 <LM>w#w-ln94209-60-p4s4Bw19</LM>
 </w.rf>
 <form>tančí</form>
-<tag lemma="tančit_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="tančit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94209-60-p4s4Bw20">
 <src.rf>manual</src.rf>
@@ -2273,7 +2273,7 @@
 <LM>w#w-ln94209-60-p4s4Bw26</LM>
 </w.rf>
 <form>střílí</form>
-<tag lemma="střílet_:T" src="orig" selected="1">VB-P---3P-AA--1</tag>
+<tag lemma="střílet" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-ln94209-60-p4s4Bw27">
 <src.rf>manual</src.rf>

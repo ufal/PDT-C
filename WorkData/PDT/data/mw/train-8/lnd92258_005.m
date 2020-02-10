@@ -47,7 +47,7 @@
 <LM>w#w-lnd92258-005-p1s1w4</LM>
 </w.rf>
 <form>volí</form>
-<tag lemma="volit_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="volit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92258-005-p1s1w5">
 <src.rf>manual</src.rf>
@@ -163,7 +163,7 @@
 <LM>w#w-lnd92258-005-p1s2w10</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-lnd92258-005-p1s2w11">
 <src.rf>manual</src.rf>
@@ -283,7 +283,7 @@
 <LM>w#w-lnd92258-005-p1s2w25</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-lnd92258-005-p1s2w26">
 <src.rf>manual</src.rf>

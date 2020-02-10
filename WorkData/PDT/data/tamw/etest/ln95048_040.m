@@ -833,7 +833,7 @@
 <LM>w#w-ln95048-040-p2s6w25</LM>
 </w.rf>
 <form>přináší</form>
-<tag lemma="přinášet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="přinášet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95048-040-p2s6w26">
 <src.rf>manual</src.rf>
@@ -1027,7 +1027,7 @@
 <LM>w#w-ln95048-040-p2s7w4</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95048-040-p2s7w5">
 <src.rf>manual</src.rf>

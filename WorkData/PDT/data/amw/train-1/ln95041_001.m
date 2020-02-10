@@ -62,7 +62,7 @@
 <LM>w#w-ln95041-001-p1s1w6</LM>
 </w.rf>
 <form>nevyplácí</form>
-<tag lemma="vyplácet_:T" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="vyplácet" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln95041-001-p1s1w7">
 <src.rf>manual</src.rf>
@@ -129,7 +129,7 @@
 <LM>w#w-ln95041-001-p1s1w14</LM>
 </w.rf>
 <form>pálí</form>
-<tag lemma="pálit_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="pálit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 </s>
 </mdata>

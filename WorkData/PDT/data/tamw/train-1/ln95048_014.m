@@ -352,7 +352,7 @@
 <LM>w#w-ln95048-014-p2s2w21</LM>
 </w.rf>
 <form>označují</form>
-<tag lemma="označovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="označovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95048-014-p2s2w22">
 <src.rf>manual</src.rf>

@@ -43,7 +43,7 @@
 <LM>w#w-mf930708-140-p1s1w4</LM>
 </w.rf>
 <form>přiživují</form>
-<tag lemma="přiživovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="přiživovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-140-p1s1w5">
 <src.rf>manual</src.rf>
@@ -205,7 +205,7 @@
 <LM>w#w-mf930708-140-p2s1w16</LM>
 </w.rf>
 <form>hospodaří</form>
-<tag lemma="hospodařit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="hospodařit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-140-p2s1w17">
 <src.rf>manual</src.rf>
@@ -319,7 +319,7 @@
 <LM>w#w-mf930708-140-p2s2w6</LM>
 </w.rf>
 <form>rozesílají</form>
-<tag lemma="rozesílat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="rozesílat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-140-p2s2w7">
 <src.rf>manual</src.rf>
@@ -415,7 +415,7 @@
 <LM>w#w-mf930708-140-p2s2w18</LM>
 </w.rf>
 <form>vědí</form>
-<tag lemma="vědět" src="auto" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="vědět" src="auto" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-140-p2s2w19">
 <src.rf>manual</src.rf>
@@ -489,7 +489,7 @@
 <LM>w#w-mf930708-140-p2s3w8</LM>
 </w.rf>
 <form>nedělí</form>
-<tag lemma="dělit_:T" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="dělit" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-mf930708-140-p2s3w9">
 <src.rf>manual</src.rf>
@@ -515,7 +515,7 @@
 <LM>w#w-mf930708-140-p3s1w2</LM>
 </w.rf>
 <form>jsme</form>
-<tag lemma="být" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-mf930708-140-p3s1w3">
 <src.rf>manual</src.rf>
@@ -587,7 +587,7 @@
 <LM>w#w-mf930708-140-p3s1w11</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-140-p3s1w12">
 <src.rf>manual</src.rf>
@@ -837,7 +837,7 @@
 <LM>w#w-mf930708-140-p3s2w18</LM>
 </w.rf>
 <form>zabrání</form>
-<tag lemma="zabránit_:W_^(někomu_v_něčem)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zabránit_^(někomu_v_něčem)" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930708-140-p3s2w19">
 <src.rf>manual</src.rf>

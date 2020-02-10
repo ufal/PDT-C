@@ -91,7 +91,7 @@
 <LM>w#w-lnd92255-123-p1s1w10</LM>
 </w.rf>
 <form>rozhodne</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd92255-123-p1s1w11">
 <src.rf>manual</src.rf>
@@ -275,7 +275,7 @@
 <LM>w#w-lnd92255-123-p1s2w16</LM>
 </w.rf>
 <form>nezpochybňuje</form>
-<tag lemma="zpochybňovat_:T" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="zpochybňovat" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-lnd92255-123-p1s2w17">
 <src.rf>manual</src.rf>

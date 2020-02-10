@@ -35,7 +35,7 @@
 <LM>w#w-mf930701-050-p1s1w3</LM>
 </w.rf>
 <form>tvrdí</form>
-<tag lemma="tvrdit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="tvrdit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930701-050-p1s1w4">
 <src.rf>manual</src.rf>

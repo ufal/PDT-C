@@ -136,7 +136,7 @@
 <LM>w#w-d1t2795-4</LM>
 </w.rf>
 <form>děkuji</form>
-<tag lemma="děkovat_:T" src="auto" recommended="1">VB-S---1P-AA--1</tag>
+<tag lemma="děkovat" src="auto" recommended="1">VB-S---1P-AAI-1</tag>
 </m>
 <m id="m114-d-m-d1e2792-x2-punct-punct">
 <w.rf>

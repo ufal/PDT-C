@@ -191,7 +191,7 @@
 <LM>w#w-ln95049-011-p1s1w22</LM>
 </w.rf>
 <form>otevírají</form>
-<tag lemma="otevírat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="otevírat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95049-011-p1s1w23">
 <src.rf>manual</src.rf>
@@ -255,7 +255,7 @@
 <LM>w#w-ln95049-011-p1s1w30</LM>
 </w.rf>
 <form>učiní</form>
-<tag lemma="učinit_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="učinit" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-ln95049-011-p1s1w31">
 <src.rf>manual</src.rf>

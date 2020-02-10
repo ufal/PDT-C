@@ -107,7 +107,7 @@
 <LM>w#w-ln95043-050-p1s1w12</LM>
 </w.rf>
 <form>pomáhá</form>
-<tag lemma="pomáhat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="pomáhat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95043-050-p1s1w13">
 <src.rf>manual</src.rf>
@@ -115,7 +115,7 @@
 <LM>w#w-ln95043-050-p1s1w13</LM>
 </w.rf>
 <form>dostat</form>
-<tag lemma="dostat" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="dostat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95043-050-p1s1w14">
 <src.rf>manual</src.rf>
@@ -163,7 +163,7 @@
 <LM>w#w-ln95043-050-p1s1w19</LM>
 </w.rf>
 <form>ulevit</form>
-<tag lemma="ulevit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="ulevit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95043-050-p1s1w20">
 <src.rf>manual</src.rf>

@@ -27,7 +27,7 @@
 <LM>w#w-ln95048-100-p1s1w2</LM>
 </w.rf>
 <form>opustí</form>
-<tag lemma="opustit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="opustit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95048-100-p1s1w3">
 <src.rf>manual</src.rf>
@@ -303,7 +303,7 @@
 <LM>w#w-ln95048-100-p2s2w11</LM>
 </w.rf>
 <form>podnikají</form>
-<tag lemma="podnikat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="podnikat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95048-100-p2s2w12">
 <src.rf>manual</src.rf>
@@ -348,7 +348,7 @@
 <LM>w#w-ln95048-100-p2s3w4</LM>
 </w.rf>
 <form>musí</form>
-<tag lemma="muset" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="muset" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95048-100-p2s3w5">
 <src.rf>manual</src.rf>
@@ -428,7 +428,7 @@
 <LM>w#w-ln95048-100-p2s3w14</LM>
 </w.rf>
 <form>opustit</form>
-<tag lemma="opustit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="opustit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95048-100-p2s3w15">
 <src.rf>manual</src.rf>

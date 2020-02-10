@@ -156,7 +156,7 @@
 <LM>w#w-lnd91303-044-p1s1w18</LM>
 </w.rf>
 <form>nese</form>
-<tag lemma="nést" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="nést" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd91303-044-p1s1w19">
 <src.rf>manual</src.rf>

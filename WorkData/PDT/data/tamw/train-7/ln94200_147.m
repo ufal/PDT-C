@@ -298,7 +298,7 @@
 <LM>w#w-ln94200-147-p2s3w2</LM>
 </w.rf>
 <form>sdělit</form>
-<tag lemma="sdělit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="sdělit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94200-147-p2s3w17">
 <src.rf>manual</src.rf>
@@ -344,7 +344,7 @@
 <LM>w#w-ln94200-147-p2s3w7</LM>
 </w.rf>
 <form>jedná</form>
-<tag lemma="jednat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="jednat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94200-147-p2s3w8">
 <src.rf>manual</src.rf>
@@ -376,7 +376,7 @@
 <LM>w#w-ln94200-147-p2s3w11</LM>
 </w.rf>
 <form>není</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln94200-147-p2s3w12">
 <src.rf>manual</src.rf>

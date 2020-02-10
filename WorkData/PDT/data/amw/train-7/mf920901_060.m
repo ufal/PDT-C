@@ -626,7 +626,7 @@
 <LM>w#w-mf920901-060-p3s4w1</LM>
 </w.rf>
 <form>Platí</form>
-<tag lemma="platit_:T" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="platit" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920901-060-p3s4w2">
 <src.rf>manual</src.rf>

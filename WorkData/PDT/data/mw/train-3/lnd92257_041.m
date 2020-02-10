@@ -549,7 +549,7 @@
 <LM>w#w-lnd92257-041-p2s4w1</LM>
 </w.rf>
 <form>Chtějí</form>
-<tag lemma="chtít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="chtít" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92257-041-p2s4w2">
 <src.rf>manual</src.rf>
@@ -557,7 +557,7 @@
 <LM>w#w-lnd92257-041-p2s4w2</LM>
 </w.rf>
 <form>být</form>
-<tag lemma="být" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="být" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd92257-041-p2s4w3">
 <src.rf>manual</src.rf>
@@ -698,7 +698,7 @@
 <LM>w#w-lnd92257-041-p2s5w10</LM>
 </w.rf>
 <form>neliší</form>
-<tag lemma="lišit_:T" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="lišit" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-lnd92257-041-p2s5w11">
 <src.rf>manual</src.rf>
@@ -855,7 +855,7 @@
 <LM>w#w-lnd92257-041-p2s6w7</LM>
 </w.rf>
 <form>diskredituje</form>
-<tag lemma="diskreditovat_:T_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="diskreditovat" src="orig" selected="1">VB-S---3P-AAB--</tag>
 </m>
 <m id="m-lnd92257-041-p2s6w8">
 <src.rf>manual</src.rf>

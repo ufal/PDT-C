@@ -552,7 +552,7 @@
 <LM>w#w-lnd92259-047-p3s4w19</LM>
 </w.rf>
 <form>požaduje</form>
-<tag lemma="požadovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="požadovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92259-047-p3s4w20">
 <src.rf>manual</src.rf>
@@ -586,7 +586,7 @@
 <LM>w#w-lnd92259-047-p3s5w3</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92259-047-p3s5w4">
 <src.rf>manual</src.rf>
@@ -843,7 +843,7 @@
 <LM>w#w-lnd92259-047-p3s6w2</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-lnd92259-047-p3s6w3">
 <src.rf>manual</src.rf>

@@ -496,7 +496,7 @@
 <LM>w#w-ln94200-93-p2s6w6</LM>
 </w.rf>
 <form>bojuje</form>
-<tag lemma="bojovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="bojovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94200-93-p2s6w7">
 <src.rf>manual</src.rf>
@@ -698,7 +698,7 @@
 <LM>w#w-ln94200-93-p2s7w19</LM>
 </w.rf>
 <form>být</form>
-<tag lemma="být" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="být" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94200-93-p2s7w20">
 <src.rf>manual</src.rf>

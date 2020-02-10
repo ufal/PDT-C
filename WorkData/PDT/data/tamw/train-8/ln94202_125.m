@@ -386,7 +386,7 @@
 <LM>w#w-ln94202-125-p2s1Bw33</LM>
 </w.rf>
 <form>nepamatují</form>
-<tag lemma="pamatovat_:T" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="pamatovat" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 <m id="m-ln94202-125-p2s1Bw34">
 <src.rf>manual</src.rf>
@@ -1358,7 +1358,7 @@
 <LM>w#w-ln94202-125-p3s3w20</LM>
 </w.rf>
 <form>hnát</form>
-<tag lemma="hnát-1_^(tvar_slovesa;_[utíkat])" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="hnát-1_^(tvar_slovesa;_[utíkat])" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94202-125-p3s3w21">
 <src.rf>manual</src.rf>
@@ -2261,7 +2261,7 @@
 <LM>w#w-ln94202-125-p4s4w6</LM>
 </w.rf>
 <form>ovlivnit</form>
-<tag lemma="ovlivnit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="ovlivnit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94202-125-p4s4w7">
 <src.rf>manual</src.rf>

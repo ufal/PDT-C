@@ -83,7 +83,7 @@
 <LM>w#w-lnd92252-030-p1s1w9</LM>
 </w.rf>
 <form>podpořit</form>
-<tag lemma="podpořit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="podpořit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92252-030-p1s1w10">
 <src.rf>manual</src.rf>
@@ -214,7 +214,7 @@
 <LM>w#w-lnd92252-030-p1s1w25</LM>
 </w.rf>
 <form>zajistí</form>
-<tag lemma="zajistit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zajistit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd92252-030-p1s1w26">
 <src.rf>manual</src.rf>

@@ -553,7 +553,7 @@
 <LM>w#w-mf920924-061-p2s4w11</LM>
 </w.rf>
 <form>přemluvit</form>
-<tag lemma="přemluvit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="přemluvit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920924-061-p2s4w12">
 <src.rf>manual</src.rf>
@@ -707,7 +707,7 @@
 <LM>w#w-mf920924-061-p2s5w6</LM>
 </w.rf>
 <form>pátrají</form>
-<tag lemma="pátrat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="pátrat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920924-061-p2s5w7">
 <src.rf>manual</src.rf>
@@ -797,7 +797,7 @@
 <LM>w#w-mf920924-061-p2s6w8</LM>
 </w.rf>
 <form>pohybuje</form>
-<tag lemma="pohybovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="pohybovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920924-061-p2s6w9">
 <src.rf>manual</src.rf>

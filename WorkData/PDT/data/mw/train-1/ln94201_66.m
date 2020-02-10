@@ -85,7 +85,7 @@
 <LM>w#w-ln94201-66-p2s1w6</LM>
 </w.rf>
 <form>uvažuje</form>
-<tag lemma="uvažovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="uvažovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94201-66-p2s1w7">
 <src.rf>manual</src.rf>
@@ -141,7 +141,7 @@
 <LM>w#w-ln94201-66-p2s1w13</LM>
 </w.rf>
 <form>neužívají</form>
-<tag lemma="užívat_:T_^(*3t)" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="užívat_^(*3t)" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 <m id="m-ln94201-66-p2s1w14">
 <src.rf>manual</src.rf>
@@ -284,7 +284,7 @@
 <LM>w#w-ln94201-66-p2s3w8</LM>
 </w.rf>
 <form>pomýšlí</form>
-<tag lemma="pomýšlet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="pomýšlet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94201-66-p2s3w9">
 <src.rf>manual</src.rf>

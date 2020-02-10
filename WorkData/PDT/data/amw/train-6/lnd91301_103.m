@@ -45,7 +45,7 @@
 <AM lemma="mele" src="orig">NNNXX-----A----</AM>
 <AM lemma="mela" src="auto">NNFS3-----A----</AM>
 <AM lemma="mela" src="auto">NNFS6-----A----</AM>
-<AM lemma="mlít" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="mlít" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="mele" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
@@ -92,7 +92,7 @@
 <LM>w#w-lnd91301-103-p2s1w5</LM>
 </w.rf>
 <form>představuje</form>
-<tag lemma="představovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="představovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd91301-103-p2s1w6">
 <src.rf>manual</src.rf>
@@ -270,7 +270,7 @@
 <LM>w#w-lnd91301-103-p2s2w4</LM>
 </w.rf>
 <form>objednat</form>
-<tag lemma="objednat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="objednat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd91301-103-p2s2w5">
 <src.rf>manual</src.rf>

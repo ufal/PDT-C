@@ -43,7 +43,7 @@
 <LM>w#w-mf920924-087-p1s1w4</LM>
 </w.rf>
 <form>stíhá</form>
-<tag lemma="stíhat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="stíhat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920924-087-p1s1w5">
 <src.rf>manual</src.rf>

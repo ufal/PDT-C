@@ -512,7 +512,7 @@
 <LM>w#w-lnd92257-042-p3s4w21</LM>
 </w.rf>
 <form>vyhledat</form>
-<tag lemma="vyhledat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vyhledat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92257-042-p3s4w22">
 <src.rf>manual</src.rf>

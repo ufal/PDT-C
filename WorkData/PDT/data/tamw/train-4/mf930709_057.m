@@ -45,7 +45,7 @@
 <LM>w#w-mf930709-057-p2s1w1</LM>
 </w.rf>
 <form>Udělat</form>
-<tag lemma="udělat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="udělat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930709-057-p2s1w2">
 <src.rf>manual</src.rf>
@@ -109,7 +109,7 @@
 <LM>w#w-mf930709-057-p2s1w9</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-mf930709-057-p2s1w10">
 <src.rf>manual</src.rf>
@@ -149,7 +149,7 @@
 <LM>w#w-mf930709-057-p2s1w14</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-mf930709-057-p2s1w15">
 <src.rf>manual</src.rf>
@@ -463,7 +463,7 @@
 <LM>w#w-mf930709-057-p2s2w24</LM>
 </w.rf>
 <form>nabídnout</form>
-<tag lemma="nabídnout_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="nabídnout" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930709-057-p2s2w25">
 <src.rf>manual</src.rf>
@@ -620,7 +620,7 @@
 <LM>w#w-mf930709-057-p2s3w1</LM>
 </w.rf>
 <form>Neprovozuje</form>
-<tag lemma="provozovat_:T" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="provozovat" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-mf930709-057-p2s3w2">
 <src.rf>manual</src.rf>
@@ -668,7 +668,7 @@
 <LM>w#w-mf930709-057-p2s3w7</LM>
 </w.rf>
 <form>degraduje</form>
-<tag lemma="degradovat_:T_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="degradovat" src="orig" selected="1">VB-S---3P-AAB--</tag>
 </m>
 <m id="m-mf930709-057-p2s3w8">
 <src.rf>manual</src.rf>
@@ -775,8 +775,8 @@
 </w.rf>
 <form>Nehraje</form>
 <tag>
-<AM lemma="hrát" src="auto">VB-S---3P-NA---</AM>
-<AM lemma="hrát_:T" src="manual" selected="1">VB-S---3P-NA---</AM>
+<AM lemma="hrát" src="auto">VB-S---3P-NAI--</AM>
+<AM lemma="hrát" src="manual" selected="1">VB-S---3P-NAI--</AM>
 </tag>
 </m>
 <m id="m-mf930709-057-p2s4w2">
@@ -873,7 +873,7 @@
 <LM>w#w-mf930709-057-p2s4w13</LM>
 </w.rf>
 <form>svezou</form>
-<tag lemma="svézt" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="svézt" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-mf930709-057-p2s4w14">
 <src.rf>manual</src.rf>

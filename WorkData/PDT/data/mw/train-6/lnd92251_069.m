@@ -37,7 +37,7 @@
 <LM>w#w-lnd92251-069-p2s1w1</LM>
 </w.rf>
 <form>Likvidují</form>
-<tag lemma="likvidovat_:T_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="likvidovat" src="orig" selected="1">VB-P---3P-AAB--</tag>
 </m>
 <m id="m-lnd92251-069-p2s1w2">
 <src.rf>manual</src.rf>
@@ -53,7 +53,7 @@
 <LM>w#w-lnd92251-069-p2s1w3</LM>
 </w.rf>
 <form>vyrábějí</form>
-<tag lemma="vyrábět_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="vyrábět" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 </s>
 <s id="m-lnd92251-069-p3s1">

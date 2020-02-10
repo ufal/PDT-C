@@ -301,7 +301,7 @@
 <LM>w#w-lnd92254-002-p1s2w21</LM>
 </w.rf>
 <form>obviňují</form>
-<tag lemma="obviňovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="obviňovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92254-002-p1s2w22">
 <src.rf>manual</src.rf>

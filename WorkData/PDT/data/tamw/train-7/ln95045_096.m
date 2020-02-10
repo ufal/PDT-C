@@ -459,7 +459,7 @@
 <LM>w#w-ln95045-096-p2s3w10</LM>
 </w.rf>
 <form>nečekají</form>
-<tag lemma="čekat_:T" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="čekat" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 <m id="m-ln95045-096-p2s3w11">
 <src.rf>manual</src.rf>
@@ -688,7 +688,7 @@
 <LM>w#w-ln95045-096-p2s4w11</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95045-096-p2s4w12">
 <src.rf>manual</src.rf>

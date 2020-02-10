@@ -1129,7 +1129,7 @@
 <LM>w#w-mf920924-010-p1s9w3</LM>
 </w.rf>
 <form>popírá</form>
-<tag lemma="popírat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="popírat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920924-010-p1s9w4">
 <src.rf>manual</src.rf>

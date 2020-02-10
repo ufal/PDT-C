@@ -38,7 +38,7 @@
 <LM>w#w-lnd94103-020-p1s1w3</LM>
 </w.rf>
 <form>nepůsobí</form>
-<tag lemma="působit_:T_:W" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="působit" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 <m id="m-lnd94103-020-p1s1w4">
 <src.rf>manual</src.rf>
@@ -1036,7 +1036,7 @@
 <LM>w#w-lnd94103-020-p1s7w14</LM>
 </w.rf>
 <form>staví</form>
-<tag lemma="stavět" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="stavět" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94103-020-p1s7w15">
 <src.rf>manual</src.rf>
@@ -1124,7 +1124,7 @@
 <LM>w#w-lnd94103-020-p1s7w25</LM>
 </w.rf>
 <form>poškodí</form>
-<tag lemma="poškodit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="poškodit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd94103-020-p1s7w26">
 <src.rf>manual</src.rf>
@@ -1198,7 +1198,7 @@
 <LM>w#w-lnd94103-020-p1s8w3</LM>
 </w.rf>
 <form>eviduje</form>
-<tag lemma="evidovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="evidovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94103-020-p1s8w4">
 <src.rf>manual</src.rf>

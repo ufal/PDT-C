@@ -120,7 +120,7 @@
 <LM>w#w-vesm9211-049-p1s2w2</LM>
 </w.rf>
 <form>znamená</form>
-<tag lemma="znamenat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="znamenat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9211-049-p1s2w3">
 <src.rf>manual</src.rf>
@@ -538,7 +538,7 @@
 <LM>w#w-vesm9211-049-p1s3w6</LM>
 </w.rf>
 <form>žádati</form>
-<tag lemma="žádat_:T" src="orig" selected="1">Vf--------A---2</tag>
+<tag lemma="žádat" src="orig" selected="1">Vf--------A-I-2</tag>
 </m>
 <m id="m-vesm9211-049-p1s3w7">
 <src.rf>manual</src.rf>
@@ -626,7 +626,7 @@
 <LM>w#w-vesm9211-049-p1s3w18</LM>
 </w.rf>
 <form>stará</form>
-<tag lemma="starat_:T_^(se)" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="starat_^(se)" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9211-049-p1s3w19">
 <src.rf>manual</src.rf>
@@ -730,7 +730,7 @@
 <LM>w#w-vesm9211-049-p1s3w31</LM>
 </w.rf>
 <form>jest</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA--2</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI-2</tag>
 </m>
 <m id="m-vesm9211-049-p1s3w32">
 <src.rf>manual</src.rf>

@@ -243,7 +243,7 @@
 <LM>w#w-lnd92257-084-p3s2w16</LM>
 </w.rf>
 <form>vyhlašují</form>
-<tag lemma="vyhlašovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="vyhlašovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92257-084-p3s2w17">
 <src.rf>manual</src.rf>
@@ -386,7 +386,7 @@
 <LM>w#w-lnd92257-084-p3s2w33</LM>
 </w.rf>
 <form>uskuteční</form>
-<tag lemma="uskutečnit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="uskutečnit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd92257-084-p3s2w34">
 <src.rf>manual</src.rf>
@@ -508,7 +508,7 @@
 <LM>w#w-lnd92257-084-p3s3w4</LM>
 </w.rf>
 <form>zúčastnit</form>
-<tag lemma="zúčastnit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zúčastnit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92257-084-p3s3w5">
 <src.rf>manual</src.rf>
@@ -580,7 +580,7 @@
 <LM>w#w-lnd92257-084-p3s3w13</LM>
 </w.rf>
 <form>dosáhnou</form>
-<tag lemma="dosáhnout" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="dosáhnout" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-lnd92257-084-p3s3w14">
 <src.rf>manual</src.rf>
@@ -628,7 +628,7 @@
 <LM>w#w-lnd92257-084-p3s3w19</LM>
 </w.rf>
 <form>předloží</form>
-<tag lemma="předložit_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="předložit" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-lnd92257-084-p3s3w20">
 <src.rf>manual</src.rf>
@@ -766,7 +766,7 @@
 <LM>w#w-lnd92257-084-p3s4w6</LM>
 </w.rf>
 <form>přihlásit</form>
-<tag lemma="přihlásit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="přihlásit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92257-084-p3s4w7">
 <src.rf>manual</src.rf>
@@ -934,7 +934,7 @@
 <LM>w#w-lnd92257-084-p3s5w2</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92257-084-p3s5w3">
 <src.rf>manual</src.rf>
@@ -950,7 +950,7 @@
 <LM>w#w-lnd92257-084-p3s5w4</LM>
 </w.rf>
 <form>vysvětlit</form>
-<tag lemma="vysvětlit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vysvětlit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92257-084-p3s5w5">
 <src.rf>manual</src.rf>
@@ -966,7 +966,7 @@
 <LM>w#w-lnd92257-084-p3s5w6</LM>
 </w.rf>
 <form>obhájit</form>
-<tag lemma="obhájit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="obhájit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92257-084-p3s5w7">
 <src.rf>manual</src.rf>

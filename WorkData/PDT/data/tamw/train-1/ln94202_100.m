@@ -333,7 +333,7 @@
 <LM>w#w-ln94202-100-p2s2w6</LM>
 </w.rf>
 <form>zamýšlí</form>
-<tag lemma="zamýšlet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zamýšlet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94202-100-p2s2w7">
 <src.rf>manual</src.rf>
@@ -357,7 +357,7 @@
 <LM>w#w-ln94202-100-p2s2w9</LM>
 </w.rf>
 <form>skončit</form>
-<tag lemma="skončit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="skončit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94202-100-p2s2w10">
 <src.rf>manual</src.rf>

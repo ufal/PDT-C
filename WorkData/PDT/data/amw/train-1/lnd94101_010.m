@@ -35,7 +35,7 @@
 <LM>w#w-lnd94101-010-p1s1w3</LM>
 </w.rf>
 <form>jedou</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd94101-010-p1s1w4">
 <src.rf>manual</src.rf>

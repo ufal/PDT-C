@@ -355,7 +355,7 @@
 <LM>w#w-mf920925-083-p2s3w16</LM>
 </w.rf>
 <form>jde</form>
-<tag lemma="jít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="jít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-083-p2s3w17">
 <src.rf>manual</src.rf>
@@ -633,7 +633,7 @@
 <LM>w#w-mf920925-083-p2s6w3</LM>
 </w.rf>
 <form>zajišťují</form>
-<tag lemma="zajišťovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="zajišťovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-083-p2s6w4">
 <src.rf>manual</src.rf>

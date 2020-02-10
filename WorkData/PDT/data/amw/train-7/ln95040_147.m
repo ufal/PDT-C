@@ -876,7 +876,7 @@
 <LM>w#w-ln95040-147-p4s2w16</LM>
 </w.rf>
 <form>hlasovat</form>
-<tag lemma="hlasovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="hlasovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95040-147-p4s2w17">
 <src.rf>manual</src.rf>
@@ -892,7 +892,7 @@
 <LM>w#w-ln95040-147-p4s2w18</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-ln95040-147-p4s2w19">
 <src.rf>manual</src.rf>
@@ -1006,7 +1006,7 @@
 <LM>w#w-ln95040-147-p5s1w10</LM>
 </w.rf>
 <form>působí</form>
-<tag lemma="působit_:T_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="působit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95040-147-p5s1w11">
 <src.rf>manual</src.rf>
@@ -1128,7 +1128,7 @@
 <LM>w#w-ln95040-147-p5s2w3</LM>
 </w.rf>
 <form>sdělit</form>
-<tag lemma="sdělit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="sdělit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95040-147-p5s2w4">
 <src.rf>manual</src.rf>
@@ -1230,7 +1230,7 @@
 <LM>w#w-ln95040-147-p5s3w5</LM>
 </w.rf>
 <form>vyjádřit</form>
-<tag lemma="vyjádřit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vyjádřit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95040-147-p5s3w6">
 <src.rf>manual</src.rf>
@@ -1486,7 +1486,7 @@
 <LM>w#w-ln95040-147-p5s4w14</LM>
 </w.rf>
 <form>lze</form>
-<tag lemma="lze" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="lze" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95040-147-p5s4w15">
 <src.rf>manual</src.rf>
@@ -1502,7 +1502,7 @@
 <LM>w#w-ln95040-147-p5s4w16</LM>
 </w.rf>
 <form>hlasovat</form>
-<tag lemma="hlasovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="hlasovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95040-147-p5s4w17">
 <src.rf>manual</src.rf>
@@ -1707,7 +1707,7 @@
 <LM>w#w-ln95040-147-p5s5w21</LM>
 </w.rf>
 <form>ověřit</form>
-<tag lemma="ověřit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="ověřit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95040-147-p5s5w22">
 <src.rf>manual</src.rf>

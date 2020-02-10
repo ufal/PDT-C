@@ -561,7 +561,7 @@
 <LM>w#w-ln95047-019-p3s3w16</LM>
 </w.rf>
 <form>odejít</form>
-<tag lemma="odejít" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="odejít" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95047-019-p3s3w17">
 <src.rf>manual</src.rf>

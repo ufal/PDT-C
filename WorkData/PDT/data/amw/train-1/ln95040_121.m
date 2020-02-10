@@ -187,7 +187,7 @@
 <LM>w#w-ln95040-121-p1s2w6</LM>
 </w.rf>
 <form>obávají</form>
-<tag lemma="obávat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="obávat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95040-121-p1s2w7">
 <src.rf>manual</src.rf>
@@ -219,7 +219,7 @@
 <LM>w#w-ln95040-121-p1s2w10</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-ln95040-121-p1s2w11">
 <src.rf>manual</src.rf>
@@ -283,7 +283,7 @@
 <LM>w#w-ln95040-121-p1s2w18</LM>
 </w.rf>
 <form>inspiruje</form>
-<tag lemma="inspirovat_:T_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="inspirovat" src="orig" selected="1">VB-S---3P-AAB--</tag>
 </m>
 <m id="m-ln95040-121-p1s2w19">
 <src.rf>manual</src.rf>
@@ -347,7 +347,7 @@
 <LM>w#w-ln95040-121-p1s2w27</LM>
 </w.rf>
 <form>vyhýbat</form>
-<tag lemma="vyhýbat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vyhýbat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95040-121-p1s2w28">
 <src.rf>manual</src.rf>
@@ -389,7 +389,7 @@
 <LM>w#w-ln95040-121-p1s3w4</LM>
 </w.rf>
 <form>nevylučují</form>
-<tag lemma="vylučovat_:T" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="vylučovat" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 <m id="m-ln95040-121-p1s3w5">
 <src.rf>manual</src.rf>

@@ -404,7 +404,7 @@
 <LM>w#w-lnd92252-093-p2s2w21</LM>
 </w.rf>
 <form>skórovat</form>
-<tag lemma="skórovat_:T_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="skórovat" src="orig" selected="1">Vf--------A-B--</tag>
 </m>
 <m id="m-lnd92252-093-p2s2w22">
 <src.rf>manual</src.rf>

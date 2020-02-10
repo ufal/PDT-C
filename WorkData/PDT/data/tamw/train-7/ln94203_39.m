@@ -518,7 +518,7 @@
 <LM>w#w-ln94203-39-p2s2w16</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94203-39-p2s2w17">
 <src.rf>manual</src.rf>
@@ -558,7 +558,7 @@
 <LM>w#w-ln94203-39-p2s2w21</LM>
 </w.rf>
 <form>lze</form>
-<tag lemma="lze" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="lze" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94203-39-p2s2w22">
 <src.rf>manual</src.rf>
@@ -566,7 +566,7 @@
 <LM>w#w-ln94203-39-p2s2w22</LM>
 </w.rf>
 <form>očekávat</form>
-<tag lemma="očekávat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="očekávat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94203-39-p2s2w23">
 <src.rf>manual</src.rf>
@@ -614,7 +614,7 @@
 <LM>w#w-ln94203-39-p2s2w28</LM>
 </w.rf>
 <form>dopracují</form>
-<tag lemma="dopracovat_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="dopracovat" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-ln94203-39-p2s2w29">
 <src.rf>manual</src.rf>
@@ -696,7 +696,7 @@
 <LM>w#w-ln94203-39-p2s3w6</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94203-39-p2s3w7">
 <src.rf>manual</src.rf>
@@ -728,7 +728,7 @@
 <LM>w#w-ln94203-39-p2s3w10</LM>
 </w.rf>
 <form>vnést</form>
-<tag lemma="vnést" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vnést" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94203-39-p2s3w11">
 <src.rf>manual</src.rf>
@@ -865,7 +865,7 @@
 <LM>w#w-ln94203-39-p2s3w26</LM>
 </w.rf>
 <form>nezná</form>
-<tag lemma="znát" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="znát" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln94203-39-p2s3w27">
 <src.rf>manual</src.rf>
@@ -1070,7 +1070,7 @@
 <LM>w#w-ln94203-39-p2s4w24</LM>
 </w.rf>
 <form>zahájit</form>
-<tag lemma="zahájit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zahájit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94203-39-p2s4w25">
 <src.rf>manual</src.rf>

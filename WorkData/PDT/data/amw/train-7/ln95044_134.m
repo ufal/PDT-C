@@ -297,7 +297,7 @@
 <LM>w#w-ln95044-134-p2s2w4</LM>
 </w.rf>
 <form>předpokládá</form>
-<tag lemma="předpokládat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="předpokládat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95044-134-p2s2w5">
 <src.rf>manual</src.rf>
@@ -385,7 +385,7 @@
 <LM>w#w-ln95044-134-p2s2w15</LM>
 </w.rf>
 <form>zapojí</form>
-<tag lemma="zapojit_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="zapojit" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-ln95044-134-p2s2w16">
 <src.rf>manual</src.rf>
@@ -739,7 +739,7 @@
 <LM>w#w-ln95044-134-p4s1w5</LM>
 </w.rf>
 <form>prodávají</form>
-<tag lemma="prodávat_:T_^(*4at)" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="prodávat_^(*4at)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95044-134-p4s1w6">
 <src.rf>manual</src.rf>
@@ -979,7 +979,7 @@
 <LM>w#w-ln95044-134-p4s2w9</LM>
 </w.rf>
 <form>očekává</form>
-<tag lemma="očekávat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="očekávat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95044-134-p4s2w10">
 <src.rf>manual</src.rf>
@@ -1051,7 +1051,7 @@
 <LM>w#w-ln95044-134-p4s2w18</LM>
 </w.rf>
 <form>přiblíží</form>
-<tag lemma="přiblížit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="přiblížit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95044-134-p4s2w19">
 <src.rf>manual</src.rf>

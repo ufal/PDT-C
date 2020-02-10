@@ -79,7 +79,7 @@
 <LM>w#w-lnd92258-004-p1s1w7</LM>
 </w.rf>
 <form>označuje</form>
-<tag lemma="označovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="označovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92258-004-p1s1w8">
 <src.rf>manual</src.rf>
@@ -209,8 +209,8 @@
 <form>mizejí</form>
 <tag>
 <AM lemma="mizet_:T" src="orig">VB-P---3P-AA---</AM>
-<AM lemma="mizet" src="auto" recommended="1">VB-P---3P-AA--3</AM>
-<AM lemma="mizet_:T" src="manual" selected="1">VB-P---3P-AA--3</AM>
+<AM lemma="mizet" src="auto" recommended="1">VB-P---3P-AAI-3</AM>
+<AM lemma="mizet" src="manual" selected="1">VB-P---3P-AAI-3</AM>
 </tag>
 </m>
 <m id="m-lnd92258-004-p1s1w24">
@@ -259,7 +259,7 @@
 <LM>w#w-lnd92258-004-p1s1w29</LM>
 </w.rf>
 <form>volí</form>
-<tag lemma="volit_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="volit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92258-004-p1s1w30">
 <src.rf>manual</src.rf>

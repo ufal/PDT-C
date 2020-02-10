@@ -443,7 +443,7 @@
 <LM>w#w-mf920923-022-p1s2w37</LM>
 </w.rf>
 <form>jde</form>
-<tag lemma="jít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="jít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920923-022-p1s2w38">
 <src.rf>manual</src.rf>
@@ -635,7 +635,7 @@
 <LM>w#w-mf920923-022-p1s3w20</LM>
 </w.rf>
 <form>dospěje</form>
-<tag lemma="dospět" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="dospět" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf920923-022-p1s3w21">
 <src.rf>manual</src.rf>

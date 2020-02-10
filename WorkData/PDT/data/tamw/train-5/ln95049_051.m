@@ -27,7 +27,7 @@
 <LM>w#w-ln95049-051-p1s1w2</LM>
 </w.rf>
 <form>dopují</form>
-<tag lemma="dopovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="dopovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 </s>
 <s id="m-ln95049-051-p2s1A">
@@ -432,7 +432,7 @@
 <LM>w#w-ln95049-051-p2s4w5</LM>
 </w.rf>
 <form>kritizuje</form>
-<tag lemma="kritizovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="kritizovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95049-051-p2s4w6">
 <src.rf>manual</src.rf>
@@ -510,7 +510,7 @@
 <LM>w#w-ln95049-051-p2s4w11</LM>
 </w.rf>
 <form>nemají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 <m id="m-ln95049-051-p2s4w12">
 <src.rf>manual</src.rf>
@@ -608,7 +608,7 @@
 <LM>w#w-ln95049-051-p2s5w6</LM>
 </w.rf>
 <form>označují</form>
-<tag lemma="označovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="označovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95049-051-p2s5w7">
 <src.rf>manual</src.rf>

@@ -738,7 +738,7 @@
 <LM>w#w-mf930701-015-p2s2w5</LM>
 </w.rf>
 <form>vyžádají</form>
-<tag lemma="vyžádat_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="vyžádat" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-mf930701-015-p2s2w6">
 <src.rf>manual</src.rf>
@@ -867,7 +867,7 @@
 <LM>w#w-mf930701-015-p2s4w4</LM>
 </w.rf>
 <form>dosahuje</form>
-<tag lemma="dosahovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="dosahovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930701-015-p2s4w5">
 <src.rf>manual</src.rf>

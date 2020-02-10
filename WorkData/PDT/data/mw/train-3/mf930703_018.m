@@ -415,7 +415,7 @@
 <LM>w#w-mf930703-018-p2s2w19</LM>
 </w.rf>
 <form>prokazuje</form>
-<tag lemma="prokazovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="prokazovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930703-018-p2s2w20">
 <src.rf>manual</src.rf>

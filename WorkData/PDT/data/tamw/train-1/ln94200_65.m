@@ -122,7 +122,7 @@
 <LM>w#w-ln94200-65-p2s1Bw5</LM>
 </w.rf>
 <form>nechce</form>
-<tag lemma="chtít" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="chtít" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln94200-65-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -162,7 +162,7 @@
 <LM>w#w-ln94200-65-p2s1Bw10</LM>
 </w.rf>
 <form>komentovat</form>
-<tag lemma="komentovat_:T_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="komentovat" src="orig" selected="1">Vf--------A-B--</tag>
 </m>
 <m id="m-ln94200-65-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -420,7 +420,7 @@
 <LM>w#w-ln94200-65-p2s2w4</LM>
 </w.rf>
 <form>nachází</form>
-<tag lemma="nacházet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="nacházet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94200-65-p2s2w5">
 <src.rf>manual</src.rf>
@@ -486,7 +486,7 @@
 <LM>w#w-ln94200-65-p2s3w5</LM>
 </w.rf>
 <form>naznačuje</form>
-<tag lemma="naznačovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="naznačovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94200-65-p2s3w6">
 <src.rf>manual</src.rf>

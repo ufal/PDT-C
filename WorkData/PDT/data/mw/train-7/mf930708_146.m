@@ -51,7 +51,7 @@
 <LM>w#w-mf930708-146-p1s1w5</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-146-p1s1w6">
 <src.rf>manual</src.rf>
@@ -187,7 +187,7 @@
 <LM>w#w-mf930708-146-p2s1w13</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-mf930708-146-p2s1w14">
 <src.rf>manual</src.rf>
@@ -355,7 +355,7 @@
 <LM>w#w-mf930708-146-p2s2w9</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-mf930708-146-p2s2w10">
 <src.rf>manual</src.rf>
@@ -387,7 +387,7 @@
 <LM>w#w-mf930708-146-p2s2w13</LM>
 </w.rf>
 <form>jmenovat</form>
-<tag lemma="jmenovat_:T_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="jmenovat" src="orig" selected="1">Vf--------A-B--</tag>
 </m>
 <m id="m-mf930708-146-p2s2w14">
 <src.rf>manual</src.rf>

@@ -429,7 +429,7 @@
 <LM>w#w-lnd94101-070-p1s2w17</LM>
 </w.rf>
 <form>předznamenává</form>
-<tag lemma="předznamenávat_:T_^(*4at)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="předznamenávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94101-070-p1s2w18">
 <src.rf>manual</src.rf>
@@ -580,7 +580,7 @@
 <LM>w#w-lnd94101-070-p1s4Aw5</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-lnd94101-070-p1s4Aw6">
 <src.rf>manual</src.rf>

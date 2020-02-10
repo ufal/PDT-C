@@ -301,7 +301,7 @@
 <LM>w#w-mf920901-120-p4s3w1</LM>
 </w.rf>
 <form>Tvrdí</form>
-<tag lemma="tvrdit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="tvrdit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920901-120-p4s3w2">
 <src.rf>manual</src.rf>

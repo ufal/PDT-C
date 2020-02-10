@@ -1426,7 +1426,7 @@
 <LM>w#w-lnd92254-075-p3s15w12</LM>
 </w.rf>
 <form>vrací</form>
-<tag lemma="vracet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vracet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92254-075-p3s15w13">
 <src.rf>manual</src.rf>
@@ -1889,7 +1889,7 @@
 <LM>w#w-lnd92254-075-p3s19w3</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92254-075-p3s19w4">
 <src.rf>manual</src.rf>
@@ -3211,7 +3211,7 @@
 <LM>w#w-lnd92254-075-p3s34w7</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92254-075-p3s34w8">
 <src.rf>manual</src.rf>
@@ -5608,7 +5608,7 @@
 <LM>w#w-lnd92254-075-p11s4w15</LM>
 </w.rf>
 <form>vrací</form>
-<tag lemma="vracet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vracet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92254-075-p11s4w16">
 <src.rf>manual</src.rf>
@@ -7680,7 +7680,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>Spoutej</form>
-<tag lemma="spoutat_:W" src="auto" selected="1">Vi-S---2--A----</tag>
+<tag lemma="spoutat" src="auto" selected="1">Vi-S---2--A-P--</tag>
 </m>
 <m id="m-lnd92254-075-p19s5w2">
 <src.rf>manual</src.rf>

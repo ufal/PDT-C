@@ -250,7 +250,7 @@
 <LM>w#w-mf930709-135-p2s2w17</LM>
 </w.rf>
 <form>předpokládá</form>
-<tag lemma="předpokládat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="předpokládat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930709-135-p2s2w18">
 <src.rf>manual</src.rf>
@@ -746,7 +746,7 @@
 <LM>w#w-mf930709-135-p2s5w15</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930709-135-p2s5w16">
 <src.rf>manual</src.rf>

@@ -200,7 +200,7 @@
 <LM>w#w-ln95048-111-p2s1w20</LM>
 </w.rf>
 <form>vévodí</form>
-<tag lemma="vévodit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vévodit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95048-111-p2s1w21">
 <src.rf>manual</src.rf>
@@ -775,7 +775,7 @@
 <LM>w#w-ln95048-111-p2s5w11</LM>
 </w.rf>
 <form>přihlížejí</form>
-<tag lemma="přihlížet_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="přihlížet" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95048-111-p2s5w12">
 <src.rf>manual</src.rf>
@@ -1035,7 +1035,7 @@
 <LM>w#w-ln95048-111-p2s7w11</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95048-111-p2s7w12">
 <src.rf>manual</src.rf>

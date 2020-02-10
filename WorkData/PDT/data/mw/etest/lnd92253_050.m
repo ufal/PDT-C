@@ -290,7 +290,7 @@
 <LM>w#w-lnd92253-050-p3s2w25</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92253-050-p3s2w26">
 <src.rf>manual</src.rf>
@@ -439,7 +439,7 @@
 <LM>w#w-lnd92253-050-p3s3w12</LM>
 </w.rf>
 <form>zapálit</form>
-<tag lemma="zapálit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zapálit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92253-050-p3s3w13">
 <src.rf>manual</src.rf>

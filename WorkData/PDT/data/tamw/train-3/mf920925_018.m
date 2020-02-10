@@ -281,7 +281,7 @@
 <LM>w#w-mf920925-018-p2s3w6</LM>
 </w.rf>
 <form>jsme</form>
-<tag lemma="být" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-mf920925-018-p2s3w7">
 <src.rf>manual</src.rf>
@@ -401,7 +401,7 @@
 <LM>w#w-mf920925-018-p2s3w21</LM>
 </w.rf>
 <form>jsme</form>
-<tag lemma="být" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-mf920925-018-p2s3w22">
 <src.rf>manual</src.rf>
@@ -484,7 +484,7 @@
 <LM>w#w-mf920925-018-p2s3w31</LM>
 </w.rf>
 <form>chybíme</form>
-<tag lemma="chybět_:T_^(někde_něco_chybí)" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="chybět_^(někde_něco_chybí)" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-mf920925-018-p2s3w32">
 <src.rf>manual</src.rf>
@@ -510,7 +510,7 @@
 <LM>w#w-mf920925-018-p2s4Aw2</LM>
 </w.rf>
 <form>jsme</form>
-<tag lemma="být" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-mf920925-018-p2s4Aw3">
 <src.rf>manual</src.rf>
@@ -614,7 +614,7 @@
 <LM>w#w-mf920925-018-p2s4Aw15</LM>
 </w.rf>
 <form>hrajete</form>
-<tag lemma="hrát" src="orig" selected="1">VB-P---2P-AA---</tag>
+<tag lemma="hrát" src="orig" selected="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m-mf920925-018-p2s4Aw16">
 <src.rf>manual</src.rf>
@@ -664,7 +664,7 @@
 <LM>w#w-mf920925-018-p2s4Bw4</LM>
 </w.rf>
 <form>vrací</form>
-<tag lemma="vracet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vracet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-018-p2s4Bw5">
 <src.rf>manual</src.rf>
@@ -804,7 +804,7 @@
 <LM>w#w-mf920925-018-p2s6w3</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-018-p2s6w4">
 <src.rf>manual</src.rf>
@@ -849,7 +849,7 @@
 <LM>w#w-mf920925-018-p2s7w2</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-018-p2s7w3">
 <src.rf>manual</src.rf>
@@ -980,7 +980,7 @@
 <LM>w#w-mf920925-018-p2s7w18</LM>
 </w.rf>
 <form>shromáždí</form>
-<tag lemma="shromáždit_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="shromáždit" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-mf920925-018-p2s7w19">
 <src.rf>manual</src.rf>
@@ -1046,7 +1046,7 @@
 <LM>w#w-mf920925-018-p2s8w4</LM>
 </w.rf>
 <form>hraje</form>
-<tag lemma="hrát" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="hrát" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-018-p2s8w5">
 <src.rf>manual</src.rf>
@@ -1080,7 +1080,7 @@
 <LM>w#w-mf920925-018-p2s9w2</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-018-p2s9w3">
 <src.rf>manual</src.rf>
@@ -1112,7 +1112,7 @@
 <LM>w#w-mf920925-018-p2s9w6</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-018-p2s9w7">
 <src.rf>manual</src.rf>
@@ -1179,7 +1179,7 @@
 <LM>w#w-mf920925-018-p2s9w14</LM>
 </w.rf>
 <form>zdá</form>
-<tag lemma="zdát" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zdát" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-018-p2s9w15">
 <src.rf>manual</src.rf>
@@ -1213,7 +1213,7 @@
 <LM>w#w-mf920925-018-p2s10w3</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-018-p2s10w4">
 <src.rf>manual</src.rf>
@@ -1303,7 +1303,7 @@
 <LM>w#w-mf920925-018-p2s11w8</LM>
 </w.rf>
 <form>vystupuje</form>
-<tag lemma="vystupovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vystupovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-018-p2s11w9">
 <src.rf>manual</src.rf>
@@ -1405,7 +1405,7 @@
 <LM>w#w-mf920925-018-p2s11w20</LM>
 </w.rf>
 <form>Zůstaňte</form>
-<tag lemma="zůstat" src="orig" selected="1">Vi-P---2--A----</tag>
+<tag lemma="zůstat" src="orig" selected="1">Vi-P---2--A-P--</tag>
 </m>
 <m id="m-mf920925-018-p2s11w21">
 <src.rf>manual</src.rf>
@@ -1429,7 +1429,7 @@
 <LM>w#w-mf920925-018-p2s11w23</LM>
 </w.rf>
 <form>není</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-mf920925-018-p2s11w24">
 <src.rf>manual</src.rf>
@@ -1498,7 +1498,7 @@
 <LM>w#w-mf920925-018-p2s12w5</LM>
 </w.rf>
 <form>libuje</form>
-<tag lemma="libovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="libovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-018-p2s12w6">
 <src.rf>manual</src.rf>
@@ -1604,7 +1604,7 @@
 <LM>w#w-mf920925-018-p3s1w10</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-mf920925-018-p3s1w11">
 <src.rf>manual</src.rf>
@@ -1620,7 +1620,7 @@
 <LM>w#w-mf920925-018-p3s1w12</LM>
 </w.rf>
 <form>dostat</form>
-<tag lemma="dostat" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="dostat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920925-018-p3s1w13">
 <src.rf>manual</src.rf>
@@ -1718,7 +1718,7 @@
 <LM>w#w-mf920925-018-p3s2w6</LM>
 </w.rf>
 <form>neudržíte</form>
-<tag lemma="udržet" src="orig" selected="1">VB-P---2P-NA---</tag>
+<tag lemma="udržet" src="orig" selected="1">VB-P---2P-NAP--</tag>
 </m>
 <m id="m-mf920925-018-p3s2w7">
 <src.rf>manual</src.rf>
@@ -1801,7 +1801,7 @@
 <LM>w#w-mf920925-018-p3s2w16</LM>
 </w.rf>
 <form>hrajeme</form>
-<tag lemma="hrát" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="hrát" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-mf920925-018-p3s2w17">
 <src.rf>manual</src.rf>
@@ -1825,7 +1825,7 @@
 <LM>w#w-mf920925-018-p3s2w19</LM>
 </w.rf>
 <form>říká</form>
-<tag lemma="říkat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="říkat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-018-p3s2w20">
 <src.rf>manual</src.rf>

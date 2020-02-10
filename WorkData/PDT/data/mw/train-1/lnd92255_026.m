@@ -82,8 +82,8 @@
 <tag>
 <AM lemma="hoj-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="hoj" src="auto" recommended="1">II-------------</AM>
-<AM lemma="hojit_:T" src="auto">Vi-S---2--A----</AM>
-<AM lemma="hojit_:T" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="hojit" src="auto">Vi-S---2--A-I--</AM>
+<AM lemma="hojit" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="hoj-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -112,8 +112,8 @@
 </w.rf>
 <form>Využít</form>
 <tag>
-<AM lemma="využít" src="orig">Vf--------A----</AM>
-<AM lemma="využít_:T" src="manual" selected="1">Vf--------A----</AM>
+<AM lemma="využít" src="orig">Vf--------A-P--</AM>
+<AM lemma="využít" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m-lnd92255-026-p3s2w2">
@@ -194,7 +194,7 @@
 <LM>w#w-lnd92255-026-p3s2w11</LM>
 </w.rf>
 <form>zabývají</form>
-<tag lemma="zabývat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="zabývat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92255-026-p3s2w12">
 <src.rf>manual</src.rf>
@@ -258,7 +258,7 @@
 <LM>w#w-lnd92255-026-p3s2w19</LM>
 </w.rf>
 <form>hodlá</form>
-<tag lemma="hodlat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="hodlat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92255-026-p3s2w20">
 <src.rf>manual</src.rf>
@@ -266,7 +266,7 @@
 <LM>w#w-lnd92255-026-p3s2w20</LM>
 </w.rf>
 <form>využít</form>
-<tag lemma="využít" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="využít" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92255-026-p3s2w21">
 <src.rf>manual</src.rf>
@@ -503,7 +503,7 @@
 <LM>w#w-lnd92255-026-p3s4w21</LM>
 </w.rf>
 <form>chce</form>
-<tag lemma="chtít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="chtít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92255-026-p3s4w22">
 <src.rf>manual</src.rf>
@@ -568,8 +568,8 @@
 </w.rf>
 <form>zavést</form>
 <tag>
-<AM lemma="zavést" src="orig">Vf--------A----</AM>
-<AM lemma="zavést_:W" src="manual" selected="1">Vf--------A----</AM>
+<AM lemma="zavést" src="orig">Vf--------A-P--</AM>
+<AM lemma="zavést" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m-lnd92255-026-p3s4w30">
@@ -660,7 +660,7 @@
 <LM>w#w-lnd92255-026-p3s5w7</LM>
 </w.rf>
 <form>podílí</form>
-<tag lemma="podílet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="podílet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92255-026-p3s5w8">
 <src.rf>manual</src.rf>

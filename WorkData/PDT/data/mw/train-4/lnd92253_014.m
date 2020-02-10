@@ -109,7 +109,7 @@
 <LM>w#w-lnd92253-014-p3s2w2</LM>
 </w.rf>
 <form>Věřím</form>
-<tag lemma="věřit_:T" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="věřit" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-lnd92253-014-p3s2w3">
 <src.rf>manual</src.rf>
@@ -149,7 +149,7 @@
 <LM>w#w-lnd92253-014-p3s2w7</LM>
 </w.rf>
 <form>budou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3F-AAI--</tag>
 </m>
 <m id="m-lnd92253-014-p3s2w8">
 <src.rf>manual</src.rf>
@@ -718,7 +718,7 @@
 <LM>w#w-lnd92253-014-p3s5w3</LM>
 </w.rf>
 <form>připravuje</form>
-<tag lemma="připravovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="připravovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92253-014-p3s5w4">
 <src.rf>manual</src.rf>
@@ -766,7 +766,7 @@
 <LM>w#w-lnd92253-014-p3s5w9</LM>
 </w.rf>
 <form>chce</form>
-<tag lemma="chtít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="chtít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92253-014-p3s5w10">
 <src.rf>manual</src.rf>
@@ -774,7 +774,7 @@
 <LM>w#w-lnd92253-014-p3s5w10</LM>
 </w.rf>
 <form>vybudovat</form>
-<tag lemma="vybudovat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vybudovat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92253-014-p3s5w11">
 <src.rf>manual</src.rf>
@@ -862,7 +862,7 @@
 <LM>w#w-lnd92253-014-p3s5w21</LM>
 </w.rf>
 <form>chce</form>
-<tag lemma="chtít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="chtít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92253-014-p3s5w22">
 <src.rf>manual</src.rf>
@@ -870,7 +870,7 @@
 <LM>w#w-lnd92253-014-p3s5w22</LM>
 </w.rf>
 <form>přejít</form>
-<tag lemma="přejít" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="přejít" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92253-014-p3s5w23">
 <src.rf>manual</src.rf>
@@ -899,7 +899,7 @@
 <form>line</form>
 <tag>
 <AM lemma="line_;m_,t" src="orig">NNFXX-----A----</AM>
-<AM lemma="linout" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="linout" src="auto">VB-S---3P-AAI--</AM>
 <AM lemma="line_,t_^(angl._čára)" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="line-77" src="manual" selected="1">F%-------------</AM>
 </tag>

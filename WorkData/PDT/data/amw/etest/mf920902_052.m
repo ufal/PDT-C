@@ -242,7 +242,7 @@
 <LM>w#w-mf920902-052-p2s2w19</LM>
 </w.rf>
 <form>musí</form>
-<tag lemma="muset" src="orig" selected="1">VB-P---3P-AA--1</tag>
+<tag lemma="muset" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-mf920902-052-p2s2w20">
 <src.rf>manual</src.rf>
@@ -250,7 +250,7 @@
 <LM>w#w-mf920902-052-p2s2w20</LM>
 </w.rf>
 <form>připlatit</form>
-<tag lemma="připlatit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="připlatit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920902-052-p2s2w21">
 <src.rf>manual</src.rf>
@@ -452,7 +452,7 @@
 <LM>w#w-mf920902-052-p2s3w10</LM>
 </w.rf>
 <form>přespat</form>
-<tag lemma="přespat" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="přespat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf920902-052-p2s3w11">
 <src.rf>manual</src.rf>
@@ -502,7 +502,7 @@
 <LM>w#w-mf920902-052-p2s4w3</LM>
 </w.rf>
 <form>patří</form>
-<tag lemma="patřit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="patřit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920902-052-p2s4w4">
 <src.rf>manual</src.rf>
@@ -776,7 +776,7 @@
 <LM>w#w-mf920902-052-p2s5w18</LM>
 </w.rf>
 <form>sleduje</form>
-<tag lemma="sledovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="sledovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920902-052-p2s5w19">
 <src.rf>manual</src.rf>
@@ -874,7 +874,7 @@
 <LM>w#w-mf920902-052-p2s6w6</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-mf920902-052-p2s6w7">
 <src.rf>manual</src.rf>
@@ -898,7 +898,7 @@
 <LM>w#w-mf920902-052-p2s6w9</LM>
 </w.rf>
 <form>dohlížet</form>
-<tag lemma="dohlížet_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="dohlížet" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf920902-052-p2s6w10">
 <src.rf>manual</src.rf>
@@ -1076,7 +1076,7 @@
 <LM>w#w-mf920902-052-p3s1w2</LM>
 </w.rf>
 <form>Viz</form>
-<tag lemma="viz_:W_^(odkaz_na_jiné_místo)" src="orig" selected="1">Vi-S---2--A---1</tag>
+<tag lemma="viz_^(odkaz_na_jiné_místo)" src="orig" selected="1">Vi-S---2--A-P-1</tag>
 </m>
 <m id="m-mf920902-052-p3s1w3">
 <src.rf>manual</src.rf>

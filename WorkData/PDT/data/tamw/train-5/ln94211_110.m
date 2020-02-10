@@ -97,7 +97,7 @@
 <LM>w#w-ln94211-110-p1s1Aw10</LM>
 </w.rf>
 <form>Zbožňuju</form>
-<tag lemma="zbožňovat_:T" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="zbožňovat" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-ln94211-110-p1s1Aw11">
 <src.rf>manual</src.rf>

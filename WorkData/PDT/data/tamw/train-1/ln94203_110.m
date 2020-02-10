@@ -898,7 +898,7 @@
 <LM>w#w-ln94203-110-p3s2w9</LM>
 </w.rf>
 <form>zaplatí</form>
-<tag lemma="zaplatit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zaplatit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94203-110-p3s2w10">
 <src.rf>manual</src.rf>

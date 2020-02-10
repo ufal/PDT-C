@@ -54,7 +54,7 @@
 <LM>w#w-mf930713-152-p1s1w5</LM>
 </w.rf>
 <form>udržují</form>
-<tag lemma="udržovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="udržovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930713-152-p1s1w6">
 <src.rf>manual</src.rf>
@@ -162,7 +162,7 @@
 <LM>w#w-mf930713-152-p2s1Bw7</LM>
 </w.rf>
 <form>udržují</form>
-<tag lemma="udržovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="udržovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930713-152-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -226,7 +226,7 @@
 <LM>w#w-mf930713-152-p2s1Bw15</LM>
 </w.rf>
 <form>dostat</form>
-<tag lemma="dostat" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="dostat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930713-152-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -548,7 +548,7 @@
 <LM>w#w-mf930713-152-p3s1w20</LM>
 </w.rf>
 <form>uskutečňují</form>
-<tag lemma="uskutečňovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="uskutečňovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930713-152-p3s1w21">
 <src.rf>manual</src.rf>
@@ -684,7 +684,7 @@
 <LM>w#w-mf930713-152-p3s1w37</LM>
 </w.rf>
 <form>snaží</form>
-<tag lemma="snažit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="snažit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930713-152-p3s1w38">
 <src.rf>manual</src.rf>
@@ -748,7 +748,7 @@
 <LM>w#w-mf930713-152-p3s1w45</LM>
 </w.rf>
 <form>oživit</form>
-<tag lemma="oživit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="oživit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930713-152-p3s1w46">
 <src.rf>manual</src.rf>
@@ -774,7 +774,7 @@
 <LM>w#w-mf930713-152-p3s2w2</LM>
 </w.rf>
 <form>mají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930713-152-p3s2w3">
 <src.rf>manual</src.rf>
@@ -1085,7 +1085,7 @@
 <LM>w#w-mf930713-152-p4s2w7</LM>
 </w.rf>
 <form>účastní</form>
-<tag lemma="účastnit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="účastnit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930713-152-p4s2w8">
 <src.rf>manual</src.rf>
@@ -1375,7 +1375,7 @@
 <LM>w#w-mf930713-152-p5s1w35</LM>
 </w.rf>
 <form>dělají</form>
-<tag lemma="dělat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="dělat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930713-152-p5s1w36">
 <src.rf>manual</src.rf>

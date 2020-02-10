@@ -147,7 +147,7 @@
 <LM>w#w-ln95045-125-p2s1Bw8</LM>
 </w.rf>
 <form>uzavře</form>
-<tag lemma="uzavřít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="uzavřít" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95045-125-p2s1Bw9">
 <src.rf>manual</src.rf>

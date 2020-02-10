@@ -157,7 +157,7 @@
 <LM>w#w-cmpr9406-052-p3s1w16</LM>
 </w.rf>
 <form>jmenuje</form>
-<tag lemma="jmenovat_:T_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="jmenovat" src="orig" selected="1">VB-S---3P-AAB--</tag>
 </m>
 <m id="m-cmpr9406-052-p3s1w17">
 <src.rf>manual</src.rf>
@@ -197,7 +197,7 @@
 <LM>w#w-cmpr9406-052-p3s1w21</LM>
 </w.rf>
 <form>uskuteční</form>
-<tag lemma="uskutečnit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="uskutečnit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-cmpr9406-052-p3s1w22">
 <src.rf>manual</src.rf>
@@ -279,7 +279,7 @@
 <LM>w#w-cmpr9406-052-p3s2w1</LM>
 </w.rf>
 <form>Bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-cmpr9406-052-p3s2w2">
 <src.rf>manual</src.rf>

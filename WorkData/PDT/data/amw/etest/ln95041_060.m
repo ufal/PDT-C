@@ -368,7 +368,7 @@
 <LM>w#w-ln95041-060-p1s3w12</LM>
 </w.rf>
 <form>otevře</form>
-<tag lemma="otevřít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="otevřít" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95041-060-p1s3w13">
 <src.rf>manual</src.rf>

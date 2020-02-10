@@ -43,7 +43,7 @@
 <LM>w#w-mf920901-056-p1s1w4</LM>
 </w.rf>
 <form>trénují</form>
-<tag lemma="trénovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="trénovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920901-056-p1s1w5">
 <src.rf>manual</src.rf>
@@ -109,7 +109,7 @@
 <LM>w#w-mf920901-056-p1s2w5</LM>
 </w.rf>
 <form>tají</form>
-<tag lemma="tajit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="tajit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920901-056-p1s2w6">
 <src.rf>manual</src.rf>

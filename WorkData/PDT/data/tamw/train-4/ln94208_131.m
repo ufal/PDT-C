@@ -59,7 +59,7 @@
 <LM>w#w-ln94208-131-p1s1Aw6</LM>
 </w.rf>
 <form>doráží</form>
-<tag lemma="dorážet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="dorážet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94208-131-p1s1Aw7">
 <src.rf>manual</src.rf>

@@ -754,7 +754,7 @@
 <LM>w#w-ln95047-078-p2s5w3</LM>
 </w.rf>
 <form>jde</form>
-<tag lemma="jít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="jít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95047-078-p2s5w4">
 <src.rf>manual</src.rf>

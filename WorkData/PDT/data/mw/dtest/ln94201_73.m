@@ -850,7 +850,7 @@
 <LM>w#w-ln94201-73-p3s2w26</LM>
 </w.rf>
 <form>otočit</form>
-<tag lemma="otočit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="otočit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94201-73-p3s2w27">
 <src.rf>manual</src.rf>
@@ -2753,7 +2753,7 @@
 <LM>w#w-ln94201-73-p7s2w9</LM>
 </w.rf>
 <form>jsme</form>
-<tag lemma="být" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-ln94201-73-p7s2w10">
 <src.rf>manual</src.rf>
@@ -2984,7 +2984,7 @@
 <LM>w#w-ln94201-73-p7s4w8</LM>
 </w.rf>
 <form>Je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94201-73-p7s4w9">
 <src.rf>manual</src.rf>
@@ -3000,7 +3000,7 @@
 <LM>w#w-ln94201-73-p7s4w10</LM>
 </w.rf>
 <form>hodnotit</form>
-<tag lemma="hodnotit_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="hodnotit" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94201-73-p7s4w11">
 <src.rf>manual</src.rf>
@@ -3032,7 +3032,7 @@
 <LM>w#w-ln94201-73-p7s4w14</LM>
 </w.rf>
 <form>neproměňujeme</form>
-<tag lemma="proměňovat_:T" src="orig" selected="1">VB-P---1P-NA---</tag>
+<tag lemma="proměňovat" src="orig" selected="1">VB-P---1P-NAI--</tag>
 </m>
 <m id="m-ln94201-73-p7s4w15">
 <src.rf>manual</src.rf>
@@ -3064,7 +3064,7 @@
 <LM>w#w-ln94201-73-p7s4w18</LM>
 </w.rf>
 <form>dáváme</form>
-<tag lemma="dávat_:T_^(*3t)" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="dávat_^(*3t)" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-ln94201-73-p7s4w19">
 <src.rf>manual</src.rf>
@@ -3106,7 +3106,7 @@
 <LM>w#w-ln94201-73-p7s5w2</LM>
 </w.rf>
 <form>jsme</form>
-<tag lemma="být" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-ln94201-73-p7s5w3">
 <src.rf>manual</src.rf>
@@ -3239,7 +3239,7 @@
 <LM>w#w-ln94201-73-p7s6w9</LM>
 </w.rf>
 <form>jsem</form>
-<tag lemma="být" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-ln94201-73-p7s6w10">
 <src.rf>manual</src.rf>
@@ -3255,7 +3255,7 @@
 <LM>w#w-ln94201-73-p7s6w11</LM>
 </w.rf>
 <form>vystřídat</form>
-<tag lemma="vystřídat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vystřídat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94201-73-p7s6w12">
 <src.rf>manual</src.rf>

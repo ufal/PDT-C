@@ -94,7 +94,7 @@
 <LM>w#w-ln95042-048-p1s1w10</LM>
 </w.rf>
 <form>děkuje</form>
-<tag lemma="děkovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="děkovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95042-048-p1s1w11">
 <src.rf>manual</src.rf>

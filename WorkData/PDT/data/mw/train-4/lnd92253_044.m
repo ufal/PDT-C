@@ -153,7 +153,7 @@
 <LM>w#w-lnd92253-044-p3s2w10</LM>
 </w.rf>
 <form>nemá</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-lnd92253-044-p3s2w11">
 <src.rf>manual</src.rf>
@@ -278,8 +278,8 @@
 <AM lemma="Kala_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="kal" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="kal" src="auto">NNIS4-----A----</AM>
-<AM lemma="kalit_:T" src="auto">Vi-S---2--A----</AM>
-<AM lemma="kalit_:T" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="kalit" src="auto">Vi-S---2--A-I--</AM>
+<AM lemma="kalit" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="kalo-1" src="auto">NNNP2-----A----</AM>
 <AM lemma="KAL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
@@ -666,7 +666,7 @@
 <LM>w#w-lnd92253-044-p3s4w16</LM>
 </w.rf>
 <form>najít</form>
-<tag lemma="najít" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="najít" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92253-044-p3s4w17">
 <src.rf>manual</src.rf>
@@ -777,8 +777,8 @@
 <AM lemma="Kala_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="kal" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="kal" src="auto">NNIS4-----A----</AM>
-<AM lemma="kalit_:T" src="auto">Vi-S---2--A----</AM>
-<AM lemma="kalit_:T" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="kalit" src="auto">Vi-S---2--A-I--</AM>
+<AM lemma="kalit" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="kalo-1" src="auto">NNNP2-----A----</AM>
 <AM lemma="KAL-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>

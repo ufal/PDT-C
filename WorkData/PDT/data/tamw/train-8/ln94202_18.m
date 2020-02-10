@@ -119,7 +119,7 @@
 <LM>w#w-ln94202-18-p2s1w10</LM>
 </w.rf>
 <form>najdete</form>
-<tag lemma="najít" src="orig" selected="1">VB-P---2P-AA---</tag>
+<tag lemma="najít" src="orig" selected="1">VB-P---2P-AAP--</tag>
 </m>
 <m id="m-ln94202-18-p2s1w11">
 <src.rf>manual</src.rf>
@@ -193,7 +193,7 @@
 <LM>w#w-ln94202-18-p2s2w2</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94202-18-p2s2w3">
 <src.rf>manual</src.rf>

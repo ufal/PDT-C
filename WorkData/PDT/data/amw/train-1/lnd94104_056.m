@@ -35,7 +35,7 @@
 <LM>w#w-lnd94104-056-p1s1w3</LM>
 </w.rf>
 <form>odebírají</form>
-<tag lemma="odebírat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="odebírat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd94104-056-p1s1w4">
 <src.rf>manual</src.rf>
@@ -183,7 +183,7 @@
 <LM>w#w-lnd94104-056-p1s3w15</LM>
 </w.rf>
 <form>vyšetřují</form>
-<tag lemma="vyšetřovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="vyšetřovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd94104-056-p1s3w16">
 <src.rf>manual</src.rf>
@@ -273,7 +273,7 @@
 <LM>w#w-lnd94104-056-p1s4w3</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd94104-056-p1s4w4">
 <src.rf>manual</src.rf>

@@ -152,7 +152,7 @@
 <LM>w#w-mf930702-111-p2s1w10</LM>
 </w.rf>
 <form>snaží</form>
-<tag lemma="snažit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="snažit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930702-111-p2s1w11">
 <src.rf>manual</src.rf>
@@ -160,7 +160,7 @@
 <LM>w#w-mf930702-111-p2s1w11</LM>
 </w.rf>
 <form>zabránit</form>
-<tag lemma="zabránit_:W_^(někomu_v_něčem)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zabránit_^(někomu_v_něčem)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930702-111-p2s1w12">
 <src.rf>manual</src.rf>
@@ -216,7 +216,7 @@
 <LM>w#w-mf930702-111-p2s1w18</LM>
 </w.rf>
 <form>rozdělit</form>
-<tag lemma="rozdělit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="rozdělit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930702-111-p2s1w19">
 <src.rf>manual</src.rf>
@@ -344,7 +344,7 @@
 <LM>w#w-mf930702-111-p2s1w34</LM>
 </w.rf>
 <form>plout</form>
-<tag lemma="plout" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="plout" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf930702-111-p2s1w35">
 <src.rf>manual</src.rf>
@@ -410,7 +410,7 @@
 <LM>w#w-mf930702-111-p2s2w4</LM>
 </w.rf>
 <form>citují</form>
-<tag lemma="citovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="citovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930702-111-p2s2w5">
 <src.rf>manual</src.rf>
@@ -522,7 +522,7 @@
 <LM>w#w-mf930702-111-p2s2w18</LM>
 </w.rf>
 <form>vztyčit</form>
-<tag lemma="vztyčit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vztyčit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930702-111-p2s2w19">
 <src.rf>manual</src.rf>

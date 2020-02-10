@@ -555,7 +555,7 @@
 <LM>w#w-mf930708-062-p7s2w6</LM>
 </w.rf>
 <form>zapomeň</form>
-<tag lemma="zapomenout" src="orig" selected="1">Vi-S---2--A----</tag>
+<tag lemma="zapomenout" src="orig" selected="1">Vi-S---2--A-P--</tag>
 </m>
 </s>
 <s id="m-mf930708-062-p8s1">

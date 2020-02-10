@@ -2678,7 +2678,7 @@
 <LM>w#w-mf930708-119-p5s1w9</LM>
 </w.rf>
 <form>utká</form>
-<tag lemma="utkat_:T_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="utkat" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930708-119-p5s1w10">
 <src.rf>manual</src.rf>
@@ -2902,7 +2902,7 @@
 <LM>w#w-mf930708-119-p5s2w6</LM>
 </w.rf>
 <form>věnuje</form>
-<tag lemma="věnovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="věnovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-119-p5s2w7">
 <src.rf>manual</src.rf>
@@ -3024,7 +3024,7 @@
 <LM>w#w-mf930708-119-p5s3w5</LM>
 </w.rf>
 <form>nastoupí</form>
-<tag lemma="nastoupit_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="nastoupit" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-mf930708-119-p5s3w6">
 <src.rf>manual</src.rf>

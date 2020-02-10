@@ -171,7 +171,7 @@
 <LM>w#w-ln94209-8-p1s1Aw20</LM>
 </w.rf>
 <form>seznámit</form>
-<tag lemma="seznámit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="seznámit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94209-8-p1s1Aw21">
 <src.rf>manual</src.rf>

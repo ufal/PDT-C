@@ -191,7 +191,7 @@
 <LM>w#w-lnd94104-050-p1s1w23</LM>
 </w.rf>
 <form>panuje</form>
-<tag lemma="panovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="panovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94104-050-p1s1w24">
 <src.rf>manual</src.rf>

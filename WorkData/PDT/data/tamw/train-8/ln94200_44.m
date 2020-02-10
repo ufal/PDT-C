@@ -48,7 +48,7 @@
 <LM>w#w-ln94200-44-p2s1w1</LM>
 </w.rf>
 <form>Vybíráme</form>
-<tag lemma="vybírat_:T" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="vybírat" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-ln94200-44-p2s1w2">
 <src.rf>manual</src.rf>
@@ -217,7 +217,7 @@
 <LM>w#w-ln94200-44-p2s1w21</LM>
 </w.rf>
 <form>poskytne</form>
-<tag lemma="poskytnout_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="poskytnout" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94200-44-p2s1w22">
 <src.rf>manual</src.rf>
@@ -323,7 +323,7 @@
 <LM>w#w-ln94200-44-p2s2w1</LM>
 </w.rf>
 <form>Obsahuje</form>
-<tag lemma="obsahovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="obsahovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94200-44-p2s2w2">
 <src.rf>manual</src.rf>
@@ -705,7 +705,7 @@
 <LM>w#w-ln94200-44-p2s7w3</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94200-44-p2s7w4">
 <src.rf>manual</src.rf>
@@ -1075,7 +1075,7 @@
 <LM>w#w-ln94200-44-p3s1w14</LM>
 </w.rf>
 <form>obdrží</form>
-<tag lemma="obdržet" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="obdržet" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-ln94200-44-p3s1w15">
 <src.rf>manual</src.rf>
@@ -1223,7 +1223,7 @@
 <LM>w#w-ln94200-44-p3s3w1</LM>
 </w.rf>
 <form>Připravuje</form>
-<tag lemma="připravovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="připravovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94200-44-p3s3w2">
 <src.rf>manual</src.rf>
@@ -1373,7 +1373,7 @@
 <LM>w#w-ln94200-44-p4s1w9</LM>
 </w.rf>
 <form>připraví</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="připravit" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-ln94200-44-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1761,7 +1761,7 @@
 <LM>w#w-ln94200-44-p4s4w1</LM>
 </w.rf>
 <form>Připravuje</form>
-<tag lemma="připravovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="připravovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94200-44-p4s4w2">
 <src.rf>manual</src.rf>

@@ -615,7 +615,7 @@
 <LM>w#w-ln95040-025-p2s2w10</LM>
 </w.rf>
 <form>skórovat</form>
-<tag lemma="skórovat_:T_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="skórovat" src="orig" selected="1">Vf--------A-B--</tag>
 </m>
 <m id="m-ln95040-025-p2s2w11">
 <src.rf>manual</src.rf>
@@ -1395,7 +1395,7 @@
 <LM>w#w-ln95040-025-p2s6w8</LM>
 </w.rf>
 <form>útočit</form>
-<tag lemma="útočit_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="útočit" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95040-025-p2s6w9">
 <src.rf>manual</src.rf>
@@ -1509,7 +1509,7 @@
 <LM>w#w-ln95040-025-p2s7w5</LM>
 </w.rf>
 <form>docházet</form>
-<tag lemma="docházet_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="docházet" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95040-025-p2s7w6">
 <src.rf>manual</src.rf>
@@ -2085,7 +2085,7 @@
 <LM>w#w-ln95040-025-p5s2w4</LM>
 </w.rf>
 <form>opakovat</form>
-<tag lemma="opakovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="opakovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95040-025-p5s2w5">
 <src.rf>manual</src.rf>

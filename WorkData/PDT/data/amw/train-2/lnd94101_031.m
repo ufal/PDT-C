@@ -165,7 +165,7 @@
 <LM>w#w-lnd94101-031-p1s2w11</LM>
 </w.rf>
 <form>vyvolávají</form>
-<tag lemma="vyvolávat_:T_^(*4at)" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="vyvolávat_^(*4at)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd94101-031-p1s2w12">
 <src.rf>manual</src.rf>

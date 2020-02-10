@@ -362,7 +362,7 @@
 <LM>w#w-lnd92254-101-p2s4w4</LM>
 </w.rf>
 <form>vyšetřuje</form>
-<tag lemma="vyšetřovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vyšetřovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92254-101-p2s4w5">
 <src.rf>manual</src.rf>

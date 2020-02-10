@@ -51,7 +51,7 @@
 <LM>w#w-mf930713-073-p1s1w5</LM>
 </w.rf>
 <form>zaplatí</form>
-<tag lemma="zaplatit_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="zaplatit" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-mf930713-073-p1s1w6">
 <src.rf>manual</src.rf>

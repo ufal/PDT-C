@@ -272,7 +272,7 @@
 <LM>w#w-mf930713-029-p2s2w7</LM>
 </w.rf>
 <form>patří</form>
-<tag lemma="patřit_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="patřit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930713-029-p2s2w8">
 <src.rf>manual</src.rf>

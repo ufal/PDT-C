@@ -30,7 +30,7 @@
 <LM>w#w-ln94202-52-p1s1w2</LM>
 </w.rf>
 <form>kritizuje</form>
-<tag lemma="kritizovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="kritizovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94202-52-p1s1w3">
 <src.rf>manual</src.rf>
@@ -337,7 +337,7 @@
 <LM>w#w-ln94202-52-p2s2w6</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94202-52-p2s2w7">
 <src.rf>manual</src.rf>
@@ -482,7 +482,7 @@
 <LM>w#w-ln94202-52-p3s1w2</LM>
 </w.rf>
 <form>považuje</form>
-<tag lemma="považovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="považovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94202-52-p3s1w3">
 <src.rf>manual</src.rf>
@@ -1009,7 +1009,7 @@
 <LM>w#w-ln94202-52-p3s3w27</LM>
 </w.rf>
 <form>nehlásá</form>
-<tag lemma="hlásat_:T" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="hlásat" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln94202-52-p3s3w28">
 <src.rf>manual</src.rf>

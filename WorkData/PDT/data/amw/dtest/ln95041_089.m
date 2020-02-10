@@ -176,7 +176,7 @@
 <LM>w#w-ln95041-089-p2s1w19</LM>
 </w.rf>
 <form>spolupracuje</form>
-<tag lemma="spolupracovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="spolupracovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95041-089-p2s1w20">
 <src.rf>manual</src.rf>
@@ -322,7 +322,7 @@
 <LM>w#w-ln95041-089-p2s2w12</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-ln95041-089-p2s2w13">
 <src.rf>manual</src.rf>
@@ -341,7 +341,7 @@
 <LM>w#w-ln95041-089-p2s2w14</LM>
 </w.rf>
 <form>přijímat</form>
-<tag lemma="přijímat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="přijímat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95041-089-p2s2w15">
 <src.rf>manual</src.rf>

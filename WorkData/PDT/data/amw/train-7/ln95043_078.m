@@ -388,7 +388,7 @@
 <LM>w#w-ln95043-078-p2s2w11</LM>
 </w.rf>
 <form>napadnout</form>
-<tag lemma="napadnout_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="napadnout" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95043-078-p2s2w12">
 <src.rf>manual</src.rf>

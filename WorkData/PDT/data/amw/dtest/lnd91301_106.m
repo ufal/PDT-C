@@ -207,7 +207,7 @@
 <LM>w#w-lnd91301-106-p3s1w18</LM>
 </w.rf>
 <form>zobrazuje</form>
-<tag lemma="zobrazovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zobrazovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd91301-106-p3s1w19">
 <src.rf>manual</src.rf>
@@ -1012,7 +1012,7 @@
 <LM>w#w-lnd91301-106-p3s5w35</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd91301-106-p3s5w36">
 <src.rf>manual</src.rf>

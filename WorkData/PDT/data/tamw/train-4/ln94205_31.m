@@ -149,7 +149,7 @@
 <LM>w#w-ln94205-31-p2s1Bw11</LM>
 </w.rf>
 <form>zastavuje</form>
-<tag lemma="zastavovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zastavovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94205-31-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -388,7 +388,7 @@
 <LM>w#w-ln94205-31-p2s3w8</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94205-31-p2s3w9">
 <src.rf>manual</src.rf>
@@ -481,7 +481,7 @@
 <LM>w#w-ln94205-31-p2s4w6</LM>
 </w.rf>
 <form>složit</form>
-<tag lemma="složit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="složit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94205-31-p2s4w7">
 <src.rf>manual</src.rf>

@@ -522,7 +522,7 @@
 <LM>w#w-lnd92252-001-p1s3w41</LM>
 </w.rf>
 <form>hraje</form>
-<tag lemma="hrát" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="hrát" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92252-001-p1s3w42">
 <src.rf>manual</src.rf>

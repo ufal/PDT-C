@@ -529,7 +529,7 @@
 <LM>w#w-ln94204-54-p2s3w20</LM>
 </w.rf>
 <form>zasáhnout</form>
-<tag lemma="zasáhnout_:W" src="auto" selected="1">Vf--------A----</tag>
+<tag lemma="zasáhnout" src="auto" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94204-54-p2s3w21">
 <src.rf>manual</src.rf>
@@ -561,7 +561,7 @@
 <LM>w#w-ln94204-54-p2s3w24</LM>
 </w.rf>
 <form>zabránit</form>
-<tag lemma="zabránit_:W_^(někomu_v_něčem)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zabránit_^(někomu_v_něčem)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94204-54-p2s3w25">
 <src.rf>manual</src.rf>
@@ -707,7 +707,7 @@
 <LM>w#w-ln94204-54-p2s4w14</LM>
 </w.rf>
 <form>internacionalizují</form>
-<tag lemma="internacionalizovat_:T_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="internacionalizovat" src="orig" selected="1">VB-P---3P-AAB--</tag>
 </m>
 <m id="m-ln94204-54-p2s4w15">
 <src.rf>manual</src.rf>

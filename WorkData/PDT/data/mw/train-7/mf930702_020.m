@@ -306,7 +306,7 @@
 <LM>w#w-mf930702-020-p2s2w8</LM>
 </w.rf>
 <form>půjčuje</form>
-<tag lemma="půjčovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="půjčovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930702-020-p2s2w9">
 <src.rf>manual</src.rf>
@@ -430,7 +430,7 @@
 <LM>w#w-mf930702-020-p2s3w6</LM>
 </w.rf>
 <form>vztahuje</form>
-<tag lemma="vztahovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vztahovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930702-020-p2s3w7">
 <src.rf>manual</src.rf>
@@ -602,7 +602,7 @@
 <LM>w#w-mf930702-020-p2s4w6</LM>
 </w.rf>
 <form>snaží</form>
-<tag lemma="snažit_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="snažit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930702-020-p2s4w7">
 <src.rf>manual</src.rf>
@@ -610,7 +610,7 @@
 <LM>w#w-mf930702-020-p2s4w7</LM>
 </w.rf>
 <form>povzbudit</form>
-<tag lemma="povzbudit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="povzbudit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930702-020-p2s4w8">
 <src.rf>manual</src.rf>
@@ -650,7 +650,7 @@
 <LM>w#w-mf930702-020-p2s4w12</LM>
 </w.rf>
 <form>přimět</form>
-<tag lemma="přimět" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="přimět" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930702-020-p2s4w13">
 <src.rf>manual</src.rf>

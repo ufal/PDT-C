@@ -43,7 +43,7 @@
 <LM>w#w-mf930713-157-p1s1w4</LM>
 </w.rf>
 <form>loučí</form>
-<tag lemma="loučit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="loučit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930713-157-p1s1w5">
 <src.rf>manual</src.rf>

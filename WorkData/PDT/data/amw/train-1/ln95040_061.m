@@ -83,7 +83,7 @@
 <LM>w#w-ln95040-061-p1s1w9</LM>
 </w.rf>
 <form>nehraju</form>
-<tag lemma="hrát" src="orig" selected="1">VB-S---1P-NA---</tag>
+<tag lemma="hrát" src="orig" selected="1">VB-S---1P-NAI--</tag>
 </m>
 <m id="m-ln95040-061-p1s1w10">
 <src.rf>manual</src.rf>
@@ -101,7 +101,7 @@
 <LM>w#w-ln95040-061-p1s2w1</LM>
 </w.rf>
 <form>Rozřízněme</form>
-<tag lemma="rozříznout_:W" src="orig" selected="1">Vi-P---1--A----</tag>
+<tag lemma="rozříznout" src="orig" selected="1">Vi-P---1--A-P--</tag>
 </m>
 <m id="m-ln95040-061-p1s2w2">
 <src.rf>manual</src.rf>
@@ -145,7 +145,7 @@
 <LM>w#w-ln95040-061-p1s2w6</LM>
 </w.rf>
 <form>hrajme</form>
-<tag lemma="hrát" src="orig" selected="1">Vi-P---1--A----</tag>
+<tag lemma="hrát" src="orig" selected="1">Vi-P---1--A-I--</tag>
 </m>
 <m id="m-ln95040-061-p1s2w7">
 <src.rf>manual</src.rf>

@@ -219,7 +219,7 @@
 <LM>w#w-ln95041-043-p1s2w3</LM>
 </w.rf>
 <form>působí</form>
-<tag lemma="působit_:T_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="působit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95041-043-p1s2w4">
 <src.rf>manual</src.rf>

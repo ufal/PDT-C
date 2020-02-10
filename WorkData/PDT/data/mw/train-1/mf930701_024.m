@@ -67,7 +67,7 @@
 <LM>w#w-mf930701-024-p1s1w7</LM>
 </w.rf>
 <form>začne</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930701-024-p1s1w8">
 <src.rf>manual</src.rf>

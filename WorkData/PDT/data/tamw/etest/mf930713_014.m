@@ -257,7 +257,7 @@
 <LM>w#w-mf930713-014-p2s2w1</LM>
 </w.rf>
 <form>Publikovat</form>
-<tag lemma="publikovat_:T_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="publikovat" src="orig" selected="1">Vf--------A-B--</tag>
 </m>
 <m id="m-mf930713-014-p2s2w2">
 <src.rf>manual</src.rf>

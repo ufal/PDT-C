@@ -254,7 +254,7 @@
 <LM>w#w-ln94210-70-p2s2w11</LM>
 </w.rf>
 <form>odcizit</form>
-<tag lemma="odcizit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="odcizit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94210-70-p2s2w12">
 <src.rf>manual</src.rf>

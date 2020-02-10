@@ -2047,7 +2047,7 @@
 <LM>w#w-lnd91303-089-p5s9w8</LM>
 </w.rf>
 <form>změnit</form>
-<tag lemma="změnit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="změnit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd91303-089-p5s9w9">
 <src.rf>manual</src.rf>

@@ -112,7 +112,7 @@
 <LM>w#w-ln94206-101-p2s1w10</LM>
 </w.rf>
 <form>prodlužuje</form>
-<tag lemma="prodlužovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="prodlužovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94206-101-p2s1w11">
 <src.rf>manual</src.rf>
@@ -209,7 +209,7 @@
 <LM>w#w-ln94206-101-p2s2w9</LM>
 </w.rf>
 <form>zazní</form>
-<tag lemma="zaznít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zaznít" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94206-101-p2s2w10">
 <src.rf>manual</src.rf>

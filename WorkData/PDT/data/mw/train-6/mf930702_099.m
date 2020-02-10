@@ -455,7 +455,7 @@
 <LM>w#w-mf930702-099-p3s1w47</LM>
 </w.rf>
 <form>Starej</form>
-<tag lemma="starat_:T_^(se)" src="auto" selected="1">Vi-S---2--A----</tag>
+<tag lemma="starat_^(se)" src="auto" selected="1">Vi-S---2--A-I--</tag>
 </m>
 <m id="m-mf930702-099-p3s1w48">
 <src.rf>manual</src.rf>
@@ -2287,7 +2287,7 @@
 <LM>w#w-mf930702-099-p9s1w68</LM>
 </w.rf>
 <form>uvádějí</form>
-<tag lemma="uvádět_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="uvádět" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930702-099-p9s1w69">
 <src.rf>manual</src.rf>

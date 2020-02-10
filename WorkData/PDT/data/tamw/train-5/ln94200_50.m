@@ -120,7 +120,7 @@
 <LM>w#w-ln94200-50-p2s1Bw8</LM>
 </w.rf>
 <form>provádějí</form>
-<tag lemma="provádět_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="provádět" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94200-50-p2s1Bw9">
 <src.rf>manual</src.rf>

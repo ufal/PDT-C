@@ -126,8 +126,8 @@
 </w.rf>
 <form>přispět</form>
 <tag>
-<AM lemma="přispět" src="orig">Vf--------A----</AM>
-<AM lemma="přispět_:W" src="manual" selected="1">Vf--------A----</AM>
+<AM lemma="přispět" src="orig">Vf--------A-P--</AM>
+<AM lemma="přispět" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m-vesm9211-018-p2s1w9">

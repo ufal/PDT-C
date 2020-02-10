@@ -287,7 +287,7 @@
 <LM>w#w-ln94203-72-p2s2w11</LM>
 </w.rf>
 <form>být</form>
-<tag lemma="být" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="být" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94203-72-p2s2w12">
 <src.rf>manual</src.rf>
@@ -515,7 +515,7 @@
 <LM>w#w-ln94203-72-p2s4w10</LM>
 </w.rf>
 <form>dostat</form>
-<tag lemma="dostat" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="dostat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94203-72-p2s4w11">
 <src.rf>manual</src.rf>
@@ -613,7 +613,7 @@
 <LM>w#w-ln94203-72-p2s5w7</LM>
 </w.rf>
 <form>stěžují</form>
-<tag lemma="stěžovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="stěžovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94203-72-p2s5w8">
 <src.rf>manual</src.rf>

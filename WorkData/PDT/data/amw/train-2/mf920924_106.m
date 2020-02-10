@@ -27,7 +27,7 @@
 <LM>w#w-mf920924-106-p1s1w2</LM>
 </w.rf>
 <form>rostou</form>
-<tag lemma="růst-2" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="růst-2" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920924-106-p1s1w3">
 <src.rf>manual</src.rf>
@@ -267,7 +267,7 @@
 <LM>w#w-mf920924-106-p2s1w26</LM>
 </w.rf>
 <form>rostou</form>
-<tag lemma="růst-2" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="růst-2" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920924-106-p2s1w27">
 <src.rf>manual</src.rf>

@@ -435,7 +435,7 @@
 <LM>w#w-ln94202-42-p1s3w2</LM>
 </w.rf>
 <form>zachycuje</form>
-<tag lemma="zachycovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zachycovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94202-42-p1s3w3">
 <src.rf>manual</src.rf>
@@ -546,7 +546,7 @@
 <LM>w#w-ln94202-42-p1s3w15</LM>
 </w.rf>
 <form>plánuje</form>
-<tag lemma="plánovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="plánovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94202-42-p1s3w16">
 <src.rf>manual</src.rf>
@@ -591,8 +591,8 @@
 <tag>
 <AM lemma="kul-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="kout_^(např._železo)" src="auto" recommended="1">VpYS---XR-AA---</AM>
-<AM lemma="kulit_:T" src="auto">Vi-S---2--A----</AM>
-<AM lemma="kulit_:T" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="kulit" src="auto">Vi-S---2--A-I--</AM>
+<AM lemma="kulit" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="kul-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

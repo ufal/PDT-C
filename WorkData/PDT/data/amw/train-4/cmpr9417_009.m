@@ -95,7 +95,7 @@
 <LM>w#w-cmpr9417-009-p7s1w4</LM>
 </w.rf>
 <form>jsem</form>
-<tag lemma="být" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-cmpr9417-009-p7s1w5">
 <src.rf>manual</src.rf>
@@ -114,7 +114,7 @@
 <LM>w#w-cmpr9417-009-p7s1w6</LM>
 </w.rf>
 <form>podnikat</form>
-<tag lemma="podnikat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="podnikat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-cmpr9417-009-p7s1w7">
 <src.rf>manual</src.rf>
@@ -212,7 +212,7 @@
 <LM>w#w-cmpr9417-009-p7s2w7</LM>
 </w.rf>
 <form>jsem</form>
-<tag lemma="být" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-cmpr9417-009-p7s2w8">
 <src.rf>manual</src.rf>
@@ -318,7 +318,7 @@
 <LM>w#w-cmpr9417-009-p7s3w5</LM>
 </w.rf>
 <form>jsem</form>
-<tag lemma="být" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-cmpr9417-009-p7s3w6">
 <src.rf>manual</src.rf>
@@ -393,7 +393,7 @@
 <LM>w#w-cmpr9417-009-p7s3w13</LM>
 </w.rf>
 <form>uznává</form>
-<tag lemma="uznávat_:T_^(*4at)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="uznávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9417-009-p7s3w14">
 <src.rf>manual</src.rf>
@@ -534,7 +534,7 @@
 <LM>w#w-cmpr9417-009-p7s4w11</LM>
 </w.rf>
 <form>jsem</form>
-<tag lemma="být" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-cmpr9417-009-p7s4w12">
 <src.rf>manual</src.rf>
@@ -600,7 +600,7 @@
 <LM>w#w-cmpr9417-009-p7s5w1</LM>
 </w.rf>
 <form>Domnívám</form>
-<tag lemma="domnívat_:T" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="domnívat" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-cmpr9417-009-p7s5w2">
 <src.rf>manual</src.rf>
@@ -720,7 +720,7 @@
 <LM>w#w-cmpr9417-009-p7s5w16</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9417-009-p7s5w17">
 <src.rf>manual</src.rf>
@@ -770,7 +770,7 @@
 <LM>w#w-cmpr9417-009-p7s6w3</LM>
 </w.rf>
 <form>jsem</form>
-<tag lemma="být" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-cmpr9417-009-p7s6w4">
 <src.rf>manual</src.rf>
@@ -826,7 +826,7 @@
 <LM>w#w-cmpr9417-009-p7s6w10</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9417-009-p7s6w11">
 <src.rf>manual</src.rf>
@@ -882,7 +882,7 @@
 <LM>w#w-cmpr9417-009-p7s6w17</LM>
 </w.rf>
 <form>jsem</form>
-<tag lemma="být" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-cmpr9417-009-p7s6w18">
 <src.rf>manual</src.rf>
@@ -1014,7 +1014,7 @@
 <LM>w#w-cmpr9417-009-p9s1w10</LM>
 </w.rf>
 <form>nemáte</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---2P-NA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-P---2P-NAI--</tag>
 </m>
 <m id="m-cmpr9417-009-p9s1w11">
 <src.rf>manual</src.rf>
@@ -1064,7 +1064,7 @@
 <LM>w#w-cmpr9417-009-p10s1w2</LM>
 </w.rf>
 <form>jste</form>
-<tag lemma="být" src="orig" selected="1">VB-P---2P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m-cmpr9417-009-p10s1w3">
 <src.rf>manual</src.rf>
@@ -1329,7 +1329,7 @@
 <LM>w#w-cmpr9417-009-p10s1w34</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9417-009-p10s1w35">
 <src.rf>manual</src.rf>
@@ -1377,7 +1377,7 @@
 <LM>w#w-cmpr9417-009-p10s1w40</LM>
 </w.rf>
 <form>jste</form>
-<tag lemma="být" src="orig" selected="1">VB-P---2P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m-cmpr9417-009-p10s1w41">
 <src.rf>manual</src.rf>

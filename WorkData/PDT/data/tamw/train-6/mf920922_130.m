@@ -564,7 +564,7 @@
 <tag>
 <AM lemma="tábor" src="orig">NNIS6-----A----</AM>
 <AM lemma="tábor-1" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
-<AM lemma="tábořit_:T" src="auto">VeYS------A----</AM>
+<AM lemma="tábořit" src="auto">VeYS------A-I--</AM>
 </tag>
 </m>
 <m id="m-mf920922-130-p2s3w15">
@@ -671,7 +671,7 @@
 <LM>w#w-mf920922-130-p2s4w3</LM>
 </w.rf>
 <form>jsem</form>
-<tag lemma="být" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-mf920922-130-p2s4w4">
 <src.rf>manual</src.rf>
@@ -849,7 +849,7 @@
 <LM>w#w-mf920922-130-p2s5w4</LM>
 </w.rf>
 <form>vyzývají</form>
-<tag lemma="vyzývat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="vyzývat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920922-130-p2s5w5">
 <src.rf>manual</src.rf>
@@ -1138,7 +1138,7 @@
 <LM>w#w-mf920922-130-p2s7w6</LM>
 </w.rf>
 <form>vzdát</form>
-<tag lemma="vzdát" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vzdát" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920922-130-p2s7w7">
 <src.rf>manual</src.rf>

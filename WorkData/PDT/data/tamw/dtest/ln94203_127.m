@@ -159,7 +159,7 @@
 <LM>w#w-ln94203-127-p2s1Bw12</LM>
 </w.rf>
 <form>budou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3F-AAI--</tag>
 </m>
 <m id="m-ln94203-127-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -175,7 +175,7 @@
 <LM>w#w-ln94203-127-p2s1Bw14</LM>
 </w.rf>
 <form>jednat</form>
-<tag lemma="jednat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="jednat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94203-127-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -454,7 +454,7 @@
 <LM>w#w-ln94203-127-p2s3w10</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94203-127-p2s3w11">
 <src.rf>manual</src.rf>
@@ -914,7 +914,7 @@
 <LM>w#w-ln94203-127-p3s2w4</LM>
 </w.rf>
 <form>odpolitizovat</form>
-<tag lemma="odpolitizovat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="odpolitizovat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94203-127-p3s2w5">
 <src.rf>manual</src.rf>

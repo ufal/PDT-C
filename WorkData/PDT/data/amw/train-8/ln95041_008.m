@@ -86,7 +86,7 @@
 <LM>w#w-ln95041-008-p1s1w9</LM>
 </w.rf>
 <form>podílí</form>
-<tag lemma="podílet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="podílet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95041-008-p1s1w10">
 <src.rf>manual</src.rf>

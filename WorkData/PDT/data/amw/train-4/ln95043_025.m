@@ -887,7 +887,7 @@
 <LM>w#w-ln95043-025-p2s4w21</LM>
 </w.rf>
 <form>znamená</form>
-<tag lemma="znamenat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="znamenat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95043-025-p2s4w22">
 <src.rf>manual</src.rf>
@@ -1067,7 +1067,7 @@
 <LM>w#w-ln95043-025-p2s5Bw5</LM>
 </w.rf>
 <form>lepí</form>
-<tag lemma="lepit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="lepit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95043-025-p2s5Bw6">
 <src.rf>manual</src.rf>
@@ -1227,7 +1227,7 @@
 <LM>w#w-ln95043-025-p2s5Bw25</LM>
 </w.rf>
 <form>uniká</form>
-<tag lemma="unikat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="unikat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95043-025-p2s5Bw26">
 <src.rf>manual</src.rf>

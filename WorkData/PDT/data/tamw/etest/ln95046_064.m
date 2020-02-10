@@ -468,7 +468,7 @@
 <LM>w#w-ln95046-064-p2s2w25</LM>
 </w.rf>
 <form>kontroluje</form>
-<tag lemma="kontrolovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="kontrolovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95046-064-p2s2w26">
 <src.rf>manual</src.rf>

@@ -187,7 +187,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>vyjadřují</form>
-<tag lemma="vyjadřovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="vyjadřovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92255-077-p1s1w19">
 <src.rf>manual</src.rf>

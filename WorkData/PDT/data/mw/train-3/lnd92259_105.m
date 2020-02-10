@@ -45,7 +45,7 @@
 <LM>w#w-lnd92259-105-p2s1w2</LM>
 </w.rf>
 <form>platí</form>
-<tag lemma="platit_:T" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="platit" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 </s>
 <s id="m-lnd92259-105-p3s1">
@@ -97,7 +97,7 @@
 <LM>w#w-lnd92259-105-p3s2w2</LM>
 </w.rf>
 <form>stáhne</form>
-<tag lemma="stáhnout" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="stáhnout" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd92259-105-p3s2w3">
 <src.rf>manual</src.rf>
@@ -169,7 +169,7 @@
 <LM>w#w-lnd92259-105-p3s2w11</LM>
 </w.rf>
 <form>dodrží</form>
-<tag lemma="dodržet" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="dodržet" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd92259-105-p3s2w12">
 <src.rf>manual</src.rf>
@@ -464,7 +464,7 @@
 <LM>w#w-lnd92259-105-p3s4w19</LM>
 </w.rf>
 <form>nemá</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-lnd92259-105-p3s4w20">
 <src.rf>manual</src.rf>

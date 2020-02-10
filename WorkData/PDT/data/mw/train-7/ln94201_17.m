@@ -51,7 +51,7 @@
 <LM>w#w-ln94201-17-p1s1w5</LM>
 </w.rf>
 <form>prožít</form>
-<tag lemma="prožít" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="prožít" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94201-17-p1s1w6">
 <src.rf>manual</src.rf>

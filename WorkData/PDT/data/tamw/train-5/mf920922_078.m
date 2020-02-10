@@ -37,7 +37,7 @@
 <LM>w#w-mf920922-078-p2s1w2</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920922-078-p2s1w3">
 <src.rf>manual</src.rf>

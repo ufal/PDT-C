@@ -804,7 +804,7 @@
 <LM>w#w-lnd92254-091-p2s5w14</LM>
 </w.rf>
 <form>předčí</form>
-<tag lemma="předčit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="předčit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd92254-091-p2s5w15">
 <src.rf>manual</src.rf>
@@ -1075,7 +1075,7 @@
 <LM>w#w-lnd92254-091-p2s6w32</LM>
 </w.rf>
 <form>oplatí</form>
-<tag lemma="oplatit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="oplatit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd92254-091-p2s6w33">
 <src.rf>manual</src.rf>

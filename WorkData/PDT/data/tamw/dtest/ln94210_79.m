@@ -260,8 +260,8 @@
 </w.rf>
 <form>nechtějí</form>
 <tag>
-<AM lemma="chtít" src="orig">VB-P---3P-NA---</AM>
-<AM lemma="chtít_:T" src="manual" selected="1">VB-P---3P-NA---</AM>
+<AM lemma="chtít" src="orig">VB-P---3P-NAI--</AM>
+<AM lemma="chtít" src="manual" selected="1">VB-P---3P-NAI--</AM>
 </tag>
 </m>
 <m id="m-ln94210-79-p2s2w5">
@@ -286,7 +286,7 @@
 <LM>w#w-ln94210-79-p2s2w7</LM>
 </w.rf>
 <form>zveřejnit</form>
-<tag lemma="zveřejnit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zveřejnit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94210-79-p2s2w8">
 <src.rf>manual</src.rf>
@@ -304,7 +304,7 @@
 <LM>w#w-ln94210-79-p2s3w1</LM>
 </w.rf>
 <form>označují</form>
-<tag lemma="označovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="označovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94210-79-p2s3w2">
 <src.rf>manual</src.rf>
@@ -370,7 +370,7 @@
 <LM>w#w-ln94210-79-p2s4w3</LM>
 </w.rf>
 <form>žádá</form>
-<tag lemma="žádat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="žádat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94210-79-p2s4w4">
 <src.rf>manual</src.rf>

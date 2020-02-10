@@ -204,7 +204,7 @@
 <LM>w#w-ln94205-121-p9s1w2</LM>
 </w.rf>
 <form>jste</form>
-<tag lemma="být" src="orig" selected="1">VB-P---2P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m-ln94205-121-p9s1w3">
 <src.rf>manual</src.rf>

@@ -386,7 +386,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>vracejí</form>
-<tag lemma="vracet_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="vracet" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920902-109-p1s2w13">
 <src.rf>manual</src.rf>
@@ -492,7 +492,7 @@
 <LM>w#w-mf920902-109-p1s3w4</LM>
 </w.rf>
 <form>hodlají</form>
-<tag lemma="hodlat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="hodlat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920902-109-p1s3w5">
 <src.rf>manual</src.rf>
@@ -500,7 +500,7 @@
 <LM>w#w-mf920902-109-p1s3w5</LM>
 </w.rf>
 <form>iniciovat</form>
-<tag lemma="iniciovat_:T_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="iniciovat" src="orig" selected="1">Vf--------A-B--</tag>
 </m>
 <m id="m-mf920902-109-p1s3w6">
 <src.rf>manual</src.rf>
@@ -606,7 +606,7 @@
 <LM>w#w-mf920902-109-p1s4w3</LM>
 </w.rf>
 <form>nepovažujeme</form>
-<tag lemma="považovat_:T" src="orig" selected="1">VB-P---1P-NA---</tag>
+<tag lemma="považovat" src="orig" selected="1">VB-P---1P-NAI--</tag>
 </m>
 <m id="m-mf920902-109-p1s4w4">
 <src.rf>manual</src.rf>
@@ -686,7 +686,7 @@
 <LM>w#w-mf920902-109-p1s4w13</LM>
 </w.rf>
 <form>vítáme</form>
-<tag lemma="vítat_:T" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="vítat" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-mf920902-109-p1s4w14">
 <src.rf>manual</src.rf>

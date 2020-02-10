@@ -101,7 +101,7 @@
 <LM>w#w-mf920925-049-p2s1w8</LM>
 </w.rf>
 <form>jsem</form>
-<tag lemma="být" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-mf920925-049-p2s1w9">
 <src.rf>manual</src.rf>
@@ -143,7 +143,7 @@
 <LM>w#w-mf920925-049-p2s2w2</LM>
 </w.rf>
 <form>jsem</form>
-<tag lemma="být" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-mf920925-049-p2s2w3">
 <src.rf>manual</src.rf>
@@ -249,7 +249,7 @@
 <LM>w#w-mf920925-049-p2s3w10</LM>
 </w.rf>
 <form>lapat</form>
-<tag lemma="lapat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="lapat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf920925-049-p2s3w11">
 <src.rf>manual</src.rf>
@@ -721,7 +721,7 @@
 <LM>w#w-mf920925-049-p2s6w3</LM>
 </w.rf>
 <form>být</form>
-<tag lemma="být" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="být" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf920925-049-p2s6w4">
 <src.rf>manual</src.rf>

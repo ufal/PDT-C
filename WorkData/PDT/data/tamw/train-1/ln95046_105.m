@@ -185,7 +185,7 @@
 <LM>w#w-ln95046-105-p2s1Bw13</LM>
 </w.rf>
 <form>připadá</form>
-<tag lemma="připadat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="připadat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95046-105-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -512,7 +512,7 @@
 <LM>w#w-ln95046-105-p2s3w6</LM>
 </w.rf>
 <form>oslaví</form>
-<tag lemma="oslavit_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="oslavit" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-ln95046-105-p2s3w7">
 <src.rf>manual</src.rf>
@@ -650,7 +650,7 @@
 <LM>w#w-ln95046-105-p2s4w9</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95046-105-p2s4w10">
 <src.rf>manual</src.rf>

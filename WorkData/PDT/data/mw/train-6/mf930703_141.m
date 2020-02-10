@@ -722,7 +722,7 @@
 <LM>w#w-mf930703-141-p1s4w12</LM>
 </w.rf>
 <form>zablokovat</form>
-<tag lemma="zablokovat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zablokovat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930703-141-p1s4w13">
 <src.rf>manual</src.rf>

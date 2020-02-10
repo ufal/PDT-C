@@ -86,7 +86,7 @@
 <LM>w#w-lnd92255-122-p1s1w9</LM>
 </w.rf>
 <form>nerozhodují</form>
-<tag lemma="rozhodovat_:T" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="rozhodovat" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 <m id="m-lnd92255-122-p1s1w10">
 <src.rf>manual</src.rf>

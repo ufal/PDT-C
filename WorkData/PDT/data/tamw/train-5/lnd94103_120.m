@@ -112,7 +112,7 @@
 <LM>w#w-lnd94103-120-p1s2w8</LM>
 </w.rf>
 <form>hrát</form>
-<tag lemma="hrát" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="hrát" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd94103-120-p1s2w9">
 <src.rf>manual</src.rf>
@@ -184,7 +184,7 @@
 <LM>w#w-lnd94103-120-p1s2w17</LM>
 </w.rf>
 <form>jsme</form>
-<tag lemma="být" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-lnd94103-120-p1s2w18">
 <src.rf>manual</src.rf>
@@ -386,7 +386,7 @@
 <LM>w#w-lnd94103-120-p1s3w4</LM>
 </w.rf>
 <form>musí</form>
-<tag lemma="muset" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="muset" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94103-120-p1s3w5">
 <src.rf>manual</src.rf>
@@ -394,7 +394,7 @@
 <LM>w#w-lnd94103-120-p1s3w5</LM>
 </w.rf>
 <form>strachovat</form>
-<tag lemma="strachovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="strachovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd94103-120-p1s3w6">
 <src.rf>manual</src.rf>
@@ -500,7 +500,7 @@
 <LM>w#w-lnd94103-120-p1s4w3</LM>
 </w.rf>
 <form>zdolají</form>
-<tag lemma="zdolat_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="zdolat" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-lnd94103-120-p1s4w4">
 <src.rf>manual</src.rf>
@@ -573,7 +573,7 @@
 <LM>w#w-lnd94103-120-p1s4w12</LM>
 </w.rf>
 <form>postoupí</form>
-<tag lemma="postoupit_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="postoupit" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-lnd94103-120-p1s4w13">
 <src.rf>manual</src.rf>

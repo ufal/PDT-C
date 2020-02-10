@@ -51,7 +51,7 @@
 <LM>w#w-ln94202-28-p1s1Aw5</LM>
 </w.rf>
 <form>vítá</form>
-<tag lemma="vítat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vítat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94202-28-p1s1Aw6">
 <src.rf>manual</src.rf>

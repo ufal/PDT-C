@@ -186,7 +186,7 @@
 <LM>w#w-ln95041-064-p2s1Bw13</LM>
 </w.rf>
 <form>přijímá</form>
-<tag lemma="přijímat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="přijímat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95041-064-p2s1Bw14">
 <src.rf>manual</src.rf>

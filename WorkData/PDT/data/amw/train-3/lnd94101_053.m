@@ -319,7 +319,7 @@
 <LM>w#w-lnd94101-053-p1s4w6</LM>
 </w.rf>
 <form>uvádí</form>
-<tag lemma="uvádět_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="uvádět" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94101-053-p1s4w7">
 <src.rf>manual</src.rf>
@@ -356,7 +356,7 @@
 <form>stojí</form>
 <tag>
 <AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-lnd94101-053-p1s4w11">
@@ -489,7 +489,7 @@
 <LM>w#w-lnd94101-053-p1s4w26</LM>
 </w.rf>
 <form>podmiňuje</form>
-<tag lemma="podmiňovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="podmiňovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94101-053-p1s4w27">
 <src.rf>manual</src.rf>
@@ -575,7 +575,7 @@
 <LM>w#w-lnd94101-053-p1s5w2</LM>
 </w.rf>
 <form>vyzývají</form>
-<tag lemma="vyzývat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="vyzývat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd94101-053-p1s5w3">
 <src.rf>manual</src.rf>

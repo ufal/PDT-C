@@ -420,7 +420,7 @@
 <LM>w#w-ln94203-55-p3s1w22</LM>
 </w.rf>
 <form>uřízne</form>
-<tag lemma="uříznout_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="uříznout" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94203-55-p3s1w23">
 <src.rf>manual</src.rf>
@@ -494,7 +494,7 @@
 <LM>w#w-ln94203-55-p3s2w4</LM>
 </w.rf>
 <form>vypůjčit</form>
-<tag lemma="vypůjčit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vypůjčit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94203-55-p3s2w5">
 <src.rf>manual</src.rf>

@@ -124,7 +124,7 @@
 <LM>w#w-lnd92259-007-p2s2w5</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-lnd92259-007-p2s2w6">
 <src.rf>manual</src.rf>
@@ -188,7 +188,7 @@
 <LM>w#w-lnd92259-007-p2s2w13</LM>
 </w.rf>
 <form>být</form>
-<tag lemma="být" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="být" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd92259-007-p2s2w14">
 <src.rf>manual</src.rf>
@@ -222,7 +222,7 @@
 <LM>w#w-lnd92259-007-p2s3w1</LM>
 </w.rf>
 <form>Bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-lnd92259-007-p2s3w2">
 <src.rf>manual</src.rf>

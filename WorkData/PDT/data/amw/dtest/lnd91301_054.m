@@ -271,7 +271,7 @@
 <LM>w#w-lnd91301-054-p3s2w2</LM>
 </w.rf>
 <form>svolává</form>
-<tag lemma="svolávat_:T_^(*4at)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="svolávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd91301-054-p3s2w3">
 <src.rf>manual</src.rf>

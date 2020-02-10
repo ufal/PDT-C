@@ -624,7 +624,7 @@
 <LM>w#w-mf930708-115-p1s3w1</LM>
 </w.rf>
 <form>Dojednává</form>
-<tag lemma="dojednávat_:T_^(*4at)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="dojednávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-115-p1s3w2">
 <src.rf>manual</src.rf>

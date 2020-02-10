@@ -75,7 +75,7 @@
 <LM>w#w-lnd94103-082-p1s1w8</LM>
 </w.rf>
 <form>uskuteční</form>
-<tag lemma="uskutečnit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="uskutečnit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd94103-082-p1s1w9">
 <src.rf>manual</src.rf>
@@ -245,7 +245,7 @@
 <LM>w#w-lnd94103-082-p1s2w8</LM>
 </w.rf>
 <form>uvidí</form>
-<tag lemma="uvidět" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="uvidět" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd94103-082-p1s2w9">
 <src.rf>manual</src.rf>

@@ -96,8 +96,8 @@
 <tag>
 <AM lemma="mel-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mela" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="mlít" src="auto">Vi-S---2--A----</AM>
-<AM lemma="mlít" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="mlít" src="auto">Vi-S---2--A-I--</AM>
+<AM lemma="mlít" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="mel-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -269,7 +269,7 @@
 <LM>w#w-lnd94103-115-p1s3w19</LM>
 </w.rf>
 <form>překonat</form>
-<tag lemma="překonat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="překonat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd94103-115-p1s3w20">
 <src.rf>manual</src.rf>
@@ -481,7 +481,7 @@
 <LM>w#w-lnd94103-115-p1s4w2</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94103-115-p1s4w3">
 <src.rf>manual</src.rf>
@@ -561,7 +561,7 @@
 <LM>w#w-lnd94103-115-p1s4w12</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94103-115-p1s4w13">
 <src.rf>manual</src.rf>
@@ -667,7 +667,7 @@
 <LM>w#w-lnd94103-115-p1s5w7</LM>
 </w.rf>
 <form>dohrává</form>
-<tag lemma="dohrávat_:T_^(*3t)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="dohrávat_^(*3t)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94103-115-p1s5w8">
 <src.rf>manual</src.rf>
@@ -731,7 +731,7 @@
 <LM>w#w-lnd94103-115-p1s5w15</LM>
 </w.rf>
 <form>obléká</form>
-<tag lemma="oblékat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="oblékat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94103-115-p1s5w16">
 <src.rf>manual</src.rf>
@@ -771,7 +771,7 @@
 <LM>w#w-lnd94103-115-p1s5w20</LM>
 </w.rf>
 <form>věří</form>
-<tag lemma="věřit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="věřit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94103-115-p1s5w21">
 <src.rf>manual</src.rf>
@@ -837,7 +837,7 @@
 <LM>w#w-lnd94103-115-p1s6w2</LM>
 </w.rf>
 <form>Musím</form>
-<tag lemma="muset" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="muset" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-lnd94103-115-p1s6w3">
 <src.rf>manual</src.rf>
@@ -861,7 +861,7 @@
 <LM>w#w-lnd94103-115-p1s6w5</LM>
 </w.rf>
 <form>zavolat</form>
-<tag lemma="zavolat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zavolat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd94103-115-p1s6w6">
 <src.rf>manual</src.rf>

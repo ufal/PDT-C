@@ -733,7 +733,7 @@
 <LM>w#w-ln94200-19-p3s2w6</LM>
 </w.rf>
 <form>zpracovat</form>
-<tag lemma="zpracovat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zpracovat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94200-19-p3s2w7">
 <src.rf>manual</src.rf>

@@ -27,7 +27,7 @@
 <LM>w#w-ln95041-122-p1s1w2</LM>
 </w.rf>
 <form>tlačí</form>
-<tag lemma="tlačit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="tlačit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95041-122-p1s1w3">
 <src.rf>manual</src.rf>

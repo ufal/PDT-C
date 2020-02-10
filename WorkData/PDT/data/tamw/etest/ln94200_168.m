@@ -61,7 +61,7 @@
 <LM>w#w-ln94200-168-p2s1w3</LM>
 </w.rf>
 <form>potřebuješ</form>
-<tag lemma="potřebovat_:T" src="orig" selected="1">VB-S---2P-AA---</tag>
+<tag lemma="potřebovat" src="orig" selected="1">VB-S---2P-AAI--</tag>
 </m>
 <m id="m-ln94200-168-p2s1w4">
 <src.rf>manual</src.rf>
@@ -69,7 +69,7 @@
 <LM>w#w-ln94200-168-p2s1w4</LM>
 </w.rf>
 <form>zatelefonovat</form>
-<tag lemma="zatelefonovat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zatelefonovat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94200-168-p2s1w5">
 <src.rf>manual</src.rf>
@@ -109,7 +109,7 @@
 <LM>w#w-ln94200-168-p2s1w9</LM>
 </w.rf>
 <form>udělej</form>
-<tag lemma="udělat_:W" src="orig" selected="1">Vi-S---2--A----</tag>
+<tag lemma="udělat" src="orig" selected="1">Vi-S---2--A-P--</tag>
 </m>
 <m id="m-ln94200-168-p2s1w10">
 <src.rf>manual</src.rf>
@@ -141,7 +141,7 @@
 <LM>w#w-ln94200-168-p2s1w13</LM>
 </w.rf>
 <form>jsme</form>
-<tag lemma="být" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-ln94200-168-p2s1w14">
 <src.rf>manual</src.rf>

@@ -218,7 +218,7 @@
 <LM>w#w-lnd94101-009-p1s1Cw14</LM>
 </w.rf>
 <form>není</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-lnd94101-009-p1s1Cw15">
 <src.rf>manual</src.rf>
@@ -250,7 +250,7 @@
 <LM>w#w-lnd94101-009-p1s1Cw18</LM>
 </w.rf>
 <form>neoznačit</form>
-<tag lemma="označit_:W" src="orig" selected="1">Vf--------N----</tag>
+<tag lemma="označit" src="orig" selected="1">Vf--------N-P--</tag>
 </m>
 <m id="m-lnd94101-009-p1s1Cw19">
 <src.rf>manual</src.rf>

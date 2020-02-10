@@ -129,7 +129,7 @@
 <LM>w#w-mf930703-094-p1s2w4</LM>
 </w.rf>
 <form>budu</form>
-<tag lemma="být" src="orig" selected="1">VB-S---1F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---1F-AAI--</tag>
 </m>
 <m id="m-mf930703-094-p1s2w5">
 <src.rf>manual</src.rf>

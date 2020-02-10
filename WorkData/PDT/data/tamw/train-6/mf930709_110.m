@@ -251,7 +251,7 @@
 <LM>w#w-mf930709-110-p2s2w2</LM>
 </w.rf>
 <form>hledat</form>
-<tag lemma="hledat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="hledat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf930709-110-p2s2w3">
 <src.rf>manual</src.rf>

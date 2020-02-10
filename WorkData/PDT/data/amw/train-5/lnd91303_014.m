@@ -83,7 +83,7 @@
 <LM>w#w-lnd91303-014-p1s1w9</LM>
 </w.rf>
 <form>hlídá</form>
-<tag lemma="hlídat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="hlídat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd91303-014-p1s1w10">
 <src.rf>manual</src.rf>

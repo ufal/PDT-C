@@ -59,7 +59,7 @@
 <LM>w#w-lnd92258-129-p1s1w6</LM>
 </w.rf>
 <form>postupuje</form>
-<tag lemma="postupovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="postupovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92258-129-p1s1w7">
 <src.rf>manual</src.rf>
@@ -109,7 +109,7 @@
 <LM>w#w-lnd92258-129-p1s2w3</LM>
 </w.rf>
 <form>pronikne</form>
-<tag lemma="proniknout_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="proniknout" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd92258-129-p1s2w4">
 <src.rf>manual</src.rf>

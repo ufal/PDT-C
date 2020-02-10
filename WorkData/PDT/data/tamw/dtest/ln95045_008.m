@@ -177,7 +177,7 @@
 <LM>w#w-ln95045-008-p2s2w4</LM>
 </w.rf>
 <form>snaží</form>
-<tag lemma="snažit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="snažit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95045-008-p2s2w5">
 <src.rf>manual</src.rf>
@@ -185,7 +185,7 @@
 <LM>w#w-ln95045-008-p2s2w5</LM>
 </w.rf>
 <form>zmírnit</form>
-<tag lemma="zmírnit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zmírnit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95045-008-p2s2w6">
 <src.rf>manual</src.rf>
@@ -241,7 +241,7 @@
 <LM>w#w-ln95045-008-p2s2w12</LM>
 </w.rf>
 <form>posílit</form>
-<tag lemma="posílit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="posílit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95045-008-p2s2w13">
 <src.rf>manual</src.rf>
@@ -491,7 +491,7 @@
 <LM>w#w-ln95045-008-p3s2w6</LM>
 </w.rf>
 <form>postihne</form>
-<tag lemma="postihnout_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="postihnout" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95045-008-p3s2w7">
 <src.rf>manual</src.rf>

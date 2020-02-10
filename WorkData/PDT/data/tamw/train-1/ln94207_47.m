@@ -277,7 +277,7 @@
 <LM>w#w-ln94207-47-p2s1Bw26</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-ln94207-47-p2s1Bw27">
 <src.rf>manual</src.rf>
@@ -360,7 +360,7 @@
 <LM>w#w-ln94207-47-p2s1Bw36</LM>
 </w.rf>
 <form>obohatit</form>
-<tag lemma="obohatit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="obohatit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94207-47-p2s1Bw37">
 <src.rf>manual</src.rf>
@@ -426,7 +426,7 @@
 <LM>w#w-ln94207-47-p2s2w3</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-47-p2s2w4">
 <src.rf>manual</src.rf>

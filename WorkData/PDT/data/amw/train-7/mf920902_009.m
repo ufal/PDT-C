@@ -691,7 +691,7 @@
 <LM>w#w-mf920902-009-p1s4w15</LM>
 </w.rf>
 <form>uhasit</form>
-<tag lemma="uhasit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="uhasit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920902-009-p1s4w16">
 <src.rf>manual</src.rf>
@@ -725,7 +725,7 @@
 <LM>w#w-mf920902-009-p1s5Aw4</LM>
 </w.rf>
 <form>pršet</form>
-<tag lemma="pršet" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="pršet" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf920902-009-p1s5Aw13">
 <src.rf>manual</src.rf>
@@ -747,7 +747,7 @@
 <LM>w#w-mf920902-009-p1s5Aw6</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-mf920902-009-p1s5Aw7">
 <src.rf>manual</src.rf>

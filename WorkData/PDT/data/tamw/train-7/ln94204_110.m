@@ -491,7 +491,7 @@
 <LM>w#w-ln94204-110-p2s3w6</LM>
 </w.rf>
 <form>projedná</form>
-<tag lemma="projednat_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="projednat" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94204-110-p2s3w7">
 <src.rf>manual</src.rf>

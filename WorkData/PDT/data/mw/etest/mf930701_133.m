@@ -963,7 +963,7 @@
 <LM>w#w-mf930701-133-p2s6w12</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930701-133-p2s6w13">
 <src.rf>manual</src.rf>

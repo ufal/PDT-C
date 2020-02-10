@@ -867,7 +867,7 @@
 <LM>w#w-ln94204-45-p2s7w10</LM>
 </w.rf>
 <form>vyžádá</form>
-<tag lemma="vyžádat_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vyžádat" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94204-45-p2s7w11">
 <src.rf>manual</src.rf>
@@ -1101,7 +1101,7 @@
 <LM>w#w-ln94204-45-p2s8w23</LM>
 </w.rf>
 <form>nedokáže</form>
-<tag lemma="dokázat" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="dokázat" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-ln94204-45-p2s8w24">
 <src.rf>manual</src.rf>
@@ -1109,7 +1109,7 @@
 <LM>w#w-ln94204-45-p2s8w24</LM>
 </w.rf>
 <form>odhadnout</form>
-<tag lemma="odhadnout_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="odhadnout" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94204-45-p2s8w25">
 <src.rf>manual</src.rf>
@@ -1256,8 +1256,8 @@
 </w.rf>
 <form>začne</form>
 <tag>
-<AM lemma="začít-1_^(začnout)" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="začít-1_^(začnout)" src="auto">VB-S---3P-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual" selected="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94204-45-p2s9w18">
@@ -1332,7 +1332,7 @@
 <LM>w#w-ln94204-45-p2s10w4</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-ln94204-45-p2s10w5">
 <src.rf>manual</src.rf>

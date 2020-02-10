@@ -167,7 +167,7 @@
 <LM>w#w-mf920902-050-p2s2w15</LM>
 </w.rf>
 <form>uhasit</form>
-<tag lemma="uhasit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="uhasit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920902-050-p2s2w16">
 <src.rf>manual</src.rf>
@@ -193,7 +193,7 @@
 <LM>w#w-mf920902-050-p2s3w2</LM>
 </w.rf>
 <form>být</form>
-<tag lemma="být" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="být" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf920902-050-p2s3w3">
 <src.rf>manual</src.rf>

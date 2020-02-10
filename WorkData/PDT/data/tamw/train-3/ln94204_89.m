@@ -43,7 +43,7 @@
 <LM>w#w-ln94204-89-p1s1w4</LM>
 </w.rf>
 <form>patří</form>
-<tag lemma="patřit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="patřit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94204-89-p1s1w5">
 <src.rf>manual</src.rf>
@@ -165,7 +165,7 @@
 <LM>w#w-ln94204-89-p1s2w3</LM>
 </w.rf>
 <form>likvidují</form>
-<tag lemma="likvidovat_:T_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="likvidovat" src="orig" selected="1">VB-P---3P-AAB--</tag>
 </m>
 <m id="m-ln94204-89-p1s2w4">
 <src.rf>manual</src.rf>

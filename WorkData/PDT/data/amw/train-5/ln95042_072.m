@@ -35,7 +35,7 @@
 <LM>w#w-ln95042-072-p1s1w3</LM>
 </w.rf>
 <form>škodí</form>
-<tag lemma="škodit_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="škodit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 </s>
 </mdata>

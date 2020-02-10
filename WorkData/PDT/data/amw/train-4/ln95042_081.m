@@ -450,7 +450,7 @@
 <LM>w#w-ln95042-081-p2s3w8</LM>
 </w.rf>
 <form>postavit</form>
-<tag lemma="postavit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="postavit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95042-081-p2s3w9">
 <src.rf>manual</src.rf>
@@ -514,7 +514,7 @@
 <LM>w#w-ln95042-081-p2s3w16</LM>
 </w.rf>
 <form>utratit</form>
-<tag lemma="utratit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="utratit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95042-081-p2s3w17">
 <src.rf>manual</src.rf>

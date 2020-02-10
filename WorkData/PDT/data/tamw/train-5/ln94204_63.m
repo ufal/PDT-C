@@ -216,7 +216,7 @@
 <LM>w#w-ln94204-63-p2s1Bw12</LM>
 </w.rf>
 <form>spáchat</form>
-<tag lemma="spáchat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="spáchat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94204-63-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -362,7 +362,7 @@
 <LM>w#w-ln94204-63-p2s2w4</LM>
 </w.rf>
 <form>zabránit</form>
-<tag lemma="zabránit_:W_^(někomu_v_něčem)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zabránit_^(někomu_v_něčem)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94204-63-p2s2w5">
 <src.rf>manual</src.rf>
@@ -474,7 +474,7 @@
 <LM>w#w-ln94204-63-p2s2w18</LM>
 </w.rf>
 <form>přivolat</form>
-<tag lemma="přivolat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="přivolat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94204-63-p2s2w19">
 <src.rf>manual</src.rf>
@@ -668,7 +668,7 @@
 <LM>w#w-ln94204-63-p2s3w22</LM>
 </w.rf>
 <form>zachránit</form>
-<tag lemma="zachránit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zachránit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94204-63-p2s3w23">
 <src.rf>manual</src.rf>
@@ -938,7 +938,7 @@
 <LM>w#w-ln94204-63-p2s6w4</LM>
 </w.rf>
 <form>není</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln94204-63-p2s6w5">
 <src.rf>manual</src.rf>
@@ -970,7 +970,7 @@
 <LM>w#w-ln94204-63-p2s6w8</LM>
 </w.rf>
 <form>nebude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-NAI--</tag>
 </m>
 <m id="m-ln94204-63-p2s6w9">
 <src.rf>manual</src.rf>
@@ -986,7 +986,7 @@
 <LM>w#w-ln94204-63-p2s6w10</LM>
 </w.rf>
 <form>překážet</form>
-<tag lemma="překážet_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="překážet" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94204-63-p2s6w11">
 <src.rf>manual</src.rf>
@@ -1068,7 +1068,7 @@
 <LM>w#w-ln94204-63-p2s7w6</LM>
 </w.rf>
 <form>vyšetřuje</form>
-<tag lemma="vyšetřovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vyšetřovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94204-63-p2s7w7">
 <src.rf>manual</src.rf>

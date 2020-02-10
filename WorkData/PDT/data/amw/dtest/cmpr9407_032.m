@@ -99,7 +99,7 @@
 <LM>w#w-cmpr9407-032-p3s1Aw3</LM>
 </w.rf>
 <form>JSME</form>
-<tag lemma="být" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-cmpr9407-032-p3s1Aw4">
 <src.rf>manual</src.rf>
@@ -125,7 +125,7 @@
 <LM>w#w-cmpr9407-032-p3s1Bw1</LM>
 </w.rf>
 <form>Dohovoříme</form>
-<tag lemma="dohovořit_:W" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="dohovořit" src="orig" selected="1">VB-P---1P-AAP--</tag>
 </m>
 <m id="m-cmpr9407-032-p3s1Bw2">
 <src.rf>manual</src.rf>

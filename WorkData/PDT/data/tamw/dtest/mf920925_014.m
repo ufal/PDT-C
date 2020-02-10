@@ -121,7 +121,7 @@
 <LM>w#w-mf920925-014-p2s2w3</LM>
 </w.rf>
 <form>vykazuje</form>
-<tag lemma="vykazovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vykazovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-014-p2s2w4">
 <src.rf>manual</src.rf>
@@ -704,7 +704,7 @@
 <LM>w#w-mf920925-014-p3s2w10</LM>
 </w.rf>
 <form>klesá</form>
-<tag lemma="klesat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="klesat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-014-p3s2w11">
 <src.rf>manual</src.rf>

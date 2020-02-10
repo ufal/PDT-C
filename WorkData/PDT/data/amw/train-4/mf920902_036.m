@@ -94,7 +94,7 @@
 <LM>w#w-mf920902-036-p1s1w10</LM>
 </w.rf>
 <form>jsme</form>
-<tag lemma="být" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-mf920902-036-p1s1w11">
 <src.rf>manual</src.rf>
@@ -176,7 +176,7 @@
 <LM>w#w-mf920902-036-p1s2w1</LM>
 </w.rf>
 <form>Omlouváme</form>
-<tag lemma="omlouvat_:T" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="omlouvat" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-mf920902-036-p1s2w2">
 <src.rf>manual</src.rf>

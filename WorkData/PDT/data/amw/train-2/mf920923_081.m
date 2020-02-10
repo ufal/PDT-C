@@ -135,7 +135,7 @@
 <LM>w#w-mf920923-081-p1s1Cw7</LM>
 </w.rf>
 <form>pátrají</form>
-<tag lemma="pátrat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="pátrat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920923-081-p1s1Cw8">
 <src.rf>manual</src.rf>
@@ -563,7 +563,7 @@
 <LM>w#w-mf920923-081-p1s3w15</LM>
 </w.rf>
 <form>odcizit</form>
-<tag lemma="odcizit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="odcizit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920923-081-p1s3w16">
 <src.rf>manual</src.rf>
@@ -891,7 +891,7 @@
 <LM>w#w-mf920923-081-p1s5w12</LM>
 </w.rf>
 <form>nevylučují</form>
-<tag lemma="vylučovat_:T" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="vylučovat" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 <m id="m-mf920923-081-p1s5w13">
 <src.rf>manual</src.rf>
@@ -931,7 +931,7 @@
 <LM>w#w-mf920923-081-p1s5w17</LM>
 </w.rf>
 <form>žádají</form>
-<tag lemma="žádat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="žádat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920923-081-p1s5w18">
 <src.rf>manual</src.rf>

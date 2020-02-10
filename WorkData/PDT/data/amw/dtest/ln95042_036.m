@@ -119,7 +119,7 @@
 <LM>w#w-ln95042-036-p2s1Bw9</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-ln95042-036-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -263,7 +263,7 @@
 <LM>w#w-ln95042-036-p2s1Bw27</LM>
 </w.rf>
 <form>nezúčastní</form>
-<tag lemma="zúčastnit_:W" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="zúčastnit" src="orig" selected="1">VB-P---3P-NAP--</tag>
 </m>
 <m id="m-ln95042-036-p2s1Bw28">
 <src.rf>manual</src.rf>
@@ -355,7 +355,7 @@
 <LM>w#w-ln95042-036-p2s1Bw37</LM>
 </w.rf>
 <form>nepřijede</form>
-<tag lemma="přijet" src="auto" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="přijet" src="auto" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-ln95042-036-p2s1Bw38">
 <src.rf>manual</src.rf>
@@ -523,7 +523,7 @@
 <LM>w#w-ln95042-036-p2s2w6</LM>
 </w.rf>
 <form>nastoupí</form>
-<tag lemma="nastoupit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="nastoupit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95042-036-p2s2w7">
 <src.rf>manual</src.rf>

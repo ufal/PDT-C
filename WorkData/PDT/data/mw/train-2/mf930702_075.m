@@ -19,7 +19,7 @@
 <LM>w#w-mf930702-075-p1s1w1</LM>
 </w.rf>
 <form>Startuje</form>
-<tag lemma="startovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="startovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930702-075-p1s1w2">
 <src.rf>manual</src.rf>
@@ -149,7 +149,7 @@
 <LM>w#w-mf930702-075-p2s1w9</LM>
 </w.rf>
 <form>odstartuje</form>
-<tag lemma="odstartovat_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="odstartovat" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930702-075-p2s1w10">
 <src.rf>manual</src.rf>
@@ -393,7 +393,7 @@
 <form>du</form>
 <tag>
 <AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--X----------</AM>
-<AM lemma="jít" src="auto" recommended="1">VB-S---1P-AA--6</AM>
+<AM lemma="jít" src="auto" recommended="1">VB-S---1P-AAI-6</AM>
 <AM lemma="du_,t" src="auto">XX-------------</AM>
 <AM lemma="du-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -439,7 +439,7 @@
 <LM>w#w-mf930702-075-p2s4w11</LM>
 </w.rf>
 <form>čeká</form>
-<tag lemma="čekat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="čekat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930702-075-p2s4w12">
 <src.rf>manual</src.rf>
@@ -503,7 +503,7 @@
 <LM>w#w-mf930702-075-p2s4w19</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-mf930702-075-p2s4w20">
 <src.rf>manual</src.rf>

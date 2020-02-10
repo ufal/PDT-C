@@ -43,7 +43,7 @@
 <LM>w#w-lnd94103-027-p1s1w4</LM>
 </w.rf>
 <form>rozhodnou</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-lnd94103-027-p1s1w5">
 <src.rf>manual</src.rf>

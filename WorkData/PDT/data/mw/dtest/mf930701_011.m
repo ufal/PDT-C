@@ -67,7 +67,7 @@
 <LM>w#w-mf930701-011-p1s1w7</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930701-011-p1s1w8">
 <src.rf>manual</src.rf>
@@ -474,7 +474,7 @@
 <LM>w#w-mf930701-011-p3s1w18</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930701-011-p3s1w19">
 <src.rf>manual</src.rf>
@@ -566,7 +566,7 @@
 <LM>w#w-mf930701-011-p4s2w2</LM>
 </w.rf>
 <form>vyšetřuje</form>
-<tag lemma="vyšetřovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vyšetřovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930701-011-p4s2w3">
 <src.rf>manual</src.rf>

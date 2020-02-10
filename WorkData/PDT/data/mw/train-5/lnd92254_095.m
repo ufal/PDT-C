@@ -1220,7 +1220,7 @@
 <LM>w#w-lnd92254-095-p3s7w12</LM>
 </w.rf>
 <form>odpočívat</form>
-<tag lemma="odpočívat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="odpočívat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd92254-095-p3s7w13">
 <src.rf>manual</src.rf>

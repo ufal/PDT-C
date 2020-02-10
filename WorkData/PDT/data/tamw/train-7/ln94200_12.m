@@ -77,7 +77,7 @@
 <LM>w#w-ln94200-12-p2s1w2</LM>
 </w.rf>
 <form>uplyne</form>
-<tag lemma="uplynout" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="uplynout" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94200-12-p2s1w3">
 <src.rf>manual</src.rf>
@@ -337,7 +337,7 @@
 <LM>w#w-ln94200-12-p2s3w5</LM>
 </w.rf>
 <form>studovat</form>
-<tag lemma="studovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="studovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94200-12-p2s3w6">
 <src.rf>manual</src.rf>
@@ -625,7 +625,7 @@
 <LM>w#w-ln94200-12-p2s5w12</LM>
 </w.rf>
 <form>využít</form>
-<tag lemma="využít" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="využít" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94200-12-p2s5w13">
 <src.rf>manual</src.rf>

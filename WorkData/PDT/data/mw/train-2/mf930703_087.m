@@ -30,7 +30,7 @@
 <LM>w#w-mf930703-087-p1s1w2</LM>
 </w.rf>
 <form>prodává</form>
-<tag lemma="prodávat_:T_^(*4at)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="prodávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 </s>
 <s id="m-mf930703-087-p2s1">
@@ -80,7 +80,7 @@
 <LM>w#w-mf930703-087-p2s1w6</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930703-087-p2s1w7">
 <src.rf>manual</src.rf>
@@ -139,7 +139,7 @@
 <LM>w#w-mf930703-087-p2s1w13</LM>
 </w.rf>
 <form>prodat</form>
-<tag lemma="prodat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="prodat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930703-087-p2s1w14">
 <src.rf>manual</src.rf>
@@ -237,8 +237,8 @@
 </w.rf>
 <form>má</form>
 <tag>
-<AM lemma="mít" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="mít" src="orig">VB-S---3P-AAI--</AM>
+<AM lemma="mít" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-mf930703-087-p2s2w4">
@@ -491,7 +491,7 @@
 <LM>w#w-mf930703-087-p3s2w5</LM>
 </w.rf>
 <form>utkají</form>
-<tag lemma="utkat_:T_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="utkat" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-mf930703-087-p3s2w6">
 <src.rf>manual</src.rf>
@@ -993,7 +993,7 @@
 <LM>w#w-mf930703-087-p5s1w13</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-mf930703-087-p5s1w14">
 <src.rf>manual</src.rf>
@@ -1164,8 +1164,8 @@
 </w.rf>
 <form>sehrají</form>
 <tag>
-<AM lemma="sehrát" src="orig">VB-P---3P-AA--1</AM>
-<AM lemma="sehrát_:W" src="manual" selected="1">VB-P---3P-AA--1</AM>
+<AM lemma="sehrát" src="orig">VB-P---3P-AAP-1</AM>
+<AM lemma="sehrát" src="manual" selected="1">VB-P---3P-AAP-1</AM>
 </tag>
 </m>
 <m id="m-mf930703-087-p5s2w12">

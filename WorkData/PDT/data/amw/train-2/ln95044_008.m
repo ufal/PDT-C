@@ -35,7 +35,7 @@
 <LM>w#w-ln95044-008-p1s1w3</LM>
 </w.rf>
 <form>setká</form>
-<tag lemma="setkat_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="setkat" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95044-008-p1s1w4">
 <src.rf>manual</src.rf>
@@ -265,7 +265,7 @@
 <LM>w#w-ln95044-008-p2s2w6</LM>
 </w.rf>
 <form>organizuje</form>
-<tag lemma="organizovat_:T_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="organizovat" src="orig" selected="1">VB-S---3P-AAB--</tag>
 </m>
 <m id="m-ln95044-008-p2s2w7">
 <src.rf>manual</src.rf>
@@ -342,7 +342,7 @@
 <LM>w#w-ln95044-008-p2s2w14</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-ln95044-008-p2s2w15">
 <src.rf>manual</src.rf>
@@ -560,7 +560,7 @@
 <LM>w#w-ln95044-008-p3s1w12</LM>
 </w.rf>
 <form>zúčastní</form>
-<tag lemma="zúčastnit_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="zúčastnit" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-ln95044-008-p3s1w13">
 <src.rf>manual</src.rf>
@@ -658,7 +658,7 @@
 <LM>w#w-ln95044-008-p3s2w7</LM>
 </w.rf>
 <form>nevystoupí</form>
-<tag lemma="vystoupit_:W" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="vystoupit" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-ln95044-008-p3s2w8">
 <src.rf>manual</src.rf>
@@ -780,7 +780,7 @@
 <LM>w#w-ln95044-008-p4s1w3</LM>
 </w.rf>
 <form>činí</form>
-<tag lemma="činit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="činit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95044-008-p4s1w4">
 <src.rf>manual</src.rf>

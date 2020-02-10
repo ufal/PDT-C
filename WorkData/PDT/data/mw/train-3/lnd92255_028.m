@@ -859,7 +859,7 @@
 <LM>w#w-lnd92255-028-p2s5w3</LM>
 </w.rf>
 <form>činí</form>
-<tag lemma="činit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="činit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92255-028-p2s5w4">
 <src.rf>manual</src.rf>

@@ -51,7 +51,7 @@
 <LM>w#w-ln94207-80-p1s1w5</LM>
 </w.rf>
 <form>říkají</form>
-<tag lemma="říkat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="říkat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-80-p1s1w6">
 <src.rf>manual</src.rf>
@@ -158,7 +158,7 @@
 <LM>w#w-ln94207-80-p1s1w18</LM>
 </w.rf>
 <form>nevyznáme</form>
-<tag lemma="vyznat_:W" src="orig" selected="1">VB-P---1P-NA---</tag>
+<tag lemma="vyznat" src="orig" selected="1">VB-P---1P-NAP--</tag>
 </m>
 <m id="m-ln94207-80-p1s1w19">
 <src.rf>manual</src.rf>
@@ -311,7 +311,7 @@
 <LM>w#w-ln94207-80-p1s2w16</LM>
 </w.rf>
 <form>pokoušejí</form>
-<tag lemma="pokoušet_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="pokoušet" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-80-p1s2w17">
 <src.rf>manual</src.rf>
@@ -319,7 +319,7 @@
 <LM>w#w-ln94207-80-p1s2w17</LM>
 </w.rf>
 <form>porozumět</form>
-<tag lemma="porozumět_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="porozumět" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94207-80-p1s2w18">
 <src.rf>manual</src.rf>

@@ -43,7 +43,7 @@
 <LM>w#w-mf930703-113-p1s1w4</LM>
 </w.rf>
 <form>vrací</form>
-<tag lemma="vracet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vracet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930703-113-p1s1w5">
 <src.rf>manual</src.rf>
@@ -160,7 +160,7 @@
 <LM>w#w-mf930703-113-p2s1w12</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-mf930703-113-p2s1w13">
 <src.rf>manual</src.rf>
@@ -216,7 +216,7 @@
 <LM>w#w-mf930703-113-p2s1w19</LM>
 </w.rf>
 <form>vypravovat</form>
-<tag lemma="vypravovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vypravovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf930703-113-p2s1w20">
 <src.rf>manual</src.rf>
@@ -298,7 +298,7 @@
 <LM>w#w-mf930703-113-p2s2w6</LM>
 </w.rf>
 <form>pojede</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-mf930703-113-p2s2w7">
 <src.rf>manual</src.rf>
@@ -518,7 +518,7 @@
 <LM>w#w-mf930703-113-p2s4w6</LM>
 </w.rf>
 <form>přijde</form>
-<tag lemma="přijít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="přijít" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930703-113-p2s4w7">
 <src.rf>manual</src.rf>

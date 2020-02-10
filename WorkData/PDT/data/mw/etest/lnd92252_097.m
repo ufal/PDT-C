@@ -67,7 +67,7 @@
 <LM>w#w-lnd92252-097-p1s1w7</LM>
 </w.rf>
 <form>divit</form>
-<tag lemma="divit_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="divit" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 </s>
 <s id="m-lnd92252-097-p2s1">
@@ -439,7 +439,7 @@
 <LM>w#w-lnd92252-097-p3s2w4</LM>
 </w.rf>
 <form>dopracovat</form>
-<tag lemma="dopracovat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="dopracovat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92252-097-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1443,7 +1443,7 @@
 <LM>w#w-lnd92252-097-p8s1w7</LM>
 </w.rf>
 <form>využívat</form>
-<tag lemma="využívat_:T_^(*3t)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="využívat_^(*3t)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd92252-097-p8s1w8">
 <src.rf>manual</src.rf>

@@ -43,7 +43,7 @@
 <LM>w#w-mf930709-012-p1s1w4</LM>
 </w.rf>
 <form>utěšuje</form>
-<tag lemma="utěšovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="utěšovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930709-012-p1s1w5">
 <src.rf>manual</src.rf>
@@ -119,7 +119,7 @@
 <LM>w#w-mf930709-012-p1s1w13</LM>
 </w.rf>
 <form>navrátit</form>
-<tag lemma="navrátit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="navrátit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930709-012-p1s1w14">
 <src.rf>manual</src.rf>

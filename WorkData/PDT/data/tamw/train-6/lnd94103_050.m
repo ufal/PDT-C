@@ -38,7 +38,7 @@
 <LM>w#w-lnd94103-050-p1s1Aw3</LM>
 </w.rf>
 <form>oslavují</form>
-<tag lemma="oslavovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="oslavovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd94103-050-p1s1Aw4">
 <src.rf>manual</src.rf>

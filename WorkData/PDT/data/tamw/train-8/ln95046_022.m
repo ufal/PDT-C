@@ -391,7 +391,7 @@
 <LM>w#w-ln95046-022-p2s3w9</LM>
 </w.rf>
 <form>počkáme</form>
-<tag lemma="počkat_:W" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="počkat" src="orig" selected="1">VB-P---1P-AAP--</tag>
 </m>
 <m id="m-ln95046-022-p2s3w10">
 <src.rf>manual</src.rf>
@@ -463,7 +463,7 @@
 <LM>w#w-ln95046-022-p2s3w18</LM>
 </w.rf>
 <form>budeme</form>
-<tag lemma="být" src="orig" selected="1">VB-P---1F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---1F-AAI--</tag>
 </m>
 <m id="m-ln95046-022-p2s3w19">
 <src.rf>manual</src.rf>
@@ -471,7 +471,7 @@
 <LM>w#w-ln95046-022-p2s3w19</LM>
 </w.rf>
 <form>připravovat</form>
-<tag lemma="připravovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="připravovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95046-022-p2s3w20">
 <src.rf>manual</src.rf>
@@ -775,7 +775,7 @@
 <LM>w#w-ln95046-022-p2s4w29</LM>
 </w.rf>
 <form>jsme</form>
-<tag lemma="být" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-ln95046-022-p2s4w30">
 <src.rf>manual</src.rf>
@@ -871,7 +871,7 @@
 <LM>w#w-ln95046-022-p2s4w41</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-ln95046-022-p2s4w42">
 <src.rf>manual</src.rf>
@@ -985,7 +985,7 @@
 <LM>w#w-ln95046-022-p2s5w9</LM>
 </w.rf>
 <form>jsme</form>
-<tag lemma="být" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-ln95046-022-p2s5w10">
 <src.rf>manual</src.rf>
@@ -1057,7 +1057,7 @@
 <LM>w#w-ln95046-022-p2s5w18</LM>
 </w.rf>
 <form>beru</form>
-<tag lemma="brát" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="brát" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-ln95046-022-p2s5w19">
 <src.rf>manual</src.rf>
@@ -1139,7 +1139,7 @@
 <LM>w#w-ln95046-022-p2s6w6</LM>
 </w.rf>
 <form>jsme</form>
-<tag lemma="být" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-ln95046-022-p2s6w7">
 <src.rf>manual</src.rf>

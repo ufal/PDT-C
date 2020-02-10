@@ -383,7 +383,7 @@
 <LM>w#w-lnd92253-067-p1s4w4</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92253-067-p1s4w5">
 <src.rf>manual</src.rf>

@@ -43,7 +43,7 @@
 <LM>w#w-lnd92254-072-p1s1w4</LM>
 </w.rf>
 <form>působí</form>
-<tag lemma="působit_:T_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="působit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92254-072-p1s1w5">
 <src.rf>manual</src.rf>

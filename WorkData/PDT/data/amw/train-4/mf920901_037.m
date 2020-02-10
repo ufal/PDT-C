@@ -43,7 +43,7 @@
 <LM>w#w-mf920901-037-p1s1w4</LM>
 </w.rf>
 <form>mají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920901-037-p1s1w5">
 <src.rf>manual</src.rf>

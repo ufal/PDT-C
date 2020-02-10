@@ -660,7 +660,7 @@
 <LM>w#w-mf920922-117-p4s4w18</LM>
 </w.rf>
 <form>porušují</form>
-<tag lemma="porušovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="porušovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920922-117-p4s4w19">
 <src.rf>manual</src.rf>

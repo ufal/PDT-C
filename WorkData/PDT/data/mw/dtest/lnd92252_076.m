@@ -777,7 +777,7 @@
 <LM>w#w-lnd92252-076-p4s1w18</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92252-076-p4s1w19">
 <src.rf>manual</src.rf>

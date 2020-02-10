@@ -202,7 +202,7 @@
 <LM>w#w-mf920902-031-p2s2w17</LM>
 </w.rf>
 <form>projednává</form>
-<tag lemma="projednávat_:T_^(*4at)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="projednávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920902-031-p2s2w18">
 <src.rf>manual</src.rf>
@@ -340,7 +340,7 @@
 <LM>w#w-mf920902-031-p2s3w6</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920902-031-p2s3w7">
 <src.rf>manual</src.rf>
@@ -372,7 +372,7 @@
 <LM>w#w-mf920902-031-p2s3w10</LM>
 </w.rf>
 <form>jedná</form>
-<tag lemma="jednat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="jednat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920902-031-p2s3w11">
 <src.rf>manual</src.rf>
@@ -421,8 +421,8 @@
 </w.rf>
 <form>dojde</form>
 <tag>
-<AM lemma="dojít" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="dojít_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="dojít" src="orig">VB-S---3P-AAP--</AM>
+<AM lemma="dojít" src="manual" selected="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920902-031-p2s3w17">
@@ -482,7 +482,7 @@
 <LM>w#w-mf920902-031-p2s3w23</LM>
 </w.rf>
 <form>budu</form>
-<tag lemma="být" src="orig" selected="1">VB-S---1F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---1F-AAI--</tag>
 </m>
 <m id="m-mf920902-031-p2s3w24">
 <src.rf>manual</src.rf>
@@ -490,7 +490,7 @@
 <LM>w#w-mf920902-031-p2s3w24</LM>
 </w.rf>
 <form>jednat</form>
-<tag lemma="jednat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="jednat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf920902-031-p2s3w25">
 <src.rf>manual</src.rf>
@@ -674,7 +674,7 @@
 <LM>w#w-mf920902-031-p2s4w2</LM>
 </w.rf>
 <form>Počítáme</form>
-<tag lemma="počítat_:T" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="počítat" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-mf920902-031-p2s4w3">
 <src.rf>manual</src.rf>
@@ -731,8 +731,8 @@
 </w.rf>
 <form>dojde</form>
 <tag>
-<AM lemma="dojít" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="dojít_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="dojít" src="orig">VB-S---3P-AAP--</AM>
+<AM lemma="dojít" src="manual" selected="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920902-031-p2s4w10">
@@ -805,7 +805,7 @@
 <LM>w#w-mf920902-031-p2s4w18</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-mf920902-031-p2s4w19">
 <src.rf>manual</src.rf>

@@ -547,7 +547,7 @@
 <LM>w#w-ln95040-135-p3s4w9</LM>
 </w.rf>
 <form>odnést</form>
-<tag lemma="odnést" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="odnést" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95040-135-p3s4w10">
 <src.rf>manual</src.rf>
@@ -840,7 +840,7 @@
 <LM>w#w-ln95040-135-p3s5w19</LM>
 </w.rf>
 <form>zabije</form>
-<tag lemma="zabít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zabít" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95040-135-p3s5w20">
 <src.rf>manual</src.rf>
@@ -858,7 +858,7 @@
 <LM>w#w-ln95040-135-p3s6w1</LM>
 </w.rf>
 <form>Zasáhnout</form>
-<tag lemma="zasáhnout_:W" src="auto" selected="1">Vf--------A----</tag>
+<tag lemma="zasáhnout" src="auto" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95040-135-p3s6w2">
 <src.rf>manual</src.rf>

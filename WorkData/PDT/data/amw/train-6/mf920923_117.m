@@ -340,7 +340,7 @@
 <LM>w#w-mf920923-117-p4s2w29</LM>
 </w.rf>
 <form>svléci</form>
-<tag lemma="svléci" src="orig" selected="1">Vf--------A---1</tag>
+<tag lemma="svléci" src="orig" selected="1">Vf--------A-P-1</tag>
 </m>
 <m id="m-mf920923-117-p4s2w30">
 <src.rf>manual</src.rf>

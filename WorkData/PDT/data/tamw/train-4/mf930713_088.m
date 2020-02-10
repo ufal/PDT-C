@@ -340,7 +340,7 @@
 <LM>w#w-mf930713-088-p2s2w5</LM>
 </w.rf>
 <form>dokladuje</form>
-<tag lemma="dokladovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="dokladovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930713-088-p2s2w6">
 <src.rf>manual</src.rf>
@@ -412,7 +412,7 @@
 <LM>w#w-mf930713-088-p2s2w14</LM>
 </w.rf>
 <form>hradí</form>
-<tag lemma="hradit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="hradit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930713-088-p2s2w15">
 <src.rf>manual</src.rf>
@@ -664,7 +664,7 @@
 <LM>w#w-mf930713-088-p3s2w6</LM>
 </w.rf>
 <form>pobývá</form>
-<tag lemma="pobývat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="pobývat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930713-088-p3s2w7">
 <src.rf>manual</src.rf>

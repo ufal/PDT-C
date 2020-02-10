@@ -339,7 +339,7 @@
 <LM>w#w-lnd92252-018-p3s3w17</LM>
 </w.rf>
 <form>zabránit</form>
-<tag lemma="zabránit_:W_^(někomu_v_něčem)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zabránit_^(někomu_v_něčem)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92252-018-p3s3w18">
 <src.rf>manual</src.rf>

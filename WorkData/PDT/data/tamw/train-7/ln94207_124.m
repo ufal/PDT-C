@@ -373,7 +373,7 @@
 <LM>w#w-ln94207-124-p2s2w20</LM>
 </w.rf>
 <form>přiváží</form>
-<tag lemma="přivážet_:T_^(něco_někam_např._autem)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="přivážet_^(něco_někam_např._autem)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-124-p2s2w21">
 <src.rf>manual</src.rf>
@@ -921,7 +921,7 @@
 <LM>w#w-ln94207-124-p2s5w3</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-124-p2s5w4">
 <src.rf>manual</src.rf>

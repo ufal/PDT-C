@@ -19,7 +19,7 @@
 <LM>w#w-ln94210-93-p1s1Aw1</LM>
 </w.rf>
 <form>Sjednotit</form>
-<tag lemma="sjednotit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="sjednotit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94210-93-p1s1Aw2">
 <src.rf>manual</src.rf>
@@ -83,7 +83,7 @@
 <LM>w#w-ln94210-93-p1s1Aw9</LM>
 </w.rf>
 <form>nebude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-NAI--</tag>
 </m>
 <m id="m-ln94210-93-p1s1Aw10">
 <src.rf>manual</src.rf>

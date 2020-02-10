@@ -19,7 +19,7 @@
 <LM>w#w-ln95048-093-p1s1w1</LM>
 </w.rf>
 <form>přemluví</form>
-<tag lemma="přemluvit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="přemluvit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95048-093-p1s1w2">
 <src.rf>manual</src.rf>
@@ -374,7 +374,7 @@
 <LM>w#w-ln95048-093-p2s2w21</LM>
 </w.rf>
 <form>pokusí</form>
-<tag lemma="pokusit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="pokusit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95048-093-p2s2w22">
 <src.rf>manual</src.rf>
@@ -382,7 +382,7 @@
 <LM>w#w-ln95048-093-p2s2w22</LM>
 </w.rf>
 <form>přemluvit</form>
-<tag lemma="přemluvit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="přemluvit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95048-093-p2s2w23">
 <src.rf>manual</src.rf>

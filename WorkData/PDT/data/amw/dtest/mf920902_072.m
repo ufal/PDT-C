@@ -1036,7 +1036,7 @@
 <LM>w#w-mf920902-072-p2s6w6</LM>
 </w.rf>
 <form>rozhodnout</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920902-072-p2s6w7">
 <src.rf>manual</src.rf>

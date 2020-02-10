@@ -252,7 +252,7 @@
 <LM>w#w-ln95043-106-p2s1Bw24</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95043-106-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -400,7 +400,7 @@
 <LM>w#w-ln95043-106-p2s1Bw42</LM>
 </w.rf>
 <form>měřit</form>
-<tag lemma="měřit_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="měřit" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95043-106-p2s1Bw43">
 <src.rf>manual</src.rf>
@@ -445,7 +445,7 @@
 <LM>w#w-ln95043-106-p3s1w4</LM>
 </w.rf>
 <form>nezahrnuje</form>
-<tag lemma="zahrnovat_:T" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="zahrnovat" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln95043-106-p3s1w5">
 <src.rf>manual</src.rf>

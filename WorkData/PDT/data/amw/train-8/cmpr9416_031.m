@@ -147,7 +147,7 @@
 <LM>w#w-cmpr9416-031-p3s1w15</LM>
 </w.rf>
 <form>patří</form>
-<tag lemma="patřit_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="patřit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9416-031-p3s1w16">
 <src.rf>manual</src.rf>
@@ -237,7 +237,7 @@
 <LM>w#w-cmpr9416-031-p3s2w2</LM>
 </w.rf>
 <form>projevují</form>
-<tag lemma="projevovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="projevovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9416-031-p3s2w3">
 <src.rf>manual</src.rf>
@@ -375,7 +375,7 @@
 <LM>w#w-cmpr9416-031-p3s3w3</LM>
 </w.rf>
 <form>prosazuje</form>
-<tag lemma="prosazovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="prosazovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9416-031-p3s3w4">
 <src.rf>manual</src.rf>

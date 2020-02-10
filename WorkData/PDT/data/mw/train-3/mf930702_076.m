@@ -88,7 +88,7 @@
 <LM>w#w-mf930702-076-p1s2w6</LM>
 </w.rf>
 <form>vypisuje</form>
-<tag lemma="vypisovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vypisovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930702-076-p1s2w7">
 <src.rf>manual</src.rf>
@@ -345,7 +345,7 @@
 <LM>w#w-mf930702-076-p1s5w1</LM>
 </w.rf>
 <form>Uveďte</form>
-<tag lemma="uvést" src="orig" selected="1">Vi-P---2--A----</tag>
+<tag lemma="uvést" src="orig" selected="1">Vi-P---2--A-P--</tag>
 </m>
 <m id="m-mf930702-076-p1s5w2">
 <src.rf>manual</src.rf>
@@ -385,7 +385,7 @@
 <LM>w#w-mf930702-076-p1s5w6</LM>
 </w.rf>
 <form>přiložte</form>
-<tag lemma="přiložit_:W" src="orig" selected="1">Vi-P---2--A----</tag>
+<tag lemma="přiložit" src="orig" selected="1">Vi-P---2--A-P--</tag>
 </m>
 <m id="m-mf930702-076-p1s5w7">
 <src.rf>manual</src.rf>

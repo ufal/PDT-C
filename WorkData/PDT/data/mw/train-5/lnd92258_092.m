@@ -137,7 +137,7 @@
 <LM>w#w-lnd92258-092-p2s1w13</LM>
 </w.rf>
 <form>udělat</form>
-<tag lemma="udělat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="udělat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92258-092-p2s1w14">
 <src.rf>manual</src.rf>

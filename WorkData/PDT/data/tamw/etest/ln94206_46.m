@@ -285,7 +285,7 @@
 <LM>w#w-ln94206-46-p1s2w13</LM>
 </w.rf>
 <form>jsem</form>
-<tag lemma="být" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-ln94206-46-p1s2w14">
 <src.rf>manual</src.rf>

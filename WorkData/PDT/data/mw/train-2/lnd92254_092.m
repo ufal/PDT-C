@@ -279,7 +279,7 @@
 <LM>w#w-lnd92254-092-p2s1w29</LM>
 </w.rf>
 <form>zůstává</form>
-<tag lemma="zůstávat_:T_^(*4at)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zůstávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92254-092-p2s1w30">
 <src.rf>manual</src.rf>
@@ -593,8 +593,8 @@
 <tag>
 <AM lemma="mel-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mela" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="mlít" src="auto">Vi-S---2--A----</AM>
-<AM lemma="mlít" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="mlít" src="auto">Vi-S---2--A-I--</AM>
+<AM lemma="mlít" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="mel-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

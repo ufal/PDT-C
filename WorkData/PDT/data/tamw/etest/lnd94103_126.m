@@ -149,7 +149,7 @@
 <LM>w#w-lnd94103-126-p1s3Bw11</LM>
 </w.rf>
 <form>není</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-lnd94103-126-p1s3Bw12">
 <src.rf>manual</src.rf>
@@ -165,7 +165,7 @@
 <LM>w#w-lnd94103-126-p1s3Bw13</LM>
 </w.rf>
 <form>prohrát</form>
-<tag lemma="prohrát" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="prohrát" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd94103-126-p1s3Bw14">
 <src.rf>manual</src.rf>

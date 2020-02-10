@@ -19,7 +19,7 @@
 <LM>w#w-ln95040-010-p1s1w1</LM>
 </w.rf>
 <form>Zkuste</form>
-<tag lemma="zkusit" src="orig" selected="1">Vi-P---2--A----</tag>
+<tag lemma="zkusit" src="orig" selected="1">Vi-P---2--A-P--</tag>
 </m>
 <m id="m-ln95040-010-p1s1w2">
 <src.rf>manual</src.rf>
@@ -35,7 +35,7 @@
 <LM>w#w-ln95040-010-p1s1w3</LM>
 </w.rf>
 <form>vybrat</form>
-<tag lemma="vybrat" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vybrat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95040-010-p1s1w4">
 <src.rf>manual</src.rf>

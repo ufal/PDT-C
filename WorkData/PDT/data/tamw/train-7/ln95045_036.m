@@ -591,7 +591,7 @@
 <LM>w#w-ln95045-036-p3s2w8</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95045-036-p3s2w9">
 <src.rf>manual</src.rf>

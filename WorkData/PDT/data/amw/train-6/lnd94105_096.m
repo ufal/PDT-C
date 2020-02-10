@@ -324,7 +324,7 @@
 <LM>w#w-lnd94105-096-p1s4w4</LM>
 </w.rf>
 <form>vzdorovat</form>
-<tag lemma="vzdorovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vzdorovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd94105-096-p1s4w5">
 <src.rf>manual</src.rf>

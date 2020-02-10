@@ -67,7 +67,7 @@
 <LM>w#w-ln94202-105-p1s1Aw7</LM>
 </w.rf>
 <form>proráží</form>
-<tag lemma="prorážet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="prorážet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94202-105-p1s1Aw8">
 <src.rf>manual</src.rf>

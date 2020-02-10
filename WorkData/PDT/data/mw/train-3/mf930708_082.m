@@ -75,7 +75,7 @@
 <LM>w#w-mf930708-082-p1s1w8</LM>
 </w.rf>
 <form>patří</form>
-<tag lemma="patřit_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="patřit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-082-p1s1w9">
 <src.rf>manual</src.rf>
@@ -139,7 +139,7 @@
 <LM>w#w-mf930708-082-p1s1w16</LM>
 </w.rf>
 <form>říkají</form>
-<tag lemma="říkat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="říkat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-082-p1s1w17">
 <src.rf>manual</src.rf>

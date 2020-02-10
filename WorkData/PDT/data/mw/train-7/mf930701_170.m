@@ -51,7 +51,7 @@
 <LM>w#w-mf930701-170-p1s1w5</LM>
 </w.rf>
 <form>hrají</form>
-<tag lemma="hrát" src="orig" selected="1">VB-P---3P-AA--1</tag>
+<tag lemma="hrát" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-mf930701-170-p1s1w6">
 <src.rf>manual</src.rf>
@@ -155,7 +155,7 @@
 <LM>w#w-mf930701-170-p1s1w18</LM>
 </w.rf>
 <form>míjí</form>
-<tag lemma="míjet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="míjet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930701-170-p1s1w19">
 <src.rf>manual</src.rf>
@@ -232,7 +232,7 @@
 <LM>w#w-mf930701-170-p1s1w27</LM>
 </w.rf>
 <form>přesunuje</form>
-<tag lemma="přesunovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="přesunovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930701-170-p1s1w28">
 <src.rf>manual</src.rf>

@@ -861,7 +861,7 @@
 <LM>w#w-ln94208-24-p2s6w2</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-ln94208-24-p2s6w3">
 <src.rf>manual</src.rf>
@@ -928,7 +928,7 @@
 <LM>w#w-ln94208-24-p2s6w10</LM>
 </w.rf>
 <form>odcestovat</form>
-<tag lemma="odcestovat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="odcestovat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94208-24-p2s6w11">
 <src.rf>manual</src.rf>
@@ -980,7 +980,7 @@
 <LM>w#w-ln94208-24-p2s6w16</LM>
 </w.rf>
 <form>navštíví</form>
-<tag lemma="navštívit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="navštívit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94208-24-p2s6w17">
 <src.rf>manual</src.rf>
@@ -1063,7 +1063,7 @@
 <LM>w#w-ln94208-24-p2s7w2</LM>
 </w.rf>
 <form>jsme</form>
-<tag lemma="být" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-ln94208-24-p2s7w3">
 <src.rf>manual</src.rf>
@@ -1226,7 +1226,7 @@
 <LM>w#w-ln94208-24-p2s7w22</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94208-24-p2s7w23">
 <src.rf>manual</src.rf>
@@ -1594,7 +1594,7 @@
 <LM>w#w-ln94208-24-p2s10w1</LM>
 </w.rf>
 <form>Scházíme</form>
-<tag lemma="scházet_:T" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="scházet" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-ln94208-24-p2s10w2">
 <src.rf>manual</src.rf>
@@ -1650,7 +1650,7 @@
 <LM>w#w-ln94208-24-p2s10w8</LM>
 </w.rf>
 <form>tušíte</form>
-<tag lemma="tušit_:T" src="orig" selected="1">VB-P---2P-AA---</tag>
+<tag lemma="tušit" src="orig" selected="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m-ln94208-24-p2s10w9">
 <src.rf>manual</src.rf>
@@ -1667,8 +1667,8 @@
 </w.rf>
 <form>víte</form>
 <tag>
-<AM lemma="vědět" src="orig">VB-P---2P-AA---</AM>
-<AM lemma="vědět_:T" src="manual" selected="1">VB-P---2P-AA---</AM>
+<AM lemma="vědět" src="orig">VB-P---2P-AAI--</AM>
+<AM lemma="vědět" src="manual" selected="1">VB-P---2P-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln94208-24-p2s10w11">

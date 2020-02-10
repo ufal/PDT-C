@@ -338,7 +338,7 @@
 <LM>w#w-ln95047-082-p2s2w17</LM>
 </w.rf>
 <form>sídlí</form>
-<tag lemma="sídlit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="sídlit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95047-082-p2s2w18">
 <src.rf>manual</src.rf>
@@ -497,7 +497,7 @@
 <LM>w#w-ln95047-082-p2s3w14</LM>
 </w.rf>
 <form>zatlačit</form>
-<tag lemma="zatlačit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zatlačit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95047-082-p2s3w15">
 <src.rf>manual</src.rf>
@@ -737,7 +737,7 @@
 <LM>w#w-ln95047-082-p2s5w7</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95047-082-p2s5w8">
 <src.rf>manual</src.rf>

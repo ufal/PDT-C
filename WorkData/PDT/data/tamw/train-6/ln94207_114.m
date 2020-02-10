@@ -122,7 +122,7 @@
 <LM>w#w-ln94207-114-p2s2w5</LM>
 </w.rf>
 <form>bývá</form>
-<tag lemma="bývat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="bývat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-114-p2s2w6">
 <src.rf>manual</src.rf>
@@ -513,7 +513,7 @@
 <LM>w#w-ln94207-114-p2s3w11</LM>
 </w.rf>
 <form>ukazuje</form>
-<tag lemma="ukazovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="ukazovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-114-p2s3w12">
 <src.rf>manual</src.rf>
@@ -579,7 +579,7 @@
 <LM>w#w-ln94207-114-p2s4w6</LM>
 </w.rf>
 <form>pochází</form>
-<tag lemma="pocházet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="pocházet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-114-p2s4w7">
 <src.rf>manual</src.rf>
@@ -861,8 +861,8 @@
 </w.rf>
 <form>nezapřou</form>
 <tag>
-<AM lemma="zapřít" src="orig">VB-P---3P-NA---</AM>
-<AM lemma="zapřít_:W" src="manual" selected="1">VB-P---3P-NA---</AM>
+<AM lemma="zapřít" src="orig">VB-P---3P-NAP--</AM>
+<AM lemma="zapřít" src="manual" selected="1">VB-P---3P-NAP--</AM>
 </tag>
 </m>
 <m id="m-ln94207-114-p3s1w9">
@@ -1020,7 +1020,7 @@
 <LM>w#w-ln94207-114-p3s2w5</LM>
 </w.rf>
 <form>obestírá</form>
-<tag lemma="obestírat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="obestírat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-114-p3s2w6">
 <src.rf>manual</src.rf>
@@ -1265,7 +1265,7 @@
 <LM>w#w-ln94207-114-p3s3w5</LM>
 </w.rf>
 <form>rozprostírá</form>
-<tag lemma="rozprostírat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="rozprostírat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-114-p3s3w6">
 <src.rf>manual</src.rf>
@@ -1617,7 +1617,7 @@
 <LM>w#w-ln94207-114-p3s4w4</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-114-p3s4w5">
 <src.rf>manual</src.rf>
@@ -1842,7 +1842,7 @@
 <LM>w#w-ln94207-114-p3s5w5</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-114-p3s5w6">
 <src.rf>manual</src.rf>
@@ -1882,7 +1882,7 @@
 <LM>w#w-ln94207-114-p3s5w10</LM>
 </w.rf>
 <form>lze</form>
-<tag lemma="lze" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="lze" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-114-p3s5w11">
 <src.rf>manual</src.rf>
@@ -1906,7 +1906,7 @@
 <LM>w#w-ln94207-114-p3s5w13</LM>
 </w.rf>
 <form>docílit</form>
-<tag lemma="docílit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="docílit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94207-114-p3s5w14">
 <src.rf>manual</src.rf>

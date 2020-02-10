@@ -304,7 +304,7 @@
 <LM>w#w-ln94208-95-p2s2w7</LM>
 </w.rf>
 <form>mají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94208-95-p2s2w8">
 <src.rf>manual</src.rf>
@@ -693,7 +693,7 @@
 <LM>w#w-ln94208-95-p3s2w21</LM>
 </w.rf>
 <form>nepoběží</form>
-<tag lemma="běžet" src="orig" selected="1">VB-S---3F-NA---</tag>
+<tag lemma="běžet" src="orig" selected="1">VB-S---3F-NAI--</tag>
 </m>
 <m id="m-ln94208-95-p3s2w22">
 <src.rf>manual</src.rf>
@@ -1413,7 +1413,7 @@
 <LM>w#w-ln94208-95-p4s4w15</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94208-95-p4s4w16">
 <src.rf>manual</src.rf>

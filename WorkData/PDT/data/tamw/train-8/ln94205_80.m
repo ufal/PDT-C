@@ -54,7 +54,7 @@
 <LM>w#w-ln94205-80-p1s1w5</LM>
 </w.rf>
 <form>končí</form>
-<tag lemma="končit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="končit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 </s>
 <s id="m-ln94205-80-p2s1A">
@@ -327,7 +327,7 @@
 <LM>w#w-ln94205-80-p2s3w6</LM>
 </w.rf>
 <form>vysílat</form>
-<tag lemma="vysílat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vysílat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94205-80-p2s3w7">
 <src.rf>manual</src.rf>
@@ -558,7 +558,7 @@
 <LM>w#w-ln94205-80-p2s5w6</LM>
 </w.rf>
 <form>překoná</form>
-<tag lemma="překonat_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="překonat" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94205-80-p2s5w7">
 <src.rf>manual</src.rf>
@@ -598,7 +598,7 @@
 <LM>w#w-ln94205-80-p2s5w11</LM>
 </w.rf>
 <form>vyprofiluje</form>
-<tag lemma="vyprofilovat_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vyprofilovat" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94205-80-p2s5w12">
 <src.rf>manual</src.rf>

@@ -563,7 +563,7 @@
 <LM>w#w-mf930701-135-p4s1w8</LM>
 </w.rf>
 <form>uskuteční</form>
-<tag lemma="uskutečnit_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="uskutečnit" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-mf930701-135-p4s1w9">
 <src.rf>manual</src.rf>

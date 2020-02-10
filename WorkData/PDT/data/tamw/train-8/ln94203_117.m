@@ -338,7 +338,7 @@
 <LM>w#w-ln94203-117-p2s3w3</LM>
 </w.rf>
 <form>nemusí</form>
-<tag lemma="muset" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="muset" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln94203-117-p2s3w4">
 <src.rf>manual</src.rf>
@@ -386,7 +386,7 @@
 <LM>w#w-ln94203-117-p2s3w9</LM>
 </w.rf>
 <form>doplácet</form>
-<tag lemma="doplácet_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="doplácet" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94203-117-p2s3w10">
 <src.rf>manual</src.rf>
@@ -426,7 +426,7 @@
 <LM>w#w-ln94203-117-p2s3w14</LM>
 </w.rf>
 <form>prodá</form>
-<tag lemma="prodat_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="prodat" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94203-117-p2s3w15">
 <src.rf>manual</src.rf>
@@ -524,7 +524,7 @@
 <LM>w#w-ln94203-117-p2s4w8</LM>
 </w.rf>
 <form>být</form>
-<tag lemma="být" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="být" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94203-117-p2s4w9">
 <src.rf>manual</src.rf>

@@ -184,7 +184,7 @@
 <LM>w#w-ln94200-7-p2s1w18</LM>
 </w.rf>
 <form>dostává</form>
-<tag lemma="dostávat_:T_^(*4at)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="dostávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94200-7-p2s1w19">
 <src.rf>manual</src.rf>
@@ -365,7 +365,7 @@
 <LM>w#w-ln94200-7-p2s2w14</LM>
 </w.rf>
 <form>dominuje</form>
-<tag lemma="dominovat_:T_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="dominovat" src="orig" selected="1">VB-S---3P-AAB--</tag>
 </m>
 <m id="m-ln94200-7-p2s2w15">
 <src.rf>manual</src.rf>

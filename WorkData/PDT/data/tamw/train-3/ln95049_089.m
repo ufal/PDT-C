@@ -27,7 +27,7 @@
 <LM>w#w-ln95049-089-p1s1w2</LM>
 </w.rf>
 <form>dluží</form>
-<tag lemma="dlužit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="dlužit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95049-089-p1s1w3">
 <src.rf>manual</src.rf>

@@ -127,7 +127,7 @@
 <LM>w#w-ln95043-108-p2s1Bw6</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95043-108-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -402,7 +402,7 @@
 <LM>w#w-ln95043-108-p3s1w3</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95043-108-p3s1w4">
 <src.rf>manual</src.rf>
@@ -474,7 +474,7 @@
 <LM>w#w-ln95043-108-p3s1w12</LM>
 </w.rf>
 <form>vypočítává</form>
-<tag lemma="vypočítávat_:T_^(*4at)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vypočítávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95043-108-p3s1w13">
 <src.rf>manual</src.rf>
@@ -530,7 +530,7 @@
 <LM>w#w-ln95043-108-p3s1w19</LM>
 </w.rf>
 <form>znásobí</form>
-<tag lemma="znásobit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="znásobit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95043-108-p3s1w20">
 <src.rf>manual</src.rf>

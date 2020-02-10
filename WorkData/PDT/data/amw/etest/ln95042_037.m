@@ -143,7 +143,7 @@
 <LM>w#w-ln95042-037-p2s1Bw8</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-ln95042-037-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -305,7 +305,7 @@
 <LM>w#w-ln95042-037-p2s2w13</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-ln95042-037-p2s2w14">
 <src.rf>manual</src.rf>
@@ -405,7 +405,7 @@
 <LM>w#w-ln95042-037-p2s2w25</LM>
 </w.rf>
 <form>urazí</form>
-<tag lemma="urazit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="urazit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95042-037-p2s2w26">
 <src.rf>manual</src.rf>

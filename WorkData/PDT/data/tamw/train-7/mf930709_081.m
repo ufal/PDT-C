@@ -59,7 +59,7 @@
 <LM>w#w-mf930709-081-p1s1Aw6</LM>
 </w.rf>
 <form>hlídají</form>
-<tag lemma="hlídat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="hlídat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 </s>
 <s id="m-mf930709-081-p1s1B">

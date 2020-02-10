@@ -95,7 +95,7 @@
 <LM>w#w-ln95041-025-p2s1Bw5</LM>
 </w.rf>
 <form>chystají</form>
-<tag lemma="chystat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="chystat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95041-025-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -103,7 +103,7 @@
 <LM>w#w-ln95041-025-p2s1Bw6</LM>
 </w.rf>
 <form>bojkotovat</form>
-<tag lemma="bojkotovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="bojkotovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95041-025-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -260,7 +260,7 @@
 <LM>w#w-ln95041-025-p2s2w6</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95041-025-p2s2w7">
 <src.rf>manual</src.rf>

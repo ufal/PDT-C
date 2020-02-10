@@ -100,7 +100,7 @@
 <LM>w#w-lnd94103-108-p1s1w11</LM>
 </w.rf>
 <form>konat</form>
-<tag lemma="konat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="konat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd94103-108-p1s1w12">
 <src.rf>manual</src.rf>

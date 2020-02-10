@@ -75,7 +75,7 @@
 <LM>w#w-mf930709-129-p1s1w8</LM>
 </w.rf>
 <form>vysazuje</form>
-<tag lemma="vysazovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vysazovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930709-129-p1s1w9">
 <src.rf>manual</src.rf>
@@ -107,7 +107,7 @@
 <LM>w#w-mf930709-129-p1s1w12</LM>
 </w.rf>
 <form>vyčistí</form>
-<tag lemma="vyčistit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vyčistit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930709-129-p1s1w13">
 <src.rf>manual</src.rf>

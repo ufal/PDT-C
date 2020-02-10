@@ -297,7 +297,7 @@
 <LM>w#w-lnd91301-017-p3s2w7</LM>
 </w.rf>
 <form>zásobuje</form>
-<tag lemma="zásobovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zásobovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd91301-017-p3s2w8">
 <src.rf>manual</src.rf>

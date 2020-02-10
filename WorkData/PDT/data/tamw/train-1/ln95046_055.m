@@ -383,7 +383,7 @@
 <LM>w#w-ln95046-055-p1s2w15</LM>
 </w.rf>
 <form>nešustí</form>
-<tag lemma="šustit_:T" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="šustit" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln95046-055-p1s2w16">
 <src.rf>manual</src.rf>
@@ -431,7 +431,7 @@
 <LM>w#w-ln95046-055-p1s2w21</LM>
 </w.rf>
 <form>netoulají</form>
-<tag lemma="toulat_:T" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="toulat" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 <m id="m-ln95046-055-p1s2w22">
 <src.rf>manual</src.rf>
@@ -487,7 +487,7 @@
 <LM>w#w-ln95046-055-p1s2w28</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95046-055-p1s2w29">
 <src.rf>manual</src.rf>
@@ -604,7 +604,7 @@
 <LM>w#w-ln95046-055-p1s3w4</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95046-055-p1s3w5">
 <src.rf>manual</src.rf>

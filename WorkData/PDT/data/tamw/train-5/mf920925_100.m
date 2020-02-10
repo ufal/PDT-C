@@ -51,7 +51,7 @@
 <LM>w#w-mf920925-100-p1s1w5</LM>
 </w.rf>
 <form>odstoupit</form>
-<tag lemma="odstoupit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="odstoupit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 </s>
 <s id="m-mf920925-100-p2s1">
@@ -133,7 +133,7 @@
 <LM>w#w-mf920925-100-p3s1w5</LM>
 </w.rf>
 <form>odstoupit</form>
-<tag lemma="odstoupit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="odstoupit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 </s>
 <s id="m-mf920925-100-p4s1">
@@ -287,7 +287,7 @@
 <LM>w#w-mf920925-100-p4s2w16</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-100-p4s2w17">
 <src.rf>manual</src.rf>

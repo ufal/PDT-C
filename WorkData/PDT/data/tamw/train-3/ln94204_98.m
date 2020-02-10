@@ -161,7 +161,7 @@
 <LM>w#w-ln94204-98-p2s1w12</LM>
 </w.rf>
 <form>představí</form>
-<tag lemma="představit-1_:W_^(si_něco;_něco/někoho_někomu)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="představit-1_^(si_něco;_něco/někoho_někomu)" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94204-98-p2s1w13">
 <src.rf>manual</src.rf>
@@ -879,7 +879,7 @@
 <LM>w#w-ln94204-98-p3s3w4</LM>
 </w.rf>
 <form>vytvářet</form>
-<tag lemma="vytvářet_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vytvářet" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94204-98-p3s3w5">
 <src.rf>manual</src.rf>
@@ -1171,7 +1171,7 @@
 <AM lemma="nespočet" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
 <AM lemma="nespočet" src="auto">NNIS4-----A----</AM>
 <AM lemma="spočíst" src="auto">VpYS---XR-NA--6</AM>
-<AM lemma="spočíst_:W" src="auto">VmYS------N----</AM>
+<AM lemma="spočíst" src="auto">VmYS------N-P--</AM>
 </tag>
 </m>
 <m id="m-ln94204-98-p4s1w25">
@@ -1279,7 +1279,7 @@
 <LM>w#w-ln94204-98-p4s1w37</LM>
 </w.rf>
 <form>opakovat</form>
-<tag lemma="opakovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="opakovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94204-98-p4s1w38">
 <src.rf>manual</src.rf>
@@ -1546,7 +1546,7 @@
 <LM>w#w-ln94204-98-p5s1w13</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94204-98-p5s1w14">
 <src.rf>manual</src.rf>
@@ -1730,7 +1730,7 @@
 <LM>w#w-ln94204-98-p5s2w6</LM>
 </w.rf>
 <form>říkají</form>
-<tag lemma="říkat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="říkat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94204-98-p5s2w7">
 <src.rf>manual</src.rf>
@@ -1792,7 +1792,7 @@
 <LM>w#w-ln94204-98-p5s2w13</LM>
 </w.rf>
 <form>rozeznat</form>
-<tag lemma="rozeznat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="rozeznat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94204-98-p5s2w14">
 <src.rf>manual</src.rf>

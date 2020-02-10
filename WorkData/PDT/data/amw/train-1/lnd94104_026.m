@@ -613,7 +613,7 @@
 <LM>w#w-lnd94104-026-p1s6w3</LM>
 </w.rf>
 <form>není</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-lnd94104-026-p1s6w4">
 <src.rf>manual</src.rf>

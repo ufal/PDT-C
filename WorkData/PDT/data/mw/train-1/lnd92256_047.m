@@ -62,7 +62,7 @@
 <tag>
 <AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">VpYS---XR-AA---</AM>
 <AM lemma="stát-3_:T_^(někdo/něco_stojí,_např._na_nohou)" src="manual">VpYS---XR-AA---</AM>
-<AM lemma="stát-4_:T_^(něco_stojí_peníze)" src="manual"/>
+<AM lemma="stát-4_:T_^(něco_stojí_peníze)" src="manual" />
 <AM lemma="stát-4_:T_^(něco_stojí_peníze)" src="manual" selected="1">VpYS---XR-AA---</AM>
 </tag>
 </m>
@@ -471,7 +471,7 @@
 <LM>w#w-lnd92256-047-p1s3w4</LM>
 </w.rf>
 <form>propagovat</form>
-<tag lemma="propagovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="propagovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd92256-047-p1s3w5">
 <src.rf>manual</src.rf>

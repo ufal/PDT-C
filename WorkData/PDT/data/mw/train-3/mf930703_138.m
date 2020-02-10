@@ -789,7 +789,7 @@
 <LM>w#w-mf930703-138-p3s4w2</LM>
 </w.rf>
 <form>pokračují</form>
-<tag lemma="pokračovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="pokračovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930703-138-p3s4w3">
 <src.rf>manual</src.rf>

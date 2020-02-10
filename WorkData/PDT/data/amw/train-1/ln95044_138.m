@@ -58,7 +58,7 @@
 <LM>w#w-ln95044-138-p1s1w5</LM>
 </w.rf>
 <form>umožňuje</form>
-<tag lemma="umožňovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="umožňovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95044-138-p1s1w6">
 <src.rf>manual</src.rf>
@@ -66,7 +66,7 @@
 <LM>w#w-ln95044-138-p1s1w6</LM>
 </w.rf>
 <form>nahradit</form>
-<tag lemma="nahradit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="nahradit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95044-138-p1s1w7">
 <src.rf>manual</src.rf>

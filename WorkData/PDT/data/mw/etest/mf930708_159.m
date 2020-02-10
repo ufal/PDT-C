@@ -115,7 +115,7 @@
 <LM>w#w-mf930708-159-p1s1w13</LM>
 </w.rf>
 <form>předvádí</form>
-<tag lemma="předvádět_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="předvádět" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-159-p1s1w14">
 <src.rf>manual</src.rf>
@@ -155,7 +155,7 @@
 <LM>w#w-mf930708-159-p1s1w18</LM>
 </w.rf>
 <form>devastují</form>
-<tag lemma="devastovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="devastovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-159-p1s1w19">
 <src.rf>manual</src.rf>
@@ -213,7 +213,7 @@
 <LM>w#w-mf930708-159-p1s2w4</LM>
 </w.rf>
 <form>lze</form>
-<tag lemma="lze" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="lze" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-159-p1s2w5">
 <src.rf>manual</src.rf>
@@ -221,7 +221,7 @@
 <LM>w#w-mf930708-159-p1s2w5</LM>
 </w.rf>
 <form>nasbírat</form>
-<tag lemma="nasbírat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="nasbírat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930708-159-p1s2w6">
 <src.rf>manual</src.rf>

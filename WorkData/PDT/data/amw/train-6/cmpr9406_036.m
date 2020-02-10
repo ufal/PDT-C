@@ -3487,7 +3487,7 @@
 <LM>w#w-cmpr9406-036-p9s1w18</LM>
 </w.rf>
 <form>nedovolují</form>
-<tag lemma="dovolovat_:T" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="dovolovat" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 <m id="m-cmpr9406-036-p9s1w19">
 <src.rf>manual</src.rf>
@@ -5036,7 +5036,7 @@
 <LM>w#w-cmpr9406-036-p12s1w6</LM>
 </w.rf>
 <form>prezentují</form>
-<tag lemma="prezentovat_:T_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="prezentovat" src="orig" selected="1">VB-P---3P-AAB--</tag>
 </m>
 <m id="m-cmpr9406-036-p12s1w7">
 <src.rf>manual</src.rf>
@@ -6282,8 +6282,8 @@
 <tag>
 <AM lemma="zdravotní_:B" src="orig" selected="1">AAXXX----1A---8</AM>
 <AM lemma="zdrava_,h" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="zdravit_:T" src="auto">Vi-S---2--A----</AM>
-<AM lemma="zdravit_:T" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="zdravit" src="auto">Vi-S---2--A-I--</AM>
+<AM lemma="zdravit" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="zedrat_:W" src="auto">VmYS------A----</AM>
 </tag>
 </m>
@@ -7667,7 +7667,7 @@
 <LM>w#w-cmpr9406-036-p16s1w9</LM>
 </w.rf>
 <form>telefonovat</form>
-<tag lemma="telefonovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="telefonovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-cmpr9406-036-p16s1w10">
 <src.rf>manual</src.rf>
@@ -8439,7 +8439,7 @@
 <LM>w#w-cmpr9406-036-p17s1w40</LM>
 </w.rf>
 <form>volit</form>
-<tag lemma="volit_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="volit" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-cmpr9406-036-p17s1w41">
 <src.rf>manual</src.rf>

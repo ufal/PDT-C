@@ -62,7 +62,7 @@
 <LM>w#w-mf920901-019-p1s1w6</LM>
 </w.rf>
 <form>přijme</form>
-<tag lemma="přijmout" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="přijmout" src="auto" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf920901-019-p1s1w7">
 <src.rf>manual</src.rf>
@@ -480,7 +480,7 @@
 <LM>w#w-mf920901-019-p3s1w3</LM>
 </w.rf>
 <form>podá</form>
-<tag lemma="podat_:W_^(něco_[někomu]_[někam])" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="podat_^(něco_[někomu]_[někam])" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf920901-019-p3s1w4">
 <src.rf>manual</src.rf>

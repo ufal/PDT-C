@@ -51,7 +51,7 @@
 <LM>w#w-cmpr9417-042-p2s1w5</LM>
 </w.rf>
 <form>nevedeme</form>
-<tag lemma="vést" src="auto" selected="1">VB-P---1P-NA---</tag>
+<tag lemma="vést" src="auto" selected="1">VB-P---1P-NAI--</tag>
 </m>
 <m id="m-cmpr9417-042-p2s1w6">
 <src.rf>manual</src.rf>
@@ -91,7 +91,7 @@
 <LM>w#w-cmpr9417-042-p2s1w10</LM>
 </w.rf>
 <form>nabídnout</form>
-<tag lemma="nabídnout_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="nabídnout" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-cmpr9417-042-p2s1w11">
 <src.rf>manual</src.rf>

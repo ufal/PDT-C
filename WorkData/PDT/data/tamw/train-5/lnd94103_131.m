@@ -51,7 +51,7 @@
 <LM>w#w-lnd94103-131-p1s1w5</LM>
 </w.rf>
 <form>ovlivňuje</form>
-<tag lemma="ovlivňovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="ovlivňovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94103-131-p1s1w6">
 <src.rf>manual</src.rf>
@@ -117,7 +117,7 @@
 <LM>w#w-lnd94103-131-p1s2w4</LM>
 </w.rf>
 <form>proudí</form>
-<tag lemma="proudit-2_:T_^(pohyb_kap.,_plynu)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="proudit-2_^(pohyb_kap.,_plynu)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94103-131-p1s2w5">
 <src.rf>manual</src.rf>

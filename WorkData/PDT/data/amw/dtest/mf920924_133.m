@@ -83,7 +83,7 @@
 <LM>w#w-mf920924-133-p1s1w9</LM>
 </w.rf>
 <form>nedochází</form>
-<tag lemma="docházet_:T" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="docházet" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-mf920924-133-p1s1w10">
 <src.rf>manual</src.rf>
@@ -99,7 +99,7 @@
 <LM>w#w-mf920924-133-p1s1w11</LM>
 </w.rf>
 <form>hlásí</form>
-<tag lemma="hlásit_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="hlásit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920924-133-p1s1w12">
 <src.rf>manual</src.rf>
@@ -173,7 +173,7 @@
 <LM>w#w-mf920924-133-p2s2w3</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920924-133-p2s2w4">
 <src.rf>manual</src.rf>
@@ -1859,7 +1859,7 @@
 <LM>w#w-mf920924-133-p2s12w15</LM>
 </w.rf>
 <form>zatlačit</form>
-<tag lemma="zatlačit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zatlačit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920924-133-p2s12w16">
 <src.rf>manual</src.rf>

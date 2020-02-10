@@ -1235,7 +1235,7 @@
 <LM>w#w-lnd92257-011-p3s9w5</LM>
 </w.rf>
 <form>počítá</form>
-<tag lemma="počítat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="počítat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92257-011-p3s9w6">
 <src.rf>manual</src.rf>

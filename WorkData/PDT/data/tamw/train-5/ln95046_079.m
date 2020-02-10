@@ -427,7 +427,7 @@
 <LM>w#w-ln95046-079-p2s2w5</LM>
 </w.rf>
 <form>zabývají</form>
-<tag lemma="zabývat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="zabývat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95046-079-p2s2w6">
 <src.rf>manual</src.rf>

@@ -589,7 +589,7 @@
 <LM>w#w-lnd92256-069-p3s5w18</LM>
 </w.rf>
 <form>vyzývá</form>
-<tag lemma="vyzývat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vyzývat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92256-069-p3s5w19">
 <src.rf>manual</src.rf>

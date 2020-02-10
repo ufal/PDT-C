@@ -190,7 +190,7 @@
 <LM>w#w-lnd92255-065-p3s2w12</LM>
 </w.rf>
 <form>zatajují</form>
-<tag lemma="zatajovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="zatajovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92255-065-p3s2w13">
 <src.rf>manual</src.rf>
@@ -238,7 +238,7 @@
 <LM>w#w-lnd92255-065-p3s2w18</LM>
 </w.rf>
 <form>ukrývají</form>
-<tag lemma="ukrývat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="ukrývat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92255-065-p3s2w19">
 <src.rf>manual</src.rf>
@@ -304,7 +304,7 @@
 <LM>w#w-lnd92255-065-p3s3w7</LM>
 </w.rf>
 <form>odložit</form>
-<tag lemma="odložit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="odložit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92255-065-p3s3w8">
 <src.rf>manual</src.rf>
@@ -392,7 +392,7 @@
 <LM>w#w-lnd92255-065-p3s3w18</LM>
 </w.rf>
 <form>předpokládají</form>
-<tag lemma="předpokládat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="předpokládat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92255-065-p3s3w19">
 <src.rf>manual</src.rf>
@@ -504,7 +504,7 @@
 <LM>w#w-lnd92255-065-p3s3w32</LM>
 </w.rf>
 <form>nesloží</form>
-<tag lemma="složit_:W" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="složit" src="orig" selected="1">VB-P---3P-NAP--</tag>
 </m>
 <m id="m-lnd92255-065-p3s3w33">
 <src.rf>manual</src.rf>
@@ -562,7 +562,7 @@
 <LM>w#w-lnd92255-065-p3s4w5</LM>
 </w.rf>
 <form>považuje</form>
-<tag lemma="považovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="považovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92255-065-p3s4w6">
 <src.rf>manual</src.rf>
@@ -634,7 +634,7 @@
 <LM>w#w-lnd92255-065-p3s4w14</LM>
 </w.rf>
 <form>mají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92255-065-p3s4w15">
 <src.rf>manual</src.rf>
@@ -642,7 +642,7 @@
 <LM>w#w-lnd92255-065-p3s4w15</LM>
 </w.rf>
 <form>ukončit</form>
-<tag lemma="ukončit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="ukončit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92255-065-p3s4w16">
 <src.rf>manual</src.rf>

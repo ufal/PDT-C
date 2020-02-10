@@ -153,7 +153,7 @@
 <LM>w#w-mf930708-102-p1s1w17</LM>
 </w.rf>
 <form>pózují</form>
-<tag lemma="pózovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="pózovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-102-p1s1w18">
 <src.rf>manual</src.rf>

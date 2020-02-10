@@ -27,7 +27,7 @@
 <LM>w#w-mf930708-108-p1s1w2</LM>
 </w.rf>
 <form>nepojede</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VB-S---3F-NA---</tag>
+<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VB-S---3F-NAI--</tag>
 </m>
 <m id="m-mf930708-108-p1s1w3">
 <src.rf>manual</src.rf>
@@ -261,7 +261,7 @@
 <LM>w#w-mf930708-108-p2s1w26</LM>
 </w.rf>
 <form>nezúčastní</form>
-<tag lemma="zúčastnit_:W" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="zúčastnit" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-mf930708-108-p2s1w27">
 <src.rf>manual</src.rf>
@@ -336,7 +336,7 @@
 <LM>w#w-mf930708-108-p2s1w35</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-mf930708-108-p2s1w36">
 <src.rf>manual</src.rf>
@@ -344,7 +344,7 @@
 <LM>w#w-mf930708-108-p2s1w36</LM>
 </w.rf>
 <form>startovat</form>
-<tag lemma="startovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="startovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf930708-108-p2s1w37">
 <src.rf>manual</src.rf>
@@ -410,7 +410,7 @@
 <LM>w#w-mf930708-108-p2s2w2</LM>
 </w.rf>
 <form>Mám</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-mf930708-108-p2s2w3">
 <src.rf>manual</src.rf>
@@ -544,7 +544,7 @@
 <LM>w#w-mf930708-108-p2s3w5</LM>
 </w.rf>
 <form>sejdou</form>
-<tag lemma="sejít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="sejít" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-mf930708-108-p2s3w6">
 <src.rf>manual</src.rf>
@@ -616,7 +616,7 @@
 <LM>w#w-mf930708-108-p2s3w14</LM>
 </w.rf>
 <form>absolvuje</form>
-<tag lemma="absolvovat_:T_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="absolvovat" src="orig" selected="1">VB-S---3P-AAB--</tag>
 </m>
 <m id="m-mf930708-108-p2s3w15">
 <src.rf>manual</src.rf>

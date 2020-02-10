@@ -71,7 +71,7 @@
 <LM>w#w-ln94203-91-p2s1w5</LM>
 </w.rf>
 <form>zazní</form>
-<tag lemma="zaznít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zaznít" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94203-91-p2s1w6">
 <src.rf>manual</src.rf>
@@ -346,7 +346,7 @@
 <LM>w#w-ln94203-91-p2s3w3</LM>
 </w.rf>
 <form>uslyší</form>
-<tag lemma="uslyšet" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="uslyšet" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-ln94203-91-p2s3w4">
 <src.rf>manual</src.rf>

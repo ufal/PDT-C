@@ -195,7 +195,7 @@
 <LM>w#w-mf920922-087-p1s2w18</LM>
 </w.rf>
 <form>řešit</form>
-<tag lemma="řešit_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="řešit" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf920922-087-p1s2w19">
 <src.rf>manual</src.rf>
@@ -524,7 +524,7 @@
 <LM>w#w-mf920922-087-p1s4w13</LM>
 </w.rf>
 <form>směnit</form>
-<tag lemma="směnit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="směnit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920922-087-p1s4w14">
 <src.rf>manual</src.rf>
@@ -722,7 +722,7 @@
 <LM>w#w-mf920922-087-p1s6w5</LM>
 </w.rf>
 <form>pátrají</form>
-<tag lemma="pátrat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="pátrat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920922-087-p1s6w6">
 <src.rf>manual</src.rf>

@@ -736,7 +736,7 @@
 <LM>w#w-mf930702-093-p3s2w3</LM>
 </w.rf>
 <form>jsme</form>
-<tag lemma="být" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-mf930702-093-p3s2w4">
 <src.rf>manual</src.rf>
@@ -874,7 +874,7 @@
 <LM>w#w-mf930702-093-p3s3w6</LM>
 </w.rf>
 <form>máme</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-mf930702-093-p3s3w7">
 <src.rf>manual</src.rf>

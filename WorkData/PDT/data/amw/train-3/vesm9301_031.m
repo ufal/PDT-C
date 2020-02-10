@@ -373,7 +373,7 @@
 <LM>w#w-vesm9301-031-p13s1w1</LM>
 </w.rf>
 <form>Souvisí</form>
-<tag lemma="souviset_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="souviset" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9301-031-p13s1w2">
 <src.rf>manual</src.rf>
@@ -483,7 +483,7 @@
 <LM>w#w-vesm9301-031-p19s1w1</LM>
 </w.rf>
 <form>Spatříme</form>
-<tag lemma="spatřit_:W" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="spatřit" src="orig" selected="1">VB-P---1P-AAP--</tag>
 </m>
 <m id="m-vesm9301-031-p19s1w2">
 <src.rf>manual</src.rf>
@@ -499,7 +499,7 @@
 <LM>w#w-vesm9301-031-p19s1w3</LM>
 </w.rf>
 <form>poznáme</form>
-<tag lemma="poznat_:W" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="poznat" src="orig" selected="1">VB-P---1P-AAP--</tag>
 </m>
 </s>
 <s id="m-vesm9301-031-p20s1">
@@ -732,7 +732,7 @@
 <LM>w#w-vesm9301-031-p26s1w2</LM>
 </w.rf>
 <form>nesou</form>
-<tag lemma="nést" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="nést" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-vesm9301-031-p26s1w3">
 <src.rf>manual</src.rf>
@@ -1080,7 +1080,7 @@
 <LM>w#w-vesm9301-031-p33s1w1</LM>
 </w.rf>
 <form>Poručíme</form>
-<tag lemma="poručit_:W" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="poručit" src="orig" selected="1">VB-P---1P-AAP--</tag>
 </m>
 <m id="m-vesm9301-031-p33s1w2">
 <src.rf>manual</src.rf>
@@ -1190,7 +1190,7 @@
 <LM>w#w-vesm9301-031-p36s1w2</LM>
 </w.rf>
 <form>JSME</form>
-<tag lemma="být" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-vesm9301-031-p36s1w3">
 <src.rf>manual</src.rf>
@@ -1571,7 +1571,7 @@
 <LM>w#w-vesm9301-031-p38s2Bw2</LM>
 </w.rf>
 <form>čekat</form>
-<tag lemma="čekat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="čekat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-vesm9301-031-p38s2Bw3">
 <src.rf>manual</src.rf>
@@ -1597,7 +1597,7 @@
 <LM>w#w-vesm9301-031-p38s2Cw2</LM>
 </w.rf>
 <form>zastavuje</form>
-<tag lemma="zastavovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zastavovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9301-031-p38s2Cw3">
 <src.rf>manual</src.rf>

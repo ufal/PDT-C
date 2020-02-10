@@ -43,7 +43,7 @@
 <LM>w#w-lnd91303-108-p1s1w4</LM>
 </w.rf>
 <form>nejsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 <m id="m-lnd91303-108-p1s1w5">
 <src.rf>manual</src.rf>

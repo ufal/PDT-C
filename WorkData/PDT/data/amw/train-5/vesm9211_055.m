@@ -1254,7 +1254,7 @@
 <LM>w#w-vesm9211-055-p4s2w24</LM>
 </w.rf>
 <form>baví</form>
-<tag lemma="bavit_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="bavit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-vesm9211-055-p4s2w25">
 <src.rf>manual</src.rf>

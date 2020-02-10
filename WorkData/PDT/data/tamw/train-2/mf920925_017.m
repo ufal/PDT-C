@@ -69,7 +69,7 @@
 <form>jet</form>
 <tag>
 <AM lemma="jet-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
-<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">Vf--------A----</AM>
+<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">Vf--------A-I--</AM>
 <AM lemma="jet-2_,h_^(letadlo_s_tryskovým_pohonem)" src="auto">NNIS1-----A----</AM>
 <AM lemma="jet-2_,h_^(letadlo_s_tryskovým_pohonem)" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -400,7 +400,7 @@
 <LM>w#w-mf920925-017-p2s3w10</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-017-p2s3w11">
 <src.rf>manual</src.rf>
@@ -432,7 +432,7 @@
 <LM>w#w-mf920925-017-p2s3w14</LM>
 </w.rf>
 <form>chce</form>
-<tag lemma="chtít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="chtít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-017-p2s3w15">
 <src.rf>manual</src.rf>
@@ -451,7 +451,7 @@
 <LM>w#w-mf920925-017-p2s3w16</LM>
 </w.rf>
 <form>iniciovat</form>
-<tag lemma="iniciovat_:T_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="iniciovat" src="orig" selected="1">Vf--------A-B--</tag>
 </m>
 <m id="m-mf920925-017-p2s3w17">
 <src.rf>manual</src.rf>
@@ -637,7 +637,7 @@
 <LM>w#w-mf920925-017-p2s4w17</LM>
 </w.rf>
 <form>přejde</form>
-<tag lemma="přejít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="přejít" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf920925-017-p2s4w18">
 <src.rf>manual</src.rf>
@@ -680,7 +680,7 @@
 <LM>w#w-mf920925-017-p2s4w22</LM>
 </w.rf>
 <form>nejsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 <m id="m-mf920925-017-p2s4w23">
 <src.rf>manual</src.rf>

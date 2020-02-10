@@ -8183,7 +8183,7 @@
 <form>loni</form>
 <tag>
 <AM lemma="vloni_,s_^(^DD**vloni)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="vloni_,s_^(^DD**vloni)" src="manual"></AM>
+<AM lemma="vloni_,s_^(^DD**vloni)" src="manual" />
 <AM lemma="loni_,s_^(^DD**vloni)" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>

@@ -19,7 +19,7 @@
 <LM>w#w-vesm9211-039-p1s1w1</LM>
 </w.rf>
 <form>Vybuchují</form>
-<tag lemma="vybuchovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="vybuchovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-vesm9211-039-p1s1w2">
 <src.rf>manual</src.rf>
@@ -86,8 +86,8 @@
 </w.rf>
 <form>peče</form>
 <tag>
-<AM lemma="péci" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="péci_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="péci" src="auto">VB-S---3P-AAI--</AM>
+<AM lemma="péci" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-vesm9211-039-p2s1w8">
@@ -128,7 +128,7 @@
 <LM>w#w-vesm9211-039-p2s1w12</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9211-039-p2s1w13">
 <src.rf>manual</src.rf>
@@ -152,7 +152,7 @@
 <LM>w#w-vesm9211-039-p2s1w15</LM>
 </w.rf>
 <form>propíchnout</form>
-<tag lemma="propíchnout_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="propíchnout" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-vesm9211-039-p2s1w16">
 <src.rf>manual</src.rf>
@@ -202,7 +202,7 @@
 <LM>w#w-vesm9211-039-p2s2w4</LM>
 </w.rf>
 <form>neučiní</form>
-<tag lemma="učinit_:W" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="učinit" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-vesm9211-039-p2s2w5">
 <src.rf>manual</src.rf>
@@ -266,7 +266,7 @@
 <LM>w#w-vesm9211-039-p2s2w12</LM>
 </w.rf>
 <form>explodovat</form>
-<tag lemma="explodovat_:T_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="explodovat" src="orig" selected="1">Vf--------A-B--</tag>
 </m>
 <m id="m-vesm9211-039-p2s2w13">
 <src.rf>manual</src.rf>
@@ -298,7 +298,7 @@
 <LM>w#w-vesm9211-039-p2s2w16</LM>
 </w.rf>
 <form>popálit</form>
-<tag lemma="popálit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="popálit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-vesm9211-039-p2s2w17">
 <src.rf>manual</src.rf>
@@ -452,7 +452,7 @@
 <LM>w#w-vesm9211-039-p2s4w2</LM>
 </w.rf>
 <form>mít</form>
-<tag lemma="mít" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="mít" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-vesm9211-039-p2s4w3">
 <src.rf>manual</src.rf>

@@ -481,7 +481,7 @@
 <LM>w#w-lnd92258-006-p2s4w8</LM>
 </w.rf>
 <form>přinášíme</form>
-<tag lemma="přinášet_:T" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="přinášet" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-lnd92258-006-p2s4w9">
 <src.rf>manual</src.rf>

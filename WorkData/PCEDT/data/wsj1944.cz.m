@@ -4095,7 +4095,7 @@
 <form>nechal</form>
 <tag>
 <AM lemma="nechat" src="auto" recommended="1">VpYS---XR-AAI--</AM>
-<AM lemma="nechat" src="manual" selected="1">VpYS----R-AAP--</AM>
+<AM lemma="nechat" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-wsj1944-001-p1s15W24-Ta">

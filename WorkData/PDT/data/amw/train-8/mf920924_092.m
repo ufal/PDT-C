@@ -398,7 +398,7 @@
 <LM>w#w-mf920924-092-p2s3w18</LM>
 </w.rf>
 <form>převzít</form>
-<tag lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920924-092-p2s3w19">
 <src.rf>manual</src.rf>
@@ -422,7 +422,7 @@
 <LM>w#w-mf920924-092-p2s3w21</LM>
 </w.rf>
 <form>zabezpečit</form>
-<tag lemma="zabezpečit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zabezpečit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920924-092-p2s3w22">
 <src.rf>manual</src.rf>

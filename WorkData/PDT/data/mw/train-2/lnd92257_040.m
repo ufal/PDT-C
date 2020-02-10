@@ -506,7 +506,7 @@
 <LM>w#w-lnd92257-040-p3s5w4</LM>
 </w.rf>
 <form>mluví</form>
-<tag lemma="mluvit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="mluvit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92257-040-p3s5w5">
 <src.rf>manual</src.rf>
@@ -562,7 +562,7 @@
 <LM>w#w-lnd92257-040-p3s5w11</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-lnd92257-040-p3s5w12">
 <src.rf>manual</src.rf>
@@ -642,7 +642,7 @@
 <LM>w#w-lnd92257-040-p3s5w22</LM>
 </w.rf>
 <form>sestoupit</form>
-<tag lemma="sestoupit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="sestoupit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92257-040-p3s5w23">
 <src.rf>manual</src.rf>

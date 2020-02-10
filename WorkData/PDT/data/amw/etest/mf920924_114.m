@@ -35,7 +35,7 @@
 <LM>w#w-mf920924-114-p1s1w3</LM>
 </w.rf>
 <form>souhlasí</form>
-<tag lemma="souhlasit_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="souhlasit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920924-114-p1s1w4">
 <src.rf>manual</src.rf>
@@ -293,7 +293,7 @@
 <LM>w#w-mf920924-114-p2s2w2</LM>
 </w.rf>
 <form>definuje</form>
-<tag lemma="definovat_:T_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="definovat" src="orig" selected="1">VB-S---3P-AAB--</tag>
 </m>
 <m id="m-mf920924-114-p2s2w3">
 <src.rf>manual</src.rf>
@@ -354,7 +354,7 @@
 <LM>w#w-mf920924-114-p2s3w1</LM>
 </w.rf>
 <form>Jde</form>
-<tag lemma="jít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="jít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920924-114-p2s3w2">
 <src.rf>manual</src.rf>

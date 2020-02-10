@@ -86,7 +86,7 @@
 <LM>w#w-mf920901-050-p1s1w9</LM>
 </w.rf>
 <form>DÁVÁ</form>
-<tag lemma="dávat_:T_^(*3t)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="dávat_^(*3t)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920901-050-p1s1w10">
 <src.rf>manual</src.rf>
@@ -110,7 +110,7 @@
 <LM>w#w-mf920901-050-p1s1w12</LM>
 </w.rf>
 <form>VĚDĚT</form>
-<tag lemma="vědět" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vědět" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 </s>
 <s id="m-mf920901-050-p2s1">
@@ -302,7 +302,7 @@
 </w.rf>
 <form>Line</form>
 <tag>
-<AM lemma="linout" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="linout" src="orig">VB-S---3P-AAI--</AM>
 <AM lemma="Line-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -365,7 +365,7 @@
 <LM>w#w-mf920901-050-p2s3w3</LM>
 </w.rf>
 <form>představuje</form>
-<tag lemma="představovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="představovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920901-050-p2s3w4">
 <src.rf>manual</src.rf>
@@ -831,7 +831,7 @@
 <LM>w#w-mf920901-050-p2s5w18</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920901-050-p2s5w19">
 <src.rf>manual</src.rf>

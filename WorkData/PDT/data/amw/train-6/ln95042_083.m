@@ -19,7 +19,7 @@
 <LM>w#w-ln95042-083-p1s1w1</LM>
 </w.rf>
 <form>Objevují</form>
-<tag lemma="objevovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="objevovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95042-083-p1s1w2">
 <src.rf>manual</src.rf>

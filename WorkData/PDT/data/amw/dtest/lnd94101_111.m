@@ -59,7 +59,7 @@
 <LM>w#w-lnd94101-111-p1s1w6</LM>
 </w.rf>
 <form>prozrazuje</form>
-<tag lemma="prozrazovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="prozrazovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94101-111-p1s1w7">
 <src.rf>manual</src.rf>

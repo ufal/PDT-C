@@ -509,7 +509,7 @@
 <LM>w#w-cmpr9406-017-p8s1Bw8</LM>
 </w.rf>
 <form>připojit</form>
-<tag lemma="připojit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="připojit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-cmpr9406-017-p8s1Bw9">
 <src.rf>manual</src.rf>
@@ -1756,7 +1756,7 @@
 <LM>w#w-cmpr9406-017-p9s1Bw11</LM>
 </w.rf>
 <form>uspokojí</form>
-<tag lemma="uspokojit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="uspokojit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-cmpr9406-017-p9s1Bw12">
 <src.rf>manual</src.rf>

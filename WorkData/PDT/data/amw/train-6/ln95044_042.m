@@ -224,7 +224,7 @@
 <LM>w#w-ln95044-042-p1s2w11</LM>
 </w.rf>
 <form>počítat</form>
-<tag lemma="počítat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="počítat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95044-042-p1s2w12">
 <src.rf>manual</src.rf>

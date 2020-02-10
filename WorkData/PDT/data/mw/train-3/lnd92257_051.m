@@ -244,7 +244,7 @@
 <LM>w#w-lnd92257-051-p3s2w16</LM>
 </w.rf>
 <form>usilují</form>
-<tag lemma="usilovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="usilovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92257-051-p3s2w17">
 <src.rf>manual</src.rf>
@@ -568,7 +568,7 @@
 <LM>w#w-lnd92257-051-p4s1w11</LM>
 </w.rf>
 <form>kontrolují</form>
-<tag lemma="kontrolovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="kontrolovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92257-051-p4s1w12">
 <src.rf>manual</src.rf>
@@ -1569,7 +1569,7 @@
 <LM>w#w-lnd92257-051-p5s2w26</LM>
 </w.rf>
 <form>oddělit</form>
-<tag lemma="oddělit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="oddělit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92257-051-p5s2w27">
 <src.rf>manual</src.rf>
@@ -1622,7 +1622,7 @@
 <LM>w#w-lnd92257-051-p5s3w3</LM>
 </w.rf>
 <form>zabránit</form>
-<tag lemma="zabránit_:W_^(někomu_v_něčem)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zabránit_^(někomu_v_něčem)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92257-051-p5s3w4">
 <src.rf>manual</src.rf>
@@ -1646,7 +1646,7 @@
 <LM>w#w-lnd92257-051-p5s3w6</LM>
 </w.rf>
 <form>zapojit</form>
-<tag lemma="zapojit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zapojit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92257-051-p5s3w7">
 <src.rf>manual</src.rf>
@@ -1886,7 +1886,7 @@
 <LM>w#w-lnd92257-051-p5s4w11</LM>
 </w.rf>
 <form>vraždí</form>
-<tag lemma="vraždit_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="vraždit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92257-051-p5s4w12">
 <src.rf>manual</src.rf>
@@ -1918,7 +1918,7 @@
 <LM>w#w-lnd92257-051-p5s4w15</LM>
 </w.rf>
 <form>zapalují</form>
-<tag lemma="zapalovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="zapalovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92257-051-p5s4w16">
 <src.rf>manual</src.rf>
@@ -1942,7 +1942,7 @@
 <LM>w#w-lnd92257-051-p5s4w18</LM>
 </w.rf>
 <form>odhánějí</form>
-<tag lemma="odhánět_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="odhánět" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92257-051-p5s4w19">
 <src.rf>manual</src.rf>

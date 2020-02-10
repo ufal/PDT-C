@@ -101,7 +101,7 @@
 <LM>w#w-mf920901-086-p1s2w3</LM>
 </w.rf>
 <form>zdá</form>
-<tag lemma="zdát" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zdát" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920901-086-p1s2w4">
 <src.rf>manual</src.rf>

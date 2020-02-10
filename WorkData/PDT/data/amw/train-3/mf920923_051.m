@@ -141,7 +141,7 @@
 <LM>w#w-mf920923-051-p2s1w13</LM>
 </w.rf>
 <form>půjčuje</form>
-<tag lemma="půjčovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="půjčovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920923-051-p2s1w14">
 <src.rf>manual</src.rf>
@@ -242,7 +242,7 @@
 <LM>w#w-mf920923-051-p2s2w5</LM>
 </w.rf>
 <form>využít</form>
-<tag lemma="využít" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="využít" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920923-051-p2s2w6">
 <src.rf>manual</src.rf>
@@ -375,7 +375,7 @@
 <LM>w#w-mf920923-051-p2s3w9</LM>
 </w.rf>
 <form>hrají</form>
-<tag lemma="hrát" src="orig" selected="1">VB-P---3P-AA--1</tag>
+<tag lemma="hrát" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-mf920923-051-p2s3w10">
 <src.rf>manual</src.rf>

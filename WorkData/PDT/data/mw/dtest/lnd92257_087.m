@@ -503,7 +503,7 @@
 <LM>w#w-lnd92257-087-p2s4w12</LM>
 </w.rf>
 <form>rozhodne</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd92257-087-p2s4w13">
 <src.rf>manual</src.rf>

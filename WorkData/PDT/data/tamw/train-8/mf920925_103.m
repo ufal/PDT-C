@@ -189,7 +189,7 @@
 <LM>w#w-mf920925-103-p1s2w1</LM>
 </w.rf>
 <form>Jde</form>
-<tag lemma="jít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="jít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-103-p1s2w2">
 <src.rf>manual</src.rf>

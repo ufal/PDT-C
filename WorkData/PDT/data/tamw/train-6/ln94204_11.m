@@ -27,7 +27,7 @@
 <LM>w#w-ln94204-11-p1s1w2</LM>
 </w.rf>
 <form>fúzuje</form>
-<tag lemma="fúzovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="fúzovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94204-11-p1s1w3">
 <src.rf>manual</src.rf>
@@ -357,7 +357,7 @@
 <LM>w#w-ln94204-11-p3s1w9</LM>
 </w.rf>
 <form>umožní</form>
-<tag lemma="umožnit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="umožnit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94204-11-p3s1w10">
 <src.rf>manual</src.rf>
@@ -381,7 +381,7 @@
 <LM>w#w-ln94204-11-p3s1w12</LM>
 </w.rf>
 <form>snížit</form>
-<tag lemma="snížit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="snížit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94204-11-p3s1w13">
 <src.rf>manual</src.rf>

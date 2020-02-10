@@ -35,7 +35,7 @@
 <LM>w#w-ln94204-87-p1s1w3</LM>
 </w.rf>
 <form>vyhrožují</form>
-<tag lemma="vyhrožovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="vyhrožovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94204-87-p1s1w4">
 <src.rf>manual</src.rf>
@@ -167,7 +167,7 @@
 <LM>w#w-ln94204-87-p2s1Bw13</LM>
 </w.rf>
 <form>sáhnou</form>
-<tag lemma="sáhnout_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="sáhnout" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-ln94204-87-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -199,7 +199,7 @@
 <LM>w#w-ln94204-87-p2s1Bw17</LM>
 </w.rf>
 <form>budou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3F-AAI--</tag>
 </m>
 <m id="m-ln94204-87-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -944,7 +944,7 @@
 <LM>w#w-ln94204-87-p2s5w12</LM>
 </w.rf>
 <form>zachází</form>
-<tag lemma="zacházet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zacházet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94204-87-p2s5w13">
 <src.rf>manual</src.rf>

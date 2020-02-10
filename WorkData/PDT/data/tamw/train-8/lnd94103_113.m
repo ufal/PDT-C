@@ -1094,7 +1094,7 @@
 <LM>w#w-lnd94103-113-p1s7w7</LM>
 </w.rf>
 <form>korigovat</form>
-<tag lemma="korigovat_:T_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="korigovat" src="orig" selected="1">Vf--------A-B--</tag>
 </m>
 <m id="m-lnd94103-113-p1s7w8">
 <src.rf>manual</src.rf>

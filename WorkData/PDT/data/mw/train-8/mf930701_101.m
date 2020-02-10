@@ -146,7 +146,7 @@
 <form>du</form>
 <tag>
 <AM lemma="du_,t" src="orig">RR--X----------</AM>
-<AM lemma="jít" src="auto" recommended="1">VB-S---1P-AA--6</AM>
+<AM lemma="jít" src="auto" recommended="1">VB-S---1P-AAI-6</AM>
 <AM lemma="du_,t" src="auto">XX-------------</AM>
 <AM lemma="du-77" src="manual" selected="1">F%-------------</AM>
 </tag>

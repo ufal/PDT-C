@@ -610,7 +610,7 @@
 <LM>w#w-ln95044-050-p3s1w33</LM>
 </w.rf>
 <form>musí</form>
-<tag lemma="muset" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="muset" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95044-050-p3s1w34">
 <src.rf>manual</src.rf>
@@ -618,7 +618,7 @@
 <LM>w#w-ln95044-050-p3s1w34</LM>
 </w.rf>
 <form>dopomáhat</form>
-<tag lemma="dopomáhat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="dopomáhat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95044-050-p3s1w35">
 <src.rf>manual</src.rf>
@@ -1062,8 +1062,8 @@
 <AM lemma="leč-1_^(lov;_poslední_leč...)" src="auto">NNFS4-----A----</AM>
 <AM lemma="leč-3_^(ale)" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="lečo_^(jídlo)" src="auto">NNNP2-----A----</AM>
-<AM lemma="léčit" src="auto">Vi-S---2--A----</AM>
-<AM lemma="léčit" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="léčit" src="auto">Vi-S---2--A-I--</AM>
+<AM lemma="léčit" src="auto">Vi-S---3--A-I-4</AM>
 </tag>
 </m>
 <m id="m-ln95044-050-p3s3w13">

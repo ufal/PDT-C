@@ -173,7 +173,7 @@
 <LM>w#w-ln94210-116-p2s2w2</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94210-116-p2s2w3">
 <src.rf>manual</src.rf>

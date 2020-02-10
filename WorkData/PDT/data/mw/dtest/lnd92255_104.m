@@ -505,7 +505,7 @@
 <LM>w#w-lnd92255-104-p2s5w5</LM>
 </w.rf>
 <form>nese</form>
-<tag lemma="nést" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="nést" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92255-104-p2s5w6">
 <src.rf>manual</src.rf>
@@ -703,7 +703,7 @@
 <LM>w#w-lnd92255-104-p1s1Bw14</LM>
 </w.rf>
 <form>nezapomíná</form>
-<tag lemma="zapomínat_:T" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="zapomínat" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-lnd92255-104-p1s1Bw15">
 <src.rf>manual</src.rf>

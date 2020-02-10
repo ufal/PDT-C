@@ -731,7 +731,7 @@
 <LM>w#w-ln94211-65-p3s1w5</LM>
 </w.rf>
 <form>souvisí</form>
-<tag lemma="souviset_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="souviset" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94211-65-p3s1w6">
 <src.rf>manual</src.rf>

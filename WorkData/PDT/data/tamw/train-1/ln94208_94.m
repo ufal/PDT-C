@@ -244,7 +244,7 @@
 <LM>w#w-ln94208-94-p2s2w9</LM>
 </w.rf>
 <form>ujímá</form>
-<tag lemma="ujímat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="ujímat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94208-94-p2s2w10">
 <src.rf>manual</src.rf>
@@ -364,7 +364,7 @@
 <LM>w#w-ln94208-94-p2s2w24</LM>
 </w.rf>
 <form>získává</form>
-<tag lemma="získávat_:T_^(*4at)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="získávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94208-94-p2s2w25">
 <src.rf>manual</src.rf>
@@ -637,7 +637,7 @@
 <LM>w#w-ln94208-94-p2s3Aw13</LM>
 </w.rf>
 <form>sejde</form>
-<tag lemma="sejít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="sejít" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94208-94-p2s3Aw14">
 <src.rf>manual</src.rf>

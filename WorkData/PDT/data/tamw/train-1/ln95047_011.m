@@ -128,7 +128,7 @@
 <LM>w#w-ln95047-011-p1s1w14</LM>
 </w.rf>
 <form>přihlíží</form>
-<tag lemma="přihlížet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="přihlížet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95047-011-p1s1w15">
 <src.rf>manual</src.rf>

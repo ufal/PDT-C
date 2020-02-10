@@ -83,7 +83,7 @@
 <LM>w#w-lnd94105-083-p1s1Bw5</LM>
 </w.rf>
 <form>zahrávají</form>
-<tag lemma="zahrávat_:T_^(*3t)" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="zahrávat_^(*3t)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd94105-083-p1s1Bw6">
 <src.rf>manual</src.rf>
@@ -475,7 +475,7 @@
 <LM>w#w-lnd94105-083-p1s5w3</LM>
 </w.rf>
 <form>držet</form>
-<tag lemma="držet" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="držet" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd94105-083-p1s5w4">
 <src.rf>manual</src.rf>
@@ -855,7 +855,7 @@
 <LM>w#w-lnd94105-083-p1s7w4</LM>
 </w.rf>
 <form>zahrávají</form>
-<tag lemma="zahrávat_:T_^(*3t)" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="zahrávat_^(*3t)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd94105-083-p1s7w5">
 <src.rf>manual</src.rf>

@@ -53,7 +53,7 @@
 <form>nestane</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VB-S---3P-NA---</AM>
-<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VB-S---3P-NA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VB-S---3P-NAP--</AM>
 </tag>
 </m>
 <m id="m-vesm9301-011-p1s1w6">
@@ -134,7 +134,7 @@
 <LM>w#w-vesm9301-011-p1s1w15</LM>
 </w.rf>
 <form>budou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3F-AAI--</tag>
 </m>
 <m id="m-vesm9301-011-p1s1w16">
 <src.rf>manual</src.rf>
@@ -142,7 +142,7 @@
 <LM>w#w-vesm9301-011-p1s1w16</LM>
 </w.rf>
 <form>stávkovat</form>
-<tag lemma="stávkovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="stávkovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-vesm9301-011-p1s1w17">
 <src.rf>manual</src.rf>
@@ -208,7 +208,7 @@
 <LM>w#w-vesm9301-011-p1s2w1</LM>
 </w.rf>
 <form>Je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9301-011-p1s2w2">
 <src.rf>manual</src.rf>
@@ -364,7 +364,7 @@
 <form>stojí</form>
 <tag>
 <AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-vesm9301-011-p1s3w3">
@@ -429,7 +429,7 @@
 <LM>w#w-vesm9301-011-p1s3w10</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-vesm9301-011-p1s3w11">
 <src.rf>manual</src.rf>
@@ -535,7 +535,7 @@
 <LM>w#w-vesm9301-011-p1s4w8</LM>
 </w.rf>
 <form>složit</form>
-<tag lemma="složit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="složit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-vesm9301-011-p1s4w9">
 <src.rf>manual</src.rf>
@@ -599,7 +599,7 @@
 <LM>w#w-vesm9301-011-p1s4w16</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-vesm9301-011-p1s4w17">
 <src.rf>manual</src.rf>
@@ -631,7 +631,7 @@
 <LM>w#w-vesm9301-011-p1s4w20</LM>
 </w.rf>
 <form>nepracuji</form>
-<tag lemma="pracovat_:T" src="orig" selected="1">VB-S---1P-NA--1</tag>
+<tag lemma="pracovat" src="orig" selected="1">VB-S---1P-NAI-1</tag>
 </m>
 <m id="m-vesm9301-011-p1s4w21">
 <src.rf>manual</src.rf>
@@ -690,8 +690,8 @@
 </w.rf>
 <form>začne</form>
 <tag>
-<AM lemma="začít-1_^(začnout)" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="začít-1_^(začnout)" src="auto">VB-S---3P-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual" selected="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m-vesm9301-011-p1s5w7">
@@ -700,7 +700,7 @@
 <LM>w#w-vesm9301-011-p1s5w7</LM>
 </w.rf>
 <form>pracovat</form>
-<tag lemma="pracovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="pracovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-vesm9301-011-p1s5w8">
 <src.rf>manual</src.rf>
@@ -772,7 +772,7 @@
 <LM>w#w-vesm9301-011-p1s6w1</LM>
 </w.rf>
 <form>Je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9301-011-p1s6w2">
 <src.rf>manual</src.rf>
@@ -812,7 +812,7 @@
 <LM>w#w-vesm9301-011-p1s6w6</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9301-011-p1s6w7">
 <src.rf>manual</src.rf>
@@ -906,7 +906,7 @@
 <LM>w#w-vesm9301-011-p1s7w6</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9301-011-p1s7w7">
 <src.rf>manual</src.rf>

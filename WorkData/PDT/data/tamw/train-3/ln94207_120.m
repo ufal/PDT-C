@@ -490,7 +490,7 @@
 <LM>w#w-ln94207-120-p3s1w16</LM>
 </w.rf>
 <form>souvisí</form>
-<tag lemma="souviset_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="souviset" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-120-p3s1w17">
 <src.rf>manual</src.rf>
@@ -644,7 +644,7 @@
 <LM>w#w-ln94207-120-p3s2w11</LM>
 </w.rf>
 <form>mít</form>
-<tag lemma="mít" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="mít" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94207-120-p3s2w12">
 <src.rf>manual</src.rf>
@@ -676,7 +676,7 @@
 <LM>w#w-ln94207-120-p3s2w15</LM>
 </w.rf>
 <form>korumpovat</form>
-<tag lemma="korumpovat_:T_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="korumpovat" src="orig" selected="1">Vf--------A-B--</tag>
 </m>
 <m id="m-ln94207-120-p3s2w16">
 <src.rf>manual</src.rf>
@@ -777,7 +777,7 @@
 <LM>w#w-ln94207-120-p4s1w8</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-120-p4s1w9">
 <src.rf>manual</src.rf>

@@ -59,7 +59,7 @@
 <LM>w#w-ln94202-24-p1s1w6</LM>
 </w.rf>
 <form>stoupají</form>
-<tag lemma="stoupat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="stoupat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 </s>
 <s id="m-ln94202-24-p2s1A">
@@ -287,7 +287,7 @@
 <LM>w#w-ln94202-24-p2s1Bw26</LM>
 </w.rf>
 <form>existují</form>
-<tag lemma="existovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="existovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94202-24-p2s1Bw27">
 <src.rf>manual</src.rf>

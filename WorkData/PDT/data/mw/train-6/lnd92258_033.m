@@ -142,7 +142,7 @@
 <LM>w#w-lnd92258-033-p1s1w16</LM>
 </w.rf>
 <form>jedná</form>
-<tag lemma="jednat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="jednat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92258-033-p1s1w17">
 <src.rf>manual</src.rf>

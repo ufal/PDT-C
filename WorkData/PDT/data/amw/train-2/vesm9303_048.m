@@ -1097,7 +1097,7 @@
 <LM>w#w-vesm9303-048-p5s2w4</LM>
 </w.rf>
 <form>pracuje</form>
-<tag lemma="pracovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="pracovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9303-048-p5s2w5">
 <src.rf>manual</src.rf>

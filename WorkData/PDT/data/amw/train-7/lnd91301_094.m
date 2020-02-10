@@ -211,7 +211,7 @@
 <LM>w#w-lnd91301-094-p3s1w19</LM>
 </w.rf>
 <form>hraje</form>
-<tag lemma="hrát" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="hrát" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd91301-094-p3s1w20">
 <src.rf>manual</src.rf>
@@ -555,7 +555,7 @@
 <LM>w#w-lnd91301-094-p3s2w27</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd91301-094-p3s2w28">
 <src.rf>manual</src.rf>
@@ -677,7 +677,7 @@
 <LM>w#w-lnd91301-094-p3s3Aw6</LM>
 </w.rf>
 <form>klesnout</form>
-<tag lemma="klesnout_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="klesnout" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd91301-094-p3s3Aw7">
 <src.rf>manual</src.rf>

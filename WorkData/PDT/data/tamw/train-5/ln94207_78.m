@@ -27,7 +27,7 @@
 <LM>w#w-ln94207-78-p1s1w2</LM>
 </w.rf>
 <form>nemine</form>
-<tag lemma="minout" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="minout" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-ln94207-78-p1s1w3">
 <src.rf>manual</src.rf>
@@ -125,7 +125,7 @@
 <LM>w#w-ln94207-78-p1s2w4</LM>
 </w.rf>
 <form>hovoří</form>
-<tag lemma="hovořit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="hovořit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-78-p1s2w5">
 <src.rf>manual</src.rf>
@@ -401,7 +401,7 @@
 <LM>w#w-ln94207-78-p1s4w11</LM>
 </w.rf>
 <form>zmizí</form>
-<tag lemma="zmizet" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zmizet" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94207-78-p1s4w12">
 <src.rf>manual</src.rf>

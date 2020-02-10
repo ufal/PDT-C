@@ -312,7 +312,7 @@
 <LM>w#w-mf920924-001-p5s2w1</LM>
 </w.rf>
 <form>Očekáváme</form>
-<tag lemma="očekávat_:T" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="očekávat" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-mf920924-001-p5s2w2">
 <src.rf>manual</src.rf>
@@ -418,7 +418,7 @@
 <LM>w#w-mf920924-001-p5s3w1</LM>
 </w.rf>
 <form>Nabízíme</form>
-<tag lemma="nabízet_:T" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="nabízet" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-mf920924-001-p5s3w2">
 <src.rf>manual</src.rf>
@@ -622,7 +622,7 @@
 <LM>w#w-mf920924-001-p6s2w1</LM>
 </w.rf>
 <form>Očekáváme</form>
-<tag lemma="očekávat_:T" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="očekávat" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-mf920924-001-p6s2w2">
 <src.rf>manual</src.rf>
@@ -696,7 +696,7 @@
 <LM>w#w-mf920924-001-p6s3w1</LM>
 </w.rf>
 <form>Nabízíme</form>
-<tag lemma="nabízet_:T" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="nabízet" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-mf920924-001-p6s3w2">
 <src.rf>manual</src.rf>

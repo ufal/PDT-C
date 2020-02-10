@@ -484,7 +484,7 @@
 <LM>w#w-lnd91301-092-p4s3w4</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd91301-092-p4s3w5">
 <src.rf>manual</src.rf>
@@ -927,7 +927,7 @@
 <LM>w#w-lnd91301-092-p4s5w3</LM>
 </w.rf>
 <form>vede</form>
-<tag lemma="vést" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vést" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd91301-092-p4s5w4">
 <src.rf>manual</src.rf>
@@ -1072,7 +1072,7 @@
 <LM>w#w-lnd91301-092-p4s5w20</LM>
 </w.rf>
 <form>nehovoří</form>
-<tag lemma="hovořit_:T" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="hovořit" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 <m id="m-lnd91301-092-p4s5w21">
 <src.rf>manual</src.rf>

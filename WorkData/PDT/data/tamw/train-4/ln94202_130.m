@@ -1699,7 +1699,7 @@
 <LM>w#w-ln94202-130-p5s2w4</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94202-130-p5s2w5">
 <src.rf>manual</src.rf>
@@ -1805,7 +1805,7 @@
 <LM>w#w-ln94202-130-p5s3w8</LM>
 </w.rf>
 <form>být</form>
-<tag lemma="být" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="být" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94202-130-p5s3w9">
 <src.rf>manual</src.rf>
@@ -1907,7 +1907,7 @@
 <LM>w#w-ln94202-130-p5s3w20</LM>
 </w.rf>
 <form>nezajímají</form>
-<tag lemma="zajímat_:T" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="zajímat" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 <m id="m-ln94202-130-p5s3w21">
 <src.rf>manual</src.rf>
@@ -2183,7 +2183,7 @@
 <LM>w#w-ln94202-130-p5s5w14</LM>
 </w.rf>
 <form>nepodávat</form>
-<tag lemma="podávat_:T_^(něco_[někomu]_[někam])_(*4at)" src="orig" selected="1">Vf--------N----</tag>
+<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="orig" selected="1">Vf--------N-I--</tag>
 </m>
 <m id="m-ln94202-130-p5s5w15">
 <src.rf>manual</src.rf>

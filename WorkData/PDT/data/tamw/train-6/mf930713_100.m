@@ -337,7 +337,7 @@
 <LM>w#w-mf930713-100-p2s2w12</LM>
 </w.rf>
 <form>chytá</form>
-<tag lemma="chytat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="chytat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930713-100-p2s2w13">
 <src.rf>manual</src.rf>

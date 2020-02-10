@@ -239,7 +239,7 @@
 <LM>w#w-mf920922-001-p1s3w4</LM>
 </w.rf>
 <form>zmizet</form>
-<tag lemma="zmizet" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zmizet" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920922-001-p1s3w5">
 <src.rf>manual</src.rf>
@@ -514,7 +514,7 @@
 <LM>w#w-mf920922-001-p1s7Aw1</LM>
 </w.rf>
 <form>Jedná</form>
-<tag lemma="jednat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="jednat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920922-001-p1s7Aw2">
 <src.rf>manual</src.rf>
@@ -897,7 +897,7 @@
 <LM>w#w-mf920922-001-p1s9w12</LM>
 </w.rf>
 <form>odnést</form>
-<tag lemma="odnést" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="odnést" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920922-001-p1s9w13">
 <src.rf>manual</src.rf>

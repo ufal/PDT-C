@@ -27,7 +27,7 @@
 <LM>w#w-ln94201-43-p1s1w2</LM>
 </w.rf>
 <form>opustí</form>
-<tag lemma="opustit_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="opustit" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-ln94201-43-p1s1w3">
 <src.rf>manual</src.rf>
@@ -472,7 +472,7 @@
 <LM>w#w-ln94201-43-p2s3w9</LM>
 </w.rf>
 <form>dochází</form>
-<tag lemma="docházet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="docházet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94201-43-p2s3w10">
 <src.rf>manual</src.rf>
@@ -528,7 +528,7 @@
 <LM>w#w-ln94201-43-p2s3w16</LM>
 </w.rf>
 <form>dohodnout</form>
-<tag lemma="dohodnout_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="dohodnout" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94201-43-p2s3w17">
 <src.rf>manual</src.rf>
@@ -570,7 +570,7 @@
 <LM>w#w-ln94201-43-p2s4w4</LM>
 </w.rf>
 <form>odvolají</form>
-<tag lemma="odvolat_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="odvolat" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-ln94201-43-p2s4w5">
 <src.rf>manual</src.rf>

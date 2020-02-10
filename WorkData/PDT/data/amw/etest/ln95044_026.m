@@ -159,7 +159,7 @@
 <LM>w#w-ln95044-026-p2s1Bw11</LM>
 </w.rf>
 <form>budou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3F-AAI--</tag>
 </m>
 <m id="m-ln95044-026-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -167,7 +167,7 @@
 <LM>w#w-ln95044-026-p2s1Bw12</LM>
 </w.rf>
 <form>zastavovat</form>
-<tag lemma="zastavovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zastavovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95044-026-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -257,7 +257,7 @@
 <LM>w#w-ln95044-026-p2s2w3</LM>
 </w.rf>
 <form>nebude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-NAI--</tag>
 </m>
 <m id="m-ln95044-026-p2s2w4">
 <src.rf>manual</src.rf>

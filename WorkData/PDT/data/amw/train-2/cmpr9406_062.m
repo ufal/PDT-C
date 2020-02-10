@@ -167,7 +167,7 @@
 <LM>w#w-cmpr9406-062-p3s1Bw2</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9406-062-p3s1Bw3">
 <src.rf>manual</src.rf>
@@ -242,7 +242,7 @@
 <LM>w#w-cmpr9406-062-p3s1Bw11</LM>
 </w.rf>
 <form>osvědčuje</form>
-<tag lemma="osvědčovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="osvědčovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9406-062-p3s1Bw12">
 <src.rf>manual</src.rf>

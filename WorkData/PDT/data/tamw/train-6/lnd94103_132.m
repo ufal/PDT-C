@@ -19,7 +19,7 @@
 <LM>w#w-lnd94103-132-p1s1w1</LM>
 </w.rf>
 <form>Bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-lnd94103-132-p1s1w2">
 <src.rf>manual</src.rf>
@@ -27,7 +27,7 @@
 <LM>w#w-lnd94103-132-p1s1w2</LM>
 </w.rf>
 <form>vát</form>
-<tag lemma="vát" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vát" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd94103-132-p1s1w3">
 <src.rf>manual</src.rf>

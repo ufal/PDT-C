@@ -35,7 +35,7 @@
 <LM>w#w-ln94203-31-p1s1w3</LM>
 </w.rf>
 <form>zajistí</form>
-<tag lemma="zajistit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zajistit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94203-31-p1s1w4">
 <src.rf>manual</src.rf>

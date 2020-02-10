@@ -403,7 +403,7 @@
 <LM>w#w-lnd92257-004-p2s3w8</LM>
 </w.rf>
 <form>evakuovat</form>
-<tag lemma="evakuovat_:T_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="evakuovat" src="orig" selected="1">Vf--------A-B--</tag>
 </m>
 <m id="m-lnd92257-004-p2s3w9">
 <src.rf>manual</src.rf>

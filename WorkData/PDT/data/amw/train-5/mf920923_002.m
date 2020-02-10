@@ -647,7 +647,7 @@
 <LM>w#w-mf920923-002-p2s6w9</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-mf920923-002-p2s6w10">
 <src.rf>manual</src.rf>

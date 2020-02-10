@@ -157,7 +157,7 @@
 <LM>w#w-mf920922-069-p2s1w14</LM>
 </w.rf>
 <form>vede</form>
-<tag lemma="vést" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vést" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920922-069-p2s1w15">
 <src.rf>manual</src.rf>

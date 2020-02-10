@@ -38,7 +38,7 @@
 <LM>w#w-mf930703-012-p1s1w3</LM>
 </w.rf>
 <form>hledá</form>
-<tag lemma="hledat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="hledat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930703-012-p1s1w4">
 <src.rf>manual</src.rf>
@@ -139,7 +139,7 @@
 <LM>w#w-mf930703-012-p2s1w10</LM>
 </w.rf>
 <form>hledá</form>
-<tag lemma="hledat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="hledat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930703-012-p2s1w11">
 <src.rf>manual</src.rf>
@@ -307,8 +307,8 @@
 </w.rf>
 <form>zašlete</form>
 <tag>
-<AM lemma="zaslat" src="orig">VB-P---2P-AA---</AM>
-<AM lemma="zaslat_:W" src="manual" selected="1">VB-P---2P-AA---</AM>
+<AM lemma="zaslat" src="orig">VB-P---2P-AAP--</AM>
+<AM lemma="zaslat" src="manual" selected="1">VB-P---2P-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930703-012-p2s3w5">
@@ -471,7 +471,7 @@
 <LM>w#w-mf930703-012-p2s4w2</LM>
 </w.rf>
 <form>označte</form>
-<tag lemma="označit_:W" src="orig" selected="1">Vi-P---2--A----</tag>
+<tag lemma="označit" src="orig" selected="1">Vi-P---2--A-P--</tag>
 </m>
 <m id="m-mf930703-012-p2s4w3">
 <src.rf>manual</src.rf>

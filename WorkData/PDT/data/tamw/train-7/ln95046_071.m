@@ -178,7 +178,7 @@
 <LM>w#w-ln95046-071-p2s1Bw13</LM>
 </w.rf>
 <form>neobstojí</form>
-<tag lemma="obstát" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="obstát" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-ln95046-071-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -343,7 +343,7 @@
 <LM>w#w-ln95046-071-p2s2w8</LM>
 </w.rf>
 <form>považuje</form>
-<tag lemma="považovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="považovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95046-071-p2s2w9">
 <src.rf>manual</src.rf>
@@ -664,8 +664,8 @@
 </w.rf>
 <form>nestavějí</form>
 <tag>
-<AM lemma="stavět" src="auto">VB-P---3P-NA---</AM>
-<AM lemma="stavět_:T" src="manual" selected="1">VB-P---3P-NA---</AM>
+<AM lemma="stavět" src="auto">VB-P---3P-NAI--</AM>
+<AM lemma="stavět" src="manual" selected="1">VB-P---3P-NAI--</AM>
 </tag>
 </m>
 <m id="m-ln95046-071-p2s3w9">
@@ -744,7 +744,7 @@
 <LM>w#w-ln95046-071-p2s3w17</LM>
 </w.rf>
 <form>požadují</form>
-<tag lemma="požadovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="požadovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95046-071-p2s3w18">
 <src.rf>manual</src.rf>
@@ -826,7 +826,7 @@
 <LM>w#w-ln95046-071-p2s4w1</LM>
 </w.rf>
 <form>Je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95046-071-p2s4w2">
 <src.rf>manual</src.rf>
@@ -914,7 +914,7 @@
 <LM>w#w-ln95046-071-p2s4w12</LM>
 </w.rf>
 <form>žádá</form>
-<tag lemma="žádat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="žádat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95046-071-p2s4w13">
 <src.rf>manual</src.rf>
@@ -970,7 +970,7 @@
 <LM>w#w-ln95046-071-p2s4w19</LM>
 </w.rf>
 <form>odmítá</form>
-<tag lemma="odmítat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="odmítat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95046-071-p2s4w20">
 <src.rf>manual</src.rf>

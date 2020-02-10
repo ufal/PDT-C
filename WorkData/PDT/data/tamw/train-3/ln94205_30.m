@@ -443,7 +443,7 @@
 <LM>w#w-ln94205-30-p2s3w12</LM>
 </w.rf>
 <form>přesunují</form>
-<tag lemma="přesunovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="přesunovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94205-30-p2s3w13">
 <src.rf>manual</src.rf>

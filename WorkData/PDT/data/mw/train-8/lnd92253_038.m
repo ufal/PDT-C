@@ -291,7 +291,7 @@
 <LM>w#w-lnd92253-038-p1s2w2</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92253-038-p1s2w3">
 <src.rf>manual</src.rf>

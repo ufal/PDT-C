@@ -19,7 +19,7 @@
 <LM>w#w-cmpr9407-043-p2s1w1</LM>
 </w.rf>
 <form>Vychází</form>
-<tag lemma="vycházet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vycházet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9407-043-p2s1w2">
 <src.rf>manual</src.rf>
@@ -104,7 +104,7 @@
 <LM>w#w-cmpr9407-043-p3s1Aw6</LM>
 </w.rf>
 <form>jsem</form>
-<tag lemma="být" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-cmpr9407-043-p3s1Aw7">
 <src.rf>manual</src.rf>
@@ -152,7 +152,7 @@
 <LM>w#w-cmpr9407-043-p3s1Aw12</LM>
 </w.rf>
 <form>PROBUDÍM</form>
-<tag lemma="probudit_:W" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="probudit" src="orig" selected="1">VB-S---1P-AAP--</tag>
 </m>
 <m id="m-cmpr9407-043-p3s1Aw13">
 <src.rf>manual</src.rf>
@@ -168,7 +168,7 @@
 <LM>w#w-cmpr9407-043-p3s1Aw14</LM>
 </w.rf>
 <form>JE</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9407-043-p3s1Aw15">
 <src.rf>manual</src.rf>
@@ -208,7 +208,7 @@
 <LM>w#w-cmpr9407-043-p3s1Aw19</LM>
 </w.rf>
 <form>říká</form>
-<tag lemma="říkat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="říkat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9407-043-p3s1Aw20">
 <src.rf>manual</src.rf>
@@ -306,7 +306,7 @@
 <LM>w#w-cmpr9407-043-p3s1Bw8</LM>
 </w.rf>
 <form>zvrátit</form>
-<tag lemma="zvrátit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zvrátit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-cmpr9407-043-p3s1Bw9">
 <src.rf>manual</src.rf>
@@ -348,7 +348,7 @@
 <LM>w#w-cmpr9407-043-p3s2w2</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9407-043-p3s2w3">
 <src.rf>manual</src.rf>
@@ -430,7 +430,7 @@
 <LM>w#w-cmpr9407-043-p3s3Aw5</LM>
 </w.rf>
 <form>rozléhá</form>
-<tag lemma="rozléhat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="rozléhat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9407-043-p3s3Aw6">
 <src.rf>manual</src.rf>
@@ -560,7 +560,7 @@
 <LM>w#w-cmpr9407-043-p3s3Bw11</LM>
 </w.rf>
 <form>dočtete</form>
-<tag lemma="dočíst" src="orig" selected="1">VB-P---2P-AA---</tag>
+<tag lemma="dočíst" src="orig" selected="1">VB-P---2P-AAP--</tag>
 </m>
 <m id="m-cmpr9407-043-p3s3Bw12">
 <src.rf>manual</src.rf>
@@ -605,7 +605,7 @@
 <LM>w#w-cmpr9407-043-p3s3Cw1</LM>
 </w.rf>
 <form>Dokáže</form>
-<tag lemma="dokázat" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="dokázat" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-cmpr9407-043-p3s3Cw2">
 <src.rf>manual</src.rf>
@@ -629,7 +629,7 @@
 <LM>w#w-cmpr9407-043-p3s3Cw4</LM>
 </w.rf>
 <form>využít</form>
-<tag lemma="využít" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="využít" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-cmpr9407-043-p3s3Cw5">
 <src.rf>manual</src.rf>
@@ -843,7 +843,7 @@
 <LM>w#w-cmpr9407-043-p3s5Bw6</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9407-043-p3s5Bw7">
 <src.rf>manual</src.rf>
@@ -851,7 +851,7 @@
 <LM>w#w-cmpr9407-043-p3s5Bw7</LM>
 </w.rf>
 <form>být</form>
-<tag lemma="být" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="být" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-cmpr9407-043-p3s5Bw8">
 <src.rf>manual</src.rf>
@@ -891,7 +891,7 @@
 <LM>w#w-cmpr9407-043-p3s5Bw12</LM>
 </w.rf>
 <form>vypráví</form>
-<tag lemma="vyprávět_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vyprávět" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9407-043-p3s5Bw13">
 <src.rf>manual</src.rf>

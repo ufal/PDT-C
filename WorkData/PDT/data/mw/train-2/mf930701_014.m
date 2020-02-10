@@ -399,7 +399,7 @@
 <LM>w#w-mf930701-014-p2s2w10</LM>
 </w.rf>
 <form>uloupit</form>
-<tag lemma="uloupit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="uloupit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930701-014-p2s2w11">
 <src.rf>manual</src.rf>

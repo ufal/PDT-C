@@ -171,7 +171,7 @@
 <LM>w#w-mf930703-124-p1s1w20</LM>
 </w.rf>
 <form>nastražit</form>
-<tag lemma="nastražit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="nastražit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930703-124-p1s1w21">
 <src.rf>manual</src.rf>
@@ -205,7 +205,7 @@
 <LM>w#w-mf930703-124-p1s2w2</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930703-124-p1s2w3">
 <src.rf>manual</src.rf>

@@ -159,7 +159,7 @@
 <LM>w#w-mf930713-153-p2s1Bw10</LM>
 </w.rf>
 <form>vyšlou</form>
-<tag lemma="vyslat" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="vyslat" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-mf930713-153-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -294,7 +294,7 @@
 <LM>w#w-mf930713-153-p2s3w2</LM>
 </w.rf>
 <form>sdělit</form>
-<tag lemma="sdělit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="sdělit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930713-153-p2s3w3">
 <src.rf>manual</src.rf>

@@ -597,7 +597,7 @@
 <LM>w#w-mf930713-145-p2s2w31</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930713-145-p2s2w32">
 <src.rf>manual</src.rf>
@@ -631,7 +631,7 @@
 <LM>w#w-mf930713-145-p2s3w2</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930713-145-p2s3w3">
 <src.rf>manual</src.rf>
@@ -848,7 +848,7 @@
 <LM>w#w-mf930713-145-p2s5w15</LM>
 </w.rf>
 <form>utéci</form>
-<tag lemma="utéci" src="orig" selected="1">Vf--------A---1</tag>
+<tag lemma="utéci" src="orig" selected="1">Vf--------A-P-1</tag>
 </m>
 <m id="m-mf930713-145-p2s5w16">
 <src.rf>manual</src.rf>
@@ -1743,7 +1743,7 @@
 <LM>w#w-mf930713-145-p2s11w14</LM>
 </w.rf>
 <form>zjistit</form>
-<tag lemma="zjistit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zjistit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930713-145-p2s11w15">
 <src.rf>manual</src.rf>
@@ -1807,7 +1807,7 @@
 <LM>w#w-mf930713-145-p2s11w22</LM>
 </w.rf>
 <form>soustřeďují</form>
-<tag lemma="soustřeďovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="soustřeďovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930713-145-p2s11w23">
 <src.rf>manual</src.rf>
@@ -2001,7 +2001,7 @@
 <LM>w#w-mf930713-145-p2s12w20</LM>
 </w.rf>
 <form>nepřistoupí</form>
-<tag lemma="přistoupit_:W" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="přistoupit" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-mf930713-145-p2s12w21">
 <src.rf>manual</src.rf>
@@ -2049,7 +2049,7 @@
 <LM>w#w-mf930713-145-p2s12w26</LM>
 </w.rf>
 <form>použije</form>
-<tag lemma="použít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="použít" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930713-145-p2s12w27">
 <src.rf>manual</src.rf>
@@ -2624,7 +2624,7 @@
 <LM>w#w-mf930713-145-p2s15w6</LM>
 </w.rf>
 <form>ověřit</form>
-<tag lemma="ověřit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="ověřit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930713-145-p2s15w7">
 <src.rf>manual</src.rf>

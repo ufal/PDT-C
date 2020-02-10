@@ -95,7 +95,7 @@
 <LM>w#w-mf930713-121-p2s6w2</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930713-121-p2s6w3">
 <src.rf>manual</src.rf>

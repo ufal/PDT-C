@@ -284,7 +284,7 @@
 <LM>w#w-lnd92255-116-p3s2w3</LM>
 </w.rf>
 <form>nebude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-NAI--</tag>
 </m>
 <m id="m-lnd92255-116-p3s2w4">
 <src.rf>manual</src.rf>
@@ -292,7 +292,7 @@
 <LM>w#w-lnd92255-116-p3s2w4</LM>
 </w.rf>
 <form>hrát</form>
-<tag lemma="hrát" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="hrát" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd92255-116-p3s2w5">
 <src.rf>manual</src.rf>
@@ -473,7 +473,7 @@
 <LM>w#w-lnd92255-116-p3s3w12</LM>
 </w.rf>
 <form>neobjeví</form>
-<tag lemma="objevit_:W" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="objevit" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-lnd92255-116-p3s3w13">
 <src.rf>manual</src.rf>

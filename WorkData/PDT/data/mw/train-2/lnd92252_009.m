@@ -716,7 +716,7 @@
 <LM>w#w-lnd92252-009-p3s4w1</LM>
 </w.rf>
 <form>Je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92252-009-p3s4w2">
 <src.rf>manual</src.rf>
@@ -924,7 +924,7 @@
 <LM>w#w-lnd92252-009-p3s4w27</LM>
 </w.rf>
 <form>přezdívá</form>
-<tag lemma="přezdívat-2_:T_^(přejmenovat)_(*5t-2)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="přezdívat-2_^(přejmenovat)_(*5t-2)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92252-009-p3s4w28">
 <src.rf>manual</src.rf>
@@ -1006,7 +1006,7 @@
 <LM>w#w-lnd92252-009-p3s5w5</LM>
 </w.rf>
 <form>umírá</form>
-<tag lemma="umírat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="umírat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92252-009-p3s5w6">
 <src.rf>manual</src.rf>

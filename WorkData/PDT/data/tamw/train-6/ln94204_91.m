@@ -139,7 +139,7 @@
 <LM>w#w-ln94204-91-p2s1w14</LM>
 </w.rf>
 <form>bojují</form>
-<tag lemma="bojovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="bojovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94204-91-p2s1w15">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <LM>w#w-ln94204-91-p2s1w37</LM>
 </w.rf>
 <form>nepřinese</form>
-<tag lemma="přinést" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="přinést" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-ln94204-91-p2s1w38">
 <src.rf>manual</src.rf>
@@ -385,7 +385,7 @@
 <LM>w#w-ln94204-91-p2s1w44</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-ln94204-91-p2s1w45">
 <src.rf>manual</src.rf>
@@ -969,7 +969,7 @@
 <LM>w#w-ln94204-91-p4s2w5</LM>
 </w.rf>
 <form>pátrá</form>
-<tag lemma="pátrat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="pátrat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94204-91-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1003,7 +1003,7 @@
 <LM>w#w-ln94204-91-p5s1w3</LM>
 </w.rf>
 <form>ukončí</form>
-<tag lemma="ukončit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="ukončit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94204-91-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1160,7 +1160,7 @@
 <LM>w#w-ln94204-91-p5s2w13</LM>
 </w.rf>
 <form>kontroluje</form>
-<tag lemma="kontrolovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="kontrolovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94204-91-p5s2w14">
 <src.rf>manual</src.rf>
@@ -1391,7 +1391,7 @@
 <LM>w#w-ln94204-91-p6s1w12</LM>
 </w.rf>
 <form>hlásí</form>
-<tag lemma="hlásit_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="hlásit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94204-91-p6s1w13">
 <src.rf>manual</src.rf>
@@ -1710,7 +1710,7 @@
 <LM>w#w-ln94204-91-p7s1w9</LM>
 </w.rf>
 <form>usmrtit</form>
-<tag lemma="usmrtit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="usmrtit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94204-91-p7s1w10">
 <src.rf>manual</src.rf>

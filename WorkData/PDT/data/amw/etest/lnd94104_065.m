@@ -85,7 +85,7 @@
 <LM>w#w-lnd94104-065-p1s1Bw3</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-lnd94104-065-p1s1Bw4">
 <src.rf>manual</src.rf>
@@ -109,7 +109,7 @@
 <LM>w#w-lnd94104-065-p1s1Bw6</LM>
 </w.rf>
 <form>být</form>
-<tag lemma="být" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="být" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd94104-065-p1s1Bw7">
 <src.rf>manual</src.rf>
@@ -1802,7 +1802,7 @@
 <LM>w#w-lnd94104-065-p1s12w17</LM>
 </w.rf>
 <form>podepíší</form>
-<tag lemma="podepsat" src="orig" selected="1">VB-P---3P-AA--1</tag>
+<tag lemma="podepsat" src="orig" selected="1">VB-P---3P-AAP-1</tag>
 </m>
 <m id="m-lnd94104-065-p1s12w18">
 <src.rf>manual</src.rf>

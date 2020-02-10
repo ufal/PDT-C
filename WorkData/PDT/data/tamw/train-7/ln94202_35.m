@@ -362,7 +362,7 @@
 <LM>w#w-ln94202-35-p2s2w14</LM>
 </w.rf>
 <form>sdružuje</form>
-<tag lemma="sdružovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="sdružovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94202-35-p2s2w15">
 <src.rf>manual</src.rf>
@@ -551,7 +551,7 @@
 <LM>w#w-ln94202-35-p2s3w7</LM>
 </w.rf>
 <form>hospodaří</form>
-<tag lemma="hospodařit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="hospodařit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94202-35-p2s3w8">
 <src.rf>manual</src.rf>

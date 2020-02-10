@@ -59,7 +59,7 @@
 <LM>w#w-mf930701-010-p1s1w6</LM>
 </w.rf>
 <form>nebojí</form>
-<tag lemma="bát" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="bát" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 </s>
 <s id="m-mf930701-010-p2s1">
@@ -133,7 +133,7 @@
 <LM>w#w-mf930701-010-p2s1w9</LM>
 </w.rf>
 <form>obává</form>
-<tag lemma="obávat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="obávat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930701-010-p2s1w10">
 <src.rf>manual</src.rf>
@@ -213,7 +213,7 @@
 <LM>w#w-mf930701-010-p2s1w19</LM>
 </w.rf>
 <form>odříká</form>
-<tag lemma="odříkat_:T_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="odříkat" src="orig" selected="1">VB-S---3P-AAB--</tag>
 </m>
 <m id="m-mf930701-010-p2s1w20">
 <src.rf>manual</src.rf>
@@ -255,7 +255,7 @@
 <LM>w#w-mf930701-010-p2s2w1</LM>
 </w.rf>
 <form>Vyplývá</form>
-<tag lemma="vyplývat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vyplývat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930701-010-p2s2w2">
 <src.rf>manual</src.rf>
@@ -417,7 +417,7 @@
 <LM>w#w-mf930701-010-p2s3w12</LM>
 </w.rf>
 <form>zaměří</form>
-<tag lemma="zaměřit_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="zaměřit" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-mf930701-010-p2s3w13">
 <src.rf>manual</src.rf>
@@ -457,7 +457,7 @@
 <LM>w#w-mf930701-010-p2s3w17</LM>
 </w.rf>
 <form>připraví</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="připravit" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-mf930701-010-p2s3w18">
 <src.rf>manual</src.rf>
@@ -833,7 +833,7 @@
 <LM>w#w-mf930701-010-p3s2w8</LM>
 </w.rf>
 <form>tvrdí</form>
-<tag lemma="tvrdit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="tvrdit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930701-010-p3s2w9">
 <src.rf>manual</src.rf>
@@ -1221,7 +1221,7 @@
 <LM>w#w-mf930701-010-p3s4w6</LM>
 </w.rf>
 <form>nepociťují</form>
-<tag lemma="pociťovat_:T" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="pociťovat" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 <m id="m-mf930701-010-p3s4w7">
 <src.rf>manual</src.rf>

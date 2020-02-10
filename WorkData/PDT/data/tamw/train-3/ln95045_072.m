@@ -53,7 +53,7 @@
 <LM>w#w-ln95045-072-p2s1w4</LM>
 </w.rf>
 <form>donutit</form>
-<tag lemma="donutit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="donutit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95045-072-p2s1w5">
 <src.rf>manual</src.rf>
@@ -904,7 +904,7 @@
 <LM>w#w-ln95045-072-p4s3w9</LM>
 </w.rf>
 <form>zahladit</form>
-<tag lemma="zahladit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zahladit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95045-072-p4s3w10">
 <src.rf>manual</src.rf>

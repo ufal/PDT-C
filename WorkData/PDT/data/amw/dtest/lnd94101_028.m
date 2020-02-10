@@ -19,7 +19,7 @@
 <LM>w#w-lnd94101-028-p1s1Aw1</LM>
 </w.rf>
 <form>Staňte</form>
-<tag lemma="stanout_^(např._na_vrcholu)" src="orig" selected="1">Vi-P---2--A----</tag>
+<tag lemma="stanout_^(např._na_vrcholu)" src="orig" selected="1">Vi-P---2--A-P--</tag>
 </m>
 <m id="m-lnd94101-028-p1s1Aw2">
 <src.rf>manual</src.rf>
@@ -279,7 +279,7 @@
 <LM>w#w-lnd94101-028-p1s2w18</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-lnd94101-028-p1s2w19">
 <src.rf>manual</src.rf>
@@ -377,7 +377,7 @@
 <LM>w#w-lnd94101-028-p1s3w2</LM>
 </w.rf>
 <form>odletí</form>
-<tag lemma="odletět" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="odletět" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd94101-028-p1s3w3">
 <src.rf>manual</src.rf>
@@ -545,7 +545,7 @@
 <LM>w#w-lnd94101-028-p1s3w23</LM>
 </w.rf>
 <form>odcizit</form>
-<tag lemma="odcizit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="odcizit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd94101-028-p1s3w24">
 <src.rf>manual</src.rf>
@@ -563,7 +563,7 @@
 <LM>w#w-lnd94101-028-p1s4w1</LM>
 </w.rf>
 <form>Půjde</form>
-<tag lemma="jít" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="jít" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-lnd94101-028-p1s4w2">
 <src.rf>manual</src.rf>

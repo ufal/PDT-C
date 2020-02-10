@@ -35,7 +35,7 @@
 <LM>w#w-lnd94103-138-p1s1w3</LM>
 </w.rf>
 <form>oblékne</form>
-<tag lemma="obléknout_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="obléknout" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd94103-138-p1s1w4">
 <src.rf>manual</src.rf>

@@ -701,7 +701,7 @@
 <LM>w#w-ln94200-162-p2s3w15</LM>
 </w.rf>
 <form>prosadit</form>
-<tag lemma="prosadit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="prosadit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94200-162-p2s3w16">
 <src.rf>manual</src.rf>
@@ -858,7 +858,7 @@
 <LM>w#w-ln94200-162-p2s4w10</LM>
 </w.rf>
 <form>napravit</form>
-<tag lemma="napravit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="napravit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94200-162-p2s4w11">
 <src.rf>manual</src.rf>
@@ -1776,8 +1776,8 @@
 </w.rf>
 <form>dojet</form>
 <tag>
-<AM lemma="dojet" src="orig">Vf--------A----</AM>
-<AM lemma="dojet_:W" src="manual" selected="1">Vf--------A----</AM>
+<AM lemma="dojet" src="orig">Vf--------A-P--</AM>
+<AM lemma="dojet" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m-ln94200-162-p3s4w7">
@@ -2448,7 +2448,7 @@
 <LM>w#w-ln94200-162-p5s1w9</LM>
 </w.rf>
 <form>jsem</form>
-<tag lemma="být" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-ln94200-162-p5s1w10">
 <src.rf>manual</src.rf>
@@ -2490,7 +2490,7 @@
 <LM>w#w-ln94200-162-p5s2w1</LM>
 </w.rf>
 <form>Jsem</form>
-<tag lemma="být" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-ln94200-162-p5s2w2">
 <src.rf>manual</src.rf>
@@ -2538,7 +2538,7 @@
 <LM>w#w-ln94200-162-p5s2w7</LM>
 </w.rf>
 <form>jsem</form>
-<tag lemma="být" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-ln94200-162-p5s2w8">
 <src.rf>manual</src.rf>
@@ -2658,7 +2658,7 @@
 <LM>w#w-ln94200-162-p5s3w6</LM>
 </w.rf>
 <form>jsem</form>
-<tag lemma="být" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-ln94200-162-p5s3w7">
 <src.rf>manual</src.rf>
@@ -2698,7 +2698,7 @@
 <LM>w#w-ln94200-162-p5s3w11</LM>
 </w.rf>
 <form>jsem</form>
-<tag lemma="být" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-ln94200-162-p5s3w12">
 <src.rf>manual</src.rf>
@@ -3145,7 +3145,7 @@
 <LM>w#w-ln94200-162-p5s7w14</LM>
 </w.rf>
 <form>znamená</form>
-<tag lemma="znamenat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="znamenat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94200-162-p5s7w15">
 <src.rf>manual</src.rf>

@@ -91,7 +91,7 @@
 <LM>w#w-lnd92252-057-p1s1Aw10</LM>
 </w.rf>
 <form>nechoďte</form>
-<tag lemma="chodit_:T" src="orig" selected="1">Vi-P---2--N----</tag>
+<tag lemma="chodit" src="orig" selected="1">Vi-P---2--N-I--</tag>
 </m>
 <m id="m-lnd92252-057-p1s1Aw11">
 <src.rf>manual</src.rf>
@@ -115,7 +115,7 @@
 <LM>w#w-lnd92252-057-p1s1Aw13</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92252-057-p1s1Aw14">
 <src.rf>manual</src.rf>

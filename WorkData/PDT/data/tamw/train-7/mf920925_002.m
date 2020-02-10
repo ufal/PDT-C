@@ -173,7 +173,7 @@
 <LM>w#w-mf920925-002-p1s2w5</LM>
 </w.rf>
 <form>pracuje</form>
-<tag lemma="pracovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="pracovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-002-p1s2w6">
 <src.rf>manual</src.rf>
@@ -321,7 +321,7 @@
 <LM>w#w-mf920925-002-p1s4w6</LM>
 </w.rf>
 <form>píšeme</form>
-<tag lemma="psát" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="psát" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-mf920925-002-p1s4w7">
 <src.rf>manual</src.rf>

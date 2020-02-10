@@ -437,7 +437,7 @@
 <LM>w#w-lnd94103-045-p1s5w13</LM>
 </w.rf>
 <form>podpořit</form>
-<tag lemma="podpořit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="podpořit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd94103-045-p1s5w14">
 <src.rf>manual</src.rf>

@@ -199,7 +199,7 @@
 <LM>w#w-ln95041-045-p2s2w6</LM>
 </w.rf>
 <form>zahrnuje</form>
-<tag lemma="zahrnovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zahrnovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95041-045-p2s2w7">
 <src.rf>manual</src.rf>
@@ -385,7 +385,7 @@
 <LM>w#w-ln95041-045-p2s3w3</LM>
 </w.rf>
 <form>evokuje</form>
-<tag lemma="evokovat_:T_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="evokovat" src="orig" selected="1">VB-S---3P-AAB--</tag>
 </m>
 <m id="m-ln95041-045-p2s3w4">
 <src.rf>manual</src.rf>
@@ -449,7 +449,7 @@
 <LM>w#w-ln95041-045-p2s3w11</LM>
 </w.rf>
 <form>líčí</form>
-<tag lemma="líčit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="líčit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95041-045-p2s3w12">
 <src.rf>manual</src.rf>

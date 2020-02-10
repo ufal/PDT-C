@@ -124,7 +124,7 @@
 <LM>w#w-id61485-x62-4182</LM>
 </w.rf>
 <form>nosit</form>
-<tag lemma="nosit_:T" src="auto" recommended="1">Vf--------A----</tag>
+<tag lemma="nosit" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="m713-id63431-7">
 <w.rf>
@@ -158,7 +158,7 @@
 <LM>w#w-id63431-11</LM>
 </w.rf>
 <form>jsem</form>
-<tag lemma="být" src="auto" recommended="1">VB-S---1P-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m713-id63431-12">
 <w.rf>
@@ -275,7 +275,7 @@
 <LM>w#w-id63431-22</LM>
 </w.rf>
 <form>dívat</form>
-<tag lemma="dívat_:T" src="auto" recommended="1">Vf--------A----</tag>
+<tag lemma="dívat" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="m713-d-id129677">
 <w.rf>
@@ -306,7 +306,7 @@
 <LM>w#w-id63431-25</LM>
 </w.rf>
 <form>dýchám</form>
-<tag lemma="dýchat_:T" src="auto" recommended="1">VB-S---1P-AA---</tag>
+<tag lemma="dýchat" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m713-4185-4409">
 <w.rf>

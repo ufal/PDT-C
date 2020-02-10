@@ -477,7 +477,7 @@
 <LM>w#w-ln95049-112-p2s4w4</LM>
 </w.rf>
 <form>začínají</form>
-<tag lemma="začínat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="začínat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95049-112-p2s4w5">
 <src.rf>manual</src.rf>
@@ -533,7 +533,7 @@
 <LM>w#w-ln95049-112-p2s4w11</LM>
 </w.rf>
 <form>sehrají</form>
-<tag lemma="sehrát" src="orig" selected="1">VB-P---3P-AA--1</tag>
+<tag lemma="sehrát" src="orig" selected="1">VB-P---3P-AAP-1</tag>
 </m>
 <m id="m-ln95049-112-p2s4w12">
 <src.rf>manual</src.rf>
@@ -631,7 +631,7 @@
 <LM>w#w-ln95049-112-p2s5w8</LM>
 </w.rf>
 <form>zapíše</form>
-<tag lemma="zapsat" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zapsat" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95049-112-p2s5w9">
 <src.rf>manual</src.rf>
@@ -705,7 +705,7 @@
 <LM>w#w-ln95049-112-p2s6w8</LM>
 </w.rf>
 <form>mění</form>
-<tag lemma="měnit_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="měnit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95049-112-p2s6w9">
 <src.rf>manual</src.rf>
@@ -747,7 +747,7 @@
 <LM>w#w-ln95049-112-p2s7w1</LM>
 </w.rf>
 <form>Zvítězí</form>
-<tag lemma="zvítězit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zvítězit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95049-112-p2s7w2">
 <src.rf>manual</src.rf>
@@ -803,7 +803,7 @@
 <LM>w#w-ln95049-112-p2s7w8</LM>
 </w.rf>
 <form>vyhraje</form>
-<tag lemma="vyhrát" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vyhrát" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95049-112-p2s7w9">
 <src.rf>manual</src.rf>

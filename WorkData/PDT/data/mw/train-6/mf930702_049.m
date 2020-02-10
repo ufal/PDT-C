@@ -243,7 +243,7 @@
 <LM>w#w-mf930702-049-p5s1w10</LM>
 </w.rf>
 <form>upěchovat</form>
-<tag lemma="upěchovat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="upěchovat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 </s>
 </mdata>

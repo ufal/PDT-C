@@ -298,7 +298,7 @@
 <LM>w#w-ln95049-046-p2s1Bw28</LM>
 </w.rf>
 <form>podrobit</form>
-<tag lemma="podrobit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="podrobit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95049-046-p2s1Bw29">
 <src.rf>manual</src.rf>

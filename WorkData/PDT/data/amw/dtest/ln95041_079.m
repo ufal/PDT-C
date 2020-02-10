@@ -82,8 +82,8 @@
 </w.rf>
 <form>pozvat</form>
 <tag>
-<AM lemma="pozvat" src="orig">Vf--------A----</AM>
-<AM lemma="pozvat_:W" src="manual" selected="1">Vf--------A----</AM>
+<AM lemma="pozvat" src="orig">Vf--------A-P--</AM>
+<AM lemma="pozvat" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 </s>
@@ -128,7 +128,7 @@
 <LM>w#w-ln95041-079-p2s1Bw3</LM>
 </w.rf>
 <form>domnívají</form>
-<tag lemma="domnívat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="domnívat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95041-079-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -152,7 +152,7 @@
 <LM>w#w-ln95041-079-p2s1Bw6</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95041-079-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -331,8 +331,8 @@
 </w.rf>
 <form>Chce</form>
 <tag>
-<AM lemma="chtít" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="chtít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="chtít" src="orig">VB-S---3P-AAI--</AM>
+<AM lemma="chtít" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln95041-079-p2s2w2">
@@ -376,7 +376,7 @@
 <LM>w#w-ln95041-079-p2s2w6</LM>
 </w.rf>
 <form>vstoupit</form>
-<tag lemma="vstoupit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vstoupit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95041-079-p2s2w7">
 <src.rf>manual</src.rf>
@@ -446,7 +446,7 @@
 <LM>w#w-ln95041-079-p2s2w14</LM>
 </w.rf>
 <form>musí</form>
-<tag lemma="muset" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="muset" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95041-079-p2s2w15">
 <src.rf>manual</src.rf>
@@ -470,7 +470,7 @@
 <LM>w#w-ln95041-079-p2s2w17</LM>
 </w.rf>
 <form>přistupovat</form>
-<tag lemma="přistupovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="přistupovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95041-079-p2s2w18">
 <src.rf>manual</src.rf>
@@ -518,7 +518,7 @@
 <LM>w#w-ln95041-079-p2s2w23</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95041-079-p2s2w24">
 <src.rf>manual</src.rf>
@@ -665,7 +665,7 @@
 <LM>w#w-ln95041-079-p2s3w3</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-ln95041-079-p2s3w4">
 <src.rf>manual</src.rf>
@@ -721,7 +721,7 @@
 <LM>w#w-ln95041-079-p2s3w10</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-ln95041-079-p2s3w11">
 <src.rf>manual</src.rf>
@@ -777,7 +777,7 @@
 <LM>w#w-ln95041-079-p2s3w17</LM>
 </w.rf>
 <form>učinit</form>
-<tag lemma="učinit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="učinit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95041-079-p2s3w18">
 <src.rf>manual</src.rf>
@@ -917,7 +917,7 @@
 <LM>w#w-ln95041-079-p2s3w34</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95041-079-p2s3w35">
 <src.rf>manual</src.rf>
@@ -1021,7 +1021,7 @@
 <LM>w#w-ln95041-079-p2s3w47</LM>
 </w.rf>
 <form>garantuje</form>
-<tag lemma="garantovat_:T_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="garantovat" src="orig" selected="1">VB-S---3P-AAB--</tag>
 </m>
 <m id="m-ln95041-079-p2s3w48">
 <src.rf>manual</src.rf>
@@ -1094,8 +1094,8 @@
 </w.rf>
 <form>nevzejde</form>
 <tag>
-<AM lemma="vzejít" src="orig">VB-S---3P-NA---</AM>
-<AM lemma="vzejít_:W" src="manual" selected="1">VB-S---3P-NA---</AM>
+<AM lemma="vzejít" src="orig">VB-S---3P-NAP--</AM>
+<AM lemma="vzejít" src="manual" selected="1">VB-S---3P-NAP--</AM>
 </tag>
 </m>
 <m id="m-ln95041-079-p2s3w57">

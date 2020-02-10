@@ -351,7 +351,7 @@
 <LM>w#w-mf920901-058-p3s1w9</LM>
 </w.rf>
 <form>zbývají</form>
-<tag lemma="zbývat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="zbývat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920901-058-p3s1w10">
 <src.rf>manual</src.rf>
@@ -1391,7 +1391,7 @@
 <LM>w#w-mf920901-058-p6s1w5</LM>
 </w.rf>
 <form>nekoná</form>
-<tag lemma="konat_:T" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="konat" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-mf920901-058-p6s1w6">
 <src.rf>manual</src.rf>

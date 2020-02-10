@@ -1279,7 +1279,7 @@
 <LM>w#w-ln95041-031-p4s2w6</LM>
 </w.rf>
 <form>mají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95041-031-p4s2w7">
 <src.rf>manual</src.rf>

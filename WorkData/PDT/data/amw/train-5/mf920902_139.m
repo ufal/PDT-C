@@ -46,7 +46,7 @@
 <LM>w#w-mf920902-139-p1s1w4</LM>
 </w.rf>
 <form>trvají</form>
-<tag lemma="trvat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="trvat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920902-139-p1s1w5">
 <src.rf>manual</src.rf>
@@ -143,7 +143,7 @@
 <LM>w#w-mf920902-139-p2s1w7</LM>
 </w.rf>
 <form>NEJSOU</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 </s>
 <s id="m-mf920902-139-p3s1">
@@ -886,7 +886,7 @@
 <LM>w#w-mf920902-139-p4s2w11</LM>
 </w.rf>
 <form>odvrátit</form>
-<tag lemma="odvrátit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="odvrátit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920902-139-p4s2w12">
 <src.rf>manual</src.rf>

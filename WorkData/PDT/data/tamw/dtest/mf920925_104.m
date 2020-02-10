@@ -112,7 +112,7 @@
 <LM>w#w-mf920925-104-p1s1Bw5</LM>
 </w.rf>
 <form>JE</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-104-p1s1Bw6">
 <src.rf>manual</src.rf>
@@ -385,7 +385,7 @@
 <LM>w#w-mf920925-104-p2s2w27</LM>
 </w.rf>
 <form>jmenuje</form>
-<tag lemma="jmenovat_:T_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="jmenovat" src="orig" selected="1">VB-S---3P-AAB--</tag>
 </m>
 <m id="m-mf920925-104-p2s2w28">
 <src.rf>manual</src.rf>
@@ -425,7 +425,7 @@
 <LM>w#w-mf920925-104-p2s2w32</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-104-p2s2w33">
 <src.rf>manual</src.rf>
@@ -547,7 +547,7 @@
 <LM>w#w-mf920925-104-p3s1w11</LM>
 </w.rf>
 <form>informují</form>
-<tag lemma="informovat_:T_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="informovat" src="orig" selected="1">VB-P---3P-AAB--</tag>
 </m>
 <m id="m-mf920925-104-p3s1w12">
 <src.rf>manual</src.rf>
@@ -564,8 +564,8 @@
 </w.rf>
 <form>píší</form>
 <tag>
-<AM lemma="psát" src="orig">VB-P---3P-AA--1</AM>
-<AM lemma="psát_:T" src="manual" selected="1">VB-P---3P-AA--1</AM>
+<AM lemma="psát" src="orig">VB-P---3P-AAI-1</AM>
+<AM lemma="psát" src="manual" selected="1">VB-P---3P-AAI-1</AM>
 </tag>
 </m>
 <m id="m-mf920925-104-p3s1w14">
@@ -641,7 +641,7 @@
 <LM>w#w-mf920925-104-p3s1w22</LM>
 </w.rf>
 <form>uvádějí</form>
-<tag lemma="uvádět_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="uvádět" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-104-p3s1w23">
 <src.rf>manual</src.rf>
@@ -681,7 +681,7 @@
 <LM>w#w-mf920925-104-p3s1w27</LM>
 </w.rf>
 <form>připomíná</form>
-<tag lemma="připomínat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="připomínat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-104-p3s1w28">
 <src.rf>manual</src.rf>

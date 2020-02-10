@@ -436,7 +436,7 @@
 <LM>w#w-ln95049-007-p3s2w3</LM>
 </w.rf>
 <form>předpovídá</form>
-<tag lemma="předpovídat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="předpovídat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95049-007-p3s2w4">
 <src.rf>manual</src.rf>
@@ -556,7 +556,7 @@
 <LM>w#w-ln95049-007-p3s2w18</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-ln95049-007-p3s2w19">
 <src.rf>manual</src.rf>
@@ -580,7 +580,7 @@
 <LM>w#w-ln95049-007-p3s2w21</LM>
 </w.rf>
 <form>pohybovat</form>
-<tag lemma="pohybovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="pohybovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95049-007-p3s2w22">
 <src.rf>manual</src.rf>

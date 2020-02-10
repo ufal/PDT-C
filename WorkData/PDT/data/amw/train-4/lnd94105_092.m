@@ -19,7 +19,7 @@
 <LM>w#w-lnd94105-092-p1s1w1</LM>
 </w.rf>
 <form>Zůstane</form>
-<tag lemma="zůstat" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zůstat" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd94105-092-p1s1w2">
 <src.rf>manual</src.rf>

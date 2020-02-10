@@ -259,7 +259,7 @@
 <LM>w#w-mf920901-036-p1s1w31</LM>
 </w.rf>
 <form>spěje</form>
-<tag lemma="spět" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="spět" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920901-036-p1s1w32">
 <src.rf>manual</src.rf>
@@ -451,7 +451,7 @@
 <LM>w#w-mf920901-036-p1s3w10</LM>
 </w.rf>
 <form>nachází</form>
-<tag lemma="nacházet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="nacházet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920901-036-p1s3w11">
 <src.rf>manual</src.rf>
@@ -722,7 +722,7 @@
 <LM>w#w-mf920901-036-p1s5w19</LM>
 </w.rf>
 <form>zajistit</form>
-<tag lemma="zajistit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zajistit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920901-036-p1s5w20">
 <src.rf>manual</src.rf>

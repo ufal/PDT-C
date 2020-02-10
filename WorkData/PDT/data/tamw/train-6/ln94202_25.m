@@ -595,7 +595,7 @@
 <LM>w#w-ln94202-25-p2s2w32</LM>
 </w.rf>
 <form>derou</form>
-<tag lemma="drát-2" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="drát-2" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94202-25-p2s2w33">
 <src.rf>manual</src.rf>

@@ -27,7 +27,7 @@
 <LM>w#w-cmpr9415-054-p2s1w2</LM>
 </w.rf>
 <form>zaplatí</form>
-<tag lemma="zaplatit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zaplatit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-cmpr9415-054-p2s1w3">
 <src.rf>manual</src.rf>

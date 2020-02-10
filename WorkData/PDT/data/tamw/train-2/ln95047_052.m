@@ -338,7 +338,7 @@
 <LM>w#w-ln95047-052-p2s3w2</LM>
 </w.rf>
 <form>obsahují</form>
-<tag lemma="obsahovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="obsahovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95047-052-p2s3w3">
 <src.rf>manual</src.rf>

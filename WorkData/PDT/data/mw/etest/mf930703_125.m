@@ -765,7 +765,7 @@
 <LM>w#w-mf930703-125-p3s1w7</LM>
 </w.rf>
 <form>vyhnout</form>
-<tag lemma="vyhnout" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vyhnout" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930703-125-p3s1w8">
 <src.rf>manual</src.rf>
@@ -845,7 +845,7 @@
 <LM>w#w-mf930703-125-p3s1w17</LM>
 </w.rf>
 <form>vyplývá</form>
-<tag lemma="vyplývat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vyplývat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930703-125-p3s1w18">
 <src.rf>manual</src.rf>
@@ -925,7 +925,7 @@
 <LM>w#w-mf930703-125-p3s1w27</LM>
 </w.rf>
 <form>znají</form>
-<tag lemma="znát" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="znát" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930703-125-p3s1w28">
 <src.rf>manual</src.rf>
@@ -1005,7 +1005,7 @@
 <LM>w#w-mf930703-125-p3s1w37</LM>
 </w.rf>
 <form>dorozumí</form>
-<tag lemma="dorozumět-1_:W_^(domluvit_se,_komunikovat)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="dorozumět-1_^(domluvit_se,_komunikovat)" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930703-125-p3s1w38">
 <src.rf>manual</src.rf>

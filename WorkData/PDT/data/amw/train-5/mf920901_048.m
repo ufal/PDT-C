@@ -606,7 +606,7 @@
 <LM>w#w-mf920901-048-p3s4w4</LM>
 </w.rf>
 <form>odváží</form>
-<tag lemma="odvážet_:T_^(něco_někam_např._autem)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="odvážet_^(něco_někam_např._autem)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920901-048-p3s4w5">
 <src.rf>manual</src.rf>

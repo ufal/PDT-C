@@ -230,7 +230,7 @@
 <LM>w#w-lnd92257-001-p2s2w5</LM>
 </w.rf>
 <form>běží</form>
-<tag lemma="běžet" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="běžet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92257-001-p2s2w6">
 <src.rf>manual</src.rf>
@@ -310,7 +310,7 @@
 <LM>w#w-lnd92257-001-p2s2w15</LM>
 </w.rf>
 <form>dopadnou</form>
-<tag lemma="dopadnout_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="dopadnout" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-lnd92257-001-p2s2w16">
 <src.rf>manual</src.rf>
@@ -630,7 +630,7 @@
 <LM>w#w-lnd92257-001-p2s3w24</LM>
 </w.rf>
 <form>nechystá</form>
-<tag lemma="chystat_:T" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="chystat" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 </s>
 </mdata>

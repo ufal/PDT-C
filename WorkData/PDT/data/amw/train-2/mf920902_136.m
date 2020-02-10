@@ -213,7 +213,7 @@
 <LM>w#w-mf920902-136-p1s2w2</LM>
 </w.rf>
 <form>hloubí</form>
-<tag lemma="hloubit_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="hloubit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920902-136-p1s2w3">
 <src.rf>manual</src.rf>
@@ -245,7 +245,7 @@
 <LM>w#w-mf920902-136-p1s2w6</LM>
 </w.rf>
 <form>mají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920902-136-p1s2w7">
 <src.rf>manual</src.rf>

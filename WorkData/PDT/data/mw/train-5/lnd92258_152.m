@@ -79,7 +79,7 @@
 <LM>w#w-lnd92258-152-p2s2w3</LM>
 </w.rf>
 <form>pociťuje</form>
-<tag lemma="pociťovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="pociťovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92258-152-p2s2w4">
 <src.rf>manual</src.rf>
@@ -140,7 +140,7 @@
 <LM>w#w-lnd92258-152-p2s3w1</LM>
 </w.rf>
 <form>Vyplývá</form>
-<tag lemma="vyplývat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vyplývat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92258-152-p2s3w2">
 <src.rf>manual</src.rf>
@@ -526,7 +526,7 @@
 <LM>w#w-lnd92258-152-p2s5w9</LM>
 </w.rf>
 <form>domnívá</form>
-<tag lemma="domnívat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="domnívat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92258-152-p2s5w10">
 <src.rf>manual</src.rf>
@@ -574,7 +574,7 @@
 <LM>w#w-lnd92258-152-p2s5w15</LM>
 </w.rf>
 <form>udrží</form>
-<tag lemma="udržet" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="udržet" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd92258-152-p2s5w16">
 <src.rf>manual</src.rf>
@@ -606,7 +606,7 @@
 <LM>w#w-lnd92258-152-p2s5w19</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92258-152-p2s5w20">
 <src.rf>manual</src.rf>
@@ -745,7 +745,7 @@
 <LM>w#w-lnd92258-152-p2s5w36</LM>
 </w.rf>
 <form>očekává</form>
-<tag lemma="očekávat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="očekávat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92258-152-p2s5w37">
 <src.rf>manual</src.rf>
@@ -793,7 +793,7 @@
 <LM>w#w-lnd92258-152-p2s5w42</LM>
 </w.rf>
 <form>pracují</form>
-<tag lemma="pracovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="pracovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92258-152-p2s5w43">
 <src.rf>manual</src.rf>
@@ -841,7 +841,7 @@
 <LM>w#w-lnd92258-152-p2s5w48</LM>
 </w.rf>
 <form>zanikne</form>
-<tag lemma="zaniknout_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zaniknout" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd92258-152-p2s5w49">
 <src.rf>manual</src.rf>
@@ -867,7 +867,7 @@
 <LM>w#w-lnd92258-152-p2s6w2</LM>
 </w.rf>
 <form>pociťují</form>
-<tag lemma="pociťovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="pociťovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92258-152-p2s6w3">
 <src.rf>manual</src.rf>

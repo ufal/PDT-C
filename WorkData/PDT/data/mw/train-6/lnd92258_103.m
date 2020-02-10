@@ -90,7 +90,7 @@
 <LM>w#w-lnd92258-103-p3s1w1</LM>
 </w.rf>
 <form>Je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92258-103-p3s1w2">
 <src.rf>manual</src.rf>
@@ -308,7 +308,7 @@
 <LM>w#w-lnd92258-103-p3s3w1</LM>
 </w.rf>
 <form>Posíláme</form>
-<tag lemma="posílat_:T" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="posílat" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-lnd92258-103-p3s3w2">
 <src.rf>manual</src.rf>

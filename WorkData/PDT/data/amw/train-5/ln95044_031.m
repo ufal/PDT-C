@@ -457,7 +457,7 @@
 <LM>w#w-ln95044-031-p3s1w4</LM>
 </w.rf>
 <form>odříct</form>
-<tag lemma="odříci" src="orig" selected="1">Vf--------A---1</tag>
+<tag lemma="odříci" src="orig" selected="1">Vf--------A-P-1</tag>
 </m>
 <m id="m-ln95044-031-p3s1w5">
 <src.rf>manual</src.rf>
@@ -555,7 +555,7 @@
 <LM>w#w-ln95044-031-p3s2w4</LM>
 </w.rf>
 <form>neobhájí</form>
-<tag lemma="obhájit_:W" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="obhájit" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-ln95044-031-p3s2w5">
 <src.rf>manual</src.rf>

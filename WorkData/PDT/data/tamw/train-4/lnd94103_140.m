@@ -735,7 +735,7 @@
 <LM>w#w-lnd94103-140-p1s5w8</LM>
 </w.rf>
 <form>opřít</form>
-<tag lemma="opřít" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="opřít" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd94103-140-p1s5w9">
 <src.rf>manual</src.rf>
@@ -887,8 +887,8 @@
 </w.rf>
 <form>zná</form>
 <tag>
-<AM lemma="znát" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="znát_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="znát" src="orig">VB-S---3P-AAI--</AM>
+<AM lemma="znát" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-lnd94103-140-p1s5w27">
@@ -1118,7 +1118,7 @@
 <LM>w#w-lnd94103-140-p1s6w17</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-lnd94103-140-p1s6w18">
 <src.rf>manual</src.rf>

@@ -145,7 +145,7 @@
 <LM>w#w-ln95040-076-p1s2w3</LM>
 </w.rf>
 <form>dostat</form>
-<tag lemma="dostat" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="dostat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95040-076-p1s2w4">
 <src.rf>manual</src.rf>

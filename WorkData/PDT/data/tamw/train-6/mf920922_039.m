@@ -366,7 +366,7 @@
 <LM>w#w-mf920922-039-p2s4w6</LM>
 </w.rf>
 <form>identifikovat</form>
-<tag lemma="identifikovat_:T_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="identifikovat" src="orig" selected="1">Vf--------A-B--</tag>
 </m>
 <m id="m-mf920922-039-p2s4w7">
 <src.rf>manual</src.rf>

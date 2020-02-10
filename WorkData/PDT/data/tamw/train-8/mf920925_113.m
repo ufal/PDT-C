@@ -27,7 +27,7 @@
 <LM>w#w-mf920925-113-p1s1w2</LM>
 </w.rf>
 <form>Nebojím</form>
-<tag lemma="bát" src="orig" selected="1">VB-S---1P-NA---</tag>
+<tag lemma="bát" src="orig" selected="1">VB-S---1P-NAI--</tag>
 </m>
 <m id="m-mf920925-113-p1s1w3">
 <src.rf>manual</src.rf>
@@ -91,7 +91,7 @@
 <LM>w#w-mf920925-113-p1s1w10</LM>
 </w.rf>
 <form>říká</form>
-<tag lemma="říkat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="říkat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-113-p1s1w11">
 <src.rf>manual</src.rf>

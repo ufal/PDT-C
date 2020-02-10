@@ -51,7 +51,7 @@
 <LM>w#w-ln95047-009-p1s1w5</LM>
 </w.rf>
 <form>nemají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 <m id="m-ln95047-009-p1s1w6">
 <src.rf>manual</src.rf>
@@ -237,7 +237,7 @@
 <LM>w#w-ln95047-009-p2s1w20</LM>
 </w.rf>
 <form>nemají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 <m id="m-ln95047-009-p2s1w21">
 <src.rf>manual</src.rf>
@@ -452,7 +452,7 @@
 <LM>w#w-ln95047-009-p2s3w7</LM>
 </w.rf>
 <form>definuje</form>
-<tag lemma="definovat_:T_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="definovat" src="orig" selected="1">VB-S---3P-AAB--</tag>
 </m>
 <m id="m-ln95047-009-p2s3w8">
 <src.rf>manual</src.rf>
@@ -862,7 +862,7 @@
 <LM>w#w-ln95047-009-p2s4w4</LM>
 </w.rf>
 <form>nehovoří</form>
-<tag lemma="hovořit_:T" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="hovořit" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln95047-009-p2s4w5">
 <src.rf>manual</src.rf>
@@ -1544,7 +1544,7 @@
 <LM>w#w-ln95047-009-p3s3w15</LM>
 </w.rf>
 <form>nebudou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3F-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3F-NAI--</tag>
 </m>
 <m id="m-ln95047-009-p3s3w16">
 <src.rf>manual</src.rf>
@@ -1634,7 +1634,7 @@
 <LM>w#w-ln95047-009-p4s1w5</LM>
 </w.rf>
 <form>ztrácejí</form>
-<tag lemma="ztrácet_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="ztrácet" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95047-009-p4s1w6">
 <src.rf>manual</src.rf>
@@ -1762,7 +1762,7 @@
 <LM>w#w-ln95047-009-p4s1w21</LM>
 </w.rf>
 <form>získat</form>
-<tag lemma="získat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="získat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95047-009-p4s1w22">
 <src.rf>manual</src.rf>
@@ -1900,8 +1900,8 @@
 </w.rf>
 <form>nevědí</form>
 <tag>
-<AM lemma="vědět" src="auto">VB-P---3P-NA---</AM>
-<AM lemma="vědět_:T" src="manual" selected="1">VB-P---3P-NA---</AM>
+<AM lemma="vědět" src="auto">VB-P---3P-NAI--</AM>
+<AM lemma="vědět" src="manual" selected="1">VB-P---3P-NAI--</AM>
 </tag>
 </m>
 <m id="m-ln95047-009-p5s1w8">
@@ -2004,7 +2004,7 @@
 <tag>
 <AM lemma="tábor" src="orig">NNIS6-----A----</AM>
 <AM lemma="tábor-1" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
-<AM lemma="tábořit_:T" src="auto">VeYS------A----</AM>
+<AM lemma="tábořit" src="auto">VeYS------A-I--</AM>
 </tag>
 </m>
 <m id="m-ln95047-009-p5s1w20">
@@ -2053,7 +2053,7 @@
 <LM>w#w-ln95047-009-p5s1w25</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-ln95047-009-p5s1w26">
 <src.rf>manual</src.rf>
@@ -2119,7 +2119,7 @@
 <LM>w#w-ln95047-009-p5s2w4</LM>
 </w.rf>
 <form>pamatuje</form>
-<tag lemma="pamatovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="pamatovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95047-009-p5s2w5">
 <src.rf>manual</src.rf>
@@ -2162,7 +2162,7 @@
 <tag>
 <AM lemma="tábor" src="orig">NNIS6-----A----</AM>
 <AM lemma="tábor-1" src="auto" recommended="1" selected="1">NNIS6-----A---1</AM>
-<AM lemma="tábořit_:T" src="auto">VeYS------A----</AM>
+<AM lemma="tábořit" src="auto">VeYS------A-I--</AM>
 </tag>
 </m>
 <m id="m-ln95047-009-p5s2w10">
@@ -2519,7 +2519,7 @@
 <LM>w#w-ln95047-009-p5s5w9</LM>
 </w.rf>
 <form>odhadnout</form>
-<tag lemma="odhadnout_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="odhadnout" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95047-009-p5s5w10">
 <src.rf>manual</src.rf>
@@ -2528,8 +2528,8 @@
 </w.rf>
 <form>nedokáže</form>
 <tag>
-<AM lemma="dokázat" src="orig">VB-S---3P-NA---</AM>
-<AM lemma="dokázat_:W" src="manual" selected="1">VB-S---3P-NA---</AM>
+<AM lemma="dokázat" src="orig">VB-S---3P-NAP--</AM>
+<AM lemma="dokázat" src="manual" selected="1">VB-S---3P-NAP--</AM>
 </tag>
 </m>
 <m id="m-ln95047-009-p5s5w11">

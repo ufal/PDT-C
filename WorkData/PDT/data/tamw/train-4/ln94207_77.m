@@ -302,7 +302,7 @@
 <LM>w#w-ln94207-77-p1s2w5</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-77-p1s2w6">
 <src.rf>manual</src.rf>
@@ -343,8 +343,8 @@
 </w.rf>
 <form>vystavět</form>
 <tag>
-<AM lemma="vystavět" src="auto">Vf--------A----</AM>
-<AM lemma="vystavět_:W" src="manual" selected="1">Vf--------A----</AM>
+<AM lemma="vystavět" src="auto">Vf--------A-P--</AM>
+<AM lemma="vystavět" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m-ln94207-77-p1s2w11">

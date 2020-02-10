@@ -428,7 +428,7 @@
 <LM>w#w-cmpr9415-010-p8s1w12</LM>
 </w.rf>
 <form>počínaje</form>
-<tag lemma="počínat_:T" src="orig" selected="1">VeYS------A----</tag>
+<tag lemma="počínat" src="orig" selected="1">VeYS------A-I--</tag>
 </m>
 <m id="m-cmpr9415-010-p8s1w13">
 <src.rf>manual</src.rf>
@@ -505,7 +505,7 @@
 <LM>w#w-cmpr9415-010-p9s1w5</LM>
 </w.rf>
 <form>leží</form>
-<tag lemma="ležet" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="ležet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9415-010-p9s1w6">
 <src.rf>manual</src.rf>
@@ -714,8 +714,8 @@
 </w.rf>
 <form>má</form>
 <tag>
-<AM lemma="mít" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="mít" src="orig">VB-S---3P-AAI--</AM>
+<AM lemma="mít" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-010-p9s2w9">
@@ -775,7 +775,7 @@
 <LM>w#w-cmpr9415-010-p9s3w4</LM>
 </w.rf>
 <form>patří</form>
-<tag lemma="patřit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="patřit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9415-010-p9s3w5">
 <src.rf>manual</src.rf>
@@ -993,7 +993,7 @@
 <LM>w#w-cmpr9415-010-p9s5w3</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9415-010-p9s5w4">
 <src.rf>manual</src.rf>
@@ -1091,7 +1091,7 @@
 <LM>w#w-cmpr9415-010-p9s6w3</LM>
 </w.rf>
 <form>patří</form>
-<tag lemma="patřit_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="patřit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9415-010-p9s6w4">
 <src.rf>manual</src.rf>
@@ -1264,8 +1264,8 @@
 </w.rf>
 <form>mají</form>
 <tag>
-<AM lemma="mít" src="orig">VB-P---3P-AA---</AM>
-<AM lemma="mít_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+<AM lemma="mít" src="orig">VB-P---3P-AAI--</AM>
+<AM lemma="mít" src="manual" selected="1">VB-P---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-010-p9s8Aw3">
@@ -1391,7 +1391,7 @@
 <LM>w#w-cmpr9415-010-p9s8Bw2</LM>
 </w.rf>
 <form>sestává</form>
-<tag lemma="sestávat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="sestávat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9415-010-p9s8Bw3">
 <src.rf>manual</src.rf>

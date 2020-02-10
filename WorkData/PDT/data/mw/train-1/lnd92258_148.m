@@ -27,7 +27,7 @@
 <LM>w#w-lnd92258-148-p1s1w2</LM>
 </w.rf>
 <form>ZŮSTÁVÁ</form>
-<tag lemma="zůstávat_:T_^(*4at)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zůstávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 </s>
 <s id="m-lnd92258-148-p2s1">
@@ -140,7 +140,7 @@
 <LM>w#w-lnd92258-148-p3s2w9</LM>
 </w.rf>
 <form>zůstává</form>
-<tag lemma="zůstávat_:T_^(*4at)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zůstávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92258-148-p3s2w10">
 <src.rf>manual</src.rf>
@@ -631,8 +631,8 @@
 </w.rf>
 <form>trpí</form>
 <tag>
-<AM lemma="trpět" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="trpět_:T" src="manual" selected="1">VB-P---3P-AA---</AM>
+<AM lemma="trpět" src="orig">VB-S---3P-AAI--</AM>
+<AM lemma="trpět" src="manual" selected="1">VB-P---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-lnd92258-148-p3s4w12">
@@ -673,7 +673,7 @@
 <LM>w#w-lnd92258-148-p3s4w16</LM>
 </w.rf>
 <form>zbývá</form>
-<tag lemma="zbývat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zbývat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92258-148-p3s4w17">
 <src.rf>manual</src.rf>

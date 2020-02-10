@@ -43,7 +43,7 @@
 <LM>w#w-lnd94104-001-p1s1w4</LM>
 </w.rf>
 <form>udělám</form>
-<tag lemma="udělat_:W" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="udělat" src="orig" selected="1">VB-S---1P-AAP--</tag>
 </m>
 <m id="m-lnd94104-001-p1s1w5">
 <src.rf>manual</src.rf>
@@ -67,7 +67,7 @@
 <LM>w#w-lnd94104-001-p1s1w7</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-lnd94104-001-p1s1w8">
 <src.rf>manual</src.rf>
@@ -131,7 +131,7 @@
 <LM>w#w-lnd94104-001-p1s1w15</LM>
 </w.rf>
 <form>jsem</form>
-<tag lemma="být" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-lnd94104-001-p1s1w16">
 <src.rf>manual</src.rf>

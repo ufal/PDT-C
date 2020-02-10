@@ -338,7 +338,7 @@
 <LM>w#w-lnd92251-016-p2s3w3</LM>
 </w.rf>
 <form>konají</form>
-<tag lemma="konat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="konat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92251-016-p2s3w4">
 <src.rf>manual</src.rf>
@@ -362,7 +362,7 @@
 <LM>w#w-lnd92251-016-p2s3w6</LM>
 </w.rf>
 <form>diskutuje</form>
-<tag lemma="diskutovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="diskutovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92251-016-p2s3w7">
 <src.rf>manual</src.rf>

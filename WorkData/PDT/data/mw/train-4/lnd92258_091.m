@@ -448,7 +448,7 @@
 <LM>w#w-lnd92258-091-p2s3w25</LM>
 </w.rf>
 <form>vrátit</form>
-<tag lemma="vrátit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vrátit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92258-091-p2s3w26">
 <src.rf>manual</src.rf>

@@ -531,7 +531,7 @@
 <LM>w#w-lnd92258-087-p3s5w5</LM>
 </w.rf>
 <form>zabývá</form>
-<tag lemma="zabývat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zabývat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92258-087-p3s5w6">
 <src.rf>manual</src.rf>
@@ -587,7 +587,7 @@
 <LM>w#w-lnd92258-087-p3s5w12</LM>
 </w.rf>
 <form>platí</form>
-<tag lemma="platit_:T" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="platit" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92258-087-p3s5w13">
 <src.rf>manual</src.rf>
@@ -709,7 +709,7 @@
 <LM>w#w-lnd92258-087-p3s6w4</LM>
 </w.rf>
 <form>čítá</form>
-<tag lemma="čítat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="čítat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92258-087-p3s6w5">
 <src.rf>manual</src.rf>

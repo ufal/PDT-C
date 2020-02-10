@@ -165,7 +165,7 @@
 <LM>w#w-lnd92259-041-p1s2w6</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92259-041-p1s2w7">
 <src.rf>manual</src.rf>
@@ -367,7 +367,7 @@
 <LM>w#w-lnd92259-041-p1s3w9</LM>
 </w.rf>
 <form>zveřejníme</form>
-<tag lemma="zveřejnit_:W" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="zveřejnit" src="orig" selected="1">VB-P---1P-AAP--</tag>
 </m>
 <m id="m-lnd92259-041-p1s3w10">
 <src.rf>manual</src.rf>

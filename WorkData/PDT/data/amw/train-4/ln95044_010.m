@@ -31,7 +31,7 @@
 <LM>w#w-ln95044-010-p1s1w2</LM>
 </w.rf>
 <form>sjednává</form>
-<tag lemma="sjednávat_:T_^(*4at)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="sjednávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95044-010-p1s1w3">
 <src.rf>manual</src.rf>
@@ -155,7 +155,7 @@
 <LM>w#w-ln95044-010-p2s1Bw11</LM>
 </w.rf>
 <form>sjednávat</form>
-<tag lemma="sjednávat_:T_^(*4at)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="sjednávat_^(*4at)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95044-010-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -333,7 +333,7 @@
 <LM>w#w-ln95044-010-p3s1w4</LM>
 </w.rf>
 <form>slouží</form>
-<tag lemma="sloužit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="sloužit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95044-010-p3s1w5">
 <src.rf>manual</src.rf>

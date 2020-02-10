@@ -445,7 +445,7 @@
 <LM>w#w-mf930701-134-p2s2w17</LM>
 </w.rf>
 <form>přihlásí</form>
-<tag lemma="přihlásit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="přihlásit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930701-134-p2s2w18">
 <src.rf>manual</src.rf>
@@ -630,7 +630,7 @@
 <LM>w#w-mf930701-134-p2s3w16</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-mf930701-134-p2s3w17">
 <src.rf>manual</src.rf>

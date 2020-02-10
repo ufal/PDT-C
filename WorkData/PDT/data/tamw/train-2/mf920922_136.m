@@ -99,7 +99,7 @@
 <LM>w#w-mf920922-136-p1s1w11</LM>
 </w.rf>
 <form>NEMÁ</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-mf920922-136-p1s1w12">
 <src.rf>manual</src.rf>

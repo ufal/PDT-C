@@ -253,7 +253,7 @@
 <LM>w#w-ln95043-074-p1s2w3</LM>
 </w.rf>
 <form>slaví</form>
-<tag lemma="slavit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="slavit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95043-074-p1s2w4">
 <src.rf>manual</src.rf>

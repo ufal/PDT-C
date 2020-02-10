@@ -665,7 +665,7 @@
 <LM>w#w-ln95046-052-p3s2w12</LM>
 </w.rf>
 <form>podněcuje</form>
-<tag lemma="podněcovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="podněcovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95046-052-p3s2w13">
 <src.rf>manual</src.rf>
@@ -1440,7 +1440,7 @@
 <LM>w#w-ln95046-052-p4s2w2</LM>
 </w.rf>
 <form>neskrývá</form>
-<tag lemma="skrývat_:T" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="skrývat" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln95046-052-p4s2w3">
 <src.rf>manual</src.rf>
@@ -1480,7 +1480,7 @@
 <LM>w#w-ln95046-052-p4s2w7</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95046-052-p4s2w8">
 <src.rf>manual</src.rf>

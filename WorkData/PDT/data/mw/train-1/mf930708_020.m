@@ -59,7 +59,7 @@
 <LM>w#w-mf930708-020-p1s1w6</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-020-p1s1w7">
 <src.rf>manual</src.rf>
@@ -123,7 +123,7 @@
 <LM>w#w-mf930708-020-p1s1w15</LM>
 </w.rf>
 <form>vyměňovat</form>
-<tag lemma="vyměňovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vyměňovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf930708-020-p1s1w16">
 <src.rf>manual</src.rf>

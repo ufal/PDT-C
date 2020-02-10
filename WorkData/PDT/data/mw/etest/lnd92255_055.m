@@ -201,7 +201,7 @@
 <LM>w#w-lnd92255-055-p3s2w16</LM>
 </w.rf>
 <form>vyslovit</form>
-<tag lemma="vyslovit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vyslovit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92255-055-p3s2w17">
 <src.rf>manual</src.rf>

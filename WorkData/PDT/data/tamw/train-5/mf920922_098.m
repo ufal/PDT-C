@@ -333,7 +333,7 @@
 <LM>w#w-mf920922-098-p1s2w30</LM>
 </w.rf>
 <form>převážet</form>
-<tag lemma="převážet_:T_^(něco_někam_např._autem)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="převážet_^(něco_někam_např._autem)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf920922-098-p1s2w31">
 <src.rf>manual</src.rf>
@@ -485,7 +485,7 @@
 <LM>w#w-mf920922-098-p1s3w1</LM>
 </w.rf>
 <form>Je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920922-098-p1s3w2">
 <src.rf>manual</src.rf>

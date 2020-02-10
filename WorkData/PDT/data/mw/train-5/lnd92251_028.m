@@ -626,7 +626,7 @@
 <LM>w#w-lnd92251-028-p3s3w11</LM>
 </w.rf>
 <form>usmrtit</form>
-<tag lemma="usmrtit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="usmrtit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92251-028-p3s3w12">
 <src.rf>manual</src.rf>
@@ -1067,7 +1067,7 @@
 <LM>w#w-lnd92251-028-p3s4w30</LM>
 </w.rf>
 <form>zastřelit</form>
-<tag lemma="zastřelit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zastřelit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92251-028-p3s4w31">
 <src.rf>manual</src.rf>
@@ -1464,7 +1464,7 @@
 <LM>w#w-lnd92251-028-p3s6w25</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92251-028-p3s6w26">
 <src.rf>manual</src.rf>

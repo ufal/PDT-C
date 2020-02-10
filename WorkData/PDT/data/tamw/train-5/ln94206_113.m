@@ -259,7 +259,7 @@
 <LM>w#w-ln94206-113-p3s1w13</LM>
 </w.rf>
 <form>neuskuteční</form>
-<tag lemma="uskutečnit_:W" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="uskutečnit" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-ln94206-113-p3s1w14">
 <src.rf>manual</src.rf>

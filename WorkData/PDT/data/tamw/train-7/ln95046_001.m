@@ -37,7 +37,7 @@
 <LM>w#w-ln95046-001-p2s1w2</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-ln95046-001-p2s1w3">
 <src.rf>manual</src.rf>
@@ -95,7 +95,7 @@
 <form>stát</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">Vf--------A----</AM>
-<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">Vf--------A----</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m-ln95046-001-p2s1w10">
@@ -182,7 +182,7 @@
 <LM>w#w-ln95046-001-p2s2w4</LM>
 </w.rf>
 <form>znamená</form>
-<tag lemma="znamenat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="znamenat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95046-001-p2s2w5">
 <src.rf>manual</src.rf>
@@ -558,7 +558,7 @@
 <form>vydá</form>
 <tag>
 <AM lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="vydat_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="vydat" src="manual" selected="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95046-001-p4s1w5">
@@ -623,7 +623,7 @@
 <LM>w#w-ln95046-001-p4s1w12</LM>
 </w.rf>
 <form>budou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3F-AAI--</tag>
 </m>
 <m id="m-ln95046-001-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1097,7 +1097,7 @@
 <LM>w#w-ln95046-001-p6s2w4</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95046-001-p6s2w5">
 <src.rf>manual</src.rf>
@@ -1166,7 +1166,7 @@
 <form>by</form>
 <tag>
 <AM lemma="by_,t_^(např._stand_by)" src="orig">TT-------------</AM>
-<AM lemma="být" src="auto" recommended="1">Vc-------------</AM>
+<AM lemma="být" src="auto" recommended="1">Vc----------I--</AM>
 <AM lemma="by-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

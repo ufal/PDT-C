@@ -27,7 +27,7 @@
 <LM>w#w-mf920923-134-p1s1w2</LM>
 </w.rf>
 <form>KVETE</form>
-<tag lemma="kvést" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="kvést" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920923-134-p1s1w3">
 <src.rf>manual</src.rf>
@@ -317,7 +317,7 @@
 <LM>w#w-mf920923-134-p2s2w2</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920923-134-p2s2w3">
 <src.rf>manual</src.rf>
@@ -333,7 +333,7 @@
 <LM>w#w-mf920923-134-p2s2w4</LM>
 </w.rf>
 <form>vyčlenit</form>
-<tag lemma="vyčlenit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vyčlenit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920923-134-p2s2w5">
 <src.rf>manual</src.rf>

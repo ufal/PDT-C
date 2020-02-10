@@ -27,7 +27,7 @@
 <LM>w#w-lnd94105-101-p1s1w2</LM>
 </w.rf>
 <form>jste</form>
-<tag lemma="být" src="orig" selected="1">VB-P---2P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m-lnd94105-101-p1s1w3">
 <src.rf>manual</src.rf>

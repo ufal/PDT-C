@@ -403,7 +403,7 @@
 <LM>w#w-ln95040-101-p2s4w5</LM>
 </w.rf>
 <form>odcizit</form>
-<tag lemma="odcizit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="odcizit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95040-101-p2s4w6">
 <src.rf>manual</src.rf>

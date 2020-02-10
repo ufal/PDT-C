@@ -61,7 +61,7 @@
 <LM>w#w-lnd94104-095-p1s1w6</LM>
 </w.rf>
 <form>pokračují</form>
-<tag lemma="pokračovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="pokračovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd94104-095-p1s1w7">
 <src.rf>manual</src.rf>
@@ -283,7 +283,7 @@
 <LM>w#w-lnd94104-095-p1s4w6</LM>
 </w.rf>
 <form>uspět</form>
-<tag lemma="uspět" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="uspět" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd94104-095-p1s4w7">
 <src.rf>manual</src.rf>
@@ -817,7 +817,7 @@
 <LM>w#w-lnd94104-095-p1s6w16</LM>
 </w.rf>
 <form>pokračuje</form>
-<tag lemma="pokračovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="pokračovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94104-095-p1s6w17">
 <src.rf>manual</src.rf>
@@ -907,7 +907,7 @@
 <LM>w#w-lnd94104-095-p1s7w5</LM>
 </w.rf>
 <form>zaskočit</form>
-<tag lemma="zaskočit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zaskočit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd94104-095-p1s7w6">
 <src.rf>manual</src.rf>
@@ -1080,7 +1080,7 @@
 <LM>w#w-lnd94104-095-p1s8w8</LM>
 </w.rf>
 <form>vyrovnat</form>
-<tag lemma="vyrovnat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vyrovnat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd94104-095-p1s8w9">
 <src.rf>manual</src.rf>

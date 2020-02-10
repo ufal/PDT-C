@@ -27,7 +27,7 @@
 <LM>w#w-cmpr9413-027-p3s1w2</LM>
 </w.rf>
 <form>Nezapomeňte</form>
-<tag lemma="zapomenout" src="orig" selected="1">Vi-P---2--N----</tag>
+<tag lemma="zapomenout" src="orig" selected="1">Vi-P---2--N-P--</tag>
 </m>
 <m id="m-cmpr9413-027-p3s1w3">
 <src.rf>manual</src.rf>
@@ -93,7 +93,7 @@
 <LM>w#w-cmpr9413-027-p5s1w7</LM>
 </w.rf>
 <form>platí</form>
-<tag lemma="platit_:T" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="platit" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9413-027-p5s1w8">
 <src.rf>manual</src.rf>
@@ -250,7 +250,7 @@
 <LM>w#w-cmpr9413-027-p6s1w16</LM>
 </w.rf>
 <form>nepřekročí</form>
-<tag lemma="překročit_:W" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="překročit" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-cmpr9413-027-p6s1w17">
 <src.rf>manual</src.rf>
@@ -410,7 +410,7 @@
 <LM>w#w-cmpr9413-027-p6s1w35</LM>
 </w.rf>
 <form>nepřekročí</form>
-<tag lemma="překročit_:W" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="překročit" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-cmpr9413-027-p6s1w36">
 <src.rf>manual</src.rf>
@@ -455,7 +455,7 @@
 <LM>w#w-cmpr9413-027-p6s1w40</LM>
 </w.rf>
 <form>nepřesáhne</form>
-<tag lemma="přesáhnout" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="přesáhnout" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-cmpr9413-027-p6s1w41">
 <src.rf>manual</src.rf>
@@ -625,7 +625,7 @@
 <LM>w#w-cmpr9413-027-p9s1w4</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9413-027-p9s1w5">
 <src.rf>manual</src.rf>

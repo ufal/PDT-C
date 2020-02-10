@@ -68,8 +68,8 @@
 </w.rf>
 <form>nechat</form>
 <tag>
-<AM lemma="nechat_:T" src="orig">Vf--------A----</AM>
-<AM lemma="nechat_:W" src="manual" selected="1">Vf--------A----</AM>
+<AM lemma="nechat" src="orig">Vf--------A-I--</AM>
+<AM lemma="nechat" src="manual" selected="1">Vf--------A-I--</AM>
 </tag>
 </m>
 <m id="m-ln95048-065-p1s1w8">
@@ -102,7 +102,7 @@
 <LM>w#w-ln95048-065-p1s1w11</LM>
 </w.rf>
 <form>vytetovat</form>
-<tag lemma="vytetovat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vytetovat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95048-065-p1s1w12">
 <src.rf>manual</src.rf>

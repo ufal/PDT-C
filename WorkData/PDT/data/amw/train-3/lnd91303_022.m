@@ -150,7 +150,7 @@
 <LM>w#w-lnd91303-022-p1s1w17</LM>
 </w.rf>
 <form>promění</form>
-<tag lemma="proměnit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="proměnit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd91303-022-p1s1w18">
 <src.rf>manual</src.rf>
@@ -328,7 +328,7 @@
 <LM>w#w-lnd91303-022-p1s2w11</LM>
 </w.rf>
 <form>přibude</form>
-<tag lemma="přibýt" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="přibýt" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd91303-022-p1s2w12">
 <src.rf>manual</src.rf>
@@ -392,7 +392,7 @@
 <LM>w#w-lnd91303-022-p1s2w19</LM>
 </w.rf>
 <form>počítá</form>
-<tag lemma="počítat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="počítat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd91303-022-p1s2w20">
 <src.rf>manual</src.rf>

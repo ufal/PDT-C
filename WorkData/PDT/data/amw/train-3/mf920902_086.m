@@ -92,7 +92,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>doplňujeme</form>
-<tag lemma="doplňovat_:T" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="doplňovat" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-mf920902-086-p1s1Bw8">
 <src.rf>manual</src.rf>
@@ -212,7 +212,7 @@
 <LM>w#w-mf920902-086-p1s1Bw22</LM>
 </w.rf>
 <form>jsme</form>
-<tag lemma="být" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-mf920902-086-p1s1Bw23">
 <src.rf>manual</src.rf>

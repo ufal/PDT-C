@@ -160,7 +160,7 @@
 <LM>w#w-mf920901-091-p2s1w14</LM>
 </w.rf>
 <form>vystoupí</form>
-<tag lemma="vystoupit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vystoupit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf920901-091-p2s1w15">
 <src.rf>manual</src.rf>

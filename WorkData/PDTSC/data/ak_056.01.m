@@ -166,7 +166,7 @@
 <LM>w#w-d1t311-8</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_:T_^(*3t)" src="auto" recommended="1">VB-S---3P-AA---</tag>
+<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m056-153-154">
 <w.rf>
@@ -193,7 +193,7 @@
 <LM>w#w-d1t313-1</LM>
 </w.rf>
 <form>vytahují</form>
-<tag lemma="vytahovat_:T" src="auto" recommended="1">VB-P---3P-AA---</tag>
+<tag lemma="vytahovat" src="auto" recommended="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m056-d1t313-3">
 <w.rf>
@@ -233,7 +233,7 @@
 </w.rf>
 <form>je</form>
 <tag>
-<AM lemma="být" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="být" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPXP4--3-------</AM>
 </tag>
@@ -309,7 +309,7 @@
 <LM>w#w-d1t325-3</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="auto" recommended="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m056-d1t325-4">
 <w.rf>
@@ -375,7 +375,7 @@
 </w.rf>
 <form>je</form>
 <tag>
-<AM lemma="být" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="být" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPXP4--3-------</AM>
 </tag>
@@ -431,8 +431,8 @@
 </w.rf>
 <form>vydrží</form>
 <tag>
-<AM lemma="vydržet" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="vydržet" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="vydržet" src="auto">VB-P---3P-AAP--</AM>
+<AM lemma="vydržet" src="auto" recommended="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m056-d1t345-3">
@@ -464,7 +464,7 @@
 </w.rf>
 <form>pět</form>
 <tag>
-<AM lemma="pět-2_^(zpívat)" src="auto">Vf--------A----</AM>
+<AM lemma="pět-2_^(zpívat)" src="auto">Vf--------A-I--</AM>
 <AM lemma="pět-1`5" src="auto">Cn-S1----------</AM>
 <AM lemma="pět-1`5" src="auto" recommended="1">Cn-S4----------</AM>
 <AM lemma="pět-1`5" src="auto">Cn-S5----------</AM>
@@ -546,8 +546,8 @@
 </w.rf>
 <form>ztrácí</form>
 <tag>
-<AM lemma="ztrácet_:T" src="auto">VB-P---3P-AA--1</AM>
-<AM lemma="ztrácet_:T" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="ztrácet" src="auto">VB-P---3P-AAI-1</AM>
+<AM lemma="ztrácet" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m056-d1t345-15">
@@ -578,7 +578,7 @@
 <LM>w#w-d1t345-17</LM>
 </w.rf>
 <form>nenaklade</form>
-<tag lemma="naklást" src="auto" recommended="1">VB-S---3P-NA---</tag>
+<tag lemma="naklást" src="auto" recommended="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m056-d1t345-18">
 <w.rf>
@@ -612,7 +612,7 @@
 <LM>w#w-d1t347-2</LM>
 </w.rf>
 <form>Naklade</form>
-<tag lemma="naklást" src="auto" recommended="1">VB-S---3P-AA---</tag>
+<tag lemma="naklást" src="auto" recommended="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m056-d1t347-3">
 <w.rf>
@@ -679,7 +679,7 @@
 <LM>w#w-d1t347-13</LM>
 </w.rf>
 <form>vysvětlím</form>
-<tag lemma="vysvětlit_:W" src="auto" recommended="1">VB-S---1P-AA---</tag>
+<tag lemma="vysvětlit" src="auto" recommended="1">VB-S---1P-AAP--</tag>
 </m>
 <m id="m056-d1t347-12">
 <w.rf>
@@ -845,7 +845,7 @@
 <LM>w#w-d1t363-4</LM>
 </w.rf>
 <form>naklade</form>
-<tag lemma="naklást" src="auto" recommended="1">VB-S---3P-AA---</tag>
+<tag lemma="naklást" src="auto" recommended="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m056-d1t363-5">
 <w.rf>
@@ -882,7 +882,7 @@
 </w.rf>
 <form>je</form>
 <tag>
-<AM lemma="být" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="být" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPXP4--3-------</AM>
 </tag>
@@ -926,7 +926,7 @@
 </w.rf>
 <form>Je</form>
 <tag>
-<AM lemma="být" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="být" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPXP4--3-------</AM>
 </tag>
@@ -963,7 +963,7 @@
 </w.rf>
 <form>Je</form>
 <tag>
-<AM lemma="být" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="být" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPXP4--3-------</AM>
 </tag>
@@ -1085,7 +1085,7 @@
 <LM>w#w-d1t385-10</LM>
 </w.rf>
 <form>vybírá</form>
-<tag lemma="vybírat_:T" src="auto" recommended="1">VB-S---3P-AA---</tag>
+<tag lemma="vybírat" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m056-d1t385-11">
 <w.rf>
@@ -1250,7 +1250,7 @@
 <LM>w#w-d1t385-28</LM>
 </w.rf>
 <form>prošlechťovat</form>
-<tag lemma="prošlechťovat_:T" src="auto" recommended="1">Vf--------A----</tag>
+<tag lemma="prošlechťovat" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="m056-188-191">
 <w.rf>
@@ -1297,8 +1297,8 @@
 </w.rf>
 <form>musí</form>
 <tag>
-<AM lemma="muset" src="auto" selected="1">VB-P---3P-AA--1</AM>
-<AM lemma="muset" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="muset" src="auto" selected="1">VB-P---3P-AAI-1</AM>
+<AM lemma="muset" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m056-d1t400-7">
@@ -1306,7 +1306,7 @@
 <LM>w#w-d1t400-7</LM>
 </w.rf>
 <form>nakrmit</form>
-<tag lemma="nakrmit_:W" src="auto" recommended="1">Vf--------A----</tag>
+<tag lemma="nakrmit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m056-d1t400-8">
 <w.rf>
@@ -1359,7 +1359,7 @@
 <LM>w#w-d1t400-16</LM>
 </w.rf>
 <form>zůstat</form>
-<tag lemma="zůstat" src="auto" recommended="1">Vf--------A----</tag>
+<tag lemma="zůstat" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m056-194-209">
 <w.rf>
@@ -1391,7 +1391,7 @@
 </w.rf>
 <form>má</form>
 <tag>
-<AM lemma="mít" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="mít" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="můj_^(má_kniha;_přivlast.)" src="auto">PSFS1-S1------1</AM>
 <AM lemma="můj_^(má_kniha;_přivlast.)" src="auto">PSFS5-S1------1</AM>
 <AM lemma="můj_^(má_kniha;_přivlast.)" src="auto">PSNP1-S1------1</AM>
@@ -1470,7 +1470,7 @@
 <LM>w#w-d1t407-12</LM>
 </w.rf>
 <form>proletět</form>
-<tag lemma="proletět" src="auto" recommended="1">Vf--------A----</tag>
+<tag lemma="proletět" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m056-208-210">
 <w.rf>
@@ -1490,7 +1490,7 @@
 <LM>w#w-d1t407-16</LM>
 </w.rf>
 <form>vykálet</form>
-<tag lemma="vykálet_:W" src="auto" recommended="1">Vf--------A----</tag>
+<tag lemma="vykálet" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m056-d1t407-15">
 <w.rf>
@@ -1525,8 +1525,8 @@
 </w.rf>
 <form>vydrží</form>
 <tag>
-<AM lemma="vydržet" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="vydržet" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="vydržet" src="auto">VB-P---3P-AAP--</AM>
+<AM lemma="vydržet" src="auto" recommended="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m056-d1t413-2">
@@ -1678,7 +1678,7 @@
 <LM>w#w-d1t431-5</LM>
 </w.rf>
 <form>mít</form>
-<tag lemma="mít" src="auto" recommended="1">Vf--------A----</tag>
+<tag lemma="mít" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="m056-d1t431-6">
 <w.rf>
@@ -1743,8 +1743,8 @@
 </w.rf>
 <form>vydrží</form>
 <tag>
-<AM lemma="vydržet" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="vydržet" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="vydržet" src="auto">VB-P---3P-AAP--</AM>
+<AM lemma="vydržet" src="auto" recommended="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m056-d1t431-13">
@@ -1808,7 +1808,7 @@
 <LM>w#w-d1t450-1</LM>
 </w.rf>
 <form>proletět</form>
-<tag lemma="proletět" src="auto" recommended="1">Vf--------A----</tag>
+<tag lemma="proletět" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m056-d-m-d1e432-x3-punct-punct">
 <w.rf>
@@ -1832,7 +1832,7 @@
 </w.rf>
 <form>je</form>
 <tag>
-<AM lemma="být" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="být" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPXP4--3-------</AM>
 </tag>
@@ -1879,8 +1879,8 @@
 </w.rf>
 <form>musí</form>
 <tag>
-<AM lemma="muset" src="auto" selected="1">VB-P---3P-AA--1</AM>
-<AM lemma="muset" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="muset" src="auto" selected="1">VB-P---3P-AAI-1</AM>
+<AM lemma="muset" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m056-d1t454-4">
@@ -1899,7 +1899,7 @@
 <LM>w#w-d1t454-6</LM>
 </w.rf>
 <form>krmit</form>
-<tag lemma="krmit_:T" src="auto" recommended="1">Vf--------A----</tag>
+<tag lemma="krmit" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="m056-d1t454-7">
 <w.rf>
@@ -1982,8 +1982,8 @@
 </w.rf>
 <form>nevydrží</form>
 <tag>
-<AM lemma="vydržet" src="auto" selected="1">VB-P---3P-NA---</AM>
-<AM lemma="vydržet" src="auto" recommended="1">VB-S---3P-NA---</AM>
+<AM lemma="vydržet" src="auto" selected="1">VB-P---3P-NAP--</AM>
+<AM lemma="vydržet" src="auto" recommended="1">VB-S---3P-NAP--</AM>
 </tag>
 </m>
 <m id="m056-d-id68288-punct">
@@ -2021,8 +2021,8 @@
 </w.rf>
 <form>pokálí</form>
 <tag>
-<AM lemma="pokálet_:W" src="auto" selected="1">VB-P---3P-AA--1</AM>
-<AM lemma="pokálet_:W" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="pokálet" src="auto" selected="1">VB-P---3P-AAP-1</AM>
+<AM lemma="pokálet" src="auto" recommended="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m056-d1t456-8">
@@ -2112,7 +2112,7 @@
 </w.rf>
 <form>je</form>
 <tag>
-<AM lemma="být" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="být" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPXP4--3-------</AM>
 </tag>
@@ -2159,7 +2159,7 @@
 </w.rf>
 <form>Je</form>
 <tag>
-<AM lemma="být" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="být" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPXP4--3-------</AM>
 </tag>
@@ -2268,7 +2268,7 @@
 <LM>w#w-d1t471-4</LM>
 </w.rf>
 <form>dává</form>
-<tag lemma="dávat_:T_^(*3t)" src="auto" recommended="1">VB-S---3P-AA---</tag>
+<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m056-d1t481-1">
 <w.rf>
@@ -2335,7 +2335,7 @@
 <LM>w#w-d1t485-4</LM>
 </w.rf>
 <form>Dává</form>
-<tag lemma="dávat_:T_^(*3t)" src="auto" recommended="1">VB-S---3P-AA---</tag>
+<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m056-d1t485-5">
 <w.rf>
@@ -2384,8 +2384,8 @@
 <AM lemma="tři`3" src="auto" recommended="1">ClXP1----------</AM>
 <AM lemma="tři`3" src="auto">ClXP4----------</AM>
 <AM lemma="tři`3" src="auto">ClXP5----------</AM>
-<AM lemma="třít" src="auto">Vi-S---2--A----</AM>
-<AM lemma="třít" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="třít" src="auto">Vi-S---2--A-I--</AM>
+<AM lemma="třít" src="auto">Vi-S---3--A-I-4</AM>
 </tag>
 </m>
 <m id="m056-d1t485-9">
@@ -2443,7 +2443,7 @@
 <LM>w#w-d1t485-14</LM>
 </w.rf>
 <form>odebírají</form>
-<tag lemma="odebírat_:T" src="auto" recommended="1">VB-P---3P-AA---</tag>
+<tag lemma="odebírat" src="auto" recommended="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m056-27-28">
 <w.rf>
@@ -2506,8 +2506,8 @@
 </w.rf>
 <form>musí</form>
 <tag>
-<AM lemma="muset" src="auto">VB-P---3P-AA--1</AM>
-<AM lemma="muset" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="muset" src="auto">VB-P---3P-AAI-1</AM>
+<AM lemma="muset" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m056-d1t485-33">
@@ -2515,7 +2515,7 @@
 <LM>w#w-d1t485-33</LM>
 </w.rf>
 <form>dát</form>
-<tag lemma="dát" src="auto" recommended="1">Vf--------A----</tag>
+<tag lemma="dát" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m056-d1t485-18">
 <w.rf>
@@ -2588,7 +2588,7 @@
 <LM>w#w-d1t487-4</LM>
 </w.rf>
 <form>Vybere</form>
-<tag lemma="vybrat" src="auto" recommended="1">VB-S---3P-AA---</tag>
+<tag lemma="vybrat" src="auto" recommended="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m056-32-33">
 <w.rf>
@@ -2682,7 +2682,7 @@
 <LM>w#w-d1t489-4</LM>
 </w.rf>
 <form>zůstat</form>
-<tag lemma="zůstat" src="auto" recommended="1">Vf--------A----</tag>
+<tag lemma="zůstat" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m056-35-36">
 <w.rf>
@@ -2708,7 +2708,7 @@
 <LM>w#w-d1t489-10</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="auto" recommended="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m056-d1t489-11">
 <w.rf>
@@ -2781,7 +2781,7 @@
 <LM>w#w-d1t491-2</LM>
 </w.rf>
 <form>Jsou</form>
-<tag lemma="být" src="auto" recommended="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m056-d1t491-1">
 <w.rf>
@@ -2851,7 +2851,7 @@
 </w.rf>
 <form>má</form>
 <tag>
-<AM lemma="mít" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="mít" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="můj_^(má_kniha;_přivlast.)" src="auto">PSFS1-S1------1</AM>
 <AM lemma="můj_^(má_kniha;_přivlast.)" src="auto">PSFS5-S1------1</AM>
 <AM lemma="můj_^(má_kniha;_přivlast.)" src="auto">PSNP1-S1------1</AM>
@@ -3139,7 +3139,7 @@
 </w.rf>
 <form>má</form>
 <tag>
-<AM lemma="mít" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="mít" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="můj_^(má_kniha;_přivlast.)" src="auto">PSFS1-S1------1</AM>
 <AM lemma="můj_^(má_kniha;_přivlast.)" src="auto">PSFS5-S1------1</AM>
 <AM lemma="můj_^(má_kniha;_přivlast.)" src="auto">PSNP1-S1------1</AM>
@@ -3181,7 +3181,7 @@
 </w.rf>
 <form>Je</form>
 <tag>
-<AM lemma="být" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="být" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPXP4--3-------</AM>
 </tag>
@@ -3225,7 +3225,7 @@
 </w.rf>
 <form>Je</form>
 <tag>
-<AM lemma="být" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="být" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPXP4--3-------</AM>
 </tag>
@@ -3301,7 +3301,7 @@
 <LM>w#w-d1t532-1</LM>
 </w.rf>
 <form>Rozumím</form>
-<tag lemma="rozumět_:T" src="auto" recommended="1">VB-S---1P-AA---</tag>
+<tag lemma="rozumět" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m056-d-m-d1e527-x2-punct-punct">
 <w.rf>
@@ -3378,7 +3378,7 @@
 <LM>w#w-d1t540-4</LM>
 </w.rf>
 <form>bavit</form>
-<tag lemma="bavit_:T" src="auto" recommended="1">Vf--------A----</tag>
+<tag lemma="bavit" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="m056-d1t542-1">
 <w.rf>
@@ -3462,7 +3462,7 @@
 <LM>w#w-d1t567-4</LM>
 </w.rf>
 <form>být</form>
-<tag lemma="být" src="auto" recommended="1">Vf--------A----</tag>
+<tag lemma="být" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="m056-d1t567-6">
 <w.rf>
@@ -3547,7 +3547,7 @@
 </w.rf>
 <form>je</form>
 <tag>
-<AM lemma="být" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="být" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPXP4--3-------</AM>
 </tag>
@@ -3625,7 +3625,7 @@
 </w.rf>
 <form>Je</form>
 <tag>
-<AM lemma="být" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="být" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPXP4--3-------</AM>
 </tag>
@@ -3707,7 +3707,7 @@
 <LM>w#w-d1t593-4</LM>
 </w.rf>
 <form>jmenují</form>
-<tag lemma="jmenovat_:T_:W" src="auto" recommended="1">VB-P---3P-AA---</tag>
+<tag lemma="jmenovat" src="auto" recommended="1">VB-P---3P-AAB--</tag>
 </m>
 <m id="m056-d1t593-5">
 <w.rf>
@@ -3739,8 +3739,8 @@
 <tag>
 <AM lemma="kamarád" src="auto" recommended="1">NNMP1-----A---1</AM>
 <AM lemma="kamarád" src="auto">NNMP5-----A---1</AM>
-<AM lemma="kamarádit" src="auto">Vi-S---2--A----</AM>
-<AM lemma="kamarádit" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="kamarádit" src="auto">Vi-S---2--A-I--</AM>
+<AM lemma="kamarádit" src="auto">Vi-S---3--A-I-4</AM>
 </tag>
 </m>
 <m id="m056-d-id72246-punct">
@@ -3771,7 +3771,7 @@
 </w.rf>
 <form>je</form>
 <tag>
-<AM lemma="být" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="být" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPXP4--3-------</AM>
 </tag>
@@ -3861,7 +3861,7 @@
 </w.rf>
 <form>je</form>
 <tag>
-<AM lemma="být" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="být" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPXP4--3-------</AM>
 </tag>
@@ -3950,7 +3950,7 @@
 <LM>w#w-d1t597-26</LM>
 </w.rf>
 <form>jsem</form>
-<tag lemma="být" src="auto" recommended="1">VB-S---1P-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m056-d1t597-27">
 <w.rf>
@@ -3987,7 +3987,7 @@
 </w.rf>
 <form>je</form>
 <tag>
-<AM lemma="být" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="být" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPXP4--3-------</AM>
 </tag>
@@ -4036,7 +4036,7 @@
 </w.rf>
 <form>je</form>
 <tag>
-<AM lemma="být" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="být" src="auto">VB-S---3P-AAI--</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto" recommended="1">PPXP4--3-------</AM>
 <AM lemma="on-1_^(**já)_(oni/ono)" src="manual" selected="1">PPXP4--3-------</AM>
@@ -4047,7 +4047,7 @@
 <LM>w#w-d1t619-3</LM>
 </w.rf>
 <form>znáte</form>
-<tag lemma="znát" src="auto" recommended="1">VB-P---2P-AA---</tag>
+<tag lemma="znát" src="auto" recommended="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m056-d-id72918-punct">
 <w.rf>
@@ -4085,7 +4085,7 @@
 </w.rf>
 <form>je</form>
 <tag>
-<AM lemma="být" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="být" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPXP4--3-------</AM>
 </tag>
@@ -4155,7 +4155,7 @@
 </w.rf>
 <form>mnou</form>
 <tag>
-<AM lemma="mnout" src="auto">VB-P---3P-AA---</AM>
+<AM lemma="mnout" src="auto">VB-P---3P-AAI--</AM>
 <AM lemma="já" src="auto" recommended="1">PP-S7--1-------</AM>
 </tag>
 </m>

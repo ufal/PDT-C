@@ -83,7 +83,7 @@
 <LM>w#w-lnd92257-081-p1s1w9</LM>
 </w.rf>
 <form>slábne</form>
-<tag lemma="slábnout_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="slábnout" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92257-081-p1s1w10">
 <src.rf>manual</src.rf>

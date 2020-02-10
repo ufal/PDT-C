@@ -43,7 +43,7 @@
 <LM>w#w-mf920922-120-p1s1w4</LM>
 </w.rf>
 <form>pláče</form>
-<tag lemma="plakat" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="plakat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920922-120-p1s1w5">
 <src.rf>manual</src.rf>

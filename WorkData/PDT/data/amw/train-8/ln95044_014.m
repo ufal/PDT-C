@@ -561,7 +561,7 @@
 <LM>w#w-ln95044-014-p3s1w3</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95044-014-p3s1w4">
 <src.rf>manual</src.rf>
@@ -1874,7 +1874,7 @@
 <LM>w#w-ln95044-014-p3s6w36</LM>
 </w.rf>
 <form>odmítá</form>
-<tag lemma="odmítat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="odmítat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95044-014-p3s6w37">
 <src.rf>manual</src.rf>
@@ -1898,7 +1898,7 @@
 <LM>w#w-ln95044-014-p3s6w39</LM>
 </w.rf>
 <form>podrobit</form>
-<tag lemma="podrobit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="podrobit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95044-014-p3s6w40">
 <src.rf>manual</src.rf>

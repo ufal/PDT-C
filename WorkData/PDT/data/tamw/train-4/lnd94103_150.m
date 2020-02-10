@@ -112,7 +112,7 @@
 <LM>w#w-lnd94103-150-p1s1w12</LM>
 </w.rf>
 <form>vyjede</form>
-<tag lemma="vyjet" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vyjet" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd94103-150-p1s1w13">
 <src.rf>manual</src.rf>
@@ -274,7 +274,7 @@
 <LM>w#w-lnd94103-150-p1s2w13</LM>
 </w.rf>
 <form>vysílá</form>
-<tag lemma="vysílat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vysílat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94103-150-p1s2w14">
 <src.rf>manual</src.rf>

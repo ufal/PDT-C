@@ -472,7 +472,7 @@
 <LM>w#w-ln95049-078-p2s4w2</LM>
 </w.rf>
 <form>Jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95049-078-p2s4w3">
 <src.rf>manual</src.rf>

@@ -293,7 +293,7 @@
 <LM>w#w-ln95044-132-p2s2w1</LM>
 </w.rf>
 <form>Týká</form>
-<tag lemma="týkat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="týkat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95044-132-p2s2w2">
 <src.rf>manual</src.rf>

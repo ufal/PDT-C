@@ -101,7 +101,7 @@
 <LM>w#w-cmpr9415-056-p3s1w4</LM>
 </w.rf>
 <form>HODLÁM</form>
-<tag lemma="hodlat_:T" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="hodlat" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-cmpr9415-056-p3s1w5">
 <src.rf>manual</src.rf>
@@ -109,7 +109,7 @@
 <LM>w#w-cmpr9415-056-p3s1w5</LM>
 </w.rf>
 <form>ZAVÉST</form>
-<tag lemma="zavést" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zavést" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-cmpr9415-056-p3s1w6">
 <src.rf>manual</src.rf>
@@ -301,7 +301,7 @@
 <LM>w#w-cmpr9415-056-p3s1w29</LM>
 </w.rf>
 <form>potřebuji</form>
-<tag lemma="potřebovat_:T" src="orig" selected="1">VB-S---1P-AA--1</tag>
+<tag lemma="potřebovat" src="orig" selected="1">VB-S---1P-AAI-1</tag>
 </m>
 <m id="m-cmpr9415-056-p3s1w30">
 <src.rf>manual</src.rf>

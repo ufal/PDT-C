@@ -38,7 +38,7 @@
 <LM>w#w-ln94211-28-p1s1Aw3</LM>
 </w.rf>
 <form>zachycují</form>
-<tag lemma="zachycovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="zachycovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94211-28-p1s1Aw4">
 <src.rf>manual</src.rf>

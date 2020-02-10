@@ -35,7 +35,7 @@
 <LM>w#w-ln94200-62-p1s1Aw3</LM>
 </w.rf>
 <form>mávají</form>
-<tag lemma="mávat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="mávat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94200-62-p1s1Aw4">
 <src.rf>manual</src.rf>
@@ -83,7 +83,7 @@
 <LM>w#w-ln94200-62-p1s1Aw9</LM>
 </w.rf>
 <form>hledají</form>
-<tag lemma="hledat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="hledat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94200-62-p1s1Aw10">
 <src.rf>manual</src.rf>

@@ -395,7 +395,7 @@
 <LM>w#w-mf930708-081-p2s2w15</LM>
 </w.rf>
 <form>podlehnout</form>
-<tag lemma="podlehnout_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="podlehnout" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930708-081-p2s2w16">
 <src.rf>manual</src.rf>
@@ -573,7 +573,7 @@
 <LM>w#w-mf930708-081-p2s3w2</LM>
 </w.rf>
 <form>říct</form>
-<tag lemma="říci" src="auto" selected="1">Vf--------A---1</tag>
+<tag lemma="říci" src="auto" selected="1">Vf--------A-P-1</tag>
 </m>
 <m id="m-mf930708-081-p2s3w3">
 <src.rf>manual</src.rf>
@@ -885,7 +885,7 @@
 <LM>w#w-mf930708-081-p3s2w6</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-081-p3s2w7">
 <src.rf>manual</src.rf>
@@ -1328,7 +1328,7 @@
 <LM>w#w-mf930708-081-p4s1w17</LM>
 </w.rf>
 <form>viz</form>
-<tag lemma="viz_:W_^(odkaz_na_jiné_místo)" src="orig" selected="1">Vi-S---2--A---1</tag>
+<tag lemma="viz_^(odkaz_na_jiné_místo)" src="orig" selected="1">Vi-S---2--A-P-1</tag>
 </m>
 <m id="m-mf930708-081-p4s1w18">
 <src.rf>manual</src.rf>

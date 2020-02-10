@@ -54,7 +54,7 @@
 <LM>w#w-ln95047-141-p1s1w5</LM>
 </w.rf>
 <form>pohltí</form>
-<tag lemma="pohltit_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="pohltit" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-ln95047-141-p1s1w6">
 <src.rf>manual</src.rf>

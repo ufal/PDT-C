@@ -252,7 +252,7 @@
 <LM>w#w-mf930702-079-p2s1w26</LM>
 </w.rf>
 <form>uskuteční</form>
-<tag lemma="uskutečnit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="uskutečnit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930702-079-p2s1w27">
 <src.rf>manual</src.rf>

@@ -51,7 +51,7 @@
 <LM>w#w-ln95041-084-p1s1w5</LM>
 </w.rf>
 <form>stoupá</form>
-<tag lemma="stoupat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="stoupat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 </s>
 <s id="m-ln95041-084-p2s1A">
@@ -772,7 +772,7 @@
 <LM>w#w-ln95041-084-p3s4w17</LM>
 </w.rf>
 <form>důvěřuje</form>
-<tag lemma="důvěřovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="důvěřovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95041-084-p3s4w18">
 <src.rf>manual</src.rf>

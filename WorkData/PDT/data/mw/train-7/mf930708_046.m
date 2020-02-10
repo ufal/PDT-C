@@ -648,7 +648,7 @@
 <LM>w#w-mf930708-046-p2s4w5</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-046-p2s4w6">
 <src.rf>manual</src.rf>

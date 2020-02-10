@@ -1301,7 +1301,7 @@
 <LM>w#w-lnd92258-144-p2s10w3</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92258-144-p2s10w4">
 <src.rf>manual</src.rf>

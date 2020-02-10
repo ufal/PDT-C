@@ -46,7 +46,7 @@
 <LM>w#w-ln95049-116-p1s1w4</LM>
 </w.rf>
 <form>hrozí</form>
-<tag lemma="hrozit_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="hrozit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95049-116-p1s1w5">
 <src.rf>manual</src.rf>
@@ -272,7 +272,7 @@
 <LM>w#w-ln95049-116-p2s1Bw23</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-ln95049-116-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -330,7 +330,7 @@
 <LM>w#w-ln95049-116-p2s2w5</LM>
 </w.rf>
 <form>zostří</form>
-<tag lemma="zostřit_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="zostřit" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-ln95049-116-p2s2w6">
 <src.rf>manual</src.rf>
@@ -378,7 +378,7 @@
 <LM>w#w-ln95049-116-p2s2w11</LM>
 </w.rf>
 <form>uchýlí</form>
-<tag lemma="uchýlit_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="uchýlit" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-ln95049-116-p2s2w12">
 <src.rf>manual</src.rf>
@@ -500,7 +500,7 @@
 <LM>w#w-ln95049-116-p2s3w6</LM>
 </w.rf>
 <form>stávkovat</form>
-<tag lemma="stávkovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="stávkovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95049-116-p2s3w7">
 <src.rf>manual</src.rf>
@@ -729,7 +729,7 @@
 <LM>w#w-ln95049-116-p2s5w3</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-ln95049-116-p2s5w4">
 <src.rf>manual</src.rf>
@@ -769,7 +769,7 @@
 <LM>w#w-ln95049-116-p2s5w8</LM>
 </w.rf>
 <form>rozšířit</form>
-<tag lemma="rozšířit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="rozšířit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95049-116-p2s5w9">
 <src.rf>manual</src.rf>
@@ -1044,7 +1044,7 @@
 <LM>w#w-ln95049-116-p2s6w32</LM>
 </w.rf>
 <form>neustoupí</form>
-<tag lemma="ustoupit_:W" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="ustoupit" src="orig" selected="1">VB-P---3P-NAP--</tag>
 </m>
 <m id="m-ln95049-116-p2s6w33">
 <src.rf>manual</src.rf>

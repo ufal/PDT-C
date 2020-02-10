@@ -835,7 +835,7 @@
 <LM>w#w-mf930703-086-p5s1w25</LM>
 </w.rf>
 <form>vede</form>
-<tag lemma="vést" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vést" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930703-086-p5s1w26">
 <src.rf>manual</src.rf>

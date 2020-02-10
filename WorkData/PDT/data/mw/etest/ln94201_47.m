@@ -627,7 +627,7 @@
 <LM>w#w-ln94201-47-p3s1w17</LM>
 </w.rf>
 <form>rozšířit</form>
-<tag lemma="rozšířit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="rozšířit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94201-47-p3s1w18">
 <src.rf>manual</src.rf>
@@ -659,7 +659,7 @@
 <LM>w#w-ln94201-47-p3s1w21</LM>
 </w.rf>
 <form>povýšit</form>
-<tag lemma="povýšit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="povýšit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94201-47-p3s1w22">
 <src.rf>manual</src.rf>
@@ -707,7 +707,7 @@
 <LM>w#w-ln94201-47-p3s1w27</LM>
 </w.rf>
 <form>požaduje</form>
-<tag lemma="požadovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="požadovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94201-47-p3s1w28">
 <src.rf>manual</src.rf>
@@ -849,7 +849,7 @@
 <LM>w#w-ln94201-47-p4s1w6</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-ln94201-47-p4s1w7">
 <src.rf>manual</src.rf>
@@ -881,7 +881,7 @@
 <LM>w#w-ln94201-47-p4s1w10</LM>
 </w.rf>
 <form>vyjednávat</form>
-<tag lemma="vyjednávat_:T_^(*4at)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vyjednávat_^(*4at)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94201-47-p4s1w11">
 <src.rf>manual</src.rf>
@@ -961,7 +961,7 @@
 <LM>w#w-ln94201-47-p4s1w20</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94201-47-p4s1w21">
 <src.rf>manual</src.rf>
@@ -1038,7 +1038,7 @@
 <LM>w#w-ln94201-47-p4s2w6</LM>
 </w.rf>
 <form>chtějí</form>
-<tag lemma="chtít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="chtít" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94201-47-p4s2w7">
 <src.rf>manual</src.rf>
@@ -1110,7 +1110,7 @@
 <LM>w#w-ln94201-47-p4s2w15</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94201-47-p4s2w16">
 <src.rf>manual</src.rf>
@@ -1126,7 +1126,7 @@
 <LM>w#w-ln94201-47-p4s2w17</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-ln94201-47-p4s2w18">
 <src.rf>manual</src.rf>
@@ -1232,7 +1232,7 @@
 <LM>w#w-ln94201-47-p5s1w6</LM>
 </w.rf>
 <form>přikládají</form>
-<tag lemma="přikládat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="přikládat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94201-47-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1328,7 +1328,7 @@
 <LM>w#w-ln94201-47-p5s1w18</LM>
 </w.rf>
 <form>odvolat</form>
-<tag lemma="odvolat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="odvolat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94201-47-p5s1w19">
 <src.rf>manual</src.rf>
@@ -1517,7 +1517,7 @@
 <LM>w#w-ln94201-47-p6s1w12</LM>
 </w.rf>
 <form>přijde</form>
-<tag lemma="přijít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="přijít" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94201-47-p6s1w13">
 <src.rf>manual</src.rf>
@@ -1870,7 +1870,7 @@
 <LM>w#w-ln94201-47-p7s1w9</LM>
 </w.rf>
 <form>nevyřeší</form>
-<tag lemma="vyřešit_:W" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="vyřešit" src="orig" selected="1">VB-P---3P-NAP--</tag>
 </m>
 <m id="m-ln94201-47-p7s1w10">
 <src.rf>manual</src.rf>
@@ -1886,7 +1886,7 @@
 <LM>w#w-ln94201-47-p7s1w11</LM>
 </w.rf>
 <form>nepřinutí</form>
-<tag lemma="přinutit_:W" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="přinutit" src="orig" selected="1">VB-P---3P-NAP--</tag>
 </m>
 <m id="m-ln94201-47-p7s1w12">
 <src.rf>manual</src.rf>
@@ -2022,7 +2022,7 @@
 <AM lemma="Sero_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Sero_;G" src="auto">NNNP5-----A----</AM>
 <AM lemma="Sero_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="srát_:T" src="auto">VeYS------A----</AM>
+<AM lemma="srát" src="auto">VeYS------A-I--</AM>
 <AM lemma="sérum" src="auto">NNNP1-----A----</AM>
 <AM lemma="sérum" src="auto">NNNP4-----A----</AM>
 <AM lemma="sérum" src="auto">NNNP5-----A----</AM>

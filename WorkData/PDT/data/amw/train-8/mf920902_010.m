@@ -373,7 +373,7 @@
 <LM>w#w-mf920902-010-p1s4Aw1</LM>
 </w.rf>
 <form>Je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920902-010-p1s4Aw2">
 <src.rf>manual</src.rf>

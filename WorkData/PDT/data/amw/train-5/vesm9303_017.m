@@ -108,7 +108,7 @@
 <LM>w#w-vesm9303-017-p3s1w6</LM>
 </w.rf>
 <form>není</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-vesm9303-017-p3s1w7">
 <src.rf>manual</src.rf>

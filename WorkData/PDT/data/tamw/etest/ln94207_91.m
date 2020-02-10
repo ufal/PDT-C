@@ -356,7 +356,7 @@
 <LM>w#w-ln94207-91-p1s2w12</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-91-p1s2w13">
 <src.rf>manual</src.rf>
@@ -778,7 +778,7 @@
 <LM>w#w-ln94207-91-p1s5w1</LM>
 </w.rf>
 <form>Je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-91-p1s5w2">
 <src.rf>manual</src.rf>
@@ -852,7 +852,7 @@
 <LM>w#w-ln94207-91-p1s6w1</LM>
 </w.rf>
 <form>Přednáší</form>
-<tag lemma="přednášet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="přednášet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-91-p1s6w2">
 <src.rf>manual</src.rf>
@@ -1163,7 +1163,7 @@
 <LM>w#w-ln94207-91-p1s8w22</LM>
 </w.rf>
 <form>Dotkni</form>
-<tag lemma="dotknout_:W_^(fyz._i_abstr.,_př._drátů,_práv,_citů)" src="orig" selected="1">Vi-S---2--A----</tag>
+<tag lemma="dotknout_^(fyz._i_abstr.,_př._drátů,_práv,_citů)" src="orig" selected="1">Vi-S---2--A-P--</tag>
 </m>
 <m id="m-ln94207-91-p1s8w23">
 <src.rf>manual</src.rf>
@@ -1195,7 +1195,7 @@
 <LM>w#w-ln94207-91-p1s8w26</LM>
 </w.rf>
 <form>dotkni</form>
-<tag lemma="dotknout_:W_^(fyz._i_abstr.,_př._drátů,_práv,_citů)" src="orig" selected="1">Vi-S---2--A----</tag>
+<tag lemma="dotknout_^(fyz._i_abstr.,_př._drátů,_práv,_citů)" src="orig" selected="1">Vi-S---2--A-P--</tag>
 </m>
 <m id="m-ln94207-91-p1s8w27">
 <src.rf>manual</src.rf>
@@ -1395,7 +1395,7 @@
 <LM>w#w-ln94207-91-p1s8w51</LM>
 </w.rf>
 <form>Poznat</form>
-<tag lemma="poznat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="poznat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94207-91-p1s8w52">
 <src.rf>manual</src.rf>
@@ -1605,7 +1605,7 @@
 <LM>w#w-ln94207-91-p1s9w2</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-91-p1s9w3">
 <src.rf>manual</src.rf>
@@ -1685,7 +1685,7 @@
 <LM>w#w-ln94207-91-p1s9w12</LM>
 </w.rf>
 <form>vyniká</form>
-<tag lemma="vynikat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vynikat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-91-p1s9w13">
 <src.rf>manual</src.rf>

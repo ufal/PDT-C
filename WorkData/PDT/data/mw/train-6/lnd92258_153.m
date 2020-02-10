@@ -733,7 +733,7 @@
 <LM>w#w-lnd92258-153-p3s6w13</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92258-153-p3s6w14">
 <src.rf>manual</src.rf>
@@ -917,7 +917,7 @@
 <LM>w#w-lnd92258-153-p3s7w11</LM>
 </w.rf>
 <form>lze</form>
-<tag lemma="lze" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="lze" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92258-153-p3s7w12">
 <src.rf>manual</src.rf>
@@ -925,7 +925,7 @@
 <LM>w#w-lnd92258-153-p3s7w12</LM>
 </w.rf>
 <form>uznat</form>
-<tag lemma="uznat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="uznat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92258-153-p3s7w13">
 <src.rf>manual</src.rf>
@@ -973,7 +973,7 @@
 <LM>w#w-lnd92258-153-p3s7w18</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-lnd92258-153-p3s7w19">
 <src.rf>manual</src.rf>
@@ -1102,8 +1102,8 @@
 </w.rf>
 <form>zůstanou</form>
 <tag>
-<AM lemma="zůstat" src="orig">VB-P---3P-AA---</AM>
-<AM lemma="zůstat_:W" src="manual" selected="1">VB-P---3P-AA---</AM>
+<AM lemma="zůstat" src="orig">VB-P---3P-AAP--</AM>
+<AM lemma="zůstat" src="manual" selected="1">VB-P---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92258-153-p3s8w13">
@@ -1280,8 +1280,8 @@
 </w.rf>
 <form>má</form>
 <tag>
-<AM lemma="mít" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="mít" src="orig">VB-S---3P-AAI--</AM>
+<AM lemma="mít" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-lnd92258-153-p3s10w3">
@@ -1402,7 +1402,7 @@
 <LM>w#w-lnd92258-153-p3s10w18</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-lnd92258-153-p3s10w19">
 <src.rf>manual</src.rf>
@@ -1546,7 +1546,7 @@
 <LM>w#w-lnd92258-153-p3s11w4</LM>
 </w.rf>
 <form>propojit</form>
-<tag lemma="propojit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="propojit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92258-153-p3s11w5">
 <src.rf>manual</src.rf>

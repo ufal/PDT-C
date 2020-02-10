@@ -512,7 +512,7 @@
 <LM>w#w-ln95049-030-p2s4w4</LM>
 </w.rf>
 <form>zápasí</form>
-<tag lemma="zápasit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zápasit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95049-030-p2s4w5">
 <src.rf>manual</src.rf>
@@ -743,7 +743,7 @@
 <LM>w#w-ln95049-030-p2s6w2</LM>
 </w.rf>
 <form>jsem</form>
-<tag lemma="být" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-ln95049-030-p2s6w3">
 <src.rf>manual</src.rf>
@@ -768,8 +768,8 @@
 </w.rf>
 <form>začneme</form>
 <tag>
-<AM lemma="začít-1_^(začnout)" src="auto">VB-P---1P-AA---</AM>
-<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VB-P---1P-AA---</AM>
+<AM lemma="začít-1_^(začnout)" src="auto">VB-P---1P-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual" selected="1">VB-P---1P-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95049-030-p2s6w6">
@@ -866,7 +866,7 @@
 <LM>w#w-ln95049-030-p2s6w17</LM>
 </w.rf>
 <form>trápíme</form>
-<tag lemma="trápit_:T" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="trápit" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-ln95049-030-p2s6w18">
 <src.rf>manual</src.rf>
@@ -1300,7 +1300,7 @@
 <LM>w#w-ln95049-030-p3s3w12</LM>
 </w.rf>
 <form>klopýtá</form>
-<tag lemma="klopýtat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="klopýtat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95049-030-p3s3w13">
 <src.rf>manual</src.rf>
@@ -1340,7 +1340,7 @@
 <LM>w#w-ln95049-030-p3s3w17</LM>
 </w.rf>
 <form>hledá</form>
-<tag lemma="hledat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="hledat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95049-030-p3s3w18">
 <src.rf>manual</src.rf>
@@ -2076,7 +2076,7 @@
 <LM>w#w-ln95049-030-p3s8w9</LM>
 </w.rf>
 <form>jsme</form>
-<tag lemma="být" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-ln95049-030-p3s8w10">
 <src.rf>manual</src.rf>

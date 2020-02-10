@@ -40,7 +40,7 @@
 <LM>w#w-mf920924-077-p2s1w1</LM>
 </w.rf>
 <form>Přinášíme</form>
-<tag lemma="přinášet_:T" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="přinášet" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-mf920924-077-p2s1w2">
 <src.rf>manual</src.rf>
@@ -207,7 +207,7 @@
 <LM>w#w-mf920924-077-p2s3w3</LM>
 </w.rf>
 <form>využít</form>
-<tag lemma="využít" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="využít" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920924-077-p2s3w4">
 <src.rf>manual</src.rf>
@@ -1897,7 +1897,7 @@
 <LM>w#w-mf920924-077-p14s1w3</LM>
 </w.rf>
 <form>obdržíte</form>
-<tag lemma="obdržet" src="orig" selected="1">VB-P---2P-AA---</tag>
+<tag lemma="obdržet" src="orig" selected="1">VB-P---2P-AAP--</tag>
 </m>
 <m id="m-mf920924-077-p14s1w4">
 <src.rf>manual</src.rf>

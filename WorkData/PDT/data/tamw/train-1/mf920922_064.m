@@ -282,7 +282,7 @@
 <LM>w#w-mf920922-064-p2s8w12</LM>
 </w.rf>
 <form>vedou</form>
-<tag lemma="vést" src="auto" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="vést" src="auto" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920922-064-p2s8w13">
 <src.rf>manual</src.rf>
@@ -481,7 +481,7 @@
 <LM>w#w-mf920922-064-p3s2w1</LM>
 </w.rf>
 <form>Blahopřejeme</form>
-<tag lemma="blahopřát" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="blahopřát" src="orig" selected="1">VB-P---1P-AAP--</tag>
 </m>
 <m id="m-mf920922-064-p3s2w2">
 <src.rf>manual</src.rf>

@@ -51,7 +51,7 @@
 <LM>w#w-ln95041-077-p1s1w5</LM>
 </w.rf>
 <form>líbí</form>
-<tag lemma="líbit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="líbit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 </s>
 <s id="m-ln95041-077-p2s1">
@@ -181,7 +181,7 @@
 <LM>w#w-ln95041-077-p2s1w16</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95041-077-p2s1w17">
 <src.rf>manual</src.rf>

@@ -294,7 +294,7 @@
 <LM>w#w-lnd92252-071-p4s1w8</LM>
 </w.rf>
 <form>vytlačit</form>
-<tag lemma="vytlačit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vytlačit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92252-071-p4s1w9">
 <src.rf>manual</src.rf>
@@ -522,7 +522,7 @@
 <LM>w#w-lnd92252-071-p4s3w3</LM>
 </w.rf>
 <form>požadují</form>
-<tag lemma="požadovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="požadovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92252-071-p4s3w4">
 <src.rf>manual</src.rf>
@@ -1068,7 +1068,7 @@
 <LM>w#w-lnd92252-071-p5s2w4</LM>
 </w.rf>
 <form>náleží</form>
-<tag lemma="náležet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="náležet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92252-071-p5s2w5">
 <src.rf>manual</src.rf>

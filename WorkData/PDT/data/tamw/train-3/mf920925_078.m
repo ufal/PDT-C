@@ -315,7 +315,7 @@
 <LM>w#w-mf920925-078-p2s4w2</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-078-p2s4w3">
 <src.rf>manual</src.rf>

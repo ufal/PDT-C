@@ -407,7 +407,7 @@
 <LM>w#w-ln94204-65-p2s2w18</LM>
 </w.rf>
 <form>podepsat</form>
-<tag lemma="podepsat" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="podepsat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94204-65-p2s2w19">
 <src.rf>manual</src.rf>

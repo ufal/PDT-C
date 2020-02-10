@@ -53,7 +53,7 @@
 <LM>w#w-mf930708-103-p2s1w2</LM>
 </w.rf>
 <form>opouštějí</form>
-<tag lemma="opouštět_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="opouštět" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-103-p2s1w3">
 <src.rf>manual</src.rf>

@@ -436,7 +436,7 @@
 <LM>w#w-mf920923-001-p1s2w17</LM>
 </w.rf>
 <form>neozývá</form>
-<tag lemma="ozývat_:T" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="ozývat" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-mf920923-001-p1s2w18">
 <src.rf>manual</src.rf>

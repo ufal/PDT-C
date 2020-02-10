@@ -262,7 +262,7 @@
 <LM>w#w-mf930703-139-p2s1w22</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-mf930703-139-p2s1w23">
 <src.rf>manual</src.rf>
@@ -344,7 +344,7 @@
 <LM>w#w-mf930703-139-p2s2w4</LM>
 </w.rf>
 <form>shoduje</form>
-<tag lemma="shodovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="shodovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930703-139-p2s2w5">
 <src.rf>manual</src.rf>
@@ -643,7 +643,7 @@
 <LM>w#w-mf930703-139-p3s1w17</LM>
 </w.rf>
 <form>ostřelují</form>
-<tag lemma="ostřelovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="ostřelovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930703-139-p3s1w18">
 <src.rf>manual</src.rf>
@@ -749,7 +749,7 @@
 <LM>w#w-mf930703-139-p3s2w9</LM>
 </w.rf>
 <form>vedou</form>
-<tag lemma="vést" src="auto" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="vést" src="auto" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930703-139-p3s2w10">
 <src.rf>manual</src.rf>
@@ -1139,7 +1139,7 @@
 <LM>w#w-mf930703-139-p4s2w2</LM>
 </w.rf>
 <form>podezřívá</form>
-<tag lemma="podezřívat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="podezřívat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930703-139-p4s2w3">
 <src.rf>manual</src.rf>

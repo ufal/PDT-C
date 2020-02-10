@@ -283,7 +283,7 @@
 <LM>w#w-lnd92258-067-p2s4w1</LM>
 </w.rf>
 <form>Jedná</form>
-<tag lemma="jednat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="jednat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92258-067-p2s4w2">
 <src.rf>manual</src.rf>

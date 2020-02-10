@@ -30,7 +30,7 @@
 <LM>w#w-ln94203-22-p1s1w2</LM>
 </w.rf>
 <form>zkontroluje</form>
-<tag lemma="zkontrolovat_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zkontrolovat" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94203-22-p1s1w3">
 <src.rf>manual</src.rf>
@@ -277,7 +277,7 @@
 <LM>w#w-ln94203-22-p2s2w4</LM>
 </w.rf>
 <form>budou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3F-AAI--</tag>
 </m>
 <m id="m-ln94203-22-p2s2w5">
 <src.rf>manual</src.rf>
@@ -452,7 +452,7 @@
 <LM>w#w-ln94203-22-p3s1w6</LM>
 </w.rf>
 <form>žalovat</form>
-<tag lemma="žalovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="žalovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94203-22-p3s1w7">
 <src.rf>manual</src.rf>
@@ -695,7 +695,7 @@
 <LM>w#w-ln94203-22-p3s2w20</LM>
 </w.rf>
 <form>zajišťuje</form>
-<tag lemma="zajišťovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zajišťovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94203-22-p3s2w21">
 <src.rf>manual</src.rf>
@@ -841,7 +841,7 @@
 <LM>w#w-ln94203-22-p3s3w8</LM>
 </w.rf>
 <form>cítí</form>
-<tag lemma="cítit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="cítit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94203-22-p3s3w9">
 <src.rf>manual</src.rf>
@@ -849,7 +849,7 @@
 <LM>w#w-ln94203-22-p3s3w9</LM>
 </w.rf>
 <form>být</form>
-<tag lemma="být" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="být" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94203-22-p3s3w10">
 <src.rf>manual</src.rf>
@@ -964,7 +964,7 @@
 <LM>w#w-ln94203-22-p3s3w23</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-ln94203-22-p3s3w24">
 <src.rf>manual</src.rf>
@@ -988,7 +988,7 @@
 <LM>w#w-ln94203-22-p3s3w26</LM>
 </w.rf>
 <form>přejmenovat</form>
-<tag lemma="přejmenovat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="přejmenovat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94203-22-p3s3w27">
 <src.rf>manual</src.rf>
@@ -1028,7 +1028,7 @@
 <LM>w#w-ln94203-22-p3s3w31</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94203-22-p3s3w32">
 <src.rf>manual</src.rf>

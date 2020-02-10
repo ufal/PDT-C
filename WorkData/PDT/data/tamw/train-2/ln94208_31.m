@@ -358,7 +358,7 @@
 <LM>w#w-ln94208-31-p2s3w3</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94208-31-p2s3w4">
 <src.rf>manual</src.rf>
@@ -589,7 +589,7 @@
 <LM>w#w-ln94208-31-p2s4w3</LM>
 </w.rf>
 <form>nepamatujeme</form>
-<tag lemma="pamatovat_:T" src="orig" selected="1">VB-P---1P-NA---</tag>
+<tag lemma="pamatovat" src="orig" selected="1">VB-P---1P-NAI--</tag>
 </m>
 <m id="m-ln94208-31-p2s4w4">
 <src.rf>manual</src.rf>

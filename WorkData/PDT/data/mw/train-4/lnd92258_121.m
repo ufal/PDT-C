@@ -462,7 +462,7 @@
 <LM>w#w-lnd92258-121-p2s4w2</LM>
 </w.rf>
 <form>vede</form>
-<tag lemma="vést" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vést" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92258-121-p2s4w3">
 <src.rf>manual</src.rf>

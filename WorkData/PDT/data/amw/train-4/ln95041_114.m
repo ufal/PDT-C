@@ -30,7 +30,7 @@
 <LM>w#w-ln95041-114-p1s1w2</LM>
 </w.rf>
 <form>oslabuje</form>
-<tag lemma="oslabovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="oslabovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 </s>
 <s id="m-ln95041-114-p2s1A">
@@ -491,7 +491,7 @@
 <LM>w#w-ln95041-114-p2s3w12</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-ln95041-114-p2s3w13">
 <src.rf>manual</src.rf>
@@ -515,7 +515,7 @@
 <LM>w#w-ln95041-114-p2s3w15</LM>
 </w.rf>
 <form>pokračovat</form>
-<tag lemma="pokračovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="pokračovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95041-114-p2s3w16">
 <src.rf>manual</src.rf>
@@ -589,7 +589,7 @@
 <LM>w#w-ln95041-114-p3s1w6</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95041-114-p3s1w7">
 <src.rf>manual</src.rf>

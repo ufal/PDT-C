@@ -730,7 +730,7 @@
 <LM>w#w-lnd92255-060-p3s5w17</LM>
 </w.rf>
 <form>vytlačit</form>
-<tag lemma="vytlačit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vytlačit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92255-060-p3s5w18">
 <src.rf>manual</src.rf>

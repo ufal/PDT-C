@@ -317,7 +317,7 @@
 <LM>w#w-ln94200-1-p2s3w3</LM>
 </w.rf>
 <form>malovat</form>
-<tag lemma="malovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="malovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94200-1-p2s3w4">
 <src.rf>manual</src.rf>
@@ -471,7 +471,7 @@
 <LM>w#w-ln94200-1-p2s4w14</LM>
 </w.rf>
 <form>vpíjí</form>
-<tag lemma="vpíjet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vpíjet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94200-1-p2s4w15">
 <src.rf>manual</src.rf>
@@ -513,7 +513,7 @@
 <LM>w#w-ln94200-1-p2s5w4</LM>
 </w.rf>
 <form>neilustrovat</form>
-<tag lemma="ilustrovat_:T_:W" src="orig" selected="1">Vf--------N----</tag>
+<tag lemma="ilustrovat" src="orig" selected="1">Vf--------N-B--</tag>
 </m>
 <m id="m-ln94200-1-p2s5w5">
 <src.rf>manual</src.rf>
@@ -545,7 +545,7 @@
 <LM>w#w-ln94200-1-p2s5w8</LM>
 </w.rf>
 <form>vytvářet</form>
-<tag lemma="vytvářet_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vytvářet" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94200-1-p2s5w9">
 <src.rf>manual</src.rf>
@@ -609,7 +609,7 @@
 <LM>w#w-ln94200-1-p2s5w16</LM>
 </w.rf>
 <form>dospět</form>
-<tag lemma="dospět" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="dospět" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94200-1-p2s5w17">
 <src.rf>manual</src.rf>

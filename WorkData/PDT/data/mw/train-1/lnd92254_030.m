@@ -703,7 +703,7 @@
 <LM>w#w-lnd92254-030-p3s7w4</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92254-030-p3s7w5">
 <src.rf>manual</src.rf>
@@ -777,7 +777,7 @@
 <LM>w#w-lnd92254-030-p3s8w5</LM>
 </w.rf>
 <form>létat</form>
-<tag lemma="létat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="létat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd92254-030-p3s8w6">
 <src.rf>manual</src.rf>
@@ -1010,7 +1010,7 @@
 <LM>w#w-lnd92254-030-p3s11w5</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92254-030-p3s11w6">
 <src.rf>manual</src.rf>

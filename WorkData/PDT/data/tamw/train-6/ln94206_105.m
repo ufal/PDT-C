@@ -308,7 +308,7 @@
 <LM>w#w-ln94206-105-p2s2w11</LM>
 </w.rf>
 <form>uhnízdí</form>
-<tag lemma="uhnízdit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="uhnízdit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94206-105-p2s2w12">
 <src.rf>manual</src.rf>
@@ -952,7 +952,7 @@
 <LM>w#w-ln94206-105-p3s1w15</LM>
 </w.rf>
 <form>kritizovat</form>
-<tag lemma="kritizovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="kritizovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94206-105-p3s1w16">
 <src.rf>manual</src.rf>

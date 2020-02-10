@@ -47,7 +47,7 @@
 <LM>w#w-ln94204-26-p1s1w4</LM>
 </w.rf>
 <form>stáčejí</form>
-<tag lemma="stáčet_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="stáčet" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94204-26-p1s1w5">
 <src.rf>manual</src.rf>
@@ -166,7 +166,7 @@
 <LM>w#w-ln94204-26-p1s2w4</LM>
 </w.rf>
 <form>naplní</form>
-<tag lemma="naplnit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="naplnit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94204-26-p1s2w5">
 <src.rf>manual</src.rf>

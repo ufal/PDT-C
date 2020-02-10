@@ -438,7 +438,7 @@
 <LM>w#w-ln95040-031-p2s3w2</LM>
 </w.rf>
 <form>demolovat</form>
-<tag lemma="demolovat_:T_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="demolovat" src="orig" selected="1">Vf--------A-B--</tag>
 </m>
 <m id="m-ln95040-031-p2s3w3">
 <src.rf>manual</src.rf>
@@ -528,7 +528,7 @@
 <LM>w#w-ln95040-031-p2s4w2</LM>
 </w.rf>
 <form>zakročit</form>
-<tag lemma="zakročit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zakročit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95040-031-p2s4w3">
 <src.rf>manual</src.rf>

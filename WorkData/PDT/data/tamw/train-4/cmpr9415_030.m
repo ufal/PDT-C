@@ -167,7 +167,7 @@
 <LM>w#w-cmpr9415-030-p3s1w17</LM>
 </w.rf>
 <form>působí</form>
-<tag lemma="působit_:T_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="působit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9415-030-p3s1w18">
 <src.rf>manual</src.rf>
@@ -491,7 +491,7 @@
 <LM>w#w-cmpr9415-030-p3s3w11</LM>
 </w.rf>
 <form>mít</form>
-<tag lemma="mít" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="mít" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-cmpr9415-030-p3s3w12">
 <src.rf>manual</src.rf>

@@ -579,7 +579,7 @@
 <LM>w#w-ln94211-61-p2s3w15</LM>
 </w.rf>
 <form>odvezou</form>
-<tag lemma="odvézt" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="odvézt" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-ln94211-61-p2s3w16">
 <src.rf>manual</src.rf>
@@ -637,7 +637,7 @@
 <LM>w#w-ln94211-61-p2s4w4</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94211-61-p2s4w5">
 <src.rf>manual</src.rf>

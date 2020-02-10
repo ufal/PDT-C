@@ -355,7 +355,7 @@
 <LM>w#w-lnd92252-079-p3s3w8</LM>
 </w.rf>
 <form>přerušit</form>
-<tag lemma="přerušit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="přerušit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92252-079-p3s3w9">
 <src.rf>manual</src.rf>

@@ -8429,7 +8429,7 @@
 <LM>w#w-mf930708-072-p66s1w13</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-072-p66s1w14">
 <src.rf>manual</src.rf>

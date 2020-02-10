@@ -287,7 +287,7 @@
 <LM>w#w-ln94211-59-p2s2w23</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94211-59-p2s2w24">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <LM>w#w-ln94211-59-p2s3w2</LM>
 </w.rf>
 <form>znázorňuje</form>
-<tag lemma="znázorňovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="znázorňovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94211-59-p2s3w3">
 <src.rf>manual</src.rf>

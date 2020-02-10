@@ -306,7 +306,7 @@
 <LM>w#w-ln95042-089-p2s3w9</LM>
 </w.rf>
 <form>zaplatí</form>
-<tag lemma="zaplatit_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="zaplatit" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-ln95042-089-p2s3w10">
 <src.rf>manual</src.rf>
@@ -697,7 +697,7 @@
 <LM>w#w-ln95042-089-p4s1w5</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95042-089-p4s1w6">
 <src.rf>manual</src.rf>
@@ -951,7 +951,7 @@
 <LM>w#w-ln95042-089-p5s1w11</LM>
 </w.rf>
 <form>znamená</form>
-<tag lemma="znamenat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="znamenat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95042-089-p5s1w12">
 <src.rf>manual</src.rf>
@@ -1172,7 +1172,7 @@
 <LM>w#w-ln95042-089-p5s2w16</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95042-089-p5s2w17">
 <src.rf>manual</src.rf>
@@ -1391,7 +1391,7 @@
 <LM>w#w-ln95042-089-p6s2w3</LM>
 </w.rf>
 <form>navrhne</form>
-<tag lemma="navrhnout_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="navrhnout" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95042-089-p6s2w4">
 <src.rf>manual</src.rf>
@@ -1399,7 +1399,7 @@
 <LM>w#w-ln95042-089-p6s2w4</LM>
 </w.rf>
 <form>vyplatit</form>
-<tag lemma="vyplatit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vyplatit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95042-089-p6s2w5">
 <src.rf>manual</src.rf>
@@ -1574,10 +1574,10 @@
 <form>SPAS</form>
 <tag>
 <AM lemma="SPAS_:B_;K_^(kupónový_fond)" src="orig">NNIXX-----A---8</AM>
-<AM lemma="spasit_:W" src="auto" recommended="1">Vi-S---2--A----</AM>
-<AM lemma="spasit_:W" src="auto">Vi-S---3--A---4</AM>
-<AM lemma="spást" src="auto">Vi-S---2--A----</AM>
-<AM lemma="spást" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="spasit" src="auto" recommended="1">Vi-S---2--A-P--</AM>
+<AM lemma="spasit" src="auto">Vi-S---3--A-P-4</AM>
+<AM lemma="spást" src="auto">Vi-S---2--A-P--</AM>
+<AM lemma="spást" src="auto">Vi-S---3--A-P-4</AM>
 <AM lemma="SPAS_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="SPAS-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
@@ -1671,7 +1671,7 @@
 <LM>w#w-ln95042-089-p6s3w12</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95042-089-p6s3w13">
 <src.rf>manual</src.rf>
@@ -1907,7 +1907,7 @@
 <LM>w#w-ln95042-089-p7s1w19</LM>
 </w.rf>
 <form>získat</form>
-<tag lemma="získat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="získat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95042-089-p7s1w20">
 <src.rf>manual</src.rf>

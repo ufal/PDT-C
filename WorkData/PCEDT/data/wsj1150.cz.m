@@ -47,7 +47,7 @@
 <LM>w#w-wsj1150-001-p1s0W4</LM>
 </w.rf>
 <form>></form>
-<tag lemma=">" src="auto" recommended="1">Z:-------------</tag>
+<tag lemma="&gt;" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj1150-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>

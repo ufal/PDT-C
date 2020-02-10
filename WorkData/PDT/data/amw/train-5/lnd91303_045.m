@@ -156,7 +156,7 @@
 <LM>w#w-lnd91303-045-p3s1w10</LM>
 </w.rf>
 <form>neexistuje</form>
-<tag lemma="existovat_:T" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="existovat" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-lnd91303-045-p3s1w11">
 <src.rf>manual</src.rf>
@@ -183,7 +183,7 @@
 <LM>w#w-lnd91303-045-p3s1w13</LM>
 </w.rf>
 <form>považuje</form>
-<tag lemma="považovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="považovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd91303-045-p3s1w14">
 <src.rf>manual</src.rf>
@@ -327,7 +327,7 @@
 <LM>w#w-lnd91303-045-p3s1w31</LM>
 </w.rf>
 <form>zůstanu</form>
-<tag lemma="zůstat" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="zůstat" src="orig" selected="1">VB-S---1P-AAP--</tag>
 </m>
 <m id="m-lnd91303-045-p3s1w32">
 <src.rf>manual</src.rf>
@@ -371,7 +371,7 @@
 <LM>w#w-lnd91303-045-p3s1w36</LM>
 </w.rf>
 <form>nedovedu</form>
-<tag lemma="dovést" src="orig" selected="1">VB-S---1P-NA---</tag>
+<tag lemma="dovést" src="orig" selected="1">VB-S---1P-NAP--</tag>
 </m>
 <m id="m-lnd91303-045-p3s1w37">
 <src.rf>manual</src.rf>
@@ -387,7 +387,7 @@
 <LM>w#w-lnd91303-045-p3s1w38</LM>
 </w.rf>
 <form>zvyknout</form>
-<tag lemma="zvyknout_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zvyknout" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd91303-045-p3s1w39">
 <src.rf>manual</src.rf>
@@ -405,7 +405,7 @@
 <LM>w#w-lnd91303-045-p3s2w1</LM>
 </w.rf>
 <form>Nedokážu</form>
-<tag lemma="dokázat" src="orig" selected="1">VB-S---1P-NA---</tag>
+<tag lemma="dokázat" src="orig" selected="1">VB-S---1P-NAP--</tag>
 </m>
 <m id="m-lnd91303-045-p3s2w2">
 <src.rf>manual</src.rf>
@@ -413,7 +413,7 @@
 <LM>w#w-lnd91303-045-p3s2w2</LM>
 </w.rf>
 <form>jet</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd91303-045-p3s2w3">
 <src.rf>manual</src.rf>
@@ -429,7 +429,7 @@
 <LM>w#w-lnd91303-045-p3s2w4</LM>
 </w.rf>
 <form>dejme</form>
-<tag lemma="dát" src="orig" selected="1">Vi-P---1--A----</tag>
+<tag lemma="dát" src="orig" selected="1">Vi-P---1--A-P--</tag>
 </m>
 <m id="m-lnd91303-045-p3s2w5">
 <src.rf>manual</src.rf>
@@ -477,7 +477,7 @@
 <LM>w#w-lnd91303-045-p3s2w10</LM>
 </w.rf>
 <form>cítit</form>
-<tag lemma="cítit_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="cítit" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd91303-045-p3s2w11">
 <src.rf>manual</src.rf>
@@ -543,7 +543,7 @@
 <LM>w#w-lnd91303-045-p3s3w3</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd91303-045-p3s3w4">
 <src.rf>manual</src.rf>
@@ -823,7 +823,7 @@
 <LM>w#w-lnd91303-045-p3s4Bw6</LM>
 </w.rf>
 <form>mrzí</form>
-<tag lemma="mrzet" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="mrzet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd91303-045-p3s4Bw7">
 <src.rf>manual</src.rf>
@@ -887,7 +887,7 @@
 <LM>w#w-lnd91303-045-p3s4Bw14</LM>
 </w.rf>
 <form>vyslechnout</form>
-<tag lemma="vyslechnout_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vyslechnout" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd91303-045-p3s4Bw15">
 <src.rf>manual</src.rf>
@@ -911,7 +911,7 @@
 <LM>w#w-lnd91303-045-p3s4Bw17</LM>
 </w.rf>
 <form>jsem</form>
-<tag lemma="být" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-lnd91303-045-p3s4Bw18">
 <src.rf>manual</src.rf>
@@ -1186,7 +1186,7 @@
 <AM lemma="Sero_;G" src="auto">NNNP4-----A----</AM>
 <AM lemma="Sero_;G" src="auto">NNNP5-----A----</AM>
 <AM lemma="Sero_;G" src="auto">NNNS2-----A----</AM>
-<AM lemma="srát_:T" src="auto">VeYS------A----</AM>
+<AM lemma="srát" src="auto">VeYS------A-I--</AM>
 <AM lemma="sérum" src="auto">NNNP1-----A----</AM>
 <AM lemma="sérum" src="auto">NNNP4-----A----</AM>
 <AM lemma="sérum" src="auto">NNNP5-----A----</AM>

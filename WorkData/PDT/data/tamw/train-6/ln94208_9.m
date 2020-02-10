@@ -319,7 +319,7 @@
 <LM>w#w-ln94208-9-p1s3w8</LM>
 </w.rf>
 <form>vyslovovat</form>
-<tag lemma="vyslovovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vyslovovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94208-9-p1s3w9">
 <src.rf>manual</src.rf>
@@ -361,7 +361,7 @@
 <LM>w#w-ln94208-9-p1s4w2</LM>
 </w.rf>
 <form>vzpomíná</form>
-<tag lemma="vzpomínat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vzpomínat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94208-9-p1s4w3">
 <src.rf>manual</src.rf>

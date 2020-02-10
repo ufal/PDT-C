@@ -43,7 +43,7 @@
 <LM>w#w-ln94203-16-p1s1w4</LM>
 </w.rf>
 <form>přežije</form>
-<tag lemma="přežít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="přežít" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 </s>
 <s id="m-ln94203-16-p2s1A">
@@ -191,7 +191,7 @@
 <LM>w#w-ln94203-16-p2s1Bw16</LM>
 </w.rf>
 <form>žije</form>
-<tag lemma="žít" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="žít" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94203-16-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -225,7 +225,7 @@
 <LM>w#w-ln94203-16-p2s2w3</LM>
 </w.rf>
 <form>doufá</form>
-<tag lemma="doufat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="doufat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94203-16-p2s2w4">
 <src.rf>manual</src.rf>
@@ -273,7 +273,7 @@
 <LM>w#w-ln94203-16-p2s2w9</LM>
 </w.rf>
 <form>poskytne</form>
-<tag lemma="poskytnout_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="poskytnout" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94203-16-p2s2w10">
 <src.rf>manual</src.rf>
@@ -502,7 +502,7 @@
 <LM>w#w-ln94203-16-p2s4w3</LM>
 </w.rf>
 <form>vyšetřuje</form>
-<tag lemma="vyšetřovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vyšetřovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94203-16-p2s4w4">
 <src.rf>manual</src.rf>
@@ -904,7 +904,7 @@
 <LM>w#w-ln94203-16-p3s1Bw15</LM>
 </w.rf>
 <form>doplazit</form>
-<tag lemma="doplazit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="doplazit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94203-16-p3s1Bw16">
 <src.rf>manual</src.rf>

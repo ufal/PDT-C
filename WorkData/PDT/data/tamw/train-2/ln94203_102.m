@@ -35,7 +35,7 @@
 <LM>w#w-ln94203-102-p1s1w3</LM>
 </w.rf>
 <form>nevzdává</form>
-<tag lemma="vzdávat_:T_^(*3t)" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="vzdávat_^(*3t)" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 </s>
 <s id="m-ln94203-102-p2s1A">
@@ -199,7 +199,7 @@
 <LM>w#w-ln94203-102-p2s1Bw18</LM>
 </w.rf>
 <form>hodlá</form>
-<tag lemma="hodlat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="hodlat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94203-102-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -207,7 +207,7 @@
 <LM>w#w-ln94203-102-p2s1Bw19</LM>
 </w.rf>
 <form>ucházet</form>
-<tag lemma="ucházet_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="ucházet" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94203-102-p2s1Bw20">
 <src.rf>manual</src.rf>

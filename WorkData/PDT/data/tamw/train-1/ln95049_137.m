@@ -69,7 +69,7 @@
 <LM>w#w-ln95049-137-p2s1w6</LM>
 </w.rf>
 <form>projevuje</form>
-<tag lemma="projevovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="projevovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95049-137-p2s1w7">
 <src.rf>manual</src.rf>

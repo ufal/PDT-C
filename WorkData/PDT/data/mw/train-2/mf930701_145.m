@@ -379,7 +379,7 @@
 <LM>w#w-mf930701-145-p10s1w6</LM>
 </w.rf>
 <form>pokračuje</form>
-<tag lemma="pokračovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="pokračovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 </s>
 <s id="m-mf930701-145-p11s1">
@@ -405,7 +405,7 @@
 <LM>w#w-mf930701-145-p11s1w3</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930701-145-p11s1w4">
 <src.rf>manual</src.rf>
@@ -481,7 +481,7 @@
 <LM>w#w-mf930701-145-p13s1w3</LM>
 </w.rf>
 <form>dokáže</form>
-<tag lemma="dokázat" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="dokázat" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930701-145-p13s1w4">
 <src.rf>manual</src.rf>
@@ -1403,7 +1403,7 @@
 <LM>w#w-mf930701-145-p35s1w4</LM>
 </w.rf>
 <form>spát</form>
-<tag lemma="spát" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="spát" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf930701-145-p35s1w5">
 <src.rf>manual</src.rf>

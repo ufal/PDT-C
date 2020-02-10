@@ -99,7 +99,7 @@
 <LM>w#w-mf920923-020-p2s1w9</LM>
 </w.rf>
 <form>zazní</form>
-<tag lemma="zaznít" src="orig" selected="1">VB-P---3P-AA--1</tag>
+<tag lemma="zaznít" src="orig" selected="1">VB-P---3P-AAP-1</tag>
 </m>
 <m id="m-mf920923-020-p2s1w10">
 <src.rf>manual</src.rf>
@@ -336,7 +336,7 @@
 <LM>w#w-mf920923-020-p3s1w4</LM>
 </w.rf>
 <form>vystoupí</form>
-<tag lemma="vystoupit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vystoupit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf920923-020-p3s1w5">
 <src.rf>manual</src.rf>
@@ -509,7 +509,7 @@
 <LM>w#w-mf920923-020-p4s1w11</LM>
 </w.rf>
 <form>hostuje</form>
-<tag lemma="hostovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="hostovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920923-020-p4s1w12">
 <src.rf>manual</src.rf>
@@ -623,7 +623,7 @@
 <LM>w#w-mf920923-020-p5s1w7</LM>
 </w.rf>
 <form>vystoupí</form>
-<tag lemma="vystoupit_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="vystoupit" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-mf920923-020-p5s1w8">
 <src.rf>manual</src.rf>

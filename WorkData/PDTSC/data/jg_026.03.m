@@ -120,7 +120,7 @@
 <LM>w#w-d1t1051-6</LM>
 </w.rf>
 <form>jsme</form>
-<tag lemma="být" src="auto" recommended="1">VB-P---1P-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m026-d1t1051-7">
 <w.rf>
@@ -142,8 +142,8 @@
 </w.rf>
 <form>mokří</form>
 <tag>
-<AM lemma="mokřit_:T" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="mokřit_:T" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="mokřit" src="auto">VB-P---3P-AAI--</AM>
+<AM lemma="mokřit" src="auto">VB-S---3P-AAI--</AM>
 <AM lemma="mokrý" src="auto" recommended="1">AAMP1----1A----</AM>
 <AM lemma="mokrý" src="auto">AAMP5----1A----</AM>
 </tag>
@@ -177,7 +177,7 @@
 <LM>w#w-d1t1051-12</LM>
 </w.rf>
 <form>jsme</form>
-<tag lemma="být" src="auto" recommended="1">VB-P---1P-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m026-d1t1051-14">
 <w.rf>
@@ -264,7 +264,7 @@
 <LM>w#w-d1t1053-5</LM>
 </w.rf>
 <form>jsme</form>
-<tag lemma="být" src="auto" recommended="1">VB-P---1P-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m026-d1t1053-6">
 <w.rf>
@@ -313,7 +313,7 @@
 <LM>w#w-d1t1053-11</LM>
 </w.rf>
 <form>jsme</form>
-<tag lemma="být" src="auto" recommended="1">VB-P---1P-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m026-d1t1053-12">
 <w.rf>
@@ -419,7 +419,7 @@
 </w.rf>
 <form>mám</form>
 <tag>
-<AM lemma="mít" src="auto" recommended="1">VB-S---1P-AA---</AM>
+<AM lemma="mít" src="auto" recommended="1">VB-S---1P-AAI--</AM>
 <AM lemma="máma" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -438,7 +438,7 @@
 <LM>w#w-d1t1059-6</LM>
 </w.rf>
 <form>povídat</form>
-<tag lemma="povídat_:T" src="auto" recommended="1">Vf--------A----</tag>
+<tag lemma="povídat" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="m026-d1e1054-x2-220">
 <w.rf>
@@ -571,7 +571,7 @@
 <LM>w#w-d1t1065-1</LM>
 </w.rf>
 <form>Řeknete</form>
-<tag lemma="říci" src="auto" recommended="1">VB-P---2P-AA---</tag>
+<tag lemma="říci" src="auto" recommended="1">VB-P---2P-AAP--</tag>
 </m>
 <m id="m026-d1t1065-2">
 <w.rf>

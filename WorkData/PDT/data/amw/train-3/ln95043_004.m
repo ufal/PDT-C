@@ -91,7 +91,7 @@
 <LM>w#w-ln95043-004-p1s1w10</LM>
 </w.rf>
 <form>prohlíží</form>
-<tag lemma="prohlížet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="prohlížet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95043-004-p1s1w11">
 <src.rf>manual</src.rf>

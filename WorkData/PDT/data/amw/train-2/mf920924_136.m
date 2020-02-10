@@ -359,7 +359,7 @@
 <LM>w#w-mf920924-136-p2s4w8</LM>
 </w.rf>
 <form>zřídí</form>
-<tag lemma="zřídit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zřídit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf920924-136-p2s4w9">
 <src.rf>manual</src.rf>

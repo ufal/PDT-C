@@ -219,7 +219,7 @@
 <LM>w#w-lnd92253-052-p1s3w4</LM>
 </w.rf>
 <form>představuje</form>
-<tag lemma="představovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="představovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92253-052-p1s3w5">
 <src.rf>manual</src.rf>

@@ -139,7 +139,7 @@
 <LM>w#w-lnd92254-080-p1s1w16</LM>
 </w.rf>
 <form>začne</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd92254-080-p1s1w17">
 <src.rf>manual</src.rf>
@@ -155,7 +155,7 @@
 <LM>w#w-lnd92254-080-p1s1w18</LM>
 </w.rf>
 <form>rozšiřovat</form>
-<tag lemma="rozšiřovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="rozšiřovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd92254-080-p1s1w19">
 <src.rf>manual</src.rf>

@@ -278,7 +278,7 @@
 <LM>w#w-lnd94103-075-p1s4w1</LM>
 </w.rf>
 <form>Vyplývá</form>
-<tag lemma="vyplývat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vyplývat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94103-075-p1s4w2">
 <src.rf>manual</src.rf>

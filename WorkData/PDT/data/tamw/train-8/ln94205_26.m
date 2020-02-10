@@ -35,7 +35,7 @@
 <LM>w#w-ln94205-26-p1s1w3</LM>
 </w.rf>
 <form>lze</form>
-<tag lemma="lze" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="lze" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94205-26-p1s1w4">
 <src.rf>manual</src.rf>
@@ -43,7 +43,7 @@
 <LM>w#w-ln94205-26-p1s1w4</LM>
 </w.rf>
 <form>vyvézt</form>
-<tag lemma="vyvézt" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vyvézt" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94205-26-p1s1w5">
 <src.rf>manual</src.rf>
@@ -351,7 +351,7 @@
 <LM>w#w-ln94205-26-p2s3w4</LM>
 </w.rf>
 <form>převážet</form>
-<tag lemma="převážet_:T_^(něco_někam_např._autem)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="převážet_^(něco_někam_např._autem)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94205-26-p2s3w5">
 <src.rf>manual</src.rf>

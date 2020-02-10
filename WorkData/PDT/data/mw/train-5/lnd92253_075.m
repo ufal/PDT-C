@@ -396,7 +396,7 @@
 <LM>w#w-lnd92253-075-p3s3w16</LM>
 </w.rf>
 <form>postaví</form>
-<tag lemma="postavit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="postavit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd92253-075-p3s3w17">
 <src.rf>manual</src.rf>
@@ -436,7 +436,7 @@
 <LM>w#w-lnd92253-075-p3s3w21</LM>
 </w.rf>
 <form>mají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92253-075-p3s3w22">
 <src.rf>manual</src.rf>
@@ -590,7 +590,7 @@
 <LM>w#w-lnd92253-075-p3s4w12</LM>
 </w.rf>
 <form>odhodlá</form>
-<tag lemma="odhodlat_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="odhodlat" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd92253-075-p3s4w13">
 <src.rf>manual</src.rf>
@@ -744,7 +744,7 @@
 <LM>w#w-lnd92253-075-p3s5w12</LM>
 </w.rf>
 <form>nezačíná</form>
-<tag lemma="začínat_:T" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="začínat" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-lnd92253-075-p3s5w13">
 <src.rf>manual</src.rf>
@@ -752,7 +752,7 @@
 <LM>w#w-lnd92253-075-p3s5w13</LM>
 </w.rf>
 <form>kymácet</form>
-<tag lemma="kymácet_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="kymácet" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd92253-075-p3s5w14">
 <src.rf>manual</src.rf>
@@ -800,7 +800,7 @@
 <LM>w#w-lnd92253-075-p3s5w19</LM>
 </w.rf>
 <form>jsem</form>
-<tag lemma="být" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-lnd92253-075-p3s5w20">
 <src.rf>manual</src.rf>
@@ -816,7 +816,7 @@
 <LM>w#w-lnd92253-075-p3s5w21</LM>
 </w.rf>
 <form>rezignovat</form>
-<tag lemma="rezignovat_:T_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="rezignovat" src="orig" selected="1">Vf--------A-B--</tag>
 </m>
 <m id="m-lnd92253-075-p3s5w22">
 <src.rf>manual</src.rf>
@@ -897,7 +897,7 @@
 <LM>w#w-lnd92253-075-p3s5w31</LM>
 </w.rf>
 <form>pokračuji</form>
-<tag lemma="pokračovat_:T" src="orig" selected="1">VB-S---1P-AA--1</tag>
+<tag lemma="pokračovat" src="orig" selected="1">VB-S---1P-AAI-1</tag>
 </m>
 <m id="m-lnd92253-075-p3s5w32">
 <src.rf>manual</src.rf>

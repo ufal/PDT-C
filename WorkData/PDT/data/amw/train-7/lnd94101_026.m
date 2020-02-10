@@ -110,7 +110,7 @@
 <LM>w#w-lnd94101-026-p1s1w12</LM>
 </w.rf>
 <form>předloží</form>
-<tag lemma="předložit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="předložit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd94101-026-p1s1w13">
 <src.rf>manual</src.rf>

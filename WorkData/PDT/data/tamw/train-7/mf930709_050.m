@@ -368,7 +368,7 @@
 <LM>w#w-mf930709-050-p3s3w9</LM>
 </w.rf>
 <form>potrvá</form>
-<tag lemma="potrvat_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="potrvat" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930709-050-p3s3w10">
 <src.rf>manual</src.rf>
@@ -434,7 +434,7 @@
 <LM>w#w-mf930709-050-p3s4w3</LM>
 </w.rf>
 <form>představí</form>
-<tag lemma="představit-1_:W_^(si_něco;_něco/někoho_někomu)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="představit-1_^(si_něco;_něco/někoho_někomu)" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930709-050-p3s4w4">
 <src.rf>manual</src.rf>
@@ -759,7 +759,7 @@
 <LM>w#w-mf930709-050-p3s5w23</LM>
 </w.rf>
 <form>vzkřísit</form>
-<tag lemma="vzkřísit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vzkřísit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930709-050-p3s5w24">
 <src.rf>manual</src.rf>
@@ -999,7 +999,7 @@
 <LM>w#w-mf930709-050-p3s6w19</LM>
 </w.rf>
 <form>znamená</form>
-<tag lemma="znamenat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="znamenat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930709-050-p3s6w20">
 <src.rf>manual</src.rf>

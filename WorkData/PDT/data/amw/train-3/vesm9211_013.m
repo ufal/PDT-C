@@ -55,7 +55,7 @@
 </w.rf>
 <form>obsahuje</form>
 <tag>
-<AM lemma="obsahovat_:T" src="orig">VB-S---3P-AA---</AM>
+<AM lemma="obsahovat" src="orig">VB-S---3P-AAI--</AM>
 <AM lemma="obsahuje_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="obsahuje-77" src="manual" selected="1">F%-------------</AM>
 </tag>

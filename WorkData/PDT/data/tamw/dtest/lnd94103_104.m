@@ -59,7 +59,7 @@
 <LM>w#w-lnd94103-104-p1s1w6</LM>
 </w.rf>
 <form>spoléhat</form>
-<tag lemma="spoléhat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="spoléhat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd94103-104-p1s1w7">
 <src.rf>manual</src.rf>

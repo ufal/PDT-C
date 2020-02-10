@@ -115,7 +115,7 @@
 <LM>w#w-mf920925-039-p1s1w13</LM>
 </w.rf>
 <form>baví</form>
-<tag lemma="bavit_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="bavit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-039-p1s1w14">
 <src.rf>manual</src.rf>

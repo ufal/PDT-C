@@ -7420,8 +7420,8 @@
 <tag>
 <AM lemma="Bulharsko_:B_;G" src="orig">NNNXX-----A---8</AM>
 <AM lemma="bula" src="auto">NNFP2-----A----</AM>
-<AM lemma="bulit_:T" src="auto" recommended="1">Vi-S---2--A----</AM>
-<AM lemma="bulit_:T" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="bulit" src="auto" recommended="1">Vi-S---2--A-I--</AM>
+<AM lemma="bulit" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="Bulharsko_;G" src="manual" selected="1">NNNXX-----A---8</AM>
 </tag>
 </m>

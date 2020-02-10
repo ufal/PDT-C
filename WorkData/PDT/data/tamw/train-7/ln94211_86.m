@@ -59,7 +59,7 @@
 <LM>w#w-ln94211-86-p1s1Aw6</LM>
 </w.rf>
 <form>poznají</form>
-<tag lemma="poznat_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="poznat" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 </s>
 <s id="m-ln94211-86-p1s1B">

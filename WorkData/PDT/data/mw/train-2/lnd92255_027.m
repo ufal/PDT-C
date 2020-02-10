@@ -56,8 +56,8 @@
 <tag>
 <AM lemma="hoj-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="hoj" src="auto" recommended="1">II-------------</AM>
-<AM lemma="hojit_:T" src="auto">Vi-S---2--A----</AM>
-<AM lemma="hojit_:T" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="hojit" src="auto">Vi-S---2--A-I--</AM>
+<AM lemma="hojit" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="hoj-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -396,7 +396,7 @@
 <LM>w#w-lnd92255-027-p2s5w15</LM>
 </w.rf>
 <form>blíží</form>
-<tag lemma="blížit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="blížit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92255-027-p2s5w16">
 <src.rf>manual</src.rf>

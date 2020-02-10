@@ -591,7 +591,7 @@
 <form>stojí</form>
 <tag>
 <AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-023-p8s2w5">
@@ -630,7 +630,7 @@
 <LM>w#w-cmpr9406-023-p8s3w1</LM>
 </w.rf>
 <form>Používá</form>
-<tag lemma="používat_:T_^(*3t)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="používat_^(*3t)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9406-023-p8s3w2">
 <src.rf>manual</src.rf>
@@ -1794,7 +1794,7 @@
 <LM>w#w-cmpr9406-023-p9s1Bw13</LM>
 </w.rf>
 <form>směrují</form>
-<tag lemma="směrovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="směrovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9406-023-p9s1Bw14">
 <src.rf>manual</src.rf>

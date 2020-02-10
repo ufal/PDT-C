@@ -358,7 +358,7 @@
 <LM>w#w-ln95046-121-p2s2w7</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-ln95046-121-p2s2w8">
 <src.rf>manual</src.rf>
@@ -374,7 +374,7 @@
 <LM>w#w-ln95046-121-p2s2w9</LM>
 </w.rf>
 <form>osvětlit</form>
-<tag lemma="osvětlit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="osvětlit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95046-121-p2s2w10">
 <src.rf>manual</src.rf>

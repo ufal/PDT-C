@@ -67,7 +67,7 @@
 <LM>w#w-ln95048-106-p1s1w7</LM>
 </w.rf>
 <form>přihlížejí</form>
-<tag lemma="přihlížet_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="přihlížet" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95048-106-p1s1w8">
 <src.rf>manual</src.rf>

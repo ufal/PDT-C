@@ -102,7 +102,7 @@
 <LM>w#w-lnd92256-086-p1s1w11</LM>
 </w.rf>
 <form>věnuje</form>
-<tag lemma="věnovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="věnovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92256-086-p1s1w12">
 <src.rf>manual</src.rf>
@@ -144,7 +144,7 @@
 <LM>w#w-lnd92256-086-p1s2w1</LM>
 </w.rf>
 <form>Podporuje</form>
-<tag lemma="podporovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="podporovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92256-086-p1s2w2">
 <src.rf>manual</src.rf>
@@ -184,7 +184,7 @@
 <LM>w#w-lnd92256-086-p1s2w6</LM>
 </w.rf>
 <form>objednává</form>
-<tag lemma="objednávat_:T_^(*4at)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="objednávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92256-086-p1s2w7">
 <src.rf>manual</src.rf>
@@ -277,7 +277,7 @@
 <LM>w#w-lnd92256-086-p1s3w5</LM>
 </w.rf>
 <form>řídí</form>
-<tag lemma="řídit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="řídit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92256-086-p1s3w6">
 <src.rf>manual</src.rf>
@@ -500,7 +500,7 @@
 <tag>
 <AM lemma="de_,t_^(z_franc._de,_zejm._ve_jménech)" src="orig">RR--X----------</AM>
 <AM lemma="DU-1_:B_,t_^(Dobson_unit)" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="jít" src="auto">VB-S---1P-AA--6</AM>
+<AM lemma="jít" src="auto">VB-S---1P-AAI-6</AM>
 <AM lemma="du_,t" src="auto">XX-------------</AM>
 <AM lemma="DU-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -545,7 +545,7 @@
 <LM>w#w-lnd92256-086-p1s4w9</LM>
 </w.rf>
 <form>koncertuje</form>
-<tag lemma="koncertovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="koncertovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92256-086-p1s4w10">
 <src.rf>manual</src.rf>
@@ -659,7 +659,7 @@
 <LM>w#w-lnd92256-086-p1s5w2</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92256-086-p1s5w3">
 <src.rf>manual</src.rf>

@@ -697,7 +697,7 @@
 <LM>w#w-lnd92251-025-p3s6w21</LM>
 </w.rf>
 <form>vyloupit</form>
-<tag lemma="vyloupit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vyloupit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92251-025-p3s6w22">
 <src.rf>manual</src.rf>
@@ -878,7 +878,7 @@
 <LM>w#w-lnd92251-025-p3s7w9</LM>
 </w.rf>
 <form>vniknout</form>
-<tag lemma="vniknout_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vniknout" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92251-025-p3s7w10">
 <src.rf>manual</src.rf>

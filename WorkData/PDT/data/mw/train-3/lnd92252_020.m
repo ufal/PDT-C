@@ -377,7 +377,7 @@
 <LM>w#w-lnd92252-020-p3s3w4</LM>
 </w.rf>
 <form>uvádí</form>
-<tag lemma="uvádět_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="uvádět" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92252-020-p3s3w5">
 <src.rf>manual</src.rf>
@@ -489,7 +489,7 @@
 <LM>w#w-lnd92252-020-p3s3w18</LM>
 </w.rf>
 <form>rozbít</form>
-<tag lemma="rozbít" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="rozbít" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92252-020-p3s3w19">
 <src.rf>manual</src.rf>
@@ -521,7 +521,7 @@
 <LM>w#w-lnd92252-020-p3s3w22</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-lnd92252-020-p3s3w23">
 <src.rf>manual</src.rf>
@@ -561,7 +561,7 @@
 <LM>w#w-lnd92252-020-p3s3w27</LM>
 </w.rf>
 <form>vyjádřit</form>
-<tag lemma="vyjádřit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vyjádřit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92252-020-p3s3w28">
 <src.rf>manual</src.rf>

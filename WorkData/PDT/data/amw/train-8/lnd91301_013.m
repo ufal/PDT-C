@@ -27,7 +27,7 @@
 <LM>w#w-lnd91301-013-p1s1w2</LM>
 </w.rf>
 <form>VYZÝVAJÍ</form>
-<tag lemma="vyzývat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="vyzývat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd91301-013-p1s1w3">
 <src.rf>manual</src.rf>
@@ -43,7 +43,7 @@
 <LM>w#w-lnd91301-013-p1s1w4</LM>
 </w.rf>
 <form>Svrhněme</form>
-<tag lemma="svrhnout_:W" src="orig" selected="1">Vi-P---1--A----</tag>
+<tag lemma="svrhnout" src="orig" selected="1">Vi-P---1--A-P--</tag>
 </m>
 <m id="m-lnd91301-013-p1s1w5">
 <src.rf>manual</src.rf>

@@ -53,7 +53,7 @@
 <LM>w#w-mf920924-048-p2s1w3</LM>
 </w.rf>
 <form>hledá</form>
-<tag lemma="hledat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="hledat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920924-048-p2s1w4">
 <src.rf>manual</src.rf>
@@ -208,7 +208,7 @@
 <LM>w#w-mf920924-048-p2s1w22</LM>
 </w.rf>
 <form>uvádí</form>
-<tag lemma="uvádět_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="uvádět" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920924-048-p2s1w23">
 <src.rf>manual</src.rf>
@@ -783,7 +783,7 @@
 <LM>w#w-mf920924-048-p4s2w12</LM>
 </w.rf>
 <form>neztrácí</form>
-<tag lemma="ztrácet_:T" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="ztrácet" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-mf920924-048-p4s2w13">
 <src.rf>manual</src.rf>

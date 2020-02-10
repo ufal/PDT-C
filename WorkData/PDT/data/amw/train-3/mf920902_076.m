@@ -27,7 +27,7 @@
 <LM>w#w-mf920902-076-p1s1w2</LM>
 </w.rf>
 <form>Bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-mf920902-076-p1s1w3">
 <src.rf>manual</src.rf>
@@ -240,7 +240,7 @@
 <LM>w#w-mf920902-076-p2s1w2</LM>
 </w.rf>
 <form>Viz</form>
-<tag lemma="viz_:W_^(odkaz_na_jiné_místo)" src="orig" selected="1">Vi-S---2--A---1</tag>
+<tag lemma="viz_^(odkaz_na_jiné_místo)" src="orig" selected="1">Vi-S---2--A-P-1</tag>
 </m>
 <m id="m-mf920902-076-p2s1w3">
 <src.rf>manual</src.rf>

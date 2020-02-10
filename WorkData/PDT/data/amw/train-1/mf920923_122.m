@@ -93,7 +93,7 @@
 <LM>w#w-mf920923-122-p1s1Bw5</LM>
 </w.rf>
 <form>NEBUDE</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-NAI--</tag>
 </m>
 </s>
 <s id="m-mf920923-122-p2s1">
@@ -426,7 +426,7 @@
 <LM>w#w-mf920923-122-p2s3w14</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920923-122-p2s3w15">
 <src.rf>manual</src.rf>
@@ -540,7 +540,7 @@
 <LM>w#w-mf920923-122-p2s4w9</LM>
 </w.rf>
 <form>znemožní</form>
-<tag lemma="znemožnit_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="znemožnit" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-mf920923-122-p2s4w10">
 <src.rf>manual</src.rf>
@@ -548,7 +548,7 @@
 <LM>w#w-mf920923-122-p2s4w10</LM>
 </w.rf>
 <form>obnovit</form>
-<tag lemma="obnovit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="obnovit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920923-122-p2s4w11">
 <src.rf>manual</src.rf>

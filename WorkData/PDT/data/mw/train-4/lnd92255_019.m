@@ -83,7 +83,7 @@
 <LM>w#w-lnd92255-019-p1s1w9</LM>
 </w.rf>
 <form>pořádá</form>
-<tag lemma="pořádat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="pořádat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92255-019-p1s1w10">
 <src.rf>manual</src.rf>

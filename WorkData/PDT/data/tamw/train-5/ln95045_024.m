@@ -46,7 +46,7 @@
 <LM>w#w-ln95045-024-p1s1w4</LM>
 </w.rf>
 <form>rozdává</form>
-<tag lemma="rozdávat_:T_^(*4at)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="rozdávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 </s>
 <s id="m-ln95045-024-p2s1A">
@@ -104,7 +104,7 @@
 <LM>w#w-ln95045-024-p2s1Bw3</LM>
 </w.rf>
 <form>mají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95045-024-p2s1Bw4">
 <src.rf>manual</src.rf>

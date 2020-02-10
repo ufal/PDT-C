@@ -509,7 +509,7 @@
 <LM>w#w-ln94202-96-p2s2w15</LM>
 </w.rf>
 <form>neodpovídá</form>
-<tag lemma="odpovídat_:T" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="odpovídat" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln94202-96-p2s2w16">
 <src.rf>manual</src.rf>

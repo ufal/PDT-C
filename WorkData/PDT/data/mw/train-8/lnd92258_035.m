@@ -99,7 +99,7 @@
 <LM>w#w-lnd92258-035-p1s1w11</LM>
 </w.rf>
 <form>vyžaduje</form>
-<tag lemma="vyžadovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vyžadovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92258-035-p1s1w12">
 <src.rf>manual</src.rf>

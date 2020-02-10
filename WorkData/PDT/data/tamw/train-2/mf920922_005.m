@@ -600,7 +600,7 @@
 <LM>w#w-mf920922-005-p2s4w2</LM>
 </w.rf>
 <form>Nedělejme</form>
-<tag lemma="dělat_:T" src="orig" selected="1">Vi-P---1--N----</tag>
+<tag lemma="dělat" src="orig" selected="1">Vi-P---1--N-I--</tag>
 </m>
 <m id="m-mf920922-005-p2s4w3">
 <src.rf>manual</src.rf>
@@ -651,7 +651,7 @@
 <LM>w#w-mf920922-005-p2s4w8</LM>
 </w.rf>
 <form>udělejme</form>
-<tag lemma="udělat_:W" src="orig" selected="1">Vi-P---1--A----</tag>
+<tag lemma="udělat" src="orig" selected="1">Vi-P---1--A-P--</tag>
 </m>
 <m id="m-mf920922-005-p2s4w9">
 <src.rf>manual</src.rf>
@@ -938,7 +938,7 @@
 <LM>w#w-mf920922-005-p2s5w12</LM>
 </w.rf>
 <form>musí</form>
-<tag lemma="muset" src="orig" selected="1">VB-P---3P-AA--1</tag>
+<tag lemma="muset" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-mf920922-005-p2s5w13">
 <src.rf>manual</src.rf>
@@ -946,7 +946,7 @@
 <LM>w#w-mf920922-005-p2s5w13</LM>
 </w.rf>
 <form>změnit</form>
-<tag lemma="změnit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="změnit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920922-005-p2s5w14">
 <src.rf>manual</src.rf>
@@ -1079,7 +1079,7 @@
 <LM>w#w-mf920922-005-p2s6w12</LM>
 </w.rf>
 <form>nechce</form>
-<tag lemma="chtít" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="chtít" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-mf920922-005-p2s6w13">
 <src.rf>manual</src.rf>
@@ -1193,7 +1193,7 @@
 <LM>w#w-mf920922-005-p2s7w13</LM>
 </w.rf>
 <form>uvědomuje</form>
-<tag lemma="uvědomovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="uvědomovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920922-005-p2s7w14">
 <src.rf>manual</src.rf>
@@ -1225,7 +1225,7 @@
 <LM>w#w-mf920922-005-p2s7w17</LM>
 </w.rf>
 <form>nesouhlasíme</form>
-<tag lemma="souhlasit_:T" src="orig" selected="1">VB-P---1P-NA---</tag>
+<tag lemma="souhlasit" src="orig" selected="1">VB-P---1P-NAI--</tag>
 </m>
 <m id="m-mf920922-005-p2s7w18">
 <src.rf>manual</src.rf>
@@ -1323,7 +1323,7 @@
 <LM>w#w-mf920922-005-p2s8w4</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920922-005-p2s8w5">
 <src.rf>manual</src.rf>

@@ -19,7 +19,7 @@
 <LM>w#w-lnd92256-102-p1s1w1</LM>
 </w.rf>
 <form>Nesmí</form>
-<tag lemma="smět_:T" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="smět" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-lnd92256-102-p1s1w2">
 <src.rf>manual</src.rf>
@@ -168,7 +168,7 @@
 <LM>w#w-lnd92256-102-p2s2w12</LM>
 </w.rf>
 <form>odpykává</form>
-<tag lemma="odpykávat_:T_^(*4at)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="odpykávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92256-102-p2s2w13">
 <src.rf>manual</src.rf>
@@ -232,7 +232,7 @@
 <LM>w#w-lnd92256-102-p2s2w20</LM>
 </w.rf>
 <form>nezúčastní</form>
-<tag lemma="zúčastnit_:W" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="zúčastnit" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-lnd92256-102-p2s2w21">
 <src.rf>manual</src.rf>

@@ -162,7 +162,7 @@
 <LM>w#w-lnd92259-001-p3s1w1</LM>
 </w.rf>
 <form>Nepodceňujte</form>
-<tag lemma="podceňovat_:T" src="orig" selected="1">Vi-P---2--N----</tag>
+<tag lemma="podceňovat" src="orig" selected="1">Vi-P---2--N-I--</tag>
 </m>
 <m id="m-lnd92259-001-p3s1w2">
 <src.rf>manual</src.rf>

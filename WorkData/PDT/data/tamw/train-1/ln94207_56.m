@@ -87,7 +87,7 @@
 <LM>w#w-ln94207-56-p2s1Bw4</LM>
 </w.rf>
 <form>pokračují</form>
-<tag lemma="pokračovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="pokračovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-56-p2s1Bw5">
 <src.rf>manual</src.rf>

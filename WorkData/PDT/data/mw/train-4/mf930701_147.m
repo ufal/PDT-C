@@ -43,7 +43,7 @@
 <LM>w#w-mf930701-147-p1s1w4</LM>
 </w.rf>
 <form>opouštějí</form>
-<tag lemma="opouštět_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="opouštět" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930701-147-p1s1w5">
 <src.rf>manual</src.rf>
@@ -139,7 +139,7 @@
 <LM>w#w-mf930701-147-p1s1w16</LM>
 </w.rf>
 <form>nejít</form>
-<tag lemma="jít" src="orig" selected="1">Vf--------N----</tag>
+<tag lemma="jít" src="orig" selected="1">Vf--------N-I--</tag>
 </m>
 <m id="m-mf930701-147-p1s1w17">
 <src.rf>manual</src.rf>

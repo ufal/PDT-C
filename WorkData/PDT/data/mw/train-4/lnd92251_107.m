@@ -437,7 +437,7 @@
 <LM>w#w-lnd92251-107-p2s3w22</LM>
 </w.rf>
 <form>otočit</form>
-<tag lemma="otočit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="otočit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92251-107-p2s3w23">
 <src.rf>manual</src.rf>
@@ -641,7 +641,7 @@
 <LM>w#w-lnd92251-107-p2s5w3</LM>
 </w.rf>
 <form>pokračuje</form>
-<tag lemma="pokračovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="pokračovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92251-107-p2s5w4">
 <src.rf>manual</src.rf>

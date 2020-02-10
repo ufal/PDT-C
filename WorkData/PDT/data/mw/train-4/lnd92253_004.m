@@ -19,7 +19,7 @@
 <LM>w#w-lnd92253-004-p1s1w1</LM>
 </w.rf>
 <form>SKONČÍ</form>
-<tag lemma="skončit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="skončit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd92253-004-p1s1w2">
 <src.rf>manual</src.rf>

@@ -155,7 +155,7 @@
 <LM>w#w-lnd94105-055-p1s5w18</LM>
 </w.rf>
 <form>pokouší</form>
-<tag lemma="pokoušet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="pokoušet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94105-055-p1s5w19">
 <src.rf>manual</src.rf>
@@ -163,7 +163,7 @@
 <LM>w#w-lnd94105-055-p1s5w19</LM>
 </w.rf>
 <form>anulovat</form>
-<tag lemma="anulovat_:T_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="anulovat" src="orig" selected="1">Vf--------A-B--</tag>
 </m>
 <m id="m-lnd94105-055-p1s5w20">
 <src.rf>manual</src.rf>
@@ -277,7 +277,7 @@
 <LM>w#w-lnd94105-055-p1s6w10</LM>
 </w.rf>
 <form>stahuje</form>
-<tag lemma="stahovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="stahovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94105-055-p1s6w11">
 <src.rf>manual</src.rf>

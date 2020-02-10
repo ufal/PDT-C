@@ -27,7 +27,7 @@
 <LM>w#w-ln94207-29-p1s1w2</LM>
 </w.rf>
 <form>chce</form>
-<tag lemma="chtít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="chtít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-29-p1s1w3">
 <src.rf>manual</src.rf>
@@ -142,7 +142,7 @@
 <LM>w#w-ln94207-29-p2s1Bw8</LM>
 </w.rf>
 <form>odmítne</form>
-<tag lemma="odmítnout_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="odmítnout" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94207-29-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -254,7 +254,7 @@
 <LM>w#w-ln94207-29-p2s1Bw22</LM>
 </w.rf>
 <form>chce</form>
-<tag lemma="chtít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="chtít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-29-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -286,7 +286,7 @@
 <LM>w#w-ln94207-29-p2s1Bw26</LM>
 </w.rf>
 <form>zakotvit</form>
-<tag lemma="zakotvit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zakotvit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94207-29-p2s1Bw27">
 <src.rf>manual</src.rf>

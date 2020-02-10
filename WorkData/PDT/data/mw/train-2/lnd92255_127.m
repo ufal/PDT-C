@@ -151,7 +151,7 @@
 <LM>w#w-lnd92255-127-p1s1w17</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-lnd92255-127-p1s1w18">
 <src.rf>manual</src.rf>
@@ -267,8 +267,8 @@
 </w.rf>
 <form>vyhrát</form>
 <tag>
-<AM lemma="vyhrát" src="orig">Vf--------A----</AM>
-<AM lemma="vyhrát_:W" src="manual" selected="1">Vf--------A----</AM>
+<AM lemma="vyhrát" src="orig">Vf--------A-P--</AM>
+<AM lemma="vyhrát" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m-lnd92255-127-p1s1w32">
@@ -302,8 +302,8 @@
 </w.rf>
 <form>zašle</form>
 <tag>
-<AM lemma="zaslat" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="zaslat_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="zaslat" src="orig">VB-S---3P-AAP--</AM>
+<AM lemma="zaslat" src="manual" selected="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92255-127-p1s1w36">

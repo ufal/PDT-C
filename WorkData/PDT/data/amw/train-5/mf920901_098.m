@@ -35,7 +35,7 @@
 <LM>w#w-mf920901-098-p1s1w3</LM>
 </w.rf>
 <form>nasazují</form>
-<tag lemma="nasazovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="nasazovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920901-098-p1s1w4">
 <src.rf>manual</src.rf>
@@ -151,7 +151,7 @@
 <LM>w#w-mf920901-098-p1s1w17</LM>
 </w.rf>
 <form>napadnout</form>
-<tag lemma="napadnout_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="napadnout" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920901-098-p1s1w18">
 <src.rf>manual</src.rf>

@@ -69,7 +69,7 @@
 <LM>w#w-mf930703-063-p2s1w6</LM>
 </w.rf>
 <form>začíná</form>
-<tag lemma="začínat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="začínat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930703-063-p2s1w7">
 <src.rf>manual</src.rf>
@@ -166,7 +166,7 @@
 <LM>w#w-mf930703-063-p2s2w1</LM>
 </w.rf>
 <form>trvá</form>
-<tag lemma="trvat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="trvat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930703-063-p2s2w2">
 <src.rf>manual</src.rf>
@@ -425,7 +425,7 @@
 <LM>w#w-mf930703-063-p3s2w6</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930703-063-p3s2w7">
 <src.rf>manual</src.rf>
@@ -550,8 +550,8 @@
 <tag>
 <AM lemma="Nahlas_;K" src="orig">NNIS1-----A----</AM>
 <AM lemma="nahnout_,x" src="auto">VpFS---2R-AA---</AM>
-<AM lemma="nahlásit" src="auto">Vi-S---2--A----</AM>
-<AM lemma="nahlásit" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="nahlásit" src="auto">Vi-S---2--A-P--</AM>
+<AM lemma="nahlásit" src="auto">Vi-S---3--A-P-4</AM>
 <AM lemma="nahlas" src="auto" recommended="1" selected="1">Db-------------</AM>
 </tag>
 </m>
@@ -561,7 +561,7 @@
 <LM>w#w-mf930703-063-p4s1w5</LM>
 </w.rf>
 <form>vystoupí</form>
-<tag lemma="vystoupit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vystoupit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930703-063-p4s1w6">
 <src.rf>manual</src.rf>

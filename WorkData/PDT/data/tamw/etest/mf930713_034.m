@@ -382,7 +382,7 @@
 <LM>w#w-mf930713-034-p2s2w5</LM>
 </w.rf>
 <form>vystrašit</form>
-<tag lemma="vystrašit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vystrašit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930713-034-p2s2w6">
 <src.rf>manual</src.rf>

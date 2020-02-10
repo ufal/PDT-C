@@ -269,7 +269,7 @@
 <LM>w#w-mf920902-044-p1s2w2</LM>
 </w.rf>
 <form>vykonává</form>
-<tag lemma="vykonávat_:T_^(*4at)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vykonávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920902-044-p1s2w3">
 <src.rf>manual</src.rf>
@@ -394,7 +394,7 @@
 <LM>w#w-mf920902-044-p1s3w5</LM>
 </w.rf>
 <form>prověřím</form>
-<tag lemma="prověřit_:W" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="prověřit" src="orig" selected="1">VB-S---1P-AAP--</tag>
 </m>
 <m id="m-mf920902-044-p1s3w6">
 <src.rf>manual</src.rf>

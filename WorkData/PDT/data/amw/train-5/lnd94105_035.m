@@ -30,7 +30,7 @@
 <LM>w#w-lnd94105-035-p1s1w2</LM>
 </w.rf>
 <form>hájí</form>
-<tag lemma="hájit_:T_^(bránit,_obhajovat)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="hájit_^(bránit,_obhajovat)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94105-035-p1s1w3">
 <src.rf>manual</src.rf>
@@ -82,7 +82,7 @@
 <LM>w#w-lnd94105-035-p1s3w1</LM>
 </w.rf>
 <form>Interpelovat</form>
-<tag lemma="interpelovat_:T_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="interpelovat" src="orig" selected="1">Vf--------A-B--</tag>
 </m>
 <m id="m-lnd94105-035-p1s3w2">
 <src.rf>manual</src.rf>
@@ -202,7 +202,7 @@
 <LM>w#w-lnd94105-035-p1s3w17</LM>
 </w.rf>
 <form>budou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3F-AAI--</tag>
 </m>
 <m id="m-lnd94105-035-p1s3w18">
 <src.rf>manual</src.rf>
@@ -346,7 +346,7 @@
 <LM>w#w-lnd94105-035-p1s4w14</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94105-035-p1s4w15">
 <src.rf>manual</src.rf>

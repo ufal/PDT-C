@@ -272,7 +272,7 @@
 <LM>w#w-lnd92257-016-p3s1w18</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92257-016-p3s1w19">
 <src.rf>manual</src.rf>
@@ -370,7 +370,7 @@
 <LM>w#w-lnd92257-016-p4s1w8</LM>
 </w.rf>
 <form>přetiskujeme</form>
-<tag lemma="přetiskovat_:T" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="přetiskovat" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-lnd92257-016-p4s1w9">
 <src.rf>manual</src.rf>
@@ -386,7 +386,7 @@
 <LM>w#w-lnd92257-016-p4s1w10</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92257-016-p4s1w11">
 <src.rf>manual</src.rf>

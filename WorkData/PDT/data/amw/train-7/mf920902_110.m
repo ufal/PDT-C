@@ -411,7 +411,7 @@
 <LM>w#w-mf920902-110-p1s6w2</LM>
 </w.rf>
 <form>postrádají</form>
-<tag lemma="postrádat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="postrádat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920902-110-p1s6w3">
 <src.rf>manual</src.rf>
@@ -721,7 +721,7 @@
 <LM>w#w-mf920902-110-p1s9w4</LM>
 </w.rf>
 <form>zaplatí</form>
-<tag lemma="zaplatit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zaplatit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf920902-110-p1s9w5">
 <src.rf>manual</src.rf>

@@ -225,7 +225,7 @@
 <LM>w#w-ln94204-38-p2s1Bw14</LM>
 </w.rf>
 <form>uvádí</form>
-<tag lemma="uvádět_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="uvádět" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94204-38-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -383,7 +383,7 @@
 <LM>w#w-ln94204-38-p2s2w6</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-ln94204-38-p2s2w7">
 <src.rf>manual</src.rf>
@@ -447,7 +447,7 @@
 <LM>w#w-ln94204-38-p2s2w14</LM>
 </w.rf>
 <form>asistovat</form>
-<tag lemma="asistovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="asistovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94204-38-p2s2w15">
 <src.rf>manual</src.rf>
@@ -606,7 +606,7 @@
 <LM>w#w-ln94204-38-p2s4w3</LM>
 </w.rf>
 <form>produkuje</form>
-<tag lemma="produkovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="produkovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94204-38-p2s4w4">
 <src.rf>manual</src.rf>

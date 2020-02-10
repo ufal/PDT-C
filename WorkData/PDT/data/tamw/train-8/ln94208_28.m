@@ -63,7 +63,7 @@
 <LM>w#w-ln94208-28-p2s1Bw2</LM>
 </w.rf>
 <form>předražují</form>
-<tag lemma="předražovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="předražovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94208-28-p2s1Bw3">
 <src.rf>manual</src.rf>

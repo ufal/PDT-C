@@ -752,7 +752,7 @@
 <LM>w#w-ln94203-123-p3s11w3</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94203-123-p3s11w4">
 <src.rf>manual</src.rf>

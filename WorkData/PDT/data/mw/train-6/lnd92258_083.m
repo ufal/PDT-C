@@ -562,7 +562,7 @@
 <LM>w#w-lnd92258-083-p4s1w11</LM>
 </w.rf>
 <form>jsme</form>
-<tag lemma="být" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-lnd92258-083-p4s1w12">
 <src.rf>manual</src.rf>

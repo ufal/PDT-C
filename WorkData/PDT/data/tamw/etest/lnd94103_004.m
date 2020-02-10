@@ -67,7 +67,7 @@
 <LM>w#w-lnd94103-004-p1s1w7</LM>
 </w.rf>
 <form>prohrává</form>
-<tag lemma="prohrávat_:T_^(*3t)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="prohrávat_^(*3t)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 </s>
 <s id="m-lnd94103-004-p1s1B">

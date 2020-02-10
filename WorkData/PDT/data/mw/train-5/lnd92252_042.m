@@ -27,7 +27,7 @@
 <LM>w#w-lnd92252-042-p1s1w2</LM>
 </w.rf>
 <form>PROVOLÁVAJÍ</form>
-<tag lemma="provolávat_:T_^(*4at)" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="provolávat_^(*4at)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92252-042-p1s1w3">
 <src.rf>manual</src.rf>

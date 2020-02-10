@@ -45,7 +45,7 @@
 <LM>w#w-lnd92258-090-p2s1w2</LM>
 </w.rf>
 <form>jsem</form>
-<tag lemma="být" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-lnd92258-090-p2s1w3">
 <src.rf>manual</src.rf>

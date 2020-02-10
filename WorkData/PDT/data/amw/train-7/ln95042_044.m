@@ -548,7 +548,7 @@
 <LM>w#w-ln95042-044-p2s3w19</LM>
 </w.rf>
 <form>stvrzuje</form>
-<tag lemma="stvrzovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="stvrzovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95042-044-p2s3w20">
 <src.rf>manual</src.rf>
@@ -766,7 +766,7 @@
 <LM>w#w-ln95042-044-p2s4w12</LM>
 </w.rf>
 <form>porušuje</form>
-<tag lemma="porušovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="porušovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95042-044-p2s4w13">
 <src.rf>manual</src.rf>

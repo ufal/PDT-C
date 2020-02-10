@@ -353,7 +353,7 @@
 <LM>w#w-ln94207-27-p2s2w11</LM>
 </w.rf>
 <form>vstoupit</form>
-<tag lemma="vstoupit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vstoupit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94207-27-p2s2w12">
 <src.rf>manual</src.rf>

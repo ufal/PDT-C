@@ -191,7 +191,7 @@
 <LM>w#w-ln94200-174-p2s1w12</LM>
 </w.rf>
 <form>vystupují</form>
-<tag lemma="vystupovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="vystupovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94200-174-p2s1w13">
 <src.rf>manual</src.rf>
@@ -369,7 +369,7 @@
 <LM>w#w-ln94200-174-p2s2w5</LM>
 </w.rf>
 <form>otevírá</form>
-<tag lemma="otevírat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="otevírat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94200-174-p2s2w6">
 <src.rf>manual</src.rf>
@@ -434,8 +434,8 @@
 </w.rf>
 <form>hraje</form>
 <tag>
-<AM lemma="hrát" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="hrát_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="hrát" src="auto">VB-S---3P-AAI--</AM>
+<AM lemma="hrát" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln94200-174-p2s2w14">
@@ -452,7 +452,7 @@
 <LM>w#w-ln94200-174-p2s2w15</LM>
 </w.rf>
 <form>improvizuje</form>
-<tag lemma="improvizovat_:T_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="improvizovat" src="orig" selected="1">VB-S---3P-AAB--</tag>
 </m>
 <m id="m-ln94200-174-p2s2w16">
 <src.rf>manual</src.rf>
@@ -531,7 +531,7 @@
 <LM>w#w-ln94200-174-p2s4w1</LM>
 </w.rf>
 <form>Následuje</form>
-<tag lemma="následovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="následovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94200-174-p2s4w2">
 <src.rf>manual</src.rf>
@@ -687,8 +687,8 @@
 </w.rf>
 <form>hrají</form>
 <tag>
-<AM lemma="hrát" src="orig">VB-P---3P-AA--1</AM>
-<AM lemma="hrát_:T" src="manual" selected="1">VB-P---3P-AA--1</AM>
+<AM lemma="hrát" src="orig">VB-P---3P-AAI-1</AM>
+<AM lemma="hrát" src="manual" selected="1">VB-P---3P-AAI-1</AM>
 </tag>
 </m>
 <m id="m-ln94200-174-p2s4w21">
@@ -752,7 +752,7 @@
 <LM>w#w-ln94200-174-p2s5w1</LM>
 </w.rf>
 <form>Přeneseme</form>
-<tag lemma="přenést" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="přenést" src="orig" selected="1">VB-P---1P-AAP--</tag>
 </m>
 <m id="m-ln94200-174-p2s5w2">
 <src.rf>manual</src.rf>
@@ -838,8 +838,8 @@
 </w.rf>
 <form>hraje</form>
 <tag>
-<AM lemma="hrát" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="hrát_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="hrát" src="auto">VB-S---3P-AAI--</AM>
+<AM lemma="hrát" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln94200-174-p2s5w11">
@@ -925,7 +925,7 @@
 <LM>w#w-ln94200-174-p2s6w3</LM>
 </w.rf>
 <form>zazní</form>
-<tag lemma="zaznít" src="orig" selected="1">VB-P---3P-AA--1</tag>
+<tag lemma="zaznít" src="orig" selected="1">VB-P---3P-AAP-1</tag>
 </m>
 <m id="m-ln94200-174-p2s6w4">
 <src.rf>manual</src.rf>

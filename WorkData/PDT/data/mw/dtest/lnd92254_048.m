@@ -147,7 +147,7 @@
 <LM>w#w-lnd92254-048-p1s2w8</LM>
 </w.rf>
 <form>zabývat</form>
-<tag lemma="zabývat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zabývat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd92254-048-p1s2w9">
 <src.rf>manual</src.rf>

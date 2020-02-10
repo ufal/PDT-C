@@ -174,7 +174,7 @@
 <LM>w#w-ln94201-110-p1s1w20</LM>
 </w.rf>
 <form>označuje</form>
-<tag lemma="označovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="označovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94201-110-p1s1w21">
 <src.rf>manual</src.rf>
@@ -1217,7 +1217,7 @@
 <LM>w#w-ln94201-110-p1s8w10</LM>
 </w.rf>
 <form>tát</form>
-<tag lemma="tát" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="tát" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94201-110-p1s8w11">
 <src.rf>manual</src.rf>
@@ -1613,7 +1613,7 @@
 <form>Pra</form>
 <tag>
 <AM lemma="pra" src="orig" selected="1">A2--------A----</AM>
-<AM lemma="přít_:T" src="auto" recommended="1">VeYS------A----</AM>
+<AM lemma="přít" src="auto" recommended="1">VeYS------A-I--</AM>
 </tag>
 </m>
 <m id="m-ln94201-110-p1s10w15">

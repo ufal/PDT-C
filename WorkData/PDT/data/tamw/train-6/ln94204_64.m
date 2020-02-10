@@ -700,7 +700,7 @@
 <LM>w#w-ln94204-64-p2s3w13</LM>
 </w.rf>
 <form>ukrást</form>
-<tag lemma="ukrást" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="ukrást" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94204-64-p2s3w14">
 <src.rf>manual</src.rf>

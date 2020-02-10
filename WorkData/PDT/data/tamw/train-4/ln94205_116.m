@@ -75,7 +75,7 @@
 <LM>w#w-ln94205-116-p1s1Aw8</LM>
 </w.rf>
 <form>sleduje</form>
-<tag lemma="sledovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="sledovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94205-116-p1s1Aw9">
 <src.rf>manual</src.rf>

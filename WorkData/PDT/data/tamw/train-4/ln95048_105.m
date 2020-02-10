@@ -717,8 +717,8 @@
 </w.rf>
 <form>převzít</form>
 <tag>
-<AM lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig">Vf--------A----</AM>
-<AM lemma="převzít_:W_^(př._od_někoho_věc,_zodpovědnost...)" src="manual" selected="1">Vf--------A----</AM>
+<AM lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig">Vf--------A-P--</AM>
+<AM lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m-ln95048-105-p2s4w17">
@@ -817,7 +817,7 @@
 <LM>w#w-ln95048-105-p2s5w6</LM>
 </w.rf>
 <form>být</form>
-<tag lemma="být" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="být" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95048-105-p2s5w7">
 <src.rf>manual</src.rf>

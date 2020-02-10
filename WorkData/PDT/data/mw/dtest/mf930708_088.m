@@ -734,7 +734,7 @@
 <LM>w#w-mf930708-088-p4s6w5</LM>
 </w.rf>
 <form>vloupat</form>
-<tag lemma="vloupat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vloupat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930708-088-p4s6w6">
 <src.rf>manual</src.rf>
@@ -1706,7 +1706,7 @@
 <LM>w#w-mf930708-088-p6s2w4</LM>
 </w.rf>
 <form>zhlédnout</form>
-<tag lemma="zhlédnout_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zhlédnout" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930708-088-p6s2w5">
 <src.rf>manual</src.rf>

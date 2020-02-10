@@ -463,7 +463,7 @@
 <LM>w#w-lnd91301-052-p1s4w15</LM>
 </w.rf>
 <form>pátrá</form>
-<tag lemma="pátrat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="pátrat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd91301-052-p1s4w16">
 <src.rf>manual</src.rf>

@@ -131,7 +131,7 @@
 <LM>w#w-mf920925-043-p2s1w11</LM>
 </w.rf>
 <form>představuje</form>
-<tag lemma="představovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="představovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-043-p2s1w12">
 <src.rf>manual</src.rf>
@@ -195,7 +195,7 @@
 <LM>w#w-mf920925-043-p2s1w19</LM>
 </w.rf>
 <form>soutěžit</form>
-<tag lemma="soutěžit_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="soutěžit" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf920925-043-p2s1w20">
 <src.rf>manual</src.rf>
@@ -326,7 +326,7 @@
 <LM>w#w-mf920925-043-p2s2w11</LM>
 </w.rf>
 <form>vyžaduje</form>
-<tag lemma="vyžadovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vyžadovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-043-p2s2w12">
 <src.rf>manual</src.rf>
@@ -489,7 +489,7 @@
 <LM>w#w-mf920925-043-p2s3w17</LM>
 </w.rf>
 <form>neplatí</form>
-<tag lemma="platit_:T" src="auto" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="platit" src="auto" selected="1">VB-P---3P-NAI--</tag>
 </m>
 <m id="m-mf920925-043-p2s3w18">
 <src.rf>manual</src.rf>
@@ -537,7 +537,7 @@
 <LM>w#w-mf920925-043-p2s3w23</LM>
 </w.rf>
 <form>nepodílejí</form>
-<tag lemma="podílet_:T" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="podílet" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 <m id="m-mf920925-043-p2s3w24">
 <src.rf>manual</src.rf>
@@ -627,7 +627,7 @@
 <LM>w#w-mf920925-043-p2s4w4</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-mf920925-043-p2s4w5">
 <src.rf>manual</src.rf>

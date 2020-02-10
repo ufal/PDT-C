@@ -59,7 +59,7 @@
 <LM>w#w-ln95049-042-p1s1w6</LM>
 </w.rf>
 <form>pózuje</form>
-<tag lemma="pózovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="pózovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95049-042-p1s1w7">
 <src.rf>manual</src.rf>
@@ -142,7 +142,7 @@
 <LM>w#w-ln95049-042-p1s1w16</LM>
 </w.rf>
 <form>drží</form>
-<tag lemma="držet" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="držet" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95049-042-p1s1w17">
 <src.rf>manual</src.rf>

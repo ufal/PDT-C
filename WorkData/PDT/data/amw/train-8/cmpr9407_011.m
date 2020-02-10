@@ -162,7 +162,7 @@
 <LM>w#w-cmpr9407-011-p2s1w13</LM>
 </w.rf>
 <form>uvádíte</form>
-<tag lemma="uvádět_:T" src="orig" selected="1">VB-P---2P-AA---</tag>
+<tag lemma="uvádět" src="orig" selected="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m-cmpr9407-011-p2s1w14">
 <src.rf>manual</src.rf>
@@ -482,7 +482,7 @@
 <LM>w#w-cmpr9407-011-p2s4w8</LM>
 </w.rf>
 <form>připomínáme</form>
-<tag lemma="připomínat_:T" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="připomínat" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-cmpr9407-011-p2s4w9">
 <src.rf>manual</src.rf>
@@ -555,7 +555,7 @@
 <LM>w#w-cmpr9407-011-p2s4w17</LM>
 </w.rf>
 <form>uplatnit</form>
-<tag lemma="uplatnit_:T_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="uplatnit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-cmpr9407-011-p2s4w18">
 <src.rf>manual</src.rf>
@@ -691,7 +691,7 @@
 <LM>w#w-cmpr9407-011-p2s4w34</LM>
 </w.rf>
 <form>platí</form>
-<tag lemma="platit_:T" src="auto" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="platit" src="auto" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9407-011-p2s4w35">
 <src.rf>manual</src.rf>

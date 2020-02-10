@@ -35,7 +35,7 @@
 <LM>w#w-mf930701-067-p1s1w3</LM>
 </w.rf>
 <form>protestujte</form>
-<tag lemma="protestovat_:T" src="orig" selected="1">Vi-P---2--A----</tag>
+<tag lemma="protestovat" src="orig" selected="1">Vi-P---2--A-I--</tag>
 </m>
 <m id="m-mf930701-067-p1s1w4">
 <src.rf>manual</src.rf>
@@ -59,7 +59,7 @@
 <LM>w#w-mf930701-067-p1s1w6</LM>
 </w.rf>
 <form>běžte</form>
-<tag lemma="běžet" src="orig" selected="1">Vi-P---2--A----</tag>
+<tag lemma="běžet" src="orig" selected="1">Vi-P---2--A-I--</tag>
 </m>
 <m id="m-mf930701-067-p1s1w7">
 <src.rf>manual</src.rf>
@@ -574,7 +574,7 @@
 <LM>w#w-mf930701-067-p1s3w17</LM>
 </w.rf>
 <form>vyhrožovat</form>
-<tag lemma="vyhrožovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vyhrožovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf930701-067-p1s3w18">
 <src.rf>manual</src.rf>

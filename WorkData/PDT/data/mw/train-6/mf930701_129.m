@@ -27,7 +27,7 @@
 <LM>w#w-mf930701-129-p1s1w2</LM>
 </w.rf>
 <form>žaluje</form>
-<tag lemma="žalovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="žalovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930701-129-p1s1w3">
 <src.rf>manual</src.rf>
@@ -131,7 +131,7 @@
 <LM>w#w-mf930701-129-p2s1w11</LM>
 </w.rf>
 <form>hodlá</form>
-<tag lemma="hodlat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="hodlat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930701-129-p2s1w12">
 <src.rf>manual</src.rf>
@@ -139,7 +139,7 @@
 <LM>w#w-mf930701-129-p2s1w12</LM>
 </w.rf>
 <form>podat</form>
-<tag lemma="podat_:W_^(něco_[někomu]_[někam])" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="podat_^(něco_[někomu]_[někam])" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930701-129-p2s1w13">
 <src.rf>manual</src.rf>
@@ -163,7 +163,7 @@
 <LM>w#w-mf930701-129-p2s1w15</LM>
 </w.rf>
 <form>žádat</form>
-<tag lemma="žádat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="žádat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf930701-129-p2s1w16">
 <src.rf>manual</src.rf>
@@ -355,7 +355,7 @@
 <LM>w#w-mf930701-129-p2s3w11</LM>
 </w.rf>
 <form>krade</form>
-<tag lemma="krást" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="krást" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930701-129-p2s3w12">
 <src.rf>manual</src.rf>
@@ -633,8 +633,8 @@
 </w.rf>
 <form>píše</form>
 <tag>
-<AM lemma="psát" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="psát_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="psát" src="auto">VB-S---3P-AAI--</AM>
+<AM lemma="psát" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-mf930701-129-p2s5w6">
@@ -683,7 +683,7 @@
 <LM>w#w-mf930701-129-p2s5w11</LM>
 </w.rf>
 <form>vylepšují</form>
-<tag lemma="vylepšovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="vylepšovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930701-129-p2s5w12">
 <src.rf>manual</src.rf>

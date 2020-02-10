@@ -200,7 +200,7 @@
 <LM>w#w-ln94207-86-p1s1w23</LM>
 </w.rf>
 <form>motivovat</form>
-<tag lemma="motivovat_:T_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="motivovat" src="orig" selected="1">Vf--------A-B--</tag>
 </m>
 <m id="m-ln94207-86-p1s1w24">
 <src.rf>manual</src.rf>
@@ -274,7 +274,7 @@
 <LM>w#w-ln94207-86-p1s2Aw1</LM>
 </w.rf>
 <form>Podporuje</form>
-<tag lemma="podporovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="podporovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-86-p1s2Aw2">
 <src.rf>manual</src.rf>

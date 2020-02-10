@@ -45,7 +45,7 @@
 <form>JE</form>
 <tag>
 <AM lemma="JE-1_:B_;K_^(jaderná_elektrárna)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="být" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="být" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPXP4--3-------</AM>
 <AM lemma="JE_:B" src="manual">NNXXX-----A---8</AM>

@@ -545,7 +545,7 @@
 <LM>w#w-mf920901-093-p16s1w2</LM>
 </w.rf>
 <form>Vařím</form>
-<tag lemma="vařit_:T" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="vařit" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-mf920901-093-p16s1w3">
 <src.rf>manual</src.rf>
@@ -561,7 +561,7 @@
 <LM>w#w-mf920901-093-p16s1w4</LM>
 </w.rf>
 <form>vaříš</form>
-<tag lemma="vařit_:T" src="orig" selected="1">VB-S---2P-AA---</tag>
+<tag lemma="vařit" src="orig" selected="1">VB-S---2P-AAI--</tag>
 </m>
 <m id="m-mf920901-093-p16s1w5">
 <src.rf>manual</src.rf>
@@ -577,7 +577,7 @@
 <LM>w#w-mf920901-093-p16s1w6</LM>
 </w.rf>
 <form>vaříme</form>
-<tag lemma="vařit_:T" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="vařit" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 </s>
 <s id="m-mf920901-093-p17s1">
@@ -595,7 +595,7 @@
 <LM>w#w-mf920901-093-p17s1w2</LM>
 </w.rf>
 <form>Cvičme</form>
-<tag lemma="cvičit_:T" src="orig" selected="1">Vi-P---1--A----</tag>
+<tag lemma="cvičit" src="orig" selected="1">Vi-P---1--A-I--</tag>
 </m>
 <m id="m-mf920901-093-p17s1w3">
 <src.rf>manual</src.rf>
@@ -611,7 +611,7 @@
 <LM>w#w-mf920901-093-p17s1w4</LM>
 </w.rf>
 <form>cvičme</form>
-<tag lemma="cvičit_:T" src="orig" selected="1">Vi-P---1--A----</tag>
+<tag lemma="cvičit" src="orig" selected="1">Vi-P---1--A-I--</tag>
 </m>
 </s>
 <s id="m-mf920901-093-p18s1">
@@ -1864,7 +1864,7 @@
 <LM>w#w-mf920901-093-p59s1w3</LM>
 </w.rf>
 <form>vstanu</form>
-<tag lemma="vstát" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="vstát" src="orig" selected="1">VB-S---1P-AAP--</tag>
 </m>
 <m id="m-mf920901-093-p59s1w4">
 <src.rf>manual</src.rf>

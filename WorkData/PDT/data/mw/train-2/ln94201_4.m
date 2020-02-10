@@ -239,7 +239,7 @@
 <LM>w#w-ln94201-4-p2s2w3</LM>
 </w.rf>
 <form>změří</form>
-<tag lemma="změřit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="změřit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94201-4-p2s2w4">
 <src.rf>manual</src.rf>
@@ -399,7 +399,7 @@
 <LM>w#w-ln94201-4-p2s2w23</LM>
 </w.rf>
 <form>čeká</form>
-<tag lemma="čekat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="čekat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94201-4-p2s2w24">
 <src.rf>manual</src.rf>

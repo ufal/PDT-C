@@ -126,7 +126,7 @@
 <LM>w#w-lnd94104-121-p1s1w14</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94104-121-p1s1w15">
 <src.rf>manual</src.rf>
@@ -280,7 +280,7 @@
 <LM>w#w-lnd94104-121-p1s2w13</LM>
 </w.rf>
 <form>překračuje</form>
-<tag lemma="překračovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="překračovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94104-121-p1s2w14">
 <src.rf>manual</src.rf>
@@ -378,7 +378,7 @@
 <LM>w#w-lnd94104-121-p1s3w9</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94104-121-p1s3w10">
 <src.rf>manual</src.rf>
@@ -406,7 +406,7 @@
 <LM>w#w-lnd94104-121-p1s3w12</LM>
 </w.rf>
 <form>používat</form>
-<tag lemma="používat_:T_^(*3t)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="používat_^(*3t)" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd94104-121-p1s3w13">
 <src.rf>manual</src.rf>

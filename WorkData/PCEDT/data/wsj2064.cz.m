@@ -4967,7 +4967,7 @@
 <tag>
 <AM lemma="soustředit" src="auto">VB-P---3P-AAP--</AM>
 <AM lemma="soustředit" src="auto" recommended="1" selected="1">VB-S---3P-AAP--</AM>
-<AM lemma="soustředit" src="manual">VB-S---3P-AAI--</AM>
+<AM lemma="soustředit" src="manual">VB-S---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m-wsj2064-001-p1s17W9-Ta">

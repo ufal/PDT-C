@@ -153,8 +153,8 @@
 </w.rf>
 <form>sjede</form>
 <tag>
-<AM lemma="sjet" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="sjet_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="sjet" src="orig">VB-S---3P-AAP--</AM>
+<AM lemma="sjet" src="manual" selected="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930708-061-p2s1w14">
@@ -309,7 +309,7 @@
 <LM>w#w-mf930708-061-p2s2w12</LM>
 </w.rf>
 <form>nepořádají</form>
-<tag lemma="pořádat_:T" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="pořádat" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 <m id="m-mf930708-061-p2s2w13">
 <src.rf>manual</src.rf>
@@ -413,7 +413,7 @@
 <LM>w#w-mf930708-061-p2s2w25</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-061-p2s2w26">
 <src.rf>manual</src.rf>
@@ -471,7 +471,7 @@
 <LM>w#w-mf930708-061-p2s3w2</LM>
 </w.rf>
 <form>začíná</form>
-<tag lemma="začínat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="začínat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-061-p2s3w3">
 <src.rf>manual</src.rf>
@@ -649,7 +649,7 @@
 <LM>w#w-mf930708-061-p2s4w11</LM>
 </w.rf>
 <form>vystřídají</form>
-<tag lemma="vystřídat_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="vystřídat" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-mf930708-061-p2s4w12">
 <src.rf>manual</src.rf>
@@ -1081,7 +1081,7 @@
 <LM>w#w-mf930708-061-p2s6w5</LM>
 </w.rf>
 <form>dočkají</form>
-<tag lemma="dočkat_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="dočkat" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-mf930708-061-p2s6w6">
 <src.rf>manual</src.rf>
@@ -1129,7 +1129,7 @@
 <LM>w#w-mf930708-061-p2s6w11</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-mf930708-061-p2s6w12">
 <src.rf>manual</src.rf>
@@ -1169,7 +1169,7 @@
 <LM>w#w-mf930708-061-p2s6w16</LM>
 </w.rf>
 <form>ukončit</form>
-<tag lemma="ukončit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="ukončit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930708-061-p2s6w17">
 <src.rf>manual</src.rf>

@@ -646,7 +646,7 @@
 <LM>w#w-ln95047-021-p2s4w8</LM>
 </w.rf>
 <form>spadnout</form>
-<tag lemma="spadnout_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="spadnout" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95047-021-p2s4w9">
 <src.rf>manual</src.rf>

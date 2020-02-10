@@ -27,7 +27,7 @@
 <LM>w#w-mf930709-098-p1s1w2</LM>
 </w.rf>
 <form>jsme</form>
-<tag lemma="být" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-mf930709-098-p1s1w3">
 <src.rf>manual</src.rf>
@@ -848,7 +848,7 @@
 <LM>w#w-mf930709-098-p2s5w32</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-mf930709-098-p2s5w33">
 <src.rf>manual</src.rf>
@@ -880,7 +880,7 @@
 <LM>w#w-mf930709-098-p2s5w36</LM>
 </w.rf>
 <form>vzpomínat</form>
-<tag lemma="vzpomínat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vzpomínat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf930709-098-p2s5w37">
 <src.rf>manual</src.rf>

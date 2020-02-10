@@ -536,7 +536,7 @@
 <LM>w#w-lnd92254-086-p3s4w14</LM>
 </w.rf>
 <form>loučí</form>
-<tag lemma="loučit_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="loučit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92254-086-p3s4w15">
 <src.rf>manual</src.rf>
@@ -2604,7 +2604,7 @@
 <LM>w#w-lnd92254-086-p10s6w13</LM>
 </w.rf>
 <form>rozhodnou</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-lnd92254-086-p10s6w14">
 <src.rf>manual</src.rf>
@@ -3685,7 +3685,7 @@
 <AM lemma="pas-3_^(přihrávka,_př._v_kopané)" src="auto" selected="1">NNIS7-----A----</AM>
 <AM lemma="paso_;u_,t_^(passo_doble)" src="auto">NNNS7-----A----</AM>
 <AM lemma="pasus" src="auto">NNIS7-----A----</AM>
-<AM lemma="pást_^(se,např._koně,_husy)" src="auto">VB-P---1P-AA--6</AM>
+<AM lemma="pást_^(se,např._koně,_husy)" src="auto">VB-P---1P-AAI-6</AM>
 </tag>
 </m>
 <m id="m-lnd92254-086-p14s2w14">
@@ -4839,7 +4839,7 @@
 <LM>w#w-lnd92254-086-p19s1w8</LM>
 </w.rf>
 <form>prosadit</form>
-<tag lemma="prosadit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="prosadit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92254-086-p19s1w9">
 <src.rf>manual</src.rf>
@@ -5262,8 +5262,8 @@
 <tag>
 <AM lemma="mel-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="mela" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="mlít" src="auto">Vi-S---2--A----</AM>
-<AM lemma="mlít" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="mlít" src="auto">Vi-S---2--A-I--</AM>
+<AM lemma="mlít" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="mel-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -7324,7 +7324,7 @@
 <LM>w#w-lnd92254-086-p32s2w9</LM>
 </w.rf>
 <form>postupuje</form>
-<tag lemma="postupovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="postupovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92254-086-p32s2w10">
 <src.rf>manual</src.rf>
@@ -7515,7 +7515,7 @@
 <LM>w#w-lnd92254-086-p32s4w7</LM>
 </w.rf>
 <form>postupuje</form>
-<tag lemma="postupovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="postupovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92254-086-p32s4w8">
 <src.rf>manual</src.rf>

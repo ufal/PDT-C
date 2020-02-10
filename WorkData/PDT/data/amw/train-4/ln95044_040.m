@@ -723,7 +723,7 @@
 <LM>w#w-ln95044-040-p2s5w8</LM>
 </w.rf>
 <form>vyhledat</form>
-<tag lemma="vyhledat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vyhledat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95044-040-p2s5w9">
 <src.rf>manual</src.rf>

@@ -265,7 +265,7 @@
 <LM>w#w-mf930703-056-p2s1w24</LM>
 </w.rf>
 <form>vypráví</form>
-<tag lemma="vyprávět_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vyprávět" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930703-056-p2s1w25">
 <src.rf>manual</src.rf>

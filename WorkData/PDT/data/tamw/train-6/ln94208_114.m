@@ -492,7 +492,7 @@
 <LM>w#w-ln94208-114-p3s1w12</LM>
 </w.rf>
 <form>nastoupit</form>
-<tag lemma="nastoupit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="nastoupit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94208-114-p3s1w13">
 <src.rf>manual</src.rf>
@@ -1051,8 +1051,8 @@
 </w.rf>
 <form>vede</form>
 <tag>
-<AM lemma="vést" src="auto">VB-S---3P-AA---</AM>
-<AM lemma="vést_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="vést" src="auto">VB-S---3P-AAI--</AM>
+<AM lemma="vést" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln94208-114-p3s5w5">
@@ -1101,7 +1101,7 @@
 <LM>w#w-ln94208-114-p3s5w10</LM>
 </w.rf>
 <form>stačí</form>
-<tag lemma="stačit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="stačit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94208-114-p3s5w11">
 <src.rf>manual</src.rf>
@@ -1157,7 +1157,7 @@
 <LM>w#w-ln94208-114-p3s5w17</LM>
 </w.rf>
 <form>neskončit</form>
-<tag lemma="skončit_:W" src="orig" selected="1">Vf--------N----</tag>
+<tag lemma="skončit" src="orig" selected="1">Vf--------N-P--</tag>
 </m>
 <m id="m-ln94208-114-p3s5w18">
 <src.rf>manual</src.rf>
@@ -1322,7 +1322,7 @@
 <LM>w#w-ln94208-114-p3s6w1</LM>
 </w.rf>
 <form>Počítá</form>
-<tag lemma="počítat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="počítat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94208-114-p3s6w2">
 <src.rf>manual</src.rf>

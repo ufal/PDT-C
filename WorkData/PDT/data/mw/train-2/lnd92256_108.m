@@ -279,7 +279,7 @@
 <LM>w#w-lnd92256-108-p2s2w4</LM>
 </w.rf>
 <form>střetne</form>
-<tag lemma="střetnout_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="střetnout" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd92256-108-p2s2w5">
 <src.rf>manual</src.rf>
@@ -1275,7 +1275,7 @@
 <LM>w#w-lnd92256-108-p7s1w14</LM>
 </w.rf>
 <form>prohrává</form>
-<tag lemma="prohrávat_:T_^(*3t)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="prohrávat_^(*3t)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92256-108-p7s1w15">
 <src.rf>manual</src.rf>
@@ -1401,7 +1401,7 @@
 <AM lemma="mele" src="orig">NNNXX-----A----</AM>
 <AM lemma="mela" src="auto">NNFS3-----A----</AM>
 <AM lemma="mela" src="auto">NNFS6-----A----</AM>
-<AM lemma="mlít" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="mlít" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="mele-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

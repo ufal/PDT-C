@@ -434,7 +434,7 @@
 <LM>w#w-lnd92259-063-p3s3w15</LM>
 </w.rf>
 <form>proklamuje</form>
-<tag lemma="proklamovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="proklamovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92259-063-p3s3w16">
 <src.rf>manual</src.rf>
@@ -516,7 +516,7 @@
 <LM>w#w-lnd92259-063-p3s4w2</LM>
 </w.rf>
 <form>Je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92259-063-p3s4w3">
 <src.rf>manual</src.rf>

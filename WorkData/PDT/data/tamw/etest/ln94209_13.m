@@ -150,7 +150,7 @@
 <LM>w#w-ln94209-13-p1s1Aw17</LM>
 </w.rf>
 <form>nasazují</form>
-<tag lemma="nasazovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="nasazovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94209-13-p1s1Aw18">
 <src.rf>manual</src.rf>

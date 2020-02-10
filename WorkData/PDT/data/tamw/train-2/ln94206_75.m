@@ -241,7 +241,7 @@
 <LM>w#w-ln94206-75-p2s2w2</LM>
 </w.rf>
 <form>hodnotí</form>
-<tag lemma="hodnotit_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="hodnotit" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94206-75-p2s2w3">
 <src.rf>manual</src.rf>
@@ -778,7 +778,7 @@
 <LM>w#w-ln94206-75-p2s6w4</LM>
 </w.rf>
 <form>vyšetřují</form>
-<tag lemma="vyšetřovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="vyšetřovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94206-75-p2s6w5">
 <src.rf>manual</src.rf>

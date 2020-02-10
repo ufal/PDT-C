@@ -130,7 +130,7 @@
 <LM>w#w-ln95047-027-p2s1Bw8</LM>
 </w.rf>
 <form>signalizují</form>
-<tag lemma="signalizovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="signalizovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95047-027-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -753,7 +753,7 @@
 <LM>w#w-ln95047-027-p3s2w34</LM>
 </w.rf>
 <form>bývá</form>
-<tag lemma="bývat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="bývat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95047-027-p3s2w35">
 <src.rf>manual</src.rf>

@@ -101,7 +101,7 @@
 <LM>w#w-lnd94101-089-p1s1Bw7</LM>
 </w.rf>
 <form>nemusí</form>
-<tag lemma="muset" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="muset" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-lnd94101-089-p1s1Bw8">
 <src.rf>manual</src.rf>
@@ -363,7 +363,7 @@
 <LM>w#w-lnd94101-089-p1s1Dw27</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd94101-089-p1s1Dw28">
 <src.rf>manual</src.rf>
@@ -461,7 +461,7 @@
 <LM>w#w-lnd94101-089-p1s2Aw7</LM>
 </w.rf>
 <form>Dolomiti</form>
-<tag lemma="dolomit-2_:W" src="orig" selected="1">Vf--------A---2</tag>
+<tag lemma="dolomit-2" src="orig" selected="1">Vf--------A-P-2</tag>
 </m>
 <m id="m-lnd94101-089-p1s2Aw8">
 <src.rf>manual</src.rf>
@@ -992,7 +992,7 @@
 <LM>w#w-lnd94101-089-p1s4Aw20</LM>
 </w.rf>
 <form>čekat</form>
-<tag lemma="čekat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="čekat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd94101-089-p1s4Aw21">
 <src.rf>manual</src.rf>
@@ -1155,7 +1155,7 @@
 <LM>w#w-lnd94101-089-p1s4Aw40</LM>
 </w.rf>
 <form>vysvobodit</form>
-<tag lemma="vysvobodit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vysvobodit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd94101-089-p1s4Aw41">
 <src.rf>manual</src.rf>
@@ -1237,7 +1237,7 @@
 <LM>w#w-lnd94101-089-p1s5Aw9</LM>
 </w.rf>
 <form>Jsem</form>
-<tag lemma="být" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-lnd94101-089-p1s5Aw10">
 <src.rf>manual</src.rf>
@@ -1269,7 +1269,7 @@
 <LM>w#w-lnd94101-089-p1s5Aw13</LM>
 </w.rf>
 <form>nemusím</form>
-<tag lemma="muset" src="orig" selected="1">VB-S---1P-NA---</tag>
+<tag lemma="muset" src="orig" selected="1">VB-S---1P-NAI--</tag>
 </m>
 <m id="m-lnd94101-089-p1s5Aw14">
 <src.rf>manual</src.rf>
@@ -1696,7 +1696,7 @@
 <LM>w#w-lnd94101-089-p1s7Aw17</LM>
 </w.rf>
 <form>opravit</form>
-<tag lemma="opravit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="opravit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd94101-089-p1s7Aw18">
 <src.rf>manual</src.rf>
@@ -2407,7 +2407,7 @@
 <LM>w#w-lnd94101-089-p1s11Aw17</LM>
 </w.rf>
 <form>zahrají</form>
-<tag lemma="zahrát" src="orig" selected="1">VB-P---3P-AA--1</tag>
+<tag lemma="zahrát" src="orig" selected="1">VB-P---3P-AAP-1</tag>
 </m>
 <m id="m-lnd94101-089-p1s11Aw18">
 <src.rf>manual</src.rf>
@@ -2433,7 +2433,7 @@
 <LM>w#w-lnd94101-089-p1s12Bw2</LM>
 </w.rf>
 <form>jsme</form>
-<tag lemma="být" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-lnd94101-089-p1s12Bw3">
 <src.rf>manual</src.rf>

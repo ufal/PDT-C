@@ -327,7 +327,7 @@
 <LM>w#w-ln94208-1-p1s3w15</LM>
 </w.rf>
 <form>omlouváme</form>
-<tag lemma="omlouvat_:T" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="omlouvat" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-ln94208-1-p1s3w16">
 <src.rf>manual</src.rf>
@@ -367,7 +367,7 @@
 <LM>w#w-ln94208-1-p1s3w20</LM>
 </w.rf>
 <form>připomínáme</form>
-<tag lemma="připomínat_:T" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="připomínat" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-ln94208-1-p1s3w21">
 <src.rf>manual</src.rf>

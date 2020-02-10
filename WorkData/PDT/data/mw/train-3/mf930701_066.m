@@ -48,8 +48,8 @@
 <AM lemma="Ser_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Sera_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="Sero_;G" src="auto">NNNP2-----A----</AM>
-<AM lemma="srát" src="auto">Vi-S---2--A----</AM>
-<AM lemma="srát" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="srát" src="auto">Vi-S---2--A-I--</AM>
+<AM lemma="srát" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="sérum" src="auto">NNNP2-----A----</AM>
 <AM lemma="Ser-77" src="manual" selected="1">F%-------------</AM>
 </tag>

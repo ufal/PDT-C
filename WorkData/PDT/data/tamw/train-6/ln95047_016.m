@@ -27,7 +27,7 @@
 <LM>w#w-ln95047-016-p1s1w2</LM>
 </w.rf>
 <form>podporují</form>
-<tag lemma="podporovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="podporovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95047-016-p1s1w3">
 <src.rf>manual</src.rf>
@@ -83,7 +83,7 @@
 <LM>w#w-ln95047-016-p2s1Bw1</LM>
 </w.rf>
 <form>Udělit</form>
-<tag lemma="udělit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="udělit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95047-016-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -189,7 +189,7 @@
 <LM>w#w-ln95047-016-p2s1Bw13</LM>
 </w.rf>
 <form>chce</form>
-<tag lemma="chtít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="chtít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95047-016-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -590,7 +590,7 @@
 <LM>w#w-ln95047-016-p2s4w13</LM>
 </w.rf>
 <form>preferovat</form>
-<tag lemma="preferovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="preferovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95047-016-p2s4w14">
 <src.rf>manual</src.rf>
@@ -706,7 +706,7 @@
 <LM>w#w-ln95047-016-p2s5w3</LM>
 </w.rf>
 <form>doporučují</form>
-<tag lemma="doporučovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="doporučovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95047-016-p2s5w4">
 <src.rf>manual</src.rf>

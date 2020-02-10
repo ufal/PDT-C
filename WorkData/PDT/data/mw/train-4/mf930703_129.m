@@ -279,7 +279,7 @@
 <LM>w#w-mf930703-129-p1s3w14</LM>
 </w.rf>
 <form>obsadit</form>
-<tag lemma="obsadit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="obsadit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930703-129-p1s3w15">
 <src.rf>manual</src.rf>

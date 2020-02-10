@@ -53,7 +53,7 @@
 <LM>w#w-ln95045-112-p2s1Aw2</LM>
 </w.rf>
 <form>drží</form>
-<tag lemma="držet" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="držet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95045-112-p2s1Aw3">
 <src.rf>manual</src.rf>

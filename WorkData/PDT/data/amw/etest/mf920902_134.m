@@ -43,7 +43,7 @@
 <LM>w#w-mf920902-134-p1s1w4</LM>
 </w.rf>
 <form>netrpí</form>
-<tag lemma="trpět" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="trpět" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 </s>
 <s id="m-mf920902-134-p2s1">
@@ -87,7 +87,7 @@
 <LM>w#w-mf920902-134-p3s1w4</LM>
 </w.rf>
 <form>netrpí</form>
-<tag lemma="trpět" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="trpět" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 </s>
 <s id="m-mf920902-134-p4s1">
@@ -537,7 +537,7 @@
 <LM>w#w-mf920902-134-p4s5w4</LM>
 </w.rf>
 <form>odmítají</form>
-<tag lemma="odmítat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="odmítat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920902-134-p4s5w5">
 <src.rf>manual</src.rf>
@@ -595,7 +595,7 @@
 <LM>w#w-mf920902-134-p4s6w3</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920902-134-p4s6w4">
 <src.rf>manual</src.rf>
@@ -659,7 +659,7 @@
 <LM>w#w-mf920902-134-p4s6w11</LM>
 </w.rf>
 <form>mají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920902-134-p4s6w12">
 <src.rf>manual</src.rf>
@@ -789,7 +789,7 @@
 <LM>w#w-mf920902-134-p4s7w11</LM>
 </w.rf>
 <form>dopustí</form>
-<tag lemma="dopustit_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="dopustit" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-mf920902-134-p4s7w12">
 <src.rf>manual</src.rf>
@@ -837,7 +837,7 @@
 <LM>w#w-mf920902-134-p4s7w17</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-mf920902-134-p4s7w18">
 <src.rf>manual</src.rf>
@@ -861,7 +861,7 @@
 <LM>w#w-mf920902-134-p4s7w20</LM>
 </w.rf>
 <form>poškodit</form>
-<tag lemma="poškodit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="poškodit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920902-134-p4s7w21">
 <src.rf>manual</src.rf>

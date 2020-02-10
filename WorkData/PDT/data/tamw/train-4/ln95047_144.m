@@ -27,7 +27,7 @@
 <LM>w#w-ln95047-144-p1s1w2</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95047-144-p1s1w3">
 <src.rf>manual</src.rf>
@@ -192,7 +192,7 @@
 <LM>w#w-ln95047-144-p1s2w2</LM>
 </w.rf>
 <form>zaplatíte</form>
-<tag lemma="zaplatit_:W" src="orig" selected="1">VB-P---2P-AA---</tag>
+<tag lemma="zaplatit" src="orig" selected="1">VB-P---2P-AAP--</tag>
 </m>
 <m id="m-ln95047-144-p1s2w3">
 <src.rf>manual</src.rf>

@@ -294,7 +294,7 @@
 <LM>w#w-lnd92253-009-p1s1w35</LM>
 </w.rf>
 <form>nepočítá</form>
-<tag lemma="počítat_:T" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="počítat" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 </s>
 </mdata>

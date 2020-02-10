@@ -221,7 +221,7 @@
 <LM>w#w-lnd92258-018-p1s2w10</LM>
 </w.rf>
 <form>najdou</form>
-<tag lemma="najít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="najít" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-lnd92258-018-p1s2w11">
 <src.rf>manual</src.rf>
@@ -261,7 +261,7 @@
 <LM>w#w-lnd92258-018-p1s2w15</LM>
 </w.rf>
 <form>octnou</form>
-<tag lemma="octnout_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="octnout" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-lnd92258-018-p1s2w16">
 <src.rf>manual</src.rf>

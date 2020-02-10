@@ -146,7 +146,7 @@
 <LM>w#w-lnd92255-085-p2s2w2</LM>
 </w.rf>
 <form>usiluje</form>
-<tag lemma="usilovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="usilovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92255-085-p2s2w3">
 <src.rf>manual</src.rf>
@@ -742,8 +742,8 @@
 <AM lemma="šíř_^(jeden_z_rozměrů)" src="auto">NNFS7-----A----</AM>
 <AM lemma="šíře_^(jeden_z_rozměrů)" src="auto">NNFP2-----A----</AM>
 <AM lemma="šíře_^(jeden_z_rozměrů)" src="auto" recommended="1" selected="1">NNFS7-----A----</AM>
-<AM lemma="šířit_:T" src="auto">VB-P---3P-AA---</AM>
-<AM lemma="šířit_:T" src="auto">VB-S---3P-AA---</AM>
+<AM lemma="šířit" src="auto">VB-P---3P-AAI--</AM>
+<AM lemma="šířit" src="auto">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-lnd92255-085-p3s2w14">
@@ -972,7 +972,7 @@
 <LM>w#w-lnd92255-085-p3s4w5</LM>
 </w.rf>
 <form>jsme</form>
-<tag lemma="být" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-lnd92255-085-p3s4w6">
 <src.rf>manual</src.rf>

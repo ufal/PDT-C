@@ -487,7 +487,7 @@
 <LM>w#w-ln95049-054-p2s2w19</LM>
 </w.rf>
 <form>vyrovnat</form>
-<tag lemma="vyrovnat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vyrovnat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95049-054-p2s2w20">
 <src.rf>manual</src.rf>

@@ -465,7 +465,7 @@
 <LM>w#w-mf930713-159-p3s1w29</LM>
 </w.rf>
 <form>být</form>
-<tag lemma="být" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="být" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf930713-159-p3s1w30">
 <src.rf>manual</src.rf>

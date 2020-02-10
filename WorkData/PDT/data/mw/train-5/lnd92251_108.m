@@ -195,7 +195,7 @@
 <LM>w#w-lnd92251-108-p1s1w23</LM>
 </w.rf>
 <form>chystá</form>
-<tag lemma="chystat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="chystat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92251-108-p1s1w24">
 <src.rf>manual</src.rf>

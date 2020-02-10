@@ -61,7 +61,7 @@
 <LM>w#w-ln95046-029-p2s1w5</LM>
 </w.rf>
 <form>vzdát</form>
-<tag lemma="vzdát" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vzdát" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95046-029-p2s1w6">
 <src.rf>manual</src.rf>
@@ -239,7 +239,7 @@
 <LM>w#w-ln95046-029-p2s2w6</LM>
 </w.rf>
 <form>podrobí</form>
-<tag lemma="podrobit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="podrobit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95046-029-p2s2w7">
 <src.rf>manual</src.rf>

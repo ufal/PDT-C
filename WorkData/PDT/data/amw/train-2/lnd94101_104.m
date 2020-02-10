@@ -19,7 +19,7 @@
 <LM>w#w-lnd94101-104-p1s1w1</LM>
 </w.rf>
 <form>Čtěte</form>
-<tag lemma="číst" src="orig" selected="1">Vi-P---2--A----</tag>
+<tag lemma="číst" src="orig" selected="1">Vi-P---2--A-I--</tag>
 </m>
 <m id="m-lnd94101-104-p1s1w2">
 <src.rf>manual</src.rf>

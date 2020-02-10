@@ -162,7 +162,7 @@
 <LM>w#w-ln94207-49-p2s2w2</LM>
 </w.rf>
 <form>přestupují</form>
-<tag lemma="přestupovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="přestupovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94207-49-p2s2w3">
 <src.rf>manual</src.rf>

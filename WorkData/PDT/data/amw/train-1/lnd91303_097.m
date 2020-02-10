@@ -219,7 +219,7 @@
 <LM>w#w-lnd91303-097-p2s1w22</LM>
 </w.rf>
 <form>uděluje</form>
-<tag lemma="udělovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="udělovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd91303-097-p2s1w23">
 <src.rf>manual</src.rf>

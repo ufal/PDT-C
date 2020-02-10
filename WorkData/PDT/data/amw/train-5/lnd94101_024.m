@@ -620,7 +620,7 @@
 <LM>w#w-lnd94101-024-p1s5w21</LM>
 </w.rf>
 <form>umožní</form>
-<tag lemma="umožnit_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="umožnit" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-lnd94101-024-p1s5w22">
 <src.rf>manual</src.rf>
@@ -738,7 +738,7 @@
 <LM>w#w-lnd94101-024-p1s5w35</LM>
 </w.rf>
 <form>zpracuje</form>
-<tag lemma="zpracovat_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zpracovat" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd94101-024-p1s5w36">
 <src.rf>manual</src.rf>
@@ -804,7 +804,7 @@
 <LM>w#w-lnd94101-024-p1s6w2</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-lnd94101-024-p1s6w3">
 <src.rf>manual</src.rf>

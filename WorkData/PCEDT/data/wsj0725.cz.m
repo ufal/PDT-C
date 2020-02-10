@@ -17057,7 +17057,7 @@
 <form>nalezena</form>
 <tag>
 <AM lemma="naleznout" src="auto" recommended="1">VsQW---XX-API--</AM>
-<AM lemma="naleznout" src="manual" selected="1">VsQW----X-APP--</AM>
+<AM lemma="naleznout" src="manual" selected="1">VsQW----X-API--</AM>
 </tag>
 </m>
 <m id="m-wsj0725-001-p1s68W24-Ta">

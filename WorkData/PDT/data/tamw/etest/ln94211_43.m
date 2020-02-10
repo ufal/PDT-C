@@ -266,7 +266,7 @@
 <LM>w#w-ln94211-43-p2s1Bw21</LM>
 </w.rf>
 <form>podepíše</form>
-<tag lemma="podepsat" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="podepsat" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94211-43-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -460,7 +460,7 @@
 <LM>w#w-ln94211-43-p2s2w15</LM>
 </w.rf>
 <form>zní</form>
-<tag lemma="znít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="znít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94211-43-p2s2w16">
 <src.rf>manual</src.rf>
@@ -596,7 +596,7 @@
 <LM>w#w-ln94211-43-p2s2w32</LM>
 </w.rf>
 <form>posunout</form>
-<tag lemma="posunout" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="posunout" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94211-43-p2s2w33">
 <src.rf>manual</src.rf>

@@ -43,7 +43,7 @@
 <LM>w#w-ln94208-76-p1s1Aw4</LM>
 </w.rf>
 <form>staví</form>
-<tag lemma="stavět" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="stavět" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94208-76-p1s1Aw5">
 <src.rf>manual</src.rf>

@@ -120,7 +120,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>zveřejňujeme</form>
-<tag lemma="zveřejňovat_:T" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="zveřejňovat" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-cmpr9406-033-p20s1w4">
 <src.rf>manual</src.rf>
@@ -224,7 +224,7 @@
 <LM>w#w-cmpr9406-033-p20s1w17</LM>
 </w.rf>
 <form>připravit</form>
-<tag lemma="připravit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="připravit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-cmpr9406-033-p20s1w18">
 <src.rf>manual</src.rf>
@@ -274,7 +274,7 @@
 <LM>w#w-cmpr9406-033-p20s2w5</LM>
 </w.rf>
 <form>zasílejte</form>
-<tag lemma="zasílat_:T" src="orig" selected="1">Vi-P---2--A----</tag>
+<tag lemma="zasílat" src="orig" selected="1">Vi-P---2--A-I--</tag>
 </m>
 <m id="m-cmpr9406-033-p20s2w6">
 <src.rf>manual</src.rf>
@@ -314,7 +314,7 @@
 <LM>w#w-cmpr9406-033-p20s2w10</LM>
 </w.rf>
 <form>označte</form>
-<tag lemma="označit_:W" src="orig" selected="1">Vi-P---2--A----</tag>
+<tag lemma="označit" src="orig" selected="1">Vi-P---2--A-P--</tag>
 </m>
 <m id="m-cmpr9406-033-p20s2w11">
 <src.rf>manual</src.rf>
@@ -372,7 +372,7 @@
 <LM>w#w-cmpr9406-033-p21s1w2</LM>
 </w.rf>
 <form>neručí</form>
-<tag lemma="ručit_:T" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="ručit" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-cmpr9406-033-p21s1w3">
 <src.rf>manual</src.rf>

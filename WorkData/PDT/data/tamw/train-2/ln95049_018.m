@@ -62,7 +62,7 @@
 <LM>w#w-ln95049-018-p1s1w6</LM>
 </w.rf>
 <form>neobsluhujeme</form>
-<tag lemma="obsluhovat_:T" src="orig" selected="1">VB-P---1P-NA---</tag>
+<tag lemma="obsluhovat" src="orig" selected="1">VB-P---1P-NAI--</tag>
 </m>
 <m id="m-ln95049-018-p1s1w7">
 <src.rf>manual</src.rf>
@@ -425,7 +425,7 @@
 <LM>w#w-ln95049-018-p1s3w11</LM>
 </w.rf>
 <form>demolovat</form>
-<tag lemma="demolovat_:T_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="demolovat" src="orig" selected="1">Vf--------A-B--</tag>
 </m>
 <m id="m-ln95049-018-p1s3w12">
 <src.rf>manual</src.rf>
@@ -561,7 +561,7 @@
 <LM>w#w-ln95049-018-p1s4w13</LM>
 </w.rf>
 <form>obsluhují</form>
-<tag lemma="obsluhovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="obsluhovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95049-018-p1s4w14">
 <src.rf>manual</src.rf>
@@ -651,7 +651,7 @@
 <LM>w#w-ln95049-018-p1s5w10</LM>
 </w.rf>
 <form>odstranit</form>
-<tag lemma="odstranit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="odstranit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95049-018-p1s5w11">
 <src.rf>manual</src.rf>

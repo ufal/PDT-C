@@ -343,7 +343,7 @@
 <LM>w#w-ln95043-014-p2s2w5</LM>
 </w.rf>
 <form>sehrají</form>
-<tag lemma="sehrát" src="orig" selected="1">VB-P---3P-AA--1</tag>
+<tag lemma="sehrát" src="orig" selected="1">VB-P---3P-AAP-1</tag>
 </m>
 <m id="m-ln95043-014-p2s2w6">
 <src.rf>manual</src.rf>

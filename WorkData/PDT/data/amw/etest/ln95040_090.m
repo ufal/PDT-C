@@ -74,7 +74,7 @@
 <LM>w#w-ln95040-090-p1s1w7</LM>
 </w.rf>
 <form>odstoupí</form>
-<tag lemma="odstoupit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="odstoupit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 </s>
 <s id="m-ln95040-090-p2s1A">
@@ -150,7 +150,7 @@
 <LM>w#w-ln95040-090-p2s1Bw7</LM>
 </w.rf>
 <form>odstoupí</form>
-<tag lemma="odstoupit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="odstoupit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95040-090-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -297,7 +297,7 @@
 <LM>w#w-ln95040-090-p2s1Bw25</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-ln95040-090-p2s1Bw26">
 <src.rf>manual</src.rf>
@@ -313,7 +313,7 @@
 <LM>w#w-ln95040-090-p2s1Bw27</LM>
 </w.rf>
 <form>nutit</form>
-<tag lemma="nutit_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="nutit" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95040-090-p2s1Bw28">
 <src.rf>manual</src.rf>
@@ -533,8 +533,8 @@
 </w.rf>
 <form>nemá</form>
 <tag>
-<AM lemma="mít" src="orig">VB-S---3P-NA---</AM>
-<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-NA---</AM>
+<AM lemma="mít" src="orig">VB-S---3P-NAI--</AM>
+<AM lemma="mít" src="manual" selected="1">VB-S---3P-NAI--</AM>
 </tag>
 </m>
 <m id="m-ln95040-090-p2s2w18">
@@ -551,7 +551,7 @@
 <LM>w#w-ln95040-090-p2s2w19</LM>
 </w.rf>
 <form>ztratit</form>
-<tag lemma="ztratit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="ztratit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95040-090-p2s2w20">
 <src.rf>manual</src.rf>
@@ -665,7 +665,7 @@
 <LM>w#w-ln95040-090-p2s3w12</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-ln95040-090-p2s3w13">
 <src.rf>manual</src.rf>
@@ -812,7 +812,7 @@
 <LM>w#w-ln95040-090-p2s3w30</LM>
 </w.rf>
 <form>obstarat</form>
-<tag lemma="obstarat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="obstarat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95040-090-p2s3w31">
 <src.rf>manual</src.rf>

@@ -28,7 +28,7 @@
 <LM>w#w-d1t3110-2</LM>
 </w.rf>
 <form>děkuji</form>
-<tag lemma="děkovat_:T" src="auto" recommended="1">VB-S---1P-AA--1</tag>
+<tag lemma="děkovat" src="auto" recommended="1">VB-S---1P-AAI-1</tag>
 </m>
 <m id="m136-d-m-d1e3107-x2-punct-punct">
 <w.rf>
@@ -132,7 +132,7 @@
 <LM>w#w-d1e3117-x2-1034</LM>
 </w.rf>
 <form>jsem</form>
-<tag lemma="být" src="auto" recommended="1">VB-S---1P-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m136-d1e3117-x2-1035">
 <w.rf>
@@ -171,7 +171,7 @@
 <LM>w#w-d1e3117-x2-305</LM>
 </w.rf>
 <form>děkuji</form>
-<tag lemma="děkovat_:T" src="auto" recommended="1">VB-S---1P-AA--1</tag>
+<tag lemma="děkovat" src="auto" recommended="1">VB-S---1P-AAI-1</tag>
 </m>
 <m id="m136-d1e3117-x2-306">
 <w.rf>
@@ -197,7 +197,7 @@
 <LM>w#w-d1t3122-2</LM>
 </w.rf>
 <form>jsem</form>
-<tag lemma="být" src="auto" recommended="1">VB-S---1P-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m136-d1t3122-3">
 <w.rf>

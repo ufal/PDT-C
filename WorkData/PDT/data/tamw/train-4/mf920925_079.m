@@ -344,7 +344,7 @@
 <LM>w#w-mf920925-079-p2s3w6</LM>
 </w.rf>
 <form>hlásí</form>
-<tag lemma="hlásit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="hlásit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920925-079-p2s3w7">
 <src.rf>manual</src.rf>

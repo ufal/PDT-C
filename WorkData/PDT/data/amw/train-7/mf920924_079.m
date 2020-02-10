@@ -35,7 +35,7 @@
 <LM>w#w-mf920924-079-p1s1w3</LM>
 </w.rf>
 <form>zamíří</form>
-<tag lemma="zamířit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zamířit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf920924-079-p1s1w4">
 <src.rf>manual</src.rf>
@@ -286,7 +286,7 @@
 <LM>w#w-mf920924-079-p1s2w1</LM>
 </w.rf>
 <form>Začíná</form>
-<tag lemma="začínat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="začínat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920924-079-p1s2w2">
 <src.rf>manual</src.rf>

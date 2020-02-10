@@ -138,7 +138,7 @@
 <LM>w#w-lnd91303-103-p2s2w5</LM>
 </w.rf>
 <form>startují</form>
-<tag lemma="startovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="startovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd91303-103-p2s2w6">
 <src.rf>manual</src.rf>
@@ -318,7 +318,7 @@
 <AM lemma="mele" src="orig">NNNXX-----A----</AM>
 <AM lemma="mela" src="auto">NNFS3-----A----</AM>
 <AM lemma="mela" src="auto">NNFS6-----A----</AM>
-<AM lemma="mlít" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="mlít" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="mele" src="manual" selected="1">Db-------------</AM>
 </tag>
 </m>
@@ -690,7 +690,7 @@
 <LM>w#w-lnd91303-103-p6s1w13</LM>
 </w.rf>
 <form>chystá</form>
-<tag lemma="chystat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="chystat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd91303-103-p6s1w14">
 <src.rf>manual</src.rf>

@@ -77,7 +77,7 @@
 <LM>w#w-mf920923-031-p3s1w1</LM>
 </w.rf>
 <form>Přenechám</form>
-<tag lemma="přenechat" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="přenechat" src="orig" selected="1">VB-S---1P-AAP--</tag>
 </m>
 <m id="m-mf920923-031-p3s1w2">
 <src.rf>manual</src.rf>
@@ -136,7 +136,7 @@
 <LM>w#w-mf920923-031-p4s1w1</LM>
 </w.rf>
 <form>Prodám</form>
-<tag lemma="prodat_:W" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="prodat" src="orig" selected="1">VB-S---1P-AAP--</tag>
 </m>
 <m id="m-mf920923-031-p4s1w2">
 <src.rf>manual</src.rf>

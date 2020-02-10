@@ -234,7 +234,7 @@
 <LM>w#w-lnd92259-099-p2s2w22</LM>
 </w.rf>
 <form>odvolat</form>
-<tag lemma="odvolat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="odvolat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92259-099-p2s2w23">
 <src.rf>manual</src.rf>

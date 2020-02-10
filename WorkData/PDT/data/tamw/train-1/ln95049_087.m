@@ -210,7 +210,7 @@
 <LM>w#w-ln95049-087-p2s2w7</LM>
 </w.rf>
 <form>plnit</form>
-<tag lemma="plnit_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="plnit" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95049-087-p2s2w8">
 <src.rf>manual</src.rf>
@@ -352,7 +352,7 @@
 <LM>w#w-ln95049-087-p2s2w24</LM>
 </w.rf>
 <form>dluží</form>
-<tag lemma="dlužit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="dlužit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95049-087-p2s2w25">
 <src.rf>manual</src.rf>
@@ -664,7 +664,7 @@
 <LM>w#w-ln95049-087-p3s2w4</LM>
 </w.rf>
 <form>projíždět</form>
-<tag lemma="projíždět_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="projíždět" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95049-087-p3s2w5">
 <src.rf>manual</src.rf>

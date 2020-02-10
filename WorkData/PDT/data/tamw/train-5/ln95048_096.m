@@ -1002,7 +1002,7 @@
 <LM>w#w-ln95048-096-p2s6w27</LM>
 </w.rf>
 <form>boxovat</form>
-<tag lemma="boxovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="boxovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95048-096-p2s6w28">
 <src.rf>manual</src.rf>
@@ -1719,7 +1719,7 @@
 <LM>w#w-ln95048-096-p3s3w4</LM>
 </w.rf>
 <form>hrát</form>
-<tag lemma="hrát" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="hrát" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95048-096-p3s3w5">
 <src.rf>manual</src.rf>

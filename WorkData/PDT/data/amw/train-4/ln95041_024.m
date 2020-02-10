@@ -588,7 +588,7 @@
 <LM>w#w-ln95041-024-p3s3w4</LM>
 </w.rf>
 <form>být</form>
-<tag lemma="být" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="být" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95041-024-p3s3w5">
 <src.rf>manual</src.rf>
@@ -1062,7 +1062,7 @@
 <LM>w#w-ln95041-024-p4s2w16</LM>
 </w.rf>
 <form>předběhnout</form>
-<tag lemma="předběhnout_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="předběhnout" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95041-024-p4s2w17">
 <src.rf>manual</src.rf>

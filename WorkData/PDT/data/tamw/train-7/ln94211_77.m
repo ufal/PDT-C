@@ -59,7 +59,7 @@
 <LM>w#w-ln94211-77-p1s1Aw6</LM>
 </w.rf>
 <form>nezapře</form>
-<tag lemma="zapřít" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="zapřít" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-ln94211-77-p1s1Aw7">
 <src.rf>manual</src.rf>

@@ -35,7 +35,7 @@
 <LM>w#w-mf920924-148-p1s1w3</LM>
 </w.rf>
 <form>vyhlížejí</form>
-<tag lemma="vyhlížet_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="vyhlížet" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920924-148-p1s1w4">
 <src.rf>manual</src.rf>

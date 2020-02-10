@@ -1219,7 +1219,7 @@
 <LM>w#w-cmpr9406-021-p9s1Bw13</LM>
 </w.rf>
 <form>být</form>
-<tag lemma="být" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="být" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-cmpr9406-021-p9s1Bw14">
 <src.rf>manual</src.rf>

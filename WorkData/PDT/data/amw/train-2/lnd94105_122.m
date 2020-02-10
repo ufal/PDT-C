@@ -70,7 +70,7 @@
 <LM>w#w-lnd94105-122-p1s1w7</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd94105-122-p1s1w8">
 <src.rf>manual</src.rf>

@@ -36,8 +36,8 @@
 </w.rf>
 <form>zadrží</form>
 <tag>
-<AM lemma="zadržet" src="orig">VB-P---3P-AA---</AM>
-<AM lemma="zadržet_:W" src="manual" selected="1">VB-P---3P-AA---</AM>
+<AM lemma="zadržet" src="orig">VB-P---3P-AAP--</AM>
+<AM lemma="zadržet" src="manual" selected="1">VB-P---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930703-146-p1s1w4">
@@ -200,7 +200,7 @@
 <LM>w#w-mf930703-146-p2s1w17</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930703-146-p2s1w18">
 <src.rf>manual</src.rf>
@@ -1078,7 +1078,7 @@
 <LM>w#w-mf930703-146-p2s8w2</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930703-146-p2s8w3">
 <src.rf>manual</src.rf>

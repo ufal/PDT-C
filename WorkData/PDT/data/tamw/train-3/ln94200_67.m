@@ -107,7 +107,7 @@
 <LM>w#w-ln94200-67-p1s1Aw12</LM>
 </w.rf>
 <form>patří</form>
-<tag lemma="patřit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="patřit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94200-67-p1s1Aw13">
 <src.rf>manual</src.rf>

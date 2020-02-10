@@ -35,7 +35,7 @@
 <LM>w#w-mf920923-111-p1s1w3</LM>
 </w.rf>
 <form>odvážejí</form>
-<tag lemma="odvážet_:T_^(něco_někam_např._autem)" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="odvážet_^(něco_někam_např._autem)" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920923-111-p1s1w4">
 <src.rf>manual</src.rf>

@@ -423,7 +423,7 @@
 <LM>w#w-mf920924-028-p2s2w3</LM>
 </w.rf>
 <form>nedosáhne</form>
-<tag lemma="dosáhnout" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="dosáhnout" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-mf920924-028-p2s2w4">
 <src.rf>manual</src.rf>

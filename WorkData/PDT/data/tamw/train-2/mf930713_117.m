@@ -839,7 +839,7 @@
 <LM>w#w-mf930713-117-p3s1w16</LM>
 </w.rf>
 <form>odbourat</form>
-<tag lemma="odbourat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="odbourat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930713-117-p3s1w17">
 <src.rf>manual</src.rf>
@@ -855,7 +855,7 @@
 <LM>w#w-mf930713-117-p3s1w18</LM>
 </w.rf>
 <form>považuji</form>
-<tag lemma="považovat_:T" src="orig" selected="1">VB-S---1P-AA--1</tag>
+<tag lemma="považovat" src="orig" selected="1">VB-S---1P-AAI-1</tag>
 </m>
 <m id="m-mf930713-117-p3s1w19">
 <src.rf>manual</src.rf>
@@ -1008,7 +1008,7 @@
 <LM>w#w-mf930713-117-p3s2w9</LM>
 </w.rf>
 <form>představuje</form>
-<tag lemma="představovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="představovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930713-117-p3s2w10">
 <src.rf>manual</src.rf>
@@ -1349,7 +1349,7 @@
 <LM>w#w-mf930713-117-p4s1w11</LM>
 </w.rf>
 <form>znamená</form>
-<tag lemma="znamenat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="znamenat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930713-117-p4s1w12">
 <src.rf>manual</src.rf>

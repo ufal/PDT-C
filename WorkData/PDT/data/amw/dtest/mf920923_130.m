@@ -177,7 +177,7 @@
 <LM>w#w-mf920923-130-p4s2w12</LM>
 </w.rf>
 <form>neuzavřou</form>
-<tag lemma="uzavřít" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="uzavřít" src="orig" selected="1">VB-P---3P-NAP--</tag>
 </m>
 <m id="m-mf920923-130-p4s2w13">
 <src.rf>manual</src.rf>
@@ -339,7 +339,7 @@
 <LM>w#w-mf920923-130-p4s3w12</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920923-130-p4s3w13">
 <src.rf>manual</src.rf>
@@ -427,7 +427,7 @@
 <LM>w#w-mf920923-130-p4s3w23</LM>
 </w.rf>
 <form>jde</form>
-<tag lemma="jít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="jít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920923-130-p4s3w24">
 <src.rf>manual</src.rf>

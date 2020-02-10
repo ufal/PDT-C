@@ -479,7 +479,7 @@
 <LM>w#w-ln95049-028-p3s1w10</LM>
 </w.rf>
 <form>vrátí</form>
-<tag lemma="vrátit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vrátit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95049-028-p3s1w11">
 <src.rf>manual</src.rf>

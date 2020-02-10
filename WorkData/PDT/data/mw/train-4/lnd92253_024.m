@@ -275,7 +275,7 @@
 <LM>w#w-lnd92253-024-p1s2w4</LM>
 </w.rf>
 <form>usmívá</form>
-<tag lemma="usmívat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="usmívat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92253-024-p1s2w5">
 <src.rf>manual</src.rf>

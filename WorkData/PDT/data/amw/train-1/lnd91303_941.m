@@ -177,7 +177,7 @@
 <LM>w#w-lnd91303-941-p3s1Bw8</LM>
 </w.rf>
 <form>oslavují</form>
-<tag lemma="oslavovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="oslavovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd91303-941-p3s1Bw9">
 <src.rf>manual</src.rf>
@@ -331,7 +331,7 @@
 <LM>w#w-lnd91303-941-p3s2w10</LM>
 </w.rf>
 <form>konstatuje</form>
-<tag lemma="konstatovat_:T_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="konstatovat" src="orig" selected="1">VB-S---3P-AAB--</tag>
 </m>
 <m id="m-lnd91303-941-p3s2w11">
 <src.rf>manual</src.rf>
@@ -510,7 +510,7 @@
 <LM>w#w-lnd91303-941-p3s2w32</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd91303-941-p3s2w33">
 <src.rf>manual</src.rf>

@@ -235,7 +235,7 @@
 <LM>w#w-vesm9212-044-p1s2w10</LM>
 </w.rf>
 <form>zabývá</form>
-<tag lemma="zabývat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zabývat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9212-044-p1s2w11">
 <src.rf>manual</src.rf>

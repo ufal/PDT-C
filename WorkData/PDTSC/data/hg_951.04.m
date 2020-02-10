@@ -216,7 +216,7 @@
 <LM>w#w-d1t1778-6</LM>
 </w.rf>
 <form>stravovat</form>
-<tag lemma="stravovat_:T" src="auto" recommended="1">Vf--------A----</tag>
+<tag lemma="stravovat" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="m951-d-id103025">
 <w.rf>
@@ -239,7 +239,7 @@
 <LM>w#w-d1t1784-3</LM>
 </w.rf>
 <form>jste</form>
-<tag lemma="být" src="auto" recommended="1">VB-P---2P-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m951-d1t1784-4">
 <w.rf>
@@ -351,14 +351,14 @@
 <LM>w#w-d1t1786-4</LM>
 </w.rf>
 <form>jsem</form>
-<tag lemma="být" src="auto" recommended="1">VB-S---1P-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m951-d1t1786-6">
 <w.rf>
 <LM>w#w-d1t1786-6</LM>
 </w.rf>
 <form>bydlet</form>
-<tag lemma="bydlet" src="auto" recommended="1">Vf--------A----</tag>
+<tag lemma="bydlet" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="m951-d1t1786-7">
 <w.rf>
@@ -557,7 +557,7 @@
 <LM>w#w-d1t1801-9</LM>
 </w.rf>
 <form>jsem</form>
-<tag lemma="být" src="auto" recommended="1">VB-S---1P-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m951-d1t1801-10">
 <w.rf>

@@ -683,7 +683,7 @@
 <LM>w#w-vesm9301-010-p1s5w2</LM>
 </w.rf>
 <form>začínáme</form>
-<tag lemma="začínat_:T" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="začínat" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-vesm9301-010-p1s5w3">
 <src.rf>manual</src.rf>
@@ -707,7 +707,7 @@
 <LM>w#w-vesm9301-010-p1s5w5</LM>
 </w.rf>
 <form>uveřejňovat</form>
-<tag lemma="uveřejňovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="uveřejňovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-vesm9301-010-p1s5w6">
 <src.rf>manual</src.rf>
@@ -811,7 +811,7 @@
 <LM>w#w-vesm9301-010-p1s5w18</LM>
 </w.rf>
 <form>zabývá</form>
-<tag lemma="zabývat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zabývat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9301-010-p1s5w19">
 <src.rf>manual</src.rf>
@@ -885,7 +885,7 @@
 <LM>w#w-vesm9301-010-p1s6w1</LM>
 </w.rf>
 <form>Je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9301-010-p1s6w2">
 <src.rf>manual</src.rf>

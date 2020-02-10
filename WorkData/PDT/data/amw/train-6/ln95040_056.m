@@ -123,7 +123,7 @@
 <LM>w#w-ln95040-056-p1s1w14</LM>
 </w.rf>
 <form>zdobí</form>
-<tag lemma="zdobit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zdobit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95040-056-p1s1w15">
 <src.rf>manual</src.rf>

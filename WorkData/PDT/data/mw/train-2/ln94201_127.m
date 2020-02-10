@@ -616,7 +616,7 @@
 <LM>w#w-ln94201-127-p3s2w26</LM>
 </w.rf>
 <form>přináší</form>
-<tag lemma="přinášet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="přinášet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94201-127-p3s2w27">
 <src.rf>manual</src.rf>
@@ -1004,7 +1004,7 @@
 <LM>w#w-ln94201-127-p3s3w32</LM>
 </w.rf>
 <form>zahajuje</form>
-<tag lemma="zahajovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zahajovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94201-127-p3s3w33">
 <src.rf>manual</src.rf>
@@ -1190,7 +1190,7 @@
 <LM>w#w-ln94201-127-p3s4w10</LM>
 </w.rf>
 <form>všímá</form>
-<tag lemma="všímat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="všímat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94201-127-p3s4w11">
 <src.rf>manual</src.rf>
@@ -1263,8 +1263,8 @@
 </w.rf>
 <form>Rozklenout</form>
 <tag>
-<AM lemma="rozklenout" src="orig">Vf--------A----</AM>
-<AM lemma="rozklenout_:W" src="manual" selected="1">Vf--------A----</AM>
+<AM lemma="rozklenout" src="orig">Vf--------A-P--</AM>
+<AM lemma="rozklenout" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
 <m id="m-ln94201-127-p3s4w20">
@@ -1401,7 +1401,7 @@
 <LM>w#w-ln94201-127-p3s4w36</LM>
 </w.rf>
 <form>hodnotí</form>
-<tag lemma="hodnotit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="hodnotit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94201-127-p3s4w37">
 <src.rf>manual</src.rf>
@@ -1555,8 +1555,8 @@
 <form>pal</form>
 <tag>
 <AM lemma="pal-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="pálit" src="auto" recommended="1">Vi-S---2--A----</AM>
-<AM lemma="pálit" src="auto">Vi-S---3--A---4</AM>
+<AM lemma="pálit" src="auto" recommended="1">Vi-S---2--A-I--</AM>
+<AM lemma="pálit" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="pal-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

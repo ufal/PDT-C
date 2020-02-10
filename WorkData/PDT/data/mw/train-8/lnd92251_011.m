@@ -269,7 +269,7 @@
 <LM>w#w-lnd92251-011-p3s2w22</LM>
 </w.rf>
 <form>nepoškodí</form>
-<tag lemma="poškodit_:W" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="poškodit" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-lnd92251-011-p3s2w23">
 <src.rf>manual</src.rf>
@@ -357,7 +357,7 @@
 <LM>w#w-lnd92251-011-p3s2w33</LM>
 </w.rf>
 <form>respektují</form>
-<tag lemma="respektovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="respektovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92251-011-p3s2w34">
 <src.rf>manual</src.rf>
@@ -501,7 +501,7 @@
 <LM>w#w-lnd92251-011-p3s2w51</LM>
 </w.rf>
 <form>uvádí</form>
-<tag lemma="uvádět_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="uvádět" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92251-011-p3s2w52">
 <src.rf>manual</src.rf>
@@ -543,7 +543,7 @@
 <form>JE</form>
 <tag>
 <AM lemma="JE_:B_^(jaderná_elektrárna)" src="orig">NNFXX-----A---8</AM>
-<AM lemma="být" src="auto" recommended="1">VB-S---3P-AA---</AM>
+<AM lemma="být" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPXP4--3-------</AM>
 <AM lemma="JE-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
@@ -579,7 +579,7 @@
 <LM>w#w-lnd92251-011-p3s2w60</LM>
 </w.rf>
 <form>poskytovat</form>
-<tag lemma="poskytovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="poskytovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd92251-011-p3s2w61">
 <src.rf>manual</src.rf>
@@ -619,7 +619,7 @@
 <LM>w#w-lnd92251-011-p3s2w65</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92251-011-p3s2w66">
 <src.rf>manual</src.rf>
@@ -745,7 +745,7 @@
 <LM>w#w-lnd92251-011-p3s2w79</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-lnd92251-011-p3s2w80">
 <src.rf>manual</src.rf>

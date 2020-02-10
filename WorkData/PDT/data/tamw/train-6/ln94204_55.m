@@ -860,7 +860,7 @@
 <LM>w#w-ln94204-55-p2s5w1</LM>
 </w.rf>
 <form>Jde</form>
-<tag lemma="jít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="jít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94204-55-p2s5w2">
 <src.rf>manual</src.rf>

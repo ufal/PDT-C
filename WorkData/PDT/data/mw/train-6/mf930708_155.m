@@ -271,7 +271,7 @@
 <LM>w#w-mf930708-155-p8s1w2</LM>
 </w.rf>
 <form>Mají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-155-p8s1w3">
 <src.rf>manual</src.rf>
@@ -2016,7 +2016,7 @@
 <LM>w#w-mf930708-155-p52s1w3</LM>
 </w.rf>
 <form>má</form>
-<tag lemma="mít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-155-p52s1w4">
 <src.rf>manual</src.rf>
@@ -2539,7 +2539,7 @@
 <LM>w#w-mf930708-155-p64s1w3</LM>
 </w.rf>
 <form>září</form>
-<tag lemma="zářit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zářit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-155-p64s1w4">
 <src.rf>manual</src.rf>

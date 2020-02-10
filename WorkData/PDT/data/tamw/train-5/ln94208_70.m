@@ -35,7 +35,7 @@
 <LM>w#w-ln94208-70-p1s1Aw3</LM>
 </w.rf>
 <form>chystají</form>
-<tag lemma="chystat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="chystat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94208-70-p1s1Aw4">
 <src.rf>manual</src.rf>

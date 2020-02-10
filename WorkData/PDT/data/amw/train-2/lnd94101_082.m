@@ -357,7 +357,7 @@
 <LM>w#w-lnd94101-082-p1s4w24</LM>
 </w.rf>
 <form>postupuje</form>
-<tag lemma="postupovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="postupovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94101-082-p1s4w25">
 <src.rf>manual</src.rf>

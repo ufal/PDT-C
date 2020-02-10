@@ -275,7 +275,7 @@
 <LM>w#w-cmpr9410-030-p3s2w4</LM>
 </w.rf>
 <form>zlepšuje</form>
-<tag lemma="zlepšovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zlepšovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9410-030-p3s2w5">
 <src.rf>manual</src.rf>

@@ -346,7 +346,7 @@
 <LM>w#w-lnd92257-023-p2s3w7</LM>
 </w.rf>
 <form>zdůvodňuje</form>
-<tag lemma="zdůvodňovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zdůvodňovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92257-023-p2s3w8">
 <src.rf>manual</src.rf>

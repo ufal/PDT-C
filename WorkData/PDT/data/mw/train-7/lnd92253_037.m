@@ -197,7 +197,7 @@
 <LM>w#w-lnd92253-037-p2s1w17</LM>
 </w.rf>
 <form>koná</form>
-<tag lemma="konat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="konat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92253-037-p2s1w18">
 <src.rf>manual</src.rf>
@@ -320,7 +320,7 @@
 <LM>w#w-lnd92253-037-p2s1w32</LM>
 </w.rf>
 <form>promluví</form>
-<tag lemma="promluvit_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="promluvit" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-lnd92253-037-p2s1w33">
 <src.rf>manual</src.rf>

@@ -96,7 +96,7 @@
 <LM>w#w-ln94206-111-p1s1w10</LM>
 </w.rf>
 <form>losuje</form>
-<tag lemma="losovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="losovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94206-111-p1s1w11">
 <src.rf>manual</src.rf>

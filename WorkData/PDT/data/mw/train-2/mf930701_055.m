@@ -177,7 +177,7 @@
 <LM>w#w-mf930701-055-p2s2w6</LM>
 </w.rf>
 <form>zapomeň</form>
-<tag lemma="zapomenout" src="orig" selected="1">Vi-S---2--A----</tag>
+<tag lemma="zapomenout" src="orig" selected="1">Vi-S---2--A-P--</tag>
 </m>
 </s>
 <s id="m-mf930701-055-p3s1">

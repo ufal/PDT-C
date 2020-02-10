@@ -947,7 +947,7 @@
 <LM>w#w-lnd94105-102-p1s9w12</LM>
 </w.rf>
 <form>odváží</form>
-<tag lemma="odvážet_:T_^(něco_někam_např._autem)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="odvážet_^(něco_někam_např._autem)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94105-102-p1s9w13">
 <src.rf>manual</src.rf>

@@ -2547,7 +2547,7 @@
 <LM>w#w-mf930701-088-p3s2w62</LM>
 </w.rf>
 <form>Dívej</form>
-<tag lemma="dívat_:T" src="orig" selected="1">Vi-S---2--A----</tag>
+<tag lemma="dívat" src="orig" selected="1">Vi-S---2--A-I--</tag>
 </m>
 <m id="m-mf930701-088-p3s2w63">
 <src.rf>manual</src.rf>
@@ -2981,7 +2981,7 @@
 <LM>w#w-mf930701-088-p3s3w40</LM>
 </w.rf>
 <form>hraje</form>
-<tag lemma="hrát" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="hrát" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930701-088-p3s3w41">
 <src.rf>manual</src.rf>
@@ -3149,7 +3149,7 @@
 <LM>w#w-mf930701-088-p3s3w60</LM>
 </w.rf>
 <form>chcete</form>
-<tag lemma="chtít" src="orig" selected="1">VB-P---2P-AA---</tag>
+<tag lemma="chtít" src="orig" selected="1">VB-P---2P-AAI--</tag>
 </m>
 </s>
 <s id="m-mf930701-088-p3s3b">
@@ -8062,7 +8062,7 @@
 <LM>w#w-mf930701-088-p12s1w21</LM>
 </w.rf>
 <form>Hrajeme</form>
-<tag lemma="hrát" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="hrát" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-mf930701-088-p12s1w22">
 <src.rf>manual</src.rf>

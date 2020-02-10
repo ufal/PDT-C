@@ -194,7 +194,7 @@
 <LM>w#w-lnd94104-104-p1s3w14</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd94104-104-p1s3w15">
 <src.rf>manual</src.rf>

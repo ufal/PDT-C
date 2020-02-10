@@ -235,7 +235,7 @@
 <LM>w#w-lnd92254-081-p2s1w1</LM>
 </w.rf>
 <form>Upozorňujeme</form>
-<tag lemma="upozorňovat_:T" src="orig" selected="1">VB-P---1P-AA---</tag>
+<tag lemma="upozorňovat" src="orig" selected="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m-lnd92254-081-p2s1w2">
 <src.rf>manual</src.rf>

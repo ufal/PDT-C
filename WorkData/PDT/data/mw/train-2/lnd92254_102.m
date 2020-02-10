@@ -498,7 +498,7 @@
 <LM>w#w-lnd92254-102-p3s3w19</LM>
 </w.rf>
 <form>poznamenává</form>
-<tag lemma="poznamenávat_:T_^(*4at)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="poznamenávat_^(*4at)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92254-102-p3s3w20">
 <src.rf>manual</src.rf>

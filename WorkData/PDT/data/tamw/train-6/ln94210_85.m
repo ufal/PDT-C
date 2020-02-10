@@ -67,7 +67,7 @@
 <LM>w#w-ln94210-85-p1s1w7</LM>
 </w.rf>
 <form>opravují</form>
-<tag lemma="opravovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="opravovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94210-85-p1s1w8">
 <src.rf>manual</src.rf>
@@ -391,7 +391,7 @@
 <LM>w#w-ln94210-85-p1s3w3</LM>
 </w.rf>
 <form>pohlíží</form>
-<tag lemma="pohlížet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="pohlížet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94210-85-p1s3w4">
 <src.rf>manual</src.rf>

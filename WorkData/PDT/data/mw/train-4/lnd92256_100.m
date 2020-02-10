@@ -1112,7 +1112,7 @@
 <LM>w#w-lnd92256-100-p4s3w5</LM>
 </w.rf>
 <form>daří</form>
-<tag lemma="dařit_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="dařit" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92256-100-p4s3w6">
 <src.rf>manual</src.rf>

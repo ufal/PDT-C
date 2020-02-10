@@ -582,7 +582,7 @@
 <LM>w#w-mf920923-119-p1s3w4</LM>
 </w.rf>
 <form>odhaduje</form>
-<tag lemma="odhadovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="odhadovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920923-119-p1s3w5">
 <src.rf>manual</src.rf>

@@ -43,7 +43,7 @@
 <LM>w#w-vesm9211-048-p1s1w4</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9211-048-p1s1w5">
 <src.rf>manual</src.rf>
@@ -86,7 +86,7 @@
 <LM>w#w-vesm9211-048-p1s1w9</LM>
 </w.rf>
 <form>házet</form>
-<tag lemma="házet_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="házet" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-vesm9211-048-p1s1w10">
 <src.rf>manual</src.rf>
@@ -182,7 +182,7 @@
 <LM>w#w-vesm9211-048-p1s1w21</LM>
 </w.rf>
 <form>udržuje</form>
-<tag lemma="udržovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="udržovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-vesm9211-048-p1s1w22">
 <src.rf>manual</src.rf>

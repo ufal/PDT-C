@@ -589,7 +589,7 @@
 <LM>w#w-mf930713-102-p2s4w4</LM>
 </w.rf>
 <form>nastoupí</form>
-<tag lemma="nastoupit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="nastoupit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930713-102-p2s4w5">
 <src.rf>manual</src.rf>

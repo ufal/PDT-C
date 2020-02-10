@@ -70,7 +70,7 @@
 <LM>w#w-mf930703-123-p1s1w7</LM>
 </w.rf>
 <form>udivuje</form>
-<tag lemma="udivovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="udivovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 </s>
 <s id="m-mf930703-123-p2s1">
@@ -588,7 +588,7 @@
 <LM>w#w-mf930703-123-p2s4w19</LM>
 </w.rf>
 <form>vyplývá</form>
-<tag lemma="vyplývat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vyplývat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930703-123-p2s4w20">
 <src.rf>manual</src.rf>
@@ -788,7 +788,7 @@
 <LM>w#w-mf930703-123-p2s5w16</LM>
 </w.rf>
 <form>neučiní</form>
-<tag lemma="učinit_:W" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="učinit" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-mf930703-123-p2s5w17">
 <src.rf>manual</src.rf>
@@ -828,7 +828,7 @@
 <LM>w#w-mf930703-123-p2s5w21</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-mf930703-123-p2s5w22">
 <src.rf>manual</src.rf>

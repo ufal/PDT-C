@@ -51,7 +51,7 @@
 <LM>w#w-lnd92254-073-p1s1w5</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd92254-073-p1s1w6">
 <src.rf>manual</src.rf>

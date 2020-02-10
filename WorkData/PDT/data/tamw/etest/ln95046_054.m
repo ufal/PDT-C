@@ -107,7 +107,7 @@
 <LM>w#w-ln95046-054-p1s1w12</LM>
 </w.rf>
 <form>gratulují</form>
-<tag lemma="gratulovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="gratulovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95046-054-p1s1w13">
 <src.rf>manual</src.rf>

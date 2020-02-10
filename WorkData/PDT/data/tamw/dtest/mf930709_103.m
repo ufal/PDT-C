@@ -149,7 +149,7 @@
 <LM>w#w-mf930709-103-p4s1w3</LM>
 </w.rf>
 <form>vysvětluje</form>
-<tag lemma="vysvětlovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vysvětlovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930709-103-p4s1w4">
 <src.rf>manual</src.rf>

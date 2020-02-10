@@ -391,7 +391,7 @@
 <LM>w#w-lnd92251-026-p2s2w4</LM>
 </w.rf>
 <form>rozhodne</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd92251-026-p2s2w5">
 <src.rf>manual</src.rf>
@@ -620,7 +620,7 @@
 <LM>w#w-lnd92251-026-p2s3w21</LM>
 </w.rf>
 <form>vyřizovat</form>
-<tag lemma="vyřizovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vyřizovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd92251-026-p2s3w22">
 <src.rf>manual</src.rf>
@@ -785,7 +785,7 @@
 <LM>w#w-lnd92251-026-p2s4w8</LM>
 </w.rf>
 <form>popírá</form>
-<tag lemma="popírat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="popírat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92251-026-p2s4w9">
 <src.rf>manual</src.rf>

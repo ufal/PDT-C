@@ -481,7 +481,7 @@
 <LM>w#w-ln94200-110-p2s3w12</LM>
 </w.rf>
 <form>ostřelovat</form>
-<tag lemma="ostřelovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="ostřelovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94200-110-p2s3w13">
 <src.rf>manual</src.rf>
@@ -569,7 +569,7 @@
 <LM>w#w-ln94200-110-p2s3w23</LM>
 </w.rf>
 <form>uvádí</form>
-<tag lemma="uvádět_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="uvádět" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94200-110-p2s3w24">
 <src.rf>manual</src.rf>

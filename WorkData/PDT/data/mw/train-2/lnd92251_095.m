@@ -201,7 +201,7 @@
 <LM>w#w-lnd92251-095-p1s1w23</LM>
 </w.rf>
 <form>najdete</form>
-<tag lemma="najít" src="orig" selected="1">VB-P---2P-AA---</tag>
+<tag lemma="najít" src="orig" selected="1">VB-P---2P-AAP--</tag>
 </m>
 <m id="m-lnd92251-095-p1s1w24">
 <src.rf>manual</src.rf>

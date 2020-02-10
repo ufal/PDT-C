@@ -43,7 +43,7 @@
 <LM>w#w-lnd92255-119-p1s1w4</LM>
 </w.rf>
 <form>zachází</form>
-<tag lemma="zacházet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zacházet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92255-119-p1s1w5">
 <src.rf>manual</src.rf>

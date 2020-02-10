@@ -67,7 +67,7 @@
 <LM>w#w-ln94204-8-p1s1w7</LM>
 </w.rf>
 <form>platí</form>
-<tag lemma="platit_:T" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="platit" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94204-8-p1s1w8">
 <src.rf>manual</src.rf>
@@ -232,7 +232,7 @@
 <LM>w#w-ln94204-8-p1s2w5</LM>
 </w.rf>
 <form>převýší</form>
-<tag lemma="převýšit_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="převýšit" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-ln94204-8-p1s2w6">
 <src.rf>manual</src.rf>
@@ -248,7 +248,7 @@
 <LM>w#w-ln94204-8-p1s2w7</LM>
 </w.rf>
 <form>doplácí</form>
-<tag lemma="doplácet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="doplácet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94204-8-p1s2w8">
 <src.rf>manual</src.rf>

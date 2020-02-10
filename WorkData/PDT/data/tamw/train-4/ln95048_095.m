@@ -126,7 +126,7 @@
 <LM>w#w-ln95048-095-p2s1w14</LM>
 </w.rf>
 <form>podrobí</form>
-<tag lemma="podrobit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="podrobit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95048-095-p2s1w15">
 <src.rf>manual</src.rf>
@@ -174,7 +174,7 @@
 <LM>w#w-ln95048-095-p2s1w20</LM>
 </w.rf>
 <form>mají</form>
-<tag lemma="mít" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95048-095-p2s1w21">
 <src.rf>manual</src.rf>
@@ -182,7 +182,7 @@
 <LM>w#w-ln95048-095-p2s1w21</LM>
 </w.rf>
 <form>být</form>
-<tag lemma="být" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="být" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95048-095-p2s1w22">
 <src.rf>manual</src.rf>

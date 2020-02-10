@@ -138,7 +138,7 @@
 <LM>w#w-lnd92251-097-p2s2w10</LM>
 </w.rf>
 <form>doufá</form>
-<tag lemma="doufat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="doufat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92251-097-p2s2w11">
 <src.rf>manual</src.rf>

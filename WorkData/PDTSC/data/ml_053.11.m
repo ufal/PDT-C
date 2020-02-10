@@ -106,7 +106,7 @@
 <LM>w#w-d1t3862-2</LM>
 </w.rf>
 <form>jsem</form>
-<tag lemma="být" src="auto" recommended="1">VB-S---1P-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m053-d-id180228-punct">
 <w.rf>
@@ -135,7 +135,7 @@
 <LM>w#w-d1t3862-7</LM>
 </w.rf>
 <form>jsem</form>
-<tag lemma="být" src="auto" recommended="1">VB-S---1P-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m053-d1t3862-8">
 <w.rf>
@@ -177,7 +177,7 @@
 <LM>w#w-d1t3862-12</LM>
 </w.rf>
 <form>jsme</form>
-<tag lemma="být" src="auto" recommended="1">VB-P---1P-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VB-P---1P-AAI--</tag>
 </m>
 <m id="m053-d1t3862-13">
 <w.rf>
@@ -228,8 +228,8 @@
 </w.rf>
 <form>Počkejte</form>
 <tag>
-<AM lemma="počkat_:W" src="auto" recommended="1">Vi-P---2--A----</AM>
-<AM lemma="počkat_:W" src="auto">Vi-P---3--A---4</AM>
+<AM lemma="počkat" src="auto" recommended="1">Vi-P---2--A-P--</AM>
+<AM lemma="počkat" src="auto">Vi-P---3--A-P-4</AM>
 </tag>
 </m>
 <m id="m053-d1t3874-2">
@@ -273,14 +273,14 @@
 <LM>w#w-d1t3874-6</LM>
 </w.rf>
 <form>přijdou</form>
-<tag lemma="přijít" src="auto" recommended="1">VB-P---3P-AA---</tag>
+<tag lemma="přijít" src="auto" recommended="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m053-d1t3874-7">
 <w.rf>
 <LM>w#w-d1t3874-7</LM>
 </w.rf>
 <form>vysvobodit</form>
-<tag lemma="vysvobodit_:W" src="auto" recommended="1">Vf--------A----</tag>
+<tag lemma="vysvobodit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="m053-d-m-d1e3869-x2-punct-punct">
 <w.rf>
@@ -314,7 +314,7 @@
 <LM>w#w-d1t3880-2</LM>
 </w.rf>
 <form>děkuju</form>
-<tag lemma="děkovat_:T" src="auto" recommended="1">VB-S---1P-AA---</tag>
+<tag lemma="děkovat" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m053-d-m-d1e3877-x2-punct-punct">
 <w.rf>
@@ -330,7 +330,7 @@
 <LM>w#w-d1t3876-2</LM>
 </w.rf>
 <form>Počkám</form>
-<tag lemma="počkat_:W" src="auto" recommended="1">VB-S---1P-AA---</tag>
+<tag lemma="počkat" src="auto" recommended="1">VB-S---1P-AAP--</tag>
 </m>
 <m id="m053-442-443">
 <w.rf>

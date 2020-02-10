@@ -367,7 +367,7 @@
 <LM>w#w-lnd94105-018-p1s9w17</LM>
 </w.rf>
 <form>čerpat</form>
-<tag lemma="čerpat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="čerpat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd94105-018-p1s9w18">
 <src.rf>manual</src.rf>

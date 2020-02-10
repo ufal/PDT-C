@@ -764,7 +764,7 @@
 <LM>w#w-mf920923-059-p2s7w5</LM>
 </w.rf>
 <form>neumožňuje</form>
-<tag lemma="umožňovat_:T" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="umožňovat" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-mf920923-059-p2s7w6">
 <src.rf>manual</src.rf>
@@ -772,7 +772,7 @@
 <LM>w#w-mf920923-059-p2s7w6</LM>
 </w.rf>
 <form>převádět</form>
-<tag lemma="převádět_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="převádět" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-mf920923-059-p2s7w7">
 <src.rf>manual</src.rf>

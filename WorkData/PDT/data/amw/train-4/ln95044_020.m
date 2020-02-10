@@ -134,7 +134,7 @@
 <LM>w#w-ln95044-020-p1s1w15</LM>
 </w.rf>
 <form>vyměnit</form>
-<tag lemma="vyměnit_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="vyměnit" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln95044-020-p1s1w16">
 <src.rf>manual</src.rf>

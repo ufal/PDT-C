@@ -482,7 +482,7 @@
 <LM>w#w-mf930709-123-p2s2w16</LM>
 </w.rf>
 <form>zastřelí</form>
-<tag lemma="zastřelit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zastřelit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf930709-123-p2s2w17">
 <src.rf>manual</src.rf>
@@ -514,7 +514,7 @@
 <LM>w#w-mf930709-123-p2s2w20</LM>
 </w.rf>
 <form>neopustí</form>
-<tag lemma="opustit_:W" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="opustit" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-mf930709-123-p2s2w21">
 <src.rf>manual</src.rf>
@@ -572,7 +572,7 @@
 <LM>w#w-mf930709-123-p2s3w3</LM>
 </w.rf>
 <form>uzavřít</form>
-<tag lemma="uzavřít" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="uzavřít" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf930709-123-p2s3w4">
 <src.rf>manual</src.rf>

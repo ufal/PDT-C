@@ -121,7 +121,7 @@
 <LM>w#w-mf930708-079-p1s2w5</LM>
 </w.rf>
 <form>zastřihuje</form>
-<tag lemma="zastřihovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="zastřihovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-079-p1s2w6">
 <src.rf>manual</src.rf>

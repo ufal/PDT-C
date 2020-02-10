@@ -43,7 +43,7 @@
 <LM>w#w-ln94208-74-p1s1w4</LM>
 </w.rf>
 <form>vymezí</form>
-<tag lemma="vymezit_:W" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="vymezit" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-ln94208-74-p1s1w5">
 <src.rf>manual</src.rf>
@@ -389,7 +389,7 @@
 <LM>w#w-ln94208-74-p2s2w12</LM>
 </w.rf>
 <form>nebudou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3F-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3F-NAI--</tag>
 </m>
 <m id="m-ln94208-74-p2s2w13">
 <src.rf>manual</src.rf>
@@ -722,7 +722,7 @@
 <LM>w#w-ln94208-74-p2s3w8</LM>
 </w.rf>
 <form>komentovat</form>
-<tag lemma="komentovat_:T_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="komentovat" src="orig" selected="1">Vf--------A-B--</tag>
 </m>
 <m id="m-ln94208-74-p2s3w9">
 <src.rf>manual</src.rf>

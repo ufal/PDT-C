@@ -52,7 +52,7 @@
 <LM>w#w-ln95040-065-p1s1w5</LM>
 </w.rf>
 <form>jde</form>
-<tag lemma="jít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="jít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95040-065-p1s1w6">
 <src.rf>manual</src.rf>

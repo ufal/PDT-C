@@ -180,7 +180,7 @@
 <LM>w#w-mf920901-054-p1s1w20</LM>
 </w.rf>
 <form>střílí</form>
-<tag lemma="střílet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="střílet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920901-054-p1s1w21">
 <src.rf>manual</src.rf>

@@ -603,7 +603,7 @@
 <LM>w#w-mf920922-086-p2s5w14</LM>
 </w.rf>
 <form>prokázat</form>
-<tag lemma="prokázat" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="prokázat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-mf920922-086-p2s5w15">
 <src.rf>manual</src.rf>

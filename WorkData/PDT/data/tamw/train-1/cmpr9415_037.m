@@ -223,7 +223,7 @@
 <LM>w#w-cmpr9415-037-p4s2w6</LM>
 </w.rf>
 <form>jde</form>
-<tag lemma="jít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="jít" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9415-037-p4s2w7">
 <src.rf>manual</src.rf>
@@ -319,7 +319,7 @@
 <LM>w#w-cmpr9415-037-p4s2w18</LM>
 </w.rf>
 <form>převyšuje</form>
-<tag lemma="převyšovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="převyšovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9415-037-p4s2w19">
 <src.rf>manual</src.rf>
@@ -753,7 +753,7 @@
 <LM>w#w-cmpr9415-037-p8s1w9</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-cmpr9415-037-p8s1w10">
 <src.rf>manual</src.rf>

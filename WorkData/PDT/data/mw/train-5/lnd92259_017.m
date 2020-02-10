@@ -59,7 +59,7 @@
 <LM>w#w-lnd92259-017-p1s1w6</LM>
 </w.rf>
 <form>Objevujte</form>
-<tag lemma="objevovat_:T" src="orig" selected="1">Vi-P---2--A----</tag>
+<tag lemma="objevovat" src="orig" selected="1">Vi-P---2--A-I--</tag>
 </m>
 <m id="m-lnd92259-017-p1s1w7">
 <src.rf>manual</src.rf>

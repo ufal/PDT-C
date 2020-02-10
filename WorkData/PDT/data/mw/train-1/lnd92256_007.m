@@ -305,7 +305,7 @@
 <LM>w#w-lnd92256-007-p1s2w4</LM>
 </w.rf>
 <form>necítí</form>
-<tag lemma="cítit_:T" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="cítit" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 <m id="m-lnd92256-007-p1s2w5">
 <src.rf>manual</src.rf>

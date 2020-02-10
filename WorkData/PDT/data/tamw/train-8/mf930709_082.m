@@ -77,7 +77,7 @@
 <LM>w#w-mf930709-082-p2s1Aw5</LM>
 </w.rf>
 <form>ZAZPÍVAT</form>
-<tag lemma="zazpívat_:W" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="zazpívat" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 </s>
 <s id="m-mf930709-082-p2s1B">

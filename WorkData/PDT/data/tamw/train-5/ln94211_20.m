@@ -35,7 +35,7 @@
 <LM>w#w-ln94211-20-p1s1w3</LM>
 </w.rf>
 <form>žádá</form>
-<tag lemma="žádat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="žádat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln94211-20-p1s1w4">
 <src.rf>manual</src.rf>
@@ -199,7 +199,7 @@
 <LM>w#w-ln94211-20-p2s1Bw16</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-ln94211-20-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -287,7 +287,7 @@
 <LM>w#w-ln94211-20-p2s1Bw27</LM>
 </w.rf>
 <form>postihují</form>
-<tag lemma="postihovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="postihovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94211-20-p2s1Bw28">
 <src.rf>manual</src.rf>

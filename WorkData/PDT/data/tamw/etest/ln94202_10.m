@@ -51,7 +51,7 @@
 <LM>w#w-ln94202-10-p1s1Aw5</LM>
 </w.rf>
 <form>ovládáte</form>
-<tag lemma="ovládat_:T" src="orig" selected="1">VB-P---2P-AA---</tag>
+<tag lemma="ovládat" src="orig" selected="1">VB-P---2P-AAI--</tag>
 </m>
 <m id="m-ln94202-10-p1s1Aw6">
 <src.rf>manual</src.rf>

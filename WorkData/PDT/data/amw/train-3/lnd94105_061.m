@@ -157,7 +157,7 @@
 <LM>w#w-lnd94105-061-p1s34w13</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-lnd94105-061-p1s34w14">
 <src.rf>manual</src.rf>
@@ -426,7 +426,7 @@
 <LM>w#w-lnd94105-061-p1s36w11</LM>
 </w.rf>
 <form>žalují</form>
-<tag lemma="žalovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="žalovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd94105-061-p1s36w12">
 <src.rf>manual</src.rf>
@@ -498,7 +498,7 @@
 <LM>w#w-lnd94105-061-p1s36w20</LM>
 </w.rf>
 <form>čnít</form>
-<tag lemma="čnít" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="čnít" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd94105-061-p1s36w21">
 <src.rf>manual</src.rf>

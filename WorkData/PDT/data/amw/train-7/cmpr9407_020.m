@@ -151,7 +151,7 @@
 <LM>w#w-cmpr9407-020-p13s1w5</LM>
 </w.rf>
 <form>zasílejte</form>
-<tag lemma="zasílat_:T" src="orig" selected="1">Vi-P---2--A----</tag>
+<tag lemma="zasílat" src="orig" selected="1">Vi-P---2--A-I--</tag>
 </m>
 <m id="m-cmpr9407-020-p13s1w6">
 <src.rf>manual</src.rf>
@@ -217,7 +217,7 @@
 <LM>w#w-cmpr9407-020-p13s2w2</LM>
 </w.rf>
 <form>neručí</form>
-<tag lemma="ručit_:T" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="ručit" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-cmpr9407-020-p13s2w3">
 <src.rf>manual</src.rf>

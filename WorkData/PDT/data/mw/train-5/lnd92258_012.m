@@ -99,7 +99,7 @@
 <LM>w#w-lnd92258-012-p1s1w11</LM>
 </w.rf>
 <form>nedočkáme</form>
-<tag lemma="dočkat_:W" src="orig" selected="1">VB-P---1P-NA---</tag>
+<tag lemma="dočkat" src="orig" selected="1">VB-P---1P-NAP--</tag>
 </m>
 <m id="m-lnd92258-012-p1s1w12">
 <src.rf>manual</src.rf>

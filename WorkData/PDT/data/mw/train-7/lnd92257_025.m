@@ -590,7 +590,7 @@
 <LM>w#w-lnd92257-025-p1s3w18</LM>
 </w.rf>
 <form>praktikuje</form>
-<tag lemma="praktikovat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="praktikovat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92257-025-p1s3w19">
 <src.rf>manual</src.rf>

@@ -264,7 +264,7 @@
 <AM lemma="tele" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="tele" src="auto">NNNS4-----A----</AM>
 <AM lemma="tele" src="auto">NNNS5-----A----</AM>
-<AM lemma="telit_:T" src="auto">VeYS------A----</AM>
+<AM lemma="telit" src="auto">VeYS------A-I--</AM>
 <AM lemma="Tele-2_;K_,t" src="manual">NNXXX-----A----</AM>
 <AM lemma="Tele-77" src="manual" selected="1">F%-------------</AM>
 </tag>
@@ -864,7 +864,7 @@
 <LM>w#w-ln95048-135-p2s5w3</LM>
 </w.rf>
 <form>potrvá</form>
-<tag lemma="potrvat_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="potrvat" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln95048-135-p2s5w4">
 <src.rf>manual</src.rf>
@@ -1196,7 +1196,7 @@
 <LM>w#w-ln95048-135-p3s3w11</LM>
 </w.rf>
 <form>platit</form>
-<tag lemma="platit_:T" src="auto" selected="1">Vf--------A----</tag>
+<tag lemma="platit" src="auto" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95048-135-p3s3w12">
 <src.rf>manual</src.rf>
@@ -1295,7 +1295,7 @@
 <LM>w#w-ln95048-135-p3s3w23</LM>
 </w.rf>
 <form>jsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95048-135-p3s3w24">
 <src.rf>manual</src.rf>
@@ -1443,7 +1443,7 @@
 <LM>w#w-ln95048-135-p4s1w8</LM>
 </w.rf>
 <form>bude</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3F-AAI--</tag>
 </m>
 <m id="m-ln95048-135-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1576,7 +1576,7 @@
 <LM>w#w-ln95048-135-p4s2w2</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95048-135-p4s2w3">
 <src.rf>manual</src.rf>

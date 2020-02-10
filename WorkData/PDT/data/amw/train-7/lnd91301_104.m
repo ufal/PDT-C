@@ -431,7 +431,7 @@
 <LM>w#w-lnd91301-104-p7s1w14</LM>
 </w.rf>
 <form>utká</form>
-<tag lemma="utkat_:T_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="utkat" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-lnd91301-104-p7s1w15">
 <src.rf>manual</src.rf>

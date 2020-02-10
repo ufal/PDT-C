@@ -441,7 +441,7 @@
 <LM>w#w-ln94203-52-p2s4w4</LM>
 </w.rf>
 <form>otevřít</form>
-<tag lemma="otevřít" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="otevřít" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-ln94203-52-p2s4w5">
 <src.rf>manual</src.rf>
@@ -629,7 +629,7 @@
 <LM>w#w-ln94203-52-p2s6w12</LM>
 </w.rf>
 <form>nenachází</form>
-<tag lemma="nacházet_:T" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="nacházet" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-ln94203-52-p2s6w13">
 <src.rf>manual</src.rf>
@@ -887,7 +887,7 @@
 <LM>w#w-ln94203-52-p2s8w15</LM>
 </w.rf>
 <form>nejsou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3P-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3P-NAI--</tag>
 </m>
 <m id="m-ln94203-52-p2s8w16">
 <src.rf>manual</src.rf>

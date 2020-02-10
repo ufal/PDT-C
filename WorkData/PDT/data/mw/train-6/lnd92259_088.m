@@ -28,8 +28,8 @@
 </w.rf>
 <form>přivoní</form>
 <tag>
-<AM lemma="přivonět" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="přivonět_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="přivonět" src="orig">VB-S---3P-AAP--</AM>
+<AM lemma="přivonět" src="manual" selected="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92259-088-p1s1w3">
@@ -507,7 +507,7 @@
 <LM>w#w-lnd92259-088-p2s2w32</LM>
 </w.rf>
 <form>držet</form>
-<tag lemma="držet" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="držet" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-lnd92259-088-p2s2w33">
 <src.rf>manual</src.rf>
@@ -924,7 +924,7 @@
 <LM>w#w-lnd92259-088-p2s5w2</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-lnd92259-088-p2s5w3">
 <src.rf>manual</src.rf>
@@ -948,7 +948,7 @@
 <LM>w#w-lnd92259-088-p2s5w5</LM>
 </w.rf>
 <form>představit</form>
-<tag lemma="představit-1_:W_^(si_něco;_něco/někoho_někomu)" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="představit-1_^(si_něco;_něco/někoho_někomu)" src="orig" selected="1">Vf--------A-P--</tag>
 </m>
 <m id="m-lnd92259-088-p2s5w6">
 <src.rf>manual</src.rf>
@@ -1070,7 +1070,7 @@
 <LM>w#w-lnd92259-088-p2s6w2</LM>
 </w.rf>
 <form>přivoní</form>
-<tag lemma="přivonět" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="přivonět" src="orig" selected="1">VB-P---3P-AAP--</tag>
 </m>
 <m id="m-lnd92259-088-p2s6w3">
 <src.rf>manual</src.rf>
@@ -1110,7 +1110,7 @@
 <LM>w#w-lnd92259-088-p2s6w7</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-lnd92259-088-p2s6w8">
 <src.rf>manual</src.rf>
@@ -1159,8 +1159,8 @@
 </w.rf>
 <form>má</form>
 <tag>
-<AM lemma="mít" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="mít_:T" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="mít" src="orig">VB-S---3P-AAI--</AM>
+<AM lemma="mít" src="manual" selected="1">VB-S---3P-AAI--</AM>
 </tag>
 </m>
 <m id="m-lnd92259-088-p2s6w14">

@@ -913,8 +913,8 @@
 </w.rf>
 <form>Řekni</form>
 <tag>
-<AM lemma="říci" src="auto">Vi-S---2--A----</AM>
-<AM lemma="říci_:W" src="manual" selected="1">Vi-S---2--A----</AM>
+<AM lemma="říci" src="auto">Vi-S---2--A-P--</AM>
+<AM lemma="říci" src="manual" selected="1">Vi-S---2--A-P--</AM>
 </tag>
 </m>
 <m id="m-mf930713-035-p5s1w9">
@@ -963,7 +963,7 @@
 <LM>w#w-mf930713-035-p5s1w14</LM>
 </w.rf>
 <form>směje</form>
-<tag lemma="smát" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="smát" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930713-035-p5s1w15">
 <src.rf>manual</src.rf>
@@ -980,8 +980,8 @@
 </w.rf>
 <form>vyhraje</form>
 <tag>
-<AM lemma="vyhrát" src="orig">VB-S---3P-AA---</AM>
-<AM lemma="vyhrát_:W" src="manual" selected="1">VB-S---3P-AA---</AM>
+<AM lemma="vyhrát" src="orig">VB-S---3P-AAP--</AM>
+<AM lemma="vyhrát" src="manual" selected="1">VB-S---3P-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930713-035-p5s1w17">

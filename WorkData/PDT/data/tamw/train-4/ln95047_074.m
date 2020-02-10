@@ -43,7 +43,7 @@
 <LM>w#w-ln95047-074-p1s1w4</LM>
 </w.rf>
 <form>malují</form>
-<tag lemma="malovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="malovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln95047-074-p1s1w5">
 <src.rf>manual</src.rf>

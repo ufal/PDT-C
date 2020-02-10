@@ -43,7 +43,7 @@
 <LM>w#w-lnd94105-003-p1s1w4</LM>
 </w.rf>
 <form>jsem</form>
-<tag lemma="být" src="orig" selected="1">VB-S---1P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="m-lnd94105-003-p1s1w5">
 <src.rf>manual</src.rf>
@@ -126,7 +126,7 @@
 <LM>w#w-lnd94105-003-p1s2w4</LM>
 </w.rf>
 <form>nedůvěřuji</form>
-<tag lemma="důvěřovat_:T" src="orig" selected="1">VB-S---1P-NA--1</tag>
+<tag lemma="důvěřovat" src="orig" selected="1">VB-S---1P-NAI-1</tag>
 </m>
 <m id="m-lnd94105-003-p1s2w5">
 <src.rf>manual</src.rf>

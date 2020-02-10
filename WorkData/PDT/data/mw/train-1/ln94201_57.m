@@ -133,7 +133,7 @@
 <LM>w#w-ln94201-57-p2s1w4</LM>
 </w.rf>
 <form>najde</form>
-<tag lemma="najít" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="najít" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-ln94201-57-p2s1w5">
 <src.rf>manual</src.rf>

@@ -27,7 +27,7 @@
 <LM>w#w-mf930708-114-p1s1w2</LM>
 </w.rf>
 <form>odmítá</form>
-<tag lemma="odmítat_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="odmítat" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf930708-114-p1s1w3">
 <src.rf>manual</src.rf>

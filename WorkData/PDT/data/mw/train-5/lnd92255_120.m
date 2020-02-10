@@ -51,7 +51,7 @@
 <LM>w#w-lnd92255-120-p1s1w5</LM>
 </w.rf>
 <form>by</form>
-<tag lemma="být" src="orig" selected="1">Vc-------------</tag>
+<tag lemma="být" src="orig" selected="1">Vc----------I--</tag>
 </m>
 <m id="m-lnd92255-120-p1s1w6">
 <src.rf>manual</src.rf>

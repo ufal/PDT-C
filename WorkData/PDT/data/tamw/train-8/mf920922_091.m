@@ -494,7 +494,7 @@
 <LM>w#w-mf920922-091-p2s6w3</LM>
 </w.rf>
 <form>vedou</form>
-<tag lemma="vést" src="auto" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="vést" src="auto" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-mf920922-091-p2s6w4">
 <src.rf>manual</src.rf>

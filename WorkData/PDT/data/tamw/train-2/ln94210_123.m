@@ -61,7 +61,7 @@
 <LM>w#w-ln94210-123-p5s2w4</LM>
 </w.rf>
 <form>postupují</form>
-<tag lemma="postupovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="postupovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94210-123-p5s2w5">
 <src.rf>manual</src.rf>

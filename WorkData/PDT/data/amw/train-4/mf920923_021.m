@@ -479,7 +479,7 @@
 <LM>w#w-mf920923-021-p2s3w3</LM>
 </w.rf>
 <form>nezahálí</form>
-<tag lemma="zahálet_:T" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="zahálet" src="orig" selected="1">VB-S---3P-NAI--</tag>
 </m>
 <m id="m-mf920923-021-p2s3w4">
 <src.rf>manual</src.rf>
@@ -530,7 +530,7 @@
 <LM>w#w-mf920923-021-p2s3w9</LM>
 </w.rf>
 <form>dožívá</form>
-<tag lemma="dožívat_:T_^(*3t)" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="dožívat_^(*3t)" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920923-021-p2s3w10">
 <src.rf>manual</src.rf>
@@ -596,7 +596,7 @@
 <LM>w#w-mf920923-021-p2s4w5</LM>
 </w.rf>
 <form>vrátí</form>
-<tag lemma="vrátit_:W" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vrátit" src="orig" selected="1">VB-S---3P-AAP--</tag>
 </m>
 <m id="m-mf920923-021-p2s4w6">
 <src.rf>manual</src.rf>
@@ -676,7 +676,7 @@
 <LM>w#w-mf920923-021-p2s4w15</LM>
 </w.rf>
 <form>natáčí</form>
-<tag lemma="natáčet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="natáčet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-mf920923-021-p2s4w16">
 <src.rf>manual</src.rf>

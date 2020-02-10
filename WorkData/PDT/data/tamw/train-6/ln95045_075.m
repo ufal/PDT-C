@@ -470,7 +470,7 @@
 <LM>w#w-ln95045-075-p2s3w11</LM>
 </w.rf>
 <form>krást</form>
-<tag lemma="krást" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="krást" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95045-075-p2s3w12">
 <src.rf>manual</src.rf>
@@ -518,7 +518,7 @@
 <LM>w#w-ln95045-075-p2s3w17</LM>
 </w.rf>
 <form>přepravovat</form>
-<tag lemma="přepravovat_:T" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="přepravovat" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln95045-075-p2s3w18">
 <src.rf>manual</src.rf>

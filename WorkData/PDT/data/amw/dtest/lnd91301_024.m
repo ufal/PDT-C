@@ -153,7 +153,7 @@
 <LM>w#w-lnd91301-024-p1s2w3</LM>
 </w.rf>
 <form>neunikne</form>
-<tag lemma="uniknout_:W" src="orig" selected="1">VB-S---3P-NA---</tag>
+<tag lemma="uniknout" src="orig" selected="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="m-lnd91301-024-p1s2w4">
 <src.rf>manual</src.rf>

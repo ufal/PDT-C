@@ -75,7 +75,7 @@
 <LM>w#w-lnd94104-124-p1s1w8</LM>
 </w.rf>
 <form>budou</form>
-<tag lemma="být" src="orig" selected="1">VB-P---3F-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-P---3F-AAI--</tag>
 </m>
 <m id="m-lnd94104-124-p1s1w9">
 <src.rf>manual</src.rf>

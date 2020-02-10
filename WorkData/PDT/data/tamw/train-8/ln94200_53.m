@@ -219,7 +219,7 @@
 <LM>w#w-ln94200-53-p2s2Aw4</LM>
 </w.rf>
 <form>být</form>
-<tag lemma="být" src="orig" selected="1">Vf--------A----</tag>
+<tag lemma="být" src="orig" selected="1">Vf--------A-I--</tag>
 </m>
 <m id="m-ln94200-53-p2s2Aw5">
 <src.rf>manual</src.rf>

@@ -445,7 +445,7 @@
 <LM>w#w-ln95041-119-p3s3w7</LM>
 </w.rf>
 <form>vede</form>
-<tag lemma="vést" src="auto" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="vést" src="auto" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95041-119-p3s3w8">
 <src.rf>manual</src.rf>

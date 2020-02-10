@@ -27,7 +27,7 @@
 <LM>w#w-ln95048-109-p1s1w2</LM>
 </w.rf>
 <form>přejí</form>
-<tag lemma="přát" src="orig" selected="1">VB-P---3P-AA--1</tag>
+<tag lemma="přát" src="orig" selected="1">VB-P---3P-AAI-1</tag>
 </m>
 <m id="m-ln95048-109-p1s1w3">
 <src.rf>manual</src.rf>
@@ -723,7 +723,7 @@
 <LM>w#w-ln95048-109-p2s2w31</LM>
 </w.rf>
 <form>Pověste</form>
-<tag lemma="pověsit" src="orig" selected="1">Vi-P---2--A----</tag>
+<tag lemma="pověsit" src="orig" selected="1">Vi-P---2--A-P--</tag>
 </m>
 <m id="m-ln95048-109-p2s2w32">
 <src.rf>manual</src.rf>
@@ -1050,7 +1050,7 @@
 <LM>w#w-ln95048-109-p2s4w11</LM>
 </w.rf>
 <form>je</form>
-<tag lemma="být" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95048-109-p2s4w12">
 <src.rf>manual</src.rf>

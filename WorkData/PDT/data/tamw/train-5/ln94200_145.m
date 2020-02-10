@@ -51,7 +51,7 @@
 <LM>w#w-ln94200-145-p1s1Aw5</LM>
 </w.rf>
 <form>radují</form>
-<tag lemma="radovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="radovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94200-145-p1s1Aw6">
 <src.rf>manual</src.rf>

@@ -1133,7 +1133,7 @@
 <LM>w#w-lnd91303-020-p2s9w7</LM>
 </w.rf>
 <form>pátrají</form>
-<tag lemma="pátrat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="pátrat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-lnd91303-020-p2s9w8">
 <src.rf>manual</src.rf>

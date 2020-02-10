@@ -376,7 +376,7 @@
 <LM>w#w-ln95048-035-p1s3w17</LM>
 </w.rf>
 <form>provází</form>
-<tag lemma="provázet_:T" src="orig" selected="1">VB-S---3P-AA---</tag>
+<tag lemma="provázet" src="orig" selected="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="m-ln95048-035-p1s3w18">
 <src.rf>manual</src.rf>

@@ -193,7 +193,7 @@
 <LM>w#w-ln94205-78-p1s2w8</LM>
 </w.rf>
 <form>zapalují</form>
-<tag lemma="zapalovat_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="zapalovat" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94205-78-p1s2w9">
 <src.rf>manual</src.rf>
@@ -209,7 +209,7 @@
 <LM>w#w-ln94205-78-p1s2w10</LM>
 </w.rf>
 <form>potápějí</form>
-<tag lemma="potápět_:T" src="orig" selected="1">VB-P---3P-AA---</tag>
+<tag lemma="potápět" src="orig" selected="1">VB-P---3P-AAI--</tag>
 </m>
 <m id="m-ln94205-78-p1s2w11">
 <src.rf>manual</src.rf>
