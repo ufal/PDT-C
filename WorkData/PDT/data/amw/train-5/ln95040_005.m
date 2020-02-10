@@ -327,7 +327,7 @@
 <LM>w#w-ln95040-005-p2s2w3</LM>
 </w.rf>
 <form>zahájen</form>
-<tag lemma="zahájit" src="auto" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zahájit" src="auto" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95040-005-p2s2w4">
 <src.rf>manual</src.rf>

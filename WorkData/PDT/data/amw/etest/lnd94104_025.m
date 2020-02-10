@@ -423,7 +423,7 @@
 <LM>w#w-lnd94104-025-p1s3w6</LM>
 </w.rf>
 <form>vystřídalo</form>
-<tag lemma="vystřídat_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vystřídat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-025-p1s3w7">
 <src.rf>manual</src.rf>
@@ -806,7 +806,7 @@
 <LM>w#w-lnd94104-025-p1s6w18</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-025-p1s6w19">
 <src.rf>manual</src.rf>
@@ -1024,7 +1024,7 @@
 <LM>w#w-lnd94104-025-p1s7w13</LM>
 </w.rf>
 <form>přesvědčil</form>
-<tag lemma="přesvědčit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přesvědčit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-025-p1s7w14">
 <src.rf>manual</src.rf>
@@ -1146,7 +1146,7 @@
 <LM>w#w-lnd94104-025-p1s8w6</LM>
 </w.rf>
 <form>staraly</form>
-<tag lemma="starat_:T_^(se)" src="auto" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="starat_^(se)" src="auto" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd94104-025-p1s8w7">
 <src.rf>manual</src.rf>
@@ -1459,7 +1459,7 @@
 <LM>w#w-lnd94104-025-p1s9w13</LM>
 </w.rf>
 <form>nevylidnily</form>
-<tag lemma="vylidnit_:W" src="orig" selected="1">VpTP---XR-NA---</tag>
+<tag lemma="vylidnit" src="orig" selected="1">VpTP----R-NAP--</tag>
 </m>
 <m id="m-lnd94104-025-p1s9w14">
 <src.rf>manual</src.rf>
@@ -1617,7 +1617,7 @@
 <LM>w#w-lnd94104-025-p1s10w12</LM>
 </w.rf>
 <form>stoupl</form>
-<tag lemma="stoupnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="stoupnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd94104-025-p1s10w13">
 <src.rf>manual</src.rf>
@@ -1702,7 +1702,7 @@
 <LM>w#w-lnd94104-025-p1s11w6</LM>
 </w.rf>
 <form>sdělila</form>
-<tag lemma="sdělit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="sdělit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-025-p1s11w7">
 <src.rf>manual</src.rf>
@@ -2333,7 +2333,7 @@
 <LM>w#w-lnd94104-025-p1s15w3</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd94104-025-p1s15w4">
 <src.rf>manual</src.rf>

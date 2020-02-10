@@ -141,7 +141,7 @@
 <LM>w#w-mf930708-175-p2s1w8</LM>
 </w.rf>
 <form>vstoupila</form>
-<tag lemma="vstoupit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vstoupit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930708-175-p2s1w9">
 <src.rf>manual</src.rf>
@@ -183,7 +183,7 @@
 <LM>w#w-mf930708-175-p2s2w1</LM>
 </w.rf>
 <form>Prohlásil</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-175-p2s2w2">
 <src.rf>manual</src.rf>
@@ -247,7 +247,7 @@
 <LM>w#w-mf930708-175-p2s2w9</LM>
 </w.rf>
 <form>vyhlásil</form>
-<tag lemma="vyhlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyhlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-175-p2s2w10">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <LM>w#w-mf930708-175-p3s1w3</LM>
 </w.rf>
 <form>upozornil</form>
-<tag lemma="upozornit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="upozornit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-175-p3s1w4">
 <src.rf>manual</src.rf>
@@ -505,7 +505,7 @@
 <LM>w#w-mf930708-175-p3s2w8</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930708-175-p3s2w9">
 <src.rf>manual</src.rf>
@@ -545,7 +545,7 @@
 <LM>w#w-mf930708-175-p3s2w13</LM>
 </w.rf>
 <form>pokračovaly</form>
-<tag lemma="pokračovat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="pokračovat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930708-175-p3s2w14">
 <src.rf>manual</src.rf>
@@ -651,7 +651,7 @@
 <LM>w#w-mf930708-175-p3s3w4</LM>
 </w.rf>
 <form>posílily</form>
-<tag lemma="posílit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="posílit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf930708-175-p3s3w5">
 <src.rf>manual</src.rf>
@@ -725,7 +725,7 @@
 <LM>w#w-mf930708-175-p4s1w6</LM>
 </w.rf>
 <form>pohrozil</form>
-<tag lemma="pohrozit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="pohrozit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-175-p4s1w7">
 <src.rf>manual</src.rf>

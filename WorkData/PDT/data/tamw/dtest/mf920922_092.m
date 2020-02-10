@@ -19,7 +19,7 @@
 <LM>w#w-mf920922-092-p1s1w1</LM>
 </w.rf>
 <form>zeptali</form>
-<tag lemma="zeptat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zeptat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920922-092-p1s1w2">
 <src.rf>manual</src.rf>
@@ -191,7 +191,7 @@
 <LM>w#w-mf920922-092-p1s1w22</LM>
 </w.rf>
 <form>došlo</form>
-<tag lemma="dojít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="dojít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-092-p1s1w23">
 <src.rf>manual</src.rf>
@@ -653,7 +653,7 @@
 <LM>w#w-mf920922-092-p2s4w12</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf920922-092-p2s4w13">
 <src.rf>manual</src.rf>

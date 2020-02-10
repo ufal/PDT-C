@@ -58,7 +58,7 @@
 <LM>w#w-wsj1832-001-p1s0W5</LM>
 </w.rf>
 <form>souhlasila</form>
-<tag lemma="souhlasit" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="souhlasit" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj1832-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -875,7 +875,7 @@
 <LM>w#w-wsj1832-001-p1s3W13</LM>
 </w.rf>
 <form>neobchodovalo</form>
-<tag lemma="obchodovat" src="auto" recommended="1">VpNS---XR-NAI--</tag>
+<tag lemma="obchodovat" src="auto" recommended="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-wsj1832-001-p1s3W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -986,7 +986,7 @@
 <LM>w#w-wsj1832-001-p1s4W6</LM>
 </w.rf>
 <form>uzavřely</form>
-<tag lemma="uzavřít" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="uzavřít" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1832-001-p1s4W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1048,7 +1048,7 @@
 <LM>w#w-wsj1832-001-p1s4W12</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-wsj1832-001-p1s4W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1135,8 +1135,8 @@
 </w.rf>
 <form>dalo</form>
 <tag>
-<AM lemma="dát" src="auto" recommended="1">VpNS---XR-AAP--</AM>
-<AM lemma="dát-2_^(dá_se_očekávat)" src="auto">VpNS---XR-AAI--</AM>
+<AM lemma="dát" src="auto" recommended="1">VpNS----R-AAP--</AM>
+<AM lemma="dát-2_^(dá_se_očekávat)" src="auto">VpNS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-wsj1832-001-p1s4W20-Ta">

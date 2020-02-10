@@ -80,7 +80,7 @@
 <LM>w#w-lnd94104-083-p1s1Bw6</LM>
 </w.rf>
 <form>získal</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-083-p1s1Bw7">
 <src.rf>manual</src.rf>
@@ -495,7 +495,7 @@
 <LM>w#w-lnd94104-083-p1s3w21</LM>
 </w.rf>
 <form>snažili</form>
-<tag lemma="snažit_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="snažit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd94104-083-p1s3w22">
 <src.rf>manual</src.rf>
@@ -1170,7 +1170,7 @@
 <LM>w#w-lnd94104-083-p1s6w14</LM>
 </w.rf>
 <form>využívány</form>
-<tag lemma="využívat_:T_^(*3t)" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="využívat_^(*3t)" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-lnd94104-083-p1s6w15">
 <src.rf>manual</src.rf>
@@ -1430,7 +1430,7 @@
 <LM>w#w-lnd94104-083-p1s8w13</LM>
 </w.rf>
 <form>chtěli</form>
-<tag lemma="chtít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="chtít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd94104-083-p1s8w14">
 <src.rf>manual</src.rf>
@@ -1518,7 +1518,7 @@
 <LM>w#w-lnd94104-083-p1s8w25</LM>
 </w.rf>
 <form>napsali</form>
-<tag lemma="napsat" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="napsat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-083-p1s8w26">
 <src.rf>manual</src.rf>
@@ -1700,7 +1700,7 @@
 <LM>w#w-lnd94104-083-p1s9w13</LM>
 </w.rf>
 <form>chtěli</form>
-<tag lemma="chtít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="chtít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd94104-083-p1s9w14">
 <src.rf>manual</src.rf>

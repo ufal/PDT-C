@@ -574,7 +574,7 @@
 <LM>w#w-lnd92252-060-p4s2w26</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-060-p4s2w27">
 <src.rf>manual</src.rf>
@@ -750,7 +750,7 @@
 <LM>w#w-lnd92252-060-p4s2w47</LM>
 </w.rf>
 <form>souhlasili</form>
-<tag lemma="souhlasit_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="souhlasit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-060-p4s2w48">
 <src.rf>manual</src.rf>
@@ -784,7 +784,7 @@
 <LM>w#w-lnd92252-060-p4s3w3</LM>
 </w.rf>
 <form>ptal</form>
-<tag lemma="ptát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="ptát" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-060-p4s3w4">
 <src.rf>manual</src.rf>

@@ -37,7 +37,7 @@
 <LM>w#w-ln95045-110-p1s1w2</LM>
 </w.rf>
 <form>vytřídil</form>
-<tag lemma="vytřídit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vytřídit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-110-p1s1w3">
 <src.rf>manual</src.rf>
@@ -146,7 +146,7 @@
 <LM>w#w-ln95045-110-p2s1Bw8</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95045-110-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -1338,7 +1338,7 @@
 <LM>w#w-ln95045-110-p4s1w18</LM>
 </w.rf>
 <form>podřízeno</form>
-<tag lemma="podřídit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="podřídit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95045-110-p4s1w19">
 <src.rf>manual</src.rf>
@@ -1767,7 +1767,7 @@
 <LM>w#w-ln95045-110-p6s1w11</LM>
 </w.rf>
 <form>rozhodnuto</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95045-110-p6s1w12">
 <src.rf>manual</src.rf>
@@ -1839,7 +1839,7 @@
 <LM>w#w-ln95045-110-p6s1w20</LM>
 </w.rf>
 <form>označil</form>
-<tag lemma="označit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="označit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-110-p6s1w21">
 <src.rf>manual</src.rf>

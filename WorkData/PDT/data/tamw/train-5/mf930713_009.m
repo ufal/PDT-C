@@ -241,7 +241,7 @@
 <LM>w#w-mf930713-009-p2s1Aw22</LM>
 </w.rf>
 <form>zeptali</form>
-<tag lemma="zeptat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zeptat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930713-009-p2s1Aw23">
 <src.rf>manual</src.rf>
@@ -445,7 +445,7 @@
 <LM>w#w-mf930713-009-p2s2w3</LM>
 </w.rf>
 <form>ovlivněni</form>
-<tag lemma="ovlivnit" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="ovlivnit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-mf930713-009-p2s2w4">
 <src.rf>manual</src.rf>

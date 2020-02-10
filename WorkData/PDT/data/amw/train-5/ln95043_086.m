@@ -115,7 +115,7 @@
 <LM>w#w-ln95043-086-p1s1w13</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95043-086-p1s1w14">
 <src.rf>manual</src.rf>

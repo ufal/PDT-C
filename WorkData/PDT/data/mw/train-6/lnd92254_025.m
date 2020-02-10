@@ -166,7 +166,7 @@
 <LM>w#w-lnd92254-025-p3s2w6</LM>
 </w.rf>
 <form>připoutali</form>
-<tag lemma="připoutat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="připoutat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92254-025-p3s2w7">
 <src.rf>manual</src.rf>
@@ -294,7 +294,7 @@
 <LM>w#w-lnd92254-025-p3s2w22</LM>
 </w.rf>
 <form>odmítal</form>
-<tag lemma="odmítat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odmítat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92254-025-p3s2w23">
 <src.rf>manual</src.rf>
@@ -520,7 +520,7 @@
 <LM>w#w-lnd92254-025-p3s3w3</LM>
 </w.rf>
 <form>trvala</form>
-<tag lemma="trvat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="trvat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92254-025-p3s3w4">
 <src.rf>manual</src.rf>
@@ -585,8 +585,8 @@
 </w.rf>
 <form>vzdal</form>
 <tag>
-<AM lemma="vzdát" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="vzdát_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="vzdát" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="vzdát" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92254-025-p3s3w12">
@@ -603,7 +603,7 @@
 <LM>w#w-lnd92254-025-p3s3w13</LM>
 </w.rf>
 <form>přislíbil</form>
-<tag lemma="přislíbit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přislíbit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92254-025-p3s3w14">
 <src.rf>manual</src.rf>
@@ -669,7 +669,7 @@
 <LM>w#w-lnd92254-025-p3s4w4</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92254-025-p3s4w5">
 <src.rf>manual</src.rf>
@@ -773,7 +773,7 @@
 <LM>w#w-lnd92254-025-p3s4w17</LM>
 </w.rf>
 <form>instalován</form>
-<tag lemma="instalovat_:T_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="instalovat" src="orig" selected="1">VsYS----X-APB--</tag>
 </m>
 <m id="m-lnd92254-025-p3s4w18">
 <src.rf>manual</src.rf>
@@ -878,8 +878,8 @@
 </w.rf>
 <form>utrpěla</form>
 <tag>
-<AM lemma="utrpět" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="utrpět_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="utrpět" src="orig">VpQW----R-AAP--</AM>
+<AM lemma="utrpět" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92254-025-p3s4w31">

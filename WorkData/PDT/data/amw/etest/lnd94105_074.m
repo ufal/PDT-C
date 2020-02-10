@@ -534,7 +534,7 @@
 <LM>w#w-lnd94105-074-p1s5w3</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94105-074-p1s5w4">
 <src.rf>manual</src.rf>

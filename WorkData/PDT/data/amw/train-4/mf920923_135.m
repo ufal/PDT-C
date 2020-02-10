@@ -27,7 +27,7 @@
 <LM>w#w-mf920923-135-p1s1w2</LM>
 </w.rf>
 <form>připraven</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="připravit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf920923-135-p1s1w3">
 <src.rf>manual</src.rf>
@@ -67,7 +67,7 @@
 <LM>w#w-mf920923-135-p1s1w7</LM>
 </w.rf>
 <form>VĚŘIL</form>
-<tag lemma="věřit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="věřit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920923-135-p1s1w8">
 <src.rf>manual</src.rf>
@@ -199,7 +199,7 @@
 <LM>w#w-mf920923-135-p2s2w12</LM>
 </w.rf>
 <form>přiznal</form>
-<tag lemma="přiznat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přiznat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-135-p2s2w13">
 <src.rf>manual</src.rf>
@@ -442,7 +442,7 @@
 <LM>w#w-mf920923-135-p2s2w41</LM>
 </w.rf>
 <form>připraven</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="připravit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf920923-135-p2s2w42">
 <src.rf>manual</src.rf>
@@ -649,7 +649,7 @@
 <LM>w#w-mf920923-135-p3s2w4</LM>
 </w.rf>
 <form>věřil</form>
-<tag lemma="věřit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="věřit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920923-135-p3s2w5">
 <src.rf>manual</src.rf>
@@ -697,7 +697,7 @@
 <LM>w#w-mf920923-135-p3s2w10</LM>
 </w.rf>
 <form>cenil</form>
-<tag lemma="cenit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="cenit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920923-135-p3s2w11">
 <src.rf>manual</src.rf>
@@ -763,7 +763,7 @@
 <LM>w#w-mf920923-135-p3s3w3</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920923-135-p3s3w4">
 <src.rf>manual</src.rf>
@@ -771,7 +771,7 @@
 <LM>w#w-mf920923-135-p3s3w4</LM>
 </w.rf>
 <form>obklopen</form>
-<tag lemma="obklopit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="obklopit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf920923-135-p3s3w5">
 <src.rf>manual</src.rf>
@@ -895,7 +895,7 @@
 <LM>w#w-mf920923-135-p3s3w19</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920923-135-p3s3w20">
 <src.rf>manual</src.rf>
@@ -985,7 +985,7 @@
 <LM>w#w-mf920923-135-p3s4w3</LM>
 </w.rf>
 <form>chránila</form>
-<tag lemma="chránit_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="chránit" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920923-135-p3s4w4">
 <src.rf>manual</src.rf>

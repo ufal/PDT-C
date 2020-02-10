@@ -83,7 +83,7 @@
 <LM>w#w-wsj2062-001-p1s0W7</LM>
 </w.rf>
 <form>ohlásila</form>
-<tag lemma="ohlásit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="ohlásit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2062-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -742,7 +742,7 @@
 <LM>w#w-wsj2062-001-p1s1W14</LM>
 </w.rf>
 <form>neohlásili</form>
-<tag lemma="ohlásit" src="auto" recommended="1">VpMP---XR-NAP--</tag>
+<tag lemma="ohlásit" src="auto" recommended="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m-wsj2062-001-p1s1W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1050,7 +1050,7 @@
 <LM>w#w-wsj2062-001-p1s2W18</LM>
 </w.rf>
 <form>dodala</form>
-<tag lemma="dodat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="dodat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2062-001-p1s2W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1459,7 +1459,7 @@
 <LM>w#w-wsj2062-001-p1s4W19</LM>
 </w.rf>
 <form>udržela</form>
-<tag lemma="udržet" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="udržet" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2062-001-p1s4W20-Ta">
 <src.rf>tagger-a</src.rf>

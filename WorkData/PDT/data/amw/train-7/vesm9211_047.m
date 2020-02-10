@@ -139,7 +139,7 @@
 <LM>w#w-vesm9211-047-p2s1w1</LM>
 </w.rf>
 <form>Doporučoval</form>
-<tag lemma="doporučovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="doporučovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-vesm9211-047-p2s1w2">
 <src.rf>manual</src.rf>
@@ -389,7 +389,7 @@
 <LM>w#w-vesm9211-047-p5s1w12</LM>
 </w.rf>
 <form>složen</form>
-<tag lemma="složit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="složit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-vesm9211-047-p5s1w13">
 <src.rf>manual</src.rf>

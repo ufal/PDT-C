@@ -85,7 +85,7 @@
 <LM>w#w-lnd94104-096-p1s2w7</LM>
 </w.rf>
 <form>skončily</form>
-<tag lemma="skončit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="skončit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-096-p1s2w8">
 <src.rf>manual</src.rf>
@@ -226,7 +226,7 @@
 <LM>w#w-lnd94104-096-p1s3w7</LM>
 </w.rf>
 <form>přesunula</form>
-<tag lemma="přesunout" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="přesunout" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-096-p1s3w8">
 <src.rf>manual</src.rf>
@@ -827,7 +827,7 @@
 <LM>w#w-lnd94104-096-p1s6w13</LM>
 </w.rf>
 <form>skončily</form>
-<tag lemma="skončit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="skončit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-096-p1s6w14">
 <src.rf>manual</src.rf>

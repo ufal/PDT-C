@@ -98,7 +98,7 @@
 <LM>w#w-lnd94101-083-p1s3w5</LM>
 </w.rf>
 <form>podlehl</form>
-<tag lemma="podlehnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="podlehnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd94101-083-p1s3w6">
 <src.rf>manual</src.rf>
@@ -228,7 +228,7 @@
 <LM>w#w-lnd94101-083-p1s4w3</LM>
 </w.rf>
 <form>zkolaboval</form>
-<tag lemma="zkolabovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zkolabovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-083-p1s4w4">
 <src.rf>manual</src.rf>
@@ -308,7 +308,7 @@
 <LM>w#w-lnd94101-083-p1s4w13</LM>
 </w.rf>
 <form>utrpěl</form>
-<tag lemma="utrpět" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="utrpět" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-083-p1s4w14">
 <src.rf>manual</src.rf>
@@ -406,7 +406,7 @@
 <LM>w#w-lnd94101-083-p1s5w1</LM>
 </w.rf>
 <form>Byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94101-083-p1s5w2">
 <src.rf>manual</src.rf>
@@ -414,7 +414,7 @@
 <LM>w#w-lnd94101-083-p1s5w2</LM>
 </w.rf>
 <form>převezen</form>
-<tag lemma="převézt" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="převézt" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd94101-083-p1s5w3">
 <src.rf>manual</src.rf>
@@ -470,7 +470,7 @@
 <LM>w#w-lnd94101-083-p1s5w9</LM>
 </w.rf>
 <form>konstatovali</form>
-<tag lemma="konstatovat_:T_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="konstatovat" src="orig" selected="1">VpMP----R-AAB--</tag>
 </m>
 <m id="m-lnd94101-083-p1s5w10">
 <src.rf>manual</src.rf>

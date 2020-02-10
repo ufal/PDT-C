@@ -51,7 +51,7 @@
 <LM>w#w-ln95044-121-p1s1w5</LM>
 </w.rf>
 <form>zahájily</form>
-<tag lemma="zahájit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zahájit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95044-121-p1s1w6">
 <src.rf>manual</src.rf>
@@ -183,7 +183,7 @@
 <LM>w#w-ln95044-121-p2s1Bw10</LM>
 </w.rf>
 <form>zahájili</form>
-<tag lemma="zahájit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zahájit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95044-121-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -571,7 +571,7 @@
 <LM>w#w-ln95044-121-p3s2w5</LM>
 </w.rf>
 <form>ocenili</form>
-<tag lemma="ocenit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="ocenit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95044-121-p3s2w6">
 <src.rf>manual</src.rf>
@@ -780,7 +780,7 @@
 <LM>w#w-ln95044-121-p3s2w31</LM>
 </w.rf>
 <form>stanovena</form>
-<tag lemma="stanovit_:W_^(určit)" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="stanovit_^(určit)" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln95044-121-p3s2w32">
 <src.rf>manual</src.rf>
@@ -969,7 +969,7 @@
 <LM>w#w-ln95044-121-p4s1w16</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95044-121-p4s1w17">
 <src.rf>manual</src.rf>
@@ -1381,7 +1381,7 @@
 <LM>w#w-ln95044-121-p4s3w28</LM>
 </w.rf>
 <form>prohlásil</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95044-121-p4s3w29">
 <src.rf>manual</src.rf>
@@ -1451,7 +1451,7 @@
 <LM>w#w-ln95044-121-p4s4w6</LM>
 </w.rf>
 <form>musel</form>
-<tag lemma="muset" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="muset" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95044-121-p4s4w7">
 <src.rf>manual</src.rf>
@@ -2162,7 +2162,7 @@
 <LM>w#w-ln95044-121-p5s3w34</LM>
 </w.rf>
 <form>postěžoval</form>
-<tag lemma="postěžovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="postěžovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95044-121-p5s3w35">
 <src.rf>manual</src.rf>
@@ -2220,7 +2220,7 @@
 <LM>w#w-ln95044-121-p5s4w3</LM>
 </w.rf>
 <form>kritizovali</form>
-<tag lemma="kritizovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="kritizovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95044-121-p5s4w4">
 <src.rf>manual</src.rf>

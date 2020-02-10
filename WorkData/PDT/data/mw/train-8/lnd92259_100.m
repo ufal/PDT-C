@@ -53,7 +53,7 @@
 <LM>w#w-lnd92259-100-p2s1w3</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd92259-100-p2s1w4">
 <src.rf>manual</src.rf>

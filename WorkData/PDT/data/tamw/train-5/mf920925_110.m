@@ -306,7 +306,7 @@
 <LM>w#w-mf920925-110-p2s2w24</LM>
 </w.rf>
 <form>prohlásil</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920925-110-p2s2w25">
 <src.rf>manual</src.rf>
@@ -412,7 +412,7 @@
 <LM>w#w-mf920925-110-p3s1w1</LM>
 </w.rf>
 <form>Uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920925-110-p3s1w2">
 <src.rf>manual</src.rf>
@@ -553,7 +553,7 @@
 <LM>w#w-mf920925-110-p4s1w1</LM>
 </w.rf>
 <form>Vyslovil</form>
-<tag lemma="vyslovit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyslovit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920925-110-p4s1w2">
 <src.rf>manual</src.rf>
@@ -731,7 +731,7 @@
 <LM>w#w-mf920925-110-p5s1w1</LM>
 </w.rf>
 <form>Potvrdil</form>
-<tag lemma="potvrdit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="potvrdit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920925-110-p5s1w2">
 <src.rf>manual</src.rf>
@@ -891,7 +891,7 @@
 <LM>w#w-mf920925-110-p5s1w21</LM>
 </w.rf>
 <form>odmítlo</form>
-<tag lemma="odmítnout_:W" src="orig" selected="1">VpNS---XR-AA--1</tag>
+<tag lemma="odmítnout" src="orig" selected="1">VpNS----R-AAP-1</tag>
 </m>
 <m id="m-mf920925-110-p5s1w22">
 <src.rf>manual</src.rf>
@@ -949,7 +949,7 @@
 <LM>w#w-mf920925-110-p5s2w1</LM>
 </w.rf>
 <form>Vyloučil</form>
-<tag lemma="vyloučit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyloučit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920925-110-p5s2w2">
 <src.rf>manual</src.rf>
@@ -1119,7 +1119,7 @@
 <LM>w#w-mf920925-110-p6s1w8</LM>
 </w.rf>
 <form>označil</form>
-<tag lemma="označit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="označit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920925-110-p6s1w9">
 <src.rf>manual</src.rf>
@@ -1289,7 +1289,7 @@
 <LM>w#w-mf920925-110-p6s2w8</LM>
 </w.rf>
 <form>obvinil</form>
-<tag lemma="obvinit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="obvinit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920925-110-p6s2w9">
 <src.rf>manual</src.rf>

@@ -456,7 +456,7 @@
 <LM>w#w-lnd92259-055-p2s3w27</LM>
 </w.rf>
 <form>posoudila</form>
-<tag lemma="posoudit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="posoudit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-055-p2s3w28">
 <src.rf>manual</src.rf>

@@ -444,7 +444,7 @@
 <LM>w#w-mf920901-119-p3s2w19</LM>
 </w.rf>
 <form>odůvodnil</form>
-<tag lemma="odůvodnit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odůvodnit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920901-119-p3s2w20">
 <src.rf>manual</src.rf>
@@ -710,7 +710,7 @@
 <LM>w#w-mf920901-119-p4s2w1</LM>
 </w.rf>
 <form>Kritizoval</form>
-<tag lemma="kritizovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="kritizovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920901-119-p4s2w2">
 <src.rf>manual</src.rf>

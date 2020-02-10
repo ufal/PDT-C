@@ -1977,7 +1977,7 @@
 <LM>w#w-ln94201-132-p4s1w29</LM>
 </w.rf>
 <form>změnili</form>
-<tag lemma="změnit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="změnit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94201-132-p4s1w30">
 <src.rf>manual</src.rf>
@@ -2270,7 +2270,7 @@
 <LM>w#w-ln94201-132-p4s2w30</LM>
 </w.rf>
 <form>nelétal</form>
-<tag lemma="létat_:T" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="létat" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-ln94201-132-p4s2w31">
 <src.rf>manual</src.rf>
@@ -2310,7 +2310,7 @@
 <LM>w#w-ln94201-132-p4s2w35</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94201-132-p4s2w36">
 <src.rf>manual</src.rf>
@@ -2318,7 +2318,7 @@
 <LM>w#w-ln94201-132-p4s2w36</LM>
 </w.rf>
 <form>obdarován</form>
-<tag lemma="obdarovat_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="obdarovat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94201-132-p4s2w37">
 <src.rf>manual</src.rf>

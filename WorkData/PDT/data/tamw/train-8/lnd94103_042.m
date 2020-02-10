@@ -209,7 +209,7 @@
 <LM>w#w-lnd94103-042-p1s3w14</LM>
 </w.rf>
 <form>nabídnuto</form>
-<tag lemma="nabídnout_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="nabídnout" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd94103-042-p1s3w15">
 <src.rf>manual</src.rf>
@@ -267,7 +267,7 @@
 <LM>w#w-lnd94103-042-p1s4w1</LM>
 </w.rf>
 <form>Oznámil</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-042-p1s4w2">
 <src.rf>manual</src.rf>
@@ -552,7 +552,7 @@
 <LM>w#w-lnd94103-042-p1s5w7</LM>
 </w.rf>
 <form>upřesnil</form>
-<tag lemma="upřesnit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="upřesnit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-042-p1s5w8">
 <src.rf>manual</src.rf>

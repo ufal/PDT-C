@@ -88,7 +88,7 @@
 <LM>w#w-mf920925-099-p1s1w9</LM>
 </w.rf>
 <form>ŽILO</form>
-<tag lemma="žít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="žít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920925-099-p1s1w10">
 <src.rf>manual</src.rf>
@@ -156,7 +156,7 @@
 <LM>w#w-mf920925-099-p2s2w5</LM>
 </w.rf>
 <form>přesvědčeno</form>
-<tag lemma="přesvědčit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="přesvědčit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf920925-099-p2s2w6">
 <src.rf>manual</src.rf>
@@ -228,7 +228,7 @@
 <LM>w#w-mf920925-099-p2s2w14</LM>
 </w.rf>
 <form>žilo</form>
-<tag lemma="žít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="žít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920925-099-p2s2w15">
 <src.rf>manual</src.rf>
@@ -497,7 +497,7 @@
 <LM>w#w-mf920925-099-p2s3w10</LM>
 </w.rf>
 <form>otiskl</form>
-<tag lemma="otisknout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="otisknout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf920925-099-p2s3w11">
 <src.rf>manual</src.rf>
@@ -633,7 +633,7 @@
 <LM>w#w-mf920925-099-p3s1w12</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920925-099-p3s1w13">
 <src.rf>manual</src.rf>
@@ -673,7 +673,7 @@
 <LM>w#w-mf920925-099-p3s1w17</LM>
 </w.rf>
 <form>souhlasilo</form>
-<tag lemma="souhlasit_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="souhlasit" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920925-099-p3s1w18">
 <src.rf>manual</src.rf>
@@ -875,7 +875,7 @@
 <LM>w#w-mf920925-099-p4s1w13</LM>
 </w.rf>
 <form>zřeklo</form>
-<tag lemma="zřeknout_:W" src="orig" selected="1">VpNS---XR-AA--1</tag>
+<tag lemma="zřeknout" src="orig" selected="1">VpNS----R-AAP-1</tag>
 </m>
 <m id="m-mf920925-099-p4s1w14">
 <src.rf>manual</src.rf>
@@ -923,7 +923,7 @@
 <LM>w#w-mf920925-099-p4s1w19</LM>
 </w.rf>
 <form>nevytvořilo</form>
-<tag lemma="vytvořit_:W" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="vytvořit" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-mf920925-099-p4s1w20">
 <src.rf>manual</src.rf>

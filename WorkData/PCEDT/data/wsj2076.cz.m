@@ -51,7 +51,7 @@
 <tag>
 <AM lemma="tisk" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="tisk" src="auto">NNIS4-----A----</AM>
-<AM lemma="tisknout" src="auto">VpYS---XR-AAI-6</AM>
+<AM lemma="tisknout" src="auto">VpYS----R-AAI-6</AM>
 </tag>
 </m>
 <m id="m-wsj2076-001-p1s0W3-Ta">
@@ -295,7 +295,7 @@
 <tag>
 <AM lemma="tisk" src="auto">NNIS1-----A----</AM>
 <AM lemma="tisk" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="tisknout" src="auto">VpYS---XR-AAI-6</AM>
+<AM lemma="tisknout" src="auto">VpYS----R-AAI-6</AM>
 </tag>
 </m>
 <m id="m-wsj2076-001-p1s1W18-Ta">
@@ -544,7 +544,7 @@
 <LM>w#w-wsj2076-001-p1s2W3</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2076-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -724,7 +724,7 @@
 <LM>w#w-wsj2076-001-p1s2W17</LM>
 </w.rf>
 <form>realizován</form>
-<tag lemma="realizovat" src="auto" recommended="1">VsYS---XX-APB--</tag>
+<tag lemma="realizovat" src="auto" recommended="1">VsYS----X-APB--</tag>
 </m>
 <m id="m-wsj2076-001-p1s2W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -780,7 +780,7 @@
 <LM>w#w-wsj2076-001-p1s3W2</LM>
 </w.rf>
 <form>nebyla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-NAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-wsj2076-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -788,7 +788,7 @@
 <LM>w#w-wsj2076-001-p1s3W3</LM>
 </w.rf>
 <form>projednávána</form>
-<tag lemma="projednávat_^(*4at)" src="auto" recommended="1">VsQW---XX-API--</tag>
+<tag lemma="projednávat_^(*4at)" src="auto" recommended="1">VsQW----X-API--</tag>
 </m>
 <m id="m-wsj2076-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>

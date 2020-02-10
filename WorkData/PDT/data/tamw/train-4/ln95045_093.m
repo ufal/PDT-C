@@ -210,7 +210,7 @@
 <LM>w#w-ln95045-093-p2s1Bw12</LM>
 </w.rf>
 <form>uspořádali</form>
-<tag lemma="uspořádat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="uspořádat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95045-093-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -284,7 +284,7 @@
 <LM>w#w-ln95045-093-p2s2w1</LM>
 </w.rf>
 <form>Směřovali</form>
-<tag lemma="směřovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="směřovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95045-093-p2s2w2">
 <src.rf>manual</src.rf>
@@ -414,7 +414,7 @@
 <LM>w#w-ln95045-093-p2s3w1</LM>
 </w.rf>
 <form>Podepsalo</form>
-<tag lemma="podepsat" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="podepsat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-093-p2s3w2">
 <src.rf>manual</src.rf>
@@ -622,7 +622,7 @@
 <LM>w#w-ln95045-093-p3s1w2</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95045-093-p3s1w3">
 <src.rf>manual</src.rf>
@@ -766,7 +766,7 @@
 <LM>w#w-ln95045-093-p3s1w20</LM>
 </w.rf>
 <form>nevycházel</form>
-<tag lemma="vycházet_:T" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="vycházet" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-ln95045-093-p3s1w21">
 <src.rf>manual</src.rf>
@@ -888,7 +888,7 @@
 <LM>w#w-ln95045-093-p3s2w3</LM>
 </w.rf>
 <form>předložila</form>
-<tag lemma="předložit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="předložit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95045-093-p3s2w4">
 <src.rf>manual</src.rf>
@@ -952,7 +952,7 @@
 <LM>w#w-ln95045-093-p3s2w11</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95045-093-p3s2w12">
 <src.rf>manual</src.rf>
@@ -1248,7 +1248,7 @@
 <LM>w#w-ln95045-093-p3s4w9</LM>
 </w.rf>
 <form>sdělil</form>
-<tag lemma="sdělit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sdělit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-093-p3s4w10">
 <src.rf>manual</src.rf>

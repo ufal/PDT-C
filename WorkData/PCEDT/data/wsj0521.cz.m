@@ -115,7 +115,7 @@
 <LM>w#w-wsj0521-001-p1s0W8</LM>
 </w.rf>
 <form>jmenoval</form>
-<tag lemma="jmenovat" src="auto" recommended="1">VpYS---XR-AAB--</tag>
+<tag lemma="jmenovat" src="auto" recommended="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-wsj0521-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -399,7 +399,7 @@
 <LM>w#w-wsj0521-001-p1s1W15</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj0521-001-p1s1W16-Ta">
 <src.rf>tagger-a</src.rf>

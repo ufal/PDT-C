@@ -108,7 +108,7 @@
 <LM>w#w-ln95048-049-p1s1w12</LM>
 </w.rf>
 <form>zkoušel</form>
-<tag lemma="zkoušet_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zkoušet" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95048-049-p1s1w13">
 <src.rf>manual</src.rf>
@@ -247,7 +247,7 @@
 <LM>w#w-ln95048-049-p1s3w10</LM>
 </w.rf>
 <form>realizoval</form>
-<tag lemma="realizovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="realizovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln95048-049-p1s3w11">
 <src.rf>manual</src.rf>

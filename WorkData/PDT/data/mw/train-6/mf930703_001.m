@@ -39,8 +39,8 @@
 </w.rf>
 <form>nechtěli</form>
 <tag>
-<AM lemma="chtít" src="orig">VpMP---XR-NA---</AM>
-<AM lemma="chtít_:T" src="manual" selected="1">VpMP---XR-NA---</AM>
+<AM lemma="chtít" src="orig">VpMP----R-NAI--</AM>
+<AM lemma="chtít" src="manual" selected="1">VpMP----R-NAI--</AM>
 </tag>
 </m>
 <m id="m-mf930703-001-p1s1w4">
@@ -85,7 +85,7 @@
 <form>tk</form>
 <tag>
 <AM lemma="tk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="tknout" src="auto" recommended="1">VpYS---XR-AA--6</AM>
+<AM lemma="tknout" src="auto" recommended="1">VpYS----R-AAI-6</AM>
 <AM lemma="tk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -175,7 +175,7 @@
 <LM>w#w-mf930703-001-p2s1w14</LM>
 </w.rf>
 <form>hlasovali</form>
-<tag lemma="hlasovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="hlasovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930703-001-p2s1w15">
 <src.rf>manual</src.rf>
@@ -218,8 +218,8 @@
 </w.rf>
 <form>Řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930703-001-p2s2w2">
@@ -478,7 +478,7 @@
 <LM>w#w-mf930703-001-p2s4w6</LM>
 </w.rf>
 <form>týkaly</form>
-<tag lemma="týkat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="týkat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930703-001-p2s4w7">
 <src.rf>manual</src.rf>
@@ -660,8 +660,8 @@
 </w.rf>
 <form>uvedl</form>
 <tag>
-<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="uvést" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="uvést" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930703-001-p2s5w17">

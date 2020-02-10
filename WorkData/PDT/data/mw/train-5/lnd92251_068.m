@@ -108,7 +108,7 @@
 <LM>w#w-lnd92251-068-p3s2w4</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92251-068-p3s2w5">
 <src.rf>manual</src.rf>
@@ -132,7 +132,7 @@
 <LM>w#w-lnd92251-068-p3s2w7</LM>
 </w.rf>
 <form>obviněn</form>
-<tag lemma="obvinit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="obvinit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd92251-068-p3s2w8">
 <src.rf>manual</src.rf>
@@ -172,7 +172,7 @@
 <LM>w#w-lnd92251-068-p3s2w12</LM>
 </w.rf>
 <form>prodal</form>
-<tag lemma="prodat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prodat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-068-p3s2w13">
 <src.rf>manual</src.rf>
@@ -346,7 +346,7 @@
 <LM>w#w-lnd92251-068-p3s3w9</LM>
 </w.rf>
 <form>žalován</form>
-<tag lemma="žalovat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="žalovat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-lnd92251-068-p3s3w10">
 <src.rf>manual</src.rf>
@@ -418,7 +418,7 @@
 <LM>w#w-lnd92251-068-p3s3w18</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92251-068-p3s3w19">
 <src.rf>manual</src.rf>
@@ -591,7 +591,7 @@
 <LM>w#w-lnd92251-068-p3s4w9</LM>
 </w.rf>
 <form>usvědčen</form>
-<tag lemma="usvědčit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="usvědčit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd92251-068-p3s4w10">
 <src.rf>manual</src.rf>
@@ -623,7 +623,7 @@
 <LM>w#w-lnd92251-068-p3s4w13</LM>
 </w.rf>
 <form>odsouzen</form>
-<tag lemma="odsoudit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="odsoudit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd92251-068-p3s4w14">
 <src.rf>manual</src.rf>
@@ -668,7 +668,7 @@
 <LM>w#w-lnd92251-068-p3s5w2</LM>
 </w.rf>
 <form>patřil</form>
-<tag lemma="patřit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="patřit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92251-068-p3s5w3">
 <src.rf>manual</src.rf>
@@ -716,7 +716,7 @@
 <LM>w#w-lnd92251-068-p3s5w8</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92251-068-p3s5w9">
 <src.rf>manual</src.rf>
@@ -786,7 +786,7 @@
 <LM>w#w-lnd92251-068-p3s5w16</LM>
 </w.rf>
 <form>kopírovali</form>
-<tag lemma="kopírovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="kopírovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92251-068-p3s5w17">
 <src.rf>manual</src.rf>
@@ -879,7 +879,7 @@
 <LM>w#w-lnd92251-068-p3s6w2</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd92251-068-p3s6w3">
 <src.rf>manual</src.rf>
@@ -887,7 +887,7 @@
 <LM>w#w-lnd92251-068-p3s6w3</LM>
 </w.rf>
 <form>prodávány</form>
-<tag lemma="prodávat_:T_^(*4at)" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="prodávat_^(*4at)" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-lnd92251-068-p3s6w4">
 <src.rf>manual</src.rf>
@@ -977,7 +977,7 @@
 <LM>w#w-lnd92251-068-p3s7w4</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92251-068-p3s7w5">
 <src.rf>manual</src.rf>
@@ -1033,7 +1033,7 @@
 <LM>w#w-lnd92251-068-p3s7w11</LM>
 </w.rf>
 <form>obviněno</form>
-<tag lemma="obvinit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="obvinit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92251-068-p3s7w12">
 <src.rf>manual</src.rf>
@@ -1049,7 +1049,7 @@
 <LM>w#w-lnd92251-068-p3s7w13</LM>
 </w.rf>
 <form>uvězněno</form>
-<tag lemma="uvěznit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="uvěznit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92251-068-p3s7w14">
 <src.rf>manual</src.rf>

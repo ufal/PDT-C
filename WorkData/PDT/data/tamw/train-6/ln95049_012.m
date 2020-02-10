@@ -220,7 +220,7 @@
 <LM>w#w-ln95049-012-p2s2w1</LM>
 </w.rf>
 <form>Uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-012-p2s2w2">
 <src.rf>manual</src.rf>
@@ -736,8 +736,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95049-012-p4s1w4">
@@ -996,7 +996,7 @@
 <LM>w#w-ln95049-012-p4s3w2</LM>
 </w.rf>
 <form>Bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95049-012-p4s3w3">
 <src.rf>manual</src.rf>
@@ -1132,7 +1132,7 @@
 <LM>w#w-ln95049-012-p4s3w20</LM>
 </w.rf>
 <form>zdůraznil</form>
-<tag lemma="zdůraznit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zdůraznit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-012-p4s3w21">
 <src.rf>manual</src.rf>
@@ -1177,7 +1177,7 @@
 <LM>w#w-ln95049-012-p5s1w3</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95049-012-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1185,7 +1185,7 @@
 <LM>w#w-ln95049-012-p5s1w4</LM>
 </w.rf>
 <form>privatizován</form>
-<tag lemma="privatizovat_:T_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="privatizovat" src="orig" selected="1">VsYS----X-APB--</tag>
 </m>
 <m id="m-ln95049-012-p5s1w5">
 <src.rf>manual</src.rf>
@@ -1299,7 +1299,7 @@
 <LM>w#w-ln95049-012-p5s2w8</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95049-012-p5s2w9">
 <src.rf>manual</src.rf>
@@ -1307,7 +1307,7 @@
 <LM>w#w-ln95049-012-p5s2w9</LM>
 </w.rf>
 <form>stanovena</form>
-<tag lemma="stanovit_:W_^(určit)" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="stanovit_^(určit)" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln95049-012-p5s2w10">
 <src.rf>manual</src.rf>

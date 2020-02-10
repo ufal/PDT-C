@@ -281,7 +281,7 @@
 <LM>w#w-ln94211-88-p2s3w1</LM>
 </w.rf>
 <form>Ukázal</form>
-<tag lemma="ukázat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="ukázat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94211-88-p2s3w2">
 <src.rf>manual</src.rf>
@@ -361,7 +361,7 @@
 <LM>w#w-ln94211-88-p2s3w11</LM>
 </w.rf>
 <form>zadrželi</form>
-<tag lemma="zadržet" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zadržet" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94211-88-p2s3w12">
 <src.rf>manual</src.rf>
@@ -417,7 +417,7 @@
 <LM>w#w-ln94211-88-p2s3w18</LM>
 </w.rf>
 <form>pokoušel</form>
-<tag lemma="pokoušet_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="pokoušet" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94211-88-p2s3w19">
 <src.rf>manual</src.rf>
@@ -539,7 +539,7 @@
 <LM>w#w-ln94211-88-p3s1w5</LM>
 </w.rf>
 <form>povolen</form>
-<tag lemma="povolit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="povolit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94211-88-p3s1w6">
 <src.rf>manual</src.rf>
@@ -709,7 +709,7 @@
 <LM>w#w-ln94211-88-p3s2w7</LM>
 </w.rf>
 <form>hodlal</form>
-<tag lemma="hodlat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="hodlat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94211-88-p3s2w8">
 <src.rf>manual</src.rf>
@@ -791,7 +791,7 @@
 <LM>w#w-ln94211-88-p4s1w4</LM>
 </w.rf>
 <form>hlášeny</form>
-<tag lemma="hlásit" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="hlásit" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln94211-88-p4s1w5">
 <src.rf>manual</src.rf>
@@ -996,7 +996,7 @@
 <LM>w#w-ln94211-88-p4s3w6</LM>
 </w.rf>
 <form>zabavili</form>
-<tag lemma="zabavit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zabavit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94211-88-p4s3w7">
 <src.rf>manual</src.rf>
@@ -1044,7 +1044,7 @@
 <LM>w#w-ln94211-88-p4s3w12</LM>
 </w.rf>
 <form>udělili</form>
-<tag lemma="udělit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="udělit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94211-88-p4s3w13">
 <src.rf>manual</src.rf>

@@ -130,7 +130,7 @@
 <LM>w#w-ln95044-009-p2s1Bw8</LM>
 </w.rf>
 <form>uzavřeli</form>
-<tag lemma="uzavřít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="uzavřít" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95044-009-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -557,7 +557,7 @@
 <LM>w#w-ln95044-009-p3s1w3</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95044-009-p3s1w4">
 <src.rf>manual</src.rf>

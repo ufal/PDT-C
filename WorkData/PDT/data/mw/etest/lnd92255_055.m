@@ -129,7 +129,7 @@
 <LM>w#w-lnd92255-055-p3s2w7</LM>
 </w.rf>
 <form>podala</form>
-<tag lemma="podat_:W_^(něco_[někomu]_[někam])" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="podat_^(něco_[někomu]_[někam])" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-055-p3s2w8">
 <src.rf>manual</src.rf>
@@ -193,7 +193,7 @@
 <LM>w#w-lnd92255-055-p3s2w15</LM>
 </w.rf>
 <form>odmítl</form>
-<tag lemma="odmítnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="odmítnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd92255-055-p3s2w16">
 <src.rf>manual</src.rf>
@@ -371,7 +371,7 @@
 <LM>w#w-lnd92255-055-p3s3w10</LM>
 </w.rf>
 <form>naznačil</form>
-<tag lemma="naznačit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="naznačit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-055-p3s3w11">
 <src.rf>manual</src.rf>
@@ -453,7 +453,7 @@
 <LM>w#w-lnd92255-055-p3s4w5</LM>
 </w.rf>
 <form>požadovala</form>
-<tag lemma="požadovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="požadovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92255-055-p3s4w6">
 <src.rf>manual</src.rf>
@@ -533,7 +533,7 @@
 <LM>w#w-lnd92255-055-p3s4w15</LM>
 </w.rf>
 <form>opakovala</form>
-<tag lemma="opakovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="opakovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92255-055-p3s4w16">
 <src.rf>manual</src.rf>

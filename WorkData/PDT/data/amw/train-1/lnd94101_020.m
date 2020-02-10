@@ -94,7 +94,7 @@
 <LM>w#w-lnd94101-020-p1s2w5</LM>
 </w.rf>
 <form>rozhodla</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-lnd94101-020-p1s2w6">
 <src.rf>manual</src.rf>
@@ -377,7 +377,7 @@
 <LM>w#w-lnd94101-020-p1s3w27</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd94101-020-p1s3w28">
 <src.rf>manual</src.rf>
@@ -449,7 +449,7 @@
 <LM>w#w-lnd94101-020-p1s3w36</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-020-p1s3w37">
 <src.rf>manual</src.rf>

@@ -635,7 +635,7 @@
 <LM>w#w-cmpr9416-045-p19s1w47</LM>
 </w.rf>
 <form>čekaly</form>
-<tag lemma="čekat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="čekat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-cmpr9416-045-p19s1w48">
 <src.rf>manual</src.rf>
@@ -685,7 +685,7 @@
 <LM>w#w-cmpr9416-045-p19s2w2</LM>
 </w.rf>
 <form>kupoval</form>
-<tag lemma="kupovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="kupovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9416-045-p19s2w3">
 <src.rf>manual</src.rf>
@@ -850,7 +850,7 @@
 <LM>w#w-cmpr9416-045-p19s3w6</LM>
 </w.rf>
 <form>získalo</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9416-045-p19s3w7">
 <src.rf>manual</src.rf>

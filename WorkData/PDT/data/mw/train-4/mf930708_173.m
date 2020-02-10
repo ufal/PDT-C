@@ -498,7 +498,7 @@
 <LM>w#w-mf930708-173-p3s2w2</LM>
 </w.rf>
 <form>Vyhrožovali</form>
-<tag lemma="vyhrožovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyhrožovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930708-173-p3s2w3">
 <src.rf>manual</src.rf>
@@ -714,7 +714,7 @@
 <LM>w#w-mf930708-173-p3s2w29</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-173-p3s2w30">
 <src.rf>manual</src.rf>
@@ -781,7 +781,7 @@
 <LM>w#w-mf930708-173-p3s2w37</LM>
 </w.rf>
 <form>přijel</form>
-<tag lemma="přijet" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přijet" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-173-p3s2w38">
 <src.rf>manual</src.rf>
@@ -866,7 +866,7 @@
 <LM>w#w-mf930708-173-p4s1w6</LM>
 </w.rf>
 <form>dodal</form>
-<tag lemma="dodat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dodat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-173-p4s1w7">
 <src.rf>manual</src.rf>
@@ -986,7 +986,7 @@
 <LM>w#w-mf930708-173-p4s1w21</LM>
 </w.rf>
 <form>nuceny</form>
-<tag lemma="nutit_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="nutit" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf930708-173-p4s1w22">
 <src.rf>manual</src.rf>
@@ -1254,7 +1254,7 @@
 <LM>w#w-mf930708-173-p4s3w25</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-173-p4s3w26">
 <src.rf>manual</src.rf>
@@ -1288,7 +1288,7 @@
 <LM>w#w-mf930708-173-p5s1w2</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-173-p5s1w3">
 <src.rf>manual</src.rf>
@@ -1352,7 +1352,7 @@
 <LM>w#w-mf930708-173-p5s1w10</LM>
 </w.rf>
 <form>stačili</form>
-<tag lemma="stačit_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="stačit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930708-173-p5s1w11">
 <src.rf>manual</src.rf>

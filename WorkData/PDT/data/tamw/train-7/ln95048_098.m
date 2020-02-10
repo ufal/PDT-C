@@ -69,7 +69,7 @@
 <LM>w#w-ln95048-098-p2s1w6</LM>
 </w.rf>
 <form>znemožnil</form>
-<tag lemma="znemožnit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="znemožnit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-098-p2s1w7">
 <src.rf>manual</src.rf>

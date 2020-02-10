@@ -99,7 +99,7 @@
 <LM>w#w-ln94209-38-p2s1Aw5</LM>
 </w.rf>
 <form>vypraveny</form>
-<tag lemma="vypravit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="vypravit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln94209-38-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -749,7 +749,7 @@
 <LM>w#w-ln94209-38-p3s1w6</LM>
 </w.rf>
 <form>vypraven</form>
-<tag lemma="vypravit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="vypravit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94209-38-p3s1w7">
 <src.rf>manual</src.rf>
@@ -1371,7 +1371,7 @@
 <LM>w#w-ln94209-38-p3s3w5</LM>
 </w.rf>
 <form>rozšířeny</form>
-<tag lemma="rozšířit" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="rozšířit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln94209-38-p3s3w6">
 <src.rf>manual</src.rf>
@@ -2556,7 +2556,7 @@
 <LM>w#w-ln94209-38-p3s7w9</LM>
 </w.rf>
 <form>vypraven</form>
-<tag lemma="vypravit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="vypravit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94209-38-p3s7w10">
 <src.rf>manual</src.rf>

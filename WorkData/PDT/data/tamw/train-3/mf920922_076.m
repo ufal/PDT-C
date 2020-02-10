@@ -173,7 +173,7 @@
 <LM>w#w-mf920922-076-p2s1w17</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf920922-076-p2s1w18">
 <src.rf>manual</src.rf>
@@ -373,7 +373,7 @@
 <LM>w#w-mf920922-076-p2s2w8</LM>
 </w.rf>
 <form>uznal</form>
-<tag lemma="uznat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uznat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-076-p2s2w9">
 <src.rf>manual</src.rf>
@@ -479,7 +479,7 @@
 <LM>w#w-mf920922-076-p2s3w3</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920922-076-p2s3w4">
 <src.rf>manual</src.rf>
@@ -573,7 +573,7 @@
 <LM>w#w-mf920922-076-p2s3w13</LM>
 </w.rf>
 <form>přijat</form>
-<tag lemma="přijmout" src="auto" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="přijmout" src="auto" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf920922-076-p2s3w14">
 <src.rf>manual</src.rf>
@@ -690,7 +690,7 @@
 <LM>w#w-mf920922-076-p2s4w5</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dát" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-076-p2s4w6">
 <src.rf>manual</src.rf>
@@ -802,7 +802,7 @@
 <LM>w#w-mf920922-076-p2s4w19</LM>
 </w.rf>
 <form>nechal</form>
-<tag lemma="nechat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nechat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920922-076-p2s4w20">
 <src.rf>manual</src.rf>

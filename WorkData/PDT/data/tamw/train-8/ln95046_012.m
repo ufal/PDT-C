@@ -167,7 +167,7 @@
 <LM>w#w-ln95046-012-p2s1Bw13</LM>
 </w.rf>
 <form>vyvrcholil</form>
-<tag lemma="vyvrcholit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyvrcholit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95046-012-p2s1Bw14">
 <src.rf>manual</src.rf>

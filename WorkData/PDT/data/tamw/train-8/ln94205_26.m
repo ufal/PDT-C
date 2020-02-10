@@ -131,7 +131,7 @@
 <LM>w#w-ln94205-26-p2s1Bw5</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94205-26-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -155,7 +155,7 @@
 <LM>w#w-ln94205-26-p2s1Bw8</LM>
 </w.rf>
 <form>zvýšen</form>
-<tag lemma="zvýšit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zvýšit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94205-26-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -245,7 +245,7 @@
 <LM>w#w-ln94205-26-p2s2w1</LM>
 </w.rf>
 <form>Rozhodlo</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpNS---XR-AA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpNS----R-AAP-1</tag>
 </m>
 <m id="m-ln94205-26-p2s2w2">
 <src.rf>manual</src.rf>
@@ -335,7 +335,7 @@
 <LM>w#w-ln94205-26-p2s3w2</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94205-26-p2s3w3">
 <src.rf>manual</src.rf>

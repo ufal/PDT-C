@@ -114,7 +114,7 @@
 <LM>w#w-mf920901-012-p2s1Bw5</LM>
 </w.rf>
 <form>sdělil</form>
-<tag lemma="sdělit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sdělit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920901-012-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -263,7 +263,7 @@
 <LM>w#w-mf920901-012-p2s2w1</LM>
 </w.rf>
 <form>Předpokládalo</form>
-<tag lemma="předpokládat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="předpokládat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920901-012-p2s2w2">
 <src.rf>manual</src.rf>
@@ -372,7 +372,7 @@
 <LM>w#w-mf920901-012-p2s3w3</LM>
 </w.rf>
 <form>zůstal</form>
-<tag lemma="zůstat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zůstat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920901-012-p2s3w4">
 <src.rf>manual</src.rf>
@@ -472,7 +472,7 @@
 <LM>w#w-mf920901-012-p3s1Bw2</LM>
 </w.rf>
 <form>zkrátilo</form>
-<tag lemma="zkrátit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zkrátit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920901-012-p3s1Bw3">
 <src.rf>manual</src.rf>
@@ -650,7 +650,7 @@
 <LM>w#w-mf920901-012-p3s2w3</LM>
 </w.rf>
 <form>odebírala</form>
-<tag lemma="odebírat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="odebírat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920901-012-p3s2w4">
 <src.rf>manual</src.rf>

@@ -655,7 +655,7 @@
 <LM>w#w-wsj0572-001-p1s1W27</LM>
 </w.rf>
 <form>zemřel</form>
-<tag lemma="zemřít" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="zemřít" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0572-001-p1s1W28-Ta">
 <src.rf>tagger-a</src.rf>

@@ -267,7 +267,7 @@
 <LM>w#w-mf920924-028-p2s1Bw26</LM>
 </w.rf>
 <form>zvýšil</form>
-<tag lemma="zvýšit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zvýšit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920924-028-p2s1Bw27">
 <src.rf>manual</src.rf>

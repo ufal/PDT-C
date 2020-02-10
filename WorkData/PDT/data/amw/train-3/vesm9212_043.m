@@ -309,7 +309,7 @@
 <LM>w#w-vesm9212-043-p2s1w9</LM>
 </w.rf>
 <form>dostali</form>
-<tag lemma="dostat" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="dostat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-vesm9212-043-p2s1w10">
 <src.rf>manual</src.rf>
@@ -1475,7 +1475,7 @@
 <LM>w#w-vesm9212-043-p3s7w5</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-vesm9212-043-p3s7w6">
 <src.rf>manual</src.rf>
@@ -1624,7 +1624,7 @@
 <LM>w#w-vesm9212-043-p3s8w5</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-vesm9212-043-p3s8w6">
 <src.rf>manual</src.rf>
@@ -3004,7 +3004,7 @@
 <LM>w#w-vesm9212-043-p10s1w14</LM>
 </w.rf>
 <form>podmíněna</form>
-<tag lemma="podmínit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="podmínit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-vesm9212-043-p10s1w15">
 <src.rf>manual</src.rf>

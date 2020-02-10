@@ -82,7 +82,7 @@
 <LM>w#w-wsj0621-001-p1s0W7</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0621-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -409,7 +409,7 @@
 <LM>w#w-wsj0621-001-p1s1W4</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0621-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -462,7 +462,7 @@
 <LM>w#w-wsj0621-001-p1s1W9</LM>
 </w.rf>
 <form>dosáhla</form>
-<tag lemma="dosáhnout" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="dosáhnout" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0621-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1443,7 +1443,7 @@
 <LM>w#w-wsj0621-001-p1s3W28</LM>
 </w.rf>
 <form>pomohli</form>
-<tag lemma="pomoci" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="pomoci" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj0621-001-p1s3W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1529,7 +1529,7 @@
 <LM>w#w-wsj0621-001-p1s3W35</LM>
 </w.rf>
 <form>poskytli</form>
-<tag lemma="poskytnout" src="auto" recommended="1">VpMP---XR-AAP-1</tag>
+<tag lemma="poskytnout" src="auto" recommended="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-wsj0621-001-p1s3W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1957,7 +1957,7 @@
 <LM>w#w-wsj0621-001-p1s5W4</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0621-001-p1s5W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2298,7 +2298,7 @@
 <LM>w#w-wsj0621-001-p1s6W8</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0621-001-p1s6W9-Ta">
 <src.rf>tagger-a</src.rf>

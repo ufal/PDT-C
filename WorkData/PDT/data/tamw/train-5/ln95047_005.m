@@ -311,7 +311,7 @@
 <LM>w#w-ln95047-005-p2s2w11</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95047-005-p2s2w12">
 <src.rf>manual</src.rf>
@@ -492,7 +492,7 @@
 <LM>w#w-ln95047-005-p3s1w14</LM>
 </w.rf>
 <form>vyžadován</form>
-<tag lemma="vyžadovat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="vyžadovat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-ln95047-005-p3s1w15">
 <src.rf>manual</src.rf>
@@ -697,7 +697,7 @@
 <LM>w#w-ln95047-005-p3s2w19</LM>
 </w.rf>
 <form>zavedeni</form>
-<tag lemma="zavést" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="zavést" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-ln95047-005-p3s2w20">
 <src.rf>manual</src.rf>

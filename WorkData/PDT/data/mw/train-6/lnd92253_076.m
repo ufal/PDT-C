@@ -149,7 +149,7 @@
 <LM>w#w-lnd92253-076-p2s2w8</LM>
 </w.rf>
 <form>dočkal</form>
-<tag lemma="dočkat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dočkat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92253-076-p2s2w9">
 <src.rf>manual</src.rf>
@@ -502,7 +502,7 @@
 <LM>w#w-lnd92253-076-p2s3w33</LM>
 </w.rf>
 <form>loučili</form>
-<tag lemma="loučit_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="loučit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92253-076-p2s3w34">
 <src.rf>manual</src.rf>

@@ -102,7 +102,7 @@
 <LM>w#w-ln95042-096-p1s1w11</LM>
 </w.rf>
 <form>posvětilo</form>
-<tag lemma="posvětit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="posvětit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95042-096-p1s1w12">
 <src.rf>manual</src.rf>
@@ -168,7 +168,7 @@
 <LM>w#w-ln95042-096-p1s2w4</LM>
 </w.rf>
 <form>rozhodovali</form>
-<tag lemma="rozhodovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="rozhodovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95042-096-p1s2w5">
 <src.rf>manual</src.rf>
@@ -272,7 +272,7 @@
 <LM>w#w-ln95042-096-p1s2w17</LM>
 </w.rf>
 <form>zvolili</form>
-<tag lemma="zvolit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zvolit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95042-096-p1s2w18">
 <src.rf>manual</src.rf>
@@ -320,7 +320,7 @@
 <LM>w#w-ln95042-096-p1s2w23</LM>
 </w.rf>
 <form>musela</form>
-<tag lemma="muset" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="muset" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95042-096-p1s2w24">
 <src.rf>manual</src.rf>

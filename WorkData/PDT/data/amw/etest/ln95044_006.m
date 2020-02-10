@@ -27,7 +27,7 @@
 <LM>w#w-ln95044-006-p1s1w2</LM>
 </w.rf>
 <form>podražilo</form>
-<tag lemma="podražit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="podražit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95044-006-p1s1w3">
 <src.rf>manual</src.rf>
@@ -98,7 +98,7 @@
 <LM>w#w-ln95044-006-p2s1Bw5</LM>
 </w.rf>
 <form>zvýšily</form>
-<tag lemma="zvýšit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zvýšit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95044-006-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -195,7 +195,7 @@
 <LM>w#w-ln95044-006-p2s1Bw17</LM>
 </w.rf>
 <form>zdražily</form>
-<tag lemma="zdražit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zdražit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95044-006-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -371,7 +371,7 @@
 <LM>w#w-ln95044-006-p2s3w5</LM>
 </w.rf>
 <form>ovlivnilo</form>
-<tag lemma="ovlivnit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="ovlivnit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95044-006-p2s3w6">
 <src.rf>manual</src.rf>
@@ -488,7 +488,7 @@
 <LM>w#w-ln95044-006-p2s4w8</LM>
 </w.rf>
 <form>stouply</form>
-<tag lemma="stoupnout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="stoupnout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-ln95044-006-p2s4w9">
 <src.rf>manual</src.rf>
@@ -561,7 +561,7 @@
 <LM>w#w-ln95044-006-p2s4w17</LM>
 </w.rf>
 <form>zdražily</form>
-<tag lemma="zdražit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zdražit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95044-006-p2s4w18">
 <src.rf>manual</src.rf>
@@ -782,7 +782,7 @@
 <LM>w#w-ln95044-006-p3s1w13</LM>
 </w.rf>
 <form>zdražil</form>
-<tag lemma="zdražit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zdražit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95044-006-p3s1w14">
 <src.rf>manual</src.rf>
@@ -897,7 +897,7 @@
 <LM>w#w-ln95044-006-p3s2w4</LM>
 </w.rf>
 <form>vzrostly</form>
-<tag lemma="vzrůst-1" src="auto" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vzrůst-1" src="auto" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95044-006-p3s2w5">
 <src.rf>manual</src.rf>

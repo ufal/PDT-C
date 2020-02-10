@@ -177,7 +177,7 @@
 <LM>w#w-ln95047-034-p2s1Cw7</LM>
 </w.rf>
 <form>vyhověl</form>
-<tag lemma="vyhovět_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyhovět" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95047-034-p2s1Cw8">
 <src.rf>manual</src.rf>
@@ -217,7 +217,7 @@
 <LM>w#w-ln95047-034-p2s1Cw12</LM>
 </w.rf>
 <form>zmírnil</form>
-<tag lemma="zmírnit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zmírnit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95047-034-p2s1Cw13">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <LM>w#w-ln95047-034-p2s1Cw26</LM>
 </w.rf>
 <form>hrálo</form>
-<tag lemma="hrát" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="hrát" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95047-034-p2s1Cw27">
 <src.rf>manual</src.rf>
@@ -435,7 +435,7 @@
 <LM>w#w-ln95047-034-p2s2w9</LM>
 </w.rf>
 <form>změnil</form>
-<tag lemma="změnit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="změnit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95047-034-p2s2w10">
 <src.rf>manual</src.rf>
@@ -605,7 +605,7 @@
 <LM>w#w-ln95047-034-p3s1w8</LM>
 </w.rf>
 <form>neoživila</form>
-<tag lemma="oživit_:W" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="oživit" src="orig" selected="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-ln95047-034-p3s1w9">
 <src.rf>manual</src.rf>
@@ -687,7 +687,7 @@
 <LM>w#w-ln95047-034-p3s2w3</LM>
 </w.rf>
 <form>nedozrál</form>
-<tag lemma="dozrát" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="dozrát" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-ln95047-034-p3s2w4">
 <src.rf>manual</src.rf>
@@ -719,7 +719,7 @@
 <LM>w#w-ln95047-034-p3s2w7</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95047-034-p3s2w8">
 <src.rf>manual</src.rf>
@@ -1061,7 +1061,7 @@
 <LM>w#w-ln95047-034-p4s3w16</LM>
 </w.rf>
 <form>utkaly</form>
-<tag lemma="utkat_:T_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="utkat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95047-034-p4s3w17">
 <src.rf>manual</src.rf>

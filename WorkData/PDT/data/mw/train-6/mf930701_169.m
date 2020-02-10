@@ -2265,7 +2265,7 @@
 <LM>w#w-mf930701-169-p7s2w10</LM>
 </w.rf>
 <form>dělány</form>
-<tag lemma="dělat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="dělat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf930701-169-p7s2w11">
 <src.rf>manual</src.rf>
@@ -2305,7 +2305,7 @@
 <LM>w#w-mf930701-169-p7s2w16</LM>
 </w.rf>
 <form>povzbudily</form>
-<tag lemma="povzbudit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="povzbudit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf930701-169-p7s2w17">
 <src.rf>manual</src.rf>

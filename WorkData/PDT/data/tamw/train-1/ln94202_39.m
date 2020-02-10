@@ -253,7 +253,7 @@
 <LM>w#w-ln94202-39-p2s1Bw21</LM>
 </w.rf>
 <form>dopustili</form>
-<tag lemma="dopustit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="dopustit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94202-39-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -285,7 +285,7 @@
 <LM>w#w-ln94202-39-p2s1Bw25</LM>
 </w.rf>
 <form>obvinil</form>
-<tag lemma="obvinit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="obvinit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94202-39-p2s1Bw26">
 <src.rf>manual</src.rf>
@@ -391,7 +391,7 @@
 <LM>w#w-ln94202-39-p2s2w5</LM>
 </w.rf>
 <form>zvýšil</form>
-<tag lemma="zvýšit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zvýšit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94202-39-p2s2w6">
 <src.rf>manual</src.rf>

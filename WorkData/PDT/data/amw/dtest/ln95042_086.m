@@ -141,7 +141,7 @@
 <LM>w#w-ln95042-086-p2s1Bw9</LM>
 </w.rf>
 <form>zahájil</form>
-<tag lemma="zahájit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zahájit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95042-086-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -505,7 +505,7 @@
 <LM>w#w-ln95042-086-p2s3w16</LM>
 </w.rf>
 <form>přepravil</form>
-<tag lemma="přepravit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přepravit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95042-086-p2s3w17">
 <src.rf>manual</src.rf>
@@ -919,7 +919,7 @@
 <LM>w#w-ln95042-086-p2s4w33</LM>
 </w.rf>
 <form>vyhlásili</form>
-<tag lemma="vyhlásit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyhlásit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95042-086-p2s4w34">
 <src.rf>manual</src.rf>

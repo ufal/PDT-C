@@ -189,7 +189,7 @@
 <LM>w#w-ln94204-11-p2s1Bw14</LM>
 </w.rf>
 <form>oznámily</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94204-11-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -549,7 +549,7 @@
 <LM>w#w-ln94204-11-p3s1w33</LM>
 </w.rf>
 <form>uvedli</form>
-<tag lemma="uvést" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94204-11-p3s1w34">
 <src.rf>manual</src.rf>

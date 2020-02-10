@@ -114,7 +114,7 @@
 <LM>w#w-ln95040-093-p2s1Bw4</LM>
 </w.rf>
 <form>označili</form>
-<tag lemma="označit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="označit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95040-093-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -415,7 +415,7 @@
 <LM>w#w-ln95040-093-p2s2w17</LM>
 </w.rf>
 <form>splnila</form>
-<tag lemma="splnit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="splnit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95040-093-p2s2w18">
 <src.rf>manual</src.rf>
@@ -447,7 +447,7 @@
 <LM>w#w-ln95040-093-p2s2w21</LM>
 </w.rf>
 <form>vytvořila</form>
-<tag lemma="vytvořit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vytvořit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95040-093-p2s2w22">
 <src.rf>manual</src.rf>

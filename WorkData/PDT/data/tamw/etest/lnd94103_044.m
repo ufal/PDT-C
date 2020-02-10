@@ -651,7 +651,7 @@
 <LM>w#w-lnd94103-044-p1s4w12</LM>
 </w.rf>
 <form>zajistila</form>
-<tag lemma="zajistit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zajistit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-044-p1s4w13">
 <src.rf>manual</src.rf>
@@ -971,7 +971,7 @@
 <LM>w#w-lnd94103-044-p1s5w31</LM>
 </w.rf>
 <form>nerozhodli</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpMP---XR-NA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpMP----R-NAP-1</tag>
 </m>
 <m id="m-lnd94103-044-p1s5w32">
 <src.rf>manual</src.rf>

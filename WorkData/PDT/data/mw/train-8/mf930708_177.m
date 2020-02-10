@@ -157,7 +157,7 @@
 <LM>w#w-mf930708-177-p2s1w13</LM>
 </w.rf>
 <form>navrhli</form>
-<tag lemma="navrhnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="navrhnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-mf930708-177-p2s1w14">
 <src.rf>manual</src.rf>
@@ -296,8 +296,8 @@
 </w.rf>
 <form>řekla</form>
 <tag>
-<AM lemma="říci" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpQW----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930708-177-p2s2w5">
@@ -484,7 +484,7 @@
 <LM>w#w-mf930708-177-p2s3w8</LM>
 </w.rf>
 <form>patřil</form>
-<tag lemma="patřit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="patřit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930708-177-p2s3w9">
 <src.rf>manual</src.rf>
@@ -612,7 +612,7 @@
 <LM>w#w-mf930708-177-p2s3w24</LM>
 </w.rf>
 <form>zabral</form>
-<tag lemma="zabrat_^([zabavit]_něco_někomu)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zabrat_^([zabavit]_něco_někomu)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-177-p2s3w25">
 <src.rf>manual</src.rf>

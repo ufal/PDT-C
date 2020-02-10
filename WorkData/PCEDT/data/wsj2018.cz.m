@@ -27,7 +27,7 @@
 <LM>w#w-wsj2018-001-p1s0W2</LM>
 </w.rf>
 <form>zvolili</form>
-<tag lemma="zvolit" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="zvolit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj2018-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -861,7 +861,7 @@
 <LM>w#w-wsj2018-001-p1s1W41</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2018-001-p1s1W42-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1012,7 +1012,7 @@
 <LM>w#w-wsj2018-001-p1s2W3</LM>
 </w.rf>
 <form>prohlásil</form>
-<tag lemma="prohlásit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="prohlásit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2018-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1277,7 +1277,7 @@
 <LM>w#w-wsj2018-001-p1s3W8</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj2018-001-p1s3W9-Ta">
 <src.rf>tagger-a</src.rf>

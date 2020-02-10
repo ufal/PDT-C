@@ -107,7 +107,7 @@
 <LM>w#w-mf920922-120-p1s1w12</LM>
 </w.rf>
 <form>způsobil</form>
-<tag lemma="způsobit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="způsobit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-120-p1s1w13">
 <src.rf>manual</src.rf>

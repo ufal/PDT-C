@@ -203,7 +203,7 @@
 <LM>w#w-ln94201-7-p2s1w18</LM>
 </w.rf>
 <form>poukázal</form>
-<tag lemma="poukázat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="poukázat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94201-7-p2s1w19">
 <src.rf>manual</src.rf>
@@ -368,7 +368,7 @@
 <LM>w#w-ln94201-7-p2s2w2</LM>
 </w.rf>
 <form>pohrozilo</form>
-<tag lemma="pohrozit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="pohrozit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94201-7-p2s2w3">
 <src.rf>manual</src.rf>

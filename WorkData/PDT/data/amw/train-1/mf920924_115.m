@@ -187,7 +187,7 @@
 <LM>w#w-mf920924-115-p2s1Bw15</LM>
 </w.rf>
 <form>ukázala</form>
-<tag lemma="ukázat" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="ukázat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920924-115-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -471,7 +471,7 @@
 <LM>w#w-mf920924-115-p2s2w13</LM>
 </w.rf>
 <form>rozhodli</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-mf920924-115-p2s2w14">
 <src.rf>manual</src.rf>
@@ -580,7 +580,7 @@
 <LM>w#w-mf920924-115-p2s3w4</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf920924-115-p2s3w5">
 <src.rf>manual</src.rf>
@@ -697,7 +697,7 @@
 <LM>w#w-mf920924-115-p2s4w3</LM>
 </w.rf>
 <form>shodly</form>
-<tag lemma="shodnout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="shodnout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-mf920924-115-p2s4w4">
 <src.rf>manual</src.rf>
@@ -769,7 +769,7 @@
 <LM>w#w-mf920924-115-p2s4w12</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf920924-115-p2s4w13">
 <src.rf>manual</src.rf>
@@ -859,7 +859,7 @@
 <LM>w#w-mf920924-115-p2s5w4</LM>
 </w.rf>
 <form>hovořili</form>
-<tag lemma="hovořit_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="hovořit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf920924-115-p2s5w5">
 <src.rf>manual</src.rf>
@@ -996,8 +996,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920924-115-p2s5w22">
@@ -1524,7 +1524,7 @@
 <LM>w#w-mf920924-115-p2s9w4</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920924-115-p2s9w5">
 <src.rf>manual</src.rf>
@@ -1596,7 +1596,7 @@
 <LM>w#w-mf920924-115-p2s9w13</LM>
 </w.rf>
 <form>musela</form>
-<tag lemma="muset" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="muset" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920924-115-p2s9w14">
 <src.rf>manual</src.rf>

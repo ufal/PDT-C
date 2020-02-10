@@ -51,7 +51,7 @@
 <LM>w#w-mf930701-061-p1s1w5</LM>
 </w.rf>
 <form>obdržela</form>
-<tag lemma="obdržet" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="obdržet" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930701-061-p1s1w6">
 <src.rf>manual</src.rf>

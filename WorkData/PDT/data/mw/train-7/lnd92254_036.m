@@ -181,7 +181,7 @@
 <LM>w#w-lnd92254-036-p3s2w10</LM>
 </w.rf>
 <form>jmenoval</form>
-<tag lemma="jmenovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="jmenovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-lnd92254-036-p3s2w11">
 <src.rf>manual</src.rf>

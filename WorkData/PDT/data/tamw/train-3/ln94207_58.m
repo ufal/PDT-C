@@ -159,7 +159,7 @@
 <LM>w#w-ln94207-58-p2s5Bw7</LM>
 </w.rf>
 <form>proměnili</form>
-<tag lemma="proměnit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="proměnit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94207-58-p2s5Bw8">
 <src.rf>manual</src.rf>
@@ -247,7 +247,7 @@
 <LM>w#w-ln94207-58-p2s5Bw18</LM>
 </w.rf>
 <form>neproměnili</form>
-<tag lemma="proměnit_:W" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="proměnit" src="orig" selected="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m-ln94207-58-p2s5Bw19">
 <src.rf>manual</src.rf>

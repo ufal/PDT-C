@@ -232,7 +232,7 @@
 <LM>w#w-ln95048-029-p2s1Bw8</LM>
 </w.rf>
 <form>vycházel</form>
-<tag lemma="vycházet_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vycházet" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95048-029-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -296,7 +296,7 @@
 <LM>w#w-ln95048-029-p2s1Bw16</LM>
 </w.rf>
 <form>doputoval</form>
-<tag lemma="doputovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="doputovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-029-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -1018,7 +1018,7 @@
 <LM>w#w-ln95048-029-p2s4w26</LM>
 </w.rf>
 <form>proslavily</form>
-<tag lemma="proslavit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="proslavit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95048-029-p2s4w27">
 <src.rf>manual</src.rf>
@@ -1250,7 +1250,7 @@
 <LM>w#w-ln95048-029-p2s6w10</LM>
 </w.rf>
 <form>vybírány</form>
-<tag lemma="vybírat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="vybírat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln95048-029-p2s6w11">
 <src.rf>manual</src.rf>

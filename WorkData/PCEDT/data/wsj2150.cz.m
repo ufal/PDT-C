@@ -46,7 +46,7 @@
 <LM>w#w-wsj2150-001-p1s0W4</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2150-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -126,7 +126,7 @@
 <LM>w#w-wsj2150-001-p1s0W11</LM>
 </w.rf>
 <form>dokončila</form>
-<tag lemma="dokončit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="dokončit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2150-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -485,7 +485,7 @@
 <LM>w#w-wsj2150-001-p1s1W2</LM>
 </w.rf>
 <form>nebyla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-NAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-wsj2150-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -494,8 +494,8 @@
 </w.rf>
 <form>zveřejněna</form>
 <tag>
-<AM lemma="zveřejnit" src="auto" recommended="1">VsQW---XX-APP--</AM>
-<AM lemma="zveřejnět" src="auto">VsQW---XX-APP--</AM>
+<AM lemma="zveřejnit" src="auto" recommended="1">VsQW----X-APP--</AM>
+<AM lemma="zveřejnět" src="auto">VsQW----X-APP--</AM>
 </tag>
 </m>
 <m id="m-wsj2150-001-p1s1W4-Ta">
@@ -977,7 +977,7 @@
 <LM>w#w-wsj2150-001-p1s3W5</LM>
 </w.rf>
 <form>vydělal</form>
-<tag lemma="vydělat_^(kůže;peníze)" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="vydělat_^(kůže;peníze)" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2150-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1100,7 +1100,7 @@
 <LM>w#w-wsj2150-001-p1s3W17</LM>
 </w.rf>
 <form>investoval</form>
-<tag lemma="investovat" src="auto" recommended="1">VpYS---XR-AAB--</tag>
+<tag lemma="investovat" src="auto" recommended="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-wsj2150-001-p1s3W18-Ta">
 <src.rf>tagger-a</src.rf>

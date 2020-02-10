@@ -162,7 +162,7 @@
 <LM>w#w-ln94207-2-p2s1Bw10</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94207-2-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -324,7 +324,7 @@
 <LM>w#w-ln94207-2-p2s2w2</LM>
 </w.rf>
 <form>přesvědčen</form>
-<tag lemma="přesvědčit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="přesvědčit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94207-2-p2s2w3">
 <src.rf>manual</src.rf>
@@ -590,7 +590,7 @@
 <LM>w#w-ln94207-2-p2s3w12</LM>
 </w.rf>
 <form>vnímáno</form>
-<tag lemma="vnímat_:T" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="vnímat" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-ln94207-2-p2s3w13">
 <src.rf>manual</src.rf>

@@ -96,7 +96,7 @@
 <LM>w#w-wsj0903-001-p1s0W8</LM>
 </w.rf>
 <form>posílila</form>
-<tag lemma="posílit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="posílit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0903-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -580,7 +580,7 @@
 <LM>w#w-wsj0903-001-p1s1W16</LM>
 </w.rf>
 <form>připomněla</form>
-<tag lemma="připomenout" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="připomenout" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0903-001-p1s1W17-Ta">
 <src.rf>tagger-a</src.rf>

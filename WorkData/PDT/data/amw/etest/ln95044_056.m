@@ -44,8 +44,8 @@
 </w.rf>
 <form>měl</form>
 <tag>
-<AM lemma="mít" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="mít_:T" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="mít" src="orig">VpYS----R-AAI--</AM>
+<AM lemma="mít" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln95044-056-p1s1w5">
@@ -249,8 +249,8 @@
 </w.rf>
 <form>přešly</form>
 <tag>
-<AM lemma="přejít" src="orig">VpTP---XR-AA---</AM>
-<AM lemma="přejít_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+<AM lemma="přejít" src="orig">VpTP----R-AAP--</AM>
+<AM lemma="přejít" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95044-056-p2s1Bw11">
@@ -628,7 +628,7 @@
 <LM>w#w-ln95044-056-p2s4w8</LM>
 </w.rf>
 <form>vznikla</form>
-<tag lemma="vzniknout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="vzniknout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln95044-056-p2s4w9">
 <src.rf>manual</src.rf>
@@ -1033,7 +1033,7 @@
 <LM>w#w-ln95044-056-p2s5w30</LM>
 </w.rf>
 <form>hrozil</form>
-<tag lemma="hrozit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="hrozit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95044-056-p2s5w31">
 <src.rf>manual</src.rf>
@@ -1257,7 +1257,7 @@
 <LM>w#w-ln95044-056-p3s1w2</LM>
 </w.rf>
 <form>připravovala</form>
-<tag lemma="připravovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="připravovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95044-056-p3s1w3">
 <src.rf>manual</src.rf>

@@ -1760,7 +1760,7 @@
 <LM>w#w-vesm9303-049-p3s8w5</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-vesm9303-049-p3s8w6">
 <src.rf>manual</src.rf>
@@ -2027,7 +2027,7 @@
 <LM>w#w-vesm9303-049-p3s9w6</LM>
 </w.rf>
 <form>podvázala</form>
-<tag lemma="podvázat" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="podvázat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-vesm9303-049-p3s9w7">
 <src.rf>manual</src.rf>
@@ -2043,7 +2043,7 @@
 <LM>w#w-vesm9303-049-p3s9w8</LM>
 </w.rf>
 <form>propojila</form>
-<tag lemma="propojit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="propojit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-vesm9303-049-p3s9w9">
 <src.rf>manual</src.rf>
@@ -3057,7 +3057,7 @@
 <LM>w#w-vesm9303-049-p3s12w38</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-vesm9303-049-p3s12w39">
 <src.rf>manual</src.rf>
@@ -3261,7 +3261,7 @@
 <form>stala</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-vesm9303-049-p4s1w20">
@@ -3644,7 +3644,7 @@
 <LM>w#w-vesm9303-049-p4s2w27</LM>
 </w.rf>
 <form>vytlačeny</form>
-<tag lemma="vytlačit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="vytlačit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-vesm9303-049-p4s2w28">
 <src.rf>manual</src.rf>
@@ -4126,7 +4126,7 @@
 <LM>w#w-vesm9303-049-p4s3w19</LM>
 </w.rf>
 <form>vyrazil</form>
-<tag lemma="vyrazit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyrazit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-vesm9303-049-p4s3w20">
 <src.rf>manual</src.rf>
@@ -4810,7 +4810,7 @@
 <LM>w#w-vesm9303-049-p6s1w9</LM>
 </w.rf>
 <form>odvozen</form>
-<tag lemma="odvodit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="odvodit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-vesm9303-049-p6s1w10">
 <src.rf>manual</src.rf>

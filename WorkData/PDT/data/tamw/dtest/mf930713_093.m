@@ -251,7 +251,7 @@
 <LM>w#w-mf930713-093-p2s2w4</LM>
 </w.rf>
 <form>klesl</form>
-<tag lemma="klesnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="klesnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf930713-093-p2s2w5">
 <src.rf>manual</src.rf>
@@ -471,7 +471,7 @@
 <LM>w#w-mf930713-093-p2s4w3</LM>
 </w.rf>
 <form>nastal</form>
-<tag lemma="nastat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nastat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-093-p2s4w4">
 <src.rf>manual</src.rf>
@@ -503,7 +503,7 @@
 <LM>w#w-mf930713-093-p2s4w7</LM>
 </w.rf>
 <form>odstoupila</form>
-<tag lemma="odstoupit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="odstoupit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930713-093-p2s4w8">
 <src.rf>manual</src.rf>
@@ -851,7 +851,7 @@
 <LM>w#w-mf930713-093-p2s6w5</LM>
 </w.rf>
 <form>postavili</form>
-<tag lemma="postavit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="postavit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930713-093-p2s6w6">
 <src.rf>manual</src.rf>

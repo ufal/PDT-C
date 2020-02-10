@@ -125,7 +125,7 @@
 <LM>w#w-mf920901-086-p1s2w6</LM>
 </w.rf>
 <form>patřily</form>
-<tag lemma="patřit_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="patřit" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf920901-086-p1s2w7">
 <src.rf>manual</src.rf>
@@ -197,7 +197,7 @@
 <LM>w#w-mf920901-086-p1s2w15</LM>
 </w.rf>
 <form>nebylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-mf920901-086-p1s2w16">
 <src.rf>manual</src.rf>

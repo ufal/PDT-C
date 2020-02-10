@@ -77,7 +77,7 @@
 <LM>w#w-cmpr9410-011-p2s1w5</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-cmpr9410-011-p2s1w6">
 <src.rf>manual</src.rf>
@@ -501,7 +501,7 @@
 <LM>w#w-cmpr9410-011-p2s2w43</LM>
 </w.rf>
 <form>zaostal</form>
-<tag lemma="zaostat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zaostat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9410-011-p2s2w44">
 <src.rf>manual</src.rf>
@@ -823,7 +823,7 @@
 <LM>w#w-cmpr9410-011-p4s1w8</LM>
 </w.rf>
 <form>dosáhlo</form>
-<tag lemma="dosáhnout" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="dosáhnout" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9410-011-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1328,7 +1328,7 @@
 <LM>w#w-cmpr9410-011-p4s5w3</LM>
 </w.rf>
 <form>umožnilo</form>
-<tag lemma="umožnit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="umožnit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9410-011-p4s5w4">
 <src.rf>manual</src.rf>

@@ -457,7 +457,7 @@
 <LM>w#w-ln94206-97-p2s2w13</LM>
 </w.rf>
 <form>zhodnotil</form>
-<tag lemma="zhodnotit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zhodnotit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94206-97-p2s2w14">
 <src.rf>manual</src.rf>
@@ -2743,7 +2743,7 @@
 <LM>w#w-ln94206-97-p5s1w25</LM>
 </w.rf>
 <form>vezeni</form>
-<tag lemma="vézt_^(něco/někoho_autem,_vlakem,...)" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="vézt_^(něco/někoho_autem,_vlakem,...)" src="orig" selected="1">VsMP----X-API--</tag>
 </m>
 <m id="m-ln94206-97-p5s1w26">
 <src.rf>manual</src.rf>
@@ -2868,7 +2868,7 @@
 <LM>w#w-ln94206-97-p5s2w13</LM>
 </w.rf>
 <form>obsadil</form>
-<tag lemma="obsadit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="obsadit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94206-97-p5s2w14">
 <src.rf>manual</src.rf>

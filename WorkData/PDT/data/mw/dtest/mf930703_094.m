@@ -27,7 +27,7 @@
 <LM>w#w-mf930703-094-p1s1w2</LM>
 </w.rf>
 <form>Necítila</form>
-<tag lemma="cítit_:T" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="cítit" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-mf930703-094-p1s1w3">
 <src.rf>manual</src.rf>
@@ -83,7 +83,7 @@
 <LM>w#w-mf930703-094-p1s1w10</LM>
 </w.rf>
 <form>odešla</form>
-<tag lemma="odejít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="odejít" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930703-094-p1s1w11">
 <src.rf>manual</src.rf>
@@ -161,7 +161,7 @@
 <LM>w#w-mf930703-094-p1s2w8</LM>
 </w.rf>
 <form>řekla</form>
-<tag lemma="říci" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930703-094-p1s2w9">
 <src.rf>manual</src.rf>
@@ -244,7 +244,7 @@
 <LM>w#w-mf930703-094-p1s2w18</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930703-094-p1s2w19">
 <src.rf>manual</src.rf>

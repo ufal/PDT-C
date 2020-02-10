@@ -325,7 +325,7 @@
 <LM>w#w-ln95046-114-p2s2w26</LM>
 </w.rf>
 <form>přišlo</form>
-<tag lemma="přijít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="přijít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95046-114-p2s2w27">
 <src.rf>manual</src.rf>

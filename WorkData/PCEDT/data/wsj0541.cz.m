@@ -837,7 +837,7 @@
 <LM>w#w-wsj0541-001-p1s3W10</LM>
 </w.rf>
 <form>skončila</form>
-<tag lemma="skončit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="skončit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0541-001-p1s3W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -974,7 +974,7 @@
 <tag>
 <AM lemma="propad" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="propad" src="auto">NNIS4-----A----</AM>
-<AM lemma="propadnout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="propadnout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-wsj0541-001-p1s3W23-Ta">
@@ -1037,7 +1037,7 @@
 <LM>w#w-wsj0541-001-p1s4W2</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj0541-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1088,7 +1088,7 @@
 <LM>w#w-wsj0541-001-p1s4W5</LM>
 </w.rf>
 <form>konvertován</form>
-<tag lemma="konvertovat" src="auto" recommended="1">VsYS---XX-API--</tag>
+<tag lemma="konvertovat" src="auto" recommended="1">VsYS----X-API--</tag>
 </m>
 <m id="m-wsj0541-001-p1s4W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1297,7 +1297,7 @@
 <LM>w#w-wsj0541-001-p1s4W21</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="mít" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0541-001-p1s4W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1706,7 +1706,7 @@
 <LM>w#w-wsj0541-001-p1s5W24</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0541-001-p1s5W25-Ta">
 <src.rf>tagger-a</src.rf>

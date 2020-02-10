@@ -53,7 +53,7 @@
 <LM>w#w-ln94206-118-p5s1w3</LM>
 </w.rf>
 <form>vyhráli</form>
-<tag lemma="vyhrát" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyhrát" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94206-118-p5s1w4">
 <src.rf>manual</src.rf>

@@ -98,7 +98,7 @@
 <LM>w#w-lnd92255-131-p2s2w6</LM>
 </w.rf>
 <form>zvítězil</form>
-<tag lemma="zvítězit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zvítězit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-131-p2s2w7">
 <src.rf>manual</src.rf>
@@ -202,7 +202,7 @@
 <LM>w#w-lnd92255-131-p2s2w19</LM>
 </w.rf>
 <form>upravil</form>
-<tag lemma="upravit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="upravit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-131-p2s2w20">
 <src.rf>manual</src.rf>

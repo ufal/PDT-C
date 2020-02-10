@@ -603,7 +603,7 @@
 <LM>w#w-ln94207-107-p2s3w21</LM>
 </w.rf>
 <form>přizváni</form>
-<tag lemma="přizvat" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="přizvat" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-ln94207-107-p2s3w22">
 <src.rf>manual</src.rf>
@@ -725,7 +725,7 @@
 <LM>w#w-ln94207-107-p2s5w3</LM>
 </w.rf>
 <form>zakončeno</form>
-<tag lemma="zakončit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zakončit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94207-107-p2s5w4">
 <src.rf>manual</src.rf>
@@ -855,7 +855,7 @@
 <LM>w#w-ln94207-107-p2s6w7</LM>
 </w.rf>
 <form>sestaven</form>
-<tag lemma="sestavit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="sestavit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94207-107-p2s6w8">
 <src.rf>manual</src.rf>

@@ -364,7 +364,7 @@
 <LM>w#w-mf930702-023-p2s3w1</LM>
 </w.rf>
 <form>Uvedli</form>
-<tag lemma="uvést" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930702-023-p2s3w2">
 <src.rf>manual</src.rf>
@@ -638,7 +638,7 @@
 <LM>w#w-mf930702-023-p2s5w7</LM>
 </w.rf>
 <form>zvítězila</form>
-<tag lemma="zvítězit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zvítězit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930702-023-p2s5w8">
 <src.rf>manual</src.rf>

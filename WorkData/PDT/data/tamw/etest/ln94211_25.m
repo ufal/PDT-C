@@ -65,7 +65,7 @@
 <LM>w#w-ln94211-25-p1s1Aw6</LM>
 </w.rf>
 <form>zažila</form>
-<tag lemma="zažít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zažít" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94211-25-p1s1Aw7">
 <src.rf>manual</src.rf>
@@ -145,7 +145,7 @@
 <LM>w#w-ln94211-25-p1s1Aw16</LM>
 </w.rf>
 <form>rozehřála</form>
-<tag lemma="rozehřát" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="rozehřát" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94211-25-p1s1Aw17">
 <src.rf>manual</src.rf>

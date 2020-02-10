@@ -365,7 +365,7 @@
 <LM>w#w-ln95041-037-p2s2w14</LM>
 </w.rf>
 <form>změnil</form>
-<tag lemma="změnit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="změnit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95041-037-p2s2w15">
 <src.rf>manual</src.rf>
@@ -519,7 +519,7 @@
 <LM>w#w-ln95041-037-p2s3w17</LM>
 </w.rf>
 <form>vyřazena</form>
-<tag lemma="vyřadit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="vyřadit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln95041-037-p2s3w18">
 <src.rf>manual</src.rf>

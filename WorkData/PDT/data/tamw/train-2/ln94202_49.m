@@ -270,8 +270,8 @@
 </w.rf>
 <form>uvedl</form>
 <tag>
-<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="uvést" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="uvést" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94202-49-p2s1Bw25">
@@ -389,7 +389,7 @@
 <LM>w#w-ln94202-49-p2s2w4</LM>
 </w.rf>
 <form>trvalo</form>
-<tag lemma="trvat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="trvat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94202-49-p2s2w5">
 <src.rf>manual</src.rf>
@@ -413,7 +413,7 @@
 <LM>w#w-ln94202-49-p2s2w7</LM>
 </w.rf>
 <form>podařilo</form>
-<tag lemma="podařit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="podařit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94202-49-p2s2w8">
 <src.rf>manual</src.rf>
@@ -485,7 +485,7 @@
 <LM>w#w-ln94202-49-p2s2w16</LM>
 </w.rf>
 <form>měli</form>
-<tag lemma="mít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94202-49-p2s2w17">
 <src.rf>manual</src.rf>
@@ -638,8 +638,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94202-49-p2s2w35">
@@ -666,7 +666,7 @@
 <LM>w#w-ln94202-49-p2s3w1</LM>
 </w.rf>
 <form>Reagoval</form>
-<tag lemma="reagovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="reagovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94202-49-p2s3w2">
 <src.rf>manual</src.rf>
@@ -770,7 +770,7 @@
 <LM>w#w-ln94202-49-p2s3w14</LM>
 </w.rf>
 <form>schválily</form>
-<tag lemma="schválit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="schválit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94202-49-p2s3w15">
 <src.rf>manual</src.rf>

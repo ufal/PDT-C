@@ -253,7 +253,7 @@
 <LM>w#w-wsj0980-001-p1s0W19</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="auto" recommended="1">VpMP---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-wsj0980-001-p1s0W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -515,7 +515,7 @@
 </w.rf>
 <form>směnu</form>
 <tag>
-<AM lemma="smět" src="auto">VsFS4--XX-API--</AM>
+<AM lemma="smět" src="auto">VsFS4---X-API--</AM>
 <AM lemma="směna-1_^(výměna_za_něco)" src="auto">NNFS4-----A----</AM>
 <AM lemma="směna-2_^(pracovní;...)" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
@@ -1032,7 +1032,7 @@
 </w.rf>
 <form>směnu</form>
 <tag>
-<AM lemma="smět" src="auto">VsFS4--XX-API--</AM>
+<AM lemma="smět" src="auto">VsFS4---X-API--</AM>
 <AM lemma="směna-1_^(výměna_za_něco)" src="auto">NNFS4-----A----</AM>
 <AM lemma="směna-2_^(pracovní;...)" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
@@ -1425,7 +1425,7 @@
 </w.rf>
 <form>směny</form>
 <tag>
-<AM lemma="smět" src="auto">VsTP---XX-API--</AM>
+<AM lemma="smět" src="auto">VsTP----X-API--</AM>
 <AM lemma="směna-1_^(výměna_za_něco)" src="auto">NNFP1-----A----</AM>
 <AM lemma="směna-1_^(výměna_za_něco)" src="auto">NNFP4-----A----</AM>
 <AM lemma="směna-1_^(výměna_za_něco)" src="auto">NNFP5-----A----</AM>
@@ -1580,7 +1580,7 @@
 <LM>w#w-wsj0980-001-p1s4W10</LM>
 </w.rf>
 <form>směněna</form>
-<tag lemma="směnit" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="směnit" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj0980-001-p1s4W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1906,7 +1906,7 @@
 </w.rf>
 <form>směna</form>
 <tag>
-<AM lemma="smět" src="auto">VsQW---XX-API--</AM>
+<AM lemma="smět" src="auto">VsQW----X-API--</AM>
 <AM lemma="směna-1_^(výměna_za_něco)" src="auto">NNFS1-----A----</AM>
 <AM lemma="směna-2_^(pracovní;...)" src="auto" recommended="1">NNFS1-----A----</AM>
 </tag>
@@ -1937,7 +1937,7 @@
 <LM>w#w-wsj0980-001-p1s6W5</LM>
 </w.rf>
 <form>účtována</form>
-<tag lemma="účtovat" src="auto" recommended="1">VsQW---XX-API--</tag>
+<tag lemma="účtovat" src="auto" recommended="1">VsQW----X-API--</tag>
 </m>
 <m id="m-wsj0980-001-p1s6W6-Ta">
 <src.rf>tagger-a</src.rf>

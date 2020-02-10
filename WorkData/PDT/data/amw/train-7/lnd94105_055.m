@@ -27,7 +27,7 @@
 <LM>w#w-lnd94105-055-p1s5w2</LM>
 </w.rf>
 <form>připomněl</form>
-<tag lemma="připomenout" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="připomenout" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94105-055-p1s5w3">
 <src.rf>manual</src.rf>
@@ -67,7 +67,7 @@
 <LM>w#w-lnd94105-055-p1s5w7</LM>
 </w.rf>
 <form>zahájila</form>
-<tag lemma="zahájit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zahájit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94105-055-p1s5w8">
 <src.rf>manual</src.rf>
@@ -237,7 +237,7 @@
 <LM>w#w-lnd94105-055-p1s6w5</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94105-055-p1s6w6">
 <src.rf>manual</src.rf>

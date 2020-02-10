@@ -167,7 +167,7 @@
 <LM>w#w-cmpr9413-047-p3s1w5</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-cmpr9413-047-p3s1w6">
 <src.rf>manual</src.rf>
@@ -373,7 +373,7 @@
 <LM>w#w-cmpr9413-047-p3s4w6</LM>
 </w.rf>
 <form>nezajímala</form>
-<tag lemma="zajímat_:T" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="zajímat" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-cmpr9413-047-p3s4w7">
 <src.rf>manual</src.rf>
@@ -470,7 +470,7 @@
 <LM>w#w-cmpr9413-047-p5s2w1</LM>
 </w.rf>
 <form>Měli</form>
-<tag lemma="mít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-cmpr9413-047-p5s2w2">
 <src.rf>manual</src.rf>
@@ -1532,7 +1532,7 @@
 <LM>w#w-cmpr9413-047-p8s2Aw16</LM>
 </w.rf>
 <form>získali</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-cmpr9413-047-p8s2Aw17">
 <src.rf>manual</src.rf>
@@ -2183,7 +2183,7 @@
 <LM>w#w-cmpr9413-047-p8s9w21</LM>
 </w.rf>
 <form>vykoupali</form>
-<tag lemma="vykoupat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vykoupat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-cmpr9413-047-p8s9w22">
 <src.rf>manual</src.rf>

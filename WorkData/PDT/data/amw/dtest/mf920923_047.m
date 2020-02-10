@@ -256,8 +256,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920923-047-p2s2w13">
@@ -428,7 +428,7 @@
 <LM>w#w-mf920923-047-p2s3w13</LM>
 </w.rf>
 <form>postoupila</form>
-<tag lemma="postoupit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="postoupit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920923-047-p2s3w14">
 <src.rf>manual</src.rf>
@@ -514,7 +514,7 @@
 <LM>w#w-mf920923-047-p2s3w23</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920923-047-p2s3w24">
 <src.rf>manual</src.rf>
@@ -522,7 +522,7 @@
 <LM>w#w-mf920923-047-p2s3w24</LM>
 </w.rf>
 <form>pozastavena</form>
-<tag lemma="pozastavit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="pozastavit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf920923-047-p2s3w25">
 <src.rf>manual</src.rf>

@@ -410,7 +410,7 @@
 <LM>w#w-ln95041-070-p4s1w5</LM>
 </w.rf>
 <form>signovala</form>
-<tag lemma="signovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="signovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95041-070-p4s1w6">
 <src.rf>manual</src.rf>
@@ -540,7 +540,7 @@
 <LM>w#w-ln95041-070-p4s2w8</LM>
 </w.rf>
 <form>využil</form>
-<tag lemma="využít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="využít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95041-070-p4s2w9">
 <src.rf>manual</src.rf>
@@ -652,7 +652,7 @@
 <LM>w#w-ln95041-070-p4s2w22</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95041-070-p4s2w23">
 <src.rf>manual</src.rf>
@@ -848,7 +848,7 @@
 <LM>w#w-ln95041-070-p4s4w10</LM>
 </w.rf>
 <form>oznámili</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95041-070-p4s4w11">
 <src.rf>manual</src.rf>
@@ -1148,7 +1148,7 @@
 <LM>w#w-ln95041-070-p5s1w6</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95041-070-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1180,7 +1180,7 @@
 <LM>w#w-ln95041-070-p5s1w10</LM>
 </w.rf>
 <form>obviněn</form>
-<tag lemma="obvinit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="obvinit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95041-070-p5s1w11">
 <src.rf>manual</src.rf>
@@ -1420,7 +1420,7 @@
 <LM>w#w-ln95041-070-p5s1w40</LM>
 </w.rf>
 <form>nazval</form>
-<tag lemma="nazvat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nazvat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95041-070-p5s1w41">
 <src.rf>manual</src.rf>
@@ -1486,7 +1486,7 @@
 <LM>w#w-ln95041-070-p5s2w2</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95041-070-p5s2w3">
 <src.rf>manual</src.rf>
@@ -1510,7 +1510,7 @@
 <LM>w#w-ln95041-070-p5s2w5</LM>
 </w.rf>
 <form>zadržen</form>
-<tag lemma="zadržet" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zadržet" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95041-070-p5s2w6">
 <src.rf>manual</src.rf>
@@ -1526,7 +1526,7 @@
 <LM>w#w-ln95041-070-p5s2w7</LM>
 </w.rf>
 <form>dán</form>
-<tag lemma="dát" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="dát" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95041-070-p5s2w8">
 <src.rf>manual</src.rf>
@@ -1582,7 +1582,7 @@
 <LM>w#w-ln95041-070-p5s2w14</LM>
 </w.rf>
 <form>vyhýbal</form>
-<tag lemma="vyhýbat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyhýbat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95041-070-p5s2w15">
 <src.rf>manual</src.rf>
@@ -1640,7 +1640,7 @@
 <LM>w#w-ln95041-070-p5s3w4</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95041-070-p5s3w5">
 <src.rf>manual</src.rf>
@@ -1704,7 +1704,7 @@
 <LM>w#w-ln95041-070-p5s3w12</LM>
 </w.rf>
 <form>užili</form>
-<tag lemma="užít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="užít" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95041-070-p5s3w13">
 <src.rf>manual</src.rf>
@@ -1842,7 +1842,7 @@
 <LM>w#w-ln95041-070-p5s4w13</LM>
 </w.rf>
 <form>zemřel</form>
-<tag lemma="zemřít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zemřít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95041-070-p5s4w14">
 <src.rf>manual</src.rf>
@@ -1911,7 +1911,7 @@
 <LM>w#w-ln95041-070-p5s5w5</LM>
 </w.rf>
 <form>odsoudila</form>
-<tag lemma="odsoudit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="odsoudit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95041-070-p5s5w6">
 <src.rf>manual</src.rf>

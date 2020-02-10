@@ -548,7 +548,7 @@
 <LM>w#w-wsj0957-001-p1s0W43</LM>
 </w.rf>
 <form>šla</form>
-<tag lemma="jít" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="jít" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0957-001-p1s0W44-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1573,7 +1573,7 @@
 <LM>w#w-wsj0957-001-p1s3W11</LM>
 </w.rf>
 <form>platila</form>
-<tag lemma="platit" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="platit" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0957-001-p1s3W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1786,7 +1786,7 @@
 <LM>w#w-wsj0957-001-p1s4W5</LM>
 </w.rf>
 <form>mělo</form>
-<tag lemma="mít" src="auto" recommended="1">VpNS---XR-AAI--</tag>
+<tag lemma="mít" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-wsj0957-001-p1s4W6-Ta">
 <src.rf>tagger-a</src.rf>

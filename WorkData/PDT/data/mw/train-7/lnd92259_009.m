@@ -19,7 +19,7 @@
 <LM>w#w-lnd92259-009-p1s1w1</LM>
 </w.rf>
 <form>VYHRÁL</form>
-<tag lemma="vyhrát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyhrát" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-009-p1s1w2">
 <src.rf>manual</src.rf>
@@ -156,7 +156,7 @@
 <LM>w#w-lnd92259-009-p1s1w17</LM>
 </w.rf>
 <form>volili</form>
-<tag lemma="volit_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="volit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92259-009-p1s1w18">
 <src.rf>manual</src.rf>
@@ -206,7 +206,7 @@
 <LM>w#w-lnd92259-009-p1s2w3</LM>
 </w.rf>
 <form>dostal</form>
-<tag lemma="dostat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dostat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-009-p1s2w4">
 <src.rf>manual</src.rf>
@@ -272,7 +272,7 @@
 <LM>w#w-lnd92259-009-p1s3w2</LM>
 </w.rf>
 <form>zahájil</form>
-<tag lemma="zahájit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zahájit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-009-p1s3w3">
 <src.rf>manual</src.rf>

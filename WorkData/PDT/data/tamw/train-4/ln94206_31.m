@@ -170,7 +170,7 @@
 <LM>w#w-ln94206-31-p2s1Bw11</LM>
 </w.rf>
 <form>vstoupilo</form>
-<tag lemma="vstoupit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vstoupit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94206-31-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -317,8 +317,8 @@
 </w.rf>
 <form>vyšli</form>
 <tag>
-<AM lemma="vyjít" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="vyjít_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+<AM lemma="vyjít" src="orig">VpMP----R-AAP--</AM>
+<AM lemma="vyjít" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94206-31-p2s2w9">
@@ -360,8 +360,8 @@
 </w.rf>
 <form>dostaly</form>
 <tag>
-<AM lemma="dostat" src="orig">VpTP---XR-AA---</AM>
-<AM lemma="dostat_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+<AM lemma="dostat" src="orig">VpTP----R-AAP--</AM>
+<AM lemma="dostat" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94206-31-p2s2w14">
@@ -480,8 +480,8 @@
 </w.rf>
 <form>vyjely</form>
 <tag>
-<AM lemma="vyjet" src="orig">VpTP---XR-AA---</AM>
-<AM lemma="vyjet_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+<AM lemma="vyjet" src="orig">VpTP----R-AAP--</AM>
+<AM lemma="vyjet" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94206-31-p2s3w5">
@@ -646,7 +646,7 @@
 <LM>w#w-ln94206-31-p2s4w10</LM>
 </w.rf>
 <form>připevnili</form>
-<tag lemma="připevnit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="připevnit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94206-31-p2s4w11">
 <src.rf>manual</src.rf>

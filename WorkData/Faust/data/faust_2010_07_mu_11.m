@@ -457,7 +457,7 @@
 </w.rf>
 <form>tlen</form>
 <tag>
-<AM lemma="tlít" recommended="1">VsYS---XX-AP---</AM>
+<AM lemma="tlít" recommended="1">VsYS----X-API--</AM>
 <AM lemma="tlen-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -686,7 +686,7 @@
 </w.rf>
 <form>šukal</form>
 <tag>
-<AM lemma="šukat_:T_,h" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="šukat_,h" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="šukal_,h">NNMS1-----A----</AM>
 <AM lemma="šukat_,h" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
@@ -1253,7 +1253,7 @@
 </w.rf>
 <form>měli</form>
 <tag>
-<AM lemma="mít" recommended="1">VpMP---XR-AA---</AM>
+<AM lemma="mít" recommended="1">VpMP----R-AAI--</AM>
 <AM lemma="mít" src="manual" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
@@ -1631,7 +1631,7 @@
 </w.rf>
 <form>zataženo</form>
 <tag>
-<AM lemma="zatáhnout" recommended="1">VsNS---XX-AP---</AM>
+<AM lemma="zatáhnout" recommended="1">VsNS----X-APP--</AM>
 <AM lemma="zataženo-1">NNNS1-----A----</AM>
 <AM lemma="zataženo-1">NNNS4-----A----</AM>
 <AM lemma="zataženo-1">NNNS5-----A----</AM>
@@ -2233,7 +2233,7 @@
 </w.rf>
 <form>měl</form>
 <tag>
-<AM lemma="mít" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="mít" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="mít" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
@@ -2905,7 +2905,7 @@
 </w.rf>
 <form>viděl</form>
 <tag>
-<AM lemma="vidět" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="vidět" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="vidět" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
@@ -3268,7 +3268,7 @@
 </w.rf>
 <form>zemřel</form>
 <tag>
-<AM lemma="zemřít" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="zemřít" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="zemřít" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
@@ -3488,7 +3488,7 @@
 </w.rf>
 <form>přikreslil</form>
 <tag>
-<AM lemma="přikreslit" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="přikreslit" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="přikreslit" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
@@ -3619,7 +3619,7 @@
 </w.rf>
 <form>nezafungovalo</form>
 <tag>
-<AM lemma="zafungovat_:W" recommended="1">VpNS---XR-NA---</AM>
+<AM lemma="zafungovat" recommended="1">VpNS----R-NAP--</AM>
 <AM lemma="zafungovat" src="manual" selected="1">VpNS----R-NAP--</AM>
 </tag>
 </m>
@@ -3966,7 +3966,7 @@
 <LM>w#w-mu_11-SCzechM-p1151-s1-w23</LM>
 </w.rf>
 <form>Požadováno</form>
-<tag lemma="požadovat_:T" recommended="1">VsNS---XX-AP---</tag>
+<tag lemma="požadovat" recommended="1">VsNS----X-API--</tag>
 </m>
 <m id="mu_11-SCzechM-p1151-s1-w24">
 <w.rf>
@@ -4110,7 +4110,7 @@
 </w.rf>
 <form>Našli</form>
 <tag>
-<AM lemma="najít" recommended="1">VpMP---XR-AA---</AM>
+<AM lemma="najít" recommended="1">VpMP----R-AAP--</AM>
 <AM lemma="najít" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
@@ -4255,7 +4255,7 @@
 <AM lemma="stop-4_,t_^(angl.,_jako_sloveso)">Vf--------A----</AM>
 <AM lemma="stopit_^(úplně_spotřebovat_topením)">Vi-S---2--A-P--</AM>
 <AM lemma="stopit_^(úplně_spotřebovat_topením)">Vi-S---3--A-P-4</AM>
-<AM lemma="stopnout_:W">VpYS---XR-AA--6</AM>
+<AM lemma="stopnout">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="mu_11-SCzechM-p1166-s1-w8">
@@ -5668,7 +5668,7 @@
 </w.rf>
 <form>obnovena</form>
 <tag>
-<AM lemma="obnovit_:W" recommended="1">VsQW---XX-AP---</AM>
+<AM lemma="obnovit" recommended="1">VsQW----X-APP--</AM>
 <AM lemma="obnovit" src="manual" selected="1">VsQW----X-APP--</AM>
 </tag>
 </m>

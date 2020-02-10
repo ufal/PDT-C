@@ -139,7 +139,7 @@
 <LM>w#w-mf920901-087-p1s1w16</LM>
 </w.rf>
 <form>nebyla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-mf920901-087-p1s1w17">
 <src.rf>manual</src.rf>
@@ -147,7 +147,7 @@
 <LM>w#w-mf920901-087-p1s1w17</LM>
 </w.rf>
 <form>privatizována</form>
-<tag lemma="privatizovat_:T_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="privatizovat" src="orig" selected="1">VsQW----X-APB--</tag>
 </m>
 <m id="m-mf920901-087-p1s1w18">
 <src.rf>manual</src.rf>
@@ -171,7 +171,7 @@
 <LM>w#w-mf920901-087-p1s1w20</LM>
 </w.rf>
 <form>převedena</form>
-<tag lemma="převést" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="převést" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf920901-087-p1s1w21">
 <src.rf>manual</src.rf>

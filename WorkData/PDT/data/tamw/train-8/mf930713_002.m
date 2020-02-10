@@ -160,7 +160,7 @@
 <LM>w#w-mf930713-002-p2s1w8</LM>
 </w.rf>
 <form>uvedeno</form>
-<tag lemma="uvést" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="uvést" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf930713-002-p2s1w9">
 <src.rf>manual</src.rf>
@@ -242,7 +242,7 @@
 <LM>w#w-mf930713-002-p2s2w3</LM>
 </w.rf>
 <form>řazeny</form>
-<tag lemma="řadit_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="řadit" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf930713-002-p2s2w4">
 <src.rf>manual</src.rf>
@@ -721,7 +721,7 @@
 <LM>w#w-mf930713-002-p4s1w49</LM>
 </w.rf>
 <form>přijímány</form>
-<tag lemma="přijímat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="přijímat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf930713-002-p4s1w50">
 <src.rf>manual</src.rf>
@@ -3749,7 +3749,7 @@
 <form>Smažil</form>
 <tag>
 <AM lemma="Smažil_;S" src="orig" selected="1">NNMS1-----A----</AM>
-<AM lemma="smažit_:T" src="auto" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="smažit" src="auto" recommended="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-mf930713-002-p21s2w3">
@@ -12668,7 +12668,7 @@
 <LM>w#w-mf930713-002-p78s1w11</LM>
 </w.rf>
 <form>doručena</form>
-<tag lemma="doručit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="doručit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf930713-002-p78s1w12">
 <src.rf>manual</src.rf>

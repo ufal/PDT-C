@@ -227,7 +227,7 @@
 <LM>w#w-wsj0522-001-p1s0W16</LM>
 </w.rf>
 <form>snížil</form>
-<tag lemma="snížit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="snížit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0522-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -372,7 +372,7 @@
 <LM>w#w-wsj0522-001-p1s0W30</LM>
 </w.rf>
 <form>uvedlo</form>
-<tag lemma="uvést" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj0522-001-p1s0W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -421,7 +421,7 @@
 <LM>w#w-wsj0522-001-p1s1W2</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj0522-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -472,7 +472,7 @@
 <LM>w#w-wsj0522-001-p1s1W5</LM>
 </w.rf>
 <form>odhadován</form>
-<tag lemma="odhadovat" src="auto" recommended="1">VsYS---XX-API--</tag>
+<tag lemma="odhadovat" src="auto" recommended="1">VsYS----X-API--</tag>
 </m>
 <m id="m-wsj0522-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -556,8 +556,8 @@
 <AM lemma="číslo" src="auto">NNNP4-----A----</AM>
 <AM lemma="číslo" src="auto">NNNP5-----A----</AM>
 <AM lemma="číslo" src="auto">NNNS2-----A----</AM>
-<AM lemma="čísnout-1_,h_^(praštit)" src="auto">VpQW---XR-AAP-1</AM>
-<AM lemma="čísnout-2_,a_^(přejet_hřebenem)" src="auto">VpQW---XR-AAP-1</AM>
+<AM lemma="čísnout-1_,h_^(praštit)" src="auto">VpQW----R-AAP-1</AM>
+<AM lemma="čísnout-2_,a_^(přejet_hřebenem)" src="auto">VpQW----R-AAP-1</AM>
 </tag>
 </m>
 <m id="m-wsj0522-001-p1s2W4-Ta">
@@ -589,7 +589,7 @@
 <LM>w#w-wsj0522-001-p1s2W6</LM>
 </w.rf>
 <form>nebyla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-NAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-wsj0522-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -687,7 +687,7 @@
 <LM>w#w-wsj0522-001-p1s2W14</LM>
 </w.rf>
 <form>narušila</form>
-<tag lemma="narušit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="narušit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0522-001-p1s2W15-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1414,7 +1414,7 @@
 <LM>w#w-ln95046-033-p4s2w12</LM>
 </w.rf>
 <form>splnilo</form>
-<tag lemma="splnit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="splnit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95046-033-p4s2w13">
 <src.rf>manual</src.rf>
@@ -1788,8 +1788,8 @@
 </w.rf>
 <form>pozvali</form>
 <tag>
-<AM lemma="pozvat" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="pozvat_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+<AM lemma="pozvat" src="orig">VpMP----R-AAP--</AM>
+<AM lemma="pozvat" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95046-033-p4s4w4">

@@ -85,7 +85,7 @@
 <LM>w#w-mf920901-011-p2s1w5</LM>
 </w.rf>
 <form>schválila</form>
-<tag lemma="schválit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="schválit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920901-011-p2s1w6">
 <src.rf>manual</src.rf>
@@ -721,8 +721,8 @@
 </w.rf>
 <form>určeno</form>
 <tag>
-<AM lemma="určit" src="orig">VsNS---XX-AP---</AM>
-<AM lemma="určit_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+<AM lemma="určit" src="orig">VsNS----X-APP--</AM>
+<AM lemma="určit" src="manual" selected="1">VsNS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-mf920901-011-p3s2w8">
@@ -920,8 +920,8 @@
 </w.rf>
 <form>určeno</form>
 <tag>
-<AM lemma="určit" src="orig">VsNS---XX-AP---</AM>
-<AM lemma="určit_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+<AM lemma="určit" src="orig">VsNS----X-APP--</AM>
+<AM lemma="určit" src="manual" selected="1">VsNS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-mf920901-011-p3s4w7">
@@ -1028,7 +1028,7 @@
 <LM>w#w-mf920901-011-p4s1w7</LM>
 </w.rf>
 <form>vyhrazeno</form>
-<tag lemma="vyhradit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="vyhradit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf920901-011-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1658,7 +1658,7 @@
 <LM>w#w-mf920901-011-p4s6w10</LM>
 </w.rf>
 <form>zvýhodněny</form>
-<tag lemma="zvýhodnit" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="zvýhodnit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-mf920901-011-p4s6w11">
 <src.rf>manual</src.rf>
@@ -1830,7 +1830,7 @@
 <LM>w#w-mf920901-011-p4s8w7</LM>
 </w.rf>
 <form>pozastaven</form>
-<tag lemma="pozastavit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="pozastavit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf920901-011-p4s8w8">
 <src.rf>manual</src.rf>

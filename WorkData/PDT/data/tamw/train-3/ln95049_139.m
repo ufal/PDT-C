@@ -473,7 +473,7 @@
 <LM>w#w-ln95049-139-p2s2w14</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95049-139-p2s2w15">
 <src.rf>manual</src.rf>
@@ -489,7 +489,7 @@
 <LM>w#w-ln95049-139-p2s2w16</LM>
 </w.rf>
 <form>otevřeno</form>
-<tag lemma="otevřít" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="otevřít" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95049-139-p2s2w17">
 <src.rf>manual</src.rf>
@@ -725,7 +725,7 @@
 <LM>w#w-ln95049-139-p2s4w5</LM>
 </w.rf>
 <form>mělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95049-139-p2s4w6">
 <src.rf>manual</src.rf>
@@ -741,7 +741,7 @@
 <LM>w#w-ln95049-139-p2s4w7</LM>
 </w.rf>
 <form>otevřeno</form>
-<tag lemma="otevřít" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="otevřít" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95049-139-p2s4w8">
 <src.rf>manual</src.rf>

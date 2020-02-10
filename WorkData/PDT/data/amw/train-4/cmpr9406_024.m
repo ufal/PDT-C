@@ -1223,7 +1223,7 @@
 <LM>w#w-cmpr9406-024-p8s11w3</LM>
 </w.rf>
 <form>chráněn</form>
-<tag lemma="chránit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="chránit" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-cmpr9406-024-p8s11w4">
 <src.rf>manual</src.rf>

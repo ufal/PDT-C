@@ -59,7 +59,7 @@
 <LM>w#w-ln94202-129-p1s1Aw6</LM>
 </w.rf>
 <form>přivítali</form>
-<tag lemma="přivítat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přivítat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94202-129-p1s1Aw7">
 <src.rf>manual</src.rf>

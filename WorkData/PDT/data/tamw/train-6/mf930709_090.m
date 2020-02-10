@@ -719,7 +719,7 @@
 <LM>w#w-mf930709-090-p3s2w2</LM>
 </w.rf>
 <form>postoupili</form>
-<tag lemma="postoupit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="postoupit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930709-090-p3s2w3">
 <src.rf>manual</src.rf>

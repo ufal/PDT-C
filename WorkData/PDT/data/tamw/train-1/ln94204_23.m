@@ -134,7 +134,7 @@
 <LM>w#w-ln94204-23-p2s1Bw4</LM>
 </w.rf>
 <form>neuskutečnil</form>
-<tag lemma="uskutečnit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="uskutečnit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-ln94204-23-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -264,7 +264,7 @@
 <LM>w#w-ln94204-23-p2s2w7</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94204-23-p2s2w8">
 <src.rf>manual</src.rf>
@@ -488,7 +488,7 @@
 <LM>w#w-ln94204-23-p2s2w34</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94204-23-p2s2w35">
 <src.rf>manual</src.rf>
@@ -496,7 +496,7 @@
 <LM>w#w-ln94204-23-p2s2w35</LM>
 </w.rf>
 <form>zaznamenána</form>
-<tag lemma="zaznamenat_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zaznamenat" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94204-23-p2s2w36">
 <src.rf>manual</src.rf>

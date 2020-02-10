@@ -27,7 +27,7 @@
 <LM>w#w-mf920902-148-p1s1w2</LM>
 </w.rf>
 <form>odmítli</form>
-<tag lemma="odmítnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="odmítnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-mf920902-148-p1s1w3">
 <src.rf>manual</src.rf>
@@ -87,7 +87,7 @@
 <LM>w#w-mf920902-148-p3s1w2</LM>
 </w.rf>
 <form>odmítli</form>
-<tag lemma="odmítnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="odmítnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-mf920902-148-p3s1w3">
 <src.rf>manual</src.rf>
@@ -214,7 +214,7 @@
 <LM>w#w-mf920902-148-p4s2w8</LM>
 </w.rf>
 <form>nenastoupilo</form>
-<tag lemma="nastoupit_:W" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="nastoupit" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-mf920902-148-p4s2w9">
 <src.rf>manual</src.rf>
@@ -288,7 +288,7 @@
 <LM>w#w-mf920902-148-p4s3w5</LM>
 </w.rf>
 <form>zúčastnili</form>
-<tag lemma="zúčastnit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zúčastnit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920902-148-p4s3w6">
 <src.rf>manual</src.rf>
@@ -416,7 +416,7 @@
 <LM>w#w-mf920902-148-p4s3w22</LM>
 </w.rf>
 <form>poskytla</form>
-<tag lemma="poskytnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="poskytnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-mf920902-148-p4s3w23">
 <src.rf>manual</src.rf>
@@ -509,7 +509,7 @@
 <LM>w#w-mf920902-148-p4s4w8</LM>
 </w.rf>
 <form>shromáždilo</form>
-<tag lemma="shromáždit_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="shromáždit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-148-p4s4w9">
 <src.rf>manual</src.rf>
@@ -573,7 +573,7 @@
 <LM>w#w-mf920902-148-p4s4w16</LM>
 </w.rf>
 <form>museli</form>
-<tag lemma="muset" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="muset" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf920902-148-p4s4w17">
 <src.rf>manual</src.rf>
@@ -589,7 +589,7 @@
 <LM>w#w-mf920902-148-p4s4w18</LM>
 </w.rf>
 <form>vytlačeni</form>
-<tag lemma="vytlačit_:W" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="vytlačit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-mf920902-148-p4s4w19">
 <src.rf>manual</src.rf>

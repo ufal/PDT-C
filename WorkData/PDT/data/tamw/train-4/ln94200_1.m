@@ -101,7 +101,7 @@
 <LM>w#w-ln94200-1-p2s1w9</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94200-1-p2s1w10">
 <src.rf>manual</src.rf>
@@ -117,7 +117,7 @@
 <LM>w#w-ln94200-1-p2s1w11</LM>
 </w.rf>
 <form>uznáván</form>
-<tag lemma="uznávat_:T_^(*4at)" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="uznávat_^(*4at)" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-ln94200-1-p2s1w12">
 <src.rf>manual</src.rf>
@@ -215,7 +215,7 @@
 <LM>w#w-ln94200-1-p2s2w6</LM>
 </w.rf>
 <form>získal</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-1-p2s2w7">
 <src.rf>manual</src.rf>
@@ -306,9 +306,9 @@
 </w.rf>
 <form>začal</form>
 <tag>
-<AM lemma="začít-1_^(začnout)" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="začít-1_^(začnout)_:W" src="manual">VpYS---XR-AA---</AM>
-<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_^(začnout)" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual">VpYS----R-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94200-1-p2s3w3">
@@ -367,7 +367,7 @@
 <LM>w#w-ln94200-1-p2s4w1</LM>
 </w.rf>
 <form>Byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94200-1-p2s4w2">
 <src.rf>manual</src.rf>
@@ -399,7 +399,7 @@
 <LM>w#w-ln94200-1-p2s4w5</LM>
 </w.rf>
 <form>maloval</form>
-<tag lemma="malovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="malovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94200-1-p2s4w6">
 <src.rf>manual</src.rf>
@@ -505,7 +505,7 @@
 <LM>w#w-ln94200-1-p2s5w3</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94200-1-p2s5w4">
 <src.rf>manual</src.rf>

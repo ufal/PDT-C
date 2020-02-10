@@ -80,7 +80,7 @@
 <LM>w#w-wsj0431-001-p1s0W7</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0431-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -107,7 +107,7 @@
 <LM>w#w-wsj0431-001-p1s0W10</LM>
 </w.rf>
 <form>souhlasila</form>
-<tag lemma="souhlasit" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="souhlasit" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0431-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -438,7 +438,7 @@
 <LM>w#w-wsj0431-001-p1s1W2</LM>
 </w.rf>
 <form>nebyly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-NAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpTP----R-NAI--</tag>
 </m>
 <m id="m-wsj0431-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -447,8 +447,8 @@
 </w.rf>
 <form>zveřejněny</form>
 <tag>
-<AM lemma="zveřejnit" src="auto" recommended="1">VsTP---XX-APP--</AM>
-<AM lemma="zveřejnět" src="auto">VsTP---XX-APP--</AM>
+<AM lemma="zveřejnit" src="auto" recommended="1">VsTP----X-APP--</AM>
+<AM lemma="zveřejnět" src="auto">VsTP----X-APP--</AM>
 </tag>
 </m>
 <m id="m-wsj0431-001-p1s1W4-Ta">
@@ -486,7 +486,7 @@
 <LM>w#w-wsj0431-001-p1s2W3</LM>
 </w.rf>
 <form>prohlásila</form>
-<tag lemma="prohlásit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="prohlásit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0431-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -559,7 +559,7 @@
 <LM>w#w-wsj0431-001-p1s2W9</LM>
 </w.rf>
 <form>začleněny</form>
-<tag lemma="začlenit" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="začlenit" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj0431-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>

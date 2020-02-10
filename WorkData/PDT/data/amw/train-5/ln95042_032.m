@@ -201,7 +201,7 @@
 <LM>w#w-ln95042-032-p2s2w1</LM>
 </w.rf>
 <form>Rozhodla</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln95042-032-p2s2w2">
 <src.rf>manual</src.rf>

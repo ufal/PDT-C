@@ -155,7 +155,7 @@
 <LM>w#w-mf930708-118-p2s1w13</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930708-118-p2s1w14">
 <src.rf>manual</src.rf>

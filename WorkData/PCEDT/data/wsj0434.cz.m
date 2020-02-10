@@ -1828,7 +1828,7 @@
 <LM>w#w-wsj0434-001-p1s7W34</LM>
 </w.rf>
 <form>ochránili</form>
-<tag lemma="ochránit" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="ochránit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj0434-001-p1s7W35-Ta">
 <src.rf>tagger-a</src.rf>

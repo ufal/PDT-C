@@ -156,7 +156,7 @@
 <LM>w#w-mf930709-061-p2s1Bw6</LM>
 </w.rf>
 <form>zůstaly</form>
-<tag lemma="zůstat" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zůstat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf930709-061-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -262,7 +262,7 @@
 <LM>w#w-mf930709-061-p2s2w3</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930709-061-p2s2w4">
 <src.rf>manual</src.rf>
@@ -533,7 +533,7 @@
 <LM>w#w-mf930709-061-p2s5w7</LM>
 </w.rf>
 <form>přihlásila</form>
-<tag lemma="přihlásit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="přihlásit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930709-061-p2s5w8">
 <src.rf>manual</src.rf>
@@ -655,7 +655,7 @@
 <LM>w#w-mf930709-061-p2s7w2</LM>
 </w.rf>
 <form>Požádali</form>
-<tag lemma="požádat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="požádat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930709-061-p2s7w3">
 <src.rf>manual</src.rf>
@@ -751,7 +751,7 @@
 <LM>w#w-mf930709-061-p2s7w15</LM>
 </w.rf>
 <form>udělila</form>
-<tag lemma="udělit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="udělit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930709-061-p2s7w16">
 <src.rf>manual</src.rf>
@@ -897,7 +897,7 @@
 <LM>w#w-mf930709-061-p2s8w7</LM>
 </w.rf>
 <form>uvolil</form>
-<tag lemma="uvolit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvolit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-061-p2s8w8">
 <src.rf>manual</src.rf>
@@ -1003,7 +1003,7 @@
 <LM>w#w-mf930709-061-p2s9w6</LM>
 </w.rf>
 <form>znevýhodněni</form>
-<tag lemma="znevýhodnit" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="znevýhodnit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-mf930709-061-p2s9w7">
 <src.rf>manual</src.rf>
@@ -1364,7 +1364,7 @@
 <LM>w#w-mf930709-061-p2s12w1</LM>
 </w.rf>
 <form>Poukazovali</form>
-<tag lemma="poukazovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="poukazovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930709-061-p2s12w2">
 <src.rf>manual</src.rf>
@@ -1428,7 +1428,7 @@
 <LM>w#w-mf930709-061-p2s12w9</LM>
 </w.rf>
 <form>nezměnilo</form>
-<tag lemma="změnit_:W" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="změnit" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-mf930709-061-p2s12w10">
 <src.rf>manual</src.rf>

@@ -107,7 +107,7 @@
 <LM>w#w-lnd92252-064-p1s1w12</LM>
 </w.rf>
 <form>zataženo</form>
-<tag lemma="zatáhnout" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zatáhnout" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92252-064-p1s1w13">
 <src.rf>manual</src.rf>
@@ -347,7 +347,7 @@
 <LM>w#w-lnd92252-064-p1s1w42</LM>
 </w.rf>
 <form>zataženo</form>
-<tag lemma="zatáhnout" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zatáhnout" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92252-064-p1s1w43">
 <src.rf>manual</src.rf>
@@ -443,7 +443,7 @@
 <LM>w#w-lnd92252-064-p1s1w54</LM>
 </w.rf>
 <form>zataženo</form>
-<tag lemma="zatáhnout" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zatáhnout" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92252-064-p1s1w55">
 <src.rf>manual</src.rf>
@@ -547,7 +547,7 @@
 <LM>w#w-lnd92252-064-p1s1w67</LM>
 </w.rf>
 <form>zataženo</form>
-<tag lemma="zatáhnout" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zatáhnout" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92252-064-p1s1w68">
 <src.rf>manual</src.rf>
@@ -795,7 +795,7 @@
 <LM>w#w-lnd92252-064-p1s1w98</LM>
 </w.rf>
 <form>zataženo</form>
-<tag lemma="zatáhnout" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zatáhnout" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92252-064-p1s1w99">
 <src.rf>manual</src.rf>
@@ -1059,7 +1059,7 @@
 <LM>w#w-lnd92252-064-p1s1w131</LM>
 </w.rf>
 <form>zataženo</form>
-<tag lemma="zatáhnout" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zatáhnout" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92252-064-p1s1w132">
 <src.rf>manual</src.rf>
@@ -1147,7 +1147,7 @@
 <LM>w#w-lnd92252-064-p1s1w142</LM>
 </w.rf>
 <form>zataženo</form>
-<tag lemma="zatáhnout" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zatáhnout" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92252-064-p1s1w143">
 <src.rf>manual</src.rf>

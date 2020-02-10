@@ -128,7 +128,7 @@
 <LM>w#w-ln94200-140-p2s1w4</LM>
 </w.rf>
 <form>uváděna</form>
-<tag lemma="uvádět_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="uvádět" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-ln94200-140-p2s1w5">
 <src.rf>manual</src.rf>
@@ -208,7 +208,7 @@
 <LM>w#w-ln94200-140-p2s1w14</LM>
 </w.rf>
 <form>proběhly</form>
-<tag lemma="proběhnout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="proběhnout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-ln94200-140-p2s1w15">
 <src.rf>manual</src.rf>
@@ -438,7 +438,7 @@
 <LM>w#w-ln94200-140-p3s2w1</LM>
 </w.rf>
 <form>Nahradily</form>
-<tag lemma="nahradit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="nahradit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94200-140-p3s2w2">
 <src.rf>manual</src.rf>
@@ -920,7 +920,7 @@
 <LM>w#w-ln94200-140-p4s3w6</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94200-140-p4s3w7">
 <src.rf>manual</src.rf>
@@ -1000,7 +1000,7 @@
 <LM>w#w-ln94200-140-p4s3w16</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94200-140-p4s3w17">
 <src.rf>manual</src.rf>

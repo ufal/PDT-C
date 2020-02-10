@@ -166,7 +166,7 @@
 <LM>w#w-lnd94103-099-p1s2w14</LM>
 </w.rf>
 <form>konal</form>
-<tag lemma="konat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="konat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-099-p1s2w15">
 <src.rf>manual</src.rf>
@@ -257,7 +257,7 @@
 <LM>w#w-lnd94103-099-p1s3w3</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-099-p1s3w4">
 <src.rf>manual</src.rf>
@@ -321,7 +321,7 @@
 <LM>w#w-lnd94103-099-p1s3w11</LM>
 </w.rf>
 <form>uváděna</form>
-<tag lemma="uvádět_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="uvádět" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-lnd94103-099-p1s3w12">
 <src.rf>manual</src.rf>
@@ -355,7 +355,7 @@
 <LM>w#w-lnd94103-099-p1s4w3</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-099-p1s4w4">
 <src.rf>manual</src.rf>
@@ -459,7 +459,7 @@
 <LM>w#w-lnd94103-099-p1s4w16</LM>
 </w.rf>
 <form>navrhl</form>
-<tag lemma="navrhnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="navrhnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd94103-099-p1s4w17">
 <src.rf>manual</src.rf>
@@ -517,7 +517,7 @@
 <LM>w#w-lnd94103-099-p1s5w4</LM>
 </w.rf>
 <form>plánována</form>
-<tag lemma="plánovat_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="plánovat" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-lnd94103-099-p1s5w5">
 <src.rf>manual</src.rf>
@@ -777,9 +777,9 @@
 </w.rf>
 <form>začal</form>
 <tag>
-<AM lemma="začít-1_^(začnout)" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="začít-1_^(začnout)_:W" src="manual">VpYS---XR-AA---</AM>
-<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_^(začnout)" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual">VpYS----R-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd94103-099-p1s7w4">
@@ -860,7 +860,7 @@
 <LM>w#w-lnd94103-099-p1s7w13</LM>
 </w.rf>
 <form>obtěžoval</form>
-<tag lemma="obtěžovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="obtěžovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-099-p1s7w14">
 <src.rf>manual</src.rf>

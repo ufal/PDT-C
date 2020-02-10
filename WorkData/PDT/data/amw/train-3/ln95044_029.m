@@ -119,7 +119,7 @@
 <LM>w#w-ln95044-029-p2s1Bw9</LM>
 </w.rf>
 <form>dospěla</form>
-<tag lemma="dospět" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="dospět" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95044-029-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -321,7 +321,7 @@
 <LM>w#w-ln95044-029-p2s2w5</LM>
 </w.rf>
 <form>probojoval</form>
-<tag lemma="probojovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="probojovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95044-029-p2s2w6">
 <src.rf>manual</src.rf>
@@ -552,7 +552,7 @@
 <LM>w#w-ln95044-029-p2s2w32</LM>
 </w.rf>
 <form>utrpěli</form>
-<tag lemma="utrpět" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="utrpět" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95044-029-p2s2w33">
 <src.rf>manual</src.rf>

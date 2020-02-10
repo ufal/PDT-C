@@ -191,7 +191,7 @@
 <LM>w#w-ln94200-19-p2s1Bw16</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94200-19-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -207,7 +207,7 @@
 <LM>w#w-ln94200-19-p2s1Bw18</LM>
 </w.rf>
 <form>uzavřena</form>
-<tag lemma="uzavřít" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="uzavřít" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94200-19-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -249,7 +249,7 @@
 <LM>w#w-ln94200-19-p2s2w4</LM>
 </w.rf>
 <form>došlo</form>
-<tag lemma="dojít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="dojít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-19-p2s2w5">
 <src.rf>manual</src.rf>
@@ -313,7 +313,7 @@
 <LM>w#w-ln94200-19-p2s2w13</LM>
 </w.rf>
 <form>dostaly</form>
-<tag lemma="dostat" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="dostat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94200-19-p2s2w14">
 <src.rf>manual</src.rf>
@@ -435,7 +435,7 @@
 <LM>w#w-ln94200-19-p3s1w9</LM>
 </w.rf>
 <form>sešly</form>
-<tag lemma="sejít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="sejít" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94200-19-p3s1w10">
 <src.rf>manual</src.rf>
@@ -717,7 +717,7 @@
 <LM>w#w-ln94200-19-p3s2w4</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94200-19-p3s2w5">
 <src.rf>manual</src.rf>
@@ -725,7 +725,7 @@
 <LM>w#w-ln94200-19-p3s2w5</LM>
 </w.rf>
 <form>uloženo</form>
-<tag lemma="uložit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="uložit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94200-19-p3s2w6">
 <src.rf>manual</src.rf>
@@ -823,7 +823,7 @@
 <LM>w#w-ln94200-19-p4s1w1</LM>
 </w.rf>
 <form>Došlo</form>
-<tag lemma="dojít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="dojít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-19-p4s1w2">
 <src.rf>manual</src.rf>

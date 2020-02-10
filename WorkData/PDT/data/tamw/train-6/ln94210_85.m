@@ -213,7 +213,7 @@
 <LM>w#w-ln94210-85-p1s2w9</LM>
 </w.rf>
 <form>oznámil</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94210-85-p1s2w10">
 <src.rf>manual</src.rf>

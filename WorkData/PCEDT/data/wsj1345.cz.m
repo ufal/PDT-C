@@ -69,7 +69,7 @@
 <LM>w#w-wsj1345-001-p1s0W6</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1345-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -763,7 +763,7 @@
 <LM>w#w-wsj1345-001-p1s1W20</LM>
 </w.rf>
 <form>činila</form>
-<tag lemma="činit" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="činit" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj1345-001-p1s1W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -951,7 +951,7 @@
 <LM>w#w-wsj1345-001-p1s2W2</LM>
 </w.rf>
 <form>stouply</form>
-<tag lemma="stoupnout" src="auto" recommended="1">VpTP---XR-AAP-1</tag>
+<tag lemma="stoupnout" src="auto" recommended="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-wsj1345-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1300,7 +1300,7 @@
 <LM>w#w-wsj1345-001-p1s3W19</LM>
 </w.rf>
 <form>naplánováno</form>
-<tag lemma="naplánovat" src="auto" recommended="1">VsNS---XX-APP--</tag>
+<tag lemma="naplánovat" src="auto" recommended="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-wsj1345-001-p1s3W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1626,7 +1626,7 @@
 <LM>w#w-wsj1345-001-p1s4W6</LM>
 </w.rf>
 <form>klesl</form>
-<tag lemma="klesnout" src="auto" recommended="1">VpYS---XR-AAP-1</tag>
+<tag lemma="klesnout" src="auto" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-wsj1345-001-p1s4W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1895,7 +1895,7 @@
 <LM>w#w-wsj1345-001-p1s5W2</LM>
 </w.rf>
 <form>vzrostly</form>
-<tag lemma="vzrůst-1" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="vzrůst-1" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1345-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>

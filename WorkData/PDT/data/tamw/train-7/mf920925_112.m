@@ -184,7 +184,7 @@
 <LM>w#w-mf920925-112-p2s2w11</LM>
 </w.rf>
 <form>začala</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920925-112-p2s2w12">
 <src.rf>manual</src.rf>
@@ -530,7 +530,7 @@
 <LM>w#w-mf920925-112-p2s4w14</LM>
 </w.rf>
 <form>připomněl</form>
-<tag lemma="připomenout" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="připomenout" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920925-112-p2s4w15">
 <src.rf>manual</src.rf>
@@ -594,7 +594,7 @@
 <LM>w#w-mf920925-112-p2s4w22</LM>
 </w.rf>
 <form>přivítal</form>
-<tag lemma="přivítat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přivítat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920925-112-p2s4w23">
 <src.rf>manual</src.rf>
@@ -660,7 +660,7 @@
 <LM>w#w-mf920925-112-p3s1w5</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920925-112-p3s1w6">
 <src.rf>manual</src.rf>
@@ -822,7 +822,7 @@
 <LM>w#w-mf920925-112-p3s2w9</LM>
 </w.rf>
 <form>hovořilo</form>
-<tag lemma="hovořit_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="hovořit" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920925-112-p3s2w10">
 <src.rf>manual</src.rf>

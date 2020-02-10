@@ -252,7 +252,7 @@
 <LM>w#w-lnd92257-064-p3s2w11</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92257-064-p3s2w12">
 <src.rf>manual</src.rf>
@@ -672,7 +672,7 @@
 <LM>w#w-lnd92257-064-p3s4w21</LM>
 </w.rf>
 <form>bydlel</form>
-<tag lemma="bydlet" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="bydlet" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92257-064-p3s4w22">
 <src.rf>manual</src.rf>
@@ -688,7 +688,7 @@
 <LM>w#w-lnd92257-064-p3s4w23</LM>
 </w.rf>
 <form>pracoval</form>
-<tag lemma="pracovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="pracovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92257-064-p3s4w24">
 <src.rf>manual</src.rf>
@@ -704,7 +704,7 @@
 <LM>w#w-lnd92257-064-p3s4w25</LM>
 </w.rf>
 <form>podnikal</form>
-<tag lemma="podnikat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="podnikat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92257-064-p3s4w26">
 <src.rf>manual</src.rf>
@@ -1114,7 +1114,7 @@
 <LM>w#w-lnd92257-064-p4s2w42</LM>
 </w.rf>
 <form>rozdělovali</form>
-<tag lemma="rozdělovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="rozdělovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92257-064-p4s2w43">
 <src.rf>manual</src.rf>
@@ -1316,7 +1316,7 @@
 <LM>w#w-lnd92257-064-p4s3w24</LM>
 </w.rf>
 <form>chtěl</form>
-<tag lemma="chtít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="chtít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92257-064-p4s3w25">
 <src.rf>manual</src.rf>
@@ -1364,7 +1364,7 @@
 <LM>w#w-lnd92257-064-p4s3w31</LM>
 </w.rf>
 <form>financoval</form>
-<tag lemma="financovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="financovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92257-064-p4s3w32">
 <src.rf>manual</src.rf>

@@ -467,7 +467,7 @@
 <LM>w#w-wsj1290-001-p1s2W5</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1290-001-p1s2W6-Ta">
 <src.rf>tagger-a</src.rf>

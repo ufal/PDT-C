@@ -401,7 +401,7 @@
 <LM>w#w-ln94200-139-p2s3w10</LM>
 </w.rf>
 <form>nestaraly</form>
-<tag lemma="starat_:T_^(se)" src="auto" selected="1">VpTP---XR-NA---</tag>
+<tag lemma="starat_^(se)" src="auto" selected="1">VpTP----R-NAI--</tag>
 </m>
 <m id="m-ln94200-139-p2s3w11">
 <src.rf>manual</src.rf>
@@ -812,7 +812,7 @@
 <LM>w#w-ln94200-139-p3s1w4</LM>
 </w.rf>
 <form>vyjádřil</form>
-<tag lemma="vyjádřit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyjádřit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-139-p3s1w5">
 <src.rf>manual</src.rf>
@@ -1051,7 +1051,7 @@
 <LM>w#w-ln94200-139-p3s3w6</LM>
 </w.rf>
 <form>platili</form>
-<tag lemma="platit_:T" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="platit" src="auto" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94200-139-p3s3w7">
 <src.rf>manual</src.rf>
@@ -1182,7 +1182,7 @@
 <LM>w#w-ln94200-139-p3s3w23</LM>
 </w.rf>
 <form>jednalo</form>
-<tag lemma="jednat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="jednat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94200-139-p3s3w24">
 <src.rf>manual</src.rf>

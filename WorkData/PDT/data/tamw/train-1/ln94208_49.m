@@ -127,7 +127,7 @@
 <LM>w#w-ln94208-49-p2s1Bw7</LM>
 </w.rf>
 <form>projevilo</form>
-<tag lemma="projevit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="projevit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94208-49-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -361,7 +361,7 @@
 <LM>w#w-ln94208-49-p2s2w9</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94208-49-p2s2w10">
 <src.rf>manual</src.rf>
@@ -526,7 +526,7 @@
 <LM>w#w-ln94208-49-p2s3w5</LM>
 </w.rf>
 <form>připraveno</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="připravit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94208-49-p2s3w6">
 <src.rf>manual</src.rf>

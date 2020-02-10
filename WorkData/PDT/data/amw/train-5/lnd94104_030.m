@@ -99,7 +99,7 @@
 <LM>w#w-lnd94104-030-p1s1w11</LM>
 </w.rf>
 <form>nedostávali</form>
-<tag lemma="dostávat_:T_^(*4at)" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="dostávat_^(*4at)" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-lnd94104-030-p1s1w12">
 <src.rf>manual</src.rf>
@@ -117,7 +117,7 @@
 <LM>w#w-lnd94104-030-p1s2w1</LM>
 </w.rf>
 <form>Projevovali</form>
-<tag lemma="projevovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="projevovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd94104-030-p1s2w2">
 <src.rf>manual</src.rf>

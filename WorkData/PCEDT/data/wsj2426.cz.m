@@ -115,7 +115,7 @@
 <LM>w#w-wsj2426-001-p1s0W10</LM>
 </w.rf>
 <form>řekla</form>
-<tag lemma="říci" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2426-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -365,7 +365,7 @@
 <LM>w#w-wsj2426-001-p1s0W28</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj2426-001-p1s0W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -811,7 +811,7 @@
 <LM>w#w-wsj2426-001-p1s2W3</LM>
 </w.rf>
 <form>nahradilo</form>
-<tag lemma="nahradit" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="nahradit" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj2426-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1119,7 +1119,7 @@
 <LM>w#w-wsj2426-001-p1s3W3</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2426-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1261,7 +1261,7 @@
 <LM>w#w-wsj2426-001-p1s3W15</LM>
 </w.rf>
 <form>nahradily</form>
-<tag lemma="nahradit" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="nahradit" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj2426-001-p1s3W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2151,7 +2151,7 @@
 <LM>w#w-wsj2426-001-p1s6W9</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2426-001-p1s6W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2189,7 +2189,7 @@
 <LM>w#w-wsj2426-001-p1s6W13</LM>
 </w.rf>
 <form>nebyl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-NAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-wsj2426-001-p1s6W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2273,7 +2273,7 @@
 <LM>w#w-wsj2426-001-p1s6W20</LM>
 </w.rf>
 <form>zajímaly</form>
-<tag lemma="zajímat" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag lemma="zajímat" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj2426-001-p1s6W21-Ta">
 <src.rf>tagger-a</src.rf>

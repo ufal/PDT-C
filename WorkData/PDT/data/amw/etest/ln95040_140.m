@@ -567,8 +567,8 @@
 </w.rf>
 <form>měl</form>
 <tag>
-<AM lemma="mít" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="mít_:T" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="mít" src="orig">VpYS----R-AAI--</AM>
+<AM lemma="mít" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln95040-140-p4s1w18">
@@ -691,7 +691,7 @@
 <LM>w#w-ln95040-140-p4s2w8</LM>
 </w.rf>
 <form>přenášela</form>
-<tag lemma="přenášet_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="přenášet" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95040-140-p4s2w9">
 <src.rf>manual</src.rf>
@@ -752,7 +752,7 @@
 <LM>w#w-ln95040-140-p4s3w1</LM>
 </w.rf>
 <form>Vyžadovalo</form>
-<tag lemma="vyžadovat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vyžadovat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95040-140-p4s3w2">
 <src.rf>manual</src.rf>
@@ -1056,7 +1056,7 @@
 <LM>w#w-ln95040-140-p4s5w18</LM>
 </w.rf>
 <form>vysvětlil</form>
-<tag lemma="vysvětlit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vysvětlit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-140-p4s5w19">
 <src.rf>manual</src.rf>
@@ -1498,7 +1498,7 @@
 <LM>w#w-ln95040-140-p4s7w25</LM>
 </w.rf>
 <form>přijímala</form>
-<tag lemma="přijímat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="přijímat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95040-140-p4s7w26">
 <src.rf>manual</src.rf>
@@ -1796,7 +1796,7 @@
 <LM>w#w-ln95040-140-p4s9w10</LM>
 </w.rf>
 <form>svolán</form>
-<tag lemma="svolat_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="svolat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95040-140-p4s9w11">
 <src.rf>manual</src.rf>
@@ -1862,7 +1862,7 @@
 <LM>w#w-ln95040-140-p4s10w6</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95040-140-p4s10w7">
 <src.rf>manual</src.rf>
@@ -2003,7 +2003,7 @@
 <LM>w#w-ln95040-140-p4s11Aw7</LM>
 </w.rf>
 <form>vyslovil</form>
-<tag lemma="vyslovit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyslovit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-140-p4s11Aw8">
 <src.rf>manual</src.rf>
@@ -2209,7 +2209,7 @@
 <LM>w#w-ln95040-140-p4s11Bw15</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95040-140-p4s11Bw16">
 <src.rf>manual</src.rf>
@@ -2265,7 +2265,7 @@
 <LM>w#w-ln95040-140-p4s11Bw22</LM>
 </w.rf>
 <form>šlo</form>
-<tag lemma="jít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="jít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95040-140-p4s11Bw23">
 <src.rf>manual</src.rf>
@@ -2435,7 +2435,7 @@
 <LM>w#w-ln95040-140-p4s12w13</LM>
 </w.rf>
 <form>nepřijímala</form>
-<tag lemma="přijímat_:T" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="přijímat" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-ln95040-140-p4s12w14">
 <src.rf>manual</src.rf>
@@ -2563,7 +2563,7 @@
 <LM>w#w-ln95040-140-p4s13w15</LM>
 </w.rf>
 <form>zaváděli</form>
-<tag lemma="zavádět_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zavádět" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95040-140-p4s13w16">
 <src.rf>manual</src.rf>
@@ -2604,8 +2604,8 @@
 </w.rf>
 <form>uvedl</form>
 <tag>
-<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="uvést" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="uvést" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95040-140-p4s13w21">
@@ -2862,7 +2862,7 @@
 <LM>w#w-ln95040-140-p4s14w31</LM>
 </w.rf>
 <form>schvalovala</form>
-<tag lemma="schvalovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="schvalovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95040-140-p4s14w32">
 <src.rf>manual</src.rf>

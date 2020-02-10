@@ -389,7 +389,7 @@
 <LM>w#w-ln94208-143-p2s2w13</LM>
 </w.rf>
 <form>neměly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-NA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-NAI--</tag>
 </m>
 <m id="m-ln94208-143-p2s2w14">
 <src.rf>manual</src.rf>
@@ -855,7 +855,7 @@
 <LM>w#w-ln94208-143-p4s1w8</LM>
 </w.rf>
 <form>nucena</form>
-<tag lemma="nutit_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="nutit" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-ln94208-143-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1116,7 +1116,7 @@
 <LM>w#w-ln94208-143-p4s2w23</LM>
 </w.rf>
 <form>snížena</form>
-<tag lemma="snížit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="snížit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94208-143-p4s2w24">
 <src.rf>manual</src.rf>
@@ -1425,7 +1425,7 @@
 <LM>w#w-ln94208-143-p5s1w6</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94208-143-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1441,7 +1441,7 @@
 <LM>w#w-ln94208-143-p5s1w8</LM>
 </w.rf>
 <form>dosaženo</form>
-<tag lemma="dosáhnout" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="dosáhnout" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94208-143-p5s1w9">
 <src.rf>manual</src.rf>

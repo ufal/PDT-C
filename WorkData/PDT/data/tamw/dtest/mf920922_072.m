@@ -530,7 +530,7 @@
 <LM>w#w-mf920922-072-p2s2w9</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf920922-072-p2s2w10">
 <src.rf>manual</src.rf>
@@ -538,7 +538,7 @@
 <LM>w#w-mf920922-072-p2s2w10</LM>
 </w.rf>
 <form>odloženy</form>
-<tag lemma="odložit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="odložit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-mf920922-072-p2s2w11">
 <src.rf>manual</src.rf>

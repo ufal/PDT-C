@@ -173,7 +173,7 @@
 <LM>w#w-ln95041-113-p2s1Bw12</LM>
 </w.rf>
 <form>nabízen</form>
-<tag lemma="nabízet_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="nabízet" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-ln95041-113-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -213,7 +213,7 @@
 <LM>w#w-ln95041-113-p2s1Bw17</LM>
 </w.rf>
 <form>neprojevil</form>
-<tag lemma="projevit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="projevit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-ln95041-113-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -287,7 +287,7 @@
 <LM>w#w-ln95041-113-p2s2w5</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95041-113-p2s2w6">
 <src.rf>manual</src.rf>
@@ -295,7 +295,7 @@
 <LM>w#w-ln95041-113-p2s2w6</LM>
 </w.rf>
 <form>nabídnuto</form>
-<tag lemma="nabídnout_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="nabídnout" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95041-113-p2s2w7">
 <src.rf>manual</src.rf>
@@ -486,7 +486,7 @@
 <LM>w#w-ln95041-113-p2s3w7</LM>
 </w.rf>
 <form>nerozhodl</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpYS---XR-NA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpYS----R-NAP-1</tag>
 </m>
 <m id="m-ln95041-113-p2s3w8">
 <src.rf>manual</src.rf>
@@ -520,7 +520,7 @@
 <LM>w#w-ln95041-113-p3s1w3</LM>
 </w.rf>
 <form>ukončila</form>
-<tag lemma="ukončit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="ukončit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95041-113-p3s1w4">
 <src.rf>manual</src.rf>
@@ -765,7 +765,7 @@
 <LM>w#w-ln95041-113-p3s2w25</LM>
 </w.rf>
 <form>exportoval</form>
-<tag lemma="exportovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="exportovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln95041-113-p3s2w26">
 <src.rf>manual</src.rf>
@@ -831,7 +831,7 @@
 <LM>w#w-ln95041-113-p3s3w2</LM>
 </w.rf>
 <form>vyrobila</form>
-<tag lemma="vyrobit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyrobit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95041-113-p3s3w3">
 <src.rf>manual</src.rf>

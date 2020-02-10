@@ -110,8 +110,8 @@
 </w.rf>
 <form>uzavřela</form>
 <tag>
-<AM lemma="uzavřít" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="uzavřít_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="uzavřít" src="orig">VpQW----R-AAP--</AM>
+<AM lemma="uzavřít" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94200-5-p2s1w11">
@@ -387,7 +387,7 @@
 <LM>w#w-ln94200-5-p3s1w5</LM>
 </w.rf>
 <form>volil</form>
-<tag lemma="volit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="volit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94200-5-p3s1w6">
 <src.rf>manual</src.rf>

@@ -107,8 +107,8 @@
 </w.rf>
 <form>přijala</form>
 <tag>
-<AM lemma="přijmout" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="přijmout_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="přijmout" src="auto">VpQW----R-AAP--</AM>
+<AM lemma="přijmout" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920901-071-p2s2w9">
@@ -173,7 +173,7 @@
 <LM>w#w-mf920901-071-p2s2w16</LM>
 </w.rf>
 <form>realizovala</form>
-<tag lemma="realizovat_:T_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="realizovat" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-mf920901-071-p2s2w17">
 <src.rf>manual</src.rf>
@@ -806,7 +806,7 @@
 <LM>w#w-mf920901-071-p2s6w1</LM>
 </w.rf>
 <form>Zdůraznili</form>
-<tag lemma="zdůraznit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zdůraznit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920901-071-p2s6w2">
 <src.rf>manual</src.rf>

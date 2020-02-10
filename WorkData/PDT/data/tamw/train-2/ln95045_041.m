@@ -202,7 +202,7 @@
 <LM>w#w-ln95045-041-p2s1w17</LM>
 </w.rf>
 <form>začalo</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-041-p2s1w18">
 <src.rf>manual</src.rf>
@@ -287,7 +287,7 @@
 <LM>w#w-ln95045-041-p2s2w3</LM>
 </w.rf>
 <form>postoupila</form>
-<tag lemma="postoupit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="postoupit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95045-041-p2s2w4">
 <src.rf>manual</src.rf>
@@ -554,7 +554,7 @@
 <LM>w#w-ln95045-041-p2s3w24</LM>
 </w.rf>
 <form>prošly</form>
-<tag lemma="projít_^(i_uplynout_[o_čase])" src="auto" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="projít_^(i_uplynout_[o_čase])" src="auto" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95045-041-p2s3w25">
 <src.rf>manual</src.rf>
@@ -766,7 +766,7 @@
 <LM>w#w-ln95045-041-p2s5w3</LM>
 </w.rf>
 <form>ohlášeno</form>
-<tag lemma="ohlásit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="ohlásit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95045-041-p2s5w4">
 <src.rf>manual</src.rf>

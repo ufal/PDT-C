@@ -230,7 +230,7 @@
 <LM>w#w-mf930713-072-p2s1Bw18</LM>
 </w.rf>
 <form>poklesl</form>
-<tag lemma="poklesnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="poklesnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf930713-072-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -957,7 +957,7 @@
 <LM>w#w-mf930713-072-p2s4w6</LM>
 </w.rf>
 <form>poklesl</form>
-<tag lemma="poklesnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="poklesnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf930713-072-p2s4w7">
 <src.rf>manual</src.rf>

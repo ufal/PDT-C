@@ -91,7 +91,7 @@
 <LM>w#w-ln94203-105-p2s1Bw4</LM>
 </w.rf>
 <form>nabídla</form>
-<tag lemma="nabídnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="nabídnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln94203-105-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -643,7 +643,7 @@
 <LM>w#w-ln94203-105-p2s3w22</LM>
 </w.rf>
 <form>přivítal</form>
-<tag lemma="přivítat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přivítat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94203-105-p2s3w23">
 <src.rf>manual</src.rf>
@@ -667,7 +667,7 @@
 <LM>w#w-ln94203-105-p2s3w25</LM>
 </w.rf>
 <form>dodal</form>
-<tag lemma="dodat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dodat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94203-105-p2s3w26">
 <src.rf>manual</src.rf>
@@ -881,7 +881,7 @@
 <LM>w#w-ln94203-105-p2s4w10</LM>
 </w.rf>
 <form>vyhrál</form>
-<tag lemma="vyhrát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyhrát" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94203-105-p2s4w11">
 <src.rf>manual</src.rf>

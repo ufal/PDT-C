@@ -35,7 +35,7 @@
 <LM>w#w-ln94202-68-p1s1w3</LM>
 </w.rf>
 <form>schválila</form>
-<tag lemma="schválit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="schválit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94202-68-p1s1w4">
 <src.rf>manual</src.rf>
@@ -175,7 +175,7 @@
 <LM>w#w-ln94202-68-p2s1Bw6</LM>
 </w.rf>
 <form>schválila</form>
-<tag lemma="schválit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="schválit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94202-68-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -585,7 +585,7 @@
 <LM>w#w-ln94202-68-p3s1w8</LM>
 </w.rf>
 <form>ratifikovala</form>
-<tag lemma="ratifikovat_:T_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="ratifikovat" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-ln94202-68-p3s1w9">
 <src.rf>manual</src.rf>
@@ -651,7 +651,7 @@
 <LM>w#w-ln94202-68-p4s1w3</LM>
 </w.rf>
 <form>oznámil</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94202-68-p4s1w4">
 <src.rf>manual</src.rf>
@@ -840,7 +840,7 @@
 <LM>w#w-ln94202-68-p4s1w25</LM>
 </w.rf>
 <form>ubodali</form>
-<tag lemma="ubodat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="ubodat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94202-68-p4s1w26">
 <src.rf>manual</src.rf>
@@ -930,7 +930,7 @@
 <LM>w#w-ln94202-68-p4s2w4</LM>
 </w.rf>
 <form>přihlásilo</form>
-<tag lemma="přihlásit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="přihlásit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94202-68-p4s2w5">
 <src.rf>manual</src.rf>
@@ -1175,7 +1175,7 @@
 <LM>w#w-ln94202-68-p5s1w7</LM>
 </w.rf>
 <form>setkali</form>
-<tag lemma="setkat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="setkat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94202-68-p5s1w8">
 <src.rf>manual</src.rf>
@@ -1659,7 +1659,7 @@
 <LM>w#w-ln94202-68-p5s4w6</LM>
 </w.rf>
 <form>sdělil</form>
-<tag lemma="sdělit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sdělit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94202-68-p5s4w7">
 <src.rf>manual</src.rf>

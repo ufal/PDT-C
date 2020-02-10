@@ -414,7 +414,7 @@
 <LM>w#w-mf920925-081-p2s3w13</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920925-081-p2s3w14">
 <src.rf>manual</src.rf>
@@ -712,7 +712,7 @@
 <LM>w#w-mf920925-081-p2s5w9</LM>
 </w.rf>
 <form>předcházela</form>
-<tag lemma="předcházet_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="předcházet" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920925-081-p2s5w10">
 <src.rf>manual</src.rf>
@@ -885,7 +885,7 @@
 <LM>w#w-mf920925-081-p2s6w5</LM>
 </w.rf>
 <form>ocenil</form>
-<tag lemma="ocenit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="ocenit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920925-081-p2s6w6">
 <src.rf>manual</src.rf>
@@ -933,7 +933,7 @@
 <LM>w#w-mf920925-081-p2s6w11</LM>
 </w.rf>
 <form>vyzvala</form>
-<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920925-081-p2s6w12">
 <src.rf>manual</src.rf>
@@ -1016,7 +1016,7 @@
 <LM>w#w-mf920925-081-p2s6w21</LM>
 </w.rf>
 <form>připraven</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="připravit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf920925-081-p2s6w22">
 <src.rf>manual</src.rf>

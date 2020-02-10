@@ -285,7 +285,7 @@
 <LM>w#w-mf930701-064-p2s2w5</LM>
 </w.rf>
 <form>padl</form>
-<tag lemma="padnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="padnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf930701-064-p2s2w6">
 <src.rf>manual</src.rf>
@@ -575,7 +575,7 @@
 <LM>w#w-mf930701-064-p2s3w5</LM>
 </w.rf>
 <form>postavila</form>
-<tag lemma="postavit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="postavit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930701-064-p2s3w6">
 <src.rf>manual</src.rf>
@@ -1007,7 +1007,7 @@
 <LM>w#w-mf930701-064-p2s6w9</LM>
 </w.rf>
 <form>odhlasovalo</form>
-<tag lemma="odhlasovat_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="odhlasovat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-064-p2s6w10">
 <src.rf>manual</src.rf>
@@ -1055,7 +1055,7 @@
 <LM>w#w-mf930701-064-p2s6w15</LM>
 </w.rf>
 <form>doporučilo</form>
-<tag lemma="doporučit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="doporučit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-064-p2s6w16">
 <src.rf>manual</src.rf>

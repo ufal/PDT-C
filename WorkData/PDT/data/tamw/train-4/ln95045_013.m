@@ -816,7 +816,7 @@
 <LM>w#w-ln95045-013-p3s1w13</LM>
 </w.rf>
 <form>hráli</form>
-<tag lemma="hrát" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="hrát" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95045-013-p3s1w14">
 <src.rf>manual</src.rf>
@@ -955,7 +955,7 @@
 <LM>w#w-ln95045-013-p3s2w7</LM>
 </w.rf>
 <form>přestěhovali</form>
-<tag lemma="přestěhovat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přestěhovat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95045-013-p3s2w8">
 <src.rf>manual</src.rf>
@@ -1022,7 +1022,7 @@
 <LM>w#w-ln95045-013-p3s2w15</LM>
 </w.rf>
 <form>pochvalovali</form>
-<tag lemma="pochvalovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="pochvalovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95045-013-p3s2w16">
 <src.rf>manual</src.rf>
@@ -1176,7 +1176,7 @@
 <LM>w#w-ln95045-013-p3s3w13</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95045-013-p3s3w14">
 <src.rf>manual</src.rf>
@@ -1618,7 +1618,7 @@
 <LM>w#w-ln95045-013-p4s1w2</LM>
 </w.rf>
 <form>vstřelili</form>
-<tag lemma="vstřelit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vstřelit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95045-013-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1858,7 +1858,7 @@
 <LM>w#w-ln95045-013-p4s2w13</LM>
 </w.rf>
 <form>působil</form>
-<tag lemma="působit_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="působit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95045-013-p4s2w14">
 <src.rf>manual</src.rf>
@@ -1924,7 +1924,7 @@
 <LM>w#w-ln95045-013-p4s3w5</LM>
 </w.rf>
 <form>blýskl</form>
-<tag lemma="blýsknout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="blýsknout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln95045-013-p4s3w6">
 <src.rf>manual</src.rf>
@@ -2094,7 +2094,7 @@
 <LM>w#w-ln95045-013-p4s4w15</LM>
 </w.rf>
 <form>realizoval</form>
-<tag lemma="realizovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="realizovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln95045-013-p4s4w16">
 <src.rf>manual</src.rf>
@@ -2219,7 +2219,7 @@
 <LM>w#w-ln95045-013-p4s5w10</LM>
 </w.rf>
 <form>opustil</form>
-<tag lemma="opustit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="opustit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-013-p4s5w11">
 <src.rf>manual</src.rf>
@@ -2275,7 +2275,7 @@
 <LM>w#w-ln95045-013-p4s5w17</LM>
 </w.rf>
 <form>nelíbil</form>
-<tag lemma="líbit_:T" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="líbit" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-ln95045-013-p4s5w18">
 <src.rf>manual</src.rf>
@@ -2315,7 +2315,7 @@
 <LM>w#w-ln95045-013-p4s5w22</LM>
 </w.rf>
 <form>nedohodl</form>
-<tag lemma="dohodnout_:W" src="orig" selected="1">VpYS---XR-NA--1</tag>
+<tag lemma="dohodnout" src="orig" selected="1">VpYS----R-NAP-1</tag>
 </m>
 <m id="m-ln95045-013-p4s5w23">
 <src.rf>manual</src.rf>
@@ -2708,7 +2708,7 @@
 <LM>w#w-ln95045-013-p6s1w1</LM>
 </w.rf>
 <form>Přišli</form>
-<tag lemma="přijít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přijít" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95045-013-p6s1w2">
 <src.rf>manual</src.rf>
@@ -2906,8 +2906,8 @@
 </w.rf>
 <form>Odešli</form>
 <tag>
-<AM lemma="odejít" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="odejít_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+<AM lemma="odejít" src="orig">VpMP----R-AAP--</AM>
+<AM lemma="odejít" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95045-013-p7s1w2">
@@ -3223,7 +3223,7 @@
 <LM>w#w-ln95045-013-p7s1w40</LM>
 </w.rf>
 <form>ukončeno</form>
-<tag lemma="ukončit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="ukončit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95045-013-p7s1w41">
 <src.rf>manual</src.rf>

@@ -162,7 +162,7 @@
 <LM>w#w-ln94200-82-p2s1Bw8</LM>
 </w.rf>
 <form>nebyl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-ln94200-82-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -178,7 +178,7 @@
 <LM>w#w-ln94200-82-p2s1Bw10</LM>
 </w.rf>
 <form>přijat</form>
-<tag lemma="přijmout" src="auto" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="přijmout" src="auto" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94200-82-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -378,7 +378,7 @@
 <LM>w#w-ln94200-82-p2s2w7</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-82-p2s2w8">
 <src.rf>manual</src.rf>
@@ -1459,7 +1459,7 @@
 <LM>w#w-ln94200-82-p4s1w18</LM>
 </w.rf>
 <form>sdělil</form>
-<tag lemma="sdělit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sdělit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-82-p4s1w19">
 <src.rf>manual</src.rf>
@@ -1653,7 +1653,7 @@
 <LM>w#w-ln94200-82-p4s2w17</LM>
 </w.rf>
 <form>způsobil</form>
-<tag lemma="způsobit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="způsobit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-82-p4s2w18">
 <src.rf>manual</src.rf>
@@ -1897,7 +1897,7 @@
 <LM>w#w-ln94200-82-p4s4w9</LM>
 </w.rf>
 <form>pochopila</form>
-<tag lemma="pochopit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="pochopit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94200-82-p4s4w10">
 <src.rf>manual</src.rf>
@@ -1953,7 +1953,7 @@
 <LM>w#w-ln94200-82-p4s4w17</LM>
 </w.rf>
 <form>nebyly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-NAI--</tag>
 </m>
 <m id="m-ln94200-82-p4s4w18">
 <src.rf>manual</src.rf>
@@ -1961,7 +1961,7 @@
 <LM>w#w-ln94200-82-p4s4w18</LM>
 </w.rf>
 <form>zneužity</form>
-<tag lemma="zneužít" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="zneužít" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln94200-82-p4s4w19">
 <src.rf>manual</src.rf>

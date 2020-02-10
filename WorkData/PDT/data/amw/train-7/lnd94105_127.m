@@ -191,7 +191,7 @@
 <LM>w#w-lnd94105-127-p1s3w13</LM>
 </w.rf>
 <form>podařilo</form>
-<tag lemma="podařit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="podařit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd94105-127-p1s3w14">
 <src.rf>manual</src.rf>
@@ -255,7 +255,7 @@
 <LM>w#w-lnd94105-127-p1s3w21</LM>
 </w.rf>
 <form>došlo</form>
-<tag lemma="dojít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="dojít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd94105-127-p1s3w22">
 <src.rf>manual</src.rf>
@@ -1108,7 +1108,7 @@
 <LM>w#w-lnd94105-127-p1s6w30</LM>
 </w.rf>
 <form>zdvojnásobil</form>
-<tag lemma="zdvojnásobit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zdvojnásobit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94105-127-p1s6w31">
 <src.rf>manual</src.rf>

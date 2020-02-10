@@ -559,7 +559,7 @@
 <LM>w#w-cmpr9417-008-p3s4w8</LM>
 </w.rf>
 <form>provedl</form>
-<tag lemma="provést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="provést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9417-008-p3s4w9">
 <src.rf>manual</src.rf>

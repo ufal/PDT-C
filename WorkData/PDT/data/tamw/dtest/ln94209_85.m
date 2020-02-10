@@ -202,7 +202,7 @@
 <LM>w#w-ln94209-85-p2s1Bw11</LM>
 </w.rf>
 <form>zranil</form>
-<tag lemma="zranit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zranit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94209-85-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -320,7 +320,7 @@
 <LM>w#w-ln94209-85-p2s1Bw25</LM>
 </w.rf>
 <form>podrobil</form>
-<tag lemma="podrobit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="podrobit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94209-85-p2s1Bw26">
 <src.rf>manual</src.rf>
@@ -490,7 +490,7 @@
 <LM>w#w-ln94209-85-p2s2w18</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94209-85-p2s2w19">
 <src.rf>manual</src.rf>

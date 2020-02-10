@@ -160,7 +160,7 @@
 <LM>w#w-mf930708-086-p2s1w13</LM>
 </w.rf>
 <form>přišel</form>
-<tag lemma="přijít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přijít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-086-p2s1w14">
 <src.rf>manual</src.rf>
@@ -248,7 +248,7 @@
 <LM>w#w-mf930708-086-p2s1w24</LM>
 </w.rf>
 <form>hrál</form>
-<tag lemma="hrát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="hrát" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930708-086-p2s1w25">
 <src.rf>manual</src.rf>
@@ -322,7 +322,7 @@
 <LM>w#w-mf930708-086-p2s2w5</LM>
 </w.rf>
 <form>hostoval</form>
-<tag lemma="hostovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="hostovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930708-086-p2s2w6">
 <src.rf>manual</src.rf>
@@ -370,7 +370,7 @@
 <LM>w#w-mf930708-086-p2s2w11</LM>
 </w.rf>
 <form>vybojoval</form>
-<tag lemma="vybojovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vybojovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-086-p2s2w12">
 <src.rf>manual</src.rf>
@@ -762,7 +762,7 @@
 <LM>w#w-mf930708-086-p2s6w16</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930708-086-p2s6w17">
 <src.rf>manual</src.rf>
@@ -899,8 +899,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930708-086-p2s6w34">
@@ -965,7 +965,7 @@
 <LM>w#w-mf930708-086-p2s6w41</LM>
 </w.rf>
 <form>odešel</form>
-<tag lemma="odejít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odejít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-086-p2s6w42">
 <src.rf>manual</src.rf>
@@ -1039,7 +1039,7 @@
 <LM>w#w-mf930708-086-p2s7w6</LM>
 </w.rf>
 <form>odmítl</form>
-<tag lemma="odmítnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="odmítnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf930708-086-p2s7w7">
 <src.rf>manual</src.rf>

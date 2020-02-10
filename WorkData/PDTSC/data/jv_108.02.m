@@ -1900,7 +1900,7 @@
 <LM>w#w-d1t473-10</LM>
 </w.rf>
 <form>podarovala</form>
-<tag lemma="podarovat_:W" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="podarovat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m108-d1t475-2">
 <w.rf>
@@ -2991,7 +2991,7 @@
 <LM>w#w-d1t538-1</LM>
 </w.rf>
 <form>Nerozuměla</form>
-<tag lemma="rozumět_:T" src="auto" recommended="1">VpQW---XR-NA---</tag>
+<tag lemma="rozumět" src="auto" recommended="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m108-d1t538-2">
 <w.rf>

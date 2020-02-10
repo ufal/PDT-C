@@ -143,7 +143,7 @@
 <LM>w#w-ln95046-007-p2s1Bw9</LM>
 </w.rf>
 <form>obdržel</form>
-<tag lemma="obdržet" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="obdržet" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95046-007-p2s1Bw10">
 <src.rf>manual</src.rf>

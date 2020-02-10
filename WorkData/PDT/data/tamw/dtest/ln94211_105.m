@@ -407,7 +407,7 @@
 <LM>w#w-ln94211-105-p2s2w17</LM>
 </w.rf>
 <form>ztělesnili</form>
-<tag lemma="ztělesnit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="ztělesnit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94211-105-p2s2w18">
 <src.rf>manual</src.rf>
@@ -553,7 +553,7 @@
 <LM>w#w-ln94211-105-p3s1w10</LM>
 </w.rf>
 <form>napsal</form>
-<tag lemma="napsat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="napsat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94211-105-p3s1w11">
 <src.rf>manual</src.rf>
@@ -864,7 +864,7 @@
 <LM>w#w-ln94211-105-p3s3w7</LM>
 </w.rf>
 <form>pokusili</form>
-<tag lemma="pokusit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="pokusit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94211-105-p3s3w8">
 <src.rf>manual</src.rf>

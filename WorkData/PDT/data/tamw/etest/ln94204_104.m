@@ -211,7 +211,7 @@
 <LM>w#w-ln94204-104-p1s1Aw25</LM>
 </w.rf>
 <form>zúčastnilo</form>
-<tag lemma="zúčastnit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zúčastnit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94204-104-p1s1Aw26">
 <src.rf>manual</src.rf>

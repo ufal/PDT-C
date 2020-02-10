@@ -815,7 +815,7 @@
 <LM>w#w-wsj1398-001-p1s3W32</LM>
 </w.rf>
 <form>dbal</form>
-<tag lemma="dbát" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="dbát" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1398-001-p1s3W33-Ta">
 <src.rf>tagger-a</src.rf>

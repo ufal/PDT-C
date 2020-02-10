@@ -673,7 +673,7 @@
 <LM>w#w-wsj1571-001-p1s2W9</LM>
 </w.rf>
 <form>přijata</form>
-<tag lemma="přijmout" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="přijmout" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj1571-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1586,7 +1586,7 @@
 <LM>w#w-wsj1571-001-p1s5W18</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj1571-001-p1s5W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2018,7 +2018,7 @@
 <LM>w#w-wsj1571-001-p1s6W24</LM>
 </w.rf>
 <form>založeno</form>
-<tag lemma="založit" src="auto" recommended="1">VsNS---XX-APP--</tag>
+<tag lemma="založit" src="auto" recommended="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-wsj1571-001-p1s6W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3280,7 +3280,7 @@
 <AM lemma="jeden`1" src="auto">ClIS4----------</AM>
 <AM lemma="jeden`1" src="auto" recommended="1">ClYS1----------</AM>
 <AM lemma="jeden`1" src="auto">ClYS5----------</AM>
-<AM lemma="jíst" src="auto">VsYS---XX-API--</AM>
+<AM lemma="jíst" src="auto">VsYS----X-API--</AM>
 </tag>
 </m>
 <m id="m-wsj1571-001-p1s11W2-Ta">
@@ -3321,7 +3321,7 @@
 <LM>w#w-wsj1571-001-p1s11W5</LM>
 </w.rf>
 <form>obhajoval</form>
-<tag lemma="obhajovat" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="obhajovat" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1571-001-p1s11W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4011,7 +4011,7 @@
 <LM>w#w-wsj1571-001-p1s14W9</LM>
 </w.rf>
 <form>přijímáni</form>
-<tag lemma="přijímat" src="auto" recommended="1">VsMP---XX-API--</tag>
+<tag lemma="přijímat" src="auto" recommended="1">VsMP----X-API--</tag>
 </m>
 <m id="m-wsj1571-001-p1s14W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4102,7 +4102,7 @@
 <LM>w#w-wsj1571-001-p1s14W16</LM>
 </w.rf>
 <form>započítáváni</form>
-<tag lemma="započítávat_^(*4at)" src="auto" recommended="1">VsMP---XX-API--</tag>
+<tag lemma="započítávat_^(*4at)" src="auto" recommended="1">VsMP----X-API--</tag>
 </m>
 <m id="m-wsj1571-001-p1s14W17-Ta">
 <src.rf>tagger-a</src.rf>

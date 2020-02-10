@@ -90,7 +90,7 @@
 <LM>w#w-ln94203-49-p2s1Bw2</LM>
 </w.rf>
 <form>skončila</form>
-<tag lemma="skončit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="skončit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94203-49-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -220,7 +220,7 @@
 <LM>w#w-ln94203-49-p2s2w4</LM>
 </w.rf>
 <form>udeřil</form>
-<tag lemma="udeřit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="udeřit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94203-49-p2s2w5">
 <src.rf>manual</src.rf>
@@ -432,7 +432,7 @@
 <LM>w#w-ln94203-49-p2s2w29</LM>
 </w.rf>
 <form>zlomil</form>
-<tag lemma="zlomit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zlomit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94203-49-p2s2w30">
 <src.rf>manual</src.rf>
@@ -456,7 +456,7 @@
 <LM>w#w-ln94203-49-p2s2w32</LM>
 </w.rf>
 <form>poranil</form>
-<tag lemma="poranit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="poranit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94203-49-p2s2w33">
 <src.rf>manual</src.rf>
@@ -528,7 +528,7 @@
 <LM>w#w-ln94203-49-p2s4w6</LM>
 </w.rf>
 <form>podlehl</form>
-<tag lemma="podlehnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="podlehnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln94203-49-p2s4w7">
 <src.rf>manual</src.rf>
@@ -624,7 +624,7 @@
 <LM>w#w-ln94203-49-p2s5w10</LM>
 </w.rf>
 <form>uprchl</form>
-<tag lemma="uprchnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="uprchnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln94203-49-p2s5w11">
 <src.rf>manual</src.rf>
@@ -680,7 +680,7 @@
 <LM>w#w-ln94203-49-p2s5w17</LM>
 </w.rf>
 <form>přihlásil</form>
-<tag lemma="přihlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přihlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94203-49-p2s5w18">
 <src.rf>manual</src.rf>
@@ -746,7 +746,7 @@
 <LM>w#w-ln94203-49-p2s7w3</LM>
 </w.rf>
 <form>stíhán</form>
-<tag lemma="stíhat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="stíhat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-ln94203-49-p2s7w4">
 <src.rf>manual</src.rf>

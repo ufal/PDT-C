@@ -209,7 +209,7 @@
 <LM>w#w-ln94211-18-p2s1Cw5</LM>
 </w.rf>
 <form>obnášel</form>
-<tag lemma="obnášet_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="obnášet" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94211-18-p2s1Cw6">
 <src.rf>manual</src.rf>
@@ -379,7 +379,7 @@
 <LM>w#w-ln94211-18-p3s1w1</LM>
 </w.rf>
 <form>Předčili</form>
-<tag lemma="předčit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="předčit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94211-18-p3s1w2">
 <src.rf>manual</src.rf>
@@ -459,7 +459,7 @@
 <LM>w#w-ln94211-18-p3s1w11</LM>
 </w.rf>
 <form>prohlásil</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94211-18-p3s1w12">
 <src.rf>manual</src.rf>
@@ -742,7 +742,7 @@
 <LM>w#w-ln94211-18-p4s1w14</LM>
 </w.rf>
 <form>vytyčilo</form>
-<tag lemma="vytyčit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vytyčit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94211-18-p4s1w15">
 <src.rf>manual</src.rf>
@@ -864,7 +864,7 @@
 <LM>w#w-ln94211-18-p4s2w9</LM>
 </w.rf>
 <form>reagovalo</form>
-<tag lemma="reagovat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="reagovat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94211-18-p4s2w10">
 <src.rf>manual</src.rf>
@@ -1018,7 +1018,7 @@
 <LM>w#w-ln94211-18-p5s1w14</LM>
 </w.rf>
 <form>dokázalo</form>
-<tag lemma="dokázat" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="dokázat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94211-18-p5s1w15">
 <src.rf>manual</src.rf>
@@ -1994,7 +1994,7 @@
 <LM>w#w-ln94211-18-p7s2w21</LM>
 </w.rf>
 <form>postaven</form>
-<tag lemma="postavit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="postavit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94211-18-p7s2w22">
 <src.rf>manual</src.rf>
@@ -2158,7 +2158,7 @@
 <LM>w#w-ln94211-18-p8s2w4</LM>
 </w.rf>
 <form>vytíženy</form>
-<tag lemma="vytížit" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="vytížit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln94211-18-p8s2w5">
 <src.rf>manual</src.rf>

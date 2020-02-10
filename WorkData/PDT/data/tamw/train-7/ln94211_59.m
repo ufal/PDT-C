@@ -77,7 +77,7 @@
 <LM>w#w-ln94211-59-p2s1w7</LM>
 </w.rf>
 <form>snížila</form>
-<tag lemma="snížit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="snížit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94211-59-p2s1w8">
 <src.rf>manual</src.rf>
@@ -119,7 +119,7 @@
 <LM>w#w-ln94211-59-p2s2w2</LM>
 </w.rf>
 <form>poklesla</form>
-<tag lemma="poklesnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="poklesnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln94211-59-p2s2w3">
 <src.rf>manual</src.rf>
@@ -231,7 +231,7 @@
 <LM>w#w-ln94211-59-p2s2w16</LM>
 </w.rf>
 <form>zvýšila</form>
-<tag lemma="zvýšit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zvýšit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94211-59-p2s2w17">
 <src.rf>manual</src.rf>

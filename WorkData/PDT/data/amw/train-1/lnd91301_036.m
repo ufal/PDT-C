@@ -244,7 +244,7 @@
 <LM>w#w-lnd91301-036-p3s2w6</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-036-p3s2w7">
 <src.rf>manual</src.rf>
@@ -390,7 +390,7 @@
 <LM>w#w-lnd91301-036-p3s3w4</LM>
 </w.rf>
 <form>nevedlo</form>
-<tag lemma="vést" src="auto" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="vést" src="auto" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-lnd91301-036-p3s3w5">
 <src.rf>manual</src.rf>

@@ -194,7 +194,7 @@
 <LM>w#w-mf930713-155-p2s1Bw10</LM>
 </w.rf>
 <form>udržován</form>
-<tag lemma="udržovat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="udržovat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-mf930713-155-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -274,7 +274,7 @@
 <LM>w#w-mf930713-155-p2s1Bw20</LM>
 </w.rf>
 <form>distribuováno</form>
-<tag lemma="distribuovat_:T" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="distribuovat" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-mf930713-155-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -332,7 +332,7 @@
 <LM>w#w-mf930713-155-p2s2w1</LM>
 </w.rf>
 <form>Vešlo</form>
-<tag lemma="vejít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vejít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-155-p2s2w2">
 <src.rf>manual</src.rf>
@@ -651,7 +651,7 @@
 <LM>w#w-mf930713-155-p2s4w16</LM>
 </w.rf>
 <form>vyváženo</form>
-<tag lemma="vyvážet_:T_^(zboží_přes_hranice)" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="vyvážet_^(zboží_přes_hranice)" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-mf930713-155-p2s4w17">
 <src.rf>manual</src.rf>

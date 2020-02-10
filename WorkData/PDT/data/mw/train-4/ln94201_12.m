@@ -77,7 +77,7 @@
 <LM>w#w-ln94201-12-p2s1w7</LM>
 </w.rf>
 <form>kontrolovala</form>
-<tag lemma="kontrolovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="kontrolovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94201-12-p2s1w8">
 <src.rf>manual</src.rf>
@@ -125,7 +125,7 @@
 <LM>w#w-ln94201-12-p2s1w13</LM>
 </w.rf>
 <form>dohlížela</form>
-<tag lemma="dohlížet_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="dohlížet" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94201-12-p2s1w14">
 <src.rf>manual</src.rf>
@@ -447,7 +447,7 @@
 <LM>w#w-ln94201-12-p4s1w15</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94201-12-p4s1w16">
 <src.rf>manual</src.rf>
@@ -455,7 +455,7 @@
 <LM>w#w-ln94201-12-p4s1w16</LM>
 </w.rf>
 <form>zahájen</form>
-<tag lemma="zahájit" src="auto" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zahájit" src="auto" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94201-12-p4s1w17">
 <src.rf>manual</src.rf>
@@ -537,7 +537,7 @@
 <LM>w#w-ln94201-12-p5s1w7</LM>
 </w.rf>
 <form>zúčastnilo</form>
-<tag lemma="zúčastnit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zúčastnit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94201-12-p5s1w8">
 <src.rf>manual</src.rf>
@@ -612,7 +612,7 @@
 <LM>w#w-ln94201-12-p5s1w16</LM>
 </w.rf>
 <form>skončila</form>
-<tag lemma="skončit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="skončit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94201-12-p5s1w17">
 <src.rf>manual</src.rf>

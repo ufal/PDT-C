@@ -223,7 +223,7 @@
 <LM>w#w-mf930708-121-p2s1w10</LM>
 </w.rf>
 <form>zahájilo</form>
-<tag lemma="zahájit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zahájit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-121-p2s1w11">
 <src.rf>manual</src.rf>
@@ -420,7 +420,7 @@
 <LM>w#w-mf930708-121-p3s1w11</LM>
 </w.rf>
 <form>zahájila</form>
-<tag lemma="zahájit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zahájit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930708-121-p3s1w12">
 <src.rf>manual</src.rf>
@@ -590,7 +590,7 @@
 <LM>w#w-mf930708-121-p3s2w13</LM>
 </w.rf>
 <form>odešli</form>
-<tag lemma="odejít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="odejít" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930708-121-p3s2w14">
 <src.rf>manual</src.rf>
@@ -728,7 +728,7 @@
 <LM>w#w-mf930708-121-p3s3w1</LM>
 </w.rf>
 <form>Přišli</form>
-<tag lemma="přijít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přijít" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930708-121-p3s3w2">
 <src.rf>manual</src.rf>
@@ -1166,7 +1166,7 @@
 <LM>w#w-mf930708-121-p4s3w12</LM>
 </w.rf>
 <form>začal</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-121-p4s3w13">
 <src.rf>manual</src.rf>
@@ -1302,7 +1302,7 @@
 <LM>w#w-mf930708-121-p4s3w29</LM>
 </w.rf>
 <form>působil</form>
-<tag lemma="působit_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="působit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930708-121-p4s3w30">
 <src.rf>manual</src.rf>
@@ -1379,7 +1379,7 @@
 <LM>w#w-mf930708-121-p4s4w4</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930708-121-p4s4w5">
 <src.rf>manual</src.rf>
@@ -1787,7 +1787,7 @@
 <LM>w#w-mf930708-121-p4s6w4</LM>
 </w.rf>
 <form>zapojili</form>
-<tag lemma="zapojit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zapojit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930708-121-p4s6w5">
 <src.rf>manual</src.rf>
@@ -1948,7 +1948,7 @@
 <LM>w#w-mf930708-121-p5s1w11</LM>
 </w.rf>
 <form>zahájily</form>
-<tag lemma="zahájit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zahájit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf930708-121-p5s1w12">
 <src.rf>manual</src.rf>

@@ -333,7 +333,7 @@
 <LM>w#w-mf930702-121-p2s1w29</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930702-121-p2s1w30">
 <src.rf>manual</src.rf>
@@ -341,7 +341,7 @@
 <LM>w#w-mf930702-121-p2s1w30</LM>
 </w.rf>
 <form>řešeny</form>
-<tag lemma="řešit_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="řešit" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf930702-121-p2s1w31">
 <src.rf>manual</src.rf>
@@ -458,7 +458,7 @@
 <LM>w#w-mf930702-121-p2s2w5</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930702-121-p2s2w6">
 <src.rf>manual</src.rf>
@@ -506,7 +506,7 @@
 <LM>w#w-mf930702-121-p2s2w11</LM>
 </w.rf>
 <form>zveřejnila</form>
-<tag lemma="zveřejnit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zveřejnit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930702-121-p2s2w12">
 <src.rf>manual</src.rf>
@@ -570,7 +570,7 @@
 <LM>w#w-mf930702-121-p2s2w19</LM>
 </w.rf>
 <form>reagoval</form>
-<tag lemma="reagovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="reagovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930702-121-p2s2w20">
 <src.rf>manual</src.rf>
@@ -658,7 +658,7 @@
 <LM>w#w-mf930702-121-p2s2w30</LM>
 </w.rf>
 <form>zaujal</form>
-<tag lemma="zaujmout_^(upoutat_pozornost)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zaujmout_^(upoutat_pozornost)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930702-121-p2s2w31">
 <src.rf>manual</src.rf>
@@ -1169,7 +1169,7 @@
 <LM>w#w-mf930702-121-p4s1w31</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930702-121-p4s1w32">
 <src.rf>manual</src.rf>
@@ -1475,7 +1475,7 @@
 <LM>w#w-mf930702-121-p4s3w25</LM>
 </w.rf>
 <form>přáli</form>
-<tag lemma="přát" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přát" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930702-121-p4s3w26">
 <src.rf>manual</src.rf>

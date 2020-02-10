@@ -215,7 +215,7 @@
 <LM>w#w-mf920924-105-p3s1w9</LM>
 </w.rf>
 <form>vynutili</form>
-<tag lemma="vynutit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vynutit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920924-105-p3s1w10">
 <src.rf>manual</src.rf>
@@ -445,7 +445,7 @@
 <LM>w#w-mf920924-105-p4s2w7</LM>
 </w.rf>
 <form>vedl</form>
-<tag lemma="vést" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vést" src="auto" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920924-105-p4s2w8">
 <src.rf>manual</src.rf>
@@ -666,7 +666,7 @@
 <LM>w#w-mf920924-105-p4s3w5</LM>
 </w.rf>
 <form>vyrovnal</form>
-<tag lemma="vyrovnat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyrovnat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920924-105-p4s3w6">
 <src.rf>manual</src.rf>

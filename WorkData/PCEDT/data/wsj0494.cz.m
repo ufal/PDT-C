@@ -58,7 +58,7 @@
 <LM>w#w-wsj0494-001-p1s0W5</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0494-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -134,7 +134,7 @@
 <LM>w#w-wsj0494-001-p1s0W12</LM>
 </w.rf>
 <form>utrpěla</form>
-<tag lemma="utrpět" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="utrpět" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0494-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -523,7 +523,7 @@
 <LM>w#w-wsj0494-001-p1s1W9</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0494-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -845,7 +845,7 @@
 <LM>w#w-wsj0494-001-p1s2W10</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0494-001-p1s2W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1173,7 +1173,7 @@
 <LM>w#w-wsj0494-001-p1s2W37</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="mít" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj0494-001-p1s2W38-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1404,7 +1404,7 @@
 <LM>w#w-wsj0494-001-p1s3W10</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0494-001-p1s3W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1666,7 +1666,7 @@
 <LM>w#w-wsj0494-001-p1s4W1</LM>
 </w.rf>
 <form>Zmínil</form>
-<tag lemma="zmínit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="zmínit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0494-001-p1s4W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1872,7 +1872,7 @@
 <LM>w#w-wsj0494-001-p1s5W2</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0494-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>

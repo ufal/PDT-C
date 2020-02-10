@@ -391,7 +391,7 @@
 <LM>w#w-ln94200-135-p3s1w6</LM>
 </w.rf>
 <form>vystaven</form>
-<tag lemma="vystavit_:W_^(např._potvrzení)" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="vystavit_^(např._potvrzení)" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94200-135-p3s1w7">
 <src.rf>manual</src.rf>

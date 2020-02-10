@@ -53,7 +53,7 @@
 <LM>w#w-ln95048-007-p2s1w4</LM>
 </w.rf>
 <form>schválila</form>
-<tag lemma="schválit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="schválit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95048-007-p2s1w5">
 <src.rf>manual</src.rf>
@@ -287,7 +287,7 @@
 <LM>w#w-ln95048-007-p3s1w8</LM>
 </w.rf>
 <form>vedly</form>
-<tag lemma="vést" src="auto" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vést" src="auto" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95048-007-p3s1w9">
 <src.rf>manual</src.rf>
@@ -473,7 +473,7 @@
 <LM>w#w-ln95048-007-p3s2w11</LM>
 </w.rf>
 <form>nebyla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-ln95048-007-p3s2w12">
 <src.rf>manual</src.rf>
@@ -481,7 +481,7 @@
 <LM>w#w-ln95048-007-p3s2w12</LM>
 </w.rf>
 <form>uplatněna</form>
-<tag lemma="uplatnit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="uplatnit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln95048-007-p3s2w13">
 <src.rf>manual</src.rf>

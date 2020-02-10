@@ -101,7 +101,7 @@
 <LM>w#w-vesm9211-055-p2s1w4</LM>
 </w.rf>
 <form>sešlo</form>
-<tag lemma="sejít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="sejít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-vesm9211-055-p2s1w5">
 <src.rf>manual</src.rf>
@@ -248,7 +248,7 @@
 <LM>w#w-vesm9211-055-p2s1w23</LM>
 </w.rf>
 <form>dali</form>
-<tag lemma="dát" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="dát" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-vesm9211-055-p2s1w24">
 <src.rf>manual</src.rf>
@@ -461,7 +461,7 @@
 <LM>w#w-vesm9211-055-p2s2w5</LM>
 </w.rf>
 <form>dostal</form>
-<tag lemma="dostat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dostat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-vesm9211-055-p2s2w6">
 <src.rf>manual</src.rf>
@@ -722,7 +722,7 @@
 <LM>w#w-vesm9211-055-p3s1w9</LM>
 </w.rf>
 <form>stěžovala</form>
-<tag lemma="stěžovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="stěžovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-vesm9211-055-p3s1w10">
 <src.rf>manual</src.rf>
@@ -786,7 +786,7 @@
 <LM>w#w-vesm9211-055-p3s1w17</LM>
 </w.rf>
 <form>zjistila</form>
-<tag lemma="zjistit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zjistit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-vesm9211-055-p3s1w18">
 <src.rf>manual</src.rf>
@@ -866,7 +866,7 @@
 <LM>w#w-vesm9211-055-p3s1w27</LM>
 </w.rf>
 <form>krátili</form>
-<tag lemma="krátit_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="krátit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-vesm9211-055-p3s1w28">
 <src.rf>manual</src.rf>
@@ -972,7 +972,7 @@
 <LM>w#w-vesm9211-055-p4s1w2</LM>
 </w.rf>
 <form>šlo</form>
-<tag lemma="jít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="jít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-vesm9211-055-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1070,7 +1070,7 @@
 <LM>w#w-vesm9211-055-p4s2w1</LM>
 </w.rf>
 <form>Volalo</form>
-<tag lemma="volat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="volat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-vesm9211-055-p4s2w2">
 <src.rf>manual</src.rf>

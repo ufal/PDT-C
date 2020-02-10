@@ -143,7 +143,7 @@
 <LM>w#w-ln94211-33-p2s1Bw4</LM>
 </w.rf>
 <form>vzrostl</form>
-<tag lemma="vzrůst-1" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vzrůst-1" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94211-33-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -224,8 +224,8 @@
 </w.rf>
 <form>začali</form>
 <tag>
-<AM lemma="začít-1_^(začnout)" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpMP---XR-AA---</AM>
+<AM lemma="začít-1_^(začnout)" src="auto">VpMP----R-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94211-33-p2s1Bw15">
@@ -364,7 +364,7 @@
 <LM>w#w-ln94211-33-p3s1w3</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94211-33-p3s1w4">
 <src.rf>manual</src.rf>
@@ -780,7 +780,7 @@
 <LM>w#w-ln94211-33-p3s5w13</LM>
 </w.rf>
 <form>ukončili</form>
-<tag lemma="ukončit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="ukončit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94211-33-p3s5w14">
 <src.rf>manual</src.rf>

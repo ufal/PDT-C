@@ -119,7 +119,7 @@
 <LM>w#w-lnd92257-029-p2s2w5</LM>
 </w.rf>
 <form>odcestovala</form>
-<tag lemma="odcestovat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="odcestovat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-029-p2s2w6">
 <src.rf>manual</src.rf>
@@ -167,7 +167,7 @@
 <LM>w#w-lnd92257-029-p2s2w11</LM>
 </w.rf>
 <form>hodnotila</form>
-<tag lemma="hodnotit_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="hodnotit" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92257-029-p2s2w12">
 <src.rf>manual</src.rf>
@@ -311,7 +311,7 @@
 <LM>w#w-lnd92257-029-p2s3w12</LM>
 </w.rf>
 <form>zapojen</form>
-<tag lemma="zapojit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zapojit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd92257-029-p2s3w13">
 <src.rf>manual</src.rf>
@@ -529,7 +529,7 @@
 <LM>w#w-lnd92257-029-p2s4w3</LM>
 </w.rf>
 <form>označili</form>
-<tag lemma="označit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="označit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-029-p2s4w4">
 <src.rf>manual</src.rf>

@@ -585,7 +585,7 @@
 <LM>w#w-ln94200-138-p2s2w23</LM>
 </w.rf>
 <form>měli</form>
-<tag lemma="mít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94200-138-p2s2w24">
 <src.rf>manual</src.rf>

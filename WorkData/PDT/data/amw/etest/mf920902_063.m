@@ -62,8 +62,8 @@
 </w.rf>
 <form>uzavřela</form>
 <tag>
-<AM lemma="uzavřít" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="uzavřít_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="uzavřít" src="orig">VpQW----R-AAP--</AM>
+<AM lemma="uzavřít" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920902-063-p2s1w5">

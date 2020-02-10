@@ -702,7 +702,7 @@
 <form>Prosch</form>
 <tag>
 <AM lemma="Prosch_;S" src="orig" selected="1">NNMS1-----A----</AM>
-<AM lemma="proschnout_:W" src="auto" recommended="1">VpYS---XR-AA--6</AM>
+<AM lemma="proschnout" src="auto" recommended="1">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 </s>
@@ -1262,7 +1262,7 @@
 <LM>w#w-vesm9211-014-p45s1w1</LM>
 </w.rf>
 <form>VYBRALI</form>
-<tag lemma="vybrat" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vybrat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-vesm9211-014-p45s1w2">
 <src.rf>manual</src.rf>
@@ -1744,7 +1744,7 @@
 <LM>w#w-vesm9211-014-p59s1w2</LM>
 </w.rf>
 <form>Došlo</form>
-<tag lemma="dojít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="dojít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-vesm9211-014-p59s1w3">
 <src.rf>manual</src.rf>

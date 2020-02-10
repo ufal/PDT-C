@@ -118,8 +118,8 @@
 </w.rf>
 <form>vědělo</form>
 <tag>
-<AM lemma="vědět" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="vědět_:T" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="vědět" src="orig">VpNS----R-AAI--</AM>
+<AM lemma="vědět" src="manual" selected="1">VpNS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln95042-015-p2s1w8">
@@ -242,7 +242,7 @@
 <LM>w#w-ln95042-015-p2s2w5</LM>
 </w.rf>
 <form>uviděl</form>
-<tag lemma="uvidět" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvidět" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95042-015-p2s2w6">
 <src.rf>manual</src.rf>
@@ -307,8 +307,8 @@
 </w.rf>
 <form>přišel</form>
 <tag>
-<AM lemma="přijít" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="přijít_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="přijít" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="přijít" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95042-015-p2s2w14">
@@ -405,7 +405,7 @@
 <LM>w#w-ln95042-015-p2s2w25</LM>
 </w.rf>
 <form>dočkal</form>
-<tag lemma="dočkat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dočkat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95042-015-p2s2w26">
 <src.rf>manual</src.rf>
@@ -1952,7 +1952,7 @@
 <LM>w#w-ln95042-015-p2s9Aw40</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95042-015-p2s9Aw41">
 <src.rf>manual</src.rf>
@@ -2029,7 +2029,7 @@
 <LM>w#w-ln95042-015-p2s9Aw49</LM>
 </w.rf>
 <form>pulírováno</form>
-<tag lemma="pulírovat_:T" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="pulírovat" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-ln95042-015-p2s9Aw50">
 <src.rf>manual</src.rf>
@@ -4220,7 +4220,7 @@
 <LM>w#w-ln95042-015-p2s20Bw24</LM>
 </w.rf>
 <form>vystudoval</form>
-<tag lemma="vystudovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vystudovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95042-015-p2s20Bw25">
 <src.rf>manual</src.rf>

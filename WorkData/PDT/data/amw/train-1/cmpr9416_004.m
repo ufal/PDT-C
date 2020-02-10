@@ -163,7 +163,7 @@
 <LM>w#w-cmpr9416-004-p7s1w10</LM>
 </w.rf>
 <form>nařídil</form>
-<tag lemma="nařídit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nařídit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9416-004-p7s1w11">
 <src.rf>manual</src.rf>
@@ -294,7 +294,7 @@
 <LM>w#w-cmpr9416-004-p7s1w26</LM>
 </w.rf>
 <form>nedostavila</form>
-<tag lemma="dostavit_:W_^(se,na_dané_místo)" src="auto" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="dostavit_^(se,na_dané_místo)" src="auto" selected="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-cmpr9416-004-p7s1w27">
 <src.rf>manual</src.rf>
@@ -570,7 +570,7 @@
 <LM>w#w-cmpr9416-004-p9s1w8</LM>
 </w.rf>
 <form>nařídil</form>
-<tag lemma="nařídit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nařídit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9416-004-p9s1w9">
 <src.rf>manual</src.rf>

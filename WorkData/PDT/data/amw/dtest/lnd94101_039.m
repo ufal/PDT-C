@@ -54,7 +54,7 @@
 <LM>w#w-lnd94101-039-p1s1w5</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94101-039-p1s1w6">
 <src.rf>manual</src.rf>
@@ -62,7 +62,7 @@
 <LM>w#w-lnd94101-039-p1s1w6</LM>
 </w.rf>
 <form>zabit</form>
-<tag lemma="zabít" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zabít" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd94101-039-p1s1w7">
 <src.rf>manual</src.rf>
@@ -94,7 +94,7 @@
 <LM>w#w-lnd94101-039-p1s1w10</LM>
 </w.rf>
 <form>zraněni</form>
-<tag lemma="zranit_:W" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="zranit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-lnd94101-039-p1s1w11">
 <src.rf>manual</src.rf>
@@ -134,7 +134,7 @@
 <LM>w#w-lnd94101-039-p1s1w15</LM>
 </w.rf>
 <form>najelo</form>
-<tag lemma="najet" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="najet" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-039-p1s1w16">
 <src.rf>manual</src.rf>
@@ -238,7 +238,7 @@
 <LM>w#w-lnd94101-039-p1s2w1</LM>
 </w.rf>
 <form>Oznámilo</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-039-p1s2w2">
 <src.rf>manual</src.rf>

@@ -455,7 +455,7 @@
 <LM>w#w-vesm9212-004-p2s2w9</LM>
 </w.rf>
 <form>řízen</form>
-<tag lemma="řídit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="řídit" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-vesm9212-004-p2s2w10">
 <src.rf>manual</src.rf>

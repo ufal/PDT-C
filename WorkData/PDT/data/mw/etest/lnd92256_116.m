@@ -255,7 +255,7 @@
 <LM>w#w-lnd92256-116-p3s2w23</LM>
 </w.rf>
 <form>zapleteni</form>
-<tag lemma="zaplést" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="zaplést" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-lnd92256-116-p3s2w24">
 <src.rf>manual</src.rf>
@@ -436,7 +436,7 @@
 <LM>w#w-lnd92256-116-p3s3w17</LM>
 </w.rf>
 <form>býval</form>
-<tag lemma="bývat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="bývat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92256-116-p3s3w18">
 <src.rf>manual</src.rf>
@@ -580,7 +580,7 @@
 <LM>w#w-lnd92256-116-p3s4w7</LM>
 </w.rf>
 <form>poskytovalo</form>
-<tag lemma="poskytovat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="poskytovat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92256-116-p3s4w8">
 <src.rf>manual</src.rf>
@@ -769,7 +769,7 @@
 <LM>w#w-lnd92256-116-p3s5w3</LM>
 </w.rf>
 <form>cvičili</form>
-<tag lemma="cvičit_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="cvičit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92256-116-p3s5w4">
 <src.rf>manual</src.rf>

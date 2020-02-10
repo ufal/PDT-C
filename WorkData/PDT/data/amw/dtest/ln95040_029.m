@@ -105,8 +105,8 @@
 </w.rf>
 <form>přijal</form>
 <tag>
-<AM lemma="přijmout" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="přijmout_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="přijmout" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="přijmout" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95040-029-p2s1Bw5">
@@ -213,7 +213,7 @@
 <LM>w#w-ln95040-029-p2s2w1</LM>
 </w.rf>
 <form>Učinil</form>
-<tag lemma="učinit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="učinit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-029-p2s2w2">
 <src.rf>manual</src.rf>
@@ -285,7 +285,7 @@
 <LM>w#w-ln95040-029-p2s2w10</LM>
 </w.rf>
 <form>odmítl</form>
-<tag lemma="odmítnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="odmítnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln95040-029-p2s2w11">
 <src.rf>manual</src.rf>
@@ -303,7 +303,7 @@
 <LM>w#w-ln95040-029-p2s3w1</LM>
 </w.rf>
 <form>Přesvědčil</form>
-<tag lemma="přesvědčit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přesvědčit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-029-p2s3w2">
 <src.rf>manual</src.rf>
@@ -383,7 +383,7 @@
 <LM>w#w-ln95040-029-p2s3w11</LM>
 </w.rf>
 <form>doporučil</form>
-<tag lemma="doporučit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="doporučit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-029-p2s3w12">
 <src.rf>manual</src.rf>
@@ -432,8 +432,8 @@
 </w.rf>
 <form>přijal</form>
 <tag>
-<AM lemma="přijmout" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="přijmout_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="přijmout" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="přijmout" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95040-029-p2s3w19">

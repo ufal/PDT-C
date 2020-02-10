@@ -244,7 +244,7 @@
 <LM>w#w-mf920901-064-p2s1w14</LM>
 </w.rf>
 <form>odstartovalo</form>
-<tag lemma="odstartovat_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="odstartovat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920901-064-p2s1w15">
 <src.rf>manual</src.rf>
@@ -298,8 +298,8 @@
 </w.rf>
 <form>hrál</form>
 <tag>
-<AM lemma="hrát" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="hrát_:T" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="hrát" src="orig">VpYS----R-AAI--</AM>
+<AM lemma="hrát" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-mf920901-064-p2s2w3">
@@ -809,7 +809,7 @@
 <LM>w#w-mf920901-064-p3s1w23</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf920901-064-p3s1w24">
 <src.rf>manual</src.rf>
@@ -891,7 +891,7 @@
 <LM>w#w-mf920901-064-p3s2w6</LM>
 </w.rf>
 <form>postoupil</form>
-<tag lemma="postoupit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="postoupit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920901-064-p3s2w7">
 <src.rf>manual</src.rf>
@@ -955,7 +955,7 @@
 <LM>w#w-mf920901-064-p3s2w14</LM>
 </w.rf>
 <form>přezdíván</form>
-<tag lemma="přezdívat-2_:T_^(přejmenovat)_(*5t-2)" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="přezdívat-2_^(přejmenovat)_(*5t-2)" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-mf920901-064-p3s2w15">
 <src.rf>manual</src.rf>
@@ -1011,7 +1011,7 @@
 <LM>w#w-mf920901-064-p3s2w21</LM>
 </w.rf>
 <form>podlehl</form>
-<tag lemma="podlehnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="podlehnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf920901-064-p3s2w22">
 <src.rf>manual</src.rf>
@@ -1210,7 +1210,7 @@
 <LM>w#w-mf920901-064-p3s4w2</LM>
 </w.rf>
 <form>hrál</form>
-<tag lemma="hrát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="hrát" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920901-064-p3s4w3">
 <src.rf>manual</src.rf>
@@ -1309,7 +1309,7 @@
 <LM>w#w-mf920901-064-p3s4w14</LM>
 </w.rf>
 <form>odcházel</form>
-<tag lemma="odcházet_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odcházet" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920901-064-p3s4w15">
 <src.rf>manual</src.rf>
@@ -1432,7 +1432,7 @@
 <LM>w#w-mf920901-064-p3s4w29</LM>
 </w.rf>
 <form>vyhrála</form>
-<tag lemma="vyhrát" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyhrát" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920901-064-p3s4w30">
 <src.rf>manual</src.rf>
@@ -1860,7 +1860,7 @@
 <LM>w#w-mf920901-064-p4s4w12</LM>
 </w.rf>
 <form>přihlášen</form>
-<tag lemma="přihlásit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="přihlásit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf920901-064-p4s4w13">
 <src.rf>manual</src.rf>
@@ -2317,7 +2317,7 @@
 <LM>w#w-mf920901-064-p5s4w1</LM>
 </w.rf>
 <form>Byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920901-064-p5s4w2">
 <src.rf>manual</src.rf>
@@ -2397,7 +2397,7 @@
 <LM>w#w-mf920901-064-p5s4w11</LM>
 </w.rf>
 <form>nenastoupil</form>
-<tag lemma="nastoupit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="nastoupit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-mf920901-064-p5s4w12">
 <src.rf>manual</src.rf>
@@ -2615,7 +2615,7 @@
 <LM>w#w-mf920901-064-p5s6w7</LM>
 </w.rf>
 <form>považován</form>
-<tag lemma="považovat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="považovat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-mf920901-064-p5s6w8">
 <src.rf>manual</src.rf>
@@ -2655,7 +2655,7 @@
 <LM>w#w-mf920901-064-p5s6w12</LM>
 </w.rf>
 <form>nasazen</form>
-<tag lemma="nasadit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="nasadit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf920901-064-p5s6w13">
 <src.rf>manual</src.rf>
@@ -2762,7 +2762,7 @@
 <LM>w#w-mf920901-064-p5s6w25</LM>
 </w.rf>
 <form>porazil</form>
-<tag lemma="porazit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="porazit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920901-064-p5s6w26">
 <src.rf>manual</src.rf>
@@ -2810,7 +2810,7 @@
 <LM>w#w-mf920901-064-p5s6w31</LM>
 </w.rf>
 <form>získal</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920901-064-p5s6w32">
 <src.rf>manual</src.rf>
@@ -2860,7 +2860,7 @@
 <LM>w#w-mf920901-064-p5s7w3</LM>
 </w.rf>
 <form>nenechal</form>
-<tag lemma="nechat_:T" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="nechat" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-mf920901-064-p5s7w4">
 <src.rf>manual</src.rf>
@@ -2959,7 +2959,7 @@
 <LM>w#w-mf920901-064-p5s7w15</LM>
 </w.rf>
 <form>oplatil</form>
-<tag lemma="oplatit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="oplatit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920901-064-p5s7w16">
 <src.rf>manual</src.rf>
@@ -3179,7 +3179,7 @@
 <LM>w#w-mf920901-064-p6s2w13</LM>
 </w.rf>
 <form>porazil</form>
-<tag lemma="porazit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="porazit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920901-064-p6s2w14">
 <src.rf>manual</src.rf>
@@ -3223,8 +3223,8 @@
 </w.rf>
 <form>hrál</form>
 <tag>
-<AM lemma="hrát" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="hrát_:T" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="hrát" src="orig">VpYS----R-AAI--</AM>
+<AM lemma="hrát" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-mf920901-064-p6s2w19">
@@ -3294,7 +3294,7 @@
 <LM>w#w-mf920901-064-p6s3w6</LM>
 </w.rf>
 <form>přidal</form>
-<tag lemma="přidat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přidat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920901-064-p6s3w7">
 <src.rf>manual</src.rf>

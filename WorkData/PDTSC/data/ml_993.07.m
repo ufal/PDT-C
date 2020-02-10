@@ -51,7 +51,7 @@
 </w.rf>
 <form>zapomněla</form>
 <tag>
-<AM lemma="zapomenout" src="auto" recommended="1">VpQW---XR-AA---</AM>
+<AM lemma="zapomenout" src="auto" recommended="1">VpQW----R-AAP--</AM>
 <AM lemma="zapomnět_,a_,n" src="auto">VpQW---XR-AA---</AM>
 </tag>
 </m>

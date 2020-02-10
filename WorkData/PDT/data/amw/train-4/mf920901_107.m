@@ -629,7 +629,7 @@
 <LM>w#w-mf920901-107-p2s4w17</LM>
 </w.rf>
 <form>konstatoval</form>
-<tag lemma="konstatovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="konstatovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-mf920901-107-p2s4w18">
 <src.rf>manual</src.rf>
@@ -692,7 +692,7 @@
 <LM>w#w-mf920901-107-p2s4w24</LM>
 </w.rf>
 <form>zdůraznil</form>
-<tag lemma="zdůraznit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zdůraznit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920901-107-p2s4w25">
 <src.rf>manual</src.rf>
@@ -764,7 +764,7 @@
 <LM>w#w-mf920901-107-p2s4w33</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf920901-107-p2s4w34">
 <src.rf>manual</src.rf>

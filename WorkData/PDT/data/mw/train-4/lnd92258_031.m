@@ -67,7 +67,7 @@
 <LM>w#w-lnd92258-031-p1s1w7</LM>
 </w.rf>
 <form>vyslovila</form>
-<tag lemma="vyslovit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyslovit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-031-p1s1w8">
 <src.rf>manual</src.rf>
@@ -157,7 +157,7 @@
 <LM>w#w-lnd92258-031-p1s2w3</LM>
 </w.rf>
 <form>hlasovalo</form>
-<tag lemma="hlasovat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="hlasovat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92258-031-p1s2w4">
 <src.rf>manual</src.rf>
@@ -239,7 +239,7 @@
 <LM>w#w-lnd92258-031-p1s3w3</LM>
 </w.rf>
 <form>zúčastnilo</form>
-<tag lemma="zúčastnit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zúčastnit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-031-p1s3w4">
 <src.rf>manual</src.rf>
@@ -425,7 +425,7 @@
 <LM>w#w-lnd92258-031-p1s4w8</LM>
 </w.rf>
 <form>vyslovil</form>
-<tag lemma="vyslovit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyslovit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-031-p1s4w9">
 <src.rf>manual</src.rf>

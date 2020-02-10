@@ -216,7 +216,7 @@
 <LM>w#w-ln94211-69-p2s1Bw15</LM>
 </w.rf>
 <form>zakotven</form>
-<tag lemma="zakotvit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zakotvit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94211-69-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -850,7 +850,7 @@
 <LM>w#w-ln94211-69-p2s4w7</LM>
 </w.rf>
 <form>zatíženo</form>
-<tag lemma="zatížit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zatížit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94211-69-p2s4w8">
 <src.rf>manual</src.rf>
@@ -1156,7 +1156,7 @@
 <LM>w#w-ln94211-69-p2s5w6</LM>
 </w.rf>
 <form>neměly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-NA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-NAI--</tag>
 </m>
 <m id="m-ln94211-69-p2s5w7">
 <src.rf>manual</src.rf>
@@ -1304,7 +1304,7 @@
 <LM>w#w-ln94211-69-p3s2w7</LM>
 </w.rf>
 <form>zdaňovány</form>
-<tag lemma="zdaňovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="zdaňovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln94211-69-p3s2w8">
 <src.rf>manual</src.rf>
@@ -1413,7 +1413,7 @@
 <LM>w#w-ln94211-69-p3s3w10</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94211-69-p3s3w11">
 <src.rf>manual</src.rf>
@@ -1421,7 +1421,7 @@
 <LM>w#w-ln94211-69-p3s3w11</LM>
 </w.rf>
 <form>zatíženy</form>
-<tag lemma="zatížit" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="zatížit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln94211-69-p3s3w12">
 <src.rf>manual</src.rf>
@@ -1469,7 +1469,7 @@
 <LM>w#w-ln94211-69-p3s3w17</LM>
 </w.rf>
 <form>dodávány</form>
-<tag lemma="dodávat_:T_^(*4at)" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="dodávat_^(*4at)" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln94211-69-p3s3w18">
 <src.rf>manual</src.rf>
@@ -2358,7 +2358,7 @@
 <LM>w#w-ln94211-69-p5s3w7</LM>
 </w.rf>
 <form>neměla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-ln94211-69-p5s3w8">
 <src.rf>manual</src.rf>

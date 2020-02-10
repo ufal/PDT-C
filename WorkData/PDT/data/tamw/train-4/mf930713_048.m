@@ -127,7 +127,7 @@
 <LM>w#w-mf930713-048-p2s1Bw6</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930713-048-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -225,7 +225,7 @@
 <LM>w#w-mf930713-048-p2s2w1</LM>
 </w.rf>
 <form>Kompenzovala</form>
-<tag lemma="kompenzovat_:T_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="kompenzovat" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-mf930713-048-p2s2w2">
 <src.rf>manual</src.rf>
@@ -467,7 +467,7 @@
 <LM>w#w-mf930713-048-p2s3w12</LM>
 </w.rf>
 <form>jednala</form>
-<tag lemma="jednat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="jednat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930713-048-p2s3w13">
 <src.rf>manual</src.rf>
@@ -563,7 +563,7 @@
 <LM>w#w-mf930713-048-p2s3w24</LM>
 </w.rf>
 <form>prohlásil</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-048-p2s3w25">
 <src.rf>manual</src.rf>
@@ -725,7 +725,7 @@
 <LM>w#w-mf930713-048-p2s4w18</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930713-048-p2s4w19">
 <src.rf>manual</src.rf>
@@ -749,7 +749,7 @@
 <LM>w#w-mf930713-048-p2s4w21</LM>
 </w.rf>
 <form>valorizovány</form>
-<tag lemma="valorizovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="valorizovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf930713-048-p2s4w22">
 <src.rf>manual</src.rf>
@@ -847,7 +847,7 @@
 <LM>w#w-mf930713-048-p2s5w10</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930713-048-p2s5w11">
 <src.rf>manual</src.rf>
@@ -863,7 +863,7 @@
 <LM>w#w-mf930713-048-p2s5w12</LM>
 </w.rf>
 <form>valorizovány</form>
-<tag lemma="valorizovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="valorizovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf930713-048-p2s5w13">
 <src.rf>manual</src.rf>
@@ -921,7 +921,7 @@
 <LM>w#w-mf930713-048-p2s6w4</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930713-048-p2s6w5">
 <src.rf>manual</src.rf>

@@ -77,7 +77,7 @@
 <LM>w#w-mf930701-099-p2s1w5</LM>
 </w.rf>
 <form>museli</form>
-<tag lemma="muset" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="muset" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930701-099-p2s1w6">
 <src.rf>manual</src.rf>
@@ -313,7 +313,7 @@
 <LM>w#w-mf930701-099-p2s3w11</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930701-099-p2s3w12">
 <src.rf>manual</src.rf>
@@ -1017,7 +1017,7 @@
 <LM>w#w-mf930701-099-p2s8w12</LM>
 </w.rf>
 <form>vyhovoval</form>
-<tag lemma="vyhovovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyhovovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930701-099-p2s8w13">
 <src.rf>manual</src.rf>
@@ -1073,7 +1073,7 @@
 <LM>w#w-mf930701-099-p2s8w19</LM>
 </w.rf>
 <form>hájila</form>
-<tag lemma="hájit_:T_^(bránit,_obhajovat)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="hájit_^(bránit,_obhajovat)" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930701-099-p2s8w20">
 <src.rf>manual</src.rf>
@@ -1214,7 +1214,7 @@
 <LM>w#w-mf930701-099-p2s9w16</LM>
 </w.rf>
 <form>nebyla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-mf930701-099-p2s9w17">
 <src.rf>manual</src.rf>
@@ -1398,7 +1398,7 @@
 <LM>w#w-mf930701-099-p2s10w14</LM>
 </w.rf>
 <form>nebyl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-mf930701-099-p2s10w15">
 <src.rf>manual</src.rf>
@@ -1738,7 +1738,7 @@
 <LM>w#w-mf930701-099-p2s11w11</LM>
 </w.rf>
 <form>předkládala</form>
-<tag lemma="předkládat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="předkládat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930701-099-p2s11w12">
 <src.rf>manual</src.rf>
@@ -1794,8 +1794,8 @@
 </w.rf>
 <form>věděla</form>
 <tag>
-<AM lemma="vědět" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="vědět_:T" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="vědět" src="orig">VpQW----R-AAI--</AM>
+<AM lemma="vědět" src="manual" selected="1">VpQW----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-mf930701-099-p2s11w18">

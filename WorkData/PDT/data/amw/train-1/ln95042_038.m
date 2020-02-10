@@ -258,7 +258,7 @@
 <LM>w#w-ln95042-038-p2s2w5</LM>
 </w.rf>
 <form>projevil</form>
-<tag lemma="projevit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="projevit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95042-038-p2s2w6">
 <src.rf>manual</src.rf>
@@ -306,7 +306,7 @@
 <LM>w#w-ln95042-038-p2s2w11</LM>
 </w.rf>
 <form>připraven</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="připravit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95042-038-p2s2w12">
 <src.rf>manual</src.rf>
@@ -503,7 +503,7 @@
 <LM>w#w-ln95042-038-p3s1w18</LM>
 </w.rf>
 <form>utrpěl</form>
-<tag lemma="utrpět" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="utrpět" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95042-038-p3s1w19">
 <src.rf>manual</src.rf>

@@ -390,7 +390,7 @@
 <LM>w#w-lnd94104-020-p1s5w7</LM>
 </w.rf>
 <form>uskutečnilo</form>
-<tag lemma="uskutečnit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="uskutečnit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-020-p1s5w8">
 <src.rf>manual</src.rf>

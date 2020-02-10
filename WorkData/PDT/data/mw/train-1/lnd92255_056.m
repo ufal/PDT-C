@@ -118,8 +118,8 @@
 </w.rf>
 <form>začala</form>
 <tag>
-<AM lemma="začít-1_^(začnout)" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="začít-1_^(začnout)" src="auto">VpQW----R-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92255-056-p2s1w11">
@@ -282,7 +282,7 @@
 <LM>w#w-lnd92255-056-p2s2w2</LM>
 </w.rf>
 <form>zasedli</form>
-<tag lemma="zasednout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="zasednout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-lnd92255-056-p2s2w3">
 <src.rf>manual</src.rf>
@@ -563,7 +563,7 @@
 <LM>w#w-lnd92255-056-p2s3w24</LM>
 </w.rf>
 <form>zastoupena</form>
-<tag lemma="zastoupit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zastoupit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd92255-056-p2s3w25">
 <src.rf>manual</src.rf>

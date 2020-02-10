@@ -43,7 +43,7 @@
 <LM>w#w-ln94204-59-p1s1Aw4</LM>
 </w.rf>
 <form>jednal</form>
-<tag lemma="jednat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="jednat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94204-59-p1s1Aw5">
 <src.rf>manual</src.rf>

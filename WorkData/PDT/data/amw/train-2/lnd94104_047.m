@@ -154,7 +154,7 @@
 <LM>w#w-lnd94104-047-p1s3w4</LM>
 </w.rf>
 <form>pokračoval</form>
-<tag lemma="pokračovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="pokračovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94104-047-p1s3w5">
 <src.rf>manual</src.rf>
@@ -324,7 +324,7 @@
 <LM>w#w-lnd94104-047-p1s4w14</LM>
 </w.rf>
 <form>hovořili</form>
-<tag lemma="hovořit_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="hovořit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd94104-047-p1s4w15">
 <src.rf>manual</src.rf>

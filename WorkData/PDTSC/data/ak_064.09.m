@@ -734,7 +734,7 @@
 <LM>w#w-d1t2442-15</LM>
 </w.rf>
 <form>bydleli</form>
-<tag lemma="bydlet" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="bydlet" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m064-d1t2442-17">
 <w.rf>
@@ -855,7 +855,7 @@
 <LM>w#w-d1t2452-6</LM>
 </w.rf>
 <form>dostal</form>
-<tag lemma="dostat" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="dostat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m064-d1t2452-7">
 <w.rf>
@@ -974,7 +974,7 @@
 <LM>w#w-d1t2461-3</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m064-d1t2461-4">
 <w.rf>
@@ -2449,7 +2449,7 @@
 </w.rf>
 <form>Povídal</form>
 <tag>
-<AM lemma="povídat_:T" src="auto" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="povídat" src="auto" selected="1">VpYS----R-AAI--</AM>
 <AM lemma="povídal" src="auto" recommended="1">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -2593,8 +2593,8 @@
 <AM lemma="číslo" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="číslo" src="auto">NNNS4-----A----</AM>
 <AM lemma="číslo" src="auto">NNNS5-----A----</AM>
-<AM lemma="čísnout-1_:W_,h_^(praštit)" src="auto">VpNS---XR-AA--1</AM>
-<AM lemma="čísnout-2_:W_,a_^(přejet_hřebenem)" src="auto">VpNS---XR-AA--1</AM>
+<AM lemma="čísnout-1_,h_^(praštit)" src="auto">VpNS----R-AAP-1</AM>
+<AM lemma="čísnout-2_,a_^(přejet_hřebenem)" src="auto">VpNS----R-AAP-1</AM>
 </tag>
 </m>
 <m id="m064-d-m-d1e2563-x2-punct-punct">
@@ -3293,7 +3293,7 @@
 <LM>w#w-d1t2631-4</LM>
 </w.rf>
 <form>vadilo</form>
-<tag lemma="vadit_:T" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="vadit" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m064-d-id142097-punct">
 <w.rf>
@@ -3535,7 +3535,7 @@
 <LM>w#w-d1t2656-4</LM>
 </w.rf>
 <form>potřeboval</form>
-<tag lemma="potřebovat_:T" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="potřebovat" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m064-d-m-d1e2653-x2-punct-punct">
 <w.rf>

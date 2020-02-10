@@ -1088,7 +1088,7 @@
 <LM>w#w-lnd92257-058-p3s4w68</LM>
 </w.rf>
 <form>dopravily</form>
-<tag lemma="dopravit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="dopravit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-058-p3s4w69">
 <src.rf>manual</src.rf>
@@ -1258,7 +1258,7 @@
 <LM>w#w-lnd92257-058-p3s5w15</LM>
 </w.rf>
 <form>obstarávaly</form>
-<tag lemma="obstarávat_:T_^(*4at)" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="obstarávat_^(*4at)" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd92257-058-p3s5w16">
 <src.rf>manual</src.rf>
@@ -1372,7 +1372,7 @@
 <LM>w#w-lnd92257-058-p3s6w3</LM>
 </w.rf>
 <form>nebyla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-lnd92257-058-p3s6w4">
 <src.rf>manual</src.rf>

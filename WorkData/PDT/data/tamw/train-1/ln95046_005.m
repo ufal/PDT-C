@@ -553,7 +553,7 @@
 <LM>w#w-ln95046-005-p4s1w6</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95046-005-p4s1w7">
 <src.rf>manual</src.rf>
@@ -677,7 +677,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>informovaly</form>
-<tag lemma="informovat_:T_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="informovat" src="orig" selected="1">VpTP----R-AAB--</tag>
 </m>
 <m id="m-ln95046-005-p4s1w22">
 <src.rf>manual</src.rf>
@@ -929,7 +929,7 @@
 <LM>w#w-ln95046-005-p5s2w13</LM>
 </w.rf>
 <form>zpracovávány</form>
-<tag lemma="zpracovávat_:T_^(*4at)" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="zpracovávat_^(*4at)" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln95046-005-p5s2w14">
 <src.rf>manual</src.rf>
@@ -1339,7 +1339,7 @@
 <LM>w#w-ln95046-005-p6s2w15</LM>
 </w.rf>
 <form>počítalo</form>
-<tag lemma="počítat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="počítat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95046-005-p6s2w16">
 <src.rf>manual</src.rf>
@@ -1469,7 +1469,7 @@
 <LM>w#w-ln95046-005-p7s1w9</LM>
 </w.rf>
 <form>koordinovány</form>
-<tag lemma="koordinovat_:T_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="koordinovat" src="orig" selected="1">VsTP----X-APB--</tag>
 </m>
 <m id="m-ln95046-005-p7s1w10">
 <src.rf>manual</src.rf>

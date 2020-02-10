@@ -127,7 +127,7 @@
 <LM>w#w-ln94202-74-p2s1Bw6</LM>
 </w.rf>
 <form>obvinila</form>
-<tag lemma="obvinit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="obvinit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94202-74-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -305,7 +305,7 @@
 <LM>w#w-ln94202-74-p2s2w8</LM>
 </w.rf>
 <form>vyzvala</form>
-<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94202-74-p2s2w9">
 <src.rf>manual</src.rf>
@@ -345,7 +345,7 @@
 <LM>w#w-ln94202-74-p2s2w14</LM>
 </w.rf>
 <form>zakázaly</form>
-<tag lemma="zakázat" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zakázat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94202-74-p2s2w15">
 <src.rf>manual</src.rf>
@@ -425,7 +425,7 @@
 <LM>w#w-ln94202-74-p2s2w24</LM>
 </w.rf>
 <form>obrátila</form>
-<tag lemma="obrátit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="obrátit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94202-74-p2s2w25">
 <src.rf>manual</src.rf>
@@ -489,7 +489,7 @@
 <LM>w#w-ln94202-74-p2s2w33</LM>
 </w.rf>
 <form>přestaly</form>
-<tag lemma="přestat" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="přestat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94202-74-p2s2w34">
 <src.rf>manual</src.rf>
@@ -595,7 +595,7 @@
 <LM>w#w-ln94202-74-p2s3w7</LM>
 </w.rf>
 <form>prováděny</form>
-<tag lemma="provádět_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="provádět" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln94202-74-p2s3w8">
 <src.rf>manual</src.rf>
@@ -667,7 +667,7 @@
 <LM>w#w-ln94202-74-p2s3w17</LM>
 </w.rf>
 <form>žili</form>
-<tag lemma="žít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="žít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94202-74-p2s3w18">
 <src.rf>manual</src.rf>
@@ -723,7 +723,7 @@
 <LM>w#w-ln94202-74-p2s3w25</LM>
 </w.rf>
 <form>odebrány</form>
-<tag lemma="odebrat" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="odebrat" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln94202-74-p2s3w26">
 <src.rf>manual</src.rf>

@@ -325,7 +325,7 @@
 <LM>w#w-lnd92259-024-p1s2w2</LM>
 </w.rf>
 <form>připravila</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="připravit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-024-p1s2w3">
 <src.rf>manual</src.rf>

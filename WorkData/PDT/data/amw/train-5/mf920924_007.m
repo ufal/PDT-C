@@ -617,7 +617,7 @@
 <LM>w#w-mf920924-007-p2s3w6</LM>
 </w.rf>
 <form>neučinili</form>
-<tag lemma="učinit_:W" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="učinit" src="orig" selected="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m-mf920924-007-p2s3w7">
 <src.rf>manual</src.rf>
@@ -641,7 +641,7 @@
 <LM>w#w-mf920924-007-p2s3w9</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920924-007-p2s3w10">
 <src.rf>manual</src.rf>

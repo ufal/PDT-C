@@ -35,7 +35,7 @@
 <LM>w#w-ln95041-059-p1s1w3</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95041-059-p1s1w4">
 <src.rf>manual</src.rf>
@@ -85,7 +85,7 @@
 <LM>w#w-ln95041-059-p2s1w3</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95041-059-p2s1w4">
 <src.rf>manual</src.rf>
@@ -293,7 +293,7 @@
 <LM>w#w-ln95041-059-p2s2w4</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95041-059-p2s2w5">
 <src.rf>manual</src.rf>
@@ -389,7 +389,7 @@
 <LM>w#w-ln95041-059-p2s2w16</LM>
 </w.rf>
 <form>napsal</form>
-<tag lemma="napsat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="napsat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95041-059-p2s2w17">
 <src.rf>manual</src.rf>
@@ -487,7 +487,7 @@
 <LM>w#w-ln95041-059-p3s1w4</LM>
 </w.rf>
 <form>dospěl</form>
-<tag lemma="dospět" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dospět" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95041-059-p3s1w5">
 <src.rf>manual</src.rf>
@@ -567,7 +567,7 @@
 <LM>w#w-ln95041-059-p3s1w14</LM>
 </w.rf>
 <form>zaznamenala</form>
-<tag lemma="zaznamenat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zaznamenat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95041-059-p3s1w15">
 <src.rf>manual</src.rf>
@@ -625,7 +625,7 @@
 <LM>w#w-ln95041-059-p3s2w4</LM>
 </w.rf>
 <form>patřilo</form>
-<tag lemma="patřit_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="patřit" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95041-059-p3s2w5">
 <src.rf>manual</src.rf>
@@ -697,7 +697,7 @@
 <LM>w#w-ln95041-059-p3s2w13</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95041-059-p3s2w14">
 <src.rf>manual</src.rf>
@@ -780,7 +780,7 @@
 <LM>w#w-ln95041-059-p3s3w2</LM>
 </w.rf>
 <form>vzbudil</form>
-<tag lemma="vzbudit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vzbudit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95041-059-p3s3w3">
 <src.rf>manual</src.rf>

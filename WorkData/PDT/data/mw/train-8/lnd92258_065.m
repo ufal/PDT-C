@@ -215,7 +215,7 @@
 <LM>w#w-lnd92258-065-p2s2w21</LM>
 </w.rf>
 <form>zdůraznila</form>
-<tag lemma="zdůraznit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zdůraznit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-065-p2s2w22">
 <src.rf>manual</src.rf>
@@ -361,7 +361,7 @@
 <LM>w#w-lnd92258-065-p2s3w1</LM>
 </w.rf>
 <form>Dodala</form>
-<tag lemma="dodat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="dodat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-065-p2s3w2">
 <src.rf>manual</src.rf>
@@ -611,7 +611,7 @@
 <LM>w#w-lnd92258-065-p2s4w11</LM>
 </w.rf>
 <form>uvolnila</form>
-<tag lemma="uvolnit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="uvolnit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-065-p2s4w12">
 <src.rf>manual</src.rf>

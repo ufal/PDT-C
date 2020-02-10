@@ -322,7 +322,7 @@
 <LM>w#w-mf930703-064-p2s2w8</LM>
 </w.rf>
 <form>obohatilo</form>
-<tag lemma="obohatit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="obohatit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-064-p2s2w9">
 <src.rf>manual</src.rf>
@@ -804,7 +804,7 @@
 <LM>w#w-mf930703-064-p4s1w10</LM>
 </w.rf>
 <form>patřil</form>
-<tag lemma="patřit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="patřit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930703-064-p4s1w11">
 <src.rf>manual</src.rf>
@@ -911,7 +911,7 @@
 <LM>w#w-mf930703-064-p4s2w5</LM>
 </w.rf>
 <form>nedostali</form>
-<tag lemma="dostat" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="dostat" src="orig" selected="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m-mf930703-064-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1330,7 +1330,7 @@
 <form>raf</form>
 <tag>
 <AM lemma="raf-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="rafnout_:W" src="auto" recommended="1">VpYS---XR-AA--6</AM>
+<AM lemma="rafnout" src="auto" recommended="1">VpYS----R-AAP-6</AM>
 <AM lemma="raf-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

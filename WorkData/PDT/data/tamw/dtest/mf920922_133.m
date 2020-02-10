@@ -27,7 +27,7 @@
 <LM>w#w-mf920922-133-p1s1w2</LM>
 </w.rf>
 <form>volili</form>
-<tag lemma="volit_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="volit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf920922-133-p1s1w3">
 <src.rf>manual</src.rf>
@@ -71,7 +71,7 @@
 <LM>w#w-mf920922-133-p3s1w2</LM>
 </w.rf>
 <form>volili</form>
-<tag lemma="volit_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="volit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf920922-133-p3s1w3">
 <src.rf>manual</src.rf>
@@ -155,7 +155,7 @@
 <LM>w#w-mf920922-133-p4s2w7</LM>
 </w.rf>
 <form>získal</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-133-p4s2w8">
 <src.rf>manual</src.rf>
@@ -264,7 +264,7 @@
 <LM>w#w-mf920922-133-p4s2w20</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920922-133-p4s2w21">
 <src.rf>manual</src.rf>
@@ -374,7 +374,7 @@
 <LM>w#w-mf920922-133-p4s3w10</LM>
 </w.rf>
 <form>zúčastnili</form>
-<tag lemma="zúčastnit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zúčastnit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920922-133-p4s3w11">
 <src.rf>manual</src.rf>
@@ -390,7 +390,7 @@
 <LM>w#w-mf920922-133-p4s3w12</LM>
 </w.rf>
 <form>hlasovalo</form>
-<tag lemma="hlasovat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="hlasovat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920922-133-p4s3w13">
 <src.rf>manual</src.rf>

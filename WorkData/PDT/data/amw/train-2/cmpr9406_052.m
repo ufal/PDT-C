@@ -287,7 +287,7 @@
 <LM>w#w-cmpr9406-052-p3s2w2</LM>
 </w.rf>
 <form>věnován</form>
-<tag lemma="věnovat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="věnovat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-cmpr9406-052-p3s2w3">
 <src.rf>manual</src.rf>

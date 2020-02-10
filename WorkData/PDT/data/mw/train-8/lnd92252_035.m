@@ -221,7 +221,7 @@
 <LM>w#w-lnd92252-035-p3s3w2</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-035-p3s3w3">
 <src.rf>manual</src.rf>
@@ -296,7 +296,7 @@
 <LM>w#w-lnd92252-035-p3s3w11</LM>
 </w.rf>
 <form>přiletěl</form>
-<tag lemma="přiletět" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přiletět" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-035-p3s3w12">
 <src.rf>manual</src.rf>
@@ -397,7 +397,7 @@
 <LM>w#w-lnd92252-035-p3s4w3</LM>
 </w.rf>
 <form>uprchl</form>
-<tag lemma="uprchnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="uprchnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd92252-035-p3s4w4">
 <src.rf>manual</src.rf>
@@ -596,7 +596,7 @@
 <LM>w#w-lnd92252-035-p3s4w26</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-035-p3s4w27">
 <src.rf>manual</src.rf>
@@ -702,7 +702,7 @@
 <LM>w#w-lnd92252-035-p3s5w3</LM>
 </w.rf>
 <form>reagoval</form>
-<tag lemma="reagovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="reagovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-035-p3s5w4">
 <src.rf>manual</src.rf>
@@ -750,7 +750,7 @@
 <LM>w#w-lnd92252-035-p3s5w9</LM>
 </w.rf>
 <form>učinilo</form>
-<tag lemma="učinit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="učinit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-035-p3s5w10">
 <src.rf>manual</src.rf>
@@ -790,7 +790,7 @@
 <LM>w#w-lnd92252-035-p3s5w14</LM>
 </w.rf>
 <form>vrátil</form>
-<tag lemma="vrátit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vrátit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-035-p3s5w15">
 <src.rf>manual</src.rf>
@@ -864,7 +864,7 @@
 <LM>w#w-lnd92252-035-p3s6w4</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-035-p3s6w5">
 <src.rf>manual</src.rf>
@@ -904,7 +904,7 @@
 <LM>w#w-lnd92252-035-p3s6w9</LM>
 </w.rf>
 <form>odeslán</form>
-<tag lemma="odeslat" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="odeslat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd92252-035-p3s6w10">
 <src.rf>manual</src.rf>

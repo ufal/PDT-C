@@ -185,7 +185,7 @@
 <LM>w#w-lnd92255-025-p2s2w13</LM>
 </w.rf>
 <form>převažovali</form>
-<tag lemma="převažovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="převažovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92255-025-p2s2w14">
 <src.rf>manual</src.rf>
@@ -241,7 +241,7 @@
 <LM>w#w-lnd92255-025-p2s2w20</LM>
 </w.rf>
 <form>převažovali</form>
-<tag lemma="převažovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="převažovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92255-025-p2s2w21">
 <src.rf>manual</src.rf>

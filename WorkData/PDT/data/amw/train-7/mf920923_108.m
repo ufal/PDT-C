@@ -171,7 +171,7 @@
 <LM>w#w-mf920923-108-p4s2w9</LM>
 </w.rf>
 <form>vyjádřil</form>
-<tag lemma="vyjádřit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyjádřit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-108-p4s2w10">
 <src.rf>manual</src.rf>
@@ -277,7 +277,7 @@
 <LM>w#w-mf920923-108-p4s3w6</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-108-p4s3w7">
 <src.rf>manual</src.rf>
@@ -479,7 +479,7 @@
 <LM>w#w-mf920923-108-p4s4w8</LM>
 </w.rf>
 <form>uchýlil</form>
-<tag lemma="uchýlit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uchýlit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-108-p4s4w9">
 <src.rf>manual</src.rf>

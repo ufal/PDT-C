@@ -129,7 +129,7 @@
 <LM>w#w-ln94203-109-p2s1w13</LM>
 </w.rf>
 <form>zvítězilo</form>
-<tag lemma="zvítězit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zvítězit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94203-109-p2s1w14">
 <src.rf>manual</src.rf>
@@ -479,7 +479,7 @@
 <LM>w#w-ln94203-109-p3s2w3</LM>
 </w.rf>
 <form>zdolali</form>
-<tag lemma="zdolat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zdolat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94203-109-p3s2w4">
 <src.rf>manual</src.rf>

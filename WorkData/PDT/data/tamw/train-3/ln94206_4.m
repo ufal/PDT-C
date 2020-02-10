@@ -435,7 +435,7 @@
 <LM>w#w-ln94206-4-p3s1w4</LM>
 </w.rf>
 <form>vznikl</form>
-<tag lemma="vzniknout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="vzniknout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln94206-4-p3s1w5">
 <src.rf>manual</src.rf>

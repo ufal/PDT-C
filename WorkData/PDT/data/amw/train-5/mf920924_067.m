@@ -140,7 +140,7 @@
 <LM>w#w-mf920924-067-p1s1w16</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920924-067-p1s1w17">
 <src.rf>manual</src.rf>
@@ -156,7 +156,7 @@
 <LM>w#w-mf920924-067-p1s1w18</LM>
 </w.rf>
 <form>odhalen</form>
-<tag lemma="odhalit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="odhalit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf920924-067-p1s1w19">
 <src.rf>manual</src.rf>
@@ -437,7 +437,7 @@
 <LM>w#w-mf920924-067-p1s4w7</LM>
 </w.rf>
 <form>viděli</form>
-<tag lemma="vidět" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vidět" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf920924-067-p1s4w8">
 <src.rf>manual</src.rf>
@@ -485,7 +485,7 @@
 <LM>w#w-mf920924-067-p1s4w13</LM>
 </w.rf>
 <form>skládali</form>
-<tag lemma="skládat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="skládat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf920924-067-p1s4w14">
 <src.rf>manual</src.rf>

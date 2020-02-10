@@ -75,7 +75,7 @@
 <LM>w#w-ln95043-033-p1s1w8</LM>
 </w.rf>
 <form>režíroval</form>
-<tag lemma="režírovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="režírovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95043-033-p1s1w9">
 <src.rf>manual</src.rf>

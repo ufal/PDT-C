@@ -116,7 +116,7 @@
 <LM>w#w-wsj0223-001-p1s0W6</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-wsj0223-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -124,7 +124,7 @@
 <LM>w#w-wsj0223-001-p1s0W7</LM>
 </w.rf>
 <form>prodáno</form>
-<tag lemma="prodat" src="auto" recommended="1">VsNS---XX-APP--</tag>
+<tag lemma="prodat" src="auto" recommended="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-wsj0223-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>

@@ -177,7 +177,7 @@
 <LM>w#w-mf920922-115-p3s1Bw9</LM>
 </w.rf>
 <form>nezaznamenala</form>
-<tag lemma="zaznamenat_:W" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="zaznamenat" src="orig" selected="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-mf920922-115-p3s1Bw10">
 <src.rf>manual</src.rf>
@@ -221,7 +221,7 @@
 <LM>w#w-mf920922-115-p3s1Bw14</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-115-p3s1Bw15">
 <src.rf>manual</src.rf>
@@ -282,7 +282,7 @@
 <LM>w#w-mf920922-115-p3s2w1</LM>
 </w.rf>
 <form>Zdůraznil</form>
-<tag lemma="zdůraznit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zdůraznit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-115-p3s2w2">
 <src.rf>manual</src.rf>
@@ -378,7 +378,7 @@
 <LM>w#w-mf920922-115-p3s2w13</LM>
 </w.rf>
 <form>popřel</form>
-<tag lemma="popřít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="popřít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-115-p3s2w14">
 <src.rf>manual</src.rf>
@@ -426,7 +426,7 @@
 <LM>w#w-mf920922-115-p3s2w19</LM>
 </w.rf>
 <form>existoval</form>
-<tag lemma="existovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="existovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920922-115-p3s2w20">
 <src.rf>manual</src.rf>
@@ -495,7 +495,7 @@
 <LM>w#w-mf920922-115-p3s2w26</LM>
 </w.rf>
 <form>zaznívalo</form>
-<tag lemma="zaznívat_:T_^(*3t)" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zaznívat_^(*3t)" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920922-115-p3s2w27">
 <src.rf>manual</src.rf>
@@ -585,7 +585,7 @@
 <LM>w#w-mf920922-115-p3s3w1</LM>
 </w.rf>
 <form>Konstatoval</form>
-<tag lemma="konstatovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="konstatovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-mf920922-115-p3s3w2">
 <src.rf>manual</src.rf>
@@ -867,7 +867,7 @@
 <LM>w#w-mf920922-115-p3s4w1</LM>
 </w.rf>
 <form>Vyslovil</form>
-<tag lemma="vyslovit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyslovit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-115-p3s4w2">
 <src.rf>manual</src.rf>

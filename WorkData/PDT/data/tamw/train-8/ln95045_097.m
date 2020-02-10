@@ -361,7 +361,7 @@
 <LM>w#w-ln95045-097-p2s2w4</LM>
 </w.rf>
 <form>procházeli</form>
-<tag lemma="procházet_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="procházet" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95045-097-p2s2w5">
 <src.rf>manual</src.rf>
@@ -427,7 +427,7 @@
 <LM>w#w-ln95045-097-p2s3w1</LM>
 </w.rf>
 <form>Zaujala</form>
-<tag lemma="zaujmout_^(upoutat_pozornost)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zaujmout_^(upoutat_pozornost)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95045-097-p2s3w2">
 <src.rf>manual</src.rf>
@@ -539,7 +539,7 @@
 <LM>w#w-ln95045-097-p2s3w15</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95045-097-p2s3w16">
 <src.rf>manual</src.rf>
@@ -547,7 +547,7 @@
 <LM>w#w-ln95045-097-p2s3w16</LM>
 </w.rf>
 <form>vyrobena</form>
-<tag lemma="vyrobit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="vyrobit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln95045-097-p2s3w17">
 <src.rf>manual</src.rf>

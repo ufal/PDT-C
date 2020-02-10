@@ -271,7 +271,7 @@
 <LM>w#w-ln94204-112-p2s2w1</LM>
 </w.rf>
 <form>Bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94204-112-p2s2w2">
 <src.rf>manual</src.rf>
@@ -287,7 +287,7 @@
 <LM>w#w-ln94204-112-p2s2w3</LM>
 </w.rf>
 <form>potvrzeno</form>
-<tag lemma="potvrdit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="potvrdit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94204-112-p2s2w4">
 <src.rf>manual</src.rf>
@@ -393,7 +393,7 @@
 <LM>w#w-ln94204-112-p2s3w6</LM>
 </w.rf>
 <form>zúčastnil</form>
-<tag lemma="zúčastnit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zúčastnit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94204-112-p2s3w7">
 <src.rf>manual</src.rf>
@@ -441,7 +441,7 @@
 <LM>w#w-ln94204-112-p2s3w12</LM>
 </w.rf>
 <form>zapsán</form>
-<tag lemma="zapsat" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zapsat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94204-112-p2s3w13">
 <src.rf>manual</src.rf>

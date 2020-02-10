@@ -141,7 +141,7 @@
 <LM>w#w-mf930702-066-p2s2w2</LM>
 </w.rf>
 <form>slíbilo</form>
-<tag lemma="slíbit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="slíbit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930702-066-p2s2w3">
 <src.rf>manual</src.rf>
@@ -240,7 +240,7 @@
 <LM>w#w-mf930702-066-p2s2w14</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930702-066-p2s2w15">
 <src.rf>manual</src.rf>
@@ -346,7 +346,7 @@
 <LM>w#w-mf930702-066-p2s3w2</LM>
 </w.rf>
 <form>rozhodlo</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpNS---XR-AA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpNS----R-AAP-1</tag>
 </m>
 <m id="m-mf930702-066-p2s3w3">
 <src.rf>manual</src.rf>
@@ -434,7 +434,7 @@
 <LM>w#w-mf930702-066-p2s3w13</LM>
 </w.rf>
 <form>přihlásily</form>
-<tag lemma="přihlásit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="přihlásit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf930702-066-p2s3w14">
 <src.rf>manual</src.rf>
@@ -567,7 +567,7 @@
 <LM>w#w-mf930702-066-p2s4w15</LM>
 </w.rf>
 <form>odstoupil</form>
-<tag lemma="odstoupit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odstoupit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930702-066-p2s4w16">
 <src.rf>manual</src.rf>

@@ -194,7 +194,7 @@
 <LM>w#w-cmpr9416-007-p4s2w5</LM>
 </w.rf>
 <form>zaujímala</form>
-<tag lemma="zaujímat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zaujímat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-cmpr9416-007-p4s2w6">
 <src.rf>manual</src.rf>
@@ -244,7 +244,7 @@
 <LM>w#w-cmpr9416-007-p4s3w1</LM>
 </w.rf>
 <form>Platila</form>
-<tag lemma="platit_:T" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="platit" src="auto" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-cmpr9416-007-p4s3w2">
 <src.rf>manual</src.rf>
@@ -978,7 +978,7 @@
 <LM>w#w-cmpr9416-007-p4s5w19</LM>
 </w.rf>
 <form>zrušena</form>
-<tag lemma="zrušit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zrušit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-cmpr9416-007-p4s5w20">
 <src.rf>manual</src.rf>
@@ -1196,7 +1196,7 @@
 <LM>w#w-cmpr9416-007-p4s6w13</LM>
 </w.rf>
 <form>uvaleno</form>
-<tag lemma="uvalit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="uvalit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-cmpr9416-007-p4s6w14">
 <src.rf>manual</src.rf>

@@ -146,7 +146,7 @@
 <LM>w#w-wsj1788-001-p1s0W8</LM>
 </w.rf>
 <form>rozhodla</form>
-<tag lemma="rozhodnout" src="auto" recommended="1">VpQW---XR-AAP-1</tag>
+<tag lemma="rozhodnout" src="auto" recommended="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-wsj1788-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1195,7 +1195,7 @@
 <LM>w#w-wsj1788-001-p1s3W6</LM>
 </w.rf>
 <form>uvedli</form>
-<tag lemma="uvést" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj1788-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>

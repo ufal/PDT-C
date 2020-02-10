@@ -1087,7 +1087,7 @@
 <LM>w#w-lnd92258-110-p6s1w13</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92258-110-p6s1w14">
 <src.rf>manual</src.rf>
@@ -1103,7 +1103,7 @@
 <LM>w#w-lnd92258-110-p6s1w15</LM>
 </w.rf>
 <form>zahájena</form>
-<tag lemma="zahájit" src="auto" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zahájit" src="auto" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd92258-110-p6s1w16">
 <src.rf>manual</src.rf>
@@ -1559,7 +1559,7 @@
 <LM>w#w-lnd92258-110-p8s1w5</LM>
 </w.rf>
 <form>připravil</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="připravit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-110-p8s1w6">
 <src.rf>manual</src.rf>
@@ -2077,7 +2077,7 @@
 <LM>w#w-lnd92258-110-p10s1w14</LM>
 </w.rf>
 <form>získal</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-110-p10s1w15">
 <src.rf>manual</src.rf>
@@ -2143,7 +2143,7 @@
 <LM>w#w-lnd92258-110-p10s2w2</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92258-110-p10s2w3">
 <src.rf>manual</src.rf>
@@ -2159,7 +2159,7 @@
 <LM>w#w-lnd92258-110-p10s2w4</LM>
 </w.rf>
 <form>posouzeni</form>
-<tag lemma="posoudit" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="posoudit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-lnd92258-110-p10s2w5">
 <src.rf>manual</src.rf>
@@ -2207,7 +2207,7 @@
 <LM>w#w-lnd92258-110-p10s2w10</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92258-110-p10s2w11">
 <src.rf>manual</src.rf>
@@ -2215,7 +2215,7 @@
 <LM>w#w-lnd92258-110-p10s2w11</LM>
 </w.rf>
 <form>pozváno</form>
-<tag lemma="pozvat" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="pozvat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92258-110-p10s2w12">
 <src.rf>manual</src.rf>

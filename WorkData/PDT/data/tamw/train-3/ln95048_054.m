@@ -1480,7 +1480,7 @@
 <LM>w#w-ln95048-054-p3s1w48</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95048-054-p3s1w49">
 <src.rf>manual</src.rf>
@@ -1668,7 +1668,7 @@
 <form>staly</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpTP---XR-AA---</AM>
-<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpTP---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95048-054-p3s2w18">
@@ -2697,7 +2697,7 @@
 <LM>w#w-ln95048-054-p3s5w37</LM>
 </w.rf>
 <form>odsunula</form>
-<tag lemma="odsunout" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="odsunout" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95048-054-p3s5w38">
 <src.rf>manual</src.rf>
@@ -2753,7 +2753,7 @@
 <LM>w#w-ln95048-054-p3s5w44</LM>
 </w.rf>
 <form>odstartovala</form>
-<tag lemma="odstartovat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="odstartovat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95048-054-p3s5w45">
 <src.rf>manual</src.rf>
@@ -3882,7 +3882,7 @@
 <LM>w#w-ln95048-054-p5s1w17</LM>
 </w.rf>
 <form>podpořily</form>
-<tag lemma="podpořit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="podpořit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95048-054-p5s1w18">
 <src.rf>manual</src.rf>
@@ -3906,7 +3906,7 @@
 <LM>w#w-ln95048-054-p5s1w20</LM>
 </w.rf>
 <form>nepenalizovaly</form>
-<tag lemma="penalizovat_:T_:W" src="orig" selected="1">VpTP---XR-NA---</tag>
+<tag lemma="penalizovat" src="orig" selected="1">VpTP----R-NAB--</tag>
 </m>
 <m id="m-ln95048-054-p5s1w21">
 <src.rf>manual</src.rf>
@@ -3986,7 +3986,7 @@
 <LM>w#w-ln95048-054-p5s1w30</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95048-054-p5s1w31">
 <src.rf>manual</src.rf>

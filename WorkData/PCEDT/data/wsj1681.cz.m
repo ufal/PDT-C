@@ -188,7 +188,7 @@
 <LM>w#w-wsj1681-001-p1s0W14</LM>
 </w.rf>
 <form>zvýšila</form>
-<tag lemma="zvýšit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="zvýšit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1681-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>

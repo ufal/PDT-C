@@ -195,7 +195,7 @@
 <LM>w#w-lnd92255-002-p1s1w22</LM>
 </w.rf>
 <form>hovořili</form>
-<tag lemma="hovořit_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="hovořit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92255-002-p1s1w23">
 <src.rf>manual</src.rf>
@@ -261,7 +261,7 @@
 <LM>w#w-lnd92255-002-p1s2w1</LM>
 </w.rf>
 <form>Seznámili</form>
-<tag lemma="seznámit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="seznámit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-002-p1s2w2">
 <src.rf>manual</src.rf>
@@ -511,7 +511,7 @@
 <LM>w#w-lnd92255-002-p2s1w5</LM>
 </w.rf>
 <form>přispěli</form>
-<tag lemma="přispět" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přispět" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-002-p2s1w6">
 <src.rf>manual</src.rf>
@@ -753,7 +753,7 @@
 <LM>w#w-lnd92255-002-p2s3w5</LM>
 </w.rf>
 <form>přidali</form>
-<tag lemma="přidat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přidat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-002-p2s3w6">
 <src.rf>manual</src.rf>
@@ -1102,7 +1102,7 @@
 <LM>w#w-lnd92255-002-p3s2w14</LM>
 </w.rf>
 <form>přistaveny</form>
-<tag lemma="přistavit_:W_^(např._auto_k_naložení)" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="přistavit_^(např._auto_k_naložení)" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd92255-002-p3s2w15">
 <src.rf>manual</src.rf>

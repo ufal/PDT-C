@@ -185,7 +185,7 @@
 <LM>w#w-lnd94105-075-p1s4w6</LM>
 </w.rf>
 <form>klesl</form>
-<tag lemma="klesnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="klesnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd94105-075-p1s4w7">
 <src.rf>manual</src.rf>
@@ -323,7 +323,7 @@
 <LM>w#w-lnd94105-075-p1s5w5</LM>
 </w.rf>
 <form>klesl</form>
-<tag lemma="klesnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="klesnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd94105-075-p1s5w6">
 <src.rf>manual</src.rf>
@@ -453,7 +453,7 @@
 <LM>w#w-lnd94105-075-p1s6w4</LM>
 </w.rf>
 <form>snížila</form>
-<tag lemma="snížit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="snížit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94105-075-p1s6w5">
 <src.rf>manual</src.rf>
@@ -512,7 +512,7 @@
 <LM>w#w-lnd94105-075-p1s6w11</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94105-075-p1s6w12">
 <src.rf>manual</src.rf>
@@ -520,7 +520,7 @@
 <LM>w#w-lnd94105-075-p1s6w12</LM>
 </w.rf>
 <form>zaznamenán</form>
-<tag lemma="zaznamenat_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zaznamenat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd94105-075-p1s6w13">
 <src.rf>manual</src.rf>
@@ -621,7 +621,7 @@
 <LM>w#w-lnd94105-075-p1s7w3</LM>
 </w.rf>
 <form>klesla</form>
-<tag lemma="klesnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="klesnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-lnd94105-075-p1s7w4">
 <src.rf>manual</src.rf>
@@ -679,7 +679,7 @@
 <LM>w#w-lnd94105-075-p1s8w3</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd94105-075-p1s8w4">
 <src.rf>manual</src.rf>
@@ -769,7 +769,7 @@
 <LM>w#w-lnd94105-075-p1s9w3</LM>
 </w.rf>
 <form>nastal</form>
-<tag lemma="nastat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nastat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94105-075-p1s9w4">
 <src.rf>manual</src.rf>

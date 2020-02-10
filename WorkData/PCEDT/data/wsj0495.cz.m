@@ -329,7 +329,7 @@
 <LM>w#w-wsj0495-001-p1s0W27</LM>
 </w.rf>
 <form>uvedly</form>
-<tag lemma="uvést" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj0495-001-p1s0W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -544,7 +544,7 @@
 <LM>w#w-wsj0495-001-p1s1W16</LM>
 </w.rf>
 <form>setkali</form>
-<tag lemma="setkat" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="setkat" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj0495-001-p1s1W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -795,7 +795,7 @@
 <tag>
 <AM lemma="podnik" src="auto">NNIS1-----A----</AM>
 <AM lemma="podnik" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="podniknout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="podniknout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-wsj0495-001-p1s2W10-Ta">
@@ -1141,7 +1141,7 @@
 <LM>w#w-wsj0495-001-p1s3W20</LM>
 </w.rf>
 <form>postavena</form>
-<tag lemma="postavit" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="postavit" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj0495-001-p1s3W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1179,7 +1179,7 @@
 <LM>w#w-wsj0495-001-p1s3W24</LM>
 </w.rf>
 <form>uvedly</form>
-<tag lemma="uvést" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj0495-001-p1s3W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1223,7 +1223,7 @@
 <LM>w#w-wsj0495-001-p1s4W2</LM>
 </w.rf>
 <form>uvedly</form>
-<tag lemma="uvést" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj0495-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>

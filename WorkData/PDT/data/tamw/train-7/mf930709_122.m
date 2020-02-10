@@ -316,7 +316,7 @@
 <LM>w#w-mf930709-122-p2s2w1</LM>
 </w.rf>
 <form>Sdělil</form>
-<tag lemma="sdělit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sdělit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-122-p2s2w2">
 <src.rf>manual</src.rf>
@@ -422,7 +422,7 @@
 <LM>w#w-mf930709-122-p3s1w3</LM>
 </w.rf>
 <form>stíhán</form>
-<tag lemma="stíhat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="stíhat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-mf930709-122-p3s1w4">
 <src.rf>manual</src.rf>
@@ -536,7 +536,7 @@
 <LM>w#w-mf930709-122-p3s2w4</LM>
 </w.rf>
 <form>obvinil</form>
-<tag lemma="obvinit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="obvinit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-122-p3s2w5">
 <src.rf>manual</src.rf>
@@ -827,7 +827,7 @@
 <LM>w#w-mf930709-122-p3s3w18</LM>
 </w.rf>
 <form>tvrdil</form>
-<tag lemma="tvrdit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="tvrdit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930709-122-p3s3w19">
 <src.rf>manual</src.rf>
@@ -867,7 +867,7 @@
 <LM>w#w-mf930709-122-p3s3w23</LM>
 </w.rf>
 <form>vydíral</form>
-<tag lemma="vydírat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vydírat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930709-122-p3s3w24">
 <src.rf>manual</src.rf>
@@ -926,8 +926,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930709-122-p3s4w7">
@@ -944,7 +944,7 @@
 <LM>w#w-mf930709-122-p3s4w8</LM>
 </w.rf>
 <form>vyplatil</form>
-<tag lemma="vyplatit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyplatit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-122-p3s4w9">
 <src.rf>manual</src.rf>
@@ -1011,7 +1011,7 @@
 <LM>w#w-mf930709-122-p3s4w16</LM>
 </w.rf>
 <form>vyhrožoval</form>
-<tag lemma="vyhrožovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyhrožovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930709-122-p3s4w17">
 <src.rf>manual</src.rf>

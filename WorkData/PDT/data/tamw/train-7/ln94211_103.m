@@ -117,7 +117,7 @@
 <LM>w#w-ln94211-103-p2s1w5</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94211-103-p2s1w6">
 <src.rf>manual</src.rf>
@@ -141,7 +141,7 @@
 <LM>w#w-ln94211-103-p2s1w8</LM>
 </w.rf>
 <form>zahájen</form>
-<tag lemma="zahájit" src="auto" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zahájit" src="auto" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94211-103-p2s1w9">
 <src.rf>manual</src.rf>
@@ -1069,7 +1069,7 @@
 <LM>w#w-ln94211-103-p3s1w1</LM>
 </w.rf>
 <form>Připraven</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="připravit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94211-103-p3s1w2">
 <src.rf>manual</src.rf>

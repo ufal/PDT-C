@@ -27,7 +27,7 @@
 <LM>w#w-lnd94104-142-p1s1w2</LM>
 </w.rf>
 <form>schválilo</form>
-<tag lemma="schválit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="schválit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-142-p1s1w3">
 <src.rf>manual</src.rf>
@@ -95,7 +95,7 @@
 <LM>w#w-lnd94104-142-p1s3w4</LM>
 </w.rf>
 <form>zrušila</form>
-<tag lemma="zrušit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zrušit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-142-p1s3w5">
 <src.rf>manual</src.rf>
@@ -143,7 +143,7 @@
 <LM>w#w-lnd94104-142-p1s3w10</LM>
 </w.rf>
 <form>zamítl</form>
-<tag lemma="zamítnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="zamítnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd94104-142-p1s3w11">
 <src.rf>manual</src.rf>
@@ -252,7 +252,7 @@
 <LM>w#w-lnd94104-142-p1s4w3</LM>
 </w.rf>
 <form>schválila</form>
-<tag lemma="schválit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="schválit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-142-p1s4w4">
 <src.rf>manual</src.rf>
@@ -348,7 +348,7 @@
 <LM>w#w-lnd94104-142-p1s4w15</LM>
 </w.rf>
 <form>doporučili</form>
-<tag lemma="doporučit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="doporučit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-142-p1s4w16">
 <src.rf>manual</src.rf>
@@ -398,7 +398,7 @@
 <LM>w#w-lnd94104-142-p1s5w1</LM>
 </w.rf>
 <form>Schválen</form>
-<tag lemma="schválit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="schválit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd94104-142-p1s5w2">
 <src.rf>manual</src.rf>
@@ -406,7 +406,7 @@
 <LM>w#w-lnd94104-142-p1s5w2</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94104-142-p1s5w3">
 <src.rf>manual</src.rf>
@@ -829,7 +829,7 @@
 <LM>w#w-lnd94104-142-p1s7w27</LM>
 </w.rf>
 <form>zavázalo</form>
-<tag lemma="zavázat" src="auto" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zavázat" src="auto" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-142-p1s7w28">
 <src.rf>manual</src.rf>
@@ -1007,7 +1007,7 @@
 <LM>w#w-lnd94104-142-p1s8w16</LM>
 </w.rf>
 <form>neuspokojil</form>
-<tag lemma="uspokojit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="uspokojit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-lnd94104-142-p1s8w17">
 <src.rf>manual</src.rf>

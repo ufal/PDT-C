@@ -287,7 +287,7 @@
 </w.rf>
 <form>set</form>
 <tag>
-<AM lemma="sít_^(zasévat_[semena,...])" src="auto">VsYS---XX-API--</AM>
+<AM lemma="sít_^(zasévat_[semena,...])" src="auto">VsYS----X-API--</AM>
 <AM lemma="set-1_^(sada)" src="auto">NNIS1-----A----</AM>
 <AM lemma="set-1_^(sada)" src="auto">NNIS4-----A----</AM>
 <AM lemma="set-77" src="auto">F%-------------</AM>
@@ -875,7 +875,7 @@
 <LM>w#w-wsj2301-001-p1s2W9</LM>
 </w.rf>
 <form>věděli</form>
-<tag lemma="vědět" src="auto" recommended="1">VpMP---XR-AAI--</tag>
+<tag lemma="vědět" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-wsj2301-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>

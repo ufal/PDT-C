@@ -111,7 +111,7 @@
 <LM>w#w-lnd92251-089-p2s2w8</LM>
 </w.rf>
 <form>předvedl</form>
-<tag lemma="předvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="předvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-089-p2s2w9">
 <src.rf>manual</src.rf>
@@ -223,7 +223,7 @@
 <LM>w#w-lnd92251-089-p2s2w22</LM>
 </w.rf>
 <form>požádal</form>
-<tag lemma="požádat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="požádat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-089-p2s2w23">
 <src.rf>manual</src.rf>
@@ -361,7 +361,7 @@
 <LM>w#w-lnd92251-089-p2s3w4</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92251-089-p2s3w5">
 <src.rf>manual</src.rf>

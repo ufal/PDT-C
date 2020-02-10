@@ -138,7 +138,7 @@
 <LM>w#w-mf920923-012-p1s1Cw10</LM>
 </w.rf>
 <form>došlo</form>
-<tag lemma="dojít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="dojít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-012-p1s1Cw11">
 <src.rf>manual</src.rf>
@@ -210,7 +210,7 @@
 <LM>w#w-mf920923-012-p1s1Cw19</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920923-012-p1s1Cw20">
 <src.rf>manual</src.rf>
@@ -226,7 +226,7 @@
 <LM>w#w-mf920923-012-p1s1Cw21</LM>
 </w.rf>
 <form>obchodován</form>
-<tag lemma="obchodovat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="obchodovat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-mf920923-012-p1s1Cw22">
 <src.rf>manual</src.rf>
@@ -435,7 +435,7 @@
 <LM>w#w-mf920923-012-p1s2w11</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dát" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-012-p1s2w12">
 <src.rf>manual</src.rf>
@@ -608,7 +608,7 @@
 <LM>w#w-mf920923-012-p1s3w6</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920923-012-p1s3w7">
 <src.rf>manual</src.rf>
@@ -650,7 +650,7 @@
 <LM>w#w-mf920923-012-p1s4w2</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920923-012-p1s4w3">
 <src.rf>manual</src.rf>
@@ -658,7 +658,7 @@
 <LM>w#w-mf920923-012-p1s4w3</LM>
 </w.rf>
 <form>prodáno</form>
-<tag lemma="prodat_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="prodat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf920923-012-p1s4w4">
 <src.rf>manual</src.rf>
@@ -747,7 +747,7 @@
 <LM>w#w-mf920923-012-p1s4w14</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920923-012-p1s4w15">
 <src.rf>manual</src.rf>

@@ -737,7 +737,7 @@
 <LM>w#w-mf920923-086-p4s1Bw6</LM>
 </w.rf>
 <form>naměřili</form>
-<tag lemma="naměřit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="naměřit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920923-086-p4s1Bw7">
 <src.rf>manual</src.rf>

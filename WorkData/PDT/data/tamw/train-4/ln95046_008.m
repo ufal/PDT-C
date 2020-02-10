@@ -136,8 +136,8 @@
 </w.rf>
 <form>dosáhl</form>
 <tag>
-<AM lemma="dosáhnout" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="dosáhnout_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="dosáhnout" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="dosáhnout" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95046-008-p2s1Bw10">
@@ -359,7 +359,7 @@
 <LM>w#w-ln95046-008-p2s3w4</LM>
 </w.rf>
 <form>činil</form>
-<tag lemma="činit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="činit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95046-008-p2s3w5">
 <src.rf>manual</src.rf>
@@ -440,7 +440,7 @@
 <LM>w#w-ln95046-008-p2s3w14</LM>
 </w.rf>
 <form>vyplácena</form>
-<tag lemma="vyplácet_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="vyplácet" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-ln95046-008-p2s3w15">
 <src.rf>manual</src.rf>
@@ -448,7 +448,7 @@
 <LM>w#w-ln95046-008-p2s3w15</LM>
 </w.rf>
 <form>nebyla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-ln95046-008-p2s3w16">
 <src.rf>manual</src.rf>
@@ -522,7 +522,7 @@
 <LM>w#w-ln95046-008-p3s1w8</LM>
 </w.rf>
 <form>činil</form>
-<tag lemma="činit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="činit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95046-008-p3s1w9">
 <src.rf>manual</src.rf>
@@ -772,7 +772,7 @@
 <LM>w#w-ln95046-008-p3s2w12</LM>
 </w.rf>
 <form>spadl</form>
-<tag lemma="spadnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="spadnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln95046-008-p3s2w13">
 <src.rf>manual</src.rf>

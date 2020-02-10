@@ -217,7 +217,7 @@
 <LM>w#w-lnd92254-013-p2s3w3</LM>
 </w.rf>
 <form>revokovala</form>
-<tag lemma="revokovat_:T_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="revokovat" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-lnd92254-013-p2s3w4">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <LM>w#w-lnd92254-013-p2s3w17</LM>
 </w.rf>
 <form>trvala</form>
-<tag lemma="trvat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="trvat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92254-013-p2s3w18">
 <src.rf>manual</src.rf>
@@ -363,7 +363,7 @@
 <LM>w#w-lnd92254-013-p2s4w3</LM>
 </w.rf>
 <form>předložilo</form>
-<tag lemma="předložit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="předložit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd92254-013-p2s4w4">
 <src.rf>manual</src.rf>

@@ -91,7 +91,7 @@
 <LM>w#w-wsj0364-001-p1s0W6</LM>
 </w.rf>
 <form>vykázaly</form>
-<tag lemma="vykázat" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="vykázat" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj0364-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -242,7 +242,7 @@
 <LM>w#w-wsj0364-001-p1s0W16</LM>
 </w.rf>
 <form>očekávali</form>
-<tag lemma="očekávat" src="auto" recommended="1">VpMP---XR-AAI--</tag>
+<tag lemma="očekávat" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-wsj0364-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -345,7 +345,7 @@
 <LM>w#w-wsj0364-001-p1s1W8</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag lemma="mít" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj0364-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -567,7 +567,7 @@
 <LM>w#w-wsj0364-001-p1s2W8</LM>
 </w.rf>
 <form>vynechány</form>
-<tag lemma="vynechat" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="vynechat" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj0364-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -790,7 +790,7 @@
 <LM>w#w-wsj0364-001-p1s3W14</LM>
 </w.rf>
 <form>měli</form>
-<tag lemma="mít" src="auto" recommended="1">VpMP---XR-AAI--</tag>
+<tag lemma="mít" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-wsj0364-001-p1s3W15-Ta">
 <src.rf>tagger-a</src.rf>

@@ -712,7 +712,7 @@
 <LM>w#w-ln94208-52-p2s4w14</LM>
 </w.rf>
 <form>ratifikovala</form>
-<tag lemma="ratifikovat_:T_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="ratifikovat" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-ln94208-52-p2s4w15">
 <src.rf>manual</src.rf>
@@ -829,7 +829,7 @@
 <form>staly</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpTP---XR-AA---</AM>
-<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpTP---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94208-52-p2s4w29">
@@ -1018,7 +1018,7 @@
 <LM>w#w-ln94208-52-p2s6w5</LM>
 </w.rf>
 <form>chtěli</form>
-<tag lemma="chtít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="chtít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94208-52-p2s6w6">
 <src.rf>manual</src.rf>

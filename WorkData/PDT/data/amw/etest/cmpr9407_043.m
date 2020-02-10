@@ -711,7 +711,7 @@
 <LM>w#w-cmpr9407-043-p3s4w6</LM>
 </w.rf>
 <form>zařadil</form>
-<tag lemma="zařadit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zařadit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9407-043-p3s4w7">
 <src.rf>manual</src.rf>

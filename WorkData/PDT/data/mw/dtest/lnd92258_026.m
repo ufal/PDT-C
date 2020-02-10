@@ -201,7 +201,7 @@
 <LM>w#w-lnd92258-026-p2s3w4</LM>
 </w.rf>
 <form>postupovalo</form>
-<tag lemma="postupovat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="postupovat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92258-026-p2s3w5">
 <src.rf>manual</src.rf>
@@ -647,7 +647,7 @@
 <LM>w#w-lnd92258-026-p2s6w9</LM>
 </w.rf>
 <form>uložena</form>
-<tag lemma="uložit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="uložit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd92258-026-p2s6w10">
 <src.rf>manual</src.rf>

@@ -49,7 +49,7 @@
 <LM>w#w-ln94204-52-p1s1w4</LM>
 </w.rf>
 <form>získala</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94204-52-p1s1w5">
 <src.rf>manual</src.rf>
@@ -283,7 +283,7 @@
 <LM>w#w-ln94204-52-p2s2w5</LM>
 </w.rf>
 <form>kandidoval</form>
-<tag lemma="kandidovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="kandidovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94204-52-p2s2w6">
 <src.rf>manual</src.rf>
@@ -435,7 +435,7 @@
 <LM>w#w-ln94204-52-p2s3w7</LM>
 </w.rf>
 <form>vystoupil</form>
-<tag lemma="vystoupit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vystoupit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94204-52-p2s3w8">
 <src.rf>manual</src.rf>
@@ -467,7 +467,7 @@
 <LM>w#w-ln94204-52-p2s3w11</LM>
 </w.rf>
 <form>vystupoval</form>
-<tag lemma="vystupovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vystupovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94204-52-p2s3w12">
 <src.rf>manual</src.rf>

@@ -116,7 +116,7 @@
 <LM>w#w-ln94203-111-p2s1Bw6</LM>
 </w.rf>
 <form>odstartoval</form>
-<tag lemma="odstartovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odstartovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94203-111-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -416,7 +416,7 @@
 <LM>w#w-ln94203-111-p2s3w3</LM>
 </w.rf>
 <form>zaměřen</form>
-<tag lemma="zaměřit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zaměřit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94203-111-p2s3w4">
 <src.rf>manual</src.rf>
@@ -930,7 +930,7 @@
 <LM>w#w-ln94203-111-p2s6w18</LM>
 </w.rf>
 <form>vystaveni</form>
-<tag lemma="vystavit_:W_^(např._potvrzení)" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="vystavit_^(např._potvrzení)" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-ln94203-111-p2s6w19">
 <src.rf>manual</src.rf>

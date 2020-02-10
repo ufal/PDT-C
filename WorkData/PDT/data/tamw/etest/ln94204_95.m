@@ -143,7 +143,7 @@
 <LM>w#w-ln94204-95-p2s1Bw12</LM>
 </w.rf>
 <form>šeptal</form>
-<tag lemma="šeptat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="šeptat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94204-95-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -389,7 +389,7 @@
 <LM>w#w-ln94204-95-p2s4w7</LM>
 </w.rf>
 <form>znělo</form>
-<tag lemma="znít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="znít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94204-95-p2s4w8">
 <src.rf>manual</src.rf>
@@ -1534,7 +1534,7 @@
 <LM>w#w-ln94204-95-p4s1w20</LM>
 </w.rf>
 <form>studoval</form>
-<tag lemma="studovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="studovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94204-95-p4s1w21">
 <src.rf>manual</src.rf>
@@ -2240,7 +2240,7 @@
 <LM>w#w-ln94204-95-p5s1w21</LM>
 </w.rf>
 <form>excelovala</form>
-<tag lemma="excelovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="excelovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94204-95-p5s1w22">
 <src.rf>manual</src.rf>
@@ -2352,7 +2352,7 @@
 <LM>w#w-ln94204-95-p5s1w36</LM>
 </w.rf>
 <form>hrála</form>
-<tag lemma="hrát" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="hrát" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94204-95-p5s1w37">
 <src.rf>manual</src.rf>

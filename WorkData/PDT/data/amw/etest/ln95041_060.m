@@ -110,7 +110,7 @@
 <LM>w#w-ln95041-060-p1s1w12</LM>
 </w.rf>
 <form>protestovala</form>
-<tag lemma="protestovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="protestovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95041-060-p1s1w13">
 <src.rf>manual</src.rf>
@@ -216,7 +216,7 @@
 <LM>w#w-ln95041-060-p1s2w2</LM>
 </w.rf>
 <form>jednal</form>
-<tag lemma="jednat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="jednat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95041-060-p1s2w3">
 <src.rf>manual</src.rf>
@@ -328,7 +328,7 @@
 <LM>w#w-ln95041-060-p1s3w7</LM>
 </w.rf>
 <form>přislíbil</form>
-<tag lemma="přislíbit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přislíbit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95041-060-p1s3w8">
 <src.rf>manual</src.rf>

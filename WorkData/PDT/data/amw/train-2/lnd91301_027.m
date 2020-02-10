@@ -731,7 +731,7 @@
 <form>vydal</form>
 <tag>
 <AM lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="vydat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="vydat" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd91301-027-p2s1Aw9">

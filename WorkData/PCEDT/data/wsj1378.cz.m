@@ -94,7 +94,7 @@
 <LM>w#w-wsj1378-001-p1s0W8</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1378-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>

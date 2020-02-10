@@ -290,7 +290,7 @@
 <LM>w#w-lnd92258-069-p2s3w1</LM>
 </w.rf>
 <form>Oznámil</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-069-p2s3w2">
 <src.rf>manual</src.rf>
@@ -389,8 +389,8 @@
 </w.rf>
 <form>vyzvala</form>
 <tag>
-<AM lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="vyzvat_:W_^(někoho_vyzvat_k_něčemu)" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig">VpQW----R-AAP--</AM>
+<AM lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92258-069-p2s4w6">

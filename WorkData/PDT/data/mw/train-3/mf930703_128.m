@@ -27,7 +27,7 @@
 <LM>w#w-mf930703-128-p1s1w2</LM>
 </w.rf>
 <form>podpořil</form>
-<tag lemma="podpořit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="podpořit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-128-p1s1w3">
 <src.rf>manual</src.rf>
@@ -121,7 +121,7 @@
 <LM>w#w-mf930703-128-p2s1w7</LM>
 </w.rf>
 <form>podpořil</form>
-<tag lemma="podpořit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="podpořit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-128-p2s1w8">
 <src.rf>manual</src.rf>
@@ -169,7 +169,7 @@
 <LM>w#w-mf930703-128-p2s1w13</LM>
 </w.rf>
 <form>doporučila</form>
-<tag lemma="doporučit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="doporučit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930703-128-p2s1w14">
 <src.rf>manual</src.rf>
@@ -295,7 +295,7 @@
 <LM>w#w-mf930703-128-p2s2w4</LM>
 </w.rf>
 <form>vyslovil</form>
-<tag lemma="vyslovit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyslovit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-128-p2s2w5">
 <src.rf>manual</src.rf>
@@ -409,7 +409,7 @@
 <LM>w#w-mf930703-128-p2s3w3</LM>
 </w.rf>
 <form>oznámil</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-128-p2s3w4">
 <src.rf>manual</src.rf>
@@ -489,7 +489,7 @@
 <LM>w#w-mf930703-128-p2s3w13</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930703-128-p2s3w14">
 <src.rf>manual</src.rf>
@@ -571,7 +571,7 @@
 <LM>w#w-mf930703-128-p3s1w5</LM>
 </w.rf>
 <form>vypracovalo</form>
-<tag lemma="vypracovat_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vypracovat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-128-p3s1w6">
 <src.rf>manual</src.rf>
@@ -627,7 +627,7 @@
 <LM>w#w-mf930703-128-p3s1w12</LM>
 </w.rf>
 <form>podpořil</form>
-<tag lemma="podpořit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="podpořit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-128-p3s1w13">
 <src.rf>manual</src.rf>

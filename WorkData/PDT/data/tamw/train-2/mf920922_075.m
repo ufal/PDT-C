@@ -19,7 +19,7 @@
 <LM>w#w-mf920922-075-p1s1w1</LM>
 </w.rf>
 <form>všimli</form>
-<tag lemma="všimnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="všimnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-mf920922-075-p1s1w2">
 <src.rf>manual</src.rf>
@@ -178,7 +178,7 @@
 <LM>w#w-mf920922-075-p2s1Bw13</LM>
 </w.rf>
 <form>získal</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-075-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -550,7 +550,7 @@
 <LM>w#w-mf920922-075-p2s3w13</LM>
 </w.rf>
 <form>vyhrál</form>
-<tag lemma="vyhrát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyhrát" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-075-p2s3w14">
 <src.rf>manual</src.rf>
@@ -614,7 +614,7 @@
 <LM>w#w-mf920922-075-p2s3w21</LM>
 </w.rf>
 <form>získal</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-075-p2s3w22">
 <src.rf>manual</src.rf>
@@ -975,7 +975,7 @@
 <LM>w#w-mf920922-075-p2s6w7</LM>
 </w.rf>
 <form>odmítal</form>
-<tag lemma="odmítat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odmítat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920922-075-p2s6w8">
 <src.rf>manual</src.rf>

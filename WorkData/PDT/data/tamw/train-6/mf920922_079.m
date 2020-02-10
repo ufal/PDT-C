@@ -95,7 +95,7 @@
 <LM>w#w-mf920922-079-p2s2w3</LM>
 </w.rf>
 <form>prokázaly</form>
-<tag lemma="prokázat" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="prokázat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf920922-079-p2s2w4">
 <src.rf>manual</src.rf>
@@ -192,8 +192,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920922-079-p2s2w16">
@@ -305,7 +305,7 @@
 <LM>w#w-mf920922-079-p2s3w2</LM>
 </w.rf>
 <form>sdělil</form>
-<tag lemma="sdělit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sdělit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-079-p2s3w3">
 <src.rf>manual</src.rf>
@@ -405,8 +405,8 @@
 </w.rf>
 <form>nastala</form>
 <tag>
-<AM lemma="nastat" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="nastat_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="nastat" src="orig">VpQW----R-AAP--</AM>
+<AM lemma="nastat" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920922-079-p2s3w15">
@@ -837,7 +837,7 @@
 <LM>w#w-mf920922-079-p2s4w20</LM>
 </w.rf>
 <form>potvrdilo</form>
-<tag lemma="potvrdit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="potvrdit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-079-p2s4w21">
 <src.rf>manual</src.rf>
@@ -887,7 +887,7 @@
 <LM>w#w-mf920922-079-p2s5w5</LM>
 </w.rf>
 <form>naznačilo</form>
-<tag lemma="naznačit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="naznačit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-079-p2s5w6">
 <src.rf>manual</src.rf>

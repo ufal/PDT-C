@@ -51,7 +51,7 @@
 <LM>w#w-ln95047-097-p1s1w5</LM>
 </w.rf>
 <form>představil</form>
-<tag lemma="představit-1_:W_^(si_něco;_něco/někoho_někomu)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="představit-1_^(si_něco;_něco/někoho_někomu)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95047-097-p1s1w6">
 <src.rf>manual</src.rf>
@@ -245,8 +245,8 @@
 </w.rf>
 <form>uvedl</form>
 <tag>
-<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="uvést" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="uvést" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95047-097-p2s2w4">
@@ -604,7 +604,7 @@
 <LM>w#w-ln95047-097-p3s1w22</LM>
 </w.rf>
 <form>konstatoval</form>
-<tag lemma="konstatovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="konstatovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln95047-097-p3s1w23">
 <src.rf>manual</src.rf>
@@ -678,7 +678,7 @@
 <LM>w#w-ln95047-097-p3s2w8</LM>
 </w.rf>
 <form>poznamenal</form>
-<tag lemma="poznamenat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="poznamenat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95047-097-p3s2w9">
 <src.rf>manual</src.rf>
@@ -932,8 +932,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95047-097-p4s1w13">
@@ -1024,7 +1024,7 @@
 <LM>w#w-ln95047-097-p4s2w9</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95047-097-p4s2w10">
 <src.rf>manual</src.rf>
@@ -1120,7 +1120,7 @@
 <LM>w#w-ln95047-097-p4s2w21</LM>
 </w.rf>
 <form>přinesla</form>
-<tag lemma="přinést" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="přinést" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95047-097-p4s2w22">
 <src.rf>manual</src.rf>
@@ -1234,7 +1234,7 @@
 <LM>w#w-ln95047-097-p4s3w3</LM>
 </w.rf>
 <form>potvrdila</form>
-<tag lemma="potvrdit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="potvrdit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95047-097-p4s3w4">
 <src.rf>manual</src.rf>

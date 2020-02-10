@@ -109,7 +109,7 @@
 <LM>w#w-ln95040-045-p2s1w9</LM>
 </w.rf>
 <form>zahájila</form>
-<tag lemma="zahájit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zahájit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95040-045-p2s1w10">
 <src.rf>manual</src.rf>
@@ -515,7 +515,7 @@
 <LM>w#w-ln95040-045-p2s3w4</LM>
 </w.rf>
 <form>patřil</form>
-<tag lemma="patřit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="patřit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95040-045-p2s3w5">
 <src.rf>manual</src.rf>
@@ -604,8 +604,8 @@
 </w.rf>
 <form>stavěl</form>
 <tag>
-<AM lemma="stavět" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="stavět_:T" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="stavět" src="auto">VpYS----R-AAI--</AM>
+<AM lemma="stavět" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln95040-045-p2s3w16">
@@ -680,7 +680,7 @@
 <LM>w#w-ln95040-045-p3s1w7</LM>
 </w.rf>
 <form>spojoval</form>
-<tag lemma="spojovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="spojovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95040-045-p3s1w8">
 <src.rf>manual</src.rf>
@@ -749,7 +749,7 @@
 <LM>w#w-ln95040-045-p3s2w4</LM>
 </w.rf>
 <form>dokázal</form>
-<tag lemma="dokázat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dokázat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-045-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1941,7 +1941,7 @@
 <LM>w#w-ln95040-045-p5s1w4</LM>
 </w.rf>
 <form>zasedl</form>
-<tag lemma="zasednout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="zasednout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln95040-045-p5s1w5">
 <src.rf>manual</src.rf>
@@ -2066,7 +2066,7 @@
 <LM>w#w-ln95040-045-p5s2w5</LM>
 </w.rf>
 <form>pasoval</form>
-<tag lemma="pasovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="pasovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln95040-045-p5s2w6">
 <src.rf>manual</src.rf>

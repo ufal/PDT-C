@@ -85,7 +85,7 @@
 <AM lemma="book_,t" src="orig">NNFXX-----A----</AM>
 <AM lemma="book_,t_^(anglicky_kniha)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="book_,t_^(anglicky_kniha)" src="auto">NNIS4-----A----</AM>
-<AM lemma="booknout_:W" src="auto">VpYS---XR-AA--6</AM>
+<AM lemma="booknout" src="auto">VpYS----R-AAP-6</AM>
 <AM lemma="Book-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -282,7 +282,7 @@
 <LM>w#w-ln94203-94-p1s1w32</LM>
 </w.rf>
 <form>produkoval</form>
-<tag lemma="produkovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="produkovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94203-94-p1s1w33">
 <src.rf>manual</src.rf>
@@ -439,7 +439,7 @@
 <LM>w#w-ln94203-94-p1s2w15</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94203-94-p1s2w16">
 <src.rf>manual</src.rf>
@@ -471,7 +471,7 @@
 <LM>w#w-ln94203-94-p1s2w19</LM>
 </w.rf>
 <form>uveden</form>
-<tag lemma="uvést" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="uvést" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94203-94-p1s2w20">
 <src.rf>manual</src.rf>
@@ -1003,7 +1003,7 @@
 <LM>w#w-ln94203-94-p1s5w13</LM>
 </w.rf>
 <form>pobrukovali</form>
-<tag lemma="pobrukovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="pobrukovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94203-94-p1s5w14">
 <src.rf>manual</src.rf>

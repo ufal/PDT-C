@@ -474,7 +474,7 @@
 <LM>w#w-mf930702-044-p4s1w14</LM>
 </w.rf>
 <form>zahájily</form>
-<tag lemma="zahájit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zahájit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf930702-044-p4s1w15">
 <src.rf>manual</src.rf>
@@ -964,7 +964,7 @@
 <LM>w#w-mf930702-044-p6s1w23</LM>
 </w.rf>
 <form>otevřena</form>
-<tag lemma="otevřít" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="otevřít" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf930702-044-p6s1w24">
 <src.rf>manual</src.rf>

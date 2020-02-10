@@ -1472,7 +1472,7 @@
 <LM>w#w-ln94200-22-p4s1w6</LM>
 </w.rf>
 <form>zdůraznilo</form>
-<tag lemma="zdůraznit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zdůraznit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-22-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1824,7 +1824,7 @@
 <LM>w#w-ln94200-22-p4s2w11</LM>
 </w.rf>
 <form>podotkl</form>
-<tag lemma="podotknout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="podotknout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln94200-22-p4s2w12">
 <src.rf>manual</src.rf>
@@ -1891,7 +1891,7 @@
 <LM>w#w-ln94200-22-p4s2w19</LM>
 </w.rf>
 <form>dodal</form>
-<tag lemma="dodat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dodat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-22-p4s2w20">
 <src.rf>manual</src.rf>

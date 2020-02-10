@@ -293,7 +293,7 @@
 <LM>w#w-lnd94103-115-p1s3w22</LM>
 </w.rf>
 <form>vynesly</form>
-<tag lemma="vynést" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vynést" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-115-p1s3w23">
 <src.rf>manual</src.rf>
@@ -885,7 +885,7 @@
 <LM>w#w-lnd94103-115-p1s6w8</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-115-p1s6w9">
 <src.rf>manual</src.rf>

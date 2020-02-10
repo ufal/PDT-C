@@ -115,7 +115,7 @@
 <LM>w#w-vesm9211-008-p1s2w5</LM>
 </w.rf>
 <form>vystudoval</form>
-<tag lemma="vystudovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vystudovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-vesm9211-008-p1s2w6">
 <src.rf>manual</src.rf>
@@ -383,7 +383,7 @@
 <LM>w#w-vesm9211-008-p2s2w5</LM>
 </w.rf>
 <form>vystudoval</form>
-<tag lemma="vystudovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vystudovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-vesm9211-008-p2s2w6">
 <src.rf>manual</src.rf>
@@ -603,7 +603,7 @@
 <LM>w#w-vesm9211-008-p3s2w5</LM>
 </w.rf>
 <form>vystudoval</form>
-<tag lemma="vystudovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vystudovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-vesm9211-008-p3s2w6">
 <src.rf>manual</src.rf>
@@ -884,7 +884,7 @@
 <LM>w#w-vesm9211-008-p4s2w5</LM>
 </w.rf>
 <form>vystudoval</form>
-<tag lemma="vystudovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vystudovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-vesm9211-008-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1188,7 +1188,7 @@
 <LM>w#w-vesm9211-008-p5s1w9</LM>
 </w.rf>
 <form>vystudoval</form>
-<tag lemma="vystudovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vystudovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-vesm9211-008-p5s1w10">
 <src.rf>manual</src.rf>
@@ -1435,7 +1435,7 @@
 <LM>w#w-vesm9211-008-p6s2w5</LM>
 </w.rf>
 <form>vystudoval</form>
-<tag lemma="vystudovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vystudovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-vesm9211-008-p6s2w6">
 <src.rf>manual</src.rf>
@@ -1679,7 +1679,7 @@
 <LM>w#w-vesm9211-008-p7s2w5</LM>
 </w.rf>
 <form>vystudoval</form>
-<tag lemma="vystudovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vystudovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-vesm9211-008-p7s2w6">
 <src.rf>manual</src.rf>
@@ -1996,7 +1996,7 @@
 <LM>w#w-vesm9211-008-p8s2w5</LM>
 </w.rf>
 <form>vystudoval</form>
-<tag lemma="vystudovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vystudovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-vesm9211-008-p8s2w6">
 <src.rf>manual</src.rf>
@@ -2192,7 +2192,7 @@
 <form>Prosch</form>
 <tag>
 <AM lemma="Prosch_;S" src="orig" selected="1">NNMS1-----A----</AM>
-<AM lemma="proschnout_:W" src="auto" recommended="1">VpYS---XR-AA--6</AM>
+<AM lemma="proschnout" src="auto" recommended="1">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-vesm9211-008-p9s1w3">
@@ -2233,7 +2233,7 @@
 <LM>w#w-vesm9211-008-p9s1w7</LM>
 </w.rf>
 <form>studoval</form>
-<tag lemma="studovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="studovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-vesm9211-008-p9s1w8">
 <src.rf>manual</src.rf>
@@ -2545,7 +2545,7 @@
 <LM>w#w-vesm9211-008-p10s1w15</LM>
 </w.rf>
 <form>vystudoval</form>
-<tag lemma="vystudovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vystudovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-vesm9211-008-p10s1w16">
 <src.rf>manual</src.rf>
@@ -2859,7 +2859,7 @@
 <LM>w#w-vesm9211-008-p11s1w9</LM>
 </w.rf>
 <form>vystudoval</form>
-<tag lemma="vystudovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vystudovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-vesm9211-008-p11s1w10">
 <src.rf>manual</src.rf>

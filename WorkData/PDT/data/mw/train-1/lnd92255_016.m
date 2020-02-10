@@ -342,7 +342,7 @@
 <LM>w#w-lnd92255-016-p1s2w6</LM>
 </w.rf>
 <form>daroval</form>
-<tag lemma="darovat_:T_:W" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="darovat" src="auto" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-lnd92255-016-p1s2w7">
 <src.rf>manual</src.rf>

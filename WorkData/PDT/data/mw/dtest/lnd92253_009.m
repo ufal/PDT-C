@@ -107,7 +107,7 @@
 <LM>w#w-lnd92253-009-p1s1w12</LM>
 </w.rf>
 <form>zasláno</form>
-<tag lemma="zaslat" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zaslat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92253-009-p1s1w13">
 <src.rf>manual</src.rf>
@@ -190,7 +190,7 @@
 <LM>w#w-lnd92253-009-p1s1w22</LM>
 </w.rf>
 <form>odcestoval</form>
-<tag lemma="odcestovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odcestovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92253-009-p1s1w23">
 <src.rf>manual</src.rf>

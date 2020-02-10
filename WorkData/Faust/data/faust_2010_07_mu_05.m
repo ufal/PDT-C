@@ -381,7 +381,7 @@
 </w.rf>
 <form>byl</form>
 <tag>
-<AM lemma="být" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="být" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="být" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
@@ -450,7 +450,7 @@
 </w.rf>
 <form>nechtěl</form>
 <tag>
-<AM lemma="chtít" recommended="1">VpYS---XR-NA---</AM>
+<AM lemma="chtít" recommended="1">VpYS----R-NAI--</AM>
 <AM lemma="chtít" src="manual" selected="1">VpYS----R-NAI--</AM>
 </tag>
 </m>
@@ -588,7 +588,7 @@
 </w.rf>
 <form>nechal</form>
 <tag>
-<AM lemma="nechat_:T" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="nechat" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="nechat" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
@@ -864,7 +864,7 @@
 <tag>
 <AM lemma="vznik" recommended="1">NNIS4-----A----</AM>
 <AM lemma="vznik" selected="1">NNIS1-----A----</AM>
-<AM lemma="vzniknout_:W">VpYS---XR-AA--6</AM>
+<AM lemma="vzniknout">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="mu_05-SCzechM-p0443-s1-w2">
@@ -1205,7 +1205,7 @@
 </w.rf>
 <form>byla</form>
 <tag>
-<AM lemma="být" recommended="1">VpQW---XR-AA---</AM>
+<AM lemma="být" recommended="1">VpQW----R-AAI--</AM>
 <AM lemma="být" src="manual" selected="1">VpQW----R-AAI--</AM>
 </tag>
 </m>
@@ -1286,8 +1286,8 @@
 </w.rf>
 <form>byly</form>
 <tag>
-<AM lemma="být" recommended="1">VpTP---XR-AA---</AM>
-<AM lemma="být" src="manual" selected="1">VpTP---XR-AAI--</AM>
+<AM lemma="být" recommended="1">VpTP----R-AAI--</AM>
+<AM lemma="být" src="manual" selected="1">VpTP----R-AAI--</AM>
 </tag>
 </m>
 <m id="mu_05-SCzechM-p0454-s1-w25">
@@ -1367,8 +1367,8 @@
 </w.rf>
 <form>Zkontroloval</form>
 <tag>
-<AM lemma="zkontrolovat_:W" recommended="1">VpYS---XR-AA---</AM>
-<AM lemma="zkontrolovat" src="manual" selected="1">VpYS---XR-AAP--</AM>
+<AM lemma="zkontrolovat" recommended="1">VpYS----R-AAP--</AM>
+<AM lemma="zkontrolovat" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="mu_05-SCzechM-p0459-s1-w6">
@@ -1496,7 +1496,7 @@
 </w.rf>
 <form>zjistil</form>
 <tag>
-<AM lemma="zjistit_:W" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="zjistit" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="zjistit" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
@@ -3418,8 +3418,8 @@
 </w.rf>
 <form>vykouřila</form>
 <tag>
-<AM lemma="vykouřit_:W" recommended="1">VpQW---XR-AA---</AM>
-<AM lemma="vykouřit" src="manual">VpQW---XR-AAP--</AM>
+<AM lemma="vykouřit" recommended="1">VpQW----R-AAP--</AM>
+<AM lemma="vykouřit" src="manual">VpQW----R-AAP--</AM>
 <AM lemma="vykouřit" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
@@ -4116,7 +4116,7 @@
 </w.rf>
 <form>prohloubila</form>
 <tag>
-<AM lemma="prohloubit_:W" recommended="1">VpQW---XR-AA---</AM>
+<AM lemma="prohloubit" recommended="1">VpQW----R-AAP--</AM>
 <AM lemma="prohloubit" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
@@ -4324,7 +4324,7 @@
 </w.rf>
 <form>prošly</form>
 <tag>
-<AM lemma="projít_^(i_uplynout_[o_čase])" recommended="1">VpTP---XR-AA---</AM>
+<AM lemma="projít_^(i_uplynout_[o_čase])" recommended="1">VpTP----R-AAP--</AM>
 <AM lemma="projít_^(i_uplynout_[o_čase])" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>
@@ -4666,7 +4666,7 @@
 </w.rf>
 <form>byl</form>
 <tag>
-<AM lemma="být" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="být" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="být" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
@@ -4718,7 +4718,7 @@
 </w.rf>
 <form>zúčastnil</form>
 <tag>
-<AM lemma="zúčastnit_:W" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="zúčastnit" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="zúčastnit" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
@@ -4892,7 +4892,7 @@
 </w.rf>
 <form>byla</form>
 <tag>
-<AM lemma="být" recommended="1">VpQW---XR-AA---</AM>
+<AM lemma="být" recommended="1">VpQW----R-AAI--</AM>
 <AM lemma="být" src="manual" selected="1">VpQW----R-AAI--</AM>
 </tag>
 </m>
@@ -4902,7 +4902,7 @@
 </w.rf>
 <form>opožděna</form>
 <tag>
-<AM lemma="opozdit" recommended="1">VsQW---XX-AP---</AM>
+<AM lemma="opozdit" recommended="1">VsQW----X-APP--</AM>
 <AM lemma="opozdit" src="manual" selected="1">VsQW----X-APP--</AM>
 </tag>
 </m>
@@ -4962,7 +4962,7 @@
 </w.rf>
 <form>prozradila</form>
 <tag>
-<AM lemma="prozradit_:W" recommended="1">VpQW---XR-AA---</AM>
+<AM lemma="prozradit" recommended="1">VpQW----R-AAP--</AM>
 <AM lemma="prozradit" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
@@ -5417,7 +5417,7 @@
 </w.rf>
 <form>pomohla</form>
 <tag>
-<AM lemma="pomoci" recommended="1">VpQW---XR-AA---</AM>
+<AM lemma="pomoci" recommended="1">VpQW----R-AAP--</AM>
 <AM lemma="pomoci" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
@@ -5927,7 +5927,7 @@
 </w.rf>
 <form>používáno</form>
 <tag>
-<AM lemma="používat_:T_^(*3t)" recommended="1">VsNS---XX-AP---</AM>
+<AM lemma="používat_^(*3t)" recommended="1">VsNS----X-API--</AM>
 <AM lemma="používat_^(*3t)" src="manual" selected="1">VsNS----X-API--</AM>
 </tag>
 </m>
@@ -6358,7 +6358,7 @@
 </w.rf>
 <form>prožili</form>
 <tag>
-<AM lemma="prožít" recommended="1">VpMP---XR-AA---</AM>
+<AM lemma="prožít" recommended="1">VpMP----R-AAP--</AM>
 <AM lemma="prožít" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>

@@ -119,7 +119,7 @@
 <LM>w#w-lnd91301-009-p3s1w6</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd91301-009-p3s1w7">
 <src.rf>manual</src.rf>
@@ -239,7 +239,7 @@
 <LM>w#w-lnd91301-009-p3s1w21</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-009-p3s1w22">
 <src.rf>manual</src.rf>
@@ -303,7 +303,7 @@
 <LM>w#w-lnd91301-009-p3s1w29</LM>
 </w.rf>
 <form>vysvětlil</form>
-<tag lemma="vysvětlit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vysvětlit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-009-p3s1w30">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <LM>w#w-lnd91301-009-p3s1w37</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd91301-009-p3s1w38">
 <src.rf>manual</src.rf>
@@ -367,7 +367,7 @@
 <LM>w#w-lnd91301-009-p3s1w38</LM>
 </w.rf>
 <form>spláceny</form>
-<tag lemma="splácet_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="splácet" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-lnd91301-009-p3s1w39">
 <src.rf>manual</src.rf>
@@ -635,7 +635,7 @@
 <LM>w#w-lnd91301-009-p3s3w7</LM>
 </w.rf>
 <form>slíbily</form>
-<tag lemma="slíbit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="slíbit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-009-p3s3w8">
 <src.rf>manual</src.rf>
@@ -813,7 +813,7 @@
 <LM>w#w-lnd91301-009-p3s4w12</LM>
 </w.rf>
 <form>uzavřena</form>
-<tag lemma="uzavřít" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="uzavřít" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd91301-009-p3s4w13">
 <src.rf>manual</src.rf>
@@ -981,7 +981,7 @@
 <LM>w#w-lnd91301-009-p3s6w6</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd91301-009-p3s6w7">
 <src.rf>manual</src.rf>

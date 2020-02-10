@@ -131,7 +131,7 @@
 <LM>w#w-mf930701-071-p1s1w15</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930701-071-p1s1w16">
 <src.rf>manual</src.rf>
@@ -325,7 +325,7 @@
 <LM>w#w-mf930701-071-p1s2w10</LM>
 </w.rf>
 <form>navštívilo</form>
-<tag lemma="navštívit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="navštívit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-071-p1s2w11">
 <src.rf>manual</src.rf>
@@ -384,7 +384,7 @@
 <LM>w#w-mf930701-071-p1s2w17</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930701-071-p1s2w18">
 <src.rf>manual</src.rf>
@@ -474,7 +474,7 @@
 <LM>w#w-mf930701-071-p1s3w6</LM>
 </w.rf>
 <form>mělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930701-071-p1s3w7">
 <src.rf>manual</src.rf>
@@ -670,7 +670,7 @@
 <LM>w#w-mf930701-071-p1s5w7</LM>
 </w.rf>
 <form>probíhaly</form>
-<tag lemma="probíhat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="probíhat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930701-071-p1s5w8">
 <src.rf>manual</src.rf>
@@ -686,7 +686,7 @@
 <LM>w#w-mf930701-071-p1s5w9</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930701-071-p1s5w10">
 <src.rf>manual</src.rf>
@@ -748,7 +748,7 @@
 <LM>w#w-mf930701-071-p1s6w4</LM>
 </w.rf>
 <form>vyhovovaly</form>
-<tag lemma="vyhovovat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vyhovovat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930701-071-p1s6w5">
 <src.rf>manual</src.rf>
@@ -876,7 +876,7 @@
 <LM>w#w-mf930701-071-p1s6w20</LM>
 </w.rf>
 <form>konaly</form>
-<tag lemma="konat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="konat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930701-071-p1s6w21">
 <src.rf>manual</src.rf>
@@ -1033,7 +1033,7 @@
 <LM>w#w-mf930701-071-p1s7w8</LM>
 </w.rf>
 <form>hrálo</form>
-<tag lemma="hrát" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="hrát" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930701-071-p1s7w9">
 <src.rf>manual</src.rf>

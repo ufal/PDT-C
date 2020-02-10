@@ -248,7 +248,7 @@
 <LM>w#w-cmpr9417-024-p5s1w26</LM>
 </w.rf>
 <form>přesáhla</form>
-<tag lemma="přesáhnout" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="přesáhnout" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-cmpr9417-024-p5s1w27">
 <src.rf>manual</src.rf>

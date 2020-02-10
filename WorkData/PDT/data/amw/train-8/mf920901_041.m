@@ -672,7 +672,7 @@
 <LM>w#w-mf920901-041-p2s4w4</LM>
 </w.rf>
 <form>vybaveno</form>
-<tag lemma="vybavit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="vybavit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf920901-041-p2s4w5">
 <src.rf>manual</src.rf>
@@ -882,7 +882,7 @@
 <LM>w#w-mf920901-041-p2s5w7</LM>
 </w.rf>
 <form>vypravila</form>
-<tag lemma="vypravit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vypravit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920901-041-p2s5w8">
 <src.rf>manual</src.rf>

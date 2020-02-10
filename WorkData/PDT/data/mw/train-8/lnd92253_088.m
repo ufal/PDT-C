@@ -123,7 +123,7 @@
 <LM>w#w-lnd92253-088-p1s1w14</LM>
 </w.rf>
 <form>nebyla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-lnd92253-088-p1s1w15">
 <src.rf>manual</src.rf>

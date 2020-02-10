@@ -258,7 +258,7 @@
 <LM>w#w-mf920923-085-p1s2w6</LM>
 </w.rf>
 <form>dokázal</form>
-<tag lemma="dokázat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dokázat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-085-p1s2w7">
 <src.rf>manual</src.rf>
@@ -407,7 +407,7 @@
 <LM>w#w-mf920923-085-p1s3w9</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920923-085-p1s3w10">
 <src.rf>manual</src.rf>
@@ -463,7 +463,7 @@
 <LM>w#w-mf920923-085-p1s3w16</LM>
 </w.rf>
 <form>začínala</form>
-<tag lemma="začínat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="začínat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920923-085-p1s3w17">
 <src.rf>manual</src.rf>
@@ -921,7 +921,7 @@
 <LM>w#w-mf920923-085-p1s4w19</LM>
 </w.rf>
 <form>hájil</form>
-<tag lemma="hájit_:T_^(bránit,_obhajovat)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="hájit_^(bránit,_obhajovat)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920923-085-p1s4w20">
 <src.rf>manual</src.rf>

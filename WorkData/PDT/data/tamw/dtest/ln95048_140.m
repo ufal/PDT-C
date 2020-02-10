@@ -325,8 +325,8 @@
 </w.rf>
 <form>uvedla</form>
 <tag>
-<AM lemma="uvést" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="uvést_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="uvést" src="orig">VpQW----R-AAP--</AM>
+<AM lemma="uvést" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95048-140-p2s2w5">
@@ -816,7 +816,7 @@
 <LM>w#w-ln95048-140-p2s5w6</LM>
 </w.rf>
 <form>měnili</form>
-<tag lemma="měnit_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="měnit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95048-140-p2s5w7">
 <src.rf>manual</src.rf>
@@ -1021,8 +1021,8 @@
 </w.rf>
 <form>řekla</form>
 <tag>
-<AM lemma="říci" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpQW----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95048-140-p2s7w4">

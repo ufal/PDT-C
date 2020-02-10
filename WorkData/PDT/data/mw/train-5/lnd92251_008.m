@@ -147,7 +147,7 @@
 <LM>w#w-lnd92251-008-p2s2w9</LM>
 </w.rf>
 <form>uspořádala</form>
-<tag lemma="uspořádat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="uspořádat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-008-p2s2w10">
 <src.rf>manual</src.rf>

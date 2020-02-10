@@ -323,7 +323,7 @@
 <LM>w#w-mf930703-051-p1s2w9</LM>
 </w.rf>
 <form>udělal</form>
-<tag lemma="udělat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="udělat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-051-p1s2w10">
 <src.rf>manual</src.rf>
@@ -390,8 +390,8 @@
 </w.rf>
 <form>zasety</form>
 <tag>
-<AM lemma="zasít" src="orig">VsTP---XX-AP---</AM>
-<AM lemma="zasít_:W" src="manual" selected="1">VsTP---XX-AP---</AM>
+<AM lemma="zasít" src="orig">VsTP----X-APP--</AM>
+<AM lemma="zasít" src="manual" selected="1">VsTP----X-APP--</AM>
 </tag>
 </m>
 <m id="m-mf930703-051-p1s3w5">
@@ -772,7 +772,7 @@
 <LM>w#w-mf930703-051-p1s5w5</LM>
 </w.rf>
 <form>rozhodla</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-mf930703-051-p1s5w6">
 <src.rf>manual</src.rf>
@@ -1057,7 +1057,7 @@
 <LM>w#w-mf930703-051-p1s7w4</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930703-051-p1s7w5">
 <src.rf>manual</src.rf>
@@ -1304,7 +1304,7 @@
 <LM>w#w-mf930703-051-p2s1w11</LM>
 </w.rf>
 <form>vykupoval</form>
-<tag lemma="vykupovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vykupovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930703-051-p2s1w12">
 <src.rf>manual</src.rf>
@@ -1448,7 +1448,7 @@
 <LM>w#w-mf930703-051-p2s1w27</LM>
 </w.rf>
 <form>vyhlásil</form>
-<tag lemma="vyhlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyhlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-051-p2s1w28">
 <src.rf>manual</src.rf>

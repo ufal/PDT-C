@@ -151,7 +151,7 @@
 <LM>w#w-mf920923-098-p1s1w16</LM>
 </w.rf>
 <form>vylosovali</form>
-<tag lemma="vylosovat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vylosovat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920923-098-p1s1w17">
 <src.rf>manual</src.rf>

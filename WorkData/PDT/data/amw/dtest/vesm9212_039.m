@@ -161,8 +161,8 @@
 </w.rf>
 <form>vyvinula</form>
 <tag>
-<AM lemma="vyvinout" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="vyvinout_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="vyvinout" src="orig">VpQW----R-AAP--</AM>
+<AM lemma="vyvinout" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-vesm9212-039-p2s1w12">
@@ -1213,7 +1213,7 @@
 <LM>w#w-vesm9212-039-p4s1w39</LM>
 </w.rf>
 <form>nestudoval</form>
-<tag lemma="studovat_:T" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="studovat" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-vesm9212-039-p4s1w40">
 <src.rf>manual</src.rf>
@@ -1282,7 +1282,7 @@
 <LM>w#w-vesm9212-039-p5s1w7</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-vesm9212-039-p5s1w8">
 <src.rf>manual</src.rf>
@@ -1639,7 +1639,7 @@
 <LM>w#w-vesm9212-039-p5s2w10</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-vesm9212-039-p5s2w11">
 <src.rf>manual</src.rf>

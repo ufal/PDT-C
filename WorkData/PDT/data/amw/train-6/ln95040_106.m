@@ -59,7 +59,7 @@
 <LM>w#w-ln95040-106-p1s1w6</LM>
 </w.rf>
 <form>poklesl</form>
-<tag lemma="poklesnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="poklesnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 </s>
 <s id="m-ln95040-106-p2s1A">
@@ -135,7 +135,7 @@
 <LM>w#w-ln95040-106-p2s1Bw7</LM>
 </w.rf>
 <form>klesl</form>
-<tag lemma="klesnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="klesnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln95040-106-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -370,7 +370,7 @@
 <LM>w#w-ln95040-106-p2s2w4</LM>
 </w.rf>
 <form>přispěly</form>
-<tag lemma="přispět" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="přispět" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95040-106-p2s2w5">
 <src.rf>manual</src.rf>
@@ -442,7 +442,7 @@
 <LM>w#w-ln95040-106-p2s2w13</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95040-106-p2s2w14">
 <src.rf>manual</src.rf>
@@ -564,7 +564,7 @@
 <LM>w#w-ln95040-106-p2s3w8</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95040-106-p2s3w9">
 <src.rf>manual</src.rf>

@@ -145,7 +145,7 @@
 <LM>w#w-lnd92252-023-p3s2w9</LM>
 </w.rf>
 <form>jednal</form>
-<tag lemma="jednat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="jednat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-023-p3s2w10">
 <src.rf>manual</src.rf>

@@ -585,7 +585,7 @@
 <LM>w#w-mf930709-102-p2s4w4</LM>
 </w.rf>
 <form>odmítlo</form>
-<tag lemma="odmítnout_:W" src="orig" selected="1">VpNS---XR-AA--1</tag>
+<tag lemma="odmítnout" src="orig" selected="1">VpNS----R-AAP-1</tag>
 </m>
 <m id="m-mf930709-102-p2s4w5">
 <src.rf>manual</src.rf>
@@ -787,7 +787,7 @@
 <LM>w#w-mf930709-102-p2s5w6</LM>
 </w.rf>
 <form>porazili</form>
-<tag lemma="porazit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="porazit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930709-102-p2s5w7">
 <src.rf>manual</src.rf>
@@ -1084,7 +1084,7 @@
 <LM>w#w-mf930709-102-p2s8w4</LM>
 </w.rf>
 <form>mělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930709-102-p2s8w5">
 <src.rf>manual</src.rf>
@@ -1142,7 +1142,7 @@
 <LM>w#w-mf930709-102-p2s9w4</LM>
 </w.rf>
 <form>zůstala</form>
-<tag lemma="zůstat" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zůstat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930709-102-p2s9w5">
 <src.rf>manual</src.rf>
@@ -1206,7 +1206,7 @@
 <LM>w#w-mf930709-102-p2s9w12</LM>
 </w.rf>
 <form>jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930709-102-p2s9w13">
 <src.rf>manual</src.rf>
@@ -1264,7 +1264,7 @@
 <LM>w#w-mf930709-102-p2s10w5</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930709-102-p2s10w6">
 <src.rf>manual</src.rf>
@@ -1392,7 +1392,7 @@
 <LM>w#w-mf930709-102-p2s10w21</LM>
 </w.rf>
 <form>protestoval</form>
-<tag lemma="protestovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="protestovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930709-102-p2s10w22">
 <src.rf>manual</src.rf>
@@ -1426,7 +1426,7 @@
 <LM>w#w-mf930709-102-p2s11w3</LM>
 </w.rf>
 <form>začalo</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-102-p2s11w4">
 <src.rf>manual</src.rf>

@@ -272,7 +272,7 @@
 <LM>w#w-lnd94103-097-p1s4w10</LM>
 </w.rf>
 <form>věnován</form>
-<tag lemma="věnovat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="věnovat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-lnd94103-097-p1s4w11">
 <src.rf>manual</src.rf>

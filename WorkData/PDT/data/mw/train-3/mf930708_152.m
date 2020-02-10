@@ -230,7 +230,7 @@
 <LM>w#w-mf930708-152-p2s1w22</LM>
 </w.rf>
 <form>prodával</form>
-<tag lemma="prodávat_:T_^(*4at)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prodávat_^(*4at)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930708-152-p2s1w23">
 <src.rf>manual</src.rf>
@@ -418,7 +418,7 @@
 <LM>w#w-mf930708-152-p2s3w2</LM>
 </w.rf>
 <form>vystudoval</form>
-<tag lemma="vystudovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vystudovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-152-p2s3w3">
 <src.rf>manual</src.rf>
@@ -514,7 +514,7 @@
 <LM>w#w-mf930708-152-p2s3w15</LM>
 </w.rf>
 <form>kupoval</form>
-<tag lemma="kupovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="kupovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930708-152-p2s3w16">
 <src.rf>manual</src.rf>
@@ -546,7 +546,7 @@
 <LM>w#w-mf930708-152-p2s3w19</LM>
 </w.rf>
 <form>stravoval</form>
-<tag lemma="stravovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="stravovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930708-152-p2s3w20">
 <src.rf>manual</src.rf>
@@ -626,7 +626,7 @@
 <LM>w#w-mf930708-152-p2s3w29</LM>
 </w.rf>
 <form>měnil</form>
-<tag lemma="měnit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="měnit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930708-152-p2s3w30">
 <src.rf>manual</src.rf>
@@ -1721,7 +1721,7 @@
 <LM>w#w-mf930708-152-p3s13w6</LM>
 </w.rf>
 <form>nenapadlo</form>
-<tag lemma="napadnout_:W" src="orig" selected="1">VpNS---XR-NA--1</tag>
+<tag lemma="napadnout" src="orig" selected="1">VpNS----R-NAP-1</tag>
 </m>
 <m id="m-mf930708-152-p3s13w7">
 <src.rf>manual</src.rf>
@@ -2108,7 +2108,7 @@
 <LM>w#w-mf930708-152-p4s3w12</LM>
 </w.rf>
 <form>nastal</form>
-<tag lemma="nastat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nastat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-152-p4s3w13">
 <src.rf>manual</src.rf>
@@ -2230,7 +2230,7 @@
 <LM>w#w-mf930708-152-p4s4w12</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930708-152-p4s4w13">
 <src.rf>manual</src.rf>

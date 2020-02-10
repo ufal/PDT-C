@@ -236,7 +236,7 @@
 <LM>w#w-wsj1887-001-p1s0W19</LM>
 </w.rf>
 <form>prohlásily</form>
-<tag lemma="prohlásit" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="prohlásit" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1887-001-p1s0W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -275,7 +275,7 @@
 <LM>w#w-wsj1887-001-p1s0W23</LM>
 </w.rf>
 <form>dohodly</form>
-<tag lemma="dohodnout" src="auto" recommended="1">VpTP---XR-AAP-1</tag>
+<tag lemma="dohodnout" src="auto" recommended="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-wsj1887-001-p1s0W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -449,7 +449,7 @@
 <LM>w#w-wsj1887-001-p1s1W4</LM>
 </w.rf>
 <form>získala</form>
-<tag lemma="získat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="získat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1887-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -940,7 +940,7 @@
 <tag>
 <AM lemma="trh" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="trh" src="auto">NNIS4-----A----</AM>
-<AM lemma="trhnout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="trhnout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-wsj1887-001-p1s2W2-Ta">
@@ -1235,7 +1235,7 @@
 <LM>w#w-wsj1887-001-p1s2W27</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="mít" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1887-001-p1s2W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1292,7 +1292,7 @@
 <tag>
 <AM lemma="trh" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="trh" src="auto">NNIS4-----A----</AM>
-<AM lemma="trhnout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="trhnout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-wsj1887-001-p1s3W4-Ta">
@@ -1373,7 +1373,7 @@
 <tag>
 <AM lemma="trh" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="trh" src="auto">NNIS4-----A----</AM>
-<AM lemma="trhnout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="trhnout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-wsj1887-001-p1s3W9-Ta">
@@ -1556,7 +1556,7 @@
 <LM>w#w-wsj1887-001-p1s4W8</LM>
 </w.rf>
 <form>prodala</form>
-<tag lemma="prodat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="prodat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1887-001-p1s4W9-Ta">
 <src.rf>tagger-a</src.rf>

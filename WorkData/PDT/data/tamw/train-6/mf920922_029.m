@@ -879,7 +879,7 @@
 <LM>w#w-mf920922-029-p2s7w9</LM>
 </w.rf>
 <form>předvedl</form>
-<tag lemma="předvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="předvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-029-p2s7w10">
 <src.rf>manual</src.rf>
@@ -1073,7 +1073,7 @@
 <LM>w#w-mf920922-029-p2s8w10</LM>
 </w.rf>
 <form>dovoleno</form>
-<tag lemma="dovolit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="dovolit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf920922-029-p2s8w11">
 <src.rf>manual</src.rf>
@@ -1309,7 +1309,7 @@
 <LM>w#w-mf920922-029-p2s10w2</LM>
 </w.rf>
 <form>postoupily</form>
-<tag lemma="postoupit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="postoupit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf920922-029-p2s10w3">
 <src.rf>manual</src.rf>

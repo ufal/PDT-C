@@ -447,7 +447,7 @@
 <LM>w#w-ln94204-96-p2s3w6</LM>
 </w.rf>
 <form>opatřeny</form>
-<tag lemma="opatřit" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="opatřit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln94204-96-p2s3w7">
 <src.rf>manual</src.rf>
@@ -495,7 +495,7 @@
 <LM>w#w-ln94204-96-p2s3w12</LM>
 </w.rf>
 <form>signovány</form>
-<tag lemma="signovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="signovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln94204-96-p2s3w13">
 <src.rf>manual</src.rf>
@@ -519,7 +519,7 @@
 <LM>w#w-ln94204-96-p2s3w15</LM>
 </w.rf>
 <form>doprovázeny</form>
-<tag lemma="doprovázet_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="doprovázet" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln94204-96-p2s3w16">
 <src.rf>manual</src.rf>
@@ -641,7 +641,7 @@
 <LM>w#w-ln94204-96-p2s4w12</LM>
 </w.rf>
 <form>stanovena</form>
-<tag lemma="stanovit_:W_^(určit)" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="stanovit_^(určit)" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94204-96-p2s4w13">
 <src.rf>manual</src.rf>
@@ -821,7 +821,7 @@
 <LM>w#w-ln94204-96-p2s6w1</LM>
 </w.rf>
 <form>Představena</form>
-<tag lemma="představit-1_:W_^(si_něco;_něco/někoho_někomu)" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="představit-1_^(si_něco;_něco/někoho_někomu)" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94204-96-p2s6w2">
 <src.rf>manual</src.rf>

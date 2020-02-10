@@ -149,7 +149,7 @@
 <LM>w#w-mf930703-018-p2s1w13</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930703-018-p2s1w14">
 <src.rf>manual</src.rf>
@@ -157,7 +157,7 @@
 <LM>w#w-mf930703-018-p2s1w14</LM>
 </w.rf>
 <form>objeveny</form>
-<tag lemma="objevit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="objevit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-mf930703-018-p2s1w15">
 <src.rf>manual</src.rf>
@@ -287,7 +287,7 @@
 <LM>w#w-mf930703-018-p2s2w3</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930703-018-p2s2w4">
 <src.rf>manual</src.rf>
@@ -335,7 +335,7 @@
 <LM>w#w-mf930703-018-p2s2w9</LM>
 </w.rf>
 <form>osídlena</form>
-<tag lemma="osídlit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="osídlit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf930703-018-p2s2w10">
 <src.rf>manual</src.rf>

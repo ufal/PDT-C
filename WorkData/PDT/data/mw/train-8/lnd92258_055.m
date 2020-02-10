@@ -95,7 +95,7 @@
 <LM>w#w-lnd92258-055-p2s2w6</LM>
 </w.rf>
 <form>slíbila</form>
-<tag lemma="slíbit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="slíbit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-055-p2s2w7">
 <src.rf>manual</src.rf>
@@ -208,8 +208,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92258-055-p2s2w21">
@@ -282,7 +282,7 @@
 <LM>w#w-lnd92258-055-p2s3w1</LM>
 </w.rf>
 <form>Zdůraznil</form>
-<tag lemma="zdůraznit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zdůraznit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-055-p2s3w2">
 <src.rf>manual</src.rf>
@@ -325,7 +325,7 @@
 <LM>w#w-lnd92258-055-p2s3w6</LM>
 </w.rf>
 <form>hlasovali</form>
-<tag lemma="hlasovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="hlasovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92258-055-p2s3w7">
 <src.rf>manual</src.rf>
@@ -708,7 +708,7 @@
 <LM>w#w-lnd92258-055-p2s5w17</LM>
 </w.rf>
 <form>konstatoval</form>
-<tag lemma="konstatovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="konstatovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-lnd92258-055-p2s5w18">
 <src.rf>manual</src.rf>

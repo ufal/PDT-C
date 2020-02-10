@@ -58,7 +58,7 @@
 <LM>w#w-wsj2424-001-p1s0W5</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2424-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -85,7 +85,7 @@
 <LM>w#w-wsj2424-001-p1s0W8</LM>
 </w.rf>
 <form>ukončila</form>
-<tag lemma="ukončit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="ukončit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2424-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -688,7 +688,7 @@
 <LM>w#w-wsj2424-001-p1s1W18</LM>
 </w.rf>
 <form>nezavdala</form>
-<tag lemma="zavdat" src="auto" recommended="1">VpQW---XR-NAP--</tag>
+<tag lemma="zavdat" src="auto" recommended="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-wsj2424-001-p1s1W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -915,7 +915,7 @@
 <LM>w#w-wsj2424-001-p1s1W37</LM>
 </w.rf>
 <form>vyjádřili</form>
-<tag lemma="vyjádřit" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="vyjádřit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj2424-001-p1s1W38-Ta">
 <src.rf>tagger-a</src.rf>
@@ -998,7 +998,7 @@
 <LM>w#w-wsj2424-001-p1s2W5</LM>
 </w.rf>
 <form>souhlasila</form>
-<tag lemma="souhlasit" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="souhlasit" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj2424-001-p1s2W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1143,7 +1143,7 @@
 <LM>w#w-wsj2424-001-p1s3W5</LM>
 </w.rf>
 <form>nezveřejnila</form>
-<tag lemma="zveřejnit" src="auto" recommended="1">VpQW---XR-NAP--</tag>
+<tag lemma="zveřejnit" src="auto" recommended="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-wsj2424-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1336,7 +1336,7 @@
 <LM>w#w-wsj2424-001-p1s3W22</LM>
 </w.rf>
 <form>ocenila</form>
-<tag lemma="ocenit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="ocenit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2424-001-p1s3W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1460,7 +1460,7 @@
 <LM>w#w-wsj2424-001-p1s4W4</LM>
 </w.rf>
 <form>staly</form>
-<tag lemma="stát-2_^(stanu_staneš)" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj2424-001-p1s4W5-Ta">
 <src.rf>tagger-a</src.rf>

@@ -130,7 +130,7 @@
 <LM>w#w-ln95045-026-p2s1Bw5</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95045-026-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -198,7 +198,7 @@
 <LM>w#w-ln95045-026-p2s3w1</LM>
 </w.rf>
 <form>Byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95045-026-p2s3w2">
 <src.rf>manual</src.rf>
@@ -255,8 +255,8 @@
 </w.rf>
 <form>odpověděl</form>
 <tag>
-<AM lemma="odpovědět" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="odpovědět_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="odpovědět" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="odpovědět" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95045-026-p2s3w9">
@@ -379,7 +379,7 @@
 <LM>w#w-ln95045-026-p2s3w22</LM>
 </w.rf>
 <form>souhlasil</form>
-<tag lemma="souhlasit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="souhlasit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95045-026-p2s3w23">
 <src.rf>manual</src.rf>
@@ -435,7 +435,7 @@
 <LM>w#w-ln95045-026-p2s3w30</LM>
 </w.rf>
 <form>ucházel</form>
-<tag lemma="ucházet_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="ucházet" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95045-026-p2s3w31">
 <src.rf>manual</src.rf>
@@ -584,7 +584,7 @@
 <LM>w#w-ln95045-026-p2s4w8</LM>
 </w.rf>
 <form>nebyl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-ln95045-026-p2s4w9">
 <src.rf>manual</src.rf>
@@ -643,7 +643,7 @@
 <LM>w#w-ln95045-026-p2s4w15</LM>
 </w.rf>
 <form>prosadil</form>
-<tag lemma="prosadit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prosadit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-026-p2s4w16">
 <src.rf>manual</src.rf>
@@ -716,8 +716,8 @@
 </w.rf>
 <form>uvedl</form>
 <tag>
-<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="uvést" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="uvést" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95045-026-p2s4w25">

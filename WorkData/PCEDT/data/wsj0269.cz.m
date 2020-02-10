@@ -186,7 +186,7 @@
 <LM>w#w-wsj0269-001-p1s0W13</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0269-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -314,7 +314,7 @@
 <LM>w#w-wsj0269-001-p1s0W24</LM>
 </w.rf>
 <form>přečetla</form>
-<tag lemma="přečíst" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="přečíst" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0269-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -828,7 +828,7 @@
 <tag>
 <AM lemma="tisk" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="tisk" src="auto">NNIS4-----A----</AM>
-<AM lemma="tisknout" src="auto">VpYS---XR-AAI-6</AM>
+<AM lemma="tisknout" src="auto">VpYS----R-AAI-6</AM>
 </tag>
 </m>
 <m id="m-wsj0269-001-p1s2W8-Ta">
@@ -1362,7 +1362,7 @@
 <tag>
 <AM lemma="tisk" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="tisk" src="auto">NNIS4-----A----</AM>
-<AM lemma="tisknout" src="auto">VpYS---XR-AAI-6</AM>
+<AM lemma="tisknout" src="auto">VpYS----R-AAI-6</AM>
 </tag>
 </m>
 <m id="m-wsj0269-001-p1s3W7-Ta">

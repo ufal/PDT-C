@@ -434,7 +434,7 @@
 <LM>w#w-lnd92251-038-p2s1w12</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92251-038-p2s1w13">
 <src.rf>manual</src.rf>
@@ -466,7 +466,7 @@
 <LM>w#w-lnd92251-038-p2s1w16</LM>
 </w.rf>
 <form>odsouzen</form>
-<tag lemma="odsoudit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="odsoudit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd92251-038-p2s1w17">
 <src.rf>manual</src.rf>
@@ -581,7 +581,7 @@
 <LM>w#w-lnd92251-038-p2s1w30</LM>
 </w.rf>
 <form>označil</form>
-<tag lemma="označit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="označit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-038-p2s1w31">
 <src.rf>manual</src.rf>
@@ -703,7 +703,7 @@
 <LM>w#w-lnd92251-038-p3s1w4</LM>
 </w.rf>
 <form>zahynulo</form>
-<tag lemma="zahynout" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zahynout" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-038-p3s1w5">
 <src.rf>manual</src.rf>
@@ -751,7 +751,7 @@
 <LM>w#w-lnd92251-038-p3s1w10</LM>
 </w.rf>
 <form>zřítila</form>
-<tag lemma="zřítit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zřítit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-038-p3s1w11">
 <src.rf>manual</src.rf>
@@ -863,7 +863,7 @@
 <LM>w#w-lnd92251-038-p3s1w24</LM>
 </w.rf>
 <form>přelétal</form>
-<tag lemma="přelétat_:T" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přelétat" src="auto" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92251-038-p3s1w25">
 <src.rf>manual</src.rf>
@@ -983,7 +983,7 @@
 <LM>w#w-lnd92251-038-p3s1w39</LM>
 </w.rf>
 <form>havaroval</form>
-<tag lemma="havarovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="havarovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-lnd92251-038-p3s1w40">
 <src.rf>manual</src.rf>
@@ -999,7 +999,7 @@
 <LM>w#w-lnd92251-038-p3s1w41</LM>
 </w.rf>
 <form>spadl</form>
-<tag lemma="spadnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="spadnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd92251-038-p3s1w42">
 <src.rf>manual</src.rf>

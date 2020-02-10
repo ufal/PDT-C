@@ -295,7 +295,7 @@
 <LM>w#w-ln95041-026-p2s2w5</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95041-026-p2s2w6">
 <src.rf>manual</src.rf>
@@ -303,7 +303,7 @@
 <LM>w#w-ln95041-026-p2s2w6</LM>
 </w.rf>
 <form>omluveny</form>
-<tag lemma="omluvit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="omluvit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln95041-026-p2s2w7">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <LM>w#w-ln95041-026-p2s2w13</LM>
 </w.rf>
 <form>chyběli</form>
-<tag lemma="chybět_:T_^(někde_něco_chybí)" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="chybět_^(někde_něco_chybí)" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95041-026-p2s2w14">
 <src.rf>manual</src.rf>

@@ -176,8 +176,8 @@
 </w.rf>
 <form>vzrostl</form>
 <tag>
-<AM lemma="vzrůst-1" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="vzrůst-1_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="vzrůst-1" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="vzrůst-1" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94210-141-p2s1Bw15">
@@ -250,7 +250,7 @@
 <LM>w#w-ln94210-141-p2s1Bw23</LM>
 </w.rf>
 <form>dosáhl</form>
-<tag lemma="dosáhnout" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dosáhnout" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94210-141-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -421,7 +421,7 @@
 <LM>w#w-ln94210-141-p3s1w5</LM>
 </w.rf>
 <form>prohloubil</form>
-<tag lemma="prohloubit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prohloubit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94210-141-p3s1w6">
 <src.rf>manual</src.rf>
@@ -552,7 +552,7 @@
 <LM>w#w-ln94210-141-p3s2w5</LM>
 </w.rf>
 <form>dosáhl</form>
-<tag lemma="dosáhnout" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dosáhnout" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94210-141-p3s2w6">
 <src.rf>manual</src.rf>
@@ -670,8 +670,8 @@
 </w.rf>
 <form>Vyplynulo</form>
 <tag>
-<AM lemma="vyplynout" src="auto">VpNS---XR-AA---</AM>
-<AM lemma="vyplynout_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="vyplynout" src="auto">VpNS----R-AAP--</AM>
+<AM lemma="vyplynout" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94210-141-p3s3w2">
@@ -874,7 +874,7 @@
 <LM>w#w-ln94210-141-p4s1w17</LM>
 </w.rf>
 <form>prodalo</form>
-<tag lemma="prodat_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="prodat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94210-141-p4s1w18">
 <src.rf>manual</src.rf>
@@ -1008,7 +1008,7 @@
 <LM>w#w-ln94210-141-p5s1w3</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94210-141-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1200,7 +1200,7 @@
 <LM>w#w-ln94210-141-p5s2w3</LM>
 </w.rf>
 <form>vyvezli</form>
-<tag lemma="vyvézt" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyvézt" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94210-141-p5s2w4">
 <src.rf>manual</src.rf>

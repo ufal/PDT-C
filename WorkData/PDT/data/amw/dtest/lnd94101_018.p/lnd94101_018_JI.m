@@ -603,7 +603,7 @@
 <LM>w#w-lnd94101-018-p1s5w11</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94101-018-p1s5w12">
 <src.rf>manual</src.rf>
@@ -611,7 +611,7 @@
 <LM>w#w-lnd94101-018-p1s5w12</LM>
 </w.rf>
 <form>přijat</form>
-<tag lemma="přijmout" src="auto" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="přijmout" src="auto" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd94101-018-p1s5w13">
 <src.rf>manual</src.rf>
@@ -810,7 +810,7 @@
 <LM>w#w-lnd94101-018-p1s7w3</LM>
 </w.rf>
 <form>nebyla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-lnd94101-018-p1s7w4">
 <src.rf>manual</src.rf>
@@ -842,7 +842,7 @@
 <LM>w#w-lnd94101-018-p1s7w7</LM>
 </w.rf>
 <form>odešel</form>
-<tag lemma="odejít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odejít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-018-p1s7w8">
 <src.rf>manual</src.rf>
@@ -898,7 +898,7 @@
 <LM>w#w-lnd94101-018-p1s7w14</LM>
 </w.rf>
 <form>uznána</form>
-<tag lemma="uznat_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="uznat" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd94101-018-p1s7w15">
 <src.rf>manual</src.rf>
@@ -1195,7 +1195,7 @@
 <LM>w#w-lnd94101-018-p1s10w7</LM>
 </w.rf>
 <form>zřídily</form>
-<tag lemma="zřídit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zřídit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-018-p1s10w8">
 <src.rf>manual</src.rf>
@@ -1211,7 +1211,7 @@
 <LM>w#w-lnd94101-018-p1s10w9</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd94101-018-p1s10w10">
 <src.rf>manual</src.rf>
@@ -2263,7 +2263,7 @@
 <LM>w#w-lnd94101-018-p1s18w4</LM>
 </w.rf>
 <form>získaly</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-018-p1s18w5">
 <src.rf>manual</src.rf>

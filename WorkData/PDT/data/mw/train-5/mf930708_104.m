@@ -142,7 +142,7 @@
 <LM>w#w-mf930708-104-p2s1w13</LM>
 </w.rf>
 <form>neusiloval</form>
-<tag lemma="usilovat_:T" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="usilovat" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-mf930708-104-p2s1w14">
 <src.rf>manual</src.rf>
@@ -486,7 +486,7 @@
 <LM>w#w-mf930708-104-p2s2w21</LM>
 </w.rf>
 <form>reprezentoval</form>
-<tag lemma="reprezentovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="reprezentovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-mf930708-104-p2s2w22">
 <src.rf>manual</src.rf>
@@ -544,7 +544,7 @@
 <LM>w#w-mf930708-104-p2s3w6</LM>
 </w.rf>
 <form>posílili</form>
-<tag lemma="posílit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="posílit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930708-104-p2s3w7">
 <src.rf>manual</src.rf>

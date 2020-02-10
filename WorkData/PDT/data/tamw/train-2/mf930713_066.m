@@ -575,7 +575,7 @@
 <LM>w#w-mf930713-066-p5s2w6</LM>
 </w.rf>
 <form>nezabíjeli</form>
-<tag lemma="zabíjet_:T" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="zabíjet" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-mf930713-066-p5s2w7">
 <src.rf>manual</src.rf>
@@ -609,7 +609,7 @@
 <LM>w#w-mf930713-066-p5s3w4</LM>
 </w.rf>
 <form>měli</form>
-<tag lemma="mít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930713-066-p5s3w5">
 <src.rf>manual</src.rf>
@@ -633,7 +633,7 @@
 <LM>w#w-mf930713-066-p5s3w7</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930713-066-p5s3w8">
 <src.rf>manual</src.rf>
@@ -691,7 +691,7 @@
 <LM>w#w-mf930713-066-p5s4w5</LM>
 </w.rf>
 <form>odrazilo</form>
-<tag lemma="odrazit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="odrazit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-066-p5s4w6">
 <src.rf>manual</src.rf>
@@ -749,7 +749,7 @@
 <LM>w#w-mf930713-066-p5s5w3</LM>
 </w.rf>
 <form>dýchali</form>
-<tag lemma="dýchat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="dýchat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930713-066-p5s5w4">
 <src.rf>manual</src.rf>

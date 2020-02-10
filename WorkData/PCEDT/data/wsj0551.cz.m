@@ -303,7 +303,7 @@
 <LM>w#w-wsj0551-001-p1s0W25</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0551-001-p1s0W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -477,7 +477,7 @@
 <LM>w#w-wsj0551-001-p1s1W14</LM>
 </w.rf>
 <form>dohodla</form>
-<tag lemma="dohodnout" src="auto" recommended="1">VpQW---XR-AAP-1</tag>
+<tag lemma="dohodnout" src="auto" recommended="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-wsj0551-001-p1s1W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -751,7 +751,7 @@
 <LM>w#w-wsj0551-001-p1s2W7</LM>
 </w.rf>
 <form>uzavřena</form>
-<tag lemma="uzavřít" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="uzavřít" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj0551-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>

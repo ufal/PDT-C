@@ -189,7 +189,7 @@
 <LM>w#w-ln94209-61-p1s1Aw21</LM>
 </w.rf>
 <form>měli</form>
-<tag lemma="mít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94209-61-p1s1Aw22">
 <src.rf>manual</src.rf>

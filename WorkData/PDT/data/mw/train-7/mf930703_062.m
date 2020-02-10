@@ -109,7 +109,7 @@
 <LM>w#w-mf930703-062-p2s1w10</LM>
 </w.rf>
 <form>vysvětlil</form>
-<tag lemma="vysvětlit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vysvětlit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-062-p2s1w11">
 <src.rf>manual</src.rf>
@@ -355,8 +355,8 @@
 </w.rf>
 <form>neznal</form>
 <tag>
-<AM lemma="znát" src="orig">VpYS---XR-NA---</AM>
-<AM lemma="znát_:T" src="manual" selected="1">VpYS---XR-NA---</AM>
+<AM lemma="znát" src="orig">VpYS----R-NAI--</AM>
+<AM lemma="znát" src="manual" selected="1">VpYS----R-NAI--</AM>
 </tag>
 </m>
 <m id="m-mf930703-062-p2s2w5">
@@ -493,7 +493,7 @@
 <LM>w#w-mf930703-062-p2s2w21</LM>
 </w.rf>
 <form>zjistil</form>
-<tag lemma="zjistit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zjistit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-062-p2s2w22">
 <src.rf>manual</src.rf>
@@ -812,7 +812,7 @@
 <LM>w#w-mf930703-062-p2s4w3</LM>
 </w.rf>
 <form>šlo</form>
-<tag lemma="jít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="jít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930703-062-p2s4w4">
 <src.rf>manual</src.rf>

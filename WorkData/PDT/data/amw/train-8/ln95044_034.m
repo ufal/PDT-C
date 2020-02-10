@@ -166,7 +166,7 @@
 <LM>w#w-ln95044-034-p1s1w19</LM>
 </w.rf>
 <form>nepřekonal</form>
-<tag lemma="překonat_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="překonat" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 </s>
 </mdata>

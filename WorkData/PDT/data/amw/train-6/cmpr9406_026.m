@@ -87,7 +87,7 @@
 <LM>w#w-cmpr9406-026-p4s1w4</LM>
 </w.rf>
 <form>vzniklo</form>
-<tag lemma="vzniknout_:W" src="orig" selected="1">VpNS---XR-AA--1</tag>
+<tag lemma="vzniknout" src="orig" selected="1">VpNS----R-AAP-1</tag>
 </m>
 <m id="m-cmpr9406-026-p4s1w5">
 <src.rf>manual</src.rf>
@@ -204,7 +204,7 @@
 <LM>w#w-cmpr9406-026-p4s2w3</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-cmpr9406-026-p4s2w4">
 <src.rf>manual</src.rf>
@@ -382,7 +382,7 @@
 <LM>w#w-cmpr9406-026-p4s3w4</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9406-026-p4s3w5">
 <src.rf>manual</src.rf>
@@ -390,7 +390,7 @@
 <LM>w#w-cmpr9406-026-p4s3w5</LM>
 </w.rf>
 <form>ustanoven</form>
-<tag lemma="ustanovit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="ustanovit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-cmpr9406-026-p4s3w6">
 <src.rf>manual</src.rf>
@@ -440,7 +440,7 @@
 <LM>w#w-cmpr9406-026-p4s4w1</LM>
 </w.rf>
 <form>Nahradil</form>
-<tag lemma="nahradit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nahradit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9406-026-p4s4w2">
 <src.rf>manual</src.rf>
@@ -498,7 +498,7 @@
 <LM>w#w-cmpr9406-026-p4s5w2</LM>
 </w.rf>
 <form>odpovídalo</form>
-<tag lemma="odpovídat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="odpovídat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9406-026-p4s5w3">
 <src.rf>manual</src.rf>
@@ -757,7 +757,7 @@
 <LM>w#w-cmpr9406-026-p5s3w6</LM>
 </w.rf>
 <form>měnil</form>
-<tag lemma="měnit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="měnit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9406-026-p5s3w7">
 <src.rf>manual</src.rf>
@@ -845,7 +845,7 @@
 <LM>w#w-cmpr9406-026-p5s3w17</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9406-026-p5s3w18">
 <src.rf>manual</src.rf>
@@ -1009,7 +1009,7 @@
 <LM>w#w-cmpr9406-026-p6s2w7</LM>
 </w.rf>
 <form>pohybovaly</form>
-<tag lemma="pohybovat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="pohybovat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-cmpr9406-026-p6s2w8">
 <src.rf>manual</src.rf>
@@ -1085,7 +1085,7 @@
 <LM>w#w-cmpr9406-026-p6s2w16</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9406-026-p6s2w17">
 <src.rf>manual</src.rf>

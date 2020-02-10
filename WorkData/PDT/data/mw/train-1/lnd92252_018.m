@@ -212,7 +212,7 @@
 <LM>w#w-lnd92252-018-p3s3w2</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-018-p3s3w3">
 <src.rf>manual</src.rf>
@@ -331,7 +331,7 @@
 <LM>w#w-lnd92252-018-p3s3w16</LM>
 </w.rf>
 <form>snažili</form>
-<tag lemma="snažit_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="snažit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-018-p3s3w17">
 <src.rf>manual</src.rf>
@@ -379,7 +379,7 @@
 <LM>w#w-lnd92252-018-p3s3w22</LM>
 </w.rf>
 <form>pronásledovali</form>
-<tag lemma="pronásledovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="pronásledovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-018-p3s3w23">
 <src.rf>manual</src.rf>
@@ -437,7 +437,7 @@
 <LM>w#w-lnd92252-018-p3s4w2</LM>
 </w.rf>
 <form>požádali</form>
-<tag lemma="požádat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="požádat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-018-p3s4w3">
 <src.rf>manual</src.rf>
@@ -509,7 +509,7 @@
 <LM>w#w-lnd92252-018-p3s4w11</LM>
 </w.rf>
 <form>přivolali</form>
-<tag lemma="přivolat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přivolat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-018-p3s4w12">
 <src.rf>manual</src.rf>
@@ -615,7 +615,7 @@
 <LM>w#w-lnd92252-018-p3s5w10</LM>
 </w.rf>
 <form>rozprchli</form>
-<tag lemma="rozprchnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="rozprchnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-lnd92252-018-p3s5w11">
 <src.rf>manual</src.rf>
@@ -655,7 +655,7 @@
 <LM>w#w-lnd92252-018-p3s5w15</LM>
 </w.rf>
 <form>stačili</form>
-<tag lemma="stačit_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="stačit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-018-p3s5w16">
 <src.rf>manual</src.rf>
@@ -761,7 +761,7 @@
 <LM>w#w-lnd92252-018-p3s6w4</LM>
 </w.rf>
 <form>zadrželi</form>
-<tag lemma="zadržet" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zadržet" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-018-p3s6w5">
 <src.rf>manual</src.rf>

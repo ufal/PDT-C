@@ -172,7 +172,7 @@
 <LM>w#w-wsj2122-001-p1s0W15</LM>
 </w.rf>
 <form>získala</form>
-<tag lemma="získat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="získat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2122-001-p1s0W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -443,7 +443,7 @@
 <LM>w#w-wsj2122-001-p1s1W5</LM>
 </w.rf>
 <form>obdržela</form>
-<tag lemma="obdržet" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="obdržet" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2122-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -758,7 +758,7 @@
 <LM>w#w-wsj2122-001-p1s2W14</LM>
 </w.rf>
 <form>dostala</form>
-<tag lemma="dostat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="dostat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2122-001-p1s2W15-Ta">
 <src.rf>tagger-a</src.rf>

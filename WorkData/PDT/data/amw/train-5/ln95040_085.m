@@ -167,7 +167,7 @@
 <LM>w#w-ln95040-085-p2s1Bw11</LM>
 </w.rf>
 <form>prohlásil</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-085-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -318,7 +318,7 @@
 <LM>w#w-ln95040-085-p2s2w1</LM>
 </w.rf>
 <form>Uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-085-p2s2w2">
 <src.rf>manual</src.rf>
@@ -406,7 +406,7 @@
 <LM>w#w-ln95040-085-p2s2w12</LM>
 </w.rf>
 <form>uskutečňován</form>
-<tag lemma="uskutečňovat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="uskutečňovat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-ln95040-085-p2s2w13">
 <src.rf>manual</src.rf>
@@ -622,7 +622,7 @@
 <LM>w#w-ln95040-085-p2s3w19</LM>
 </w.rf>
 <form>dodal</form>
-<tag lemma="dodat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dodat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-085-p2s3w20">
 <src.rf>manual</src.rf>
@@ -664,7 +664,7 @@
 <LM>w#w-ln95040-085-p3s1w4</LM>
 </w.rf>
 <form>zdůraznil</form>
-<tag lemma="zdůraznit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zdůraznit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-085-p3s1w5">
 <src.rf>manual</src.rf>
@@ -712,7 +712,7 @@
 <LM>w#w-ln95040-085-p3s1w10</LM>
 </w.rf>
 <form>podroben</form>
-<tag lemma="podrobit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="podrobit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95040-085-p3s1w11">
 <src.rf>manual</src.rf>
@@ -1055,7 +1055,7 @@
 <LM>w#w-ln95040-085-p3s3w7</LM>
 </w.rf>
 <form>podezříván</form>
-<tag lemma="podezřívat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="podezřívat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-ln95040-085-p3s3w8">
 <src.rf>manual</src.rf>
@@ -1223,7 +1223,7 @@
 <LM>w#w-ln95040-085-p3s3w28</LM>
 </w.rf>
 <form>nevyjádřil</form>
-<tag lemma="vyjádřit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="vyjádřit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-ln95040-085-p3s3w29">
 <src.rf>manual</src.rf>
@@ -1255,7 +1255,7 @@
 <LM>w#w-ln95040-085-p3s3w32</LM>
 </w.rf>
 <form>zdůraznil</form>
-<tag lemma="zdůraznit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zdůraznit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-085-p3s3w33">
 <src.rf>manual</src.rf>

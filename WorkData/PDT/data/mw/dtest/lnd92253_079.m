@@ -953,7 +953,7 @@
 <LM>w#w-lnd92253-079-p2s7w3</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92253-079-p2s7w4">
 <src.rf>manual</src.rf>
@@ -961,7 +961,7 @@
 <LM>w#w-lnd92253-079-p2s7w4</LM>
 </w.rf>
 <form>vyloučeno</form>
-<tag lemma="vyloučit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="vyloučit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92253-079-p2s7w5">
 <src.rf>manual</src.rf>

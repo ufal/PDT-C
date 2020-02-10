@@ -505,7 +505,7 @@
 <LM>w#w-cmpr9415-047-p8s2w5</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-cmpr9415-047-p8s2w6">
 <src.rf>manual</src.rf>
@@ -1061,7 +1061,7 @@
 <LM>w#w-cmpr9415-047-p10s4w6</LM>
 </w.rf>
 <form>zajišťovaly</form>
-<tag lemma="zajišťovat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zajišťovat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-cmpr9415-047-p10s4w7">
 <src.rf>manual</src.rf>
@@ -1815,7 +1815,7 @@
 <LM>w#w-cmpr9415-047-p13s2w5</LM>
 </w.rf>
 <form>neodpověděl</form>
-<tag lemma="odpovědět" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="odpovědět" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-cmpr9415-047-p13s2w6">
 <src.rf>manual</src.rf>
@@ -1905,7 +1905,7 @@
 <LM>w#w-cmpr9415-047-p13s3w3</LM>
 </w.rf>
 <form>investovala</form>
-<tag lemma="investovat_:T_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="investovat" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-cmpr9415-047-p13s3w4">
 <src.rf>manual</src.rf>
@@ -2275,7 +2275,7 @@
 <LM>w#w-cmpr9415-047-p13s4Bw4</LM>
 </w.rf>
 <form>projevily</form>
-<tag lemma="projevit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="projevit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-cmpr9415-047-p13s4Bw5">
 <src.rf>manual</src.rf>
@@ -2573,7 +2573,7 @@
 <LM>w#w-cmpr9415-047-p14s1w18</LM>
 </w.rf>
 <form>nasycen</form>
-<tag lemma="nasytit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="nasytit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-cmpr9415-047-p14s1w19">
 <src.rf>manual</src.rf>
@@ -2711,7 +2711,7 @@
 <LM>w#w-cmpr9415-047-p14s2w4</LM>
 </w.rf>
 <form>připraveny</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="připravit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-cmpr9415-047-p14s2w5">
 <src.rf>manual</src.rf>
@@ -3101,7 +3101,7 @@
 <LM>w#w-cmpr9415-047-p16s3w19</LM>
 </w.rf>
 <form>umožnilo</form>
-<tag lemma="umožnit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="umožnit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9415-047-p16s3w20">
 <src.rf>manual</src.rf>

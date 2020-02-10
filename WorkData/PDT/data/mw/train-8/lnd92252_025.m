@@ -437,7 +437,7 @@
 <LM>w#w-lnd92252-025-p3s4w13</LM>
 </w.rf>
 <form>dokončili</form>
-<tag lemma="dokončit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="dokončit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-025-p3s4w14">
 <src.rf>manual</src.rf>
@@ -487,7 +487,7 @@
 <LM>w#w-lnd92252-025-p3s5w5</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-025-p3s5w6">
 <src.rf>manual</src.rf>
@@ -778,7 +778,7 @@
 <LM>w#w-lnd92252-025-p3s5w41</LM>
 </w.rf>
 <form>tvořen</form>
-<tag lemma="tvořit_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="tvořit" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-lnd92252-025-p3s5w42">
 <src.rf>manual</src.rf>
@@ -941,7 +941,7 @@
 <LM>w#w-lnd92252-025-p3s6w3</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-025-p3s6w4">
 <src.rf>manual</src.rf>
@@ -949,7 +949,7 @@
 <LM>w#w-lnd92252-025-p3s6w4</LM>
 </w.rf>
 <form>voleni</form>
-<tag lemma="volit_:T" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="volit" src="orig" selected="1">VsMP----X-API--</tag>
 </m>
 <m id="m-lnd92252-025-p3s6w5">
 <src.rf>manual</src.rf>
@@ -1048,7 +1048,7 @@
 <LM>w#w-lnd92252-025-p3s6w16</LM>
 </w.rf>
 <form>volena</form>
-<tag lemma="volit_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="volit" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-lnd92252-025-p3s6w17">
 <src.rf>manual</src.rf>
@@ -1098,7 +1098,7 @@
 <LM>w#w-lnd92252-025-p3s7w4</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-025-p3s7w5">
 <src.rf>manual</src.rf>
@@ -1114,7 +1114,7 @@
 <LM>w#w-lnd92252-025-p3s7w6</LM>
 </w.rf>
 <form>členěna</form>
-<tag lemma="členit_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="členit" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-lnd92252-025-p3s7w7">
 <src.rf>manual</src.rf>

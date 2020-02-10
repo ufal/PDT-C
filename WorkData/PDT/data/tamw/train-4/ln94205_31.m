@@ -30,7 +30,7 @@
 <LM>w#w-ln94205-31-p1s1w2</LM>
 </w.rf>
 <form>vyhlásila</form>
-<tag lemma="vyhlásit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyhlásit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94205-31-p1s1w3">
 <src.rf>manual</src.rf>
@@ -125,7 +125,7 @@
 <LM>w#w-ln94205-31-p2s1Bw8</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94205-31-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -279,7 +279,7 @@
 <LM>w#w-ln94205-31-p2s2w6</LM>
 </w.rf>
 <form>vstoupilo</form>
-<tag lemma="vstoupit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vstoupit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94205-31-p2s2w7">
 <src.rf>manual</src.rf>
@@ -362,8 +362,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94205-31-p2s3w6">
@@ -420,7 +420,7 @@
 <LM>w#w-ln94205-31-p2s3w12</LM>
 </w.rf>
 <form>povzbuzen</form>
-<tag lemma="povzbudit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="povzbudit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94205-31-p2s3w13">
 <src.rf>manual</src.rf>
@@ -454,7 +454,7 @@
 <LM>w#w-ln94205-31-p2s4w3</LM>
 </w.rf>
 <form>označila</form>
-<tag lemma="označit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="označit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94205-31-p2s4w4">
 <src.rf>manual</src.rf>
@@ -708,8 +708,8 @@
 </w.rf>
 <form>našla</form>
 <tag>
-<AM lemma="najít" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="najít_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="najít" src="orig">VpQW----R-AAP--</AM>
+<AM lemma="najít" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94205-31-p2s5w9">
@@ -829,7 +829,7 @@
 <LM>w#w-ln94205-31-p2s6w6</LM>
 </w.rf>
 <form>zneškodnily</form>
-<tag lemma="zneškodnit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zneškodnit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94205-31-p2s6w7">
 <src.rf>manual</src.rf>
@@ -877,7 +877,7 @@
 <LM>w#w-ln94205-31-p2s6w12</LM>
 </w.rf>
 <form>explodovaly</form>
-<tag lemma="explodovat_:T_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="explodovat" src="orig" selected="1">VpTP----R-AAB--</tag>
 </m>
 <m id="m-ln94205-31-p2s6w13">
 <src.rf>manual</src.rf>

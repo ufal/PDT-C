@@ -184,8 +184,8 @@
 </w.rf>
 <form>vyhlášen</form>
 <tag>
-<AM lemma="vyhlásit" src="orig">VsYS---XX-AP---</AM>
-<AM lemma="vyhlásit_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+<AM lemma="vyhlásit" src="orig">VsYS----X-APP--</AM>
+<AM lemma="vyhlásit" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-lnd92255-127-p1s1w22">

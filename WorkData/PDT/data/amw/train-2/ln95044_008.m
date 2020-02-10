@@ -159,7 +159,7 @@
 <LM>w#w-ln95044-008-p2s1Bw10</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95044-008-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -175,7 +175,7 @@
 <LM>w#w-ln95044-008-p2s1Bw12</LM>
 </w.rf>
 <form>zahájeno</form>
-<tag lemma="zahájit" src="auto" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zahájit" src="auto" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95044-008-p2s1Bw13">
 <src.rf>manual</src.rf>

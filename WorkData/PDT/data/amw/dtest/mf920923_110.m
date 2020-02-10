@@ -43,7 +43,7 @@
 <LM>w#w-mf920923-110-p1s1w4</LM>
 </w.rf>
 <form>staženy</form>
-<tag lemma="stáhnout" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="stáhnout" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 </s>
 <s id="m-mf920923-110-p2s1">
@@ -161,7 +161,7 @@
 <LM>w#w-mf920923-110-p4s2w10</LM>
 </w.rf>
 <form>podepsali</form>
-<tag lemma="podepsat" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="podepsat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920923-110-p4s2w11">
 <src.rf>manual</src.rf>
@@ -429,7 +429,7 @@
 <LM>w#w-mf920923-110-p4s3w6</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf920923-110-p4s3w7">
 <src.rf>manual</src.rf>
@@ -559,7 +559,7 @@
 <LM>w#w-mf920923-110-p5s1w7</LM>
 </w.rf>
 <form>zaručily</form>
-<tag lemma="zaručit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zaručit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf920923-110-p5s1w8">
 <src.rf>manual</src.rf>
@@ -639,7 +639,7 @@
 <LM>w#w-mf920923-110-p5s1w18</LM>
 </w.rf>
 <form>proběhl</form>
-<tag lemma="proběhnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="proběhnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf920923-110-p5s1w19">
 <src.rf>manual</src.rf>
@@ -697,7 +697,7 @@
 <LM>w#w-mf920923-110-p5s2w4</LM>
 </w.rf>
 <form>využita</form>
-<tag lemma="využít" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="využít" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf920923-110-p5s2w5">
 <src.rf>manual</src.rf>

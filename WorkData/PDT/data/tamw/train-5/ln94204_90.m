@@ -46,7 +46,7 @@
 <LM>w#w-ln94204-90-p1s1w4</LM>
 </w.rf>
 <form>opustil</form>
-<tag lemma="opustit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="opustit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94204-90-p1s1w5">
 <src.rf>manual</src.rf>
@@ -70,7 +70,7 @@
 <LM>w#w-ln94204-90-p1s1w7</LM>
 </w.rf>
 <form>přiletěl</form>
-<tag lemma="přiletět" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přiletět" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94204-90-p1s1w8">
 <src.rf>manual</src.rf>
@@ -378,7 +378,7 @@
 <LM>w#w-ln94204-90-p1s3Aw4</LM>
 </w.rf>
 <form>jednal</form>
-<tag lemma="jednat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="jednat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94204-90-p1s3Aw5">
 <src.rf>manual</src.rf>

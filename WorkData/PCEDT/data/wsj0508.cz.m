@@ -254,7 +254,7 @@
 </w.rf>
 <form>kořeny</form>
 <tag>
-<AM lemma="kořit" src="auto">VsTP---XX-API--</AM>
+<AM lemma="kořit" src="auto">VsTP----X-API--</AM>
 <AM lemma="kořen" src="auto">NNIP1-----A----</AM>
 <AM lemma="kořen" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="kořen" src="auto">NNIP5-----A----</AM>
@@ -629,7 +629,7 @@
 </w.rf>
 <form>sil</form>
 <tag>
-<AM lemma="sít_^(zasévat_[semena,...])" src="auto">VpYS---XR-AAI--</AM>
+<AM lemma="sít_^(zasévat_[semena,...])" src="auto">VpYS----R-AAI--</AM>
 <AM lemma="silo_^(pro_úschovu_např._krmiva;_raket)" src="auto">NNNP2-----A----</AM>
 <AM lemma="síla_^(fyzická,_vojenská;_moc)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="sílit_^(získávat_sílu)" src="auto">Vi-S---2--A-I--</AM>
@@ -787,7 +787,7 @@
 <LM>w#w-wsj0508-001-p1s1W25</LM>
 </w.rf>
 <form>posloužilo</form>
-<tag lemma="posloužit" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="posloužit" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj0508-001-p1s1W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1346,7 +1346,7 @@
 <LM>w#w-wsj0508-001-p1s2W35</LM>
 </w.rf>
 <form>povoláni</form>
-<tag lemma="povolat" src="auto" recommended="1">VsMP---XX-APP--</tag>
+<tag lemma="povolat" src="auto" recommended="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-wsj0508-001-p1s2W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1489,7 +1489,7 @@
 <LM>w#w-wsj0508-001-p1s3W12</LM>
 </w.rf>
 <form>poohlédl</form>
-<tag lemma="poohlédnout" src="auto" recommended="1">VpYS---XR-AAP-1</tag>
+<tag lemma="poohlédnout" src="auto" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-wsj0508-001-p1s3W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2959,7 +2959,7 @@
 <LM>w#w-wsj0508-001-p1s8W13</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag lemma="mít" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj0508-001-p1s8W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3061,7 +3061,7 @@
 <LM>w#w-wsj0508-001-p1s8W20</LM>
 </w.rf>
 <form>vyřešeny</form>
-<tag lemma="vyřešit" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="vyřešit" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj0508-001-p1s8W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3490,7 +3490,7 @@
 <LM>w#w-wsj0508-001-p1s11W8</LM>
 </w.rf>
 <form>rezignoval</form>
-<tag lemma="rezignovat" src="auto" recommended="1">VpYS---XR-AAB--</tag>
+<tag lemma="rezignovat" src="auto" recommended="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-wsj0508-001-p1s11W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3570,7 +3570,7 @@
 </w.rf>
 <form>sil</form>
 <tag>
-<AM lemma="sít_^(zasévat_[semena,...])" src="auto">VpYS---XR-AAI--</AM>
+<AM lemma="sít_^(zasévat_[semena,...])" src="auto">VpYS----R-AAI--</AM>
 <AM lemma="silo_^(pro_úschovu_např._krmiva;_raket)" src="auto">NNNP2-----A----</AM>
 <AM lemma="síla_^(fyzická,_vojenská;_moc)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="sílit_^(získávat_sílu)" src="auto">Vi-S---2--A-I--</AM>
@@ -3619,7 +3619,7 @@
 <LM>w#w-wsj0508-001-p1s11W19</LM>
 </w.rf>
 <form>nezdařilo</form>
-<tag lemma="zdařit" src="auto" recommended="1">VpNS---XR-NAP--</tag>
+<tag lemma="zdařit" src="auto" recommended="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-wsj0508-001-p1s11W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3842,7 +3842,7 @@
 <LM>w#w-wsj0508-001-p1s12W17</LM>
 </w.rf>
 <form>psal</form>
-<tag lemma="psát" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="psát" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj0508-001-p1s12W18-Ta">
 <src.rf>tagger-a</src.rf>

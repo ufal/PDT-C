@@ -27,7 +27,7 @@
 <LM>w#w-mf930702-001-p1s1w2</LM>
 </w.rf>
 <form>vrácena</form>
-<tag lemma="vrátit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="vrátit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf930702-001-p1s1w3">
 <src.rf>manual</src.rf>
@@ -133,7 +133,7 @@
 <LM>w#w-mf930702-001-p2s1w7</LM>
 </w.rf>
 <form>stíhán</form>
-<tag lemma="stíhat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="stíhat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-mf930702-001-p2s1w8">
 <src.rf>manual</src.rf>
@@ -207,7 +207,7 @@
 <LM>w#w-mf930702-001-p2s2w5</LM>
 </w.rf>
 <form>nevyloučil</form>
-<tag lemma="vyloučit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="vyloučit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-mf930702-001-p2s2w6">
 <src.rf>manual</src.rf>
@@ -388,8 +388,8 @@
 </w.rf>
 <form>neřekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-NA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-NA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-NAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-NAP--</AM>
 </tag>
 </m>
 <m id="m-mf930702-001-p2s4w8">
@@ -432,7 +432,7 @@
 <LM>w#w-mf930702-001-p2s5w4</LM>
 </w.rf>
 <form>komentovali</form>
-<tag lemma="komentovat_:T_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="komentovat" src="orig" selected="1">VpMP----R-AAB--</tag>
 </m>
 <m id="m-mf930702-001-p2s5w5">
 <src.rf>manual</src.rf>
@@ -706,7 +706,7 @@
 <LM>w#w-mf930702-001-p2s6w9</LM>
 </w.rf>
 <form>informovala</form>
-<tag lemma="informovat_:T_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="informovat" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-mf930702-001-p2s6w10">
 <src.rf>manual</src.rf>
@@ -844,7 +844,7 @@
 <LM>w#w-mf930702-001-p2s7w9</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930702-001-p2s7w10">
 <src.rf>manual</src.rf>
@@ -852,7 +852,7 @@
 <LM>w#w-mf930702-001-p2s7w10</LM>
 </w.rf>
 <form>pověřeni</form>
-<tag lemma="pověřit_:W" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="pověřit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-mf930702-001-p2s7w11">
 <src.rf>manual</src.rf>

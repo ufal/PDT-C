@@ -399,7 +399,7 @@
 <LM>w#w-cmpr9415-007-p8s1w6</LM>
 </w.rf>
 <form>započten</form>
-<tag lemma="započíst" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="započíst" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-cmpr9415-007-p8s1w7">
 <src.rf>manual</src.rf>
@@ -887,7 +887,7 @@
 <LM>w#w-cmpr9415-007-p10s1w6</LM>
 </w.rf>
 <form>vybavena</form>
-<tag lemma="vybavit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="vybavit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-cmpr9415-007-p10s1w7">
 <src.rf>manual</src.rf>

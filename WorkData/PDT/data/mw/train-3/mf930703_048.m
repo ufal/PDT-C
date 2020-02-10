@@ -180,7 +180,7 @@
 <LM>w#w-mf930703-048-p2s1w14</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930703-048-p2s1w15">
 <src.rf>manual</src.rf>
@@ -262,7 +262,7 @@
 <LM>w#w-mf930703-048-p3s1w3</LM>
 </w.rf>
 <form>snížila</form>
-<tag lemma="snížit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="snížit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930703-048-p3s1w4">
 <src.rf>manual</src.rf>
@@ -367,7 +367,7 @@
 <LM>w#w-mf930703-048-p3s1w16</LM>
 </w.rf>
 <form>klesla</form>
-<tag lemma="klesnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="klesnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-mf930703-048-p3s1w17">
 <src.rf>manual</src.rf>
@@ -546,7 +546,7 @@
 <LM>w#w-mf930703-048-p3s2w15</LM>
 </w.rf>
 <form>považovány</form>
-<tag lemma="považovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="považovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf930703-048-p3s2w16">
 <src.rf>manual</src.rf>
@@ -756,7 +756,7 @@
 <LM>w#w-mf930703-048-p4s1w9</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930703-048-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1255,7 +1255,7 @@
 <LM>w#w-mf930703-048-p6s1w6</LM>
 </w.rf>
 <form>přistoupily</form>
-<tag lemma="přistoupit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="přistoupit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf930703-048-p6s1w7">
 <src.rf>manual</src.rf>
@@ -1369,7 +1369,7 @@
 <LM>w#w-mf930703-048-p6s2w5</LM>
 </w.rf>
 <form>přivítal</form>
-<tag lemma="přivítat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přivítat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-048-p6s2w6">
 <src.rf>manual</src.rf>
@@ -2102,7 +2102,7 @@
 <LM>w#w-mf930703-048-p7s4w4</LM>
 </w.rf>
 <form>posílila</form>
-<tag lemma="posílit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="posílit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930703-048-p7s4w5">
 <src.rf>manual</src.rf>

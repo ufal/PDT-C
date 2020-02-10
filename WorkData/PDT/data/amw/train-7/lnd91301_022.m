@@ -302,7 +302,7 @@
 <LM>w#w-lnd91301-022-p4s2w5</LM>
 </w.rf>
 <form>promítána</form>
-<tag lemma="promítat_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="promítat" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-lnd91301-022-p4s2w6">
 <src.rf>manual</src.rf>
@@ -515,7 +515,7 @@
 <LM>w#w-lnd91301-022-p4s3w17</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd91301-022-p4s3w18">
 <src.rf>manual</src.rf>
@@ -648,7 +648,7 @@
 <LM>w#w-lnd91301-022-p4s4w12</LM>
 </w.rf>
 <form>zpřístupněny</form>
-<tag lemma="zpřístupnět_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="zpřístupnět" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd91301-022-p4s4w13">
 <src.rf>manual</src.rf>

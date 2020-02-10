@@ -148,7 +148,7 @@
 <LM>w#w-lnd92257-050-p3s2w6</LM>
 </w.rf>
 <form>vyzval</form>
-<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-050-p3s2w7">
 <src.rf>manual</src.rf>
@@ -247,7 +247,7 @@
 <LM>w#w-lnd92257-050-p3s2w19</LM>
 </w.rf>
 <form>vzdali</form>
-<tag lemma="vzdát" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vzdát" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-050-p3s2w20">
 <src.rf>manual</src.rf>
@@ -377,7 +377,7 @@
 <LM>w#w-lnd92257-050-p3s3w7</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-050-p3s3w8">
 <src.rf>manual</src.rf>
@@ -646,7 +646,7 @@
 <LM>w#w-lnd92257-050-p3s4w5</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-050-p3s4w6">
 <src.rf>manual</src.rf>
@@ -694,7 +694,7 @@
 <LM>w#w-lnd92257-050-p3s4w11</LM>
 </w.rf>
 <form>zmocnili</form>
-<tag lemma="zmocnit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zmocnit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-050-p3s4w12">
 <src.rf>manual</src.rf>
@@ -790,7 +790,7 @@
 <LM>w#w-lnd92257-050-p3s4w23</LM>
 </w.rf>
 <form>pobili</form>
-<tag lemma="pobít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="pobít" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-050-p3s4w24">
 <src.rf>manual</src.rf>
@@ -822,7 +822,7 @@
 <LM>w#w-lnd92257-050-p3s4w27</LM>
 </w.rf>
 <form>ztratili</form>
-<tag lemma="ztratit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="ztratit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-050-p3s4w28">
 <src.rf>manual</src.rf>
@@ -971,7 +971,7 @@
 <LM>w#w-lnd92257-050-p3s5w14</LM>
 </w.rf>
 <form>zahájila</form>
-<tag lemma="zahájit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zahájit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-050-p3s5w15">
 <src.rf>manual</src.rf>
@@ -1019,7 +1019,7 @@
 <LM>w#w-lnd92257-050-p3s5w20</LM>
 </w.rf>
 <form>vyžádal</form>
-<tag lemma="vyžádat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyžádat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-050-p3s5w21">
 <src.rf>manual</src.rf>

@@ -141,7 +141,7 @@
 <LM>w#w-ln94211-48-p1s2w1</LM>
 </w.rf>
 <form>Prohlásil</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94211-48-p1s2w2">
 <src.rf>manual</src.rf>
@@ -375,7 +375,7 @@
 <LM>w#w-ln94211-48-p1s3w5</LM>
 </w.rf>
 <form>vyměnili</form>
-<tag lemma="vyměnit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyměnit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94211-48-p1s3w6">
 <src.rf>manual</src.rf>
@@ -503,7 +503,7 @@
 <LM>w#w-ln94211-48-p1s4w1</LM>
 </w.rf>
 <form>Hovořili</form>
-<tag lemma="hovořit_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="hovořit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94211-48-p1s4w2">
 <src.rf>manual</src.rf>

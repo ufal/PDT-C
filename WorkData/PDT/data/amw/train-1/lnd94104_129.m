@@ -416,7 +416,7 @@
 <LM>w#w-lnd94104-129-p1s3w11</LM>
 </w.rf>
 <form>trénoval</form>
-<tag lemma="trénovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="trénovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94104-129-p1s3w12">
 <src.rf>manual</src.rf>
@@ -485,7 +485,7 @@
 <LM>w#w-lnd94104-129-p1s4w4</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94104-129-p1s4w5">
 <src.rf>manual</src.rf>

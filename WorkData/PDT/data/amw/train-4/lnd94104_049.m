@@ -103,7 +103,7 @@
 <LM>w#w-lnd94104-049-p1s3w3</LM>
 </w.rf>
 <form>schválil</form>
-<tag lemma="schválit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="schválit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-049-p1s3w4">
 <src.rf>manual</src.rf>
@@ -191,7 +191,7 @@
 <LM>w#w-lnd94104-049-p1s3w14</LM>
 </w.rf>
 <form>doporučil</form>
-<tag lemma="doporučit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="doporučit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-049-p1s3w15">
 <src.rf>manual</src.rf>
@@ -635,7 +635,7 @@
 <LM>w#w-lnd94104-049-p1s5w17</LM>
 </w.rf>
 <form>vyjádřil</form>
-<tag lemma="vyjádřit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyjádřit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-049-p1s5w18">
 <src.rf>manual</src.rf>
@@ -701,7 +701,7 @@
 <LM>w#w-lnd94104-049-p1s6w1</LM>
 </w.rf>
 <form>Citoval</form>
-<tag lemma="citovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="citovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94104-049-p1s6w2">
 <src.rf>manual</src.rf>
@@ -992,7 +992,7 @@
 <LM>w#w-lnd94104-049-p1s7w6</LM>
 </w.rf>
 <form>pobýval</form>
-<tag lemma="pobývat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="pobývat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94104-049-p1s7w7">
 <src.rf>manual</src.rf>
@@ -1024,7 +1024,7 @@
 <LM>w#w-lnd94104-049-p1s7w10</LM>
 </w.rf>
 <form>sešel</form>
-<tag lemma="sejít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sejít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-049-p1s7w11">
 <src.rf>manual</src.rf>

@@ -286,7 +286,7 @@
 <LM>w#w-ln95048-040-p2s3w6</LM>
 </w.rf>
 <form>obrátil</form>
-<tag lemma="obrátit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="obrátit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-040-p2s3w7">
 <src.rf>manual</src.rf>
@@ -326,7 +326,7 @@
 <LM>w#w-ln95048-040-p2s3w11</LM>
 </w.rf>
 <form>zůstal</form>
-<tag lemma="zůstat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zůstat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-040-p2s3w12">
 <src.rf>manual</src.rf>
@@ -400,7 +400,7 @@
 <LM>w#w-ln95048-040-p2s4w3</LM>
 </w.rf>
 <form>pronikla</form>
-<tag lemma="proniknout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="proniknout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln95048-040-p2s4w4">
 <src.rf>manual</src.rf>
@@ -458,7 +458,7 @@
 <LM>w#w-ln95048-040-p2s5w3</LM>
 </w.rf>
 <form>působil</form>
-<tag lemma="působit_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="působit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95048-040-p2s5w4">
 <src.rf>manual</src.rf>
@@ -562,7 +562,7 @@
 <LM>w#w-ln95048-040-p2s5w16</LM>
 </w.rf>
 <form>přátelil</form>
-<tag lemma="přátelit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přátelit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95048-040-p2s5w17">
 <src.rf>manual</src.rf>
@@ -688,7 +688,7 @@
 <LM>w#w-ln95048-040-p2s6w7</LM>
 </w.rf>
 <form>vstřebal</form>
-<tag lemma="vstřebat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vstřebat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-040-p2s6w8">
 <src.rf>manual</src.rf>
@@ -793,7 +793,7 @@
 <LM>w#w-ln95048-040-p2s6w20</LM>
 </w.rf>
 <form>nazval</form>
-<tag lemma="nazvat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nazvat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-040-p2s6w21">
 <src.rf>manual</src.rf>
@@ -1043,7 +1043,7 @@
 <LM>w#w-ln95048-040-p2s7w6</LM>
 </w.rf>
 <form>překládány</form>
-<tag lemma="překládat-3_:T_^(z_jazyka)" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="překládat-3_^(z_jazyka)" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln95048-040-p2s7w7">
 <src.rf>manual</src.rf>

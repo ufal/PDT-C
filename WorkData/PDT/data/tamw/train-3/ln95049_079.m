@@ -199,7 +199,7 @@
 <LM>w#w-ln95049-079-p2s1Bw17</LM>
 </w.rf>
 <form>oddělil</form>
-<tag lemma="oddělit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="oddělit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-079-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -337,7 +337,7 @@
 <LM>w#w-ln95049-079-p2s2w4</LM>
 </w.rf>
 <form>prohlásil</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-079-p2s2w5">
 <src.rf>manual</src.rf>

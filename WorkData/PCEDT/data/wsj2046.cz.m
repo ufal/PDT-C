@@ -244,7 +244,7 @@
 <LM>w#w-wsj2046-001-p1s0W21</LM>
 </w.rf>
 <form>zahájila</form>
-<tag lemma="zahájit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="zahájit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2046-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1054,7 +1054,7 @@
 <LM>w#w-wsj2046-001-p1s2W5</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2046-001-p1s2W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1389,7 +1389,7 @@
 <LM>w#w-wsj2046-001-p1s3W3</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2046-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>

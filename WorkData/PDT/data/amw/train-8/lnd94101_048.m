@@ -173,7 +173,7 @@
 <LM>w#w-lnd94101-048-p1s1Bw16</LM>
 </w.rf>
 <form>získaly</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-048-p1s1Bw17">
 <src.rf>manual</src.rf>
@@ -247,7 +247,7 @@
 <LM>w#w-lnd94101-048-p1s2w3</LM>
 </w.rf>
 <form>skončily</form>
-<tag lemma="skončit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="skončit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-048-p1s2w4">
 <src.rf>manual</src.rf>
@@ -372,7 +372,7 @@
 <LM>w#w-lnd94101-048-p1s3w2</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd94101-048-p1s3w3">
 <src.rf>manual</src.rf>
@@ -380,7 +380,7 @@
 <LM>w#w-lnd94101-048-p1s3w3</LM>
 </w.rf>
 <form>zakončena</form>
-<tag lemma="zakončit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zakončit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd94101-048-p1s3w4">
 <src.rf>manual</src.rf>
@@ -630,7 +630,7 @@
 <LM>w#w-lnd94101-048-p1s4w8</LM>
 </w.rf>
 <form>zdůvodňována</form>
-<tag lemma="zdůvodňovat_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zdůvodňovat" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-lnd94101-048-p1s4w9">
 <src.rf>manual</src.rf>
@@ -952,7 +952,7 @@
 <LM>w#w-lnd94101-048-p1s6w15</LM>
 </w.rf>
 <form>vedly</form>
-<tag lemma="vést" src="auto" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vést" src="auto" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd94101-048-p1s6w16">
 <src.rf>manual</src.rf>
@@ -1061,7 +1061,7 @@
 <LM>w#w-lnd94101-048-p1s7w12</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd94101-048-p1s7w13">
 <src.rf>manual</src.rf>
@@ -1070,8 +1070,8 @@
 </w.rf>
 <form>zavedeno</form>
 <tag>
-<AM lemma="zavést" src="orig">VsNS---XX-AP---</AM>
-<AM lemma="zavést_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+<AM lemma="zavést" src="orig">VsNS----X-APP--</AM>
+<AM lemma="zavést" src="manual" selected="1">VsNS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-lnd94101-048-p1s7w14">
@@ -1138,7 +1138,7 @@
 <LM>w#w-lnd94101-048-p1s8w4</LM>
 </w.rf>
 <form>vyčistil</form>
-<tag lemma="vyčistit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyčistit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-048-p1s8w5">
 <src.rf>manual</src.rf>
@@ -1229,8 +1229,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd94101-048-p1s9w4">
@@ -1508,8 +1508,8 @@
 </w.rf>
 <form>měl</form>
 <tag>
-<AM lemma="mít" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="mít_:T" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="mít" src="orig">VpYS----R-AAI--</AM>
+<AM lemma="mít" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-lnd94101-048-p1s11w8">
@@ -1596,8 +1596,8 @@
 </w.rf>
 <form>nemělo</form>
 <tag>
-<AM lemma="mít" src="orig">VpNS---XR-NA---</AM>
-<AM lemma="mít_:T" src="manual" selected="1">VpNS---XR-NA---</AM>
+<AM lemma="mít" src="orig">VpNS----R-NAI--</AM>
+<AM lemma="mít" src="manual" selected="1">VpNS----R-NAI--</AM>
 </tag>
 </m>
 <m id="m-lnd94101-048-p1s12w6">
@@ -2879,7 +2879,7 @@
 <LM>w#w-lnd94101-048-p1s23w6</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd94101-048-p1s23w7">
 <src.rf>manual</src.rf>
@@ -2911,7 +2911,7 @@
 <LM>w#w-lnd94101-048-p1s23w10</LM>
 </w.rf>
 <form>brány</form>
-<tag lemma="brát" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="brát" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-lnd94101-048-p1s23w11">
 <src.rf>manual</src.rf>

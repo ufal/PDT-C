@@ -69,8 +69,8 @@
 </w.rf>
 <form>nahrálo</form>
 <tag>
-<AM lemma="nahrát" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="nahrát_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="nahrát" src="orig">VpNS----R-AAP--</AM>
+<AM lemma="nahrát" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930701-065-p2s1w6">
@@ -453,7 +453,7 @@
 <LM>w#w-mf930701-065-p3s1w6</LM>
 </w.rf>
 <form>zlomil</form>
-<tag lemma="zlomit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zlomit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-065-p3s1w7">
 <src.rf>manual</src.rf>
@@ -586,7 +586,7 @@
 <LM>w#w-mf930701-065-p3s3w4</LM>
 </w.rf>
 <form>předpokládali</form>
-<tag lemma="předpokládat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="předpokládat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930701-065-p3s3w5">
 <src.rf>manual</src.rf>
@@ -634,7 +634,7 @@
 <LM>w#w-mf930701-065-p3s3w10</LM>
 </w.rf>
 <form>odvolali</form>
-<tag lemma="odvolat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="odvolat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930701-065-p3s3w11">
 <src.rf>manual</src.rf>
@@ -676,7 +676,7 @@
 <LM>w#w-mf930701-065-p3s4w4</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930701-065-p3s4w5">
 <src.rf>manual</src.rf>

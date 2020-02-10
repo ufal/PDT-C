@@ -130,7 +130,7 @@
 <LM>w#w-ln94205-42-p2s1Bw5</LM>
 </w.rf>
 <form>odsouhlasilo</form>
-<tag lemma="odsouhlasit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="odsouhlasit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94205-42-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -644,7 +644,7 @@
 <LM>w#w-ln94205-42-p2s3w28</LM>
 </w.rf>
 <form>zpracovala</form>
-<tag lemma="zpracovat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zpracovat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94205-42-p2s3w29">
 <src.rf>manual</src.rf>

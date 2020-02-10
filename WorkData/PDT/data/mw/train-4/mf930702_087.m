@@ -43,7 +43,7 @@
 <LM>w#w-mf930702-087-p1s1w4</LM>
 </w.rf>
 <form>zasypán</form>
-<tag lemma="zasypat_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zasypat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 </s>
 <s id="m-mf930702-087-p2s1">
@@ -71,7 +71,7 @@
 <form>vit</form>
 <tag>
 <AM lemma="vit-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="vít" src="auto" recommended="1">VsYS---XX-AP---</AM>
+<AM lemma="vít" src="auto" recommended="1">VsYS----X-API--</AM>
 <AM lemma="vit-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -177,7 +177,7 @@
 <LM>w#w-mf930702-087-p2s1w16</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930702-087-p2s1w17">
 <src.rf>manual</src.rf>
@@ -225,7 +225,7 @@
 <LM>w#w-mf930702-087-p2s1w22</LM>
 </w.rf>
 <form>zasypán</form>
-<tag lemma="zasypat_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zasypat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf930702-087-p2s1w23">
 <src.rf>manual</src.rf>
@@ -332,7 +332,7 @@
 <LM>w#w-mf930702-087-p2s3w1</LM>
 </w.rf>
 <form>Sestřižen</form>
-<tag lemma="sestřihnout" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="sestřihnout" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf930702-087-p2s3w2">
 <src.rf>manual</src.rf>
@@ -340,7 +340,7 @@
 <LM>w#w-mf930702-087-p2s3w2</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930702-087-p2s3w3">
 <src.rf>manual</src.rf>
@@ -772,7 +772,7 @@
 <LM>w#w-mf930702-087-p2s5w7</LM>
 </w.rf>
 <form>navštívili</form>
-<tag lemma="navštívit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="navštívit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930702-087-p2s5w8">
 <src.rf>manual</src.rf>
@@ -828,7 +828,7 @@
 <LM>w#w-mf930702-087-p2s5w14</LM>
 </w.rf>
 <form>nemuselo</form>
-<tag lemma="muset" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="muset" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-mf930702-087-p2s5w15">
 <src.rf>manual</src.rf>

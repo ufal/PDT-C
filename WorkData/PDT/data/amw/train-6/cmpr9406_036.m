@@ -8301,7 +8301,7 @@
 <AM lemma="rozhodovací_:B" src="orig" selected="1">AAXXX----1A---8</AM>
 <AM lemma="rozhod" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="rozhod" src="auto">NNIS4-----A----</AM>
-<AM lemma="rozhodnout_:W" src="auto">VpYS---XR-AA--6</AM>
+<AM lemma="rozhodnout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-036-p17s1w24">

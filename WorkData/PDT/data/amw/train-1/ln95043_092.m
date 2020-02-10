@@ -87,7 +87,7 @@
 <form>staly</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpTP---XR-AA---</AM>
-<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpTP---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95043-092-p2s1w7">
@@ -186,7 +186,7 @@
 <LM>w#w-ln95043-092-p2s2w1</LM>
 </w.rf>
 <form>Oznámila</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95043-092-p2s2w2">
 <src.rf>manual</src.rf>
@@ -324,7 +324,7 @@
 <LM>w#w-ln95043-092-p3s1w5</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95043-092-p3s1w6">
 <src.rf>manual</src.rf>
@@ -332,7 +332,7 @@
 <LM>w#w-ln95043-092-p3s1w6</LM>
 </w.rf>
 <form>založeno</form>
-<tag lemma="založit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="založit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95043-092-p3s1w7">
 <src.rf>manual</src.rf>
@@ -563,7 +563,7 @@
 <LM>w#w-ln95043-092-p4s1w5</LM>
 </w.rf>
 <form>zaregistrováno</form>
-<tag lemma="zaregistrovat_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zaregistrovat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95043-092-p4s1w6">
 <src.rf>manual</src.rf>
@@ -685,7 +685,7 @@
 <LM>w#w-ln95043-092-p4s2w5</LM>
 </w.rf>
 <form>registrováno</form>
-<tag lemma="registrovat_:T_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="registrovat" src="orig" selected="1">VsNS----X-APB--</tag>
 </m>
 <m id="m-ln95043-092-p4s2w6">
 <src.rf>manual</src.rf>
@@ -818,7 +818,7 @@
 <LM>w#w-ln95043-092-p5s1w5</LM>
 </w.rf>
 <form>zaregistrováno</form>
-<tag lemma="zaregistrovat_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zaregistrovat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95043-092-p5s1w6">
 <src.rf>manual</src.rf>

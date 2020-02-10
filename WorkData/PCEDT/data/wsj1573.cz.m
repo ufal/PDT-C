@@ -225,7 +225,7 @@
 <LM>w#w-wsj1573-001-p1s0W18</LM>
 </w.rf>
 <form>dosáhly</form>
-<tag lemma="dosáhnout" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="dosáhnout" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1573-001-p1s0W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -366,7 +366,7 @@
 <LM>w#w-wsj1573-001-p1s1W6</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj1573-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -382,7 +382,7 @@
 <LM>w#w-wsj1573-001-p1s1W8</LM>
 </w.rf>
 <form>prodána</form>
-<tag lemma="prodat" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="prodat" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj1573-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -545,7 +545,7 @@
 <LM>w#w-wsj1573-001-p1s2W6</LM>
 </w.rf>
 <form>činil</form>
-<tag lemma="činit" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="činit" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1573-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -594,7 +594,7 @@
 <LM>w#w-wsj1573-001-p1s2W12</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj1573-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -724,7 +724,7 @@
 <LM>w#w-wsj1573-001-p1s2W23</LM>
 </w.rf>
 <form>prodávalo</form>
-<tag lemma="prodávat_^(*4at)" src="auto" recommended="1">VpNS---XR-AAI--</tag>
+<tag lemma="prodávat_^(*4at)" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-wsj1573-001-p1s2W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -784,7 +784,7 @@
 <LM>w#w-wsj1573-001-p1s3W2</LM>
 </w.rf>
 <form>dosáhly</form>
-<tag lemma="dosáhnout" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="dosáhnout" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1573-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -987,7 +987,7 @@
 <LM>w#w-wsj1573-001-p1s4W6</LM>
 </w.rf>
 <form>stanovena</form>
-<tag lemma="stanovit_^(určit)" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="stanovit_^(určit)" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj1573-001-p1s4W7-Ta">
 <src.rf>tagger-a</src.rf>

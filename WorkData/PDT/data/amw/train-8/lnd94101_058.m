@@ -123,7 +123,7 @@
 <LM>w#w-lnd94101-058-p1s1w14</LM>
 </w.rf>
 <form>dalo</form>
-<tag lemma="dát" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="dát" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-058-p1s1w15">
 <src.rf>manual</src.rf>

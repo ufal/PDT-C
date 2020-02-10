@@ -148,8 +148,8 @@
 </w.rf>
 <form>vzrostly</form>
 <tag>
-<AM lemma="vzrůst-1" src="auto">VpTP---XR-AA---</AM>
-<AM lemma="vzrůst-1_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+<AM lemma="vzrůst-1" src="auto">VpTP----R-AAP--</AM>
+<AM lemma="vzrůst-1" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94208-2-p2s1Bw11">
@@ -310,7 +310,7 @@
 <LM>w#w-ln94208-2-p2s2w8</LM>
 </w.rf>
 <form>pracovala</form>
-<tag lemma="pracovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="pracovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94208-2-p2s2w9">
 <src.rf>manual</src.rf>
@@ -521,7 +521,7 @@
 <LM>w#w-ln94208-2-p2s2w34</LM>
 </w.rf>
 <form>činily</form>
-<tag lemma="činit_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="činit" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94208-2-p2s2w35">
 <src.rf>manual</src.rf>
@@ -838,7 +838,7 @@
 <LM>w#w-ln94208-2-p3s3w3</LM>
 </w.rf>
 <form>přesunulo</form>
-<tag lemma="přesunout" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="přesunout" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94208-2-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1008,7 +1008,7 @@
 <LM>w#w-ln94208-2-p3s4w5</LM>
 </w.rf>
 <form>stanovila</form>
-<tag lemma="stanovit_:W_^(určit)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="stanovit_^(určit)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94208-2-p3s4w6">
 <src.rf>manual</src.rf>

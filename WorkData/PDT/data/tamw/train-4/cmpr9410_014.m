@@ -86,8 +86,8 @@
 </w.rf>
 <form>otevřena</form>
 <tag>
-<AM lemma="otevřít" src="orig">VsQW---XX-AP---</AM>
-<AM lemma="otevřít_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+<AM lemma="otevřít" src="orig">VsQW----X-APP--</AM>
+<AM lemma="otevřít" src="manual" selected="1">VsQW----X-APP--</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-014-p3s1w7">
@@ -450,7 +450,7 @@
 <LM>w#w-cmpr9410-014-p3s3w3</LM>
 </w.rf>
 <form>určena</form>
-<tag lemma="určit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="určit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-cmpr9410-014-p3s3w4">
 <src.rf>manual</src.rf>

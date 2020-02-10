@@ -271,7 +271,7 @@
 <LM>w#w-lnd94105-098-p1s4w7</LM>
 </w.rf>
 <form>prodloužilo</form>
-<tag lemma="prodloužit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="prodloužit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd94105-098-p1s4w8">
 <src.rf>manual</src.rf>
@@ -433,7 +433,7 @@
 <LM>w#w-lnd94105-098-p1s5w14</LM>
 </w.rf>
 <form>vyplacen</form>
-<tag lemma="vyplatit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="vyplatit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd94105-098-p1s5w15">
 <src.rf>manual</src.rf>

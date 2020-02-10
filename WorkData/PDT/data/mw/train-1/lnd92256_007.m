@@ -175,7 +175,7 @@
 <LM>w#w-lnd92256-007-p1s1w19</LM>
 </w.rf>
 <form>hovořili</form>
-<tag lemma="hovořit_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="hovořit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92256-007-p1s1w20">
 <src.rf>manual</src.rf>

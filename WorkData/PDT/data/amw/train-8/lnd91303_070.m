@@ -386,7 +386,7 @@
 <LM>w#w-lnd91303-070-p2s2w22</LM>
 </w.rf>
 <form>staral</form>
-<tag lemma="starat_:T_^(se)" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="starat_^(se)" src="auto" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-070-p2s2w23">
 <src.rf>manual</src.rf>
@@ -757,7 +757,7 @@
 <LM>w#w-lnd91303-070-p2s2w68</LM>
 </w.rf>
 <form>dalo</form>
-<tag lemma="dát" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="dát" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-070-p2s2w69">
 <src.rf>manual</src.rf>
@@ -1025,7 +1025,7 @@
 <LM>w#w-lnd91303-070-p2s5w1</LM>
 </w.rf>
 <form>Nemělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-lnd91303-070-p2s5w2">
 <src.rf>manual</src.rf>

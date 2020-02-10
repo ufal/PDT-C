@@ -259,7 +259,7 @@
 <LM>w#w-mf930702-060-p2s1w22</LM>
 </w.rf>
 <form>integrovala</form>
-<tag lemma="integrovat_:T_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="integrovat" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-mf930702-060-p2s1w23">
 <src.rf>manual</src.rf>
@@ -306,8 +306,8 @@
 </w.rf>
 <form>Řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930702-060-p2s2w2">
@@ -768,7 +768,7 @@
 <LM>w#w-mf930702-060-p2s5w14</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930702-060-p2s5w15">
 <src.rf>manual</src.rf>

@@ -255,7 +255,7 @@
 <LM>w#w-ln95047-128-p2s1Cw13</LM>
 </w.rf>
 <form>otevřely</form>
-<tag lemma="otevřít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="otevřít" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95047-128-p2s1Cw14">
 <src.rf>manual</src.rf>

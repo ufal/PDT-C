@@ -835,7 +835,7 @@
 <LM>w#w-mf920922-013-p2s6w8</LM>
 </w.rf>
 <form>zvýšil</form>
-<tag lemma="zvýšit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zvýšit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-013-p2s6w9">
 <src.rf>manual</src.rf>
@@ -1554,7 +1554,7 @@
 <LM>w#w-mf920922-013-p2s10Aw8</LM>
 </w.rf>
 <form>triumfovaly</form>
-<tag lemma="triumfovat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="triumfovat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf920922-013-p2s10Aw9">
 <src.rf>manual</src.rf>
@@ -1837,7 +1837,7 @@
 <LM>w#w-mf920922-013-p2s10Bw21</LM>
 </w.rf>
 <form>vzrostl</form>
-<tag lemma="vzrůst-1" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vzrůst-1" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-013-p2s10Bw22">
 <src.rf>manual</src.rf>
@@ -1878,7 +1878,7 @@
 <LM>w#w-mf920922-013-p2s10Bw26</LM>
 </w.rf>
 <form>dosáhl</form>
-<tag lemma="dosáhnout" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dosáhnout" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-013-p2s10Bw27">
 <src.rf>manual</src.rf>

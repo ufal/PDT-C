@@ -45,7 +45,7 @@
 <LM>w#w-ln94200-98-p2s1w3</LM>
 </w.rf>
 <form>odcizil</form>
-<tag lemma="odcizit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odcizit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-98-p2s1w4">
 <src.rf>manual</src.rf>
@@ -128,7 +128,7 @@
 <LM>w#w-ln94200-98-p2s1w13</LM>
 </w.rf>
 <form>odjel</form>
-<tag lemma="odjet" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odjet" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-98-p2s1w14">
 <src.rf>manual</src.rf>
@@ -210,7 +210,7 @@
 <LM>w#w-ln94200-98-p2s2Aw3</LM>
 </w.rf>
 <form>vznikla</form>
-<tag lemma="vzniknout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="vzniknout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln94200-98-p2s2Aw4">
 <src.rf>manual</src.rf>
@@ -440,7 +440,7 @@
 <LM>w#w-ln94200-98-p2s3w3</LM>
 </w.rf>
 <form>zneškodnil</form>
-<tag lemma="zneškodnit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zneškodnit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-98-p2s3w4">
 <src.rf>manual</src.rf>

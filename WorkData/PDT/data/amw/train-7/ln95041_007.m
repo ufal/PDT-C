@@ -283,7 +283,7 @@
 <LM>w#w-ln95041-007-p2s3w1</LM>
 </w.rf>
 <form>Oznámila</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95041-007-p2s3w2">
 <src.rf>manual</src.rf>

@@ -105,7 +105,7 @@
 <LM>w#w-mf920924-074-p3s1Bw1</LM>
 </w.rf>
 <form>Navštívili</form>
-<tag lemma="navštívit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="navštívit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920924-074-p3s1Bw2">
 <src.rf>manual</src.rf>
@@ -169,7 +169,7 @@
 <LM>w#w-mf920924-074-p3s1Bw10</LM>
 </w.rf>
 <form>zjistili</form>
-<tag lemma="zjistit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zjistit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920924-074-p3s1Bw11">
 <src.rf>manual</src.rf>

@@ -59,7 +59,7 @@
 <LM>w#w-mf920922-136-p1s1w6</LM>
 </w.rf>
 <form>ODVRÁTILO</form>
-<tag lemma="odvrátit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="odvrátit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-136-p1s1w7">
 <src.rf>manual</src.rf>
@@ -123,7 +123,7 @@
 <LM>w#w-mf920922-136-p1s1w14</LM>
 </w.rf>
 <form>VYHRÁNO</form>
-<tag lemma="vyhrát" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="vyhrát" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 </s>
 </mdata>

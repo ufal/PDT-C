@@ -218,7 +218,7 @@
 <LM>w#w-ln94210-40-p2s1Bw18</LM>
 </w.rf>
 <form>zamítl</form>
-<tag lemma="zamítnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="zamítnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln94210-40-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -284,7 +284,7 @@
 <LM>w#w-ln94210-40-p2s2w2</LM>
 </w.rf>
 <form>žalovalo</form>
-<tag lemma="žalovat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="žalovat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94210-40-p2s2w3">
 <src.rf>manual</src.rf>
@@ -468,7 +468,7 @@
 <LM>w#w-ln94210-40-p2s2w25</LM>
 </w.rf>
 <form>převzala</form>
-<tag lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94210-40-p2s2w26">
 <src.rf>manual</src.rf>
@@ -484,7 +484,7 @@
 <LM>w#w-ln94210-40-p2s2w27</LM>
 </w.rf>
 <form>rozdělovala</form>
-<tag lemma="rozdělovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="rozdělovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94210-40-p2s2w28">
 <src.rf>manual</src.rf>
@@ -500,7 +500,7 @@
 <LM>w#w-ln94210-40-p2s2w29</LM>
 </w.rf>
 <form>spravovala</form>
-<tag lemma="spravovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="spravovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94210-40-p2s2w30">
 <src.rf>manual</src.rf>
@@ -553,7 +553,7 @@
 <LM>w#w-ln94210-40-p2s3w2</LM>
 </w.rf>
 <form>zamítl</form>
-<tag lemma="zamítnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="zamítnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln94210-40-p2s3w3">
 <src.rf>manual</src.rf>
@@ -710,7 +710,7 @@
 <LM>w#w-ln94210-40-p2s4w4</LM>
 </w.rf>
 <form>řekla</form>
-<tag lemma="říci" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94210-40-p2s4w5">
 <src.rf>manual</src.rf>
@@ -1072,7 +1072,7 @@
 <LM>w#w-ln94210-40-p2s6w2</LM>
 </w.rf>
 <form>poukázal</form>
-<tag lemma="poukázat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="poukázat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94210-40-p2s6w3">
 <src.rf>manual</src.rf>

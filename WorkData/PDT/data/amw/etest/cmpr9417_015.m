@@ -332,7 +332,7 @@
 <LM>w#w-cmpr9417-015-p3s3w14</LM>
 </w.rf>
 <form>dozvonil</form>
-<tag lemma="dozvonit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dozvonit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9417-015-p3s3w15">
 <src.rf>manual</src.rf>
@@ -348,7 +348,7 @@
 <LM>w#w-cmpr9417-015-p3s3w16</LM>
 </w.rf>
 <form>dostalo</form>
-<tag lemma="dostat" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="dostat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9417-015-p3s3w17">
 <src.rf>manual</src.rf>
@@ -473,7 +473,7 @@
 <LM>w#w-cmpr9417-015-p3s4w5</LM>
 </w.rf>
 <form>následovalo</form>
-<tag lemma="následovat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="následovat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9417-015-p3s4w6">
 <src.rf>manual</src.rf>
@@ -539,7 +539,7 @@
 <LM>w#w-cmpr9417-015-p3s4w13</LM>
 </w.rf>
 <form>zavěsil</form>
-<tag lemma="zavěsit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zavěsit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9417-015-p3s4w14">
 <src.rf>manual</src.rf>

@@ -119,7 +119,7 @@
 <LM>w#w-mf920902-102-p2s2w4</LM>
 </w.rf>
 <form>stanovilo</form>
-<tag lemma="stanovit_:W_^(určit)" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="stanovit_^(určit)" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-102-p2s2w5">
 <src.rf>manual</src.rf>
@@ -507,7 +507,7 @@
 <LM>w#w-mf920902-102-p2s4w15</LM>
 </w.rf>
 <form>sdělil</form>
-<tag lemma="sdělit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sdělit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-102-p2s4w16">
 <src.rf>manual</src.rf>
@@ -959,7 +959,7 @@
 <LM>w#w-mf920902-102-p2s6w24</LM>
 </w.rf>
 <form>doplnil</form>
-<tag lemma="doplnit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="doplnit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-102-p2s6w25">
 <src.rf>manual</src.rf>

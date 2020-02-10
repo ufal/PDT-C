@@ -62,7 +62,7 @@
 <LM>w#w-wsj0365-001-p1s0W5</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0365-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -70,7 +70,7 @@
 <LM>w#w-wsj0365-001-p1s0W6</LM>
 </w.rf>
 <form>jmenována</form>
-<tag lemma="jmenovat" src="auto" recommended="1">VsQW---XX-APB--</tag>
+<tag lemma="jmenovat" src="auto" recommended="1">VsQW----X-APB--</tag>
 </m>
 <m id="m-wsj0365-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>

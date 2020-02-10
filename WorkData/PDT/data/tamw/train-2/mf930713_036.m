@@ -43,7 +43,7 @@
 <LM>w#w-mf930713-036-p1s1w4</LM>
 </w.rf>
 <form>neprovezl</form>
-<tag lemma="provézt" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="provézt" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 </s>
 <s id="m-mf930713-036-p2s1A">
@@ -178,7 +178,7 @@
 <LM>w#w-mf930713-036-p2s1Bw11</LM>
 </w.rf>
 <form>dopadli</form>
-<tag lemma="dopadnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="dopadnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-mf930713-036-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -276,7 +276,7 @@
 <LM>w#w-mf930713-036-p2s2w6</LM>
 </w.rf>
 <form>povšiml</form>
-<tag lemma="povšimnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="povšimnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf930713-036-p2s2w7">
 <src.rf>manual</src.rf>
@@ -358,7 +358,7 @@
 <LM>w#w-mf930713-036-p2s3w3</LM>
 </w.rf>
 <form>zjistili</form>
-<tag lemma="zjistit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zjistit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930713-036-p2s3w4">
 <src.rf>manual</src.rf>
@@ -390,7 +390,7 @@
 <LM>w#w-mf930713-036-p2s3w7</LM>
 </w.rf>
 <form>provezl</form>
-<tag lemma="provézt" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="provézt" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-036-p2s3w8">
 <src.rf>manual</src.rf>
@@ -480,7 +480,7 @@
 <LM>w#w-mf930713-036-p2s4w7</LM>
 </w.rf>
 <form>nepřihlásil</form>
-<tag lemma="přihlásit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="přihlásit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-mf930713-036-p2s4w8">
 <src.rf>manual</src.rf>
@@ -512,7 +512,7 @@
 <LM>w#w-mf930713-036-p2s4w11</LM>
 </w.rf>
 <form>nezaplatil</form>
-<tag lemma="zaplatit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="zaplatit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-mf930713-036-p2s4w12">
 <src.rf>manual</src.rf>
@@ -578,7 +578,7 @@
 <LM>w#w-mf930713-036-p2s5w5</LM>
 </w.rf>
 <form>mělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930713-036-p2s5w6">
 <src.rf>manual</src.rf>

@@ -71,7 +71,7 @@
 <LM>w#w-lnd92253-084-p2s2w3</LM>
 </w.rf>
 <form>vystavil</form>
-<tag lemma="vystavit_:W_^(např._potvrzení)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vystavit_^(např._potvrzení)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92253-084-p2s2w4">
 <src.rf>manual</src.rf>
@@ -193,7 +193,7 @@
 <LM>w#w-lnd92253-084-p2s3w3</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92253-084-p2s3w4">
 <src.rf>manual</src.rf>
@@ -213,7 +213,7 @@
 <LM>w#w-lnd92253-084-p2s3w5</LM>
 </w.rf>
 <form>dovezen</form>
-<tag lemma="dovézt" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="dovézt" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd92253-084-p2s3w6">
 <src.rf>manual</src.rf>
@@ -325,7 +325,7 @@
 <LM>w#w-lnd92253-084-p2s3w19</LM>
 </w.rf>
 <form>zamořil</form>
-<tag lemma="zamořit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zamořit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92253-084-p2s3w20">
 <src.rf>manual</src.rf>
@@ -383,7 +383,7 @@
 <LM>w#w-lnd92253-084-p2s4w6</LM>
 </w.rf>
 <form>trpěla</form>
-<tag lemma="trpět" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="trpět" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92253-084-p2s4w7">
 <src.rf>manual</src.rf>
@@ -553,7 +553,7 @@
 <LM>w#w-lnd92253-084-p2s5w11</LM>
 </w.rf>
 <form>dostaly</form>
-<tag lemma="dostat" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="dostat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd92253-084-p2s5w12">
 <src.rf>manual</src.rf>

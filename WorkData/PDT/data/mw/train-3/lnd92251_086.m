@@ -19,7 +19,7 @@
 <LM>w#w-lnd92251-086-p1s1w1</LM>
 </w.rf>
 <form>Udrželi</form>
-<tag lemma="udržet" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="udržet" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-086-p1s1w2">
 <src.rf>manual</src.rf>
@@ -156,7 +156,7 @@
 <LM>w#w-lnd92251-086-p2s2w9</LM>
 </w.rf>
 <form>udržel</form>
-<tag lemma="udržet" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="udržet" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-086-p2s2w10">
 <src.rf>manual</src.rf>
@@ -294,7 +294,7 @@
 <LM>w#w-lnd92251-086-p2s3w2</LM>
 </w.rf>
 <form>uhájil</form>
-<tag lemma="uhájit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uhájit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-086-p2s3w3">
 <src.rf>manual</src.rf>

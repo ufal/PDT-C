@@ -291,7 +291,7 @@
 <LM>w#w-wsj0732-001-p1s1W10</LM>
 </w.rf>
 <form>prošel</form>
-<tag lemma="projít_^(i_uplynout_[o_čase])" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="projít_^(i_uplynout_[o_čase])" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0732-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -851,7 +851,7 @@
 <LM>w#w-wsj0732-001-p1s3W16</LM>
 </w.rf>
 <form>prošel</form>
-<tag lemma="projít_^(i_uplynout_[o_čase])" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="projít_^(i_uplynout_[o_čase])" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0732-001-p1s3W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -990,7 +990,7 @@
 <LM>w#w-wsj0732-001-p1s4W7</LM>
 </w.rf>
 <form>uvěřili</form>
-<tag lemma="uvěřit" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="uvěřit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj0732-001-p1s4W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1025,7 +1025,7 @@
 <LM>w#w-wsj0732-001-p1s4W11</LM>
 </w.rf>
 <form>snížila</form>
-<tag lemma="snížit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="snížit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0732-001-p1s4W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2531,7 +2531,7 @@
 <LM>w#w-wsj0732-001-p1s8W33</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0732-001-p1s8W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3977,7 +3977,7 @@
 <tag>
 <AM lemma="dopad" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="dopad" src="auto">NNIS4-----A----</AM>
-<AM lemma="dopadnout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="dopadnout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-wsj0732-001-p1s15W6-Ta">
@@ -4781,7 +4781,7 @@
 <LM>w#w-wsj0732-001-p1s17W26</LM>
 </w.rf>
 <form>konfiskována</form>
-<tag lemma="konfiskovat" src="auto" recommended="1">VsQW---XX-APB--</tag>
+<tag lemma="konfiskovat" src="auto" recommended="1">VsQW----X-APB--</tag>
 </m>
 <m id="m-wsj0732-001-p1s17W27-Ta">
 <src.rf>tagger-a</src.rf>

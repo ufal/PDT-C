@@ -406,7 +406,7 @@
 <LM>w#w-mf930713-095-p2s4w7</LM>
 </w.rf>
 <form>objevily</form>
-<tag lemma="objevit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="objevit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf930713-095-p2s4w8">
 <src.rf>manual</src.rf>
@@ -688,7 +688,7 @@
 <LM>w#w-mf930713-095-p2s5w30</LM>
 </w.rf>
 <form>uložila</form>
-<tag lemma="uložit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="uložit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930713-095-p2s5w31">
 <src.rf>manual</src.rf>
@@ -1036,7 +1036,7 @@
 <LM>w#w-mf930713-095-p2s7w15</LM>
 </w.rf>
 <form>rozmrzly</form>
-<tag lemma="rozmrznout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="rozmrznout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-mf930713-095-p2s7w16">
 <src.rf>manual</src.rf>
@@ -1052,7 +1052,7 @@
 <LM>w#w-mf930713-095-p2s7w17</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930713-095-p2s7w18">
 <src.rf>manual</src.rf>
@@ -1068,7 +1068,7 @@
 <LM>w#w-mf930713-095-p2s7w19</LM>
 </w.rf>
 <form>zmrazeny</form>
-<tag lemma="zmrazit" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="zmrazit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-mf930713-095-p2s7w20">
 <src.rf>manual</src.rf>
@@ -1236,7 +1236,7 @@
 <LM>w#w-mf930713-095-p2s9w6</LM>
 </w.rf>
 <form>pokutoval</form>
-<tag lemma="pokutovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="pokutovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930713-095-p2s9w7">
 <src.rf>manual</src.rf>

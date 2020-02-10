@@ -186,7 +186,7 @@
 <LM>w#w-ln95048-100-p2s1Bw16</LM>
 </w.rf>
 <form>ozývalo</form>
-<tag lemma="ozývat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="ozývat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95048-100-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -255,7 +255,7 @@
 <LM>w#w-ln95048-100-p2s2w5</LM>
 </w.rf>
 <form>nenasvědčoval</form>
-<tag lemma="nasvědčovat_:T" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="nasvědčovat" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-ln95048-100-p2s2w6">
 <src.rf>manual</src.rf>
@@ -486,7 +486,7 @@
 <LM>w#w-ln95048-100-p2s4w1</LM>
 </w.rf>
 <form>Oznámil</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-100-p2s4w2">
 <src.rf>manual</src.rf>

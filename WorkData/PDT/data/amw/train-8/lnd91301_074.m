@@ -102,7 +102,7 @@
 <LM>w#w-lnd91301-074-p1s1w11</LM>
 </w.rf>
 <form>vrátila</form>
-<tag lemma="vrátit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vrátit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-074-p1s1w12">
 <src.rf>manual</src.rf>
@@ -271,7 +271,7 @@
 <LM>w#w-lnd91301-074-p1s2w9</LM>
 </w.rf>
 <form>uskutečnilo</form>
-<tag lemma="uskutečnit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="uskutečnit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-074-p1s2w10">
 <src.rf>manual</src.rf>
@@ -342,7 +342,7 @@
 <LM>w#w-lnd91301-074-p1s2w16</LM>
 </w.rf>
 <form>setkalo</form>
-<tag lemma="setkat_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="setkat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-074-p1s2w17">
 <src.rf>manual</src.rf>

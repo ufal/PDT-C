@@ -359,7 +359,7 @@
 <LM>w#w-lnd92255-020-p2s2w5</LM>
 </w.rf>
 <form>připravil</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="připravit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-020-p2s2w6">
 <src.rf>manual</src.rf>

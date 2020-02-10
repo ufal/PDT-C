@@ -147,7 +147,7 @@
 <LM>w#w-lnd92252-042-p1s1w17</LM>
 </w.rf>
 <form>zúčastnilo</form>
-<tag lemma="zúčastnit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zúčastnit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-042-p1s1w18">
 <src.rf>manual</src.rf>

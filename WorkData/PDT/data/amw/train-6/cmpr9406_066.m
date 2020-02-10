@@ -1244,7 +1244,7 @@
 <LM>w#w-cmpr9406-066-p11s1w12</LM>
 </w.rf>
 <form>pohyboval</form>
-<tag lemma="pohybovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="pohybovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9406-066-p11s1w13">
 <src.rf>manual</src.rf>

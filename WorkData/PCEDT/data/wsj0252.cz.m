@@ -241,7 +241,7 @@
 <LM>w#w-wsj0252-001-p1s0W18</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj0252-001-p1s0W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -249,7 +249,7 @@
 <LM>w#w-wsj0252-001-p1s0W19</LM>
 </w.rf>
 <form>jmenován</form>
-<tag lemma="jmenovat" src="auto" recommended="1">VsYS---XX-APB--</tag>
+<tag lemma="jmenovat" src="auto" recommended="1">VsYS----X-APB--</tag>
 </m>
 <m id="m-wsj0252-001-p1s0W20-Ta">
 <src.rf>tagger-a</src.rf>

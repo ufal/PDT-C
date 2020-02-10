@@ -84,7 +84,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>podílel</form>
-<tag lemma="podílet_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="podílet" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94105-003-p1s1w10">
 <src.rf>manual</src.rf>

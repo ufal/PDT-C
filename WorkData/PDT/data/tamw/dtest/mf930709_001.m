@@ -85,7 +85,7 @@
 <LM>w#w-mf930709-001-p2s1w2</LM>
 </w.rf>
 <form>doporučil</form>
-<tag lemma="doporučit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="doporučit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-001-p2s1w3">
 <src.rf>manual</src.rf>
@@ -201,7 +201,7 @@
 <LM>w#w-mf930709-001-p3s1Bw4</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930709-001-p3s1Bw5">
 <src.rf>manual</src.rf>
@@ -308,8 +308,8 @@
 </w.rf>
 <form>Řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930709-001-p3s2w2">
@@ -398,7 +398,7 @@
 <LM>w#w-mf930709-001-p3s2w12</LM>
 </w.rf>
 <form>vyslovil</form>
-<tag lemma="vyslovit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyslovit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-001-p3s2w13">
 <src.rf>manual</src.rf>
@@ -494,7 +494,7 @@
 <LM>w#w-mf930709-001-p3s2w24</LM>
 </w.rf>
 <form>navrhl</form>
-<tag lemma="navrhnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="navrhnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf930709-001-p3s2w25">
 <src.rf>manual</src.rf>
@@ -1034,7 +1034,7 @@
 <LM>w#w-mf930709-001-p4s1w4</LM>
 </w.rf>
 <form>mělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930709-001-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1790,7 +1790,7 @@
 <LM>w#w-mf930709-001-p4s4w2</LM>
 </w.rf>
 <form>neschválil</form>
-<tag lemma="schválit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="schválit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-mf930709-001-p4s4w3">
 <src.rf>manual</src.rf>
@@ -1882,7 +1882,7 @@
 <LM>w#w-mf930709-001-p4s4w13</LM>
 </w.rf>
 <form>hlasovala</form>
-<tag lemma="hlasovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="hlasovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930709-001-p4s4w14">
 <src.rf>manual</src.rf>

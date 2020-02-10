@@ -349,7 +349,7 @@
 <LM>w#w-vesm9211-040-p4s1w27</LM>
 </w.rf>
 <form>sešlo</form>
-<tag lemma="sejít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="sejít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-vesm9211-040-p4s1w28">
 <src.rf>manual</src.rf>
@@ -706,7 +706,7 @@
 <LM>w#w-vesm9211-040-p5s1w31</LM>
 </w.rf>
 <form>vyrovnali</form>
-<tag lemma="vyrovnat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyrovnat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-vesm9211-040-p5s1w32">
 <src.rf>manual</src.rf>
@@ -1564,7 +1564,7 @@
 <LM>w#w-vesm9211-040-p5s5w3</LM>
 </w.rf>
 <form>ukončen</form>
-<tag lemma="ukončit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="ukončit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-vesm9211-040-p5s5w4">
 <src.rf>manual</src.rf>
@@ -1945,7 +1945,7 @@
 <LM>w#w-vesm9211-040-p5s6w36</LM>
 </w.rf>
 <form>hodnoceny</form>
-<tag lemma="hodnotit_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="hodnotit" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-vesm9211-040-p5s6w37">
 <src.rf>manual</src.rf>
@@ -2284,7 +2284,7 @@
 <LM>w#w-vesm9211-040-p5s8w4</LM>
 </w.rf>
 <form>honorováno</form>
-<tag lemma="honorovat_:T" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="honorovat" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-vesm9211-040-p5s8w5">
 <src.rf>manual</src.rf>
@@ -2728,7 +2728,7 @@
 <LM>w#w-vesm9211-040-p6s2w16</LM>
 </w.rf>
 <form>vyvolala</form>
-<tag lemma="vyvolat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyvolat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-vesm9211-040-p6s2w17">
 <src.rf>manual</src.rf>
@@ -4121,7 +4121,7 @@
 <LM>w#w-vesm9211-040-p6s7w16</LM>
 </w.rf>
 <form>býval</form>
-<tag lemma="bývat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="bývat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-vesm9211-040-p6s7w17">
 <src.rf>manual</src.rf>
@@ -4484,7 +4484,7 @@
 <LM>w#w-vesm9211-040-p6s9w18</LM>
 </w.rf>
 <form>oceňována</form>
-<tag lemma="oceňovat_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="oceňovat" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-vesm9211-040-p6s9w19">
 <src.rf>manual</src.rf>

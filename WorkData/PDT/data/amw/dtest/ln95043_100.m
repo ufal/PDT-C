@@ -406,7 +406,7 @@
 <LM>w#w-ln95043-100-p2s4w4</LM>
 </w.rf>
 <form>připravena</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="připravit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln95043-100-p2s4w5">
 <src.rf>manual</src.rf>
@@ -454,7 +454,7 @@
 <LM>w#w-ln95043-100-p2s4w10</LM>
 </w.rf>
 <form>zpracováno</form>
-<tag lemma="zpracovat_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zpracovat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95043-100-p2s4w11">
 <src.rf>manual</src.rf>

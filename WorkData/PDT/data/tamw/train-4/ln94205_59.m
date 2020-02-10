@@ -342,7 +342,7 @@
 <LM>w#w-ln94205-59-p3s1w3</LM>
 </w.rf>
 <form>ratifikována</form>
-<tag lemma="ratifikovat_:T_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="ratifikovat" src="orig" selected="1">VsQW----X-APB--</tag>
 </m>
 <m id="m-ln94205-59-p3s1w4">
 <src.rf>manual</src.rf>
@@ -639,7 +639,7 @@
 <LM>w#w-ln94205-59-p3s2w22</LM>
 </w.rf>
 <form>reagováno</form>
-<tag lemma="reagovat_:T" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="reagovat" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-ln94205-59-p3s2w23">
 <src.rf>manual</src.rf>

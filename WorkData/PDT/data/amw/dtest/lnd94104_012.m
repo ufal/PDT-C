@@ -68,7 +68,7 @@
 <LM>w#w-lnd94104-012-p1s1w7</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd94104-012-p1s1w8">
 <src.rf>manual</src.rf>

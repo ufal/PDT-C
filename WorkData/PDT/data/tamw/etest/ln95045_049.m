@@ -283,7 +283,7 @@
 <LM>w#w-ln95045-049-p2s2w3</LM>
 </w.rf>
 <form>vznikla</form>
-<tag lemma="vzniknout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="vzniknout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln95045-049-p2s2w4">
 <src.rf>manual</src.rf>
@@ -552,7 +552,7 @@
 <LM>w#w-ln95045-049-p3s1w3</LM>
 </w.rf>
 <form>změnil</form>
-<tag lemma="změnit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="změnit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-049-p3s1w4">
 <src.rf>manual</src.rf>
@@ -672,7 +672,7 @@
 <LM>w#w-ln95045-049-p3s1w18</LM>
 </w.rf>
 <form>představil</form>
-<tag lemma="představit-1_:W_^(si_něco;_něco/někoho_někomu)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="představit-1_^(si_něco;_něco/někoho_někomu)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-049-p3s1w19">
 <src.rf>manual</src.rf>
@@ -842,7 +842,7 @@
 <LM>w#w-ln95045-049-p3s2w5</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95045-049-p3s2w6">
 <src.rf>manual</src.rf>
@@ -946,7 +946,7 @@
 <LM>w#w-ln95045-049-p3s2w18</LM>
 </w.rf>
 <form>zúčastnil</form>
-<tag lemma="zúčastnit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zúčastnit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-049-p3s2w19">
 <src.rf>manual</src.rf>
@@ -1566,7 +1566,7 @@
 <LM>w#w-ln95045-049-p3s5w4</LM>
 </w.rf>
 <form>věnovali</form>
-<tag lemma="věnovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="věnovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95045-049-p3s5w5">
 <src.rf>manual</src.rf>
@@ -1654,7 +1654,7 @@
 <LM>w#w-ln95045-049-p3s5w15</LM>
 </w.rf>
 <form>shodli</form>
-<tag lemma="shodnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="shodnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-ln95045-049-p3s5w16">
 <src.rf>manual</src.rf>
@@ -1994,7 +1994,7 @@
 <LM>w#w-ln95045-049-p3s7w17</LM>
 </w.rf>
 <form>potkal</form>
-<tag lemma="potkat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="potkat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-049-p3s7w18">
 <src.rf>manual</src.rf>
@@ -2343,7 +2343,7 @@
 <LM>w#w-ln95045-049-p4s1w8</LM>
 </w.rf>
 <form>vznikaly</form>
-<tag lemma="vznikat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vznikat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95045-049-p4s1w9">
 <src.rf>manual</src.rf>
@@ -2425,7 +2425,7 @@
 <LM>w#w-ln95045-049-p4s2w6</LM>
 </w.rf>
 <form>vznikl</form>
-<tag lemma="vzniknout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="vzniknout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln95045-049-p4s2w7">
 <src.rf>manual</src.rf>
@@ -2603,7 +2603,7 @@
 <LM>w#w-ln95045-049-p4s3w16</LM>
 </w.rf>
 <form>splnil</form>
-<tag lemma="splnit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="splnit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-049-p4s3w17">
 <src.rf>manual</src.rf>

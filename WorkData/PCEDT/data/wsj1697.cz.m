@@ -127,7 +127,7 @@
 <LM>w#w-wsj1697-001-p1s0W6</LM>
 </w.rf>
 <form>oznámilo</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj1697-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -165,7 +165,7 @@
 <LM>w#w-wsj1697-001-p1s0W10</LM>
 </w.rf>
 <form>udrželo</form>
-<tag lemma="udržet" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="udržet" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj1697-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -479,7 +479,7 @@
 </w.rf>
 <form>radil</form>
 <tag>
-<AM lemma="radit" src="auto" recommended="1">VpYS---XR-AAI--</AM>
+<AM lemma="radit" src="auto" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="radil" src="auto">NNMS1-----A----</AM>
 </tag>
 </m>
@@ -704,7 +704,7 @@
 <LM>w#w-wsj1697-001-p1s1W17</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1697-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1123,7 +1123,7 @@
 <LM>w#w-wsj1697-001-p1s2W4</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1697-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1150,7 +1150,7 @@
 <LM>w#w-wsj1697-001-p1s2W7</LM>
 </w.rf>
 <form>prodloužila</form>
-<tag lemma="prodloužit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="prodloužit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1697-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1460,7 +1460,7 @@
 <LM>w#w-wsj1697-001-p1s3W9</LM>
 </w.rf>
 <form>uzavíraly</form>
-<tag lemma="uzavírat" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag lemma="uzavírat" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj1697-001-p1s3W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1520,7 +1520,7 @@
 <LM>w#w-wsj1697-001-p1s3W14</LM>
 </w.rf>
 <form>nezměněny</form>
-<tag lemma="změnit" src="auto" recommended="1">VsTP---XX-NPP--</tag>
+<tag lemma="změnit" src="auto" recommended="1">VsTP----X-NPP--</tag>
 </m>
 <m id="m-wsj1697-001-p1s3W15-Ta">
 <src.rf>tagger-a</src.rf>

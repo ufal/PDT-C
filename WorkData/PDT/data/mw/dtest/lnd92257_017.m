@@ -302,7 +302,7 @@
 <LM>w#w-lnd92257-017-p3s3w1</LM>
 </w.rf>
 <form>Sdělil</form>
-<tag lemma="sdělit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sdělit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-017-p3s3w2">
 <src.rf>manual</src.rf>

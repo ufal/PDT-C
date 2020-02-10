@@ -415,7 +415,7 @@
 <LM>w#w-ln95043-076-p2s3w9</LM>
 </w.rf>
 <form>sdělil</form>
-<tag lemma="sdělit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sdělit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95043-076-p2s3w10">
 <src.rf>manual</src.rf>
@@ -506,7 +506,7 @@
 <LM>w#w-ln95043-076-p2s3w20</LM>
 </w.rf>
 <form>dala</form>
-<tag lemma="dát" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="dát" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95043-076-p2s3w21">
 <src.rf>manual</src.rf>
@@ -782,7 +782,7 @@
 <LM>w#w-ln95043-076-p2s5w14</LM>
 </w.rf>
 <form>umístěna</form>
-<tag lemma="umístit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="umístit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln95043-076-p2s5w15">
 <src.rf>manual</src.rf>
@@ -898,7 +898,7 @@
 <LM>w#w-ln95043-076-p2s7w4</LM>
 </w.rf>
 <form>nepodařilo</form>
-<tag lemma="podařit_:W" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="podařit" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-ln95043-076-p2s7w5">
 <src.rf>manual</src.rf>
@@ -946,7 +946,7 @@
 <LM>w#w-ln95043-076-p2s7w10</LM>
 </w.rf>
 <form>způsobena</form>
-<tag lemma="způsobit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="způsobit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln95043-076-p2s7w11">
 <src.rf>manual</src.rf>

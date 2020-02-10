@@ -267,7 +267,7 @@
 <LM>w#w-lnd91303-001-p1s2w23</LM>
 </w.rf>
 <form>pochopili</form>
-<tag lemma="pochopit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="pochopit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-001-p1s2w24">
 <src.rf>manual</src.rf>
@@ -299,7 +299,7 @@
 <LM>w#w-lnd91303-001-p1s2w27</LM>
 </w.rf>
 <form>nestačilo</form>
-<tag lemma="stačit_:T" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="stačit" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-lnd91303-001-p1s2w28">
 <src.rf>manual</src.rf>
@@ -403,7 +403,7 @@
 <LM>w#w-lnd91303-001-p1s2w41</LM>
 </w.rf>
 <form>proměnili</form>
-<tag lemma="proměnit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="proměnit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-001-p1s2w42">
 <src.rf>manual</src.rf>

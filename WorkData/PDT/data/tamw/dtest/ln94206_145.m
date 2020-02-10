@@ -368,7 +368,7 @@
 <LM>w#w-ln94206-145-p2s1Bw32</LM>
 </w.rf>
 <form>podali</form>
-<tag lemma="podat_:W_^(něco_[někomu]_[někam])" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="podat_^(něco_[někomu]_[někam])" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94206-145-p2s1Bw33">
 <src.rf>manual</src.rf>
@@ -580,7 +580,7 @@
 <LM>w#w-ln94206-145-p3s2w4</LM>
 </w.rf>
 <form>omezena</form>
-<tag lemma="omezit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="omezit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94206-145-p3s2w5">
 <src.rf>manual</src.rf>
@@ -662,7 +662,7 @@
 <LM>w#w-ln94206-145-p3s3w6</LM>
 </w.rf>
 <form>projevilo</form>
-<tag lemma="projevit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="projevit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94206-145-p3s3w7">
 <src.rf>manual</src.rf>
@@ -816,7 +816,7 @@
 <LM>w#w-ln94206-145-p4s1w2</LM>
 </w.rf>
 <form>sdělil</form>
-<tag lemma="sdělit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sdělit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94206-145-p4s1w3">
 <src.rf>manual</src.rf>
@@ -966,7 +966,7 @@
 <LM>w#w-ln94206-145-p4s1w20</LM>
 </w.rf>
 <form>rozšiřována</form>
-<tag lemma="rozšiřovat_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="rozšiřovat" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-ln94206-145-p4s1w21">
 <src.rf>manual</src.rf>
@@ -1051,7 +1051,7 @@
 <LM>w#w-ln94206-145-p4s2w4</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94206-145-p4s2w5">
 <src.rf>manual</src.rf>

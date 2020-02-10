@@ -52,7 +52,7 @@
 <LM>w#w-lnd92251-111-p1s1w5</LM>
 </w.rf>
 <form>vyřešili</form>
-<tag lemma="vyřešit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyřešit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-111-p1s1w6">
 <src.rf>manual</src.rf>
@@ -116,7 +116,7 @@
 <LM>w#w-lnd92251-111-p1s1w13</LM>
 </w.rf>
 <form>odblokovali</form>
-<tag lemma="odblokovat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="odblokovat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-111-p1s1w14">
 <src.rf>manual</src.rf>

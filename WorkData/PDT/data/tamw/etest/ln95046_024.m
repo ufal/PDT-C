@@ -413,7 +413,7 @@
 <LM>w#w-ln95046-024-p2s3w11</LM>
 </w.rf>
 <form>změnil</form>
-<tag lemma="změnit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="změnit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95046-024-p2s3w12">
 <src.rf>manual</src.rf>
@@ -954,7 +954,7 @@
 <LM>w#w-ln95046-024-p3s2w13</LM>
 </w.rf>
 <form>hráli</form>
-<tag lemma="hrát" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="hrát" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95046-024-p3s2w14">
 <src.rf>manual</src.rf>
@@ -994,7 +994,7 @@
 <LM>w#w-ln95046-024-p3s2w18</LM>
 </w.rf>
 <form>odhalil</form>
-<tag lemma="odhalit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odhalit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95046-024-p3s2w19">
 <src.rf>manual</src.rf>
@@ -1483,7 +1483,7 @@
 <LM>w#w-ln95046-024-p4s3w13</LM>
 </w.rf>
 <form>měli</form>
-<tag lemma="mít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95046-024-p4s3w14">
 <src.rf>manual</src.rf>
@@ -1876,7 +1876,7 @@
 <LM>w#w-ln95046-024-p4s6w3</LM>
 </w.rf>
 <form>připravila</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="připravit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95046-024-p4s6w4">
 <src.rf>manual</src.rf>
@@ -3091,7 +3091,7 @@
 <LM>w#w-ln95046-024-p8s1w1</LM>
 </w.rf>
 <form>Přišli</form>
-<tag lemma="přijít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přijít" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95046-024-p8s1w2">
 <src.rf>manual</src.rf>
@@ -3171,7 +3171,7 @@
 <LM>w#w-ln95046-024-p8s1w11</LM>
 </w.rf>
 <form>přeřazeni</form>
-<tag lemma="přeřadit_:W" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="přeřadit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-ln95046-024-p8s1w12">
 <src.rf>manual</src.rf>
@@ -3224,7 +3224,7 @@
 <LM>w#w-ln95046-024-p9s1w1</LM>
 </w.rf>
 <form>Odešli</form>
-<tag lemma="odejít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="odejít" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95046-024-p9s1w2">
 <src.rf>manual</src.rf>

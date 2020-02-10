@@ -66,7 +66,7 @@
 <LM>w#w-wsj2038-001-p1s1W3</LM>
 </w.rf>
 <form>zjistil</form>
-<tag lemma="zjistit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="zjistit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2038-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>

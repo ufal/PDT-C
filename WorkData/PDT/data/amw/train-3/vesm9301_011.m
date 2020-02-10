@@ -437,7 +437,7 @@
 <LM>w#w-vesm9301-011-p1s3w11</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-vesm9301-011-p1s3w12">
 <src.rf>manual</src.rf>
@@ -607,7 +607,7 @@
 <LM>w#w-vesm9301-011-p1s4w17</LM>
 </w.rf>
 <form>lhal</form>
-<tag lemma="lhát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="lhát" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-vesm9301-011-p1s4w18">
 <src.rf>manual</src.rf>

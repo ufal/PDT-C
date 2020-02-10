@@ -1456,7 +1456,7 @@
 <LM>w#w-es_08-SCzechM-p0785-s1-w5</LM>
 </w.rf>
 <form>nemělo</form>
-<tag lemma="mít" recommended="1">VpNS---XR-NA---</tag>
+<tag lemma="mít" recommended="1">VpNS----R-NAI--</tag>
 </m>
 <m id="es_08-SCzechM-p0785-s1-w6">
 <w.rf>
@@ -1492,7 +1492,7 @@
 <LM>w#w-es_08-SCzechM-p0785-s1-w9</LM>
 </w.rf>
 <form>dodáváno</form>
-<tag lemma="dodávat_:T_^(*4at)" recommended="1">VsNS---XX-AP---</tag>
+<tag lemma="dodávat_^(*4at)" recommended="1">VsNS----X-API--</tag>
 </m>
 <m id="es_08-SCzechM-p0785-s1-w10">
 <w.rf>
@@ -1980,7 +1980,7 @@
 <LM>w#w-es_08-SCzechM-p0788-s1-w5</LM>
 </w.rf>
 <form>naučil</form>
-<tag lemma="naučit_:W" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="naučit" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="es_08-SCzechM-p0788-s1-w6">
 <w.rf>
@@ -2062,7 +2062,7 @@
 <form>Stalo</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" recommended="1">VpNS---XR-AA---</AM>
-<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="es_08-SCzechM-p0790-s1-w2">
@@ -2177,7 +2177,7 @@
 <LM>w#w-es_08-SCzechM-p0793-s1-w4</LM>
 </w.rf>
 <form>přihodilo</form>
-<tag lemma="přihodit_:W" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="přihodit" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="es_08-SCzechM-p0793-s1-w5">
 <w.rf>
@@ -2717,7 +2717,7 @@
 <LM>w#w-es_08-SCzechM-p0801-s1-w2</LM>
 </w.rf>
 <form>blokováno</form>
-<tag lemma="blokovat_:T" recommended="1">VsNS---XX-AP---</tag>
+<tag lemma="blokovat" recommended="1">VsNS----X-API--</tag>
 </m>
 <m id="es_08-SCzechM-p0801-s1-w3">
 <w.rf>
@@ -2923,7 +2923,7 @@
 <LM>w#w-es_08-SCzechM-p0804-s1-w9</LM>
 </w.rf>
 <form>pobavila</form>
-<tag lemma="pobavit_:W" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="pobavit" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="es_08-SCzechM-p0804-s1-w10">
 <w.rf>
@@ -2947,7 +2947,7 @@
 <LM>w#w-es_08-SCzechM-p0804-s1-w12</LM>
 </w.rf>
 <form>propukl</form>
-<tag lemma="propuknout_:W" recommended="1">VpYS---XR-AA--1</tag>
+<tag lemma="propuknout" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="es_08-SCzechM-p0804-s1-w13">
 <w.rf>
@@ -3012,7 +3012,7 @@
 <LM>w#w-es_08-SCzechM-p0804-s1-w18</LM>
 </w.rf>
 <form>svíjel</form>
-<tag lemma="svíjet_:T" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="svíjet" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="es_08-SCzechM-p0804-s1-w19">
 <w.rf>
@@ -3195,7 +3195,7 @@
 <LM>w#w-es_08-SCzechM-p0804-s1-w31</LM>
 </w.rf>
 <form>shodil</form>
-<tag lemma="shodit_:W" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="shodit" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="es_08-SCzechM-p0804-s1-w32">
 <w.rf>
@@ -3998,7 +3998,7 @@
 <tag>
 <AM lemma="Dán_;E" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Dánsko_:B_;G">NNNXX-----A---8</AM>
-<AM lemma="dát">VsYS---XX-AP---</AM>
+<AM lemma="dát">VsYS----X-APP--</AM>
 </tag>
 </m>
 <m id="es_08-SCzechM-p0827-s1-w19">
@@ -4173,7 +4173,7 @@
 <LM>w#w-es_08-SCzechM-p0827-s1-w36</LM>
 </w.rf>
 <form>ukřižován</form>
-<tag lemma="ukřižovat_:W" recommended="1">VsYS---XX-AP---</tag>
+<tag lemma="ukřižovat" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="es_08-SCzechM-p0827-s1-w37">
 <w.rf>
@@ -4453,7 +4453,7 @@
 <LM>w#w-es_08-SCzechM-p0832-s1-w3</LM>
 </w.rf>
 <form>dostal</form>
-<tag lemma="dostat" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="dostat" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="es_08-SCzechM-p0832-s1-w4">
 <w.rf>
@@ -4663,7 +4663,7 @@
 <LM>w#w-es_08-SCzechM-p0842-s1-w4</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="být" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="es_08-SCzechM-p0842-s1-w5">
 <w.rf>
@@ -4684,7 +4684,7 @@
 <LM>w#w-es_08-SCzechM-p0842-s1-w7</LM>
 </w.rf>
 <form>použit</form>
-<tag lemma="použít" recommended="1">VsYS---XX-AP---</tag>
+<tag lemma="použít" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="es_08-SCzechM-p0842-s1-w8">
 <w.rf>
@@ -4907,7 +4907,7 @@
 <LM>w#w-es_08-SCzechM-p0842-s1-w24</LM>
 </w.rf>
 <form>rozšířilo</form>
-<tag lemma="rozšířit_:W" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="rozšířit" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="es_08-SCzechM-p0842-s1-w25">
 <w.rf>
@@ -4975,7 +4975,7 @@
 <LM>w#w-es_08-SCzechM-p0842-s1-w29</LM>
 </w.rf>
 <form>začaly</form>
-<tag lemma="začít-1_^(začnout)" recommended="1">VpTP---XR-AA---</tag>
+<tag lemma="začít-1_^(začnout)" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="es_08-SCzechM-p0842-s1-w30">
 <w.rf>
@@ -5488,7 +5488,7 @@
 <LM>w#w-es_08-SCzechM-p0853-s1-w16</LM>
 </w.rf>
 <form>připojen</form>
-<tag lemma="připojit_:W" recommended="1">VsYS---XX-AP---</tag>
+<tag lemma="připojit" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="es_08-SCzechM-p0853-s1-w17">
 <w.rf>
@@ -5777,7 +5777,7 @@
 <LM>w#w-es_08-SCzechM-p0859-s1-w3</LM>
 </w.rf>
 <form>chráněni</form>
-<tag lemma="chránit" recommended="1">VsMP---XX-AP---</tag>
+<tag lemma="chránit" recommended="1">VsMP----X-API--</tag>
 </m>
 <m id="es_08-SCzechM-p0859-s1-w4">
 <w.rf>

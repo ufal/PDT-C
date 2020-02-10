@@ -59,7 +59,7 @@
 <LM>w#w-ln94200-109-p1s1w6</LM>
 </w.rf>
 <form>vystoupil</form>
-<tag lemma="vystoupit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vystoupit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-109-p1s1w7">
 <src.rf>manual</src.rf>

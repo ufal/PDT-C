@@ -118,7 +118,7 @@
 <LM>w#w-wsj1747-001-p1s0W9</LM>
 </w.rf>
 <form>spadly</form>
-<tag lemma="spadnout" src="auto" recommended="1">VpTP---XR-AAP-1</tag>
+<tag lemma="spadnout" src="auto" recommended="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-wsj1747-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -302,7 +302,7 @@
 <LM>w#w-wsj1747-001-p1s1W4</LM>
 </w.rf>
 <form>udalo</form>
-<tag lemma="udat" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="udat" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj1747-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>

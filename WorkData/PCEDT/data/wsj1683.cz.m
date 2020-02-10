@@ -109,7 +109,7 @@
 <LM>w#w-wsj1683-001-p1s0W9</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1683-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -390,7 +390,7 @@
 <LM>w#w-wsj1683-001-p1s1W2</LM>
 </w.rf>
 <form>posílilo</form>
-<tag lemma="posílit" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="posílit" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj1683-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -653,7 +653,7 @@
 <LM>w#w-wsj1683-001-p1s1W18</LM>
 </w.rf>
 <form>uzavřely</form>
-<tag lemma="uzavřít" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="uzavřít" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1683-001-p1s1W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -856,7 +856,7 @@
 <LM>w#w-wsj1683-001-p1s2W5</LM>
 </w.rf>
 <form>stala</form>
-<tag lemma="stát-2_^(stanu_staneš)" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1683-001-p1s2W6-Ta">
 <src.rf>tagger-a</src.rf>

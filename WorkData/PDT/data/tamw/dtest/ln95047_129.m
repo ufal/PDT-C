@@ -346,7 +346,7 @@
 <LM>w#w-ln95047-129-p2s1Bw33</LM>
 </w.rf>
 <form>dokončen</form>
-<tag lemma="dokončit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="dokončit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95047-129-p2s1Bw34">
 <src.rf>manual</src.rf>
@@ -362,7 +362,7 @@
 <LM>w#w-ln95047-129-p2s1Bw35</LM>
 </w.rf>
 <form>zprovozněn</form>
-<tag lemma="zprovoznit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zprovoznit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95047-129-p2s1Bw36">
 <src.rf>manual</src.rf>
@@ -761,7 +761,7 @@
 <LM>w#w-ln95047-129-p4s1w7</LM>
 </w.rf>
 <form>dokončili</form>
-<tag lemma="dokončit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="dokončit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95047-129-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1566,7 +1566,7 @@
 <LM>w#w-ln95047-129-p7s1w9</LM>
 </w.rf>
 <form>posuzovány</form>
-<tag lemma="posuzovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="posuzovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln95047-129-p7s1w10">
 <src.rf>manual</src.rf>

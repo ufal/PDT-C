@@ -83,7 +83,7 @@
 <LM>w#w-lnd92255-144-p1s1w9</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92255-144-p1s1w10">
 <src.rf>manual</src.rf>
@@ -99,7 +99,7 @@
 <LM>w#w-lnd92255-144-p1s1w11</LM>
 </w.rf>
 <form>znovuodhalen</form>
-<tag lemma="znovuodhalit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="znovuodhalit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd92255-144-p1s1w12">
 <src.rf>manual</src.rf>
@@ -165,7 +165,7 @@
 <LM>w#w-lnd92255-144-p1s2w2</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92255-144-p1s2w3">
 <src.rf>manual</src.rf>
@@ -173,7 +173,7 @@
 <LM>w#w-lnd92255-144-p1s2w3</LM>
 </w.rf>
 <form>restaurován</form>
-<tag lemma="restaurovat_:T_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="restaurovat" src="orig" selected="1">VsYS----X-APB--</tag>
 </m>
 <m id="m-lnd92255-144-p1s2w4">
 <src.rf>manual</src.rf>
@@ -478,7 +478,7 @@
 <LM>w#w-lnd92255-144-p1s3w3</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92255-144-p1s3w4">
 <src.rf>manual</src.rf>

@@ -843,7 +843,7 @@
 <LM>w#w-ln94210-73-p3s1w9</LM>
 </w.rf>
 <form>padl</form>
-<tag lemma="padnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="padnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln94210-73-p3s1w10">
 <src.rf>manual</src.rf>
@@ -1101,7 +1101,7 @@
 <LM>w#w-ln94210-73-p3s3w13</LM>
 </w.rf>
 <form>nabídla</form>
-<tag lemma="nabídnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="nabídnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln94210-73-p3s3w14">
 <src.rf>manual</src.rf>
@@ -1376,7 +1376,7 @@
 <LM>w#w-ln94210-73-p3s7w8</LM>
 </w.rf>
 <form>vedl</form>
-<tag lemma="vést" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vést" src="auto" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94210-73-p3s7w9">
 <src.rf>manual</src.rf>
@@ -1480,7 +1480,7 @@
 <LM>w#w-ln94210-73-p3s7w21</LM>
 </w.rf>
 <form>bráno</form>
-<tag lemma="brát" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="brát" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-ln94210-73-p3s7w22">
 <src.rf>manual</src.rf>
@@ -1946,7 +1946,7 @@
 <LM>w#w-ln94210-73-p4s1w6</LM>
 </w.rf>
 <form>prohlásil</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94210-73-p4s1w7">
 <src.rf>manual</src.rf>

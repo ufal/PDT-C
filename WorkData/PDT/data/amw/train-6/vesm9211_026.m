@@ -337,7 +337,7 @@
 <LM>w#w-vesm9211-026-p2s3w6</LM>
 </w.rf>
 <form>podal</form>
-<tag lemma="podat_:W_^(něco_[někomu]_[někam])" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="podat_^(něco_[někomu]_[někam])" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-vesm9211-026-p2s3w7">
 <src.rf>manual</src.rf>
@@ -655,7 +655,7 @@
 <LM>w#w-vesm9211-026-p2s4w9</LM>
 </w.rf>
 <form>volen</form>
-<tag lemma="volit_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="volit" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-vesm9211-026-p2s4w10">
 <src.rf>manual</src.rf>
@@ -729,7 +729,7 @@
 <LM>w#w-vesm9211-026-p2s4w18</LM>
 </w.rf>
 <form>vznikal</form>
-<tag lemma="vznikat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vznikat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-vesm9211-026-p2s4w19">
 <src.rf>manual</src.rf>
@@ -1971,7 +1971,7 @@
 <LM>w#w-vesm9211-026-p4s2w3</LM>
 </w.rf>
 <form>dostalo</form>
-<tag lemma="dostat" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="dostat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-vesm9211-026-p4s2w4">
 <src.rf>manual</src.rf>
@@ -2456,7 +2456,7 @@
 <LM>w#w-vesm9211-026-p4s4w30</LM>
 </w.rf>
 <form>oddělily</form>
-<tag lemma="oddělit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="oddělit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-vesm9211-026-p4s4w31">
 <src.rf>manual</src.rf>

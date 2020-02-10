@@ -77,7 +77,7 @@
 <LM>w#w-ln95046-119-p2s1Aw3</LM>
 </w.rf>
 <form>mělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95046-119-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -93,7 +93,7 @@
 <LM>w#w-ln95046-119-p2s1Aw5</LM>
 </w.rf>
 <form>uděleno</form>
-<tag lemma="udělit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="udělit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95046-119-p2s1Aw6">
 <src.rf>manual</src.rf>
@@ -175,7 +175,7 @@
 <LM>w#w-ln95046-119-p2s1Bw3</LM>
 </w.rf>
 <form>založilo</form>
-<tag lemma="založit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="založit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95046-119-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -293,7 +293,7 @@
 <LM>w#w-ln95046-119-p2s1Bw17</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95046-119-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -444,7 +444,7 @@
 <LM>w#w-ln95046-119-p2s2w5</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95046-119-p2s2w6">
 <src.rf>manual</src.rf>
@@ -630,7 +630,7 @@
 <LM>w#w-ln95046-119-p2s3w5</LM>
 </w.rf>
 <form>vykonávala</form>
-<tag lemma="vykonávat_:T_^(*4at)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vykonávat_^(*4at)" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95046-119-p2s3w6">
 <src.rf>manual</src.rf>
@@ -843,7 +843,7 @@
 <LM>w#w-ln95046-119-p2s5w3</LM>
 </w.rf>
 <form>prováděl</form>
-<tag lemma="provádět_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="provádět" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95046-119-p2s5w4">
 <src.rf>manual</src.rf>
@@ -1191,7 +1191,7 @@
 <LM>w#w-ln95046-119-p3s1w18</LM>
 </w.rf>
 <form>převzal</form>
-<tag lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95046-119-p3s1w19">
 <src.rf>manual</src.rf>
@@ -1454,7 +1454,7 @@
 <LM>w#w-ln95046-119-p4s1w3</LM>
 </w.rf>
 <form>vznikl</form>
-<tag lemma="vzniknout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="vzniknout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln95046-119-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1584,7 +1584,7 @@
 <LM>w#w-ln95046-119-p4s2w4</LM>
 </w.rf>
 <form>rozmístěna</form>
-<tag lemma="rozmístit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="rozmístit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln95046-119-p4s2w5">
 <src.rf>manual</src.rf>
@@ -1780,7 +1780,7 @@
 <LM>w#w-ln95046-119-p4s3w13</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95046-119-p4s3w14">
 <src.rf>manual</src.rf>
@@ -1846,7 +1846,7 @@
 <LM>w#w-ln95046-119-p4s4w5</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95046-119-p4s4w6">
 <src.rf>manual</src.rf>
@@ -2113,7 +2113,7 @@
 <LM>w#w-ln95046-119-p4s5w7</LM>
 </w.rf>
 <form>zdůraznil</form>
-<tag lemma="zdůraznit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zdůraznit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95046-119-p4s5w8">
 <src.rf>manual</src.rf>
@@ -2448,7 +2448,7 @@
 <form>vydávána</form>
 <tag>
 <AM lemma="vydávat-1_:T_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)_(*6at-1)" src="orig">VsQW---XX-AP---</AM>
-<AM lemma="vydávat_:T_^(*4at)" src="manual" selected="1">VsQW---XX-AP---</AM>
+<AM lemma="vydávat_^(*4at)" src="manual" selected="1">VsQW----X-API--</AM>
 </tag>
 </m>
 <m id="m-ln95046-119-p4s6w32">

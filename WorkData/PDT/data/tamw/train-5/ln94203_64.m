@@ -322,7 +322,7 @@
 <LM>w#w-ln94203-64-p2s1Bw24</LM>
 </w.rf>
 <form>požádal</form>
-<tag lemma="požádat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="požádat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94203-64-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -396,7 +396,7 @@
 <LM>w#w-ln94203-64-p2s2w1</LM>
 </w.rf>
 <form>Oznámily</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94203-64-p2s2w2">
 <src.rf>manual</src.rf>
@@ -750,7 +750,7 @@
 <LM>w#w-ln94203-64-p3s2w12</LM>
 </w.rf>
 <form>přihlásilo</form>
-<tag lemma="přihlásit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="přihlásit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94203-64-p3s2w13">
 <src.rf>manual</src.rf>
@@ -798,7 +798,7 @@
 <LM>w#w-ln94203-64-p3s2w18</LM>
 </w.rf>
 <form>nebyla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-ln94203-64-p3s2w19">
 <src.rf>manual</src.rf>
@@ -806,7 +806,7 @@
 <LM>w#w-ln94203-64-p3s2w19</LM>
 </w.rf>
 <form>zveřejněna</form>
-<tag lemma="zveřejnit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zveřejnit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94203-64-p3s2w20">
 <src.rf>manual</src.rf>
@@ -978,7 +978,7 @@
 <LM>w#w-ln94203-64-p4s1w10</LM>
 </w.rf>
 <form>pokračovaly</form>
-<tag lemma="pokračovat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="pokračovat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94203-64-p4s1w11">
 <src.rf>manual</src.rf>
@@ -1045,8 +1045,8 @@
 </w.rf>
 <form>začaly</form>
 <tag>
-<AM lemma="začít-1_^(začnout)" src="auto">VpTP---XR-AA---</AM>
-<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpTP---XR-AA---</AM>
+<AM lemma="začít-1_^(začnout)" src="auto">VpTP----R-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94203-64-p4s2w4">
@@ -1188,7 +1188,7 @@
 <LM>w#w-ln94203-64-p4s3w9</LM>
 </w.rf>
 <form>zasedly</form>
-<tag lemma="zasednout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="zasednout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-ln94203-64-p4s3w10">
 <src.rf>manual</src.rf>

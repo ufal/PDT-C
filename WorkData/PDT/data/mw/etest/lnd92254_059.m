@@ -179,7 +179,7 @@
 <LM>w#w-lnd92254-059-p1s1w21</LM>
 </w.rf>
 <form>setkali</form>
-<tag lemma="setkat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="setkat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92254-059-p1s1w22">
 <src.rf>manual</src.rf>

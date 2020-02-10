@@ -175,7 +175,7 @@
 <LM>w#w-ln95046-110-p2s1Bw14</LM>
 </w.rf>
 <form>zveřejnili</form>
-<tag lemma="zveřejnit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zveřejnit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95046-110-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <LM>w#w-ln95046-110-p2s2w5</LM>
 </w.rf>
 <form>zdůraznili</form>
-<tag lemma="zdůraznit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zdůraznit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95046-110-p2s2w6">
 <src.rf>manual</src.rf>
@@ -611,7 +611,7 @@
 <LM>w#w-ln95046-110-p3s1w11</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95046-110-p3s1w12">
 <src.rf>manual</src.rf>
@@ -619,7 +619,7 @@
 <LM>w#w-ln95046-110-p3s1w12</LM>
 </w.rf>
 <form>zastoupeni</form>
-<tag lemma="zastoupit" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="zastoupit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-ln95046-110-p3s1w13">
 <src.rf>manual</src.rf>
@@ -749,7 +749,7 @@
 <LM>w#w-ln95046-110-p3s2w3</LM>
 </w.rf>
 <form>vyjádřily</form>
-<tag lemma="vyjádřit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vyjádřit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95046-110-p3s2w4">
 <src.rf>manual</src.rf>
@@ -813,7 +813,7 @@
 <LM>w#w-ln95046-110-p3s2w11</LM>
 </w.rf>
 <form>potvrdily</form>
-<tag lemma="potvrdit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="potvrdit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95046-110-p3s2w12">
 <src.rf>manual</src.rf>

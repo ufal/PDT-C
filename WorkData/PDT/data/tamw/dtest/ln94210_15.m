@@ -411,7 +411,7 @@
 <LM>w#w-ln94210-15-p3s1w3</LM>
 </w.rf>
 <form>získal</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94210-15-p3s1w4">
 <src.rf>manual</src.rf>
@@ -785,7 +785,7 @@
 <LM>w#w-ln94210-15-p4s1w8</LM>
 </w.rf>
 <form>podílely</form>
-<tag lemma="podílet_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="podílet" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94210-15-p4s1w9">
 <src.rf>manual</src.rf>
@@ -932,7 +932,7 @@
 <LM>w#w-ln94210-15-p4s2w3</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94210-15-p4s2w4">
 <src.rf>manual</src.rf>

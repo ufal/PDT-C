@@ -154,7 +154,7 @@
 <LM>w#w-lnd92258-150-p2s2w13</LM>
 </w.rf>
 <form>ocenili</form>
-<tag lemma="ocenit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="ocenit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-150-p2s2w14">
 <src.rf>manual</src.rf>

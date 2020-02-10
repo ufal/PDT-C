@@ -54,7 +54,7 @@
 <LM>w#w-wsj0421-001-p1s0W5</LM>
 </w.rf>
 <form>schválila</form>
-<tag lemma="schválit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="schválit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0421-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -488,7 +488,7 @@
 <LM>w#w-wsj0421-001-p1s1W6</LM>
 </w.rf>
 <form>nezveřejnil</form>
-<tag lemma="zveřejnit" src="auto" recommended="1">VpYS---XR-NAP--</tag>
+<tag lemma="zveřejnit" src="auto" recommended="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-wsj0421-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -556,7 +556,7 @@
 <LM>w#w-wsj0421-001-p1s1W12</LM>
 </w.rf>
 <form>uzavřen</form>
-<tag lemma="uzavřít" src="auto" recommended="1">VsYS---XX-APP--</tag>
+<tag lemma="uzavřít" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj0421-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -777,7 +777,7 @@
 <AM lemma="stopa_^(míra;_otisk_s.;_s._po_něčem_[malé_množství])" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="stopit_^(úplně_spotřebovat_topením)" src="auto">Vi-S---2--A-P--</AM>
 <AM lemma="stopit_^(úplně_spotřebovat_topením)" src="auto">Vi-S---3--A-P-4</AM>
-<AM lemma="stopnout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="stopnout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-wsj0421-001-p1s2W11-Ta">
@@ -952,7 +952,7 @@
 <LM>w#w-wsj0421-001-p1s2W25</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0421-001-p1s2W26-Ta">
 <src.rf>tagger-a</src.rf>

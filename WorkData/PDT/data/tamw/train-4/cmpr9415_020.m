@@ -128,8 +128,8 @@
 </w.rf>
 <form>nepřesáhly</form>
 <tag>
-<AM lemma="přesáhnout" src="orig">VpTP---XR-NA---</AM>
-<AM lemma="přesáhnout_:W" src="manual" selected="1">VpTP---XR-NA---</AM>
+<AM lemma="přesáhnout" src="orig">VpTP----R-NAP--</AM>
+<AM lemma="přesáhnout" src="manual" selected="1">VpTP----R-NAP--</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-020-p7s1w8">
@@ -177,7 +177,7 @@
 <LM>w#w-cmpr9415-020-p7s2w1</LM>
 </w.rf>
 <form>Pobírala</form>
-<tag lemma="pobírat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="pobírat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-cmpr9415-020-p7s2w2">
 <src.rf>manual</src.rf>
@@ -616,8 +616,8 @@
 </w.rf>
 <form>nepřesáhl</form>
 <tag>
-<AM lemma="přesáhnout" src="orig">VpYS---XR-NA---</AM>
-<AM lemma="přesáhnout_:W" src="manual" selected="1">VpYS---XR-NA---</AM>
+<AM lemma="přesáhnout" src="orig">VpYS----R-NAP--</AM>
+<AM lemma="přesáhnout" src="manual" selected="1">VpYS----R-NAP--</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-020-p9s1w8">
@@ -1133,7 +1133,7 @@
 <LM>w#w-cmpr9415-020-p11s2w7</LM>
 </w.rf>
 <form>pobírala</form>
-<tag lemma="pobírat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="pobírat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-cmpr9415-020-p11s2w8">
 <src.rf>manual</src.rf>

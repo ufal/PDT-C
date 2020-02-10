@@ -951,7 +951,7 @@
 <LM>w#w-lnd92255-089-p1s5w2</LM>
 </w.rf>
 <form>natočil</form>
-<tag lemma="natočit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="natočit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-089-p1s5w3">
 <src.rf>manual</src.rf>
@@ -1113,7 +1113,7 @@
 <LM>w#w-lnd92255-089-p1s6w3</LM>
 </w.rf>
 <form>vyšperkovali</form>
-<tag lemma="vyšperkovat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyšperkovat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-089-p1s6w4">
 <src.rf>manual</src.rf>
@@ -1201,7 +1201,7 @@
 <LM>w#w-lnd92255-089-p1s6w14</LM>
 </w.rf>
 <form>nebral</form>
-<tag lemma="brát" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="brát" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-lnd92255-089-p1s6w15">
 <src.rf>manual</src.rf>
@@ -1339,7 +1339,7 @@
 <LM>w#w-lnd92255-089-p1s7w13</LM>
 </w.rf>
 <form>zařadily</form>
-<tag lemma="zařadit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zařadit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-089-p1s7w14">
 <src.rf>manual</src.rf>

@@ -121,7 +121,7 @@
 <LM>w#w-ln94210-79-p2s1Bw4</LM>
 </w.rf>
 <form>předložily</form>
-<tag lemma="předložit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="předložit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94210-79-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -468,7 +468,7 @@
 <LM>w#w-ln94210-79-p2s5w4</LM>
 </w.rf>
 <form>zahájily</form>
-<tag lemma="zahájit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zahájit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94210-79-p2s5w5">
 <src.rf>manual</src.rf>

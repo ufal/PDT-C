@@ -302,8 +302,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95047-099-p2s2w6">
@@ -365,7 +365,7 @@
 <LM>w#w-ln95047-099-p3s1w2</LM>
 </w.rf>
 <form>Měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95047-099-p3s1w3">
 <src.rf>manual</src.rf>
@@ -397,7 +397,7 @@
 <LM>w#w-ln95047-099-p3s1w6</LM>
 </w.rf>
 <form>zvýrazněny</form>
-<tag lemma="zvýraznit" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="zvýraznit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln95047-099-p3s1w7">
 <src.rf>manual</src.rf>
@@ -487,7 +487,7 @@
 <LM>w#w-ln95047-099-p3s2w5</LM>
 </w.rf>
 <form>označil</form>
-<tag lemma="označit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="označit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95047-099-p3s2w6">
 <src.rf>manual</src.rf>
@@ -607,7 +607,7 @@
 <LM>w#w-ln95047-099-p3s3w4</LM>
 </w.rf>
 <form>vypracovala</form>
-<tag lemma="vypracovat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vypracovat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95047-099-p3s3w5">
 <src.rf>manual</src.rf>

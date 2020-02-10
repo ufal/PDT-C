@@ -222,7 +222,7 @@
 <LM>w#w-mf930709-018-p2s2Aw3</LM>
 </w.rf>
 <form>fungovala</form>
-<tag lemma="fungovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="fungovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930709-018-p2s2Aw4">
 <src.rf>manual</src.rf>
@@ -312,7 +312,7 @@
 <LM>w#w-mf930709-018-p2s2Bw4</LM>
 </w.rf>
 <form>přispívala</form>
-<tag lemma="přispívat_:T_^(*4ět)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="přispívat_^(*4ět)" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930709-018-p2s2Bw5">
 <src.rf>manual</src.rf>
@@ -363,7 +363,7 @@
 <LM>w#w-mf930709-018-p2s2Bw10</LM>
 </w.rf>
 <form>pracovala</form>
-<tag lemma="pracovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="pracovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930709-018-p2s2Bw11">
 <src.rf>manual</src.rf>
@@ -711,7 +711,7 @@
 <LM>w#w-mf930709-018-p2s5w13</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930709-018-p2s5w14">
 <src.rf>manual</src.rf>
@@ -751,7 +751,7 @@
 <LM>w#w-mf930709-018-p2s5w18</LM>
 </w.rf>
 <form>přistavěna</form>
-<tag lemma="přistavět_^(přidělat_ke_stavbě)" src="auto" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="přistavět_^(přidělat_ke_stavbě)" src="auto" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf930709-018-p2s5w19">
 <src.rf>manual</src.rf>
@@ -849,7 +849,7 @@
 <LM>w#w-mf930709-018-p2s6w8</LM>
 </w.rf>
 <form>financovány</form>
-<tag lemma="financovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="financovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf930709-018-p2s6w9">
 <src.rf>manual</src.rf>
@@ -1186,7 +1186,7 @@
 <LM>w#w-mf930709-018-p2s9w4</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930709-018-p2s9w5">
 <src.rf>manual</src.rf>
@@ -1202,7 +1202,7 @@
 <LM>w#w-mf930709-018-p2s9w6</LM>
 </w.rf>
 <form>investovány</form>
-<tag lemma="investovat_:T_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="investovat" src="orig" selected="1">VsTP----X-APB--</tag>
 </m>
 <m id="m-mf930709-018-p2s9w7">
 <src.rf>manual</src.rf>

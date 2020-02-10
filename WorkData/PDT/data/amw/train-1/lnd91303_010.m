@@ -148,8 +148,8 @@
 </w.rf>
 <form>začali</form>
 <tag>
-<AM lemma="začít-1_^(začnout)" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpMP---XR-AA---</AM>
+<AM lemma="začít-1_^(začnout)" src="auto">VpMP----R-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd91303-010-p5s1w9">
@@ -482,7 +482,7 @@
 <LM>w#w-lnd91303-010-p5s3w4</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-010-p5s3w5">
 <src.rf>manual</src.rf>
@@ -759,7 +759,7 @@
 <LM>w#w-lnd91303-010-p5s4w19</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-010-p5s4w20">
 <src.rf>manual</src.rf>
@@ -826,8 +826,8 @@
 </w.rf>
 <form>začal</form>
 <tag>
-<AM lemma="začít-1_^(začnout)" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_^(začnout)" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd91303-010-p5s5w3">
@@ -876,7 +876,7 @@
 <LM>w#w-lnd91303-010-p5s5w8</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-010-p5s5w9">
 <src.rf>manual</src.rf>
@@ -908,7 +908,7 @@
 <LM>w#w-lnd91303-010-p5s5w12</LM>
 </w.rf>
 <form>zadržena</form>
-<tag lemma="zadržet" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zadržet" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd91303-010-p5s5w13">
 <src.rf>manual</src.rf>
@@ -1178,7 +1178,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>uskutečňoval</form>
-<tag lemma="uskutečňovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uskutečňovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-010-p5s6w14">
 <src.rf>manual</src.rf>

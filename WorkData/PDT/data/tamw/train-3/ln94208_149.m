@@ -27,7 +27,7 @@
 <LM>w#w-ln94208-149-p1s1Aw2</LM>
 </w.rf>
 <form>zajímala</form>
-<tag lemma="zajímat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zajímat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94208-149-p1s1Aw3">
 <src.rf>manual</src.rf>

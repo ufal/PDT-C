@@ -164,7 +164,7 @@
 <LM>w#w-mf930709-083-p2s1Bw7</LM>
 </w.rf>
 <form>chtěli</form>
-<tag lemma="chtít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="chtít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930709-083-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -562,7 +562,7 @@
 <LM>w#w-mf930709-083-p3s1w15</LM>
 </w.rf>
 <form>přebudovala</form>
-<tag lemma="přebudovat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="přebudovat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930709-083-p3s1w16">
 <src.rf>manual</src.rf>
@@ -671,7 +671,7 @@
 <LM>w#w-mf930709-083-p3s2w6</LM>
 </w.rf>
 <form>snížila</form>
-<tag lemma="snížit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="snížit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930709-083-p3s2w7">
 <src.rf>manual</src.rf>
@@ -785,7 +785,7 @@
 <LM>w#w-mf930709-083-p3s2w20</LM>
 </w.rf>
 <form>vyhovovalo</form>
-<tag lemma="vyhovovat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vyhovovat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930709-083-p3s2w21">
 <src.rf>manual</src.rf>
@@ -1188,7 +1188,7 @@
 <LM>w#w-mf930709-083-p3s6w3</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930709-083-p3s6w4">
 <src.rf>manual</src.rf>
@@ -1292,7 +1292,7 @@
 <LM>w#w-mf930709-083-p3s6w16</LM>
 </w.rf>
 <form>mělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930709-083-p3s6w17">
 <src.rf>manual</src.rf>
@@ -1316,7 +1316,7 @@
 <LM>w#w-mf930709-083-p3s6w19</LM>
 </w.rf>
 <form>připraveno</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="připravit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf930709-083-p3s6w20">
 <src.rf>manual</src.rf>

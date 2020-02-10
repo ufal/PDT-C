@@ -138,7 +138,7 @@
 <LM>w#w-wsj0717-001-p1s0W8</LM>
 </w.rf>
 <form>vzrostl</form>
-<tag lemma="vzrůst-1" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="vzrůst-1" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0717-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -403,7 +403,7 @@
 <LM>w#w-wsj0717-001-p1s0W34</LM>
 </w.rf>
 <form>oznámilo</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj0717-001-p1s0W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -508,7 +508,7 @@
 <LM>w#w-wsj0717-001-p1s1W3</LM>
 </w.rf>
 <form>vzrostl</form>
-<tag lemma="vzrůst-1" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="vzrůst-1" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0717-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -749,7 +749,7 @@
 <LM>w#w-wsj0717-001-p1s1W22</LM>
 </w.rf>
 <form>vzrostl</form>
-<tag lemma="vzrůst-1" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="vzrůst-1" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0717-001-p1s1W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1188,7 +1188,7 @@
 <LM>w#w-wsj0717-001-p1s3W3</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0717-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1305,7 +1305,7 @@
 <LM>w#w-wsj0717-001-p1s3W14</LM>
 </w.rf>
 <form>pominuly</form>
-<tag lemma="pominout" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="pominout" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj0717-001-p1s3W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1422,7 +1422,7 @@
 <LM>w#w-wsj0717-001-p1s3W21</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0717-001-p1s3W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1430,7 +1430,7 @@
 <LM>w#w-wsj0717-001-p1s3W22</LM>
 </w.rf>
 <form>zavedena</form>
-<tag lemma="zavést" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="zavést" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj0717-001-p1s3W23-Ta">
 <src.rf>tagger-a</src.rf>

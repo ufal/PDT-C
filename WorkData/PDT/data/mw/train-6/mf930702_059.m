@@ -27,7 +27,7 @@
 <LM>w#w-mf930702-059-p1s1w2</LM>
 </w.rf>
 <form>předložil</form>
-<tag lemma="předložit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="předložit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930702-059-p1s1w3">
 <src.rf>manual</src.rf>
@@ -152,7 +152,7 @@
 <LM>w#w-mf930702-059-p2s1w10</LM>
 </w.rf>
 <form>požádal</form>
-<tag lemma="požádat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="požádat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930702-059-p2s1w11">
 <src.rf>manual</src.rf>

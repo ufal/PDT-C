@@ -203,8 +203,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94207-129-p2s1Bw14">
@@ -492,7 +492,7 @@
 <LM>w#w-ln94207-129-p2s3w13</LM>
 </w.rf>
 <form>odpověděl</form>
-<tag lemma="odpovědět" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odpovědět" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94207-129-p2s3w14">
 <src.rf>manual</src.rf>
@@ -548,7 +548,7 @@
 <LM>w#w-ln94207-129-p2s3w20</LM>
 </w.rf>
 <form>použili</form>
-<tag lemma="použít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="použít" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94207-129-p2s3w21">
 <src.rf>manual</src.rf>

@@ -1182,7 +1182,7 @@
 <LM>w#w-vesm9301-031-p36s1w1</LM>
 </w.rf>
 <form>VYBRALI</form>
-<tag lemma="vybrat" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vybrat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-vesm9301-031-p36s1w2">
 <src.rf>manual</src.rf>

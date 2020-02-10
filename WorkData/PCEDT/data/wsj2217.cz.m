@@ -273,7 +273,7 @@
 <LM>w#w-wsj2217-001-p1s1W2</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-wsj2217-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -442,7 +442,7 @@
 <LM>w#w-wsj2217-001-p1s1W18</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj2217-001-p1s1W19-Ta">
 <src.rf>tagger-a</src.rf>

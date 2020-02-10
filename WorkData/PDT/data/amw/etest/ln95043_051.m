@@ -111,7 +111,7 @@
 <LM>w#w-ln95043-051-p2s1Bw5</LM>
 </w.rf>
 <form>odmítl</form>
-<tag lemma="odmítnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="odmítnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln95043-051-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -255,7 +255,7 @@
 <LM>w#w-ln95043-051-p2s1Bw24</LM>
 </w.rf>
 <form>uznala</form>
-<tag lemma="uznat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="uznat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95043-051-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -393,7 +393,7 @@
 <LM>w#w-ln95043-051-p2s2w1</LM>
 </w.rf>
 <form>Oznámil</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95043-051-p2s2w2">
 <src.rf>manual</src.rf>
@@ -544,7 +544,7 @@
 <LM>w#w-ln95043-051-p2s3w10</LM>
 </w.rf>
 <form>odtrhly</form>
-<tag lemma="odtrhnout_:W" src="auto" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="odtrhnout" src="auto" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-ln95043-051-p2s3w11">
 <src.rf>manual</src.rf>
@@ -609,7 +609,7 @@
 </w.rf>
 <form>nalezeno</form>
 <tag>
-<AM lemma="naleznout" src="orig">VsNS---XX-AP---</AM>
+<AM lemma="naleznout" src="orig">VsNS----X-API--</AM>
 <AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsNS---XX-AP---</AM>
 </tag>
 </m>
@@ -723,7 +723,7 @@
 <LM>w#w-ln95043-051-p2s3w32</LM>
 </w.rf>
 <form>prohlásil</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95043-051-p2s3w33">
 <src.rf>manual</src.rf>
@@ -750,7 +750,7 @@
 <LM>w#w-ln95043-051-p2s4w1</LM>
 </w.rf>
 <form>Dodal</form>
-<tag lemma="dodat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dodat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95043-051-p2s4w2">
 <src.rf>manual</src.rf>
@@ -858,7 +858,7 @@
 <LM>w#w-ln95043-051-p2s4w14</LM>
 </w.rf>
 <form>uznána</form>
-<tag lemma="uznat_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="uznat" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln95043-051-p2s4w15">
 <src.rf>manual</src.rf>

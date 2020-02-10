@@ -114,7 +114,7 @@
 <LM>w#w-ln95048-008-p2s1Bw5</LM>
 </w.rf>
 <form>založila</form>
-<tag lemma="založit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="založit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95048-008-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -425,7 +425,7 @@
 <LM>w#w-ln95048-008-p3s2w8</LM>
 </w.rf>
 <form>řazena</form>
-<tag lemma="řadit_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="řadit" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-ln95048-008-p3s2w9">
 <src.rf>manual</src.rf>
@@ -609,7 +609,7 @@
 <LM>w#w-ln95048-008-p4s2w6</LM>
 </w.rf>
 <form>modernizovala</form>
-<tag lemma="modernizovat_:T_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="modernizovat" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-ln95048-008-p4s2w7">
 <src.rf>manual</src.rf>
@@ -676,7 +676,7 @@
 <LM>w#w-ln95048-008-p4s2w14</LM>
 </w.rf>
 <form>realizovala</form>
-<tag lemma="realizovat_:T_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="realizovat" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-ln95048-008-p4s2w15">
 <src.rf>manual</src.rf>
@@ -808,7 +808,7 @@
 <form>stala</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95048-008-p4s3w6">

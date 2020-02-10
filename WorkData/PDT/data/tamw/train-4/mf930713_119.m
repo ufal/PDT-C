@@ -259,7 +259,7 @@
 <LM>w#w-mf930713-119-p2s2w4</LM>
 </w.rf>
 <form>zvýšila</form>
-<tag lemma="zvýšit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zvýšit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930713-119-p2s2w5">
 <src.rf>manual</src.rf>
@@ -659,7 +659,7 @@
 <LM>w#w-mf930713-119-p2s4w5</LM>
 </w.rf>
 <form>zdražena</form>
-<tag lemma="zdražit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zdražit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf930713-119-p2s4w6">
 <src.rf>manual</src.rf>

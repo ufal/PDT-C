@@ -279,7 +279,7 @@
 <LM>w#w-ln94207-28-p2s2w1</LM>
 </w.rf>
 <form>Oznámila</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94207-28-p2s2w2">
 <src.rf>manual</src.rf>
@@ -409,7 +409,7 @@
 <LM>w#w-ln94207-28-p2s3w5</LM>
 </w.rf>
 <form>vystoupila</form>
-<tag lemma="vystoupit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vystoupit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94207-28-p2s3w6">
 <src.rf>manual</src.rf>
@@ -513,7 +513,7 @@
 <LM>w#w-ln94207-28-p2s3w18</LM>
 </w.rf>
 <form>neúčastnila</form>
-<tag lemma="účastnit_:T" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="účastnit" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-ln94207-28-p2s3w19">
 <src.rf>manual</src.rf>
@@ -531,7 +531,7 @@
 <LM>w#w-ln94207-28-p2s4w1</LM>
 </w.rf>
 <form>Učinila</form>
-<tag lemma="učinit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="učinit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94207-28-p2s4w2">
 <src.rf>manual</src.rf>
@@ -693,7 +693,7 @@
 <LM>w#w-ln94207-28-p2s5w4</LM>
 </w.rf>
 <form>nechali</form>
-<tag lemma="nechat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="nechat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94207-28-p2s5w5">
 <src.rf>manual</src.rf>

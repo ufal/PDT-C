@@ -106,7 +106,7 @@
 <LM>w#w-wsj1959-001-p1s0W9</LM>
 </w.rf>
 <form>uvedly</form>
-<tag lemma="uvést" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1959-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -133,7 +133,7 @@
 <LM>w#w-wsj1959-001-p1s0W12</LM>
 </w.rf>
 <form>dokončily</form>
-<tag lemma="dokončit" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="dokončit" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1959-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -500,7 +500,7 @@
 <LM>w#w-wsj1959-001-p1s1W9</LM>
 </w.rf>
 <form>zaplatil</form>
-<tag lemma="zaplatit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="zaplatit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1959-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>

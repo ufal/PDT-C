@@ -94,7 +94,7 @@
 <AM lemma="jeden`1" src="auto">ClIS4----------</AM>
 <AM lemma="jeden`1" src="auto" recommended="1">ClYS1----------</AM>
 <AM lemma="jeden`1" src="auto">ClYS5----------</AM>
-<AM lemma="jíst" src="auto">VsYS---XX-API--</AM>
+<AM lemma="jíst" src="auto">VsYS----X-API--</AM>
 </tag>
 </m>
 <m id="m-wsj1009-001-p1s0W9-Ta">
@@ -230,7 +230,7 @@
 <LM>w#w-wsj1009-001-p1s0W20</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1009-001-p1s0W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -392,7 +392,7 @@
 <LM>w#w-wsj1009-001-p1s0W29</LM>
 </w.rf>
 <form>vzrostly</form>
-<tag lemma="vzrůst-1" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="vzrůst-1" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1009-001-p1s0W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -515,7 +515,7 @@
 <LM>w#w-wsj1009-001-p1s0W41</LM>
 </w.rf>
 <form>napomohl</form>
-<tag lemma="napomoci" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="napomoci" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1009-001-p1s0W42-Ta">
 <src.rf>tagger-a</src.rf>
@@ -761,7 +761,7 @@
 <LM>w#w-wsj1009-001-p1s1W5</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="mít" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj1009-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -829,7 +829,7 @@
 <LM>w#w-wsj1009-001-p1s1W10</LM>
 </w.rf>
 <form>skončilo</form>
-<tag lemma="skončit" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="skončit" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj1009-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1096,7 +1096,7 @@
 <LM>w#w-wsj1009-001-p1s2W2</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1009-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>

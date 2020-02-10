@@ -365,7 +365,7 @@
 <LM>w#w-ln95048-131-p2s2w1</LM>
 </w.rf>
 <form>Uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-131-p2s2w2">
 <src.rf>manual</src.rf>
@@ -566,7 +566,7 @@
 <LM>w#w-ln95048-131-p3s1w14</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95048-131-p3s1w15">
 <src.rf>manual</src.rf>
@@ -718,7 +718,7 @@
 <LM>w#w-ln95048-131-p3s1w33</LM>
 </w.rf>
 <form>neučinil</form>
-<tag lemma="učinit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="učinit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-ln95048-131-p3s1w34">
 <src.rf>manual</src.rf>
@@ -855,7 +855,7 @@
 <LM>w#w-ln95048-131-p3s2w12</LM>
 </w.rf>
 <form>upozornil</form>
-<tag lemma="upozornit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="upozornit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-131-p3s2w13">
 <src.rf>manual</src.rf>
@@ -1097,7 +1097,7 @@
 <LM>w#w-ln95048-131-p3s3w5</LM>
 </w.rf>
 <form>dalo</form>
-<tag lemma="dát" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="dát" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-131-p3s3w6">
 <src.rf>manual</src.rf>
@@ -1161,7 +1161,7 @@
 <LM>w#w-ln95048-131-p3s3w13</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95048-131-p3s3w14">
 <src.rf>manual</src.rf>
@@ -1201,7 +1201,7 @@
 <LM>w#w-ln95048-131-p3s3w18</LM>
 </w.rf>
 <form>zhodnotil</form>
-<tag lemma="zhodnotit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zhodnotit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-131-p3s3w19">
 <src.rf>manual</src.rf>
@@ -1307,7 +1307,7 @@
 <LM>w#w-ln95048-131-p3s4w6</LM>
 </w.rf>
 <form>jednali</form>
-<tag lemma="jednat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="jednat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95048-131-p3s4w7">
 <src.rf>manual</src.rf>

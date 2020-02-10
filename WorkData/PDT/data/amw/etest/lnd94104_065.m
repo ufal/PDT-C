@@ -101,7 +101,7 @@
 <LM>w#w-lnd94104-065-p1s1Bw5</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd94104-065-p1s1Bw6">
 <src.rf>manual</src.rf>
@@ -117,7 +117,7 @@
 <LM>w#w-lnd94104-065-p1s1Bw7</LM>
 </w.rf>
 <form>podepsána</form>
-<tag lemma="podepsat" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="podepsat" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd94104-065-p1s1Bw8">
 <src.rf>manual</src.rf>
@@ -330,7 +330,7 @@
 <LM>w#w-lnd94104-065-p1s2w3</LM>
 </w.rf>
 <form>předcházelo</form>
-<tag lemma="předcházet_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="předcházet" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd94104-065-p1s2w4">
 <src.rf>manual</src.rf>
@@ -625,7 +625,7 @@
 <LM>w#w-lnd94104-065-p1s4w14</LM>
 </w.rf>
 <form>zahájena</form>
-<tag lemma="zahájit" src="auto" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zahájit" src="auto" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd94104-065-p1s4w15">
 <src.rf>manual</src.rf>
@@ -691,7 +691,7 @@
 <LM>w#w-lnd94104-065-p1s5w4</LM>
 </w.rf>
 <form>zabývala</form>
-<tag lemma="zabývat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zabývat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd94104-065-p1s5w5">
 <src.rf>manual</src.rf>
@@ -928,7 +928,7 @@
 <LM>w#w-lnd94104-065-p1s6w3</LM>
 </w.rf>
 <form>ohrozil</form>
-<tag lemma="ohrozit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="ohrozit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-065-p1s6w4">
 <src.rf>manual</src.rf>
@@ -1114,7 +1114,7 @@
 <LM>w#w-lnd94104-065-p1s7w19</LM>
 </w.rf>
 <form>podepsali</form>
-<tag lemma="podepsat" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="podepsat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-065-p1s7w20">
 <src.rf>manual</src.rf>
@@ -1308,7 +1308,7 @@
 <LM>w#w-lnd94104-065-p1s8w14</LM>
 </w.rf>
 <form>postřílel</form>
-<tag lemma="postřílet_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="postřílet" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-065-p1s8w15">
 <src.rf>manual</src.rf>
@@ -1449,7 +1449,7 @@
 <LM>w#w-lnd94104-065-p1s9w10</LM>
 </w.rf>
 <form>obnovily</form>
-<tag lemma="obnovit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="obnovit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-065-p1s9w11">
 <src.rf>manual</src.rf>
@@ -1523,7 +1523,7 @@
 <LM>w#w-lnd94104-065-p1s10w1</LM>
 </w.rf>
 <form>podepsán</form>
-<tag lemma="podepsat" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="podepsat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd94104-065-p1s10w2">
 <src.rf>manual</src.rf>
@@ -1597,7 +1597,7 @@
 <LM>w#w-lnd94104-065-p1s11w2</LM>
 </w.rf>
 <form>akceptoval</form>
-<tag lemma="akceptovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="akceptovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-lnd94104-065-p1s11w3">
 <src.rf>manual</src.rf>
@@ -1754,7 +1754,7 @@
 <LM>w#w-lnd94104-065-p1s12w11</LM>
 </w.rf>
 <form>dohodly</form>
-<tag lemma="dohodnout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="dohodnout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-lnd94104-065-p1s12w12">
 <src.rf>manual</src.rf>
@@ -1956,7 +1956,7 @@
 <LM>w#w-lnd94104-065-p1s13w9</LM>
 </w.rf>
 <form>dala</form>
-<tag lemma="dát" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="dát" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-065-p1s13w10">
 <src.rf>manual</src.rf>
@@ -2054,7 +2054,7 @@
 <LM>w#w-lnd94104-065-p1s14w4</LM>
 </w.rf>
 <form>vyslovil</form>
-<tag lemma="vyslovit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyslovit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-065-p1s14w5">
 <src.rf>manual</src.rf>
@@ -2217,7 +2217,7 @@
 <LM>w#w-lnd94104-065-p1s15Aw14</LM>
 </w.rf>
 <form>jednali</form>
-<tag lemma="jednat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="jednat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd94104-065-p1s15Aw15">
 <src.rf>manual</src.rf>

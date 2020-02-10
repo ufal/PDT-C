@@ -735,7 +735,7 @@
 <LM>w#w-mf920901-062-p3s2w31</LM>
 </w.rf>
 <form>hráli</form>
-<tag lemma="hrát" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="hrát" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf920901-062-p3s2w32">
 <src.rf>manual</src.rf>

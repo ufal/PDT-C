@@ -207,7 +207,7 @@
 <LM>w#w-wsj0055-001-p1s0W15</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0055-001-p1s0W16-Ta">
 <src.rf>tagger-a</src.rf>

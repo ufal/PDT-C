@@ -212,7 +212,7 @@
 <LM>w#w-wsj0905-001-p1s0W17</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj0905-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -220,7 +220,7 @@
 <LM>w#w-wsj0905-001-p1s0W18</LM>
 </w.rf>
 <form>zvolen</form>
-<tag lemma="zvolit" src="auto" recommended="1">VsYS---XX-APP--</tag>
+<tag lemma="zvolit" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj0905-001-p1s0W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -549,7 +549,7 @@
 <LM>w#w-wsj0905-001-p1s1W20</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-wsj0905-001-p1s1W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -557,7 +557,7 @@
 <LM>w#w-wsj0905-001-p1s1W21</LM>
 </w.rf>
 <form>oznámeno</form>
-<tag lemma="oznámit" src="auto" recommended="1">VsNS---XX-APP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-wsj0905-001-p1s1W22-Ta">
 <src.rf>tagger-a</src.rf>

@@ -338,7 +338,7 @@
 <LM>w#w-ln94201-50-p2s2w22</LM>
 </w.rf>
 <form>odškodněny</form>
-<tag lemma="odškodnit" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="odškodnit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln94201-50-p2s2w23">
 <src.rf>manual</src.rf>
@@ -651,7 +651,7 @@
 <LM>w#w-ln94201-50-p2s5w3</LM>
 </w.rf>
 <form>komentovala</form>
-<tag lemma="komentovat_:T_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="komentovat" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-ln94201-50-p2s5w4">
 <src.rf>manual</src.rf>

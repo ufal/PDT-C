@@ -280,7 +280,7 @@
 <LM>w#w-d1t1275-5</LM>
 </w.rf>
 <form>nastěhovaly</form>
-<tag lemma="nastěhovat_:W" src="auto" recommended="1">VpTP---XR-AA---</tag>
+<tag lemma="nastěhovat" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m913-d1t1280-1">
 <w.rf>
@@ -322,7 +322,7 @@
 <LM>w#w-d1t1280-4</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m913-d1t1280-5">
 <w.rf>

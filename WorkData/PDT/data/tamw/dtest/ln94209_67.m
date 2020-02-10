@@ -255,7 +255,7 @@
 <LM>w#w-ln94209-67-p2s2w8</LM>
 </w.rf>
 <form>promítnuty</form>
-<tag lemma="promítnout_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="promítnout" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln94209-67-p2s2w9">
 <src.rf>manual</src.rf>
@@ -321,7 +321,7 @@
 <LM>w#w-ln94209-67-p2s3w4</LM>
 </w.rf>
 <form>zúčastnili</form>
-<tag lemma="zúčastnit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zúčastnit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94209-67-p2s3w5">
 <src.rf>manual</src.rf>

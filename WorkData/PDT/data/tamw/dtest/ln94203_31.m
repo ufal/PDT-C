@@ -179,7 +179,7 @@
 <LM>w#w-ln94203-31-p1s2w2</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94203-31-p1s2w3">
 <src.rf>manual</src.rf>
@@ -260,8 +260,8 @@
 </w.rf>
 <form>zahájen</form>
 <tag>
-<AM lemma="zahájit" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="zahájit_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+<AM lemma="zahájit" src="auto">VsYS----X-APP--</AM>
+<AM lemma="zahájit" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-ln94203-31-p1s2w13">

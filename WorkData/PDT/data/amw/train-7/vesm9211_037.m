@@ -150,7 +150,7 @@
 <LM>w#w-vesm9211-037-p2s1Aw2</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-vesm9211-037-p2s1Aw3">
 <src.rf>manual</src.rf>
@@ -565,7 +565,7 @@
 <LM>w#w-vesm9211-037-p2s2w13</LM>
 </w.rf>
 <form>měli</form>
-<tag lemma="mít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-vesm9211-037-p2s2w14">
 <src.rf>manual</src.rf>
@@ -823,7 +823,7 @@
 <LM>w#w-vesm9211-037-p2s4w2</LM>
 </w.rf>
 <form>vznikla</form>
-<tag lemma="vzniknout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="vzniknout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-vesm9211-037-p2s4w3">
 <src.rf>manual</src.rf>
@@ -985,7 +985,7 @@
 <LM>w#w-vesm9211-037-p2s5w8</LM>
 </w.rf>
 <form>onemocnělo</form>
-<tag lemma="onemocnět" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="onemocnět" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-vesm9211-037-p2s5w9">
 <src.rf>manual</src.rf>
@@ -1001,7 +1001,7 @@
 <LM>w#w-vesm9211-037-p2s5w10</LM>
 </w.rf>
 <form>zemřelo</form>
-<tag lemma="zemřít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zemřít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-vesm9211-037-p2s5w11">
 <src.rf>manual</src.rf>
@@ -1363,7 +1363,7 @@
 <LM>w#w-vesm9211-037-p2s7w5</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-vesm9211-037-p2s7w6">
 <src.rf>manual</src.rf>
@@ -1641,7 +1641,7 @@
 <form>Sch</form>
 <tag>
 <AM lemma="Sch-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
-<AM lemma="schnout" src="auto" recommended="1">VpYS---XR-AA--6</AM>
+<AM lemma="schnout" src="auto" recommended="1">VpYS----R-AAI-6</AM>
 </tag>
 </m>
 </s>

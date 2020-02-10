@@ -231,7 +231,7 @@
 <LM>w#w-lnd94101-028-p1s2w12</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd94101-028-p1s2w13">
 <src.rf>manual</src.rf>
@@ -465,7 +465,7 @@
 <LM>w#w-lnd94101-028-p1s3w13</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94101-028-p1s3w14">
 <src.rf>manual</src.rf>
@@ -481,7 +481,7 @@
 <LM>w#w-lnd94101-028-p1s3w15</LM>
 </w.rf>
 <form>odhalen</form>
-<tag lemma="odhalit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="odhalit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd94101-028-p1s3w16">
 <src.rf>manual</src.rf>
@@ -529,7 +529,7 @@
 <LM>w#w-lnd94101-028-p1s3w21</LM>
 </w.rf>
 <form>stačil</form>
-<tag lemma="stačit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="stačit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94101-028-p1s3w22">
 <src.rf>manual</src.rf>

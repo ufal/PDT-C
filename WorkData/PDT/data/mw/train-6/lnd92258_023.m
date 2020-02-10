@@ -398,7 +398,7 @@
 <LM>w#w-lnd92258-023-p3s3w2</LM>
 </w.rf>
 <form>uložil</form>
-<tag lemma="uložit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uložit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-023-p3s3w3">
 <src.rf>manual</src.rf>
@@ -1041,7 +1041,7 @@
 <LM>w#w-lnd92258-023-p3s7w3</LM>
 </w.rf>
 <form>rozhodl</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd92258-023-p3s7w4">
 <src.rf>manual</src.rf>
@@ -1129,7 +1129,7 @@
 <LM>w#w-lnd92258-023-p3s7w15</LM>
 </w.rf>
 <form>nebyla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-lnd92258-023-p3s7w16">
 <src.rf>manual</src.rf>

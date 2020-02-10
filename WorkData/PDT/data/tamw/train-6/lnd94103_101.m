@@ -1878,7 +1878,7 @@
 <LM>w#w-lnd94103-101-p1s9w26</LM>
 </w.rf>
 <form>vytvořily</form>
-<tag lemma="vytvořit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vytvořit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-101-p1s9w27">
 <src.rf>manual</src.rf>
@@ -1984,7 +1984,7 @@
 <LM>w#w-lnd94103-101-p1s10w4</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-101-p1s10w5">
 <src.rf>manual</src.rf>
@@ -1992,7 +1992,7 @@
 <LM>w#w-lnd94103-101-p1s10w5</LM>
 </w.rf>
 <form>přichystán</form>
-<tag lemma="přichystat_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="přichystat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd94103-101-p1s10w6">
 <src.rf>manual</src.rf>

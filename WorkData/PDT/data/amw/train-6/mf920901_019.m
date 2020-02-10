@@ -171,7 +171,7 @@
 <AM lemma="kys" src="auto">NNIS1-----A----</AM>
 <AM lemma="kys" src="auto">NNIS4-----A----</AM>
 <AM lemma="kyselina_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
-<AM lemma="kysnout_:T" src="auto">VpYS---XR-AA--6</AM>
+<AM lemma="kysnout" src="auto">VpYS----R-AAI-6</AM>
 </tag>
 </m>
 <m id="m-mf920901-019-p1s1w20">

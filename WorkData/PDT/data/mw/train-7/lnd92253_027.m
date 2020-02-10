@@ -291,7 +291,7 @@
 <LM>w#w-lnd92253-027-p3s3w8</LM>
 </w.rf>
 <form>zdůraznil</form>
-<tag lemma="zdůraznit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zdůraznit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92253-027-p3s3w9">
 <src.rf>manual</src.rf>
@@ -368,7 +368,7 @@
 <LM>w#w-lnd92253-027-p3s4w2</LM>
 </w.rf>
 <form>upozornil</form>
-<tag lemma="upozornit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="upozornit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92253-027-p3s4w3">
 <src.rf>manual</src.rf>
@@ -480,7 +480,7 @@
 <LM>w#w-lnd92253-027-p3s4w16</LM>
 </w.rf>
 <form>okradeni</form>
-<tag lemma="okrást" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="okrást" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-lnd92253-027-p3s4w17">
 <src.rf>manual</src.rf>
@@ -522,7 +522,7 @@
 <LM>w#w-lnd92253-027-p3s5w4</LM>
 </w.rf>
 <form>vnucována</form>
-<tag lemma="vnucovat_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="vnucovat" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-lnd92253-027-p3s5w5">
 <src.rf>manual</src.rf>
@@ -594,7 +594,7 @@
 <LM>w#w-lnd92253-027-p3s5w13</LM>
 </w.rf>
 <form>nabízeno</form>
-<tag lemma="nabízet_:T" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="nabízet" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-lnd92253-027-p3s5w14">
 <src.rf>manual</src.rf>
@@ -634,7 +634,7 @@
 <LM>w#w-lnd92253-027-p3s5w19</LM>
 </w.rf>
 <form>vyměnili</form>
-<tag lemma="vyměnit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyměnit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92253-027-p3s5w20">
 <src.rf>manual</src.rf>
@@ -725,8 +725,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92253-027-p3s6w9">

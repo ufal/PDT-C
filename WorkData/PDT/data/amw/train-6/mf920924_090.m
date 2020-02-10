@@ -300,7 +300,7 @@
 <LM>w#w-mf920924-090-p2s3w9</LM>
 </w.rf>
 <form>ztracena</form>
-<tag lemma="ztratit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="ztratit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf920924-090-p2s3w10">
 <src.rf>manual</src.rf>
@@ -348,7 +348,7 @@
 <LM>w#w-mf920924-090-p2s3w15</LM>
 </w.rf>
 <form>prohlásil</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920924-090-p2s3w16">
 <src.rf>manual</src.rf>
@@ -532,7 +532,7 @@
 <LM>w#w-mf920924-090-p2s4w9</LM>
 </w.rf>
 <form>označil</form>
-<tag lemma="označit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="označit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920924-090-p2s4w10">
 <src.rf>manual</src.rf>
@@ -638,7 +638,7 @@
 <LM>w#w-mf920924-090-p2s5w6</LM>
 </w.rf>
 <form>vznikala</form>
-<tag lemma="vznikat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vznikat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920924-090-p2s5w7">
 <src.rf>manual</src.rf>
@@ -686,7 +686,7 @@
 <LM>w#w-mf920924-090-p2s5w12</LM>
 </w.rf>
 <form>znemožňovala</form>
-<tag lemma="znemožňovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="znemožňovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920924-090-p2s5w13">
 <src.rf>manual</src.rf>
@@ -832,7 +832,7 @@
 <LM>w#w-mf920924-090-p2s6w16</LM>
 </w.rf>
 <form>nastupoval</form>
-<tag lemma="nastupovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nastupovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920924-090-p2s6w17">
 <src.rf>manual</src.rf>

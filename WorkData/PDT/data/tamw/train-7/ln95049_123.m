@@ -43,7 +43,7 @@
 <LM>w#w-ln95049-123-p1s1w4</LM>
 </w.rf>
 <form>dospěli</form>
-<tag lemma="dospět" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="dospět" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95049-123-p1s1w5">
 <src.rf>manual</src.rf>
@@ -119,7 +119,7 @@
 <LM>w#w-ln95049-123-p2s1Bw5</LM>
 </w.rf>
 <form>uzavřely</form>
-<tag lemma="uzavřít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="uzavřít" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95049-123-p2s1Bw6">
 <src.rf>manual</src.rf>

@@ -137,7 +137,7 @@
 <LM>w#w-ln94207-77-p1s1w15</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94207-77-p1s1w16">
 <src.rf>manual</src.rf>
@@ -217,7 +217,7 @@
 <LM>w#w-ln94207-77-p1s1w25</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94207-77-p1s1w26">
 <src.rf>manual</src.rf>
@@ -226,8 +226,8 @@
 </w.rf>
 <form>umístěn</form>
 <tag>
-<AM lemma="umístit" src="orig">VsYS---XX-AP---</AM>
-<AM lemma="umístit_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+<AM lemma="umístit" src="orig">VsYS----X-APP--</AM>
+<AM lemma="umístit" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-ln94207-77-p1s1w27">

@@ -315,7 +315,7 @@
 <LM>w#w-wsj0502-001-p1s0W23</LM>
 </w.rf>
 <form>oznámili</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj0502-001-p1s0W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1122,7 +1122,7 @@
 <LM>w#w-wsj0502-001-p1s2W45</LM>
 </w.rf>
 <form>řekli</form>
-<tag lemma="říci" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj0502-001-p1s2W46-Ta">
 <src.rf>tagger-a</src.rf>

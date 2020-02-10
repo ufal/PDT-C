@@ -84,7 +84,7 @@
 <LM>w#w-wsj1526-001-p1s0W6</LM>
 </w.rf>
 <form>jmenoval</form>
-<tag lemma="jmenovat" src="auto" recommended="1">VpYS---XR-AAB--</tag>
+<tag lemma="jmenovat" src="auto" recommended="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-wsj1526-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -221,7 +221,7 @@
 <LM>w#w-wsj1526-001-p1s0W17</LM>
 </w.rf>
 <form>zvýšil</form>
-<tag lemma="zvýšit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="zvýšit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1526-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>

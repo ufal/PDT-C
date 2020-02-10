@@ -157,7 +157,7 @@
 <LM>w#w-ln94211-119-p2s1Bw5</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94211-119-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -174,8 +174,8 @@
 </w.rf>
 <form>napsáno</form>
 <tag>
-<AM lemma="napsat" src="orig">VsNS---XX-AP---</AM>
-<AM lemma="napsat_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+<AM lemma="napsat" src="orig">VsNS----X-APP--</AM>
+<AM lemma="napsat" src="manual" selected="1">VsNS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-ln94211-119-p2s1Bw8">
@@ -234,7 +234,7 @@
 <LM>w#w-ln94211-119-p2s2w6</LM>
 </w.rf>
 <form>telefonovali</form>
-<tag lemma="telefonovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="telefonovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94211-119-p2s2w7">
 <src.rf>manual</src.rf>
@@ -251,8 +251,8 @@
 </w.rf>
 <form>nedozvěděli</form>
 <tag>
-<AM lemma="dozvědět" src="orig">VpMP---XR-NA---</AM>
-<AM lemma="dozvědět_:W" src="manual" selected="1">VpMP---XR-NA---</AM>
+<AM lemma="dozvědět" src="orig">VpMP----R-NAP--</AM>
+<AM lemma="dozvědět" src="manual" selected="1">VpMP----R-NAP--</AM>
 </tag>
 </m>
 <m id="m-ln94211-119-p2s2w9">

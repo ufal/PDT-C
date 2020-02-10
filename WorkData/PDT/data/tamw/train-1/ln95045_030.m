@@ -78,7 +78,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>posílila</form>
-<tag lemma="posílit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="posílit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95045-030-p2s1w8">
 <src.rf>manual</src.rf>
@@ -195,7 +195,7 @@
 <LM>w#w-ln95045-030-p3s1w5</LM>
 </w.rf>
 <form>zemřel</form>
-<tag lemma="zemřít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zemřít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-030-p3s1w6">
 <src.rf>manual</src.rf>
@@ -320,7 +320,7 @@
 <LM>w#w-ln95045-030-p3s2w6</LM>
 </w.rf>
 <form>získal</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-030-p3s2w7">
 <src.rf>manual</src.rf>
@@ -580,7 +580,7 @@
 <LM>w#w-ln95045-030-p4s1w10</LM>
 </w.rf>
 <form>potrestala</form>
-<tag lemma="potrestat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="potrestat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95045-030-p4s1w11">
 <src.rf>manual</src.rf>
@@ -956,7 +956,7 @@
 <LM>w#w-ln95045-030-p4s3w3</LM>
 </w.rf>
 <form>zaslal</form>
-<tag lemma="zaslat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zaslat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-030-p4s3w4">
 <src.rf>manual</src.rf>
@@ -1057,7 +1057,7 @@
 <LM>w#w-ln95045-030-p5s1w7</LM>
 </w.rf>
 <form>vázl</form>
-<tag lemma="váznout_:T" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="váznout" src="orig" selected="1">VpYS----R-AAI-1</tag>
 </m>
 <m id="m-ln95045-030-p5s1w8">
 <src.rf>manual</src.rf>
@@ -1197,7 +1197,7 @@
 <LM>w#w-ln95045-030-p5s1w24</LM>
 </w.rf>
 <form>shodly</form>
-<tag lemma="shodnout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="shodnout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-ln95045-030-p5s1w25">
 <src.rf>manual</src.rf>
@@ -1258,7 +1258,7 @@
 <LM>w#w-ln95045-030-p5s2w6</LM>
 </w.rf>
 <form>podepsala</form>
-<tag lemma="podepsat" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="podepsat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95045-030-p5s2w7">
 <src.rf>manual</src.rf>

@@ -127,7 +127,7 @@
 <LM>w#w-mf920923-116-p2s2w4</LM>
 </w.rf>
 <form>vystřízlivěl</form>
-<tag lemma="vystřízlivět_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vystřízlivět" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-116-p2s2w5">
 <src.rf>manual</src.rf>
@@ -167,7 +167,7 @@
 <LM>w#w-mf920923-116-p2s2w9</LM>
 </w.rf>
 <form>zůstali</form>
-<tag lemma="zůstat" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zůstat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920923-116-p2s2w10">
 <src.rf>manual</src.rf>
@@ -278,7 +278,7 @@
 <LM>w#w-mf920923-116-p2s4w1</LM>
 </w.rf>
 <form>Prohlásil</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-116-p2s4w2">
 <src.rf>manual</src.rf>
@@ -548,7 +548,7 @@
 <LM>w#w-mf920923-116-p2s5w17</LM>
 </w.rf>
 <form>dodal</form>
-<tag lemma="dodat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dodat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-116-p2s5w18">
 <src.rf>manual</src.rf>
@@ -614,7 +614,7 @@
 <LM>w#w-mf920923-116-p3s1w6</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920923-116-p3s1w7">
 <src.rf>manual</src.rf>
@@ -775,7 +775,7 @@
 <LM>w#w-mf920923-116-p3s1w26</LM>
 </w.rf>
 <form>navrhl</form>
-<tag lemma="navrhnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="navrhnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf920923-116-p3s1w27">
 <src.rf>manual</src.rf>
@@ -948,7 +948,7 @@
 <LM>w#w-mf920923-116-p4s1w7</LM>
 </w.rf>
 <form>označil</form>
-<tag lemma="označit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="označit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-116-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1215,7 +1215,7 @@
 <LM>w#w-mf920923-116-p4s2w1</LM>
 </w.rf>
 <form>Dodal</form>
-<tag lemma="dodat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dodat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-116-p4s2w2">
 <src.rf>manual</src.rf>

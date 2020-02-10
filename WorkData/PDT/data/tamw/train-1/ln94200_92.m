@@ -167,7 +167,7 @@
 <LM>w#w-ln94200-92-p2s1Bw12</LM>
 </w.rf>
 <form>spadl</form>
-<tag lemma="spadnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="spadnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln94200-92-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -239,7 +239,7 @@
 <LM>w#w-ln94200-92-p2s1Bw21</LM>
 </w.rf>
 <form>odstraňoval</form>
-<tag lemma="odstraňovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odstraňovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94200-92-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -361,7 +361,7 @@
 <LM>w#w-ln94200-92-p2s2w3</LM>
 </w.rf>
 <form>konstatoval</form>
-<tag lemma="konstatovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="konstatovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln94200-92-p2s2w4">
 <src.rf>manual</src.rf>
@@ -393,7 +393,7 @@
 <LM>w#w-ln94200-92-p2s2w7</LM>
 </w.rf>
 <form>nastala</form>
-<tag lemma="nastat" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="nastat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94200-92-p2s2w8">
 <src.rf>manual</src.rf>

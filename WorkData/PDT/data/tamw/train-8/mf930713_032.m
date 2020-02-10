@@ -110,7 +110,7 @@
 <LM>w#w-mf930713-032-p2s1Bw7</LM>
 </w.rf>
 <form>vyrovnal</form>
-<tag lemma="vyrovnat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyrovnat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-032-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -216,7 +216,7 @@
 <LM>w#w-mf930713-032-p2s2w2</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dát" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-032-p2s2w3">
 <src.rf>manual</src.rf>
@@ -368,7 +368,7 @@
 <LM>w#w-mf930713-032-p2s2w21</LM>
 </w.rf>
 <form>podařilo</form>
-<tag lemma="podařit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="podařit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-032-p2s2w22">
 <src.rf>manual</src.rf>

@@ -426,7 +426,7 @@
 <LM>w#w-mf930701-124-p2s2w9</LM>
 </w.rf>
 <form>nezískalo</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-mf930701-124-p2s2w10">
 <src.rf>manual</src.rf>
@@ -466,7 +466,7 @@
 <LM>w#w-mf930701-124-p2s2w14</LM>
 </w.rf>
 <form>zazářilo</form>
-<tag lemma="zazářit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zazářit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-124-p2s2w15">
 <src.rf>manual</src.rf>
@@ -498,7 +498,7 @@
 <LM>w#w-mf930701-124-p2s2w18</LM>
 </w.rf>
 <form>vyhráli</form>
-<tag lemma="vyhrát" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyhrát" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930701-124-p2s2w19">
 <src.rf>manual</src.rf>
@@ -570,7 +570,7 @@
 <LM>w#w-mf930701-124-p2s2w27</LM>
 </w.rf>
 <form>získaly</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf930701-124-p2s2w28">
 <src.rf>manual</src.rf>

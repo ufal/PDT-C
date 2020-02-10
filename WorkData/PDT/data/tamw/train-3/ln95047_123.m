@@ -199,7 +199,7 @@
 <LM>w#w-ln95047-123-p2s2w5</LM>
 </w.rf>
 <form>zlikvidován</form>
-<tag lemma="zlikvidovat_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zlikvidovat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95047-123-p2s2w6">
 <src.rf>manual</src.rf>
@@ -467,7 +467,7 @@
 <LM>w#w-ln95047-123-p3s1w9</LM>
 </w.rf>
 <form>oznámil</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95047-123-p3s1w10">
 <src.rf>manual</src.rf>
@@ -595,7 +595,7 @@
 <LM>w#w-ln95047-123-p3s1w26</LM>
 </w.rf>
 <form>podpořil</form>
-<tag lemma="podpořit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="podpořit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95047-123-p3s1w27">
 <src.rf>manual</src.rf>

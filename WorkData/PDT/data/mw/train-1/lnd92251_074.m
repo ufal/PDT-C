@@ -171,8 +171,8 @@
 </w.rf>
 <form>začal</form>
 <tag>
-<AM lemma="začít-1_^(začnout)" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="začít-1_^(začnout)_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_^(začnout)" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92251-074-p3s1w12">
@@ -458,7 +458,7 @@
 <LM>w#w-lnd92251-074-p4s1w6</LM>
 </w.rf>
 <form>zdůraznil</form>
-<tag lemma="zdůraznit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zdůraznit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-074-p4s1w7">
 <src.rf>manual</src.rf>
@@ -752,8 +752,8 @@
 </w.rf>
 <form>zaznělo</form>
 <tag>
-<AM lemma="zaznít" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="zaznít_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="zaznít" src="orig">VpNS----R-AAP--</AM>
+<AM lemma="zaznít" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92251-074-p4s2w12">
@@ -866,7 +866,7 @@
 <LM>w#w-lnd92251-074-p4s2w25</LM>
 </w.rf>
 <form>nahrazen</form>
-<tag lemma="nahradit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="nahradit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd92251-074-p4s2w26">
 <src.rf>manual</src.rf>
@@ -956,7 +956,7 @@
 <LM>w#w-lnd92251-074-p4s3w9</LM>
 </w.rf>
 <form>musel</form>
-<tag lemma="muset" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="muset" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92251-074-p4s3w10">
 <src.rf>manual</src.rf>
@@ -1097,7 +1097,7 @@
 <LM>w#w-lnd92251-074-p4s4w4</LM>
 </w.rf>
 <form>ověřil</form>
-<tag lemma="ověřit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="ověřit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-074-p4s4w5">
 <src.rf>manual</src.rf>
@@ -1325,7 +1325,7 @@
 <LM>w#w-lnd92251-074-p4s5w4</LM>
 </w.rf>
 <form>šlo</form>
-<tag lemma="jít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="jít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92251-074-p4s5w5">
 <src.rf>manual</src.rf>

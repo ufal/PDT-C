@@ -194,7 +194,7 @@
 <LM>w#w-ln95040-099-p2s1Bw11</LM>
 </w.rf>
 <form>vybudován</form>
-<tag lemma="vybudovat_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="vybudovat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95040-099-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -733,7 +733,7 @@
 <LM>w#w-ln95040-099-p3s5w5</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95040-099-p3s5w6">
 <src.rf>manual</src.rf>
@@ -885,7 +885,7 @@
 <LM>w#w-ln95040-099-p3s6w3</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95040-099-p3s6w4">
 <src.rf>manual</src.rf>

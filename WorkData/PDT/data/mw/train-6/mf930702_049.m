@@ -215,7 +215,7 @@
 <LM>w#w-mf930702-049-p5s1w7</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930702-049-p5s1w8">
 <src.rf>manual</src.rf>

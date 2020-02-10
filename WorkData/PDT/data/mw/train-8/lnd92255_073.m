@@ -325,7 +325,7 @@
 <LM>w#w-lnd92255-073-p1s3w8</LM>
 </w.rf>
 <form>položila</form>
-<tag lemma="položit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="položit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-073-p1s3w9">
 <src.rf>manual</src.rf>

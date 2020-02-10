@@ -369,7 +369,7 @@
 <LM>w#w-lnd92256-077-p2s3w22</LM>
 </w.rf>
 <form>napsal</form>
-<tag lemma="napsat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="napsat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-077-p2s3w23">
 <src.rf>manual</src.rf>
@@ -465,7 +465,7 @@
 <LM>w#w-lnd92256-077-p2s4w7</LM>
 </w.rf>
 <form>zveřejněno</form>
-<tag lemma="zveřejnit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zveřejnit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92256-077-p2s4w8">
 <src.rf>manual</src.rf>
@@ -481,7 +481,7 @@
 <LM>w#w-lnd92256-077-p2s4w9</LM>
 </w.rf>
 <form>získala</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-077-p2s4w10">
 <src.rf>manual</src.rf>
@@ -603,7 +603,7 @@
 <LM>w#w-lnd92256-077-p2s5w1</LM>
 </w.rf>
 <form>Odstěhovala</form>
-<tag lemma="odstěhovat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="odstěhovat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-077-p2s5w2">
 <src.rf>manual</src.rf>
@@ -699,7 +699,7 @@
 <LM>w#w-lnd92256-077-p2s5w14</LM>
 </w.rf>
 <form>vyhnula</form>
-<tag lemma="vyhnout" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyhnout" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-077-p2s5w15">
 <src.rf>manual</src.rf>
@@ -943,7 +943,7 @@
 <LM>w#w-lnd92256-077-p2s7w11</LM>
 </w.rf>
 <form>dosáhl</form>
-<tag lemma="dosáhnout" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dosáhnout" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-077-p2s7w12">
 <src.rf>manual</src.rf>
@@ -1007,7 +1007,7 @@
 <LM>w#w-lnd92256-077-p2s7w19</LM>
 </w.rf>
 <form>nelíbilo</form>
-<tag lemma="líbit_:T" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="líbit" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-lnd92256-077-p2s7w20">
 <src.rf>manual</src.rf>

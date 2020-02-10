@@ -497,7 +497,7 @@
 <LM>w#w-ln94202-37-p2s3w6</LM>
 </w.rf>
 <form>poklesly</form>
-<tag lemma="poklesnout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="poklesnout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-ln94202-37-p2s3w7">
 <src.rf>manual</src.rf>
@@ -1091,7 +1091,7 @@
 <LM>w#w-ln94202-37-p3s4w5</LM>
 </w.rf>
 <form>zjišťovány</form>
-<tag lemma="zjišťovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="zjišťovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln94202-37-p3s4w6">
 <src.rf>manual</src.rf>
@@ -1303,7 +1303,7 @@
 <LM>w#w-ln94202-37-p3s6w6</LM>
 </w.rf>
 <form>zjistila</form>
-<tag lemma="zjistit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zjistit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94202-37-p3s6w7">
 <src.rf>manual</src.rf>
@@ -1449,7 +1449,7 @@
 <LM>w#w-ln94202-37-p4s1w6</LM>
 </w.rf>
 <form>vypracovalo</form>
-<tag lemma="vypracovat_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vypracovat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94202-37-p4s1w7">
 <src.rf>manual</src.rf>

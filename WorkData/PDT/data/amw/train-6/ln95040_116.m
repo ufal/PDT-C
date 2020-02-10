@@ -128,7 +128,7 @@
 <LM>w#w-ln95040-116-p2s1w6</LM>
 </w.rf>
 <form>vyjádřili</form>
-<tag lemma="vyjádřit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyjádřit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95040-116-p2s1w7">
 <src.rf>manual</src.rf>
@@ -656,7 +656,7 @@
 <LM>w#w-ln95040-116-p3s3w8</LM>
 </w.rf>
 <form>vznikla</form>
-<tag lemma="vzniknout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="vzniknout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln95040-116-p3s3w9">
 <src.rf>manual</src.rf>
@@ -720,7 +720,7 @@
 <LM>w#w-ln95040-116-p3s3w16</LM>
 </w.rf>
 <form>složena</form>
-<tag lemma="složit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="složit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln95040-116-p3s3w17">
 <src.rf>manual</src.rf>
@@ -1089,7 +1089,7 @@
 <LM>w#w-ln95040-116-p3s6w6</LM>
 </w.rf>
 <form>vyžadovalo</form>
-<tag lemma="vyžadovat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vyžadovat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95040-116-p3s6w7">
 <src.rf>manual</src.rf>

@@ -125,7 +125,7 @@
 <LM>w#w-ln95047-098-p2s1w4</LM>
 </w.rf>
 <form>schválila</form>
-<tag lemma="schválit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="schválit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95047-098-p2s1w5">
 <src.rf>manual</src.rf>
@@ -198,8 +198,8 @@
 </w.rf>
 <form>měla</form>
 <tag>
-<AM lemma="mít" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="mít_:T" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="mít" src="orig">VpQW----R-AAI--</AM>
+<AM lemma="mít" src="manual" selected="1">VpQW----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln95047-098-p2s1w14">
@@ -1326,8 +1326,8 @@
 </w.rf>
 <form>měly</form>
 <tag>
-<AM lemma="mít" src="orig">VpTP---XR-AA---</AM>
-<AM lemma="mít_:T" src="manual" selected="1">VpTP---XR-AA---</AM>
+<AM lemma="mít" src="orig">VpTP----R-AAI--</AM>
+<AM lemma="mít" src="manual" selected="1">VpTP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln95047-098-p3s8w9">
@@ -1410,7 +1410,7 @@
 <LM>w#w-ln95047-098-p3s9w3</LM>
 </w.rf>
 <form>shodli</form>
-<tag lemma="shodnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="shodnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-ln95047-098-p3s9w4">
 <src.rf>manual</src.rf>

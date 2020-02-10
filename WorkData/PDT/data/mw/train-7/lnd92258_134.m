@@ -85,7 +85,7 @@
 <LM>w#w-lnd92258-134-p2s1w7</LM>
 </w.rf>
 <form>skončil</form>
-<tag lemma="skončit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="skončit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-134-p2s1w8">
 <src.rf>manual</src.rf>
@@ -419,8 +419,8 @@
 </w.rf>
 <form>vyloučen</form>
 <tag>
-<AM lemma="vyloučit" src="orig">VsYS---XX-AP---</AM>
-<AM lemma="vyloučit_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+<AM lemma="vyloučit" src="orig">VsYS----X-APP--</AM>
+<AM lemma="vyloučit" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-lnd92258-134-p2s2w27">
@@ -636,8 +636,8 @@
 </w.rf>
 <form>vyhrál</form>
 <tag>
-<AM lemma="vyhrát" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="vyhrát_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="vyhrát" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="vyhrát" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92258-134-p2s3w26">
@@ -678,7 +678,7 @@
 <LM>w#w-lnd92258-134-p2s3w30</LM>
 </w.rf>
 <form>umístil</form>
-<tag lemma="umístit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="umístit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-134-p2s3w31">
 <src.rf>manual</src.rf>
@@ -702,7 +702,7 @@
 <LM>w#w-lnd92258-134-p2s3w33</LM>
 </w.rf>
 <form>získal</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-134-p2s3w34">
 <src.rf>manual</src.rf>

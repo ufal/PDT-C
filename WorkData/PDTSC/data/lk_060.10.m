@@ -153,7 +153,7 @@
 <LM>w#w-d1t2386-11</LM>
 </w.rf>
 <form>neuvědomovaly</form>
-<tag lemma="uvědomovat_:T" src="auto" recommended="1">VpTP---XR-NA---</tag>
+<tag lemma="uvědomovat" src="auto" recommended="1">VpTP----R-NAI--</tag>
 </m>
 <m id="m060-788-791">
 <w.rf>
@@ -220,7 +220,7 @@
 <LM>w#w-d1t2390-2</LM>
 </w.rf>
 <form>umožnili</form>
-<tag lemma="umožnit_:W" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="umožnit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m060-d-id170994-punct">
 <w.rf>
@@ -328,7 +328,7 @@
 <LM>w#w-d1t2392-1</LM>
 </w.rf>
 <form>prožili</form>
-<tag lemma="prožít" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="prožít" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m060-d1t2392-2">
 <w.rf>
@@ -432,7 +432,7 @@
 <LM>w#w-d1t2404-10</LM>
 </w.rf>
 <form>nedávali</form>
-<tag lemma="dávat_:T_^(*3t)" src="auto" recommended="1">VpMP---XR-NA---</tag>
+<tag lemma="dávat_^(*3t)" src="auto" recommended="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m060-d1t2404-11">
 <w.rf>
@@ -607,7 +607,7 @@
 <LM>w#w-d1t2404-26</LM>
 </w.rf>
 <form>neznepříjemňovali</form>
-<tag lemma="znepříjemňovat_:T" src="auto" recommended="1">VpMP---XR-NA---</tag>
+<tag lemma="znepříjemňovat" src="auto" recommended="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m060-d-m-d1e2401-x2-punct-punct">
 <w.rf>
@@ -640,7 +640,7 @@
 <LM>w#w-d1t2409-4</LM>
 </w.rf>
 <form>vypršel</form>
-<tag lemma="vypršet" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="vypršet" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m060-d1t2409-5">
 <w.rf>
@@ -679,7 +679,7 @@
 <LM>w#w-d1t2411-3</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m060-d1t2411-4">
 <w.rf>
@@ -887,7 +887,7 @@
 <LM>w#w-d1t2421-7</LM>
 </w.rf>
 <form>povídalo</form>
-<tag lemma="povídat_:T" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="povídat" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m060-d-m-d1e2418-x2-punct-punct">
 <w.rf>

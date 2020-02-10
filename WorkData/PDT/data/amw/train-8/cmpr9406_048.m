@@ -208,8 +208,8 @@
 </w.rf>
 <form>zabydlel</form>
 <tag>
-<AM lemma="zabydlet" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="zabydlet_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="zabydlet" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="zabydlet" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-048-p4s1w8">
@@ -2698,7 +2698,7 @@
 <LM>w#w-cmpr9406-048-p10s3w6</LM>
 </w.rf>
 <form>stanoven</form>
-<tag lemma="stanovit_:W_^(určit)" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="stanovit_^(určit)" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-cmpr9406-048-p10s3w7">
 <src.rf>manual</src.rf>
@@ -3301,7 +3301,7 @@
 <LM>w#w-cmpr9406-048-p11s1w41</LM>
 </w.rf>
 <form>vyskytla</form>
-<tag lemma="vyskytnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="vyskytnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-cmpr9406-048-p11s1w42">
 <src.rf>manual</src.rf>
@@ -4341,7 +4341,7 @@
 <LM>w#w-cmpr9406-048-p19s2w27</LM>
 </w.rf>
 <form>objednal</form>
-<tag lemma="objednat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="objednat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9406-048-p19s2w28">
 <src.rf>manual</src.rf>
@@ -4461,7 +4461,7 @@
 <LM>w#w-cmpr9406-048-p19s2w42</LM>
 </w.rf>
 <form>poskytl</form>
-<tag lemma="poskytnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="poskytnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-cmpr9406-048-p19s2w43">
 <src.rf>manual</src.rf>
@@ -4615,7 +4615,7 @@
 <LM>w#w-cmpr9406-048-p20s1w13</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-cmpr9406-048-p20s1w14">
 <src.rf>manual</src.rf>
@@ -4752,8 +4752,8 @@
 </w.rf>
 <form>určen</form>
 <tag>
-<AM lemma="určit" src="orig">VsYS---XX-AP---</AM>
-<AM lemma="určit_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+<AM lemma="určit" src="orig">VsYS----X-APP--</AM>
+<AM lemma="určit" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-048-p20s2w13">

@@ -215,7 +215,7 @@
 <LM>w#w-mf930709-035-p2s1Bw16</LM>
 </w.rf>
 <form>zvolil</form>
-<tag lemma="zvolit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zvolit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-035-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -417,7 +417,7 @@
 <LM>w#w-mf930709-035-p2s3w3</LM>
 </w.rf>
 <form>oprávněn</form>
-<tag lemma="oprávnit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="oprávnit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf930709-035-p2s3w4">
 <src.rf>manual</src.rf>
@@ -719,7 +719,7 @@
 <LM>w#w-mf930709-035-p4s1Bw14</LM>
 </w.rf>
 <form>schválil</form>
-<tag lemma="schválit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="schválit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-035-p4s1Bw15">
 <src.rf>manual</src.rf>
@@ -1075,7 +1075,7 @@
 <LM>w#w-mf930709-035-p4s4w3</LM>
 </w.rf>
 <form>vyplacen</form>
-<tag lemma="vyplatit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="vyplatit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf930709-035-p4s4w4">
 <src.rf>manual</src.rf>

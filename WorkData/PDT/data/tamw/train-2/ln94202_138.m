@@ -59,7 +59,7 @@
 <LM>w#w-ln94202-138-p1s1Aw6</LM>
 </w.rf>
 <form>podílel</form>
-<tag lemma="podílet_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="podílet" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94202-138-p1s1Aw7">
 <src.rf>manual</src.rf>

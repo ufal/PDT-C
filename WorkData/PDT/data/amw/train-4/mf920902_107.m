@@ -71,7 +71,7 @@
 <form>sch</form>
 <tag>
 <AM lemma="sch-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="schnout" src="auto" recommended="1">VpYS---XR-AA--6</AM>
+<AM lemma="schnout" src="auto" recommended="1">VpYS----R-AAI-6</AM>
 <AM lemma="sch-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -115,7 +115,7 @@
 <LM>w#w-mf920902-107-p2s2w3</LM>
 </w.rf>
 <form>označil</form>
-<tag lemma="označit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="označit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-107-p2s2w4">
 <src.rf>manual</src.rf>
@@ -504,7 +504,7 @@
 <LM>w#w-mf920902-107-p2s3w29</LM>
 </w.rf>
 <form>dostavilo</form>
-<tag lemma="dostavit_:W_^(se,na_dané_místo)" src="auto" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="dostavit_^(se,na_dané_místo)" src="auto" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-107-p2s3w30">
 <src.rf>manual</src.rf>
@@ -785,7 +785,7 @@
 <LM>w#w-mf920902-107-p2s4Aw30</LM>
 </w.rf>
 <form>splňoval</form>
-<tag lemma="splňovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="splňovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920902-107-p2s4Aw31">
 <src.rf>manual</src.rf>
@@ -989,7 +989,7 @@
 <LM>w#w-mf920902-107-p2s5w11</LM>
 </w.rf>
 <form>zapomněli</form>
-<tag lemma="zapomenout" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zapomenout" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920902-107-p2s5w12">
 <src.rf>manual</src.rf>

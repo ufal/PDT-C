@@ -19,7 +19,7 @@
 <LM>w#w-ln95043-057-p1s1w1</LM>
 </w.rf>
 <form>Zastřelila</form>
-<tag lemma="zastřelit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zastřelit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95043-057-p1s1w2">
 <src.rf>manual</src.rf>
@@ -145,7 +145,7 @@
 <LM>w#w-ln95043-057-p3s1Bw6</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95043-057-p3s1Bw7">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <LM>w#w-ln95043-057-p3s2w4</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95043-057-p3s2w5">
 <src.rf>manual</src.rf>
@@ -467,7 +467,7 @@
 <LM>w#w-ln95043-057-p3s2w17</LM>
 </w.rf>
 <form>zemřel</form>
-<tag lemma="zemřít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zemřít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95043-057-p3s2w18">
 <src.rf>manual</src.rf>
@@ -541,7 +541,7 @@
 <LM>w#w-ln95043-057-p3s3w8</LM>
 </w.rf>
 <form>předcházelo</form>
-<tag lemma="předcházet_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="předcházet" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95043-057-p3s3w9">
 <src.rf>manual</src.rf>
@@ -639,7 +639,7 @@
 <LM>w#w-ln95043-057-p3s4w8</LM>
 </w.rf>
 <form>zadrželi</form>
-<tag lemma="zadržet" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zadržet" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95043-057-p3s4w9">
 <src.rf>manual</src.rf>
@@ -671,7 +671,7 @@
 <LM>w#w-ln95043-057-p3s4w12</LM>
 </w.rf>
 <form>obviněna</form>
-<tag lemma="obvinit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="obvinit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln95043-057-p3s4w13">
 <src.rf>manual</src.rf>

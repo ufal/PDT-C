@@ -197,7 +197,7 @@
 <LM>w#w-ln94208-55-p2s1Cw8</LM>
 </w.rf>
 <form>připraveno</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="připravit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94208-55-p2s1Cw9">
 <src.rf>manual</src.rf>
@@ -282,7 +282,7 @@
 <LM>w#w-ln94208-55-p2s2w1</LM>
 </w.rf>
 <form>Řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94208-55-p2s2w2">
 <src.rf>manual</src.rf>
@@ -606,7 +606,7 @@
 <LM>w#w-ln94208-55-p2s5w7</LM>
 </w.rf>
 <form>nezastával</form>
-<tag lemma="zastávat_:T_^(*4at)" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="zastávat_^(*4at)" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-ln94208-55-p2s5w8">
 <src.rf>manual</src.rf>
@@ -771,7 +771,7 @@
 <LM>w#w-ln94208-55-p2s6w16</LM>
 </w.rf>
 <form>lustrovány</form>
-<tag lemma="lustrovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="lustrovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln94208-55-p2s6w17">
 <src.rf>manual</src.rf>

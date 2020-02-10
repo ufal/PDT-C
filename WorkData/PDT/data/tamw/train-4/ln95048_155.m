@@ -86,8 +86,8 @@
 </w.rf>
 <form>vedly</form>
 <tag>
-<AM lemma="vést" src="auto">VpTP---XR-AA---</AM>
-<AM lemma="vést_:T" src="manual" selected="1">VpTP---XR-AA---</AM>
+<AM lemma="vést" src="auto">VpTP----R-AAI--</AM>
+<AM lemma="vést" src="manual" selected="1">VpTP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln95048-155-p2s1w9">
@@ -285,7 +285,7 @@
 <LM>w#w-ln95048-155-p2s2w12</LM>
 </w.rf>
 <form>nebyla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-ln95048-155-p2s2w13">
 <src.rf>manual</src.rf>
@@ -294,8 +294,8 @@
 </w.rf>
 <form>uplatněna</form>
 <tag>
-<AM lemma="uplatnit" src="orig">VsQW---XX-AP---</AM>
-<AM lemma="uplatnit_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+<AM lemma="uplatnit" src="orig">VsQW----X-APP--</AM>
+<AM lemma="uplatnit" src="manual" selected="1">VsQW----X-APP--</AM>
 </tag>
 </m>
 <m id="m-ln95048-155-p2s2w14">
@@ -437,7 +437,7 @@
 <LM>w#w-ln95048-155-p3s1w16</LM>
 </w.rf>
 <form>obnovila</form>
-<tag lemma="obnovit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="obnovit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95048-155-p3s1w17">
 <src.rf>manual</src.rf>
@@ -577,8 +577,8 @@
 </w.rf>
 <form>uzavřeny</form>
 <tag>
-<AM lemma="uzavřít" src="orig">VsTP---XX-AP---</AM>
-<AM lemma="uzavřít_:W" src="manual" selected="1">VsTP---XX-AP---</AM>
+<AM lemma="uzavřít" src="orig">VsTP----X-APP--</AM>
+<AM lemma="uzavřít" src="manual" selected="1">VsTP----X-APP--</AM>
 </tag>
 </m>
 <m id="m-ln95048-155-p3s1w34">

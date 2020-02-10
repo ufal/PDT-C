@@ -350,7 +350,7 @@
 <LM>w#w-lnd92258-008-p3s2w32</LM>
 </w.rf>
 <form>napsal</form>
-<tag lemma="napsat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="napsat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-008-p3s2w33">
 <src.rf>manual</src.rf>
@@ -697,7 +697,7 @@
 <LM>w#w-lnd92258-008-p3s3w25</LM>
 </w.rf>
 <form>připraveny</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="připravit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd92258-008-p3s3w26">
 <src.rf>manual</src.rf>
@@ -753,7 +753,7 @@
 <LM>w#w-lnd92258-008-p3s3w33</LM>
 </w.rf>
 <form>uchvátily</form>
-<tag lemma="uchvátit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="uchvátit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-008-p3s3w34">
 <src.rf>manual</src.rf>
@@ -1104,8 +1104,8 @@
 </w.rf>
 <form>uzavřel</form>
 <tag>
-<AM lemma="uzavřít" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="uzavřít_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="uzavřít" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="uzavřít" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92258-008-p3s6w3">
@@ -1437,7 +1437,7 @@
 <LM>w#w-lnd92258-008-p4s1w22</LM>
 </w.rf>
 <form>vyžadovaly</form>
-<tag lemma="vyžadovat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vyžadovat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd92258-008-p4s1w23">
 <src.rf>manual</src.rf>
@@ -1666,7 +1666,7 @@
 <LM>w#w-lnd92258-008-p4s2w25</LM>
 </w.rf>
 <form>Napsal</form>
-<tag lemma="napsat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="napsat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-008-p4s2w26">
 <src.rf>manual</src.rf>
@@ -1933,7 +1933,7 @@
 <LM>w#w-lnd92258-008-p4s3w22</LM>
 </w.rf>
 <form>přelstilo</form>
-<tag lemma="přelstít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="přelstít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-008-p4s3w23">
 <src.rf>manual</src.rf>

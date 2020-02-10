@@ -3031,7 +3031,7 @@
 </w.rf>
 <form>čili</form>
 <tag>
-<AM lemma="čít" src="auto">VpMP---XR-AA---</AM>
+<AM lemma="čít" src="auto">VpMP----R-AAI--</AM>
 <AM lemma="čili-1" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="čili-2_^(koření)" src="auto">NNNXX-----A----</AM>
 </tag>
@@ -3774,7 +3774,7 @@
 <LM>w#w-d1t2737-5</LM>
 </w.rf>
 <form>nechutnala</form>
-<tag lemma="chutnat_:T" src="auto" recommended="1">VpQW---XR-NA---</tag>
+<tag lemma="chutnat" src="auto" recommended="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m128-d1t2737-6">
 <w.rf>
@@ -3806,7 +3806,7 @@
 <LM>w#w-d1t2737-9</LM>
 </w.rf>
 <form>nedostalo</form>
-<tag lemma="dostat" src="auto" recommended="1">VpNS---XR-NA---</tag>
+<tag lemma="dostat" src="auto" recommended="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m128-d1t2737-10">
 <w.rf>
@@ -4035,7 +4035,7 @@
 <LM>w#w-d1t2757-1</LM>
 </w.rf>
 <form>Řekla</form>
-<tag lemma="říci" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="říci" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m128-d1t2757-2">
 <w.rf>
@@ -4550,7 +4550,7 @@
 <LM>w#w-d1t2783-2</LM>
 </w.rf>
 <form>nedržel</form>
-<tag lemma="držet" src="auto" recommended="1">VpYS---XR-NA---</tag>
+<tag lemma="držet" src="auto" recommended="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m128-d1t2783-3">
 <w.rf>

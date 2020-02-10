@@ -68,7 +68,7 @@
 <LM>w#w-wsj0418-001-p1s0W6</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0418-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -143,7 +143,7 @@
 <tag>
 <AM lemma="podnik" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="podnik" src="auto" selected="1">NNIS4-----A----</AM>
-<AM lemma="podniknout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="podniknout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-wsj0418-001-p1s0W12-Ta">
@@ -434,7 +434,7 @@
 <LM>w#w-wsj0418-001-p1s1W4</LM>
 </w.rf>
 <form>kapitalizována</form>
-<tag lemma="kapitalizovat" src="auto" recommended="1">VsQW---XX-API--</tag>
+<tag lemma="kapitalizovat" src="auto" recommended="1">VsQW----X-API--</tag>
 </m>
 <m id="m-wsj0418-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -591,8 +591,8 @@
 </w.rf>
 <form>vyváženy</form>
 <tag>
-<AM lemma="vyvážet_^(zboží_přes_hranice)" src="auto" recommended="1">VsTP---XX-API--</AM>
-<AM lemma="vyvážit_^(do_rovnováhy)" src="auto">VsTP---XX-APP--</AM>
+<AM lemma="vyvážet_^(zboží_přes_hranice)" src="auto" recommended="1">VsTP----X-API--</AM>
+<AM lemma="vyvážit_^(do_rovnováhy)" src="auto">VsTP----X-APP--</AM>
 </tag>
 </m>
 <m id="m-wsj0418-001-p1s2W10-Ta">
@@ -809,7 +809,7 @@
 <tag>
 <AM lemma="trh" src="auto">NNIS1-----A----</AM>
 <AM lemma="trh" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="trhnout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="trhnout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-wsj0418-001-p1s3W9-Ta">

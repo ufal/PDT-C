@@ -69,7 +69,7 @@
 <LM>w#w-ln94208-117-p26s5w5</LM>
 </w.rf>
 <form>probojovaly</form>
-<tag lemma="probojovat_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="probojovat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94208-117-p26s5w6">
 <src.rf>manual</src.rf>
@@ -159,7 +159,7 @@
 <LM>w#w-ln94208-117-p30s1w2</LM>
 </w.rf>
 <form>Uhodli</form>
-<tag lemma="uhodnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="uhodnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-ln94208-117-p30s1w3">
 <src.rf>manual</src.rf>

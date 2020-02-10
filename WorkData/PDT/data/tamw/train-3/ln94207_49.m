@@ -77,7 +77,7 @@
 <LM>w#w-ln94207-49-p2s1w5</LM>
 </w.rf>
 <form>podepsali</form>
-<tag lemma="podepsat" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="podepsat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94207-49-p2s1w6">
 <src.rf>manual</src.rf>

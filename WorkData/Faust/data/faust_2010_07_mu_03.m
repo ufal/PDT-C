@@ -1085,7 +1085,7 @@
 </w.rf>
 <form>probráno</form>
 <tag>
-<AM lemma="probrat" recommended="1">VsNS---XX-AP---</AM>
+<AM lemma="probrat" recommended="1">VsNS----X-APP--</AM>
 <AM lemma="probrat" src="manual" selected="1">VsNS----X-APP--</AM>
 </tag>
 </m>
@@ -1409,7 +1409,7 @@
 </w.rf>
 <form>spojila</form>
 <tag>
-<AM lemma="spojit_:W" recommended="1">VpQW---XR-AA---</AM>
+<AM lemma="spojit" recommended="1">VpQW----R-AAP--</AM>
 <AM lemma="spojit" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
@@ -1736,7 +1736,7 @@
 </w.rf>
 <form>Chtěl</form>
 <tag>
-<AM lemma="chtít" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="chtít" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="chtít" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
@@ -1853,7 +1853,7 @@
 </w.rf>
 <form>Přišel</form>
 <tag>
-<AM lemma="přijít" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="přijít" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="přijít" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
@@ -1900,7 +1900,7 @@
 </w.rf>
 <form>připadal</form>
 <tag>
-<AM lemma="připadat_:T" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="připadat" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="připadat" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
@@ -2848,7 +2848,7 @@
 </w.rf>
 <form>dovolil</form>
 <tag>
-<AM lemma="dovolit_:W" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="dovolit" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="dovolit" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
@@ -3114,7 +3114,7 @@
 </w.rf>
 <form>dalo</form>
 <tag>
-<AM lemma="dát" recommended="1">VpNS---XR-AA---</AM>
+<AM lemma="dát" recommended="1">VpNS----R-AAP--</AM>
 <AM lemma=" dát-2_^(dá_se_očekávat)" src="manual">VpNS----R-AAI--</AM>
 <AM lemma="dát-2_^(dá_se_očekávat)" src="manual" selected="1">VpNS----R-AAI--</AM>
 </tag>
@@ -3805,7 +3805,7 @@
 </w.rf>
 <form>chodili</form>
 <tag>
-<AM lemma="chodit_:T" recommended="1">VpMP---XR-AA---</AM>
+<AM lemma="chodit" recommended="1">VpMP----R-AAI--</AM>
 <AM lemma="chodit" src="manual" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
@@ -4085,8 +4085,8 @@
 </w.rf>
 <form>měly</form>
 <tag>
-<AM lemma="mít" recommended="1">VpTP---XR-AA---</AM>
-<AM lemma="mít" src="manual">VpTP---XR-AAI--</AM>
+<AM lemma="mít" recommended="1">VpTP----R-AAI--</AM>
+<AM lemma="mít" src="manual">VpTP----R-AAI--</AM>
 <AM lemma="mít" src="manual" selected="1">VpTP----R-AAI--</AM>
 </tag>
 </m>
@@ -4097,7 +4097,7 @@
 <form>přejet</form>
 <tag>
 <AM lemma="přejet_^(např._autem)" recommended="1">Vf--------A-P--</AM>
-<AM lemma="přejet_^(např._autem)">VsYS---XX-AP---</AM>
+<AM lemma="přejet_^(např._autem)">VsYS----X-APP--</AM>
 <AM lemma="přejet_^(např._autem)" src="manual" selected="1">Vf--------A-P--</AM>
 </tag>
 </m>
@@ -4327,7 +4327,7 @@
 </w.rf>
 <form>odkláněny</form>
 <tag>
-<AM lemma="odklánět_:T" recommended="1">VsTP---XX-AP---</AM>
+<AM lemma="odklánět" recommended="1">VsTP----X-API--</AM>
 <AM lemma="odklánět" src="manual" selected="1">VsTP----X-API--</AM>
 </tag>
 </m>
@@ -4459,7 +4459,7 @@
 </w.rf>
 <form>hráli</form>
 <tag>
-<AM lemma="hrát" recommended="1">VpMP---XR-AA---</AM>
+<AM lemma="hrát" recommended="1">VpMP----R-AAI--</AM>
 <AM lemma="hrát" src="manual" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
@@ -4522,7 +4522,7 @@
 </w.rf>
 <form>udělal</form>
 <tag>
-<AM lemma="udělat_:W" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="udělat" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="udělat" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
@@ -4844,7 +4844,7 @@
 </w.rf>
 <form>pohlcen</form>
 <tag>
-<AM lemma="pohltit_:W" recommended="1">VsYS---XX-AP---</AM>
+<AM lemma="pohltit" recommended="1">VsYS----X-APP--</AM>
 <AM lemma="pohltit" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
@@ -5009,7 +5009,7 @@
 </w.rf>
 <form>Volával</form>
 <tag>
-<AM lemma="volávat_:T_^(*4at)" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="volávat_^(*4at)" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="volávat_^(*4at)" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>

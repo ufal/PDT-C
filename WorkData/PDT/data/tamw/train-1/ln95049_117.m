@@ -78,7 +78,7 @@
 <LM>w#w-ln95049-117-p1s1w8</LM>
 </w.rf>
 <form>převzali</form>
-<tag lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95049-117-p1s1w9">
 <src.rf>manual</src.rf>
@@ -243,7 +243,7 @@
 <LM>w#w-ln95049-117-p1s2w3</LM>
 </w.rf>
 <form>uváděl</form>
-<tag lemma="uvádět_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvádět" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95049-117-p1s2w4">
 <src.rf>manual</src.rf>

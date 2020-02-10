@@ -59,7 +59,7 @@
 <LM>w#w-ln95043-108-p1s1w6</LM>
 </w.rf>
 <form>zabydlely</form>
-<tag lemma="zabydlet" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zabydlet" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 </s>
 <s id="m-ln95043-108-p2s1A">
@@ -344,7 +344,7 @@
 <LM>w#w-ln95043-108-p2s2w17</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95043-108-p2s2w18">
 <src.rf>manual</src.rf>

@@ -35,7 +35,7 @@
 <LM>w#w-mf930703-133-p1s1w3</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930703-133-p1s1w4">
 <src.rf>manual</src.rf>
@@ -43,7 +43,7 @@
 <LM>w#w-mf930703-133-p1s1w4</LM>
 </w.rf>
 <form>obviněny</form>
-<tag lemma="obvinit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="obvinit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-mf930703-133-p1s1w5">
 <src.rf>manual</src.rf>
@@ -141,7 +141,7 @@
 <LM>w#w-mf930703-133-p2s1w7</LM>
 </w.rf>
 <form>vystavováni</form>
-<tag lemma="vystavovat_:T" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="vystavovat" src="orig" selected="1">VsMP----X-API--</tag>
 </m>
 <m id="m-mf930703-133-p2s1w8">
 <src.rf>manual</src.rf>
@@ -181,7 +181,7 @@
 <LM>w#w-mf930703-133-p2s1w12</LM>
 </w.rf>
 <form>přejeli</form>
-<tag lemma="přejet_^(např._autem)" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přejet_^(např._autem)" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930703-133-p2s1w13">
 <src.rf>manual</src.rf>
@@ -303,7 +303,7 @@
 <LM>w#w-mf930703-133-p2s2w9</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-133-p2s2w10">
 <src.rf>manual</src.rf>
@@ -891,7 +891,7 @@
 <LM>w#w-mf930703-133-p3s2w20</LM>
 </w.rf>
 <form>změnilo</form>
-<tag lemma="změnit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="změnit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-133-p3s2w21">
 <src.rf>manual</src.rf>
@@ -973,7 +973,7 @@
 <LM>w#w-mf930703-133-p3s3w3</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930703-133-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1045,7 +1045,7 @@
 <LM>w#w-mf930703-133-p3s3w12</LM>
 </w.rf>
 <form>začal</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-133-p3s3w13">
 <src.rf>manual</src.rf>
@@ -1061,7 +1061,7 @@
 <LM>w#w-mf930703-133-p3s3w14</LM>
 </w.rf>
 <form>uplatňován</form>
-<tag lemma="uplatňovat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="uplatňovat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-mf930703-133-p3s3w15">
 <src.rf>manual</src.rf>

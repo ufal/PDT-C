@@ -340,7 +340,7 @@
 <LM>w#w-wsj1685-001-p1s1W3</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="mít" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1685-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -515,7 +515,7 @@
 </w.rf>
 <form>žil</form>
 <tag>
-<AM lemma="žít" src="auto" recommended="1">VpYS---XR-AAI--</AM>
+<AM lemma="žít" src="auto" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="žíla" src="auto">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -643,7 +643,7 @@
 <LM>w#w-wsj1685-001-p1s2W16</LM>
 </w.rf>
 <form>viděl</form>
-<tag lemma="vidět" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="vidět" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1685-001-p1s2W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -673,7 +673,7 @@
 <LM>w#w-wsj1685-001-p1s2W19</LM>
 </w.rf>
 <form>cítil</form>
-<tag lemma="cítit" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="cítit" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1685-001-p1s2W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1488,7 +1488,7 @@
 <LM>w#w-wsj1685-001-p1s5W22</LM>
 </w.rf>
 <form>přáli</form>
-<tag lemma="přát" src="auto" recommended="1">VpMP---XR-AAI--</tag>
+<tag lemma="přát" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-wsj1685-001-p1s5W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1875,7 +1875,7 @@
 <LM>w#w-wsj1685-001-p1s6W30</LM>
 </w.rf>
 <form>postaven</form>
-<tag lemma="postavit" src="auto" recommended="1">VsYS---XX-APP--</tag>
+<tag lemma="postavit" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj1685-001-p1s6W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2404,7 +2404,7 @@
 <LM>w#w-wsj1685-001-p1s7W24</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj1685-001-p1s7W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2434,7 +2434,7 @@
 <LM>w#w-wsj1685-001-p1s7W27</LM>
 </w.rf>
 <form>likvidovány</form>
-<tag lemma="likvidovat" src="auto" recommended="1">VsTP---XX-APB--</tag>
+<tag lemma="likvidovat" src="auto" recommended="1">VsTP----X-APB--</tag>
 </m>
 <m id="m-wsj1685-001-p1s7W28-Ta">
 <src.rf>tagger-a</src.rf>

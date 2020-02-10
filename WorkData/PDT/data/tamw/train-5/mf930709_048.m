@@ -185,7 +185,7 @@
 <LM>w#w-mf930709-048-p2s2w4</LM>
 </w.rf>
 <form>citoval</form>
-<tag lemma="citovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="citovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930709-048-p2s2w5">
 <src.rf>manual</src.rf>
@@ -643,7 +643,7 @@
 <LM>w#w-mf930709-048-p2s4w13</LM>
 </w.rf>
 <form>nepodařilo</form>
-<tag lemma="podařit_:W" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="podařit" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-mf930709-048-p2s4w14">
 <src.rf>manual</src.rf>
@@ -809,7 +809,7 @@
 <LM>w#w-mf930709-048-p2s5w5</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930709-048-p2s5w6">
 <src.rf>manual</src.rf>

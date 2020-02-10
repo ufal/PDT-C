@@ -800,7 +800,7 @@
 <LM>w#w-wsj1872-001-p1s2W19</LM>
 </w.rf>
 <form>doručeny</form>
-<tag lemma="doručit" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="doručit" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj1872-001-p1s2W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1099,7 +1099,7 @@
 <LM>w#w-wsj1872-001-p1s3W13</LM>
 </w.rf>
 <form>vstoupil</form>
-<tag lemma="vstoupit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="vstoupit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1872-001-p1s3W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1280,7 +1280,7 @@
 <LM>w#w-wsj1872-001-p1s4W2</LM>
 </w.rf>
 <form>schválil</form>
-<tag lemma="schválit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="schválit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1872-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1311,7 +1311,7 @@
 <LM>w#w-wsj1872-001-p1s4W5</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-wsj1872-001-p1s4W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1327,7 +1327,7 @@
 <LM>w#w-wsj1872-001-p1s4W7</LM>
 </w.rf>
 <form>půjčeno</form>
-<tag lemma="půjčit" src="auto" recommended="1">VsNS---XX-APP--</tag>
+<tag lemma="půjčit" src="auto" recommended="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-wsj1872-001-p1s4W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1483,7 +1483,7 @@
 <LM>w#w-wsj1872-001-p1s5W8</LM>
 </w.rf>
 <form>vypůjčilo</form>
-<tag lemma="vypůjčit" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="vypůjčit" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj1872-001-p1s5W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1561,7 +1561,7 @@
 <LM>w#w-wsj1872-001-p1s6W5</LM>
 </w.rf>
 <form>stanoveno</form>
-<tag lemma="stanovit_^(určit)" src="auto" recommended="1">VsNS---XX-APP--</tag>
+<tag lemma="stanovit_^(určit)" src="auto" recommended="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-wsj1872-001-p1s6W6-Ta">
 <src.rf>tagger-a</src.rf>

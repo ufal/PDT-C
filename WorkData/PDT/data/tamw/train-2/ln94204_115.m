@@ -20,7 +20,7 @@
 </w.rf>
 <form>Nalezeno</form>
 <tag>
-<AM lemma="naleznout" src="orig">VsNS---XX-AP---</AM>
+<AM lemma="naleznout" src="orig">VsNS----X-API--</AM>
 <AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsNS---XX-AP---</AM>
 </tag>
 </m>
@@ -227,7 +227,7 @@
 <LM>w#w-ln94204-115-p2s1Bw19</LM>
 </w.rf>
 <form>ztratil</form>
-<tag lemma="ztratit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="ztratit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94204-115-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -299,7 +299,7 @@
 <LM>w#w-ln94204-115-p2s1Bw28</LM>
 </w.rf>
 <form>přinesla</form>
-<tag lemma="přinést" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="přinést" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94204-115-p2s1Bw29">
 <src.rf>manual</src.rf>
@@ -484,7 +484,7 @@
 <LM>w#w-ln94204-115-p2s2w20</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94204-115-p2s2w21">
 <src.rf>manual</src.rf>
@@ -601,7 +601,7 @@
 <LM>w#w-ln94204-115-p2s3w8</LM>
 </w.rf>
 <form>zastihla</form>
-<tag lemma="zastihnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="zastihnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln94204-115-p2s3w9">
 <src.rf>manual</src.rf>
@@ -681,7 +681,7 @@
 <LM>w#w-ln94204-115-p2s3w18</LM>
 </w.rf>
 <form>pátralo</form>
-<tag lemma="pátrat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="pátrat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94204-115-p2s3w19">
 <src.rf>manual</src.rf>

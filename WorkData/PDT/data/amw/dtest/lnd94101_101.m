@@ -442,7 +442,7 @@
 <LM>w#w-lnd94101-101-p1s3w4</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94101-101-p1s3w5">
 <src.rf>manual</src.rf>
@@ -708,8 +708,8 @@
 </w.rf>
 <form>vyhrál</form>
 <tag>
-<AM lemma="vyhrát" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="vyhrát_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="vyhrát" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="vyhrát" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd94101-101-p1s3w37">
@@ -913,8 +913,8 @@
 </w.rf>
 <form>uzavřel</form>
 <tag>
-<AM lemma="uzavřít" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="uzavřít_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="uzavřít" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="uzavřít" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd94101-101-p1s4w5">
@@ -1275,7 +1275,7 @@
 <LM>w#w-lnd94101-101-p1s6w7</LM>
 </w.rf>
 <form>nesplnil</form>
-<tag lemma="splnit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="splnit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-lnd94101-101-p1s6w8">
 <src.rf>manual</src.rf>
@@ -1379,7 +1379,7 @@
 <LM>w#w-lnd94101-101-p1s6w20</LM>
 </w.rf>
 <form>vrátil</form>
-<tag lemma="vrátit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vrátit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-101-p1s6w21">
 <src.rf>manual</src.rf>
@@ -1880,8 +1880,8 @@
 </w.rf>
 <form>dojeli</form>
 <tag>
-<AM lemma="dojet" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="dojet_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+<AM lemma="dojet" src="orig">VpMP----R-AAP--</AM>
+<AM lemma="dojet" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd94101-101-p1s9w27">
@@ -2076,7 +2076,7 @@
 <LM>w#w-lnd94101-101-p1s10w17</LM>
 </w.rf>
 <form>nesplnilo</form>
-<tag lemma="splnit_:W" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="splnit" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-lnd94101-101-p1s10w18">
 <src.rf>manual</src.rf>
@@ -2190,7 +2190,7 @@
 <LM>w#w-lnd94101-101-p1s11w13</LM>
 </w.rf>
 <form>zranil</form>
-<tag lemma="zranit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zranit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-101-p1s11w14">
 <src.rf>manual</src.rf>
@@ -2364,7 +2364,7 @@
 <LM>w#w-lnd94101-101-p1s12w14</LM>
 </w.rf>
 <form>nastoupil</form>
-<tag lemma="nastoupit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nastoupit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-101-p1s12w15">
 <src.rf>manual</src.rf>
@@ -2942,7 +2942,7 @@
 <LM>w#w-lnd94101-101-p1s16w13</LM>
 </w.rf>
 <form>havaroval</form>
-<tag lemma="havarovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="havarovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-lnd94101-101-p1s16w14">
 <src.rf>manual</src.rf>
@@ -2966,7 +2966,7 @@
 <LM>w#w-lnd94101-101-p1s16w16</LM>
 </w.rf>
 <form>ztratil</form>
-<tag lemma="ztratit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="ztratit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-101-p1s16w17">
 <src.rf>manual</src.rf>
@@ -3105,7 +3105,7 @@
 <LM>w#w-lnd94101-101-p1s17w4</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94101-101-p1s17w5">
 <src.rf>manual</src.rf>
@@ -3113,7 +3113,7 @@
 <LM>w#w-lnd94101-101-p1s17w5</LM>
 </w.rf>
 <form>vyproštěn</form>
-<tag lemma="vyprostit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="vyprostit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd94101-101-p1s17w6">
 <src.rf>manual</src.rf>
@@ -3145,7 +3145,7 @@
 <LM>w#w-lnd94101-101-p1s17w9</LM>
 </w.rf>
 <form>dopraven</form>
-<tag lemma="dopravit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="dopravit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd94101-101-p1s17w10">
 <src.rf>manual</src.rf>

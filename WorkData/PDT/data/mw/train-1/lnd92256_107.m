@@ -36,8 +36,8 @@
 </w.rf>
 <form>vyhrály</form>
 <tag>
-<AM lemma="vyhrát" src="orig">VpTP---XR-AA---</AM>
-<AM lemma="vyhrát_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+<AM lemma="vyhrát" src="orig">VpTP----R-AAP--</AM>
+<AM lemma="vyhrát" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>
 </s>
@@ -263,7 +263,7 @@
 <LM>w#w-lnd92256-107-p2s3w9</LM>
 </w.rf>
 <form>zdolaly</form>
-<tag lemma="zdolat_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zdolat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-107-p2s3w10">
 <src.rf>manual</src.rf>
@@ -417,7 +417,7 @@
 <LM>w#w-lnd92256-107-p2s4w3</LM>
 </w.rf>
 <form>vsítil</form>
-<tag lemma="vsítit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vsítit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-107-p2s4w4">
 <src.rf>manual</src.rf>
@@ -556,7 +556,7 @@
 <LM>w#w-lnd92256-107-p2s4w20</LM>
 </w.rf>
 <form>přidal</form>
-<tag lemma="přidat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přidat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-107-p2s4w21">
 <src.rf>manual</src.rf>

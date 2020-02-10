@@ -374,7 +374,7 @@
 <LM>w#w-ln95043-072-p2s1Bw29</LM>
 </w.rf>
 <form>zjistily</form>
-<tag lemma="zjistit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zjistit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95043-072-p2s1Bw30">
 <src.rf>manual</src.rf>
@@ -590,7 +590,7 @@
 <LM>w#w-ln95043-072-p3s1w20</LM>
 </w.rf>
 <form>předložen</form>
-<tag lemma="předložit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="předložit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95043-072-p3s1w21">
 <src.rf>manual</src.rf>
@@ -1229,8 +1229,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95043-072-p5s2w18">
@@ -1423,7 +1423,7 @@
 <LM>w#w-ln95043-072-p5s3w5</LM>
 </w.rf>
 <form>umožnila</form>
-<tag lemma="umožnit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="umožnit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95043-072-p5s3w6">
 <src.rf>manual</src.rf>
@@ -1474,7 +1474,7 @@
 <LM>w#w-ln95043-072-p5s3w12</LM>
 </w.rf>
 <form>dohodly</form>
-<tag lemma="dohodnout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="dohodnout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-ln95043-072-p5s3w13">
 <src.rf>manual</src.rf>
@@ -1730,7 +1730,7 @@
 <LM>w#w-ln95043-072-p5s4w4</LM>
 </w.rf>
 <form>odmítl</form>
-<tag lemma="odmítnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="odmítnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln95043-072-p5s4w5">
 <src.rf>manual</src.rf>
@@ -2271,7 +2271,7 @@
 <LM>w#w-ln95043-072-p5s6w34</LM>
 </w.rf>
 <form>prodloužil</form>
-<tag lemma="prodloužit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prodloužit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95043-072-p5s6w35">
 <src.rf>manual</src.rf>

@@ -50,7 +50,7 @@
 <LM>w#w-wsj0154-001-p1s0W4</LM>
 </w.rf>
 <form>řekla</form>
-<tag lemma="říci" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0154-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -77,7 +77,7 @@
 <LM>w#w-wsj0154-001-p1s0W7</LM>
 </w.rf>
 <form>snížila</form>
-<tag lemma="snížit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="snížit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0154-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -508,7 +508,7 @@
 <LM>w#w-wsj0154-001-p1s1W21</LM>
 </w.rf>
 <form>řekla</form>
-<tag lemma="říci" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0154-001-p1s1W22-Ta">
 <src.rf>tagger-a</src.rf>

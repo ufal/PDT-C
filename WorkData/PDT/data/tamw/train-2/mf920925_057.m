@@ -93,7 +93,7 @@
 <LM>w#w-mf920925-057-p2s1w5</LM>
 </w.rf>
 <form>vytvořil</form>
-<tag lemma="vytvořit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vytvořit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920925-057-p2s1w6">
 <src.rf>manual</src.rf>
@@ -207,7 +207,7 @@
 <LM>w#w-mf920925-057-p2s2w1</LM>
 </w.rf>
 <form>Vymazal</form>
-<tag lemma="vymazat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vymazat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920925-057-p2s2w2">
 <src.rf>manual</src.rf>
@@ -314,8 +314,8 @@
 </w.rf>
 <form>začala</form>
 <tag>
-<AM lemma="začít-1_^(začnout)" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="začít-1_^(začnout)" src="auto">VpQW----R-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920925-057-p2s3w3">
@@ -415,7 +415,7 @@
 <LM>w#w-mf920925-057-p2s4w3</LM>
 </w.rf>
 <form>startoval</form>
-<tag lemma="startovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="startovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920925-057-p2s4w4">
 <src.rf>manual</src.rf>
@@ -782,7 +782,7 @@
 <LM>w#w-mf920925-057-p2s8w5</LM>
 </w.rf>
 <form>neudělal</form>
-<tag lemma="udělat_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="udělat" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-mf920925-057-p2s8w6">
 <src.rf>manual</src.rf>
@@ -822,7 +822,7 @@
 <LM>w#w-mf920925-057-p2s8w10</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920925-057-p2s8w11">
 <src.rf>manual</src.rf>
@@ -1074,7 +1074,7 @@
 <LM>w#w-mf920925-057-p2s10Aw9</LM>
 </w.rf>
 <form>neztratil</form>
-<tag lemma="ztratit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="ztratit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-mf920925-057-p2s10Aw10">
 <src.rf>manual</src.rf>
@@ -1512,7 +1512,7 @@
 <LM>w#w-mf920925-057-p2s14w4</LM>
 </w.rf>
 <form>zdolal</form>
-<tag lemma="zdolat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zdolat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920925-057-p2s14w5">
 <src.rf>manual</src.rf>

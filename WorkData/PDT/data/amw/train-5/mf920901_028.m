@@ -280,7 +280,7 @@
 <LM>w#w-mf920901-028-p2s1w29</LM>
 </w.rf>
 <form>otevřena</form>
-<tag lemma="otevřít" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="otevřít" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf920901-028-p2s1w30">
 <src.rf>manual</src.rf>
@@ -1106,7 +1106,7 @@
 <LM>w#w-mf920901-028-p3s2w45</LM>
 </w.rf>
 <form>instalována</form>
-<tag lemma="instalovat_:T_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="instalovat" src="orig" selected="1">VsQW----X-APB--</tag>
 </m>
 <m id="m-mf920901-028-p3s2w46">
 <src.rf>manual</src.rf>
@@ -2444,7 +2444,7 @@
 <LM>w#w-mf920901-028-p4s14w7</LM>
 </w.rf>
 <form>činívali</form>
-<tag lemma="činívat_:T_^(*4it)" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="činívat_^(*4it)" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf920901-028-p4s14w8">
 <src.rf>manual</src.rf>
@@ -2478,7 +2478,7 @@
 <LM>w#w-mf920901-028-p5s1w3</LM>
 </w.rf>
 <form>otevřena</form>
-<tag lemma="otevřít" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="otevřít" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf920901-028-p5s1w4">
 <src.rf>manual</src.rf>

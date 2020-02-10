@@ -174,7 +174,7 @@
 <LM>w#w-mf920925-079-p2s2w10</LM>
 </w.rf>
 <form>způsobili</form>
-<tag lemma="způsobit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="způsobit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920925-079-p2s2w11">
 <src.rf>manual</src.rf>
@@ -230,7 +230,7 @@
 <LM>w#w-mf920925-079-p2s2w17</LM>
 </w.rf>
 <form>vykradli</form>
-<tag lemma="vykrást" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vykrást" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920925-079-p2s2w18">
 <src.rf>manual</src.rf>
@@ -475,7 +475,7 @@
 <LM>w#w-mf920925-079-p2s3w22</LM>
 </w.rf>
 <form>odnesl</form>
-<tag lemma="odnést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odnést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920925-079-p2s3w23">
 <src.rf>manual</src.rf>

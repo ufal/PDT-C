@@ -12,7 +12,7 @@
 <LM>w#w-d1t3692-2</LM>
 </w.rf>
 <form>Usídlili</form>
-<tag lemma="usídlit_:W" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="usídlit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m058-d1t3692-3">
 <w.rf>
@@ -131,7 +131,7 @@
 <LM>w#w-d1t3702-5</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m058-d1t3702-4">
 <w.rf>
@@ -317,7 +317,7 @@
 <LM>w#w-d1t3718-3</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m058-d1t3718-4">
 <w.rf>
@@ -535,7 +535,7 @@
 <LM>w#w-d1t3730-7</LM>
 </w.rf>
 <form>povídalo</form>
-<tag lemma="povídat_:T" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="povídat" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m058-d1e3727-x2-316">
 <w.rf>

@@ -67,7 +67,7 @@
 <LM>w#w-mf920924-135-p1s1w7</LM>
 </w.rf>
 <form>promluvil</form>
-<tag lemma="promluvit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="promluvit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920924-135-p1s1w8">
 <src.rf>manual</src.rf>

@@ -125,7 +125,7 @@
 <LM>w#w-ln95040-069-p2s1w10</LM>
 </w.rf>
 <form>projednala</form>
-<tag lemma="projednat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="projednat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95040-069-p2s1w11">
 <src.rf>manual</src.rf>
@@ -165,7 +165,7 @@
 <LM>w#w-ln95040-069-p2s1w15</LM>
 </w.rf>
 <form>vyvolal</form>
-<tag lemma="vyvolat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyvolat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-069-p2s1w16">
 <src.rf>manual</src.rf>
@@ -1304,7 +1304,7 @@
 <LM>w#w-ln95040-069-p3s3w32</LM>
 </w.rf>
 <form>věnovaly</form>
-<tag lemma="věnovat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="věnovat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95040-069-p3s3w33">
 <src.rf>manual</src.rf>
@@ -1676,7 +1676,7 @@
 <LM>w#w-ln95040-069-p4s3w3</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95040-069-p4s3w4">
 <src.rf>manual</src.rf>
@@ -2295,7 +2295,7 @@
 <LM>w#w-ln95040-069-p6s1w15</LM>
 </w.rf>
 <form>pověřen</form>
-<tag lemma="pověřit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="pověřit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95040-069-p6s1w16">
 <src.rf>manual</src.rf>
@@ -2800,7 +2800,7 @@
 <LM>w#w-ln95040-069-p6s4w6</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95040-069-p6s4w7">
 <src.rf>manual</src.rf>
@@ -3437,8 +3437,8 @@
 </w.rf>
 <form>provedla</form>
 <tag>
-<AM lemma="provést" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="provést_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="provést" src="orig">VpQW----R-AAP--</AM>
+<AM lemma="provést" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95040-069-p8s2w8">
@@ -4068,7 +4068,7 @@
 <LM>w#w-ln95040-069-p9s1w8</LM>
 </w.rf>
 <form>zvážil</form>
-<tag lemma="zvážit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zvážit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-069-p9s1w9">
 <src.rf>manual</src.rf>

@@ -1950,7 +1950,7 @@
 <LM>w#w-cmpr9406-055-p7s1Bw14</LM>
 </w.rf>
 <form>zvládly</form>
-<tag lemma="zvládnout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="zvládnout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-cmpr9406-055-p7s1Bw15">
 <src.rf>manual</src.rf>

@@ -115,7 +115,7 @@
 <LM>w#w-lnd91303-076-p1s1w13</LM>
 </w.rf>
 <form>přáli</form>
-<tag lemma="přát" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přát" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-076-p1s1w14">
 <src.rf>manual</src.rf>

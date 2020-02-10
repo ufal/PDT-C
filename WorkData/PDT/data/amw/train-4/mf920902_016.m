@@ -1016,7 +1016,7 @@
 <LM>w#w-mf920902-016-p2s4w26</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920902-016-p2s4w27">
 <src.rf>manual</src.rf>
@@ -1224,7 +1224,7 @@
 <LM>w#w-mf920902-016-p2s6w7</LM>
 </w.rf>
 <form>prodávána</form>
-<tag lemma="prodávat_:T_^(*4at)" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="prodávat_^(*4at)" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-mf920902-016-p2s6w8">
 <src.rf>manual</src.rf>
@@ -1404,7 +1404,7 @@
 <LM>w#w-mf920902-016-p2s7w5</LM>
 </w.rf>
 <form>zavedena</form>
-<tag lemma="zavést" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zavést" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf920902-016-p2s7w6">
 <src.rf>manual</src.rf>

@@ -524,7 +524,7 @@
 </w.rf>
 <form>bylo</form>
 <tag>
-<AM lemma="být" recommended="1">VpNS---XR-AA---</AM>
+<AM lemma="být" recommended="1">VpNS----R-AAI--</AM>
 <AM lemma="být" src="manual" selected="1">VpNS----R-AAI--</AM>
 </tag>
 </m>
@@ -997,7 +997,7 @@
 </w.rf>
 <form>podívali</form>
 <tag>
-<AM lemma="podívat" recommended="1">VpMP---XR-AA---</AM>
+<AM lemma="podívat" recommended="1">VpMP----R-AAP--</AM>
 <AM lemma="podívat" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
@@ -1494,7 +1494,7 @@
 </w.rf>
 <form>Slyšel</form>
 <tag>
-<AM lemma="slyšet" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="slyšet" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="slyšet" src="manual">VpYS----R-AAI--</AM>
 <AM lemma="slyšet" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
@@ -1846,7 +1846,7 @@
 <LM>w#w-mu_16-SCzechM-p1663-s1-w3</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="být" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="mu_16-SCzechM-p1663-s1-w4">
 <w.rf>
@@ -1854,7 +1854,7 @@
 </w.rf>
 <form>aktualizována</form>
 <tag>
-<AM lemma="aktualizovat_:T_:W" recommended="1">VsQW---XX-AP---</AM>
+<AM lemma="aktualizovat" recommended="1">VsQW----X-APB--</AM>
 <AM lemma="aktualizovat" src="manual" selected="1">VsQW----X-APB--</AM>
 </tag>
 </m>
@@ -1879,7 +1879,7 @@
 </w.rf>
 <form>vytvořena</form>
 <tag>
-<AM lemma="vytvořit_:W" recommended="1">VsQW---XX-AP---</AM>
+<AM lemma="vytvořit" recommended="1">VsQW----X-APP--</AM>
 <AM lemma="vytvořit" src="manual" selected="1">VsQW----X-APP--</AM>
 </tag>
 </m>
@@ -2103,7 +2103,7 @@
 </w.rf>
 <form>provedeno</form>
 <tag>
-<AM lemma="provést" recommended="1">VsNS---XX-AP---</AM>
+<AM lemma="provést" recommended="1">VsNS----X-APP--</AM>
 <AM lemma="provést" src="manual" selected="1">VsNS----X-APP--</AM>
 </tag>
 </m>
@@ -2867,8 +2867,8 @@
 </w.rf>
 <form>musel</form>
 <tag>
-<AM lemma="muset" recommended="1">VpYS---XR-AA---</AM>
-<AM lemma="muset" src="manual">VpYS---XR-AAI--</AM>
+<AM lemma="muset" recommended="1">VpYS----R-AAI--</AM>
+<AM lemma="muset" src="manual">VpYS----R-AAI--</AM>
 <AM lemma="muset" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
@@ -3076,7 +3076,7 @@
 </w.rf>
 <form>potkal</form>
 <tag>
-<AM lemma="potkat_:W" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="potkat" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="potkat" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
@@ -3102,7 +3102,7 @@
 </w.rf>
 <form>zraněn</form>
 <tag>
-<AM lemma="zranit_:W" recommended="1">VsYS---XX-AP---</AM>
+<AM lemma="zranit" recommended="1">VsYS----X-APP--</AM>
 <AM lemma="zranit" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
@@ -3351,7 +3351,7 @@
 </w.rf>
 <form>zapálil</form>
 <tag>
-<AM lemma="zapálit_:W" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="zapálit" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="zapálit" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
@@ -4015,7 +4015,7 @@
 </w.rf>
 <form>mluvili</form>
 <tag>
-<AM lemma="mluvit_:T" recommended="1">VpMP---XR-AA---</AM>
+<AM lemma="mluvit" recommended="1">VpMP----R-AAI--</AM>
 <AM lemma="mluvit" src="manual" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
@@ -4261,7 +4261,7 @@
 </w.rf>
 <form>byly</form>
 <tag>
-<AM lemma="být" recommended="1">VpTP---XR-AA---</AM>
+<AM lemma="být" recommended="1">VpTP----R-AAI--</AM>
 <AM lemma="být" src="manual" selected="1">VpTP----R-AAI--</AM>
 </tag>
 </m>
@@ -4271,7 +4271,7 @@
 </w.rf>
 <form>nahrány</form>
 <tag>
-<AM lemma="nahrát" recommended="1">VsTP---XX-AP---</AM>
+<AM lemma="nahrát" recommended="1">VsTP----X-APP--</AM>
 <AM lemma="nahrát" src="manual" selected="1">VsTP----X-APP--</AM>
 </tag>
 </m>
@@ -4431,7 +4431,7 @@
 </w.rf>
 <form>prohlédly</form>
 <tag>
-<AM lemma="prohlédnout_:W" recommended="1">VpTP---XR-AA--1</AM>
+<AM lemma="prohlédnout" recommended="1">VpTP----R-AAP-1</AM>
 <AM lemma="prohlédnout" src="manual" selected="1">VpTP----R-AAP-1</AM>
 </tag>
 </m>
@@ -4456,7 +4456,7 @@
 </w.rf>
 <form>identifikovaly</form>
 <tag>
-<AM lemma="identifikovat_:T_:W" recommended="1">VpTP---XR-AA---</AM>
+<AM lemma="identifikovat" recommended="1">VpTP----R-AAB--</AM>
 <AM lemma="identifikovat" src="manual" selected="1">VpTP----R-AAB--</AM>
 </tag>
 </m>
@@ -4527,7 +4527,7 @@
 </w.rf>
 <form>napadli</form>
 <tag>
-<AM lemma="napadnout_:W" recommended="1">VpMP---XR-AA--1</AM>
+<AM lemma="napadnout" recommended="1">VpMP----R-AAP-1</AM>
 <AM lemma="napadnout" src="manual" selected="1">VpMP----R-AAP-1</AM>
 </tag>
 </m>

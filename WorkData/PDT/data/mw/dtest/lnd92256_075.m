@@ -101,7 +101,7 @@
 <LM>w#w-lnd92256-075-p1s2w2</LM>
 </w.rf>
 <form>uspořádali</form>
-<tag lemma="uspořádat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="uspořádat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-075-p1s2w3">
 <src.rf>manual</src.rf>

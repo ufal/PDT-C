@@ -176,7 +176,7 @@
 <LM>w#w-lnd94104-079-p1s1Bw6</LM>
 </w.rf>
 <form>napsal</form>
-<tag lemma="napsat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="napsat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-079-p1s1Bw7">
 <src.rf>manual</src.rf>
@@ -226,7 +226,7 @@
 <LM>w#w-lnd94104-079-p1s4w5</LM>
 </w.rf>
 <form>nastoupil</form>
-<tag lemma="nastoupit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nastoupit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-079-p1s4w6">
 <src.rf>manual</src.rf>
@@ -274,7 +274,7 @@
 <LM>w#w-lnd94104-079-p1s4w11</LM>
 </w.rf>
 <form>provozoval</form>
-<tag lemma="provozovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="provozovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94104-079-p1s4w12">
 <src.rf>manual</src.rf>

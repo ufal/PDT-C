@@ -397,7 +397,7 @@
 <LM>w#w-lnd92252-049-p3s3w2</LM>
 </w.rf>
 <form>chytila</form>
-<tag lemma="chytit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="chytit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-049-p3s3w3">
 <src.rf>manual</src.rf>
@@ -1631,7 +1631,7 @@
 <LM>w#w-lnd92252-049-p5s4w15</LM>
 </w.rf>
 <form>učil</form>
-<tag lemma="učit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="učit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-049-p5s4w16">
 <src.rf>manual</src.rf>
@@ -1687,7 +1687,7 @@
 <LM>w#w-lnd92252-049-p5s4w22</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-049-p5s4w23">
 <src.rf>manual</src.rf>
@@ -1899,7 +1899,7 @@
 <LM>w#w-lnd92252-049-p5s6w3</LM>
 </w.rf>
 <form>rozmístěna</form>
-<tag lemma="rozmístit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="rozmístit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd92252-049-p5s6w4">
 <src.rf>manual</src.rf>
@@ -1939,7 +1939,7 @@
 <LM>w#w-lnd92252-049-p5s6w9</LM>
 </w.rf>
 <form>nezačala</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-lnd92252-049-p5s6w10">
 <src.rf>manual</src.rf>

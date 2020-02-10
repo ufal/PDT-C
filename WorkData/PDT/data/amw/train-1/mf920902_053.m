@@ -29,7 +29,7 @@
 <LM>w#w-mf920902-053-p2s1w1</LM>
 </w.rf>
 <form>STŘÍLEL</form>
-<tag lemma="střílet_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="střílet" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920902-053-p2s1w2">
 <src.rf>manual</src.rf>
@@ -71,7 +71,7 @@
 <LM>w#w-mf920902-053-p2s2w2</LM>
 </w.rf>
 <form>střílel</form>
-<tag lemma="střílet_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="střílet" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920902-053-p2s2w3">
 <src.rf>manual</src.rf>
@@ -249,7 +249,7 @@
 <LM>w#w-mf920902-053-p2s3w9</LM>
 </w.rf>
 <form>stíhán</form>
-<tag lemma="stíhat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="stíhat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-mf920902-053-p2s3w10">
 <src.rf>manual</src.rf>
@@ -389,7 +389,7 @@
 <LM>w#w-mf920902-053-p3s2w6</LM>
 </w.rf>
 <form>způsobil</form>
-<tag lemma="způsobit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="způsobit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-053-p3s2w7">
 <src.rf>manual</src.rf>
@@ -453,7 +453,7 @@
 <LM>w#w-mf920902-053-p3s2w14</LM>
 </w.rf>
 <form>vloupal</form>
-<tag lemma="vloupat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vloupat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-053-p3s2w15">
 <src.rf>manual</src.rf>
@@ -519,7 +519,7 @@
 <LM>w#w-mf920902-053-p3s3w1</LM>
 </w.rf>
 <form>Odnesl</form>
-<tag lemma="odnést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odnést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-053-p3s3w2">
 <src.rf>manual</src.rf>

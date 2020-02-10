@@ -83,7 +83,7 @@
 <LM>w#w-lnd92259-006-p1s1w9</LM>
 </w.rf>
 <form>zažehnáno</form>
-<tag lemma="zažehnat_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zažehnat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92259-006-p1s1w10">
 <src.rf>manual</src.rf>
@@ -183,7 +183,7 @@
 <LM>w#w-lnd92259-006-p1s1w21</LM>
 </w.rf>
 <form>skončil</form>
-<tag lemma="skončit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="skončit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 </s>
 </mdata>

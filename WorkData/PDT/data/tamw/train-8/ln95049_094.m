@@ -268,7 +268,7 @@
 <LM>w#w-ln95049-094-p2s2w7</LM>
 </w.rf>
 <form>kandidovali</form>
-<tag lemma="kandidovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="kandidovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95049-094-p2s2w8">
 <src.rf>manual</src.rf>
@@ -388,7 +388,7 @@
 <LM>w#w-ln95049-094-p2s2w22</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-094-p2s2w23">
 <src.rf>manual</src.rf>
@@ -715,7 +715,7 @@
 <LM>w#w-ln95049-094-p2s3w24</LM>
 </w.rf>
 <form>připomněl</form>
-<tag lemma="připomenout" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="připomenout" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-094-p2s3w25">
 <src.rf>manual</src.rf>
@@ -747,7 +747,7 @@
 <LM>w#w-ln95049-094-p2s3w28</LM>
 </w.rf>
 <form>překvapil</form>
-<tag lemma="překvapit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="překvapit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-094-p2s3w29">
 <src.rf>manual</src.rf>

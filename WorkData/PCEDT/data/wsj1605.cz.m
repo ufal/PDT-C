@@ -161,7 +161,7 @@
 <LM>w#w-wsj1605-001-p1s0W13</LM>
 </w.rf>
 <form>obsahoval</form>
-<tag lemma="obsahovat" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="obsahovat" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1605-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -230,7 +230,7 @@
 <LM>w#w-wsj1605-001-p1s1W4</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="auto" recommended="1">VpMP---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-wsj1605-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -238,7 +238,7 @@
 <LM>w#w-wsj1605-001-p1s1W5</LM>
 </w.rf>
 <form>zmíněni</form>
-<tag lemma="zmínit" src="auto" recommended="1">VsMP---XX-APP--</tag>
+<tag lemma="zmínit" src="auto" recommended="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-wsj1605-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>

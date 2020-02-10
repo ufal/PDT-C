@@ -13,7 +13,7 @@
 </w.rf>
 <form>Zapomněl</form>
 <tag>
-<AM lemma="zapomenout" src="auto" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="zapomenout" src="auto" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="zapomnět_,a_,n" src="auto">VpYS---XR-AA---</AM>
 </tag>
 </m>
@@ -60,7 +60,7 @@
 <LM>w#w-d1t2884-8</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m123-d1t2884-9">
 <w.rf>
@@ -170,7 +170,7 @@
 <LM>w#w-d1t2888-5</LM>
 </w.rf>
 <form>znali</form>
-<tag lemma="znát" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="znát" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m123-d1t2890-1">
 <w.rf>
@@ -306,7 +306,7 @@
 <form>vyhlídli</form>
 <tag>
 <AM lemma="vyhlídnout_:W_,h_,x_^(^GC*6édnout)" src="auto" recommended="1">VpMP---XR-AA--1</AM>
-<AM lemma="vyhlídnout_:W_,h_^(^GC*6édnout)" src="manual" selected="1">VpMP---XR-AA--1</AM>
+<AM lemma="vyhlídnout_,h_^(^GC*6édnout)" src="manual" selected="1">VpMP----R-AAP-1</AM>
 </tag>
 </m>
 <m id="m123-d1t2893-5">
@@ -334,7 +334,7 @@
 <LM>w#w-d1t2897-7</LM>
 </w.rf>
 <form>cestovali</form>
-<tag lemma="cestovat_:T" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="cestovat" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m123-d1t2897-6">
 <w.rf>
@@ -548,7 +548,7 @@
 <LM>w#w-d1t2903-13</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m123-d1t2903-12">
 <w.rf>
@@ -1204,7 +1204,7 @@
 <LM>w#w-d1t2951-2</LM>
 </w.rf>
 <form>nebloudili</form>
-<tag lemma="bloudit_:T" src="auto" recommended="1">VpMP---XR-NA---</tag>
+<tag lemma="bloudit" src="auto" recommended="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m123-d-m-d1e2840-x5-punct-punct">
 <w.rf>
@@ -1253,7 +1253,7 @@
 <LM>w#w-d1t2955-5</LM>
 </w.rf>
 <form>vypršel</form>
-<tag lemma="vypršet" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="vypršet" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m123-d1t2955-6">
 <w.rf>

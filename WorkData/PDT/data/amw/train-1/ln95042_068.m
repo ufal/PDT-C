@@ -441,7 +441,7 @@
 <LM>w#w-ln95042-068-p3s1w4</LM>
 </w.rf>
 <form>podpořila</form>
-<tag lemma="podpořit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="podpořit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95042-068-p3s1w5">
 <src.rf>manual</src.rf>
@@ -837,7 +837,7 @@
 <LM>w#w-ln95042-068-p3s2w22</LM>
 </w.rf>
 <form>zakázaly</form>
-<tag lemma="zakázat" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zakázat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95042-068-p3s2w23">
 <src.rf>manual</src.rf>
@@ -1319,7 +1319,7 @@
 <LM>w#w-ln95042-068-p4s2w6</LM>
 </w.rf>
 <form>předložili</form>
-<tag lemma="předložit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="předložit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95042-068-p4s2w7">
 <src.rf>manual</src.rf>
@@ -1519,7 +1519,7 @@
 <LM>w#w-ln95042-068-p4s2w32</LM>
 </w.rf>
 <form>vyvarovali</form>
-<tag lemma="vyvarovat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyvarovat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95042-068-p4s2w33">
 <src.rf>manual</src.rf>
@@ -1785,8 +1785,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95042-068-p5s1w12">
@@ -1883,7 +1883,7 @@
 <LM>w#w-ln95042-068-p5s1w23</LM>
 </w.rf>
 <form>zaměřena</form>
-<tag lemma="zaměřit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zaměřit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln95042-068-p5s1w24">
 <src.rf>manual</src.rf>
@@ -1966,7 +1966,7 @@
 <LM>w#w-ln95042-068-p5s1w33</LM>
 </w.rf>
 <form>hlasoval</form>
-<tag lemma="hlasovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="hlasovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95042-068-p5s1w34">
 <src.rf>manual</src.rf>

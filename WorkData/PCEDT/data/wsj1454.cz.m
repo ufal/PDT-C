@@ -198,7 +198,7 @@
 <LM>w#w-wsj1454-001-p1s0W12</LM>
 </w.rf>
 <form>oznámil</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1454-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -582,7 +582,7 @@
 <LM>w#w-wsj1454-001-p1s1W2</LM>
 </w.rf>
 <form>odmítli</form>
-<tag lemma="odmítnout" src="auto" recommended="1">VpMP---XR-AAP-1</tag>
+<tag lemma="odmítnout" src="auto" recommended="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-wsj1454-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -849,7 +849,7 @@
 <LM>w#w-wsj1454-001-p1s2W3</LM>
 </w.rf>
 <form>uvedly</form>
-<tag lemma="uvést" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1454-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1291,7 +1291,7 @@
 <LM>w#w-wsj1454-001-p1s3W3</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1454-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1405,7 +1405,7 @@
 <LM>w#w-wsj1454-001-p1s3W13</LM>
 </w.rf>
 <form>souhlasila</form>
-<tag lemma="souhlasit" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="souhlasit" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj1454-001-p1s3W14-Ta">
 <src.rf>tagger-a</src.rf>

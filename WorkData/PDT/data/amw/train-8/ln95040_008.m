@@ -199,7 +199,7 @@
 <LM>w#w-ln95040-008-p2s1Bw17</LM>
 </w.rf>
 <form>představil</form>
-<tag lemma="představit-1_:W_^(si_něco;_něco/někoho_někomu)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="představit-1_^(si_něco;_něco/někoho_někomu)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-008-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -293,8 +293,8 @@
 </w.rf>
 <form>řekli</form>
 <tag>
-<AM lemma="říci" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpMP----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95040-008-p3s1w3">
@@ -508,7 +508,7 @@
 <LM>w#w-ln95040-008-p3s3w6</LM>
 </w.rf>
 <form>založily</form>
-<tag lemma="založit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="založit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95040-008-p3s3w7">
 <src.rf>manual</src.rf>

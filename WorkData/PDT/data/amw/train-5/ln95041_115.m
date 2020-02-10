@@ -332,7 +332,7 @@
 <LM>w#w-ln95041-115-p2s2w9</LM>
 </w.rf>
 <form>podepsalo</form>
-<tag lemma="podepsat" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="podepsat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95041-115-p2s2w10">
 <src.rf>manual</src.rf>
@@ -623,7 +623,7 @@
 <LM>w#w-ln95041-115-p3s1w11</LM>
 </w.rf>
 <form>patřilo</form>
-<tag lemma="patřit_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="patřit" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95041-115-p3s1w12">
 <src.rf>manual</src.rf>
@@ -711,7 +711,7 @@
 <LM>w#w-ln95041-115-p3s1w22</LM>
 </w.rf>
 <form>získala</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95041-115-p3s1w23">
 <src.rf>manual</src.rf>
@@ -783,7 +783,7 @@
 <LM>w#w-ln95041-115-p3s1w31</LM>
 </w.rf>
 <form>zažehnala</form>
-<tag lemma="zažehnat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zažehnat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95041-115-p3s1w32">
 <src.rf>manual</src.rf>
@@ -932,7 +932,7 @@
 <LM>w#w-ln95041-115-p4s1w14</LM>
 </w.rf>
 <form>prodávaly</form>
-<tag lemma="prodávat_:T_^(*4at)" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="prodávat_^(*4at)" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95041-115-p4s1w15">
 <src.rf>manual</src.rf>

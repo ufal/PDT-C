@@ -2032,7 +2032,7 @@
 <LM>w#w-ln95042-031-p4s3w25</LM>
 </w.rf>
 <form>naplánováno</form>
-<tag lemma="naplánovat_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="naplánovat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95042-031-p4s3w26">
 <src.rf>manual</src.rf>
@@ -2322,7 +2322,7 @@
 <LM>w#w-ln95042-031-p5s1w30</LM>
 </w.rf>
 <form>zajištěn</form>
-<tag lemma="zajistit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zajistit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95042-031-p5s1w31">
 <src.rf>manual</src.rf>
@@ -2541,7 +2541,7 @@
 <LM>w#w-ln95042-031-p5s2w13</LM>
 </w.rf>
 <form>přinesl</form>
-<tag lemma="přinést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přinést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95042-031-p5s2w14">
 <src.rf>manual</src.rf>
@@ -2645,7 +2645,7 @@
 <LM>w#w-ln95042-031-p5s2w26</LM>
 </w.rf>
 <form>rozhodnuto</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95042-031-p5s2w27">
 <src.rf>manual</src.rf>

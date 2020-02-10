@@ -110,7 +110,7 @@
 <LM>w#w-ln95048-042-p2s1w8</LM>
 </w.rf>
 <form>nebyl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-ln95048-042-p2s1w9">
 <src.rf>manual</src.rf>
@@ -853,7 +853,7 @@
 <LM>w#w-ln95048-042-p4s2w18</LM>
 </w.rf>
 <form>situováno</form>
-<tag lemma="situovat_:T" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="situovat" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-ln95048-042-p4s2w19">
 <src.rf>manual</src.rf>
@@ -997,7 +997,7 @@
 <LM>w#w-ln95048-042-p4s3w9</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95048-042-p4s3w10">
 <src.rf>manual</src.rf>
@@ -1005,7 +1005,7 @@
 <LM>w#w-ln95048-042-p4s3w10</LM>
 </w.rf>
 <form>pořízen</form>
-<tag lemma="pořídit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="pořídit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95048-042-p4s3w11">
 <src.rf>manual</src.rf>

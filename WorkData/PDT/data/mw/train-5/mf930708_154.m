@@ -837,7 +837,7 @@
 <LM>w#w-mf930708-154-p7s1w21</LM>
 </w.rf>
 <form>psala</form>
-<tag lemma="psát" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="psát" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930708-154-p7s1w22">
 <src.rf>manual</src.rf>

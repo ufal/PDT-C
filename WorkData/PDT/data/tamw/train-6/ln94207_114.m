@@ -659,7 +659,7 @@
 <LM>w#w-ln94207-114-p2s4w16</LM>
 </w.rf>
 <form>prodalo</form>
-<tag lemma="prodat_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="prodat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94207-114-p2s4w17">
 <src.rf>manual</src.rf>

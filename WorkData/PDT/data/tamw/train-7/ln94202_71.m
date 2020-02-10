@@ -247,7 +247,7 @@
 <LM>w#w-ln94202-71-p2s2w1</LM>
 </w.rf>
 <form>Oznámil</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94202-71-p2s2w2">
 <src.rf>manual</src.rf>
@@ -365,7 +365,7 @@
 <LM>w#w-ln94202-71-p2s2w15</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94202-71-p2s2w16">
 <src.rf>manual</src.rf>
@@ -755,7 +755,7 @@
 <LM>w#w-ln94202-71-p3s1w9</LM>
 </w.rf>
 <form>navštívili</form>
-<tag lemma="navštívit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="navštívit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94202-71-p3s1w10">
 <src.rf>manual</src.rf>
@@ -851,7 +851,7 @@
 <LM>w#w-ln94202-71-p3s1w22</LM>
 </w.rf>
 <form>přesvědčili</form>
-<tag lemma="přesvědčit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přesvědčit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94202-71-p3s1w23">
 <src.rf>manual</src.rf>
@@ -1032,7 +1032,7 @@
 <LM>w#w-ln94202-71-p4s1w9</LM>
 </w.rf>
 <form>kritizoval</form>
-<tag lemma="kritizovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="kritizovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94202-71-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1096,7 +1096,7 @@
 <LM>w#w-ln94202-71-p4s1w17</LM>
 </w.rf>
 <form>nepřipojili</form>
-<tag lemma="připojit_:W" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="připojit" src="orig" selected="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m-ln94202-71-p4s1w18">
 <src.rf>manual</src.rf>
@@ -1162,7 +1162,7 @@
 <LM>w#w-ln94202-71-p4s2w2</LM>
 </w.rf>
 <form>sdělila</form>
-<tag lemma="sdělit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="sdělit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94202-71-p4s2w3">
 <src.rf>manual</src.rf>
@@ -1287,7 +1287,7 @@
 <LM>w#w-ln94202-71-p4s3w6</LM>
 </w.rf>
 <form>nechala</form>
-<tag lemma="nechat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="nechat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94202-71-p4s3w7">
 <src.rf>manual</src.rf>
@@ -1367,7 +1367,7 @@
 <LM>w#w-ln94202-71-p4s3w16</LM>
 </w.rf>
 <form>ukázala</form>
-<tag lemma="ukázat" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="ukázat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94202-71-p4s3w17">
 <src.rf>manual</src.rf>

@@ -89,7 +89,7 @@
 <LM>w#w-cmpr9413-007-p3s1w6</LM>
 </w.rf>
 <form>prodávali</form>
-<tag lemma="prodávat_:T_^(*4at)" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="prodávat_^(*4at)" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-cmpr9413-007-p3s1w7">
 <src.rf>manual</src.rf>
@@ -582,7 +582,7 @@
 <LM>w#w-cmpr9413-007-p6s1w3</LM>
 </w.rf>
 <form>vyhradila</form>
-<tag lemma="vyhradit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyhradit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-cmpr9413-007-p6s1w4">
 <src.rf>manual</src.rf>
@@ -1376,7 +1376,7 @@
 <LM>w#w-cmpr9413-007-p6s5w8</LM>
 </w.rf>
 <form>udělil</form>
-<tag lemma="udělit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="udělit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9413-007-p6s5w9">
 <src.rf>manual</src.rf>
@@ -2929,7 +2929,7 @@
 <LM>w#w-cmpr9413-007-p10s1w7</LM>
 </w.rf>
 <form>vyhrazeno</form>
-<tag lemma="vyhradit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="vyhradit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-cmpr9413-007-p10s1w8">
 <src.rf>manual</src.rf>

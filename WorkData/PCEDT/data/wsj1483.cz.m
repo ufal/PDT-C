@@ -65,7 +65,7 @@
 <LM>w#w-wsj1483-001-p1s0W6</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1483-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -209,7 +209,7 @@
 <LM>w#w-wsj1483-001-p1s0W19</LM>
 </w.rf>
 <form>podala</form>
-<tag lemma="podat_^(něco_[někomu]_[někam])" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="podat_^(něco_[někomu]_[někam])" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1483-001-p1s0W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -781,7 +781,7 @@
 <LM>w#w-wsj1483-001-p1s2W4</LM>
 </w.rf>
 <form>využity</form>
-<tag lemma="využít" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="využít" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj1483-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>

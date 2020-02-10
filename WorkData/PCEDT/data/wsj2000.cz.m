@@ -98,7 +98,7 @@
 <LM>w#w-wsj2000-001-p1s0W8</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2000-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -125,7 +125,7 @@
 <LM>w#w-wsj2000-001-p1s0W11</LM>
 </w.rf>
 <form>podepsala</form>
-<tag lemma="podepsat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="podepsat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2000-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -476,7 +476,7 @@
 <LM>w#w-wsj2000-001-p1s1W3</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2000-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -583,7 +583,7 @@
 <LM>w#w-wsj2000-001-p1s1W13</LM>
 </w.rf>
 <form>dodala</form>
-<tag lemma="dodat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="dodat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2000-001-p1s1W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1197,7 +1197,7 @@
 <LM>w#w-wsj2000-001-p1s3W3</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2000-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1367,7 +1367,7 @@
 <LM>w#w-wsj2000-001-p1s3W11</LM>
 </w.rf>
 <form>dodala</form>
-<tag lemma="dodat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="dodat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2000-001-p1s3W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1602,7 +1602,7 @@
 <tag>
 <AM lemma="podnik" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="podnik" src="auto">NNIS4-----A----</AM>
-<AM lemma="podniknout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="podniknout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-wsj2000-001-p1s4W14-Ta">

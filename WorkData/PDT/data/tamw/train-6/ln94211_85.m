@@ -324,7 +324,7 @@
 <LM>w#w-ln94211-85-p2s2w21</LM>
 </w.rf>
 <form>přijel</form>
-<tag lemma="přijet" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přijet" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94211-85-p2s2w22">
 <src.rf>manual</src.rf>
@@ -563,7 +563,7 @@
 <LM>w#w-ln94211-85-p2s4w5</LM>
 </w.rf>
 <form>jednalo</form>
-<tag lemma="jednat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="jednat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94211-85-p2s4w6">
 <src.rf>manual</src.rf>
@@ -646,7 +646,7 @@
 <LM>w#w-ln94211-85-p2s4w15</LM>
 </w.rf>
 <form>importovalo</form>
-<tag lemma="importovat_:T_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="importovat" src="orig" selected="1">VpNS----R-AAB--</tag>
 </m>
 <m id="m-ln94211-85-p2s4w16">
 <src.rf>manual</src.rf>

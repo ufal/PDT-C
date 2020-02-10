@@ -165,7 +165,7 @@
 <LM>w#w-ln94201-17-p1s2w8</LM>
 </w.rf>
 <form>představili</form>
-<tag lemma="představit-1_:W_^(si_něco;_něco/někoho_někomu)" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="představit-1_^(si_něco;_něco/někoho_někomu)" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94201-17-p1s2w9">
 <src.rf>manual</src.rf>
@@ -274,7 +274,7 @@
 <LM>w#w-ln94201-17-p1s3w1</LM>
 </w.rf>
 <form>Nechyběli</form>
-<tag lemma="chybět_:T_^(někde_něco_chybí)" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="chybět_^(někde_něco_chybí)" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-ln94201-17-p1s3w2">
 <src.rf>manual</src.rf>

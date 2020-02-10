@@ -83,7 +83,7 @@
 <LM>w#w-lnd92259-041-p1s1w9</LM>
 </w.rf>
 <form>dohrála</form>
-<tag lemma="dohrát" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="dohrát" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-041-p1s1w10">
 <src.rf>manual</src.rf>
@@ -173,7 +173,7 @@
 <LM>w#w-lnd92259-041-p1s2w7</LM>
 </w.rf>
 <form>pověřeni</form>
-<tag lemma="pověřit_:W" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="pověřit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-lnd92259-041-p1s2w8">
 <src.rf>manual</src.rf>

@@ -124,7 +124,7 @@
 <LM>w#w-lnd92259-093-p3s2w4</LM>
 </w.rf>
 <form>létaly</form>
-<tag lemma="létat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="létat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd92259-093-p3s2w5">
 <src.rf>manual</src.rf>
@@ -321,7 +321,7 @@
 <LM>w#w-lnd92259-093-p3s3w5</LM>
 </w.rf>
 <form>končila</form>
-<tag lemma="končit_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="končit" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92259-093-p3s3w6">
 <src.rf>manual</src.rf>
@@ -499,7 +499,7 @@
 <LM>w#w-lnd92259-093-p3s4w5</LM>
 </w.rf>
 <form>patřily</form>
-<tag lemma="patřit_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="patřit" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd92259-093-p3s4w6">
 <src.rf>manual</src.rf>
@@ -598,7 +598,7 @@
 <LM>w#w-lnd92259-093-p3s4w17</LM>
 </w.rf>
 <form>vyhrál</form>
-<tag lemma="vyhrát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyhrát" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-093-p3s4w18">
 <src.rf>manual</src.rf>
@@ -801,7 +801,7 @@
 <LM>w#w-lnd92259-093-p3s5w10</LM>
 </w.rf>
 <form>obsadil</form>
-<tag lemma="obsadit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="obsadit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-093-p3s5w11">
 <src.rf>manual</src.rf>
@@ -867,7 +867,7 @@
 <LM>w#w-lnd92259-093-p3s6w1</LM>
 </w.rf>
 <form>Vyhrál</form>
-<tag lemma="vyhrát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyhrát" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-093-p3s6w2">
 <src.rf>manual</src.rf>
@@ -1416,7 +1416,7 @@
 <LM>w#w-lnd92259-093-p3s10w2</LM>
 </w.rf>
 <form>slíbila</form>
-<tag lemma="slíbit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="slíbit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-093-p3s10w3">
 <src.rf>manual</src.rf>

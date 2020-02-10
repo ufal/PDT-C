@@ -96,7 +96,7 @@
 <LM>w#w-ln94210-116-p2s1w7</LM>
 </w.rf>
 <form>vyslovilo</form>
-<tag lemma="vyslovit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vyslovit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94210-116-p2s1w8">
 <src.rf>manual</src.rf>
@@ -284,7 +284,7 @@
 <LM>w#w-ln94210-116-p3s1w10</LM>
 </w.rf>
 <form>odstoupil</form>
-<tag lemma="odstoupit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odstoupit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94210-116-p3s1w11">
 <src.rf>manual</src.rf>

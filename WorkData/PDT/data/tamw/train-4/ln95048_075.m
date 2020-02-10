@@ -1407,7 +1407,7 @@
 <LM>w#w-ln95048-075-p4s3w14</LM>
 </w.rf>
 <form>odsedl</form>
-<tag lemma="odsednout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="odsednout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln95048-075-p4s3w15">
 <src.rf>manual</src.rf>
@@ -1634,8 +1634,8 @@
 </w.rf>
 <form>přestal</form>
 <tag>
-<AM lemma="přestat" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="přestat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="přestat" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="přestat" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95048-075-p4s4w18">
@@ -1676,7 +1676,7 @@
 <LM>w#w-ln95048-075-p4s4w22</LM>
 </w.rf>
 <form>považován</form>
-<tag lemma="považovat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="považovat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-ln95048-075-p4s4w23">
 <src.rf>manual</src.rf>
@@ -1853,8 +1853,8 @@
 </w.rf>
 <form>dána</form>
 <tag>
-<AM lemma="dát" src="orig">VsQW---XX-AP---</AM>
-<AM lemma="dát_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+<AM lemma="dát" src="orig">VsQW----X-APP--</AM>
+<AM lemma="dát" src="manual" selected="1">VsQW----X-APP--</AM>
 </tag>
 </m>
 <m id="m-ln95048-075-p5s2w12">
@@ -2310,7 +2310,7 @@
 <LM>w#w-ln95048-075-p5s4w24</LM>
 </w.rf>
 <form>vyřadil</form>
-<tag lemma="vyřadit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyřadit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-075-p5s4w25">
 <src.rf>manual</src.rf>

@@ -119,7 +119,7 @@
 <form>stal</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930713-029-p2s1Bw8">
@@ -406,7 +406,7 @@
 <LM>w#w-mf930713-029-p2s3w7</LM>
 </w.rf>
 <form>prosadili</form>
-<tag lemma="prosadit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="prosadit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930713-029-p2s3w8">
 <src.rf>manual</src.rf>
@@ -454,7 +454,7 @@
 <LM>w#w-mf930713-029-p2s3w13</LM>
 </w.rf>
 <form>vyhráli</form>
-<tag lemma="vyhrát" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyhrát" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930713-029-p2s3w14">
 <src.rf>manual</src.rf>

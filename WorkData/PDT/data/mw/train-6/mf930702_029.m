@@ -294,7 +294,7 @@
 <LM>w#w-mf930702-029-p2s4w4</LM>
 </w.rf>
 <form>úročeny</form>
-<tag lemma="úročit_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="úročit" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf930702-029-p2s4w5">
 <src.rf>manual</src.rf>
@@ -562,7 +562,7 @@
 <LM>w#w-mf930702-029-p3s1w15</LM>
 </w.rf>
 <form>přijímány</form>
-<tag lemma="přijímat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="přijímat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf930702-029-p3s1w16">
 <src.rf>manual</src.rf>

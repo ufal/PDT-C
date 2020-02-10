@@ -53,7 +53,7 @@
 <LM>w#w-mf930713-023-p2s1w3</LM>
 </w.rf>
 <form>vytvořila</form>
-<tag lemma="vytvořit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vytvořit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930713-023-p2s1w4">
 <src.rf>manual</src.rf>
@@ -262,7 +262,7 @@
 <LM>w#w-mf930713-023-p3s1w5</LM>
 </w.rf>
 <form>skončil</form>
-<tag lemma="skončit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="skončit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-023-p3s1w6">
 <src.rf>manual</src.rf>
@@ -344,7 +344,7 @@
 <LM>w#w-mf930713-023-p3s2w3</LM>
 </w.rf>
 <form>umístilo</form>
-<tag lemma="umístit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="umístit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-023-p3s2w4">
 <src.rf>manual</src.rf>
@@ -422,7 +422,7 @@
 <LM>w#w-mf930713-023-p4s1w4</LM>
 </w.rf>
 <form>zvítězil</form>
-<tag lemma="zvítězit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zvítězit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-023-p4s1w5">
 <src.rf>manual</src.rf>
@@ -510,7 +510,7 @@
 <LM>w#w-mf930713-023-p4s1w15</LM>
 </w.rf>
 <form>skončila</form>
-<tag lemma="skončit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="skončit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930713-023-p4s1w16">
 <src.rf>manual</src.rf>
@@ -576,7 +576,7 @@
 <LM>w#w-mf930713-023-p5s1w3</LM>
 </w.rf>
 <form>zvítězil</form>
-<tag lemma="zvítězit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zvítězit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-023-p5s1w4">
 <src.rf>manual</src.rf>

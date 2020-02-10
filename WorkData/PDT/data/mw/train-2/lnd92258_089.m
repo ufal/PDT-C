@@ -53,7 +53,7 @@
 <LM>w#w-lnd92258-089-p2s1w3</LM>
 </w.rf>
 <form>napadlo</form>
-<tag lemma="napadnout_:W" src="orig" selected="1">VpNS---XR-AA--1</tag>
+<tag lemma="napadnout" src="orig" selected="1">VpNS----R-AAP-1</tag>
 </m>
 <m id="m-lnd92258-089-p2s1w4">
 <src.rf>manual</src.rf>
@@ -102,7 +102,7 @@
 <LM>w#w-lnd92258-089-p2s1w9</LM>
 </w.rf>
 <form>odpovídalo</form>
-<tag lemma="odpovídat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="odpovídat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92258-089-p2s1w10">
 <src.rf>manual</src.rf>

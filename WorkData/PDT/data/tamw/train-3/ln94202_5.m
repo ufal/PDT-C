@@ -312,7 +312,7 @@
 <LM>w#w-ln94202-5-p2s2w17</LM>
 </w.rf>
 <form>dodáno</form>
-<tag lemma="dodat_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="dodat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94202-5-p2s2w18">
 <src.rf>manual</src.rf>
@@ -503,7 +503,7 @@
 <LM>w#w-ln94202-5-p3s2w8</LM>
 </w.rf>
 <form>převzala</form>
-<tag lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94202-5-p3s2w9">
 <src.rf>manual</src.rf>
@@ -826,7 +826,7 @@
 <LM>w#w-ln94202-5-p3s4w9</LM>
 </w.rf>
 <form>vyráběn</form>
-<tag lemma="vyrábět_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="vyrábět" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-ln94202-5-p3s4w10">
 <src.rf>manual</src.rf>

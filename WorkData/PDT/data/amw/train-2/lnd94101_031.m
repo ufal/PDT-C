@@ -67,7 +67,7 @@
 <LM>w#w-lnd94101-031-p1s1w7</LM>
 </w.rf>
 <form>uvítal</form>
-<tag lemma="uvítat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvítat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-031-p1s1w8">
 <src.rf>manual</src.rf>
@@ -85,7 +85,7 @@
 <LM>w#w-lnd94101-031-p1s2w1</LM>
 </w.rf>
 <form>Uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-031-p1s2w2">
 <src.rf>manual</src.rf>

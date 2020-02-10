@@ -272,7 +272,7 @@
 <LM>w#w-wsj1675-001-p1s0W18</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1675-001-p1s0W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1801,7 +1801,7 @@
 <LM>w#w-wsj1675-001-p1s6W5</LM>
 </w.rf>
 <form>prodány</form>
-<tag lemma="prodat" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="prodat" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj1675-001-p1s6W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1852,7 +1852,7 @@
 <LM>w#w-wsj1675-001-p1s6W10</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1675-001-p1s6W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2164,7 +2164,7 @@
 <LM>w#w-wsj1675-001-p1s7W9</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1675-001-p1s7W10-Ta">
 <src.rf>tagger-a</src.rf>

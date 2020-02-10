@@ -343,7 +343,7 @@
 <LM>w#w-ln95040-110-p2s2w17</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95040-110-p2s2w18">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <LM>w#w-ln95040-110-p2s2w19</LM>
 </w.rf>
 <form>vypláceny</form>
-<tag lemma="vyplácet_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="vyplácet" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln95040-110-p2s2w20">
 <src.rf>manual</src.rf>
@@ -497,7 +497,7 @@
 <LM>w#w-ln95040-110-p2s3w8</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95040-110-p2s3w9">
 <src.rf>manual</src.rf>

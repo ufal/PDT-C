@@ -170,7 +170,7 @@
 <LM>w#w-lnd94103-137-p1s3w11</LM>
 </w.rf>
 <form>sledoval</form>
-<tag lemma="sledovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sledovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-137-p1s3w12">
 <src.rf>manual</src.rf>
@@ -274,7 +274,7 @@
 <LM>w#w-lnd94103-137-p1s3w24</LM>
 </w.rf>
 <form>podrobil</form>
-<tag lemma="podrobit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="podrobit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-137-p1s3w25">
 <src.rf>manual</src.rf>
@@ -324,7 +324,7 @@
 <LM>w#w-lnd94103-137-p1s4w2</LM>
 </w.rf>
 <form>Byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-137-p1s4w3">
 <src.rf>manual</src.rf>
@@ -380,7 +380,7 @@
 <LM>w#w-lnd94103-137-p1s4w9</LM>
 </w.rf>
 <form>zaplatila</form>
-<tag lemma="zaplatit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zaplatit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-137-p1s4w10">
 <src.rf>manual</src.rf>
@@ -420,7 +420,7 @@
 <LM>w#w-lnd94103-137-p1s4w14</LM>
 </w.rf>
 <form>vyprávěl</form>
-<tag lemma="vyprávět_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyprávět" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-137-p1s4w15">
 <src.rf>manual</src.rf>
@@ -496,7 +496,7 @@
 <LM>w#w-lnd94103-137-p1s4w23</LM>
 </w.rf>
 <form>procházel</form>
-<tag lemma="procházet_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="procházet" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-137-p1s4w24">
 <src.rf>manual</src.rf>
@@ -594,7 +594,7 @@
 <LM>w#w-lnd94103-137-p1s5Aw9</LM>
 </w.rf>
 <form>vyhnali</form>
-<tag lemma="vyhnat" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyhnat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-137-p1s5Aw10">
 <src.rf>manual</src.rf>
@@ -626,7 +626,7 @@
 <LM>w#w-lnd94103-137-p1s5Aw13</LM>
 </w.rf>
 <form>musel</form>
-<tag lemma="muset" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="muset" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-137-p1s5Aw14">
 <src.rf>manual</src.rf>
@@ -1171,7 +1171,7 @@
 <LM>w#w-lnd94103-137-p1s6Bw5</LM>
 </w.rf>
 <form>dodal</form>
-<tag lemma="dodat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dodat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-137-p1s6Bw6">
 <src.rf>manual</src.rf>

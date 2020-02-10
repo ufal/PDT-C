@@ -99,7 +99,7 @@
 <LM>w#w-lnd92251-057-p1s1w11</LM>
 </w.rf>
 <form>zapotil</form>
-<tag lemma="zapotit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zapotit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-057-p1s1w12">
 <src.rf>manual</src.rf>
@@ -219,7 +219,7 @@
 <LM>w#w-lnd92251-057-p1s3w4</LM>
 </w.rf>
 <form>vyřešil</form>
-<tag lemma="vyřešit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyřešit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-057-p1s3w5">
 <src.rf>manual</src.rf>
@@ -275,7 +275,7 @@
 <LM>w#w-lnd92251-057-p1s3w11</LM>
 </w.rf>
 <form>podlehl</form>
-<tag lemma="podlehnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="podlehnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd92251-057-p1s3w12">
 <src.rf>manual</src.rf>

@@ -545,7 +545,7 @@
 <LM>w#w-ln94200-86-p2s3w2</LM>
 </w.rf>
 <form>upozornil</form>
-<tag lemma="upozornit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="upozornit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-86-p2s3w3">
 <src.rf>manual</src.rf>

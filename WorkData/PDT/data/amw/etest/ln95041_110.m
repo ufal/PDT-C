@@ -27,7 +27,7 @@
 <LM>w#w-ln95041-110-p1s1w2</LM>
 </w.rf>
 <form>uspěla</form>
-<tag lemma="uspět" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="uspět" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95041-110-p1s1w3">
 <src.rf>manual</src.rf>
@@ -175,7 +175,7 @@
 <LM>w#w-ln95041-110-p2s1Bw14</LM>
 </w.rf>
 <form>prošla</form>
-<tag lemma="projít_^(i_uplynout_[o_čase])" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="projít_^(i_uplynout_[o_čase])" src="auto" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95041-110-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -374,7 +374,7 @@
 <LM>w#w-ln95041-110-p2s3w1</LM>
 </w.rf>
 <form>Informovala</form>
-<tag lemma="informovat_:T_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="informovat" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-ln95041-110-p2s3w2">
 <src.rf>manual</src.rf>
@@ -448,7 +448,7 @@
 <LM>w#w-ln95041-110-p3s1w2</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95041-110-p3s1w3">
 <src.rf>manual</src.rf>
@@ -472,7 +472,7 @@
 <LM>w#w-ln95041-110-p3s1w5</LM>
 </w.rf>
 <form>předcházel</form>
-<tag lemma="předcházet_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="předcházet" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95041-110-p3s1w6">
 <src.rf>manual</src.rf>
@@ -562,7 +562,7 @@
 <LM>w#w-ln95041-110-p3s2w1</LM>
 </w.rf>
 <form>Prověřovala</form>
-<tag lemma="prověřovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="prověřovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95041-110-p3s2w2">
 <src.rf>manual</src.rf>

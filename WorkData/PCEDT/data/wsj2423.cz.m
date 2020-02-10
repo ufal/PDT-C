@@ -105,7 +105,7 @@
 <LM>w#w-wsj2423-001-p1s0W8</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2423-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -185,7 +185,7 @@
 <LM>w#w-wsj2423-001-p1s0W16</LM>
 </w.rf>
 <form>rozšířili</form>
-<tag lemma="rozšířit" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="rozšířit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj2423-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -533,7 +533,7 @@
 <LM>w#w-wsj2423-001-p1s1W3</LM>
 </w.rf>
 <form>vypršela</form>
-<tag lemma="vypršet" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="vypršet" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2423-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -599,7 +599,7 @@
 <LM>w#w-wsj2423-001-p1s2W3</LM>
 </w.rf>
 <form>řekla</form>
-<tag lemma="říci" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2423-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -972,7 +972,7 @@
 <LM>w#w-wsj2423-001-p1s3W2</LM>
 </w.rf>
 <form>zvýšila</form>
-<tag lemma="zvýšit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="zvýšit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2423-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1229,7 +1229,7 @@
 <LM>w#w-wsj2423-001-p1s4W9</LM>
 </w.rf>
 <form>přiměly</form>
-<tag lemma="přimět" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="přimět" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj2423-001-p1s4W10-Ta">
 <src.rf>tagger-a</src.rf>

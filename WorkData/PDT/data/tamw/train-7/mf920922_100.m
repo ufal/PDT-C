@@ -84,7 +84,7 @@
 <AM lemma="bod-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="bod" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="bod" src="auto">NNIS4-----A----</AM>
-<AM lemma="bodnout_:W" src="auto">VpYS---XR-AA--6</AM>
+<AM lemma="bodnout" src="auto">VpYS----R-AAP-6</AM>
 <AM lemma="bod-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -200,7 +200,7 @@
 <LM>w#w-mf920922-100-p1s1Cw12</LM>
 </w.rf>
 <form>měli</form>
-<tag lemma="mít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf920922-100-p1s1Cw13">
 <src.rf>manual</src.rf>
@@ -290,7 +290,7 @@
 <LM>w#w-mf920922-100-p1s2w5</LM>
 </w.rf>
 <form>připojeno</form>
-<tag lemma="připojit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="připojit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf920922-100-p1s2w6">
 <src.rf>manual</src.rf>
@@ -436,7 +436,7 @@
 <LM>w#w-mf920922-100-p1s3w11</LM>
 </w.rf>
 <form>utvořily</form>
-<tag lemma="utvořit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="utvořit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf920922-100-p1s3w12">
 <src.rf>manual</src.rf>
@@ -577,7 +577,7 @@
 <LM>w#w-mf920922-100-p1s4w7</LM>
 </w.rf>
 <form>vyhrály</form>
-<tag lemma="vyhrát" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vyhrát" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf920922-100-p1s4w8">
 <src.rf>manual</src.rf>

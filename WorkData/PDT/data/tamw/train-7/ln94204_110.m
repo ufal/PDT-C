@@ -103,7 +103,7 @@
 <LM>w#w-ln94204-110-p2s1Bw6</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94204-110-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -344,7 +344,7 @@
 <LM>w#w-ln94204-110-p2s2w4</LM>
 </w.rf>
 <form>provedla</form>
-<tag lemma="provést" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="provést" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94204-110-p2s2w5">
 <src.rf>manual</src.rf>
@@ -384,7 +384,7 @@
 <LM>w#w-ln94204-110-p2s2w9</LM>
 </w.rf>
 <form>potvrdila</form>
-<tag lemma="potvrdit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="potvrdit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94204-110-p2s2w10">
 <src.rf>manual</src.rf>

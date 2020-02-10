@@ -51,7 +51,7 @@
 <LM>w#w-ln95046-061-p1s1w5</LM>
 </w.rf>
 <form>trestáno</form>
-<tag lemma="trestat_:T" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="trestat" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 </s>
 <s id="m-ln95046-061-p2s1A">
@@ -135,7 +135,7 @@
 <LM>w#w-ln95046-061-p2s1Bw8</LM>
 </w.rf>
 <form>schválil</form>
-<tag lemma="schválit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="schválit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95046-061-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -829,7 +829,7 @@
 <LM>w#w-ln95046-061-p2s5w11</LM>
 </w.rf>
 <form>vyjádřil</form>
-<tag lemma="vyjádřit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyjádřit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95046-061-p2s5w12">
 <src.rf>manual</src.rf>
@@ -885,7 +885,7 @@
 <LM>w#w-ln95046-061-p2s5w18</LM>
 </w.rf>
 <form>zmodernizoval</form>
-<tag lemma="zmodernizovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zmodernizovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95046-061-p2s5w19">
 <src.rf>manual</src.rf>

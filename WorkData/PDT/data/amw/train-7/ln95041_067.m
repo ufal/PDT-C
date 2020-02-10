@@ -70,7 +70,7 @@
 <LM>w#w-ln95041-067-p1s1w7</LM>
 </w.rf>
 <form>nedohodla</form>
-<tag lemma="dohodnout_:W" src="orig" selected="1">VpQW---XR-NA--1</tag>
+<tag lemma="dohodnout" src="orig" selected="1">VpQW----R-NAP-1</tag>
 </m>
 </s>
 <s id="m-ln95041-067-p2s1">
@@ -196,7 +196,7 @@
 <LM>w#w-ln95041-067-p2s1w15</LM>
 </w.rf>
 <form>zamrzlo</form>
-<tag lemma="zamrznout_:W" src="orig" selected="1">VpNS---XR-AA--1</tag>
+<tag lemma="zamrznout" src="orig" selected="1">VpNS----R-AAP-1</tag>
 </m>
 <m id="m-ln95041-067-p2s1w16">
 <src.rf>manual</src.rf>
@@ -462,7 +462,7 @@
 <LM>w#w-ln95041-067-p2s2w15</LM>
 </w.rf>
 <form>obchodovány</form>
-<tag lemma="obchodovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="obchodovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln95041-067-p2s2w16">
 <src.rf>manual</src.rf>
@@ -781,7 +781,7 @@
 <LM>w#w-ln95041-067-p3s1w8</LM>
 </w.rf>
 <form>měřeno</form>
-<tag lemma="měřit_:T" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="měřit" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-ln95041-067-p3s1w9">
 <src.rf>manual</src.rf>
@@ -1282,7 +1282,7 @@
 <LM>w#w-ln95041-067-p4s1w20</LM>
 </w.rf>
 <form>lišila</form>
-<tag lemma="lišit_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="lišit" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95041-067-p4s1w21">
 <src.rf>manual</src.rf>
@@ -1396,7 +1396,7 @@
 <LM>w#w-ln95041-067-p4s2w13</LM>
 </w.rf>
 <form>uvedeny</form>
-<tag lemma="uvést" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="uvést" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln95041-067-p4s2w14">
 <src.rf>manual</src.rf>
@@ -2013,7 +2013,7 @@
 <LM>w#w-ln95041-067-p4s5w16</LM>
 </w.rf>
 <form>měli</form>
-<tag lemma="mít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95041-067-p4s5w17">
 <src.rf>manual</src.rf>
@@ -2132,7 +2132,7 @@
 <LM>w#w-ln95041-067-p4s6w8</LM>
 </w.rf>
 <form>prodával</form>
-<tag lemma="prodávat_:T_^(*4at)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prodávat_^(*4at)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95041-067-p4s6w9">
 <src.rf>manual</src.rf>

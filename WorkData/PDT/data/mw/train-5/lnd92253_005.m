@@ -99,7 +99,7 @@
 <LM>w#w-lnd92253-005-p1s1w11</LM>
 </w.rf>
 <form>valil</form>
-<tag lemma="valit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="valit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92253-005-p1s1w12">
 <src.rf>manual</src.rf>
@@ -187,7 +187,7 @@
 <LM>w#w-lnd92253-005-p1s1w23</LM>
 </w.rf>
 <form>podpořil</form>
-<tag lemma="podpořit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="podpořit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92253-005-p1s1w24">
 <src.rf>manual</src.rf>

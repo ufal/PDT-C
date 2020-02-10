@@ -311,7 +311,7 @@
 <LM>w#w-wsj0005-001-p1s0W27</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj0005-001-p1s0W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -319,7 +319,7 @@
 <LM>w#w-wsj0005-001-p1s0W28</LM>
 </w.rf>
 <form>zvolen</form>
-<tag lemma="zvolit" src="auto" recommended="1">VsYS---XX-APP--</tag>
+<tag lemma="zvolit" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj0005-001-p1s0W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -555,7 +555,7 @@
 <LM>w#w-wsj0005-001-p1s1W18</LM>
 </w.rf>
 <form>odstoupil</form>
-<tag lemma="odstoupit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="odstoupit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0005-001-p1s1W19-Ta">
 <src.rf>tagger-a</src.rf>

@@ -450,7 +450,7 @@
 <LM>w#w-wsj0014-001-p1s0W33</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="auto" recommended="1">VpMP---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-wsj0014-001-p1s0W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -458,7 +458,7 @@
 <LM>w#w-wsj0014-001-p1s0W34</LM>
 </w.rf>
 <form>zvoleni</form>
-<tag lemma="zvolit" src="auto" recommended="1">VsMP---XX-APP--</tag>
+<tag lemma="zvolit" src="auto" recommended="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-wsj0014-001-p1s0W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -866,7 +866,7 @@
 <LM>w#w-wsj0014-001-p1s1W18</LM>
 </w.rf>
 <form>odešel</form>
-<tag lemma="odejít" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="odejít" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0014-001-p1s1W19-Ta">
 <src.rf>tagger-a</src.rf>

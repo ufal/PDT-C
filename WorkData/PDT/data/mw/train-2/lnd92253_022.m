@@ -266,7 +266,7 @@
 <LM>w#w-lnd92253-022-p3s1w23</LM>
 </w.rf>
 <form>objevily</form>
-<tag lemma="objevit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="objevit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd92253-022-p3s1w24">
 <src.rf>manual</src.rf>
@@ -913,8 +913,8 @@
 </w.rf>
 <form>dala</form>
 <tag>
-<AM lemma="dát" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="dát_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="dát" src="orig">VpQW----R-AAP--</AM>
+<AM lemma="dát" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92253-022-p4s2w12">
@@ -1864,7 +1864,7 @@
 <LM>w#w-lnd92253-022-p5s1w3</LM>
 </w.rf>
 <form>vytápěno</form>
-<tag lemma="vytápět_:T" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="vytápět" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-lnd92253-022-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1939,8 +1939,8 @@
 </w.rf>
 <form>zváni</form>
 <tag>
-<AM lemma="zvát" src="orig">VsMP---XX-AP---</AM>
-<AM lemma="zvát_:W" src="manual" selected="1">VsMP---XX-AP---</AM>
+<AM lemma="zvát" src="orig">VsMP----X-API--</AM>
+<AM lemma="zvát" src="manual" selected="1">VsMP----X-API--</AM>
 </tag>
 </m>
 <m id="m-lnd92253-022-p5s2w5">

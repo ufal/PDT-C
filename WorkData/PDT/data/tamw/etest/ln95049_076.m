@@ -20,7 +20,7 @@
 </w.rf>
 <form>Nalezen</form>
 <tag>
-<AM lemma="naleznout" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="naleznout" src="orig">VsYS----X-API--</AM>
 <AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsYS---XX-AP---</AM>
 </tag>
 </m>
@@ -205,7 +205,7 @@
 <LM>w#w-ln95049-076-p2s1Bw17</LM>
 </w.rf>
 <form>objevila</form>
-<tag lemma="objevit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="objevit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95049-076-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -271,7 +271,7 @@
 <LM>w#w-ln95049-076-p2s2w5</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95049-076-p2s2w6">
 <src.rf>manual</src.rf>
@@ -280,7 +280,7 @@
 </w.rf>
 <form>nalezen</form>
 <tag>
-<AM lemma="naleznout" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="naleznout" src="orig">VsYS----X-API--</AM>
 <AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsYS---XX-AP---</AM>
 </tag>
 </m>
@@ -400,7 +400,7 @@
 <LM>w#w-ln95049-076-p2s2w20</LM>
 </w.rf>
 <form>odehrála</form>
-<tag lemma="odehrát" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="odehrát" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95049-076-p2s2w21">
 <src.rf>manual</src.rf>
@@ -554,7 +554,7 @@
 <LM>w#w-ln95049-076-p2s3w4</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95049-076-p2s3w5">
 <src.rf>manual</src.rf>
@@ -563,7 +563,7 @@
 </w.rf>
 <form>nalezeny</form>
 <tag>
-<AM lemma="naleznout" src="orig">VsTP---XX-AP---</AM>
+<AM lemma="naleznout" src="orig">VsTP----X-API--</AM>
 <AM lemma="nalézt-2" src="auto" recommended="1" selected="1">VsTP---XX-AP---</AM>
 </tag>
 </m>

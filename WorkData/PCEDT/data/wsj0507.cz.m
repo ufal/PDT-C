@@ -67,7 +67,7 @@
 <LM>w#w-wsj0507-001-p1s0W6</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0507-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -179,7 +179,7 @@
 <AM lemma="jeden`1" src="auto" recommended="1">ClIS4----------</AM>
 <AM lemma="jeden`1" src="auto">ClYS1----------</AM>
 <AM lemma="jeden`1" src="auto">ClYS5----------</AM>
-<AM lemma="jíst" src="auto">VsYS---XX-API--</AM>
+<AM lemma="jíst" src="auto">VsYS----X-API--</AM>
 </tag>
 </m>
 <m id="m-wsj0507-001-p1s0W16-Ta">
@@ -290,7 +290,7 @@
 <LM>w#w-wsj0507-001-p1s1W4</LM>
 </w.rf>
 <form>prohlásila</form>
-<tag lemma="prohlásit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="prohlásit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0507-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -962,7 +962,7 @@
 <LM>w#w-wsj0507-001-p1s3W13</LM>
 </w.rf>
 <form>uzavírala</form>
-<tag lemma="uzavírat" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="uzavírat" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0507-001-p1s3W14-Ta">
 <src.rf>tagger-a</src.rf>

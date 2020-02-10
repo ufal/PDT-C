@@ -604,7 +604,7 @@
 <LM>w#w-ln95049-108-p2s5w4</LM>
 </w.rf>
 <form>zaměřilo</form>
-<tag lemma="zaměřit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zaměřit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-108-p2s5w5">
 <src.rf>manual</src.rf>
@@ -840,7 +840,7 @@
 <LM>w#w-ln95049-108-p2s7w7</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95049-108-p2s7w8">
 <src.rf>manual</src.rf>
@@ -872,7 +872,7 @@
 <LM>w#w-ln95049-108-p2s7w11</LM>
 </w.rf>
 <form>změněno</form>
-<tag lemma="změnit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="změnit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95049-108-p2s7w12">
 <src.rf>manual</src.rf>
@@ -1116,7 +1116,7 @@
 <LM>w#w-ln95049-108-p2s9w11</LM>
 </w.rf>
 <form>pohybovalo</form>
-<tag lemma="pohybovat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="pohybovat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95049-108-p2s9w12">
 <src.rf>manual</src.rf>

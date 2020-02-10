@@ -419,7 +419,7 @@
 <LM>w#w-cmpr9413-035-p3s3w24</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9413-035-p3s3w25">
 <src.rf>manual</src.rf>

@@ -700,8 +700,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd94103-019-p1s6w15">
@@ -771,7 +771,7 @@
 <LM>w#w-lnd94103-019-p1s7w6</LM>
 </w.rf>
 <form>dáno</form>
-<tag lemma="dát" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="dát" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd94103-019-p1s7w7">
 <src.rf>manual</src.rf>
@@ -1008,7 +1008,7 @@
 <LM>w#w-lnd94103-019-p1s8w6</LM>
 </w.rf>
 <form>zastoupeny</form>
-<tag lemma="zastoupit" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="zastoupit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd94103-019-p1s8w7">
 <src.rf>manual</src.rf>

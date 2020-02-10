@@ -12,7 +12,7 @@
 <LM>w#w-d1t1646-1</LM>
 </w.rf>
 <form>Byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m994-d1t1646-2">
 <w.rf>

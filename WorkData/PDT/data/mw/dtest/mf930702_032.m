@@ -147,7 +147,7 @@
 <LM>w#w-mf930702-032-p2s1w9</LM>
 </w.rf>
 <form>dosáhl</form>
-<tag lemma="dosáhnout" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dosáhnout" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930702-032-p2s1w10">
 <src.rf>manual</src.rf>
@@ -243,7 +243,7 @@
 <LM>w#w-mf930702-032-p2s1w21</LM>
 </w.rf>
 <form>obchodovány</form>
-<tag lemma="obchodovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="obchodovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf930702-032-p2s1w22">
 <src.rf>manual</src.rf>
@@ -251,7 +251,7 @@
 <LM>w#w-mf930702-032-p2s1w22</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930702-032-p2s1w23">
 <src.rf>manual</src.rf>
@@ -397,7 +397,7 @@
 <LM>w#w-mf930702-032-p3s1w11</LM>
 </w.rf>
 <form>obchodovalo</form>
-<tag lemma="obchodovat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="obchodovat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930702-032-p3s1w12">
 <src.rf>manual</src.rf>
@@ -776,7 +776,7 @@
 <LM>w#w-mf930702-032-p3s3w6</LM>
 </w.rf>
 <form>trvalo</form>
-<tag lemma="trvat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="trvat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930702-032-p3s3w7">
 <src.rf>manual</src.rf>
@@ -866,7 +866,7 @@
 <LM>w#w-mf930702-032-p4s1w6</LM>
 </w.rf>
 <form>ovlivněny</form>
-<tag lemma="ovlivnit" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="ovlivnit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-mf930702-032-p4s1w7">
 <src.rf>manual</src.rf>
@@ -922,7 +922,7 @@
 <LM>w#w-mf930702-032-p4s1w13</LM>
 </w.rf>
 <form>nesložili</form>
-<tag lemma="složit_:W" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="složit" src="orig" selected="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m-mf930702-032-p4s1w14">
 <src.rf>manual</src.rf>
@@ -1095,7 +1095,7 @@
 <LM>w#w-mf930702-032-p4s2w5</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930702-032-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1119,7 +1119,7 @@
 <LM>w#w-mf930702-032-p4s2w8</LM>
 </w.rf>
 <form>nabídnuto</form>
-<tag lemma="nabídnout_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="nabídnout" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf930702-032-p4s2w9">
 <src.rf>manual</src.rf>
@@ -1175,7 +1175,7 @@
 <LM>w#w-mf930702-032-p4s2w15</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930702-032-p4s2w16">
 <src.rf>manual</src.rf>
@@ -1363,7 +1363,7 @@
 <LM>w#w-mf930702-032-p5s1w4</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930702-032-p5s1w5">
 <src.rf>manual</src.rf>
@@ -1371,7 +1371,7 @@
 <LM>w#w-mf930702-032-p5s1w5</LM>
 </w.rf>
 <form>přijato</form>
-<tag lemma="přijmout" src="auto" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="přijmout" src="auto" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf930702-032-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1931,7 +1931,7 @@
 <LM>w#w-mf930702-032-p6s1w10</LM>
 </w.rf>
 <form>mělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930702-032-p6s1w11">
 <src.rf>manual</src.rf>
@@ -2125,7 +2125,7 @@
 <LM>w#w-mf930702-032-p6s2w8</LM>
 </w.rf>
 <form>uskutečněny</form>
-<tag lemma="uskutečnit" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="uskutečnit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-mf930702-032-p6s2w9">
 <src.rf>manual</src.rf>
@@ -2261,7 +2261,7 @@
 <LM>w#w-mf930702-032-p6s2w25</LM>
 </w.rf>
 <form>blokovány</form>
-<tag lemma="blokovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="blokovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf930702-032-p6s2w26">
 <src.rf>manual</src.rf>

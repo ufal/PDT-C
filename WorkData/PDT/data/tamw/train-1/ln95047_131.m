@@ -281,7 +281,7 @@
 <LM>w#w-ln95047-131-p2s2w7</LM>
 </w.rf>
 <form>informovali</form>
-<tag lemma="informovat_:T_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="informovat" src="orig" selected="1">VpMP----R-AAB--</tag>
 </m>
 <m id="m-ln95047-131-p2s2w8">
 <src.rf>manual</src.rf>
@@ -427,7 +427,7 @@
 <LM>w#w-ln95047-131-p2s3w3</LM>
 </w.rf>
 <form>založen</form>
-<tag lemma="založit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="založit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95047-131-p2s3w4">
 <src.rf>manual</src.rf>
@@ -685,7 +685,7 @@
 <LM>w#w-ln95047-131-p2s4w7</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95047-131-p2s4w8">
 <src.rf>manual</src.rf>
@@ -741,7 +741,7 @@
 <LM>w#w-ln95047-131-p2s4w14</LM>
 </w.rf>
 <form>rozloženo</form>
-<tag lemma="rozložit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="rozložit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95047-131-p2s4w15">
 <src.rf>manual</src.rf>
@@ -922,7 +922,7 @@
 <LM>w#w-ln95047-131-p3s1w7</LM>
 </w.rf>
 <form>vybaveny</form>
-<tag lemma="vybavit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="vybavit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln95047-131-p3s1w8">
 <src.rf>manual</src.rf>

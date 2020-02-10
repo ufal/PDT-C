@@ -462,7 +462,7 @@
 <LM>w#w-ln94206-5-p2s2w4</LM>
 </w.rf>
 <form>věnovány</form>
-<tag lemma="věnovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="věnovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln94206-5-p2s2w5">
 <src.rf>manual</src.rf>

@@ -248,7 +248,7 @@
 <LM>w#w-mf930701-062-p2s1w25</LM>
 </w.rf>
 <form>sestavil</form>
-<tag lemma="sestavit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sestavit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-062-p2s1w26">
 <src.rf>manual</src.rf>
@@ -479,7 +479,7 @@
 <form>zasáhla</form>
 <tag>
 <AM lemma="zasáhnout" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="zasáhnout_:W" src="auto" recommended="1" selected="1">VpQW---XR-AA--1</AM>
+<AM lemma="zasáhnout" src="auto" recommended="1" selected="1">VpQW----R-AAP-1</AM>
 </tag>
 </m>
 <m id="m-mf930701-062-p2s2w23">
@@ -634,7 +634,7 @@
 <LM>w#w-mf930701-062-p2s3w11</LM>
 </w.rf>
 <form>objevila</form>
-<tag lemma="objevit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="objevit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930701-062-p2s3w12">
 <src.rf>manual</src.rf>

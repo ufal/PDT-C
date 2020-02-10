@@ -35,7 +35,7 @@
 <LM>w#w-mf920925-058-p1s1Aw3</LM>
 </w.rf>
 <form>omlouvali</form>
-<tag lemma="omlouvat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="omlouvat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 </s>
 <s id="m-mf920925-058-p1s1B">
@@ -165,7 +165,7 @@
 <LM>w#w-mf920925-058-p2s1w11</LM>
 </w.rf>
 <form>přijelo</form>
-<tag lemma="přijet" src="auto" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="přijet" src="auto" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920925-058-p2s1w12">
 <src.rf>manual</src.rf>
@@ -335,7 +335,7 @@
 <LM>w#w-mf920925-058-p2s2w5</LM>
 </w.rf>
 <form>omluvila</form>
-<tag lemma="omluvit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="omluvit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920925-058-p2s2w6">
 <src.rf>manual</src.rf>
@@ -415,7 +415,7 @@
 <LM>w#w-mf920925-058-p2s2w15</LM>
 </w.rf>
 <form>unaveni</form>
-<tag lemma="unavit_:W" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="unavit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-mf920925-058-p2s2w16">
 <src.rf>manual</src.rf>

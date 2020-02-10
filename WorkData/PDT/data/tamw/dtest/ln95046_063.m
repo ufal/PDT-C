@@ -349,7 +349,7 @@
 <LM>w#w-ln95046-063-p2s1Bw33</LM>
 </w.rf>
 <form>vyslovil</form>
-<tag lemma="vyslovit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyslovit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95046-063-p2s1Bw34">
 <src.rf>manual</src.rf>
@@ -518,8 +518,8 @@
 </w.rf>
 <form>přijaty</form>
 <tag>
-<AM lemma="přijmout" src="auto">VsTP---XX-AP---</AM>
-<AM lemma="přijmout_:W" src="manual" selected="1">VsTP---XX-AP---</AM>
+<AM lemma="přijmout" src="auto">VsTP----X-APP--</AM>
+<AM lemma="přijmout" src="manual" selected="1">VsTP----X-APP--</AM>
 </tag>
 </m>
 <m id="m-ln95046-063-p2s2w15">
@@ -763,7 +763,7 @@
 <LM>w#w-ln95046-063-p2s2w44</LM>
 </w.rf>
 <form>přineslo</form>
-<tag lemma="přinést" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="přinést" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95046-063-p2s2w45">
 <src.rf>manual</src.rf>
@@ -804,8 +804,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95046-063-p2s2w50">
@@ -854,7 +854,7 @@
 <LM>w#w-ln95046-063-p2s2w55</LM>
 </w.rf>
 <form>poskytl</form>
-<tag lemma="poskytnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="poskytnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln95046-063-p2s2w56">
 <src.rf>manual</src.rf>
@@ -928,7 +928,7 @@
 <LM>w#w-ln95046-063-p2s3w5</LM>
 </w.rf>
 <form>přijal</form>
-<tag lemma="přijmout" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přijmout" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95046-063-p2s3w6">
 <src.rf>manual</src.rf>
@@ -1018,7 +1018,7 @@
 <LM>w#w-ln95046-063-p2s4w4</LM>
 </w.rf>
 <form>vyslovili</form>
-<tag lemma="vyslovit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyslovit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95046-063-p2s4w5">
 <src.rf>manual</src.rf>

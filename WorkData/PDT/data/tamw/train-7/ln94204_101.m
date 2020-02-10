@@ -495,7 +495,7 @@
 <LM>w#w-ln94204-101-p2s3w11</LM>
 </w.rf>
 <form>organizovalo</form>
-<tag lemma="organizovat_:T_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="organizovat" src="orig" selected="1">VpNS----R-AAB--</tag>
 </m>
 <m id="m-ln94204-101-p2s3w12">
 <src.rf>manual</src.rf>
@@ -569,7 +569,7 @@
 <LM>w#w-ln94204-101-p2s4w4</LM>
 </w.rf>
 <form>připraveny</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="připravit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln94204-101-p2s4w5">
 <src.rf>manual</src.rf>
@@ -683,7 +683,7 @@
 <LM>w#w-ln94204-101-p2s5w6</LM>
 </w.rf>
 <form>mělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94204-101-p2s5w7">
 <src.rf>manual</src.rf>

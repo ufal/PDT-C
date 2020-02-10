@@ -186,7 +186,7 @@
 <LM>w#w-ln94208-90-p2s1Bw12</LM>
 </w.rf>
 <form>navázalo</form>
-<tag lemma="navázat_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="navázat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94208-90-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -266,7 +266,7 @@
 <LM>w#w-ln94208-90-p2s1Bw22</LM>
 </w.rf>
 <form>položil</form>
-<tag lemma="položit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="položit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94208-90-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -340,7 +340,7 @@
 <LM>w#w-ln94208-90-p2s2w1</LM>
 </w.rf>
 <form>Postavil</form>
-<tag lemma="postavit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="postavit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94208-90-p2s2w2">
 <src.rf>manual</src.rf>
@@ -814,7 +814,7 @@
 <LM>w#w-ln94208-90-p4s1w4</LM>
 </w.rf>
 <form>zahájila</form>
-<tag lemma="zahájit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zahájit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94208-90-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1056,7 +1056,7 @@
 <LM>w#w-ln94208-90-p5s1w4</LM>
 </w.rf>
 <form>připadlo</form>
-<tag lemma="připadnout_:W" src="orig" selected="1">VpNS---XR-AA--1</tag>
+<tag lemma="připadnout" src="orig" selected="1">VpNS----R-AAP-1</tag>
 </m>
 <m id="m-ln94208-90-p5s1w5">
 <src.rf>manual</src.rf>
@@ -1452,8 +1452,8 @@
 </w.rf>
 <form>přijel</form>
 <tag>
-<AM lemma="přijet" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="přijet_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="přijet" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="přijet" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94208-90-p5s4w5">
@@ -1526,7 +1526,7 @@
 <LM>w#w-ln94208-90-p5s4w14</LM>
 </w.rf>
 <form>vzpomněl</form>
-<tag lemma="vzpomenout" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vzpomenout" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94208-90-p5s4w15">
 <src.rf>manual</src.rf>
@@ -1640,7 +1640,7 @@
 <LM>w#w-ln94208-90-p5s5w2</LM>
 </w.rf>
 <form>proslul</form>
-<tag lemma="proslout" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="proslout" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94208-90-p5s5w3">
 <src.rf>manual</src.rf>

@@ -139,7 +139,7 @@
 <LM>w#w-ln94211-4-p2s1w14</LM>
 </w.rf>
 <form>zapsána</form>
-<tag lemma="zapsat" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zapsat" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94211-4-p2s1w15">
 <src.rf>manual</src.rf>
@@ -306,7 +306,7 @@
 <LM>w#w-ln94211-4-p2s3w3</LM>
 </w.rf>
 <form>zrodily</form>
-<tag lemma="zrodit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zrodit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94211-4-p2s3w4">
 <src.rf>manual</src.rf>
@@ -1059,7 +1059,7 @@
 <LM>w#w-ln94211-4-p4s2w5</LM>
 </w.rf>
 <form>nepletlo</form>
-<tag lemma="plést" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="plést" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-ln94211-4-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1349,7 +1349,7 @@
 <LM>w#w-ln94211-4-p4s3w15</LM>
 </w.rf>
 <form>zvýhodněni</form>
-<tag lemma="zvýhodnit" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="zvýhodnit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-ln94211-4-p4s3w16">
 <src.rf>manual</src.rf>

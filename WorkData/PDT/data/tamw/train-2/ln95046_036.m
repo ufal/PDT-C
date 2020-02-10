@@ -77,7 +77,7 @@
 <LM>w#w-ln95046-036-p2s1w5</LM>
 </w.rf>
 <form>podepsal</form>
-<tag lemma="podepsat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="podepsat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95046-036-p2s1w6">
 <src.rf>manual</src.rf>
@@ -183,7 +183,7 @@
 <LM>w#w-ln95046-036-p2s2w2</LM>
 </w.rf>
 <form>přestoupil</form>
-<tag lemma="přestoupit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přestoupit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95046-036-p2s2w3">
 <src.rf>manual</src.rf>

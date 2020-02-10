@@ -170,7 +170,7 @@
 <LM>w#w-lnd91303-109-p2s1w6</LM>
 </w.rf>
 <form>odešel</form>
-<tag lemma="odejít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odejít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-109-p2s1w7">
 <src.rf>manual</src.rf>
@@ -202,7 +202,7 @@
 <LM>w#w-lnd91303-109-p2s1w10</LM>
 </w.rf>
 <form>nepochopil</form>
-<tag lemma="pochopit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="pochopit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-lnd91303-109-p2s1w11">
 <src.rf>manual</src.rf>
@@ -497,7 +497,7 @@
 <LM>w#w-lnd91303-109-p6s1w2</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-109-p6s1w3">
 <src.rf>manual</src.rf>

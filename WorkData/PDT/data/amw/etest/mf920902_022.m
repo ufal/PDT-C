@@ -133,7 +133,7 @@
 <LM>w#w-mf920902-022-p2s1w11</LM>
 </w.rf>
 <form>očekávalo</form>
-<tag lemma="očekávat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="očekávat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920902-022-p2s1w12">
 <src.rf>manual</src.rf>
@@ -295,7 +295,7 @@
 <LM>w#w-mf920902-022-p2s2w19</LM>
 </w.rf>
 <form>figuroval</form>
-<tag lemma="figurovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="figurovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920902-022-p2s2w20">
 <src.rf>manual</src.rf>
@@ -721,7 +721,7 @@
 <LM>w#w-mf920902-022-p2s5w15</LM>
 </w.rf>
 <form>vstoupil</form>
-<tag lemma="vstoupit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vstoupit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-022-p2s5w16">
 <src.rf>manual</src.rf>

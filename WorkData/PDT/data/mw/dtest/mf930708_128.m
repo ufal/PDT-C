@@ -45,7 +45,7 @@
 <LM>w#w-mf930708-128-p2s1w3</LM>
 </w.rf>
 <form>zahájila</form>
-<tag lemma="zahájit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zahájit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930708-128-p2s1w4">
 <src.rf>manual</src.rf>
@@ -352,7 +352,7 @@
 <LM>w#w-mf930708-128-p3s1w8</LM>
 </w.rf>
 <form>sestoupila</form>
-<tag lemma="sestoupit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="sestoupit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930708-128-p3s1w9">
 <src.rf>manual</src.rf>
@@ -564,7 +564,7 @@
 <LM>w#w-mf930708-128-p4s2w2</LM>
 </w.rf>
 <form>vyhrála</form>
-<tag lemma="vyhrát" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyhrát" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930708-128-p4s2w3">
 <src.rf>manual</src.rf>
@@ -823,7 +823,7 @@
 <LM>w#w-mf930708-128-p4s3w13</LM>
 </w.rf>
 <form>porazilo</form>
-<tag lemma="porazit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="porazit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-128-p4s3w14">
 <src.rf>manual</src.rf>
@@ -1175,7 +1175,7 @@
 <LM>w#w-mf930708-128-p6s1w6</LM>
 </w.rf>
 <form>hrála</form>
-<tag lemma="hrát" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="hrát" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930708-128-p6s1w7">
 <src.rf>manual</src.rf>
@@ -1268,7 +1268,7 @@
 <LM>w#w-mf930708-128-p6s2w2</LM>
 </w.rf>
 <form>postoupil</form>
-<tag lemma="postoupit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="postoupit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-128-p6s2w3">
 <src.rf>manual</src.rf>

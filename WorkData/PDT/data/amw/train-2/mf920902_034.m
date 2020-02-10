@@ -1265,7 +1265,7 @@
 <LM>w#w-mf920902-034-p1s6w26</LM>
 </w.rf>
 <form>prodloužena</form>
-<tag lemma="prodloužit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="prodloužit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf920902-034-p1s6w27">
 <src.rf>manual</src.rf>

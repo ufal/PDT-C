@@ -476,7 +476,7 @@
 <LM>w#w-cmpr9407-037-p6s4w12</LM>
 </w.rf>
 <form>přesvědčili</form>
-<tag lemma="přesvědčit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přesvědčit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-cmpr9407-037-p6s4w13">
 <src.rf>manual</src.rf>
@@ -706,7 +706,7 @@
 <LM>w#w-cmpr9407-037-p10s2w6</LM>
 </w.rf>
 <form>ovlivněn</form>
-<tag lemma="ovlivnit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="ovlivnit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-cmpr9407-037-p10s2w7">
 <src.rf>manual</src.rf>
@@ -924,7 +924,7 @@
 <LM>w#w-cmpr9407-037-p11s1w15</LM>
 </w.rf>
 <form>poskytovány</form>
-<tag lemma="poskytovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="poskytovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-cmpr9407-037-p11s1w16">
 <src.rf>manual</src.rf>
@@ -1179,7 +1179,7 @@
 <LM>w#w-cmpr9407-037-p11s3w3</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9407-037-p11s3w4">
 <src.rf>manual</src.rf>
@@ -1506,7 +1506,7 @@
 <LM>w#w-cmpr9407-037-p12s2w6</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9407-037-p12s2w7">
 <src.rf>manual</src.rf>
@@ -1522,7 +1522,7 @@
 <LM>w#w-cmpr9407-037-p12s2w8</LM>
 </w.rf>
 <form>omezen</form>
-<tag lemma="omezit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="omezit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-cmpr9407-037-p12s2w9">
 <src.rf>manual</src.rf>
@@ -2006,7 +2006,7 @@
 <LM>w#w-cmpr9407-037-p13s4w5</LM>
 </w.rf>
 <form>měli</form>
-<tag lemma="mít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-cmpr9407-037-p13s4w6">
 <src.rf>manual</src.rf>
@@ -2134,7 +2134,7 @@
 <LM>w#w-cmpr9407-037-p13s4w22</LM>
 </w.rf>
 <form>zůstal</form>
-<tag lemma="zůstat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zůstat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9407-037-p13s4w23">
 <src.rf>manual</src.rf>

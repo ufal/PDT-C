@@ -44,8 +44,8 @@
 </w.rf>
 <form>zadržen</form>
 <tag>
-<AM lemma="zadržet" src="orig">VsYS---XX-AP---</AM>
-<AM lemma="zadržet_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+<AM lemma="zadržet" src="orig">VsYS----X-APP--</AM>
+<AM lemma="zadržet" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
 </s>
@@ -247,7 +247,7 @@
 <LM>w#w-mf920924-061-p2s2w16</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920924-061-p2s2w17">
 <src.rf>manual</src.rf>
@@ -328,8 +328,8 @@
 </w.rf>
 <form>zadržen</form>
 <tag>
-<AM lemma="zadržet" src="orig">VsYS---XX-AP---</AM>
-<AM lemma="zadržet_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+<AM lemma="zadržet" src="orig">VsYS----X-APP--</AM>
+<AM lemma="zadržet" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-mf920924-061-p2s2w27">
@@ -407,7 +407,7 @@
 <LM>w#w-mf920924-061-p2s3w7</LM>
 </w.rf>
 <form>plánoval</form>
-<tag lemma="plánovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="plánovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920924-061-p2s3w8">
 <src.rf>manual</src.rf>
@@ -537,7 +537,7 @@
 <LM>w#w-mf920924-061-p2s4w9</LM>
 </w.rf>
 <form>podařilo</form>
-<tag lemma="podařit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="podařit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920924-061-p2s4w10">
 <src.rf>manual</src.rf>

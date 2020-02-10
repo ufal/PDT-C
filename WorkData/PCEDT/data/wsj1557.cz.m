@@ -78,7 +78,7 @@
 <LM>w#w-wsj1557-001-p1s0W4</LM>
 </w.rf>
 <form>ohlásily</form>
-<tag lemma="ohlásit" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="ohlásit" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1557-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -361,7 +361,7 @@
 <LM>w#w-wsj1557-001-p1s1W12</LM>
 </w.rf>
 <form>dosáhly</form>
-<tag lemma="dosáhnout" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="dosáhnout" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1557-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -598,7 +598,7 @@
 <LM>w#w-wsj1557-001-p1s2W12</LM>
 </w.rf>
 <form>vynechány</form>
-<tag lemma="vynechat" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="vynechat" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj1557-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -779,7 +779,7 @@
 <tag>
 <AM lemma="odhad" src="auto">NNIS1-----A----</AM>
 <AM lemma="odhad" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="odhadnout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="odhadnout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-wsj1557-001-p1s3W9-Ta">
@@ -898,7 +898,7 @@
 <LM>w#w-wsj1557-001-p1s3W19</LM>
 </w.rf>
 <form>předpověděli</form>
-<tag lemma="předpovědět" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="předpovědět" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj1557-001-p1s3W20-Ta">
 <src.rf>tagger-a</src.rf>

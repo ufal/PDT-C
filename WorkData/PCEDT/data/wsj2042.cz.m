@@ -149,7 +149,7 @@
 <LM>w#w-wsj2042-001-p1s0W11</LM>
 </w.rf>
 <form>uvedly</form>
-<tag lemma="uvést" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj2042-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -625,7 +625,7 @@
 <LM>w#w-wsj2042-001-p1s1W22</LM>
 </w.rf>
 <form>uvedli</form>
-<tag lemma="uvést" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj2042-001-p1s1W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -883,7 +883,7 @@
 <LM>w#w-wsj2042-001-p1s2W7</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2042-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -973,7 +973,7 @@
 <LM>w#w-wsj2042-001-p1s2W15</LM>
 </w.rf>
 <form>neviděli</form>
-<tag lemma="vidět" src="auto" recommended="1">VpMP---XR-NAI--</tag>
+<tag lemma="vidět" src="auto" recommended="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-wsj2042-001-p1s2W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1085,7 +1085,7 @@
 <LM>w#w-wsj2042-001-p1s3W2</LM>
 </w.rf>
 <form>uvedlo</form>
-<tag lemma="uvést" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj2042-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1603,7 +1603,7 @@
 <LM>w#w-wsj2042-001-p1s4W13</LM>
 </w.rf>
 <form>řízeny</form>
-<tag lemma="řídit" src="auto" recommended="1">VsTP---XX-API--</tag>
+<tag lemma="řídit" src="auto" recommended="1">VsTP----X-API--</tag>
 </m>
 <m id="m-wsj2042-001-p1s4W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2085,7 +2085,7 @@
 <LM>w#w-wsj2042-001-p1s6W5</LM>
 </w.rf>
 <form>zakoupeny</form>
-<tag lemma="zakoupit" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="zakoupit" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj2042-001-p1s6W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2101,7 +2101,7 @@
 <LM>w#w-wsj2042-001-p1s6W7</LM>
 </w.rf>
 <form>prodány</form>
-<tag lemma="prodat" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="prodat" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj2042-001-p1s6W8-Ta">
 <src.rf>tagger-a</src.rf>

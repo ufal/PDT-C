@@ -302,7 +302,7 @@
 <LM>w#w-ln94200-6-p2s2w12</LM>
 </w.rf>
 <form>býval</form>
-<tag lemma="bývat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="bývat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94200-6-p2s2w13">
 <src.rf>manual</src.rf>
@@ -342,7 +342,7 @@
 <LM>w#w-ln94200-6-p2s2w17</LM>
 </w.rf>
 <form>vstupoval</form>
-<tag lemma="vstupovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vstupovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94200-6-p2s2w18">
 <src.rf>manual</src.rf>
@@ -390,7 +390,7 @@
 <LM>w#w-ln94200-6-p2s2w23</LM>
 </w.rf>
 <form>ovlivňoval</form>
-<tag lemma="ovlivňovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="ovlivňovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94200-6-p2s2w24">
 <src.rf>manual</src.rf>

@@ -63,7 +63,7 @@
 <LM>w#w-mf930703-075-p1s1w6</LM>
 </w.rf>
 <form>diskriminováni</form>
-<tag lemma="diskriminovat_:T_:W" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="diskriminovat" src="orig" selected="1">VsMP----X-APB--</tag>
 </m>
 </s>
 <s id="m-mf930703-075-p2s1">
@@ -91,7 +91,7 @@
 <form>tk</form>
 <tag>
 <AM lemma="tk-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
-<AM lemma="tknout" src="auto" recommended="1">VpYS---XR-AA--6</AM>
+<AM lemma="tknout" src="auto" recommended="1">VpYS----R-AAI-6</AM>
 </tag>
 </m>
 <m id="m-mf930703-075-p2s1w4">
@@ -188,7 +188,7 @@
 <LM>w#w-mf930703-075-p2s1w15</LM>
 </w.rf>
 <form>cítili</form>
-<tag lemma="cítit_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="cítit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930703-075-p2s1w16">
 <src.rf>manual</src.rf>
@@ -196,7 +196,7 @@
 <LM>w#w-mf930703-075-p2s1w16</LM>
 </w.rf>
 <form>diskriminováni</form>
-<tag lemma="diskriminovat_:T_:W" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="diskriminovat" src="orig" selected="1">VsMP----X-APB--</tag>
 </m>
 <m id="m-mf930703-075-p2s1w17">
 <src.rf>manual</src.rf>
@@ -212,7 +212,7 @@
 <LM>w#w-mf930703-075-p2s1w18</LM>
 </w.rf>
 <form>odmítl</form>
-<tag lemma="odmítnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="odmítnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf930703-075-p2s1w19">
 <src.rf>manual</src.rf>
@@ -408,7 +408,7 @@
 <LM>w#w-mf930703-075-p2s3w1</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930703-075-p2s3w2">
 <src.rf>manual</src.rf>
@@ -488,7 +488,7 @@
 <LM>w#w-mf930703-075-p2s3w11</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-075-p2s3w12">
 <src.rf>manual</src.rf>
@@ -649,7 +649,7 @@
 <LM>w#w-mf930703-075-p3s1w7</LM>
 </w.rf>
 <form>mluvil</form>
-<tag lemma="mluvit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mluvit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930703-075-p3s1w8">
 <src.rf>manual</src.rf>

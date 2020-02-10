@@ -85,7 +85,7 @@
 <LM>w#w-mf920923-024-p2s1w6</LM>
 </w.rf>
 <form>uspořádalo</form>
-<tag lemma="uspořádat_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="uspořádat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-024-p2s1w7">
 <src.rf>manual</src.rf>
@@ -200,7 +200,7 @@
 <LM>w#w-mf920923-024-p2s1w20</LM>
 </w.rf>
 <form>vysílalo</form>
-<tag lemma="vysílat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vysílat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920923-024-p2s1w21">
 <src.rf>manual</src.rf>

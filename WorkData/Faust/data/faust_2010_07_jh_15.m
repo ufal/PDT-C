@@ -409,7 +409,7 @@
 <LM>w#w-jh_15-SCzechM-p1538-s1-w3</LM>
 </w.rf>
 <form>zemřel</form>
-<tag lemma="zemřít" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="zemřít" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="jh_15-SCzechM-p1538-s1-w4">
 <w.rf>
@@ -460,7 +460,7 @@
 </w.rf>
 <form>bylo</form>
 <tag>
-<AM lemma="být" recommended="1">VpNS---XR-AA---</AM>
+<AM lemma="být" recommended="1">VpNS----R-AAI--</AM>
 <AM lemma="být" src="manual" selected="1">VpNS----R-AAI--</AM>
 </tag>
 </m>
@@ -470,7 +470,7 @@
 </w.rf>
 <form>zraněno</form>
 <tag>
-<AM lemma="zranit_:W" recommended="1">VsNS---XX-AP---</AM>
+<AM lemma="zranit" recommended="1">VsNS----X-APP--</AM>
 <AM lemma="zranit" src="manual" selected="1">VsNS----X-APP--</AM>
 </tag>
 </m>
@@ -1006,7 +1006,7 @@
 </w.rf>
 <form>Měl</form>
 <tag>
-<AM lemma="mít" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="mít" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="mít" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
@@ -1109,7 +1109,7 @@
 </w.rf>
 <form>bylo</form>
 <tag>
-<AM lemma="být" recommended="1">VpNS---XR-AA---</AM>
+<AM lemma="být" recommended="1">VpNS----R-AAI--</AM>
 <AM lemma="být" src="manual" selected="1">VpNS----R-AAI--</AM>
 </tag>
 </m>
@@ -1188,7 +1188,7 @@
 </w.rf>
 <form>přišla</form>
 <tag>
-<AM lemma="přijít" recommended="1">VpQW---XR-AA---</AM>
+<AM lemma="přijít" recommended="1">VpQW----R-AAP--</AM>
 <AM lemma="přijít" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
@@ -1427,7 +1427,7 @@
 </w.rf>
 <form>Byl</form>
 <tag>
-<AM lemma="být" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="být" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="být" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
@@ -1678,7 +1678,7 @@
 </w.rf>
 <form>Viděl</form>
 <tag>
-<AM lemma="vidět" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="vidět" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="vidět" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
@@ -2144,7 +2144,7 @@
 <tag>
 <AM lemma="podnik" recommended="1">NNIS4-----A----</AM>
 <AM lemma="podnik">NNIS1-----A----</AM>
-<AM lemma="podniknout_:W">VpYS---XR-AA--6</AM>
+<AM lemma="podniknout">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="jh_15-SCzechM-p1562-s1-w6">
@@ -2948,7 +2948,7 @@
 </w.rf>
 <form>Říkal</form>
 <tag>
-<AM lemma="říkat_:T" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="říkat" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="říkat" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
@@ -3486,7 +3486,7 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
@@ -4269,7 +4269,7 @@
 </w.rf>
 <form>chyběl</form>
 <tag>
-<AM lemma="chybět_:T_^(někde_něco_chybí)" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="chybět_^(někde_něco_chybí)" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="chybět_^(někde_něco_chybí)" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
@@ -4828,7 +4828,7 @@
 </w.rf>
 <form>staraly</form>
 <tag>
-<AM lemma="starat_:T_^(se)" recommended="1">VpTP---XR-AA---</AM>
+<AM lemma="starat_^(se)" recommended="1">VpTP----R-AAI--</AM>
 <AM lemma="starat_^(se)" src="manual" selected="1">VpTP----R-AAI--</AM>
 </tag>
 </m>

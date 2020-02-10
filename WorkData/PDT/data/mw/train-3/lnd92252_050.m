@@ -904,7 +904,7 @@
 <LM>w#w-lnd92252-050-p2s1w16</LM>
 </w.rf>
 <form>natočil</form>
-<tag lemma="natočit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="natočit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-050-p2s1w17">
 <src.rf>manual</src.rf>

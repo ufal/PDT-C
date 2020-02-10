@@ -550,7 +550,7 @@
 <LM>w#w-mf920924-015-p2s4w13</LM>
 </w.rf>
 <form>ošetřeni</form>
-<tag lemma="ošetřit" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="ošetřit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-mf920924-015-p2s4w14">
 <src.rf>manual</src.rf>
@@ -770,7 +770,7 @@
 <LM>w#w-mf920924-015-p2s6w3</LM>
 </w.rf>
 <form>natřeni</form>
-<tag lemma="natřít" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="natřít" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-mf920924-015-p2s6w4">
 <src.rf>manual</src.rf>
@@ -828,7 +828,7 @@
 <LM>w#w-mf920924-015-p2s7w3</LM>
 </w.rf>
 <form>ušetřeni</form>
-<tag lemma="ušetřit" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="ušetřit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-mf920924-015-p2s7w4">
 <src.rf>manual</src.rf>

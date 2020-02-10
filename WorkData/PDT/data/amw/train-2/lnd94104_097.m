@@ -78,7 +78,7 @@
 <LM>w#w-lnd94104-097-p1s1w8</LM>
 </w.rf>
 <form>obsadil</form>
-<tag lemma="obsadit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="obsadit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-097-p1s1w9">
 <src.rf>manual</src.rf>

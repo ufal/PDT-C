@@ -12,7 +12,7 @@
 <LM>w#w-d1t1101-11</LM>
 </w.rf>
 <form>Bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m140-d1t1101-12">
 <w.rf>
@@ -212,7 +212,7 @@
 <LM>w#w-d1t1115-4</LM>
 </w.rf>
 <form>nestoupl</form>
-<tag lemma="stoupnout_:W" src="auto" recommended="1">VpYS---XR-NA--1</tag>
+<tag lemma="stoupnout" src="auto" recommended="1">VpYS----R-NAP-1</tag>
 </m>
 <m id="m140-89-91">
 <w.rf>
@@ -266,7 +266,7 @@
 <LM>w#w-d1t1115-12</LM>
 </w.rf>
 <form>Naučily</form>
-<tag lemma="naučit_:W" src="auto" recommended="1">VpTP---XR-AA---</tag>
+<tag lemma="naučit" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m140-d1t1115-11">
 <w.rf>
@@ -453,7 +453,7 @@
 <LM>w#w-d1t1126-2</LM>
 </w.rf>
 <form>závodil</form>
-<tag lemma="závodit_:T" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="závodit" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m140-d1t1126-6">
 <w.rf>
@@ -574,7 +574,7 @@
 <LM>w#w-d1t1126-15</LM>
 </w.rf>
 <form>vyhráli</form>
-<tag lemma="vyhrát" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="vyhrát" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m140-d1t1126-16">
 <w.rf>
@@ -958,7 +958,7 @@
 <LM>w#w-d1t1140-12</LM>
 </w.rf>
 <form>dělal</form>
-<tag lemma="dělat_:T" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="dělat" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m140-132-242">
 <w.rf>
@@ -1661,7 +1661,7 @@
 <LM>w#w-d1t1185-8</LM>
 </w.rf>
 <form>scházeli</form>
-<tag lemma="scházet_:T" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="scházet" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m140-168-194">
 <w.rf>
@@ -1731,7 +1731,7 @@
 <LM>w#w-d1t1185-17</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m140-d1t1185-14">
 <w.rf>
@@ -1785,7 +1785,7 @@
 <LM>w#w-d1t1185-24</LM>
 </w.rf>
 <form>drželo</form>
-<tag lemma="držet" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="držet" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m140-d1t1185-25">
 <w.rf>
@@ -2226,7 +2226,7 @@
 <LM>w#w-d1t1206-4</LM>
 </w.rf>
 <form>zdědila</form>
-<tag lemma="zdědit_:W" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="zdědit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m140-d1t1206-1">
 <w.rf>

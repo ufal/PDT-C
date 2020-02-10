@@ -158,7 +158,7 @@
 <LM>w#w-lnd92255-094-p1s1w18</LM>
 </w.rf>
 <form>odhalila</form>
-<tag lemma="odhalit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="odhalit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-094-p1s1w19">
 <src.rf>manual</src.rf>
@@ -430,7 +430,7 @@
 <LM>w#w-lnd92255-094-p1s2w18</LM>
 </w.rf>
 <form>spolupracovali</form>
-<tag lemma="spolupracovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="spolupracovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92255-094-p1s2w19">
 <src.rf>manual</src.rf>
@@ -446,7 +446,7 @@
 <LM>w#w-lnd92255-094-p1s2w20</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92255-094-p1s2w21">
 <src.rf>manual</src.rf>
@@ -454,7 +454,7 @@
 <LM>w#w-lnd92255-094-p1s2w21</LM>
 </w.rf>
 <form>představen</form>
-<tag lemma="představit-1_:W_^(si_něco;_něco/někoho_někomu)" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="představit-1_^(si_něco;_něco/někoho_někomu)" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd92255-094-p1s2w22">
 <src.rf>manual</src.rf>
@@ -746,7 +746,7 @@
 <LM>w#w-lnd92255-094-p1s4w12</LM>
 </w.rf>
 <form>věnovali</form>
-<tag lemma="věnovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="věnovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92255-094-p1s4w13">
 <src.rf>manual</src.rf>
@@ -827,7 +827,7 @@
 <LM>w#w-lnd92255-094-p1s4w22</LM>
 </w.rf>
 <form>zahájena</form>
-<tag lemma="zahájit" src="auto" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zahájit" src="auto" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd92255-094-p1s4w23">
 <src.rf>manual</src.rf>

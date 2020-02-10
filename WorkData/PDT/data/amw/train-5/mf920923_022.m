@@ -70,7 +70,7 @@
 <LM>w#w-mf920923-022-p1s1w7</LM>
 </w.rf>
 <form>zahájilo</form>
-<tag lemma="zahájit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zahájit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-022-p1s1w8">
 <src.rf>manual</src.rf>
@@ -176,7 +176,7 @@
 <LM>w#w-mf920923-022-p1s2w4</LM>
 </w.rf>
 <form>respektoval</form>
-<tag lemma="respektovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="respektovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920923-022-p1s2w5">
 <src.rf>manual</src.rf>
@@ -528,7 +528,7 @@
 <LM>w#w-mf920923-022-p1s3w7</LM>
 </w.rf>
 <form>pohrál</form>
-<tag lemma="pohrát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="pohrát" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-022-p1s3w8">
 <src.rf>manual</src.rf>
@@ -675,7 +675,7 @@
 <LM>w#w-mf920923-022-p1s3w25</LM>
 </w.rf>
 <form>nepovýšil</form>
-<tag lemma="povýšit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="povýšit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-mf920923-022-p1s3w26">
 <src.rf>manual</src.rf>

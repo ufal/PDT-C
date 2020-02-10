@@ -166,8 +166,8 @@
 </w.rf>
 <form>otevřeno</form>
 <tag>
-<AM lemma="otevřít" src="orig">VsNS---XX-AP---</AM>
-<AM lemma="otevřít_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+<AM lemma="otevřít" src="orig">VsNS----X-APP--</AM>
+<AM lemma="otevřít" src="manual" selected="1">VsNS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-mf930702-119-p3s1w10">
@@ -477,8 +477,8 @@
 </w.rf>
 <form>zpřístupněn</form>
 <tag>
-<AM lemma="zpřístupnit" src="orig">VsYS---XX-AP---</AM>
-<AM lemma="zpřístupnit_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+<AM lemma="zpřístupnit" src="orig">VsYS----X-APP--</AM>
+<AM lemma="zpřístupnit" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-mf930702-119-p4s1w4">
@@ -733,7 +733,7 @@
 <LM>w#w-mf930702-119-p4s4w4</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930702-119-p4s4w5">
 <src.rf>manual</src.rf>
@@ -813,7 +813,7 @@
 <LM>w#w-mf930702-119-p4s4w14</LM>
 </w.rf>
 <form>opraven</form>
-<tag lemma="opravit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="opravit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf930702-119-p4s4w15">
 <src.rf>manual</src.rf>
@@ -1162,7 +1162,7 @@
 <LM>w#w-mf930702-119-p5s1w5</LM>
 </w.rf>
 <form>odmítli</form>
-<tag lemma="odmítnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="odmítnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-mf930702-119-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1275,7 +1275,7 @@
 <LM>w#w-mf930702-119-p5s2w7</LM>
 </w.rf>
 <form>považována</form>
-<tag lemma="považovat_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="považovat" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-mf930702-119-p5s2w8">
 <src.rf>manual</src.rf>
@@ -1385,8 +1385,8 @@
 </w.rf>
 <form>uvedli</form>
 <tag>
-<AM lemma="uvést" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="uvést_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+<AM lemma="uvést" src="orig">VpMP----R-AAP--</AM>
+<AM lemma="uvést" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930702-119-p5s3w4">
@@ -1459,7 +1459,7 @@
 <LM>w#w-mf930702-119-p5s3w12</LM>
 </w.rf>
 <form>evakuován</form>
-<tag lemma="evakuovat_:T_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="evakuovat" src="orig" selected="1">VsYS----X-APB--</tag>
 </m>
 <m id="m-mf930702-119-p5s3w13">
 <src.rf>manual</src.rf>
@@ -1633,7 +1633,7 @@
 <LM>w#w-mf930702-119-p6s1w15</LM>
 </w.rf>
 <form>umístila</form>
-<tag lemma="umístit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="umístit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930702-119-p6s1w16">
 <src.rf>manual</src.rf>

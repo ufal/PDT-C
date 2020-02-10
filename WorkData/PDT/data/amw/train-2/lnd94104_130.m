@@ -117,7 +117,7 @@
 <LM>w#w-lnd94104-130-p1s3w8</LM>
 </w.rf>
 <form>dospěla</form>
-<tag lemma="dospět" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="dospět" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-130-p1s3w9">
 <src.rf>manual</src.rf>
@@ -255,7 +255,7 @@
 <LM>w#w-lnd94104-130-p1s4w12</LM>
 </w.rf>
 <form>získalo</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-130-p1s4w13">
 <src.rf>manual</src.rf>

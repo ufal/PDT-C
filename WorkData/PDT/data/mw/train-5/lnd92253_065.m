@@ -815,7 +815,7 @@
 <LM>w#w-lnd92253-065-p3s3w7</LM>
 </w.rf>
 <form>zamračeno</form>
-<tag lemma="zamračit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zamračit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92253-065-p3s3w8">
 <src.rf>manual</src.rf>

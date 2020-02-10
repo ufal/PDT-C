@@ -154,7 +154,7 @@
 <LM>w#w-wsj1864-001-p1s0W12</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1864-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -210,7 +210,7 @@
 <LM>w#w-wsj1864-001-p1s0W17</LM>
 </w.rf>
 <form>odhlasovalo</form>
-<tag lemma="odhlasovat" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="odhlasovat" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj1864-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>

@@ -52,7 +52,7 @@
 <LM>w#w-mf930701-115-p1s1w4</LM>
 </w.rf>
 <form>bojoval</form>
-<tag lemma="bojovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="bojovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930701-115-p1s1w5">
 <src.rf>manual</src.rf>
@@ -100,7 +100,7 @@
 <LM>w#w-mf930701-115-p1s1w10</LM>
 </w.rf>
 <form>nestačil</form>
-<tag lemma="stačit_:T" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="stačit" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 </s>
 </mdata>

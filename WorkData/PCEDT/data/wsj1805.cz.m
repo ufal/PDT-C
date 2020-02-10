@@ -262,7 +262,7 @@
 <LM>w#w-wsj1805-001-p1s0W22</LM>
 </w.rf>
 <form>splatilo</form>
-<tag lemma="splatit" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="splatit" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj1805-001-p1s0W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -404,7 +404,7 @@
 <LM>w#w-wsj1805-001-p1s1W3</LM>
 </w.rf>
 <form>datována</form>
-<tag lemma="datovat" src="auto" recommended="1">VsQW---XX-API--</tag>
+<tag lemma="datovat" src="auto" recommended="1">VsQW----X-API--</tag>
 </m>
 <m id="m-wsj1805-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -698,7 +698,7 @@
 <LM>w#w-wsj1805-001-p1s2W15</LM>
 </w.rf>
 <form>přijaty</form>
-<tag lemma="přijmout" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="přijmout" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj1805-001-p1s2W16-Ta">
 <src.rf>tagger-a</src.rf>

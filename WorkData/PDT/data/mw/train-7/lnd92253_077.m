@@ -339,7 +339,7 @@
 <LM>w#w-lnd92253-077-p2s2w20</LM>
 </w.rf>
 <form>musel</form>
-<tag lemma="muset" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="muset" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92253-077-p2s2w21">
 <src.rf>manual</src.rf>
@@ -597,7 +597,7 @@
 <LM>w#w-lnd92253-077-p2s3w26</LM>
 </w.rf>
 <form>vyhlášeny</form>
-<tag lemma="vyhlásit" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="vyhlásit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd92253-077-p2s3w27">
 <src.rf>manual</src.rf>

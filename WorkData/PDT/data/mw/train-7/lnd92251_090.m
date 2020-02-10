@@ -317,7 +317,7 @@
 <LM>w#w-lnd92251-090-p2s2w5</LM>
 </w.rf>
 <form>jednali</form>
-<tag lemma="jednat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="jednat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92251-090-p2s2w6">
 <src.rf>manual</src.rf>
@@ -406,8 +406,8 @@
 </w.rf>
 <form>nedošlo</form>
 <tag>
-<AM lemma="dojít" src="orig">VpNS---XR-NA---</AM>
-<AM lemma="dojít_:W" src="manual" selected="1">VpNS---XR-NA---</AM>
+<AM lemma="dojít" src="orig">VpNS----R-NAP--</AM>
+<AM lemma="dojít" src="manual" selected="1">VpNS----R-NAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92251-090-p2s2w17">

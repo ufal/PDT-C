@@ -35,7 +35,7 @@
 <LM>w#w-lnd92257-008-p1s1w3</LM>
 </w.rf>
 <form>skončily</form>
-<tag lemma="skončit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="skončit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-008-p1s1w4">
 <src.rf>manual</src.rf>

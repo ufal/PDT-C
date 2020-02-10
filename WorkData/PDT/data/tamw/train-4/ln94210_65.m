@@ -240,7 +240,7 @@
 <LM>w#w-ln94210-65-p2s1Cw13</LM>
 </w.rf>
 <form>připravil</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="připravit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94210-65-p2s1Cw14">
 <src.rf>manual</src.rf>
@@ -875,7 +875,7 @@
 <LM>w#w-ln94210-65-p3s4w7</LM>
 </w.rf>
 <form>zřízena</form>
-<tag lemma="zřídit" src="auto" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zřídit" src="auto" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94210-65-p3s4w8">
 <src.rf>manual</src.rf>
@@ -1532,7 +1532,7 @@
 <LM>w#w-ln94210-65-p3s8w4</LM>
 </w.rf>
 <form>prodloužen</form>
-<tag lemma="prodloužit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="prodloužit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94210-65-p3s8w5">
 <src.rf>manual</src.rf>
@@ -1974,7 +1974,7 @@
 <LM>w#w-ln94210-65-p3s12w10</LM>
 </w.rf>
 <form>uzavřena</form>
-<tag lemma="uzavřít" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="uzavřít" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94210-65-p3s12w11">
 <src.rf>manual</src.rf>

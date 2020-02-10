@@ -27,7 +27,7 @@
 <LM>w#w-mf920924-086-p1s1w2</LM>
 </w.rf>
 <form>zraněn</form>
-<tag lemma="zranit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zranit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 </s>
 <s id="m-mf920924-086-p2s1">
@@ -56,7 +56,7 @@
 <LM>w#w-mf920924-086-p2s1w3</LM>
 </w.rf>
 <form>spoléhal</form>
-<tag lemma="spoléhat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="spoléhat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920924-086-p2s1w4">
 <src.rf>manual</src.rf>

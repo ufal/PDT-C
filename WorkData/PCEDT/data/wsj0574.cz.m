@@ -54,7 +54,7 @@
 <LM>w#w-wsj0574-001-p1s0W5</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0574-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -81,7 +81,7 @@
 <LM>w#w-wsj0574-001-p1s0W8</LM>
 </w.rf>
 <form>souhlasila</form>
-<tag lemma="souhlasit" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="souhlasit" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0574-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -349,7 +349,7 @@
 <LM>w#w-wsj0574-001-p1s1W2</LM>
 </w.rf>
 <form>nebyla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-NAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-wsj0574-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -358,8 +358,8 @@
 </w.rf>
 <form>zveřejněna</form>
 <tag>
-<AM lemma="zveřejnit" src="auto" recommended="1">VsQW---XX-APP--</AM>
-<AM lemma="zveřejnět" src="auto">VsQW---XX-APP--</AM>
+<AM lemma="zveřejnit" src="auto" recommended="1">VsQW----X-APP--</AM>
+<AM lemma="zveřejnět" src="auto">VsQW----X-APP--</AM>
 </tag>
 </m>
 <m id="m-wsj0574-001-p1s1W4-Ta">
@@ -463,7 +463,7 @@
 <LM>w#w-wsj0574-001-p1s3W2</LM>
 </w.rf>
 <form>získala</form>
-<tag lemma="získat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="získat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0574-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -778,7 +778,7 @@
 <LM>w#w-wsj0574-001-p1s4W2</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0574-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -805,7 +805,7 @@
 <LM>w#w-wsj0574-001-p1s4W5</LM>
 </w.rf>
 <form>pátrala</form>
-<tag lemma="pátrat" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="pátrat" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0574-001-p1s4W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1081,7 +1081,7 @@
 <LM>w#w-wsj0574-001-p1s5W6</LM>
 </w.rf>
 <form>vlastněna</form>
-<tag lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto" recommended="1">VsQW---XX-API--</tag>
+<tag lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto" recommended="1">VsQW----X-API--</tag>
 </m>
 <m id="m-wsj0574-001-p1s5W7-Ta">
 <src.rf>tagger-a</src.rf>

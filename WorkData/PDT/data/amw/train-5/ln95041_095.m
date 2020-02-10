@@ -151,7 +151,7 @@
 <LM>w#w-ln95041-095-p2s1Bw10</LM>
 </w.rf>
 <form>otevřen</form>
-<tag lemma="otevřít" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="otevřít" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95041-095-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -292,7 +292,7 @@
 <LM>w#w-ln95041-095-p2s2w4</LM>
 </w.rf>
 <form>připravováno</form>
-<tag lemma="připravovat_:T" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="připravovat" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-ln95041-095-p2s2w5">
 <src.rf>manual</src.rf>
@@ -404,7 +404,7 @@
 <LM>w#w-ln95041-095-p2s2w18</LM>
 </w.rf>
 <form>uskutečnila</form>
-<tag lemma="uskutečnit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="uskutečnit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95041-095-p2s2w19">
 <src.rf>manual</src.rf>
@@ -670,7 +670,7 @@
 <LM>w#w-ln95041-095-p2s4w4</LM>
 </w.rf>
 <form>vybaven</form>
-<tag lemma="vybavit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="vybavit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95041-095-p2s4w5">
 <src.rf>manual</src.rf>

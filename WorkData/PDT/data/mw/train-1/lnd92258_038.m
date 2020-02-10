@@ -239,8 +239,8 @@
 </w.rf>
 <form>dospěli</form>
 <tag>
-<AM lemma="dospět" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="dospět_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+<AM lemma="dospět" src="orig">VpMP----R-AAP--</AM>
+<AM lemma="dospět" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92258-038-p3s3w8">
@@ -371,7 +371,7 @@
 <LM>w#w-lnd92258-038-p3s4w6</LM>
 </w.rf>
 <form>nepodařilo</form>
-<tag lemma="podařit_:W" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="podařit" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-lnd92258-038-p3s4w7">
 <src.rf>manual</src.rf>

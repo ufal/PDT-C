@@ -117,7 +117,7 @@
 <LM>w#w-mf920923-119-p1s1Bw8</LM>
 </w.rf>
 <form>zabavila</form>
-<tag lemma="zabavit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zabavit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920923-119-p1s1Bw9">
 <src.rf>manual</src.rf>
@@ -237,7 +237,7 @@
 <LM>w#w-mf920923-119-p1s1Bw23</LM>
 </w.rf>
 <form>odhalila</form>
-<tag lemma="odhalit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="odhalit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920923-119-p1s1Bw24">
 <src.rf>manual</src.rf>
@@ -452,7 +452,7 @@
 <LM>w#w-mf920923-119-p1s2w8</LM>
 </w.rf>
 <form>lehlo</form>
-<tag lemma="lehnout_:W" src="orig" selected="1">VpNS---XR-AA--1</tag>
+<tag lemma="lehnout" src="orig" selected="1">VpNS----R-AAP-1</tag>
 </m>
 <m id="m-mf920923-119-p1s2w9">
 <src.rf>manual</src.rf>
@@ -532,7 +532,7 @@
 <LM>w#w-mf920923-119-p1s2w18</LM>
 </w.rf>
 <form>vypukl</form>
-<tag lemma="vypuknout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="vypuknout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf920923-119-p1s2w19">
 <src.rf>manual</src.rf>

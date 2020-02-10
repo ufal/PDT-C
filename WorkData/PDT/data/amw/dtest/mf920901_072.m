@@ -135,7 +135,7 @@
 <LM>w#w-mf920901-072-p2s2w10</LM>
 </w.rf>
 <form>zveřejnila</form>
-<tag lemma="zveřejnit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zveřejnit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920901-072-p2s2w11">
 <src.rf>manual</src.rf>
@@ -191,7 +191,7 @@
 <LM>w#w-mf920901-072-p2s2w17</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf920901-072-p2s2w18">
 <src.rf>manual</src.rf>
@@ -257,7 +257,7 @@
 <LM>w#w-mf920901-072-p2s3w1</LM>
 </w.rf>
 <form>Konstatovalo</form>
-<tag lemma="konstatovat_:T_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="konstatovat" src="orig" selected="1">VpNS----R-AAB--</tag>
 </m>
 <m id="m-mf920901-072-p2s3w2">
 <src.rf>manual</src.rf>

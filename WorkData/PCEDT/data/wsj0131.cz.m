@@ -113,7 +113,7 @@
 <LM>w#w-wsj0131-001-p1s0W7</LM>
 </w.rf>
 <form>dokončila</form>
-<tag lemma="dokončit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="dokončit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0131-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -560,7 +560,7 @@
 <LM>w#w-wsj0131-001-p1s1W17</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0131-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>

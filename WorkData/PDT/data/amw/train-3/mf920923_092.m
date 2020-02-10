@@ -184,7 +184,7 @@
 <LM>w#w-mf920923-092-p2s2w13</LM>
 </w.rf>
 <form>stahoval</form>
-<tag lemma="stahovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="stahovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920923-092-p2s2w14">
 <src.rf>manual</src.rf>
@@ -369,7 +369,7 @@
 <LM>w#w-mf920923-092-p2s2w35</LM>
 </w.rf>
 <form>distancovala</form>
-<tag lemma="distancovat_:T_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="distancovat" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-mf920923-092-p2s2w36">
 <src.rf>manual</src.rf>

@@ -83,7 +83,7 @@
 <LM>w#w-d1t3856-7</LM>
 </w.rf>
 <form>povídalo</form>
-<tag lemma="povídat_:T" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="povídat" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m053-d-m-d1e3853-x2-punct-punct">
 <w.rf>
@@ -142,7 +142,7 @@
 <LM>w#w-d1t3862-8</LM>
 </w.rf>
 <form>věděl</form>
-<tag lemma="vědět" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="vědět" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m053-d1t3862-9">
 <w.rf>
@@ -191,7 +191,7 @@
 <LM>w#w-d1t3862-14</LM>
 </w.rf>
 <form>prožili</form>
-<tag lemma="prožít" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="prožít" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m053-d1t3862-15">
 <w.rf>
@@ -211,7 +211,7 @@
 <LM>w#w-d1t3862-16</LM>
 </w.rf>
 <form>zažili</form>
-<tag lemma="zažít" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="zažít" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m053-d-m-d1e3857-x2-punct-punct">
 <w.rf>

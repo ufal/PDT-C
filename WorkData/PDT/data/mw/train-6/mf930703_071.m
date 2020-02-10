@@ -1820,7 +1820,7 @@
 <LM>w#w-mf930703-071-p5s6w4</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930703-071-p5s6w5">
 <src.rf>manual</src.rf>
@@ -2199,7 +2199,7 @@
 </w.rf>
 <form>zataženo</form>
 <tag>
-<AM lemma="zatáhnout" src="orig">VsNS---XX-AP---</AM>
+<AM lemma="zatáhnout" src="orig">VsNS----X-APP--</AM>
 <AM lemma="zataženo-2_^(být_zataženo)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>

@@ -97,7 +97,7 @@
 <LM>w#w-wsj2335-001-p1s0W9</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj2335-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -105,7 +105,7 @@
 <LM>w#w-wsj2335-001-p1s0W10</LM>
 </w.rf>
 <form>jmenován</form>
-<tag lemma="jmenovat" src="auto" recommended="1">VsYS---XX-APB--</tag>
+<tag lemma="jmenovat" src="auto" recommended="1">VsYS----X-APB--</tag>
 </m>
 <m id="m-wsj2335-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -249,7 +249,7 @@
 <LM>w#w-wsj2335-001-p1s0W21</LM>
 </w.rf>
 <form>nahradil</form>
-<tag lemma="nahradit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="nahradit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2335-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -430,7 +430,7 @@
 <LM>w#w-wsj2335-001-p1s0W34</LM>
 </w.rf>
 <form>odstoupil</form>
-<tag lemma="odstoupit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="odstoupit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2335-001-p1s0W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -456,7 +456,7 @@
 <LM>w#w-wsj2335-001-p1s1W2</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj2335-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -537,7 +537,7 @@
 <LM>w#w-wsj2335-001-p1s1W10</LM>
 </w.rf>
 <form>odstoupil</form>
-<tag lemma="odstoupit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="odstoupit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2335-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -944,7 +944,7 @@
 <LM>w#w-wsj2335-001-p1s3W3</LM>
 </w.rf>
 <form>jmenovala</form>
-<tag lemma="jmenovat" src="auto" recommended="1">VpQW---XR-AAB--</tag>
+<tag lemma="jmenovat" src="auto" recommended="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-wsj2335-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1109,7 +1109,7 @@
 <LM>w#w-wsj2335-001-p1s3W18</LM>
 </w.rf>
 <form>obsadila</form>
-<tag lemma="obsadit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="obsadit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2335-001-p1s3W19-Ta">
 <src.rf>tagger-a</src.rf>

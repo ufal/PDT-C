@@ -27,7 +27,7 @@
 <LM>w#w-lnd91301-093-p1s1w2</LM>
 </w.rf>
 <form>zopakoval</form>
-<tag lemma="zopakovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zopakovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 </s>
 <s id="m-lnd91301-093-p2s1">
@@ -247,7 +247,7 @@
 <LM>w#w-lnd91301-093-p3s2w10</LM>
 </w.rf>
 <form>získal</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-093-p3s2w11">
 <src.rf>manual</src.rf>
@@ -337,7 +337,7 @@
 <LM>w#w-lnd91301-093-p3s3w4</LM>
 </w.rf>
 <form>skončil</form>
-<tag lemma="skončit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="skončit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-093-p3s3w5">
 <src.rf>manual</src.rf>

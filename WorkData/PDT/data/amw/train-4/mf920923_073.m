@@ -422,7 +422,7 @@
 <LM>w#w-mf920923-073-p1s3w10</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920923-073-p1s3w11">
 <src.rf>manual</src.rf>
@@ -430,7 +430,7 @@
 <LM>w#w-mf920923-073-p1s3w11</LM>
 </w.rf>
 <form>schváleno</form>
-<tag lemma="schválit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="schválit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf920923-073-p1s3w12">
 <src.rf>manual</src.rf>
@@ -724,7 +724,7 @@
 <LM>w#w-mf920923-073-p1s5w4</LM>
 </w.rf>
 <form>navrhoval</form>
-<tag lemma="navrhovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="navrhovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920923-073-p1s5w5">
 <src.rf>manual</src.rf>
@@ -830,7 +830,7 @@
 <LM>w#w-mf920923-073-p1s6w6</LM>
 </w.rf>
 <form>připraven</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="připravit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf920923-073-p1s6w7">
 <src.rf>manual</src.rf>
@@ -838,7 +838,7 @@
 <LM>w#w-mf920923-073-p1s6w7</LM>
 </w.rf>
 <form>nebyl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-mf920923-073-p1s6w8">
 <src.rf>manual</src.rf>
@@ -876,7 +876,7 @@
 <LM>w#w-mf920923-073-p1s7w3</LM>
 </w.rf>
 <form>vyloučeno</form>
-<tag lemma="vyloučit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="vyloučit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf920923-073-p1s7w4">
 <src.rf>manual</src.rf>
@@ -1457,7 +1457,7 @@
 <LM>w#w-mf920923-073-p1s12w5</LM>
 </w.rf>
 <form>registrovány</form>
-<tag lemma="registrovat_:T_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="registrovat" src="orig" selected="1">VsTP----X-APB--</tag>
 </m>
 <m id="m-mf920923-073-p1s12w6">
 <src.rf>manual</src.rf>
@@ -1688,7 +1688,7 @@
 <LM>w#w-mf920923-073-p1s14w4</LM>
 </w.rf>
 <form>přispělo</form>
-<tag lemma="přispět" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="přispět" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-073-p1s14w5">
 <src.rf>manual</src.rf>

@@ -139,7 +139,7 @@
 <LM>w#w-ln94203-21-p1s1w16</LM>
 </w.rf>
 <form>postavena</form>
-<tag lemma="postavit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="postavit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94203-21-p1s1w17">
 <src.rf>manual</src.rf>

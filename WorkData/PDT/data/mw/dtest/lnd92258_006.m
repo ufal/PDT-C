@@ -27,7 +27,7 @@
 <LM>w#w-lnd92258-006-p1s1w2</LM>
 </w.rf>
 <form>porušeno</form>
-<tag lemma="porušit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="porušit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 </s>
 <s id="m-lnd92258-006-p2s1">
@@ -111,7 +111,7 @@
 <LM>w#w-lnd92258-006-p2s2w8</LM>
 </w.rf>
 <form>dohodly</form>
-<tag lemma="dohodnout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="dohodnout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-lnd92258-006-p2s2w9">
 <src.rf>manual</src.rf>
@@ -325,7 +325,7 @@
 <LM>w#w-lnd92258-006-p2s2w34</LM>
 </w.rf>
 <form>ztroskotalo</form>
-<tag lemma="ztroskotat_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="ztroskotat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-006-p2s2w35">
 <src.rf>manual</src.rf>
@@ -399,7 +399,7 @@
 <LM>w#w-lnd92258-006-p2s3w8</LM>
 </w.rf>
 <form>trvaly</form>
-<tag lemma="trvat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="trvat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd92258-006-p2s3w9">
 <src.rf>manual</src.rf>

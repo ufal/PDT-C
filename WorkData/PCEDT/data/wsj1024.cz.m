@@ -144,7 +144,7 @@
 <LM>w#w-wsj1024-001-p1s0W12</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1024-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -254,7 +254,7 @@
 <LM>w#w-wsj1024-001-p1s0W22</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj1024-001-p1s0W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -262,7 +262,7 @@
 <LM>w#w-wsj1024-001-p1s0W23</LM>
 </w.rf>
 <form>restrukturalizována</form>
-<tag lemma="restrukturalizovat" src="auto" recommended="1">VsQW---XX-API--</tag>
+<tag lemma="restrukturalizovat" src="auto" recommended="1">VsQW----X-API--</tag>
 </m>
 <m id="m-wsj1024-001-p1s0W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -306,7 +306,7 @@
 <LM>w#w-wsj1024-001-p1s0W27</LM>
 </w.rf>
 <form>vznikly</form>
-<tag lemma="vzniknout" src="auto" recommended="1">VpTP---XR-AAP-1</tag>
+<tag lemma="vzniknout" src="auto" recommended="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-wsj1024-001-p1s0W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -647,7 +647,7 @@
 </w.rf>
 <form>kutily</form>
 <tag>
-<AM lemma="kutit" src="auto">VpTP---XR-AAI--</AM>
+<AM lemma="kutit" src="auto">VpTP----R-AAI--</AM>
 <AM lemma="kutil" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="kutil" src="auto">NNMP7-----A----</AM>
 </tag>
@@ -888,7 +888,7 @@
 <LM>w#w-wsj1024-001-p1s1W9</LM>
 </w.rf>
 <form>prohlásila</form>
-<tag lemma="prohlásit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="prohlásit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1024-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1248,7 +1248,7 @@
 <LM>w#w-wsj1024-001-p1s2W4</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj1024-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1264,7 +1264,7 @@
 <LM>w#w-wsj1024-001-p1s2W6</LM>
 </w.rf>
 <form>pohlcena</form>
-<tag lemma="pohltit" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="pohltit" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj1024-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1375,7 +1375,7 @@
 <LM>w#w-wsj1024-001-p1s2W15</LM>
 </w.rf>
 <form>získala</form>
-<tag lemma="získat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="získat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1024-001-p1s2W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1538,7 +1538,7 @@
 <LM>w#w-wsj1024-001-p1s3W10</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1024-001-p1s3W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1612,7 +1612,7 @@
 <LM>w#w-wsj1024-001-p1s3W14</LM>
 </w.rf>
 <form>jmenován</form>
-<tag lemma="jmenovat" src="auto" recommended="1">VsYS---XX-APB--</tag>
+<tag lemma="jmenovat" src="auto" recommended="1">VsYS----X-APB--</tag>
 </m>
 <m id="m-wsj1024-001-p1s3W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1880,7 +1880,7 @@
 <LM>w#w-wsj1024-001-p1s4W12</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1024-001-p1s4W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1888,7 +1888,7 @@
 <LM>w#w-wsj1024-001-p1s4W13</LM>
 </w.rf>
 <form>jmenován</form>
-<tag lemma="jmenovat" src="auto" recommended="1">VsYS---XX-APB--</tag>
+<tag lemma="jmenovat" src="auto" recommended="1">VsYS----X-APB--</tag>
 </m>
 <m id="m-wsj1024-001-p1s4W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2024,7 +2024,7 @@
 </w.rf>
 <form>kutily</form>
 <tag>
-<AM lemma="kutit" src="auto">VpTP---XR-AAI--</AM>
+<AM lemma="kutit" src="auto">VpTP----R-AAI--</AM>
 <AM lemma="kutil" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="kutil" src="auto">NNMP7-----A----</AM>
 </tag>

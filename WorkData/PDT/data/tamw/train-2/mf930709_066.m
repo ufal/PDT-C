@@ -1752,7 +1752,7 @@
 <LM>w#w-mf930709-066-p5s1w9</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930709-066-p5s1w10">
 <src.rf>manual</src.rf>
@@ -2912,7 +2912,7 @@
 <LM>w#w-mf930709-066-p6s14w5</LM>
 </w.rf>
 <form>zataženo</form>
-<tag lemma="zatáhnout" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zatáhnout" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf930709-066-p6s14w6">
 <src.rf>manual</src.rf>

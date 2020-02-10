@@ -68,7 +68,7 @@
 <LM>w#w-wsj0543-001-p1s0W6</LM>
 </w.rf>
 <form>získala</form>
-<tag lemma="získat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="získat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0543-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -333,7 +333,7 @@
 <LM>w#w-wsj0543-001-p1s1W6</LM>
 </w.rf>
 <form>přijala</form>
-<tag lemma="přijmout" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="přijmout" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0543-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>

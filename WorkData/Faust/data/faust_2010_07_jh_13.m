@@ -170,7 +170,7 @@
 </w.rf>
 <form>uloženy</form>
 <tag>
-<AM lemma="uložit_:W" recommended="1">VsTP---XX-AP---</AM>
+<AM lemma="uložit" recommended="1">VsTP----X-APP--</AM>
 <AM lemma="uložit" src="manual" selected="1">VsTP----X-APP--</AM>
 </tag>
 </m>
@@ -478,7 +478,7 @@
 </w.rf>
 <form>porovnávány</form>
 <tag>
-<AM lemma="porovnávat_:T_^(*4at)" recommended="1">VsTP---XX-AP---</AM>
+<AM lemma="porovnávat_^(*4at)" recommended="1">VsTP----X-API--</AM>
 <AM lemma="porovnávat_^(*4at)" src="manual" selected="1">VsTP----X-API--</AM>
 </tag>
 </m>
@@ -556,7 +556,7 @@
 </w.rf>
 <form>organizována</form>
 <tag>
-<AM lemma="organizovat_:T_:W" recommended="1">VsQW---XX-AP---</AM>
+<AM lemma="organizovat" recommended="1">VsQW----X-APB--</AM>
 <AM lemma="organizovat" src="manual" selected="1">VsQW----X-APB--</AM>
 </tag>
 </m>
@@ -846,8 +846,8 @@
 <AM lemma="číslo" recommended="1">NNNS1-----A----</AM>
 <AM lemma="číslo">NNNS4-----A----</AM>
 <AM lemma="číslo">NNNS5-----A----</AM>
-<AM lemma="čísnout-1_:W_,h_^(praštit)">VpNS---XR-AA--1</AM>
-<AM lemma="čísnout-2_:W_,a_^(přejet_hřebenem)">VpNS---XR-AA--1</AM>
+<AM lemma="čísnout-1_,h_^(praštit)">VpNS----R-AAP-1</AM>
+<AM lemma="čísnout-2_,a_^(přejet_hřebenem)">VpNS----R-AAP-1</AM>
 </tag>
 </m>
 <m id="jh_13-SCzechM-p1307-s1-w4">
@@ -865,7 +865,7 @@
 </w.rf>
 <form>Vrátil</form>
 <tag>
-<AM lemma="vrátit_:W" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="vrátit" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="Vrátil_;S">NNMS1-----A----</AM>
 <AM lemma="vrátit" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
@@ -1072,7 +1072,7 @@
 </w.rf>
 <form>byl</form>
 <tag>
-<AM lemma="být" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="být" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="být" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
@@ -1082,7 +1082,7 @@
 </w.rf>
 <form>distribuován</form>
 <tag>
-<AM lemma="distribuovat_:T" recommended="1">VsYS---XX-AP---</AM>
+<AM lemma="distribuovat" recommended="1">VsYS----X-API--</AM>
 <AM lemma="distribuovat" src="manual" selected="1">VsYS----X-API--</AM>
 </tag>
 </m>
@@ -2164,7 +2164,7 @@
 </w.rf>
 <form>odečteno</form>
 <tag>
-<AM lemma="odečíst" recommended="1">VsNS---XX-AP---</AM>
+<AM lemma="odečíst" recommended="1">VsNS----X-APP--</AM>
 <AM lemma="odečíst" src="manual" selected="1">VsNS----X-APP--</AM>
 </tag>
 </m>
@@ -2397,7 +2397,7 @@
 </w.rf>
 <form>Chtěl</form>
 <tag>
-<AM lemma="chtít" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="chtít" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="chtít" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
@@ -4162,7 +4162,7 @@
 </w.rf>
 <form>polichocen</form>
 <tag>
-<AM lemma="polichotit_:W" recommended="1">VsYS---XX-AP---</AM>
+<AM lemma="polichotit" recommended="1">VsYS----X-APP--</AM>
 <AM lemma="polichotit" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
@@ -4228,7 +4228,7 @@
 </w.rf>
 <form>byl</form>
 <tag>
-<AM lemma="být" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="být" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="být" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>

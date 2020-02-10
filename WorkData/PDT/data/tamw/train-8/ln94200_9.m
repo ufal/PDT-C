@@ -67,7 +67,7 @@
 <LM>w#w-ln94200-9-p2s1w4</LM>
 </w.rf>
 <form>znamenal</form>
-<tag lemma="znamenat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="znamenat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94200-9-p2s1w5">
 <src.rf>manual</src.rf>
@@ -169,7 +169,7 @@
 <LM>w#w-ln94200-9-p2s1w16</LM>
 </w.rf>
 <form>považován</form>
-<tag lemma="považovat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="považovat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-ln94200-9-p2s1w17">
 <src.rf>manual</src.rf>
@@ -209,7 +209,7 @@
 <LM>w#w-ln94200-9-p2s1w21</LM>
 </w.rf>
 <form>ohlásilo</form>
-<tag lemma="ohlásit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="ohlásit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-9-p2s1w22">
 <src.rf>manual</src.rf>
@@ -390,7 +390,7 @@
 <LM>w#w-ln94200-9-p2s2w9</LM>
 </w.rf>
 <form>situován</form>
-<tag lemma="situovat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="situovat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-ln94200-9-p2s2w10">
 <src.rf>manual</src.rf>

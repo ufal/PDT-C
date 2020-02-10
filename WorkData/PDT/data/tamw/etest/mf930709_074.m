@@ -163,7 +163,7 @@
 <LM>w#w-mf930709-074-p2s1Bw9</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930709-074-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -399,7 +399,7 @@
 <LM>w#w-mf930709-074-p2s3w7</LM>
 </w.rf>
 <form>shodla</form>
-<tag lemma="shodnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="shodnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-mf930709-074-p2s3w8">
 <src.rf>manual</src.rf>
@@ -593,7 +593,7 @@
 <LM>w#w-mf930709-074-p2s4w17</LM>
 </w.rf>
 <form>založeny</form>
-<tag lemma="založit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="založit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-mf930709-074-p2s4w18">
 <src.rf>manual</src.rf>
@@ -683,7 +683,7 @@
 <LM>w#w-mf930709-074-p2s5w4</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930709-074-p2s5w5">
 <src.rf>manual</src.rf>
@@ -699,7 +699,7 @@
 <LM>w#w-mf930709-074-p2s5w6</LM>
 </w.rf>
 <form>vytyčena</form>
-<tag lemma="vytyčit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="vytyčit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf930709-074-p2s5w7">
 <src.rf>manual</src.rf>

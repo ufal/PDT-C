@@ -69,7 +69,7 @@
 <LM>w#w-d1t1769-1</LM>
 </w.rf>
 <form>jmenoval</form>
-<tag lemma="jmenovat_:T_:W" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="jmenovat" src="auto" recommended="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m951-d1t1774-1">
 <w.rf>
@@ -89,7 +89,7 @@
 <LM>w#w-d1t1774-3</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m951-d1t1774-4">
 <w.rf>
@@ -146,7 +146,7 @@
 <LM>w#w-d1t1774-10</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="dát" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m951-d1e1589-x12-8416">
 <w.rf>
@@ -253,7 +253,7 @@
 <LM>w#w-d1t1784-5</LM>
 </w.rf>
 <form>bydlel</form>
-<tag lemma="bydlet" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="bydlet" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m951-d1t1784-6">
 <w.rf>
@@ -325,7 +325,7 @@
 <LM>w#w-d1t1786-2</LM>
 </w.rf>
 <form>nebydlel</form>
-<tag lemma="bydlet" src="auto" recommended="1">VpYS---XR-NA---</tag>
+<tag lemma="bydlet" src="auto" recommended="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m951-d1e1779-x3-2454">
 <w.rf>
@@ -343,7 +343,7 @@
 <form>Musel</form>
 <tag>
 <AM lemma="Musel_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="muset" src="auto" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="muset" src="auto" recommended="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m951-d1t1786-4">
@@ -564,7 +564,7 @@
 <LM>w#w-d1t1801-10</LM>
 </w.rf>
 <form>šel</form>
-<tag lemma="jít" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="jít" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m951-d1t1803-1">
 <w.rf>

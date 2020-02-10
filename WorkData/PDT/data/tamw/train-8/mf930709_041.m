@@ -35,7 +35,7 @@
 <LM>w#w-mf930709-041-p1s1w3</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930709-041-p1s1w4">
 <src.rf>manual</src.rf>

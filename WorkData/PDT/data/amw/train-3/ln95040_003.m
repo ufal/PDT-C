@@ -37,7 +37,7 @@
 <LM>w#w-ln95040-003-p2s1w2</LM>
 </w.rf>
 <form>utratili</form>
-<tag lemma="utratit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="utratit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95040-003-p2s1w3">
 <src.rf>manual</src.rf>

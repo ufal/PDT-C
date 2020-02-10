@@ -175,7 +175,7 @@
 <LM>w#w-lnd94105-023-p1s3w12</LM>
 </w.rf>
 <form>prozkoumán</form>
-<tag lemma="prozkoumat_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="prozkoumat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd94105-023-p1s3w13">
 <src.rf>manual</src.rf>
@@ -193,7 +193,7 @@
 <LM>w#w-lnd94105-023-p1s4w1</LM>
 </w.rf>
 <form>Uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94105-023-p1s4w2">
 <src.rf>manual</src.rf>

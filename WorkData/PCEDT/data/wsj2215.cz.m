@@ -593,7 +593,7 @@
 <LM>w#w-wsj2215-001-p1s4W17</LM>
 </w.rf>
 <form>mělo</form>
-<tag lemma="mít" src="auto" recommended="1">VpNS---XR-AAI--</tag>
+<tag lemma="mít" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-wsj2215-001-p1s4W18-Ta">
 <src.rf>tagger-a</src.rf>

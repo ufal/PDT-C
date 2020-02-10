@@ -203,7 +203,7 @@
 <LM>w#w-wsj0318-001-p1s0W17</LM>
 </w.rf>
 <form>prohlásily</form>
-<tag lemma="prohlásit" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="prohlásit" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj0318-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -292,7 +292,7 @@
 <LM>w#w-wsj0318-001-p1s0W25</LM>
 </w.rf>
 <form>udělil</form>
-<tag lemma="udělit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="udělit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0318-001-p1s0W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -548,7 +548,7 @@
 </w.rf>
 <form>minutu</form>
 <tag>
-<AM lemma="minout" src="auto">VsFS4--XX-APP--</AM>
+<AM lemma="minout" src="auto">VsFS4---X-APP--</AM>
 <AM lemma="minuta" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
@@ -944,7 +944,7 @@
 </w.rf>
 <form>minutu</form>
 <tag>
-<AM lemma="minout" src="auto">VsFS4--XX-APP--</AM>
+<AM lemma="minout" src="auto">VsFS4---X-APP--</AM>
 <AM lemma="minuta" src="auto" recommended="1">NNFS4-----A----</AM>
 </tag>
 </m>
@@ -1206,7 +1206,7 @@
 <LM>w#w-wsj0318-001-p1s4W6</LM>
 </w.rf>
 <form>vyvinula</form>
-<tag lemma="vyvinout" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="vyvinout" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0318-001-p1s4W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1228,7 +1228,7 @@
 <LM>w#w-wsj0318-001-p1s4W8</LM>
 </w.rf>
 <form>oprávnila</form>
-<tag lemma="oprávnit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oprávnit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0318-001-p1s4W9-Ta">
 <src.rf>tagger-a</src.rf>

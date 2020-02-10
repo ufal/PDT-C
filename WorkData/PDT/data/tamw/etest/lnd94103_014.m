@@ -333,7 +333,7 @@
 <LM>w#w-lnd94103-014-p1s3w28</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-014-p1s3w29">
 <src.rf>manual</src.rf>
@@ -871,7 +871,7 @@
 <LM>w#w-lnd94103-014-p1s6w15</LM>
 </w.rf>
 <form>vytipovala</form>
-<tag lemma="vytipovat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vytipovat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-014-p1s6w16">
 <src.rf>manual</src.rf>
@@ -927,7 +927,7 @@
 <LM>w#w-lnd94103-014-p1s6w22</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-014-p1s6w23">
 <src.rf>manual</src.rf>

@@ -35,7 +35,7 @@
 <LM>w#w-mf930703-037-p1s1w3</LM>
 </w.rf>
 <form>klesla</form>
-<tag lemma="klesnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="klesnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 </s>
 <s id="m-mf930703-037-p2s1">
@@ -85,7 +85,7 @@
 <LM>w#w-mf930703-037-p2s1w6</LM>
 </w.rf>
 <form>klesly</form>
-<tag lemma="klesnout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="klesnout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-mf930703-037-p2s1w7">
 <src.rf>manual</src.rf>
@@ -287,7 +287,7 @@
 <LM>w#w-mf930703-037-p2s2w18</LM>
 </w.rf>
 <form>prodával</form>
-<tag lemma="prodávat_:T_^(*4at)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prodávat_^(*4at)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930703-037-p2s2w19">
 <src.rf>manual</src.rf>
@@ -355,7 +355,7 @@
 <LM>w#w-mf930703-037-p2s2w26</LM>
 </w.rf>
 <form>klesla</form>
-<tag lemma="klesnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="klesnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 </s>
 <s id="m-mf930703-037-p2s3">
@@ -478,7 +478,7 @@
 <LM>w#w-mf930703-037-p2s4w9</LM>
 </w.rf>
 <form>vyšplhala</form>
-<tag lemma="vyšplhat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyšplhat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930703-037-p2s4w10">
 <src.rf>manual</src.rf>
@@ -539,7 +539,7 @@
 <LM>w#w-mf930703-037-p2s5w2</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930703-037-p2s5w3">
 <src.rf>manual</src.rf>
@@ -547,7 +547,7 @@
 <LM>w#w-mf930703-037-p2s5w3</LM>
 </w.rf>
 <form>ovlivněn</form>
-<tag lemma="ovlivnit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="ovlivnit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf930703-037-p2s5w4">
 <src.rf>manual</src.rf>
@@ -820,7 +820,7 @@
 <LM>w#w-mf930703-037-p2s6w18</LM>
 </w.rf>
 <form>zvýšil</form>
-<tag lemma="zvýšit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zvýšit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-037-p2s6w19">
 <src.rf>manual</src.rf>

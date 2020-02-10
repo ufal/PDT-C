@@ -45,7 +45,7 @@
 <LM>w#w-mf920923-021-p2s1w2</LM>
 </w.rf>
 <form>předurčen</form>
-<tag lemma="předurčit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="předurčit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf920923-021-p2s1w3">
 <src.rf>manual</src.rf>

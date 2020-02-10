@@ -71,7 +71,7 @@
 <LM>w#w-ln95041-028-p2s1Bw3</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95041-028-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -79,7 +79,7 @@
 <LM>w#w-ln95041-028-p2s1Bw4</LM>
 </w.rf>
 <form>podepsána</form>
-<tag lemma="podepsat" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="podepsat" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln95041-028-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -339,7 +339,7 @@
 <LM>w#w-ln95041-028-p2s3w5</LM>
 </w.rf>
 <form>utajena</form>
-<tag lemma="utajit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="utajit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln95041-028-p2s3w6">
 <src.rf>manual</src.rf>

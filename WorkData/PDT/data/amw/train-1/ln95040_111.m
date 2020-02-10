@@ -120,7 +120,7 @@
 <LM>w#w-ln95040-111-p2s1w12</LM>
 </w.rf>
 <form>vyslovili</form>
-<tag lemma="vyslovit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyslovit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95040-111-p2s1w13">
 <src.rf>manual</src.rf>

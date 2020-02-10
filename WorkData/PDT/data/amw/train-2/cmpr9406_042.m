@@ -165,7 +165,7 @@
 <LM>w#w-cmpr9406-042-p3s1w19</LM>
 </w.rf>
 <form>zařadila</form>
-<tag lemma="zařadit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zařadit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-cmpr9406-042-p3s1w20">
 <src.rf>manual</src.rf>

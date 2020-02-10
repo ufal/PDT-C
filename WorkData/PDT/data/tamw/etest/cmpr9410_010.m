@@ -149,7 +149,7 @@
 <LM>w#w-cmpr9410-010-p2s1w15</LM>
 </w.rf>
 <form>padly</form>
-<tag lemma="padnout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="padnout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-cmpr9410-010-p2s1w16">
 <src.rf>manual</src.rf>
@@ -239,7 +239,7 @@
 <LM>w#w-cmpr9410-010-p2s2w4</LM>
 </w.rf>
 <form>přijel</form>
-<tag lemma="přijet" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přijet" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9410-010-p2s2w5">
 <src.rf>manual</src.rf>
@@ -725,7 +725,7 @@
 <LM>w#w-cmpr9410-010-p5s3w13</LM>
 </w.rf>
 <form>překvapen</form>
-<tag lemma="překvapit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="překvapit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-cmpr9410-010-p5s3w14">
 <src.rf>manual</src.rf>
@@ -2340,7 +2340,7 @@
 <LM>w#w-cmpr9410-010-p10s4w15</LM>
 </w.rf>
 <form>nebyly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-NAI--</tag>
 </m>
 <m id="m-cmpr9410-010-p10s4w16">
 <src.rf>manual</src.rf>
@@ -2364,7 +2364,7 @@
 <LM>w#w-cmpr9410-010-p10s4w18</LM>
 </w.rf>
 <form>rozvíjeny</form>
-<tag lemma="rozvíjet_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="rozvíjet" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-cmpr9410-010-p10s4w19">
 <src.rf>manual</src.rf>

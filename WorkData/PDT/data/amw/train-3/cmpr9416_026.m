@@ -563,7 +563,7 @@
 <LM>w#w-cmpr9416-026-p3s4w8</LM>
 </w.rf>
 <form>podařilo</form>
-<tag lemma="podařit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="podařit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9416-026-p3s4w9">
 <src.rf>manual</src.rf>

@@ -58,7 +58,7 @@
 <LM>w#w-wsj1491-001-p1s0W5</LM>
 </w.rf>
 <form>podpořena</form>
-<tag lemma="podpořit" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="podpořit" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj1491-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -235,7 +235,7 @@
 <LM>w#w-wsj1491-001-p1s0W16</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="mít" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj1491-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -500,7 +500,7 @@
 <LM>w#w-wsj1491-001-p1s1W2</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="mít" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj1491-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -718,7 +718,7 @@
 <LM>w#w-wsj1491-001-p1s2W3</LM>
 </w.rf>
 <form>stoupla</form>
-<tag lemma="stoupnout" src="auto" recommended="1">VpQW---XR-AAP-1</tag>
+<tag lemma="stoupnout" src="auto" recommended="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-wsj1491-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1090,7 +1090,7 @@
 <LM>w#w-wsj1491-001-p1s3W17</LM>
 </w.rf>
 <form>oznámil</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1491-001-p1s3W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1324,7 +1324,7 @@
 <LM>w#w-wsj1491-001-p1s3W34</LM>
 </w.rf>
 <form>pomohly</form>
-<tag lemma="pomoci" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="pomoci" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1491-001-p1s3W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1562,7 +1562,7 @@
 <LM>w#w-wsj1491-001-p1s4W5</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="mít" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj1491-001-p1s4W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1948,7 +1948,7 @@
 <LM>w#w-wsj1491-001-p1s5W2</LM>
 </w.rf>
 <form>vzrostla</form>
-<tag lemma="vzrůst-1" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="vzrůst-1" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1491-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>

@@ -149,7 +149,7 @@
 <LM>w#w-lnd92253-074-p2s1w14</LM>
 </w.rf>
 <form>hrálo</form>
-<tag lemma="hrát" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="hrát" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92253-074-p2s1w15">
 <src.rf>manual</src.rf>
@@ -206,7 +206,7 @@
 <LM>w#w-lnd92253-074-p2s1w21</LM>
 </w.rf>
 <form>prodlužovalo</form>
-<tag lemma="prodlužovat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="prodlužovat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92253-074-p2s1w22">
 <src.rf>manual</src.rf>
@@ -262,7 +262,7 @@
 <LM>w#w-lnd92253-074-p2s1w28</LM>
 </w.rf>
 <form>nepadlo</form>
-<tag lemma="padnout_:W" src="orig" selected="1">VpNS---XR-NA--1</tag>
+<tag lemma="padnout" src="orig" selected="1">VpNS----R-NAP-1</tag>
 </m>
 <m id="m-lnd92253-074-p2s1w29">
 <src.rf>manual</src.rf>

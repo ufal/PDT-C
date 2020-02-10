@@ -183,7 +183,7 @@
 <LM>w#w-lnd94104-024-p1s2Bw13</LM>
 </w.rf>
 <form>ukázal</form>
-<tag lemma="ukázat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="ukázat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-024-p1s2Bw14">
 <src.rf>manual</src.rf>
@@ -289,7 +289,7 @@
 <LM>w#w-lnd94104-024-p1s3w7</LM>
 </w.rf>
 <form>zařadil</form>
-<tag lemma="zařadit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zařadit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-024-p1s3w8">
 <src.rf>manual</src.rf>
@@ -465,7 +465,7 @@
 <LM>w#w-lnd94104-024-p1s3w29</LM>
 </w.rf>
 <form>situovalo</form>
-<tag lemma="situovat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="situovat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd94104-024-p1s3w30">
 <src.rf>manual</src.rf>
@@ -569,7 +569,7 @@
 <LM>w#w-lnd94104-024-p1s3w42</LM>
 </w.rf>
 <form>zaujalo</form>
-<tag lemma="zaujmout_^(upoutat_pozornost)" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zaujmout_^(upoutat_pozornost)" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-024-p1s3w43">
 <src.rf>manual</src.rf>
@@ -625,7 +625,7 @@
 <LM>w#w-lnd94104-024-p1s3w49</LM>
 </w.rf>
 <form>nedokázalo</form>
-<tag lemma="dokázat" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="dokázat" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-lnd94104-024-p1s3w50">
 <src.rf>manual</src.rf>

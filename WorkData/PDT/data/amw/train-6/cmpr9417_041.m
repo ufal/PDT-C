@@ -490,7 +490,7 @@
 <LM>w#w-cmpr9417-041-p4s3w4</LM>
 </w.rf>
 <form>oceněna</form>
-<tag lemma="ocenit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="ocenit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-cmpr9417-041-p4s3w5">
 <src.rf>manual</src.rf>
@@ -2739,7 +2739,7 @@
 <LM>w#w-cmpr9417-041-p12s11w6</LM>
 </w.rf>
 <form>zaměřeno</form>
-<tag lemma="zaměřit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zaměřit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-cmpr9417-041-p12s11w7">
 <src.rf>manual</src.rf>

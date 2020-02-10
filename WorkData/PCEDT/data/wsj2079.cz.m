@@ -76,7 +76,7 @@
 <LM>w#w-wsj2079-001-p1s0W7</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2079-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -103,7 +103,7 @@
 <LM>w#w-wsj2079-001-p1s0W10</LM>
 </w.rf>
 <form>dosáhla</form>
-<tag lemma="dosáhnout" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="dosáhnout" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2079-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1137,7 +1137,7 @@
 <LM>w#w-wsj2079-001-p1s3W15</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2079-001-p1s3W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1297,7 +1297,7 @@
 <LM>w#w-wsj2079-001-p1s4W3</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj2079-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1508,7 +1508,7 @@
 <LM>w#w-wsj2079-001-p1s4W21</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj2079-001-p1s4W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1516,7 +1516,7 @@
 <LM>w#w-wsj2079-001-p1s4W22</LM>
 </w.rf>
 <form>představen</form>
-<tag lemma="představit-1_^(si_něco;_něco/někoho_někomu)" src="auto" recommended="1">VsYS---XX-APP--</tag>
+<tag lemma="představit-1_^(si_něco;_něco/někoho_někomu)" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj2079-001-p1s4W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1602,7 +1602,7 @@
 <LM>w#w-wsj2079-001-p1s5W5</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2079-001-p1s5W6-Ta">
 <src.rf>tagger-a</src.rf>

@@ -177,7 +177,7 @@
 <LM>w#w-cmpr9417-004-p7s1w4</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9417-004-p7s1w5">
 <src.rf>manual</src.rf>
@@ -185,7 +185,7 @@
 <LM>w#w-cmpr9417-004-p7s1w5</LM>
 </w.rf>
 <form>předvolán</form>
-<tag lemma="předvolat_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="předvolat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-cmpr9417-004-p7s1w6">
 <src.rf>manual</src.rf>
@@ -225,7 +225,7 @@
 <LM>w#w-cmpr9417-004-p7s1w11</LM>
 </w.rf>
 <form>poskytl</form>
-<tag lemma="poskytnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="poskytnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-cmpr9417-004-p7s1w12">
 <src.rf>manual</src.rf>
@@ -259,7 +259,7 @@
 <LM>w#w-cmpr9417-004-p7s2w1</LM>
 </w.rf>
 <form>Zajímalo</form>
-<tag lemma="zajímat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zajímat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9417-004-p7s2w2">
 <src.rf>manual</src.rf>
@@ -402,7 +402,7 @@
 <LM>w#w-cmpr9417-004-p9s1w3</LM>
 </w.rf>
 <form>oprávněn</form>
-<tag lemma="oprávnit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="oprávnit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-cmpr9417-004-p9s1w4">
 <src.rf>manual</src.rf>
@@ -788,7 +788,7 @@
 <LM>w#w-cmpr9417-004-p9s2w15</LM>
 </w.rf>
 <form>dostavila</form>
-<tag lemma="dostavit_:W_^(se,na_dané_místo)" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="dostavit_^(se,na_dané_místo)" src="auto" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-cmpr9417-004-p9s2w16">
 <src.rf>manual</src.rf>
@@ -1370,7 +1370,7 @@
 <LM>w#w-cmpr9417-004-p10s2w5</LM>
 </w.rf>
 <form>požadováno</form>
-<tag lemma="požadovat_:T" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="požadovat" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-cmpr9417-004-p10s2w6">
 <src.rf>manual</src.rf>

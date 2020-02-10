@@ -35,7 +35,7 @@
 <LM>w#w-ln94210-64-p1s1w3</LM>
 </w.rf>
 <form>nepřišli</form>
-<tag lemma="přijít" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="přijít" src="orig" selected="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m-ln94210-64-p1s1w4">
 <src.rf>manual</src.rf>
@@ -154,7 +154,7 @@
 <LM>w#w-ln94210-64-p2s1Bw7</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94210-64-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -162,7 +162,7 @@
 <LM>w#w-ln94210-64-p2s1Bw8</LM>
 </w.rf>
 <form>odcizeny</form>
-<tag lemma="odcizit" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="odcizit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln94210-64-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -210,7 +210,7 @@
 <LM>w#w-ln94210-64-p2s1Bw14</LM>
 </w.rf>
 <form>snažili</form>
-<tag lemma="snažit_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="snažit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94210-64-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -543,7 +543,7 @@
 <LM>w#w-ln94210-64-p2s2w16</LM>
 </w.rf>
 <form>přinutil</form>
-<tag lemma="přinutit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přinutit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94210-64-p2s2w17">
 <src.rf>manual</src.rf>
@@ -663,7 +663,7 @@
 <LM>w#w-ln94210-64-p2s3w2</LM>
 </w.rf>
 <form>vyplynulo</form>
-<tag lemma="vyplynout" src="auto" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vyplynout" src="auto" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94210-64-p2s3w3">
 <src.rf>manual</src.rf>
@@ -769,7 +769,7 @@
 <LM>w#w-ln94210-64-p2s4w4</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94210-64-p2s4w5">
 <src.rf>manual</src.rf>
@@ -820,7 +820,7 @@
 <LM>w#w-ln94210-64-p2s4w10</LM>
 </w.rf>
 <form>vypovězeni</form>
-<tag lemma="vypovědět" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="vypovědět" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-ln94210-64-p2s4w11">
 <src.rf>manual</src.rf>

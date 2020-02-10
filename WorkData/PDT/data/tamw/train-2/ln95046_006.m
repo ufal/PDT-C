@@ -111,7 +111,7 @@
 <LM>w#w-ln95046-006-p2s1Bw5</LM>
 </w.rf>
 <form>protestovala</form>
-<tag lemma="protestovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="protestovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95046-006-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -247,7 +247,7 @@
 <LM>w#w-ln95046-006-p2s1Bw22</LM>
 </w.rf>
 <form>vyhradila</form>
-<tag lemma="vyhradit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyhradit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95046-006-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <LM>w#w-ln95046-006-p3s1w4</LM>
 </w.rf>
 <form>prohlásil</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95046-006-p3s1w5">
 <src.rf>manual</src.rf>
@@ -755,7 +755,7 @@
 <LM>w#w-ln95046-006-p4s1w16</LM>
 </w.rf>
 <form>nedostala</form>
-<tag lemma="dostat" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="dostat" src="orig" selected="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-ln95046-006-p4s1w17">
 <src.rf>manual</src.rf>
@@ -945,7 +945,7 @@
 <LM>w#w-ln95046-006-p4s1w39</LM>
 </w.rf>
 <form>rozšířila</form>
-<tag lemma="rozšířit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="rozšířit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95046-006-p4s1w40">
 <src.rf>manual</src.rf>
@@ -1051,7 +1051,7 @@
 <LM>w#w-ln95046-006-p4s2w4</LM>
 </w.rf>
 <form>nezpochybnil</form>
-<tag lemma="zpochybnit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="zpochybnit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-ln95046-006-p4s2w5">
 <src.rf>manual</src.rf>

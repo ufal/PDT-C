@@ -168,7 +168,7 @@
 <LM>w#w-ln95049-116-p2s1Bw10</LM>
 </w.rf>
 <form>vyslovil</form>
-<tag lemma="vyslovit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyslovit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-116-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -298,7 +298,7 @@
 <LM>w#w-ln95049-116-p2s2w1</LM>
 </w.rf>
 <form>Pohrozil</form>
-<tag lemma="pohrozit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="pohrozit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-116-p2s2w2">
 <src.rf>manual</src.rf>
@@ -442,7 +442,7 @@
 <LM>w#w-ln95049-116-p2s2w19</LM>
 </w.rf>
 <form>naznačili</form>
-<tag lemma="naznačit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="naznačit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95049-116-p2s2w20">
 <src.rf>manual</src.rf>
@@ -476,7 +476,7 @@
 <LM>w#w-ln95049-116-p2s3w3</LM>
 </w.rf>
 <form>začali</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95049-116-p2s3w4">
 <src.rf>manual</src.rf>
@@ -646,7 +646,7 @@
 <LM>w#w-ln95049-116-p2s4w2</LM>
 </w.rf>
 <form>zahájilo</form>
-<tag lemma="zahájit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zahájit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-116-p2s4w3">
 <src.rf>manual</src.rf>
@@ -902,7 +902,7 @@
 <LM>w#w-ln95049-116-p2s6w15</LM>
 </w.rf>
 <form>informoval</form>
-<tag lemma="informovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="informovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln95049-116-p2s6w16">
 <src.rf>manual</src.rf>

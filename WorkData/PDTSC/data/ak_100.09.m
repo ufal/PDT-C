@@ -496,7 +496,7 @@
 <LM>w#w-d1t2074-4</LM>
 </w.rf>
 <form>přišli</form>
-<tag lemma="přijít" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="přijít" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m100-d-id140806-punct">
 <w.rf>
@@ -957,7 +957,7 @@
 <LM>w#w-d1t2089-1</LM>
 </w.rf>
 <form>bojovali</form>
-<tag lemma="bojovat_:T" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="bojovat" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m100-239-240">
 <w.rf>
@@ -995,7 +995,7 @@
 <LM>w#w-d1t2091-8</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m100-d1t2091-6">
 <w.rf>
@@ -1045,7 +1045,7 @@
 <LM>w#w-d1t2093-1</LM>
 </w.rf>
 <form>Bojovalo</form>
-<tag lemma="bojovat_:T" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="bojovat" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m100-d1t2093-2">
 <w.rf>
@@ -1368,7 +1368,7 @@
 <LM>w#w-d1t2095-19</LM>
 </w.rf>
 <form>zůstali</form>
-<tag lemma="zůstat" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="zůstat" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m100-248-251">
 <w.rf>
@@ -3004,7 +3004,7 @@
 <LM>w#w-d1t2184-3</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m100-d1t2184-11">
 <w.rf>
@@ -3575,7 +3575,7 @@
 </w.rf>
 <form>sešli</form>
 <tag>
-<AM lemma="sejít" src="auto" recommended="1">VpMP---XR-AA---</AM>
+<AM lemma="sejít" src="auto" recommended="1">VpMP----R-AAP--</AM>
 <AM lemma="seslat" src="auto">Vi-S---2--A-P--</AM>
 <AM lemma="seslat" src="auto">Vi-S---3--A-P-4</AM>
 </tag>
@@ -3648,7 +3648,7 @@
 <LM>w#w-d1t2209-2</LM>
 </w.rf>
 <form>přesvědčen</form>
-<tag lemma="přesvědčit_:W" src="auto" recommended="1">VsYS---XX-AP---</tag>
+<tag lemma="přesvědčit" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m100-d1t2209-3">
 <w.rf>
@@ -4404,7 +4404,7 @@
 <LM>w#w-d1t2237-2</LM>
 </w.rf>
 <form>padli</form>
-<tag lemma="padnout_:W" src="auto" recommended="1">VpMP---XR-AA--1</tag>
+<tag lemma="padnout" src="auto" recommended="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m100-d1t2239-1">
 <w.rf>

@@ -220,8 +220,8 @@
 </w.rf>
 <form>odeslán</form>
 <tag>
-<AM lemma="odeslat" src="orig">VsYS---XX-AP---</AM>
-<AM lemma="odeslat_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+<AM lemma="odeslat" src="orig">VsYS----X-APP--</AM>
+<AM lemma="odeslat" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-ln94205-36-p2s1w25">
@@ -787,7 +787,7 @@
 <LM>w#w-ln94205-36-p2s5w3</LM>
 </w.rf>
 <form>přihlásilo</form>
-<tag lemma="přihlásit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="přihlásit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94205-36-p2s5w4">
 <src.rf>manual</src.rf>
@@ -1046,8 +1046,8 @@
 </w.rf>
 <form>začal</form>
 <tag>
-<AM lemma="začít-1_^(začnout)" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_^(začnout)" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94205-36-p3s1w25">

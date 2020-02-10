@@ -43,7 +43,7 @@
 <LM>w#w-lnd92254-083-p1s1w4</LM>
 </w.rf>
 <form>skončila</form>
-<tag lemma="skončit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="skončit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92254-083-p1s1w5">
 <src.rf>manual</src.rf>

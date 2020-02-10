@@ -218,7 +218,7 @@
 <LM>w#w-ln95048-136-p2s2w1</LM>
 </w.rf>
 <form>Řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-136-p2s2w2">
 <src.rf>manual</src.rf>
@@ -422,7 +422,7 @@
 <form>stala</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95048-136-p2s3w6">
@@ -634,7 +634,7 @@
 <LM>w#w-ln95048-136-p2s4w14</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95048-136-p2s4w15">
 <src.rf>manual</src.rf>
@@ -844,7 +844,7 @@
 <LM>w#w-ln95048-136-p2s5w18</LM>
 </w.rf>
 <form>sledoval</form>
-<tag lemma="sledovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sledovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95048-136-p2s5w19">
 <src.rf>manual</src.rf>
@@ -868,7 +868,7 @@
 <LM>w#w-ln95048-136-p2s5w21</LM>
 </w.rf>
 <form>uvedlo</form>
-<tag lemma="uvést" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-136-p2s5w22">
 <src.rf>manual</src.rf>

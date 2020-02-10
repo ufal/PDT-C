@@ -35,7 +35,7 @@
 <LM>w#w-ln94208-1-p1s1w3</LM>
 </w.rf>
 <form>došlo</form>
-<tag lemma="dojít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="dojít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94208-1-p1s1w4">
 <src.rf>manual</src.rf>
@@ -146,7 +146,7 @@
 <LM>w#w-ln94208-1-p1s2w6</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94208-1-p1s2w7">
 <src.rf>manual</src.rf>
@@ -154,7 +154,7 @@
 <LM>w#w-ln94208-1-p1s2w7</LM>
 </w.rf>
 <form>zaměněna</form>
-<tag lemma="zaměnit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zaměnit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94208-1-p1s2w8">
 <src.rf>manual</src.rf>
@@ -303,7 +303,7 @@
 <LM>w#w-ln94208-1-p1s3w12</LM>
 </w.rf>
 <form>zapůjčila</form>
-<tag lemma="zapůjčit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zapůjčit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94208-1-p1s3w13">
 <src.rf>manual</src.rf>

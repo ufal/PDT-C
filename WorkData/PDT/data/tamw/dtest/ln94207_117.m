@@ -171,8 +171,8 @@
 </w.rf>
 <form>začal</form>
 <tag>
-<AM lemma="začít-1_^(začnout)" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_^(začnout)" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94207-117-p2s2w9">
@@ -1279,7 +1279,7 @@
 <LM>w#w-ln94207-117-p2s6w35</LM>
 </w.rf>
 <form>vyzdobena</form>
-<tag lemma="vyzdobit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="vyzdobit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94207-117-p2s6w36">
 <src.rf>manual</src.rf>
@@ -1565,7 +1565,7 @@
 <LM>w#w-ln94207-117-p2s7w27</LM>
 </w.rf>
 <form>zorganizovala</form>
-<tag lemma="zorganizovat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zorganizovat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94207-117-p2s7w28">
 <src.rf>manual</src.rf>

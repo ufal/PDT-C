@@ -91,7 +91,7 @@
 <LM>w#w-ln95045-109-p1s1w10</LM>
 </w.rf>
 <form>nakoupila</form>
-<tag lemma="nakoupit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="nakoupit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95045-109-p1s1w11">
 <src.rf>manual</src.rf>

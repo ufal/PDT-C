@@ -407,7 +407,7 @@
 <LM>w#w-mf930708-120-p2s4w6</LM>
 </w.rf>
 <form>přežil</form>
-<tag lemma="přežít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přežít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-120-p2s4w7">
 <src.rf>manual</src.rf>
@@ -505,7 +505,7 @@
 <LM>w#w-mf930708-120-p2s5w2</LM>
 </w.rf>
 <form>Snažil</form>
-<tag lemma="snažit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="snažit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930708-120-p2s5w3">
 <src.rf>manual</src.rf>
@@ -601,7 +601,7 @@
 <LM>w#w-mf930708-120-p2s5w14</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-120-p2s5w15">
 <src.rf>manual</src.rf>
@@ -675,7 +675,7 @@
 <LM>w#w-mf930708-120-p2s6w7</LM>
 </w.rf>
 <form>proslechlo</form>
-<tag lemma="proslechnout_:W" src="orig" selected="1">VpNS---XR-AA--1</tag>
+<tag lemma="proslechnout" src="orig" selected="1">VpNS----R-AAP-1</tag>
 </m>
 <m id="m-mf930708-120-p2s6w8">
 <src.rf>manual</src.rf>

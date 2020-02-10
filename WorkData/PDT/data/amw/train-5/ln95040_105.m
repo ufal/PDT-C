@@ -479,7 +479,7 @@
 <LM>w#w-ln95040-105-p2s4w5</LM>
 </w.rf>
 <form>očekáván</form>
-<tag lemma="očekávat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="očekávat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-ln95040-105-p2s4w6">
 <src.rf>manual</src.rf>

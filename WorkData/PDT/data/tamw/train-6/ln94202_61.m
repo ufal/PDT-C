@@ -135,7 +135,7 @@
 <LM>w#w-ln94202-61-p1s1Aw15</LM>
 </w.rf>
 <form>zahájil</form>
-<tag lemma="zahájit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zahájit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94202-61-p1s1Aw16">
 <src.rf>manual</src.rf>

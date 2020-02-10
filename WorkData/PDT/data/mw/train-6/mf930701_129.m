@@ -299,7 +299,7 @@
 <LM>w#w-mf930701-129-p2s3w4</LM>
 </w.rf>
 <form>uveřejnil</form>
-<tag lemma="uveřejnit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uveřejnit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-129-p2s3w5">
 <src.rf>manual</src.rf>
@@ -403,7 +403,7 @@
 <LM>w#w-mf930701-129-p2s3w17</LM>
 </w.rf>
 <form>napadl</form>
-<tag lemma="napadnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="napadnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf930701-129-p2s3w18">
 <src.rf>manual</src.rf>
@@ -435,7 +435,7 @@
 <LM>w#w-mf930701-129-p2s3w21</LM>
 </w.rf>
 <form>odsoudil</form>
-<tag lemma="odsoudit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odsoudit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-129-p2s3w22">
 <src.rf>manual</src.rf>
@@ -544,7 +544,7 @@
 <LM>w#w-mf930701-129-p2s4w8</LM>
 </w.rf>
 <form>vychválil</form>
-<tag lemma="vychválit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vychválit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-129-p2s4w9">
 <src.rf>manual</src.rf>
@@ -868,8 +868,8 @@
 </w.rf>
 <form>dostala</form>
 <tag>
-<AM lemma="dostat" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="dostat_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="dostat" src="orig">VpQW----R-AAP--</AM>
+<AM lemma="dostat" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930701-129-p2s7w8">
@@ -1094,7 +1094,7 @@
 <LM>w#w-mf930701-129-p3s2w5</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930701-129-p3s2w6">
 <src.rf>manual</src.rf>
@@ -1195,7 +1195,7 @@
 <LM>w#w-mf930701-129-p3s3w3</LM>
 </w.rf>
 <form>souviselo</form>
-<tag lemma="souviset_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="souviset" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930701-129-p3s3w4">
 <src.rf>manual</src.rf>

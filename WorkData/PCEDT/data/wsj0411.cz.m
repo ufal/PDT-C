@@ -290,7 +290,7 @@
 <LM>w#w-wsj0411-001-p1s0W24</LM>
 </w.rf>
 <form>dopadl</form>
-<tag lemma="dopadnout" src="auto" recommended="1">VpYS---XR-AAP-1</tag>
+<tag lemma="dopadnout" src="auto" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-wsj0411-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -666,7 +666,7 @@
 <LM>w#w-wsj0411-001-p1s2W1</LM>
 </w.rf>
 <form>Zakusili</form>
-<tag lemma="zakusit" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="zakusit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj0411-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -933,7 +933,7 @@
 <LM>w#w-wsj0411-001-p1s2W22</LM>
 </w.rf>
 <form>restrukturalizovali</form>
-<tag lemma="restrukturalizovat" src="auto" recommended="1">VpMP---XR-AAI--</tag>
+<tag lemma="restrukturalizovat" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-wsj0411-001-p1s2W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1103,7 +1103,7 @@
 <LM>w#w-wsj0411-001-p1s3W3</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj0411-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1262,7 +1262,7 @@
 <LM>w#w-wsj0411-001-p1s3W16</LM>
 </w.rf>
 <form>mýlil</form>
-<tag lemma="mýlit" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="mýlit" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj0411-001-p1s3W17-Ta">
 <src.rf>tagger-a</src.rf>

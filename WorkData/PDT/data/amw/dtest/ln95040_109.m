@@ -249,8 +249,8 @@
 </w.rf>
 <form>Uvedl</form>
 <tag>
-<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="uvést" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="uvést" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95040-109-p2s2w2">
@@ -334,8 +334,8 @@
 </w.rf>
 <form>Popřel</form>
 <tag>
-<AM lemma="popřít" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="popřít_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="popřít" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="popřít" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95040-109-p2s3w2">
@@ -473,8 +473,8 @@
 </w.rf>
 <form>napsal</form>
 <tag>
-<AM lemma="napsat" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="napsat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="napsat" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="napsat" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95040-109-p2s3w19">

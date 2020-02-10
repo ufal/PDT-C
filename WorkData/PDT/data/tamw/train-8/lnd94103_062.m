@@ -141,7 +141,7 @@
 <LM>w#w-lnd94103-062-p1s1Bw1</LM>
 </w.rf>
 <form>Poradil</form>
-<tag lemma="poradit_:W" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="poradit" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-062-p1s1Bw2">
 <src.rf>manual</src.rf>
@@ -208,7 +208,7 @@
 <LM>w#w-lnd94103-062-p1s1Bw10</LM>
 </w.rf>
 <form>jel</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-062-p1s1Bw11">
 <src.rf>manual</src.rf>
@@ -744,7 +744,7 @@
 <LM>w#w-lnd94103-062-p1s6w5</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-062-p1s6w6">
 <src.rf>manual</src.rf>

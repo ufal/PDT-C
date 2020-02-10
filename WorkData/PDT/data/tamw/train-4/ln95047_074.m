@@ -302,7 +302,7 @@
 <LM>w#w-ln95047-074-p1s2w6</LM>
 </w.rf>
 <form>zahájil</form>
-<tag lemma="zahájit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zahájit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95047-074-p1s2w7">
 <src.rf>manual</src.rf>

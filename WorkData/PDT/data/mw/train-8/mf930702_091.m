@@ -388,7 +388,7 @@
 <LM>w#w-mf930702-091-p3s1w3</LM>
 </w.rf>
 <form>protestovali</form>
-<tag lemma="protestovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="protestovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930702-091-p3s1w4">
 <src.rf>manual</src.rf>
@@ -534,7 +534,7 @@
 <LM>w#w-mf930702-091-p3s2w10</LM>
 </w.rf>
 <form>odložila</form>
-<tag lemma="odložit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="odložit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930702-091-p3s2w11">
 <src.rf>manual</src.rf>
@@ -746,7 +746,7 @@
 <LM>w#w-mf930702-091-p3s4w3</LM>
 </w.rf>
 <form>přišlo</form>
-<tag lemma="přijít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="přijít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930702-091-p3s4w4">
 <src.rf>manual</src.rf>
@@ -976,8 +976,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930702-091-p3s5w24">

@@ -1646,7 +1646,7 @@
 <LM>w#w-lnd91303-059-p3s4w19</LM>
 </w.rf>
 <form>hovořila</form>
-<tag lemma="hovořit_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="hovořit" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-059-p3s4w20">
 <src.rf>manual</src.rf>
@@ -2100,7 +2100,7 @@
 <LM>w#w-lnd91303-059-p4s1w25</LM>
 </w.rf>
 <form>používali</form>
-<tag lemma="používat_:T_^(*3t)" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="používat_^(*3t)" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-059-p4s1w26">
 <src.rf>manual</src.rf>
@@ -2488,7 +2488,7 @@
 <LM>w#w-lnd91303-059-p4s1w73</LM>
 </w.rf>
 <form>posunuli</form>
-<tag lemma="posunout" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="posunout" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-059-p4s1w74">
 <src.rf>manual</src.rf>
@@ -3230,7 +3230,7 @@
 <LM>w#w-lnd91303-059-p5s1w2</LM>
 </w.rf>
 <form>řečeno</form>
-<tag lemma="říci" src="auto" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="říci" src="auto" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd91303-059-p5s1w3">
 <src.rf>manual</src.rf>
@@ -3318,7 +3318,7 @@
 <LM>w#w-lnd91303-059-p5s1w13</LM>
 </w.rf>
 <form>pohybovali</form>
-<tag lemma="pohybovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="pohybovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-059-p5s1w14">
 <src.rf>manual</src.rf>

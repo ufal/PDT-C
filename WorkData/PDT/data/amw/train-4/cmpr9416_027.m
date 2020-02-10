@@ -104,7 +104,7 @@
 <LM>w#w-cmpr9416-027-p3s1w9</LM>
 </w.rf>
 <form>roztočila</form>
-<tag lemma="roztočit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="roztočit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-cmpr9416-027-p3s1w10">
 <src.rf>manual</src.rf>
@@ -723,7 +723,7 @@
 <LM>w#w-cmpr9416-027-p4s3w11</LM>
 </w.rf>
 <form>začal</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9416-027-p4s3w12">
 <src.rf>manual</src.rf>

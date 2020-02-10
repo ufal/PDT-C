@@ -821,7 +821,7 @@
 <LM>w#w-mf930713-134-p3s3w4</LM>
 </w.rf>
 <form>zlikvidováno</form>
-<tag lemma="zlikvidovat_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zlikvidovat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf930713-134-p3s3w5">
 <src.rf>manual</src.rf>
@@ -1432,7 +1432,7 @@
 <LM>w#w-mf930713-134-p4s3w5</LM>
 </w.rf>
 <form>pohnuly</form>
-<tag lemma="pohnout_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="pohnout" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf930713-134-p4s3w6">
 <src.rf>manual</src.rf>
@@ -1477,7 +1477,7 @@
 <LM>w#w-mf930713-134-p4s4w4</LM>
 </w.rf>
 <form>nebylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-mf930713-134-p4s4w5">
 <src.rf>manual</src.rf>
@@ -1573,7 +1573,7 @@
 <LM>w#w-mf930713-134-p4s4w17</LM>
 </w.rf>
 <form>využívali</form>
-<tag lemma="využívat_:T_^(*3t)" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="využívat_^(*3t)" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930713-134-p4s4w18">
 <src.rf>manual</src.rf>
@@ -2181,8 +2181,8 @@
 </w.rf>
 <form>začal</form>
 <tag>
-<AM lemma="začít-1_^(začnout)" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_^(začnout)" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930713-134-p5s4w3">
@@ -2370,7 +2370,7 @@
 <LM>w#w-mf930713-134-p5s4w25</LM>
 </w.rf>
 <form>nedával</form>
-<tag lemma="dávat_:T_^(*3t)" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="dávat_^(*3t)" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-mf930713-134-p5s4w26">
 <src.rf>manual</src.rf>
@@ -2852,7 +2852,7 @@
 <LM>w#w-mf930713-134-p6s3w4</LM>
 </w.rf>
 <form>vznikla</form>
-<tag lemma="vzniknout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="vzniknout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-mf930713-134-p6s3w5">
 <src.rf>manual</src.rf>
@@ -4095,7 +4095,7 @@
 <LM>w#w-mf930713-134-p7s7w3</LM>
 </w.rf>
 <form>pochopil</form>
-<tag lemma="pochopit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="pochopit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-134-p7s7w4">
 <src.rf>manual</src.rf>

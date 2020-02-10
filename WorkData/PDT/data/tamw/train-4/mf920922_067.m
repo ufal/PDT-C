@@ -137,7 +137,7 @@
 <LM>w#w-mf920922-067-p3s1w7</LM>
 </w.rf>
 <form>dosáhl</form>
-<tag lemma="dosáhnout" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dosáhnout" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-067-p3s1w8">
 <src.rf>manual</src.rf>
@@ -572,7 +572,7 @@
 <form>nestalo</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpNS---XR-NA---</AM>
-<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpNS---XR-NA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpNS----R-NAP--</AM>
 </tag>
 </m>
 <m id="m-mf920922-067-p3s4w8">
@@ -631,7 +631,7 @@
 <LM>w#w-mf920922-067-p3s5w6</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-067-p3s5w7">
 <src.rf>manual</src.rf>
@@ -671,7 +671,7 @@
 <LM>w#w-mf920922-067-p3s5w11</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920922-067-p3s5w12">
 <src.rf>manual</src.rf>
@@ -711,7 +711,7 @@
 <LM>w#w-mf920922-067-p3s5w16</LM>
 </w.rf>
 <form>šlo</form>
-<tag lemma="jít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="jít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920922-067-p3s5w17">
 <src.rf>manual</src.rf>
@@ -815,7 +815,7 @@
 <LM>w#w-mf920922-067-p3s5w30</LM>
 </w.rf>
 <form>nekazili</form>
-<tag lemma="kazit_:T" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="kazit" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-mf920922-067-p3s5w31">
 <src.rf>manual</src.rf>
@@ -939,7 +939,7 @@
 <LM>w#w-mf920922-067-p3s7w1</LM>
 </w.rf>
 <form>Došlo</form>
-<tag lemma="dojít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="dojít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-067-p3s7w2">
 <src.rf>manual</src.rf>
@@ -1528,7 +1528,7 @@
 <LM>w#w-mf920922-067-p3s10w15</LM>
 </w.rf>
 <form>nedostalo</form>
-<tag lemma="dostat" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="dostat" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-mf920922-067-p3s10w16">
 <src.rf>manual</src.rf>

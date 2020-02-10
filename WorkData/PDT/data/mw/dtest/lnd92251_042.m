@@ -149,7 +149,7 @@
 <LM>w#w-lnd92251-042-p3s2w7</LM>
 </w.rf>
 <form>přihlásilo</form>
-<tag lemma="přihlásit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="přihlásit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-042-p3s2w8">
 <src.rf>manual</src.rf>
@@ -351,7 +351,7 @@
 <LM>w#w-lnd92251-042-p3s3w7</LM>
 </w.rf>
 <form>nechali</form>
-<tag lemma="nechat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="nechat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92251-042-p3s3w8">
 <src.rf>manual</src.rf>
@@ -881,7 +881,7 @@
 <LM>w#w-lnd92251-042-p3s5w7</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd92251-042-p3s5w8">
 <src.rf>manual</src.rf>
@@ -889,7 +889,7 @@
 <LM>w#w-lnd92251-042-p3s5w8</LM>
 </w.rf>
 <form>umořeny</form>
-<tag lemma="umořit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="umořit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd92251-042-p3s5w9">
 <src.rf>manual</src.rf>

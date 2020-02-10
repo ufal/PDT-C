@@ -1160,7 +1160,7 @@
 <LM>w#w-ln94204-25-p4s2w28</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94204-25-p4s2w29">
 <src.rf>manual</src.rf>
@@ -1253,7 +1253,7 @@
 <LM>w#w-ln94204-25-p5s1w7</LM>
 </w.rf>
 <form>rozšířen</form>
-<tag lemma="rozšířit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="rozšířit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94204-25-p5s1w8">
 <src.rf>manual</src.rf>

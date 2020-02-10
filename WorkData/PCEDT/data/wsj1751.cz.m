@@ -124,7 +124,7 @@
 <LM>w#w-wsj1751-001-p1s0W11</LM>
 </w.rf>
 <form>vyvinula</form>
-<tag lemma="vyvinout" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="vyvinout" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1751-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -278,7 +278,7 @@
 <LM>w#w-wsj1751-001-p1s1W6</LM>
 </w.rf>
 <form>uvedlo</form>
-<tag lemma="uvést" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj1751-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>

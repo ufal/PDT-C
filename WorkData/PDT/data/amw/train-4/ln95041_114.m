@@ -152,7 +152,7 @@
 <LM>w#w-ln95041-114-p2s1Bw12</LM>
 </w.rf>
 <form>dostal</form>
-<tag lemma="dostat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dostat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95041-114-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -309,7 +309,7 @@
 <LM>w#w-ln95041-114-p2s2w11</LM>
 </w.rf>
 <form>prodával</form>
-<tag lemma="prodávat_:T_^(*4at)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prodávat_^(*4at)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95041-114-p2s2w12">
 <src.rf>manual</src.rf>
@@ -415,7 +415,7 @@
 <LM>w#w-ln95041-114-p2s3w3</LM>
 </w.rf>
 <form>spadl</form>
-<tag lemma="spadnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="spadnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln95041-114-p2s3w4">
 <src.rf>manual</src.rf>

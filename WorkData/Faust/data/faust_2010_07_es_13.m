@@ -159,8 +159,8 @@
 </w.rf>
 <form>zavěšeny</form>
 <tag>
-<AM lemma="zavěsit" recommended="1">VsTP---XX-AP---</AM>
-<AM lemma="zavěšet_,s">VsTP---XX-AP---</AM>
+<AM lemma="zavěsit" recommended="1">VsTP----X-APP--</AM>
+<AM lemma="zavěšet_,s">VsTP----X-APP--</AM>
 </tag>
 </m>
 <m id="es_13-SCzechM-p1296-s1-w5">
@@ -266,7 +266,7 @@
 <LM>w#w-es_13-SCzechM-p1296-s1-w14</LM>
 </w.rf>
 <form>vedeny</form>
-<tag lemma="vést" recommended="1">VsTP---XX-AP---</tag>
+<tag lemma="vést" recommended="1">VsTP----X-API--</tag>
 </m>
 <m id="es_13-SCzechM-p1296-s1-w15">
 <w.rf>
@@ -466,7 +466,7 @@
 <LM>w#w-es_13-SCzechM-p1300-s1-w15</LM>
 </w.rf>
 <form>poměřovány</form>
-<tag lemma="poměřovat_:T" recommended="1">VsTP---XX-AP---</tag>
+<tag lemma="poměřovat" recommended="1">VsTP----X-API--</tag>
 </m>
 <m id="es_13-SCzechM-p1300-s1-w16">
 <w.rf>
@@ -542,7 +542,7 @@
 </w.rf>
 <form>uspořádána</form>
 <tag>
-<AM lemma="uspořádat_:W" recommended="1">VsQW---XX-AP---</AM>
+<AM lemma="uspořádat" recommended="1">VsQW----X-APP--</AM>
 <AM lemma="uspořádat" src="manual" selected="1">VsQW----X-APP--</AM>
 </tag>
 </m>
@@ -641,7 +641,7 @@
 </w.rf>
 <form>spouštělo</form>
 <tag>
-<AM lemma="spouštět_:T" recommended="1">VpNS---XR-AA---</AM>
+<AM lemma="spouštět" recommended="1">VpNS----R-AAI--</AM>
 <AM lemma="spouštět" src="manual" selected="1">VpNS----R-AAI--</AM>
 </tag>
 </m>
@@ -817,7 +817,7 @@
 </w.rf>
 <form>Vrátil</form>
 <tag>
-<AM lemma="vrátit_:W" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="vrátit" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="Vrátil_;S">NNMS1-----A----</AM>
 <AM lemma="vrátit" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
@@ -2116,7 +2116,7 @@
 <form>pil</form>
 <tag>
 <AM lemma="pila" recommended="1">NNFP2-----A----</AM>
-<AM lemma="pít">VpYS---XR-AA---</AM>
+<AM lemma="pít">VpYS----R-AAI--</AM>
 <AM lemma="pílit">Vi-S---2--A-I--</AM>
 <AM lemma="pílit">Vi-S---3--A-I-4</AM>
 </tag>
@@ -2129,7 +2129,7 @@
 </w.rf>
 <form>odečteno</form>
 <tag>
-<AM lemma="odečíst" recommended="1">VsNS---XX-AP---</AM>
+<AM lemma="odečíst" recommended="1">VsNS----X-APP--</AM>
 <AM lemma="odečíst" src="manual" selected="1">VsNS----X-APP--</AM>
 </tag>
 </m>
@@ -3453,7 +3453,7 @@
 </w.rf>
 <form>přenášeny</form>
 <tag>
-<AM lemma="přenášet_:T" recommended="1">VsTP---XX-AP---</AM>
+<AM lemma="přenášet" recommended="1">VsTP----X-API--</AM>
 <AM lemma="přenášet" src="manual" selected="1">VsTP----X-API--</AM>
 </tag>
 </m>
@@ -3780,7 +3780,7 @@
 </w.rf>
 <form>vzrušeni</form>
 <tag>
-<AM lemma="vzrušit_:W" recommended="1">VsMP---XX-AP---</AM>
+<AM lemma="vzrušit" recommended="1">VsMP----X-APP--</AM>
 <AM lemma="vzrušit" src="manual" selected="1">VsMP----X-APP--</AM>
 </tag>
 </m>

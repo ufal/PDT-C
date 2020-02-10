@@ -119,7 +119,7 @@
 <LM>w#w-mf920925-087-p2s1Bw8</LM>
 </w.rf>
 <form>usilovalo</form>
-<tag lemma="usilovat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="usilovat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920925-087-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -201,7 +201,7 @@
 <LM>w#w-mf920925-087-p2s2w5</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf920925-087-p2s2w6">
 <src.rf>manual</src.rf>
@@ -217,7 +217,7 @@
 <LM>w#w-mf920925-087-p2s2w7</LM>
 </w.rf>
 <form>odsouzeni</form>
-<tag lemma="odsoudit" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="odsoudit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-mf920925-087-p2s2w8">
 <src.rf>manual</src.rf>
@@ -733,7 +733,7 @@
 <LM>w#w-mf920925-087-p2s5w24</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920925-087-p2s5w25">
 <src.rf>manual</src.rf>
@@ -1105,7 +1105,7 @@
 <LM>w#w-mf920925-087-p2s9w8</LM>
 </w.rf>
 <form>novelizovali</form>
-<tag lemma="novelizovat_:T_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="novelizovat" src="orig" selected="1">VpMP----R-AAB--</tag>
 </m>
 <m id="m-mf920925-087-p2s9w9">
 <src.rf>manual</src.rf>
@@ -1275,7 +1275,7 @@
 <LM>w#w-mf920925-087-p2s10w10</LM>
 </w.rf>
 <form>hrozila</form>
-<tag lemma="hrozit_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="hrozit" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920925-087-p2s10w11">
 <src.rf>manual</src.rf>
@@ -1522,7 +1522,7 @@
 <LM>w#w-mf920925-087-p2s12w8</LM>
 </w.rf>
 <form>prospěl</form>
-<tag lemma="prospět" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prospět" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920925-087-p2s12w9">
 <src.rf>manual</src.rf>
@@ -1700,7 +1700,7 @@
 <LM>w#w-mf920925-087-p2s13w16</LM>
 </w.rf>
 <form>měli</form>
-<tag lemma="mít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf920925-087-p2s13w17">
 <src.rf>manual</src.rf>

@@ -937,7 +937,7 @@
 <LM>w#w-vesm9211-025-p17s1w5</LM>
 </w.rf>
 <form>vynaložena</form>
-<tag lemma="vynaložit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="vynaložit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-vesm9211-025-p17s1w6">
 <src.rf>manual</src.rf>
@@ -1443,7 +1443,7 @@
 <LM>w#w-vesm9211-025-p22s1w9</LM>
 </w.rf>
 <form>ztracena</form>
-<tag lemma="ztratit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="ztratit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-vesm9211-025-p22s1w10">
 <src.rf>manual</src.rf>

@@ -127,7 +127,7 @@
 <LM>w#w-ln94205-18-p2s1Bw6</LM>
 </w.rf>
 <form>zaznamenaly</form>
-<tag lemma="zaznamenat_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zaznamenat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94205-18-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -191,8 +191,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94205-18-p2s2w3">
@@ -233,7 +233,7 @@
 <LM>w#w-ln94205-18-p2s2w7</LM>
 </w.rf>
 <form>podařilo</form>
-<tag lemma="podařit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="podařit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94205-18-p2s2w8">
 <src.rf>manual</src.rf>
@@ -975,7 +975,7 @@
 <LM>w#w-ln94205-18-p4s1w13</LM>
 </w.rf>
 <form>nebyla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-ln94205-18-p4s1w14">
 <src.rf>manual</src.rf>
@@ -1023,7 +1023,7 @@
 <LM>w#w-ln94205-18-p4s1w19</LM>
 </w.rf>
 <form>neuchránila</form>
-<tag lemma="uchránit_:W" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="uchránit" src="orig" selected="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-ln94205-18-p4s1w20">
 <src.rf>manual</src.rf>

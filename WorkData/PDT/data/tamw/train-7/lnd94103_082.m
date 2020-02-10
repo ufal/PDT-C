@@ -287,7 +287,7 @@
 <LM>w#w-lnd94103-082-p1s3w1</LM>
 </w.rf>
 <form>Rozhodl</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd94103-082-p1s3w2">
 <src.rf>manual</src.rf>

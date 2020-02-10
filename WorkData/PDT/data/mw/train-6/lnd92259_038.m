@@ -277,7 +277,7 @@
 <LM>w#w-lnd92259-038-p1s1w31</LM>
 </w.rf>
 <form>přicestoval</form>
-<tag lemma="přicestovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přicestovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-038-p1s1w32">
 <src.rf>manual</src.rf>

@@ -371,7 +371,7 @@
 <LM>w#w-mf920923-077-p2s3w1</LM>
 </w.rf>
 <form>Sdělil</form>
-<tag lemma="sdělit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sdělit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-077-p2s3w2">
 <src.rf>manual</src.rf>
@@ -528,7 +528,7 @@
 <LM>w#w-mf920923-077-p2s4w5</LM>
 </w.rf>
 <form>osvědčil</form>
-<tag lemma="osvědčit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="osvědčit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-077-p2s4w6">
 <src.rf>manual</src.rf>
@@ -552,7 +552,7 @@
 <LM>w#w-mf920923-077-p2s4w8</LM>
 </w.rf>
 <form>odstranil</form>
-<tag lemma="odstranit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odstranit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-077-p2s4w9">
 <src.rf>manual</src.rf>
@@ -884,7 +884,7 @@
 <LM>w#w-mf920923-077-p2s7w3</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-077-p2s7w4">
 <src.rf>manual</src.rf>
@@ -1124,7 +1124,7 @@
 <LM>w#w-mf920923-077-p2s7w33</LM>
 </w.rf>
 <form>hnali</form>
-<tag lemma="hnát-1_^(tvar_slovesa;_[utíkat])" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="hnát-1_^(tvar_slovesa;_[utíkat])" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf920923-077-p2s7w34">
 <src.rf>manual</src.rf>

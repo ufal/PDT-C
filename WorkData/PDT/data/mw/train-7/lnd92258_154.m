@@ -255,8 +255,8 @@
 </w.rf>
 <form>dostala</form>
 <tag>
-<AM lemma="dostat" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="dostat_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="dostat" src="orig">VpQW----R-AAP--</AM>
+<AM lemma="dostat" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92258-154-p4s1w3">
@@ -475,8 +475,8 @@
 </w.rf>
 <form>došlo</form>
 <tag>
-<AM lemma="dojít" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="dojít_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="dojít" src="orig">VpNS----R-AAP--</AM>
+<AM lemma="dojít" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92258-154-p7s1w4">
@@ -823,7 +823,7 @@
 <LM>w#w-lnd92258-154-p9s1w17</LM>
 </w.rf>
 <form>rozhodnuto</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92258-154-p9s1w18">
 <src.rf>manual</src.rf>

@@ -305,7 +305,7 @@
 <LM>w#w-ln95044-027-p2s2w8</LM>
 </w.rf>
 <form>zúčastnila</form>
-<tag lemma="zúčastnit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zúčastnit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95044-027-p2s2w9">
 <src.rf>manual</src.rf>

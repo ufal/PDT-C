@@ -197,7 +197,7 @@
 <LM>w#w-wsj1025-001-p1s0W16</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1025-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -377,7 +377,7 @@
 <LM>w#w-wsj1025-001-p1s0W28</LM>
 </w.rf>
 <form>snížila</form>
-<tag lemma="snížit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="snížit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1025-001-p1s0W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -629,7 +629,7 @@
 <LM>w#w-wsj1025-001-p1s1W8</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1025-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1248,7 +1248,7 @@
 <LM>w#w-wsj1025-001-p1s2W7</LM>
 </w.rf>
 <form>vzrostl</form>
-<tag lemma="vzrůst-1" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="vzrůst-1" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1025-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1390,7 +1390,7 @@
 <LM>w#w-wsj1025-001-p1s3W2</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1025-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1485,7 +1485,7 @@
 <LM>w#w-wsj1025-001-p1s3W12</LM>
 </w.rf>
 <form>uskutečněno</form>
-<tag lemma="uskutečnit" src="auto" recommended="1">VsNS---XX-APP--</tag>
+<tag lemma="uskutečnit" src="auto" recommended="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-wsj1025-001-p1s3W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1690,7 +1690,7 @@
 <LM>w#w-wsj1025-001-p1s3W22</LM>
 </w.rf>
 <form>začalo</form>
-<tag lemma="začít-1_^(začnout)" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj1025-001-p1s3W23-Ta">
 <src.rf>tagger-a</src.rf>

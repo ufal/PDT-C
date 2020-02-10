@@ -225,7 +225,7 @@
 <LM>w#w-ln94208-125-p1s2w5</LM>
 </w.rf>
 <form>radoval</form>
-<tag lemma="radovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="radovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94208-125-p1s2w6">
 <src.rf>manual</src.rf>
@@ -257,7 +257,7 @@
 <LM>w#w-ln94208-125-p1s2w9</LM>
 </w.rf>
 <form>triumfoval</form>
-<tag lemma="triumfovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="triumfovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94208-125-p1s2w10">
 <src.rf>manual</src.rf>

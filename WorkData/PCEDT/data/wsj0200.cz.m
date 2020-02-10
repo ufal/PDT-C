@@ -345,7 +345,7 @@
 <LM>w#w-wsj0200-001-p1s0W31</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0200-001-p1s0W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -443,7 +443,7 @@
 <LM>w#w-wsj0200-001-p1s0W40</LM>
 </w.rf>
 <form>připsána</form>
-<tag lemma="připsat" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="připsat" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj0200-001-p1s0W41-Ta">
 <src.rf>tagger-a</src.rf>
@@ -507,7 +507,7 @@
 <LM>w#w-wsj0200-001-p1s1W3</LM>
 </w.rf>
 <form>představila</form>
-<tag lemma="představit-1_^(si_něco;_něco/někoho_někomu)" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="představit-1_^(si_něco;_něco/někoho_někomu)" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0200-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>

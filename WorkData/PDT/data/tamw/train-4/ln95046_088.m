@@ -193,7 +193,7 @@
 <LM>w#w-ln95046-088-p2s2w1</LM>
 </w.rf>
 <form>Vyplynulo</form>
-<tag lemma="vyplynout" src="auto" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vyplynout" src="auto" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95046-088-p2s2w2">
 <src.rf>manual</src.rf>
@@ -265,7 +265,7 @@
 <LM>w#w-ln95046-088-p2s2w10</LM>
 </w.rf>
 <form>zadala</form>
-<tag lemma="zadat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zadat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95046-088-p2s2w11">
 <src.rf>manual</src.rf>
@@ -363,7 +363,7 @@
 <LM>w#w-ln95046-088-p2s3w7</LM>
 </w.rf>
 <form>zjistil</form>
-<tag lemma="zjistit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zjistit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95046-088-p2s3w8">
 <src.rf>manual</src.rf>

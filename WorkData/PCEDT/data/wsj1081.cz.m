@@ -146,7 +146,7 @@
 <LM>w#w-wsj1081-001-p1s0W13</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj1081-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -154,7 +154,7 @@
 <LM>w#w-wsj1081-001-p1s0W14</LM>
 </w.rf>
 <form>vybrána</form>
-<tag lemma="vybrat" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="vybrat" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj1081-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -238,7 +238,7 @@
 <LM>w#w-wsj1081-001-p1s0W22</LM>
 </w.rf>
 <form>navrhla</form>
-<tag lemma="navrhnout" src="auto" recommended="1">VpQW---XR-AAP-1</tag>
+<tag lemma="navrhnout" src="auto" recommended="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-wsj1081-001-p1s0W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -260,7 +260,7 @@
 <LM>w#w-wsj1081-001-p1s0W24</LM>
 </w.rf>
 <form>postavila</form>
-<tag lemma="postavit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="postavit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1081-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -814,7 +814,7 @@
 <AM lemma="stopa_^(míra;_otisk_s.;_s._po_něčem_[malé_množství])" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="stopit_^(úplně_spotřebovat_topením)" src="auto">Vi-S---2--A-P--</AM>
 <AM lemma="stopit_^(úplně_spotřebovat_topením)" src="auto">Vi-S---3--A-P-4</AM>
-<AM lemma="stopnout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="stopnout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-wsj1081-001-p1s3W7-Ta">
@@ -831,7 +831,7 @@
 <LM>w#w-wsj1081-001-p1s3W8</LM>
 </w.rf>
 <form>postavena</form>
-<tag lemma="postavit" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="postavit" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj1081-001-p1s3W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1004,7 +1004,7 @@
 <LM>w#w-wsj1081-001-p1s4W6</LM>
 </w.rf>
 <form>nepodařilo</form>
-<tag lemma="podařit" src="auto" recommended="1">VpNS---XR-NAP--</tag>
+<tag lemma="podařit" src="auto" recommended="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-wsj1081-001-p1s4W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1085,7 +1085,7 @@
 <LM>w#w-wsj1081-001-p1s4W13</LM>
 </w.rf>
 <form>vyjádřili</form>
-<tag lemma="vyjádřit" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="vyjádřit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj1081-001-p1s4W14-Ta">
 <src.rf>tagger-a</src.rf>

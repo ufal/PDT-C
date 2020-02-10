@@ -53,7 +53,7 @@
 <LM>w#w-mf920923-131-p1s1Bw2</LM>
 </w.rf>
 <form>OČEKÁVÁN</form>
-<tag lemma="očekávat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="očekávat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-mf920923-131-p1s1Bw3">
 <src.rf>manual</src.rf>
@@ -230,7 +230,7 @@
 <LM>w#w-mf920923-131-p2s2w16</LM>
 </w.rf>
 <form>prohlásil</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-131-p2s2w17">
 <src.rf>manual</src.rf>
@@ -294,7 +294,7 @@
 <LM>w#w-mf920923-131-p2s2w24</LM>
 </w.rf>
 <form>nenastal</form>
-<tag lemma="nastat" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="nastat" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-mf920923-131-p2s2w25">
 <src.rf>manual</src.rf>
@@ -334,7 +334,7 @@
 <LM>w#w-mf920923-131-p2s2w29</LM>
 </w.rf>
 <form>vyjádřil</form>
-<tag lemma="vyjádřit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyjádřit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-131-p2s2w30">
 <src.rf>manual</src.rf>
@@ -448,7 +448,7 @@
 <LM>w#w-mf920923-131-p3s1w8</LM>
 </w.rf>
 <form>prohlásil</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-131-p3s1w9">
 <src.rf>manual</src.rf>
@@ -488,7 +488,7 @@
 <LM>w#w-mf920923-131-p3s1w13</LM>
 </w.rf>
 <form>objevilo</form>
-<tag lemma="objevit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="objevit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-131-p3s1w14">
 <src.rf>manual</src.rf>
@@ -592,7 +592,7 @@
 <LM>w#w-mf920923-131-p3s1w26</LM>
 </w.rf>
 <form>dosaženo</form>
-<tag lemma="dosáhnout" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="dosáhnout" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf920923-131-p3s1w27">
 <src.rf>manual</src.rf>
@@ -714,7 +714,7 @@
 <LM>w#w-mf920923-131-p4s1w7</LM>
 </w.rf>
 <form>pokoušely</form>
-<tag lemma="pokoušet_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="pokoušet" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf920923-131-p4s1w8">
 <src.rf>manual</src.rf>
@@ -836,7 +836,7 @@
 <LM>w#w-mf920923-131-p5s1w7</LM>
 </w.rf>
 <form>redukovala</form>
-<tag lemma="redukovat_:T_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="redukovat" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-mf920923-131-p5s1w8">
 <src.rf>manual</src.rf>
@@ -1200,7 +1200,7 @@
 <LM>w#w-mf920923-131-p5s3w14</LM>
 </w.rf>
 <form>obviněni</form>
-<tag lemma="obvinit_:W" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="obvinit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-mf920923-131-p5s3w15">
 <src.rf>manual</src.rf>

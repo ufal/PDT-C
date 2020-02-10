@@ -238,7 +238,7 @@
 <LM>w#w-mf920923-070-p1s1w28</LM>
 </w.rf>
 <form>sešla</form>
-<tag lemma="sejít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="sejít" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920923-070-p1s1w29">
 <src.rf>manual</src.rf>

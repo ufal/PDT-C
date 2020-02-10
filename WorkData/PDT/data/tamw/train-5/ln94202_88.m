@@ -97,7 +97,7 @@
 <LM>w#w-ln94202-88-p2s1Cw4</LM>
 </w.rf>
 <form>začal</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94202-88-p2s1Cw5">
 <src.rf>manual</src.rf>
@@ -185,7 +185,7 @@
 <LM>w#w-ln94202-88-p2s1Cw15</LM>
 </w.rf>
 <form>věnovaly</form>
-<tag lemma="věnovat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="věnovat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94202-88-p2s1Cw16">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <LM>w#w-ln94202-88-p2s2w11</LM>
 </w.rf>
 <form>odehrál</form>
-<tag lemma="odehrát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odehrát" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94202-88-p2s2w12">
 <src.rf>manual</src.rf>
@@ -423,7 +423,7 @@
 <LM>w#w-ln94202-88-p2s2w19</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94202-88-p2s2w20">
 <src.rf>manual</src.rf>
@@ -580,7 +580,7 @@
 <LM>w#w-ln94202-88-p3s1w18</LM>
 </w.rf>
 <form>rozezvučel</form>
-<tag lemma="rozezvučet" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="rozezvučet" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94202-88-p3s1w19">
 <src.rf>manual</src.rf>
@@ -830,7 +830,7 @@
 <LM>w#w-ln94202-88-p3s3w8</LM>
 </w.rf>
 <form>obdařil</form>
-<tag lemma="obdařit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="obdařit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94202-88-p3s3w9">
 <src.rf>manual</src.rf>
@@ -1034,7 +1034,7 @@
 <LM>w#w-ln94202-88-p3s4w6</LM>
 </w.rf>
 <form>nechal</form>
-<tag lemma="nechat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nechat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94202-88-p3s4w7">
 <src.rf>manual</src.rf>
@@ -1836,7 +1836,7 @@
 <LM>w#w-ln94202-88-p4s4w10</LM>
 </w.rf>
 <form>padla</form>
-<tag lemma="padnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="padnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln94202-88-p4s4w11">
 <src.rf>manual</src.rf>

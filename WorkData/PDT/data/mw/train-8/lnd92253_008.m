@@ -183,7 +183,7 @@
 <LM>w#w-lnd92253-008-p2s2w16</LM>
 </w.rf>
 <form>stáhli</form>
-<tag lemma="stáhnout" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="stáhnout" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92253-008-p2s2w17">
 <src.rf>manual</src.rf>
@@ -435,7 +435,7 @@
 <LM>w#w-lnd92253-008-p2s4w10</LM>
 </w.rf>
 <form>nepohřbeni</form>
-<tag lemma="pohřbít" src="orig" selected="1">VsMP---XX-NP---</tag>
+<tag lemma="pohřbít" src="orig" selected="1">VsMP----X-NPP--</tag>
 </m>
 <m id="m-lnd92253-008-p2s4w11">
 <src.rf>manual</src.rf>
@@ -533,7 +533,7 @@
 <LM>w#w-lnd92253-008-p2s5w8</LM>
 </w.rf>
 <form>poškozen</form>
-<tag lemma="poškodit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="poškodit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd92253-008-p2s5w9">
 <src.rf>manual</src.rf>

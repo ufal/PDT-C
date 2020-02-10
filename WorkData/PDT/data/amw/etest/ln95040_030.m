@@ -265,7 +265,7 @@
 <LM>w#w-ln95040-030-p2s1Bw22</LM>
 </w.rf>
 <form>předpokládalo</form>
-<tag lemma="předpokládat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="předpokládat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95040-030-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -350,7 +350,7 @@
 <LM>w#w-ln95040-030-p2s2w9</LM>
 </w.rf>
 <form>nedokončilo</form>
-<tag lemma="dokončit_:W" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="dokončit" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-ln95040-030-p2s2w10">
 <src.rf>manual</src.rf>
@@ -661,7 +661,7 @@
 <LM>w#w-ln95040-030-p2s2w47</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-030-p2s2w48">
 <src.rf>manual</src.rf>

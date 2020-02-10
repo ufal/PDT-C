@@ -110,7 +110,7 @@
 <LM>w#w-lnd92253-043-p1s1w12</LM>
 </w.rf>
 <form>oznámil</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92253-043-p1s1w13">
 <src.rf>manual</src.rf>
@@ -321,7 +321,7 @@
 <LM>w#w-lnd92253-043-p1s1w38</LM>
 </w.rf>
 <form>kontrolováno</form>
-<tag lemma="kontrolovat_:T" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="kontrolovat" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-lnd92253-043-p1s1w39">
 <src.rf>manual</src.rf>

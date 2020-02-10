@@ -115,7 +115,7 @@
 <LM>w#w-mf930703-084-p1s1w13</LM>
 </w.rf>
 <form>zúčastnil</form>
-<tag lemma="zúčastnit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zúčastnit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-084-p1s1w14">
 <src.rf>manual</src.rf>

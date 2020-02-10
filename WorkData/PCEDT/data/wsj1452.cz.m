@@ -467,7 +467,7 @@
 <LM>w#w-wsj1452-001-p1s0W36</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1452-001-p1s0W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -559,7 +559,7 @@
 <LM>w#w-wsj1452-001-p1s1W7</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-wsj1452-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>

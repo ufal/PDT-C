@@ -112,7 +112,7 @@
 <LM>w#w-mf920922-053-p2s1w10</LM>
 </w.rf>
 <form>vybojoval</form>
-<tag lemma="vybojovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vybojovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-053-p2s1w11">
 <src.rf>manual</src.rf>
@@ -320,7 +320,7 @@
 <LM>w#w-mf920922-053-p2s2w7</LM>
 </w.rf>
 <form>získal</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-053-p2s2w8">
 <src.rf>manual</src.rf>
@@ -428,7 +428,7 @@
 <LM>w#w-mf920922-053-p2s2w20</LM>
 </w.rf>
 <form>skončil</form>
-<tag lemma="skončit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="skončit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-053-p2s2w21">
 <src.rf>manual</src.rf>
@@ -888,7 +888,7 @@
 <LM>w#w-mf920922-053-p2s3Bw2</LM>
 </w.rf>
 <form>odhodily</form>
-<tag lemma="odhodit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="odhodit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf920922-053-p2s3Bw3">
 <src.rf>manual</src.rf>

@@ -524,7 +524,7 @@
 <form>stál</form>
 <tag>
 <AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-mf930709-017-p2s4w14">
@@ -608,7 +608,7 @@
 <form>stálo</form>
 <tag>
 <AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VpNS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-mf930709-017-p2s4w24">
@@ -784,7 +784,7 @@
 <LM>w#w-mf930709-017-p3s2w3</LM>
 </w.rf>
 <form>mělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930709-017-p3s2w4">
 <src.rf>manual</src.rf>
@@ -988,7 +988,7 @@
 <LM>w#w-mf930709-017-p4s2w13</LM>
 </w.rf>
 <form>dalo</form>
-<tag lemma="dát" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="dát" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-017-p4s2w14">
 <src.rf>manual</src.rf>
@@ -1038,7 +1038,7 @@
 <LM>w#w-mf930709-017-p4s3w4</LM>
 </w.rf>
 <form>přispěly</form>
-<tag lemma="přispět" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="přispět" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf930709-017-p4s3w5">
 <src.rf>manual</src.rf>

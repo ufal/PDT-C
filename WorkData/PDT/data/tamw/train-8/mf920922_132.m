@@ -187,7 +187,7 @@
 <LM>w#w-mf920922-132-p3s1Cw9</LM>
 </w.rf>
 <form>vyzval</form>
-<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-132-p3s1Cw10">
 <src.rf>manual</src.rf>

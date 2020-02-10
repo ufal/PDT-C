@@ -79,7 +79,7 @@
 <LM>w#w-wsj2318-001-p1s0W4</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2318-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -168,7 +168,7 @@
 <LM>w#w-wsj2318-001-p1s0W12</LM>
 </w.rf>
 <form>vzrostl</form>
-<tag lemma="vzrůst-1" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="vzrůst-1" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2318-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -279,7 +279,7 @@
 <LM>w#w-wsj2318-001-p1s0W21</LM>
 </w.rf>
 <form>dosahoval</form>
-<tag lemma="dosahovat" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="dosahovat" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj2318-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>

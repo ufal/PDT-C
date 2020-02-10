@@ -453,7 +453,7 @@
 <LM>w#w-ln94210-61-p2s2w1</LM>
 </w.rf>
 <form>Oznámili</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94210-61-p2s2w2">
 <src.rf>manual</src.rf>
@@ -605,7 +605,7 @@
 <LM>w#w-ln94210-61-p2s3w5</LM>
 </w.rf>
 <form>vyjádřil</form>
-<tag lemma="vyjádřit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyjádřit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94210-61-p2s3w6">
 <src.rf>manual</src.rf>
@@ -861,7 +861,7 @@
 <LM>w#w-ln94210-61-p2s4w6</LM>
 </w.rf>
 <form>konstatovali</form>
-<tag lemma="konstatovat_:T_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="konstatovat" src="orig" selected="1">VpMP----R-AAB--</tag>
 </m>
 <m id="m-ln94210-61-p2s4w7">
 <src.rf>manual</src.rf>
@@ -1021,7 +1021,7 @@
 <LM>w#w-ln94210-61-p2s4w26</LM>
 </w.rf>
 <form>zveřejnila</form>
-<tag lemma="zveřejnit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zveřejnit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94210-61-p2s4w27">
 <src.rf>manual</src.rf>

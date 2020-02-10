@@ -394,7 +394,7 @@
 <LM>w#w-lnd92257-016-p4s1w11</LM>
 </w.rf>
 <form>opatřen</form>
-<tag lemma="opatřit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="opatřit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd92257-016-p4s1w12">
 <src.rf>manual</src.rf>

@@ -181,7 +181,7 @@
 <LM>w#w-ln94207-11-p2s1w19</LM>
 </w.rf>
 <form>neobdrželi</form>
-<tag lemma="obdržet" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="obdržet" src="orig" selected="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m-ln94207-11-p2s1w20">
 <src.rf>manual</src.rf>
@@ -282,7 +282,7 @@
 <LM>w#w-ln94207-11-p3s1w7</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94207-11-p3s1w8">
 <src.rf>manual</src.rf>
@@ -290,7 +290,7 @@
 <LM>w#w-ln94207-11-p3s1w8</LM>
 </w.rf>
 <form>způsobeny</form>
-<tag lemma="způsobit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="způsobit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln94207-11-p3s1w9">
 <src.rf>manual</src.rf>
@@ -479,7 +479,7 @@
 <LM>w#w-ln94207-11-p4s1w9</LM>
 </w.rf>
 <form>neobdrželi</form>
-<tag lemma="obdržet" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="obdržet" src="orig" selected="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m-ln94207-11-p4s1w10">
 <src.rf>manual</src.rf>
@@ -703,7 +703,7 @@
 <LM>w#w-ln94207-11-p4s2w9</LM>
 </w.rf>
 <form>reklamovali</form>
-<tag lemma="reklamovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="reklamovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94207-11-p4s2w10">
 <src.rf>manual</src.rf>
@@ -943,7 +943,7 @@
 <LM>w#w-ln94207-11-p4s3w23</LM>
 </w.rf>
 <form>připraveni</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="připravit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-ln94207-11-p4s3w24">
 <src.rf>manual</src.rf>

@@ -343,7 +343,7 @@
 <LM>w#w-lnd91303-118-p6s10w5</LM>
 </w.rf>
 <form>vyrostl</form>
-<tag lemma="vyrůst" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyrůst" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-118-p6s10w6">
 <src.rf>manual</src.rf>
@@ -367,7 +367,7 @@
 <LM>w#w-lnd91303-118-p6s10w8</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-118-p6s10w9">
 <src.rf>manual</src.rf>

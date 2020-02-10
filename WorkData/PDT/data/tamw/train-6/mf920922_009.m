@@ -19,7 +19,7 @@
 <LM>w#w-mf920922-009-p1s1w1</LM>
 </w.rf>
 <form>zeptali</form>
-<tag lemma="zeptat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zeptat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920922-009-p1s1w2">
 <src.rf>manual</src.rf>
@@ -310,7 +310,7 @@
 <LM>w#w-mf920922-009-p2s1w25</LM>
 </w.rf>
 <form>provedla</form>
-<tag lemma="provést" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="provést" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920922-009-p2s1w26">
 <src.rf>manual</src.rf>

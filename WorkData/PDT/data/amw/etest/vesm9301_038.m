@@ -382,7 +382,7 @@
 <LM>w#w-vesm9301-038-p2s3w6</LM>
 </w.rf>
 <form>čekal</form>
-<tag lemma="čekat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="čekat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-vesm9301-038-p2s3w7">
 <src.rf>manual</src.rf>
@@ -529,7 +529,7 @@
 <LM>w#w-vesm9301-038-p2s3w24</LM>
 </w.rf>
 <form>čekal</form>
-<tag lemma="čekat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="čekat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-vesm9301-038-p2s3w25">
 <src.rf>manual</src.rf>
@@ -582,7 +582,7 @@
 <LM>w#w-vesm9301-038-p2s4w5</LM>
 </w.rf>
 <form>čekal</form>
-<tag lemma="čekat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="čekat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-vesm9301-038-p2s4w6">
 <src.rf>manual</src.rf>
@@ -819,7 +819,7 @@
 <LM>w#w-vesm9301-038-p2s5w17</LM>
 </w.rf>
 <form>vypracoval</form>
-<tag lemma="vypracovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vypracovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-vesm9301-038-p2s5w18">
 <src.rf>manual</src.rf>
@@ -891,7 +891,7 @@
 <LM>w#w-vesm9301-038-p2s5w26</LM>
 </w.rf>
 <form>determinována</form>
-<tag lemma="determinovat_:T_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="determinovat" src="orig" selected="1">VsQW----X-APB--</tag>
 </m>
 <m id="m-vesm9301-038-p2s5w27">
 <src.rf>manual</src.rf>

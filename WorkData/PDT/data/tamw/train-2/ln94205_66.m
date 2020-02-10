@@ -128,7 +128,7 @@
 <LM>w#w-ln94205-66-p2s1w13</LM>
 </w.rf>
 <form>srazil</form>
-<tag lemma="srazit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="srazit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94205-66-p2s1w14">
 <src.rf>manual</src.rf>

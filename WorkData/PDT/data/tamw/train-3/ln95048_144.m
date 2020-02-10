@@ -138,7 +138,7 @@
 <LM>w#w-ln95048-144-p2s1Bw8</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-144-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -218,7 +218,7 @@
 <LM>w#w-ln95048-144-p2s1Bw18</LM>
 </w.rf>
 <form>uloženy</form>
-<tag lemma="uložit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="uložit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln95048-144-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -290,7 +290,7 @@
 <LM>w#w-ln95048-144-p2s1Bw27</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95048-144-p2s1Bw28">
 <src.rf>manual</src.rf>
@@ -298,7 +298,7 @@
 <LM>w#w-ln95048-144-p2s1Bw28</LM>
 </w.rf>
 <form>svezeny</form>
-<tag lemma="svézt" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="svézt" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln95048-144-p2s1Bw29">
 <src.rf>manual</src.rf>
@@ -516,7 +516,7 @@
 <LM>w#w-ln95048-144-p2s2w18</LM>
 </w.rf>
 <form>uctěna</form>
-<tag lemma="uctít" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="uctít" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln95048-144-p2s2w19">
 <src.rf>manual</src.rf>
@@ -649,7 +649,7 @@
 <LM>w#w-ln95048-144-p2s3w9</LM>
 </w.rf>
 <form>dohodl</form>
-<tag lemma="dohodnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="dohodnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln95048-144-p2s3w10">
 <src.rf>manual</src.rf>
@@ -787,7 +787,7 @@
 <LM>w#w-ln95048-144-p2s4w3</LM>
 </w.rf>
 <form>zdůraznil</form>
-<tag lemma="zdůraznit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zdůraznit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-144-p2s4w4">
 <src.rf>manual</src.rf>
@@ -965,7 +965,7 @@
 <LM>w#w-ln95048-144-p2s5w7</LM>
 </w.rf>
 <form>rozhodnuto</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95048-144-p2s5w8">
 <src.rf>manual</src.rf>

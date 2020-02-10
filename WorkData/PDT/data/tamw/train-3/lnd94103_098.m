@@ -419,7 +419,7 @@
 <LM>w#w-lnd94103-098-p1s3w4</LM>
 </w.rf>
 <form>připomenuty</form>
-<tag lemma="připomenout" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="připomenout" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd94103-098-p1s3w5">
 <src.rf>manual</src.rf>
@@ -531,7 +531,7 @@
 <LM>w#w-lnd94103-098-p1s3w18</LM>
 </w.rf>
 <form>předvedena</form>
-<tag lemma="předvést" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="předvést" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd94103-098-p1s3w19">
 <src.rf>manual</src.rf>
@@ -1074,7 +1074,7 @@
 <LM>w#w-lnd94103-098-p1s6w1</LM>
 </w.rf>
 <form>Pozváni</form>
-<tag lemma="pozvat" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="pozvat" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-lnd94103-098-p1s6w2">
 <src.rf>manual</src.rf>
@@ -1184,7 +1184,7 @@
 <LM>w#w-lnd94103-098-p1s7w4</LM>
 </w.rf>
 <form>vyzdoben</form>
-<tag lemma="vyzdobit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="vyzdobit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd94103-098-p1s7w5">
 <src.rf>manual</src.rf>
@@ -1814,7 +1814,7 @@
 <LM>w#w-lnd94103-098-p1s13Aw3</LM>
 </w.rf>
 <form>připravován</form>
-<tag lemma="připravovat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="připravovat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-lnd94103-098-p1s13Aw4">
 <src.rf>manual</src.rf>

@@ -58,7 +58,7 @@
 <LM>w#w-wsj0086-001-p1s0W5</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0086-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -312,7 +312,7 @@
 <LM>w#w-wsj0086-001-p1s0W22</LM>
 </w.rf>
 <form>zrušila</form>
-<tag lemma="zrušit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="zrušit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0086-001-p1s0W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -528,7 +528,7 @@
 <LM>w#w-wsj0086-001-p1s1W9</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0086-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>

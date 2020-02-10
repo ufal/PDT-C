@@ -122,7 +122,7 @@
 <LM>w#w-mf920923-091-p2s2w5</LM>
 </w.rf>
 <form>doporučil</form>
-<tag lemma="doporučit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="doporučit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-091-p2s2w6">
 <src.rf>manual</src.rf>
@@ -447,7 +447,7 @@
 <LM>w#w-mf920923-091-p2s4w4</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920923-091-p2s4w5">
 <src.rf>manual</src.rf>
@@ -463,7 +463,7 @@
 <LM>w#w-mf920923-091-p2s4w6</LM>
 </w.rf>
 <form>volen</form>
-<tag lemma="volit_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="volit" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-mf920923-091-p2s4w7">
 <src.rf>manual</src.rf>
@@ -701,7 +701,7 @@
 <LM>w#w-mf920923-091-p2s5w25</LM>
 </w.rf>
 <form>zašli</form>
-<tag lemma="zajít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zajít" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920923-091-p2s5w26">
 <src.rf>manual</src.rf>
@@ -801,7 +801,7 @@
 <LM>w#w-mf920923-091-p2s6w8</LM>
 </w.rf>
 <form>odstranili</form>
-<tag lemma="odstranit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="odstranit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920923-091-p2s6w9">
 <src.rf>manual</src.rf>
@@ -1329,7 +1329,7 @@
 <LM>w#w-mf920923-091-p2s12w8</LM>
 </w.rf>
 <form>prošla</form>
-<tag lemma="projít_^(i_uplynout_[o_čase])" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="projít_^(i_uplynout_[o_čase])" src="auto" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920923-091-p2s12w9">
 <src.rf>manual</src.rf>
@@ -1487,7 +1487,7 @@
 <LM>w#w-mf920923-091-p2s12w27</LM>
 </w.rf>
 <form>zabránili</form>
-<tag lemma="zabránit_:W_^(někomu_v_něčem)" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zabránit_^(někomu_v_něčem)" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920923-091-p2s12w28">
 <src.rf>manual</src.rf>

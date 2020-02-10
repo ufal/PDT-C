@@ -288,7 +288,7 @@
 <LM>w#w-ln95045-080-p2s1Cw23</LM>
 </w.rf>
 <form>vyslovovala</form>
-<tag lemma="vyslovovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyslovovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95045-080-p2s1Cw24">
 <src.rf>manual</src.rf>
@@ -330,7 +330,7 @@
 <LM>w#w-ln95045-080-p2s2w1</LM>
 </w.rf>
 <form>Vyplynulo</form>
-<tag lemma="vyplynout" src="auto" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vyplynout" src="auto" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-080-p2s2w2">
 <src.rf>manual</src.rf>
@@ -591,7 +591,7 @@
 <LM>w#w-ln95045-080-p3s1w20</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-080-p3s1w21">
 <src.rf>manual</src.rf>
@@ -697,7 +697,7 @@
 <LM>w#w-ln95045-080-p3s2w11</LM>
 </w.rf>
 <form>dodal</form>
-<tag lemma="dodat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dodat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-080-p3s2w12">
 <src.rf>manual</src.rf>
@@ -723,7 +723,7 @@
 <LM>w#w-ln95045-080-p4s1w2</LM>
 </w.rf>
 <form>ocenil</form>
-<tag lemma="ocenit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="ocenit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-080-p4s1w3">
 <src.rf>manual</src.rf>
@@ -779,7 +779,7 @@
 <LM>w#w-ln95045-080-p4s1w9</LM>
 </w.rf>
 <form>kritizoval</form>
-<tag lemma="kritizovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="kritizovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95045-080-p4s1w10">
 <src.rf>manual</src.rf>
@@ -886,7 +886,7 @@
 <LM>w#w-ln95045-080-p4s1w22</LM>
 </w.rf>
 <form>naplňovány</form>
-<tag lemma="naplňovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="naplňovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln95045-080-p4s1w23">
 <src.rf>manual</src.rf>
@@ -974,7 +974,7 @@
 <LM>w#w-ln95045-080-p4s2w9</LM>
 </w.rf>
 <form>upozornila</form>
-<tag lemma="upozornit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="upozornit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95045-080-p4s2w10">
 <src.rf>manual</src.rf>

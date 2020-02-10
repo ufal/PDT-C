@@ -104,7 +104,7 @@
 <LM>w#w-ln95043-020-p2s1Bw4</LM>
 </w.rf>
 <form>vyhráli</form>
-<tag lemma="vyhrát" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyhrát" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95043-020-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -284,7 +284,7 @@
 <LM>w#w-ln95043-020-p2s2w1</LM>
 </w.rf>
 <form>Potřebovali</form>
-<tag lemma="potřebovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="potřebovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95043-020-p2s2w2">
 <src.rf>manual</src.rf>
@@ -340,7 +340,7 @@
 <LM>w#w-ln95043-020-p2s2w8</LM>
 </w.rf>
 <form>přerušili</form>
-<tag lemma="přerušit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přerušit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95043-020-p2s2w9">
 <src.rf>manual</src.rf>
@@ -432,7 +432,7 @@
 <LM>w#w-ln95043-020-p2s3w4</LM>
 </w.rf>
 <form>vyhrál</form>
-<tag lemma="vyhrát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyhrát" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95043-020-p2s3w5">
 <src.rf>manual</src.rf>
@@ -530,7 +530,7 @@
 <LM>w#w-ln95043-020-p3s1w5</LM>
 </w.rf>
 <form>zvítězili</form>
-<tag lemma="zvítězit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zvítězit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95043-020-p3s1w6">
 <src.rf>manual</src.rf>
@@ -690,7 +690,7 @@
 <LM>w#w-ln95043-020-p3s2w4</LM>
 </w.rf>
 <form>porazili</form>
-<tag lemma="porazit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="porazit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95043-020-p3s2w5">
 <src.rf>manual</src.rf>
@@ -797,7 +797,7 @@
 <LM>w#w-ln95043-020-p3s2w17</LM>
 </w.rf>
 <form>prohrávali</form>
-<tag lemma="prohrávat_:T_^(*3t)" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="prohrávat_^(*3t)" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95043-020-p3s2w18">
 <src.rf>manual</src.rf>
@@ -997,7 +997,7 @@
 <LM>w#w-ln95043-020-p4s1w3</LM>
 </w.rf>
 <form>slavila</form>
-<tag lemma="slavit_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="slavit" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95043-020-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1157,7 +1157,7 @@
 <LM>w#w-ln95043-020-p4s2w3</LM>
 </w.rf>
 <form>vyhráli</form>
-<tag lemma="vyhrát" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyhrát" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95043-020-p4s2w4">
 <src.rf>manual</src.rf>
@@ -1197,7 +1197,7 @@
 <LM>w#w-ln95043-020-p4s2w8</LM>
 </w.rf>
 <form>dokázali</form>
-<tag lemma="dokázat" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="dokázat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95043-020-p4s2w9">
 <src.rf>manual</src.rf>

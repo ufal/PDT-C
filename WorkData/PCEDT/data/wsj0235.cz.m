@@ -161,7 +161,7 @@
 <LM>w#w-wsj0235-001-p1s0W10</LM>
 </w.rf>
 <form>vzrostly</form>
-<tag lemma="vzrůst-1" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="vzrůst-1" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj0235-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -538,7 +538,7 @@
 <LM>w#w-wsj0235-001-p1s1W8</LM>
 </w.rf>
 <form>vzrostly</form>
-<tag lemma="vzrůst-1" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="vzrůst-1" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj0235-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -933,7 +933,7 @@
 <LM>w#w-wsj0235-001-p1s2W14</LM>
 </w.rf>
 <form>vzedmuly</form>
-<tag lemma="vzedmout" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="vzedmout" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj0235-001-p1s2W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1099,7 +1099,7 @@
 <LM>w#w-wsj0235-001-p1s3W3</LM>
 </w.rf>
 <form>předpovídala</form>
-<tag lemma="předpovídat" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="předpovídat" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0235-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>

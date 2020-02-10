@@ -200,7 +200,7 @@
 <LM>w#w-ln95041-039-p2s1w16</LM>
 </w.rf>
 <form>dospěli</form>
-<tag lemma="dospět" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="dospět" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95041-039-p2s1w17">
 <src.rf>manual</src.rf>
@@ -2278,7 +2278,7 @@
 <LM>w#w-ln95041-039-p2s11w9</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95041-039-p2s11w10">
 <src.rf>manual</src.rf>
@@ -2417,7 +2417,7 @@
 <LM>w#w-ln95041-039-p2s11w27</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95041-039-p2s11w28">
 <src.rf>manual</src.rf>
@@ -2473,7 +2473,7 @@
 <LM>w#w-ln95041-039-p2s11w34</LM>
 </w.rf>
 <form>nemuseli</form>
-<tag lemma="muset" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="muset" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-ln95041-039-p2s11w35">
 <src.rf>manual</src.rf>
@@ -2900,7 +2900,7 @@
 <LM>w#w-ln95041-039-p2s14w11</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95041-039-p2s14w12">
 <src.rf>manual</src.rf>

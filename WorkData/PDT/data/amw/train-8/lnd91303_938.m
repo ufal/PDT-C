@@ -146,7 +146,7 @@
 <LM>w#w-lnd91303-938-p3s1w9</LM>
 </w.rf>
 <form>obviněn</form>
-<tag lemma="obvinit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="obvinit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd91303-938-p3s1w10">
 <src.rf>manual</src.rf>
@@ -276,7 +276,7 @@
 <LM>w#w-lnd91303-938-p3s2w6</LM>
 </w.rf>
 <form>shromažďovaly</form>
-<tag lemma="shromažďovat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="shromažďovat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-938-p3s2w7">
 <src.rf>manual</src.rf>
@@ -552,7 +552,7 @@
 <LM>w#w-lnd91303-938-p3s4w8</LM>
 </w.rf>
 <form>zmapován</form>
-<tag lemma="zmapovat_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zmapovat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd91303-938-p3s4w9">
 <src.rf>manual</src.rf>

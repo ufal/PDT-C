@@ -391,7 +391,7 @@
 <LM>w#w-ln94204-38-p2s2w7</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94204-38-p2s2w8">
 <src.rf>manual</src.rf>
@@ -537,7 +537,7 @@
 <LM>w#w-ln94204-38-p2s3w5</LM>
 </w.rf>
 <form>přesáhly</form>
-<tag lemma="přesáhnout" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="přesáhnout" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94204-38-p2s3w6">
 <src.rf>manual</src.rf>

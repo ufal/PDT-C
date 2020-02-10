@@ -716,7 +716,7 @@
 <LM>w#w-ln94207-113-p2s4w16</LM>
 </w.rf>
 <form>vtažena</form>
-<tag lemma="vtáhnout" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="vtáhnout" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94207-113-p2s4w17">
 <src.rf>manual</src.rf>
@@ -826,7 +826,7 @@
 <LM>w#w-ln94207-113-p3s1w6</LM>
 </w.rf>
 <form>vznikl</form>
-<tag lemma="vzniknout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="vzniknout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln94207-113-p3s1w7">
 <src.rf>manual</src.rf>
@@ -1095,7 +1095,7 @@
 <LM>w#w-ln94207-113-p3s2w14</LM>
 </w.rf>
 <form>zasazeno</form>
-<tag lemma="zasadit_:W_^(něco_někam,_např._strom)" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zasadit_^(něco_někam,_např._strom)" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94207-113-p3s2w15">
 <src.rf>manual</src.rf>

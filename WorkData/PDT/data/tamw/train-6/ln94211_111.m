@@ -35,7 +35,7 @@
 <LM>w#w-ln94211-111-p1s1Aw3</LM>
 </w.rf>
 <form>snil</form>
-<tag lemma="snít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="snít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94211-111-p1s1Aw4">
 <src.rf>manual</src.rf>

@@ -488,7 +488,7 @@
 <LM>w#w-mf930701-132-p2s3w12</LM>
 </w.rf>
 <form>poklesl</form>
-<tag lemma="poklesnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="poklesnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf930701-132-p2s3w13">
 <src.rf>manual</src.rf>
@@ -813,7 +813,7 @@
 <LM>w#w-mf930701-132-p2s6w11</LM>
 </w.rf>
 <form>zanechali</form>
-<tag lemma="zanechat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zanechat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930701-132-p2s6w12">
 <src.rf>manual</src.rf>

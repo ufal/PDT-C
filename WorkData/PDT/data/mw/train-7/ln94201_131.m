@@ -1200,7 +1200,7 @@
 <LM>w#w-ln94201-131-p4s1w4</LM>
 </w.rf>
 <form>nahrál</form>
-<tag lemma="nahrát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nahrát" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94201-131-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1403,7 +1403,7 @@
 <LM>w#w-ln94201-131-p4s1w29</LM>
 </w.rf>
 <form>oživil</form>
-<tag lemma="oživit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="oživit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94201-131-p4s1w30">
 <src.rf>manual</src.rf>
@@ -1797,7 +1797,7 @@
 <LM>w#w-ln94201-131-p5s1w18</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94201-131-p5s1w19">
 <src.rf>manual</src.rf>
@@ -1805,7 +1805,7 @@
 <LM>w#w-ln94201-131-p5s1w19</LM>
 </w.rf>
 <form>nahráni</form>
-<tag lemma="nahrát" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="nahrát" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-ln94201-131-p5s1w20">
 <src.rf>manual</src.rf>
@@ -2026,7 +2026,7 @@
 <LM>w#w-ln94201-131-p5s2w17</LM>
 </w.rf>
 <form>pracoval</form>
-<tag lemma="pracovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="pracovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94201-131-p5s2w18">
 <src.rf>manual</src.rf>
@@ -2236,7 +2236,7 @@
 <LM>w#w-ln94201-131-p5s3w14</LM>
 </w.rf>
 <form>hodnocen</form>
-<tag lemma="hodnotit_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="hodnotit" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-ln94201-131-p5s3w15">
 <src.rf>manual</src.rf>
@@ -2363,7 +2363,7 @@
 <LM>w#w-ln94201-131-p5s5w2</LM>
 </w.rf>
 <form>získala</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94201-131-p5s5w3">
 <src.rf>manual</src.rf>
@@ -2685,7 +2685,7 @@
 <LM>w#w-ln94201-131-p6s3w1</LM>
 </w.rf>
 <form>Vyhlásila</form>
-<tag lemma="vyhlásit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyhlásit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94201-131-p6s3w2">
 <src.rf>manual</src.rf>

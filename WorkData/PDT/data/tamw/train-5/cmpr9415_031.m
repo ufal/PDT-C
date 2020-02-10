@@ -621,7 +621,7 @@
 <LM>w#w-cmpr9415-031-p4s3w41</LM>
 </w.rf>
 <form>naučil</form>
-<tag lemma="naučit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="naučit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9415-031-p4s3w42">
 <src.rf>manual</src.rf>
@@ -1186,7 +1186,7 @@
 <LM>w#w-cmpr9415-031-p5s2w13</LM>
 </w.rf>
 <form>objevil</form>
-<tag lemma="objevit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="objevit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9415-031-p5s2w14">
 <src.rf>manual</src.rf>
@@ -2079,7 +2079,7 @@
 <LM>w#w-cmpr9415-031-p8s1w31</LM>
 </w.rf>
 <form>publikoval</form>
-<tag lemma="publikovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="publikovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-cmpr9415-031-p8s1w32">
 <src.rf>manual</src.rf>
@@ -2380,7 +2380,7 @@
 <LM>w#w-cmpr9415-031-p8s2w14</LM>
 </w.rf>
 <form>nastala</form>
-<tag lemma="nastat" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="nastat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-cmpr9415-031-p8s2w15">
 <src.rf>manual</src.rf>

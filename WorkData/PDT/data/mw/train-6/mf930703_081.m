@@ -76,8 +76,8 @@
 </w.rf>
 <form>omezen</form>
 <tag>
-<AM lemma="omezit" src="orig">VsYS---XX-AP---</AM>
-<AM lemma="omezit_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+<AM lemma="omezit" src="orig">VsYS----X-APP--</AM>
+<AM lemma="omezit" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
 </s>
@@ -300,8 +300,8 @@
 </w.rf>
 <form>omezen</form>
 <tag>
-<AM lemma="omezit" src="orig">VsYS---XX-AP---</AM>
-<AM lemma="omezit_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+<AM lemma="omezit" src="orig">VsYS----X-APP--</AM>
+<AM lemma="omezit" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-mf930703-081-p2s1w28">
@@ -782,7 +782,7 @@
 <LM>w#w-mf930703-081-p2s5w3</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930703-081-p2s5w4">
 <src.rf>manual</src.rf>
@@ -791,8 +791,8 @@
 </w.rf>
 <form>vybrány</form>
 <tag>
-<AM lemma="vybrat" src="orig">VsTP---XX-AP---</AM>
-<AM lemma="vybrat_:W" src="manual" selected="1">VsTP---XX-AP---</AM>
+<AM lemma="vybrat" src="orig">VsTP----X-APP--</AM>
+<AM lemma="vybrat" src="manual" selected="1">VsTP----X-APP--</AM>
 </tag>
 </m>
 <m id="m-mf930703-081-p2s5w5">
@@ -1169,7 +1169,7 @@
 <LM>w#w-mf930703-081-p2s7w6</LM>
 </w.rf>
 <form>připravila</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="připravit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930703-081-p2s7w7">
 <src.rf>manual</src.rf>
@@ -1209,7 +1209,7 @@
 <LM>w#w-mf930703-081-p2s7w11</LM>
 </w.rf>
 <form>zabránila</form>
-<tag lemma="zabránit_:W_^(někomu_v_něčem)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zabránit_^(někomu_v_něčem)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930703-081-p2s7w12">
 <src.rf>manual</src.rf>
@@ -1241,7 +1241,7 @@
 <LM>w#w-mf930703-081-p2s7w15</LM>
 </w.rf>
 <form>sdělil</form>
-<tag lemma="sdělit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sdělit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-081-p2s7w16">
 <src.rf>manual</src.rf>

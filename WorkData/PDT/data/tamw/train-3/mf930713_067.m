@@ -431,7 +431,7 @@
 <LM>w#w-mf930713-067-p2s2w14</LM>
 </w.rf>
 <form>volen</form>
-<tag lemma="volit_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="volit" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-mf930713-067-p2s2w15">
 <src.rf>manual</src.rf>
@@ -899,7 +899,7 @@
 <LM>w#w-mf930713-067-p2s4w32</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930713-067-p2s4w33">
 <src.rf>manual</src.rf>
@@ -1208,7 +1208,7 @@
 <LM>w#w-mf930713-067-p3s2w8</LM>
 </w.rf>
 <form>musel</form>
-<tag lemma="muset" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="muset" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930713-067-p3s2w9">
 <src.rf>manual</src.rf>
@@ -1936,7 +1936,7 @@
 <LM>w#w-mf930713-067-p3s7w21</LM>
 </w.rf>
 <form>homologovány</form>
-<tag lemma="homologovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="homologovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf930713-067-p3s7w22">
 <src.rf>manual</src.rf>

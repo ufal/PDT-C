@@ -115,7 +115,7 @@
 <LM>w#w-mf920902-049-p1s1w13</LM>
 </w.rf>
 <form>zranil</form>
-<tag lemma="zranit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zranit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-049-p1s1w14">
 <src.rf>manual</src.rf>
@@ -150,7 +150,7 @@
 <LM>w#w-mf920902-049-p1s1w17</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920902-049-p1s1w18">
 <src.rf>manual</src.rf>
@@ -182,7 +182,7 @@
 <LM>w#w-mf920902-049-p1s1w21</LM>
 </w.rf>
 <form>převezeno</form>
-<tag lemma="převézt" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="převézt" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf920902-049-p1s1w22">
 <src.rf>manual</src.rf>

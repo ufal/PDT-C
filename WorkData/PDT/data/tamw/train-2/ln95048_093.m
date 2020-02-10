@@ -120,7 +120,7 @@
 <LM>w#w-ln95048-093-p2s1Bw5</LM>
 </w.rf>
 <form>jmenovala</form>
-<tag lemma="jmenovat_:T_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="jmenovat" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-ln95048-093-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -270,7 +270,7 @@
 <LM>w#w-ln95048-093-p2s2w8</LM>
 </w.rf>
 <form>nahradila</form>
-<tag lemma="nahradit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="nahradit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95048-093-p2s2w9">
 <src.rf>manual</src.rf>
@@ -342,7 +342,7 @@
 <LM>w#w-ln95048-093-p2s2w17</LM>
 </w.rf>
 <form>prohlásila</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95048-093-p2s2w18">
 <src.rf>manual</src.rf>
@@ -553,7 +553,7 @@
 <LM>w#w-ln95048-093-p2s2w43</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95048-093-p2s2w44">
 <src.rf>manual</src.rf>

@@ -141,7 +141,7 @@
 <LM>w#w-ln94209-25-p2s1Bw3</LM>
 </w.rf>
 <form>označil</form>
-<tag lemma="označit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="označit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94209-25-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -716,7 +716,7 @@
 <LM>w#w-ln94209-25-p4s1w14</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94209-25-p4s1w15">
 <src.rf>manual</src.rf>
@@ -1003,7 +1003,7 @@
 <LM>w#w-ln94209-25-p4s3w8</LM>
 </w.rf>
 <form>padla</form>
-<tag lemma="padnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="padnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln94209-25-p4s3w9">
 <src.rf>manual</src.rf>

@@ -1235,7 +1235,7 @@
 <LM>w#w-cmpr9406-021-p9s1Bw15</LM>
 </w.rf>
 <form>využit</form>
-<tag lemma="využít" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="využít" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-cmpr9406-021-p9s1Bw16">
 <src.rf>manual</src.rf>

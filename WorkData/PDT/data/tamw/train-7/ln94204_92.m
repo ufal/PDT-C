@@ -115,7 +115,7 @@
 <LM>w#w-ln94204-92-p1s1w12</LM>
 </w.rf>
 <form>dokončila</form>
-<tag lemma="dokončit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="dokončit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94204-92-p1s1w13">
 <src.rf>manual</src.rf>

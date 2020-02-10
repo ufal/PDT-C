@@ -253,7 +253,7 @@
 <LM>w#w-mf920901-005-p2s2w7</LM>
 </w.rf>
 <form>přesvědčili</form>
-<tag lemma="přesvědčit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přesvědčit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920901-005-p2s2w8">
 <src.rf>manual</src.rf>

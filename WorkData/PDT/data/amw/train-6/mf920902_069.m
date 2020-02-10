@@ -154,7 +154,7 @@
 <LM>w#w-mf920902-069-p2s2w5</LM>
 </w.rf>
 <form>projevil</form>
-<tag lemma="projevit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="projevit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-069-p2s2w6">
 <src.rf>manual</src.rf>
@@ -324,7 +324,7 @@
 <LM>w#w-mf920902-069-p2s3w2</LM>
 </w.rf>
 <form>zaslal</form>
-<tag lemma="zaslat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zaslat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-069-p2s3w3">
 <src.rf>manual</src.rf>
@@ -399,7 +399,7 @@
 <LM>w#w-mf920902-069-p2s3w11</LM>
 </w.rf>
 <form>ozval</form>
-<tag lemma="ozvat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="ozvat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-069-p2s3w12">
 <src.rf>manual</src.rf>
@@ -641,7 +641,7 @@
 <LM>w#w-mf920902-069-p2s4w10</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-069-p2s4w11">
 <src.rf>manual</src.rf>

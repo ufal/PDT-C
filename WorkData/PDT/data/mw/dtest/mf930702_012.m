@@ -176,7 +176,7 @@
 <LM>w#w-mf930702-012-p2s1w14</LM>
 </w.rf>
 <form>vyjádřila</form>
-<tag lemma="vyjádřit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyjádřit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930702-012-p2s1w15">
 <src.rf>manual</src.rf>
@@ -282,7 +282,7 @@
 <LM>w#w-mf930702-012-p2s2w1</LM>
 </w.rf>
 <form>Souhlasilo</form>
-<tag lemma="souhlasit_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="souhlasit" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930702-012-p2s2w2">
 <src.rf>manual</src.rf>
@@ -363,7 +363,7 @@
 <LM>w#w-mf930702-012-p2s2w11</LM>
 </w.rf>
 <form>nevědělo</form>
-<tag lemma="vědět" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="vědět" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-mf930702-012-p2s2w12">
 <src.rf>manual</src.rf>
@@ -479,7 +479,7 @@
 <LM>w#w-mf930702-012-p2s4w5</LM>
 </w.rf>
 <form>zahynulo</form>
-<tag lemma="zahynout" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zahynout" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930702-012-p2s4w6">
 <src.rf>manual</src.rf>
@@ -511,7 +511,7 @@
 <LM>w#w-mf930702-012-p2s4w9</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930702-012-p2s4w10">
 <src.rf>manual</src.rf>
@@ -685,7 +685,7 @@
 <LM>w#w-mf930702-012-p3s1w9</LM>
 </w.rf>
 <form>podpořili</form>
-<tag lemma="podpořit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="podpořit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930702-012-p3s1w10">
 <src.rf>manual</src.rf>

@@ -1653,7 +1653,7 @@
 <LM>w#w-cmpr9406-022-p9s2w2</LM>
 </w.rf>
 <form>orientován</form>
-<tag lemma="orientovat_:T_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="orientovat" src="orig" selected="1">VsYS----X-APB--</tag>
 </m>
 <m id="m-cmpr9406-022-p9s2w3">
 <src.rf>manual</src.rf>

@@ -590,7 +590,7 @@
 <LM>w#w-mf920925-064-p2s6w3</LM>
 </w.rf>
 <form>dostal</form>
-<tag lemma="dostat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dostat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920925-064-p2s6w4">
 <src.rf>manual</src.rf>

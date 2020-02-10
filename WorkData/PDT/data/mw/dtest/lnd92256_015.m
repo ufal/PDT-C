@@ -990,7 +990,7 @@
 <LM>w#w-lnd92256-015-p3s6w21</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92256-015-p3s6w22">
 <src.rf>manual</src.rf>
@@ -1006,7 +1006,7 @@
 <LM>w#w-lnd92256-015-p3s6w23</LM>
 </w.rf>
 <form>umístěni</form>
-<tag lemma="umístit" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="umístit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-lnd92256-015-p3s6w24">
 <src.rf>manual</src.rf>
@@ -1655,7 +1655,7 @@
 <LM>w#w-lnd92256-015-p3s9w35</LM>
 </w.rf>
 <form>řekla</form>
-<tag lemma="říci" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-015-p3s9w36">
 <src.rf>manual</src.rf>

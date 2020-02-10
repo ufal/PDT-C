@@ -151,7 +151,7 @@
 <LM>w#w-lnd94104-053-p1s3w8</LM>
 </w.rf>
 <form>bombardovali</form>
-<tag lemma="bombardovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="bombardovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd94104-053-p1s3w9">
 <src.rf>manual</src.rf>
@@ -458,7 +458,7 @@
 <LM>w#w-lnd94104-053-p1s7w5</LM>
 </w.rf>
 <form>varoval</form>
-<tag lemma="varovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="varovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94104-053-p1s7w6">
 <src.rf>manual</src.rf>

@@ -224,7 +224,7 @@
 <LM>w#w-lnd91303-102-p5s2w9</LM>
 </w.rf>
 <form>rozešli</form>
-<tag lemma="rozejít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="rozejít" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-102-p5s2w10">
 <src.rf>manual</src.rf>

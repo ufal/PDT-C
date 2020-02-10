@@ -29,7 +29,7 @@
 <LM>w#w-d1t4016-3</LM>
 </w.rf>
 <form>vypršel</form>
-<tag lemma="vypršet" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="vypršet" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m047-d1t4016-4">
 <w.rf>
@@ -68,7 +68,7 @@
 <LM>w#w-d1t4028-3</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m047-d1t4028-4">
 <w.rf>
@@ -177,7 +177,7 @@
 <LM>w#w-d1t4034-5</LM>
 </w.rf>
 <form>Zakončili</form>
-<tag lemma="zakončit_:W" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="zakončit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m047-d1t4034-6">
 <w.rf>
@@ -448,7 +448,7 @@
 <LM>w#w-d1t4062-7</LM>
 </w.rf>
 <form>povídalo</form>
-<tag lemma="povídat_:T" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="povídat" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m047-d-m-d1e4055-x3-punct-punct">
 <w.rf>

@@ -109,7 +109,7 @@
 <LM>w#w-lnd94104-136-p1s1Bw6</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd94104-136-p1s1Bw7">
 <src.rf>manual</src.rf>
@@ -117,7 +117,7 @@
 <LM>w#w-lnd94104-136-p1s1Bw7</LM>
 </w.rf>
 <form>zraněno</form>
-<tag lemma="zranit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zranit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd94104-136-p1s1Bw8">
 <src.rf>manual</src.rf>
@@ -207,8 +207,8 @@
 </w.rf>
 <form>zemřelo</form>
 <tag>
-<AM lemma="zemřít" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="zemřít_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="zemřít" src="orig">VpNS----R-AAP--</AM>
+<AM lemma="zemřít" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd94104-136-p1s1Bw19">
@@ -355,7 +355,7 @@
 <LM>w#w-lnd94104-136-p1s2w17</LM>
 </w.rf>
 <form>odoperovali</form>
-<tag lemma="odoperovat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="odoperovat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-136-p1s2w18">
 <src.rf>manual</src.rf>
@@ -565,7 +565,7 @@
 <LM>w#w-lnd94104-136-p1s3w13</LM>
 </w.rf>
 <form>zapříčiněny</form>
-<tag lemma="zapříčinit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="zapříčinit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd94104-136-p1s3w14">
 <src.rf>manual</src.rf>

@@ -70,7 +70,7 @@
 <LM>w#w-wsj0007-001-p1s0W6</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0007-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -152,7 +152,7 @@
 <LM>w#w-wsj0007-001-p1s0W14</LM>
 </w.rf>
 <form>dokončila</form>
-<tag lemma="dokončit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="dokončit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0007-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>

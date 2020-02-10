@@ -362,7 +362,7 @@
 <LM>w#w-ln95045-114-p2s2w19</LM>
 </w.rf>
 <form>vypočten</form>
-<tag lemma="vypočíst" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="vypočíst" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95045-114-p2s2w20">
 <src.rf>manual</src.rf>
@@ -437,7 +437,7 @@
 <LM>w#w-ln95045-114-p2s3w4</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95045-114-p2s3w5">
 <src.rf>manual</src.rf>
@@ -518,7 +518,7 @@
 <LM>w#w-ln95045-114-p2s3w14</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95045-114-p2s3w15">
 <src.rf>manual</src.rf>

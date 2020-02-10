@@ -69,7 +69,7 @@
 <LM>w#w-mf920923-030-p2s1w3</LM>
 </w.rf>
 <form>emigroval</form>
-<tag lemma="emigrovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="emigrovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-mf920923-030-p2s1w4">
 <src.rf>manual</src.rf>
@@ -193,7 +193,7 @@
 <form>vydal</form>
 <tag>
 <AM lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="vydat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="vydat" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920923-030-p2s2w10">
@@ -334,7 +334,7 @@
 <form>vydal</form>
 <tag>
 <AM lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="vydat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="vydat" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920923-030-p2s2w26">
@@ -1733,7 +1733,7 @@
 <LM>w#w-mf920923-030-p4s2w16</LM>
 </w.rf>
 <form>nemívali</form>
-<tag lemma="mívat_:T_^(*3t)" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="mívat_^(*3t)" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-mf920923-030-p4s2w17">
 <src.rf>manual</src.rf>

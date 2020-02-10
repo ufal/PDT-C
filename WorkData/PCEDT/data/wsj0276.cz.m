@@ -192,7 +192,7 @@
 <LM>w#w-wsj0276-001-p1s0W14</LM>
 </w.rf>
 <form>neuspěl</form>
-<tag lemma="uspět" src="auto" recommended="1">VpYS---XR-NAP--</tag>
+<tag lemma="uspět" src="auto" recommended="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-wsj0276-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -382,7 +382,7 @@
 <LM>w#w-wsj0276-001-p1s1W5</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0276-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -409,7 +409,7 @@
 <LM>w#w-wsj0276-001-p1s1W8</LM>
 </w.rf>
 <form>podal</form>
-<tag lemma="podat_^(něco_[někomu]_[někam])" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="podat_^(něco_[někomu]_[někam])" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0276-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1032,7 +1032,7 @@
 <LM>w#w-wsj0276-001-p1s2W5</LM>
 </w.rf>
 <form>schválili</form>
-<tag lemma="schválit" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="schválit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj0276-001-p1s2W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1429,7 +1429,7 @@
 <LM>w#w-wsj0276-001-p1s4W3</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj0276-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1554,7 +1554,7 @@
 <LM>w#w-wsj0276-001-p1s4W14</LM>
 </w.rf>
 <form>zamítl</form>
-<tag lemma="zamítnout" src="auto" recommended="1">VpYS---XR-AAP-1</tag>
+<tag lemma="zamítnout" src="auto" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-wsj0276-001-p1s4W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1755,7 +1755,7 @@
 <LM>w#w-wsj0276-001-p1s5W6</LM>
 </w.rf>
 <form>zrušil</form>
-<tag lemma="zrušit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="zrušit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0276-001-p1s5W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1789,7 +1789,7 @@
 <LM>w#w-wsj0276-001-p1s6W3</LM>
 </w.rf>
 <form>rezignoval</form>
-<tag lemma="rezignovat" src="auto" recommended="1">VpYS---XR-AAB--</tag>
+<tag lemma="rezignovat" src="auto" recommended="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-wsj0276-001-p1s6W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1927,7 +1927,7 @@
 <LM>w#w-wsj0276-001-p1s6W13</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0276-001-p1s6W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2005,7 +2005,7 @@
 <LM>w#w-wsj0276-001-p1s6W20</LM>
 </w.rf>
 <form>přispělo</form>
-<tag lemma="přispět" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="přispět" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj0276-001-p1s6W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2098,7 +2098,7 @@
 <LM>w#w-wsj0276-001-p1s7W2</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0276-001-p1s7W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2509,7 +2509,7 @@
 <LM>w#w-wsj0276-001-p1s8W1</LM>
 </w.rf>
 <form>Řekl</form>
-<tag lemma="říci" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0276-001-p1s8W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2836,7 +2836,7 @@
 <LM>w#w-wsj0276-001-p1s9W8</LM>
 </w.rf>
 <form>nebyli</form>
-<tag lemma="být" src="auto" recommended="1">VpMP---XR-NAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-wsj0276-001-p1s9W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2913,7 +2913,7 @@
 <LM>w#w-wsj0276-001-p1s9W15</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci" src="auto" recommended="1">VpMP---XR-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-wsj0276-001-p1s9W16-Ta">
 <src.rf>tagger-a</src.rf>

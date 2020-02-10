@@ -99,7 +99,7 @@
 <LM>w#w-mf920901-105-p1s1w11</LM>
 </w.rf>
 <form>OSLABILO</form>
-<tag lemma="oslabit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="oslabit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920901-105-p1s1w12">
 <src.rf>manual</src.rf>
@@ -188,7 +188,7 @@
 <LM>w#w-mf920901-105-p2s2w6</LM>
 </w.rf>
 <form>znepokojeno</form>
-<tag lemma="znepokojit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="znepokojit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf920901-105-p2s2w7">
 <src.rf>manual</src.rf>
@@ -300,7 +300,7 @@
 <LM>w#w-mf920901-105-p2s2w20</LM>
 </w.rf>
 <form>oslabilo</form>
-<tag lemma="oslabit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="oslabit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920901-105-p2s2w21">
 <src.rf>manual</src.rf>
@@ -367,8 +367,8 @@
 </w.rf>
 <form>Uvedl</form>
 <tag>
-<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="uvést" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="uvést" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920901-105-p2s3w2">
@@ -1369,7 +1369,7 @@
 <LM>w#w-mf920901-105-p5s1w7</LM>
 </w.rf>
 <form>navštívil</form>
-<tag lemma="navštívit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="navštívit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920901-105-p5s1w8">
 <src.rf>manual</src.rf>
@@ -1418,8 +1418,8 @@
 </w.rf>
 <form>uvedl</form>
 <tag>
-<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="uvést" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="uvést" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920901-105-p5s1w14">
@@ -1516,7 +1516,7 @@
 <LM>w#w-mf920901-105-p5s1w25</LM>
 </w.rf>
 <form>snížily</form>
-<tag lemma="snížit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="snížit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf920901-105-p5s1w26">
 <src.rf>manual</src.rf>

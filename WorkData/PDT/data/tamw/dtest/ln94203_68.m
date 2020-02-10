@@ -95,7 +95,7 @@
 <LM>w#w-ln94203-68-p1s1w10</LM>
 </w.rf>
 <form>proběhl</form>
-<tag lemma="proběhnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="proběhnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln94203-68-p1s1w11">
 <src.rf>manual</src.rf>

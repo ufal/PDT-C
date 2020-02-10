@@ -99,7 +99,7 @@
 <LM>w#w-wsj1794-001-p1s0W8</LM>
 </w.rf>
 <form>oznámily</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1794-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -411,7 +411,7 @@
 <LM>w#w-wsj1794-001-p1s1W9</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1794-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -468,7 +468,7 @@
 <LM>w#w-wsj1794-001-p1s1W15</LM>
 </w.rf>
 <form>zaměřena</form>
-<tag lemma="zaměřit" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="zaměřit" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj1794-001-p1s1W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1378,7 +1378,7 @@
 <LM>w#w-wsj1794-001-p1s3W2</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1794-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1632,7 +1632,7 @@
 <tag>
 <AM lemma="podnik" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="podnik" src="auto">NNIS4-----A----</AM>
-<AM lemma="podniknout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="podniknout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-wsj1794-001-p1s4W4-Ta">
@@ -2586,7 +2586,7 @@
 <LM>w#w-wsj1794-001-p1s7W2</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1794-001-p1s7W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2627,7 +2627,7 @@
 <tag>
 <AM lemma="podnik" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="podnik" src="auto">NNIS4-----A----</AM>
-<AM lemma="podniknout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="podniknout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-wsj1794-001-p1s7W7-Ta">
@@ -2909,7 +2909,7 @@
 <LM>w#w-wsj1794-001-p1s7W30</LM>
 </w.rf>
 <form>musely</form>
-<tag lemma="muset" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag lemma="muset" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj1794-001-p1s7W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3096,7 +3096,7 @@
 <LM>w#w-wsj1794-001-p1s8W8</LM>
 </w.rf>
 <form>rozdělily</form>
-<tag lemma="rozdělit" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="rozdělit" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1794-001-p1s8W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3209,7 +3209,7 @@
 <LM>w#w-wsj1794-001-p1s8W18</LM>
 </w.rf>
 <form>musely</form>
-<tag lemma="muset" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag lemma="muset" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj1794-001-p1s8W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3233,7 +3233,7 @@
 <LM>w#w-wsj1794-001-p1s8W21</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1794-001-p1s8W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3295,7 +3295,7 @@
 <LM>w#w-wsj1794-001-p1s9W4</LM>
 </w.rf>
 <form>uvedli</form>
-<tag lemma="uvést" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj1794-001-p1s9W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3393,7 +3393,7 @@
 <tag>
 <AM lemma="trh" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="trh" src="auto">NNIS4-----A----</AM>
-<AM lemma="trhnout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="trhnout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-wsj1794-001-p1s9W10-Ta">
@@ -4648,7 +4648,7 @@
 <LM>w#w-wsj1794-001-p1s12W7</LM>
 </w.rf>
 <form>vlastněna</form>
-<tag lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto" recommended="1">VsQW---XX-API--</tag>
+<tag lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto" recommended="1">VsQW----X-API--</tag>
 </m>
 <m id="m-wsj1794-001-p1s12W8-Ta">
 <src.rf>tagger-a</src.rf>

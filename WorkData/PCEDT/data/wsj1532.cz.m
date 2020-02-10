@@ -252,7 +252,7 @@
 <tag>
 <AM lemma="podnik" src="auto">NNIS1-----A----</AM>
 <AM lemma="podnik" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="podniknout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="podniknout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-wsj1532-001-p1s0W16-Ta">
@@ -1175,7 +1175,7 @@
 <LM>w#w-wsj1532-001-p1s2W40</LM>
 </w.rf>
 <form>vlastněna</form>
-<tag lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto" recommended="1">VsQW---XX-API--</tag>
+<tag lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto" recommended="1">VsQW----X-API--</tag>
 </m>
 <m id="m-wsj1532-001-p1s2W41-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1606,7 +1606,7 @@
 <LM>w#w-wsj1532-001-p1s4W8</LM>
 </w.rf>
 <form>distribuovány</form>
-<tag lemma="distribuovat" src="auto" recommended="1">VsTP---XX-API--</tag>
+<tag lemma="distribuovat" src="auto" recommended="1">VsTP----X-API--</tag>
 </m>
 <m id="m-wsj1532-001-p1s4W9-Ta">
 <src.rf>tagger-a</src.rf>

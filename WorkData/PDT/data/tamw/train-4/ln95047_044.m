@@ -159,7 +159,7 @@
 <LM>w#w-ln95047-044-p2s1Bw14</LM>
 </w.rf>
 <form>představil</form>
-<tag lemma="představit-1_:W_^(si_něco;_něco/někoho_někomu)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="představit-1_^(si_něco;_něco/někoho_někomu)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95047-044-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <LM>w#w-ln95047-044-p2s2w4</LM>
 </w.rf>
 <form>připravil</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="připravit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95047-044-p2s2w5">
 <src.rf>manual</src.rf>
@@ -534,7 +534,7 @@
 <LM>w#w-ln95047-044-p2s3w16</LM>
 </w.rf>
 <form>dotkl</form>
-<tag lemma="dotknout_:W_^(fyz._i_abstr.,_př._drátů,_práv,_citů)" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="dotknout_^(fyz._i_abstr.,_př._drátů,_práv,_citů)" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln95047-044-p2s3w17">
 <src.rf>manual</src.rf>
@@ -1903,7 +1903,7 @@
 <LM>w#w-ln95047-044-p4s2w35</LM>
 </w.rf>
 <form>živil</form>
-<tag lemma="živit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="živit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95047-044-p4s2w36">
 <src.rf>manual</src.rf>
@@ -2350,7 +2350,7 @@
 <LM>w#w-ln95047-044-p4s6w3</LM>
 </w.rf>
 <form>prozradila</form>
-<tag lemma="prozradit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="prozradit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95047-044-p4s6w4">
 <src.rf>manual</src.rf>
@@ -2441,7 +2441,7 @@
 <LM>w#w-ln95047-044-p4s6w14</LM>
 </w.rf>
 <form>pronikla</form>
-<tag lemma="proniknout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="proniknout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln95047-044-p4s6w15">
 <src.rf>manual</src.rf>
@@ -2721,7 +2721,7 @@
 <LM>w#w-ln95047-044-p4s7w6</LM>
 </w.rf>
 <form>obsadila</form>
-<tag lemma="obsadit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="obsadit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95047-044-p4s7w7">
 <src.rf>manual</src.rf>
@@ -2803,7 +2803,7 @@
 <LM>w#w-ln95047-044-p4s8w4</LM>
 </w.rf>
 <form>proměnil</form>
-<tag lemma="proměnit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="proměnit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95047-044-p4s8w5">
 <src.rf>manual</src.rf>

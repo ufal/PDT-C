@@ -1327,7 +1327,7 @@
 <LM>w#w-cmpr9410-035-p6s1w8</LM>
 </w.rf>
 <form>prodána</form>
-<tag lemma="prodat_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="prodat" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-cmpr9410-035-p6s1w9">
 <src.rf>manual</src.rf>
@@ -1393,7 +1393,7 @@
 <LM>w#w-cmpr9410-035-p6s2w4</LM>
 </w.rf>
 <form>vyšplhala</form>
-<tag lemma="vyšplhat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyšplhat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-cmpr9410-035-p6s2w5">
 <src.rf>manual</src.rf>
@@ -1516,7 +1516,7 @@
 <LM>w#w-cmpr9410-035-p6s3w10</LM>
 </w.rf>
 <form>ocitla</form>
-<tag lemma="ocitnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="ocitnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-cmpr9410-035-p6s3w11">
 <src.rf>manual</src.rf>

@@ -1467,7 +1467,7 @@
 <LM>w#w-mf930702-053-p5s2w2</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930702-053-p5s2w3">
 <src.rf>manual</src.rf>
@@ -1933,7 +1933,7 @@
 <LM>w#w-mf930702-053-p7s4w5</LM>
 </w.rf>
 <form>zataženo</form>
-<tag lemma="zatáhnout" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zatáhnout" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf930702-053-p7s4w6">
 <src.rf>manual</src.rf>
@@ -1999,7 +1999,7 @@
 <LM>w#w-mf930702-053-p7s5w4</LM>
 </w.rf>
 <form>zataženo</form>
-<tag lemma="zatáhnout" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zatáhnout" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf930702-053-p7s5w5">
 <src.rf>manual</src.rf>
@@ -2551,7 +2551,7 @@
 <LM>w#w-mf930702-053-p7s13w5</LM>
 </w.rf>
 <form>zataženo</form>
-<tag lemma="zatáhnout" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zatáhnout" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf930702-053-p7s13w6">
 <src.rf>manual</src.rf>

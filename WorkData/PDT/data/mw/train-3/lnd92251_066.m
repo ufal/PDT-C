@@ -385,7 +385,7 @@
 <LM>w#w-lnd92251-066-p3s3w12</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd92251-066-p3s3w13">
 <src.rf>manual</src.rf>
@@ -401,7 +401,7 @@
 <LM>w#w-lnd92251-066-p3s3w14</LM>
 </w.rf>
 <form>překročeny</form>
-<tag lemma="překročit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="překročit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd92251-066-p3s3w15">
 <src.rf>manual</src.rf>
@@ -1023,7 +1023,7 @@
 <LM>w#w-lnd92251-066-p3s7w9</LM>
 </w.rf>
 <form>sníženy</form>
-<tag lemma="snížit" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="snížit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd92251-066-p3s7w10">
 <src.rf>manual</src.rf>

@@ -180,7 +180,7 @@
 <tag>
 <AM lemma="trh" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="trh" src="auto">NNIS4-----A----</AM>
-<AM lemma="trhnout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="trhnout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-wsj1107-001-p1s0W14-Ta">
@@ -527,7 +527,7 @@
 <LM>w#w-wsj1107-001-p1s1W6</LM>
 </w.rf>
 <form>viděli</form>
-<tag lemma="vidět" src="auto" recommended="1">VpMP---XR-AAI--</tag>
+<tag lemma="vidět" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-wsj1107-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1241,7 +1241,7 @@
 <LM>w#w-wsj1107-001-p1s4W7</LM>
 </w.rf>
 <form>mohla</form>
-<tag lemma="moci" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj1107-001-p1s4W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1310,7 +1310,7 @@
 <LM>w#w-wsj1107-001-p1s4W15</LM>
 </w.rf>
 <form>rozhodli</form>
-<tag lemma="rozhodnout" src="auto" recommended="1">VpMP---XR-AAP-1</tag>
+<tag lemma="rozhodnout" src="auto" recommended="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-wsj1107-001-p1s4W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1824,7 +1824,7 @@
 <LM>w#w-wsj1107-001-p1s7W16</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1107-001-p1s7W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3360,7 +3360,7 @@
 <LM>w#w-wsj1107-001-p1s11W5</LM>
 </w.rf>
 <form>odsouzeny</form>
-<tag lemma="odsoudit" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="odsoudit" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj1107-001-p1s11W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4277,7 +4277,7 @@
 <LM>w#w-wsj1107-001-p1s14W64</LM>
 </w.rf>
 <form>umožnily</form>
-<tag lemma="umožnit" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="umožnit" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1107-001-p1s14W65-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4566,7 +4566,7 @@
 <AM lemma="dál" src="auto">NNFS1-----A----</AM>
 <AM lemma="dál" src="auto">NNFS4-----A----</AM>
 <AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="dít-1_^(dít_se)" src="auto">VpYS---XR-AAI-1</AM>
+<AM lemma="dít-1_^(dít_se)" src="auto">VpYS----R-AAI-1</AM>
 </tag>
 </m>
 <m id="m-wsj1107-001-p1s15W12-Ta">
@@ -4622,7 +4622,7 @@
 <LM>w#w-wsj1107-001-p1s15W17</LM>
 </w.rf>
 <form>prodány</form>
-<tag lemma="prodat" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="prodat" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj1107-001-p1s15W18-Ta">
 <src.rf>tagger-a</src.rf>

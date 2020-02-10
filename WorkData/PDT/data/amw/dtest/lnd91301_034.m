@@ -476,7 +476,7 @@
 <LM>w#w-lnd91301-034-p3s3w14</LM>
 </w.rf>
 <form>zeptali</form>
-<tag lemma="zeptat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zeptat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-034-p3s3w15">
 <src.rf>manual</src.rf>
@@ -1643,7 +1643,7 @@
 <LM>w#w-lnd91301-034-p5s6w24</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd91301-034-p5s6w25">
 <src.rf>manual</src.rf>
@@ -1947,7 +1947,7 @@
 <LM>w#w-lnd91301-034-p7s3w1</LM>
 </w.rf>
 <form>Obrátili</form>
-<tag lemma="obrátit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="obrátit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-034-p7s3w2">
 <src.rf>manual</src.rf>
@@ -2011,7 +2011,7 @@
 <LM>w#w-lnd91301-034-p7s3w9</LM>
 </w.rf>
 <form>nabídli</form>
-<tag lemma="nabídnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="nabídnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-lnd91301-034-p7s3w10">
 <src.rf>manual</src.rf>
@@ -2069,7 +2069,7 @@
 <LM>w#w-lnd91301-034-p7s4w2</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd91301-034-p7s4w3">
 <src.rf>manual</src.rf>
@@ -2109,7 +2109,7 @@
 <LM>w#w-lnd91301-034-p7s4w7</LM>
 </w.rf>
 <form>čekali</form>
-<tag lemma="čekat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="čekat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd91301-034-p7s4w8">
 <src.rf>manual</src.rf>
@@ -2141,7 +2141,7 @@
 <LM>w#w-lnd91301-034-p7s4w11</LM>
 </w.rf>
 <form>objednalo</form>
-<tag lemma="objednat_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="objednat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-034-p7s4w12">
 <src.rf>manual</src.rf>
@@ -2227,7 +2227,7 @@
 <LM>w#w-lnd91301-034-p7s5w6</LM>
 </w.rf>
 <form>poskytli</form>
-<tag lemma="poskytnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="poskytnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-lnd91301-034-p7s5w7">
 <src.rf>manual</src.rf>

@@ -73,7 +73,7 @@
 <AM lemma="bod-99_:B_;S" src="orig">NNXXX-----A---8</AM>
 <AM lemma="bod" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="bod" src="auto">NNIS4-----A----</AM>
-<AM lemma="bodnout_:W" src="auto">VpYS---XR-AA--6</AM>
+<AM lemma="bodnout" src="auto">VpYS----R-AAP-6</AM>
 <AM lemma="bod-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -399,7 +399,7 @@
 <LM>w#w-mf920922-095-p1s2w16</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf920922-095-p1s2w17">
 <src.rf>manual</src.rf>
@@ -407,7 +407,7 @@
 <LM>w#w-mf920922-095-p1s2w17</LM>
 </w.rf>
 <form>požádány</form>
-<tag lemma="požádat_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="požádat" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-mf920922-095-p1s2w18">
 <src.rf>manual</src.rf>
@@ -579,7 +579,7 @@
 <LM>w#w-mf920922-095-p1s4w8</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920922-095-p1s4w9">
 <src.rf>manual</src.rf>
@@ -603,7 +603,7 @@
 <LM>w#w-mf920922-095-p1s4w11</LM>
 </w.rf>
 <form>rozšířena</form>
-<tag lemma="rozšířit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="rozšířit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf920922-095-p1s4w12">
 <src.rf>manual</src.rf>

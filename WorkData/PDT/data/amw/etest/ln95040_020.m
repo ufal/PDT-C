@@ -95,7 +95,7 @@
 <LM>w#w-ln95040-020-p2s1Bw5</LM>
 </w.rf>
 <form>porazily</form>
-<tag lemma="porazit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="porazit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95040-020-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -212,7 +212,7 @@
 <LM>w#w-ln95040-020-p2s2w3</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95040-020-p2s2w4">
 <src.rf>manual</src.rf>
@@ -563,7 +563,7 @@
 <LM>w#w-ln95040-020-p2s3w26</LM>
 </w.rf>
 <form>podali</form>
-<tag lemma="podat_:W_^(něco_[někomu]_[někam])" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="podat_^(něco_[někomu]_[někam])" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95040-020-p2s3w27">
 <src.rf>manual</src.rf>
@@ -687,8 +687,8 @@
 </w.rf>
 <form>dovedla</form>
 <tag>
-<AM lemma="dovést" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="dovést_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="dovést" src="orig">VpQW----R-AAP--</AM>
+<AM lemma="dovést" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95040-020-p2s4w9">
@@ -777,7 +777,7 @@
 <LM>w#w-ln95040-020-p2s4w19</LM>
 </w.rf>
 <form>odvrátila</form>
-<tag lemma="odvrátit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="odvrátit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95040-020-p2s4w20">
 <src.rf>manual</src.rf>
@@ -809,7 +809,7 @@
 <LM>w#w-ln95040-020-p2s4w23</LM>
 </w.rf>
 <form>zvítězila</form>
-<tag lemma="zvítězit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zvítězit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95040-020-p2s4w24">
 <src.rf>manual</src.rf>
@@ -843,7 +843,7 @@
 <LM>w#w-ln95040-020-p2s5w3</LM>
 </w.rf>
 <form>posílilo</form>
-<tag lemma="posílit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="posílit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-020-p2s5w4">
 <src.rf>manual</src.rf>

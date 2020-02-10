@@ -149,7 +149,7 @@
 <LM>w#w-ln95048-122-p2s1Bw7</LM>
 </w.rf>
 <form>umožnil</form>
-<tag lemma="umožnit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="umožnit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-122-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -239,7 +239,7 @@
 <LM>w#w-ln95048-122-p2s2w1</LM>
 </w.rf>
 <form>Uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-122-p2s2w2">
 <src.rf>manual</src.rf>
@@ -584,7 +584,7 @@
 <LM>w#w-ln95048-122-p2s5w4</LM>
 </w.rf>
 <form>posunula</form>
-<tag lemma="posunout" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="posunout" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95048-122-p2s5w5">
 <src.rf>manual</src.rf>
@@ -648,7 +648,7 @@
 <LM>w#w-ln95048-122-p2s5w12</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-122-p2s5w13">
 <src.rf>manual</src.rf>

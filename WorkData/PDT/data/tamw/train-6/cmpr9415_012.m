@@ -897,7 +897,7 @@
 <LM>w#w-cmpr9415-012-p10s1w3</LM>
 </w.rf>
 <form>postaven</form>
-<tag lemma="postavit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="postavit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-cmpr9415-012-p10s1w4">
 <src.rf>manual</src.rf>

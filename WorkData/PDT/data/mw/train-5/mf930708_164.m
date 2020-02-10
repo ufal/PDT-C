@@ -1319,7 +1319,7 @@
 <LM>w#w-mf930708-164-p6s2w7</LM>
 </w.rf>
 <form>nejel</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-mf930708-164-p6s2w8">
 <src.rf>manual</src.rf>
@@ -1343,7 +1343,7 @@
 <LM>w#w-mf930708-164-p6s2w10</LM>
 </w.rf>
 <form>vybavil</form>
-<tag lemma="vybavit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vybavit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-164-p6s2w11">
 <src.rf>manual</src.rf>
@@ -1407,7 +1407,7 @@
 <LM>w#w-mf930708-164-p6s2w19</LM>
 </w.rf>
 <form>zkusila</form>
-<tag lemma="zkusit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zkusit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930708-164-p6s2w20">
 <src.rf>manual</src.rf>
@@ -1537,7 +1537,7 @@
 <LM>w#w-mf930708-164-p6s3w1</LM>
 </w.rf>
 <form>Byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930708-164-p6s3w2">
 <src.rf>manual</src.rf>
@@ -1890,7 +1890,7 @@
 <LM>w#w-mf930708-164-p7s1w19</LM>
 </w.rf>
 <form>postěžoval</form>
-<tag lemma="postěžovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="postěžovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-164-p7s1w20">
 <src.rf>manual</src.rf>
@@ -2918,7 +2918,7 @@
 <LM>w#w-mf930708-164-p9s2w8</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930708-164-p9s2w9">
 <src.rf>manual</src.rf>
@@ -2942,7 +2942,7 @@
 <LM>w#w-mf930708-164-p9s2w11</LM>
 </w.rf>
 <form>naplněny</form>
-<tag lemma="naplnit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="naplnit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-mf930708-164-p9s2w12">
 <src.rf>manual</src.rf>
@@ -3017,7 +3017,7 @@
 <LM>w#w-mf930708-164-p9s2w20</LM>
 </w.rf>
 <form>revidovány</form>
-<tag lemma="revidovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="revidovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf930708-164-p9s2w21">
 <src.rf>manual</src.rf>

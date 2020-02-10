@@ -274,7 +274,7 @@
 <LM>w#w-mf930713-006-p2s1Bw15</LM>
 </w.rf>
 <form>upozornil</form>
-<tag lemma="upozornit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="upozornit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-006-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -316,7 +316,7 @@
 <form>JELO</form>
 <tag>
 <AM lemma="JELO_;K" src="orig">NNXXX-----A----</AM>
-<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpNS---XR-AA---</AM>
+<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpNS----R-AAI--</AM>
 <AM lemma="JELO-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -584,7 +584,7 @@
 <LM>w#w-mf930713-006-p2s2Aw18</LM>
 </w.rf>
 <form>dočkala</form>
-<tag lemma="dočkat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="dočkat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930713-006-p2s2Aw19">
 <src.rf>manual</src.rf>
@@ -962,7 +962,7 @@
 <LM>w#w-mf930713-006-p2s3w11</LM>
 </w.rf>
 <form>napsal</form>
-<tag lemma="napsat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="napsat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-006-p2s3w12">
 <src.rf>manual</src.rf>
@@ -978,7 +978,7 @@
 <LM>w#w-mf930713-006-p2s3w13</LM>
 </w.rf>
 <form>obsadil</form>
-<tag lemma="obsadit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="obsadit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-006-p2s3w14">
 <src.rf>manual</src.rf>
@@ -1191,7 +1191,7 @@
 <LM>w#w-mf930713-006-p2s4w17</LM>
 </w.rf>
 <form>nastudoval</form>
-<tag lemma="nastudovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nastudovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-006-p2s4w18">
 <src.rf>manual</src.rf>
@@ -1393,7 +1393,7 @@
 <LM>w#w-mf930713-006-p2s7w1</LM>
 </w.rf>
 <form>Splnil</form>
-<tag lemma="splnit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="splnit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-006-p2s7w2">
 <src.rf>manual</src.rf>
@@ -1467,7 +1467,7 @@
 <LM>w#w-mf930713-006-p2s8w2</LM>
 </w.rf>
 <form>Ocitl</form>
-<tag lemma="ocitnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="ocitnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf930713-006-p2s8w3">
 <src.rf>manual</src.rf>
@@ -1868,7 +1868,7 @@
 <LM>w#w-mf930713-006-p2s11w5</LM>
 </w.rf>
 <form>podařilo</form>
-<tag lemma="podařit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="podařit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-006-p2s11w6">
 <src.rf>manual</src.rf>
@@ -2202,7 +2202,7 @@
 <LM>w#w-mf930713-006-p2s14w11</LM>
 </w.rf>
 <form>vysloužil</form>
-<tag lemma="vysloužit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vysloužit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-006-p2s14w12">
 <src.rf>manual</src.rf>
@@ -2399,7 +2399,7 @@
 <LM>w#w-mf930713-006-p2s17w9</LM>
 </w.rf>
 <form>doslechli</form>
-<tag lemma="doslechnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="doslechnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-mf930713-006-p2s17w10">
 <src.rf>manual</src.rf>
@@ -2805,7 +2805,7 @@
 <LM>w#w-mf930713-006-p2s20w4</LM>
 </w.rf>
 <form>pozval</form>
-<tag lemma="pozvat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="pozvat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-006-p2s20w5">
 <src.rf>manual</src.rf>
@@ -3157,7 +3157,7 @@
 <LM>w#w-mf930713-006-p2s22w13</LM>
 </w.rf>
 <form>nevšiml</form>
-<tag lemma="všimnout_:W" src="orig" selected="1">VpYS---XR-NA--1</tag>
+<tag lemma="všimnout" src="orig" selected="1">VpYS----R-NAP-1</tag>
 </m>
 <m id="m-mf930713-006-p2s22w14">
 <src.rf>manual</src.rf>
@@ -3826,7 +3826,7 @@
 <LM>w#w-mf930713-006-p2s27w11</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930713-006-p2s27w12">
 <src.rf>manual</src.rf>
@@ -4168,7 +4168,7 @@
 <LM>w#w-mf930713-006-p2s30w16</LM>
 </w.rf>
 <form>viděli</form>
-<tag lemma="vidět" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vidět" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930713-006-p2s30w17">
 <src.rf>manual</src.rf>
@@ -4308,7 +4308,7 @@
 <LM>w#w-mf930713-006-p2s32w3</LM>
 </w.rf>
 <form>tušili</form>
-<tag lemma="tušit_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="tušit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930713-006-p2s32w4">
 <src.rf>manual</src.rf>
@@ -4388,7 +4388,7 @@
 <LM>w#w-mf930713-006-p2s32w13</LM>
 </w.rf>
 <form>praštili</form>
-<tag lemma="praštit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="praštit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930713-006-p2s32w14">
 <src.rf>manual</src.rf>
@@ -4526,7 +4526,7 @@
 <LM>w#w-mf930713-006-p2s33w11</LM>
 </w.rf>
 <form>popisovalo</form>
-<tag lemma="popisovat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="popisovat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930713-006-p2s33w12">
 <src.rf>manual</src.rf>
@@ -4612,7 +4612,7 @@
 <LM>w#w-mf930713-006-p2s34w1</LM>
 </w.rf>
 <form>Připadalo</form>
-<tag lemma="připadat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="připadat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930713-006-p2s34w2">
 <src.rf>manual</src.rf>
@@ -4710,7 +4710,7 @@
 <LM>w#w-mf930713-006-p2s35w1</LM>
 </w.rf>
 <form>Zeptal</form>
-<tag lemma="zeptat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zeptat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-006-p2s35w2">
 <src.rf>manual</src.rf>
@@ -4878,7 +4878,7 @@
 <LM>w#w-mf930713-006-p2s35w22</LM>
 </w.rf>
 <form>smál</form>
-<tag lemma="smát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="smát" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930713-006-p2s35w23">
 <src.rf>manual</src.rf>

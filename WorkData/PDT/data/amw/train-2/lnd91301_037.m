@@ -69,7 +69,7 @@
 <LM>w#w-lnd91301-037-p2s1w5</LM>
 </w.rf>
 <form>přišla</form>
-<tag lemma="přijít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="přijít" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-037-p2s1w6">
 <src.rf>manual</src.rf>
@@ -156,7 +156,7 @@
 <LM>w#w-lnd91301-037-p2s2w4</LM>
 </w.rf>
 <form>odcizil</form>
-<tag lemma="odcizit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odcizit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-037-p2s2w5">
 <src.rf>manual</src.rf>
@@ -260,7 +260,7 @@
 <LM>w#w-lnd91301-037-p2s2w17</LM>
 </w.rf>
 <form>znemožnil</form>
-<tag lemma="znemožnit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="znemožnit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-037-p2s2w18">
 <src.rf>manual</src.rf>
@@ -358,7 +358,7 @@
 <LM>w#w-lnd91301-037-p2s3w6</LM>
 </w.rf>
 <form>vnikl</form>
-<tag lemma="vniknout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="vniknout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd91301-037-p2s3w7">
 <src.rf>manual</src.rf>
@@ -467,7 +467,7 @@
 <LM>w#w-lnd91301-037-p2s4w1</LM>
 </w.rf>
 <form>Odcizil</form>
-<tag lemma="odcizit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odcizit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-037-p2s4w2">
 <src.rf>manual</src.rf>
@@ -589,7 +589,7 @@
 <LM>w#w-lnd91301-037-p2s5w2</LM>
 </w.rf>
 <form>způsobil</form>
-<tag lemma="způsobit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="způsobit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-037-p2s5w3">
 <src.rf>manual</src.rf>
@@ -657,8 +657,8 @@
 </w.rf>
 <form>utekli</form>
 <tag>
-<AM lemma="utéci" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="utéci_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+<AM lemma="utéci" src="orig">VpMP----R-AAP--</AM>
+<AM lemma="utéci" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd91301-037-p2s6w5">
@@ -841,7 +841,7 @@
 <LM>w#w-lnd91301-037-p2s7w4</LM>
 </w.rf>
 <form>uprchli</form>
-<tag lemma="uprchnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="uprchnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-lnd91301-037-p2s7w5">
 <src.rf>manual</src.rf>

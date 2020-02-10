@@ -287,7 +287,7 @@
 <LM>w#w-ln94200-174-p2s1w24</LM>
 </w.rf>
 <form>uskutečnil</form>
-<tag lemma="uskutečnit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uskutečnit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-174-p2s1w25">
 <src.rf>manual</src.rf>

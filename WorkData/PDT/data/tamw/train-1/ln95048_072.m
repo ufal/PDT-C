@@ -895,7 +895,7 @@
 <LM>w#w-ln95048-072-p2s8w12</LM>
 </w.rf>
 <form>zvykla</form>
-<tag lemma="zvyknout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="zvyknout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln95048-072-p2s8w13">
 <src.rf>manual</src.rf>

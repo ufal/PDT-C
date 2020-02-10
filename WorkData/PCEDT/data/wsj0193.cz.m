@@ -54,7 +54,7 @@
 <LM>w#w-wsj0193-001-p1s0W5</LM>
 </w.rf>
 <form>předvedla</form>
-<tag lemma="předvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="předvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0193-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -218,7 +218,7 @@
 <LM>w#w-wsj0193-001-p1s0W16</LM>
 </w.rf>
 <form>představila</form>
-<tag lemma="představit-1_^(si_něco;_něco/někoho_někomu)" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="představit-1_^(si_něco;_něco/někoho_někomu)" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0193-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -594,7 +594,7 @@
 <LM>w#w-wsj0193-001-p1s1W4</LM>
 </w.rf>
 <form>založen</form>
-<tag lemma="založit" src="auto" recommended="1">VsYS---XX-APP--</tag>
+<tag lemma="založit" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj0193-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>

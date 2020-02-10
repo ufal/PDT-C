@@ -27,7 +27,7 @@
 <LM>w#w-mf930701-123-p1s1w2</LM>
 </w.rf>
 <form>padal</form>
-<tag lemma="padat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="padat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 </s>
 <s id="m-mf930701-123-p2s1">
@@ -174,7 +174,7 @@
 <LM>w#w-mf930701-123-p2s1w17</LM>
 </w.rf>
 <form>musel</form>
-<tag lemma="muset" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="muset" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930701-123-p2s1w18">
 <src.rf>manual</src.rf>
@@ -238,7 +238,7 @@
 <LM>w#w-mf930701-123-p2s1w25</LM>
 </w.rf>
 <form>figuroval</form>
-<tag lemma="figurovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="figurovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930701-123-p2s1w26">
 <src.rf>manual</src.rf>
@@ -344,7 +344,7 @@
 <LM>w#w-mf930701-123-p2s2w5</LM>
 </w.rf>
 <form>měřil</form>
-<tag lemma="měřit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="měřit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930701-123-p2s2w6">
 <src.rf>manual</src.rf>
@@ -376,7 +376,7 @@
 <LM>w#w-mf930701-123-p2s2w9</LM>
 </w.rf>
 <form>zvítězil</form>
-<tag lemma="zvítězit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zvítězit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-123-p2s2w10">
 <src.rf>manual</src.rf>
@@ -504,7 +504,7 @@
 <LM>w#w-mf930701-123-p2s2w25</LM>
 </w.rf>
 <form>skončil</form>
-<tag lemma="skončit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="skončit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-123-p2s2w26">
 <src.rf>manual</src.rf>
@@ -834,7 +834,7 @@
 <LM>w#w-mf930701-123-p2s7w3</LM>
 </w.rf>
 <form>vzdal</form>
-<tag lemma="vzdát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vzdát" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-123-p2s7w4">
 <src.rf>manual</src.rf>

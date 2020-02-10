@@ -51,7 +51,7 @@
 <LM>w#w-ln94208-48-p1s1Aw5</LM>
 </w.rf>
 <form>projevily</form>
-<tag lemma="projevit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="projevit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94208-48-p1s1Aw6">
 <src.rf>manual</src.rf>

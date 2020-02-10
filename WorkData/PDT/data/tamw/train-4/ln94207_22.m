@@ -126,7 +126,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>skončila</form>
-<tag lemma="skončit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="skončit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94207-22-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -248,7 +248,7 @@
 <LM>w#w-ln94207-22-p2s2w2</LM>
 </w.rf>
 <form>označili</form>
-<tag lemma="označit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="označit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94207-22-p2s2w3">
 <src.rf>manual</src.rf>
@@ -422,8 +422,8 @@
 </w.rf>
 <form>uvedl</form>
 <tag>
-<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="uvést" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="uvést" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94207-22-p2s3w5">
@@ -484,7 +484,7 @@
 <LM>w#w-ln94207-22-p2s3w11</LM>
 </w.rf>
 <form>nezměnila</form>
-<tag lemma="změnit_:W" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="změnit" src="orig" selected="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-ln94207-22-p2s3w12">
 <src.rf>manual</src.rf>
@@ -556,7 +556,7 @@
 <LM>w#w-ln94207-22-p2s3w20</LM>
 </w.rf>
 <form>opakoval</form>
-<tag lemma="opakovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="opakovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94207-22-p2s3w21">
 <src.rf>manual</src.rf>

@@ -1052,7 +1052,7 @@
 <LM>w#w-vesm9211-035-p3s2w16</LM>
 </w.rf>
 <form>koncentrovány</form>
-<tag lemma="koncentrovat_:T_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="koncentrovat" src="orig" selected="1">VsTP----X-APB--</tag>
 </m>
 <m id="m-vesm9211-035-p3s2w17">
 <src.rf>manual</src.rf>
@@ -1184,7 +1184,7 @@
 <LM>w#w-vesm9211-035-p3s4w3</LM>
 </w.rf>
 <form>předpokládalo</form>
-<tag lemma="předpokládat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="předpokládat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-vesm9211-035-p3s4w4">
 <src.rf>manual</src.rf>

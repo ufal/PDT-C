@@ -682,7 +682,7 @@
 <LM>w#w-mf930709-043-p2s5w3</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930709-043-p2s5w4">
 <src.rf>manual</src.rf>
@@ -1124,7 +1124,7 @@
 <LM>w#w-mf930709-043-p2s7w5</LM>
 </w.rf>
 <form>začala</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930709-043-p2s7w6">
 <src.rf>manual</src.rf>
@@ -1754,7 +1754,7 @@
 <form>vydala</form>
 <tag>
 <AM lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="vydat_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="vydat" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930709-043-p3s1w5">
@@ -1983,7 +1983,7 @@
 <LM>w#w-mf930709-043-p3s3w7</LM>
 </w.rf>
 <form>dán</form>
-<tag lemma="dát" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="dát" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf930709-043-p3s3w8">
 <src.rf>manual</src.rf>
@@ -2231,7 +2231,7 @@
 <LM>w#w-mf930709-043-p3s5w6</LM>
 </w.rf>
 <form>skončil</form>
-<tag lemma="skončit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="skončit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-043-p3s5w7">
 <src.rf>manual</src.rf>

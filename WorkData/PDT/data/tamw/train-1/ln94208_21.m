@@ -218,7 +218,7 @@
 <LM>w#w-ln94208-21-p2s1Bw18</LM>
 </w.rf>
 <form>vyhlásily</form>
-<tag lemma="vyhlásit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vyhlásit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94208-21-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -244,7 +244,7 @@
 <LM>w#w-ln94208-21-p2s2w1</LM>
 </w.rf>
 <form>Uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94208-21-p2s2w2">
 <src.rf>manual</src.rf>
@@ -342,7 +342,7 @@
 <LM>w#w-ln94208-21-p2s3w4</LM>
 </w.rf>
 <form>vybudovány</form>
-<tag lemma="vybudovat_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="vybudovat" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln94208-21-p2s3w5">
 <src.rf>manual</src.rf>

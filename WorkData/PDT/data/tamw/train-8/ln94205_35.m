@@ -702,7 +702,7 @@
 <LM>w#w-ln94205-35-p3s1w9</LM>
 </w.rf>
 <form>rozvinula</form>
-<tag lemma="rozvinout" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="rozvinout" src="auto" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94205-35-p3s1w10">
 <src.rf>manual</src.rf>
@@ -1267,7 +1267,7 @@
 <LM>w#w-ln94205-35-p3s3w5</LM>
 </w.rf>
 <form>nabídly</form>
-<tag lemma="nabídnout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="nabídnout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-ln94205-35-p3s3w6">
 <src.rf>manual</src.rf>
@@ -1518,7 +1518,7 @@
 <LM>w#w-ln94205-35-p3s4w20</LM>
 </w.rf>
 <form>naučil</form>
-<tag lemma="naučit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="naučit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94205-35-p3s4w21">
 <src.rf>manual</src.rf>
@@ -1611,7 +1611,7 @@
 <LM>w#w-ln94205-35-p3s5w6</LM>
 </w.rf>
 <form>získaly</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94205-35-p3s5w7">
 <src.rf>manual</src.rf>
@@ -2951,7 +2951,7 @@
 <LM>w#w-ln94205-35-p3s12w15</LM>
 </w.rf>
 <form>zadávány</form>
-<tag lemma="zadávat_:T_^(*4at)" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="zadávat_^(*4at)" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln94205-35-p3s12w16">
 <src.rf>manual</src.rf>
@@ -3169,7 +3169,7 @@
 <LM>w#w-ln94205-35-p4s1w8</LM>
 </w.rf>
 <form>podléhali</form>
-<tag lemma="podléhat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="podléhat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94205-35-p4s1w9">
 <src.rf>manual</src.rf>

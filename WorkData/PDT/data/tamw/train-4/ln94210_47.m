@@ -802,7 +802,7 @@
 <LM>w#w-ln94210-47-p4s2w1</LM>
 </w.rf>
 <form>Byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94210-47-p4s2w2">
 <src.rf>manual</src.rf>
@@ -819,8 +819,8 @@
 </w.rf>
 <form>zakázán</form>
 <tag>
-<AM lemma="zakázat" src="orig">VsYS---XX-AP---</AM>
-<AM lemma="zakázat_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+<AM lemma="zakázat" src="orig">VsYS----X-APP--</AM>
+<AM lemma="zakázat" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-ln94210-47-p4s2w4">

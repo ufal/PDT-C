@@ -96,7 +96,7 @@
 <LM>w#w-wsj0104-001-p1s0W5</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0104-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -256,7 +256,7 @@
 <LM>w#w-wsj0104-001-p1s0W18</LM>
 </w.rf>
 <form>identifikována</form>
-<tag lemma="identifikovat" src="auto" recommended="1">VsQW---XX-APB--</tag>
+<tag lemma="identifikovat" src="auto" recommended="1">VsQW----X-APB--</tag>
 </m>
 <m id="m-wsj0104-001-p1s0W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -293,7 +293,7 @@
 <LM>w#w-wsj0104-001-p1s1W1</LM>
 </w.rf>
 <form>Měla</form>
-<tag lemma="mít" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="mít" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0104-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>

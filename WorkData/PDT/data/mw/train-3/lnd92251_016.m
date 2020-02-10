@@ -93,7 +93,7 @@
 <LM>w#w-lnd92251-016-p2s1w5</LM>
 </w.rf>
 <form>zahájili</form>
-<tag lemma="zahájit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zahájit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-016-p2s1w6">
 <src.rf>manual</src.rf>

@@ -713,7 +713,7 @@
 <LM>w#w-mf930709-037-p2s5w5</LM>
 </w.rf>
 <form>úročeny</form>
-<tag lemma="úročit_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="úročit" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf930709-037-p2s5w6">
 <src.rf>manual</src.rf>

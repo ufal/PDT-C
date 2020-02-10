@@ -155,7 +155,7 @@
 <LM>w#w-wsj1808-001-p1s0W10</LM>
 </w.rf>
 <form>klesl</form>
-<tag lemma="klesnout" src="auto" recommended="1">VpYS---XR-AAP-1</tag>
+<tag lemma="klesnout" src="auto" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-wsj1808-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -229,7 +229,7 @@
 <tag>
 <AM lemma="pokles" src="auto">NNIS1-----A----</AM>
 <AM lemma="pokles" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="poklesnout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="poklesnout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-wsj1808-001-p1s0W18-Ta">
@@ -510,7 +510,7 @@
 <LM>w#w-wsj1808-001-p1s1W4</LM>
 </w.rf>
 <form>oznámil</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1808-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -580,7 +580,7 @@
 <LM>w#w-wsj1808-001-p1s1W9</LM>
 </w.rf>
 <form>klesl</form>
-<tag lemma="klesnout" src="auto" recommended="1">VpYS---XR-AAP-1</tag>
+<tag lemma="klesnout" src="auto" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-wsj1808-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -839,7 +839,7 @@
 <LM>w#w-wsj1808-001-p1s2W2</LM>
 </w.rf>
 <form>stoupl</form>
-<tag lemma="stoupnout" src="auto" recommended="1">VpYS---XR-AAP-1</tag>
+<tag lemma="stoupnout" src="auto" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-wsj1808-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1076,7 +1076,7 @@
 <LM>w#w-wsj1808-001-p1s3W9</LM>
 </w.rf>
 <form>stouply</form>
-<tag lemma="stoupnout" src="auto" recommended="1">VpTP---XR-AAP-1</tag>
+<tag lemma="stoupnout" src="auto" recommended="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-wsj1808-001-p1s3W10-Ta">
 <src.rf>tagger-a</src.rf>

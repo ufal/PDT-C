@@ -35,7 +35,7 @@
 <LM>w#w-ln94211-63-p1s1w3</LM>
 </w.rf>
 <form>obžalován</form>
-<tag lemma="obžalovat_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="obžalovat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94211-63-p1s1w4">
 <src.rf>manual</src.rf>
@@ -341,7 +341,7 @@
 <LM>w#w-ln94211-63-p2s1Bw32</LM>
 </w.rf>
 <form>podalo</form>
-<tag lemma="podat_:W_^(něco_[někomu]_[někam])" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="podat_^(něco_[někomu]_[někam])" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94211-63-p2s1Bw33">
 <src.rf>manual</src.rf>
@@ -509,7 +509,7 @@
 <LM>w#w-ln94211-63-p3s1w10</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94211-63-p3s1w11">
 <src.rf>manual</src.rf>
@@ -736,8 +736,8 @@
 </w.rf>
 <form>přijely</form>
 <tag>
-<AM lemma="přijet" src="auto">VpTP---XR-AA---</AM>
-<AM lemma="přijet_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+<AM lemma="přijet" src="auto">VpTP----R-AAP--</AM>
+<AM lemma="přijet" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94211-63-p3s2w14">
@@ -823,7 +823,7 @@
 <LM>w#w-ln94211-63-p4s1w2</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94211-63-p4s1w3">
 <src.rf>manual</src.rf>
@@ -991,7 +991,7 @@
 <LM>w#w-ln94211-63-p5s1w2</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94211-63-p5s1w3">
 <src.rf>manual</src.rf>
@@ -999,7 +999,7 @@
 <LM>w#w-ln94211-63-p5s1w3</LM>
 </w.rf>
 <form>zadržen</form>
-<tag lemma="zadržet" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zadržet" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94211-63-p5s1w4">
 <src.rf>manual</src.rf>
@@ -1081,7 +1081,7 @@
 <LM>w#w-ln94211-63-p5s2w3</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94211-63-p5s2w4">
 <src.rf>manual</src.rf>

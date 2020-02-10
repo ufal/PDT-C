@@ -61,7 +61,7 @@
 <LM>w#w-wsj0033-001-p1s0W4</LM>
 </w.rf>
 <form>oznámilo</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj0033-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -219,7 +219,7 @@
 <LM>w#w-wsj0033-001-p1s0W17</LM>
 </w.rf>
 <form>klesly</form>
-<tag lemma="klesnout" src="auto" recommended="1">VpTP---XR-AAP-1</tag>
+<tag lemma="klesnout" src="auto" recommended="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-wsj0033-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -545,7 +545,7 @@
 <tag>
 <AM lemma="pokles" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="pokles" src="auto">NNIS4-----A----</AM>
-<AM lemma="poklesnout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="poklesnout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-wsj0033-001-p1s2W4-Ta">
@@ -793,7 +793,7 @@
 <LM>w#w-wsj0033-001-p1s2W21</LM>
 </w.rf>
 <form>překonala</form>
-<tag lemma="překonat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="překonat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0033-001-p1s2W22-Ta">
 <src.rf>tagger-a</src.rf>

@@ -160,7 +160,7 @@
 <LM>w#w-mf930708-070-p2s1w13</LM>
 </w.rf>
 <form>zahájilo</form>
-<tag lemma="zahájit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zahájit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-070-p2s1w14">
 <src.rf>manual</src.rf>
@@ -234,7 +234,7 @@
 <LM>w#w-mf930708-070-p2s2w2</LM>
 </w.rf>
 <form>vznikla</form>
-<tag lemma="vzniknout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="vzniknout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-mf930708-070-p2s2w3">
 <src.rf>manual</src.rf>

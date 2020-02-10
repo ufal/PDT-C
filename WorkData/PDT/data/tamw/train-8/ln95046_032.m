@@ -158,7 +158,7 @@
 <LM>w#w-ln95046-032-p1s1w18</LM>
 </w.rf>
 <form>poradil</form>
-<tag lemma="poradit_:W" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="poradit" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95046-032-p1s1w19">
 <src.rf>manual</src.rf>

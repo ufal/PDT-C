@@ -210,7 +210,7 @@
 <LM>w#w-mf920924-145-p3s1w16</LM>
 </w.rf>
 <form>zahájil</form>
-<tag lemma="zahájit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zahájit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920924-145-p3s1w17">
 <src.rf>manual</src.rf>
@@ -532,7 +532,7 @@
 <LM>w#w-mf920924-145-p3s2w4</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf920924-145-p3s2w5">
 <src.rf>manual</src.rf>
@@ -540,7 +540,7 @@
 <LM>w#w-mf920924-145-p3s2w5</LM>
 </w.rf>
 <form>vyvolány</form>
-<tag lemma="vyvolat_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="vyvolat" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-mf920924-145-p3s2w6">
 <src.rf>manual</src.rf>
@@ -696,8 +696,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920924-145-p3s2w25">

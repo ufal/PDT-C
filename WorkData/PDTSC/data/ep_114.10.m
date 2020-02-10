@@ -83,7 +83,7 @@
 <LM>w#w-d1t2790-7</LM>
 </w.rf>
 <form>povídalo</form>
-<tag lemma="povídat_:T" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="povídat" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m114-d-m-d1e2783-x3-punct-punct">
 <w.rf>

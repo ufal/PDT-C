@@ -146,7 +146,7 @@
 <LM>w#w-ln94209-102-p2s1Bw4</LM>
 </w.rf>
 <form>provedla</form>
-<tag lemma="provést" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="provést" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94209-102-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -186,7 +186,7 @@
 <LM>w#w-ln94209-102-p2s1Bw9</LM>
 </w.rf>
 <form>zkoumala</form>
-<tag lemma="zkoumat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zkoumat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94209-102-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -762,7 +762,7 @@
 <LM>w#w-ln94209-102-p3s3w12</LM>
 </w.rf>
 <form>vyskytoval</form>
-<tag lemma="vyskytovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyskytovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94209-102-p3s3w13">
 <src.rf>manual</src.rf>
@@ -831,7 +831,7 @@
 <LM>w#w-ln94209-102-p3s4w3</LM>
 </w.rf>
 <form>přesvědčena</form>
-<tag lemma="přesvědčit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="přesvědčit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94209-102-p3s4w4">
 <src.rf>manual</src.rf>

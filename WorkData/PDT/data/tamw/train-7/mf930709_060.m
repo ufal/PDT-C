@@ -36,8 +36,8 @@
 </w.rf>
 <form>začaly</form>
 <tag>
-<AM lemma="začít-1_^(začnout)" src="auto">VpTP---XR-AA---</AM>
-<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpTP---XR-AA---</AM>
+<AM lemma="začít-1_^(začnout)" src="auto">VpTP----R-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930709-060-p2s1w4">
@@ -593,7 +593,7 @@
 <LM>w#w-mf930709-060-p3s3w12</LM>
 </w.rf>
 <form>stanoven</form>
-<tag lemma="stanovit_:W_^(určit)" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="stanovit_^(určit)" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf930709-060-p3s3w13">
 <src.rf>manual</src.rf>
@@ -845,7 +845,7 @@
 <LM>w#w-mf930709-060-p4s2w7</LM>
 </w.rf>
 <form>zvedla</form>
-<tag lemma="zvednout_:W" src="auto" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="zvednout" src="auto" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-mf930709-060-p4s2w8">
 <src.rf>manual</src.rf>
@@ -1351,7 +1351,7 @@
 <LM>w#w-mf930709-060-p5s1w18</LM>
 </w.rf>
 <form>nezavedla</form>
-<tag lemma="zavést" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="zavést" src="orig" selected="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-mf930709-060-p5s1w19">
 <src.rf>manual</src.rf>

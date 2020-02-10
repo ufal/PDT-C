@@ -83,7 +83,7 @@
 <LM>w#w-ln94201-82-p1s1w9</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94201-82-p1s1w10">
 <src.rf>manual</src.rf>

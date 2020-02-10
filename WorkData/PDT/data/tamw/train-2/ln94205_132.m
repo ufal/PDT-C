@@ -231,7 +231,7 @@
 <LM>w#w-ln94205-132-p2s2w6</LM>
 </w.rf>
 <form>ocenili</form>
-<tag lemma="ocenit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="ocenit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94205-132-p2s2w7">
 <src.rf>manual</src.rf>
@@ -287,7 +287,7 @@
 <LM>w#w-ln94205-132-p2s2w13</LM>
 </w.rf>
 <form>přislíbili</form>
-<tag lemma="přislíbit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přislíbit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94205-132-p2s2w14">
 <src.rf>manual</src.rf>
@@ -484,7 +484,7 @@
 <LM>w#w-ln94205-132-p2s3w15</LM>
 </w.rf>
 <form>oral</form>
-<tag lemma="orat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="orat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94205-132-p2s3w16">
 <src.rf>manual</src.rf>
@@ -500,7 +500,7 @@
 <LM>w#w-ln94205-132-p2s3w17</LM>
 </w.rf>
 <form>oral</form>
-<tag lemma="orat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="orat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94205-132-p2s3w18">
 <src.rf>manual</src.rf>
@@ -596,7 +596,7 @@
 <LM>w#w-ln94205-132-p2s3w29</LM>
 </w.rf>
 <form>bloudili</form>
-<tag lemma="bloudit_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="bloudit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94205-132-p2s3w30">
 <src.rf>manual</src.rf>
@@ -930,7 +930,7 @@
 <form>naháňali</form>
 <tag>
 <AM lemma="naháňať_,t" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="naháňat_,n" src="auto" recommended="1">VpMP---XR-AA---</AM>
+<AM lemma="naháňat_,n" src="auto" recommended="1">VpMP----R-AAI--</AM>
 <AM lemma="naháňali-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1198,7 +1198,7 @@
 <LM>w#w-ln94205-132-p2s6w16</LM>
 </w.rf>
 <form>netěšili</form>
-<tag lemma="těšit_:T" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="těšit" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-ln94205-132-p2s6w17">
 <src.rf>manual</src.rf>
@@ -1248,7 +1248,7 @@
 <LM>w#w-ln94205-132-p2s7w5</LM>
 </w.rf>
 <form>věnován</form>
-<tag lemma="věnovat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="věnovat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-ln94205-132-p2s7w6">
 <src.rf>manual</src.rf>

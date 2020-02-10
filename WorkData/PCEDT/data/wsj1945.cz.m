@@ -103,7 +103,7 @@
 <LM>w#w-wsj1945-001-p1s0W9</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1945-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -141,7 +141,7 @@
 <LM>w#w-wsj1945-001-p1s0W13</LM>
 </w.rf>
 <form>doporučili</form>
-<tag lemma="doporučit" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="doporučit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj1945-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>

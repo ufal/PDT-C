@@ -104,7 +104,7 @@
 <LM>w#w-ln94210-8-p2s1w2</LM>
 </w.rf>
 <form>oslovily</form>
-<tag lemma="oslovit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="oslovit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94210-8-p2s1w3">
 <src.rf>manual</src.rf>
@@ -144,7 +144,7 @@
 <LM>w#w-ln94210-8-p2s1w7</LM>
 </w.rf>
 <form>požádaly</form>
-<tag lemma="požádat_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="požádat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94210-8-p2s1w8">
 <src.rf>manual</src.rf>
@@ -5223,7 +5223,7 @@
 <LM>w#w-ln94210-8-p11s4w10</LM>
 </w.rf>
 <form>prodána</form>
-<tag lemma="prodat_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="prodat" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94210-8-p11s4w11">
 <src.rf>manual</src.rf>

@@ -538,7 +538,7 @@
 <LM>w#w-lnd91301-033-p3s1w55</LM>
 </w.rf>
 <form>zpřístupnili</form>
-<tag lemma="zpřístupnit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zpřístupnit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-033-p3s1w56">
 <src.rf>manual</src.rf>

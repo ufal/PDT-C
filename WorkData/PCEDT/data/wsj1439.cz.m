@@ -76,7 +76,7 @@
 <LM>w#w-wsj1439-001-p1s0W6</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1439-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -170,7 +170,7 @@
 <LM>w#w-wsj1439-001-p1s0W15</LM>
 </w.rf>
 <form>přistoupila</form>
-<tag lemma="přistoupit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="přistoupit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1439-001-p1s0W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -511,7 +511,7 @@
 <LM>w#w-wsj1439-001-p1s1W7</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1439-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -917,7 +917,7 @@
 <LM>w#w-wsj1439-001-p1s2W8</LM>
 </w.rf>
 <form>sdělily</form>
-<tag lemma="sdělit" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="sdělit" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1439-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1349,7 +1349,7 @@
 <LM>w#w-wsj1439-001-p1s4W3</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1439-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1645,7 +1645,7 @@
 <LM>w#w-wsj1439-001-p1s5W3</LM>
 </w.rf>
 <form>sdělila</form>
-<tag lemma="sdělit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="sdělit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1439-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2329,7 +2329,7 @@
 <LM>w#w-wsj1439-001-p1s6W15</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="mít" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj1439-001-p1s6W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2650,7 +2650,7 @@
 <LM>w#w-wsj1439-001-p1s8W3</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1439-001-p1s8W4-Ta">
 <src.rf>tagger-a</src.rf>

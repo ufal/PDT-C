@@ -55,7 +55,7 @@
 <LM>w#w-ln95047-108-p1s1w5</LM>
 </w.rf>
 <form>přišla</form>
-<tag lemma="přijít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="přijít" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95047-108-p1s1w6">
 <src.rf>manual</src.rf>

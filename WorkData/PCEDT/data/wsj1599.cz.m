@@ -94,7 +94,7 @@
 <LM>w#w-wsj1599-001-p1s0W8</LM>
 </w.rf>
 <form>představila</form>
-<tag lemma="představit-1_^(si_něco;_něco/někoho_někomu)" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="představit-1_^(si_něco;_něco/někoho_někomu)" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1599-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -485,7 +485,7 @@
 <LM>w#w-wsj1599-001-p1s1W6</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1599-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -618,7 +618,7 @@
 <LM>w#w-wsj1599-001-p1s1W15</LM>
 </w.rf>
 <form>zvýšil</form>
-<tag lemma="zvýšit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="zvýšit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1599-001-p1s1W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -716,7 +716,7 @@
 <LM>w#w-wsj1599-001-p1s2W5</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1599-001-p1s2W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1140,7 +1140,7 @@
 <LM>w#w-wsj1599-001-p1s3W5</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1599-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1549,7 +1549,7 @@
 <LM>w#w-wsj1599-001-p1s4W5</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1599-001-p1s4W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1906,7 +1906,7 @@
 <LM>w#w-wsj1599-001-p1s4W29</LM>
 </w.rf>
 <form>zvýšil</form>
-<tag lemma="zvýšit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="zvýšit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1599-001-p1s4W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1993,7 +1993,7 @@
 <LM>w#w-wsj1599-001-p1s5W5</LM>
 </w.rf>
 <form>zvýšil</form>
-<tag lemma="zvýšit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="zvýšit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1599-001-p1s5W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2270,7 +2270,7 @@
 <LM>w#w-wsj1599-001-p1s6W7</LM>
 </w.rf>
 <form>zvýšily</form>
-<tag lemma="zvýšit" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="zvýšit" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1599-001-p1s6W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2724,7 +2724,7 @@
 <LM>w#w-wsj1599-001-p1s7W26</LM>
 </w.rf>
 <form>snížil</form>
-<tag lemma="snížit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="snížit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1599-001-p1s7W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2953,7 +2953,7 @@
 <LM>w#w-wsj1599-001-p1s8W11</LM>
 </w.rf>
 <form>povzbudilo</form>
-<tag lemma="povzbudit" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="povzbudit" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj1599-001-p1s8W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3080,7 +3080,7 @@
 <LM>w#w-wsj1599-001-p1s8W23</LM>
 </w.rf>
 <form>zvýšila</form>
-<tag lemma="zvýšit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="zvýšit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1599-001-p1s8W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3372,7 +3372,7 @@
 <tag>
 <AM lemma="trh" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="trh" src="auto">NNIS4-----A----</AM>
-<AM lemma="trhnout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="trhnout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-wsj1599-001-p1s9W10-Ta">
@@ -3389,7 +3389,7 @@
 <LM>w#w-wsj1599-001-p1s9W11</LM>
 </w.rf>
 <form>vzrostly</form>
-<tag lemma="vzrůst-1" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="vzrůst-1" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1599-001-p1s9W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3462,7 +3462,7 @@
 <LM>w#w-wsj1599-001-p1s10W3</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1599-001-p1s10W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3489,7 +3489,7 @@
 <LM>w#w-wsj1599-001-p1s10W6</LM>
 </w.rf>
 <form>vyrovnán</form>
-<tag lemma="vyrovnat" src="auto" recommended="1">VsYS---XX-APP--</tag>
+<tag lemma="vyrovnat" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj1599-001-p1s10W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3821,7 +3821,7 @@
 <LM>w#w-wsj1599-001-p1s11W16</LM>
 </w.rf>
 <form>odpracovali</form>
-<tag lemma="odpracovat" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="odpracovat" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj1599-001-p1s11W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3922,7 +3922,7 @@
 <LM>w#w-wsj1599-001-p1s11W24</LM>
 </w.rf>
 <form>přidáno</form>
-<tag lemma="přidat" src="auto" recommended="1">VsNS---XX-APP--</tag>
+<tag lemma="přidat" src="auto" recommended="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-wsj1599-001-p1s11W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4527,7 +4527,7 @@
 <LM>w#w-wsj1599-001-p1s13W6</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1599-001-p1s13W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4806,7 +4806,7 @@
 <LM>w#w-wsj1599-001-p1s14W7</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1599-001-p1s14W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4913,7 +4913,7 @@
 <LM>w#w-wsj1599-001-p1s14W17</LM>
 </w.rf>
 <form>uvítali</form>
-<tag lemma="uvítat" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="uvítat" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj1599-001-p1s14W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5175,7 +5175,7 @@
 <LM>w#w-wsj1599-001-p1s15W21</LM>
 </w.rf>
 <form>zavázala</form>
-<tag lemma="zavázat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="zavázat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1599-001-p1s15W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5276,7 +5276,7 @@
 <LM>w#w-wsj1599-001-p1s15W31</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1599-001-p1s15W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5433,7 +5433,7 @@
 <LM>w#w-wsj1599-001-p1s16W4</LM>
 </w.rf>
 <form>vyjádřili</form>
-<tag lemma="vyjádřit" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="vyjádřit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj1599-001-p1s16W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5856,7 +5856,7 @@
 <LM>w#w-wsj1599-001-p1s17W17</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1599-001-p1s17W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6049,7 +6049,7 @@
 <LM>w#w-wsj1599-001-p1s18W5</LM>
 </w.rf>
 <form>doufal</form>
-<tag lemma="doufat" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="doufat" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1599-001-p1s18W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6400,7 +6400,7 @@
 <LM>w#w-wsj1599-001-p1s18W33</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1599-001-p1s18W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6570,7 +6570,7 @@
 <LM>w#w-wsj1599-001-p1s19W5</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1599-001-p1s19W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6781,7 +6781,7 @@
 <LM>w#w-wsj1599-001-p1s20W3</LM>
 </w.rf>
 <form>sdělila</form>
-<tag lemma="sdělit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="sdělit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1599-001-p1s20W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7030,7 +7030,7 @@
 <LM>w#w-wsj1599-001-p1s21W5</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1599-001-p1s21W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7174,7 +7174,7 @@
 <LM>w#w-wsj1599-001-p1s21W15</LM>
 </w.rf>
 <form>vyrovnáno</form>
-<tag lemma="vyrovnat" src="auto" recommended="1">VsNS---XX-APP--</tag>
+<tag lemma="vyrovnat" src="auto" recommended="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-wsj1599-001-p1s21W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7584,7 +7584,7 @@
 <LM>w#w-wsj1599-001-p1s22W5</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1599-001-p1s22W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7686,7 +7686,7 @@
 <LM>w#w-wsj1599-001-p1s22W13</LM>
 </w.rf>
 <form>vzrostl</form>
-<tag lemma="vzrůst-1" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="vzrůst-1" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1599-001-p1s22W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7962,7 +7962,7 @@
 <LM>w#w-wsj1599-001-p1s23W2</LM>
 </w.rf>
 <form>vzrostly</form>
-<tag lemma="vzrůst-1" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="vzrůst-1" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1599-001-p1s23W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8159,7 +8159,7 @@
 <LM>w#w-wsj1599-001-p1s24W6</LM>
 </w.rf>
 <form>uzavřely</form>
-<tag lemma="uzavřít" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="uzavřít" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1599-001-p1s24W7-Ta">
 <src.rf>tagger-a</src.rf>

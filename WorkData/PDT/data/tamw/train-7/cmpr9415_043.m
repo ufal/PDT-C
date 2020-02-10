@@ -231,7 +231,7 @@
 <LM>w#w-cmpr9415-043-p4s1w23</LM>
 </w.rf>
 <form>zabezpečeny</form>
-<tag lemma="zabezpečit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="zabezpečit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-cmpr9415-043-p4s1w24">
 <src.rf>manual</src.rf>
@@ -881,7 +881,7 @@
 <LM>w#w-cmpr9415-043-p6s4w12</LM>
 </w.rf>
 <form>nešly</form>
-<tag lemma="jít" src="orig" selected="1">VpTP---XR-NA---</tag>
+<tag lemma="jít" src="orig" selected="1">VpTP----R-NAI--</tag>
 </m>
 <m id="m-cmpr9415-043-p6s4w13">
 <src.rf>manual</src.rf>
@@ -2287,7 +2287,7 @@
 <LM>w#w-cmpr9415-043-p8s5w10</LM>
 </w.rf>
 <form>vybaveny</form>
-<tag lemma="vybavit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="vybavit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-cmpr9415-043-p8s5w11">
 <src.rf>manual</src.rf>
@@ -2621,7 +2621,7 @@
 <LM>w#w-cmpr9415-043-p9s2w6</LM>
 </w.rf>
 <form>splněny</form>
-<tag lemma="splnit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="splnit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-cmpr9415-043-p9s2w7">
 <src.rf>manual</src.rf>
@@ -2962,7 +2962,7 @@
 <LM>w#w-cmpr9415-043-p10s1w9</LM>
 </w.rf>
 <form>nejednalo</form>
-<tag lemma="jednat_:T" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="jednat" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-cmpr9415-043-p10s1w10">
 <src.rf>manual</src.rf>
@@ -3483,7 +3483,7 @@
 <LM>w#w-cmpr9415-043-p12s2w9</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-cmpr9415-043-p12s2w10">
 <src.rf>manual</src.rf>
@@ -3491,7 +3491,7 @@
 <LM>w#w-cmpr9415-043-p12s2w10</LM>
 </w.rf>
 <form>vyvinuty</form>
-<tag lemma="vyvinout" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="vyvinout" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-cmpr9415-043-p12s2w11">
 <src.rf>manual</src.rf>
@@ -3651,7 +3651,7 @@
 <LM>w#w-cmpr9415-043-p12s2w28</LM>
 </w.rf>
 <form>poskytla</form>
-<tag lemma="poskytnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="poskytnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-cmpr9415-043-p12s2w29">
 <src.rf>manual</src.rf>

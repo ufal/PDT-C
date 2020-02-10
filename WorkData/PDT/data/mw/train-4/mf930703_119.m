@@ -5015,7 +5015,7 @@
 <LM>w#w-mf930703-119-p31s1w5</LM>
 </w.rf>
 <form>psala</form>
-<tag lemma="psát" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="psát" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930703-119-p31s1w6">
 <src.rf>manual</src.rf>

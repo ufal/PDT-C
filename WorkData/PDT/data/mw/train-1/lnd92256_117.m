@@ -123,7 +123,7 @@
 <LM>w#w-lnd92256-117-p3s1w5</LM>
 </w.rf>
 <form>přinesl</form>
-<tag lemma="přinést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přinést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-117-p3s1w6">
 <src.rf>manual</src.rf>
@@ -405,7 +405,7 @@
 <LM>w#w-lnd92256-117-p3s2w15</LM>
 </w.rf>
 <form>setkal</form>
-<tag lemma="setkat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="setkat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-117-p3s2w16">
 <src.rf>manual</src.rf>
@@ -607,7 +607,7 @@
 <LM>w#w-lnd92256-117-p3s3w12</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92256-117-p3s3w13">
 <src.rf>manual</src.rf>
@@ -623,7 +623,7 @@
 <LM>w#w-lnd92256-117-p3s3w14</LM>
 </w.rf>
 <form>pokládáno</form>
-<tag lemma="pokládat_:T" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="pokládat" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-lnd92256-117-p3s3w15">
 <src.rf>manual</src.rf>
@@ -663,7 +663,7 @@
 <LM>w#w-lnd92256-117-p3s3w19</LM>
 </w.rf>
 <form>vžilo</form>
-<tag lemma="vžít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vžít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-117-p3s3w20">
 <src.rf>manual</src.rf>
@@ -687,7 +687,7 @@
 <LM>w#w-lnd92256-117-p3s3w22</LM>
 </w.rf>
 <form>vtisklo</form>
-<tag lemma="vtisknout_:W" src="orig" selected="1">VpNS---XR-AA--1</tag>
+<tag lemma="vtisknout" src="orig" selected="1">VpNS----R-AAP-1</tag>
 </m>
 <m id="m-lnd92256-117-p3s3w23">
 <src.rf>manual</src.rf>

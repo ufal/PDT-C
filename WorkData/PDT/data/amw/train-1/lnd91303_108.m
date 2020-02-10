@@ -117,7 +117,7 @@
 <LM>w#w-lnd91303-108-p1s2w1</LM>
 </w.rf>
 <form>Vyvolaly</form>
-<tag lemma="vyvolat_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vyvolat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-108-p1s2w2">
 <src.rf>manual</src.rf>

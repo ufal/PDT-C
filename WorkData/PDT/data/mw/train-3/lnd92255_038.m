@@ -170,7 +170,7 @@
 <LM>w#w-lnd92255-038-p2s1w16</LM>
 </w.rf>
 <form>uspořádala</form>
-<tag lemma="uspořádat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="uspořádat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-038-p2s1w17">
 <src.rf>manual</src.rf>
@@ -203,8 +203,8 @@
 </w.rf>
 <form>uzavřeli</form>
 <tag>
-<AM lemma="uzavřít" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="uzavřít_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+<AM lemma="uzavřít" src="orig">VpMP----R-AAP--</AM>
+<AM lemma="uzavřít" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92255-038-p2s1w21">

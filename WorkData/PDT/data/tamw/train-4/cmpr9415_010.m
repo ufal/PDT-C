@@ -665,7 +665,7 @@
 <LM>w#w-cmpr9415-010-p9s2w2</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9415-010-p9s2w3">
 <src.rf>manual</src.rf>
@@ -697,7 +697,7 @@
 <LM>w#w-cmpr9415-010-p9s2w6</LM>
 </w.rf>
 <form>rekonstruován</form>
-<tag lemma="rekonstruovat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="rekonstruovat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-cmpr9415-010-p9s2w7">
 <src.rf>manual</src.rf>

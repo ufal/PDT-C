@@ -217,7 +217,7 @@
 <LM>w#w-mf920922-078-p4s1w6</LM>
 </w.rf>
 <form>požádal</form>
-<tag lemma="požádat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="požádat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-078-p4s1w7">
 <src.rf>manual</src.rf>
@@ -358,7 +358,7 @@
 <LM>w#w-mf920922-078-p5s1w9</LM>
 </w.rf>
 <form>unikla</form>
-<tag lemma="uniknout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="uniknout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-mf920922-078-p5s1w10">
 <src.rf>manual</src.rf>
@@ -600,7 +600,7 @@
 <LM>w#w-mf920922-078-p5s2w12</LM>
 </w.rf>
 <form>nedošlo</form>
-<tag lemma="dojít" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="dojít" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-mf920922-078-p5s2w13">
 <src.rf>manual</src.rf>

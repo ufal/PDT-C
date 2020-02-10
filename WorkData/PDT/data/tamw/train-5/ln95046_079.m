@@ -35,7 +35,7 @@
 <LM>w#w-ln95046-079-p1s1w3</LM>
 </w.rf>
 <form>uhynulo</form>
-<tag lemma="uhynout" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="uhynout" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95046-079-p1s1w4">
 <src.rf>manual</src.rf>
@@ -201,7 +201,7 @@
 <LM>w#w-ln95046-079-p2s1Bw12</LM>
 </w.rf>
 <form>uhynulo</form>
-<tag lemma="uhynout" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="uhynout" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95046-079-p2s1Bw13">
 <src.rf>manual</src.rf>

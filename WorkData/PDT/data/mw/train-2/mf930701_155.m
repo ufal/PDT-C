@@ -67,7 +67,7 @@
 <LM>w#w-mf930701-155-p1s1w7</LM>
 </w.rf>
 <form>ohrožena</form>
-<tag lemma="ohrozit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="ohrozit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 </s>
 <s id="m-mf930701-155-p2s1">
@@ -173,7 +173,7 @@
 <LM>w#w-mf930701-155-p2s1w13</LM>
 </w.rf>
 <form>vyslovilo</form>
-<tag lemma="vyslovit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vyslovit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-155-p2s1w14">
 <src.rf>manual</src.rf>
@@ -391,7 +391,7 @@
 <LM>w#w-mf930701-155-p2s2w5</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-155-p2s2w6">
 <src.rf>manual</src.rf>
@@ -457,7 +457,7 @@
 <LM>w#w-mf930701-155-p3s1w2</LM>
 </w.rf>
 <form>vyjádřil</form>
-<tag lemma="vyjádřit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyjádřit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-155-p3s1w3">
 <src.rf>manual</src.rf>
@@ -659,7 +659,7 @@
 <LM>w#w-mf930701-155-p4s1w4</LM>
 </w.rf>
 <form>vyzvali</form>
-<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930701-155-p4s1w5">
 <src.rf>manual</src.rf>
@@ -707,7 +707,7 @@
 <LM>w#w-mf930701-155-p4s1w11</LM>
 </w.rf>
 <form>nepodnikalo</form>
-<tag lemma="podnikat_:T" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="podnikat" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-mf930701-155-p4s1w12">
 <src.rf>manual</src.rf>
@@ -765,7 +765,7 @@
 <LM>w#w-mf930701-155-p4s2w2</LM>
 </w.rf>
 <form>vyzvali</form>
-<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930701-155-p4s2w3">
 <src.rf>manual</src.rf>
@@ -805,7 +805,7 @@
 <LM>w#w-mf930701-155-p4s2w8</LM>
 </w.rf>
 <form>vztyčili</form>
-<tag lemma="vztyčit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vztyčit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930701-155-p4s2w9">
 <src.rf>manual</src.rf>

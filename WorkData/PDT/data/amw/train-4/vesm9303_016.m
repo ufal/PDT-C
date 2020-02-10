@@ -51,7 +51,7 @@
 <LM>w#w-vesm9303-016-p1s1w5</LM>
 </w.rf>
 <form>nebyl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-vesm9303-016-p1s1w6">
 <src.rf>manual</src.rf>
@@ -91,7 +91,7 @@
 <LM>w#w-vesm9303-016-p1s1w10</LM>
 </w.rf>
 <form>rozšířen</form>
-<tag lemma="rozšířit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="rozšířit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-vesm9303-016-p1s1w11">
 <src.rf>manual</src.rf>
@@ -149,7 +149,7 @@
 <LM>w#w-vesm9303-016-p1s2w5</LM>
 </w.rf>
 <form>kladly</form>
-<tag lemma="klást" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="klást" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-vesm9303-016-p1s2w6">
 <src.rf>manual</src.rf>
@@ -221,7 +221,7 @@
 <LM>w#w-vesm9303-016-p1s2w14</LM>
 </w.rf>
 <form>vzešla</form>
-<tag lemma="vzejít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vzejít" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-vesm9303-016-p1s2w15">
 <src.rf>manual</src.rf>
@@ -317,7 +317,7 @@
 <LM>w#w-vesm9303-016-p1s2w26</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-vesm9303-016-p1s2w27">
 <src.rf>manual</src.rf>
@@ -493,7 +493,7 @@
 <LM>w#w-vesm9303-016-p1s2w48</LM>
 </w.rf>
 <form>prožilo</form>
-<tag lemma="prožít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="prožít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-vesm9303-016-p1s2w49">
 <src.rf>manual</src.rf>
@@ -549,7 +549,7 @@
 <LM>w#w-vesm9303-016-p1s2w55</LM>
 </w.rf>
 <form>hraničily</form>
-<tag lemma="hraničit_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="hraničit" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-vesm9303-016-p1s2w56">
 <src.rf>manual</src.rf>
@@ -669,7 +669,7 @@
 <LM>w#w-vesm9303-016-p1s2w70</LM>
 </w.rf>
 <form>upadalo</form>
-<tag lemma="upadat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="upadat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-vesm9303-016-p1s2w71">
 <src.rf>manual</src.rf>

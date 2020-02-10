@@ -241,7 +241,7 @@
 <LM>w#w-mf920923-133-p2s2w17</LM>
 </w.rf>
 <form>skončila</form>
-<tag lemma="skončit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="skončit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920923-133-p2s2w18">
 <src.rf>manual</src.rf>
@@ -372,7 +372,7 @@
 <LM>w#w-mf920923-133-p2s3w5</LM>
 </w.rf>
 <form>dohodli</form>
-<tag lemma="dohodnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="dohodnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-mf920923-133-p2s3w6">
 <src.rf>manual</src.rf>
@@ -462,7 +462,7 @@
 <LM>w#w-mf920923-133-p2s4w1</LM>
 </w.rf>
 <form>Vyslovili</form>
-<tag lemma="vyslovit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyslovit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920923-133-p2s4w2">
 <src.rf>manual</src.rf>
@@ -624,7 +624,7 @@
 <LM>w#w-mf920923-133-p2s5w6</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920923-133-p2s5w7">
 <src.rf>manual</src.rf>
@@ -722,7 +722,7 @@
 <LM>w#w-mf920923-133-p3s1w3</LM>
 </w.rf>
 <form>vyhlásila</form>
-<tag lemma="vyhlásit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyhlásit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920923-133-p3s1w4">
 <src.rf>manual</src.rf>
@@ -778,7 +778,7 @@
 <LM>w#w-mf920923-133-p3s1w10</LM>
 </w.rf>
 <form>odmítla</form>
-<tag lemma="odmítnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="odmítnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-mf920923-133-p3s1w11">
 <src.rf>manual</src.rf>
@@ -836,7 +836,7 @@
 <LM>w#w-mf920923-133-p3s2w3</LM>
 </w.rf>
 <form>reagovaly</form>
-<tag lemma="reagovat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="reagovat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf920923-133-p3s2w4">
 <src.rf>manual</src.rf>
@@ -900,7 +900,7 @@
 <LM>w#w-mf920923-133-p3s2w11</LM>
 </w.rf>
 <form>zakázaly</form>
-<tag lemma="zakázat" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zakázat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf920923-133-p3s2w12">
 <src.rf>manual</src.rf>

@@ -35,7 +35,7 @@
 <LM>w#w-ln94211-61-p1s1w3</LM>
 </w.rf>
 <form>vybavili</form>
-<tag lemma="vybavit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vybavit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94211-61-p1s1w4">
 <src.rf>manual</src.rf>
@@ -175,7 +175,7 @@
 <LM>w#w-ln94211-61-p2s1Bw10</LM>
 </w.rf>
 <form>odcizili</form>
-<tag lemma="odcizit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="odcizit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94211-61-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -337,7 +337,7 @@
 <LM>w#w-ln94211-61-p2s2w3</LM>
 </w.rf>
 <form>vnikli</form>
-<tag lemma="vniknout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="vniknout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-ln94211-61-p2s2w4">
 <src.rf>manual</src.rf>
@@ -433,7 +433,7 @@
 <LM>w#w-ln94211-61-p2s2w15</LM>
 </w.rf>
 <form>popíjeli</form>
-<tag lemma="popíjet_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="popíjet" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94211-61-p2s2w16">
 <src.rf>manual</src.rf>
@@ -499,7 +499,7 @@
 <LM>w#w-ln94211-61-p2s3w5</LM>
 </w.rf>
 <form>uložili</form>
-<tag lemma="uložit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="uložit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94211-61-p2s3w6">
 <src.rf>manual</src.rf>
@@ -645,7 +645,7 @@
 <LM>w#w-ln94211-61-p2s4w5</LM>
 </w.rf>
 <form>stíháni</form>
-<tag lemma="stíhat_:T" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="stíhat" src="orig" selected="1">VsMP----X-API--</tag>
 </m>
 <m id="m-ln94211-61-p2s4w6">
 <src.rf>manual</src.rf>
@@ -725,7 +725,7 @@
 <LM>w#w-ln94211-61-p2s4w15</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94211-61-p2s4w16">
 <src.rf>manual</src.rf>
@@ -733,7 +733,7 @@
 <LM>w#w-ln94211-61-p2s4w16</LM>
 </w.rf>
 <form>vyčíslena</form>
-<tag lemma="vyčíslit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="vyčíslit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94211-61-p2s4w17">
 <src.rf>manual</src.rf>

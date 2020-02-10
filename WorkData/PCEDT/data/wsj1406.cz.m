@@ -38,7 +38,7 @@
 <LM>w#w-wsj1406-001-p1s0W3</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1406-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -136,7 +136,7 @@
 <LM>w#w-wsj1406-001-p1s0W9</LM>
 </w.rf>
 <form>klesly</form>
-<tag lemma="klesnout" src="auto" recommended="1">VpTP---XR-AAP-1</tag>
+<tag lemma="klesnout" src="auto" recommended="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-wsj1406-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -411,7 +411,7 @@
 <LM>w#w-wsj1406-001-p1s0W28</LM>
 </w.rf>
 <form>stouply</form>
-<tag lemma="stoupnout" src="auto" recommended="1">VpTP---XR-AAP-1</tag>
+<tag lemma="stoupnout" src="auto" recommended="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-wsj1406-001-p1s0W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -497,7 +497,7 @@
 <LM>w#w-wsj1406-001-p1s1W4</LM>
 </w.rf>
 <form>zůstal</form>
-<tag lemma="zůstat" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="zůstat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1406-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>

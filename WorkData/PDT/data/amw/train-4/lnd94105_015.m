@@ -86,7 +86,7 @@
 <LM>w#w-lnd94105-015-p1s4w9</LM>
 </w.rf>
 <form>bodovala</form>
-<tag lemma="bodovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="bodovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd94105-015-p1s4w10">
 <src.rf>manual</src.rf>

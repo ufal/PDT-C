@@ -296,8 +296,8 @@
 </w.rf>
 <form>Řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd94101-008-p1s4w2">
@@ -399,7 +399,7 @@
 <LM>w#w-lnd94101-008-p1s5w5</LM>
 </w.rf>
 <form>vznikl</form>
-<tag lemma="vzniknout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="vzniknout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd94101-008-p1s5w6">
 <src.rf>manual</src.rf>
@@ -447,7 +447,7 @@
 <LM>w#w-lnd94101-008-p1s5w11</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94101-008-p1s5w12">
 <src.rf>manual</src.rf>
@@ -634,7 +634,7 @@
 <LM>w#w-lnd94101-008-p1s5w34</LM>
 </w.rf>
 <form>poznamenal</form>
-<tag lemma="poznamenat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="poznamenat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-008-p1s5w35">
 <src.rf>manual</src.rf>
@@ -918,7 +918,7 @@
 <LM>w#w-lnd94101-008-p1s7w16</LM>
 </w.rf>
 <form>prosadil</form>
-<tag lemma="prosadit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prosadit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-008-p1s7w17">
 <src.rf>manual</src.rf>
@@ -1038,7 +1038,7 @@
 <LM>w#w-lnd94101-008-p1s7w31</LM>
 </w.rf>
 <form>realizoval</form>
-<tag lemma="realizovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="realizovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-lnd94101-008-p1s7w32">
 <src.rf>manual</src.rf>
@@ -1148,7 +1148,7 @@
 <LM>w#w-lnd94101-008-p1s8w12</LM>
 </w.rf>
 <form>nevedlo</form>
-<tag lemma="vést" src="auto" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="vést" src="auto" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-lnd94101-008-p1s8w13">
 <src.rf>manual</src.rf>
@@ -1236,7 +1236,7 @@
 <LM>w#w-lnd94101-008-p1s8w23</LM>
 </w.rf>
 <form>podtrhl</form>
-<tag lemma="podtrhnout_:W" src="auto" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="podtrhnout" src="auto" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd94101-008-p1s8w24">
 <src.rf>manual</src.rf>

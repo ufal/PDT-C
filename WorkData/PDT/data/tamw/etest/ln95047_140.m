@@ -271,7 +271,7 @@
 <LM>w#w-ln95047-140-p2s1Bw11</LM>
 </w.rf>
 <form>započaly</form>
-<tag lemma="započít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="započít" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95047-140-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <LM>w#w-ln95047-140-p2s1Bw22</LM>
 </w.rf>
 <form>přinesly</form>
-<tag lemma="přinést" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="přinést" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95047-140-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -497,7 +497,7 @@
 <LM>w#w-ln95047-140-p2s2w10</LM>
 </w.rf>
 <form>vynutil</form>
-<tag lemma="vynutit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vynutit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95047-140-p2s2w11">
 <src.rf>manual</src.rf>
@@ -643,7 +643,7 @@
 <LM>w#w-ln95047-140-p2s3w9</LM>
 </w.rf>
 <form>dotkly</form>
-<tag lemma="dotknout_:W_^(fyz._i_abstr.,_př._drátů,_práv,_citů)" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="dotknout_^(fyz._i_abstr.,_př._drátů,_práv,_citů)" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-ln95047-140-p2s3w10">
 <src.rf>manual</src.rf>
@@ -1118,7 +1118,7 @@
 <LM>w#w-ln95047-140-p4s2w5</LM>
 </w.rf>
 <form>došlo</form>
-<tag lemma="dojít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="dojít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95047-140-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1953,7 +1953,7 @@
 <LM>w#w-ln95047-140-p7s2w7</LM>
 </w.rf>
 <form>zaměřen</form>
-<tag lemma="zaměřit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zaměřit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95047-140-p7s2w8">
 <src.rf>manual</src.rf>

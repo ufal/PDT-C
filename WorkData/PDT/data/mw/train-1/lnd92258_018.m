@@ -35,7 +35,7 @@
 <LM>w#w-lnd92258-018-p1s1w3</LM>
 </w.rf>
 <form>otevřeli</form>
-<tag lemma="otevřít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="otevřít" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-018-p1s1w4">
 <src.rf>manual</src.rf>

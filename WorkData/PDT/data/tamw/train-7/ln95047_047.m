@@ -433,7 +433,7 @@
 <LM>w#w-ln95047-047-p4s1w5</LM>
 </w.rf>
 <form>připravilo</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="připravit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95047-047-p4s1w6">
 <src.rf>manual</src.rf>

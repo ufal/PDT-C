@@ -233,7 +233,7 @@
 <LM>w#w-lnd92258-053-p3s2w12</LM>
 </w.rf>
 <form>setkali</form>
-<tag lemma="setkat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="setkat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-053-p3s2w13">
 <src.rf>manual</src.rf>
@@ -433,7 +433,7 @@
 <LM>w#w-lnd92258-053-p3s3w3</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd92258-053-p3s3w4">
 <src.rf>manual</src.rf>
@@ -604,7 +604,7 @@
 <LM>w#w-lnd92258-053-p3s3w24</LM>
 </w.rf>
 <form>ratifikovalo</form>
-<tag lemma="ratifikovat_:T_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="ratifikovat" src="orig" selected="1">VpNS----R-AAB--</tag>
 </m>
 <m id="m-lnd92258-053-p3s3w25">
 <src.rf>manual</src.rf>
@@ -876,7 +876,7 @@
 <LM>w#w-lnd92258-053-p3s5w11</LM>
 </w.rf>
 <form>neobsahovala</form>
-<tag lemma="obsahovat_:T" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="obsahovat" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-lnd92258-053-p3s5w12">
 <src.rf>manual</src.rf>
@@ -924,7 +924,7 @@
 <LM>w#w-lnd92258-053-p3s5w17</LM>
 </w.rf>
 <form>nebyla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-lnd92258-053-p3s5w18">
 <src.rf>manual</src.rf>
@@ -1076,7 +1076,7 @@
 <LM>w#w-lnd92258-053-p3s6w8</LM>
 </w.rf>
 <form>vyslovil</form>
-<tag lemma="vyslovit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyslovit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-053-p3s6w9">
 <src.rf>manual</src.rf>

@@ -137,7 +137,7 @@
 <LM>w#w-mf920925-047-p2s2Bw5</LM>
 </w.rf>
 <form>vyhráli</form>
-<tag lemma="vyhrát" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyhrát" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920925-047-p2s2Bw6">
 <src.rf>manual</src.rf>
@@ -313,7 +313,7 @@
 <LM>w#w-mf920925-047-p2s3w2</LM>
 </w.rf>
 <form>překvapili</form>
-<tag lemma="překvapit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="překvapit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920925-047-p2s3w3">
 <src.rf>manual</src.rf>

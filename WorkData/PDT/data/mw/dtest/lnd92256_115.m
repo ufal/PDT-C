@@ -461,7 +461,7 @@
 <LM>w#w-lnd92256-115-p3s4w4</LM>
 </w.rf>
 <form>pokusila</form>
-<tag lemma="pokusit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="pokusit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-115-p3s4w5">
 <src.rf>manual</src.rf>
@@ -743,7 +743,7 @@
 <LM>w#w-lnd92256-115-p3s5w21</LM>
 </w.rf>
 <form>zkazila</form>
-<tag lemma="zkazit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zkazit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-115-p3s5w22">
 <src.rf>manual</src.rf>
@@ -777,7 +777,7 @@
 <LM>w#w-lnd92256-115-p3s6w3</LM>
 </w.rf>
 <form>sdělila</form>
-<tag lemma="sdělit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="sdělit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-115-p3s6w4">
 <src.rf>manual</src.rf>
@@ -881,8 +881,8 @@
 </w.rf>
 <form>začaly</form>
 <tag>
-<AM lemma="začít-1_^(začnout)" src="auto">VpTP---XR-AA---</AM>
-<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpTP---XR-AA---</AM>
+<AM lemma="začít-1_^(začnout)" src="auto">VpTP----R-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92256-115-p3s6w15">
@@ -993,7 +993,7 @@
 <LM>w#w-lnd92256-115-p3s7w4</LM>
 </w.rf>
 <form>rozšířily</form>
-<tag lemma="rozšířit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="rozšířit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-115-p3s7w5">
 <src.rf>manual</src.rf>
@@ -1124,7 +1124,7 @@
 <LM>w#w-lnd92256-115-p3s7w20</LM>
 </w.rf>
 <form>nezmenšily</form>
-<tag lemma="zmenšit_:W" src="orig" selected="1">VpTP---XR-NA---</tag>
+<tag lemma="zmenšit" src="orig" selected="1">VpTP----R-NAP--</tag>
 </m>
 <m id="m-lnd92256-115-p3s7w21">
 <src.rf>manual</src.rf>
@@ -1230,7 +1230,7 @@
 <LM>w#w-lnd92256-115-p3s8w12</LM>
 </w.rf>
 <form>dodávána</form>
-<tag lemma="dodávat_:T_^(*4at)" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="dodávat_^(*4at)" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-lnd92256-115-p3s8w13">
 <src.rf>manual</src.rf>

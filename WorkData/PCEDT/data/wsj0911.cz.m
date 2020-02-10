@@ -649,7 +649,7 @@
 <LM>w#w-wsj0911-001-p1s1W16</LM>
 </w.rf>
 <form>obsahovaly</form>
-<tag lemma="obsahovat" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag lemma="obsahovat" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj0911-001-p1s1W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1017,7 +1017,7 @@
 <LM>w#w-wsj0911-001-p1s2W9</LM>
 </w.rf>
 <form>zobrazováno</form>
-<tag lemma="zobrazovat" src="auto" recommended="1">VsNS---XX-API--</tag>
+<tag lemma="zobrazovat" src="auto" recommended="1">VsNS----X-API--</tag>
 </m>
 <m id="m-wsj0911-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1508,7 +1508,7 @@
 <LM>w#w-wsj0911-001-p1s3W31</LM>
 </w.rf>
 <form>založeno</form>
-<tag lemma="založit" src="auto" recommended="1">VsNS---XX-APP--</tag>
+<tag lemma="založit" src="auto" recommended="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-wsj0911-001-p1s3W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1717,7 +1717,7 @@
 <LM>w#w-wsj0911-001-p1s3W51</LM>
 </w.rf>
 <form>urazili</form>
-<tag lemma="urazit" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="urazit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj0911-001-p1s3W52-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1763,8 +1763,8 @@
 </w.rf>
 <form>stáli</form>
 <tag>
-<AM lemma="stát-3_^(stojím_stojíš)" src="auto" recommended="1">VpMP---XR-AAI--</AM>
-<AM lemma="stát-5_^(sníh)" src="auto">VpMP---XR-AAI--</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="auto" recommended="1">VpMP----R-AAI--</AM>
+<AM lemma="stát-5_^(sníh)" src="auto">VpMP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-wsj0911-001-p1s3W56-Ta">
@@ -2023,7 +2023,7 @@
 <LM>w#w-wsj0911-001-p1s4W12</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0911-001-p1s4W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2299,7 +2299,7 @@
 <LM>w#w-wsj0911-001-p1s5W15</LM>
 </w.rf>
 <form>zakládala</form>
-<tag lemma="zakládat" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="zakládat" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0911-001-p1s5W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2544,7 +2544,7 @@
 <LM>w#w-wsj0911-001-p1s5W33</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj0911-001-p1s5W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2552,7 +2552,7 @@
 <LM>w#w-wsj0911-001-p1s5W34</LM>
 </w.rf>
 <form>vražděny</form>
-<tag lemma="vraždit" src="auto" recommended="1">VsTP---XX-API--</tag>
+<tag lemma="vraždit" src="auto" recommended="1">VsTP----X-API--</tag>
 </m>
 <m id="m-wsj0911-001-p1s5W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2633,7 +2633,7 @@
 <LM>w#w-wsj0911-001-p1s6W7</LM>
 </w.rf>
 <form>udělal</form>
-<tag lemma="udělat" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="udělat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0911-001-p1s6W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2762,7 +2762,7 @@
 <LM>w#w-wsj0911-001-p1s6W19</LM>
 </w.rf>
 <form>vybral</form>
-<tag lemma="vybrat" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="vybrat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0911-001-p1s6W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3029,7 +3029,7 @@
 <LM>w#w-wsj0911-001-p1s7W10</LM>
 </w.rf>
 <form>rozmačkáni</form>
-<tag lemma="rozmačkat" src="auto" recommended="1">VsMP---XX-APP--</tag>
+<tag lemma="rozmačkat" src="auto" recommended="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-wsj0911-001-p1s7W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3167,7 +3167,7 @@
 <LM>w#w-wsj0911-001-p1s7W19</LM>
 </w.rf>
 <form>potkávaly</form>
-<tag lemma="potkávat_^(*4at)" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag lemma="potkávat_^(*4at)" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj0911-001-p1s7W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3959,7 +3959,7 @@
 <LM>w#w-wsj0911-001-p1s9W25</LM>
 </w.rf>
 <form>postavil</form>
-<tag lemma="postavit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="postavit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0911-001-p1s9W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3981,7 +3981,7 @@
 <LM>w#w-wsj0911-001-p1s9W27</LM>
 </w.rf>
 <form>podíval</form>
-<tag lemma="podívat" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="podívat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0911-001-p1s9W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4409,7 +4409,7 @@
 <LM>w#w-wsj0911-001-p1s11W8</LM>
 </w.rf>
 <form>nebyli</form>
-<tag lemma="být" src="auto" recommended="1">VpMP---XR-NAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-wsj0911-001-p1s11W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5156,7 +5156,7 @@
 <LM>w#w-wsj0911-001-p1s13W19</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj0911-001-p1s13W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5217,7 +5217,7 @@
 <LM>w#w-wsj0911-001-p1s13W25</LM>
 </w.rf>
 <form>neměl</form>
-<tag lemma="mít" src="auto" recommended="1">VpYS---XR-NAI--</tag>
+<tag lemma="mít" src="auto" recommended="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-wsj0911-001-p1s13W26-Ta">
 <src.rf>tagger-a</src.rf>

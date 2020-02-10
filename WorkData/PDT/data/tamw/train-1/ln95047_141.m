@@ -134,7 +134,7 @@
 <LM>w#w-ln95047-141-p1s1w15</LM>
 </w.rf>
 <form>rozhodli</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-ln95047-141-p1s1w16">
 <src.rf>manual</src.rf>

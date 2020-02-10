@@ -256,7 +256,7 @@
 <LM>w#w-lnd94104-082-p1s1Bw18</LM>
 </w.rf>
 <form>volila</form>
-<tag lemma="volit_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="volit" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd94104-082-p1s1Bw19">
 <src.rf>manual</src.rf>
@@ -476,7 +476,7 @@
 <LM>w#w-lnd94104-082-p1s3w7</LM>
 </w.rf>
 <form>zařadili</form>
-<tag lemma="zařadit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zařadit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-082-p1s3w8">
 <src.rf>manual</src.rf>
@@ -516,7 +516,7 @@
 <LM>w#w-lnd94104-082-p1s3w12</LM>
 </w.rf>
 <form>prezentovali</form>
-<tag lemma="prezentovat_:T_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="prezentovat" src="orig" selected="1">VpMP----R-AAB--</tag>
 </m>
 <m id="m-lnd94104-082-p1s3w13">
 <src.rf>manual</src.rf>

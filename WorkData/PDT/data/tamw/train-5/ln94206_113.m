@@ -61,7 +61,7 @@
 <LM>w#w-ln94206-113-p2s1w5</LM>
 </w.rf>
 <form>nominoval</form>
-<tag lemma="nominovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nominovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln94206-113-p2s1w6">
 <src.rf>manual</src.rf>
@@ -277,7 +277,7 @@
 <LM>w#w-ln94206-113-p3s2w1</LM>
 </w.rf>
 <form>Sdělil</form>
-<tag lemma="sdělit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sdělit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94206-113-p3s2w2">
 <src.rf>manual</src.rf>
@@ -403,7 +403,7 @@
 <LM>w#w-ln94206-113-p4s1w7</LM>
 </w.rf>
 <form>zajistil</form>
-<tag lemma="zajistit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zajistit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94206-113-p4s1w8">
 <src.rf>manual</src.rf>
@@ -512,7 +512,7 @@
 <LM>w#w-ln94206-113-p5s1w5</LM>
 </w.rf>
 <form>podepsal</form>
-<tag lemma="podepsat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="podepsat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94206-113-p5s1w6">
 <src.rf>manual</src.rf>

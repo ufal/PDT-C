@@ -187,7 +187,7 @@
 <LM>w#w-lnd92256-006-p1s1w22</LM>
 </w.rf>
 <form>přehrazen</form>
-<tag lemma="přehradit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="přehradit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd92256-006-p1s1w23">
 <src.rf>manual</src.rf>

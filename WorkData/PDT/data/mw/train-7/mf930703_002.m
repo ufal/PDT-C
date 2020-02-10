@@ -187,7 +187,7 @@
 <LM>w#w-mf930703-002-p2s1w16</LM>
 </w.rf>
 <form>regulován</form>
-<tag lemma="regulovat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="regulovat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-mf930703-002-p2s1w17">
 <src.rf>manual</src.rf>
@@ -277,7 +277,7 @@
 <LM>w#w-mf930703-002-p2s2w8</LM>
 </w.rf>
 <form>prohlásil</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-002-p2s2w9">
 <src.rf>manual</src.rf>
@@ -611,7 +611,7 @@
 <LM>w#w-mf930703-002-p2s5w6</LM>
 </w.rf>
 <form>přidali</form>
-<tag lemma="přidat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přidat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930703-002-p2s5w7">
 <src.rf>manual</src.rf>
@@ -675,7 +675,7 @@
 <LM>w#w-mf930703-002-p2s5w14</LM>
 </w.rf>
 <form>napadly</form>
-<tag lemma="napadnout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="napadnout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-mf930703-002-p2s5w15">
 <src.rf>manual</src.rf>
@@ -781,7 +781,7 @@
 <LM>w#w-mf930703-002-p2s6w8</LM>
 </w.rf>
 <form>rostly</form>
-<tag lemma="růst-2" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="růst-2" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930703-002-p2s6w9">
 <src.rf>manual</src.rf>
@@ -829,7 +829,7 @@
 <LM>w#w-mf930703-002-p2s6w14</LM>
 </w.rf>
 <form>rozhodla</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-mf930703-002-p2s6w15">
 <src.rf>manual</src.rf>
@@ -927,7 +927,7 @@
 <LM>w#w-mf930703-002-p2s7w8</LM>
 </w.rf>
 <form>odmítl</form>
-<tag lemma="odmítnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="odmítnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf930703-002-p2s7w9">
 <src.rf>manual</src.rf>
@@ -1233,7 +1233,7 @@
 <LM>w#w-mf930703-002-p2s8w27</LM>
 </w.rf>
 <form>prohlásil</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-002-p2s8w28">
 <src.rf>manual</src.rf>
@@ -1365,7 +1365,7 @@
 <LM>w#w-mf930703-002-p3s2w4</LM>
 </w.rf>
 <form>neuspěli</form>
-<tag lemma="uspět" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="uspět" src="orig" selected="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m-mf930703-002-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1454,8 +1454,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930703-002-p3s2w16">

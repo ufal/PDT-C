@@ -613,7 +613,7 @@
 <LM>w#w-ln95049-002-p3s2w11</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95049-002-p3s2w12">
 <src.rf>manual</src.rf>
@@ -640,7 +640,7 @@
 <LM>w#w-ln95049-002-p3s2w14</LM>
 </w.rf>
 <form>placeny</form>
-<tag lemma="platit_:T" src="auto" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="platit" src="auto" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln95049-002-p3s2w15">
 <src.rf>manual</src.rf>
@@ -1135,7 +1135,7 @@
 <LM>w#w-ln95049-002-p4s3w4</LM>
 </w.rf>
 <form>nabízeny</form>
-<tag lemma="nabízet_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="nabízet" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln95049-002-p4s3w5">
 <src.rf>manual</src.rf>

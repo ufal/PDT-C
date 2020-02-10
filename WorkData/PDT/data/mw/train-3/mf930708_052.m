@@ -101,7 +101,7 @@
 <LM>w#w-mf930708-052-p2s1w6</LM>
 </w.rf>
 <form>zahájil</form>
-<tag lemma="zahájit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zahájit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-052-p2s1w7">
 <src.rf>manual</src.rf>
@@ -255,7 +255,7 @@
 <LM>w#w-mf930708-052-p2s2w12</LM>
 </w.rf>
 <form>zeptali</form>
-<tag lemma="zeptat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zeptat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930708-052-p2s2w13">
 <src.rf>manual</src.rf>
@@ -287,7 +287,7 @@
 <LM>w#w-mf930708-052-p2s2w16</LM>
 </w.rf>
 <form>vybral</form>
-<tag lemma="vybrat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vybrat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-052-p2s2w17">
 <src.rf>manual</src.rf>
@@ -377,7 +377,7 @@
 <LM>w#w-mf930708-052-p3s1w7</LM>
 </w.rf>
 <form>účinkoval</form>
-<tag lemma="účinkovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="účinkovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930708-052-p3s1w8">
 <src.rf>manual</src.rf>
@@ -409,7 +409,7 @@
 <LM>w#w-mf930708-052-p3s1w11</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930708-052-p3s1w12">
 <src.rf>manual</src.rf>
@@ -571,7 +571,7 @@
 <LM>w#w-mf930708-052-p3s2w1</LM>
 </w.rf>
 <form>Otevřeno</form>
-<tag lemma="otevřít" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="otevřít" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf930708-052-p3s2w2">
 <src.rf>manual</src.rf>
@@ -781,7 +781,7 @@
 <LM>w#w-mf930708-052-p5s1w4</LM>
 </w.rf>
 <form>vystaveny</form>
-<tag lemma="vystavit_:W_^(např._potvrzení)" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="vystavit_^(např._potvrzení)" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-mf930708-052-p5s1w5">
 <src.rf>manual</src.rf>
@@ -1137,7 +1137,7 @@
 <LM>w#w-mf930708-052-p5s3w8</LM>
 </w.rf>
 <form>započítán</form>
-<tag lemma="započítat_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="započítat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf930708-052-p5s3w9">
 <src.rf>manual</src.rf>

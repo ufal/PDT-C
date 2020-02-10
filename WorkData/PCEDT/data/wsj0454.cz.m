@@ -111,7 +111,7 @@
 <LM>w#w-wsj0454-001-p1s1W8</LM>
 </w.rf>
 <form>rozhodla</form>
-<tag lemma="rozhodnout" src="auto" recommended="1">VpQW---XR-AAP-1</tag>
+<tag lemma="rozhodnout" src="auto" recommended="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-wsj0454-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>

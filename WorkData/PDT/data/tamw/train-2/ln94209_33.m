@@ -19,7 +19,7 @@
 <LM>w#w-ln94209-33-p1s1w1</LM>
 </w.rf>
 <form>Odnesl</form>
-<tag lemma="odnést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odnést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94209-33-p1s1w2">
 <src.rf>manual</src.rf>
@@ -127,7 +127,7 @@
 <LM>w#w-ln94209-33-p2s1Bw5</LM>
 </w.rf>
 <form>obsluhovala</form>
-<tag lemma="obsluhovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="obsluhovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94209-33-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -151,7 +151,7 @@
 <LM>w#w-ln94209-33-p2s1Bw8</LM>
 </w.rf>
 <form>vnikl</form>
-<tag lemma="vniknout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="vniknout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln94209-33-p2s1Bw9">
 <src.rf>manual</src.rf>

@@ -230,7 +230,7 @@
 <LM>w#w-mf920924-006-p1s2w13</LM>
 </w.rf>
 <form>dýchali</form>
-<tag lemma="dýchat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="dýchat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf920924-006-p1s2w14">
 <src.rf>manual</src.rf>
@@ -344,7 +344,7 @@
 <LM>w#w-mf920924-006-p1s3w11</LM>
 </w.rf>
 <form>zvětšila</form>
-<tag lemma="zvětšit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zvětšit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920924-006-p1s3w12">
 <src.rf>manual</src.rf>
@@ -386,7 +386,7 @@
 <LM>w#w-mf920924-006-p1s4w4</LM>
 </w.rf>
 <form>měli</form>
-<tag lemma="mít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf920924-006-p1s4w5">
 <src.rf>manual</src.rf>
@@ -548,7 +548,7 @@
 <LM>w#w-mf920924-006-p1s5w5</LM>
 </w.rf>
 <form>přešla</form>
-<tag lemma="přejít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="přejít" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920924-006-p1s5w6">
 <src.rf>manual</src.rf>
@@ -754,7 +754,7 @@
 <LM>w#w-mf920924-006-p1s7w6</LM>
 </w.rf>
 <form>postoupili</form>
-<tag lemma="postoupit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="postoupit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920924-006-p1s7w7">
 <src.rf>manual</src.rf>
@@ -1214,7 +1214,7 @@
 <LM>w#w-mf920924-006-p2s1w2</LM>
 </w.rf>
 <form>připravil</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="připravit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920924-006-p2s1w3">
 <src.rf>manual</src.rf>

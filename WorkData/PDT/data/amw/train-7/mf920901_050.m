@@ -192,7 +192,7 @@
 <LM>w#w-mf920901-050-p2s1w10</LM>
 </w.rf>
 <form>dosáhl</form>
-<tag lemma="dosáhnout" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dosáhnout" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920901-050-p2s1w11">
 <src.rf>manual</src.rf>
@@ -274,7 +274,7 @@
 <LM>w#w-mf920901-050-p2s2w5</LM>
 </w.rf>
 <form>slezl</form>
-<tag lemma="slézt" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="slézt" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920901-050-p2s2w6">
 <src.rf>manual</src.rf>
@@ -455,7 +455,7 @@
 <LM>w#w-mf920901-050-p2s4w4</LM>
 </w.rf>
 <form>zvládl</form>
-<tag lemma="zvládnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="zvládnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf920901-050-p2s4w5">
 <src.rf>manual</src.rf>
@@ -639,7 +639,7 @@
 <LM>w#w-mf920901-050-p2s4w27</LM>
 </w.rf>
 <form>uskutečnil</form>
-<tag lemma="uskutečnit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uskutečnit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920901-050-p2s4w28">
 <src.rf>manual</src.rf>
@@ -748,7 +748,7 @@
 <LM>w#w-mf920901-050-p2s5w8</LM>
 </w.rf>
 <form>pokoušel</form>
-<tag lemma="pokoušet_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="pokoušet" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920901-050-p2s5w9">
 <src.rf>manual</src.rf>
@@ -890,7 +890,7 @@
 <LM>w#w-mf920901-050-p2s5w25</LM>
 </w.rf>
 <form>neuspěl</form>
-<tag lemma="uspět" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="uspět" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-mf920901-050-p2s5w26">
 <src.rf>manual</src.rf>

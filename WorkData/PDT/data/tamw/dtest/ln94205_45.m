@@ -114,7 +114,7 @@
 <LM>w#w-ln94205-45-p2s1Bw3</LM>
 </w.rf>
 <form>vznikla</form>
-<tag lemma="vzniknout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="vzniknout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln94205-45-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -234,7 +234,7 @@
 <LM>w#w-ln94205-45-p2s1Bw18</LM>
 </w.rf>
 <form>otevřeny</form>
-<tag lemma="otevřít" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="otevřít" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln94205-45-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -332,7 +332,7 @@
 <LM>w#w-ln94205-45-p2s2w8</LM>
 </w.rf>
 <form>měli</form>
-<tag lemma="mít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94205-45-p2s2w9">
 <src.rf>manual</src.rf>
@@ -476,7 +476,7 @@
 <LM>w#w-ln94205-45-p2s3w12</LM>
 </w.rf>
 <form>zavinili</form>
-<tag lemma="zavinit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zavinit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94205-45-p2s3w13">
 <src.rf>manual</src.rf>
@@ -564,7 +564,7 @@
 <LM>w#w-ln94205-45-p2s3w23</LM>
 </w.rf>
 <form>báli</form>
-<tag lemma="bát" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="bát" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94205-45-p2s3w24">
 <src.rf>manual</src.rf>
@@ -588,7 +588,7 @@
 <LM>w#w-ln94205-45-p2s3w26</LM>
 </w.rf>
 <form>vytvořili</form>
-<tag lemma="vytvořit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vytvořit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94205-45-p2s3w27">
 <src.rf>manual</src.rf>
@@ -660,7 +660,7 @@
 <LM>w#w-ln94205-45-p2s3w35</LM>
 </w.rf>
 <form>nevyužívali</form>
-<tag lemma="využívat_:T_^(*3t)" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="využívat_^(*3t)" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-ln94205-45-p2s3w36">
 <src.rf>manual</src.rf>
@@ -701,7 +701,7 @@
 <LM>w#w-ln94205-45-p2s3w40</LM>
 </w.rf>
 <form>zablokovali</form>
-<tag lemma="zablokovat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zablokovat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94205-45-p2s3w41">
 <src.rf>manual</src.rf>

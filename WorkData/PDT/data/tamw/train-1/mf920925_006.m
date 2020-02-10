@@ -83,7 +83,7 @@
 <LM>w#w-mf920925-006-p1s1w9</LM>
 </w.rf>
 <form>BYLO</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920925-006-p1s1w10">
 <src.rf>manual</src.rf>
@@ -173,7 +173,7 @@
 <LM>w#w-mf920925-006-p2s1w10</LM>
 </w.rf>
 <form>zablokován</form>
-<tag lemma="zablokovat_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zablokovat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf920925-006-p2s1w11">
 <src.rf>manual</src.rf>
@@ -229,7 +229,7 @@
 <LM>w#w-mf920925-006-p2s1w17</LM>
 </w.rf>
 <form>prohlásil</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920925-006-p2s1w18">
 <src.rf>manual</src.rf>
@@ -335,7 +335,7 @@
 <LM>w#w-mf920925-006-p2s2w5</LM>
 </w.rf>
 <form>vzbudilo</form>
-<tag lemma="vzbudit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vzbudit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920925-006-p2s2w6">
 <src.rf>manual</src.rf>
@@ -548,7 +548,7 @@
 <LM>w#w-mf920925-006-p3s1w14</LM>
 </w.rf>
 <form>potvrdil</form>
-<tag lemma="potvrdit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="potvrdit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920925-006-p3s1w15">
 <src.rf>manual</src.rf>
@@ -588,7 +588,7 @@
 <LM>w#w-mf920925-006-p3s1w19</LM>
 </w.rf>
 <form>udělala</form>
-<tag lemma="udělat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="udělat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920925-006-p3s1w20">
 <src.rf>manual</src.rf>
@@ -676,7 +676,7 @@
 <LM>w#w-mf920925-006-p3s1w30</LM>
 </w.rf>
 <form>určila</form>
-<tag lemma="určit_:T_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="určit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920925-006-p3s1w31">
 <src.rf>manual</src.rf>
@@ -919,7 +919,7 @@
 <LM>w#w-mf920925-006-p3s3w6</LM>
 </w.rf>
 <form>omezena</form>
-<tag lemma="omezit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="omezit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf920925-006-p3s3w7">
 <src.rf>manual</src.rf>

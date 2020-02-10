@@ -478,7 +478,7 @@
 <LM>w#w-mf930713-035-p3s1w48</LM>
 </w.rf>
 <form>psala</form>
-<tag lemma="psát" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="psát" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930713-035-p3s1w49">
 <src.rf>manual</src.rf>
@@ -1295,7 +1295,7 @@
 <LM>w#w-mf930713-035-p7s1w23</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930713-035-p7s1w24">
 <src.rf>manual</src.rf>

@@ -159,7 +159,7 @@
 <LM>w#w-ln94206-124-p2s1Bw13</LM>
 </w.rf>
 <form>zrodilo</form>
-<tag lemma="zrodit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zrodit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94206-124-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -218,7 +218,7 @@
 <LM>w#w-ln94206-124-p2s1Bw20</LM>
 </w.rf>
 <form>podlehl</form>
-<tag lemma="podlehnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="podlehnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln94206-124-p2s1Bw21">
 <src.rf>manual</src.rf>

@@ -1519,8 +1519,8 @@
 </w.rf>
 <form>poslala</form>
 <tag>
-<AM lemma="poslat" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="poslat_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="poslat" src="orig">VpQW----R-AAP--</AM>
+<AM lemma="poslat" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd91303-083-p6s4w22">
@@ -1760,7 +1760,7 @@
 <LM>w#w-lnd91303-083-p7s2w2</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-083-p7s2w3">
 <src.rf>manual</src.rf>
@@ -1768,7 +1768,7 @@
 <LM>w#w-lnd91303-083-p7s2w3</LM>
 </w.rf>
 <form>vykopávány</form>
-<tag lemma="vykopávat_:T_^(*4at)" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="vykopávat_^(*4at)" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-lnd91303-083-p7s2w4">
 <src.rf>manual</src.rf>
@@ -1792,7 +1792,7 @@
 <LM>w#w-lnd91303-083-p7s2w6</LM>
 </w.rf>
 <form>počítány</form>
-<tag lemma="počítat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="počítat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-lnd91303-083-p7s2w7">
 <src.rf>manual</src.rf>
@@ -1816,7 +1816,7 @@
 <LM>w#w-lnd91303-083-p7s2w9</LM>
 </w.rf>
 <form>vyčíslovány</form>
-<tag lemma="vyčíslovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="vyčíslovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-lnd91303-083-p7s2w10">
 <src.rf>manual</src.rf>
@@ -2597,7 +2597,7 @@
 <LM>w#w-lnd91303-083-p11s1w1</LM>
 </w.rf>
 <form>Chtěl</form>
-<tag lemma="chtít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="chtít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-083-p11s1w2">
 <src.rf>manual</src.rf>
@@ -2670,8 +2670,8 @@
 </w.rf>
 <form>odpověděl</form>
 <tag>
-<AM lemma="odpovědět" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="odpovědět_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="odpovědět" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="odpovědět" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd91303-083-p11s1w11">

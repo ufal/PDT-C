@@ -157,7 +157,7 @@
 <LM>w#w-ln95049-005-p2s1Bw10</LM>
 </w.rf>
 <form>předložilo</form>
-<tag lemma="předložit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="předložit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-005-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -213,7 +213,7 @@
 <LM>w#w-ln95049-005-p2s1Bw17</LM>
 </w.rf>
 <form>zastoupeno</form>
-<tag lemma="zastoupit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zastoupit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95049-005-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -303,7 +303,7 @@
 <LM>w#w-ln95049-005-p3s1w4</LM>
 </w.rf>
 <form>předložila</form>
-<tag lemma="předložit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="předložit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95049-005-p3s1w5">
 <src.rf>manual</src.rf>
@@ -421,7 +421,7 @@
 <LM>w#w-ln95049-005-p3s2w4</LM>
 </w.rf>
 <form>spojili</form>
-<tag lemma="spojit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="spojit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95049-005-p3s2w5">
 <src.rf>manual</src.rf>
@@ -868,7 +868,7 @@
 <LM>w#w-ln95049-005-p4s1w12</LM>
 </w.rf>
 <form>uzavřela</form>
-<tag lemma="uzavřít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="uzavřít" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95049-005-p4s1w13">
 <src.rf>manual</src.rf>

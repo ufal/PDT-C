@@ -126,8 +126,8 @@
 </w.rf>
 <form>vyzval</form>
 <tag>
-<AM lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="vyzvat_:W_^(někoho_vyzvat_k_něčemu)" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930703-006-p2s1w8">
@@ -203,7 +203,7 @@
 <LM>w#w-mf930703-006-p2s1w17</LM>
 </w.rf>
 <form>svolala</form>
-<tag lemma="svolat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="svolat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930703-006-p2s1w18">
 <src.rf>manual</src.rf>
@@ -588,7 +588,7 @@
 <LM>w#w-mf930703-006-p2s3w4</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930703-006-p2s3w5">
 <src.rf>manual</src.rf>

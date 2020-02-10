@@ -491,7 +491,7 @@
 <LM>w#w-lnd91301-019-p3s2w6</LM>
 </w.rf>
 <form>garantována</form>
-<tag lemma="garantovat_:T_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="garantovat" src="orig" selected="1">VsQW----X-APB--</tag>
 </m>
 <m id="m-lnd91301-019-p3s2w7">
 <src.rf>manual</src.rf>

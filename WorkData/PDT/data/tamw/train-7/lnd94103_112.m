@@ -1377,7 +1377,7 @@
 <LM>w#w-lnd94103-112-p1s103w1</LM>
 </w.rf>
 <form>Uhodli</form>
-<tag lemma="uhodnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="uhodnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-lnd94103-112-p1s103w2">
 <src.rf>manual</src.rf>

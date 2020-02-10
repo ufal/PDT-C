@@ -509,8 +509,8 @@
 </w.rf>
 <form>začala</form>
 <tag>
-<AM lemma="začít-1_^(začnout)" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="začít-1_^(začnout)" src="auto">VpQW----R-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920923-027-p2s2w27">
@@ -745,7 +745,7 @@
 <LM>w#w-mf920923-027-p3s1w23</LM>
 </w.rf>
 <form>zvládnuta</form>
-<tag lemma="zvládnout_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zvládnout" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf920923-027-p3s1w24">
 <src.rf>manual</src.rf>
@@ -1716,7 +1716,7 @@
 <LM>w#w-mf920923-027-p3s8Aw26</LM>
 </w.rf>
 <form>připraven</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="připravit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf920923-027-p3s8Aw27">
 <src.rf>manual</src.rf>
@@ -2336,8 +2336,8 @@
 </w.rf>
 <form>sneslo</form>
 <tag>
-<AM lemma="snést" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="snést_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="snést" src="orig">VpNS----R-AAP--</AM>
+<AM lemma="snést" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920923-027-p4s5w26">

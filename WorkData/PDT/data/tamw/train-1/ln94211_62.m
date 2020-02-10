@@ -135,7 +135,7 @@
 <LM>w#w-ln94211-62-p2s1Bw6</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94211-62-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -144,7 +144,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>obviněn</form>
-<tag lemma="obvinit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="obvinit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94211-62-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -247,7 +247,7 @@
 <LM>w#w-ln94211-62-p2s1Bw19</LM>
 </w.rf>
 <form>převezl</form>
-<tag lemma="převézt" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="převézt" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94211-62-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -313,7 +313,7 @@
 <LM>w#w-ln94211-62-p2s2w3</LM>
 </w.rf>
 <form>zajistili</form>
-<tag lemma="zajistit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zajistit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94211-62-p2s2w4">
 <src.rf>manual</src.rf>

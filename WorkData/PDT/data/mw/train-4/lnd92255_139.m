@@ -454,7 +454,7 @@
 <AM lemma="TK_:B_;K" src="orig">NNFXX-----A---8</AM>
 <AM lemma="TK_:B" src="auto" recommended="1">NNXXX-----A---8</AM>
 <AM lemma="Tk_:B_;K" src="auto">NNISX-----A---8</AM>
-<AM lemma="tknout" src="auto">VpYS---XR-AA--6</AM>
+<AM lemma="tknout" src="auto">VpYS----R-AAI-6</AM>
 <AM lemma="TK-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
 </tag>
 </m>
@@ -502,7 +502,7 @@
 <LM>w#w-lnd92255-139-p3s3w12</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-139-p3s3w13">
 <src.rf>manual</src.rf>
@@ -574,7 +574,7 @@
 <LM>w#w-lnd92255-139-p3s3w21</LM>
 </w.rf>
 <form>vypracovány</form>
-<tag lemma="vypracovat_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="vypracovat" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd92255-139-p3s3w22">
 <src.rf>manual</src.rf>
@@ -771,7 +771,7 @@
 <LM>w#w-lnd92255-139-p3s4w5</LM>
 </w.rf>
 <form>uvítalo</form>
-<tag lemma="uvítat_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="uvítat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-139-p3s4w6">
 <src.rf>manual</src.rf>
@@ -843,7 +843,7 @@
 <LM>w#w-lnd92255-139-p3s4w15</LM>
 </w.rf>
 <form>vložila</form>
-<tag lemma="vložit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vložit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-139-p3s4w16">
 <src.rf>manual</src.rf>

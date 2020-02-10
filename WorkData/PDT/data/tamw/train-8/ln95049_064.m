@@ -253,7 +253,7 @@
 <LM>w#w-ln95049-064-p2s1w25</LM>
 </w.rf>
 <form>přihlásilo</form>
-<tag lemma="přihlásit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="přihlásit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-064-p2s1w26">
 <src.rf>manual</src.rf>
@@ -375,7 +375,7 @@
 <LM>w#w-ln95049-064-p2s2w8</LM>
 </w.rf>
 <form>vybrala</form>
-<tag lemma="vybrat" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vybrat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95049-064-p2s2w9">
 <src.rf>manual</src.rf>

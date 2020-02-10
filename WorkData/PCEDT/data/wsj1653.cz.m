@@ -369,7 +369,7 @@
 <LM>w#w-wsj1653-001-p1s0W27</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="auto" recommended="1">VpMP---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-wsj1653-001-p1s0W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -377,7 +377,7 @@
 <LM>w#w-wsj1653-001-p1s0W28</LM>
 </w.rf>
 <form>zvoleni</form>
-<tag lemma="zvolit" src="auto" recommended="1">VsMP---XX-APP--</tag>
+<tag lemma="zvolit" src="auto" recommended="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-wsj1653-001-p1s0W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -546,7 +546,7 @@
 <LM>w#w-wsj1653-001-p1s0W43</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-wsj1653-001-p1s0W44-Ta">
 <src.rf>tagger-a</src.rf>
@@ -566,7 +566,7 @@
 <LM>w#w-wsj1653-001-p1s0W45</LM>
 </w.rf>
 <form>rozšířeno</form>
-<tag lemma="rozšířit" src="auto" recommended="1">VsNS---XX-APP--</tag>
+<tag lemma="rozšířit" src="auto" recommended="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-wsj1653-001-p1s0W46-Ta">
 <src.rf>tagger-a</src.rf>

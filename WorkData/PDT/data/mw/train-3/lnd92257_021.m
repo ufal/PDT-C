@@ -103,7 +103,7 @@
 <LM>w#w-lnd92257-021-p1s1w10</LM>
 </w.rf>
 <form>omezila</form>
-<tag lemma="omezit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="omezit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-021-p1s1w11">
 <src.rf>manual</src.rf>
@@ -269,7 +269,7 @@
 <LM>w#w-lnd92257-021-p1s2w11</LM>
 </w.rf>
 <form>protestovala</form>
-<tag lemma="protestovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="protestovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92257-021-p1s2w12">
 <src.rf>manual</src.rf>

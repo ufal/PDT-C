@@ -195,7 +195,7 @@
 <LM>w#w-ln95040-107-p2s1Bw14</LM>
 </w.rf>
 <form>získala</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95040-107-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -240,7 +240,7 @@
 <LM>w#w-ln95040-107-p2s2w1</LM>
 </w.rf>
 <form>Uvedla</form>
-<tag lemma="uvést" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95040-107-p2s2w2">
 <src.rf>manual</src.rf>
@@ -377,7 +377,7 @@
 <LM>w#w-ln95040-107-p2s3w8</LM>
 </w.rf>
 <form>dodány</form>
-<tag lemma="dodat_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="dodat" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln95040-107-p2s3w9">
 <src.rf>manual</src.rf>

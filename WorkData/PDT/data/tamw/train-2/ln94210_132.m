@@ -163,7 +163,7 @@
 <LM>w#w-ln94210-132-p1s2w6</LM>
 </w.rf>
 <form>přiletěli</form>
-<tag lemma="přiletět" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přiletět" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94210-132-p1s2w7">
 <src.rf>manual</src.rf>
@@ -237,7 +237,7 @@
 <LM>w#w-ln94210-132-p1s3w1</LM>
 </w.rf>
 <form>Ubytováni</form>
-<tag lemma="ubytovat_:W" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="ubytovat" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-ln94210-132-p1s3w2">
 <src.rf>manual</src.rf>
@@ -343,7 +343,7 @@
 <LM>w#w-ln94210-132-p1s4w6</LM>
 </w.rf>
 <form>sešel</form>
-<tag lemma="sejít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sejít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94210-132-p1s4w7">
 <src.rf>manual</src.rf>
@@ -514,7 +514,7 @@
 <LM>w#w-ln94210-132-p1s5w9</LM>
 </w.rf>
 <form>vyprodán</form>
-<tag lemma="vyprodat_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="vyprodat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94210-132-p1s5w10">
 <src.rf>manual</src.rf>

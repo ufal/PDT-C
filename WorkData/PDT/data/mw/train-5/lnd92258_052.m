@@ -212,7 +212,7 @@
 <LM>w#w-lnd92258-052-p4s1w16</LM>
 </w.rf>
 <form>dostal</form>
-<tag lemma="dostat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dostat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-052-p4s1w17">
 <src.rf>manual</src.rf>
@@ -416,7 +416,7 @@
 <LM>w#w-lnd92258-052-p5s1w16</LM>
 </w.rf>
 <form>působili</form>
-<tag lemma="působit_:T_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="působit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92258-052-p5s1w17">
 <src.rf>manual</src.rf>
@@ -472,7 +472,7 @@
 <LM>w#w-lnd92258-052-p5s1w24</LM>
 </w.rf>
 <form>svědčili</form>
-<tag lemma="svědčit_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="svědčit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92258-052-p5s1w25">
 <src.rf>manual</src.rf>
@@ -658,7 +658,7 @@
 <LM>w#w-lnd92258-052-p5s2w19</LM>
 </w.rf>
 <form>doplněny</form>
-<tag lemma="doplnit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="doplnit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd92258-052-p5s2w20">
 <src.rf>manual</src.rf>
@@ -1069,7 +1069,7 @@
 <LM>w#w-lnd92258-052-p5s6w6</LM>
 </w.rf>
 <form>nepřevzal</form>
-<tag lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-lnd92258-052-p5s6w7">
 <src.rf>manual</src.rf>

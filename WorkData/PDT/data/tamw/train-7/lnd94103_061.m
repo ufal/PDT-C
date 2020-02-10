@@ -452,7 +452,7 @@
 <LM>w#w-lnd94103-061-p1s3w6</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-061-p1s3w7">
 <src.rf>manual</src.rf>
@@ -500,7 +500,7 @@
 <LM>w#w-lnd94103-061-p1s3w12</LM>
 </w.rf>
 <form>vyčíslována</form>
-<tag lemma="vyčíslovat_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="vyčíslovat" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-lnd94103-061-p1s3w13">
 <src.rf>manual</src.rf>
@@ -524,7 +524,7 @@
 <LM>w#w-lnd94103-061-p1s3w15</LM>
 </w.rf>
 <form>vzrůstala</form>
-<tag lemma="vzrůstat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vzrůstat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-061-p1s3w16">
 <src.rf>manual</src.rf>
@@ -556,7 +556,7 @@
 <LM>w#w-lnd94103-061-p1s3w19</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-061-p1s3w20">
 <src.rf>manual</src.rf>
@@ -612,7 +612,7 @@
 <LM>w#w-lnd94103-061-p1s3w26</LM>
 </w.rf>
 <form>poskytovány</form>
-<tag lemma="poskytovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="poskytovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-lnd94103-061-p1s3w27">
 <src.rf>manual</src.rf>
@@ -1770,7 +1770,7 @@
 <LM>w#w-lnd94103-061-p1s11w5</LM>
 </w.rf>
 <form>placena</form>
-<tag lemma="platit_:T" src="auto" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="platit" src="auto" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-lnd94103-061-p1s11w6">
 <src.rf>manual</src.rf>

@@ -859,7 +859,7 @@
 <LM>w#w-ln95040-068-p4s4w6</LM>
 </w.rf>
 <form>dosahovaly</form>
-<tag lemma="dosahovat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="dosahovat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95040-068-p4s4w7">
 <src.rf>manual</src.rf>
@@ -1538,7 +1538,7 @@
 <LM>w#w-ln95040-068-p5s2w2</LM>
 </w.rf>
 <form>unaven</form>
-<tag lemma="unavit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="unavit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95040-068-p5s2w3">
 <src.rf>manual</src.rf>
@@ -1554,7 +1554,7 @@
 <LM>w#w-ln95040-068-p5s2w4</LM>
 </w.rf>
 <form>nesoustředěn</form>
-<tag lemma="soustředit" src="orig" selected="1">VsYS---XX-NP---</tag>
+<tag lemma="soustředit" src="orig" selected="1">VsYS----X-NPP--</tag>
 </m>
 <m id="m-ln95040-068-p5s2w5">
 <src.rf>manual</src.rf>
@@ -1570,7 +1570,7 @@
 <LM>w#w-ln95040-068-p5s2w6</LM>
 </w.rf>
 <form>zaplaven</form>
-<tag lemma="zaplavit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zaplavit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95040-068-p5s2w7">
 <src.rf>manual</src.rf>
@@ -1610,7 +1610,7 @@
 <LM>w#w-ln95040-068-p5s2w11</LM>
 </w.rf>
 <form>stíhán</form>
-<tag lemma="stíhat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="stíhat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-ln95040-068-p5s2w12">
 <src.rf>manual</src.rf>
@@ -2160,8 +2160,8 @@
 </w.rf>
 <form>řečeno</form>
 <tag>
-<AM lemma="říci" src="auto">VsNS---XX-AP---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+<AM lemma="říci" src="auto">VsNS----X-APP--</AM>
+<AM lemma="říci" src="manual" selected="1">VsNS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-ln95040-068-p6s2w3">
@@ -2661,7 +2661,7 @@
 <LM>w#w-ln95040-068-p7s2w4</LM>
 </w.rf>
 <form>rozšířen</form>
-<tag lemma="rozšířit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="rozšířit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95040-068-p7s2w5">
 <src.rf>manual</src.rf>
@@ -3788,7 +3788,7 @@
 <LM>w#w-ln95040-068-p7s8w38</LM>
 </w.rf>
 <form>komentovali</form>
-<tag lemma="komentovat_:T_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="komentovat" src="orig" selected="1">VpMP----R-AAB--</tag>
 </m>
 <m id="m-ln95040-068-p7s8w39">
 <src.rf>manual</src.rf>

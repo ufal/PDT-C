@@ -457,7 +457,7 @@
 <LM>w#w-mf930713-003-p3s5w12</LM>
 </w.rf>
 <form>úročeny</form>
-<tag lemma="úročit_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="úročit" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf930713-003-p3s5w13">
 <src.rf>manual</src.rf>
@@ -742,7 +742,7 @@
 <LM>w#w-mf930713-003-p3s8w9</LM>
 </w.rf>
 <form>úročeny</form>
-<tag lemma="úročit_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="úročit" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf930713-003-p3s8w10">
 <src.rf>manual</src.rf>
@@ -876,7 +876,7 @@
 <form>zdaněny</form>
 <tag>
 <AM lemma="zdaňovat_^(vypočítat_daň)" src="orig">VsTP---XX-AP---</AM>
-<AM lemma="zdanit_:W_^(vypočítat_daň)" src="auto" recommended="1" selected="1">VsTP---XX-AP---</AM>
+<AM lemma="zdanit_^(vypočítat_daň)" src="auto" recommended="1" selected="1">VsTP----X-APP--</AM>
 </tag>
 </m>
 <m id="m-mf930713-003-p3s9w9">

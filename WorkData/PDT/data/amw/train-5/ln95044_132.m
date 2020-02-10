@@ -35,7 +35,7 @@
 <LM>w#w-ln95044-132-p1s1w3</LM>
 </w.rf>
 <form>ušetřily</form>
-<tag lemma="ušetřit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="ušetřit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 </s>
 <s id="m-ln95044-132-p2s1A">
@@ -219,7 +219,7 @@
 <LM>w#w-ln95044-132-p2s1Bw18</LM>
 </w.rf>
 <form>ušetřily</form>
-<tag lemma="ušetřit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="ušetřit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95044-132-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -479,7 +479,7 @@
 <LM>w#w-ln95044-132-p2s3w10</LM>
 </w.rf>
 <form>dosáhl</form>
-<tag lemma="dosáhnout" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dosáhnout" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95044-132-p2s3w11">
 <src.rf>manual</src.rf>

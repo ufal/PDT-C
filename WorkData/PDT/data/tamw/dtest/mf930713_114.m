@@ -85,7 +85,7 @@
 <LM>w#w-mf930713-114-p2s1w6</LM>
 </w.rf>
 <form>devalvovalo</form>
-<tag lemma="devalvovat_:T_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="devalvovat" src="orig" selected="1">VpNS----R-AAB--</tag>
 </m>
 <m id="m-mf930713-114-p2s1w7">
 <src.rf>manual</src.rf>
@@ -277,7 +277,7 @@
 <LM>w#w-mf930713-114-p2s3w11</LM>
 </w.rf>
 <form>pochyboval</form>
-<tag lemma="pochybovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="pochybovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930713-114-p2s3w12">
 <src.rf>manual</src.rf>
@@ -371,7 +371,7 @@
 <LM>w#w-mf930713-114-p2s4w7</LM>
 </w.rf>
 <form>nepřistoupila</form>
-<tag lemma="přistoupit_:W" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="přistoupit" src="orig" selected="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-mf930713-114-p2s4w8">
 <src.rf>manual</src.rf>
@@ -437,7 +437,7 @@
 <LM>w#w-mf930713-114-p2s5w3</LM>
 </w.rf>
 <form>vzbuzoval</form>
-<tag lemma="vzbuzovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vzbuzovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930713-114-p2s5w4">
 <src.rf>manual</src.rf>
@@ -607,7 +607,7 @@
 <LM>w#w-mf930713-114-p2s6w11</LM>
 </w.rf>
 <form>tvrdilo</form>
-<tag lemma="tvrdit_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="tvrdit" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930713-114-p2s6w12">
 <src.rf>manual</src.rf>
@@ -764,7 +764,7 @@
 <LM>w#w-mf930713-114-p2s7w6</LM>
 </w.rf>
 <form>museli</form>
-<tag lemma="muset" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="muset" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930713-114-p2s7w7">
 <src.rf>manual</src.rf>
@@ -804,7 +804,7 @@
 <LM>w#w-mf930713-114-p2s7w11</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930713-114-p2s7w12">
 <src.rf>manual</src.rf>
@@ -1286,7 +1286,7 @@
 <LM>w#w-mf930713-114-p2s10w21</LM>
 </w.rf>
 <form>podrobila</form>
-<tag lemma="podrobit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="podrobit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930713-114-p2s10w22">
 <src.rf>manual</src.rf>
@@ -1469,7 +1469,7 @@
 <LM>w#w-mf930713-114-p2s12w1</LM>
 </w.rf>
 <form>Byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930713-114-p2s12w2">
 <src.rf>manual</src.rf>
@@ -1548,7 +1548,7 @@
 <LM>w#w-mf930713-114-p2s12w10</LM>
 </w.rf>
 <form>opakoval</form>
-<tag lemma="opakovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="opakovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930713-114-p2s12w11">
 <src.rf>manual</src.rf>
@@ -1654,7 +1654,7 @@
 <LM>w#w-mf930713-114-p2s13w1</LM>
 </w.rf>
 <form>Spojil</form>
-<tag lemma="spojit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="spojit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-114-p2s13w2">
 <src.rf>manual</src.rf>
@@ -1904,7 +1904,7 @@
 <LM>w#w-mf930713-114-p2s14w5</LM>
 </w.rf>
 <form>utkal</form>
-<tag lemma="utkat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="utkat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-114-p2s14w6">
 <src.rf>manual</src.rf>
@@ -2019,7 +2019,7 @@
 <LM>w#w-mf930713-114-p2s14w19</LM>
 </w.rf>
 <form>odkazoval</form>
-<tag lemma="odkazovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odkazovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930713-114-p2s14w20">
 <src.rf>manual</src.rf>
@@ -2118,8 +2118,8 @@
 </w.rf>
 <form>dala</form>
 <tag>
-<AM lemma="dát" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="dát_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="dát" src="orig">VpQW----R-AAP--</AM>
+<AM lemma="dát" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930713-114-p2s15w5">

@@ -333,7 +333,7 @@
 <LM>w#w-mf930713-137-p2s2w11</LM>
 </w.rf>
 <form>obvinili</form>
-<tag lemma="obvinit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="obvinit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930713-137-p2s2w12">
 <src.rf>manual</src.rf>
@@ -495,7 +495,7 @@
 <LM>w#w-mf930713-137-p2s3w1</LM>
 </w.rf>
 <form>Zmínili</form>
-<tag lemma="zmínit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zmínit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930713-137-p2s3w2">
 <src.rf>manual</src.rf>
@@ -750,7 +750,7 @@
 <LM>w#w-mf930713-137-p2s6w12</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930713-137-p2s6w13">
 <src.rf>manual</src.rf>
@@ -758,7 +758,7 @@
 <LM>w#w-mf930713-137-p2s6w13</LM>
 </w.rf>
 <form>učiněna</form>
-<tag lemma="učinit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="učinit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf930713-137-p2s6w14">
 <src.rf>manual</src.rf>
@@ -830,7 +830,7 @@
 <LM>w#w-mf930713-137-p2s6w23</LM>
 </w.rf>
 <form>vyloučilo</form>
-<tag lemma="vyloučit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vyloučit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-137-p2s6w24">
 <src.rf>manual</src.rf>
@@ -1087,7 +1087,7 @@
 <LM>w#w-mf930713-137-p2s9w2</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930713-137-p2s9w3">
 <src.rf>manual</src.rf>
@@ -1487,7 +1487,7 @@
 <LM>w#w-mf930713-137-p2s11w5</LM>
 </w.rf>
 <form>nepřežili</form>
-<tag lemma="přežít" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="přežít" src="orig" selected="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m-mf930713-137-p2s11w6">
 <src.rf>manual</src.rf>
@@ -1511,7 +1511,7 @@
 <LM>w#w-mf930713-137-p2s11w8</LM>
 </w.rf>
 <form>řekla</form>
-<tag lemma="říci" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930713-137-p2s11w9">
 <src.rf>manual</src.rf>

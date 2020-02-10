@@ -654,7 +654,7 @@
 <LM>w#w-ln95043-067-p2s3w19</LM>
 </w.rf>
 <form>bráno</form>
-<tag lemma="brát" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="brát" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-ln95043-067-p2s3w20">
 <src.rf>manual</src.rf>
@@ -1106,7 +1106,7 @@
 <LM>w#w-ln95043-067-p2s5w4</LM>
 </w.rf>
 <form>znal</form>
-<tag lemma="znát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="znát" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95043-067-p2s5w5">
 <src.rf>manual</src.rf>
@@ -1390,7 +1390,7 @@
 <LM>w#w-ln95043-067-p2s5w39</LM>
 </w.rf>
 <form>nemusely</form>
-<tag lemma="muset" src="orig" selected="1">VpTP---XR-NA---</tag>
+<tag lemma="muset" src="orig" selected="1">VpTP----R-NAI--</tag>
 </m>
 <m id="m-ln95043-067-p2s5w40">
 <src.rf>manual</src.rf>

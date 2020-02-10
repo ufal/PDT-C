@@ -38,7 +38,7 @@
 <LM>w#w-mf930701-034-p1s1w3</LM>
 </w.rf>
 <form>předložilo</form>
-<tag lemma="předložit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="předložit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-034-p1s1w4">
 <src.rf>manual</src.rf>
@@ -318,7 +318,7 @@
 <LM>w#w-mf930701-034-p2s2w6</LM>
 </w.rf>
 <form>dokončena</form>
-<tag lemma="dokončit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="dokončit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf930701-034-p2s2w7">
 <src.rf>manual</src.rf>
@@ -702,7 +702,7 @@
 <LM>w#w-mf930701-034-p2s3w35</LM>
 </w.rf>
 <form>vybíralo</form>
-<tag lemma="vybírat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vybírat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930701-034-p2s3w36">
 <src.rf>manual</src.rf>

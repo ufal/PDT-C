@@ -104,8 +104,8 @@
 </w.rf>
 <form>obešlo</form>
 <tag>
-<AM lemma="obejít" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="obejít_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="obejít" src="orig">VpNS----R-AAP--</AM>
+<AM lemma="obejít" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94208-42-p2s1Bw5">
@@ -258,7 +258,7 @@
 <LM>w#w-ln94208-42-p2s1Bw23</LM>
 </w.rf>
 <form>pořádal</form>
-<tag lemma="pořádat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="pořádat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94208-42-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -409,8 +409,8 @@
 </w.rf>
 <form>zakázal</form>
 <tag>
-<AM lemma="zakázat" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="zakázat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="zakázat" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="zakázat" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94208-42-p2s2w9">
@@ -565,7 +565,7 @@
 <LM>w#w-ln94208-42-p2s3w3</LM>
 </w.rf>
 <form>nezakázal</form>
-<tag lemma="zakázat" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="zakázat" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-ln94208-42-p2s3w4">
 <src.rf>manual</src.rf>
@@ -613,7 +613,7 @@
 <LM>w#w-ln94208-42-p2s3w9</LM>
 </w.rf>
 <form>zamezil</form>
-<tag lemma="zamezit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zamezit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94208-42-p2s3w10">
 <src.rf>manual</src.rf>
@@ -703,7 +703,7 @@
 <LM>w#w-ln94208-42-p2s4w6</LM>
 </w.rf>
 <form>vyřešilo</form>
-<tag lemma="vyřešit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vyřešit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94208-42-p2s4w7">
 <src.rf>manual</src.rf>
@@ -841,7 +841,7 @@
 <LM>w#w-ln94208-42-p2s5w10</LM>
 </w.rf>
 <form>položila</form>
-<tag lemma="položit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="položit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94208-42-p2s5w11">
 <src.rf>manual</src.rf>
@@ -907,7 +907,7 @@
 <LM>w#w-ln94208-42-p2s6w3</LM>
 </w.rf>
 <form>zúčastnila</form>
-<tag lemma="zúčastnit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zúčastnit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94208-42-p2s6w4">
 <src.rf>manual</src.rf>

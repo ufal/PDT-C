@@ -630,7 +630,7 @@
 <LM>w#w-lnd91303-067-p4s1w7</LM>
 </w.rf>
 <form>zjistil</form>
-<tag lemma="zjistit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zjistit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-067-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1137,7 +1137,7 @@
 <LM>w#w-lnd91303-067-p4s5w11</LM>
 </w.rf>
 <form>neumožnil</form>
-<tag lemma="umožnit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="umožnit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-lnd91303-067-p4s5w12">
 <src.rf>manual</src.rf>

@@ -73,7 +73,7 @@
 <LM>w#w-ln95044-078-p1s1w7</LM>
 </w.rf>
 <form>otevřen</form>
-<tag lemma="otevřít" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="otevřít" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 </s>
 <s id="m-ln95044-078-p2s1A">
@@ -133,7 +133,7 @@
 <LM>w#w-ln95044-078-p2s1Bw5</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95044-078-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -157,7 +157,7 @@
 <LM>w#w-ln95044-078-p2s1Bw8</LM>
 </w.rf>
 <form>znovuotevřen</form>
-<tag lemma="znovuotevřít" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="znovuotevřít" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95044-078-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -239,7 +239,7 @@
 <LM>w#w-ln95044-078-p2s2w3</LM>
 </w.rf>
 <form>zúčastnili</form>
-<tag lemma="zúčastnit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zúčastnit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95044-078-p2s2w4">
 <src.rf>manual</src.rf>
@@ -665,7 +665,7 @@
 <LM>w#w-ln95044-078-p2s4w2</LM>
 </w.rf>
 <form>vznikl</form>
-<tag lemma="vzniknout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="vzniknout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln95044-078-p2s4w3">
 <src.rf>manual</src.rf>
@@ -804,7 +804,7 @@
 <LM>w#w-ln95044-078-p2s4w19</LM>
 </w.rf>
 <form>nechala</form>
-<tag lemma="nechat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="nechat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95044-078-p2s4w20">
 <src.rf>manual</src.rf>
@@ -1009,7 +1009,7 @@
 <LM>w#w-ln95044-078-p2s5w11</LM>
 </w.rf>
 <form>využíván</form>
-<tag lemma="využívat_:T_^(*3t)" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="využívat_^(*3t)" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-ln95044-078-p2s5w12">
 <src.rf>manual</src.rf>

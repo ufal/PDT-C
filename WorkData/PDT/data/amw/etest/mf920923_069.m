@@ -51,7 +51,7 @@
 <LM>w#w-mf920923-069-p1s1w5</LM>
 </w.rf>
 <form>patřila</form>
-<tag lemma="patřit_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="patřit" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920923-069-p1s1w6">
 <src.rf>manual</src.rf>
@@ -115,7 +115,7 @@
 <LM>w#w-mf920923-069-p1s1w13</LM>
 </w.rf>
 <form>domlouvali</form>
-<tag lemma="domlouvat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="domlouvat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf920923-069-p1s1w14">
 <src.rf>manual</src.rf>

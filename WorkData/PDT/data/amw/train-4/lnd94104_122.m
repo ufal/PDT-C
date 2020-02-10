@@ -59,7 +59,7 @@
 <LM>w#w-lnd94104-122-p1s1w6</LM>
 </w.rf>
 <form>zataženo</form>
-<tag lemma="zatáhnout" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zatáhnout" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd94104-122-p1s1w7">
 <src.rf>manual</src.rf>

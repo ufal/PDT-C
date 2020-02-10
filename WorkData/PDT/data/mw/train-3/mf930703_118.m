@@ -1801,7 +1801,7 @@
 <LM>w#w-mf930703-118-p5s1w21</LM>
 </w.rf>
 <form>Prostřeno</form>
-<tag lemma="prostřít" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="prostřít" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf930703-118-p5s1w22">
 <src.rf>manual</src.rf>
@@ -2084,7 +2084,7 @@
 <LM>w#w-mf930703-118-p5s2w14</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dát" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-118-p5s2w15">
 <src.rf>manual</src.rf>
@@ -11882,7 +11882,7 @@
 <LM>w#w-mf930703-118-p21s3w17</LM>
 </w.rf>
 <form>pronásledoval</form>
-<tag lemma="pronásledovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="pronásledovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930703-118-p21s3w18">
 <src.rf>manual</src.rf>
@@ -14074,7 +14074,7 @@
 <LM>w#w-mf930703-118-p28s1w14</LM>
 </w.rf>
 <form>Ztraceni</form>
-<tag lemma="ztratit_:W" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="ztratit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-mf930703-118-p28s1w15">
 <src.rf>manual</src.rf>

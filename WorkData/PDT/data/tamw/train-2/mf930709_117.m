@@ -51,7 +51,7 @@
 <LM>w#w-mf930709-117-p1s1w5</LM>
 </w.rf>
 <form>klesl</form>
-<tag lemma="klesnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="klesnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 </s>
 <s id="m-mf930709-117-p2s1A">
@@ -202,7 +202,7 @@
 <LM>w#w-mf930709-117-p2s1Bw12</LM>
 </w.rf>
 <form>poklesl</form>
-<tag lemma="poklesnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="poklesnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf930709-117-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -532,7 +532,7 @@
 <LM>w#w-mf930709-117-p2s2w8</LM>
 </w.rf>
 <form>neprojevily</form>
-<tag lemma="projevit_:W" src="orig" selected="1">VpTP---XR-NA---</tag>
+<tag lemma="projevit" src="orig" selected="1">VpTP----R-NAP--</tag>
 </m>
 <m id="m-mf930709-117-p2s2w9">
 <src.rf>manual</src.rf>

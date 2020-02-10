@@ -347,7 +347,7 @@
 <LM>w#w-ln94206-50-p2s2w14</LM>
 </w.rf>
 <form>plnila</form>
-<tag lemma="plnit_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="plnit" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94206-50-p2s2w15">
 <src.rf>manual</src.rf>
@@ -442,7 +442,7 @@
 <LM>w#w-ln94206-50-p3s1w1</LM>
 </w.rf>
 <form>Podařilo</form>
-<tag lemma="podařit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="podařit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94206-50-p3s1w2">
 <src.rf>manual</src.rf>
@@ -589,7 +589,7 @@
 <LM>w#w-ln94206-50-p3s1w19</LM>
 </w.rf>
 <form>upravena</form>
-<tag lemma="upravit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="upravit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94206-50-p3s1w20">
 <src.rf>manual</src.rf>
@@ -760,7 +760,7 @@
 <LM>w#w-ln94206-50-p4s1w12</LM>
 </w.rf>
 <form>připraveni</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="připravit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-ln94206-50-p4s1w13">
 <src.rf>manual</src.rf>

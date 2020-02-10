@@ -209,7 +209,7 @@
 <LM>w#w-cmpr9415-052-p4s1w11</LM>
 </w.rf>
 <form>podařilo</form>
-<tag lemma="podařit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="podařit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9415-052-p4s1w12">
 <src.rf>manual</src.rf>
@@ -705,7 +705,7 @@
 <LM>w#w-cmpr9415-052-p5s2w4</LM>
 </w.rf>
 <form>připraveno</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="připravit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-cmpr9415-052-p5s2w5">
 <src.rf>manual</src.rf>
@@ -856,7 +856,7 @@
 <LM>w#w-cmpr9415-052-p6s1w4</LM>
 </w.rf>
 <form>připraveny</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="připravit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-cmpr9415-052-p6s1w5">
 <src.rf>manual</src.rf>
@@ -1010,7 +1010,7 @@
 <LM>w#w-cmpr9415-052-p7s1w5</LM>
 </w.rf>
 <form>zlákaly</form>
-<tag lemma="zlákat_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zlákat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-cmpr9415-052-p7s1w6">
 <src.rf>manual</src.rf>

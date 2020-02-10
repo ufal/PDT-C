@@ -439,7 +439,7 @@
 <LM>w#w-mf920924-137-p3s1w3</LM>
 </w.rf>
 <form>zdůvodněno</form>
-<tag lemma="zdůvodnit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zdůvodnit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf920924-137-p3s1w4">
 <src.rf>manual</src.rf>
@@ -772,7 +772,7 @@
 <LM>w#w-mf920924-137-p4s1w25</LM>
 </w.rf>
 <form>financovali</form>
-<tag lemma="financovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="financovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf920924-137-p4s1w26">
 <src.rf>manual</src.rf>

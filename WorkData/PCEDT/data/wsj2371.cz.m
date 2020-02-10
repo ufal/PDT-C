@@ -83,7 +83,7 @@
 <LM>w#w-wsj2371-001-p1s0W4</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj2371-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -91,7 +91,7 @@
 <LM>w#w-wsj2371-001-p1s0W5</LM>
 </w.rf>
 <form>zvolen</form>
-<tag lemma="zvolit" src="auto" recommended="1">VsYS---XX-APP--</tag>
+<tag lemma="zvolit" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj2371-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -274,7 +274,7 @@
 <LM>w#w-wsj2371-001-p1s1W1</LM>
 </w.rf>
 <form>Byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj2371-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -772,7 +772,7 @@
 <LM>w#w-wsj2371-001-p1s2W10</LM>
 </w.rf>
 <form>působil</form>
-<tag lemma="působit" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="působit" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj2371-001-p1s2W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1135,7 +1135,7 @@
 <LM>w#w-wsj2371-001-p1s3W12</LM>
 </w.rf>
 <form>odstoupil</form>
-<tag lemma="odstoupit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="odstoupit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2371-001-p1s3W13-Ta">
 <src.rf>tagger-a</src.rf>

@@ -171,7 +171,7 @@
 <LM>w#w-ln94208-123-p2s1w15</LM>
 </w.rf>
 <form>zemřel</form>
-<tag lemma="zemřít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zemřít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94208-123-p2s1w16">
 <src.rf>manual</src.rf>

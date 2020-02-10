@@ -1875,7 +1875,7 @@
 <LM>w#w-ln94205-96-p4s3w8</LM>
 </w.rf>
 <form>objela</form>
-<tag lemma="objet" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="objet" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94205-96-p4s3w9">
 <src.rf>manual</src.rf>
@@ -1934,7 +1934,7 @@
 <LM>w#w-ln94205-96-p4s3w15</LM>
 </w.rf>
 <form>komunikovala</form>
-<tag lemma="komunikovat_:T_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="komunikovat" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-ln94205-96-p4s3w16">
 <src.rf>manual</src.rf>
@@ -2632,7 +2632,7 @@
 <LM>w#w-ln94205-96-p5s3w13</LM>
 </w.rf>
 <form>vyjádřil</form>
-<tag lemma="vyjádřit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyjádřit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94205-96-p5s3w14">
 <src.rf>manual</src.rf>
@@ -2712,7 +2712,7 @@
 <LM>w#w-ln94205-96-p5s3w23</LM>
 </w.rf>
 <form>vypudili</form>
-<tag lemma="vypudit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vypudit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94205-96-p5s3w24">
 <src.rf>manual</src.rf>
@@ -3214,7 +3214,7 @@
 <LM>w#w-ln94205-96-p5s8w7</LM>
 </w.rf>
 <form>neuvedeny</form>
-<tag lemma="uvést" src="orig" selected="1">VsTP---XX-NP---</tag>
+<tag lemma="uvést" src="orig" selected="1">VsTP----X-NPP--</tag>
 </m>
 <m id="m-ln94205-96-p5s8w8">
 <src.rf>manual</src.rf>

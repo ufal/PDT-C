@@ -169,7 +169,7 @@
 <LM>w#w-lnd92254-004-p1s1w19</LM>
 </w.rf>
 <form>poznamenaly</form>
-<tag lemma="poznamenat_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="poznamenat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd92254-004-p1s1w20">
 <src.rf>manual</src.rf>

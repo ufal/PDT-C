@@ -886,7 +886,7 @@
 <LM>w#w-lnd92255-011-p3s6w20</LM>
 </w.rf>
 <form>prodány</form>
-<tag lemma="prodat_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="prodat" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd92255-011-p3s6w21">
 <src.rf>manual</src.rf>
@@ -936,7 +936,7 @@
 <LM>w#w-lnd92255-011-p3s7w3</LM>
 </w.rf>
 <form>potvrdil</form>
-<tag lemma="potvrdit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="potvrdit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-011-p3s7w4">
 <src.rf>manual</src.rf>
@@ -1024,7 +1024,7 @@
 <LM>w#w-lnd92255-011-p3s8w4</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-011-p3s8w5">
 <src.rf>manual</src.rf>
@@ -1169,7 +1169,7 @@
 <LM>w#w-lnd92255-011-p3s8w22</LM>
 </w.rf>
 <form>rozhodly</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-lnd92255-011-p3s8w23">
 <src.rf>manual</src.rf>
@@ -1291,7 +1291,7 @@
 <LM>w#w-lnd92255-011-p3s9w9</LM>
 </w.rf>
 <form>zpracovala</form>
-<tag lemma="zpracovat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zpracovat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-011-p3s9w10">
 <src.rf>manual</src.rf>

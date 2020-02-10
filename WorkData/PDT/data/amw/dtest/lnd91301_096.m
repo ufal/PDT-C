@@ -27,7 +27,7 @@
 <LM>w#w-lnd91301-096-p1s1w2</LM>
 </w.rf>
 <form>zatápělo</form>
-<tag lemma="zatápět-1_:T_^(rozdělávat_oheň_v_kamnech)" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zatápět-1_^(rozdělávat_oheň_v_kamnech)" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 </s>
 <s id="m-lnd91301-096-p2s1">
@@ -221,8 +221,8 @@
 </w.rf>
 <form>prohrála</form>
 <tag>
-<AM lemma="prohrát" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="prohrát_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="prohrát" src="orig">VpQW----R-AAP--</AM>
+<AM lemma="prohrát" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd91301-096-p3s2w5">
@@ -377,7 +377,7 @@
 <LM>w#w-lnd91301-096-p3s3w4</LM>
 </w.rf>
 <form>porazil</form>
-<tag lemma="porazit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="porazit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-096-p3s3w5">
 <src.rf>manual</src.rf>
@@ -612,7 +612,7 @@
 <LM>w#w-lnd91301-096-p3s3w33</LM>
 </w.rf>
 <form>zvítězil</form>
-<tag lemma="zvítězit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zvítězit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-096-p3s3w34">
 <src.rf>manual</src.rf>
@@ -839,7 +839,7 @@
 <LM>w#w-lnd91301-096-p3s5w2</LM>
 </w.rf>
 <form>vyřešila</form>
-<tag lemma="vyřešit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyřešit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-096-p3s5w3">
 <src.rf>manual</src.rf>
@@ -945,7 +945,7 @@
 <LM>w#w-lnd91301-096-p3s6w2</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd91301-096-p3s6w3">
 <src.rf>manual</src.rf>
@@ -1004,7 +1004,7 @@
 <LM>w#w-lnd91301-096-p3s6w9</LM>
 </w.rf>
 <form>požádala</form>
-<tag lemma="požádat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="požádat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-096-p3s6w10">
 <src.rf>manual</src.rf>
@@ -1184,7 +1184,7 @@
 <LM>w#w-lnd91301-096-p3s8w5</LM>
 </w.rf>
 <form>triumfovaly</form>
-<tag lemma="triumfovat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="triumfovat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd91301-096-p3s8w6">
 <src.rf>manual</src.rf>
@@ -1515,7 +1515,7 @@
 <LM>w#w-lnd91301-096-p3s9w4</LM>
 </w.rf>
 <form>nasazen</form>
-<tag lemma="nasadit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="nasadit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd91301-096-p3s9w5">
 <src.rf>manual</src.rf>

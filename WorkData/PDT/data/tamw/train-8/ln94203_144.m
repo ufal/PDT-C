@@ -740,7 +740,7 @@
 <LM>w#w-ln94203-144-p3s2w3</LM>
 </w.rf>
 <form>klesla</form>
-<tag lemma="klesnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="klesnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln94203-144-p3s2w4">
 <src.rf>manual</src.rf>
@@ -859,7 +859,7 @@
 <LM>w#w-ln94203-144-p3s3w10</LM>
 </w.rf>
 <form>nezměněna</form>
-<tag lemma="změnit_:W" src="orig" selected="1">VsQW---XX-NP---</tag>
+<tag lemma="změnit" src="orig" selected="1">VsQW----X-NPP--</tag>
 </m>
 <m id="m-ln94203-144-p3s3w11">
 <src.rf>manual</src.rf>

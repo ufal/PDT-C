@@ -88,7 +88,7 @@
 <LM>w#w-ln95047-019-p2s1Bw4</LM>
 </w.rf>
 <form>prohráli</form>
-<tag lemma="prohrát" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="prohrát" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95047-019-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -210,7 +210,7 @@
 <LM>w#w-ln95047-019-p3s1w4</LM>
 </w.rf>
 <form>nenastoupil</form>
-<tag lemma="nastoupit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="nastoupit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-ln95047-019-p3s1w5">
 <src.rf>manual</src.rf>
@@ -242,7 +242,7 @@
 <LM>w#w-ln95047-019-p3s1w8</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95047-019-p3s1w9">
 <src.rf>manual</src.rf>
@@ -391,7 +391,7 @@
 <LM>w#w-ln95047-019-p3s2w6</LM>
 </w.rf>
 <form>znamenal</form>
-<tag lemma="znamenat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="znamenat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95047-019-p3s2w7">
 <src.rf>manual</src.rf>
@@ -449,7 +449,7 @@
 <LM>w#w-ln95047-019-p3s3w2</LM>
 </w.rf>
 <form>vstřelil</form>
-<tag lemma="vstřelit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vstřelit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95047-019-p3s3w3">
 <src.rf>manual</src.rf>
@@ -513,7 +513,7 @@
 <LM>w#w-ln95047-019-p3s3w10</LM>
 </w.rf>
 <form>musel</form>
-<tag lemma="muset" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="muset" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95047-019-p3s3w11">
 <src.rf>manual</src.rf>
@@ -636,8 +636,8 @@
 </w.rf>
 <form>dali</form>
 <tag>
-<AM lemma="dát" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="dát_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+<AM lemma="dát" src="orig">VpMP----R-AAP--</AM>
+<AM lemma="dát" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95047-019-p3s4w5">
@@ -715,7 +715,7 @@
 <LM>w#w-ln95047-019-p3s5w2</LM>
 </w.rf>
 <form>sledovalo</form>
-<tag lemma="sledovat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="sledovat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95047-019-p3s5w3">
 <src.rf>manual</src.rf>

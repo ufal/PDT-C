@@ -35,7 +35,7 @@
 <LM>w#w-ln95049-121-p1s1w3</LM>
 </w.rf>
 <form>přicestoval</form>
-<tag lemma="přicestovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přicestovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-121-p1s1w4">
 <src.rf>manual</src.rf>
@@ -122,7 +122,7 @@
 <LM>w#w-ln95049-121-p2s1Bw6</LM>
 </w.rf>
 <form>přicestoval</form>
-<tag lemma="přicestovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přicestovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-121-p2s1Bw7">
 <src.rf>manual</src.rf>

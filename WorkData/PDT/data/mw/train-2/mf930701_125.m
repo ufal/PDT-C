@@ -27,7 +27,7 @@
 <LM>w#w-mf930701-125-p1s1w2</LM>
 </w.rf>
 <form>přidali</form>
-<tag lemma="přidat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přidat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930701-125-p1s1w3">
 <src.rf>manual</src.rf>
@@ -118,7 +118,7 @@
 <form>vit</form>
 <tag>
 <AM lemma="vit-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="vít" src="auto" recommended="1">VsYS---XX-AP---</AM>
+<AM lemma="vít" src="auto" recommended="1">VsYS----X-API--</AM>
 <AM lemma="vit-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -312,7 +312,7 @@
 <LM>w#w-mf930701-125-p2s2w4</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930701-125-p2s2w5">
 <src.rf>manual</src.rf>

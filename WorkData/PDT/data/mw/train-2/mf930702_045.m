@@ -157,7 +157,7 @@
 <LM>w#w-mf930702-045-p2s1w11</LM>
 </w.rf>
 <form>vrátila</form>
-<tag lemma="vrátit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vrátit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930702-045-p2s1w12">
 <src.rf>manual</src.rf>
@@ -198,8 +198,8 @@
 </w.rf>
 <form>řečeno</form>
 <tag>
-<AM lemma="říci" src="auto">VsNS---XX-AP---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+<AM lemma="říci" src="auto">VsNS----X-APP--</AM>
+<AM lemma="říci" src="manual" selected="1">VsNS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-mf930702-045-p2s1w17">
@@ -549,7 +549,7 @@
 <LM>w#w-mf930702-045-p2s2w21</LM>
 </w.rf>
 <form>vstoupila</form>
-<tag lemma="vstoupit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vstoupit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930702-045-p2s2w22">
 <src.rf>manual</src.rf>
@@ -581,7 +581,7 @@
 <LM>w#w-mf930702-045-p2s2w25</LM>
 </w.rf>
 <form>proměnila</form>
-<tag lemma="proměnit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="proměnit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930702-045-p2s2w26">
 <src.rf>manual</src.rf>
@@ -840,8 +840,8 @@
 </w.rf>
 <form>řečeno</form>
 <tag>
-<AM lemma="říci" src="auto">VsNS---XX-AP---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+<AM lemma="říci" src="auto">VsNS----X-APP--</AM>
+<AM lemma="říci" src="manual" selected="1">VsNS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-mf930702-045-p2s3w4">
@@ -915,8 +915,8 @@
 </w.rf>
 <form>zůstalo</form>
 <tag>
-<AM lemma="zůstat" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="zůstat_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="zůstat" src="orig">VpNS----R-AAP--</AM>
+<AM lemma="zůstat" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930702-045-p2s3w13">
@@ -1151,7 +1151,7 @@
 <LM>w#w-mf930702-045-p2s4w8</LM>
 </w.rf>
 <form>ocitly</form>
-<tag lemma="ocitnout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="ocitnout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-mf930702-045-p2s4w9">
 <src.rf>manual</src.rf>
@@ -1387,7 +1387,7 @@
 <LM>w#w-mf930702-045-p2s4w37</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930702-045-p2s4w38">
 <src.rf>manual</src.rf>

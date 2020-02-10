@@ -83,7 +83,7 @@
 <LM>w#w-mf920902-004-p1s1w9</LM>
 </w.rf>
 <form>přibyla</form>
-<tag lemma="přibýt" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="přibýt" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920902-004-p1s1w10">
 <src.rf>manual</src.rf>
@@ -197,7 +197,7 @@
 <LM>w#w-mf920902-004-p3s1w10</LM>
 </w.rf>
 <form>zalíbila</form>
-<tag lemma="zalíbit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zalíbit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920902-004-p3s1w11">
 <src.rf>manual</src.rf>
@@ -335,7 +335,7 @@
 <LM>w#w-mf920902-004-p5s1w13</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920902-004-p5s1w14">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <LM>w#w-mf920902-004-p5s1w16</LM>
 </w.rf>
 <form>zavražděn</form>
-<tag lemma="zavraždit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zavraždit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf920902-004-p5s1w17">
 <src.rf>manual</src.rf>

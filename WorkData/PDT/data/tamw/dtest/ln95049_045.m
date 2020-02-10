@@ -175,7 +175,7 @@
 <LM>w#w-ln95049-045-p2s1Bw11</LM>
 </w.rf>
 <form>vyhráli</form>
-<tag lemma="vyhrát" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyhrát" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95049-045-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -349,8 +349,8 @@
 </w.rf>
 <form>vedli</form>
 <tag>
-<AM lemma="vést" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="vést_:T" src="manual" selected="1">VpMP---XR-AA---</AM>
+<AM lemma="vést" src="auto">VpMP----R-AAI--</AM>
+<AM lemma="vést" src="manual" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln95049-045-p2s2w5">
@@ -415,7 +415,7 @@
 <LM>w#w-ln95049-045-p2s2w12</LM>
 </w.rf>
 <form>skončili</form>
-<tag lemma="skončit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="skončit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95049-045-p2s2w13">
 <src.rf>manual</src.rf>

@@ -57,7 +57,7 @@
 <LM>w#w-wsj0264-001-p1s0W5</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0264-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -84,7 +84,7 @@
 <LM>w#w-wsj0264-001-p1s0W8</LM>
 </w.rf>
 <form>dokončila</form>
-<tag lemma="dokončit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="dokončit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0264-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -662,7 +662,7 @@
 <LM>w#w-wsj0264-001-p1s1W11</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0264-001-p1s1W12-Ta">
 <src.rf>tagger-a</src.rf>

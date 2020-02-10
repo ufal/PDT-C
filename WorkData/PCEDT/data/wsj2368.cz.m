@@ -99,7 +99,7 @@
 <LM>w#w-wsj2368-001-p1s0W9</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj2368-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -357,7 +357,7 @@
 <LM>w#w-wsj2368-001-p1s0W29</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj2368-001-p1s0W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -493,7 +493,7 @@
 <LM>w#w-wsj2368-001-p1s0W40</LM>
 </w.rf>
 <form>nesplnili</form>
-<tag lemma="splnit" src="auto" recommended="1">VpMP---XR-NAP--</tag>
+<tag lemma="splnit" src="auto" recommended="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m-wsj2368-001-p1s0W41-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1337,7 +1337,7 @@
 <LM>w#w-wsj2368-001-p1s4W5</LM>
 </w.rf>
 <form>nosila</form>
-<tag lemma="nosit" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="nosit" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj2368-001-p1s4W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1437,7 +1437,7 @@
 <LM>w#w-wsj2368-001-p1s4W15</LM>
 </w.rf>
 <form>zasnoubila</form>
-<tag lemma="zasnoubit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="zasnoubit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2368-001-p1s4W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1453,7 +1453,7 @@
 <LM>w#w-wsj2368-001-p1s4W17</LM>
 </w.rf>
 <form>věděla</form>
-<tag lemma="vědět" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="vědět" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj2368-001-p1s4W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1688,7 +1688,7 @@
 <LM>w#w-wsj2368-001-p1s5W8</LM>
 </w.rf>
 <form>neměla</form>
-<tag lemma="mít" src="auto" recommended="1">VpQW---XR-NAI--</tag>
+<tag lemma="mít" src="auto" recommended="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-wsj2368-001-p1s5W9-Ta">
 <src.rf>tagger-a</src.rf>

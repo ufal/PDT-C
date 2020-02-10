@@ -43,7 +43,7 @@
 <LM>w#w-lnd91303-026-p1s1w4</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-026-p1s1w5">
 <src.rf>manual</src.rf>
@@ -51,7 +51,7 @@
 <LM>w#w-lnd91303-026-p1s1w5</LM>
 </w.rf>
 <form>utrženo</form>
-<tag lemma="utržit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="utržit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd91303-026-p1s1w6">
 <src.rf>manual</src.rf>
@@ -240,7 +240,7 @@
 <LM>w#w-lnd91303-026-p1s2w3</LM>
 </w.rf>
 <form>rozdělili</form>
-<tag lemma="rozdělit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="rozdělit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-026-p1s2w4">
 <src.rf>manual</src.rf>

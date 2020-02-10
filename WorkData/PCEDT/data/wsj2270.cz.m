@@ -92,7 +92,7 @@
 <LM>w#w-wsj2270-001-p1s1W8</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2270-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -119,7 +119,7 @@
 <LM>w#w-wsj2270-001-p1s1W11</LM>
 </w.rf>
 <form>objevila</form>
-<tag lemma="objevit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="objevit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2270-001-p1s1W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -404,7 +404,7 @@
 <LM>w#w-wsj2270-001-p1s1W30</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-wsj2270-001-p1s1W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -412,7 +412,7 @@
 <LM>w#w-wsj2270-001-p1s1W31</LM>
 </w.rf>
 <form>nalezeno</form>
-<tag lemma="naleznout" src="auto" recommended="1">VsNS---XX-API--</tag>
+<tag lemma="naleznout" src="auto" recommended="1">VsNS----X-API--</tag>
 </m>
 <m id="m-wsj2270-001-p1s1W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -460,7 +460,7 @@
 <LM>w#w-wsj2270-001-p1s2W3</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2270-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -487,7 +487,7 @@
 <LM>w#w-wsj2270-001-p1s2W6</LM>
 </w.rf>
 <form>neprovedla</form>
-<tag lemma="provést" src="auto" recommended="1">VpQW---XR-NAP--</tag>
+<tag lemma="provést" src="auto" recommended="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-wsj2270-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -617,7 +617,7 @@
 <LM>w#w-wsj2270-001-p1s2W17</LM>
 </w.rf>
 <form>vyvrtala</form>
-<tag lemma="vyvrtat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="vyvrtat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2270-001-p1s2W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1753,7 +1753,7 @@
 <LM>w#w-wsj2270-001-p1s6W4</LM>
 </w.rf>
 <form>vlastněny</form>
-<tag lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto" recommended="1">VsTP---XX-API--</tag>
+<tag lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto" recommended="1">VsTP----X-API--</tag>
 </m>
 <m id="m-wsj2270-001-p1s6W5-Ta">
 <src.rf>tagger-a</src.rf>

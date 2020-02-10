@@ -356,7 +356,7 @@
 <LM>w#w-cmpr9407-015-p4s1Aw3</LM>
 </w.rf>
 <form>členěna</form>
-<tag lemma="členit_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="členit" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-cmpr9407-015-p4s1Aw4">
 <src.rf>manual</src.rf>
@@ -649,7 +649,7 @@
 <LM>w#w-cmpr9407-015-p4s2w3</LM>
 </w.rf>
 <form>zaměřen</form>
-<tag lemma="zaměřit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zaměřit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-cmpr9407-015-p4s2w4">
 <src.rf>manual</src.rf>
@@ -893,8 +893,8 @@
 </w.rf>
 <form>převzalo</form>
 <tag>
-<AM lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="převzít_:W_^(př._od_někoho_věc,_zodpovědnost...)" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig">VpNS----R-AAP--</AM>
+<AM lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-015-p4s3w24">

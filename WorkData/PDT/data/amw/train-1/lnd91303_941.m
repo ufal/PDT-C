@@ -43,7 +43,7 @@
 <LM>w#w-lnd91303-941-p1s1Bw4</LM>
 </w.rf>
 <form>POTĚŠIL</form>
-<tag lemma="potěšit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="potěšit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-941-p1s1Bw5">
 <src.rf>manual</src.rf>
@@ -275,7 +275,7 @@
 <LM>w#w-lnd91303-941-p3s2w3</LM>
 </w.rf>
 <form>zaslal</form>
-<tag lemma="zaslat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zaslat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-941-p3s2w4">
 <src.rf>manual</src.rf>
@@ -382,7 +382,7 @@
 <LM>w#w-lnd91303-941-p3s2w16</LM>
 </w.rf>
 <form>prokázalo</form>
-<tag lemma="prokázat" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="prokázat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-941-p3s2w17">
 <src.rf>manual</src.rf>

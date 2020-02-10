@@ -75,7 +75,7 @@
 <LM>w#w-wsj0244-001-p1s0W5</LM>
 </w.rf>
 <form>činila</form>
-<tag lemma="činit" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="činit" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0244-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -139,7 +139,7 @@
 <LM>w#w-wsj0244-001-p1s0W11</LM>
 </w.rf>
 <form>zůstala</form>
-<tag lemma="zůstat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="zůstat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0244-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -193,7 +193,7 @@
 <LM>w#w-wsj0244-001-p1s0W15</LM>
 </w.rf>
 <form>nezměněna</form>
-<tag lemma="změnit" src="auto" recommended="1">VsQW---XX-NPP--</tag>
+<tag lemma="změnit" src="auto" recommended="1">VsQW----X-NPP--</tag>
 </m>
 <m id="m-wsj0244-001-p1s0W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -209,7 +209,7 @@
 <LM>w#w-wsj0244-001-p1s0W17</LM>
 </w.rf>
 <form>zvýšila</form>
-<tag lemma="zvýšit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="zvýšit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0244-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -608,7 +608,7 @@
 <LM>w#w-wsj0244-001-p1s1W16</LM>
 </w.rf>
 <form>oznámilo</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj0244-001-p1s1W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -731,7 +731,7 @@
 <LM>w#w-wsj0244-001-p1s2W6</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-wsj0244-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -870,7 +870,7 @@
 </w.rf>
 <form>sil</form>
 <tag>
-<AM lemma="sít_^(zasévat_[semena,...])" src="auto">VpYS---XR-AAI--</AM>
+<AM lemma="sít_^(zasévat_[semena,...])" src="auto">VpYS----R-AAI--</AM>
 <AM lemma="silo_^(pro_úschovu_např._krmiva;_raket)" src="auto">NNNP2-----A----</AM>
 <AM lemma="síla_^(fyzická,_vojenská;_moc)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="sílit_^(získávat_sílu)" src="auto">Vi-S---2--A-I--</AM>
@@ -1073,7 +1073,7 @@
 <LM>w#w-wsj0244-001-p1s3W12</LM>
 </w.rf>
 <form>snížil</form>
-<tag lemma="snížit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="snížit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0244-001-p1s3W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1290,7 +1290,7 @@
 <LM>w#w-wsj0244-001-p1s4W13</LM>
 </w.rf>
 <form>zvýšil</form>
-<tag lemma="zvýšit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="zvýšit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0244-001-p1s4W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1351,7 +1351,7 @@
 <LM>w#w-wsj0244-001-p1s4W19</LM>
 </w.rf>
 <form>uvedlo</form>
-<tag lemma="uvést" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj0244-001-p1s4W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1425,7 +1425,7 @@
 <LM>w#w-wsj0244-001-p1s5W4</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-wsj0244-001-p1s5W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1472,7 +1472,7 @@
 <LM>w#w-wsj0244-001-p1s5W8</LM>
 </w.rf>
 <form>zaměstnáno</form>
-<tag lemma="zaměstnat" src="auto" recommended="1">VsNS---XX-APP--</tag>
+<tag lemma="zaměstnat" src="auto" recommended="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-wsj0244-001-p1s5W9-Ta">
 <src.rf>tagger-a</src.rf>

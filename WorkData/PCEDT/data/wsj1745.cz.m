@@ -126,7 +126,7 @@
 <LM>w#w-wsj1745-001-p1s0W8</LM>
 </w.rf>
 <form>vzrostl</form>
-<tag lemma="vzrůst-1" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="vzrůst-1" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1745-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -311,7 +311,7 @@
 <LM>w#w-wsj1745-001-p1s1W3</LM>
 </w.rf>
 <form>udalo</form>
-<tag lemma="udat" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="udat" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj1745-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>

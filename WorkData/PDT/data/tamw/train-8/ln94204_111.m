@@ -127,7 +127,7 @@
 <LM>w#w-ln94204-111-p2s1Bw9</LM>
 </w.rf>
 <form>vstoupili</form>
-<tag lemma="vstoupit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vstoupit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94204-111-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -261,7 +261,7 @@
 <LM>w#w-ln94204-111-p2s1Bw25</LM>
 </w.rf>
 <form>nepřineslo</form>
-<tag lemma="přinést" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="přinést" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-ln94204-111-p2s1Bw26">
 <src.rf>manual</src.rf>

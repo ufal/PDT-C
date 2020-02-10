@@ -107,7 +107,7 @@
 <LM>w#w-lnd92258-082-p1s1w12</LM>
 </w.rf>
 <form>přehrazován</form>
-<tag lemma="přehrazovat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="přehrazovat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-lnd92258-082-p1s1w13">
 <src.rf>manual</src.rf>
@@ -149,7 +149,7 @@
 <LM>w#w-lnd92258-082-p1s2w4</LM>
 </w.rf>
 <form>odváděna</form>
-<tag lemma="odvádět_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="odvádět" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-lnd92258-082-p1s2w5">
 <src.rf>manual</src.rf>

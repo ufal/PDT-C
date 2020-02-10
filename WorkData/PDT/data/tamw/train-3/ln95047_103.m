@@ -170,7 +170,7 @@
 <LM>w#w-ln95047-103-p2s1Bw9</LM>
 </w.rf>
 <form>využilo</form>
-<tag lemma="využít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="využít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95047-103-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -363,7 +363,7 @@
 <LM>w#w-ln95047-103-p2s2w8</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95047-103-p2s2w9">
 <src.rf>manual</src.rf>
@@ -618,7 +618,7 @@
 <LM>w#w-ln95047-103-p3s2w2</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95047-103-p3s2w3">
 <src.rf>manual</src.rf>
@@ -1288,7 +1288,7 @@
 <LM>w#w-ln95047-103-p3s6w16</LM>
 </w.rf>
 <form>investovala</form>
-<tag lemma="investovat_:T_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="investovat" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-ln95047-103-p3s6w17">
 <src.rf>manual</src.rf>

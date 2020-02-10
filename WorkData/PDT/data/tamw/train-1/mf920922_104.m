@@ -27,7 +27,7 @@
 <LM>w#w-mf920922-104-p1s1w2</LM>
 </w.rf>
 <form>chtěl</form>
-<tag lemma="chtít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="chtít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920922-104-p1s1w3">
 <src.rf>manual</src.rf>

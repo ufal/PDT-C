@@ -93,7 +93,7 @@
 <LM>w#w-mf920924-013-p2s1w7</LM>
 </w.rf>
 <form>uskladnili</form>
-<tag lemma="uskladnit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="uskladnit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920924-013-p2s1w8">
 <src.rf>manual</src.rf>
@@ -635,7 +635,7 @@
 <LM>w#w-mf920924-013-p2s4w29</LM>
 </w.rf>
 <form>uskladněn</form>
-<tag lemma="uskladnit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="uskladnit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf920924-013-p2s4w30">
 <src.rf>manual</src.rf>

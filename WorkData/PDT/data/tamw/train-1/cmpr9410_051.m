@@ -109,7 +109,7 @@
 <LM>w#w-cmpr9410-051-p3s2w5</LM>
 </w.rf>
 <form>prozradil</form>
-<tag lemma="prozradit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prozradit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9410-051-p3s2w6">
 <src.rf>manual</src.rf>

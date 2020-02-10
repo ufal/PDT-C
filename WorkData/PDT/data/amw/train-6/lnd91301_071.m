@@ -169,7 +169,7 @@
 <LM>w#w-lnd91301-071-p4s1w11</LM>
 </w.rf>
 <form>vybuchla</form>
-<tag lemma="vybuchnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="vybuchnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-lnd91301-071-p4s1w12">
 <src.rf>manual</src.rf>
@@ -307,7 +307,7 @@
 <LM>w#w-lnd91301-071-p4s2w6</LM>
 </w.rf>
 <form>ostřeloval</form>
-<tag lemma="ostřelovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="ostřelovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd91301-071-p4s2w7">
 <src.rf>manual</src.rf>
@@ -464,7 +464,7 @@
 <LM>w#w-lnd91301-071-p4s3w4</LM>
 </w.rf>
 <form>nebyl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-lnd91301-071-p4s3w5">
 <src.rf>manual</src.rf>
@@ -504,7 +504,7 @@
 <LM>w#w-lnd91301-071-p4s3w9</LM>
 </w.rf>
 <form>zraněn</form>
-<tag lemma="zranit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zranit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd91301-071-p4s3w10">
 <src.rf>manual</src.rf>

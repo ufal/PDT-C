@@ -1845,7 +1845,7 @@
 <LM>w#w-cmpr9406-035-p9s1w6</LM>
 </w.rf>
 <form>zvýhodněni</form>
-<tag lemma="zvýhodnit" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="zvýhodnit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-cmpr9406-035-p9s1w7">
 <src.rf>manual</src.rf>

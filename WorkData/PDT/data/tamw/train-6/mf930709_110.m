@@ -19,7 +19,7 @@
 <LM>w#w-mf930709-110-p1s1w1</LM>
 </w.rf>
 <form>Našel</form>
-<tag lemma="najít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="najít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-110-p1s1w2">
 <src.rf>manual</src.rf>
@@ -43,7 +43,7 @@
 <LM>w#w-mf930709-110-p1s1w4</LM>
 </w.rf>
 <form>ztratil</form>
-<tag lemma="ztratit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="ztratit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-110-p1s1w5">
 <src.rf>manual</src.rf>
@@ -150,7 +150,7 @@
 <LM>w#w-mf930709-110-p2s1Bw5</LM>
 </w.rf>
 <form>vyjel</form>
-<tag lemma="vyjet" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyjet" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-110-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -243,7 +243,7 @@
 <LM>w#w-mf930709-110-p2s2w1</LM>
 </w.rf>
 <form>Začal</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-110-p2s2w2">
 <src.rf>manual</src.rf>
@@ -339,7 +339,7 @@
 <LM>w#w-mf930709-110-p2s2w13</LM>
 </w.rf>
 <form>vrátil</form>
-<tag lemma="vrátit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vrátit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-110-p2s2w14">
 <src.rf>manual</src.rf>
@@ -379,7 +379,7 @@
 <LM>w#w-mf930709-110-p2s2w18</LM>
 </w.rf>
 <form>zaparkoval</form>
-<tag lemma="zaparkovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zaparkovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-110-p2s2w19">
 <src.rf>manual</src.rf>
@@ -439,7 +439,7 @@
 <LM>w#w-mf930709-110-p2s2w25</LM>
 </w.rf>
 <form>nenašel</form>
-<tag lemma="najít" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="najít" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-mf930709-110-p2s2w26">
 <src.rf>manual</src.rf>

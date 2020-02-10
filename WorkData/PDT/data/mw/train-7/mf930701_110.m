@@ -171,7 +171,7 @@
 <form>vit</form>
 <tag>
 <AM lemma="vit-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="vít" src="auto" recommended="1">VsYS---XX-AP---</AM>
+<AM lemma="vít" src="auto" recommended="1">VsYS----X-API--</AM>
 <AM lemma="vit-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -1158,7 +1158,7 @@
 <LM>w#w-mf930701-110-p2s7w5</LM>
 </w.rf>
 <form>přihlášen</form>
-<tag lemma="přihlásit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="přihlásit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf930701-110-p2s7w6">
 <src.rf>manual</src.rf>
@@ -1612,7 +1612,7 @@
 <LM>w#w-mf930701-110-p2s10w22</LM>
 </w.rf>
 <form>připraven</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="připravit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf930701-110-p2s10w23">
 <src.rf>manual</src.rf>
@@ -1732,7 +1732,7 @@
 <LM>w#w-mf930701-110-p2s11w9</LM>
 </w.rf>
 <form>splnilo</form>
-<tag lemma="splnit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="splnit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-110-p2s11w10">
 <src.rf>manual</src.rf>
@@ -2009,7 +2009,7 @@
 <LM>w#w-mf930701-110-p2s12w17</LM>
 </w.rf>
 <form>seřazeni</form>
-<tag lemma="seřadit_:W" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="seřadit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-mf930701-110-p2s12w18">
 <src.rf>manual</src.rf>
@@ -2184,7 +2184,7 @@
 <LM>w#w-mf930701-110-p2s14w6</LM>
 </w.rf>
 <form>doběhli</form>
-<tag lemma="doběhnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="doběhnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-mf930701-110-p2s14w7">
 <src.rf>manual</src.rf>
@@ -2325,8 +2325,8 @@
 </w.rf>
 <form>dostal</form>
 <tag>
-<AM lemma="dostat" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="dostat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="dostat" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="dostat" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930701-110-p2s15w5">

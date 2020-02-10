@@ -176,7 +176,7 @@
 <LM>w#w-lnd92258-024-p3s2w6</LM>
 </w.rf>
 <form>legitimovala</form>
-<tag lemma="legitimovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="legitimovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92258-024-p3s2w7">
 <src.rf>manual</src.rf>
@@ -306,7 +306,7 @@
 <LM>w#w-lnd92258-024-p3s3w9</LM>
 </w.rf>
 <form>trvali</form>
-<tag lemma="trvat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="trvat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92258-024-p3s3w10">
 <src.rf>manual</src.rf>
@@ -420,7 +420,7 @@
 <LM>w#w-lnd92258-024-p4s1w1</LM>
 </w.rf>
 <form>Tvrdili</form>
-<tag lemma="tvrdit_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="tvrdit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92258-024-p4s1w2">
 <src.rf>manual</src.rf>
@@ -556,7 +556,7 @@
 <LM>w#w-lnd92258-024-p4s1w19</LM>
 </w.rf>
 <form>přesvědčili</form>
-<tag lemma="přesvědčit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přesvědčit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-024-p4s1w20">
 <src.rf>manual</src.rf>
@@ -670,7 +670,7 @@
 <LM>w#w-lnd92258-024-p4s2w10</LM>
 </w.rf>
 <form>sdělili</form>
-<tag lemma="sdělit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="sdělit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-024-p4s2w11">
 <src.rf>manual</src.rf>
@@ -1156,7 +1156,7 @@
 <LM>w#w-lnd92258-024-p4s5w4</LM>
 </w.rf>
 <form>mělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92258-024-p4s5w5">
 <src.rf>manual</src.rf>
@@ -1180,7 +1180,7 @@
 <LM>w#w-lnd92258-024-p4s5w7</LM>
 </w.rf>
 <form>uvedeno</form>
-<tag lemma="uvést" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="uvést" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92258-024-p4s5w8">
 <src.rf>manual</src.rf>
@@ -1204,7 +1204,7 @@
 <LM>w#w-lnd92258-024-p4s5w10</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92258-024-p4s5w11">
 <src.rf>manual</src.rf>

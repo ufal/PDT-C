@@ -99,7 +99,7 @@
 <LM>w#w-wsj0519-001-p1s0W6</LM>
 </w.rf>
 <form>vzrostl</form>
-<tag lemma="vzrůst-1" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="vzrůst-1" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0519-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -255,7 +255,7 @@
 <LM>w#w-wsj0519-001-p1s0W20</LM>
 </w.rf>
 <form>stoupl</form>
-<tag lemma="stoupnout" src="auto" recommended="1">VpYS---XR-AAP-1</tag>
+<tag lemma="stoupnout" src="auto" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-wsj0519-001-p1s0W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -303,7 +303,7 @@
 <LM>w#w-wsj0519-001-p1s0W25</LM>
 </w.rf>
 <form>uvedlo</form>
-<tag lemma="uvést" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj0519-001-p1s0W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -453,7 +453,7 @@
 <LM>w#w-wsj0519-001-p1s1W11</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj0519-001-p1s1W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -461,7 +461,7 @@
 <LM>w#w-wsj0519-001-p1s1W12</LM>
 </w.rf>
 <form>vypočítán</form>
-<tag lemma="vypočítat" src="auto" recommended="1">VsYS---XX-APP--</tag>
+<tag lemma="vypočítat" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj0519-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -604,7 +604,7 @@
 <LM>w#w-wsj0519-001-p1s2W3</LM>
 </w.rf>
 <form>vzrostla</form>
-<tag lemma="vzrůst-1" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="vzrůst-1" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0519-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -801,7 +801,7 @@
 <LM>w#w-wsj0519-001-p1s3W8</LM>
 </w.rf>
 <form>rostla</form>
-<tag lemma="růst-2" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="růst-2" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0519-001-p1s3W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -841,7 +841,7 @@
 <LM>w#w-wsj0519-001-p1s3W12</LM>
 </w.rf>
 <form>prohlásilo</form>
-<tag lemma="prohlásit" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="prohlásit" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj0519-001-p1s3W13-Ta">
 <src.rf>tagger-a</src.rf>

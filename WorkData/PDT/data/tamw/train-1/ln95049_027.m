@@ -598,7 +598,7 @@
 <LM>w#w-ln95049-027-p2s3w21</LM>
 </w.rf>
 <form>předložila</form>
-<tag lemma="předložit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="předložit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95049-027-p2s3w22">
 <src.rf>manual</src.rf>

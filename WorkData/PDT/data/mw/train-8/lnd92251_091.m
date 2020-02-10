@@ -274,8 +274,8 @@
 </w.rf>
 <form>začal</form>
 <tag>
-<AM lemma="začít-1_^(začnout)" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="začít-1_^(začnout)_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_^(začnout)" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92251-091-p2s3w7">
@@ -428,7 +428,7 @@
 <LM>w#w-lnd92251-091-p2s3w25</LM>
 </w.rf>
 <form>ozvaly</form>
-<tag lemma="ozvat" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="ozvat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-091-p2s3w26">
 <src.rf>manual</src.rf>
@@ -591,7 +591,7 @@
 <LM>w#w-lnd92251-091-p2s4w15</LM>
 </w.rf>
 <form>vytáhli</form>
-<tag lemma="vytáhnout" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vytáhnout" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-091-p2s4w16">
 <src.rf>manual</src.rf>

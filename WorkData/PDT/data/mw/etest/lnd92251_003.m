@@ -99,7 +99,7 @@
 <LM>w#w-lnd92251-003-p1s1w11</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92251-003-p1s1w12">
 <src.rf>manual</src.rf>

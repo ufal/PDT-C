@@ -106,7 +106,7 @@
 <LM>w#w-wsj0061-001-p1s0W9</LM>
 </w.rf>
 <form>otevřela</form>
-<tag lemma="otevřít" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="otevřít" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0061-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -265,7 +265,7 @@
 <LM>w#w-wsj0061-001-p1s1W9</LM>
 </w.rf>
 <form>oznámil</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0061-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>

@@ -999,7 +999,7 @@
 <LM>w#w-cmpr9406-018-p9s2w6</LM>
 </w.rf>
 <form>vybaveni</form>
-<tag lemma="vybavit_:W" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="vybavit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-cmpr9406-018-p9s2w7">
 <src.rf>manual</src.rf>

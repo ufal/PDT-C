@@ -43,7 +43,7 @@
 <LM>w#w-ln94202-42-p1s1w4</LM>
 </w.rf>
 <form>proběhl</form>
-<tag lemma="proběhnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="proběhnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln94202-42-p1s1w5">
 <src.rf>manual</src.rf>
@@ -221,7 +221,7 @@
 <LM>w#w-ln94202-42-p1s2w6</LM>
 </w.rf>
 <form>představil</form>
-<tag lemma="představit-1_:W_^(si_něco;_něco/někoho_někomu)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="představit-1_^(si_něco;_něco/někoho_někomu)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94202-42-p1s2w7">
 <src.rf>manual</src.rf>
@@ -293,7 +293,7 @@
 <LM>w#w-ln94202-42-p1s2w15</LM>
 </w.rf>
 <form>nechyběla</form>
-<tag lemma="chybět_:T_^(někde_něco_chybí)" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="chybět_^(někde_něco_chybí)" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-ln94202-42-p1s2w16">
 <src.rf>manual</src.rf>
@@ -590,7 +590,7 @@
 <form>kul</form>
 <tag>
 <AM lemma="kul-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="kout_^(např._železo)" src="auto" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="kout_^(např._železo)" src="auto" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="kulit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="kulit" src="auto">Vi-S---3--A-I-4</AM>
 <AM lemma="kul-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>

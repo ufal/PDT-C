@@ -537,7 +537,7 @@
 <LM>w#w-ln95044-048-p2s3w23</LM>
 </w.rf>
 <form>uzavřela</form>
-<tag lemma="uzavřít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="uzavřít" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95044-048-p2s3w24">
 <src.rf>manual</src.rf>
@@ -752,7 +752,7 @@
 <LM>w#w-ln95044-048-p3s2w4</LM>
 </w.rf>
 <form>stačil</form>
-<tag lemma="stačit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="stačit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95044-048-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1114,7 +1114,7 @@
 <LM>w#w-ln95044-048-p3s3w29</LM>
 </w.rf>
 <form>natočila</form>
-<tag lemma="natočit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="natočit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95044-048-p3s3w30">
 <src.rf>manual</src.rf>
@@ -1392,7 +1392,7 @@
 <LM>w#w-ln95044-048-p4s2w9</LM>
 </w.rf>
 <form>skryty</form>
-<tag lemma="skrýt" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="skrýt" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln95044-048-p4s2w10">
 <src.rf>manual</src.rf>
@@ -1424,7 +1424,7 @@
 <LM>w#w-ln95044-048-p4s2w13</LM>
 </w.rf>
 <form>neprodány</form>
-<tag lemma="prodat_:W" src="orig" selected="1">VsTP---XX-NP---</tag>
+<tag lemma="prodat" src="orig" selected="1">VsTP----X-NPP--</tag>
 </m>
 <m id="m-ln95044-048-p4s2w14">
 <src.rf>manual</src.rf>
@@ -1472,7 +1472,7 @@
 <LM>w#w-ln95044-048-p4s2w19</LM>
 </w.rf>
 <form>neosvětleny</form>
-<tag lemma="osvětlit" src="orig" selected="1">VsTP---XX-NP---</tag>
+<tag lemma="osvětlit" src="orig" selected="1">VsTP----X-NPP--</tag>
 </m>
 <m id="m-ln95044-048-p4s2w20">
 <src.rf>manual</src.rf>

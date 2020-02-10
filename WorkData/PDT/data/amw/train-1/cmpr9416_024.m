@@ -674,7 +674,7 @@
 <LM>w#w-cmpr9416-024-p6s2w10</LM>
 </w.rf>
 <form>připravil</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="připravit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9416-024-p6s2w11">
 <src.rf>manual</src.rf>
@@ -706,7 +706,7 @@
 <LM>w#w-cmpr9416-024-p6s2w14</LM>
 </w.rf>
 <form>získal</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9416-024-p6s2w15">
 <src.rf>manual</src.rf>
@@ -802,7 +802,7 @@
 <LM>w#w-cmpr9416-024-p6s2w26</LM>
 </w.rf>
 <form>shrnut</form>
-<tag lemma="shrnout" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="shrnout" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-cmpr9416-024-p6s2w27">
 <src.rf>manual</src.rf>

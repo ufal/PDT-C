@@ -429,7 +429,7 @@
 <LM>w#w-wsj0139-001-p1s1W36</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="mít" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0139-001-p1s1W37-Ta">
 <src.rf>tagger-a</src.rf>

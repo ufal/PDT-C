@@ -656,7 +656,7 @@
 <LM>w#w-ln94200-72-p2s3w4</LM>
 </w.rf>
 <form>předkládán</form>
-<tag lemma="předkládat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="předkládat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-ln94200-72-p2s3w5">
 <src.rf>manual</src.rf>
@@ -797,7 +797,7 @@
 <LM>w#w-ln94200-72-p2s4w3</LM>
 </w.rf>
 <form>sdělil</form>
-<tag lemma="sdělit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sdělit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-72-p2s4w4">
 <src.rf>manual</src.rf>
@@ -887,7 +887,7 @@
 <LM>w#w-ln94200-72-p2s5w4</LM>
 </w.rf>
 <form>dodal</form>
-<tag lemma="dodat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dodat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-72-p2s5w5">
 <src.rf>manual</src.rf>

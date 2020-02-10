@@ -70,7 +70,7 @@
 <LM>w#w-wsj2035-001-p1s0W4</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj2035-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -161,7 +161,7 @@
 <LM>w#w-wsj2035-001-p1s0W11</LM>
 </w.rf>
 <form>předloženy</form>
-<tag lemma="předložit" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="předložit" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj2035-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>

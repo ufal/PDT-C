@@ -200,7 +200,7 @@
 <LM>w#w-mf920924-044-p2s1w14</LM>
 </w.rf>
 <form>rozhodlo</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpNS---XR-AA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpNS----R-AAP-1</tag>
 </m>
 <m id="m-mf920924-044-p2s1w15">
 <src.rf>manual</src.rf>
@@ -458,7 +458,7 @@
 <LM>w#w-mf920924-044-p2s2w13</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf920924-044-p2s2w14">
 <src.rf>manual</src.rf>
@@ -498,7 +498,7 @@
 <LM>w#w-mf920924-044-p2s2w18</LM>
 </w.rf>
 <form>předvedeny</form>
-<tag lemma="předvést" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="předvést" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-mf920924-044-p2s2w19">
 <src.rf>manual</src.rf>
@@ -522,7 +522,7 @@
 <LM>w#w-mf920924-044-p2s2w21</LM>
 </w.rf>
 <form>obstál</form>
-<tag lemma="obstát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="obstát" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920924-044-p2s2w22">
 <src.rf>manual</src.rf>
@@ -920,7 +920,7 @@
 <LM>w#w-mf920924-044-p2s4w9</LM>
 </w.rf>
 <form>poskytla</form>
-<tag lemma="poskytnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="poskytnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-mf920924-044-p2s4w10">
 <src.rf>manual</src.rf>
@@ -1615,7 +1615,7 @@
 <LM>w#w-mf920924-044-p2s7w5</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf920924-044-p2s7w6">
 <src.rf>manual</src.rf>
@@ -1804,8 +1804,8 @@
 </w.rf>
 <form>dostal</form>
 <tag>
-<AM lemma="dostat" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="dostat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="dostat" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="dostat" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920924-044-p2s7w29">

@@ -638,7 +638,7 @@
 <LM>w#w-lnd94105-020-p1s5w22</LM>
 </w.rf>
 <form>oslaben</form>
-<tag lemma="oslabit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="oslabit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd94105-020-p1s5w23">
 <src.rf>manual</src.rf>
@@ -1157,7 +1157,7 @@
 <LM>w#w-lnd94105-020-p1s9w6</LM>
 </w.rf>
 <form>neexistoval</form>
-<tag lemma="existovat_:T" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="existovat" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-lnd94105-020-p1s9w7">
 <src.rf>manual</src.rf>
@@ -1255,7 +1255,7 @@
 <LM>w#w-lnd94105-020-p1s10w4</LM>
 </w.rf>
 <form>poskytla</form>
-<tag lemma="poskytnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="poskytnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-lnd94105-020-p1s10w5">
 <src.rf>manual</src.rf>
@@ -1447,7 +1447,7 @@
 <LM>w#w-lnd94105-020-p1s10w27</LM>
 </w.rf>
 <form>začali</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd94105-020-p1s10w28">
 <src.rf>manual</src.rf>

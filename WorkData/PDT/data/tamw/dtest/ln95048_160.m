@@ -101,7 +101,7 @@
 <LM>w#w-ln95048-160-p2s1Bw5</LM>
 </w.rf>
 <form>vznesla</form>
-<tag lemma="vznést" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vznést" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95048-160-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -307,7 +307,7 @@
 <LM>w#w-ln95048-160-p2s2w4</LM>
 </w.rf>
 <form>obviněny</form>
-<tag lemma="obvinit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="obvinit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln95048-160-p2s2w5">
 <src.rf>manual</src.rf>

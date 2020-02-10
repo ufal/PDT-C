@@ -1079,7 +1079,7 @@
 <LM>w#w-cmpr9406-051-p5s2w25</LM>
 </w.rf>
 <form>navštívil</form>
-<tag lemma="navštívit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="navštívit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9406-051-p5s2w26">
 <src.rf>manual</src.rf>

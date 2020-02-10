@@ -296,7 +296,7 @@
 <LM>w#w-ln94211-114-p2s1Bw22</LM>
 </w.rf>
 <form>vedl</form>
-<tag lemma="vést" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vést" src="auto" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94211-114-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -446,8 +446,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94211-114-p3s1w6">
@@ -832,7 +832,7 @@
 <LM>w#w-ln94211-114-p3s2w15</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94211-114-p3s2w16">
 <src.rf>manual</src.rf>
@@ -840,7 +840,7 @@
 <LM>w#w-ln94211-114-p3s2w16</LM>
 </w.rf>
 <form>potrestáni</form>
-<tag lemma="potrestat_:W" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="potrestat" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-ln94211-114-p3s2w17">
 <src.rf>manual</src.rf>

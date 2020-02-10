@@ -71,7 +71,7 @@
 <LM>w#w-wsj1969-001-p1s0W6</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1969-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -98,7 +98,7 @@
 <LM>w#w-wsj1969-001-p1s0W9</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1969-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -121,7 +121,7 @@
 <tag>
 <AM lemma="trh" src="auto">NNIS1-----A----</AM>
 <AM lemma="trh" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="trhnout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="trhnout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-wsj1969-001-p1s0W12-Ta">
@@ -194,7 +194,7 @@
 <AM lemma="jeden`1" src="auto">ClIS4----------</AM>
 <AM lemma="jeden`1" src="auto" recommended="1">ClYS1----------</AM>
 <AM lemma="jeden`1" src="auto">ClYS5----------</AM>
-<AM lemma="jíst" src="auto">VsYS---XX-API--</AM>
+<AM lemma="jíst" src="auto">VsYS----X-API--</AM>
 </tag>
 </m>
 <m id="m-wsj1969-001-p1s1W2-Ta">
@@ -481,7 +481,7 @@
 <LM>w#w-wsj1969-001-p1s1W22</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-wsj1969-001-p1s1W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -530,7 +530,7 @@
 <LM>w#w-wsj1969-001-p1s1W26</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1969-001-p1s1W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -666,7 +666,7 @@
 <LM>w#w-wsj1969-001-p1s2W7</LM>
 </w.rf>
 <form>napájen</form>
-<tag lemma="napájet" src="auto" recommended="1">VsYS---XX-API--</tag>
+<tag lemma="napájet" src="auto" recommended="1">VsYS----X-API--</tag>
 </m>
 <m id="m-wsj1969-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -890,7 +890,7 @@
 <LM>w#w-wsj1969-001-p1s2W22</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1969-001-p1s2W23-Ta">
 <src.rf>tagger-a</src.rf>

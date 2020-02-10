@@ -244,7 +244,7 @@
 <LM>w#w-ln94202-38-p2s2w10</LM>
 </w.rf>
 <form>vyšplhal</form>
-<tag lemma="vyšplhat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyšplhat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94202-38-p2s2w11">
 <src.rf>manual</src.rf>
@@ -361,7 +361,7 @@
 <LM>w#w-ln94202-38-p2s3w6</LM>
 </w.rf>
 <form>adaptovány</form>
-<tag lemma="adaptovat_:T_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="adaptovat" src="orig" selected="1">VsTP----X-APB--</tag>
 </m>
 <m id="m-ln94202-38-p2s3w7">
 <src.rf>manual</src.rf>

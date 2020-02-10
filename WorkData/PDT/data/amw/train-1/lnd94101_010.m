@@ -161,7 +161,7 @@
 <LM>w#w-lnd94101-010-p1s2w5</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd94101-010-p1s2w6">
 <src.rf>manual</src.rf>
@@ -217,7 +217,7 @@
 <LM>w#w-lnd94101-010-p1s2w12</LM>
 </w.rf>
 <form>prodlouženy</form>
-<tag lemma="prodloužit" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="prodloužit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd94101-010-p1s2w13">
 <src.rf>manual</src.rf>

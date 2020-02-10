@@ -181,7 +181,7 @@
 <LM>w#w-wsj1771-001-p1s2W8</LM>
 </w.rf>
 <form>zaplatilo</form>
-<tag lemma="zaplatit" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="zaplatit" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj1771-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -343,7 +343,7 @@
 <LM>w#w-wsj1771-001-p1s2W22</LM>
 </w.rf>
 <form>sestavila</form>
-<tag lemma="sestavit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="sestavit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1771-001-p1s2W23-Ta">
 <src.rf>tagger-a</src.rf>

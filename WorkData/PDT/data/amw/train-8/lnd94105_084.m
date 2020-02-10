@@ -114,7 +114,7 @@
 <LM>w#w-lnd94105-084-p1s1Cw7</LM>
 </w.rf>
 <form>navrhla</form>
-<tag lemma="navrhnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="navrhnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-lnd94105-084-p1s1Cw8">
 <src.rf>manual</src.rf>
@@ -215,7 +215,7 @@
 <LM>w#w-lnd94105-084-p1s2w4</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94105-084-p1s2w5">
 <src.rf>manual</src.rf>
@@ -231,7 +231,7 @@
 <LM>w#w-lnd94105-084-p1s2w6</LM>
 </w.rf>
 <form>zorganizován</form>
-<tag lemma="zorganizovat_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zorganizovat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd94105-084-p1s2w7">
 <src.rf>manual</src.rf>
@@ -319,7 +319,7 @@
 <LM>w#w-lnd94105-084-p1s2w17</LM>
 </w.rf>
 <form>skládal</form>
-<tag lemma="skládat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="skládat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94105-084-p1s2w18">
 <src.rf>manual</src.rf>
@@ -439,7 +439,7 @@
 <LM>w#w-lnd94105-084-p1s3w5</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94105-084-p1s3w6">
 <src.rf>manual</src.rf>
@@ -455,7 +455,7 @@
 <LM>w#w-lnd94105-084-p1s3w7</LM>
 </w.rf>
 <form>posunut</form>
-<tag lemma="posunout" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="posunout" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd94105-084-p1s3w8">
 <src.rf>manual</src.rf>
@@ -707,7 +707,7 @@
 <LM>w#w-lnd94105-084-p1s5Aw7</LM>
 </w.rf>
 <form>umožnilo</form>
-<tag lemma="umožnit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="umožnit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd94105-084-p1s5Aw8">
 <src.rf>manual</src.rf>
@@ -891,7 +891,7 @@
 <LM>w#w-lnd94105-084-p1s5Bw13</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94105-084-p1s5Bw14">
 <src.rf>manual</src.rf>
@@ -1013,7 +1013,7 @@
 <LM>w#w-lnd94105-084-p1s5Cw3</LM>
 </w.rf>
 <form>varovala</form>
-<tag lemma="varovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="varovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd94105-084-p1s5Cw4">
 <src.rf>manual</src.rf>

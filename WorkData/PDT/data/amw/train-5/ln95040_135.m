@@ -374,7 +374,7 @@
 <LM>w#w-ln95040-135-p3s3w8</LM>
 </w.rf>
 <form>odvezli</form>
-<tag lemma="odvézt" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="odvézt" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95040-135-p3s3w9">
 <src.rf>manual</src.rf>
@@ -438,7 +438,7 @@
 <LM>w#w-ln95040-135-p3s3w16</LM>
 </w.rf>
 <form>dopravili</form>
-<tag lemma="dopravit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="dopravit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95040-135-p3s3w17">
 <src.rf>manual</src.rf>
@@ -515,7 +515,7 @@
 <LM>w#w-ln95040-135-p3s4w5</LM>
 </w.rf>
 <form>chtěl</form>
-<tag lemma="chtít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="chtít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95040-135-p3s4w6">
 <src.rf>manual</src.rf>
@@ -651,7 +651,7 @@
 <LM>w#w-ln95040-135-p3s4w22</LM>
 </w.rf>
 <form>zmařila</form>
-<tag lemma="zmařit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zmařit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95040-135-p3s4w23">
 <src.rf>manual</src.rf>
@@ -701,7 +701,7 @@
 <LM>w#w-ln95040-135-p3s5w2</LM>
 </w.rf>
 <form>odcházela</form>
-<tag lemma="odcházet_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="odcházet" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95040-135-p3s5w3">
 <src.rf>manual</src.rf>
@@ -808,7 +808,7 @@
 <LM>w#w-ln95040-135-p3s5w15</LM>
 </w.rf>
 <form>křičel</form>
-<tag lemma="křičet" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="křičet" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95040-135-p3s5w16">
 <src.rf>manual</src.rf>
@@ -882,7 +882,7 @@
 <LM>w#w-ln95040-135-p3s6w4</LM>
 </w.rf>
 <form>museli</form>
-<tag lemma="muset" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="muset" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95040-135-p3s6w5">
 <src.rf>manual</src.rf>
@@ -978,7 +978,7 @@
 <LM>w#w-ln95040-135-p3s6w16</LM>
 </w.rf>
 <form>převezli</form>
-<tag lemma="převézt" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="převézt" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95040-135-p3s6w17">
 <src.rf>manual</src.rf>

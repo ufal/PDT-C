@@ -107,7 +107,7 @@
 <LM>w#w-wsj2083-001-p1s0W9</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2083-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -216,7 +216,7 @@
 <LM>w#w-wsj2083-001-p1s0W16</LM>
 </w.rf>
 <form>klesly</form>
-<tag lemma="klesnout" src="auto" recommended="1">VpTP---XR-AAP-1</tag>
+<tag lemma="klesnout" src="auto" recommended="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-wsj2083-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -499,7 +499,7 @@
 </w.rf>
 <form>poklesl</form>
 <tag>
-<AM lemma="poklesnout" src="auto" recommended="1">VpYS---XR-AAP-1</AM></tag>
+<AM lemma="poklesnout" src="auto" recommended="1">VpYS----R-AAP-1</AM></tag>
 <comment>
 </comment>
 <form_change>spell</form_change></m>
@@ -839,7 +839,7 @@
 <LM>w#w-wsj2083-001-p1s2W5</LM>
 </w.rf>
 <form>klesl</form>
-<tag lemma="klesnout" src="auto" recommended="1">VpYS---XR-AAP-1</tag>
+<tag lemma="klesnout" src="auto" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-wsj2083-001-p1s2W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1021,7 +1021,7 @@
 <LM>w#w-wsj2083-001-p1s3W5</LM>
 </w.rf>
 <form>převýšila</form>
-<tag lemma="převýšit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="převýšit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2083-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1134,7 +1134,7 @@
 <LM>w#w-wsj2083-001-p1s3W15</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2083-001-p1s3W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1334,7 +1334,7 @@
 <LM>w#w-wsj2083-001-p1s4W1</LM>
 </w.rf>
 <form>Řekl</form>
-<tag lemma="říci" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2083-001-p1s4W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1462,7 +1462,7 @@
 <LM>w#w-wsj2083-001-p1s4W9</LM>
 </w.rf>
 <form>klesly</form>
-<tag lemma="klesnout" src="auto" recommended="1">VpTP---XR-AAP-1</tag>
+<tag lemma="klesnout" src="auto" recommended="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-wsj2083-001-p1s4W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1929,7 +1929,7 @@
 <LM>w#w-wsj2083-001-p1s6W7</LM>
 </w.rf>
 <form>zaznamenalo</form>
-<tag lemma="zaznamenat" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="zaznamenat" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj2083-001-p1s6W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2342,7 +2342,7 @@
 <LM>w#w-wsj2083-001-p1s6W34</LM>
 </w.rf>
 <form>činil</form>
-<tag lemma="činit" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="činit" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj2083-001-p1s6W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2552,7 +2552,7 @@
 <LM>w#w-wsj2083-001-p1s7W8</LM>
 </w.rf>
 <form>zaznamenal</form>
-<tag lemma="zaznamenat" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="zaznamenat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2083-001-p1s7W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2618,7 +2618,7 @@
 <tag>
 <AM lemma="pokles" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="pokles" src="auto" selected="1">NNIS4-----A----</AM>
-<AM lemma="poklesnout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="poklesnout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-wsj2083-001-p1s7W11-Ta">
@@ -2877,7 +2877,7 @@
 <LM>w#w-wsj2083-001-p1s8W9</LM>
 </w.rf>
 <form>vzrostl</form>
-<tag lemma="vzrůst-1" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="vzrůst-1" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2083-001-p1s8W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3148,7 +3148,7 @@
 <LM>w#w-wsj2083-001-p1s9W9</LM>
 </w.rf>
 <form>poklesla</form>
-<tag lemma="poklesnout" src="auto" recommended="1">VpQW---XR-AAP-1</tag>
+<tag lemma="poklesnout" src="auto" recommended="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-wsj2083-001-p1s9W10-Ta">
 <src.rf>tagger-a</src.rf>

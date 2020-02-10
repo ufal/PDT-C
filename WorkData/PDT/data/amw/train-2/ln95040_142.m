@@ -408,7 +408,7 @@
 <LM>w#w-ln95040-142-p3s2w20</LM>
 </w.rf>
 <form>změnila</form>
-<tag lemma="změnit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="změnit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95040-142-p3s2w21">
 <src.rf>manual</src.rf>
@@ -469,7 +469,7 @@
 <LM>w#w-ln95040-142-p3s3w3</LM>
 </w.rf>
 <form>sdělil</form>
-<tag lemma="sdělit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sdělit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-142-p3s3w4">
 <src.rf>manual</src.rf>
@@ -777,7 +777,7 @@
 <LM>w#w-ln95040-142-p4s1w25</LM>
 </w.rf>
 <form>nestarala</form>
-<tag lemma="starat_:T_^(se)" src="auto" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="starat_^(se)" src="auto" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-ln95040-142-p4s1w26">
 <src.rf>manual</src.rf>
@@ -835,7 +835,7 @@
 <LM>w#w-ln95040-142-p4s2w6</LM>
 </w.rf>
 <form>došlo</form>
-<tag lemma="dojít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="dojít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-142-p4s2w7">
 <src.rf>manual</src.rf>
@@ -877,7 +877,7 @@
 <LM>w#w-ln95040-142-p4s3w2</LM>
 </w.rf>
 <form>stanovil</form>
-<tag lemma="stanovit_:W_^(určit)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="stanovit_^(určit)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-142-p4s3w3">
 <src.rf>manual</src.rf>
@@ -1437,7 +1437,7 @@
 <LM>w#w-ln95040-142-p5s2w10</LM>
 </w.rf>
 <form>posuzována</form>
-<tag lemma="posuzovat_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="posuzovat" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-ln95040-142-p5s2w11">
 <src.rf>manual</src.rf>
@@ -2182,7 +2182,7 @@
 <LM>w#w-ln95040-142-p7s1w9</LM>
 </w.rf>
 <form>dostal</form>
-<tag lemma="dostat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dostat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-142-p7s1w10">
 <src.rf>manual</src.rf>
@@ -2304,7 +2304,7 @@
 <LM>w#w-ln95040-142-p7s2w4</LM>
 </w.rf>
 <form>uvalila</form>
-<tag lemma="uvalit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="uvalit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95040-142-p7s2w5">
 <src.rf>manual</src.rf>

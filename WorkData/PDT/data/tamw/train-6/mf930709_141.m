@@ -178,7 +178,7 @@
 <LM>w#w-mf930709-141-p3s1w10</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-141-p3s1w11">
 <src.rf>manual</src.rf>
@@ -771,7 +771,7 @@
 <LM>w#w-mf930709-141-p4s2w4</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930709-141-p4s2w5">
 <src.rf>manual</src.rf>
@@ -779,7 +779,7 @@
 <LM>w#w-mf930709-141-p4s2w5</LM>
 </w.rf>
 <form>přemístěno</form>
-<tag lemma="přemístit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="přemístit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf930709-141-p4s2w6">
 <src.rf>manual</src.rf>
@@ -859,7 +859,7 @@
 <LM>w#w-mf930709-141-p4s2w15</LM>
 </w.rf>
 <form>chráněno</form>
-<tag lemma="chránit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="chránit" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-mf930709-141-p4s2w16">
 <src.rf>manual</src.rf>
@@ -901,7 +901,7 @@
 <LM>w#w-mf930709-141-p4s3w2</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930709-141-p4s3w3">
 <src.rf>manual</src.rf>
@@ -949,7 +949,7 @@
 <LM>w#w-mf930709-141-p4s3w8</LM>
 </w.rf>
 <form>začalo</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-141-p4s3w9">
 <src.rf>manual</src.rf>
@@ -1377,7 +1377,7 @@
 <LM>w#w-mf930709-141-p5s3w10</LM>
 </w.rf>
 <form>ušetřili</form>
-<tag lemma="ušetřit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="ušetřit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930709-141-p5s3w11">
 <src.rf>manual</src.rf>
@@ -1443,7 +1443,7 @@
 <LM>w#w-mf930709-141-p6s1w6</LM>
 </w.rf>
 <form>paralyzovalo</form>
-<tag lemma="paralyzovat_:T_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="paralyzovat" src="orig" selected="1">VpNS----R-AAB--</tag>
 </m>
 <m id="m-mf930709-141-p6s1w7">
 <src.rf>manual</src.rf>
@@ -1672,7 +1672,7 @@
 <LM>w#w-mf930709-141-p6s2w14</LM>
 </w.rf>
 <form>dopadlo</form>
-<tag lemma="dopadnout_:W" src="orig" selected="1">VpNS---XR-AA--1</tag>
+<tag lemma="dopadnout" src="orig" selected="1">VpNS----R-AAP-1</tag>
 </m>
 <m id="m-mf930709-141-p6s2w15">
 <src.rf>manual</src.rf>

@@ -602,7 +602,7 @@
 <LM>w#w-mf920923-049-p4s2w15</LM>
 </w.rf>
 <form>dali</form>
-<tag lemma="dát" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="dát" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920923-049-p4s2w16">
 <src.rf>manual</src.rf>
@@ -755,7 +755,7 @@
 <LM>w#w-mf920923-049-p4s4w1</LM>
 </w.rf>
 <form>Vyvinuli</form>
-<tag lemma="vyvinout" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyvinout" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920923-049-p4s4w2">
 <src.rf>manual</src.rf>
@@ -821,7 +821,7 @@
 <LM>w#w-mf920923-049-p4s5w3</LM>
 </w.rf>
 <form>ukázaly</form>
-<tag lemma="ukázat" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="ukázat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf920923-049-p4s5w4">
 <src.rf>manual</src.rf>
@@ -991,7 +991,7 @@
 <LM>w#w-mf920923-049-p4s6w7</LM>
 </w.rf>
 <form>přirovnal</form>
-<tag lemma="přirovnat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přirovnat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-049-p4s6w8">
 <src.rf>manual</src.rf>
@@ -1063,7 +1063,7 @@
 <LM>w#w-mf920923-049-p4s6w16</LM>
 </w.rf>
 <form>nahradily</form>
-<tag lemma="nahradit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="nahradit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf920923-049-p4s6w17">
 <src.rf>manual</src.rf>

@@ -69,7 +69,7 @@
 <LM>w#w-lnd92258-092-p2s1w5</LM>
 </w.rf>
 <form>vypukla</form>
-<tag lemma="vypuknout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="vypuknout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-lnd92258-092-p2s1w6">
 <src.rf>manual</src.rf>
@@ -121,7 +121,7 @@
 <LM>w#w-lnd92258-092-p2s1w11</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92258-092-p2s1w12">
 <src.rf>manual</src.rf>
@@ -211,7 +211,7 @@
 <LM>w#w-lnd92258-092-p2s2w4</LM>
 </w.rf>
 <form>nezajímaly</form>
-<tag lemma="zajímat_:T" src="orig" selected="1">VpTP---XR-NA---</tag>
+<tag lemma="zajímat" src="orig" selected="1">VpTP----R-NAI--</tag>
 </m>
 <m id="m-lnd92258-092-p2s2w5">
 <src.rf>manual</src.rf>
@@ -261,7 +261,7 @@
 <LM>w#w-lnd92258-092-p2s3w5</LM>
 </w.rf>
 <form>ukázalo</form>
-<tag lemma="ukázat" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="ukázat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-092-p2s3w6">
 <src.rf>manual</src.rf>

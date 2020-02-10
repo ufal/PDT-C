@@ -114,7 +114,7 @@
 <LM>w#w-wsj0536-001-p1s0W9</LM>
 </w.rf>
 <form>poskytla</form>
-<tag lemma="poskytnout" src="auto" recommended="1">VpQW---XR-AAP-1</tag>
+<tag lemma="poskytnout" src="auto" recommended="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-wsj0536-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>

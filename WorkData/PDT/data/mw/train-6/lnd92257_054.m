@@ -49,8 +49,8 @@
 </w.rf>
 <form>ODSOUZEN</form>
 <tag>
-<AM lemma="odsoudit" src="orig">VsYS---XX-AP---</AM>
-<AM lemma="odsoudit_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+<AM lemma="odsoudit" src="orig">VsYS----X-APP--</AM>
+<AM lemma="odsoudit" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
 </s>
@@ -131,8 +131,8 @@
 </w.rf>
 <form>vynesl</form>
 <tag>
-<AM lemma="vynést" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="vynést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="vynést" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="vynést" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92257-054-p3s2w5">
@@ -327,7 +327,7 @@
 <LM>w#w-lnd92257-054-p3s3w2</LM>
 </w.rf>
 <form>žádala</form>
-<tag lemma="žádat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="žádat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92257-054-p3s3w3">
 <src.rf>manual</src.rf>
@@ -473,7 +473,7 @@
 <LM>w#w-lnd92257-054-p3s4w5</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92257-054-p3s4w6">
 <src.rf>manual</src.rf>
@@ -481,7 +481,7 @@
 <LM>w#w-lnd92257-054-p3s4w6</LM>
 </w.rf>
 <form>motivován</form>
-<tag lemma="motivovat_:T_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="motivovat" src="orig" selected="1">VsYS----X-APB--</tag>
 </m>
 <m id="m-lnd92257-054-p3s4w7">
 <src.rf>manual</src.rf>
@@ -596,7 +596,7 @@
 <LM>w#w-lnd92257-054-p3s4w20</LM>
 </w.rf>
 <form>netroufl</form>
-<tag lemma="troufnout_:W" src="orig" selected="1">VpYS---XR-NA--1</tag>
+<tag lemma="troufnout" src="orig" selected="1">VpYS----R-NAP-1</tag>
 </m>
 <m id="m-lnd92257-054-p3s4w21">
 <src.rf>manual</src.rf>
@@ -758,7 +758,7 @@
 <LM>w#w-lnd92257-054-p3s5w9</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92257-054-p3s5w10">
 <src.rf>manual</src.rf>

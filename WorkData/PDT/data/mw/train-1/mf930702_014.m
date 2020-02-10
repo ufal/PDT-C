@@ -193,7 +193,7 @@
 <LM>w#w-mf930702-014-p2s1w15</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930702-014-p2s1w16">
 <src.rf>manual</src.rf>
@@ -210,8 +210,8 @@
 </w.rf>
 <form>otevřeno</form>
 <tag>
-<AM lemma="otevřít" src="orig">VsNS---XX-AP---</AM>
-<AM lemma="otevřít_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+<AM lemma="otevřít" src="orig">VsNS----X-APP--</AM>
+<AM lemma="otevřít" src="manual" selected="1">VsNS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-mf930702-014-p2s1w18">
@@ -302,7 +302,7 @@
 <LM>w#w-mf930702-014-p2s2w6</LM>
 </w.rf>
 <form>postavili</form>
-<tag lemma="postavit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="postavit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930702-014-p2s2w7">
 <src.rf>manual</src.rf>
@@ -540,8 +540,8 @@
 </w.rf>
 <form>uvedli</form>
 <tag>
-<AM lemma="uvést" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="uvést_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+<AM lemma="uvést" src="orig">VpMP----R-AAP--</AM>
+<AM lemma="uvést" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930702-014-p2s3w9">

@@ -135,7 +135,7 @@
 <LM>w#w-ln94202-65-p2s1Bw9</LM>
 </w.rf>
 <form>odpovídali</form>
-<tag lemma="odpovídat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="odpovídat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94202-65-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -303,7 +303,7 @@
 <LM>w#w-ln94202-65-p2s1Bw30</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94202-65-p2s1Bw31">
 <src.rf>manual</src.rf>
@@ -351,7 +351,7 @@
 <LM>w#w-ln94202-65-p2s1Bw36</LM>
 </w.rf>
 <form>prohlášeno</form>
-<tag lemma="prohlásit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94202-65-p2s1Bw37">
 <src.rf>manual</src.rf>
@@ -409,7 +409,7 @@
 <LM>w#w-ln94202-65-p2s2w4</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94202-65-p2s2w5">
 <src.rf>manual</src.rf>
@@ -457,7 +457,7 @@
 <LM>w#w-ln94202-65-p2s2w10</LM>
 </w.rf>
 <form>využilo</form>
-<tag lemma="využít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="využít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94202-65-p2s2w11">
 <src.rf>manual</src.rf>
@@ -523,7 +523,7 @@
 <LM>w#w-ln94202-65-p2s3w3</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94202-65-p2s3w4">
 <src.rf>manual</src.rf>
@@ -555,7 +555,7 @@
 <LM>w#w-ln94202-65-p2s3w7</LM>
 </w.rf>
 <form>muselo</form>
-<tag lemma="muset" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="muset" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94202-65-p2s3w8">
 <src.rf>manual</src.rf>
@@ -684,7 +684,7 @@
 <LM>w#w-ln94202-65-p2s4w2</LM>
 </w.rf>
 <form>prosadila</form>
-<tag lemma="prosadit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="prosadit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94202-65-p2s4w3">
 <src.rf>manual</src.rf>

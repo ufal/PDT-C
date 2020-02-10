@@ -69,7 +69,7 @@
 <LM>w#w-mf920902-029-p1s1Bw5</LM>
 </w.rf>
 <form>zazněl</form>
-<tag lemma="zaznít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zaznít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-029-p1s1Bw6">
 <src.rf>manual</src.rf>
@@ -287,7 +287,7 @@
 <LM>w#w-mf920902-029-p1s2w11</LM>
 </w.rf>
 <form>přijala</form>
-<tag lemma="přijmout" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="přijmout" src="auto" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920902-029-p1s2w12">
 <src.rf>manual</src.rf>
@@ -335,7 +335,7 @@
 <LM>w#w-mf920902-029-p1s2w17</LM>
 </w.rf>
 <form>jala</form>
-<tag lemma="jmout" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="jmout" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-mf920902-029-p1s2w18">
 <src.rf>manual</src.rf>
@@ -401,7 +401,7 @@
 <LM>w#w-mf920902-029-p1s3w4</LM>
 </w.rf>
 <form>neučinila</form>
-<tag lemma="učinit_:W" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="učinit" src="orig" selected="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-mf920902-029-p1s3w5">
 <src.rf>manual</src.rf>
@@ -709,7 +709,7 @@
 <LM>w#w-mf920902-029-p1s5w20</LM>
 </w.rf>
 <form>dopracovali</form>
-<tag lemma="dopracovat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="dopracovat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920902-029-p1s5w21">
 <src.rf>manual</src.rf>
@@ -971,7 +971,7 @@
 <LM>w#w-mf920902-029-p1s6w10</LM>
 </w.rf>
 <form>zaskočeni</form>
-<tag lemma="zaskočit_:W" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="zaskočit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-mf920902-029-p1s6w11">
 <src.rf>manual</src.rf>
@@ -1174,7 +1174,7 @@
 <LM>w#w-mf920902-029-p1s8w14</LM>
 </w.rf>
 <form>probudil</form>
-<tag lemma="probudit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="probudit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-029-p1s8w15">
 <src.rf>manual</src.rf>
@@ -1509,7 +1509,7 @@
 <LM>w#w-mf920902-029-p1s10w3</LM>
 </w.rf>
 <form>vyloučeno</form>
-<tag lemma="vyloučit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="vyloučit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf920902-029-p1s10w4">
 <src.rf>manual</src.rf>

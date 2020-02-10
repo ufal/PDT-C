@@ -556,7 +556,7 @@
 <LM>w#w-ln94208-8-p2s3w9</LM>
 </w.rf>
 <form>poskytla</form>
-<tag lemma="poskytnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="poskytnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln94208-8-p2s3w10">
 <src.rf>manual</src.rf>
@@ -668,7 +668,7 @@
 <LM>w#w-ln94208-8-p3s1w5</LM>
 </w.rf>
 <form>uvedli</form>
-<tag lemma="uvést" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94208-8-p3s1w6">
 <src.rf>manual</src.rf>
@@ -2584,7 +2584,7 @@
 <LM>w#w-ln94208-8-p5s1w5</LM>
 </w.rf>
 <form>zlobilo</form>
-<tag lemma="zlobit_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zlobit" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94208-8-p5s1w6">
 <src.rf>manual</src.rf>
@@ -2688,7 +2688,7 @@
 <LM>w#w-ln94208-8-p5s1w18</LM>
 </w.rf>
 <form>vyjeli</form>
-<tag lemma="vyjet" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyjet" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94208-8-p5s1w19">
 <src.rf>manual</src.rf>
@@ -2728,7 +2728,7 @@
 <LM>w#w-ln94208-8-p5s1w23</LM>
 </w.rf>
 <form>neměl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-ln94208-8-p5s1w24">
 <src.rf>manual</src.rf>
@@ -2736,7 +2736,7 @@
 <LM>w#w-ln94208-8-p5s1w24</LM>
 </w.rf>
 <form>najeto</form>
-<tag lemma="najet" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="najet" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94208-8-p5s1w25">
 <src.rf>manual</src.rf>

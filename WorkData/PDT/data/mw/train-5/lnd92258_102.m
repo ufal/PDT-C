@@ -157,7 +157,7 @@
 <LM>w#w-lnd92258-102-p3s1w5</LM>
 </w.rf>
 <form>vyjmenoval</form>
-<tag lemma="vyjmenovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyjmenovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-lnd92258-102-p3s1w6">
 <src.rf>manual</src.rf>
@@ -521,7 +521,7 @@
 <LM>w#w-lnd92258-102-p3s3w19</LM>
 </w.rf>
 <form>dovršila</form>
-<tag lemma="dovršit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="dovršit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-102-p3s3w20">
 <src.rf>manual</src.rf>
@@ -1497,7 +1497,7 @@
 <LM>w#w-lnd92258-102-p5s2w2</LM>
 </w.rf>
 <form>zklamán</form>
-<tag lemma="zklamat" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zklamat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd92258-102-p5s2w3">
 <src.rf>manual</src.rf>
@@ -1661,7 +1661,7 @@
 <LM>w#w-lnd92258-102-p5s4w6</LM>
 </w.rf>
 <form>formuloval</form>
-<tag lemma="formulovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="formulovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-lnd92258-102-p5s4w7">
 <src.rf>manual</src.rf>
@@ -1735,7 +1735,7 @@
 <LM>w#w-lnd92258-102-p5s5w5</LM>
 </w.rf>
 <form>odmítl</form>
-<tag lemma="odmítnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="odmítnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd92258-102-p5s5w6">
 <src.rf>manual</src.rf>
@@ -1849,7 +1849,7 @@
 <LM>w#w-lnd92258-102-p6s1w4</LM>
 </w.rf>
 <form>pochopil</form>
-<tag lemma="pochopit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="pochopit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-102-p6s1w5">
 <src.rf>manual</src.rf>
@@ -1905,7 +1905,7 @@
 <LM>w#w-lnd92258-102-p6s1w11</LM>
 </w.rf>
 <form>ztratil</form>
-<tag lemma="ztratit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="ztratit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-102-p6s1w12">
 <src.rf>manual</src.rf>
@@ -1929,7 +1929,7 @@
 <LM>w#w-lnd92258-102-p6s1w15</LM>
 </w.rf>
 <form>nepodporoval</form>
-<tag lemma="podporovat_:T" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="podporovat" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-lnd92258-102-p6s1w16">
 <src.rf>manual</src.rf>

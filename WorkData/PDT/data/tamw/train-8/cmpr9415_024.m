@@ -773,7 +773,7 @@
 <LM>w#w-cmpr9415-024-p6s3w4</LM>
 </w.rf>
 <form>navázala</form>
-<tag lemma="navázat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="navázat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-cmpr9415-024-p6s3w5">
 <src.rf>manual</src.rf>

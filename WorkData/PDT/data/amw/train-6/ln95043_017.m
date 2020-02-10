@@ -105,7 +105,7 @@
 <LM>w#w-ln95043-017-p1s1w11</LM>
 </w.rf>
 <form>pózoval</form>
-<tag lemma="pózovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="pózovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95043-017-p1s1w12">
 <src.rf>manual</src.rf>

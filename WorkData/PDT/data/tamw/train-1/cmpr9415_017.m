@@ -35,7 +35,7 @@
 <LM>w#w-cmpr9415-017-p2s1w3</LM>
 </w.rf>
 <form>CHTĚLI</form>
-<tag lemma="chtít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="chtít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-cmpr9415-017-p2s1w4">
 <src.rf>manual</src.rf>
@@ -411,7 +411,7 @@
 <LM>w#w-cmpr9415-017-p6s1w9</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9415-017-p6s1w10">
 <src.rf>manual</src.rf>
@@ -593,7 +593,7 @@
 <LM>w#w-cmpr9415-017-p6s1w32</LM>
 </w.rf>
 <form>zveřejnil</form>
-<tag lemma="zveřejnit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zveřejnit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9415-017-p6s1w33">
 <src.rf>manual</src.rf>
@@ -2333,7 +2333,7 @@
 <LM>w#w-cmpr9415-017-p20s1w20</LM>
 </w.rf>
 <form>uznány</form>
-<tag lemma="uznat_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="uznat" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-cmpr9415-017-p20s1w21">
 <src.rf>manual</src.rf>

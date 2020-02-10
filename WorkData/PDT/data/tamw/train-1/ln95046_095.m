@@ -361,7 +361,7 @@
 <LM>w#w-ln95046-095-p2s2w5</LM>
 </w.rf>
 <form>zaslali</form>
-<tag lemma="zaslat" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zaslat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95046-095-p2s2w6">
 <src.rf>manual</src.rf>
@@ -619,7 +619,7 @@
 <LM>w#w-ln95046-095-p3s1w24</LM>
 </w.rf>
 <form>rušena</form>
-<tag lemma="rušit_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="rušit" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-ln95046-095-p3s1w25">
 <src.rf>manual</src.rf>
@@ -1370,7 +1370,7 @@
 <LM>w#w-ln95046-095-p3s7w16</LM>
 </w.rf>
 <form>udržela</form>
-<tag lemma="udržet" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="udržet" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95046-095-p3s7w17">
 <src.rf>manual</src.rf>

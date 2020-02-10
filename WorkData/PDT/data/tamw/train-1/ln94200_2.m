@@ -551,7 +551,7 @@
 <LM>w#w-ln94200-2-p2s3w26</LM>
 </w.rf>
 <form>připravena</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="připravit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94200-2-p2s3w27">
 <src.rf>manual</src.rf>

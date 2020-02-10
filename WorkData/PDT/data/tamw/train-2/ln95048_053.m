@@ -125,7 +125,7 @@
 <LM>w#w-ln95048-053-p2s1w7</LM>
 </w.rf>
 <form>probrali</form>
-<tag lemma="probrat" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="probrat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95048-053-p2s1w8">
 <src.rf>manual</src.rf>
@@ -529,7 +529,7 @@
 <LM>w#w-ln95048-053-p2s4w9</LM>
 </w.rf>
 <form>omezena</form>
-<tag lemma="omezit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="omezit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln95048-053-p2s4w10">
 <src.rf>manual</src.rf>
@@ -1191,7 +1191,7 @@
 <LM>w#w-ln95048-053-p3s1w56</LM>
 </w.rf>
 <form>omezen</form>
-<tag lemma="omezit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="omezit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95048-053-p3s1w57">
 <src.rf>manual</src.rf>
@@ -1331,7 +1331,7 @@
 <form>vytempován</form>
 <tag>
 <AM lemma="vytempovát" src="orig">VsYS---XX-AP---</AM>
-<AM lemma="vytempovat_:W" src="auto" recommended="1" selected="1">VsYS---XX-AP---</AM>
+<AM lemma="vytempovat" src="auto" recommended="1" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-ln95048-053-p3s10w8">
@@ -2084,7 +2084,7 @@
 <LM>w#w-ln95048-053-p5s3w3</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95048-053-p5s3w4">
 <src.rf>manual</src.rf>
@@ -2710,7 +2710,7 @@
 <LM>w#w-ln95048-053-p6s48w3</LM>
 </w.rf>
 <form>vzdal</form>
-<tag lemma="vzdát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vzdát" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-053-p6s48w4">
 <src.rf>manual</src.rf>

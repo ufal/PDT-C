@@ -808,7 +808,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>set</form>
-<tag lemma="sít_^(zasévat_[semena,...])" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="sít_^(zasévat_[semena,...])" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-lnd91301-025-p2s4w15">
 <src.rf>manual</src.rf>
@@ -899,8 +899,8 @@
 </w.rf>
 <form>začalo</form>
 <tag>
-<AM lemma="začít-1_^(začnout)" src="auto">VpNS---XR-AA---</AM>
-<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="začít-1_^(začnout)" src="auto">VpNS----R-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd91301-025-p2s5w10">

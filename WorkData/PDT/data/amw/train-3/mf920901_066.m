@@ -122,7 +122,7 @@
 <LM>w#w-mf920901-066-p3s1w9</LM>
 </w.rf>
 <form>prohlásili</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920901-066-p3s1w10">
 <src.rf>manual</src.rf>
@@ -457,7 +457,7 @@
 <form>stala</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920901-066-p3s2w22">

@@ -125,7 +125,7 @@
 <LM>w#w-mf920924-045-p2s1w13</LM>
 </w.rf>
 <form>nerozpadl</form>
-<tag lemma="rozpadnout_:W" src="orig" selected="1">VpYS---XR-NA--1</tag>
+<tag lemma="rozpadnout" src="orig" selected="1">VpYS----R-NAP-1</tag>
 </m>
 <m id="m-mf920924-045-p2s1w14">
 <src.rf>manual</src.rf>

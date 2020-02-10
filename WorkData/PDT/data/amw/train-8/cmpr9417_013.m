@@ -233,7 +233,7 @@
 <LM>w#w-cmpr9417-013-p6s2w11</LM>
 </w.rf>
 <form>vznikla</form>
-<tag lemma="vzniknout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="vzniknout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-cmpr9417-013-p6s2w12">
 <src.rf>manual</src.rf>
@@ -673,7 +673,7 @@
 <LM>w#w-cmpr9417-013-p7s2w20</LM>
 </w.rf>
 <form>zvládli</form>
-<tag lemma="zvládnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="zvládnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-cmpr9417-013-p7s2w21">
 <src.rf>manual</src.rf>
@@ -2424,7 +2424,7 @@
 <LM>w#w-cmpr9417-013-p10s1w12</LM>
 </w.rf>
 <form>vyváženo</form>
-<tag lemma="vyvážet_:T_^(zboží_přes_hranice)" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="vyvážet_^(zboží_přes_hranice)" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-cmpr9417-013-p10s1w13">
 <src.rf>manual</src.rf>
@@ -2750,7 +2750,7 @@
 <LM>w#w-cmpr9417-013-p12s1w5</LM>
 </w.rf>
 <form>napojena</form>
-<tag lemma="napojit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="napojit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-cmpr9417-013-p12s1w6">
 <src.rf>manual</src.rf>
@@ -2905,7 +2905,7 @@
 <LM>w#w-cmpr9417-013-p12s1w23</LM>
 </w.rf>
 <form>aktualizován</form>
-<tag lemma="aktualizovat_:T_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="aktualizovat" src="orig" selected="1">VsYS----X-APB--</tag>
 </m>
 <m id="m-cmpr9417-013-p12s1w24">
 <src.rf>manual</src.rf>

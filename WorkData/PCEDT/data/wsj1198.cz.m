@@ -485,7 +485,7 @@
 <LM>w#w-wsj1198-001-p1s1W4</LM>
 </w.rf>
 <form>rozdělena</form>
-<tag lemma="rozdělit" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="rozdělit" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj1198-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1367,7 +1367,7 @@
 <LM>w#w-wsj1198-001-p1s3W3</LM>
 </w.rf>
 <form>oznámilo</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj1198-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>

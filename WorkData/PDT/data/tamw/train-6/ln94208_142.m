@@ -288,7 +288,7 @@
 <LM>w#w-ln94208-142-p2s2w9</LM>
 </w.rf>
 <form>činil</form>
-<tag lemma="činit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="činit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94208-142-p2s2w10">
 <src.rf>manual</src.rf>

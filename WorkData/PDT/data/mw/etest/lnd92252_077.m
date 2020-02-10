@@ -76,7 +76,7 @@
 <LM>w#w-lnd92252-077-p1s1w8</LM>
 </w.rf>
 <form>nevyburcoval</form>
-<tag lemma="vyburcovat_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="vyburcovat" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-lnd92252-077-p1s1w9">
 <src.rf>manual</src.rf>
@@ -142,7 +142,7 @@
 <LM>w#w-lnd92252-077-p1s2w7</LM>
 </w.rf>
 <form>neměl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-lnd92252-077-p1s2w8">
 <src.rf>manual</src.rf>
@@ -242,7 +242,7 @@
 <LM>w#w-lnd92252-077-p1s2w19</LM>
 </w.rf>
 <form>dávala</form>
-<tag lemma="dávat_:T_^(*3t)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="dávat_^(*3t)" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-077-p1s2w20">
 <src.rf>manual</src.rf>
@@ -300,7 +300,7 @@
 <LM>w#w-lnd92252-077-p1s3w6</LM>
 </w.rf>
 <form>zapsal</form>
-<tag lemma="zapsat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zapsat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-077-p1s3w7">
 <src.rf>manual</src.rf>

@@ -91,7 +91,7 @@
 <LM>w#w-lnd94104-033-p1s1w10</LM>
 </w.rf>
 <form>sestřelily</form>
-<tag lemma="sestřelit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="sestřelit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-033-p1s1w11">
 <src.rf>manual</src.rf>
@@ -157,7 +157,7 @@
 <LM>w#w-lnd94104-033-p1s2w1</LM>
 </w.rf>
 <form>Oznámily</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-033-p1s2w2">
 <src.rf>manual</src.rf>
@@ -282,7 +282,7 @@
 <LM>w#w-lnd94104-033-p1s3w7</LM>
 </w.rf>
 <form>vyryli</form>
-<tag lemma="vyrýt" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyrýt" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-033-p1s3w8">
 <src.rf>manual</src.rf>
@@ -428,7 +428,7 @@
 <LM>w#w-lnd94104-033-p1s4w1</LM>
 </w.rf>
 <form>Oznámila</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-033-p1s4w2">
 <src.rf>manual</src.rf>
@@ -518,7 +518,7 @@
 <LM>w#w-lnd94104-033-p1s5w6</LM>
 </w.rf>
 <form>vysíláni</form>
-<tag lemma="vysílat_:T" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="vysílat" src="orig" selected="1">VsMP----X-API--</tag>
 </m>
 <m id="m-lnd94104-033-p1s5w7">
 <src.rf>manual</src.rf>
@@ -582,7 +582,7 @@
 <LM>w#w-lnd94104-033-p1s5w14</LM>
 </w.rf>
 <form>povoleno</form>
-<tag lemma="povolit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="povolit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd94104-033-p1s5w15">
 <src.rf>manual</src.rf>
@@ -648,7 +648,7 @@
 <LM>w#w-lnd94104-033-p1s6w1</LM>
 </w.rf>
 <form>Oznámil</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-033-p1s6w2">
 <src.rf>manual</src.rf>
@@ -784,7 +784,7 @@
 <LM>w#w-lnd94104-033-p1s6w18</LM>
 </w.rf>
 <form>schválila</form>
-<tag lemma="schválit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="schválit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-033-p1s6w19">
 <src.rf>manual</src.rf>

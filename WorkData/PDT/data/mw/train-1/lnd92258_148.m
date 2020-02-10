@@ -45,7 +45,7 @@
 <LM>w#w-lnd92258-148-p2s1w2</LM>
 </w.rf>
 <form>nezrušen</form>
-<tag lemma="zrušit_:W" src="orig" selected="1">VsYS---XX-NP---</tag>
+<tag lemma="zrušit" src="orig" selected="1">VsYS----X-NPP--</tag>
 </m>
 </s>
 <s id="m-lnd92258-148-p3s1">
@@ -237,7 +237,7 @@
 <LM>w#w-lnd92258-148-p3s2w21</LM>
 </w.rf>
 <form>nevyhověl</form>
-<tag lemma="vyhovět_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="vyhovět" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-lnd92258-148-p3s2w22">
 <src.rf>manual</src.rf>
@@ -431,7 +431,7 @@
 <LM>w#w-lnd92258-148-p3s3w17</LM>
 </w.rf>
 <form>odložil</form>
-<tag lemma="odložit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odložit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-148-p3s3w18">
 <src.rf>manual</src.rf>

@@ -97,7 +97,7 @@
 <LM>w#w-lnd92255-021-p3s2w4</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92255-021-p3s2w5">
 <src.rf>manual</src.rf>
@@ -129,7 +129,7 @@
 <LM>w#w-lnd92255-021-p3s2w8</LM>
 </w.rf>
 <form>podáno</form>
-<tag lemma="podat_:W_^(něco_[někomu]_[někam])" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="podat_^(něco_[někomu]_[někam])" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92255-021-p3s2w9">
 <src.rf>manual</src.rf>
@@ -172,7 +172,7 @@
 <LM>w#w-lnd92255-021-p3s3w1</LM>
 </w.rf>
 <form>vyřešeno</form>
-<tag lemma="vyřešit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="vyřešit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92255-021-p3s3w2">
 <src.rf>manual</src.rf>
@@ -246,7 +246,7 @@
 <LM>w#w-lnd92255-021-p3s4w2</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-021-p3s4w3">
 <src.rf>manual</src.rf>
@@ -750,7 +750,7 @@
 <LM>w#w-lnd92255-021-p3s7w4</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92255-021-p3s7w5">
 <src.rf>manual</src.rf>
@@ -758,7 +758,7 @@
 <LM>w#w-lnd92255-021-p3s7w5</LM>
 </w.rf>
 <form>založen</form>
-<tag lemma="založit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="založit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd92255-021-p3s7w6">
 <src.rf>manual</src.rf>
@@ -856,7 +856,7 @@
 <LM>w#w-lnd92255-021-p3s8w2</LM>
 </w.rf>
 <form>zanikl</form>
-<tag lemma="zaniknout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="zaniknout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd92255-021-p3s8w3">
 <src.rf>manual</src.rf>
@@ -976,7 +976,7 @@
 <LM>w#w-lnd92255-021-p3s9w8</LM>
 </w.rf>
 <form>přešly</form>
-<tag lemma="přejít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="přejít" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-021-p3s9w9">
 <src.rf>manual</src.rf>

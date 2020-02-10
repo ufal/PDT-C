@@ -159,7 +159,7 @@
 <LM>w#w-mf930709-143-p2s1Bw10</LM>
 </w.rf>
 <form>zemřel</form>
-<tag lemma="zemřít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zemřít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-143-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -271,7 +271,7 @@
 <LM>w#w-mf930709-143-p2s1Bw24</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930709-143-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -295,7 +295,7 @@
 <LM>w#w-mf930709-143-p2s1Bw27</LM>
 </w.rf>
 <form>transplantovány</form>
-<tag lemma="transplantovat_:T_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="transplantovat" src="orig" selected="1">VsTP----X-APB--</tag>
 </m>
 <m id="m-mf930709-143-p2s1Bw28">
 <src.rf>manual</src.rf>
@@ -353,7 +353,7 @@
 <LM>w#w-mf930709-143-p3s1w3</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930709-143-p3s1w4">
 <src.rf>manual</src.rf>
@@ -377,7 +377,7 @@
 <LM>w#w-mf930709-143-p3s1w6</LM>
 </w.rf>
 <form>použity</form>
-<tag lemma="použít" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="použít" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-mf930709-143-p3s1w7">
 <src.rf>manual</src.rf>
@@ -467,7 +467,7 @@
 <LM>w#w-mf930709-143-p3s2w3</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930709-143-p3s2w4">
 <src.rf>manual</src.rf>
@@ -475,7 +475,7 @@
 <LM>w#w-mf930709-143-p3s2w4</LM>
 </w.rf>
 <form>dopraveny</form>
-<tag lemma="dopravit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="dopravit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-mf930709-143-p3s2w5">
 <src.rf>manual</src.rf>

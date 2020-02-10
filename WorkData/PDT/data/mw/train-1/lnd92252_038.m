@@ -113,7 +113,7 @@
 <LM>w#w-lnd92252-038-p3s2w6</LM>
 </w.rf>
 <form>vyvolal</form>
-<tag lemma="vyvolat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyvolat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-038-p3s2w7">
 <src.rf>manual</src.rf>
@@ -162,8 +162,8 @@
 </w.rf>
 <form>podepsal</form>
 <tag>
-<AM lemma="podepsat" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="podepsat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="podepsat" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="podepsat" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92252-038-p3s2w13">
@@ -353,7 +353,7 @@
 <LM>w#w-lnd92252-038-p3s3w18</LM>
 </w.rf>
 <form>uskutečnily</form>
-<tag lemma="uskutečnit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="uskutečnit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-038-p3s3w19">
 <src.rf>manual</src.rf>
@@ -470,8 +470,8 @@
 </w.rf>
 <form>ukázalo</form>
 <tag>
-<AM lemma="ukázat" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="ukázat_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="ukázat" src="orig">VpNS----R-AAP--</AM>
+<AM lemma="ukázat" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92252-038-p3s3w33">
@@ -584,7 +584,7 @@
 <LM>w#w-lnd92252-038-p3s3w46</LM>
 </w.rf>
 <form>vydržoval</form>
-<tag lemma="vydržovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vydržovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-038-p3s3w47">
 <src.rf>manual</src.rf>
@@ -627,8 +627,8 @@
 </w.rf>
 <form>prošel</form>
 <tag>
-<AM lemma="projít_^(i_uplynout_[o_čase])" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="projít_:W_^(i_uplynout_[o_čase])" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="projít_^(i_uplynout_[o_čase])" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="projít_^(i_uplynout_[o_čase])" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92252-038-p3s4w5">
@@ -732,8 +732,8 @@
 </w.rf>
 <form>začaly</form>
 <tag>
-<AM lemma="začít-1_^(začnout)" src="auto">VpTP---XR-AA---</AM>
-<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpTP---XR-AA---</AM>
+<AM lemma="začít-1_^(začnout)" src="auto">VpTP----R-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92252-038-p3s5w6">

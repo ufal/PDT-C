@@ -83,7 +83,7 @@
 <LM>w#w-ln94210-43-p1s1Aw9</LM>
 </w.rf>
 <form>odkázána</form>
-<tag lemma="odkázat" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="odkázat" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94210-43-p1s1Aw10">
 <src.rf>manual</src.rf>

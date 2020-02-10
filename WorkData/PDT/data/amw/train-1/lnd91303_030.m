@@ -105,7 +105,7 @@
 <LM>w#w-lnd91303-030-p4s1w6</LM>
 </w.rf>
 <form>navrhlo</form>
-<tag lemma="navrhnout_:W" src="orig" selected="1">VpNS---XR-AA--1</tag>
+<tag lemma="navrhnout" src="orig" selected="1">VpNS----R-AAP-1</tag>
 </m>
 <m id="m-lnd91303-030-p4s1w7">
 <src.rf>manual</src.rf>
@@ -275,7 +275,7 @@
 <LM>w#w-lnd91303-030-p4s2w9</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-030-p4s2w10">
 <src.rf>manual</src.rf>
@@ -584,7 +584,7 @@
 <LM>w#w-lnd91303-030-p4s3w7</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-030-p4s3w8">
 <src.rf>manual</src.rf>
@@ -714,7 +714,7 @@
 <LM>w#w-lnd91303-030-p4s4w6</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-030-p4s4w7">
 <src.rf>manual</src.rf>
@@ -730,7 +730,7 @@
 <LM>w#w-lnd91303-030-p4s4w8</LM>
 </w.rf>
 <form>oceněn</form>
-<tag lemma="ocenit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="ocenit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd91303-030-p4s4w9">
 <src.rf>manual</src.rf>
@@ -807,7 +807,7 @@
 <LM>w#w-lnd91303-030-p4s5w4</LM>
 </w.rf>
 <form>upozornila</form>
-<tag lemma="upozornit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="upozornit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-030-p4s5w5">
 <src.rf>manual</src.rf>
@@ -882,7 +882,7 @@
 <LM>w#w-lnd91303-030-p4s5w13</LM>
 </w.rf>
 <form>distancovalo</form>
-<tag lemma="distancovat_:T_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="distancovat" src="orig" selected="1">VpNS----R-AAB--</tag>
 </m>
 <m id="m-lnd91303-030-p4s5w14">
 <src.rf>manual</src.rf>
@@ -898,7 +898,7 @@
 <LM>w#w-lnd91303-030-p4s5w15</LM>
 </w.rf>
 <form>zahájilo</form>
-<tag lemma="zahájit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zahájit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-030-p4s5w16">
 <src.rf>manual</src.rf>

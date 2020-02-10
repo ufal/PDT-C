@@ -209,8 +209,8 @@
 </w.rf>
 <form>neuvedena</form>
 <tag>
-<AM lemma="uvést" src="orig">VsQW---XX-NP---</AM>
-<AM lemma="uvést_:W" src="manual" selected="1">VsQW---XX-NP---</AM>
+<AM lemma="uvést" src="orig">VsQW----X-NPP--</AM>
+<AM lemma="uvést" src="manual" selected="1">VsQW----X-NPP--</AM>
 </tag>
 </m>
 <m id="m-ln94201-127-p2s1w22">
@@ -294,8 +294,8 @@
 </w.rf>
 <form>přešel</form>
 <tag>
-<AM lemma="přejít" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="přejít_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="přejít" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="přejít" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94201-127-p3s1w9">
@@ -451,8 +451,8 @@
 </w.rf>
 <form>uvedlo</form>
 <tag>
-<AM lemma="uvést" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="uvést_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="uvést" src="orig">VpNS----R-AAP--</AM>
+<AM lemma="uvést" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94201-127-p3s2w7">

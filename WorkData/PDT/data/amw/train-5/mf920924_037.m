@@ -19,7 +19,7 @@
 <LM>w#w-mf920924-037-p1s1w1</LM>
 </w.rf>
 <form>Schválena</form>
-<tag lemma="schválit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="schválit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf920924-037-p1s1w2">
 <src.rf>manual</src.rf>
@@ -132,7 +132,7 @@
 <LM>w#w-mf920924-037-p2s2w6</LM>
 </w.rf>
 <form>přijali</form>
-<tag lemma="přijmout" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přijmout" src="auto" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920924-037-p2s2w7">
 <src.rf>manual</src.rf>
@@ -493,7 +493,7 @@
 <LM>w#w-mf920924-037-p2s5Aw5</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920924-037-p2s5Aw6">
 <src.rf>manual</src.rf>
@@ -533,7 +533,7 @@
 <LM>w#w-mf920924-037-p2s5Aw10</LM>
 </w.rf>
 <form>jmenován</form>
-<tag lemma="jmenovat_:T_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="jmenovat" src="orig" selected="1">VsYS----X-APB--</tag>
 </m>
 <m id="m-mf920924-037-p2s5Aw11">
 <src.rf>manual</src.rf>
@@ -679,7 +679,7 @@
 <LM>w#w-mf920924-037-p2s5Bw3</LM>
 </w.rf>
 <form>zřízen</form>
-<tag lemma="zřídit" src="auto" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zřídit" src="auto" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf920924-037-p2s5Bw4">
 <src.rf>manual</src.rf>
@@ -809,7 +809,7 @@
 <LM>w#w-mf920924-037-p2s6w3</LM>
 </w.rf>
 <form>doporučili</form>
-<tag lemma="doporučit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="doporučit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920924-037-p2s6w4">
 <src.rf>manual</src.rf>
@@ -849,7 +849,7 @@
 <LM>w#w-mf920924-037-p2s6w9</LM>
 </w.rf>
 <form>připravila</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="připravit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920924-037-p2s6w10">
 <src.rf>manual</src.rf>
@@ -990,7 +990,7 @@
 <LM>w#w-mf920924-037-p2s7w9</LM>
 </w.rf>
 <form>opustila</form>
-<tag lemma="opustit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="opustit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920924-037-p2s7w10">
 <src.rf>manual</src.rf>

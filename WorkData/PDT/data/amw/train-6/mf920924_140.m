@@ -87,7 +87,7 @@
 <LM>w#w-mf920924-140-p1s3w5</LM>
 </w.rf>
 <form>zvolilo</form>
-<tag lemma="zvolit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zvolit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920924-140-p1s3w6">
 <src.rf>manual</src.rf>
@@ -119,7 +119,7 @@
 <AM lemma="Duc_;Y" src="orig">NNMS1-----A----</AM>
 <AM lemma="Duc_;S" src="auto" recommended="1">NNMSX-----A----</AM>
 <AM lemma="duc" src="auto">II-------------</AM>
-<AM lemma="ducnout_:W" src="auto">VpYS---XR-AA--6</AM>
+<AM lemma="ducnout" src="auto">VpYS----R-AAP-6</AM>
 <AM lemma="Duc-2_;Y" src="manual">NNMXX-----A----</AM>
 <AM lemma="Duc_;S_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
@@ -160,7 +160,7 @@
 <LM>w#w-mf920924-140-p1s4w1</LM>
 </w.rf>
 <form>Oznámil</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920924-140-p1s4w2">
 <src.rf>manual</src.rf>
@@ -384,7 +384,7 @@
 <LM>w#w-mf920924-140-p2s4w5</LM>
 </w.rf>
 <form>podepsal</form>
-<tag lemma="podepsat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="podepsat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920924-140-p2s4w6">
 <src.rf>manual</src.rf>
@@ -445,7 +445,7 @@
 <LM>w#w-mf920924-140-p2s5w3</LM>
 </w.rf>
 <form>vyzval</form>
-<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920924-140-p2s5w4">
 <src.rf>manual</src.rf>
@@ -469,7 +469,7 @@
 <LM>w#w-mf920924-140-p2s5w7</LM>
 </w.rf>
 <form>vytvořil</form>
-<tag lemma="vytvořit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vytvořit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920924-140-p2s5w8">
 <src.rf>manual</src.rf>
@@ -596,7 +596,7 @@
 <LM>w#w-mf920924-140-p3s2w8</LM>
 </w.rf>
 <form>přicestovala</form>
-<tag lemma="přicestovat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="přicestovat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920924-140-p3s2w9">
 <src.rf>manual</src.rf>

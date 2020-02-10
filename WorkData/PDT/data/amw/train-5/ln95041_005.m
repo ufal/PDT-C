@@ -1483,7 +1483,7 @@
 <LM>w#w-ln95041-005-p3s3w4</LM>
 </w.rf>
 <form>zaváděna</form>
-<tag lemma="zavádět_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zavádět" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-ln95041-005-p3s3w5">
 <src.rf>manual</src.rf>
@@ -2023,7 +2023,7 @@
 <LM>w#w-ln95041-005-p5s1w15</LM>
 </w.rf>
 <form>ponechána</form>
-<tag lemma="ponechat_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="ponechat" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln95041-005-p5s1w16">
 <src.rf>manual</src.rf>

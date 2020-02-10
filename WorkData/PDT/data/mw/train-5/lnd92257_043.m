@@ -145,7 +145,7 @@
 <LM>w#w-lnd92257-043-p3s2w11</LM>
 </w.rf>
 <form>jednali</form>
-<tag lemma="jednat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="jednat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92257-043-p3s2w12">
 <src.rf>manual</src.rf>
@@ -517,7 +517,7 @@
 <LM>w#w-lnd92257-043-p3s4w6</LM>
 </w.rf>
 <form>navrhl</form>
-<tag lemma="navrhnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="navrhnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd92257-043-p3s4w7">
 <src.rf>manual</src.rf>
@@ -615,7 +615,7 @@
 <LM>w#w-lnd92257-043-p3s4w19</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92257-043-p3s4w20">
 <src.rf>manual</src.rf>
@@ -623,7 +623,7 @@
 <LM>w#w-lnd92257-043-p3s4w20</LM>
 </w.rf>
 <form>podřízena</form>
-<tag lemma="podřídit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="podřídit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd92257-043-p3s4w21">
 <src.rf>manual</src.rf>

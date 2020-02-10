@@ -605,7 +605,7 @@
 <LM>w#w-ln95044-039-p2s3w18</LM>
 </w.rf>
 <form>napadl</form>
-<tag lemma="napadnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="napadnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln95044-039-p2s3w19">
 <src.rf>manual</src.rf>
@@ -669,7 +669,7 @@
 <LM>w#w-ln95044-039-p2s3w26</LM>
 </w.rf>
 <form>odcházel</form>
-<tag lemma="odcházet_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odcházet" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95044-039-p2s3w27">
 <src.rf>manual</src.rf>
@@ -703,7 +703,7 @@
 <form>stal</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95044-039-p2s3w31">

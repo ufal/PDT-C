@@ -51,7 +51,7 @@
 <LM>w#w-mf930702-063-p1s1w5</LM>
 </w.rf>
 <form>přivítal</form>
-<tag lemma="přivítat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přivítat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930702-063-p1s1w6">
 <src.rf>manual</src.rf>

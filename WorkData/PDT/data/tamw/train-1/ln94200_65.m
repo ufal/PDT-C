@@ -272,7 +272,7 @@
 <LM>w#w-ln94200-65-p2s1Bw23</LM>
 </w.rf>
 <form>přiznal</form>
-<tag lemma="přiznat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přiznat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-65-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -545,7 +545,7 @@
 <LM>w#w-ln94200-65-p2s3w12</LM>
 </w.rf>
 <form>zabavila</form>
-<tag lemma="zabavit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zabavit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94200-65-p2s3w13">
 <src.rf>manual</src.rf>
@@ -614,7 +614,7 @@
 <LM>w#w-ln94200-65-p2s4w5</LM>
 </w.rf>
 <form>nepřišel</form>
-<tag lemma="přijít" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="přijít" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-ln94200-65-p2s4w6">
 <src.rf>manual</src.rf>

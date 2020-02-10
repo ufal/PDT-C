@@ -390,7 +390,7 @@
 <LM>w#w-mf920924-079-p1s2w14</LM>
 </w.rf>
 <form>tvořily</form>
-<tag lemma="tvořit_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="tvořit" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf920924-079-p1s2w15">
 <src.rf>manual</src.rf>
@@ -523,7 +523,7 @@
 <LM>w#w-mf920924-079-p1s3w12</LM>
 </w.rf>
 <form>předváděla</form>
-<tag lemma="předvádět_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="předvádět" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920924-079-p1s3w13">
 <src.rf>manual</src.rf>
@@ -539,7 +539,7 @@
 <LM>w#w-mf920924-079-p1s3w14</LM>
 </w.rf>
 <form>vyslovili</form>
-<tag lemma="vyslovit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyslovit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920924-079-p1s3w15">
 <src.rf>manual</src.rf>

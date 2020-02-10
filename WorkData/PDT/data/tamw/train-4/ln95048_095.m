@@ -190,7 +190,7 @@
 <LM>w#w-ln95048-095-p2s1w22</LM>
 </w.rf>
 <form>vyjmuty</form>
-<tag lemma="vyjmout" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="vyjmout" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln95048-095-p2s1w23">
 <src.rf>manual</src.rf>
@@ -264,7 +264,7 @@
 <LM>w#w-ln95048-095-p3s1w4</LM>
 </w.rf>
 <form>potrestala</form>
-<tag lemma="potrestat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="potrestat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95048-095-p3s1w5">
 <src.rf>manual</src.rf>

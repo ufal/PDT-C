@@ -183,7 +183,7 @@
 <LM>w#w-lnd92256-058-p3s2w8</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-058-p3s2w9">
 <src.rf>manual</src.rf>
@@ -396,7 +396,7 @@
 <LM>w#w-lnd92256-058-p3s3w9</LM>
 </w.rf>
 <form>dáván</form>
-<tag lemma="dávat_:T_^(*3t)" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="dávat_^(*3t)" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-lnd92256-058-p3s3w10">
 <src.rf>manual</src.rf>

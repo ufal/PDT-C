@@ -75,7 +75,7 @@
 <LM>w#w-ln95043-010-p1s1w8</LM>
 </w.rf>
 <form>konaly</form>
-<tag lemma="konat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="konat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95043-010-p1s1w9">
 <src.rf>manual</src.rf>
@@ -123,7 +123,7 @@
 <LM>w#w-ln95043-010-p1s1w14</LM>
 </w.rf>
 <form>nebyly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-NAI--</tag>
 </m>
 <m id="m-ln95043-010-p1s1w15">
 <src.rf>manual</src.rf>

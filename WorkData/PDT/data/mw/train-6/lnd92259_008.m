@@ -135,7 +135,7 @@
 <LM>w#w-lnd92259-008-p3s2w7</LM>
 </w.rf>
 <form>vyslovila</form>
-<tag lemma="vyslovit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyslovit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-008-p3s2w8">
 <src.rf>manual</src.rf>
@@ -273,7 +273,7 @@
 <LM>w#w-lnd92259-008-p3s3w5</LM>
 </w.rf>
 <form>vyjádřilo</form>
-<tag lemma="vyjádřit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vyjádřit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-008-p3s3w6">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <LM>w#w-lnd92259-008-p3s3w12</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92259-008-p3s3w13">
 <src.rf>manual</src.rf>

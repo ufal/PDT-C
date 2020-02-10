@@ -43,7 +43,7 @@
 <LM>w#w-mf920924-014-p1s1w4</LM>
 </w.rf>
 <form>musela</form>
-<tag lemma="muset" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="muset" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920924-014-p1s1w5">
 <src.rf>manual</src.rf>
@@ -131,7 +131,7 @@
 <LM>w#w-mf920924-014-p1s1w15</LM>
 </w.rf>
 <form>přistavěn</form>
-<tag lemma="přistavět_^(přidělat_ke_stavbě)" src="auto" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="přistavět_^(přidělat_ke_stavbě)" src="auto" selected="1">VsYS----X-APP--</tag>
 </m>
 </s>
 </mdata>

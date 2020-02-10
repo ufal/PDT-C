@@ -378,8 +378,8 @@
 </w.rf>
 <form>odpověděl</form>
 <tag>
-<AM lemma="odpovědět" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="odpovědět_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="odpovědět" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="odpovědět" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920922-007-p2s1Bw11">
@@ -747,7 +747,7 @@
 <LM>w#w-mf920922-007-p2s3w11</LM>
 </w.rf>
 <form>znehodnocovali</form>
-<tag lemma="znehodnocovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="znehodnocovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf920922-007-p2s3w12">
 <src.rf>manual</src.rf>
@@ -771,7 +771,7 @@
 <LM>w#w-mf920922-007-p2s3w15</LM>
 </w.rf>
 <form>šidili</form>
-<tag lemma="šidit_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="šidit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf920922-007-p2s3w16">
 <src.rf>manual</src.rf>
@@ -943,7 +943,7 @@
 <LM>w#w-mf920922-007-p2s4Bw2</LM>
 </w.rf>
 <form>upřesnil</form>
-<tag lemma="upřesnit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="upřesnit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-007-p2s4Bw3">
 <src.rf>manual</src.rf>

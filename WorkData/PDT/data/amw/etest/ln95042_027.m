@@ -51,7 +51,7 @@
 <LM>w#w-ln95042-027-p1s1w5</LM>
 </w.rf>
 <form>překonala</form>
-<tag lemma="překonat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="překonat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95042-027-p1s1w6">
 <src.rf>manual</src.rf>
@@ -163,7 +163,7 @@
 <LM>w#w-ln95042-027-p1s1w19</LM>
 </w.rf>
 <form>radovaly</form>
-<tag lemma="radovat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="radovat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95042-027-p1s1w20">
 <src.rf>manual</src.rf>

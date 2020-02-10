@@ -645,7 +645,7 @@
 <LM>w#w-mf920902-040-p1s3w12</LM>
 </w.rf>
 <form>studovala</form>
-<tag lemma="studovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="studovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920902-040-p1s3w13">
 <src.rf>manual</src.rf>

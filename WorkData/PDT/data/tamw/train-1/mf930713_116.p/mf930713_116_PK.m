@@ -70,7 +70,7 @@
 <LM>w#w-mf930713-116-p1s1w6</LM>
 </w.rf>
 <form>udělována</form>
-<tag lemma="udělovat_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="udělovat" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-mf930713-116-p1s1w7">
 <src.rf>manual</src.rf>
@@ -661,7 +661,7 @@
 <LM>w#w-mf930713-116-p3s4w7</LM>
 </w.rf>
 <form>neměla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-mf930713-116-p3s4w8">
 <src.rf>manual</src.rf>
@@ -767,7 +767,7 @@
 <LM>w#w-mf930713-116-p3s6w4</LM>
 </w.rf>
 <form>hrazeny</form>
-<tag lemma="hradit_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="hradit" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf930713-116-p3s6w5">
 <src.rf>manual</src.rf>

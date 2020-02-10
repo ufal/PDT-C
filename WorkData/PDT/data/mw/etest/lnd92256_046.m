@@ -49,7 +49,7 @@
 <LM>w#w-lnd92256-046-p1s2w2</LM>
 </w.rf>
 <form>NAVŠTÍVIL</form>
-<tag lemma="navštívit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="navštívit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-046-p1s2w3">
 <src.rf>manual</src.rf>
@@ -223,7 +223,7 @@
 <LM>w#w-lnd92256-046-p1s3w10</LM>
 </w.rf>
 <form>překročili</form>
-<tag lemma="překročit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="překročit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-046-p1s3w11">
 <src.rf>manual</src.rf>
@@ -255,7 +255,7 @@
 <LM>w#w-lnd92256-046-p1s3w14</LM>
 </w.rf>
 <form>hledali</form>
-<tag lemma="hledat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="hledat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92256-046-p1s3w15">
 <src.rf>manual</src.rf>
@@ -287,7 +287,7 @@
 <LM>w#w-lnd92256-046-p1s3w18</LM>
 </w.rf>
 <form>nevytvářeli</form>
-<tag lemma="vytvářet_:T" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="vytvářet" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-lnd92256-046-p1s3w19">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <LM>w#w-lnd92256-046-p1s3w27</LM>
 </w.rf>
 <form>prohlásil</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-046-p1s3w28">
 <src.rf>manual</src.rf>
@@ -421,7 +421,7 @@
 <LM>w#w-lnd92256-046-p1s4w3</LM>
 </w.rf>
 <form>shodli</form>
-<tag lemma="shodnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="shodnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-lnd92256-046-p1s4w4">
 <src.rf>manual</src.rf>
@@ -647,7 +647,7 @@
 <LM>w#w-lnd92256-046-p1s5w19</LM>
 </w.rf>
 <form>poradili</form>
-<tag lemma="poradit_:W" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="poradit" src="auto" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-046-p1s5w20">
 <src.rf>manual</src.rf>
@@ -962,7 +962,7 @@
 <LM>w#w-lnd92256-046-p1s6w20</LM>
 </w.rf>
 <form>nebyl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-lnd92256-046-p1s6w21">
 <src.rf>manual</src.rf>

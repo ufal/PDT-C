@@ -63,7 +63,7 @@
 <LM>w#w-wsj1953-001-p1s0W5</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1953-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -90,7 +90,7 @@
 <LM>w#w-wsj1953-001-p1s0W8</LM>
 </w.rf>
 <form>prodala</form>
-<tag lemma="prodat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="prodat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1953-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -713,7 +713,7 @@
 <LM>w#w-wsj1953-001-p1s3W3</LM>
 </w.rf>
 <form>dosáhly</form>
-<tag lemma="dosáhnout" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="dosáhnout" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1953-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>

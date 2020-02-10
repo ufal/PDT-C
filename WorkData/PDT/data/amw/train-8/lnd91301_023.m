@@ -383,7 +383,7 @@
 <LM>w#w-lnd91301-023-p1s3w10</LM>
 </w.rf>
 <form>restaurovali</form>
-<tag lemma="restaurovat_:T_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="restaurovat" src="orig" selected="1">VpMP----R-AAB--</tag>
 </m>
 <m id="m-lnd91301-023-p1s3w11">
 <src.rf>manual</src.rf>

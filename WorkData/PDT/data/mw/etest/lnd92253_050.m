@@ -129,7 +129,7 @@
 <LM>w#w-lnd92253-050-p3s2w7</LM>
 </w.rf>
 <form>podnikly</form>
-<tag lemma="podniknout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="podniknout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-lnd92253-050-p3s2w8">
 <src.rf>manual</src.rf>
@@ -415,7 +415,7 @@
 <LM>w#w-lnd92253-050-p3s3w9</LM>
 </w.rf>
 <form>podařilo</form>
-<tag lemma="podařit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="podařit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd92253-050-p3s3w10">
 <src.rf>manual</src.rf>
@@ -612,7 +612,7 @@
 <LM>w#w-lnd92253-050-p3s4w5</LM>
 </w.rf>
 <form>následovaly</form>
-<tag lemma="následovat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="následovat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd92253-050-p3s4w6">
 <src.rf>manual</src.rf>

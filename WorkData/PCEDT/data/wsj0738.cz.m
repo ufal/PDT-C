@@ -78,7 +78,7 @@
 <LM>w#w-wsj0738-001-p1s0W7</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0738-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -86,7 +86,7 @@
 <LM>w#w-wsj0738-001-p1s0W8</LM>
 </w.rf>
 <form>stažena</form>
-<tag lemma="stáhnout" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="stáhnout" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj0738-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>

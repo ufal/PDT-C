@@ -615,7 +615,7 @@
 <LM>w#w-ln95046-071-p2s3w2</LM>
 </w.rf>
 <form>zdůraznil</form>
-<tag lemma="zdůraznit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zdůraznit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95046-071-p2s3w3">
 <src.rf>manual</src.rf>

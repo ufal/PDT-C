@@ -841,7 +841,7 @@
 <LM>w#w-mf920924-046-p1s5w14</LM>
 </w.rf>
 <form>přijal</form>
-<tag lemma="přijmout" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přijmout" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920924-046-p1s5w15">
 <src.rf>manual</src.rf>
@@ -905,7 +905,7 @@
 <LM>w#w-mf920924-046-p1s5w22</LM>
 </w.rf>
 <form>zvládla</form>
-<tag lemma="zvládnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="zvládnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-mf920924-046-p1s5w23">
 <src.rf>manual</src.rf>

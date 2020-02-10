@@ -43,7 +43,7 @@
 <LM>w#w-lnd94103-075-p1s1w4</LM>
 </w.rf>
 <form>vzrostl</form>
-<tag lemma="vzrůst-1" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vzrůst-1" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 </s>
 <s id="m-lnd94103-075-p1s2">
@@ -146,7 +146,7 @@
 <LM>w#w-lnd94103-075-p1s3w7</LM>
 </w.rf>
 <form>zvýšila</form>
-<tag lemma="zvýšit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zvýšit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-075-p1s3w8">
 <src.rf>manual</src.rf>
@@ -235,7 +235,7 @@
 <LM>w#w-lnd94103-075-p1s3w18</LM>
 </w.rf>
 <form>stoupla</form>
-<tag lemma="stoupnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="stoupnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-lnd94103-075-p1s3w19">
 <src.rf>manual</src.rf>
@@ -400,7 +400,7 @@
 <LM>w#w-lnd94103-075-p1s5w7</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-075-p1s5w8">
 <src.rf>manual</src.rf>
@@ -547,7 +547,7 @@
 <LM>w#w-lnd94103-075-p1s6w6</LM>
 </w.rf>
 <form>vykázalo</form>
-<tag lemma="vykázat" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vykázat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-075-p1s6w7">
 <src.rf>manual</src.rf>
@@ -689,7 +689,7 @@
 <LM>w#w-lnd94103-075-p1s7w12</LM>
 </w.rf>
 <form>zvýšila</form>
-<tag lemma="zvýšit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zvýšit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-075-p1s7w13">
 <src.rf>manual</src.rf>

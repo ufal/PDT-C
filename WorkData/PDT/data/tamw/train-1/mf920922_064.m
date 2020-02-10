@@ -447,7 +447,7 @@
 <LM>w#w-mf920922-064-p3s1w14</LM>
 </w.rf>
 <form>oslavil</form>
-<tag lemma="oslavit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="oslavit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-064-p3s1w15">
 <src.rf>manual</src.rf>

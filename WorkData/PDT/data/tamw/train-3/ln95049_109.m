@@ -1012,7 +1012,7 @@
 <LM>w#w-ln95049-109-p2s7w2</LM>
 </w.rf>
 <form>provedla</form>
-<tag lemma="provést" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="provést" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95049-109-p2s7w3">
 <src.rf>manual</src.rf>

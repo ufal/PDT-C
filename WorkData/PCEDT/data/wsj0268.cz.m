@@ -662,7 +662,7 @@
 <LM>w#w-wsj0268-001-p1s1W29</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj0268-001-p1s1W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1063,7 +1063,7 @@
 <form>vlád</form>
 <tag>
 <AM lemma="vláda" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="vládnout" src="auto">VpYS---XR-AAI-6</AM>
+<AM lemma="vládnout" src="auto">VpYS----R-AAI-6</AM>
 </tag>
 </m>
 <m id="m-wsj0268-001-p1s2W19-Ta">
@@ -1286,7 +1286,7 @@
 <LM>w#w-wsj0268-001-p1s3W1</LM>
 </w.rf>
 <form>Mělo</form>
-<tag lemma="mít" src="auto" recommended="1">VpNS---XR-AAI--</tag>
+<tag lemma="mít" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-wsj0268-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>

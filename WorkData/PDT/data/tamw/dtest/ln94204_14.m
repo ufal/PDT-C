@@ -167,7 +167,7 @@
 <LM>w#w-ln94204-14-p2s1w9</LM>
 </w.rf>
 <form>spojila</form>
-<tag lemma="spojit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="spojit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94204-14-p2s1w10">
 <src.rf>manual</src.rf>
@@ -247,7 +247,7 @@
 <LM>w#w-ln94204-14-p2s1w20</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94204-14-p2s1w21">
 <src.rf>manual</src.rf>
@@ -1022,8 +1022,8 @@
 </w.rf>
 <form>umístěny</form>
 <tag>
-<AM lemma="umístit" src="orig">VsTP---XX-AP---</AM>
-<AM lemma="umístit_:W" src="manual" selected="1">VsTP---XX-AP---</AM>
+<AM lemma="umístit" src="orig">VsTP----X-APP--</AM>
+<AM lemma="umístit" src="manual" selected="1">VsTP----X-APP--</AM>
 </tag>
 </m>
 <m id="m-ln94204-14-p5s1w21">
@@ -1242,7 +1242,7 @@
 <LM>w#w-ln94204-14-p5s2w13</LM>
 </w.rf>
 <form>dokončena</form>
-<tag lemma="dokončit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="dokončit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94204-14-p5s2w14">
 <src.rf>manual</src.rf>
@@ -1258,7 +1258,7 @@
 <LM>w#w-ln94204-14-p5s2w15</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94204-14-p5s2w16">
 <src.rf>manual</src.rf>
@@ -1742,8 +1742,8 @@
 </w.rf>
 <form>dokončena</form>
 <tag>
-<AM lemma="dokončit" src="orig">VsQW---XX-AP---</AM>
-<AM lemma="dokončit_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+<AM lemma="dokončit" src="orig">VsQW----X-APP--</AM>
+<AM lemma="dokončit" src="manual" selected="1">VsQW----X-APP--</AM>
 </tag>
 </m>
 <m id="m-ln94204-14-p8s1w8">

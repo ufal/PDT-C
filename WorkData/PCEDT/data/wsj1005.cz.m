@@ -94,7 +94,7 @@
 <LM>w#w-wsj1005-001-p1s0W8</LM>
 </w.rf>
 <form>obdržela</form>
-<tag lemma="obdržet" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="obdržet" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1005-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -396,7 +396,7 @@
 <LM>w#w-wsj1005-001-p1s1W5</LM>
 </w.rf>
 <form>prohlásila</form>
-<tag lemma="prohlásit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="prohlásit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1005-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>

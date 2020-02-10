@@ -187,7 +187,7 @@
 <LM>w#w-vesm9211-034-p1s1Bw12</LM>
 </w.rf>
 <form>publikovala</form>
-<tag lemma="publikovat_:T_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="publikovat" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-vesm9211-034-p1s1Bw13">
 <src.rf>manual</src.rf>
@@ -1487,7 +1487,7 @@
 <LM>w#w-vesm9211-034-p3s3w9</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-vesm9211-034-p3s3w10">
 <src.rf>manual</src.rf>
@@ -1495,7 +1495,7 @@
 <LM>w#w-vesm9211-034-p3s3w10</LM>
 </w.rf>
 <form>kontaminována</form>
-<tag lemma="kontaminovat_:T_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="kontaminovat" src="orig" selected="1">VsQW----X-APB--</tag>
 </m>
 <m id="m-vesm9211-034-p3s3w11">
 <src.rf>manual</src.rf>
@@ -2102,7 +2102,7 @@
 <LM>w#w-vesm9211-034-p5s2w2</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-vesm9211-034-p5s2w3">
 <src.rf>manual</src.rf>
@@ -2156,7 +2156,7 @@
 <LM>w#w-vesm9211-034-p5s2w8</LM>
 </w.rf>
 <form>odstraněna</form>
-<tag lemma="odstranit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="odstranit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-vesm9211-034-p5s2w9">
 <src.rf>manual</src.rf>

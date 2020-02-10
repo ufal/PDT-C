@@ -334,7 +334,7 @@
 <LM>w#w-lnd94101-084-p1s5w6</LM>
 </w.rf>
 <form>rozloučil</form>
-<tag lemma="rozloučit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="rozloučit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-084-p1s5w7">
 <src.rf>manual</src.rf>
@@ -491,7 +491,7 @@
 <LM>w#w-lnd94101-084-p1s6w9</LM>
 </w.rf>
 <form>vyvolaly</form>
-<tag lemma="vyvolat_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vyvolat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-084-p1s6w10">
 <src.rf>manual</src.rf>
@@ -555,7 +555,7 @@
 <LM>w#w-lnd94101-084-p1s6w17</LM>
 </w.rf>
 <form>potvrdil</form>
-<tag lemma="potvrdit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="potvrdit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-084-p1s6w18">
 <src.rf>manual</src.rf>

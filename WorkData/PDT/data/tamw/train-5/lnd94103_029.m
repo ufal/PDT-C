@@ -68,7 +68,7 @@
 <LM>w#w-lnd94103-029-p1s1w7</LM>
 </w.rf>
 <form>varoval</form>
-<tag lemma="varovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="varovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-029-p1s1w8">
 <src.rf>manual</src.rf>
@@ -296,7 +296,7 @@
 <LM>w#w-lnd94103-029-p1s2w16</LM>
 </w.rf>
 <form>urychlilo</form>
-<tag lemma="urychlit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="urychlit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-029-p1s2w17">
 <src.rf>manual</src.rf>
@@ -336,7 +336,7 @@
 <LM>w#w-lnd94103-029-p1s2w21</LM>
 </w.rf>
 <form>přivedly</form>
-<tag lemma="přivést" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="přivést" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-029-p1s2w22">
 <src.rf>manual</src.rf>
@@ -522,7 +522,7 @@
 <LM>w#w-lnd94103-029-p1s4w4</LM>
 </w.rf>
 <form>očekávána</form>
-<tag lemma="očekávat_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="očekávat" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-lnd94103-029-p1s4w5">
 <src.rf>manual</src.rf>
@@ -665,7 +665,7 @@
 <LM>w#w-lnd94103-029-p1s4w21</LM>
 </w.rf>
 <form>pokoušela</form>
-<tag lemma="pokoušet_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="pokoušet" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-029-p1s4w22">
 <src.rf>manual</src.rf>
@@ -787,7 +787,7 @@
 <LM>w#w-lnd94103-029-p1s5w5</LM>
 </w.rf>
 <form>vyvoláno</form>
-<tag lemma="vyvolat_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="vyvolat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd94103-029-p1s5w6">
 <src.rf>manual</src.rf>
@@ -959,7 +959,7 @@
 <LM>w#w-lnd94103-029-p1s6w8</LM>
 </w.rf>
 <form>ohroženo</form>
-<tag lemma="ohrozit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="ohrozit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd94103-029-p1s6w9">
 <src.rf>manual</src.rf>
@@ -1063,7 +1063,7 @@
 <LM>w#w-lnd94103-029-p1s6w21</LM>
 </w.rf>
 <form>varoval</form>
-<tag lemma="varovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="varovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-029-p1s6w22">
 <src.rf>manual</src.rf>

@@ -113,7 +113,7 @@
 <LM>w#w-wsj2130-001-p1s0W7</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2130-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -277,7 +277,7 @@
 <LM>w#w-wsj2130-001-p1s0W24</LM>
 </w.rf>
 <form>vyplaceny</form>
-<tag lemma="vyplatit" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="vyplatit" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj2130-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -569,7 +569,7 @@
 <LM>w#w-wsj2130-001-p1s1W10</LM>
 </w.rf>
 <form>vyplácel</form>
-<tag lemma="vyplácet" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="vyplácet" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj2130-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -649,7 +649,7 @@
 <LM>w#w-wsj2130-001-p1s1W19</LM>
 </w.rf>
 <form>obdrželi</form>
-<tag lemma="obdržet" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="obdržet" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj2130-001-p1s1W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -879,7 +879,7 @@
 <LM>w#w-wsj2130-001-p1s2W13</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2130-001-p1s2W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -906,7 +906,7 @@
 <LM>w#w-wsj2130-001-p1s2W16</LM>
 </w.rf>
 <form>obnovil</form>
-<tag lemma="obnovit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="obnovit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2130-001-p1s2W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -936,7 +936,7 @@
 <LM>w#w-wsj2130-001-p1s2W19</LM>
 </w.rf>
 <form>odmítl</form>
-<tag lemma="odmítnout" src="auto" recommended="1">VpYS---XR-AAP-1</tag>
+<tag lemma="odmítnout" src="auto" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-wsj2130-001-p1s2W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1029,7 +1029,7 @@
 <LM>w#w-wsj2130-001-p1s2W25</LM>
 </w.rf>
 <form>zaznamenal</form>
-<tag lemma="zaznamenat" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="zaznamenat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2130-001-p1s2W26-Ta">
 <src.rf>tagger-a</src.rf>

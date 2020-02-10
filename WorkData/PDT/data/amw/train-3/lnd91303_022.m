@@ -46,7 +46,7 @@
 <LM>w#w-lnd91303-022-p1s1w4</LM>
 </w.rf>
 <form>přivítala</form>
-<tag lemma="přivítat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="přivítat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-022-p1s1w5">
 <src.rf>manual</src.rf>
@@ -288,7 +288,7 @@
 <LM>w#w-lnd91303-022-p1s2w6</LM>
 </w.rf>
 <form>trvala</form>
-<tag lemma="trvat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="trvat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-022-p1s2w7">
 <src.rf>manual</src.rf>

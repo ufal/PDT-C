@@ -438,7 +438,7 @@
 <LM>w#w-ln95045-105-p2s3w2</LM>
 </w.rf>
 <form>nevyhověl</form>
-<tag lemma="vyhovět_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="vyhovět" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-ln95045-105-p2s3w3">
 <src.rf>manual</src.rf>
@@ -558,7 +558,7 @@
 <LM>w#w-ln95045-105-p2s3w17</LM>
 </w.rf>
 <form>shromáždila</form>
-<tag lemma="shromáždit_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="shromáždit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95045-105-p2s3w18">
 <src.rf>manual</src.rf>

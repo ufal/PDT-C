@@ -226,7 +226,7 @@
 <LM>w#w-mf930701-058-p2s1w23</LM>
 </w.rf>
 <form>vrátil</form>
-<tag lemma="vrátit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vrátit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-058-p2s1w24">
 <src.rf>manual</src.rf>
@@ -370,7 +370,7 @@
 <LM>w#w-mf930701-058-p2s1w41</LM>
 </w.rf>
 <form>utrpěl</form>
-<tag lemma="utrpět" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="utrpět" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-058-p2s1w42">
 <src.rf>manual</src.rf>
@@ -913,7 +913,7 @@
 <LM>w#w-mf930701-058-p2s6w2</LM>
 </w.rf>
 <form>nesměl</form>
-<tag lemma="smět_:T" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="smět" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-mf930701-058-p2s6w3">
 <src.rf>manual</src.rf>
@@ -1025,7 +1025,7 @@
 <LM>w#w-mf930701-058-p2s6w16</LM>
 </w.rf>
 <form>vrátil</form>
-<tag lemma="vrátit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vrátit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-058-p2s6w17">
 <src.rf>manual</src.rf>

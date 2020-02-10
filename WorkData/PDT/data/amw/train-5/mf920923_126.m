@@ -299,7 +299,7 @@
 <LM>w#w-mf920923-126-p4s3w4</LM>
 </w.rf>
 <form>přestěhovala</form>
-<tag lemma="přestěhovat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="přestěhovat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920923-126-p4s3w5">
 <src.rf>manual</src.rf>
@@ -347,7 +347,7 @@
 <LM>w#w-mf920923-126-p4s3w10</LM>
 </w.rf>
 <form>ocitla</form>
-<tag lemma="ocitnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="ocitnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-mf920923-126-p4s3w11">
 <src.rf>manual</src.rf>

@@ -65,7 +65,7 @@
 <LM>w#w-wsj0377-001-p1s0W6</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0377-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -448,7 +448,7 @@
 <tag>
 <AM lemma="Metal_;K" src="auto">NNIS1-----A----</AM>
 <AM lemma="Metal_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="metat" src="auto">VpYS---XR-AAI--</AM>
+<AM lemma="metat" src="auto">VpYS----R-AAI--</AM>
 <AM lemma="metal" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="metal" src="auto">NNIS4-----A----</AM>
 <AM lemma="Metal-77" src="manual" selected="1">F%-------------</AM>
@@ -605,7 +605,7 @@
 <LM>w#w-wsj0377-001-p1s2W3</LM>
 </w.rf>
 <form>uvedli</form>
-<tag lemma="uvést" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj0377-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -766,7 +766,7 @@
 <tag>
 <AM lemma="podnik" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="podnik" src="auto">NNIS4-----A----</AM>
-<AM lemma="podniknout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="podniknout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-wsj0377-001-p1s2W18-Ta">
@@ -1034,7 +1034,7 @@
 <tag>
 <AM lemma="podnik" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="podnik" src="auto">NNIS4-----A----</AM>
-<AM lemma="podniknout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="podniknout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-wsj0377-001-p1s3W3-Ta">
@@ -1523,7 +1523,7 @@
 <LM>w#w-wsj0377-001-p1s4W25</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0377-001-p1s4W26-Ta">
 <src.rf>tagger-a</src.rf>

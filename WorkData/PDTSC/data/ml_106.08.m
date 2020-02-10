@@ -705,7 +705,7 @@
 <LM>w#w-d1t1864-23</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m106-d1t1864-24">
 <w.rf>
@@ -1421,7 +1421,7 @@
 <LM>w#w-d1t1886-3</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m106-d1t1886-4">
 <w.rf>
@@ -1545,7 +1545,7 @@
 <LM>w#w-d1t1888-7</LM>
 </w.rf>
 <form>povídalo</form>
-<tag lemma="povídat_:T" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="povídat" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m106-d-m-d1e1881-x2-punct-punct">
 <w.rf>

@@ -487,7 +487,7 @@
 <LM>w#w-ln94202-17-p2s3w11</LM>
 </w.rf>
 <form>dostali</form>
-<tag lemma="dostat" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="dostat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94202-17-p2s3w12">
 <src.rf>manual</src.rf>
@@ -781,7 +781,7 @@
 <LM>w#w-ln94202-17-p3s2w16</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94202-17-p3s2w17">
 <src.rf>manual</src.rf>
@@ -789,7 +789,7 @@
 <LM>w#w-ln94202-17-p3s2w17</LM>
 </w.rf>
 <form>zvýšen</form>
-<tag lemma="zvýšit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zvýšit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94202-17-p3s2w18">
 <src.rf>manual</src.rf>
@@ -1313,7 +1313,7 @@
 <LM>w#w-ln94202-17-p5s2w10</LM>
 </w.rf>
 <form>ovlivnily</form>
-<tag lemma="ovlivnit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="ovlivnit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94202-17-p5s2w11">
 <src.rf>manual</src.rf>

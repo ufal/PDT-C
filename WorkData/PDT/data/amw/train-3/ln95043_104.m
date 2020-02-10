@@ -330,7 +330,7 @@
 <LM>w#w-ln95043-104-p3s1Bw16</LM>
 </w.rf>
 <form>nepoklesly</form>
-<tag lemma="poklesnout_:W" src="orig" selected="1">VpTP---XR-NA--1</tag>
+<tag lemma="poklesnout" src="orig" selected="1">VpTP----R-NAP-1</tag>
 </m>
 <m id="m-ln95043-104-p3s1Bw17">
 <src.rf>manual</src.rf>
@@ -431,7 +431,7 @@
 <LM>w#w-ln95043-104-p4s1w11</LM>
 </w.rf>
 <form>nesnížily</form>
-<tag lemma="snížit_:W" src="orig" selected="1">VpTP---XR-NA---</tag>
+<tag lemma="snížit" src="orig" selected="1">VpTP----R-NAP--</tag>
 </m>
 <m id="m-ln95043-104-p4s1w12">
 <src.rf>manual</src.rf>
@@ -2184,7 +2184,7 @@
 <LM>w#w-ln95043-104-p8s1w13</LM>
 </w.rf>
 <form>zostřil</form>
-<tag lemma="zostřit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zostřit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95043-104-p8s1w14">
 <src.rf>manual</src.rf>
@@ -2240,7 +2240,7 @@
 <LM>w#w-ln95043-104-p8s1w20</LM>
 </w.rf>
 <form>nesnížily</form>
-<tag lemma="snížit_:W" src="orig" selected="1">VpTP---XR-NA---</tag>
+<tag lemma="snížit" src="orig" selected="1">VpTP----R-NAP--</tag>
 </m>
 <m id="m-ln95043-104-p8s1w21">
 <src.rf>manual</src.rf>
@@ -2283,7 +2283,7 @@
 <LM>w#w-ln95043-104-p8s1w25</LM>
 </w.rf>
 <form>vzrostly</form>
-<tag lemma="vzrůst-1" src="auto" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vzrůst-1" src="auto" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95043-104-p8s1w26">
 <src.rf>manual</src.rf>
@@ -3086,7 +3086,7 @@
 <LM>w#w-ln95043-104-p10s2w6</LM>
 </w.rf>
 <form>přijelo</form>
-<tag lemma="přijet" src="auto" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="přijet" src="auto" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95043-104-p10s2w7">
 <src.rf>manual</src.rf>
@@ -3267,7 +3267,7 @@
 <LM>w#w-ln95043-104-p10s3w5</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95043-104-p10s3w6">
 <src.rf>manual</src.rf>
@@ -3337,7 +3337,7 @@
 <LM>w#w-ln95043-104-p10s4w5</LM>
 </w.rf>
 <form>ubytovalo</form>
-<tag lemma="ubytovat_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="ubytovat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95043-104-p10s4w6">
 <src.rf>manual</src.rf>
@@ -3504,7 +3504,7 @@
 <LM>w#w-ln95043-104-p11s2w7</LM>
 </w.rf>
 <form>vzrostly</form>
-<tag lemma="vzrůst-1" src="auto" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vzrůst-1" src="auto" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95043-104-p11s2w8">
 <src.rf>manual</src.rf>

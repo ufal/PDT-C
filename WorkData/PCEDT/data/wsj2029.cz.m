@@ -57,7 +57,7 @@
 <LM>w#w-wsj2029-001-p1s0W5</LM>
 </w.rf>
 <form>opravil</form>
-<tag lemma="opravit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="opravit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2029-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -373,7 +373,7 @@
 <LM>w#w-wsj2029-001-p1s1W8</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2029-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -660,7 +660,7 @@
 <LM>w#w-wsj2029-001-p1s2W3</LM>
 </w.rf>
 <form>neřekl</form>
-<tag lemma="říci" src="auto" recommended="1">VpYS---XR-NAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-wsj2029-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -865,7 +865,7 @@
 <LM>w#w-wsj2029-001-p1s3W10</LM>
 </w.rf>
 <form>nenabídl</form>
-<tag lemma="nabídnout" src="auto" recommended="1">VpYS---XR-NAP-1</tag>
+<tag lemma="nabídnout" src="auto" recommended="1">VpYS----R-NAP-1</tag>
 </m>
 <m id="m-wsj2029-001-p1s3W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1111,7 +1111,7 @@
 <LM>w#w-wsj2029-001-p1s4W6</LM>
 </w.rf>
 <form>snížili</form>
-<tag lemma="snížit" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="snížit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj2029-001-p1s4W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1644,7 +1644,7 @@
 <LM>w#w-wsj2029-001-p1s6W18</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="mít" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj2029-001-p1s6W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1914,7 +1914,7 @@
 <LM>w#w-wsj2029-001-p1s7W14</LM>
 </w.rf>
 <form>zúčastnili</form>
-<tag lemma="zúčastnit" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="zúčastnit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj2029-001-p1s7W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2423,7 +2423,7 @@
 <LM>w#w-wsj2029-001-p1s8W15</LM>
 </w.rf>
 <form>dospěli</form>
-<tag lemma="dospět" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="dospět" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj2029-001-p1s8W16-Ta">
 <src.rf>tagger-a</src.rf>

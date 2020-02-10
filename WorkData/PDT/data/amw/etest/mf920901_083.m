@@ -614,7 +614,7 @@
 <LM>w#w-mf920901-083-p2s4w16</LM>
 </w.rf>
 <form>dlužil</form>
-<tag lemma="dlužit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dlužit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920901-083-p2s4w17">
 <src.rf>manual</src.rf>
@@ -664,7 +664,7 @@
 <LM>w#w-mf920901-083-p2s5w2</LM>
 </w.rf>
 <form>přibylo</form>
-<tag lemma="přibýt" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="přibýt" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920901-083-p2s5w3">
 <src.rf>manual</src.rf>
@@ -876,7 +876,7 @@
 <LM>w#w-mf920901-083-p2s7w10</LM>
 </w.rf>
 <form>zaplaceno</form>
-<tag lemma="zaplatit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zaplatit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf920901-083-p2s7w11">
 <src.rf>manual</src.rf>
@@ -1059,7 +1059,7 @@
 <LM>w#w-mf920901-083-p3s2w9</LM>
 </w.rf>
 <form>zaplatili</form>
-<tag lemma="zaplatit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zaplatit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920901-083-p3s2w10">
 <src.rf>manual</src.rf>
@@ -1803,7 +1803,7 @@
 <LM>w#w-mf920901-083-p3s8Aw11</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920901-083-p3s8Aw12">
 <src.rf>manual</src.rf>
@@ -1933,7 +1933,7 @@
 <LM>w#w-mf920901-083-p3s8Bw6</LM>
 </w.rf>
 <form>začala</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920901-083-p3s8Bw7">
 <src.rf>manual</src.rf>

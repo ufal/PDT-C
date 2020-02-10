@@ -224,7 +224,7 @@
 <LM>w#w-mf920902-035-p2s1w24</LM>
 </w.rf>
 <form>mýlily</form>
-<tag lemma="mýlit_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="mýlit" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf920902-035-p2s1w25">
 <src.rf>manual</src.rf>
@@ -280,7 +280,7 @@
 <LM>w#w-mf920902-035-p2s1w31</LM>
 </w.rf>
 <form>šlo</form>
-<tag lemma="jít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="jít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920902-035-p2s1w32">
 <src.rf>manual</src.rf>
@@ -384,7 +384,7 @@
 <LM>w#w-mf920902-035-p2s1w44</LM>
 </w.rf>
 <form>voněly</form>
-<tag lemma="vonět" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vonět" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf920902-035-p2s1w45">
 <src.rf>manual</src.rf>
@@ -522,7 +522,7 @@
 <LM>w#w-mf920902-035-p2s2w10</LM>
 </w.rf>
 <form>vzpomínali</form>
-<tag lemma="vzpomínat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vzpomínat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf920902-035-p2s2w11">
 <src.rf>manual</src.rf>

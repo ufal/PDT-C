@@ -117,7 +117,7 @@
 <LM>w#w-vesm9211-057-p1s2w8</LM>
 </w.rf>
 <form>konala</form>
-<tag lemma="konat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="konat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-vesm9211-057-p1s2w9">
 <src.rf>manual</src.rf>
@@ -202,7 +202,7 @@
 <LM>w#w-vesm9211-057-p1s3w2</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-vesm9211-057-p1s3w3">
 <src.rf>manual</src.rf>
@@ -210,7 +210,7 @@
 <LM>w#w-vesm9211-057-p1s3w3</LM>
 </w.rf>
 <form>zjištěno</form>
-<tag lemma="zjistit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zjistit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-vesm9211-057-p1s3w4">
 <src.rf>manual</src.rf>
@@ -470,7 +470,7 @@
 <LM>w#w-vesm9211-057-p1s4w10</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-vesm9211-057-p1s4w11">
 <src.rf>manual</src.rf>
@@ -478,7 +478,7 @@
 <LM>w#w-vesm9211-057-p1s4w11</LM>
 </w.rf>
 <form>shledáno</form>
-<tag lemma="shledat_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="shledat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-vesm9211-057-p1s4w12">
 <src.rf>manual</src.rf>
@@ -584,7 +584,7 @@
 <LM>w#w-vesm9211-057-p1s5w3</LM>
 </w.rf>
 <form>udála</form>
-<tag lemma="udát" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="udát" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-vesm9211-057-p1s5w4">
 <src.rf>manual</src.rf>
@@ -666,7 +666,7 @@
 <LM>w#w-vesm9211-057-p1s6w6</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-vesm9211-057-p1s6w7">
 <src.rf>manual</src.rf>
@@ -708,7 +708,7 @@
 <LM>w#w-vesm9211-057-p1s7w3</LM>
 </w.rf>
 <form>udeřil</form>
-<tag lemma="udeřit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="udeřit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-vesm9211-057-p1s7w4">
 <src.rf>manual</src.rf>

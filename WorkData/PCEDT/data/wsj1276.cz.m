@@ -89,7 +89,7 @@
 <LM>w#w-wsj1276-001-p1s0W6</LM>
 </w.rf>
 <form>zakoupila</form>
-<tag lemma="zakoupit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="zakoupit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1276-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -344,7 +344,7 @@
 <LM>w#w-wsj1276-001-p1s1W3</LM>
 </w.rf>
 <form>souhlasila</form>
-<tag lemma="souhlasit" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="souhlasit" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj1276-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>

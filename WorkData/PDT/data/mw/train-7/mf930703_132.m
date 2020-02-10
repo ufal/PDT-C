@@ -349,7 +349,7 @@
 <LM>w#w-mf930703-132-p2s2w1</LM>
 </w.rf>
 <form>Potvrdili</form>
-<tag lemma="potvrdit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="potvrdit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930703-132-p2s2w2">
 <src.rf>manual</src.rf>
@@ -479,7 +479,7 @@
 <LM>w#w-mf930703-132-p3s1w3</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930703-132-p3s1w4">
 <src.rf>manual</src.rf>
@@ -487,7 +487,7 @@
 <LM>w#w-mf930703-132-p3s1w4</LM>
 </w.rf>
 <form>potvrzeno</form>
-<tag lemma="potvrdit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="potvrdit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf930703-132-p3s1w5">
 <src.rf>manual</src.rf>
@@ -886,7 +886,7 @@
 <LM>w#w-mf930703-132-p4s2w3</LM>
 </w.rf>
 <form>vytvořen</form>
-<tag lemma="vytvořit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="vytvořit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf930703-132-p4s2w4">
 <src.rf>manual</src.rf>

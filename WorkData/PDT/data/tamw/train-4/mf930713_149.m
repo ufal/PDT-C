@@ -184,7 +184,7 @@
 <LM>w#w-mf930713-149-p2s1Bw13</LM>
 </w.rf>
 <form>opustili</form>
-<tag lemma="opustit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="opustit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930713-149-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -232,7 +232,7 @@
 <LM>w#w-mf930713-149-p2s1Bw19</LM>
 </w.rf>
 <form>znemožnil</form>
-<tag lemma="znemožnit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="znemožnit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-149-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -282,7 +282,7 @@
 <LM>w#w-mf930713-149-p2s2w1</LM>
 </w.rf>
 <form>Napsala</form>
-<tag lemma="napsat" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="napsat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930713-149-p2s2w2">
 <src.rf>manual</src.rf>
@@ -384,7 +384,7 @@
 <LM>w#w-mf930713-149-p5s1w7</LM>
 </w.rf>
 <form>varoval</form>
-<tag lemma="varovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="varovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930713-149-p5s1w8">
 <src.rf>manual</src.rf>

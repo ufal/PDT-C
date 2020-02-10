@@ -146,7 +146,7 @@
 <LM>w#w-ln94210-137-p2s1Bw3</LM>
 </w.rf>
 <form>provedla</form>
-<tag lemma="provést" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="provést" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94210-137-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -242,7 +242,7 @@
 <LM>w#w-ln94210-137-p2s1Bw15</LM>
 </w.rf>
 <form>zkoumala</form>
-<tag lemma="zkoumat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zkoumat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94210-137-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -563,7 +563,7 @@
 <LM>w#w-ln94210-137-p2s3w11</LM>
 </w.rf>
 <form>dopadli</form>
-<tag lemma="dopadnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="dopadnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-ln94210-137-p2s3w12">
 <src.rf>manual</src.rf>
@@ -727,7 +727,7 @@
 <LM>w#w-ln94210-137-p2s4w7</LM>
 </w.rf>
 <form>prozradil</form>
-<tag lemma="prozradit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prozradit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94210-137-p2s4w8">
 <src.rf>manual</src.rf>
@@ -868,8 +868,8 @@
 </w.rf>
 <form>uvedl</form>
 <tag>
-<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="uvést" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="uvést" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94210-137-p2s4w25">

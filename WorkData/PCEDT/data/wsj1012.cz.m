@@ -19,7 +19,7 @@
 <tag>
 <AM lemma="tisk" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="tisk" src="auto">NNIS4-----A----</AM>
-<AM lemma="tisknout" src="auto">VpYS---XR-AAI-6</AM>
+<AM lemma="tisknout" src="auto">VpYS----R-AAI-6</AM>
 </tag>
 </m>
 <m id="m-wsj1012-001-p1s0W2-Ta">
@@ -362,7 +362,7 @@
 <LM>w#w-wsj1012-001-p1s2W5</LM>
 </w.rf>
 <form>zaměřen</form>
-<tag lemma="zaměřit" src="auto" recommended="1">VsYS---XX-APP--</tag>
+<tag lemma="zaměřit" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj1012-001-p1s2W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1004,7 +1004,7 @@
 <LM>w#w-wsj1012-001-p1s5W11</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1012-001-p1s5W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1012,7 +1012,7 @@
 <LM>w#w-wsj1012-001-p1s5W12</LM>
 </w.rf>
 <form>jmenován</form>
-<tag lemma="jmenovat" src="auto" recommended="1">VsYS---XX-APB--</tag>
+<tag lemma="jmenovat" src="auto" recommended="1">VsYS----X-APB--</tag>
 </m>
 <m id="m-wsj1012-001-p1s5W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1086,7 +1086,7 @@
 <tag>
 <AM lemma="Metal_;K" src="auto">NNIS1-----A----</AM>
 <AM lemma="Metal_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="metat" src="auto" recommended="1">VpYS---XR-AAI--</AM>
+<AM lemma="metat" src="auto" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="metal" src="auto">NNIS1-----A----</AM>
 <AM lemma="metal" src="auto">NNIS4-----A----</AM>
 <AM lemma="Metal-77" src="manual" selected="1">F%-------------</AM>
@@ -1112,7 +1112,7 @@
 <LM>w#w-wsj1012-001-p1s5W21</LM>
 </w.rf>
 <form>vystřídal</form>
-<tag lemma="vystřídat" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="vystřídat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1012-001-p1s5W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1169,7 +1169,7 @@
 <LM>w#w-wsj1012-001-p1s6W1</LM>
 </w.rf>
 <form>Byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj1012-001-p1s6W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1372,7 +1372,7 @@
 <LM>w#w-wsj1012-001-p1s6W17</LM>
 </w.rf>
 <form>převzali</form>
-<tag lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj1012-001-p1s6W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1602,7 +1602,7 @@
 <tag>
 <AM lemma="Metal_;K" src="auto">NNIS1-----A----</AM>
 <AM lemma="Metal_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="metat" src="auto">VpYS---XR-AAI--</AM>
+<AM lemma="metat" src="auto">VpYS----R-AAI--</AM>
 <AM lemma="metal" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="metal" src="auto">NNIS4-----A----</AM>
 <AM lemma="Metal-77" src="manual" selected="1">F%-------------</AM>

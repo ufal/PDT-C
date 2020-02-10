@@ -398,7 +398,7 @@
 <LM>w#w-lnd92257-070-p3s2w4</LM>
 </w.rf>
 <form>vystaveny</form>
-<tag lemma="vystavit_:W_^(např._potvrzení)" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="vystavit_^(např._potvrzení)" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd92257-070-p3s2w5">
 <src.rf>manual</src.rf>
@@ -2263,7 +2263,7 @@
 <LM>w#w-lnd92257-070-p3s8w5</LM>
 </w.rf>
 <form>vystaveny</form>
-<tag lemma="vystavit_:W_^(např._potvrzení)" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="vystavit_^(např._potvrzení)" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd92257-070-p3s8w6">
 <src.rf>manual</src.rf>

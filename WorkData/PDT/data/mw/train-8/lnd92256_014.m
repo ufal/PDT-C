@@ -352,7 +352,7 @@
 <LM>w#w-lnd92256-014-p1s2w14</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92256-014-p1s2w15">
 <src.rf>manual</src.rf>
@@ -392,7 +392,7 @@
 <LM>w#w-lnd92256-014-p1s2w19</LM>
 </w.rf>
 <form>realizován</form>
-<tag lemma="realizovat_:T_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="realizovat" src="orig" selected="1">VsYS----X-APB--</tag>
 </m>
 <m id="m-lnd92256-014-p1s2w20">
 <src.rf>manual</src.rf>
@@ -416,7 +416,7 @@
 <LM>w#w-lnd92256-014-p1s2w22</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-014-p1s2w23">
 <src.rf>manual</src.rf>

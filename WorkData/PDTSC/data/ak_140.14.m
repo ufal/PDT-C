@@ -19,7 +19,7 @@
 <LM>w#w-d1t2396-22</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m140-d1t2396-23">
 <w.rf>
@@ -118,7 +118,7 @@
 <LM>w#w-d1t2400-3</LM>
 </w.rf>
 <form>fotil</form>
-<tag lemma="fotit_:T" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="fotit" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m140-d1t2400-4">
 <w.rf>
@@ -182,14 +182,14 @@
 <LM>w#w-d1t2405-2</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m140-d1t2405-3">
 <w.rf>
 <LM>w#w-d1t2405-3</LM>
 </w.rf>
 <form>odměněni</form>
-<tag lemma="odměnit_:W" src="auto" recommended="1">VsMP---XX-AP---</tag>
+<tag lemma="odměnit" src="auto" recommended="1">VsMP----X-APP--</tag>
 </m>
 <m id="m140-827-828">
 <w.rf>
@@ -205,7 +205,7 @@
 <LM>w#w-d1t2405-5</LM>
 </w.rf>
 <form>Bavil</form>
-<tag lemma="bavit_:T" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="bavit" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m140-d1t2405-6">
 <w.rf>
@@ -278,7 +278,7 @@
 <LM>w#w-d1t2407-6</LM>
 </w.rf>
 <form>zkrátil</form>
-<tag lemma="zkrátit_:W" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="zkrátit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m140-829-830">
 <w.rf>
@@ -311,7 +311,7 @@
 <LM>w#w-d1t2407-11</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m140-d1t2407-12">
 <w.rf>
@@ -393,7 +393,7 @@
 <LM>w#w-d1t2411-3</LM>
 </w.rf>
 <form>vypršel</form>
-<tag lemma="vypršet" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="vypršet" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m140-d1t2411-4">
 <w.rf>
@@ -569,7 +569,7 @@
 <LM>w#w-d1t2420-7</LM>
 </w.rf>
 <form>povídalo</form>
-<tag lemma="povídat_:T" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="povídat" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m140-d-m-d1e2417-x2-punct-punct">
 <w.rf>

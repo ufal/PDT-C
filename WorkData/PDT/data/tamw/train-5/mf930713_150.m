@@ -209,7 +209,7 @@
 <LM>w#w-mf930713-150-p4s1w9</LM>
 </w.rf>
 <form>nepohnula</form>
-<tag lemma="pohnout_:W" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="pohnout" src="orig" selected="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-mf930713-150-p4s1w10">
 <src.rf>manual</src.rf>
@@ -780,7 +780,7 @@
 <LM>w#w-mf930713-150-p5s1w16</LM>
 </w.rf>
 <form>přijali</form>
-<tag lemma="přijmout" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přijmout" src="auto" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930713-150-p5s1w17">
 <src.rf>manual</src.rf>
@@ -1030,7 +1030,7 @@
 <LM>w#w-mf930713-150-p5s2w10</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930713-150-p5s2w11">
 <src.rf>manual</src.rf>
@@ -1347,7 +1347,7 @@
 <LM>w#w-mf930713-150-p6s1w19</LM>
 </w.rf>
 <form>rozdělena</form>
-<tag lemma="rozdělit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="rozdělit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf930713-150-p6s1w20">
 <src.rf>manual</src.rf>
@@ -1655,7 +1655,7 @@
 <LM>w#w-mf930713-150-p7s1w23</LM>
 </w.rf>
 <form>dohodli</form>
-<tag lemma="dohodnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="dohodnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-mf930713-150-p7s1w24">
 <src.rf>manual</src.rf>
@@ -2259,7 +2259,7 @@
 <LM>w#w-mf930713-150-p8s2w6</LM>
 </w.rf>
 <form>rozdělena</form>
-<tag lemma="rozdělit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="rozdělit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf930713-150-p8s2w7">
 <src.rf>manual</src.rf>

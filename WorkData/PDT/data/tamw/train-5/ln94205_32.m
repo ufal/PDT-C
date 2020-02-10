@@ -186,7 +186,7 @@
 <LM>w#w-ln94205-32-p2s1Bw12</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94205-32-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -311,7 +311,7 @@
 <LM>w#w-ln94205-32-p2s2w9</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94205-32-p2s2w10">
 <src.rf>manual</src.rf>
@@ -327,7 +327,7 @@
 <LM>w#w-ln94205-32-p2s2w11</LM>
 </w.rf>
 <form>zrušeny</form>
-<tag lemma="zrušit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="zrušit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln94205-32-p2s2w12">
 <src.rf>manual</src.rf>
@@ -436,7 +436,7 @@
 <LM>w#w-ln94205-32-p2s3w12</LM>
 </w.rf>
 <form>schválila</form>
-<tag lemma="schválit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="schválit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94205-32-p2s3w13">
 <src.rf>manual</src.rf>
@@ -470,7 +470,7 @@
 <LM>w#w-ln94205-32-p3s1w2</LM>
 </w.rf>
 <form>informoval</form>
-<tag lemma="informovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="informovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln94205-32-p3s1w3">
 <src.rf>manual</src.rf>
@@ -824,7 +824,7 @@
 <LM>w#w-ln94205-32-p3s3w5</LM>
 </w.rf>
 <form>mělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94205-32-p3s3w6">
 <src.rf>manual</src.rf>
@@ -1440,7 +1440,7 @@
 <form>zdaněny</form>
 <tag>
 <AM lemma="zdaňovat_^(vypočítat_daň)" src="orig">VsTP---XX-AP---</AM>
-<AM lemma="zdanit_:W_^(vypočítat_daň)" src="auto" recommended="1" selected="1">VsTP---XX-AP---</AM>
+<AM lemma="zdanit_^(vypočítat_daň)" src="auto" recommended="1" selected="1">VsTP----X-APP--</AM>
 </tag>
 </m>
 <m id="m-ln94205-32-p3s7w9">
@@ -1457,7 +1457,7 @@
 <LM>w#w-ln94205-32-p3s7w10</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94205-32-p3s7w11">
 <src.rf>manual</src.rf>

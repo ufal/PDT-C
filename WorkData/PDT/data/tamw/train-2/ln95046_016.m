@@ -75,7 +75,7 @@
 <LM>w#w-ln95046-016-p1s1w8</LM>
 </w.rf>
 <form>objevil</form>
-<tag lemma="objevit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="objevit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95046-016-p1s1w9">
 <src.rf>manual</src.rf>

@@ -29,7 +29,7 @@
 <LM>w#w-mf920901-080-p2s1w1</LM>
 </w.rf>
 <form>KOUSL</form>
-<tag lemma="kousnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="kousnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf920901-080-p2s1w2">
 <src.rf>manual</src.rf>
@@ -127,7 +127,7 @@
 <LM>w#w-mf920901-080-p2s2w10</LM>
 </w.rf>
 <form>obvinil</form>
-<tag lemma="obvinit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="obvinit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920901-080-p2s2w11">
 <src.rf>manual</src.rf>
@@ -233,7 +233,7 @@
 <LM>w#w-mf920901-080-p2s3w4</LM>
 </w.rf>
 <form>způsobili</form>
-<tag lemma="způsobit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="způsobit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920901-080-p2s3w5">
 <src.rf>manual</src.rf>
@@ -305,7 +305,7 @@
 <LM>w#w-mf920901-080-p2s3w13</LM>
 </w.rf>
 <form>kousl</form>
-<tag lemma="kousnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="kousnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf920901-080-p2s3w14">
 <src.rf>manual</src.rf>

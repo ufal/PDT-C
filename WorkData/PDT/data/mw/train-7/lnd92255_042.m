@@ -189,7 +189,7 @@
 <LM>w#w-lnd92255-042-p2s2w14</LM>
 </w.rf>
 <form>představila</form>
-<tag lemma="představit-1_:W_^(si_něco;_něco/někoho_někomu)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="představit-1_^(si_něco;_něco/někoho_někomu)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-042-p2s2w15">
 <src.rf>manual</src.rf>

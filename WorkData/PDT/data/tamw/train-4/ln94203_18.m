@@ -483,7 +483,7 @@
 <LM>w#w-ln94203-18-p2s2w12</LM>
 </w.rf>
 <form>zjednal</form>
-<tag lemma="zjednat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zjednat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94203-18-p2s2w13">
 <src.rf>manual</src.rf>

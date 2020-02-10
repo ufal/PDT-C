@@ -229,7 +229,7 @@
 <LM>w#w-lnd91303-075-p3s1Aw15</LM>
 </w.rf>
 <form>absolvovali</form>
-<tag lemma="absolvovat_:T_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="absolvovat" src="orig" selected="1">VpMP----R-AAB--</tag>
 </m>
 <m id="m-lnd91303-075-p3s1Aw16">
 <src.rf>manual</src.rf>
@@ -552,7 +552,7 @@
 <LM>w#w-lnd91303-075-p3s2w7</LM>
 </w.rf>
 <form>zaměřena</form>
-<tag lemma="zaměřit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zaměřit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd91303-075-p3s2w8">
 <src.rf>manual</src.rf>
@@ -624,7 +624,7 @@
 <LM>w#w-lnd91303-075-p3s2w16</LM>
 </w.rf>
 <form>svázána</form>
-<tag lemma="svázat" src="auto" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="svázat" src="auto" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd91303-075-p3s2w17">
 <src.rf>manual</src.rf>
@@ -1138,7 +1138,7 @@
 <LM>w#w-lnd91303-075-p4s1w11</LM>
 </w.rf>
 <form>vyvážen</form>
-<tag lemma="vyvážit_^(do_rovnováhy)" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="vyvážit_^(do_rovnováhy)" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd91303-075-p4s1w12">
 <src.rf>manual</src.rf>
@@ -1373,7 +1373,7 @@
 <LM>w#w-lnd91303-075-p4s1w40</LM>
 </w.rf>
 <form>kladeny</form>
-<tag lemma="klást" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="klást" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-lnd91303-075-p4s1w41">
 <src.rf>manual</src.rf>

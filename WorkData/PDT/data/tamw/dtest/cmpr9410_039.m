@@ -190,7 +190,7 @@
 <LM>w#w-cmpr9410-039-p1s2w10</LM>
 </w.rf>
 <form>umožnila</form>
-<tag lemma="umožnit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="umožnit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-cmpr9410-039-p1s2w11">
 <src.rf>manual</src.rf>

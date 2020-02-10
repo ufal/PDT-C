@@ -1222,7 +1222,7 @@
 <LM>w#w-vesm9212-003-p4s1w18</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-vesm9212-003-p4s1w19">
 <src.rf>manual</src.rf>
@@ -1230,7 +1230,7 @@
 <LM>w#w-vesm9212-003-p4s1w19</LM>
 </w.rf>
 <form>zaregistrován</form>
-<tag lemma="zaregistrovat_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zaregistrovat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-vesm9212-003-p4s1w20">
 <src.rf>manual</src.rf>

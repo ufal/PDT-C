@@ -27,7 +27,7 @@
 <LM>w#w-ln95048-150-p1s1w2</LM>
 </w.rf>
 <form>odsouzena</form>
-<tag lemma="odsoudit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="odsoudit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln95048-150-p1s1w3">
 <src.rf>manual</src.rf>
@@ -103,7 +103,7 @@
 <LM>w#w-ln95048-150-p2s1Bw4</LM>
 </w.rf>
 <form>odsoudil</form>
-<tag lemma="odsoudit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odsoudit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-150-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -288,7 +288,7 @@
 <LM>w#w-ln95048-150-p2s2w2</LM>
 </w.rf>
 <form>podmínil</form>
-<tag lemma="podmínit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="podmínit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-150-p2s2w3">
 <src.rf>manual</src.rf>
@@ -562,7 +562,7 @@
 <LM>w#w-ln95048-150-p2s3w7</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95048-150-p2s3w8">
 <src.rf>manual</src.rf>
@@ -587,8 +587,8 @@
 </w.rf>
 <form>odsouzena</form>
 <tag>
-<AM lemma="odsoudit" src="orig">VsQW---XX-AP---</AM>
-<AM lemma="odsoudit_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+<AM lemma="odsoudit" src="orig">VsQW----X-APP--</AM>
+<AM lemma="odsoudit" src="manual" selected="1">VsQW----X-APP--</AM>
 </tag>
 </m>
 <m id="m-ln95048-150-p2s3w11">
@@ -669,7 +669,7 @@
 <LM>w#w-ln95048-150-p2s3w20</LM>
 </w.rf>
 <form>prohlásila</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95048-150-p2s3w21">
 <src.rf>manual</src.rf>

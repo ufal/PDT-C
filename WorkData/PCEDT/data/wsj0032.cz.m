@@ -201,7 +201,7 @@
 <LM>w#w-wsj0032-001-p1s0W15</LM>
 </w.rf>
 <form>odstartovala</form>
-<tag lemma="odstartovat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="odstartovat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0032-001-p1s0W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -983,7 +983,7 @@
 <LM>w#w-wsj0032-001-p1s3W4</LM>
 </w.rf>
 <form>učiněna</form>
-<tag lemma="učinit" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="učinit" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj0032-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>

@@ -523,7 +523,7 @@
 <LM>w#w-ln94208-137-p3s1w1</LM>
 </w.rf>
 <form>Začínali</form>
-<tag lemma="začínat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="začínat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94208-137-p3s1w2">
 <src.rf>manual</src.rf>
@@ -617,7 +617,7 @@
 <LM>w#w-ln94208-137-p3s2w5</LM>
 </w.rf>
 <form>přivedl</form>
-<tag lemma="přivést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přivést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94208-137-p3s2w6">
 <src.rf>manual</src.rf>
@@ -683,7 +683,7 @@
 <LM>w#w-ln94208-137-p3s3w4</LM>
 </w.rf>
 <form>chodili</form>
-<tag lemma="chodit_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="chodit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94208-137-p3s3w5">
 <src.rf>manual</src.rf>
@@ -747,7 +747,7 @@
 <LM>w#w-ln94208-137-p3s3w13</LM>
 </w.rf>
 <form>nadiktovali</form>
-<tag lemma="nadiktovat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="nadiktovat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94208-137-p3s3w14">
 <src.rf>manual</src.rf>
@@ -771,7 +771,7 @@
 <LM>w#w-ln94208-137-p3s3w16</LM>
 </w.rf>
 <form>nahráli</form>
-<tag lemma="nahrát" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="nahrát" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94208-137-p3s3w17">
 <src.rf>manual</src.rf>
@@ -962,7 +962,7 @@
 <LM>w#w-ln94208-137-p3s5w4</LM>
 </w.rf>
 <form>investovali</form>
-<tag lemma="investovat_:T_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="investovat" src="orig" selected="1">VpMP----R-AAB--</tag>
 </m>
 <m id="m-ln94208-137-p3s5w5">
 <src.rf>manual</src.rf>
@@ -1382,7 +1382,7 @@
 <LM>w#w-ln94208-137-p3s7w10</LM>
 </w.rf>
 <form>donesly</form>
-<tag lemma="donést" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="donést" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94208-137-p3s7w11">
 <src.rf>manual</src.rf>
@@ -1643,7 +1643,7 @@
 <LM>w#w-ln94208-137-p3s8w6</LM>
 </w.rf>
 <form>museli</form>
-<tag lemma="muset" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="muset" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94208-137-p3s8w7">
 <src.rf>manual</src.rf>

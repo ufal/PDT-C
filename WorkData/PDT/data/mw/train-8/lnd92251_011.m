@@ -197,7 +197,7 @@
 <LM>w#w-lnd92251-011-p3s2w13</LM>
 </w.rf>
 <form>usoudilo</form>
-<tag lemma="usoudit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="usoudit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-011-p3s2w14">
 <src.rf>manual</src.rf>
@@ -753,7 +753,7 @@
 <LM>w#w-lnd92251-011-p3s2w80</LM>
 </w.rf>
 <form>vedly</form>
-<tag lemma="vést" src="auto" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vést" src="auto" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd92251-011-p3s2w81">
 <src.rf>manual</src.rf>

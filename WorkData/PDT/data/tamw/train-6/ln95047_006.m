@@ -330,7 +330,7 @@
 <LM>w#w-ln95047-006-p2s2w1</LM>
 </w.rf>
 <form>Informoval</form>
-<tag lemma="informovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="informovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln95047-006-p2s2w2">
 <src.rf>manual</src.rf>

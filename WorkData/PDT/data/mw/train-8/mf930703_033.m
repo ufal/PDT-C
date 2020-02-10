@@ -646,7 +646,7 @@
 <LM>w#w-mf930703-033-p2s4w7</LM>
 </w.rf>
 <form>potvrdil</form>
-<tag lemma="potvrdit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="potvrdit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-033-p2s4w8">
 <src.rf>manual</src.rf>

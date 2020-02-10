@@ -793,7 +793,7 @@
 <LM>w#w-ln95045-005-p2s3w8</LM>
 </w.rf>
 <form>svezla</form>
-<tag lemma="svézt" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="svézt" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95045-005-p2s3w9">
 <src.rf>manual</src.rf>
@@ -1109,7 +1109,7 @@
 <LM>w#w-ln95045-005-p3s1w8</LM>
 </w.rf>
 <form>nakoupili</form>
-<tag lemma="nakoupit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="nakoupit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95045-005-p3s1w9">
 <src.rf>manual</src.rf>
@@ -1547,7 +1547,7 @@
 <LM>w#w-ln95045-005-p3s2w23</LM>
 </w.rf>
 <form>přestali</form>
-<tag lemma="přestat" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přestat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95045-005-p3s2w24">
 <src.rf>manual</src.rf>
@@ -1654,7 +1654,7 @@
 <LM>w#w-ln95045-005-p3s2w36</LM>
 </w.rf>
 <form>korigovali</form>
-<tag lemma="korigovat_:T_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="korigovat" src="orig" selected="1">VpMP----R-AAB--</tag>
 </m>
 <m id="m-ln95045-005-p3s2w37">
 <src.rf>manual</src.rf>
@@ -1985,7 +1985,7 @@
 <LM>w#w-ln95045-005-p4s2w20</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95045-005-p4s2w21">
 <src.rf>manual</src.rf>
@@ -2462,7 +2462,7 @@
 <LM>w#w-ln95045-005-p5s2w7</LM>
 </w.rf>
 <form>nastal</form>
-<tag lemma="nastat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nastat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-005-p5s2w8">
 <src.rf>manual</src.rf>
@@ -2928,7 +2928,7 @@
 <LM>w#w-ln95045-005-p5s3w35</LM>
 </w.rf>
 <form>nadhodnoceny</form>
-<tag lemma="nadhodnotit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="nadhodnotit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln95045-005-p5s3w36">
 <src.rf>manual</src.rf>
@@ -3138,7 +3138,7 @@
 <LM>w#w-ln95045-005-p5s4w9</LM>
 </w.rf>
 <form>nedosáhly</form>
-<tag lemma="dosáhnout" src="orig" selected="1">VpTP---XR-NA---</tag>
+<tag lemma="dosáhnout" src="orig" selected="1">VpTP----R-NAP--</tag>
 </m>
 <m id="m-ln95045-005-p5s4w10">
 <src.rf>manual</src.rf>

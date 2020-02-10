@@ -131,7 +131,7 @@
 <LM>w#w-mf930703-027-p2s1w9</LM>
 </w.rf>
 <form>zahájila</form>
-<tag lemma="zahájit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zahájit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930703-027-p2s1w10">
 <src.rf>manual</src.rf>
@@ -203,7 +203,7 @@
 <LM>w#w-mf930703-027-p2s1w18</LM>
 </w.rf>
 <form>způsobil</form>
-<tag lemma="způsobit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="způsobit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-027-p2s1w19">
 <src.rf>manual</src.rf>
@@ -253,7 +253,7 @@
 <LM>w#w-mf930703-027-p2s2w3</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930703-027-p2s2w4">
 <src.rf>manual</src.rf>
@@ -454,7 +454,7 @@
 <LM>w#w-mf930703-027-p3s1w6</LM>
 </w.rf>
 <form>uniklo</form>
-<tag lemma="uniknout_:W" src="orig" selected="1">VpNS---XR-AA--1</tag>
+<tag lemma="uniknout" src="orig" selected="1">VpNS----R-AAP-1</tag>
 </m>
 <m id="m-mf930703-027-p3s1w7">
 <src.rf>manual</src.rf>
@@ -519,8 +519,8 @@
 </w.rf>
 <form>stekla</form>
 <tag>
-<AM lemma="stéci" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="stéci_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="stéci" src="orig">VpQW----R-AAP--</AM>
+<AM lemma="stéci" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930703-027-p3s1w15">
@@ -570,8 +570,8 @@
 </w.rf>
 <form>shořela</form>
 <tag>
-<AM lemma="shořet" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="shořet_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="shořet" src="orig">VpQW----R-AAP--</AM>
+<AM lemma="shořet" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930703-027-p3s1w21">
@@ -655,8 +655,8 @@
 </w.rf>
 <form>dostalo</form>
 <tag>
-<AM lemma="dostat" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="dostat_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="dostat" src="orig">VpNS----R-AAP--</AM>
+<AM lemma="dostat" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930703-027-p3s2w6">
@@ -723,7 +723,7 @@
 <LM>w#w-mf930703-027-p3s3w4</LM>
 </w.rf>
 <form>neutralizovali</form>
-<tag lemma="neutralizovat_:T" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="neutralizovat" src="auto" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930703-027-p3s3w5">
 <src.rf>manual</src.rf>
@@ -797,7 +797,7 @@
 <LM>w#w-mf930703-027-p3s4w7</LM>
 </w.rf>
 <form>zabránily</form>
-<tag lemma="zabránit_:W_^(někomu_v_něčem)" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zabránit_^(někomu_v_něčem)" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf930703-027-p3s4w8">
 <src.rf>manual</src.rf>

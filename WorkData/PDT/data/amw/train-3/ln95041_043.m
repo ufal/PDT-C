@@ -67,7 +67,7 @@
 <LM>w#w-ln95041-043-p1s1w7</LM>
 </w.rf>
 <form>hrál</form>
-<tag lemma="hrát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="hrát" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95041-043-p1s1w8">
 <src.rf>manual</src.rf>

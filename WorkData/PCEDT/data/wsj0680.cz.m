@@ -431,7 +431,7 @@
 <LM>w#w-wsj0680-001-p1s1W11</LM>
 </w.rf>
 <form>uvedena</form>
-<tag lemma="uvést" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj0680-001-p1s1W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -982,7 +982,7 @@
 <LM>w#w-wsj0680-001-p1s7W3</LM>
 </w.rf>
 <form>Převedeno</form>
-<tag lemma="převést" src="auto" recommended="1">VsNS---XX-APP--</tag>
+<tag lemma="převést" src="auto" recommended="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-wsj0680-001-p1s7W4-Ta">
 <src.rf>tagger-a</src.rf>

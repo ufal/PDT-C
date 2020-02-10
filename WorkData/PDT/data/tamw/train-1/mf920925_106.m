@@ -111,7 +111,7 @@
 <LM>w#w-mf920925-106-p2s2w3</LM>
 </w.rf>
 <form>pohrozila</form>
-<tag lemma="pohrozit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="pohrozit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920925-106-p2s2w4">
 <src.rf>manual</src.rf>
@@ -313,7 +313,7 @@
 <LM>w#w-mf920925-106-p3s1w5</LM>
 </w.rf>
 <form>rozhodla</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-mf920925-106-p3s1w6">
 <src.rf>manual</src.rf>
@@ -369,7 +369,7 @@
 <LM>w#w-mf920925-106-p3s1w13</LM>
 </w.rf>
 <form>vytlačila</form>
-<tag lemma="vytlačit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vytlačit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920925-106-p3s1w14">
 <src.rf>manual</src.rf>
@@ -441,7 +441,7 @@
 <LM>w#w-mf920925-106-p3s1w22</LM>
 </w.rf>
 <form>prohlásil</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920925-106-p3s1w23">
 <src.rf>manual</src.rf>

@@ -115,7 +115,7 @@
 <LM>w#w-wsj0951-001-p1s0W8</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj0951-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -123,7 +123,7 @@
 <LM>w#w-wsj0951-001-p1s0W9</LM>
 </w.rf>
 <form>zvolen</form>
-<tag lemma="zvolit" src="auto" recommended="1">VsYS---XX-APP--</tag>
+<tag lemma="zvolit" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj0951-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -300,7 +300,7 @@
 <LM>w#w-wsj0951-001-p1s0W23</LM>
 </w.rf>
 <form>rozšířila</form>
-<tag lemma="rozšířit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="rozšířit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0951-001-p1s0W24-Ta">
 <src.rf>tagger-a</src.rf>

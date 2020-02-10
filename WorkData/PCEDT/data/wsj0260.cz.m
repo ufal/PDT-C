@@ -69,7 +69,7 @@
 <LM>w#w-wsj0260-001-p1s0W6</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0260-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -162,7 +162,7 @@
 <LM>w#w-wsj0260-001-p1s0W14</LM>
 </w.rf>
 <form>podala</form>
-<tag lemma="podat_^(něco_[někomu]_[někam])" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="podat_^(něco_[někomu]_[někam])" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0260-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -713,7 +713,7 @@
 <LM>w#w-wsj0260-001-p1s1W11</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0260-001-p1s1W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -830,7 +830,7 @@
 <AM lemma="stopa_^(míra;_otisk_s.;_s._po_něčem_[malé_množství])" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="stopit_^(úplně_spotřebovat_topením)" src="auto">Vi-S---2--A-P--</AM>
 <AM lemma="stopit_^(úplně_spotřebovat_topením)" src="auto">Vi-S---3--A-P-4</AM>
-<AM lemma="stopnout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="stopnout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-wsj0260-001-p1s1W21-Ta">
@@ -855,7 +855,7 @@
 <LM>w#w-wsj0260-001-p1s1W23</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-wsj0260-001-p1s1W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -863,7 +863,7 @@
 <LM>w#w-wsj0260-001-p1s1W24</LM>
 </w.rf>
 <form>postaveno</form>
-<tag lemma="postavit" src="auto" recommended="1">VsNS---XX-APP--</tag>
+<tag lemma="postavit" src="auto" recommended="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-wsj0260-001-p1s1W25-Ta">
 <src.rf>tagger-a</src.rf>

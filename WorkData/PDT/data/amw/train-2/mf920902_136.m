@@ -35,7 +35,7 @@
 <LM>w#w-mf920902-136-p1s1w3</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920902-136-p1s1w4">
 <src.rf>manual</src.rf>
@@ -43,7 +43,7 @@
 <LM>w#w-mf920902-136-p1s1w4</LM>
 </w.rf>
 <form>nasazena</form>
-<tag lemma="nasadit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="nasadit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf920902-136-p1s1w5">
 <src.rf>manual</src.rf>
@@ -123,7 +123,7 @@
 <LM>w#w-mf920902-136-p1s1w14</LM>
 </w.rf>
 <form>potýkali</form>
-<tag lemma="potýkat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="potýkat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf920902-136-p1s1w15">
 <src.rf>manual</src.rf>

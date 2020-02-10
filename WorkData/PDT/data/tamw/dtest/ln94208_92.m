@@ -1572,7 +1572,7 @@
 <LM>w#w-ln94208-92-p4s3w2</LM>
 </w.rf>
 <form>zajistili</form>
-<tag lemma="zajistit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zajistit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94208-92-p4s3w3">
 <src.rf>manual</src.rf>

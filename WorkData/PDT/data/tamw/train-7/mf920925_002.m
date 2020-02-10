@@ -59,7 +59,7 @@
 <LM>w#w-mf920925-002-p1s1w6</LM>
 </w.rf>
 <form>začalo</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920925-002-p1s1w7">
 <src.rf>manual</src.rf>
@@ -239,7 +239,7 @@
 <LM>w#w-mf920925-002-p1s3w3</LM>
 </w.rf>
 <form>sesunula</form>
-<tag lemma="sesunout" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="sesunout" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920925-002-p1s3w4">
 <src.rf>manual</src.rf>

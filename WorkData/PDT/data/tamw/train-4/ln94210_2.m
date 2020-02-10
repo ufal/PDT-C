@@ -335,7 +335,7 @@
 <LM>w#w-ln94210-2-p3s1w10</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94210-2-p3s1w11">
 <src.rf>manual</src.rf>
@@ -515,7 +515,7 @@
 <LM>w#w-ln94210-2-p3s3w7</LM>
 </w.rf>
 <form>poskytlo</form>
-<tag lemma="poskytnout_:W" src="orig" selected="1">VpNS---XR-AA--1</tag>
+<tag lemma="poskytnout" src="orig" selected="1">VpNS----R-AAP-1</tag>
 </m>
 <m id="m-ln94210-2-p3s3w8">
 <src.rf>manual</src.rf>
@@ -595,7 +595,7 @@
 <LM>w#w-ln94210-2-p3s3w17</LM>
 </w.rf>
 <form>zajistila</form>
-<tag lemma="zajistit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zajistit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94210-2-p3s3w18">
 <src.rf>manual</src.rf>
@@ -940,7 +940,7 @@
 <LM>w#w-ln94210-2-p4s2w6</LM>
 </w.rf>
 <form>pronajímány</form>
-<tag lemma="pronajímat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="pronajímat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln94210-2-p4s2w7">
 <src.rf>manual</src.rf>
@@ -1028,8 +1028,8 @@
 </w.rf>
 <form>určeny</form>
 <tag>
-<AM lemma="určit" src="orig">VsTP---XX-AP---</AM>
-<AM lemma="určit_:W" src="manual" selected="1">VsTP---XX-AP---</AM>
+<AM lemma="určit" src="orig">VsTP----X-APP--</AM>
+<AM lemma="určit" src="manual" selected="1">VsTP----X-APP--</AM>
 </tag>
 </m>
 <m id="m-ln94210-2-p4s2w17">

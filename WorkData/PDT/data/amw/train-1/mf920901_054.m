@@ -35,7 +35,7 @@
 <LM>w#w-mf920901-054-p1s1w3</LM>
 </w.rf>
 <form>trénovali</form>
-<tag lemma="trénovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="trénovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf920901-054-p1s1w4">
 <src.rf>manual</src.rf>

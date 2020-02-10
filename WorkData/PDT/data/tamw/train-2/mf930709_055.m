@@ -848,7 +848,7 @@
 <LM>w#w-mf930709-055-p2s2Bw10</LM>
 </w.rf>
 <form>nastudoval</form>
-<tag lemma="nastudovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nastudovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-055-p2s2Bw11">
 <src.rf>manual</src.rf>
@@ -944,7 +944,7 @@
 <LM>w#w-mf930709-055-p2s2Bw22</LM>
 </w.rf>
 <form>natočil</form>
-<tag lemma="natočit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="natočit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-055-p2s2Bw23">
 <src.rf>manual</src.rf>

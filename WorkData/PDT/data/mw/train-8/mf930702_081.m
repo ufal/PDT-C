@@ -96,7 +96,7 @@
 <LM>w#w-mf930702-081-p2s1w9</LM>
 </w.rf>
 <form>nominoval</form>
-<tag lemma="nominovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nominovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-mf930702-081-p2s1w10">
 <src.rf>manual</src.rf>
@@ -339,7 +339,7 @@
 <LM>w#w-mf930702-081-p3s1w10</LM>
 </w.rf>
 <form>nominoval</form>
-<tag lemma="nominovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nominovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-mf930702-081-p3s1w11">
 <src.rf>manual</src.rf>

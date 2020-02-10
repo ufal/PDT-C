@@ -891,7 +891,7 @@
 <LM>w#w-cmpr9415-011-p10s1w11</LM>
 </w.rf>
 <form>vzdáleny</form>
-<tag lemma="vzdálit" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="vzdálit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-cmpr9415-011-p10s1w12">
 <src.rf>manual</src.rf>
@@ -1622,7 +1622,7 @@
 <LM>w#w-cmpr9415-011-p13s1w4</LM>
 </w.rf>
 <form>započten</form>
-<tag lemma="započíst" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="započíst" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-cmpr9415-011-p13s1w5">
 <src.rf>manual</src.rf>

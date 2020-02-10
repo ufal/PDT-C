@@ -578,7 +578,7 @@
 <LM>w#w-vesm9301-015-p4s1w8</LM>
 </w.rf>
 <form>provázel</form>
-<tag lemma="provázet_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="provázet" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-vesm9301-015-p4s1w9">
 <src.rf>manual</src.rf>
@@ -634,7 +634,7 @@
 <LM>w#w-vesm9301-015-p4s1w15</LM>
 </w.rf>
 <form>zakládaly</form>
-<tag lemma="zakládat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zakládat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-vesm9301-015-p4s1w16">
 <src.rf>manual</src.rf>
@@ -772,7 +772,7 @@
 <LM>w#w-vesm9301-015-p4s2w1</LM>
 </w.rf>
 <form>Nedaly</form>
-<tag lemma="dát" src="orig" selected="1">VpTP---XR-NA---</tag>
+<tag lemma="dát" src="orig" selected="1">VpTP----R-NAP--</tag>
 </m>
 <m id="m-vesm9301-015-p4s2w2">
 <src.rf>manual</src.rf>
@@ -1200,7 +1200,7 @@
 <LM>w#w-vesm9301-015-p4s5w5</LM>
 </w.rf>
 <form>chápány</form>
-<tag lemma="chápat" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="chápat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-vesm9301-015-p4s5w6">
 <src.rf>manual</src.rf>
@@ -1715,7 +1715,7 @@
 <LM>w#w-vesm9301-015-p5s2w1</LM>
 </w.rf>
 <form>Řečeno</form>
-<tag lemma="říci" src="auto" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="říci" src="auto" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-vesm9301-015-p5s2w2">
 <src.rf>manual</src.rf>
@@ -2029,7 +2029,7 @@
 <LM>w#w-vesm9301-015-p5s3w10</LM>
 </w.rf>
 <form>nepoznán</form>
-<tag lemma="poznat_:W" src="orig" selected="1">VsYS---XX-NP---</tag>
+<tag lemma="poznat" src="orig" selected="1">VsYS----X-NPP--</tag>
 </m>
 <m id="m-vesm9301-015-p5s3w11">
 <src.rf>manual</src.rf>
@@ -2094,7 +2094,7 @@
 <LM>w#w-vesm9301-015-p5s3w18</LM>
 </w.rf>
 <form>vnímán</form>
-<tag lemma="vnímat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="vnímat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-vesm9301-015-p5s3w19">
 <src.rf>manual</src.rf>
@@ -2800,7 +2800,7 @@
 <LM>w#w-vesm9301-015-p6s3w16</LM>
 </w.rf>
 <form>založila</form>
-<tag lemma="založit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="založit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-vesm9301-015-p6s3w17">
 <src.rf>manual</src.rf>
@@ -2866,7 +2866,7 @@
 <LM>w#w-vesm9301-015-p6s4w4</LM>
 </w.rf>
 <form>zrodila</form>
-<tag lemma="zrodit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zrodit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-vesm9301-015-p6s4w5">
 <src.rf>manual</src.rf>
@@ -3118,7 +3118,7 @@
 <LM>w#w-vesm9301-015-p7s2w5</LM>
 </w.rf>
 <form>prohlásili</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-vesm9301-015-p7s2w6">
 <src.rf>manual</src.rf>
@@ -3862,7 +3862,7 @@
 <LM>w#w-vesm9301-015-p8s1Bw12</LM>
 </w.rf>
 <form>netekla</form>
-<tag lemma="téci" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="téci" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-vesm9301-015-p8s1Bw13">
 <src.rf>manual</src.rf>
@@ -3942,7 +3942,7 @@
 <LM>w#w-vesm9301-015-p8s1Bw23</LM>
 </w.rf>
 <form>neodkapávala</form>
-<tag lemma="odkapávat_:T_^(*4at)" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="odkapávat_^(*4at)" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-vesm9301-015-p8s1Bw24">
 <src.rf>manual</src.rf>
@@ -4444,7 +4444,7 @@
 <LM>w#w-vesm9301-015-p8s5w3</LM>
 </w.rf>
 <form>determinován</form>
-<tag lemma="determinovat_:T_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="determinovat" src="orig" selected="1">VsYS----X-APB--</tag>
 </m>
 <m id="m-vesm9301-015-p8s5w4">
 <src.rf>manual</src.rf>
@@ -5193,7 +5193,7 @@
 <LM>w#w-vesm9301-015-p9s4w3</LM>
 </w.rf>
 <form>objevili</form>
-<tag lemma="objevit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="objevit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-vesm9301-015-p9s4w4">
 <src.rf>manual</src.rf>
@@ -5277,7 +5277,7 @@
 <LM>w#w-vesm9301-015-p9s4w14</LM>
 </w.rf>
 <form>registrovali</form>
-<tag lemma="registrovat_:T_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="registrovat" src="orig" selected="1">VpMP----R-AAB--</tag>
 </m>
 <m id="m-vesm9301-015-p9s4w15">
 <src.rf>manual</src.rf>
@@ -5833,7 +5833,7 @@
 <LM>w#w-vesm9301-015-p10s2w4</LM>
 </w.rf>
 <form>prokázalo</form>
-<tag lemma="prokázat" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="prokázat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-vesm9301-015-p10s2w5">
 <src.rf>manual</src.rf>
@@ -7016,7 +7016,7 @@
 <LM>w#w-vesm9301-015-p11s4w23</LM>
 </w.rf>
 <form>určeno</form>
-<tag lemma="určit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="určit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-vesm9301-015-p11s4w24">
 <src.rf>manual</src.rf>
@@ -7146,7 +7146,7 @@
 <LM>w#w-vesm9301-015-p11s5w9</LM>
 </w.rf>
 <form>charakterizováno</form>
-<tag lemma="charakterizovat_:T_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="charakterizovat" src="orig" selected="1">VsNS----X-APB--</tag>
 </m>
 <m id="m-vesm9301-015-p11s5w10">
 <src.rf>manual</src.rf>
@@ -8678,7 +8678,7 @@
 <LM>w#w-vesm9301-015-p14s1w15</LM>
 </w.rf>
 <form>uvědomili</form>
-<tag lemma="uvědomit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="uvědomit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-vesm9301-015-p14s1w16">
 <src.rf>manual</src.rf>
@@ -8895,7 +8895,7 @@
 <LM>w#w-vesm9301-015-p14s1w41</LM>
 </w.rf>
 <form>probíhaly</form>
-<tag lemma="probíhat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="probíhat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-vesm9301-015-p14s1w42">
 <src.rf>manual</src.rf>
@@ -9666,7 +9666,7 @@
 <LM>w#w-vesm9301-015-p15s3w30</LM>
 </w.rf>
 <form>považována</form>
-<tag lemma="považovat_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="považovat" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-vesm9301-015-p15s3w31">
 <src.rf>manual</src.rf>

@@ -60,7 +60,7 @@
 <LM>w#w-lnd91303-044-p1s1w6</LM>
 </w.rf>
 <form>udělala</form>
-<tag lemma="udělat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="udělat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-044-p1s1w7">
 <src.rf>manual</src.rf>
@@ -100,7 +100,7 @@
 <LM>w#w-lnd91303-044-p1s1w11</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-044-p1s1w12">
 <src.rf>manual</src.rf>

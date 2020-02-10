@@ -305,7 +305,7 @@
 <LM>w#w-lnd91303-101-p4s2w9</LM>
 </w.rf>
 <form>spouštěni</form>
-<tag lemma="spouštět_:T" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="spouštět" src="orig" selected="1">VsMP----X-API--</tag>
 </m>
 <m id="m-lnd91303-101-p4s2w10">
 <src.rf>manual</src.rf>
@@ -1041,7 +1041,7 @@
 <LM>w#w-lnd91303-101-p10s1w7</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-101-p10s1w8">
 <src.rf>manual</src.rf>
@@ -1121,7 +1121,7 @@
 <LM>w#w-lnd91303-101-p10s1w17</LM>
 </w.rf>
 <form>odpadl</form>
-<tag lemma="odpadnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="odpadnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd91303-101-p10s1w18">
 <src.rf>manual</src.rf>

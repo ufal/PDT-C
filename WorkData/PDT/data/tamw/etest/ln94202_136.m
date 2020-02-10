@@ -444,7 +444,7 @@
 <LM>w#w-ln94202-136-p3s1w10</LM>
 </w.rf>
 <form>vyskytlo</form>
-<tag lemma="vyskytnout_:W" src="orig" selected="1">VpNS---XR-AA--1</tag>
+<tag lemma="vyskytnout" src="orig" selected="1">VpNS----R-AAP-1</tag>
 </m>
 <m id="m-ln94202-136-p3s1w11">
 <src.rf>manual</src.rf>
@@ -795,7 +795,7 @@
 <LM>w#w-ln94202-136-p4s1w24</LM>
 </w.rf>
 <form>odkoupila</form>
-<tag lemma="odkoupit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="odkoupit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94202-136-p4s1w25">
 <src.rf>manual</src.rf>
@@ -1380,7 +1380,7 @@
 <LM>w#w-ln94202-136-p5s2w14</LM>
 </w.rf>
 <form>uzavřena</form>
-<tag lemma="uzavřít" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="uzavřít" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94202-136-p5s2w15">
 <src.rf>manual</src.rf>
@@ -1898,7 +1898,7 @@
 <LM>w#w-ln94202-136-p6s3w6</LM>
 </w.rf>
 <form>urychlovány</form>
-<tag lemma="urychlovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="urychlovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln94202-136-p6s3w7">
 <src.rf>manual</src.rf>

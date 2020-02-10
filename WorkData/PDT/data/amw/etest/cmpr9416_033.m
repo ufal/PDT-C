@@ -114,7 +114,7 @@
 <LM>w#w-cmpr9416-033-p6s1w6</LM>
 </w.rf>
 <form>ustavilo</form>
-<tag lemma="ustavit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="ustavit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9416-033-p6s1w7">
 <src.rf>manual</src.rf>
@@ -212,7 +212,7 @@
 <LM>w#w-cmpr9416-033-p6s2w3</LM>
 </w.rf>
 <form>projevilo</form>
-<tag lemma="projevit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="projevit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9416-033-p6s2w4">
 <src.rf>manual</src.rf>
@@ -344,7 +344,7 @@
 <LM>w#w-cmpr9416-033-p10s1w4</LM>
 </w.rf>
 <form>podařilo</form>
-<tag lemma="podařit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="podařit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9416-033-p10s1w5">
 <src.rf>manual</src.rf>
@@ -530,7 +530,7 @@
 <LM>w#w-cmpr9416-033-p10s2w5</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9416-033-p10s2w6">
 <src.rf>manual</src.rf>
@@ -695,7 +695,7 @@
 <LM>w#w-cmpr9416-033-p10s3w4</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9416-033-p10s3w5">
 <src.rf>manual</src.rf>
@@ -759,7 +759,7 @@
 <LM>w#w-cmpr9416-033-p10s3w12</LM>
 </w.rf>
 <form>snažili</form>
-<tag lemma="snažit_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="snažit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-cmpr9416-033-p10s3w13">
 <src.rf>manual</src.rf>
@@ -865,7 +865,7 @@
 <LM>w#w-cmpr9416-033-p10s4w9</LM>
 </w.rf>
 <form>prodloužily</form>
-<tag lemma="prodloužit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="prodloužit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-cmpr9416-033-p10s4w10">
 <src.rf>manual</src.rf>
@@ -1257,8 +1257,8 @@
 </w.rf>
 <form>dosáhla</form>
 <tag>
-<AM lemma="dosáhnout" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="dosáhnout_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="dosáhnout" src="orig">VpQW----R-AAP--</AM>
+<AM lemma="dosáhnout" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-033-p12s1w7">

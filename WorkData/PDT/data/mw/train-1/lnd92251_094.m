@@ -252,7 +252,7 @@
 <LM>w#w-lnd92251-094-p3s2w19</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd92251-094-p3s2w20">
 <src.rf>manual</src.rf>
@@ -269,9 +269,9 @@
 </w.rf>
 <form>vyvěšeny</form>
 <tag>
-<AM lemma="vyvěsit" src="orig">VsTP---XX-AP---</AM>
+<AM lemma="vyvěsit" src="orig">VsTP----X-APP--</AM>
 <AM lemma="vyvěsit_:S" src="manual">VsTP---XX-AP---</AM>
-<AM lemma="vyvěsit_:W" src="manual" selected="1">VsTP---XX-AP---</AM>
+<AM lemma="vyvěsit" src="manual" selected="1">VsTP----X-APP--</AM>
 </tag>
 </m>
 <m id="m-lnd92251-094-p3s2w22">
@@ -394,7 +394,7 @@
 <LM>w#w-lnd92251-094-p3s3w11</LM>
 </w.rf>
 <form>nabízeny</form>
-<tag lemma="nabízet_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="nabízet" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-lnd92251-094-p3s3w12">
 <src.rf>manual</src.rf>
@@ -710,7 +710,7 @@
 <LM>w#w-lnd92251-094-p3s5w12</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92251-094-p3s5w13">
 <src.rf>manual</src.rf>
@@ -719,8 +719,8 @@
 </w.rf>
 <form>zjištěno</form>
 <tag>
-<AM lemma="zjistit" src="orig">VsNS---XX-AP---</AM>
-<AM lemma="zjistit_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+<AM lemma="zjistit" src="orig">VsNS----X-APP--</AM>
+<AM lemma="zjistit" src="manual" selected="1">VsNS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-lnd92251-094-p3s5w14">
@@ -793,7 +793,7 @@
 <LM>w#w-lnd92251-094-p3s5w22</LM>
 </w.rf>
 <form>nakaženo</form>
-<tag lemma="nakazit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="nakazit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92251-094-p3s5w23">
 <src.rf>manual</src.rf>
@@ -911,7 +911,7 @@
 <LM>w#w-lnd92251-094-p3s5w36</LM>
 </w.rf>
 <form>podepsal</form>
-<tag lemma="podepsat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="podepsat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-094-p3s5w37">
 <src.rf>manual</src.rf>
@@ -992,7 +992,7 @@
 <LM>w#w-lnd92251-094-p3s6w1</LM>
 </w.rf>
 <form>Vylepovány</form>
-<tag lemma="vylepovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="vylepovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-lnd92251-094-p3s6w2">
 <src.rf>manual</src.rf>

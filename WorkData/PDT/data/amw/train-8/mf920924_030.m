@@ -261,7 +261,7 @@
 <LM>w#w-mf920924-030-p2s2w6</LM>
 </w.rf>
 <form>dovolila</form>
-<tag lemma="dovolit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="dovolit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920924-030-p2s2w7">
 <src.rf>manual</src.rf>
@@ -319,7 +319,7 @@
 <LM>w#w-mf920924-030-p2s3w1</LM>
 </w.rf>
 <form>Prohlásil</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920924-030-p2s3w2">
 <src.rf>manual</src.rf>
@@ -628,7 +628,7 @@
 <LM>w#w-mf920924-030-p2s5w8</LM>
 </w.rf>
 <form>obdržela</form>
-<tag lemma="obdržet" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="obdržet" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920924-030-p2s5w9">
 <src.rf>manual</src.rf>

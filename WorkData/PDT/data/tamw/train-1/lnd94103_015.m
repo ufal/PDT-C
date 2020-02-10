@@ -562,7 +562,7 @@
 <LM>w#w-lnd94103-015-p1s5Aw4</LM>
 </w.rf>
 <form>sondoval</form>
-<tag lemma="sondovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sondovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-015-p1s5Aw5">
 <src.rf>manual</src.rf>
@@ -834,7 +834,7 @@
 <LM>w#w-lnd94103-015-p1s7w7</LM>
 </w.rf>
 <form>neztrácelo</form>
-<tag lemma="ztrácet_:T" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="ztrácet" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-lnd94103-015-p1s7w8">
 <src.rf>manual</src.rf>

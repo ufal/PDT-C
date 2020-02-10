@@ -541,7 +541,7 @@
 <LM>w#w-cmpr9410-026-p4s2w16</LM>
 </w.rf>
 <form>spojena</form>
-<tag lemma="spojit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="spojit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-cmpr9410-026-p4s2w17">
 <src.rf>manual</src.rf>
@@ -721,7 +721,7 @@
 <LM>w#w-cmpr9410-026-p4s4w3</LM>
 </w.rf>
 <form>založili</form>
-<tag lemma="založit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="založit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-cmpr9410-026-p4s4w4">
 <src.rf>manual</src.rf>

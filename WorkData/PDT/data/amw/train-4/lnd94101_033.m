@@ -183,7 +183,7 @@
 <LM>w#w-lnd94101-033-p1s3w11</LM>
 </w.rf>
 <form>uskutečnily</form>
-<tag lemma="uskutečnit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="uskutečnit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-033-p1s3w12">
 <src.rf>manual</src.rf>
@@ -225,7 +225,7 @@
 <LM>w#w-lnd94101-033-p1s4w1</LM>
 </w.rf>
 <form>Umožnilo</form>
-<tag lemma="umožnit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="umožnit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-033-p1s4w2">
 <src.rf>manual</src.rf>
@@ -446,7 +446,7 @@
 <LM>w#w-lnd94101-033-p1s5w14</LM>
 </w.rf>
 <form>nedohodli</form>
-<tag lemma="dohodnout_:W" src="orig" selected="1">VpMP---XR-NA--1</tag>
+<tag lemma="dohodnout" src="orig" selected="1">VpMP----R-NAP-1</tag>
 </m>
 <m id="m-lnd94101-033-p1s5w15">
 <src.rf>manual</src.rf>
@@ -568,7 +568,7 @@
 <LM>w#w-lnd94101-033-p1s6w5</LM>
 </w.rf>
 <form>usnadnila</form>
-<tag lemma="usnadnit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="usnadnit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-033-p1s6w6">
 <src.rf>manual</src.rf>
@@ -672,7 +672,7 @@
 <LM>w#w-lnd94101-033-p1s6w18</LM>
 </w.rf>
 <form>dohodly</form>
-<tag lemma="dohodnout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="dohodnout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-lnd94101-033-p1s6w19">
 <src.rf>manual</src.rf>
@@ -749,7 +749,7 @@
 <LM>w#w-lnd94101-033-p1s7w2</LM>
 </w.rf>
 <form>prosadila</form>
-<tag lemma="prosadit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="prosadit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-033-p1s7w3">
 <src.rf>manual</src.rf>

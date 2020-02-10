@@ -35,7 +35,7 @@
 <LM>w#w-ln95049-074-p1s1w3</LM>
 </w.rf>
 <form>vyslovil</form>
-<tag lemma="vyslovit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyslovit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-074-p1s1w4">
 <src.rf>manual</src.rf>
@@ -117,7 +117,7 @@
 <LM>w#w-ln95049-074-p2s1Bw5</LM>
 </w.rf>
 <form>upozornil</form>
-<tag lemma="upozornit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="upozornit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-074-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -189,7 +189,7 @@
 <LM>w#w-ln95049-074-p2s1Bw14</LM>
 </w.rf>
 <form>zakotvila</form>
-<tag lemma="zakotvit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zakotvit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95049-074-p2s1Bw15">
 <src.rf>manual</src.rf>
@@ -367,7 +367,7 @@
 <LM>w#w-ln95049-074-p2s2w11</LM>
 </w.rf>
 <form>reagoval</form>
-<tag lemma="reagovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="reagovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95049-074-p2s2w12">
 <src.rf>manual</src.rf>
@@ -479,7 +479,7 @@
 <LM>w#w-ln95049-074-p2s2w25</LM>
 </w.rf>
 <form>sdružilo</form>
-<tag lemma="sdružit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="sdružit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-074-p2s2w26">
 <src.rf>manual</src.rf>

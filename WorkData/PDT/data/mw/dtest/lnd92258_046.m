@@ -170,7 +170,7 @@
 <LM>w#w-lnd92258-046-p2s2w15</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92258-046-p2s2w16">
 <src.rf>manual</src.rf>
@@ -274,7 +274,7 @@
 <LM>w#w-lnd92258-046-p2s2w28</LM>
 </w.rf>
 <form>označil</form>
-<tag lemma="označit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="označit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-046-p2s2w29">
 <src.rf>manual</src.rf>
@@ -437,7 +437,7 @@
 <LM>w#w-lnd92258-046-p2s3w11</LM>
 </w.rf>
 <form>přivítali</form>
-<tag lemma="přivítat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přivítat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-046-p2s3w12">
 <src.rf>manual</src.rf>

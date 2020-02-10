@@ -732,7 +732,7 @@
 <LM>w#w-ln95044-051-p3s1w31</LM>
 </w.rf>
 <form>uvedeno</form>
-<tag lemma="uvést" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="uvést" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95044-051-p3s1w32">
 <src.rf>manual</src.rf>

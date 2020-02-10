@@ -76,7 +76,7 @@
 <LM>w#w-wsj1245-001-p1s0W6</LM>
 </w.rf>
 <form>zaregistrovala</form>
-<tag lemma="zaregistrovat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="zaregistrovat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1245-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -542,7 +542,7 @@
 <LM>w#w-wsj1245-001-p1s1W12</LM>
 </w.rf>
 <form>oznámily</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1245-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -732,7 +732,7 @@
 <LM>w#w-wsj1245-001-p1s1W28</LM>
 </w.rf>
 <form>vlastněna</form>
-<tag lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto" recommended="1">VsQW---XX-API--</tag>
+<tag lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto" recommended="1">VsQW----X-API--</tag>
 </m>
 <m id="m-wsj1245-001-p1s1W29-Ta">
 <src.rf>tagger-a</src.rf>

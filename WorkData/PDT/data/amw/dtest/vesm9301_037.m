@@ -202,7 +202,7 @@
 <LM>w#w-vesm9301-037-p2s2Aw4</LM>
 </w.rf>
 <form>patřila</form>
-<tag lemma="patřit_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="patřit" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-vesm9301-037-p2s2Aw5">
 <src.rf>manual</src.rf>
@@ -544,7 +544,7 @@
 <LM>w#w-vesm9301-037-p2s4w3</LM>
 </w.rf>
 <form>přinesly</form>
-<tag lemma="přinést" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="přinést" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-vesm9301-037-p2s4w4">
 <src.rf>manual</src.rf>
@@ -648,7 +648,7 @@
 <LM>w#w-vesm9301-037-p2s4w16</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-vesm9301-037-p2s4w17">
 <src.rf>manual</src.rf>
@@ -704,7 +704,7 @@
 <LM>w#w-vesm9301-037-p2s4w23</LM>
 </w.rf>
 <form>prohrála</form>
-<tag lemma="prohrát" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="prohrát" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-vesm9301-037-p2s4w24">
 <src.rf>manual</src.rf>

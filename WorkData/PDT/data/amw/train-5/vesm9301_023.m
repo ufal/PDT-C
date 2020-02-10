@@ -228,7 +228,7 @@
 <LM>w#w-vesm9301-023-p2s1w18</LM>
 </w.rf>
 <form>posuzovány</form>
-<tag lemma="posuzovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="posuzovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-vesm9301-023-p2s1w19">
 <src.rf>manual</src.rf>
@@ -304,7 +304,7 @@
 <LM>w#w-vesm9301-023-p2s1w27</LM>
 </w.rf>
 <form>odškodňovány</form>
-<tag lemma="odškodňovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="odškodňovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-vesm9301-023-p2s1w28">
 <src.rf>manual</src.rf>
@@ -346,7 +346,7 @@
 <LM>w#w-vesm9301-023-p2s2w4</LM>
 </w.rf>
 <form>klonili</form>
-<tag lemma="klonit_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="klonit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-vesm9301-023-p2s2w5">
 <src.rf>manual</src.rf>
@@ -995,7 +995,7 @@
 <LM>w#w-vesm9301-023-p3s3w8</LM>
 </w.rf>
 <form>zneklidněno</form>
-<tag lemma="zneklidnit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zneklidnit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-vesm9301-023-p3s3w9">
 <src.rf>manual</src.rf>

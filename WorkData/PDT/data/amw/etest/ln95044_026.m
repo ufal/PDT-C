@@ -265,7 +265,7 @@
 <LM>w#w-ln95044-026-p2s2w4</LM>
 </w.rf>
 <form>měřen</form>
-<tag lemma="měřit_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="měřit" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-ln95044-026-p2s2w5">
 <src.rf>manual</src.rf>
@@ -297,7 +297,7 @@
 <LM>w#w-ln95044-026-p2s2w9</LM>
 </w.rf>
 <form>nebyli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-ln95044-026-p2s2w10">
 <src.rf>manual</src.rf>
@@ -313,7 +313,7 @@
 <LM>w#w-ln95044-026-p2s2w11</LM>
 </w.rf>
 <form>vystaveni</form>
-<tag lemma="vystavit_:W_^(např._potvrzení)" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="vystavit_^(např._potvrzení)" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-ln95044-026-p2s2w12">
 <src.rf>manual</src.rf>
@@ -473,7 +473,7 @@
 <LM>w#w-ln95044-026-p2s3w16</LM>
 </w.rf>
 <form>schválila</form>
-<tag lemma="schválit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="schválit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95044-026-p2s3w17">
 <src.rf>manual</src.rf>

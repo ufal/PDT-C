@@ -565,7 +565,7 @@
 <LM>w#w-ln95045-123-p3s2w5</LM>
 </w.rf>
 <form>sešlo</form>
-<tag lemma="sejít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="sejít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-123-p3s2w6">
 <src.rf>manual</src.rf>

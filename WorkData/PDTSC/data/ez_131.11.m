@@ -427,7 +427,7 @@
 <LM>w#w-d1t2189-9</LM>
 </w.rf>
 <form>maturovala</form>
-<tag lemma="maturovat_:T_:W" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="maturovat" src="auto" recommended="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m131-d1t2191-1">
 <w.rf>
@@ -743,7 +743,7 @@
 <AM lemma="Prokop_;S_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="prokop_,a_^(průkop)" src="auto">NNIS1-----A----</AM>
 <AM lemma="prokop_,a_^(průkop)" src="auto">NNIS4-----A----</AM>
-<AM lemma="prokopnout_:W" src="auto">VpYS---XR-AA--6</AM>
+<AM lemma="prokopnout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m131-509-510">
@@ -1520,7 +1520,7 @@
 <LM>w#w-d1t2211-20</LM>
 </w.rf>
 <form>Vyučil</form>
-<tag lemma="vyučit_:W" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="vyučit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m131-d1t2211-21">
 <w.rf>
@@ -1571,7 +1571,7 @@
 <LM>w#w-d1t2211-25</LM>
 </w.rf>
 <form>udělal</form>
-<tag lemma="udělat_:W" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="udělat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m131-d1t2211-26">
 <w.rf>
@@ -1823,7 +1823,7 @@
 <LM>w#w-d1t2215-4</LM>
 </w.rf>
 <form>bydlela</form>
-<tag lemma="bydlet" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="bydlet" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m131-d1t2215-5">
 <w.rf>
@@ -1862,7 +1862,7 @@
 <LM>w#w-d1t2215-8</LM>
 </w.rf>
 <form>studovala</form>
-<tag lemma="studovat_:T" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="studovat" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m131-d-id172203-punct">
 <w.rf>
@@ -2039,7 +2039,7 @@
 <LM>w#w-d1t2221-4</LM>
 </w.rf>
 <form>vypršel</form>
-<tag lemma="vypršet" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="vypršet" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m131-d1t2221-5">
 <w.rf>
@@ -2216,7 +2216,7 @@
 <LM>w#w-d1t2221-18</LM>
 </w.rf>
 <form>povídalo</form>
-<tag lemma="povídat_:T" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="povídat" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m131-d-m-d1e2218-x2-punct-punct">
 <w.rf>

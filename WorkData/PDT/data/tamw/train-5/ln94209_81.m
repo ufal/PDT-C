@@ -188,7 +188,7 @@
 <LM>w#w-ln94209-81-p2s1Bw16</LM>
 </w.rf>
 <form>vytvořila</form>
-<tag lemma="vytvořit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vytvořit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94209-81-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -286,7 +286,7 @@
 <LM>w#w-ln94209-81-p2s2w1</LM>
 </w.rf>
 <form>Překonala</form>
-<tag lemma="překonat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="překonat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94209-81-p2s2w2">
 <src.rf>manual</src.rf>
@@ -409,7 +409,7 @@
 <LM>w#w-ln94209-81-p2s2w16</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94209-81-p2s2w17">
 <src.rf>manual</src.rf>
@@ -515,7 +515,7 @@
 <LM>w#w-ln94209-81-p2s3w11</LM>
 </w.rf>
 <form>obsadila</form>
-<tag lemma="obsadit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="obsadit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94209-81-p2s3w12">
 <src.rf>manual</src.rf>
@@ -723,7 +723,7 @@
 <LM>w#w-ln94209-81-p2s4w9</LM>
 </w.rf>
 <form>končila</form>
-<tag lemma="končit_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="končit" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94209-81-p2s4w10">
 <src.rf>manual</src.rf>
@@ -780,7 +780,7 @@
 <LM>w#w-ln94209-81-p2s4w16</LM>
 </w.rf>
 <form>vypracovala</form>
-<tag lemma="vypracovat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vypracovat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94209-81-p2s4w17">
 <src.rf>manual</src.rf>
@@ -828,7 +828,7 @@
 <LM>w#w-ln94209-81-p2s4w22</LM>
 </w.rf>
 <form>udržela</form>
-<tag lemma="udržet" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="udržet" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94209-81-p2s4w23">
 <src.rf>manual</src.rf>
@@ -870,7 +870,7 @@
 <LM>w#w-ln94209-81-p2s5w1</LM>
 </w.rf>
 <form>Zvítězila</form>
-<tag lemma="zvítězit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zvítězit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94209-81-p2s5w2">
 <src.rf>manual</src.rf>

@@ -366,7 +366,7 @@
 <LM>w#w-mf930708-010-p2s2w6</LM>
 </w.rf>
 <form>nedohodly</form>
-<tag lemma="dohodnout_:W" src="orig" selected="1">VpTP---XR-NA--1</tag>
+<tag lemma="dohodnout" src="orig" selected="1">VpTP----R-NAP-1</tag>
 </m>
 <m id="m-mf930708-010-p2s2w7">
 <src.rf>manual</src.rf>
@@ -409,8 +409,8 @@
 </w.rf>
 <form>Uzavřely</form>
 <tag>
-<AM lemma="uzavřít" src="orig">VpTP---XR-AA---</AM>
-<AM lemma="uzavřít_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+<AM lemma="uzavřít" src="orig">VpTP----R-AAP--</AM>
+<AM lemma="uzavřít" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930708-010-p2s3w2">
@@ -483,7 +483,7 @@
 <LM>w#w-mf930708-010-p2s3w10</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930708-010-p2s3w11">
 <src.rf>manual</src.rf>
@@ -568,7 +568,7 @@
 <LM>w#w-mf930708-010-p2s4w5</LM>
 </w.rf>
 <form>nevyjádřili</form>
-<tag lemma="vyjádřit_:W" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="vyjádřit" src="orig" selected="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m-mf930708-010-p2s4w6">
 <src.rf>manual</src.rf>
@@ -907,7 +907,7 @@
 <LM>w#w-mf930708-010-p3s2w6</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930708-010-p3s2w7">
 <src.rf>manual</src.rf>

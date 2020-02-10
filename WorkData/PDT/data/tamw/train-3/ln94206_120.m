@@ -469,7 +469,7 @@
 <LM>w#w-ln94206-120-p2s2w24</LM>
 </w.rf>
 <form>našla</form>
-<tag lemma="najít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="najít" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94206-120-p2s2w25">
 <src.rf>manual</src.rf>

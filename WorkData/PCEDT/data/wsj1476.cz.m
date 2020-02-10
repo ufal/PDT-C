@@ -145,7 +145,7 @@
 <LM>w#w-wsj1476-001-p1s0W9</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1476-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -566,7 +566,7 @@
 <LM>w#w-wsj1476-001-p1s1W10</LM>
 </w.rf>
 <form>požádal</form>
-<tag lemma="požádat" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="požádat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1476-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -971,7 +971,7 @@
 <LM>w#w-wsj1476-001-p1s3W10</LM>
 </w.rf>
 <form>prohlásila</form>
-<tag lemma="prohlásit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="prohlásit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1476-001-p1s3W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1099,7 +1099,7 @@
 <LM>w#w-wsj1476-001-p1s3W22</LM>
 </w.rf>
 <form>předložila</form>
-<tag lemma="předložit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="předložit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1476-001-p1s3W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1236,7 +1236,7 @@
 <LM>w#w-wsj1476-001-p1s4W10</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1476-001-p1s4W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1263,7 +1263,7 @@
 <LM>w#w-wsj1476-001-p1s4W13</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1476-001-p1s4W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1287,7 +1287,7 @@
 <LM>w#w-wsj1476-001-p1s4W16</LM>
 </w.rf>
 <form>povzbuzen</form>
-<tag lemma="povzbudit" src="auto" recommended="1">VsYS---XX-APP--</tag>
+<tag lemma="povzbudit" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj1476-001-p1s4W17-Ta">
 <src.rf>tagger-a</src.rf>

@@ -59,7 +59,7 @@
 <LM>w#w-ln94208-138-p1s1Aw6</LM>
 </w.rf>
 <form>připomněli</form>
-<tag lemma="připomenout" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="připomenout" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94208-138-p1s1Aw7">
 <src.rf>manual</src.rf>
@@ -139,7 +139,7 @@
 <LM>w#w-ln94208-138-p1s1Aw16</LM>
 </w.rf>
 <form>zabil</form>
-<tag lemma="zabít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zabít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94208-138-p1s1Aw17">
 <src.rf>manual</src.rf>

@@ -58,7 +58,7 @@
 <LM>w#w-wsj0460-001-p1s0W5</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0460-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -107,7 +107,7 @@
 <LM>w#w-wsj0460-001-p1s0W10</LM>
 </w.rf>
 <form>schválila</form>
-<tag lemma="schválit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="schválit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0460-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -281,7 +281,7 @@
 <LM>w#w-wsj0460-001-p1s1W4</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0460-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -599,7 +599,7 @@
 <LM>w#w-wsj0460-001-p1s2W6</LM>
 </w.rf>
 <form>schválily</form>
-<tag lemma="schválit" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="schválit" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj0460-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>

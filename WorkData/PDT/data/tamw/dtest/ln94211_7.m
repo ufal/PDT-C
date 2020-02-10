@@ -309,7 +309,7 @@
 <LM>w#w-ln94211-7-p7s1w10</LM>
 </w.rf>
 <form>nebyly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-NAI--</tag>
 </m>
 <m id="m-ln94211-7-p7s1w11">
 <src.rf>manual</src.rf>

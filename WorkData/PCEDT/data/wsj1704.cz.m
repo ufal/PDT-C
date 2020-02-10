@@ -80,7 +80,7 @@
 <LM>w#w-wsj1704-001-p1s0W7</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1704-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -107,7 +107,7 @@
 <LM>w#w-wsj1704-001-p1s0W10</LM>
 </w.rf>
 <form>získala</form>
-<tag lemma="získat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="získat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1704-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -265,7 +265,7 @@
 <LM>w#w-wsj1704-001-p1s0W24</LM>
 </w.rf>
 <form>zprostředkovala</form>
-<tag lemma="zprostředkovat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="zprostředkovat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1704-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -558,7 +558,7 @@
 <LM>w#w-wsj1704-001-p1s1W6</LM>
 </w.rf>
 <form>dohodly</form>
-<tag lemma="dohodnout" src="auto" recommended="1">VpTP---XR-AAP-1</tag>
+<tag lemma="dohodnout" src="auto" recommended="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-wsj1704-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -915,7 +915,7 @@
 <LM>w#w-wsj1704-001-p1s3W7</LM>
 </w.rf>
 <form>prohlásila</form>
-<tag lemma="prohlásit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="prohlásit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1704-001-p1s3W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1276,7 +1276,7 @@
 <LM>w#w-wsj1704-001-p1s4W12</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1704-001-p1s4W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1391,7 +1391,7 @@
 <LM>w#w-wsj1704-001-p1s4W24</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1704-001-p1s4W25-Ta">
 <src.rf>tagger-a</src.rf>

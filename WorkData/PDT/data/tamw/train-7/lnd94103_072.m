@@ -586,7 +586,7 @@
 <LM>w#w-lnd94103-072-p1s6w6</LM>
 </w.rf>
 <form>vzrostly</form>
-<tag lemma="vzrůst-1" src="auto" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vzrůst-1" src="auto" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-072-p1s6w7">
 <src.rf>manual</src.rf>
@@ -651,7 +651,7 @@
 <LM>w#w-lnd94103-072-p1s6w14</LM>
 </w.rf>
 <form>spadly</form>
-<tag lemma="spadnout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="spadnout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-lnd94103-072-p1s6w15">
 <src.rf>manual</src.rf>
@@ -1180,7 +1180,7 @@
 <LM>w#w-lnd94103-072-p1s9w21</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-072-p1s9w22">
 <src.rf>manual</src.rf>

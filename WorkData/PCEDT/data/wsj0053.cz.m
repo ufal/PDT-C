@@ -239,7 +239,7 @@
 <LM>w#w-wsj0053-001-p1s0W15</LM>
 </w.rf>
 <form>prohlásila</form>
-<tag lemma="prohlásit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="prohlásit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0053-001-p1s0W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -306,7 +306,7 @@
 <LM>w#w-wsj0053-001-p1s0W21</LM>
 </w.rf>
 <form>vzrostly</form>
-<tag lemma="vzrůst-1" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="vzrůst-1" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj0053-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -548,7 +548,7 @@
 <LM>w#w-wsj0053-001-p1s1W7</LM>
 </w.rf>
 <form>otevřeny</form>
-<tag lemma="otevřít" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="otevřít" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj0053-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -579,7 +579,7 @@
 <AM lemma="jeden`1" src="auto" recommended="1">ClIS4----------</AM>
 <AM lemma="jeden`1" src="auto">ClYS1----------</AM>
 <AM lemma="jeden`1" src="auto">ClYS5----------</AM>
-<AM lemma="jíst" src="auto">VsYS---XX-API--</AM>
+<AM lemma="jíst" src="auto">VsYS----X-API--</AM>
 </tag>
 </m>
 <m id="m-wsj0053-001-p1s1W11-Ta">
@@ -607,7 +607,7 @@
 <LM>w#w-wsj0053-001-p1s1W13</LM>
 </w.rf>
 <form>vzrostly</form>
-<tag lemma="vzrůst-1" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="vzrůst-1" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj0053-001-p1s1W14-Ta">
 <src.rf>tagger-a</src.rf>

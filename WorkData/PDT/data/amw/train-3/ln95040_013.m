@@ -94,7 +94,7 @@
 <LM>w#w-ln95040-013-p1s1w10</LM>
 </w.rf>
 <form>připomněl</form>
-<tag lemma="připomenout" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="připomenout" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-013-p1s1w11">
 <src.rf>manual</src.rf>
@@ -263,7 +263,7 @@
 <LM>w#w-ln95040-013-p1s2w2</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95040-013-p1s2w3">
 <src.rf>manual</src.rf>
@@ -407,7 +407,7 @@
 <LM>w#w-ln95040-013-p1s2w20</LM>
 </w.rf>
 <form>založena</form>
-<tag lemma="založit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="založit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln95040-013-p1s2w21">
 <src.rf>manual</src.rf>
@@ -521,7 +521,7 @@
 <LM>w#w-ln95040-013-p1s3w13</LM>
 </w.rf>
 <form>analyzovali</form>
-<tag lemma="analyzovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="analyzovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95040-013-p1s3w14">
 <src.rf>manual</src.rf>
@@ -692,7 +692,7 @@
 <LM>w#w-ln95040-013-p1s3w34</LM>
 </w.rf>
 <form>nastínil</form>
-<tag lemma="nastínit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nastínit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-013-p1s3w35">
 <src.rf>manual</src.rf>

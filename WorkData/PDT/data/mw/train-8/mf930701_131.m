@@ -81,7 +81,7 @@
 <AM lemma="bod-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
 <AM lemma="bod" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="bod" src="auto">NNIS4-----A----</AM>
-<AM lemma="bodnout_:W" src="auto">VpYS---XR-AA--6</AM>
+<AM lemma="bodnout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-mf930701-131-p2s1w4">
@@ -218,7 +218,7 @@
 <LM>w#w-mf930701-131-p2s1w20</LM>
 </w.rf>
 <form>sdružilo</form>
-<tag lemma="sdružit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="sdružit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-131-p2s1w21">
 <src.rf>manual</src.rf>
@@ -527,7 +527,7 @@
 <LM>w#w-mf930701-131-p2s4w5</LM>
 </w.rf>
 <form>zdevastovány</form>
-<tag lemma="zdevastovat_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="zdevastovat" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-mf930701-131-p2s4w6">
 <src.rf>manual</src.rf>
@@ -759,7 +759,7 @@
 <LM>w#w-mf930701-131-p2s5w21</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-131-p2s5w22">
 <src.rf>manual</src.rf>
@@ -1339,7 +1339,7 @@
 <LM>w#w-mf930701-131-p2s9w12</LM>
 </w.rf>
 <form>ovládlo</form>
-<tag lemma="ovládnout_:W" src="orig" selected="1">VpNS---XR-AA--1</tag>
+<tag lemma="ovládnout" src="orig" selected="1">VpNS----R-AAP-1</tag>
 </m>
 <m id="m-mf930701-131-p2s9w13">
 <src.rf>manual</src.rf>

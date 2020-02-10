@@ -117,7 +117,7 @@
 <LM>w#w-lnd94103-103-p1s1w12</LM>
 </w.rf>
 <form>uvedlo</form>
-<tag lemma="uvést" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-103-p1s1w13">
 <src.rf>manual</src.rf>
@@ -356,7 +356,7 @@
 <LM>w#w-lnd94103-103-p1s2w14</LM>
 </w.rf>
 <form>nastudoval</form>
-<tag lemma="nastudovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nastudovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-103-p1s2w15">
 <src.rf>manual</src.rf>
@@ -582,7 +582,7 @@
 <LM>w#w-lnd94103-103-p1s3w23</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-103-p1s3w24">
 <src.rf>manual</src.rf>
@@ -794,7 +794,7 @@
 <LM>w#w-lnd94103-103-p1s5w3</LM>
 </w.rf>
 <form>zaplněno</form>
-<tag lemma="zaplnit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zaplnit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd94103-103-p1s5w4">
 <src.rf>manual</src.rf>
@@ -1764,7 +1764,7 @@
 <LM>w#w-lnd94103-103-p1s10w11</LM>
 </w.rf>
 <form>porozuměli</form>
-<tag lemma="porozumět_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="porozumět" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-103-p1s10w12">
 <src.rf>manual</src.rf>

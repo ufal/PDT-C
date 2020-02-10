@@ -209,7 +209,7 @@
 <LM>w#w-ln94208-56-p2s1Cw4</LM>
 </w.rf>
 <form>nebyl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-ln94208-56-p2s1Cw5">
 <src.rf>manual</src.rf>
@@ -390,7 +390,7 @@
 <LM>w#w-ln94208-56-p2s2w8</LM>
 </w.rf>
 <form>neoznámil</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-ln94208-56-p2s2w9">
 <src.rf>manual</src.rf>
@@ -869,7 +869,7 @@
 <LM>w#w-ln94208-56-p3s1w7</LM>
 </w.rf>
 <form>zvolila</form>
-<tag lemma="zvolit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zvolit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94208-56-p3s1w8">
 <src.rf>manual</src.rf>

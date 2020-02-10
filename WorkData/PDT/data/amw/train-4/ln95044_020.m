@@ -86,7 +86,7 @@
 <LM>w#w-ln95044-020-p1s1w9</LM>
 </w.rf>
 <form>musel</form>
-<tag lemma="muset" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="muset" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95044-020-p1s1w10">
 <src.rf>manual</src.rf>

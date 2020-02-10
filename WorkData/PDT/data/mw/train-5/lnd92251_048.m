@@ -190,7 +190,7 @@
 <LM>w#w-lnd92251-048-p3s2w11</LM>
 </w.rf>
 <form>nucena</form>
-<tag lemma="nutit_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="nutit" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-lnd92251-048-p3s2w12">
 <src.rf>manual</src.rf>
@@ -440,7 +440,7 @@
 <LM>w#w-lnd92251-048-p3s4w15</LM>
 </w.rf>
 <form>snížena</form>
-<tag lemma="snížit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="snížit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd92251-048-p3s4w16">
 <src.rf>manual</src.rf>
@@ -799,7 +799,7 @@
 <LM>w#w-lnd92251-048-p3s6w1</LM>
 </w.rf>
 <form>Připraveno</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="připravit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92251-048-p3s6w2">
 <src.rf>manual</src.rf>

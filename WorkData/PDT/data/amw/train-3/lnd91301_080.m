@@ -252,7 +252,7 @@
 </w.rf>
 <form>zataženo</form>
 <tag>
-<AM lemma="zatáhnout" src="orig">VsNS---XX-AP---</AM>
+<AM lemma="zatáhnout" src="orig">VsNS----X-APP--</AM>
 <AM lemma="zataženo-2_^(být_zataženo)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
@@ -813,7 +813,7 @@
 </w.rf>
 <form>zataženo</form>
 <tag>
-<AM lemma="zatáhnout" src="orig">VsNS---XX-AP---</AM>
+<AM lemma="zatáhnout" src="orig">VsNS----X-APP--</AM>
 <AM lemma="zataženo-2_^(být_zataženo)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>
@@ -1208,7 +1208,7 @@
 </w.rf>
 <form>zataženo</form>
 <tag>
-<AM lemma="zatáhnout" src="orig">VsNS---XX-AP---</AM>
+<AM lemma="zatáhnout" src="orig">VsNS----X-APP--</AM>
 <AM lemma="zataženo-2_^(být_zataženo)" src="manual" selected="1">Dg-------1A----</AM>
 </tag>
 </m>

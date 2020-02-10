@@ -222,7 +222,7 @@
 <LM>w#w-ln94205-110-p2s1w12</LM>
 </w.rf>
 <form>poradil</form>
-<tag lemma="poradit_:W" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="poradit" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94205-110-p2s1w13">
 <src.rf>manual</src.rf>
@@ -550,8 +550,8 @@
 </w.rf>
 <form>měla</form>
 <tag>
-<AM lemma="mít" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="mít_:T" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="mít" src="orig">VpQW----R-AAI--</AM>
+<AM lemma="mít" src="manual" selected="1">VpQW----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln94205-110-p3s2w5">
@@ -1321,8 +1321,8 @@
 </w.rf>
 <form>mělo</form>
 <tag>
-<AM lemma="mít" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="mít_:T" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="mít" src="orig">VpNS----R-AAI--</AM>
+<AM lemma="mít" src="manual" selected="1">VpNS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln94205-110-p4s3w4">
@@ -1584,7 +1584,7 @@
 <LM>w#w-ln94205-110-p5s1w13</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94205-110-p5s1w14">
 <src.rf>manual</src.rf>

@@ -143,7 +143,7 @@
 <LM>w#w-ln94202-105-p1s1Aw16</LM>
 </w.rf>
 <form>přesvědčila</form>
-<tag lemma="přesvědčit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="přesvědčit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94202-105-p1s1Aw17">
 <src.rf>manual</src.rf>

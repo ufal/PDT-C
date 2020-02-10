@@ -136,7 +136,7 @@
 <LM>w#w-wsj0433-001-p1s0W10</LM>
 </w.rf>
 <form>uvedeno</form>
-<tag lemma="uvést" src="auto" recommended="1">VsNS---XX-APP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-wsj0433-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -309,7 +309,7 @@
 <LM>w#w-wsj0433-001-p1s0W26</LM>
 </w.rf>
 <form>vyrobeny</form>
-<tag lemma="vyrobit" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="vyrobit" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj0433-001-p1s0W27-Ta">
 <src.rf>tagger-a</src.rf>

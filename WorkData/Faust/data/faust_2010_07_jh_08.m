@@ -1583,7 +1583,7 @@
 </w.rf>
 <form>nebyla</form>
 <tag>
-<AM lemma="být" recommended="1">VpQW---XR-NA---</AM>
+<AM lemma="být" recommended="1">VpQW----R-NAI--</AM>
 <AM lemma="být" src="manual" selected="1">VpQW----R-NAI--</AM>
 </tag>
 </m>
@@ -2104,7 +2104,7 @@
 </w.rf>
 <form>naučilo</form>
 <tag>
-<AM lemma="naučit_:W" recommended="1">VpNS---XR-AA---</AM>
+<AM lemma="naučit" recommended="1">VpNS----R-AAP--</AM>
 <AM lemma="naučit" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
@@ -2981,7 +2981,7 @@
 </w.rf>
 <form>byl</form>
 <tag>
-<AM lemma="být" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="být" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="být" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
@@ -3003,7 +3003,7 @@
 </w.rf>
 <form>polechtán</form>
 <tag>
-<AM lemma="polechtat_:W" recommended="1">VsYS---XX-AP---</AM>
+<AM lemma="polechtat" recommended="1">VsYS----X-APP--</AM>
 <AM lemma="polechtat" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
@@ -3106,7 +3106,7 @@
 </w.rf>
 <form>vybuchl</form>
 <tag>
-<AM lemma="vybuchnout_:W" recommended="1">VpYS---XR-AA--1</AM>
+<AM lemma="vybuchnout" recommended="1">VpYS----R-AAP-1</AM>
 <AM lemma="vybuchnout" src="manual" selected="1">VpYS----R-AAP-1</AM>
 </tag>
 </m>
@@ -3154,7 +3154,7 @@
 </w.rf>
 <form>upustil</form>
 <tag>
-<AM lemma="upustit_:W" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="upustit" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="upustit" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
@@ -3270,7 +3270,7 @@
 </w.rf>
 <form>třásl</form>
 <tag>
-<AM lemma="třást" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="třást" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="třást" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
@@ -4129,7 +4129,7 @@
 <tag>
 <AM lemma="Dán_;E" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Dánsko_:B_;G">NNNXX-----A---8</AM>
-<AM lemma="dát">VsYS---XX-AP---</AM>
+<AM lemma="dát">VsYS----X-APP--</AM>
 </tag>
 </m>
 <m id="jh_08-SCzechM-p0827-s1-w17">
@@ -4425,7 +4425,7 @@
 </w.rf>
 <form>ukřižován</form>
 <tag>
-<AM lemma="ukřižovat_:W" recommended="1">VsYS---XX-AP---</AM>
+<AM lemma="ukřižovat" recommended="1">VsYS----X-APP--</AM>
 <AM lemma="ukřižovat" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
@@ -4640,7 +4640,7 @@
 </w.rf>
 <form>obdržel</form>
 <tag>
-<AM lemma="obdržet" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="obdržet" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="obdržet" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
@@ -4868,7 +4868,7 @@
 </w.rf>
 <form>používal</form>
 <tag>
-<AM lemma="používat_:T_^(*3t)" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="používat_^(*3t)" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="používat_^(*3t)" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
@@ -5086,7 +5086,7 @@
 </w.rf>
 <form>rozšířil</form>
 <tag>
-<AM lemma="rozšířit_:W" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="rozšířit" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="rozšířit" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
@@ -5157,7 +5157,7 @@
 </w.rf>
 <form>začaly</form>
 <tag>
-<AM lemma="začít-1_^(začnout)" recommended="1">VpTP---XR-AA---</AM>
+<AM lemma="začít-1_^(začnout)" recommended="1">VpTP----R-AAP--</AM>
 <AM lemma="začít-1_^(začnout)" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>
@@ -5552,7 +5552,7 @@
 </w.rf>
 <form>dokončena</form>
 <tag>
-<AM lemma="dokončit" recommended="1">VsQW---XX-AP---</AM>
+<AM lemma="dokončit" recommended="1">VsQW----X-APP--</AM>
 <AM lemma="dokončit" src="manual" selected="1">VsQW----X-APP--</AM>
 </tag>
 </m>
@@ -5642,7 +5642,7 @@
 </w.rf>
 <form>připojen</form>
 <tag>
-<AM lemma="připojit_:W" recommended="1">VsYS---XX-AP---</AM>
+<AM lemma="připojit" recommended="1">VsYS----X-APP--</AM>
 <AM lemma="připojit" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
@@ -6050,7 +6050,7 @@
 </w.rf>
 <form>chráněn</form>
 <tag>
-<AM lemma="chránit" recommended="1">VsYS---XX-AP---</AM>
+<AM lemma="chránit" recommended="1">VsYS----X-API--</AM>
 <AM lemma="chránit" src="manual" selected="1">VsYS----X-API--</AM>
 </tag>
 </m>

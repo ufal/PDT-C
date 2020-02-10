@@ -70,7 +70,7 @@
 <LM>w#w-wsj0202-001-p1s0W6</LM>
 </w.rf>
 <form>provedla</form>
-<tag lemma="provést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="provést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0202-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -389,7 +389,7 @@
 <LM>w#w-wsj0202-001-p1s2W4</LM>
 </w.rf>
 <form>nebylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-NAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-wsj0202-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -397,7 +397,7 @@
 <LM>w#w-wsj0202-001-p1s2W5</LM>
 </w.rf>
 <form>stanoveno</form>
-<tag lemma="stanovit_^(určit)" src="auto" recommended="1">VsNS---XX-APP--</tag>
+<tag lemma="stanovit_^(určit)" src="auto" recommended="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-wsj0202-001-p1s2W6-Ta">
 <src.rf>tagger-a</src.rf>

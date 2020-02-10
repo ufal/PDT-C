@@ -391,7 +391,7 @@
 <LM>w#w-lnd92251-022-p2s3w16</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-022-p2s3w17">
 <src.rf>manual</src.rf>

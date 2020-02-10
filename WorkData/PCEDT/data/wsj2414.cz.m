@@ -306,7 +306,7 @@
 <LM>w#w-wsj2414-001-p1s1W3</LM>
 </w.rf>
 <form>udána</form>
-<tag lemma="udat" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="udat" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj2414-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>

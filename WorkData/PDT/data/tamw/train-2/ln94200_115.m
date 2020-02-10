@@ -61,7 +61,7 @@
 <LM>w#w-ln94200-115-p2s1w4</LM>
 </w.rf>
 <form>zvítězil</form>
-<tag lemma="zvítězit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zvítězit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-115-p2s1w5">
 <src.rf>manual</src.rf>
@@ -117,7 +117,7 @@
 <LM>w#w-ln94200-115-p2s1w11</LM>
 </w.rf>
 <form>narodila</form>
-<tag lemma="narodit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="narodit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94200-115-p2s1w12">
 <src.rf>manual</src.rf>
@@ -223,7 +223,7 @@
 <LM>w#w-ln94200-115-p2s2w3</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-115-p2s2w4">
 <src.rf>manual</src.rf>
@@ -524,7 +524,7 @@
 <LM>w#w-ln94200-115-p2s3w3</LM>
 </w.rf>
 <form>narodili</form>
-<tag lemma="narodit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="narodit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94200-115-p2s3w4">
 <src.rf>manual</src.rf>
@@ -540,7 +540,7 @@
 <LM>w#w-ln94200-115-p2s3w5</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94200-115-p2s3w6">
 <src.rf>manual</src.rf>
@@ -606,7 +606,7 @@
 <LM>w#w-ln94200-115-p2s4w4</LM>
 </w.rf>
 <form>zrůžověli</form>
-<tag lemma="zrůžovět_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zrůžovět" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94200-115-p2s4w5">
 <src.rf>manual</src.rf>
@@ -737,7 +737,7 @@
 <LM>w#w-ln94200-115-p2s4w20</LM>
 </w.rf>
 <form>zjistili</form>
-<tag lemma="zjistit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zjistit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94200-115-p2s4w21">
 <src.rf>manual</src.rf>

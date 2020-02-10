@@ -477,7 +477,7 @@
 <LM>w#w-cmpr9407-009-p3s3w7</LM>
 </w.rf>
 <form>potěšen</form>
-<tag lemma="potěšit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="potěšit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-cmpr9407-009-p3s3w8">
 <src.rf>manual</src.rf>
@@ -566,7 +566,7 @@
 <LM>w#w-cmpr9407-009-p3s3w18</LM>
 </w.rf>
 <form>čekal</form>
-<tag lemma="čekat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="čekat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9407-009-p3s3w19">
 <src.rf>manual</src.rf>

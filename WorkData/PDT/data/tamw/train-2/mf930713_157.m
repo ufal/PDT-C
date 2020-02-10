@@ -159,7 +159,7 @@
 <LM>w#w-mf930713-157-p1s1w18</LM>
 </w.rf>
 <form>zahynul</form>
-<tag lemma="zahynout" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zahynout" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-157-p1s1w19">
 <src.rf>manual</src.rf>

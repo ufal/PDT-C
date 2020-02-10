@@ -112,7 +112,7 @@
 <LM>w#w-ln94201-62-p2s1w8</LM>
 </w.rf>
 <form>prodělala</form>
-<tag lemma="prodělat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="prodělat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94201-62-p2s1w9">
 <src.rf>manual</src.rf>
@@ -250,7 +250,7 @@
 <LM>w#w-ln94201-62-p2s2w7</LM>
 </w.rf>
 <form>chtěl</form>
-<tag lemma="chtít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="chtít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94201-62-p2s2w8">
 <src.rf>manual</src.rf>

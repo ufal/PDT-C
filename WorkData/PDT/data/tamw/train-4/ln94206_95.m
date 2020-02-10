@@ -75,7 +75,7 @@
 <LM>w#w-ln94206-95-p1s1w8</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94206-95-p1s1w9">
 <src.rf>manual</src.rf>
@@ -92,8 +92,8 @@
 </w.rf>
 <form>zahájena</form>
 <tag>
-<AM lemma="zahájit" src="auto">VsQW---XX-AP---</AM>
-<AM lemma="zahájit_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+<AM lemma="zahájit" src="auto">VsQW----X-APP--</AM>
+<AM lemma="zahájit" src="manual" selected="1">VsQW----X-APP--</AM>
 </tag>
 </m>
 <m id="m-ln94206-95-p1s1w11">
@@ -457,8 +457,8 @@
 </w.rf>
 <form>začaly</form>
 <tag>
-<AM lemma="začít-1_^(začnout)" src="auto">VpTP---XR-AA---</AM>
-<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpTP---XR-AA---</AM>
+<AM lemma="začít-1_^(začnout)" src="auto">VpTP----R-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94206-95-p1s2w27">
@@ -524,8 +524,8 @@
 </w.rf>
 <form>rozrostly</form>
 <tag>
-<AM lemma="rozrůst" src="orig">VpTP---XR-AA---</AM>
-<AM lemma="rozrůst_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+<AM lemma="rozrůst" src="orig">VpTP----R-AAP--</AM>
+<AM lemma="rozrůst" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94206-95-p1s2w35">
@@ -614,7 +614,7 @@
 <LM>w#w-ln94206-95-p1s2w45</LM>
 </w.rf>
 <form>vznikla</form>
-<tag lemma="vzniknout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="vzniknout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln94206-95-p1s2w46">
 <src.rf>manual</src.rf>
@@ -1010,7 +1010,7 @@
 <LM>w#w-ln94206-95-p1s5w4</LM>
 </w.rf>
 <form>připravilo</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="připravit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94206-95-p1s5w5">
 <src.rf>manual</src.rf>

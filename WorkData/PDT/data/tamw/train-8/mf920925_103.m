@@ -59,7 +59,7 @@
 <LM>w#w-mf920925-103-p1s1w6</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf920925-103-p1s1w7">
 <src.rf>manual</src.rf>
@@ -67,7 +67,7 @@
 <LM>w#w-mf920925-103-p1s1w7</LM>
 </w.rf>
 <form>objeveny</form>
-<tag lemma="objevit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="objevit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-mf920925-103-p1s1w8">
 <src.rf>manual</src.rf>
@@ -277,7 +277,7 @@
 <LM>w#w-mf920925-103-p1s2w12</LM>
 </w.rf>
 <form>provozovala</form>
-<tag lemma="provozovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="provozovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920925-103-p1s2w13">
 <src.rf>manual</src.rf>

@@ -270,7 +270,7 @@
 <LM>w#w-d1t2700-3</LM>
 </w.rf>
 <form>říkal</form>
-<tag lemma="říkat_:T" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="říkat" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m136-d-id139535-punct">
 <w.rf>
@@ -318,7 +318,7 @@
 <LM>w#w-d1t2700-9</LM>
 </w.rf>
 <form>trávili</form>
-<tag lemma="trávit_:T" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="trávit" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m136-d1t2702-1">
 <w.rf>
@@ -974,7 +974,7 @@
 <LM>w#w-d1t2742-3</LM>
 </w.rf>
 <form>říkal</form>
-<tag lemma="říkat_:T" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="říkat" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m136-d-id141186-punct">
 <w.rf>
@@ -1238,7 +1238,7 @@
 <LM>w#w-d1t2751-1</LM>
 </w.rf>
 <form>trávila</form>
-<tag lemma="trávit_:T" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="trávit" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m136-d1t2753-1">
 <w.rf>
@@ -1362,7 +1362,7 @@
 <LM>w#w-d1t2753-16</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m136-d1t2753-19">
 <w.rf>
@@ -2021,7 +2021,7 @@
 <LM>w#w-d1t2794-3</LM>
 </w.rf>
 <form>naučil</form>
-<tag lemma="naučit_:W" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="naučit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m136-d1t2794-4">
 <w.rf>
@@ -2142,7 +2142,7 @@
 <LM>w#w-d1t2796-9</LM>
 </w.rf>
 <form>vrátil</form>
-<tag lemma="vrátit_:W" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="vrátit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m136-d1t2796-11">
 <w.rf>
@@ -2246,7 +2246,7 @@
 <LM>w#w-d1t2807-3</LM>
 </w.rf>
 <form>jezdil</form>
-<tag lemma="jezdit_:T" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="jezdit" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m136-d1t2807-4">
 <w.rf>
@@ -3431,7 +3431,7 @@
 <LM>w#w-d1t2880-3</LM>
 </w.rf>
 <form>scházeli</form>
-<tag lemma="scházet_:T" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="scházet" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m136-d1t2880-5">
 <w.rf>
@@ -4254,7 +4254,7 @@
 <LM>w#w-d1t2922-2</LM>
 </w.rf>
 <form>lpěli</form>
-<tag lemma="lpět" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="lpět" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m136-d1t2925-1">
 <w.rf>
@@ -4797,7 +4797,7 @@
 <LM>w#w-d1t2960-11</LM>
 </w.rf>
 <form>trefil</form>
-<tag lemma="trefit_:T" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="trefit" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m136-d1t2962-1">
 <w.rf>
@@ -5224,7 +5224,7 @@
 <LM>w#w-d1t3006-12</LM>
 </w.rf>
 <form>chtěl</form>
-<tag lemma="chtít" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="chtít" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m136-d1t3006-11">
 <w.rf>
@@ -5606,7 +5606,7 @@
 <LM>w#w-d1t3039-7</LM>
 </w.rf>
 <form>rozvedli</form>
-<tag lemma="rozvést" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="rozvést" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m136-197-990">
 <w.rf>
@@ -6070,7 +6070,7 @@
 <LM>w#w-d1t3072-4</LM>
 </w.rf>
 <form>přešli</form>
-<tag lemma="přejít" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="přejít" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m136-d1t3072-5">
 <w.rf>
@@ -6526,7 +6526,7 @@
 <form_change>spell</form_change>
 <form>nepotřeboval</form>
 <tag>
-<AM lemma="potřebovat" src="auto" recommended="1">VpYS---XR-NAI--</AM>
+<AM lemma="potřebovat" src="auto" recommended="1">VpYS----R-NAI--</AM>
 <AM lemma="potřebovat" src="manual" selected="1">VpYS----R-NAI--</AM>
 </tag>
 </m>
@@ -6592,7 +6592,7 @@
 <LM>w#w-d1t3096-5</LM>
 </w.rf>
 <form>nevěnoval</form>
-<tag lemma="věnovat_:T" src="auto" recommended="1">VpYS---XR-NA---</tag>
+<tag lemma="věnovat" src="auto" recommended="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m136-d-id153547-punct">
 <w.rf>

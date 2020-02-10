@@ -59,7 +59,7 @@
 <LM>w#w-ln94207-70-p1s1w6</LM>
 </w.rf>
 <form>předvedla</form>
-<tag lemma="předvést" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="předvést" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94207-70-p1s1w7">
 <src.rf>manual</src.rf>
@@ -304,7 +304,7 @@
 <LM>w#w-ln94207-70-p1s2w7</LM>
 </w.rf>
 <form>registrováno</form>
-<tag lemma="registrovat_:T_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="registrovat" src="orig" selected="1">VsNS----X-APB--</tag>
 </m>
 <m id="m-ln94207-70-p1s2w8">
 <src.rf>manual</src.rf>

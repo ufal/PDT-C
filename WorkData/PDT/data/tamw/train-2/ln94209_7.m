@@ -403,7 +403,7 @@
 <LM>w#w-ln94209-7-p3s1w5</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94209-7-p3s1w6">
 <src.rf>manual</src.rf>
@@ -451,7 +451,7 @@
 <LM>w#w-ln94209-7-p3s1w11</LM>
 </w.rf>
 <form>instalována</form>
-<tag lemma="instalovat_:T_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="instalovat" src="orig" selected="1">VsQW----X-APB--</tag>
 </m>
 <m id="m-ln94209-7-p3s1w12">
 <src.rf>manual</src.rf>
@@ -590,8 +590,8 @@
 </w.rf>
 <form>vzrostla</form>
 <tag>
-<AM lemma="vzrůst-1" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="vzrůst-1_:T" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="vzrůst-1" src="auto">VpQW----R-AAP--</AM>
+<AM lemma="vzrůst-1" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94209-7-p3s2w11">
@@ -706,7 +706,7 @@
 <LM>w#w-ln94209-7-p3s3w7</LM>
 </w.rf>
 <form>pohybovaly</form>
-<tag lemma="pohybovat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="pohybovat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94209-7-p3s3w8">
 <src.rf>manual</src.rf>
@@ -791,7 +791,7 @@
 <LM>w#w-ln94209-7-p4s1w5</LM>
 </w.rf>
 <form>probíhala</form>
-<tag lemma="probíhat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="probíhat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94209-7-p4s1w6">
 <src.rf>manual</src.rf>

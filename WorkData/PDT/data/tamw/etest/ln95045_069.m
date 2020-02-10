@@ -199,8 +199,8 @@
 </w.rf>
 <form>nechali</form>
 <tag>
-<AM lemma="nechat_:T" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="nechat_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+<AM lemma="nechat" src="orig">VpMP----R-AAI--</AM>
+<AM lemma="nechat" src="manual" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln95045-069-p2s1Bw18">
@@ -336,7 +336,7 @@
 <LM>w#w-ln95045-069-p2s1Bw34</LM>
 </w.rf>
 <form>vlastnili</form>
-<tag lemma="vlastnit_:T_^(někdo_má_něco_ve_vlastnictví)" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95045-069-p2s1Bw35">
 <src.rf>manual</src.rf>
@@ -717,7 +717,7 @@
 <LM>w#w-ln95045-069-p2s2w27</LM>
 </w.rf>
 <form>pronajímaly</form>
-<tag lemma="pronajímat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="pronajímat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95045-069-p2s2w28">
 <src.rf>manual</src.rf>
@@ -743,7 +743,7 @@
 <LM>w#w-ln95045-069-p2s3w1</LM>
 </w.rf>
 <form>Získaly</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95045-069-p2s3w2">
 <src.rf>manual</src.rf>
@@ -939,7 +939,7 @@
 <LM>w#w-ln95045-069-p2s5w1</LM>
 </w.rf>
 <form>Nemusely</form>
-<tag lemma="muset" src="orig" selected="1">VpTP---XR-NA---</tag>
+<tag lemma="muset" src="orig" selected="1">VpTP----R-NAI--</tag>
 </m>
 <m id="m-ln95045-069-p2s5w2">
 <src.rf>manual</src.rf>
@@ -1011,7 +1011,7 @@
 <LM>w#w-ln95045-069-p2s5w11</LM>
 </w.rf>
 <form>ručily</form>
-<tag lemma="ručit_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="ručit" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95045-069-p2s5w12">
 <src.rf>manual</src.rf>
@@ -1184,7 +1184,7 @@
 <LM>w#w-ln95045-069-p3s1w9</LM>
 </w.rf>
 <form>sebrali</form>
-<tag lemma="sebrat" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="sebrat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95045-069-p3s1w10">
 <src.rf>manual</src.rf>
@@ -1248,7 +1248,7 @@
 <LM>w#w-ln95045-069-p3s1w18</LM>
 </w.rf>
 <form>nenaštvali</form>
-<tag lemma="naštvat" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="naštvat" src="orig" selected="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m-ln95045-069-p3s1w19">
 <src.rf>manual</src.rf>
@@ -1264,7 +1264,7 @@
 <LM>w#w-ln95045-069-p3s1w20</LM>
 </w.rf>
 <form>přidělili</form>
-<tag lemma="přidělit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přidělit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95045-069-p3s1w21">
 <src.rf>manual</src.rf>
@@ -1370,7 +1370,7 @@
 <LM>w#w-ln95045-069-p3s2w4</LM>
 </w.rf>
 <form>nepřidělil</form>
-<tag lemma="přidělit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="přidělit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-ln95045-069-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1498,7 +1498,7 @@
 <LM>w#w-ln95045-069-p3s2w20</LM>
 </w.rf>
 <form>netrval</form>
-<tag lemma="trvat_:T" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="trvat" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-ln95045-069-p3s2w21">
 <src.rf>manual</src.rf>
@@ -1652,7 +1652,7 @@
 <LM>w#w-ln95045-069-p4s1w7</LM>
 </w.rf>
 <form>nemuselo</form>
-<tag lemma="muset" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="muset" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-ln95045-069-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1785,7 +1785,7 @@
 <LM>w#w-ln95045-069-p4s2w15</LM>
 </w.rf>
 <form>přidělil</form>
-<tag lemma="přidělit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přidělit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-069-p4s2w16">
 <src.rf>manual</src.rf>
@@ -1900,7 +1900,7 @@
 <LM>w#w-ln95045-069-p4s2w29</LM>
 </w.rf>
 <form>nastěhovaly</form>
-<tag lemma="nastěhovat_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="nastěhovat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95045-069-p4s2w30">
 <src.rf>manual</src.rf>

@@ -132,7 +132,7 @@
 <LM>w#w-wsj1431-001-p1s0W9</LM>
 </w.rf>
 <form>poklesly</form>
-<tag lemma="poklesnout" src="auto" recommended="1">VpTP---XR-AAP-1</tag>
+<tag lemma="poklesnout" src="auto" recommended="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-wsj1431-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -200,7 +200,7 @@
 <LM>w#w-wsj1431-001-p1s0W16</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1431-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -376,7 +376,7 @@
 <LM>w#w-wsj1431-001-p1s1W8</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj1431-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -425,7 +425,7 @@
 <LM>w#w-wsj1431-001-p1s1W12</LM>
 </w.rf>
 <form>odradily</form>
-<tag lemma="odradit" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="odradit" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1431-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -567,7 +567,7 @@
 <LM>w#w-wsj1431-001-p1s2W5</LM>
 </w.rf>
 <form>dosáhly</form>
-<tag lemma="dosáhnout" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="dosáhnout" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1431-001-p1s2W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -793,7 +793,7 @@
 <LM>w#w-wsj1431-001-p1s3W10</LM>
 </w.rf>
 <form>zvýšily</form>
-<tag lemma="zvýšit" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="zvýšit" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1431-001-p1s3W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -914,7 +914,7 @@
 <LM>w#w-wsj1431-001-p1s4W6</LM>
 </w.rf>
 <form>poklesly</form>
-<tag lemma="poklesnout" src="auto" recommended="1">VpTP---XR-AAP-1</tag>
+<tag lemma="poklesnout" src="auto" recommended="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-wsj1431-001-p1s4W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1206,7 +1206,7 @@
 <LM>w#w-wsj1431-001-p1s5W13</LM>
 </w.rf>
 <form>poklesl</form>
-<tag lemma="poklesnout" src="auto" recommended="1">VpYS---XR-AAP-1</tag>
+<tag lemma="poklesnout" src="auto" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-wsj1431-001-p1s5W14-Ta">
 <src.rf>tagger-a</src.rf>

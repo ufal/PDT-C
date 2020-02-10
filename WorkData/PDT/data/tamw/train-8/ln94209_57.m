@@ -85,7 +85,7 @@
 <LM>w#w-ln94209-57-p1s2Aw1</LM>
 </w.rf>
 <form>Narodil</form>
-<tag lemma="narodit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="narodit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94209-57-p1s2Aw2">
 <src.rf>manual</src.rf>

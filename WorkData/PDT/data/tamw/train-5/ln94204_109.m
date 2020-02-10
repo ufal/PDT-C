@@ -35,7 +35,7 @@
 <LM>w#w-ln94204-109-p1s1w3</LM>
 </w.rf>
 <form>potvrzen</form>
-<tag lemma="potvrdit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="potvrdit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 </s>
 <s id="m-ln94204-109-p2s1A">
@@ -199,7 +199,7 @@
 <LM>w#w-ln94204-109-p2s1Bw18</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94204-109-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -207,7 +207,7 @@
 <LM>w#w-ln94204-109-p2s1Bw19</LM>
 </w.rf>
 <form>diskvalifikován</form>
-<tag lemma="diskvalifikovat_:T_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="diskvalifikovat" src="orig" selected="1">VsYS----X-APB--</tag>
 </m>
 <m id="m-ln94204-109-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -463,7 +463,7 @@
 <LM>w#w-ln94204-109-p2s2w11</LM>
 </w.rf>
 <form>potvrdil</form>
-<tag lemma="potvrdit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="potvrdit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94204-109-p2s2w12">
 <src.rf>manual</src.rf>
@@ -535,7 +535,7 @@
 <LM>w#w-ln94204-109-p2s2w19</LM>
 </w.rf>
 <form>potrestala</form>
-<tag lemma="potrestat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="potrestat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94204-109-p2s2w20">
 <src.rf>manual</src.rf>
@@ -583,7 +583,7 @@
 <LM>w#w-ln94204-109-p2s2w25</LM>
 </w.rf>
 <form>neuposlechl</form>
-<tag lemma="uposlechnout_:W" src="orig" selected="1">VpYS---XR-NA--1</tag>
+<tag lemma="uposlechnout" src="orig" selected="1">VpYS----R-NAP-1</tag>
 </m>
 <m id="m-ln94204-109-p2s2w26">
 <src.rf>manual</src.rf>

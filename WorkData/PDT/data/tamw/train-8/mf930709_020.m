@@ -69,7 +69,7 @@
 <LM>w#w-mf930709-020-p2s1Aw3</LM>
 </w.rf>
 <form>DALI</form>
-<tag lemma="dát" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="dát" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930709-020-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -1071,7 +1071,7 @@
 <LM>w#w-mf930709-020-p2s7w9</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930709-020-p2s7w10">
 <src.rf>manual</src.rf>
@@ -1079,7 +1079,7 @@
 <LM>w#w-mf930709-020-p2s7w10</LM>
 </w.rf>
 <form>zasazeno</form>
-<tag lemma="zasadit_:W_^(něco_někam,_např._strom)" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zasadit_^(něco_někam,_např._strom)" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf930709-020-p2s7w11">
 <src.rf>manual</src.rf>
@@ -1341,8 +1341,8 @@
 </w.rf>
 <form>začalo</form>
 <tag>
-<AM lemma="začít-1_^(začnout)" src="auto">VpNS---XR-AA---</AM>
-<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="začít-1_^(začnout)" src="auto">VpNS----R-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930709-020-p2s9w15">
@@ -1564,7 +1564,7 @@
 <LM>w#w-mf930709-020-p2s10w12</LM>
 </w.rf>
 <form>uspořádalo</form>
-<tag lemma="uspořádat_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="uspořádat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-020-p2s10w13">
 <src.rf>manual</src.rf>

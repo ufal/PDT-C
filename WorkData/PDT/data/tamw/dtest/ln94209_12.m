@@ -173,7 +173,7 @@
 <LM>w#w-ln94209-12-p2s1Bw13</LM>
 </w.rf>
 <form>obnovila</form>
-<tag lemma="obnovit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="obnovit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94209-12-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -354,7 +354,7 @@
 <LM>w#w-ln94209-12-p2s2w14</LM>
 </w.rf>
 <form>sdělil</form>
-<tag lemma="sdělit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sdělit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94209-12-p2s2w15">
 <src.rf>manual</src.rf>

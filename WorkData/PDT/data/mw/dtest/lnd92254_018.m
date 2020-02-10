@@ -114,8 +114,8 @@
 </w.rf>
 <form>začali</form>
 <tag>
-<AM lemma="začít-1_^(začnout)" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpMP---XR-AA---</AM>
+<AM lemma="začít-1_^(začnout)" src="auto">VpMP----R-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92254-018-p3s2w6">
@@ -328,7 +328,7 @@
 <LM>w#w-lnd92254-018-p3s4w4</LM>
 </w.rf>
 <form>trvala</form>
-<tag lemma="trvat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="trvat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92254-018-p3s4w5">
 <src.rf>manual</src.rf>
@@ -458,7 +458,7 @@
 <LM>w#w-lnd92254-018-p3s5w7</LM>
 </w.rf>
 <form>propuštěni</form>
-<tag lemma="propustit" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="propustit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-lnd92254-018-p3s5w8">
 <src.rf>manual</src.rf>
@@ -532,7 +532,7 @@
 <LM>w#w-lnd92254-018-p3s6w5</LM>
 </w.rf>
 <form>přihlášeno</form>
-<tag lemma="přihlásit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="přihlásit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92254-018-p3s6w6">
 <src.rf>manual</src.rf>
@@ -711,7 +711,7 @@
 <LM>w#w-lnd92254-018-p3s6w27</LM>
 </w.rf>
 <form>operován</form>
-<tag lemma="operovat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="operovat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-lnd92254-018-p3s6w28">
 <src.rf>manual</src.rf>

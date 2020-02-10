@@ -2279,7 +2279,7 @@
 <LM>w#w-mf930708-119-p4s7w8</LM>
 </w.rf>
 <form>vzdal</form>
-<tag lemma="vzdát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vzdát" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-119-p4s7w9">
 <src.rf>manual</src.rf>

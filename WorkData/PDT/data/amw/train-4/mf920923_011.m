@@ -120,7 +120,7 @@
 <LM>w#w-mf920923-011-p2s1w10</LM>
 </w.rf>
 <form>vyprodaly</form>
-<tag lemma="vyprodat_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vyprodat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf920923-011-p2s1w11">
 <src.rf>manual</src.rf>
@@ -256,7 +256,7 @@
 <LM>w#w-mf920923-011-p2s1w28</LM>
 </w.rf>
 <form>převzali</form>
-<tag lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920923-011-p2s1w29">
 <src.rf>manual</src.rf>
@@ -354,7 +354,7 @@
 <LM>w#w-mf920923-011-p2s2w1</LM>
 </w.rf>
 <form>Vyplynulo</form>
-<tag lemma="vyplynout" src="auto" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vyplynout" src="auto" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-011-p2s2w2">
 <src.rf>manual</src.rf>
@@ -536,7 +536,7 @@
 <LM>w#w-mf920923-011-p2s3w12</LM>
 </w.rf>
 <form>získaly</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf920923-011-p2s3w13">
 <src.rf>manual</src.rf>
@@ -650,7 +650,7 @@
 <LM>w#w-mf920923-011-p2s4w5</LM>
 </w.rf>
 <form>rozdroben</form>
-<tag lemma="rozdrobit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="rozdrobit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf920923-011-p2s4w6">
 <src.rf>manual</src.rf>
@@ -1222,7 +1222,7 @@
 <LM>w#w-mf920923-011-p2s6w12</LM>
 </w.rf>
 <form>šel</form>
-<tag lemma="jít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="jít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920923-011-p2s6w13">
 <src.rf>manual</src.rf>
@@ -1278,7 +1278,7 @@
 <LM>w#w-mf920923-011-p2s6w19</LM>
 </w.rf>
 <form>zůstaly</form>
-<tag lemma="zůstat" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zůstat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf920923-011-p2s6w20">
 <src.rf>manual</src.rf>

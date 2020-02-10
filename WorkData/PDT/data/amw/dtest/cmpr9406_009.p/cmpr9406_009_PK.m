@@ -177,7 +177,7 @@
 <LM>w#w-cmpr9406-009-p5s3w6</LM>
 </w.rf>
 <form>připraven</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="připravit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-cmpr9406-009-p5s3w7">
 <src.rf>manual</src.rf>
@@ -558,8 +558,8 @@
 </w.rf>
 <form>dostal</form>
 <tag>
-<AM lemma="dostat" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="dostat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="dostat" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="dostat" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-009-p7s1w6">
@@ -639,8 +639,8 @@
 </w.rf>
 <form>uvedeno</form>
 <tag>
-<AM lemma="uvést" src="orig">VsNS---XX-AP---</AM>
-<AM lemma="uvést_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+<AM lemma="uvést" src="orig">VsNS----X-APP--</AM>
+<AM lemma="uvést" src="manual" selected="1">VsNS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-009-p7s2w4">
@@ -755,7 +755,7 @@
 <LM>w#w-cmpr9406-009-p7s3w3</LM>
 </w.rf>
 <form>dotazován</form>
-<tag lemma="dotazovat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="dotazovat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-cmpr9406-009-p7s3w4">
 <src.rf>manual</src.rf>
@@ -851,7 +851,7 @@
 <LM>w#w-cmpr9406-009-p7s3w15</LM>
 </w.rf>
 <form>léčil</form>
-<tag lemma="léčit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="léčit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9406-009-p7s3w16">
 <src.rf>manual</src.rf>
@@ -979,7 +979,7 @@
 <LM>w#w-cmpr9406-009-p7s3w31</LM>
 </w.rf>
 <form>podrobil</form>
-<tag lemma="podrobit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="podrobit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9406-009-p7s3w32">
 <src.rf>manual</src.rf>
@@ -1398,7 +1398,7 @@
 <LM>w#w-cmpr9406-009-p9s2w4</LM>
 </w.rf>
 <form>sjednáváno</form>
-<tag lemma="sjednávat_:T_^(*4at)" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="sjednávat_^(*4at)" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-cmpr9406-009-p9s2w5">
 <src.rf>manual</src.rf>

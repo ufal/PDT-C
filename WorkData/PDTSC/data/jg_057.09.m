@@ -12,7 +12,7 @@
 <LM>w#w-d1t3272-1</LM>
 </w.rf>
 <form>Těšilo</form>
-<tag lemma="těšit_:T" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="těšit" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m057-d1t3272-2">
 <w.rf>
@@ -165,7 +165,7 @@
 <LM>w#w-d1t3278-7</LM>
 </w.rf>
 <form>povídalo</form>
-<tag lemma="povídat_:T" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="povídat" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m057-d-m-d1e3273-x2-punct-punct">
 <w.rf>

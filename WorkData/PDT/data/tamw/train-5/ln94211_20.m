@@ -135,7 +135,7 @@
 <LM>w#w-ln94211-20-p2s1Bw8</LM>
 </w.rf>
 <form>vyzval</form>
-<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94211-20-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -395,7 +395,7 @@
 <LM>w#w-ln94211-20-p2s2w7</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94211-20-p2s2w8">
 <src.rf>manual</src.rf>
@@ -443,7 +443,7 @@
 <LM>w#w-ln94211-20-p2s2w13</LM>
 </w.rf>
 <form>donuceno</form>
-<tag lemma="donutit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="donutit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94211-20-p2s2w14">
 <src.rf>manual</src.rf>

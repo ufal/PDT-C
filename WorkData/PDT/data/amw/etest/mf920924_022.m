@@ -205,7 +205,7 @@
 <LM>w#w-mf920924-022-p2s3w2</LM>
 </w.rf>
 <form>požádalo</form>
-<tag lemma="požádat_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="požádat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920924-022-p2s3w3">
 <src.rf>manual</src.rf>

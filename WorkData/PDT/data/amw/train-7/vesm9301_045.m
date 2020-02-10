@@ -61,7 +61,7 @@
 <LM>w#w-vesm9301-045-p2s1w4</LM>
 </w.rf>
 <form>děsil</form>
-<tag lemma="děsit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="děsit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-vesm9301-045-p2s1w5">
 <src.rf>manual</src.rf>

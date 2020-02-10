@@ -562,7 +562,7 @@
 <LM>w#w-mf930708-039-p2s4w12</LM>
 </w.rf>
 <form>činil</form>
-<tag lemma="činit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="činit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930708-039-p2s4w13">
 <src.rf>manual</src.rf>

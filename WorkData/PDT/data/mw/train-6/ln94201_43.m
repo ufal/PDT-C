@@ -179,7 +179,7 @@
 <LM>w#w-ln94201-43-p2s1w15</LM>
 </w.rf>
 <form>vyslovila</form>
-<tag lemma="vyslovit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyslovit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94201-43-p2s1w16">
 <src.rf>manual</src.rf>
@@ -264,7 +264,7 @@
 <LM>w#w-ln94201-43-p2s2w3</LM>
 </w.rf>
 <form>odsoudila</form>
-<tag lemma="odsoudit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="odsoudit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94201-43-p2s2w4">
 <src.rf>manual</src.rf>
@@ -364,8 +364,8 @@
 </w.rf>
 <form>zahynulo</form>
 <tag>
-<AM lemma="zahynout" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="zahynout_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="zahynout" src="orig">VpNS----R-AAP--</AM>
+<AM lemma="zahynout" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94201-43-p2s2w16">
@@ -408,7 +408,7 @@
 <LM>w#w-ln94201-43-p2s3w1</LM>
 </w.rf>
 <form>Naznačila</form>
-<tag lemma="naznačit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="naznačit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94201-43-p2s3w2">
 <src.rf>manual</src.rf>
@@ -706,7 +706,7 @@
 <LM>w#w-ln94201-43-p2s5w1</LM>
 </w.rf>
 <form>Oznámil</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94201-43-p2s5w2">
 <src.rf>manual</src.rf>

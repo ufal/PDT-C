@@ -143,7 +143,7 @@
 <LM>w#w-mf920902-119-p2s2w8</LM>
 </w.rf>
 <form>srazil</form>
-<tag lemma="srazit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="srazit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-119-p2s2w9">
 <src.rf>manual</src.rf>
@@ -293,7 +293,7 @@
 <LM>w#w-mf920902-119-p2s2w26</LM>
 </w.rf>
 <form>vjel</form>
-<tag lemma="vjet" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vjet" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-119-p2s2w27">
 <src.rf>manual</src.rf>
@@ -399,7 +399,7 @@
 <LM>w#w-mf920902-119-p2s3w5</LM>
 </w.rf>
 <form>usmrtil</form>
-<tag lemma="usmrtit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="usmrtit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-119-p2s3w6">
 <src.rf>manual</src.rf>
@@ -554,7 +554,7 @@
 <LM>w#w-mf920902-119-p2s4w6</LM>
 </w.rf>
 <form>ujel</form>
-<tag lemma="ujet" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="ujet" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-119-p2s4w7">
 <src.rf>manual</src.rf>
@@ -626,7 +626,7 @@
 <LM>w#w-mf920902-119-p2s4w15</LM>
 </w.rf>
 <form>přihlásil</form>
-<tag lemma="přihlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přihlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-119-p2s4w16">
 <src.rf>manual</src.rf>

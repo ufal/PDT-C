@@ -99,7 +99,7 @@
 <LM>w#w-mf930709-070-p1s1w11</LM>
 </w.rf>
 <form>zaměřili</form>
-<tag lemma="zaměřit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zaměřit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930709-070-p1s1w12">
 <src.rf>manual</src.rf>
@@ -289,7 +289,7 @@
 <LM>w#w-mf930709-070-p1s2w18</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930709-070-p1s2w19">
 <src.rf>manual</src.rf>
@@ -305,7 +305,7 @@
 <LM>w#w-mf930709-070-p1s2w20</LM>
 </w.rf>
 <form>napomenuti</form>
-<tag lemma="napomenout" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="napomenout" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-mf930709-070-p1s2w21">
 <src.rf>manual</src.rf>
@@ -600,7 +600,7 @@
 <LM>w#w-mf930709-070-p1s4w5</LM>
 </w.rf>
 <form>účtovali</form>
-<tag lemma="účtovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="účtovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930709-070-p1s4w6">
 <src.rf>manual</src.rf>
@@ -690,7 +690,7 @@
 <LM>w#w-mf930709-070-p1s5w5</LM>
 </w.rf>
 <form>zaměřili</form>
-<tag lemma="zaměřit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zaměřit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930709-070-p1s5w6">
 <src.rf>manual</src.rf>

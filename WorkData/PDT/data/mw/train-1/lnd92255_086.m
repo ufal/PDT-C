@@ -743,7 +743,7 @@
 <LM>w#w-lnd92255-086-p3s3w11</LM>
 </w.rf>
 <form>pronásledovali</form>
-<tag lemma="pronásledovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="pronásledovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92255-086-p3s3w12">
 <src.rf>manual</src.rf>
@@ -791,7 +791,7 @@
 <LM>w#w-lnd92255-086-p3s3w17</LM>
 </w.rf>
 <form>pohrdali</form>
-<tag lemma="pohrdat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="pohrdat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92255-086-p3s3w18">
 <src.rf>manual</src.rf>
@@ -922,7 +922,7 @@
 <LM>w#w-lnd92255-086-p3s3w33</LM>
 </w.rf>
 <form>separovali</form>
-<tag lemma="separovat_:T_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="separovat" src="orig" selected="1">VpMP----R-AAB--</tag>
 </m>
 <m id="m-lnd92255-086-p3s3w34">
 <src.rf>manual</src.rf>
@@ -1092,7 +1092,7 @@
 <LM>w#w-lnd92255-086-p3s4w16</LM>
 </w.rf>
 <form>mělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92255-086-p3s4w17">
 <src.rf>manual</src.rf>

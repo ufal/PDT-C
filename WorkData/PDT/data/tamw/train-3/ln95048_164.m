@@ -83,7 +83,7 @@
 <LM>w#w-ln95048-164-p1s1w9</LM>
 </w.rf>
 <form>připravila</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="připravit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95048-164-p1s1w10">
 <src.rf>manual</src.rf>

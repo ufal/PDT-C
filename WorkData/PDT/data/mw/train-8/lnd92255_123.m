@@ -51,7 +51,7 @@
 <LM>w#w-lnd92255-123-p1s1w5</LM>
 </w.rf>
 <form>přislíbila</form>
-<tag lemma="přislíbit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="přislíbit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-123-p1s1w6">
 <src.rf>manual</src.rf>
@@ -187,7 +187,7 @@
 <LM>w#w-lnd92255-123-p1s2w5</LM>
 </w.rf>
 <form>prohlásil</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-123-p1s2w6">
 <src.rf>manual</src.rf>

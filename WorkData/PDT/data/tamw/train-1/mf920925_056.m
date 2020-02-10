@@ -69,7 +69,7 @@
 <LM>w#w-mf920925-056-p3s1w6</LM>
 </w.rf>
 <form>oznámil</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920925-056-p3s1w7">
 <src.rf>manual</src.rf>

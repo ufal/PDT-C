@@ -278,7 +278,7 @@
 <LM>w#w-lnd92254-011-p3s3w9</LM>
 </w.rf>
 <form>označena</form>
-<tag lemma="označit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="označit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd92254-011-p3s3w10">
 <src.rf>manual</src.rf>
@@ -318,7 +318,7 @@
 <LM>w#w-lnd92254-011-p3s3w14</LM>
 </w.rf>
 <form>dávána</form>
-<tag lemma="dávat_:T_^(*3t)" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="dávat_^(*3t)" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-lnd92254-011-p3s3w15">
 <src.rf>manual</src.rf>
@@ -523,7 +523,7 @@
 <LM>w#w-lnd92254-011-p3s4w18</LM>
 </w.rf>
 <form>odmítali</form>
-<tag lemma="odmítat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="odmítat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92254-011-p3s4w19">
 <src.rf>manual</src.rf>

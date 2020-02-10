@@ -143,7 +143,7 @@
 <LM>w#w-lnd91303-106-p3s1w12</LM>
 </w.rf>
 <form>odprodal</form>
-<tag lemma="odprodat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odprodat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-106-p3s1w13">
 <src.rf>manual</src.rf>

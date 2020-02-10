@@ -1433,7 +1433,7 @@
 <LM>w#w-ln95045-090-p3s8w13</LM>
 </w.rf>
 <form>vysvětlil</form>
-<tag lemma="vysvětlit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vysvětlit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-090-p3s8w14">
 <src.rf>manual</src.rf>
@@ -1611,7 +1611,7 @@
 <LM>w#w-ln95045-090-p4s1w14</LM>
 </w.rf>
 <form>plánována</form>
-<tag lemma="plánovat_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="plánovat" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-ln95045-090-p4s1w15">
 <src.rf>manual</src.rf>

@@ -227,7 +227,7 @@
 <LM>w#w-ln94203-101-p2s1w21</LM>
 </w.rf>
 <form>povšiml</form>
-<tag lemma="povšimnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="povšimnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln94203-101-p2s1w22">
 <src.rf>manual</src.rf>
@@ -837,7 +837,7 @@
 <LM>w#w-ln94203-101-p2s4w12</LM>
 </w.rf>
 <form>vážil</form>
-<tag lemma="vážit_:T" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vážit" src="auto" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94203-101-p2s4w13">
 <src.rf>manual</src.rf>
@@ -853,7 +853,7 @@
 <LM>w#w-ln94203-101-p2s4w14</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94203-101-p2s4w15">
 <src.rf>manual</src.rf>
@@ -2210,7 +2210,7 @@
 <LM>w#w-ln94203-101-p4s1w10</LM>
 </w.rf>
 <form>nechali</form>
-<tag lemma="nechat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="nechat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94203-101-p4s1w11">
 <src.rf>manual</src.rf>
@@ -2954,7 +2954,7 @@
 <LM>w#w-ln94203-101-p6s2w37</LM>
 </w.rf>
 <form>promluvil</form>
-<tag lemma="promluvit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="promluvit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94203-101-p6s2w38">
 <src.rf>manual</src.rf>
@@ -3384,7 +3384,7 @@
 <LM>w#w-ln94203-101-p7s1w6</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94203-101-p7s1w7">
 <src.rf>manual</src.rf>
@@ -3496,7 +3496,7 @@
 <LM>w#w-ln94203-101-p7s1w20</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94203-101-p7s1w21">
 <src.rf>manual</src.rf>
@@ -3560,7 +3560,7 @@
 <LM>w#w-ln94203-101-p7s1w29</LM>
 </w.rf>
 <form>získali</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94203-101-p7s1w30">
 <src.rf>manual</src.rf>

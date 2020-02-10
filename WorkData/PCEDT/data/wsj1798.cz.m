@@ -62,7 +62,7 @@
 <LM>w#w-wsj1798-001-p1s1W3</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1798-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -107,7 +107,7 @@
 <LM>w#w-wsj1798-001-p1s1W7</LM>
 </w.rf>
 <form>zdálo</form>
-<tag lemma="zdát" src="auto" recommended="1">VpNS---XR-AAI--</tag>
+<tag lemma="zdát" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-wsj1798-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -293,7 +293,7 @@
 <LM>w#w-wsj1798-001-p1s1W26</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag lemma="mít" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj1798-001-p1s1W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -400,7 +400,7 @@
 <LM>w#w-wsj1798-001-p1s2W3</LM>
 </w.rf>
 <form>nezměnilo</form>
-<tag lemma="změnit" src="auto" recommended="1">VpNS---XR-NAP--</tag>
+<tag lemma="změnit" src="auto" recommended="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-wsj1798-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -440,7 +440,7 @@
 <LM>w#w-wsj1798-001-p1s2W8</LM>
 </w.rf>
 <form>poděšen</form>
-<tag lemma="poděsit" src="auto" recommended="1">VsYS---XX-APP--</tag>
+<tag lemma="poděsit" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj1798-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>

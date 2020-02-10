@@ -464,7 +464,7 @@
 <LM>w#w-mf930701-059-p2s4w3</LM>
 </w.rf>
 <form>sdělil</form>
-<tag lemma="sdělit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sdělit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-059-p2s4w4">
 <src.rf>manual</src.rf>

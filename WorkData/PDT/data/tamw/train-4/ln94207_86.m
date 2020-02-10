@@ -40,7 +40,7 @@
 <LM>w#w-ln94207-86-p1s1w3</LM>
 </w.rf>
 <form>inicioval</form>
-<tag lemma="iniciovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="iniciovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln94207-86-p1s1w4">
 <src.rf>manual</src.rf>

@@ -54,7 +54,7 @@
 <LM>w#w-ln94201-6-p1s1w5</LM>
 </w.rf>
 <form>sešli</form>
-<tag lemma="sejít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="sejít" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94201-6-p1s1w6">
 <src.rf>manual</src.rf>

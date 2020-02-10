@@ -127,8 +127,8 @@
 </w.rf>
 <form>vyzval</form>
 <tag>
-<AM lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="vyzvat_:W_^(někoho_vyzvat_k_něčemu)" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95041-063-p2s1Bw7">
@@ -228,7 +228,7 @@
 <LM>w#w-ln95041-063-p2s1Bw19</LM>
 </w.rf>
 <form>neposkytla</form>
-<tag lemma="poskytnout_:W" src="orig" selected="1">VpQW---XR-NA--1</tag>
+<tag lemma="poskytnout" src="orig" selected="1">VpQW----R-NAP-1</tag>
 </m>
 <m id="m-ln95041-063-p2s1Bw20">
 <src.rf>manual</src.rf>
@@ -374,7 +374,7 @@
 <LM>w#w-ln95041-063-p2s2w9</LM>
 </w.rf>
 <form>vzešel</form>
-<tag lemma="vzejít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vzejít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95041-063-p2s2w10">
 <src.rf>manual</src.rf>
@@ -422,7 +422,7 @@
 <LM>w#w-ln95041-063-p2s2w15</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95041-063-p2s2w16">
 <src.rf>manual</src.rf>
@@ -430,7 +430,7 @@
 <LM>w#w-ln95041-063-p2s2w16</LM>
 </w.rf>
 <form>přijat</form>
-<tag lemma="přijmout" src="auto" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="přijmout" src="auto" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95041-063-p2s2w17">
 <src.rf>manual</src.rf>
@@ -521,8 +521,8 @@
 </w.rf>
 <form>vyzval</form>
 <tag>
-<AM lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="vyzvat_:W_^(někoho_vyzvat_k_něčemu)" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95041-063-p2s3w5">
@@ -582,7 +582,7 @@
 <LM>w#w-ln95041-063-p2s3w12</LM>
 </w.rf>
 <form>zveřejnily</form>
-<tag lemma="zveřejnit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zveřejnit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95041-063-p2s3w13">
 <src.rf>manual</src.rf>

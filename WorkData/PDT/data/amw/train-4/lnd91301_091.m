@@ -160,7 +160,7 @@
 <LM>w#w-lnd91301-091-p2s1w15</LM>
 </w.rf>
 <form>nerozhodlo</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpNS---XR-NA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpNS----R-NAP-1</tag>
 </m>
 <m id="m-lnd91301-091-p2s1w16">
 <src.rf>manual</src.rf>
@@ -707,7 +707,7 @@
 <LM>w#w-lnd91301-091-p2s3w3</LM>
 </w.rf>
 <form>vyšel</form>
-<tag lemma="vyjít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyjít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-091-p2s3w4">
 <src.rf>manual</src.rf>

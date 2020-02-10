@@ -229,7 +229,7 @@
 <LM>w#w-mf930701-004-p2s2w1</LM>
 </w.rf>
 <form>Řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-004-p2s2w2">
 <src.rf>manual</src.rf>
@@ -461,7 +461,7 @@
 <LM>w#w-mf930701-004-p3s1w19</LM>
 </w.rf>
 <form>narušilo</form>
-<tag lemma="narušit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="narušit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-004-p3s1w20">
 <src.rf>manual</src.rf>

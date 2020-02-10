@@ -158,8 +158,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94200-76-p2s1Bw8">
@@ -240,7 +240,7 @@
 <LM>w#w-ln94200-76-p2s1Bw17</LM>
 </w.rf>
 <form>uvítal</form>
-<tag lemma="uvítat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvítat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-76-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -306,7 +306,7 @@
 <LM>w#w-ln94200-76-p2s2w7</LM>
 </w.rf>
 <form>seznamoval</form>
-<tag lemma="seznamovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="seznamovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94200-76-p2s2w8">
 <src.rf>manual</src.rf>
@@ -365,7 +365,7 @@
 <LM>w#w-ln94200-76-p2s2w14</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94200-76-p2s2w15">
 <src.rf>manual</src.rf>
@@ -416,8 +416,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94200-76-p2s3w4">
@@ -525,7 +525,7 @@
 <LM>w#w-ln94200-76-p2s3w13</LM>
 </w.rf>
 <form>nezískalo</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-ln94200-76-p2s3w14">
 <src.rf>manual</src.rf>
@@ -628,8 +628,8 @@
 </w.rf>
 <form>uvedl</form>
 <tag>
-<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="uvést" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="uvést" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94200-76-p2s3w26">
@@ -699,7 +699,7 @@
 <LM>w#w-ln94200-76-p2s4w4</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94200-76-p2s4w5">
 <src.rf>manual</src.rf>
@@ -837,7 +837,7 @@
 <LM>w#w-ln94200-76-p2s5w4</LM>
 </w.rf>
 <form>odmítl</form>
-<tag lemma="odmítnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="odmítnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln94200-76-p2s5w5">
 <src.rf>manual</src.rf>
@@ -925,7 +925,7 @@
 <LM>w#w-ln94200-76-p2s5w15</LM>
 </w.rf>
 <form>připravoval</form>
-<tag lemma="připravovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="připravovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94200-76-p2s5w16">
 <src.rf>manual</src.rf>

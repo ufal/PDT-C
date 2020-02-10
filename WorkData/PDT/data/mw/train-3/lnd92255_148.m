@@ -420,7 +420,7 @@
 <LM>w#w-lnd92255-148-p2s2w13</LM>
 </w.rf>
 <form>osvojil</form>
-<tag lemma="osvojit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="osvojit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-148-p2s2w14">
 <src.rf>manual</src.rf>
@@ -970,7 +970,7 @@
 <LM>w#w-lnd92255-148-p3s4w3</LM>
 </w.rf>
 <form>vstřebal</form>
-<tag lemma="vstřebat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vstřebat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-148-p3s4w4">
 <src.rf>manual</src.rf>

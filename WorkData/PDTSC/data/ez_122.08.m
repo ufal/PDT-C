@@ -278,7 +278,7 @@
 <LM>w#w-d1t1814-14</LM>
 </w.rf>
 <form>věnoval</form>
-<tag lemma="věnovat_:T" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="věnovat" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m122-d1t1814-10">
 <w.rf>
@@ -361,7 +361,7 @@
 <LM>w#w-d1t1816-6</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m122-d1t1816-7">
 <w.rf>
@@ -428,7 +428,7 @@
 <LM>w#w-d1t1816-15</LM>
 </w.rf>
 <form>hráli</form>
-<tag lemma="hrát" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="hrát" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m122-d1t1816-16">
 <w.rf>
@@ -535,7 +535,7 @@
 <LM>w#w-d1t1816-25</LM>
 </w.rf>
 <form>vyjeli</form>
-<tag lemma="vyjet" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="vyjet" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m122-d-id135173-punct">
 <w.rf>
@@ -567,7 +567,7 @@
 <LM>w#w-d1t1816-29</LM>
 </w.rf>
 <form>hrála</form>
-<tag lemma="hrát" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="hrát" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m122-d1t1816-31">
 <w.rf>
@@ -1122,7 +1122,7 @@
 <LM>w#w-d1t1835-3</LM>
 </w.rf>
 <form>Míval</form>
-<tag lemma="mívat_:T_^(*3t)" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="mívat_^(*3t)" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m122-d1t1835-4">
 <w.rf>
@@ -2462,7 +2462,7 @@
 <LM>w#w-d1t1909-1</LM>
 </w.rf>
 <form>Umístil</form>
-<tag lemma="umístit_:W" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="umístit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m122-d1t1909-2">
 <w.rf>
@@ -2883,7 +2883,7 @@
 <LM>w#w-d1t1915-4</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m122-d1t1915-5">
 <w.rf>
@@ -3737,7 +3737,7 @@
 <form>stalo</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="auto" recommended="1">VpNS---XR-AA---</AM>
-<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m122-d-m-d1e1971-x2-punct-punct">
@@ -3813,7 +3813,7 @@
 <LM>w#w-d1t1982-7</LM>
 </w.rf>
 <form>povídalo</form>
-<tag lemma="povídat_:T" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="povídat" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m122-d-m-d1e1979-x2-punct-punct">
 <w.rf>

@@ -94,7 +94,7 @@
 <LM>w#w-wsj1342-001-p1s0W7</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj1342-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -446,7 +446,7 @@
 <LM>w#w-wsj1342-001-p1s2W6</LM>
 </w.rf>
 <form>skončil</form>
-<tag lemma="skončit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="skončit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1342-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>

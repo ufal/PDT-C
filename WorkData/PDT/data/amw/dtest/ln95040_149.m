@@ -595,7 +595,7 @@
 <LM>w#w-ln95040-149-p3s3w3</LM>
 </w.rf>
 <form>sdělil</form>
-<tag lemma="sdělit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sdělit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-149-p3s3w4">
 <src.rf>manual</src.rf>
@@ -1343,7 +1343,7 @@
 <LM>w#w-ln95040-149-p6s1w3</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95040-149-p6s1w4">
 <src.rf>manual</src.rf>
@@ -1351,7 +1351,7 @@
 <LM>w#w-ln95040-149-p6s1w4</LM>
 </w.rf>
 <form>pověřena</form>
-<tag lemma="pověřit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="pověřit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln95040-149-p6s1w5">
 <src.rf>manual</src.rf>

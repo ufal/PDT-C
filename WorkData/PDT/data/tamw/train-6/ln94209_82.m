@@ -80,8 +80,8 @@
 </w.rf>
 <form>přijal</form>
 <tag>
-<AM lemma="přijmout" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="přijmout_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="přijmout" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="přijmout" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94209-82-p2s1Bw5">
@@ -428,7 +428,7 @@
 <LM>w#w-ln94209-82-p2s2w11</LM>
 </w.rf>
 <form>postupováno</form>
-<tag lemma="postupovat_:T" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="postupovat" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-ln94209-82-p2s2w12">
 <src.rf>manual</src.rf>
@@ -521,7 +521,7 @@
 <LM>w#w-ln94209-82-p2s3w5</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94209-82-p2s3w6">
 <src.rf>manual</src.rf>
@@ -529,7 +529,7 @@
 <LM>w#w-ln94209-82-p2s3w6</LM>
 </w.rf>
 <form>zvolen</form>
-<tag lemma="zvolit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zvolit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94209-82-p2s3w7">
 <src.rf>manual</src.rf>

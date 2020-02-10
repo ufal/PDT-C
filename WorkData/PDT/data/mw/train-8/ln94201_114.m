@@ -151,7 +151,7 @@
 <LM>w#w-ln94201-114-p2s2w4</LM>
 </w.rf>
 <form>připravil</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="připravit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94201-114-p2s2w5">
 <src.rf>manual</src.rf>

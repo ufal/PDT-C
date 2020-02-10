@@ -211,7 +211,7 @@
 <LM>w#w-lnd92253-034-p1s1w25</LM>
 </w.rf>
 <form>prohlásil</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92253-034-p1s1w26">
 <src.rf>manual</src.rf>

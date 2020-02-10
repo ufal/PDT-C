@@ -64,7 +64,7 @@
 <LM>w#w-wsj0974-001-p1s0W5</LM>
 </w.rf>
 <form>klesl</form>
-<tag lemma="klesnout" src="auto" recommended="1">VpYS---XR-AAP-1</tag>
+<tag lemma="klesnout" src="auto" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-wsj0974-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -193,7 +193,7 @@
 <LM>w#w-wsj0974-001-p1s0W15</LM>
 </w.rf>
 <form>skončil</form>
-<tag lemma="skončit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="skončit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0974-001-p1s0W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -527,7 +527,7 @@
 <LM>w#w-wsj0974-001-p1s1W15</LM>
 </w.rf>
 <form>objevil</form>
-<tag lemma="objevit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="objevit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0974-001-p1s1W16-Ta">
 <src.rf>tagger-a</src.rf>

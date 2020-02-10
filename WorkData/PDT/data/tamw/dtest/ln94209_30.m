@@ -460,7 +460,7 @@
 <LM>w#w-ln94209-30-p2s2w22</LM>
 </w.rf>
 <form>obdrželi</form>
-<tag lemma="obdržet" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="obdržet" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94209-30-p2s2w23">
 <src.rf>manual</src.rf>
@@ -965,7 +965,7 @@
 <LM>w#w-ln94209-30-p2s5w4</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94209-30-p2s5w5">
 <src.rf>manual</src.rf>
@@ -1290,7 +1290,7 @@
 <LM>w#w-ln94209-30-p3s1w15</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94209-30-p3s1w16">
 <src.rf>manual</src.rf>
@@ -1298,7 +1298,7 @@
 <LM>w#w-ln94209-30-p3s1w16</LM>
 </w.rf>
 <form>koncipovány</form>
-<tag lemma="koncipovat_:T_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="koncipovat" src="orig" selected="1">VsTP----X-APB--</tag>
 </m>
 <m id="m-ln94209-30-p3s1w17">
 <src.rf>manual</src.rf>

@@ -127,7 +127,7 @@
 <LM>w#w-ln95044-016-p2s1Bw8</LM>
 </w.rf>
 <form>ozřejmil</form>
-<tag lemma="ozřejmit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="ozřejmit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95044-016-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -986,7 +986,7 @@
 <LM>w#w-ln95044-016-p4s1w23</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95044-016-p4s1w24">
 <src.rf>manual</src.rf>

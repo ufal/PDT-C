@@ -178,7 +178,7 @@
 <LM>w#w-ln95040-136-p3s1Bw8</LM>
 </w.rf>
 <form>pokračovalo</form>
-<tag lemma="pokračovat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="pokračovat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95040-136-p3s1Bw9">
 <src.rf>manual</src.rf>
@@ -388,7 +388,7 @@
 <LM>w#w-ln95040-136-p3s2w7</LM>
 </w.rf>
 <form>obviněn</form>
-<tag lemma="obvinit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="obvinit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95040-136-p3s2w8">
 <src.rf>manual</src.rf>
@@ -444,7 +444,7 @@
 <LM>w#w-ln95040-136-p3s2w14</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95040-136-p3s2w15">
 <src.rf>manual</src.rf>
@@ -551,7 +551,7 @@
 <LM>w#w-ln95040-136-p3s3w5</LM>
 </w.rf>
 <form>zastřelil</form>
-<tag lemma="zastřelit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zastřelit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-136-p3s3w6">
 <src.rf>manual</src.rf>
@@ -647,7 +647,7 @@
 <LM>w#w-ln95040-136-p3s3w17</LM>
 </w.rf>
 <form>poranil</form>
-<tag lemma="poranit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="poranit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-136-p3s3w18">
 <src.rf>manual</src.rf>
@@ -705,7 +705,7 @@
 <LM>w#w-ln95040-136-p3s4w6</LM>
 </w.rf>
 <form>přiznal</form>
-<tag lemma="přiznat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přiznat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-136-p3s4w7">
 <src.rf>manual</src.rf>
@@ -771,7 +771,7 @@
 <LM>w#w-ln95040-136-p4s1w7</LM>
 </w.rf>
 <form>obžalováni</form>
-<tag lemma="obžalovat_:W" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="obžalovat" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-ln95040-136-p4s1w8">
 <src.rf>manual</src.rf>
@@ -901,7 +901,7 @@
 <LM>w#w-ln95040-136-p4s2w11</LM>
 </w.rf>
 <form>zprostředkovali</form>
-<tag lemma="zprostředkovat_:W" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zprostředkovat" src="auto" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95040-136-p4s2w12">
 <src.rf>manual</src.rf>
@@ -959,7 +959,7 @@
 <LM>w#w-ln95040-136-p4s3w3</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95040-136-p4s3w4">
 <src.rf>manual</src.rf>

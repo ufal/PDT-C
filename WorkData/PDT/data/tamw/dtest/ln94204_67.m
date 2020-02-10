@@ -120,7 +120,7 @@
 <LM>w#w-ln94204-67-p2s1Bw5</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94204-67-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -129,7 +129,7 @@
 </w.rf>
 <form>nalezen</form>
 <tag>
-<AM lemma="naleznout" src="orig">VsYS---XX-AP---</AM>
+<AM lemma="naleznout" src="orig">VsYS----X-API--</AM>
 <AM lemma="nalézt-2" src="auto" recommended="1">VsYS---XX-AP---</AM>
 <AM lemma="nalézt-2_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
 </tag>
@@ -198,7 +198,7 @@
 <LM>w#w-ln94204-67-p2s2w3</LM>
 </w.rf>
 <form>pracoval</form>
-<tag lemma="pracovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="pracovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94204-67-p2s2w4">
 <src.rf>manual</src.rf>
@@ -257,8 +257,8 @@
 </w.rf>
 <form>prokázali</form>
 <tag>
-<AM lemma="prokázat" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="prokázat_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+<AM lemma="prokázat" src="orig">VpMP----R-AAP--</AM>
+<AM lemma="prokázat" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94204-67-p2s3w3">
@@ -315,7 +315,7 @@
 <LM>w#w-ln94204-67-p2s3w9</LM>
 </w.rf>
 <form>vypálil</form>
-<tag lemma="vypálit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vypálit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94204-67-p2s3w10">
 <src.rf>manual</src.rf>

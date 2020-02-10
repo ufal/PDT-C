@@ -83,7 +83,7 @@
 <LM>w#w-lnd91301-010-p1s1w9</LM>
 </w.rf>
 <form>obsadili</form>
-<tag lemma="obsadit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="obsadit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-010-p1s1w10">
 <src.rf>manual</src.rf>
@@ -131,7 +131,7 @@
 <LM>w#w-lnd91301-010-p1s1w15</LM>
 </w.rf>
 <form>osvobodili</form>
-<tag lemma="osvobodit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="osvobodit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-010-p1s1w16">
 <src.rf>manual</src.rf>

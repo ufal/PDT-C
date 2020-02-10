@@ -2242,7 +2242,7 @@
 <LM>w#w-lnd92259-101-p10s1w6</LM>
 </w.rf>
 <form>zvítězila</form>
-<tag lemma="zvítězit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zvítězit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-101-p10s1w7">
 <src.rf>manual</src.rf>
@@ -2386,7 +2386,7 @@
 <LM>w#w-lnd92259-101-p10s1w24</LM>
 </w.rf>
 <form>porazilo</form>
-<tag lemma="porazit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="porazit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-101-p10s1w25">
 <src.rf>manual</src.rf>

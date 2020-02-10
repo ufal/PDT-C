@@ -91,7 +91,7 @@
 <LM>w#w-mf920924-149-p1s1Aw9</LM>
 </w.rf>
 <form>octly</form>
-<tag lemma="octnout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="octnout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-mf920924-149-p1s1Aw10">
 <src.rf>manual</src.rf>
@@ -155,7 +155,7 @@
 <LM>w#w-mf920924-149-p1s1Aw17</LM>
 </w.rf>
 <form>postihla</form>
-<tag lemma="postihnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="postihnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-mf920924-149-p1s1Aw18">
 <src.rf>manual</src.rf>

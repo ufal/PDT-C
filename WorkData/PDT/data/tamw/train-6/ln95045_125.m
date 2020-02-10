@@ -41,7 +41,7 @@
 <LM>w#w-ln95045-125-p1s1w3</LM>
 </w.rf>
 <form>vykázala</form>
-<tag lemma="vykázat" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vykázat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95045-125-p1s1w4">
 <src.rf>manual</src.rf>
@@ -364,7 +364,7 @@
 <LM>w#w-ln95045-125-p2s2w4</LM>
 </w.rf>
 <form>vytvořila</form>
-<tag lemma="vytvořit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vytvořit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95045-125-p2s2w5">
 <src.rf>manual</src.rf>
@@ -519,7 +519,7 @@
 <LM>w#w-ln95045-125-p2s2w23</LM>
 </w.rf>
 <form>zdvojnásobila</form>
-<tag lemma="zdvojnásobit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zdvojnásobit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95045-125-p2s2w24">
 <src.rf>manual</src.rf>
@@ -561,7 +561,7 @@
 <LM>w#w-ln95045-125-p2s3w4</LM>
 </w.rf>
 <form>zvýšily</form>
-<tag lemma="zvýšit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zvýšit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95045-125-p2s3w5">
 <src.rf>manual</src.rf>
@@ -671,7 +671,7 @@
 <LM>w#w-ln95045-125-p2s3w17</LM>
 </w.rf>
 <form>vzrostly</form>
-<tag lemma="vzrůst-1" src="auto" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vzrůst-1" src="auto" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95045-125-p2s3w18">
 <src.rf>manual</src.rf>
@@ -773,7 +773,7 @@
 <LM>w#w-ln95045-125-p2s3w29</LM>
 </w.rf>
 <form>zvětšil</form>
-<tag lemma="zvětšit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zvětšit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-125-p2s3w30">
 <src.rf>manual</src.rf>

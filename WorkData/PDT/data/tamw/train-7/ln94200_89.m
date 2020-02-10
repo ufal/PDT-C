@@ -235,7 +235,7 @@
 <LM>w#w-ln94200-89-p2s1Bw17</LM>
 </w.rf>
 <form>stíhán</form>
-<tag lemma="stíhat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="stíhat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-ln94200-89-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -313,7 +313,7 @@
 <LM>w#w-ln94200-89-p2s2w3</LM>
 </w.rf>
 <form>upravil</form>
-<tag lemma="upravit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="upravit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-89-p2s2w4">
 <src.rf>manual</src.rf>
@@ -337,7 +337,7 @@
 <LM>w#w-ln94200-89-p2s2w6</LM>
 </w.rf>
 <form>vyinkasoval</form>
-<tag lemma="vyinkasovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyinkasovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94200-89-p2s2w7">
 <src.rf>manual</src.rf>
@@ -532,7 +532,7 @@
 <LM>w#w-ln94200-89-p2s3w18</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94200-89-p2s3w19">
 <src.rf>manual</src.rf>
@@ -556,7 +556,7 @@
 <LM>w#w-ln94200-89-p2s3w21</LM>
 </w.rf>
 <form>požadoval</form>
-<tag lemma="požadovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="požadovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94200-89-p2s3w22">
 <src.rf>manual</src.rf>

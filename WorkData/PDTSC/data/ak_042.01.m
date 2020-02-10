@@ -904,7 +904,7 @@
 <LM>w#w-d1t347-9</LM>
 </w.rf>
 <form>událo</form>
-<tag lemma="udát" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="udát" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m042-274-275">
 <w.rf>
@@ -1253,7 +1253,7 @@
 <LM>w#w-d1t354-13</LM>
 </w.rf>
 <form>událo</form>
-<tag lemma="udát" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="udát" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m042-d1e336-x3-314">
 <w.rf>
@@ -1952,7 +1952,7 @@
 <LM>w#w-d1t397-10</LM>
 </w.rf>
 <form>proslavil</form>
-<tag lemma="proslavit_:W" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="proslavit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m042-d1t397-11">
 <w.rf>
@@ -2385,7 +2385,7 @@
 <LM>w#w-d1t446-6</LM>
 </w.rf>
 <form>vybídnul</form>
-<tag lemma="vybídnout_:W" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="vybídnout" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m042-d-id68726-punct">
 <w.rf>
@@ -2417,7 +2417,7 @@
 <LM>w#w-d1t446-10</LM>
 </w.rf>
 <form>zúčastnil</form>
-<tag lemma="zúčastnit_:W" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="zúčastnit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m042-d1t446-11">
 <w.rf>
@@ -3845,7 +3845,7 @@
 <LM>w#w-d1t519-5</LM>
 </w.rf>
 <form>Jezdíval</form>
-<tag lemma="jezdívat_:T_^(*4it)" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="jezdívat_^(*4it)" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m042-d1t519-6">
 <w.rf>

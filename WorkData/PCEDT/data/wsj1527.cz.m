@@ -87,7 +87,7 @@
 <LM>w#w-wsj1527-001-p1s0W6</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1527-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -95,7 +95,7 @@
 <LM>w#w-wsj1527-001-p1s0W7</LM>
 </w.rf>
 <form>zvolen</form>
-<tag lemma="zvolit" src="auto" recommended="1">VsYS---XX-APP--</tag>
+<tag lemma="zvolit" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj1527-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>

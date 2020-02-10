@@ -113,7 +113,7 @@
 <LM>w#w-ln94208-28-p2s2w1</LM>
 </w.rf>
 <form>Zjistili</form>
-<tag lemma="zjistit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zjistit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94208-28-p2s2w2">
 <src.rf>manual</src.rf>
@@ -251,7 +251,7 @@
 <LM>w#w-ln94208-28-p2s3w1</LM>
 </w.rf>
 <form>Kontrolovány</form>
-<tag lemma="kontrolovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="kontrolovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln94208-28-p2s3w2">
 <src.rf>manual</src.rf>
@@ -259,7 +259,7 @@
 <LM>w#w-ln94208-28-p2s3w2</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94208-28-p2s3w3">
 <src.rf>manual</src.rf>
@@ -331,7 +331,7 @@
 <LM>w#w-ln94208-28-p2s3w11</LM>
 </w.rf>
 <form>zvýšili</form>
-<tag lemma="zvýšit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zvýšit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94208-28-p2s3w12">
 <src.rf>manual</src.rf>
@@ -365,7 +365,7 @@
 <LM>w#w-ln94208-28-p2s4w2</LM>
 </w.rf>
 <form>předražil</form>
-<tag lemma="předražit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="předražit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94208-28-p2s4w3">
 <src.rf>manual</src.rf>

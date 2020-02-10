@@ -43,7 +43,7 @@
 <LM>w#w-lnd92255-037-p1s1w4</LM>
 </w.rf>
 <form>přeměnili</form>
-<tag lemma="přeměnit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přeměnit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-037-p1s1w5">
 <src.rf>manual</src.rf>
@@ -286,7 +286,7 @@
 <LM>w#w-lnd92255-037-p1s2w9</LM>
 </w.rf>
 <form>překryli</form>
-<tag lemma="překrýt" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="překrýt" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-037-p1s2w10">
 <src.rf>manual</src.rf>
@@ -382,7 +382,7 @@
 <LM>w#w-lnd92255-037-p1s2w21</LM>
 </w.rf>
 <form>nahradilo</form>
-<tag lemma="nahradit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="nahradit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-037-p1s2w22">
 <src.rf>manual</src.rf>

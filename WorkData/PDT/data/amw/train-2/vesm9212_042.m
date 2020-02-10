@@ -274,7 +274,7 @@
 <LM>w#w-vesm9212-042-p5s1w18</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-vesm9212-042-p5s1w19">
 <src.rf>manual</src.rf>
@@ -724,7 +724,7 @@
 <LM>w#w-vesm9212-042-p7s2w29</LM>
 </w.rf>
 <form>usměrňováno</form>
-<tag lemma="usměrňovat_:T" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="usměrňovat" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-vesm9212-042-p7s2w30">
 <src.rf>manual</src.rf>
@@ -1102,7 +1102,7 @@
 <LM>w#w-vesm9212-042-p7s3w22</LM>
 </w.rf>
 <form>musela</form>
-<tag lemma="muset" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="muset" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-vesm9212-042-p7s3w23">
 <src.rf>manual</src.rf>

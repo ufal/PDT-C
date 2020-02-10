@@ -51,7 +51,7 @@
 <LM>w#w-lnd94103-023-p1s1w5</LM>
 </w.rf>
 <form>proměnila</form>
-<tag lemma="proměnit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="proměnit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-023-p1s1w6">
 <src.rf>manual</src.rf>

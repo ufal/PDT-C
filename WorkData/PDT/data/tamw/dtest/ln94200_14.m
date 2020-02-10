@@ -200,7 +200,7 @@
 <LM>w#w-ln94200-14-p2s1w22</LM>
 </w.rf>
 <form>vzrušovala</form>
-<tag lemma="vzrušovat_:T_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vzrušovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94200-14-p2s1w23">
 <src.rf>manual</src.rf>
@@ -216,7 +216,7 @@
 <LM>w#w-ln94200-14-p2s1w24</LM>
 </w.rf>
 <form>šokovala</form>
-<tag lemma="šokovat_:T_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="šokovat" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-ln94200-14-p2s1w25">
 <src.rf>manual</src.rf>
@@ -402,7 +402,7 @@
 <LM>w#w-ln94200-14-p3s1w5</LM>
 </w.rf>
 <form>natočil</form>
-<tag lemma="natočit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="natočit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-14-p3s1w6">
 <src.rf>manual</src.rf>
@@ -524,7 +524,7 @@
 <LM>w#w-ln94200-14-p3s2w4</LM>
 </w.rf>
 <form>obsadil</form>
-<tag lemma="obsadit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="obsadit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-14-p3s2w5">
 <src.rf>manual</src.rf>

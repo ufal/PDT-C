@@ -68,7 +68,7 @@
 <LM>w#w-wsj2241-001-p1s0W6</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2241-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -95,7 +95,7 @@
 <LM>w#w-wsj2241-001-p1s0W9</LM>
 </w.rf>
 <form>zvýšila</form>
-<tag lemma="zvýšit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="zvýšit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2241-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -324,7 +324,7 @@
 <LM>w#w-wsj2241-001-p1s1W4</LM>
 </w.rf>
 <form>odmítl</form>
-<tag lemma="odmítnout" src="auto" recommended="1">VpYS---XR-AAP-1</tag>
+<tag lemma="odmítnout" src="auto" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-wsj2241-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -548,7 +548,7 @@
 <LM>w#w-wsj2241-001-p1s1W20</LM>
 </w.rf>
 <form>zaplatil</form>
-<tag lemma="zaplatit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="zaplatit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2241-001-p1s1W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -672,7 +672,7 @@
 <LM>w#w-wsj2241-001-p1s1W29</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2241-001-p1s1W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -688,7 +688,7 @@
 <LM>w#w-wsj2241-001-p1s1W31</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj2241-001-p1s1W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -696,7 +696,7 @@
 <LM>w#w-wsj2241-001-p1s1W32</LM>
 </w.rf>
 <form>získány</form>
-<tag lemma="získat" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="získat" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj2241-001-p1s1W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -803,7 +803,7 @@
 <LM>w#w-wsj2241-001-p1s2W2</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2241-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1201,7 +1201,7 @@
 <LM>w#w-wsj2241-001-p1s2W39</LM>
 </w.rf>
 <form>nabídla</form>
-<tag lemma="nabídnout" src="auto" recommended="1">VpQW---XR-AAP-1</tag>
+<tag lemma="nabídnout" src="auto" recommended="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-wsj2241-001-p1s2W40-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1629,7 +1629,7 @@
 <LM>w#w-wsj2241-001-p1s4W7</LM>
 </w.rf>
 <form>ovládána</form>
-<tag lemma="ovládat" src="auto" recommended="1">VsQW---XX-API--</tag>
+<tag lemma="ovládat" src="auto" recommended="1">VsQW----X-API--</tag>
 </m>
 <m id="m-wsj2241-001-p1s4W8-Ta">
 <src.rf>tagger-a</src.rf>

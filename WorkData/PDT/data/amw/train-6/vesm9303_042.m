@@ -345,7 +345,7 @@
 <LM>w#w-vesm9303-042-p8s1w3</LM>
 </w.rf>
 <form>zpochybněn</form>
-<tag lemma="zpochybnit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zpochybnit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 </s>
 <s id="m-vesm9303-042-p9s1">
@@ -1321,7 +1321,7 @@
 <LM>w#w-vesm9303-042-p37s1w1</LM>
 </w.rf>
 <form>VYBRALI</form>
-<tag lemma="vybrat" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vybrat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-vesm9303-042-p37s1w2">
 <src.rf>manual</src.rf>

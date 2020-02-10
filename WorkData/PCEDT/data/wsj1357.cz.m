@@ -66,7 +66,7 @@
 <LM>w#w-wsj1357-001-p1s0W3</LM>
 </w.rf>
 <form>vydal</form>
-<tag lemma="vydat" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="vydat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1357-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -641,7 +641,7 @@
 <LM>w#w-wsj1357-001-p1s1W7</LM>
 </w.rf>
 <form>zavedl</form>
-<tag lemma="zavést" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="zavést" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1357-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -754,7 +754,7 @@
 <LM>w#w-wsj1357-001-p1s1W16</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1357-001-p1s1W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -955,7 +955,7 @@
 <LM>w#w-wsj1357-001-p1s1W30</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj1357-001-p1s1W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1265,7 +1265,7 @@
 <LM>w#w-wsj1357-001-p1s1W54</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1357-001-p1s1W55-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1498,7 +1498,7 @@
 <LM>w#w-wsj1357-001-p1s2W11</LM>
 </w.rf>
 <form>nazvala</form>
-<tag lemma="nazvat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="nazvat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1357-001-p1s2W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1630,7 +1630,7 @@
 <LM>w#w-wsj1357-001-p1s3W2</LM>
 </w.rf>
 <form>stanovil</form>
-<tag lemma="stanovit_^(určit)" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="stanovit_^(určit)" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1357-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1823,7 +1823,7 @@
 <LM>w#w-wsj1357-001-p1s4W6</LM>
 </w.rf>
 <form>složila</form>
-<tag lemma="složit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="složit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1357-001-p1s4W7-Ta">
 <src.rf>tagger-a</src.rf>

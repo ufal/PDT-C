@@ -1018,7 +1018,7 @@
 <LM>w#w-ln94206-103-p2s5w15</LM>
 </w.rf>
 <form>dodržena</form>
-<tag lemma="dodržet" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="dodržet" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94206-103-p2s5w16">
 <src.rf>manual</src.rf>
@@ -2078,7 +2078,7 @@
 <LM>w#w-ln94206-103-p3s3w12</LM>
 </w.rf>
 <form>šel</form>
-<tag lemma="jít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="jít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94206-103-p3s3w13">
 <src.rf>manual</src.rf>
@@ -2252,8 +2252,8 @@
 </w.rf>
 <form>začali</form>
 <tag>
-<AM lemma="začít-1_^(začnout)" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpMP---XR-AA---</AM>
+<AM lemma="začít-1_^(začnout)" src="auto">VpMP----R-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94206-103-p4s1w15">
@@ -2376,7 +2376,7 @@
 <LM>w#w-ln94206-103-p4s2w13</LM>
 </w.rf>
 <form>zrušili</form>
-<tag lemma="zrušit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zrušit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94206-103-p4s2w14">
 <src.rf>manual</src.rf>

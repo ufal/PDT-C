@@ -70,7 +70,7 @@
 <LM>w#w-wsj2319-001-p1s0W6</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2319-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -97,7 +97,7 @@
 <LM>w#w-wsj2319-001-p1s0W9</LM>
 </w.rf>
 <form>přijala</form>
-<tag lemma="přijmout" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="přijmout" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2319-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -241,7 +241,7 @@
 <LM>w#w-wsj2319-001-p1s0W22</LM>
 </w.rf>
 <form>rozdělena</form>
-<tag lemma="rozdělit" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="rozdělit" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj2319-001-p1s0W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -367,7 +367,7 @@
 <LM>w#w-wsj2319-001-p1s1W2</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2319-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -405,7 +405,7 @@
 <LM>w#w-wsj2319-001-p1s1W6</LM>
 </w.rf>
 <form>nebyl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-NAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-wsj2319-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -413,7 +413,7 @@
 <LM>w#w-wsj2319-001-p1s1W7</LM>
 </w.rf>
 <form>přijat</form>
-<tag lemma="přijmout" src="auto" recommended="1">VsYS---XX-APP--</tag>
+<tag lemma="přijmout" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj2319-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -769,7 +769,7 @@
 <LM>w#w-wsj2319-001-p1s2W16</LM>
 </w.rf>
 <form>získala</form>
-<tag lemma="získat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="získat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2319-001-p1s2W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -864,7 +864,7 @@
 <LM>w#w-wsj2319-001-p1s2W25</LM>
 </w.rf>
 <form>vyhlásila</form>
-<tag lemma="vyhlásit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="vyhlásit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2319-001-p1s2W26-Ta">
 <src.rf>tagger-a</src.rf>

@@ -45,7 +45,7 @@
 <LM>w#w-mf930708-037-p2s1w1</LM>
 </w.rf>
 <form>Objevil</form>
-<tag lemma="objevit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="objevit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-037-p2s1w2">
 <src.rf>manual</src.rf>
@@ -117,7 +117,7 @@
 <LM>w#w-mf930708-037-p2s1w10</LM>
 </w.rf>
 <form>řečeno</form>
-<tag lemma="říci" src="auto" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="říci" src="auto" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf930708-037-p2s1w11">
 <src.rf>manual</src.rf>
@@ -1311,7 +1311,7 @@
 <LM>w#w-mf930708-037-p5s1w7</LM>
 </w.rf>
 <form>dalo</form>
-<tag lemma="dát" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="dát" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-037-p5s1w8">
 <src.rf>manual</src.rf>
@@ -1643,7 +1643,7 @@
 <LM>w#w-mf930708-037-p6s1w5</LM>
 </w.rf>
 <form>nepředložil</form>
-<tag lemma="předložit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="předložit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-mf930708-037-p6s1w6">
 <src.rf>manual</src.rf>
@@ -1779,7 +1779,7 @@
 <LM>w#w-mf930708-037-p6s1w22</LM>
 </w.rf>
 <form>považován</form>
-<tag lemma="považovat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="považovat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-mf930708-037-p6s1w23">
 <src.rf>manual</src.rf>
@@ -1895,7 +1895,7 @@
 <LM>w#w-mf930708-037-p6s3w2</LM>
 </w.rf>
 <form>podpořeny</form>
-<tag lemma="podpořit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="podpořit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-mf930708-037-p6s3w3">
 <src.rf>manual</src.rf>
@@ -1959,7 +1959,7 @@
 <LM>w#w-mf930708-037-p6s3w10</LM>
 </w.rf>
 <form>ukázal</form>
-<tag lemma="ukázat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="ukázat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-037-p6s3w11">
 <src.rf>manual</src.rf>
@@ -2001,7 +2001,7 @@
 <LM>w#w-mf930708-037-p6s4w1</LM>
 </w.rf>
 <form>Nebyl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-mf930708-037-p6s4w2">
 <src.rf>manual</src.rf>
@@ -2052,7 +2052,7 @@
 <LM>w#w-mf930708-037-p6s4w7</LM>
 </w.rf>
 <form>splnil</form>
-<tag lemma="splnit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="splnit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-037-p6s4w8">
 <src.rf>manual</src.rf>
@@ -2150,7 +2150,7 @@
 <LM>w#w-mf930708-037-p7s1w10</LM>
 </w.rf>
 <form>zpomalilo</form>
-<tag lemma="zpomalit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zpomalit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-037-p7s1w11">
 <src.rf>manual</src.rf>

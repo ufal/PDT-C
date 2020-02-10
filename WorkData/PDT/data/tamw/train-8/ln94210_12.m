@@ -133,7 +133,7 @@
 <LM>w#w-ln94210-12-p2s1w5</LM>
 </w.rf>
 <form>registrováno</form>
-<tag lemma="registrovat_:T_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="registrovat" src="orig" selected="1">VsNS----X-APB--</tag>
 </m>
 <m id="m-ln94210-12-p2s1w6">
 <src.rf>manual</src.rf>
@@ -952,7 +952,7 @@
 <LM>w#w-ln94210-12-p2s5w9</LM>
 </w.rf>
 <form>poskytla</form>
-<tag lemma="poskytnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="poskytnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln94210-12-p2s5w10">
 <src.rf>manual</src.rf>
@@ -997,7 +997,7 @@
 <LM>w#w-ln94210-12-p2s6w4</LM>
 </w.rf>
 <form>ověřily</form>
-<tag lemma="ověřit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="ověřit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94210-12-p2s6w5">
 <src.rf>manual</src.rf>
@@ -1013,7 +1013,7 @@
 <LM>w#w-ln94210-12-p2s6w6</LM>
 </w.rf>
 <form>provedly</form>
-<tag lemma="provést" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="provést" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94210-12-p2s6w7">
 <src.rf>manual</src.rf>

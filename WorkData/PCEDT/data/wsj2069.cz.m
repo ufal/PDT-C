@@ -119,7 +119,7 @@
 <LM>w#w-wsj2069-001-p1s0W8</LM>
 </w.rf>
 <form>zavedla</form>
-<tag lemma="zavést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="zavést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2069-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2333,8 +2333,8 @@
 </w.rf>
 <form>stálo</form>
 <tag>
-<AM lemma="stát-3_^(stojím_stojíš)" src="auto" recommended="1">VpNS---XR-AAI--</AM>
-<AM lemma="stát-5_^(sníh)" src="auto">VpNS---XR-AAI--</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="auto" recommended="1">VpNS----R-AAI--</AM>
+<AM lemma="stát-5_^(sníh)" src="auto">VpNS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-wsj2069-001-p1s6W21-Ta">
@@ -2555,7 +2555,7 @@
 <LM>w#w-wsj2069-001-p1s7W10</LM>
 </w.rf>
 <form>poskytovaly</form>
-<tag lemma="poskytovat" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag lemma="poskytovat" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj2069-001-p1s7W11-Ta">
 <src.rf>tagger-a</src.rf>

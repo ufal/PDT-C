@@ -329,8 +329,8 @@
 </w.rf>
 <form>zemřela</form>
 <tag>
-<AM lemma="zemřít" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="zemřít_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="zemřít" src="orig">VpQW----R-AAP--</AM>
+<AM lemma="zemřít" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92253-051-p3s3w5">
@@ -419,7 +419,7 @@
 <LM>w#w-lnd92253-051-p3s3w15</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92253-051-p3s3w16">
 <src.rf>manual</src.rf>
@@ -859,7 +859,7 @@
 <LM>w#w-lnd92253-051-p3s6w6</LM>
 </w.rf>
 <form>mělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92253-051-p3s6w7">
 <src.rf>manual</src.rf>

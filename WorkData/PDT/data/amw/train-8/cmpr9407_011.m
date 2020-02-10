@@ -269,7 +269,7 @@
 <LM>w#w-cmpr9407-011-p2s2w6</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-cmpr9407-011-p2s2w7">
 <src.rf>manual</src.rf>
@@ -277,7 +277,7 @@
 <LM>w#w-cmpr9407-011-p2s2w7</LM>
 </w.rf>
 <form>zvýšena</form>
-<tag lemma="zvýšit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zvýšit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-cmpr9407-011-p2s2w8">
 <src.rf>manual</src.rf>
@@ -318,7 +318,7 @@
 <LM>w#w-cmpr9407-011-p2s2w12</LM>
 </w.rf>
 <form>upozornilo</form>
-<tag lemma="upozornit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="upozornit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9407-011-p2s2w13">
 <src.rf>manual</src.rf>
@@ -384,7 +384,7 @@
 <LM>w#w-cmpr9407-011-p2s3w1</LM>
 </w.rf>
 <form>Mýlili</form>
-<tag lemma="mýlit_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="mýlit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-cmpr9407-011-p2s3w2">
 <src.rf>manual</src.rf>
@@ -442,7 +442,7 @@
 <LM>w#w-cmpr9407-011-p2s4w3</LM>
 </w.rf>
 <form>uvažovali</form>
-<tag lemma="uvažovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="uvažovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-cmpr9407-011-p2s4w4">
 <src.rf>manual</src.rf>

@@ -90,7 +90,7 @@
 <LM>w#w-cmpr9416-036-p4s1w4</LM>
 </w.rf>
 <form>rozhodla</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-cmpr9416-036-p4s1w5">
 <src.rf>manual</src.rf>
@@ -140,7 +140,7 @@
 <LM>w#w-cmpr9416-036-p4s2w1</LM>
 </w.rf>
 <form>Vyčlenili</form>
-<tag lemma="vyčlenit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyčlenit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-cmpr9416-036-p4s2w2">
 <src.rf>manual</src.rf>
@@ -199,7 +199,7 @@
 <LM>w#w-cmpr9416-036-p4s2w8</LM>
 </w.rf>
 <form>naplánovali</form>
-<tag lemma="naplánovat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="naplánovat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-cmpr9416-036-p4s2w9">
 <src.rf>manual</src.rf>
@@ -348,7 +348,7 @@
 <LM>w#w-cmpr9416-036-p4s4w1</LM>
 </w.rf>
 <form>Nezapomněli</form>
-<tag lemma="zapomenout" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="zapomenout" src="orig" selected="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m-cmpr9416-036-p4s4w2">
 <src.rf>manual</src.rf>
@@ -963,7 +963,7 @@
 <LM>w#w-cmpr9416-036-p7s1w7</LM>
 </w.rf>
 <form>neměla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-cmpr9416-036-p7s1w8">
 <src.rf>manual</src.rf>
@@ -1763,7 +1763,7 @@
 <LM>w#w-cmpr9416-036-p7s10w1</LM>
 </w.rf>
 <form>Měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9416-036-p7s10w2">
 <src.rf>manual</src.rf>
@@ -1847,7 +1847,7 @@
 <form>stálo</form>
 <tag>
 <AM lemma="stát-4_^(něco_stojí_peníze)" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VpNS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-036-p7s11w4">
@@ -2341,7 +2341,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>vyřešili</form>
-<tag lemma="vyřešit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyřešit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-cmpr9416-036-p8s4w12">
 <src.rf>manual</src.rf>

@@ -55,7 +55,7 @@
 <LM>w#w-wsj0510-001-p1s0W5</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0510-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -127,7 +127,7 @@
 <LM>w#w-wsj0510-001-p1s0W11</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-wsj0510-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -135,7 +135,7 @@
 <LM>w#w-wsj0510-001-p1s0W12</LM>
 </w.rf>
 <form>prodlouženo</form>
-<tag lemma="prodloužit" src="auto" recommended="1">VsNS---XX-APP--</tag>
+<tag lemma="prodloužit" src="auto" recommended="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-wsj0510-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -211,7 +211,7 @@
 <LM>w#w-wsj0510-001-p1s0W20</LM>
 </w.rf>
 <form>získala</form>
-<tag lemma="získat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="získat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0510-001-p1s0W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -402,7 +402,7 @@
 <LM>w#w-wsj0510-001-p1s1W2</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="mít" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0510-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -583,7 +583,7 @@
 <LM>w#w-wsj0510-001-p1s2W3</LM>
 </w.rf>
 <form>zadlužila</form>
-<tag lemma="zadlužit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="zadlužit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0510-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -618,7 +618,7 @@
 <LM>w#w-wsj0510-001-p1s2W7</LM>
 </w.rf>
 <form>zaplatila</form>
-<tag lemma="zaplatit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="zaplatit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0510-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -673,7 +673,7 @@
 <LM>w#w-wsj0510-001-p1s2W13</LM>
 </w.rf>
 <form>získala</form>
-<tag lemma="získat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="získat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0510-001-p1s2W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -907,7 +907,7 @@
 <LM>w#w-wsj0510-001-p1s3W18</LM>
 </w.rf>
 <form>zhroutila</form>
-<tag lemma="zhroutit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="zhroutit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0510-001-p1s3W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1081,7 +1081,7 @@
 <LM>w#w-wsj0510-001-p1s3W30</LM>
 </w.rf>
 <form>nedokázala</form>
-<tag lemma="dokázat" src="auto" recommended="1">VpQW---XR-NAP--</tag>
+<tag lemma="dokázat" src="auto" recommended="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-wsj0510-001-p1s3W31-Ta">
 <src.rf>tagger-a</src.rf>

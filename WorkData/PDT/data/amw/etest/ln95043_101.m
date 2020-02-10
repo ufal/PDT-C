@@ -234,7 +234,7 @@
 <LM>w#w-ln95043-101-p1s3w6</LM>
 </w.rf>
 <form>nemělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-ln95043-101-p1s3w7">
 <src.rf>manual</src.rf>

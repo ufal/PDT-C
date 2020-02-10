@@ -693,7 +693,7 @@
 <LM>w#w-ln94205-105-p2s3w29</LM>
 </w.rf>
 <form>uveden</form>
-<tag lemma="uvést" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="uvést" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94205-105-p2s3w30">
 <src.rf>manual</src.rf>
@@ -863,7 +863,7 @@
 <LM>w#w-ln94205-105-p2s4w17</LM>
 </w.rf>
 <form>prezentována</form>
-<tag lemma="prezentovat_:T_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="prezentovat" src="orig" selected="1">VsQW----X-APB--</tag>
 </m>
 <m id="m-ln94205-105-p2s4w18">
 <src.rf>manual</src.rf>

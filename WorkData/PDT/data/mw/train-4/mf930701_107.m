@@ -262,7 +262,7 @@
 <LM>w#w-mf930701-107-p2s3w1</LM>
 </w.rf>
 <form>porazil</form>
-<tag lemma="porazit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="porazit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-107-p2s3w2">
 <src.rf>manual</src.rf>
@@ -486,7 +486,7 @@
 <LM>w#w-mf930701-107-p2s4w8</LM>
 </w.rf>
 <form>umístili</form>
-<tag lemma="umístit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="umístit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930701-107-p2s4w9">
 <src.rf>manual</src.rf>
@@ -687,7 +687,7 @@
 <LM>w#w-mf930701-107-p2s5w12</LM>
 </w.rf>
 <form>přijela</form>
-<tag lemma="přijet" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="přijet" src="auto" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930701-107-p2s5w13">
 <src.rf>manual</src.rf>

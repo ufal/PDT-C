@@ -179,7 +179,7 @@
 <LM>w#w-mf930702-026-p2s1w15</LM>
 </w.rf>
 <form>získal</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930702-026-p2s1w16">
 <src.rf>manual</src.rf>
@@ -357,7 +357,7 @@
 <LM>w#w-mf930702-026-p2s3w4</LM>
 </w.rf>
 <form>vyrobena</form>
-<tag lemma="vyrobit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="vyrobit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf930702-026-p2s3w5">
 <src.rf>manual</src.rf>
@@ -564,7 +564,7 @@
 <LM>w#w-mf930702-026-p2s5w9</LM>
 </w.rf>
 <form>realizována</form>
-<tag lemma="realizovat_:T_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="realizovat" src="orig" selected="1">VsQW----X-APB--</tag>
 </m>
 <m id="m-mf930702-026-p2s5w10">
 <src.rf>manual</src.rf>

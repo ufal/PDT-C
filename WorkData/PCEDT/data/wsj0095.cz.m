@@ -2418,7 +2418,7 @@
 <LM>w#w-wsj0095-001-p1s7W6</LM>
 </w.rf>
 <form>vymezováni</form>
-<tag lemma="vymezovat" src="auto" recommended="1">VsMP---XX-API--</tag>
+<tag lemma="vymezovat" src="auto" recommended="1">VsMP----X-API--</tag>
 </m>
 <m id="m-wsj0095-001-p1s7W7-Ta">
 <src.rf>tagger-a</src.rf>

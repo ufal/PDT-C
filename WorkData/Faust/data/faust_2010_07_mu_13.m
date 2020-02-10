@@ -195,7 +195,7 @@
 </w.rf>
 <form>vedly</form>
 <tag>
-<AM lemma="vést" recommended="1">VpTP---XR-AA---</AM>
+<AM lemma="vést" recommended="1">VpTP----R-AAI--</AM>
 <AM lemma="vést" src="manual" selected="1">VpTP----R-AAI--</AM>
 </tag>
 </m>
@@ -471,7 +471,7 @@
 </w.rf>
 <form>hodnoceny</form>
 <tag>
-<AM lemma="hodnotit_:T" recommended="1">VsTP---XX-AP---</AM>
+<AM lemma="hodnotit" recommended="1">VsTP----X-API--</AM>
 <AM lemma="hodnotit" src="manual" selected="1">VsTP----X-API--</AM>
 </tag>
 </m>
@@ -590,7 +590,7 @@
 </w.rf>
 <form>organizována</form>
 <tag>
-<AM lemma="organizovat_:T_:W" recommended="1">VsQW---XX-AP---</AM>
+<AM lemma="organizovat" recommended="1">VsQW----X-APB--</AM>
 <AM lemma="organizovat" src="manual" selected="1">VsQW----X-APB--</AM>
 </tag>
 </m>
@@ -911,8 +911,8 @@
 <AM lemma="číslo" recommended="1">NNNS1-----A----</AM>
 <AM lemma="číslo">NNNS4-----A----</AM>
 <AM lemma="číslo">NNNS5-----A----</AM>
-<AM lemma="čísnout-1_:W_,h_^(praštit)">VpNS---XR-AA--1</AM>
-<AM lemma="čísnout-2_:W_,a_^(přejet_hřebenem)">VpNS---XR-AA--1</AM>
+<AM lemma="čísnout-1_,h_^(praštit)">VpNS----R-AAP-1</AM>
+<AM lemma="čísnout-2_,a_^(přejet_hřebenem)">VpNS----R-AAP-1</AM>
 </tag>
 </m>
 </s>
@@ -923,7 +923,7 @@
 </w.rf>
 <form>Vrátil</form>
 <tag>
-<AM lemma="vrátit_:W" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="vrátit" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="Vrátil_;S">NNMS1-----A----</AM>
 <AM lemma="vrátit" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
@@ -2241,7 +2241,7 @@
 <form>pil</form>
 <tag>
 <AM lemma="pila" recommended="1">NNFP2-----A----</AM>
-<AM lemma="pít">VpYS---XR-AA---</AM>
+<AM lemma="pít">VpYS----R-AAI--</AM>
 <AM lemma="pílit">Vi-S---2--A-I--</AM>
 <AM lemma="pílit">Vi-S---3--A-I-4</AM>
 </tag>
@@ -3659,7 +3659,7 @@
 </w.rf>
 <form>vysílány</form>
 <tag>
-<AM lemma="vysílat_:T" recommended="1">VsTP---XX-AP---</AM>
+<AM lemma="vysílat" recommended="1">VsTP----X-API--</AM>
 <AM lemma="vysílat" src="manual" selected="1">VsTP----X-API--</AM>
 </tag>
 </m>
@@ -4252,7 +4252,7 @@
 </w.rf>
 <form>polichocena</form>
 <tag>
-<AM lemma="polichotit_:W" recommended="1">VsQW---XX-AP---</AM>
+<AM lemma="polichotit" recommended="1">VsQW----X-APP--</AM>
 <AM lemma="polichotit" src="manual" selected="1">VsQW----X-APP--</AM>
 </tag>
 </m>

@@ -526,7 +526,7 @@
 <LM>w#w-ln95046-056-p2s3w4</LM>
 </w.rf>
 <form>rozhodl</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln95046-056-p2s3w5">
 <src.rf>manual</src.rf>
@@ -814,7 +814,7 @@
 <LM>w#w-ln95046-056-p3s1w18</LM>
 </w.rf>
 <form>Narozen</form>
-<tag lemma="narodit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="narodit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95046-056-p3s1w19">
 <src.rf>manual</src.rf>
@@ -1132,7 +1132,7 @@
 <LM>w#w-ln95046-056-p3s2w6</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95046-056-p3s2w7">
 <src.rf>manual</src.rf>

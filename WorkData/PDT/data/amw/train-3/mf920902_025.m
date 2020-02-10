@@ -561,7 +561,7 @@
 <LM>w#w-mf920902-025-p1s4w19</LM>
 </w.rf>
 <form>ovlivněny</form>
-<tag lemma="ovlivnit" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="ovlivnit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-mf920902-025-p1s4w20">
 <src.rf>manual</src.rf>

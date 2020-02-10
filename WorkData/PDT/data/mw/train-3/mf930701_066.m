@@ -86,7 +86,7 @@
 <LM>w#w-mf930701-066-p1s1w7</LM>
 </w.rf>
 <form>patřilo</form>
-<tag lemma="patřit_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="patřit" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930701-066-p1s1w8">
 <src.rf>manual</src.rf>

@@ -99,7 +99,7 @@
 <LM>w#w-mf920901-123-p1s1w11</LM>
 </w.rf>
 <form>osvobodil</form>
-<tag lemma="osvobodit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="osvobodit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920901-123-p1s1w12">
 <src.rf>manual</src.rf>
@@ -123,7 +123,7 @@
 <LM>w#w-mf920901-123-p1s1w14</LM>
 </w.rf>
 <form>učinil</form>
-<tag lemma="učinit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="učinit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920901-123-p1s1w15">
 <src.rf>manual</src.rf>

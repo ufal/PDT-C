@@ -155,7 +155,7 @@
 <LM>w#w-lnd94105-121-p1s1w18</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94105-121-p1s1w19">
 <src.rf>manual</src.rf>
@@ -163,7 +163,7 @@
 <LM>w#w-lnd94105-121-p1s1w19</LM>
 </w.rf>
 <form>rozbit</form>
-<tag lemma="rozbít" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="rozbít" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd94105-121-p1s1w20">
 <src.rf>manual</src.rf>
@@ -570,7 +570,7 @@
 <LM>w#w-lnd94105-121-p1s3w5</LM>
 </w.rf>
 <form>překročila</form>
-<tag lemma="překročit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="překročit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94105-121-p1s3w6">
 <src.rf>manual</src.rf>

@@ -38,7 +38,7 @@
 <LM>w#w-wsj0716-001-p1s0W3</LM>
 </w.rf>
 <form>zadala</form>
-<tag lemma="zadat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="zadat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0716-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>

@@ -62,7 +62,7 @@
 <LM>w#w-ln94206-108-p1s1Aw6</LM>
 </w.rf>
 <form>vylosoval</form>
-<tag lemma="vylosovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vylosovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94206-108-p1s1Aw7">
 <src.rf>manual</src.rf>

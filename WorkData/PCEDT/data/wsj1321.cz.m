@@ -71,7 +71,7 @@
 <LM>w#w-wsj1321-001-p1s0W6</LM>
 </w.rf>
 <form>vykoupila</form>
-<tag lemma="vykoupit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="vykoupit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1321-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -317,7 +317,7 @@
 <LM>w#w-wsj1321-001-p1s1W2</LM>
 </w.rf>
 <form>dosáhla</form>
-<tag lemma="dosáhnout" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="dosáhnout" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1321-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -707,7 +707,7 @@
 <LM>w#w-wsj1321-001-p1s3W2</LM>
 </w.rf>
 <form>provedla</form>
-<tag lemma="provést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="provést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1321-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1296,7 +1296,7 @@
 <tag>
 <AM lemma="tisk" src="auto">NNIS1-----A----</AM>
 <AM lemma="tisk" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="tisknout" src="auto">VpYS---XR-AAI-6</AM>
+<AM lemma="tisknout" src="auto">VpYS----R-AAI-6</AM>
 </tag>
 </m>
 <m id="m-wsj1321-001-p1s4W34-Ta">

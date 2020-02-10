@@ -154,7 +154,7 @@
 <LM>w#w-mf930709-072-p2s1Bw8</LM>
 </w.rf>
 <form>jmenoval</form>
-<tag lemma="jmenovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="jmenovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-mf930709-072-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -228,7 +228,7 @@
 <LM>w#w-mf930709-072-p2s2w4</LM>
 </w.rf>
 <form>stanul</form>
-<tag lemma="stanout_^(např._na_vrcholu)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="stanout_^(např._na_vrcholu)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-072-p2s2w5">
 <src.rf>manual</src.rf>
@@ -456,7 +456,7 @@
 <LM>w#w-mf930709-072-p2s3w3</LM>
 </w.rf>
 <form>uvedli</form>
-<tag lemma="uvést" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930709-072-p2s3w4">
 <src.rf>manual</src.rf>
@@ -594,7 +594,7 @@
 <LM>w#w-mf930709-072-p2s4w3</LM>
 </w.rf>
 <form>dodali</form>
-<tag lemma="dodat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="dodat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930709-072-p2s4w4">
 <src.rf>manual</src.rf>
@@ -626,7 +626,7 @@
 <LM>w#w-mf930709-072-p2s4w7</LM>
 </w.rf>
 <form>zaručena</form>
-<tag lemma="zaručit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zaručit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf930709-072-p2s4w8">
 <src.rf>manual</src.rf>

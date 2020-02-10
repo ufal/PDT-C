@@ -133,7 +133,7 @@
 <LM>w#w-ln94209-98-p2s3w8</LM>
 </w.rf>
 <form>skórovali</form>
-<tag lemma="skórovat_:T_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="skórovat" src="orig" selected="1">VpMP----R-AAB--</tag>
 </m>
 <m id="m-ln94209-98-p2s3w9">
 <src.rf>manual</src.rf>

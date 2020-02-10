@@ -53,7 +53,7 @@
 <LM>w#w-vesm9212-029-p2s2w1</LM>
 </w.rf>
 <form>Projevili</form>
-<tag lemma="projevit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="projevit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-vesm9212-029-p2s2w2">
 <src.rf>manual</src.rf>
@@ -2168,7 +2168,7 @@
 <LM>w#w-vesm9212-029-p7s2w18</LM>
 </w.rf>
 <form>čteno</form>
-<tag lemma="číst" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="číst" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-vesm9212-029-p7s2w19">
 <src.rf>manual</src.rf>
@@ -3003,7 +3003,7 @@
 <LM>w#w-vesm9212-029-p13s2w5</LM>
 </w.rf>
 <form>vyzkoušeli</form>
-<tag lemma="vyzkoušet_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyzkoušet" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-vesm9212-029-p13s2w6">
 <src.rf>manual</src.rf>
@@ -3168,7 +3168,7 @@
 <LM>w#w-vesm9212-029-p13s3w7</LM>
 </w.rf>
 <form>neměl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-vesm9212-029-p13s3w8">
 <src.rf>manual</src.rf>
@@ -3912,8 +3912,8 @@
 </w.rf>
 <form>dbali</form>
 <tag>
-<AM lemma="dbát" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="dbát_:T" src="manual" selected="1">VpMP---XR-AA---</AM>
+<AM lemma="dbát" src="orig">VpMP----R-AAI--</AM>
+<AM lemma="dbát" src="manual" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-vesm9212-029-p16s1w14">

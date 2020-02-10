@@ -127,7 +127,7 @@
 <LM>w#w-mf920923-019-p2s1Bw5</LM>
 </w.rf>
 <form>pracoval</form>
-<tag lemma="pracovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="pracovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920923-019-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -175,7 +175,7 @@
 <LM>w#w-mf920923-019-p2s1Bw11</LM>
 </w.rf>
 <form>složil</form>
-<tag lemma="složit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="složit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-019-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -512,7 +512,7 @@
 <LM>w#w-mf920923-019-p3s1Bw9</LM>
 </w.rf>
 <form>upravili</form>
-<tag lemma="upravit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="upravit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920923-019-p3s1Bw10">
 <src.rf>manual</src.rf>
@@ -914,7 +914,7 @@
 <form>vydal</form>
 <tag>
 <AM lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="vydat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="vydat" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920923-019-p4s1Bw7">
@@ -1011,7 +1011,7 @@
 <LM>w#w-mf920923-019-p4s2w9</LM>
 </w.rf>
 <form>postaveny</form>
-<tag lemma="postavit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="postavit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-mf920923-019-p4s2w10">
 <src.rf>manual</src.rf>
@@ -1084,7 +1084,7 @@
 <LM>w#w-mf920923-019-p4s2w18</LM>
 </w.rf>
 <form>ovlivněn</form>
-<tag lemma="ovlivnit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="ovlivnit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf920923-019-p4s2w19">
 <src.rf>manual</src.rf>

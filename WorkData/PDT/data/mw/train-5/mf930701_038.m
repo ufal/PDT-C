@@ -691,7 +691,7 @@
 <form>raf</form>
 <tag>
 <AM lemma="raf-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
-<AM lemma="rafnout_:W" src="auto" recommended="1">VpYS---XR-AA--6</AM>
+<AM lemma="rafnout" src="auto" recommended="1">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-mf930701-038-p2s1w3">

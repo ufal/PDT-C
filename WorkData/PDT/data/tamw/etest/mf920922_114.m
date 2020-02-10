@@ -450,7 +450,7 @@
 <LM>w#w-mf920922-114-p2s4w2</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-114-p2s4w3">
 <src.rf>manual</src.rf>
@@ -672,7 +672,7 @@
 <LM>w#w-mf920922-114-p2s4w28</LM>
 </w.rf>
 <form>nahrazeny</form>
-<tag lemma="nahradit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="nahradit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-mf920922-114-p2s4w29">
 <src.rf>manual</src.rf>
@@ -781,7 +781,7 @@
 <LM>w#w-mf920922-114-p2s5w9</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-114-p2s5w10">
 <src.rf>manual</src.rf>
@@ -1066,7 +1066,7 @@
 <LM>w#w-mf920922-114-p2s6w17</LM>
 </w.rf>
 <form>ohrožena</form>
-<tag lemma="ohrozit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="ohrozit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf920922-114-p2s6w18">
 <src.rf>manual</src.rf>

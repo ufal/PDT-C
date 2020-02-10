@@ -569,7 +569,7 @@
 <LM>w#w-mf930713-092-p2s4w15</LM>
 </w.rf>
 <form>přerušena</form>
-<tag lemma="přerušit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="přerušit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf930713-092-p2s4w16">
 <src.rf>manual</src.rf>
@@ -627,7 +627,7 @@
 <LM>w#w-mf930713-092-p2s5w2</LM>
 </w.rf>
 <form>Došlo</form>
-<tag lemma="dojít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="dojít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-092-p2s5w3">
 <src.rf>manual</src.rf>
@@ -908,7 +908,7 @@
 <LM>w#w-mf930713-092-p2s8w6</LM>
 </w.rf>
 <form>mělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930713-092-p2s8w7">
 <src.rf>manual</src.rf>
@@ -1036,7 +1036,7 @@
 <LM>w#w-mf930713-092-p2s8w22</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-092-p2s8w23">
 <src.rf>manual</src.rf>

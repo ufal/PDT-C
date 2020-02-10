@@ -86,7 +86,7 @@
 <LM>w#w-wsj1593-001-p1s0W6</LM>
 </w.rf>
 <form>oznámilo</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj1593-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -175,7 +175,7 @@
 <LM>w#w-wsj1593-001-p1s0W13</LM>
 </w.rf>
 <form>udržely</form>
-<tag lemma="udržet" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="udržet" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1593-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -536,7 +536,7 @@
 <LM>w#w-wsj1593-001-p1s1W4</LM>
 </w.rf>
 <form>zahájeny</form>
-<tag lemma="zahájit" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="zahájit" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj1593-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2520,7 +2520,7 @@
 <LM>w#w-wsj1593-001-p1s6W25</LM>
 </w.rf>
 <form>přišli</form>
-<tag lemma="přijít" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="přijít" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj1593-001-p1s6W26-Ta">
 <src.rf>tagger-a</src.rf>

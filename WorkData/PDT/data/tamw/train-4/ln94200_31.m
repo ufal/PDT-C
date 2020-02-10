@@ -1268,7 +1268,7 @@
 <LM>w#w-ln94200-31-p4s2w5</LM>
 </w.rf>
 <form>sponzorováno</form>
-<tag lemma="sponzorovat_:T" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="sponzorovat" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-ln94200-31-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1423,8 +1423,8 @@
 </w.rf>
 <form>určeno</form>
 <tag>
-<AM lemma="určit" src="orig">VsNS---XX-AP---</AM>
-<AM lemma="určit_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+<AM lemma="určit" src="orig">VsNS----X-APP--</AM>
+<AM lemma="určit" src="manual" selected="1">VsNS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-ln94200-31-p5s1w4">

@@ -1053,7 +1053,7 @@
 <LM>w#w-lnd92259-018-p4s1w4</LM>
 </w.rf>
 <form>zřídila</form>
-<tag lemma="zřídit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zřídit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-018-p4s1w5">
 <src.rf>manual</src.rf>

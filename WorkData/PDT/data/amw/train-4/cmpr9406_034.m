@@ -886,7 +886,7 @@
 <LM>w#w-cmpr9406-034-p5s1w4</LM>
 </w.rf>
 <form>doplněny</form>
-<tag lemma="doplnit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="doplnit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-cmpr9406-034-p5s1w5">
 <src.rf>manual</src.rf>
@@ -1018,7 +1018,7 @@
 <LM>w#w-cmpr9406-034-p5s3w3</LM>
 </w.rf>
 <form>určena</form>
-<tag lemma="určit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="určit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-cmpr9406-034-p5s3w4">
 <src.rf>manual</src.rf>

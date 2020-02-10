@@ -220,7 +220,7 @@
 <LM>w#w-ln94210-120-p3s1w6</LM>
 </w.rf>
 <form>uvažovalo</form>
-<tag lemma="uvažovat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="uvažovat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94210-120-p3s1w7">
 <src.rf>manual</src.rf>
@@ -433,7 +433,7 @@
 <LM>w#w-ln94210-120-p3s2w13</LM>
 </w.rf>
 <form>potvrdila</form>
-<tag lemma="potvrdit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="potvrdit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94210-120-p3s2w14">
 <src.rf>manual</src.rf>
@@ -473,7 +473,7 @@
 <LM>w#w-ln94210-120-p3s2w18</LM>
 </w.rf>
 <form>objevila</form>
-<tag lemma="objevit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="objevit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94210-120-p3s2w19">
 <src.rf>manual</src.rf>

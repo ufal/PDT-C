@@ -167,7 +167,7 @@
 <LM>w#w-cmpr9413-013-p6s1w11</LM>
 </w.rf>
 <form>postarali</form>
-<tag lemma="postarat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="postarat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-cmpr9413-013-p6s1w12">
 <src.rf>manual</src.rf>
@@ -249,7 +249,7 @@
 <LM>w#w-cmpr9413-013-p6s2w7</LM>
 </w.rf>
 <form>zapůjčila</form>
-<tag lemma="zapůjčit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zapůjčit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-cmpr9413-013-p6s2w8">
 <src.rf>manual</src.rf>
@@ -273,7 +273,7 @@
 <LM>w#w-cmpr9413-013-p6s2w10</LM>
 </w.rf>
 <form>vybavila</form>
-<tag lemma="vybavit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vybavit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-cmpr9413-013-p6s2w11">
 <src.rf>manual</src.rf>
@@ -795,7 +795,7 @@
 <LM>w#w-cmpr9413-013-p12s1w5</LM>
 </w.rf>
 <form>patřil</form>
-<tag lemma="patřit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="patřit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9413-013-p12s1w6">
 <src.rf>manual</src.rf>
@@ -1149,7 +1149,7 @@
 <LM>w#w-cmpr9413-013-p13s2w15</LM>
 </w.rf>
 <form>rozeslána</form>
-<tag lemma="rozeslat" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="rozeslat" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-cmpr9413-013-p13s2w16">
 <src.rf>manual</src.rf>
@@ -1554,7 +1554,7 @@
 <LM>w#w-cmpr9413-013-p14s2w10</LM>
 </w.rf>
 <form>zajistila</form>
-<tag lemma="zajistit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zajistit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-cmpr9413-013-p14s2w11">
 <src.rf>manual</src.rf>
@@ -1767,7 +1767,7 @@
 <LM>w#w-cmpr9413-013-p14s3w4</LM>
 </w.rf>
 <form>navázaly</form>
-<tag lemma="navázat_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="navázat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-cmpr9413-013-p14s3w5">
 <src.rf>manual</src.rf>
@@ -3071,7 +3071,7 @@
 <LM>w#w-cmpr9413-013-p18s3w37</LM>
 </w.rf>
 <form>dovršili</form>
-<tag lemma="dovršit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="dovršit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-cmpr9413-013-p18s3w38">
 <src.rf>manual</src.rf>

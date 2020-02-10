@@ -175,7 +175,7 @@
 <LM>w#w-ln94208-53-p2s1Cw7</LM>
 </w.rf>
 <form>rozhodnuta</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94208-53-p2s1Cw8">
 <src.rf>manual</src.rf>
@@ -675,7 +675,7 @@
 <LM>w#w-ln94208-53-p2s4w11</LM>
 </w.rf>
 <form>nevyloučil</form>
-<tag lemma="vyloučit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="vyloučit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-ln94208-53-p2s4w12">
 <src.rf>manual</src.rf>

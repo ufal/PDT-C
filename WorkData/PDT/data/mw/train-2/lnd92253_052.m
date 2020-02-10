@@ -67,7 +67,7 @@
 <LM>w#w-lnd92253-052-p1s1w6</LM>
 </w.rf>
 <form>konala</form>
-<tag lemma="konat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="konat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92253-052-p1s1w7">
 <src.rf>manual</src.rf>
@@ -158,8 +158,8 @@
 </w.rf>
 <form>přijelo</form>
 <tag>
-<AM lemma="přijet" src="auto">VpNS---XR-AA---</AM>
-<AM lemma="přijet_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="přijet" src="auto">VpNS----R-AAP--</AM>
+<AM lemma="přijet" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92253-052-p1s2w7">

@@ -248,7 +248,7 @@
 <LM>w#w-mf930708-095-p2s1w24</LM>
 </w.rf>
 <form>zřítila</form>
-<tag lemma="zřítit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zřítit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930708-095-p2s1w25">
 <src.rf>manual</src.rf>
@@ -280,7 +280,7 @@
 <LM>w#w-mf930708-095-p2s1w28</LM>
 </w.rf>
 <form>přistoupila</form>
-<tag lemma="přistoupit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="přistoupit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930708-095-p2s1w29">
 <src.rf>manual</src.rf>
@@ -358,7 +358,7 @@
 <LM>w#w-mf930708-095-p2s2w5</LM>
 </w.rf>
 <form>probíhaly</form>
-<tag lemma="probíhat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="probíhat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930708-095-p2s2w6">
 <src.rf>manual</src.rf>
@@ -423,8 +423,8 @@
 </w.rf>
 <form>neteklo</form>
 <tag>
-<AM lemma="téci" src="orig">VpNS---XR-NA---</AM>
-<AM lemma="téci_:T" src="manual" selected="1">VpNS---XR-NA---</AM>
+<AM lemma="téci" src="orig">VpNS----R-NAI--</AM>
+<AM lemma="téci" src="manual" selected="1">VpNS----R-NAI--</AM>
 </tag>
 </m>
 <m id="m-mf930708-095-p2s2w15">
@@ -466,8 +466,8 @@
 </w.rf>
 <form>nedošlo</form>
 <tag>
-<AM lemma="dojít" src="orig">VpNS---XR-NA---</AM>
-<AM lemma="dojít_:W" src="manual" selected="1">VpNS---XR-NA---</AM>
+<AM lemma="dojít" src="orig">VpNS----R-NAP--</AM>
+<AM lemma="dojít" src="manual" selected="1">VpNS----R-NAP--</AM>
 </tag>
 </m>
 <m id="m-mf930708-095-p2s2w21">
@@ -508,7 +508,7 @@
 <LM>w#w-mf930708-095-p2s2w25</LM>
 </w.rf>
 <form>informovala</form>
-<tag lemma="informovat_:T_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="informovat" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-mf930708-095-p2s2w26">
 <src.rf>manual</src.rf>
@@ -607,7 +607,7 @@
 <LM>w#w-mf930708-095-p2s4w2</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930708-095-p2s4w3">
 <src.rf>manual</src.rf>

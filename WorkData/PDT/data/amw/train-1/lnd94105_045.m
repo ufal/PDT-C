@@ -62,7 +62,7 @@
 <LM>w#w-lnd94105-045-p1s19w6</LM>
 </w.rf>
 <form>naznačil</form>
-<tag lemma="naznačit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="naznačit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94105-045-p1s19w7">
 <src.rf>manual</src.rf>
@@ -454,8 +454,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd94105-045-p1s21w5">
@@ -701,7 +701,7 @@
 <LM>w#w-lnd94105-045-p1s22w22</LM>
 </w.rf>
 <form>dodal</form>
-<tag lemma="dodat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dodat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94105-045-p1s22w23">
 <src.rf>manual</src.rf>
@@ -818,7 +818,7 @@
 <LM>w#w-lnd94105-045-p1s23w12</LM>
 </w.rf>
 <form>sklidil</form>
-<tag lemma="sklidit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sklidit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94105-045-p1s23w13">
 <src.rf>manual</src.rf>
@@ -901,7 +901,7 @@
 <LM>w#w-lnd94105-045-p1s23w22</LM>
 </w.rf>
 <form>nebylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-lnd94105-045-p1s23w23">
 <src.rf>manual</src.rf>
@@ -983,7 +983,7 @@
 <LM>w#w-lnd94105-045-p1s24w5</LM>
 </w.rf>
 <form>znamenalo</form>
-<tag lemma="znamenat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="znamenat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd94105-045-p1s24w6">
 <src.rf>manual</src.rf>
@@ -1061,7 +1061,7 @@
 <LM>w#w-lnd94105-045-p1s25w4</LM>
 </w.rf>
 <form>zavázal</form>
-<tag lemma="zavázat" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zavázat" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94105-045-p1s25w5">
 <src.rf>manual</src.rf>
@@ -1157,7 +1157,7 @@
 <LM>w#w-lnd94105-045-p1s25w16</LM>
 </w.rf>
 <form>svázal</form>
-<tag lemma="svázat" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="svázat" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94105-045-p1s25w17">
 <src.rf>manual</src.rf>

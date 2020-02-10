@@ -289,7 +289,7 @@
 <LM>w#w-ln95047-127-p2s2w10</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95047-127-p2s2w11">
 <src.rf>manual</src.rf>
@@ -1081,7 +1081,7 @@
 <LM>w#w-ln95047-127-p3s4w17</LM>
 </w.rf>
 <form>odevzdáno</form>
-<tag lemma="odevzdat_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="odevzdat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95047-127-p3s4w18">
 <src.rf>manual</src.rf>

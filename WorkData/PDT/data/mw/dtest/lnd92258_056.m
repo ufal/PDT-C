@@ -240,7 +240,7 @@
 <LM>w#w-lnd92258-056-p2s2w22</LM>
 </w.rf>
 <form>projednáván</form>
-<tag lemma="projednávat_:T_^(*4at)" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="projednávat_^(*4at)" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-lnd92258-056-p2s2w23">
 <src.rf>manual</src.rf>
@@ -309,7 +309,7 @@
 <LM>w#w-lnd92258-056-p2s3w2</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92258-056-p2s3w3">
 <src.rf>manual</src.rf>
@@ -337,7 +337,7 @@
 <LM>w#w-lnd92258-056-p2s3w5</LM>
 </w.rf>
 <form>doručen</form>
-<tag lemma="doručit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="doručit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd92258-056-p2s3w6">
 <src.rf>manual</src.rf>
@@ -409,7 +409,7 @@
 <LM>w#w-lnd92258-056-p2s3w14</LM>
 </w.rf>
 <form>nevyjádřily</form>
-<tag lemma="vyjádřit_:W" src="orig" selected="1">VpTP---XR-NA---</tag>
+<tag lemma="vyjádřit" src="orig" selected="1">VpTP----R-NAP--</tag>
 </m>
 <m id="m-lnd92258-056-p2s3w15">
 <src.rf>manual</src.rf>
@@ -449,7 +449,7 @@
 <LM>w#w-lnd92258-056-p2s3w19</LM>
 </w.rf>
 <form>neobdržely</form>
-<tag lemma="obdržet" src="orig" selected="1">VpTP---XR-NA---</tag>
+<tag lemma="obdržet" src="orig" selected="1">VpTP----R-NAP--</tag>
 </m>
 <m id="m-lnd92258-056-p2s3w20">
 <src.rf>manual</src.rf>

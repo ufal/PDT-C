@@ -230,7 +230,7 @@
 <LM>w#w-lnd92252-072-p1s2w17</LM>
 </w.rf>
 <form>zúčastnila</form>
-<tag lemma="zúčastnit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zúčastnit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-072-p1s2w18">
 <src.rf>manual</src.rf>

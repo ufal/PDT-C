@@ -35,7 +35,7 @@
 <LM>w#w-mf930713-142-p1s1w3</LM>
 </w.rf>
 <form>napadla</form>
-<tag lemma="napadnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="napadnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-mf930713-142-p1s1w4">
 <src.rf>manual</src.rf>
@@ -144,7 +144,7 @@
 <LM>w#w-mf930713-142-p2s1Bw10</LM>
 </w.rf>
 <form>ohroženo</form>
-<tag lemma="ohrozit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="ohrozit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf930713-142-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -200,7 +200,7 @@
 <LM>w#w-mf930713-142-p2s1Bw17</LM>
 </w.rf>
 <form>začala</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930713-142-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -234,7 +234,7 @@
 <LM>w#w-mf930713-142-p2s2w1</LM>
 </w.rf>
 <form>Prohlásila</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930713-142-p2s2w2">
 <src.rf>manual</src.rf>
@@ -1029,7 +1029,7 @@
 <LM>w#w-mf930713-142-p6s1w4</LM>
 </w.rf>
 <form>požádalo</form>
-<tag lemma="požádat_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="požádat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-142-p6s1w5">
 <src.rf>manual</src.rf>
@@ -1205,7 +1205,7 @@
 <LM>w#w-mf930713-142-p6s1w25</LM>
 </w.rf>
 <form>zabránilo</form>
-<tag lemma="zabránit_:W_^(někomu_v_něčem)" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zabránit_^(někomu_v_něčem)" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-142-p6s1w26">
 <src.rf>manual</src.rf>

@@ -127,7 +127,7 @@
 <LM>w#w-lnd92259-071-p3s2w5</LM>
 </w.rf>
 <form>zatkla</form>
-<tag lemma="zatknout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="zatknout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-lnd92259-071-p3s2w6">
 <src.rf>manual</src.rf>
@@ -282,7 +282,7 @@
 <LM>w#w-lnd92259-071-p3s2w24</LM>
 </w.rf>
 <form>organizovali</form>
-<tag lemma="organizovat_:T_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="organizovat" src="orig" selected="1">VpMP----R-AAB--</tag>
 </m>
 <m id="m-lnd92259-071-p3s2w25">
 <src.rf>manual</src.rf>
@@ -412,7 +412,7 @@
 <LM>w#w-lnd92259-071-p3s3w3</LM>
 </w.rf>
 <form>rozmístila</form>
-<tag lemma="rozmístit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="rozmístit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-071-p3s3w4">
 <src.rf>manual</src.rf>
@@ -485,7 +485,7 @@
 <LM>w#w-lnd92259-071-p3s4w2</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd92259-071-p3s4w3">
 <src.rf>manual</src.rf>
@@ -533,7 +533,7 @@
 <LM>w#w-lnd92259-071-p3s4w8</LM>
 </w.rf>
 <form>hlášeny</form>
-<tag lemma="hlásit" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="hlásit" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-lnd92259-071-p3s4w9">
 <src.rf>manual</src.rf>
@@ -592,7 +592,7 @@
 <LM>w#w-lnd92259-071-p3s4w15</LM>
 </w.rf>
 <form>zaútočily</form>
-<tag lemma="zaútočit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zaútočit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-071-p3s4w16">
 <src.rf>manual</src.rf>
@@ -773,7 +773,7 @@
 <LM>w#w-lnd92259-071-p3s5w18</LM>
 </w.rf>
 <form>dotklo</form>
-<tag lemma="dotknout_:W_^(fyz._i_abstr.,_př._drátů,_práv,_citů)" src="orig" selected="1">VpNS---XR-AA--1</tag>
+<tag lemma="dotknout_^(fyz._i_abstr.,_př._drátů,_práv,_citů)" src="orig" selected="1">VpNS----R-AAP-1</tag>
 </m>
 <m id="m-lnd92259-071-p3s5w19">
 <src.rf>manual</src.rf>
@@ -956,7 +956,7 @@
 <LM>w#w-lnd92259-071-p3s7w4</LM>
 </w.rf>
 <form>postavily</form>
-<tag lemma="postavit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="postavit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-071-p3s7w5">
 <src.rf>manual</src.rf>

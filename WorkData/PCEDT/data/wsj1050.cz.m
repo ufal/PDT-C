@@ -121,7 +121,7 @@
 <LM>w#w-wsj1050-001-p1s0W11</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1050-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -148,7 +148,7 @@
 <LM>w#w-wsj1050-001-p1s0W14</LM>
 </w.rf>
 <form>zaslala</form>
-<tag lemma="zaslat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="zaslat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1050-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -557,7 +557,7 @@
 <LM>w#w-wsj1050-001-p1s1W20</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1050-001-p1s1W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -684,7 +684,7 @@
 <LM>w#w-wsj1050-001-p1s1W32</LM>
 </w.rf>
 <form>označilo</form>
-<tag lemma="označit" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="označit" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj1050-001-p1s1W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1713,7 +1713,7 @@
 <LM>w#w-wsj1050-001-p1s3W12</LM>
 </w.rf>
 <form>financována</form>
-<tag lemma="financovat" src="auto" recommended="1">VsQW---XX-API--</tag>
+<tag lemma="financovat" src="auto" recommended="1">VsQW----X-API--</tag>
 </m>
 <m id="m-wsj1050-001-p1s3W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2187,7 +2187,7 @@
 <LM>w#w-wsj1050-001-p1s4W5</LM>
 </w.rf>
 <form>uzavřela</form>
-<tag lemma="uzavřít" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uzavřít" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1050-001-p1s4W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2368,7 +2368,7 @@
 <LM>w#w-wsj1050-001-p1s5W3</LM>
 </w.rf>
 <form>požádala</form>
-<tag lemma="požádat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="požádat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1050-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2532,7 +2532,7 @@
 <LM>w#w-wsj1050-001-p1s6W6</LM>
 </w.rf>
 <form>potvrdil</form>
-<tag lemma="potvrdit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="potvrdit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1050-001-p1s6W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2571,7 +2571,7 @@
 <LM>w#w-wsj1050-001-p1s6W10</LM>
 </w.rf>
 <form>obdrželo</form>
-<tag lemma="obdržet" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="obdržet" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj1050-001-p1s6W11-Ta">
 <src.rf>tagger-a</src.rf>

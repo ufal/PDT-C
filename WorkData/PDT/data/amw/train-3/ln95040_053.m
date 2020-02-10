@@ -101,7 +101,7 @@
 <LM>w#w-ln95040-053-p2s1w10</LM>
 </w.rf>
 <form>natočila</form>
-<tag lemma="natočit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="natočit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95040-053-p2s1w11">
 <src.rf>manual</src.rf>
@@ -420,7 +420,7 @@
 <form>vydaly</form>
 <tag>
 <AM lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig">VpTP---XR-AA---</AM>
-<AM lemma="vydat_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+<AM lemma="vydat" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95040-053-p3s1w12">

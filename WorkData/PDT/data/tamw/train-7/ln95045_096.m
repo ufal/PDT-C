@@ -27,7 +27,7 @@
 <LM>w#w-ln95045-096-p1s1w2</LM>
 </w.rf>
 <form>blokovaly</form>
-<tag lemma="blokovat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="blokovat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95045-096-p1s1w3">
 <src.rf>manual</src.rf>
@@ -111,7 +111,7 @@
 <LM>w#w-ln95045-096-p2s1Bw5</LM>
 </w.rf>
 <form>zablokovali</form>
-<tag lemma="zablokovat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zablokovat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95045-096-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -225,7 +225,7 @@
 <LM>w#w-ln95045-096-p2s2w1</LM>
 </w.rf>
 <form>Přáli</form>
-<tag lemma="přát" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přát" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95045-096-p2s2w2">
 <src.rf>manual</src.rf>
@@ -353,7 +353,7 @@
 <LM>w#w-ln95045-096-p2s2w17</LM>
 </w.rf>
 <form>předložili</form>
-<tag lemma="předložit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="předložit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95045-096-p2s2w18">
 <src.rf>manual</src.rf>
@@ -411,7 +411,7 @@
 <LM>w#w-ln95045-096-p2s3w4</LM>
 </w.rf>
 <form>žádali</form>
-<tag lemma="žádat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="žádat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95045-096-p2s3w5">
 <src.rf>manual</src.rf>
@@ -640,7 +640,7 @@
 <LM>w#w-ln95045-096-p2s4w5</LM>
 </w.rf>
 <form>požadovali</form>
-<tag lemma="požadovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="požadovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95045-096-p2s4w6">
 <src.rf>manual</src.rf>
@@ -696,7 +696,7 @@
 <LM>w#w-ln95045-096-p2s4w12</LM>
 </w.rf>
 <form>odbavovány</form>
-<tag lemma="odbavovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="odbavovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln95045-096-p2s4w13">
 <src.rf>manual</src.rf>
@@ -752,7 +752,7 @@
 <LM>w#w-ln95045-096-p2s4w19</LM>
 </w.rf>
 <form>poukazovali</form>
-<tag lemma="poukazovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="poukazovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95045-096-p2s4w20">
 <src.rf>manual</src.rf>
@@ -842,7 +842,7 @@
 <LM>w#w-ln95045-096-p2s5w4</LM>
 </w.rf>
 <form>zablokovali</form>
-<tag lemma="zablokovat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zablokovat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95045-096-p2s5w5">
 <src.rf>manual</src.rf>
@@ -882,7 +882,7 @@
 <LM>w#w-ln95045-096-p2s5w9</LM>
 </w.rf>
 <form>uvolnili</form>
-<tag lemma="uvolnit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="uvolnit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95045-096-p2s5w10">
 <src.rf>manual</src.rf>

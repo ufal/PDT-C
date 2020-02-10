@@ -133,7 +133,7 @@
 <LM>w#w-ln95043-090-p2s1w12</LM>
 </w.rf>
 <form>považována</form>
-<tag lemma="považovat_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="považovat" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-ln95043-090-p2s1w13">
 <src.rf>manual</src.rf>
@@ -818,7 +818,7 @@
 <LM>w#w-ln95043-090-p4s1w8</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95043-090-p4s1w9">
 <src.rf>manual</src.rf>
@@ -826,7 +826,7 @@
 <LM>w#w-ln95043-090-p4s1w9</LM>
 </w.rf>
 <form>schválen</form>
-<tag lemma="schválit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="schválit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95043-090-p4s1w10">
 <src.rf>manual</src.rf>
@@ -938,7 +938,7 @@
 <LM>w#w-ln95043-090-p4s1w23</LM>
 </w.rf>
 <form>osvobozena</form>
-<tag lemma="osvobodit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="osvobodit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln95043-090-p4s1w24">
 <src.rf>manual</src.rf>

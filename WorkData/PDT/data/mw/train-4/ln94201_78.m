@@ -85,7 +85,7 @@
 <LM>w#w-ln94201-78-p2s1w8</LM>
 </w.rf>
 <form>podepsal</form>
-<tag lemma="podepsat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="podepsat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94201-78-p2s1w9">
 <src.rf>manual</src.rf>
@@ -372,7 +372,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>podepsal</form>
-<tag lemma="podepsat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="podepsat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94201-78-p3s1w11">
 <src.rf>manual</src.rf>
@@ -527,7 +527,7 @@
 <LM>w#w-ln94201-78-p4s1w5</LM>
 </w.rf>
 <form>prohráli</form>
-<tag lemma="prohrát" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="prohrát" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94201-78-p4s1w6">
 <src.rf>manual</src.rf>
@@ -663,7 +663,7 @@
 <LM>w#w-ln94201-78-p4s2w4</LM>
 </w.rf>
 <form>odsunula</form>
-<tag lemma="odsunout" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="odsunout" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94201-78-p4s2w5">
 <src.rf>manual</src.rf>
@@ -777,7 +777,7 @@
 <LM>w#w-ln94201-78-p5s1w4</LM>
 </w.rf>
 <form>potrestal</form>
-<tag lemma="potrestat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="potrestat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94201-78-p5s1w5">
 <src.rf>manual</src.rf>
@@ -909,7 +909,7 @@
 <LM>w#w-ln94201-78-p5s1w20</LM>
 </w.rf>
 <form>vykázal</form>
-<tag lemma="vykázat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vykázat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94201-78-p5s1w21">
 <src.rf>manual</src.rf>

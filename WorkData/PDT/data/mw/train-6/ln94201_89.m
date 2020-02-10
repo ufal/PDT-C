@@ -86,7 +86,7 @@
 <LM>w#w-ln94201-89-p1s1w9</LM>
 </w.rf>
 <form>vysloužily</form>
-<tag lemma="vysloužit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vysloužit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94201-89-p1s1w10">
 <src.rf>manual</src.rf>
@@ -134,7 +134,7 @@
 <LM>w#w-ln94201-89-p1s1w15</LM>
 </w.rf>
 <form>připraveny</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="připravit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln94201-89-p1s1w16">
 <src.rf>manual</src.rf>

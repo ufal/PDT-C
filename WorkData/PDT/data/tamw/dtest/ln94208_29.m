@@ -220,7 +220,7 @@
 <LM>w#w-ln94208-29-p2s2w3</LM>
 </w.rf>
 <form>musela</form>
-<tag lemma="muset" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="muset" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94208-29-p2s2w4">
 <src.rf>manual</src.rf>
@@ -237,8 +237,8 @@
 </w.rf>
 <form>rozšířena</form>
 <tag>
-<AM lemma="rozšířit" src="orig">VsQW---XX-AP---</AM>
-<AM lemma="rozšířit_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+<AM lemma="rozšířit" src="orig">VsQW----X-APP--</AM>
+<AM lemma="rozšířit" src="manual" selected="1">VsQW----X-APP--</AM>
 </tag>
 </m>
 <m id="m-ln94208-29-p2s2w6">
@@ -590,8 +590,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94208-29-p2s5w11">
@@ -626,7 +626,7 @@
 <LM>w#w-ln94208-29-p2s6w2</LM>
 </w.rf>
 <form>připomněl</form>
-<tag lemma="připomenout" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="připomenout" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94208-29-p2s6w3">
 <src.rf>manual</src.rf>
@@ -690,7 +690,7 @@
 <LM>w#w-ln94208-29-p2s6w10</LM>
 </w.rf>
 <form>dostávalo</form>
-<tag lemma="dostávat_:T_^(*4at)" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="dostávat_^(*4at)" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94208-29-p2s6w11">
 <src.rf>manual</src.rf>

@@ -43,7 +43,7 @@
 <LM>w#w-ln94204-48-p1s1w4</LM>
 </w.rf>
 <form>využívány</form>
-<tag lemma="využívat_:T_^(*3t)" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="využívat_^(*3t)" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln94204-48-p1s1w5">
 <src.rf>manual</src.rf>
@@ -202,7 +202,7 @@
 <LM>w#w-ln94204-48-p2s1Bw4</LM>
 </w.rf>
 <form>využívány</form>
-<tag lemma="využívat_:T_^(*3t)" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="využívat_^(*3t)" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln94204-48-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -574,8 +574,8 @@
 </w.rf>
 <form>převedeny</form>
 <tag>
-<AM lemma="převést" src="orig">VsTP---XX-AP---</AM>
-<AM lemma="převést_:W" src="manual" selected="1">VsTP---XX-AP---</AM>
+<AM lemma="převést" src="orig">VsTP----X-APP--</AM>
+<AM lemma="převést" src="manual" selected="1">VsTP----X-APP--</AM>
 </tag>
 </m>
 <m id="m-ln94204-48-p2s2w28">
@@ -979,7 +979,7 @@
 <LM>w#w-ln94204-48-p3s4w8</LM>
 </w.rf>
 <form>bývalo</form>
-<tag lemma="bývat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="bývat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94204-48-p3s4w9">
 <src.rf>manual</src.rf>
@@ -2486,7 +2486,7 @@
 <LM>w#w-ln94204-48-p5s6w3</LM>
 </w.rf>
 <form>zavaleny</form>
-<tag lemma="zavalit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="zavalit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln94204-48-p5s6w4">
 <src.rf>manual</src.rf>
@@ -3015,7 +3015,7 @@
 <LM>w#w-ln94204-48-p6s3w5</LM>
 </w.rf>
 <form>vsadili</form>
-<tag lemma="vsadit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vsadit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94204-48-p6s3w6">
 <src.rf>manual</src.rf>
@@ -3339,8 +3339,8 @@
 </w.rf>
 <form>zavedena</form>
 <tag>
-<AM lemma="zavést" src="orig">VsQW---XX-AP---</AM>
-<AM lemma="zavést_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+<AM lemma="zavést" src="orig">VsQW----X-APP--</AM>
+<AM lemma="zavést" src="manual" selected="1">VsQW----X-APP--</AM>
 </tag>
 </m>
 <m id="m-ln94204-48-p6s5w9">

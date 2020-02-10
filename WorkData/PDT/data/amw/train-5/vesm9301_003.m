@@ -518,7 +518,7 @@
 <LM>w#w-vesm9301-003-p2s5w6</LM>
 </w.rf>
 <form>indikovány</form>
-<tag lemma="indikovat_:T_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="indikovat" src="orig" selected="1">VsTP----X-APB--</tag>
 </m>
 <m id="m-vesm9301-003-p2s5w7">
 <src.rf>manual</src.rf>
@@ -1189,7 +1189,7 @@
 <LM>w#w-vesm9301-003-p4s2w6</LM>
 </w.rf>
 <form>došlo</form>
-<tag lemma="dojít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="dojít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-vesm9301-003-p4s2w7">
 <src.rf>manual</src.rf>

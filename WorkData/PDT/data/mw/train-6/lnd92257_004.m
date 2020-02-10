@@ -174,7 +174,7 @@
 <LM>w#w-lnd92257-004-p2s2w12</LM>
 </w.rf>
 <form>vyzval</form>
-<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-004-p2s2w13">
 <src.rf>manual</src.rf>
@@ -265,7 +265,7 @@
 <LM>w#w-lnd92257-004-p2s2w24</LM>
 </w.rf>
 <form>ukončily</form>
-<tag lemma="ukončit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="ukončit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-004-p2s2w25">
 <src.rf>manual</src.rf>
@@ -289,7 +289,7 @@
 <LM>w#w-lnd92257-004-p2s2w27</LM>
 </w.rf>
 <form>odvolaly</form>
-<tag lemma="odvolat_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="odvolat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-004-p2s2w28">
 <src.rf>manual</src.rf>
@@ -395,7 +395,7 @@
 <LM>w#w-lnd92257-004-p2s3w7</LM>
 </w.rf>
 <form>rozhodlo</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpNS---XR-AA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpNS----R-AAP-1</tag>
 </m>
 <m id="m-lnd92257-004-p2s3w8">
 <src.rf>manual</src.rf>

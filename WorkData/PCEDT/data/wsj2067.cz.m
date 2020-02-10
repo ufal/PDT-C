@@ -73,7 +73,7 @@
 <LM>w#w-wsj2067-001-p1s0W6</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj2067-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -81,7 +81,7 @@
 <LM>w#w-wsj2067-001-p1s0W7</LM>
 </w.rf>
 <form>poražena</form>
-<tag lemma="porazit" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="porazit" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj2067-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -143,7 +143,7 @@
 <LM>w#w-wsj2067-001-p1s0W13</LM>
 </w.rf>
 <form>odvolala</form>
-<tag lemma="odvolat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="odvolat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2067-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -252,7 +252,7 @@
 <LM>w#w-wsj2067-001-p1s0W22</LM>
 </w.rf>
 <form>označila</form>
-<tag lemma="označit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="označit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2067-001-p1s0W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -450,7 +450,7 @@
 <LM>w#w-wsj2067-001-p1s1W10</LM>
 </w.rf>
 <form>souhlasila</form>
-<tag lemma="souhlasit" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="souhlasit" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj2067-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -693,7 +693,7 @@
 <LM>w#w-wsj2067-001-p1s2W3</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2067-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -731,7 +731,7 @@
 <LM>w#w-wsj2067-001-p1s2W7</LM>
 </w.rf>
 <form>požádala</form>
-<tag lemma="požádat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="požádat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2067-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -779,7 +779,7 @@
 <LM>w#w-wsj2067-001-p1s2W11</LM>
 </w.rf>
 <form>zmírnily</form>
-<tag lemma="zmírnit" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="zmírnit" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj2067-001-p1s2W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -851,7 +851,7 @@
 <LM>w#w-wsj2067-001-p1s2W16</LM>
 </w.rf>
 <form>zahrnovaly</form>
-<tag lemma="zahrnovat" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag lemma="zahrnovat" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj2067-001-p1s2W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1580,7 +1580,7 @@
 <LM>w#w-wsj2067-001-p1s6W10</LM>
 </w.rf>
 <form>vyřešil</form>
-<tag lemma="vyřešit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="vyřešit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2067-001-p1s6W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1604,7 +1604,7 @@
 <LM>w#w-wsj2067-001-p1s6W13</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2067-001-p1s6W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1833,7 +1833,7 @@
 <LM>w#w-wsj2067-001-p1s8W3</LM>
 </w.rf>
 <form>odmítli</form>
-<tag lemma="odmítnout" src="auto" recommended="1">VpMP---XR-AAP-1</tag>
+<tag lemma="odmítnout" src="auto" recommended="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-wsj2067-001-p1s8W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1962,7 +1962,7 @@
 <LM>w#w-wsj2067-001-p1s8W13</LM>
 </w.rf>
 <form>zajistil</form>
-<tag lemma="zajistit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="zajistit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2067-001-p1s8W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2062,7 +2062,7 @@
 <LM>w#w-wsj2067-001-p1s9W2</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="mít" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj2067-001-p1s9W3-Ta">
 <src.rf>tagger-a</src.rf>

@@ -176,7 +176,7 @@
 <LM>w#w-mf920924-041-p1s2w10</LM>
 </w.rf>
 <form>podpořil</form>
-<tag lemma="podpořit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="podpořit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920924-041-p1s2w11">
 <src.rf>manual</src.rf>
@@ -264,7 +264,7 @@
 <LM>w#w-mf920924-041-p1s2w21</LM>
 </w.rf>
 <form>vedly</form>
-<tag lemma="vést" src="auto" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vést" src="auto" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf920924-041-p1s2w22">
 <src.rf>manual</src.rf>
@@ -312,7 +312,7 @@
 <LM>w#w-mf920924-041-p1s2w27</LM>
 </w.rf>
 <form>přenášela</form>
-<tag lemma="přenášet_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="přenášet" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920924-041-p1s2w28">
 <src.rf>manual</src.rf>
@@ -445,7 +445,7 @@
 <LM>w#w-mf920924-041-p1s3w14</LM>
 </w.rf>
 <form>nenašlo</form>
-<tag lemma="najít" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="najít" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-mf920924-041-p1s3w15">
 <src.rf>manual</src.rf>
@@ -639,7 +639,7 @@
 <LM>w#w-mf920924-041-p1s4w3</LM>
 </w.rf>
 <form>nestačilo</form>
-<tag lemma="stačit_:T" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="stačit" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-mf920924-041-p1s4w4">
 <src.rf>manual</src.rf>
@@ -679,7 +679,7 @@
 <LM>w#w-mf920924-041-p1s4w8</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920924-041-p1s4w9">
 <src.rf>manual</src.rf>
@@ -757,7 +757,7 @@
 <LM>w#w-mf920924-041-p1s4w17</LM>
 </w.rf>
 <form>hovořil</form>
-<tag lemma="hovořit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="hovořit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920924-041-p1s4w18">
 <src.rf>manual</src.rf>

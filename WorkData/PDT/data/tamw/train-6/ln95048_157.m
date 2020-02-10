@@ -127,7 +127,7 @@
 <LM>w#w-ln95048-157-p2s1Bw6</LM>
 </w.rf>
 <form>zaútočila</form>
-<tag lemma="zaútočit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zaútočit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95048-157-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -309,7 +309,7 @@
 <LM>w#w-ln95048-157-p2s2w5</LM>
 </w.rf>
 <form>představili</form>
-<tag lemma="představit-1_:W_^(si_něco;_něco/někoho_někomu)" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="představit-1_^(si_něco;_něco/někoho_někomu)" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95048-157-p2s2w6">
 <src.rf>manual</src.rf>
@@ -417,7 +417,7 @@
 <LM>w#w-ln95048-157-p2s3w6</LM>
 </w.rf>
 <form>absolvoval</form>
-<tag lemma="absolvovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="absolvovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln95048-157-p2s3w7">
 <src.rf>manual</src.rf>
@@ -703,7 +703,7 @@
 <LM>w#w-ln95048-157-p3s1w19</LM>
 </w.rf>
 <form>nechal</form>
-<tag lemma="nechat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nechat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95048-157-p3s1w20">
 <src.rf>manual</src.rf>
@@ -911,7 +911,7 @@
 <LM>w#w-ln95048-157-p3s3w4</LM>
 </w.rf>
 <form>představen</form>
-<tag lemma="představit-1_:W_^(si_něco;_něco/někoho_někomu)" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="představit-1_^(si_něco;_něco/někoho_někomu)" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95048-157-p3s3w5">
 <src.rf>manual</src.rf>

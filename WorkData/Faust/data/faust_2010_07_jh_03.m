@@ -831,8 +831,8 @@
 </w.rf>
 <form>vyzkoušeny</form>
 <tag>
-<AM lemma="vyzkoušet_:W" recommended="1">VsTP---XX-AP---</AM>
-<AM lemma="vyzkoušet" src="manual">VsTP---XX-APP--</AM>
+<AM lemma="vyzkoušet" recommended="1">VsTP----X-APP--</AM>
+<AM lemma="vyzkoušet" src="manual">VsTP----X-APP--</AM>
 <AM lemma="vyzkoušet" src="manual" selected="1">VsTP----X-APP--</AM>
 </tag>
 </m>
@@ -1060,7 +1060,7 @@
 </w.rf>
 <form>prodiskutováno</form>
 <tag>
-<AM lemma="prodiskutovat_:W" recommended="1">VsNS---XX-AP---</AM>
+<AM lemma="prodiskutovat" recommended="1">VsNS----X-APP--</AM>
 <AM lemma="prodiskutovat" src="manual" selected="1">VsNS----X-APP--</AM>
 </tag>
 </m>
@@ -1373,7 +1373,7 @@
 </w.rf>
 <form>ozvala</form>
 <tag>
-<AM lemma="ozvat" recommended="1">VpQW---XR-AA---</AM>
+<AM lemma="ozvat" recommended="1">VpQW----R-AAP--</AM>
 <AM lemma="ozvat" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
@@ -1717,7 +1717,7 @@
 </w.rf>
 <form>chtěl</form>
 <tag>
-<AM lemma="chtít" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="chtít" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="chtít" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
@@ -1809,7 +1809,7 @@
 </w.rf>
 <form>Přišel</form>
 <tag>
-<AM lemma="přijít" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="přijít" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="přijít" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
@@ -2795,7 +2795,7 @@
 </w.rf>
 <form>dopustil</form>
 <tag>
-<AM lemma="dopustit_:W" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="dopustit" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="dopustit" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
@@ -3848,7 +3848,7 @@
 </w.rf>
 <form>očekávány</form>
 <tag>
-<AM lemma="očekávat_:T" recommended="1">VsTP---XX-AP---</AM>
+<AM lemma="očekávat" recommended="1">VsTP----X-API--</AM>
 <AM lemma="očekávat" src="manual" selected="1">VsTP----X-API--</AM>
 </tag>
 </m>
@@ -4292,7 +4292,7 @@
 <LM>w#w-jh_03-SCzechM-p0269-s1-w6</LM>
 </w.rf>
 <form>hráli</form>
-<tag lemma="hrát" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="hrát" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="jh_03-SCzechM-p0269-s1-w7">
 <w.rf>
@@ -4342,7 +4342,7 @@
 </w.rf>
 <form>udělal</form>
 <tag>
-<AM lemma="udělat_:W" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="udělat" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="udělat" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
@@ -4406,7 +4406,7 @@
 </w.rf>
 <form>vypařeno</form>
 <tag>
-<AM lemma="vypařit_:W" recommended="1">VsNS---XX-AP---</AM>
+<AM lemma="vypařit" recommended="1">VsNS----X-APP--</AM>
 <AM lemma="vypařit" src="manual" selected="1">VsNS----X-APP--</AM>
 </tag>
 </m>
@@ -4667,7 +4667,7 @@
 </w.rf>
 <form>absorbován</form>
 <tag>
-<AM lemma="absorbovat_:T_:W" recommended="1">VsYS---XX-AP---</AM>
+<AM lemma="absorbovat" recommended="1">VsYS----X-APB--</AM>
 <AM lemma="absorbovat" src="manual" selected="1">VsYS----X-APB--</AM>
 </tag>
 </m>
@@ -4798,7 +4798,7 @@
 </w.rf>
 <form>Volával</form>
 <tag>
-<AM lemma="volávat_:T_^(*4at)" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="volávat_^(*4at)" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="volávat_^(*4at)" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>

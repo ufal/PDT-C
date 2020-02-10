@@ -298,7 +298,7 @@
 <LM>w#w-ln95049-019-p2s3w1</LM>
 </w.rf>
 <form>Uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-019-p2s3w2">
 <src.rf>manual</src.rf>
@@ -825,7 +825,7 @@
 <LM>w#w-ln95049-019-p3s2w24</LM>
 </w.rf>
 <form>pohřben</form>
-<tag lemma="pohřbít" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="pohřbít" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95049-019-p3s2w25">
 <src.rf>manual</src.rf>

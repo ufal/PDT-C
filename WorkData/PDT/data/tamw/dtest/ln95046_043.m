@@ -516,7 +516,7 @@
 <LM>w#w-ln95046-043-p3s1w27</LM>
 </w.rf>
 <form>míchal</form>
-<tag lemma="míchat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="míchat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95046-043-p3s1w28">
 <src.rf>manual</src.rf>

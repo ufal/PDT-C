@@ -97,7 +97,7 @@
 <LM>w#w-lnd92254-035-p3s2w3</LM>
 </w.rf>
 <form>opustila</form>
-<tag lemma="opustit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="opustit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92254-035-p3s2w4">
 <src.rf>manual</src.rf>

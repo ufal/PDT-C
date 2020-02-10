@@ -82,7 +82,7 @@
 <LM>w#w-wsj1979-001-p1s0W6</LM>
 </w.rf>
 <form>činila</form>
-<tag lemma="činit" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="činit" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj1979-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -314,7 +314,7 @@
 <LM>w#w-wsj1979-001-p1s1W3</LM>
 </w.rf>
 <form>uvedlo</form>
-<tag lemma="uvést" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj1979-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -377,7 +377,7 @@
 <LM>w#w-wsj1979-001-p1s1W9</LM>
 </w.rf>
 <form>vynesla</form>
-<tag lemma="vynést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="vynést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1979-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>

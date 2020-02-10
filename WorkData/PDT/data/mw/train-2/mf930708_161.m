@@ -247,7 +247,7 @@
 <LM>w#w-mf930708-161-p2s2w1</LM>
 </w.rf>
 <form>Informovalo</form>
-<tag lemma="informovat_:T_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="informovat" src="orig" selected="1">VpNS----R-AAB--</tag>
 </m>
 <m id="m-mf930708-161-p2s2w2">
 <src.rf>manual</src.rf>
@@ -369,7 +369,7 @@
 <LM>w#w-mf930708-161-p3s1w2</LM>
 </w.rf>
 <form>zahájil</form>
-<tag lemma="zahájit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zahájit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-161-p3s1w3">
 <src.rf>manual</src.rf>
@@ -579,7 +579,7 @@
 <LM>w#w-mf930708-161-p3s2w6</LM>
 </w.rf>
 <form>potvrdil</form>
-<tag lemma="potvrdit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="potvrdit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-161-p3s2w7">
 <src.rf>manual</src.rf>
@@ -659,7 +659,7 @@
 <LM>w#w-mf930708-161-p3s2w16</LM>
 </w.rf>
 <form>ohrozil</form>
-<tag lemma="ohrozit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="ohrozit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-161-p3s2w17">
 <src.rf>manual</src.rf>
@@ -717,7 +717,7 @@
 <LM>w#w-mf930708-161-p3s3w4</LM>
 </w.rf>
 <form>vězněni</form>
-<tag lemma="věznit" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="věznit" src="orig" selected="1">VsMP----X-API--</tag>
 </m>
 <m id="m-mf930708-161-p3s3w5">
 <src.rf>manual</src.rf>
@@ -773,7 +773,7 @@
 <LM>w#w-mf930708-161-p3s3w11</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930708-161-p3s3w12">
 <src.rf>manual</src.rf>
@@ -885,7 +885,7 @@
 <LM>w#w-mf930708-161-p3s3w25</LM>
 </w.rf>
 <form>zbiti</form>
-<tag lemma="zbít" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="zbít" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-mf930708-161-p3s3w26">
 <src.rf>manual</src.rf>
@@ -919,7 +919,7 @@
 <LM>w#w-mf930708-161-p4s1w3</LM>
 </w.rf>
 <form>vyjádřilo</form>
-<tag lemma="vyjádřit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vyjádřit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-161-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1063,7 +1063,7 @@
 <LM>w#w-mf930708-161-p4s1w21</LM>
 </w.rf>
 <form>vyzvalo</form>
-<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-161-p4s1w22">
 <src.rf>manual</src.rf>

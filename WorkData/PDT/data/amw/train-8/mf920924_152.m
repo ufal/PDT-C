@@ -245,7 +245,7 @@
 <LM>w#w-mf920924-152-p3s1Cw14</LM>
 </w.rf>
 <form>postihly</form>
-<tag lemma="postihnout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="postihnout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-mf920924-152-p3s1Cw15">
 <src.rf>manual</src.rf>
@@ -325,7 +325,7 @@
 <LM>w#w-mf920924-152-p3s1Cw24</LM>
 </w.rf>
 <form>přišly</form>
-<tag lemma="přijít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="přijít" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf920924-152-p3s1Cw25">
 <src.rf>manual</src.rf>
@@ -365,7 +365,7 @@
 <LM>w#w-mf920924-152-p3s1Cw29</LM>
 </w.rf>
 <form>pohřešovány</form>
-<tag lemma="pohřešovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="pohřešovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf920924-152-p3s1Cw30">
 <src.rf>manual</src.rf>
@@ -463,7 +463,7 @@
 <LM>w#w-mf920924-152-p3s2w9</LM>
 </w.rf>
 <form>zahynulo</form>
-<tag lemma="zahynout" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zahynout" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920924-152-p3s2w10">
 <src.rf>manual</src.rf>
@@ -593,7 +593,7 @@
 <LM>w#w-mf920924-152-p3s3w4</LM>
 </w.rf>
 <form>strhávaly</form>
-<tag lemma="strhávat_:T_^(*4at)" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="strhávat_^(*4at)" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf920924-152-p3s3w5">
 <src.rf>manual</src.rf>
@@ -633,7 +633,7 @@
 <LM>w#w-mf920924-152-p3s3w9</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920924-152-p3s3w10">
 <src.rf>manual</src.rf>
@@ -641,7 +641,7 @@
 <LM>w#w-mf920924-152-p3s3w10</LM>
 </w.rf>
 <form>zničeno</form>
-<tag lemma="zničit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zničit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf920924-152-p3s3w11">
 <src.rf>manual</src.rf>
@@ -683,7 +683,7 @@
 <LM>w#w-mf920924-152-p3s4w2</LM>
 </w.rf>
 <form>vyhlásila</form>
-<tag lemma="vyhlásit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyhlásit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920924-152-p3s4w3">
 <src.rf>manual</src.rf>

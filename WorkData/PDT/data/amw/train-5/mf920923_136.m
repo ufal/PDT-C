@@ -51,7 +51,7 @@
 <LM>w#w-mf920923-136-p1s1Aw5</LM>
 </w.rf>
 <form>nezbývalo</form>
-<tag lemma="zbývat_:T" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="zbývat" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 </s>
 <s id="m-mf920923-136-p1s1B">
@@ -169,7 +169,7 @@
 <LM>w#w-mf920923-136-p2s2w7</LM>
 </w.rf>
 <form>rozhodla</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-mf920923-136-p2s2w8">
 <src.rf>manual</src.rf>
@@ -272,7 +272,7 @@
 <LM>w#w-mf920923-136-p2s2w19</LM>
 </w.rf>
 <form>najala</form>
-<tag lemma="najmout" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="najmout" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920923-136-p2s2w20">
 <src.rf>manual</src.rf>
@@ -411,7 +411,7 @@
 <LM>w#w-mf920923-136-p2s3w4</LM>
 </w.rf>
 <form>zdůvodnil</form>
-<tag lemma="zdůvodnit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zdůvodnit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-136-p2s3w5">
 <src.rf>manual</src.rf>
@@ -541,7 +541,7 @@
 <LM>w#w-mf920923-136-p2s4w1</LM>
 </w.rf>
 <form>Dodal</form>
-<tag lemma="dodat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dodat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-136-p2s4w2">
 <src.rf>manual</src.rf>
@@ -581,7 +581,7 @@
 <LM>w#w-mf920923-136-p2s4w6</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920923-136-p2s4w7">
 <src.rf>manual</src.rf>
@@ -623,7 +623,7 @@
 <LM>w#w-mf920923-136-p2s5w2</LM>
 </w.rf>
 <form>Cítila</form>
-<tag lemma="cítit_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="cítit" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920923-136-p2s5w3">
 <src.rf>manual</src.rf>
@@ -671,7 +671,7 @@
 <LM>w#w-mf920923-136-p2s5w8</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920923-136-p2s5w9">
 <src.rf>manual</src.rf>

@@ -27,7 +27,7 @@
 <LM>w#w-ln94205-78-p1s1w2</LM>
 </w.rf>
 <form>skončil</form>
-<tag lemma="skončit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="skončit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94205-78-p1s1w3">
 <src.rf>manual</src.rf>
@@ -67,7 +67,7 @@
 <LM>w#w-ln94205-78-p1s1w7</LM>
 </w.rf>
 <form>připlula</form>
-<tag lemma="připlout" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="připlout" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94205-78-p1s1w8">
 <src.rf>manual</src.rf>

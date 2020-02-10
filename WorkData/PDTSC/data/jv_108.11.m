@@ -1382,7 +1382,7 @@
 <LM>w#w-d1t1989-3</LM>
 </w.rf>
 <form>vypršel</form>
-<tag lemma="vypršet" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="vypršet" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m108-d1t1989-4">
 <w.rf>
@@ -1499,7 +1499,7 @@
 <LM>w#w-d1t1997-7</LM>
 </w.rf>
 <form>povídalo</form>
-<tag lemma="povídat_:T" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="povídat" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m108-d-m-d1e1994-x2-punct-punct">
 <w.rf>

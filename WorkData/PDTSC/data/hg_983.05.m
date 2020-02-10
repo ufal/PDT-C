@@ -40,7 +40,7 @@
 <LM>w#w-d1t2107-1</LM>
 </w.rf>
 <form>nemělo</form>
-<tag lemma="mít" src="auto" recommended="1">VpNS---XR-NA---</tag>
+<tag lemma="mít" src="auto" recommended="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m983-d1t2107-3">
 <w.rf>
@@ -87,7 +87,7 @@
 <LM>w#w-d1t2107-6</LM>
 </w.rf>
 <form>ubytovaly</form>
-<tag lemma="ubytovat_:W" src="auto" recommended="1">VpTP---XR-AA---</tag>
+<tag lemma="ubytovat" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m983-d1t2107-7">
 <w.rf>

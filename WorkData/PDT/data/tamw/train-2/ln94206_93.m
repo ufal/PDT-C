@@ -418,7 +418,7 @@
 <LM>w#w-ln94206-93-p3s1w28</LM>
 </w.rf>
 <form>otevřena</form>
-<tag lemma="otevřít" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="otevřít" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94206-93-p3s1w29">
 <src.rf>manual</src.rf>
@@ -631,7 +631,7 @@
 <LM>w#w-ln94206-93-p4s1w11</LM>
 </w.rf>
 <form>vystaveny</form>
-<tag lemma="vystavit_:W_^(např._potvrzení)" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="vystavit_^(např._potvrzení)" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln94206-93-p4s1w12">
 <src.rf>manual</src.rf>

@@ -360,7 +360,7 @@
 <LM>w#w-ln94206-37-p2s2w9</LM>
 </w.rf>
 <form>pochopeny</form>
-<tag lemma="pochopit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="pochopit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln94206-37-p2s2w10">
 <src.rf>manual</src.rf>
@@ -536,7 +536,7 @@
 <LM>w#w-ln94206-37-p2s4w1</LM>
 </w.rf>
 <form>Uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94206-37-p2s4w2">
 <src.rf>manual</src.rf>
@@ -613,7 +613,7 @@
 <LM>w#w-ln94206-37-p2s5w1</LM>
 </w.rf>
 <form>Konstatoval</form>
-<tag lemma="konstatovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="konstatovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln94206-37-p2s5w2">
 <src.rf>manual</src.rf>
@@ -731,7 +731,7 @@
 <LM>w#w-ln94206-37-p2s6w1</LM>
 </w.rf>
 <form>Odmítl</form>
-<tag lemma="odmítnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="odmítnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln94206-37-p2s6w2">
 <src.rf>manual</src.rf>

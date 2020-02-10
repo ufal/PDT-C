@@ -35,7 +35,7 @@
 <LM>w#w-mf920924-073-p1s1w3</LM>
 </w.rf>
 <form>prošli</form>
-<tag lemma="projít_^(i_uplynout_[o_čase])" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="projít_^(i_uplynout_[o_čase])" src="auto" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920924-073-p1s1w4">
 <src.rf>manual</src.rf>
@@ -557,7 +557,7 @@
 <LM>w#w-mf920924-073-p3s5w7</LM>
 </w.rf>
 <form>uvítala</form>
-<tag lemma="uvítat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="uvítat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920924-073-p3s5w8">
 <src.rf>manual</src.rf>
@@ -910,7 +910,7 @@
 <LM>w#w-mf920924-073-p3s10w6</LM>
 </w.rf>
 <form>utajeno</form>
-<tag lemma="utajit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="utajit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf920924-073-p3s10w7">
 <src.rf>manual</src.rf>
@@ -1435,7 +1435,7 @@
 <LM>w#w-mf920924-073-p3s14w8</LM>
 </w.rf>
 <form>zakázán</form>
-<tag lemma="zakázat" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zakázat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf920924-073-p3s14w9">
 <src.rf>manual</src.rf>
@@ -1912,7 +1912,7 @@
 <LM>w#w-mf920924-073-p3s17Bw11</LM>
 </w.rf>
 <form>nechodili</form>
-<tag lemma="chodit_:T" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="chodit" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-mf920924-073-p3s17Bw12">
 <src.rf>manual</src.rf>

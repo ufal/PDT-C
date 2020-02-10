@@ -43,7 +43,7 @@
 <LM>w#w-mf930703-085-p1s1w4</LM>
 </w.rf>
 <form>nepotvrdili</form>
-<tag lemma="potvrdit_:W" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="potvrdit" src="orig" selected="1">VpMP----R-NAP--</tag>
 </m>
 </s>
 <s id="m-mf930703-085-p2s1">
@@ -154,7 +154,7 @@
 <LM>w#w-mf930703-085-p2s1w12</LM>
 </w.rf>
 <form>uvedly</form>
-<tag lemma="uvést" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf930703-085-p2s1w13">
 <src.rf>manual</src.rf>
@@ -210,7 +210,7 @@
 <LM>w#w-mf930703-085-p2s1w19</LM>
 </w.rf>
 <form>bojovali</form>
-<tag lemma="bojovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="bojovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930703-085-p2s1w20">
 <src.rf>manual</src.rf>
@@ -422,7 +422,7 @@
 <LM>w#w-mf930703-085-p2s3w13</LM>
 </w.rf>
 <form>objevily</form>
-<tag lemma="objevit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="objevit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf930703-085-p2s3w14">
 <src.rf>manual</src.rf>
@@ -482,7 +482,7 @@
 <LM>w#w-mf930703-085-p2s3w20</LM>
 </w.rf>
 <form>nepotvrdily</form>
-<tag lemma="potvrdit_:W" src="orig" selected="1">VpTP---XR-NA---</tag>
+<tag lemma="potvrdit" src="orig" selected="1">VpTP----R-NAP--</tag>
 </m>
 <m id="m-mf930703-085-p2s3w21">
 <src.rf>manual</src.rf>
@@ -772,7 +772,7 @@
 <LM>w#w-mf930703-085-p4s1w3</LM>
 </w.rf>
 <form>ustavila</form>
-<tag lemma="ustavit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="ustavit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930703-085-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1073,8 +1073,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930703-085-p5s2w8">
@@ -1115,7 +1115,7 @@
 <LM>w#w-mf930703-085-p5s2w12</LM>
 </w.rf>
 <form>připraveno</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="připravit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf930703-085-p5s2w13">
 <src.rf>manual</src.rf>

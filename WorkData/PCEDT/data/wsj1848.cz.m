@@ -47,7 +47,7 @@
 <LM>w#w-wsj1848-001-p1s0W3</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1848-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -55,7 +55,7 @@
 <LM>w#w-wsj1848-001-p1s0W4</LM>
 </w.rf>
 <form>jmenován</form>
-<tag lemma="jmenovat" src="auto" recommended="1">VsYS---XX-APB--</tag>
+<tag lemma="jmenovat" src="auto" recommended="1">VsYS----X-APB--</tag>
 </m>
 <m id="m-wsj1848-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -393,8 +393,8 @@
 </w.rf>
 <form>neděli</form>
 <tag>
-<AM lemma="dít-1_^(dít_se)" src="auto">VpMP---XR-NAI--</AM>
-<AM lemma="dít-2_^(říkat)" src="auto">VpMP---XR-NAP--</AM>
+<AM lemma="dít-1_^(dít_se)" src="auto">VpMP----R-NAI--</AM>
+<AM lemma="dít-2_^(říkat)" src="auto">VpMP----R-NAP--</AM>
 <AM lemma="neděle" src="auto">NNFS3-----A----</AM>
 <AM lemma="neděle" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="neděle" src="auto">NNFS6-----A----</AM>
@@ -450,7 +450,7 @@
 <LM>w#w-wsj1848-001-p1s1W21</LM>
 </w.rf>
 <form>zahynul</form>
-<tag lemma="zahynout" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="zahynout" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1848-001-p1s1W22-Ta">
 <src.rf>tagger-a</src.rf>

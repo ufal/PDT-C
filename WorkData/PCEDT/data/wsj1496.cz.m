@@ -75,7 +75,7 @@
 <LM>w#w-wsj1496-001-p1s0W6</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1496-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -110,7 +110,7 @@
 <LM>w#w-wsj1496-001-p1s0W10</LM>
 </w.rf>
 <form>souhlasila</form>
-<tag lemma="souhlasit" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="souhlasit" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj1496-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -595,7 +595,7 @@
 <LM>w#w-wsj1496-001-p1s1W7</LM>
 </w.rf>
 <form>oznámil</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1496-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1143,7 +1143,7 @@
 <LM>w#w-wsj1496-001-p1s3W3</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1496-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1216,7 +1216,7 @@
 <LM>w#w-wsj1496-001-p1s3W10</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1496-001-p1s3W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1297,7 +1297,7 @@
 <AM lemma="Pic-1_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Pic-2_;S" src="auto">NNMS1-----A----</AM>
 <AM lemma="pic" src="auto">II-------------</AM>
-<AM lemma="picnout_,h" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="picnout_,h" src="auto">VpYS----R-AAP-6</AM>
 <AM lemma="Pic-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

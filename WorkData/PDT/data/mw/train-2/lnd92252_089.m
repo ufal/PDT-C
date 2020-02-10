@@ -213,7 +213,7 @@
 <LM>w#w-lnd92252-089-p2s2w11</LM>
 </w.rf>
 <form>vyrovnal</form>
-<tag lemma="vyrovnat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyrovnat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-089-p2s2w12">
 <src.rf>manual</src.rf>
@@ -398,7 +398,7 @@
 <LM>w#w-lnd92252-089-p2s3w15</LM>
 </w.rf>
 <form>překonal</form>
-<tag lemma="překonat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="překonat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-089-p2s3w16">
 <src.rf>manual</src.rf>
@@ -574,7 +574,7 @@
 <LM>w#w-lnd92252-089-p2s4w20</LM>
 </w.rf>
 <form>zaznamenal</form>
-<tag lemma="zaznamenat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zaznamenat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-089-p2s4w21">
 <src.rf>manual</src.rf>
@@ -616,7 +616,7 @@
 <LM>w#w-lnd92252-089-p2s5w2</LM>
 </w.rf>
 <form>překonal</form>
-<tag lemma="překonat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="překonat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-089-p2s5w3">
 <src.rf>manual</src.rf>
@@ -776,7 +776,7 @@
 <LM>w#w-lnd92252-089-p2s5w22</LM>
 </w.rf>
 <form>nastřílel</form>
-<tag lemma="nastřílet_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nastřílet" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-089-p2s5w23">
 <src.rf>manual</src.rf>
@@ -867,8 +867,8 @@
 </w.rf>
 <form>dospěl</form>
 <tag>
-<AM lemma="dospět" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="dospět_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="dospět" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="dospět" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92252-089-p2s6w4">

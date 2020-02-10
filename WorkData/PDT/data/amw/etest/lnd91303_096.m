@@ -133,7 +133,7 @@
 <LM>w#w-lnd91303-096-p2s1w12</LM>
 </w.rf>
 <form>dohodly</form>
-<tag lemma="dohodnout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="dohodnout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-lnd91303-096-p2s1w13">
 <src.rf>manual</src.rf>
@@ -181,7 +181,7 @@
 <LM>w#w-lnd91303-096-p2s1w18</LM>
 </w.rf>
 <form>připojily</form>
-<tag lemma="připojit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="připojit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-096-p2s1w19">
 <src.rf>manual</src.rf>
@@ -255,7 +255,7 @@
 <LM>w#w-lnd91303-096-p2s2w1</LM>
 </w.rf>
 <form>Záleželo</form>
-<tag lemma="záležet_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="záležet" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-096-p2s2w2">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <LM>w#w-lnd91303-096-p2s3w1</LM>
 </w.rf>
 <form>Postavil</form>
-<tag lemma="postavit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="postavit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-096-p2s3w2">
 <src.rf>manual</src.rf>
@@ -449,7 +449,7 @@
 <LM>w#w-lnd91303-096-p2s3w16</LM>
 </w.rf>
 <form>hostoval</form>
-<tag lemma="hostovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="hostovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-096-p2s3w17">
 <src.rf>manual</src.rf>
@@ -559,8 +559,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd91303-096-p2s4w13">
@@ -974,7 +974,7 @@
 <LM>w#w-lnd91303-096-p2s6Bw4</LM>
 </w.rf>
 <form>usadila</form>
-<tag lemma="usadit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="usadit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-096-p2s6Bw5">
 <src.rf>manual</src.rf>
@@ -1056,7 +1056,7 @@
 <LM>w#w-lnd91303-096-p2s7w4</LM>
 </w.rf>
 <form>dohodla</form>
-<tag lemma="dohodnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="dohodnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-lnd91303-096-p2s7w5">
 <src.rf>manual</src.rf>

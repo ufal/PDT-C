@@ -141,7 +141,7 @@
 <LM>w#w-ln94200-90-p2s1Bw8</LM>
 </w.rf>
 <form>odebíral</form>
-<tag lemma="odebírat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odebírat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94200-90-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -301,7 +301,7 @@
 <LM>w#w-ln94200-90-p2s2w2</LM>
 </w.rf>
 <form>rozprodal</form>
-<tag lemma="rozprodat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="rozprodat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-90-p2s2w3">
 <src.rf>manual</src.rf>
@@ -335,7 +335,7 @@
 <LM>w#w-ln94200-90-p2s3w3</LM>
 </w.rf>
 <form>vyčíslili</form>
-<tag lemma="vyčíslit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyčíslit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94200-90-p2s3w4">
 <src.rf>manual</src.rf>

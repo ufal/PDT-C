@@ -189,7 +189,7 @@
 <LM>w#w-ln95048-163-p2s1Cw5</LM>
 </w.rf>
 <form>ustavila</form>
-<tag lemma="ustavit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="ustavit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95048-163-p2s1Cw6">
 <src.rf>manual</src.rf>
@@ -1081,7 +1081,7 @@
 <LM>w#w-ln95048-163-p4s1w12</LM>
 </w.rf>
 <form>regulován</form>
-<tag lemma="regulovat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="regulovat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-ln95048-163-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1215,7 +1215,7 @@
 <LM>w#w-ln95048-163-p4s2w6</LM>
 </w.rf>
 <form>podmíněn</form>
-<tag lemma="podmínit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="podmínit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95048-163-p4s2w7">
 <src.rf>manual</src.rf>

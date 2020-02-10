@@ -379,7 +379,7 @@
 <LM>w#w-mf930708-073-p1s3w5</LM>
 </w.rf>
 <form>zachycen</form>
-<tag lemma="zachytit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zachytit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf930708-073-p1s3w6">
 <src.rf>manual</src.rf>
@@ -477,7 +477,7 @@
 <LM>w#w-mf930708-073-p1s4w3</LM>
 </w.rf>
 <form>tvořil</form>
-<tag lemma="tvořit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="tvořit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930708-073-p1s4w4">
 <src.rf>manual</src.rf>
@@ -541,7 +541,7 @@
 <LM>w#w-mf930708-073-p1s4w11</LM>
 </w.rf>
 <form>zůstaly</form>
-<tag lemma="zůstat" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zůstat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf930708-073-p1s4w12">
 <src.rf>manual</src.rf>
@@ -549,7 +549,7 @@
 <LM>w#w-mf930708-073-p1s4w12</LM>
 </w.rf>
 <form>zachovány</form>
-<tag lemma="zachovat_:T" src="auto" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="zachovat" src="auto" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf930708-073-p1s4w13">
 <src.rf>manual</src.rf>
@@ -655,7 +655,7 @@
 <LM>w#w-mf930708-073-p1s5w7</LM>
 </w.rf>
 <form>nebyl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-mf930708-073-p1s5w8">
 <src.rf>manual</src.rf>
@@ -711,7 +711,7 @@
 <LM>w#w-mf930708-073-p1s5w14</LM>
 </w.rf>
 <form>otiskl</form>
-<tag lemma="otisknout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="otisknout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf930708-073-p1s5w15">
 <src.rf>manual</src.rf>
@@ -1170,7 +1170,7 @@
 <LM>w#w-mf930708-073-p2s4w8</LM>
 </w.rf>
 <form>zvýhodněna</form>
-<tag lemma="zvýhodnit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zvýhodnit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf930708-073-p2s4w9">
 <src.rf>manual</src.rf>
@@ -1266,7 +1266,7 @@
 <LM>w#w-mf930708-073-p2s4w20</LM>
 </w.rf>
 <form>přidělena</form>
-<tag lemma="přidělit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="přidělit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf930708-073-p2s4w21">
 <src.rf>manual</src.rf>
@@ -1340,7 +1340,7 @@
 <LM>w#w-mf930708-073-p2s5w5</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930708-073-p2s5w6">
 <src.rf>manual</src.rf>

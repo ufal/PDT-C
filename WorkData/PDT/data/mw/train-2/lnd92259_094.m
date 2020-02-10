@@ -217,7 +217,7 @@
 <LM>w#w-lnd92259-094-p2s3w6</LM>
 </w.rf>
 <form>nepoznal</form>
-<tag lemma="poznat_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="poznat" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-lnd92259-094-p2s3w7">
 <src.rf>manual</src.rf>
@@ -347,7 +347,7 @@
 <LM>w#w-lnd92259-094-p2s3w21</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92259-094-p2s3w22">
 <src.rf>manual</src.rf>
@@ -544,8 +544,8 @@
 </w.rf>
 <form>přišel</form>
 <tag>
-<AM lemma="přijít" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="přijít_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="přijít" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="přijít" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92259-094-p2s4w18">
@@ -712,7 +712,7 @@
 <LM>w#w-lnd92259-094-p2s4w37</LM>
 </w.rf>
 <form>následoval</form>
-<tag lemma="následovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="následovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92259-094-p2s4w38">
 <src.rf>manual</src.rf>

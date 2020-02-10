@@ -219,7 +219,7 @@
 <LM>w#w-lnd92254-034-p3s2w4</LM>
 </w.rf>
 <form>požádal</form>
-<tag lemma="požádat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="požádat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92254-034-p3s2w5">
 <src.rf>manual</src.rf>

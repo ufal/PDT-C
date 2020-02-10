@@ -186,7 +186,7 @@
 <LM>w#w-mf930709-133-p2s1Bw13</LM>
 </w.rf>
 <form>rozešla</form>
-<tag lemma="rozejít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="rozejít" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930709-133-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -952,7 +952,7 @@
 <LM>w#w-mf930709-133-p2s5w7</LM>
 </w.rf>
 <form>chtěl</form>
-<tag lemma="chtít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="chtít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930709-133-p2s5w8">
 <src.rf>manual</src.rf>
@@ -1024,7 +1024,7 @@
 <LM>w#w-mf930709-133-p2s5w16</LM>
 </w.rf>
 <form>nesměl</form>
-<tag lemma="smět_:T" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="smět" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-mf930709-133-p2s5w17">
 <src.rf>manual</src.rf>
@@ -1416,7 +1416,7 @@
 <LM>w#w-mf930709-133-p2s9w6</LM>
 </w.rf>
 <form>určena</form>
-<tag lemma="určit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="určit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf930709-133-p2s9w7">
 <src.rf>manual</src.rf>

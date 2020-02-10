@@ -119,7 +119,7 @@
 <LM>w#w-d1t964-11</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m774-d1t969-1">
 <w.rf>
@@ -188,7 +188,7 @@
 <LM>w#w-d1t969-9</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m774-d1t992-3">
 <w.rf>
@@ -230,7 +230,7 @@
 <LM>w#w-d1t995-2</LM>
 </w.rf>
 <form>odvezen</form>
-<tag lemma="odvézt" src="auto" recommended="1">VsYS---XX-AP---</tag>
+<tag lemma="odvézt" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m774-d1t995-4">
 <w.rf>
@@ -334,7 +334,7 @@
 <LM>w#w-d1t973-5</LM>
 </w.rf>
 <form>zahynul</form>
-<tag lemma="zahynout" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="zahynout" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m774-5532-5564">
 <w.rf>

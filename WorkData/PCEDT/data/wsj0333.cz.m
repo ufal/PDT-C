@@ -69,7 +69,7 @@
 <LM>w#w-wsj0333-001-p1s0W6</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0333-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -574,7 +574,7 @@
 <LM>w#w-wsj0333-001-p1s1W28</LM>
 </w.rf>
 <form>trval</form>
-<tag lemma="trvat" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="trvat" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj0333-001-p1s1W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -867,7 +867,7 @@
 <LM>w#w-wsj0333-001-p1s2W6</LM>
 </w.rf>
 <form>mohl</form>
-<tag lemma="moci" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj0333-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1249,7 +1249,7 @@
 <LM>w#w-wsj0333-001-p1s4W2</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0333-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1419,7 +1419,7 @@
 <LM>w#w-wsj0333-001-p1s5W2</LM>
 </w.rf>
 <form>prohlásil</form>
-<tag lemma="prohlásit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="prohlásit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0333-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1648,7 +1648,7 @@
 <LM>w#w-wsj0333-001-p1s6W3</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0333-001-p1s6W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1694,7 +1694,7 @@
 <LM>w#w-wsj0333-001-p1s6W7</LM>
 </w.rf>
 <form>oddělena</form>
-<tag lemma="oddělit" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="oddělit" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj0333-001-p1s6W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1829,7 +1829,7 @@
 <LM>w#w-wsj0333-001-p1s6W20</LM>
 </w.rf>
 <form>převzal</form>
-<tag lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0333-001-p1s6W21-Ta">
 <src.rf>tagger-a</src.rf>

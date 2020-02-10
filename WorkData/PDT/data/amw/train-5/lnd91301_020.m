@@ -273,7 +273,7 @@
 <LM>w#w-lnd91301-020-p3s2w16</LM>
 </w.rf>
 <form>dotázala</form>
-<tag lemma="dotázat" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="dotázat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-020-p3s2w17">
 <src.rf>manual</src.rf>

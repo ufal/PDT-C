@@ -249,7 +249,7 @@
 <LM>w#w-ln95042-037-p2s2w6</LM>
 </w.rf>
 <form>oznámil</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95042-037-p2s2w7">
 <src.rf>manual</src.rf>
@@ -313,7 +313,7 @@
 <LM>w#w-ln95042-037-p2s2w14</LM>
 </w.rf>
 <form>dopraven</form>
-<tag lemma="dopravit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="dopravit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95042-037-p2s2w15">
 <src.rf>manual</src.rf>

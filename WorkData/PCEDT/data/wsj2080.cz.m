@@ -338,7 +338,7 @@
 </w.rf>
 <form>klesla</form>
 <tag>
-<AM lemma="klesnout" src="auto" recommended="1">VpQW---XR-AAP-1</AM>
+<AM lemma="klesnout" src="auto" recommended="1">VpQW----R-AAP-1</AM>
 <AM lemma="klesnout" src="manual" selected="1">VpQW----R-AAP-1</AM>
 </tag>
 </m>
@@ -455,7 +455,7 @@
 </w.rf>
 <form>Byly</form>
 <tag>
-<AM lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="být" src="auto" recommended="1">VpTP----R-AAI--</AM>
 <AM lemma="být" src="manual" selected="1">VpTP----R-AAI--</AM>
 </tag>
 </m>
@@ -466,7 +466,7 @@
 </w.rf>
 <form>předloženy</form>
 <tag>
-<AM lemma="předložit" src="auto" recommended="1">VsTP---XX-APP--</AM>
+<AM lemma="předložit" src="auto" recommended="1">VsTP----X-APP--</AM>
 <AM lemma="předložit" src="manual" selected="1">VsTP----X-APP--</AM>
 </tag>
 </m>
@@ -617,7 +617,7 @@
 </w.rf>
 <form>byly</form>
 <tag>
-<AM lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="být" src="auto" recommended="1">VpTP----R-AAI--</AM>
 <AM lemma="být" src="manual" selected="1">VpTP----R-AAI--</AM>
 </tag>
 </m>
@@ -697,7 +697,7 @@
 </w.rf>
 <form>uvedla</form>
 <tag>
-<AM lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</AM>
+<AM lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</AM>
 <AM lemma="uvést" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
@@ -858,7 +858,7 @@
 </w.rf>
 <form>klesla</form>
 <tag>
-<AM lemma="klesnout" src="auto" recommended="1">VpQW---XR-AAP-1</AM>
+<AM lemma="klesnout" src="auto" recommended="1">VpQW----R-AAP-1</AM>
 <AM lemma="klesnout" src="manual" selected="1">VpQW----R-AAP-1</AM>
 </tag>
 </m>
@@ -975,7 +975,7 @@
 </w.rf>
 <form>Byly</form>
 <tag>
-<AM lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="být" src="auto" recommended="1">VpTP----R-AAI--</AM>
 <AM lemma="být" src="manual" selected="1">VpTP----R-AAI--</AM>
 </tag>
 </m>
@@ -986,7 +986,7 @@
 </w.rf>
 <form>předloženy</form>
 <tag>
-<AM lemma="předložit" src="auto" recommended="1">VsTP---XX-APP--</AM>
+<AM lemma="předložit" src="auto" recommended="1">VsTP----X-APP--</AM>
 <AM lemma="předložit" src="manual" selected="1">VsTP----X-APP--</AM>
 </tag>
 </m>
@@ -1137,7 +1137,7 @@
 </w.rf>
 <form>byly</form>
 <tag>
-<AM lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="být" src="auto" recommended="1">VpTP----R-AAI--</AM>
 <AM lemma="být" src="manual" selected="1">VpTP----R-AAI--</AM>
 </tag>
 </m>

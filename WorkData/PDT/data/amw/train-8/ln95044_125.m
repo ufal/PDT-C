@@ -667,7 +667,7 @@
 <LM>w#w-ln95044-125-p2s5w16</LM>
 </w.rf>
 <form>zastínil</form>
-<tag lemma="zastínit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zastínit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95044-125-p2s5w17">
 <src.rf>manual</src.rf>

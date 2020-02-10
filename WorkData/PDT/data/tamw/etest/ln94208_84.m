@@ -496,7 +496,7 @@
 <LM>w#w-ln94208-84-p3s1w2</LM>
 </w.rf>
 <form>rozhodl</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln94208-84-p3s1w3">
 <src.rf>manual</src.rf>
@@ -1453,7 +1453,7 @@
 <LM>w#w-ln94208-84-p4s1w16</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94208-84-p4s1w17">
 <src.rf>manual</src.rf>
@@ -1469,7 +1469,7 @@
 <LM>w#w-ln94208-84-p4s1w18</LM>
 </w.rf>
 <form>oživen</form>
-<tag lemma="oživit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="oživit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94208-84-p4s1w19">
 <src.rf>manual</src.rf>

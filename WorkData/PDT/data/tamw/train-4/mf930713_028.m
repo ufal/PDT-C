@@ -655,8 +655,8 @@
 </w.rf>
 <form>psal</form>
 <tag>
-<AM lemma="psát" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="psát_:T" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="psát" src="orig">VpYS----R-AAI--</AM>
+<AM lemma="psát" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-mf930713-028-p2s3w14">
@@ -919,8 +919,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930713-028-p2s5w23">

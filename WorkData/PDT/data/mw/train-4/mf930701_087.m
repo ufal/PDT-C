@@ -37,7 +37,7 @@
 <LM>w#w-mf930701-087-p2s1w1</LM>
 </w.rf>
 <form>PROŠLI</form>
-<tag lemma="projít_^(i_uplynout_[o_čase])" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="projít_^(i_uplynout_[o_čase])" src="auto" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930701-087-p2s1w2">
 <src.rf>manual</src.rf>
@@ -461,7 +461,7 @@
 <LM>w#w-mf930701-087-p5s1w3</LM>
 </w.rf>
 <form>vyšli</form>
-<tag lemma="vyjít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyjít" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930701-087-p5s1w4">
 <src.rf>manual</src.rf>
@@ -822,7 +822,7 @@
 <LM>w#w-mf930701-087-p5s4w12</LM>
 </w.rf>
 <form>rozhodli</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-mf930701-087-p5s4w13">
 <src.rf>manual</src.rf>
@@ -1190,7 +1190,7 @@
 <LM>w#w-mf930701-087-p6s2w5</LM>
 </w.rf>
 <form>nenašli</form>
-<tag lemma="najít" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="najít" src="orig" selected="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m-mf930701-087-p6s2w6">
 <src.rf>manual</src.rf>
@@ -1248,7 +1248,7 @@
 <LM>w#w-mf930701-087-p6s3w6</LM>
 </w.rf>
 <form>uzavřena</form>
-<tag lemma="uzavřít" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="uzavřít" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf930701-087-p6s3w7">
 <src.rf>manual</src.rf>
@@ -1288,7 +1288,7 @@
 <LM>w#w-mf930701-087-p6s3w11</LM>
 </w.rf>
 <form>otevřen</form>
-<tag lemma="otevřít" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="otevřít" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf930701-087-p6s3w12">
 <src.rf>manual</src.rf>
@@ -1352,7 +1352,7 @@
 <LM>w#w-mf930701-087-p6s3w19</LM>
 </w.rf>
 <form>uzavřena</form>
-<tag lemma="uzavřít" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="uzavřít" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf930701-087-p6s3w20">
 <src.rf>manual</src.rf>
@@ -1877,7 +1877,7 @@
 <LM>w#w-mf930701-087-p7s4w11</LM>
 </w.rf>
 <form>nazvala</form>
-<tag lemma="nazvat" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="nazvat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930701-087-p7s4w12">
 <src.rf>manual</src.rf>

@@ -326,7 +326,7 @@
 <LM>w#w-mf930702-003-p2s2w16</LM>
 </w.rf>
 <form>datovány</form>
-<tag lemma="datovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="datovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf930702-003-p2s2w17">
 <src.rf>manual</src.rf>
@@ -406,7 +406,7 @@
 <LM>w#w-mf930702-003-p2s2w26</LM>
 </w.rf>
 <form>přestal</form>
-<tag lemma="přestat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přestat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930702-003-p2s2w27">
 <src.rf>manual</src.rf>
@@ -464,7 +464,7 @@
 <LM>w#w-mf930702-003-p2s3w2</LM>
 </w.rf>
 <form>umožňoval</form>
-<tag lemma="umožňovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="umožňovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930702-003-p2s3w3">
 <src.rf>manual</src.rf>
@@ -579,7 +579,7 @@
 <LM>w#w-mf930702-003-p2s3w16</LM>
 </w.rf>
 <form>určeno</form>
-<tag lemma="určit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="určit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf930702-003-p2s3w17">
 <src.rf>manual</src.rf>
@@ -645,7 +645,7 @@
 <LM>w#w-mf930702-003-p2s4w3</LM>
 </w.rf>
 <form>označeni</form>
-<tag lemma="označit_:W" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="označit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-mf930702-003-p2s4w4">
 <src.rf>manual</src.rf>

@@ -362,7 +362,7 @@
 <LM>w#w-mf930702-042-p2s2w7</LM>
 </w.rf>
 <form>prokázala</form>
-<tag lemma="prokázat" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="prokázat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930702-042-p2s2w8">
 <src.rf>manual</src.rf>
@@ -423,7 +423,7 @@
 <LM>w#w-mf930702-042-p2s3w3</LM>
 </w.rf>
 <form>restaurován</form>
-<tag lemma="restaurovat_:T_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="restaurovat" src="orig" selected="1">VsYS----X-APB--</tag>
 </m>
 <m id="m-mf930702-042-p2s3w4">
 <src.rf>manual</src.rf>
@@ -463,7 +463,7 @@
 <LM>w#w-mf930702-042-p2s3w8</LM>
 </w.rf>
 <form>vystaven</form>
-<tag lemma="vystavit_:W_^(např._potvrzení)" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="vystavit_^(např._potvrzení)" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf930702-042-p2s3w9">
 <src.rf>manual</src.rf>

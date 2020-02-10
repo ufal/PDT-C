@@ -173,7 +173,7 @@
 <LM>w#w-ln95041-011-p2s1Bw5</LM>
 </w.rf>
 <form>odjeli</form>
-<tag lemma="odjet" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="odjet" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95041-011-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -1000,7 +1000,7 @@
 <LM>w#w-ln95041-011-p2s6w9</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dát" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95041-011-p2s6w10">
 <src.rf>manual</src.rf>
@@ -1853,8 +1853,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95041-011-p2s12w11">

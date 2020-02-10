@@ -54,7 +54,7 @@
 <LM>w#w-ln95040-001-p1s1w5</LM>
 </w.rf>
 <form>financoval</form>
-<tag lemma="financovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="financovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95040-001-p1s1w6">
 <src.rf>manual</src.rf>

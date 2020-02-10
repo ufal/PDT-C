@@ -143,7 +143,7 @@
 <LM>w#w-wsj0241-001-p1s0W9</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-wsj0241-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -151,7 +151,7 @@
 <LM>w#w-wsj0241-001-p1s0W10</LM>
 </w.rf>
 <form>zvoleno</form>
-<tag lemma="zvolit" src="auto" recommended="1">VsNS---XX-APP--</tag>
+<tag lemma="zvolit" src="auto" recommended="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-wsj0241-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1544,7 +1544,7 @@
 <LM>w#w-wsj0241-001-p1s1W4</LM>
 </w.rf>
 <form>rozšířila</form>
-<tag lemma="rozšířit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="rozšířit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0241-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1672,7 +1672,7 @@
 <AM lemma="jeden`1" src="auto">ClIS4----------</AM>
 <AM lemma="jeden`1" src="auto" recommended="1">ClYS1----------</AM>
 <AM lemma="jeden`1" src="auto">ClYS5----------</AM>
-<AM lemma="jíst" src="auto">VsYS---XX-API--</AM>
+<AM lemma="jíst" src="auto">VsYS----X-API--</AM>
 </tag>
 </m>
 <m id="m-wsj0241-001-p1s2W5-Ta">
@@ -1783,7 +1783,7 @@
 <LM>w#w-wsj0241-001-p1s2W9</LM>
 </w.rf>
 <form>odstoupil</form>
-<tag lemma="odstoupit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="odstoupit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0241-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1856,7 +1856,7 @@
 </w.rf>
 <form>odešli</form>
 <tag>
-<AM lemma="odejít" src="auto" recommended="1">VpMP---XR-AAP--</AM>
+<AM lemma="odejít" src="auto" recommended="1">VpMP----R-AAP--</AM>
 <AM lemma="odeslat" src="auto">Vi-S---2--A-P--</AM>
 <AM lemma="odeslat" src="auto">Vi-S---3--A-P-4</AM>
 </tag>

@@ -88,7 +88,7 @@
 <LM>w#w-wsj0356-001-p1s0W7</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0356-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -115,7 +115,7 @@
 <LM>w#w-wsj0356-001-p1s0W10</LM>
 </w.rf>
 <form>přijala</form>
-<tag lemma="přijmout" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="přijmout" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0356-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -189,7 +189,7 @@
 <LM>w#w-wsj0356-001-p1s0W17</LM>
 </w.rf>
 <form>ochránila</form>
-<tag lemma="ochránit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="ochránit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0356-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1002,7 +1002,7 @@
 <LM>w#w-wsj0356-001-p1s3W26</LM>
 </w.rf>
 <form>naznačila</form>
-<tag lemma="naznačit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="naznačit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0356-001-p1s3W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1459,7 +1459,7 @@
 <LM>w#w-wsj0356-001-p1s4W2</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0356-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>

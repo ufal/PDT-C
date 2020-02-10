@@ -171,7 +171,7 @@
 <LM>w#w-ln94205-7-p2s1Bw10</LM>
 </w.rf>
 <form>rozhodla</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln94205-7-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -455,7 +455,7 @@
 <LM>w#w-ln94205-7-p2s2w19</LM>
 </w.rf>
 <form>registrován</form>
-<tag lemma="registrovat_:T_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="registrovat" src="orig" selected="1">VsYS----X-APB--</tag>
 </m>
 <m id="m-ln94205-7-p2s2w20">
 <src.rf>manual</src.rf>
@@ -659,7 +659,7 @@
 <LM>w#w-ln94205-7-p3s2w3</LM>
 </w.rf>
 <form>získali</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94205-7-p3s2w4">
 <src.rf>manual</src.rf>
@@ -884,7 +884,7 @@
 <LM>w#w-ln94205-7-p4s1w15</LM>
 </w.rf>
 <form>obchodován</form>
-<tag lemma="obchodovat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="obchodovat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-ln94205-7-p4s1w16">
 <src.rf>manual</src.rf>
@@ -953,7 +953,7 @@
 <LM>w#w-ln94205-7-p4s1w23</LM>
 </w.rf>
 <form>ohodnotil</form>
-<tag lemma="ohodnotit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="ohodnotit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94205-7-p4s1w24">
 <src.rf>manual</src.rf>

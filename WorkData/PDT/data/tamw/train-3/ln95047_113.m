@@ -51,7 +51,7 @@
 <LM>w#w-ln95047-113-p1s1w5</LM>
 </w.rf>
 <form>staženy</form>
-<tag lemma="stáhnout" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="stáhnout" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 </s>
 <s id="m-ln95047-113-p2s1A">
@@ -138,7 +138,7 @@
 <LM>w#w-ln95047-113-p2s1Bw8</LM>
 </w.rf>
 <form>doporučila</form>
-<tag lemma="doporučit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="doporučit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95047-113-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -326,7 +326,7 @@
 <LM>w#w-ln95047-113-p2s3w5</LM>
 </w.rf>
 <form>stažena</form>
-<tag lemma="stáhnout" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="stáhnout" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln95047-113-p2s3w6">
 <src.rf>manual</src.rf>
@@ -448,7 +448,7 @@
 <LM>w#w-ln95047-113-p2s4w3</LM>
 </w.rf>
 <form>vyjádřila</form>
-<tag lemma="vyjádřit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyjádřit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95047-113-p2s4w4">
 <src.rf>manual</src.rf>
@@ -587,7 +587,7 @@
 <LM>w#w-ln95047-113-p2s5w3</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95047-113-p2s5w4">
 <src.rf>manual</src.rf>
@@ -603,7 +603,7 @@
 <LM>w#w-ln95047-113-p2s5w5</LM>
 </w.rf>
 <form>označen</form>
-<tag lemma="označit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="označit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95047-113-p2s5w6">
 <src.rf>manual</src.rf>
@@ -635,7 +635,7 @@
 <LM>w#w-ln95047-113-p2s5w9</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95047-113-p2s5w10">
 <src.rf>manual</src.rf>
@@ -643,7 +643,7 @@
 <LM>w#w-ln95047-113-p2s5w10</LM>
 </w.rf>
 <form>umístěn</form>
-<tag lemma="umístit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="umístit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95047-113-p2s5w11">
 <src.rf>manual</src.rf>
@@ -675,7 +675,7 @@
 <LM>w#w-ln95047-113-p2s5w14</LM>
 </w.rf>
 <form>inzeroval</form>
-<tag lemma="inzerovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="inzerovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln95047-113-p2s5w15">
 <src.rf>manual</src.rf>

@@ -819,7 +819,7 @@
 <LM>w#w-vesm9212-036-p2s4w13</LM>
 </w.rf>
 <form>překonali</form>
-<tag lemma="překonat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="překonat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-vesm9212-036-p2s4w14">
 <src.rf>manual</src.rf>
@@ -1478,7 +1478,7 @@
 <LM>w#w-vesm9212-036-p2s8w10</LM>
 </w.rf>
 <form>podařilo</form>
-<tag lemma="podařit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="podařit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-vesm9212-036-p2s8w11">
 <src.rf>manual</src.rf>
@@ -1502,7 +1502,7 @@
 <LM>w#w-vesm9212-036-p2s8w13</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-vesm9212-036-p2s8w14">
 <src.rf>manual</src.rf>

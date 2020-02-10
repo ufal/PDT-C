@@ -266,7 +266,7 @@
 <LM>w#w-mf930708-075-p1s3w5</LM>
 </w.rf>
 <form>nebyli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-mf930708-075-p1s3w6">
 <src.rf>manual</src.rf>
@@ -998,7 +998,7 @@
 <LM>w#w-mf930708-075-p1s9w6</LM>
 </w.rf>
 <form>pomohlo</form>
-<tag lemma="pomoci" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="pomoci" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-075-p1s9w7">
 <src.rf>manual</src.rf>
@@ -1030,7 +1030,7 @@
 <LM>w#w-mf930708-075-p1s9w11</LM>
 </w.rf>
 <form>vmísili</form>
-<tag lemma="vmísit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vmísit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930708-075-p1s9w12">
 <src.rf>manual</src.rf>
@@ -1078,7 +1078,7 @@
 <LM>w#w-mf930708-075-p1s9w17</LM>
 </w.rf>
 <form>učili</form>
-<tag lemma="učit_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="učit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930708-075-p1s9w18">
 <src.rf>manual</src.rf>
@@ -1364,7 +1364,7 @@
 <LM>w#w-mf930708-075-p1s12w6</LM>
 </w.rf>
 <form>vrácen</form>
-<tag lemma="vrátit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="vrátit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf930708-075-p1s12w7">
 <src.rf>manual</src.rf>

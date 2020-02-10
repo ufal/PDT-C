@@ -249,7 +249,7 @@
 <LM>w#w-ln95049-008-p2s1Cw14</LM>
 </w.rf>
 <form>podáno</form>
-<tag lemma="podat_:W_^(něco_[někomu]_[někam])" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="podat_^(něco_[někomu]_[někam])" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95049-008-p2s1Cw15">
 <src.rf>manual</src.rf>
@@ -658,7 +658,7 @@
 <LM>w#w-ln95049-008-p3s2w17</LM>
 </w.rf>
 <form>uložena</form>
-<tag lemma="uložit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="uložit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln95049-008-p3s2w18">
 <src.rf>manual</src.rf>
@@ -1022,7 +1022,7 @@
 <LM>w#w-ln95049-008-p3s4w15</LM>
 </w.rf>
 <form>uvedena</form>
-<tag lemma="uvést" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="uvést" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln95049-008-p3s4w16">
 <src.rf>manual</src.rf>
@@ -1389,7 +1389,7 @@
 <LM>w#w-ln95049-008-p4s2w20</LM>
 </w.rf>
 <form>zdržoval</form>
-<tag lemma="zdržovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zdržovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95049-008-p4s2w21">
 <src.rf>manual</src.rf>
@@ -1485,7 +1485,7 @@
 <LM>w#w-ln95049-008-p4s2w32</LM>
 </w.rf>
 <form>přesáhl</form>
-<tag lemma="přesáhnout" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přesáhnout" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-008-p4s2w33">
 <src.rf>manual</src.rf>
@@ -1755,7 +1755,7 @@
 <LM>w#w-ln95049-008-p4s3w30</LM>
 </w.rf>
 <form>přesáhl</form>
-<tag lemma="přesáhnout" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přesáhnout" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-008-p4s3w31">
 <src.rf>manual</src.rf>
@@ -2252,7 +2252,7 @@
 <LM>w#w-ln95049-008-p5s3w20</LM>
 </w.rf>
 <form>daněny</form>
-<tag lemma="danit_:T_^(proces_výpočtu_daní)" src="auto" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="danit_^(proces_výpočtu_daní)" src="auto" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln95049-008-p5s3w21">
 <src.rf>manual</src.rf>
@@ -2515,7 +2515,7 @@
 <LM>w#w-ln95049-008-p6s2w5</LM>
 </w.rf>
 <form>osvobozeny</form>
-<tag lemma="osvobodit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="osvobodit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln95049-008-p6s2w6">
 <src.rf>manual</src.rf>
@@ -2629,7 +2629,7 @@
 <LM>w#w-ln95049-008-p7s1w7</LM>
 </w.rf>
 <form>měli</form>
-<tag lemma="mít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95049-008-p7s1w8">
 <src.rf>manual</src.rf>

@@ -82,7 +82,7 @@
 <form>tk</form>
 <tag>
 <AM lemma="tk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="tknout" src="auto" recommended="1">VpYS---XR-AA--6</AM>
+<AM lemma="tknout" src="auto" recommended="1">VpYS----R-AAI-6</AM>
 <AM lemma="tk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -156,7 +156,7 @@
 <LM>w#w-mf930701-008-p2s1w12</LM>
 </w.rf>
 <form>schválila</form>
-<tag lemma="schválit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="schválit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930701-008-p2s1w13">
 <src.rf>manual</src.rf>
@@ -238,7 +238,7 @@
 <LM>w#w-mf930701-008-p2s2w8</LM>
 </w.rf>
 <form>valorizovány</form>
-<tag lemma="valorizovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="valorizovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf930701-008-p2s2w9">
 <src.rf>manual</src.rf>
@@ -491,7 +491,7 @@
 <LM>w#w-mf930701-008-p3s1w3</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930701-008-p3s1w4">
 <src.rf>manual</src.rf>
@@ -500,8 +500,8 @@
 </w.rf>
 <form>převezen</form>
 <tag>
-<AM lemma="převézt" src="orig">VsYS---XX-AP---</AM>
-<AM lemma="převézt_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+<AM lemma="převézt" src="orig">VsYS----X-APP--</AM>
+<AM lemma="převézt" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-mf930701-008-p3s1w5">
@@ -636,7 +636,7 @@
 <LM>w#w-mf930701-008-p4s1w14</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930701-008-p4s1w15">
 <src.rf>manual</src.rf>
@@ -668,7 +668,7 @@
 <LM>w#w-mf930701-008-p4s1w18</LM>
 </w.rf>
 <form>zraněn</form>
-<tag lemma="zranit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zranit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf930701-008-p4s1w19">
 <src.rf>manual</src.rf>
@@ -709,8 +709,8 @@
 </w.rf>
 <form>převezl</form>
 <tag>
-<AM lemma="převézt" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="převézt_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="převézt" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="převézt" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930701-008-p4s1w24">

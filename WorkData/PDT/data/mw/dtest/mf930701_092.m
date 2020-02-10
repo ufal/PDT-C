@@ -1474,7 +1474,7 @@
 <LM>w#w-mf930701-092-p1s15w2</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930701-092-p1s15w3">
 <src.rf>manual</src.rf>

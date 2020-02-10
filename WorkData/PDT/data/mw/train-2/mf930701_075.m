@@ -96,7 +96,7 @@
 <LM>w#w-mf930701-075-p3s1w6</LM>
 </w.rf>
 <form>Narozen</form>
-<tag lemma="narodit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="narodit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf930701-075-p3s1w7">
 <src.rf>manual</src.rf>
@@ -228,7 +228,7 @@
 <LM>w#w-mf930701-075-p3s3w4</LM>
 </w.rf>
 <form>dostal</form>
-<tag lemma="dostat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dostat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-075-p3s3w5">
 <src.rf>manual</src.rf>
@@ -278,7 +278,7 @@
 <LM>w#w-mf930701-075-p3s4w2</LM>
 </w.rf>
 <form>Přivedl</form>
-<tag lemma="přivést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přivést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-075-p3s4w3">
 <src.rf>manual</src.rf>
@@ -1019,7 +1019,7 @@
 <LM>w#w-mf930701-075-p3s9w5</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930701-075-p3s9w6">
 <src.rf>manual</src.rf>
@@ -1035,7 +1035,7 @@
 <LM>w#w-mf930701-075-p3s9w7</LM>
 </w.rf>
 <form>nominován</form>
-<tag lemma="nominovat_:T_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="nominovat" src="orig" selected="1">VsYS----X-APB--</tag>
 </m>
 <m id="m-mf930701-075-p3s9w8">
 <src.rf>manual</src.rf>

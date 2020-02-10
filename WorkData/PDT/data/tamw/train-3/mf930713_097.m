@@ -138,7 +138,7 @@
 <LM>w#w-mf930713-097-p2s1Bw7</LM>
 </w.rf>
 <form>přestalo</form>
-<tag lemma="přestat" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="přestat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-097-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -284,7 +284,7 @@
 <LM>w#w-mf930713-097-p2s2w12</LM>
 </w.rf>
 <form>vyústily</form>
-<tag lemma="vyústit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vyústit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf930713-097-p2s2w13">
 <src.rf>manual</src.rf>
@@ -588,7 +588,7 @@
 <LM>w#w-mf930713-097-p3s1w2</LM>
 </w.rf>
 <form>Popraven</form>
-<tag lemma="popravit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="popravit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf930713-097-p3s1w3">
 <src.rf>manual</src.rf>
@@ -604,7 +604,7 @@
 <LM>w#w-mf930713-097-p3s1w4</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930713-097-p3s1w5">
 <src.rf>manual</src.rf>
@@ -681,7 +681,7 @@
 <LM>w#w-mf930713-097-p3s2w3</LM>
 </w.rf>
 <form>zastřelili</form>
-<tag lemma="zastřelit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zastřelit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930713-097-p3s2w4">
 <src.rf>manual</src.rf>
@@ -755,7 +755,7 @@
 <LM>w#w-mf930713-097-p3s3w4</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930713-097-p3s3w5">
 <src.rf>manual</src.rf>
@@ -893,7 +893,7 @@
 <LM>w#w-mf930713-097-p3s4w11</LM>
 </w.rf>
 <form>střílel</form>
-<tag lemma="střílet_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="střílet" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930713-097-p3s4w12">
 <src.rf>manual</src.rf>

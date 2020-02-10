@@ -51,7 +51,7 @@
 <LM>w#w-mf930709-088-p1s1w5</LM>
 </w.rf>
 <form>zaběhl</form>
-<tag lemma="zaběhnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="zaběhnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf930709-088-p1s1w6">
 <src.rf>manual</src.rf>

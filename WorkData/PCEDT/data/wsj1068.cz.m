@@ -58,7 +58,7 @@
 <LM>w#w-wsj1068-001-p1s0W5</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1068-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -891,7 +891,7 @@
 <LM>w#w-wsj1068-001-p1s3W3</LM>
 </w.rf>
 <form>podmíněna</form>
-<tag lemma="podmínit" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="podmínit" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj1068-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>

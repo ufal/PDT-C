@@ -767,7 +767,7 @@
 <LM>w#w-ln94202-12-p1s6w6</LM>
 </w.rf>
 <form>nabízeno</form>
-<tag lemma="nabízet_:T" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="nabízet" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-ln94202-12-p1s6w7">
 <src.rf>manual</src.rf>

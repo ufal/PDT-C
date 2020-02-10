@@ -556,7 +556,7 @@
 <LM>w#w-mf930703-110-p2s4w8</LM>
 </w.rf>
 <form>prodloužily</form>
-<tag lemma="prodloužit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="prodloužit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf930703-110-p2s4w9">
 <src.rf>manual</src.rf>
@@ -726,7 +726,7 @@
 <LM>w#w-mf930703-110-p2s5w10</LM>
 </w.rf>
 <form>přijeli</form>
-<tag lemma="přijet" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přijet" src="auto" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930703-110-p2s5w11">
 <src.rf>manual</src.rf>
@@ -801,7 +801,7 @@
 <LM>w#w-mf930703-110-p2s5w19</LM>
 </w.rf>
 <form>vyloučeni</form>
-<tag lemma="vyloučit" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="vyloučit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-mf930703-110-p2s5w20">
 <src.rf>manual</src.rf>

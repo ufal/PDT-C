@@ -159,7 +159,7 @@
 <LM>w#w-wsj0678-001-p1s0W14</LM>
 </w.rf>
 <form>plánovány</form>
-<tag lemma="plánovat" src="auto" recommended="1">VsTP---XX-API--</tag>
+<tag lemma="plánovat" src="auto" recommended="1">VsTP----X-API--</tag>
 </m>
 <m id="m-wsj0678-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>

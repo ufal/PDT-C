@@ -115,7 +115,7 @@
 <LM>w#w-wsj1420-001-p1s0W7</LM>
 </w.rf>
 <form>uvedlo</form>
-<tag lemma="uvést" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj1420-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -142,7 +142,7 @@
 <LM>w#w-wsj1420-001-p1s0W10</LM>
 </w.rf>
 <form>zavedlo</form>
-<tag lemma="zavést" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="zavést" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj1420-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>

@@ -117,7 +117,7 @@
 <LM>w#w-mf930702-021-p2s1w9</LM>
 </w.rf>
 <form>mělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930702-021-p2s1w10">
 <src.rf>manual</src.rf>
@@ -436,7 +436,7 @@
 <LM>w#w-mf930702-021-p2s3w7</LM>
 </w.rf>
 <form>zbrzdily</form>
-<tag lemma="zbrzdit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zbrzdit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf930702-021-p2s3w8">
 <src.rf>manual</src.rf>

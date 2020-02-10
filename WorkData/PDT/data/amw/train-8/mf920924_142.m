@@ -27,7 +27,7 @@
 <LM>w#w-mf920924-142-p1s1w2</LM>
 </w.rf>
 <form>vyloučena</form>
-<tag lemma="vyloučit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="vyloučit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf920924-142-p1s1w3">
 <src.rf>manual</src.rf>
@@ -114,7 +114,7 @@
 <LM>w#w-mf920924-142-p3s1Aw2</LM>
 </w.rf>
 <form>vyloučena</form>
-<tag lemma="vyloučit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="vyloučit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf920924-142-p3s1Aw3">
 <src.rf>manual</src.rf>
@@ -263,7 +263,7 @@
 <LM>w#w-mf920924-142-p3s1Bw11</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920924-142-p3s1Bw12">
 <src.rf>manual</src.rf>
@@ -272,8 +272,8 @@
 </w.rf>
 <form>vykázána</form>
 <tag>
-<AM lemma="vykázat" src="orig">VsQW---XX-AP---</AM>
-<AM lemma="vykázat_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+<AM lemma="vykázat" src="orig">VsQW----X-APP--</AM>
+<AM lemma="vykázat" src="manual" selected="1">VsQW----X-APP--</AM>
 </tag>
 </m>
 <m id="m-mf920924-142-p3s1Bw13">
@@ -500,7 +500,7 @@
 <LM>w#w-mf920924-142-p3s3w2</LM>
 </w.rf>
 <form>rozhodlo</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpNS---XR-AA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpNS----R-AAP-1</tag>
 </m>
 <m id="m-mf920924-142-p3s3w3">
 <src.rf>manual</src.rf>
@@ -604,7 +604,7 @@
 <LM>w#w-mf920924-142-p3s3w16</LM>
 </w.rf>
 <form>neprohlásilo</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-mf920924-142-p3s3w17">
 <src.rf>manual</src.rf>
@@ -940,7 +940,7 @@
 <LM>w#w-mf920924-142-p3s4w17</LM>
 </w.rf>
 <form>nepostupovalo</form>
-<tag lemma="postupovat_:T" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="postupovat" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-mf920924-142-p3s4w18">
 <src.rf>manual</src.rf>
@@ -1358,7 +1358,7 @@
 <LM>w#w-mf920924-142-p3s6w18</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920924-142-p3s6w19">
 <src.rf>manual</src.rf>
@@ -1513,7 +1513,7 @@
 <LM>w#w-mf920924-142-p3s7w12</LM>
 </w.rf>
 <form>zamýšlen</form>
-<tag lemma="zamýšlet_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zamýšlet" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-mf920924-142-p3s7w13">
 <src.rf>manual</src.rf>
@@ -1880,7 +1880,7 @@
 <LM>w#w-mf920924-142-p3s9w2</LM>
 </w.rf>
 <form>zašla</form>
-<tag lemma="zajít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zajít" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920924-142-p3s9w3">
 <src.rf>manual</src.rf>
@@ -2005,8 +2005,8 @@
 </w.rf>
 <form>začali</form>
 <tag>
-<AM lemma="začít-1_^(začnout)" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpMP---XR-AA---</AM>
+<AM lemma="začít-1_^(začnout)" src="auto">VpMP----R-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920924-142-p3s9w18">
@@ -2089,7 +2089,7 @@
 <LM>w#w-mf920924-142-p3s10w2</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920924-142-p3s10w3">
 <src.rf>manual</src.rf>
@@ -2154,8 +2154,8 @@
 </w.rf>
 <form>nepřišel</form>
 <tag>
-<AM lemma="přijít" src="orig">VpYS---XR-NA---</AM>
-<AM lemma="přijít_:W" src="manual" selected="1">VpYS---XR-NA---</AM>
+<AM lemma="přijít" src="orig">VpYS----R-NAP--</AM>
+<AM lemma="přijít" src="manual" selected="1">VpYS----R-NAP--</AM>
 </tag>
 </m>
 <m id="m-mf920924-142-p3s10w11">
@@ -2510,8 +2510,8 @@
 </w.rf>
 <form>minulo</form>
 <tag>
-<AM lemma="minout" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="minout_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="minout" src="orig">VpNS----R-AAP--</AM>
+<AM lemma="minout" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920924-142-p3s13w7">

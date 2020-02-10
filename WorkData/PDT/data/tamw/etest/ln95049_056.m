@@ -287,7 +287,7 @@
 <LM>w#w-ln95049-056-p2s2w13</LM>
 </w.rf>
 <form>převedla</form>
-<tag lemma="převést" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="převést" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95049-056-p2s2w14">
 <src.rf>manual</src.rf>
@@ -667,7 +667,7 @@
 <LM>w#w-ln95049-056-p3s2w13</LM>
 </w.rf>
 <form>vznikla</form>
-<tag lemma="vzniknout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="vzniknout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln95049-056-p3s2w14">
 <src.rf>manual</src.rf>
@@ -715,7 +715,7 @@
 <LM>w#w-ln95049-056-p3s2w19</LM>
 </w.rf>
 <form>zahajovala</form>
-<tag lemma="zahajovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zahajovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95049-056-p3s2w20">
 <src.rf>manual</src.rf>
@@ -885,7 +885,7 @@
 <LM>w#w-ln95049-056-p3s3w5</LM>
 </w.rf>
 <form>vznikla</form>
-<tag lemma="vzniknout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="vzniknout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln95049-056-p3s3w6">
 <src.rf>manual</src.rf>
@@ -1023,7 +1023,7 @@
 <LM>w#w-ln95049-056-p4s1w11</LM>
 </w.rf>
 <form>uvedeno</form>
-<tag lemma="uvést" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="uvést" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95049-056-p4s1w12">
 <src.rf>manual</src.rf>
@@ -1446,7 +1446,7 @@
 <LM>w#w-ln95049-056-p5s2w2</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95049-056-p5s2w3">
 <src.rf>manual</src.rf>
@@ -1534,7 +1534,7 @@
 <LM>w#w-ln95049-056-p5s2w13</LM>
 </w.rf>
 <form>umožnil</form>
-<tag lemma="umožnit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="umožnit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-056-p5s2w14">
 <src.rf>manual</src.rf>
@@ -1669,7 +1669,7 @@
 <form>mlk</form>
 <tag>
 <AM lemma="mlk-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="mlknout_:T" src="auto" recommended="1">VpYS---XR-AA--6</AM>
+<AM lemma="mlknout" src="auto" recommended="1">VpYS----R-AAI-6</AM>
 <AM lemma="mlk-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>

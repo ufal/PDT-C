@@ -143,7 +143,7 @@
 <LM>w#w-mf920901-098-p1s1w16</LM>
 </w.rf>
 <form>pokusili</form>
-<tag lemma="pokusit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="pokusit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920901-098-p1s1w17">
 <src.rf>manual</src.rf>
@@ -289,7 +289,7 @@
 <LM>w#w-mf920901-098-p1s2w10</LM>
 </w.rf>
 <form>vysloužili</form>
-<tag lemma="vysloužit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vysloužit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920901-098-p1s2w11">
 <src.rf>manual</src.rf>

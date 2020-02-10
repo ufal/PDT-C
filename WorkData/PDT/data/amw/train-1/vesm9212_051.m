@@ -969,7 +969,7 @@
 <LM>w#w-vesm9212-051-p3s3w38</LM>
 </w.rf>
 <form>dala</form>
-<tag lemma="dát" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="dát" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-vesm9212-051-p3s3w39">
 <src.rf>manual</src.rf>
@@ -1409,7 +1409,7 @@
 <LM>w#w-vesm9212-051-p3s6w5</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-vesm9212-051-p3s6w6">
 <src.rf>manual</src.rf>
@@ -1534,7 +1534,7 @@
 <LM>w#w-vesm9212-051-p3s7w10</LM>
 </w.rf>
 <form>získala</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-vesm9212-051-p3s7w11">
 <src.rf>manual</src.rf>
@@ -2253,7 +2253,7 @@
 <LM>w#w-vesm9212-051-p4s4w14</LM>
 </w.rf>
 <form>zaměřeno</form>
-<tag lemma="zaměřit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zaměřit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-vesm9212-051-p4s4w15">
 <src.rf>manual</src.rf>
@@ -2490,7 +2490,7 @@
 <form>nezasáhla</form>
 <tag>
 <AM lemma="zasáhnout" src="orig">VpQW---XR-NA---</AM>
-<AM lemma="zasáhnout_:W" src="auto" recommended="1" selected="1">VpQW---XR-NA--1</AM>
+<AM lemma="zasáhnout" src="auto" recommended="1" selected="1">VpQW----R-NAP-1</AM>
 </tag>
 </m>
 <m id="m-vesm9212-051-p4s6w7">

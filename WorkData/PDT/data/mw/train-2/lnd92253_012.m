@@ -385,7 +385,7 @@
 <LM>w#w-lnd92253-012-p2s3w13</LM>
 </w.rf>
 <form>omilostněn</form>
-<tag lemma="omilostnit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="omilostnit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd92253-012-p2s3w14">
 <src.rf>manual</src.rf>

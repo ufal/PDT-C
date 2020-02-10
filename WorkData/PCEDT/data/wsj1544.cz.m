@@ -96,7 +96,7 @@
 <LM>w#w-wsj1544-001-p1s0W8</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="auto" recommended="1">VpMP---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-wsj1544-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -104,7 +104,7 @@
 <LM>w#w-wsj1544-001-p1s0W9</LM>
 </w.rf>
 <form>osvobozeni</form>
-<tag lemma="osvobodit" src="auto" recommended="1">VsMP---XX-APP--</tag>
+<tag lemma="osvobodit" src="auto" recommended="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-wsj1544-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -462,7 +462,7 @@
 <LM>w#w-wsj1544-001-p1s1W7</LM>
 </w.rf>
 <form>očistili</form>
-<tag lemma="očistit" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="očistit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj1544-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -697,7 +697,7 @@
 <LM>w#w-wsj1544-001-p1s1W29</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="auto" recommended="1">VpMP---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-wsj1544-001-p1s1W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -876,7 +876,7 @@
 <LM>w#w-wsj1544-001-p1s2W11</LM>
 </w.rf>
 <form>souhlasila</form>
-<tag lemma="souhlasit" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="souhlasit" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj1544-001-p1s2W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1068,7 +1068,7 @@
 <LM>w#w-wsj1544-001-p1s2W26</LM>
 </w.rf>
 <form>spojeny</form>
-<tag lemma="spojit" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="spojit" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj1544-001-p1s2W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1351,7 +1351,7 @@
 <LM>w#w-wsj1544-001-p1s3W6</LM>
 </w.rf>
 <form>prodala</form>
-<tag lemma="prodat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="prodat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1544-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>

@@ -210,7 +210,7 @@
 <LM>w#w-mf920924-064-p2s2w16</LM>
 </w.rf>
 <form>převeden</form>
-<tag lemma="převést" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="převést" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf920924-064-p2s2w17">
 <src.rf>manual</src.rf>
@@ -250,7 +250,7 @@
 <LM>w#w-mf920924-064-p2s2w21</LM>
 </w.rf>
 <form>mělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920924-064-p2s2w22">
 <src.rf>manual</src.rf>
@@ -452,7 +452,7 @@
 <LM>w#w-mf920924-064-p2s3w8</LM>
 </w.rf>
 <form>zkomplikovala</form>
-<tag lemma="zkomplikovat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zkomplikovat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920924-064-p2s3w9">
 <src.rf>manual</src.rf>
@@ -558,7 +558,7 @@
 <LM>w#w-mf920924-064-p2s4w4</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf920924-064-p2s4w5">
 <src.rf>manual</src.rf>
@@ -566,7 +566,7 @@
 <LM>w#w-mf920924-064-p2s4w5</LM>
 </w.rf>
 <form>pokutováni</form>
-<tag lemma="pokutovat_:T" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="pokutovat" src="orig" selected="1">VsMP----X-API--</tag>
 </m>
 <m id="m-mf920924-064-p2s4w6">
 <src.rf>manual</src.rf>

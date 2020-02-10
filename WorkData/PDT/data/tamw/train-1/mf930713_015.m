@@ -276,7 +276,7 @@
 <LM>w#w-mf930713-015-p2s2w4</LM>
 </w.rf>
 <form>nastupoval</form>
-<tag lemma="nastupovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nastupovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930713-015-p2s2w5">
 <src.rf>manual</src.rf>
@@ -441,7 +441,7 @@
 <LM>w#w-mf930713-015-p2s2w24</LM>
 </w.rf>
 <form>dojel</form>
-<tag lemma="dojet" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dojet" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-015-p2s2w25">
 <src.rf>manual</src.rf>

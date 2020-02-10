@@ -129,7 +129,7 @@
 <LM>w#w-ln95041-019-p2s1w13</LM>
 </w.rf>
 <form>zranila</form>
-<tag lemma="zranit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zranit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95041-019-p2s1w14">
 <src.rf>manual</src.rf>
@@ -193,7 +193,7 @@
 <LM>w#w-ln95041-019-p2s1w21</LM>
 </w.rf>
 <form>skončila</form>
-<tag lemma="skončit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="skončit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95041-019-p2s1w22">
 <src.rf>manual</src.rf>
@@ -279,8 +279,8 @@
 </w.rf>
 <form>utrpěla</form>
 <tag>
-<AM lemma="utrpět" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="utrpět_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="utrpět" src="orig">VpQW----R-AAP--</AM>
+<AM lemma="utrpět" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95041-019-p2s2w10">
@@ -470,7 +470,7 @@
 <LM>w#w-ln95041-019-p3s1w16</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95041-019-p3s1w17">
 <src.rf>manual</src.rf>

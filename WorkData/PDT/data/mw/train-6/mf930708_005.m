@@ -324,7 +324,7 @@
 <LM>w#w-mf930708-005-p2s1w35</LM>
 </w.rf>
 <form>prodloužilo</form>
-<tag lemma="prodloužit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="prodloužit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-005-p2s1w36">
 <src.rf>manual</src.rf>
@@ -343,8 +343,8 @@
 </w.rf>
 <form>Řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930708-005-p2s2w2">
@@ -879,7 +879,7 @@
 <LM>w#w-mf930708-005-p4s1w11</LM>
 </w.rf>
 <form>nepožádala</form>
-<tag lemma="požádat_:W" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="požádat" src="orig" selected="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-mf930708-005-p4s1w12">
 <src.rf>manual</src.rf>
@@ -895,7 +895,7 @@
 <LM>w#w-mf930708-005-p4s1w13</LM>
 </w.rf>
 <form>uvažovala</form>
-<tag lemma="uvažovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="uvažovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930708-005-p4s1w14">
 <src.rf>manual</src.rf>
@@ -995,7 +995,7 @@
 <LM>w#w-mf930708-005-p4s3w3</LM>
 </w.rf>
 <form>odmítli</form>
-<tag lemma="odmítnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="odmítnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-mf930708-005-p4s3w4">
 <src.rf>manual</src.rf>
@@ -1085,7 +1085,7 @@
 <LM>w#w-mf930708-005-p5s1w8</LM>
 </w.rf>
 <form>kritizovalo</form>
-<tag lemma="kritizovat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="kritizovat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930708-005-p5s1w9">
 <src.rf>manual</src.rf>
@@ -1159,7 +1159,7 @@
 <LM>w#w-mf930708-005-p5s2w2</LM>
 </w.rf>
 <form>poukazovali</form>
-<tag lemma="poukazovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="poukazovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930708-005-p5s2w3">
 <src.rf>manual</src.rf>

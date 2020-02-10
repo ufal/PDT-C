@@ -19,7 +19,7 @@
 <LM>w#w-ln95045-076-p1s1w1</LM>
 </w.rf>
 <form>Pěstoval</form>
-<tag lemma="pěstovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="pěstovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95045-076-p1s1w2">
 <src.rf>manual</src.rf>
@@ -87,7 +87,7 @@
 <LM>w#w-ln95045-076-p2s1Bw2</LM>
 </w.rf>
 <form>kouřil</form>
-<tag lemma="kouřit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="kouřit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95045-076-p2s1Bw3">
 <src.rf>manual</src.rf>
@@ -194,7 +194,7 @@
 <LM>w#w-ln95045-076-p2s1Bw15</LM>
 </w.rf>
 <form>poskytoval</form>
-<tag lemma="poskytovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="poskytovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95045-076-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -253,7 +253,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>vypěstoval</form>
-<tag lemma="vypěstovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vypěstovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-076-p2s2w3">
 <src.rf>manual</src.rf>
@@ -471,7 +471,7 @@
 <LM>w#w-ln95045-076-p2s3w4</LM>
 </w.rf>
 <form>obvinil</form>
-<tag lemma="obvinit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="obvinit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-076-p2s3w5">
 <src.rf>manual</src.rf>
@@ -724,7 +724,7 @@
 <LM>w#w-ln95045-076-p2s4w5</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95045-076-p2s4w6">
 <src.rf>manual</src.rf>
@@ -828,7 +828,7 @@
 <LM>w#w-ln95045-076-p2s4w18</LM>
 </w.rf>
 <form>nastoupil</form>
-<tag lemma="nastoupit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nastoupit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-076-p2s4w19">
 <src.rf>manual</src.rf>
@@ -940,7 +940,7 @@
 <LM>w#w-ln95045-076-p2s4w32</LM>
 </w.rf>
 <form>nedocházel</form>
-<tag lemma="docházet_:T" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="docházet" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-ln95045-076-p2s4w33">
 <src.rf>manual</src.rf>

@@ -79,7 +79,7 @@
 <LM>w#w-ln95043-028-p2s1Bw4</LM>
 </w.rf>
 <form>dominovaly</form>
-<tag lemma="dominovat_:T_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="dominovat" src="orig" selected="1">VpTP----R-AAB--</tag>
 </m>
 <m id="m-ln95043-028-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -213,7 +213,7 @@
 <LM>w#w-ln95043-028-p2s2w3</LM>
 </w.rf>
 <form>zaplaval</form>
-<tag lemma="zaplavat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zaplavat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95043-028-p2s2w4">
 <src.rf>manual</src.rf>
@@ -294,7 +294,7 @@
 <LM>w#w-ln95043-028-p2s2w12</LM>
 </w.rf>
 <form>odsunul</form>
-<tag lemma="odsunout" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odsunout" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95043-028-p2s2w13">
 <src.rf>manual</src.rf>
@@ -425,7 +425,7 @@
 <LM>w#w-ln95043-028-p2s3w4</LM>
 </w.rf>
 <form>přidala</form>
-<tag lemma="přidat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="přidat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95043-028-p2s3w5">
 <src.rf>manual</src.rf>
@@ -465,7 +465,7 @@
 <LM>w#w-ln95043-028-p2s3w9</LM>
 </w.rf>
 <form>dohmátla</form>
-<tag lemma="dohmátnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="dohmátnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln95043-028-p2s3w10">
 <src.rf>manual</src.rf>
@@ -539,7 +539,7 @@
 <LM>w#w-ln95043-028-p2s3w17</LM>
 </w.rf>
 <form>překonala</form>
-<tag lemma="překonat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="překonat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95043-028-p2s3w18">
 <src.rf>manual</src.rf>
@@ -648,8 +648,8 @@
 <form>děly</form>
 <tag>
 <AM lemma="dít" src="orig">VpTP---XR-AA---</AM>
-<AM lemma="dít-1_^(dít_se)" src="auto" recommended="1" selected="1">VpTP---XR-AA---</AM>
-<AM lemma="dít-2_^(říkat)" src="auto">VpTP---XR-AA---</AM>
+<AM lemma="dít-1_^(dít_se)" src="auto" recommended="1" selected="1">VpTP----R-AAI--</AM>
+<AM lemma="dít-2_^(říkat)" src="auto">VpTP----R-AAP--</AM>
 <AM lemma="dělo" src="auto">NNNP7-----A----</AM>
 </tag>
 </m>
@@ -715,7 +715,7 @@
 <LM>w#w-ln95043-028-p2s4w12</LM>
 </w.rf>
 <form>vytvořila</form>
-<tag lemma="vytvořit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vytvořit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95043-028-p2s4w13">
 <src.rf>manual</src.rf>
@@ -821,7 +821,7 @@
 <LM>w#w-ln95043-028-p2s4w24</LM>
 </w.rf>
 <form>překonala</form>
-<tag lemma="překonat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="překonat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95043-028-p2s4w25">
 <src.rf>manual</src.rf>
@@ -978,7 +978,7 @@
 <LM>w#w-ln95043-028-p2s4w42</LM>
 </w.rf>
 <form>vymazal</form>
-<tag lemma="vymazat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vymazat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95043-028-p2s4w43">
 <src.rf>manual</src.rf>
@@ -1146,7 +1146,7 @@
 <LM>w#w-ln95043-028-p2s5w5</LM>
 </w.rf>
 <form>obsadila</form>
-<tag lemma="obsadit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="obsadit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95043-028-p2s5w6">
 <src.rf>manual</src.rf>
@@ -1284,7 +1284,7 @@
 <LM>w#w-ln95043-028-p2s5w21</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95043-028-p2s5w22">
 <src.rf>manual</src.rf>
@@ -1383,7 +1383,7 @@
 <LM>w#w-ln95043-028-p2s6w4</LM>
 </w.rf>
 <form>obsadila</form>
-<tag lemma="obsadit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="obsadit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95043-028-p2s6w5">
 <src.rf>manual</src.rf>
@@ -1552,7 +1552,7 @@
 <LM>w#w-ln95043-028-p2s7w3</LM>
 </w.rf>
 <form>doplavala</form>
-<tag lemma="doplavat" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="doplavat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95043-028-p2s7w4">
 <src.rf>manual</src.rf>

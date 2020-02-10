@@ -43,7 +43,7 @@
 <LM>w#w-ln95047-119-p1s1w4</LM>
 </w.rf>
 <form>rozhořčila</form>
-<tag lemma="rozhořčit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="rozhořčit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 </s>
 <s id="m-ln95047-119-p2s1A">
@@ -104,8 +104,8 @@
 </w.rf>
 <form>přijali</form>
 <tag>
-<AM lemma="přijmout" src="auto">VpMP---XR-AA---</AM>
-<AM lemma="přijmout_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+<AM lemma="přijmout" src="auto">VpMP----R-AAP--</AM>
+<AM lemma="přijmout" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95047-119-p2s1Bw6">
@@ -234,7 +234,7 @@
 <LM>w#w-ln95047-119-p2s1Bw21</LM>
 </w.rf>
 <form>sešli</form>
-<tag lemma="sejít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="sejít" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95047-119-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -258,7 +258,7 @@
 <LM>w#w-ln95047-119-p2s1Bw25</LM>
 </w.rf>
 <form>zformulovali</form>
-<tag lemma="zformulovat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zformulovat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95047-119-p2s1Bw26">
 <src.rf>manual</src.rf>
@@ -348,7 +348,7 @@
 <LM>w#w-ln95047-119-p2s2w5</LM>
 </w.rf>
 <form>označili</form>
-<tag lemma="označit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="označit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95047-119-p2s2w6">
 <src.rf>manual</src.rf>

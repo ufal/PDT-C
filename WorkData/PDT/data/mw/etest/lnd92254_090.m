@@ -144,7 +144,7 @@
 <LM>w#w-lnd92254-090-p2s2w9</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd92254-090-p2s2w10">
 <src.rf>manual</src.rf>
@@ -152,7 +152,7 @@
 <LM>w#w-lnd92254-090-p2s2w10</LM>
 </w.rf>
 <form>vylosovány</form>
-<tag lemma="vylosovat_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="vylosovat" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd92254-090-p2s2w11">
 <src.rf>manual</src.rf>
@@ -705,7 +705,7 @@
 <LM>w#w-lnd92254-090-p2s4w26</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd92254-090-p2s4w27">
 <src.rf>manual</src.rf>

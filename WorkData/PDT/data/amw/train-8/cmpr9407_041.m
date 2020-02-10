@@ -122,7 +122,7 @@
 <LM>w#w-cmpr9407-041-p4s1w7</LM>
 </w.rf>
 <form>činil</form>
-<tag lemma="činit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="činit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9407-041-p4s1w8">
 <src.rf>manual</src.rf>
@@ -216,7 +216,7 @@
 <LM>w#w-cmpr9407-041-p4s1w18</LM>
 </w.rf>
 <form>převyšoval</form>
-<tag lemma="převyšovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="převyšovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9407-041-p4s1w19">
 <src.rf>manual</src.rf>
@@ -301,7 +301,7 @@
 <LM>w#w-cmpr9407-041-p4s2w4</LM>
 </w.rf>
 <form>stoupl</form>
-<tag lemma="stoupnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="stoupnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-cmpr9407-041-p4s2w5">
 <src.rf>manual</src.rf>
@@ -431,7 +431,7 @@
 <LM>w#w-cmpr9407-041-p4s3w5</LM>
 </w.rf>
 <form>tvořily</form>
-<tag lemma="tvořit_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="tvořit" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-cmpr9407-041-p4s3w6">
 <src.rf>manual</src.rf>
@@ -609,7 +609,7 @@
 <LM>w#w-cmpr9407-041-p4s4w5</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-cmpr9407-041-p4s4w6">
 <src.rf>manual</src.rf>
@@ -1098,7 +1098,7 @@
 <LM>w#w-cmpr9407-041-p5s2w6</LM>
 </w.rf>
 <form>dosáhly</form>
-<tag lemma="dosáhnout" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="dosáhnout" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-cmpr9407-041-p5s2w7">
 <src.rf>manual</src.rf>
@@ -1179,7 +1179,7 @@
 <LM>w#w-cmpr9407-041-p5s2w15</LM>
 </w.rf>
 <form>směrován</form>
-<tag lemma="směrovat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="směrovat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-cmpr9407-041-p5s2w16">
 <src.rf>manual</src.rf>
@@ -1536,8 +1536,8 @@
 </w.rf>
 <form>řízeny</form>
 <tag>
-<AM lemma="řídit" src="orig">VsTP---XX-AP---</AM>
-<AM lemma="řídit_:T" src="manual" selected="1">VsTP---XX-AP---</AM>
+<AM lemma="řídit" src="orig">VsTP----X-API--</AM>
+<AM lemma="řídit" src="manual" selected="1">VsTP----X-API--</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-041-p5s3w12">
@@ -2248,8 +2248,8 @@
 </w.rf>
 <form>zaveden</form>
 <tag>
-<AM lemma="zavést" src="orig">VsYS---XX-AP---</AM>
-<AM lemma="zavést_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+<AM lemma="zavést" src="orig">VsYS----X-APP--</AM>
+<AM lemma="zavést" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-041-p7s6w3">

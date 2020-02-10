@@ -299,7 +299,7 @@
 <LM>w#w-ln94200-35-p3s1w6</LM>
 </w.rf>
 <form>nedělalo</form>
-<tag lemma="dělat_:T" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="dělat" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-ln94200-35-p3s1w7">
 <src.rf>manual</src.rf>
@@ -358,7 +358,7 @@
 <LM>w#w-ln94200-35-p3s1w13</LM>
 </w.rf>
 <form>změnil</form>
-<tag lemma="změnit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="změnit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-35-p3s1w14">
 <src.rf>manual</src.rf>
@@ -816,7 +816,7 @@
 <LM>w#w-ln94200-35-p4s3w6</LM>
 </w.rf>
 <form>uplatňoval</form>
-<tag lemma="uplatňovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uplatňovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94200-35-p4s3w7">
 <src.rf>manual</src.rf>
@@ -874,7 +874,7 @@
 <LM>w#w-ln94200-35-p4s4w4</LM>
 </w.rf>
 <form>vedly</form>
-<tag lemma="vést" src="auto" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vést" src="auto" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94200-35-p4s4w5">
 <src.rf>manual</src.rf>
@@ -954,7 +954,7 @@
 <LM>w#w-ln94200-35-p4s4w14</LM>
 </w.rf>
 <form>pracoval</form>
-<tag lemma="pracovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="pracovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94200-35-p4s4w15">
 <src.rf>manual</src.rf>
@@ -1010,7 +1010,7 @@
 <LM>w#w-ln94200-35-p4s4w21</LM>
 </w.rf>
 <form>vedl</form>
-<tag lemma="vést" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vést" src="auto" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94200-35-p4s4w22">
 <src.rf>manual</src.rf>
@@ -1108,7 +1108,7 @@
 <LM>w#w-ln94200-35-p5s1w9</LM>
 </w.rf>
 <form>angažoval</form>
-<tag lemma="angažovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="angažovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94200-35-p5s1w10">
 <src.rf>manual</src.rf>
@@ -1246,7 +1246,7 @@
 <LM>w#w-ln94200-35-p5s2Aw7</LM>
 </w.rf>
 <form>jmenoval</form>
-<tag lemma="jmenovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="jmenovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln94200-35-p5s2Aw8">
 <src.rf>manual</src.rf>

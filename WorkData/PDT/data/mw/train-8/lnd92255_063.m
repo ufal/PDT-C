@@ -91,7 +91,7 @@
 <LM>w#w-lnd92255-063-p1s1w10</LM>
 </w.rf>
 <form>pokoušel</form>
-<tag lemma="pokoušet_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="pokoušet" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92255-063-p1s1w11">
 <src.rf>manual</src.rf>
@@ -147,7 +147,7 @@
 <LM>w#w-lnd92255-063-p1s1w17</LM>
 </w.rf>
 <form>uvázly</form>
-<tag lemma="uváznout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="uváznout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-lnd92255-063-p1s1w18">
 <src.rf>manual</src.rf>

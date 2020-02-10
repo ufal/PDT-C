@@ -101,7 +101,7 @@
 <LM>w#w-mf930702-065-p2s1w9</LM>
 </w.rf>
 <form>neprokázala</form>
-<tag lemma="prokázat" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="prokázat" src="orig" selected="1">VpQW----R-NAP--</tag>
 </m>
 </s>
 <s id="m-mf930702-065-p3s1">
@@ -385,7 +385,7 @@
 <LM>w#w-mf930702-065-p10s1w4</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930702-065-p10s1w5">
 <src.rf>manual</src.rf>
@@ -393,7 +393,7 @@
 <LM>w#w-mf930702-065-p10s1w5</LM>
 </w.rf>
 <form>zneužita</form>
-<tag lemma="zneužít" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zneužít" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 </s>
 <s id="m-mf930702-065-p11s1">

@@ -115,7 +115,7 @@
 <LM>w#w-mf920922-055-p1s1w13</LM>
 </w.rf>
 <form>ukončili</form>
-<tag lemma="ukončit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="ukončit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920922-055-p1s1w14">
 <src.rf>manual</src.rf>

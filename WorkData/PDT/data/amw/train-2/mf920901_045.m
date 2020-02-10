@@ -59,7 +59,7 @@
 <LM>w#w-mf920901-045-p1s1w6</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920901-045-p1s1w7">
 <src.rf>manual</src.rf>

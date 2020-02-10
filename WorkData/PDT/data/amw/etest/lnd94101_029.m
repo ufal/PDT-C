@@ -301,7 +301,7 @@
 <LM>w#w-lnd94101-029-p1s3w26</LM>
 </w.rf>
 <form>nuceni</form>
-<tag lemma="nutit_:T" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="nutit" src="orig" selected="1">VsMP----X-API--</tag>
 </m>
 <m id="m-lnd94101-029-p1s3w27">
 <src.rf>manual</src.rf>
@@ -417,8 +417,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd94101-029-p1s4w4">
@@ -550,7 +550,7 @@
 <LM>w#w-lnd94101-029-p1s4w19</LM>
 </w.rf>
 <form>odsouhlasily</form>
-<tag lemma="odsouhlasit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="odsouhlasit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-029-p1s4w20">
 <src.rf>manual</src.rf>
@@ -693,8 +693,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd94101-029-p1s5w4">
@@ -1041,7 +1041,7 @@
 <LM>w#w-lnd94101-029-p1s6w29</LM>
 </w.rf>
 <form>přiděleny</form>
-<tag lemma="přidělit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="přidělit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd94101-029-p1s6w30">
 <src.rf>manual</src.rf>
@@ -1205,7 +1205,7 @@
 <LM>w#w-lnd94101-029-p1s8w10</LM>
 </w.rf>
 <form>zvýhodněna</form>
-<tag lemma="zvýhodnit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zvýhodnit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd94101-029-p1s8w11">
 <src.rf>manual</src.rf>

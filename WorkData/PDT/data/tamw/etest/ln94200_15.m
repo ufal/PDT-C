@@ -157,7 +157,7 @@
 <LM>w#w-ln94200-15-p2s1w16</LM>
 </w.rf>
 <form>zapsal</form>
-<tag lemma="zapsat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zapsat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-15-p2s1w17">
 <src.rf>manual</src.rf>

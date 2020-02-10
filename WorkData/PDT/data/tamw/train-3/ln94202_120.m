@@ -162,7 +162,7 @@
 <LM>w#w-ln94202-120-p1s1Bw3</LM>
 </w.rf>
 <form>zvítězil</form>
-<tag lemma="zvítězit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zvítězit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94202-120-p1s1Bw4">
 <src.rf>manual</src.rf>

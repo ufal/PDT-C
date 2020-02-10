@@ -2113,7 +2113,7 @@
 <LM>w#w-mf930708-072-p17s1w24</LM>
 </w.rf>
 <form>doplněno</form>
-<tag lemma="doplnit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="doplnit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf930708-072-p17s1w25">
 <src.rf>manual</src.rf>

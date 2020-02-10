@@ -486,7 +486,7 @@
 <LM>w#w-d1t49-8</LM>
 </w.rf>
 <form>popovídala</form>
-<tag lemma="popovídat_:W" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="popovídat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m025-d1t49-9">
 <w.rf>
@@ -1157,7 +1157,7 @@
 </w.rf>
 <form>sešli</form>
 <tag>
-<AM lemma="sejít" src="auto" recommended="1">VpMP---XR-AA---</AM>
+<AM lemma="sejít" src="auto" recommended="1">VpMP----R-AAP--</AM>
 <AM lemma="seslat" src="auto">Vi-S---2--A-P--</AM>
 <AM lemma="seslat" src="auto">Vi-S---3--A-P-4</AM>
 </tag>
@@ -1176,7 +1176,7 @@
 <LM>w#w-d1t85-1</LM>
 </w.rf>
 <form>Bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m025-d1t85-2">
 <w.rf>
@@ -1285,7 +1285,7 @@
 <LM>w#w-d1t104-3</LM>
 </w.rf>
 <form>konal</form>
-<tag lemma="konat_:T" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="konat" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m025-d-id57353-punct">
 <w.rf>
@@ -1372,7 +1372,7 @@
 <LM>w#w-d1t126-1</LM>
 </w.rf>
 <form>Sešla</form>
-<tag lemma="sejít" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="sejít" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m025-d1t126-2">
 <w.rf>
@@ -1436,7 +1436,7 @@
 <LM>w#w-d1t130-2</LM>
 </w.rf>
 <form>sešla</form>
-<tag lemma="sejít" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="sejít" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m025-d1t130-3">
 <w.rf>
@@ -1703,7 +1703,7 @@
 <LM>w#w-d1t171-4</LM>
 </w.rf>
 <form>bydlela</form>
-<tag lemma="bydlet" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="bydlet" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m025-d-id58643-punct">
 <w.rf>
@@ -1750,7 +1750,7 @@
 <LM>w#w-d1t177-4</LM>
 </w.rf>
 <form>bydlela</form>
-<tag lemma="bydlet" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="bydlet" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m025-d-m-d1e172-x2-punct-punct">
 <w.rf>
@@ -1821,7 +1821,7 @@
 <LM>w#w-d1t193-4</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m025-d1t193-5">
 <w.rf>
@@ -1846,7 +1846,7 @@
 <LM>w#w-d1t193-8</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m025-d1t195-1">
 <w.rf>
@@ -1946,7 +1946,7 @@
 <LM>w#w-d1t197-6</LM>
 </w.rf>
 <form>nebral</form>
-<tag lemma="brát" src="auto" recommended="1">VpYS---XR-NA---</tag>
+<tag lemma="brát" src="auto" recommended="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m025-d-m-d1e188-x2-punct-punct">
 <w.rf>
@@ -2488,7 +2488,7 @@
 <LM>w#w-d1t271-3</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m025-d1t271-4">
 <w.rf>
@@ -3225,7 +3225,7 @@
 <LM>w#w-d1t334-3</LM>
 </w.rf>
 <form>chodili</form>
-<tag lemma="chodit_:T" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="chodit" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m025-d1t338-4">
 <w.rf>
@@ -3320,7 +3320,7 @@
 <LM>w#w-d1t348-4</LM>
 </w.rf>
 <form>znali</form>
-<tag lemma="znát" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="znát" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m025-d-id62659-punct">
 <w.rf>
@@ -3365,7 +3365,7 @@
 <LM>w#w-d1t354-4</LM>
 </w.rf>
 <form>znali</form>
-<tag lemma="znát" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="znát" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m025-d1t360-1">
 <w.rf>
@@ -3423,7 +3423,7 @@
 <LM>w#w-d1t363-8</LM>
 </w.rf>
 <form>měli</form>
-<tag lemma="mít" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="mít" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m025-d1t363-9">
 <w.rf>

@@ -205,7 +205,7 @@
 <LM>w#w-mf930701-035-p2s1w19</LM>
 </w.rf>
 <form>nepřinesla</form>
-<tag lemma="přinést" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="přinést" src="orig" selected="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-mf930701-035-p2s1w20">
 <src.rf>manual</src.rf>
@@ -279,7 +279,7 @@
 <LM>w#w-mf930701-035-p2s2w5</LM>
 </w.rf>
 <form>nezpochybnili</form>
-<tag lemma="zpochybnit_:W" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="zpochybnit" src="orig" selected="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m-mf930701-035-p2s2w6">
 <src.rf>manual</src.rf>
@@ -569,7 +569,7 @@
 <LM>w#w-mf930701-035-p2s4w21</LM>
 </w.rf>
 <form>přestala</form>
-<tag lemma="přestat" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="přestat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930701-035-p2s4w22">
 <src.rf>manual</src.rf>
@@ -595,7 +595,7 @@
 <LM>w#w-mf930701-035-p2s5w1</LM>
 </w.rf>
 <form>Uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-035-p2s5w2">
 <src.rf>manual</src.rf>

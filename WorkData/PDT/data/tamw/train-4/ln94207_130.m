@@ -168,7 +168,7 @@
 <LM>w#w-ln94207-130-p2s1w18</LM>
 </w.rf>
 <form>zpřístupněn</form>
-<tag lemma="zpřístupnit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zpřístupnit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94207-130-p2s1w19">
 <src.rf>manual</src.rf>
@@ -226,7 +226,7 @@
 <LM>w#w-ln94207-130-p2s2w5</LM>
 </w.rf>
 <form>otevřeny</form>
-<tag lemma="otevřít" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="otevřít" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln94207-130-p2s2w6">
 <src.rf>manual</src.rf>
@@ -396,7 +396,7 @@
 <LM>w#w-ln94207-130-p3s1w9</LM>
 </w.rf>
 <form>neuzavřeli</form>
-<tag lemma="uzavřít" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="uzavřít" src="orig" selected="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m-ln94207-130-p3s1w10">
 <src.rf>manual</src.rf>
@@ -556,7 +556,7 @@
 <LM>w#w-ln94207-130-p3s1w29</LM>
 </w.rf>
 <form>nebylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-ln94207-130-p3s1w30">
 <src.rf>manual</src.rf>
@@ -639,8 +639,8 @@
 </w.rf>
 <form>Řekla</form>
 <tag>
-<AM lemma="říci" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpQW----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94207-130-p3s2w2">
@@ -710,7 +710,7 @@
 <LM>w#w-ln94207-130-p3s3w1</LM>
 </w.rf>
 <form>Dementovala</form>
-<tag lemma="dementovat_:T_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="dementovat" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-ln94207-130-p3s3w2">
 <src.rf>manual</src.rf>
@@ -801,7 +801,7 @@
 <LM>w#w-ln94207-130-p3s3w12</LM>
 </w.rf>
 <form>nebylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-ln94207-130-p3s3w13">
 <src.rf>manual</src.rf>
@@ -825,7 +825,7 @@
 <LM>w#w-ln94207-130-p3s3w15</LM>
 </w.rf>
 <form>vpuštěno</form>
-<tag lemma="vpustit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="vpustit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94207-130-p3s3w16">
 <src.rf>manual</src.rf>

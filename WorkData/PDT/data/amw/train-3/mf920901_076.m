@@ -71,7 +71,7 @@
 <form>sch</form>
 <tag>
 <AM lemma="sch-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="schnout" src="auto" recommended="1">VpYS---XR-AA--6</AM>
+<AM lemma="schnout" src="auto" recommended="1">VpYS----R-AAI-6</AM>
 <AM lemma="sch-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -524,7 +524,7 @@
 <LM>w#w-mf920901-076-p2s5w5</LM>
 </w.rf>
 <form>přihlásilo</form>
-<tag lemma="přihlásit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="přihlásit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920901-076-p2s5w6">
 <src.rf>manual</src.rf>
@@ -574,7 +574,7 @@
 <LM>w#w-mf920901-076-p2s6w3</LM>
 </w.rf>
 <form>ubytováni</form>
-<tag lemma="ubytovat_:W" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="ubytovat" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-mf920901-076-p2s6w4">
 <src.rf>manual</src.rf>

@@ -85,7 +85,7 @@
 <LM>w#w-lnd91303-095-p2s1w6</LM>
 </w.rf>
 <form>umístilo</form>
-<tag lemma="umístit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="umístit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-095-p2s1w7">
 <src.rf>manual</src.rf>
@@ -210,7 +210,7 @@
 <LM>w#w-lnd91303-095-p2s2w2</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-095-p2s2w3">
 <src.rf>manual</src.rf>
@@ -234,7 +234,7 @@
 <LM>w#w-lnd91303-095-p2s2w5</LM>
 </w.rf>
 <form>uspěly</form>
-<tag lemma="uspět" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="uspět" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-095-p2s2w6">
 <src.rf>manual</src.rf>

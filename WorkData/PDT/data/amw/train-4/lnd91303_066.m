@@ -53,7 +53,7 @@
 <LM>w#w-lnd91303-066-p2s1w3</LM>
 </w.rf>
 <form>přetopeno</form>
-<tag lemma="přetopit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="přetopit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd91303-066-p2s1w4">
 <src.rf>manual</src.rf>
@@ -289,7 +289,7 @@
 <LM>w#w-lnd91303-066-p2s3w19</LM>
 </w.rf>
 <form>mělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-066-p2s3w20">
 <src.rf>manual</src.rf>

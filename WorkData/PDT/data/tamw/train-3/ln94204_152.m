@@ -139,7 +139,7 @@
 <LM>w#w-ln94204-152-p1s1w16</LM>
 </w.rf>
 <form>mělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94204-152-p1s1w17">
 <src.rf>manual</src.rf>

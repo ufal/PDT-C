@@ -495,7 +495,7 @@
 <LM>w#w-wsj2305-001-p1s1W4</LM>
 </w.rf>
 <form>datovány</form>
-<tag lemma="datovat" src="auto" recommended="1">VsTP---XX-API--</tag>
+<tag lemma="datovat" src="auto" recommended="1">VsTP----X-API--</tag>
 </m>
 <m id="m-wsj2305-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>

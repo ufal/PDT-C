@@ -375,7 +375,7 @@
 <LM>w#w-lnd92258-144-p2s3w2</LM>
 </w.rf>
 <form>vstřelil</form>
-<tag lemma="vstřelit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vstřelit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-144-p2s3w3">
 <src.rf>manual</src.rf>
@@ -484,7 +484,7 @@
 <LM>w#w-lnd92258-144-p2s4w9</LM>
 </w.rf>
 <form>trefil</form>
-<tag lemma="trefit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="trefit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92258-144-p2s4w10">
 <src.rf>manual</src.rf>
@@ -969,7 +969,7 @@
 <LM>w#w-lnd92258-144-p2s7w8</LM>
 </w.rf>
 <form>vylepšili</form>
-<tag lemma="vylepšit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vylepšit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-144-p2s7w9">
 <src.rf>manual</src.rf>
@@ -1373,7 +1373,7 @@
 <LM>w#w-lnd92258-144-p2s10w12</LM>
 </w.rf>
 <form>dohrával</form>
-<tag lemma="dohrávat_:T_^(*3t)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dohrávat_^(*3t)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92258-144-p2s10w13">
 <src.rf>manual</src.rf>
@@ -1431,7 +1431,7 @@
 <LM>w#w-lnd92258-144-p2s11w2</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92258-144-p2s11w3">
 <src.rf>manual</src.rf>
@@ -1440,8 +1440,8 @@
 </w.rf>
 <form>vyloučeno</form>
 <tag>
-<AM lemma="vyloučit" src="orig">VsNS---XX-AP---</AM>
-<AM lemma="vyloučit_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+<AM lemma="vyloučit" src="orig">VsNS----X-APP--</AM>
+<AM lemma="vyloučit" src="manual" selected="1">VsNS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-lnd92258-144-p2s11w4">

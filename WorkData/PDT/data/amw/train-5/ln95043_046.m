@@ -152,7 +152,7 @@
 <LM>w#w-ln95043-046-p2s1Bw8</LM>
 </w.rf>
 <form>vyloučil</form>
-<tag lemma="vyloučit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyloučit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95043-046-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -305,7 +305,7 @@
 <LM>w#w-ln95043-046-p2s2w1</LM>
 </w.rf>
 <form>Reagoval</form>
-<tag lemma="reagovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="reagovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95043-046-p2s2w2">
 <src.rf>manual</src.rf>
@@ -702,7 +702,7 @@
 <LM>w#w-ln95043-046-p2s3w16</LM>
 </w.rf>
 <form>posunula</form>
-<tag lemma="posunout" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="posunout" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95043-046-p2s3w17">
 <src.rf>manual</src.rf>
@@ -794,7 +794,7 @@
 <LM>w#w-ln95043-046-p2s3w27</LM>
 </w.rf>
 <form>zavázala</form>
-<tag lemma="zavázat" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zavázat" src="auto" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95043-046-p2s3w28">
 <src.rf>manual</src.rf>
@@ -842,7 +842,7 @@
 <LM>w#w-ln95043-046-p2s3w33</LM>
 </w.rf>
 <form>odklonila</form>
-<tag lemma="odklonit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="odklonit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95043-046-p2s3w34">
 <src.rf>manual</src.rf>
@@ -916,7 +916,7 @@
 <LM>w#w-ln95043-046-p2s4w1</LM>
 </w.rf>
 <form>Zredukovala</form>
-<tag lemma="zredukovat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zredukovat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95043-046-p2s4w2">
 <src.rf>manual</src.rf>

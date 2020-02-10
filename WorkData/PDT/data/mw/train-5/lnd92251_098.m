@@ -145,7 +145,7 @@
 <LM>w#w-lnd92251-098-p3s2w7</LM>
 </w.rf>
 <form>nezúčastnilo</form>
-<tag lemma="zúčastnit_:W" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="zúčastnit" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-lnd92251-098-p3s2w8">
 <src.rf>manual</src.rf>
@@ -379,7 +379,7 @@
 <LM>w#w-lnd92251-098-p3s3w13</LM>
 </w.rf>
 <form>dostalo</form>
-<tag lemma="dostat" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="dostat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-098-p3s3w14">
 <src.rf>manual</src.rf>
@@ -565,7 +565,7 @@
 <LM>w#w-lnd92251-098-p3s4w19</LM>
 </w.rf>
 <form>označeno</form>
-<tag lemma="označit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="označit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92251-098-p3s4w20">
 <src.rf>manual</src.rf>

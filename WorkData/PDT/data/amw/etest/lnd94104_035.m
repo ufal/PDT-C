@@ -27,7 +27,7 @@
 <LM>w#w-lnd94104-035-p1s1w2</LM>
 </w.rf>
 <form>volilo</form>
-<tag lemma="volit_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="volit" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 </s>
 <s id="m-lnd94104-035-p1s2">
@@ -79,7 +79,7 @@
 <LM>w#w-lnd94104-035-p1s3w4</LM>
 </w.rf>
 <form>zvítězila</form>
-<tag lemma="zvítězit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zvítězit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-035-p1s3w5">
 <src.rf>manual</src.rf>

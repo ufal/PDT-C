@@ -233,7 +233,7 @@
 <LM>w#w-mf930713-084-p1s2Bw21</LM>
 </w.rf>
 <form>položili</form>
-<tag lemma="položit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="položit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930713-084-p1s2Bw22">
 <src.rf>manual</src.rf>
@@ -342,7 +342,7 @@
 <LM>w#w-mf930713-084-p1s3w7</LM>
 </w.rf>
 <form>havarovalo</form>
-<tag lemma="havarovat_:T_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="havarovat" src="orig" selected="1">VpNS----R-AAB--</tag>
 </m>
 <m id="m-mf930713-084-p1s3w8">
 <src.rf>manual</src.rf>
@@ -680,7 +680,7 @@
 <LM>w#w-mf930713-084-p2s2w5</LM>
 </w.rf>
 <form>rozhodl</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf930713-084-p2s2w6">
 <src.rf>manual</src.rf>
@@ -902,7 +902,7 @@
 <LM>w#w-mf930713-084-p4s1Bw8</LM>
 </w.rf>
 <form>otevřela</form>
-<tag lemma="otevřít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="otevřít" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930713-084-p4s1Bw9">
 <src.rf>manual</src.rf>

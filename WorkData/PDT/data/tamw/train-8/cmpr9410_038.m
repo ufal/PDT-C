@@ -994,7 +994,7 @@
 <LM>w#w-cmpr9410-038-p14s2Bw12</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9410-038-p14s2Bw13">
 <src.rf>manual</src.rf>

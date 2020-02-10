@@ -114,7 +114,7 @@
 <LM>w#w-ln94210-42-p2s1Bw4</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94210-42-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -213,8 +213,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94210-42-p2s2w4">
@@ -271,7 +271,7 @@
 <LM>w#w-ln94210-42-p2s2w10</LM>
 </w.rf>
 <form>dodal</form>
-<tag lemma="dodat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dodat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94210-42-p2s2w11">
 <src.rf>manual</src.rf>
@@ -473,7 +473,7 @@
 <LM>w#w-ln94210-42-p2s3w5</LM>
 </w.rf>
 <form>neobsazeno</form>
-<tag lemma="obsadit_:W" src="orig" selected="1">VsNS---XX-NP---</tag>
+<tag lemma="obsadit" src="orig" selected="1">VsNS----X-NPP--</tag>
 </m>
 <m id="m-ln94210-42-p2s3w6">
 <src.rf>manual</src.rf>
@@ -968,7 +968,7 @@
 <LM>w#w-ln94210-42-p3s2w21</LM>
 </w.rf>
 <form>stoupl</form>
-<tag lemma="stoupnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="stoupnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln94210-42-p3s2w22">
 <src.rf>manual</src.rf>

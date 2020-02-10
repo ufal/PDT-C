@@ -128,7 +128,7 @@
 <LM>w#w-wsj2385-001-p1s0W11</LM>
 </w.rf>
 <form>vypsány</form>
-<tag lemma="vypsat" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="vypsat" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj2385-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>

@@ -279,7 +279,7 @@
 <LM>w#w-ln95045-100-p2s2w12</LM>
 </w.rf>
 <form>obchodovala</form>
-<tag lemma="obchodovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="obchodovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95045-100-p2s2w13">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <LM>w#w-ln95045-100-p2s2w22</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95045-100-p2s2w23">
 <src.rf>manual</src.rf>
@@ -854,7 +854,7 @@
 <LM>w#w-ln95045-100-p3s3w12</LM>
 </w.rf>
 <form>nastavena</form>
-<tag lemma="nastavit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="nastavit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln95045-100-p3s3w13">
 <src.rf>manual</src.rf>
@@ -1089,7 +1089,7 @@
 <LM>w#w-ln95045-100-p4s1w10</LM>
 </w.rf>
 <form>vypořádala</form>
-<tag lemma="vypořádat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vypořádat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95045-100-p4s1w11">
 <src.rf>manual</src.rf>
@@ -1573,7 +1573,7 @@
 <LM>w#w-ln95045-100-p4s3w8</LM>
 </w.rf>
 <form>vytvořena</form>
-<tag lemma="vytvořit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="vytvořit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln95045-100-p4s3w9">
 <src.rf>manual</src.rf>
@@ -2173,7 +2173,7 @@
 <LM>w#w-ln95045-100-p5s1w10</LM>
 </w.rf>
 <form>nastavil</form>
-<tag lemma="nastavit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nastavit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-100-p5s1w11">
 <src.rf>manual</src.rf>
@@ -2224,7 +2224,7 @@
 <LM>w#w-ln95045-100-p5s1w16</LM>
 </w.rf>
 <form>ohlásila</form>
-<tag lemma="ohlásit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="ohlásit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95045-100-p5s1w17">
 <src.rf>manual</src.rf>
@@ -2756,7 +2756,7 @@
 <LM>w#w-ln95045-100-p6s1w13</LM>
 </w.rf>
 <form>selhala</form>
-<tag lemma="selhat" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="selhat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95045-100-p6s1w14">
 <src.rf>manual</src.rf>

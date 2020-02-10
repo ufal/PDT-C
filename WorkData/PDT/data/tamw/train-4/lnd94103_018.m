@@ -324,7 +324,7 @@
 <LM>w#w-lnd94103-018-p1s4w14</LM>
 </w.rf>
 <form>zvýšila</form>
-<tag lemma="zvýšit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zvýšit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-018-p1s4w15">
 <src.rf>manual</src.rf>
@@ -643,7 +643,7 @@
 <LM>w#w-lnd94103-018-p1s6w11</LM>
 </w.rf>
 <form>ujistil</form>
-<tag lemma="ujistit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="ujistit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-018-p1s6w12">
 <src.rf>manual</src.rf>
@@ -851,7 +851,7 @@
 <LM>w#w-lnd94103-018-p1s7w9</LM>
 </w.rf>
 <form>vyřešen</form>
-<tag lemma="vyřešit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="vyřešit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd94103-018-p1s7w10">
 <src.rf>manual</src.rf>

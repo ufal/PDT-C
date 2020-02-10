@@ -43,7 +43,7 @@
 <LM>w#w-ln94202-67-p1s1w4</LM>
 </w.rf>
 <form>střetla</form>
-<tag lemma="střetnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="střetnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln94202-67-p1s1w5">
 <src.rf>manual</src.rf>
@@ -135,7 +135,7 @@
 <LM>w#w-ln94202-67-p2s1Bw7</LM>
 </w.rf>
 <form>zabili</form>
-<tag lemma="zabít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zabít" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94202-67-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -175,7 +175,7 @@
 <LM>w#w-ln94202-67-p2s1Bw12</LM>
 </w.rf>
 <form>našli</form>
-<tag lemma="najít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="najít" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94202-67-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -225,7 +225,7 @@
 <LM>w#w-ln94202-67-p2s2w1</LM>
 </w.rf>
 <form>Oznámila</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94202-67-p2s2w2">
 <src.rf>manual</src.rf>
@@ -366,7 +366,7 @@
 <LM>w#w-ln94202-67-p2s3w9</LM>
 </w.rf>
 <form>neuvedla</form>
-<tag lemma="uvést" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-ln94202-67-p2s3w10">
 <src.rf>manual</src.rf>
@@ -406,7 +406,7 @@
 <LM>w#w-ln94202-67-p2s3w14</LM>
 </w.rf>
 <form>ohořela</form>
-<tag lemma="ohořet" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="ohořet" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94202-67-p2s3w15">
 <src.rf>manual</src.rf>
@@ -574,7 +574,7 @@
 <LM>w#w-ln94202-67-p3s1w5</LM>
 </w.rf>
 <form>najala</form>
-<tag lemma="najmout" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="najmout" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94202-67-p3s1w6">
 <src.rf>manual</src.rf>
@@ -792,7 +792,7 @@
 <LM>w#w-ln94202-67-p3s2w15</LM>
 </w.rf>
 <form>rozhodly</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-ln94202-67-p3s2w16">
 <src.rf>manual</src.rf>

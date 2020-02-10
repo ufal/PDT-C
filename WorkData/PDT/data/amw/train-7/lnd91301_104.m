@@ -82,7 +82,7 @@
 <LM>w#w-lnd91301-104-p4s1w5</LM>
 </w.rf>
 <form>porazilo</form>
-<tag lemma="porazit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="porazit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-104-p4s1w6">
 <src.rf>manual</src.rf>
@@ -340,7 +340,7 @@
 <LM>w#w-lnd91301-104-p7s1w4</LM>
 </w.rf>
 <form>zdolal</form>
-<tag lemma="zdolat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zdolat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-104-p7s1w5">
 <src.rf>manual</src.rf>

@@ -197,7 +197,7 @@
 <LM>w#w-mf920901-023-p2s1w20</LM>
 </w.rf>
 <form>ohlásil</form>
-<tag lemma="ohlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="ohlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920901-023-p2s1w21">
 <src.rf>manual</src.rf>
@@ -379,7 +379,7 @@
 <LM>w#w-mf920901-023-p2s2w17</LM>
 </w.rf>
 <form>začali</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920901-023-p2s2w18">
 <src.rf>manual</src.rf>
@@ -645,7 +645,7 @@
 <LM>w#w-mf920901-023-p3s1w16</LM>
 </w.rf>
 <form>dostal</form>
-<tag lemma="dostat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dostat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920901-023-p3s1w17">
 <src.rf>manual</src.rf>
@@ -711,7 +711,7 @@
 <LM>w#w-mf920901-023-p3s2w1</LM>
 </w.rf>
 <form>Vypracoval</form>
-<tag lemma="vypracovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vypracovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920901-023-p3s2w2">
 <src.rf>manual</src.rf>
@@ -759,7 +759,7 @@
 <LM>w#w-mf920901-023-p3s2w7</LM>
 </w.rf>
 <form>řečeno</form>
-<tag lemma="říci" src="auto" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="říci" src="auto" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf920901-023-p3s2w8">
 <src.rf>manual</src.rf>
@@ -1055,7 +1055,7 @@
 <LM>w#w-mf920901-023-p3s3w11</LM>
 </w.rf>
 <form>posunovaly</form>
-<tag lemma="posunovat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="posunovat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf920901-023-p3s3w12">
 <src.rf>manual</src.rf>
@@ -1119,7 +1119,7 @@
 <LM>w#w-mf920901-023-p3s3w19</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920901-023-p3s3w20">
 <src.rf>manual</src.rf>
@@ -1239,7 +1239,7 @@
 <LM>w#w-mf920901-023-p3s3w34</LM>
 </w.rf>
 <form>zamýšlel</form>
-<tag lemma="zamýšlet_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zamýšlet" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920901-023-p3s3w35">
 <src.rf>manual</src.rf>
@@ -1346,7 +1346,7 @@
 <LM>w#w-mf920901-023-p3s3w48</LM>
 </w.rf>
 <form>zmenšil</form>
-<tag lemma="zmenšit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zmenšit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920901-023-p3s3w49">
 <src.rf>manual</src.rf>
@@ -1402,7 +1402,7 @@
 <LM>w#w-mf920901-023-p3s3w55</LM>
 </w.rf>
 <form>nepřibyla</form>
-<tag lemma="přibýt" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="přibýt" src="orig" selected="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-mf920901-023-p3s3w56">
 <src.rf>manual</src.rf>
@@ -1556,7 +1556,7 @@
 <LM>w#w-mf920901-023-p4s1w18</LM>
 </w.rf>
 <form>obhajoval</form>
-<tag lemma="obhajovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="obhajovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920901-023-p4s1w19">
 <src.rf>manual</src.rf>
@@ -1638,7 +1638,7 @@
 <LM>w#w-mf920901-023-p4s2w5</LM>
 </w.rf>
 <form>začala</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920901-023-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1702,7 +1702,7 @@
 <LM>w#w-mf920901-023-p4s2w13</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920901-023-p4s2w14">
 <src.rf>manual</src.rf>
@@ -1737,7 +1737,7 @@
 <LM>w#w-mf920901-023-p4s2w17</LM>
 </w.rf>
 <form>pověřen</form>
-<tag lemma="pověřit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="pověřit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf920901-023-p4s2w18">
 <src.rf>manual</src.rf>
@@ -1873,7 +1873,7 @@
 <LM>w#w-mf920901-023-p4s3w13</LM>
 </w.rf>
 <form>převzalo</form>
-<tag lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920901-023-p4s3w14">
 <src.rf>manual</src.rf>
@@ -1969,7 +1969,7 @@
 <LM>w#w-mf920901-023-p4s3w25</LM>
 </w.rf>
 <form>zamířily</form>
-<tag lemma="zamířit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zamířit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf920901-023-p4s3w26">
 <src.rf>manual</src.rf>
@@ -2099,7 +2099,7 @@
 <LM>w#w-mf920901-023-p5s1w1</LM>
 </w.rf>
 <form>Bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920901-023-p5s1w2">
 <src.rf>manual</src.rf>
@@ -2578,7 +2578,7 @@
 <LM>w#w-mf920901-023-p5s3w15</LM>
 </w.rf>
 <form>vyčítáno</form>
-<tag lemma="vyčítat_:T" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="vyčítat" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-mf920901-023-p5s3w16">
 <src.rf>manual</src.rf>
@@ -2658,7 +2658,7 @@
 <LM>w#w-mf920901-023-p5s3w25</LM>
 </w.rf>
 <form>podnikl</form>
-<tag lemma="podniknout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="podniknout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf920901-023-p5s3w26">
 <src.rf>manual</src.rf>
@@ -2740,7 +2740,7 @@
 <LM>w#w-mf920901-023-p5s4w6</LM>
 </w.rf>
 <form>dokázala</form>
-<tag lemma="dokázat" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="dokázat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920901-023-p5s4w7">
 <src.rf>manual</src.rf>
@@ -2953,7 +2953,7 @@
 <LM>w#w-mf920901-023-p5s5w8</LM>
 </w.rf>
 <form>proměnila</form>
-<tag lemma="proměnit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="proměnit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920901-023-p5s5w9">
 <src.rf>manual</src.rf>

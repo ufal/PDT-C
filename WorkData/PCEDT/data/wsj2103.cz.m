@@ -77,7 +77,7 @@
 <LM>w#w-wsj2103-001-p1s0W7</LM>
 </w.rf>
 <form>upravila</form>
-<tag lemma="upravit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="upravit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2103-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -385,7 +385,7 @@
 <LM>w#w-wsj2103-001-p1s0W32</LM>
 </w.rf>
 <form>prodloužila</form>
-<tag lemma="prodloužit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="prodloužit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2103-001-p1s0W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -598,7 +598,7 @@
 <LM>w#w-wsj2103-001-p1s1W8</LM>
 </w.rf>
 <form>prohlásila</form>
-<tag lemma="prohlásit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="prohlásit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2103-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1333,7 +1333,7 @@
 <LM>w#w-wsj2103-001-p1s2W9</LM>
 </w.rf>
 <form>úročeny</form>
-<tag lemma="úročit" src="auto" recommended="1">VsTP---XX-API--</tag>
+<tag lemma="úročit" src="auto" recommended="1">VsTP----X-API--</tag>
 </m>
 <m id="m-wsj2103-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1443,7 +1443,7 @@
 <LM>w#w-wsj2103-001-p1s3W4</LM>
 </w.rf>
 <form>nabízel</form>
-<tag lemma="nabízet" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="nabízet" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj2103-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1524,7 +1524,7 @@
 <tag>
 <AM lemma="podnik" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="podnik" src="auto">NNIS4-----A----</AM>
-<AM lemma="podniknout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="podniknout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-wsj2103-001-p1s3W11-Ta">
@@ -2216,7 +2216,7 @@
 <LM>w#w-wsj2103-001-p1s5W5</LM>
 </w.rf>
 <form>prohlásila</form>
-<tag lemma="prohlásit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="prohlásit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2103-001-p1s5W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2308,7 +2308,7 @@
 <LM>w#w-wsj2103-001-p1s5W14</LM>
 </w.rf>
 <form>prohlásila</form>
-<tag lemma="prohlásit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="prohlásit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2103-001-p1s5W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2410,7 +2410,7 @@
 <LM>w#w-wsj2103-001-p1s5W22</LM>
 </w.rf>
 <form>obdržela</form>
-<tag lemma="obdržet" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="obdržet" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2103-001-p1s5W23-Ta">
 <src.rf>tagger-a</src.rf>

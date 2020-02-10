@@ -145,7 +145,7 @@
 <LM>w#w-mf920902-150-p2s2w6</LM>
 </w.rf>
 <form>odmítlo</form>
-<tag lemma="odmítnout_:W" src="orig" selected="1">VpNS---XR-AA--1</tag>
+<tag lemma="odmítnout" src="orig" selected="1">VpNS----R-AAP-1</tag>
 </m>
 <m id="m-mf920902-150-p2s2w7">
 <src.rf>manual</src.rf>
@@ -225,7 +225,7 @@
 <LM>w#w-mf920902-150-p2s2w16</LM>
 </w.rf>
 <form>zapojila</form>
-<tag lemma="zapojit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zapojit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920902-150-p2s2w17">
 <src.rf>manual</src.rf>
@@ -451,7 +451,7 @@
 <LM>w#w-mf920902-150-p2s4w7</LM>
 </w.rf>
 <form>ostřelovány</form>
-<tag lemma="ostřelovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="ostřelovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf920902-150-p2s4w8">
 <src.rf>manual</src.rf>
@@ -555,7 +555,7 @@
 <LM>w#w-mf920902-150-p2s4w20</LM>
 </w.rf>
 <form>uvádělo</form>
-<tag lemma="uvádět_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="uvádět" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920902-150-p2s4w21">
 <src.rf>manual</src.rf>
@@ -621,7 +621,7 @@
 <LM>w#w-mf920902-150-p2s5w3</LM>
 </w.rf>
 <form>reagovalo</form>
-<tag lemma="reagovat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="reagovat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920902-150-p2s5w4">
 <src.rf>manual</src.rf>
@@ -776,7 +776,7 @@
 <LM>w#w-mf920902-150-p2s5w22</LM>
 </w.rf>
 <form>oznámil</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-150-p2s5w23">
 <src.rf>manual</src.rf>
@@ -888,7 +888,7 @@
 <LM>w#w-mf920902-150-p2s5w36</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920902-150-p2s5w37">
 <src.rf>manual</src.rf>
@@ -912,7 +912,7 @@
 <LM>w#w-mf920902-150-p2s5w39</LM>
 </w.rf>
 <form>zraněno</form>
-<tag lemma="zranit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zranit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf920902-150-p2s5w40">
 <src.rf>manual</src.rf>
@@ -946,7 +946,7 @@
 <LM>w#w-mf920902-150-p2s6w3</LM>
 </w.rf>
 <form>upozornil</form>
-<tag lemma="upozornit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="upozornit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-150-p2s6w4">
 <src.rf>manual</src.rf>

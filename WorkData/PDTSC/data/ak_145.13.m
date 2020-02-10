@@ -1966,7 +1966,7 @@
 <LM>w#w-d1t2639-3</LM>
 </w.rf>
 <form>vypršel</form>
-<tag lemma="vypršet" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="vypršet" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m145-d1t2639-4">
 <w.rf>
@@ -2173,7 +2173,7 @@
 <LM>w#w-d1t2661-7</LM>
 </w.rf>
 <form>povídalo</form>
-<tag lemma="povídat_:T" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="povídat" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m145-d1e2658-x2-423">
 <w.rf>

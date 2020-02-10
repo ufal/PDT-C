@@ -325,7 +325,7 @@
 <LM>w#w-mf930701-167-p2s2w16</LM>
 </w.rf>
 <form>poskytli</form>
-<tag lemma="poskytnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="poskytnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-mf930701-167-p2s2w17">
 <src.rf>manual</src.rf>
@@ -776,7 +776,7 @@
 <form>nezasáhla</form>
 <tag>
 <AM lemma="zasáhnout" src="orig">VpQW---XR-NA---</AM>
-<AM lemma="zasáhnout_:W" src="auto" recommended="1" selected="1">VpQW---XR-NA--1</AM>
+<AM lemma="zasáhnout" src="auto" recommended="1" selected="1">VpQW----R-NAP-1</AM>
 </tag>
 </m>
 <m id="m-mf930701-167-p2s5w10">
@@ -801,7 +801,7 @@
 <LM>w#w-mf930701-167-p2s5w12</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930701-167-p2s5w13">
 <src.rf>manual</src.rf>
@@ -825,7 +825,7 @@
 <LM>w#w-mf930701-167-p2s5w15</LM>
 </w.rf>
 <form>pozváni</form>
-<tag lemma="pozvat" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="pozvat" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-mf930701-167-p2s5w16">
 <src.rf>manual</src.rf>
@@ -915,7 +915,7 @@
 <LM>w#w-mf930701-167-p2s6w3</LM>
 </w.rf>
 <form>předvedli</form>
-<tag lemma="předvést" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="předvést" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930701-167-p2s6w4">
 <src.rf>manual</src.rf>

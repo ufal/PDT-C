@@ -43,7 +43,7 @@
 <LM>w#w-vesm9303-015-p1s1w4</LM>
 </w.rf>
 <form>došlo</form>
-<tag lemma="dojít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="dojít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-vesm9303-015-p1s1w5">
 <src.rf>manual</src.rf>
@@ -639,7 +639,7 @@
 <LM>w#w-vesm9303-015-p2s1w6</LM>
 </w.rf>
 <form>chodíval</form>
-<tag lemma="chodívat_:T_^(*4it)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="chodívat_^(*4it)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-vesm9303-015-p2s1w7">
 <src.rf>manual</src.rf>
@@ -699,7 +699,7 @@
 <form>nestála</form>
 <tag>
 <AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="orig">VpQW---XR-NA---</AM>
-<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VpQW---XR-NA---</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VpQW----R-NAI--</AM>
 </tag>
 </m>
 <m id="m-vesm9303-015-p2s2w4">
@@ -748,7 +748,7 @@
 <LM>w#w-vesm9303-015-p2s2w9</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-vesm9303-015-p2s2w10">
 <src.rf>manual</src.rf>
@@ -907,7 +907,7 @@
 <LM>w#w-vesm9303-015-p2s4w3</LM>
 </w.rf>
 <form>začínala</form>
-<tag lemma="začínat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="začínat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-vesm9303-015-p2s4w4">
 <src.rf>manual</src.rf>
@@ -1093,7 +1093,7 @@
 <LM>w#w-vesm9303-015-p2s5w17</LM>
 </w.rf>
 <form>nahrazovány</form>
-<tag lemma="nahrazovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="nahrazovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-vesm9303-015-p2s5w18">
 <src.rf>manual</src.rf>
@@ -1159,7 +1159,7 @@
 <LM>w#w-vesm9303-015-p2s6w5</LM>
 </w.rf>
 <form>dosáhlo</form>
-<tag lemma="dosáhnout" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="dosáhnout" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-vesm9303-015-p2s6w6">
 <src.rf>manual</src.rf>
@@ -1287,7 +1287,7 @@
 <LM>w#w-vesm9303-015-p2s6w21</LM>
 </w.rf>
 <form>vyhynula</form>
-<tag lemma="vyhynout" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyhynout" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-vesm9303-015-p2s6w22">
 <src.rf>manual</src.rf>
@@ -1319,7 +1319,7 @@
 <LM>w#w-vesm9303-015-p2s6w25</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-vesm9303-015-p2s6w26">
 <src.rf>manual</src.rf>
@@ -1327,7 +1327,7 @@
 <LM>w#w-vesm9303-015-p2s6w26</LM>
 </w.rf>
 <form>nahrazena</form>
-<tag lemma="nahradit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="nahradit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-vesm9303-015-p2s6w27">
 <src.rf>manual</src.rf>
@@ -1383,7 +1383,7 @@
 <LM>w#w-vesm9303-015-p2s6w33</LM>
 </w.rf>
 <form>přistěhovaly</form>
-<tag lemma="přistěhovat_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="přistěhovat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-vesm9303-015-p2s6w34">
 <src.rf>manual</src.rf>
@@ -1501,7 +1501,7 @@
 <LM>w#w-vesm9303-015-p3s1w10</LM>
 </w.rf>
 <form>došlo</form>
-<tag lemma="dojít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="dojít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-vesm9303-015-p3s1w11">
 <src.rf>manual</src.rf>
@@ -1557,7 +1557,7 @@
 <LM>w#w-vesm9303-015-p3s1w17</LM>
 </w.rf>
 <form>nahradil</form>
-<tag lemma="nahradit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nahradit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-vesm9303-015-p3s1w18">
 <src.rf>manual</src.rf>
@@ -1671,7 +1671,7 @@
 <LM>w#w-vesm9303-015-p3s2w4</LM>
 </w.rf>
 <form>zjistil</form>
-<tag lemma="zjistit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zjistit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-vesm9303-015-p3s2w5">
 <src.rf>manual</src.rf>

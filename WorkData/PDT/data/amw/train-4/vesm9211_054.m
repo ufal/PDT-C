@@ -281,7 +281,7 @@
 <LM>w#w-vesm9211-054-p1s2w14</LM>
 </w.rf>
 <form>žili</form>
-<tag lemma="žít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="žít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-vesm9211-054-p1s2w15">
 <src.rf>manual</src.rf>

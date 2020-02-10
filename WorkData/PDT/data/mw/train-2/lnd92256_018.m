@@ -91,7 +91,7 @@
 <LM>w#w-lnd92256-018-p1s1w10</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92256-018-p1s1w11">
 <src.rf>manual</src.rf>

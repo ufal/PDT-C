@@ -246,7 +246,7 @@
 <LM>w#w-ln95048-047-p2s1w26</LM>
 </w.rf>
 <form>promítl</form>
-<tag lemma="promítnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="promítnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln95048-047-p2s1w27">
 <src.rf>manual</src.rf>
@@ -458,7 +458,7 @@
 <LM>w#w-ln95048-047-p2s2w20</LM>
 </w.rf>
 <form>situovali</form>
-<tag lemma="situovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="situovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95048-047-p2s2w21">
 <src.rf>manual</src.rf>
@@ -579,7 +579,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95048-047-p2s3w4">
 <src.rf>manual</src.rf>
@@ -643,7 +643,7 @@
 <LM>w#w-ln95048-047-p2s3w11</LM>
 </w.rf>
 <form>octl</form>
-<tag lemma="octnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="octnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln95048-047-p2s3w12">
 <src.rf>manual</src.rf>
@@ -797,7 +797,7 @@
 <LM>w#w-ln95048-047-p2s4w7</LM>
 </w.rf>
 <form>sehrál</form>
-<tag lemma="sehrát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sehrát" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-047-p2s4w8">
 <src.rf>manual</src.rf>
@@ -879,7 +879,7 @@
 <LM>w#w-ln95048-047-p2s4w16</LM>
 </w.rf>
 <form>předcházela</form>
-<tag lemma="předcházet_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="předcházet" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95048-047-p2s4w17">
 <src.rf>manual</src.rf>
@@ -1030,7 +1030,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>odstartoval</form>
-<tag lemma="odstartovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odstartovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-047-p2s5w7">
 <src.rf>manual</src.rf>
@@ -1128,7 +1128,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>obvinil</form>
-<tag lemma="obvinit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="obvinit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-047-p2s5w19">
 <src.rf>manual</src.rf>
@@ -1230,7 +1230,7 @@
 <LM>w#w-ln95048-047-p2s6w8</LM>
 </w.rf>
 <form>odpověděl</form>
-<tag lemma="odpovědět" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odpovědět" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-047-p2s6w9">
 <src.rf>manual</src.rf>
@@ -1254,7 +1254,7 @@
 <LM>w#w-ln95048-047-p2s6w11</LM>
 </w.rf>
 <form>předznamenala</form>
-<tag lemma="předznamenat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="předznamenat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95048-047-p2s6w12">
 <src.rf>manual</src.rf>

@@ -855,7 +855,7 @@
 <LM>w#w-cmpr9413-017-p6s1w1</LM>
 </w.rf>
 <form>Vyplynulo</form>
-<tag lemma="vyplynout" src="auto" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vyplynout" src="auto" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9413-017-p6s1w2">
 <src.rf>manual</src.rf>
@@ -903,7 +903,7 @@
 <LM>w#w-cmpr9413-017-p6s1w7</LM>
 </w.rf>
 <form>pořádaly</form>
-<tag lemma="pořádat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="pořádat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-cmpr9413-017-p6s1w8">
 <src.rf>manual</src.rf>
@@ -1333,7 +1333,7 @@
 <LM>w#w-cmpr9413-017-p6s2w38</LM>
 </w.rf>
 <form>zabudován</form>
-<tag lemma="zabudovat_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zabudovat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-cmpr9413-017-p6s2w39">
 <src.rf>manual</src.rf>
@@ -1724,7 +1724,7 @@
 <LM>w#w-cmpr9413-017-p8s3w8</LM>
 </w.rf>
 <form>přepojen</form>
-<tag lemma="přepojit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="přepojit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-cmpr9413-017-p8s3w9">
 <src.rf>manual</src.rf>
@@ -2525,7 +2525,7 @@
 <LM>w#w-cmpr9413-017-p9s2w20</LM>
 </w.rf>
 <form>zavedly</form>
-<tag lemma="zavést" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zavést" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-cmpr9413-017-p9s2w21">
 <src.rf>manual</src.rf>
@@ -3159,7 +3159,7 @@
 <LM>w#w-cmpr9413-017-p13s1w5</LM>
 </w.rf>
 <form>PADLA</form>
-<tag lemma="padnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="padnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-cmpr9413-017-p13s1w6">
 <src.rf>manual</src.rf>
@@ -3183,7 +3183,7 @@
 <LM>w#w-cmpr9413-017-p13s1w8</LM>
 </w.rf>
 <form>postoupila</form>
-<tag lemma="postoupit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="postoupit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-cmpr9413-017-p13s1w9">
 <src.rf>manual</src.rf>

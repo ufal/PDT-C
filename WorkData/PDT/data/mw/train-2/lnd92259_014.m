@@ -509,7 +509,7 @@
 <LM>w#w-lnd92259-014-p3s4w15</LM>
 </w.rf>
 <form>vložili</form>
-<tag lemma="vložit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vložit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-014-p3s4w16">
 <src.rf>manual</src.rf>
@@ -551,7 +551,7 @@
 <LM>w#w-lnd92259-014-p3s5w1</LM>
 </w.rf>
 <form>Požádali</form>
-<tag lemma="požádat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="požádat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-014-p3s5w2">
 <src.rf>manual</src.rf>
@@ -1031,7 +1031,7 @@
 <LM>w#w-lnd92259-014-p4s3w18</LM>
 </w.rf>
 <form>vyváželi</form>
-<tag lemma="vyvážet_:T_^(zboží_přes_hranice)" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyvážet_^(zboží_přes_hranice)" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92259-014-p4s3w19">
 <src.rf>manual</src.rf>
@@ -1297,7 +1297,7 @@
 <LM>w#w-lnd92259-014-p4s4w22</LM>
 </w.rf>
 <form>počítali</form>
-<tag lemma="počítat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="počítat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92259-014-p4s4w23">
 <src.rf>manual</src.rf>
@@ -1381,7 +1381,7 @@
 <LM>w#w-lnd92259-014-p6s1w2</LM>
 </w.rf>
 <form>Vyvolali</form>
-<tag lemma="vyvolat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyvolat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-014-p6s1w3">
 <src.rf>manual</src.rf>
@@ -2202,7 +2202,7 @@
 <LM>w#w-lnd92259-014-p6s6w12</LM>
 </w.rf>
 <form>snížili</form>
-<tag lemma="snížit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="snížit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-014-p6s6w13">
 <src.rf>manual</src.rf>

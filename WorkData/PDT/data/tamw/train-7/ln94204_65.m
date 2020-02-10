@@ -130,7 +130,7 @@
 <LM>w#w-ln94204-65-p2s1Bw6</LM>
 </w.rf>
 <form>unesli</form>
-<tag lemma="unést" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="unést" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94204-65-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -202,7 +202,7 @@
 <LM>w#w-ln94204-65-p2s1Bw15</LM>
 </w.rf>
 <form>zavezli</form>
-<tag lemma="zavézt" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zavézt" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94204-65-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -279,7 +279,7 @@
 <LM>w#w-ln94204-65-p2s2w2</LM>
 </w.rf>
 <form>upoutali</form>
-<tag lemma="upoutat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="upoutat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94204-65-p2s2w3">
 <src.rf>manual</src.rf>
@@ -335,7 +335,7 @@
 <LM>w#w-ln94204-65-p2s2w9</LM>
 </w.rf>
 <form>odvezli</form>
-<tag lemma="odvézt" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="odvézt" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94204-65-p2s2w10">
 <src.rf>manual</src.rf>
@@ -399,7 +399,7 @@
 <LM>w#w-ln94204-65-p2s2w17</LM>
 </w.rf>
 <form>donutili</form>
-<tag lemma="donutit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="donutit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94204-65-p2s2w18">
 <src.rf>manual</src.rf>
@@ -497,7 +497,7 @@
 <LM>w#w-ln94204-65-p2s3w4</LM>
 </w.rf>
 <form>přivlastnili</form>
-<tag lemma="přivlastnit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přivlastnit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94204-65-p2s3w5">
 <src.rf>manual</src.rf>
@@ -558,7 +558,7 @@
 <LM>w#w-ln94204-65-p2s4w4</LM>
 </w.rf>
 <form>oznámili</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94204-65-p2s4w5">
 <src.rf>manual</src.rf>
@@ -625,7 +625,7 @@
 <LM>w#w-ln94204-65-p2s4w12</LM>
 </w.rf>
 <form>dopadli</form>
-<tag lemma="dopadnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="dopadnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-ln94204-65-p2s4w13">
 <src.rf>manual</src.rf>

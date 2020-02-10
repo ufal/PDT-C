@@ -169,7 +169,7 @@
 <LM>w#w-lnd92254-062-p3s2w14</LM>
 </w.rf>
 <form>vymohly</form>
-<tag lemma="vymoci" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vymoci" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd92254-062-p3s2w15">
 <src.rf>manual</src.rf>
@@ -281,7 +281,7 @@
 <LM>w#w-lnd92254-062-p3s2w28</LM>
 </w.rf>
 <form>nezměnilo</form>
-<tag lemma="změnit_:W" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="změnit" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-lnd92254-062-p3s2w29">
 <src.rf>manual</src.rf>
@@ -299,7 +299,7 @@
 <LM>w#w-lnd92254-062-p3s3w1</LM>
 </w.rf>
 <form>Oznámila</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92254-062-p3s3w2">
 <src.rf>manual</src.rf>
@@ -394,8 +394,8 @@
 </w.rf>
 <form>Uvedla</form>
 <tag>
-<AM lemma="uvést" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="uvést_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="uvést" src="orig">VpQW----R-AAP--</AM>
+<AM lemma="uvést" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92254-062-p3s4w2">
@@ -508,7 +508,7 @@
 <LM>w#w-lnd92254-062-p3s4w15</LM>
 </w.rf>
 <form>zaručeny</form>
-<tag lemma="zaručit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="zaručit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd92254-062-p3s4w16">
 <src.rf>manual</src.rf>
@@ -711,7 +711,7 @@
 <LM>w#w-lnd92254-062-p3s5w19</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd92254-062-p3s5w20">
 <src.rf>manual</src.rf>
@@ -727,7 +727,7 @@
 <LM>w#w-lnd92254-062-p3s5w21</LM>
 </w.rf>
 <form>ohodnoceny</form>
-<tag lemma="ohodnotit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="ohodnotit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd92254-062-p3s5w22">
 <src.rf>manual</src.rf>
@@ -898,8 +898,8 @@
 </w.rf>
 <form>řekla</form>
 <tag>
-<AM lemma="říci" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpQW----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92254-062-p3s6w21">

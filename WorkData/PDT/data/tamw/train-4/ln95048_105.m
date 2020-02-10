@@ -28,8 +28,8 @@
 </w.rf>
 <form>zakázal</form>
 <tag>
-<AM lemma="zakázat" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="zakázat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="zakázat" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="zakázat" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95048-105-p1s1w3">
@@ -124,8 +124,8 @@
 </w.rf>
 <form>zakázal</form>
 <tag>
-<AM lemma="zakázat" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="zakázat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="zakázat" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="zakázat" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95048-105-p2s1Bw8">
@@ -294,7 +294,7 @@
 <LM>w#w-ln95048-105-p2s2w3</LM>
 </w.rf>
 <form>provedla</form>
-<tag lemma="provést" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="provést" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95048-105-p2s2w4">
 <src.rf>manual</src.rf>
@@ -401,7 +401,7 @@
 <LM>w#w-ln95048-105-p2s2w16</LM>
 </w.rf>
 <form>zabavila</form>
-<tag lemma="zabavit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zabavit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95048-105-p2s2w17">
 <src.rf>manual</src.rf>
@@ -455,8 +455,8 @@
 </w.rf>
 <form>kladla</form>
 <tag>
-<AM lemma="klást" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="klást_:T" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="klást" src="orig">VpQW----R-AAI--</AM>
+<AM lemma="klást" src="manual" selected="1">VpQW----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln95048-105-p2s3w4">
@@ -512,7 +512,7 @@
 <LM>w#w-ln95048-105-p2s3w9</LM>
 </w.rf>
 <form>uctívala</form>
-<tag lemma="uctívat_:T_^(*3t)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="uctívat_^(*3t)" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95048-105-p2s3w10">
 <src.rf>manual</src.rf>
@@ -554,8 +554,8 @@
 <form_change>spell</form_change>
 <form>štvala</form>
 <tag>
-<AM lemma="štvát" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="štvát_:T" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="štvát" src="orig">VpQW----R-AAI--</AM>
+<AM lemma="štvát" src="manual" selected="1">VpQW----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln95048-105-p2s3w15">
@@ -681,7 +681,7 @@
 <LM>w#w-ln95048-105-p2s4w12</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95048-105-p2s4w13">
 <src.rf>manual</src.rf>
@@ -809,7 +809,7 @@
 <LM>w#w-ln95048-105-p2s5w5</LM>
 </w.rf>
 <form>měli</form>
-<tag lemma="mít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95048-105-p2s5w6">
 <src.rf>manual</src.rf>
@@ -857,7 +857,7 @@
 <LM>w#w-ln95048-105-p2s5w11</LM>
 </w.rf>
 <form>zastřeleni</form>
-<tag lemma="zastřelit_:W" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="zastřelit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-ln95048-105-p2s5w12">
 <src.rf>manual</src.rf>
@@ -923,7 +923,7 @@
 <LM>w#w-ln95048-105-p2s6w6</LM>
 </w.rf>
 <form>zakázaly</form>
-<tag lemma="zakázat" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zakázat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95048-105-p2s6w7">
 <src.rf>manual</src.rf>
@@ -1050,7 +1050,7 @@
 <LM>w#w-ln95048-105-p2s7w6</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95048-105-p2s7w7">
 <src.rf>manual</src.rf>
@@ -1075,8 +1075,8 @@
 </w.rf>
 <form>zakázáno</form>
 <tag>
-<AM lemma="zakázat" src="orig">VsNS---XX-AP---</AM>
-<AM lemma="zakázat_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+<AM lemma="zakázat" src="orig">VsNS----X-APP--</AM>
+<AM lemma="zakázat" src="manual" selected="1">VsNS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-ln95048-105-p2s7w10">
@@ -1094,8 +1094,8 @@
 </w.rf>
 <form>rozpuštěno</form>
 <tag>
-<AM lemma="rozpustit" src="orig">VsNS---XX-AP---</AM>
-<AM lemma="rozpustit_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+<AM lemma="rozpustit" src="orig">VsNS----X-APP--</AM>
+<AM lemma="rozpustit" src="manual" selected="1">VsNS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-ln95048-105-p2s7w12">

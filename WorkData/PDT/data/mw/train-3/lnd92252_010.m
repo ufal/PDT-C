@@ -107,7 +107,7 @@
 <LM>w#w-lnd92252-010-p1s1w12</LM>
 </w.rf>
 <form>zúčastnili</form>
-<tag lemma="zúčastnit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zúčastnit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-010-p1s1w13">
 <src.rf>manual</src.rf>

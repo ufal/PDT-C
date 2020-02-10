@@ -176,7 +176,7 @@
 <LM>w#w-mf920925-051-p2s1w17</LM>
 </w.rf>
 <form>vedl</form>
-<tag lemma="vést" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vést" src="auto" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920925-051-p2s1w18">
 <src.rf>manual</src.rf>
@@ -257,8 +257,8 @@
 </w.rf>
 <form>zajel</form>
 <tag>
-<AM lemma="zajet_^(např._autem)" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="zajet_:W_^(např._autem)" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="zajet_^(např._autem)" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="zajet_^(např._autem)" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920925-051-p2s1w28">
@@ -561,7 +561,7 @@
 <LM>w#w-mf920925-051-p2s1w64</LM>
 </w.rf>
 <form>upevnil</form>
-<tag lemma="upevnit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="upevnit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920925-051-p2s1w65">
 <src.rf>manual</src.rf>
@@ -707,7 +707,7 @@
 <LM>w#w-mf920925-051-p2s4w11</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920925-051-p2s4w12">
 <src.rf>manual</src.rf>
@@ -897,7 +897,7 @@
 <LM>w#w-mf920925-051-p2s5w6</LM>
 </w.rf>
 <form>obsadil</form>
-<tag lemma="obsadit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="obsadit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920925-051-p2s5w7">
 <src.rf>manual</src.rf>
@@ -1145,7 +1145,7 @@
 <LM>w#w-mf920925-051-p2s6w6</LM>
 </w.rf>
 <form>nezměnilo</form>
-<tag lemma="změnit_:W" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="změnit" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-mf920925-051-p2s6w7">
 <src.rf>manual</src.rf>

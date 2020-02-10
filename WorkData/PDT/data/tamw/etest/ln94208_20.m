@@ -67,7 +67,7 @@
 <LM>w#w-ln94208-20-p1s1w7</LM>
 </w.rf>
 <form>neviděl</form>
-<tag lemma="vidět" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="vidět" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-ln94208-20-p1s1w8">
 <src.rf>manual</src.rf>

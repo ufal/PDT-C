@@ -373,7 +373,7 @@
 <LM>w#w-mf920922-116-p4s2w5</LM>
 </w.rf>
 <form>nebyla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-mf920922-116-p4s2w6">
 <src.rf>manual</src.rf>
@@ -381,7 +381,7 @@
 <LM>w#w-mf920922-116-p4s2w6</LM>
 </w.rf>
 <form>založena</form>
-<tag lemma="založit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="založit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf920922-116-p4s2w7">
 <src.rf>manual</src.rf>
@@ -437,7 +437,7 @@
 <LM>w#w-mf920922-116-p4s2w13</LM>
 </w.rf>
 <form>vzešlo</form>
-<tag lemma="vzejít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vzejít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-116-p4s2w14">
 <src.rf>manual</src.rf>
@@ -1884,7 +1884,7 @@
 <LM>w#w-mf920922-116-p4s11w20</LM>
 </w.rf>
 <form>obracely</form>
-<tag lemma="obracet_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="obracet" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf920922-116-p4s11w21">
 <src.rf>manual</src.rf>

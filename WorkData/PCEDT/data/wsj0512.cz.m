@@ -116,7 +116,7 @@
 <LM>w#w-wsj0512-001-p1s0W11</LM>
 </w.rf>
 <form>přijal</form>
-<tag lemma="přijmout" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="přijmout" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0512-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>

@@ -112,7 +112,7 @@
 <LM>w#w-mf930703-004-p1s1w12</LM>
 </w.rf>
 <form>sešli</form>
-<tag lemma="sejít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="sejít" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930703-004-p1s1w13">
 <src.rf>manual</src.rf>

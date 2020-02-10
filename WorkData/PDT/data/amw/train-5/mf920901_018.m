@@ -489,7 +489,7 @@
 <LM>w#w-mf920901-018-p3s1w4</LM>
 </w.rf>
 <form>vyrobeno</form>
-<tag lemma="vyrobit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="vyrobit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf920901-018-p3s1w5">
 <src.rf>manual</src.rf>
@@ -871,7 +871,7 @@
 <LM>w#w-mf920901-018-p3s5w1</LM>
 </w.rf>
 <form>Doporučeno</form>
-<tag lemma="doporučit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="doporučit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf920901-018-p3s5w2">
 <src.rf>manual</src.rf>
@@ -887,7 +887,7 @@
 <LM>w#w-mf920901-018-p3s5w3</LM>
 </w.rf>
 <form>schváleno</form>
-<tag lemma="schválit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="schválit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf920901-018-p3s5w4">
 <src.rf>manual</src.rf>

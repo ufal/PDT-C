@@ -1363,7 +1363,7 @@
 <LM>w#w-lnd94101-098-p1s10w5</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd94101-098-p1s10w6">
 <src.rf>manual</src.rf>
@@ -1371,7 +1371,7 @@
 <LM>w#w-lnd94101-098-p1s10w6</LM>
 </w.rf>
 <form>naměřeno</form>
-<tag lemma="naměřit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="naměřit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd94101-098-p1s10w7">
 <src.rf>manual</src.rf>

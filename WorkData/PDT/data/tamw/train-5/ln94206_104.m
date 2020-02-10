@@ -181,7 +181,7 @@
 <LM>w#w-ln94206-104-p2s1w8</LM>
 </w.rf>
 <form>divil</form>
-<tag lemma="divit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="divit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94206-104-p2s1w9">
 <src.rf>manual</src.rf>
@@ -277,7 +277,7 @@
 <LM>w#w-ln94206-104-p2s1w21</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94206-104-p2s1w22">
 <src.rf>manual</src.rf>
@@ -367,7 +367,7 @@
 <LM>w#w-ln94206-104-p2s2w6</LM>
 </w.rf>
 <form>daly</form>
-<tag lemma="dát" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="dát" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94206-104-p2s2w7">
 <src.rf>manual</src.rf>
@@ -455,7 +455,7 @@
 <LM>w#w-ln94206-104-p2s2w17</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94206-104-p2s2w18">
 <src.rf>manual</src.rf>
@@ -553,7 +553,7 @@
 <LM>w#w-ln94206-104-p2s3w4</LM>
 </w.rf>
 <form>respektovány</form>
-<tag lemma="respektovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="respektovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln94206-104-p2s3w5">
 <src.rf>manual</src.rf>
@@ -561,7 +561,7 @@
 <LM>w#w-ln94206-104-p2s3w5</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94206-104-p2s3w6">
 <src.rf>manual</src.rf>
@@ -603,7 +603,7 @@
 <LM>w#w-ln94206-104-p2s4w4</LM>
 </w.rf>
 <form>objevilo</form>
-<tag lemma="objevit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="objevit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94206-104-p2s4w5">
 <src.rf>manual</src.rf>
@@ -675,7 +675,7 @@
 <LM>w#w-ln94206-104-p2s4w13</LM>
 </w.rf>
 <form>kontrolovalo</form>
-<tag lemma="kontrolovat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="kontrolovat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94206-104-p2s4w14">
 <src.rf>manual</src.rf>
@@ -707,7 +707,7 @@
 <LM>w#w-ln94206-104-p2s4w17</LM>
 </w.rf>
 <form>přiznával</form>
-<tag lemma="přiznávat_:T_^(*4at)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přiznávat_^(*4at)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94206-104-p2s4w18">
 <src.rf>manual</src.rf>

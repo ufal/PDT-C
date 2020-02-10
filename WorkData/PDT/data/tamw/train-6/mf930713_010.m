@@ -529,7 +529,7 @@
 <LM>w#w-mf930713-010-p2s3w25</LM>
 </w.rf>
 <form>hrály</form>
-<tag lemma="hrát" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="hrát" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930713-010-p2s3w26">
 <src.rf>manual</src.rf>
@@ -576,7 +576,7 @@
 <form>ujal</form>
 <tag>
 <AM lemma="ujmout_,x" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="ujmout_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="ujmout" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930713-010-p2s4w5">

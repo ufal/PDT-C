@@ -263,7 +263,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>sdruženy</form>
-<tag lemma="sdružit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="sdružit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd94103-118-p1s3w22">
 <src.rf>manual</src.rf>

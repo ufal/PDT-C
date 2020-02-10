@@ -519,7 +519,7 @@
 <LM>w#w-mf920923-058-p2s3w11</LM>
 </w.rf>
 <form>zkusil</form>
-<tag lemma="zkusit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zkusit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-058-p2s3w12">
 <src.rf>manual</src.rf>
@@ -681,7 +681,7 @@
 <LM>w#w-mf920923-058-p2s4w9</LM>
 </w.rf>
 <form>skončilo</form>
-<tag lemma="skončit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="skončit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-058-p2s4w10">
 <src.rf>manual</src.rf>
@@ -753,7 +753,7 @@
 <LM>w#w-mf920923-058-p2s4w18</LM>
 </w.rf>
 <form>zlanařili</form>
-<tag lemma="zlanařit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zlanařit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920923-058-p2s4w19">
 <src.rf>manual</src.rf>

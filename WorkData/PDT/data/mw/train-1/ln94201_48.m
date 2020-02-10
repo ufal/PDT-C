@@ -19,7 +19,7 @@
 <LM>w#w-ln94201-48-p1s1w1</LM>
 </w.rf>
 <form>Začaly</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94201-48-p1s1w2">
 <src.rf>manual</src.rf>
@@ -187,7 +187,7 @@
 <LM>w#w-ln94201-48-p2s1w17</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94201-48-p2s1w18">
 <src.rf>manual</src.rf>
@@ -203,7 +203,7 @@
 <LM>w#w-ln94201-48-p2s1w19</LM>
 </w.rf>
 <form>zahájeny</form>
-<tag lemma="zahájit" src="auto" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="zahájit" src="auto" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln94201-48-p2s1w20">
 <src.rf>manual</src.rf>
@@ -954,7 +954,7 @@
 <LM>w#w-ln94201-48-p2s4w11</LM>
 </w.rf>
 <form>šlo</form>
-<tag lemma="jít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="jít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94201-48-p2s4w12">
 <src.rf>manual</src.rf>

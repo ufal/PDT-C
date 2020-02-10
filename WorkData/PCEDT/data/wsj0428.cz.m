@@ -61,7 +61,7 @@
 <LM>w#w-wsj0428-001-p1s0W5</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0428-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -194,7 +194,7 @@
 <LM>w#w-wsj0428-001-p1s0W16</LM>
 </w.rf>
 <form>poklesl</form>
-<tag lemma="poklesnout" src="auto" recommended="1">VpYS---XR-AAP-1</tag>
+<tag lemma="poklesnout" src="auto" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-wsj0428-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -374,7 +374,7 @@
 <tag>
 <AM lemma="pokles" src="auto">NNIS1-----A----</AM>
 <AM lemma="pokles" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="poklesnout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="poklesnout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-wsj0428-001-p1s1W4-Ta">
@@ -383,7 +383,7 @@
 <LM>w#w-wsj0428-001-p1s1W4</LM>
 </w.rf>
 <form>přisoudila</form>
-<tag lemma="přisoudit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="přisoudit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0428-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -588,7 +588,7 @@
 <LM>w#w-wsj0428-001-p1s2W7</LM>
 </w.rf>
 <form>vzrostl</form>
-<tag lemma="vzrůst-1" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="vzrůst-1" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0428-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -636,7 +636,7 @@
 <LM>w#w-wsj0428-001-p1s2W12</LM>
 </w.rf>
 <form>klesal</form>
-<tag lemma="klesat" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="klesat" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj0428-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>

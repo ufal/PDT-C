@@ -1732,8 +1732,8 @@
 </w.rf>
 <form>zahrnut</form>
 <tag>
-<AM lemma="zahrnout" src="orig">VsYS---XX-AP---</AM>
-<AM lemma="zahrnout_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+<AM lemma="zahrnout" src="orig">VsYS----X-APP--</AM>
+<AM lemma="zahrnout" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-039-p7s2w6">
@@ -2351,7 +2351,7 @@
 <LM>w#w-cmpr9406-039-p9s1w4</LM>
 </w.rf>
 <form>poskytovány</form>
-<tag lemma="poskytovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="poskytovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-cmpr9406-039-p9s1w5">
 <src.rf>manual</src.rf>
@@ -2473,7 +2473,7 @@
 <LM>w#w-cmpr9406-039-p10s1w5</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9406-039-p10s1w6">
 <src.rf>manual</src.rf>
@@ -2481,7 +2481,7 @@
 <LM>w#w-cmpr9406-039-p10s1w6</LM>
 </w.rf>
 <form>registrováno</form>
-<tag lemma="registrovat_:T_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="registrovat" src="orig" selected="1">VsNS----X-APB--</tag>
 </m>
 <m id="m-cmpr9406-039-p10s1w7">
 <src.rf>manual</src.rf>
@@ -2844,8 +2844,8 @@
 </w.rf>
 <form>zaslán</form>
 <tag>
-<AM lemma="zaslat" src="orig">VsYS---XX-AP---</AM>
-<AM lemma="zaslat_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+<AM lemma="zaslat" src="orig">VsYS----X-APP--</AM>
+<AM lemma="zaslat" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-039-p10s3w6">
@@ -2928,7 +2928,7 @@
 <LM>w#w-cmpr9406-039-p10s4w7</LM>
 </w.rf>
 <form>přihlásily</form>
-<tag lemma="přihlásit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="přihlásit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-cmpr9406-039-p10s4w8">
 <src.rf>manual</src.rf>

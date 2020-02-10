@@ -4029,7 +4029,7 @@
 <LM>w#w-lnd92258-104-p3s12w5</LM>
 </w.rf>
 <form>určen</form>
-<tag lemma="určit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="určit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd92258-104-p3s12w6">
 <src.rf>manual</src.rf>

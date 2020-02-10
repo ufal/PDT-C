@@ -178,7 +178,7 @@
 <LM>w#w-mf930702-017-p2s1w14</LM>
 </w.rf>
 <form>přesvědčen</form>
-<tag lemma="přesvědčit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="přesvědčit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf930702-017-p2s1w15">
 <src.rf>manual</src.rf>
@@ -300,7 +300,7 @@
 <LM>w#w-mf930702-017-p2s2w3</LM>
 </w.rf>
 <form>zdůraznil</form>
-<tag lemma="zdůraznit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zdůraznit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930702-017-p2s2w4">
 <src.rf>manual</src.rf>
@@ -612,7 +612,7 @@
 <LM>w#w-mf930702-017-p2s3w12</LM>
 </w.rf>
 <form>hlásilo</form>
-<tag lemma="hlásit_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="hlásit" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930702-017-p2s3w13">
 <src.rf>manual</src.rf>
@@ -744,7 +744,7 @@
 <LM>w#w-mf930702-017-p2s3w28</LM>
 </w.rf>
 <form>rozhodnuto</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf930702-017-p2s3w29">
 <src.rf>manual</src.rf>

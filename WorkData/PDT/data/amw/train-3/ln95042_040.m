@@ -111,7 +111,7 @@
 <LM>w#w-ln95042-040-p2s1Bw6</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95042-040-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -119,7 +119,7 @@
 <LM>w#w-ln95042-040-p2s1Bw7</LM>
 </w.rf>
 <form>vypovězeni</form>
-<tag lemma="vypovědět" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="vypovědět" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-ln95042-040-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -293,8 +293,8 @@
 </w.rf>
 <form>začala</form>
 <tag>
-<AM lemma="začít-1_^(začnout)" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="začít-1_^(začnout)" src="auto">VpQW----R-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95042-040-p2s2w14">

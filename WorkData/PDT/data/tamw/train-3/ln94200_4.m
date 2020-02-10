@@ -77,7 +77,7 @@
 <LM>w#w-ln94200-4-p2s1w6</LM>
 </w.rf>
 <form>popsal</form>
-<tag lemma="popsat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="popsat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-4-p2s1w7">
 <src.rf>manual</src.rf>
@@ -245,7 +245,7 @@
 <LM>w#w-ln94200-4-p2s1w27</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94200-4-p2s1w28">
 <src.rf>manual</src.rf>
@@ -269,7 +269,7 @@
 <LM>w#w-ln94200-4-p2s1w30</LM>
 </w.rf>
 <form>popraveni</form>
-<tag lemma="popravit_:W" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="popravit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-ln94200-4-p2s1w31">
 <src.rf>manual</src.rf>
@@ -309,7 +309,7 @@
 <LM>w#w-ln94200-4-p2s1w35</LM>
 </w.rf>
 <form>zavražděni</form>
-<tag lemma="zavraždit" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="zavraždit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-ln94200-4-p2s1w36">
 <src.rf>manual</src.rf>
@@ -415,7 +415,7 @@
 <LM>w#w-ln94200-4-p2s2w7</LM>
 </w.rf>
 <form>natočil</form>
-<tag lemma="natočit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="natočit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-4-p2s2w8">
 <src.rf>manual</src.rf>
@@ -615,7 +615,7 @@
 <LM>w#w-ln94200-4-p2s2w32</LM>
 </w.rf>
 <form>vzniklo</form>
-<tag lemma="vzniknout_:W" src="orig" selected="1">VpNS---XR-AA--1</tag>
+<tag lemma="vzniknout" src="orig" selected="1">VpNS----R-AAP-1</tag>
 </m>
 <m id="m-ln94200-4-p2s2w33">
 <src.rf>manual</src.rf>

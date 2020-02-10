@@ -770,7 +770,7 @@
 <LM>w#w-mf920925-084-p2s6w14</LM>
 </w.rf>
 <form>vycházeli</form>
-<tag lemma="vycházet_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vycházet" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf920925-084-p2s6w15">
 <src.rf>manual</src.rf>

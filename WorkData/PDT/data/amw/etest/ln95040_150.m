@@ -19,7 +19,7 @@
 <LM>w#w-ln95040-150-p1s1w1</LM>
 </w.rf>
 <form>Padla</form>
-<tag lemma="padnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="padnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln95040-150-p1s1w2">
 <src.rf>manual</src.rf>

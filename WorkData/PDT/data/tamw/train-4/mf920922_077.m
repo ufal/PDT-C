@@ -241,7 +241,7 @@
 <LM>w#w-mf920922-077-p2s2w5</LM>
 </w.rf>
 <form>dostal</form>
-<tag lemma="dostat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dostat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-077-p2s2w6">
 <src.rf>manual</src.rf>

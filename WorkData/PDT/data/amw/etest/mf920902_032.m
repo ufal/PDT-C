@@ -72,7 +72,7 @@
 <LM>w#w-mf920902-032-p2s1w4</LM>
 </w.rf>
 <form>vyzvalo</form>
-<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-032-p2s1w5">
 <src.rf>manual</src.rf>
@@ -163,7 +163,7 @@
 <LM>w#w-mf920902-032-p2s1w16</LM>
 </w.rf>
 <form>projednal</form>
-<tag lemma="projednat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="projednat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-032-p2s1w17">
 <src.rf>manual</src.rf>
@@ -270,7 +270,7 @@
 <LM>w#w-mf920902-032-p2s1w29</LM>
 </w.rf>
 <form>navrhla</form>
-<tag lemma="navrhnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="navrhnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-mf920902-032-p2s1w30">
 <src.rf>manual</src.rf>
@@ -705,7 +705,7 @@
 <LM>w#w-mf920902-032-p2s3w7</LM>
 </w.rf>
 <form>napsal</form>
-<tag lemma="napsat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="napsat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-032-p2s3w8">
 <src.rf>manual</src.rf>
@@ -828,7 +828,7 @@
 <LM>w#w-mf920902-032-p2s3w22</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920902-032-p2s3w23">
 <src.rf>manual</src.rf>
@@ -897,7 +897,7 @@
 <LM>w#w-mf920902-032-p2s4w6</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920902-032-p2s4w7">
 <src.rf>manual</src.rf>
@@ -948,7 +948,7 @@
 <LM>w#w-mf920902-032-p2s4w12</LM>
 </w.rf>
 <form>naverbován</form>
-<tag lemma="naverbovat_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="naverbovat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf920902-032-p2s4w13">
 <src.rf>manual</src.rf>
@@ -988,7 +988,7 @@
 <LM>w#w-mf920902-032-p2s4w17</LM>
 </w.rf>
 <form>vložen</form>
-<tag lemma="vložit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="vložit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf920902-032-p2s4w18">
 <src.rf>manual</src.rf>
@@ -1036,7 +1036,7 @@
 <LM>w#w-mf920902-032-p2s4w23</LM>
 </w.rf>
 <form>převeden</form>
-<tag lemma="převést" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="převést" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf920902-032-p2s4w24">
 <src.rf>manual</src.rf>

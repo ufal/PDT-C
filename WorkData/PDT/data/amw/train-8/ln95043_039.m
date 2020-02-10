@@ -126,7 +126,7 @@
 <LM>w#w-ln95043-039-p2s1Bw10</LM>
 </w.rf>
 <form>propadl</form>
-<tag lemma="propadnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="propadnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln95043-039-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -636,7 +636,7 @@
 <LM>w#w-ln95043-039-p4s3w2</LM>
 </w.rf>
 <form>přesvědčeni</form>
-<tag lemma="přesvědčit_:W" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="přesvědčit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-ln95043-039-p4s3w3">
 <src.rf>manual</src.rf>

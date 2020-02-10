@@ -433,7 +433,7 @@
 <LM>w#w-ln94201-34-p3s2w3</LM>
 </w.rf>
 <form>chtěli</form>
-<tag lemma="chtít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="chtít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94201-34-p3s2w4">
 <src.rf>manual</src.rf>
@@ -553,7 +553,7 @@
 <LM>w#w-ln94201-34-p3s2w18</LM>
 </w.rf>
 <form>nebyli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-ln94201-34-p3s2w19">
 <src.rf>manual</src.rf>
@@ -783,8 +783,8 @@
 </w.rf>
 <form>měla</form>
 <tag>
-<AM lemma="mít" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="mít_:T" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="mít" src="orig">VpQW----R-AAI--</AM>
+<AM lemma="mít" src="manual" selected="1">VpQW----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln94201-34-p3s3w25">
@@ -1229,7 +1229,7 @@
 <LM>w#w-ln94201-34-p4s3w12</LM>
 </w.rf>
 <form>jezdili</form>
-<tag lemma="jezdit_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="jezdit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94201-34-p4s3w13">
 <src.rf>manual</src.rf>

@@ -98,7 +98,7 @@
 <LM>w#w-wsj2158-001-p1s0W8</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2158-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -153,7 +153,7 @@
 <LM>w#w-wsj2158-001-p1s0W13</LM>
 </w.rf>
 <form>ohlásili</form>
-<tag lemma="ohlásit" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="ohlásit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj2158-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -625,7 +625,7 @@
 <LM>w#w-wsj2158-001-p1s1W17</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj2158-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -633,7 +633,7 @@
 <LM>w#w-wsj2158-001-p1s1W18</LM>
 </w.rf>
 <form>vyplacena</form>
-<tag lemma="vyplatit" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="vyplatit" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj2158-001-p1s1W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -779,7 +779,7 @@
 <LM>w#w-wsj2158-001-p1s1W30</LM>
 </w.rf>
 <form>sloučila</form>
-<tag lemma="sloučit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="sloučit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2158-001-p1s1W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -953,7 +953,7 @@
 <LM>w#w-wsj2158-001-p1s1W43</LM>
 </w.rf>
 <form>došlo</form>
-<tag lemma="dojít" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="dojít" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj2158-001-p1s1W44-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1031,7 +1031,7 @@
 <LM>w#w-wsj2158-001-p1s2W2</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2158-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>

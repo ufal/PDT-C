@@ -91,7 +91,7 @@
 <LM>w#w-lnd92253-024-p1s1w10</LM>
 </w.rf>
 <form>aranžoval</form>
-<tag lemma="aranžovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="aranžovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92253-024-p1s1w11">
 <src.rf>manual</src.rf>
@@ -331,7 +331,7 @@
 <LM>w#w-lnd92253-024-p1s2w11</LM>
 </w.rf>
 <form>vyšly</form>
-<tag lemma="vyjít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vyjít" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd92253-024-p1s2w12">
 <src.rf>manual</src.rf>
@@ -413,7 +413,7 @@
 <LM>w#w-lnd92253-024-p1s3w9</LM>
 </w.rf>
 <form>fotografoval</form>
-<tag lemma="fotografovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="fotografovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92253-024-p1s3w10">
 <src.rf>manual</src.rf>

@@ -56,7 +56,7 @@
 <LM>w#w-wsj0133-001-p1s0W5</LM>
 </w.rf>
 <form>řekla</form>
-<tag lemma="říci" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0133-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -83,7 +83,7 @@
 <LM>w#w-wsj0133-001-p1s0W8</LM>
 </w.rf>
 <form>obdržela</form>
-<tag lemma="obdržet" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="obdržet" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0133-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -524,7 +524,7 @@
 <LM>w#w-wsj0133-001-p1s1W8</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0133-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -532,7 +532,7 @@
 <LM>w#w-wsj0133-001-p1s1W9</LM>
 </w.rf>
 <form>vložena</form>
-<tag lemma="vložit" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="vložit" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj0133-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -682,7 +682,7 @@
 <LM>w#w-wsj0133-001-p1s1W22</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0133-001-p1s1W23-Ta">
 <src.rf>tagger-a</src.rf>

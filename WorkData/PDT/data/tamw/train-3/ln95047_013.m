@@ -103,7 +103,7 @@
 <LM>w#w-ln95047-013-p2s1Bw4</LM>
 </w.rf>
 <form>rozšířil</form>
-<tag lemma="rozšířit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="rozšířit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95047-013-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -379,7 +379,7 @@
 <LM>w#w-ln95047-013-p2s3w7</LM>
 </w.rf>
 <form>počítán</form>
-<tag lemma="počítat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="počítat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-ln95047-013-p2s3w8">
 <src.rf>manual</src.rf>
@@ -523,7 +523,7 @@
 <LM>w#w-ln95047-013-p2s3w25</LM>
 </w.rf>
 <form>napsal</form>
-<tag lemma="napsat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="napsat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95047-013-p2s3w26">
 <src.rf>manual</src.rf>
@@ -597,7 +597,7 @@
 <LM>w#w-ln95047-013-p2s4w5</LM>
 </w.rf>
 <form>zvýhodnila</form>
-<tag lemma="zvýhodnit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zvýhodnit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95047-013-p2s4w6">
 <src.rf>manual</src.rf>
@@ -783,7 +783,7 @@
 <LM>w#w-ln95047-013-p2s5w16</LM>
 </w.rf>
 <form>ohradili</form>
-<tag lemma="ohradit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="ohradit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95047-013-p2s5w17">
 <src.rf>manual</src.rf>

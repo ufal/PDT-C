@@ -83,7 +83,7 @@
 <LM>w#w-vesm9303-048-p1s1w9</LM>
 </w.rf>
 <form>udělil</form>
-<tag lemma="udělit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="udělit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-vesm9303-048-p1s1w10">
 <src.rf>manual</src.rf>

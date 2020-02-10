@@ -67,7 +67,7 @@
 <LM>w#w-lnd92252-001-p1s1w7</LM>
 </w.rf>
 <form>nezvítězila</form>
-<tag lemma="zvítězit_:W" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="zvítězit" src="orig" selected="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-lnd92252-001-p1s1w8">
 <src.rf>manual</src.rf>
@@ -93,7 +93,7 @@
 <LM>w#w-lnd92252-001-p1s2w2</LM>
 </w.rf>
 <form>podlehla</form>
-<tag lemma="podlehnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="podlehnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-lnd92252-001-p1s2w3">
 <src.rf>manual</src.rf>
@@ -141,7 +141,7 @@
 <LM>w#w-lnd92252-001-p1s2w8</LM>
 </w.rf>
 <form>obdržela</form>
-<tag lemma="obdržet" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="obdržet" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-001-p1s2w9">
 <src.rf>manual</src.rf>
@@ -223,7 +223,7 @@
 <LM>w#w-lnd92252-001-p1s3w4</LM>
 </w.rf>
 <form>našly</form>
-<tag lemma="najít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="najít" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-001-p1s3w5">
 <src.rf>manual</src.rf>
@@ -311,7 +311,7 @@
 <LM>w#w-lnd92252-001-p1s3w15</LM>
 </w.rf>
 <form>skórovaly</form>
-<tag lemma="skórovat_:T_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="skórovat" src="orig" selected="1">VpTP----R-AAB--</tag>
 </m>
 <m id="m-lnd92252-001-p1s3w16">
 <src.rf>manual</src.rf>
@@ -418,7 +418,7 @@
 <LM>w#w-lnd92252-001-p1s3w28</LM>
 </w.rf>
 <form>rozdrtil</form>
-<tag lemma="rozdrtit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="rozdrtit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-001-p1s3w29">
 <src.rf>manual</src.rf>

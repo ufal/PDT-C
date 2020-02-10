@@ -321,7 +321,7 @@
 <LM>w#w-ln95041-073-p2s2w6</LM>
 </w.rf>
 <form>donutili</form>
-<tag lemma="donutit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="donutit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95041-073-p2s2w7">
 <src.rf>manual</src.rf>
@@ -353,7 +353,7 @@
 <LM>w#w-ln95041-073-p2s2w11</LM>
 </w.rf>
 <form>nehýbali</form>
-<tag lemma="hýbat_:T" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="hýbat" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-ln95041-073-p2s2w12">
 <src.rf>manual</src.rf>
@@ -387,7 +387,7 @@
 <LM>w#w-ln95041-073-p2s3w3</LM>
 </w.rf>
 <form>hlídal</form>
-<tag lemma="hlídat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="hlídat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95041-073-p2s3w4">
 <src.rf>manual</src.rf>
@@ -451,7 +451,7 @@
 <LM>w#w-ln95041-073-p2s3w11</LM>
 </w.rf>
 <form>vnikli</form>
-<tag lemma="vniknout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="vniknout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-ln95041-073-p2s3w12">
 <src.rf>manual</src.rf>
@@ -493,7 +493,7 @@
 <LM>w#w-ln95041-073-p2s4w1</LM>
 </w.rf>
 <form>Odcizili</form>
-<tag lemma="odcizit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="odcizit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95041-073-p2s4w2">
 <src.rf>manual</src.rf>

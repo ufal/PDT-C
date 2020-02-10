@@ -296,7 +296,7 @@
 <LM>w#w-mf930702-046-p2s1w33</LM>
 </w.rf>
 <form>složen</form>
-<tag lemma="složit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="složit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf930702-046-p2s1w34">
 <src.rf>manual</src.rf>
@@ -687,7 +687,7 @@
 <LM>w#w-mf930702-046-p4s1w6</LM>
 </w.rf>
 <form>zfilmoval</form>
-<tag lemma="zfilmovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zfilmovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930702-046-p4s1w7">
 <src.rf>manual</src.rf>
@@ -928,8 +928,8 @@
 </w.rf>
 <form>přepsal</form>
 <tag>
-<AM lemma="přepsat" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="přepsat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="přepsat" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="přepsat" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930702-046-p4s2w13">

@@ -91,7 +91,7 @@
 <LM>w#w-ln95043-074-p1s1w10</LM>
 </w.rf>
 <form>vyvrcholilo</form>
-<tag lemma="vyvrcholit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vyvrcholit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95043-074-p1s1w11">
 <src.rf>manual</src.rf>

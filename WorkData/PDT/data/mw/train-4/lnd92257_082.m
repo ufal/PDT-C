@@ -3066,7 +3066,7 @@
 <LM>w#w-lnd92257-082-p9s1Bw9</LM>
 </w.rf>
 <form>objevil</form>
-<tag lemma="objevit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="objevit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-082-p9s1Bw10">
 <src.rf>manual</src.rf>
@@ -3755,7 +3755,7 @@
 <LM>w#w-lnd92257-082-p22s1w5</LM>
 </w.rf>
 <form>otevřen</form>
-<tag lemma="otevřít" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="otevřít" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd92257-082-p22s1w6">
 <src.rf>manual</src.rf>
@@ -4673,7 +4673,7 @@
 <LM>w#w-lnd92257-082-p38s1w7</LM>
 </w.rf>
 <form>vylodily</form>
-<tag lemma="vylodit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vylodit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-082-p38s1w8">
 <src.rf>manual</src.rf>

@@ -742,7 +742,7 @@
 <LM>w#w-wsj1758-001-p1s5W4</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="mít" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1758-001-p1s5W5-Ta">
 <src.rf>tagger-a</src.rf>

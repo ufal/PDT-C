@@ -183,7 +183,7 @@
 <LM>w#w-mf920925-036-p2s2w16</LM>
 </w.rf>
 <form>vrácen</form>
-<tag lemma="vrátit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="vrátit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf920925-036-p2s2w17">
 <src.rf>manual</src.rf>
@@ -239,7 +239,7 @@
 <LM>w#w-mf920925-036-p2s2w23</LM>
 </w.rf>
 <form>vlastnili</form>
-<tag lemma="vlastnit_:T_^(někdo_má_něco_ve_vlastnictví)" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf920925-036-p2s2w24">
 <src.rf>manual</src.rf>
@@ -545,7 +545,7 @@
 <LM>w#w-mf920925-036-p2s4w19</LM>
 </w.rf>
 <form>stěhována</form>
-<tag lemma="stěhovat_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="stěhovat" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-mf920925-036-p2s4w20">
 <src.rf>manual</src.rf>
@@ -561,7 +561,7 @@
 <LM>w#w-mf920925-036-p2s4w21</LM>
 </w.rf>
 <form>neměla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-mf920925-036-p2s4w22">
 <src.rf>manual</src.rf>
@@ -659,7 +659,7 @@
 <LM>w#w-mf920925-036-p2s5w11</LM>
 </w.rf>
 <form>patřil</form>
-<tag lemma="patřit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="patřit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920925-036-p2s5w12">
 <src.rf>manual</src.rf>

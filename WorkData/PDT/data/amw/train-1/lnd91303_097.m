@@ -80,7 +80,7 @@
 <LM>w#w-lnd91303-097-p2s1w5</LM>
 </w.rf>
 <form>získali</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-097-p2s1w6">
 <src.rf>manual</src.rf>

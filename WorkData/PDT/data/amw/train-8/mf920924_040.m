@@ -245,7 +245,7 @@
 <LM>w#w-mf920924-040-p2s2w17</LM>
 </w.rf>
 <form>seznámil</form>
-<tag lemma="seznámit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="seznámit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920924-040-p2s2w18">
 <src.rf>manual</src.rf>

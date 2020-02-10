@@ -461,7 +461,7 @@
 <LM>w#w-mf920923-105-p2s6w3</LM>
 </w.rf>
 <form>zveřejnil</form>
-<tag lemma="zveřejnit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zveřejnit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-105-p2s6w4">
 <src.rf>manual</src.rf>
@@ -872,7 +872,7 @@
 <LM>w#w-mf920923-105-p3s3w4</LM>
 </w.rf>
 <form>považovány</form>
-<tag lemma="považovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="považovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf920923-105-p3s3w5">
 <src.rf>manual</src.rf>
@@ -968,7 +968,7 @@
 <LM>w#w-mf920923-105-p3s3w16</LM>
 </w.rf>
 <form>dohnáni</form>
-<tag lemma="dohnat" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="dohnat" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-mf920923-105-p3s3w17">
 <src.rf>manual</src.rf>

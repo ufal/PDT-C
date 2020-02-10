@@ -100,7 +100,7 @@
 <LM>w#w-lnd92251-001-p4s1w4</LM>
 </w.rf>
 <form>překročil</form>
-<tag lemma="překročit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="překročit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-001-p4s1w5">
 <src.rf>manual</src.rf>
@@ -132,7 +132,7 @@
 <LM>w#w-lnd92251-001-p4s1w8</LM>
 </w.rf>
 <form>ocitl</form>
-<tag lemma="ocitnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="ocitnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd92251-001-p4s1w9">
 <src.rf>manual</src.rf>
@@ -396,7 +396,7 @@
 <LM>w#w-lnd92251-001-p4s1w41</LM>
 </w.rf>
 <form>ZVOLAL</form>
-<tag lemma="zvolat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zvolat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-001-p4s1w42">
 <src.rf>manual</src.rf>

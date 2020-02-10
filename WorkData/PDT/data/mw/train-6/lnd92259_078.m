@@ -652,7 +652,7 @@
 <LM>w#w-lnd92259-078-p4s1w26</LM>
 </w.rf>
 <form>získala</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-078-p4s1w27">
 <src.rf>manual</src.rf>
@@ -1758,7 +1758,7 @@
 <LM>w#w-lnd92259-078-p4s6w36</LM>
 </w.rf>
 <form>připojeny</form>
-<tag lemma="připojit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="připojit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd92259-078-p4s6w37">
 <src.rf>manual</src.rf>
@@ -2927,7 +2927,7 @@
 <LM>w#w-lnd92259-078-p5s1w9</LM>
 </w.rf>
 <form>dostaly</form>
-<tag lemma="dostat" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="dostat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-078-p5s1w10">
 <src.rf>manual</src.rf>

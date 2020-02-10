@@ -35,7 +35,7 @@
 <LM>w#w-ln94208-102-p1s1Aw3</LM>
 </w.rf>
 <form>prodloužil</form>
-<tag lemma="prodloužit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prodloužit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94208-102-p1s1Aw4">
 <src.rf>manual</src.rf>
@@ -105,7 +105,7 @@
 <LM>w#w-ln94208-102-p1s1Aw11</LM>
 </w.rf>
 <form>porazil</form>
-<tag lemma="porazit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="porazit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94208-102-p1s1Aw12">
 <src.rf>manual</src.rf>

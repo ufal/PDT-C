@@ -35,7 +35,7 @@
 <LM>w#w-ln95047-046-p1s1w3</LM>
 </w.rf>
 <form>ztvárnil</form>
-<tag lemma="ztvárnit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="ztvárnit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95047-046-p1s1w4">
 <src.rf>manual</src.rf>

@@ -318,8 +318,8 @@
 </w.rf>
 <form>popřela</form>
 <tag>
-<AM lemma="popřít" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="popřít_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="popřít" src="orig">VpQW----R-AAP--</AM>
+<AM lemma="popřít" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930703-016-p2s1w32">
@@ -593,7 +593,7 @@
 <LM>w#w-mf930703-016-p3s3w2</LM>
 </w.rf>
 <form>požádali</form>
-<tag lemma="požádat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="požádat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930703-016-p3s3w3">
 <src.rf>manual</src.rf>
@@ -697,7 +697,7 @@
 <LM>w#w-mf930703-016-p3s3w16</LM>
 </w.rf>
 <form>prošetřily</form>
-<tag lemma="prošetřit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="prošetřit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf930703-016-p3s3w17">
 <src.rf>manual</src.rf>
@@ -992,8 +992,8 @@
 </w.rf>
 <form>uvedla</form>
 <tag>
-<AM lemma="uvést" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="uvést_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="uvést" src="orig">VpQW----R-AAP--</AM>
+<AM lemma="uvést" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930703-016-p4s1w5">

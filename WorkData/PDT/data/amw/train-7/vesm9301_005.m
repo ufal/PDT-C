@@ -271,7 +271,7 @@
 <LM>w#w-vesm9301-005-p5s1w7</LM>
 </w.rf>
 <form>vynořila</form>
-<tag lemma="vynořit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vynořit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-vesm9301-005-p5s1w8">
 <src.rf>manual</src.rf>
@@ -311,7 +311,7 @@
 <LM>w#w-vesm9301-005-p5s1w12</LM>
 </w.rf>
 <form>prožila</form>
-<tag lemma="prožít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="prožít" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-vesm9301-005-p5s1w13">
 <src.rf>manual</src.rf>
@@ -375,7 +375,7 @@
 <LM>w#w-vesm9301-005-p5s1w20</LM>
 </w.rf>
 <form>proměňovala</form>
-<tag lemma="proměňovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="proměňovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-vesm9301-005-p5s1w21">
 <src.rf>manual</src.rf>
@@ -1746,7 +1746,7 @@
 <LM>w#w-vesm9301-005-p6s4w11</LM>
 </w.rf>
 <form>vplynuly</form>
-<tag lemma="vplynout" src="auto" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vplynout" src="auto" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-vesm9301-005-p6s4w12">
 <src.rf>manual</src.rf>

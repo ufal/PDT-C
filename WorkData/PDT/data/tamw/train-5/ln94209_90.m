@@ -51,7 +51,7 @@
 <LM>w#w-ln94209-90-p1s1Aw5</LM>
 </w.rf>
 <form>postoupil</form>
-<tag lemma="postoupit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="postoupit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94209-90-p1s1Aw6">
 <src.rf>manual</src.rf>
@@ -115,7 +115,7 @@
 <LM>w#w-ln94209-90-p1s1Aw13</LM>
 </w.rf>
 <form>slavil</form>
-<tag lemma="slavit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="slavit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94209-90-p1s1Aw14">
 <src.rf>manual</src.rf>

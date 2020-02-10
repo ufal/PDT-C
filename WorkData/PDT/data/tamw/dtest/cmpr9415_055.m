@@ -117,7 +117,7 @@
 <LM>w#w-cmpr9415-055-p3s1w9</LM>
 </w.rf>
 <form>Pojmenovala</form>
-<tag lemma="pojmenovat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="pojmenovat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-cmpr9415-055-p3s1w10">
 <src.rf>manual</src.rf>

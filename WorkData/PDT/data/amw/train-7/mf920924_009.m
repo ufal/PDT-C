@@ -531,7 +531,7 @@
 <LM>w#w-mf920924-009-p2s5w20</LM>
 </w.rf>
 <form>mělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920924-009-p2s5w21">
 <src.rf>manual</src.rf>

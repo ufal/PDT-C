@@ -356,7 +356,7 @@
 <LM>w#w-ln94200-18-p3s1w7</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94200-18-p3s1w8">
 <src.rf>manual</src.rf>
@@ -455,7 +455,7 @@
 <LM>w#w-ln94200-18-p3s2w4</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94200-18-p3s2w5">
 <src.rf>manual</src.rf>
@@ -495,7 +495,7 @@
 <LM>w#w-ln94200-18-p3s2w9</LM>
 </w.rf>
 <form>dosažen</form>
-<tag lemma="dosáhnout" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="dosáhnout" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94200-18-p3s2w10">
 <src.rf>manual</src.rf>
@@ -559,7 +559,7 @@
 <LM>w#w-ln94200-18-p3s2w17</LM>
 </w.rf>
 <form>sklidilo</form>
-<tag lemma="sklidit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="sklidit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-18-p3s2w18">
 <src.rf>manual</src.rf>
@@ -677,7 +677,7 @@
 <LM>w#w-ln94200-18-p4s1w9</LM>
 </w.rf>
 <form>očekáván</form>
-<tag lemma="očekávat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="očekávat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-ln94200-18-p4s1w10">
 <src.rf>manual</src.rf>

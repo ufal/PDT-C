@@ -269,7 +269,7 @@
 <LM>w#w-mf920925-015-p1s2w6</LM>
 </w.rf>
 <form>informoval</form>
-<tag lemma="informovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="informovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-mf920925-015-p1s2w7">
 <src.rf>manual</src.rf>

@@ -35,7 +35,7 @@
 <LM>w#w-ln95043-029-p1s1w3</LM>
 </w.rf>
 <form>zdolala</form>
-<tag lemma="zdolat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zdolat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95043-029-p1s1w4">
 <src.rf>manual</src.rf>
@@ -151,7 +151,7 @@
 <LM>w#w-ln95043-029-p2s1Bw10</LM>
 </w.rf>
 <form>vytvořila</form>
-<tag lemma="vytvořit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vytvořit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95043-029-p2s1Bw11">
 <src.rf>manual</src.rf>

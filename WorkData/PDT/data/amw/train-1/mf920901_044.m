@@ -250,7 +250,7 @@
 <LM>w#w-mf920901-044-p2s2w24</LM>
 </w.rf>
 <form>vyústily</form>
-<tag lemma="vyústit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vyústit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf920901-044-p2s2w25">
 <src.rf>manual</src.rf>
@@ -306,7 +306,7 @@
 <LM>w#w-mf920901-044-p2s2w31</LM>
 </w.rf>
 <form>neměly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-NA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-NAI--</tag>
 </m>
 <m id="m-mf920901-044-p2s2w32">
 <src.rf>manual</src.rf>
@@ -527,7 +527,7 @@
 <LM>w#w-mf920901-044-p2s3w14</LM>
 </w.rf>
 <form>charakterizovány</form>
-<tag lemma="charakterizovat_:T_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="charakterizovat" src="orig" selected="1">VsTP----X-APB--</tag>
 </m>
 <m id="m-mf920901-044-p2s3w15">
 <src.rf>manual</src.rf>

@@ -189,7 +189,7 @@
 <LM>w#w-ln95043-115-p3s1w9</LM>
 </w.rf>
 <form>přerozdělil</form>
-<tag lemma="přerozdělit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přerozdělit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95043-115-p3s1w10">
 <src.rf>manual</src.rf>
@@ -231,7 +231,7 @@
 <LM>w#w-ln95043-115-p3s2w2</LM>
 </w.rf>
 <form>vyzýval</form>
-<tag lemma="vyzývat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyzývat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95043-115-p3s2w3">
 <src.rf>manual</src.rf>
@@ -311,7 +311,7 @@
 <LM>w#w-ln95043-115-p3s2w12</LM>
 </w.rf>
 <form>spatřovali</form>
-<tag lemma="spatřovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="spatřovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95043-115-p3s2w13">
 <src.rf>manual</src.rf>
@@ -868,7 +868,7 @@
 <LM>w#w-ln95043-115-p5s1w6</LM>
 </w.rf>
 <form>množily</form>
-<tag lemma="množit_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="množit" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95043-115-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1336,7 +1336,7 @@
 <LM>w#w-ln95043-115-p6s1w4</LM>
 </w.rf>
 <form>vzbudil</form>
-<tag lemma="vzbudit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vzbudit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95043-115-p6s1w5">
 <src.rf>manual</src.rf>

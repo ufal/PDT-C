@@ -131,7 +131,7 @@
 <LM>w#w-ln94206-33-p1s1w15</LM>
 </w.rf>
 <form>postříkal</form>
-<tag lemma="postříkat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="postříkat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94206-33-p1s1w16">
 <src.rf>manual</src.rf>

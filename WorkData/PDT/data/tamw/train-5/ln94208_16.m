@@ -73,7 +73,7 @@
 <LM>w#w-ln94208-16-p2s1w6</LM>
 </w.rf>
 <form>dosáhl</form>
-<tag lemma="dosáhnout" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dosáhnout" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94208-16-p2s1w7">
 <src.rf>manual</src.rf>
@@ -179,7 +179,7 @@
 <LM>w#w-ln94208-16-p2s2w5</LM>
 </w.rf>
 <form>činila</form>
-<tag lemma="činit_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="činit" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94208-16-p2s2w6">
 <src.rf>manual</src.rf>
@@ -256,7 +256,7 @@
 <LM>w#w-ln94208-16-p2s3w4</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94208-16-p2s3w5">
 <src.rf>manual</src.rf>
@@ -264,7 +264,7 @@
 <LM>w#w-ln94208-16-p2s3w5</LM>
 </w.rf>
 <form>dosažen</form>
-<tag lemma="dosáhnout" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="dosáhnout" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94208-16-p2s3w6">
 <src.rf>manual</src.rf>
@@ -340,7 +340,7 @@
 <LM>w#w-ln94208-16-p2s3w14</LM>
 </w.rf>
 <form>dovážely</form>
-<tag lemma="dovážet_:T_^(z_ciziny)" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="dovážet_^(z_ciziny)" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94208-16-p2s3w15">
 <src.rf>manual</src.rf>

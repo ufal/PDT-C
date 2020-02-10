@@ -214,7 +214,7 @@
 <LM>w#w-lnd92256-076-p2s3w2</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-076-p2s3w3">
 <src.rf>manual</src.rf>
@@ -396,7 +396,7 @@
 <LM>w#w-lnd92256-076-p2s4w7</LM>
 </w.rf>
 <form>ležela</form>
-<tag lemma="ležet" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="ležet" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92256-076-p2s4w8">
 <src.rf>manual</src.rf>
@@ -494,7 +494,7 @@
 <LM>w#w-lnd92256-076-p2s5w8</LM>
 </w.rf>
 <form>odpálena</form>
-<tag lemma="odpálit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="odpálit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd92256-076-p2s5w9">
 <src.rf>manual</src.rf>

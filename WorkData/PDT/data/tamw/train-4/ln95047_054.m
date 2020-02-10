@@ -101,7 +101,7 @@
 <LM>w#w-ln95047-054-p2s1w6</LM>
 </w.rf>
 <form>otevřelo</form>
-<tag lemma="otevřít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="otevřít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95047-054-p2s1w7">
 <src.rf>manual</src.rf>

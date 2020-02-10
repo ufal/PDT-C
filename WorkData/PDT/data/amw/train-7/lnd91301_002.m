@@ -213,7 +213,7 @@
 <LM>w#w-lnd91301-002-p3s1Bw10</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-002-p3s1Bw11">
 <src.rf>manual</src.rf>

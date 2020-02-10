@@ -27,7 +27,7 @@
 <LM>w#w-mf930702-002-p1s1w2</LM>
 </w.rf>
 <form>nedodržela</form>
-<tag lemma="dodržet" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="dodržet" src="orig" selected="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-mf930702-002-p1s1w3">
 <src.rf>manual</src.rf>
@@ -261,7 +261,7 @@
 <LM>w#w-mf930702-002-p2s2w1</LM>
 </w.rf>
 <form>Uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930702-002-p2s2w2">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <LM>w#w-mf930702-002-p2s3w4</LM>
 </w.rf>
 <form>porušila</form>
-<tag lemma="porušit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="porušit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930702-002-p2s3w5">
 <src.rf>manual</src.rf>
@@ -627,7 +627,7 @@
 <LM>w#w-mf930702-002-p2s5w8</LM>
 </w.rf>
 <form>vyjádřili</form>
-<tag lemma="vyjádřit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyjádřit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930702-002-p2s5w9">
 <src.rf>manual</src.rf>

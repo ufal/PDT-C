@@ -93,7 +93,7 @@
 <LM>w#w-mf930702-079-p2s1w7</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930702-079-p2s1w8">
 <src.rf>manual</src.rf>
@@ -102,8 +102,8 @@
 </w.rf>
 <form>podepsána</form>
 <tag>
-<AM lemma="podepsat" src="orig">VsQW---XX-AP---</AM>
-<AM lemma="podepsat_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+<AM lemma="podepsat" src="orig">VsQW----X-APP--</AM>
+<AM lemma="podepsat" src="manual" selected="1">VsQW----X-APP--</AM>
 </tag>
 </m>
 <m id="m-mf930702-079-p2s1w9">
@@ -350,7 +350,7 @@
 <LM>w#w-mf930702-079-p2s2w5</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930702-079-p2s2w6">
 <src.rf>manual</src.rf>
@@ -359,8 +359,8 @@
 </w.rf>
 <form>pronajata</form>
 <tag>
-<AM lemma="pronajmout" src="orig">VsQW---XX-AP---</AM>
-<AM lemma="pronajmout_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+<AM lemma="pronajmout" src="orig">VsQW----X-APP--</AM>
+<AM lemma="pronajmout" src="manual" selected="1">VsQW----X-APP--</AM>
 </tag>
 </m>
 <m id="m-mf930702-079-p2s2w7">
@@ -441,7 +441,7 @@
 <LM>w#w-mf930702-079-p2s2w16</LM>
 </w.rf>
 <form>stvrdili</form>
-<tag lemma="stvrdit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="stvrdit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930702-079-p2s2w17">
 <src.rf>manual</src.rf>

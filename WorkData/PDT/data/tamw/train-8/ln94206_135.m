@@ -141,7 +141,7 @@
 <LM>w#w-ln94206-135-p2s1Bw1</LM>
 </w.rf>
 <form>Povzbuzena</form>
-<tag lemma="povzbudit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="povzbudit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94206-135-p2s1Bw2">
 <src.rf>manual</src.rf>
@@ -189,7 +189,7 @@
 <LM>w#w-ln94206-135-p2s1Bw7</LM>
 </w.rf>
 <form>provedla</form>
-<tag lemma="provést" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="provést" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94206-135-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -280,7 +280,7 @@
 <LM>w#w-ln94206-135-p2s1Bw18</LM>
 </w.rf>
 <form>zkoumala</form>
-<tag lemma="zkoumat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zkoumat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94206-135-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -368,7 +368,7 @@
 <LM>w#w-ln94206-135-p2s1Bw29</LM>
 </w.rf>
 <form>nacházelo</form>
-<tag lemma="nacházet_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="nacházet" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94206-135-p2s1Bw30">
 <src.rf>manual</src.rf>
@@ -410,7 +410,7 @@
 <LM>w#w-ln94206-135-p2s2w1</LM>
 </w.rf>
 <form>Zjistila</form>
-<tag lemma="zjistit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zjistit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94206-135-p2s2w2">
 <src.rf>manual</src.rf>
@@ -868,7 +868,7 @@
 <LM>w#w-ln94206-135-p3s1w6</LM>
 </w.rf>
 <form>přesvědčen</form>
-<tag lemma="přesvědčit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="přesvědčit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94206-135-p3s1w7">
 <src.rf>manual</src.rf>
@@ -908,7 +908,7 @@
 <LM>w#w-ln94206-135-p3s1w11</LM>
 </w.rf>
 <form>daly</form>
-<tag lemma="dát" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="dát" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94206-135-p3s1w12">
 <src.rf>manual</src.rf>
@@ -1034,7 +1034,7 @@
 <LM>w#w-ln94206-135-p3s2w1</LM>
 </w.rf>
 <form>Nadhodil</form>
-<tag lemma="nadhodit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nadhodit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94206-135-p3s2w2">
 <src.rf>manual</src.rf>
@@ -1107,7 +1107,7 @@
 <LM>w#w-ln94206-135-p3s2w10</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94206-135-p3s2w11">
 <src.rf>manual</src.rf>

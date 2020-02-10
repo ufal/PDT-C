@@ -258,7 +258,7 @@
 <LM>w#w-ln94207-20-p2s1Bw22</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94207-20-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -603,7 +603,7 @@
 <LM>w#w-ln94207-20-p2s2w17</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94207-20-p2s2w18">
 <src.rf>manual</src.rf>
@@ -635,7 +635,7 @@
 <LM>w#w-ln94207-20-p2s2w21</LM>
 </w.rf>
 <form>kontrolována</form>
-<tag lemma="kontrolovat_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="kontrolovat" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-ln94207-20-p2s2w22">
 <src.rf>manual</src.rf>

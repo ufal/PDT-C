@@ -35,7 +35,7 @@
 <LM>w#w-mf930703-097-p1s1w3</LM>
 </w.rf>
 <form>rozděleny</form>
-<tag lemma="rozdělit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="rozdělit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 </s>
 <s id="m-mf930703-097-p2s1">
@@ -133,7 +133,7 @@
 <LM>w#w-mf930703-097-p2s1w12</LM>
 </w.rf>
 <form>rozdělovaly</form>
-<tag lemma="rozdělovat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="rozdělovat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930703-097-p2s1w13">
 <src.rf>manual</src.rf>
@@ -362,7 +362,7 @@
 <LM>w#w-mf930703-097-p2s2w15</LM>
 </w.rf>
 <form>získali</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930703-097-p2s2w16">
 <src.rf>manual</src.rf>
@@ -687,7 +687,7 @@
 <LM>w#w-mf930703-097-p3s1w7</LM>
 </w.rf>
 <form>získala</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930703-097-p3s1w8">
 <src.rf>manual</src.rf>
@@ -769,7 +769,7 @@
 <LM>w#w-mf930703-097-p3s2w7</LM>
 </w.rf>
 <form>vedl</form>
-<tag lemma="vést" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vést" src="auto" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930703-097-p3s2w8">
 <src.rf>manual</src.rf>
@@ -859,7 +859,7 @@
 <LM>w#w-mf930703-097-p3s3w8</LM>
 </w.rf>
 <form>nemělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-mf930703-097-p3s3w9">
 <src.rf>manual</src.rf>

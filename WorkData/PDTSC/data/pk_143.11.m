@@ -52,7 +52,7 @@
 <LM>w#w-d1t3023-13</LM>
 </w.rf>
 <form>šlo</form>
-<tag lemma="jít" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="jít" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m143-d-id186207-punct">
 <w.rf>

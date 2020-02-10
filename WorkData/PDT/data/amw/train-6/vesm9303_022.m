@@ -99,7 +99,7 @@
 <LM>w#w-vesm9303-022-p1s1w11</LM>
 </w.rf>
 <form>používali</form>
-<tag lemma="používat_:T_^(*3t)" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="používat_^(*3t)" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-vesm9303-022-p1s1w12">
 <src.rf>manual</src.rf>
@@ -707,7 +707,7 @@
 <LM>w#w-vesm9303-022-p1s3w38</LM>
 </w.rf>
 <form>krmily</form>
-<tag lemma="krmit_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="krmit" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-vesm9303-022-p1s3w39">
 <src.rf>manual</src.rf>

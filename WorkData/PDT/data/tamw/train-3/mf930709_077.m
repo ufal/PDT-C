@@ -446,7 +446,7 @@
 <LM>w#w-mf930709-077-p2s3w8</LM>
 </w.rf>
 <form>nepřistoupil</form>
-<tag lemma="přistoupit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="přistoupit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-mf930709-077-p2s3w9">
 <src.rf>manual</src.rf>
@@ -563,7 +563,7 @@
 <LM>w#w-mf930709-077-p2s4w4</LM>
 </w.rf>
 <form>připojil</form>
-<tag lemma="připojit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="připojit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-077-p2s4w5">
 <src.rf>manual</src.rf>
@@ -665,7 +665,7 @@
 <LM>w#w-mf930709-077-p2s4w16</LM>
 </w.rf>
 <form>diskvalifikovala</form>
-<tag lemma="diskvalifikovat_:T_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="diskvalifikovat" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-mf930709-077-p2s4w17">
 <src.rf>manual</src.rf>
@@ -723,7 +723,7 @@
 <LM>w#w-mf930709-077-p2s5w6</LM>
 </w.rf>
 <form>přešlo</form>
-<tag lemma="přejít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="přejít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-077-p2s5w7">
 <src.rf>manual</src.rf>
@@ -869,7 +869,7 @@
 <LM>w#w-mf930709-077-p2s6w4</LM>
 </w.rf>
 <form>dotovány</form>
-<tag lemma="dotovat_:T_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="dotovat" src="orig" selected="1">VsTP----X-APB--</tag>
 </m>
 <m id="m-mf930709-077-p2s6w5">
 <src.rf>manual</src.rf>

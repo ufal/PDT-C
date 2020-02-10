@@ -623,7 +623,7 @@
 <LM>w#w-ln95047-048-p2s5w8</LM>
 </w.rf>
 <form>přihlásily</form>
-<tag lemma="přihlásit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="přihlásit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95047-048-p2s5w9">
 <src.rf>manual</src.rf>

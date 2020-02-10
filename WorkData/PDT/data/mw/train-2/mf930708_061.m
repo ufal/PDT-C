@@ -1031,7 +1031,7 @@
 <LM>w#w-mf930708-061-p2s5w7</LM>
 </w.rf>
 <form>odpadla</form>
-<tag lemma="odpadnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="odpadnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-mf930708-061-p2s5w8">
 <src.rf>manual</src.rf>
@@ -1137,7 +1137,7 @@
 <LM>w#w-mf930708-061-p2s6w12</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930708-061-p2s6w13">
 <src.rf>manual</src.rf>

@@ -1095,7 +1095,7 @@
 <LM>w#w-ln95040-038-p2s4w16</LM>
 </w.rf>
 <form>omezeny</form>
-<tag lemma="omezit" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="omezit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln95040-038-p2s4w17">
 <src.rf>manual</src.rf>
@@ -2252,7 +2252,7 @@
 <LM>w#w-ln95040-038-p2s10w14</LM>
 </w.rf>
 <form>pokusil</form>
-<tag lemma="pokusit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="pokusit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-038-p2s10w15">
 <src.rf>manual</src.rf>
@@ -2316,7 +2316,7 @@
 <LM>w#w-ln95040-038-p2s10w22</LM>
 </w.rf>
 <form>neuklidil</form>
-<tag lemma="uklidit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="uklidit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-ln95040-038-p2s10w23">
 <src.rf>manual</src.rf>
@@ -2598,7 +2598,7 @@
 <LM>w#w-ln95040-038-p2s11Aw34</LM>
 </w.rf>
 <form>přemýšlel</form>
-<tag lemma="přemýšlet_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přemýšlet" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95040-038-p2s11Aw35">
 <src.rf>manual</src.rf>
@@ -2678,7 +2678,7 @@
 <LM>w#w-ln95040-038-p2s11Aw44</LM>
 </w.rf>
 <form>nadělila</form>
-<tag lemma="nadělit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="nadělit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95040-038-p2s11Aw45">
 <src.rf>manual</src.rf>
@@ -2744,7 +2744,7 @@
 <LM>w#w-ln95040-038-p2s11Bw7</LM>
 </w.rf>
 <form>vznikl</form>
-<tag lemma="vzniknout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="vzniknout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln95040-038-p2s11Bw8">
 <src.rf>manual</src.rf>
@@ -2824,7 +2824,7 @@
 <LM>w#w-ln95040-038-p2s11Bw17</LM>
 </w.rf>
 <form>nebyl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-ln95040-038-p2s11Bw18">
 <src.rf>manual</src.rf>
@@ -2840,7 +2840,7 @@
 <LM>w#w-ln95040-038-p2s11Bw19</LM>
 </w.rf>
 <form>přehodnocen</form>
-<tag lemma="přehodnotit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="přehodnotit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95040-038-p2s11Bw20">
 <src.rf>manual</src.rf>
@@ -2872,7 +2872,7 @@
 <LM>w#w-ln95040-038-p2s11Bw23</LM>
 </w.rf>
 <form>uvědomil</form>
-<tag lemma="uvědomit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvědomit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-038-p2s11Bw24">
 <src.rf>manual</src.rf>
@@ -3710,7 +3710,7 @@
 <LM>w#w-ln95040-038-p2s16Aw20</LM>
 </w.rf>
 <form>hrazena</form>
-<tag lemma="hradit_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="hradit" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-ln95040-038-p2s16Aw21">
 <src.rf>manual</src.rf>

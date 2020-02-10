@@ -85,7 +85,7 @@
 <LM>w#w-ln94200-53-p2s1w8</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94200-53-p2s1w9">
 <src.rf>manual</src.rf>
@@ -141,7 +141,7 @@
 <LM>w#w-ln94200-53-p2s1w15</LM>
 </w.rf>
 <form>stanovena</form>
-<tag lemma="stanovit_:W_^(určit)" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="stanovit_^(určit)" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94200-53-p2s1w16">
 <src.rf>manual</src.rf>
@@ -259,7 +259,7 @@
 <LM>w#w-ln94200-53-p2s2Aw9</LM>
 </w.rf>
 <form>měněna</form>
-<tag lemma="měnit_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="měnit" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 </s>
 <s id="m-ln94200-53-p2s2B">
@@ -303,7 +303,7 @@
 <LM>w#w-ln94200-53-p2s2Bw4</LM>
 </w.rf>
 <form>udělilo</form>
-<tag lemma="udělit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="udělit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-53-p2s2Bw5">
 <src.rf>manual</src.rf>

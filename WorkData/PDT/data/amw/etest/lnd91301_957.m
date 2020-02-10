@@ -131,8 +131,8 @@
 </w.rf>
 <form>přibylo</form>
 <tag>
-<AM lemma="přibýt" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="přibýt_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="přibýt" src="orig">VpNS----R-AAP--</AM>
+<AM lemma="přibýt" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd91301-957-p2s1Aw4">
@@ -281,7 +281,7 @@
 <LM>w#w-lnd91301-957-p3s2w4</LM>
 </w.rf>
 <form>položili</form>
-<tag lemma="položit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="položit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-957-p3s2w5">
 <src.rf>manual</src.rf>
@@ -515,7 +515,7 @@
 <LM>w#w-lnd91301-957-p4s1Aw11</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd91301-957-p4s1Aw12">
 <src.rf>manual</src.rf>
@@ -523,7 +523,7 @@
 <LM>w#w-lnd91301-957-p4s1Aw12</LM>
 </w.rf>
 <form>přesvědčeni</form>
-<tag lemma="přesvědčit_:W" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="přesvědčit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-lnd91301-957-p4s1Aw13">
 <src.rf>manual</src.rf>
@@ -633,8 +633,8 @@
 </w.rf>
 <form>dostali</form>
 <tag>
-<AM lemma="dostat" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="dostat_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+<AM lemma="dostat" src="orig">VpMP----R-AAP--</AM>
+<AM lemma="dostat" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd91301-957-p4s2Aw4">
@@ -1160,7 +1160,7 @@
 <LM>w#w-lnd91301-957-p4s5w3</LM>
 </w.rf>
 <form>odcházel</form>
-<tag lemma="odcházet_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odcházet" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd91301-957-p4s5w4">
 <src.rf>manual</src.rf>
@@ -1421,7 +1421,7 @@
 <LM>w#w-lnd91301-957-p4s8w8</LM>
 </w.rf>
 <form>získali</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-957-p4s8w9">
 <src.rf>manual</src.rf>
@@ -1593,8 +1593,8 @@
 </w.rf>
 <form>dostali</form>
 <tag>
-<AM lemma="dostat" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="dostat_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+<AM lemma="dostat" src="orig">VpMP----R-AAP--</AM>
+<AM lemma="dostat" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd91301-957-p4s10w4">
@@ -1678,7 +1678,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>nabízela</form>
-<tag lemma="nabízet_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="nabízet" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd91301-957-p4s11w5">
 <src.rf>manual</src.rf>
@@ -2097,7 +2097,7 @@
 <LM>w#w-lnd91301-957-p5s2Aw13</LM>
 </w.rf>
 <form>řečeno</form>
-<tag lemma="říci" src="auto" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="říci" src="auto" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd91301-957-p5s2Aw14">
 <src.rf>manual</src.rf>
@@ -3115,7 +3115,7 @@
 <LM>w#w-lnd91301-957-p6s5w26</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd91301-957-p6s5w27">
 <src.rf>manual</src.rf>
@@ -3377,7 +3377,7 @@
 <LM>w#w-lnd91301-957-p6s7w6</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd91301-957-p6s7w7">
 <src.rf>manual</src.rf>
@@ -3671,7 +3671,7 @@
 <LM>w#w-lnd91301-957-p6s7w41</LM>
 </w.rf>
 <form>vrátila</form>
-<tag lemma="vrátit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vrátit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-957-p6s7w42">
 <src.rf>manual</src.rf>
@@ -3875,7 +3875,7 @@
 <LM>w#w-lnd91301-957-p8s1w8</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd91301-957-p8s1w9">
 <src.rf>manual</src.rf>
@@ -4134,7 +4134,7 @@
 <LM>w#w-lnd91301-957-p8s4w8</LM>
 </w.rf>
 <form>platili</form>
-<tag lemma="platit_:T" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="platit" src="auto" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd91301-957-p8s4w9">
 <src.rf>manual</src.rf>
@@ -4209,8 +4209,8 @@
 </w.rf>
 <form>vyloučeno</form>
 <tag>
-<AM lemma="vyloučit" src="orig">VsNS---XX-AP---</AM>
-<AM lemma="vyloučit_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+<AM lemma="vyloučit" src="orig">VsNS----X-APP--</AM>
+<AM lemma="vyloučit" src="manual" selected="1">VsNS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-lnd91301-957-p8s5w8">
@@ -4406,8 +4406,8 @@
 </w.rf>
 <form>Slyšela</form>
 <tag>
-<AM lemma="slyšet" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="slyšet_:T" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="slyšet" src="orig">VpQW----R-AAI--</AM>
+<AM lemma="slyšet" src="manual" selected="1">VpQW----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-lnd91301-957-p9s1w2">
@@ -4488,7 +4488,7 @@
 <LM>w#w-lnd91301-957-p9s1w11</LM>
 </w.rf>
 <form>financovány</form>
-<tag lemma="financovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="financovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-lnd91301-957-p9s1w12">
 <src.rf>manual</src.rf>
@@ -4537,8 +4537,8 @@
 </w.rf>
 <form>dostaly</form>
 <tag>
-<AM lemma="dostat" src="orig">VpTP---XR-AA---</AM>
-<AM lemma="dostat_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+<AM lemma="dostat" src="orig">VpTP----R-AAP--</AM>
+<AM lemma="dostat" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd91301-957-p9s1w18">
@@ -4658,8 +4658,8 @@
 </w.rf>
 <form>Slyšela</form>
 <tag>
-<AM lemma="slyšet" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="slyšet_:T" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="slyšet" src="orig">VpQW----R-AAI--</AM>
+<AM lemma="slyšet" src="manual" selected="1">VpQW----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-lnd91301-957-p10s1w2">

@@ -226,7 +226,7 @@
 <LM>w#w-ln94201-24-p2s2w2</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94201-24-p2s2w3">
 <src.rf>manual</src.rf>
@@ -282,7 +282,7 @@
 <LM>w#w-ln94201-24-p2s2w9</LM>
 </w.rf>
 <form>slíbili</form>
-<tag lemma="slíbit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="slíbit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94201-24-p2s2w10">
 <src.rf>manual</src.rf>
@@ -404,7 +404,7 @@
 <LM>w#w-ln94201-24-p2s3w1</LM>
 </w.rf>
 <form>Měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94201-24-p2s3w2">
 <src.rf>manual</src.rf>
@@ -444,7 +444,7 @@
 <LM>w#w-ln94201-24-p2s3w6</LM>
 </w.rf>
 <form>umísťovány</form>
-<tag lemma="umísťovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="umísťovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln94201-24-p2s3w7">
 <src.rf>manual</src.rf>

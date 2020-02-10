@@ -264,7 +264,7 @@
 <LM>w#w-lnd91303-072-p1s2w14</LM>
 </w.rf>
 <form>nedostaly</form>
-<tag lemma="dostat" src="orig" selected="1">VpTP---XR-NA---</tag>
+<tag lemma="dostat" src="orig" selected="1">VpTP----R-NAP--</tag>
 </m>
 <m id="m-lnd91303-072-p1s2w15">
 <src.rf>manual</src.rf>

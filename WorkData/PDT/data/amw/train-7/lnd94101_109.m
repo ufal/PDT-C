@@ -427,7 +427,7 @@
 <LM>w#w-lnd94101-109-p1s4w1</LM>
 </w.rf>
 <form>Napsala</form>
-<tag lemma="napsat" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="napsat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-109-p1s4w2">
 <src.rf>manual</src.rf>
@@ -612,7 +612,7 @@
 <LM>w#w-lnd94101-109-p1s6w6</LM>
 </w.rf>
 <form>odpovídalo</form>
-<tag lemma="odpovídat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="odpovídat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd94101-109-p1s6w7">
 <src.rf>manual</src.rf>
@@ -2387,7 +2387,7 @@
 <LM>w#w-lnd94101-109-p1s12w19</LM>
 </w.rf>
 <form>nezmiňoval</form>
-<tag lemma="zmiňovat_:T" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="zmiňovat" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-lnd94101-109-p1s12w20">
 <src.rf>manual</src.rf>

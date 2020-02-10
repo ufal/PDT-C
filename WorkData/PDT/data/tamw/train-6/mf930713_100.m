@@ -273,7 +273,7 @@
 <LM>w#w-mf930713-100-p2s2w4</LM>
 </w.rf>
 <form>přispěl</form>
-<tag lemma="přispět" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přispět" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-100-p2s2w5">
 <src.rf>manual</src.rf>

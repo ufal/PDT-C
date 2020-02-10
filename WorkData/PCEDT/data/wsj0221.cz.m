@@ -84,7 +84,7 @@
 <LM>w#w-wsj0221-001-p1s0W7</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0221-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -407,7 +407,7 @@
 <LM>w#w-wsj0221-001-p1s1W5</LM>
 </w.rf>
 <form>přebírána</form>
-<tag lemma="přebírat" src="auto" recommended="1">VsQW---XX-API--</tag>
+<tag lemma="přebírat" src="auto" recommended="1">VsQW----X-API--</tag>
 </m>
 <m id="m-wsj0221-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>

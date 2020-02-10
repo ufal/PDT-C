@@ -769,7 +769,7 @@
 <LM>w#w-vesm9301-022-p3s1w22</LM>
 </w.rf>
 <form>podařilo</form>
-<tag lemma="podařit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="podařit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-vesm9301-022-p3s1w23">
 <src.rf>manual</src.rf>

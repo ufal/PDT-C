@@ -101,7 +101,7 @@
 <LM>w#w-mf930709-044-p3s3w7</LM>
 </w.rf>
 <form>úročeny</form>
-<tag lemma="úročit_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="úročit" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf930709-044-p3s3w8">
 <src.rf>manual</src.rf>
@@ -398,7 +398,7 @@
 <LM>w#w-mf930709-044-p4s1w5</LM>
 </w.rf>
 <form>úročeny</form>
-<tag lemma="úročit_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="úročit" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf930709-044-p4s1w6">
 <src.rf>manual</src.rf>

@@ -3187,7 +3187,7 @@
 <LM>w#w-ln95040-009-p7s2w15</LM>
 </w.rf>
 <form>pojištěn</form>
-<tag lemma="pojistit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="pojistit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95040-009-p7s2w16">
 <src.rf>manual</src.rf>
@@ -3332,7 +3332,7 @@
 <LM>w#w-ln95040-009-p8s2w7</LM>
 </w.rf>
 <form>formovaly</form>
-<tag lemma="formovat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="formovat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95040-009-p8s2w8">
 <src.rf>manual</src.rf>
@@ -3510,7 +3510,7 @@
 <LM>w#w-ln95040-009-p8s3w7</LM>
 </w.rf>
 <form>pořídil</form>
-<tag lemma="pořídit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="pořídit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-009-p8s3w8">
 <src.rf>manual</src.rf>
@@ -3632,7 +3632,7 @@
 <LM>w#w-ln95040-009-p8s4w8</LM>
 </w.rf>
 <form>požadovala</form>
-<tag lemma="požadovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="požadovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95040-009-p8s4w9">
 <src.rf>manual</src.rf>
@@ -3696,7 +3696,7 @@
 <LM>w#w-ln95040-009-p8s4w16</LM>
 </w.rf>
 <form>žádal</form>
-<tag lemma="žádat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="žádat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95040-009-p8s4w17">
 <src.rf>manual</src.rf>
@@ -3736,7 +3736,7 @@
 <LM>w#w-ln95040-009-p8s4w21</LM>
 </w.rf>
 <form>vybíral</form>
-<tag lemma="vybírat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vybírat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95040-009-p8s4w22">
 <src.rf>manual</src.rf>
@@ -3829,7 +3829,7 @@
 <LM>w#w-ln95040-009-p9s1w5</LM>
 </w.rf>
 <form>vznikl</form>
-<tag lemma="vzniknout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="vzniknout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln95040-009-p9s1w6">
 <src.rf>manual</src.rf>
@@ -5673,8 +5673,8 @@
 </w.rf>
 <form>řečeno</form>
 <tag>
-<AM lemma="říci" src="auto">VsNS---XX-AP---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+<AM lemma="říci" src="auto">VsNS----X-APP--</AM>
+<AM lemma="říci" src="manual" selected="1">VsNS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-ln95040-009-p11s5w13">

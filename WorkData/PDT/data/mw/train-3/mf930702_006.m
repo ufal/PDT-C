@@ -35,7 +35,7 @@
 <LM>w#w-mf930702-006-p1s1w3</LM>
 </w.rf>
 <form>začali</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930702-006-p1s1w4">
 <src.rf>manual</src.rf>
@@ -168,7 +168,7 @@
 <LM>w#w-mf930702-006-p2s1w13</LM>
 </w.rf>
 <form>začal</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930702-006-p2s1w14">
 <src.rf>manual</src.rf>
@@ -692,7 +692,7 @@
 <LM>w#w-mf930702-006-p3s1w7</LM>
 </w.rf>
 <form>nelišila</form>
-<tag lemma="lišit_:T" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="lišit" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-mf930702-006-p3s1w8">
 <src.rf>manual</src.rf>
@@ -782,7 +782,7 @@
 <LM>w#w-mf930702-006-p3s2w7</LM>
 </w.rf>
 <form>nezostřili</form>
-<tag lemma="zostřit_:W" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="zostřit" src="orig" selected="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m-mf930702-006-p3s2w8">
 <src.rf>manual</src.rf>
@@ -816,7 +816,7 @@
 <LM>w#w-mf930702-006-p3s3w3</LM>
 </w.rf>
 <form>nezvýšil</form>
-<tag lemma="zvýšit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="zvýšit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-mf930702-006-p3s3w4">
 <src.rf>manual</src.rf>
@@ -832,7 +832,7 @@
 <LM>w#w-mf930702-006-p3s3w5</LM>
 </w.rf>
 <form>nesnížil</form>
-<tag lemma="snížit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="snížit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-mf930702-006-p3s3w6">
 <src.rf>manual</src.rf>
@@ -1084,7 +1084,7 @@
 <LM>w#w-mf930702-006-p4s2w8</LM>
 </w.rf>
 <form>přijeli</form>
-<tag lemma="přijet" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přijet" src="auto" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930702-006-p4s2w9">
 <src.rf>manual</src.rf>
@@ -1167,7 +1167,7 @@
 <LM>w#w-mf930702-006-p4s2w18</LM>
 </w.rf>
 <form>vyloučeni</form>
-<tag lemma="vyloučit" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="vyloučit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-mf930702-006-p4s2w19">
 <src.rf>manual</src.rf>
@@ -1457,7 +1457,7 @@
 <LM>w#w-mf930702-006-p5s1w22</LM>
 </w.rf>
 <form>neuzavřely</form>
-<tag lemma="uzavřít" src="orig" selected="1">VpTP---XR-NA---</tag>
+<tag lemma="uzavřít" src="orig" selected="1">VpTP----R-NAP--</tag>
 </m>
 <m id="m-mf930702-006-p5s1w23">
 <src.rf>manual</src.rf>

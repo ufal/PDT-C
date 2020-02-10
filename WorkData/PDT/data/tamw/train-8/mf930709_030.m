@@ -908,7 +908,7 @@
 <LM>w#w-mf930709-030-p3s1w11</LM>
 </w.rf>
 <form>ušetřeni</form>
-<tag lemma="ušetřit" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="ušetřit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-mf930709-030-p3s1w12">
 <src.rf>manual</src.rf>

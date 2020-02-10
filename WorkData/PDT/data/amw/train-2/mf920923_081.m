@@ -231,7 +231,7 @@
 <LM>w#w-mf920923-081-p1s1Cw19</LM>
 </w.rf>
 <form>uprchli</form>
-<tag lemma="uprchnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="uprchnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-mf920923-081-p1s1Cw20">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <LM>w#w-mf920923-081-p1s2w3</LM>
 </w.rf>
 <form>umístěni</form>
-<tag lemma="umístit" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="umístit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-mf920923-081-p1s2w4">
 <src.rf>manual</src.rf>
@@ -401,7 +401,7 @@
 <LM>w#w-mf920923-081-p1s2w12</LM>
 </w.rf>
 <form>sebrali</form>
-<tag lemma="sebrat" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="sebrat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920923-081-p1s2w13">
 <src.rf>manual</src.rf>
@@ -459,7 +459,7 @@
 <LM>w#w-mf920923-081-p1s3w2</LM>
 </w.rf>
 <form>zamkli</form>
-<tag lemma="zamknout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="zamknout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-mf920923-081-p1s3w3">
 <src.rf>manual</src.rf>
@@ -491,7 +491,7 @@
 <LM>w#w-mf920923-081-p1s3w6</LM>
 </w.rf>
 <form>vykradli</form>
-<tag lemma="vykrást" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vykrást" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920923-081-p1s3w7">
 <src.rf>manual</src.rf>
@@ -515,7 +515,7 @@
 <LM>w#w-mf920923-081-p1s3w9</LM>
 </w.rf>
 <form>vypáčili</form>
-<tag lemma="vypáčit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vypáčit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920923-081-p1s3w10">
 <src.rf>manual</src.rf>
@@ -603,7 +603,7 @@
 <LM>w#w-mf920923-081-p1s3w20</LM>
 </w.rf>
 <form>zanechali</form>
-<tag lemma="zanechat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zanechat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920923-081-p1s3w21">
 <src.rf>manual</src.rf>
@@ -705,7 +705,7 @@
 <LM>w#w-mf920923-081-p1s4w8</LM>
 </w.rf>
 <form>pokusili</form>
-<tag lemma="pokusit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="pokusit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920923-081-p1s4w9">
 <src.rf>manual</src.rf>
@@ -851,7 +851,7 @@
 <LM>w#w-mf920923-081-p1s5w7</LM>
 </w.rf>
 <form>dopustili</form>
-<tag lemma="dopustit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="dopustit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920923-081-p1s5w8">
 <src.rf>manual</src.rf>

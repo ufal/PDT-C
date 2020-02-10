@@ -774,7 +774,7 @@
 <LM>w#w-mf920902-109-p1s4w24</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-109-p1s4w25">
 <src.rf>manual</src.rf>

@@ -48,7 +48,7 @@
 <LM>w#w-wsj2001-001-p1s0W4</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj2001-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -56,7 +56,7 @@
 <LM>w#w-wsj2001-001-p1s0W5</LM>
 </w.rf>
 <form>jmenován</form>
-<tag lemma="jmenovat" src="auto" recommended="1">VsYS---XX-APB--</tag>
+<tag lemma="jmenovat" src="auto" recommended="1">VsYS----X-APB--</tag>
 </m>
 <m id="m-wsj2001-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -376,7 +376,7 @@
 <LM>w#w-wsj2001-001-p1s1W6</LM>
 </w.rf>
 <form>působil</form>
-<tag lemma="působit" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="působit" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj2001-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -496,7 +496,7 @@
 <LM>w#w-wsj2001-001-p1s2W3</LM>
 </w.rf>
 <form>přijal</form>
-<tag lemma="přijmout" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="přijmout" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2001-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>

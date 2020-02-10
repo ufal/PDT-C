@@ -227,7 +227,7 @@
 <LM>w#w-cmpr9406-029-p2s1Bw3</LM>
 </w.rf>
 <form>položili</form>
-<tag lemma="položit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="položit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-cmpr9406-029-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -694,7 +694,7 @@
 <LM>w#w-cmpr9406-029-p4s2w8</LM>
 </w.rf>
 <form>formulována</form>
-<tag lemma="formulovat_:T_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="formulovat" src="orig" selected="1">VsQW----X-APB--</tag>
 </m>
 <m id="m-cmpr9406-029-p4s2w9">
 <src.rf>manual</src.rf>
@@ -902,7 +902,7 @@
 <LM>w#w-cmpr9406-029-p4s3w5</LM>
 </w.rf>
 <form>definovány</form>
-<tag lemma="definovat_:T_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="definovat" src="orig" selected="1">VsTP----X-APB--</tag>
 </m>
 <m id="m-cmpr9406-029-p4s3w6">
 <src.rf>manual</src.rf>
@@ -1000,7 +1000,7 @@
 <LM>w#w-cmpr9406-029-p4s4w2</LM>
 </w.rf>
 <form>podpořilo</form>
-<tag lemma="podpořit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="podpořit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9406-029-p4s4w3">
 <src.rf>manual</src.rf>
@@ -1088,7 +1088,7 @@
 <LM>w#w-cmpr9406-029-p4s4w14</LM>
 </w.rf>
 <form>prodal</form>
-<tag lemma="prodat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prodat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9406-029-p4s4w15">
 <src.rf>manual</src.rf>

@@ -35,7 +35,7 @@
 <LM>w#w-lnd94101-115-p1s1w3</LM>
 </w.rf>
 <form>povýšil</form>
-<tag lemma="povýšit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="povýšit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-115-p1s1w4">
 <src.rf>manual</src.rf>

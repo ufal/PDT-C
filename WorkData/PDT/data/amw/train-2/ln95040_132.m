@@ -43,7 +43,7 @@
 <LM>w#w-ln95040-132-p1s1w5</LM>
 </w.rf>
 <form>viděl</form>
-<tag lemma="vidět" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vidět" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 </s>
 <s id="m-ln95040-132-p2s1A">
@@ -122,7 +122,7 @@
 <LM>w#w-ln95040-132-p2s1Bw7</LM>
 </w.rf>
 <form>připravil</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="připravit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-132-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -380,7 +380,7 @@
 <LM>w#w-ln95040-132-p2s2w18</LM>
 </w.rf>
 <form>umístěni</form>
-<tag lemma="umístit" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="umístit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-ln95040-132-p2s2w19">
 <src.rf>manual</src.rf>
@@ -497,7 +497,7 @@
 <LM>w#w-ln95040-132-p2s3w10</LM>
 </w.rf>
 <form>viděl</form>
-<tag lemma="vidět" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vidět" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95040-132-p2s3w11">
 <src.rf>manual</src.rf>
@@ -521,7 +521,7 @@
 <LM>w#w-ln95040-132-p2s3w13</LM>
 </w.rf>
 <form>komentoval</form>
-<tag lemma="komentovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="komentovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln95040-132-p2s3w14">
 <src.rf>manual</src.rf>

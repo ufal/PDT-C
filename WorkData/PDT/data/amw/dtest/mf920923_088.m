@@ -130,7 +130,7 @@
 <LM>w#w-mf920923-088-p2s2Aw6</LM>
 </w.rf>
 <form>ozbrojeni</form>
-<tag lemma="ozbrojit_:W" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="ozbrojit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-mf920923-088-p2s2Aw7">
 <src.rf>manual</src.rf>
@@ -460,7 +460,7 @@
 <LM>w#w-mf920923-088-p2s2Bw19</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920923-088-p2s2Bw20">
 <src.rf>manual</src.rf>
@@ -570,7 +570,7 @@
 <LM>w#w-mf920923-088-p2s3w4</LM>
 </w.rf>
 <form>zamkli</form>
-<tag lemma="zamknout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="zamknout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-mf920923-088-p2s3w5">
 <src.rf>manual</src.rf>
@@ -605,7 +605,7 @@
 <LM>w#w-mf920923-088-p2s3w8</LM>
 </w.rf>
 <form>ujeli</form>
-<tag lemma="ujet" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="ujet" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920923-088-p2s3w9">
 <src.rf>manual</src.rf>

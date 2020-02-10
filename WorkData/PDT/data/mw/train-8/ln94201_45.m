@@ -187,7 +187,7 @@
 <LM>w#w-ln94201-45-p2s2w1</LM>
 </w.rf>
 <form>Oznámil</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94201-45-p2s2w2">
 <src.rf>manual</src.rf>
@@ -353,7 +353,7 @@
 <LM>w#w-ln94201-45-p2s3w14</LM>
 </w.rf>
 <form>poskytla</form>
-<tag lemma="poskytnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="poskytnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln94201-45-p2s3w15">
 <src.rf>manual</src.rf>
@@ -411,7 +411,7 @@
 <LM>w#w-ln94201-45-p2s4w4</LM>
 </w.rf>
 <form>slíbilo</form>
-<tag lemma="slíbit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="slíbit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94201-45-p2s4w5">
 <src.rf>manual</src.rf>
@@ -485,7 +485,7 @@
 <LM>w#w-ln94201-45-p2s5w3</LM>
 </w.rf>
 <form>změnilo</form>
-<tag lemma="změnit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="změnit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94201-45-p2s5w4">
 <src.rf>manual</src.rf>
@@ -581,7 +581,7 @@
 <LM>w#w-ln94201-45-p2s5w15</LM>
 </w.rf>
 <form>obvinily</form>
-<tag lemma="obvinit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="obvinit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94201-45-p2s5w16">
 <src.rf>manual</src.rf>
@@ -690,7 +690,7 @@
 <LM>w#w-ln94201-45-p3s1w7</LM>
 </w.rf>
 <form>prohlásil</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94201-45-p3s1w8">
 <src.rf>manual</src.rf>
@@ -900,7 +900,7 @@
 <LM>w#w-ln94201-45-p3s2w9</LM>
 </w.rf>
 <form>zintenzívnilo</form>
-<tag lemma="zintenzívnit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zintenzívnit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94201-45-p3s2w10">
 <src.rf>manual</src.rf>
@@ -1006,7 +1006,7 @@
 <LM>w#w-ln94201-45-p3s3w5</LM>
 </w.rf>
 <form>vracelo</form>
-<tag lemma="vracet_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vracet" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94201-45-p3s3w6">
 <src.rf>manual</src.rf>

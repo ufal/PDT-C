@@ -137,7 +137,7 @@
 <LM>w#w-mf930708-044-p1s1w15</LM>
 </w.rf>
 <form>vystoupil</form>
-<tag lemma="vystoupit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vystoupit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-044-p1s1w16">
 <src.rf>manual</src.rf>

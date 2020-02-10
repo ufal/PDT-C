@@ -88,7 +88,7 @@
 <LM>w#w-mf930703-087-p2s1w7</LM>
 </w.rf>
 <form>nucen</form>
-<tag lemma="nutit_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="nutit" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-mf930703-087-p2s1w8">
 <src.rf>manual</src.rf>
@@ -525,7 +525,7 @@
 <LM>w#w-mf930703-087-p3s3w1</LM>
 </w.rf>
 <form>Blýskl</form>
-<tag lemma="blýsknout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="blýsknout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf930703-087-p3s3w2">
 <src.rf>manual</src.rf>
@@ -637,7 +637,7 @@
 <LM>w#w-mf930703-087-p3s3w15</LM>
 </w.rf>
 <form>zlikvidoval</form>
-<tag lemma="zlikvidovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zlikvidovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-087-p3s3w16">
 <src.rf>manual</src.rf>

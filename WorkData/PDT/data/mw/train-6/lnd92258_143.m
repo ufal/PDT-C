@@ -265,7 +265,7 @@
 <LM>w#w-lnd92258-143-p2s3w6</LM>
 </w.rf>
 <form>ubytováno</form>
-<tag lemma="ubytovat_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="ubytovat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92258-143-p2s3w7">
 <src.rf>manual</src.rf>
@@ -385,7 +385,7 @@
 <LM>w#w-lnd92258-143-p2s4w6</LM>
 </w.rf>
 <form>obsazeny</form>
-<tag lemma="obsadit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="obsadit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd92258-143-p2s4w7">
 <src.rf>manual</src.rf>
@@ -555,7 +555,7 @@
 <LM>w#w-lnd92258-143-p2s5w16</LM>
 </w.rf>
 <form>přislíbil</form>
-<tag lemma="přislíbit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přislíbit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-143-p2s5w17">
 <src.rf>manual</src.rf>

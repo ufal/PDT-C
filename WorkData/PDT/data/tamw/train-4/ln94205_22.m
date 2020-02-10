@@ -196,7 +196,7 @@
 <LM>w#w-ln94205-22-p2s1Cw6</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94205-22-p2s1Cw7">
 <src.rf>manual</src.rf>
@@ -335,8 +335,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94205-22-p2s2w3">
@@ -1917,7 +1917,7 @@
 <LM>w#w-ln94205-22-p7s1w4</LM>
 </w.rf>
 <form>dokončila</form>
-<tag lemma="dokončit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="dokončit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94205-22-p7s1w5">
 <src.rf>manual</src.rf>
@@ -2143,7 +2143,7 @@
 <LM>w#w-ln94205-22-p7s2w3</LM>
 </w.rf>
 <form>vznikla</form>
-<tag lemma="vzniknout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="vzniknout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln94205-22-p7s2w4">
 <src.rf>manual</src.rf>

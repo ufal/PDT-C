@@ -85,7 +85,7 @@
 <LM>w#w-ln95047-032-p2s1w8</LM>
 </w.rf>
 <form>vybojoval</form>
-<tag lemma="vybojovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vybojovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95047-032-p2s1w9">
 <src.rf>manual</src.rf>

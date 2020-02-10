@@ -56,7 +56,7 @@
 <LM>w#w-wsj0531-001-p1s0W5</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0531-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -271,7 +271,7 @@
 <LM>w#w-wsj0531-001-p1s1W6</LM>
 </w.rf>
 <form>neřekl</form>
-<tag lemma="říci" src="auto" recommended="1">VpYS---XR-NAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-wsj0531-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -405,7 +405,7 @@
 <LM>w#w-wsj0531-001-p1s2W4</LM>
 </w.rf>
 <form>prohlásila</form>
-<tag lemma="prohlásit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="prohlásit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0531-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -640,7 +640,7 @@
 <LM>w#w-wsj0531-001-p1s3W6</LM>
 </w.rf>
 <form>vykoupila</form>
-<tag lemma="vykoupit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="vykoupit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0531-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -837,7 +837,7 @@
 <LM>w#w-wsj0531-001-p1s4W4</LM>
 </w.rf>
 <form>vykoupila</form>
-<tag lemma="vykoupit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="vykoupit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0531-001-p1s4W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1046,7 +1046,7 @@
 <LM>w#w-wsj0531-001-p1s5W12</LM>
 </w.rf>
 <form>uzavírala</form>
-<tag lemma="uzavírat" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="uzavírat" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0531-001-p1s5W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1119,7 +1119,7 @@
 <tag>
 <AM lemma="propad" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="propad" src="auto">NNIS4-----A----</AM>
-<AM lemma="propadnout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="propadnout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-wsj0531-001-p1s5W20-Ta">

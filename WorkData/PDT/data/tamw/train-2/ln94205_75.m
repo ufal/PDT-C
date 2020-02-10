@@ -216,7 +216,7 @@
 <LM>w#w-ln94205-75-p2s1Bw16</LM>
 </w.rf>
 <form>navštívil</form>
-<tag lemma="navštívit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="navštívit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94205-75-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -330,7 +330,7 @@
 <LM>w#w-ln94205-75-p2s2w7</LM>
 </w.rf>
 <form>setkal</form>
-<tag lemma="setkat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="setkat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94205-75-p2s2w8">
 <src.rf>manual</src.rf>
@@ -523,7 +523,7 @@
 <LM>w#w-ln94205-75-p2s3w12</LM>
 </w.rf>
 <form>ujistil</form>
-<tag lemma="ujistit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="ujistit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94205-75-p2s3w13">
 <src.rf>manual</src.rf>
@@ -652,8 +652,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94205-75-p2s3w29">
@@ -763,7 +763,7 @@
 <LM>w#w-ln94205-75-p2s4w4</LM>
 </w.rf>
 <form>převzal</form>
-<tag lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94205-75-p2s4w5">
 <src.rf>manual</src.rf>
@@ -835,7 +835,7 @@
 <LM>w#w-ln94205-75-p2s4w13</LM>
 </w.rf>
 <form>poděkoval</form>
-<tag lemma="poděkovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="poděkovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94205-75-p2s4w14">
 <src.rf>manual</src.rf>
@@ -917,7 +917,7 @@
 <LM>w#w-ln94205-75-p2s6w3</LM>
 </w.rf>
 <form>uvítala</form>
-<tag lemma="uvítat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="uvítat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94205-75-p2s6w4">
 <src.rf>manual</src.rf>
@@ -1029,7 +1029,7 @@
 <LM>w#w-ln94205-75-p2s6w17</LM>
 </w.rf>
 <form>usnadnilo</form>
-<tag lemma="usnadnit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="usnadnit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94205-75-p2s6w18">
 <src.rf>manual</src.rf>

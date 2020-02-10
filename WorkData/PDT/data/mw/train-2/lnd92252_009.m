@@ -113,7 +113,7 @@
 <LM>w#w-lnd92252-009-p3s2w5</LM>
 </w.rf>
 <form>vypukly</form>
-<tag lemma="vypuknout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="vypuknout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-lnd92252-009-p3s2w6">
 <src.rf>manual</src.rf>
@@ -153,7 +153,7 @@
 <LM>w#w-lnd92252-009-p3s2w10</LM>
 </w.rf>
 <form>přerušily</form>
-<tag lemma="přerušit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="přerušit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-009-p3s2w11">
 <src.rf>manual</src.rf>
@@ -246,7 +246,7 @@
 <LM>w#w-lnd92252-009-p3s3w3</LM>
 </w.rf>
 <form>uvedli</form>
-<tag lemma="uvést" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-009-p3s3w4">
 <src.rf>manual</src.rf>
@@ -289,7 +289,7 @@
 <LM>w#w-lnd92252-009-p3s3w8</LM>
 </w.rf>
 <form>evakuovala</form>
-<tag lemma="evakuovat_:T_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="evakuovat" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-lnd92252-009-p3s3w9">
 <src.rf>manual</src.rf>
@@ -417,7 +417,7 @@
 <LM>w#w-lnd92252-009-p3s3w24</LM>
 </w.rf>
 <form>zaútočili</form>
-<tag lemma="zaútočit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zaútočit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-009-p3s3w25">
 <src.rf>manual</src.rf>
@@ -497,7 +497,7 @@
 <LM>w#w-lnd92252-009-p3s3w34</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-009-p3s3w35">
 <src.rf>manual</src.rf>
@@ -602,7 +602,7 @@
 <LM>w#w-lnd92252-009-p3s3w47</LM>
 </w.rf>
 <form>ostřelovali</form>
-<tag lemma="ostřelovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="ostřelovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-009-p3s3w48">
 <src.rf>manual</src.rf>
@@ -804,7 +804,7 @@
 <LM>w#w-lnd92252-009-p3s4w12</LM>
 </w.rf>
 <form>museli</form>
-<tag lemma="muset" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="muset" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-009-p3s4w13">
 <src.rf>manual</src.rf>

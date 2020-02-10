@@ -1175,7 +1175,7 @@
 <LM>w#w-mf930708-068-p4s1w5</LM>
 </w.rf>
 <form>odjeli</form>
-<tag lemma="odjet" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="odjet" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930708-068-p4s1w6">
 <src.rf>manual</src.rf>

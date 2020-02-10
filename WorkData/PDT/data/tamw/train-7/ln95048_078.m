@@ -109,7 +109,7 @@
 <LM>w#w-ln95048-078-p2s1w11</LM>
 </w.rf>
 <form>měli</form>
-<tag lemma="mít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95048-078-p2s1w12">
 <src.rf>manual</src.rf>
@@ -496,7 +496,7 @@
 <LM>w#w-ln95048-078-p2s3Bw8</LM>
 </w.rf>
 <form>zkultivovali</form>
-<tag lemma="zkultivovat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zkultivovat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95048-078-p2s3Bw9">
 <src.rf>manual</src.rf>
@@ -536,7 +536,7 @@
 <LM>w#w-ln95048-078-p2s3Bw13</LM>
 </w.rf>
 <form>dodali</form>
-<tag lemma="dodat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="dodat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95048-078-p2s3Bw14">
 <src.rf>manual</src.rf>
@@ -1930,7 +1930,7 @@
 <LM>w#w-ln95048-078-p2s10Bw8</LM>
 </w.rf>
 <form>řekli</form>
-<tag lemma="říci" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95048-078-p2s10Bw9">
 <src.rf>manual</src.rf>
@@ -2156,7 +2156,7 @@
 <LM>w#w-ln95048-078-p2s11w14</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95048-078-p2s11w15">
 <src.rf>manual</src.rf>
@@ -2172,7 +2172,7 @@
 <LM>w#w-ln95048-078-p2s11w16</LM>
 </w.rf>
 <form>odebrán</form>
-<tag lemma="odebrat" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="odebrat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95048-078-p2s11w17">
 <src.rf>manual</src.rf>
@@ -2188,7 +2188,7 @@
 <LM>w#w-ln95048-078-p2s11w18</LM>
 </w.rf>
 <form>svěřen</form>
-<tag lemma="svěřit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="svěřit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95048-078-p2s11w19">
 <src.rf>manual</src.rf>
@@ -2212,7 +2212,7 @@
 <LM>w#w-ln95048-078-p2s11w21</LM>
 </w.rf>
 <form>privatizován</form>
-<tag lemma="privatizovat_:T_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="privatizovat" src="orig" selected="1">VsYS----X-APB--</tag>
 </m>
 <m id="m-ln95048-078-p2s11w22">
 <src.rf>manual</src.rf>
@@ -2372,7 +2372,7 @@
 <LM>w#w-ln95048-078-p2s12w18</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95048-078-p2s12w19">
 <src.rf>manual</src.rf>

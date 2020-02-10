@@ -83,7 +83,7 @@
 <LM>w#w-ln94207-139-p1s1w8</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94207-139-p1s1w9">
 <src.rf>manual</src.rf>
@@ -99,7 +99,7 @@
 <LM>w#w-ln94207-139-p1s1w10</LM>
 </w.rf>
 <form>prodáno</form>
-<tag lemma="prodat_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="prodat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94207-139-p1s1w11">
 <src.rf>manual</src.rf>
@@ -364,7 +364,7 @@
 <LM>w#w-ln94207-139-p1s3w14</LM>
 </w.rf>
 <form>informovala</form>
-<tag lemma="informovat_:T_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="informovat" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-ln94207-139-p1s3w15">
 <src.rf>manual</src.rf>
@@ -428,7 +428,7 @@
 <LM>w#w-ln94207-139-p1s3w22</LM>
 </w.rf>
 <form>dobudováno</form>
-<tag lemma="dobudovat_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="dobudovat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94207-139-p1s3w23">
 <src.rf>manual</src.rf>

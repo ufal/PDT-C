@@ -144,7 +144,7 @@
 <LM>w#w-lnd92251-039-p2s1w11</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92251-039-p2s1w12">
 <src.rf>manual</src.rf>
@@ -152,7 +152,7 @@
 <LM>w#w-lnd92251-039-p2s1w12</LM>
 </w.rf>
 <form>založena</form>
-<tag lemma="založit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="založit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd92251-039-p2s1w13">
 <src.rf>manual</src.rf>
@@ -468,7 +468,7 @@
 <LM>w#w-lnd92251-039-p3s1w4</LM>
 </w.rf>
 <form>zavítal</form>
-<tag lemma="zavítat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zavítat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-039-p3s1w5">
 <src.rf>manual</src.rf>

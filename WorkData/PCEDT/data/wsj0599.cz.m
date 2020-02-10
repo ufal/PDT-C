@@ -105,7 +105,7 @@
 <LM>w#w-wsj0599-001-p1s0W8</LM>
 </w.rf>
 <form>registrovala</form>
-<tag lemma="registrovat" src="auto" recommended="1">VpQW---XR-AAB--</tag>
+<tag lemma="registrovat" src="auto" recommended="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-wsj0599-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>

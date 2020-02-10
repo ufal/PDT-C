@@ -1428,7 +1428,7 @@
 <LM>w#w-ln94200-103-p3s3w6</LM>
 </w.rf>
 <form>smířil</form>
-<tag lemma="smířit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="smířit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-103-p3s3w7">
 <src.rf>manual</src.rf>
@@ -1745,7 +1745,7 @@
 <LM>w#w-ln94200-103-p3s4w33</LM>
 </w.rf>
 <form>měli</form>
-<tag lemma="mít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94200-103-p3s4w34">
 <src.rf>manual</src.rf>
@@ -1939,7 +1939,7 @@
 <LM>w#w-ln94200-103-p3s5w19</LM>
 </w.rf>
 <form>dokládali</form>
-<tag lemma="dokládat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="dokládat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94200-103-p3s5w20">
 <src.rf>manual</src.rf>

@@ -1095,7 +1095,7 @@
 <LM>w#w-mf930701-160-p2s5w26</LM>
 </w.rf>
 <form>vraceni</form>
-<tag lemma="vracet_:T" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="vracet" src="orig" selected="1">VsMP----X-API--</tag>
 </m>
 <m id="m-mf930701-160-p2s5w27">
 <src.rf>manual</src.rf>
@@ -1198,7 +1198,7 @@
 <LM>w#w-mf930701-160-p3s1w10</LM>
 </w.rf>
 <form>překročilo</form>
-<tag lemma="překročit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="překročit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-160-p3s1w11">
 <src.rf>manual</src.rf>
@@ -1331,8 +1331,8 @@
 </w.rf>
 <form>přešlo</form>
 <tag>
-<AM lemma="přejít" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="přejít_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="přejít" src="orig">VpNS----R-AAP--</AM>
+<AM lemma="přejít" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930701-160-p3s1w27">
@@ -1515,8 +1515,8 @@
 </w.rf>
 <form>uzavřel</form>
 <tag>
-<AM lemma="uzavřít" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="uzavřít_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="uzavřít" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="uzavřít" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930701-160-p3s3w7">

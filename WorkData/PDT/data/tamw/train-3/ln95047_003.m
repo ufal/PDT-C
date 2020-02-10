@@ -130,7 +130,7 @@
 <LM>w#w-ln95047-003-p2s1Bw5</LM>
 </w.rf>
 <form>založily</form>
-<tag lemma="založit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="založit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95047-003-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -306,7 +306,7 @@
 <LM>w#w-ln95047-003-p2s2w1</LM>
 </w.rf>
 <form>Oznámil</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95047-003-p2s2w2">
 <src.rf>manual</src.rf>
@@ -1067,7 +1067,7 @@
 <LM>w#w-ln95047-003-p5s2w12</LM>
 </w.rf>
 <form>dosáhly</form>
-<tag lemma="dosáhnout" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="dosáhnout" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95047-003-p5s2w13">
 <src.rf>manual</src.rf>

@@ -183,7 +183,7 @@
 <LM>w#w-lnd92259-029-p3s1w6</LM>
 </w.rf>
 <form>vypsala</form>
-<tag lemma="vypsat" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vypsat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-029-p3s1w7">
 <src.rf>manual</src.rf>
@@ -363,8 +363,8 @@
 </w.rf>
 <form>přijat</form>
 <tag>
-<AM lemma="přijmout" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="přijmout_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+<AM lemma="přijmout" src="auto">VsYS----X-APP--</AM>
+<AM lemma="přijmout" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-lnd92259-029-p3s1w29">
@@ -793,7 +793,7 @@
 <LM>w#w-lnd92259-029-p4s1w8</LM>
 </w.rf>
 <form>stačilo</form>
-<tag lemma="stačit_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="stačit" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92259-029-p4s1w9">
 <src.rf>manual</src.rf>
@@ -963,7 +963,7 @@
 <LM>w#w-lnd92259-029-p4s3w1</LM>
 </w.rf>
 <form>Nepochodil</form>
-<tag lemma="pochodit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="pochodit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-lnd92259-029-p4s3w2">
 <src.rf>manual</src.rf>
@@ -1093,7 +1093,7 @@
 <LM>w#w-lnd92259-029-p4s4w2</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92259-029-p4s4w3">
 <src.rf>manual</src.rf>
@@ -1521,7 +1521,7 @@
 <LM>w#w-lnd92259-029-p5s2w1</LM>
 </w.rf>
 <form>Zeptali</form>
-<tag lemma="zeptat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zeptat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-029-p5s2w2">
 <src.rf>manual</src.rf>
@@ -1968,7 +1968,7 @@
 <LM>w#w-lnd92259-029-p6s3w3</LM>
 </w.rf>
 <form>zařazena</form>
-<tag lemma="zařadit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zařadit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd92259-029-p6s3w4">
 <src.rf>manual</src.rf>
@@ -2782,7 +2782,7 @@
 <LM>w#w-lnd92259-029-p6s10w13</LM>
 </w.rf>
 <form>přiznali</form>
-<tag lemma="přiznat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přiznat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-029-p6s10w14">
 <src.rf>manual</src.rf>
@@ -2960,7 +2960,7 @@
 <LM>w#w-lnd92259-029-p6s11w3</LM>
 </w.rf>
 <form>získaly</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-029-p6s11w4">
 <src.rf>manual</src.rf>

@@ -162,7 +162,7 @@
 <LM>w#w-ln94207-121-p1s2w4</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94207-121-p1s2w5">
 <src.rf>manual</src.rf>
@@ -195,8 +195,8 @@
 </w.rf>
 <form>zavražděn</form>
 <tag>
-<AM lemma="zavraždit" src="orig">VsYS---XX-AP---</AM>
-<AM lemma="zavraždit_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+<AM lemma="zavraždit" src="orig">VsYS----X-APP--</AM>
+<AM lemma="zavraždit" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-ln94207-121-p1s2w9">
@@ -238,8 +238,8 @@
 </w.rf>
 <form>vyzval</form>
 <tag>
-<AM lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="vyzvat_:W_^(někoho_vyzvat_k_něčemu)" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94207-121-p1s2w14">
@@ -296,7 +296,7 @@
 <LM>w#w-ln94207-121-p1s2w21</LM>
 </w.rf>
 <form>následovaly</form>
-<tag lemma="následovat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="následovat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94207-121-p1s2w22">
 <src.rf>manual</src.rf>
@@ -331,7 +331,7 @@
 <LM>w#w-ln94207-121-p1s2w25</LM>
 </w.rf>
 <form>složily</form>
-<tag lemma="složit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="složit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94207-121-p1s2w26">
 <src.rf>manual</src.rf>

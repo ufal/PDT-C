@@ -99,7 +99,7 @@
 <LM>w#w-lnd92253-067-p1s1w11</LM>
 </w.rf>
 <form>měřeno</form>
-<tag lemma="měřit_:T" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="měřit" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-lnd92253-067-p1s1w12">
 <src.rf>manual</src.rf>
@@ -115,7 +115,7 @@
 <LM>w#w-lnd92253-067-p1s1w13</LM>
 </w.rf>
 <form>zaznamenáváno</form>
-<tag lemma="zaznamenávat_:T_^(*4at)" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zaznamenávat_^(*4at)" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-lnd92253-067-p1s1w14">
 <src.rf>manual</src.rf>

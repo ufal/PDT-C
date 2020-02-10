@@ -58,7 +58,7 @@
 <LM>w#w-wsj1911-001-p1s0W5</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1911-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -318,7 +318,7 @@
 <LM>w#w-wsj1911-001-p1s1W2</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1911-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -675,7 +675,7 @@
 <LM>w#w-wsj1911-001-p1s2W12</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1911-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -864,7 +864,7 @@
 <LM>w#w-wsj1911-001-p1s2W28</LM>
 </w.rf>
 <form>vyrovnány</form>
-<tag lemma="vyrovnat" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="vyrovnat" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj1911-001-p1s2W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1025,7 +1025,7 @@
 <LM>w#w-wsj1911-001-p1s3W5</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1911-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1147,7 +1147,7 @@
 <LM>w#w-wsj1911-001-p1s4W3</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1911-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1524,7 +1524,7 @@
 <LM>w#w-wsj1911-001-p1s5W2</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1911-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2300,7 +2300,7 @@
 <LM>w#w-wsj1911-001-p1s6W30</LM>
 </w.rf>
 <form>využity</form>
-<tag lemma="využít" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="využít" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj1911-001-p1s6W31-Ta">
 <src.rf>tagger-a</src.rf>

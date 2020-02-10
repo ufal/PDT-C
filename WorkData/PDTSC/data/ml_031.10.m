@@ -12,7 +12,7 @@
 <LM>w#w-d1t3521-4</LM>
 </w.rf>
 <form>Bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m031-d1t3521-5">
 <w.rf>
@@ -100,7 +100,7 @@
 <LM>w#w-d1t3521-11</LM>
 </w.rf>
 <form>šlo</form>
-<tag lemma="jít" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="jít" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m031-d1t3521-12">
 <w.rf>
@@ -150,7 +150,7 @@
 <LM>w#w-d1t3526-2</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m031-d1t3526-3">
 <w.rf>
@@ -322,7 +322,7 @@
 <LM>w#w-d1t3530-17</LM>
 </w.rf>
 <form>nevědělo</form>
-<tag lemma="vědět" src="auto" recommended="1">VpNS---XR-NA---</tag>
+<tag lemma="vědět" src="auto" recommended="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m031-d-id185928-punct">
 <w.rf>
@@ -362,7 +362,7 @@
 <LM>w#w-d1t3530-22</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m031-d1t3530-23">
 <w.rf>
@@ -474,7 +474,7 @@
 <LM>w#w-d1t3534-6</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m031-d1t3534-7">
 <w.rf>
@@ -536,7 +536,7 @@
 <LM>w#w-d1t3538-2</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m031-d1t3538-3">
 <w.rf>
@@ -577,7 +577,7 @@
 <LM>w#w-d1t3560-2</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m031-d1t3560-3">
 <w.rf>
@@ -634,7 +634,7 @@
 <LM>w#w-d1e3539-x2-754</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m031-d1t3546-1">
 <w.rf>
@@ -766,7 +766,7 @@
 <LM>w#w-d1t3582-10</LM>
 </w.rf>
 <form>nedovolil</form>
-<tag lemma="dovolit_:W" src="auto" recommended="1">VpYS---XR-NA---</tag>
+<tag lemma="dovolit" src="auto" recommended="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m031-d-id187354-punct">
 <w.rf>
@@ -824,7 +824,7 @@
 <LM>w#w-d1t3586-1</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m031-d1t3586-3">
 <w.rf>
@@ -895,7 +895,7 @@
 <LM>w#w-d1t3588-9</LM>
 </w.rf>
 <form>neposlechl</form>
-<tag lemma="poslechnout_:W" src="auto" recommended="1">VpYS---XR-NA--1</tag>
+<tag lemma="poslechnout" src="auto" recommended="1">VpYS----R-NAP-1</tag>
 </m>
 <m id="m031-d1e3577-x2-830">
 <w.rf>
@@ -913,7 +913,7 @@
 <form>Mohla</form>
 <tag>
 <AM lemma="moci_^(mít_možnost_[něco_dělat])" src="auto" recommended="1">VpQW---XR-AA---</AM>
-<AM lemma="moci" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="moci" src="manual" selected="1">VpQW----R-AAI--</AM>
 </tag>
 </m>
 <m id="m031-d1t3588-12">
@@ -973,7 +973,7 @@
 <LM>w#w-d1t3588-21</LM>
 </w.rf>
 <form>nepomohlo</form>
-<tag lemma="pomoci" src="auto" recommended="1">VpNS---XR-NA---</tag>
+<tag lemma="pomoci" src="auto" recommended="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m031-d1t3588-22">
 <w.rf>
@@ -1008,7 +1008,7 @@
 <LM>w#w-d1t3588-25</LM>
 </w.rf>
 <form>stačilo</form>
-<tag lemma="stačit_:T" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="stačit" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m031-d1e3577-x2-916">
 <w.rf>
@@ -1047,7 +1047,7 @@
 <LM>w#w-d1t3588-27</LM>
 </w.rf>
 <form>koukl</form>
-<tag lemma="kouknout_:W" src="auto" recommended="1">VpYS---XR-AA--1</tag>
+<tag lemma="kouknout" src="auto" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m031-d1t3588-28">
 <w.rf>
@@ -1090,7 +1090,7 @@
 <LM>w#w-d1t3588-34</LM>
 </w.rf>
 <form>pomohlo</form>
-<tag lemma="pomoci" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="pomoci" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m031-d1e3577-x2-806">
 <w.rf>
@@ -1212,8 +1212,8 @@
 </w.rf>
 <form>učil</form>
 <tag>
-<AM lemma="učit_:T" src="auto" recommended="1">VpYS---XR-AA---</AM>
-<AM lemma="učít_,a" src="auto">VpYS---XR-AA---</AM>
+<AM lemma="učit" src="auto" recommended="1">VpYS----R-AAI--</AM>
+<AM lemma="učít_,a" src="auto">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m031-808-858">
@@ -1234,7 +1234,7 @@
 <LM>w#w-d1t3595-14</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m031-d1t3595-13">
 <w.rf>
@@ -1348,7 +1348,7 @@
 <LM>w#w-d1e3577-x3-862</LM>
 </w.rf>
 <form>nebyla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-NA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m031-d1t3599-8">
 <w.rf>
@@ -1455,7 +1455,7 @@
 <LM>w#w-d1t3599-19</LM>
 </w.rf>
 <form>udělal</form>
-<tag lemma="udělat_:W" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="udělat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m031-d1t3599-16">
 <w.rf>
@@ -1497,7 +1497,7 @@
 <LM>w#w-d1t3606-10</LM>
 </w.rf>
 <form>Měli</form>
-<tag lemma="mít" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="mít" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m031-d1t3606-7">
 <w.rf>
@@ -1657,7 +1657,7 @@
 <LM>w#w-d1t3606-25</LM>
 </w.rf>
 <form>umínil</form>
-<tag lemma="umínit_:W" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="umínit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m031-d-id188983-punct">
 <w.rf>
@@ -1721,7 +1721,7 @@
 <AM lemma="dál-2" src="auto">NNFS1-----A----</AM>
 <AM lemma="dál-2" src="auto">NNFS4-----A----</AM>
 <AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="dít-1_^(dít_se)" src="auto">VpYS---XR-AA--1</AM>
+<AM lemma="dít-1_^(dít_se)" src="auto">VpYS----R-AAI-1</AM>
 </tag>
 </m>
 <m id="m031-866-952">
@@ -1738,7 +1738,7 @@
 <LM>w#w-d1t3608-1</LM>
 </w.rf>
 <form>Byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m031-d1t3608-2">
 <w.rf>
@@ -1836,7 +1836,7 @@
 <LM>w#w-d1t3626-4</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m031-d1t3626-5">
 <w.rf>
@@ -1912,7 +1912,7 @@
 <LM>w#w-d1t3628-5</LM>
 </w.rf>
 <form>vystudoval</form>
-<tag lemma="vystudovat_:W" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="vystudovat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m031-d-m-d1e3619-x2-punct-punct">
 <w.rf>
@@ -2022,7 +2022,7 @@
 <LM>w#w-d1t3632-10</LM>
 </w.rf>
 <form>provedl</form>
-<tag lemma="provést" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="provést" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m031-d-id189761-punct">
 <w.rf>
@@ -2084,7 +2084,7 @@
 <LM>w#w-d1t3638-3</LM>
 </w.rf>
 <form>vzpomněla</form>
-<tag lemma="vzpomenout" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="vzpomenout" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m031-d-id189957-punct">
 <w.rf>
@@ -2098,7 +2098,7 @@
 <LM>w#w-d1t3640-2</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m031-d1t3640-1">
 <w.rf>
@@ -2142,7 +2142,7 @@
 <LM>w#w-d1t3662-1</LM>
 </w.rf>
 <form>jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m031-d1t3662-2">
 <w.rf>
@@ -2226,7 +2226,7 @@
 <LM>w#w-d1t3662-11</LM>
 </w.rf>
 <form>zajeli</form>
-<tag lemma="zajet_^(např._autem)" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="zajet_^(např._autem)" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m031-d1t3662-12">
 <w.rf>
@@ -2314,7 +2314,7 @@
 <LM>w#w-d1t3664-2</LM>
 </w.rf>
 <form>Měli</form>
-<tag lemma="mít" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="mít" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m031-d1t3664-3">
 <w.rf>
@@ -2361,7 +2361,7 @@
 <LM>w#w-d1t3666-3</LM>
 </w.rf>
 <form>Byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m031-d1t3666-2">
 <w.rf>
@@ -2480,7 +2480,7 @@
 <LM>w#w-d1t3682-6</LM>
 </w.rf>
 <form>Bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m031-d1t3682-5">
 <w.rf>
@@ -2608,7 +2608,7 @@
 <LM>w#w-d1t3682-21</LM>
 </w.rf>
 <form>sedl</form>
-<tag lemma="sednout_:W" src="auto" recommended="1">VpYS---XR-AA--1</tag>
+<tag lemma="sednout" src="auto" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m031-d1t3682-22">
 <w.rf>
@@ -2628,7 +2628,7 @@
 <LM>w#w-d1t3682-23</LM>
 </w.rf>
 <form>nevstal</form>
-<tag lemma="vstát" src="auto" recommended="1">VpYS---XR-NA---</tag>
+<tag lemma="vstát" src="auto" recommended="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m031-d1t3682-25">
 <w.rf>
@@ -2724,8 +2724,8 @@
 <form>stálo</form>
 <tag>
 <AM lemma="stát-3_^(někdo/něco_stojí,_např._na_nohou)" src="auto" recommended="1">VpNS---XR-AA---</AM>
-<AM lemma="stát-5_^(sníh)" src="auto">VpNS---XR-AA---</AM>
-<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="stát-5_^(sníh)" src="auto">VpNS----R-AAI--</AM>
+<AM lemma="stát-3_^(stojím_stojíš)" src="manual" selected="1">VpNS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m031-d1t3682-36">
@@ -2846,7 +2846,7 @@
 <LM>w#w-64_2-854</LM>
 </w.rf>
 <form>měli</form>
-<tag lemma="mít" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="mít" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m031-64_2-855">
 <w.rf>
@@ -2928,7 +2928,7 @@
 <LM>w#w-d1t3686-5</LM>
 </w.rf>
 <form>museli</form>
-<tag lemma="muset" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="muset" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m031-d1t3686-6">
 <w.rf>
@@ -2951,7 +2951,7 @@
 <LM>w#w-d1t3688-2</LM>
 </w.rf>
 <form>Nedal</form>
-<tag lemma="dát" src="auto" recommended="1">VpYS---XR-NA---</tag>
+<tag lemma="dát" src="auto" recommended="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m031-d1t3688-3">
 <w.rf>
@@ -2981,7 +2981,7 @@
 <LM>w#w-d1t3698-1</LM>
 </w.rf>
 <form>musel</form>
-<tag lemma="muset" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="muset" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m031-d1t3698-2">
 <w.rf>
@@ -3118,7 +3118,7 @@
 <LM>w#w-d1t3708-7</LM>
 </w.rf>
 <form>jel</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m031-86_2-88">
 <w.rf>
@@ -3230,7 +3230,7 @@
 <LM>w#w-d1t3710-2</LM>
 </w.rf>
 <form>sjel</form>
-<tag lemma="sjet" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="sjet" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m031-d1t3710-3">
 <w.rf>
@@ -3279,7 +3279,7 @@
 <LM>w#w-d1t3712-3</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m031-d1t3712-4">
 <w.rf>
@@ -3332,7 +3332,7 @@
 <LM>w#w-d1t3712-10</LM>
 </w.rf>
 <form>vytočil</form>
-<tag lemma="vytočit_:W" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="vytočit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m031-d-id193000-punct">
 <w.rf>
@@ -3379,7 +3379,7 @@
 <form>nestalo</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="auto" recommended="1">VpNS---XR-NA---</AM>
-<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpNS---XR-NA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpNS----R-NAP--</AM>
 </tag>
 </m>
 <m id="m031-98-910">
@@ -3449,7 +3449,7 @@
 <LM>w#w-d1t3712-24</LM>
 </w.rf>
 <form>jel</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m031-d1t3712-25">
 <w.rf>
@@ -3531,7 +3531,7 @@
 <LM>w#w-d1t3715-5</LM>
 </w.rf>
 <form>nestačili</form>
-<tag lemma="stačit_:T" src="auto" recommended="1">VpMP---XR-NA---</tag>
+<tag lemma="stačit" src="auto" recommended="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m031-d1t3715-6">
 <w.rf>
@@ -3554,7 +3554,7 @@
 <LM>w#w-d1t3715-10</LM>
 </w.rf>
 <form>Viděli</form>
-<tag lemma="vidět" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="vidět" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m031-d1t3715-9">
 <w.rf>
@@ -3605,7 +3605,7 @@
 <LM>w#w-d1t3715-14</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m031-d1t3723-1">
 <w.rf>
@@ -3645,7 +3645,7 @@
 <LM>w#w-d1t3723-7</LM>
 </w.rf>
 <form>viděla</form>
-<tag lemma="vidět" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="vidět" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m031-d-id193635-punct">
 <w.rf>
@@ -3741,7 +3741,7 @@
 <LM>w#w-d1t3725-3</LM>
 </w.rf>
 <form>vytočil</form>
-<tag lemma="vytočit_:W" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="vytočit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m031-d1t3725-4">
 <w.rf>
@@ -3802,7 +3802,7 @@
 <LM>w#w-d1t3735-3</LM>
 </w.rf>
 <form>měli</form>
-<tag lemma="mít" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="mít" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m031-d1t3735-4">
 <w.rf>
@@ -3891,7 +3891,7 @@
 <LM>w#w-d1t3741-5</LM>
 </w.rf>
 <form>vytočil</form>
-<tag lemma="vytočit_:W" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="vytočit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m031-d1e3736-x2-150">
 <w.rf>
@@ -3976,7 +3976,7 @@
 <LM>w#w-d1t3743-7</LM>
 </w.rf>
 <form>doběhla</form>
-<tag lemma="doběhnout_:W" src="auto" recommended="1">VpQW---XR-AA--1</tag>
+<tag lemma="doběhnout" src="auto" recommended="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m031-d-id194326-punct">
 <w.rf>
@@ -4026,7 +4026,7 @@
 <LM>w#w-d1t3743-14</LM>
 </w.rf>
 <form>natřepala</form>
-<tag lemma="natřepat_:W" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="natřepat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m031-154_2-156">
 <w.rf>
@@ -4055,7 +4055,7 @@
 <LM>w#w-d1t3745-3</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m031-d1t3745-4">
 <w.rf>
@@ -4098,7 +4098,7 @@
 <LM>w#w-d1t3755-4</LM>
 </w.rf>
 <form>vymýšlel</form>
-<tag lemma="vymýšlet_:T" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="vymýšlet" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m031-d1t3755-5">
 <w.rf>
@@ -4163,7 +4163,7 @@
 </w.rf>
 <form>bál</form>
 <tag>
-<AM lemma="bát" src="auto" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="bát" src="auto" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="bál" src="auto">NNIS1-----A----</AM>
 <AM lemma="bál" src="auto">NNIS4-----A----</AM>
 </tag>
@@ -4224,7 +4224,7 @@
 <form>nestalo</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="auto" recommended="1">VpNS---XR-NA---</AM>
-<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpNS---XR-NA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpNS----R-NAP--</AM>
 </tag>
 </m>
 <m id="m031-d-m-d1e3756-x2-punct-punct">
@@ -4303,7 +4303,7 @@
 <LM>w#w-d1t3771-3</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m031-d1t3776-4">
 <w.rf>
@@ -4410,7 +4410,7 @@
 <AM lemma="dál-2" src="auto">NNFS1-----A----</AM>
 <AM lemma="dál-2" src="auto">NNFS4-----A----</AM>
 <AM lemma="dále-3_^(také,_za_další,_popořadě;_čas._i_míst.;_nestupňuje_se)" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="dít-1_^(dít_se)" src="auto">VpYS---XR-AA--1</AM>
+<AM lemma="dít-1_^(dít_se)" src="auto">VpYS----R-AAI-1</AM>
 </tag>
 </m>
 <m id="m031-d-m-d1e3777-x2-punct-punct">
@@ -4616,7 +4616,7 @@
 <LM>w#w-d1t3823-2</LM>
 </w.rf>
 <form>Vdávala</form>
-<tag lemma="vdávat_:T_^(*3t)" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="vdávat_^(*3t)" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m031-d1t3823-3">
 <w.rf>
@@ -4811,7 +4811,7 @@
 <LM>w#w-d1t3829-20</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m031-d1t3829-22">
 <w.rf>
@@ -4869,7 +4869,7 @@
 <LM>w#w-d1t3834-3</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m031-d1t3834-4">
 <w.rf>
@@ -4957,7 +4957,7 @@
 <LM>w#w-d1t3844-3</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m031-d1t3844-5">
 <w.rf>
@@ -5029,7 +5029,7 @@
 <LM>w#w-d1t3850-4</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m031-d1t3850-5">
 <w.rf>
@@ -5073,7 +5073,7 @@
 <LM>w#w-d1t3850-9</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m031-d1t3852-1">
 <w.rf>
@@ -5165,7 +5165,7 @@
 <LM>w#w-d1t3859-4</LM>
 </w.rf>
 <form>posloužily</form>
-<tag lemma="posloužit_:W" src="auto" recommended="1">VpTP---XR-AA---</tag>
+<tag lemma="posloužit" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m031-d1t3859-6">
 <w.rf>

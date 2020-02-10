@@ -131,7 +131,7 @@
 <LM>w#w-mf930701-147-p1s1w15</LM>
 </w.rf>
 <form>rozhodly</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-mf930701-147-p1s1w16">
 <src.rf>manual</src.rf>

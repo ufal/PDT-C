@@ -16,7 +16,7 @@
 <LM>w#w-wsj0801-001-p1s0W1</LM>
 </w.rf>
 <form>STALO</form>
-<tag lemma="stát-2_^(stanu_staneš)" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="stát-2_^(stanu_staneš)" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj0801-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -65,7 +65,7 @@
 <LM>w#w-wsj0801-001-p1s1W3</LM>
 </w.rf>
 <form>odstoupil</form>
-<tag lemma="odstoupit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="odstoupit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0801-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -365,7 +365,7 @@
 <LM>w#w-wsj0801-001-p1s2W2</LM>
 </w.rf>
 <form>založil</form>
-<tag lemma="založit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="založit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0801-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -804,7 +804,7 @@
 <LM>w#w-wsj0801-001-p1s3W26</LM>
 </w.rf>
 <form>jmenován</form>
-<tag lemma="jmenovat" src="auto" recommended="1">VsYS---XX-APB--</tag>
+<tag lemma="jmenovat" src="auto" recommended="1">VsYS----X-APB--</tag>
 </m>
 <m id="m-wsj0801-001-p1s3W27-Ta">
 <src.rf>tagger-a</src.rf>

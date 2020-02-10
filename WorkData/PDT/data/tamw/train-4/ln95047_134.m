@@ -524,7 +524,7 @@
 <LM>w#w-ln95047-134-p2s3w4</LM>
 </w.rf>
 <form>vyhlášeny</form>
-<tag lemma="vyhlásit" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="vyhlásit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln95047-134-p2s3w5">
 <src.rf>manual</src.rf>

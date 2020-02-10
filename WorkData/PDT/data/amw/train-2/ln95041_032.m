@@ -387,7 +387,7 @@
 <LM>w#w-ln95041-032-p2s2w23</LM>
 </w.rf>
 <form>dosáhl</form>
-<tag lemma="dosáhnout" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dosáhnout" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95041-032-p2s2w24">
 <src.rf>manual</src.rf>
@@ -772,7 +772,7 @@
 <LM>w#w-ln95041-032-p2s6w3</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95041-032-p2s6w4">
 <src.rf>manual</src.rf>
@@ -804,7 +804,7 @@
 <LM>w#w-ln95041-032-p2s6w7</LM>
 </w.rf>
 <form>přerušena</form>
-<tag lemma="přerušit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="přerušit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln95041-032-p2s6w8">
 <src.rf>manual</src.rf>

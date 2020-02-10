@@ -290,7 +290,7 @@
 <LM>w#w-mf930702-083-p3s1w5</LM>
 </w.rf>
 <form>podepsal</form>
-<tag lemma="podepsat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="podepsat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930702-083-p3s1w6">
 <src.rf>manual</src.rf>

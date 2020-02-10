@@ -465,7 +465,7 @@
 <LM>w#w-mf920924-150-p2s3w6</LM>
 </w.rf>
 <form>zaregistrovala</form>
-<tag lemma="zaregistrovat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zaregistrovat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920924-150-p2s3w7">
 <src.rf>manual</src.rf>
@@ -545,7 +545,7 @@
 <LM>w#w-mf920924-150-p2s3w16</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920924-150-p2s3w17">
 <src.rf>manual</src.rf>
@@ -854,7 +854,7 @@
 <LM>w#w-mf920924-150-p2s4w22</LM>
 </w.rf>
 <form>vylákáno</form>
-<tag lemma="vylákat_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="vylákat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf920924-150-p2s4w23">
 <src.rf>manual</src.rf>
@@ -910,7 +910,7 @@
 <LM>w#w-mf920924-150-p2s4w29</LM>
 </w.rf>
 <form>přinuceno</form>
-<tag lemma="přinutit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="přinutit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf920924-150-p2s4w30">
 <src.rf>manual</src.rf>

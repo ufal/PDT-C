@@ -320,7 +320,7 @@
 <LM>w#w-ln94204-15-p2s2w10</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94204-15-p2s2w11">
 <src.rf>manual</src.rf>

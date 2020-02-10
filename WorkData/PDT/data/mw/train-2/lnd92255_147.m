@@ -304,7 +304,7 @@
 <LM>w#w-lnd92255-147-p3s2w26</LM>
 </w.rf>
 <form>vyřešen</form>
-<tag lemma="vyřešit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="vyřešit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd92255-147-p3s2w27">
 <src.rf>manual</src.rf>
@@ -469,7 +469,7 @@
 <LM>w#w-lnd92255-147-p3s3w15</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-147-p3s3w16">
 <src.rf>manual</src.rf>
@@ -888,7 +888,7 @@
 <LM>w#w-lnd92255-147-p3s6w3</LM>
 </w.rf>
 <form>vyrovnávána</form>
-<tag lemma="vyrovnávat_:T_^(*4at)" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="vyrovnávat_^(*4at)" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-lnd92255-147-p3s6w4">
 <src.rf>manual</src.rf>
@@ -1149,7 +1149,7 @@
 <LM>w#w-lnd92255-147-p3s7w19</LM>
 </w.rf>
 <form>představovala</form>
-<tag lemma="představovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="představovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92255-147-p3s7w20">
 <src.rf>manual</src.rf>
@@ -1296,7 +1296,7 @@
 <LM>w#w-lnd92255-147-p3s8w12</LM>
 </w.rf>
 <form>řešena</form>
-<tag lemma="řešit_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="řešit" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-lnd92255-147-p3s8w13">
 <src.rf>manual</src.rf>
@@ -1360,7 +1360,7 @@
 <LM>w#w-lnd92255-147-p3s8w20</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-147-p3s8w21">
 <src.rf>manual</src.rf>

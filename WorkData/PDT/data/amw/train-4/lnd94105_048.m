@@ -35,7 +35,7 @@
 <LM>w#w-lnd94105-048-p1s1w3</LM>
 </w.rf>
 <form>nepodařila</form>
-<tag lemma="podařit_:W" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="podařit" src="orig" selected="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-lnd94105-048-p1s1w4">
 <src.rf>manual</src.rf>
@@ -276,7 +276,7 @@
 <LM>w#w-lnd94105-048-p1s2w24</LM>
 </w.rf>
 <form>pokusili</form>
-<tag lemma="pokusit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="pokusit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd94105-048-p1s2w25">
 <src.rf>manual</src.rf>
@@ -406,7 +406,7 @@
 <LM>w#w-lnd94105-048-p1s3w3</LM>
 </w.rf>
 <form>odhalila</form>
-<tag lemma="odhalit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="odhalit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94105-048-p1s3w4">
 <src.rf>manual</src.rf>
@@ -446,7 +446,7 @@
 <LM>w#w-lnd94105-048-p1s3w8</LM>
 </w.rf>
 <form>vnikli</form>
-<tag lemma="vniknout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="vniknout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-lnd94105-048-p1s3w9">
 <src.rf>manual</src.rf>
@@ -552,7 +552,7 @@
 <LM>w#w-lnd94105-048-p1s4w2</LM>
 </w.rf>
 <form>pronikla</form>
-<tag lemma="proniknout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="proniknout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-lnd94105-048-p1s4w3">
 <src.rf>manual</src.rf>
@@ -584,7 +584,7 @@
 <LM>w#w-lnd94105-048-p1s4w6</LM>
 </w.rf>
 <form>shazovala</form>
-<tag lemma="shazovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="shazovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd94105-048-p1s4w7">
 <src.rf>manual</src.rf>
@@ -664,7 +664,7 @@
 <LM>w#w-lnd94105-048-p1s4w16</LM>
 </w.rf>
 <form>pálila</form>
-<tag lemma="pálit_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="pálit" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd94105-048-p1s4w17">
 <src.rf>manual</src.rf>
@@ -770,7 +770,7 @@
 <LM>w#w-lnd94105-048-p1s5w12</LM>
 </w.rf>
 <form>přistoupilo</form>
-<tag lemma="přistoupit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="přistoupit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd94105-048-p1s5w13">
 <src.rf>manual</src.rf>
@@ -959,7 +959,7 @@
 <LM>w#w-lnd94105-048-p1s6w16</LM>
 </w.rf>
 <form>utíkali</form>
-<tag lemma="utíkat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="utíkat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd94105-048-p1s6w17">
 <src.rf>manual</src.rf>

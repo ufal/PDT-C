@@ -521,7 +521,7 @@
 <LM>w#w-cmpr9410-013-p7s1w1</LM>
 </w.rf>
 <form>Chtěl</form>
-<tag lemma="chtít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="chtít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9410-013-p7s1w2">
 <src.rf>manual</src.rf>
@@ -744,8 +744,8 @@
 </w.rf>
 <form>začal</form>
 <tag>
-<AM lemma="začít-1_^(začnout)" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="začít-1_^(začnout)" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-013-p9s1w8">
@@ -860,8 +860,8 @@
 </w.rf>
 <form>vypršel</form>
 <tag>
-<AM lemma="vypršet" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="vypršet_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="vypršet" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="vypršet" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-013-p9s1w22">
@@ -1605,7 +1605,7 @@
 <form>vydala</form>
 <tag>
 <AM lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="vydat_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="vydat" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-013-p10s2w15">

@@ -119,7 +119,7 @@
 <LM>w#w-ln95041-102-p2s1Bw8</LM>
 </w.rf>
 <form>varoval</form>
-<tag lemma="varovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="varovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95041-102-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -266,7 +266,7 @@
 <LM>w#w-ln95041-102-p2s2w11</LM>
 </w.rf>
 <form>pomohlo</form>
-<tag lemma="pomoci" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="pomoci" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95041-102-p2s2w12">
 <src.rf>manual</src.rf>
@@ -322,7 +322,7 @@
 <LM>w#w-ln95041-102-p2s2w18</LM>
 </w.rf>
 <form>zkomplikovalo</form>
-<tag lemma="zkomplikovat_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zkomplikovat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95041-102-p2s2w19">
 <src.rf>manual</src.rf>

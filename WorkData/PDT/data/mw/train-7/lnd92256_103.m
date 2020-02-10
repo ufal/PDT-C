@@ -501,7 +501,7 @@
 <LM>w#w-lnd92256-103-p2s4w5</LM>
 </w.rf>
 <form>vyhlášen</form>
-<tag lemma="vyhlásit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="vyhlásit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd92256-103-p2s4w6">
 <src.rf>manual</src.rf>

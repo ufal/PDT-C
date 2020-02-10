@@ -43,7 +43,7 @@
 <LM>w#w-ln94207-81-p1s1Aw4</LM>
 </w.rf>
 <form>zůstal</form>
-<tag lemma="zůstat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zůstat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94207-81-p1s1Aw5">
 <src.rf>manual</src.rf>

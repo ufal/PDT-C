@@ -65,7 +65,7 @@
 <LM>w#w-wsj1030-001-p1s0W5</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1030-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -73,7 +73,7 @@
 <LM>w#w-wsj1030-001-p1s0W6</LM>
 </w.rf>
 <form>jmenován</form>
-<tag lemma="jmenovat" src="auto" recommended="1">VsYS---XX-APB--</tag>
+<tag lemma="jmenovat" src="auto" recommended="1">VsYS----X-APB--</tag>
 </m>
 <m id="m-wsj1030-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -727,7 +727,7 @@
 <LM>w#w-wsj1030-001-p1s3W4</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1030-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -941,7 +941,7 @@
 <LM>w#w-wsj1030-001-p1s3W20</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1030-001-p1s3W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -949,7 +949,7 @@
 <LM>w#w-wsj1030-001-p1s3W21</LM>
 </w.rf>
 <form>vybrán</form>
-<tag lemma="vybrat" src="auto" recommended="1">VsYS---XX-APP--</tag>
+<tag lemma="vybrat" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj1030-001-p1s3W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1046,7 +1046,7 @@
 <LM>w#w-wsj1030-001-p1s3W29</LM>
 </w.rf>
 <form>zastával</form>
-<tag lemma="zastávat_^(*4at)" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="zastávat_^(*4at)" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1030-001-p1s3W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1172,7 +1172,7 @@
 <LM>w#w-wsj1030-001-p1s3W39</LM>
 </w.rf>
 <form>rezignoval</form>
-<tag lemma="rezignovat" src="auto" recommended="1">VpYS---XR-AAB--</tag>
+<tag lemma="rezignovat" src="auto" recommended="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-wsj1030-001-p1s3W40-Ta">
 <src.rf>tagger-a</src.rf>

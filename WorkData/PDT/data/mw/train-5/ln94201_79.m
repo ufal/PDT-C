@@ -4847,7 +4847,7 @@
 <LM>w#w-ln94201-79-p8s1w32</LM>
 </w.rf>
 <form>vzdal</form>
-<tag lemma="vzdát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vzdát" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94201-79-p8s1w33">
 <src.rf>manual</src.rf>

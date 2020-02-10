@@ -35,7 +35,7 @@
 <LM>w#w-ln95046-105-p1s1w3</LM>
 </w.rf>
 <form>připomněli</form>
-<tag lemma="připomenout" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="připomenout" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95046-105-p1s1w4">
 <src.rf>manual</src.rf>
@@ -103,7 +103,7 @@
 <LM>w#w-ln95046-105-p2s1Bw4</LM>
 </w.rf>
 <form>připomněli</form>
-<tag lemma="připomenout" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="připomenout" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95046-105-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -331,7 +331,7 @@
 <LM>w#w-ln95046-105-p2s2w5</LM>
 </w.rf>
 <form>konala</form>
-<tag lemma="konat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="konat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95046-105-p2s2w6">
 <src.rf>manual</src.rf>
@@ -438,7 +438,7 @@
 <LM>w#w-ln95046-105-p2s2w18</LM>
 </w.rf>
 <form>jela</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95046-105-p2s2w19">
 <src.rf>manual</src.rf>

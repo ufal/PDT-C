@@ -189,7 +189,7 @@
 <LM>w#w-mf930708-133-p2s1w18</LM>
 </w.rf>
 <form>postaven</form>
-<tag lemma="postavit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="postavit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf930708-133-p2s1w19">
 <src.rf>manual</src.rf>
@@ -489,7 +489,7 @@
 <LM>w#w-mf930708-133-p2s3w6</LM>
 </w.rf>
 <form>zbourán</form>
-<tag lemma="zbourat_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zbourat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf930708-133-p2s3w7">
 <src.rf>manual</src.rf>
@@ -1062,7 +1062,7 @@
 <LM>w#w-mf930708-133-p2s7w6</LM>
 </w.rf>
 <form>dosahovala</form>
-<tag lemma="dosahovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="dosahovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930708-133-p2s7w7">
 <src.rf>manual</src.rf>
@@ -1129,7 +1129,7 @@
 <LM>w#w-mf930708-133-p2s7w14</LM>
 </w.rf>
 <form>nebylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-mf930708-133-p2s7w15">
 <src.rf>manual</src.rf>

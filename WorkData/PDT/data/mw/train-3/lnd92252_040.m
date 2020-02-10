@@ -239,8 +239,8 @@
 </w.rf>
 <form>Napsala</form>
 <tag>
-<AM lemma="napsat" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="napsat_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="napsat" src="orig">VpQW----R-AAP--</AM>
+<AM lemma="napsat" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92252-040-p2s4w2">
@@ -610,7 +610,7 @@
 <LM>w#w-lnd92252-040-p2s5w2</LM>
 </w.rf>
 <form>citovala</form>
-<tag lemma="citovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="citovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-040-p2s5w3">
 <src.rf>manual</src.rf>

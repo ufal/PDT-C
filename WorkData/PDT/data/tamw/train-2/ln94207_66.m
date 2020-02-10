@@ -241,7 +241,7 @@
 <LM>w#w-ln94207-66-p2s1Bw11</LM>
 </w.rf>
 <form>odhodlal</form>
-<tag lemma="odhodlat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odhodlat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94207-66-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -448,7 +448,7 @@
 <LM>w#w-ln94207-66-p3s1w5</LM>
 </w.rf>
 <form>bouralo</form>
-<tag lemma="bourat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="bourat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94207-66-p3s1w6">
 <src.rf>manual</src.rf>
@@ -557,7 +557,7 @@
 <LM>w#w-ln94207-66-p3s2w2</LM>
 </w.rf>
 <form>šlo</form>
-<tag lemma="jít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="jít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94207-66-p3s2w3">
 <src.rf>manual</src.rf>
@@ -764,7 +764,7 @@
 <LM>w#w-ln94207-66-p3s4w4</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94207-66-p3s4w5">
 <src.rf>manual</src.rf>
@@ -772,7 +772,7 @@
 <LM>w#w-ln94207-66-p3s4w5</LM>
 </w.rf>
 <form>zahájeno</form>
-<tag lemma="zahájit" src="auto" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zahájit" src="auto" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94207-66-p3s4w6">
 <src.rf>manual</src.rf>
@@ -814,7 +814,7 @@
 <LM>w#w-ln94207-66-p3s5w2</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94207-66-p3s5w3">
 <src.rf>manual</src.rf>
@@ -838,7 +838,7 @@
 <LM>w#w-ln94207-66-p3s5w5</LM>
 </w.rf>
 <form>řešeny</form>
-<tag lemma="řešit_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="řešit" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln94207-66-p3s5w6">
 <src.rf>manual</src.rf>
@@ -880,7 +880,7 @@
 <LM>w#w-ln94207-66-p4s1w3</LM>
 </w.rf>
 <form>bourali</form>
-<tag lemma="bourat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="bourat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94207-66-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1115,7 +1115,7 @@
 <LM>w#w-ln94207-66-p5s1w6</LM>
 </w.rf>
 <form>nebouralo</form>
-<tag lemma="bourat_:T" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="bourat" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-ln94207-66-p5s1w7">
 <src.rf>manual</src.rf>
@@ -1391,7 +1391,7 @@
 <LM>w#w-ln94207-66-p6s1w16</LM>
 </w.rf>
 <form>investoval</form>
-<tag lemma="investovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="investovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln94207-66-p6s1w17">
 <src.rf>manual</src.rf>
@@ -1441,7 +1441,7 @@
 <LM>w#w-ln94207-66-p6s2w3</LM>
 </w.rf>
 <form>nedodržel</form>
-<tag lemma="dodržet" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="dodržet" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-ln94207-66-p6s2w4">
 <src.rf>manual</src.rf>
@@ -1465,7 +1465,7 @@
 <LM>w#w-ln94207-66-p6s2w6</LM>
 </w.rf>
 <form>zaplatil</form>
-<tag lemma="zaplatit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zaplatit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94207-66-p6s2w7">
 <src.rf>manual</src.rf>
@@ -1662,7 +1662,7 @@
 <LM>w#w-ln94207-66-p7s1w6</LM>
 </w.rf>
 <form>udělili</form>
-<tag lemma="udělit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="udělit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94207-66-p7s1w7">
 <src.rf>manual</src.rf>
@@ -1721,7 +1721,7 @@
 <LM>w#w-ln94207-66-p7s1w13</LM>
 </w.rf>
 <form>činila</form>
-<tag lemma="činit_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="činit" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94207-66-p7s1w14">
 <src.rf>manual</src.rf>
@@ -2074,7 +2074,7 @@
 <LM>w#w-ln94207-66-p7s3w18</LM>
 </w.rf>
 <form>vyřešena</form>
-<tag lemma="vyřešit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="vyřešit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94207-66-p7s3w19">
 <src.rf>manual</src.rf>

@@ -35,7 +35,7 @@
 <LM>w#w-ln94203-128-p1s1w3</LM>
 </w.rf>
 <form>posuzována</form>
-<tag lemma="posuzovat_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="posuzovat" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-ln94203-128-p1s1w4">
 <src.rf>manual</src.rf>
@@ -189,7 +189,7 @@
 <LM>w#w-ln94203-128-p2s1Bw8</LM>
 </w.rf>
 <form>považována</form>
-<tag lemma="považovat_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="považovat" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-ln94203-128-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -287,7 +287,7 @@
 <LM>w#w-ln94203-128-p2s2w8</LM>
 </w.rf>
 <form>regulována</form>
-<tag lemma="regulovat_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="regulovat" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-ln94203-128-p2s2w9">
 <src.rf>manual</src.rf>
@@ -332,7 +332,7 @@
 <LM>w#w-ln94203-128-p3s1w4</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94203-128-p3s1w5">
 <src.rf>manual</src.rf>
@@ -463,7 +463,7 @@
 <LM>w#w-ln94203-128-p3s1w20</LM>
 </w.rf>
 <form>umožněna</form>
-<tag lemma="umožnit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="umožnit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94203-128-p3s1w21">
 <src.rf>manual</src.rf>
@@ -479,7 +479,7 @@
 <LM>w#w-ln94203-128-p3s1w22</LM>
 </w.rf>
 <form>neměla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-ln94203-128-p3s1w23">
 <src.rf>manual</src.rf>
@@ -649,7 +649,7 @@
 <LM>w#w-ln94203-128-p3s2w6</LM>
 </w.rf>
 <form>trpěna</form>
-<tag lemma="trpět" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="trpět" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-ln94203-128-p3s2w7">
 <src.rf>manual</src.rf>
@@ -1819,7 +1819,7 @@
 <LM>w#w-ln94203-128-p6s1w6</LM>
 </w.rf>
 <form>zrušil</form>
-<tag lemma="zrušit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zrušit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94203-128-p6s1w7">
 <src.rf>manual</src.rf>
@@ -1851,7 +1851,7 @@
 <LM>w#w-ln94203-128-p6s1w10</LM>
 </w.rf>
 <form>nechal</form>
-<tag lemma="nechat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nechat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94203-128-p6s1w11">
 <src.rf>manual</src.rf>

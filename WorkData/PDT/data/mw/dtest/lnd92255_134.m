@@ -214,7 +214,7 @@
 <AM lemma="Kula-2_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Kula-2_;S" src="auto">NNMP7-----A----</AM>
 <AM lemma="Kula-2_;S" src="auto" recommended="1" selected="1">NNMS2-----A----</AM>
-<AM lemma="kout_^(např._železo)" src="auto">VpTP---XR-AA---</AM>
+<AM lemma="kout_^(např._železo)" src="auto">VpTP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-lnd92255-134-p2s1w23">
@@ -249,7 +249,7 @@
 <LM>w#w-lnd92255-134-p2s2w3</LM>
 </w.rf>
 <form>onemocněl</form>
-<tag lemma="onemocnět" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="onemocnět" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-134-p2s2w4">
 <src.rf>manual</src.rf>
@@ -353,7 +353,7 @@
 <LM>w#w-lnd92255-134-p2s2w16</LM>
 </w.rf>
 <form>vyloučen</form>
-<tag lemma="vyloučit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="vyloučit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd92255-134-p2s2w17">
 <src.rf>manual</src.rf>

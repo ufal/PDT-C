@@ -407,7 +407,7 @@
 <LM>w#w-mf930701-166-p2s2w14</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930701-166-p2s2w15">
 <src.rf>manual</src.rf>
@@ -431,7 +431,7 @@
 <LM>w#w-mf930701-166-p2s2w17</LM>
 </w.rf>
 <form>zničena</form>
-<tag lemma="zničit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zničit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf930701-166-p2s2w18">
 <src.rf>manual</src.rf>
@@ -455,7 +455,7 @@
 <LM>w#w-mf930701-166-p2s2w20</LM>
 </w.rf>
 <form>nebyl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-mf930701-166-p2s2w21">
 <src.rf>manual</src.rf>
@@ -489,7 +489,7 @@
 <LM>w#w-mf930701-166-p2s3w3</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930701-166-p2s3w4">
 <src.rf>manual</src.rf>
@@ -505,7 +505,7 @@
 <LM>w#w-mf930701-166-p2s3w5</LM>
 </w.rf>
 <form>zraněn</form>
-<tag lemma="zranit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zranit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf930701-166-p2s3w6">
 <src.rf>manual</src.rf>
@@ -537,7 +537,7 @@
 <LM>w#w-mf930701-166-p2s3w9</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930701-166-p2s3w10">
 <src.rf>manual</src.rf>
@@ -545,7 +545,7 @@
 <LM>w#w-mf930701-166-p2s3w10</LM>
 </w.rf>
 <form>převezena</form>
-<tag lemma="převézt" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="převézt" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf930701-166-p2s3w11">
 <src.rf>manual</src.rf>
@@ -662,7 +662,7 @@
 <LM>w#w-mf930701-166-p2s4w6</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930701-166-p2s4w7">
 <src.rf>manual</src.rf>
@@ -670,7 +670,7 @@
 <LM>w#w-mf930701-166-p2s4w7</LM>
 </w.rf>
 <form>evakuováno</form>
-<tag lemma="evakuovat_:T_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="evakuovat" src="orig" selected="1">VsNS----X-APB--</tag>
 </m>
 <m id="m-mf930701-166-p2s4w8">
 <src.rf>manual</src.rf>

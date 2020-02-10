@@ -384,7 +384,7 @@
 <LM>w#w-wsj1497-001-p1s0W33</LM>
 </w.rf>
 <form>překvapen</form>
-<tag lemma="překvapit" src="auto" recommended="1">VsYS---XX-APP--</tag>
+<tag lemma="překvapit" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj1497-001-p1s0W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -411,7 +411,7 @@
 <LM>w#w-wsj1497-001-p1s0W36</LM>
 </w.rf>
 <form>opomenul</form>
-<tag lemma="opomenout" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="opomenout" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1497-001-p1s0W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -651,7 +651,7 @@
 <LM>w#w-wsj1497-001-p1s1W9</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1497-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -659,7 +659,7 @@
 <LM>w#w-wsj1497-001-p1s1W10</LM>
 </w.rf>
 <form>ohromen</form>
-<tag lemma="ohromit" src="auto" recommended="1">VsYS---XX-APP--</tag>
+<tag lemma="ohromit" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj1497-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -691,7 +691,7 @@
 <LM>w#w-wsj1497-001-p1s1W14</LM>
 </w.rf>
 <form>zahlédl</form>
-<tag lemma="zahlédnout" src="auto" recommended="1">VpYS---XR-AAP-1</tag>
+<tag lemma="zahlédnout" src="auto" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-wsj1497-001-p1s1W15-Ta">
 <src.rf>tagger-a</src.rf>

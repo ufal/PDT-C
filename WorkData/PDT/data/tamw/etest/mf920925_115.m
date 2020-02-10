@@ -242,7 +242,7 @@
 <LM>w#w-mf920925-115-p2s2w8</LM>
 </w.rf>
 <form>zavlála</form>
-<tag lemma="zavlát" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zavlát" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920925-115-p2s2w9">
 <src.rf>manual</src.rf>
@@ -330,7 +330,7 @@
 <LM>w#w-mf920925-115-p2s2w19</LM>
 </w.rf>
 <form>rozhodla</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-mf920925-115-p2s2w20">
 <src.rf>manual</src.rf>
@@ -550,7 +550,7 @@
 <LM>w#w-mf920925-115-p3s1w8</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920925-115-p3s1w9">
 <src.rf>manual</src.rf>
@@ -614,7 +614,7 @@
 <LM>w#w-mf920925-115-p3s1w16</LM>
 </w.rf>
 <form>stažena</form>
-<tag lemma="stáhnout" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="stáhnout" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf920925-115-p3s1w17">
 <src.rf>manual</src.rf>
@@ -662,7 +662,7 @@
 <LM>w#w-mf920925-115-p3s1w22</LM>
 </w.rf>
 <form>požadovaly</form>
-<tag lemma="požadovat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="požadovat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf920925-115-p3s1w23">
 <src.rf>manual</src.rf>
@@ -766,7 +766,7 @@
 <LM>w#w-mf920925-115-p3s1w35</LM>
 </w.rf>
 <form>převládl</form>
-<tag lemma="převládnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="převládnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf920925-115-p3s1w36">
 <src.rf>manual</src.rf>

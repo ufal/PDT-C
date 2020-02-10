@@ -35,7 +35,7 @@
 <LM>w#w-mf920902-114-p1s1w3</LM>
 </w.rf>
 <form>likvidován</form>
-<tag lemma="likvidovat_:T_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="likvidovat" src="orig" selected="1">VsYS----X-APB--</tag>
 </m>
 <m id="m-mf920902-114-p1s1w4">
 <src.rf>manual</src.rf>
@@ -99,7 +99,7 @@
 <LM>w#w-mf920902-114-p1s1w12</LM>
 </w.rf>
 <form>nešlo</form>
-<tag lemma="jít" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="jít" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-mf920902-114-p1s1w13">
 <src.rf>manual</src.rf>

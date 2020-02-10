@@ -284,7 +284,7 @@
 <LM>w#w-lnd94103-008-p1s1w35</LM>
 </w.rf>
 <form>vyhnuli</form>
-<tag lemma="vyhnout" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyhnout" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-008-p1s1w36">
 <src.rf>manual</src.rf>

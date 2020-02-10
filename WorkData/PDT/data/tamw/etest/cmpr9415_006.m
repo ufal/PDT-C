@@ -882,7 +882,7 @@
 <LM>w#w-cmpr9415-006-p9s4w3</LM>
 </w.rf>
 <form>umístěn</form>
-<tag lemma="umístit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="umístit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-cmpr9415-006-p9s4w4">
 <src.rf>manual</src.rf>

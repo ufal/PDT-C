@@ -190,7 +190,7 @@
 <LM>w#w-wsj1482-001-p1s0W16</LM>
 </w.rf>
 <form>naplánovány</form>
-<tag lemma="naplánovat" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="naplánovat" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj1482-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>

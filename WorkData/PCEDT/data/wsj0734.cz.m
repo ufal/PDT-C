@@ -118,7 +118,7 @@
 <LM>w#w-wsj0734-001-p1s0W10</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0734-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -354,7 +354,7 @@
 <LM>w#w-wsj0734-001-p1s0W30</LM>
 </w.rf>
 <form>založila</form>
-<tag lemma="založit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="založit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0734-001-p1s0W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -545,7 +545,7 @@
 <LM>w#w-wsj0734-001-p1s1W10</LM>
 </w.rf>
 <form>vlastnila</form>
-<tag lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0734-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -672,7 +672,7 @@
 <LM>w#w-wsj0734-001-p1s1W21</LM>
 </w.rf>
 <form>dodala</form>
-<tag lemma="dodat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="dodat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0734-001-p1s1W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -858,7 +858,7 @@
 <LM>w#w-wsj0734-001-p1s2W3</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0734-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1076,7 +1076,7 @@
 <LM>w#w-wsj0734-001-p1s2W22</LM>
 </w.rf>
 <form>neinvestovala</form>
-<tag lemma="investovat" src="auto" recommended="1">VpQW---XR-NAB--</tag>
+<tag lemma="investovat" src="auto" recommended="1">VpQW----R-NAB--</tag>
 </m>
 <m id="m-wsj0734-001-p1s2W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1486,7 +1486,7 @@
 <LM>w#w-wsj0734-001-p1s4W7</LM>
 </w.rf>
 <form>zaměřeny</form>
-<tag lemma="zaměřit" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="zaměřit" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj0734-001-p1s4W8-Ta">
 <src.rf>tagger-a</src.rf>

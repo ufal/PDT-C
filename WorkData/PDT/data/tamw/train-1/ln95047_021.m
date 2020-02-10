@@ -79,7 +79,7 @@
 <LM>w#w-ln95047-021-p2s1Bw3</LM>
 </w.rf>
 <form>začalo</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95047-021-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -231,7 +231,7 @@
 <LM>w#w-ln95047-021-p2s2w11</LM>
 </w.rf>
 <form>excelovalo</form>
-<tag lemma="excelovat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="excelovat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95047-021-p2s2w12">
 <src.rf>manual</src.rf>
@@ -351,7 +351,7 @@
 <LM>w#w-ln95047-021-p2s2w26</LM>
 </w.rf>
 <form>nasázel</form>
-<tag lemma="nasázet_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nasázet" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95047-021-p2s2w27">
 <src.rf>manual</src.rf>
@@ -465,7 +465,7 @@
 <LM>w#w-ln95047-021-p2s3w9</LM>
 </w.rf>
 <form>znamenala</form>
-<tag lemma="znamenat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="znamenat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95047-021-p2s3w10">
 <src.rf>manual</src.rf>
@@ -513,7 +513,7 @@
 <LM>w#w-ln95047-021-p2s3w15</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95047-021-p2s3w16">
 <src.rf>manual</src.rf>
@@ -537,7 +537,7 @@
 <LM>w#w-ln95047-021-p2s3w18</LM>
 </w.rf>
 <form>Sypalo</form>
-<tag lemma="sypat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="sypat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95047-021-p2s3w19">
 <src.rf>manual</src.rf>
@@ -587,7 +587,7 @@
 <LM>w#w-ln95047-021-p2s4w1</LM>
 </w.rf>
 <form>Spadlo</form>
-<tag lemma="spadnout_:W" src="orig" selected="1">VpNS---XR-AA--1</tag>
+<tag lemma="spadnout" src="orig" selected="1">VpNS----R-AAP-1</tag>
 </m>
 <m id="m-ln95047-021-p2s4w2">
 <src.rf>manual</src.rf>
@@ -654,7 +654,7 @@
 <LM>w#w-ln95047-021-p2s4w9</LM>
 </w.rf>
 <form>mělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95047-021-p2s4w10">
 <src.rf>manual</src.rf>

@@ -111,7 +111,7 @@
 <LM>w#w-mf930703-009-p3s1w4</LM>
 </w.rf>
 <form>chtěl</form>
-<tag lemma="chtít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="chtít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930703-009-p3s1w5">
 <src.rf>manual</src.rf>
@@ -347,7 +347,7 @@
 <LM>w#w-mf930703-009-p5s1w15</LM>
 </w.rf>
 <form>našla</form>
-<tag lemma="najít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="najít" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930703-009-p5s1w16">
 <src.rf>manual</src.rf>
@@ -528,7 +528,7 @@
 <LM>w#w-mf930703-009-p5s2w19</LM>
 </w.rf>
 <form>přemnožil</form>
-<tag lemma="přemnožit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přemnožit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-009-p5s2w20">
 <src.rf>manual</src.rf>

@@ -78,7 +78,7 @@
 <LM>w#w-wsj0511-001-p1s0W4</LM>
 </w.rf>
 <form>ohlásily</form>
-<tag lemma="ohlásit" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="ohlásit" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj0511-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -243,7 +243,7 @@
 <LM>w#w-wsj0511-001-p1s1W2</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj0511-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -251,7 +251,7 @@
 <LM>w#w-wsj0511-001-p1s1W3</LM>
 </w.rf>
 <form>sledovány</form>
-<tag lemma="sledovat" src="auto" recommended="1">VsTP---XX-API--</tag>
+<tag lemma="sledovat" src="auto" recommended="1">VsTP----X-API--</tag>
 </m>
 <m id="m-wsj0511-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -304,7 +304,7 @@
 <LM>w#w-wsj0511-001-p1s1W8</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag lemma="mít" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj0511-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -570,7 +570,7 @@
 <LM>w#w-wsj0511-001-p1s2W8</LM>
 </w.rf>
 <form>vynechány</form>
-<tag lemma="vynechat" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="vynechat" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj0511-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -981,7 +981,7 @@
 <LM>w#w-wsj0511-001-p1s4W5</LM>
 </w.rf>
 <form>porovnáván</form>
-<tag lemma="porovnávat_^(*4at)" src="auto" recommended="1">VsYS---XX-API--</tag>
+<tag lemma="porovnávat_^(*4at)" src="auto" recommended="1">VsYS----X-API--</tag>
 </m>
 <m id="m-wsj0511-001-p1s4W6-Ta">
 <src.rf>tagger-a</src.rf>

@@ -90,7 +90,7 @@
 <LM>w#w-wsj0713-001-p1s0W5</LM>
 </w.rf>
 <form>povolily</form>
-<tag lemma="povolit" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="povolit" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj0713-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -320,7 +320,7 @@
 <LM>w#w-wsj0713-001-p1s0W24</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0713-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -415,7 +415,7 @@
 <LM>w#w-wsj0713-001-p1s1W5</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj0713-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -434,7 +434,7 @@
 <LM>w#w-wsj0713-001-p1s1W7</LM>
 </w.rf>
 <form>očekáván</form>
-<tag lemma="očekávat" src="auto" recommended="1">VsYS---XX-API--</tag>
+<tag lemma="očekávat" src="auto" recommended="1">VsYS----X-API--</tag>
 </m>
 <m id="m-wsj0713-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1058,7 +1058,7 @@
 <LM>w#w-wsj0713-001-p1s3W3</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0713-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>

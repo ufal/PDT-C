@@ -187,7 +187,7 @@
 <LM>w#w-ln94208-15-p2s1Bw12</LM>
 </w.rf>
 <form>zveřejnila</form>
-<tag lemma="zveřejnit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zveřejnit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94208-15-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -1412,7 +1412,7 @@
 <LM>w#w-ln94208-15-p5s3w8</LM>
 </w.rf>
 <form>využívány</form>
-<tag lemma="využívat_:T_^(*3t)" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="využívat_^(*3t)" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln94208-15-p5s3w9">
 <src.rf>manual</src.rf>
@@ -1586,7 +1586,7 @@
 <LM>w#w-ln94208-15-p5s4w12</LM>
 </w.rf>
 <form>nahradilo</form>
-<tag lemma="nahradit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="nahradit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94208-15-p5s4w13">
 <src.rf>manual</src.rf>

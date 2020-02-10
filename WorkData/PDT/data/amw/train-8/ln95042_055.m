@@ -234,7 +234,7 @@
 <LM>w#w-ln95042-055-p2s1Bw23</LM>
 </w.rf>
 <form>prohlásil</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95042-055-p2s1Bw24">
 <src.rf>manual</src.rf>
@@ -336,7 +336,7 @@
 <LM>w#w-ln95042-055-p2s2w6</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95042-055-p2s2w7">
 <src.rf>manual</src.rf>
@@ -443,8 +443,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95042-055-p2s3w12">
@@ -479,7 +479,7 @@
 <LM>w#w-ln95042-055-p2s4w1</LM>
 </w.rf>
 <form>Dodal</form>
-<tag lemma="dodat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dodat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95042-055-p2s4w2">
 <src.rf>manual</src.rf>
@@ -511,7 +511,7 @@
 <LM>w#w-ln95042-055-p2s4w5</LM>
 </w.rf>
 <form>zaskočen</form>
-<tag lemma="zaskočit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zaskočit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95042-055-p2s4w6">
 <src.rf>manual</src.rf>

@@ -473,7 +473,7 @@
 <LM>w#w-mf920924-075-p3s4w6</LM>
 </w.rf>
 <form>rovnal</form>
-<tag lemma="rovnat_:T" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="rovnat" src="auto" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920924-075-p3s4w7">
 <src.rf>manual</src.rf>
@@ -556,7 +556,7 @@
 <LM>w#w-mf920924-075-p3s4w16</LM>
 </w.rf>
 <form>prodávaly</form>
-<tag lemma="prodávat_:T_^(*4at)" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="prodávat_^(*4at)" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf920924-075-p3s4w17">
 <src.rf>manual</src.rf>

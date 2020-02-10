@@ -165,7 +165,7 @@
 <LM>w#w-wsj0660-001-p1s0W12</LM>
 </w.rf>
 <form>souhlasila</form>
-<tag lemma="souhlasit" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="souhlasit" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0660-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -573,7 +573,7 @@
 <LM>w#w-wsj0660-001-p1s2W2</LM>
 </w.rf>
 <form>oznámily</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj0660-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -608,7 +608,7 @@
 <LM>w#w-wsj0660-001-p1s2W6</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0660-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -624,7 +624,7 @@
 <LM>w#w-wsj0660-001-p1s2W8</LM>
 </w.rf>
 <form>schválena</form>
-<tag lemma="schválit" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="schválit" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj0660-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -778,7 +778,7 @@
 <LM>w#w-wsj0660-001-p1s2W20</LM>
 </w.rf>
 <form>spojeni</form>
-<tag lemma="spojit" src="auto" recommended="1">VsMP---XX-APP--</tag>
+<tag lemma="spojit" src="auto" recommended="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-wsj0660-001-p1s2W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1289,7 +1289,7 @@
 <LM>w#w-wsj0660-001-p1s5W5</LM>
 </w.rf>
 <form>zrušena</form>
-<tag lemma="zrušit" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="zrušit" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj0660-001-p1s5W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1466,7 +1466,7 @@
 <LM>w#w-wsj0660-001-p1s6W2</LM>
 </w.rf>
 <form>oznámily</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj0660-001-p1s6W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1516,7 +1516,7 @@
 <LM>w#w-wsj0660-001-p1s6W7</LM>
 </w.rf>
 <form>strukturován</form>
-<tag lemma="strukturovat" src="auto" recommended="1">VsYS---XX-APB--</tag>
+<tag lemma="strukturovat" src="auto" recommended="1">VsYS----X-APB--</tag>
 </m>
 <m id="m-wsj0660-001-p1s6W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1658,7 +1658,7 @@
 <LM>w#w-wsj0660-001-p1s6W21</LM>
 </w.rf>
 <form>založena</form>
-<tag lemma="založit" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="založit" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj0660-001-p1s6W22-Ta">
 <src.rf>tagger-a</src.rf>

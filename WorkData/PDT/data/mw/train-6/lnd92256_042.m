@@ -130,7 +130,7 @@
 <LM>w#w-lnd92256-042-p2s2w6</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92256-042-p2s2w7">
 <src.rf>manual</src.rf>
@@ -300,7 +300,7 @@
 <LM>w#w-lnd92256-042-p2s3w12</LM>
 </w.rf>
 <form>ohroženo</form>
-<tag lemma="ohrozit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="ohrozit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92256-042-p2s3w13">
 <src.rf>manual</src.rf>
@@ -534,7 +534,7 @@
 <LM>w#w-lnd92256-042-p2s5w7</LM>
 </w.rf>
 <form>stabilizována</form>
-<tag lemma="stabilizovat_:T_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="stabilizovat" src="orig" selected="1">VsQW----X-APB--</tag>
 </m>
 <m id="m-lnd92256-042-p2s5w8">
 <src.rf>manual</src.rf>
@@ -582,7 +582,7 @@
 <LM>w#w-lnd92256-042-p2s5w13</LM>
 </w.rf>
 <form>umožnily</form>
-<tag lemma="umožnit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="umožnit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-042-p2s5w14">
 <src.rf>manual</src.rf>
@@ -816,7 +816,7 @@
 <LM>w#w-lnd92256-042-p2s6w22</LM>
 </w.rf>
 <form>počítalo</form>
-<tag lemma="počítat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="počítat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92256-042-p2s6w23">
 <src.rf>manual</src.rf>

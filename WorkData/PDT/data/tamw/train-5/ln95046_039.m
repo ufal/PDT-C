@@ -605,7 +605,7 @@
 <LM>w#w-ln95046-039-p2s3w4</LM>
 </w.rf>
 <form>dostali</form>
-<tag lemma="dostat" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="dostat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95046-039-p2s3w5">
 <src.rf>manual</src.rf>
@@ -869,7 +869,7 @@
 <LM>w#w-ln95046-039-p2s5w3</LM>
 </w.rf>
 <form>odvolala</form>
-<tag lemma="odvolat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="odvolat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95046-039-p2s5w4">
 <src.rf>manual</src.rf>

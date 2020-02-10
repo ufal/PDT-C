@@ -215,7 +215,7 @@
 <LM>w#w-lnd92252-073-p3s2w14</LM>
 </w.rf>
 <form>dementovali</form>
-<tag lemma="dementovat_:T_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="dementovat" src="orig" selected="1">VpMP----R-AAB--</tag>
 </m>
 <m id="m-lnd92252-073-p3s2w15">
 <src.rf>manual</src.rf>
@@ -462,7 +462,7 @@
 <LM>w#w-lnd92252-073-p3s3w15</LM>
 </w.rf>
 <form>připustili</form>
-<tag lemma="připustit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="připustit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-073-p3s3w16">
 <src.rf>manual</src.rf>
@@ -528,7 +528,7 @@
 <LM>w#w-lnd92252-073-p4s1w3</LM>
 </w.rf>
 <form>ujistil</form>
-<tag lemma="ujistit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="ujistit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-073-p4s1w4">
 <src.rf>manual</src.rf>
@@ -624,7 +624,7 @@
 <LM>w#w-lnd92252-073-p4s1w15</LM>
 </w.rf>
 <form>prohlásil</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-073-p4s1w16">
 <src.rf>manual</src.rf>
@@ -685,7 +685,7 @@
 <LM>w#w-lnd92252-073-p4s2w1</LM>
 </w.rf>
 <form>Komentoval</form>
-<tag lemma="komentovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="komentovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-lnd92252-073-p4s2w2">
 <src.rf>manual</src.rf>
@@ -800,7 +800,7 @@
 <LM>w#w-lnd92252-073-p4s2w15</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-073-p4s2w16">
 <src.rf>manual</src.rf>
@@ -808,7 +808,7 @@
 <LM>w#w-lnd92252-073-p4s2w16</LM>
 </w.rf>
 <form>provázeno</form>
-<tag lemma="provázet_:T" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="provázet" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-lnd92252-073-p4s2w17">
 <src.rf>manual</src.rf>
@@ -1234,7 +1234,7 @@
 <LM>w#w-lnd92252-073-p5s1w10</LM>
 </w.rf>
 <form>shodli</form>
-<tag lemma="shodnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="shodnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-lnd92252-073-p5s1w11">
 <src.rf>manual</src.rf>
@@ -1346,7 +1346,7 @@
 <LM>w#w-lnd92252-073-p5s1w24</LM>
 </w.rf>
 <form>ustavili</form>
-<tag lemma="ustavit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="ustavit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-073-p5s1w25">
 <src.rf>manual</src.rf>

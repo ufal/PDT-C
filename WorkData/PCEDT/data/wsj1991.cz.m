@@ -69,7 +69,7 @@
 <LM>w#w-wsj1991-001-p1s0W6</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1991-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -162,7 +162,7 @@
 <LM>w#w-wsj1991-001-p1s0W12</LM>
 </w.rf>
 <form>prodloužila</form>
-<tag lemma="prodloužit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="prodloužit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1991-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -353,7 +353,7 @@
 <LM>w#w-wsj1991-001-p1s1W2</LM>
 </w.rf>
 <form>končila</form>
-<tag lemma="končit" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="končit" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj1991-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -752,7 +752,7 @@
 <LM>w#w-wsj1991-001-p1s3W9</LM>
 </w.rf>
 <form>obchodovaly</form>
-<tag lemma="obchodovat" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag lemma="obchodovat" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj1991-001-p1s3W10-Ta">
 <src.rf>tagger-a</src.rf>

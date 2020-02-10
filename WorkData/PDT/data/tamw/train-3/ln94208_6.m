@@ -78,7 +78,7 @@
 <LM>w#w-ln94208-6-p1s1w8</LM>
 </w.rf>
 <form>přiblížily</form>
-<tag lemma="přiblížit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="přiblížit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94208-6-p1s1w9">
 <src.rf>manual</src.rf>
@@ -132,7 +132,7 @@
 <LM>w#w-ln94208-6-p1s2w5</LM>
 </w.rf>
 <form>slušelo</form>
-<tag lemma="slušet_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="slušet" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94208-6-p1s2w6">
 <src.rf>manual</src.rf>

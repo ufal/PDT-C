@@ -842,7 +842,7 @@
 <LM>w#w-lnd92251-017-p4s2w8</LM>
 </w.rf>
 <form>připraveno</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="připravit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92251-017-p4s2w9">
 <src.rf>manual</src.rf>

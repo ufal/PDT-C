@@ -929,7 +929,7 @@
 <LM>w#w-ln95041-003-p3s4w15</LM>
 </w.rf>
 <form>převedena</form>
-<tag lemma="převést" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="převést" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln95041-003-p3s4w16">
 <src.rf>manual</src.rf>
@@ -961,7 +961,7 @@
 <LM>w#w-ln95041-003-p3s4w19</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95041-003-p3s4w20">
 <src.rf>manual</src.rf>
@@ -1046,7 +1046,7 @@
 <LM>w#w-ln95041-003-p4s1w6</LM>
 </w.rf>
 <form>dosáhl</form>
-<tag lemma="dosáhnout" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dosáhnout" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95041-003-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1359,7 +1359,7 @@
 <LM>w#w-ln95041-003-p4s3w11</LM>
 </w.rf>
 <form>stagnoval</form>
-<tag lemma="stagnovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="stagnovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95041-003-p4s3w12">
 <src.rf>manual</src.rf>

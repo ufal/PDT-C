@@ -119,7 +119,7 @@
 <LM>w#w-lnd92254-033-p2s2w5</LM>
 </w.rf>
 <form>označil</form>
-<tag lemma="označit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="označit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92254-033-p2s2w6">
 <src.rf>manual</src.rf>
@@ -288,7 +288,7 @@
 <LM>w#w-lnd92254-033-p2s2w25</LM>
 </w.rf>
 <form>fungovala</form>
-<tag lemma="fungovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="fungovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92254-033-p2s2w26">
 <src.rf>manual</src.rf>
@@ -533,7 +533,7 @@
 <LM>w#w-lnd92254-033-p2s3w6</LM>
 </w.rf>
 <form>kritizoval</form>
-<tag lemma="kritizovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="kritizovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92254-033-p2s3w7">
 <src.rf>manual</src.rf>

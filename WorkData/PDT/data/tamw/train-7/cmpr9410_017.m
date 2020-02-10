@@ -635,7 +635,7 @@
 <LM>w#w-cmpr9410-017-p5s1w8</LM>
 </w.rf>
 <form>složena</form>
-<tag lemma="složit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="složit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-cmpr9410-017-p5s1w9">
 <src.rf>manual</src.rf>
@@ -1559,7 +1559,7 @@
 <LM>w#w-cmpr9410-017-p8s1w16</LM>
 </w.rf>
 <form>využit</form>
-<tag lemma="využít" src="auto" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="využít" src="auto" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-cmpr9410-017-p8s1w17">
 <src.rf>manual</src.rf>
@@ -1991,7 +1991,7 @@
 <LM>w#w-cmpr9410-017-p8s3w23</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-cmpr9410-017-p8s3w24">
 <src.rf>manual</src.rf>

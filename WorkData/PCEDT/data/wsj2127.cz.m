@@ -70,7 +70,7 @@
 <LM>w#w-wsj2127-001-p1s0W6</LM>
 </w.rf>
 <form>oznámil</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2127-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -345,7 +345,7 @@
 <LM>w#w-wsj2127-001-p1s1W5</LM>
 </w.rf>
 <form>vyplatila</form>
-<tag lemma="vyplatit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="vyplatit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2127-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -429,7 +429,7 @@
 <LM>w#w-wsj2127-001-p1s1W14</LM>
 </w.rf>
 <form>obdrželi</form>
-<tag lemma="obdržet" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="obdržet" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj2127-001-p1s1W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -649,7 +649,7 @@
 <LM>w#w-wsj2127-001-p1s2W11</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2127-001-p1s2W12-Ta">
 <src.rf>tagger-a</src.rf>

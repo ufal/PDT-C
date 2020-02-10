@@ -59,7 +59,7 @@
 <LM>w#w-ln94208-115-p1s1w6</LM>
 </w.rf>
 <form>porazili</form>
-<tag lemma="porazit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="porazit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94208-115-p1s1w7">
 <src.rf>manual</src.rf>

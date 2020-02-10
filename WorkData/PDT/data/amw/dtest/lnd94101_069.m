@@ -859,7 +859,7 @@
 <LM>w#w-lnd94101-069-p1s4w37</LM>
 </w.rf>
 <form>odešla</form>
-<tag lemma="odejít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="odejít" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-069-p1s4w38">
 <src.rf>manual</src.rf>
@@ -1414,7 +1414,7 @@
 <LM>w#w-lnd94101-069-p1s8w9</LM>
 </w.rf>
 <form>sjezdili</form>
-<tag lemma="sjezdit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="sjezdit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-069-p1s8w10">
 <src.rf>manual</src.rf>
@@ -1462,7 +1462,7 @@
 <LM>w#w-lnd94101-069-p1s8w15</LM>
 </w.rf>
 <form>získali</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-069-p1s8w16">
 <src.rf>manual</src.rf>

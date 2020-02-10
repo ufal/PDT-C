@@ -186,7 +186,7 @@
 <LM>w#w-ln94209-106-p1s1w21</LM>
 </w.rf>
 <form>nahradily</form>
-<tag lemma="nahradit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="nahradit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94209-106-p1s1w22">
 <src.rf>manual</src.rf>

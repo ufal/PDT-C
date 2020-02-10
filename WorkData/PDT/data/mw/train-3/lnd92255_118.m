@@ -787,7 +787,7 @@
 <LM>w#w-lnd92255-118-p5s1w4</LM>
 </w.rf>
 <form>potrestala</form>
-<tag lemma="potrestat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="potrestat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-118-p5s1w5">
 <src.rf>manual</src.rf>
@@ -1219,8 +1219,8 @@
 </w.rf>
 <form>vyhrál</form>
 <tag>
-<AM lemma="vyhrát" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="vyhrát_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="vyhrát" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="vyhrát" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92255-118-p7s1w5">

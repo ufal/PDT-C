@@ -556,7 +556,7 @@
 <LM>w#w-vesm9301-040-p2s3w17</LM>
 </w.rf>
 <form>zprostředkována</form>
-<tag lemma="zprostředkovat_:W" src="auto" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zprostředkovat" src="auto" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-vesm9301-040-p2s3w18">
 <src.rf>manual</src.rf>

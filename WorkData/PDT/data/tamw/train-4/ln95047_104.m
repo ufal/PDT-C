@@ -704,7 +704,7 @@
 <LM>w#w-ln95047-104-p2s4w4</LM>
 </w.rf>
 <form>získal</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95047-104-p2s4w5">
 <src.rf>manual</src.rf>
@@ -840,7 +840,7 @@
 <LM>w#w-ln95047-104-p2s4w21</LM>
 </w.rf>
 <form>vozil</form>
-<tag lemma="vozit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vozit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95047-104-p2s4w22">
 <src.rf>manual</src.rf>

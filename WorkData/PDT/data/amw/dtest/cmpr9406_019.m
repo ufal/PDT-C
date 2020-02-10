@@ -1408,8 +1408,8 @@
 </w.rf>
 <form>vešly</form>
 <tag>
-<AM lemma="vejít" src="orig">VpTP---XR-AA---</AM>
-<AM lemma="vejít_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+<AM lemma="vejít" src="orig">VpTP----R-AAP--</AM>
+<AM lemma="vejít" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-019-p8s13w17">

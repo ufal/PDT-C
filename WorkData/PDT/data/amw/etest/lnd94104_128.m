@@ -385,7 +385,7 @@
 <LM>w#w-lnd94104-128-p1s1Ew20</LM>
 </w.rf>
 <form>utkali</form>
-<tag lemma="utkat_:T_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="utkat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-128-p1s1Ew21">
 <src.rf>manual</src.rf>
@@ -1101,7 +1101,7 @@
 <LM>w#w-lnd94104-128-p1s5w33</LM>
 </w.rf>
 <form>dostal</form>
-<tag lemma="dostat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dostat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-128-p1s5w34">
 <src.rf>manual</src.rf>
@@ -1226,7 +1226,7 @@
 <LM>w#w-lnd94104-128-p1s6w12</LM>
 </w.rf>
 <form>zraněni</form>
-<tag lemma="zranit_:W" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="zranit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-lnd94104-128-p1s6w13">
 <src.rf>manual</src.rf>

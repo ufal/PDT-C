@@ -132,7 +132,7 @@
 <LM>w#w-mf930701-020-p2s1w10</LM>
 </w.rf>
 <form>investováno</form>
-<tag lemma="investovat_:T_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="investovat" src="orig" selected="1">VsNS----X-APB--</tag>
 </m>
 <m id="m-mf930701-020-p2s1w11">
 <src.rf>manual</src.rf>
@@ -352,7 +352,7 @@
 <LM>w#w-mf930701-020-p2s2w16</LM>
 </w.rf>
 <form>investovány</form>
-<tag lemma="investovat_:T_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="investovat" src="orig" selected="1">VsTP----X-APB--</tag>
 </m>
 <m id="m-mf930701-020-p2s2w17">
 <src.rf>manual</src.rf>
@@ -546,7 +546,7 @@
 <LM>w#w-mf930701-020-p2s3w22</LM>
 </w.rf>
 <form>vypsáno</form>
-<tag lemma="vypsat" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="vypsat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf930701-020-p2s3w23">
 <src.rf>manual</src.rf>
@@ -797,7 +797,7 @@
 <LM>w#w-mf930701-020-p2s5w8</LM>
 </w.rf>
 <form>určeno</form>
-<tag lemma="určit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="určit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf930701-020-p2s5w9">
 <src.rf>manual</src.rf>

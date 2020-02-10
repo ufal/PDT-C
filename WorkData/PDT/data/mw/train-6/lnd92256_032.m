@@ -138,7 +138,7 @@
 <LM>w#w-lnd92256-032-p2s2w8</LM>
 </w.rf>
 <form>nasytil</form>
-<tag lemma="nasytit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nasytit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-032-p2s2w9">
 <src.rf>manual</src.rf>
@@ -307,8 +307,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92256-032-p2s2w30">
@@ -565,7 +565,7 @@
 <LM>w#w-lnd92256-032-p2s4w18</LM>
 </w.rf>
 <form>zaregistrováno</form>
-<tag lemma="zaregistrovat_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zaregistrovat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92256-032-p2s4w19">
 <src.rf>manual</src.rf>
@@ -736,7 +736,7 @@
 <LM>w#w-lnd92256-032-p2s5w9</LM>
 </w.rf>
 <form>získalo</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-032-p2s5w10">
 <src.rf>manual</src.rf>
@@ -785,7 +785,7 @@
 <LM>w#w-lnd92256-032-p2s5w15</LM>
 </w.rf>
 <form>nevyhověl</form>
-<tag lemma="vyhovět_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="vyhovět" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-lnd92256-032-p2s5w16">
 <src.rf>manual</src.rf>

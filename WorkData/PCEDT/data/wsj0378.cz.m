@@ -114,7 +114,7 @@
 <LM>w#w-wsj0378-001-p1s0W10</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0378-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -122,7 +122,7 @@
 <LM>w#w-wsj0378-001-p1s0W11</LM>
 </w.rf>
 <form>zvolena</form>
-<tag lemma="zvolit" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="zvolit" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj0378-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -369,7 +369,7 @@
 </w.rf>
 <form>odešla</form>
 <tag>
-<AM lemma="odejít" src="auto" recommended="1">VpQW---XR-AAP--</AM></tag>
+<AM lemma="odejít" src="auto" recommended="1">VpQW----R-AAP--</AM></tag>
 <comment>
 </comment>
 <form_change>spell</form_change></m>

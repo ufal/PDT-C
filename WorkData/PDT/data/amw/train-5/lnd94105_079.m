@@ -189,7 +189,7 @@
 <LM>w#w-lnd94105-079-p1s1Bw16</LM>
 </w.rf>
 <form>zahájil</form>
-<tag lemma="zahájit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zahájit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94105-079-p1s1Bw17">
 <src.rf>manual</src.rf>

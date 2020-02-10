@@ -69,7 +69,7 @@
 <LM>w#w-mf930709-082-p2s1Aw4</LM>
 </w.rf>
 <form>MUSELI</form>
-<tag lemma="muset" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="muset" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930709-082-p2s1Aw5">
 <src.rf>manual</src.rf>
@@ -319,7 +319,7 @@
 <LM>w#w-mf930709-082-p2s2w5</LM>
 </w.rf>
 <form>zaskočilo</form>
-<tag lemma="zaskočit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zaskočit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-082-p2s2w6">
 <src.rf>manual</src.rf>
@@ -343,7 +343,7 @@
 <LM>w#w-mf930709-082-p2s2w8</LM>
 </w.rf>
 <form>neměli</form>
-<tag lemma="mít" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-mf930709-082-p2s2w9">
 <src.rf>manual</src.rf>
@@ -417,7 +417,7 @@
 <LM>w#w-mf930709-082-p2s3w4</LM>
 </w.rf>
 <form>odmítlo</form>
-<tag lemma="odmítnout_:W" src="orig" selected="1">VpNS---XR-AA--1</tag>
+<tag lemma="odmítnout" src="orig" selected="1">VpNS----R-AAP-1</tag>
 </m>
 <m id="m-mf930709-082-p2s3w5">
 <src.rf>manual</src.rf>
@@ -537,7 +537,7 @@
 <LM>w#w-mf930709-082-p2s3w19</LM>
 </w.rf>
 <form>zazpívali</form>
-<tag lemma="zazpívat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zazpívat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930709-082-p2s3w20">
 <src.rf>manual</src.rf>

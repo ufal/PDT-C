@@ -146,7 +146,7 @@
 <LM>w#w-lnd92259-077-p3s1w6</LM>
 </w.rf>
 <form>napsal</form>
-<tag lemma="napsat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="napsat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-077-p3s1w7">
 <src.rf>manual</src.rf>
@@ -932,7 +932,7 @@
 <LM>w#w-lnd92259-077-p4s3w30</LM>
 </w.rf>
 <form>nepřiznali</form>
-<tag lemma="přiznat_:W" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="přiznat" src="orig" selected="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m-lnd92259-077-p4s3w31">
 <src.rf>manual</src.rf>
@@ -1186,7 +1186,7 @@
 <LM>w#w-lnd92259-077-p4s4w26</LM>
 </w.rf>
 <form>vyměněna</form>
-<tag lemma="vyměnit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="vyměnit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd92259-077-p4s4w27">
 <src.rf>manual</src.rf>
@@ -1698,7 +1698,7 @@
 <LM>w#w-lnd92259-077-p5s1w21</LM>
 </w.rf>
 <form>zůstal</form>
-<tag lemma="zůstat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zůstat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-077-p5s1w22">
 <src.rf>manual</src.rf>
@@ -1730,7 +1730,7 @@
 <LM>w#w-lnd92259-077-p5s1w25</LM>
 </w.rf>
 <form>utajen</form>
-<tag lemma="utajit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="utajit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd92259-077-p5s1w26">
 <src.rf>manual</src.rf>
@@ -3421,7 +3421,7 @@
 <LM>w#w-lnd92259-077-p7s1w7</LM>
 </w.rf>
 <form>přišel</form>
-<tag lemma="přijít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přijít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-077-p7s1w8">
 <src.rf>manual</src.rf>
@@ -3520,7 +3520,7 @@
 <LM>w#w-lnd92259-077-p7s1w19</LM>
 </w.rf>
 <form>zklamán</form>
-<tag lemma="zklamat" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zklamat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd92259-077-p7s1w20">
 <src.rf>manual</src.rf>
@@ -3726,7 +3726,7 @@
 <LM>w#w-lnd92259-077-p7s2w24</LM>
 </w.rf>
 <form>nevydařila</form>
-<tag lemma="vydařit_:W" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="vydařit" src="orig" selected="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-lnd92259-077-p7s2w25">
 <src.rf>manual</src.rf>

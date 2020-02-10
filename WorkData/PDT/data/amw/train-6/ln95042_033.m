@@ -316,7 +316,7 @@
 <LM>w#w-ln95042-033-p2s2w8</LM>
 </w.rf>
 <form>dohodli</form>
-<tag lemma="dohodnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="dohodnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-ln95042-033-p2s2w9">
 <src.rf>manual</src.rf>

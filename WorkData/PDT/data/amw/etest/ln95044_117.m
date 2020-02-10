@@ -409,7 +409,7 @@
 <LM>w#w-ln95044-117-p2s3w4</LM>
 </w.rf>
 <form>provedli</form>
-<tag lemma="provést" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="provést" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95044-117-p2s3w5">
 <src.rf>manual</src.rf>
@@ -523,7 +523,7 @@
 <LM>w#w-ln95044-117-p2s4w8</LM>
 </w.rf>
 <form>zkontrolovali</form>
-<tag lemma="zkontrolovat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zkontrolovat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95044-117-p2s4w9">
 <src.rf>manual</src.rf>
@@ -555,7 +555,7 @@
 <LM>w#w-ln95044-117-p2s4w12</LM>
 </w.rf>
 <form>zjistili</form>
-<tag lemma="zjistit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zjistit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95044-117-p2s4w13">
 <src.rf>manual</src.rf>

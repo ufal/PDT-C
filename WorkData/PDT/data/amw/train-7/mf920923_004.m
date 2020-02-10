@@ -154,7 +154,7 @@
 <LM>w#w-mf920923-004-p2s2w9</LM>
 </w.rf>
 <form>zmocněni</form>
-<tag lemma="zmocnit" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="zmocnit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-mf920923-004-p2s2w10">
 <src.rf>manual</src.rf>
@@ -194,7 +194,7 @@
 <LM>w#w-mf920923-004-p2s2w15</LM>
 </w.rf>
 <form>předložili</form>
-<tag lemma="předložit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="předložit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920923-004-p2s2w16">
 <src.rf>manual</src.rf>
@@ -385,7 +385,7 @@
 <LM>w#w-mf920923-004-p2s4w3</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920923-004-p2s4w4">
 <src.rf>manual</src.rf>
@@ -401,7 +401,7 @@
 <LM>w#w-mf920923-004-p2s4w5</LM>
 </w.rf>
 <form>požádán</form>
-<tag lemma="požádat_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="požádat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf920923-004-p2s4w6">
 <src.rf>manual</src.rf>
@@ -425,7 +425,7 @@
 <LM>w#w-mf920923-004-p2s4w9</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920923-004-p2s4w10">
 <src.rf>manual</src.rf>
@@ -433,7 +433,7 @@
 <LM>w#w-mf920923-004-p2s4w10</LM>
 </w.rf>
 <form>upuštěno</form>
-<tag lemma="upustit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="upustit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf920923-004-p2s4w11">
 <src.rf>manual</src.rf>
@@ -523,7 +523,7 @@
 <LM>w#w-mf920923-004-p2s5w3</LM>
 </w.rf>
 <form>mělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920923-004-p2s5w4">
 <src.rf>manual</src.rf>
@@ -797,7 +797,7 @@
 <LM>w#w-mf920923-004-p2s6w2</LM>
 </w.rf>
 <form>požádaly</form>
-<tag lemma="požádat_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="požádat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf920923-004-p2s6w3">
 <src.rf>manual</src.rf>
@@ -837,7 +837,7 @@
 <LM>w#w-mf920923-004-p2s6w8</LM>
 </w.rf>
 <form>předložila</form>
-<tag lemma="předložit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="předložit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920923-004-p2s6w9">
 <src.rf>manual</src.rf>

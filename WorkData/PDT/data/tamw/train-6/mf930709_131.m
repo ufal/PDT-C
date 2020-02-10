@@ -43,7 +43,7 @@
 <LM>w#w-mf930709-131-p1s1w4</LM>
 </w.rf>
 <form>vznikla</form>
-<tag lemma="vzniknout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="vzniknout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-mf930709-131-p1s1w5">
 <src.rf>manual</src.rf>
@@ -111,7 +111,7 @@
 <LM>w#w-mf930709-131-p2s1Bw3</LM>
 </w.rf>
 <form>vyhlásilo</form>
-<tag lemma="vyhlásit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vyhlásit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-131-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -314,7 +314,7 @@
 <LM>w#w-mf930709-131-p3s1w2</LM>
 </w.rf>
 <form>rozhodli</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-mf930709-131-p3s1w3">
 <src.rf>manual</src.rf>
@@ -460,7 +460,7 @@
 <LM>w#w-mf930709-131-p4s1w8</LM>
 </w.rf>
 <form>zdůraznili</form>
-<tag lemma="zdůraznit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zdůraznit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930709-131-p4s1w9">
 <src.rf>manual</src.rf>
@@ -548,7 +548,7 @@
 <LM>w#w-mf930709-131-p4s1w19</LM>
 </w.rf>
 <form>ignorovala</form>
-<tag lemma="ignorovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="ignorovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930709-131-p4s1w20">
 <src.rf>manual</src.rf>

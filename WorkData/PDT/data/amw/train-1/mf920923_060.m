@@ -35,7 +35,7 @@
 <LM>w#w-mf920923-060-p1s1w3</LM>
 </w.rf>
 <form>rozhodl</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf920923-060-p1s1w4">
 <src.rf>manual</src.rf>
@@ -313,7 +313,7 @@
 <LM>w#w-mf920923-060-p1s2w6</LM>
 </w.rf>
 <form>nesouhlasila</form>
-<tag lemma="souhlasit_:T" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="souhlasit" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-mf920923-060-p1s2w7">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <LM>w#w-mf920923-060-p1s2w8</LM>
 </w.rf>
 <form>trvala</form>
-<tag lemma="trvat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="trvat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920923-060-p1s2w9">
 <src.rf>manual</src.rf>

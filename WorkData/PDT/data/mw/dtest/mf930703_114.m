@@ -173,7 +173,7 @@
 <LM>w#w-mf930703-114-p2s1w16</LM>
 </w.rf>
 <form>složil</form>
-<tag lemma="složit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="složit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-114-p2s1w17">
 <src.rf>manual</src.rf>
@@ -387,7 +387,7 @@
 <LM>w#w-mf930703-114-p2s2w4</LM>
 </w.rf>
 <form>jednal</form>
-<tag lemma="jednat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="jednat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930703-114-p2s2w5">
 <src.rf>manual</src.rf>
@@ -517,7 +517,7 @@
 <LM>w#w-mf930703-114-p2s3w2</LM>
 </w.rf>
 <form>jednali</form>
-<tag lemma="jednat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="jednat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930703-114-p2s3w3">
 <src.rf>manual</src.rf>
@@ -591,7 +591,7 @@
 <LM>w#w-mf930703-114-p2s4w4</LM>
 </w.rf>
 <form>spolupracovaly</form>
-<tag lemma="spolupracovat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="spolupracovat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930703-114-p2s4w5">
 <src.rf>manual</src.rf>

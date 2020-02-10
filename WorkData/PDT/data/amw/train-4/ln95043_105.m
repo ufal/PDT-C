@@ -43,7 +43,7 @@
 <LM>w#w-ln95043-105-p1s1w4</LM>
 </w.rf>
 <form>osiřela</form>
-<tag lemma="osiřet" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="osiřet" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 </s>
 </mdata>

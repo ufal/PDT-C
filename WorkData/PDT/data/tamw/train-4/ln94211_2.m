@@ -513,7 +513,7 @@
 <LM>w#w-ln94211-2-p1s2w28</LM>
 </w.rf>
 <form>domluvili</form>
-<tag lemma="domluvit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="domluvit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94211-2-p1s2w29">
 <src.rf>manual</src.rf>

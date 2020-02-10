@@ -91,7 +91,7 @@
 <LM>w#w-ln94210-106-p1s1Aw10</LM>
 </w.rf>
 <form>pořádal</form>
-<tag lemma="pořádat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="pořádat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94210-106-p1s1Aw11">
 <src.rf>manual</src.rf>

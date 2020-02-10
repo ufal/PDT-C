@@ -232,7 +232,7 @@
 <LM>w#w-lnd92257-030-p1s2w7</LM>
 </w.rf>
 <form>souhlasila</form>
-<tag lemma="souhlasit_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="souhlasit" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92257-030-p1s2w8">
 <src.rf>manual</src.rf>

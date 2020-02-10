@@ -502,7 +502,7 @@
 <LM>w#w-lnd92257-028-p2s3w12</LM>
 </w.rf>
 <form>zahájeny</form>
-<tag lemma="zahájit" src="auto" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="zahájit" src="auto" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd92257-028-p2s3w13">
 <src.rf>manual</src.rf>

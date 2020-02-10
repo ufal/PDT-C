@@ -650,7 +650,7 @@
 <LM>w#w-lnd92251-029-p3s5w9</LM>
 </w.rf>
 <form>neměla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-lnd92251-029-p3s5w10">
 <src.rf>manual</src.rf>

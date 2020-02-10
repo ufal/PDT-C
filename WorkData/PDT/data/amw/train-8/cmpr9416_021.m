@@ -188,7 +188,7 @@
 <LM>w#w-cmpr9416-021-p4s1w17</LM>
 </w.rf>
 <form>umístěn</form>
-<tag lemma="umístit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="umístit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-cmpr9416-021-p4s1w18">
 <src.rf>manual</src.rf>
@@ -310,7 +310,7 @@
 <LM>w#w-cmpr9416-021-p4s2w8</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9416-021-p4s2w9">
 <src.rf>manual</src.rf>
@@ -326,7 +326,7 @@
 <LM>w#w-cmpr9416-021-p4s2w10</LM>
 </w.rf>
 <form>postaven</form>
-<tag lemma="postavit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="postavit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-cmpr9416-021-p4s2w11">
 <src.rf>manual</src.rf>
@@ -664,8 +664,8 @@
 </w.rf>
 <form>zprovozněn</form>
 <tag>
-<AM lemma="zprovoznit" src="orig">VsYS---XX-AP---</AM>
-<AM lemma="zprovoznit_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+<AM lemma="zprovoznit" src="orig">VsYS----X-APP--</AM>
+<AM lemma="zprovoznit" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-021-p4s3w27">
@@ -691,8 +691,8 @@
 </w.rf>
 <form>odvezen</form>
 <tag>
-<AM lemma="odvézt" src="orig">VsYS---XX-AP---</AM>
-<AM lemma="odvézt_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+<AM lemma="odvézt" src="orig">VsYS----X-APP--</AM>
+<AM lemma="odvézt" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-021-p4s3w30">

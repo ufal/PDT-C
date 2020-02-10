@@ -601,7 +601,7 @@
 </w.rf>
 <form>Uběhlo</form>
 <tag>
-<AM lemma="uběhnout_:W" recommended="1">VpNS---XR-AA--1</AM>
+<AM lemma="uběhnout" recommended="1">VpNS----R-AAP-1</AM>
 <AM lemma="uběhnout" src="manual" selected="1">VpNS----R-AAP-1</AM>
 </tag>
 </m>
@@ -723,7 +723,7 @@
 </w.rf>
 <form>pokračovalo</form>
 <tag>
-<AM lemma="pokračovat_:T" recommended="1">VpNS---XR-AA---</AM>
+<AM lemma="pokračovat" recommended="1">VpNS----R-AAI--</AM>
 <AM lemma="pokračovat" src="manual" selected="1">VpNS----R-AAI--</AM>
 </tag>
 </m>
@@ -797,7 +797,7 @@
 </w.rf>
 <form>mluvil</form>
 <tag>
-<AM lemma="mluvit_:T" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="mluvit" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="mluvit" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
@@ -839,7 +839,7 @@
 </w.rf>
 <form>jel</form>
 <tag>
-<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
@@ -884,7 +884,7 @@
 </w.rf>
 <form>potkal</form>
 <tag>
-<AM lemma="potkat_:W" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="potkat" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="potkat" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
@@ -1038,7 +1038,7 @@
 </w.rf>
 <form>sdělil</form>
 <tag>
-<AM lemma="sdělit_:W" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="sdělit" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="sdělit" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
@@ -1828,7 +1828,7 @@
 </w.rf>
 <form>napodobován</form>
 <tag>
-<AM lemma="napodobovat_:T" recommended="1">VsYS---XX-AP---</AM>
+<AM lemma="napodobovat" recommended="1">VsYS----X-API--</AM>
 <AM lemma="napodobovat" src="manual" selected="1">VsYS----X-API--</AM>
 </tag>
 </m>
@@ -2431,7 +2431,7 @@
 </w.rf>
 <form>Chtěl</form>
 <tag>
-<AM lemma="chtít" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="chtít" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="chtít" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
@@ -2855,7 +2855,7 @@
 <LM>w#w-jh_01-SCzechM-p0051-s1-w16</LM>
 </w.rf>
 <form>zaplaceno</form>
-<tag lemma="zaplatit_:W" recommended="1">VsNS---XX-AP---</tag>
+<tag lemma="zaplatit" recommended="1">VsNS----X-APP--</tag>
 </m>
 <m id="jh_01-SCzechM-p0051-s1-w17">
 <w.rf>
@@ -3092,7 +3092,7 @@
 </w.rf>
 <form>dostali</form>
 <tag>
-<AM lemma="dostat" recommended="1">VpMP---XR-AA---</AM>
+<AM lemma="dostat" recommended="1">VpMP----R-AAP--</AM>
 <AM lemma="dostat" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
@@ -3394,7 +3394,7 @@
 </w.rf>
 <form>Přijal</form>
 <tag>
-<AM lemma="přijmout" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="přijmout" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="přijmout" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
@@ -3459,7 +3459,7 @@
 </w.rf>
 <form>byl</form>
 <tag>
-<AM lemma="být" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="být" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="být" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
@@ -3469,7 +3469,7 @@
 </w.rf>
 <form>věděl</form>
 <tag>
-<AM lemma="vědět" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="vědět" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="vědět" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
@@ -4300,7 +4300,7 @@
 </w.rf>
 <form>nepotkali</form>
 <tag>
-<AM lemma="potkat_:W" recommended="1">VpMP---XR-NA---</AM>
+<AM lemma="potkat" recommended="1">VpMP----R-NAP--</AM>
 <AM lemma="potkat" src="manual" selected="1">VpMP----R-NAP--</AM>
 </tag>
 </m>
@@ -4638,7 +4638,7 @@
 </w.rf>
 <form>vrátil</form>
 <tag>
-<AM lemma="vrátit_:W" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="vrátit" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="vrátit" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
@@ -5407,7 +5407,7 @@
 </w.rf>
 <form>vytvořilo</form>
 <tag>
-<AM lemma="vytvořit_:W" recommended="1">VpNS---XR-AA---</AM>
+<AM lemma="vytvořit" recommended="1">VpNS----R-AAP--</AM>
 <AM lemma="vytvořit" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>

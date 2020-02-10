@@ -16,7 +16,7 @@
 <LM>w#w-wsj0757-001-p1s0W1</LM>
 </w.rf>
 <form>Připraven</form>
-<tag lemma="připravit" src="auto" recommended="1">VsYS---XX-APP--</tag>
+<tag lemma="připravit" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj0757-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -891,7 +891,7 @@
 <form>učit</form>
 <tag>
 <AM lemma="učit" src="auto" recommended="1">Vf--------A-I--</AM>
-<AM lemma="učít_,a" src="auto">VsYS---XX-APP--</AM>
+<AM lemma="učít_,a" src="auto">VsYS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-wsj0757-001-p1s7W8-Ta">

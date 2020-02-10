@@ -812,7 +812,7 @@
 <LM>w#w-mf930709-108-p2s4w8</LM>
 </w.rf>
 <form>předběhl</form>
-<tag lemma="předběhnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="předběhnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf930709-108-p2s4w9">
 <src.rf>manual</src.rf>

@@ -70,7 +70,7 @@
 <LM>w#w-wsj2323-001-p1s0W6</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2323-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -120,7 +120,7 @@
 <LM>w#w-wsj2323-001-p1s0W11</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj2323-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -128,7 +128,7 @@
 <LM>w#w-wsj2323-001-p1s0W12</LM>
 </w.rf>
 <form>podána</form>
-<tag lemma="podat_^(něco_[někomu]_[někam])" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="podat_^(něco_[někomu]_[někam])" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj2323-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -303,7 +303,7 @@
 <LM>w#w-wsj2323-001-p1s0W27</LM>
 </w.rf>
 <form>neodstranila</form>
-<tag lemma="odstranit" src="auto" recommended="1">VpQW---XR-NAP--</tag>
+<tag lemma="odstranit" src="auto" recommended="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-wsj2323-001-p1s0W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -455,7 +455,7 @@
 <LM>w#w-wsj2323-001-p1s1W6</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2323-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -664,7 +664,7 @@
 <LM>w#w-wsj2323-001-p1s1W23</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj2323-001-p1s1W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1424,7 +1424,7 @@
 <LM>w#w-wsj2323-001-p1s4W4</LM>
 </w.rf>
 <form>podaly</form>
-<tag lemma="podat_^(něco_[někomu]_[někam])" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="podat_^(něco_[někomu]_[někam])" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj2323-001-p1s4W5-Ta">
 <src.rf>tagger-a</src.rf>

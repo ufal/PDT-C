@@ -36,8 +36,8 @@
 </w.rf>
 <form>uspěla</form>
 <tag>
-<AM lemma="uspět" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="uspět_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="uspět" src="orig">VpQW----R-AAP--</AM>
+<AM lemma="uspět" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95045-113-p1s1w4">
@@ -122,7 +122,7 @@
 <LM>w#w-ln95045-113-p2s1Bw6</LM>
 </w.rf>
 <form>prosadila</form>
-<tag lemma="prosadit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="prosadit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95045-113-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -284,7 +284,7 @@
 <LM>w#w-ln95045-113-p2s2w7</LM>
 </w.rf>
 <form>sdělil</form>
-<tag lemma="sdělit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sdělit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-113-p2s2w8">
 <src.rf>manual</src.rf>
@@ -396,7 +396,7 @@
 <LM>w#w-ln95045-113-p2s2w21</LM>
 </w.rf>
 <form>získali</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95045-113-p2s2w22">
 <src.rf>manual</src.rf>
@@ -510,7 +510,7 @@
 <LM>w#w-ln95045-113-p3s1w8</LM>
 </w.rf>
 <form>klesl</form>
-<tag lemma="klesnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="klesnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln95045-113-p3s1w9">
 <src.rf>manual</src.rf>
@@ -680,7 +680,7 @@
 <LM>w#w-ln95045-113-p3s2w6</LM>
 </w.rf>
 <form>doplatili</form>
-<tag lemma="doplatit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="doplatit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95045-113-p3s2w7">
 <src.rf>manual</src.rf>
@@ -729,8 +729,8 @@
 </w.rf>
 <form>udrželi</form>
 <tag>
-<AM lemma="udržet" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="udržet_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+<AM lemma="udržet" src="orig">VpMP----R-AAP--</AM>
+<AM lemma="udržet" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95045-113-p3s2w13">
@@ -848,7 +848,7 @@
 <LM>w#w-ln95045-113-p4s1w8</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95045-113-p4s1w9">
 <src.rf>manual</src.rf>

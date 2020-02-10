@@ -35,7 +35,7 @@
 <LM>w#w-mf920902-060-p1s1w3</LM>
 </w.rf>
 <form>vyčetl</form>
-<tag lemma="vyčíst" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyčíst" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-060-p1s1w4">
 <src.rf>manual</src.rf>

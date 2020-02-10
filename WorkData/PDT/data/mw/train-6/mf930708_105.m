@@ -27,7 +27,7 @@
 <LM>w#w-mf930708-105-p1s1w2</LM>
 </w.rf>
 <form>operován</form>
-<tag lemma="operovat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="operovat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 </s>
 <s id="m-mf930708-105-p2s1">
@@ -263,7 +263,7 @@
 <LM>w#w-mf930708-105-p2s3w11</LM>
 </w.rf>
 <form>podrobil</form>
-<tag lemma="podrobit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="podrobit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-105-p2s3w12">
 <src.rf>manual</src.rf>

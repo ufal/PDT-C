@@ -100,8 +100,8 @@
 </w.rf>
 <form>prožila</form>
 <tag>
-<AM lemma="prožít" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="prožít_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="prožít" src="orig">VpQW----R-AAP--</AM>
+<AM lemma="prožít" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920902-051-p2s2w4">
@@ -256,7 +256,7 @@
 <LM>w#w-mf920902-051-p2s3w11</LM>
 </w.rf>
 <form>odhadovali</form>
-<tag lemma="odhadovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="odhadovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf920902-051-p2s3w12">
 <src.rf>manual</src.rf>
@@ -369,8 +369,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920902-051-p2s3w26">
@@ -493,7 +493,7 @@
 <LM>w#w-mf920902-051-p2s4w7</LM>
 </w.rf>
 <form>skončila</form>
-<tag lemma="skončit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="skončit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920902-051-p2s4w8">
 <src.rf>manual</src.rf>

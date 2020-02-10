@@ -107,7 +107,7 @@
 <LM>w#w-ln94204-89-p1s1w12</LM>
 </w.rf>
 <form>neprošly</form>
-<tag lemma="projít_^(i_uplynout_[o_čase])" src="auto" selected="1">VpTP---XR-NA---</tag>
+<tag lemma="projít_^(i_uplynout_[o_čase])" src="auto" selected="1">VpTP----R-NAP--</tag>
 </m>
 <m id="m-ln94204-89-p1s1w13">
 <src.rf>manual</src.rf>

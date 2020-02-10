@@ -157,7 +157,7 @@
 <LM>w#w-lnd91303-034-p3s1w9</LM>
 </w.rf>
 <form>setkal</form>
-<tag lemma="setkat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="setkat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-034-p3s1w10">
 <src.rf>manual</src.rf>
@@ -416,7 +416,7 @@
 <LM>w#w-lnd91303-034-p3s2w8</LM>
 </w.rf>
 <form>pozdravil</form>
-<tag lemma="pozdravit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="pozdravit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-034-p3s2w9">
 <src.rf>manual</src.rf>

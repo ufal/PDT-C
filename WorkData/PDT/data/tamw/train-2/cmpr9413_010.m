@@ -193,7 +193,7 @@
 <LM>w#w-cmpr9413-010-p5s3w8</LM>
 </w.rf>
 <form>nepostupoval</form>
-<tag lemma="postupovat_:T" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="postupovat" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-cmpr9413-010-p5s3w9">
 <src.rf>manual</src.rf>
@@ -321,7 +321,7 @@
 <LM>w#w-cmpr9413-010-p5s5w5</LM>
 </w.rf>
 <form>připravena</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="připravit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-cmpr9413-010-p5s5w6">
 <src.rf>manual</src.rf>
@@ -447,7 +447,7 @@
 <LM>w#w-cmpr9413-010-p7s1w1</LM>
 </w.rf>
 <form>Slyšeli</form>
-<tag lemma="slyšet" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="slyšet" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-cmpr9413-010-p7s1w2">
 <src.rf>manual</src.rf>

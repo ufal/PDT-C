@@ -149,7 +149,7 @@
 <LM>w#w-ln94206-146-p2s1Bw9</LM>
 </w.rf>
 <form>zvýšil</form>
-<tag lemma="zvýšit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zvýšit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94206-146-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -259,7 +259,7 @@
 <LM>w#w-ln94206-146-p2s2w4</LM>
 </w.rf>
 <form>zdražil</form>
-<tag lemma="zdražit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zdražit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94206-146-p2s2w5">
 <src.rf>manual</src.rf>
@@ -896,7 +896,7 @@
 <LM>w#w-ln94206-146-p4s2w14</LM>
 </w.rf>
 <form>sdělil</form>
-<tag lemma="sdělit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sdělit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94206-146-p4s2w15">
 <src.rf>manual</src.rf>

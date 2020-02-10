@@ -364,7 +364,7 @@
 <LM>w#w-lnd92258-001-p8s1w8</LM>
 </w.rf>
 <form>neodpustil</form>
-<tag lemma="odpustit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="odpustit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-lnd92258-001-p8s1w9">
 <src.rf>manual</src.rf>

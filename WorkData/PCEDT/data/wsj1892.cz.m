@@ -97,7 +97,7 @@
 <LM>w#w-wsj1892-001-p1s0W8</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1892-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -230,7 +230,7 @@
 <LM>w#w-wsj1892-001-p1s0W17</LM>
 </w.rf>
 <form>prohloubila</form>
-<tag lemma="prohloubit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="prohloubit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1892-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -504,7 +504,7 @@
 <LM>w#w-wsj1892-001-p1s1W3</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="mít" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj1892-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -773,7 +773,7 @@
 <LM>w#w-wsj1892-001-p1s2W7</LM>
 </w.rf>
 <form>činil</form>
-<tag lemma="činit" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="činit" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1892-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -932,7 +932,7 @@
 <LM>w#w-wsj1892-001-p1s3W9</LM>
 </w.rf>
 <form>vyplácela</form>
-<tag lemma="vyplácet" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="vyplácet" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj1892-001-p1s3W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1101,7 +1101,7 @@
 <LM>w#w-wsj1892-001-p1s3W24</LM>
 </w.rf>
 <form>vyměnila</form>
-<tag lemma="vyměnit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="vyměnit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1892-001-p1s3W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1327,7 +1327,7 @@
 <LM>w#w-wsj1892-001-p1s4W10</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1892-001-p1s4W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1365,7 +1365,7 @@
 <LM>w#w-wsj1892-001-p1s4W14</LM>
 </w.rf>
 <form>vzrostl</form>
-<tag lemma="vzrůst-1" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="vzrůst-1" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1892-001-p1s4W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1502,7 +1502,7 @@
 <LM>w#w-wsj1892-001-p1s5W5</LM>
 </w.rf>
 <form>přičetla</form>
-<tag lemma="přičíst" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="přičíst" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1892-001-p1s5W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1768,7 +1768,7 @@
 <LM>w#w-wsj1892-001-p1s6W3</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1892-001-p1s6W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1817,7 +1817,7 @@
 <LM>w#w-wsj1892-001-p1s6W7</LM>
 </w.rf>
 <form>restrukturalizovala</form>
-<tag lemma="restrukturalizovat" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="restrukturalizovat" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj1892-001-p1s6W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2235,7 +2235,7 @@
 <LM>w#w-wsj1892-001-p1s7W10</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1892-001-p1s7W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2365,7 +2365,7 @@
 <LM>w#w-wsj1892-001-p1s7W20</LM>
 </w.rf>
 <form>vystoupila</form>
-<tag lemma="vystoupit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="vystoupit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1892-001-p1s7W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2432,7 +2432,7 @@
 <LM>w#w-wsj1892-001-p1s7W26</LM>
 </w.rf>
 <form>získala</form>
-<tag lemma="získat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="získat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1892-001-p1s7W27-Ta">
 <src.rf>tagger-a</src.rf>

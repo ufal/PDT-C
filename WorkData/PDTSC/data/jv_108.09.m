@@ -509,7 +509,7 @@
 <LM>w#w-d1t1690-2</LM>
 </w.rf>
 <form>připravily</form>
-<tag lemma="připravit_:W" src="auto" recommended="1">VpTP---XR-AA---</tag>
+<tag lemma="připravit" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m108-d1t1690-3">
 <w.rf>
@@ -3644,7 +3644,7 @@
 <LM>w#w-d1t1772-2</LM>
 </w.rf>
 <form>Byli</form>
-<tag lemma="být" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m108-d1t1772-3">
 <w.rf>
@@ -3918,7 +3918,7 @@
 <LM>w#w-d1t1774-10</LM>
 </w.rf>
 <form>dalo</form>
-<tag lemma="dát" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="dát" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m108-d1t1774-8">
 <w.rf>
@@ -4752,7 +4752,7 @@
 <LM>w#w-d1t1798-10</LM>
 </w.rf>
 <form>přibyla</form>
-<tag lemma="přibýt" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="přibýt" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m108-d1t1798-11">
 <w.rf>

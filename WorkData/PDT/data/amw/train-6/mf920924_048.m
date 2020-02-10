@@ -421,7 +421,7 @@
 <LM>w#w-mf920924-048-p3s1Bw4</LM>
 </w.rf>
 <form>komponoval</form>
-<tag lemma="komponovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="komponovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920924-048-p3s1Bw5">
 <src.rf>manual</src.rf>
@@ -469,7 +469,7 @@
 <LM>w#w-mf920924-048-p3s1Bw10</LM>
 </w.rf>
 <form>vyznamenal</form>
-<tag lemma="vyznamenat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyznamenat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920924-048-p3s1Bw11">
 <src.rf>manual</src.rf>
@@ -703,7 +703,7 @@
 <LM>w#w-mf920924-048-p4s2w2</LM>
 </w.rf>
 <form>převzal</form>
-<tag lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920924-048-p4s2w3">
 <src.rf>manual</src.rf>

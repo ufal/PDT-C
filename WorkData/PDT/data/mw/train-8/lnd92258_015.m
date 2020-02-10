@@ -91,7 +91,7 @@
 <LM>w#w-lnd92258-015-p1s1w10</LM>
 </w.rf>
 <form>ztratilo</form>
-<tag lemma="ztratit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="ztratit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-015-p1s1w11">
 <src.rf>manual</src.rf>
@@ -189,7 +189,7 @@
 <LM>w#w-lnd92258-015-p1s2w2</LM>
 </w.rf>
 <form>porušili</form>
-<tag lemma="porušit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="porušit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-015-p1s2w3">
 <src.rf>manual</src.rf>
@@ -261,7 +261,7 @@
 <LM>w#w-lnd92258-015-p1s2w11</LM>
 </w.rf>
 <form>zamaskovali</form>
-<tag lemma="zamaskovat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zamaskovat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-015-p1s2w12">
 <src.rf>manual</src.rf>
@@ -333,7 +333,7 @@
 <LM>w#w-lnd92258-015-p1s2w20</LM>
 </w.rf>
 <form>nezjistila</form>
-<tag lemma="zjistit_:W" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="zjistit" src="orig" selected="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-lnd92258-015-p1s2w21">
 <src.rf>manual</src.rf>

@@ -110,7 +110,7 @@
 <LM>w#w-ln95046-025-p1s1w12</LM>
 </w.rf>
 <form>neprosadil</form>
-<tag lemma="prosadit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="prosadit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 </s>
 </mdata>

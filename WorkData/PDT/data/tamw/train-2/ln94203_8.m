@@ -87,7 +87,7 @@
 <LM>w#w-ln94203-8-p2s1w7</LM>
 </w.rf>
 <form>objevily</form>
-<tag lemma="objevit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="objevit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94203-8-p2s1w8">
 <src.rf>manual</src.rf>

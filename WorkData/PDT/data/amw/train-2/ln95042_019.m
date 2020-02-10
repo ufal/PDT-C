@@ -157,7 +157,7 @@
 <LM>w#w-ln95042-019-p2s1w15</LM>
 </w.rf>
 <form>Vyprodáno</form>
-<tag lemma="vyprodat_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="vyprodat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95042-019-p2s1w16">
 <src.rf>manual</src.rf>
@@ -468,7 +468,7 @@
 <LM>w#w-ln95042-019-p2s3w18</LM>
 </w.rf>
 <form>doplnilo</form>
-<tag lemma="doplnit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="doplnit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95042-019-p2s3w19">
 <src.rf>manual</src.rf>
@@ -580,7 +580,7 @@
 <LM>w#w-ln95042-019-p2s3w32</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95042-019-p2s3w33">
 <src.rf>manual</src.rf>

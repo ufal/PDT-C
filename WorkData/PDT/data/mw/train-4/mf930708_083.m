@@ -145,7 +145,7 @@
 <LM>w#w-mf930708-083-p2s1w11</LM>
 </w.rf>
 <form>připravila</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="připravit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930708-083-p2s1w12">
 <src.rf>manual</src.rf>

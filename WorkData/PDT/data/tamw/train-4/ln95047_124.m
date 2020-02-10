@@ -230,7 +230,7 @@
 <LM>w#w-ln95047-124-p2s1Bw15</LM>
 </w.rf>
 <form>rozdělen</form>
-<tag lemma="rozdělit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="rozdělit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95047-124-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -369,7 +369,7 @@
 <LM>w#w-ln95047-124-p2s2w6</LM>
 </w.rf>
 <form>vlastněny</form>
-<tag lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln95047-124-p2s2w7">
 <src.rf>manual</src.rf>
@@ -824,7 +824,7 @@
 <LM>w#w-ln95047-124-p3s3w9</LM>
 </w.rf>
 <form>činil</form>
-<tag lemma="činit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="činit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95047-124-p3s3w10">
 <src.rf>manual</src.rf>
@@ -1099,8 +1099,8 @@
 </w.rf>
 <form>dosáhl</form>
 <tag>
-<AM lemma="dosáhnout" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="dosáhnout_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="dosáhnout" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="dosáhnout" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95047-124-p4s2w6">
@@ -1290,8 +1290,8 @@
 </w.rf>
 <form>měla</form>
 <tag>
-<AM lemma="mít" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="mít_:T" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="mít" src="orig">VpQW----R-AAI--</AM>
+<AM lemma="mít" src="manual" selected="1">VpQW----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln95047-124-p4s3w9">
@@ -1491,7 +1491,7 @@
 <LM>w#w-ln95047-124-p5s1w15</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95047-124-p5s1w16">
 <src.rf>manual</src.rf>
@@ -1508,8 +1508,8 @@
 </w.rf>
 <form>převeden</form>
 <tag>
-<AM lemma="převést" src="orig">VsYS---XX-AP---</AM>
-<AM lemma="převést_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+<AM lemma="převést" src="orig">VsYS----X-APP--</AM>
+<AM lemma="převést" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-ln95047-124-p5s1w18">

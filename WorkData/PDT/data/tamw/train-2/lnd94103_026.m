@@ -107,7 +107,7 @@
 <LM>w#w-lnd94103-026-p1s1w12</LM>
 </w.rf>
 <form>informoval</form>
-<tag lemma="informovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="informovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-lnd94103-026-p1s1w13">
 <src.rf>manual</src.rf>

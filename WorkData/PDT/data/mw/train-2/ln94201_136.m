@@ -113,8 +113,8 @@
 </w.rf>
 <form>určeno</form>
 <tag>
-<AM lemma="určit" src="orig">VsNS---XX-AP---</AM>
-<AM lemma="určit_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+<AM lemma="určit" src="orig">VsNS----X-APP--</AM>
+<AM lemma="určit" src="manual" selected="1">VsNS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-ln94201-136-p2s1w9">
@@ -1234,7 +1234,7 @@
 <LM>w#w-ln94201-136-p4s3w3</LM>
 </w.rf>
 <form>rozděleno</form>
-<tag lemma="rozdělit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="rozdělit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94201-136-p4s3w4">
 <src.rf>manual</src.rf>
@@ -2557,7 +2557,7 @@
 <LM>w#w-ln94201-136-p5s5w8</LM>
 </w.rf>
 <form>šlo</form>
-<tag lemma="jít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="jít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94201-136-p5s5w9">
 <src.rf>manual</src.rf>
@@ -2981,7 +2981,7 @@
 <LM>w#w-ln94201-136-p6s3w12</LM>
 </w.rf>
 <form>vyrozuměn</form>
-<tag lemma="vyrozumět_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="vyrozumět" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94201-136-p6s3w13">
 <src.rf>manual</src.rf>
@@ -3039,7 +3039,7 @@
 <LM>w#w-ln94201-136-p6s4w5</LM>
 </w.rf>
 <form>zdaňovány</form>
-<tag lemma="zdaňovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="zdaňovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln94201-136-p6s4w6">
 <src.rf>manual</src.rf>

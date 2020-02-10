@@ -35,7 +35,7 @@
 <LM>w#w-mf930709-019-p1s1w3</LM>
 </w.rf>
 <form>kontrolovali</form>
-<tag lemma="kontrolovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="kontrolovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930709-019-p1s1w4">
 <src.rf>manual</src.rf>

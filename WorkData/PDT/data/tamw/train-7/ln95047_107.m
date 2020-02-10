@@ -43,7 +43,7 @@
 <LM>w#w-ln95047-107-p1s1w4</LM>
 </w.rf>
 <form>pomohly</form>
-<tag lemma="pomoci" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="pomoci" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95047-107-p1s1w5">
 <src.rf>manual</src.rf>
@@ -197,8 +197,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95047-107-p2s2w5">
@@ -757,7 +757,7 @@
 <LM>w#w-ln95047-107-p3s4w11</LM>
 </w.rf>
 <form>zahajovala</form>
-<tag lemma="zahajovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zahajovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95047-107-p3s4w12">
 <src.rf>manual</src.rf>
@@ -809,7 +809,7 @@
 <LM>w#w-ln95047-107-p3s4w15</LM>
 </w.rf>
 <form>neměla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-ln95047-107-p3s4w16">
 <src.rf>manual</src.rf>
@@ -908,7 +908,7 @@
 <LM>w#w-ln95047-107-p3s4w27</LM>
 </w.rf>
 <form>vyráběly</form>
-<tag lemma="vyrábět_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vyrábět" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95047-107-p3s4w28">
 <src.rf>manual</src.rf>
@@ -977,7 +977,7 @@
 <LM>w#w-ln95047-107-p3s5w5</LM>
 </w.rf>
 <form>nemusel</form>
-<tag lemma="muset" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="muset" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-ln95047-107-p3s5w6">
 <src.rf>manual</src.rf>
@@ -1017,7 +1017,7 @@
 <LM>w#w-ln95047-107-p3s5w10</LM>
 </w.rf>
 <form>požádal</form>
-<tag lemma="požádat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="požádat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95047-107-p3s5w11">
 <src.rf>manual</src.rf>
@@ -1139,7 +1139,7 @@
 <LM>w#w-ln95047-107-p3s6w10</LM>
 </w.rf>
 <form>dozvěděl</form>
-<tag lemma="dozvědět" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dozvědět" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95047-107-p3s6w11">
 <src.rf>manual</src.rf>

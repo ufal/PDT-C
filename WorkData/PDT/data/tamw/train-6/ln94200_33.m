@@ -138,7 +138,7 @@
 <LM>w#w-ln94200-33-p2s1Bw9</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94200-33-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -146,7 +146,7 @@
 <LM>w#w-ln94200-33-p2s1Bw10</LM>
 </w.rf>
 <form>zřízeno</form>
-<tag lemma="zřídit" src="auto" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zřídit" src="auto" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94200-33-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -560,7 +560,7 @@
 <LM>w#w-ln94200-33-p3s2w6</LM>
 </w.rf>
 <form>navázalo</form>
-<tag lemma="navázat_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="navázat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-33-p3s2w7">
 <src.rf>manual</src.rf>

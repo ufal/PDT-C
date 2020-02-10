@@ -88,7 +88,7 @@
 <LM>w#w-wsj0070-001-p1s0W7</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0070-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -115,7 +115,7 @@
 <LM>w#w-wsj0070-001-p1s0W10</LM>
 </w.rf>
 <form>vykoupila</form>
-<tag lemma="vykoupit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="vykoupit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0070-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -372,7 +372,7 @@
 <LM>w#w-wsj0070-001-p1s1W2</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0070-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -690,7 +690,7 @@
 <LM>w#w-wsj0070-001-p1s2W6</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0070-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -755,7 +755,7 @@
 <LM>w#w-wsj0070-001-p1s2W11</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-wsj0070-001-p1s2W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -763,7 +763,7 @@
 <LM>w#w-wsj0070-001-p1s2W12</LM>
 </w.rf>
 <form>založeno</form>
-<tag lemma="založit" src="auto" recommended="1">VsNS---XX-APP--</tag>
+<tag lemma="založit" src="auto" recommended="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-wsj0070-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1057,7 +1057,7 @@
 <LM>w#w-wsj0070-001-p1s3W5</LM>
 </w.rf>
 <form>řízena</form>
-<tag lemma="řídit" src="auto" recommended="1">VsQW---XX-API--</tag>
+<tag lemma="řídit" src="auto" recommended="1">VsQW----X-API--</tag>
 </m>
 <m id="m-wsj0070-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1389,7 +1389,7 @@
 <LM>w#w-wsj0070-001-p1s3W35</LM>
 </w.rf>
 <form>naznačili</form>
-<tag lemma="naznačit" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="naznačit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj0070-001-p1s3W36-Ta">
 <src.rf>tagger-a</src.rf>

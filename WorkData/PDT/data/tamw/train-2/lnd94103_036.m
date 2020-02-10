@@ -523,7 +523,7 @@
 <LM>w#w-lnd94103-036-p1s4w15</LM>
 </w.rf>
 <form>obdržely</form>
-<tag lemma="obdržet" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="obdržet" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-036-p1s4w16">
 <src.rf>manual</src.rf>
@@ -579,7 +579,7 @@
 <LM>w#w-lnd94103-036-p1s4w22</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-036-p1s4w23">
 <src.rf>manual</src.rf>
@@ -624,7 +624,7 @@
 <LM>w#w-lnd94103-036-p1s5w2</LM>
 </w.rf>
 <form>získal</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-036-p1s5w3">
 <src.rf>manual</src.rf>
@@ -1045,7 +1045,7 @@
 <LM>w#w-lnd94103-036-p1s8w3</LM>
 </w.rf>
 <form>získávaly</form>
-<tag lemma="získávat_:T_^(*4at)" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="získávat_^(*4at)" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-036-p1s8w4">
 <src.rf>manual</src.rf>
@@ -1135,7 +1135,7 @@
 <LM>w#w-lnd94103-036-p1s9w3</LM>
 </w.rf>
 <form>obdržely</form>
-<tag lemma="obdržet" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="obdržet" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-036-p1s9w4">
 <src.rf>manual</src.rf>
@@ -2245,7 +2245,7 @@
 <LM>w#w-lnd94103-036-p1s13w15</LM>
 </w.rf>
 <form>nevstoupil</form>
-<tag lemma="vstoupit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="vstoupit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-lnd94103-036-p1s13w16">
 <src.rf>manual</src.rf>

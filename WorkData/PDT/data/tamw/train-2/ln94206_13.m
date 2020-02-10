@@ -727,7 +727,7 @@
 <LM>w#w-ln94206-13-p3s1w17</LM>
 </w.rf>
 <form>určeno</form>
-<tag lemma="určit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="určit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94206-13-p3s1w18">
 <src.rf>manual</src.rf>

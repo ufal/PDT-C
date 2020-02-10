@@ -70,7 +70,7 @@
 <LM>w#w-wsj1129-001-p1s0W6</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1129-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -163,7 +163,7 @@
 <LM>w#w-wsj1129-001-p1s0W12</LM>
 </w.rf>
 <form>zvýšila</form>
-<tag lemma="zvýšit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="zvýšit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1129-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -271,7 +271,7 @@
 <LM>w#w-wsj1129-001-p1s0W21</LM>
 </w.rf>
 <form>odkoupeny</form>
-<tag lemma="odkoupit" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="odkoupit" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj1129-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -471,7 +471,7 @@
 <LM>w#w-wsj1129-001-p1s1W5</LM>
 </w.rf>
 <form>získal</form>
-<tag lemma="získat" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="získat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1129-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>

@@ -36,8 +36,8 @@
 </w.rf>
 <form>dal</form>
 <tag>
-<AM lemma="dát" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="dát_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="dát" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="dát" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94205-63-p1s1w4">
@@ -146,7 +146,7 @@
 <LM>w#w-ln94205-63-p2s1Bw5</LM>
 </w.rf>
 <form>vyskytly</form>
-<tag lemma="vyskytnout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="vyskytnout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-ln94205-63-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -244,7 +244,7 @@
 <LM>w#w-ln94205-63-p2s2w7</LM>
 </w.rf>
 <form>objevily</form>
-<tag lemma="objevit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="objevit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94205-63-p2s2w8">
 <src.rf>manual</src.rf>
@@ -268,7 +268,7 @@
 <LM>w#w-ln94205-63-p2s2w10</LM>
 </w.rf>
 <form>shodly</form>
-<tag lemma="shodnout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="shodnout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-ln94205-63-p2s2w11">
 <src.rf>manual</src.rf>
@@ -332,7 +332,7 @@
 <LM>w#w-ln94205-63-p2s2w18</LM>
 </w.rf>
 <form>platil</form>
-<tag lemma="platit_:T" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="platit" src="auto" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94205-63-p2s2w19">
 <src.rf>manual</src.rf>
@@ -546,7 +546,7 @@
 <LM>w#w-ln94205-63-p3s1w16</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94205-63-p3s1w17">
 <src.rf>manual</src.rf>
@@ -684,7 +684,7 @@
 <LM>w#w-ln94205-63-p3s2w7</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94205-63-p3s2w8">
 <src.rf>manual</src.rf>
@@ -717,8 +717,8 @@
 </w.rf>
 <form>oblečen</form>
 <tag>
-<AM lemma="obléci" src="orig">VsYS---XX-AP---</AM>
-<AM lemma="obléci_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+<AM lemma="obléci" src="orig">VsYS----X-APP--</AM>
+<AM lemma="obléci" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-ln94205-63-p3s2w12">
@@ -1009,7 +1009,7 @@
 <LM>w#w-ln94205-63-p4s1w20</LM>
 </w.rf>
 <form>podrobeny</form>
-<tag lemma="podrobit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="podrobit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln94205-63-p4s1w21">
 <src.rf>manual</src.rf>

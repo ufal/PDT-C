@@ -404,7 +404,7 @@
 <LM>w#w-ln95045-014-p1s2w7</LM>
 </w.rf>
 <form>otevřena</form>
-<tag lemma="otevřít" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="otevřít" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln95045-014-p1s2w8">
 <src.rf>manual</src.rf>

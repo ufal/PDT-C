@@ -54,7 +54,7 @@
 <LM>w#w-lnd94101-055-p1s1w5</LM>
 </w.rf>
 <form>nezačalo</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpNS----R-NAP--</tag>
 </m>
 </s>
 <s id="m-lnd94101-055-p1s2">
@@ -194,7 +194,7 @@
 <LM>w#w-lnd94101-055-p1s3w15</LM>
 </w.rf>
 <form>pokračovaly</form>
-<tag lemma="pokračovat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="pokračovat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd94101-055-p1s3w16">
 <src.rf>manual</src.rf>
@@ -399,7 +399,7 @@
 <LM>w#w-lnd94101-055-p1s4w12</LM>
 </w.rf>
 <form>oznámil</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-055-p1s4w13">
 <src.rf>manual</src.rf>
@@ -463,7 +463,7 @@
 <LM>w#w-lnd94101-055-p1s4w20</LM>
 </w.rf>
 <form>nepodařilo</form>
-<tag lemma="podařit_:W" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="podařit" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-lnd94101-055-p1s4w21">
 <src.rf>manual</src.rf>
@@ -551,7 +551,7 @@
 <LM>w#w-lnd94101-055-p1s4w31</LM>
 </w.rf>
 <form>zaujali</form>
-<tag lemma="zaujmout_^(upoutat_pozornost)" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zaujmout_^(upoutat_pozornost)" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-055-p1s4w32">
 <src.rf>manual</src.rf>

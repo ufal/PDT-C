@@ -639,7 +639,7 @@
 <LM>w#w-ln94203-58-p3s1w17</LM>
 </w.rf>
 <form>vyzvalo</form>
-<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94203-58-p3s1w18">
 <src.rf>manual</src.rf>
@@ -695,7 +695,7 @@
 <LM>w#w-ln94203-58-p3s1w25</LM>
 </w.rf>
 <form>ohlásila</form>
-<tag lemma="ohlásit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="ohlásit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94203-58-p3s1w26">
 <src.rf>manual</src.rf>
@@ -1111,7 +1111,7 @@
 <LM>w#w-ln94203-58-p4s2w15</LM>
 </w.rf>
 <form>obcházel</form>
-<tag lemma="obcházet_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="obcházet" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94203-58-p4s2w16">
 <src.rf>manual</src.rf>
@@ -1143,7 +1143,7 @@
 <LM>w#w-ln94203-58-p4s2w19</LM>
 </w.rf>
 <form>porušoval</form>
-<tag lemma="porušovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="porušovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94203-58-p4s2w20">
 <src.rf>manual</src.rf>
@@ -1600,7 +1600,7 @@
 <LM>w#w-ln94203-58-p5s1w16</LM>
 </w.rf>
 <form>podepsali</form>
-<tag lemma="podepsat" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="podepsat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94203-58-p5s1w17">
 <src.rf>manual</src.rf>

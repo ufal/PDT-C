@@ -38,7 +38,7 @@
 <LM>w#w-wsj1954-001-p1s0W3</LM>
 </w.rf>
 <form>vydražila</form>
-<tag lemma="vydražit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="vydražit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1954-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -361,7 +361,7 @@
 <LM>w#w-wsj1954-001-p1s1W6</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj1954-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -505,7 +505,7 @@
 <LM>w#w-wsj1954-001-p1s2W5</LM>
 </w.rf>
 <form>použit</form>
-<tag lemma="použít" src="auto" recommended="1">VsYS---XX-APP--</tag>
+<tag lemma="použít" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj1954-001-p1s2W6-Ta">
 <src.rf>tagger-a</src.rf>

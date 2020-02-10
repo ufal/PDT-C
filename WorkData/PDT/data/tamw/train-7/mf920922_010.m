@@ -37,7 +37,7 @@
 <LM>w#w-mf920922-010-p1s1w3</LM>
 </w.rf>
 <form>Chtěl</form>
-<tag lemma="chtít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="chtít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920922-010-p1s1w4">
 <src.rf>manual</src.rf>
@@ -276,7 +276,7 @@
 <LM>w#w-mf920922-010-p1s3w15</LM>
 </w.rf>
 <form>žily</form>
-<tag lemma="žít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="žít" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf920922-010-p1s3w16">
 <src.rf>manual</src.rf>
@@ -560,7 +560,7 @@
 <LM>w#w-mf920922-010-p2s2w12</LM>
 </w.rf>
 <form>jednali</form>
-<tag lemma="jednat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="jednat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf920922-010-p2s2w13">
 <src.rf>manual</src.rf>

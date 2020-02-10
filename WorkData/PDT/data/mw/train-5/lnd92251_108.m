@@ -99,7 +99,7 @@
 <LM>w#w-lnd92251-108-p1s1w11</LM>
 </w.rf>
 <form>zapomněl</form>
-<tag lemma="zapomenout" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zapomenout" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-108-p1s1w12">
 <src.rf>manual</src.rf>

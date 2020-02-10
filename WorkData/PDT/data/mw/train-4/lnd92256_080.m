@@ -567,7 +567,7 @@
 <LM>w#w-lnd92256-080-p4s1w1</LM>
 </w.rf>
 <form>Zemřel</form>
-<tag lemma="zemřít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zemřít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-080-p4s1w2">
 <src.rf>manual</src.rf>
@@ -754,7 +754,7 @@
 <LM>w#w-lnd92256-080-p4s2w1</LM>
 </w.rf>
 <form>Odešel</form>
-<tag lemma="odejít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odejít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-080-p4s2w2">
 <src.rf>manual</src.rf>

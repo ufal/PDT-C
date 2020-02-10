@@ -496,7 +496,7 @@
 <LM>w#w-wsj1707-001-p1s0W34</LM>
 </w.rf>
 <form>dosáhly</form>
-<tag lemma="dosáhnout" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="dosáhnout" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1707-001-p1s0W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -942,7 +942,7 @@
 <LM>w#w-wsj1707-001-p1s1W20</LM>
 </w.rf>
 <form>uvedly</form>
-<tag lemma="uvést" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1707-001-p1s1W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -997,7 +997,7 @@
 <LM>w#w-wsj1707-001-p1s1W26</LM>
 </w.rf>
 <form>cílena</form>
-<tag lemma="cílit" src="auto" recommended="1">VsQW---XX-API--</tag>
+<tag lemma="cílit" src="auto" recommended="1">VsQW----X-API--</tag>
 </m>
 <m id="m-wsj1707-001-p1s1W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1613,7 +1613,7 @@
 <LM>w#w-wsj1707-001-p1s2W19</LM>
 </w.rf>
 <form>souhlasila</form>
-<tag lemma="souhlasit" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="souhlasit" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj1707-001-p1s2W20-Ta">
 <src.rf>tagger-a</src.rf>

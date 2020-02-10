@@ -331,7 +331,7 @@
 <LM>w#w-lnd94105-115-p1s4w2</LM>
 </w.rf>
 <form>vedl</form>
-<tag lemma="vést" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vést" src="auto" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94105-115-p1s4w3">
 <src.rf>manual</src.rf>

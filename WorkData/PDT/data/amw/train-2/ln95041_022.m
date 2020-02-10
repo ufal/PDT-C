@@ -62,7 +62,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>rezignoval</form>
-<tag lemma="rezignovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="rezignovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln95041-022-p2s1w4">
 <src.rf>manual</src.rf>
@@ -190,7 +190,7 @@
 <LM>w#w-ln95041-022-p2s1w19</LM>
 </w.rf>
 <form>vykonával</form>
-<tag lemma="vykonávat_:T_^(*4at)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vykonávat_^(*4at)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95041-022-p2s1w20">
 <src.rf>manual</src.rf>

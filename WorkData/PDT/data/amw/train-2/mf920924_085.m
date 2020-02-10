@@ -428,7 +428,7 @@
 <LM>w#w-mf920924-085-p3s1w21</LM>
 </w.rf>
 <form>připraveni</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="připravit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-mf920924-085-p3s1w22">
 <src.rf>manual</src.rf>
@@ -686,7 +686,7 @@
 <LM>w#w-mf920924-085-p4s1w2</LM>
 </w.rf>
 <form>zkomplikovalo</form>
-<tag lemma="zkomplikovat_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zkomplikovat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920924-085-p4s1w3">
 <src.rf>manual</src.rf>
@@ -1312,7 +1312,7 @@
 <LM>w#w-mf920924-085-p5s3w17</LM>
 </w.rf>
 <form>vyprodána</form>
-<tag lemma="vyprodat_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="vyprodat" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf920924-085-p5s3w18">
 <src.rf>manual</src.rf>
@@ -1410,7 +1410,7 @@
 <LM>w#w-mf920924-085-p5s4w11</LM>
 </w.rf>
 <form>vyřadila</form>
-<tag lemma="vyřadit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyřadit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920924-085-p5s4w12">
 <src.rf>manual</src.rf>

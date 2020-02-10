@@ -235,7 +235,7 @@
 <LM>w#w-ln95049-132-p1s2w11</LM>
 </w.rf>
 <form>patřila</form>
-<tag lemma="patřit_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="patřit" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95049-132-p1s2w12">
 <src.rf>manual</src.rf>

@@ -375,7 +375,7 @@
 </w.rf>
 <form>cítil</form>
 <tag>
-<AM lemma="cítit_:T" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="cítit" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="cítit" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
@@ -529,7 +529,7 @@
 </w.rf>
 <form>ponořen</form>
 <tag>
-<AM lemma="ponořit_:W" recommended="1">VsYS---XX-AP---</AM>
+<AM lemma="ponořit" recommended="1">VsYS----X-APP--</AM>
 <AM lemma="ponořit" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
@@ -600,7 +600,7 @@
 </w.rf>
 <form>měl</form>
 <tag>
-<AM lemma="mít" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="mít" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="mít" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
@@ -1378,7 +1378,7 @@
 </w.rf>
 <form>kontrolovala</form>
 <tag>
-<AM lemma="kontrolovat_:T" recommended="1">VpQW---XR-AA---</AM>
+<AM lemma="kontrolovat" recommended="1">VpQW----R-AAI--</AM>
 <AM lemma="kontrolovat" src="manual" selected="1">VpQW----R-AAI--</AM>
 </tag>
 </m>
@@ -1743,7 +1743,7 @@
 <LM>w#w-es_09-SCzechM-p0896-s1-w19</LM>
 </w.rf>
 <form>chtěl</form>
-<tag lemma="chtít" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="chtít" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="es_09-SCzechM-p0896-s1-w20">
 <w.rf>
@@ -2288,7 +2288,7 @@
 </w.rf>
 <form>měly</form>
 <tag>
-<AM lemma="mít" recommended="1">VpTP---XR-AA---</AM>
+<AM lemma="mít" recommended="1">VpTP----R-AAI--</AM>
 <AM lemma="mít" src="manual" selected="1">VpTP----R-AAI--</AM>
 </tag>
 </m>
@@ -2414,7 +2414,7 @@
 </w.rf>
 <form>utvářely</form>
 <tag>
-<AM lemma="utvářet_:T_^(tvořit)" recommended="1">VpTP---XR-AA---</AM>
+<AM lemma="utvářet_^(tvořit)" recommended="1">VpTP----R-AAI--</AM>
 <AM lemma="utvářet_^(tvořit)" src="manual" selected="1">VpTP----R-AAI--</AM>
 </tag>
 </m>
@@ -2512,7 +2512,7 @@
 </w.rf>
 <form>byly</form>
 <tag>
-<AM lemma="být" recommended="1">VpTP---XR-AA---</AM>
+<AM lemma="být" recommended="1">VpTP----R-AAI--</AM>
 <AM lemma="být" src="manual" selected="1">VpTP----R-AAI--</AM>
 </tag>
 </m>
@@ -2522,7 +2522,7 @@
 </w.rf>
 <form>oslabovány</form>
 <tag>
-<AM lemma="oslabovat_:T" recommended="1">VsTP---XX-AP---</AM>
+<AM lemma="oslabovat" recommended="1">VsTP----X-API--</AM>
 <AM lemma="oslabovat" src="manual" selected="1">VsTP----X-API--</AM>
 </tag>
 </m>
@@ -2730,7 +2730,7 @@
 </w.rf>
 <form>vyprodáno</form>
 <tag>
-<AM lemma="vyprodat_:W" recommended="1">VsNS---XX-AP---</AM>
+<AM lemma="vyprodat" recommended="1">VsNS----X-APP--</AM>
 <AM lemma="vyprodat" src="manual" selected="1">VsNS----X-APP--</AM>
 </tag>
 </m>
@@ -3033,7 +3033,7 @@
 </w.rf>
 <form>prováděl</form>
 <tag>
-<AM lemma="provádět_:T" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="provádět" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="provádět" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
@@ -3518,7 +3518,7 @@
 </w.rf>
 <form>naplnil</form>
 <tag>
-<AM lemma="naplnit_:W" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="naplnit" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="naplnit" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
@@ -3711,7 +3711,7 @@
 </w.rf>
 <form>přivázal</form>
 <tag>
-<AM lemma="přivázat" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="přivázat" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="přivázat" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
@@ -6191,7 +6191,7 @@
 </w.rf>
 <form>zobrazen</form>
 <tag>
-<AM lemma="zobrazit" recommended="1">VsYS---XX-AP---</AM>
+<AM lemma="zobrazit" recommended="1">VsYS----X-APP--</AM>
 <AM lemma="zobrazit" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
@@ -6346,7 +6346,7 @@
 </w.rf>
 <form>byl</form>
 <tag>
-<AM lemma="být" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="být" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="být" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
@@ -6356,7 +6356,7 @@
 </w.rf>
 <form>zaslán</form>
 <tag>
-<AM lemma="zaslat" recommended="1">VsYS---XX-AP---</AM>
+<AM lemma="zaslat" recommended="1">VsYS----X-APP--</AM>
 <AM lemma="zaslat" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>

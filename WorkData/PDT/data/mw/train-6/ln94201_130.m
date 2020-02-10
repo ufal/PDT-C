@@ -698,7 +698,7 @@
 <LM>w#w-ln94201-130-p2s4w12</LM>
 </w.rf>
 <form>situovány</form>
-<tag lemma="situovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="situovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln94201-130-p2s4w13">
 <src.rf>manual</src.rf>
@@ -1189,7 +1189,7 @@
 <LM>w#w-ln94201-130-p2s7w8</LM>
 </w.rf>
 <form>sdělili</form>
-<tag lemma="sdělit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="sdělit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94201-130-p2s7w9">
 <src.rf>manual</src.rf>
@@ -1314,7 +1314,7 @@
 <LM>w#w-ln94201-130-p2s8w1</LM>
 </w.rf>
 <form>Dodali</form>
-<tag lemma="dodat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="dodat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94201-130-p2s8w2">
 <src.rf>manual</src.rf>
@@ -1418,7 +1418,7 @@
 <LM>w#w-ln94201-130-p2s8w14</LM>
 </w.rf>
 <form>absolvovali</form>
-<tag lemma="absolvovat_:T_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="absolvovat" src="orig" selected="1">VpMP----R-AAB--</tag>
 </m>
 <m id="m-ln94201-130-p2s8w15">
 <src.rf>manual</src.rf>

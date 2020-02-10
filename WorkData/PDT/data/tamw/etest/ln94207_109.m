@@ -231,7 +231,7 @@
 <LM>w#w-ln94207-109-p2s2w6</LM>
 </w.rf>
 <form>věnována</form>
-<tag lemma="věnovat_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="věnovat" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-ln94207-109-p2s2w7">
 <src.rf>manual</src.rf>
@@ -425,7 +425,7 @@
 <LM>w#w-ln94207-109-p2s3w9</LM>
 </w.rf>
 <form>zahájeny</form>
-<tag lemma="zahájit" src="auto" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="zahájit" src="auto" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln94207-109-p2s3w10">
 <src.rf>manual</src.rf>

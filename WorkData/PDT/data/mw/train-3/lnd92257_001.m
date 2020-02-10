@@ -180,7 +180,7 @@
 <LM>w#w-lnd92257-001-p2s1w15</LM>
 </w.rf>
 <form>nezářilo</form>
-<tag lemma="zářit_:T" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="zářit" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-lnd92257-001-p2s1w16">
 <src.rf>manual</src.rf>
@@ -368,7 +368,7 @@
 <LM>w#w-lnd92257-001-p2s2w22</LM>
 </w.rf>
 <form>prozradil</form>
-<tag lemma="prozradit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prozradit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-001-p2s2w23">
 <src.rf>manual</src.rf>
@@ -489,8 +489,8 @@
 </w.rf>
 <form>odpověděl</form>
 <tag>
-<AM lemma="odpovědět" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="odpovědět_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="odpovědět" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="odpovědět" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92257-001-p2s3w9">

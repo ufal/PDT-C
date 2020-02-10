@@ -443,7 +443,7 @@
 <LM>w#w-vesm9301-043-p3s3w6</LM>
 </w.rf>
 <form>potkal</form>
-<tag lemma="potkat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="potkat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-vesm9301-043-p3s3w7">
 <src.rf>manual</src.rf>
@@ -2446,7 +2446,7 @@
 <LM>w#w-vesm9301-043-p6s2w12</LM>
 </w.rf>
 <form>zdál</form>
-<tag lemma="zdát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zdát" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-vesm9301-043-p6s2w13">
 <src.rf>manual</src.rf>
@@ -4595,7 +4595,7 @@
 <LM>w#w-vesm9301-043-p10s2w25</LM>
 </w.rf>
 <form>upadala</form>
-<tag lemma="upadat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="upadat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-vesm9301-043-p10s2w26">
 <src.rf>manual</src.rf>

@@ -245,8 +245,8 @@
 </w.rf>
 <form>dosáhla</form>
 <tag>
-<AM lemma="dosáhnout" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="dosáhnout_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="dosáhnout" src="orig">VpQW----R-AAP--</AM>
+<AM lemma="dosáhnout" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95047-038-p2s2w3">
@@ -704,7 +704,7 @@
 <LM>w#w-ln95047-038-p2s5w16</LM>
 </w.rf>
 <form>podílel</form>
-<tag lemma="podílet_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="podílet" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95047-038-p2s5w17">
 <src.rf>manual</src.rf>
@@ -1297,7 +1297,7 @@
 <LM>w#w-ln95047-038-p4s1w3</LM>
 </w.rf>
 <form>nebyly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-NAI--</tag>
 </m>
 <m id="m-ln95047-038-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1476,8 +1476,8 @@
 </w.rf>
 <form>měl</form>
 <tag>
-<AM lemma="mít" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="mít_:T" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="mít" src="orig">VpYS----R-AAI--</AM>
+<AM lemma="mít" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln95047-038-p4s3w5">
@@ -2241,7 +2241,7 @@
 <LM>w#w-ln95047-038-p5s3w11</LM>
 </w.rf>
 <form>vychovaly</form>
-<tag lemma="vychovat_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vychovat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95047-038-p5s3w12">
 <src.rf>manual</src.rf>

@@ -234,7 +234,7 @@
 <LM>w#w-lnd91303-110-p4s1w15</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-110-p4s1w16">
 <src.rf>manual</src.rf>
@@ -258,7 +258,7 @@
 <LM>w#w-lnd91303-110-p4s1w18</LM>
 </w.rf>
 <form>složen</form>
-<tag lemma="složit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="složit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd91303-110-p4s1w19">
 <src.rf>manual</src.rf>
@@ -308,7 +308,7 @@
 <LM>w#w-lnd91303-110-p4s2w1</LM>
 </w.rf>
 <form>Napsal</form>
-<tag lemma="napsat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="napsat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-110-p4s2w2">
 <src.rf>manual</src.rf>
@@ -471,7 +471,7 @@
 <LM>w#w-lnd91303-110-p4s3w12</LM>
 </w.rf>
 <form>dopraveny</form>
-<tag lemma="dopravit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="dopravit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd91303-110-p4s3w13">
 <src.rf>manual</src.rf>
@@ -1038,7 +1038,7 @@
 <LM>w#w-lnd91303-110-p4s6w20</LM>
 </w.rf>
 <form>pominuly</form>
-<tag lemma="pominout" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="pominout" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-110-p4s6w21">
 <src.rf>manual</src.rf>

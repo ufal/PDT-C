@@ -78,8 +78,8 @@
 </w.rf>
 <form>zemřela</form>
 <tag>
-<AM lemma="zemřít" src="auto" recommended="1">VpQW---XR-AA---</AM>
-<AM lemma="zemřít_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="zemřít" src="auto" recommended="1">VpQW----R-AAP--</AM>
+<AM lemma="zemřít" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m144-d-m-d1e1587-x5-punct-punct">
@@ -199,7 +199,7 @@
 <LM>w#w-d1t1641-7</LM>
 </w.rf>
 <form>povídalo</form>
-<tag lemma="povídat_:T" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="povídat" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m144-d-m-d1e1636-x2-punct-punct">
 <w.rf>

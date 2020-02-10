@@ -83,7 +83,7 @@
 <LM>w#w-mf920925-102-p1s1w9</LM>
 </w.rf>
 <form>vystoupili</form>
-<tag lemma="vystoupit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vystoupit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920925-102-p1s1w10">
 <src.rf>manual</src.rf>

@@ -136,7 +136,7 @@
 <LM>w#w-mf920901-014-p2s1w12</LM>
 </w.rf>
 <form>explodoval</form>
-<tag lemma="explodovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="explodovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-mf920901-014-p2s1w13">
 <src.rf>manual</src.rf>
@@ -160,7 +160,7 @@
 <LM>w#w-mf920901-014-p2s1w15</LM>
 </w.rf>
 <form>odpověděl</form>
-<tag lemma="odpovědět" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odpovědět" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920901-014-p2s1w16">
 <src.rf>manual</src.rf>
@@ -256,7 +256,7 @@
 <LM>w#w-mf920901-014-p2s1w27</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf920901-014-p2s1w28">
 <src.rf>manual</src.rf>
@@ -421,7 +421,7 @@
 <LM>w#w-mf920901-014-p2s2w8</LM>
 </w.rf>
 <form>zesílilo</form>
-<tag lemma="zesílit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zesílit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920901-014-p2s2w9">
 <src.rf>manual</src.rf>
@@ -533,7 +533,7 @@
 <LM>w#w-mf920901-014-p2s2w22</LM>
 </w.rf>
 <form>zmizela</form>
-<tag lemma="zmizet" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zmizet" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920901-014-p2s2w23">
 <src.rf>manual</src.rf>
@@ -557,7 +557,7 @@
 <LM>w#w-mf920901-014-p2s2w25</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920901-014-p2s2w26">
 <src.rf>manual</src.rf>

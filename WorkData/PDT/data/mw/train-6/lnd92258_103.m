@@ -171,8 +171,8 @@
 </w.rf>
 <form>nedali</form>
 <tag>
-<AM lemma="dát" src="orig">VpMP---XR-NA---</AM>
-<AM lemma="dát_:W" src="manual" selected="1">VpMP---XR-NA---</AM>
+<AM lemma="dát" src="orig">VpMP----R-NAP--</AM>
+<AM lemma="dát" src="manual" selected="1">VpMP----R-NAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92258-103-p3s1w12">
@@ -272,8 +272,8 @@
 </w.rf>
 <form>obdržela</form>
 <tag>
-<AM lemma="obdržet" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="obdržet_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="obdržet" src="orig">VpQW----R-AAP--</AM>
+<AM lemma="obdržet" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92258-103-p3s2w5">

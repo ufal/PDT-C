@@ -59,7 +59,7 @@
 <LM>w#w-ln94208-54-p1s1w6</LM>
 </w.rf>
 <form>zahleděna</form>
-<tag lemma="zahledět" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zahledět" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94208-54-p1s1w7">
 <src.rf>manual</src.rf>
@@ -197,7 +197,7 @@
 <LM>w#w-ln94208-54-p2s1Cw9</LM>
 </w.rf>
 <form>zahleděna</form>
-<tag lemma="zahledět" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zahledět" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94208-54-p2s1Cw10">
 <src.rf>manual</src.rf>
@@ -449,8 +449,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94208-54-p2s2w8">
@@ -619,8 +619,8 @@
 </w.rf>
 <form>uvedl</form>
 <tag>
-<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="uvést" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="uvést" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94208-54-p2s4w4">

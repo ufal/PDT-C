@@ -237,7 +237,7 @@
 <LM>w#w-ln94207-15-p2s3w3</LM>
 </w.rf>
 <form>operován</form>
-<tag lemma="operovat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="operovat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-ln94207-15-p2s3w4">
 <src.rf>manual</src.rf>
@@ -436,7 +436,7 @@
 <LM>w#w-ln94207-15-p2s5w3</LM>
 </w.rf>
 <form>odkázán</form>
-<tag lemma="odkázat" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="odkázat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94207-15-p2s5w4">
 <src.rf>manual</src.rf>
@@ -984,7 +984,7 @@
 <LM>w#w-ln94207-15-p2s9w7</LM>
 </w.rf>
 <form>zvykla</form>
-<tag lemma="zvyknout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="zvyknout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln94207-15-p2s9w8">
 <src.rf>manual</src.rf>
@@ -1302,7 +1302,7 @@
 <LM>w#w-ln94207-15-p2s14w4</LM>
 </w.rf>
 <form>hledalo</form>
-<tag lemma="hledat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="hledat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94207-15-p2s14w5">
 <src.rf>manual</src.rf>
@@ -1573,7 +1573,7 @@
 <LM>w#w-ln94207-15-p2s16w10</LM>
 </w.rf>
 <form>vedly</form>
-<tag lemma="vést" src="auto" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vést" src="auto" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94207-15-p2s16w11">
 <src.rf>manual</src.rf>
@@ -1729,7 +1729,7 @@
 <LM>w#w-ln94207-15-p2s18w8</LM>
 </w.rf>
 <form>navštívil</form>
-<tag lemma="navštívit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="navštívit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94207-15-p2s18w9">
 <src.rf>manual</src.rf>

@@ -466,7 +466,7 @@
 <LM>w#w-lnd92257-068-p3s1w15</LM>
 </w.rf>
 <form>zahájena</form>
-<tag lemma="zahájit" src="auto" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zahájit" src="auto" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd92257-068-p3s1w16">
 <src.rf>manual</src.rf>

@@ -2133,7 +2133,7 @@
 <LM>w#w-mf930708-080-p4s2w22</LM>
 </w.rf>
 <form>nadřazeny</form>
-<tag lemma="nadřadit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="nadřadit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-mf930708-080-p4s2w23">
 <src.rf>manual</src.rf>

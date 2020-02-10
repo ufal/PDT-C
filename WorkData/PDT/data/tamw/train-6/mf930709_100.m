@@ -79,7 +79,7 @@
 <form>vit</form>
 <tag>
 <AM lemma="vit-99_:B_;S" src="orig" selected="1">NNXXX-----A---8</AM>
-<AM lemma="vít" src="auto" recommended="1">VsYS---XX-AP---</AM>
+<AM lemma="vít" src="auto" recommended="1">VsYS----X-API--</AM>
 </tag>
 </m>
 <m id="m-mf930709-100-p2s1Aw4">
@@ -345,7 +345,7 @@
 <LM>w#w-mf930709-100-p2s2w3</LM>
 </w.rf>
 <form>zařídil</form>
-<tag lemma="zařídit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zařídit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-100-p2s2w4">
 <src.rf>manual</src.rf>
@@ -428,7 +428,7 @@
 <LM>w#w-mf930709-100-p2s2w13</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-100-p2s2w14">
 <src.rf>manual</src.rf>
@@ -616,7 +616,7 @@
 <LM>w#w-mf930709-100-p2s4w5</LM>
 </w.rf>
 <form>dostali</form>
-<tag lemma="dostat" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="dostat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930709-100-p2s4w6">
 <src.rf>manual</src.rf>

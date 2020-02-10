@@ -140,7 +140,7 @@
 <LM>w#w-ln95042-021-p1s1w16</LM>
 </w.rf>
 <form>narodila</form>
-<tag lemma="narodit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="narodit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95042-021-p1s1w17">
 <src.rf>manual</src.rf>
@@ -568,7 +568,7 @@
 <LM>w#w-ln95042-021-p1s3w18</LM>
 </w.rf>
 <form>zavedl</form>
-<tag lemma="zavést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zavést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95042-021-p1s3w19">
 <src.rf>manual</src.rf>
@@ -722,7 +722,7 @@
 <LM>w#w-ln95042-021-p1s4w4</LM>
 </w.rf>
 <form>pracovala</form>
-<tag lemma="pracovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="pracovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95042-021-p1s4w5">
 <src.rf>manual</src.rf>
@@ -815,7 +815,7 @@
 <LM>w#w-ln95042-021-p1s5w5</LM>
 </w.rf>
 <form>zintenzívnila</form>
-<tag lemma="zintenzívnit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zintenzívnit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95042-021-p1s5w6">
 <src.rf>manual</src.rf>
@@ -1335,7 +1335,7 @@
 <LM>w#w-ln95042-021-p1s5w70</LM>
 </w.rf>
 <form>objevila</form>
-<tag lemma="objevit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="objevit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95042-021-p1s5w71">
 <src.rf>manual</src.rf>
@@ -1383,7 +1383,7 @@
 <LM>w#w-ln95042-021-p1s5w76</LM>
 </w.rf>
 <form>vymámila</form>
-<tag lemma="vymámit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vymámit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95042-021-p1s5w77">
 <src.rf>manual</src.rf>

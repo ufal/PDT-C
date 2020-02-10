@@ -69,7 +69,7 @@
 <LM>w#w-wsj1370-001-p1s0W6</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1370-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -153,7 +153,7 @@
 <LM>w#w-wsj1370-001-p1s0W13</LM>
 </w.rf>
 <form>prodala</form>
-<tag lemma="prodat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="prodat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1370-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -165,7 +165,7 @@
 <AM lemma="jeden`1" src="auto" recommended="1">ClIS4----------</AM>
 <AM lemma="jeden`1" src="auto">ClYS1----------</AM>
 <AM lemma="jeden`1" src="auto">ClYS5----------</AM>
-<AM lemma="jíst" src="auto">VsYS---XX-API--</AM>
+<AM lemma="jíst" src="auto">VsYS----X-API--</AM>
 </tag>
 </m>
 <m id="m-wsj1370-001-p1s0W15-Ta">
@@ -722,7 +722,7 @@
 <LM>w#w-wsj1370-001-p1s2W12</LM>
 </w.rf>
 <form>instalován</form>
-<tag lemma="instalovat" src="auto" recommended="1">VsYS---XX-APB--</tag>
+<tag lemma="instalovat" src="auto" recommended="1">VsYS----X-APB--</tag>
 </m>
 <m id="m-wsj1370-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>

@@ -123,7 +123,7 @@
 <LM>w#w-mf920925-067-p1s1w14</LM>
 </w.rf>
 <form>pózovali</form>
-<tag lemma="pózovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="pózovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf920925-067-p1s1w15">
 <src.rf>manual</src.rf>

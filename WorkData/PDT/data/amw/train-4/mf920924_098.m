@@ -311,7 +311,7 @@
 <LM>w#w-mf920924-098-p3s1w16</LM>
 </w.rf>
 <form>odletěli</form>
-<tag lemma="odletět" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="odletět" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920924-098-p3s1w17">
 <src.rf>manual</src.rf>
@@ -481,7 +481,7 @@
 <LM>w#w-mf920924-098-p4s1w18</LM>
 </w.rf>
 <form>vrátil</form>
-<tag lemma="vrátit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vrátit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920924-098-p4s1w19">
 <src.rf>manual</src.rf>
@@ -960,7 +960,7 @@
 <LM>w#w-mf920924-098-p5s1w21</LM>
 </w.rf>
 <form>zlomil</form>
-<tag lemma="zlomit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zlomit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920924-098-p5s1w22">
 <src.rf>manual</src.rf>
@@ -1074,7 +1074,7 @@
 <LM>w#w-mf920924-098-p5s2w7</LM>
 </w.rf>
 <form>zranil</form>
-<tag lemma="zranit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zranit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920924-098-p5s2w8">
 <src.rf>manual</src.rf>
@@ -1138,7 +1138,7 @@
 <LM>w#w-mf920924-098-p5s2w15</LM>
 </w.rf>
 <form>zakopl</form>
-<tag lemma="zakopnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="zakopnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf920924-098-p5s2w16">
 <src.rf>manual</src.rf>
@@ -1777,7 +1777,7 @@
 <LM>w#w-mf920924-098-p7s1w13</LM>
 </w.rf>
 <form>změnil</form>
-<tag lemma="změnit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="změnit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920924-098-p7s1w14">
 <src.rf>manual</src.rf>
@@ -2039,7 +2039,7 @@
 <LM>w#w-mf920924-098-p10s1w12</LM>
 </w.rf>
 <form>zúčastnilo</form>
-<tag lemma="zúčastnit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zúčastnit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920924-098-p10s1w13">
 <src.rf>manual</src.rf>
@@ -2121,7 +2121,7 @@
 <LM>w#w-mf920924-098-p10s2w6</LM>
 </w.rf>
 <form>odběhlo</form>
-<tag lemma="odběhnout_:W" src="orig" selected="1">VpNS---XR-AA--1</tag>
+<tag lemma="odběhnout" src="orig" selected="1">VpNS----R-AAP-1</tag>
 </m>
 <m id="m-mf920924-098-p10s2w7">
 <src.rf>manual</src.rf>

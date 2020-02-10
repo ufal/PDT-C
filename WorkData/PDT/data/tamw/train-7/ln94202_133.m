@@ -607,7 +607,7 @@
 <LM>w#w-ln94202-133-p3s1w11</LM>
 </w.rf>
 <form>nebyl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-ln94202-133-p3s1w12">
 <src.rf>manual</src.rf>
@@ -743,7 +743,7 @@
 <LM>w#w-ln94202-133-p3s1w28</LM>
 </w.rf>
 <form>narušen</form>
-<tag lemma="narušit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="narušit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94202-133-p3s1w29">
 <src.rf>manual</src.rf>
@@ -923,7 +923,7 @@
 <LM>w#w-ln94202-133-p3s3w10</LM>
 </w.rf>
 <form>uloženy</form>
-<tag lemma="uložit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="uložit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln94202-133-p3s3w11">
 <src.rf>manual</src.rf>
@@ -1088,7 +1088,7 @@
 <LM>w#w-ln94202-133-p3s4w12</LM>
 </w.rf>
 <form>měli</form>
-<tag lemma="mít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94202-133-p3s4w13">
 <src.rf>manual</src.rf>
@@ -1162,7 +1162,7 @@
 <LM>w#w-ln94202-133-p3s5w4</LM>
 </w.rf>
 <form>odděleny</form>
-<tag lemma="oddělit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="oddělit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln94202-133-p3s5w5">
 <src.rf>manual</src.rf>
@@ -1505,7 +1505,7 @@
 <LM>w#w-ln94202-133-p4s1w17</LM>
 </w.rf>
 <form>připojeny</form>
-<tag lemma="připojit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="připojit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln94202-133-p4s1w18">
 <src.rf>manual</src.rf>
@@ -1907,7 +1907,7 @@
 <LM>w#w-ln94202-133-p4s3w6</LM>
 </w.rf>
 <form>blokováno</form>
-<tag lemma="blokovat_:T" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="blokovat" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-ln94202-133-p4s3w7">
 <src.rf>manual</src.rf>
@@ -2016,7 +2016,7 @@
 <LM>w#w-ln94202-133-p4s4w9</LM>
 </w.rf>
 <form>ovládl</form>
-<tag lemma="ovládnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="ovládnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln94202-133-p4s4w10">
 <src.rf>manual</src.rf>
@@ -2080,7 +2080,7 @@
 <LM>w#w-ln94202-133-p4s4w17</LM>
 </w.rf>
 <form>sestykovala</form>
-<tag lemma="sestykovat_:W" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="sestykovat" src="auto" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94202-133-p4s4w18">
 <src.rf>manual</src.rf>

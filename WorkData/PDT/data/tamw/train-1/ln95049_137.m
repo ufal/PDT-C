@@ -159,7 +159,7 @@
 <LM>w#w-ln95049-137-p2s2w4</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95049-137-p2s2w5">
 <src.rf>manual</src.rf>
@@ -191,7 +191,7 @@
 <LM>w#w-ln95049-137-p2s2w8</LM>
 </w.rf>
 <form>přihlášeno</form>
-<tag lemma="přihlásit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="přihlásit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95049-137-p2s2w9">
 <src.rf>manual</src.rf>

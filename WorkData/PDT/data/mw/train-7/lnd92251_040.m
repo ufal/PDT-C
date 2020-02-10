@@ -79,7 +79,7 @@
 <LM>w#w-lnd92251-040-p2s2w4</LM>
 </w.rf>
 <form>zopakovala</form>
-<tag lemma="zopakovat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zopakovat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-040-p2s2w5">
 <src.rf>manual</src.rf>
@@ -199,7 +199,7 @@
 <LM>w#w-lnd92251-040-p2s2w20</LM>
 </w.rf>
 <form>podporovaly</form>
-<tag lemma="podporovat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="podporovat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd92251-040-p2s2w21">
 <src.rf>manual</src.rf>
@@ -231,7 +231,7 @@
 <LM>w#w-lnd92251-040-p2s2w24</LM>
 </w.rf>
 <form>přiznaly</form>
-<tag lemma="přiznat_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="přiznat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-040-p2s2w25">
 <src.rf>manual</src.rf>
@@ -271,7 +271,7 @@
 <LM>w#w-lnd92251-040-p2s2w29</LM>
 </w.rf>
 <form>mýlily</form>
-<tag lemma="mýlit_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="mýlit" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd92251-040-p2s2w30">
 <src.rf>manual</src.rf>
@@ -332,7 +332,7 @@
 <LM>w#w-lnd92251-040-p2s3w6</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-040-p2s3w7">
 <src.rf>manual</src.rf>
@@ -380,7 +380,7 @@
 <LM>w#w-lnd92251-040-p2s3w12</LM>
 </w.rf>
 <form>přispěl</form>
-<tag lemma="přispět" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přispět" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-040-p2s3w13">
 <src.rf>manual</src.rf>
@@ -468,7 +468,7 @@
 <LM>w#w-lnd92251-040-p2s3w23</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd92251-040-p2s3w24">
 <src.rf>manual</src.rf>
@@ -476,7 +476,7 @@
 <LM>w#w-lnd92251-040-p2s3w24</LM>
 </w.rf>
 <form>narušeny</form>
-<tag lemma="narušit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="narušit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd92251-040-p2s3w25">
 <src.rf>manual</src.rf>

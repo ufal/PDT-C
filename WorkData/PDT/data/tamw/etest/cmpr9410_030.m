@@ -341,7 +341,7 @@
 <LM>w#w-cmpr9410-030-p3s3w4</LM>
 </w.rf>
 <form>dosáhla</form>
-<tag lemma="dosáhnout" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="dosáhnout" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-cmpr9410-030-p3s3w5">
 <src.rf>manual</src.rf>

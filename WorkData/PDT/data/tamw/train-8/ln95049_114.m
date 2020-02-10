@@ -73,7 +73,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>pronásledovali</form>
-<tag lemma="pronásledovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="pronásledovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95049-114-p2s1w5">
 <src.rf>manual</src.rf>
@@ -105,7 +105,7 @@
 <LM>w#w-ln95049-114-p2s1w8</LM>
 </w.rf>
 <form>činili</form>
-<tag lemma="činit_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="činit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95049-114-p2s1w9">
 <src.rf>manual</src.rf>
@@ -212,7 +212,7 @@
 <LM>w#w-ln95049-114-p2s1w21</LM>
 </w.rf>
 <form>vítali</form>
-<tag lemma="vítat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vítat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95049-114-p2s1w22">
 <src.rf>manual</src.rf>
@@ -252,7 +252,7 @@
 <LM>w#w-ln95049-114-p2s1w26</LM>
 </w.rf>
 <form>určovali</form>
-<tag lemma="určovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="určovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95049-114-p2s1w27">
 <src.rf>manual</src.rf>
@@ -342,7 +342,7 @@
 <LM>w#w-ln95049-114-p2s2w2</LM>
 </w.rf>
 <form>dávali</form>
-<tag lemma="dávat_:T_^(*3t)" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="dávat_^(*3t)" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95049-114-p2s2w3">
 <src.rf>manual</src.rf>
@@ -536,7 +536,7 @@
 <LM>w#w-ln95049-114-p2s3w21</LM>
 </w.rf>
 <form>vymýšlel</form>
-<tag lemma="vymýšlet_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vymýšlet" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95049-114-p2s3w22">
 <src.rf>manual</src.rf>
@@ -1391,7 +1391,7 @@
 <LM>w#w-ln95049-114-p3s1w7</LM>
 </w.rf>
 <form>radil</form>
-<tag lemma="radit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="radit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95049-114-p3s1w8">
 <src.rf>manual</src.rf>
@@ -1744,7 +1744,7 @@
 <LM>w#w-ln95049-114-p3s4w18</LM>
 </w.rf>
 <form>odstranili</form>
-<tag lemma="odstranit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="odstranit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95049-114-p3s4w19">
 <src.rf>manual</src.rf>
@@ -1810,7 +1810,7 @@
 <LM>w#w-ln95049-114-p4s1w7</LM>
 </w.rf>
 <form>předvedl</form>
-<tag lemma="předvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="předvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-114-p4s1w8">
 <src.rf>manual</src.rf>
@@ -1919,7 +1919,7 @@
 <LM>w#w-ln95049-114-p4s2w4</LM>
 </w.rf>
 <form>vychrlil</form>
-<tag lemma="vychrlit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vychrlit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-114-p4s2w5">
 <src.rf>manual</src.rf>
@@ -2025,7 +2025,7 @@
 <form>vydalo</form>
 <tag>
 <AM lemma="vydat-4_:W_^(platit,_př._vydat_peníze,_v._se_ze_všeho)" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="vydat_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="vydat" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95049-114-p4s2w18">
@@ -2172,7 +2172,7 @@
 <LM>w#w-ln95049-114-p4s3w11</LM>
 </w.rf>
 <form>přidal</form>
-<tag lemma="přidat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přidat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-114-p4s3w12">
 <src.rf>manual</src.rf>
@@ -3521,7 +3521,7 @@
 <LM>w#w-ln95049-114-p5s1w23</LM>
 </w.rf>
 <form>šel</form>
-<tag lemma="jít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="jít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95049-114-p5s1w24">
 <src.rf>manual</src.rf>
@@ -3553,7 +3553,7 @@
 <LM>w#w-ln95049-114-p5s1w27</LM>
 </w.rf>
 <form>zaujal</form>
-<tag lemma="zaujmout_^(upoutat_pozornost)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zaujmout_^(upoutat_pozornost)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-114-p5s1w28">
 <src.rf>manual</src.rf>

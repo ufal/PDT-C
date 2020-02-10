@@ -217,7 +217,7 @@
 <LM>w#w-lnd92259-047-p3s2w16</LM>
 </w.rf>
 <form>nepožadovali</form>
-<tag lemma="požadovat_:T" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="požadovat" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-lnd92259-047-p3s2w17">
 <src.rf>manual</src.rf>
@@ -270,7 +270,7 @@
 <LM>w#w-lnd92259-047-p3s3w1</LM>
 </w.rf>
 <form>Uvedla</form>
-<tag lemma="uvést" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-047-p3s3w2">
 <src.rf>manual</src.rf>
@@ -385,7 +385,7 @@
 <LM>w#w-lnd92259-047-p3s3w15</LM>
 </w.rf>
 <form>zúčastnil</form>
-<tag lemma="zúčastnit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zúčastnit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-047-p3s3w16">
 <src.rf>manual</src.rf>

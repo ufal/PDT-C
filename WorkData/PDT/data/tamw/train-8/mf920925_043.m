@@ -441,7 +441,7 @@
 <LM>w#w-mf920925-043-p2s3w11</LM>
 </w.rf>
 <form>poznamenal</form>
-<tag lemma="poznamenat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="poznamenat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920925-043-p2s3w12">
 <src.rf>manual</src.rf>
@@ -659,7 +659,7 @@
 <LM>w#w-mf920925-043-p2s4w8</LM>
 </w.rf>
 <form>vyrovnaly</form>
-<tag lemma="vyrovnat_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vyrovnat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf920925-043-p2s4w9">
 <src.rf>manual</src.rf>
@@ -675,7 +675,7 @@
 <LM>w#w-mf920925-043-p2s4w10</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920925-043-p2s4w11">
 <src.rf>manual</src.rf>

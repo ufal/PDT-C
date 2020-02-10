@@ -344,7 +344,7 @@
 <LM>w#w-mf930713-037-p2s2w4</LM>
 </w.rf>
 <form>minula</form>
-<tag lemma="minout" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="minout" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930713-037-p2s2w5">
 <src.rf>manual</src.rf>
@@ -378,7 +378,7 @@
 <LM>w#w-mf930713-037-p2s3w3</LM>
 </w.rf>
 <form>upozornili</form>
-<tag lemma="upozornit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="upozornit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930713-037-p2s3w4">
 <src.rf>manual</src.rf>
@@ -426,7 +426,7 @@
 <LM>w#w-mf930713-037-p2s3w9</LM>
 </w.rf>
 <form>zaslechli</form>
-<tag lemma="zaslechnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="zaslechnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-mf930713-037-p2s3w10">
 <src.rf>manual</src.rf>
@@ -460,7 +460,7 @@
 <LM>w#w-mf930713-037-p2s4w3</LM>
 </w.rf>
 <form>konstatovala</form>
-<tag lemma="konstatovat_:T_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="konstatovat" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-mf930713-037-p2s4w4">
 <src.rf>manual</src.rf>
@@ -500,7 +500,7 @@
 <LM>w#w-mf930713-037-p2s4w8</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930713-037-p2s4w9">
 <src.rf>manual</src.rf>

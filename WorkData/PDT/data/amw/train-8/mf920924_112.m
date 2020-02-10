@@ -106,7 +106,7 @@
 <LM>w#w-mf920924-112-p3s1w2</LM>
 </w.rf>
 <form>Byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920924-112-p3s1w3">
 <src.rf>manual</src.rf>
@@ -606,8 +606,8 @@
 </w.rf>
 <form>prohrály</form>
 <tag>
-<AM lemma="prohrát" src="orig">VpTP---XR-AA---</AM>
-<AM lemma="prohrát_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+<AM lemma="prohrát" src="orig">VpTP----R-AAP--</AM>
+<AM lemma="prohrát" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920924-112-p3s5w12">
@@ -694,7 +694,7 @@
 <LM>w#w-mf920924-112-p3s6w4</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920924-112-p3s6w5">
 <src.rf>manual</src.rf>
@@ -814,7 +814,7 @@
 <LM>w#w-mf920924-112-p3s6w19</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf920924-112-p3s6w20">
 <src.rf>manual</src.rf>
@@ -912,7 +912,7 @@
 <LM>w#w-mf920924-112-p3s7w4</LM>
 </w.rf>
 <form>nelíbilo</form>
-<tag lemma="líbit_:T" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="líbit" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-mf920924-112-p3s7w5">
 <src.rf>manual</src.rf>
@@ -968,7 +968,7 @@
 <LM>w#w-mf920924-112-p3s7w11</LM>
 </w.rf>
 <form>vypustili</form>
-<tag lemma="vypustit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vypustit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920924-112-p3s7w12">
 <src.rf>manual</src.rf>
@@ -1001,8 +1001,8 @@
 </w.rf>
 <form>nechali</form>
 <tag>
-<AM lemma="nechat_:T" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="nechat_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+<AM lemma="nechat" src="orig">VpMP----R-AAI--</AM>
+<AM lemma="nechat" src="manual" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-mf920924-112-p3s7w16">

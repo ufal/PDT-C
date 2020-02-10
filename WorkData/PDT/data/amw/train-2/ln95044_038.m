@@ -111,7 +111,7 @@
 <LM>w#w-ln95044-038-p2s1Bw8</LM>
 </w.rf>
 <form>kontumovala</form>
-<tag lemma="kontumovat_:T_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="kontumovat" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-ln95044-038-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -417,7 +417,7 @@
 <LM>w#w-ln95044-038-p2s2w10</LM>
 </w.rf>
 <form>nedostavili</form>
-<tag lemma="dostavit_:W_^(se,na_dané_místo)" src="auto" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="dostavit_^(se,na_dané_místo)" src="auto" selected="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m-ln95044-038-p2s2w11">
 <src.rf>manual</src.rf>

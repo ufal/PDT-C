@@ -163,7 +163,7 @@
 <LM>w#w-lnd94104-027-p1s1w19</LM>
 </w.rf>
 <form>poškodila</form>
-<tag lemma="poškodit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="poškodit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-027-p1s1w20">
 <src.rf>manual</src.rf>
@@ -357,7 +357,7 @@
 <LM>w#w-lnd94104-027-p1s2w4</LM>
 </w.rf>
 <form>vyhověno</form>
-<tag lemma="vyhovět_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="vyhovět" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd94104-027-p1s2w5">
 <src.rf>manual</src.rf>

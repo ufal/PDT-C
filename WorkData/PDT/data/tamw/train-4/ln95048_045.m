@@ -165,7 +165,7 @@
 <LM>w#w-ln95048-045-p2s2w19</LM>
 </w.rf>
 <form>mělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95048-045-p2s2w20">
 <src.rf>manual</src.rf>
@@ -510,7 +510,7 @@
 <LM>w#w-ln95048-045-p2s4w2</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95048-045-p2s4w3">
 <src.rf>manual</src.rf>
@@ -542,7 +542,7 @@
 <LM>w#w-ln95048-045-p2s4w6</LM>
 </w.rf>
 <form>připraven</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="připravit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95048-045-p2s4w7">
 <src.rf>manual</src.rf>
@@ -791,7 +791,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>znamenalo</form>
-<tag lemma="znamenat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="znamenat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95048-045-p2s5w23">
 <src.rf>manual</src.rf>
@@ -1146,8 +1146,8 @@
 <form_change>spell</form_change>
 <form>odnesl</form>
 <tag>
-<AM lemma="odnést" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="odnést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="odnést" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="odnést" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95048-045-p2s7w28">
@@ -1280,8 +1280,8 @@
 </w.rf>
 <form>dokázal</form>
 <tag>
-<AM lemma="dokázat" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="dokázat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="dokázat" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="dokázat" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95048-045-p2s7w44">
@@ -1459,7 +1459,7 @@
 <LM>w#w-ln95048-045-p2s8w9</LM>
 </w.rf>
 <form>připomínaly</form>
-<tag lemma="připomínat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="připomínat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95048-045-p2s8w10">
 <src.rf>manual</src.rf>
@@ -1590,8 +1590,8 @@
 <form_change>spell</form_change>
 <form>prožil</form>
 <tag>
-<AM lemma="prožít" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="prožít_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="prožít" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="prožít" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95048-045-p2s8w25">

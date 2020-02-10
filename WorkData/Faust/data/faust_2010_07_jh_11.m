@@ -45,7 +45,7 @@
 <LM>w#w-jh_11-SCzechM-p1075-s1-w4</LM>
 </w.rf>
 <form>dokončeno</form>
-<tag lemma="dokončit" recommended="1">VsNS---XX-AP---</tag>
+<tag lemma="dokončit" recommended="1">VsNS----X-APP--</tag>
 </m>
 </s>
 <s id="s-jh_11-SCzechM-p1076-s1-w2">
@@ -491,7 +491,7 @@
 </w.rf>
 <form>tlen</form>
 <tag>
-<AM lemma="tlít" recommended="1">VsYS---XX-AP---</AM>
+<AM lemma="tlít" recommended="1">VsYS----X-API--</AM>
 <AM lemma="tlen-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -728,7 +728,7 @@
 <LM>w#w-jh_11-SCzechM-p1085-s1-w6</LM>
 </w.rf>
 <form>vymrdal</form>
-<tag lemma="vymrdat_:W_,v" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="vymrdat_,v" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="jh_11-SCzechM-p1085-s1-w7">
 <w.rf>
@@ -899,7 +899,7 @@
 <LM>w#w-jh_11-SCzechM-p1091-s1-w4</LM>
 </w.rf>
 <form>viděl</form>
-<tag lemma="vidět" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="vidět" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="jh_11-SCzechM-p1091-s1-w5">
 <w.rf>
@@ -1259,7 +1259,7 @@
 <LM>w#w-jh_11-SCzechM-p1100-s1-w6</LM>
 </w.rf>
 <form>měli</form>
-<tag lemma="mít" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="mít" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="jh_11-SCzechM-p1100-s1-w7">
 <w.rf>
@@ -1370,7 +1370,7 @@
 <LM>w#w-jh_11-SCzechM-p1100-s1-w15</LM>
 </w.rf>
 <form>zpříjemnilo</form>
-<tag lemma="zpříjemnit_:W" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="zpříjemnit" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="jh_11-SCzechM-p1100-s1-w16">
 <w.rf>
@@ -1528,7 +1528,7 @@
 </w.rf>
 <form>zataženo</form>
 <tag>
-<AM lemma="zatáhnout" recommended="1">VsNS---XX-AP---</AM>
+<AM lemma="zatáhnout" recommended="1">VsNS----X-APP--</AM>
 <AM lemma="zataženo-1">NNNS1-----A----</AM>
 <AM lemma="zataženo-1">NNNS4-----A----</AM>
 <AM lemma="zataženo-1">NNNS5-----A----</AM>
@@ -2041,7 +2041,7 @@
 <LM>w#w-jh_11-SCzechM-p1114-s1-w10</LM>
 </w.rf>
 <form>viděl</form>
-<tag lemma="vidět" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="vidět" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="jh_11-SCzechM-p1114-s1-w11">
 <w.rf>
@@ -2632,7 +2632,7 @@
 <LM>w#w-jh_11-SCzechM-p1129-s1-w5</LM>
 </w.rf>
 <form>viděl</form>
-<tag lemma="vidět" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="vidět" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="jh_11-SCzechM-p1129-s1-w6">
 <w.rf>
@@ -3002,7 +3002,7 @@
 <LM>w#w-jh_11-SCzechM-p1139-s1-w10</LM>
 </w.rf>
 <form>zemřel</form>
-<tag lemma="zemřít" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="zemřít" recommended="1">VpYS----R-AAP--</tag>
 </m>
 </s>
 <s id="s-jh_11-SCzechM-p1140-s1-w3">
@@ -3197,7 +3197,7 @@
 <LM>w#w-jh_11-SCzechM-p1145-s1-w5</LM>
 </w.rf>
 <form>namaloval</form>
-<tag lemma="namalovat_:W" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="namalovat" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="jh_11-SCzechM-p1145-s1-w6">
 <w.rf>
@@ -3294,7 +3294,7 @@
 <LM>w#w-jh_11-SCzechM-p1145-s1-w15</LM>
 </w.rf>
 <form>nevyšlo</form>
-<tag lemma="vyjít" recommended="1">VpNS---XR-NA---</tag>
+<tag lemma="vyjít" recommended="1">VpNS----R-NAP--</tag>
 </m>
 <m id="jh_11-SCzechM-p1145-s1-w16">
 <w.rf>
@@ -3657,7 +3657,7 @@
 <LM>w#w-jh_11-SCzechM-p1151-s1-w22</LM>
 </w.rf>
 <form>Požadováno</form>
-<tag lemma="požadovat_:T" recommended="1">VsNS---XX-AP---</tag>
+<tag lemma="požadovat" recommended="1">VsNS----X-API--</tag>
 </m>
 <m id="jh_11-SCzechM-p1151-s1-w23">
 <w.rf>
@@ -3859,7 +3859,7 @@
 <LM>w#w-jh_11-SCzechM-p1155-s1-w5</LM>
 </w.rf>
 <form>našli</form>
-<tag lemma="najít" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="najít" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="jh_11-SCzechM-p1155-s1-w6">
 <w.rf>
@@ -3973,7 +3973,7 @@
 <AM lemma="stop-4_,t_^(angl.,_jako_sloveso)">Vf--------A----</AM>
 <AM lemma="stopit_^(úplně_spotřebovat_topením)">Vi-S---2--A-P--</AM>
 <AM lemma="stopit_^(úplně_spotřebovat_topením)">Vi-S---3--A-P-4</AM>
-<AM lemma="stopnout_:W">VpYS---XR-AA--6</AM>
+<AM lemma="stopnout">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="jh_11-SCzechM-p1166-s1-w9">
@@ -4597,7 +4597,7 @@
 <LM>w#w-jh_11-SCzechM-p1170-s1-w24</LM>
 </w.rf>
 <form>připraven</form>
-<tag lemma="připravit_:W" recommended="1">VsYS---XX-AP---</tag>
+<tag lemma="připravit" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="jh_11-SCzechM-p1170-s1-w25">
 <w.rf>
@@ -4625,7 +4625,7 @@
 <LM>w#w-jh_11-SCzechM-p1170-s1-w28</LM>
 </w.rf>
 <form>zachovány</form>
-<tag lemma="zachovat_:T" recommended="1">VsTP---XX-AP---</tag>
+<tag lemma="zachovat" recommended="1">VsTP----X-API--</tag>
 </m>
 <m id="jh_11-SCzechM-p1170-s1-w29">
 <w.rf>
@@ -4947,7 +4947,7 @@
 <LM>w#w-jh_11-SCzechM-p1172-s1-w15</LM>
 </w.rf>
 <form>řízeny</form>
-<tag lemma="řídit" recommended="1">VsTP---XX-AP---</tag>
+<tag lemma="řídit" recommended="1">VsTP----X-API--</tag>
 </m>
 <m id="jh_11-SCzechM-p1172-s1-w16">
 <w.rf>
@@ -5226,7 +5226,7 @@
 <LM>w#w-jh_11-SCzechM-p1182-s1-w11</LM>
 </w.rf>
 <form>obnovena</form>
-<tag lemma="obnovit_:W" recommended="1">VsQW---XX-AP---</tag>
+<tag lemma="obnovit" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="jh_11-SCzechM-p1182-s1-w12">
 <w.rf>

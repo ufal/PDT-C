@@ -645,7 +645,7 @@
 <LM>w#w-ln95043-019-p2s3w22</LM>
 </w.rf>
 <form>sestaven</form>
-<tag lemma="sestavit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="sestavit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95043-019-p2s3w23">
 <src.rf>manual</src.rf>
@@ -885,7 +885,7 @@
 <LM>w#w-ln95043-019-p2s4w10</LM>
 </w.rf>
 <form>proložen</form>
-<tag lemma="proložit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="proložit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95043-019-p2s4w11">
 <src.rf>manual</src.rf>

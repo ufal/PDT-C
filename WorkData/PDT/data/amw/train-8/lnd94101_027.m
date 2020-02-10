@@ -59,7 +59,7 @@
 <LM>w#w-lnd94101-027-p1s1w6</LM>
 </w.rf>
 <form>vysvětil</form>
-<tag lemma="vysvětit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vysvětit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-027-p1s1w7">
 <src.rf>manual</src.rf>
@@ -389,7 +389,7 @@
 <LM>w#w-lnd94101-027-p1s3w21</LM>
 </w.rf>
 <form>vybudovala</form>
-<tag lemma="vybudovat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vybudovat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-027-p1s3w22">
 <src.rf>manual</src.rf>

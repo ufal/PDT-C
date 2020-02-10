@@ -196,7 +196,7 @@
 <LM>w#w-wsj2401-001-p1s1W13</LM>
 </w.rf>
 <form>neměli</form>
-<tag lemma="mít" src="auto" recommended="1">VpMP---XR-NAI--</tag>
+<tag lemma="mít" src="auto" recommended="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-wsj2401-001-p1s1W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -246,7 +246,7 @@
 <LM>w#w-wsj2401-001-p1s1W18</LM>
 </w.rf>
 <form>požadoval</form>
-<tag lemma="požadovat" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="požadovat" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj2401-001-p1s1W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -546,7 +546,7 @@
 <LM>w#w-wsj2401-001-p1s4W5</LM>
 </w.rf>
 <form>kráceny</form>
-<tag lemma="krátit" src="auto" recommended="1">VsTP---XX-API--</tag>
+<tag lemma="krátit" src="auto" recommended="1">VsTP----X-API--</tag>
 </m>
 <m id="m-wsj2401-001-p1s4W6-Ta">
 <src.rf>tagger-a</src.rf>

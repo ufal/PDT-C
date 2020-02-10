@@ -242,7 +242,7 @@
 </w.rf>
 <form>minut</form>
 <tag>
-<AM lemma="minout" src="auto">VsYS---XX-APP--</AM>
+<AM lemma="minout" src="auto">VsYS----X-APP--</AM>
 <AM lemma="minuta" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -1013,7 +1013,7 @@
 <LM>w#w-wsj2395-001-p1s2W31</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2395-001-p1s2W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1073,7 +1073,7 @@
 <LM>w#w-wsj2395-001-p1s2W36</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj2395-001-p1s2W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1710,7 +1710,7 @@
 </w.rf>
 <form>minut</form>
 <tag>
-<AM lemma="minout" src="auto">VsYS---XX-APP--</AM>
+<AM lemma="minout" src="auto">VsYS----X-APP--</AM>
 <AM lemma="minuta" src="auto" recommended="1">NNFP2-----A----</AM>
 </tag>
 </m>
@@ -1890,7 +1890,7 @@
 <LM>w#w-wsj2395-001-p1s6W9</LM>
 </w.rf>
 <form>propadl</form>
-<tag lemma="propadnout" src="auto" recommended="1">VpYS---XR-AAP-1</tag>
+<tag lemma="propadnout" src="auto" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-wsj2395-001-p1s6W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2054,7 +2054,7 @@
 <LM>w#w-wsj2395-001-p1s6W23</LM>
 </w.rf>
 <form>umístil</form>
-<tag lemma="umístit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="umístit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2395-001-p1s6W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2870,7 +2870,7 @@
 <LM>w#w-wsj2395-001-p1s7W18</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj2395-001-p1s7W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2878,7 +2878,7 @@
 <LM>w#w-wsj2395-001-p1s7W19</LM>
 </w.rf>
 <form>uveden</form>
-<tag lemma="uvést" src="auto" recommended="1">VsYS---XX-APP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj2395-001-p1s7W20-Ta">
 <src.rf>tagger-a</src.rf>

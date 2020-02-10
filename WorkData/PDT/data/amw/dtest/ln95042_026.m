@@ -528,8 +528,8 @@
 </w.rf>
 <form>nechal</form>
 <tag>
-<AM lemma="nechat_:T" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="nechat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="nechat" src="orig">VpYS----R-AAI--</AM>
+<AM lemma="nechat" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln95042-026-p3s1w14">
@@ -1263,8 +1263,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95042-026-p3s5w32">
@@ -1821,7 +1821,7 @@
 <LM>w#w-ln95042-026-p3s8w17</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95042-026-p3s8w18">
 <src.rf>manual</src.rf>
@@ -2239,7 +2239,7 @@
 <LM>w#w-ln95042-026-p4s2w11</LM>
 </w.rf>
 <form>vybaven</form>
-<tag lemma="vybavit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="vybavit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95042-026-p4s2w12">
 <src.rf>manual</src.rf>
@@ -2312,8 +2312,8 @@
 </w.rf>
 <form>vyvinul</form>
 <tag>
-<AM lemma="vyvinout" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="vyvinout_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="vyvinout" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="vyvinout" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95042-026-p4s3w4">

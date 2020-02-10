@@ -264,7 +264,7 @@
 <LM>w#w-lnd94105-082-p1s12w10</LM>
 </w.rf>
 <form>úročen</form>
-<tag lemma="úročit_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="úročit" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-lnd94105-082-p1s12w11">
 <src.rf>manual</src.rf>
@@ -1040,7 +1040,7 @@
 <LM>w#w-lnd94105-082-p1s17w8</LM>
 </w.rf>
 <form>informováni</form>
-<tag lemma="informovat_:T_:W" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="informovat" src="orig" selected="1">VsMP----X-APB--</tag>
 </m>
 <m id="m-lnd94105-082-p1s17w9">
 <src.rf>manual</src.rf>

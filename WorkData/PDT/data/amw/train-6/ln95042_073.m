@@ -77,7 +77,7 @@
 <LM>w#w-ln95042-073-p2s1w7</LM>
 </w.rf>
 <form>dopravila</form>
-<tag lemma="dopravit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="dopravit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95042-073-p2s1w8">
 <src.rf>manual</src.rf>
@@ -133,7 +133,7 @@
 <LM>w#w-ln95042-073-p2s1w14</LM>
 </w.rf>
 <form>vrátila</form>
-<tag lemma="vrátit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vrátit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95042-073-p2s1w15">
 <src.rf>manual</src.rf>
@@ -167,7 +167,7 @@
 <LM>w#w-ln95042-073-p2s2w1</LM>
 </w.rf>
 <form>Podařilo</form>
-<tag lemma="podařit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="podařit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95042-073-p2s2w2">
 <src.rf>manual</src.rf>

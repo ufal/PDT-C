@@ -96,7 +96,7 @@
 <LM>w#w-mf920901-049-p2s1w7</LM>
 </w.rf>
 <form>nevadilo</form>
-<tag lemma="vadit_:T" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="vadit" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-mf920901-049-p2s1w8">
 <src.rf>manual</src.rf>
@@ -176,7 +176,7 @@
 <LM>w#w-mf920901-049-p2s1w17</LM>
 </w.rf>
 <form>skončili</form>
-<tag lemma="skončit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="skončit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920901-049-p2s1w18">
 <src.rf>manual</src.rf>
@@ -243,7 +243,7 @@
 <LM>w#w-mf920901-049-p2s1w25</LM>
 </w.rf>
 <form>porazil</form>
-<tag lemma="porazit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="porazit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920901-049-p2s1w26">
 <src.rf>manual</src.rf>

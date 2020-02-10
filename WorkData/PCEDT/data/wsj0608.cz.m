@@ -198,7 +198,7 @@
 <LM>w#w-wsj0608-001-p1s1W4</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-wsj0608-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -214,7 +214,7 @@
 <LM>w#w-wsj0608-001-p1s1W6</LM>
 </w.rf>
 <form>uvedeno</form>
-<tag lemma="uvést" src="auto" recommended="1">VsNS---XX-APP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-wsj0608-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -283,7 +283,7 @@
 <LM>w#w-wsj0608-001-p1s1W12</LM>
 </w.rf>
 <form>vyplatila</form>
-<tag lemma="vyplatit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="vyplatit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0608-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>

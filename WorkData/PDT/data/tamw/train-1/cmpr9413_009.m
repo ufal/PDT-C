@@ -139,7 +139,7 @@
 <LM>w#w-cmpr9413-009-p3s1w13</LM>
 </w.rf>
 <form>zakázalo</form>
-<tag lemma="zakázat" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zakázat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9413-009-p3s1w14">
 <src.rf>manual</src.rf>
@@ -253,7 +253,7 @@
 <LM>w#w-cmpr9413-009-p3s2w8</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9413-009-p3s2w9">
 <src.rf>manual</src.rf>
@@ -261,7 +261,7 @@
 <LM>w#w-cmpr9413-009-p3s2w9</LM>
 </w.rf>
 <form>ukončeno</form>
-<tag lemma="ukončit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="ukončit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-cmpr9413-009-p3s2w10">
 <src.rf>manual</src.rf>
@@ -295,7 +295,7 @@
 <LM>w#w-cmpr9413-009-p3s3w3</LM>
 </w.rf>
 <form>odhlasovali</form>
-<tag lemma="odhlasovat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="odhlasovat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-cmpr9413-009-p3s3w4">
 <src.rf>manual</src.rf>
@@ -385,7 +385,7 @@
 <LM>w#w-cmpr9413-009-p3s4w1</LM>
 </w.rf>
 <form>Určoval</form>
-<tag lemma="určovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="určovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9413-009-p3s4w2">
 <src.rf>manual</src.rf>
@@ -524,7 +524,7 @@
 <LM>w#w-cmpr9413-009-p3s4w18</LM>
 </w.rf>
 <form>měli</form>
-<tag lemma="mít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-cmpr9413-009-p3s4w19">
 <src.rf>manual</src.rf>

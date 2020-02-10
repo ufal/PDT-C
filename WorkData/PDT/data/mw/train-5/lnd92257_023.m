@@ -402,7 +402,7 @@
 <LM>w#w-lnd92257-023-p2s3w14</LM>
 </w.rf>
 <form>odstoupil</form>
-<tag lemma="odstoupit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odstoupit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-023-p2s3w15">
 <src.rf>manual</src.rf>

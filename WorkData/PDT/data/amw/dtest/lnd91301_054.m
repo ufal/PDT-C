@@ -165,7 +165,7 @@
 <LM>w#w-lnd91301-054-p3s1w13</LM>
 </w.rf>
 <form>ukončil</form>
-<tag lemma="ukončit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="ukončit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-054-p3s1w14">
 <src.rf>manual</src.rf>

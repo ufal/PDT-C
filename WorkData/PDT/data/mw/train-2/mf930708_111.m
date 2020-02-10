@@ -130,7 +130,7 @@
 <LM>w#w-mf930708-111-p2s1w11</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930708-111-p2s1w12">
 <src.rf>manual</src.rf>
@@ -203,8 +203,8 @@
 </w.rf>
 <form>sešlo</form>
 <tag>
-<AM lemma="sejít" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="sejít_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="sejít" src="orig">VpNS----R-AAP--</AM>
+<AM lemma="sejít" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930708-111-p2s1w21">
@@ -231,7 +231,7 @@
 <LM>w#w-mf930708-111-p2s2w2</LM>
 </w.rf>
 <form>Byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930708-111-p2s2w3">
 <src.rf>manual</src.rf>
@@ -469,8 +469,8 @@
 </w.rf>
 <form>odjel</form>
 <tag>
-<AM lemma="odjet" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="odjet_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="odjet" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="odjet" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930708-111-p2s3w7">
@@ -623,7 +623,7 @@
 <LM>w#w-mf930708-111-p2s3w25</LM>
 </w.rf>
 <form>informoval</form>
-<tag lemma="informovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="informovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-mf930708-111-p2s3w26">
 <src.rf>manual</src.rf>

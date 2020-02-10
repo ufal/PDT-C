@@ -194,7 +194,7 @@
 <LM>w#w-mf930709-076-p1s1w21</LM>
 </w.rf>
 <form>dofinišoval</form>
-<tag lemma="dofinišovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dofinišovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-076-p1s1w22">
 <src.rf>manual</src.rf>

@@ -455,7 +455,7 @@
 <LM>w#w-wsj2050-001-p1s1W5</LM>
 </w.rf>
 <form>rozdělena</form>
-<tag lemma="rozdělit" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="rozdělit" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj2050-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -994,7 +994,7 @@
 <LM>w#w-wsj2050-001-p1s2W19</LM>
 </w.rf>
 <form>doručeny</form>
-<tag lemma="doručit" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="doručit" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj2050-001-p1s2W20-Ta">
 <src.rf>tagger-a</src.rf>

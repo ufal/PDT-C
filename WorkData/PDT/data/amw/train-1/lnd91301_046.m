@@ -58,7 +58,7 @@
 <LM>w#w-lnd91301-046-p1s1w5</LM>
 </w.rf>
 <form>pokřtilo</form>
-<tag lemma="pokřtít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="pokřtít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-046-p1s1w6">
 <src.rf>manual</src.rf>
@@ -217,7 +217,7 @@
 <form>stal</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd91301-046-p1s2w6">

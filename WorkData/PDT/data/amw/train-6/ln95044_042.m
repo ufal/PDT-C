@@ -51,7 +51,7 @@
 <LM>w#w-ln95044-042-p1s1w5</LM>
 </w.rf>
 <form>zůstal</form>
-<tag lemma="zůstat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zůstat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95044-042-p1s1w6">
 <src.rf>manual</src.rf>

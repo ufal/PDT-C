@@ -152,7 +152,7 @@
 <LM>w#w-mf920924-106-p2s1w12</LM>
 </w.rf>
 <form>jeli</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf920924-106-p2s1w13">
 <src.rf>manual</src.rf>
@@ -341,7 +341,7 @@
 <LM>w#w-mf920924-106-p2s2w5</LM>
 </w.rf>
 <form>nezískali</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m-mf920924-106-p2s2w6">
 <src.rf>manual</src.rf>
@@ -506,7 +506,7 @@
 <LM>w#w-mf920924-106-p5s1w17</LM>
 </w.rf>
 <form>vyrazil</form>
-<tag lemma="vyrazit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyrazit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920924-106-p5s1w18">
 <src.rf>manual</src.rf>

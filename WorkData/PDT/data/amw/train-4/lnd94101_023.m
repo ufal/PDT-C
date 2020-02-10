@@ -251,7 +251,7 @@
 <LM>w#w-lnd94101-023-p1s3w18</LM>
 </w.rf>
 <form>financovány</form>
-<tag lemma="financovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="financovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-lnd94101-023-p1s3w19">
 <src.rf>manual</src.rf>

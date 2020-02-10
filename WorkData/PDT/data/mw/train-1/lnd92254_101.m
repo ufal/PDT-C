@@ -103,7 +103,7 @@
 <LM>w#w-lnd92254-101-p2s2w7</LM>
 </w.rf>
 <form>odcizili</form>
-<tag lemma="odcizit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="odcizit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92254-101-p2s2w8">
 <src.rf>manual</src.rf>
@@ -207,7 +207,7 @@
 <LM>w#w-lnd92254-101-p2s3w4</LM>
 </w.rf>
 <form>sloužil</form>
-<tag lemma="sloužit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sloužit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92254-101-p2s3w5">
 <src.rf>manual</src.rf>

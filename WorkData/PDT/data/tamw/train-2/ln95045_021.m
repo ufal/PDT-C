@@ -43,7 +43,7 @@
 <LM>w#w-ln95045-021-p1s1w4</LM>
 </w.rf>
 <form>zasmečoval</form>
-<tag lemma="zasmečovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zasmečovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-021-p1s1w5">
 <src.rf>manual</src.rf>

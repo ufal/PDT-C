@@ -109,7 +109,7 @@
 <LM>w#w-lnd94103-013-p1s3w3</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-013-p1s3w4">
 <src.rf>manual</src.rf>
@@ -295,7 +295,7 @@
 <LM>w#w-lnd94103-013-p1s4w4</LM>
 </w.rf>
 <form>odebraly</form>
-<tag lemma="odebrat" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="odebrat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-013-p1s4w5">
 <src.rf>manual</src.rf>
@@ -401,7 +401,7 @@
 <LM>w#w-lnd94103-013-p1s5w8</LM>
 </w.rf>
 <form>neobnovily</form>
-<tag lemma="obnovit_:W" src="orig" selected="1">VpTP---XR-NA---</tag>
+<tag lemma="obnovit" src="orig" selected="1">VpTP----R-NAP--</tag>
 </m>
 <m id="m-lnd94103-013-p1s5w9">
 <src.rf>manual</src.rf>
@@ -500,7 +500,7 @@
 <LM>w#w-lnd94103-013-p1s6w10</LM>
 </w.rf>
 <form>uložily</form>
-<tag lemma="uložit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="uložit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-013-p1s6w11">
 <src.rf>manual</src.rf>
@@ -628,7 +628,7 @@
 <LM>w#w-lnd94103-013-p1s6w26</LM>
 </w.rf>
 <form>zaplatili</form>
-<tag lemma="zaplatit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zaplatit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-013-p1s6w27">
 <src.rf>manual</src.rf>
@@ -880,7 +880,7 @@
 <LM>w#w-lnd94103-013-p1s8w12</LM>
 </w.rf>
 <form>platili</form>
-<tag lemma="platit_:T" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="platit" src="auto" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-013-p1s8w13">
 <src.rf>manual</src.rf>
@@ -1033,8 +1033,8 @@
 </w.rf>
 <form>nedostala</form>
 <tag>
-<AM lemma="dostat" src="orig">VpQW---XR-NA---</AM>
-<AM lemma="dostat_:W" src="manual" selected="1">VpQW---XR-NA---</AM>
+<AM lemma="dostat" src="orig">VpQW----R-NAP--</AM>
+<AM lemma="dostat" src="manual" selected="1">VpQW----R-NAP--</AM>
 </tag>
 </m>
 <m id="m-lnd94103-013-p1s8w31">
@@ -1077,7 +1077,7 @@
 <LM>w#w-lnd94103-013-p1s9w5</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-013-p1s9w6">
 <src.rf>manual</src.rf>
@@ -1149,7 +1149,7 @@
 <LM>w#w-lnd94103-013-p1s9w15</LM>
 </w.rf>
 <form>platilo</form>
-<tag lemma="platit_:T" src="auto" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="platit" src="auto" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-013-p1s9w16">
 <src.rf>manual</src.rf>
@@ -1271,7 +1271,7 @@
 <LM>w#w-lnd94103-013-p1s10w11</LM>
 </w.rf>
 <form>nedali</form>
-<tag lemma="dát" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="dát" src="orig" selected="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m-lnd94103-013-p1s10w12">
 <src.rf>manual</src.rf>

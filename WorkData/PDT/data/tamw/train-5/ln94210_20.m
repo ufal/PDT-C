@@ -35,7 +35,7 @@
 <LM>w#w-ln94210-20-p1s1w3</LM>
 </w.rf>
 <form>spadly</form>
-<tag lemma="spadnout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="spadnout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 </s>
 <s id="m-ln94210-20-p2s1A">
@@ -103,7 +103,7 @@
 <LM>w#w-ln94210-20-p2s1Bw6</LM>
 </w.rf>
 <form>postrašil</form>
-<tag lemma="postrašit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="postrašit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94210-20-p2s1Bw7">
 <src.rf>manual</src.rf>
@@ -159,7 +159,7 @@
 <LM>w#w-ln94210-20-p2s1Bw13</LM>
 </w.rf>
 <form>nastal</form>
-<tag lemma="nastat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nastat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94210-20-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -409,7 +409,7 @@
 <LM>w#w-ln94210-20-p2s2w21</LM>
 </w.rf>
 <form>nepodařilo</form>
-<tag lemma="podařit_:W" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="podařit" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-ln94210-20-p2s2w22">
 <src.rf>manual</src.rf>

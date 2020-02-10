@@ -173,7 +173,7 @@
 <LM>w#w-ln94206-18-p2s1w13</LM>
 </w.rf>
 <form>dojednali</form>
-<tag lemma="dojednat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="dojednat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94206-18-p2s1w14">
 <src.rf>manual</src.rf>
@@ -399,7 +399,7 @@
 <LM>w#w-ln94206-18-p2s2w10</LM>
 </w.rf>
 <form>nepodléhalo</form>
-<tag lemma="podléhat_:T" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="podléhat" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-ln94206-18-p2s2w11">
 <src.rf>manual</src.rf>
@@ -621,8 +621,8 @@
 </w.rf>
 <form>uvedl</form>
 <tag>
-<AM lemma="uvést" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="uvést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="uvést" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="uvést" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94206-18-p3s1w7">
@@ -1253,7 +1253,7 @@
 <LM>w#w-ln94206-18-p3s3w26</LM>
 </w.rf>
 <form>pobírala</form>
-<tag lemma="pobírat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="pobírat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94206-18-p3s3w27">
 <src.rf>manual</src.rf>
@@ -1931,7 +1931,7 @@
 <LM>w#w-ln94206-18-p5s1w7</LM>
 </w.rf>
 <form>uzavřela</form>
-<tag lemma="uzavřít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="uzavřít" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94206-18-p5s1w8">
 <src.rf>manual</src.rf>
@@ -2110,7 +2110,7 @@
 <LM>w#w-ln94206-18-p5s1w29</LM>
 </w.rf>
 <form>projevilo</form>
-<tag lemma="projevit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="projevit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94206-18-p5s1w30">
 <src.rf>manual</src.rf>

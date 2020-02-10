@@ -189,7 +189,7 @@
 <LM>w#w-cmpr9416-029-p5s1w17</LM>
 </w.rf>
 <form>chtěli</form>
-<tag lemma="chtít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="chtít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-cmpr9416-029-p5s1w18">
 <src.rf>manual</src.rf>
@@ -359,7 +359,7 @@
 <LM>w#w-cmpr9416-029-p5s2w9</LM>
 </w.rf>
 <form>srovnali</form>
-<tag lemma="srovnat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="srovnat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-cmpr9416-029-p5s2w10">
 <src.rf>manual</src.rf>
@@ -433,7 +433,7 @@
 <LM>w#w-cmpr9416-029-p5s3w2</LM>
 </w.rf>
 <form>dali</form>
-<tag lemma="dát" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="dát" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-cmpr9416-029-p5s3w3">
 <src.rf>manual</src.rf>
@@ -521,7 +521,7 @@
 <LM>w#w-cmpr9416-029-p5s3w13</LM>
 </w.rf>
 <form>nechali</form>
-<tag lemma="nechat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="nechat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-cmpr9416-029-p5s3w14">
 <src.rf>manual</src.rf>
@@ -727,7 +727,7 @@
 <LM>w#w-cmpr9416-029-p6s1w7</LM>
 </w.rf>
 <form>vyhodnotili</form>
-<tag lemma="vyhodnotit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyhodnotit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-cmpr9416-029-p6s1w8">
 <src.rf>manual</src.rf>
@@ -762,7 +762,7 @@
 <LM>w#w-cmpr9416-029-p6s1w11</LM>
 </w.rf>
 <form>potvrdil</form>
-<tag lemma="potvrdit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="potvrdit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9416-029-p6s1w12">
 <src.rf>manual</src.rf>
@@ -930,7 +930,7 @@
 <LM>w#w-cmpr9416-029-p6s1w32</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-cmpr9416-029-p6s1w33">
 <src.rf>manual</src.rf>
@@ -1193,7 +1193,7 @@
 <LM>w#w-cmpr9416-029-p8s1Aw20</LM>
 </w.rf>
 <form>vyhnuli</form>
-<tag lemma="vyhnout" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyhnout" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-cmpr9416-029-p8s1Aw21">
 <src.rf>manual</src.rf>

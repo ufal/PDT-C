@@ -122,7 +122,7 @@
 <LM>w#w-lnd92259-028-p2s2w5</LM>
 </w.rf>
 <form>nedospěla</form>
-<tag lemma="dospět" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="dospět" src="orig" selected="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-lnd92259-028-p2s2w6">
 <src.rf>manual</src.rf>
@@ -170,7 +170,7 @@
 <LM>w#w-lnd92259-028-p2s2w11</LM>
 </w.rf>
 <form>potvrdily</form>
-<tag lemma="potvrdit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="potvrdit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-028-p2s2w12">
 <src.rf>manual</src.rf>
@@ -291,7 +291,7 @@
 <LM>w#w-lnd92259-028-p2s2w25</LM>
 </w.rf>
 <form>objednal</form>
-<tag lemma="objednat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="objednat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-028-p2s2w26">
 <src.rf>manual</src.rf>
@@ -331,7 +331,7 @@
 <LM>w#w-lnd92259-028-p2s2w31</LM>
 </w.rf>
 <form>rušili</form>
-<tag lemma="rušit_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="rušit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92259-028-p2s2w32">
 <src.rf>manual</src.rf>
@@ -453,7 +453,7 @@
 <LM>w#w-lnd92259-028-p2s3w4</LM>
 </w.rf>
 <form>sdělil</form>
-<tag lemma="sdělit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sdělit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-028-p2s3w5">
 <src.rf>manual</src.rf>
@@ -781,7 +781,7 @@
 <LM>w#w-lnd92259-028-p2s5w19</LM>
 </w.rf>
 <form>vytrhl</form>
-<tag lemma="vytrhnout_:W" src="auto" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="vytrhnout" src="auto" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd92259-028-p2s5w20">
 <src.rf>manual</src.rf>
@@ -840,7 +840,7 @@
 <LM>w#w-lnd92259-028-p2s5w26</LM>
 </w.rf>
 <form>chtěl</form>
-<tag lemma="chtít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="chtít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92259-028-p2s5w27">
 <src.rf>manual</src.rf>
@@ -1083,8 +1083,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92259-028-p2s7w12">

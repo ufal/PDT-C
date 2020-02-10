@@ -94,7 +94,7 @@
 <LM>w#w-ln95048-128-p1s1w10</LM>
 </w.rf>
 <form>rozvinuly</form>
-<tag lemma="rozvinout" src="auto" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="rozvinout" src="auto" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95048-128-p1s1w11">
 <src.rf>manual</src.rf>
@@ -306,7 +306,7 @@
 <form>Stalo</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95048-128-p1s2w2">
@@ -391,7 +391,7 @@
 <AM lemma="Duc_;Y" src="orig">NNMXX-----A----</AM>
 <AM lemma="Duc_;S" src="auto" recommended="1">NNMSX-----A----</AM>
 <AM lemma="duc" src="auto">II-------------</AM>
-<AM lemma="ducnout_:W" src="auto">VpYS---XR-AA--6</AM>
+<AM lemma="ducnout" src="auto">VpYS----R-AAP-6</AM>
 <AM lemma="Duc_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
@@ -425,7 +425,7 @@
 <LM>w#w-ln95048-128-p1s2w15</LM>
 </w.rf>
 <form>navštívil</form>
-<tag lemma="navštívit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="navštívit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-128-p1s2w16">
 <src.rf>manual</src.rf>
@@ -603,7 +603,7 @@
 <LM>w#w-ln95048-128-p1s3w18</LM>
 </w.rf>
 <form>neohrozili</form>
-<tag lemma="ohrozit_:W" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="ohrozit" src="orig" selected="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m-ln95048-128-p1s3w19">
 <src.rf>manual</src.rf>
@@ -659,7 +659,7 @@
 <LM>w#w-ln95048-128-p1s3w25</LM>
 </w.rf>
 <form>vysvětlila</form>
-<tag lemma="vysvětlit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vysvětlit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95048-128-p1s3w26">
 <src.rf>manual</src.rf>

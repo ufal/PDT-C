@@ -87,7 +87,7 @@
 <LM>w#w-lnd92251-012-p2s2w5</LM>
 </w.rf>
 <form>jednali</form>
-<tag lemma="jednat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="jednat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92251-012-p2s2w6">
 <src.rf>manual</src.rf>
@@ -607,7 +607,7 @@
 <LM>w#w-lnd92251-012-p2s3w38</LM>
 </w.rf>
 <form>zavítala</form>
-<tag lemma="zavítat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zavítat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-012-p2s3w39">
 <src.rf>manual</src.rf>
@@ -768,7 +768,7 @@
 <LM>w#w-lnd92251-012-p2s4w18</LM>
 </w.rf>
 <form>projevila</form>
-<tag lemma="projevit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="projevit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-012-p2s4w19">
 <src.rf>manual</src.rf>

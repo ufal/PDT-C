@@ -45,7 +45,7 @@
 <LM>w#w-ln94202-87-p2s1w3</LM>
 </w.rf>
 <form>určila</form>
-<tag lemma="určit_:T_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="určit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94202-87-p2s1w4">
 <src.rf>manual</src.rf>
@@ -551,7 +551,7 @@
 <LM>w#w-ln94202-87-p2s4w1</LM>
 </w.rf>
 <form>Zakázány</form>
-<tag lemma="zakázat" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="zakázat" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln94202-87-p2s4w2">
 <src.rf>manual</src.rf>
@@ -721,7 +721,7 @@
 <LM>w#w-ln94202-87-p3s1w12</LM>
 </w.rf>
 <form>ohlášenu</form>
-<tag lemma="ohlásit" src="orig" selected="1">VsFS4--XX-AP---</tag>
+<tag lemma="ohlásit" src="orig" selected="1">VsFS4---X-APP--</tag>
 </m>
 <m id="m-ln94202-87-p3s1w13">
 <src.rf>manual</src.rf>
@@ -952,7 +952,7 @@
 <LM>w#w-ln94202-87-p3s3w4</LM>
 </w.rf>
 <form>zahájen</form>
-<tag lemma="zahájit" src="auto" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zahájit" src="auto" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94202-87-p3s3w5">
 <src.rf>manual</src.rf>

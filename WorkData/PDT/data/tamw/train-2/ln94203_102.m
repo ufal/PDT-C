@@ -87,7 +87,7 @@
 <LM>w#w-ln94203-102-p2s1Bw4</LM>
 </w.rf>
 <form>prohrála</form>
-<tag lemma="prohrát" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="prohrát" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94203-102-p2s1Bw5">
 <src.rf>manual</src.rf>

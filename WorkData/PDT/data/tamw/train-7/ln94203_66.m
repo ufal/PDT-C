@@ -102,7 +102,7 @@
 <LM>w#w-ln94203-66-p1s1w11</LM>
 </w.rf>
 <form>zdědil</form>
-<tag lemma="zdědit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zdědit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94203-66-p1s1w12">
 <src.rf>manual</src.rf>
@@ -235,7 +235,7 @@
 <LM>w#w-ln94203-66-p1s2w6</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94203-66-p1s2w7">
 <src.rf>manual</src.rf>
@@ -243,7 +243,7 @@
 <LM>w#w-ln94203-66-p1s2w7</LM>
 </w.rf>
 <form>vyděděn</form>
-<tag lemma="vydědit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="vydědit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94203-66-p1s2w8">
 <src.rf>manual</src.rf>
@@ -283,7 +283,7 @@
 <LM>w#w-ln94203-66-p1s2w12</LM>
 </w.rf>
 <form>soudil</form>
-<tag lemma="soudit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="soudit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94203-66-p1s2w13">
 <src.rf>manual</src.rf>
@@ -299,7 +299,7 @@
 <LM>w#w-ln94203-66-p1s2w14</LM>
 </w.rf>
 <form>vyhrál</form>
-<tag lemma="vyhrát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyhrát" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94203-66-p1s2w15">
 <src.rf>manual</src.rf>

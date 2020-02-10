@@ -190,8 +190,8 @@
 </w.rf>
 <form>rozrostla</form>
 <tag>
-<AM lemma="rozrůst" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="rozrůst_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="rozrůst" src="orig">VpQW----R-AAP--</AM>
+<AM lemma="rozrůst" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95046-041-p2s1Bw14">
@@ -352,7 +352,7 @@
 <LM>w#w-ln95046-041-p2s2w4</LM>
 </w.rf>
 <form>požádala</form>
-<tag lemma="požádat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="požádat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95046-041-p2s2w5">
 <src.rf>manual</src.rf>
@@ -459,7 +459,7 @@
 <LM>w#w-ln95046-041-p2s2w17</LM>
 </w.rf>
 <form>vrátili</form>
-<tag lemma="vrátit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vrátit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95046-041-p2s2w18">
 <src.rf>manual</src.rf>
@@ -505,8 +505,8 @@
 </w.rf>
 <form>hrál</form>
 <tag>
-<AM lemma="hrát" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="hrát_:T" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="hrát" src="orig">VpYS----R-AAI--</AM>
+<AM lemma="hrát" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln95046-041-p2s3w3">

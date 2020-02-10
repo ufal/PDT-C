@@ -27,7 +27,7 @@
 <LM>w#w-mf930703-088-p1s1w2</LM>
 </w.rf>
 <form>splnila</form>
-<tag lemma="splnit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="splnit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930703-088-p1s1w3">
 <src.rf>manual</src.rf>
@@ -62,7 +62,7 @@
 </w.rf>
 <form>šil</form>
 <tag>
-<AM lemma="šít" src="orig">VpYS---XR-AA---</AM>
+<AM lemma="šít" src="orig">VpYS----R-AAI--</AM>
 <AM lemma="šil-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -128,7 +128,7 @@
 <LM>w#w-mf930703-088-p2s1w11</LM>
 </w.rf>
 <form>zaplavala</form>
-<tag lemma="zaplavat" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zaplavat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930703-088-p2s1w12">
 <src.rf>manual</src.rf>
@@ -273,7 +273,7 @@
 <LM>w#w-mf930703-088-p2s1w27</LM>
 </w.rf>
 <form>splnila</form>
-<tag lemma="splnit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="splnit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930703-088-p2s1w28">
 <src.rf>manual</src.rf>

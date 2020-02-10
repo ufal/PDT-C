@@ -27,7 +27,7 @@
 <LM>w#w-mf930701-014-p1s1w2</LM>
 </w.rf>
 <form>zadrželi</form>
-<tag lemma="zadržet" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zadržet" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930701-014-p1s1w3">
 <src.rf>manual</src.rf>
@@ -237,7 +237,7 @@
 <LM>w#w-mf930701-014-p2s1w24</LM>
 </w.rf>
 <form>Sány</form>
-<tag lemma="sát" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="sát" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf930701-014-p2s1w25">
 <src.rf>manual</src.rf>
@@ -277,7 +277,7 @@
 <LM>w#w-mf930701-014-p2s1w29</LM>
 </w.rf>
 <form>zadrželi</form>
-<tag lemma="zadržet" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zadržet" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930701-014-p2s1w30">
 <src.rf>manual</src.rf>
@@ -391,7 +391,7 @@
 <LM>w#w-mf930701-014-p2s2w9</LM>
 </w.rf>
 <form>měli</form>
-<tag lemma="mít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930701-014-p2s2w10">
 <src.rf>manual</src.rf>
@@ -490,7 +490,7 @@
 <LM>w#w-mf930701-014-p2s3w4</LM>
 </w.rf>
 <form>nebyli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-mf930701-014-p2s3w5">
 <src.rf>manual</src.rf>
@@ -538,7 +538,7 @@
 <LM>w#w-mf930701-014-p2s3w10</LM>
 </w.rf>
 <form>reagovala</form>
-<tag lemma="reagovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="reagovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930701-014-p2s3w11">
 <src.rf>manual</src.rf>
@@ -562,7 +562,7 @@
 <LM>w#w-mf930701-014-p2s3w13</LM>
 </w.rf>
 <form>spustila</form>
-<tag lemma="spustit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="spustit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930701-014-p2s3w14">
 <src.rf>manual</src.rf>
@@ -668,7 +668,7 @@
 <LM>w#w-mf930701-014-p2s4w10</LM>
 </w.rf>
 <form>uvalil</form>
-<tag lemma="uvalit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvalit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-014-p2s4w11">
 <src.rf>manual</src.rf>

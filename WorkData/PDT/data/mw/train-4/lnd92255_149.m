@@ -553,7 +553,7 @@
 <LM>w#w-lnd92255-149-p3s4w15</LM>
 </w.rf>
 <form>podmiňována</form>
-<tag lemma="podmiňovat_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="podmiňovat" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-lnd92255-149-p3s4w16">
 <src.rf>manual</src.rf>
@@ -1010,7 +1010,7 @@
 <LM>w#w-lnd92255-149-p3s5w44</LM>
 </w.rf>
 <form>hrazeny</form>
-<tag lemma="hradit_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="hradit" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-lnd92255-149-p3s5w45">
 <src.rf>manual</src.rf>

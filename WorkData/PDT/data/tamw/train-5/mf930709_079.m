@@ -393,7 +393,7 @@
 <LM>w#w-mf930709-079-p2s2w24</LM>
 </w.rf>
 <form>startovali</form>
-<tag lemma="startovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="startovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930709-079-p2s2w25">
 <src.rf>manual</src.rf>

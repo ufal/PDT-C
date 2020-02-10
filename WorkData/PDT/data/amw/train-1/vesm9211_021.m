@@ -128,7 +128,7 @@
 <LM>w#w-vesm9211-021-p2s1w11</LM>
 </w.rf>
 <form>přijali</form>
-<tag lemma="přijmout" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přijmout" src="auto" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-vesm9211-021-p2s1w12">
 <src.rf>manual</src.rf>

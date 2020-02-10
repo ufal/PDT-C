@@ -408,7 +408,7 @@
 <LM>w#w-lnd92252-045-p3s1w20</LM>
 </w.rf>
 <form>věnován</form>
-<tag lemma="věnovat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="věnovat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-lnd92252-045-p3s1w21">
 <src.rf>manual</src.rf>

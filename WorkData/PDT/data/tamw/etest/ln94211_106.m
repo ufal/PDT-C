@@ -755,7 +755,7 @@
 <LM>w#w-ln94211-106-p3s2w4</LM>
 </w.rf>
 <form>vystavěna</form>
-<tag lemma="vystavět" src="auto" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="vystavět" src="auto" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94211-106-p3s2w5">
 <src.rf>manual</src.rf>
@@ -1511,7 +1511,7 @@
 <LM>w#w-ln94211-106-p3s7w3</LM>
 </w.rf>
 <form>sdělila</form>
-<tag lemma="sdělit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="sdělit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94211-106-p3s7w4">
 <src.rf>manual</src.rf>
@@ -1634,7 +1634,7 @@
 <LM>w#w-ln94211-106-p3s7w18</LM>
 </w.rf>
 <form>přichystán</form>
-<tag lemma="přichystat_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="přichystat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94211-106-p3s7w19">
 <src.rf>manual</src.rf>
@@ -2023,7 +2023,7 @@
 <LM>w#w-ln94211-106-p3s9w19</LM>
 </w.rf>
 <form>vysloužila</form>
-<tag lemma="vysloužit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vysloužit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94211-106-p3s9w20">
 <src.rf>manual</src.rf>
@@ -2153,7 +2153,7 @@
 <LM>w#w-ln94211-106-p3s10w9</LM>
 </w.rf>
 <form>připravili</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="připravit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94211-106-p3s10w10">
 <src.rf>manual</src.rf>

@@ -89,7 +89,7 @@
 <LM>w#w-wsj1710-001-p1s0W8</LM>
 </w.rf>
 <form>nabídla</form>
-<tag lemma="nabídnout" src="auto" recommended="1">VpQW---XR-AAP-1</tag>
+<tag lemma="nabídnout" src="auto" recommended="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-wsj1710-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -949,7 +949,7 @@
 <LM>w#w-wsj1710-001-p1s3W3</LM>
 </w.rf>
 <form>použity</form>
-<tag lemma="použít" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="použít" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj1710-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>

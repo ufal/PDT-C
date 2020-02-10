@@ -187,7 +187,7 @@
 <LM>w#w-ln94208-30-p2s1Bw13</LM>
 </w.rf>
 <form>otevřen</form>
-<tag lemma="otevřít" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="otevřít" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94208-30-p2s1Bw14">
 <src.rf>manual</src.rf>
@@ -278,7 +278,7 @@
 <LM>w#w-ln94208-30-p2s1Bw24</LM>
 </w.rf>
 <form>uvedeno</form>
-<tag lemma="uvést" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="uvést" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94208-30-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -464,7 +464,7 @@
 <LM>w#w-ln94208-30-p2s2w20</LM>
 </w.rf>
 <form>nezměněna</form>
-<tag lemma="změnit_:W" src="orig" selected="1">VsQW---XX-NP---</tag>
+<tag lemma="změnit" src="orig" selected="1">VsQW----X-NPP--</tag>
 </m>
 <m id="m-ln94208-30-p2s2w21">
 <src.rf>manual</src.rf>
@@ -522,7 +522,7 @@
 <LM>w#w-ln94208-30-p2s3w6</LM>
 </w.rf>
 <form>neuspěli</form>
-<tag lemma="uspět" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="uspět" src="orig" selected="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m-ln94208-30-p2s3w7">
 <src.rf>manual</src.rf>
@@ -902,7 +902,7 @@
 <LM>w#w-ln94208-30-p2s5w11</LM>
 </w.rf>
 <form>vypraven</form>
-<tag lemma="vypravit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="vypravit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94208-30-p2s5w12">
 <src.rf>manual</src.rf>
@@ -1200,7 +1200,7 @@
 <LM>w#w-ln94208-30-p2s6w4</LM>
 </w.rf>
 <form>vypraveny</form>
-<tag lemma="vypravit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="vypravit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln94208-30-p2s6w5">
 <src.rf>manual</src.rf>

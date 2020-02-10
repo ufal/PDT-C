@@ -592,7 +592,7 @@
 <LM>w#w-wsj2440-001-p1s1W35</LM>
 </w.rf>
 <form>obsahovala</form>
-<tag lemma="obsahovat" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="obsahovat" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj2440-001-p1s1W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1363,7 +1363,7 @@
 <LM>w#w-wsj2440-001-p1s3W12</LM>
 </w.rf>
 <form>započtena</form>
-<tag lemma="započíst" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="započíst" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj2440-001-p1s3W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1409,7 +1409,7 @@
 <LM>w#w-wsj2440-001-p1s3W17</LM>
 </w.rf>
 <form>účtoval</form>
-<tag lemma="účtovat" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="účtovat" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj2440-001-p1s3W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1625,7 +1625,7 @@
 <LM>w#w-wsj2440-001-p1s4W3</LM>
 </w.rf>
 <form>zahrnovaly</form>
-<tag lemma="zahrnovat" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag lemma="zahrnovat" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj2440-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1841,7 +1841,7 @@
 <LM>w#w-wsj2440-001-p1s4W14</LM>
 </w.rf>
 <form>vytvořily</form>
-<tag lemma="vytvořit" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="vytvořit" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj2440-001-p1s4W15-Ta">
 <src.rf>tagger-a</src.rf>

@@ -398,7 +398,7 @@
 <LM>w#w-ln94204-61-p2s2w3</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94204-61-p2s2w4">
 <src.rf>manual</src.rf>
@@ -779,7 +779,7 @@
 <LM>w#w-ln94204-61-p2s3w42</LM>
 </w.rf>
 <form>hradil</form>
-<tag lemma="hradit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="hradit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94204-61-p2s3w43">
 <src.rf>manual</src.rf>

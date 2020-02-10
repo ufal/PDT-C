@@ -121,7 +121,7 @@
 <LM>w#w-mf930701-137-p2s1w9</LM>
 </w.rf>
 <form>odmítl</form>
-<tag lemma="odmítnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="odmítnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf930701-137-p2s1w10">
 <src.rf>manual</src.rf>
@@ -185,7 +185,7 @@
 <LM>w#w-mf930701-137-p2s1w18</LM>
 </w.rf>
 <form>podléhali</form>
-<tag lemma="podléhat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="podléhat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930701-137-p2s1w19">
 <src.rf>manual</src.rf>
@@ -654,7 +654,7 @@
 <LM>w#w-mf930701-137-p3s2w5</LM>
 </w.rf>
 <form>odložil</form>
-<tag lemma="odložit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odložit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-137-p3s2w6">
 <src.rf>manual</src.rf>

@@ -187,7 +187,7 @@
 <LM>w#w-mf930701-109-p2s1w18</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930701-109-p2s1w19">
 <src.rf>manual</src.rf>
@@ -195,7 +195,7 @@
 <LM>w#w-mf930701-109-p2s1w19</LM>
 </w.rf>
 <form>dohodnuto</form>
-<tag lemma="dohodnout_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="dohodnout" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf930701-109-p2s1w20">
 <src.rf>manual</src.rf>
@@ -312,7 +312,7 @@
 <LM>w#w-mf930701-109-p2s2w1</LM>
 </w.rf>
 <form>Souhlasil</form>
-<tag lemma="souhlasit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="souhlasit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930701-109-p2s2w2">
 <src.rf>manual</src.rf>

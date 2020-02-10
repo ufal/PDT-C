@@ -414,7 +414,7 @@
 <LM>w#w-ln95049-017-p2s3w4</LM>
 </w.rf>
 <form>vypomáhal</form>
-<tag lemma="vypomáhat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vypomáhat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95049-017-p2s3w5">
 <src.rf>manual</src.rf>
@@ -502,7 +502,7 @@
 <LM>w#w-ln95049-017-p2s3w15</LM>
 </w.rf>
 <form>převzal</form>
-<tag lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-017-p2s3w16">
 <src.rf>manual</src.rf>

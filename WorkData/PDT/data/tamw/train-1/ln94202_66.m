@@ -341,7 +341,7 @@
 <LM>w#w-ln94202-66-p2s2w6</LM>
 </w.rf>
 <form>vyjádřil</form>
-<tag lemma="vyjádřit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyjádřit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94202-66-p2s2w7">
 <src.rf>manual</src.rf>
@@ -477,7 +477,7 @@
 <LM>w#w-ln94202-66-p2s2w23</LM>
 </w.rf>
 <form>přijati</form>
-<tag lemma="přijmout" src="auto" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="přijmout" src="auto" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-ln94202-66-p2s2w24">
 <src.rf>manual</src.rf>
@@ -666,7 +666,7 @@
 <LM>w#w-ln94202-66-p2s3w19</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94202-66-p2s3w20">
 <src.rf>manual</src.rf>
@@ -690,7 +690,7 @@
 <LM>w#w-ln94202-66-p2s3w22</LM>
 </w.rf>
 <form>zdůraznil</form>
-<tag lemma="zdůraznit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zdůraznit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94202-66-p2s3w23">
 <src.rf>manual</src.rf>

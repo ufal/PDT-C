@@ -172,7 +172,7 @@
 <LM>w#w-mf930708-032-p1s2w3</LM>
 </w.rf>
 <form>nebyli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-mf930708-032-p1s2w4">
 <src.rf>manual</src.rf>
@@ -236,7 +236,7 @@
 <LM>w#w-mf930708-032-p1s2w11</LM>
 </w.rf>
 <form>poznamenala</form>
-<tag lemma="poznamenat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="poznamenat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930708-032-p1s2w12">
 <src.rf>manual</src.rf>
@@ -294,7 +294,7 @@
 <LM>w#w-mf930708-032-p1s3w4</LM>
 </w.rf>
 <form>přinesl</form>
-<tag lemma="přinést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přinést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-032-p1s3w5">
 <src.rf>manual</src.rf>

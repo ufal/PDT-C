@@ -130,7 +130,7 @@
 <LM>w#w-wsj0183-001-p1s0W9</LM>
 </w.rf>
 <form>vydala</form>
-<tag lemma="vydat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="vydat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0183-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -842,7 +842,7 @@
 <LM>w#w-wsj0183-001-p1s1W30</LM>
 </w.rf>
 <form>porušován</form>
-<tag lemma="porušovat" src="auto" recommended="1">VsYS---XX-API--</tag>
+<tag lemma="porušovat" src="auto" recommended="1">VsYS----X-API--</tag>
 </m>
 <m id="m-wsj0183-001-p1s1W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1187,7 +1187,7 @@
 <LM>w#w-wsj0183-001-p1s3W3</LM>
 </w.rf>
 <form>oznámili</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj0183-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1548,7 +1548,7 @@
 <LM>w#w-wsj0183-001-p1s4W12</LM>
 </w.rf>
 <form>vyměřily</form>
-<tag lemma="vyměřit" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="vyměřit" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj0183-001-p1s4W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1882,7 +1882,7 @@
 <LM>w#w-wsj0183-001-p1s5W3</LM>
 </w.rf>
 <form>dosáhly</form>
-<tag lemma="dosáhnout" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="dosáhnout" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj0183-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2391,7 +2391,7 @@
 <LM>w#w-wsj0183-001-p1s6W7</LM>
 </w.rf>
 <form>odmítla</form>
-<tag lemma="odmítnout" src="auto" recommended="1">VpQW---XR-AAP-1</tag>
+<tag lemma="odmítnout" src="auto" recommended="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-wsj0183-001-p1s6W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2572,7 +2572,7 @@
 <LM>w#w-wsj0183-001-p1s6W24</LM>
 </w.rf>
 <form>stěžovala</form>
-<tag lemma="stěžovat" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="stěžovat" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0183-001-p1s6W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2777,7 +2777,7 @@
 <LM>w#w-wsj0183-001-p1s7W3</LM>
 </w.rf>
 <form>dosáhly</form>
-<tag lemma="dosáhnout" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="dosáhnout" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj0183-001-p1s7W4-Ta">
 <src.rf>tagger-a</src.rf>

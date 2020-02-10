@@ -235,7 +235,7 @@
 <LM>w#w-mf930703-015-p2s1w22</LM>
 </w.rf>
 <form>nezměnila</form>
-<tag lemma="změnit_:W" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="změnit" src="orig" selected="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-mf930703-015-p2s1w23">
 <src.rf>manual</src.rf>

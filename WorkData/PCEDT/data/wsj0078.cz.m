@@ -93,7 +93,7 @@
 <LM>w#w-wsj0078-001-p1s0W8</LM>
 </w.rf>
 <form>ohlásila</form>
-<tag lemma="ohlásit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="ohlásit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0078-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -371,7 +371,7 @@
 <LM>w#w-wsj0078-001-p1s0W31</LM>
 </w.rf>
 <form>skončilo</form>
-<tag lemma="skončit" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="skončit" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj0078-001-p1s0W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -636,7 +636,7 @@
 <LM>w#w-wsj0078-001-p1s1W6</LM>
 </w.rf>
 <form>ztrojnásobil</form>
-<tag lemma="ztrojnásobit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="ztrojnásobit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0078-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>

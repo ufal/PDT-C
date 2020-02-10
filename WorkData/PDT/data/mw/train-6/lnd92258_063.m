@@ -75,7 +75,7 @@
 <LM>w#w-lnd92258-063-p1s1w8</LM>
 </w.rf>
 <form>ovládly</form>
-<tag lemma="ovládnout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="ovládnout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-lnd92258-063-p1s1w9">
 <src.rf>manual</src.rf>

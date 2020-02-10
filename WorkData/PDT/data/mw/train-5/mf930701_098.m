@@ -653,7 +653,7 @@
 <LM>w#w-mf930701-098-p2s3w14</LM>
 </w.rf>
 <form>nevyvrátil</form>
-<tag lemma="vyvrátit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="vyvrátit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-mf930701-098-p2s3w15">
 <src.rf>manual</src.rf>

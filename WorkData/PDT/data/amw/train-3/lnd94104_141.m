@@ -58,7 +58,7 @@
 <LM>w#w-lnd94104-141-p1s1w5</LM>
 </w.rf>
 <form>doporučeno</form>
-<tag lemma="doporučit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="doporučit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 </s>
 <s id="m-lnd94104-141-p1s2">
@@ -153,7 +153,7 @@
 <LM>w#w-lnd94104-141-p1s3w9</LM>
 </w.rf>
 <form>doporučilo</form>
-<tag lemma="doporučit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="doporučit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-141-p1s3w10">
 <src.rf>manual</src.rf>
@@ -207,7 +207,7 @@
 <LM>w#w-lnd94104-141-p1s3w16</LM>
 </w.rf>
 <form>přiznala</form>
-<tag lemma="přiznat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="přiznat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-141-p1s3w17">
 <src.rf>manual</src.rf>
@@ -796,7 +796,7 @@
 <LM>w#w-lnd94104-141-p1s6w10</LM>
 </w.rf>
 <form>navrhly</form>
-<tag lemma="navrhnout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="navrhnout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-lnd94104-141-p1s6w11">
 <src.rf>manual</src.rf>

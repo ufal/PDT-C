@@ -219,7 +219,7 @@
 <LM>w#w-lnd92259-105-p3s3w1</LM>
 </w.rf>
 <form>Oznámil</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-105-p3s3w2">
 <src.rf>manual</src.rf>
@@ -368,7 +368,7 @@
 <LM>w#w-lnd92259-105-p3s4w7</LM>
 </w.rf>
 <form>odvolala</form>
-<tag lemma="odvolat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="odvolat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-105-p3s4w8">
 <src.rf>manual</src.rf>
@@ -440,7 +440,7 @@
 <LM>w#w-lnd92259-105-p3s4w16</LM>
 </w.rf>
 <form>objasnil</form>
-<tag lemma="objasnit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="objasnit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-105-p3s4w17">
 <src.rf>manual</src.rf>

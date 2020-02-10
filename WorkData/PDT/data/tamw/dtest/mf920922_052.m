@@ -113,7 +113,7 @@
 <LM>w#w-mf920922-052-p2s1w9</LM>
 </w.rf>
 <form>skončil</form>
-<tag lemma="skončit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="skončit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-052-p2s1w10">
 <src.rf>manual</src.rf>
@@ -267,7 +267,7 @@
 <LM>w#w-mf920922-052-p2s2w5</LM>
 </w.rf>
 <form>jel</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920922-052-p2s2w6">
 <src.rf>manual</src.rf>
@@ -299,7 +299,7 @@
 <LM>w#w-mf920922-052-p2s2w9</LM>
 </w.rf>
 <form>neudělovaly</form>
-<tag lemma="udělovat_:T" src="orig" selected="1">VpTP---XR-NA---</tag>
+<tag lemma="udělovat" src="orig" selected="1">VpTP----R-NAI--</tag>
 </m>
 <m id="m-mf920922-052-p2s2w10">
 <src.rf>manual</src.rf>
@@ -347,7 +347,7 @@
 <LM>w#w-mf920922-052-p2s2w15</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920922-052-p2s2w16">
 <src.rf>manual</src.rf>
@@ -379,7 +379,7 @@
 <LM>w#w-mf920922-052-p2s2w19</LM>
 </w.rf>
 <form>přerušen</form>
-<tag lemma="přerušit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="přerušit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf920922-052-p2s2w20">
 <src.rf>manual</src.rf>
@@ -419,7 +419,7 @@
 <LM>w#w-mf920922-052-p2s2w24</LM>
 </w.rf>
 <form>nastoupilo</form>
-<tag lemma="nastoupit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="nastoupit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-052-p2s2w25">
 <src.rf>manual</src.rf>
@@ -549,7 +549,7 @@
 <LM>w#w-mf920922-052-p2s3w9</LM>
 </w.rf>
 <form>zajelo</form>
-<tag lemma="zajet_^(např._autem)" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zajet_^(např._autem)" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-052-p2s3w10">
 <src.rf>manual</src.rf>

@@ -59,7 +59,7 @@
 <LM>w#w-lnd92255-120-p1s1w6</LM>
 </w.rf>
 <form>učinila</form>
-<tag lemma="učinit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="učinit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-120-p1s1w7">
 <src.rf>manual</src.rf>

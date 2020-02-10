@@ -83,7 +83,7 @@
 <LM>w#w-ln94204-2-p2s1w2</LM>
 </w.rf>
 <form>oslovily</form>
-<tag lemma="oslovit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="oslovit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94204-2-p2s1w3">
 <src.rf>manual</src.rf>
@@ -123,7 +123,7 @@
 <LM>w#w-ln94204-2-p2s1w7</LM>
 </w.rf>
 <form>požádaly</form>
-<tag lemma="požádat_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="požádat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94204-2-p2s1w8">
 <src.rf>manual</src.rf>
@@ -4325,7 +4325,7 @@
 <LM>w#w-ln94204-2-p12s1w3</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94204-2-p12s1w4">
 <src.rf>manual</src.rf>
@@ -4333,7 +4333,7 @@
 <LM>w#w-ln94204-2-p12s1w4</LM>
 </w.rf>
 <form>založena</form>
-<tag lemma="založit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="založit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94204-2-p12s1w5">
 <src.rf>manual</src.rf>
@@ -5389,7 +5389,7 @@
 <LM>w#w-ln94204-2-p13s3w29</LM>
 </w.rf>
 <form>neprovozovala</form>
-<tag lemma="provozovat_:T" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="provozovat" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-ln94204-2-p13s3w30">
 <src.rf>manual</src.rf>
@@ -7147,7 +7147,7 @@
 <LM>w#w-ln94204-2-p17s1w19</LM>
 </w.rf>
 <form>účtována</form>
-<tag lemma="účtovat_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="účtovat" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-ln94204-2-p17s1w20">
 <src.rf>manual</src.rf>
@@ -7190,8 +7190,8 @@
 </w.rf>
 <form>začala</form>
 <tag>
-<AM lemma="začít-1_^(začnout)" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="začít-1_^(začnout)" src="auto">VpQW----R-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94204-2-p18s1w4">

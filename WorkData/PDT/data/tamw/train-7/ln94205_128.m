@@ -43,7 +43,7 @@
 <LM>w#w-ln94205-128-p1s1Aw4</LM>
 </w.rf>
 <form>bojoval</form>
-<tag lemma="bojovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="bojovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94205-128-p1s1Aw5">
 <src.rf>manual</src.rf>

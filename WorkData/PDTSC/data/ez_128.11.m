@@ -364,7 +364,7 @@
 <LM>w#w-d1t2835-8</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m128-d1t2835-9">
 <w.rf>
@@ -391,7 +391,7 @@
 <LM>w#w-d1t2837-2</LM>
 </w.rf>
 <form>Bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m128-d1t2837-1">
 <w.rf>
@@ -456,7 +456,7 @@
 <LM>w#w-d1t2837-14</LM>
 </w.rf>
 <form>dostala</form>
-<tag lemma="dostat" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="dostat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m128-d1t2837-15">
 <w.rf>
@@ -515,7 +515,7 @@
 <LM>w#w-d1t2837-22</LM>
 </w.rf>
 <form>fotil</form>
-<tag lemma="fotit_:T" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="fotit" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m128-d-id162810-punct">
 <w.rf>
@@ -595,7 +595,7 @@
 <LM>w#w-d1t2839-4</LM>
 </w.rf>
 <form>nefotili</form>
-<tag lemma="fotit_:T" src="auto" recommended="1">VpMP---XR-NA---</tag>
+<tag lemma="fotit" src="auto" recommended="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m128-d1t2839-5">
 <w.rf>
@@ -737,7 +737,7 @@
 <LM>w#w-d1t2847-4</LM>
 </w.rf>
 <form>studovala</form>
-<tag lemma="studovat_:T" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="studovat" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m128-d-m-d1e2840-x3-punct-punct">
 <w.rf>
@@ -815,7 +815,7 @@
 <LM>w#w-d1t2857-2</LM>
 </w.rf>
 <form>chodila</form>
-<tag lemma="chodit_:T" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="chodit" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m128-d1t2857-3">
 <w.rf>
@@ -922,7 +922,7 @@
 <LM>w#w-d1t2859-2</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m128-d1t2859-3">
 <w.rf>
@@ -1044,7 +1044,7 @@
 <LM>w#w-d1t2862-1</LM>
 </w.rf>
 <form>musela</form>
-<tag lemma="muset" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="muset" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m128-d1t2862-2">
 <w.rf>
@@ -1426,7 +1426,7 @@
 <LM>w#w-d1t2894-7</LM>
 </w.rf>
 <form>Byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m128-d1t2894-9">
 <w.rf>
@@ -1499,7 +1499,7 @@
 <LM>w#w-d1t2901-2</LM>
 </w.rf>
 <form>zařídil</form>
-<tag lemma="zařídit_:W" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="zařídit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m128-d-id164656-punct">
 <w.rf>
@@ -1541,7 +1541,7 @@
 <LM>w#w-d1t2901-7</LM>
 </w.rf>
 <form>dostali</form>
-<tag lemma="dostat" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="dostat" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m128-d1t2901-8">
 <w.rf>
@@ -1607,7 +1607,7 @@
 <LM>w#w-d1t2901-13</LM>
 </w.rf>
 <form>muselo</form>
-<tag lemma="muset" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="muset" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m128-d1t2901-14">
 <w.rf>
@@ -1698,7 +1698,7 @@
 <LM>w#w-d1t2903-6</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m128-d1t2903-7">
 <w.rf>
@@ -1754,7 +1754,7 @@
 <LM>w#w-d1t2905-4</LM>
 </w.rf>
 <form>převedla</form>
-<tag lemma="převést" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="převést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m128-d1t2905-5">
 <w.rf>
@@ -2055,7 +2055,7 @@
 <LM>w#w-d1t2927-7</LM>
 </w.rf>
 <form>povídalo</form>
-<tag lemma="povídat_:T" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="povídat" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m128-d-m-d1e2924-x2-punct-punct">
 <w.rf>

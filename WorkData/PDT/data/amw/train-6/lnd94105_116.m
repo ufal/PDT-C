@@ -137,7 +137,7 @@
 <LM>w#w-lnd94105-116-p1s1Cw5</LM>
 </w.rf>
 <form>neobhájili</form>
-<tag lemma="obhájit_:W" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="obhájit" src="orig" selected="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m-lnd94105-116-p1s1Cw6">
 <src.rf>manual</src.rf>
@@ -161,7 +161,7 @@
 <LM>w#w-lnd94105-116-p1s1Cw8</LM>
 </w.rf>
 <form>skončili</form>
-<tag lemma="skončit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="skončit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd94105-116-p1s1Cw9">
 <src.rf>manual</src.rf>
@@ -230,7 +230,7 @@
 <LM>w#w-lnd94105-116-p1s2w5</LM>
 </w.rf>
 <form>vypršela</form>
-<tag lemma="vypršet" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vypršet" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94105-116-p1s2w6">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <LM>w#w-lnd94105-116-p1s2w17</LM>
 </w.rf>
 <form>dohodl</form>
-<tag lemma="dohodnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="dohodnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd94105-116-p1s2w18">
 <src.rf>manual</src.rf>
@@ -641,7 +641,7 @@
 <LM>w#w-lnd94105-116-p1s3w32</LM>
 </w.rf>
 <form>upoutala</form>
-<tag lemma="upoutat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="upoutat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94105-116-p1s3w33">
 <src.rf>manual</src.rf>
@@ -883,7 +883,7 @@
 <LM>w#w-lnd94105-116-p1s5w5</LM>
 </w.rf>
 <form>přivítal</form>
-<tag lemma="přivítat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přivítat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94105-116-p1s5w6">
 <src.rf>manual</src.rf>

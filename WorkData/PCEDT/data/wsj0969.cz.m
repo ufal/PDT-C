@@ -69,7 +69,7 @@
 <LM>w#w-wsj0969-001-p1s0W5</LM>
 </w.rf>
 <form>jmenovala</form>
-<tag lemma="jmenovat" src="auto" recommended="1">VpQW---XR-AAB--</tag>
+<tag lemma="jmenovat" src="auto" recommended="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-wsj0969-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -517,7 +517,7 @@
 <LM>w#w-wsj0969-001-p1s1W13</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj0969-001-p1s1W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -525,7 +525,7 @@
 <LM>w#w-wsj0969-001-p1s1W14</LM>
 </w.rf>
 <form>pověřen</form>
-<tag lemma="pověřit" src="auto" recommended="1">VsYS---XX-APP--</tag>
+<tag lemma="pověřit" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj0969-001-p1s1W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -905,7 +905,7 @@
 <LM>w#w-wsj0969-001-p1s2W14</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0969-001-p1s2W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -982,7 +982,7 @@
 <LM>w#w-wsj0969-001-p1s3W2</LM>
 </w.rf>
 <form>vyhlásily</form>
-<tag lemma="vyhlásit" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="vyhlásit" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj0969-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1077,7 +1077,7 @@
 <LM>w#w-wsj0969-001-p1s3W11</LM>
 </w.rf>
 <form>odmítla</form>
-<tag lemma="odmítnout" src="auto" recommended="1">VpQW---XR-AAP-1</tag>
+<tag lemma="odmítnout" src="auto" recommended="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-wsj0969-001-p1s3W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1444,7 +1444,7 @@
 <LM>w#w-wsj0969-001-p1s5W3</LM>
 </w.rf>
 <form>nebyl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-NAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-wsj0969-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1452,7 +1452,7 @@
 <LM>w#w-wsj0969-001-p1s5W4</LM>
 </w.rf>
 <form>stanoven</form>
-<tag lemma="stanovit_^(určit)" src="auto" recommended="1">VsYS---XX-APP--</tag>
+<tag lemma="stanovit_^(určit)" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj0969-001-p1s5W5-Ta">
 <src.rf>tagger-a</src.rf>

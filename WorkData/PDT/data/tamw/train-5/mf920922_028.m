@@ -332,7 +332,7 @@
 <LM>w#w-mf920922-028-p2s2w17</LM>
 </w.rf>
 <form>převzala</form>
-<tag lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920922-028-p2s2w18">
 <src.rf>manual</src.rf>
@@ -537,7 +537,7 @@
 <form>vydala</form>
 <tag>
 <AM lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="vydat_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="vydat" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920922-028-p2s3w17">
@@ -1141,7 +1141,7 @@
 <LM>w#w-mf920922-028-p2s7w8</LM>
 </w.rf>
 <form>obrátila</form>
-<tag lemma="obrátit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="obrátit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920922-028-p2s7w9">
 <src.rf>manual</src.rf>
@@ -1290,7 +1290,7 @@
 <LM>w#w-mf920922-028-p2s7w26</LM>
 </w.rf>
 <form>nahrála</form>
-<tag lemma="nahrát" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="nahrát" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920922-028-p2s7w27">
 <src.rf>manual</src.rf>
@@ -1804,7 +1804,7 @@
 <LM>w#w-mf920922-028-p2s11w4</LM>
 </w.rf>
 <form>nebyl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-mf920922-028-p2s11w5">
 <src.rf>manual</src.rf>
@@ -2181,7 +2181,7 @@
 <LM>w#w-mf920922-028-p2s15w8</LM>
 </w.rf>
 <form>postaven</form>
-<tag lemma="postavit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="postavit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf920922-028-p2s15w9">
 <src.rf>manual</src.rf>
@@ -2607,7 +2607,7 @@
 <LM>w#w-mf920922-028-p2s17w21</LM>
 </w.rf>
 <form>dalo</form>
-<tag lemma="dát" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="dát" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-028-p2s17w22">
 <src.rf>manual</src.rf>
@@ -3105,7 +3105,7 @@
 <LM>w#w-mf920922-028-p2s20w3</LM>
 </w.rf>
 <form>nepřipravilo</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="připravit" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-mf920922-028-p2s20w4">
 <src.rf>manual</src.rf>

@@ -35,7 +35,7 @@
 <LM>w#w-ln95047-018-p1s1w3</LM>
 </w.rf>
 <form>rozčílila</form>
-<tag lemma="rozčílit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="rozčílit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95047-018-p1s1w4">
 <src.rf>manual</src.rf>

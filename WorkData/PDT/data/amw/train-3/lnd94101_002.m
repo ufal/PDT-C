@@ -147,7 +147,7 @@
 <LM>w#w-lnd94101-002-p1s1w17</LM>
 </w.rf>
 <form>zhořkla</form>
-<tag lemma="zhořknout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="zhořknout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 </s>
 </mdata>

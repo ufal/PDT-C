@@ -233,7 +233,7 @@
 <LM>w#w-lnd92257-085-p3s2w20</LM>
 </w.rf>
 <form>vyžádala</form>
-<tag lemma="vyžádat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyžádat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-085-p3s2w21">
 <src.rf>manual</src.rf>
@@ -334,7 +334,7 @@
 <LM>w#w-lnd92257-085-p3s3w6</LM>
 </w.rf>
 <form>obvinily</form>
-<tag lemma="obvinit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="obvinit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-085-p3s3w7">
 <src.rf>manual</src.rf>
@@ -512,7 +512,7 @@
 <LM>w#w-lnd92257-085-p3s4w16</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd92257-085-p3s4w17">
 <src.rf>manual</src.rf>
@@ -536,7 +536,7 @@
 <LM>w#w-lnd92257-085-p3s4w19</LM>
 </w.rf>
 <form>sestřeleny</form>
-<tag lemma="sestřelit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="sestřelit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd92257-085-p3s4w20">
 <src.rf>manual</src.rf>
@@ -869,7 +869,7 @@
 <LM>w#w-lnd92257-085-p3s5w8</LM>
 </w.rf>
 <form>pokusila</form>
-<tag lemma="pokusit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="pokusit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-085-p3s5w9">
 <src.rf>manual</src.rf>

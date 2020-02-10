@@ -202,7 +202,7 @@
 <LM>w#w-mf930713-146-p2s1Bw12</LM>
 </w.rf>
 <form>distribuováno</form>
-<tag lemma="distribuovat_:T" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="distribuovat" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-mf930713-146-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -260,7 +260,7 @@
 <LM>w#w-mf930713-146-p2s2w1</LM>
 </w.rf>
 <form>Vešlo</form>
-<tag lemma="vejít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vejít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-146-p2s2w2">
 <src.rf>manual</src.rf>
@@ -468,7 +468,7 @@
 <LM>w#w-mf930713-146-p2s3w14</LM>
 </w.rf>
 <form>vyváženo</form>
-<tag lemma="vyvážet_:T_^(zboží_přes_hranice)" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="vyvážet_^(zboží_přes_hranice)" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-mf930713-146-p2s3w15">
 <src.rf>manual</src.rf>

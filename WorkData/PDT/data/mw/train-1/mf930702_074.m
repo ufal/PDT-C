@@ -51,7 +51,7 @@
 <LM>w#w-mf930702-074-p1s1w5</LM>
 </w.rf>
 <form>ukázal</form>
-<tag lemma="ukázat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="ukázat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930702-074-p1s1w6">
 <src.rf>manual</src.rf>

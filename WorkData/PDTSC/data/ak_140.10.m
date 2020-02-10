@@ -84,7 +84,7 @@
 <LM>w#w-d1t1697-6</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m140-d1t1697-8">
 <w.rf>
@@ -159,7 +159,7 @@
 <LM>w#w-d1t1699-10</LM>
 </w.rf>
 <form>nevyplatilo</form>
-<tag lemma="vyplatit_:W" src="auto" recommended="1">VpNS---XR-NA---</tag>
+<tag lemma="vyplatit" src="auto" recommended="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m140-d-m-d1e1662-x4-punct-punct">
 <w.rf>
@@ -572,7 +572,7 @@
 <form>vnuk</form>
 <tag>
 <AM lemma="vnuk" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="vnuknout_:W" src="auto">VpYS---XR-AA--6</AM>
+<AM lemma="vnuknout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m140-79-80">
@@ -1168,7 +1168,7 @@
 <LM>w#w-d1t1722-14</LM>
 </w.rf>
 <form>Byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m140-d1t1722-13">
 <w.rf>
@@ -1330,7 +1330,7 @@
 <LM>w#w-d1t1726-17</LM>
 </w.rf>
 <form>neponičily</form>
-<tag lemma="poničit_:W" src="auto" recommended="1">VpTP---XR-NA---</tag>
+<tag lemma="poničit" src="auto" recommended="1">VpTP----R-NAP--</tag>
 </m>
 <m id="m140-d1t1726-20">
 <w.rf>
@@ -2242,7 +2242,7 @@
 <LM>w#w-d1t1778-2</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m140-d1t1778-3">
 <w.rf>
@@ -3060,7 +3060,7 @@
 <LM>w#w-d1t1804-4</LM>
 </w.rf>
 <form>naučil</form>
-<tag lemma="naučit_:W" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="naučit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m140-d1t1804-5">
 <w.rf>
@@ -3145,7 +3145,7 @@
 <LM>w#w-d1t1814-4</LM>
 </w.rf>
 <form>chodil</form>
-<tag lemma="chodit_:T" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="chodit" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m140-d1t1816-9">
 <w.rf>
@@ -3343,7 +3343,7 @@
 <LM>w#w-d1t1819-8</LM>
 </w.rf>
 <form>ptali</form>
-<tag lemma="ptát" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="ptát" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m140-d-id132368-punct">
 <w.rf>
@@ -3409,7 +3409,7 @@
 <LM>w#w-d1t1819-15</LM>
 </w.rf>
 <form>říkal</form>
-<tag lemma="říkat_:T" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="říkat" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m140-329-332">
 <w.rf>
@@ -3449,7 +3449,7 @@
 <LM>w#w-d1t1825-7</LM>
 </w.rf>
 <form>Povedlo</form>
-<tag lemma="povést" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="povést" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m140-d1t1825-4">
 <w.rf>
@@ -3524,7 +3524,7 @@
 <LM>w#w-d1t1825-14</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m140-d1t1825-15">
 <w.rf>
@@ -3624,7 +3624,7 @@
 <LM>w#w-d1t1829-8</LM>
 </w.rf>
 <form>dostal</form>
-<tag lemma="dostat" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="dostat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m140-d1t1829-9">
 <w.rf>
@@ -3698,7 +3698,7 @@
 <LM>w#w-d1t1832-2</LM>
 </w.rf>
 <form>Začal</form>
-<tag lemma="začít-1_^(začnout)" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m140-d1t1832-3">
 <w.rf>
@@ -3780,7 +3780,7 @@
 <LM>w#w-d1t1832-14</LM>
 </w.rf>
 <form>Zůstalo</form>
-<tag lemma="zůstat" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="zůstat" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m140-d1t1832-15">
 <w.rf>
@@ -3889,7 +3889,7 @@
 <LM>w#w-d1t1836-6</LM>
 </w.rf>
 <form>ulovil</form>
-<tag lemma="ulovit_:W" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="ulovit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m140-d-id133387-punct">
 <w.rf>

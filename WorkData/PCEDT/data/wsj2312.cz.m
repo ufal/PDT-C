@@ -73,7 +73,7 @@
 <LM>w#w-wsj2312-001-p1s0W6</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2312-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -100,7 +100,7 @@
 <LM>w#w-wsj2312-001-p1s0W9</LM>
 </w.rf>
 <form>objevila</form>
-<tag lemma="objevit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="objevit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2312-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -176,7 +176,7 @@
 <tag>
 <AM lemma="vrt" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="vrt" src="auto">NNIS4-----A----</AM>
-<AM lemma="vrtnout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="vrtnout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-wsj2312-001-p1s1W2-Ta">
@@ -185,7 +185,7 @@
 <LM>w#w-wsj2312-001-p1s1W2</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="mít" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj2312-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -247,7 +247,7 @@
 <AM lemma="stopa_^(míra;_otisk_s.;_s._po_něčem_[malé_množství])" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="stopit_^(úplně_spotřebovat_topením)" src="auto">Vi-S---2--A-P--</AM>
 <AM lemma="stopit_^(úplně_spotřebovat_topením)" src="auto">Vi-S---3--A-P-4</AM>
-<AM lemma="stopnout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="stopnout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-wsj2312-001-p1s1W8-Ta">
@@ -413,7 +413,7 @@
 <AM lemma="stopa_^(míra;_otisk_s.;_s._po_něčem_[malé_množství])" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="stopit_^(úplně_spotřebovat_topením)" src="auto">Vi-S---2--A-P--</AM>
 <AM lemma="stopit_^(úplně_spotřebovat_topením)" src="auto">Vi-S---3--A-P-4</AM>
-<AM lemma="stopnout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="stopnout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-wsj2312-001-p1s1W21-Ta">
@@ -626,7 +626,7 @@
 <LM>w#w-wsj2312-001-p1s3W6</LM>
 </w.rf>
 <form>stouply</form>
-<tag lemma="stoupnout" src="auto" recommended="1">VpTP---XR-AAP-1</tag>
+<tag lemma="stoupnout" src="auto" recommended="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-wsj2312-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -707,7 +707,7 @@
 <LM>w#w-wsj2312-001-p1s3W14</LM>
 </w.rf>
 <form>uzavřely</form>
-<tag lemma="uzavřít" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="uzavřít" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj2312-001-p1s3W15-Ta">
 <src.rf>tagger-a</src.rf>

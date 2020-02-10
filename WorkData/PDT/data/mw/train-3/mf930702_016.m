@@ -305,7 +305,7 @@
 <LM>w#w-mf930702-016-p2s2w1</LM>
 </w.rf>
 <form>Rozhodlo</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpNS---XR-AA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpNS----R-AAP-1</tag>
 </m>
 <m id="m-mf930702-016-p2s2w2">
 <src.rf>manual</src.rf>
@@ -517,7 +517,7 @@
 <LM>w#w-mf930702-016-p2s4w9</LM>
 </w.rf>
 <form>neprošel</form>
-<tag lemma="projít_^(i_uplynout_[o_čase])" src="auto" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="projít_^(i_uplynout_[o_čase])" src="auto" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-mf930702-016-p2s4w10">
 <src.rf>manual</src.rf>
@@ -701,7 +701,7 @@
 <LM>w#w-mf930702-016-p2s5w21</LM>
 </w.rf>
 <form>označil</form>
-<tag lemma="označit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="označit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930702-016-p2s5w22">
 <src.rf>manual</src.rf>
@@ -845,7 +845,7 @@
 <LM>w#w-mf930702-016-p2s6w12</LM>
 </w.rf>
 <form>vypracovala</form>
-<tag lemma="vypracovat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vypracovat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930702-016-p2s6w13">
 <src.rf>manual</src.rf>
@@ -951,7 +951,7 @@
 <LM>w#w-mf930702-016-p2s7w6</LM>
 </w.rf>
 <form>nepočítala</form>
-<tag lemma="počítat_:T" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="počítat" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-mf930702-016-p2s7w7">
 <src.rf>manual</src.rf>

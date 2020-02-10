@@ -828,7 +828,7 @@
 <LM>w#w-lnd94103-106-p1s22w5</LM>
 </w.rf>
 <form>zaneseny</form>
-<tag lemma="zanést" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="zanést" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd94103-106-p1s22w6">
 <src.rf>manual</src.rf>

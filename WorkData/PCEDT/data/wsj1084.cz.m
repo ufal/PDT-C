@@ -91,7 +91,7 @@
 <LM>w#w-wsj1084-001-p1s0W7</LM>
 </w.rf>
 <form>stouply</form>
-<tag lemma="stoupnout" src="auto" recommended="1">VpTP---XR-AAP-1</tag>
+<tag lemma="stoupnout" src="auto" recommended="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-wsj1084-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -282,7 +282,7 @@
 <LM>w#w-wsj1084-001-p1s1W2</LM>
 </w.rf>
 <form>poznamenal</form>
-<tag lemma="poznamenat" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="poznamenat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1084-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -410,7 +410,7 @@
 <tag>
 <AM lemma="odhad" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="odhad" src="auto">NNIS4-----A----</AM>
-<AM lemma="odhadnout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="odhadnout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-wsj1084-001-p1s1W13-Ta">
@@ -554,7 +554,7 @@
 <LM>w#w-wsj1084-001-p1s2W3</LM>
 </w.rf>
 <form>poznamenal</form>
-<tag lemma="poznamenat" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="poznamenat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1084-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -607,7 +607,7 @@
 <tag>
 <AM lemma="odhad" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="odhad" src="auto">NNIS4-----A----</AM>
-<AM lemma="odhadnout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="odhadnout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-wsj1084-001-p1s2W9-Ta">
@@ -695,7 +695,7 @@
 <LM>w#w-wsj1084-001-p1s3W4</LM>
 </w.rf>
 <form>neodhadl</form>
-<tag lemma="odhadnout" src="auto" recommended="1">VpYS---XR-NAP-1</tag>
+<tag lemma="odhadnout" src="auto" recommended="1">VpYS----R-NAP-1</tag>
 </m>
 <m id="m-wsj1084-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -878,7 +878,7 @@
 <LM>w#w-wsj1084-001-p1s3W19</LM>
 </w.rf>
 <form>posunul</form>
-<tag lemma="posunout" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="posunout" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1084-001-p1s3W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1141,7 +1141,7 @@
 <LM>w#w-wsj1084-001-p1s4W4</LM>
 </w.rf>
 <form>činil</form>
-<tag lemma="činit" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="činit" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1084-001-p1s4W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1267,7 +1267,7 @@
 <LM>w#w-wsj1084-001-p1s4W16</LM>
 </w.rf>
 <form>rovnal</form>
-<tag lemma="rovnat" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="rovnat" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1084-001-p1s4W17-Ta">
 <src.rf>tagger-a</src.rf>

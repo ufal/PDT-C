@@ -141,7 +141,7 @@
 <LM>w#w-mf930701-116-p1s2w8</LM>
 </w.rf>
 <form>získala</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930701-116-p1s2w9">
 <src.rf>manual</src.rf>

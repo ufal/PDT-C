@@ -59,7 +59,7 @@
 <LM>w#w-mf920923-015-p1s1w6</LM>
 </w.rf>
 <form>vyměněny</form>
-<tag lemma="vyměnit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="vyměnit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-mf920923-015-p1s1w7">
 <src.rf>manual</src.rf>

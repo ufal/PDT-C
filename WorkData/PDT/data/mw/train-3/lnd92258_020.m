@@ -713,7 +713,7 @@
 <LM>w#w-lnd92258-020-p2s4w15</LM>
 </w.rf>
 <form>otevřela</form>
-<tag lemma="otevřít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="otevřít" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-020-p2s4w16">
 <src.rf>manual</src.rf>

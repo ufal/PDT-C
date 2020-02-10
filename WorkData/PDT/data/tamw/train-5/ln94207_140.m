@@ -488,7 +488,7 @@
 <LM>w#w-ln94207-140-p3s1w21</LM>
 </w.rf>
 <form>operován</form>
-<tag lemma="operovat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="operovat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-ln94207-140-p3s1w22">
 <src.rf>manual</src.rf>
@@ -607,7 +607,7 @@
 <LM>w#w-ln94207-140-p3s2w7</LM>
 </w.rf>
 <form>podrobilo</form>
-<tag lemma="podrobit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="podrobit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94207-140-p3s2w8">
 <src.rf>manual</src.rf>
@@ -1015,7 +1015,7 @@
 <LM>w#w-ln94207-140-p3s6w4</LM>
 </w.rf>
 <form>řečeno</form>
-<tag lemma="říci" src="auto" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="říci" src="auto" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94207-140-p3s6w5">
 <src.rf>manual</src.rf>
@@ -1773,7 +1773,7 @@
 <LM>w#w-ln94207-140-p3s14w4</LM>
 </w.rf>
 <form>uvažovalo</form>
-<tag lemma="uvažovat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="uvažovat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94207-140-p3s14w5">
 <src.rf>manual</src.rf>
@@ -1871,7 +1871,7 @@
 <form>nestalo</form>
 <tag>
 <AM lemma="stát-2_^(něco_se_přihodilo)" src="orig">VpNS---XR-NA---</AM>
-<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpNS---XR-NA---</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="manual" selected="1">VpNS----R-NAP--</AM>
 </tag>
 </m>
 <m id="m-ln94207-140-p3s14w17">
@@ -2037,7 +2037,7 @@
 <LM>w#w-ln94207-140-p3s15w17</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94207-140-p3s15w18">
 <src.rf>manual</src.rf>
@@ -2061,7 +2061,7 @@
 <LM>w#w-ln94207-140-p3s15w20</LM>
 </w.rf>
 <form>inzerováno</form>
-<tag lemma="inzerovat_:T_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="inzerovat" src="orig" selected="1">VsNS----X-APB--</tag>
 </m>
 <m id="m-ln94207-140-p3s15w21">
 <src.rf>manual</src.rf>
@@ -2130,7 +2130,7 @@
 <LM>w#w-ln94207-140-p3s16w5</LM>
 </w.rf>
 <form>nepodařilo</form>
-<tag lemma="podařit_:W" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="podařit" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-ln94207-140-p3s16w6">
 <src.rf>manual</src.rf>
@@ -2229,7 +2229,7 @@
 <LM>w#w-ln94207-140-p3s17w10</LM>
 </w.rf>
 <form>zřízeno</form>
-<tag lemma="zřídit" src="auto" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zřídit" src="auto" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94207-140-p3s17w11">
 <src.rf>manual</src.rf>
@@ -2237,7 +2237,7 @@
 <LM>w#w-ln94207-140-p3s17w11</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94207-140-p3s17w12">
 <src.rf>manual</src.rf>

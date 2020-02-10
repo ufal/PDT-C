@@ -86,7 +86,7 @@
 <LM>w#w-vesm9212-044-p1s1w9</LM>
 </w.rf>
 <form>vystudoval</form>
-<tag lemma="vystudovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vystudovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-vesm9212-044-p1s1w10">
 <src.rf>manual</src.rf>

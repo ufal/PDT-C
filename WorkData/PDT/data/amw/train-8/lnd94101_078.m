@@ -437,8 +437,8 @@
 </w.rf>
 <form>přiletěl</form>
 <tag>
-<AM lemma="přiletět" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="přiletět_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="přiletět" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="přiletět" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd94101-078-p1s3Bw10">
@@ -545,7 +545,7 @@
 <LM>w#w-lnd94101-078-p1s4w7</LM>
 </w.rf>
 <form>zkoušel</form>
-<tag lemma="zkoušet_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zkoušet" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94101-078-p1s4w8">
 <src.rf>manual</src.rf>
@@ -621,7 +621,7 @@
 <LM>w#w-lnd94101-078-p1s6w2</LM>
 </w.rf>
 <form>ubytována</form>
-<tag lemma="ubytovat_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="ubytovat" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd94101-078-p1s6w3">
 <src.rf>manual</src.rf>
@@ -853,7 +853,7 @@
 <LM>w#w-lnd94101-078-p1s7w12</LM>
 </w.rf>
 <form>plánována</form>
-<tag lemma="plánovat_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="plánovat" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-lnd94101-078-p1s7w13">
 <src.rf>manual</src.rf>
@@ -1543,7 +1543,7 @@
 <LM>w#w-lnd94101-078-p1s13w7</LM>
 </w.rf>
 <form>zajistily</form>
-<tag lemma="zajistit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zajistit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-078-p1s13w8">
 <src.rf>manual</src.rf>
@@ -1665,7 +1665,7 @@
 <LM>w#w-lnd94101-078-p1s14w4</LM>
 </w.rf>
 <form>zahrnuty</form>
-<tag lemma="zahrnout" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="zahrnout" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd94101-078-p1s14w5">
 <src.rf>manual</src.rf>
@@ -2212,7 +2212,7 @@
 <LM>w#w-lnd94101-078-p1s18w6</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94101-078-p1s18w7">
 <src.rf>manual</src.rf>

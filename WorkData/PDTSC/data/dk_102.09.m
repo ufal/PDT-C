@@ -244,7 +244,7 @@
 <LM>w#w-d1t2549-6</LM>
 </w.rf>
 <form>oslovil</form>
-<tag lemma="oslovit_:W" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="oslovit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m102-d-id132862-punct">
 <w.rf>
@@ -279,7 +279,7 @@
 <LM>w#w-d1t2560-1</LM>
 </w.rf>
 <form>Nedělal</form>
-<tag lemma="dělat_:T" src="auto" recommended="1">VpYS---XR-NA---</tag>
+<tag lemma="dělat" src="auto" recommended="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m102-d1t2560-4">
 <w.rf>
@@ -502,7 +502,7 @@
 <LM>w#w-d1t2574-3</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m102-d1t2574-4">
 <w.rf>
@@ -699,7 +699,7 @@
 <LM>w#w-d1t2592-7</LM>
 </w.rf>
 <form>povídalo</form>
-<tag lemma="povídat_:T" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="povídat" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m102-d-m-d1e2589-x2-punct-punct">
 <w.rf>

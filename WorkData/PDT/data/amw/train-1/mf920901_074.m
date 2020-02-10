@@ -785,7 +785,7 @@
 <LM>w#w-mf920901-074-p1s4w9</LM>
 </w.rf>
 <form>poskytly</form>
-<tag lemma="poskytnout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="poskytnout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-mf920901-074-p1s4w10">
 <src.rf>manual</src.rf>
@@ -1174,8 +1174,8 @@
 </w.rf>
 <form>pronajalo</form>
 <tag>
-<AM lemma="pronajmout" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="pronajmout_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="pronajmout" src="orig">VpNS----R-AAP--</AM>
+<AM lemma="pronajmout" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920901-074-p1s6w8">

@@ -191,7 +191,7 @@
 <LM>w#w-ln94204-4-p2s1Bw14</LM>
 </w.rf>
 <form>přibyly</form>
-<tag lemma="přibýt" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="přibýt" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94204-4-p2s1Bw15">
 <src.rf>manual</src.rf>

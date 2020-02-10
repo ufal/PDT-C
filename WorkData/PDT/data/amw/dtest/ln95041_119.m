@@ -274,7 +274,7 @@
 <LM>w#w-ln95041-119-p3s2w9</LM>
 </w.rf>
 <form>sesadili</form>
-<tag lemma="sesadit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="sesadit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95041-119-p3s2w10">
 <src.rf>manual</src.rf>
@@ -493,7 +493,7 @@
 <LM>w#w-ln95041-119-p3s3w13</LM>
 </w.rf>
 <form>vynaložil</form>
-<tag lemma="vynaložit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vynaložit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95041-119-p3s3w14">
 <src.rf>manual</src.rf>

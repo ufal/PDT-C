@@ -51,7 +51,7 @@
 <LM>w#w-ln94205-89-p1s1w5</LM>
 </w.rf>
 <form>zahájily</form>
-<tag lemma="zahájit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zahájit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94205-89-p1s1w6">
 <src.rf>manual</src.rf>

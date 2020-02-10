@@ -155,7 +155,7 @@
 <LM>w#w-mf920924-078-p1s1w18</LM>
 </w.rf>
 <form>seděl</form>
-<tag lemma="sedět" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sedět" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920924-078-p1s1w19">
 <src.rf>manual</src.rf>

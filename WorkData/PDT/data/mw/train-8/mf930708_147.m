@@ -35,7 +35,7 @@
 <LM>w#w-mf930708-147-p1s1w3</LM>
 </w.rf>
 <form>omezily</form>
-<tag lemma="omezit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="omezit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf930708-147-p1s1w4">
 <src.rf>manual</src.rf>
@@ -305,7 +305,7 @@
 <LM>w#w-mf930708-147-p2s3w4</LM>
 </w.rf>
 <form>přijali</form>
-<tag lemma="přijmout" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přijmout" src="auto" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930708-147-p2s3w5">
 <src.rf>manual</src.rf>
@@ -675,7 +675,7 @@
 <LM>w#w-mf930708-147-p3s1w2</LM>
 </w.rf>
 <form>vyčkávaly</form>
-<tag lemma="vyčkávat_:T_^(*4at)" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vyčkávat_^(*4at)" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930708-147-p3s1w3">
 <src.rf>manual</src.rf>

@@ -367,7 +367,7 @@
 <LM>w#w-lnd92254-102-p3s3w7</LM>
 </w.rf>
 <form>konstatoval</form>
-<tag lemma="konstatovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="konstatovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-lnd92254-102-p3s3w8">
 <src.rf>manual</src.rf>
@@ -653,7 +653,7 @@
 <LM>w#w-lnd92254-102-p3s4w11</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92254-102-p3s4w12">
 <src.rf>manual</src.rf>
@@ -683,7 +683,7 @@
 <LM>w#w-lnd92254-102-p3s4w14</LM>
 </w.rf>
 <form>vyznamenáno</form>
-<tag lemma="vyznamenat_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="vyznamenat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92254-102-p3s4w15">
 <src.rf>manual</src.rf>
@@ -1119,8 +1119,8 @@
 </w.rf>
 <form>obdrželo</form>
 <tag>
-<AM lemma="obdržet" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="obdržet_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="obdržet" src="orig">VpNS----R-AAP--</AM>
+<AM lemma="obdržet" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92254-102-p3s6w5">

@@ -258,7 +258,7 @@
 <LM>w#w-mf920925-045-p2s2w19</LM>
 </w.rf>
 <form>přestoupili</form>
-<tag lemma="přestoupit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přestoupit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920925-045-p2s2w20">
 <src.rf>manual</src.rf>
@@ -324,7 +324,7 @@
 <LM>w#w-mf920925-045-p2s3w5</LM>
 </w.rf>
 <form>rozloučili</form>
-<tag lemma="rozloučit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="rozloučit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920925-045-p2s3w6">
 <src.rf>manual</src.rf>
@@ -817,7 +817,7 @@
 <LM>w#w-mf920925-045-p2s6w5</LM>
 </w.rf>
 <form>posílila</form>
-<tag lemma="posílit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="posílit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920925-045-p2s6w6">
 <src.rf>manual</src.rf>
@@ -931,7 +931,7 @@
 <LM>w#w-mf920925-045-p2s7w4</LM>
 </w.rf>
 <form>hlášeny</form>
-<tag lemma="hlásit" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="hlásit" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf920925-045-p2s7w5">
 <src.rf>manual</src.rf>

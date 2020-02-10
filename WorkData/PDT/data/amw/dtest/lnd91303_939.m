@@ -112,7 +112,7 @@
 <LM>w#w-lnd91303-939-p2s1Cw3</LM>
 </w.rf>
 <form>oslavili</form>
-<tag lemma="oslavit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="oslavit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-939-p2s1Cw4">
 <src.rf>manual</src.rf>
@@ -314,7 +314,7 @@
 <LM>w#w-lnd91303-939-p3s1w15</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-939-p3s1w16">
 <src.rf>manual</src.rf>
@@ -546,7 +546,7 @@
 <LM>w#w-lnd91303-939-p5s5w4</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-939-p5s5w5">
 <src.rf>manual</src.rf>
@@ -602,7 +602,7 @@
 <LM>w#w-lnd91303-939-p5s5w11</LM>
 </w.rf>
 <form>nedopadlo</form>
-<tag lemma="dopadnout_:W" src="orig" selected="1">VpNS---XR-NA--1</tag>
+<tag lemma="dopadnout" src="orig" selected="1">VpNS----R-NAP-1</tag>
 </m>
 <m id="m-lnd91303-939-p5s5w12">
 <src.rf>manual</src.rf>

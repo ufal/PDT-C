@@ -43,7 +43,7 @@
 <LM>w#w-ln94207-4-p1s1w4</LM>
 </w.rf>
 <form>našel</form>
-<tag lemma="najít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="najít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94207-4-p1s1w5">
 <src.rf>manual</src.rf>

@@ -135,7 +135,7 @@
 <LM>w#w-lnd92254-042-p2s2w7</LM>
 </w.rf>
 <form>pořádaly</form>
-<tag lemma="pořádat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="pořádat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd92254-042-p2s2w8">
 <src.rf>manual</src.rf>
@@ -459,7 +459,7 @@
 <LM>w#w-lnd92254-042-p2s5w1</LM>
 </w.rf>
 <form>Dodal</form>
-<tag lemma="dodat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dodat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92254-042-p2s5w2">
 <src.rf>manual</src.rf>

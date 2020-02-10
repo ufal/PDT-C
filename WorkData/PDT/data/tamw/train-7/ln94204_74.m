@@ -185,7 +185,7 @@
 <LM>w#w-ln94204-74-p2s1w20</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94204-74-p2s1w21">
 <src.rf>manual</src.rf>
@@ -193,7 +193,7 @@
 <LM>w#w-ln94204-74-p2s1w21</LM>
 </w.rf>
 <form>vyčíslena</form>
-<tag lemma="vyčíslit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="vyčíslit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94204-74-p2s1w22">
 <src.rf>manual</src.rf>

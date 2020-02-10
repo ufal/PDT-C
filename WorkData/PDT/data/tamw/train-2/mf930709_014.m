@@ -35,7 +35,7 @@
 <LM>w#w-mf930709-014-p3s1w3</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930709-014-p3s1w4">
 <src.rf>manual</src.rf>
@@ -51,7 +51,7 @@
 <LM>w#w-mf930709-014-p3s1w5</LM>
 </w.rf>
 <form>zavedena</form>
-<tag lemma="zavést" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zavést" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf930709-014-p3s1w6">
 <src.rf>manual</src.rf>
@@ -306,7 +306,7 @@
 <LM>w#w-mf930709-014-p3s3w11</LM>
 </w.rf>
 <form>přiváděny</form>
-<tag lemma="přivádět_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="přivádět" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf930709-014-p3s3w12">
 <src.rf>manual</src.rf>
@@ -548,7 +548,7 @@
 <LM>w#w-mf930709-014-p4s2w9</LM>
 </w.rf>
 <form>podrobil</form>
-<tag lemma="podrobit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="podrobit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-014-p4s2w10">
 <src.rf>manual</src.rf>

@@ -106,7 +106,7 @@
 <LM>w#w-wsj1444-001-p1s0W8</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj1444-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -175,7 +175,7 @@
 <LM>w#w-wsj1444-001-p1s0W12</LM>
 </w.rf>
 <form>zaregistrovány</form>
-<tag lemma="zaregistrovat" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="zaregistrovat" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj1444-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>

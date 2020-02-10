@@ -100,7 +100,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>zaplatila</form>
-<tag lemma="zaplatit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zaplatit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94202-104-p1s1Aw12">
 <src.rf>manual</src.rf>

@@ -213,7 +213,7 @@
 <LM>w#w-mf930701-050-p1s2w9</LM>
 </w.rf>
 <form>obrátil</form>
-<tag lemma="obrátit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="obrátit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-050-p1s2w10">
 <src.rf>manual</src.rf>

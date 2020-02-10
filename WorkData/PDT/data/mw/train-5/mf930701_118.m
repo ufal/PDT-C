@@ -165,7 +165,7 @@
 <LM>w#w-mf930701-118-p2s1w18</LM>
 </w.rf>
 <form>vyhrál</form>
-<tag lemma="vyhrát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyhrát" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-118-p2s1w19">
 <src.rf>manual</src.rf>
@@ -223,7 +223,7 @@
 <LM>w#w-mf930701-118-p2s2w2</LM>
 </w.rf>
 <form>vypsali</form>
-<tag lemma="vypsat" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vypsat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930701-118-p2s2w3">
 <src.rf>manual</src.rf>
@@ -350,7 +350,7 @@
 <LM>w#w-mf930701-118-p3s1w4</LM>
 </w.rf>
 <form>dominovali</form>
-<tag lemma="dominovat_:T_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="dominovat" src="orig" selected="1">VpMP----R-AAB--</tag>
 </m>
 <m id="m-mf930701-118-p3s1w5">
 <src.rf>manual</src.rf>
@@ -449,7 +449,7 @@
 <LM>w#w-mf930701-118-p3s2w9</LM>
 </w.rf>
 <form>poslal</form>
-<tag lemma="poslat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="poslat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-118-p3s2w10">
 <src.rf>manual</src.rf>
@@ -524,7 +524,7 @@
 <LM>w#w-mf930701-118-p3s2w17</LM>
 </w.rf>
 <form>zlepšil</form>
-<tag lemma="zlepšit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zlepšit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-118-p3s2w18">
 <src.rf>manual</src.rf>

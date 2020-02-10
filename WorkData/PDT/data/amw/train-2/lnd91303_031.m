@@ -143,7 +143,7 @@
 <LM>w#w-lnd91303-031-p3s1w10</LM>
 </w.rf>
 <form>naplnily</form>
-<tag lemma="naplnit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="naplnit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-031-p3s1w11">
 <src.rf>manual</src.rf>
@@ -403,7 +403,7 @@
 <LM>w#w-lnd91303-031-p3s3w10</LM>
 </w.rf>
 <form>orientoval</form>
-<tag lemma="orientovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="orientovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-lnd91303-031-p3s3w11">
 <src.rf>manual</src.rf>
@@ -504,7 +504,7 @@
 <LM>w#w-lnd91303-031-p3s4w8</LM>
 </w.rf>
 <form>dostalo</form>
-<tag lemma="dostat" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="dostat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-031-p3s4w9">
 <src.rf>manual</src.rf>

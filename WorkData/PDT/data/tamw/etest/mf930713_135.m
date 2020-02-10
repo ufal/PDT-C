@@ -175,7 +175,7 @@
 <LM>w#w-mf930713-135-p2s1Bw12</LM>
 </w.rf>
 <form>otevřel</form>
-<tag lemma="otevřít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="otevřít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-135-p2s1Bw13">
 <src.rf>manual</src.rf>

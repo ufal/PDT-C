@@ -111,7 +111,7 @@
 <LM>w#w-mf930709-151-p2s1Bw4</LM>
 </w.rf>
 <form>oznámili</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930709-151-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -143,7 +143,7 @@
 <LM>w#w-mf930709-151-p2s1Bw8</LM>
 </w.rf>
 <form>pokročili</form>
-<tag lemma="pokročit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="pokročit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930709-151-p2s1Bw9">
 <src.rf>manual</src.rf>
@@ -201,7 +201,7 @@
 <LM>w#w-mf930709-151-p2s2w1</LM>
 </w.rf>
 <form>Vyvinuli</form>
-<tag lemma="vyvinout" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyvinout" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930709-151-p2s2w2">
 <src.rf>manual</src.rf>
@@ -257,7 +257,7 @@
 <LM>w#w-mf930709-151-p2s2w8</LM>
 </w.rf>
 <form>pomohla</form>
-<tag lemma="pomoci" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="pomoci" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930709-151-p2s2w9">
 <src.rf>manual</src.rf>
@@ -323,7 +323,7 @@
 <LM>w#w-mf930709-151-p2s3w1</LM>
 </w.rf>
 <form>Zdůraznili</form>
-<tag lemma="zdůraznit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zdůraznit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930709-151-p2s3w2">
 <src.rf>manual</src.rf>
@@ -421,7 +421,7 @@
 <LM>w#w-mf930709-151-p2s4w2</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930709-151-p2s4w3">
 <src.rf>manual</src.rf>
@@ -429,7 +429,7 @@
 <LM>w#w-mf930709-151-p2s4w3</LM>
 </w.rf>
 <form>testována</form>
-<tag lemma="testovat_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="testovat" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-mf930709-151-p2s4w4">
 <src.rf>manual</src.rf>
@@ -501,7 +501,7 @@
 <LM>w#w-mf930709-151-p2s4w12</LM>
 </w.rf>
 <form>nebyl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-mf930709-151-p2s4w13">
 <src.rf>manual</src.rf>

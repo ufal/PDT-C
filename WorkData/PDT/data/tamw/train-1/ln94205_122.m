@@ -133,7 +133,7 @@
 <LM>w#w-ln94205-122-p2s1w14</LM>
 </w.rf>
 <form>porazili</form>
-<tag lemma="porazit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="porazit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94205-122-p2s1w15">
 <src.rf>manual</src.rf>

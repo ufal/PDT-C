@@ -792,7 +792,7 @@
 <LM>w#w-mf930713-001-p3s6w8</LM>
 </w.rf>
 <form>uchovali</form>
-<tag lemma="uchovat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="uchovat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930713-001-p3s6w9">
 <src.rf>manual</src.rf>

@@ -349,8 +349,8 @@
 </w.rf>
 <form>Řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930713-071-p2s2w2">
@@ -591,7 +591,7 @@
 <LM>w#w-mf930713-071-p2s3w18</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930713-071-p2s3w19">
 <src.rf>manual</src.rf>
@@ -623,7 +623,7 @@
 <LM>w#w-mf930713-071-p2s3w22</LM>
 </w.rf>
 <form>zničeny</form>
-<tag lemma="zničit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="zničit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-mf930713-071-p2s3w23">
 <src.rf>manual</src.rf>
@@ -639,7 +639,7 @@
 <LM>w#w-mf930713-071-p2s3w24</LM>
 </w.rf>
 <form>ztraceny</form>
-<tag lemma="ztratit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="ztratit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-mf930713-071-p2s3w25">
 <src.rf>manual</src.rf>
@@ -679,7 +679,7 @@
 <LM>w#w-mf930713-071-p2s3w29</LM>
 </w.rf>
 <form>nechali</form>
-<tag lemma="nechat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="nechat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930713-071-p2s3w30">
 <src.rf>manual</src.rf>

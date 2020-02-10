@@ -27,7 +27,7 @@
 <LM>w#w-mf930709-038-p1s1w2</LM>
 </w.rf>
 <form>devalvoval</form>
-<tag lemma="devalvovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="devalvovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-mf930709-038-p1s1w3">
 <src.rf>manual</src.rf>
@@ -151,7 +151,7 @@
 <LM>w#w-mf930709-038-p2s1Bw10</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930709-038-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -230,7 +230,7 @@
 <AM lemma="Boda-2_;G" src="auto">NNFP2-----A----</AM>
 <AM lemma="bod" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="bod" src="auto">NNIS4-----A----</AM>
-<AM lemma="bodnout_:W" src="auto">VpYS---XR-AA--6</AM>
+<AM lemma="bodnout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-mf930709-038-p2s2w6">
@@ -239,7 +239,7 @@
 <LM>w#w-mf930709-038-p2s2w6</LM>
 </w.rf>
 <form>odůvodnil</form>
-<tag lemma="odůvodnit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odůvodnit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-038-p2s2w7">
 <src.rf>manual</src.rf>

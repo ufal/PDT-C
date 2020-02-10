@@ -1724,7 +1724,7 @@
 <LM>w#w-cmpr9413-032-p8s2w16</LM>
 </w.rf>
 <form>vtěleny</form>
-<tag lemma="vtělit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="vtělit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-cmpr9413-032-p8s2w17">
 <src.rf>manual</src.rf>
@@ -2652,7 +2652,7 @@
 <LM>w#w-cmpr9413-032-p12s1w4</LM>
 </w.rf>
 <form>měli</form>
-<tag lemma="mít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-cmpr9413-032-p12s1w5">
 <src.rf>manual</src.rf>

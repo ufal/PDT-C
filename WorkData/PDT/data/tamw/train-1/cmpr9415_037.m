@@ -761,7 +761,7 @@
 <LM>w#w-cmpr9415-037-p8s1w10</LM>
 </w.rf>
 <form>vyráběny</form>
-<tag lemma="vyrábět_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="vyrábět" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-cmpr9415-037-p8s1w11">
 <src.rf>manual</src.rf>

@@ -357,7 +357,7 @@
 <LM>w#w-ln94208-27-p2s2w4</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94208-27-p2s2w5">
 <src.rf>manual</src.rf>

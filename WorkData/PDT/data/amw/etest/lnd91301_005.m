@@ -61,7 +61,7 @@
 <LM>w#w-lnd91301-005-p2s1w4</LM>
 </w.rf>
 <form>tradoval</form>
-<tag lemma="tradovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="tradovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd91301-005-p2s1w5">
 <src.rf>manual</src.rf>
@@ -291,7 +291,7 @@
 <LM>w#w-lnd91301-005-p2s2w11</LM>
 </w.rf>
 <form>připomínaly</form>
-<tag lemma="připomínat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="připomínat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd91301-005-p2s2w12">
 <src.rf>manual</src.rf>
@@ -391,7 +391,7 @@
 <LM>w#w-lnd91301-005-p2s3w6</LM>
 </w.rf>
 <form>nemělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-lnd91301-005-p2s3w7">
 <src.rf>manual</src.rf>
@@ -561,7 +561,7 @@
 <LM>w#w-lnd91301-005-p3s1w17</LM>
 </w.rf>
 <form>nezměnilo</form>
-<tag lemma="změnit_:W" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="změnit" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-lnd91301-005-p3s1w18">
 <src.rf>manual</src.rf>
@@ -673,7 +673,7 @@
 <LM>w#w-lnd91301-005-p3s2w11</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd91301-005-p3s2w12">
 <src.rf>manual</src.rf>
@@ -1688,7 +1688,7 @@
 <LM>w#w-lnd91301-005-p4s4w10</LM>
 </w.rf>
 <form>měli</form>
-<tag lemma="mít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd91301-005-p4s4w11">
 <src.rf>manual</src.rf>
@@ -1892,7 +1892,7 @@
 <LM>w#w-lnd91301-005-p5s1w10</LM>
 </w.rf>
 <form>otiskli</form>
-<tag lemma="otisknout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="otisknout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-lnd91301-005-p5s1w11">
 <src.rf>manual</src.rf>
@@ -2341,8 +2341,8 @@
 </w.rf>
 <form>Dalo</form>
 <tag>
-<AM lemma="dát" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="dát_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="dát" src="orig">VpNS----R-AAP--</AM>
+<AM lemma="dát" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd91301-005-p6s1w2">

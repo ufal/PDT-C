@@ -35,7 +35,7 @@
 <LM>w#w-ln94207-27-p1s1w3</LM>
 </w.rf>
 <form>vyprovokovala</form>
-<tag lemma="vyprovokovat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyprovokovat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94207-27-p1s1w4">
 <src.rf>manual</src.rf>
@@ -119,7 +119,7 @@
 <LM>w#w-ln94207-27-p2s1Bw7</LM>
 </w.rf>
 <form>vyzvala</form>
-<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94207-27-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -223,7 +223,7 @@
 <LM>w#w-ln94207-27-p2s1Bw20</LM>
 </w.rf>
 <form>utkaly</form>
-<tag lemma="utkat_:T_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="utkat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94207-27-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -313,7 +313,7 @@
 <LM>w#w-ln94207-27-p2s2w6</LM>
 </w.rf>
 <form>pokusili</form>
-<tag lemma="pokusit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="pokusit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94207-27-p2s2w7">
 <src.rf>manual</src.rf>
@@ -401,7 +401,7 @@
 <LM>w#w-ln94207-27-p2s2w17</LM>
 </w.rf>
 <form>ustoupili</form>
-<tag lemma="ustoupit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="ustoupit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94207-27-p2s2w18">
 <src.rf>manual</src.rf>
@@ -449,7 +449,7 @@
 <LM>w#w-ln94207-27-p2s2w23</LM>
 </w.rf>
 <form>zahájily</form>
-<tag lemma="zahájit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zahájit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94207-27-p2s2w24">
 <src.rf>manual</src.rf>
@@ -499,7 +499,7 @@
 <LM>w#w-ln94207-27-p2s3w4</LM>
 </w.rf>
 <form>zajaly</form>
-<tag lemma="zajmout_^(zajatce)" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zajmout_^(zajatce)" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94207-27-p2s3w5">
 <src.rf>manual</src.rf>
@@ -539,7 +539,7 @@
 <LM>w#w-ln94207-27-p2s3w9</LM>
 </w.rf>
 <form>zmocnily</form>
-<tag lemma="zmocnit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zmocnit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94207-27-p2s3w10">
 <src.rf>manual</src.rf>

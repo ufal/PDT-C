@@ -165,7 +165,7 @@
 <LM>w#w-lnd92255-044-p2s2w14</LM>
 </w.rf>
 <form>neprojednávalo</form>
-<tag lemma="projednávat_:T_^(*4at)" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="projednávat_^(*4at)" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-lnd92255-044-p2s2w15">
 <src.rf>manual</src.rf>
@@ -422,7 +422,7 @@
 <LM>w#w-lnd92255-044-p2s3w16</LM>
 </w.rf>
 <form>komentoval</form>
-<tag lemma="komentovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="komentovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-lnd92255-044-p2s3w17">
 <src.rf>manual</src.rf>

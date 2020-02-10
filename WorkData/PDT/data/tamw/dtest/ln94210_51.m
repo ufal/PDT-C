@@ -261,7 +261,7 @@
 <LM>w#w-ln94210-51-p2s1Bw18</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94210-51-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -277,7 +277,7 @@
 <LM>w#w-ln94210-51-p2s1Bw20</LM>
 </w.rf>
 <form>podepsán</form>
-<tag lemma="podepsat" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="podepsat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94210-51-p2s1Bw21">
 <src.rf>manual</src.rf>
@@ -429,7 +429,7 @@
 <LM>w#w-ln94210-51-p3s1w6</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94210-51-p3s1w7">
 <src.rf>manual</src.rf>
@@ -1132,7 +1132,7 @@
 <LM>w#w-ln94210-51-p4s1w20</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94210-51-p4s1w21">
 <src.rf>manual</src.rf>
@@ -1255,7 +1255,7 @@
 <LM>w#w-ln94210-51-p4s1w35</LM>
 </w.rf>
 <form>nepřistoupila</form>
-<tag lemma="přistoupit_:W" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="přistoupit" src="orig" selected="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-ln94210-51-p4s1w36">
 <src.rf>manual</src.rf>
@@ -1313,7 +1313,7 @@
 <LM>w#w-ln94210-51-p4s2w6</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94210-51-p4s2w7">
 <src.rf>manual</src.rf>
@@ -1543,7 +1543,7 @@
 <LM>w#w-ln94210-51-p4s3w14</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94210-51-p4s3w15">
 <src.rf>manual</src.rf>
@@ -1552,8 +1552,8 @@
 </w.rf>
 <form>kladen</form>
 <tag>
-<AM lemma="klást" src="orig">VsYS---XX-AP---</AM>
-<AM lemma="klást_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+<AM lemma="klást" src="orig">VsYS----X-API--</AM>
+<AM lemma="klást" src="manual" selected="1">VsYS----X-API--</AM>
 </tag>
 </m>
 <m id="m-ln94210-51-p4s3w16">

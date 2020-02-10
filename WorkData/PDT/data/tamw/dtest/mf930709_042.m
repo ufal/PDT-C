@@ -258,7 +258,7 @@
 <LM>w#w-mf930709-042-p2s1Bw22</LM>
 </w.rf>
 <form>vyjádřil</form>
-<tag lemma="vyjádřit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyjádřit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-042-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -502,7 +502,7 @@
 <LM>w#w-mf930709-042-p2s3w8</LM>
 </w.rf>
 <form>vyplaceny</form>
-<tag lemma="vyplatit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="vyplatit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-mf930709-042-p2s3w9">
 <src.rf>manual</src.rf>
@@ -528,7 +528,7 @@
 <LM>w#w-mf930709-042-p2s4w2</LM>
 </w.rf>
 <form>stočila</form>
-<tag lemma="stočit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="stočit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930709-042-p2s4w3">
 <src.rf>manual</src.rf>
@@ -675,7 +675,7 @@
 <LM>w#w-mf930709-042-p2s5w5</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930709-042-p2s5w6">
 <src.rf>manual</src.rf>

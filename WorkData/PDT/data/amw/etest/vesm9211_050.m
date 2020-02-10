@@ -343,7 +343,7 @@
 <LM>w#w-vesm9211-050-p1s1w40</LM>
 </w.rf>
 <form>zjednali</form>
-<tag lemma="zjednat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zjednat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-vesm9211-050-p1s1w41">
 <src.rf>manual</src.rf>

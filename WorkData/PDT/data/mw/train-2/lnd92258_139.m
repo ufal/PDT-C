@@ -115,7 +115,7 @@
 <LM>w#w-lnd92258-139-p1s1w13</LM>
 </w.rf>
 <form>prezentoval</form>
-<tag lemma="prezentovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prezentovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-lnd92258-139-p1s1w14">
 <src.rf>manual</src.rf>
@@ -171,7 +171,7 @@
 <LM>w#w-lnd92258-139-p1s1w20</LM>
 </w.rf>
 <form>vynesl</form>
-<tag lemma="vynést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vynést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-139-p1s1w21">
 <src.rf>manual</src.rf>

@@ -823,7 +823,7 @@
 <LM>w#w-lnd92252-084-p4s2w10</LM>
 </w.rf>
 <form>musel</form>
-<tag lemma="muset" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="muset" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-084-p4s2w11">
 <src.rf>manual</src.rf>
@@ -1761,7 +1761,7 @@
 <LM>w#w-lnd92252-084-p4s9w6</LM>
 </w.rf>
 <form>probudil</form>
-<tag lemma="probudit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="probudit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92252-084-p4s9w7">
 <src.rf>manual</src.rf>
@@ -1809,7 +1809,7 @@
 <LM>w#w-lnd92252-084-p4s9w12</LM>
 </w.rf>
 <form>soudili</form>
-<tag lemma="soudit_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="soudit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-084-p4s9w13">
 <src.rf>manual</src.rf>
@@ -1917,7 +1917,7 @@
 <LM>w#w-lnd92252-084-p4s10w7</LM>
 </w.rf>
 <form>zaměřena</form>
-<tag lemma="zaměřit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zaměřit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd92252-084-p4s10w8">
 <src.rf>manual</src.rf>
@@ -2024,8 +2024,8 @@
 </w.rf>
 <form>neuspěla</form>
 <tag>
-<AM lemma="uspět" src="orig">VpQW---XR-NA---</AM>
-<AM lemma="uspět_:W" src="manual" selected="1">VpQW---XR-NA---</AM>
+<AM lemma="uspět" src="orig">VpQW----R-NAP--</AM>
+<AM lemma="uspět" src="manual" selected="1">VpQW----R-NAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92252-084-p4s11w7">
@@ -2260,7 +2260,7 @@
 <LM>w#w-lnd92252-084-p4s14w5</LM>
 </w.rf>
 <form>dovoleno</form>
-<tag lemma="dovolit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="dovolit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92252-084-p4s14w6">
 <src.rf>manual</src.rf>

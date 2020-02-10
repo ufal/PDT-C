@@ -67,7 +67,7 @@
 <LM>w#w-lnd91303-069-p1s1w8</LM>
 </w.rf>
 <form>DĚLALI</form>
-<tag lemma="dělat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="dělat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-069-p1s1w9">
 <src.rf>manual</src.rf>

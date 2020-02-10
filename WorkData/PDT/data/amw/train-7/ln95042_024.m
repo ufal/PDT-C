@@ -167,7 +167,7 @@
 <LM>w#w-ln95042-024-p2s1Bw16</LM>
 </w.rf>
 <form>ponechala</form>
-<tag lemma="ponechat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="ponechat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95042-024-p2s1Bw17">
 <src.rf>manual</src.rf>
@@ -400,7 +400,7 @@
 <LM>w#w-ln95042-024-p2s2w1</LM>
 </w.rf>
 <form>Řečeno</form>
-<tag lemma="říci" src="auto" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="říci" src="auto" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95042-024-p2s2w2">
 <src.rf>manual</src.rf>
@@ -1491,7 +1491,7 @@
 <LM>w#w-ln95042-024-p2s6w26</LM>
 </w.rf>
 <form>odvozeno</form>
-<tag lemma="odvodit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="odvodit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95042-024-p2s6w27">
 <src.rf>manual</src.rf>
@@ -1565,7 +1565,7 @@
 <LM>w#w-ln95042-024-p3s1w3</LM>
 </w.rf>
 <form>řečeno</form>
-<tag lemma="říci" src="auto" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="říci" src="auto" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95042-024-p3s1w4">
 <src.rf>manual</src.rf>
@@ -2908,7 +2908,7 @@
 <LM>w#w-ln95042-024-p5s1w6</LM>
 </w.rf>
 <form>odsouzeni</form>
-<tag lemma="odsoudit" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="odsoudit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-ln95042-024-p5s1w7">
 <src.rf>manual</src.rf>
@@ -3147,7 +3147,7 @@
 <LM>w#w-ln95042-024-p6s2w13</LM>
 </w.rf>
 <form>zahleděni</form>
-<tag lemma="zahledět" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="zahledět" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-ln95042-024-p6s2w14">
 <src.rf>manual</src.rf>

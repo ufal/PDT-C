@@ -77,7 +77,7 @@
 <LM>w#w-ln95049-087-p2s1w7</LM>
 </w.rf>
 <form>obvinil</form>
-<tag lemma="obvinit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="obvinit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-087-p2s1w8">
 <src.rf>manual</src.rf>
@@ -170,7 +170,7 @@
 <LM>w#w-ln95049-087-p2s2w2</LM>
 </w.rf>
 <form>přestal</form>
-<tag lemma="přestat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přestat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-087-p2s2w3">
 <src.rf>manual</src.rf>
@@ -450,7 +450,7 @@
 <LM>w#w-ln95049-087-p3s1w7</LM>
 </w.rf>
 <form>vloupali</form>
-<tag lemma="vloupat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vloupat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95049-087-p3s1w8">
 <src.rf>manual</src.rf>
@@ -502,7 +502,7 @@
 <LM>w#w-ln95049-087-p3s1w13</LM>
 </w.rf>
 <form>nastoupili</form>
-<tag lemma="nastoupit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="nastoupit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95049-087-p3s1w14">
 <src.rf>manual</src.rf>
@@ -550,7 +550,7 @@
 <LM>w#w-ln95049-087-p3s1w19</LM>
 </w.rf>
 <form>upozornil</form>
-<tag lemma="upozornit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="upozornit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-087-p3s1w20">
 <src.rf>manual</src.rf>
@@ -648,7 +648,7 @@
 <LM>w#w-ln95049-087-p3s2w2</LM>
 </w.rf>
 <form>spatřila</form>
-<tag lemma="spatřit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="spatřit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95049-087-p3s2w3">
 <src.rf>manual</src.rf>
@@ -771,8 +771,8 @@
 </w.rf>
 <form>zadrželi</form>
 <tag>
-<AM lemma="zadržet" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="zadržet_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+<AM lemma="zadržet" src="orig">VpMP----R-AAP--</AM>
+<AM lemma="zadržet" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95049-087-p3s3w4">

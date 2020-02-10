@@ -617,7 +617,7 @@
 <LM>w#w-wsj2228-001-p1s1W15</LM>
 </w.rf>
 <form>začaly</form>
-<tag lemma="začít-1_^(začnout)" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj2228-001-p1s1W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1631,7 +1631,7 @@
 <LM>w#w-wsj2228-001-p1s4W18</LM>
 </w.rf>
 <form>nahlíženo</form>
-<tag lemma="nahlížet" src="auto" recommended="1">VsNS---XX-API--</tag>
+<tag lemma="nahlížet" src="auto" recommended="1">VsNS----X-API--</tag>
 </m>
 <m id="m-wsj2228-001-p1s4W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1791,7 +1791,7 @@
 <LM>w#w-wsj2228-001-p1s5W5</LM>
 </w.rf>
 <form>bojoval</form>
-<tag lemma="bojovat" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="bojovat" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj2228-001-p1s5W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2014,7 +2014,7 @@
 <LM>w#w-wsj2228-001-p1s5W23</LM>
 </w.rf>
 <form>zhatila</form>
-<tag lemma="zhatit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="zhatit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2228-001-p1s5W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2202,7 +2202,7 @@
 </w.rf>
 <form>uvedly</form>
 <tag>
-<AM lemma="uvést" src="auto" recommended="1">VpTP---XR-AAP--</AM></tag>
+<AM lemma="uvést" src="auto" recommended="1">VpTP----R-AAP--</AM></tag>
 <comment>
 </comment>
 <form_change>spell</form_change></m>
@@ -2349,8 +2349,8 @@
 </w.rf>
 <form>dal</form>
 <tag>
-<AM lemma="dát" src="auto" recommended="1">VpYS---XR-AAP--</AM>
-<AM lemma="dát-2_^(dá_se_očekávat)" src="auto">VpYS---XR-AAI--</AM>
+<AM lemma="dát" src="auto" recommended="1">VpYS----R-AAP--</AM>
+<AM lemma="dát-2_^(dá_se_očekávat)" src="auto">VpYS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-wsj2228-001-p1s6W18-Ta">

@@ -51,7 +51,7 @@
 <LM>w#w-ln94208-37-p1s1w5</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94208-37-p1s1w6">
 <src.rf>manual</src.rf>
@@ -234,7 +234,7 @@
 <LM>w#w-ln94208-37-p2s1Bw17</LM>
 </w.rf>
 <form>konal</form>
-<tag lemma="konat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="konat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94208-37-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -332,7 +332,7 @@
 <LM>w#w-ln94208-37-p2s2w3</LM>
 </w.rf>
 <form>narušili</form>
-<tag lemma="narušit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="narušit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94208-37-p2s2w4">
 <src.rf>manual</src.rf>
@@ -394,7 +394,7 @@
 <LM>w#w-ln94208-37-p2s2w10</LM>
 </w.rf>
 <form>nezakročila</form>
-<tag lemma="zakročit_:W" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="zakročit" src="orig" selected="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-ln94208-37-p2s2w11">
 <src.rf>manual</src.rf>
@@ -468,7 +468,7 @@
 <LM>w#w-ln94208-37-p2s3w8</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94208-37-p2s3w9">
 <src.rf>manual</src.rf>
@@ -567,7 +567,7 @@
 <LM>w#w-ln94208-37-p2s3w20</LM>
 </w.rf>
 <form>museli</form>
-<tag lemma="muset" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="muset" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94208-37-p2s3w21">
 <src.rf>manual</src.rf>
@@ -775,7 +775,7 @@
 <LM>w#w-ln94208-37-p2s3w46</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94208-37-p2s3w47">
 <src.rf>manual</src.rf>
@@ -831,7 +831,7 @@
 <LM>w#w-ln94208-37-p2s3w53</LM>
 </w.rf>
 <form>zneuctěna</form>
-<tag lemma="zneuctít" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zneuctít" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94208-37-p2s3w54">
 <src.rf>manual</src.rf>

@@ -163,7 +163,7 @@
 <LM>w#w-wsj1070-001-p1s0W11</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj1070-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -445,7 +445,7 @@
 <LM>w#w-wsj1070-001-p1s1W9</LM>
 </w.rf>
 <form>obsahoval</form>
-<tag lemma="obsahovat" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="obsahovat" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1070-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>

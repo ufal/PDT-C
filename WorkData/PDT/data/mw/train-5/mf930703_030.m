@@ -184,7 +184,7 @@
 <LM>w#w-mf930703-030-p2s1w16</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930703-030-p2s1w17">
 <src.rf>manual</src.rf>
@@ -234,7 +234,7 @@
 <LM>w#w-mf930703-030-p2s2w1</LM>
 </w.rf>
 <form>Posíleny</form>
-<tag lemma="posílit" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="posílit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-mf930703-030-p2s2w2">
 <src.rf>manual</src.rf>

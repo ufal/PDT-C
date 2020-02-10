@@ -208,7 +208,7 @@
 <LM>w#w-lnd92259-082-p1s2w4</LM>
 </w.rf>
 <form>zataženo</form>
-<tag lemma="zatáhnout" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zatáhnout" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92259-082-p1s2w5">
 <src.rf>manual</src.rf>

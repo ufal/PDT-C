@@ -167,7 +167,7 @@
 <LM>w#w-ln95043-075-p2s1Bw12</LM>
 </w.rf>
 <form>vyjádřila</form>
-<tag lemma="vyjádřit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyjádřit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95043-075-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -300,7 +300,7 @@
 <LM>w#w-ln95043-075-p2s2w1</LM>
 </w.rf>
 <form>Poukazovala</form>
-<tag lemma="poukazovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="poukazovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95043-075-p2s2w2">
 <src.rf>manual</src.rf>
@@ -380,7 +380,7 @@
 <LM>w#w-ln95043-075-p2s2w11</LM>
 </w.rf>
 <form>pilo</form>
-<tag lemma="pít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="pít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95043-075-p2s2w12">
 <src.rf>manual</src.rf>
@@ -396,7 +396,7 @@
 <LM>w#w-ln95043-075-p2s2w13</LM>
 </w.rf>
 <form>kouřilo</form>
-<tag lemma="kouřit_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="kouřit" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95043-075-p2s2w14">
 <src.rf>manual</src.rf>
@@ -619,7 +619,7 @@
 <LM>w#w-ln95043-075-p2s4w12</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95043-075-p2s4w13">
 <src.rf>manual</src.rf>
@@ -627,7 +627,7 @@
 <LM>w#w-ln95043-075-p2s4w13</LM>
 </w.rf>
 <form>využíváno</form>
-<tag lemma="využívat_:T_^(*3t)" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="využívat_^(*3t)" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-ln95043-075-p2s4w14">
 <src.rf>manual</src.rf>
@@ -704,7 +704,7 @@
 <LM>w#w-ln95043-075-p2s5w5</LM>
 </w.rf>
 <form>vyjádřila</form>
-<tag lemma="vyjádřit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyjádřit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95043-075-p2s5w6">
 <src.rf>manual</src.rf>
@@ -776,7 +776,7 @@
 <LM>w#w-ln95043-075-p2s5w15</LM>
 </w.rf>
 <form>nedošlo</form>
-<tag lemma="dojít" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="dojít" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-ln95043-075-p2s5w16">
 <src.rf>manual</src.rf>
@@ -1175,7 +1175,7 @@
 <LM>w#w-ln95043-075-p2s7w21</LM>
 </w.rf>
 <form>napsal</form>
-<tag lemma="napsat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="napsat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95043-075-p2s7w22">
 <src.rf>manual</src.rf>

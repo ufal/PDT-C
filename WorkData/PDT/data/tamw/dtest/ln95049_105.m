@@ -157,7 +157,7 @@
 <LM>w#w-ln95049-105-p2s1Bw4</LM>
 </w.rf>
 <form>vyhlásila</form>
-<tag lemma="vyhlásit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyhlásit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95049-105-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -613,7 +613,7 @@
 <LM>w#w-ln95049-105-p2s4w15</LM>
 </w.rf>
 <form>skončila</form>
-<tag lemma="skončit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="skončit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95049-105-p2s4w16">
 <src.rf>manual</src.rf>
@@ -882,7 +882,7 @@
 <LM>w#w-ln95049-105-p2s5w24</LM>
 </w.rf>
 <form>probojovaly</form>
-<tag lemma="probojovat_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="probojovat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95049-105-p2s5w25">
 <src.rf>manual</src.rf>

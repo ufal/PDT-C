@@ -269,7 +269,7 @@
 <LM>w#w-lnd92256-024-p1s2w19</LM>
 </w.rf>
 <form>rozmístěno</form>
-<tag lemma="rozmístit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="rozmístit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92256-024-p1s2w20">
 <src.rf>manual</src.rf>

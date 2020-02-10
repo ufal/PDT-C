@@ -50,7 +50,7 @@
 <LM>w#w-wsj1982-001-p1s0W4</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1982-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -77,7 +77,7 @@
 <LM>w#w-wsj1982-001-p1s0W7</LM>
 </w.rf>
 <form>předložila</form>
-<tag lemma="předložit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="předložit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1982-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -392,7 +392,7 @@
 <LM>w#w-wsj1982-001-p1s1W9</LM>
 </w.rf>
 <form>charakterizovala</form>
-<tag lemma="charakterizovat" src="auto" recommended="1">VpQW---XR-AAB--</tag>
+<tag lemma="charakterizovat" src="auto" recommended="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-wsj1982-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -564,7 +564,7 @@
 <LM>w#w-wsj1982-001-p1s1W24</LM>
 </w.rf>
 <form>odmítla</form>
-<tag lemma="odmítnout" src="auto" recommended="1">VpQW---XR-AAP-1</tag>
+<tag lemma="odmítnout" src="auto" recommended="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-wsj1982-001-p1s1W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -637,7 +637,7 @@
 <LM>w#w-wsj1982-001-p1s2W1</LM>
 </w.rf>
 <form>Požádala</form>
-<tag lemma="požádat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="požádat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1982-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -714,7 +714,7 @@
 <LM>w#w-wsj1982-001-p1s2W7</LM>
 </w.rf>
 <form>zachovala</form>
-<tag lemma="zachovat" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="zachovat" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj1982-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -772,7 +772,7 @@
 <AM lemma="jeden`1" src="auto">ClIS4----------</AM>
 <AM lemma="jeden`1" src="auto" recommended="1">ClYS1----------</AM>
 <AM lemma="jeden`1" src="auto">ClYS5----------</AM>
-<AM lemma="jíst" src="auto">VsYS---XX-API--</AM>
+<AM lemma="jíst" src="auto">VsYS----X-API--</AM>
 </tag>
 </m>
 <m id="m-wsj1982-001-p1s3W2-Ta">
@@ -830,7 +830,7 @@
 <LM>w#w-wsj1982-001-p1s3W6</LM>
 </w.rf>
 <form>potvrdil</form>
-<tag lemma="potvrdit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="potvrdit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1982-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -886,7 +886,7 @@
 <LM>w#w-wsj1982-001-p1s3W10</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1982-001-p1s3W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1065,7 +1065,7 @@
 <LM>w#w-wsj1982-001-p1s4W3</LM>
 </w.rf>
 <form>odmítla</form>
-<tag lemma="odmítnout" src="auto" recommended="1">VpQW---XR-AAP-1</tag>
+<tag lemma="odmítnout" src="auto" recommended="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-wsj1982-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1914,7 +1914,7 @@
 <LM>w#w-wsj1982-001-p1s7W3</LM>
 </w.rf>
 <form>nedosáhl</form>
-<tag lemma="dosáhnout" src="auto" recommended="1">VpYS---XR-NAP--</tag>
+<tag lemma="dosáhnout" src="auto" recommended="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-wsj1982-001-p1s7W4-Ta">
 <src.rf>tagger-a</src.rf>

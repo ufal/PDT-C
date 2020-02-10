@@ -110,7 +110,7 @@
 <LM>w#w-mf920902-036-p1s1w12</LM>
 </w.rf>
 <form>přisoudili</form>
-<tag lemma="přisoudit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přisoudit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920902-036-p1s1w13">
 <src.rf>manual</src.rf>

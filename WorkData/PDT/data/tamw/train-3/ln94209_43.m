@@ -70,7 +70,7 @@
 <LM>w#w-ln94209-43-p1s1Aw7</LM>
 </w.rf>
 <form>mluvilo</form>
-<tag lemma="mluvit_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="mluvit" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94209-43-p1s1Aw8">
 <src.rf>manual</src.rf>

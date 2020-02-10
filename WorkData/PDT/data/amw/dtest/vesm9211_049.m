@@ -44,8 +44,8 @@
 </w.rf>
 <form>pozbylo</form>
 <tag>
-<AM lemma="pozbýt" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="pozbýt_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="pozbýt" src="orig">VpNS----R-AAP--</AM>
+<AM lemma="pozbýt" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-vesm9211-049-p1s1w5">
@@ -177,7 +177,7 @@
 <LM>w#w-vesm9211-049-p1s2w9</LM>
 </w.rf>
 <form>znamenalo</form>
-<tag lemma="znamenat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="znamenat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-vesm9211-049-p1s2w10">
 <src.rf>manual</src.rf>
@@ -428,7 +428,7 @@
 <LM>w#w-vesm9211-049-p1s2w41</LM>
 </w.rf>
 <form>zvelebena</form>
-<tag lemma="zvelebit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zvelebit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-vesm9211-049-p1s2w42">
 <src.rf>manual</src.rf>
@@ -468,7 +468,7 @@
 <LM>w#w-vesm9211-049-p1s2w46</LM>
 </w.rf>
 <form>oslavena</form>
-<tag lemma="oslavit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="oslavit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-vesm9211-049-p1s2w47">
 <src.rf>manual</src.rf>
@@ -476,7 +476,7 @@
 <LM>w#w-vesm9211-049-p1s2w47</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-vesm9211-049-p1s2w48">
 <src.rf>manual</src.rf>
@@ -586,7 +586,7 @@
 <LM>w#w-vesm9211-049-p1s3w13</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-vesm9211-049-p1s3w14">
 <src.rf>manual</src.rf>

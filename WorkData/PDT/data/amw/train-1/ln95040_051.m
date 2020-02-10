@@ -659,7 +659,7 @@
 <LM>w#w-ln95040-051-p2s4w11</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95040-051-p2s4w12">
 <src.rf>manual</src.rf>

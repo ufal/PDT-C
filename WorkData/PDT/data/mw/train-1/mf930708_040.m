@@ -117,7 +117,7 @@
 <LM>w#w-mf930708-040-p2s1w10</LM>
 </w.rf>
 <form>nakupovali</form>
-<tag lemma="nakupovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="nakupovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930708-040-p2s1w11">
 <src.rf>manual</src.rf>
@@ -173,7 +173,7 @@
 <LM>w#w-mf930708-040-p2s1w17</LM>
 </w.rf>
 <form>chtěli</form>
-<tag lemma="chtít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="chtít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930708-040-p2s1w18">
 <src.rf>manual</src.rf>
@@ -237,7 +237,7 @@
 <LM>w#w-mf930708-040-p2s1w25</LM>
 </w.rf>
 <form>nepřekvapilo</form>
-<tag lemma="překvapit_:W" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="překvapit" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-mf930708-040-p2s1w26">
 <src.rf>manual</src.rf>
@@ -501,8 +501,8 @@
 </w.rf>
 <form>vybral</form>
 <tag>
-<AM lemma="vybrat" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="vybrat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="vybrat" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="vybrat" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930708-040-p3s1w4">
@@ -639,7 +639,7 @@
 <LM>w#w-mf930708-040-p3s1w20</LM>
 </w.rf>
 <form>nasbíral</form>
-<tag lemma="nasbírat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nasbírat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-040-p3s1w21">
 <src.rf>manual</src.rf>
@@ -963,7 +963,7 @@
 <LM>w#w-mf930708-040-p3s3w14</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930708-040-p3s3w15">
 <src.rf>manual</src.rf>
@@ -1510,7 +1510,7 @@
 <LM>w#w-mf930708-040-p4s1w4</LM>
 </w.rf>
 <form>prohlásil</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-040-p4s1w5">
 <src.rf>manual</src.rf>
@@ -1606,7 +1606,7 @@
 <LM>w#w-mf930708-040-p4s1w17</LM>
 </w.rf>
 <form>vznikla</form>
-<tag lemma="vzniknout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="vzniknout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-mf930708-040-p4s1w18">
 <src.rf>manual</src.rf>
@@ -1720,7 +1720,7 @@
 <LM>w#w-mf930708-040-p4s2w10</LM>
 </w.rf>
 <form>získali</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930708-040-p4s2w11">
 <src.rf>manual</src.rf>
@@ -2326,7 +2326,7 @@
 <LM>w#w-mf930708-040-p6s1w4</LM>
 </w.rf>
 <form>vyslala</form>
-<tag lemma="vyslat" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyslat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930708-040-p6s1w5">
 <src.rf>manual</src.rf>
@@ -2382,7 +2382,7 @@
 <LM>w#w-mf930708-040-p6s1w11</LM>
 </w.rf>
 <form>mapovali</form>
-<tag lemma="mapovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="mapovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930708-040-p6s1w12">
 <src.rf>manual</src.rf>
@@ -2424,7 +2424,7 @@
 <LM>w#w-mf930708-040-p6s2w1</LM>
 </w.rf>
 <form>Doporučili</form>
-<tag lemma="doporučit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="doporučit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930708-040-p6s2w2">
 <src.rf>manual</src.rf>
@@ -2456,7 +2456,7 @@
 <LM>w#w-mf930708-040-p6s2w6</LM>
 </w.rf>
 <form>zřídili</form>
-<tag lemma="zřídit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zřídit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930708-040-p6s2w7">
 <src.rf>manual</src.rf>
@@ -2760,7 +2760,7 @@
 <LM>w#w-mf930708-040-p6s3w18</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930708-040-p6s3w19">
 <src.rf>manual</src.rf>

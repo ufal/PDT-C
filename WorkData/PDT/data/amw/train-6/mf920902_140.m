@@ -226,7 +226,7 @@
 <LM>w#w-mf920902-140-p2s2w11</LM>
 </w.rf>
 <form>napsal</form>
-<tag lemma="napsat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="napsat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-140-p2s2w12">
 <src.rf>manual</src.rf>

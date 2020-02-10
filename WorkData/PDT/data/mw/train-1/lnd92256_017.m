@@ -447,7 +447,7 @@
 <LM>w#w-lnd92256-017-p2s3w7</LM>
 </w.rf>
 <form>podmiňována</form>
-<tag lemma="podmiňovat_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="podmiňovat" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-lnd92256-017-p2s3w8">
 <src.rf>manual</src.rf>
@@ -683,8 +683,8 @@
 </w.rf>
 <form>zaslala</form>
 <tag>
-<AM lemma="zaslat" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="zaslat_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="zaslat" src="orig">VpQW----R-AAP--</AM>
+<AM lemma="zaslat" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92256-017-p2s5w10">

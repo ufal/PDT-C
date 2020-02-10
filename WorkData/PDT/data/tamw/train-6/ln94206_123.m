@@ -472,7 +472,7 @@
 <LM>w#w-ln94206-123-p2s2w13</LM>
 </w.rf>
 <form>podrobil</form>
-<tag lemma="podrobit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="podrobit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94206-123-p2s2w14">
 <src.rf>manual</src.rf>

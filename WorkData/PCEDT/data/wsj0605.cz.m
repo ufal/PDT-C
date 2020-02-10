@@ -261,7 +261,7 @@
 <LM>w#w-wsj0605-001-p1s0W22</LM>
 </w.rf>
 <form>ušetřil</form>
-<tag lemma="ušetřit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="ušetřit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0605-001-p1s0W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -317,7 +317,7 @@
 <LM>w#w-wsj0605-001-p1s1W3</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0605-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -377,7 +377,7 @@
 <LM>w#w-wsj0605-001-p1s1W7</LM>
 </w.rf>
 <form>uvedena</form>
-<tag lemma="uvést" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj0605-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>

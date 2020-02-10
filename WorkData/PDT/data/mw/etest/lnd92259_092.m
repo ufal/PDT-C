@@ -138,7 +138,7 @@
 <LM>w#w-lnd92259-092-p2s2w11</LM>
 </w.rf>
 <form>schválili</form>
-<tag lemma="schválit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="schválit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-092-p2s2w12">
 <src.rf>manual</src.rf>

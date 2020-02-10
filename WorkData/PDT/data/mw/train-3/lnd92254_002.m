@@ -99,7 +99,7 @@
 <LM>w#w-lnd92254-002-p1s1w11</LM>
 </w.rf>
 <form>neobešly</form>
-<tag lemma="obejít" src="orig" selected="1">VpTP---XR-NA---</tag>
+<tag lemma="obejít" src="orig" selected="1">VpTP----R-NAP--</tag>
 </m>
 <m id="m-lnd92254-002-p1s1w12">
 <src.rf>manual</src.rf>

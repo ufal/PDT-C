@@ -67,7 +67,7 @@
 <LM>w#w-wsj0923-001-p1s0W6</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0923-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -220,7 +220,7 @@
 </w.rf>
 <form>čili</form>
 <tag>
-<AM lemma="čít" src="auto">VpMP---XR-AAI--</AM>
+<AM lemma="čít" src="auto">VpMP----R-AAI--</AM>
 <AM lemma="čili-1" src="auto" recommended="1">J^-------------</AM>
 <AM lemma="čili-2_^(koření)" src="auto">NNNXX-----A----</AM>
 </tag>
@@ -284,7 +284,7 @@
 <LM>w#w-wsj0923-001-p1s0W27</LM>
 </w.rf>
 <form>podepsal</form>
-<tag lemma="podepsat" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="podepsat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0923-001-p1s0W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -428,7 +428,7 @@
 <LM>w#w-wsj0923-001-p1s1W12</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0923-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -509,7 +509,7 @@
 <LM>w#w-wsj0923-001-p1s2W2</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0923-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -517,7 +517,7 @@
 <LM>w#w-wsj0923-001-p1s2W3</LM>
 </w.rf>
 <form>schválena</form>
-<tag lemma="schválit" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="schválit" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj0923-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>

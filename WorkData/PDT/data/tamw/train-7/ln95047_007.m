@@ -143,7 +143,7 @@
 <LM>w#w-ln95047-007-p2s1w14</LM>
 </w.rf>
 <form>poskytnuty</form>
-<tag lemma="poskytnout_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="poskytnout" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln95047-007-p2s1w15">
 <src.rf>manual</src.rf>

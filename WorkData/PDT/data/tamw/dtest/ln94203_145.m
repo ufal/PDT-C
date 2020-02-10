@@ -495,7 +495,7 @@
 <LM>w#w-ln94203-145-p3s1w7</LM>
 </w.rf>
 <form>psány</form>
-<tag lemma="psát" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="psát" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln94203-145-p3s1w8">
 <src.rf>manual</src.rf>
@@ -884,7 +884,7 @@
 <LM>w#w-ln94203-145-p3s2w20</LM>
 </w.rf>
 <form>podmíněno</form>
-<tag lemma="podmínit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="podmínit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94203-145-p3s2w21">
 <src.rf>manual</src.rf>
@@ -1316,7 +1316,7 @@
 <LM>w#w-ln94203-145-p4s2w11</LM>
 </w.rf>
 <form>zaznamenalo</form>
-<tag lemma="zaznamenat_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zaznamenat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94203-145-p4s2w12">
 <src.rf>manual</src.rf>
@@ -1666,7 +1666,7 @@
 <LM>w#w-ln94203-145-p6s1w5</LM>
 </w.rf>
 <form>neměly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-NA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-NAI--</tag>
 </m>
 <m id="m-ln94203-145-p6s1w6">
 <src.rf>manual</src.rf>
@@ -1748,7 +1748,7 @@
 <LM>w#w-ln94203-145-p6s2w3</LM>
 </w.rf>
 <form>změnilo</form>
-<tag lemma="změnit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="změnit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94203-145-p6s2w4">
 <src.rf>manual</src.rf>
@@ -2253,8 +2253,8 @@
 </w.rf>
 <form>dodržely</form>
 <tag>
-<AM lemma="dodržet" src="orig">VpTP---XR-AA---</AM>
-<AM lemma="dodržet_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+<AM lemma="dodržet" src="orig">VpTP----R-AAP--</AM>
+<AM lemma="dodržet" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94203-145-p7s2w23">
@@ -2555,8 +2555,8 @@
 </w.rf>
 <form>dostala</form>
 <tag>
-<AM lemma="dostat" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="dostat_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="dostat" src="orig">VpQW----R-AAP--</AM>
+<AM lemma="dostat" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94203-145-p7s4w10">
@@ -3236,7 +3236,7 @@
 <LM>w#w-ln94203-145-p9s2w7</LM>
 </w.rf>
 <form>získaly</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94203-145-p9s2w8">
 <src.rf>manual</src.rf>

@@ -214,7 +214,7 @@
 <LM>w#w-ln95040-050-p2s2w4</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95040-050-p2s2w5">
 <src.rf>manual</src.rf>
@@ -475,7 +475,7 @@
 <LM>w#w-ln95040-050-p2s3w8</LM>
 </w.rf>
 <form>nepřicestoval</form>
-<tag lemma="přicestovat_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="přicestovat" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-ln95040-050-p2s3w9">
 <src.rf>manual</src.rf>
@@ -579,7 +579,7 @@
 <LM>w#w-ln95040-050-p2s4w11</LM>
 </w.rf>
 <form>nenamáhali</form>
-<tag lemma="namáhat_:T" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="namáhat" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-ln95040-050-p2s4w12">
 <src.rf>manual</src.rf>
@@ -948,7 +948,7 @@
 <LM>w#w-ln95040-050-p3s1w15</LM>
 </w.rf>
 <form>vzbudil</form>
-<tag lemma="vzbudit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vzbudit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-050-p3s1w16">
 <src.rf>manual</src.rf>
@@ -1639,7 +1639,7 @@
 <LM>w#w-ln95040-050-p4s3w2</LM>
 </w.rf>
 <form>vznikl</form>
-<tag lemma="vzniknout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="vzniknout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln95040-050-p4s3w3">
 <src.rf>manual</src.rf>
@@ -1802,8 +1802,8 @@
 </w.rf>
 <form>měly</form>
 <tag>
-<AM lemma="mít" src="orig">VpTP---XR-AA---</AM>
-<AM lemma="mít_:T" src="manual" selected="1">VpTP---XR-AA---</AM>
+<AM lemma="mít" src="orig">VpTP----R-AAI--</AM>
+<AM lemma="mít" src="manual" selected="1">VpTP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln95040-050-p5s1w4">
@@ -2129,7 +2129,7 @@
 <LM>w#w-ln95040-050-p5s4w3</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95040-050-p5s4w4">
 <src.rf>manual</src.rf>
@@ -2817,7 +2817,7 @@
 <LM>w#w-ln95040-050-p6s1w6</LM>
 </w.rf>
 <form>pobavila</form>
-<tag lemma="pobavit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="pobavit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95040-050-p6s1w7">
 <src.rf>manual</src.rf>

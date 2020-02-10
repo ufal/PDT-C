@@ -62,7 +62,7 @@
 <LM>w#w-mf930702-095-p1s1w6</LM>
 </w.rf>
 <form>označeni</form>
-<tag lemma="označit_:W" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="označit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-mf930702-095-p1s1w7">
 <src.rf>manual</src.rf>
@@ -254,7 +254,7 @@
 <LM>w#w-mf930702-095-p1s2w16</LM>
 </w.rf>
 <form>datovány</form>
-<tag lemma="datovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="datovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf930702-095-p1s2w17">
 <src.rf>manual</src.rf>
@@ -321,8 +321,8 @@
 </w.rf>
 <form>přestal</form>
 <tag>
-<AM lemma="přestat" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="přestat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="přestat" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="přestat" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930702-095-p1s3w5">
@@ -381,7 +381,7 @@
 <LM>w#w-mf930702-095-p1s4w2</LM>
 </w.rf>
 <form>umožňoval</form>
-<tag lemma="umožňovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="umožňovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930702-095-p1s4w3">
 <src.rf>manual</src.rf>
@@ -498,8 +498,8 @@
 </w.rf>
 <form>určeno</form>
 <tag>
-<AM lemma="určit" src="orig">VsNS---XX-AP---</AM>
-<AM lemma="určit_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+<AM lemma="určit" src="orig">VsNS----X-APP--</AM>
+<AM lemma="určit" src="manual" selected="1">VsNS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-mf930702-095-p1s4w17">

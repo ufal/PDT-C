@@ -70,7 +70,7 @@
 <LM>w#w-wsj1503-001-p1s0W6</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1503-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -170,7 +170,7 @@
 <LM>w#w-wsj1503-001-p1s0W15</LM>
 </w.rf>
 <form>zaslala</form>
-<tag lemma="zaslat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="zaslat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1503-001-p1s0W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -404,7 +404,7 @@
 <LM>w#w-wsj1503-001-p1s1W8</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1503-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -673,7 +673,7 @@
 <LM>w#w-wsj1503-001-p1s2W8</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1503-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -840,7 +840,7 @@
 <LM>w#w-wsj1503-001-p1s3W5</LM>
 </w.rf>
 <form>využit</form>
-<tag lemma="využít" src="auto" recommended="1">VsYS---XX-APP--</tag>
+<tag lemma="využít" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj1503-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>

@@ -239,7 +239,7 @@
 <LM>w#w-ln94204-81-p2s1Bw21</LM>
 </w.rf>
 <form>vypracovaly</form>
-<tag lemma="vypracovat_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vypracovat" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94204-81-p2s1Bw22">
 <src.rf>manual</src.rf>
@@ -263,7 +263,7 @@
 <LM>w#w-ln94204-81-p2s1Bw24</LM>
 </w.rf>
 <form>představily</form>
-<tag lemma="představit-1_:W_^(si_něco;_něco/někoho_někomu)" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="představit-1_^(si_něco;_něco/někoho_někomu)" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94204-81-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -337,7 +337,7 @@
 <LM>w#w-ln94204-81-p2s2w4</LM>
 </w.rf>
 <form>uznalo</form>
-<tag lemma="uznat_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="uznat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94204-81-p2s2w5">
 <src.rf>manual</src.rf>
@@ -802,7 +802,7 @@
 <LM>w#w-ln94204-81-p4s1w5</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94204-81-p4s1w6">
 <src.rf>manual</src.rf>

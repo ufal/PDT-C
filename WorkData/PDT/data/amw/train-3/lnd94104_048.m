@@ -187,7 +187,7 @@
 <LM>w#w-lnd94104-048-p1s3w8</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94104-048-p1s3w9">
 <src.rf>manual</src.rf>
@@ -227,7 +227,7 @@
 <LM>w#w-lnd94104-048-p1s3w13</LM>
 </w.rf>
 <form>hlášen</form>
-<tag lemma="hlásit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="hlásit" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-lnd94104-048-p1s3w14">
 <src.rf>manual</src.rf>
@@ -345,8 +345,8 @@
 </w.rf>
 <form>uvedly</form>
 <tag>
-<AM lemma="uvést" src="orig">VpTP---XR-AA---</AM>
-<AM lemma="uvést_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+<AM lemma="uvést" src="orig">VpTP----R-AAP--</AM>
+<AM lemma="uvést" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd94104-048-p1s4w12">
@@ -958,7 +958,7 @@
 <LM>w#w-lnd94104-048-p1s7w7</LM>
 </w.rf>
 <form>ohrozilo</form>
-<tag lemma="ohrozit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="ohrozit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-048-p1s7w8">
 <src.rf>manual</src.rf>
@@ -974,7 +974,7 @@
 <LM>w#w-lnd94104-048-p1s7w9</LM>
 </w.rf>
 <form>zkomplikovalo</form>
-<tag lemma="zkomplikovat_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zkomplikovat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-048-p1s7w10">
 <src.rf>manual</src.rf>
@@ -1358,7 +1358,7 @@
 <LM>w#w-lnd94104-048-p1s9w12</LM>
 </w.rf>
 <form>zahájil</form>
-<tag lemma="zahájit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zahájit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-048-p1s9w13">
 <src.rf>manual</src.rf>
@@ -1464,7 +1464,7 @@
 <LM>w#w-lnd94104-048-p1s10w1</LM>
 </w.rf>
 <form>Oznámil</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-048-p1s10w2">
 <src.rf>manual</src.rf>
@@ -1665,7 +1665,7 @@
 <LM>w#w-lnd94104-048-p1s11w15</LM>
 </w.rf>
 <form>podotkl</form>
-<tag lemma="podotknout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="podotknout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd94104-048-p1s11w16">
 <src.rf>manual</src.rf>
@@ -1788,7 +1788,7 @@
 <LM>w#w-lnd94104-048-p1s11w30</LM>
 </w.rf>
 <form>setkal</form>
-<tag lemma="setkat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="setkat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-048-p1s11w31">
 <src.rf>manual</src.rf>
@@ -2037,7 +2037,7 @@
 <LM>w#w-lnd94104-048-p1s12w11</LM>
 </w.rf>
 <form>prohlásil</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-048-p1s12w12">
 <src.rf>manual</src.rf>
@@ -2174,7 +2174,7 @@
 <LM>w#w-lnd94104-048-p1s13w5</LM>
 </w.rf>
 <form>připustili</form>
-<tag lemma="připustit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="připustit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd94104-048-p1s13w6">
 <src.rf>manual</src.rf>
@@ -2214,7 +2214,7 @@
 <LM>w#w-lnd94104-048-p1s13w10</LM>
 </w.rf>
 <form>respektovány</form>
-<tag lemma="respektovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="respektovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-lnd94104-048-p1s13w11">
 <src.rf>manual</src.rf>
@@ -2286,7 +2286,7 @@
 <LM>w#w-lnd94104-048-p1s13w19</LM>
 </w.rf>
 <form>měli</form>
-<tag lemma="mít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd94104-048-p1s13w20">
 <src.rf>manual</src.rf>
@@ -2480,7 +2480,7 @@
 <LM>w#w-lnd94104-048-p1s14w16</LM>
 </w.rf>
 <form>podotkl</form>
-<tag lemma="podotknout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="podotknout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd94104-048-p1s14w17">
 <src.rf>manual</src.rf>

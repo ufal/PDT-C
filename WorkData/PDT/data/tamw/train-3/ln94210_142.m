@@ -163,9 +163,9 @@
 </w.rf>
 <form>začala</form>
 <tag>
-<AM lemma="začít-1_^(začnout)" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="začít-1__:W^(začnout)" src="manual">VpQW---XR-AA---</AM>
-<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="začít-1_^(začnout)" src="auto">VpQW----R-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual">VpQW----R-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94210-142-p2s1Bw7">
@@ -756,7 +756,7 @@
 <LM>w#w-ln94210-142-p3s1w9</LM>
 </w.rf>
 <form>pracovalo</form>
-<tag lemma="pracovat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="pracovat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94210-142-p3s1w10">
 <src.rf>manual</src.rf>
@@ -820,7 +820,7 @@
 <LM>w#w-ln94210-142-p3s1w17</LM>
 </w.rf>
 <form>pokryly</form>
-<tag lemma="pokrýt" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="pokrýt" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln94210-142-p3s1w18">
 <src.rf>manual</src.rf>

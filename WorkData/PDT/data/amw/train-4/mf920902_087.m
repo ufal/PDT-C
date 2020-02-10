@@ -138,7 +138,7 @@
 <LM>w#w-mf920902-087-p2s2w9</LM>
 </w.rf>
 <form>obdrželi</form>
-<tag lemma="obdržet" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="obdržet" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920902-087-p2s2w10">
 <src.rf>manual</src.rf>
@@ -258,7 +258,7 @@
 <LM>w#w-mf920902-087-p2s2w24</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920902-087-p2s2w25">
 <src.rf>manual</src.rf>
@@ -327,7 +327,7 @@
 <LM>w#w-mf920902-087-p2s3w2</LM>
 </w.rf>
 <form>podali</form>
-<tag lemma="podat_:W_^(něco_[někomu]_[někam])" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="podat_^(něco_[někomu]_[někam])" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920902-087-p2s3w3">
 <src.rf>manual</src.rf>
@@ -566,7 +566,7 @@
 <LM>w#w-mf920902-087-p2s4w9</LM>
 </w.rf>
 <form>nevyjádřili</form>
-<tag lemma="vyjádřit_:W" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="vyjádřit" src="orig" selected="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m-mf920902-087-p2s4w10">
 <src.rf>manual</src.rf>
@@ -582,7 +582,7 @@
 <LM>w#w-mf920902-087-p2s4w11</LM>
 </w.rf>
 <form>nevyloučili</form>
-<tag lemma="vyloučit_:W" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="vyloučit" src="orig" selected="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m-mf920902-087-p2s4w12">
 <src.rf>manual</src.rf>

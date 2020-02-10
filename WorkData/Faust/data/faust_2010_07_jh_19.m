@@ -13,7 +13,7 @@
 </w.rf>
 <form>Byli</form>
 <tag>
-<AM lemma="být" recommended="1">VpMP---XR-AA---</AM>
+<AM lemma="být" recommended="1">VpMP----R-AAI--</AM>
 <AM lemma="být" src="manual" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
@@ -33,7 +33,7 @@
 </w.rf>
 <form>bývali</form>
 <tag>
-<AM lemma="bývat_:T" recommended="1">VpMP---XR-AA---</AM>
+<AM lemma="bývat" recommended="1">VpMP----R-AAI--</AM>
 <AM lemma="bývat" src="manual" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
@@ -954,7 +954,7 @@
 </w.rf>
 <form>byl</form>
 <tag>
-<AM lemma="být" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="být" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="být" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
@@ -964,7 +964,7 @@
 </w.rf>
 <form>pozastaven</form>
 <tag>
-<AM lemma="pozastavit_:W" recommended="1">VsYS---XX-AP---</AM>
+<AM lemma="pozastavit" recommended="1">VsYS----X-APP--</AM>
 <AM lemma="pozastavit" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
@@ -1074,7 +1074,7 @@
 </w.rf>
 <form>čůral</form>
 <tag>
-<AM lemma="čůrat_:T_,h" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="čůrat_,h" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="čůrat_,h" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
@@ -1776,7 +1776,7 @@
 </w.rf>
 <form>poslali</form>
 <tag>
-<AM lemma="poslat" recommended="1">VpMP---XR-AA---</AM>
+<AM lemma="poslat" recommended="1">VpMP----R-AAP--</AM>
 <AM lemma="poslat" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
@@ -2136,7 +2136,7 @@
 </w.rf>
 <form>zpracovány</form>
 <tag>
-<AM lemma="zpracovat_:W" recommended="1">VsTP---XX-AP---</AM>
+<AM lemma="zpracovat" recommended="1">VsTP----X-APP--</AM>
 <AM lemma="zpracovat" src="manual" selected="1">VsTP----X-APP--</AM>
 </tag>
 </m>
@@ -2240,7 +2240,7 @@
 </w.rf>
 <form>zůstal</form>
 <tag>
-<AM lemma="zůstat" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="zůstat" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="zůstat" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
@@ -3300,7 +3300,7 @@
 </w.rf>
 <form>Nelíbilo</form>
 <tag>
-<AM lemma="líbit_:T" recommended="1">VpNS---XR-NA---</AM>
+<AM lemma="líbit" recommended="1">VpNS----R-NAI--</AM>
 <AM lemma="líbit" src="manual" selected="1">VpNS----R-NAI--</AM>
 </tag>
 </m>
@@ -3446,7 +3446,7 @@
 </w.rf>
 <form>shledala</form>
 <tag>
-<AM lemma="shledat_:W" recommended="1">VpQW---XR-AA---</AM>
+<AM lemma="shledat" recommended="1">VpQW----R-AAP--</AM>
 <AM lemma="shledat" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
@@ -3812,7 +3812,7 @@
 </w.rf>
 <form>posílal</form>
 <tag>
-<AM lemma="posílat_:T" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="posílat" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="posílat" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
@@ -4064,7 +4064,7 @@
 </w.rf>
 <form>měli</form>
 <tag>
-<AM lemma="mít" recommended="1">VpMP---XR-AA---</AM>
+<AM lemma="mít" recommended="1">VpMP----R-AAI--</AM>
 <AM lemma="mít" src="manual" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
@@ -5332,7 +5332,7 @@
 </w.rf>
 <form>určeny</form>
 <tag>
-<AM lemma="určit" recommended="1">VsTP---XX-AP---</AM>
+<AM lemma="určit" recommended="1">VsTP----X-APP--</AM>
 <AM lemma="určit" src="manual" selected="1">VsTP----X-APP--</AM>
 </tag>
 </m>
@@ -5349,7 +5349,7 @@
 </w.rf>
 <form>Doporučeno</form>
 <tag>
-<AM lemma="doporučit_:W" recommended="1">VsNS---XX-AP---</AM>
+<AM lemma="doporučit" recommended="1">VsNS----X-APP--</AM>
 <AM lemma="doporučit" src="manual" selected="1">VsNS----X-APP--</AM>
 </tag>
 </m>
@@ -6085,7 +6085,7 @@
 </w.rf>
 <form>říkal</form>
 <tag>
-<AM lemma="říkat_:T" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="říkat" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="říkat" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>
@@ -6225,7 +6225,7 @@
 </w.rf>
 <form>zjistili</form>
 <tag>
-<AM lemma="zjistit_:W" recommended="1">VpMP---XR-AA---</AM>
+<AM lemma="zjistit" recommended="1">VpMP----R-AAP--</AM>
 <AM lemma="zjistit" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
@@ -6830,7 +6830,7 @@
 </w.rf>
 <form>nadřazen</form>
 <tag>
-<AM lemma="nadřadit_:W" recommended="1">VsYS---XX-AP---</AM>
+<AM lemma="nadřadit" recommended="1">VsYS----X-APP--</AM>
 <AM lemma="nadřadit" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
@@ -6981,7 +6981,7 @@
 </w.rf>
 <form>zabudován</form>
 <tag>
-<AM lemma="zabudovat_:W" recommended="1">VsYS---XX-AP---</AM>
+<AM lemma="zabudovat" recommended="1">VsYS----X-APP--</AM>
 <AM lemma="zabudovat" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
@@ -7058,7 +7058,7 @@
 </w.rf>
 <form>vedly</form>
 <tag>
-<AM lemma="vést" recommended="1">VpTP---XR-AA---</AM>
+<AM lemma="vést" recommended="1">VpTP----R-AAI--</AM>
 <AM lemma="vést" src="manual" selected="1">VpTP----R-AAI--</AM>
 </tag>
 </m>
@@ -7573,7 +7573,7 @@
 </w.rf>
 <form>vymazány</form>
 <tag>
-<AM lemma="vymazat_:W" recommended="1">VsTP---XX-AP---</AM>
+<AM lemma="vymazat" recommended="1">VsTP----X-APP--</AM>
 <AM lemma="vymazat" src="manual">VsTP----X-APP--</AM>
 <AM lemma="vymazat" src="manual" selected="1">VsTP----X-APP--</AM>
 </tag>

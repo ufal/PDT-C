@@ -45,7 +45,7 @@
 <LM>w#w-ln94202-110-p2s1w3</LM>
 </w.rf>
 <form>vyhrál</form>
-<tag lemma="vyhrát" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyhrát" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94202-110-p2s1w4">
 <src.rf>manual</src.rf>
@@ -279,7 +279,7 @@
 <LM>w#w-ln94202-110-p3s2w4</LM>
 </w.rf>
 <form>porazil</form>
-<tag lemma="porazit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="porazit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94202-110-p3s2w5">
 <src.rf>manual</src.rf>
@@ -517,7 +517,7 @@
 <LM>w#w-ln94202-110-p4s1w16</LM>
 </w.rf>
 <form>obhájil</form>
-<tag lemma="obhájit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="obhájit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94202-110-p4s1w17">
 <src.rf>manual</src.rf>
@@ -626,7 +626,7 @@
 <LM>w#w-ln94202-110-p5s1w5</LM>
 </w.rf>
 <form>obhájil</form>
-<tag lemma="obhájit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="obhájit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94202-110-p5s1w6">
 <src.rf>manual</src.rf>

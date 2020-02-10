@@ -166,7 +166,7 @@
 <LM>w#w-mf920902-105-p2s2w4</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920902-105-p2s2w5">
 <src.rf>manual</src.rf>
@@ -190,7 +190,7 @@
 <LM>w#w-mf920902-105-p2s2w7</LM>
 </w.rf>
 <form>zahájen</form>
-<tag lemma="zahájit" src="auto" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zahájit" src="auto" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf920902-105-p2s2w8">
 <src.rf>manual</src.rf>
@@ -456,7 +456,7 @@
 <LM>w#w-mf920902-105-p2s3w6</LM>
 </w.rf>
 <form>nastěhovalo</form>
-<tag lemma="nastěhovat_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="nastěhovat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-105-p2s3w7">
 <src.rf>manual</src.rf>
@@ -597,7 +597,7 @@
 <LM>w#w-mf920902-105-p2s3w23</LM>
 </w.rf>
 <form>zřídil</form>
-<tag lemma="zřídit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zřídit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-105-p2s3w24">
 <src.rf>manual</src.rf>
@@ -816,8 +816,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920902-105-p2s4w18">
@@ -1036,7 +1036,7 @@
 <LM>w#w-mf920902-105-p2s5w20</LM>
 </w.rf>
 <form>upravoval</form>
-<tag lemma="upravovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="upravovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920902-105-p2s5w21">
 <src.rf>manual</src.rf>
@@ -1068,7 +1068,7 @@
 <LM>w#w-mf920902-105-p2s5w24</LM>
 </w.rf>
 <form>podražil</form>
-<tag lemma="podražit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="podražit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-105-p2s5w25">
 <src.rf>manual</src.rf>
@@ -1178,7 +1178,7 @@
 <LM>w#w-mf920902-105-p2s6Aw11</LM>
 </w.rf>
 <form>dokončily</form>
-<tag lemma="dokončit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="dokončit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf920902-105-p2s6Aw12">
 <src.rf>manual</src.rf>

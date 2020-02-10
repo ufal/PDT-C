@@ -149,7 +149,7 @@
 <LM>w#w-mf930702-007-p2s1w12</LM>
 </w.rf>
 <form>založili</form>
-<tag lemma="založit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="založit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930702-007-p2s1w13">
 <src.rf>manual</src.rf>
@@ -375,7 +375,7 @@
 <LM>w#w-mf930702-007-p2s2w12</LM>
 </w.rf>
 <form>mělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930702-007-p2s2w13">
 <src.rf>manual</src.rf>
@@ -505,7 +505,7 @@
 <LM>w#w-mf930702-007-p2s3w6</LM>
 </w.rf>
 <form>zavázali</form>
-<tag lemma="zavázat" src="auto" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zavázat" src="auto" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930702-007-p2s3w7">
 <src.rf>manual</src.rf>

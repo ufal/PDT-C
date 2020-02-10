@@ -107,7 +107,7 @@
 <LM>w#w-ln94210-111-p1s1w12</LM>
 </w.rf>
 <form>oznamovali</form>
-<tag lemma="oznamovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="oznamovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94210-111-p1s1w13">
 <src.rf>manual</src.rf>
@@ -221,7 +221,7 @@
 <LM>w#w-ln94210-111-p2s2w4</LM>
 </w.rf>
 <form>přečkali</form>
-<tag lemma="přečkat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přečkat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94210-111-p2s2w5">
 <src.rf>manual</src.rf>
@@ -510,8 +510,8 @@
 </w.rf>
 <form>nastalo</form>
 <tag>
-<AM lemma="nastat" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="nastat_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="nastat" src="orig">VpNS----R-AAP--</AM>
+<AM lemma="nastat" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94210-111-p2s3w16">

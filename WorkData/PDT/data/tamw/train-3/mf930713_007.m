@@ -430,7 +430,7 @@
 <LM>w#w-mf930713-007-p1s4w7</LM>
 </w.rf>
 <form>zahájena</form>
-<tag lemma="zahájit" src="auto" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zahájit" src="auto" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf930713-007-p1s4w8">
 <src.rf>manual</src.rf>

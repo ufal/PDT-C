@@ -183,7 +183,7 @@
 <LM>w#w-lnd92257-063-p3s2w1</LM>
 </w.rf>
 <form>Dodalo</form>
-<tag lemma="dodat_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="dodat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-063-p3s2w2">
 <src.rf>manual</src.rf>
@@ -255,7 +255,7 @@
 <LM>w#w-lnd92257-063-p3s2w11</LM>
 </w.rf>
 <form>věnoval</form>
-<tag lemma="věnovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="věnovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92257-063-p3s2w12">
 <src.rf>manual</src.rf>
@@ -441,7 +441,7 @@
 <LM>w#w-lnd92257-063-p3s3w10</LM>
 </w.rf>
 <form>ocenili</form>
-<tag lemma="ocenit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="ocenit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-063-p3s3w11">
 <src.rf>manual</src.rf>
@@ -835,7 +835,7 @@
 <LM>w#w-lnd92257-063-p3s5w19</LM>
 </w.rf>
 <form>nastavil</form>
-<tag lemma="nastavit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nastavit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-063-p3s5w20">
 <src.rf>manual</src.rf>

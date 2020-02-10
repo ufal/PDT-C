@@ -364,7 +364,7 @@
 <LM>w#w-cmpr9413-019-p4s1w39</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-cmpr9413-019-p4s1w40">
 <src.rf>manual</src.rf>
@@ -372,7 +372,7 @@
 <LM>w#w-cmpr9413-019-p4s1w40</LM>
 </w.rf>
 <form>uvedena</form>
-<tag lemma="uvést" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="uvést" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-cmpr9413-019-p4s1w41">
 <src.rf>manual</src.rf>
@@ -426,7 +426,7 @@
 <LM>w#w-cmpr9413-019-p4s1w46</LM>
 </w.rf>
 <form>zavinila</form>
-<tag lemma="zavinit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zavinit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-cmpr9413-019-p4s1w47">
 <src.rf>manual</src.rf>
@@ -532,7 +532,7 @@
 <LM>w#w-cmpr9413-019-p4s2w6</LM>
 </w.rf>
 <form>dala</form>
-<tag lemma="dát" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="dát" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-cmpr9413-019-p4s2w7">
 <src.rf>manual</src.rf>

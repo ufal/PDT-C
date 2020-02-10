@@ -741,7 +741,7 @@
 <LM>w#w-mf930702-067-p2s4w13</LM>
 </w.rf>
 <form>nemělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-mf930702-067-p2s4w14">
 <src.rf>manual</src.rf>

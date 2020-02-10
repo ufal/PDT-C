@@ -173,7 +173,7 @@
 <LM>w#w-lnd92253-019-p1s2w7</LM>
 </w.rf>
 <form>sdělil</form>
-<tag lemma="sdělit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sdělit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92253-019-p1s2w8">
 <src.rf>manual</src.rf>
@@ -346,7 +346,7 @@
 <LM>w#w-lnd92253-019-p2s1w13</LM>
 </w.rf>
 <form>odeslala</form>
-<tag lemma="odeslat" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="odeslat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92253-019-p2s1w14">
 <src.rf>manual</src.rf>
@@ -805,7 +805,7 @@
 <LM>w#w-lnd92253-019-p4s1w7</LM>
 </w.rf>
 <form>otevřela</form>
-<tag lemma="otevřít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="otevřít" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92253-019-p4s1w8">
 <src.rf>manual</src.rf>

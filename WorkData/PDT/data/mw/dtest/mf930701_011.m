@@ -35,7 +35,7 @@
 <LM>w#w-mf930701-011-p1s1w3</LM>
 </w.rf>
 <form>zřítil</form>
-<tag lemma="zřítit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zřítit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-011-p1s1w4">
 <src.rf>manual</src.rf>
@@ -237,7 +237,7 @@
 <LM>w#w-mf930701-011-p2s1w18</LM>
 </w.rf>
 <form>zřítil</form>
-<tag lemma="zřítit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zřítit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-011-p2s1w19">
 <src.rf>manual</src.rf>
@@ -386,7 +386,7 @@
 <LM>w#w-mf930701-011-p3s1w7</LM>
 </w.rf>
 <form>dopadl</form>
-<tag lemma="dopadnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="dopadnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf930701-011-p3s1w8">
 <src.rf>manual</src.rf>
@@ -458,7 +458,7 @@
 <LM>w#w-mf930701-011-p3s1w16</LM>
 </w.rf>
 <form>katapultoval</form>
-<tag lemma="katapultovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="katapultovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930701-011-p3s1w17">
 <src.rf>manual</src.rf>
@@ -540,7 +540,7 @@
 <LM>w#w-mf930701-011-p4s1w6</LM>
 </w.rf>
 <form>nesdělil</form>
-<tag lemma="sdělit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="sdělit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-mf930701-011-p4s1w7">
 <src.rf>manual</src.rf>

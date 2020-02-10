@@ -219,7 +219,7 @@
 <LM>w#w-ln94209-27-p2s1Bw11</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94209-27-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -465,7 +465,7 @@
 <LM>w#w-ln94209-27-p2s2w4</LM>
 </w.rf>
 <form>vyslovil</form>
-<tag lemma="vyslovit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyslovit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94209-27-p2s2w5">
 <src.rf>manual</src.rf>
@@ -521,7 +521,7 @@
 <LM>w#w-ln94209-27-p2s2w12</LM>
 </w.rf>
 <form>nesetkávaly</form>
-<tag lemma="setkávat_:T_^(*4at)" src="orig" selected="1">VpTP---XR-NA---</tag>
+<tag lemma="setkávat_^(*4at)" src="orig" selected="1">VpTP----R-NAI--</tag>
 </m>
 <m id="m-ln94209-27-p2s2w13">
 <src.rf>manual</src.rf>
@@ -609,7 +609,7 @@
 <LM>w#w-ln94209-27-p2s3w2</LM>
 </w.rf>
 <form>jednal</form>
-<tag lemma="jednat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="jednat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94209-27-p2s3w3">
 <src.rf>manual</src.rf>

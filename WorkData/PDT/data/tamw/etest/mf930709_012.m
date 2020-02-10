@@ -103,7 +103,7 @@
 <LM>w#w-mf930709-012-p1s1w11</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930709-012-p1s1w12">
 <src.rf>manual</src.rf>

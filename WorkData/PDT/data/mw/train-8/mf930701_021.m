@@ -311,7 +311,7 @@
 <LM>w#w-mf930701-021-p2s2w14</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930701-021-p2s2w15">
 <src.rf>manual</src.rf>

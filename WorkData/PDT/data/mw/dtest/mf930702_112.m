@@ -43,7 +43,7 @@
 <LM>w#w-mf930702-112-p1s1w4</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930702-112-p1s1w5">
 <src.rf>manual</src.rf>
@@ -171,7 +171,7 @@
 <LM>w#w-mf930702-112-p1s1w20</LM>
 </w.rf>
 <form>zraňovali</form>
-<tag lemma="zraňovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zraňovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930702-112-p1s1w21">
 <src.rf>manual</src.rf>

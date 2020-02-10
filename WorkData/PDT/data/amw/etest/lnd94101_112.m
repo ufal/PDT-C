@@ -107,8 +107,8 @@
 </w.rf>
 <form>zahájena</form>
 <tag>
-<AM lemma="zahájit" src="auto">VsQW---XX-AP---</AM>
-<AM lemma="zahájit_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+<AM lemma="zahájit" src="auto">VsQW----X-APP--</AM>
+<AM lemma="zahájit" src="manual" selected="1">VsQW----X-APP--</AM>
 </tag>
 </m>
 <m id="m-lnd94101-112-p1s3w3">
@@ -117,7 +117,7 @@
 <LM>w#w-lnd94101-112-p1s3w3</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd94101-112-p1s3w4">
 <src.rf>manual</src.rf>
@@ -407,7 +407,7 @@
 <LM>w#w-lnd94101-112-p1s4w11</LM>
 </w.rf>
 <form>poučena</form>
-<tag lemma="poučit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="poučit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd94101-112-p1s4w12">
 <src.rf>manual</src.rf>
@@ -554,7 +554,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>vystaveny</form>
-<tag lemma="vystavit_:W_^(např._potvrzení)" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="vystavit_^(např._potvrzení)" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd94101-112-p1s5w11">
 <src.rf>manual</src.rf>

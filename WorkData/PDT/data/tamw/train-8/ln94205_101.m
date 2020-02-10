@@ -167,7 +167,7 @@
 <LM>w#w-ln94205-101-p2s1w11</LM>
 </w.rf>
 <form>vytkla</form>
-<tag lemma="vytknout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="vytknout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln94205-101-p2s1w12">
 <src.rf>manual</src.rf>
@@ -433,7 +433,7 @@
 <LM>w#w-ln94205-101-p2s2w20</LM>
 </w.rf>
 <form>obrátilo</form>
-<tag lemma="obrátit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="obrátit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94205-101-p2s2w21">
 <src.rf>manual</src.rf>
@@ -505,7 +505,7 @@
 <LM>w#w-ln94205-101-p2s2w29</LM>
 </w.rf>
 <form>odstoupila</form>
-<tag lemma="odstoupit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="odstoupit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94205-101-p2s2w30">
 <src.rf>manual</src.rf>
@@ -608,7 +608,7 @@
 <LM>w#w-ln94205-101-p2s3w7</LM>
 </w.rf>
 <form>zveřejnila</form>
-<tag lemma="zveřejnit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zveřejnit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94205-101-p2s3w8">
 <src.rf>manual</src.rf>
@@ -736,7 +736,7 @@
 <LM>w#w-ln94205-101-p2s3w23</LM>
 </w.rf>
 <form>umožnilo</form>
-<tag lemma="umožnit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="umožnit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94205-101-p2s3w24">
 <src.rf>manual</src.rf>
@@ -786,7 +786,7 @@
 <LM>w#w-ln94205-101-p2s4w1</LM>
 </w.rf>
 <form>Mělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94205-101-p2s4w2">
 <src.rf>manual</src.rf>
@@ -1114,7 +1114,7 @@
 <LM>w#w-ln94205-101-p2s6w3</LM>
 </w.rf>
 <form>vystřídal</form>
-<tag lemma="vystřídat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vystřídat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94205-101-p2s6w4">
 <src.rf>manual</src.rf>
@@ -1186,7 +1186,7 @@
 <LM>w#w-ln94205-101-p2s6w12</LM>
 </w.rf>
 <form>rezignovala</form>
-<tag lemma="rezignovat_:T_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="rezignovat" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-ln94205-101-p2s6w13">
 <src.rf>manual</src.rf>

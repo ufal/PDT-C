@@ -186,7 +186,7 @@
 <LM>w#w-lnd94103-152-p1s3w12</LM>
 </w.rf>
 <form>prodloužila</form>
-<tag lemma="prodloužit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="prodloužit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-152-p1s3w13">
 <src.rf>manual</src.rf>
@@ -242,7 +242,7 @@
 <LM>w#w-lnd94103-152-p1s3w19</LM>
 </w.rf>
 <form>končila</form>
-<tag lemma="končit_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="končit" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-152-p1s3w20">
 <src.rf>manual</src.rf>
@@ -561,7 +561,7 @@
 <LM>w#w-lnd94103-152-p1s5w1</LM>
 </w.rf>
 <form>Informoval</form>
-<tag lemma="informovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="informovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-lnd94103-152-p1s5w2">
 <src.rf>manual</src.rf>
@@ -649,7 +649,7 @@
 <LM>w#w-lnd94103-152-p1s5w12</LM>
 </w.rf>
 <form>dodal</form>
-<tag lemma="dodat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dodat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-152-p1s5w13">
 <src.rf>manual</src.rf>
@@ -1032,7 +1032,7 @@
 <LM>w#w-lnd94103-152-p1s7w8</LM>
 </w.rf>
 <form>neosvědčil</form>
-<tag lemma="osvědčit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="osvědčit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-lnd94103-152-p1s7w9">
 <src.rf>manual</src.rf>

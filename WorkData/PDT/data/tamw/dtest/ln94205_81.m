@@ -385,8 +385,8 @@
 </w.rf>
 <form>přednesl</form>
 <tag>
-<AM lemma="přednést" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="přednést_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="přednést" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="přednést" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94205-81-p2s1Bw37">
@@ -544,7 +544,7 @@
 <LM>w#w-ln94205-81-p2s2w16</LM>
 </w.rf>
 <form>prohlásil</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94205-81-p2s2w17">
 <src.rf>manual</src.rf>
@@ -629,7 +629,7 @@
 <LM>w#w-ln94205-81-p2s2w26</LM>
 </w.rf>
 <form>jmenovala</form>
-<tag lemma="jmenovat_:T_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="jmenovat" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-ln94205-81-p2s2w27">
 <src.rf>manual</src.rf>

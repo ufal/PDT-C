@@ -48,7 +48,7 @@
 <LM>w#w-lnd92257-049-p1s2w2</LM>
 </w.rf>
 <form>HLEDAL</form>
-<tag lemma="hledat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="hledat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92257-049-p1s2w3">
 <src.rf>manual</src.rf>

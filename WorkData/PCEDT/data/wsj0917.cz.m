@@ -99,7 +99,7 @@
 <LM>w#w-wsj0917-001-p1s0W8</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0917-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -452,7 +452,7 @@
 <LM>w#w-wsj0917-001-p1s1W7</LM>
 </w.rf>
 <form>kontrolováno</form>
-<tag lemma="kontrolovat" src="auto" recommended="1">VsNS---XX-API--</tag>
+<tag lemma="kontrolovat" src="auto" recommended="1">VsNS----X-API--</tag>
 </m>
 <m id="m-wsj0917-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1157,7 +1157,7 @@
 <LM>w#w-wsj0917-001-p1s3W21</LM>
 </w.rf>
 <form>charakterizovala</form>
-<tag lemma="charakterizovat" src="auto" recommended="1">VpQW---XR-AAB--</tag>
+<tag lemma="charakterizovat" src="auto" recommended="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-wsj0917-001-p1s3W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1200,7 +1200,7 @@
 <tag>
 <AM lemma="podnik" src="auto">NNIS1-----A----</AM>
 <AM lemma="podnik" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="podniknout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="podniknout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-wsj0917-001-p1s3W24-Ta">
@@ -1356,7 +1356,7 @@
 <LM>w#w-wsj0917-001-p1s4W6</LM>
 </w.rf>
 <form>neposkytla</form>
-<tag lemma="poskytnout" src="auto" recommended="1">VpQW---XR-NAP-1</tag>
+<tag lemma="poskytnout" src="auto" recommended="1">VpQW----R-NAP-1</tag>
 </m>
 <m id="m-wsj0917-001-p1s4W7-Ta">
 <src.rf>tagger-a</src.rf>

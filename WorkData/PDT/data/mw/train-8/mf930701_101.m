@@ -43,7 +43,7 @@
 <LM>w#w-mf930701-101-p1s1w4</LM>
 </w.rf>
 <form>stoupla</form>
-<tag lemma="stoupnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="stoupnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-mf930701-101-p1s1w5">
 <src.rf>manual</src.rf>
@@ -234,7 +234,7 @@
 <LM>w#w-mf930701-101-p1s2w14</LM>
 </w.rf>
 <form>uvěznila</form>
-<tag lemma="uvěznit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="uvěznit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930701-101-p1s2w15">
 <src.rf>manual</src.rf>

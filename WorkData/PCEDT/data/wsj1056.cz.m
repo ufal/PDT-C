@@ -78,7 +78,7 @@
 <LM>w#w-wsj1056-001-p1s0W4</LM>
 </w.rf>
 <form>oznámily</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1056-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -282,7 +282,7 @@
 <LM>w#w-wsj1056-001-p1s1W4</LM>
 </w.rf>
 <form>sledovány</form>
-<tag lemma="sledovat" src="auto" recommended="1">VsTP---XX-API--</tag>
+<tag lemma="sledovat" src="auto" recommended="1">VsTP----X-API--</tag>
 </m>
 <m id="m-wsj1056-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -335,7 +335,7 @@
 <LM>w#w-wsj1056-001-p1s1W9</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag lemma="mít" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj1056-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -593,7 +593,7 @@
 </w.rf>
 <form>brány</form>
 <tag>
-<AM lemma="brát" src="auto" recommended="1">VsTP---XX-API--</AM>
+<AM lemma="brát" src="auto" recommended="1">VsTP----X-API--</AM>
 <AM lemma="brána" src="auto">NNFP1-----A----</AM>
 <AM lemma="brána" src="auto">NNFP4-----A----</AM>
 <AM lemma="brána" src="auto">NNFP5-----A----</AM>
@@ -885,7 +885,7 @@
 <LM>w#w-wsj1056-001-p1s3W17</LM>
 </w.rf>
 <form>předpověděli</form>
-<tag lemma="předpovědět" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="předpovědět" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj1056-001-p1s3W18-Ta">
 <src.rf>tagger-a</src.rf>

@@ -77,7 +77,7 @@
 <LM>w#w-ln95044-023-p2s1Aw3</LM>
 </w.rf>
 <form>dospěla</form>
-<tag lemma="dospět" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="dospět" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95044-023-p2s1Aw4">
 <src.rf>manual</src.rf>
@@ -201,7 +201,7 @@
 <LM>w#w-ln95044-023-p2s1Cw8</LM>
 </w.rf>
 <form>získali</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95044-023-p2s1Cw9">
 <src.rf>manual</src.rf>
@@ -413,7 +413,7 @@
 <LM>w#w-ln95044-023-p3s1w6</LM>
 </w.rf>
 <form>kvalifikovaly</form>
-<tag lemma="kvalifikovat_:T_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="kvalifikovat" src="orig" selected="1">VpTP----R-AAB--</tag>
 </m>
 <m id="m-ln95044-023-p3s1w7">
 <src.rf>manual</src.rf>

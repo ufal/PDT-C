@@ -70,7 +70,7 @@
 <LM>w#w-lnd94103-024-p1s1w7</LM>
 </w.rf>
 <form>končila</form>
-<tag lemma="končit_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="končit" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-024-p1s1w8">
 <src.rf>manual</src.rf>

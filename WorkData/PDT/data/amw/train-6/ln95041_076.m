@@ -213,7 +213,7 @@
 <LM>w#w-ln95041-076-p1s2w11</LM>
 </w.rf>
 <form>vložil</form>
-<tag lemma="vložit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vložit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95041-076-p1s2w12">
 <src.rf>manual</src.rf>

@@ -332,7 +332,7 @@
 <LM>w#w-ln95045-009-p2s2w1</LM>
 </w.rf>
 <form>Řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-009-p2s2w2">
 <src.rf>manual</src.rf>
@@ -396,7 +396,7 @@
 <LM>w#w-ln95045-009-p2s2w9</LM>
 </w.rf>
 <form>projednala</form>
-<tag lemma="projednat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="projednat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95045-009-p2s2w10">
 <src.rf>manual</src.rf>
@@ -885,7 +885,7 @@
 <LM>w#w-ln95045-009-p4s1w3</LM>
 </w.rf>
 <form>nezmínil</form>
-<tag lemma="zmínit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="zmínit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-ln95045-009-p4s1w4">
 <src.rf>manual</src.rf>

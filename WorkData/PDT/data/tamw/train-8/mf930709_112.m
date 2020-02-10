@@ -670,7 +670,7 @@
 <LM>w#w-mf930709-112-p3s2w27</LM>
 </w.rf>
 <form>nezvládla</form>
-<tag lemma="zvládnout_:W" src="orig" selected="1">VpQW---XR-NA--1</tag>
+<tag lemma="zvládnout" src="orig" selected="1">VpQW----R-NAP-1</tag>
 </m>
 <m id="m-mf930709-112-p3s2w28">
 <src.rf>manual</src.rf>
@@ -810,7 +810,7 @@
 <LM>w#w-mf930709-112-p4s1w3</LM>
 </w.rf>
 <form>nastoupili</form>
-<tag lemma="nastoupit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="nastoupit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930709-112-p4s1w4">
 <src.rf>manual</src.rf>

@@ -165,7 +165,7 @@
 <LM>w#w-lnd92253-010-p1s2w3</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd92253-010-p1s2w4">
 <src.rf>manual</src.rf>
@@ -303,7 +303,7 @@
 <LM>w#w-lnd92253-010-p1s3w2</LM>
 </w.rf>
 <form>nabízeno</form>
-<tag lemma="nabízet_:T" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="nabízet" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-lnd92253-010-p1s3w3">
 <src.rf>manual</src.rf>

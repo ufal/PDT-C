@@ -75,7 +75,7 @@
 <LM>w#w-wsj0636-001-p1s0W4</LM>
 </w.rf>
 <form>stáhla</form>
-<tag lemma="stáhnout" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="stáhnout" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0636-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -282,7 +282,7 @@
 <LM>w#w-wsj0636-001-p1s0W14</LM>
 </w.rf>
 <form>odpravila</form>
-<tag lemma="odpravit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="odpravit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0636-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -523,7 +523,7 @@
 <AM lemma="jeden`1" src="auto">ClIS4----------</AM>
 <AM lemma="jeden`1" src="auto" recommended="1">ClYS1----------</AM>
 <AM lemma="jeden`1" src="auto">ClYS5----------</AM>
-<AM lemma="jíst" src="auto">VsYS---XX-API--</AM>
+<AM lemma="jíst" src="auto">VsYS----X-API--</AM>
 </tag>
 </m>
 <m id="m-wsj0636-001-p1s1W5-Ta">
@@ -858,7 +858,7 @@
 <LM>w#w-wsj0636-001-p1s2W8</LM>
 </w.rf>
 <form>stáhla</form>
-<tag lemma="stáhnout" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="stáhnout" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0636-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -981,7 +981,7 @@
 <LM>w#w-wsj0636-001-p1s3W6</LM>
 </w.rf>
 <form>vysílala</form>
-<tag lemma="vysílat" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="vysílat" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj0636-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1095,7 +1095,7 @@
 <LM>w#w-wsj0636-001-p1s3W17</LM>
 </w.rf>
 <form>přitáhla</form>
-<tag lemma="přitáhnout" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="přitáhnout" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0636-001-p1s3W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1717,7 +1717,7 @@
 <LM>w#w-wsj0636-001-p1s4W14</LM>
 </w.rf>
 <form>nerozhodla</form>
-<tag lemma="rozhodnout" src="auto" recommended="1">VpQW---XR-NAP-1</tag>
+<tag lemma="rozhodnout" src="auto" recommended="1">VpQW----R-NAP-1</tag>
 </m>
 <m id="m-wsj0636-001-p1s4W15-Ta">
 <src.rf>tagger-a</src.rf>

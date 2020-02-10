@@ -133,7 +133,7 @@
 <LM>w#w-ln94211-75-p2s1w10</LM>
 </w.rf>
 <form>otiskl</form>
-<tag lemma="otisknout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="otisknout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln94211-75-p2s1w11">
 <src.rf>manual</src.rf>
@@ -245,7 +245,7 @@
 <LM>w#w-ln94211-75-p2s2w3</LM>
 </w.rf>
 <form>nebyl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-ln94211-75-p2s2w4">
 <src.rf>manual</src.rf>
@@ -253,7 +253,7 @@
 <LM>w#w-ln94211-75-p2s2w4</LM>
 </w.rf>
 <form>pořízen</form>
-<tag lemma="pořídit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="pořídit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94211-75-p2s2w5">
 <src.rf>manual</src.rf>
@@ -696,7 +696,7 @@
 <LM>w#w-ln94211-75-p2s6w3</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94211-75-p2s6w4">
 <src.rf>manual</src.rf>
@@ -832,7 +832,7 @@
 <LM>w#w-ln94211-75-p2s6w20</LM>
 </w.rf>
 <form>pořízena</form>
-<tag lemma="pořídit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="pořídit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94211-75-p2s6w21">
 <src.rf>manual</src.rf>

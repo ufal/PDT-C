@@ -60,7 +60,7 @@
 <LM>w#w-ln95046-045-p1s1w6</LM>
 </w.rf>
 <form>přinesl</form>
-<tag lemma="přinést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přinést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95046-045-p1s1w7">
 <src.rf>manual</src.rf>

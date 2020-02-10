@@ -35,7 +35,7 @@
 <LM>w#w-ln95043-006-p1s1w3</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95043-006-p1s1w4">
 <src.rf>manual</src.rf>

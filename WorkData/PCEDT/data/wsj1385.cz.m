@@ -111,7 +111,7 @@
 <LM>w#w-wsj1385-001-p1s0W9</LM>
 </w.rf>
 <form>snížila</form>
-<tag lemma="snížit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="snížit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1385-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -591,7 +591,7 @@
 <LM>w#w-wsj1385-001-p1s1W2</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1385-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -707,7 +707,7 @@
 <LM>w#w-wsj1385-001-p1s1W13</LM>
 </w.rf>
 <form>prodala</form>
-<tag lemma="prodat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="prodat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1385-001-p1s1W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -913,7 +913,7 @@
 <LM>w#w-wsj1385-001-p1s2W2</LM>
 </w.rf>
 <form>uváděly</form>
-<tag lemma="uvádět" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag lemma="uvádět" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj1385-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>

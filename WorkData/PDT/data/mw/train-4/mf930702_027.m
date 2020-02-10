@@ -51,7 +51,7 @@
 <LM>w#w-mf930702-027-p1s1w5</LM>
 </w.rf>
 <form>využili</form>
-<tag lemma="využít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="využít" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930702-027-p1s1w6">
 <src.rf>manual</src.rf>
@@ -401,7 +401,7 @@
 <LM>w#w-mf930702-027-p2s2w13</LM>
 </w.rf>
 <form>zdražil</form>
-<tag lemma="zdražit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zdražit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930702-027-p2s2w14">
 <src.rf>manual</src.rf>
@@ -483,7 +483,7 @@
 <LM>w#w-mf930702-027-p3s1w4</LM>
 </w.rf>
 <form>povoleno</form>
-<tag lemma="povolit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="povolit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf930702-027-p3s1w5">
 <src.rf>manual</src.rf>
@@ -1270,7 +1270,7 @@
 <LM>w#w-mf930702-027-p4s5w3</LM>
 </w.rf>
 <form>nezdražila</form>
-<tag lemma="zdražit_:W" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="zdražit" src="orig" selected="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-mf930702-027-p4s5w4">
 <src.rf>manual</src.rf>
@@ -1326,7 +1326,7 @@
 <LM>w#w-mf930702-027-p4s5w10</LM>
 </w.rf>
 <form>zvedli</form>
-<tag lemma="zvednout_:W" src="auto" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="zvednout" src="auto" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-mf930702-027-p4s5w11">
 <src.rf>manual</src.rf>
@@ -1578,7 +1578,7 @@
 <LM>w#w-mf930702-027-p5s1w25</LM>
 </w.rf>
 <form>snížila</form>
-<tag lemma="snížit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="snížit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930702-027-p5s1w26">
 <src.rf>manual</src.rf>

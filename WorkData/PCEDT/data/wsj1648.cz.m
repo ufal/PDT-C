@@ -50,7 +50,7 @@
 <LM>w#w-wsj1648-001-p1s0W4</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1648-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -191,7 +191,7 @@
 <LM>w#w-wsj1648-001-p1s0W16</LM>
 </w.rf>
 <form>zvýšil</form>
-<tag lemma="zvýšit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="zvýšit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1648-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -551,7 +551,7 @@
 <LM>w#w-wsj1648-001-p1s1W6</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1648-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -601,7 +601,7 @@
 <LM>w#w-wsj1648-001-p1s1W11</LM>
 </w.rf>
 <form>vyskočil</form>
-<tag lemma="vyskočit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="vyskočit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1648-001-p1s1W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -851,7 +851,7 @@
 <LM>w#w-wsj1648-001-p1s2W9</LM>
 </w.rf>
 <form>vzrostla</form>
-<tag lemma="vzrůst-1" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="vzrůst-1" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1648-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -988,7 +988,7 @@
 <LM>w#w-wsj1648-001-p1s2W23</LM>
 </w.rf>
 <form>vzrostl</form>
-<tag lemma="vzrůst-1" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="vzrůst-1" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1648-001-p1s2W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1200,7 +1200,7 @@
 <LM>w#w-wsj1648-001-p1s3W5</LM>
 </w.rf>
 <form>vzrostla</form>
-<tag lemma="vzrůst-1" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="vzrůst-1" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1648-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1289,8 +1289,8 @@
 </w.rf>
 <form>nalétala</form>
 <tag>
-<AM lemma="nalétat-1_^(nalétat_se)" src="auto" recommended="1">VpQW---XR-AAP--</AM>
-<AM lemma="nalétat-2_^(na_cíl)" src="auto">VpQW---XR-AAI--</AM>
+<AM lemma="nalétat-1_^(nalétat_se)" src="auto" recommended="1">VpQW----R-AAP--</AM>
+<AM lemma="nalétat-2_^(na_cíl)" src="auto">VpQW----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-wsj1648-001-p1s3W14-Ta">
@@ -1421,7 +1421,7 @@
 <LM>w#w-wsj1648-001-p1s3W26</LM>
 </w.rf>
 <form>dodala</form>
-<tag lemma="dodat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="dodat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1648-001-p1s3W27-Ta">
 <src.rf>tagger-a</src.rf>

@@ -420,7 +420,7 @@
 <LM>w#w-mf930702-008-p2s2w19</LM>
 </w.rf>
 <form>sídlila</form>
-<tag lemma="sídlit_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="sídlit" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930702-008-p2s2w20">
 <src.rf>manual</src.rf>
@@ -1145,7 +1145,7 @@
 <LM>w#w-mf930702-008-p3s5w20</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930702-008-p3s5w21">
 <src.rf>manual</src.rf>

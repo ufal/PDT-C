@@ -1265,7 +1265,7 @@
 <LM>w#w-ln94210-112-p3s2w8</LM>
 </w.rf>
 <form>předplatili</form>
-<tag lemma="předplatit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="předplatit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94210-112-p3s2w9">
 <src.rf>manual</src.rf>

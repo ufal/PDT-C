@@ -274,7 +274,7 @@
 <LM>w#w-ln95048-055-p2s2w9</LM>
 </w.rf>
 <form>roztrhl</form>
-<tag lemma="roztrhnout_:W" src="auto" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="roztrhnout" src="auto" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln95048-055-p2s2w10">
 <src.rf>manual</src.rf>
@@ -338,7 +338,7 @@
 <LM>w#w-ln95048-055-p2s2w17</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95048-055-p2s2w18">
 <src.rf>manual</src.rf>
@@ -405,7 +405,7 @@
 <LM>w#w-ln95048-055-p2s2w25</LM>
 </w.rf>
 <form>přitahovaly</form>
-<tag lemma="přitahovat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="přitahovat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95048-055-p2s2w26">
 <src.rf>manual</src.rf>
@@ -679,7 +679,7 @@
 <LM>w#w-ln95048-055-p2s3w12</LM>
 </w.rf>
 <form>vyklidily</form>
-<tag lemma="vyklidit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vyklidit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95048-055-p2s3w13">
 <src.rf>manual</src.rf>
@@ -711,7 +711,7 @@
 <LM>w#w-ln95048-055-p2s3w16</LM>
 </w.rf>
 <form>vyklidily</form>
-<tag lemma="vyklidit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vyklidit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95048-055-p2s3w17">
 <src.rf>manual</src.rf>
@@ -759,7 +759,7 @@
 <LM>w#w-ln95048-055-p2s3w22</LM>
 </w.rf>
 <form>stáhly</form>
-<tag lemma="stáhnout" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="stáhnout" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95048-055-p2s3w23">
 <src.rf>manual</src.rf>
@@ -1258,8 +1258,8 @@
 </w.rf>
 <form>začaly</form>
 <tag>
-<AM lemma="začít-1_^(začnout)" src="auto">VpTP---XR-AA---</AM>
-<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpTP---XR-AA---</AM>
+<AM lemma="začít-1_^(začnout)" src="auto">VpTP----R-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95048-055-p3s1w17">

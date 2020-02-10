@@ -227,7 +227,7 @@
 <LM>w#w-lnd92258-005-p1s2w18</LM>
 </w.rf>
 <form>získal</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-005-p1s2w19">
 <src.rf>manual</src.rf>
@@ -307,7 +307,7 @@
 <LM>w#w-lnd92258-005-p1s2w28</LM>
 </w.rf>
 <form>odevzdalo</form>
-<tag lemma="odevzdat_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="odevzdat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-005-p1s2w29">
 <src.rf>manual</src.rf>

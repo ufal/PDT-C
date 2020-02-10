@@ -229,7 +229,7 @@
 <LM>w#w-mf930701-102-p7s1w4</LM>
 </w.rf>
 <form>odmítla</form>
-<tag lemma="odmítnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="odmítnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-mf930701-102-p7s1w5">
 <src.rf>manual</src.rf>
@@ -350,7 +350,7 @@
 <LM>w#w-mf930701-102-p10s1w6</LM>
 </w.rf>
 <form>stabilizoval</form>
-<tag lemma="stabilizovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="stabilizovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 </s>
 <s id="m-mf930701-102-p11s1">

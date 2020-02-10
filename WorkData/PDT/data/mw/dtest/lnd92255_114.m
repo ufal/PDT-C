@@ -221,7 +221,7 @@
 <LM>w#w-lnd92255-114-p2s1w25</LM>
 </w.rf>
 <form>nepřislíbili</form>
-<tag lemma="přislíbit_:W" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="přislíbit" src="orig" selected="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m-lnd92255-114-p2s1w26">
 <src.rf>manual</src.rf>

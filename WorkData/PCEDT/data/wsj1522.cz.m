@@ -50,7 +50,7 @@
 <LM>w#w-wsj1522-001-p1s0W4</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1522-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -128,7 +128,7 @@
 <LM>w#w-wsj1522-001-p1s0W11</LM>
 </w.rf>
 <form>přesunula</form>
-<tag lemma="přesunout" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="přesunout" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1522-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -492,7 +492,7 @@
 <LM>w#w-wsj1522-001-p1s1W6</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj1522-001-p1s1W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -508,7 +508,7 @@
 <LM>w#w-wsj1522-001-p1s1W8</LM>
 </w.rf>
 <form>umístěny</form>
-<tag lemma="umístit" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="umístit" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj1522-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -730,7 +730,7 @@
 <LM>w#w-wsj1522-001-p1s2W7</LM>
 </w.rf>
 <form>označil</form>
-<tag lemma="označit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="označit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1522-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -882,7 +882,7 @@
 <LM>w#w-wsj1522-001-p1s3W2</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1522-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>

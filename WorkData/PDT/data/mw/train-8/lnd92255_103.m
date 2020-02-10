@@ -1140,7 +1140,7 @@
 <LM>w#w-lnd92255-103-p4s2w15</LM>
 </w.rf>
 <form>rozehrály</form>
-<tag lemma="rozehrát" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="rozehrát" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-103-p4s2w16">
 <src.rf>manual</src.rf>
@@ -1569,7 +1569,7 @@
 <LM>w#w-lnd92255-103-p4s4w10</LM>
 </w.rf>
 <form>vystřídal</form>
-<tag lemma="vystřídat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vystřídat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-103-p4s4w11">
 <src.rf>manual</src.rf>

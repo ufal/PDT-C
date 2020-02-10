@@ -43,7 +43,7 @@
 <LM>w#w-lnd92254-067-p1s1w4</LM>
 </w.rf>
 <form>uprchlo</form>
-<tag lemma="uprchnout_:W" src="orig" selected="1">VpNS---XR-AA--1</tag>
+<tag lemma="uprchnout" src="orig" selected="1">VpNS----R-AAP-1</tag>
 </m>
 <m id="m-lnd92254-067-p1s1w5">
 <src.rf>manual</src.rf>
@@ -295,7 +295,7 @@
 <LM>w#w-lnd92254-067-p2s1w4</LM>
 </w.rf>
 <form>žilo</form>
-<tag lemma="žít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="žít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92254-067-p2s1w5">
 <src.rf>manual</src.rf>
@@ -513,7 +513,7 @@
 <LM>w#w-lnd92254-067-p2s2w19</LM>
 </w.rf>
 <form>ohrožena</form>
-<tag lemma="ohrozit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="ohrozit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd92254-067-p2s2w20">
 <src.rf>manual</src.rf>

@@ -392,7 +392,7 @@
 <LM>w#w-lnd92257-074-p3s1w34</LM>
 </w.rf>
 <form>získali</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-074-p3s1w35">
 <src.rf>manual</src.rf>
@@ -493,7 +493,7 @@
 <LM>w#w-lnd92257-074-p3s2w6</LM>
 </w.rf>
 <form>rozhodl</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd92257-074-p3s2w7">
 <src.rf>manual</src.rf>
@@ -635,8 +635,8 @@
 </w.rf>
 <form>vyšel</form>
 <tag>
-<AM lemma="vyjít" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="vyjít_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="vyjít" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="vyjít" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92257-074-p3s3w5">
@@ -1050,7 +1050,7 @@
 <LM>w#w-lnd92257-074-p4s1w37</LM>
 </w.rf>
 <form>nastudovala</form>
-<tag lemma="nastudovat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="nastudovat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-074-p4s1w38">
 <src.rf>manual</src.rf>
@@ -2363,7 +2363,7 @@
 <LM>w#w-lnd92257-074-p5s3w3</LM>
 </w.rf>
 <form>charakterizovány</form>
-<tag lemma="charakterizovat_:T_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="charakterizovat" src="orig" selected="1">VsTP----X-APB--</tag>
 </m>
 <m id="m-lnd92257-074-p5s3w4">
 <src.rf>manual</src.rf>
@@ -2791,8 +2791,8 @@
 </w.rf>
 <form>řekla</form>
 <tag>
-<AM lemma="říci" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpQW----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92257-074-p6s1w17">

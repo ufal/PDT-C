@@ -188,7 +188,7 @@
 <LM>w#w-wsj1838-001-p1s0W14</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1838-001-p1s0W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -196,7 +196,7 @@
 <LM>w#w-wsj1838-001-p1s0W15</LM>
 </w.rf>
 <form>zvolen</form>
-<tag lemma="zvolit" src="auto" recommended="1">VsYS---XX-APP--</tag>
+<tag lemma="zvolit" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj1838-001-p1s0W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -420,7 +420,7 @@
 <LM>w#w-wsj1838-001-p1s0W32</LM>
 </w.rf>
 <form>nastoupil</form>
-<tag lemma="nastoupit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="nastoupit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1838-001-p1s0W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -498,7 +498,7 @@
 </w.rf>
 <form>rezignovala</form>
 <tag>
-<AM lemma="rezignovat" src="auto" recommended="1">VpQW---XR-AAB--</AM></tag>
+<AM lemma="rezignovat" src="auto" recommended="1">VpQW----R-AAB--</AM></tag>
 <comment>
 </comment>
 </m>
@@ -532,7 +532,7 @@
 </w.rf>
 <form>mohla</form>
 <tag>
-<AM lemma="moci" src="auto" recommended="1">VpQW---XR-AAI--</AM></tag>
+<AM lemma="moci" src="auto" recommended="1">VpQW----R-AAI--</AM></tag>
 <comment>
 </comment>
 <form_change>spell</form_change></m>

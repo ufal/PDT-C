@@ -51,7 +51,7 @@
 <LM>w#w-mf930709-003-p1s1w5</LM>
 </w.rf>
 <form>nedohodly</form>
-<tag lemma="dohodnout_:W" src="orig" selected="1">VpTP---XR-NA--1</tag>
+<tag lemma="dohodnout" src="orig" selected="1">VpTP----R-NAP-1</tag>
 </m>
 </s>
 <s id="m-mf930709-003-p2s1A">
@@ -449,7 +449,7 @@
 <LM>w#w-mf930709-003-p2s2w3</LM>
 </w.rf>
 <form>nedohodli</form>
-<tag lemma="dohodnout_:W" src="orig" selected="1">VpMP---XR-NA--1</tag>
+<tag lemma="dohodnout" src="orig" selected="1">VpMP----R-NAP-1</tag>
 </m>
 <m id="m-mf930709-003-p2s2w4">
 <src.rf>manual</src.rf>
@@ -681,7 +681,7 @@
 <LM>w#w-mf930709-003-p4s2w2</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930709-003-p4s2w3">
 <src.rf>manual</src.rf>
@@ -697,7 +697,7 @@
 <LM>w#w-mf930709-003-p4s2w4</LM>
 </w.rf>
 <form>zraněn</form>
-<tag lemma="zranit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zranit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf930709-003-p4s2w5">
 <src.rf>manual</src.rf>

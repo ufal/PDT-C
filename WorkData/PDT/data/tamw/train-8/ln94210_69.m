@@ -107,7 +107,7 @@
 <LM>w#w-ln94210-69-p2s1w10</LM>
 </w.rf>
 <form>jmenoval</form>
-<tag lemma="jmenovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="jmenovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln94210-69-p2s1w11">
 <src.rf>manual</src.rf>

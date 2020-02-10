@@ -143,7 +143,7 @@
 <LM>w#w-ln95042-063-p2s1Bw3</LM>
 </w.rf>
 <form>rozhodnuti</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-ln95042-063-p2s1Bw4">
 <src.rf>manual</src.rf>

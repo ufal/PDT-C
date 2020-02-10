@@ -339,8 +339,8 @@
 </w.rf>
 <form>zaznělo</form>
 <tag>
-<AM lemma="zaznít" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="zaznít_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="zaznít" src="orig">VpNS----R-AAP--</AM>
+<AM lemma="zaznít" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95049-010-p3s1w4">
@@ -533,7 +533,7 @@
 <LM>w#w-ln95049-010-p3s2w4</LM>
 </w.rf>
 <form>vyhovoval</form>
-<tag lemma="vyhovovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyhovovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95049-010-p3s2w5">
 <src.rf>manual</src.rf>

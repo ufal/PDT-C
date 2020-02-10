@@ -71,7 +71,7 @@
 <LM>w#w-lnd92254-084-p2s2w3</LM>
 </w.rf>
 <form>musel</form>
-<tag lemma="muset" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="muset" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92254-084-p2s2w4">
 <src.rf>manual</src.rf>
@@ -87,7 +87,7 @@
 <LM>w#w-lnd92254-084-p2s2w5</LM>
 </w.rf>
 <form>amputován</form>
-<tag lemma="amputovat_:T_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="amputovat" src="orig" selected="1">VsYS----X-APB--</tag>
 </m>
 <m id="m-lnd92254-084-p2s2w6">
 <src.rf>manual</src.rf>

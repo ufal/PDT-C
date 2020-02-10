@@ -267,7 +267,7 @@
 <LM>w#w-wsj1871-001-p1s1W11</LM>
 </w.rf>
 <form>zmiňoval</form>
-<tag lemma="zmiňovat" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="zmiňovat" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1871-001-p1s1W12-Ta">
 <src.rf>tagger-a</src.rf>

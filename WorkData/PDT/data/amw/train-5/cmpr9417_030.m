@@ -1057,7 +1057,7 @@
 <LM>w#w-cmpr9417-030-p4s2w4</LM>
 </w.rf>
 <form>sondoval</form>
-<tag lemma="sondovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sondovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9417-030-p4s2w24">
 <src.rf>manual</src.rf>

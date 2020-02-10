@@ -157,7 +157,7 @@
 <LM>w#w-lnd92251-075-p3s1w8</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92251-075-p3s1w9">
 <src.rf>manual</src.rf>
@@ -166,8 +166,8 @@
 </w.rf>
 <form>zřízen</form>
 <tag>
-<AM lemma="zřídit" src="auto">VsYS---XX-AP---</AM>
-<AM lemma="zřídit_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+<AM lemma="zřídit" src="auto">VsYS----X-APP--</AM>
+<AM lemma="zřídit" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-lnd92251-075-p3s1w10">

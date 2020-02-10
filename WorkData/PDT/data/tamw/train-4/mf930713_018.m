@@ -272,7 +272,7 @@
 <LM>w#w-mf930713-018-p2s2w3</LM>
 </w.rf>
 <form>připravila</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="připravit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930713-018-p2s2w4">
 <src.rf>manual</src.rf>

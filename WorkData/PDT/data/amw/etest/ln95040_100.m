@@ -135,7 +135,7 @@
 <LM>w#w-ln95040-100-p2s1Bw7</LM>
 </w.rf>
 <form>lízal</form>
-<tag lemma="lízat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="lízat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95040-100-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -223,7 +223,7 @@
 <LM>w#w-ln95040-100-p2s1Bw18</LM>
 </w.rf>
 <form>přitahovali</form>
-<tag lemma="přitahovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přitahovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95040-100-p2s1Bw19">
 <src.rf>manual</src.rf>
@@ -425,7 +425,7 @@
 <LM>w#w-ln95040-100-p3s1w15</LM>
 </w.rf>
 <form>zotavily</form>
-<tag lemma="zotavit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zotavit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95040-100-p3s1w16">
 <src.rf>manual</src.rf>
@@ -549,7 +549,7 @@
 <LM>w#w-ln95040-100-p3s1w30</LM>
 </w.rf>
 <form>oslabil</form>
-<tag lemma="oslabit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="oslabit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-100-p3s1w31">
 <src.rf>manual</src.rf>
@@ -957,7 +957,7 @@
 <LM>w#w-ln95040-100-p4s3w4</LM>
 </w.rf>
 <form>okusil</form>
-<tag lemma="okusit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="okusit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-100-p4s3w5">
 <src.rf>manual</src.rf>
@@ -1146,7 +1146,7 @@
 <LM>w#w-ln95040-100-p4s4w9</LM>
 </w.rf>
 <form>dostal</form>
-<tag lemma="dostat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dostat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95040-100-p4s4w10">
 <src.rf>manual</src.rf>

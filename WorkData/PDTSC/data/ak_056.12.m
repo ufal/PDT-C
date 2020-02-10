@@ -1365,7 +1365,7 @@
 <AM lemma="Nesvačily_;G" src="auto">NNIP4-----A----</AM>
 <AM lemma="Nesvačily_;G" src="auto">NNIP5-----A----</AM>
 <AM lemma="Nesvačily_;G" src="auto">NNIP7-----A----</AM>
-<AM lemma="svačit_:T" src="auto">VpTP---XR-NA---</AM>
+<AM lemma="svačit" src="auto">VpTP----R-NAI--</AM>
 </tag>
 </m>
 <m id="m056-484-485">
@@ -1539,7 +1539,7 @@
 <LM>w#w-d1t3385-7</LM>
 </w.rf>
 <form>neřekl</form>
-<tag lemma="říci" src="auto" recommended="1">VpYS---XR-NA---</tag>
+<tag lemma="říci" src="auto" recommended="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m056-d-id157316-punct">
 <w.rf>
@@ -1896,7 +1896,7 @@
 </w.rf>
 <form>zapomněl</form>
 <tag>
-<AM lemma="zapomenout" src="auto" recommended="1">VpYS---XR-AA---</AM>
+<AM lemma="zapomenout" src="auto" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="zapomnět_,a_,n" src="auto">VpYS---XR-AA---</AM>
 </tag>
 </m>
@@ -1977,7 +1977,7 @@
 <LM>w#w-d1t3417-1</LM>
 </w.rf>
 <form>neřekl</form>
-<tag lemma="říci" src="auto" recommended="1">VpYS---XR-NA---</tag>
+<tag lemma="říci" src="auto" recommended="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m056-d1t3419-1">
 <w.rf>
@@ -2620,7 +2620,7 @@
 <LM>w#w-d1t3452-6</LM>
 </w.rf>
 <form>dal</form>
-<tag lemma="dát" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="dát" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m056-d1t3458-1">
 <w.rf>

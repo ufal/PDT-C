@@ -51,7 +51,7 @@
 <LM>w#w-lnd92253-057-p1s1w5</LM>
 </w.rf>
 <form>vkládal</form>
-<tag lemma="vkládat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vkládat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92253-057-p1s1w6">
 <src.rf>manual</src.rf>
@@ -167,7 +167,7 @@
 <LM>w#w-lnd92253-057-p1s1w18</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92253-057-p1s1w19">
 <src.rf>manual</src.rf>

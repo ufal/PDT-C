@@ -695,7 +695,7 @@
 <LM>w#w-ln94209-2-p4s1w16</LM>
 </w.rf>
 <form>zjistili</form>
-<tag lemma="zjistit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zjistit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94209-2-p4s1w17">
 <src.rf>manual</src.rf>
@@ -775,7 +775,7 @@
 <LM>w#w-ln94209-2-p4s1w26</LM>
 </w.rf>
 <form>chyběly</form>
-<tag lemma="chybět_:T_^(někde_něco_chybí)" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="chybět_^(někde_něco_chybí)" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94209-2-p4s1w27">
 <src.rf>manual</src.rf>
@@ -1125,7 +1125,7 @@
 <LM>w#w-ln94209-2-p5s1w9</LM>
 </w.rf>
 <form>nesplnilo</form>
-<tag lemma="splnit_:W" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="splnit" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-ln94209-2-p5s1w10">
 <src.rf>manual</src.rf>
@@ -1165,7 +1165,7 @@
 <LM>w#w-ln94209-2-p5s1w14</LM>
 </w.rf>
 <form>nepřihlásili</form>
-<tag lemma="přihlásit_:W" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="přihlásit" src="orig" selected="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m-ln94209-2-p5s1w15">
 <src.rf>manual</src.rf>
@@ -1309,7 +1309,7 @@
 <LM>w#w-ln94209-2-p5s2w12</LM>
 </w.rf>
 <form>nesplnilo</form>
-<tag lemma="splnit_:W" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="splnit" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-ln94209-2-p5s2w13">
 <src.rf>manual</src.rf>
@@ -1367,7 +1367,7 @@
 <form>vydala</form>
 <tag>
 <AM lemma="vydat-2_:W_^(někomu_konkrétnímu:_př._zločince,_v._věc_zpět)" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="vydat_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="vydat" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94209-2-p5s2w20">
@@ -1557,8 +1557,8 @@
 </w.rf>
 <form>naletělo</form>
 <tag>
-<AM lemma="naletět" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="naletět_:T" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="naletět" src="orig">VpNS----R-AAP--</AM>
+<AM lemma="naletět" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94209-2-p6s2w4">
@@ -2056,7 +2056,7 @@
 <LM>w#w-ln94209-2-p6s5w19</LM>
 </w.rf>
 <form>schválila</form>
-<tag lemma="schválit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="schválit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94209-2-p6s5w20">
 <src.rf>manual</src.rf>

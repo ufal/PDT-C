@@ -78,7 +78,7 @@
 <LM>w#w-wsj1941-001-p1s0W4</LM>
 </w.rf>
 <form>oznámily</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1941-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -298,7 +298,7 @@
 <LM>w#w-wsj1941-001-p1s1W7</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag lemma="mít" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj1941-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -526,7 +526,7 @@
 <LM>w#w-wsj1941-001-p1s2W8</LM>
 </w.rf>
 <form>vynechány</form>
-<tag lemma="vynechat" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="vynechat" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj1941-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -782,7 +782,7 @@
 <LM>w#w-wsj1941-001-p1s3W16</LM>
 </w.rf>
 <form>dodali</form>
-<tag lemma="dodat" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="dodat" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj1941-001-p1s3W17-Ta">
 <src.rf>tagger-a</src.rf>

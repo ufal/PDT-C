@@ -133,7 +133,7 @@
 <LM>w#w-mf920901-029-p3s1w5</LM>
 </w.rf>
 <form>připravila</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="připravit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920901-029-p3s1w6">
 <src.rf>manual</src.rf>
@@ -409,7 +409,7 @@
 <LM>w#w-mf920901-029-p3s3w17</LM>
 </w.rf>
 <form>fascinovala</form>
-<tag lemma="fascinovat_:T_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="fascinovat" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-mf920901-029-p3s3w18">
 <src.rf>manual</src.rf>
@@ -603,7 +603,7 @@
 <LM>w#w-mf920901-029-p3s5w6</LM>
 </w.rf>
 <form>mělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920901-029-p3s5w7">
 <src.rf>manual</src.rf>
@@ -894,7 +894,7 @@
 <LM>w#w-mf920901-029-p3s5w38</LM>
 </w.rf>
 <form>měli</form>
-<tag lemma="mít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf920901-029-p3s5w39">
 <src.rf>manual</src.rf>

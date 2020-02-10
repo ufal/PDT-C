@@ -972,7 +972,7 @@
 <LM>w#w-ln94200-107-p2s6w2</LM>
 </w.rf>
 <form>obvinila</form>
-<tag lemma="obvinit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="obvinit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94200-107-p2s6w3">
 <src.rf>manual</src.rf>
@@ -1028,7 +1028,7 @@
 <LM>w#w-ln94200-107-p2s6w9</LM>
 </w.rf>
 <form>zinscenovala</form>
-<tag lemma="zinscenovat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zinscenovat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94200-107-p2s6w10">
 <src.rf>manual</src.rf>
@@ -1084,7 +1084,7 @@
 <LM>w#w-ln94200-107-p2s6w17</LM>
 </w.rf>
 <form>získala</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94200-107-p2s6w18">
 <src.rf>manual</src.rf>

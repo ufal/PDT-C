@@ -51,7 +51,7 @@
 <LM>w#w-ln95043-085-p1s1w5</LM>
 </w.rf>
 <form>předstoupili</form>
-<tag lemma="předstoupit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="předstoupit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95043-085-p1s1w6">
 <src.rf>manual</src.rf>
@@ -133,7 +133,7 @@
 <LM>w#w-ln95043-085-p1s2w1</LM>
 </w.rf>
 <form>Vyzvali</form>
-<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95043-085-p1s2w2">
 <src.rf>manual</src.rf>
@@ -366,7 +366,7 @@
 <LM>w#w-ln95043-085-p1s3w13</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95043-085-p1s3w14">
 <src.rf>manual</src.rf>

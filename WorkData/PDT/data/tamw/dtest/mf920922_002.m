@@ -702,8 +702,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf920922-002-p2s6w11">
@@ -1080,7 +1080,7 @@
 <LM>w#w-mf920922-002-p2s9w5</LM>
 </w.rf>
 <form>odebral</form>
-<tag lemma="odebrat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odebrat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-002-p2s9w6">
 <src.rf>manual</src.rf>
@@ -1144,7 +1144,7 @@
 <LM>w#w-mf920922-002-p2s9w13</LM>
 </w.rf>
 <form>přidělil</form>
-<tag lemma="přidělit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přidělit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920922-002-p2s9w14">
 <src.rf>manual</src.rf>
@@ -1194,7 +1194,7 @@
 <LM>w#w-mf920922-002-p2s10w3</LM>
 </w.rf>
 <form>věnoval</form>
-<tag lemma="věnovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="věnovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920922-002-p2s10w4">
 <src.rf>manual</src.rf>

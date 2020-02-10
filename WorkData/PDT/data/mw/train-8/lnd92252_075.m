@@ -363,7 +363,7 @@
 <LM>w#w-lnd92252-075-p9s1w7</LM>
 </w.rf>
 <form>bojovali</form>
-<tag lemma="bojovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="bojovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-075-p9s1w8">
 <src.rf>manual</src.rf>

@@ -268,7 +268,7 @@
 <LM>w#w-ln95044-036-p2s2w17</LM>
 </w.rf>
 <form>ohlašoval</form>
-<tag lemma="ohlašovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="ohlašovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95044-036-p2s2w18">
 <src.rf>manual</src.rf>
@@ -350,7 +350,7 @@
 <LM>w#w-ln95044-036-p2s3w2</LM>
 </w.rf>
 <form>Byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95044-036-p2s3w3">
 <src.rf>manual</src.rf>
@@ -398,7 +398,7 @@
 <LM>w#w-ln95044-036-p2s3w8</LM>
 </w.rf>
 <form>připustil</form>
-<tag lemma="připustit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="připustit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95044-036-p2s3w9">
 <src.rf>manual</src.rf>

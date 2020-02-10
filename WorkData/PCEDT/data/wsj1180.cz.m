@@ -103,7 +103,7 @@
 <LM>w#w-wsj1180-001-p1s0W7</LM>
 </w.rf>
 <form>zvýšila</form>
-<tag lemma="zvýšit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="zvýšit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1180-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -713,7 +713,7 @@
 <LM>w#w-wsj1180-001-p1s2W8</LM>
 </w.rf>
 <form>vypláceny</form>
-<tag lemma="vyplácet" src="auto" recommended="1">VsTP---XX-API--</tag>
+<tag lemma="vyplácet" src="auto" recommended="1">VsTP----X-API--</tag>
 </m>
 <m id="m-wsj1180-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -841,7 +841,7 @@
 <LM>w#w-wsj1180-001-p1s3W8</LM>
 </w.rf>
 <form>kontrolován</form>
-<tag lemma="kontrolovat" src="auto" recommended="1">VsYS---XX-API--</tag>
+<tag lemma="kontrolovat" src="auto" recommended="1">VsYS----X-API--</tag>
 </m>
 <m id="m-wsj1180-001-p1s3W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1454,7 +1454,7 @@
 <LM>w#w-wsj1180-001-p1s6W11</LM>
 </w.rf>
 <form>uzavíraly</form>
-<tag lemma="uzavírat" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag lemma="uzavírat" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj1180-001-p1s6W12-Ta">
 <src.rf>tagger-a</src.rf>

@@ -178,7 +178,7 @@
 <LM>w#w-lnd92258-096-p3s1w9</LM>
 </w.rf>
 <form>přečetla</form>
-<tag lemma="přečíst" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="přečíst" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-096-p3s1w10">
 <src.rf>manual</src.rf>
@@ -548,7 +548,7 @@
 <LM>w#w-lnd92258-096-p3s3w16</LM>
 </w.rf>
 <form>doplnila</form>
-<tag lemma="doplnit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="doplnit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-096-p3s3w17">
 <src.rf>manual</src.rf>
@@ -793,7 +793,7 @@
 <LM>w#w-lnd92258-096-p3s4w6</LM>
 </w.rf>
 <form>vnímán</form>
-<tag lemma="vnímat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="vnímat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-lnd92258-096-p3s4w7">
 <src.rf>manual</src.rf>

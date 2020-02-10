@@ -75,7 +75,7 @@
 <LM>w#w-ln94202-64-p1s1w8</LM>
 </w.rf>
 <form>vylétly</form>
-<tag lemma="vylétnout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="vylétnout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-ln94202-64-p1s1w9">
 <src.rf>manual</src.rf>
@@ -141,7 +141,7 @@
 <LM>w#w-ln94202-64-p1s2w3</LM>
 </w.rf>
 <form>provedli</form>
-<tag lemma="provést" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="provést" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94202-64-p1s2w4">
 <src.rf>manual</src.rf>

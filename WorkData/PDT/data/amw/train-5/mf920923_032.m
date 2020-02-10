@@ -35,7 +35,7 @@
 <LM>w#w-mf920923-032-p1s1w3</LM>
 </w.rf>
 <form>chyběla</form>
-<tag lemma="chybět_:T_^(někde_něco_chybí)" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="chybět_^(někde_něco_chybí)" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 </s>
 <s id="m-mf920923-032-p2s1">
@@ -974,7 +974,7 @@
 <LM>w#w-mf920923-032-p2s7w14</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920923-032-p2s7w15">
 <src.rf>manual</src.rf>
@@ -1086,7 +1086,7 @@
 <LM>w#w-mf920923-032-p2s7w28</LM>
 </w.rf>
 <form>neobjevil</form>
-<tag lemma="objevit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="objevit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-mf920923-032-p2s7w29">
 <src.rf>manual</src.rf>
@@ -1121,7 +1121,7 @@
 <LM>w#w-mf920923-032-p2s7w32</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920923-032-p2s7w33">
 <src.rf>manual</src.rf>

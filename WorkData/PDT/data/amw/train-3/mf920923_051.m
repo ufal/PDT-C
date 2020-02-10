@@ -53,7 +53,7 @@
 <LM>w#w-mf920923-051-p2s1w2</LM>
 </w.rf>
 <form>došlo</form>
-<tag lemma="dojít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="dojít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-051-p2s1w3">
 <src.rf>manual</src.rf>

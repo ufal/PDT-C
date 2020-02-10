@@ -117,7 +117,7 @@
 <LM>w#w-ln94204-68-p2s1Bw3</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94204-68-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -125,7 +125,7 @@
 <LM>w#w-ln94204-68-p2s1Bw4</LM>
 </w.rf>
 <form>přepaden</form>
-<tag lemma="přepadnout" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="přepadnout" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94204-68-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -354,7 +354,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>způsobili</form>
-<tag lemma="způsobit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="způsobit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94204-68-p2s3w3">
 <src.rf>manual</src.rf>
@@ -435,7 +435,7 @@
 <LM>w#w-ln94204-68-p2s3w12</LM>
 </w.rf>
 <form>nezranili</form>
-<tag lemma="zranit_:W" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="zranit" src="orig" selected="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m-ln94204-68-p2s3w13">
 <src.rf>manual</src.rf>
@@ -485,7 +485,7 @@
 <LM>w#w-ln94204-68-p2s4w5</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94204-68-p2s4w6">
 <src.rf>manual</src.rf>
@@ -533,7 +533,7 @@
 <LM>w#w-ln94204-68-p2s4w11</LM>
 </w.rf>
 <form>trestán</form>
-<tag lemma="trestat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="trestat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-ln94204-68-p2s4w12">
 <src.rf>manual</src.rf>
@@ -565,7 +565,7 @@
 <LM>w#w-ln94204-68-p2s4w15</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94204-68-p2s4w16">
 <src.rf>manual</src.rf>
@@ -655,7 +655,7 @@
 <LM>w#w-ln94204-68-p2s5w4</LM>
 </w.rf>
 <form>vyšetřován</form>
-<tag lemma="vyšetřovat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="vyšetřovat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-ln94204-68-p2s5w5">
 <src.rf>manual</src.rf>

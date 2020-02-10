@@ -860,7 +860,7 @@
 <LM>w#w-cmpr9416-019-p4s5w9</LM>
 </w.rf>
 <form>vyvíjel</form>
-<tag lemma="vyvíjet_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyvíjet" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9416-019-p4s5w10">
 <src.rf>manual</src.rf>
@@ -900,7 +900,7 @@
 <LM>w#w-cmpr9416-019-p4s5w15</LM>
 </w.rf>
 <form>vykrystalizoval</form>
-<tag lemma="vykrystalizovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vykrystalizovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9416-019-p4s5w16">
 <src.rf>manual</src.rf>

@@ -35,7 +35,7 @@
 <LM>w#w-cmpr9416-005-p2s1w3</LM>
 </w.rf>
 <form>CHTĚLI</form>
-<tag lemma="chtít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="chtít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-cmpr9416-005-p2s1w4">
 <src.rf>manual</src.rf>
@@ -114,7 +114,7 @@
 <LM>w#w-cmpr9416-005-p4s1w4</LM>
 </w.rf>
 <form>dala</form>
-<tag lemma="dát" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="dát" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-cmpr9416-005-p4s1w5">
 <src.rf>manual</src.rf>
@@ -186,7 +186,7 @@
 <LM>w#w-cmpr9416-005-p4s1w13</LM>
 </w.rf>
 <form>nařídil</form>
-<tag lemma="nařídit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nařídit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9416-005-p4s1w14">
 <src.rf>manual</src.rf>
@@ -1023,7 +1023,7 @@
 <LM>w#w-cmpr9416-005-p8s2w17</LM>
 </w.rf>
 <form>vyhověla</form>
-<tag lemma="vyhovět_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyhovět" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-cmpr9416-005-p8s2w18">
 <src.rf>manual</src.rf>
@@ -1087,7 +1087,7 @@
 <LM>w#w-cmpr9416-005-p8s2w25</LM>
 </w.rf>
 <form>vyhovovala</form>
-<tag lemma="vyhovovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyhovovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-cmpr9416-005-p8s2w26">
 <src.rf>manual</src.rf>
@@ -1954,7 +1954,7 @@
 <LM>w#w-cmpr9416-005-p11s4w6</LM>
 </w.rf>
 <form>zpomalila</form>
-<tag lemma="zpomalit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zpomalit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-cmpr9416-005-p11s4w7">
 <src.rf>manual</src.rf>
@@ -2034,7 +2034,7 @@
 <LM>w#w-cmpr9416-005-p11s4w16</LM>
 </w.rf>
 <form>zdražilo</form>
-<tag lemma="zdražit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zdražit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9416-005-p11s4w17">
 <src.rf>manual</src.rf>
@@ -2481,7 +2481,7 @@
 <LM>w#w-cmpr9416-005-p12s3w10</LM>
 </w.rf>
 <form>vedeny</form>
-<tag lemma="vést" src="auto" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="vést" src="auto" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-cmpr9416-005-p12s3w11">
 <src.rf>manual</src.rf>

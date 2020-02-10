@@ -61,7 +61,7 @@
 <LM>w#w-ln95048-146-p2s1w3</LM>
 </w.rf>
 <form>dozvědělo</form>
-<tag lemma="dozvědět" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="dozvědět" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-146-p2s1w4">
 <src.rf>manual</src.rf>

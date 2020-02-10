@@ -287,7 +287,7 @@
 <LM>w#w-ln94210-114-p2s1Bw22</LM>
 </w.rf>
 <form>postoupila</form>
-<tag lemma="postoupit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="postoupit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94210-114-p2s1Bw23">
 <src.rf>manual</src.rf>
@@ -351,7 +351,7 @@
 <LM>w#w-ln94210-114-p2s1Bw30</LM>
 </w.rf>
 <form>vypnula</form>
-<tag lemma="vypnout" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vypnout" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94210-114-p2s1Bw31">
 <src.rf>manual</src.rf>
@@ -391,7 +391,7 @@
 <LM>w#w-ln94210-114-p2s1Bw35</LM>
 </w.rf>
 <form>zaplavala</form>
-<tag lemma="zaplavat" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zaplavat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94210-114-p2s1Bw36">
 <src.rf>manual</src.rf>
@@ -457,7 +457,7 @@
 <LM>w#w-ln94210-114-p2s2w5</LM>
 </w.rf>
 <form>překonala</form>
-<tag lemma="překonat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="překonat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94210-114-p2s2w6">
 <src.rf>manual</src.rf>
@@ -590,7 +590,7 @@
 <LM>w#w-ln94210-114-p2s3w7</LM>
 </w.rf>
 <form>skončila</form>
-<tag lemma="skončit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="skončit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94210-114-p2s3w8">
 <src.rf>manual</src.rf>
@@ -662,7 +662,7 @@
 <LM>w#w-ln94210-114-p2s3w16</LM>
 </w.rf>
 <form>nekvalifikovala</form>
-<tag lemma="kvalifikovat_:T_:W" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="kvalifikovat" src="orig" selected="1">VpQW----R-NAB--</tag>
 </m>
 <m id="m-ln94210-114-p2s3w17">
 <src.rf>manual</src.rf>
@@ -678,7 +678,7 @@
 <LM>w#w-ln94210-114-p2s3w18</LM>
 </w.rf>
 <form>postoupila</form>
-<tag lemma="postoupit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="postoupit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94210-114-p2s3w19">
 <src.rf>manual</src.rf>
@@ -790,7 +790,7 @@
 <LM>w#w-ln94210-114-p2s3w32</LM>
 </w.rf>
 <form>odvolal</form>
-<tag lemma="odvolat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odvolat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94210-114-p2s3w33">
 <src.rf>manual</src.rf>
@@ -824,7 +824,7 @@
 <LM>w#w-ln94210-114-p2s4w3</LM>
 </w.rf>
 <form>padl</form>
-<tag lemma="padnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="padnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln94210-114-p2s4w4">
 <src.rf>manual</src.rf>
@@ -957,7 +957,7 @@
 <LM>w#w-ln94210-114-p2s4w18</LM>
 </w.rf>
 <form>vymazal</form>
-<tag lemma="vymazat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vymazat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94210-114-p2s4w19">
 <src.rf>manual</src.rf>

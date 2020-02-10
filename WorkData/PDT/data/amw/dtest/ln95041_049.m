@@ -364,7 +364,7 @@
 <LM>w#w-ln95041-049-p2s3w5</LM>
 </w.rf>
 <form>přihlášeno</form>
-<tag lemma="přihlásit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="přihlásit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln95041-049-p2s3w6">
 <src.rf>manual</src.rf>
@@ -510,7 +510,7 @@
 <LM>w#w-ln95041-049-p2s4w10</LM>
 </w.rf>
 <form>hodnoceny</form>
-<tag lemma="hodnotit_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="hodnotit" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln95041-049-p2s4w11">
 <src.rf>manual</src.rf>
@@ -718,7 +718,7 @@
 <LM>w#w-ln95041-049-p2s4w36</LM>
 </w.rf>
 <form>vyhrazena</form>
-<tag lemma="vyhradit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="vyhradit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln95041-049-p2s4w37">
 <src.rf>manual</src.rf>
@@ -882,7 +882,7 @@
 <LM>w#w-ln95041-049-p2s6w8</LM>
 </w.rf>
 <form>Napadly</form>
-<tag lemma="napadnout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="napadnout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-ln95041-049-p2s6w9">
 <src.rf>manual</src.rf>
@@ -1222,7 +1222,7 @@
 <LM>w#w-ln95041-049-p2s8w3</LM>
 </w.rf>
 <form>složil</form>
-<tag lemma="složit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="složit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95041-049-p2s8w4">
 <src.rf>manual</src.rf>

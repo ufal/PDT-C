@@ -19,7 +19,7 @@
 <LM>w#w-ln95044-092-p1s1w1</LM>
 </w.rf>
 <form>Zmizely</form>
-<tag lemma="zmizet" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zmizet" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95044-092-p1s1w2">
 <src.rf>manual</src.rf>
@@ -191,7 +191,7 @@
 <LM>w#w-ln95044-092-p2s1Bw17</LM>
 </w.rf>
 <form>ztratily</form>
-<tag lemma="ztratit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="ztratit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95044-092-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -647,7 +647,7 @@
 <LM>w#w-ln95044-092-p2s3w15</LM>
 </w.rf>
 <form>oznámili</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95044-092-p2s3w16">
 <src.rf>manual</src.rf>

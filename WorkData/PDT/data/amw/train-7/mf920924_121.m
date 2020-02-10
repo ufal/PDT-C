@@ -181,7 +181,7 @@
 <LM>w#w-mf920924-121-p2s2w18</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf920924-121-p2s2w19">
 <src.rf>manual</src.rf>

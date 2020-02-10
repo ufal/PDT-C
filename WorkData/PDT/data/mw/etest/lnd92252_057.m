@@ -139,7 +139,7 @@
 <LM>w#w-lnd92252-057-p1s1Aw17</LM>
 </w.rf>
 <form>nosil</form>
-<tag lemma="nosit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nosit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-057-p1s1Aw18">
 <src.rf>manual</src.rf>

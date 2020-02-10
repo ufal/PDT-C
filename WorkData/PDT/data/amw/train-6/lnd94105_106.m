@@ -46,7 +46,7 @@
 <LM>w#w-lnd94105-106-p1s1w4</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd94105-106-p1s1w5">
 <src.rf>manual</src.rf>

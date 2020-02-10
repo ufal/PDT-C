@@ -104,7 +104,7 @@
 <LM>w#w-wsj1579-001-p1s0W9</LM>
 </w.rf>
 <form>získala</form>
-<tag lemma="získat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="získat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1579-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -335,7 +335,7 @@
 <LM>w#w-wsj1579-001-p1s1W2</LM>
 </w.rf>
 <form>vyplynulo</form>
-<tag lemma="vyplynout" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="vyplynout" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj1579-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -529,7 +529,7 @@
 <LM>w#w-wsj1579-001-p1s1W16</LM>
 </w.rf>
 <form>uzavřelo</form>
-<tag lemma="uzavřít" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="uzavřít" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj1579-001-p1s1W17-Ta">
 <src.rf>tagger-a</src.rf>

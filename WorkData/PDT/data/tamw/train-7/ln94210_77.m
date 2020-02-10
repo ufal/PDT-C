@@ -87,7 +87,7 @@
 <LM>w#w-ln94210-77-p2s1Bw3</LM>
 </w.rf>
 <form>zatkla</form>
-<tag lemma="zatknout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="zatknout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln94210-77-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -379,7 +379,7 @@
 <LM>w#w-ln94210-77-p2s3w4</LM>
 </w.rf>
 <form>dovedl</form>
-<tag lemma="dovést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dovést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94210-77-p2s3w5">
 <src.rf>manual</src.rf>
@@ -451,7 +451,7 @@
 <LM>w#w-ln94210-77-p2s3w13</LM>
 </w.rf>
 <form>podíleli</form>
-<tag lemma="podílet_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="podílet" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94210-77-p2s3w14">
 <src.rf>manual</src.rf>
@@ -533,7 +533,7 @@
 <LM>w#w-ln94210-77-p2s4w5</LM>
 </w.rf>
 <form>jmenovaly</form>
-<tag lemma="jmenovat_:T_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="jmenovat" src="orig" selected="1">VpTP----R-AAB--</tag>
 </m>
 <m id="m-ln94210-77-p2s4w6">
 <src.rf>manual</src.rf>
@@ -752,7 +752,7 @@
 <LM>w#w-ln94210-77-p2s5w7</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94210-77-p2s5w8">
 <src.rf>manual</src.rf>
@@ -851,7 +851,7 @@
 <LM>w#w-ln94210-77-p2s5w19</LM>
 </w.rf>
 <form>deportoval</form>
-<tag lemma="deportovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="deportovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94210-77-p2s5w20">
 <src.rf>manual</src.rf>
@@ -909,7 +909,7 @@
 <LM>w#w-ln94210-77-p2s6w4</LM>
 </w.rf>
 <form>přihlásil</form>
-<tag lemma="přihlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přihlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94210-77-p2s6w5">
 <src.rf>manual</src.rf>
@@ -998,8 +998,8 @@
 </w.rf>
 <form>zahynul</form>
 <tag>
-<AM lemma="zahynout" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="zahynout_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="zahynout" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="zahynout" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94210-77-p2s6w16">

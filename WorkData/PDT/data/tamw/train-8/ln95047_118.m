@@ -133,7 +133,7 @@
 <LM>w#w-ln95047-118-p2s1w9</LM>
 </w.rf>
 <form>spojen</form>
-<tag lemma="spojit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="spojit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95047-118-p2s1w10">
 <src.rf>manual</src.rf>

@@ -228,7 +228,7 @@
 <LM>w#w-mf920902-086-p1s1Bw24</LM>
 </w.rf>
 <form>obdrželi</form>
-<tag lemma="obdržet" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="obdržet" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920902-086-p1s1Bw25">
 <src.rf>manual</src.rf>

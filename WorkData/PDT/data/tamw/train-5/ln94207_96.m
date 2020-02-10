@@ -552,7 +552,7 @@
 <LM>w#w-ln94207-96-p3s2w17</LM>
 </w.rf>
 <form>vyplynul</form>
-<tag lemma="vyplynout" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyplynout" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94207-96-p3s2w18">
 <src.rf>manual</src.rf>
@@ -896,7 +896,7 @@
 <form>Vydala</form>
 <tag>
 <AM lemma="vydat-1_:W_^(emitovat:_cenné_papíry,_knihu,_zvuk,...)" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="vydat_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="vydat" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94207-96-p4s3w2">

@@ -199,7 +199,7 @@
 <LM>w#w-cmpr9407-013-p5s3w8</LM>
 </w.rf>
 <form>nepostupoval</form>
-<tag lemma="postupovat_:T" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="postupovat" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-cmpr9407-013-p5s3w9">
 <src.rf>manual</src.rf>
@@ -327,7 +327,7 @@
 <LM>w#w-cmpr9407-013-p5s5w5</LM>
 </w.rf>
 <form>připravena</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="připravit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-cmpr9407-013-p5s5w6">
 <src.rf>manual</src.rf>
@@ -669,7 +669,7 @@
 <LM>w#w-cmpr9407-013-p7s2w5</LM>
 </w.rf>
 <form>založil</form>
-<tag lemma="založit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="založit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9407-013-p7s2w6">
 <src.rf>manual</src.rf>
@@ -1517,8 +1517,8 @@
 </w.rf>
 <form>přesáhl</form>
 <tag>
-<AM lemma="přesáhnout" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="přesáhnout_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="přesáhnout" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="přesáhnout" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-013-p9s1w10">
@@ -1685,8 +1685,8 @@
 </w.rf>
 <form>přesáhl</form>
 <tag>
-<AM lemma="přesáhnout" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="přesáhnout_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="přesáhnout" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="přesáhnout" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-cmpr9407-013-p9s1w30">
@@ -2006,7 +2006,7 @@
 <LM>w#w-cmpr9407-013-p11s1w14</LM>
 </w.rf>
 <form>sdružil</form>
-<tag lemma="sdružit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sdružit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9407-013-p11s1w15">
 <src.rf>manual</src.rf>
@@ -2348,7 +2348,7 @@
 <LM>w#w-cmpr9407-013-p13s3w6</LM>
 </w.rf>
 <form>stanoven</form>
-<tag lemma="stanovit_:W_^(určit)" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="stanovit_^(určit)" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-cmpr9407-013-p13s3w7">
 <src.rf>manual</src.rf>
@@ -2596,7 +2596,7 @@
 <LM>w#w-cmpr9407-013-p13s4w26</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9407-013-p13s4w27">
 <src.rf>manual</src.rf>

@@ -51,7 +51,7 @@
 <LM>w#w-ln94205-29-p1s1w5</LM>
 </w.rf>
 <form>zpívali</form>
-<tag lemma="zpívat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zpívat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln94205-29-p1s1w6">
 <src.rf>manual</src.rf>

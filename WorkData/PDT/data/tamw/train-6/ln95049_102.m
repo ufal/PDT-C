@@ -317,7 +317,7 @@
 <LM>w#w-ln95049-102-p2s2w5</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95049-102-p2s2w6">
 <src.rf>manual</src.rf>
@@ -679,7 +679,7 @@
 <LM>w#w-ln95049-102-p2s4w11</LM>
 </w.rf>
 <form>formulována</form>
-<tag lemma="formulovat_:T_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="formulovat" src="orig" selected="1">VsQW----X-APB--</tag>
 </m>
 <m id="m-ln95049-102-p2s4w12">
 <src.rf>manual</src.rf>
@@ -890,7 +890,7 @@
 <LM>w#w-ln95049-102-p3s1w3</LM>
 </w.rf>
 <form>označil</form>
-<tag lemma="označit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="označit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95049-102-p3s1w4">
 <src.rf>manual</src.rf>

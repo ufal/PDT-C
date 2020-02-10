@@ -147,7 +147,7 @@
 <LM>w#w-mf920925-123-p4s2w4</LM>
 </w.rf>
 <form>vyvrcholila</form>
-<tag lemma="vyvrcholit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyvrcholit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920925-123-p4s2w5">
 <src.rf>manual</src.rf>
@@ -723,7 +723,7 @@
 <LM>w#w-mf920925-123-p4s6w13</LM>
 </w.rf>
 <form>neměla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-mf920925-123-p4s6w14">
 <src.rf>manual</src.rf>

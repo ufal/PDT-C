@@ -27,7 +27,7 @@
 <LM>w#w-mf930709-092-p1s1Aw2</LM>
 </w.rf>
 <form>ujel</form>
-<tag lemma="ujet" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="ujet" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-092-p1s1Aw3">
 <src.rf>manual</src.rf>
@@ -52,8 +52,8 @@
 </w.rf>
 <form>vyhrál</form>
 <tag>
-<AM lemma="vyhrát" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="vyhrát_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="vyhrát" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="vyhrát" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 </s>
@@ -114,7 +114,7 @@
 <LM>w#w-mf930709-092-p1s1Cw4</LM>
 </w.rf>
 <form>ujel</form>
-<tag lemma="ujet" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="ujet" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-092-p1s1Cw5">
 <src.rf>manual</src.rf>
@@ -171,8 +171,8 @@
 </w.rf>
 <form>vyhrál</form>
 <tag>
-<AM lemma="vyhrát" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="vyhrát_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="vyhrát" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="vyhrát" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930709-092-p1s1Cw12">
@@ -276,7 +276,7 @@
 <LM>w#w-mf930709-092-p1s1Cw21</LM>
 </w.rf>
 <form>vedla</form>
-<tag lemma="vést" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vést" src="auto" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930709-092-p1s1Cw22">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <LM>w#w-mf930709-092-p1s1Cw27</LM>
 </w.rf>
 <form>měřila</form>
-<tag lemma="měřit_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="měřit" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930709-092-p1s1Cw28">
 <src.rf>manual</src.rf>

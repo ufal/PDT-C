@@ -307,7 +307,7 @@
 <LM>w#w-wsj0410-001-p1s1W3</LM>
 </w.rf>
 <form>neupřesnilo</form>
-<tag lemma="upřesnit" src="auto" recommended="1">VpNS---XR-NAP--</tag>
+<tag lemma="upřesnit" src="auto" recommended="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-wsj0410-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -339,7 +339,7 @@
 <LM>w#w-wsj0410-001-p1s1W7</LM>
 </w.rf>
 <form>mělo</form>
-<tag lemma="mít" src="auto" recommended="1">VpNS---XR-AAI--</tag>
+<tag lemma="mít" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-wsj0410-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>

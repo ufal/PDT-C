@@ -51,7 +51,7 @@
 <LM>w#w-lnd92255-108-p1s1w5</LM>
 </w.rf>
 <form>zataženo</form>
-<tag lemma="zatáhnout" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zatáhnout" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92255-108-p1s1w6">
 <src.rf>manual</src.rf>
@@ -536,7 +536,7 @@
 <LM>w#w-lnd92255-108-p2s1w12</LM>
 </w.rf>
 <form>zamračeno</form>
-<tag lemma="zamračit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zamračit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92255-108-p2s1w13">
 <src.rf>manual</src.rf>

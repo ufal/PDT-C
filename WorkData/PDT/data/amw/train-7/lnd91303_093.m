@@ -242,7 +242,7 @@
 <LM>w#w-lnd91303-093-p1s2w7</LM>
 </w.rf>
 <form>nevyhnul</form>
-<tag lemma="vyhnout" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="vyhnout" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-lnd91303-093-p1s2w8">
 <src.rf>manual</src.rf>
@@ -298,7 +298,7 @@
 <LM>w#w-lnd91303-093-p1s2w14</LM>
 </w.rf>
 <form>opravoval</form>
-<tag lemma="opravovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="opravovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-093-p1s2w15">
 <src.rf>manual</src.rf>

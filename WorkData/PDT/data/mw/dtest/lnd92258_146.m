@@ -542,7 +542,7 @@
 <LM>w#w-lnd92258-146-p2s4w5</LM>
 </w.rf>
 <form>zachován</form>
-<tag lemma="zachovat_:T" src="auto" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zachovat" src="auto" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-lnd92258-146-p2s4w6">
 <src.rf>manual</src.rf>
@@ -560,7 +560,7 @@
 <LM>w#w-lnd92258-146-p2s5w1</LM>
 </w.rf>
 <form>Rozhodl</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-lnd92258-146-p2s5w2">
 <src.rf>manual</src.rf>
@@ -709,7 +709,7 @@
 <LM>w#w-lnd92258-146-p2s6w12</LM>
 </w.rf>
 <form>upřesněny</form>
-<tag lemma="upřesnit" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="upřesnit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd92258-146-p2s6w13">
 <src.rf>manual</src.rf>

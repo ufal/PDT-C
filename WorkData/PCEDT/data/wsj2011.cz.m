@@ -419,7 +419,7 @@
 <LM>w#w-wsj2011-001-p1s0W37</LM>
 </w.rf>
 <form>zakořeněn</form>
-<tag lemma="zakořenit" src="auto" recommended="1">VsYS---XX-APP--</tag>
+<tag lemma="zakořenit" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj2011-001-p1s0W38-Ta">
 <src.rf>tagger-a</src.rf>
@@ -668,7 +668,7 @@
 <LM>w#w-wsj2011-001-p1s2W1</LM>
 </w.rf>
 <form>Bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-wsj2011-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -917,7 +917,7 @@
 <LM>w#w-wsj2011-001-p1s4W4</LM>
 </w.rf>
 <form>skončila</form>
-<tag lemma="skončit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="skončit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2011-001-p1s4W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1021,7 +1021,7 @@
 <LM>w#w-wsj2011-001-p1s5W3</LM>
 </w.rf>
 <form>ustoupily</form>
-<tag lemma="ustoupit" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="ustoupit" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj2011-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1287,7 +1287,7 @@
 <LM>w#w-wsj2011-001-p1s6W4</LM>
 </w.rf>
 <form>muselo</form>
-<tag lemma="muset" src="auto" recommended="1">VpNS---XR-AAI--</tag>
+<tag lemma="muset" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-wsj2011-001-p1s6W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1403,7 +1403,7 @@
 </w.rf>
 <form>set</form>
 <tag>
-<AM lemma="sít_^(zasévat_[semena,...])" src="auto">VsYS---XX-API--</AM>
+<AM lemma="sít_^(zasévat_[semena,...])" src="auto">VsYS----X-API--</AM>
 <AM lemma="set-1_^(sada)" src="auto">NNIS1-----A----</AM>
 <AM lemma="set-1_^(sada)" src="auto">NNIS4-----A----</AM>
 <AM lemma="set-77" src="auto">F%-------------</AM>
@@ -1618,7 +1618,7 @@
 <LM>w#w-wsj2011-001-p1s7W6</LM>
 </w.rf>
 <form>neodzvonil</form>
-<tag lemma="odzvonit" src="auto" recommended="1">VpYS---XR-NAP--</tag>
+<tag lemma="odzvonit" src="auto" recommended="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-wsj2011-001-p1s7W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2400,7 +2400,7 @@
 <LM>w#w-wsj2011-001-p1s9W34</LM>
 </w.rf>
 <form>uzamkla</form>
-<tag lemma="uzamknout" src="auto" recommended="1">VpQW---XR-AAP-1</tag>
+<tag lemma="uzamknout" src="auto" recommended="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-wsj2011-001-p1s9W35-Ta">
 <src.rf>tagger-a</src.rf>

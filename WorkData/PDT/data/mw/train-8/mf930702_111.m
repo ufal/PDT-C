@@ -70,7 +70,7 @@
 <LM>w#w-mf930702-111-p1s1w7</LM>
 </w.rf>
 <form>zažehnána</form>
-<tag lemma="zažehnat_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zažehnat" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 </s>
 <s id="m-mf930702-111-p2s1">
@@ -288,7 +288,7 @@
 <LM>w#w-mf930702-111-p2s1w27</LM>
 </w.rf>
 <form>oznámilo</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930702-111-p2s1w28">
 <src.rf>manual</src.rf>
@@ -328,7 +328,7 @@
 <LM>w#w-mf930702-111-p2s1w32</LM>
 </w.rf>
 <form>uposlechly</form>
-<tag lemma="uposlechnout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="uposlechnout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-mf930702-111-p2s1w33">
 <src.rf>manual</src.rf>
@@ -490,7 +490,7 @@
 <LM>w#w-mf930702-111-p2s2w14</LM>
 </w.rf>
 <form>neuposlechla</form>
-<tag lemma="uposlechnout_:W" src="orig" selected="1">VpQW---XR-NA--1</tag>
+<tag lemma="uposlechnout" src="orig" selected="1">VpQW----R-NAP-1</tag>
 </m>
 <m id="m-mf930702-111-p2s2w15">
 <src.rf>manual</src.rf>

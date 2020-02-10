@@ -286,7 +286,7 @@
 <LM>w#w-mf930701-031-p2s2w1</LM>
 </w.rf>
 <form>Uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-031-p2s2w2">
 <src.rf>manual</src.rf>
@@ -455,7 +455,7 @@
 <LM>w#w-mf930701-031-p3s1w3</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-031-p3s1w4">
 <src.rf>manual</src.rf>
@@ -653,7 +653,7 @@
 <LM>w#w-mf930701-031-p3s2w5</LM>
 </w.rf>
 <form>orientovány</form>
-<tag lemma="orientovat_:T_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="orientovat" src="orig" selected="1">VsTP----X-APB--</tag>
 </m>
 <m id="m-mf930701-031-p3s2w6">
 <src.rf>manual</src.rf>
@@ -1141,7 +1141,7 @@
 <LM>w#w-mf930701-031-p5s1w19</LM>
 </w.rf>
 <form>nakloněno</form>
-<tag lemma="naklonit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="naklonit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf930701-031-p5s1w20">
 <src.rf>manual</src.rf>
@@ -1191,7 +1191,7 @@
 <LM>w#w-mf930701-031-p5s2w5</LM>
 </w.rf>
 <form>vyjádřil</form>
-<tag lemma="vyjádřit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyjádřit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-031-p5s2w6">
 <src.rf>manual</src.rf>
@@ -1223,7 +1223,7 @@
 <LM>w#w-mf930701-031-p5s2w9</LM>
 </w.rf>
 <form>nabídl</form>
-<tag lemma="nabídnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="nabídnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf930701-031-p5s2w10">
 <src.rf>manual</src.rf>
@@ -1295,7 +1295,7 @@
 <LM>w#w-mf930701-031-p5s2w18</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-031-p5s2w19">
 <src.rf>manual</src.rf>
@@ -1345,7 +1345,7 @@
 <LM>w#w-mf930701-031-p6s1w5</LM>
 </w.rf>
 <form>vybaven</form>
-<tag lemma="vybavit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="vybavit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf930701-031-p6s1w6">
 <src.rf>manual</src.rf>
@@ -1627,7 +1627,7 @@
 <LM>w#w-mf930701-031-p6s3w8</LM>
 </w.rf>
 <form>odzkoušen</form>
-<tag lemma="odzkoušet_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="odzkoušet" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf930701-031-p6s3w9">
 <src.rf>manual</src.rf>
@@ -2107,7 +2107,7 @@
 <LM>w#w-mf930701-031-p7s4w14</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-031-p7s4w15">
 <src.rf>manual</src.rf>

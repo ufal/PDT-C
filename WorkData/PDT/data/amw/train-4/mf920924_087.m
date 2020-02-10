@@ -155,7 +155,7 @@
 <LM>w#w-mf920924-087-p1s2w10</LM>
 </w.rf>
 <form>skóroval</form>
-<tag lemma="skórovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="skórovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-mf920924-087-p1s2w11">
 <src.rf>manual</src.rf>
@@ -219,7 +219,7 @@
 <LM>w#w-mf920924-087-p1s2w18</LM>
 </w.rf>
 <form>nechválil</form>
-<tag lemma="chválit_:T" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="chválit" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-mf920924-087-p1s2w19">
 <src.rf>manual</src.rf>

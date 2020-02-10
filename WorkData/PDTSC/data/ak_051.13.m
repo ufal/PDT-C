@@ -38,7 +38,7 @@
 <LM>w#w-d1t4489-3</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m051-d1t4489-4">
 <w.rf>
@@ -265,7 +265,7 @@
 <LM>w#w-d1t4499-7</LM>
 </w.rf>
 <form>povídalo</form>
-<tag lemma="povídat_:T" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="povídat" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m051-d-m-d1e4494-x2-punct-punct">
 <w.rf>
@@ -376,7 +376,7 @@
 <LM>w#w-d1t4513-4</LM>
 </w.rf>
 <form>zavzpomínala</form>
-<tag lemma="zavzpomínat_:W" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="zavzpomínat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m051-d-m-d1e4510-x2-punct-punct">
 <w.rf>

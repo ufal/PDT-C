@@ -361,7 +361,7 @@
 <LM>w#w-mf930713-013-p4s2w13</LM>
 </w.rf>
 <form>podíleli</form>
-<tag lemma="podílet_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="podílet" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930713-013-p4s2w14">
 <src.rf>manual</src.rf>
@@ -929,7 +929,7 @@
 <LM>w#w-mf930713-013-p4s4w23</LM>
 </w.rf>
 <form>realizovali</form>
-<tag lemma="realizovat_:T_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="realizovat" src="orig" selected="1">VpMP----R-AAB--</tag>
 </m>
 <m id="m-mf930713-013-p4s4w24">
 <src.rf>manual</src.rf>
@@ -1001,7 +1001,7 @@
 <LM>w#w-mf930713-013-p4s4w32</LM>
 </w.rf>
 <form>odlišovaly</form>
-<tag lemma="odlišovat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="odlišovat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930713-013-p4s4w33">
 <src.rf>manual</src.rf>
@@ -1147,7 +1147,7 @@
 <LM>w#w-mf930713-013-p4s5w7</LM>
 </w.rf>
 <form>pojímali</form>
-<tag lemma="pojímat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="pojímat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930713-013-p4s5w8">
 <src.rf>manual</src.rf>
@@ -1632,7 +1632,7 @@
 <LM>w#w-mf930713-013-p4s6w24</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf930713-013-p4s6w25">
 <src.rf>manual</src.rf>

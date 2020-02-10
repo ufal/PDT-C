@@ -343,7 +343,7 @@
 <LM>w#w-wsj0920-001-p1s0W30</LM>
 </w.rf>
 <form>uvedlo</form>
-<tag lemma="uvést" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj0920-001-p1s0W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -430,7 +430,7 @@
 <LM>w#w-wsj0920-001-p1s1W5</LM>
 </w.rf>
 <form>použit</form>
-<tag lemma="použít" src="auto" recommended="1">VsYS---XX-APP--</tag>
+<tag lemma="použít" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj0920-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>

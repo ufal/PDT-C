@@ -686,7 +686,7 @@
 <LM>w#w-mf920922-043-p4s1w9</LM>
 </w.rf>
 <form>naměřili</form>
-<tag lemma="naměřit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="naměřit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920922-043-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1122,7 +1122,7 @@
 <LM>w#w-mf920922-043-p7s2w5</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf920922-043-p7s2w6">
 <src.rf>manual</src.rf>

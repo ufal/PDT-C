@@ -106,7 +106,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>schválilo</form>
-<tag lemma="schválit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="schválit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95043-040-p2s1Bw4">
 <src.rf>manual</src.rf>
@@ -279,7 +279,7 @@
 <LM>w#w-ln95043-040-p2s2w3</LM>
 </w.rf>
 <form>nebyli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-ln95043-040-p2s2w4">
 <src.rf>manual</src.rf>
@@ -287,7 +287,7 @@
 <LM>w#w-ln95043-040-p2s2w4</LM>
 </w.rf>
 <form>zvýhodněni</form>
-<tag lemma="zvýhodnit" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="zvýhodnit" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-ln95043-040-p2s2w5">
 <src.rf>manual</src.rf>
@@ -745,7 +745,7 @@
 <LM>w#w-ln95043-040-p3s1w35</LM>
 </w.rf>
 <form>přidělen</form>
-<tag lemma="přidělit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="přidělit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95043-040-p3s1w36">
 <src.rf>manual</src.rf>

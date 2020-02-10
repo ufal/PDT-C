@@ -188,7 +188,7 @@
 <LM>w#w-lnd92258-151-p1s1w20</LM>
 </w.rf>
 <form>odbyla</form>
-<tag lemma="odbýt" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="odbýt" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-151-p1s1w21">
 <src.rf>manual</src.rf>
@@ -252,7 +252,7 @@
 <LM>w#w-lnd92258-151-p1s1w28</LM>
 </w.rf>
 <form>zamířila</form>
-<tag lemma="zamířit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zamířit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-151-p1s1w29">
 <src.rf>manual</src.rf>
@@ -310,7 +310,7 @@
 <LM>w#w-lnd92258-151-p1s2w4</LM>
 </w.rf>
 <form>obdržel</form>
-<tag lemma="obdržet" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="obdržet" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-151-p1s2w5">
 <src.rf>manual</src.rf>

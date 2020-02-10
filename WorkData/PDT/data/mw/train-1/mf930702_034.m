@@ -405,8 +405,8 @@
 </w.rf>
 <form>podepsali</form>
 <tag>
-<AM lemma="podepsat" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="podepsat_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+<AM lemma="podepsat" src="orig">VpMP----R-AAP--</AM>
+<AM lemma="podepsat" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930702-034-p2s1w37">

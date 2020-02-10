@@ -308,7 +308,7 @@
 <LM>w#w-lnd91303-018-p4s2w11</LM>
 </w.rf>
 <form>odstraněny</form>
-<tag lemma="odstranit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="odstranit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd91303-018-p4s2w12">
 <src.rf>manual</src.rf>
@@ -340,7 +340,7 @@
 <LM>w#w-lnd91303-018-p4s2w15</LM>
 </w.rf>
 <form>zbourán</form>
-<tag lemma="zbourat_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zbourat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd91303-018-p4s2w16">
 <src.rf>manual</src.rf>
@@ -430,7 +430,7 @@
 <LM>w#w-lnd91303-018-p4s3w3</LM>
 </w.rf>
 <form>pobíralo</form>
-<tag lemma="pobírat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="pobírat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-018-p4s3w4">
 <src.rf>manual</src.rf>

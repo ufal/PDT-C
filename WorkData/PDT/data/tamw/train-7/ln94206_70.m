@@ -85,7 +85,7 @@
 <LM>w#w-ln94206-70-p2s1w5</LM>
 </w.rf>
 <form>zatoužil</form>
-<tag lemma="zatoužit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zatoužit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94206-70-p2s1w6">
 <src.rf>manual</src.rf>

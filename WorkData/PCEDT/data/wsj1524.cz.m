@@ -32,7 +32,7 @@
 <LM>w#w-wsj1524-001-p1s0W2</LM>
 </w.rf>
 <form>uvedli</form>
-<tag lemma="uvést" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj1524-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>

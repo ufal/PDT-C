@@ -1954,7 +1954,7 @@
 <LM>w#w-mf920925-095-p85s1w2</LM>
 </w.rf>
 <form>Chytila</form>
-<tag lemma="chytit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="chytit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920925-095-p85s1w3">
 <src.rf>manual</src.rf>

@@ -174,7 +174,7 @@
 <LM>w#w-wsj0594-001-p1s1W9</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj0594-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>

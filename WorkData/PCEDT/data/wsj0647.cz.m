@@ -58,7 +58,7 @@
 <LM>w#w-wsj0647-001-p1s0W5</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0647-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -399,7 +399,7 @@
 <LM>w#w-wsj0647-001-p1s0W30</LM>
 </w.rf>
 <form>přeměnil</form>
-<tag lemma="přeměnit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="přeměnit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0647-001-p1s0W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -574,7 +574,7 @@
 <LM>w#w-wsj0647-001-p1s1W3</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0647-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2117,7 +2117,7 @@
 <LM>w#w-wsj0647-001-p1s5W10</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0647-001-p1s5W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2245,7 +2245,7 @@
 <LM>w#w-wsj0647-001-p1s5W22</LM>
 </w.rf>
 <form>přeměněny</form>
-<tag lemma="přeměnit" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="přeměnit" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj0647-001-p1s5W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2307,7 +2307,7 @@
 <LM>w#w-wsj0647-001-p1s6W4</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0647-001-p1s6W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2466,7 +2466,7 @@
 <LM>w#w-wsj0647-001-p1s6W15</LM>
 </w.rf>
 <form>najala</form>
-<tag lemma="najmout" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="najmout" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0647-001-p1s6W16-Ta">
 <src.rf>tagger-a</src.rf>

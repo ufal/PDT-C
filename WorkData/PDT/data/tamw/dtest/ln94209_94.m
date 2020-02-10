@@ -321,7 +321,7 @@
 <LM>w#w-ln94209-94-p2s1Bw24</LM>
 </w.rf>
 <form>potvrdil</form>
-<tag lemma="potvrdit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="potvrdit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94209-94-p2s1Bw25">
 <src.rf>manual</src.rf>
@@ -585,7 +585,7 @@
 <LM>w#w-ln94209-94-p2s2w21</LM>
 </w.rf>
 <form>neabsolvoval</form>
-<tag lemma="absolvovat_:T_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="absolvovat" src="orig" selected="1">VpYS----R-NAB--</tag>
 </m>
 <m id="m-ln94209-94-p2s2w22">
 <src.rf>manual</src.rf>
@@ -845,7 +845,7 @@
 <LM>w#w-ln94209-94-p2s4w13</LM>
 </w.rf>
 <form>projevil</form>
-<tag lemma="projevit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="projevit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94209-94-p2s4w14">
 <src.rf>manual</src.rf>

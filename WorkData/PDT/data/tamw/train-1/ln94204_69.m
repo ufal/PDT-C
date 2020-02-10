@@ -244,7 +244,7 @@
 <LM>w#w-ln94204-69-p2s2w5</LM>
 </w.rf>
 <form>ohrožoval</form>
-<tag lemma="ohrožovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="ohrožovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94204-69-p2s2w6">
 <src.rf>manual</src.rf>
@@ -276,7 +276,7 @@
 <LM>w#w-ln94204-69-p2s2w9</LM>
 </w.rf>
 <form>inkasoval</form>
-<tag lemma="inkasovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="inkasovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln94204-69-p2s2w10">
 <src.rf>manual</src.rf>
@@ -310,7 +310,7 @@
 <LM>w#w-ln94204-69-p2s3w3</LM>
 </w.rf>
 <form>musela</form>
-<tag lemma="muset" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="muset" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94204-69-p2s3w4">
 <src.rf>manual</src.rf>

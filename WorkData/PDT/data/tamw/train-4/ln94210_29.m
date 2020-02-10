@@ -193,8 +193,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94210-29-p2s1Bw13">
@@ -660,7 +660,7 @@
 <LM>w#w-ln94210-29-p2s4w5</LM>
 </w.rf>
 <form>upozorňoval</form>
-<tag lemma="upozorňovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="upozorňovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94210-29-p2s4w6">
 <src.rf>manual</src.rf>
@@ -685,8 +685,8 @@
 </w.rf>
 <form>přispělo</form>
 <tag>
-<AM lemma="přispět" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="přispět_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="přispět" src="orig">VpNS----R-AAP--</AM>
+<AM lemma="přispět" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94210-29-p2s4w9">

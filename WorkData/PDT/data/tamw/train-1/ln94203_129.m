@@ -54,7 +54,7 @@
 <LM>w#w-ln94203-129-p1s1w5</LM>
 </w.rf>
 <form>zadržovány</form>
-<tag lemma="zadržovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="zadržovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln94203-129-p1s1w6">
 <src.rf>manual</src.rf>

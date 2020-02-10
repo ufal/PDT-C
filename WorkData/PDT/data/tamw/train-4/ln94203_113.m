@@ -86,7 +86,7 @@
 <LM>w#w-ln94203-113-p1s2w3</LM>
 </w.rf>
 <form>sledoval</form>
-<tag lemma="sledovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sledovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94203-113-p1s2w4">
 <src.rf>manual</src.rf>

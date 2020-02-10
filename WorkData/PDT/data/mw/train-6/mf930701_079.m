@@ -115,7 +115,7 @@
 <LM>w#w-mf930701-079-p1s1w13</LM>
 </w.rf>
 <form>nedohrál</form>
-<tag lemma="dohrát" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="dohrát" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-mf930701-079-p1s1w14">
 <src.rf>manual</src.rf>

@@ -117,7 +117,7 @@
 <LM>w#w-mf920925-007-p3s1w5</LM>
 </w.rf>
 <form>zjišťovány</form>
-<tag lemma="zjišťovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="zjišťovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf920925-007-p3s1w6">
 <src.rf>manual</src.rf>
@@ -292,7 +292,7 @@
 <LM>w#w-mf920925-007-p3s2w10</LM>
 </w.rf>
 <form>placeny</form>
-<tag lemma="platit_:T" src="auto" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="platit" src="auto" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf920925-007-p3s2w11">
 <src.rf>manual</src.rf>
@@ -350,7 +350,7 @@
 <LM>w#w-mf920925-007-p3s3w2</LM>
 </w.rf>
 <form>sledovány</form>
-<tag lemma="sledovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="sledovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf920925-007-p3s3w3">
 <src.rf>manual</src.rf>

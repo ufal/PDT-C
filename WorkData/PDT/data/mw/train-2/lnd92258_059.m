@@ -121,7 +121,7 @@
 <LM>w#w-lnd92258-059-p3s2w4</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-059-p3s2w5">
 <src.rf>manual</src.rf>
@@ -583,7 +583,7 @@
 <LM>w#w-lnd92258-059-p3s3w22</LM>
 </w.rf>
 <form>vyčleněna</form>
-<tag lemma="vyčlenit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="vyčlenit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd92258-059-p3s3w23">
 <src.rf>manual</src.rf>
@@ -624,8 +624,8 @@
 </w.rf>
 <form>nedošlo</form>
 <tag>
-<AM lemma="dojít" src="orig">VpNS---XR-NA---</AM>
-<AM lemma="dojít_:W" src="manual" selected="1">VpNS---XR-NA---</AM>
+<AM lemma="dojít" src="orig">VpNS----R-NAP--</AM>
+<AM lemma="dojít" src="manual" selected="1">VpNS----R-NAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92258-059-p3s3w29">
@@ -784,7 +784,7 @@
 <LM>w#w-lnd92258-059-p3s4w1</LM>
 </w.rf>
 <form>Prohlásil</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-059-p3s4w2">
 <src.rf>manual</src.rf>

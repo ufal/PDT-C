@@ -275,7 +275,7 @@
 <LM>w#w-mf930709-103-p7s1w7</LM>
 </w.rf>
 <form>skončila</form>
-<tag lemma="skončit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="skončit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 </s>
 <s id="m-mf930709-103-p8s1">
@@ -392,7 +392,7 @@
 <LM>w#w-mf930709-103-p10s1w8</LM>
 </w.rf>
 <form>zpívala</form>
-<tag lemma="zpívat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zpívat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930709-103-p10s1w9">
 <src.rf>manual</src.rf>

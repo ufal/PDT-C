@@ -170,7 +170,7 @@
 <LM>w#w-vesm9211-046-p2s2w4</LM>
 </w.rf>
 <form>publikoval</form>
-<tag lemma="publikovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="publikovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-vesm9211-046-p2s2w5">
 <src.rf>manual</src.rf>

@@ -348,7 +348,7 @@
 <LM>w#w-ln95044-028-p2s3w5</LM>
 </w.rf>
 <form>reprezentoval</form>
-<tag lemma="reprezentovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="reprezentovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-ln95044-028-p2s3w6">
 <src.rf>manual</src.rf>
@@ -431,7 +431,7 @@
 <LM>w#w-ln95044-028-p2s3w15</LM>
 </w.rf>
 <form>vedl</form>
-<tag lemma="vést" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vést" src="auto" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95044-028-p2s3w16">
 <src.rf>manual</src.rf>

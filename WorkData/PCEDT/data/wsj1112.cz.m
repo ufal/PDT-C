@@ -107,7 +107,7 @@
 </w.rf>
 <form>vzdal</form>
 <tag>
-<AM lemma="vzdát" src="auto" recommended="1">VpYS---XR-AAP--</AM>
+<AM lemma="vzdát" src="auto" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="vzdálit" src="auto">Vi-S---2--A-P--</AM>
 <AM lemma="vzdálit" src="auto">Vi-S---3--A-P-4</AM>
 </tag>
@@ -460,7 +460,7 @@
 <LM>w#w-wsj1112-001-p1s1W12</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1112-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -479,7 +479,7 @@
 <LM>w#w-wsj1112-001-p1s1W14</LM>
 </w.rf>
 <form>vystřídán</form>
-<tag lemma="vystřídat" src="auto" recommended="1">VsYS---XX-APP--</tag>
+<tag lemma="vystřídat" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj1112-001-p1s1W15-Ta">
 <src.rf>tagger-a</src.rf>

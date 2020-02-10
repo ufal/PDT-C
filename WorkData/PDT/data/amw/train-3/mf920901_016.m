@@ -19,7 +19,7 @@
 <LM>w#w-mf920901-016-p1s1w1</LM>
 </w.rf>
 <form>zeptali</form>
-<tag lemma="zeptat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zeptat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920901-016-p1s1w2">
 <src.rf>manual</src.rf>
@@ -523,7 +523,7 @@
 <LM>w#w-mf920901-016-p4s2w7</LM>
 </w.rf>
 <form>prodali</form>
-<tag lemma="prodat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="prodat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920901-016-p4s2w8">
 <src.rf>manual</src.rf>
@@ -627,7 +627,7 @@
 <LM>w#w-mf920901-016-p4s3w2</LM>
 </w.rf>
 <form>neklesla</form>
-<tag lemma="klesnout_:W" src="orig" selected="1">VpQW---XR-NA--1</tag>
+<tag lemma="klesnout" src="orig" selected="1">VpQW----R-NAP-1</tag>
 </m>
 <m id="m-mf920901-016-p4s3w3">
 <src.rf>manual</src.rf>

@@ -107,7 +107,7 @@
 <LM>w#w-mf920924-147-p1s1Bw7</LM>
 </w.rf>
 <form>NESHODLY</form>
-<tag lemma="shodnout_:W" src="orig" selected="1">VpTP---XR-NA--1</tag>
+<tag lemma="shodnout" src="orig" selected="1">VpTP----R-NAP-1</tag>
 </m>
 </s>
 <s id="m-mf920924-147-p2s1">
@@ -226,7 +226,7 @@
 <LM>w#w-mf920924-147-p2s2w12</LM>
 </w.rf>
 <form>nepodařilo</form>
-<tag lemma="podařit_:W" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="podařit" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-mf920924-147-p2s2w13">
 <src.rf>manual</src.rf>
@@ -560,7 +560,7 @@
 <LM>w#w-mf920924-147-p2s3w26</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920924-147-p2s3w27">
 <src.rf>manual</src.rf>

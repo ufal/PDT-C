@@ -103,7 +103,7 @@
 <LM>w#w-ln95042-059-p2s1w7</LM>
 </w.rf>
 <form>zvyšoval</form>
-<tag lemma="zvyšovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zvyšovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95042-059-p2s1w8">
 <src.rf>manual</src.rf>
@@ -175,7 +175,7 @@
 <LM>w#w-ln95042-059-p2s1w16</LM>
 </w.rf>
 <form>nedostávalo</form>
-<tag lemma="dostávat_:T_^(*4at)" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="dostávat_^(*4at)" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-ln95042-059-p2s1w17">
 <src.rf>manual</src.rf>
@@ -265,7 +265,7 @@
 <LM>w#w-ln95042-059-p2s2w10</LM>
 </w.rf>
 <form>rozhodli</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-ln95042-059-p2s2w11">
 <src.rf>manual</src.rf>
@@ -337,7 +337,7 @@
 <LM>w#w-ln95042-059-p2s2w19</LM>
 </w.rf>
 <form>skončily</form>
-<tag lemma="skončit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="skončit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95042-059-p2s2w20">
 <src.rf>manual</src.rf>
@@ -468,7 +468,7 @@
 <LM>w#w-ln95042-059-p2s4w3</LM>
 </w.rf>
 <form>nepřestal</form>
-<tag lemma="přestat" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="přestat" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-ln95042-059-p2s4w4">
 <src.rf>manual</src.rf>
@@ -574,7 +574,7 @@
 <LM>w#w-ln95042-059-p3s1w4</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95042-059-p3s1w5">
 <src.rf>manual</src.rf>
@@ -606,7 +606,7 @@
 <LM>w#w-ln95042-059-p3s1w8</LM>
 </w.rf>
 <form>uzavřen</form>
-<tag lemma="uzavřít" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="uzavřít" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95042-059-p3s1w9">
 <src.rf>manual</src.rf>
@@ -731,7 +731,7 @@
 <LM>w#w-ln95042-059-p3s2w10</LM>
 </w.rf>
 <form>zavřely</form>
-<tag lemma="zavřít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zavřít" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-ln95042-059-p3s2w11">
 <src.rf>manual</src.rf>
@@ -2288,7 +2288,7 @@
 <LM>w#w-ln95042-059-p4s6w8</LM>
 </w.rf>
 <form>nenechali</form>
-<tag lemma="nechat_:T" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="nechat" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-ln95042-059-p4s6w9">
 <src.rf>manual</src.rf>

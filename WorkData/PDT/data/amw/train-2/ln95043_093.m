@@ -237,7 +237,7 @@
 <LM>w#w-ln95043-093-p1s2w5</LM>
 </w.rf>
 <form>navštívili</form>
-<tag lemma="navštívit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="navštívit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95043-093-p1s2w6">
 <src.rf>manual</src.rf>

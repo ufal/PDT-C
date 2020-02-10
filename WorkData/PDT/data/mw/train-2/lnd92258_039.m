@@ -38,8 +38,8 @@
 </w.rf>
 <form>ohrožena</form>
 <tag>
-<AM lemma="ohrozit" src="orig">VsQW---XX-AP---</AM>
-<AM lemma="ohrozit_:W" src="manual" selected="1">VsQW---XX-AP---</AM>
+<AM lemma="ohrozit" src="orig">VsQW----X-APP--</AM>
+<AM lemma="ohrozit" src="manual" selected="1">VsQW----X-APP--</AM>
 </tag>
 </m>
 </s>
@@ -165,8 +165,8 @@
 </w.rf>
 <form>sešli</form>
 <tag>
-<AM lemma="sejít" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="sejít_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+<AM lemma="sejít" src="orig">VpMP----R-AAP--</AM>
+<AM lemma="sejít" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92258-039-p3s2w14">
@@ -223,7 +223,7 @@
 <LM>w#w-lnd92258-039-p3s2w21</LM>
 </w.rf>
 <form>projednali</form>
-<tag lemma="projednat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="projednat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-039-p3s2w22">
 <src.rf>manual</src.rf>
@@ -280,8 +280,8 @@
 </w.rf>
 <form>obdrželi</form>
 <tag>
-<AM lemma="obdržet" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="obdržet_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+<AM lemma="obdržet" src="orig">VpMP----R-AAP--</AM>
+<AM lemma="obdržet" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92258-039-p3s2w29">
@@ -333,7 +333,7 @@
 <LM>w#w-lnd92258-039-p3s2w34</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92258-039-p3s2w35">
 <src.rf>manual</src.rf>
@@ -341,7 +341,7 @@
 <LM>w#w-lnd92258-039-p3s2w35</LM>
 </w.rf>
 <form>varována</form>
-<tag lemma="varovat_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="varovat" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-lnd92258-039-p3s2w36">
 <src.rf>manual</src.rf>
@@ -381,7 +381,7 @@
 <LM>w#w-lnd92258-039-p3s2w41</LM>
 </w.rf>
 <form>nerozmísťovala</form>
-<tag lemma="rozmísťovat_:T" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="rozmísťovat" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-lnd92258-039-p3s2w42">
 <src.rf>manual</src.rf>
@@ -514,7 +514,7 @@
 <LM>w#w-lnd92258-039-p3s3w13</LM>
 </w.rf>
 <form>vyjádřil</form>
-<tag lemma="vyjádřit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyjádřit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92258-039-p3s3w14">
 <src.rf>manual</src.rf>

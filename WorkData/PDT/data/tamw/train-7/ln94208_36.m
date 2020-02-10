@@ -43,7 +43,7 @@
 <LM>w#w-ln94208-36-p1s1w4</LM>
 </w.rf>
 <form>zahájena</form>
-<tag lemma="zahájit" src="auto" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zahájit" src="auto" selected="1">VsQW----X-APP--</tag>
 </m>
 </s>
 <s id="m-ln94208-36-p2s1A">
@@ -130,7 +130,7 @@
 <LM>w#w-ln94208-36-p2s1Bw5</LM>
 </w.rf>
 <form>poklepal</form>
-<tag lemma="poklepat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="poklepat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94208-36-p2s1Bw6">
 <src.rf>manual</src.rf>
@@ -276,7 +276,7 @@
 <LM>w#w-ln94208-36-p2s2w4</LM>
 </w.rf>
 <form>získala</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94208-36-p2s2w5">
 <src.rf>manual</src.rf>

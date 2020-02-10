@@ -43,7 +43,7 @@
 <LM>w#w-lnd92256-027-p1s1w4</LM>
 </w.rf>
 <form>připravili</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="připravit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-027-p1s1w5">
 <src.rf>manual</src.rf>

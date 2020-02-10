@@ -67,7 +67,7 @@
 <LM>w#w-mf930701-100-p1s1w7</LM>
 </w.rf>
 <form>shromáždila</form>
-<tag lemma="shromáždit_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="shromáždit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930701-100-p1s1w8">
 <src.rf>manual</src.rf>

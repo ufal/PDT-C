@@ -35,7 +35,7 @@
 <LM>w#w-lnd92252-021-p1s1w3</LM>
 </w.rf>
 <form>padal</form>
-<tag lemma="padat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="padat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd92252-021-p1s1w4">
 <src.rf>manual</src.rf>

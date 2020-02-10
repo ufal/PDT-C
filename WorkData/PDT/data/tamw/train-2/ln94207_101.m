@@ -169,7 +169,7 @@
 <LM>w#w-ln94207-101-p2s1w8</LM>
 </w.rf>
 <form>propracovala</form>
-<tag lemma="propracovat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="propracovat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94207-101-p2s1w9">
 <src.rf>manual</src.rf>

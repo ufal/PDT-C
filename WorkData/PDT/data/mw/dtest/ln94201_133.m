@@ -675,7 +675,7 @@
 <LM>w#w-ln94201-133-p2s5w4</LM>
 </w.rf>
 <form>vylosován</form>
-<tag lemma="vylosovat_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="vylosovat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94201-133-p2s5w5">
 <src.rf>manual</src.rf>
@@ -1139,7 +1139,7 @@
 <LM>w#w-ln94201-133-p3s2w17</LM>
 </w.rf>
 <form>vytočil</form>
-<tag lemma="vytočit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vytočit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94201-133-p3s2w18">
 <src.rf>manual</src.rf>

@@ -405,7 +405,7 @@
 <LM>w#w-ln95041-090-p2s2w12</LM>
 </w.rf>
 <form>zahájila</form>
-<tag lemma="zahájit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zahájit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95041-090-p2s2w13">
 <src.rf>manual</src.rf>

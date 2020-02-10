@@ -110,7 +110,7 @@
 <LM>w#w-vesm9301-009-p1s1w12</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-vesm9301-009-p1s1w13">
 <src.rf>manual</src.rf>
@@ -665,7 +665,7 @@
 <LM>w#w-vesm9301-009-p1s6w4</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-vesm9301-009-p1s6w5">
 <src.rf>manual</src.rf>
@@ -713,7 +713,7 @@
 <LM>w#w-vesm9301-009-p1s6w10</LM>
 </w.rf>
 <form>šli</form>
-<tag lemma="jít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="jít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-vesm9301-009-p1s6w11">
 <src.rf>manual</src.rf>
@@ -745,7 +745,7 @@
 <LM>w#w-vesm9301-009-p1s6w14</LM>
 </w.rf>
 <form>nebáli</form>
-<tag lemma="bát" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="bát" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-vesm9301-009-p1s6w15">
 <src.rf>manual</src.rf>

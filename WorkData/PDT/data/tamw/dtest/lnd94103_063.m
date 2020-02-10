@@ -529,7 +529,7 @@
 <LM>w#w-lnd94103-063-p1s2w3</LM>
 </w.rf>
 <form>omezeno</form>
-<tag lemma="omezit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="omezit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd94103-063-p1s2w4">
 <src.rf>manual</src.rf>
@@ -742,7 +742,7 @@
 <LM>w#w-lnd94103-063-p1s3w13</LM>
 </w.rf>
 <form>ulevilo</form>
-<tag lemma="ulevit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="ulevit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-063-p1s3w14">
 <src.rf>manual</src.rf>
@@ -760,7 +760,7 @@
 <LM>w#w-lnd94103-063-p1s4w1</LM>
 </w.rf>
 <form>Zamezilo</form>
-<tag lemma="zamezit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zamezit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-063-p1s4w2">
 <src.rf>manual</src.rf>
@@ -844,7 +844,7 @@
 <LM>w#w-lnd94103-063-p1s4w11</LM>
 </w.rf>
 <form>snížily</form>
-<tag lemma="snížit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="snížit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-063-p1s4w12">
 <src.rf>manual</src.rf>
@@ -1346,7 +1346,7 @@
 <LM>w#w-lnd94103-063-p1s8Aw15</LM>
 </w.rf>
 <form>upozornilo</form>
-<tag lemma="upozornit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="upozornit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-063-p1s8Aw16">
 <src.rf>manual</src.rf>
@@ -1577,7 +1577,7 @@
 <LM>w#w-lnd94103-063-p1s9w18</LM>
 </w.rf>
 <form>omezeno</form>
-<tag lemma="omezit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="omezit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd94103-063-p1s9w19">
 <src.rf>manual</src.rf>
@@ -1760,7 +1760,7 @@
 <LM>w#w-lnd94103-063-p1s11w4</LM>
 </w.rf>
 <form>mělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-063-p1s11w5">
 <src.rf>manual</src.rf>
@@ -1898,7 +1898,7 @@
 <LM>w#w-lnd94103-063-p1s13w4</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-063-p1s13w5">
 <src.rf>manual</src.rf>
@@ -1972,7 +1972,7 @@
 <LM>w#w-lnd94103-063-p1s14w3</LM>
 </w.rf>
 <form>přispěli</form>
-<tag lemma="přispět" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="přispět" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-063-p1s14w4">
 <src.rf>manual</src.rf>
@@ -2392,7 +2392,7 @@
 <LM>w#w-lnd94103-063-p1s16w4</LM>
 </w.rf>
 <form>dozvěděl</form>
-<tag lemma="dozvědět" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dozvědět" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-063-p1s16w5">
 <src.rf>manual</src.rf>
@@ -2766,8 +2766,8 @@
 </w.rf>
 <form>nedozvěděl</form>
 <tag>
-<AM lemma="dozvědět" src="orig">VpYS---XR-NA---</AM>
-<AM lemma="dozvědět_:W" src="manual" selected="1">VpYS---XR-NA---</AM>
+<AM lemma="dozvědět" src="orig">VpYS----R-NAP--</AM>
+<AM lemma="dozvědět" src="manual" selected="1">VpYS----R-NAP--</AM>
 </tag>
 </m>
 <m id="m-lnd94103-063-p1s17w16">
@@ -3398,7 +3398,7 @@
 <LM>w#w-lnd94103-063-p1s22w2</LM>
 </w.rf>
 <form>otřáslo</form>
-<tag lemma="otřást" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="otřást" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-063-p1s22w3">
 <src.rf>manual</src.rf>
@@ -3661,7 +3661,7 @@
 <LM>w#w-lnd94103-063-p1s23w12</LM>
 </w.rf>
 <form>zastřeno</form>
-<tag lemma="zastřít" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zastřít" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd94103-063-p1s23w13">
 <src.rf>manual</src.rf>
@@ -3847,7 +3847,7 @@
 <LM>w#w-lnd94103-063-p1s24w16</LM>
 </w.rf>
 <form>založen</form>
-<tag lemma="založit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="založit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd94103-063-p1s24w17">
 <src.rf>manual</src.rf>
@@ -4187,7 +4187,7 @@
 <LM>w#w-lnd94103-063-p1s25w23</LM>
 </w.rf>
 <form>ukázal</form>
-<tag lemma="ukázat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="ukázat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94103-063-p1s25w24">
 <src.rf>manual</src.rf>
@@ -4243,7 +4243,7 @@
 <LM>w#w-lnd94103-063-p1s25w30</LM>
 </w.rf>
 <form>nechtělo</form>
-<tag lemma="chtít" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="chtít" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-lnd94103-063-p1s25w31">
 <src.rf>manual</src.rf>
@@ -4387,7 +4387,7 @@
 <LM>w#w-lnd94103-063-p1s25w48</LM>
 </w.rf>
 <form>přesvědčena</form>
-<tag lemma="přesvědčit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="přesvědčit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd94103-063-p1s25w49">
 <src.rf>manual</src.rf>
@@ -4702,7 +4702,7 @@
 <LM>w#w-lnd94103-063-p1s26w31</LM>
 </w.rf>
 <form>čerpala</form>
-<tag lemma="čerpat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="čerpat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-063-p1s26w32">
 <src.rf>manual</src.rf>
@@ -5105,8 +5105,8 @@
 </w.rf>
 <form>zasut</form>
 <tag>
-<AM lemma="zasout" src="orig">VsYS---XX-AP---</AM>
-<AM lemma="zasout_:W" src="manual" selected="1">VsYS---XX-AP---</AM>
+<AM lemma="zasout" src="orig">VsYS----X-APP--</AM>
+<AM lemma="zasout" src="manual" selected="1">VsYS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-lnd94103-063-p1s27w10">
@@ -5277,7 +5277,7 @@
 <LM>w#w-lnd94103-063-p1s28w7</LM>
 </w.rf>
 <form>měli</form>
-<tag lemma="mít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-063-p1s28w8">
 <src.rf>manual</src.rf>
@@ -5656,7 +5656,7 @@
 <LM>w#w-lnd94103-063-p1s29w24</LM>
 </w.rf>
 <form>vystupoval</form>
-<tag lemma="vystupovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vystupovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-063-p1s29w25">
 <src.rf>manual</src.rf>

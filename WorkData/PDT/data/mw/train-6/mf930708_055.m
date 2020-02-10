@@ -186,8 +186,8 @@
 </w.rf>
 <form>přivedly</form>
 <tag>
-<AM lemma="přivést" src="orig">VpTP---XR-AA---</AM>
-<AM lemma="přivést_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+<AM lemma="přivést" src="orig">VpTP----R-AAP--</AM>
+<AM lemma="přivést" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930708-055-p4s1w13">
@@ -284,7 +284,7 @@
 <LM>w#w-mf930708-055-p4s1w25</LM>
 </w.rf>
 <form>zabýval</form>
-<tag lemma="zabývat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zabývat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930708-055-p4s1w26">
 <src.rf>manual</src.rf>
@@ -366,7 +366,7 @@
 <LM>w#w-mf930708-055-p4s2w2</LM>
 </w.rf>
 <form>rozhodli</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-mf930708-055-p4s2w3">
 <src.rf>manual</src.rf>
@@ -462,7 +462,7 @@
 <LM>w#w-mf930708-055-p4s2w14</LM>
 </w.rf>
 <form>ponechali</form>
-<tag lemma="ponechat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="ponechat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930708-055-p4s2w15">
 <src.rf>manual</src.rf>
@@ -772,7 +772,7 @@
 <LM>w#w-mf930708-055-p4s5w17</LM>
 </w.rf>
 <form>zamezili</form>
-<tag lemma="zamezit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zamezit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930708-055-p4s5w18">
 <src.rf>manual</src.rf>
@@ -878,7 +878,7 @@
 <LM>w#w-mf930708-055-p4s6w12</LM>
 </w.rf>
 <form>podpořil</form>
-<tag lemma="podpořit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="podpořit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930708-055-p4s6w13">
 <src.rf>manual</src.rf>
@@ -1751,7 +1751,7 @@
 <LM>w#w-mf930708-055-p5s6w9</LM>
 </w.rf>
 <form>dovolili</form>
-<tag lemma="dovolit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="dovolit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930708-055-p5s6w10">
 <src.rf>manual</src.rf>
@@ -2375,7 +2375,7 @@
 <LM>w#w-mf930708-055-p6s3w17</LM>
 </w.rf>
 <form>nepřesvědčily</form>
-<tag lemma="přesvědčit_:W" src="orig" selected="1">VpTP---XR-NA---</tag>
+<tag lemma="přesvědčit" src="orig" selected="1">VpTP----R-NAP--</tag>
 </m>
 <m id="m-mf930708-055-p6s3w18">
 <src.rf>manual</src.rf>

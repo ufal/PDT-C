@@ -711,7 +711,7 @@
 <LM>w#w-vesm9301-033-p3s2w6</LM>
 </w.rf>
 <form>zvýšena</form>
-<tag lemma="zvýšit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zvýšit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-vesm9301-033-p3s2w7">
 <src.rf>manual</src.rf>
@@ -932,7 +932,7 @@
 <LM>w#w-vesm9301-033-p4s1w8</LM>
 </w.rf>
 <form>vyhlásil</form>
-<tag lemma="vyhlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyhlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-vesm9301-033-p4s1w9">
 <src.rf>manual</src.rf>
@@ -1414,7 +1414,7 @@
 <LM>w#w-vesm9301-033-p4s2w4</LM>
 </w.rf>
 <form>prohlásil</form>
-<tag lemma="prohlásit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="prohlásit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-vesm9301-033-p4s2w5">
 <src.rf>manual</src.rf>

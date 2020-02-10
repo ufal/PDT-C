@@ -1188,7 +1188,7 @@
 <LM>w#w-mf920902-020-p2s8w3</LM>
 </w.rf>
 <form>uzavřenu</form>
-<tag lemma="uzavřít" src="orig" selected="1">VsFS4--XX-AP---</tag>
+<tag lemma="uzavřít" src="orig" selected="1">VsFS4---X-APP--</tag>
 </m>
 <m id="m-mf920902-020-p2s8w4">
 <src.rf>manual</src.rf>
@@ -1994,7 +1994,7 @@
 <LM>w#w-mf920902-020-p2s13w10</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920902-020-p2s13w11">
 <src.rf>manual</src.rf>
@@ -2459,7 +2459,7 @@
 <LM>w#w-mf920902-020-p3s4w12</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920902-020-p3s4w13">
 <src.rf>manual</src.rf>

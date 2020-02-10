@@ -194,7 +194,7 @@
 <LM>w#w-lnd91303-028-p4s1w15</LM>
 </w.rf>
 <form>vyjádřil</form>
-<tag lemma="vyjádřit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyjádřit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-028-p4s1w16">
 <src.rf>manual</src.rf>
@@ -279,7 +279,7 @@
 <LM>w#w-lnd91303-028-p4s2w4</LM>
 </w.rf>
 <form>přidělovány</form>
-<tag lemma="přidělovat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="přidělovat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-lnd91303-028-p4s2w5">
 <src.rf>manual</src.rf>
@@ -399,7 +399,7 @@
 <LM>w#w-lnd91303-028-p4s2w19</LM>
 </w.rf>
 <form>posouzen</form>
-<tag lemma="posoudit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="posoudit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd91303-028-p4s2w20">
 <src.rf>manual</src.rf>
@@ -616,7 +616,7 @@
 <LM>w#w-lnd91303-028-p4s4w5</LM>
 </w.rf>
 <form>muselo</form>
-<tag lemma="muset" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="muset" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-028-p4s4w6">
 <src.rf>manual</src.rf>

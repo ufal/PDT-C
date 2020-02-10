@@ -637,7 +637,7 @@
 <LM>w#w-ln95045-078-p2s2w29</LM>
 </w.rf>
 <form>zkoumaly</form>
-<tag lemma="zkoumat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zkoumat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95045-078-p2s2w30">
 <src.rf>manual</src.rf>
@@ -730,7 +730,7 @@
 <LM>w#w-ln95045-078-p3s1w3</LM>
 </w.rf>
 <form>reagovala</form>
-<tag lemma="reagovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="reagovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95045-078-p3s1w4">
 <src.rf>manual</src.rf>

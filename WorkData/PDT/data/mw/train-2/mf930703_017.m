@@ -368,8 +368,8 @@
 </w.rf>
 <form>vypověděl</form>
 <tag>
-<AM lemma="vypovědět" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="vypovědět_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="vypovědět" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="vypovědět" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930703-017-p2s2w12">
@@ -498,7 +498,7 @@
 <LM>w#w-mf930703-017-p2s2w27</LM>
 </w.rf>
 <form>odstavil</form>
-<tag lemma="odstavit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odstavit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-017-p2s2w28">
 <src.rf>manual</src.rf>
@@ -532,7 +532,7 @@
 <LM>w#w-mf930703-017-p3s1w3</LM>
 </w.rf>
 <form>vyvrcholil</form>
-<tag lemma="vyvrcholit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyvrcholit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-017-p3s1w4">
 <src.rf>manual</src.rf>
@@ -617,7 +617,7 @@
 <LM>w#w-mf930703-017-p3s2w2</LM>
 </w.rf>
 <form>chtěl</form>
-<tag lemma="chtít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="chtít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930703-017-p3s2w3">
 <src.rf>manual</src.rf>
@@ -874,8 +874,8 @@
 </w.rf>
 <form>podepsal</form>
 <tag>
-<AM lemma="podepsat" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="podepsat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="podepsat" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="podepsat" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-mf930703-017-p3s3w8">
@@ -1070,7 +1070,7 @@
 <LM>w#w-mf930703-017-p4s1w3</LM>
 </w.rf>
 <form>nespočítala</form>
-<tag lemma="spočítat_:W" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="spočítat" src="orig" selected="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-mf930703-017-p4s1w4">
 <src.rf>manual</src.rf>
@@ -1249,7 +1249,7 @@
 <LM>w#w-mf930703-017-p4s1w25</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930703-017-p4s1w26">
 <src.rf>manual</src.rf>

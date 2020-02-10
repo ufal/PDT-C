@@ -175,7 +175,7 @@
 <LM>w#w-ln94206-75-p2s1Bw12</LM>
 </w.rf>
 <form>došlo</form>
-<tag lemma="dojít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="dojít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94206-75-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -291,7 +291,7 @@
 <LM>w#w-ln94206-75-p2s3w1</LM>
 </w.rf>
 <form>Uvedla</form>
-<tag lemma="uvést" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94206-75-p2s3w2">
 <src.rf>manual</src.rf>
@@ -462,8 +462,8 @@
 </w.rf>
 <form>popřeli</form>
 <tag>
-<AM lemma="popřít" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="popřít_:W" src="manual" selected="1">VpMP---XR-AA---</AM>
+<AM lemma="popřít" src="orig">VpMP----R-AAP--</AM>
+<AM lemma="popřít" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94206-75-p2s4w11">
@@ -480,7 +480,7 @@
 <LM>w#w-ln94206-75-p2s4w12</LM>
 </w.rf>
 <form>potvrdili</form>
-<tag lemma="potvrdit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="potvrdit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94206-75-p2s4w13">
 <src.rf>manual</src.rf>
@@ -538,7 +538,7 @@
 <LM>w#w-ln94206-75-p2s5w3</LM>
 </w.rf>
 <form>uniklo</form>
-<tag lemma="uniknout_:W" src="orig" selected="1">VpNS---XR-AA--1</tag>
+<tag lemma="uniknout" src="orig" selected="1">VpNS----R-AAP-1</tag>
 </m>
 <m id="m-ln94206-75-p2s5w4">
 <src.rf>manual</src.rf>
@@ -618,7 +618,7 @@
 <LM>w#w-ln94206-75-p2s5w13</LM>
 </w.rf>
 <form>neohrozilo</form>
-<tag lemma="ohrozit_:W" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="ohrozit" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-ln94206-75-p2s5w14">
 <src.rf>manual</src.rf>
@@ -667,8 +667,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94206-75-p2s5w20">

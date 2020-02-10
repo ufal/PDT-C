@@ -182,7 +182,7 @@
 <LM>w#w-lnd92252-007-p1s1w21</LM>
 </w.rf>
 <form>nesympatizoval</form>
-<tag lemma="sympatizovat_:T" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="sympatizovat" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-lnd92252-007-p1s1w22">
 <src.rf>manual</src.rf>

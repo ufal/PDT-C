@@ -105,7 +105,7 @@
 <LM>w#w-wsj1933-001-p1s0W8</LM>
 </w.rf>
 <form>zaregistrovala</form>
-<tag lemma="zaregistrovat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="zaregistrovat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1933-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>

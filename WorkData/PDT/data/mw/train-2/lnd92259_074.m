@@ -1037,7 +1037,7 @@
 <LM>w#w-lnd92259-074-p5s1w14</LM>
 </w.rf>
 <form>získal</form>
-<tag lemma="získat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="získat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92259-074-p5s1w15">
 <src.rf>manual</src.rf>
@@ -1103,7 +1103,7 @@
 <LM>w#w-lnd92259-074-p5s2w2</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92259-074-p5s2w3">
 <src.rf>manual</src.rf>
@@ -1120,8 +1120,8 @@
 </w.rf>
 <form>posouzeni</form>
 <tag>
-<AM lemma="posoudit" src="orig">VsMP---XX-AP---</AM>
-<AM lemma="posoudit_:W" src="manual" selected="1">VsMP---XX-AP---</AM>
+<AM lemma="posoudit" src="orig">VsMP----X-APP--</AM>
+<AM lemma="posoudit" src="manual" selected="1">VsMP----X-APP--</AM>
 </tag>
 </m>
 <m id="m-lnd92259-074-p5s2w5">
@@ -1170,7 +1170,7 @@
 <LM>w#w-lnd92259-074-p5s2w10</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92259-074-p5s2w11">
 <src.rf>manual</src.rf>
@@ -1179,8 +1179,8 @@
 </w.rf>
 <form>pozváno</form>
 <tag>
-<AM lemma="pozvat" src="orig">VsNS---XX-AP---</AM>
-<AM lemma="pozvat_:W" src="manual" selected="1">VsNS---XX-AP---</AM>
+<AM lemma="pozvat" src="orig">VsNS----X-APP--</AM>
+<AM lemma="pozvat" src="manual" selected="1">VsNS----X-APP--</AM>
 </tag>
 </m>
 <m id="m-lnd92259-074-p5s2w12">

@@ -45,7 +45,7 @@
 <LM>w#w-ln95042-007-p2s1w3</LM>
 </w.rf>
 <form>exportovala</form>
-<tag lemma="exportovat_:T_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="exportovat" src="orig" selected="1">VpQW----R-AAB--</tag>
 </m>
 <m id="m-ln95042-007-p2s1w4">
 <src.rf>manual</src.rf>

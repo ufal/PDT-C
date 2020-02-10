@@ -77,7 +77,7 @@
 <LM>w#w-lnd91303-046-p2s1w3</LM>
 </w.rf>
 <form>odložen</form>
-<tag lemma="odložit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="odložit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 </s>
 <s id="m-lnd91303-046-p3s1">
@@ -135,7 +135,7 @@
 <LM>w#w-lnd91303-046-p3s1w7</LM>
 </w.rf>
 <form>shodli</form>
-<tag lemma="shodnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="shodnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-lnd91303-046-p3s1w8">
 <src.rf>manual</src.rf>
@@ -298,7 +298,7 @@
 <LM>w#w-lnd91303-046-p4s1w4</LM>
 </w.rf>
 <form>uzavřeli</form>
-<tag lemma="uzavřít" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="uzavřít" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-046-p4s1w5">
 <src.rf>manual</src.rf>
@@ -542,7 +542,7 @@
 <LM>w#w-lnd91303-046-p4s1w34</LM>
 </w.rf>
 <form>předpověděli</form>
-<tag lemma="předpovědět" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="předpovědět" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-046-p4s1w35">
 <src.rf>manual</src.rf>
@@ -782,7 +782,7 @@
 <LM>w#w-lnd91303-046-p5s1w25</LM>
 </w.rf>
 <form>naznačovaly</form>
-<tag lemma="naznačovat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="naznačovat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-046-p5s1w26">
 <src.rf>manual</src.rf>
@@ -926,7 +926,7 @@
 <LM>w#w-lnd91303-046-p6s1w5</LM>
 </w.rf>
 <form>založeny</form>
-<tag lemma="založit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="založit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-lnd91303-046-p6s1w6">
 <src.rf>manual</src.rf>
@@ -974,7 +974,7 @@
 <LM>w#w-lnd91303-046-p6s1w11</LM>
 </w.rf>
 <form>simuloval</form>
-<tag lemma="simulovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="simulovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-046-p6s1w12">
 <src.rf>manual</src.rf>
@@ -1136,7 +1136,7 @@
 <LM>w#w-lnd91303-046-p7s1w4</LM>
 </w.rf>
 <form>podceňovaly</form>
-<tag lemma="podceňovat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="podceňovat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-046-p7s1w5">
 <src.rf>manual</src.rf>

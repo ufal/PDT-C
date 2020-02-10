@@ -1328,7 +1328,7 @@
 <LM>w#w-mf920924-063-p4s1w11</LM>
 </w.rf>
 <form>nezjištěna</form>
-<tag lemma="zjistit" src="orig" selected="1">VsQW---XX-NP---</tag>
+<tag lemma="zjistit" src="orig" selected="1">VsQW----X-NPP--</tag>
 </m>
 <m id="m-mf920924-063-p4s1w12">
 <src.rf>manual</src.rf>

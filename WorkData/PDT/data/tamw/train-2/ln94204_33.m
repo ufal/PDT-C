@@ -179,7 +179,7 @@
 <LM>w#w-ln94204-33-p2s1Bw11</LM>
 </w.rf>
 <form>odevzdali</form>
-<tag lemma="odevzdat_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="odevzdat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94204-33-p2s1Bw12">
 <src.rf>manual</src.rf>
@@ -531,7 +531,7 @@
 <LM>w#w-ln94204-33-p2s4w10</LM>
 </w.rf>
 <form>představoval</form>
-<tag lemma="představovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="představovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94204-33-p2s4w11">
 <src.rf>manual</src.rf>
@@ -667,7 +667,7 @@
 <LM>w#w-ln94204-33-p2s4w27</LM>
 </w.rf>
 <form>uplatnili</form>
-<tag lemma="uplatnit_:T_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="uplatnit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94204-33-p2s4w28">
 <src.rf>manual</src.rf>

@@ -78,7 +78,7 @@
 <LM>w#w-lnd94105-041-p1s1w8</LM>
 </w.rf>
 <form>nejednala</form>
-<tag lemma="jednat_:T" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="jednat" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 </s>
 <s id="m-lnd94105-041-p1s2">

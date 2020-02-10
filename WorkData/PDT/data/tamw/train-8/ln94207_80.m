@@ -35,7 +35,7 @@
 <LM>w#w-ln94207-80-p1s1w3</LM>
 </w.rf>
 <form>zanikl</form>
-<tag lemma="zaniknout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="zaniknout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln94207-80-p1s1w4">
 <src.rf>manual</src.rf>

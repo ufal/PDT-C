@@ -35,7 +35,7 @@
 <LM>w#w-lnd94101-041-p1s1w3</LM>
 </w.rf>
 <form>shodla</form>
-<tag lemma="shodnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="shodnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-lnd94101-041-p1s1w4">
 <src.rf>manual</src.rf>
@@ -157,7 +157,7 @@
 <LM>w#w-lnd94101-041-p1s3w6</LM>
 </w.rf>
 <form>shodli</form>
-<tag lemma="shodnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="shodnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-lnd94101-041-p1s3w7">
 <src.rf>manual</src.rf>
@@ -266,7 +266,7 @@
 <LM>w#w-lnd94101-041-p1s4w7</LM>
 </w.rf>
 <form>sdělil</form>
-<tag lemma="sdělit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sdělit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-041-p1s4w8">
 <src.rf>manual</src.rf>
@@ -452,7 +452,7 @@
 <LM>w#w-lnd94101-041-p1s5w18</LM>
 </w.rf>
 <form>zvolen</form>
-<tag lemma="zvolit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zvolit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-lnd94101-041-p1s5w19">
 <src.rf>manual</src.rf>
@@ -714,7 +714,7 @@
 <LM>w#w-lnd94101-041-p1s7w8</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94101-041-p1s7w9">
 <src.rf>manual</src.rf>
@@ -741,7 +741,7 @@
 <LM>w#w-lnd94101-041-p1s7w11</LM>
 </w.rf>
 <form>akceptován</form>
-<tag lemma="akceptovat_:T_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="akceptovat" src="orig" selected="1">VsYS----X-APB--</tag>
 </m>
 <m id="m-lnd94101-041-p1s7w12">
 <src.rf>manual</src.rf>
@@ -1055,7 +1055,7 @@
 <LM>w#w-lnd94101-041-p1s8w8</LM>
 </w.rf>
 <form>vybráni</form>
-<tag lemma="vybrat" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="vybrat" src="orig" selected="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-lnd94101-041-p1s8w9">
 <src.rf>manual</src.rf>
@@ -1180,7 +1180,7 @@
 <LM>w#w-lnd94101-041-p1s9w10</LM>
 </w.rf>
 <form>odvozovala</form>
-<tag lemma="odvozovat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="odvozovat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd94101-041-p1s9w11">
 <src.rf>manual</src.rf>

@@ -132,7 +132,7 @@
 <LM>w#w-ln94206-109-p1s2w6</LM>
 </w.rf>
 <form>sešlo</form>
-<tag lemma="sejít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="sejít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94206-109-p1s2w7">
 <src.rf>manual</src.rf>
@@ -222,7 +222,7 @@
 <LM>w#w-ln94206-109-p1s3w4</LM>
 </w.rf>
 <form>bděla</form>
-<tag lemma="bdít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="bdít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94206-109-p1s3w5">
 <src.rf>manual</src.rf>

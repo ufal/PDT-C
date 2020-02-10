@@ -68,7 +68,7 @@
 </w.rf>
 <form>byly</form>
 <tag>
-<AM lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="být" src="auto" recommended="1">VpTP----R-AAI--</AM>
 <AM lemma="být" src="manual" selected="1">VpTP----R-AAI--</AM>
 </tag>
 </m>
@@ -140,7 +140,7 @@
 </w.rf>
 <form>zapsány</form>
 <tag>
-<AM lemma="zapsat" src="auto" recommended="1">VsTP---XX-APP--</AM>
+<AM lemma="zapsat" src="auto" recommended="1">VsTP----X-APP--</AM>
 <AM lemma="zapsat" src="manual" selected="1">VsTP----X-APP--</AM>
 </tag>
 </m>
@@ -449,7 +449,7 @@
 </w.rf>
 <form>nabízeno</form>
 <tag>
-<AM lemma="nabízet" src="auto" recommended="1">VsNS---XX-API--</AM>
+<AM lemma="nabízet" src="auto" recommended="1">VsNS----X-API--</AM>
 <AM lemma="nabízet" src="manual" selected="1">VsNS----X-API--</AM>
 </tag>
 </m>
@@ -892,7 +892,7 @@
 </w.rf>
 <form>prodáno</form>
 <tag>
-<AM lemma="prodat" src="auto" recommended="1">VsNS---XX-APP--</AM>
+<AM lemma="prodat" src="auto" recommended="1">VsNS----X-APP--</AM>
 <AM lemma="prodat" src="manual" selected="1">VsNS----X-APP--</AM>
 </tag>
 </m>
@@ -1554,7 +1554,7 @@
 </w.rf>
 <form>prodáno</form>
 <tag>
-<AM lemma="prodat" src="auto" recommended="1">VsNS---XX-APP--</AM>
+<AM lemma="prodat" src="auto" recommended="1">VsNS----X-APP--</AM>
 <AM lemma="prodat" src="manual" selected="1">VsNS----X-APP--</AM>
 </tag>
 </m>

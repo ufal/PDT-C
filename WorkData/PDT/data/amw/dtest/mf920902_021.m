@@ -38,8 +38,8 @@
 </w.rf>
 <form>Slyšela</form>
 <tag>
-<AM lemma="slyšet" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="slyšet_:T" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="slyšet" src="orig">VpQW----R-AAI--</AM>
+<AM lemma="slyšet" src="manual" selected="1">VpQW----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-mf920902-021-p1s1w4">

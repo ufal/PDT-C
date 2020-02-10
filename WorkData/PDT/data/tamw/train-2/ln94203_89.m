@@ -172,7 +172,7 @@
 <LM>w#w-ln94203-89-p2s1w14</LM>
 </w.rf>
 <form>uspořádáno</form>
-<tag lemma="uspořádat_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="uspořádat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94203-89-p2s1w15">
 <src.rf>manual</src.rf>
@@ -230,7 +230,7 @@
 <LM>w#w-ln94203-89-p2s2w2</LM>
 </w.rf>
 <form>vznikly</form>
-<tag lemma="vzniknout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="vzniknout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-ln94203-89-p2s2w3">
 <src.rf>manual</src.rf>
@@ -553,7 +553,7 @@
 <LM>w#w-ln94203-89-p2s3w12</LM>
 </w.rf>
 <form>prosadila</form>
-<tag lemma="prosadit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="prosadit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94203-89-p2s3w13">
 <src.rf>manual</src.rf>
@@ -1640,7 +1640,7 @@
 <LM>w#w-ln94203-89-p3s5w12</LM>
 </w.rf>
 <form>napsal</form>
-<tag lemma="napsat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="napsat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94203-89-p3s5w13">
 <src.rf>manual</src.rf>

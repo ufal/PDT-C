@@ -152,7 +152,7 @@
 <LM>w#w-lnd91301-028-p1s2w5</LM>
 </w.rf>
 <form>odevzdal</form>
-<tag lemma="odevzdat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odevzdat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-028-p1s2w6">
 <src.rf>manual</src.rf>
@@ -381,7 +381,7 @@
 <LM>w#w-lnd91301-028-p1s3w9</LM>
 </w.rf>
 <form>nazýváno</form>
-<tag lemma="nazývat_:T" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="nazývat" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-lnd91301-028-p1s3w10">
 <src.rf>manual</src.rf>

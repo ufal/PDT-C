@@ -521,7 +521,7 @@
 <LM>w#w-lnd92257-091-p2s3w30</LM>
 </w.rf>
 <form>očekáváni</form>
-<tag lemma="očekávat_:T" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="očekávat" src="orig" selected="1">VsMP----X-API--</tag>
 </m>
 <m id="m-lnd92257-091-p2s3w31">
 <src.rf>manual</src.rf>
@@ -723,7 +723,7 @@
 <LM>w#w-lnd92257-091-p2s4w23</LM>
 </w.rf>
 <form>zvolili</form>
-<tag lemma="zvolit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zvolit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-091-p2s4w24">
 <src.rf>manual</src.rf>

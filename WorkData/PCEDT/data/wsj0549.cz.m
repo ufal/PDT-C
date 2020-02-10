@@ -63,7 +63,7 @@
 <LM>w#w-wsj0549-001-p1s0W5</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0549-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -132,7 +132,7 @@
 <LM>w#w-wsj0549-001-p1s0W11</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-wsj0549-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -140,7 +140,7 @@
 <LM>w#w-wsj0549-001-p1s0W12</LM>
 </w.rf>
 <form>prodáno</form>
-<tag lemma="prodat" src="auto" recommended="1">VsNS---XX-APP--</tag>
+<tag lemma="prodat" src="auto" recommended="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-wsj0549-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -463,7 +463,7 @@
 <LM>w#w-wsj0549-001-p1s1W14</LM>
 </w.rf>
 <form>požadováno</form>
-<tag lemma="požadovat" src="auto" recommended="1">VsNS---XX-API--</tag>
+<tag lemma="požadovat" src="auto" recommended="1">VsNS----X-API--</tag>
 </m>
 <m id="m-wsj0549-001-p1s1W15-Ta">
 <src.rf>tagger-a</src.rf>

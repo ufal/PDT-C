@@ -285,8 +285,8 @@
 </w.rf>
 <form>odehrál</form>
 <tag>
-<AM lemma="odehrát" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="odehrát_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="odehrát" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="odehrát" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92254-026-p3s3w6">
@@ -418,8 +418,8 @@
 </w.rf>
 <form>sešla</form>
 <tag>
-<AM lemma="sejít" src="orig">VpQW---XR-AA---</AM>
-<AM lemma="sejít_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="sejít" src="orig">VpQW----R-AAP--</AM>
+<AM lemma="sejít" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92254-026-p3s4w5">
@@ -766,7 +766,7 @@
 <LM>w#w-lnd92254-026-p3s5w2</LM>
 </w.rf>
 <form>četli</form>
-<tag lemma="číst" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="číst" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92254-026-p3s5w3">
 <src.rf>manual</src.rf>
@@ -874,8 +874,8 @@
 </w.rf>
 <form>připomněl</form>
 <tag>
-<AM lemma="připomenout" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="připomenout_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="připomenout" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="připomenout" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92254-026-p3s5w15">
@@ -940,7 +940,7 @@
 <LM>w#w-lnd92254-026-p3s5w21</LM>
 </w.rf>
 <form>diskutovalo</form>
-<tag lemma="diskutovat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="diskutovat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92254-026-p3s5w22">
 <src.rf>manual</src.rf>
@@ -1004,7 +1004,7 @@
 <LM>w#w-lnd92254-026-p3s5w29</LM>
 </w.rf>
 <form>nebylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-NAI--</tag>
 </m>
 <m id="m-lnd92254-026-p3s5w30">
 <src.rf>manual</src.rf>
@@ -1036,7 +1036,7 @@
 <LM>w#w-lnd92254-026-p3s5w33</LM>
 </w.rf>
 <form>hovořilo</form>
-<tag lemma="hovořit_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="hovořit" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd92254-026-p3s5w34">
 <src.rf>manual</src.rf>

@@ -220,7 +220,7 @@
 <LM>w#w-mf930703-046-p2s2w1</LM>
 </w.rf>
 <form>Rozhodla</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-mf930703-046-p2s2w2">
 <src.rf>manual</src.rf>
@@ -300,7 +300,7 @@
 <LM>w#w-mf930703-046-p2s2w11</LM>
 </w.rf>
 <form>konala</form>
-<tag lemma="konat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="konat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930703-046-p2s2w12">
 <src.rf>manual</src.rf>
@@ -544,7 +544,7 @@
 <LM>w#w-mf930703-046-p2s4w5</LM>
 </w.rf>
 <form>vyplaceno</form>
-<tag lemma="vyplatit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="vyplatit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf930703-046-p2s4w6">
 <src.rf>manual</src.rf>
@@ -662,7 +662,7 @@
 <LM>w#w-mf930703-046-p2s5w10</LM>
 </w.rf>
 <form>zúčastnilo</form>
-<tag lemma="zúčastnit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zúčastnit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-046-p2s5w11">
 <src.rf>manual</src.rf>

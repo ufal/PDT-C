@@ -1447,7 +1447,7 @@
 <LM>w#w-ln94207-41-p4s3w9</LM>
 </w.rf>
 <form>ohrozil</form>
-<tag lemma="ohrozit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="ohrozit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94207-41-p4s3w10">
 <src.rf>manual</src.rf>

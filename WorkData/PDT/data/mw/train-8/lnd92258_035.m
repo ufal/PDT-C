@@ -75,7 +75,7 @@
 <LM>w#w-lnd92258-035-p1s1w8</LM>
 </w.rf>
 <form>konstatoval</form>
-<tag lemma="konstatovat_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="konstatovat" src="orig" selected="1">VpYS----R-AAB--</tag>
 </m>
 <m id="m-lnd92258-035-p1s1w9">
 <src.rf>manual</src.rf>

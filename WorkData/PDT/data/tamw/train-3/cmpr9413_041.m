@@ -610,7 +610,7 @@
 <LM>w#w-cmpr9413-041-p3s3w4</LM>
 </w.rf>
 <form>zakotvena</form>
-<tag lemma="zakotvit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zakotvit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-cmpr9413-041-p3s3w5">
 <src.rf>manual</src.rf>

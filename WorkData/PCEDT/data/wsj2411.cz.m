@@ -38,7 +38,7 @@
 <LM>w#w-wsj2411-001-p1s0W3</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2411-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -281,7 +281,7 @@
 <LM>w#w-wsj2411-001-p1s1W4</LM>
 </w.rf>
 <form>stanoven</form>
-<tag lemma="stanovit_^(určit)" src="auto" recommended="1">VsYS---XX-APP--</tag>
+<tag lemma="stanovit_^(určit)" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj2411-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -394,7 +394,7 @@
 <LM>w#w-wsj2411-001-p1s1W15</LM>
 </w.rf>
 <form>uvolněny</form>
-<tag lemma="uvolnit" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="uvolnit" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj2411-001-p1s1W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1065,7 +1065,7 @@
 <LM>w#w-wsj2411-001-p1s4W9</LM>
 </w.rf>
 <form>odkoupeny</form>
-<tag lemma="odkoupit" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="odkoupit" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj2411-001-p1s4W10-Ta">
 <src.rf>tagger-a</src.rf>

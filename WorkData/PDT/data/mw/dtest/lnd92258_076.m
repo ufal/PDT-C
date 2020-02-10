@@ -1259,7 +1259,7 @@
 <LM>w#w-lnd92258-076-p17s1w4</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd92258-076-p17s1w5">
 <src.rf>manual</src.rf>

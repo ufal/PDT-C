@@ -20,7 +20,7 @@
 <AM lemma="jeden`1" src="auto">ClIS4----------</AM>
 <AM lemma="jeden`1" src="auto" recommended="1">ClYS1----------</AM>
 <AM lemma="jeden`1" src="auto">ClYS5----------</AM>
-<AM lemma="jíst" src="auto">VsYS---XX-API--</AM>
+<AM lemma="jíst" src="auto">VsYS----X-API--</AM>
 </tag>
 </m>
 <m id="m-wsj1487-001-p1s0W2-Ta">
@@ -37,7 +37,7 @@
 <LM>w#w-wsj1487-001-p1s0W3</LM>
 </w.rf>
 <form>podal</form>
-<tag lemma="podat_^(něco_[někomu]_[někam])" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="podat_^(něco_[někomu]_[někam])" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1487-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -130,7 +130,7 @@
 <LM>w#w-wsj1487-001-p1s0W12</LM>
 </w.rf>
 <form>zamezilo</form>
-<tag lemma="zamezit" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="zamezit" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj1487-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -332,7 +332,7 @@
 </w.rf>
 <form>čili</form>
 <tag>
-<AM lemma="čít" src="auto">VpMP---XR-AAI--</AM>
+<AM lemma="čít" src="auto">VpMP----R-AAI--</AM>
 <AM lemma="čili-1" src="auto" recommended="1">J^-------------</AM>
 <AM lemma="čili-2_^(koření)" src="auto">NNNXX-----A----</AM>
 </tag>
@@ -403,7 +403,7 @@
 <LM>w#w-wsj1487-001-p1s0W38</LM>
 </w.rf>
 <form>koupena</form>
-<tag lemma="koupit" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="koupit" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj1487-001-p1s0W39-Ta">
 <src.rf>tagger-a</src.rf>
@@ -681,7 +681,7 @@
 <LM>w#w-wsj1487-001-p1s1W10</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj1487-001-p1s1W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -689,7 +689,7 @@
 <LM>w#w-wsj1487-001-p1s1W11</LM>
 </w.rf>
 <form>podána</form>
-<tag lemma="podat_^(něco_[někomu]_[někam])" src="auto" recommended="1">VsQW---XX-APP--</tag>
+<tag lemma="podat_^(něco_[někomu]_[někam])" src="auto" recommended="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-wsj1487-001-p1s1W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1234,7 +1234,7 @@
 <LM>w#w-wsj1487-001-p1s4W4</LM>
 </w.rf>
 <form>vyvolala</form>
-<tag lemma="vyvolat" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="vyvolat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1487-001-p1s4W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1347,7 +1347,7 @@
 <LM>w#w-wsj1487-001-p1s4W12</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="mít" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj1487-001-p1s4W13-Ta">
 <src.rf>tagger-a</src.rf>

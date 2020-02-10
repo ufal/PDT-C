@@ -170,7 +170,7 @@
 <LM>w#w-mf920902-111-p2s2w10</LM>
 </w.rf>
 <form>nastoupilo</form>
-<tag lemma="nastoupit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="nastoupit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-111-p2s2w11">
 <src.rf>manual</src.rf>
@@ -393,7 +393,7 @@
 <LM>w#w-mf920902-111-p2s3w18</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf920902-111-p2s3w19">
 <src.rf>manual</src.rf>
@@ -916,7 +916,7 @@
 <LM>w#w-mf920902-111-p2s8w5</LM>
 </w.rf>
 <form>převyšoval</form>
-<tag lemma="převyšovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="převyšovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920902-111-p2s8w6">
 <src.rf>manual</src.rf>

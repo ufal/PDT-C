@@ -535,7 +535,7 @@
 <LM>w#w-d1t3700-3</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m038-d1t3700-4">
 <w.rf>
@@ -806,7 +806,7 @@
 <LM>w#w-d1t3720-7</LM>
 </w.rf>
 <form>povídalo</form>
-<tag lemma="povídat_:T" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="povídat" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m038-d-m-d1e3715-x2-punct-punct">
 <w.rf>

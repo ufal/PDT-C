@@ -2753,7 +2753,7 @@
 <LM>w#w-cmpr9410-021-p14s3w11</LM>
 </w.rf>
 <form>došlo</form>
-<tag lemma="dojít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="dojít" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9410-021-p14s3w12">
 <src.rf>manual</src.rf>

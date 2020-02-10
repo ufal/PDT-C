@@ -116,7 +116,7 @@
 <LM>w#w-ln95045-095-p1s1w13</LM>
 </w.rf>
 <form>požadovali</form>
-<tag lemma="požadovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="požadovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95045-095-p1s1w14">
 <src.rf>manual</src.rf>

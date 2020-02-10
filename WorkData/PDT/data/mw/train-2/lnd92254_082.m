@@ -205,7 +205,7 @@
 <LM>w#w-lnd92254-082-p2s2w15</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd92254-082-p2s2w16">
 <src.rf>manual</src.rf>
@@ -336,8 +336,8 @@
 </w.rf>
 <form>Přijely</form>
 <tag>
-<AM lemma="přijet" src="auto">VpTP---XR-AA---</AM>
-<AM lemma="přijet_:W" src="manual" selected="1">VpTP---XR-AA---</AM>
+<AM lemma="přijet" src="auto">VpTP----R-AAP--</AM>
+<AM lemma="přijet" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-lnd92254-082-p2s3w2">

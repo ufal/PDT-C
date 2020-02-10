@@ -117,7 +117,7 @@
 <LM>w#w-mf930709-057-p2s1w10</LM>
 </w.rf>
 <form>nebyl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-mf930709-057-p2s1w11">
 <src.rf>manual</src.rf>
@@ -177,8 +177,8 @@
 </w.rf>
 <form>hrálo</form>
 <tag>
-<AM lemma="hrát" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="hrát_:T" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="hrát" src="orig">VpNS----R-AAI--</AM>
+<AM lemma="hrát" src="manual" selected="1">VpNS----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-mf930709-057-p2s1w18">
@@ -195,7 +195,7 @@
 <LM>w#w-mf930709-057-p2s1w19</LM>
 </w.rf>
 <form>zpívalo</form>
-<tag lemma="zpívat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zpívat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930709-057-p2s1w20">
 <src.rf>manual</src.rf>
@@ -329,7 +329,7 @@
 <LM>w#w-mf930709-057-p2s2w10</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930709-057-p2s2w11">
 <src.rf>manual</src.rf>

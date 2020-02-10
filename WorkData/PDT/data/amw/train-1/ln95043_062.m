@@ -607,7 +607,7 @@
 <LM>w#w-ln95043-062-p2s4w5</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95043-062-p2s4w6">
 <src.rf>manual</src.rf>
@@ -655,7 +655,7 @@
 <LM>w#w-ln95043-062-p2s4w11</LM>
 </w.rf>
 <form>nepovažoval</form>
-<tag lemma="považovat_:T" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="považovat" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-ln95043-062-p2s4w12">
 <src.rf>manual</src.rf>
@@ -804,7 +804,7 @@
 <LM>w#w-ln95043-062-p2s5w1</LM>
 </w.rf>
 <form>Dodal</form>
-<tag lemma="dodat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dodat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95043-062-p2s5w2">
 <src.rf>manual</src.rf>

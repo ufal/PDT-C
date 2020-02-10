@@ -93,7 +93,7 @@
 <LM>w#w-mf930708-027-p2s1w8</LM>
 </w.rf>
 <form>uskutečnila</form>
-<tag lemma="uskutečnit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="uskutečnit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930708-027-p2s1w9">
 <src.rf>manual</src.rf>
@@ -143,7 +143,7 @@
 <LM>w#w-mf930708-027-p2s2w3</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930708-027-p2s2w4">
 <src.rf>manual</src.rf>
@@ -230,7 +230,7 @@
 <LM>w#w-mf930708-027-p2s3w3</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf930708-027-p2s3w4">
 <src.rf>manual</src.rf>
@@ -238,7 +238,7 @@
 <LM>w#w-mf930708-027-p2s3w4</LM>
 </w.rf>
 <form>draženy</form>
-<tag lemma="dražit_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="dražit" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-mf930708-027-p2s3w5">
 <src.rf>manual</src.rf>
@@ -419,7 +419,7 @@
 <LM>w#w-mf930708-027-p2s4w4</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930708-027-p2s4w5">
 <src.rf>manual</src.rf>
@@ -427,7 +427,7 @@
 <LM>w#w-mf930708-027-p2s4w5</LM>
 </w.rf>
 <form>vydražena</form>
-<tag lemma="vydražit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="vydražit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf930708-027-p2s4w6">
 <src.rf>manual</src.rf>

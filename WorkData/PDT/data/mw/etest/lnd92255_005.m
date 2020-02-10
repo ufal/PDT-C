@@ -75,7 +75,7 @@
 <LM>w#w-lnd92255-005-p1s1w8</LM>
 </w.rf>
 <form>podepsali</form>
-<tag lemma="podepsat" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="podepsat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-005-p1s1w9">
 <src.rf>manual</src.rf>
@@ -173,7 +173,7 @@
 <LM>w#w-lnd92255-005-p1s2w3</LM>
 </w.rf>
 <form>odeslali</form>
-<tag lemma="odeslat" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="odeslat" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-lnd92255-005-p1s2w4">
 <src.rf>manual</src.rf>

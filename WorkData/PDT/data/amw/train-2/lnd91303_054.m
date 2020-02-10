@@ -525,7 +525,7 @@
 <LM>w#w-lnd91303-054-p3s3w3</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-054-p3s3w4">
 <src.rf>manual</src.rf>

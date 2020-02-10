@@ -152,7 +152,7 @@
 <LM>w#w-mf930701-074-p1s2w3</LM>
 </w.rf>
 <form>dostal</form>
-<tag lemma="dostat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dostat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-074-p1s2w4">
 <src.rf>manual</src.rf>
@@ -323,7 +323,7 @@
 <LM>w#w-mf930701-074-p1s3w5</LM>
 </w.rf>
 <form>netrénoval</form>
-<tag lemma="trénovat_:T" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="trénovat" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-mf930701-074-p1s3w6">
 <src.rf>manual</src.rf>
@@ -347,7 +347,7 @@
 <LM>w#w-mf930701-074-p1s3w8</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930701-074-p1s3w9">
 <src.rf>manual</src.rf>

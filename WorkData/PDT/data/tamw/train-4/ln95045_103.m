@@ -250,7 +250,7 @@
 <LM>w#w-ln95045-103-p2s1Bw17</LM>
 </w.rf>
 <form>klesla</form>
-<tag lemma="klesnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="klesnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln95045-103-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -309,8 +309,8 @@
 </w.rf>
 <form>měli</form>
 <tag>
-<AM lemma="mít" src="orig">VpMP---XR-AA---</AM>
-<AM lemma="mít_:T" src="manual" selected="1">VpMP---XR-AA---</AM>
+<AM lemma="mít" src="orig">VpMP----R-AAI--</AM>
+<AM lemma="mít" src="manual" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
 <m id="m-ln95045-103-p2s2w4">
@@ -429,8 +429,8 @@
 </w.rf>
 <form>dospělo</form>
 <tag>
-<AM lemma="dospět" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="dospět_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="dospět" src="orig">VpNS----R-AAP--</AM>
+<AM lemma="dospět" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln95045-103-p3s1w8">
@@ -792,7 +792,7 @@
 <LM>w#w-ln95045-103-p3s3w11</LM>
 </w.rf>
 <form>klesala</form>
-<tag lemma="klesat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="klesat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95045-103-p3s3w12">
 <src.rf>manual</src.rf>
@@ -832,7 +832,7 @@
 <LM>w#w-ln95045-103-p3s3w16</LM>
 </w.rf>
 <form>klesala</form>
-<tag lemma="klesat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="klesat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95045-103-p3s3w17">
 <src.rf>manual</src.rf>
@@ -965,7 +965,7 @@
 <LM>w#w-ln95045-103-p4s1w11</LM>
 </w.rf>
 <form>přesvědčena</form>
-<tag lemma="přesvědčit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="přesvědčit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln95045-103-p4s1w12">
 <src.rf>manual</src.rf>
@@ -1122,7 +1122,7 @@
 <LM>w#w-ln95045-103-p4s2w5</LM>
 </w.rf>
 <form>zaznamenal</form>
-<tag lemma="zaznamenat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zaznamenat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-103-p4s2w6">
 <src.rf>manual</src.rf>

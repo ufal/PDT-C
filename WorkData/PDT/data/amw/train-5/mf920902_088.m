@@ -582,7 +582,7 @@
 <LM>w#w-mf920902-088-p4s1w22</LM>
 </w.rf>
 <form>projevila</form>
-<tag lemma="projevit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="projevit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920902-088-p4s1w23">
 <src.rf>manual</src.rf>

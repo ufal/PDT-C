@@ -19,7 +19,7 @@
 <LM>w#w-mf930703-042-p1s1w1</LM>
 </w.rf>
 <form>Odložen</form>
-<tag lemma="odložit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="odložit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf930703-042-p1s1w2">
 <src.rf>manual</src.rf>
@@ -245,7 +245,7 @@
 <LM>w#w-mf930703-042-p2s1w24</LM>
 </w.rf>
 <form>mělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930703-042-p2s1w25">
 <src.rf>manual</src.rf>
@@ -261,7 +261,7 @@
 <LM>w#w-mf930703-042-p2s1w26</LM>
 </w.rf>
 <form>vyhlášeno</form>
-<tag lemma="vyhlásit" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="vyhlásit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf930703-042-p2s1w27">
 <src.rf>manual</src.rf>
@@ -293,7 +293,7 @@
 <LM>w#w-mf930703-042-p2s1w30</LM>
 </w.rf>
 <form>odložil</form>
-<tag lemma="odložit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odložit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-042-p2s1w31">
 <src.rf>manual</src.rf>
@@ -365,7 +365,7 @@
 <LM>w#w-mf930703-042-p2s1w39</LM>
 </w.rf>
 <form>zpřesněny</form>
-<tag lemma="zpřesnit" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="zpřesnit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-mf930703-042-p2s1w40">
 <src.rf>manual</src.rf>
@@ -405,7 +405,7 @@
 <LM>w#w-mf930703-042-p2s1w44</LM>
 </w.rf>
 <form>zajištěna</form>
-<tag lemma="zajistit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zajistit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf930703-042-p2s1w45">
 <src.rf>manual</src.rf>
@@ -463,7 +463,7 @@
 <LM>w#w-mf930703-042-p2s2w2</LM>
 </w.rf>
 <form>uložil</form>
-<tag lemma="uložit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uložit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-042-p2s2w3">
 <src.rf>manual</src.rf>
@@ -511,7 +511,7 @@
 <LM>w#w-mf930703-042-p2s2w9</LM>
 </w.rf>
 <form>charakterizovalo</form>
-<tag lemma="charakterizovat_:T_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="charakterizovat" src="orig" selected="1">VpNS----R-AAB--</tag>
 </m>
 <m id="m-mf930703-042-p2s2w10">
 <src.rf>manual</src.rf>

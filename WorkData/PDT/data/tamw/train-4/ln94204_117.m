@@ -57,7 +57,7 @@
 <LM>w#w-ln94204-117-p2s2w2</LM>
 </w.rf>
 <form>vyhověla</form>
-<tag lemma="vyhovět_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyhovět" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94204-117-p2s2w3">
 <src.rf>manual</src.rf>

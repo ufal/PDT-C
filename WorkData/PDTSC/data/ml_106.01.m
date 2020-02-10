@@ -598,7 +598,7 @@
 </w.rf>
 <form>Čili</form>
 <tag>
-<AM lemma="čít" src="auto">VpMP---XR-AA---</AM>
+<AM lemma="čít" src="auto">VpMP----R-AAI--</AM>
 <AM lemma="čili-1" src="auto" recommended="1">J^-------------</AM>
 <AM lemma="čili-2_^(koření)" src="auto">NNNXX-----A----</AM>
 </tag>
@@ -697,7 +697,7 @@
 <LM>w#w-d1t243-1</LM>
 </w.rf>
 <form>Fotil</form>
-<tag lemma="fotit_:T" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="fotit" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m106-d1t243-2">
 <w.rf>
@@ -781,7 +781,7 @@
 <LM>w#w-d1t247-5</LM>
 </w.rf>
 <form>fotil</form>
-<tag lemma="fotit_:T" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="fotit" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m106-d1t247-6">
 <w.rf>
@@ -804,7 +804,7 @@
 <LM>w#w-130-131</LM>
 </w.rf>
 <form>Bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m106-130-132">
 <w.rf>
@@ -859,7 +859,7 @@
 <LM>w#w-d1t247-11</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="auto" recommended="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m106-d1t247-12">
 <w.rf>
@@ -940,7 +940,7 @@
 <LM>w#w-d1t247-20</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m106-d1t247-22">
 <w.rf>
@@ -3372,7 +3372,7 @@
 <LM>w#w-d1t315-6</LM>
 </w.rf>
 <form>chytil</form>
-<tag lemma="chytit_:W" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="chytit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m106-d-id69167-punct">
 <w.rf>
@@ -3395,7 +3395,7 @@
 <LM>w#w-d1t322-7</LM>
 </w.rf>
 <form>vybaven</form>
-<tag lemma="vybavit_:W" src="auto" recommended="1">VsYS---XX-AP---</tag>
+<tag lemma="vybavit" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m106-d1t322-8">
 <w.rf>
@@ -4477,7 +4477,7 @@
 <LM>w#w-d1t367-17</LM>
 </w.rf>
 <form>postaven</form>
-<tag lemma="postavit_:W" src="auto" recommended="1">VsYS---XX-AP---</tag>
+<tag lemma="postavit" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m106-d1t367-18">
 <w.rf>
@@ -5585,7 +5585,7 @@
 <LM>w#w-d1t427-1</LM>
 </w.rf>
 <form>Byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m106-d1t427-2">
 <w.rf>

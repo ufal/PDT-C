@@ -347,7 +347,7 @@
 <LM>w#w-lnd92256-043-p3s3w4</LM>
 </w.rf>
 <form>projevilo</form>
-<tag lemma="projevit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="projevit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd92256-043-p3s3w5">
 <src.rf>manual</src.rf>
@@ -472,7 +472,7 @@
 <LM>w#w-lnd92256-043-p4s1w5</LM>
 </w.rf>
 <form>navrhována</form>
-<tag lemma="navrhovat_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="navrhovat" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-lnd92256-043-p4s1w6">
 <src.rf>manual</src.rf>
@@ -747,7 +747,7 @@
 <LM>w#w-lnd92256-043-p4s2w2</LM>
 </w.rf>
 <form>převedena</form>
-<tag lemma="převést" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="převést" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd92256-043-p4s2w3">
 <src.rf>manual</src.rf>
@@ -1209,7 +1209,7 @@
 <LM>w#w-lnd92256-043-p5s1w5</LM>
 </w.rf>
 <form>zprivatizováno</form>
-<tag lemma="zprivatizovat_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zprivatizovat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92256-043-p5s1w6">
 <src.rf>manual</src.rf>
@@ -1528,7 +1528,7 @@
 <LM>w#w-lnd92256-043-p5s3w21</LM>
 </w.rf>
 <form>zprivatizována</form>
-<tag lemma="zprivatizovat_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zprivatizovat" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd92256-043-p5s3w22">
 <src.rf>manual</src.rf>

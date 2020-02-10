@@ -155,7 +155,7 @@
 <LM>w#w-lnd94103-030-p1s2w12</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd94103-030-p1s2w13">
 <src.rf>manual</src.rf>

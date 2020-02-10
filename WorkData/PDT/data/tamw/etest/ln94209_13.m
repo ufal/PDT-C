@@ -110,7 +110,7 @@
 <LM>w#w-ln94209-13-p1s1Aw12</LM>
 </w.rf>
 <form>začala</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94209-13-p1s1Aw13">
 <src.rf>manual</src.rf>

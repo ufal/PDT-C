@@ -191,7 +191,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>instalováno</form>
-<tag lemma="instalovat_:T_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="instalovat" src="orig" selected="1">VsNS----X-APB--</tag>
 </m>
 <m id="m-ln94204-161-p2s1Bw13">
 <src.rf>manual</src.rf>
@@ -312,8 +312,8 @@
 </w.rf>
 <form>začala</form>
 <tag>
-<AM lemma="začít-1_^(začnout)" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="začít-1_:W_^(začnout)" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="začít-1_^(začnout)" src="auto">VpQW----R-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94204-161-p2s2w6">
@@ -380,7 +380,7 @@
 <LM>w#w-ln94204-161-p2s3w3</LM>
 </w.rf>
 <form>rozdělena</form>
-<tag lemma="rozdělit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="rozdělit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94204-161-p2s3w4">
 <src.rf>manual</src.rf>
@@ -654,7 +654,7 @@
 <LM>w#w-ln94204-161-p3s2w2</LM>
 </w.rf>
 <form>sdělil</form>
-<tag lemma="sdělit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="sdělit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94204-161-p3s2w3">
 <src.rf>manual</src.rf>
@@ -828,7 +828,7 @@
 <LM>w#w-ln94204-161-p3s2w23</LM>
 </w.rf>
 <form>požádala</form>
-<tag lemma="požádat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="požádat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94204-161-p3s2w24">
 <src.rf>manual</src.rf>
@@ -985,7 +985,7 @@
 <LM>w#w-ln94204-161-p4s1w9</LM>
 </w.rf>
 <form>vyhovělo</form>
-<tag lemma="vyhovět_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vyhovět" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94204-161-p4s1w10">
 <src.rf>manual</src.rf>
@@ -1101,7 +1101,7 @@
 <LM>w#w-ln94204-161-p4s3w4</LM>
 </w.rf>
 <form>měla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94204-161-p4s3w5">
 <src.rf>manual</src.rf>
@@ -1762,7 +1762,7 @@
 <LM>w#w-ln94204-161-p6s5w6</LM>
 </w.rf>
 <form>instalovány</form>
-<tag lemma="instalovat_:T_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="instalovat" src="orig" selected="1">VsTP----X-APB--</tag>
 </m>
 <m id="m-ln94204-161-p6s5w7">
 <src.rf>manual</src.rf>

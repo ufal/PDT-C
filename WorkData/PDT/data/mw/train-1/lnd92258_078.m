@@ -1575,7 +1575,7 @@
 <LM>w#w-lnd92258-078-p24s1w9</LM>
 </w.rf>
 <form>upravovaly</form>
-<tag lemma="upravovat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="upravovat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd92258-078-p24s1w10">
 <src.rf>manual</src.rf>
@@ -2109,7 +2109,7 @@
 <LM>w#w-lnd92258-078-p27s2w2</LM>
 </w.rf>
 <form>upraveno</form>
-<tag lemma="upravit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="upravit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92258-078-p27s2w3">
 <src.rf>manual</src.rf>
@@ -3148,7 +3148,7 @@
 <LM>w#w-lnd92258-078-p41s1w3</LM>
 </w.rf>
 <form>upraveno</form>
-<tag lemma="upravit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="upravit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92258-078-p41s1w4">
 <src.rf>manual</src.rf>
@@ -5087,7 +5087,7 @@
 <AM lemma="podnikový_:B" src="orig" selected="1">AAXXX----1A---8</AM>
 <AM lemma="podnik" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="podnik" src="auto">NNIS4-----A----</AM>
-<AM lemma="podniknout_:W" src="auto">VpYS---XR-AA--6</AM>
+<AM lemma="podniknout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-lnd92258-078-p79s1w7">
@@ -5481,7 +5481,7 @@
 <LM>w#w-lnd92258-078-p83s1w7</LM>
 </w.rf>
 <form>uvedeno</form>
-<tag lemma="uvést" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="uvést" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92258-078-p83s1w8">
 <src.rf>manual</src.rf>
@@ -5749,7 +5749,7 @@
 <LM>w#w-lnd92258-078-p84s1w17</LM>
 </w.rf>
 <form>uvedeno</form>
-<tag lemma="uvést" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="uvést" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd92258-078-p84s1w18">
 <src.rf>manual</src.rf>
@@ -5934,7 +5934,7 @@
 <LM>w#w-lnd92258-078-p87s1w4</LM>
 </w.rf>
 <form>tvořeno</form>
-<tag lemma="tvořit_:T" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="tvořit" src="orig" selected="1">VsNS----X-API--</tag>
 </m>
 <m id="m-lnd92258-078-p87s1w5">
 <src.rf>manual</src.rf>

@@ -321,7 +321,7 @@
 <LM>w#w-ln95040-014-p3s1w2</LM>
 </w.rf>
 <form>zastupoval</form>
-<tag lemma="zastupovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zastupovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95040-014-p3s1w3">
 <src.rf>manual</src.rf>

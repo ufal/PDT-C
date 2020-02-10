@@ -27,7 +27,7 @@
 <LM>w#w-ln95042-002-p1s1w2</LM>
 </w.rf>
 <form>omezili</form>
-<tag lemma="omezit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="omezit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln95042-002-p1s1w3">
 <src.rf>manual</src.rf>

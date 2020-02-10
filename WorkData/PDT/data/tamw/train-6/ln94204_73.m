@@ -165,7 +165,7 @@
 <LM>w#w-ln94204-73-p2s1w18</LM>
 </w.rf>
 <form>pohřešován</form>
-<tag lemma="pohřešovat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="pohřešovat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-ln94204-73-p2s1w19">
 <src.rf>manual</src.rf>
@@ -191,7 +191,7 @@
 <LM>w#w-ln94204-73-p2s2w2</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94204-73-p2s2w3">
 <src.rf>manual</src.rf>
@@ -259,7 +259,7 @@
 <LM>w#w-ln94204-73-p2s2w10</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94204-73-p2s2w11">
 <src.rf>manual</src.rf>
@@ -331,7 +331,7 @@
 <LM>w#w-ln94204-73-p2s2w19</LM>
 </w.rf>
 <form>nedorazil</form>
-<tag lemma="dorazit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="dorazit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-ln94204-73-p2s2w20">
 <src.rf>manual</src.rf>
@@ -365,7 +365,7 @@
 <LM>w#w-ln94204-73-p2s3w3</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94204-73-p2s3w4">
 <src.rf>manual</src.rf>
@@ -493,7 +493,7 @@
 <LM>w#w-ln94204-73-p2s3w19</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94204-73-p2s3w20">
 <src.rf>manual</src.rf>

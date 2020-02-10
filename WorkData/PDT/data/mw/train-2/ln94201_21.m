@@ -405,7 +405,7 @@
 <LM>w#w-ln94201-21-p2s2w10</LM>
 </w.rf>
 <form>nabídla</form>
-<tag lemma="nabídnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="nabídnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-ln94201-21-p2s2w11">
 <src.rf>manual</src.rf>
@@ -722,8 +722,8 @@
 </w.rf>
 <form>určeny</form>
 <tag>
-<AM lemma="určit" src="orig">VsTP---XX-AP---</AM>
-<AM lemma="určit_:W" src="manual" selected="1">VsTP---XX-AP---</AM>
+<AM lemma="určit" src="orig">VsTP----X-APP--</AM>
+<AM lemma="určit" src="manual" selected="1">VsTP----X-APP--</AM>
 </tag>
 </m>
 <m id="m-ln94201-21-p2s4w4">

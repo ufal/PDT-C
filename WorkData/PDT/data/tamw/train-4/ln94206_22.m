@@ -330,7 +330,7 @@
 <LM>w#w-ln94206-22-p2s1Bw29</LM>
 </w.rf>
 <form>povolilo</form>
-<tag lemma="povolit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="povolit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94206-22-p2s1Bw30">
 <src.rf>manual</src.rf>
@@ -380,7 +380,7 @@
 <LM>w#w-ln94206-22-p2s2w1</LM>
 </w.rf>
 <form>Oznámil</form>
-<tag lemma="oznámit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="oznámit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94206-22-p2s2w2">
 <src.rf>manual</src.rf>
@@ -454,7 +454,7 @@
 <LM>w#w-ln94206-22-p3s1w2</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94206-22-p3s1w3">
 <src.rf>manual</src.rf>

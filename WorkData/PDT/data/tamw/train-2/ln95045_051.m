@@ -831,7 +831,7 @@
 <LM>w#w-ln95045-051-p3s3w9</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95045-051-p3s3w10">
 <src.rf>manual</src.rf>
@@ -1271,7 +1271,7 @@
 <LM>w#w-ln95045-051-p3s6w6</LM>
 </w.rf>
 <form>zkomponoval</form>
-<tag lemma="zkomponovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zkomponovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-051-p3s6w7">
 <src.rf>manual</src.rf>
@@ -1394,7 +1394,7 @@
 <LM>w#w-ln95045-051-p3s7w4</LM>
 </w.rf>
 <form>zpracoval</form>
-<tag lemma="zpracovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zpracovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95045-051-p3s7w5">
 <src.rf>manual</src.rf>

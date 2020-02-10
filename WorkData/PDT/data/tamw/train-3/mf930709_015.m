@@ -99,7 +99,7 @@
 <LM>w#w-mf930709-015-p1s1w11</LM>
 </w.rf>
 <form>zhoustl</form>
-<tag lemma="zhoustnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="zhoustnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 </s>
 </mdata>

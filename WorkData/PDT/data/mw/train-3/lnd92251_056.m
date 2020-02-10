@@ -45,7 +45,7 @@
 <LM>w#w-lnd92251-056-p2s1w2</LM>
 </w.rf>
 <form>vítána</form>
-<tag lemma="vítat_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="vítat" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 </s>
 <s id="m-lnd92251-056-p3s1">
@@ -278,7 +278,7 @@
 <LM>w#w-lnd92251-056-p3s4w1</LM>
 </w.rf>
 <form>Informovali</form>
-<tag lemma="informovat_:T_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="informovat" src="orig" selected="1">VpMP----R-AAB--</tag>
 </m>
 <m id="m-lnd92251-056-p3s4w2">
 <src.rf>manual</src.rf>
@@ -427,7 +427,7 @@
 <LM>w#w-lnd92251-056-p3s5w12</LM>
 </w.rf>
 <form>dána</form>
-<tag lemma="dát" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="dát" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-lnd92251-056-p3s5w13">
 <src.rf>manual</src.rf>

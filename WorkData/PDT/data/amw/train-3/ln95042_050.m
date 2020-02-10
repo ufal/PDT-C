@@ -27,7 +27,7 @@
 <LM>w#w-ln95042-050-p1s1w2</LM>
 </w.rf>
 <form>pobouřena</form>
-<tag lemma="pobouřit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="pobouřit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln95042-050-p1s1w3">
 <src.rf>manual</src.rf>
@@ -135,7 +135,7 @@
 <LM>w#w-ln95042-050-p2s1Bw9</LM>
 </w.rf>
 <form>označil</form>
-<tag lemma="označit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="označit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95042-050-p2s1Bw10">
 <src.rf>manual</src.rf>
@@ -319,7 +319,7 @@
 <LM>w#w-ln95042-050-p2s1Bw32</LM>
 </w.rf>
 <form>spolupracovaly</form>
-<tag lemma="spolupracovat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="spolupracovat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln95042-050-p2s1Bw33">
 <src.rf>manual</src.rf>
@@ -539,7 +539,7 @@
 <LM>w#w-ln95042-050-p2s3w6</LM>
 </w.rf>
 <form>představil</form>
-<tag lemma="představit-1_:W_^(si_něco;_něco/někoho_někomu)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="představit-1_^(si_něco;_něco/někoho_někomu)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95042-050-p2s3w7">
 <src.rf>manual</src.rf>
@@ -685,7 +685,7 @@
 <LM>w#w-ln95042-050-p2s4w9</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95042-050-p2s4w10">
 <src.rf>manual</src.rf>
@@ -701,7 +701,7 @@
 <LM>w#w-ln95042-050-p2s4w11</LM>
 </w.rf>
 <form>zakázán</form>
-<tag lemma="zakázat" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zakázat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln95042-050-p2s4w12">
 <src.rf>manual</src.rf>
@@ -824,7 +824,7 @@
 <LM>w#w-ln95042-050-p2s4w26</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95042-050-p2s4w27">
 <src.rf>manual</src.rf>
@@ -848,7 +848,7 @@
 <LM>w#w-ln95042-050-p2s4w29</LM>
 </w.rf>
 <form>konfiskován</form>
-<tag lemma="konfiskovat_:T_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="konfiskovat" src="orig" selected="1">VsYS----X-APB--</tag>
 </m>
 <m id="m-ln95042-050-p2s4w30">
 <src.rf>manual</src.rf>
@@ -874,7 +874,7 @@
 <LM>w#w-ln95042-050-p2s5w1</LM>
 </w.rf>
 <form>Odebral</form>
-<tag lemma="odebrat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odebrat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95042-050-p2s5w2">
 <src.rf>manual</src.rf>

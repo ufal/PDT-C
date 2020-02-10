@@ -109,7 +109,7 @@
 <LM>w#w-ln94209-9-p2s1Aw6</LM>
 </w.rf>
 <form>neměl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-NAI--</tag>
 </m>
 <m id="m-ln94209-9-p2s1Aw7">
 <src.rf>manual</src.rf>
@@ -271,7 +271,7 @@
 <LM>w#w-ln94209-9-p2s1Cw7</LM>
 </w.rf>
 <form>objevila</form>
-<tag lemma="objevit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="objevit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94209-9-p2s1Cw8">
 <src.rf>manual</src.rf>
@@ -417,7 +417,7 @@
 <LM>w#w-ln94209-9-p2s2w6</LM>
 </w.rf>
 <form>množily</form>
-<tag lemma="množit_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="množit" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94209-9-p2s2w7">
 <src.rf>manual</src.rf>
@@ -640,7 +640,7 @@
 <LM>w#w-ln94209-9-p2s4w1</LM>
 </w.rf>
 <form>Vznikl</form>
-<tag lemma="vzniknout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="vzniknout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln94209-9-p2s4w2">
 <src.rf>manual</src.rf>
@@ -1512,7 +1512,7 @@
 <LM>w#w-ln94209-9-p4s4w6</LM>
 </w.rf>
 <form>placen</form>
-<tag lemma="platit_:T" src="auto" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="platit" src="auto" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-ln94209-9-p4s4w7">
 <src.rf>manual</src.rf>
@@ -3244,7 +3244,7 @@
 <LM>w#w-ln94209-9-p7s1w12</LM>
 </w.rf>
 <form>staral</form>
-<tag lemma="starat_:T_^(se)" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="starat_^(se)" src="auto" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln94209-9-p7s1w13">
 <src.rf>manual</src.rf>

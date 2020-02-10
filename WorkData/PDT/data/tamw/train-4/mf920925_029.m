@@ -299,7 +299,7 @@
 <LM>w#w-mf920925-029-p1s2w5</LM>
 </w.rf>
 <form>zjistili</form>
-<tag lemma="zjistit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zjistit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf920925-029-p1s2w6">
 <src.rf>manual</src.rf>
@@ -517,7 +517,7 @@
 <LM>w#w-mf920925-029-p1s3w16</LM>
 </w.rf>
 <form>nepožádala</form>
-<tag lemma="požádat_:W" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="požádat" src="orig" selected="1">VpQW----R-NAP--</tag>
 </m>
 <m id="m-mf920925-029-p1s3w17">
 <src.rf>manual</src.rf>

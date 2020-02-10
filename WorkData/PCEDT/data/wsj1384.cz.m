@@ -122,7 +122,7 @@
 <LM>w#w-wsj1384-001-p1s0W6</LM>
 </w.rf>
 <form>odhadl</form>
-<tag lemma="odhadnout" src="auto" recommended="1">VpYS---XR-AAP-1</tag>
+<tag lemma="odhadnout" src="auto" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-wsj1384-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -210,7 +210,7 @@
 <LM>w#w-wsj1384-001-p1s0W13</LM>
 </w.rf>
 <form>vzrostly</form>
-<tag lemma="vzrůst-1" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="vzrůst-1" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1384-001-p1s0W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -356,7 +356,7 @@
 <LM>w#w-wsj1384-001-p1s0W24</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj1384-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>

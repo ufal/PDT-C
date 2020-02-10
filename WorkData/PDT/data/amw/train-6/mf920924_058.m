@@ -114,7 +114,7 @@
 <LM>w#w-mf920924-058-p2s2w5</LM>
 </w.rf>
 <form>odložen</form>
-<tag lemma="odložit_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="odložit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-mf920924-058-p2s2w6">
 <src.rf>manual</src.rf>

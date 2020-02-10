@@ -104,8 +104,8 @@
 </w.rf>
 <form>neběžel</form>
 <tag>
-<AM lemma="běžet" src="orig">VpYS---XR-NA---</AM>
-<AM lemma="běžet_:T" src="manual" selected="1">VpYS---XR-NA---</AM>
+<AM lemma="běžet" src="orig">VpYS----R-NAI--</AM>
+<AM lemma="běžet" src="manual" selected="1">VpYS----R-NAI--</AM>
 </tag>
 </m>
 <m id="m-ln95048-085-p2s1Bw7">
@@ -356,7 +356,7 @@
 <LM>w#w-ln95048-085-p2s2w18</LM>
 </w.rf>
 <form>dalo</form>
-<tag lemma="dát" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="dát" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-085-p2s2w19">
 <src.rf>manual</src.rf>
@@ -470,7 +470,7 @@
 <LM>w#w-ln95048-085-p2s3w4</LM>
 </w.rf>
 <form>objevil</form>
-<tag lemma="objevit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="objevit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95048-085-p2s3w5">
 <src.rf>manual</src.rf>
@@ -1164,7 +1164,7 @@
 <LM>w#w-ln95048-085-p2s5w12</LM>
 </w.rf>
 <form>rozhodli</form>
-<tag lemma="rozhodnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="rozhodnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-ln95048-085-p2s5w13">
 <src.rf>manual</src.rf>

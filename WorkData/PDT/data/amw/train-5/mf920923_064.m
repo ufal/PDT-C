@@ -218,7 +218,7 @@
 <LM>w#w-mf920923-064-p2s2w17</LM>
 </w.rf>
 <form>bylo</form>
-<tag lemma="být" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf920923-064-p2s2w18">
 <src.rf>manual</src.rf>
@@ -234,7 +234,7 @@
 <LM>w#w-mf920923-064-p2s2w19</LM>
 </w.rf>
 <form>zabezpečeno</form>
-<tag lemma="zabezpečit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zabezpečit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-mf920923-064-p2s2w20">
 <src.rf>manual</src.rf>
@@ -468,7 +468,7 @@
 <LM>w#w-mf920923-064-p2s3w24</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-064-p2s3w25">
 <src.rf>manual</src.rf>
@@ -556,7 +556,7 @@
 <LM>w#w-mf920923-064-p2s3w35</LM>
 </w.rf>
 <form>navrhla</form>
-<tag lemma="navrhnout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="navrhnout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-mf920923-064-p2s3w36">
 <src.rf>manual</src.rf>
@@ -1143,7 +1143,7 @@
 <LM>w#w-mf920923-064-p3s3w6</LM>
 </w.rf>
 <form>uvedl</form>
-<tag lemma="uvést" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="uvést" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-064-p3s3w7">
 <src.rf>manual</src.rf>
@@ -1353,7 +1353,7 @@
 <LM>w#w-mf920923-064-p3s4w18</LM>
 </w.rf>
 <form>podnikla</form>
-<tag lemma="podniknout_:W" src="orig" selected="1">VpQW---XR-AA--1</tag>
+<tag lemma="podniknout" src="orig" selected="1">VpQW----R-AAP-1</tag>
 </m>
 <m id="m-mf920923-064-p3s4w19">
 <src.rf>manual</src.rf>
@@ -1449,7 +1449,7 @@
 <LM>w#w-mf920923-064-p3s4w30</LM>
 </w.rf>
 <form>vyústily</form>
-<tag lemma="vyústit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="vyústit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf920923-064-p3s4w31">
 <src.rf>manual</src.rf>
@@ -1545,7 +1545,7 @@
 <LM>w#w-mf920923-064-p3s4w42</LM>
 </w.rf>
 <form>přerostly</form>
-<tag lemma="přerůst" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="přerůst" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf920923-064-p3s4w43">
 <src.rf>manual</src.rf>

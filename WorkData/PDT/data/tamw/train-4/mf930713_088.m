@@ -162,7 +162,7 @@
 <LM>w#w-mf930713-088-p2s1Bw7</LM>
 </w.rf>
 <form>zahájilo</form>
-<tag lemma="zahájit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zahájit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-088-p2s1Bw8">
 <src.rf>manual</src.rf>
@@ -534,7 +534,7 @@
 <LM>w#w-mf930713-088-p3s1w5</LM>
 </w.rf>
 <form>vybralo</form>
-<tag lemma="vybrat" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="vybrat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930713-088-p3s1w6">
 <src.rf>manual</src.rf>
@@ -762,7 +762,7 @@
 <LM>w#w-mf930713-088-p3s3w8</LM>
 </w.rf>
 <form>navštívili</form>
-<tag lemma="navštívit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="navštívit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930713-088-p3s3w9">
 <src.rf>manual</src.rf>

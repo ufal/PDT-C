@@ -35,7 +35,7 @@
 <LM>w#w-ln94201-76-p1s1w3</LM>
 </w.rf>
 <form>vyprodáno</form>
-<tag lemma="vyprodat_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="vyprodat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94201-76-p1s1w4">
 <src.rf>manual</src.rf>

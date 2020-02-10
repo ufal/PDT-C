@@ -658,7 +658,7 @@
 <LM>w#w-es_07-SCzechM-p0654-s1-w5</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="být" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="es_07-SCzechM-p0654-s1-w6">
 <w.rf>
@@ -792,7 +792,7 @@
 <LM>w#w-es_07-SCzechM-p0654-s1-w20</LM>
 </w.rf>
 <form>opatřili</form>
-<tag lemma="opatřit_:W" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="opatřit" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="es_07-SCzechM-p0654-s1-w21">
 <w.rf>
@@ -936,14 +936,14 @@
 <LM>w#w-es_07-SCzechM-p0654-s1-w34</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="být" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="es_07-SCzechM-p0654-s1-w35">
 <w.rf>
 <LM>w#w-es_07-SCzechM-p0654-s1-w35</LM>
 </w.rf>
 <form>vnímán</form>
-<tag lemma="vnímat_:T" recommended="1">VsYS---XX-AP---</tag>
+<tag lemma="vnímat" recommended="1">VsYS----X-API--</tag>
 </m>
 <m id="es_07-SCzechM-p0654-s1-w36">
 <w.rf>
@@ -1225,7 +1225,7 @@
 <LM>w#w-es_07-SCzechM-p0660-s1-w7</LM>
 </w.rf>
 <form>dostal</form>
-<tag lemma="dostat" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="dostat" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="es_07-SCzechM-p0660-s1-w8">
 <w.rf>
@@ -2024,7 +2024,7 @@
 <LM>w#w-es_07-SCzechM-p0679-s1-w8</LM>
 </w.rf>
 <form>dostali</form>
-<tag lemma="dostat" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="dostat" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="es_07-SCzechM-p0679-s1-w9">
 <w.rf>
@@ -2557,7 +2557,7 @@
 <LM>w#w-es_07-SCzechM-p0692-s1-w7</LM>
 </w.rf>
 <form>nezúčastnil</form>
-<tag lemma="zúčastnit_:W" recommended="1">VpYS---XR-NA---</tag>
+<tag lemma="zúčastnit" recommended="1">VpYS----R-NAP--</tag>
 </m>
 </s>
 <s id="s-es_07-SCzechM-p0693-s1-w1">
@@ -2566,7 +2566,7 @@
 <LM>w#w-es_07-SCzechM-p0693-s1-w1</LM>
 </w.rf>
 <form>svlékl</form>
-<tag lemma="svléknout_:W" recommended="1">VpYS---XR-AA--1</tag>
+<tag lemma="svléknout" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="es_07-SCzechM-p0693-s1-w2">
 <w.rf>
@@ -2754,7 +2754,7 @@
 <LM>w#w-es_07-SCzechM-p0696-s1-w14</LM>
 </w.rf>
 <form>dosáhl</form>
-<tag lemma="dosáhnout" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="dosáhnout" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="es_07-SCzechM-p0696-s1-w15">
 <w.rf>
@@ -3032,7 +3032,7 @@
 <LM>w#w-es_07-SCzechM-p0701-s1-w1</LM>
 </w.rf>
 <form>Domníval</form>
-<tag lemma="domnívat_:T" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="domnívat" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="es_07-SCzechM-p0701-s1-w2">
 <w.rf>
@@ -3172,7 +3172,7 @@
 <LM>w#w-es_07-SCzechM-p0701-s1-w15</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="být" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="es_07-SCzechM-p0701-s1-w16">
 <w.rf>
@@ -3230,7 +3230,7 @@
 <LM>w#w-es_07-SCzechM-p0701-s1-w21</LM>
 </w.rf>
 <form>dodávali</form>
-<tag lemma="dodávat_:T_^(*4at)" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="dodávat_^(*4at)" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="es_07-SCzechM-p0701-s1-w22">
 <w.rf>
@@ -3258,7 +3258,7 @@
 <LM>w#w-es_07-SCzechM-p0701-s1-w25</LM>
 </w.rf>
 <form>chtěl</form>
-<tag lemma="chtít" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="chtít" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="es_07-SCzechM-p0701-s1-w26">
 <w.rf>
@@ -3279,7 +3279,7 @@
 <LM>w#w-es_07-SCzechM-p0701-s1-w28</LM>
 </w.rf>
 <form>proklel</form>
-<tag lemma="proklít" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="proklít" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="es_07-SCzechM-p0701-s1-w29">
 <w.rf>
@@ -3814,7 +3814,7 @@
 <LM>w#w-es_07-SCzechM-p0703-s1-w34</LM>
 </w.rf>
 <form>navrhl</form>
-<tag lemma="navrhnout_:W" recommended="1">VpYS---XR-AA--1</tag>
+<tag lemma="navrhnout" recommended="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="es_07-SCzechM-p0703-s1-w35">
 <w.rf>
@@ -3944,7 +3944,7 @@
 <LM>w#w-es_07-SCzechM-p0704-s1-w1</LM>
 </w.rf>
 <form>Posmívala</form>
-<tag lemma="posmívat_:T" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="posmívat" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="es_07-SCzechM-p0704-s1-w2">
 <w.rf>
@@ -3987,7 +3987,7 @@
 <LM>w#w-es_07-SCzechM-p0704-s1-w6</LM>
 </w.rf>
 <form>zůstal</form>
-<tag lemma="zůstat" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="zůstat" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="es_07-SCzechM-p0704-s1-w7">
 <w.rf>
@@ -4786,8 +4786,8 @@
 <form>neděli</form>
 <tag>
 <AM lemma="neděle" recommended="1">NNFS4-----A----</AM>
-<AM lemma="dít-1_^(dít_se)">VpMP---XR-NA---</AM>
-<AM lemma="dít-2_^(říkat)">VpMP---XR-NA---</AM>
+<AM lemma="dít-1_^(dít_se)">VpMP----R-NAI--</AM>
+<AM lemma="dít-2_^(říkat)">VpMP----R-NAP--</AM>
 <AM lemma="neděle">NNFS3-----A----</AM>
 <AM lemma="neděle">NNFS6-----A----</AM>
 </tag>
@@ -4804,7 +4804,7 @@
 <LM>w#w-es_07-SCzechM-p0717-s1-w14</LM>
 </w.rf>
 <form>Užil</form>
-<tag lemma="užít" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="užít" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="es_07-SCzechM-p0717-s1-w15">
 <w.rf>
@@ -6116,7 +6116,7 @@
 <LM>w#w-es_07-SCzechM-p0740-s1-w18</LM>
 </w.rf>
 <form>doplněno</form>
-<tag lemma="doplnit_:W" recommended="1">VsNS---XX-AP---</tag>
+<tag lemma="doplnit" recommended="1">VsNS----X-APP--</tag>
 </m>
 <m id="es_07-SCzechM-p0740-s1-w19">
 <w.rf>
@@ -6174,7 +6174,7 @@
 <LM>w#w-es_07-SCzechM-p0743-s1-w4</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="es_07-SCzechM-p0743-s1-w5">
 <w.rf>
@@ -6215,7 +6215,7 @@
 <LM>w#w-es_07-SCzechM-p0744-s1-w4</LM>
 </w.rf>
 <form>přesvědčeni</form>
-<tag lemma="přesvědčit_:W" recommended="1">VsMP---XX-AP---</tag>
+<tag lemma="přesvědčit" recommended="1">VsMP----X-APP--</tag>
 </m>
 <m id="es_07-SCzechM-p0744-s1-w5">
 <w.rf>
@@ -6372,7 +6372,7 @@
 <LM>w#w-es_07-SCzechM-p0747-s1-w1</LM>
 </w.rf>
 <form>přišel</form>
-<tag lemma="přijít" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="přijít" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="es_07-SCzechM-p0747-s1-w2">
 <w.rf>

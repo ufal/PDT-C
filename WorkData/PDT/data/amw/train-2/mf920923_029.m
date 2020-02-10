@@ -77,7 +77,7 @@
 <LM>w#w-mf920923-029-p2s1w6</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf920923-029-p2s1w7">
 <src.rf>manual</src.rf>
@@ -109,7 +109,7 @@
 <LM>w#w-mf920923-029-p2s1w10</LM>
 </w.rf>
 <form>udělena</form>
-<tag lemma="udělit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="udělit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf920923-029-p2s1w11">
 <src.rf>manual</src.rf>
@@ -338,7 +338,7 @@
 <LM>w#w-mf920923-029-p2s2w13</LM>
 </w.rf>
 <form>zřídila</form>
-<tag lemma="zřídit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="zřídit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf920923-029-p2s2w14">
 <src.rf>manual</src.rf>

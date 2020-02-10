@@ -103,7 +103,7 @@
 <LM>w#w-lnd91303-071-p2s1w6</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-071-p2s1w7">
 <src.rf>manual</src.rf>
@@ -289,7 +289,7 @@
 <LM>w#w-lnd91303-071-p2s2w8</LM>
 </w.rf>
 <form>uklidňovaly</form>
-<tag lemma="uklidňovat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="uklidňovat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-071-p2s2w9">
 <src.rf>manual</src.rf>
@@ -305,7 +305,7 @@
 <LM>w#w-lnd91303-071-p2s2w10</LM>
 </w.rf>
 <form>dohadovaly</form>
-<tag lemma="dohadovat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="dohadovat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-071-p2s2w11">
 <src.rf>manual</src.rf>
@@ -361,7 +361,7 @@
 <LM>w#w-lnd91303-071-p2s2w17</LM>
 </w.rf>
 <form>dohonil</form>
-<tag lemma="dohonit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dohonit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-071-p2s2w18">
 <src.rf>manual</src.rf>
@@ -475,7 +475,7 @@
 <LM>w#w-lnd91303-071-p2s3w9</LM>
 </w.rf>
 <form>vpálil</form>
-<tag lemma="vpálit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vpálit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-071-p2s3w10">
 <src.rf>manual</src.rf>
@@ -1076,7 +1076,7 @@
 <LM>w#w-lnd91303-071-p3s1w8</LM>
 </w.rf>
 <form>zakázáno</form>
-<tag lemma="zakázat" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="zakázat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-lnd91303-071-p3s1w9">
 <src.rf>manual</src.rf>
@@ -1236,7 +1236,7 @@
 <LM>w#w-lnd91303-071-p3s1w28</LM>
 </w.rf>
 <form>neměla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-lnd91303-071-p3s1w29">
 <src.rf>manual</src.rf>
@@ -1508,7 +1508,7 @@
 <LM>w#w-lnd91303-071-p3s2w31</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-071-p3s2w32">
 <src.rf>manual</src.rf>

@@ -470,7 +470,7 @@
 <LM>w#w-lnd92256-002-p3s4w15</LM>
 </w.rf>
 <form>neměla</form>
-<tag lemma="mít" src="orig" selected="1">VpQW---XR-NA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpQW----R-NAI--</tag>
 </m>
 <m id="m-lnd92256-002-p3s4w16">
 <src.rf>manual</src.rf>
@@ -734,7 +734,7 @@
 <LM>w#w-lnd92256-002-p3s6w4</LM>
 </w.rf>
 <form>ovlivňována</form>
-<tag lemma="ovlivňovat_:T" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="ovlivňovat" src="orig" selected="1">VsQW----X-API--</tag>
 </m>
 <m id="m-lnd92256-002-p3s6w5">
 <src.rf>manual</src.rf>

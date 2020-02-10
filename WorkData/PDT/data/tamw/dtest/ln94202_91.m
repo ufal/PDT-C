@@ -101,7 +101,7 @@
 <LM>w#w-ln94202-91-p2s1w6</LM>
 </w.rf>
 <form>připravila</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="připravit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94202-91-p2s1w7">
 <src.rf>manual</src.rf>
@@ -657,7 +657,7 @@
 <LM>w#w-ln94202-91-p3s1w10</LM>
 </w.rf>
 <form>mělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln94202-91-p3s1w11">
 <src.rf>manual</src.rf>
@@ -705,7 +705,7 @@
 <LM>w#w-ln94202-91-p3s1w16</LM>
 </w.rf>
 <form>vysloužil</form>
-<tag lemma="vysloužit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vysloužit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94202-91-p3s1w17">
 <src.rf>manual</src.rf>
@@ -1211,7 +1211,7 @@
 <LM>w#w-ln94202-91-p3s5w5</LM>
 </w.rf>
 <form>podepsán</form>
-<tag lemma="podepsat" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="podepsat" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94202-91-p3s5w6">
 <src.rf>manual</src.rf>
@@ -1449,7 +1449,7 @@
 <LM>w#w-ln94202-91-p4s1w6</LM>
 </w.rf>
 <form>objevilo</form>
-<tag lemma="objevit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="objevit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94202-91-p4s1w7">
 <src.rf>manual</src.rf>
@@ -1497,7 +1497,7 @@
 <LM>w#w-ln94202-91-p4s1w12</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-ln94202-91-p4s1w13">
 <src.rf>manual</src.rf>
@@ -1530,8 +1530,8 @@
 </w.rf>
 <form>přijaty</form>
 <tag>
-<AM lemma="přijmout" src="auto">VsTP---XX-AP---</AM>
-<AM lemma="přijmout_:W" src="manual" selected="1">VsTP---XX-AP---</AM>
+<AM lemma="přijmout" src="auto">VsTP----X-APP--</AM>
+<AM lemma="přijmout" src="manual" selected="1">VsTP----X-APP--</AM>
 </tag>
 </m>
 <m id="m-ln94202-91-p4s1w17">
@@ -1699,7 +1699,7 @@
 <LM>w#w-ln94202-91-p4s2w15</LM>
 </w.rf>
 <form>zabodovalo</form>
-<tag lemma="zabodovat_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zabodovat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94202-91-p4s2w16">
 <src.rf>manual</src.rf>

@@ -2143,7 +2143,7 @@
 <LM>w#w-cmpr9417-033-p10s2w16</LM>
 </w.rf>
 <form>ulovena</form>
-<tag lemma="ulovit_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="ulovit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-cmpr9417-033-p10s2w17">
 <src.rf>manual</src.rf>
@@ -6955,7 +6955,7 @@
 <LM>w#w-cmpr9417-033-p21s1w4</LM>
 </w.rf>
 <form>dočetl</form>
-<tag lemma="dočíst" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="dočíst" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9417-033-p21s1w5">
 <src.rf>manual</src.rf>
@@ -7019,7 +7019,7 @@
 <LM>w#w-cmpr9417-033-p21s1w12</LM>
 </w.rf>
 <form>musel</form>
-<tag lemma="muset" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="muset" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9417-033-p21s1w13">
 <src.rf>manual</src.rf>
@@ -7239,7 +7239,7 @@
 <LM>w#w-cmpr9417-033-p21s1w40</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-cmpr9417-033-p21s1w41">
 <src.rf>manual</src.rf>
@@ -7917,7 +7917,7 @@
 <LM>w#w-cmpr9417-033-p22s1w18</LM>
 </w.rf>
 <form>spustil</form>
-<tag lemma="spustit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="spustit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9417-033-p22s1w19">
 <src.rf>manual</src.rf>

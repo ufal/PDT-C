@@ -463,7 +463,7 @@
 <LM>w#w-mf930701-136-p2s2w11</LM>
 </w.rf>
 <form>mělo</form>
-<tag lemma="mít" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930701-136-p2s2w12">
 <src.rf>manual</src.rf>
@@ -678,7 +678,7 @@
 <LM>w#w-mf930701-136-p2s4w5</LM>
 </w.rf>
 <form>měl</form>
-<tag lemma="mít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="mít" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930701-136-p2s4w6">
 <src.rf>manual</src.rf>
@@ -734,7 +734,7 @@
 <LM>w#w-mf930701-136-p2s4w12</LM>
 </w.rf>
 <form>likvidován</form>
-<tag lemma="likvidovat_:T_:W" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="likvidovat" src="orig" selected="1">VsYS----X-APB--</tag>
 </m>
 <m id="m-mf930701-136-p2s4w13">
 <src.rf>manual</src.rf>
@@ -752,7 +752,7 @@
 <LM>w#w-mf930701-136-p2s5w1</LM>
 </w.rf>
 <form>Zprivatizoval</form>
-<tag lemma="zprivatizovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zprivatizovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-136-p2s5w2">
 <src.rf>manual</src.rf>
@@ -832,7 +832,7 @@
 <LM>w#w-mf930701-136-p2s5w11</LM>
 </w.rf>
 <form>ztratilo</form>
-<tag lemma="ztratit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="ztratit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-136-p2s5w12">
 <src.rf>manual</src.rf>

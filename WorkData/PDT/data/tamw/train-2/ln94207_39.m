@@ -436,7 +436,7 @@
 <LM>w#w-ln94207-39-p3s1w17</LM>
 </w.rf>
 <form>vložila</form>
-<tag lemma="vložit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vložit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94207-39-p3s1w18">
 <src.rf>manual</src.rf>
@@ -920,7 +920,7 @@
 <LM>w#w-ln94207-39-p4s1w16</LM>
 </w.rf>
 <form>nechala</form>
-<tag lemma="nechat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="nechat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94207-39-p4s1w17">
 <src.rf>manual</src.rf>
@@ -1066,7 +1066,7 @@
 <LM>w#w-ln94207-39-p4s2w11</LM>
 </w.rf>
 <form>dostala</form>
-<tag lemma="dostat" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="dostat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94207-39-p4s2w12">
 <src.rf>manual</src.rf>

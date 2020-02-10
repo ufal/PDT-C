@@ -39,7 +39,7 @@
 <LM>w#w-lnd94101-065-p1s1w3</LM>
 </w.rf>
 <form>schválil</form>
-<tag lemma="schválit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="schválit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-065-p1s1w4">
 <src.rf>manual</src.rf>
@@ -99,7 +99,7 @@
 <LM>w#w-lnd94101-065-p1s3w3</LM>
 </w.rf>
 <form>schválil</form>
-<tag lemma="schválit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="schválit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-065-p1s3w4">
 <src.rf>manual</src.rf>
@@ -155,7 +155,7 @@
 <LM>w#w-lnd94101-065-p1s3w10</LM>
 </w.rf>
 <form>odvolal</form>
-<tag lemma="odvolat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odvolat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-065-p1s3w11">
 <src.rf>manual</src.rf>
@@ -636,7 +636,7 @@
 <LM>w#w-lnd94101-065-p1s5w23</LM>
 </w.rf>
 <form>zavazovalo</form>
-<tag lemma="zavazovat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zavazovat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-lnd94101-065-p1s5w24">
 <src.rf>manual</src.rf>
@@ -1001,7 +1001,7 @@
 <LM>w#w-lnd94101-065-p1s7w5</LM>
 </w.rf>
 <form>vyčlenil</form>
-<tag lemma="vyčlenit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyčlenit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd94101-065-p1s7w6">
 <src.rf>manual</src.rf>

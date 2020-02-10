@@ -960,8 +960,8 @@
 </w.rf>
 <form>zmizelo</form>
 <tag>
-<AM lemma="zmizet" src="orig">VpNS---XR-AA---</AM>
-<AM lemma="zmizet_:W" src="manual" selected="1">VpNS---XR-AA---</AM>
+<AM lemma="zmizet" src="orig">VpNS----R-AAP--</AM>
+<AM lemma="zmizet" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94200-144-p3s4w23">
@@ -1013,8 +1013,8 @@
 </w.rf>
 <form>zůstal</form>
 <tag>
-<AM lemma="zůstat" src="orig">VpYS---XR-AA---</AM>
-<AM lemma="zůstat_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="zůstat" src="orig">VpYS----R-AAP--</AM>
+<AM lemma="zůstat" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94200-144-p4s1w6">

@@ -127,7 +127,7 @@
 <LM>w#w-ln95046-027-p2s1Bw10</LM>
 </w.rf>
 <form>otrávil</form>
-<tag lemma="otrávit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="otrávit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95046-027-p2s1Bw11">
 <src.rf>manual</src.rf>
@@ -183,7 +183,7 @@
 <LM>w#w-ln95046-027-p2s1Bw17</LM>
 </w.rf>
 <form>působil</form>
-<tag lemma="působit_:T_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="působit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95046-027-p2s1Bw18">
 <src.rf>manual</src.rf>
@@ -273,7 +273,7 @@
 <LM>w#w-ln95046-027-p2s1Cw4</LM>
 </w.rf>
 <form>našel</form>
-<tag lemma="najít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="najít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95046-027-p2s1Cw5">
 <src.rf>manual</src.rf>

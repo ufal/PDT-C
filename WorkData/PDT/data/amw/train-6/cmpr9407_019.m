@@ -708,7 +708,7 @@
 <LM>w#w-cmpr9407-019-p2s2w57</LM>
 </w.rf>
 <form>nuceni</form>
-<tag lemma="nutit_:T" src="orig" selected="1">VsMP---XX-AP---</tag>
+<tag lemma="nutit" src="orig" selected="1">VsMP----X-API--</tag>
 </m>
 <m id="m-cmpr9407-019-p2s2w58">
 <src.rf>manual</src.rf>

@@ -537,7 +537,7 @@
 <LM>w#w-wsj0204-001-p1s1W13</LM>
 </w.rf>
 <form>oznámil</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0204-001-p1s1W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -957,7 +957,7 @@
 <LM>w#w-wsj0204-001-p1s2W5</LM>
 </w.rf>
 <form>měly</form>
-<tag lemma="mít" src="auto" recommended="1">VpTP---XR-AAI--</tag>
+<tag lemma="mít" src="auto" recommended="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-wsj0204-001-p1s2W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1210,7 +1210,7 @@
 <LM>w#w-wsj0204-001-p1s3W4</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci" src="auto" recommended="1">VpMP---XR-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-wsj0204-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1777,7 +1777,7 @@
 <LM>w#w-wsj0204-001-p1s5W24</LM>
 </w.rf>
 <form>uzavřel</form>
-<tag lemma="uzavřít" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="uzavřít" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj0204-001-p1s5W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2339,7 +2339,7 @@
 <LM>w#w-wsj0204-001-p1s7W3</LM>
 </w.rf>
 <form>vyloučeny</form>
-<tag lemma="vyloučit" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="vyloučit" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj0204-001-p1s7W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2648,7 +2648,7 @@
 <LM>w#w-wsj0204-001-p1s8W5</LM>
 </w.rf>
 <form>investováno</form>
-<tag lemma="investovat" src="auto" recommended="1">VsNS---XX-APB--</tag>
+<tag lemma="investovat" src="auto" recommended="1">VsNS----X-APB--</tag>
 </m>
 <m id="m-wsj0204-001-p1s8W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3874,7 +3874,7 @@
 <LM>w#w-wsj0204-001-p1s12W9</LM>
 </w.rf>
 <form>omezeny</form>
-<tag lemma="omezit" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="omezit" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj0204-001-p1s12W10-Ta">
 <src.rf>tagger-a</src.rf>

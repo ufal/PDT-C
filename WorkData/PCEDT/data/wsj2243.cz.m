@@ -132,7 +132,7 @@
 <LM>w#w-wsj2243-001-p1s0W12</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2243-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -267,7 +267,7 @@
 <LM>w#w-wsj2243-001-p1s0W24</LM>
 </w.rf>
 <form>pověřila</form>
-<tag lemma="pověřit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="pověřit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2243-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -494,7 +494,7 @@
 <LM>w#w-wsj2243-001-p1s1W16</LM>
 </w.rf>
 <form>mohli</form>
-<tag lemma="moci" src="auto" recommended="1">VpMP---XR-AAI--</tag>
+<tag lemma="moci" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-wsj2243-001-p1s1W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -709,7 +709,7 @@
 <LM>w#w-wsj2243-001-p1s1W32</LM>
 </w.rf>
 <form>řekl</form>
-<tag lemma="říci" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="říci" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2243-001-p1s1W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -928,7 +928,7 @@
 <LM>w#w-wsj2243-001-p1s3W3</LM>
 </w.rf>
 <form>dosáhl</form>
-<tag lemma="dosáhnout" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="dosáhnout" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2243-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1360,7 +1360,7 @@
 <LM>w#w-wsj2243-001-p1s4W11</LM>
 </w.rf>
 <form>dosáhla</form>
-<tag lemma="dosáhnout" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="dosáhnout" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2243-001-p1s4W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1528,7 +1528,7 @@
 <LM>w#w-wsj2243-001-p1s4W28</LM>
 </w.rf>
 <form>připadalo</form>
-<tag lemma="připadat" src="auto" recommended="1">VpNS---XR-AAI--</tag>
+<tag lemma="připadat" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-wsj2243-001-p1s4W29-Ta">
 <src.rf>tagger-a</src.rf>

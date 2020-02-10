@@ -1475,7 +1475,7 @@
 <LM>w#w-cmpr9416-035-p10s1w15</LM>
 </w.rf>
 <form>převzal</form>
-<tag lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="převzít_^(př._od_někoho_věc,_zodpovědnost...)" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9416-035-p10s1w16">
 <src.rf>manual</src.rf>
@@ -2172,7 +2172,7 @@
 <LM>w#w-cmpr9416-035-p12s2w38</LM>
 </w.rf>
 <form>byly</form>
-<tag lemma="být" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-cmpr9416-035-p12s2w39">
 <src.rf>manual</src.rf>
@@ -2196,7 +2196,7 @@
 <LM>w#w-cmpr9416-035-p12s2w41</LM>
 </w.rf>
 <form>svěřeny</form>
-<tag lemma="svěřit_:W" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="svěřit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-cmpr9416-035-p12s2w42">
 <src.rf>manual</src.rf>
@@ -2246,7 +2246,7 @@
 <LM>w#w-cmpr9416-035-p12s3w5</LM>
 </w.rf>
 <form>uzavřena</form>
-<tag lemma="uzavřít" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="uzavřít" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-cmpr9416-035-p12s3w6">
 <src.rf>manual</src.rf>
@@ -2352,7 +2352,7 @@
 <LM>w#w-cmpr9416-035-p12s4w6</LM>
 </w.rf>
 <form>uzavřena</form>
-<tag lemma="uzavřít" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="uzavřít" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-cmpr9416-035-p12s4w7">
 <src.rf>manual</src.rf>
@@ -2583,7 +2583,7 @@
 <LM>w#w-cmpr9416-035-p14s1w16</LM>
 </w.rf>
 <form>převáděn</form>
-<tag lemma="převádět_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="převádět" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-cmpr9416-035-p14s1w17">
 <src.rf>manual</src.rf>
@@ -2623,7 +2623,7 @@
 <LM>w#w-cmpr9416-035-p14s1w21</LM>
 </w.rf>
 <form>zařazován</form>
-<tag lemma="zařazovat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zařazovat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-cmpr9416-035-p14s1w22">
 <src.rf>manual</src.rf>
@@ -2663,7 +2663,7 @@
 <LM>w#w-cmpr9416-035-p14s1w26</LM>
 </w.rf>
 <form>překládán</form>
-<tag lemma="překládat-1_:T_^(přemístit)" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="překládat-1_^(přemístit)" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-cmpr9416-035-p14s1w27">
 <src.rf>manual</src.rf>
@@ -3153,7 +3153,7 @@
 <LM>w#w-cmpr9416-035-p15s1w31</LM>
 </w.rf>
 <form>zařazován</form>
-<tag lemma="zařazovat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="zařazovat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-cmpr9416-035-p15s1w32">
 <src.rf>manual</src.rf>
@@ -3193,7 +3193,7 @@
 <LM>w#w-cmpr9416-035-p15s1w36</LM>
 </w.rf>
 <form>ustanovován</form>
-<tag lemma="ustanovovat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="ustanovovat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-cmpr9416-035-p15s1w37">
 <src.rf>manual</src.rf>
@@ -3588,7 +3588,7 @@
 <LM>w#w-cmpr9416-035-p17s1w20</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-cmpr9416-035-p17s1w21">
 <src.rf>manual</src.rf>
@@ -3604,7 +3604,7 @@
 <LM>w#w-cmpr9416-035-p17s1w22</LM>
 </w.rf>
 <form>podepsána</form>
-<tag lemma="podepsat" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="podepsat" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-cmpr9416-035-p17s1w23">
 <src.rf>manual</src.rf>
@@ -3854,7 +3854,7 @@
 <LM>w#w-cmpr9416-035-p17s2w25</LM>
 </w.rf>
 <form>připojeno</form>
-<tag lemma="připojit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="připojit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-cmpr9416-035-p17s2w26">
 <src.rf>manual</src.rf>
@@ -4147,7 +4147,7 @@
 <LM>w#w-cmpr9416-035-p19s1w6</LM>
 </w.rf>
 <form>uzavřena</form>
-<tag lemma="uzavřít" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="uzavřít" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-cmpr9416-035-p19s1w7">
 <src.rf>manual</src.rf>
@@ -4721,7 +4721,7 @@
 <LM>w#w-cmpr9416-035-p21s1w1</LM>
 </w.rf>
 <form>Připravila</form>
-<tag lemma="připravit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="připravit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-cmpr9416-035-p21s1w2">
 <src.rf>manual</src.rf>

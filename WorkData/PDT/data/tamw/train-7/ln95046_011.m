@@ -91,7 +91,7 @@
 <LM>w#w-ln95046-011-p1s1w10</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln95046-011-p1s1w11">
 <src.rf>manual</src.rf>
@@ -219,7 +219,7 @@
 <LM>w#w-ln95046-011-p1s1w26</LM>
 </w.rf>
 <form>konalo</form>
-<tag lemma="konat_:T" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="konat" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-ln95046-011-p1s1w27">
 <src.rf>manual</src.rf>
@@ -299,7 +299,7 @@
 <LM>w#w-ln95046-011-p1s2w2</LM>
 </w.rf>
 <form>vyhledávali</form>
-<tag lemma="vyhledávat_:T_^(*4at)" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyhledávat_^(*4at)" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95046-011-p1s2w3">
 <src.rf>manual</src.rf>
@@ -315,7 +315,7 @@
 <LM>w#w-ln95046-011-p1s2w4</LM>
 </w.rf>
 <form>vyprošťovali</form>
-<tag lemma="vyprošťovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="vyprošťovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95046-011-p1s2w5">
 <src.rf>manual</src.rf>
@@ -347,7 +347,7 @@
 <LM>w#w-ln95046-011-p1s2w8</LM>
 </w.rf>
 <form>hasili</form>
-<tag lemma="hasit_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="hasit" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95046-011-p1s2w9">
 <src.rf>manual</src.rf>
@@ -371,7 +371,7 @@
 <LM>w#w-ln95046-011-p1s2w11</LM>
 </w.rf>
 <form>zajišťovali</form>
-<tag lemma="zajišťovat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zajišťovat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-ln95046-011-p1s2w12">
 <src.rf>manual</src.rf>

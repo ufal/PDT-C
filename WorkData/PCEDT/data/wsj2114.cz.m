@@ -78,7 +78,7 @@
 <LM>w#w-wsj2114-001-p1s0W4</LM>
 </w.rf>
 <form>oznámily</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj2114-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -296,7 +296,7 @@
 <LM>w#w-wsj2114-001-p1s1W3</LM>
 </w.rf>
 <form>sledovány</form>
-<tag lemma="sledovat" src="auto" recommended="1">VsTP---XX-API--</tag>
+<tag lemma="sledovat" src="auto" recommended="1">VsTP----X-API--</tag>
 </m>
 <m id="m-wsj2114-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -412,7 +412,7 @@
 <LM>w#w-wsj2114-001-p1s1W13</LM>
 </w.rf>
 <form>dosáhly</form>
-<tag lemma="dosáhnout" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="dosáhnout" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj2114-001-p1s1W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -606,7 +606,7 @@
 <LM>w#w-wsj2114-001-p1s2W8</LM>
 </w.rf>
 <form>opominuty</form>
-<tag lemma="opominout" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="opominout" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj2114-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -829,7 +829,7 @@
 <LM>w#w-wsj2114-001-p1s3W13</LM>
 </w.rf>
 <form>učinili</form>
-<tag lemma="učinit" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="učinit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj2114-001-p1s3W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -993,7 +993,7 @@
 <LM>w#w-wsj2114-001-p1s4W5</LM>
 </w.rf>
 <form>srovnáván</form>
-<tag lemma="srovnávat_^(*4at)" src="auto" recommended="1">VsYS---XX-API--</tag>
+<tag lemma="srovnávat_^(*4at)" src="auto" recommended="1">VsYS----X-API--</tag>
 </m>
 <m id="m-wsj2114-001-p1s4W6-Ta">
 <src.rf>tagger-a</src.rf>

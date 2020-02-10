@@ -186,7 +186,7 @@
 <LM>w#w-mf930703-092-p2s2w8</LM>
 </w.rf>
 <form>klopýtly</form>
-<tag lemma="klopýtnout_:W" src="orig" selected="1">VpTP---XR-AA--1</tag>
+<tag lemma="klopýtnout" src="orig" selected="1">VpTP----R-AAP-1</tag>
 </m>
 <m id="m-mf930703-092-p2s2w9">
 <src.rf>manual</src.rf>

@@ -171,7 +171,7 @@
 <LM>w#w-wsj2097-001-p1s0W11</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2097-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -607,7 +607,7 @@
 <LM>w#w-wsj2097-001-p1s1W7</LM>
 </w.rf>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2097-001-p1s1W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -690,7 +690,7 @@
 <tag>
 <AM lemma="odhad" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="odhad" src="auto">NNIS4-----A----</AM>
-<AM lemma="odhadnout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="odhadnout" src="auto">VpYS----R-AAP-6</AM>
 </tag>
 </m>
 <m id="m-wsj2097-001-p1s1W13-Ta">
@@ -1172,7 +1172,7 @@
 <LM>w#w-wsj2097-001-p1s2W14</LM>
 </w.rf>
 <form>dosáhl</form>
-<tag lemma="dosáhnout" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="dosáhnout" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj2097-001-p1s2W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1612,7 +1612,7 @@
 <LM>w#w-wsj2097-001-p1s3W15</LM>
 </w.rf>
 <form>posíleny</form>
-<tag lemma="posílit" src="auto" recommended="1">VsTP---XX-APP--</tag>
+<tag lemma="posílit" src="auto" recommended="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-wsj2097-001-p1s3W16-Ta">
 <src.rf>tagger-a</src.rf>

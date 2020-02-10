@@ -127,7 +127,7 @@
 <LM>w#w-ln94206-57-p2s1Cw3</LM>
 </w.rf>
 <form>požádalo</form>
-<tag lemma="požádat_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="požádat" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-ln94206-57-p2s1Cw4">
 <src.rf>manual</src.rf>
@@ -175,7 +175,7 @@
 <LM>w#w-ln94206-57-p2s1Cw10</LM>
 </w.rf>
 <form>posoudila</form>
-<tag lemma="posoudit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="posoudit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94206-57-p2s1Cw11">
 <src.rf>manual</src.rf>
@@ -365,8 +365,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpYS---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94206-57-p2s2w8">
@@ -476,7 +476,7 @@
 <LM>w#w-ln94206-57-p3s1w8</LM>
 </w.rf>
 <form>řekla</form>
-<tag lemma="říci" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94206-57-p3s1w9">
 <src.rf>manual</src.rf>
@@ -686,7 +686,7 @@
 <LM>w#w-ln94206-57-p3s2w1</LM>
 </w.rf>
 <form>Řekla</form>
-<tag lemma="říci" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="říci" src="auto" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94206-57-p3s2w2">
 <src.rf>manual</src.rf>
@@ -972,7 +972,7 @@
 <LM>w#w-ln94206-57-p4s1w24</LM>
 </w.rf>
 <form>byla</form>
-<tag lemma="být" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="být" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-ln94206-57-p4s1w25">
 <src.rf>manual</src.rf>
@@ -997,8 +997,8 @@
 </w.rf>
 <form>řekla</form>
 <tag>
-<AM lemma="říci" src="auto">VpQW---XR-AA---</AM>
-<AM lemma="říci_:W" src="manual" selected="1">VpQW---XR-AA---</AM>
+<AM lemma="říci" src="auto">VpQW----R-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m-ln94206-57-p4s1w28">
@@ -1023,7 +1023,7 @@
 <LM>w#w-ln94206-57-p4s1w30</LM>
 </w.rf>
 <form>rozpoutána</form>
-<tag lemma="rozpoutat_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="rozpoutat" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-ln94206-57-p4s1w31">
 <src.rf>manual</src.rf>

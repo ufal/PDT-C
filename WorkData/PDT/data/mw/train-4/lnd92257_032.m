@@ -222,7 +222,7 @@
 <LM>w#w-lnd92257-032-p3s2w15</LM>
 </w.rf>
 <form>vyjádřila</form>
-<tag lemma="vyjádřit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="vyjádřit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd92257-032-p3s2w16">
 <src.rf>manual</src.rf>

@@ -32,7 +32,7 @@
 <LM>w#w-wsj2427-001-p1s0W2</LM>
 </w.rf>
 <form>vyplynulo</form>
-<tag lemma="vyplynout" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="vyplynout" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj2427-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -235,7 +235,7 @@
 <LM>w#w-wsj2427-001-p1s0W16</LM>
 </w.rf>
 <form>ukončili</form>
-<tag lemma="ukončit" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="ukončit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj2427-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -830,7 +830,7 @@
 <LM>w#w-wsj2427-001-p1s2W3</LM>
 </w.rf>
 <form>začali</form>
-<tag lemma="začít-1_^(začnout)" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj2427-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1106,7 +1106,7 @@
 <LM>w#w-wsj2427-001-p1s3W3</LM>
 </w.rf>
 <form>byl</form>
-<tag lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj2427-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1114,7 +1114,7 @@
 <LM>w#w-wsj2427-001-p1s3W4</LM>
 </w.rf>
 <form>založen</form>
-<tag lemma="založit" src="auto" recommended="1">VsYS---XX-APP--</tag>
+<tag lemma="založit" src="auto" recommended="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-wsj2427-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1764,7 +1764,7 @@
 <LM>w#w-wsj2427-001-p1s5W9</LM>
 </w.rf>
 <form>placeni</form>
-<tag lemma="platit" src="auto" recommended="1">VsMP---XX-API--</tag>
+<tag lemma="platit" src="auto" recommended="1">VsMP----X-API--</tag>
 </m>
 <m id="m-wsj2427-001-p1s5W10-Ta">
 <src.rf>tagger-a</src.rf>

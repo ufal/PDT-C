@@ -767,7 +767,7 @@
 <LM>w#w-ln94203-92-p2s2w42</LM>
 </w.rf>
 <form>vyprodáno</form>
-<tag lemma="vyprodat_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="vyprodat" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94203-92-p2s2w43">
 <src.rf>manual</src.rf>

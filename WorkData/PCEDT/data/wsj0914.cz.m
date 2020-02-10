@@ -55,7 +55,7 @@
 <LM>w#w-wsj0914-001-p1s0W5</LM>
 </w.rf>
 <form>sdělila</form>
-<tag lemma="sdělit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="sdělit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0914-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -120,7 +120,7 @@
 <LM>w#w-wsj0914-001-p1s0W10</LM>
 </w.rf>
 <form>schválilo</form>
-<tag lemma="schválit" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="schválit" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj0914-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -422,7 +422,7 @@
 <LM>w#w-wsj0914-001-p1s1W14</LM>
 </w.rf>
 <form>oznámila</form>
-<tag lemma="oznámit" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="oznámit" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj0914-001-p1s1W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -515,7 +515,7 @@
 <LM>w#w-wsj0914-001-p1s1W22</LM>
 </w.rf>
 <form>odsouhlasili</form>
-<tag lemma="odsouhlasit" src="auto" recommended="1">VpMP---XR-AAP--</tag>
+<tag lemma="odsouhlasit" src="auto" recommended="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-wsj0914-001-p1s1W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -584,7 +584,7 @@
 <LM>w#w-wsj0914-001-p1s1W29</LM>
 </w.rf>
 <form>zlepšilo</form>
-<tag lemma="zlepšit" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag lemma="zlepšit" src="auto" recommended="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-wsj0914-001-p1s1W30-Ta">
 <src.rf>tagger-a</src.rf>

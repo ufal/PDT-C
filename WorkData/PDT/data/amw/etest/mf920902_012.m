@@ -140,7 +140,7 @@
 <form_change>spell</form_change>
 <form>zdražily</form>
 <tag>
-<AM lemma="zdražit_:W" src="auto" recommended="1">VpTP---XR-AA---</AM>
+<AM lemma="zdražit" src="auto" recommended="1">VpTP----R-AAP--</AM>
 <AM lemma="zdražit" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>
@@ -265,7 +265,7 @@
 <LM>w#w-mf920902-012-p1s2w6</LM>
 </w.rf>
 <form>prováděli</form>
-<tag lemma="provádět_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="provádět" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-mf920902-012-p1s2w7">
 <src.rf>manual</src.rf>
@@ -526,7 +526,7 @@
 <LM>w#w-mf920902-012-p1s3w18</LM>
 </w.rf>
 <form>odmítl</form>
-<tag lemma="odmítnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="odmítnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-mf920902-012-p1s3w19">
 <src.rf>manual</src.rf>

@@ -147,7 +147,7 @@
 <form>vit</form>
 <tag>
 <AM lemma="vit-99_:B_;S" src="orig">NNXXX-----A---8</AM>
-<AM lemma="vít" src="auto" recommended="1">VsYS---XX-AP---</AM>
+<AM lemma="vít" src="auto" recommended="1">VsYS----X-API--</AM>
 <AM lemma="vit-99_:B_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
@@ -418,7 +418,7 @@
 <LM>w#w-mf930709-097-p2s3w3</LM>
 </w.rf>
 <form>probíhala</form>
-<tag lemma="probíhat_:T" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="probíhat" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930709-097-p2s3w4">
 <src.rf>manual</src.rf>
@@ -490,7 +490,7 @@
 <LM>w#w-mf930709-097-p2s3w12</LM>
 </w.rf>
 <form>přihlásilo</form>
-<tag lemma="přihlásit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="přihlásit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-mf930709-097-p2s3w13">
 <src.rf>manual</src.rf>
@@ -650,7 +650,7 @@
 <LM>w#w-mf930709-097-p2s4w15</LM>
 </w.rf>
 <form>zůstávalo</form>
-<tag lemma="zůstávat_:T_^(*4at)" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="zůstávat_^(*4at)" src="orig" selected="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-mf930709-097-p2s4w16">
 <src.rf>manual</src.rf>
@@ -658,7 +658,7 @@
 <LM>w#w-mf930709-097-p2s4w16</LM>
 </w.rf>
 <form>neobsazeno</form>
-<tag lemma="obsadit_:W" src="orig" selected="1">VsNS---XX-NP---</tag>
+<tag lemma="obsadit" src="orig" selected="1">VsNS----X-NPP--</tag>
 </m>
 <m id="m-mf930709-097-p2s4w17">
 <src.rf>manual</src.rf>

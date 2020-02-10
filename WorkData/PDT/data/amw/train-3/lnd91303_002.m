@@ -226,7 +226,7 @@
 <LM>w#w-lnd91303-002-p3s1w12</LM>
 </w.rf>
 <form>pochyboval</form>
-<tag lemma="pochybovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="pochybovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-002-p3s1w13">
 <src.rf>manual</src.rf>
@@ -396,7 +396,7 @@
 <LM>w#w-lnd91303-002-p3s2w15</LM>
 </w.rf>
 <form>propadli</form>
-<tag lemma="propadnout_:W" src="orig" selected="1">VpMP---XR-AA--1</tag>
+<tag lemma="propadnout" src="orig" selected="1">VpMP----R-AAP-1</tag>
 </m>
 <m id="m-lnd91303-002-p3s2w16">
 <src.rf>manual</src.rf>
@@ -487,7 +487,7 @@
 <LM>w#w-lnd91303-002-p3s2w26</LM>
 </w.rf>
 <form>říkal</form>
-<tag lemma="říkat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="říkat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-lnd91303-002-p3s2w27">
 <src.rf>manual</src.rf>
@@ -721,7 +721,7 @@
 <LM>w#w-lnd91303-002-p3s3w27</LM>
 </w.rf>
 <form>narazilo</form>
-<tag lemma="narazit_:W" src="orig" selected="1">VpNS---XR-AA---</tag>
+<tag lemma="narazit" src="orig" selected="1">VpNS----R-AAP--</tag>
 </m>
 <m id="m-lnd91303-002-p3s3w28">
 <src.rf>manual</src.rf>

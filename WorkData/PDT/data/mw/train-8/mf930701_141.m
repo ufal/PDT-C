@@ -124,7 +124,7 @@
 <LM>w#w-mf930701-141-p2s1w11</LM>
 </w.rf>
 <form>přinutil</form>
-<tag lemma="přinutit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přinutit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-141-p2s1w12">
 <src.rf>manual</src.rf>
@@ -290,7 +290,7 @@
 <LM>w#w-mf930701-141-p2s2w1</LM>
 </w.rf>
 <form>Nezměněna</form>
-<tag lemma="změnit_:W" src="orig" selected="1">VsQW---XX-NP---</tag>
+<tag lemma="změnit" src="orig" selected="1">VsQW----X-NPP--</tag>
 </m>
 <m id="m-mf930701-141-p2s2w2">
 <src.rf>manual</src.rf>

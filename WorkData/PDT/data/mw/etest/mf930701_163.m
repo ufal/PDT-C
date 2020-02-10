@@ -255,7 +255,7 @@
 <LM>w#w-mf930701-163-p2s2w11</LM>
 </w.rf>
 <form>rozprostíral</form>
-<tag lemma="rozprostírat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="rozprostírat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf930701-163-p2s2w12">
 <src.rf>manual</src.rf>
@@ -476,7 +476,7 @@
 <LM>w#w-mf930701-163-p2s3w13</LM>
 </w.rf>
 <form>rozdělili</form>
-<tag lemma="rozdělit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="rozdělit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930701-163-p2s3w14">
 <src.rf>manual</src.rf>
@@ -707,7 +707,7 @@
 <LM>w#w-mf930701-163-p3s2w6</LM>
 </w.rf>
 <form>rozdělován</form>
-<tag lemma="rozdělovat_:T" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="rozdělovat" src="orig" selected="1">VsYS----X-API--</tag>
 </m>
 <m id="m-mf930701-163-p3s2w7">
 <src.rf>manual</src.rf>
@@ -889,7 +889,7 @@
 <LM>w#w-mf930701-163-p3s5w4</LM>
 </w.rf>
 <form>musela</form>
-<tag lemma="muset" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="muset" src="orig" selected="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-mf930701-163-p3s5w5">
 <src.rf>manual</src.rf>
@@ -956,7 +956,7 @@
 <LM>w#w-mf930701-163-p3s5w13</LM>
 </w.rf>
 <form>zajistily</form>
-<tag lemma="zajistit_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="zajistit" src="orig" selected="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-mf930701-163-p3s5w14">
 <src.rf>manual</src.rf>
@@ -1221,7 +1221,7 @@
 <LM>w#w-mf930701-163-p4s3w7</LM>
 </w.rf>
 <form>provedli</form>
-<tag lemma="provést" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="provést" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930701-163-p4s3w8">
 <src.rf>manual</src.rf>
@@ -1692,7 +1692,7 @@
 <LM>w#w-mf930701-163-p5s2w18</LM>
 </w.rf>
 <form>dorazili</form>
-<tag lemma="dorazit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="dorazit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-mf930701-163-p5s2w19">
 <src.rf>manual</src.rf>
@@ -1782,7 +1782,7 @@
 <LM>w#w-mf930701-163-p6s1w7</LM>
 </w.rf>
 <form>udělala</form>
-<tag lemma="udělat_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="udělat" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-mf930701-163-p6s1w8">
 <src.rf>manual</src.rf>
@@ -1827,7 +1827,7 @@
 <LM>w#w-mf930701-163-p6s2w4</LM>
 </w.rf>
 <form>proklel</form>
-<tag lemma="proklít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="proklít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930701-163-p6s2w5">
 <src.rf>manual</src.rf>

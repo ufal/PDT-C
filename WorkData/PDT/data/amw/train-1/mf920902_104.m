@@ -369,7 +369,7 @@
 <LM>w#w-mf920902-104-p1s3w9</LM>
 </w.rf>
 <form>zpřístupněna</form>
-<tag lemma="zpřístupnit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="zpřístupnit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 <m id="m-mf920902-104-p1s3w10">
 <src.rf>manual</src.rf>

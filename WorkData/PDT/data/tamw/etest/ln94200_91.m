@@ -114,7 +114,7 @@
 <LM>w#w-ln94200-91-p2s1Bw4</LM>
 </w.rf>
 <form>spáchal</form>
-<tag lemma="spáchat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="spáchat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-91-p2s1Bw5">
 <src.rf>manual</src.rf>
@@ -255,7 +255,7 @@
 <LM>w#w-ln94200-91-p2s2w6</LM>
 </w.rf>
 <form>nastartoval</form>
-<tag lemma="nastartovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="nastartovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-91-p2s2w7">
 <src.rf>manual</src.rf>
@@ -327,7 +327,7 @@
 <LM>w#w-ln94200-91-p2s2w15</LM>
 </w.rf>
 <form>otevřel</form>
-<tag lemma="otevřít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="otevřít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-91-p2s2w16">
 <src.rf>manual</src.rf>
@@ -367,7 +367,7 @@
 <LM>w#w-ln94200-91-p2s2w20</LM>
 </w.rf>
 <form>lehl</form>
-<tag lemma="lehnout_:W" src="orig" selected="1">VpYS---XR-AA--1</tag>
+<tag lemma="lehnout" src="orig" selected="1">VpYS----R-AAP-1</tag>
 </m>
 <m id="m-ln94200-91-p2s2w21">
 <src.rf>manual</src.rf>
@@ -473,7 +473,7 @@
 <LM>w#w-ln94200-91-p2s3w6</LM>
 </w.rf>
 <form>vyloučil</form>
-<tag lemma="vyloučit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyloučit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-91-p2s3w7">
 <src.rf>manual</src.rf>

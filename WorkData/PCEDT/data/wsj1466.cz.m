@@ -210,7 +210,7 @@
 <LM>w#w-wsj1466-001-p1s0W15</LM>
 </w.rf>
 <form>uzavřely</form>
-<tag lemma="uzavřít" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="uzavřít" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1466-001-p1s0W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -246,7 +246,7 @@
 <LM>w#w-wsj1466-001-p1s0W19</LM>
 </w.rf>
 <form>vzešla</form>
-<tag lemma="vzejít" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="vzejít" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj1466-001-p1s0W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -443,7 +443,7 @@
 <AM lemma="book" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="book_^(anglicky_kniha)" src="auto">NNIS1-----A----</AM>
 <AM lemma="book_^(anglicky_kniha)" src="auto">NNIS4-----A----</AM>
-<AM lemma="booknout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="booknout" src="auto">VpYS----R-AAP-6</AM>
 <AM lemma="Book-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -603,7 +603,7 @@
 <AM lemma="book" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="book_^(anglicky_kniha)" src="auto">NNIS1-----A----</AM>
 <AM lemma="book_^(anglicky_kniha)" src="auto">NNIS4-----A----</AM>
-<AM lemma="booknout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="booknout" src="auto">VpYS----R-AAP-6</AM>
 <AM lemma="Book-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -761,7 +761,7 @@
 <LM>w#w-wsj1466-001-p1s1W24</LM>
 </w.rf>
 <form>podávala</form>
-<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="podávat_^(něco_[někomu]_[někam])_(*4at)" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj1466-001-p1s1W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -893,7 +893,7 @@
 <LM>w#w-wsj1466-001-p1s2W3</LM>
 </w.rf>
 <form>přiznal</form>
-<tag lemma="přiznat" src="auto" recommended="1">VpYS---XR-AAP--</tag>
+<tag lemma="přiznat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-wsj1466-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -951,7 +951,7 @@
 <LM>w#w-wsj1466-001-p1s2W7</LM>
 </w.rf>
 <form>souhlasil</form>
-<tag lemma="souhlasit" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="souhlasit" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1466-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1339,7 +1339,7 @@
 <LM>w#w-wsj1466-001-p1s3W13</LM>
 </w.rf>
 <form>distribuováno</form>
-<tag lemma="distribuovat" src="auto" recommended="1">VsNS---XX-API--</tag>
+<tag lemma="distribuovat" src="auto" recommended="1">VsNS----X-API--</tag>
 </m>
 <m id="m-wsj1466-001-p1s3W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1595,7 +1595,7 @@
 <LM>w#w-wsj1466-001-p1s4W4</LM>
 </w.rf>
 <form>podnítily</form>
-<tag lemma="podnítit" src="auto" recommended="1">VpTP---XR-AAP--</tag>
+<tag lemma="podnítit" src="auto" recommended="1">VpTP----R-AAP--</tag>
 </m>
 <m id="m-wsj1466-001-p1s4W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1733,7 +1733,7 @@
 <LM>w#w-wsj1466-001-p1s4W15</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="auto" recommended="1">VpMP---XR-AAI--</tag>
+<tag lemma="být" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-wsj1466-001-p1s4W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1801,7 +1801,7 @@
 <LM>w#w-wsj1466-001-p1s4W21</LM>
 </w.rf>
 <form>financoval</form>
-<tag lemma="financovat" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag lemma="financovat" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-wsj1466-001-p1s4W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1876,7 +1876,7 @@
 <LM>w#w-wsj1466-001-p1s4W28</LM>
 </w.rf>
 <form>zajišťovala</form>
-<tag lemma="zajišťovat" src="auto" recommended="1">VpQW---XR-AAI--</tag>
+<tag lemma="zajišťovat" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m-wsj1466-001-p1s4W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1910,7 +1910,7 @@
 <AM lemma="book" src="auto" recommended="1">NNIXX-----A----</AM>
 <AM lemma="book_^(anglicky_kniha)" src="auto">NNIS1-----A----</AM>
 <AM lemma="book_^(anglicky_kniha)" src="auto">NNIS4-----A----</AM>
-<AM lemma="booknout" src="auto">VpYS---XR-AAP-6</AM>
+<AM lemma="booknout" src="auto">VpYS----R-AAP-6</AM>
 <AM lemma="Book-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
@@ -1928,7 +1928,7 @@
 <LM>w#w-wsj1466-001-p1s4W33</LM>
 </w.rf>
 <form>podvedeni</form>
-<tag lemma="podvést" src="auto" recommended="1">VsMP---XX-APP--</tag>
+<tag lemma="podvést" src="auto" recommended="1">VsMP----X-APP--</tag>
 </m>
 <m id="m-wsj1466-001-p1s4W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1967,7 +1967,7 @@
 <LM>w#w-wsj1466-001-p1s5W2</LM>
 </w.rf>
 <form>vedlo</form>
-<tag lemma="vést" src="auto" recommended="1">VpNS---XR-AAI--</tag>
+<tag lemma="vést" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
 <m id="m-wsj1466-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>

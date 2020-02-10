@@ -376,7 +376,7 @@
 <LM>w#w-mf920902-157-p4s3w10</LM>
 </w.rf>
 <form>označil</form>
-<tag lemma="označit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="označit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920902-157-p4s3w11">
 <src.rf>manual</src.rf>
@@ -456,7 +456,7 @@
 <LM>w#w-mf920902-157-p4s3w20</LM>
 </w.rf>
 <form>neodvážilo</form>
-<tag lemma="odvážit-2_:W_^([se];_mít_odvahu)" src="orig" selected="1">VpNS---XR-NA---</tag>
+<tag lemma="odvážit-2_^([se];_mít_odvahu)" src="orig" selected="1">VpNS----R-NAP--</tag>
 </m>
 <m id="m-mf920902-157-p4s3w21">
 <src.rf>manual</src.rf>

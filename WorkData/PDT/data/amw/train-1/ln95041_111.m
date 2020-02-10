@@ -169,7 +169,7 @@
 <LM>w#w-ln95041-111-p2s2w4</LM>
 </w.rf>
 <form>schválila</form>
-<tag lemma="schválit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="schválit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln95041-111-p2s2w5">
 <src.rf>manual</src.rf>
@@ -323,7 +323,7 @@
 <LM>w#w-ln95041-111-p2s3w4</LM>
 </w.rf>
 <form>zablokoval</form>
-<tag lemma="zablokovat_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="zablokovat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln95041-111-p2s3w5">
 <src.rf>manual</src.rf>
@@ -398,7 +398,7 @@
 <LM>w#w-ln95041-111-p2s3w13</LM>
 </w.rf>
 <form>tvrdil</form>
-<tag lemma="tvrdit_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="tvrdit" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-ln95041-111-p2s3w14">
 <src.rf>manual</src.rf>

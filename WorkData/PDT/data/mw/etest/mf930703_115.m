@@ -53,7 +53,7 @@
 <LM>w#w-mf930703-115-p2s1w3</LM>
 </w.rf>
 <form>postoupil</form>
-<tag lemma="postoupit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="postoupit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf930703-115-p2s1w4">
 <src.rf>manual</src.rf>

@@ -274,7 +274,7 @@
 <LM>w#w-ln94207-108-p2s2w4</LM>
 </w.rf>
 <form>pořádány</form>
-<tag lemma="pořádat_:T" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="pořádat" src="orig" selected="1">VsTP----X-API--</tag>
 </m>
 <m id="m-ln94207-108-p2s2w5">
 <src.rf>manual</src.rf>

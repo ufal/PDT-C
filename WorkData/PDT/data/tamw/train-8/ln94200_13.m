@@ -125,7 +125,7 @@
 <LM>w#w-ln94200-13-p2s1w12</LM>
 </w.rf>
 <form>objevil</form>
-<tag lemma="objevit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="objevit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-13-p2s1w13">
 <src.rf>manual</src.rf>

@@ -882,7 +882,7 @@
 <LM>w#w-cmpr9406-046-p5s1w5</LM>
 </w.rf>
 <form>přišel</form>
-<tag lemma="přijít" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="přijít" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-cmpr9406-046-p5s1w6">
 <src.rf>manual</src.rf>

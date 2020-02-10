@@ -180,7 +180,7 @@
 <LM>w#w-mf920923-138-p2s2w4</LM>
 </w.rf>
 <form>překročil</form>
-<tag lemma="překročit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="překročit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-mf920923-138-p2s2w5">
 <src.rf>manual</src.rf>
@@ -220,7 +220,7 @@
 <LM>w#w-mf920923-138-p2s2w9</LM>
 </w.rf>
 <form>spolupracoval</form>
-<tag lemma="spolupracovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="spolupracovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920923-138-p2s2w10">
 <src.rf>manual</src.rf>
@@ -424,7 +424,7 @@
 <LM>w#w-mf920923-138-p2s3w7</LM>
 </w.rf>
 <form>vyžadoval</form>
-<tag lemma="vyžadovat_:T" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="vyžadovat" src="orig" selected="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m-mf920923-138-p2s3w8">
 <src.rf>manual</src.rf>
@@ -480,7 +480,7 @@
 <LM>w#w-mf920923-138-p2s3w15</LM>
 </w.rf>
 <form>obnažovaly</form>
-<tag lemma="obnažovat_:T" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="obnažovat" src="orig" selected="1">VpTP----R-AAI--</tag>
 </m>
 <m id="m-mf920923-138-p2s3w16">
 <src.rf>manual</src.rf>

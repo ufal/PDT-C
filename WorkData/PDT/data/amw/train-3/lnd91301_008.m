@@ -119,7 +119,7 @@
 <LM>w#w-lnd91301-008-p3s1w10</LM>
 </w.rf>
 <form>schválila</form>
-<tag lemma="schválit_:W" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="schválit" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-lnd91301-008-p3s1w11">
 <src.rf>manual</src.rf>

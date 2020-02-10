@@ -30,7 +30,7 @@
 <LM>w#w-d1t1427-20</LM>
 </w.rf>
 <form>ostříhala</form>
-<tag lemma="ostříhat_:W" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="ostříhat" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m056-d1t1427-21">
 <w.rf>
@@ -50,7 +50,7 @@
 <LM>w#w-d1t1427-24</LM>
 </w.rf>
 <form>prodávala</form>
-<tag lemma="prodávat_:T_^(*4at)" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="prodávat_^(*4at)" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m056-296-297">
 <w.rf>
@@ -150,7 +150,7 @@
 <LM>w#w-d1t1431-6</LM>
 </w.rf>
 <form>jel</form>
-<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="jet-1_^(pohybovat_se,_ne_však_chůzí)" src="auto" recommended="1">VpYS----R-AAI--</tag>
 </m>
 <m id="m056-d1t1431-4">
 <w.rf>
@@ -260,7 +260,7 @@
 <LM>w#w-d1t1431-23</LM>
 </w.rf>
 <form>udělal</form>
-<tag lemma="udělat_:W" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="udělat" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m056-d1t1431-24">
 <w.rf>
@@ -304,7 +304,7 @@
 <LM>w#w-d1t1431-28</LM>
 </w.rf>
 <form>zničil</form>
-<tag lemma="zničit_:W" src="auto" recommended="1">VpYS---XR-AA---</tag>
+<tag lemma="zničit" src="auto" recommended="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m056-d1t1431-32">
 <w.rf>
@@ -1121,7 +1121,7 @@
 <tag>
 <AM lemma="Dal_;Y" src="auto">NNMS2-----A----</AM>
 <AM lemma="Dal_;Y" src="auto">NNMS4-----A----</AM>
-<AM lemma="dát" src="auto" recommended="1">VpQW---XR-AA---</AM>
+<AM lemma="dát" src="auto" recommended="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
 <m id="m056-d1t1498-2">
@@ -2642,7 +2642,7 @@
 <LM>w#w-d1t1653-9</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="auto" recommended="1">VpMP---XR-AA---</tag>
+<tag lemma="být" src="auto" recommended="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m056-d1t1653-10">
 <w.rf>
@@ -3208,7 +3208,7 @@
 <LM>w#w-d1t1686-4</LM>
 </w.rf>
 <form>musela</form>
-<tag lemma="muset" src="auto" recommended="1">VpQW---XR-AA---</tag>
+<tag lemma="muset" src="auto" recommended="1">VpQW----R-AAI--</tag>
 </m>
 <m id="m056-d1t1686-5">
 <w.rf>

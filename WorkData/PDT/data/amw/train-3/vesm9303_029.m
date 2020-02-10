@@ -222,7 +222,7 @@
 <LM>w#w-vesm9303-029-p2s1w17</LM>
 </w.rf>
 <form>označili</form>
-<tag lemma="označit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="označit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-vesm9303-029-p2s1w18">
 <src.rf>manual</src.rf>
@@ -351,7 +351,7 @@
 <LM>w#w-vesm9303-029-p2s2w3</LM>
 </w.rf>
 <form>uznávali</form>
-<tag lemma="uznávat_:T_^(*4at)" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="uznávat_^(*4at)" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-vesm9303-029-p2s2w4">
 <src.rf>manual</src.rf>
@@ -434,7 +434,7 @@
 <LM>w#w-vesm9303-029-p2s2w13</LM>
 </w.rf>
 <form>nejevili</form>
-<tag lemma="jevit_:T" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="jevit" src="orig" selected="1">VpMP----R-NAI--</tag>
 </m>
 <m id="m-vesm9303-029-p2s2w14">
 <src.rf>manual</src.rf>

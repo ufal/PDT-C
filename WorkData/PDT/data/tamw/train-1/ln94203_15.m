@@ -207,7 +207,7 @@
 <LM>w#w-ln94203-15-p2s1Bw15</LM>
 </w.rf>
 <form>uzavřela</form>
-<tag lemma="uzavřít" src="orig" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="uzavřít" src="orig" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94203-15-p2s1Bw16">
 <src.rf>manual</src.rf>
@@ -528,7 +528,7 @@
 <LM>w#w-ln94203-15-p2s3w13</LM>
 </w.rf>
 <form>dokončen</form>
-<tag lemma="dokončit" src="orig" selected="1">VsYS---XX-AP---</tag>
+<tag lemma="dokončit" src="orig" selected="1">VsYS----X-APP--</tag>
 </m>
 <m id="m-ln94203-15-p2s3w14">
 <src.rf>manual</src.rf>
@@ -618,7 +618,7 @@
 <LM>w#w-ln94203-15-p3s1w7</LM>
 </w.rf>
 <form>postaveno</form>
-<tag lemma="postavit_:W" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="postavit" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94203-15-p3s1w8">
 <src.rf>manual</src.rf>
@@ -642,7 +642,7 @@
 <LM>w#w-ln94203-15-p3s1w10</LM>
 </w.rf>
 <form>uvedeno</form>
-<tag lemma="uvést" src="orig" selected="1">VsNS---XX-AP---</tag>
+<tag lemma="uvést" src="orig" selected="1">VsNS----X-APP--</tag>
 </m>
 <m id="m-ln94203-15-p3s1w11">
 <src.rf>manual</src.rf>
@@ -811,7 +811,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>rozšířeny</form>
-<tag lemma="rozšířit" src="orig" selected="1">VsTP---XX-AP---</tag>
+<tag lemma="rozšířit" src="orig" selected="1">VsTP----X-APP--</tag>
 </m>
 <m id="m-ln94203-15-p3s2w4">
 <src.rf>manual</src.rf>

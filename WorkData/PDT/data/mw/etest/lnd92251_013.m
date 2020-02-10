@@ -56,7 +56,7 @@
 <LM>w#w-lnd92251-013-p2s1w2</LM>
 </w.rf>
 <form>vyloučena</form>
-<tag lemma="vyloučit" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="vyloučit" src="orig" selected="1">VsQW----X-APP--</tag>
 </m>
 </s>
 <s id="m-lnd92251-013-p3s1">
@@ -108,7 +108,7 @@
 <LM>w#w-lnd92251-013-p3s2w4</LM>
 </w.rf>
 <form>jednali</form>
-<tag lemma="jednat_:T" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="jednat" src="orig" selected="1">VpMP----R-AAI--</tag>
 </m>
 <m id="m-lnd92251-013-p3s2w5">
 <src.rf>manual</src.rf>
@@ -643,7 +643,7 @@
 <LM>w#w-lnd92251-013-p3s4w16</LM>
 </w.rf>
 <form>neusnesli</form>
-<tag lemma="usnést" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="usnést" src="orig" selected="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m-lnd92251-013-p3s4w17">
 <src.rf>manual</src.rf>
@@ -725,7 +725,7 @@
 <LM>w#w-lnd92251-013-p3s5w9</LM>
 </w.rf>
 <form>neumožnili</form>
-<tag lemma="umožnit_:W" src="orig" selected="1">VpMP---XR-NA---</tag>
+<tag lemma="umožnit" src="orig" selected="1">VpMP----R-NAP--</tag>
 </m>
 <m id="m-lnd92251-013-p3s5w10">
 <src.rf>manual</src.rf>
@@ -775,7 +775,7 @@
 <LM>w#w-lnd92251-013-p3s6w5</LM>
 </w.rf>
 <form>označil</form>
-<tag lemma="označit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="označit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-lnd92251-013-p3s6w6">
 <src.rf>manual</src.rf>

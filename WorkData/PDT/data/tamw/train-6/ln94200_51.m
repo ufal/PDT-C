@@ -907,7 +907,7 @@
 <LM>w#w-ln94200-51-p3s3w5</LM>
 </w.rf>
 <form>absorbovaly</form>
-<tag lemma="absorbovat_:T_:W" src="orig" selected="1">VpTP---XR-AA---</tag>
+<tag lemma="absorbovat" src="orig" selected="1">VpTP----R-AAB--</tag>
 </m>
 <m id="m-ln94200-51-p3s3w6">
 <src.rf>manual</src.rf>
@@ -971,7 +971,7 @@
 <LM>w#w-ln94200-51-p3s3w13</LM>
 </w.rf>
 <form>snížil</form>
-<tag lemma="snížit_:W" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="snížit" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94200-51-p3s3w14">
 <src.rf>manual</src.rf>
@@ -1724,7 +1724,7 @@
 <LM>w#w-ln94200-51-p4s2w5</LM>
 </w.rf>
 <form>začala</form>
-<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpQW---XR-AA---</tag>
+<tag lemma="začít-1_^(začnout)" src="auto" selected="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-ln94200-51-p4s2w6">
 <src.rf>manual</src.rf>
@@ -1870,7 +1870,7 @@
 <LM>w#w-ln94200-51-p4s3w10</LM>
 </w.rf>
 <form>charakterizována</form>
-<tag lemma="charakterizovat_:T_:W" src="orig" selected="1">VsQW---XX-AP---</tag>
+<tag lemma="charakterizovat" src="orig" selected="1">VsQW----X-APB--</tag>
 </m>
 <m id="m-ln94200-51-p4s3w11">
 <src.rf>manual</src.rf>

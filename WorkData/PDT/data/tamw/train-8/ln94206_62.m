@@ -53,7 +53,7 @@
 <LM>w#w-ln94206-62-p2s1w4</LM>
 </w.rf>
 <form>odebral</form>
-<tag lemma="odebrat" src="orig" selected="1">VpYS---XR-AA---</tag>
+<tag lemma="odebrat" src="orig" selected="1">VpYS----R-AAP--</tag>
 </m>
 <m id="m-ln94206-62-p2s1w5">
 <src.rf>manual</src.rf>
@@ -178,7 +178,7 @@
 <LM>w#w-ln94206-62-p2s1w19</LM>
 </w.rf>
 <form>nezaplatil</form>
-<tag lemma="zaplatit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="zaplatit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-ln94206-62-p2s1w20">
 <src.rf>manual</src.rf>
@@ -204,7 +204,7 @@
 <LM>w#w-ln94206-62-p2s2w2</LM>
 </w.rf>
 <form>zjistili</form>
-<tag lemma="zjistit_:W" src="orig" selected="1">VpMP---XR-AA---</tag>
+<tag lemma="zjistit" src="orig" selected="1">VpMP----R-AAP--</tag>
 </m>
 <m id="m-ln94206-62-p2s2w3">
 <src.rf>manual</src.rf>
@@ -260,7 +260,7 @@
 <LM>w#w-ln94206-62-p2s2w9</LM>
 </w.rf>
 <form>neuhradil</form>
-<tag lemma="uhradit_:W" src="orig" selected="1">VpYS---XR-NA---</tag>
+<tag lemma="uhradit" src="orig" selected="1">VpYS----R-NAP--</tag>
 </m>
 <m id="m-ln94206-62-p2s2w10">
 <src.rf>manual</src.rf>
