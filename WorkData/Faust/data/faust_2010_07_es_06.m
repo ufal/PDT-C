@@ -6461,7 +6461,7 @@
 <LM>w#w-es_06-SCzechM-p0638-s1-w9</LM>
 </w.rf>
 <form>pochopils</form>
-<tag lemma="pochopit_:W" recommended="1">VpYS---2R-AA---</tag>
+<tag lemma="pochopit" recommended="1">VpYS----R-AAPs-</tag>
 </m>
 <m id="es_06-SCzechM-p0638-s1-w10">
 <w.rf>

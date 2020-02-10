@@ -218,7 +218,7 @@
 <form>přenos</form>
 <tag>
 <AM lemma="přenos" recommended="1">NNIS1-----A----</AM>
-<AM lemma="přít">VsNS---2H-AP---</AM>
+<AM lemma="přít">VsNS----H-APIs-</AM>
 <AM lemma="přenosit">Vi-S---2--A-P--</AM>
 <AM lemma="přenosit">Vi-S---3--A-P-4</AM>
 <AM lemma="přenos">NNIS4-----A----</AM>

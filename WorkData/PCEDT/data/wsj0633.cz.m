@@ -6104,7 +6104,7 @@
 </w.rf>
 <form>přenos</form>
 <tag>
-<AM lemma="přít" src="auto">VsNS---2H-API--</AM>
+<AM lemma="přít" src="auto">VsNS----H-APIs-</AM>
 <AM lemma="přenosit" src="auto">Vi-S---2--A-P--</AM>
 <AM lemma="přenosit" src="auto">Vi-S---3--A-P-4</AM>
 <AM lemma="přenos" src="auto" recommended="1">NNIS1-----A----</AM>

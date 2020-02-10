@@ -41,7 +41,7 @@
 <tag>
 <AM lemma="Metals_;K" src="auto">NNIS1-----A----</AM>
 <AM lemma="Metals_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="metat" src="auto" recommended="1">VpYS---2R-AAI--</AM>
+<AM lemma="metat" src="auto" recommended="1">VpYS----R-AAIs-</AM>
 <AM lemma="Metals-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>

@@ -546,7 +546,7 @@
 <form>Stals</form>
 <tag>
 <AM lemma="Stals_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="stát-2_^(stanu_staneš)" src="auto">VpYS---2R-AAP--</AM>
+<AM lemma="stát-2_^(stanu_staneš)" src="auto">VpYS----R-AAPs-</AM>
 </tag>
 </m>
 <m id="m-wsj0707-001-p1s0W40-Ta">

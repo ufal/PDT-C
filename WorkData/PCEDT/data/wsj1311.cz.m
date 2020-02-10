@@ -9314,7 +9314,7 @@
 <AM lemma="Silas_;K" src="auto">NNIS1-----A----</AM>
 <AM lemma="Silas_;K" src="auto">NNIS4-----A----</AM>
 <AM lemma="Silas_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="sít_^(zasévat_[semena,...])" src="auto">VpFS---2R-AAI--</AM>
+<AM lemma="sít_^(zasévat_[semena,...])" src="auto">VpFS----R-AAIs-</AM>
 <AM lemma="Silas-2_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
