@@ -3040,13 +3040,13 @@
 <w.rf>
 <LM>w#w-wsj0763-001-p1s8W16</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>začlení</form>
 <tag>
-<AM lemma="začlenit" src="auto">VB-P---3P-AAP--</AM>
-<AM lemma="začlenit" src="auto" recommended="1">VB-S---3P-AAP--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="začlenit" src="auto" selected="1">VB-P---3P-AAP--</AM>
+<AM lemma="začlenit" src="auto" recommended="1">VB-S---3P-AAP--</AM>
+</tag>
+</m>
 <m id="m-wsj0763-001-p1s8W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

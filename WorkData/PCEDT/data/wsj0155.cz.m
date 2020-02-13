@@ -1485,22 +1485,17 @@
 <LM>w#w-wsj0155-001-p1s4W15</LM>
 </w.rf>
 <form>tj</form>
-<tag>
-<AM lemma="tj-1_:B_^(to_je/jest)" src="auto" recommended="1">J^-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="tj-1_:B_^(to_je/jest)" src="auto" recommended="1">J^-------------</tag>
 </m>
 <m id="m-wsj0155-001-p1s4W15-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0155-001-p1s4W15</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
 <m id="m-wsj0155-001-p1s4W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -13782,12 +13777,13 @@
 <w.rf>
 <LM>w#w-wsj0155-001-p1s50W10</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Disputadě</form>
 <tag>
-<AM lemma="Disputadě" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Disputadě" src="auto">X@-------------</AM>
+<AM lemma="Disputada_;K" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0155-001-p1s50W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

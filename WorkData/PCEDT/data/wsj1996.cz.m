@@ -4828,12 +4828,13 @@
 <w.rf>
 <LM>w#w-wsj1996-001-p1s13W11</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Olisy</form>
 <tag>
-<AM lemma="Olisy" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Olisy" src="auto">X@-------------</AM>
+<AM lemma="Olisa_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1996-001-p1s13W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6663,6 +6664,7 @@
 <w.rf>
 <LM>w#w-wsj1996-001-p1s19W23</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>třímiliardové</form>
 <tag>
 <AM lemma="třímiliardový" src="auto" recommended="1">AAFP1----1A----</AM>
@@ -6680,10 +6682,9 @@
 <AM lemma="třímiliardový" src="auto">AANP5----1A---6</AM>
 <AM lemma="třímiliardový" src="auto">AANS1----1A----</AM>
 <AM lemma="třímiliardový" src="auto">AANS4----1A----</AM>
-<AM lemma="třímiliardový" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="třímiliardový" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1996-001-p1s19W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10792,12 +10793,13 @@
 <w.rf>
 <LM>w#w-wsj1996-001-p1s34W13</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>přesvědčila</form>
 <tag>
-<AM lemma="přesvědčit" src="auto" recommended="1">VpQW---XR-AAP--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="přesvědčit" src="auto" recommended="1">VpQW---XR-AAP--</AM>
+<AM lemma="přesvědčit" src="manual" selected="1">VpQW----R-AAP--</AM>
+</tag>
+</m>
 <m id="m-wsj1996-001-p1s34W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -15656,6 +15658,7 @@
 <w.rf>
 <LM>w#w-wsj1996-001-p1s49W14</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>prodejní</form>
 <tag>
 <AM lemma="prodejní" src="auto">AAFP1----1A----</AM>
@@ -15686,10 +15689,9 @@
 <AM lemma="prodejní" src="auto" recommended="1">AANS4----1A----</AM>
 <AM lemma="prodejní" src="auto">AANS5----1A----</AM>
 <AM lemma="prodejný" src="auto">AAMP1----1A----</AM>
-<AM lemma="prodejný" src="auto">AAMP5----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="prodejný" src="auto">AAMP5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1996-001-p1s49W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -7660,7 +7660,7 @@
 <form>dvacetiletým</form>
 <tag>
 <AM lemma="dvacetiletý" src="auto" recommended="1">AAFP3----1A----</AM>
-<AM lemma="dvacetiletý" src="auto">AAIP3----1A----</AM>
+<AM lemma="dvacetiletý" src="auto" selected="1">AAIP3----1A----</AM>
 <AM lemma="dvacetiletý" src="auto">AAIS6----1A---7</AM>
 <AM lemma="dvacetiletý" src="auto">AAIS7----1A----</AM>
 <AM lemma="dvacetiletý" src="auto">AAMP3----1A----</AM>
@@ -7676,6 +7676,7 @@
 <w.rf>
 <LM>w#w-wsj0271-001-p1s32W11</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>státním</form>
 <tag>
 <AM lemma="státní" src="auto">AAFP3----1A----</AM>
@@ -7687,10 +7688,9 @@
 <AM lemma="státní" src="auto">AAMS7----1A----</AM>
 <AM lemma="státní" src="auto">AANP3----1A----</AM>
 <AM lemma="státní" src="auto">AANS6----1A----</AM>
-<AM lemma="státní" src="auto">AANS7----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="státní" src="auto">AANS7----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0271-001-p1s32W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -21915,12 +21915,10 @@
 <w.rf>
 <LM>w#w-wsj0118-001-p1s65W7</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>nedokáže</form>
-<tag>
-<AM lemma="dokázat" src="auto" recommended="1">VB-S---3P-NAP--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="dokázat" src="auto" recommended="1">VB-S---3P-NAP--</tag>
+</m>
 <m id="m-wsj0118-001-p1s65W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -47240,13 +47238,13 @@
 <w.rf>
 <LM>w#w-wsj0118-001-p1s155W28</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>vítaní</form>
 <tag>
 <AM lemma="vítaný_^(*2t)" src="auto" recommended="1">AAMP1----1A----</AM>
-<AM lemma="vítaný_^(*2t)" src="auto">AAMP5----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="vítaný_^(*2t)" src="auto">AAMP5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0118-001-p1s155W29-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -50513,13 +50511,17 @@
 <LM>w#w-wsj0118-001-p1s166W7</LM>
 </w.rf>
 <form>uvažovali</form>
-<tag lemma="uvažovat" src="auto" recommended="1">VpMP---XR-AAI--</tag>
+<tag>
+<AM lemma="uvažovat" src="auto" recommended="1">VpMP---XR-AAI--</AM>
+<AM lemma="uvažovat" src="manual" selected="1">VpMP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m-wsj0118-001-p1s166W7-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0118-001-p1s166W7</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>o</form>
 <tag>
 <AM lemma="o-1" src="auto">RR--4----------</AM>
@@ -50527,10 +50529,9 @@
 <AM lemma="o-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="o-77_,t" src="auto">F%-------------</AM>
 <AM lemma="o-88_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="obchodní_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="obchodní_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM>
+</tag>
+</m>
 <m id="m-wsj0118-001-p1s166W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

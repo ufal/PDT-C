@@ -5171,19 +5171,19 @@
 <w.rf>
 <LM>w#w-wsj0573-001-p1s19W7</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>zahrnujících</form>
 <tag>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGFP2-----A----</AM>
-<AM lemma="zahrnující_^(*5ovat)" src="auto">AGFP6-----A----</AM>
+<AM lemma="zahrnující_^(*5ovat)" src="auto" selected="1">AGFP6-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGIP2-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto" recommended="1">AGIP6-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGMP2-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGMP6-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGNP2-----A----</AM>
-<AM lemma="zahrnující_^(*5ovat)" src="auto">AGNP6-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="zahrnující_^(*5ovat)" src="auto">AGNP6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0573-001-p1s19W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

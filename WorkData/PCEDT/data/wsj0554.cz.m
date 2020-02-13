@@ -1875,14 +1875,14 @@
 <w.rf>
 <LM>w#w-wsj0554-001-p1s4W21</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Phillips</form>
 <tag>
 <AM lemma="Philips_;K" src="auto">NNIS1-----A----</AM>
 <AM lemma="Philips_;K" src="auto">NNIS4-----A----</AM>
-<AM lemma="Phillips_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Phillips_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0554-001-p1s4W22-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -12656,12 +12656,10 @@
 <w.rf>
 <LM>w#w-wsj0554-001-p1s40W11</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>viceprezidentkou</form>
-<tag>
-<AM lemma="viceprezidentka_^(*2)" src="auto" recommended="1">NNFS7-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="viceprezidentka_^(*2)" src="auto" recommended="1">NNFS7-----A----</tag>
+</m>
 <m id="m-wsj0554-001-p1s40W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -14078,7 +14076,7 @@
 <AM lemma="paní" src="auto">NNFP4-----A----</AM>
 <AM lemma="paní" src="auto">NNFP7-----A---1</AM>
 <AM lemma="paní" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="paní" src="auto">NNFS2-----A----</AM>
+<AM lemma="paní" src="auto" selected="1">NNFS2-----A----</AM>
 <AM lemma="paní" src="auto">NNFS3-----A----</AM>
 <AM lemma="paní" src="auto">NNFS4-----A----</AM>
 <AM lemma="paní" src="auto">NNFS5-----A----</AM>
@@ -14091,12 +14089,13 @@
 <w.rf>
 <LM>w#w-wsj0554-001-p1s44W36</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Heller</form>
 <tag>
-<AM lemma="Heller_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Heller_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Heller-2_;S" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0554-001-p1s44W37-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

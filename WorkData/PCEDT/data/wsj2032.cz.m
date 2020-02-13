@@ -2971,12 +2971,10 @@
 <w.rf>
 <LM>w#w-wsj2032-001-p1s8W13</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>očekáváme</form>
-<tag>
-<AM lemma="očekávat" src="auto" recommended="1">VB-P---1P-AAI--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="očekávat" src="auto" recommended="1">VB-P---1P-AAI--</tag>
+</m>
 <m id="m-wsj2032-001-p1s8W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6011,12 +6009,13 @@
 <w.rf>
 <LM>w#w-wsj2032-001-p1s19W13</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>analyzovaly</form>
 <tag>
-<AM lemma="analyzovat" src="auto" recommended="1">VpTP---XR-AAI--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="analyzovat" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="analyzovat" src="manual" selected="1">VpTP----R-AAI--</AM>
+</tag>
+</m>
 <m id="m-wsj2032-001-p1s19W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8002,12 +8001,10 @@
 <w.rf>
 <LM>w#w-wsj2032-001-p1s27W7</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>začne</form>
-<tag>
-<AM lemma="začít-1_^(začnout)" src="auto" recommended="1">VB-S---3P-AAP--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="začít-1_^(začnout)" src="auto" recommended="1">VB-S---3P-AAP--</tag>
+</m>
 <m id="m-wsj2032-001-p1s27W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

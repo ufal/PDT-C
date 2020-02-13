@@ -2332,12 +2332,13 @@
 <w.rf>
 <LM>w#w-wsj1421-001-p1s7W8</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Utsumi</form>
 <tag>
-<AM lemma="Utsumi" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Utsumi" src="auto">X@-------------</AM>
+<AM lemma="Utsumi_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1421-001-p1s7W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

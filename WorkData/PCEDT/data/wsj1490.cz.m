@@ -2799,10 +2799,7 @@
 <LM>w#w-wsj1490-001-p1s6W9</LM>
 </w.rf>
 <form>8.5</form>
-<tag>
-<AM lemma="8.5" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="8.5" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1490-001-p1s6W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2812,9 +2809,8 @@
 <form>krát</form>
 <tag>
 <AM lemma="krát-1_^(mat._operace;_2_krát_3)" src="auto" recommended="1">J*-------------</AM>
-<AM lemma="krát-2" src="auto">Db-------------</AM></tag>
-<comment>
-</comment>
+<AM lemma="krát-2" src="auto" selected="1">Db-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1490-001-p1s6W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2833,12 +2829,10 @@
 <w.rf>
 <LM>w#w-wsj1490-001-p1s6W12</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>desetkrát</form>
-<tag>
-<AM lemma="desetkrát`10" src="auto" recommended="1">Cv-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="desetkrát`10" src="auto" recommended="1">Cv-------------</tag>
+</m>
 <m id="m-wsj1490-001-p1s6W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3446,23 +3440,20 @@
 <LM>w#w-wsj1490-001-p1s7W27</LM>
 </w.rf>
 <form>13</form>
-<tag>
-<AM lemma="13" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="13" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1490-001-p1s7W27-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1490-001-p1s7W27</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>násobek</form>
 <tag>
 <AM lemma="násobek" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="násobek" src="auto">NNIS4-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="násobek" src="auto">NNIS4-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1490-001-p1s7W28-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

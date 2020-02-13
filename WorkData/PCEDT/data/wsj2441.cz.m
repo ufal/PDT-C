@@ -718,15 +718,15 @@
 <w.rf>
 <LM>w#w-wsj2441-001-p1s1W26</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>úspěchu</form>
 <tag>
 <AM lemma="úspěch" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="úspěch" src="auto">NNIS3-----A----</AM>
 <AM lemma="úspěch" src="auto">NNIS5-----A----</AM>
-<AM lemma="úspěch" src="auto">NNIS6-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="úspěch" src="auto">NNIS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2441-001-p1s1W27-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -855,15 +855,15 @@
 <w.rf>
 <LM>w#w-wsj2441-001-p1s2W6</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>nemovitostí</form>
 <tag>
 <AM lemma="movitost_^(*3ý)" src="auto">NNFP2-----N----</AM>
 <AM lemma="movitost_^(*3ý)" src="auto">NNFS7-----N----</AM>
 <AM lemma="nemovitost_^(budovy,_stavby,_pozemky,...)" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="nemovitost_^(budovy,_stavby,_pozemky,...)" src="auto">NNFS7-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="nemovitost_^(budovy,_stavby,_pozemky,...)" src="auto">NNFS7-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2441-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1115,10 +1115,7 @@
 <LM>w#w-wsj2441-001-p1s3W7</LM>
 </w.rf>
 <form>neschopna</form>
-<tag>
-<AM lemma="schopný" src="auto" recommended="1">ACQW------N----</AM></tag>
-<comment>
-</comment>
+<tag lemma="schopný" src="auto" recommended="1">ACQW------N----</tag>
 </m>
 <m id="m-wsj2441-001-p1s3W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1393,10 +1390,7 @@
 <LM>w#w-wsj2441-001-p1s3W31</LM>
 </w.rf>
 <form>1</form>
-<tag>
-<AM lemma="1" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="1" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj2441-001-p1s3W31-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -1404,16 +1398,14 @@
 <LM>w#w-wsj2441-001-p1s3W31</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj2441-001-p1s3W31-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2441-001-p1s3W31</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>září</form>
 <tag>
 <AM lemma="zář" src="auto">NNFP2-----A----</AM>
@@ -1428,13 +1420,12 @@
 <AM lemma="září" src="auto">NNNP5-----A----</AM>
 <AM lemma="září" src="auto">NNNS1-----A----</AM>
 <AM lemma="září" src="auto" recommended="1">NNNS2-----A----</AM>
-<AM lemma="září" src="auto">NNNS3-----A----</AM>
+<AM lemma="září" src="auto" selected="1">NNNS3-----A----</AM>
 <AM lemma="září" src="auto">NNNS4-----A----</AM>
 <AM lemma="září" src="auto">NNNS5-----A----</AM>
-<AM lemma="září" src="auto">NNNS6-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="září" src="auto">NNNS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2441-001-p1s3W32-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1451,10 +1442,7 @@
 <LM>w#w-wsj2441-001-p1s4W1</LM>
 </w.rf>
 <form>24</form>
-<tag>
-<AM lemma="24" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="24" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj2441-001-p1s4W1-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -1462,16 +1450,14 @@
 <LM>w#w-wsj2441-001-p1s4W1</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj2441-001-p1s4W1-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2441-001-p1s4W1</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>září</form>
 <tag>
 <AM lemma="zář" src="auto">NNFP2-----A----</AM>
@@ -1485,14 +1471,13 @@
 <AM lemma="září" src="auto">NNNP4-----A----</AM>
 <AM lemma="září" src="auto">NNNP5-----A----</AM>
 <AM lemma="září" src="auto">NNNS1-----A----</AM>
-<AM lemma="září" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="září" src="auto" recommended="1" selected="1">NNNS2-----A----</AM>
 <AM lemma="září" src="auto">NNNS3-----A----</AM>
 <AM lemma="září" src="auto">NNNS4-----A----</AM>
 <AM lemma="září" src="auto">NNNS5-----A----</AM>
-<AM lemma="září" src="auto">NNNS6-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="září" src="auto">NNNS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2441-001-p1s4W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

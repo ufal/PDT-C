@@ -2836,10 +2836,7 @@
 <LM>w#w-wsj0560-001-p1s8W20</LM>
 </w.rf>
 <form>150</form>
-<tag>
-<AM lemma="150" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="150" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0560-001-p1s8W20-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -2849,7 +2846,7 @@
 <form>megawattové</form>
 <tag>
 <AM lemma="megawattový" src="auto">AAFP1----1A----</AM>
-<AM lemma="megawattový" src="auto">AAFP4----1A----</AM>
+<AM lemma="megawattový" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="megawattový" src="auto">AAFP5----1A----</AM>
 <AM lemma="megawattový" src="auto" recommended="1">AAFS2----1A----</AM>
 <AM lemma="megawattový" src="auto">AAFS3----1A----</AM>
@@ -2863,9 +2860,8 @@
 <AM lemma="megawattový" src="auto">AANP5----1A---6</AM>
 <AM lemma="megawattový" src="auto">AANS1----1A----</AM>
 <AM lemma="megawattový" src="auto">AANS4----1A----</AM>
-<AM lemma="megawattový" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="megawattový" src="auto">AANS5----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj0560-001-p1s8W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3054,20 +3050,18 @@
 <LM>w#w-wsj0560-001-p1s8W33</LM>
 </w.rf>
 <form>300</form>
-<tag>
-<AM lemma="300" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="300" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0560-001-p1s8W33-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0560-001-p1s8W33</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>megawattové</form>
 <tag>
 <AM lemma="megawattový" src="auto">AAFP1----1A----</AM>
-<AM lemma="megawattový" src="auto">AAFP4----1A----</AM>
+<AM lemma="megawattový" src="auto" selected="1">AAFP4----1A----</AM>
 <AM lemma="megawattový" src="auto">AAFP5----1A----</AM>
 <AM lemma="megawattový" src="auto" recommended="1">AAFS2----1A----</AM>
 <AM lemma="megawattový" src="auto">AAFS3----1A----</AM>
@@ -3081,10 +3075,9 @@
 <AM lemma="megawattový" src="auto">AANP5----1A---6</AM>
 <AM lemma="megawattový" src="auto">AANS1----1A----</AM>
 <AM lemma="megawattový" src="auto">AANS4----1A----</AM>
-<AM lemma="megawattový" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="megawattový" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0560-001-p1s8W34-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3746,16 +3739,14 @@
 <LM>w#w-wsj0560-001-p1s11W20</LM>
 </w.rf>
 <form>55</form>
-<tag>
-<AM lemma="55" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="55" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0560-001-p1s11W20-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0560-001-p1s11W20</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>megawattové</form>
 <tag>
 <AM lemma="megawattový" src="auto">AAFP1----1A----</AM>
@@ -3773,10 +3764,9 @@
 <AM lemma="megawattový" src="auto">AANP5----1A---6</AM>
 <AM lemma="megawattový" src="auto">AANS1----1A----</AM>
 <AM lemma="megawattový" src="auto">AANS4----1A----</AM>
-<AM lemma="megawattový" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="megawattový" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0560-001-p1s11W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

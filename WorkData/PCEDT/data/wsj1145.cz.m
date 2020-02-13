@@ -865,12 +865,13 @@
 <w.rf>
 <LM>w#w-wsj1145-001-p1s1W41</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Hampshire</form>
 <tag>
-<AM lemma="Hampshire_;G" src="auto" recommended="1">NNNXX-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Hampshire_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Hampshire-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m-wsj1145-001-p1s1W42-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

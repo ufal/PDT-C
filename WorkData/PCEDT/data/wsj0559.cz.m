@@ -1016,12 +1016,10 @@
 <w.rf>
 <LM>w#w-wsj0559-001-p1s3W8</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>vrhnout</form>
-<tag>
-<AM lemma="vrhnout" src="auto" recommended="1">Vf--------A-P--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="vrhnout" src="auto" recommended="1">Vf--------A-P--</tag>
+</m>
 <m id="m-wsj0559-001-p1s3W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3238,6 +3236,7 @@
 <w.rf>
 <LM>w#w-wsj0559-001-p1s10W35</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>nezakázání</form>
 <tag>
 <AM lemma="zakázání_^(*3at)" src="auto">NNNP1-----N----</AM>
@@ -3249,10 +3248,9 @@
 <AM lemma="zakázání_^(*3at)" src="auto">NNNS3-----N----</AM>
 <AM lemma="zakázání_^(*3at)" src="auto">NNNS4-----N----</AM>
 <AM lemma="zakázání_^(*3at)" src="auto">NNNS5-----N----</AM>
-<AM lemma="zakázání_^(*3at)" src="auto">NNNS6-----N----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="zakázání_^(*3at)" src="auto">NNNS6-----N----</AM>
+</tag>
+</m>
 <m id="m-wsj0559-001-p1s10W36-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6029,12 +6027,13 @@
 <w.rf>
 <LM>w#w-wsj0559-001-p1s21W8</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>zvýšily</form>
 <tag>
-<AM lemma="zvýšit" src="auto" recommended="1">VpTP---XR-AAP--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="zvýšit" src="auto" recommended="1">VpTP---XR-AAP--</AM>
+<AM lemma="zvýšit" src="manual" selected="1">VpTP----R-AAP--</AM>
+</tag>
+</m>
 <m id="m-wsj0559-001-p1s21W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8168,12 +8167,13 @@
 <w.rf>
 <LM>w#w-wsj0559-001-p1s31W9</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Sisulu</form>
 <tag>
-<AM lemma="Sisulu" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Sisulu" src="auto">X@-------------</AM>
+<AM lemma="Sisulu_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0559-001-p1s31W10-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

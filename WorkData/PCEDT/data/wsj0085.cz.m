@@ -6477,25 +6477,22 @@
 <LM>w#w-wsj0085-001-p1s22W3</LM>
 </w.rf>
 <form>55</form>
-<tag>
-<AM lemma="55" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="55" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0085-001-p1s22W3-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0085-001-p1s22W3</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letého</form>
 <tag>
 <AM lemma="letý" src="auto">AAIS2----1A----</AM>
 <AM lemma="letý" src="auto">AAMS2----1A----</AM>
 <AM lemma="letý" src="auto" recommended="1">AAMS4----1A----</AM>
-<AM lemma="letý" src="auto">AANS2----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS2----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0085-001-p1s22W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7162,6 +7159,7 @@
 <w.rf>
 <LM>w#w-wsj0085-001-p1s24W17</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>který</form>
 <tag>
 <AM lemma="který" src="auto">P4FS2---------6</AM>
@@ -7172,17 +7170,19 @@
 <AM lemma="který" src="auto">P4NS4---------6</AM>
 <AM lemma="který" src="auto">P4XP1---------6</AM>
 <AM lemma="který" src="auto">P4XP4---------6</AM>
-<AM lemma="který" src="auto" recommended="1">P4YS1----------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="který" src="auto" recommended="1">P4YS1----------</AM>
+</tag>
+</m>
 <m id="m-wsj0085-001-p1s24W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0085-001-p1s24W18</LM>
 </w.rf>
 <form>obsahoval</form>
-<tag lemma="obsahovat" src="auto" recommended="1">VpYS---XR-AAI--</tag>
+<tag>
+<AM lemma="obsahovat" src="auto" recommended="1">VpYS---XR-AAI--</AM>
+<AM lemma="obsahovat" src="manual" selected="1">VpYS----R-AAI--</AM>
+</tag>
 </m>
 <m id="m-wsj0085-001-p1s24W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8088,15 +8088,15 @@
 <w.rf>
 <LM>w#w-wsj0085-001-p1s27W26</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>programy</form>
 <tag>
 <AM lemma="program-1" src="auto" recommended="1">NNIP1-----A----</AM>
-<AM lemma="program-1" src="auto">NNIP4-----A----</AM>
+<AM lemma="program-1" src="auto" selected="1">NNIP4-----A----</AM>
 <AM lemma="program-1" src="auto">NNIP5-----A----</AM>
-<AM lemma="program-1" src="auto">NNIP7-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="program-1" src="auto">NNIP7-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0085-001-p1s27W27-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -13610,13 +13610,13 @@
 <w.rf>
 <LM>w#w-wsj0085-001-p1s47W5</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>že</form>
 <tag>
 <AM lemma="že-1" src="auto" recommended="1">J,-------------</AM>
-<AM lemma="že-2" src="auto">TT-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="že-2" src="auto">TT-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0085-001-p1s47W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

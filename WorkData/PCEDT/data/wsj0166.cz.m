@@ -106,9 +106,8 @@
 <AM lemma="další" src="auto">AAFP7----1A----</AM>
 <AM lemma="další" src="auto" recommended="1">AAIP7----1A----</AM>
 <AM lemma="další" src="auto">AAMP7----1A----</AM>
-<AM lemma="další" src="auto">AANP7----1A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="další" src="auto">AANP7----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj0166-001-p1s0W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -256,6 +255,7 @@
 <w.rf>
 <LM>w#w-wsj0166-001-p1s0W20</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>čtvrtletí</form>
 <tag>
 <AM lemma="čtvrtletý" src="auto">AAMP1----1A----</AM>
@@ -269,10 +269,9 @@
 <AM lemma="čtvrtletí" src="auto">NNNS3-----A----</AM>
 <AM lemma="čtvrtletí" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="čtvrtletí" src="auto">NNNS5-----A----</AM>
-<AM lemma="čtvrtletí" src="auto">NNNS6-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="čtvrtletí" src="auto">NNNS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0166-001-p1s0W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -550,10 +549,7 @@
 <LM>w#w-wsj0166-001-p1s1W16</LM>
 </w.rf>
 <form>milionům</form>
-<tag>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP3-----A----</AM></tag>
-<comment>
-</comment>
+<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP3-----A----</tag>
 </m>
 <m id="m-wsj0166-001-p1s1W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -686,13 +682,13 @@
 <w.rf>
 <LM>w#w-wsj0166-001-p1s1W25</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>nepřiblíží</form>
 <tag>
 <AM lemma="přiblížit" src="auto">VB-P---3P-NAP--</AM>
-<AM lemma="přiblížit" src="auto" recommended="1">VB-S---3P-NAP--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="přiblížit" src="auto" recommended="1">VB-S---3P-NAP--</AM>
+</tag>
+</m>
 <m id="m-wsj0166-001-p1s1W26-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -787,10 +783,7 @@
 <LM>w#w-wsj0166-001-p1s2W8</LM>
 </w.rf>
 <form>12</form>
-<tag>
-<AM lemma="12" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="12" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0166-001-p1s2W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -842,14 +835,14 @@
 <w.rf>
 <LM>w#w-wsj0166-001-p1s2W13</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>restrukturalizaci</form>
 <tag>
 <AM lemma="restrukturalizace" src="auto">NNFS3-----A----</AM>
 <AM lemma="restrukturalizace" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="restrukturalizace" src="auto">NNFS6-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="restrukturalizace" src="auto">NNFS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0166-001-p1s2W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1804,6 +1797,7 @@
 <w.rf>
 <LM>w#w-wsj0166-001-p1s4W16</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>společnosti</form>
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP1-----A----</AM>
@@ -1812,10 +1806,9 @@
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0166-001-p1s4W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2255,6 +2248,7 @@
 <w.rf>
 <LM>w#w-wsj0166-001-p1s5W11</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>čtvrtletí</form>
 <tag>
 <AM lemma="čtvrtletý" src="auto">AAMP1----1A----</AM>
@@ -2268,10 +2262,9 @@
 <AM lemma="čtvrtletí" src="auto">NNNS3-----A----</AM>
 <AM lemma="čtvrtletí" src="auto">NNNS4-----A----</AM>
 <AM lemma="čtvrtletí" src="auto">NNNS5-----A----</AM>
-<AM lemma="čtvrtletí" src="auto" recommended="1">NNNS6-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="čtvrtletí" src="auto" recommended="1">NNNS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0166-001-p1s5W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2561,13 +2554,13 @@
 <w.rf>
 <LM>w#w-wsj0166-001-p1s6W11</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>během</form>
 <tag>
 <AM lemma="běh" src="auto">NNIS7-----A----</AM>
-<AM lemma="během" src="auto" recommended="1">RR--2----------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="během" src="auto" recommended="1">RR--2----------</AM>
+</tag>
+</m>
 <m id="m-wsj0166-001-p1s6W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3064,12 +3057,10 @@
 <w.rf>
 <LM>w#w-wsj0166-001-p1s7W11</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>15</form>
-<tag>
-<AM lemma="15" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="15" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="m-wsj0166-001-p1s7W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3205,7 +3196,8 @@
 <form>Transamerica</form>
 <tag>
 <AM lemma="Transamerica" src="auto">X@-------------</AM>
-<AM lemma="Transamerica_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Transamerica_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Transamerica-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0166-001-p1s8W3-Ta">
@@ -3268,9 +3260,8 @@
 <AM lemma="investiční" src="auto">AANP5----1A----</AM>
 <AM lemma="investiční" src="auto">AANS1----1A----</AM>
 <AM lemma="investiční" src="auto">AANS4----1A----</AM>
-<AM lemma="investiční" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="investiční" src="auto">AANS5----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj0166-001-p1s8W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3338,6 +3329,7 @@
 <w.rf>
 <LM>w#w-wsj0166-001-p1s8W10</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>čtvrtletí</form>
 <tag>
 <AM lemma="čtvrtletý" src="auto">AAMP1----1A----</AM>
@@ -3351,10 +3343,9 @@
 <AM lemma="čtvrtletí" src="auto">NNNS3-----A----</AM>
 <AM lemma="čtvrtletí" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="čtvrtletí" src="auto">NNNS5-----A----</AM>
-<AM lemma="čtvrtletí" src="auto">NNNS6-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="čtvrtletí" src="auto">NNNS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0166-001-p1s8W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

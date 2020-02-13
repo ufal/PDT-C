@@ -1594,13 +1594,13 @@
 <w.rf>
 <LM>w#w-wsj1735-001-p1s6W20</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>spokojeno</form>
 <tag>
 <AM lemma="spokojit" src="auto">VsNS---XX-APP--</AM>
-<AM lemma="spokojený" src="auto" recommended="1">ACNS------A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="spokojený" src="auto" recommended="1">ACNS------A----</AM>
+</tag>
+</m>
 <m id="m-wsj1735-001-p1s6W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1995,13 +1995,13 @@
 <w.rf>
 <LM>w#w-wsj1735-001-p1s7W26</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>firmě</form>
 <tag>
 <AM lemma="firma" src="auto" recommended="1">NNFS3-----A----</AM>
-<AM lemma="firma" src="auto">NNFS6-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="firma" src="auto" selected="1">NNFS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1735-001-p1s7W27-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5145,6 +5145,7 @@
 <w.rf>
 <LM>w#w-wsj1735-001-p1s23W12</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>milé</form>
 <tag>
 <AM lemma="milá-2_^(osoba;_př._můj_milý_na_mě_čeká)_(*3ý-2)" src="auto">NNFP1-----A----</AM>
@@ -5169,10 +5170,9 @@
 <AM lemma="milý-1_^(příjemný)" src="auto">AANS1----1A----</AM>
 <AM lemma="milý-1_^(příjemný)" src="auto">AANS4----1A----</AM>
 <AM lemma="milý-1_^(příjemný)" src="auto">AANS5----1A----</AM>
-<AM lemma="milý-2_^(osoba;_př._můj_milý_na_mě_čeká)" src="auto">NNMP4-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="milý-2_^(osoba;_př._můj_milý_na_mě_čeká)" src="auto">NNMP4-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1735-001-p1s23W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

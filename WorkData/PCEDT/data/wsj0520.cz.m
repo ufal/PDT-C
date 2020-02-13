@@ -1244,9 +1244,9 @@
 <AM lemma="Hart-2_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Hart-2_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Harta_;G" src="auto">NNFP2-----A----</AM>
-<AM lemma="Harty_;G" src="auto">NNIP2-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="Harty_;G" src="auto">NNIP2-----A----</AM>
+<AM lemma="Hart-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0520-001-p1s2W38-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -1254,22 +1254,20 @@
 <LM>w#w-wsj0520-001-p1s2W38</LM>
 </w.rf>
 <form>-</form>
-<tag>
-<AM lemma="-" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="-" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0520-001-p1s2W38-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0520-001-p1s2W38</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Scott</form>
 <tag>
-<AM lemma="Scott_;Y" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Scott_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Scott-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0520-001-p1s2W39-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

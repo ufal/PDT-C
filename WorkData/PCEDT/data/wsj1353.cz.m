@@ -7629,16 +7629,14 @@
 <LM>w#w-wsj1353-001-p1s23W20</LM>
 </w.rf>
 <form>14</form>
-<tag>
-<AM lemma="14" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="14" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1353-001-p1s23W20-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1353-001-p1s23W20</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>leté</form>
 <tag>
 <AM lemma="letý" src="auto">AAFP1----1A----</AM>
@@ -7656,10 +7654,9 @@
 <AM lemma="letý" src="auto">AANP5----1A---6</AM>
 <AM lemma="letý" src="auto">AANS1----1A----</AM>
 <AM lemma="letý" src="auto">AANS4----1A----</AM>
-<AM lemma="letý" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1353-001-p1s23W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9889,6 +9886,7 @@
 <w.rf>
 <LM>w#w-wsj1353-001-p1s30W16</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Thatcherové</form>
 <tag>
 <AM lemma="Thatcher_;S" src="auto" recommended="1">NNMP1-----A----</AM>
@@ -9896,12 +9894,11 @@
 <AM lemma="Thatcherová_;S" src="auto">NNFP1-----A----</AM>
 <AM lemma="Thatcherová_;S" src="auto">NNFP4-----A----</AM>
 <AM lemma="Thatcherová_;S" src="auto">NNFP5-----A----</AM>
-<AM lemma="Thatcherová_;S" src="auto">NNFS2-----A----</AM>
+<AM lemma="Thatcherová_;S" src="auto" selected="1">NNFS2-----A----</AM>
 <AM lemma="Thatcherová_;S" src="auto">NNFS3-----A----</AM>
-<AM lemma="Thatcherová_;S" src="auto">NNFS6-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Thatcherová_;S" src="auto">NNFS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1353-001-p1s30W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

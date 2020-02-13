@@ -5321,13 +5321,13 @@
 <w.rf>
 <LM>w#w-wsj0748-001-p1s14W12</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Reagana</form>
 <tag>
-<AM lemma="Reagan_;S" src="auto">NNMS2-----A----</AM>
-<AM lemma="Reagan_;S" src="auto" recommended="1">NNMS4-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Reagan_;S" src="auto" selected="1">NNMS2-----A----</AM>
+<AM lemma="Reagan_;S" src="auto" recommended="1">NNMS4-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0748-001-p1s14W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

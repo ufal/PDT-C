@@ -14814,12 +14814,13 @@
 <w.rf>
 <LM>w#w-wsj0290-001-p1s49W17</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>vyhýbaly</form>
 <tag>
-<AM lemma="vyhýbat" src="auto" recommended="1">VpTP---XR-AAI--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="vyhýbat" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="vyhýbat" src="manual" selected="1">VpTP----R-AAI--</AM>
+</tag>
+</m>
 <m id="m-wsj0290-001-p1s49W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

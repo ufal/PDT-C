@@ -1176,13 +1176,13 @@
 <w.rf>
 <LM>w#w-wsj1696-001-p1s2W4</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>upouští</form>
 <tag>
 <AM lemma="upouštět" src="auto">VB-P---3P-AAI-1</AM>
-<AM lemma="upouštět" src="auto" recommended="1">VB-S---3P-AAI--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="upouštět" src="auto" recommended="1">VB-S---3P-AAI--</AM>
+</tag>
+</m>
 <m id="m-wsj1696-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5657,14 +5657,14 @@
 <w.rf>
 <LM>w#w-wsj1696-001-p1s12W17</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Federálnímu</form>
 <tag>
 <AM lemma="federální" src="auto" recommended="1">AAIS3----1A----</AM>
 <AM lemma="federální" src="auto">AAMS3----1A----</AM>
-<AM lemma="federální" src="auto">AANS3----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="federální" src="auto">AANS3----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1696-001-p1s12W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5673,7 +5673,7 @@
 <form>úřadu</form>
 <tag>
 <AM lemma="úřad" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="úřad" src="auto">NNIS3-----A----</AM>
+<AM lemma="úřad" src="auto" selected="1">NNIS3-----A----</AM>
 <AM lemma="úřad" src="auto">NNIS6-----A---1</AM>
 <AM lemma="úřada_,h" src="auto">NNMS4-----A----</AM>
 </tag>

@@ -1551,9 +1551,9 @@
 </w.rf>
 <form>Zell</form>
 <tag>
-<AM lemma="Zell_;Y" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="Zell_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Zell-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0331-001-p1s6W14-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -1561,16 +1561,14 @@
 <LM>w#w-wsj0331-001-p1s6W14</LM>
 </w.rf>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0331-001-p1s6W14-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0331-001-p1s6W14</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>s</form>
 <tag>
 <AM lemma="s-1" src="auto">RR--2----------</AM>
@@ -1584,10 +1582,10 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0331-001-p1s6W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2505,12 +2503,13 @@
 <w.rf>
 <LM>w#w-wsj0331-001-p1s9W13</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>ního</form>
 <tag>
-<AM lemma="ního" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="ního" src="auto">X@-------------</AM>
+<AM lemma="ní_,i_^(12%-ní)" src="manual" selected="1">SAIS2----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0331-001-p1s9W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6672,12 +6671,10 @@
 <w.rf>
 <LM>w#w-wsj0331-001-p1s25W15</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>nominálem</form>
-<tag>
-<AM lemma="nominál" src="auto" recommended="1">NNIS7-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="nominál" src="auto" recommended="1">NNIS7-----A----</tag>
+</m>
 <m id="m-wsj0331-001-p1s25W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -751,12 +751,13 @@
 <w.rf>
 <LM>w#w-wsj1476-001-p1s2W5</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Braintree</form>
 <tag>
-<AM lemma="Braintree" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Braintree" src="auto">X@-------------</AM>
+<AM lemma="Braintree_;G" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1476-001-p1s2W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

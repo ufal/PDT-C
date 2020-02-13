@@ -10487,12 +10487,13 @@
 <w.rf>
 <LM>w#w-wsj2338-001-p1s25W3</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Fiero</form>
 <tag>
-<AM lemma="Fiero" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Fiero" src="auto">X@-------------</AM>
+<AM lemma="Fiero_;R" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2338-001-p1s25W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

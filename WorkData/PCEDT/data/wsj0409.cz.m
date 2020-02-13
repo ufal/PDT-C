@@ -2702,19 +2702,20 @@
 <w.rf>
 <LM>w#w-wsj0409-001-p1s13W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>lidí</form>
-<tag>
-<AM lemma="člověk" src="auto" recommended="1">NNMP2-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="člověk" src="auto" recommended="1">NNMP2-----A----</tag>
+</m>
 <m id="m-wsj0409-001-p1s13W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0409-001-p1s13W3</LM>
 </w.rf>
 <form>uvedlo</form>
-<tag lemma="uvést" src="auto" recommended="1">VpNS---XR-AAP--</tag>
+<tag>
+<AM lemma="uvést" src="auto" recommended="1">VpNS---XR-AAP--</AM>
+<AM lemma="uvést" src="manual" selected="1">VpNS----R-AAP--</AM>
+</tag>
 </m>
 <m id="m-wsj0409-001-p1s13W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5476,10 +5477,7 @@
 <LM>w#w-wsj0409-001-p1s22W15</LM>
 </w.rf>
 <form>milionů</form>
-<tag>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</AM></tag>
-<comment>
-</comment>
+<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="m-wsj0409-001-p1s22W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5542,6 +5540,7 @@
 <w.rf>
 <LM>w#w-wsj0409-001-p1s22W23</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>plné</form>
 <tag>
 <AM lemma="plný" src="auto" recommended="1">AAFP1----1A----</AM>
@@ -5559,10 +5558,9 @@
 <AM lemma="plný" src="auto">AANP5----1A---6</AM>
 <AM lemma="plný" src="auto">AANS1----1A----</AM>
 <AM lemma="plný" src="auto">AANS4----1A----</AM>
-<AM lemma="plný" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="plný" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0409-001-p1s22W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -4021,12 +4021,13 @@
 <w.rf>
 <LM>w#w-wsj1952-001-p1s17W11</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>utáhl</form>
 <tag>
-<AM lemma="utáhnout" src="auto" recommended="1">VpYS---XR-AAP--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="utáhnout" src="auto" recommended="1">VpYS---XR-AAP--</AM>
+<AM lemma="utáhnout" src="manual" selected="1">VpYS----R-AAP--</AM>
+</tag>
+</m>
 <m id="m-wsj1952-001-p1s17W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

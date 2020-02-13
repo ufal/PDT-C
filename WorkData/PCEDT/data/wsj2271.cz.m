@@ -56,9 +56,9 @@
 <AM lemma="co-3_^(když:_poté/od_té_doby,_co)" src="auto">J,-------------</AM>
 <AM lemma="co-4_^(který:_př.:_o_těch,_co_odešli/co_je_znal)" src="auto">P4XXX----------</AM>
 <AM lemma="co-5_^(př._co_nejméně,_co_nevidět,_co_chvíli,_co_do_počtu,_atd.)" src="auto">Db-------------</AM>
-<AM lemma="co-77_:B" src="auto">F%-------------</AM></tag>
-<comment>
-</comment>
+<AM lemma="co-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Co-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2271-001-p1s1W4-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -66,10 +66,7 @@
 <LM>w#w-wsj2271-001-p1s1W4</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj2271-001-p1s1W4-Ta-sw2">
 <src.rf>tagger-a</src.rf>
@@ -78,9 +75,9 @@
 </w.rf>
 <form>uvedla</form>
 <tag>
-<AM lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</AM></tag>
-<comment>
-</comment>
+<AM lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</AM>
+<AM lemma="uvést" src="manual" selected="1">VpQW----R-AAP--</AM>
+</tag>
 </m>
 <m id="m-wsj2271-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -396,6 +393,7 @@
 <w.rf>
 <LM>w#w-wsj2271-001-p1s1W29</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>daňové</form>
 <tag>
 <AM lemma="daňový" src="auto">AAFP1----1A----</AM>
@@ -413,10 +411,9 @@
 <AM lemma="daňový" src="auto">AANP5----1A---6</AM>
 <AM lemma="daňový" src="auto">AANS1----1A----</AM>
 <AM lemma="daňový" src="auto">AANS4----1A----</AM>
-<AM lemma="daňový" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="daňový" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj2271-001-p1s1W30-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1798,6 +1795,7 @@
 <w.rf>
 <LM>w#w-wsj2271-001-p1s5W15</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>daňové</form>
 <tag>
 <AM lemma="daňový" src="auto">AAFP1----1A----</AM>
@@ -1815,10 +1813,9 @@
 <AM lemma="daňový" src="auto">AANP5----1A---6</AM>
 <AM lemma="daňový" src="auto">AANS1----1A----</AM>
 <AM lemma="daňový" src="auto">AANS4----1A----</AM>
-<AM lemma="daňový" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="daňový" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj2271-001-p1s5W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

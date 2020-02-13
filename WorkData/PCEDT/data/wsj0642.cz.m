@@ -1056,12 +1056,13 @@
 <w.rf>
 <LM>w#w-wsj0642-001-p1s2W26</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Weekes</form>
 <tag>
-<AM lemma="Weekes" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Weekes" src="auto">X@-------------</AM>
+<AM lemma="Weekes_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0642-001-p1s2W27-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

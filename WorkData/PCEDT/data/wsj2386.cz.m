@@ -1834,12 +1834,13 @@
 <w.rf>
 <LM>w#w-wsj2386-001-p1s8W17</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Crump</form>
 <tag>
-<AM lemma="Crump_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Crump_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Crump-2_;S" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2386-001-p1s8W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3146,12 +3147,10 @@
 <w.rf>
 <LM>w#w-wsj2386-001-p1s13W6</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>-</form>
-<tag>
-<AM lemma="-" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="-" src="auto" recommended="1">Z:-------------</tag>
+</m>
 <m id="m-wsj2386-001-p1s13W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

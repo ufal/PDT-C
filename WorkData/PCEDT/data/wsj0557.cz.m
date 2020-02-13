@@ -1631,13 +1631,13 @@
 <w.rf>
 <LM>w#w-wsj0557-001-p1s4W1</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Tento</form>
 <tag>
 <AM lemma="tento" src="auto">PDIS4----------</AM>
-<AM lemma="tento" src="auto" recommended="1">PDYS1----------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="tento" src="auto" recommended="1">PDYS1----------</AM>
+</tag>
+</m>
 <m id="m-wsj0557-001-p1s4W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2070,12 +2070,13 @@
 <w.rf>
 <LM>w#w-wsj0557-001-p1s5W11</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>splaceny</form>
 <tag>
-<AM lemma="splatit" src="auto" recommended="1">VsTP---XX-APP--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="splatit" src="auto" recommended="1">VsTP---XX-APP--</AM>
+<AM lemma="splatit" src="manual" selected="1">VsTP----X-APP--</AM>
+</tag>
+</m>
 <m id="m-wsj0557-001-p1s5W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

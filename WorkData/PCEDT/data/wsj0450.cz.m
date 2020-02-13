@@ -3781,16 +3781,14 @@
 <LM>w#w-wsj0450-001-p1s8W4</LM>
 </w.rf>
 <form>27</form>
-<tag>
-<AM lemma="27" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="27" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0450-001-p1s8W4-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0450-001-p1s8W4</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letý</form>
 <tag>
 <AM lemma="letý" src="auto">AAFP1----1A---6</AM>
@@ -3815,10 +3813,9 @@
 <AM lemma="letý" src="auto">AANP5----1A---6</AM>
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
-<AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj0450-001-p1s8W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3864,7 +3861,8 @@
 <tag>
 <AM lemma="Greenwich_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Greenwich_;G" src="auto" recommended="1">NNIS4-----A----</AM>
-<AM lemma="Greenwich-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Greenwich-77" src="manual">F%-------------</AM>
+<AM lemma="Greenwich_;G" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0450-001-p1s8W9-Ta">
@@ -11002,16 +11000,14 @@
 <LM>w#w-wsj0450-001-p1s36W12</LM>
 </w.rf>
 <form>35</form>
-<tag>
-<AM lemma="35" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="35" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0450-001-p1s36W12-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0450-001-p1s36W12</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letý</form>
 <tag>
 <AM lemma="letý" src="auto">AAFP1----1A---6</AM>
@@ -11036,10 +11032,9 @@
 <AM lemma="letý" src="auto">AANP5----1A---6</AM>
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
-<AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj0450-001-p1s36W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

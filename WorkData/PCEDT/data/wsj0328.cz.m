@@ -382,12 +382,10 @@
 <w.rf>
 <LM>w#w-wsj0328-001-p1s0W29</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>miliard</form>
-<tag>
-<AM lemma="miliarda`1000000000" src="auto" recommended="1">NNFP2-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="miliarda`1000000000" src="auto" recommended="1">NNFP2-----A----</tag>
+</m>
 <m id="m-wsj0328-001-p1s0W30-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6275,12 +6273,13 @@
 <w.rf>
 <LM>w#w-wsj0328-001-p1s16W29</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>vzrostly</form>
 <tag>
-<AM lemma="vzrůst-1" src="auto" recommended="1">VpTP---XR-AAP--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="vzrůst-1" src="auto" recommended="1">VpTP---XR-AAP--</AM>
+<AM lemma="vzrůst-1" src="manual" selected="1">VpTP----R-AAP--</AM>
+</tag>
+</m>
 <m id="m-wsj0328-001-p1s16W30-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

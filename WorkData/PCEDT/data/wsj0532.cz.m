@@ -4936,7 +4936,8 @@
 <form>Tyler</form>
 <tag>
 <AM lemma="Tyler_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Tyler_;S" src="manual" selected="1">NNMSX-----A----</AM>
+<AM lemma="Tyler_;S" src="manual">NNMSX-----A----</AM>
+<AM lemma="Tyler-2_;S" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0532-001-p1s17W14-Ta">
@@ -4949,7 +4950,8 @@
 <AM lemma="Moor_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Moore_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Moore_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Moore_;S" src="manual" selected="1">NNMSX-----A----</AM>
+<AM lemma="Moore_;S" src="manual">NNMSX-----A----</AM>
+<AM lemma="Moore-2_;S" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0532-001-p1s17W15-Ta">
@@ -4984,12 +4986,13 @@
 <w.rf>
 <LM>w#w-wsj0532-001-p1s17W17</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Tinkerem</form>
 <tag>
-<AM lemma="Tinkerem" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Tinkerem" src="auto">X@-------------</AM>
+<AM lemma="Tinker_;S" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0532-001-p1s17W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5448,6 +5451,7 @@
 <w.rf>
 <LM>w#w-wsj0532-001-p1s19W21</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>získaný</form>
 <tag>
 <AM lemma="získaný_^(*2t)" src="auto">AAFP1----1A---6</AM>
@@ -5472,10 +5476,9 @@
 <AM lemma="získaný_^(*2t)" src="auto">AANP5----1A---6</AM>
 <AM lemma="získaný_^(*2t)" src="auto">AANS1----1A---6</AM>
 <AM lemma="získaný_^(*2t)" src="auto">AANS4----1A---6</AM>
-<AM lemma="získaný_^(*2t)" src="auto">AANS5----1A---6</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="získaný_^(*2t)" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj0532-001-p1s19W22-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -13097,29 +13097,29 @@
 <tag>
 <AM lemma="O-2_:B_^(kyslík)" src="auto">NNIXX-----A----</AM>
 <AM lemma="O-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="O-77" src="auto">F%-------------</AM>
+<AM lemma="O-77" src="auto" selected="1">F%-------------</AM>
 <AM lemma="O-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="o-1" src="auto">RR--4----------</AM>
 <AM lemma="o-1" src="auto">RR--6----------</AM>
 <AM lemma="o-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="o-77_,t" src="auto">F%-------------</AM>
 <AM lemma="o-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
-<AM lemma="obchodní_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM></tag>
-<comment>
-</comment>
+<AM lemma="obchodní_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-wsj1692-001-p1s40W7-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1692-001-p1s40W7</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Brion</form>
 <tag>
 <AM lemma="Brion_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Brion_;G" src="auto">NNIS4-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Brion_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Brion-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1692-001-p1s40W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

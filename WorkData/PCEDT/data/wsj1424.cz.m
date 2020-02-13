@@ -1498,12 +1498,13 @@
 <w.rf>
 <LM>w#w-wsj1424-001-p1s5W11</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>uvězněny</form>
 <tag>
-<AM lemma="uvěznit" src="auto" recommended="1">VsTP---XX-APP--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="uvěznit" src="auto" recommended="1">VsTP---XX-APP--</AM>
+<AM lemma="uvěznit" src="manual" selected="1">VsTP----X-APP--</AM>
+</tag>
+</m>
 <m id="m-wsj1424-001-p1s5W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2281,12 +2282,10 @@
 <w.rf>
 <LM>w#w-wsj1424-001-p1s8W5</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Gerson</form>
-<tag>
-<AM lemma="Gerson_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="Gerson_;S" src="auto" recommended="1">NNMS1-----A----</tag>
+</m>
 <m id="m-wsj1424-001-p1s8W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7659,7 +7658,8 @@
 <form>Addis</form>
 <tag>
 <AM lemma="Addis_;G_,t_^(Addis_Abeba)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Addis_;G(Addis_Abeba)" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="Addis_;G(Addis_Abeba)" src="manual">AAXXX----1A----</AM>
+<AM lemma="Addis-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj1424-001-p1s24W11-Ta">
@@ -7668,10 +7668,7 @@
 <LM>w#w-wsj1424-001-p1s24W11</LM>
 </w.rf>
 <form>Abeba</form>
-<tag>
-<AM lemma="Abeba_;G" src="auto" recommended="1">NNFS1-----A----</AM></tag>
-<comment>
-</comment>
+<tag lemma="Abeba_;G" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="m-wsj1424-001-p1s24W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8029,22 +8026,25 @@
 <LM>w#w-wsj1424-001-p1s24W36</LM>
 </w.rf>
 <form>Addis</form>
-<tag lemma="Addis_;G_,t_^(Addis_Abeba)" src="auto" recommended="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="Addis_;G_,t_^(Addis_Abeba)" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="Addis-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1424-001-p1s24W37-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1424-001-p1s24W37</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Abeby</form>
 <tag>
 <AM lemma="Abeba_;G" src="auto">NNFP1-----A----</AM>
 <AM lemma="Abeba_;G" src="auto">NNFP4-----A----</AM>
 <AM lemma="Abeba_;G" src="auto">NNFP5-----A----</AM>
-<AM lemma="Abeba_;G" src="auto" recommended="1">NNFS2-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Abeba_;G" src="auto" recommended="1">NNFS2-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1424-001-p1s24W38-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

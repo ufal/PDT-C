@@ -346,9 +346,9 @@
 </w.rf>
 <form>Waukeshe</form>
 <tag>
-<AM lemma="Waukeshe" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
+<AM lemma="Waukeshe" src="auto">X@-------------</AM>
+<AM lemma="Waukesha_;G" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2150-001-p1s0W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -358,23 +358,22 @@
 <form>ve</form>
 <tag>
 <AM lemma="v-1" src="auto">RV--4----------</AM>
-<AM lemma="v-1" src="auto" recommended="1">RV--6----------</AM></tag>
-<comment>
-</comment>
+<AM lemma="v-1" src="auto" recommended="1">RV--6----------</AM>
+</tag>
 </m>
 <m id="m-wsj2150-001-p1s0W28-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2150-001-p1s0W28</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Wisconsinu</form>
 <tag>
 <AM lemma="Wisconsin_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Wisconsin_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Wisconsin_;G" src="auto" recommended="1">NNIS6-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Wisconsin_;G" src="auto" recommended="1">NNIS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2150-001-p1s0W29-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -3717,15 +3717,15 @@
 <w.rf>
 <LM>w#w-wsj0550-001-p1s12W6</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>již</form>
 <tag>
 <AM lemma="jenž_^(kterou_[ve_vedl.větě])" src="auto">PJFS4----------</AM>
 <AM lemma="jenž_^(kteří_[ve_vedl.větě])" src="auto" recommended="1">PJMP1----------</AM>
 <AM lemma="již-1" src="auto">Db-------------</AM>
-<AM lemma="již-2" src="auto">TT-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="již-2" src="auto">TT-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0550-001-p1s12W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9393,12 +9393,13 @@
 <w.rf>
 <LM>w#w-wsj0550-001-p1s31W47</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Roswellovy</form>
 <tag>
-<AM lemma="Roswellovy" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Roswellovy" src="auto">X@-------------</AM>
+<AM lemma="Roswellův_;S_^(*2)" src="manual" selected="1">AUFS2M---------</AM>
+</tag>
+</m>
 <m id="m-wsj0550-001-p1s31W48-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

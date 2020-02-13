@@ -634,16 +634,14 @@
 <LM>w#w-wsj0564-001-p1s2W25</LM>
 </w.rf>
 <form>46</form>
-<tag>
-<AM lemma="46" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="46" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0564-001-p1s2W25-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0564-001-p1s2W25</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letý</form>
 <tag>
 <AM lemma="letý" src="auto">AAFP1----1A---6</AM>
@@ -668,10 +666,9 @@
 <AM lemma="letý" src="auto">AANP5----1A---6</AM>
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
-<AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj0564-001-p1s2W26-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -11471,12 +11468,13 @@
 <w.rf>
 <LM>w#w-wsj0564-001-p1s42W17</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>rozpoutala</form>
 <tag>
-<AM lemma="rozpoutat" src="auto" recommended="1">VpQW---XR-AAP--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="rozpoutat" src="auto" recommended="1">VpQW---XR-AAP--</AM>
+<AM lemma="rozpoutat" src="manual" selected="1">VpQW----R-AAP--</AM>
+</tag>
+</m>
 <m id="m-wsj0564-001-p1s42W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -272,13 +272,13 @@
 <w.rf>
 <LM>w#w-wsj0076-001-p1s2W1</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Společnost</form>
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS4-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFS4-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0076-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -287,7 +287,8 @@
 <form>Reames</form>
 <tag>
 <AM lemma="Reames" src="auto">X@-------------</AM>
-<AM lemma="Reames_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Reames_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Reames-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0076-001-p1s2W3-Ta">

@@ -3145,15 +3145,15 @@
 <w.rf>
 <LM>w#w-wsj0571-001-p1s13W17</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>majiteli</form>
 <tag>
 <AM lemma="majitel" src="auto" recommended="1">NNMP7-----A----</AM>
 <AM lemma="majitel" src="auto">NNMS3-----A----</AM>
 <AM lemma="majitel" src="auto">NNMS5-----A----</AM>
-<AM lemma="majitel" src="auto">NNMS6-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="majitel" src="auto">NNMS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0571-001-p1s13W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8631,12 +8631,13 @@
 <w.rf>
 <LM>w#w-wsj0571-001-p1s31W27</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>kladly</form>
 <tag>
-<AM lemma="klást" src="auto" recommended="1">VpTP---XR-AAI--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="klást" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="klást" src="manual" selected="1">VpTP----R-AAI--</AM>
+</tag>
+</m>
 <m id="m-wsj0571-001-p1s31W28-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

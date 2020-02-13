@@ -21653,14 +21653,15 @@
 <w.rf>
 <LM>w#w-wsj1634-001-p1s85W37</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Tommy</form>
 <tag>
 <AM lemma="Tommy_;Y_,t" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Tommy_;Y_,t" src="auto">NNMS5-----A----</AM>
-<AM lemma="Tommy_;Y_,t" src="auto">NNMXX-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Tommy_;Y_,t" src="auto">NNMXX-----A----</AM>
+<AM lemma="Tommy_;Y" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1634-001-p1s85W38-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -23241,6 +23242,7 @@
 <w.rf>
 <LM>w#w-wsj1634-001-p1s91W12</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>raných</form>
 <tag>
 <AM lemma="raný" src="auto">AAFP2----1A----</AM>
@@ -23250,10 +23252,9 @@
 <AM lemma="raný" src="auto">AAMP2----1A----</AM>
 <AM lemma="raný" src="auto">AAMP6----1A----</AM>
 <AM lemma="raný" src="auto">AANP2----1A----</AM>
-<AM lemma="raný" src="auto" recommended="1">AANP6----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="raný" src="auto" recommended="1">AANP6----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1634-001-p1s91W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -26570,13 +26571,14 @@
 <w.rf>
 <LM>w#w-wsj1634-001-p1s104W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Guber</form>
 <tag>
 <AM lemma="Guber_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Guber_;G" src="auto">NNIS4-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Guber_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Guber-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1634-001-p1s104W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

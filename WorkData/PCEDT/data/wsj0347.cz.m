@@ -1821,16 +1821,14 @@
 <LM>w#w-wsj0347-001-p1s6W15</LM>
 </w.rf>
 <form>42</form>
-<tag>
-<AM lemma="42" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="42" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0347-001-p1s6W15-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0347-001-p1s6W15</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>denní</form>
 <tag>
 <AM lemma="denní" src="auto">AAFP1----1A----</AM>
@@ -1859,10 +1857,9 @@
 <AM lemma="denní" src="auto">AANP5----1A----</AM>
 <AM lemma="denní" src="auto">AANS1----1A----</AM>
 <AM lemma="denní" src="auto">AANS4----1A----</AM>
-<AM lemma="denní" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="denní" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0347-001-p1s6W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4005,16 +4002,16 @@
 <w.rf>
 <LM>w#w-wsj0347-001-p1s13W3</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Washingtonu</form>
 <tag>
 <AM lemma="Washington-1_;S" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Washington-1_;S" src="auto">NNMS6-----A---1</AM>
 <AM lemma="Washington-2_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Washington-2_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Washington-2_;G" src="auto" recommended="1">NNIS6-----A---1</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Washington-2_;G" src="auto" recommended="1">NNIS6-----A---1</AM>
+</tag>
+</m>
 <m id="m-wsj0347-001-p1s13W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5698,12 +5695,13 @@
 <w.rf>
 <LM>w#w-wsj0347-001-p1s17W9</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>přivezl</form>
 <tag>
-<AM lemma="přivézt" src="auto" recommended="1">VpYS---XR-AAP--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="přivézt" src="auto" recommended="1">VpYS---XR-AAP--</AM>
+<AM lemma="přivézt" src="manual" selected="1">VpYS----R-AAP--</AM>
+</tag>
+</m>
 <m id="m-wsj0347-001-p1s17W10-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6897,6 +6895,7 @@
 <w.rf>
 <LM>w#w-wsj0347-001-p1s22W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>také</form>
 <tag>
 <AM lemma="taký" src="auto">PDFP1----------</AM>
@@ -6911,10 +6910,9 @@
 <AM lemma="taký" src="auto">PDNP4---------6</AM>
 <AM lemma="taký" src="auto">PDNS1----------</AM>
 <AM lemma="taký" src="auto">PDNS4----------</AM>
-<AM lemma="také" src="auto" recommended="1">Db-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="také" src="auto" recommended="1">Db-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0347-001-p1s22W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8095,12 +8093,10 @@
 <w.rf>
 <LM>w#w-wsj0347-001-p1s25W24</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Američanů</form>
-<tag>
-<AM lemma="Američan_;E" src="auto" recommended="1">NNMP2-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="Američan_;E" src="auto" recommended="1">NNMP2-----A----</tag>
+</m>
 <m id="m-wsj0347-001-p1s25W25-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9149,16 +9145,16 @@
 <w.rf>
 <LM>w#w-wsj0347-001-p1s29W6</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Vietnamci</form>
 <tag>
 <AM lemma="Vietnamec_;E" src="auto">NNMP1-----A----</AM>
 <AM lemma="Vietnamec_;E" src="auto">NNMP5-----A----</AM>
 <AM lemma="Vietnamec_;E" src="auto">NNMP7-----A----</AM>
 <AM lemma="Vietnamec_;E" src="auto" recommended="1">NNMS3-----A----</AM>
-<AM lemma="Vietnamec_;E" src="auto">NNMS6-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Vietnamec_;E" src="auto">NNMS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0347-001-p1s29W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

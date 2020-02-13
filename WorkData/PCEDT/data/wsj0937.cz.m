@@ -6371,13 +6371,14 @@
 <w.rf>
 <LM>w#w-wsj0937-001-p1s16W11</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>si</form>
 <tag>
 <AM lemma="být" src="auto">VB-S---2P-AAI-7</AM>
-<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X3----------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X3----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="manual" selected="1">P7--3----------</AM>
+</tag>
+</m>
 <m id="m-wsj0937-001-p1s16W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9054,16 +9055,16 @@
 <w.rf>
 <LM>w#w-wsj0937-001-p1s23W25</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>mezi</form>
 <tag>
 <AM lemma="mez" src="auto">NNFS3-----A----</AM>
 <AM lemma="mez" src="auto">NNFS5-----A----</AM>
 <AM lemma="mez" src="auto">NNFS6-----A----</AM>
 <AM lemma="mezi-1" src="auto">RR--4----------</AM>
-<AM lemma="mezi-1" src="auto" recommended="1">RR--7----------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="mezi-1" src="auto" recommended="1">RR--7----------</AM>
+</tag>
+</m>
 <m id="m-wsj0937-001-p1s23W26-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -15326,12 +15327,10 @@
 <w.rf>
 <LM>w#w-wsj0937-001-p1s47W20</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>hodnotu</form>
-<tag>
-<AM lemma="hodnota" src="auto" recommended="1">NNFS4-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="hodnota" src="auto" recommended="1">NNFS4-----A----</tag>
+</m>
 <m id="m-wsj0937-001-p1s47W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

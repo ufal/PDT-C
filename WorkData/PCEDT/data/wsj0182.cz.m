@@ -1073,21 +1073,19 @@
 <tag>
 <AM lemma="r-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="r-88_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="rok_:B" src="auto" recommended="1">NNIXX-----A---8</AM></tag>
-<comment>
-</comment>
+<AM lemma="rok_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="ručení" src="manual" selected="1">NNNS7-----A---b</AM>
+</tag>
 </m>
 <m id="m-wsj0182-001-p1s3W26-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0182-001-p1s3W26</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
 <m id="m-wsj0182-001-p1s3W27-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

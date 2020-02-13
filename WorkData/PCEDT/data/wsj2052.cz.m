@@ -3300,14 +3300,14 @@
 <w.rf>
 <LM>w#w-wsj2052-001-p1s16W13</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>režimu</form>
 <tag>
 <AM lemma="režim" src="auto">NNIS2-----A----</AM>
 <AM lemma="režim" src="auto" recommended="1">NNIS3-----A----</AM>
-<AM lemma="režim" src="auto">NNIS6-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="režim" src="auto">NNIS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2052-001-p1s16W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9551,12 +9551,13 @@
 <w.rf>
 <LM>w#w-wsj2052-001-p1s39W4</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>podporováni</form>
 <tag>
-<AM lemma="podporovat" src="auto" recommended="1">VsMP---XX-API--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="podporovat" src="auto" recommended="1">VsMP---XX-API--</AM>
+<AM lemma="podporovat" src="manual" selected="1">VsMP----X-API--</AM>
+</tag>
+</m>
 <m id="m-wsj2052-001-p1s39W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10223,14 +10224,14 @@
 <w.rf>
 <LM>w#w-wsj2052-001-p1s41W10</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Kandaháru</form>
 <tag>
 <AM lemma="Kandahár_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Kandahár_;G" src="auto">NNIS3-----A----</AM>
-<AM lemma="Kandahár_;G" src="auto" recommended="1">NNIS6-----A---1</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Kandahár_;G" src="auto" recommended="1">NNIS6-----A---1</AM>
+</tag>
+</m>
 <m id="m-wsj2052-001-p1s41W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

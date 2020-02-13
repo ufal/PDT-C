@@ -3153,9 +3153,8 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-wsj2453-001-p1s8W5-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -3163,22 +3162,20 @@
 <LM>w#w-wsj2453-001-p1s8W5</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj2453-001-p1s8W5-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2453-001-p1s8W5</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Growe</form>
 <tag>
-<AM lemma="Growe" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Growe" src="auto">X@-------------</AM>
+<AM lemma="Growe_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2453-001-p1s8W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

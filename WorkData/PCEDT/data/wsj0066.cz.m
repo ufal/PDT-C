@@ -57,16 +57,14 @@
 <LM>w#w-wsj0066-001-p1s0W5</LM>
 </w.rf>
 <form>58</form>
-<tag>
-<AM lemma="58" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="58" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0066-001-p1s0W5-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0066-001-p1s0W5</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letý</form>
 <tag>
 <AM lemma="letý" src="auto">AAFP1----1A---6</AM>
@@ -91,10 +89,9 @@
 <AM lemma="letý" src="auto">AANP5----1A---6</AM>
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
-<AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj0066-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -463,16 +460,14 @@
 <LM>w#w-wsj0066-001-p1s1W4</LM>
 </w.rf>
 <form>65</form>
-<tag>
-<AM lemma="65" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="65" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0066-001-p1s1W4-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0066-001-p1s1W4</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letý</form>
 <tag>
 <AM lemma="letý" src="auto">AAFP1----1A---6</AM>
@@ -497,10 +492,14 @@
 <AM lemma="letý" src="auto">AANP5----1A---6</AM>
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
-<AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
+<AM lemma="letý" src="auto">AANS5----1A---6</AM>
+</tag>
 <comment>
+<LM type="New Form">
+<text>letého</text>
+</LM>
 </comment>
-<form_change>spell</form_change></m>
+</m>
 <m id="m-wsj0066-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

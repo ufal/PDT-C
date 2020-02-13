@@ -4669,14 +4669,14 @@
 <w.rf>
 <LM>w#w-wsj1208-001-p1s21W30</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>z</form>
 <tag>
 <AM lemma="z-1" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="z-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="z-88_:B" src="auto">NNXXX-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="z-88_:B" src="auto">NNXXX-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1208-001-p1s21W31-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5610,12 +5610,13 @@
 <w.rf>
 <LM>w#w-wsj1208-001-p1s27W7</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>naznačilo</form>
 <tag>
-<AM lemma="naznačit" src="auto" recommended="1">VpNS---XR-AAP--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="naznačit" src="auto" recommended="1">VpNS---XR-AAP--</AM>
+<AM lemma="naznačit" src="manual" selected="1">VpNS----R-AAP--</AM>
+</tag>
+</m>
 <m id="m-wsj1208-001-p1s27W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7954,15 +7955,16 @@
 <w.rf>
 <LM>w#w-wsj1208-001-p1s35W1</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Dvaceti</form>
 <tag>
 <AM lemma="dvacet`20" src="auto">Cn-P2----------</AM>
 <AM lemma="dvacet`20" src="auto" recommended="1">Cn-P3----------</AM>
 <AM lemma="dvacet`20" src="auto">Cn-P6----------</AM>
-<AM lemma="dvacet`20" src="auto">Cn-P7----------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="dvacet`20" src="auto">Cn-P7----------</AM>
+<AM lemma="dvaceti`20" src="manual" selected="1">S2--------A----</AM>
+</tag>
+</m>
 <m id="m-wsj1208-001-p1s35W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8774,9 +8776,9 @@
 </w.rf>
 <form>zaznamenala</form>
 <tag>
-<AM lemma="zaznamenat" src="auto" recommended="1">VpQW---XR-AAP--</AM></tag>
-<comment>
-</comment>
+<AM lemma="zaznamenat" src="auto" recommended="1">VpQW---XR-AAP--</AM>
+<AM lemma="zaznamenat" src="manual" selected="1">VpQW----R-AAP--</AM>
+</tag>
 </m>
 <m id="m-wsj1208-001-p1s38W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9080,21 +9082,22 @@
 </w.rf>
 <form>bylo</form>
 <tag>
-<AM lemma="být" src="auto" recommended="1">VpNS---XR-AAI--</AM></tag>
-<comment>
-</comment>
+<AM lemma="být" src="auto" recommended="1">VpNS---XR-AAI--</AM>
+<AM lemma="být" src="manual" selected="1">VpNS----R-AAI--</AM>
+</tag>
 </m>
 <m id="m-wsj1208-001-p1s38W44-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1208-001-p1s38W44</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>nasměrováno</form>
 <tag>
-<AM lemma="nasměrovat" src="auto" recommended="1">VsNS---XX-APP--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="nasměrovat" src="auto" recommended="1">VsNS---XX-APP--</AM>
+<AM lemma="nasměrovat" src="manual" selected="1">VsNS----X-APP--</AM>
+</tag>
+</m>
 <m id="m-wsj1208-001-p1s38W45-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -19025,12 +19028,13 @@
 <w.rf>
 <LM>w#w-wsj1208-001-p1s74W75</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>sklouzla</form>
 <tag>
-<AM lemma="sklouznout" src="auto" recommended="1">VpQW---XR-AAP-1</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="sklouznout" src="auto" recommended="1">VpQW---XR-AAP-1</AM>
+<AM lemma="sklouznout" src="manual" selected="1">VpQW----R-AAP-1</AM>
+</tag>
+</m>
 <m id="m-wsj1208-001-p1s74W76-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -22650,13 +22654,13 @@
 <w.rf>
 <LM>w#w-wsj1208-001-p1s85W44</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>společnost</form>
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS4-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFS4-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1208-001-p1s85W45-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

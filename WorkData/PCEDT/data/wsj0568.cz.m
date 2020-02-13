@@ -9573,14 +9573,14 @@
 <w.rf>
 <LM>w#w-wsj0568-001-p1s29W23</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>akcii</form>
 <tag>
 <AM lemma="akcie" src="auto">NNFS3-----A----</AM>
-<AM lemma="akcie" src="auto">NNFS4-----A----</AM>
-<AM lemma="akcie" src="auto" recommended="1">NNFS6-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="akcie" src="auto" selected="1">NNFS4-----A----</AM>
+<AM lemma="akcie" src="auto" recommended="1">NNFS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0568-001-p1s29W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

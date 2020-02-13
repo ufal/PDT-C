@@ -115,21 +115,18 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="takzvaně_:B" src="auto">Dg-------1A---8</AM></tag>
-<comment>
-</comment>
+<AM lemma="takzvaně_:B" src="auto">Dg-------1A---8</AM>
+</tag>
 </m>
 <m id="m-wsj1760-001-p1s0W7-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1760-001-p1s0W7</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
 <m id="m-wsj1760-001-p1s0W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -730,12 +727,13 @@
 <w.rf>
 <LM>w#w-wsj1760-001-p1s2W6</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Conradieových</form>
 <tag>
-<AM lemma="Conradieových" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Conradieových" src="auto">X@-------------</AM>
+<AM lemma="Conradieův_;S_^(*2)" src="manual" selected="1">AUIP2M---------</AM>
+</tag>
+</m>
 <m id="m-wsj1760-001-p1s2W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6308,6 +6306,7 @@
 <w.rf>
 <LM>w#w-wsj1760-001-p1s25W12</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>vlastní</form>
 <tag>
 <AM lemma="vlastnit_^(někdo_má_něco_ve_vlastnictví)" src="auto">VB-P---3P-AAI--</AM>
@@ -6338,10 +6337,9 @@
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANP5----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANS1----1A----</AM>
 <AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANS4----1A----</AM>
-<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="vlastní_^(příslušný_k_něčemu)" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1760-001-p1s25W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10605,12 +10603,13 @@
 <w.rf>
 <LM>w#w-wsj1760-001-p1s42W3</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Verwoerda</form>
 <tag>
-<AM lemma="Verwoerda" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Verwoerda" src="auto">X@-------------</AM>
+<AM lemma="Verwoerd_;S" src="manual" selected="1">NNMS2-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1760-001-p1s42W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

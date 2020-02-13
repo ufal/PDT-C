@@ -6036,21 +6036,22 @@
 <form>Josephem</form>
 <tag>
 <AM lemma="Joseph_;Y_,t" src="auto" recommended="1">NNMS7-----A----</AM>
-<AM lemma="Josephus_;Y_,t" src="auto">NNMS7-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="Josephus_;Y_,t" src="auto">NNMS7-----A----</AM>
+<AM lemma="Joseph_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1149-001-p1s20W25-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1149-001-p1s20W25</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>DiGenovou</form>
 <tag>
-<AM lemma="DiGenovou" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="DiGenovou" src="auto">X@-------------</AM>
+<AM lemma="DiGenova_;S" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1149-001-p1s20W26-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6791,6 +6792,7 @@
 <w.rf>
 <LM>w#w-wsj1149-001-p1s22W27</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>které</form>
 <tag>
 <AM lemma="který" src="auto">P4FP1----------</AM>
@@ -6803,10 +6805,9 @@
 <AM lemma="který" src="auto">P4NP4---------6</AM>
 <AM lemma="který" src="auto" recommended="1">P4NS1----------</AM>
 <AM lemma="který" src="auto">P4NS4----------</AM>
-<AM lemma="který" src="auto">P4YP4----------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="který" src="auto">P4YP4----------</AM>
+</tag>
+</m>
 <m id="m-wsj1149-001-p1s22W28-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

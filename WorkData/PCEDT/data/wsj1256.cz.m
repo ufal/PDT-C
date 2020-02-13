@@ -1387,12 +1387,13 @@
 <w.rf>
 <LM>w#w-wsj1256-001-p1s5W3</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Rayfulem</form>
 <tag>
-<AM lemma="Rayfulem" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Rayfulem" src="auto">X@-------------</AM>
+<AM lemma="Rayful_;Y" src="manual" selected="1">NNMS7-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1256-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

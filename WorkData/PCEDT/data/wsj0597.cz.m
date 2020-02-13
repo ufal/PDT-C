@@ -87,7 +87,8 @@
 <AM lemma="Illinois" src="auto">NNIS7-----A---1</AM>
 <AM lemma="Illinois_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Illinois_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Illinois_;G" src="manual" selected="1">NNIS6-----A---1</AM>
+<AM lemma="Illinois_;G" src="manual">NNIS6-----A---1</AM>
+<AM lemma="Illinois_;G_;K" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0597-001-p1s0W5-Ta">
@@ -605,19 +606,19 @@
 <w.rf>
 <LM>w#w-wsj0597-001-p1s0W44</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>patřících</form>
 <tag>
 <AM lemma="patřící_^(*3it)" src="auto">AGFP2-----A----</AM>
 <AM lemma="patřící_^(*3it)" src="auto">AGFP6-----A----</AM>
 <AM lemma="patřící_^(*3it)" src="auto">AGIP2-----A----</AM>
-<AM lemma="patřící_^(*3it)" src="auto">AGIP6-----A----</AM>
+<AM lemma="patřící_^(*3it)" src="auto" selected="1">AGIP6-----A----</AM>
 <AM lemma="patřící_^(*3it)" src="auto" recommended="1">AGMP2-----A----</AM>
 <AM lemma="patřící_^(*3it)" src="auto">AGMP6-----A----</AM>
 <AM lemma="patřící_^(*3it)" src="auto">AGNP2-----A----</AM>
-<AM lemma="patřící_^(*3it)" src="auto">AGNP6-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="patřící_^(*3it)" src="auto">AGNP6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0597-001-p1s0W45-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -8472,12 +8472,13 @@
 <w.rf>
 <LM>w#w-wsj0592-001-p1s29W7</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>ponecháni</form>
 <tag>
-<AM lemma="ponechat" src="auto" recommended="1">VsMP---XX-APP--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="ponechat" src="auto" recommended="1">VsMP---XX-APP--</AM>
+<AM lemma="ponechat" src="manual" selected="1">VsMP----X-APP--</AM>
+</tag>
+</m>
 <m id="m-wsj0592-001-p1s29W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -1823,21 +1823,19 @@
 </w.rf>
 <form>Dunkin</form>
 <tag>
-<AM lemma="Dunkin" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
+<AM lemma="Dunkin" src="auto">X@-------------</AM>
+<AM lemma="Dunkin_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0159-001-p1s5W2-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0159-001-p1s5W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
+</m>
 <m id="m-wsj0159-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2248,21 +2246,19 @@
 </w.rf>
 <form>Dunkin</form>
 <tag>
-<AM lemma="Dunkin" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
+<AM lemma="Dunkin" src="auto">X@-------------</AM>
+<AM lemma="Dunkin_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0159-001-p1s7W2-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0159-001-p1s7W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
+</m>
 <m id="m-wsj0159-001-p1s7W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2336,7 +2332,8 @@
 <form>Massachussetts</form>
 <tag>
 <AM lemma="Massachussetts" src="auto">X@-------------</AM>
-<AM lemma="Massachussetts_;G_,h_^(^GC**Massachusetts)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Massachussetts_;G_,h_^(^GC**Massachusetts)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Massachussetts_;G_,h_^(^GC**Massachusetts)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0159-001-p1s7W9-Ta">

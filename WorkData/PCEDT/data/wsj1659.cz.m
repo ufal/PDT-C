@@ -2012,8 +2012,8 @@
 </w.rf>
 <form>na</form>
 <tag>
-<AM lemma="na-1" src="auto" selected="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto" recommended="1">RR--6----------</AM>
+<AM lemma="na-1" src="auto">RR--4----------</AM>
+<AM lemma="na-1" src="auto" recommended="1" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>
@@ -2025,12 +2025,12 @@
 <form>starosti</form>
 <tag>
 <AM lemma="starost-2_^(člověk,_věc)_(péče,_neklid)_(*5ý-2)" src="auto">NNFP1-----A----</AM>
-<AM lemma="starost-2_^(člověk,_věc)_(péče,_neklid)_(*5ý-2)" src="auto" selected="1">NNFP4-----A----</AM>
+<AM lemma="starost-2_^(člověk,_věc)_(péče,_neklid)_(*5ý-2)" src="auto">NNFP4-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(péče,_neklid)_(*5ý-2)" src="auto">NNFP5-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(péče,_neklid)_(*5ý-2)" src="auto">NNFS2-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(péče,_neklid)_(*5ý-2)" src="auto">NNFS3-----A----</AM>
 <AM lemma="starost-2_^(člověk,_věc)_(péče,_neklid)_(*5ý-2)" src="auto">NNFS5-----A----</AM>
-<AM lemma="starost-2_^(člověk,_věc)_(péče,_neklid)_(*5ý-2)" src="auto" recommended="1">NNFS6-----A----</AM>
+<AM lemma="starost-2_^(člověk,_věc)_(péče,_neklid)_(*5ý-2)" src="auto" recommended="1" selected="1">NNFS6-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1659-001-p1s3W58-Ta">
@@ -2091,23 +2091,21 @@
 <LM>w#w-wsj1659-001-p1s3W63</LM>
 </w.rf>
 <form>13</form>
-<tag>
-<AM lemma="13" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="13" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1659-001-p1s3W63-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1659-001-p1s3W63</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>th</form>
 <tag>
 <AM lemma="th-77_,t" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="th-88_:B" src="auto">NNXXX-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="th-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="th-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m-wsj1659-001-p1s3W64-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

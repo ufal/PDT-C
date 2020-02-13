@@ -533,15 +533,15 @@
 <w.rf>
 <LM>w#w-wsj1406-001-p1s1W8</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>roku</form>
 <tag>
 <AM lemma="rok" src="auto" recommended="1">NNIS2-----A---1</AM>
-<AM lemma="rok" src="auto">NNIS3-----A----</AM>
+<AM lemma="rok" src="auto" selected="1">NNIS3-----A----</AM>
 <AM lemma="rok" src="auto">NNIS5-----A----</AM>
-<AM lemma="rok" src="auto">NNIS6-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="rok" src="auto">NNIS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1406-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

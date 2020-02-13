@@ -4631,13 +4631,13 @@
 <w.rf>
 <LM>w#w-wsj0634-001-p1s15W24</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>agentuře</form>
 <tag>
 <AM lemma="agentura" src="auto" recommended="1">NNFS3-----A----</AM>
-<AM lemma="agentura" src="auto">NNFS6-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="agentura" src="auto" selected="1">NNFS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0634-001-p1s15W25-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

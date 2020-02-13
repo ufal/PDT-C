@@ -17,9 +17,9 @@
 </w.rf>
 <form>Byla</form>
 <tag>
-<AM lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</AM></tag>
-<comment>
-</comment>
+<AM lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</AM>
+<AM lemma="být" src="manual" selected="1">VpQW----R-AAI--</AM>
+</tag>
 </m>
 <m id="m-wsj1588-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -36,9 +36,9 @@
 </w.rf>
 <form>zděšena</form>
 <tag>
-<AM lemma="zděsit" src="auto" recommended="1">VsQW---XX-APP--</AM></tag>
-<comment>
-</comment>
+<AM lemma="zděsit" src="auto" recommended="1">VsQW---XX-APP--</AM>
+<AM lemma="zděsit" src="manual" selected="1">VsQW----X-APP--</AM>
+</tag>
 </m>
 <m id="m-wsj1588-001-p1s0W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -237,12 +237,13 @@
 <w.rf>
 <LM>w#w-wsj1588-001-p1s0W20</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>četla</form>
 <tag>
-<AM lemma="číst" src="auto" recommended="1">VpQW---XR-AAI--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="číst" src="auto" recommended="1">VpQW---XR-AAI--</AM>
+<AM lemma="číst" src="manual" selected="1">VpQW----R-AAI--</AM>
+</tag>
+</m>
 <m id="m-wsj1588-001-p1s0W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

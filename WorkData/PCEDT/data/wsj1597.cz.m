@@ -2340,15 +2340,15 @@
 <w.rf>
 <LM>w#w-wsj1597-001-p1s6W23</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>zahrnujícími</form>
 <tag>
 <AM lemma="zahrnující_^(*5ovat)" src="auto" recommended="1">AGFP7-----A----</AM>
-<AM lemma="zahrnující_^(*5ovat)" src="auto">AGIP7-----A----</AM>
+<AM lemma="zahrnující_^(*5ovat)" src="auto" selected="1">AGIP7-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGMP7-----A----</AM>
-<AM lemma="zahrnující_^(*5ovat)" src="auto">AGNP7-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="zahrnující_^(*5ovat)" src="auto">AGNP7-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1597-001-p1s6W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

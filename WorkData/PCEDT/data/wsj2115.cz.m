@@ -1244,6 +1244,7 @@
 <w.rf>
 <LM>w#w-wsj2115-001-p1s2W25</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>účetních</form>
 <tag>
 <AM lemma="účetní-1" src="auto">AAFP2----1A----</AM>
@@ -1254,13 +1255,12 @@
 <AM lemma="účetní-1" src="auto">AAMP6----1A----</AM>
 <AM lemma="účetní-1" src="auto">AANP2----1A----</AM>
 <AM lemma="účetní-1" src="auto">AANP6----1A----</AM>
-<AM lemma="účetní-2" src="auto">NNMP2-----A----</AM>
+<AM lemma="účetní-2" src="auto" selected="1">NNMP2-----A----</AM>
 <AM lemma="účetní-2" src="auto">NNMP6-----A----</AM>
 <AM lemma="účetní-3" src="auto" recommended="1">NNFP2-----A----</AM>
-<AM lemma="účetní-3" src="auto">NNFP6-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="účetní-3" src="auto">NNFP6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2115-001-p1s2W26-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2435,23 +2435,20 @@
 <LM>w#w-wsj2115-001-p1s6W5</LM>
 </w.rf>
 <form>12</form>
-<tag>
-<AM lemma="12" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="12" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj2115-001-p1s6W5-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2115-001-p1s6W5</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letou</form>
 <tag>
 <AM lemma="letý" src="auto" recommended="1">AAFS4----1A----</AM>
-<AM lemma="letý" src="auto">AAFS7----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AAFS7----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj2115-001-p1s6W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
