@@ -16,14 +16,14 @@ shift @ARGV;
 
 my $lemmas = Ufal::MorphoDiTa::TaggedLemmas->new();
 
-open (my $f_unique_lemma_comment_change, "|-", "LC_COLLATE=cs_CZ sort -u >unique-lemma_comment_change.txt") or die;
-open (my $f_unique_lemma_sense_change, "|-", "LC_COLLATE=cs_CZ sort -u >unique-lemma_sense_change.txt") or die;
-open (my $f_unique_tag_change, "|-", "LC_COLLATE=cs_CZ sort -u >unique-tag_change.txt") or die;
-open (my $f_unique_rest, "|-", "LC_COLLATE=cs_CZ sort -u >unique-rest.txt") or die;
-open (my $f_multiple_lemma_comment_change, "|-", "LC_COLLATE=cs_CZ sort -u >multiple-lemma_comment_change.txt") or die;
-open (my $f_multiple_lemma_sense_change, "|-", "LC_COLLATE=cs_CZ sort -u >multiple-lemma_sense_change.txt") or die;
-open (my $f_multiple_tag_change, "|-", "LC_COLLATE=cs_CZ sort -u >multiple-tag_change.txt") or die;
-open (my $f_multiple_rest, "|-", "LC_COLLATE=cs_CZ sort -u >multiple-rest.txt") or die;
+open (my $f_unique_lemma_comment_change, "|-", "LC_COLLATE=cs_CZ sort | uniq -c | LC_COLLATE=cs_CZ sort -nrk1,1 -s >unique-lemma_comment_change.txt") or die;
+open (my $f_unique_lemma_sense_change, "|-", "LC_COLLATE=cs_CZ sort | uniq -c | LC_COLLATE=cs_CZ sort -nrk1,1 -s >unique-lemma_sense_change.txt") or die;
+open (my $f_unique_tag_change, "|-", "LC_COLLATE=cs_CZ sort | uniq -c | LC_COLLATE=cs_CZ sort -nrk1,1 -s >unique-tag_change.txt") or die;
+open (my $f_unique_rest, "|-", "LC_COLLATE=cs_CZ sort | uniq -c | LC_COLLATE=cs_CZ sort -nrk1,1 -s >unique-rest.txt") or die;
+open (my $f_multiple_lemma_comment_change, "|-", "LC_COLLATE=cs_CZ sort | uniq -c | LC_COLLATE=cs_CZ sort -nrk1,1 -s >multiple-lemma_comment_change.txt") or die;
+open (my $f_multiple_lemma_sense_change, "|-", "LC_COLLATE=cs_CZ sort | uniq -c | LC_COLLATE=cs_CZ sort -nrk1,1 -s >multiple-lemma_sense_change.txt") or die;
+open (my $f_multiple_tag_change, "|-", "LC_COLLATE=cs_CZ sort | uniq -c | LC_COLLATE=cs_CZ sort -nrk1,1 -s >multiple-tag_change.txt") or die;
+open (my $f_multiple_rest, "|-", "LC_COLLATE=cs_CZ sort | uniq -c | LC_COLLATE=cs_CZ sort -nrk1,1 -s >multiple-rest.txt") or die;
 
 my ($total, $full_matches, $unique_lemma_comment_change, $unique_lemma_sense_change, $unique_tag_change, $unique_rest) = (0, 0, 0, 0, 0, 0);
 my ($multiple_lemma_comment_change, $multiple_lemma_sense_change, $multiple_tag_change, $multiple_rest, $no_analysis) = (0, 0, 0, 0, 0);
