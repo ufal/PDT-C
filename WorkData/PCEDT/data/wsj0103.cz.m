@@ -1972,7 +1972,7 @@
 <form_change>spell</form_change>
 <form>byla</form>
 <tag>
-<AM lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</AM>
+<AM lemma="být" src="auto" recommended="1">VpQW----R-AAI--</AM>
 <AM lemma="být" src="manual" selected="1">VpQW----R-AAI--</AM>
 </tag>
 </m>

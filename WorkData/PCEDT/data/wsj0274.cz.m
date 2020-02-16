@@ -9364,7 +9364,7 @@
 </w.rf>
 <form>začali</form>
 <tag>
-<AM lemma="začít-1_^(začnout)" src="auto" recommended="1">VpMP---XR-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="auto" recommended="1">VpMP----R-AAP--</AM>
 <AM lemma="začít-1_^(začnout)" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>

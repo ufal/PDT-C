@@ -4334,7 +4334,7 @@
 </w.rf>
 <form>získal</form>
 <tag>
-<AM lemma="získat" src="auto" recommended="1">VpYS---XR-AAP--</AM>
+<AM lemma="získat" src="auto" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="získat" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>

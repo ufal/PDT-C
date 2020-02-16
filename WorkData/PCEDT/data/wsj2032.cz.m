@@ -6012,7 +6012,7 @@
 <form_change>spell</form_change>
 <form>analyzovaly</form>
 <tag>
-<AM lemma="analyzovat" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="analyzovat" src="auto" recommended="1">VpTP----R-AAI--</AM>
 <AM lemma="analyzovat" src="manual" selected="1">VpTP----R-AAI--</AM>
 </tag>
 </m>

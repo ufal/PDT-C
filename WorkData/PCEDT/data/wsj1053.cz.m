@@ -904,7 +904,7 @@
 <form_change>spell</form_change>
 <form>skončilo</form>
 <tag>
-<AM lemma="skončit" src="auto" recommended="1">VpNS---XR-AAP--</AM>
+<AM lemma="skončit" src="auto" recommended="1">VpNS----R-AAP--</AM>
 <AM lemma="skončit" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>

@@ -294,7 +294,7 @@
 <form_change>spell</form_change>
 <form>byly</form>
 <tag>
-<AM lemma="být" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="být" src="auto" recommended="1">VpTP----R-AAI--</AM>
 <AM lemma="být" src="manual" selected="1">VpTP----R-AAI--</AM>
 </tag>
 </m>

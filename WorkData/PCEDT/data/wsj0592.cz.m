@@ -8475,7 +8475,7 @@
 <form_change>spell</form_change>
 <form>ponecháni</form>
 <tag>
-<AM lemma="ponechat" src="auto" recommended="1">VsMP---XX-APP--</AM>
+<AM lemma="ponechat" src="auto" recommended="1">VsMP----X-APP--</AM>
 <AM lemma="ponechat" src="manual" selected="1">VsMP----X-APP--</AM>
 </tag>
 </m>

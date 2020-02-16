@@ -7068,7 +7068,7 @@
 <form_change>spell</form_change>
 <form>přišly</form>
 <tag>
-<AM lemma="přijít" src="auto" recommended="1">VpTP---XR-AAP--</AM>
+<AM lemma="přijít" src="auto" recommended="1">VpTP----R-AAP--</AM>
 <AM lemma="přijít" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>

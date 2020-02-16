@@ -11369,7 +11369,7 @@
 </w.rf>
 <form>ukradl</form>
 <tag>
-<AM lemma="ukradnout" src="auto" recommended="1">VpYS---XR-AAP-1</AM>
+<AM lemma="ukradnout" src="auto" recommended="1">VpYS----R-AAP-1</AM>
 <AM lemma="ukradnout" src="manual" selected="1">VpYS----R-AAP-1</AM>
 </tag>
 </m>

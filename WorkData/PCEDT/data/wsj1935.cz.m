@@ -8515,7 +8515,7 @@
 <form_change>spell</form_change>
 <form>Měly</form>
 <tag>
-<AM lemma="mít" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="mít" src="auto" recommended="1">VpTP----R-AAI--</AM>
 <AM lemma="mít" src="manual" selected="1">VpTP----R-AAI--</AM>
 </tag>
 </m>

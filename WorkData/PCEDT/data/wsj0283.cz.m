@@ -7467,7 +7467,7 @@
 </w.rf>
 <form>byli</form>
 <tag>
-<AM lemma="být" src="auto" recommended="1">VpMP---XR-AAI--</AM>
+<AM lemma="být" src="auto" recommended="1">VpMP----R-AAI--</AM>
 <AM lemma="být" src="manual" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>
@@ -7479,7 +7479,7 @@
 <form_change>spell</form_change>
 <form>shledáni</form>
 <tag>
-<AM lemma="shledat" src="auto" recommended="1">VsMP---XX-APP--</AM>
+<AM lemma="shledat" src="auto" recommended="1">VsMP----X-APP--</AM>
 <AM lemma="shledat" src="manual" selected="1">VsMP----X-APP--</AM>
 </tag>
 </m>

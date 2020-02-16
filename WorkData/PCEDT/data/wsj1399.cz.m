@@ -3239,7 +3239,7 @@
 <form_change>spell</form_change>
 <form>zkomplikovala</form>
 <tag>
-<AM lemma="zkomplikovat" src="auto" recommended="1">VpQW---XR-AAP--</AM>
+<AM lemma="zkomplikovat" src="auto" recommended="1">VpQW----R-AAP--</AM>
 <AM lemma="zkomplikovat" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>

@@ -9554,7 +9554,7 @@
 <form_change>spell</form_change>
 <form>podporováni</form>
 <tag>
-<AM lemma="podporovat" src="auto" recommended="1">VsMP---XX-API--</AM>
+<AM lemma="podporovat" src="auto" recommended="1">VsMP----X-API--</AM>
 <AM lemma="podporovat" src="manual" selected="1">VsMP----X-API--</AM>
 </tag>
 </m>

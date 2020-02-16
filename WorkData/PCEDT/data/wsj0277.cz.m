@@ -6352,7 +6352,7 @@
 <form_change>spell</form_change>
 <form>požádala</form>
 <tag>
-<AM lemma="požádat" src="auto" recommended="1">VpQW---XR-AAP--</AM>
+<AM lemma="požádat" src="auto" recommended="1">VpQW----R-AAP--</AM>
 <AM lemma="požádat" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>

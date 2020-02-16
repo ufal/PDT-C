@@ -11570,7 +11570,7 @@
 </w.rf>
 <form>degradováni</form>
 <tag>
-<AM lemma="degradovat" src="auto" recommended="1">VsMP---XX-APB--</AM>
+<AM lemma="degradovat" src="auto" recommended="1">VsMP----X-APB--</AM>
 <AM lemma="degradovat" src="manual" selected="1">VsMP----X-APB--</AM>
 </tag>
 </m>

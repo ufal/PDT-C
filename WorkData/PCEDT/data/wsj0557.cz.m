@@ -2073,7 +2073,7 @@
 <form_change>spell</form_change>
 <form>splaceny</form>
 <tag>
-<AM lemma="splatit" src="auto" recommended="1">VsTP---XX-APP--</AM>
+<AM lemma="splatit" src="auto" recommended="1">VsTP----X-APP--</AM>
 <AM lemma="splatit" src="manual" selected="1">VsTP----X-APP--</AM>
 </tag>
 </m>

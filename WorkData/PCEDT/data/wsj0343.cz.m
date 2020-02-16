@@ -2525,7 +2525,7 @@
 <form_change>spell</form_change>
 <form>vyvážilo</form>
 <tag>
-<AM lemma="vyvážit_^(do_rovnováhy)" src="auto" recommended="1">VpNS---XR-AAP--</AM>
+<AM lemma="vyvážit_^(do_rovnováhy)" src="auto" recommended="1">VpNS----R-AAP--</AM>
 <AM lemma="vyvážit_^(do_rovnováhy)" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>

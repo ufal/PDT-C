@@ -2713,7 +2713,7 @@
 </w.rf>
 <form>uvedlo</form>
 <tag>
-<AM lemma="uvést" src="auto" recommended="1">VpNS---XR-AAP--</AM>
+<AM lemma="uvést" src="auto" recommended="1">VpNS----R-AAP--</AM>
 <AM lemma="uvést" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>

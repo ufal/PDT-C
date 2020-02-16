@@ -1139,7 +1139,7 @@
 </w.rf>
 <form>byla</form>
 <tag>
-<AM lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</AM>
+<AM lemma="být" src="auto" recommended="1">VpQW----R-AAI--</AM>
 <AM lemma="být" src="manual" selected="1">VpQW----R-AAI--</AM>
 </tag>
 </m>
@@ -1150,7 +1150,7 @@
 </w.rf>
 <form>prodána</form>
 <tag>
-<AM lemma="prodat" src="auto" recommended="1">VsQW---XX-APP--</AM>
+<AM lemma="prodat" src="auto" recommended="1">VsQW----X-APP--</AM>
 <AM lemma="prodat" src="manual" selected="1">VsQW----X-APP--</AM>
 </tag>
 </m>
@@ -1267,7 +1267,7 @@
 <form_change>spell</form_change>
 <form>skoupila</form>
 <tag>
-<AM lemma="skoupit" src="auto" recommended="1">VpQW---XR-AAP--</AM>
+<AM lemma="skoupit" src="auto" recommended="1">VpQW----R-AAP--</AM>
 <AM lemma="skoupit" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>

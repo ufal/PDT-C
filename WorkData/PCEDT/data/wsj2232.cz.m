@@ -14280,7 +14280,7 @@
 <form_change>spell</form_change>
 <form>Bylo</form>
 <tag>
-<AM lemma="být" src="auto" recommended="1">VpNS---XR-AAI--</AM>
+<AM lemma="být" src="auto" recommended="1">VpNS----R-AAI--</AM>
 <AM lemma="být" src="manual" selected="1">VpNS----R-AAI--</AM>
 </tag>
 </m>

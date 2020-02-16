@@ -25422,7 +25422,7 @@
 <form_change>spell</form_change>
 <form>korunováni</form>
 <tag>
-<AM lemma="korunovat" src="auto" recommended="1">VsMP---XX-APB--</AM>
+<AM lemma="korunovat" src="auto" recommended="1">VsMP----X-APB--</AM>
 <AM lemma="korunovat" src="manual" selected="1">VsMP----X-APB--</AM>
 </tag>
 </m>

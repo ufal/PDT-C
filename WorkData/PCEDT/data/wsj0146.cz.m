@@ -2541,7 +2541,7 @@
 <form_change>spell</form_change>
 <form>řekly</form>
 <tag>
-<AM lemma="říci" src="auto" recommended="1">VpTP---XR-AAP--</AM>
+<AM lemma="říci" src="auto" recommended="1">VpTP----R-AAP--</AM>
 <AM lemma="říci" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>

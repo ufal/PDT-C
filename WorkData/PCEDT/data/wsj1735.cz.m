@@ -1597,7 +1597,7 @@
 <form_change>spell</form_change>
 <form>spokojeno</form>
 <tag>
-<AM lemma="spokojit" src="auto">VsNS---XX-APP--</AM>
+<AM lemma="spokojit" src="auto">VsNS----X-APP--</AM>
 <AM lemma="spokojený" src="auto" recommended="1">ACNS------A----</AM>
 </tag>
 </m>

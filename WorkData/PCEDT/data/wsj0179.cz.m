@@ -9367,7 +9367,7 @@
 <form_change>spell</form_change>
 <form>pomohla</form>
 <tag>
-<AM lemma="pomoci" src="auto" recommended="1">VpQW---XR-AAP--</AM>
+<AM lemma="pomoci" src="auto" recommended="1">VpQW----R-AAP--</AM>
 <AM lemma="pomoci" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>

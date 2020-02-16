@@ -14817,7 +14817,7 @@
 <form_change>spell</form_change>
 <form>vyhýbaly</form>
 <tag>
-<AM lemma="vyhýbat" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="vyhýbat" src="auto" recommended="1">VpTP----R-AAI--</AM>
 <AM lemma="vyhýbat" src="manual" selected="1">VpTP----R-AAI--</AM>
 </tag>
 </m>

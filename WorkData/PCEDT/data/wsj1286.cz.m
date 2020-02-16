@@ -12241,7 +12241,7 @@
 </w.rf>
 <form>nechodily</form>
 <tag>
-<AM lemma="chodit" src="auto" recommended="1">VpTP---XR-NAI--</AM>
+<AM lemma="chodit" src="auto" recommended="1">VpTP----R-NAI--</AM>
 <AM lemma="chodit" src="manual" selected="1">VpTP----R-NAI--</AM>
 </tag>
 </m>
@@ -12340,7 +12340,7 @@
 <form_change>spell</form_change>
 <form>věnovaly</form>
 <tag>
-<AM lemma="věnovat" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="věnovat" src="auto" recommended="1">VpTP----R-AAI--</AM>
 <AM lemma="věnovat" src="manual" selected="1">VpTP----R-AAI--</AM>
 </tag>
 </m>

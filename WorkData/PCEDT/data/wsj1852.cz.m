@@ -9063,7 +9063,7 @@
 <form_change>spell</form_change>
 <form>zřídily</form>
 <tag>
-<AM lemma="zřídit" src="auto" recommended="1">VpTP---XR-AAP--</AM>
+<AM lemma="zřídit" src="auto" recommended="1">VpTP----R-AAP--</AM>
 <AM lemma="zřídit" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>

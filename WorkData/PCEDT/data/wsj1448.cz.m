@@ -9214,7 +9214,7 @@
 <form_change>spell</form_change>
 <form>vybraly</form>
 <tag>
-<AM lemma="vybrat" src="auto" recommended="1">VpTP---XR-AAP--</AM>
+<AM lemma="vybrat" src="auto" recommended="1">VpTP----R-AAP--</AM>
 <AM lemma="vybrat" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>

@@ -497,7 +497,7 @@
 </w.rf>
 <form>rezignovala</form>
 <tag>
-<AM lemma="rezignovat" src="auto" recommended="1">VpQW---XR-AAB--</AM>
+<AM lemma="rezignovat" src="auto" recommended="1">VpQW----R-AAB--</AM>
 <AM lemma="rezignovat" src="manual" selected="1">VpQW----R-AAB--</AM>
 </tag>
 </m>
@@ -532,7 +532,7 @@
 <form_change>spell</form_change>
 <form>mohla</form>
 <tag>
-<AM lemma="moci" src="auto" recommended="1">VpQW---XR-AAI--</AM>
+<AM lemma="moci" src="auto" recommended="1">VpQW----R-AAI--</AM>
 <AM lemma="moci" src="manual" selected="1">VpQW----R-AAI--</AM>
 </tag>
 </m>

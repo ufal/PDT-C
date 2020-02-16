@@ -4853,7 +4853,7 @@
 <form_change>spell</form_change>
 <form>vypustily</form>
 <tag>
-<AM lemma="vypustit" src="auto" recommended="1">VpTP---XR-AAP--</AM>
+<AM lemma="vypustit" src="auto" recommended="1">VpTP----R-AAP--</AM>
 <AM lemma="vypustit" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>

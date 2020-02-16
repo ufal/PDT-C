@@ -9429,7 +9429,7 @@
 <form_change>spell</form_change>
 <form>vedlo</form>
 <tag>
-<AM lemma="vést" src="auto" recommended="1">VpNS---XR-AAI--</AM>
+<AM lemma="vést" src="auto" recommended="1">VpNS----R-AAI--</AM>
 <AM lemma="vést" src="manual" selected="1">VpNS----R-AAI--</AM>
 </tag>
 </m>

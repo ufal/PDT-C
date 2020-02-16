@@ -1772,7 +1772,7 @@
 <form_change>spell</form_change>
 <form>předvídaly</form>
 <tag>
-<AM lemma="předvídat" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="předvídat" src="auto" recommended="1">VpTP----R-AAI--</AM>
 <AM lemma="předvídat" src="manual" selected="1">VpTP----R-AAI--</AM>
 </tag>
 </m>

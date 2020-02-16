@@ -12404,7 +12404,7 @@
 </w.rf>
 <form>zahájila</form>
 <tag>
-<AM lemma="zahájit" src="auto" recommended="1">VpQW---XR-AAP--</AM>
+<AM lemma="zahájit" src="auto" recommended="1">VpQW----R-AAP--</AM>
 <AM lemma="zahájit" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
@@ -12684,7 +12684,7 @@
 <form_change>spell</form_change>
 <form>vyzvala</form>
 <tag>
-<AM lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="auto" recommended="1">VpQW---XR-AAP--</AM>
+<AM lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="auto" recommended="1">VpQW----R-AAP--</AM>
 <AM lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>

@@ -78,7 +78,7 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>uvedla</form>
-<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+<tag lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</tag>
 </m>
 <m id="m-wsj2439-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>

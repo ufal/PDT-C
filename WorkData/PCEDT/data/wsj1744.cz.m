@@ -7066,7 +7066,7 @@
 <form_change>spell</form_change>
 <form>odstavena</form>
 <tag>
-<AM lemma="odstavit" src="auto" recommended="1">VsQW---XX-APP--</AM>
+<AM lemma="odstavit" src="auto" recommended="1">VsQW----X-APP--</AM>
 <AM lemma="odstavit" src="manual" selected="1">VsQW----X-APP--</AM>
 </tag>
 </m>

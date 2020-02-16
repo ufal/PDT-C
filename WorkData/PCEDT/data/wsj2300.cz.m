@@ -7410,7 +7410,7 @@
 <form_change>spell</form_change>
 <form>ohrožována</form>
 <tag>
-<AM lemma="ohrožovat" src="auto" recommended="1">VsQW---XX-API--</AM>
+<AM lemma="ohrožovat" src="auto" recommended="1">VsQW----X-API--</AM>
 <AM lemma="ohrožovat" src="manual" selected="1">VsQW----X-API--</AM>
 </tag>
 </m>

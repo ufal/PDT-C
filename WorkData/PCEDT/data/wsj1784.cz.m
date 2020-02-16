@@ -6573,7 +6573,7 @@
 <form_change>spell</form_change>
 <form>byl</form>
 <tag>
-<AM lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</AM>
+<AM lemma="být" src="auto" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="být" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>

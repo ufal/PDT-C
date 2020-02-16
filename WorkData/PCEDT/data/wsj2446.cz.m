@@ -9494,7 +9494,7 @@
 <form_change>spell</form_change>
 <form>měl</form>
 <tag>
-<AM lemma="mít" src="auto" recommended="1">VpYS---XR-AAI--</AM>
+<AM lemma="mít" src="auto" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="mít" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>

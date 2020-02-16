@@ -5613,7 +5613,7 @@
 <form_change>spell</form_change>
 <form>naznačilo</form>
 <tag>
-<AM lemma="naznačit" src="auto" recommended="1">VpNS---XR-AAP--</AM>
+<AM lemma="naznačit" src="auto" recommended="1">VpNS----R-AAP--</AM>
 <AM lemma="naznačit" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>
@@ -8776,7 +8776,7 @@
 </w.rf>
 <form>zaznamenala</form>
 <tag>
-<AM lemma="zaznamenat" src="auto" recommended="1">VpQW---XR-AAP--</AM>
+<AM lemma="zaznamenat" src="auto" recommended="1">VpQW----R-AAP--</AM>
 <AM lemma="zaznamenat" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
@@ -9082,7 +9082,7 @@
 </w.rf>
 <form>bylo</form>
 <tag>
-<AM lemma="být" src="auto" recommended="1">VpNS---XR-AAI--</AM>
+<AM lemma="být" src="auto" recommended="1">VpNS----R-AAI--</AM>
 <AM lemma="být" src="manual" selected="1">VpNS----R-AAI--</AM>
 </tag>
 </m>
@@ -9094,7 +9094,7 @@
 <form_change>spell</form_change>
 <form>nasměrováno</form>
 <tag>
-<AM lemma="nasměrovat" src="auto" recommended="1">VsNS---XX-APP--</AM>
+<AM lemma="nasměrovat" src="auto" recommended="1">VsNS----X-APP--</AM>
 <AM lemma="nasměrovat" src="manual" selected="1">VsNS----X-APP--</AM>
 </tag>
 </m>
@@ -19031,7 +19031,7 @@
 <form_change>spell</form_change>
 <form>sklouzla</form>
 <tag>
-<AM lemma="sklouznout" src="auto" recommended="1">VpQW---XR-AAP-1</AM>
+<AM lemma="sklouznout" src="auto" recommended="1">VpQW----R-AAP-1</AM>
 <AM lemma="sklouznout" src="manual" selected="1">VpQW----R-AAP-1</AM>
 </tag>
 </m>

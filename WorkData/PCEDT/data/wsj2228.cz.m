@@ -2201,7 +2201,7 @@
 <form_change>spell</form_change>
 <form>uvedly</form>
 <tag>
-<AM lemma="uvést" src="auto" recommended="1">VpTP---XR-AAP--</AM>
+<AM lemma="uvést" src="auto" recommended="1">VpTP----R-AAP--</AM>
 <AM lemma="uvést" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>

@@ -5698,7 +5698,7 @@
 <form_change>spell</form_change>
 <form>přivezl</form>
 <tag>
-<AM lemma="přivézt" src="auto" recommended="1">VpYS---XR-AAP--</AM>
+<AM lemma="přivézt" src="auto" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="přivézt" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>

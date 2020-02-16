@@ -645,7 +645,7 @@
 </w.rf>
 <form>zažádaly</form>
 <tag>
-<AM lemma="zažádat" src="auto" recommended="1">VpTP---XR-AAP--</AM>
+<AM lemma="zažádat" src="auto" recommended="1">VpTP----R-AAP--</AM>
 <AM lemma="zažádat" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>

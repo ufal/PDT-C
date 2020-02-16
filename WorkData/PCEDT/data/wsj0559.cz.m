@@ -6030,7 +6030,7 @@
 <form_change>spell</form_change>
 <form>zvýšily</form>
 <tag>
-<AM lemma="zvýšit" src="auto" recommended="1">VpTP---XR-AAP--</AM>
+<AM lemma="zvýšit" src="auto" recommended="1">VpTP----R-AAP--</AM>
 <AM lemma="zvýšit" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>

@@ -4471,7 +4471,7 @@
 </w.rf>
 <form>snížil</form>
 <tag>
-<AM lemma="snížit" src="auto" recommended="1">VpYS---XR-AAP--</AM>
+<AM lemma="snížit" src="auto" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="snížit" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>

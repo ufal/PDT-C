@@ -3788,7 +3788,7 @@
 <form_change>spell</form_change>
 <form>vzrostl</form>
 <tag>
-<AM lemma="vzrůst-1" src="auto" recommended="1">VpYS---XR-AAP--</AM>
+<AM lemma="vzrůst-1" src="auto" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="vzrůst-1" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>

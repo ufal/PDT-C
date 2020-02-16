@@ -3880,7 +3880,7 @@
 </w.rf>
 <form>prodávali</form>
 <tag>
-<AM lemma="prodávat_^(*4at)" src="auto" recommended="1">VpMP---XR-AAI--</AM>
+<AM lemma="prodávat_^(*4at)" src="auto" recommended="1">VpMP----R-AAI--</AM>
 <AM lemma="prodávat_^(*4at)" src="manual" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>

@@ -11385,7 +11385,7 @@
 <form_change>spell</form_change>
 <form>prohlásila</form>
 <tag>
-<AM lemma="prohlásit" src="auto" recommended="1">VpQW---XR-AAP--</AM>
+<AM lemma="prohlásit" src="auto" recommended="1">VpQW----R-AAP--</AM>
 <AM lemma="prohlásit" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>

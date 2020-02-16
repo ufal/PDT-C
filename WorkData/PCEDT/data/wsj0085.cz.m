@@ -7180,7 +7180,7 @@
 </w.rf>
 <form>obsahoval</form>
 <tag>
-<AM lemma="obsahovat" src="auto" recommended="1">VpYS---XR-AAI--</AM>
+<AM lemma="obsahovat" src="auto" recommended="1">VpYS----R-AAI--</AM>
 <AM lemma="obsahovat" src="manual" selected="1">VpYS----R-AAI--</AM>
 </tag>
 </m>

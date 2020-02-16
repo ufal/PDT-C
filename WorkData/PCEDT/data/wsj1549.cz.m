@@ -11052,7 +11052,7 @@
 <form_change>spell</form_change>
 <form>bloumali</form>
 <tag>
-<AM lemma="bloumat" src="auto" recommended="1">VpMP---XR-AAI--</AM>
+<AM lemma="bloumat" src="auto" recommended="1">VpMP----R-AAI--</AM>
 <AM lemma="bloumat" src="manual" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>

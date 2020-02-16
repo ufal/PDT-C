@@ -298,7 +298,7 @@
 <form_change>spell</form_change>
 <form>srazil</form>
 <tag>
-<AM lemma="srazit" src="auto" recommended="1">VpYS---XR-AAP--</AM>
+<AM lemma="srazit" src="auto" recommended="1">VpYS----R-AAP--</AM>
 <AM lemma="srazit" src="manual" selected="1">VpYS----R-AAP--</AM>
 </tag>
 </m>
@@ -11656,7 +11656,7 @@
 <form_change>spell</form_change>
 <form>uzavíraly</form>
 <tag>
-<AM lemma="uzavírat" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="uzavírat" src="auto" recommended="1">VpTP----R-AAI--</AM>
 <AM lemma="uzavírat" src="manual" selected="1">VpTP----R-AAI--</AM>
 </tag>
 </m>

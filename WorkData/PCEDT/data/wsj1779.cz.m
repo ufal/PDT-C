@@ -1588,7 +1588,7 @@
 <form_change>spell</form_change>
 <form>poháněly</form>
 <tag>
-<AM lemma="pohánět" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="pohánět" src="auto" recommended="1">VpTP----R-AAI--</AM>
 <AM lemma="pohánět" src="manual" selected="1">VpTP----R-AAI--</AM>
 </tag>
 </m>

@@ -1504,7 +1504,7 @@
 <form_change>spell</form_change>
 <form>vzrostly</form>
 <tag>
-<AM lemma="vzrůst-1" src="auto" recommended="1">VpTP---XR-AAP--</AM>
+<AM lemma="vzrůst-1" src="auto" recommended="1">VpTP----R-AAP--</AM>
 <AM lemma="vzrůst-1" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>

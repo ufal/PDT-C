@@ -8634,7 +8634,7 @@
 <form_change>spell</form_change>
 <form>kladly</form>
 <tag>
-<AM lemma="klást" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="klást" src="auto" recommended="1">VpTP----R-AAI--</AM>
 <AM lemma="klást" src="manual" selected="1">VpTP----R-AAI--</AM>
 </tag>
 </m>

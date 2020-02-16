@@ -6524,7 +6524,7 @@
 <form_change>spell</form_change>
 <form>podnítilo</form>
 <tag>
-<AM lemma="podnítit" src="auto" recommended="1">VpNS---XR-AAP--</AM>
+<AM lemma="podnítit" src="auto" recommended="1">VpNS----R-AAP--</AM>
 <AM lemma="podnítit" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>

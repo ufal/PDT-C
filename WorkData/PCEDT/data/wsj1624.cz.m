@@ -23955,7 +23955,7 @@
 <form_change>spell</form_change>
 <form>klesly</form>
 <tag>
-<AM lemma="klesnout" src="auto" recommended="1">VpTP---XR-AAP-1</AM>
+<AM lemma="klesnout" src="auto" recommended="1">VpTP----R-AAP-1</AM>
 <AM lemma="klesnout" src="manual" selected="1">VpTP----R-AAP-1</AM>
 </tag>
 </m>

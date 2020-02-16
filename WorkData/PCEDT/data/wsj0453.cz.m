@@ -5173,7 +5173,7 @@
 <form_change>spell</form_change>
 <form>vyzývaly</form>
 <tag>
-<AM lemma="vyzývat" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="vyzývat" src="auto" recommended="1">VpTP----R-AAI--</AM>
 <AM lemma="vyzývat" src="manual" selected="1">VpTP----R-AAI--</AM>
 </tag>
 </m>

@@ -7089,7 +7089,7 @@
 <form_change>spell</form_change>
 <form>dodány</form>
 <tag>
-<AM lemma="dodat" src="auto" recommended="1">VsTP---XX-APP--</AM>
+<AM lemma="dodat" src="auto" recommended="1">VsTP----X-APP--</AM>
 <AM lemma="dodat" src="manual" selected="1">VsTP----X-APP--</AM>
 </tag>
 </m>
@@ -10458,7 +10458,7 @@
 <form_change>spell</form_change>
 <form>požádala</form>
 <tag>
-<AM lemma="požádat" src="auto" recommended="1">VpQW---XR-AAP--</AM>
+<AM lemma="požádat" src="auto" recommended="1">VpQW----R-AAP--</AM>
 <AM lemma="požádat" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>

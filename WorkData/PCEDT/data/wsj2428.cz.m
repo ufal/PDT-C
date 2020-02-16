@@ -11274,7 +11274,7 @@
 <form_change>spell</form_change>
 <form>prodaly</form>
 <tag>
-<AM lemma="prodat" src="auto" recommended="1">VpTP---XR-AAP--</AM>
+<AM lemma="prodat" src="auto" recommended="1">VpTP----R-AAP--</AM>
 <AM lemma="prodat" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>

@@ -50512,7 +50512,7 @@
 </w.rf>
 <form>uvažovali</form>
 <tag>
-<AM lemma="uvažovat" src="auto" recommended="1">VpMP---XR-AAI--</AM>
+<AM lemma="uvažovat" src="auto" recommended="1">VpMP----R-AAI--</AM>
 <AM lemma="uvažovat" src="manual" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>

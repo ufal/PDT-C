@@ -1501,7 +1501,7 @@
 <form_change>spell</form_change>
 <form>uvězněny</form>
 <tag>
-<AM lemma="uvěznit" src="auto" recommended="1">VsTP---XX-APP--</AM>
+<AM lemma="uvěznit" src="auto" recommended="1">VsTP----X-APP--</AM>
 <AM lemma="uvěznit" src="manual" selected="1">VsTP----X-APP--</AM>
 </tag>
 </m>

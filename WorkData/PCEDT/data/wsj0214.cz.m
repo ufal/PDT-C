@@ -9704,7 +9704,7 @@
 </w.rf>
 <form>přivedly</form>
 <tag>
-<AM lemma="přivést" src="auto" recommended="1">VpTP---XR-AAP--</AM>
+<AM lemma="přivést" src="auto" recommended="1">VpTP----R-AAP--</AM>
 <AM lemma="přivést" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>

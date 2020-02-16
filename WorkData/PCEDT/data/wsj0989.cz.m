@@ -379,7 +379,7 @@
 <form_change>spell</form_change>
 <form>přestaly</form>
 <tag>
-<AM lemma="přestat" src="auto" recommended="1">VpTP---XR-AAP--</AM>
+<AM lemma="přestat" src="auto" recommended="1">VpTP----R-AAP--</AM>
 <AM lemma="přestat" src="manual" selected="1">VpTP----R-AAP--</AM>
 </tag>
 </m>

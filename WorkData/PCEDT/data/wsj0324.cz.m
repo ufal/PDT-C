@@ -572,7 +572,7 @@
 <form_change>spell</form_change>
 <form>přivedla</form>
 <tag>
-<AM lemma="přivést" src="auto" recommended="1">VpQW---XR-AAP--</AM>
+<AM lemma="přivést" src="auto" recommended="1">VpQW----R-AAP--</AM>
 <AM lemma="přivést" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>

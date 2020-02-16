@@ -17868,7 +17868,7 @@
 <form_change>spell</form_change>
 <form>lákaly</form>
 <tag>
-<AM lemma="lákat" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="lákat" src="auto" recommended="1">VpTP----R-AAI--</AM>
 <AM lemma="lákat" src="manual" selected="1">VpTP----R-AAI--</AM>
 </tag>
 </m>

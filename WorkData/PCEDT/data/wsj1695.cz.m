@@ -4239,7 +4239,7 @@
 <form_change>spell</form_change>
 <form>platily</form>
 <tag>
-<AM lemma="platit" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="platit" src="auto" recommended="1">VpTP----R-AAI--</AM>
 <AM lemma="platit" src="manual" selected="1">VpTP----R-AAI--</AM>
 </tag>
 </m>

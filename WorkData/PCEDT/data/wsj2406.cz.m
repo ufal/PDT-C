@@ -6187,7 +6187,7 @@
 <form_change>spell</form_change>
 <form>Ukázalo</form>
 <tag>
-<AM lemma="ukázat" src="auto" recommended="1">VpNS---XR-AAP--</AM>
+<AM lemma="ukázat" src="auto" recommended="1">VpNS----R-AAP--</AM>
 <AM lemma="ukázat" src="manual" selected="1">VpNS----R-AAP--</AM>
 </tag>
 </m>

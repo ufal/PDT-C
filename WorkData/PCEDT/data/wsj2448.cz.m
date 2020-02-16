@@ -8401,7 +8401,7 @@
 <form_change>spell</form_change>
 <form>dostali</form>
 <tag>
-<AM lemma="dostat" src="auto" recommended="1">VpMP---XR-AAP--</AM>
+<AM lemma="dostat" src="auto" recommended="1">VpMP----R-AAP--</AM>
 <AM lemma="dostat" src="manual" selected="1">VpMP----R-AAP--</AM>
 </tag>
 </m>
@@ -8769,7 +8769,7 @@
 <form_change>spell</form_change>
 <form>mohli</form>
 <tag>
-<AM lemma="moci" src="auto" recommended="1">VpMP---XR-AAI--</AM>
+<AM lemma="moci" src="auto" recommended="1">VpMP----R-AAI--</AM>
 <AM lemma="moci" src="manual" selected="1">VpMP----R-AAI--</AM>
 </tag>
 </m>

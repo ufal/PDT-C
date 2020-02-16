@@ -75,7 +75,7 @@
 </w.rf>
 <form>uvedla</form>
 <tag>
-<AM lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</AM>
+<AM lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</AM>
 <AM lemma="uvést" src="manual" selected="1">VpQW----R-AAP--</AM>
 </tag>
 </m>
