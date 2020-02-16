@@ -3,3 +3,5 @@ unique-*.txt
 pdt.train
 pdt.dtest
 pdt.etest
+*.tsv
+*.tsv.log
