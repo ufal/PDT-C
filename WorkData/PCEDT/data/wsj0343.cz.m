@@ -1251,10 +1251,10 @@
 <AM lemma="republikánský" src="auto">AAFP3----1A----</AM>
 <AM lemma="republikánský" src="auto">AAIP3----1A----</AM>
 <AM lemma="republikánský" src="auto">AAIS6----1A---7</AM>
-<AM lemma="republikánský" src="auto">AAIS7----1A----</AM>
+<AM lemma="republikánský" src="auto" selected="1">AAIS7----1A----</AM>
 <AM lemma="republikánský" src="auto" recommended="1">AAMP3----1A----</AM>
 <AM lemma="republikánský" src="auto">AAMS6----1A---7</AM>
-<AM lemma="republikánský" src="auto" selected="1">AAMS7----1A----</AM>
+<AM lemma="republikánský" src="auto">AAMS7----1A----</AM>
 <AM lemma="republikánský" src="auto">AANP3----1A----</AM>
 <AM lemma="republikánský" src="auto">AANS6----1A---7</AM>
 <AM lemma="republikánský" src="auto">AANS7----1A----</AM>
@@ -1265,12 +1265,10 @@
 <w.rf>
 <LM>w#w-wsj0343-001-p1s3W18</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>protějškem</form>
-<tag>
-<AM lemma="protějšek" src="auto" recommended="1">NNIS7-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="protějšek" src="auto" recommended="1">NNIS7-----A----</tag>
+</m>
 <m id="m-wsj0343-001-p1s3W19-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2524,12 +2522,13 @@
 <w.rf>
 <LM>w#w-wsj0343-001-p1s5W38</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>vyvážilo</form>
 <tag>
-<AM lemma="vyvážit_^(do_rovnováhy)" src="auto" recommended="1">VpNS----R-AAP--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="vyvážit_^(do_rovnováhy)" src="auto" recommended="1">VpNS---XR-AAP--</AM>
+<AM lemma="vyvážit_^(do_rovnováhy)" src="manual" selected="1">VpNS----R-AAP--</AM>
+</tag>
+</m>
 <m id="m-wsj0343-001-p1s5W39-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3799,13 +3798,13 @@
 <w.rf>
 <LM>w#w-wsj0343-001-p1s9W25</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>zákon</form>
 <tag>
 <AM lemma="zákon" src="auto">NNIS1-----A----</AM>
-<AM lemma="zákon" src="auto" recommended="1">NNIS4-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="zákon" src="auto" recommended="1">NNIS4-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0343-001-p1s9W26-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4529,6 +4528,7 @@
 <w.rf>
 <LM>w#w-wsj0343-001-p1s12W12</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Bushovy</form>
 <tag>
 <AM lemma="Bushův_;S_^(*2)" src="auto">AUFP1M---------</AM>
@@ -4538,10 +4538,9 @@
 <AM lemma="Bushův_;S_^(*2)" src="auto">AUIP1M---------</AM>
 <AM lemma="Bushův_;S_^(*2)" src="auto">AUIP4M---------</AM>
 <AM lemma="Bushův_;S_^(*2)" src="auto">AUIP5M---------</AM>
-<AM lemma="Bushův_;S_^(*2)" src="auto">AUMP4M---------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Bushův_;S_^(*2)" src="auto">AUMP4M---------</AM>
+</tag>
+</m>
 <m id="m-wsj0343-001-p1s12W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5997,12 +5996,10 @@
 <w.rf>
 <LM>w#w-wsj0343-001-p1s16W17</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>III</form>
-<tag>
-<AM lemma="III-3`3" src="auto" recommended="1">C}-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="III-3`3" src="auto" recommended="1">C}-------------</tag>
+</m>
 <m id="m-wsj0343-001-p1s16W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -5068,12 +5068,13 @@
 <w.rf>
 <LM>w#w-wsj0807-001-p1s18W11</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Emhart</form>
 <tag>
-<AM lemma="Emhart" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Emhart" src="auto">X@-------------</AM>
+<AM lemma="Emhart_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0807-001-p1s18W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

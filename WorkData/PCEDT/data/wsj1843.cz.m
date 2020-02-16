@@ -3088,20 +3088,20 @@
 <w.rf>
 <LM>w#w-wsj1843-001-p1s10W16</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Jonesova</form>
 <tag>
 <AM lemma="Jonesův_;S_^(*2)" src="auto">AUFS1M---------</AM>
 <AM lemma="Jonesův_;S_^(*2)" src="auto">AUFS5M---------</AM>
-<AM lemma="Jonesův_;S_^(*2)" src="auto">AUIS2M---------</AM>
+<AM lemma="Jonesův_;S_^(*2)" src="auto" selected="1">AUIS2M---------</AM>
 <AM lemma="Jonesův_;S_^(*2)" src="auto" recommended="1">AUMS2M---------</AM>
 <AM lemma="Jonesův_;S_^(*2)" src="auto">AUMS4M---------</AM>
 <AM lemma="Jonesův_;S_^(*2)" src="auto">AUNP1M---------</AM>
 <AM lemma="Jonesův_;S_^(*2)" src="auto">AUNP4M---------</AM>
 <AM lemma="Jonesův_;S_^(*2)" src="auto">AUNP5M---------</AM>
-<AM lemma="Jonesův_;S_^(*2)" src="auto">AUNS2M---------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Jonesův_;S_^(*2)" src="auto">AUNS2M---------</AM>
+</tag>
+</m>
 <m id="m-wsj1843-001-p1s10W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

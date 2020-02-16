@@ -8107,25 +8107,22 @@
 <LM>w#w-wsj1423-001-p1s20W7</LM>
 </w.rf>
 <form>20</form>
-<tag>
-<AM lemma="20" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="20" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1423-001-p1s20W7-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1423-001-p1s20W7</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letého</form>
 <tag>
 <AM lemma="letý" src="auto">AAIS2----1A----</AM>
 <AM lemma="letý" src="auto">AAMS2----1A----</AM>
 <AM lemma="letý" src="auto" recommended="1">AAMS4----1A----</AM>
-<AM lemma="letý" src="auto">AANS2----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS2----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1423-001-p1s20W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8967,10 +8964,7 @@
 <LM>w#w-wsj1423-001-p1s21W27</LM>
 </w.rf>
 <form>21</form>
-<tag>
-<AM lemma="21" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="21" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1423-001-p1s21W27-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -8980,9 +8974,9 @@
 <form>letí</form>
 <tag>
 <AM lemma="letět" src="auto">VB-P---3P-AAI--</AM>
-<AM lemma="letět" src="auto" recommended="1">VB-S---3P-AAI--</AM></tag>
-<comment>
-</comment>
+<AM lemma="letět" src="auto" recommended="1">VB-S---3P-AAI--</AM>
+<AM lemma="letý" src="manual" selected="1">AAMP1----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj1423-001-p1s21W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9062,16 +9056,14 @@
 <LM>w#w-wsj1423-001-p1s21W32</LM>
 </w.rf>
 <form>30</form>
-<tag>
-<AM lemma="30" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="30" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1423-001-p1s21W32-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1423-001-p1s21W32</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>denní</form>
 <tag>
 <AM lemma="denní" src="auto">AAFP1----1A----</AM>
@@ -9100,10 +9092,9 @@
 <AM lemma="denní" src="auto">AANP5----1A----</AM>
 <AM lemma="denní" src="auto">AANS1----1A----</AM>
 <AM lemma="denní" src="auto" recommended="1">AANS4----1A----</AM>
-<AM lemma="denní" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="denní" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1423-001-p1s21W33-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

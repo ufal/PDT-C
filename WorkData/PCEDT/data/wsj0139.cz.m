@@ -490,7 +490,8 @@
 <AM lemma="pat" src="auto">NNIS1-----A----</AM>
 <AM lemma="pat" src="auto">NNIS4-----A----</AM>
 <AM lemma="pata" src="auto">NNFP2-----A----</AM>
-<AM lemma="Pat-2_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Pat-2_;Y" src="manual">NNFXX-----A----</AM>
+<AM lemma="Pat-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-wsj0139-001-p1s2W3-Ta">
@@ -505,9 +506,9 @@
 <AM lemma="D-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="d-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="d-77" src="auto">F%-------------</AM>
-<AM lemma="d-88_:B" src="auto">NNXXX-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="d-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="D-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0139-001-p1s2W3-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -515,22 +516,20 @@
 <LM>w#w-wsj0139-001-p1s2W3</LM>
 </w.rf>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0139-001-p1s2W3-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0139-001-p1s2W3</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Amico</form>
 <tag>
-<AM lemma="Amica_;K" src="auto" recommended="1">NNFS5-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Amica_;K" src="auto" recommended="1">NNFS5-----A----</AM>
+<AM lemma="Amico-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0139-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

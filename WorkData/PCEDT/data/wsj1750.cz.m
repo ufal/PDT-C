@@ -881,9 +881,8 @@
 <form>nesplatí</form>
 <tag>
 <AM lemma="splatit" src="auto">VB-P---3P-NAP--</AM>
-<AM lemma="splatit" src="auto" recommended="1">VB-S---3P-NAP--</AM></tag>
-<comment>
-</comment>
+<AM lemma="splatit" src="auto" recommended="1">VB-S---3P-NAP--</AM>
+</tag>
 </m>
 <m id="m-wsj1750-001-p1s1W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1109,12 +1108,13 @@
 <w.rf>
 <LM>w#w-wsj1750-001-p1s1W52</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>HealthVest</form>
 <tag>
-<AM lemma="HealthVest" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="HealthVest" src="auto">X@-------------</AM>
+<AM lemma="HealthVest_;K" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1750-001-p1s1W53-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2156,12 +2156,10 @@
 <w.rf>
 <LM>w#w-wsj1750-001-p1s6W12</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>50</form>
-<tag>
-<AM lemma="50" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="50" src="auto" recommended="1">C=-------------</tag>
+</m>
 <m id="m-wsj1750-001-p1s6W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

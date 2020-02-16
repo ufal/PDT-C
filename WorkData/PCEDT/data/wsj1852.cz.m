@@ -9060,12 +9060,13 @@
 <w.rf>
 <LM>w#w-wsj1852-001-p1s28W22</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>zřídily</form>
 <tag>
-<AM lemma="zřídit" src="auto" recommended="1">VpTP----R-AAP--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="zřídit" src="auto" recommended="1">VpTP---XR-AAP--</AM>
+<AM lemma="zřídit" src="manual" selected="1">VpTP----R-AAP--</AM>
+</tag>
+</m>
 <m id="m-wsj1852-001-p1s28W23-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

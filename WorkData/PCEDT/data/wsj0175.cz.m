@@ -719,15 +719,15 @@
 <w.rf>
 <LM>w#w-wsj0175-001-p1s1W26</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>studií</form>
 <tag>
 <AM lemma="studie" src="auto">NNFP2-----A----</AM>
 <AM lemma="studie" src="auto">NNFS7-----A----</AM>
-<AM lemma="studio" src="auto">NNNP2-----A----</AM>
-<AM lemma="studium" src="auto" recommended="1">NNNP2-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="studio" src="auto" selected="1">NNNP2-----A----</AM>
+<AM lemma="studium" src="auto" recommended="1">NNNP2-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0175-001-p1s1W27-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1654,13 +1654,13 @@
 <w.rf>
 <LM>w#w-wsj0175-001-p1s5W19</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>společností</form>
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP2-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS7-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS7-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0175-001-p1s5W20-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

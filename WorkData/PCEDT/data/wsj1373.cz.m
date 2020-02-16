@@ -11468,23 +11468,20 @@
 <LM>w#w-wsj1373-001-p1s42W15</LM>
 </w.rf>
 <form>3000</form>
-<tag>
-<AM lemma="3000" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="3000" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1373-001-p1s42W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1373-001-p1s42W16</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>krát</form>
 <tag>
 <AM lemma="krát-1_^(mat._operace;_2_krát_3)" src="auto" recommended="1">J*-------------</AM>
-<AM lemma="krát-2" src="auto">Db-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="krát-2" src="auto" selected="1">Db-------------</AM>
+</tag>
+</m>
 <m id="m-wsj1373-001-p1s42W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

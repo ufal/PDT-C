@@ -4036,20 +4036,20 @@
 <w.rf>
 <LM>w#w-wsj0309-001-p1s15W10</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>L</form>
 <tag>
 <AM lemma="L-3`50" src="auto">C}-------------</AM>
 <AM lemma="L-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
-<AM lemma="L-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="L-88_:B" src="auto" selected="1">NNXXX-----A----</AM>
 <AM lemma="l-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="l-77_,t" src="auto">F%-------------</AM>
 <AM lemma="l-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="letopočet_:B" src="auto">NNIS2-----A---8</AM>
 <AM lemma="letopočet_:B" src="auto">NNIS7-----A---8</AM>
-<AM lemma="litr" src="auto">NNIXX-----A---8</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="litr" src="auto">NNIXX-----A---8</AM>
+</tag>
+</m>
 <m id="m-wsj0309-001-p1s15W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

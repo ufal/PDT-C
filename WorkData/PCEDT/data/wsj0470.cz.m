@@ -5586,13 +5586,14 @@
 <w.rf>
 <LM>w#w-wsj0470-001-p1s9W12</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Guber</form>
 <tag>
 <AM lemma="Guber_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Guber_;G" src="auto">NNIS4-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Guber_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Guber-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0470-001-p1s9W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

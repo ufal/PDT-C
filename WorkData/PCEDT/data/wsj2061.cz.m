@@ -16265,12 +16265,13 @@
 <w.rf>
 <LM>w#w-wsj2061-001-p1s55W27</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>kapitálové</form>
 <tag>
 <AM lemma="kapitálový" src="auto">AAFP1----1A----</AM>
 <AM lemma="kapitálový" src="auto" recommended="1">AAFP4----1A----</AM>
 <AM lemma="kapitálový" src="auto">AAFP5----1A----</AM>
-<AM lemma="kapitálový" src="auto">AAFS2----1A----</AM>
+<AM lemma="kapitálový" src="auto" selected="1">AAFS2----1A----</AM>
 <AM lemma="kapitálový" src="auto">AAFS3----1A----</AM>
 <AM lemma="kapitálový" src="auto">AAFS6----1A----</AM>
 <AM lemma="kapitálový" src="auto">AAIP1----1A----</AM>
@@ -16282,10 +16283,9 @@
 <AM lemma="kapitálový" src="auto">AANP5----1A---6</AM>
 <AM lemma="kapitálový" src="auto">AANS1----1A----</AM>
 <AM lemma="kapitálový" src="auto">AANS4----1A----</AM>
-<AM lemma="kapitálový" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="kapitálový" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj2061-001-p1s55W28-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

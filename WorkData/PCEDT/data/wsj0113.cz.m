@@ -2624,6 +2624,7 @@
 <w.rf>
 <LM>w#w-wsj0113-001-p1s8W21</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Illinois</form>
 <tag>
 <AM lemma="Illinois" src="auto">NNIS2-----A---1</AM>
@@ -2631,10 +2632,10 @@
 <AM lemma="Illinois" src="auto">NNIS6-----A---1</AM>
 <AM lemma="Illinois" src="auto">NNIS7-----A---1</AM>
 <AM lemma="Illinois_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Illinois_;G" src="auto">NNIS4-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Illinois_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Illinois_;G_;K" src="manual" selected="1">NNIXX-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0113-001-p1s8W22-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4509,25 +4510,22 @@
 <LM>w#w-wsj0113-001-p1s14W20</LM>
 </w.rf>
 <form>30</form>
-<tag>
-<AM lemma="30" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="30" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0113-001-p1s14W20-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0113-001-p1s14W20</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letého</form>
 <tag>
 <AM lemma="letý" src="auto">AAIS2----1A----</AM>
 <AM lemma="letý" src="auto">AAMS2----1A----</AM>
 <AM lemma="letý" src="auto">AAMS4----1A----</AM>
-<AM lemma="letý" src="auto" recommended="1">AANS2----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto" recommended="1">AANS2----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0113-001-p1s14W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6523,12 +6521,13 @@
 <w.rf>
 <LM>w#w-wsj0113-001-p1s22W10</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>podnítilo</form>
 <tag>
-<AM lemma="podnítit" src="auto" recommended="1">VpNS----R-AAP--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="podnítit" src="auto" recommended="1">VpNS---XR-AAP--</AM>
+<AM lemma="podnítit" src="manual" selected="1">VpNS----R-AAP--</AM>
+</tag>
+</m>
 <m id="m-wsj0113-001-p1s22W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

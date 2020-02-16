@@ -2342,10 +2342,7 @@
 <LM>w#w-wsj0941-001-p1s6W23</LM>
 </w.rf>
 <form>28</form>
-<tag>
-<AM lemma="28" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="28" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0941-001-p1s6W23-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -2354,9 +2351,9 @@
 </w.rf>
 <form>uncových</form>
 <tag>
-<AM lemma="uncových" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
+<AM lemma="uncových" src="auto">X@-------------</AM>
+<AM lemma="uncový" src="manual" selected="1">AAFP2----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj0941-001-p1s6W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2418,22 +2415,20 @@
 <LM>w#w-wsj0941-001-p1s6W29</LM>
 </w.rf>
 <form>5</form>
-<tag>
-<AM lemma="5" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="5" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0941-001-p1s6W29-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0941-001-p1s6W29</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>uncových</form>
 <tag>
-<AM lemma="uncových" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="uncových" src="auto">X@-------------</AM>
+<AM lemma="uncový" src="manual" selected="1">AAFP2----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0941-001-p1s6W30-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

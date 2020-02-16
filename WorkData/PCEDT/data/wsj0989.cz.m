@@ -376,12 +376,13 @@
 <w.rf>
 <LM>w#w-wsj0989-001-p1s1W19</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>přestaly</form>
 <tag>
-<AM lemma="přestat" src="auto" recommended="1">VpTP----R-AAP--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="přestat" src="auto" recommended="1">VpTP---XR-AAP--</AM>
+<AM lemma="přestat" src="manual" selected="1">VpTP----R-AAP--</AM>
+</tag>
+</m>
 <m id="m-wsj0989-001-p1s1W20-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -12188,12 +12189,10 @@
 <w.rf>
 <LM>w#w-wsj0989-001-p1s42W16</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>zmatkem</form>
-<tag>
-<AM lemma="zmatek" src="auto" recommended="1">NNIS7-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="zmatek" src="auto" recommended="1">NNIS7-----A----</tag>
+</m>
 <m id="m-wsj0989-001-p1s42W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

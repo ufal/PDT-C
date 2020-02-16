@@ -739,9 +739,9 @@
 <AM lemma="C-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="Celsius" src="auto" recommended="1">NNMXX-----A---8</AM>
 <AM lemma="c-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="c-88_:B" src="auto">NNXXX-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="c-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="C-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2401-001-p1s5W2-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -749,16 +749,14 @@
 <LM>w#w-wsj2401-001-p1s5W2</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj2401-001-p1s5W2-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2401-001-p1s5W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>E</form>
 <tag>
 <AM lemma="E-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
@@ -766,10 +764,9 @@
 <AM lemma="e-1" src="auto">II-------------</AM>
 <AM lemma="e-2_^(e-mail)" src="auto">A2--------A----</AM>
 <AM lemma="e-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="e-88_:B" src="auto">NNXXX-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="e-88_:B" src="auto">NNXXX-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2401-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

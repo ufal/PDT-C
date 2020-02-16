@@ -8995,7 +8995,7 @@
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
 </m>
@@ -9005,24 +9005,21 @@
 <LM>w#w-wsj1302-001-p1s33W15</LM>
 </w.rf>
 <form>2.5</form>
-<tag>
-<AM lemma="2.5" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="2.5" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1302-001-p1s33W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1302-001-p1s33W16</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>miliardovém</form>
 <tag>
 <AM lemma="miliardový" src="auto" recommended="1">AAIS6----1A----</AM>
 <AM lemma="miliardový" src="auto">AAMS6----1A----</AM>
-<AM lemma="miliardový" src="auto">AANS6----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="miliardový" src="auto">AANS6----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1302-001-p1s33W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

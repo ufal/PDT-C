@@ -5474,7 +5474,7 @@
 <AM lemma="V-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="volt" src="auto">NNIXX-----A---8</AM>
 <AM lemma="v-1" src="auto">RR--4----------</AM>
-<AM lemma="v-1" src="auto">RR--6----------</AM>
+<AM lemma="v-1" src="auto" selected="1">RR--6----------</AM>
 <AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="v-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM>
@@ -5485,6 +5485,7 @@
 <w.rf>
 <LM>w#w-wsj2397-001-p1s25W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>očekávání</form>
 <tag>
 <AM lemma="očekávání_^(*3at)" src="auto">NNNP1-----A----</AM>
@@ -5496,10 +5497,9 @@
 <AM lemma="očekávání_^(*3at)" src="auto">NNNS3-----A----</AM>
 <AM lemma="očekávání_^(*3at)" src="auto">NNNS4-----A----</AM>
 <AM lemma="očekávání_^(*3at)" src="auto">NNNS5-----A----</AM>
-<AM lemma="očekávání_^(*3at)" src="auto" recommended="1">NNNS6-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="očekávání_^(*3at)" src="auto" recommended="1">NNNS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2397-001-p1s25W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -12347,6 +12347,7 @@
 <w.rf>
 <LM>w#w-wsj2397-001-p1s47W35</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>finančních</form>
 <tag>
 <AM lemma="finanční" src="auto">AAFP2----1A----</AM>
@@ -12356,10 +12357,9 @@
 <AM lemma="finanční" src="auto">AAMP2----1A----</AM>
 <AM lemma="finanční" src="auto">AAMP6----1A----</AM>
 <AM lemma="finanční" src="auto">AANP2----1A----</AM>
-<AM lemma="finanční" src="auto">AANP6----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="finanční" src="auto">AANP6----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj2397-001-p1s47W36-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

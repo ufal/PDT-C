@@ -6328,9 +6328,9 @@
 <tag>
 <AM lemma="Moody_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Moody_;S" src="auto">NNMS5-----A----</AM>
-<AM lemma="Moody_;S" src="auto">NNMXX-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="Moody_;S" src="auto">NNMXX-----A----</AM>
+<AM lemma="Moody-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1028-001-p1s16W15-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -6339,15 +6339,16 @@
 </w.rf>
 <form>´</form>
 <tag>
-<AM lemma="´" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
+<AM lemma="´" src="auto">X@-------------</AM>
+<AM lemma="´" src="manual" selected="1">Z:-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1028-001-p1s16W15-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1028-001-p1s16W15</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>s</form>
 <tag>
 <AM lemma="s-1" src="auto">RR--2----------</AM>
@@ -6361,10 +6362,10 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m-wsj1028-001-p1s16W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

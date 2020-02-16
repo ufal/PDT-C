@@ -455,9 +455,9 @@
 </w.rf>
 <form>Jewel</form>
 <tag>
-<AM lemma="Jewel" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
+<AM lemma="Jewel" src="auto">X@-------------</AM>
+<AM lemma="Jewel_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1838-001-p1s0W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -466,9 +466,9 @@
 </w.rf>
 <form>Lafontantové</form>
 <tag>
-<AM lemma="Lafontantové" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
+<AM lemma="Lafontantové" src="auto">X@-------------</AM>
+<AM lemma="Lafontantová_;S" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj1838-001-p1s0W37-Ta">
 <src.rf>tagger-a</src.rf>
@@ -487,9 +487,8 @@
 <tag>
 <AM lemma="který" src="auto" recommended="1">P4FS1----------</AM>
 <AM lemma="který" src="auto">P4NP1----------</AM>
-<AM lemma="který" src="auto">P4NP4----------</AM></tag>
-<comment>
-</comment>
+<AM lemma="který" src="auto">P4NP4----------</AM>
+</tag>
 </m>
 <m id="m-wsj1838-001-p1s0W39-Ta">
 <src.rf>tagger-a</src.rf>
@@ -498,9 +497,9 @@
 </w.rf>
 <form>rezignovala</form>
 <tag>
-<AM lemma="rezignovat" src="auto" recommended="1">VpQW----R-AAB--</AM></tag>
-<comment>
-</comment>
+<AM lemma="rezignovat" src="auto" recommended="1">VpQW---XR-AAB--</AM>
+<AM lemma="rezignovat" src="manual" selected="1">VpQW----R-AAB--</AM>
+</tag>
 </m>
 <m id="m-wsj1838-001-p1s0W40-Ta">
 <src.rf>tagger-a</src.rf>
@@ -530,12 +529,13 @@
 <w.rf>
 <LM>w#w-wsj1838-001-p1s0W42</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>mohla</form>
 <tag>
-<AM lemma="moci" src="auto" recommended="1">VpQW----R-AAI--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="moci" src="auto" recommended="1">VpQW---XR-AAI--</AM>
+<AM lemma="moci" src="manual" selected="1">VpQW----R-AAI--</AM>
+</tag>
+</m>
 <m id="m-wsj1838-001-p1s0W43-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

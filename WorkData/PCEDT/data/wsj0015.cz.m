@@ -3951,12 +3951,10 @@
 <w.rf>
 <LM>w#w-wsj0015-001-p1s12W23</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>milionů</form>
-<tag>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1" selected="1">NNIP2-----A----</tag>
+</m>
 <m id="m-wsj0015-001-p1s12W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

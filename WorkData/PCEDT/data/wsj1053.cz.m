@@ -746,13 +746,13 @@
 <w.rf>
 <LM>w#w-wsj1053-001-p1s2W15</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>někoho</form>
 <tag>
 <AM lemma="někdo" src="auto">PZM-2----------</AM>
-<AM lemma="někdo" src="auto" recommended="1">PZM-4----------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="někdo" src="auto" recommended="1">PZM-4----------</AM>
+</tag>
+</m>
 <m id="m-wsj1053-001-p1s2W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -901,12 +901,13 @@
 <w.rf>
 <LM>w#w-wsj1053-001-p1s3W4</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>skončilo</form>
 <tag>
-<AM lemma="skončit" src="auto" recommended="1">VpNS----R-AAP--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="skončit" src="auto" recommended="1">VpNS---XR-AAP--</AM>
+<AM lemma="skončit" src="manual" selected="1">VpNS----R-AAP--</AM>
+</tag>
+</m>
 <m id="m-wsj1053-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -6990,9 +6990,8 @@
 <AM lemma="o-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="o-77_,t" src="auto">F%-------------</AM>
 <AM lemma="o-88_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="obchodní_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM></tag>
-<comment>
-</comment>
+<AM lemma="obchodní_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-wsj0335-001-p1s18W17-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -7000,23 +6999,21 @@
 <LM>w#w-wsj0335-001-p1s18W17</LM>
 </w.rf>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0335-001-p1s18W17-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0335-001-p1s18W17</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Connell</form>
 <tag>
 <AM lemma="Connell_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Connell_;G" src="auto">NNIS4-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Connell_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Connell-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0335-001-p1s18W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

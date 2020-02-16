@@ -2222,16 +2222,14 @@
 <LM>w#w-wsj1688-001-p1s8W10</LM>
 </w.rf>
 <form>6000</form>
-<tag>
-<AM lemma="6000" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="6000" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1688-001-p1s8W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1688-001-p1s8W11</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>členné</form>
 <tag>
 <AM lemma="členný" src="auto">AAFP1----1A----</AM>
@@ -2249,10 +2247,9 @@
 <AM lemma="členný" src="auto">AANP5----1A---6</AM>
 <AM lemma="členný" src="auto">AANS1----1A----</AM>
 <AM lemma="členný" src="auto">AANS4----1A----</AM>
-<AM lemma="členný" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="členný" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1688-001-p1s8W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5650,14 +5647,14 @@
 <w.rf>
 <LM>w#w-wsj1688-001-p1s19W7</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>večer</form>
 <tag>
 <AM lemma="večer-1" src="auto">NNIS1-----A----</AM>
 <AM lemma="večer-1" src="auto">NNIS4-----A----</AM>
-<AM lemma="večer-2" src="auto" recommended="1">Db-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="večer-2" src="auto" recommended="1" selected="1">Db-------------</AM>
+</tag>
+</m>
 <m id="m-wsj1688-001-p1s19W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

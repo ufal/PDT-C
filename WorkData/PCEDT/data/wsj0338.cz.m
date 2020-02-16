@@ -69,9 +69,9 @@
 </w.rf>
 <form>Penney</form>
 <tag>
-<AM lemma="Penney_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="Penney_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Penney-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0338-001-p1s0W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -232,14 +232,14 @@
 <w.rf>
 <LM>w#w-wsj0338-001-p1s0W17</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>vysílaném</form>
 <tag>
 <AM lemma="vysílaný_^(*2t)" src="auto" recommended="1">AAIS6----1A----</AM>
 <AM lemma="vysílaný_^(*2t)" src="auto">AAMS6----1A----</AM>
-<AM lemma="vysílaný_^(*2t)" src="auto">AANS6----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="vysílaný_^(*2t)" src="auto">AANS6----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0338-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

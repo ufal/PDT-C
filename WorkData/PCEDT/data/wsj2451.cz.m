@@ -1752,21 +1752,18 @@
 <form>tzv</form>
 <tag>
 <AM lemma="takzvaný_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
-<AM lemma="takzvaně_:B" src="auto">Dg-------1A---8</AM></tag>
-<comment>
-</comment>
+<AM lemma="takzvaně_:B" src="auto">Dg-------1A---8</AM>
+</tag>
 </m>
 <m id="m-wsj2451-001-p1s5W12-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2451-001-p1s5W12</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
 <m id="m-wsj2451-001-p1s5W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7068,12 +7065,13 @@
 <w.rf>
 <LM>w#w-wsj2451-001-p1s25W27</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>přišly</form>
 <tag>
-<AM lemma="přijít" src="auto" recommended="1">VpTP----R-AAP--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="přijít" src="auto" recommended="1">VpTP---XR-AAP--</AM>
+<AM lemma="přijít" src="manual" selected="1">VpTP----R-AAP--</AM>
+</tag>
+</m>
 <m id="m-wsj2451-001-p1s25W28-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8324,9 +8322,8 @@
 <AM lemma="J-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="J-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="j-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="j-88_:B" src="auto">NNXXX-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="j-88_:B" src="auto">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj2451-001-p1s28W37-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -8334,16 +8331,14 @@
 <LM>w#w-wsj2451-001-p1s28W37</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj2451-001-p1s28W37-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2451-001-p1s28W37</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>B</form>
 <tag>
 <AM lemma="B-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
@@ -8351,10 +8346,9 @@
 <AM lemma="b-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="b-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="bod_:B" src="auto">NNIXX-----A----</AM>
-<AM lemma="bodový" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="bodový" src="auto">AAXXX----1A---8</AM>
+</tag>
+</m>
 <m id="m-wsj2451-001-p1s28W38-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -16037,12 +16031,13 @@
 <w.rf>
 <LM>w#w-wsj2451-001-p1s55W25</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Markey</form>
 <tag>
-<AM lemma="Markey" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Markey" src="auto">X@-------------</AM>
+<AM lemma="Markey_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2451-001-p1s55W26-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

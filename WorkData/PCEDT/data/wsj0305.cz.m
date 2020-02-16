@@ -285,9 +285,9 @@
 </w.rf>
 <form>Pinkerton</form>
 <tag>
-<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Pinkerton-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0305-001-p1s0W24-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -295,16 +295,14 @@
 <LM>w#w-wsj0305-001-p1s0W24</LM>
 </w.rf>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0305-001-p1s0W24-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0305-001-p1s0W24</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>s</form>
 <tag>
 <AM lemma="s-1" src="auto">RR--2----------</AM>
@@ -318,10 +316,10 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0305-001-p1s0W25-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -720,9 +718,9 @@
 </w.rf>
 <form>Pinkerton</form>
 <tag>
-<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Pinkerton-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0305-001-p1s1W27-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -730,16 +728,14 @@
 <LM>w#w-wsj0305-001-p1s1W27</LM>
 </w.rf>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0305-001-p1s1W27-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0305-001-p1s1W27</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>s</form>
 <tag>
 <AM lemma="s-1" src="auto">RR--2----------</AM>
@@ -753,10 +749,10 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0305-001-p1s1W28-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3784,9 +3780,9 @@
 </w.rf>
 <form>Pinkerton</form>
 <tag>
-<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Pinkerton-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0305-001-p1s10W34-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -3794,16 +3790,14 @@
 <LM>w#w-wsj0305-001-p1s10W34</LM>
 </w.rf>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0305-001-p1s10W34-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0305-001-p1s10W34</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>s</form>
 <tag>
 <AM lemma="s-1" src="auto">RR--2----------</AM>
@@ -3817,10 +3811,10 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0305-001-p1s10W35-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4292,9 +4286,9 @@
 </w.rf>
 <form>Pinkerton</form>
 <tag>
-<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Pinkerton-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0305-001-p1s12W10-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -4302,16 +4296,14 @@
 <LM>w#w-wsj0305-001-p1s12W10</LM>
 </w.rf>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0305-001-p1s12W10-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0305-001-p1s12W10</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>s</form>
 <tag>
 <AM lemma="s-1" src="auto">RR--2----------</AM>
@@ -4325,10 +4317,10 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0305-001-p1s12W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4636,9 +4628,9 @@
 </w.rf>
 <form>Pinkerton</form>
 <tag>
-<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Pinkerton-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0305-001-p1s13W9-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -4646,16 +4638,14 @@
 <LM>w#w-wsj0305-001-p1s13W9</LM>
 </w.rf>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0305-001-p1s13W9-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0305-001-p1s13W9</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>s</form>
 <tag>
 <AM lemma="s-1" src="auto">RR--2----------</AM>
@@ -4669,10 +4659,10 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0305-001-p1s13W10-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5252,9 +5242,9 @@
 </w.rf>
 <form>Pinkerton</form>
 <tag>
-<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Pinkerton-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0305-001-p1s14W27-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -5262,16 +5252,14 @@
 <LM>w#w-wsj0305-001-p1s14W27</LM>
 </w.rf>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0305-001-p1s14W27-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0305-001-p1s14W27</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>s</form>
 <tag>
 <AM lemma="s-1" src="auto">RR--2----------</AM>
@@ -5285,10 +5273,10 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0305-001-p1s14W28-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6879,9 +6867,9 @@
 </w.rf>
 <form>Pinkerton</form>
 <tag>
-<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Pinkerton-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0305-001-p1s23W2-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -6889,16 +6877,14 @@
 <LM>w#w-wsj0305-001-p1s23W2</LM>
 </w.rf>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0305-001-p1s23W2-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0305-001-p1s23W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>s</form>
 <tag>
 <AM lemma="s-1" src="auto">RR--2----------</AM>
@@ -6912,10 +6898,10 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0305-001-p1s23W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7889,9 +7875,9 @@
 </w.rf>
 <form>Pinkerton</form>
 <tag>
-<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Pinkerton-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0305-001-p1s27W11-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -7899,10 +7885,7 @@
 <LM>w#w-wsj0305-001-p1s27W11</LM>
 </w.rf>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0305-001-p1s27W11-Ta-sw2">
 <src.rf>tagger-a</src.rf>
@@ -7922,9 +7905,9 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0305-001-p1s27W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8356,9 +8339,9 @@
 </w.rf>
 <form>Pinkerton</form>
 <tag>
-<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Pinkerton-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0305-001-p1s27W47-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -8366,16 +8349,14 @@
 <LM>w#w-wsj0305-001-p1s27W47</LM>
 </w.rf>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0305-001-p1s27W47-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0305-001-p1s27W47</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>s</form>
 <tag>
 <AM lemma="s-1" src="auto">RR--2----------</AM>
@@ -8389,10 +8370,10 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0305-001-p1s27W48-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8590,9 +8571,9 @@
 </w.rf>
 <form>Pinkerton</form>
 <tag>
-<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Pinkerton-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0305-001-p1s28W17-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -8600,10 +8581,7 @@
 <LM>w#w-wsj0305-001-p1s28W17</LM>
 </w.rf>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0305-001-p1s28W17-Ta-sw2">
 <src.rf>tagger-a</src.rf>
@@ -8623,9 +8601,9 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0305-001-p1s28W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8916,10 +8894,7 @@
 </w.rf>
 <form_change>num_normalization</form_change>
 <form>-</form>
-<tag>
-<AM lemma="-" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="-" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0305-001-p1s28W38-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -8928,10 +8903,7 @@
 </w.rf>
 <form_change>num_normalization</form_change>
 <form>3</form>
-<tag>
-<AM lemma="3" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="3" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0305-001-p1s28W39-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9168,9 +9140,9 @@
 </w.rf>
 <form>Pinkerton</form>
 <tag>
-<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Pinkerton-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0305-001-p1s28W59-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -9178,16 +9150,14 @@
 <LM>w#w-wsj0305-001-p1s28W59</LM>
 </w.rf>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0305-001-p1s28W59-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0305-001-p1s28W59</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>s</form>
 <tag>
 <AM lemma="s-1" src="auto">RR--2----------</AM>
@@ -9201,10 +9171,10 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0305-001-p1s28W60-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9908,9 +9878,9 @@
 </w.rf>
 <form>Pinkerton</form>
 <tag>
-<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Pinkerton-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0305-001-p1s32W6-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -9918,16 +9888,14 @@
 <LM>w#w-wsj0305-001-p1s32W6</LM>
 </w.rf>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0305-001-p1s32W6-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0305-001-p1s32W6</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>s</form>
 <tag>
 <AM lemma="s-1" src="auto">RR--2----------</AM>
@@ -9941,10 +9909,10 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0305-001-p1s32W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10170,9 +10138,9 @@
 </w.rf>
 <form>Pinkerton</form>
 <tag>
-<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Pinkerton-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0305-001-p1s33W7-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -10180,16 +10148,14 @@
 <LM>w#w-wsj0305-001-p1s33W7</LM>
 </w.rf>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0305-001-p1s33W7-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0305-001-p1s33W7</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>s</form>
 <tag>
 <AM lemma="s-1" src="auto">RR--2----------</AM>
@@ -10203,10 +10169,10 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0305-001-p1s33W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10723,9 +10689,9 @@
 </w.rf>
 <form>Pinkerton</form>
 <tag>
-<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Pinkerton-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0305-001-p1s35W9-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -10733,10 +10699,7 @@
 <LM>w#w-wsj0305-001-p1s35W9</LM>
 </w.rf>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0305-001-p1s35W9-Ta-sw2">
 <src.rf>tagger-a</src.rf>
@@ -10756,9 +10719,9 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0305-001-p1s35W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10950,9 +10913,9 @@
 </w.rf>
 <form>Pinkerton</form>
 <tag>
-<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Pinkerton-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0305-001-p1s35W29-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -10960,16 +10923,14 @@
 <LM>w#w-wsj0305-001-p1s35W29</LM>
 </w.rf>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0305-001-p1s35W29-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0305-001-p1s35W29</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>s</form>
 <tag>
 <AM lemma="s-1" src="auto">RR--2----------</AM>
@@ -10983,10 +10944,10 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0305-001-p1s35W30-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -11463,9 +11424,9 @@
 </w.rf>
 <form>Pinkerton</form>
 <tag>
-<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Pinkerton-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0305-001-p1s37W13-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -11473,16 +11434,14 @@
 <LM>w#w-wsj0305-001-p1s37W13</LM>
 </w.rf>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0305-001-p1s37W13-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0305-001-p1s37W13</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>s</form>
 <tag>
 <AM lemma="s-1" src="auto">RR--2----------</AM>
@@ -11496,10 +11455,10 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0305-001-p1s37W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -12023,9 +11982,9 @@
 </w.rf>
 <form>Pinkerton</form>
 <tag>
-<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Pinkerton-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0305-001-p1s40W5-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -12033,16 +11992,14 @@
 <LM>w#w-wsj0305-001-p1s40W5</LM>
 </w.rf>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0305-001-p1s40W5-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0305-001-p1s40W5</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>s</form>
 <tag>
 <AM lemma="s-1" src="auto">RR--2----------</AM>
@@ -12056,10 +12013,10 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0305-001-p1s40W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -12753,9 +12710,9 @@
 </w.rf>
 <form>Pinkerton</form>
 <tag>
-<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Pinkerton-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0305-001-p1s42W14-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -12763,10 +12720,7 @@
 <LM>w#w-wsj0305-001-p1s42W14</LM>
 </w.rf>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0305-001-p1s42W14-Ta-sw2">
 <src.rf>tagger-a</src.rf>
@@ -12786,9 +12740,9 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0305-001-p1s42W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13018,9 +12972,9 @@
 </w.rf>
 <form>Pinkerton</form>
 <tag>
-<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Pinkerton-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0305-001-p1s42W30-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -13028,10 +12982,7 @@
 <LM>w#w-wsj0305-001-p1s42W30</LM>
 </w.rf>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0305-001-p1s42W30-Ta-sw2">
 <src.rf>tagger-a</src.rf>
@@ -13051,9 +13002,9 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0305-001-p1s42W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13201,9 +13152,9 @@
 </w.rf>
 <form>Pinkerton</form>
 <tag>
-<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Pinkerton-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0305-001-p1s42W41-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -13211,16 +13162,14 @@
 <LM>w#w-wsj0305-001-p1s42W41</LM>
 </w.rf>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0305-001-p1s42W41-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0305-001-p1s42W41</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>s</form>
 <tag>
 <AM lemma="s-1" src="auto">RR--2----------</AM>
@@ -13234,10 +13183,10 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0305-001-p1s42W42-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -13524,9 +13473,9 @@
 </w.rf>
 <form>Pinkerton</form>
 <tag>
-<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Pinkerton-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0305-001-p1s43W10-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -13534,16 +13483,14 @@
 <LM>w#w-wsj0305-001-p1s43W10</LM>
 </w.rf>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0305-001-p1s43W10-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0305-001-p1s43W10</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>s</form>
 <tag>
 <AM lemma="s-1" src="auto">RR--2----------</AM>
@@ -13557,10 +13504,10 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0305-001-p1s43W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -14831,9 +14778,9 @@
 </w.rf>
 <form>Pinkerton</form>
 <tag>
-<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Pinkerton-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0305-001-p1s48W5-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -14841,16 +14788,14 @@
 <LM>w#w-wsj0305-001-p1s48W5</LM>
 </w.rf>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0305-001-p1s48W5-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0305-001-p1s48W5</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>s</form>
 <tag>
 <AM lemma="s-1" src="auto">RR--2----------</AM>
@@ -14864,10 +14809,10 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0305-001-p1s48W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -15375,9 +15320,9 @@
 </w.rf>
 <form>Pinkerton</form>
 <tag>
-<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Pinkerton-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0305-001-p1s50W12-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -15385,16 +15330,14 @@
 <LM>w#w-wsj0305-001-p1s50W12</LM>
 </w.rf>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0305-001-p1s50W12-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0305-001-p1s50W12</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>s</form>
 <tag>
 <AM lemma="s-1" src="auto">RR--2----------</AM>
@@ -15408,10 +15351,10 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0305-001-p1s50W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -15894,9 +15837,9 @@
 </w.rf>
 <form>Pinkerton</form>
 <tag>
-<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="Pinkerton_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Pinkerton-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0305-001-p1s51W17-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -15904,16 +15847,14 @@
 <LM>w#w-wsj0305-001-p1s51W17</LM>
 </w.rf>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0305-001-p1s51W17-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0305-001-p1s51W17</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>s</form>
 <tag>
 <AM lemma="s-1" src="auto">RR--2----------</AM>
@@ -15927,10 +15868,10 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0305-001-p1s51W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

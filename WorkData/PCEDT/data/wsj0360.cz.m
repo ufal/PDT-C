@@ -3321,30 +3321,29 @@
 <AM lemma="Molinův-1_;S_^(*4a-1)" src="auto">AUFP1M---------</AM>
 <AM lemma="Molinův-1_;S_^(*4a-1)" src="auto">AUFP4M---------</AM>
 <AM lemma="Molinův-1_;S_^(*4a-1)" src="auto">AUFP5M---------</AM>
-<AM lemma="Molinův-1_;S_^(*4a-1)" src="auto">AUFS2M---------</AM>
+<AM lemma="Molinův-1_;S_^(*4a-1)" src="auto" selected="1">AUFS2M---------</AM>
 <AM lemma="Molinův-1_;S_^(*4a-1)" src="auto" recommended="1">AUIP1M---------</AM>
 <AM lemma="Molinův-1_;S_^(*4a-1)" src="auto">AUIP4M---------</AM>
 <AM lemma="Molinův-1_;S_^(*4a-1)" src="auto">AUIP5M---------</AM>
-<AM lemma="Molinův-1_;S_^(*4a-1)" src="auto">AUMP4M---------</AM></tag>
-<comment>
-</comment>
+<AM lemma="Molinův-1_;S_^(*4a-1)" src="auto">AUMP4M---------</AM>
+</tag>
 </m>
 <m id="m-wsj0360-001-p1s11W23-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0360-001-p1s11W23</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>teorie</form>
 <tag>
 <AM lemma="teorie" src="auto">NNFP1-----A----</AM>
 <AM lemma="teorie" src="auto">NNFP4-----A----</AM>
 <AM lemma="teorie" src="auto">NNFP5-----A----</AM>
 <AM lemma="teorie" src="auto" recommended="1">NNFS1-----A----</AM>
-<AM lemma="teorie" src="auto">NNFS2-----A----</AM>
-<AM lemma="teorie" src="auto">NNFS5-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="teorie" src="auto" selected="1">NNFS2-----A----</AM>
+<AM lemma="teorie" src="auto">NNFS5-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0360-001-p1s11W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4140,24 +4139,21 @@
 <LM>w#w-wsj0360-001-p1s13W22</LM>
 </w.rf>
 <form>11</form>
-<tag>
-<AM lemma="11" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="11" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0360-001-p1s13W22-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0360-001-p1s13W22</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letém</form>
 <tag>
 <AM lemma="letý" src="auto" recommended="1">AAIS6----1A----</AM>
 <AM lemma="letý" src="auto">AAMS6----1A----</AM>
-<AM lemma="letý" src="auto">AANS6----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS6----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0360-001-p1s13W23-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -11850,12 +11846,10 @@
 <w.rf>
 <LM>w#w-wsj0360-001-p1s37W5</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>vydavatelka</form>
-<tag>
-<AM lemma="vydavatelka_^(*2)" src="auto" recommended="1">NNFS1-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="vydavatelka_^(*2)" src="auto" recommended="1">NNFS1-----A----</tag>
+</m>
 <m id="m-wsj0360-001-p1s37W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -11937,7 +11931,8 @@
 <form>Massachussets</form>
 <tag>
 <AM lemma="Massachussets" src="auto">X@-------------</AM>
-<AM lemma="Massachussets_;G_,h_^(^GC**Massachusetts)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Massachussets_;G_,h_^(^GC**Massachusetts)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Massachussets_;G_,h_^(^GC**Massachusetts)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 </s>

@@ -2235,14 +2235,14 @@
 <w.rf>
 <LM>w#w-wsj0146-001-p1s6W4</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Bushe</form>
 <tag>
 <AM lemma="Bush_;S" src="auto">NNMP4-----A----</AM>
 <AM lemma="Bush_;S" src="auto" recommended="1">NNMS2-----A----</AM>
-<AM lemma="Bush_;S" src="auto">NNMS4-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Bush_;S" src="auto">NNMS4-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0146-001-p1s6W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2538,12 +2538,13 @@
 <w.rf>
 <LM>w#w-wsj0146-001-p1s7W8</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>řekly</form>
 <tag>
-<AM lemma="říci" src="auto" recommended="1">VpTP----R-AAP--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="říci" src="auto" recommended="1">VpTP---XR-AAP--</AM>
+<AM lemma="říci" src="manual" selected="1">VpTP----R-AAP--</AM>
+</tag>
+</m>
 <m id="m-wsj0146-001-p1s7W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3431,9 +3432,8 @@
 <AM lemma="používající_^(*4t)" src="auto">AGMP2-----A----</AM>
 <AM lemma="používající_^(*4t)" src="auto">AGMP6-----A----</AM>
 <AM lemma="používající_^(*4t)" src="auto">AGNP2-----A----</AM>
-<AM lemma="používající_^(*4t)" src="auto">AGNP6-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="používající_^(*4t)" src="auto">AGNP6-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0146-001-p1s10W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3473,19 +3473,19 @@
 <w.rf>
 <LM>w#w-wsj0146-001-p1s10W22</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>produkujících</form>
 <tag>
-<AM lemma="produkující_^(*5ovat)" src="auto">AGFP2-----A----</AM>
+<AM lemma="produkující_^(*5ovat)" src="auto" selected="1">AGFP2-----A----</AM>
 <AM lemma="produkující_^(*5ovat)" src="auto">AGFP6-----A----</AM>
 <AM lemma="produkující_^(*5ovat)" src="auto">AGIP2-----A----</AM>
 <AM lemma="produkující_^(*5ovat)" src="auto">AGIP6-----A----</AM>
 <AM lemma="produkující_^(*5ovat)" src="auto" recommended="1">AGMP2-----A----</AM>
 <AM lemma="produkující_^(*5ovat)" src="auto">AGMP6-----A----</AM>
 <AM lemma="produkující_^(*5ovat)" src="auto">AGNP2-----A----</AM>
-<AM lemma="produkující_^(*5ovat)" src="auto">AGNP6-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="produkující_^(*5ovat)" src="auto">AGNP6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0146-001-p1s10W23-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5482,15 +5482,15 @@
 <w.rf>
 <LM>w#w-wsj0146-001-p1s15W29</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>týkajícími</form>
 <tag>
 <AM lemma="týkající_^(*4t)" src="auto">AGFP7-----A----</AM>
 <AM lemma="týkající_^(*4t)" src="auto" recommended="1">AGIP7-----A----</AM>
 <AM lemma="týkající_^(*4t)" src="auto">AGMP7-----A----</AM>
-<AM lemma="týkající_^(*4t)" src="auto">AGNP7-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="týkající_^(*4t)" src="auto">AGNP7-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0146-001-p1s15W30-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

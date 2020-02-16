@@ -329,9 +329,9 @@
 </w.rf>
 <form>Albanesové</form>
 <tag>
-<AM lemma="Albanesové" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
+<AM lemma="Albanesové" src="auto">X@-------------</AM>
+<AM lemma="Albanesová_;S" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0378-001-p1s1W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -350,9 +350,8 @@
 <tag>
 <AM lemma="který" src="auto" recommended="1">P4FS1----------</AM>
 <AM lemma="který" src="auto">P4NP1----------</AM>
-<AM lemma="který" src="auto">P4NP4----------</AM></tag>
-<comment>
-</comment>
+<AM lemma="který" src="auto">P4NP4----------</AM>
+</tag>
 </m>
 <m id="m-wsj0378-001-p1s1W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -367,12 +366,13 @@
 <w.rf>
 <LM>w#w-wsj0378-001-p1s1W16</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>odešla</form>
 <tag>
-<AM lemma="odejít" src="auto" recommended="1">VpQW----R-AAP--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="odejít" src="auto" recommended="1">VpQW---XR-AAP--</AM>
+<AM lemma="odejít" src="manual" selected="1">VpQW----R-AAP--</AM>
+</tag>
+</m>
 <m id="m-wsj0378-001-p1s1W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

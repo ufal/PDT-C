@@ -9029,6 +9029,7 @@
 <w.rf>
 <LM>w#w-wsj0518-001-p1s27W23</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>vyžadující</form>
 <tag>
 <AM lemma="vyžadující_^(*5ovat)" src="auto">AGFP1-----A----</AM>
@@ -9042,7 +9043,7 @@
 <AM lemma="vyžadující_^(*5ovat)" src="auto">AGFS6-----A----</AM>
 <AM lemma="vyžadující_^(*5ovat)" src="auto">AGFS7-----A----</AM>
 <AM lemma="vyžadující_^(*5ovat)" src="auto">AGIP1-----A----</AM>
-<AM lemma="vyžadující_^(*5ovat)" src="auto">AGIP4-----A----</AM>
+<AM lemma="vyžadující_^(*5ovat)" src="auto" selected="1">AGIP4-----A----</AM>
 <AM lemma="vyžadující_^(*5ovat)" src="auto">AGIP5-----A----</AM>
 <AM lemma="vyžadující_^(*5ovat)" src="auto">AGIS1-----A----</AM>
 <AM lemma="vyžadující_^(*5ovat)" src="auto">AGIS4-----A----</AM>
@@ -9057,10 +9058,9 @@
 <AM lemma="vyžadující_^(*5ovat)" src="auto">AGNP5-----A----</AM>
 <AM lemma="vyžadující_^(*5ovat)" src="auto">AGNS1-----A----</AM>
 <AM lemma="vyžadující_^(*5ovat)" src="auto" recommended="1">AGNS4-----A----</AM>
-<AM lemma="vyžadující_^(*5ovat)" src="auto">AGNS5-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="vyžadující_^(*5ovat)" src="auto">AGNS5-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0518-001-p1s27W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -11965,12 +11965,10 @@
 <w.rf>
 <LM>w#w-wsj0518-001-p1s34W12</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>soukromě</form>
-<tag>
-<AM lemma="soukromě_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="soukromě_^(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
+</m>
 <m id="m-wsj0518-001-p1s34W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

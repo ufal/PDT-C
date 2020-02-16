@@ -2973,12 +2973,13 @@
 <w.rf>
 <LM>w#w-wsj1516-001-p1s8W21</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>IIcx</form>
 <tag>
-<AM lemma="IIcx" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="IIcx" src="auto">X@-------------</AM>
+<AM lemma="IIcx-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1516-001-p1s8W22-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -59,9 +59,9 @@
 <form>Inc</form>
 <tag>
 <AM lemma="Inc-77_:B" src="auto" recommended="1">F%-------------</AM>
-<AM lemma="inc-77_:B" src="auto">F%-------------</AM></tag>
-<comment>
-</comment>
+<AM lemma="inc-77_:B" src="auto">F%-------------</AM>
+<AM lemma="Inc-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj2439-001-p1s0W5-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -69,22 +69,17 @@
 <LM>w#w-wsj2439-001-p1s0W5</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj2439-001-p1s0W5-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2439-001-p1s0W5</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>uvedla</form>
-<tag>
-<AM lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="uvést" src="auto" recommended="1">VpQW---XR-AAP--</tag>
+</m>
 <m id="m-wsj2439-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1875,24 +1870,23 @@
 <AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="versus_:B" src="auto">RR--1---------9</AM></tag>
-<comment>
-</comment>
+<AM lemma="versus_:B" src="auto">RR--1---------9</AM>
+</tag>
 </m>
 <m id="m-wsj2439-001-p1s5W13-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2439-001-p1s5W13</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>rámci</form>
 <tag>
 <AM lemma="rámec" src="auto">NNIP7-----A----</AM>
 <AM lemma="rámec" src="auto">NNIS3-----A----</AM>
 <AM lemma="rámec" src="auto">NNIS5-----A----</AM>
-<AM lemma="rámec" src="auto" recommended="1">NNIS6-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="rámec" src="auto" recommended="1">NNIS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2439-001-p1s5W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

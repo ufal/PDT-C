@@ -725,7 +725,8 @@
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="společnost" src="manual">NNFXX-----A---8</AM>
-<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---b</AM>
+<AM lemma="společnost" src="manual">NNFXX-----A---b</AM>
+<AM lemma="společnost" src="manual" selected="1">NNFXX-----A---a</AM>
 </tag>
 </m>
 <m id="m-wsj0180-001-p1s2W3-Ta">
@@ -745,9 +746,9 @@
 <tag>
 <AM lemma="r-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="r-88_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="rok_:B" src="auto" recommended="1">NNIXX-----A---8</AM></tag>
-<comment>
-</comment>
+<AM lemma="rok_:B" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="ručení" src="manual" selected="1">NNNS7-----A---b</AM>
+</tag>
 </m>
 <m id="m-wsj0180-001-p1s2W4-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -755,10 +756,7 @@
 <LM>w#w-wsj0180-001-p1s2W4</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0180-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -836,21 +834,24 @@
 <LM>w#w-wsj0180-001-p1s2W11</LM>
 </w.rf>
 <form>pořídil</form>
-<tag lemma="pořídit" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag>
+<AM lemma="pořídit" src="auto" recommended="1">VpYS---XR-AAP--</AM>
+<AM lemma="pořídit" src="manual" selected="1">VpYS----R-AAP--</AM>
+</tag>
 </m>
 <m id="m-wsj0180-001-p1s2W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0180-001-p1s2W12</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>licenci</form>
 <tag>
 <AM lemma="licence" src="auto">NNFS3-----A----</AM>
 <AM lemma="licence" src="auto" recommended="1">NNFS4-----A----</AM>
-<AM lemma="licence" src="auto">NNFS6-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="licence" src="auto">NNFS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0180-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2701,6 +2702,7 @@
 <w.rf>
 <LM>w#w-wsj0180-001-p1s7W20</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>periodontálních</form>
 <tag>
 <AM lemma="periodontální_;U" src="auto">AAFP2----1A----</AM>
@@ -2710,10 +2712,9 @@
 <AM lemma="periodontální_;U" src="auto">AAMP2----1A----</AM>
 <AM lemma="periodontální_;U" src="auto">AAMP6----1A----</AM>
 <AM lemma="periodontální_;U" src="auto">AANP2----1A----</AM>
-<AM lemma="periodontální_;U" src="auto">AANP6----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="periodontální_;U" src="auto">AANP6----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0180-001-p1s7W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

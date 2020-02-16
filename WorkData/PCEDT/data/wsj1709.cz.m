@@ -2612,25 +2612,25 @@
 </w.rf>
 <form>Iran</form>
 <tag>
-<AM lemma="Iran" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
+<AM lemma="Iran" src="auto">X@-------------</AM>
+<AM lemma="Iran-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1709-001-p1s8W32-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1709-001-p1s8W32</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>U</form>
 <tag>
 <AM lemma="U-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="U-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="u-1" src="auto">RR--2----------</AM>
 <AM lemma="u-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="u-88_:B" src="auto">NNXXX-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="u-88_:B" src="auto">NNXXX-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1709-001-p1s8W33-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

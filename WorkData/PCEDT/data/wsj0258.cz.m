@@ -1699,23 +1699,20 @@
 <LM>w#w-wsj0258-001-p1s5W16</LM>
 </w.rf>
 <form>10</form>
-<tag>
-<AM lemma="10" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="10" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0258-001-p1s5W16-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0258-001-p1s5W16</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>krát</form>
 <tag>
 <AM lemma="krát-1_^(mat._operace;_2_krát_3)" src="auto">J*-------------</AM>
-<AM lemma="krát-2" src="auto" recommended="1">Db-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="krát-2" src="auto" recommended="1">Db-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0258-001-p1s5W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2076,12 +2073,13 @@
 <w.rf>
 <LM>w#w-wsj0258-001-p1s6W20</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>InfoCorp</form>
 <tag>
-<AM lemma="InfoCorp" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="InfoCorp" src="auto">X@-------------</AM>
+<AM lemma="InfoCorp_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0258-001-p1s6W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2093,7 +2091,7 @@
 <AM lemma="zabývající_^(*4t)" src="auto">AGFP4-----A----</AM>
 <AM lemma="zabývající_^(*4t)" src="auto">AGFP5-----A----</AM>
 <AM lemma="zabývající_^(*4t)" src="auto">AGFS1-----A----</AM>
-<AM lemma="zabývající_^(*4t)" src="auto">AGFS2-----A----</AM>
+<AM lemma="zabývající_^(*4t)" src="auto" selected="1">AGFS2-----A----</AM>
 <AM lemma="zabývající_^(*4t)" src="auto">AGFS3-----A----</AM>
 <AM lemma="zabývající_^(*4t)" src="auto">AGFS4-----A----</AM>
 <AM lemma="zabývající_^(*4t)" src="auto">AGFS5-----A----</AM>
@@ -2108,7 +2106,7 @@
 <AM lemma="zabývající_^(*4t)" src="auto">AGMP1-----A----</AM>
 <AM lemma="zabývající_^(*4t)" src="auto">AGMP4-----A----</AM>
 <AM lemma="zabývající_^(*4t)" src="auto">AGMP5-----A----</AM>
-<AM lemma="zabývající_^(*4t)" src="auto" selected="1">AGMS1-----A----</AM>
+<AM lemma="zabývající_^(*4t)" src="auto">AGMS1-----A----</AM>
 <AM lemma="zabývající_^(*4t)" src="auto">AGMS5-----A----</AM>
 <AM lemma="zabývající_^(*4t)" src="auto">AGNP1-----A----</AM>
 <AM lemma="zabývající_^(*4t)" src="auto">AGNP4-----A----</AM>

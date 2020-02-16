@@ -5384,6 +5384,7 @@
 <w.rf>
 <LM>w#w-wsj1784-001-p1s18W7</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>cenných</form>
 <tag>
 <AM lemma="cenný" src="auto">AAFP2----1A----</AM>
@@ -5393,10 +5394,9 @@
 <AM lemma="cenný" src="auto">AAMP2----1A----</AM>
 <AM lemma="cenný" src="auto">AAMP6----1A----</AM>
 <AM lemma="cenný" src="auto">AANP2----1A----</AM>
-<AM lemma="cenný" src="auto">AANP6----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="cenný" src="auto">AANP6----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1784-001-p1s18W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6088,6 +6088,7 @@
 <w.rf>
 <LM>w#w-wsj1784-001-p1s21W20</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>své</form>
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FP1---------1</AM>
@@ -6103,10 +6104,9 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8YP4---------1</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOFP-----------</AM>
 <AM lemma="svůj-2_^(být_svůj)" src="auto">AOIP-----------</AM>
-<AM lemma="svůj-2_^(být_svůj)" src="auto">AONS-----------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="svůj-2_^(být_svůj)" src="auto">AONS-----------</AM>
+</tag>
+</m>
 <m id="m-wsj1784-001-p1s21W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6570,12 +6570,13 @@
 <w.rf>
 <LM>w#w-wsj1784-001-p1s22W16</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>byl</form>
 <tag>
-<AM lemma="být" src="auto" recommended="1">VpYS----R-AAI--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="být" src="auto" recommended="1">VpYS---XR-AAI--</AM>
+<AM lemma="být" src="manual" selected="1">VpYS----R-AAI--</AM>
+</tag>
+</m>
 <m id="m-wsj1784-001-p1s22W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7558,21 +7559,19 @@
 <form>Trim</form>
 <tag>
 <AM lemma="trim" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="trim" src="auto">NNIS4-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="trim" src="auto">NNIS4-----A----</AM>
+<AM lemma="Trim-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj1784-001-p1s25W14-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1784-001-p1s25W14</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
+</m>
 <m id="m-wsj1784-001-p1s25W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -4245,16 +4245,14 @@
 <LM>w#w-wsj0444-001-p1s15W2</LM>
 </w.rf>
 <form>30</form>
-<tag>
-<AM lemma="30" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="30" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0444-001-p1s15W2-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0444-001-p1s15W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letý</form>
 <tag>
 <AM lemma="letý" src="auto">AAFP1----1A---6</AM>
@@ -4266,7 +4264,7 @@
 <AM lemma="letý" src="auto">AAIP1----1A---6</AM>
 <AM lemma="letý" src="auto">AAIP4----1A---6</AM>
 <AM lemma="letý" src="auto">AAIP5----1A---6</AM>
-<AM lemma="letý" src="auto">AAIS1----1A----</AM>
+<AM lemma="letý" src="auto" selected="1">AAIS1----1A----</AM>
 <AM lemma="letý" src="auto" recommended="1">AAIS4----1A----</AM>
 <AM lemma="letý" src="auto">AAIS5----1A----</AM>
 <AM lemma="letý" src="auto">AAMP1----1A---6</AM>
@@ -4279,10 +4277,9 @@
 <AM lemma="letý" src="auto">AANP5----1A---6</AM>
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
-<AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj0444-001-p1s15W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4336,7 +4333,10 @@
 <LM>w#w-wsj0444-001-p1s15W5</LM>
 </w.rf>
 <form>získal</form>
-<tag lemma="získat" src="auto" recommended="1">VpYS----R-AAP--</tag>
+<tag>
+<AM lemma="získat" src="auto" recommended="1">VpYS---XR-AAP--</AM>
+<AM lemma="získat" src="manual" selected="1">VpYS----R-AAP--</AM>
+</tag>
 </m>
 <m id="m-wsj0444-001-p1s15W6-Ta">
 <src.rf>tagger-a</src.rf>

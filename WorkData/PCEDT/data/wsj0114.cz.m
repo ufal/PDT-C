@@ -394,12 +394,13 @@
 <w.rf>
 <LM>w#w-wsj0114-001-p1s0W29</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>zavřela</form>
 <tag>
-<AM lemma="zavřít" src="auto" recommended="1">VpQW----R-AAP--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="zavřít" src="auto" recommended="1">VpQW---XR-AAP--</AM>
+<AM lemma="zavřít" src="manual" selected="1">VpQW----R-AAP--</AM>
+</tag>
+</m>
 <m id="m-wsj0114-001-p1s0W30-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1122,14 +1123,14 @@
 <w.rf>
 <LM>w#w-wsj0114-001-p1s2W14</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>milionu</form>
 <tag>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS3-----A----</AM>
-<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS6-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0114-001-p1s2W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8983,21 +8984,18 @@
 <AM lemma="l-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="letopočet_:B" src="auto">NNIS2-----A---8</AM>
 <AM lemma="letopočet_:B" src="auto">NNIS7-----A---8</AM>
-<AM lemma="litr" src="auto">NNIXX-----A---8</AM></tag>
-<comment>
-</comment>
+<AM lemma="litr" src="auto">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-wsj0114-001-p1s33W8-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0114-001-p1s33W8</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
 <m id="m-wsj0114-001-p1s33W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

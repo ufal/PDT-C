@@ -1084,9 +1084,8 @@
 <AM lemma="vyspělý_^(*2t)" src="auto">AAMP2----1A----</AM>
 <AM lemma="vyspělý_^(*2t)" src="auto">AAMP6----1A----</AM>
 <AM lemma="vyspělý_^(*2t)" src="auto">AANP2----1A----</AM>
-<AM lemma="vyspělý_^(*2t)" src="auto">AANP6----1A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="vyspělý_^(*2t)" src="auto">AANP6----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj2442-001-p1s1W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1149,25 +1148,22 @@
 <LM>w#w-wsj2442-001-p1s1W40</LM>
 </w.rf>
 <form>1.17</form>
-<tag>
-<AM lemma="1.17" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="1.17" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj2442-001-p1s1W40-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2442-001-p1s1W40</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>miliardy</form>
 <tag>
 <AM lemma="miliarda`1000000000" src="auto">NNFP1-----A----</AM>
 <AM lemma="miliarda`1000000000" src="auto">NNFP4-----A----</AM>
 <AM lemma="miliarda`1000000000" src="auto">NNFP5-----A----</AM>
-<AM lemma="miliarda`1000000000" src="auto" recommended="1">NNFS2-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="miliarda`1000000000" src="auto" recommended="1">NNFS2-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2442-001-p1s1W41-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1547,6 +1543,7 @@
 <w.rf>
 <LM>w#w-wsj2442-001-p1s3W13</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>čtvrtletí</form>
 <tag>
 <AM lemma="čtvrtletý" src="auto">AAMP1----1A----</AM>
@@ -1560,10 +1557,9 @@
 <AM lemma="čtvrtletí" src="auto">NNNS3-----A----</AM>
 <AM lemma="čtvrtletí" src="auto">NNNS4-----A----</AM>
 <AM lemma="čtvrtletí" src="auto">NNNS5-----A----</AM>
-<AM lemma="čtvrtletí" src="auto" recommended="1">NNNS6-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="čtvrtletí" src="auto" recommended="1">NNNS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2442-001-p1s3W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1903,12 +1899,13 @@
 <w.rf>
 <LM>w#w-wsj2442-001-p1s4W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Bowder</form>
 <tag>
-<AM lemma="Bowder" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Bowder" src="auto">X@-------------</AM>
+<AM lemma="Bowder_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2442-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3270,12 +3267,13 @@
 <w.rf>
 <LM>w#w-wsj2442-001-p1s8W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Bowder</form>
 <tag>
-<AM lemma="Bowder" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Bowder" src="auto">X@-------------</AM>
+<AM lemma="Bowder_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2442-001-p1s8W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

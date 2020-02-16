@@ -219,10 +219,7 @@
 <LM>w#w-wsj2135-001-p1s1W1</LM>
 </w.rf>
 <form>52</form>
-<tag>
-<AM lemma="52" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="52" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj2135-001-p1s1W1-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -246,16 +243,15 @@
 <AM lemma="letý" src="auto">AAMP1----1A---6</AM>
 <AM lemma="letý" src="auto">AAMP4----1A---6</AM>
 <AM lemma="letý" src="auto">AAMP5----1A---6</AM>
-<AM lemma="letý" src="auto">AAMS1----1A----</AM>
+<AM lemma="letý" src="auto" selected="1">AAMS1----1A----</AM>
 <AM lemma="letý" src="auto">AAMS5----1A----</AM>
 <AM lemma="letý" src="auto">AANP1----1A---6</AM>
 <AM lemma="letý" src="auto">AANP4----1A---6</AM>
 <AM lemma="letý" src="auto">AANP5----1A---6</AM>
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
-<AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
-<comment>
-</comment>
+<AM lemma="letý" src="auto">AANS5----1A---6</AM>
+</tag>
 </m>
 <m id="m-wsj2135-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -298,25 +294,22 @@
 <LM>w#w-wsj2135-001-p1s1W5</LM>
 </w.rf>
 <form>36</form>
-<tag>
-<AM lemma="36" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="36" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj2135-001-p1s1W5-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2135-001-p1s1W5</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letého</form>
 <tag>
 <AM lemma="letý" src="auto">AAIS2----1A----</AM>
 <AM lemma="letý" src="auto">AAMS2----1A----</AM>
 <AM lemma="letý" src="auto" recommended="1">AAMS4----1A----</AM>
-<AM lemma="letý" src="auto">AANS2----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS2----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj2135-001-p1s1W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

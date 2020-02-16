@@ -20326,6 +20326,7 @@
 <w.rf>
 <LM>w#w-wsj1574-001-p1s62W1</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Univerzální</form>
 <tag>
 <AM lemma="univerzální" src="auto">AAFP1----1A----</AM>
@@ -20354,10 +20355,9 @@
 <AM lemma="univerzální" src="auto">AANP5----1A----</AM>
 <AM lemma="univerzální" src="auto" recommended="1">AANS1----1A----</AM>
 <AM lemma="univerzální" src="auto">AANS4----1A----</AM>
-<AM lemma="univerzální" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="univerzální" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1574-001-p1s62W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -20389,7 +20389,7 @@
 <AM lemma="životní_^(souvisí_se_životem;_prostředí,...)" src="auto">AANP1----1A----</AM>
 <AM lemma="životní_^(souvisí_se_životem;_prostředí,...)" src="auto">AANP4----1A----</AM>
 <AM lemma="životní_^(souvisí_se_životem;_prostředí,...)" src="auto">AANP5----1A----</AM>
-<AM lemma="životní_^(souvisí_se_životem;_prostředí,...)" src="auto">AANS1----1A----</AM>
+<AM lemma="životní_^(souvisí_se_životem;_prostředí,...)" src="auto" selected="1">AANS1----1A----</AM>
 <AM lemma="životní_^(souvisí_se_životem;_prostředí,...)" src="auto" recommended="1">AANS4----1A----</AM>
 <AM lemma="životní_^(souvisí_se_životem;_prostředí,...)" src="auto">AANS5----1A----</AM>
 <AM lemma="životný_^(př._rod_životný)" src="auto">AAMP1----1A----</AM>
@@ -20411,7 +20411,7 @@
 <AM lemma="pojištění_^(*5stit)" src="auto">NNNP2-----A----</AM>
 <AM lemma="pojištění_^(*5stit)" src="auto">NNNP4-----A----</AM>
 <AM lemma="pojištění_^(*5stit)" src="auto">NNNP5-----A----</AM>
-<AM lemma="pojištění_^(*5stit)" src="auto">NNNS1-----A----</AM>
+<AM lemma="pojištění_^(*5stit)" src="auto" selected="1">NNNS1-----A----</AM>
 <AM lemma="pojištění_^(*5stit)" src="auto">NNNS2-----A----</AM>
 <AM lemma="pojištění_^(*5stit)" src="auto">NNNS3-----A----</AM>
 <AM lemma="pojištění_^(*5stit)" src="auto" recommended="1">NNNS4-----A----</AM>
@@ -25838,10 +25838,7 @@
 <LM>w#w-wsj1574-001-p1s77W6</LM>
 </w.rf>
 <form>"</form>
-<tag>
-<AM lemma="&quot;" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="&quot;" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj1574-001-p1s77W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -25979,12 +25976,10 @@
 <w.rf>
 <LM>w#w-wsj1574-001-p1s77W20</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>"</form>
-<tag>
-<AM lemma="&quot;" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="&quot;" src="auto" recommended="1">Z:-------------</tag>
+</m>
 <m id="m-wsj1574-001-p1s77W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

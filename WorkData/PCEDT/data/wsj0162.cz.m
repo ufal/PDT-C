@@ -1203,9 +1203,9 @@
 </w.rf>
 <form>Poor</form>
 <tag>
-<AM lemma="Poor" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
+<AM lemma="Poor" src="auto">X@-------------</AM>
+<AM lemma="Poor-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-wsj0162-001-p1s3W4-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -1213,16 +1213,14 @@
 <LM>w#w-wsj0162-001-p1s3W4</LM>
 </w.rf>
 <form>'</form>
-<tag>
-<AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="'" src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj0162-001-p1s3W4-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0162-001-p1s3W4</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>s</form>
 <tag>
 <AM lemma="s-1" src="auto">RR--2----------</AM>
@@ -1236,10 +1234,10 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+<AM lemma="s-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0162-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2655,13 +2653,13 @@
 <w.rf>
 <LM>w#w-wsj0162-001-p1s9W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>vzhledem</form>
 <tag>
 <AM lemma="vzhled" src="auto">NNIS7-----A----</AM>
-<AM lemma="vzhledem" src="auto" recommended="1">RF-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="vzhledem" src="auto" recommended="1">RF-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0162-001-p1s9W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4356,14 +4354,14 @@
 <w.rf>
 <LM>w#w-wsj0162-001-p1s13W25</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>na</form>
 <tag>
 <AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
 <AM lemma="na-1" src="auto">RR--6----------</AM>
-<AM lemma="na-2" src="auto">II-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="na-2" src="auto">II-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0162-001-p1s13W26-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6030,12 +6028,10 @@
 <w.rf>
 <LM>w#w-wsj0162-001-p1s17W36</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>více</form>
-<tag>
-<AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="hodně-3" src="auto" recommended="1">Dg-------2A----</tag>
+</m>
 <m id="m-wsj0162-001-p1s17W37-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8127,12 +8123,13 @@
 <w.rf>
 <LM>w#w-wsj0162-001-p1s24W5</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Lambert</form>
 <tag>
-<AM lemma="Lambert_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Lambert_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Lambert-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0162-001-p1s24W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9229,15 +9226,15 @@
 <w.rf>
 <LM>w#w-wsj0162-001-p1s26W20</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>těsně</form>
 <tag>
 <AM lemma="těsna" src="auto">NNFS3-----A----</AM>
 <AM lemma="těsna" src="auto">NNFS6-----A----</AM>
 <AM lemma="těsnit" src="auto">VeYS------A-I--</AM>
-<AM lemma="těsně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="těsně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0162-001-p1s26W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -11467,14 +11464,15 @@
 <w.rf>
 <LM>w#w-wsj0162-001-p1s32W18</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>se</form>
 <tag>
 <AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
-<AM lemma="s-1" src="auto">RV--7----------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="s-1" src="auto">RV--7----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="manual" selected="1">P7--4----------</AM>
+</tag>
+</m>
 <m id="m-wsj0162-001-p1s32W19-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

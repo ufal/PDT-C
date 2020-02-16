@@ -2431,21 +2431,19 @@
 </w.rf>
 <form>čtyř</form>
 <tag>
-<AM lemma="čtyři`4" src="auto" recommended="1">ClXP2----------</AM></tag>
-<comment>
-</comment>
+<AM lemma="čtyři`4" src="auto" recommended="1">ClXP2----------</AM>
+<AM lemma="čtyř`4" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m-wsj2156-001-p1s9W23-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2156-001-p1s9W23</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>-</form>
-<tag>
-<AM lemma="-" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="-" src="auto" recommended="1">Z:-------------</tag>
+</m>
 <m id="m-wsj2156-001-p1s9W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

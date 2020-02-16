@@ -43,12 +43,13 @@
 </w.rf>
 <form>Fiat</form>
 <tag>
-<AM lemma="Fiat-77" src="auto" selected="1">F%-------------</AM>
+<AM lemma="Fiat-77" src="auto">F%-------------</AM>
 <AM lemma="Fiat_;K_;R" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Fiat_;K_;R" src="auto">NNIS4-----A----</AM>
 <AM lemma="fiat-77_,t" src="auto">F%-------------</AM>
 <AM lemma="fiat_;R" src="auto">NNIS1-----A----</AM>
 <AM lemma="fiat_;R" src="auto">NNIS4-----A----</AM>
+<AM lemma="Fiat_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj2084-001-p1s0W4-Ta">
@@ -72,9 +73,8 @@
 <AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
-<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
+</tag>
 </m>
 <m id="m-wsj2084-001-p1s0W4-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -82,16 +82,14 @@
 <LM>w#w-wsj2084-001-p1s0W4</LM>
 </w.rf>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
 </m>
 <m id="m-wsj2084-001-p1s0W4-Ta-sw2">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2084-001-p1s0W4</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>p</form>
 <tag>
 <AM lemma="p-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
@@ -100,10 +98,9 @@
 <AM lemma="pod-1_:B" src="auto">RR--4---------8</AM>
 <AM lemma="pod-1_:B" src="auto">RR--7---------8</AM>
 <AM lemma="podnik_:B" src="auto">NNIXX-----A---8</AM>
-<AM lemma="popisný_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="popisný_:B" src="auto">AAXXX----1A---8</AM>
+</tag>
+</m>
 <m id="m-wsj2084-001-p1s0W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -2360,12 +2357,10 @@
 <w.rf>
 <LM>w#w-wsj2084-001-p1s5W37</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>neovlivňují</form>
-<tag>
-<AM lemma="ovlivňovat" src="auto" recommended="1">VB-P---3P-NAI--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="ovlivňovat" src="auto" recommended="1">VB-P---3P-NAI--</tag>
+</m>
 <m id="m-wsj2084-001-p1s5W38-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

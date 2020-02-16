@@ -1821,6 +1821,7 @@
 <w.rf>
 <LM>w#w-wsj0478-001-p1s4W15</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>které</form>
 <tag>
 <AM lemma="který" src="auto">P4FP1----------</AM>
@@ -1832,11 +1833,10 @@
 <AM lemma="který" src="auto">P4NP1---------6</AM>
 <AM lemma="který" src="auto">P4NP4---------6</AM>
 <AM lemma="který" src="auto">P4NS1----------</AM>
-<AM lemma="který" src="auto">P4NS4----------</AM>
-<AM lemma="který" src="auto" recommended="1">P4YP4----------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="který" src="auto" selected="1">P4NS4----------</AM>
+<AM lemma="který" src="auto" recommended="1">P4YP4----------</AM>
+</tag>
+</m>
 <m id="m-wsj0478-001-p1s4W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

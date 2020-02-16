@@ -4901,7 +4901,8 @@
 <form>Campeau</form>
 <tag>
 <AM lemma="Campeau" src="auto">X@-------------</AM>
-<AM lemma="Campeau-2_;S" src="manual" selected="1">NNMS1-----A----</AM>
+<AM lemma="Campeau-2_;S" src="manual">NNMS1-----A----</AM>
+<AM lemma="Campeau_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1140-001-p1s11W24-Ta">
@@ -5354,12 +5355,13 @@
 <w.rf>
 <LM>w#w-wsj1140-001-p1s13W15</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Campeau</form>
 <tag>
-<AM lemma="Campeau" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Campeau" src="auto">X@-------------</AM>
+<AM lemma="Campeau_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1140-001-p1s13W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5497,12 +5499,13 @@
 <w.rf>
 <LM>w#w-wsj1140-001-p1s14W7</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Campeau</form>
 <tag>
-<AM lemma="Campeau" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Campeau" src="auto">X@-------------</AM>
+<AM lemma="Campeau_;K" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1140-001-p1s14W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

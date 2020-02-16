@@ -1501,24 +1501,21 @@
 <LM>w#w-wsj0610-001-p1s6W29</LM>
 </w.rf>
 <form>6</form>
-<tag>
-<AM lemma="6" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="6" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0610-001-p1s6W29-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0610-001-p1s6W29</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>miliardovém</form>
 <tag>
 <AM lemma="miliardový" src="auto" recommended="1">AAIS6----1A----</AM>
 <AM lemma="miliardový" src="auto">AAMS6----1A----</AM>
-<AM lemma="miliardový" src="auto">AANS6----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="miliardový" src="auto">AANS6----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0610-001-p1s6W30-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5619,14 +5616,16 @@
 <w.rf>
 <LM>w#w-wsj0610-001-p1s20W5</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Kellogg</form>
 <tag>
 <AM lemma="Kellogg_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Kellogg_;G" src="auto">NNIS4-----A----</AM>
-<AM lemma="Kellogg_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Kellogg_;S" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="Kellogg_;G_;K" src="manual">NNIS1-----A----</AM>
+<AM lemma="Kellogg-1_;G_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0610-001-p1s20W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9209,24 +9208,21 @@
 <LM>w#w-wsj0610-001-p1s32W18</LM>
 </w.rf>
 <form>185</form>
-<tag>
-<AM lemma="185" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="185" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0610-001-p1s32W18-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0610-001-p1s32W18</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>akrovém</form>
 <tag>
 <AM lemma="akrový" src="auto">AAIS6----1A----</AM>
 <AM lemma="akrový" src="auto">AAMS6----1A----</AM>
-<AM lemma="akrový" src="auto" recommended="1">AANS6----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="akrový" src="auto" recommended="1">AANS6----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0610-001-p1s32W19-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

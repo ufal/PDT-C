@@ -102,21 +102,18 @@
 <AM lemma="l-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="letopočet_:B" src="auto">NNIS2-----A---8</AM>
 <AM lemma="letopočet_:B" src="auto">NNIS7-----A---8</AM>
-<AM lemma="litr" src="auto">NNIXX-----A---8</AM></tag>
-<comment>
-</comment>
+<AM lemma="litr" src="auto">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-wsj2042-001-p1s0W8-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2042-001-p1s0W8</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
 <m id="m-wsj2042-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -933,12 +930,13 @@
 <w.rf>
 <LM>w#w-wsj2042-001-p1s2W12</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Parsow</form>
 <tag>
-<AM lemma="Parsow" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Parsow" src="auto">X@-------------</AM>
+<AM lemma="Parsow_;S" src="manual" selected="1">NNMXX-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2042-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

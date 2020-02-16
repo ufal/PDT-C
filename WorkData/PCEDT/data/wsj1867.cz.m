@@ -6102,9 +6102,8 @@
 <tag>
 <AM lemma="nabízený_^(*2t)" src="auto" recommended="1">AAIS3----1A----</AM>
 <AM lemma="nabízený_^(*2t)" src="auto">AAMS3----1A----</AM>
-<AM lemma="nabízený_^(*2t)" src="auto">AANS3----1A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="nabízený_^(*2t)" src="auto">AANS3----1A----</AM>
+</tag>
 </m>
 <m id="m-wsj1867-001-p1s31W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6335,14 +6334,14 @@
 <w.rf>
 <LM>w#w-wsj1867-001-p1s31W33</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>nabízenému</form>
 <tag>
 <AM lemma="nabízený_^(*2t)" src="auto" recommended="1">AAIS3----1A----</AM>
 <AM lemma="nabízený_^(*2t)" src="auto">AAMS3----1A----</AM>
-<AM lemma="nabízený_^(*2t)" src="auto">AANS3----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="nabízený_^(*2t)" src="auto">AANS3----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1867-001-p1s31W34-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6721,6 +6720,7 @@
 <w.rf>
 <LM>w#w-wsj1867-001-p1s33W19</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>indikující</form>
 <tag>
 <AM lemma="indikující_^(*5ovat)" src="auto">AGFP1-----A----</AM>
@@ -6749,10 +6749,14 @@
 <AM lemma="indikující_^(*5ovat)" src="auto">AGNP5-----A----</AM>
 <AM lemma="indikující_^(*5ovat)" src="auto">AGNS1-----A----</AM>
 <AM lemma="indikující_^(*5ovat)" src="auto">AGNS4-----A----</AM>
-<AM lemma="indikující_^(*5ovat)" src="auto">AGNS5-----A----</AM></tag>
+<AM lemma="indikující_^(*5ovat)" src="auto">AGNS5-----A----</AM>
+</tag>
 <comment>
+<LM type="New Form">
+<text>indikujících</text>
+</LM>
 </comment>
-<form_change>spell</form_change></m>
+</m>
 <m id="m-wsj1867-001-p1s33W20-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

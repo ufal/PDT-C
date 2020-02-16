@@ -9894,15 +9894,15 @@
 <w.rf>
 <LM>w#w-wsj0576-001-p1s33W3</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Krjučkovovo</form>
 <tag>
 <AM lemma="Krjučkovův_;S_^(*2)" src="auto" recommended="1">AUNS1M---------</AM>
 <AM lemma="Krjučkovův_;S_^(*2)" src="auto">AUNS4M---------</AM>
 <AM lemma="Krjučkovův_;S_^(*2)" src="auto">AUNS5M---------</AM>
-<AM lemma="Krjučkovův_;S_^(*2)" src="auto">AUXXXM--------7</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Krjučkovův_;S_^(*2)" src="auto">AUXXXM--------7</AM>
+</tag>
+</m>
 <m id="m-wsj0576-001-p1s33W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9916,7 +9916,7 @@
 <AM lemma="vyjádření_^(*3it)" src="auto">NNNP2-----A----</AM>
 <AM lemma="vyjádření_^(*3it)" src="auto">NNNP4-----A----</AM>
 <AM lemma="vyjádření_^(*3it)" src="auto">NNNP5-----A----</AM>
-<AM lemma="vyjádření_^(*3it)" src="auto">NNNS1-----A----</AM>
+<AM lemma="vyjádření_^(*3it)" src="auto" selected="1">NNNS1-----A----</AM>
 <AM lemma="vyjádření_^(*3it)" src="auto" recommended="1">NNNS2-----A----</AM>
 <AM lemma="vyjádření_^(*3it)" src="auto">NNNS3-----A----</AM>
 <AM lemma="vyjádření_^(*3it)" src="auto">NNNS4-----A----</AM>
@@ -12335,16 +12335,14 @@
 <LM>w#w-wsj0576-001-p1s39W6</LM>
 </w.rf>
 <form>37</form>
-<tag>
-<AM lemma="37" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="37" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0576-001-p1s39W6-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0576-001-p1s39W6</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>hodinový</form>
 <tag>
 <AM lemma="hodinový" src="auto">AAFP1----1A---6</AM>
@@ -12369,10 +12367,9 @@
 <AM lemma="hodinový" src="auto">AANP5----1A---6</AM>
 <AM lemma="hodinový" src="auto">AANS1----1A---6</AM>
 <AM lemma="hodinový" src="auto">AANS4----1A---6</AM>
-<AM lemma="hodinový" src="auto">AANS5----1A---6</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="hodinový" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj0576-001-p1s39W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

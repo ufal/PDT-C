@@ -1230,22 +1230,20 @@
 <LM>w#w-wsj1255-001-p1s3W10</LM>
 </w.rf>
 <form>68</form>
-<tag>
-<AM lemma="68" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="68" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1255-001-p1s3W10-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1255-001-p1s3W10</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>uncových</form>
 <tag>
-<AM lemma="uncových" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="uncových" src="auto">X@-------------</AM>
+<AM lemma="uncový" src="manual" selected="1">AAFP6----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1255-001-p1s3W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

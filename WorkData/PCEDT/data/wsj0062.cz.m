@@ -3097,6 +3097,7 @@
 <w.rf>
 <LM>w#w-wsj0062-001-p1s9W30</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>prvním</form>
 <tag>
 <AM lemma="první" src="auto">CrFP3----------</AM>
@@ -3108,10 +3109,9 @@
 <AM lemma="první" src="auto">CrMS7----------</AM>
 <AM lemma="první" src="auto">CrNP3----------</AM>
 <AM lemma="první" src="auto" recommended="1">CrNS6----------</AM>
-<AM lemma="první" src="auto">CrNS7----------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="první" src="auto">CrNS7----------</AM>
+</tag>
+</m>
 <m id="m-wsj0062-001-p1s9W31-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -8053,12 +8053,10 @@
 <w.rf>
 <LM>w#w-wsj0062-001-p1s28W13</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>šéfredaktorka</form>
-<tag>
-<AM lemma="šéfredaktorka_^(*2)" src="auto" recommended="1">NNFS1-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="šéfredaktorka_^(*2)" src="auto" recommended="1">NNFS1-----A----</tag>
+</m>
 <m id="m-wsj0062-001-p1s28W14-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -10781,13 +10779,14 @@
 <w.rf>
 <LM>w#w-wsj0062-001-p1s41W8</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>American</form>
 <tag>
 <AM lemma="American-1_;K_,t_^(souč._názvů,_např._A._Airlines)" src="auto" recommended="1">AAXXX----1A----</AM>
-<AM lemma="Americana_;G" src="auto">NNFP2-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Americana_;G" src="auto">NNFP2-----A----</AM>
+<AM lemma="American-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m-wsj0062-001-p1s41W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

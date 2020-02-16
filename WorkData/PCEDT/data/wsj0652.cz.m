@@ -379,16 +379,14 @@
 <LM>w#w-wsj0652-001-p1s1W3</LM>
 </w.rf>
 <form>12</form>
-<tag>
-<AM lemma="12" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="12" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0652-001-p1s1W3-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0652-001-p1s1W3</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>bodové</form>
 <tag>
 <AM lemma="bodový" src="auto">AAFP1----1A----</AM>
@@ -406,10 +404,9 @@
 <AM lemma="bodový" src="auto">AANP5----1A---6</AM>
 <AM lemma="bodový" src="auto">AANS1----1A----</AM>
 <AM lemma="bodový" src="auto">AANS4----1A----</AM>
-<AM lemma="bodový" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="bodový" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0652-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1734,13 +1731,14 @@
 <w.rf>
 <LM>w#w-wsj0652-001-p1s5W6</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Massachusetts</form>
 <tag>
 <AM lemma="Massachusetts_;G" src="auto">NNIS1-----A----</AM>
-<AM lemma="Massachusetts_;G" src="auto" recommended="1">NNIS4-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Massachusetts_;G" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="Massachusetts_;G" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0652-001-p1s5W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

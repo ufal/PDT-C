@@ -7466,19 +7466,23 @@
 <LM>w#w-wsj0283-001-p1s21W6</LM>
 </w.rf>
 <form>byli</form>
-<tag lemma="být" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag>
+<AM lemma="být" src="auto" recommended="1">VpMP---XR-AAI--</AM>
+<AM lemma="být" src="manual" selected="1">VpMP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m-wsj0283-001-p1s21W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0283-001-p1s21W7</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>shledáni</form>
 <tag>
-<AM lemma="shledat" src="auto" recommended="1">VsMP----X-APP--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="shledat" src="auto" recommended="1">VsMP---XX-APP--</AM>
+<AM lemma="shledat" src="manual" selected="1">VsMP----X-APP--</AM>
+</tag>
+</m>
 <m id="m-wsj0283-001-p1s21W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

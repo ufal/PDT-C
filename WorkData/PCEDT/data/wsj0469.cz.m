@@ -1186,13 +1186,13 @@
 <w.rf>
 <LM>w#w-wsj0469-001-p1s3W17</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Connecticut</form>
 <tag>
-<AM lemma="Connecticut_;G" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="Connecticut_;G" src="auto">NNIS4-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Connecticut_;G" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="Connecticut_;G" src="auto">NNIS4-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0469-001-p1s3W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

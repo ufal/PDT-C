@@ -6085,23 +6085,20 @@
 <LM>w#w-wsj2232-001-p1s19W6</LM>
 </w.rf>
 <form>27</form>
-<tag>
-<AM lemma="27" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="27" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj2232-001-p1s19W6-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2232-001-p1s19W6</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>bodovou</form>
 <tag>
 <AM lemma="bodový" src="auto" recommended="1">AAFS4----1A----</AM>
-<AM lemma="bodový" src="auto">AAFS7----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="bodový" src="auto">AAFS7----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj2232-001-p1s19W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -14280,12 +14277,13 @@
 <w.rf>
 <LM>w#w-wsj2232-001-p1s52W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Bylo</form>
 <tag>
-<AM lemma="být" src="auto" recommended="1">VpNS----R-AAI--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="být" src="auto" recommended="1">VpNS---XR-AAI--</AM>
+<AM lemma="být" src="manual" selected="1">VpNS----R-AAI--</AM>
+</tag>
+</m>
 <m id="m-wsj2232-001-p1s52W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -20255,13 +20253,13 @@
 <w.rf>
 <LM>w#w-wsj2232-001-p1s70W39</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>pojištěním</form>
 <tag>
 <AM lemma="pojištění_^(*5stit)" src="auto">NNNP3-----A----</AM>
-<AM lemma="pojištění_^(*5stit)" src="auto" recommended="1">NNNS7-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="pojištění_^(*5stit)" src="auto" recommended="1">NNNS7-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2232-001-p1s70W40-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

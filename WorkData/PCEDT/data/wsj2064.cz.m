@@ -768,25 +768,22 @@
 <LM>w#w-wsj2064-001-p1s2W22</LM>
 </w.rf>
 <form>90</form>
-<tag>
-<AM lemma="90" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="90" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj2064-001-p1s2W22-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj2064-001-p1s2W22</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>miliardového</form>
 <tag>
 <AM lemma="miliardový" src="auto" recommended="1">AAIS2----1A----</AM>
 <AM lemma="miliardový" src="auto">AAMS2----1A----</AM>
 <AM lemma="miliardový" src="auto">AAMS4----1A----</AM>
-<AM lemma="miliardový" src="auto">AANS2----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="miliardový" src="auto">AANS2----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj2064-001-p1s2W23-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9910,14 +9907,14 @@
 <w.rf>
 <LM>w#w-wsj2064-001-p1s32W18</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>která</form>
 <tag>
 <AM lemma="který" src="auto" recommended="1">P4FS1----------</AM>
-<AM lemma="který" src="auto">P4NP1----------</AM>
-<AM lemma="který" src="auto">P4NP4----------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="který" src="auto" selected="1">P4NP1----------</AM>
+<AM lemma="který" src="auto">P4NP4----------</AM>
+</tag>
+</m>
 <m id="m-wsj2064-001-p1s32W19-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

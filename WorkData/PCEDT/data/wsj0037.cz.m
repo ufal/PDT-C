@@ -12404,9 +12404,9 @@
 </w.rf>
 <form>zahájila</form>
 <tag>
-<AM lemma="zahájit" src="auto" recommended="1">VpQW----R-AAP--</AM></tag>
-<comment>
-</comment>
+<AM lemma="zahájit" src="auto" recommended="1">VpQW---XR-AAP--</AM>
+<AM lemma="zahájit" src="manual" selected="1">VpQW----R-AAP--</AM>
+</tag>
 </m>
 <m id="m-wsj0037-001-p1s40W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12461,9 +12461,8 @@
 <AM lemma="náměstkyně" src="auto">NNFP5-----A----</AM>
 <AM lemma="náměstkyně" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="náměstkyně" src="auto">NNFS2-----A----</AM>
-<AM lemma="náměstkyně" src="auto">NNFS5-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="náměstkyně" src="auto">NNFS5-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0037-001-p1s40W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12682,12 +12681,13 @@
 <w.rf>
 <LM>w#w-wsj0037-001-p1s40W27</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>vyzvala</form>
 <tag>
-<AM lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="auto" recommended="1">VpQW----R-AAP--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="auto" recommended="1">VpQW---XR-AAP--</AM>
+<AM lemma="vyzvat_^(někoho_vyzvat_k_něčemu)" src="manual" selected="1">VpQW----R-AAP--</AM>
+</tag>
+</m>
 <m id="m-wsj0037-001-p1s40W28-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

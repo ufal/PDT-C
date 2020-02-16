@@ -3801,12 +3801,13 @@
 <w.rf>
 <LM>w#w-wsj0936-001-p1s15W1</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Dorgan</form>
 <tag>
-<AM lemma="Dorgan" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Dorgan" src="auto">X@-------------</AM>
+<AM lemma="Dorgan_;S" src="manual" selected="1">NNMS1-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0936-001-p1s15W2-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

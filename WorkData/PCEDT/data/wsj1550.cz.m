@@ -3260,20 +3260,20 @@
 <w.rf>
 <LM>w#w-wsj1550-001-p1s8W10</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>který</form>
 <tag>
 <AM lemma="který" src="auto">P4FS2---------6</AM>
 <AM lemma="který" src="auto">P4FS3---------6</AM>
 <AM lemma="který" src="auto">P4FS6---------6</AM>
-<AM lemma="který" src="auto">P4IS4----------</AM>
+<AM lemma="který" src="auto" selected="1">P4IS4----------</AM>
 <AM lemma="který" src="auto">P4NS1---------6</AM>
 <AM lemma="který" src="auto">P4NS4---------6</AM>
 <AM lemma="který" src="auto">P4XP1---------6</AM>
 <AM lemma="který" src="auto">P4XP4---------6</AM>
-<AM lemma="který" src="auto" recommended="1">P4YS1----------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="který" src="auto" recommended="1">P4YS1----------</AM>
+</tag>
+</m>
 <m id="m-wsj1550-001-p1s8W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5332,6 +5332,7 @@
 <w.rf>
 <LM>w#w-wsj1550-001-p1s15W27</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>elektrické</form>
 <tag>
 <AM lemma="elektrický" src="auto">AAFP1----1A----</AM>
@@ -5346,10 +5347,9 @@
 <AM lemma="elektrický" src="auto">AAMP4----1A----</AM>
 <AM lemma="elektrický" src="auto">AANS1----1A----</AM>
 <AM lemma="elektrický" src="auto">AANS4----1A----</AM>
-<AM lemma="elektrický" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="elektrický" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1550-001-p1s15W28-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

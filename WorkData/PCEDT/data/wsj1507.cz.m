@@ -1182,15 +1182,15 @@
 <w.rf>
 <LM>w#w-wsj1507-001-p1s4W7</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>již</form>
 <tag>
 <AM lemma="jenž_^(kterou_[ve_vedl.větě])" src="auto">PJFS4----------</AM>
-<AM lemma="jenž_^(kteří_[ve_vedl.větě])" src="auto">PJMP1----------</AM>
+<AM lemma="jenž_^(kteří_[ve_vedl.větě])" src="auto" selected="1">PJMP1----------</AM>
 <AM lemma="již-1" src="auto" recommended="1">Db-------------</AM>
-<AM lemma="již-2" src="auto">TT-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="již-2" src="auto">TT-------------</AM>
+</tag>
+</m>
 <m id="m-wsj1507-001-p1s4W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

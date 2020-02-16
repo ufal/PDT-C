@@ -1573,12 +1573,13 @@
 <w.rf>
 <LM>w#w-wsj1980-001-p1s4W33</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Prospect</form>
 <tag>
-<AM lemma="Prospect" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Prospect" src="auto">X@-------------</AM>
+<AM lemma="Prospect_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1980-001-p1s4W34-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4289,16 +4290,14 @@
 <LM>w#w-wsj1980-001-p1s12W26</LM>
 </w.rf>
 <form>24</form>
-<tag>
-<AM lemma="24" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="24" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1980-001-p1s12W26-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1980-001-p1s12W26</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>měsíční</form>
 <tag>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFP1----1A----</AM>
@@ -4329,10 +4328,9 @@
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AANS4----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AANS5----1A----</AM>
 <AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP1----1A----</AM>
-<AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP5----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1980-001-p1s12W27-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4507,12 +4505,13 @@
 <w.rf>
 <LM>w#w-wsj1980-001-p1s13W4</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Recognition</form>
 <tag>
-<AM lemma="Recognition" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Recognition" src="auto">X@-------------</AM>
+<AM lemma="Recognition_;K" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1980-001-p1s13W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5763,16 +5762,14 @@
 <LM>w#w-wsj1980-001-p1s15W24</LM>
 </w.rf>
 <form>400</form>
-<tag>
-<AM lemma="400" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="400" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1980-001-p1s15W24-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1980-001-p1s15W24</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>milionové</form>
 <tag>
 <AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AAFP1----1A----</AM>
@@ -5790,10 +5787,9 @@
 <AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AANP5----1A---6</AM>
 <AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AANS1----1A----</AM>
 <AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AANS4----1A----</AM>
-<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1980-001-p1s15W25-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

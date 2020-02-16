@@ -2069,6 +2069,7 @@
 <w.rf>
 <LM>w#w-wsj0743-001-p1s6W12</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>lepší</form>
 <tag>
 <AM lemma="dobrý" src="auto">AAFP1----2A----</AM>
@@ -2093,16 +2094,15 @@
 <AM lemma="dobrý" src="auto">AAMS1----2A----</AM>
 <AM lemma="dobrý" src="auto">AAMS5----2A----</AM>
 <AM lemma="dobrý" src="auto">AANP1----2A----</AM>
-<AM lemma="dobrý" src="auto">AANP4----2A----</AM>
+<AM lemma="dobrý" src="auto" selected="1">AANP4----2A----</AM>
 <AM lemma="dobrý" src="auto">AANP5----2A----</AM>
 <AM lemma="dobrý" src="auto">AANS1----2A----</AM>
 <AM lemma="dobrý" src="auto" recommended="1">AANS4----2A----</AM>
 <AM lemma="dobrý" src="auto">AANS5----2A----</AM>
 <AM lemma="lepšit" src="auto">VB-P---3P-AAI--</AM>
-<AM lemma="lepšit" src="auto">VB-S---3P-AAI--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="lepšit" src="auto">VB-S---3P-AAI--</AM>
+</tag>
+</m>
 <m id="m-wsj0743-001-p1s6W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

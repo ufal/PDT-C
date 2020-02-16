@@ -880,16 +880,14 @@
 <LM>w#w-wsj1172-001-p1s1W18</LM>
 </w.rf>
 <form>16</form>
-<tag>
-<AM lemma="16" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="16" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1172-001-p1s1W18-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1172-001-p1s1W18</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>měsíční</form>
 <tag>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFP1----1A----</AM>
@@ -897,7 +895,7 @@
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFP5----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS1----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS2----1A----</AM>
-<AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS3----1A----</AM>
+<AM lemma="měsíční_^(lhůta;svit)" src="auto" selected="1">AAFS3----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto" recommended="1">AAFS4----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS5----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AAFS6----1A----</AM>
@@ -920,10 +918,9 @@
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AANS4----1A----</AM>
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AANS5----1A----</AM>
 <AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP1----1A----</AM>
-<AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP5----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1172-001-p1s1W19-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

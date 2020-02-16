@@ -4954,12 +4954,14 @@
 <w.rf>
 <LM>w#w-wsj0473-001-p1s10W10</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Foothills</form>
 <tag>
-<AM lemma="Foothills" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Foothills" src="auto">X@-------------</AM>
+<AM lemma="Foothills-77" src="manual">F%-------------</AM>
+<AM lemma="Foothills_;K" src="manual" selected="1">NNNS1-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0473-001-p1s10W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7074,14 +7076,14 @@
 <w.rf>
 <LM>w#w-wsj0473-001-p1s16W10</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>konkrétnímu</form>
 <tag>
 <AM lemma="konkrétní" src="auto" recommended="1">AAIS3----1A----</AM>
 <AM lemma="konkrétní" src="auto">AAMS3----1A----</AM>
-<AM lemma="konkrétní" src="auto">AANS3----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="konkrétní" src="auto">AANS3----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0473-001-p1s16W11-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -11380,12 +11382,13 @@
 <w.rf>
 <LM>w#w-wsj0473-001-p1s26W23</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>prohlásila</form>
 <tag>
-<AM lemma="prohlásit" src="auto" recommended="1">VpQW----R-AAP--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="prohlásit" src="auto" recommended="1">VpQW---XR-AAP--</AM>
+<AM lemma="prohlásit" src="manual" selected="1">VpQW----R-AAP--</AM>
+</tag>
+</m>
 <m id="m-wsj0473-001-p1s26W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -7388,9 +7388,10 @@
 <w.rf>
 <LM>w#w-wsj1058-001-p1s26W9</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>přípustné</form>
 <tag>
-<AM lemma="přípustný" src="auto">AAFP1----1A----</AM>
+<AM lemma="přípustný" src="auto" selected="1">AAFP1----1A----</AM>
 <AM lemma="přípustný" src="auto">AAFP4----1A----</AM>
 <AM lemma="přípustný" src="auto">AAFP5----1A----</AM>
 <AM lemma="přípustný" src="auto" recommended="1">AAFS2----1A----</AM>
@@ -7405,10 +7406,9 @@
 <AM lemma="přípustný" src="auto">AANP5----1A---6</AM>
 <AM lemma="přípustný" src="auto">AANS1----1A----</AM>
 <AM lemma="přípustný" src="auto">AANS4----1A----</AM>
-<AM lemma="přípustný" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="přípustný" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj1058-001-p1s26W10-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

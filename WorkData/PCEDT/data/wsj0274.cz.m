@@ -9363,13 +9363,17 @@
 <LM>w#w-wsj0274-001-p1s32W5</LM>
 </w.rf>
 <form>začali</form>
-<tag lemma="začít-1_^(začnout)" src="auto" recommended="1">VpMP----R-AAP--</tag>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto" recommended="1">VpMP---XR-AAP--</AM>
+<AM lemma="začít-1_^(začnout)" src="manual" selected="1">VpMP----R-AAP--</AM>
+</tag>
 </m>
 <m id="m-wsj0274-001-p1s32W6-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0274-001-p1s32W6</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>hypotečním</form>
 <tag>
 <AM lemma="hypoteční" src="auto">AAFP3----1A----</AM>
@@ -9381,10 +9385,9 @@
 <AM lemma="hypoteční" src="auto">AAMS7----1A----</AM>
 <AM lemma="hypoteční" src="auto">AANP3----1A----</AM>
 <AM lemma="hypoteční" src="auto">AANS6----1A----</AM>
-<AM lemma="hypoteční" src="auto">AANS7----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="hypoteční" src="auto">AANS7----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0274-001-p1s32W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

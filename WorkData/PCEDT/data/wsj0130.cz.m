@@ -3864,22 +3864,25 @@
 <w.rf>
 <LM>w#w-wsj0130-001-p1s13W12</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>obžalovaní</form>
 <tag>
-<AM lemma="obžalovaný-2_^(osoba)" src="auto">NNMP1-----A----</AM>
+<AM lemma="obžalovaný-2_^(osoba)" src="auto" selected="1">NNMP1-----A----</AM>
 <AM lemma="obžalovaný-2_^(osoba)" src="auto">NNMP5-----A----</AM>
 <AM lemma="obžalovaný_^(*2t)" src="auto" recommended="1">AAMP1----1A----</AM>
-<AM lemma="obžalovaný_^(*2t)" src="auto">AAMP5----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="obžalovaný_^(*2t)" src="auto">AAMP5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0130-001-p1s13W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0130-001-p1s13W13</LM>
 </w.rf>
 <form>prodávali</form>
-<tag lemma="prodávat_^(*4at)" src="auto" recommended="1">VpMP----R-AAI--</tag>
+<tag>
+<AM lemma="prodávat_^(*4at)" src="auto" recommended="1">VpMP---XR-AAI--</AM>
+<AM lemma="prodávat_^(*4at)" src="manual" selected="1">VpMP----R-AAI--</AM>
+</tag>
 </m>
 <m id="m-wsj0130-001-p1s13W14-Ta">
 <src.rf>tagger-a</src.rf>

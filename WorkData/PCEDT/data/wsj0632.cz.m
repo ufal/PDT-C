@@ -3993,7 +3993,7 @@
 <tag>
 <AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
-<AM lemma="s-1" src="auto">RV--7----------</AM>
+<AM lemma="s-1" src="auto" selected="1">RV--7----------</AM>
 </tag>
 </m>
 <m id="m-wsj0632-001-p1s11W14-Ta">
@@ -4001,13 +4001,13 @@
 <w.rf>
 <LM>w#w-wsj0632-001-p1s11W14</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>společností</form>
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP2-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS7-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS7-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0632-001-p1s11W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4016,7 +4016,8 @@
 <form>GM</form>
 <tag>
 <AM lemma="GM_:B_;K_;R" src="auto" recommended="1">NNFXX-----A----</AM>
-<AM lemma="GM_:B_;K_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="GM_:B_;K_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="GM-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0632-001-p1s11W16-Ta">

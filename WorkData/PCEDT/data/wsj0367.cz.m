@@ -141,16 +141,14 @@
 <LM>w#w-wsj0367-001-p1s0W8</LM>
 </w.rf>
 <form>40</form>
-<tag>
-<AM lemma="40" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="40" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0367-001-p1s0W8-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0367-001-p1s0W8</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letý</form>
 <tag>
 <AM lemma="letý" src="auto">AAFP1----1A---6</AM>
@@ -175,10 +173,9 @@
 <AM lemma="letý" src="auto">AANP5----1A---6</AM>
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
-<AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS5----1A---6</AM>
+</tag>
+</m>
 <m id="m-wsj0367-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4840,18 +4837,18 @@
 <w.rf>
 <LM>w#w-wsj0367-001-p1s19W23</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>společnosti</form>
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP1-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP4-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP5-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS2-----A----</AM>
+<AM lemma="společnost_^(*3ý)" src="auto" selected="1">NNFS2-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS3-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0367-001-p1s19W24-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -7924,24 +7921,21 @@
 <LM>w#w-wsj0367-001-p1s31W17</LM>
 </w.rf>
 <form>100</form>
-<tag>
-<AM lemma="100" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="100" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0367-001-p1s31W17-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0367-001-p1s31W17</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>mílovém</form>
 <tag>
 <AM lemma="mílový" src="auto" recommended="1">AAIS6----1A----</AM>
 <AM lemma="mílový" src="auto">AAMS6----1A----</AM>
-<AM lemma="mílový" src="auto">AANS6----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="mílový" src="auto">AANS6----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0367-001-p1s31W18-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -4477,6 +4477,7 @@
 <w.rf>
 <LM>w#w-wsj2339-001-p1s14W20</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>mimosoudní</form>
 <tag>
 <AM lemma="mimosoudní" src="auto">AAFP1----1A----</AM>
@@ -4505,10 +4506,9 @@
 <AM lemma="mimosoudní" src="auto">AANP5----1A----</AM>
 <AM lemma="mimosoudní" src="auto" recommended="1">AANS1----1A----</AM>
 <AM lemma="mimosoudní" src="auto">AANS4----1A----</AM>
-<AM lemma="mimosoudní" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="mimosoudní" src="auto">AANS5----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj2339-001-p1s14W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6011,12 +6011,13 @@
 <w.rf>
 <LM>w#w-wsj2339-001-p1s18W41</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Emeryville</form>
 <tag>
-<AM lemma="Emeryville" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Emeryville" src="auto">X@-------------</AM>
+<AM lemma="Emeryville_;G" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2339-001-p1s18W42-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -851,25 +851,22 @@
 <LM>w#w-wsj0800-001-p1s3W8</LM>
 </w.rf>
 <form>57</form>
-<tag>
-<AM lemma="57" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="57" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj0800-001-p1s3W8-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0800-001-p1s3W8</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>letého</form>
 <tag>
 <AM lemma="letý" src="auto">AAIS2----1A----</AM>
-<AM lemma="letý" src="auto">AAMS2----1A----</AM>
+<AM lemma="letý" src="auto" selected="1">AAMS2----1A----</AM>
 <AM lemma="letý" src="auto" recommended="1">AAMS4----1A----</AM>
-<AM lemma="letý" src="auto">AANS2----1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="letý" src="auto">AANS2----1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0800-001-p1s3W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

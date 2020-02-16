@@ -547,13 +547,13 @@
 <w.rf>
 <LM>w#w-wsj1908-001-p1s1W26</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>očekáváním</form>
 <tag>
-<AM lemma="očekávání_^(*3at)" src="auto">NNNP3-----A----</AM>
-<AM lemma="očekávání_^(*3at)" src="auto" recommended="1">NNNS7-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="očekávání_^(*3at)" src="auto" selected="1">NNNP3-----A----</AM>
+<AM lemma="očekávání_^(*3at)" src="auto" recommended="1">NNNS7-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1908-001-p1s1W27-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

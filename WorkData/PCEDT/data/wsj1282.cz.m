@@ -1526,12 +1526,13 @@
 <w.rf>
 <LM>w#w-wsj1282-001-p1s5W15</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Jerell</form>
 <tag>
-<AM lemma="Jerell" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Jerell" src="auto">X@-------------</AM>
+<AM lemma="Jerell_;K" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1282-001-p1s5W16-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1999,12 +2000,13 @@
 <w.rf>
 <LM>w#w-wsj1282-001-p1s8W4</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Garrattové</form>
 <tag>
-<AM lemma="Garrattové" src="auto">X@-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Garrattové" src="auto">X@-------------</AM>
+<AM lemma="Garrattová_;S" src="manual" selected="1">NNFS2-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1282-001-p1s8W5-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

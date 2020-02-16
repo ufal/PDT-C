@@ -4193,25 +4193,22 @@
 <LM>w#w-wsj1069-001-p1s16W7</LM>
 </w.rf>
 <form>40</form>
-<tag>
-<AM lemma="40" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
+<tag lemma="40" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="m-wsj1069-001-p1s16W7-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj1069-001-p1s16W7</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>násobku</form>
 <tag>
 <AM lemma="násobek" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="násobek" src="auto">NNIS3-----A----</AM>
 <AM lemma="násobek" src="auto">NNIS5-----A----</AM>
-<AM lemma="násobek" src="auto">NNIS6-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="násobek" src="auto" selected="1">NNIS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1069-001-p1s16W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -3236,12 +3236,13 @@
 <w.rf>
 <LM>w#w-wsj1399-001-p1s11W6</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>zkomplikovala</form>
 <tag>
-<AM lemma="zkomplikovat" src="auto" recommended="1">VpQW----R-AAP--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="zkomplikovat" src="auto" recommended="1">VpQW---XR-AAP--</AM>
+<AM lemma="zkomplikovat" src="manual" selected="1">VpQW----R-AAP--</AM>
+</tag>
+</m>
 <m id="m-wsj1399-001-p1s11W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

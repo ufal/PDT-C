@@ -3370,14 +3370,15 @@
 <w.rf>
 <LM>w#w-wsj0277-001-p1s10W16</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>se</form>
 <tag>
 <AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X4----------</AM>
 <AM lemma="s-1" src="auto">RV--2----------</AM>
-<AM lemma="s-1" src="auto">RV--7----------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="s-1" src="auto">RV--7----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="manual" selected="1">P7--4----------</AM>
+</tag>
+</m>
 <m id="m-wsj0277-001-p1s10W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6315,9 +6316,8 @@
 <form>společnost</form>
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS1-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS4-----A----</AM></tag>
-<comment>
-</comment>
+<AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="m-wsj0277-001-p1s18W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6349,12 +6349,13 @@
 <w.rf>
 <LM>w#w-wsj0277-001-p1s18W16</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>požádala</form>
 <tag>
-<AM lemma="požádat" src="auto" recommended="1">VpQW----R-AAP--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="požádat" src="auto" recommended="1">VpQW---XR-AAP--</AM>
+<AM lemma="požádat" src="manual" selected="1">VpQW----R-AAP--</AM>
+</tag>
+</m>
 <m id="m-wsj0277-001-p1s18W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -12167,6 +12168,7 @@
 <w.rf>
 <LM>w#w-wsj0277-001-p1s34W20</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>společnosti</form>
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP1-----A----</AM>
@@ -12175,10 +12177,9 @@
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
-<AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0277-001-p1s34W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

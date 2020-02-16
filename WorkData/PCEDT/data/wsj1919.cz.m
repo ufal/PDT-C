@@ -2694,7 +2694,7 @@
 </w.rf>
 <form>New</form>
 <tag>
-<AM lemma="New-77" src="auto" recommended="1">F%-------------</AM>
+<AM lemma="New-77" src="auto" recommended="1" selected="1">F%-------------</AM>
 <AM lemma="new-77_,t" src="auto">F%-------------</AM>
 </tag>
 </m>
@@ -2703,12 +2703,13 @@
 <w.rf>
 <LM>w#w-wsj1919-001-p1s7W12</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Jersey</form>
 <tag>
-<AM lemma="Jersey_;G" src="auto" recommended="1">NNNXX-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="Jersey_;G" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="Jersey-77" src="manual" selected="1">F%-------------</AM>
+</tag>
+</m>
 <m id="m-wsj1919-001-p1s7W13-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

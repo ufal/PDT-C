@@ -4119,6 +4119,7 @@
 <w.rf>
 <LM>w#w-wsj2093-001-p1s16W8</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>nejnovějším</form>
 <tag>
 <AM lemma="nový" src="auto">AAFP3----3A----</AM>
@@ -4130,10 +4131,9 @@
 <AM lemma="nový" src="auto">AAMS7----3A----</AM>
 <AM lemma="nový" src="auto">AANP3----3A----</AM>
 <AM lemma="nový" src="auto">AANS6----3A----</AM>
-<AM lemma="nový" src="auto">AANS7----3A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="nový" src="auto">AANS7----3A----</AM>
+</tag>
+</m>
 <m id="m-wsj2093-001-p1s16W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -6298,14 +6298,14 @@
 <w.rf>
 <LM>w#w-wsj2093-001-p1s23W20</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>managementu</form>
 <tag>
 <AM lemma="management_,s_^(^DD**manažment)" src="auto" recommended="1">NNIS2-----A----</AM>
-<AM lemma="management_,s_^(^DD**manažment)" src="auto">NNIS3-----A----</AM>
-<AM lemma="management_,s_^(^DD**manažment)" src="auto">NNIS6-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="management_,s_^(^DD**manažment)" src="auto" selected="1">NNIS3-----A----</AM>
+<AM lemma="management_,s_^(^DD**manažment)" src="auto">NNIS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj2093-001-p1s23W21-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

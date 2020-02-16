@@ -5477,14 +5477,14 @@
 <w.rf>
 <LM>w#w-wsj1624-001-p1s17W9</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>za</form>
 <tag>
 <AM lemma="za" src="auto">RR--2----------</AM>
 <AM lemma="za" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="za" src="auto">RR--7----------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="za" src="auto">RR--7----------</AM>
+</tag>
+</m>
 <m id="m-wsj1624-001-p1s17W10-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -23952,12 +23952,13 @@
 <w.rf>
 <LM>w#w-wsj1624-001-p1s81W14</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>klesly</form>
 <tag>
-<AM lemma="klesnout" src="auto" recommended="1">VpTP----R-AAP-1</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="klesnout" src="auto" recommended="1">VpTP---XR-AAP-1</AM>
+<AM lemma="klesnout" src="manual" selected="1">VpTP----R-AAP-1</AM>
+</tag>
+</m>
 <m id="m-wsj1624-001-p1s81W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

@@ -7499,15 +7499,15 @@
 <w.rf>
 <LM>w#w-wsj1999-001-p1s28W37</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>přesunu</form>
 <tag>
 <AM lemma="přesunout" src="auto">VB-S---1P-AAP--</AM>
-<AM lemma="přesun" src="auto">NNIS2-----A----</AM>
+<AM lemma="přesun" src="auto" selected="1">NNIS2-----A----</AM>
 <AM lemma="přesun" src="auto">NNIS3-----A----</AM>
-<AM lemma="přesun" src="auto" recommended="1">NNIS6-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="přesun" src="auto" recommended="1">NNIS6-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj1999-001-p1s28W38-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

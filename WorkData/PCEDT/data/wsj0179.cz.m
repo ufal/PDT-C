@@ -1024,13 +1024,13 @@
 <w.rf>
 <LM>w#w-wsj0179-001-p1s3W3</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>investoři</form>
 <tag>
 <AM lemma="investor" src="auto" recommended="1">NNMP1-----A----</AM>
-<AM lemma="investor" src="auto">NNMP5-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="investor" src="auto">NNMP5-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0179-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -3069,12 +3069,10 @@
 <w.rf>
 <LM>w#w-wsj0179-001-p1s8W14</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>přednostně</form>
-<tag>
-<AM lemma="přednostně_^(*1í)" src="auto" recommended="1">Dg-------1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="přednostně_^(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
+</m>
 <m id="m-wsj0179-001-p1s8W15-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5329,16 +5327,16 @@
 <w.rf>
 <LM>w#w-wsj0179-001-p1s18W6</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Columbia</form>
 <tag>
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto" recommended="1">NNFS1-----A---1</AM>
 <AM lemma="columbium" src="auto">NNNP1-----A----</AM>
 <AM lemma="columbium" src="auto">NNNP4-----A----</AM>
 <AM lemma="columbium" src="auto">NNNP5-----A----</AM>
-<AM lemma="columbium" src="auto">NNNS2-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="columbium" src="auto">NNNS2-----A----</AM>
+</tag>
+</m>
 <m id="m-wsj0179-001-p1s18W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9366,12 +9364,13 @@
 <w.rf>
 <LM>w#w-wsj0179-001-p1s30W7</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>pomohla</form>
 <tag>
-<AM lemma="pomoci" src="auto" recommended="1">VpQW----R-AAP--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="pomoci" src="auto" recommended="1">VpQW---XR-AAP--</AM>
+<AM lemma="pomoci" src="manual" selected="1">VpQW----R-AAP--</AM>
+</tag>
+</m>
 <m id="m-wsj0179-001-p1s30W8-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -9393,7 +9392,8 @@
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto">NNFS1-----A----</AM>
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="auto">NNFS5-----A----</AM>
-<AM lemma="Columbia_;K_;R" src="manual" selected="1">NNFS2-----A----</AM>
+<AM lemma="Columbia_;K_;R" src="manual">NNFS2-----A----</AM>
+<AM lemma="Columbie_;G_,s_^(^DD**Kolumbie)" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj0179-001-p1s30W10-Ta">

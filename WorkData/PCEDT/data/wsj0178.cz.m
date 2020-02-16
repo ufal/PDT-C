@@ -1149,21 +1149,18 @@
 <AM lemma="R-88_:B" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="r-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="r-88_:B" src="auto">NNXXX-----A----</AM>
-<AM lemma="rok_:B" src="auto">NNIXX-----A---8</AM></tag>
-<comment>
-</comment>
+<AM lemma="rok_:B" src="auto">NNIXX-----A---8</AM>
+</tag>
 </m>
 <m id="m-wsj0178-001-p1s5W11-Ta-sw1">
 <src.rf>tagger-a</src.rf>
 <w.rf>
 <LM>w#w-wsj0178-001-p1s5W11</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>.</form>
-<tag>
-<AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="." src="auto" recommended="1">Z:-------------</tag>
+</m>
 <m id="m-wsj0178-001-p1s5W12-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -1504,12 +1501,13 @@
 <w.rf>
 <LM>w#w-wsj0178-001-p1s6W6</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>vzrostly</form>
 <tag>
-<AM lemma="vzrůst-1" src="auto" recommended="1">VpTP----R-AAP--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="vzrůst-1" src="auto" recommended="1">VpTP---XR-AAP--</AM>
+<AM lemma="vzrůst-1" src="manual" selected="1">VpTP----R-AAP--</AM>
+</tag>
+</m>
 <m id="m-wsj0178-001-p1s6W7-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -4791,14 +4789,14 @@
 <w.rf>
 <LM>w#w-wsj0178-001-p1s20W8</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>nově</form>
 <tag>
 <AM lemma="nova" src="auto">NNFS3-----A----</AM>
 <AM lemma="nova" src="auto">NNFS6-----A----</AM>
-<AM lemma="nově_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="nově_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
+</tag>
+</m>
 <m id="m-wsj0178-001-p1s20W9-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
@@ -5318,12 +5316,10 @@
 <w.rf>
 <LM>w#w-wsj0178-001-p1s21W16</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>požadavkům</form>
-<tag>
-<AM lemma="požadavek" src="auto" recommended="1">NNIP3-----A----</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<tag lemma="požadavek" src="auto" recommended="1">NNIP3-----A----</tag>
+</m>
 <m id="m-wsj0178-001-p1s21W17-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>

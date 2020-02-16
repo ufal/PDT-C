@@ -1585,12 +1585,13 @@
 <w.rf>
 <LM>w#w-wsj1779-001-p1s5W2</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>poháněly</form>
 <tag>
-<AM lemma="pohánět" src="auto" recommended="1">VpTP----R-AAI--</AM></tag>
-<comment>
-</comment>
-<form_change>spell</form_change></m>
+<AM lemma="pohánět" src="auto" recommended="1">VpTP---XR-AAI--</AM>
+<AM lemma="pohánět" src="manual" selected="1">VpTP----R-AAI--</AM>
+</tag>
+</m>
 <m id="m-wsj1779-001-p1s5W3-Ta">
 <src.rf>tagger-a</src.rf>
 <w.rf>
