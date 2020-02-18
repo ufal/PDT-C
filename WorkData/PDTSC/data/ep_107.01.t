@@ -1463,12 +1463,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Reconstruction</type>
-<text>Vymazat: Moc často vzpomínám a</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ep_107.01-SCzechT-ep_107-d1e262-x2-root">
 <atree.rf>a#ep_107.01-SCzechA-ep_107-d1e262-x2-root</atree.rf>

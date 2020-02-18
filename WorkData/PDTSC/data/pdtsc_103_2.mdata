@@ -5536,7 +5536,7 @@
    </AM>
   </m>
  </s>
- <s stype="information" w-speaker.rf="spk2" id="m-d1e248-x2" w-begin.rf="w#d1e250" w-end.rf="w#d1t255-19">
+ <s stype="information" w-speaker.rf="spk2" id="m-d1e248-x2" w-begin.rf="w#d1e250" w-end.rf="w#d1t255-23">
   <m>
    <AM id="m-d1t253-1">
     <form>Můžu</form>
@@ -5760,15 +5760,13 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d1e248-x2-145">
-    <form>.</form>
+   <AM id="m-d1t255-12x">
+    <form>,</form>
    </AM>
   </m>
- </s>
- <s stype="information" w-speaker.rf="spk2" id="m-151" w-begin.rf="w#d1t255-20" w-end.rf="w#d1t255-43">
   <m>
    <AM id="m-d1t255-21">
-    <form>Moc</form>
+    <form>moc</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t255-21</w.rf>
@@ -5797,18 +5795,15 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d1t255-24">
-    <form>a</form>
-    <wrefs>
-     <LM>
-      <w.rf>w#d1t255-24</w.rf>
-     </LM>
-    </wrefs>
+   <AM id="m-d1e248-x2-145">
+    <form>.</form>
    </AM>
   </m>
+ </s>
+ <s stype="information" w-speaker.rf="spk2" id="m-151" w-begin.rf="w#d1t255-25" w-end.rf="w#d1t255-43">
   <m>
    <AM id="m-d1t255-25">
-    <form>myslím</form>
+    <form>Myslím</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t255-25</w.rf>

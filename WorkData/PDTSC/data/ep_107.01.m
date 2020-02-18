@@ -879,51 +879,11 @@
 </m>
 </s>
 <s id="m107-151">
-<m id="m107-d1t255-21">
-<w.rf>
-<LM>w#w-d1t255-21</LM>
-</w.rf>
-<form>Moc</form>
-<tag>
-<AM lemma="Moc_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFS1-----A----</AM>
-<AM lemma="moc-1_^(nad_někým;_politická,_vojenská;_plná,...)" src="auto">NNFS4-----A----</AM>
-<AM lemma="moc-2_^(mnoho_něčeho_[se_subst._v_gen.])" src="auto">Ca--X----------</AM>
-<AM lemma="moc-3_^(velmi,_ve_spojení_s_adj.,_př._moc_hezká)" src="auto" recommended="1">Db-------------</AM>
-</tag>
-</m>
-<m id="m107-d1t255-22">
-<w.rf>
-<LM>w#w-d1t255-22</LM>
-</w.rf>
-<form>často</form>
-<tag lemma="často" src="auto" recommended="1">Dg-------1A----</tag>
-</m>
-<m id="m107-d1t255-23">
-<w.rf>
-<LM>w#w-d1t255-23</LM>
-</w.rf>
-<form>vzpomínám</form>
-<tag lemma="vzpomínat" src="auto" recommended="1">VB-S---1P-AAI--</tag>
-</m>
-<m id="m107-d1t255-24">
-<w.rf>
-<LM>w#w-d1t255-24</LM>
-</w.rf>
-<form>a</form>
-<tag>
-<AM lemma="a-1" src="auto" recommended="1">J^-------------</AM>
-<AM lemma="a-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
-<AM lemma="a-77_,t_^(př._a_la)" src="auto">F%-------------</AM>
-<AM lemma="a-88" src="auto">BNXXX-----A----</AM>
-<AM lemma="akciový_:B" src="auto">AAXXX----1A---8</AM>
-</tag>
-</m>
 <m id="m107-d1t255-25">
 <w.rf>
 <LM>w#w-d1t255-25</LM>
 </w.rf>
-<form>myslím</form>
+<form>Myslím</form>
 <tag>
 <AM lemma="mysl" src="auto">NNFP3-----A----</AM>
 <AM lemma="myslet" src="auto">VB-S---1P-AA---</AM>

@@ -7568,12 +7568,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Reconstruction</type>
-<text>Vymazat:  že po žních hospodáři, aby nezůstalo na poli ani zrnko .</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="t_tree-cs-s3-root">
 <atree.rf>a#a_tree-cs-s3-root</atree.rf>
