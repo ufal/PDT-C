@@ -4,7 +4,7 @@
   <schema href="w-pdtsc-schema.xml"/>
   <references>
    <reffile id="a" href="pdtsc_046.ogg" name="audio"/>
-   <reffile id="z" href="pdtsc_046.zdata.gz" name="zdata"/>
+   <reffile id="z" href="pdtsc_046.zdata" name="zdata"/>
   </references>
  </head>
  <meta>

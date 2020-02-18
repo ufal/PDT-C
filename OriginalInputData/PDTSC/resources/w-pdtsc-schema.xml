@@ -1,0 +1,329 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<pml_schema xmlns="http://ufal.mff.cuni.cz/pdt/pml/schema/" version="1.1">
+ <revision>1.0.1</revision>
+ <description>PDTSC 1.0 - w-layer</description>
+
+ <reference name="zdata"/>
+ <reference name="audio"/>
+
+ <root name="wdata" type="wdata.type"/>
+
+ <type name="wdata.type">
+    <structure>
+      <member name="meta" type="w-meta.type"/>
+      <member name="doc" type="w-doc.type" /> <!-- Section (DTD allows multiple ) -->
+    </structure>
+  </type>
+
+ <type name="w-meta.type">
+    <structure>
+      <member name="original_format">
+        <structure>
+	<member name="desc"><cdata format="any"/></member>
+	<member name="version_date">
+	  <cdata format="any" />
+	</member>
+	<member name="version">
+	  <cdata format="NMTOKEN" />
+	</member>	
+        </structure>
+      </member>
+      <member name="annotator">
+	<structure>
+	  <member name="name"><cdata format="any" /></member>
+	</structure>
+      </member>
+      <member name="lang">
+	<cdata format="NMTOKEN" />
+      </member>
+      <member name="air_date">
+	<cdata format="any" />
+      </member>
+      <member name="program">
+	<cdata format="any" />
+      </member>
+      <member name="elapsed_time">
+	<cdata format="any" />
+      </member>
+    </structure>
+  </type>
+
+
+  <type name="w-doc.type">
+    <structure>
+      <member name="docmeta" type="w-docmeta.type"/>
+      <member name="turns">
+        <list ordered="1" type="w-turn.type"/>
+      </member>
+    </structure>
+  </type>
+
+  <type name="w-docmeta.type">
+    <structure>
+      <member name="audio.rf" required="1" type="w-audio.span.type"/>
+      <member name="type" required="1">
+	<choice>
+	  <value>report</value>
+	  <value>nontrans</value>
+	  <value>filler</value>
+	</choice>
+      </member>
+      <member name="speakers">
+	<list type="w-speakers.type" ordered="0"/>
+      </member>
+      <member name="topics">
+	<list type="w-topic.type" ordered="0"/>
+      </member>
+      <member name="topic.rf">
+	<cdata format="PMLREF" />
+      </member>
+    </structure>
+  </type>
+
+  <type name="w-turn.type">
+    <structure>
+      <member as_attribute="1" name="id" role="#ID" required="1" type="id.type"/>
+      <member name="audio.rf" required="1" type="w-audio.span.type"/>
+      <member name="mode">
+	<choice>
+	  <value>spontaneous</value>
+	  <value>planned</value>
+	</choice>
+      </member>
+      <member name="speakers.rf">
+	<list ordered="1">
+	  <cdata format="PMLREF" />
+	</list>
+      </member>
+      <member name="fidelity">
+	<choice>
+	  <value>high</value>
+	  <value>medium</value>
+	  <value>low</value>
+	</choice>
+      </member>
+      <member name="channel">
+	<choice>
+	  <value>telephone</value>
+	  <value>studio</value>
+	</choice>
+      </member>
+      <member name="events">
+	<sequence content_pattern="(sync|(speaker,sync,(w|nonspeech|speaker|comment|background_begin|background_end|sync)*))">
+	  <!-- content_pattern="speaker,sync,(w|nonspeech|(speaker,sync)|comment|background_begin|background_end|sync)*" -->
+	  <element name="sync" type="w-sync.type" />
+
+	  <element name="w" type="w-node.type"/>
+	  <element name="nonspeech" type="w-nonspeech.type" />
+
+	  <element name="background_begin" type="w-background_begin.type" />
+	  <element name="background_end" type="w-background_end.type" />
+
+	  <element name="speaker" type="w-speaker-ref.type" />
+	  <element name="comment" type="w-comment.type" />
+<!--
+	  <element name="background" type="w-background.type" />
+	  <element name="vocal" type="w-vocal.type" />
+ -->
+	</sequence>
+      </member>
+    </structure>
+  </type>
+
+  <!-- immediate events -->
+  <type name="w-sync.type">
+    <structure>
+      <member as_attribute="1" name="id" role="#ID" required="1" type="id.type"/>
+      <member name="audio.rf" required="1" type="w-audio.time.type"/>
+    </structure>
+  </type>
+  <type name="w-background_begin.type">
+    <structure>
+      <member as_attribute="1" name="id" role="#ID" required="1" type="id.type"/>
+      <member name="desc" type="w-nonspeech-desc.type"/>
+    </structure>
+  </type>
+  <type name="w-background_end.type">
+    <structure>
+      <member as_attribute="1" name="background_begin.rf" required="1">
+	<cdata format="PMLREF"/>
+      </member>
+    </structure>
+  </type>
+  <type name="w-speaker-ref.type">
+    <structure>
+      <member as_attribute="1" name="id" role="#ID" required="1" type="id.type"/>
+      <member name="speaker.rf" required="1">
+	<cdata format="PMLREF" />
+      </member>
+    </structure>
+  </type>
+  
+  <!-- events with duration -->
+  <type name="w-node.type">
+    <structure>
+      <member as_attribute="1" name="id" role="#ID" required="1" type="id.type"/>
+      <member name="pronounced_as"><cdata format="token"/></member>
+      <member name="is_slip" type="bool.type"/>
+      <member name="is_named_entity" type="bool.type"/>
+      <member name="token"><cdata format="token"/></member>
+      <member name="z.rf" type="w-z.rf.type"/>
+    </structure>
+  </type>
+  <type name="w-nonspeech.type">
+    <structure>
+      <member as_attribute="1" name="id" role="#ID" required="1" type="id.type"/>
+      <member name="desc" type="w-nonspeech-desc.type"/>
+      <member name="z.rf" type="w-z.rf.type"/>
+    </structure>
+  </type>
+  <type name="w-comment.type">
+    <structure> 
+     <member as_attribute="1" name="type" type="w-comment-type.type"/>
+     <member name="text">
+	<cdata format="any" />
+      </member>
+    </structure>
+  </type>
+  <type name="w-comment-type.type">
+    <choice>
+      <value>punctuation</value>
+      <value>named_entity</value>
+      <value>foreign_phrase</value>
+      <value>compatibility</value>
+      <value>uncertain</value>
+      <value>other</value>
+    </choice>
+  </type>
+  
+
+  <type name="w-speakers.type">
+    <structure>
+      <member as_attribute="1" name="id" role="#ID" required="1">
+	<cdata format="ID" />
+      </member>
+      <member name="check">
+	<choice>
+	  <value>yes</value>
+	  <value>no</value>
+	</choice>
+      </member>
+      <member name="dialect">
+	<choice>
+	  <value>native</value>
+	  <value>nonnative</value>
+	</choice>
+      </member>
+      <member name="name" required="1">
+	<cdata format="any" />
+      </member>
+      <member name="accent">
+	<cdata format="any" />
+      </member>
+      <member name="type">
+	<choice>
+	  <value>male</value>
+	  <value>female</value>
+	  <value>child</value>
+	  <value>unknown</value>
+	</choice>
+      </member>
+      <member name="scope">
+	<choice>
+	  <value>local</value>
+	  <value>global</value>
+	</choice>
+      </member>
+    </structure>
+  </type>
+  
+  <type name="w-topic.type">
+    <structure>
+      <member as_attribute="1" name="id" role="#ID" required="1">
+	<cdata format="ID" />
+      </member>
+      <member name="desc" required="1">
+	<cdata format="any" />
+      </member>
+    </structure>
+  </type>
+  <type name="w-audio.time.type">
+    <structure>
+      <member name="reffile.rf" required="1">
+	<cdata format="NMTOKEN"/>
+      </member>
+      <member name="time" required="1">
+	<cdata format="time" />
+      </member>
+    </structure>
+  </type>
+  <type name="w-audio.span.type">
+    <structure>
+      <member name="reffile.rf" required="1">
+	<cdata format="NMTOKEN"/>
+      </member>
+      <member name="start_time" required="1">
+	<cdata format="time" />
+      </member>
+      <member name="end_time" required="1">
+	<cdata format="time" />
+      </member>
+    </structure>
+  </type>
+  <type name="w-z.rf.type">
+    <list ordered="1">
+      <cdata format="PMLREF"/>
+    </list>
+  </type>
+
+  <type name="w-nonspeech-desc.type">
+    <choice>
+      <value>click</value>
+      <value>mouth</value>
+      <value>cough</value>
+      <value>laugh</value>
+      <value>breath</value>
+      <value>inhale</value>
+      <value>EHM</value>
+      <value>agreement</value>
+      <value>disagreement</value>
+      <value>unintelligible</value>
+      <value>noise</value>
+      <value>silence</value>
+    </choice>
+  </type>
+  <type name="id.type">
+    <cdata format="ID"/>
+  </type>
+  <type name="bool.type">
+    <choice>
+      <value>0</value>
+      <value>1</value>
+    </choice>    
+  </type>
+  
+<!-- unused elements from transcriber -->
+<!--
+  <type name="w-vocal.type">
+    <container>
+      <attribute name="id" role="#ID" required="1" type="id.type"/>
+      <cdata format="any" />
+    </container>
+  </type>
+  <type name="w-background.type">
+    <structure>
+      <member as_attribute="1" name="id" role="#ID" required="1" type="id.type"/>
+      <member name="level">
+	<cdata format="NMTOKENS" />
+      </member>
+      <member name="type" required="1">
+	<cdata format="NMTOKENS" />
+      </member>
+      <member name="audio.rf" required="1" type="w-audio.time.type"/>
+      <member name="z.rf" type="w-z.rf.type"/>
+    </structure>
+  </type>
+-->  
+
+</pml_schema>
