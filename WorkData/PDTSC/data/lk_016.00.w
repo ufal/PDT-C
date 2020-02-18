@@ -1563,42 +1563,6 @@
 <w id="w-d1t416-2">
 <token>domácnosti</token>
 </w>
-<w id="w-d-id66453-punct">
-<token>,</token>
-</w>
-<w id="w-d1t416-4">
-<token>že</token>
-</w>
-<w id="w-d1t416-5">
-<token>po</token>
-</w>
-<w id="w-d1t416-6">
-<token>žních</token>
-</w>
-<w id="w-d1t418-9">
-<token>hospodáři</token>
-</w>
-<w id="w-d-id66618-punct">
-<token>,</token>
-</w>
-<w id="w-d1t418-1">
-<token>aby</token>
-</w>
-<w id="w-d1t418-2">
-<token>nezůstalo</token>
-</w>
-<w id="w-d1t418-5">
-<token>na</token>
-</w>
-<w id="w-d1t418-6">
-<token>poli</token>
-</w>
-<w id="w-d1t418-3">
-<token>ani</token>
-</w>
-<w id="w-d1t418-4">
-<token>zrnko</token>
-</w>
 <w id="w-408-212">
 <token>.</token>
 </w>

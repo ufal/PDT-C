@@ -240,20 +240,8 @@
 <w id="w5-159">
 <token>.</token>
 </w>
-<w id="w-d1t255-21">
-<token>Moc</token>
-</w>
-<w id="w-d1t255-22">
-<token>často</token>
-</w>
-<w id="w-d1t255-23">
-<token>vzpomínám</token>
-</w>
-<w id="w-d1t255-24">
-<token>a</token>
-</w>
 <w id="w-d1t255-25">
-<token>myslím</token>
+<token>Myslím</token>
 </w>
 <w id="w-d-id67269-punct">
 <token>,</token>

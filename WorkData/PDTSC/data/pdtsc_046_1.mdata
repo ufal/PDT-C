@@ -4879,7 +4879,7 @@
    </AM>
   </m>
  </s>
- <s stype="information" w-speaker.rf="spk2" id="m-408" w-begin.rf="w#d1t410-12" w-end.rf="w#d1t418-9">
+ <s stype="information" w-speaker.rf="spk2" id="m-408" w-begin.rf="w#d1t410-12" w-end.rf="w#d1t416-2">
   <m>
    <AM id="m-d1t410-13">
     <form>To</form>
@@ -4941,25 +4941,15 @@
    </AM>
   </m>
   <m>
-   <AM id="m-d-id66453-punct">
-    <form>,</form>
-    <tag>Z:-------------</tag>
-    <lemma>,</lemma>
+   <AM id="m-408-212">
+    <form>.</form>
    </AM>
   </m>
-  <m>
-   <AM id="m-d1t416-4">
-    <form>že</form>
-    <wrefs>
-     <LM>
-      <w.rf>w#d1t416-4</w.rf>
-     </LM>
-    </wrefs>
-   </AM>
-  </m>
+ </s>
+ <s stype="information" w-speaker.rf="spk2" id="m-213" w-begin.rf="w#d1t416-5" w-end.rf="w#d1t425-8">
   <m>
    <AM id="m-d1t416-5">
-    <form>po</form>
+    <form>Po</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t416-5</w.rf>
@@ -5055,15 +5045,13 @@
    </AM>
   </m>
   <m>
-   <AM id="m-408-212">
-    <form>.</form>
+   <AM id="m-d1t418-4x">
+    <form>,</form>
    </AM>
   </m>
- </s>
- <s stype="information" w-speaker.rf="spk2" id="m-213" w-begin.rf="w#d1t418-11" w-end.rf="w#d1t425-8">
   <m>
    <AM id="m-d1t418-11">
-    <form>Když</form>
+    <form>když</form>
     <wrefs>
      <LM>
       <w.rf>w#d1t418-11</w.rf>

@@ -479,27 +479,6 @@
 <s.rf>m#m107-151</s.rf>
 <ord>0</ord>
 <children>
-<LM id="ep_107.01-SCzechA-m-d1t255-24">
-<m.rf>m#m107-d1t255-24</m.rf>
-<afun>Coord</afun>
-<ord>4</ord>
-<children>
-<LM id="ep_107.01-SCzechA-m-d1t255-23">
-<m.rf>m#m107-d1t255-23</m.rf>
-<afun>Obj</afun>
-<is_member>1</is_member>
-<ord>3</ord>
-<children id="ep_107.01-SCzechA-m-d1t255-22">
-<m.rf>m#m107-d1t255-22</m.rf>
-<afun>Adv</afun>
-<ord>2</ord>
-<children id="ep_107.01-SCzechA-m-d1t255-21">
-<m.rf>m#m107-d1t255-21</m.rf>
-<afun>Adv</afun>
-<ord>1</ord>
-</children>
-</children>
-</LM>
 <LM id="ep_107.01-SCzechA-m-d1t255-25">
 <m.rf>m#m107-d1t255-25</m.rf>
 <afun>Pred</afun>
@@ -585,8 +564,6 @@
 <m.rf>m#m107-d-id67269-punct</m.rf>
 <afun>AuxX</afun>
 <ord>6</ord>
-</children>
-</LM>
 </children>
 </LM>
 <LM id="ep_107.01-SCzechA-m-d-m-d1e248-x2-punct-punct">
