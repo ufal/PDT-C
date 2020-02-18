@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pml_schema
+  xmlns="http://ufal.mff.cuni.cz/pdt/pml/schema/"
+  version="1.1">
+  <revision>0.0.2</revision>
+  <description>PDTSC 1.0 - z-layer</description>
+
+  <reference name="audio"/>
+
+  <root name="zdata" type="z-zdata.type"/>
+
+  <type name="z-zdata.type">
+    <structure>
+      <member name="meta" type="z-meta.type"/>
+      <member name="data" type="z-data.type"/>
+    </structure>
+  </type>
+
+  <type name="z-meta.type">
+    <structure>
+      <member name="lang"><cdata format="any"/></member>
+      <member name="original_format"><cdata format="any"/></member>
+      <member name="channel">
+	<choice>
+	  <value>left</value>
+	  <value>right</value>
+	  <value>both</value>
+	  <value>NA</value>
+	</choice>
+      </member>
+    </structure>
+  </type>
+
+  <type name="z-data.type">
+    <container>
+      <attribute name="id" required="1" role="#ID"><cdata format="ID"/></attribute>
+      <sequence>
+	<element name="segment" type="z-segment.type"/>
+      </sequence>
+    </container>
+  </type>
+  <type name="z-segment.type">
+    <container>
+      <attribute name="id" role="#ID" required="1"><cdata format="ID"/></attribute>
+      <sequence>
+	<element name="token" type="z-token.type"/>
+	<element name="gap" type="z-gap.type"/>
+      </sequence>
+    </container>
+  </type>
+  
+  <type name="z-token.type">
+    <container>
+      <attribute name="id" role="#ID" required="1"><cdata format="ID"/></attribute>
+      <attribute name="start_time" required="1"><cdata format="time"/></attribute>
+      <attribute name="end_time" required="1"><cdata format="time"/></attribute>
+      <cdata format="token"/>
+    </container>
+  </type>
+  <type name="z-gap.type">
+    <container>
+      <attribute name="id" role="#ID" required="1"><cdata format="ID"/></attribute>
+      <attribute name="start_time" required="1"><cdata format="time"/></attribute>
+      <attribute name="end_time" required="1"><cdata format="time"/></attribute>
+    </container>
+  </type>
+
+</pml_schema>

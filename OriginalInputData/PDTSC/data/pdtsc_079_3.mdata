@@ -4,7 +4,7 @@
  <head>
   <schema href="m-pdtsc-schema.xml" />
   <references>
-   <reffile id="w" href="pdtsc_079.wdata.gz" name="wdata" />
+   <reffile id="w" href="pdtsc_079.wdata" name="wdata" />
   </references>
  </head>
  <meta />

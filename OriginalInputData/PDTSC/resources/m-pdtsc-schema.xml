@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pml_schema
+  xmlns="http://ufal.mff.cuni.cz/pdt/pml/schema/"
+  version="1.1">
+  <revision>1.0.2</revision>
+  <description>PDTSC 1.0 - m-layer</description>
+  <reference name="wdata" readas="pml"/>
+
+  <import schema="mdata_schema.xml"/>
+
+  <derive type="m-node.type">
+    <structure>
+      <member name="wrefs" required="0">
+	<list ordered="1" type="m-wrefs.type"/>
+      </member>
+      <member name="comment" type="m-comment.type"/>
+      <member name="lemma" required="0"><cdata format="any"/></member>
+      <member name="tag" required="0"><cdata format="any"/></member>
+      <delete>w.rf</delete>
+      <delete>form_change</delete>
+    </structure>
+  </derive>
+
+  <derive name="m-nontext.type" type="m-node.type">
+    <structure name="m-nontext-node">
+      <member name="type"><cdata format="any"/></member>
+      <delete>lemma</delete>
+      <delete>tag</delete>
+      <delete>form</delete>
+      <delete>src.rf</delete>
+    </structure>
+  </derive>
+
+  <type name="m-s.type">
+    <container role="#NODE" type="m-s-content.type">
+      <attribute name="id" role="#ID" required="1"><cdata format="ID"/></attribute>
+      <attribute name="w-begin.rf" required="1"><cdata format="PMLREF"/></attribute>
+      <attribute name="w-end.rf" required="1"><cdata format="PMLREF"/></attribute>
+      <attribute name="w-speaker.rf" required="1"><cdata format="PMLREF"/></attribute>
+      <attribute name="stype" type="m-stype.type"/>
+    </container>
+  </type>
+
+  <type name="m-s-content.type">
+    <sequence role="#CHILDNODES">
+      <element name="m" type="m-m.type"/>
+      <element name="nontext" type="m-nontext.type"/>
+    </sequence>
+  </type>
+
+  <type name="m-wrefs.type">
+    <structure>
+      <!-- <member name="type" required="1" type="m-wrf-type.type"/> -->
+      <member name="w.rf" required="1">
+	<cdata format="PMLREF"/>
+      </member>
+    </structure>
+  </type>
+
+  <type name="m-comment.type">
+    <structure>
+      <member name="type" required="1">
+	<choice>
+	  <value>metalanguage</value>
+	  <value>form</value>
+	  <value>w-token</value>
+	  <value>w-extraneous</value>
+	  <value>w-missing</value>
+	  <value>w-recognize</value>
+	  <value>w-speaker</value>
+	  <value>other</value>
+	</choice>
+      </member>
+      <member name="text"><cdata format="any" /></member>
+    </structure>
+  </type>
+
+  <!--
+  <type name="m-wrf-type.type">
+    <choice>
+      <value>basic</value>
+      <value>substitution</value>
+      <value>num</value>
+      <value>nonspeech</value>
+    </choice>
+  </type>
+  -->
+
+  <type name="m-stype.type">
+    <choice>
+      <value>information</value>
+      <value>question</value>
+      <value>instruction</value>
+      <value>confirmation</value>
+      <value>disbelief</value>
+      <value>surprise</value>
+      <value>repetition</value>
+      <value>other</value>
+    </choice>
+  </type>
+
+</pml_schema>
