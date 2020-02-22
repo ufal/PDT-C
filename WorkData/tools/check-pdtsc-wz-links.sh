@@ -1,6 +1,8 @@
 #!/bin/bash
 for wdata in WorkData/PDTSC/data/*.wdata ; do
-    zdata=${wdata%.wdata}.zdata
+    zdata=WorkData/PDTSC/data/$(
+        xmllint --xpath '//*[local-name()="reffile"][@name="zdata"]/@href' \
+                "$wdata" | cut -f2 -d\")
     missing=$(comm -13 <(grep -o 'id="[^"]*"' "$zdata" | cut -f2 -d\" \
                          | sort -u) \
                        <(sed -n '/<z\.rf/,/<\/z\.rf/p' "$wdata" | grep LM \
