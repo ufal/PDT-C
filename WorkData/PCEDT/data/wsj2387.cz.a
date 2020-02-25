@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="aanot_schema.xml" />
 <references>
-<reffile id="m" href="wsj2387.cz.m" name="mdata"/>
-<reffile id="w" href="wsj2387.cz.w" name="wdata"/>
+<reffile id="m" name="mdata" href="wsj2387.cz.m" />
+<reffile id="w" name="wdata" href="wsj2387.cz.w" />
 </references>
 </head>
 <meta>
@@ -4238,7 +4238,7 @@
 <LM id="a-wsj2387-001-p1s31W33-Ta">
 <m.rf>m#m-wsj2387-001-p1s31W33-Ta</m.rf>
 <afun>Pred</afun>
-<ord>33</ord>
+<ord>32</ord>
 <children>
 <LM id="a-wsj2387-001-p1s31W17-Ta">
 <m.rf>m#m-wsj2387-001-p1s31W17-Ta</m.rf>
@@ -4367,7 +4367,7 @@
 <LM id="a-wsj2387-001-p1s31W27-Ta">
 <m.rf>m#m-wsj2387-001-p1s31W27-Ta</m.rf>
 <afun>Atr</afun>
-<ord>27</ord>
+<ord>26</ord>
 <children>
 <LM id="a-wsj2387-001-p1s31W21-Ta">
 <m.rf>m#m-wsj2387-001-p1s31W21-Ta</m.rf>
@@ -4386,42 +4386,37 @@
 </LM>
 </children>
 </LM>
-<LM id="a-wsj2387-001-p1s31W24-Ta">
-<m.rf>m#m-wsj2387-001-p1s31W24-Ta</m.rf>
-<afun>AuxT</afun>
-<ord>24</ord>
-</LM>
 <LM id="a-wsj2387-001-p1s31W25-Ta">
 <m.rf>m#m-wsj2387-001-p1s31W25-Ta</m.rf>
 <afun>Sb</afun>
-<ord>25</ord>
+<ord>24</ord>
 <children>
 <LM id="a-wsj2387-001-p1s31W26-Ta">
 <m.rf>m#m-wsj2387-001-p1s31W26-Ta</m.rf>
 <afun>Atr</afun>
-<ord>26</ord>
+<ord>25</ord>
 </LM>
 </children>
 </LM>
 <LM id="a-wsj2387-001-p1s31W29-Ta">
 <m.rf>m#m-wsj2387-001-p1s31W29-Ta</m.rf>
 <afun>AuxP</afun>
-<ord>29</ord>
+<ord>28</ord>
 <children>
 <LM id="a-wsj2387-001-p1s31W31-Ta">
 <m.rf>m#m-wsj2387-001-p1s31W31-Ta</m.rf>
 <afun>Adv</afun>
-<ord>31</ord>
+<ord>30</ord>
 <children>
 <LM id="a-wsj2387-001-p1s31W28-Ta">
 <m.rf>m#m-wsj2387-001-p1s31W28-Ta</m.rf>
 <afun>AuxZ</afun>
-<ord>28</ord>
+<ord>27</ord>
 </LM>
 <LM id="a-wsj2387-001-p1s31W30-Ta">
 <m.rf>m#m-wsj2387-001-p1s31W30-Ta</m.rf>
 <afun>Atr</afun>
-<ord>30</ord>
+<ord>29</ord>
 </LM>
 </children>
 </LM>
@@ -4436,25 +4431,25 @@
 <LM id="a-wsj2387-001-p1s31W32-Ta">
 <m.rf>m#m-wsj2387-001-p1s31W32-Ta</m.rf>
 <afun>AuxX</afun>
-<ord>32</ord>
+<ord>31</ord>
 </LM>
 </children>
 </LM>
 <LM id="a-wsj2387-001-p1s31W36-Ta">
 <m.rf>m#m-wsj2387-001-p1s31W36-Ta</m.rf>
 <afun>Apos</afun>
-<ord>36</ord>
+<ord>35</ord>
 <children>
 <LM id="a-wsj2387-001-p1s31W35-Ta">
 <m.rf>m#m-wsj2387-001-p1s31W35-Ta</m.rf>
 <afun>Sb</afun>
 <is_member>1</is_member>
-<ord>35</ord>
+<ord>34</ord>
 <children>
 <LM id="a-wsj2387-001-p1s31W34-Ta">
 <m.rf>m#m-wsj2387-001-p1s31W34-Ta</m.rf>
 <afun>Atr</afun>
-<ord>34</ord>
+<ord>33</ord>
 </LM>
 </children>
 </LM>
@@ -4462,12 +4457,12 @@
 <m.rf>m#m-wsj2387-001-p1s31W37-Ta</m.rf>
 <afun>Sb</afun>
 <is_member>1</is_member>
-<ord>37</ord>
+<ord>36</ord>
 <children>
 <LM id="a-wsj2387-001-p1s31W38-Ta">
 <m.rf>m#m-wsj2387-001-p1s31W38-Ta</m.rf>
 <afun>Atr</afun>
-<ord>38</ord>
+<ord>37</ord>
 </LM>
 </children>
 </LM>
@@ -4478,7 +4473,7 @@
 <LM id="a-wsj2387-001-p1s31W39-Ta">
 <m.rf>m#m-wsj2387-001-p1s31W39-Ta</m.rf>
 <afun>AuxK</afun>
-<ord>39</ord>
+<ord>38</ord>
 </LM>
 </children>
 <eng_sentence>Both palmtops are dismissed by notebook makers, who argue that they're too small -- a problem Poquet also encountered in focus groups, admits Gerry Purdy, director of marketing.</eng_sentence>

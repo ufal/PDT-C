@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="adata_schema.xml"/>
+<schema href="adata_schema.xml" />
 <references>
-<reffile id="m" name="mdata" href="wsj0790.cz.m"/>
-<reffile id="w" name="wdata" href="wsj0790.cz.w"/>
+<reffile id="m" name="mdata" href="wsj0790.cz.m" />
+<reffile id="w" name="wdata" href="wsj0790.cz.w" />
 </references>
 </head>
 <meta>
@@ -5093,50 +5093,45 @@
 </LM>
 </children>
 </LM>
-<LM id="a-wsj0790-001-p1s34W12-Ta">
-<m.rf>m#m-wsj0790-001-p1s34W12-Ta</m.rf>
-<afun>AuxP</afun>
-<ord>12</ord>
-<children>
 <LM id="a-wsj0790-001-p1s34W13-Ta">
 <m.rf>m#m-wsj0790-001-p1s34W13-Ta</m.rf>
 <afun>Adv</afun>
-<ord>13</ord>
+<ord>12</ord>
 </LM>
 <LM id="a-wsj0790-001-p1s34W20-Ta">
 <m.rf>m#m-wsj0790-001-p1s34W20-Ta</m.rf>
 <afun>Adv</afun>
-<ord>20</ord>
+<ord>19</ord>
 <children>
 <LM id="a-wsj0790-001-p1s34W14-Ta">
 <m.rf>m#m-wsj0790-001-p1s34W14-Ta</m.rf>
 <afun>AuxX</afun>
-<ord>14</ord>
+<ord>13</ord>
 </LM>
 <LM id="a-wsj0790-001-p1s34W15-Ta">
 <m.rf>m#m-wsj0790-001-p1s34W15-Ta</m.rf>
 <afun>Obj</afun>
-<ord>15</ord>
+<ord>14</ord>
 </LM>
 <LM id="a-wsj0790-001-p1s34W16-Ta">
 <m.rf>m#m-wsj0790-001-p1s34W16-Ta</m.rf>
 <afun>AuxV</afun>
-<ord>16</ord>
+<ord>15</ord>
 </LM>
 <LM id="a-wsj0790-001-p1s34W17-Ta">
 <m.rf>m#m-wsj0790-001-p1s34W17-Ta</m.rf>
 <afun>AuxP</afun>
-<ord>17</ord>
+<ord>16</ord>
 <children>
 <LM id="a-wsj0790-001-p1s34W18-Ta">
 <m.rf>m#m-wsj0790-001-p1s34W18-Ta</m.rf>
 <afun>Adv</afun>
-<ord>18</ord>
+<ord>17</ord>
 <children>
 <LM id="a-wsj0790-001-p1s34W19-Ta">
 <m.rf>m#m-wsj0790-001-p1s34W19-Ta</m.rf>
 <afun>Atr</afun>
-<ord>19</ord>
+<ord>18</ord>
 </LM>
 </children>
 </LM>
@@ -5145,9 +5140,7 @@
 <LM id="a-wsj0790-001-p1s34W21-Ta">
 <m.rf>m#m-wsj0790-001-p1s34W21-Ta</m.rf>
 <afun>Sb</afun>
-<ord>21</ord>
-</LM>
-</children>
+<ord>20</ord>
 </LM>
 </children>
 </LM>
@@ -5166,7 +5159,7 @@
 <LM id="a-wsj0790-001-p1s34W22-Ta">
 <m.rf>m#m-wsj0790-001-p1s34W22-Ta</m.rf>
 <afun>AuxK</afun>
-<ord>22</ord>
+<ord>21</ord>
 </LM>
 </children>
 </LM>

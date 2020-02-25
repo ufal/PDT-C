@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="adata_schema.xml"/>
+<schema href="adata_schema.xml" />
 <references>
-<reffile id="m" name="mdata" href="wsj1881.cz.m"/>
-<reffile id="w" name="wdata" href="wsj1881.cz.w"/>
+<reffile id="m" name="mdata" href="wsj1881.cz.m" />
+<reffile id="w" name="wdata" href="wsj1881.cz.w" />
 </references>
 </head>
 <meta>
@@ -5039,7 +5039,7 @@
 <LM id="a-wsj1881-001-p1s31W28-Ta">
 <m.rf>m#m-wsj1881-001-p1s31W28-Ta</m.rf>
 <afun>Pred</afun>
-<ord>28</ord>
+<ord>27</ord>
 <children>
 <LM id="a-wsj1881-001-p1s31W1-Ta">
 <m.rf>m#m-wsj1881-001-p1s31W1-Ta</m.rf>
@@ -5111,7 +5111,7 @@
 <LM id="a-wsj1881-001-p1s31W27-Ta">
 <m.rf>m#m-wsj1881-001-p1s31W27-Ta</m.rf>
 <afun>AuxX</afun>
-<ord>27</ord>
+<ord>26</ord>
 </LM>
 </children>
 </LM>
@@ -5171,30 +5171,25 @@
 <afun>AuxP</afun>
 <ord>21</ord>
 <children>
-<LM id="a-wsj1881-001-p1s31W22-Ta">
-<m.rf>m#m-wsj1881-001-p1s31W22-Ta</m.rf>
-<afun>Atr</afun>
-<ord>22</ord>
-</LM>
 <LM id="a-wsj1881-001-p1s31W24-Ta">
 <m.rf>m#m-wsj1881-001-p1s31W24-Ta</m.rf>
 <afun>Atr</afun>
-<ord>24</ord>
+<ord>23</ord>
 <children>
 <LM id="a-wsj1881-001-p1s31W23-Ta">
 <m.rf>m#m-wsj1881-001-p1s31W23-Ta</m.rf>
 <afun>Atr</afun>
-<ord>23</ord>
+<ord>22</ord>
 </LM>
 <LM id="a-wsj1881-001-p1s31W26-Ta">
 <m.rf>m#m-wsj1881-001-p1s31W26-Ta</m.rf>
 <afun>Atr</afun>
-<ord>26</ord>
+<ord>25</ord>
 <children>
 <LM id="a-wsj1881-001-p1s31W25-Ta">
 <m.rf>m#m-wsj1881-001-p1s31W25-Ta</m.rf>
 <afun>Atr</afun>
-<ord>25</ord>
+<ord>24</ord>
 </LM>
 </children>
 </LM>
@@ -5209,12 +5204,12 @@
 <LM id="a-wsj1881-001-p1s31W30-Ta">
 <m.rf>m#m-wsj1881-001-p1s31W30-Ta</m.rf>
 <afun>Pnom</afun>
-<ord>30</ord>
+<ord>29</ord>
 <children>
 <LM id="a-wsj1881-001-p1s31W29-Ta">
 <m.rf>m#m-wsj1881-001-p1s31W29-Ta</m.rf>
 <afun>Adv</afun>
-<ord>29</ord>
+<ord>28</ord>
 </LM>
 </children>
 </LM>
@@ -5223,7 +5218,7 @@
 <LM id="a-wsj1881-001-p1s31W31-Ta">
 <m.rf>m#m-wsj1881-001-p1s31W31-Ta</m.rf>
 <afun>AuxK</afun>
-<ord>31</ord>
+<ord>30</ord>
 </LM>
 </children>
 </LM>

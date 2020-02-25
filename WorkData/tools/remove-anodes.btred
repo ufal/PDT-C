@@ -1,0 +1,22 @@
+#!btred -NTe remove_anodes()
+# -*- cperl -*-
+
+use strict;
+use warnings;
+
+sub remove_anodes {
+    ChangingFile(0);
+    return if $this == $root;
+
+    unless ($this->attr('m/tag')) {
+        my $p = $this->parent;
+        die "No parent" unless $p;
+
+        CutPaste($_, $p) for $this->children;
+
+        DeleteLeafNode($this);
+        ChangingFile(1);
+        FPosition($p);
+        $this = $root;
+    }
+}

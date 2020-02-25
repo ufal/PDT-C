@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="adata_schema.xml"/>
+<schema href="adata_schema.xml" />
 <references>
-<reffile id="m" name="mdata" href="wsj0937.cz.m"/>
-<reffile id="w" name="wdata" href="wsj0937.cz.w"/>
+<reffile id="m" name="mdata" href="wsj0937.cz.m" />
+<reffile id="w" name="wdata" href="wsj0937.cz.w" />
 </references>
 </head>
 <meta>
@@ -2564,34 +2564,29 @@
 <m.rf>m#m-wsj0937-001-p1s11W54-Ta</m.rf>
 <afun>Obj</afun>
 <is_member>1</is_member>
-<ord>54</ord>
+<ord>53</ord>
 <children>
-<LM id="a-wsj0937-001-p1s11W51-Ta">
-<m.rf>m#m-wsj0937-001-p1s11W51-Ta</m.rf>
-<afun>AuxT</afun>
-<ord>51</ord>
-</LM>
 <LM id="a-wsj0937-001-p1s11W52-Ta">
 <m.rf>m#m-wsj0937-001-p1s11W52-Ta</m.rf>
 <afun>AuxP</afun>
-<ord>52</ord>
+<ord>51</ord>
 <children>
 <LM id="a-wsj0937-001-p1s11W53-Ta">
 <m.rf>m#m-wsj0937-001-p1s11W53-Ta</m.rf>
 <afun>Obj</afun>
-<ord>53</ord>
+<ord>52</ord>
 </LM>
 </children>
 </LM>
 <LM id="a-wsj0937-001-p1s11W55-Ta">
 <m.rf>m#m-wsj0937-001-p1s11W55-Ta</m.rf>
 <afun>AuxP</afun>
-<ord>55</ord>
+<ord>54</ord>
 <children>
 <LM id="a-wsj0937-001-p1s11W56-Ta">
 <m.rf>m#m-wsj0937-001-p1s11W56-Ta</m.rf>
 <afun>Obj</afun>
-<ord>56</ord>
+<ord>55</ord>
 </LM>
 </children>
 </LM>
@@ -2600,7 +2595,7 @@
 <LM id="a-wsj0937-001-p1s11W58-Ta">
 <m.rf>m#m-wsj0937-001-p1s11W58-Ta</m.rf>
 <afun>AuxG</afun>
-<ord>58</ord>
+<ord>57</ord>
 </LM>
 </children>
 </LM>
@@ -2617,7 +2612,7 @@
 <LM id="a-wsj0937-001-p1s11W57-Ta">
 <m.rf>m#m-wsj0937-001-p1s11W57-Ta</m.rf>
 <afun>AuxK</afun>
-<ord>57</ord>
+<ord>56</ord>
 </LM>
 </children>
 </LM>
