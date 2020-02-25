@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="adata_schema.xml"/>
+<schema href="adata_schema.xml" />
 <references>
-<reffile id="m" name="mdata" href="wsj1328.cz.m"/>
-<reffile id="w" name="wdata" href="wsj1328.cz.w"/>
+<reffile id="m" name="mdata" href="wsj1328.cz.m" />
+<reffile id="w" name="wdata" href="wsj1328.cz.w" />
 </references>
 </head>
 <meta>
@@ -4230,13 +4230,6 @@
 <m.rf>m#m-wsj1328-001-p1s34W10-Ta</m.rf>
 <afun>AuxP</afun>
 <ord>10</ord>
-<children>
-<LM id="a-wsj1328-001-p1s34W13-Ta">
-<m.rf>m#m-wsj1328-001-p1s34W13-Ta</m.rf>
-<afun>Coord</afun>
-<ord>13</ord>
-</LM>
-</children>
 </LM>
 <LM id="a-wsj1328-001-p1s34W14-Ta">
 <m.rf>m#m-wsj1328-001-p1s34W14-Ta</m.rf>
@@ -4249,9 +4242,13 @@
 <ord>11</ord>
 </LM>
 <LM id="a-wsj1328-001-p1s34W12-Ta">
-<m.rf>m#m-wsj1328-001-p1s34W12-Ta</m.rf>
 <afun>Atr</afun>
 <ord>12</ord>
+</LM>
+<LM id="a-wsj1328-001-p1s34W13-Ta">
+<m.rf>m#m-wsj1328-001-p1s34W13-Ta</m.rf>
+<afun>Coord</afun>
+<ord>13</ord>
 </LM>
 <LM id="a-wsj1328-001-p1s34W16-Ta">
 <m.rf>m#m-wsj1328-001-p1s34W16-Ta</m.rf>

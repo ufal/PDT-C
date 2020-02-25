@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="adata_schema.xml"/>
+<schema href="adata_schema.xml" />
 <references>
-<reffile id="m" name="mdata" href="wsj0168.cz.m"/>
-<reffile id="w" name="wdata" href="wsj0168.cz.w"/>
+<reffile id="m" name="mdata" href="wsj0168.cz.m" />
+<reffile id="w" name="wdata" href="wsj0168.cz.w" />
 </references>
 </head>
 <meta>
@@ -948,16 +948,13 @@
 <ord>49</ord>
 <children>
 <LM id="a-wsj0168-001-p1s5W47-Ta">
-<m.rf>m#m-wsj0168-001-p1s5W47-Ta</m.rf>
 <afun>Atr</afun>
 <ord>47</ord>
-<children>
+</LM>
 <LM id="a-wsj0168-001-p1s5W48-Ta">
 <m.rf>m#m-wsj0168-001-p1s5W48-Ta</m.rf>
 <afun>AuxX</afun>
 <ord>48</ord>
-</LM>
-</children>
 </LM>
 <LM id="a-wsj0168-001-p1s5W50-Ta">
 <m.rf>m#m-wsj0168-001-p1s5W50-Ta</m.rf>
