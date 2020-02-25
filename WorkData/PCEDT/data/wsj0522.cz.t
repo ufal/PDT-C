@@ -4,14 +4,15 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0522.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj0522-001-p1s0">
 <atree.rf>a#a-wsj0522-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0522-001-p1s0a30">
+<children>
+<LM id="T-wsj0522-001-p1s0a30">
 <a>
 <lex.rf>a#a-wsj0522-001-p1s0W30-Ta</lex.rf>
 </a>
@@ -27,7 +28,9 @@
 <LM id="T-wsj0522-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0522-001-p1s0W16-Ta</lex.rf>
-<aux.rf>a#a-wsj0522-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0522-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6251f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -61,7 +64,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0522-001-p1s0a4">
+<children>
+<LM id="T-wsj0522-001-p1s0a4">
 <a>
 <lex.rf>a#a-wsj0522-001-p1s0W2-Ta</lex.rf>
 </a>
@@ -72,12 +76,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0522-001-p1s0a6">
 <a>
 <lex.rf>a#a-wsj0522-001-p1s0W6-Ta</lex.rf>
-<aux.rf>a#a-wsj0522-001-p1s0W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0522-001-p1s0W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>bilance</t_lemma>
@@ -118,7 +125,9 @@
 <LM id="T-wsj0522-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj0522-001-p1s0W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0522-001-p1s0W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0522-001-p1s0W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>miliarda</t_lemma>
@@ -151,7 +160,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0522-001-p1s0a14">
+<children>
+<LM id="T-wsj0522-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj0522-001-p1s0W13-Ta</lex.rf>
 </a>
@@ -162,10 +172,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0522-001-p1s0a16">
+<children>
+<LM id="T-wsj0522-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj0522-001-p1s0W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0522-001-p1s0W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0522-001-p1s0W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>červenec</t_lemma>
@@ -174,7 +187,9 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -192,7 +207,9 @@
 <LM id="T-wsj0522-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj0522-001-p1s0W19-Ta</lex.rf>
-<aux.rf>a#a-wsj0522-001-p1s0W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0522-001-p1s0W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>miliarda</t_lemma>
@@ -226,7 +243,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj0522-001-p1s0a21">
+<children>
+<LM id="T-wsj0522-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj0522-001-p1s0W20-Ta</lex.rf>
 </a>
@@ -237,6 +255,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>15</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -244,7 +263,9 @@
 <LM id="T-wsj0522-001-p1s0a24">
 <a>
 <lex.rf>a#a-wsj0522-001-p1s0W24-Ta</lex.rf>
-<aux.rf>a#a-wsj0522-001-p1s0W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0522-001-p1s0W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -289,7 +310,9 @@
 <LM id="T-wsj0522-001-p1s0a28">
 <a>
 <lex.rf>a#a-wsj0522-001-p1s0W28-Ta</lex.rf>
-<aux.rf>a#a-wsj0522-001-p1s0W27-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0522-001-p1s0W27-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>srpen</t_lemma>
@@ -312,7 +335,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj0522-001-p1s0a32">
+<children>
+<LM id="T-wsj0522-001-p1s0a32">
 <a>
 <lex.rf>a#a-wsj0522-001-p1s0W32-Ta</lex.rf>
 </a>
@@ -323,19 +347,24 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The current account deficit on France's balance of payments narrowed to 1.48 billion French francs ($236.8 million) in August from a revised 2.1 billion francs in July, the Finance Ministry said.</eng_sentence>
 </LM>
 <LM id="T-wsj0522-001-p1s1">
 <atree.rf>a#a-wsj0522-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0522-001-p1s1a1">
+<children>
+<LM id="T-wsj0522-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0522-001-p1s1W5-Ta</lex.rf>
-<aux.rf>a#a-wsj0522-001-p1s1W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0522-001-p1s1W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2702f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -376,7 +405,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0522-001-p1s1a5">
+<children>
+<LM id="T-wsj0522-001-p1s1a5">
 <a>
 <lex.rf>a#a-wsj0522-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -387,12 +417,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0522-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj0522-001-p1s1W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0522-001-p1s1W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0522-001-p1s1W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -429,13 +462,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Previously, the July figure was estimated at a deficit of 613 million francs.</eng_sentence>
 </LM>
 <LM id="T-wsj0522-001-p1s2">
 <atree.rf>a#a-wsj0522-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0522-001-p1s2a1">
+<children>
+<LM id="T-wsj0522-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0522-001-p1s2W6-Ta</lex.rf>
 </a>
@@ -478,27 +513,27 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0522-001-p1s2a2">
+<children>
+<LM id="T-wsj0522-001-p1s2a2">
 <a>
 <lex.rf>a#a-wsj0522-001-p1s2W1-Ta</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>sezónní</t_lemma>
+<t_lemma>sezónně</t_lemma>
 <functor>MANN</functor>
 <gram>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<type>M-lemma</type>
-<text>chyba v překladu: sezónně</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0522-001-p1s2a6">
 <a>
 <lex.rf>a#a-wsj0522-001-p1s2W5-Ta</lex.rf>
-<aux.rf>a#a-wsj0522-001-p1s2W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0522-001-p1s2W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>srpen</t_lemma>
@@ -508,9 +543,11 @@
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0522-001-p1s0a28</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -518,7 +555,9 @@
 <LM id="T-wsj0522-001-p1s2a8">
 <a>
 <lex.rf>a#a-wsj0522-001-p1s2W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0522-001-p1s2W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0522-001-p1s2W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>dphr</nodetype>
 <t_lemma>k_dispozici</t_lemma>
@@ -528,7 +567,9 @@
 <LM id="T-wsj0522-001-p1s2a10">
 <a>
 <lex.rf>a#a-wsj0522-001-p1s2W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0522-001-p1s2W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0522-001-p1s2W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>stávka</t_lemma>
@@ -567,7 +608,9 @@
 <a>
 <lex.rf>a#a-wsj0522-001-p1s2W13-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0522-001-p1s2a10</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0522-001-p1s2a10</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -611,7 +654,9 @@
 <LM id="T-wsj0522-001-p1s2a18">
 <a>
 <lex.rf>a#a-wsj0522-001-p1s2W18-Ta</lex.rf>
-<aux.rf>a#a-wsj0522-001-p1s2W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0522-001-p1s2W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>ministerstvo</t_lemma>
@@ -621,15 +666,19 @@
 </gram>
 <deepord>15</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0522-001-p1s0a31</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -637,10 +686,13 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>Translation</type>
 <text>Sezónně</text>
+</LM>
 </annot_comment>
 <eng_sentence>Seasonally adjusted figures for August weren't available because of a recent strike that has disrupted the ministry's data collection.</eng_sentence>
 </LM>

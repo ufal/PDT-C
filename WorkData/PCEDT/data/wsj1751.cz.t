@@ -4,14 +4,15 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj1751.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj1751-001-p1s0">
 <atree.rf>a#a-wsj1751-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1751-001-p1s0a1">
+<children>
+<LM id="T-wsj1751-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1751-001-p1s0W11-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1751-001-p1s0a18">
+<children>
+<LM id="T-wsj1751-001-p1s0a18">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -67,13 +69,16 @@
 <deepord>4</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1751-001-p1s0a7">
 <a>
 <lex.rf>a#a-wsj1751-001-p1s0W6-Ta</lex.rf>
 </a>
-<compl.rf>T-wsj1751-001-p1s0a2</compl.rf>
+<compl.rf>
+<LM>T-wsj1751-001-p1s0a2</LM>
+</compl.rf>
 <nodetype>complex</nodetype>
 <t_lemma>nazývaný</t_lemma>
 <functor>COMPL</functor>
@@ -93,9 +98,6 @@
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<type>Typo</type>
-</annot_comment>
 </LM>
 <LM id="T-wsj1751-001-p1s0a19">
 <nodetype>list</nodetype>
@@ -144,7 +146,9 @@
 <LM id="T-wsj1751-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj1751-001-p1s0W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1751-001-p1s0W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1751-001-p1s0W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -153,7 +157,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1751-001-p1s0a14">
+<children>
+<LM id="T-wsj1751-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj1751-001-p1s0W14-Ta</lex.rf>
 </a>
@@ -164,6 +169,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1751-001-p1s0a15">
@@ -177,7 +183,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1751-001-p1s0a16">
+<children>
+<LM id="T-wsj1751-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj1751-001-p1s0W15-Ta</lex.rf>
 </a>
@@ -188,16 +195,19 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>EMPIRE PENCIL, later called Empire-Berol, developed the plastic pencil in 1973.</eng_sentence>
 </LM>
 <LM id="T-wsj1751-001-p1s1">
 <atree.rf>a#a-wsj1751-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1751-001-p1s1a1">
+<children>
+<LM id="T-wsj1751-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1751-001-p1s1W6-Ta</lex.rf>
 </a>
@@ -269,8 +279,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1751-001-p1s1a6">
@@ -297,7 +309,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1751-001-p1s1a8">
+<children>
+<LM id="T-wsj1751-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj1751-001-p1s1W8-Ta</lex.rf>
 </a>
@@ -309,13 +322,17 @@
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1751-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Yesterday's Centennial Journal misstated the company's name.</eng_sentence>
 </LM>

@@ -4,14 +4,15 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0324.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj0324-001-p1s0">
 <atree.rf>a#a-wsj0324-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0324-001-p1s0a1">
+<children>
+<LM id="T-wsj0324-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0324-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0324-001-p1s0a22">
+<children>
+<LM id="T-wsj0324-001-p1s0a22">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -82,12 +84,15 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0324-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj0324-001-p1s0W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0324-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0324-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w598f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -108,9 +113,11 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0324-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0324-001-p1s0a10">
@@ -130,7 +137,9 @@
 <a>
 <lex.rf>a#a-wsj0324-001-p1s0W10-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0324-001-p1s0a24</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0324-001-p1s0a24</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>ACT</functor>
@@ -150,7 +159,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj0324-001-p1s0a27">
+<children>
+<LM id="T-wsj0324-001-p1s0a27">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -191,12 +201,15 @@
 <deepord>16</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0324-001-p1s0a17">
 <a>
 <lex.rf>a#a-wsj0324-001-p1s0W19-Ta</lex.rf>
-<aux.rf>a#a-wsj0324-001-p1s0W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0324-001-p1s0W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -217,7 +230,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj0324-001-p1s0a18">
+<children>
+<LM id="T-wsj0324-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj0324-001-p1s0W17-Ta</lex.rf>
 </a>
@@ -228,6 +242,7 @@
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>17</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0324-001-p1s0a20">
@@ -246,20 +261,24 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>QVC Network Inc. said it completed its acquisition of CVN Cos. for about $423 million.</eng_sentence>
 </LM>
 <LM id="T-wsj0324-001-p1s1">
 <atree.rf>a#a-wsj0324-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0324-001-p1s1a1">
+<children>
+<LM id="T-wsj0324-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0324-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -283,7 +302,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0324-001-p1s1a3">
+<children>
+<LM id="T-wsj0324-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj0324-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -294,11 +314,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0324-001-p1s0a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0324-001-p1s1a28">
@@ -311,7 +334,9 @@
 <LM id="T-wsj0324-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj0324-001-p1s1W6-Ta</lex.rf>
-<aux.rf>a#a-wsj0324-001-p1s1W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0324-001-p1s1W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9020f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -332,9 +357,11 @@
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0324-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0324-001-p1s1a7">
@@ -358,7 +385,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0324-001-p1s1a8">
+<children>
+<LM id="T-wsj0324-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj0324-001-p1s1W7-Ta</lex.rf>
 </a>
@@ -369,6 +397,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0324-001-p1s1a10">
@@ -423,7 +452,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj0324-001-p1s1a14">
+<children>
+<LM id="T-wsj0324-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj0324-001-p1s1W14-Ta</lex.rf>
 </a>
@@ -435,20 +465,27 @@
 </gram>
 <deepord>14</deepord>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>velkými písmeny</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0324-001-p1s1a26</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0324-001-p1s1a27">
 <a>
 <lex.rf>a#a-wsj0324-001-p1s1W22-Ta</lex.rf>
-<aux.rf>a#a-wsj0324-001-p1s1W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0324-001-p1s1W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
@@ -474,7 +511,9 @@
 <LM id="T-wsj0324-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj0324-001-p1s1W19-Ta</lex.rf>
-<aux.rf>a#a-wsj0324-001-p1s1W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0324-001-p1s1W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -519,7 +558,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj0324-001-p1s1a20">
+<children>
+<LM id="T-wsj0324-001-p1s1a20">
 <a>
 <lex.rf>a#a-wsj0324-001-p1s1W20-Ta</lex.rf>
 </a>
@@ -530,6 +570,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>19</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0324-001-p1s1a21">
@@ -543,7 +584,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj0324-001-p1s1a22">
+<children>
+<LM id="T-wsj0324-001-p1s1a22">
 <a>
 <lex.rf>a#a-wsj0324-001-p1s1W24-Ta</lex.rf>
 </a>
@@ -555,14 +597,19 @@
 </gram>
 <deepord>23</deepord>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>velkými písmeny</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0324-001-p1s0a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -574,13 +621,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>QVC agreed to pay $19 and one-eighth QVC share for each of CVN's 20 million fully diluted shares.</eng_sentence>
 </LM>
 <LM id="T-wsj0324-001-p1s2">
 <atree.rf>a#a-wsj0324-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0324-001-p1s2a1">
+<children>
+<LM id="T-wsj0324-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0324-001-p1s2W5-Ta</lex.rf>
 </a>
@@ -605,9 +654,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0324-001-p1s0a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0324-001-p1s2a3">
@@ -621,7 +672,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0324-001-p1s2a4">
+<children>
+<LM id="T-wsj0324-001-p1s2a4">
 <a>
 <lex.rf>a#a-wsj0324-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -632,6 +684,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <bridging>
 <LM>
@@ -661,7 +714,9 @@
 <LM id="T-wsj0324-001-p1s2a7">
 <a>
 <lex.rf>a#a-wsj0324-001-p1s2W7-Ta</lex.rf>
-<aux.rf>a#a-wsj0324-001-p1s2W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0324-001-p1s2W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -748,7 +803,9 @@
 <a>
 <lex.rf>a#a-wsj0324-001-p1s2W14-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0324-001-p1s2a7</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0324-001-p1s2a7</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -780,7 +837,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj0324-001-p1s2a15">
+<children>
+<LM id="T-wsj0324-001-p1s2a15">
 <a>
 <lex.rf>a#a-wsj0324-001-p1s2W17-Ta</lex.rf>
 </a>
@@ -791,10 +849,13 @@
 <sempos>adj.quant.grad</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj0324-001-p1s2a27">
+<children>
+<LM id="T-wsj0324-001-p1s2a27">
 <a>
 <lex.rf>a#a-wsj0324-001-p1s2W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0324-001-p1s2W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0324-001-p1s2W19-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1855f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -816,9 +877,11 @@
 </gram>
 <deepord>18</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0324-001-p1s2a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0324-001-p1s2a18">
@@ -860,7 +923,9 @@
 <LM id="T-wsj0324-001-p1s2a22">
 <a>
 <lex.rf>a#a-wsj0324-001-p1s2W24-Ta</lex.rf>
-<aux.rf>a#a-wsj0324-001-p1s2W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0324-001-p1s2W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>video</t_lemma>
@@ -869,7 +934,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj0324-001-p1s2a23">
+<children>
+<LM id="T-wsj0324-001-p1s2a23">
 <a>
 <lex.rf>a#a-wsj0324-001-p1s2W25-Ta</lex.rf>
 </a>
@@ -880,12 +946,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
-</children>
 </LM>
-</children>
-</LM>
-</children>
-</children>
 </children>
 </LM>
 </children>
@@ -893,17 +954,23 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<type>Typo</type>
-<text>správně "přivedla" (akvizice)</text>
-</annot_comment>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The acquisition brings together the two largest competitors to Home Shopping Network Inc., which now reaches more viewers than any other company in the video shopping industry.</eng_sentence>
 </LM>
 <LM id="T-wsj0324-001-p1s3">
 <atree.rf>a#a-wsj0324-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0324-001-p1s3a1">
+<children>
+<LM id="T-wsj0324-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj0324-001-p1s3W13-Ta</lex.rf>
 </a>
@@ -937,7 +1004,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0324-001-p1s3a10">
+<children>
+<LM id="T-wsj0324-001-p1s3a10">
 <a>
 <lex.rf>a#a-wsj0324-001-p1s3W1-Ta</lex.rf>
 </a>
@@ -948,6 +1016,7 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0324-001-p1s3a3">
@@ -962,7 +1031,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0324-001-p1s3a6">
+<children>
+<LM id="T-wsj0324-001-p1s3a6">
 <a>
 <lex.rf>a#a-wsj0324-001-p1s3W9-Ta</lex.rf>
 </a>
@@ -1028,11 +1098,14 @@
 </gram>
 <deepord>10</deepord>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>velkými písmeny</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -1069,7 +1142,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj0324-001-p1s3a15">
+<children>
+<LM id="T-wsj0324-001-p1s3a15">
 <a>
 <lex.rf>a#a-wsj0324-001-p1s3W21-Ta</lex.rf>
 </a>
@@ -1118,7 +1192,9 @@
 <LM id="T-wsj0324-001-p1s3a19">
 <a>
 <lex.rf>a#a-wsj0324-001-p1s3W20-Ta</lex.rf>
-<aux.rf>a#a-wsj0324-001-p1s3W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0324-001-p1s3W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rozvíjející_se</t_lemma>
@@ -1128,7 +1204,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj0324-001-p1s3a20">
+<children>
+<LM id="T-wsj0324-001-p1s3a20">
 <a>
 <lex.rf>a#a-wsj0324-001-p1s3W18-Ta</lex.rf>
 </a>
@@ -1139,6 +1216,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>17</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -1159,9 +1237,13 @@
 <LM id="T-wsj0324-001-p1s3a25">
 <a>
 <lex.rf>a#a-wsj0324-001-p1s3W24-Ta</lex.rf>
-<aux.rf>a#a-wsj0324-001-p1s3W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0324-001-p1s3W23-Ta</LM>
+</aux.rf>
 </a>
-<coref_gram.rf>T-wsj0324-001-p1s3a15</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0324-001-p1s3a15</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>LOC</functor>
@@ -1217,7 +1299,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj0324-001-p1s3a29">
+<children>
+<LM id="T-wsj0324-001-p1s3a29">
 <a>
 <lex.rf>a#a-wsj0324-001-p1s3W28-Ta</lex.rf>
 </a>
@@ -1228,6 +1311,7 @@
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>24</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0324-001-p1s3a31">
@@ -1248,13 +1332,17 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0324-001-p1s2a23</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Among them, Home Shopping, QVC and CVN already control most of that young and fast-growing market, which last year had sales of about $1.4 billion.</eng_sentence>
 </LM>

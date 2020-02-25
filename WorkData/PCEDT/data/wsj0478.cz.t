@@ -4,14 +4,15 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0478.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj0478-001-p1s0">
 <atree.rf>a#a-wsj0478-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0478-001-p1s0a1">
+<children>
+<LM id="T-wsj0478-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s0W8-Ta</lex.rf>
 </a>
@@ -87,7 +88,9 @@
 <LM id="T-wsj0478-001-p1s0a8">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s0W7-Ta</lex.rf>
-<aux.rf>a#a-wsj0478-001-p1s0W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0478-001-p1s0W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Cincinnati</t_lemma>
@@ -102,7 +105,9 @@
 <LM id="T-wsj0478-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s0W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0478-001-p1s0W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0478-001-p1s0W10-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6275f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -123,15 +128,19 @@
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0478-001-p1s0a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0478-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s0W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0478-001-p1s0W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0478-001-p1s0W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>princip</t_lemma>
@@ -144,7 +153,9 @@
 <LM id="T-wsj0478-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s0W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0478-001-p1s0W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0478-001-p1s0W14-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5059f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -165,9 +176,11 @@
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0478-001-p1s0a30</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0478-001-p1s0a16">
@@ -244,7 +257,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj0478-001-p1s0a34">
+<children>
+<LM id="T-wsj0478-001-p1s0a34">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -285,6 +299,7 @@
 <deepord>24</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -292,7 +307,9 @@
 <LM id="T-wsj0478-001-p1s0a27">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s0W27-Ta</lex.rf>
-<aux.rf>a#a-wsj0478-001-p1s0W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0478-001-p1s0W25-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -330,20 +347,24 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Penn Central Corp., Cincinnati, said it agreed in principle to acquire Noranda Inc.'s Carol Cable Co. unit for $177 million.</eng_sentence>
 </LM>
 <LM id="T-wsj0478-001-p1s1">
 <atree.rf>a#a-wsj0478-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0478-001-p1s1a1">
+<children>
+<LM id="T-wsj0478-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -368,15 +389,19 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0478-001-p1s0a31</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0478-001-p1s1a5">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s1W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0478-001-p1s1W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0478-001-p1s1W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -421,7 +446,9 @@
 <LM id="T-wsj0478-001-p1s1a25">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s1W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0478-001-p1s1W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0478-001-p1s1W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>sídlo</t_lemma>
@@ -430,10 +457,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj0478-001-p1s1a27">
+<children>
+<LM id="T-wsj0478-001-p1s1a27">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s1W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0478-001-p1s1W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0478-001-p1s1W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Pawtucket</t_lemma>
@@ -442,10 +472,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0478-001-p1s1a29">
+<children>
+<LM id="T-wsj0478-001-p1s1a29">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s1W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0478-001-p1s1W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0478-001-p1s1W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>stát</t_lemma>
@@ -454,7 +487,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0478-001-p1s1a33">
+<children>
+<LM id="T-wsj0478-001-p1s1a33">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -486,19 +520,26 @@
 <deepord>12</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>Pawtuckeet opraven na Pawtucket</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0478-001-p1s0a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0478-001-p1s1a8">
@@ -546,7 +587,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj0478-001-p1s1a12">
+<children>
+<LM id="T-wsj0478-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s1W18-Ta</lex.rf>
 </a>
@@ -557,6 +599,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>15</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0478-001-p1s1a13">
@@ -571,7 +614,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj0478-001-p1s1a14">
+<children>
+<LM id="T-wsj0478-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s1W21-Ta</lex.rf>
 </a>
@@ -582,6 +626,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>18</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -589,7 +634,9 @@
 <LM id="T-wsj0478-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s1W24-Ta</lex.rf>
-<aux.rf>a#a-wsj0478-001-p1s1W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0478-001-p1s1W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>trh</t_lemma>
@@ -598,7 +645,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj0478-001-p1s1a17">
+<children>
+<LM id="T-wsj0478-001-p1s1a17">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s1W28-Ta</lex.rf>
 </a>
@@ -645,7 +693,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj0478-001-p1s1a22">
+<children>
+<LM id="T-wsj0478-001-p1s1a22">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s1W31-Ta</lex.rf>
 </a>
@@ -656,7 +705,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj0478-001-p1s1a23">
+<children>
+<LM id="T-wsj0478-001-p1s1a23">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s1W30-Ta</lex.rf>
 </a>
@@ -667,28 +717,35 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>26</deepord>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
-</children>
-</LM>
-</children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The company said Carol Cable, based in Pawtucket, R.I., is a leading supplier of electrical and electronic wire and cable for the distributor, retail and original equipment manufacturer markets.</eng_sentence>
 </LM>
 <LM id="T-wsj0478-001-p1s2">
 <atree.rf>a#a-wsj0478-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0478-001-p1s2a1">
+<children>
+<LM id="T-wsj0478-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s2W10-Ta</lex.rf>
 </a>
@@ -757,7 +814,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0478-001-p1s2a6">
+<children>
+<LM id="T-wsj0478-001-p1s2a6">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s2W8-Ta</lex.rf>
 </a>
@@ -794,13 +852,16 @@
 <deepord>8</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0478-001-p1s1a32</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0478-001-p1s2a27">
@@ -840,7 +901,9 @@
 <LM id="T-wsj0478-001-p1s2a14">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s2W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0478-001-p1s2W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0478-001-p1s2W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>obrat</t_lemma>
@@ -849,7 +912,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0478-001-p1s2a16">
+<children>
+<LM id="T-wsj0478-001-p1s2a16">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s2W19-Ta</lex.rf>
 </a>
@@ -886,6 +950,7 @@
 <deepord>14</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0478-001-p1s2a19">
@@ -929,7 +994,9 @@
 <LM id="T-wsj0478-001-p1s2a23">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s2W24-Ta</lex.rf>
-<aux.rf>a#a-wsj0478-001-p1s2W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0478-001-p1s2W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>měsíc</t_lemma>
@@ -975,7 +1042,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj0478-001-p1s2a26">
+<children>
+<LM id="T-wsj0478-001-p1s2a26">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s2W25-Ta</lex.rf>
 </a>
@@ -986,6 +1054,7 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>24</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -1058,7 +1127,9 @@
 <LM id="T-wsj0478-001-p1s2a31">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s2W34-Ta</lex.rf>
-<aux.rf>a#a-wsj0478-001-p1s2W33-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0478-001-p1s2W33-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>obrat</t_lemma>
@@ -1067,7 +1138,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>30</deepord>
-<children id="T-wsj0478-001-p1s2a33">
+<children>
+<LM id="T-wsj0478-001-p1s2a33">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s2W36-Ta</lex.rf>
 </a>
@@ -1104,12 +1176,15 @@
 <deepord>33</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0478-001-p1s2a36">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s2W40-Ta</lex.rf>
-<aux.rf>a#a-wsj0478-001-p1s2W38-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0478-001-p1s2W38-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -1150,13 +1225,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Carol Cable, which operates 12 manufacturing plants, had operating profit of $11.7 million on sales of $153.3 million for the first six months of this year and operating profit of $25.6 million on sales of $294.6 million for all of 1988.</eng_sentence>
 </LM>
 <LM id="T-wsj0478-001-p1s3">
 <atree.rf>a#a-wsj0478-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0478-001-p1s3a1">
+<children>
+<LM id="T-wsj0478-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s3W7-Ta</lex.rf>
 </a>
@@ -1204,7 +1281,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0478-001-p1s3a5">
+<children>
+<LM id="T-wsj0478-001-p1s3a5">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s3W4-Ta</lex.rf>
 </a>
@@ -1240,23 +1318,30 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0478-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0478-001-p1s3a10">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s3W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0478-001-p1s3W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0478-001-p1s3W9-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w661f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1325,7 +1410,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj0478-001-p1s3a23">
+<children>
+<LM id="T-wsj0478-001-p1s3a23">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1357,11 +1443,14 @@
 <deepord>16</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0478-001-p1s2a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -1404,15 +1493,19 @@
 </gram>
 <deepord>19</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0478-001-p1s3a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0478-001-p1s3a22">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s3W22-Ta</lex.rf>
-<aux.rf>a#a-wsj0478-001-p1s3W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0478-001-p1s3W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>kabel</t_lemma>
@@ -1422,7 +1515,9 @@
 </gram>
 <deepord>20</deepord>
 <annot_comment>
+<LM>
 <type>M-lemma</type>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -1430,16 +1525,20 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The maker of telecommunications and defense equipment said Carol Cable's portfolio and market focus would complement the company's current wire and cable businesses.</eng_sentence>
 </LM>
 <LM id="T-wsj0478-001-p1s4">
 <atree.rf>a#a-wsj0478-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0478-001-p1s4a1">
+<children>
+<LM id="T-wsj0478-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s4W4-Ta</lex.rf>
-<aux.rf>a#a-wsj0478-001-p1s4W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0478-001-p1s4W3-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3590f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1460,9 +1559,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0478-001-p1s4a30</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0478-001-p1s4a3">
@@ -1477,7 +1578,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0478-001-p1s4a4">
+<children>
+<LM id="T-wsj0478-001-p1s4a4">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s4W1-Ta</lex.rf>
 </a>
@@ -1488,6 +1590,7 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0478-001-p1s4a20">
@@ -1547,9 +1650,11 @@
 </gram>
 <deepord>6</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0478-001-p1s4a17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0478-001-p1s4a8">
@@ -1563,7 +1668,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0478-001-p1s4a9">
+<children>
+<LM id="T-wsj0478-001-p1s4a9">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s4W8-Ta</lex.rf>
 </a>
@@ -1574,12 +1680,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0478-001-p1s4a11">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s4W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0478-001-p1s4W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0478-001-p1s4W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -1588,7 +1697,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0478-001-p1s4a32">
+<children>
+<LM id="T-wsj0478-001-p1s4a32">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1620,11 +1730,14 @@
 <deepord>14</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0478-001-p1s3a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0478-001-p1s4a14">
@@ -1644,7 +1757,9 @@
 <a>
 <lex.rf>a#a-wsj0478-001-p1s4W15-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0478-001-p1s4a7</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0478-001-p1s4a7</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -1652,10 +1767,6 @@
 <sempos>n.pron.indef</sempos>
 </gram>
 <deepord>15</deepord>
-<annot_comment>
-<type>Typo</type>
-<text>které</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0478-001-p1s4a17">
 <a>
@@ -1668,7 +1779,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj0478-001-p1s4a33">
+<children>
+<LM id="T-wsj0478-001-p1s4a33">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1700,19 +1812,24 @@
 <deepord>21</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0478-001-p1s3a20</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -1729,7 +1846,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj0478-001-p1s4a23">
+<children>
+<LM id="T-wsj0478-001-p1s4a23">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s4W21-Ta</lex.rf>
 </a>
@@ -1740,6 +1858,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>22</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0478-001-p1s4a24">
@@ -1777,7 +1896,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>26</deepord>
-<children id="T-wsj0478-001-p1s4a28">
+<children>
+<LM id="T-wsj0478-001-p1s4a28">
 <a>
 <lex.rf>a#a-wsj0478-001-p1s4W27-Ta</lex.rf>
 </a>
@@ -1788,17 +1908,21 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>27</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The plan is subject to a satisfactory due diligence investigation of Carol Cable by Penn Central, a definitive agreement and regulatory approvals.</eng_sentence>
 </LM>

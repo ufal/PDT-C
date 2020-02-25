@@ -4,14 +4,15 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0660.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj0660-001-p1s0">
 <atree.rf>a#a-wsj0660-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0660-001-p1s0a1">
+<children>
+<LM id="T-wsj0660-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s0W12-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0660-001-p1s0a32">
+<children>
+<LM id="T-wsj0660-001-p1s0a32">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -109,12 +111,15 @@
 <deepord>9</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0660-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s0W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0660-001-p1s0W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0660-001-p1s0W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>platnost</t_lemma>
@@ -123,7 +128,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0660-001-p1s0a12">
+<children>
+<LM id="T-wsj0660-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s0W10-Ta</lex.rf>
 </a>
@@ -134,12 +140,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0660-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s0W14-Ta</lex.rf>
-<aux.rf>a#a-wsj0660-001-p1s0W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0660-001-p1s0W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>nákup</t_lemma>
@@ -184,7 +193,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj0660-001-p1s0a18">
+<children>
+<LM id="T-wsj0660-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s0W16-Ta</lex.rf>
 </a>
@@ -195,6 +205,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>15</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0660-001-p1s0a19">
@@ -208,7 +219,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj0660-001-p1s0a36">
+<children>
+<LM id="T-wsj0660-001-p1s0a36">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -264,6 +276,7 @@
 <deepord>24</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -271,7 +284,9 @@
 <LM id="T-wsj0660-001-p1s0a27">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s0W27-Ta</lex.rf>
-<aux.rf>a#a-wsj0660-001-p1s0W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0660-001-p1s0W25-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dolar</t_lemma>
@@ -296,7 +311,9 @@
 <LM id="T-wsj0660-001-p1s0a29">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s0W29-Ta</lex.rf>
-<aux.rf>a#a-wsj0660-001-p1s0W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0660-001-p1s0W28-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akcie</t_lemma>
@@ -311,13 +328,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Montedison S.p.A. definitively agreed to buy all of the publicly held shares of Erbamont N.V. for $37 each.</eng_sentence>
 </LM>
 <LM id="T-wsj0660-001-p1s1">
 <atree.rf>a#a-wsj0660-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0660-001-p1s1a13">
+<children>
+<LM id="T-wsj0660-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s1W4-Ta</lex.rf>
 </a>
@@ -341,7 +360,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0660-001-p1s1a2">
+<children>
+<LM id="T-wsj0660-001-p1s1a2">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -352,11 +372,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0660-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0660-001-p1s1a4">
@@ -391,7 +414,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj0660-001-p1s1a7">
+<children>
+<LM id="T-wsj0660-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s1W5-Ta</lex.rf>
 </a>
@@ -402,6 +426,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0660-001-p1s1a5">
@@ -427,7 +452,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0660-001-p1s1a10">
+<children>
+<LM id="T-wsj0660-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s1W10-Ta</lex.rf>
 </a>
@@ -438,17 +464,22 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0660-001-p1s0a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0660-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s1W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0660-001-p1s1W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0660-001-p1s1W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>oběh</t_lemma>
@@ -464,15 +495,19 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>M-lemma</type>
+</LM>
 </annot_comment>
+</LM>
 </children>
 <eng_sentence>Montedison now owns about 72% of Erbamont's shares outstanding.</eng_sentence>
 </LM>
 <LM id="T-wsj0660-001-p1s2">
 <atree.rf>a#a-wsj0660-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0660-001-p1s2a1">
+<children>
+<LM id="T-wsj0660-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -592,10 +627,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0660-001-p1s2a13">
+<children>
+<LM id="T-wsj0660-001-p1s2a13">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s2W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0660-001-p1s2W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0660-001-p1s2W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>člen</t_lemma>
@@ -616,7 +654,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0660-001-p1s2a15">
+<children>
+<LM id="T-wsj0660-001-p1s2a15">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s2W15-Ta</lex.rf>
 </a>
@@ -627,7 +666,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj0660-001-p1s2a16">
+<children>
+<LM id="T-wsj0660-001-p1s2a16">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s2W16-Ta</lex.rf>
 </a>
@@ -638,18 +678,24 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0660-001-p1s1a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0660-001-p1s2a20">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s2W20-Ta</lex.rf>
-<aux.rf>a#a-wsj0660-001-p1s2W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0660-001-p1s2W19-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6363f3</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -670,16 +716,20 @@
 </gram>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0660-001-p1s2a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0660-001-p1s2a19">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s2W18-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0660-001-p1s2a13</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0660-001-p1s2a13</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -698,7 +748,9 @@
 <LM id="T-wsj0660-001-p1s2a22">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s2W22-Ta</lex.rf>
-<aux.rf>a#a-wsj0660-001-p1s2W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0660-001-p1s2W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -707,7 +759,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj0660-001-p1s2a23">
+<children>
+<LM id="T-wsj0660-001-p1s2a23">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s2W23-Ta</lex.rf>
 </a>
@@ -718,34 +771,36 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0660-001-p1s1a1</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
-</children>
-<annot_comment>
-<type>Typo</type>
-<text>složenou</text>
-</annot_comment>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The companies said the accord was unanimously approved by a special committee of Erbamont directors unaffiliated with Montedison.</eng_sentence>
 </LM>
 <LM id="T-wsj0660-001-p1s3">
 <atree.rf>a#a-wsj0660-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0660-001-p1s3a1">
+<children>
+<LM id="T-wsj0660-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s3W4-Ta</lex.rf>
 </a>
@@ -768,7 +823,9 @@
 <LM id="T-wsj0660-001-p1s3a3">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s3W3-Ta</lex.rf>
-<aux.rf>a#a-wsj0660-001-p1s3W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0660-001-p1s3W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>smlouva</t_lemma>
@@ -777,7 +834,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0660-001-p1s3a4">
+<children>
+<LM id="T-wsj0660-001-p1s3a4">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s3W2-Ta</lex.rf>
 </a>
@@ -788,11 +846,14 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0660-001-p1s2a6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0660-001-p1s3a5">
@@ -806,7 +867,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0660-001-p1s3a6">
+<children>
+<LM id="T-wsj0660-001-p1s3a6">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s3W6-Ta</lex.rf>
 </a>
@@ -817,11 +879,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0660-001-p1s2a22</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0660-001-p1s3a8">
@@ -851,7 +916,9 @@
 <LM id="T-wsj0660-001-p1s3a11">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s3W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0660-001-p1s3W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0660-001-p1s3W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akcie</t_lemma>
@@ -884,7 +951,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0660-001-p1s3a14">
+<children>
+<LM id="T-wsj0660-001-p1s3a14">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s3W14-Ta</lex.rf>
 </a>
@@ -895,17 +963,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0660-001-p1s2a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0660-001-p1s3a16">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s3W16-Ta</lex.rf>
-<aux.rf>a#a-wsj0660-001-p1s3W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0660-001-p1s3W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>oběh</t_lemma>
@@ -920,20 +993,26 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>Translation</type>
 <text>vypustit: na</text>
+</LM>
 </annot_comment>
 <eng_sentence>Under the pact, Montedision will make a $37-a-share tender offer for Erbamont stock outstanding.</eng_sentence>
 </LM>
 <LM id="T-wsj0660-001-p1s4">
 <atree.rf>a#a-wsj0660-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0660-001-p1s4a1">
+<children>
+<LM id="T-wsj0660-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s4W5-Ta</lex.rf>
-<aux.rf>a#a-wsj0660-001-p1s4W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0660-001-p1s4W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2217f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -982,9 +1061,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0660-001-p1s3a1</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0660-001-p1s4a6">
@@ -1034,7 +1115,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0660-001-p1s4a10">
+<children>
+<LM id="T-wsj0660-001-p1s4a10">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s4W10-Ta</lex.rf>
 </a>
@@ -1045,11 +1127,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0660-001-p1s3a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0660-001-p1s4a11">
@@ -1069,7 +1154,9 @@
 <a>
 <lex.rf>a#a-wsj0660-001-p1s4W12-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0660-001-p1s4a7</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0660-001-p1s4a7</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -1078,8 +1165,10 @@
 </gram>
 <deepord>10</deepord>
 <annot_comment>
+<LM>
 <type>Typo</type>
 <text>která</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0660-001-p1s4a15">
@@ -1118,9 +1207,11 @@
 </gram>
 <deepord>13</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0660-001-p1s4a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0660-001-p1s4a18">
@@ -1152,7 +1243,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj0660-001-p1s4a20">
+<children>
+<LM id="T-wsj0660-001-p1s4a20">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s4W20-Ta</lex.rf>
 </a>
@@ -1163,23 +1255,28 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0660-001-p1s3a5</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The tender offer will be followed by the sale of all of Erbamont's assets, subject to all of its liabilities, to Montedison.</eng_sentence>
 </LM>
 <LM id="T-wsj0660-001-p1s5">
 <atree.rf>a#a-wsj0660-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0660-001-p1s5a1">
+<children>
+<LM id="T-wsj0660-001-p1s5a1">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s5W6-Ta</lex.rf>
 </a>
@@ -1191,7 +1288,9 @@
 <LM id="T-wsj0660-001-p1s5a2">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s5W5-Ta</lex.rf>
-<aux.rf>a#a-wsj0660-001-p1s5W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0660-001-p1s5W3-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9879f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1221,7 +1320,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0660-001-p1s5a4">
+<children>
+<LM id="T-wsj0660-001-p1s5a4">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s5W2-Ta</lex.rf>
 </a>
@@ -1232,11 +1332,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0660-001-p1s4a17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0660-001-p1s5a17">
@@ -1302,7 +1405,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0660-001-p1s5a11">
+<children>
+<LM id="T-wsj0660-001-p1s5a11">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s5W10-Ta</lex.rf>
 </a>
@@ -1313,11 +1417,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0660-001-p1s5a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -1349,7 +1456,9 @@
 <LM id="T-wsj0660-001-p1s5a15">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s5W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0660-001-p1s5W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0660-001-p1s5W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akcie</t_lemma>
@@ -1364,13 +1473,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Erbamont will then be liquidated, with any remaining Erbamont holders receiving a distribution of $37 a share.</eng_sentence>
 </LM>
 <LM id="T-wsj0660-001-p1s6">
 <atree.rf>a#a-wsj0660-001-p1s6</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0660-001-p1s6a1">
+<children>
+<LM id="T-wsj0660-001-p1s6a1">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s6W2-Ta</lex.rf>
 </a>
@@ -1402,9 +1513,11 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0660-001-p1s2a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0660-001-p1s6a4">
@@ -1436,9 +1549,11 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0660-001-p1s0a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0660-001-p1s6a31">
@@ -1451,9 +1566,11 @@
 </gram>
 <deepord>6</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0660-001-p1s6a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0660-001-p1s6a7">
@@ -1468,7 +1585,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0660-001-p1s6a8">
+<children>
+<LM id="T-wsj0660-001-p1s6a8">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s6W8-Ta</lex.rf>
 </a>
@@ -1479,12 +1597,15 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0660-001-p1s6a12">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s6W23-Ta</lex.rf>
-<aux.rf>a#a-wsj0660-001-p1s6W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0660-001-p1s6W11-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7168f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1525,7 +1646,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj0660-001-p1s6a15">
+<children>
+<LM id="T-wsj0660-001-p1s6a15">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s6W13-Ta</lex.rf>
 </a>
@@ -1537,15 +1659,20 @@
 </gram>
 <deepord>11</deepord>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>velké písmeno</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0660-001-p1s6a19">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s6W21-Ta</lex.rf>
-<aux.rf>a#a-wsj0660-001-p1s6W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0660-001-p1s6W18-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8927f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1566,9 +1693,13 @@
 <LM id="T-wsj0660-001-p1s6a18">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s6W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0660-001-p1s6W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0660-001-p1s6W16-Ta</LM>
+</aux.rf>
 </a>
-<coref_gram.rf>T-wsj0660-001-p1s6a13</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0660-001-p1s6a13</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>CRIT</functor>
@@ -1588,7 +1719,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj0660-001-p1s6a22">
+<children>
+<LM id="T-wsj0660-001-p1s6a22">
 <a>
 <lex.rf>a#a-wsj0660-001-p1s6W20-Ta</lex.rf>
 </a>
@@ -1599,11 +1731,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0660-001-p1s5a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -1627,6 +1762,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The companies said the transaction is being structured this way because the laws of the Netherlands Antilles, under which Erbamont is organized, don't provide for merger transactions.</eng_sentence>
 </LM>

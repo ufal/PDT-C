@@ -4,14 +4,15 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj1806.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj1806-001-p1s0">
 <atree.rf>a#a-wsj1806-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1806-001-p1s0a1">
+<children>
+<LM id="T-wsj1806-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1806-001-p1s0W26-Ta</lex.rf>
 </a>
@@ -101,7 +102,9 @@
 <LM id="T-wsj1806-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj1806-001-p1s0W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1806-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1806-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Valencie</t_lemma>
@@ -110,10 +113,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1806-001-p1s0a13">
+<children>
+<LM id="T-wsj1806-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj1806-001-p1s0W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1806-001-p1s0W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1806-001-p1s0W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Kalifornie</t_lemma>
@@ -122,6 +128,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -139,7 +146,8 @@
 <sempos>v</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1806-001-p1s0a14">
+<children>
+<LM id="T-wsj1806-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj1806-001-p1s0W13-Ta</lex.rf>
 </a>
@@ -170,7 +178,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1806-001-p1s0a16">
+<children>
+<LM id="T-wsj1806-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj1806-001-p1s0W17-Ta</lex.rf>
 </a>
@@ -217,10 +226,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1806-001-p1s0a21">
+<children>
+<LM id="T-wsj1806-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj1806-001-p1s0W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1806-001-p1s0W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1806-001-p1s0W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>nemovitost</t_lemma>
@@ -229,20 +241,26 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>20</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1806-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1806-001-p1s0a23">
 <a>
 <lex.rf>a#a-wsj1806-001-p1s0W22-Ta</lex.rf>
-<aux.rf>a#a-wsj1806-001-p1s0W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1806-001-p1s0W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>poměr</t_lemma>
@@ -251,7 +269,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj1806-001-p1s0a44">
+<children>
+<LM id="T-wsj1806-001-p1s0a44">
 <a>
 <lex.rf>a#a-wsj1806-001-p1s0W24-Ta</lex.rf>
 </a>
@@ -287,13 +306,17 @@
 <deepord>24</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1806-001-p1s0a27">
@@ -326,7 +349,9 @@
 <a>
 <lex.rf>a#a-wsj1806-001-p1s0W28-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1806-001-p1s0a2</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1806-001-p1s0a2</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -364,13 +389,16 @@
 <LM id="T-wsj1806-001-p1s0a34">
 <a>
 <lex.rf>a#a-wsj1806-001-p1s0W34-Ta</lex.rf>
-<aux.rf>a#a-wsj1806-001-p1s0W32-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1806-001-p1s0W32-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>31</deepord>
-<children id="T-wsj1806-001-p1s0a33">
+<children>
+<LM id="T-wsj1806-001-p1s0a33">
 <a>
 <lex.rf>a#a-wsj1806-001-p1s0W33-Ta</lex.rf>
 </a>
@@ -381,12 +409,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>30</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1806-001-p1s0a37">
 <a>
 <lex.rf>a#a-wsj1806-001-p1s0W37-Ta</lex.rf>
-<aux.rf>a#a-wsj1806-001-p1s0W35-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1806-001-p1s0W35-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>cent</t_lemma>
@@ -411,7 +442,9 @@
 <LM id="T-wsj1806-001-p1s0a39">
 <a>
 <lex.rf>a#a-wsj1806-001-p1s0W39-Ta</lex.rf>
-<aux.rf>a#a-wsj1806-001-p1s0W38-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1806-001-p1s0W38-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akcie</t_lemma>
@@ -426,13 +459,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>NEWHALL LAND &amp; FARMING Co., Valencia, Calif., announced a 2-for-1 split in the real estate limited partnership's units and increased its regular quarterly cash distribution 33%, to 40 cents a unit.</eng_sentence>
 </LM>
 <LM id="T-wsj1806-001-p1s1">
 <atree.rf>a#a-wsj1806-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1806-001-p1s1a1">
+<children>
+<LM id="T-wsj1806-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1806-001-p1s1W8-Ta</lex.rf>
 </a>
@@ -492,10 +527,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1806-001-p1s1a7">
+<children>
+<LM id="T-wsj1806-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj1806-001-p1s1W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1806-001-p1s1W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1806-001-p1s1W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>nemovitost</t_lemma>
@@ -504,13 +542,16 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1806-001-p1s0a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1806-001-p1s1a8">
@@ -525,7 +566,9 @@
 <LM id="T-wsj1806-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj1806-001-p1s1W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1806-001-p1s1W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1806-001-p1s1W10-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8192f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -546,15 +589,19 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1806-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1806-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj1806-001-p1s1W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1806-001-p1s1W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1806-001-p1s1W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>konec</t_lemma>
@@ -563,7 +610,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1806-001-p1s1a14">
+<children>
+<LM id="T-wsj1806-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj1806-001-p1s1W13-Ta</lex.rf>
 </a>
@@ -574,6 +622,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1806-001-p1s1a15">
@@ -587,7 +636,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1806-001-p1s1a16">
+<children>
+<LM id="T-wsj1806-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj1806-001-p1s1W15-Ta</lex.rf>
 </a>
@@ -598,12 +648,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1806-001-p1s1a18">
 <a>
 <lex.rf>a#a-wsj1806-001-p1s1W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1806-001-p1s1W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1806-001-p1s1W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výše</t_lemma>
@@ -612,7 +665,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj1806-001-p1s1a20">
+<children>
+<LM id="T-wsj1806-001-p1s1a20">
 <a>
 <lex.rf>a#a-wsj1806-001-p1s1W20-Ta</lex.rf>
 </a>
@@ -639,7 +693,9 @@
 <LM id="T-wsj1806-001-p1s1a22">
 <a>
 <lex.rf>a#a-wsj1806-001-p1s1W22-Ta</lex.rf>
-<aux.rf>a#a-wsj1806-001-p1s1W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1806-001-p1s1W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>jednotka</t_lemma>
@@ -650,18 +706,21 @@
 <deepord>17</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The real estate limited partnership also said it will pay a special year-end cash distribution of 10 cents a unit.</eng_sentence>
 </LM>
 <LM id="T-wsj1806-001-p1s2">
 <atree.rf>a#a-wsj1806-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1806-001-p1s2a1">
+<children>
+<LM id="T-wsj1806-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1806-001-p1s2W3-Ta</lex.rf>
 </a>
@@ -685,7 +744,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1806-001-p1s2a3">
+<children>
+<LM id="T-wsj1806-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj1806-001-p1s2W1-Ta</lex.rf>
 </a>
@@ -696,6 +756,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <bridging>
 <LM>
@@ -733,10 +794,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1806-001-p1s2a6">
+<children>
+<LM id="T-wsj1806-001-p1s2a6">
 <a>
 <lex.rf>a#a-wsj1806-001-p1s2W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1806-001-p1s2W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1806-001-p1s2W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>4</t_lemma>
@@ -745,6 +809,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1806-001-p1s2a8">
@@ -758,7 +823,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1806-001-p1s2a9">
+<children>
+<LM id="T-wsj1806-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj1806-001-p1s2W9-Ta</lex.rf>
 </a>
@@ -769,10 +835,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1806-001-p1s2a11">
+<children>
+<LM id="T-wsj1806-001-p1s2a11">
 <a>
 <lex.rf>a#a-wsj1806-001-p1s2W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1806-001-p1s2W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1806-001-p1s2W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>listopad</t_lemma>
@@ -781,10 +850,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1806-001-p1s2a12">
+<children>
+<LM id="T-wsj1806-001-p1s2a12">
 <a>
 <lex.rf>a#a-wsj1806-001-p1s2W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1806-001-p1s2W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1806-001-p1s2W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>3</t_lemma>
@@ -793,16 +865,17 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>10</deepord>
-</children>
-</children>
+</LM>
 </children>
 </LM>
 </children>
-<annot_comment>
-<type>Typo</type>
-</annot_comment>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Both distributions are payable Dec. 4 to limited partners of record Nov. 3.</eng_sentence>
 </LM>

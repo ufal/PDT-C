@@ -4,14 +4,15 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0076.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj0076-001-p1s0">
 <atree.rf>a#a-wsj0076-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0076-001-p1s0a1">
+<children>
+<LM id="T-wsj0076-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0076-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0076-001-p1s0a21">
+<children>
+<LM id="T-wsj0076-001-p1s0a21">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -85,12 +87,15 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0076-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj0076-001-p1s0W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0076-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0076-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9501f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -111,15 +116,19 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0076-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0076-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj0076-001-p1s0W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0076-001-p1s0W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0076-001-p1s0W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>transakce</t_lemma>
@@ -128,7 +137,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0076-001-p1s0a12">
+<children>
+<LM id="T-wsj0076-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj0076-001-p1s0W10-Ta</lex.rf>
 </a>
@@ -139,6 +149,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0076-001-p1s0a13">
@@ -152,7 +163,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj0076-001-p1s0a17">
+<children>
+<LM id="T-wsj0076-001-p1s0a17">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -190,21 +202,26 @@
 <deepord>16</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Lancaster Colony Corp. said it acquired Reames Foods Inc. in a cash transaction.</eng_sentence>
 </LM>
 <LM id="T-wsj0076-001-p1s1">
 <atree.rf>a#a-wsj0076-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0076-001-p1s1a1">
+<children>
+<LM id="T-wsj0076-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0076-001-p1s1W3-Ta</lex.rf>
-<aux.rf>a#a-wsj0076-001-p1s1W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0076-001-p1s1W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9966f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -243,16 +260,20 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>špatně utvořený infinitiv zveřejnět</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 <eng_sentence>Terms weren't disclosed.</eng_sentence>
 </LM>
 <LM id="T-wsj0076-001-p1s2">
 <atree.rf>a#a-wsj0076-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0076-001-p1s2a1">
+<children>
+<LM id="T-wsj0076-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0076-001-p1s2W25-Ta</lex.rf>
 </a>
@@ -299,7 +320,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0076-001-p1s2a5">
+<children>
+<LM id="T-wsj0076-001-p1s2a5">
 <a>
 <lex.rf>a#a-wsj0076-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -310,17 +332,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>chybí s</text>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>malé písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0076-001-p1s2a2">
 <a>
@@ -347,7 +360,9 @@
 </LM>
 <LM id="T-wsj0076-001-p1s2a29">
 <a>
-<aux.rf>a#a-wsj0076-001-p1s2W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0076-001-p1s2W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -367,7 +382,9 @@
 <LM id="T-wsj0076-001-p1s2a16">
 <a>
 <lex.rf>a#a-wsj0076-001-p1s2W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0076-001-p1s2W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0076-001-p1s2W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Iowa</t_lemma>
@@ -413,7 +430,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0076-001-p1s2a10">
+<children>
+<LM id="T-wsj0076-001-p1s2a10">
 <a>
 <lex.rf>a#a-wsj0076-001-p1s2W7-Ta</lex.rf>
 </a>
@@ -424,6 +442,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0076-001-p1s2a11">
@@ -438,7 +457,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0076-001-p1s2a12">
+<children>
+<LM id="T-wsj0076-001-p1s2a12">
 <a>
 <lex.rf>a#a-wsj0076-001-p1s2W10-Ta</lex.rf>
 </a>
@@ -449,6 +469,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -457,9 +478,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0076-001-p1s0a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0076-001-p1s2a19">
@@ -540,8 +563,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>A CPHR({tržba})</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0076-001-p1s2a26">
@@ -555,7 +580,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj0076-001-p1s2a27">
+<children>
+<LM id="T-wsj0076-001-p1s2a27">
 <a>
 <lex.rf>a#a-wsj0076-001-p1s2W27-Ta</lex.rf>
 </a>
@@ -566,14 +592,18 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0076-001-p1s0a20</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Reames, a maker and marketer of frozen noodles and pre-cooked pasta based in Clive, Iowa, has annual sales of about $11 million, Lancaster said.</eng_sentence>
 </LM>

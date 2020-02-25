@@ -4,14 +4,15 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0574.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj0574-001-p1s0">
 <atree.rf>a#a-wsj0574-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0574-001-p1s0a1">
+<children>
+<LM id="T-wsj0574-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0574-001-p1s0W5-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0574-001-p1s0a32">
+<children>
+<LM id="T-wsj0574-001-p1s0a32">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -73,12 +75,15 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0574-001-p1s0a8">
 <a>
 <lex.rf>a#a-wsj0574-001-p1s0W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0574-001-p1s0W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0574-001-p1s0W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6275f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -99,15 +104,19 @@
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0574-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0574-001-p1s0a10">
 <a>
 <lex.rf>a#a-wsj0574-001-p1s0W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0574-001-p1s0W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0574-001-p1s0W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>prodej</t_lemma>
@@ -149,10 +158,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj0574-001-p1s0a15">
+<children>
+<LM id="T-wsj0574-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj0574-001-p1s0W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0574-001-p1s0W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0574-001-p1s0W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>důl</t_lemma>
@@ -166,7 +178,9 @@
 <a>
 <lex.rf>a#a-wsj0574-001-p1s0W15-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0574-001-p1s0a30</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0574-001-p1s0a30</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -202,7 +216,9 @@
 <LM id="T-wsj0574-001-p1s0a27">
 <a>
 <lex.rf>a#a-wsj0574-001-p1s0W20-Ta</lex.rf>
-<aux.rf>a#a-wsj0574-001-p1s0W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0574-001-p1s0W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>stát</t_lemma>
@@ -211,7 +227,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj0574-001-p1s0a34">
+<children>
+<LM id="T-wsj0574-001-p1s0a34">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -255,9 +272,11 @@
 <deepord>21</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -335,16 +354,20 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>CRA Ltd. said it agreed to sell a 40% stake in its Howick coal mine in the state of New South Wales to Mitsubishi Development Pty. of Japan.</eng_sentence>
 </LM>
 <LM id="T-wsj0574-001-p1s1">
 <atree.rf>a#a-wsj0574-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0574-001-p1s1a1">
+<children>
+<LM id="T-wsj0574-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0574-001-p1s1W3-Ta</lex.rf>
-<aux.rf>a#a-wsj0574-001-p1s1W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0574-001-p1s1W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9966f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -383,15 +406,19 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>M-lemma</type>
+</LM>
 </annot_comment>
+</LM>
 </children>
 <eng_sentence>The price wasn't disclosed.</eng_sentence>
 </LM>
 <LM id="T-wsj0574-001-p1s2">
 <atree.rf>a#a-wsj0574-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0574-001-p1s2a1">
+<children>
+<LM id="T-wsj0574-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0574-001-p1s2W3-Ta</lex.rf>
 </a>
@@ -416,7 +443,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0574-001-p1s2a3">
+<children>
+<LM id="T-wsj0574-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj0574-001-p1s2W1-Ta</lex.rf>
 </a>
@@ -427,6 +455,7 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0574-001-p1s2a4">
@@ -452,9 +481,11 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0574-001-p1s2a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0574-001-p1s2a5">
@@ -471,18 +502,22 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The agreement is subject to government approval.</eng_sentence>
 </LM>
 <LM id="T-wsj0574-001-p1s3">
 <atree.rf>a#a-wsj0574-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0574-001-p1s3a1">
+<children>
+<LM id="T-wsj0574-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj0574-001-p1s3W2-Ta</lex.rf>
 </a>
@@ -500,25 +535,25 @@
 <lex.rf>a#a-wsj0574-001-p1s3W1-Ta</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>RA</t_lemma>
+<t_lemma>CRA</t_lemma>
 <functor>ACT</functor>
 <gram>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0574-001-p1s0a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <str_comment>
+<LM>
 <name>OTHER</name>
 <comment>zřejmě překlep - CRA</comment>
+</LM>
 </str_comment>
 <src>LH</src>
+</LM>
 </coref_text>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0574-001-p1s3a3">
 <a>
@@ -558,9 +593,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0574-001-p1s0a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0574-001-p1s3a6">
@@ -578,7 +615,9 @@
 <LM id="T-wsj0574-001-p1s3a7">
 <a>
 <lex.rf>a#a-wsj0574-001-p1s3W6-Ta</lex.rf>
-<aux.rf>a#a-wsj0574-001-p1s3W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0574-001-p1s3W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>20</t_lemma>
@@ -611,16 +650,20 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0574-001-p1s3a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0574-001-p1s3a11">
 <a>
 <lex.rf>a#a-wsj0574-001-p1s3W10-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0574-001-p1s3a6</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0574-001-p1s3a6</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>kdy</t_lemma>
 <functor>TWHEN</functor>
@@ -632,7 +675,9 @@
 <LM id="T-wsj0574-001-p1s3a14">
 <a>
 <lex.rf>a#a-wsj0574-001-p1s3W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0574-001-p1s3W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0574-001-p1s3W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -679,7 +724,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj0574-001-p1s3a17">
+<children>
+<LM id="T-wsj0574-001-p1s3a17">
 <a>
 <lex.rf>a#a-wsj0574-001-p1s3W17-Ta</lex.rf>
 </a>
@@ -690,7 +736,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj0574-001-p1s3a27">
+<children>
+<LM id="T-wsj0574-001-p1s3a27">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -734,13 +781,17 @@
 <deepord>20</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0574-001-p1s3a23">
 <a>
 <lex.rf>a#a-wsj0574-001-p1s3W25-Ta</lex.rf>
-<aux.rf>a#a-wsj0574-001-p1s3W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0574-001-p1s3W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>oblast</t_lemma>
@@ -781,13 +832,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>RA acquired the Howick coal mine Oct. 20 when it bought British Petroleum Co.'s Australian coal interests for $275 million.</eng_sentence>
 </LM>
 <LM id="T-wsj0574-001-p1s4">
 <atree.rf>a#a-wsj0574-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0574-001-p1s4a1">
+<children>
+<LM id="T-wsj0574-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj0574-001-p1s4W2-Ta</lex.rf>
 </a>
@@ -812,15 +865,19 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0574-001-p1s3a26</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0574-001-p1s4a5">
 <a>
 <lex.rf>a#a-wsj0574-001-p1s4W5-Ta</lex.rf>
-<aux.rf>a#a-wsj0574-001-p1s4W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0574-001-p1s4W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3407f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -841,15 +898,19 @@
 </gram>
 <deepord>3</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0574-001-p1s4a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0574-001-p1s4a7">
 <a>
 <lex.rf>a#a-wsj0574-001-p1s4W7-Ta</lex.rf>
-<aux.rf>a#a-wsj0574-001-p1s4W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0574-001-p1s4W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>partner</t_lemma>
@@ -862,7 +923,9 @@
 <LM id="T-wsj0574-001-p1s4a9">
 <a>
 <lex.rf>a#a-wsj0574-001-p1s4W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0574-001-p1s4W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0574-001-p1s4W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>důl</t_lemma>
@@ -901,7 +964,9 @@
 <a>
 <lex.rf>a#a-wsj0574-001-p1s4W12-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0574-001-p1s4a9</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0574-001-p1s4a9</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -933,7 +998,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj0574-001-p1s4a14">
+<children>
+<LM id="T-wsj0574-001-p1s4a14">
 <a>
 <lex.rf>a#a-wsj0574-001-p1s4W14-Ta</lex.rf>
 </a>
@@ -944,7 +1010,8 @@
 <sempos>adj.quant.grad</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0574-001-p1s4a24">
+<children>
+<LM id="T-wsj0574-001-p1s4a24">
 <a>
 <lex.rf>a#a-wsj0574-001-p1s4W15-Ta</lex.rf>
 </a>
@@ -952,7 +1019,9 @@
 <t_lemma>než</t_lemma>
 <functor>DPHR</functor>
 <deepord>11</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0574-001-p1s4a18">
@@ -1011,24 +1080,30 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0574-001-p1s3a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>CRA said then that it was looking for a partner for the mine, which produces more than three million metric tons of coal a year.</eng_sentence>
 </LM>
 <LM id="T-wsj0574-001-p1s5">
 <atree.rf>a#a-wsj0574-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0574-001-p1s5a3">
+<children>
+<LM id="T-wsj0574-001-p1s5a3">
 <a>
 <lex.rf>a#a-wsj0574-001-p1s5W6-Ta</lex.rf>
-<aux.rf>a#a-wsj0574-001-p1s5W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0574-001-p1s5W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7650f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1051,21 +1126,26 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0574-001-p1s4a23</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0574-001-p1s5a6">
 <a>
 <lex.rf>a#a-wsj0574-001-p1s5W5-Ta</lex.rf>
-<aux.rf>a#a-wsj0574-001-p1s5W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0574-001-p1s5W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>EXT</functor>
 <deepord>2</deepord>
-<children id="T-wsj0574-001-p1s5a5">
+<children>
+<LM id="T-wsj0574-001-p1s5a5">
 <a>
 <lex.rf>a#a-wsj0574-001-p1s5W4-Ta</lex.rf>
 </a>
@@ -1076,6 +1156,7 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0574-001-p1s5a7">
@@ -1089,7 +1170,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0574-001-p1s5a13">
+<children>
+<LM id="T-wsj0574-001-p1s5a13">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1142,9 +1224,11 @@
 <deepord>11</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>CRA is 49%-owned by RTZ Corp. of Britain.</eng_sentence>
 </LM>

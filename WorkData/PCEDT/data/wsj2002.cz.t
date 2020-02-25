@@ -4,14 +4,15 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj2002.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj2002-001-p1s0">
 <atree.rf>a#a-wsj2002-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2002-001-p1s0a1">
+<children>
+<LM id="T-wsj2002-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj2002-001-p1s0W1-Ta</lex.rf>
 </a>
@@ -22,7 +23,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj2002-001-p1s0a6">
+<children>
+<LM id="T-wsj2002-001-p1s0a6">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -78,17 +80,22 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 <eng_sentence>SHEARSON LEHMAN HUTTON Inc.</eng_sentence>
 </LM>
 <LM id="T-wsj2002-001-p1s1">
 <atree.rf>a#a-wsj2002-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2002-001-p1s1a1">
+<children>
+<LM id="T-wsj2002-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj2002-001-p1s1W10-Ta</lex.rf>
-<aux.rf>a#a-wsj2002-001-p1s1W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2002-001-p1s1W9-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1344f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -154,7 +161,8 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>6</deepord>
-<children id="T-wsj2002-001-p1s1a7">
+<children>
+<LM id="T-wsj2002-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj2002-001-p1s1W6-Ta</lex.rf>
 </a>
@@ -166,6 +174,7 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -204,7 +213,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj2002-001-p1s1a14">
+<children>
+<LM id="T-wsj2002-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj2002-001-p1s1W13-Ta</lex.rf>
 </a>
@@ -215,6 +225,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2002-001-p1s1a18">
@@ -362,9 +373,12 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj2002-001-p1s1a33">
+<children>
+<LM id="T-wsj2002-001-p1s1a33">
 <a>
-<aux.rf>a#a-wsj2002-001-p1s1W27-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2002-001-p1s1W27-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -379,7 +393,8 @@
 <functor>PAR</functor>
 <is_parenthesis>1</is_parenthesis>
 <deepord>26</deepord>
-<children id="T-wsj2002-001-p1s1a29">
+<children>
+<LM id="T-wsj2002-001-p1s1a29">
 <a>
 <lex.rf>a#a-wsj2002-001-p1s1W30-Ta</lex.rf>
 </a>
@@ -391,6 +406,7 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>28</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2002-001-p1s1a30">
@@ -406,13 +422,16 @@
 <deepord>27</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2002-001-p1s0a1</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -422,13 +441,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Thomas E. Meador, 42 years old, was named president and chief operating officer of Balcor Co., a Skokie, Ill., subsidiary of this New York investment banking firm.</eng_sentence>
 </LM>
 <LM id="T-wsj2002-001-p1s2">
 <atree.rf>a#a-wsj2002-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2002-001-p1s2a1">
+<children>
+<LM id="T-wsj2002-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj2002-001-p1s2W8-Ta</lex.rf>
 </a>
@@ -452,10 +473,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj2002-001-p1s2a3">
+<children>
+<LM id="T-wsj2002-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj2002-001-p1s2W5-Ta</lex.rf>
-<aux.rf>a#a-wsj2002-001-p1s2W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2002-001-p1s2W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8746f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -470,7 +494,9 @@
 <a>
 <lex.rf>a#a-wsj2002-001-p1s2W3-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj2002-001-p1s2a2</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj2002-001-p1s2a2</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -492,11 +518,14 @@
 <deepord>4</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2002-001-p1s1a18</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2002-001-p1s2a11">
@@ -534,7 +563,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj2002-001-p1s2a14">
+<children>
+<LM id="T-wsj2002-001-p1s2a14">
 <a>
 <lex.rf>a#a-wsj2002-001-p1s2W11-Ta</lex.rf>
 </a>
@@ -545,11 +575,14 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2002-001-p1s1a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2002-001-p1s2a15">
@@ -565,18 +598,17 @@
 <deepord>9</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>Typo</type>
-</annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Balcor, which has interests in real estate, said the position is newly created.</eng_sentence>
 </LM>
 <LM id="T-wsj2002-001-p1s3">
 <atree.rf>a#a-wsj2002-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2002-001-p1s3a1">
+<children>
+<LM id="T-wsj2002-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj2002-001-p1s3W2-Ta</lex.rf>
 </a>
@@ -601,9 +633,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2002-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2002-001-p1s3a3">
@@ -642,21 +676,25 @@
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2002-001-p1s2a5</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Mr. Meador had been executive vice president of Balcor.</eng_sentence>
 </LM>
 <LM id="T-wsj2002-001-p1s4">
 <atree.rf>a#a-wsj2002-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2002-001-p1s4a1">
+<children>
+<LM id="T-wsj2002-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj2002-001-p1s4W13-Ta</lex.rf>
 </a>
@@ -681,7 +719,9 @@
 <LM id="T-wsj2002-001-p1s4a3">
 <a>
 <lex.rf>a#a-wsj2002-001-p1s4W4-Ta</lex.rf>
-<aux.rf>a#a-wsj2002-001-p1s4W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2002-001-p1s4W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>investice</t_lemma>
@@ -696,7 +736,9 @@
 <a>
 <lex.rf>a#a-wsj2002-001-p1s4W2-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj2002-001-p1s4a18</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj2002-001-p1s4a18</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -720,7 +762,9 @@
 <LM id="T-wsj2002-001-p1s4a7">
 <a>
 <lex.rf>a#a-wsj2002-001-p1s4W6-Ta</lex.rf>
-<aux.rf>a#a-wsj2002-001-p1s4W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2002-001-p1s4W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>nemovitost</t_lemma>
@@ -735,7 +779,9 @@
 <LM id="T-wsj2002-001-p1s4a9">
 <a>
 <lex.rf>a#a-wsj2002-001-p1s4W8-Ta</lex.rf>
-<aux.rf>a#a-wsj2002-001-p1s4W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2002-001-p1s4W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>povinnost</t_lemma>
@@ -745,10 +791,13 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj2002-001-p1s4a10">
+<children>
+<LM id="T-wsj2002-001-p1s4a10">
 <a>
 <lex.rf>a#a-wsj2002-001-p1s4W9-Ta</lex.rf>
-<aux.rf>a#a-wsj2002-001-p1s4W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2002-001-p1s4W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>týkající_se</t_lemma>
@@ -757,7 +806,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj2002-001-p1s4a12">
+<children>
+<LM id="T-wsj2002-001-p1s4a12">
 <a>
 <lex.rf>a#a-wsj2002-001-p1s4W11-Ta</lex.rf>
 </a>
@@ -768,7 +818,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj2002-001-p1s4a13">
+<children>
+<LM id="T-wsj2002-001-p1s4a13">
 <a>
 <lex.rf>a#a-wsj2002-001-p1s4W12-Ta</lex.rf>
 </a>
@@ -779,8 +830,11 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -809,9 +863,11 @@
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2002-001-p1s3a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2002-001-p1s4a15">
@@ -834,7 +890,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj2002-001-p1s4a17">
+<children>
+<LM id="T-wsj2002-001-p1s4a17">
 <a>
 <lex.rf>a#a-wsj2002-001-p1s4W20-Ta</lex.rf>
 </a>
@@ -846,7 +903,9 @@
 <LM id="T-wsj2002-001-p1s4a20">
 <a>
 <lex.rf>a#a-wsj2002-001-p1s4W19-Ta</lex.rf>
-<aux.rf>a#a-wsj2002-001-p1s4W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2002-001-p1s4W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>vývoj</t_lemma>
@@ -860,7 +919,9 @@
 <LM id="T-wsj2002-001-p1s4a22">
 <a>
 <lex.rf>a#a-wsj2002-001-p1s4W22-Ta</lex.rf>
-<aux.rf>a#a-wsj2002-001-p1s4W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2002-001-p1s4W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>správa</t_lemma>
@@ -870,7 +931,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj2002-001-p1s4a23">
+<children>
+<LM id="T-wsj2002-001-p1s4a23">
 <a>
 <lex.rf>a#a-wsj2002-001-p1s4W23-Ta</lex.rf>
 </a>
@@ -881,19 +943,23 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>In addition to his previous real-estate investment and asset-management duties, Mr. Meador takes responsibility for development and property management.</eng_sentence>
 </LM>
 <LM id="T-wsj2002-001-p1s5">
 <atree.rf>a#a-wsj2002-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2002-001-p1s5a1">
+<children>
+<LM id="T-wsj2002-001-p1s5a1">
 <a>
 <lex.rf>a#a-wsj2002-001-p1s5W4-Ta</lex.rf>
 </a>
@@ -917,7 +983,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj2002-001-p1s5a3">
+<children>
+<LM id="T-wsj2002-001-p1s5a3">
 <a>
 <lex.rf>a#a-wsj2002-001-p1s5W1-Ta</lex.rf>
 </a>
@@ -928,11 +995,14 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2002-001-p1s4a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2002-001-p1s5a4">
@@ -971,8 +1041,10 @@
 </gram>
 <deepord>5</deepord>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>van</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj2002-001-p1s5a15">
@@ -1005,7 +1077,9 @@
 <a>
 <lex.rf>a#a-wsj2002-001-p1s5W10-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj2002-001-p1s5a6</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj2002-001-p1s5a6</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -1017,7 +1091,9 @@
 <LM id="T-wsj2002-001-p1s5a12">
 <a>
 <lex.rf>a#a-wsj2002-001-p1s5W13-Ta</lex.rf>
-<aux.rf>a#a-wsj2002-001-p1s5W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2002-001-p1s5W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>post</t_lemma>
@@ -1026,7 +1102,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj2002-001-p1s5a13">
+<children>
+<LM id="T-wsj2002-001-p1s5a13">
 <a>
 <lex.rf>a#a-wsj2002-001-p1s5W15-Ta</lex.rf>
 </a>
@@ -1037,7 +1114,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj2002-001-p1s5a14">
+<children>
+<LM id="T-wsj2002-001-p1s5a14">
 <a>
 <lex.rf>a#a-wsj2002-001-p1s5W14-Ta</lex.rf>
 </a>
@@ -1048,25 +1126,31 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>Pella</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Those duties had been held by Van Pell, 44, who resigned as an executive vice president.</eng_sentence>
 </LM>
 <LM id="T-wsj2002-001-p1s6">
 <atree.rf>a#a-wsj2002-001-p1s6</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2002-001-p1s6a1">
+<children>
+<LM id="T-wsj2002-001-p1s6a1">
 <a>
 <lex.rf>a#a-wsj2002-001-p1s6W2-Ta</lex.rf>
 </a>
@@ -1091,21 +1175,26 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2002-001-p1s1a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2002-001-p1s6a6">
 <a>
 <lex.rf>a#a-wsj2002-001-p1s6W6-Ta</lex.rf>
-<aux.rf>a#a-wsj2002-001-p1s6W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2002-001-p1s6W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>EXT</functor>
 <deepord>5</deepord>
-<children id="T-wsj2002-001-p1s6a4">
+<children>
+<LM id="T-wsj2002-001-p1s6a4">
 <a>
 <lex.rf>a#a-wsj2002-001-p1s6W5-Ta</lex.rf>
 </a>
@@ -1116,7 +1205,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj2002-001-p1s6a5">
+<children>
+<LM id="T-wsj2002-001-p1s6a5">
 <a>
 <lex.rf>a#a-wsj2002-001-p1s6W4-Ta</lex.rf>
 </a>
@@ -1127,13 +1217,17 @@
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2002-001-p1s6a8">
 <a>
 <lex.rf>a#a-wsj2002-001-p1s6W8-Ta</lex.rf>
-<aux.rf>a#a-wsj2002-001-p1s6W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2002-001-p1s6W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w837f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1154,9 +1248,11 @@
 </gram>
 <deepord>6</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2002-001-p1s6a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2002-001-p1s6a12">
@@ -1197,11 +1293,14 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Shearson is about 60%-held by American Express Co.</eng_sentence>
 </LM>

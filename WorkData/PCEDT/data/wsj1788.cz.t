@@ -4,17 +4,20 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj1788.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj1788-001-p1s0">
 <atree.rf>a#a-wsj1788-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1788-001-p1s0a1">
+<children>
+<LM id="T-wsj1788-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1788-001-p1s0W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1788-001-p1s0W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1788-001-p1s0W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5635f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -71,8 +74,10 @@
 </gram>
 <deepord>2</deepord>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>velké písmeno</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1788-001-p1s0a6">
@@ -124,9 +129,13 @@
 <LM id="T-wsj1788-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj1788-001-p1s0W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1788-001-p1s0W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1788-001-p1s0W12-Ta</LM>
+</aux.rf>
 </a>
-<compl.rf>T-wsj1788-001-p1s0a41</compl.rf>
+<compl.rf>
+<LM>T-wsj1788-001-p1s0a41</LM>
+</compl.rf>
 <nodetype>complex</nodetype>
 <t_lemma>banka</t_lemma>
 <functor>COMPL</functor>
@@ -134,7 +143,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1788-001-p1s0a15">
+<children>
+<LM id="T-wsj1788-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj1788-001-p1s0W13-Ta</lex.rf>
 </a>
@@ -145,6 +155,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1788-001-p1s0a41">
@@ -157,9 +168,11 @@
 </gram>
 <deepord>11</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1788-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1788-001-p1s0a40">
@@ -172,7 +185,9 @@
 <LM id="T-wsj1788-001-p1s0a17">
 <a>
 <lex.rf>a#a-wsj1788-001-p1s0W17-Ta</lex.rf>
-<aux.rf>a#a-wsj1788-001-p1s0W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1788-001-p1s0W16-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w953f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -261,7 +276,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj1788-001-p1s0a43">
+<children>
+<LM id="T-wsj1788-001-p1s0a43">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -296,6 +312,7 @@
 <deepord>24</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -365,7 +382,9 @@
 <LM id="T-wsj1788-001-p1s0a33">
 <a>
 <lex.rf>a#a-wsj1788-001-p1s0W33-Ta</lex.rf>
-<aux.rf>a#a-wsj1788-001-p1s0W32-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1788-001-p1s0W32-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>cena</t_lemma>
@@ -374,7 +393,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>30</deepord>
-<children id="T-wsj1788-001-p1s0a34">
+<children>
+<LM id="T-wsj1788-001-p1s0a34">
 <a>
 <lex.rf>a#a-wsj1788-001-p1s0W36-Ta</lex.rf>
 </a>
@@ -397,7 +417,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>32</deepord>
-<children id="T-wsj1788-001-p1s0a36">
+<children>
+<LM id="T-wsj1788-001-p1s0a36">
 <a>
 <lex.rf>a#a-wsj1788-001-p1s0W34-Ta</lex.rf>
 </a>
@@ -408,6 +429,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>31</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1788-001-p1s0a37">
@@ -423,29 +445,36 @@
 <deepord>34</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The U.S. Export-Import Bank tentatively decided to guarantee commercial bank financing for the purchase of two Boeing Co. 767 airliners by Avianca, Colombia's international airline, at a cost of about $150 million.</eng_sentence>
 </LM>
 <LM id="T-wsj1788-001-p1s1">
 <atree.rf>a#a-wsj1788-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1788-001-p1s1a1">
+<children>
+<LM id="T-wsj1788-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1788-001-p1s1W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1788-001-p1s1W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1788-001-p1s1W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8696f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -467,10 +496,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1788-001-p1s1a11">
+<children>
+<LM id="T-wsj1788-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj1788-001-p1s1W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1788-001-p1s1W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1788-001-p1s1W2-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>půjčka</t_lemma>
@@ -479,11 +511,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1788-001-p1s0a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1788-001-p1s1a9">
@@ -498,7 +533,9 @@
 <LM id="T-wsj1788-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj1788-001-p1s1W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1788-001-p1s1W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1788-001-p1s1W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -520,7 +557,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1788-001-p1s1a4">
+<children>
+<LM id="T-wsj1788-001-p1s1a4">
 <a>
 <lex.rf>a#a-wsj1788-001-p1s1W6-Ta</lex.rf>
 </a>
@@ -531,6 +569,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1788-001-p1s1a8">
@@ -550,7 +589,9 @@
 <LM id="T-wsj1788-001-p1s1a15">
 <a>
 <lex.rf>a#a-wsj1788-001-p1s1W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1788-001-p1s1W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1788-001-p1s1W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
@@ -581,7 +622,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1788-001-p1s1a17">
+<children>
+<LM id="T-wsj1788-001-p1s1a17">
 <a>
 <lex.rf>a#a-wsj1788-001-p1s1W17-Ta</lex.rf>
 </a>
@@ -592,20 +634,23 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The loan guarantee would amount to about $127.5 million, or 85% of the cost of the aircraft.</eng_sentence>
 </LM>
 <LM id="T-wsj1788-001-p1s2">
 <atree.rf>a#a-wsj1788-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1788-001-p1s2a1">
+<children>
+<LM id="T-wsj1788-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1788-001-p1s2W8-Ta</lex.rf>
 </a>
@@ -633,7 +678,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1788-001-p1s2a5">
+<children>
+<LM id="T-wsj1788-001-p1s2a5">
 <a>
 <lex.rf>a#a-wsj1788-001-p1s2W5-Ta</lex.rf>
 </a>
@@ -660,7 +706,9 @@
 <LM id="T-wsj1788-001-p1s2a8">
 <a>
 <lex.rf>a#a-wsj1788-001-p1s2W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1788-001-p1s2W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1788-001-p1s2W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>půjčka</t_lemma>
@@ -672,10 +720,13 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1788-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1788-001-p1s2a9">
@@ -713,7 +764,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1788-001-p1s2a12">
+<children>
+<LM id="T-wsj1788-001-p1s2a12">
 <a>
 <lex.rf>a#a-wsj1788-001-p1s2W12-Ta</lex.rf>
 </a>
@@ -735,8 +787,10 @@
 </gram>
 <deepord>8</deepord>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>velké písmeno</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1788-001-p1s2a14">
@@ -753,18 +807,23 @@
 <deepord>10</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1788-001-p1s0a41</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1788-001-p1s0a1</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1788-001-p1s2a15">
@@ -778,7 +837,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1788-001-p1s2a16">
+<children>
+<LM id="T-wsj1788-001-p1s2a16">
 <a>
 <lex.rf>a#a-wsj1788-001-p1s2W16-Ta</lex.rf>
 </a>
@@ -801,9 +861,11 @@
 </gram>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1788-001-p1s2a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1788-001-p1s2a17">
@@ -866,28 +928,29 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Because of the size of the proposed loan guarantee, the Ex-Im Bank's preliminary commitment is subject to review by the House and Senate Banking committees.</eng_sentence>
 </LM>
 <LM id="T-wsj1788-001-p1s3">
 <atree.rf>a#a-wsj1788-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1788-001-p1s3a1">
+<children>
+<LM id="T-wsj1788-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1788-001-p1s3W6-Ta</lex.rf>
 </a>
@@ -911,7 +974,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1788-001-p1s3a3">
+<children>
+<LM id="T-wsj1788-001-p1s3a3">
 <a>
 <lex.rf>a#a-wsj1788-001-p1s3W5-Ta</lex.rf>
 </a>
@@ -922,7 +986,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1788-001-p1s3a4">
+<children>
+<LM id="T-wsj1788-001-p1s3a4">
 <a>
 <lex.rf>a#a-wsj1788-001-p1s3W3-Ta</lex.rf>
 </a>
@@ -944,8 +1009,10 @@
 </gram>
 <deepord>2</deepord>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>velké písmeno</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1788-001-p1s3a6">
@@ -962,18 +1029,24 @@
 <deepord>4</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1788-001-p1s2a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1788-001-p1s3a9">
 <a>
 <lex.rf>a#a-wsj1788-001-p1s3W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1788-001-p1s3W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1788-001-p1s3W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4287f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1022,9 +1095,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1788-001-p1s2a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1788-001-p1s3a13">
@@ -1042,6 +1117,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Ex-Im Bank officials said this review process currently is under way.</eng_sentence>
 </LM>

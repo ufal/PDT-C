@@ -4,17 +4,20 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj1916.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj1916-001-p1s0">
 <atree.rf>a#a-wsj1916-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1916-001-p1s0a1">
+<children>
+<LM id="T-wsj1916-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s0W1-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s0W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s0W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w243f4</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -69,7 +72,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1916-001-p1s0a5">
+<children>
+<LM id="T-wsj1916-001-p1s0a5">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -80,7 +84,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1916-001-p1s0a6">
+<children>
+<LM id="T-wsj1916-001-p1s0a6">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s0W7-Ta</lex.rf>
 </a>
@@ -91,10 +96,13 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1916-001-p1s0a8">
+<children>
+<LM id="T-wsj1916-001-p1s0a8">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s0W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>880</t_lemma>
@@ -103,24 +111,31 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Could the collapse of I-880 have been prevented?</eng_sentence>
 </LM>
 <LM id="T-wsj1916-001-p1s1">
 <atree.rf>a#a-wsj1916-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1916-001-p1s1a1">
+<children>
+<LM id="T-wsj1916-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -145,9 +160,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s0a1</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s1a3">
@@ -161,7 +178,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1916-001-p1s1a4">
+<children>
+<LM id="T-wsj1916-001-p1s1a4">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s1W8-Ta</lex.rf>
 </a>
@@ -178,7 +196,9 @@
 <a>
 <lex.rf>a#a-wsj1916-001-p1s1W5-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1916-001-p1s1a3</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1916-001-p1s1a3</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>CPHR</functor>
@@ -191,7 +211,9 @@
 <a>
 <lex.rf>a#a-wsj1916-001-p1s1W6-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1916-001-p1s1a8</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1916-001-p1s1a8</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>ADDR</functor>
@@ -233,7 +255,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1916-001-p1s1a10">
+<children>
+<LM id="T-wsj1916-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s1W9-Ta</lex.rf>
 </a>
@@ -244,6 +267,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s1a11">
@@ -290,7 +314,9 @@
 <LM id="T-wsj1916-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s1W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s1W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s1W16-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8756f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -327,7 +353,9 @@
 <deepord>17</deepord>
 <children>
 <LM id="T-wsj1916-001-p1s1a45">
-<coref_gram.rf>T-wsj1916-001-p1s1a17</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1916-001-p1s1a17</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -337,7 +365,9 @@
 <LM id="T-wsj1916-001-p1s1a20">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s1W22-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s1W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s1W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>úkol</t_lemma>
@@ -362,7 +392,9 @@
 <LM id="T-wsj1916-001-p1s1a22">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s1W23-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s1W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s1W24-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3781f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -383,9 +415,11 @@
 </gram>
 <deepord>20</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s1a45</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s1a24">
@@ -402,7 +436,9 @@
 <deepord>23</deepord>
 <children>
 <LM id="T-wsj1916-001-p1s1a47">
-<coref_gram.rf>T-wsj1916-001-p1s1a46</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1916-001-p1s1a46</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -412,7 +448,9 @@
 <LM id="T-wsj1916-001-p1s1a26">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s1W28-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s1W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s1W26-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>troska</t_lemma>
@@ -494,7 +532,9 @@
 <LM id="T-wsj1916-001-p1s1a33">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s1W34-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s1W33-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s1W33-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Oakland</t_lemma>
@@ -507,7 +547,9 @@
 <LM id="T-wsj1916-001-p1s1a34">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s1W38-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s1W37-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s1W37-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9893f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -522,7 +564,9 @@
 <a>
 <lex.rf>a#a-wsj1916-001-p1s1W36-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1916-001-p1s1a28</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1916-001-p1s1a28</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -534,7 +578,9 @@
 <LM id="T-wsj1916-001-p1s1a39">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s1W41-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s1W39-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s1W39-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zemětřesení</t_lemma>
@@ -543,7 +589,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>35</deepord>
-<children id="T-wsj1916-001-p1s1a40">
+<children>
+<LM id="T-wsj1916-001-p1s1a40">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s1W40-Ta</lex.rf>
 </a>
@@ -554,19 +601,24 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>34</deepord>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s0a5</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -582,7 +634,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>38</deepord>
-<children id="T-wsj1916-001-p1s1a43">
+<children>
+<LM id="T-wsj1916-001-p1s1a43">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s1W44-Ta</lex.rf>
 </a>
@@ -593,7 +646,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>37</deepord>
-<children id="T-wsj1916-001-p1s1a42">
+<children>
+<LM id="T-wsj1916-001-p1s1a42">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s1W43-Ta</lex.rf>
 </a>
@@ -604,8 +658,6 @@
 <sempos>adj.quant.grad</sempos>
 </gram>
 <deepord>36</deepord>
-</children>
-</children>
 </LM>
 </children>
 </LM>
@@ -618,16 +670,23 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>That was the question structural engineers and California transportation officials were asking themselves yesterday as rescue workers began the gruesome task of trying to extract as many as 250 victims from beneath the concrete slabs of the double-deck Nimitz Freeway in Oakland that caved in during Tuesday's temblor.</eng_sentence>
 </LM>
 <LM id="T-wsj1916-001-p1s2">
 <atree.rf>a#a-wsj1916-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1916-001-p1s2a1">
+<children>
+<LM id="T-wsj1916-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s2W5-Ta</lex.rf>
 </a>
@@ -725,7 +784,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1916-001-p1s2a8">
+<children>
+<LM id="T-wsj1916-001-p1s2a8">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s2W9-Ta</lex.rf>
 </a>
@@ -736,6 +796,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s2a9">
@@ -755,7 +816,9 @@
 <LM id="T-wsj1916-001-p1s2a15">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s2W17-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s2W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s2W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4227f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -770,7 +833,9 @@
 <LM id="T-wsj1916-001-p1s2a13">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s2W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s2W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s2W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>prohlídka</t_lemma>
@@ -779,7 +844,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1916-001-p1s2a14">
+<children>
+<LM id="T-wsj1916-001-p1s2a14">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s2W14-Ta</lex.rf>
 </a>
@@ -790,6 +856,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s2a32">
@@ -811,9 +878,11 @@
 </gram>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s1a7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s2a17">
@@ -831,7 +900,9 @@
 <LM id="T-wsj1916-001-p1s2a19">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s2W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s2W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s2W18-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4564f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -861,7 +932,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1916-001-p1s2a21">
+<children>
+<LM id="T-wsj1916-001-p1s2a21">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s2W21-Ta</lex.rf>
 </a>
@@ -873,25 +945,34 @@
 </gram>
 <deepord>20</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s1a36</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s0a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -899,7 +980,9 @@
 <LM id="T-wsj1916-001-p1s2a24">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s2W25-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s2W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s2W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5099f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -923,13 +1006,17 @@
 </gram>
 <deepord>22</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s2a20</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1916-001-p1s2a26">
@@ -943,7 +1030,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj1916-001-p1s2a27">
+<children>
+<LM id="T-wsj1916-001-p1s2a27">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s2W26-Ta</lex.rf>
 </a>
@@ -954,23 +1042,28 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>24</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>After touring the area, California Gov. George Deukmejian late yesterday called for an inquiry into the freeway's collapse, blaming the disaster on substandard construction, the Associated Press reported.</eng_sentence>
 </LM>
 <LM id="T-wsj1916-001-p1s3">
 <atree.rf>a#a-wsj1916-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1916-001-p1s3a1">
+<children>
+<LM id="T-wsj1916-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s3W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s3W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s3W9-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1821f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -999,7 +1092,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1916-001-p1s3a3">
+<children>
+<LM id="T-wsj1916-001-p1s3a3">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s3W2-Ta</lex.rf>
 </a>
@@ -1011,7 +1105,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1916-001-p1s3a5">
+<children>
+<LM id="T-wsj1916-001-p1s3a5">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s3W7-Ta</lex.rf>
 </a>
@@ -1046,38 +1141,20 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1916-001-p1s3a7">
+<children>
+<LM id="T-wsj1916-001-p1s3a7">
 <a>
-<lex.rf>a#a-wsj1916-001-p1s3W4-Ta</lex.rf>
+<lex.rf>a#a-wsj1916-001-p1s3W5-Ta</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>2,5</t_lemma>
+<t_lemma>2.5</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Vygenerovány tři uzly: 2 a 5mílový a , . t-lemma vyrobeno ručně.</text>
 </LM>
-<LM>
-<type>Word segmentation</type>
-<text>1 v 3</text>
-</LM>
-</annot_comment>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>chybná segmentace</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1916-001-p1s3a9">
 <a>
@@ -1091,22 +1168,30 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s1a28</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s2a25</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s3a11">
@@ -1124,7 +1209,9 @@
 <LM id="T-wsj1916-001-p1s3a13">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s3W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s3W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s3W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>život</t_lemma>
@@ -1133,7 +1220,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1916-001-p1s3a14">
+<children>
+<LM id="T-wsj1916-001-p1s3a14">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s3W13-Ta</lex.rf>
 </a>
@@ -1144,16 +1232,19 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The impact of the destruction of this 2.5-mile stretch of highway was tragically measured in lost lives.</eng_sentence>
 </LM>
 <LM id="T-wsj1916-001-p1s4">
 <atree.rf>a#a-wsj1916-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1916-001-p1s4a2">
+<children>
+<LM id="T-wsj1916-001-p1s4a2">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s4W1-Ta</lex.rf>
 </a>
@@ -1237,7 +1328,9 @@
 <a>
 <lex.rf>a#a-wsj1916-001-p1s4W8-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1916-001-p1s4a3</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1916-001-p1s4a3</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -1280,7 +1373,9 @@
 <LM id="T-wsj1916-001-p1s4a13">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s4W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s4W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s4W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>schopnost</t_lemma>
@@ -1301,7 +1396,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj1916-001-p1s4a15">
+<children>
+<LM id="T-wsj1916-001-p1s4a15">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s4W14-Ta</lex.rf>
 </a>
@@ -1312,6 +1408,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s4a16">
@@ -1337,9 +1434,11 @@
 </gram>
 <deepord>15</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s4a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s4a17">
@@ -1353,7 +1452,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1916-001-p1s4a18">
+<children>
+<LM id="T-wsj1916-001-p1s4a18">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s4W17-Ta</lex.rf>
 </a>
@@ -1364,10 +1464,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>17</deepord>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -1378,21 +1481,25 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>A CPHR({otázka})
 Existují i jiné následky, které vyvolávají závažné otázky.</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>But there are other long-term effects that raise serious questions about the ability of California's infrastructure to withstand a major temblor.</eng_sentence>
 </LM>
 <LM id="T-wsj1916-001-p1s5">
 <atree.rf>a#a-wsj1916-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1916-001-p1s5a43">
+<children>
+<LM id="T-wsj1916-001-p1s5a43">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s5W43-Ta</lex.rf>
 </a>
@@ -1451,7 +1558,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1916-001-p1s5a5">
+<children>
+<LM id="T-wsj1916-001-p1s5a5">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s5W3-Ta</lex.rf>
 </a>
@@ -1462,6 +1570,7 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s5a6">
@@ -1475,7 +1584,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1916-001-p1s5a7">
+<children>
+<LM id="T-wsj1916-001-p1s5a7">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s5W6-Ta</lex.rf>
 </a>
@@ -1486,6 +1596,7 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s5a24">
@@ -1528,7 +1639,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1916-001-p1s5a13">
+<children>
+<LM id="T-wsj1916-001-p1s5a13">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s5W11-Ta</lex.rf>
 </a>
@@ -1539,6 +1651,7 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s5a14">
@@ -1565,7 +1678,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <a>
 <lex.rf>a#a-wsj1916-001-p1s5W15-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1916-001-p1s5a11</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1916-001-p1s5a11</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -1588,7 +1703,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <deepord>14</deepord>
 <children>
 <LM id="T-wsj1916-001-p1s5a67">
-<coref_gram.rf>T-wsj1916-001-p1s5a66</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1916-001-p1s5a66</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -1596,7 +1713,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <deepord>13</deepord>
 </LM>
 <LM id="T-wsj1916-001-p1s5a82">
-<coref_gram.rf>T-wsj1916-001-p1s5a18</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1916-001-p1s5a18</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Rcp</t_lemma>
@@ -1625,9 +1744,11 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>16</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s1a33</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s5a83">
@@ -1672,9 +1793,11 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s3a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s5a81">
@@ -1730,10 +1853,13 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj1916-001-p1s5a28">
+<children>
+<LM id="T-wsj1916-001-p1s5a28">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s5W28-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s5W27-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s5W27-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7799f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1787,24 +1913,31 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>30</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s5a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s5a38">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s5W37-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s5W36-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s5W36-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodně</t_lemma>
@@ -1813,10 +1946,13 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.quant.grad</sempos>
 </gram>
 <deepord>32</deepord>
-<children id="T-wsj1916-001-p1s5a41">
+<children>
+<LM id="T-wsj1916-001-p1s5a41">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s5W40-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s5W38-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s5W38-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -1851,6 +1987,7 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <deepord>35</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -1938,7 +2075,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>42</deepord>
-<children id="T-wsj1916-001-p1s5a52">
+<children>
+<LM id="T-wsj1916-001-p1s5a52">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s5W53-Ta</lex.rf>
 </a>
@@ -1986,8 +2124,10 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>45</deepord>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>velké písmeno</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1916-001-p1s5a56">
@@ -2004,7 +2144,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </LM>
 <LM id="T-wsj1916-001-p1s5a80">
 <a>
-<aux.rf>a#a-wsj1916-001-p1s5W57-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s5W57-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -2041,7 +2183,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <LM id="T-wsj1916-001-p1s5a60">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s5W63-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s5W62-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s5W62-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5882f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -2063,7 +2207,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <a>
 <lex.rf>a#a-wsj1916-001-p1s5W61-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1916-001-p1s5a54</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1916-001-p1s5a54</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -2084,8 +2230,10 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>54</deepord>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>vygenerováno t-lemma bez s</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -2093,18 +2241,21 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </children>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>It could easily be two years before the well-traveled artery that helps connect Oakland with San Francisco is reopened, and the cost to build a new stretch of highway could soar to more than $250 million, said Charles J. O'Connell, deputy district director in Los Angeles of the California Department of Transportation, nicknamed Caltrans.</eng_sentence>
 </LM>
 <LM id="T-wsj1916-001-p1s6">
 <atree.rf>a#a-wsj1916-001-p1s6</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1916-001-p1s6a1">
+<children>
+<LM id="T-wsj1916-001-p1s6a1">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s6W5-Ta</lex.rf>
 </a>
@@ -2141,14 +2292,18 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>2</deepord>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>chybělo s</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1916-001-p1s6a5">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s6W4-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s6W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s6W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Sacramento</t_lemma>
@@ -2160,9 +2315,11 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s5a62</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s6a8">
@@ -2216,7 +2373,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <LM id="T-wsj1916-001-p1s6a12">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s6W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s6W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s6W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>silnice</t_lemma>
@@ -2225,7 +2384,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1916-001-p1s6a13">
+<children>
+<LM id="T-wsj1916-001-p1s6a13">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s6W11-Ta</lex.rf>
 </a>
@@ -2236,11 +2396,14 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s5a31</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -2248,7 +2411,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <LM id="T-wsj1916-001-p1s6a16">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s6W17-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s6W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s6W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -2287,16 +2452,20 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Caltrans in Sacramento said total damage from the collapsed highway is estimated at around $500 million.</eng_sentence>
 </LM>
 <LM id="T-wsj1916-001-p1s7">
 <atree.rf>a#a-wsj1916-001-p1s7</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1916-001-p1s7a1">
+<children>
+<LM id="T-wsj1916-001-p1s7a1">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s7W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s7W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s7W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2859f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -2318,7 +2487,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1916-001-p1s7a3">
+<children>
+<LM id="T-wsj1916-001-p1s7a3">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s7W2-Ta</lex.rf>
 </a>
@@ -2329,10 +2499,13 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1916-001-p1s7a5">
+<children>
+<LM id="T-wsj1916-001-p1s7a5">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s7W4-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s7W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s7W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dálnice</t_lemma>
@@ -2342,16 +2515,22 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>3</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s6a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s3a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s7a33">
@@ -2372,7 +2551,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </LM>
 <LM id="T-wsj1916-001-p1s7a32">
 <a>
-<aux.rf>a#a-wsj1916-001-p1s7W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s7W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -2406,15 +2587,19 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s5a80</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s7a13">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s7W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s7W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s7W12-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4575f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -2436,7 +2621,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1916-001-p1s7a15">
+<children>
+<LM id="T-wsj1916-001-p1s7a15">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s7W13-Ta</lex.rf>
 </a>
@@ -2447,6 +2633,7 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s7a16">
@@ -2461,15 +2648,19 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s2a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s7a18">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s7W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s7W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s7W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>plán</t_lemma>
@@ -2478,7 +2669,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj1916-001-p1s7a19">
+<children>
+<LM id="T-wsj1916-001-p1s7a19">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s7W19-Ta</lex.rf>
 </a>
@@ -2501,7 +2693,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <LM id="T-wsj1916-001-p1s7a21">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s7W21-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s7W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s7W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -2510,7 +2704,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1916-001-p1s7a22">
+<children>
+<LM id="T-wsj1916-001-p1s7a22">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s7W22-Ta</lex.rf>
 </a>
@@ -2521,6 +2716,7 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>18</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s7a23">
@@ -2538,7 +2734,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <LM id="T-wsj1916-001-p1s7a25">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s7W25-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s7W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s7W24-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dálnice</t_lemma>
@@ -2547,9 +2745,12 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj1916-001-p1s7a34">
+<children>
+<LM id="T-wsj1916-001-p1s7a34">
 <a>
-<aux.rf>a#a-wsj1916-001-p1s7W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s7W26-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -2583,25 +2784,31 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s7a32</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
-</children>
-</LM>
-</children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The aftershocks of the highway tragedy are reverberating in Los Angeles as well, as local politicians spoke yesterday against plans to bring double-decking to Los Angeles freeways by 1994.</eng_sentence>
 </LM>
 <LM id="T-wsj1916-001-p1s8">
 <atree.rf>a#a-wsj1916-001-p1s8</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1916-001-p1s8a1">
+<children>
+<LM id="T-wsj1916-001-p1s8a1">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s8W2-Ta</lex.rf>
 </a>
@@ -2626,9 +2833,11 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s6a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s8a3">
@@ -2645,7 +2854,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <deepord>4</deepord>
 <children>
 <LM id="T-wsj1916-001-p1s8a35">
-<coref_gram.rf>T-wsj1916-001-p1s8a2</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1916-001-p1s8a2</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -2688,7 +2899,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <LM id="T-wsj1916-001-p1s8a8">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s8W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s8W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s8W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>autobus</t_lemma>
@@ -2702,7 +2915,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <LM id="T-wsj1916-001-p1s8a9">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s8W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s8W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s8W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>autopark</t_lemma>
@@ -2720,7 +2935,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <LM id="T-wsj1916-001-p1s8a11">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s8W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s8W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s8W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>část</t_lemma>
@@ -2765,38 +2982,20 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1916-001-p1s8a15">
+<children>
+<LM id="T-wsj1916-001-p1s8a15">
 <a>
-<lex.rf>a#a-wsj1916-001-p1s8W13-Ta</lex.rf>
+<lex.rf>a#a-wsj1916-001-p1s8W14-Ta</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>2,5</t_lemma>
+<t_lemma>2.5</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>12</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>chybná segmentace</text>
 </LM>
-<LM>
-<type>Word segmentation</type>
-<text>1 v 3</text>
-</LM>
-</annot_comment>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>chybná segmentace</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1916-001-p1s8a17">
 <a>
@@ -2809,7 +3008,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1916-001-p1s8a36">
+<children>
+<LM id="T-wsj1916-001-p1s8a36">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -2841,12 +3041,15 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <deepord>18</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s8a20">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s8W23-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s8W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s8W22-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2024f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -2861,7 +3064,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <a>
 <lex.rf>a#a-wsj1916-001-p1s8W21-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1916-001-p1s8a14</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1916-001-p1s8a14</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -2873,7 +3078,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <LM id="T-wsj1916-001-p1s8a26">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s8W26-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s8W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s8W25-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>jih</t_lemma>
@@ -2897,7 +3104,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </LM>
 <LM id="T-wsj1916-001-p1s8a38">
 <a>
-<aux.rf>a#a-wsj1916-001-p1s8W27-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s8W27-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -2931,9 +3140,11 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s7a34</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -2941,7 +3152,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <LM id="T-wsj1916-001-p1s8a32">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s8W32-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s8W31-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s8W31-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>stadión</t_lemma>
@@ -2950,7 +3163,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>26</deepord>
-<children id="T-wsj1916-001-p1s8a37">
+<children>
+<LM id="T-wsj1916-001-p1s8a37">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -2982,7 +3196,6 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <deepord>29</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
@@ -2993,13 +3206,17 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Caltrans plans to add a second deck for buses and car pools above the median of a 2.5-mile stretch of the Harbor Freeway just south of Los Angeles, near the Memorial Coliseum.</eng_sentence>
 </LM>
 <LM id="T-wsj1916-001-p1s9">
 <atree.rf>a#a-wsj1916-001-p1s9</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1916-001-p1s9a1">
+<children>
+<LM id="T-wsj1916-001-p1s9a1">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s9W9-Ta</lex.rf>
 </a>
@@ -3042,7 +3259,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1916-001-p1s9a4">
+<children>
+<LM id="T-wsj1916-001-p1s9a4">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s9W2-Ta</lex.rf>
 </a>
@@ -3053,7 +3271,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1916-001-p1s9a5">
+<children>
+<LM id="T-wsj1916-001-p1s9a5">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s9W3-Ta</lex.rf>
 </a>
@@ -3064,7 +3283,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1916-001-p1s9a26">
+<children>
+<LM id="T-wsj1916-001-p1s9a26">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -3096,8 +3316,11 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <deepord>7</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s9a8">
@@ -3126,9 +3349,11 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>10</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s7a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s9a16">
@@ -3151,7 +3376,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <LM id="T-wsj1916-001-p1s9a14">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s9W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s9W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s9W13-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9268f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -3181,14 +3408,18 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>14</deepord>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>vygenerováno: pater</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1916-001-p1s9a18">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s9W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s9W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s9W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>oblast</t_lemma>
@@ -3197,7 +3428,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1916-001-p1s9a19">
+<children>
+<LM id="T-wsj1916-001-p1s9a19">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s9W17-Ta</lex.rf>
 </a>
@@ -3208,17 +3440,22 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s9a5</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1916-001-p1s9a24">
@@ -3231,21 +3468,25 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>15</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s9a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Los Angeles County Supervisor Kenneth Hahn yesterday vowed to fight the introduction of double-decking in the area.</eng_sentence>
 </LM>
 <LM id="T-wsj1916-001-p1s10">
 <atree.rf>a#a-wsj1916-001-p1s10</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1916-001-p1s10a1">
+<children>
+<LM id="T-wsj1916-001-p1s10a1">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s10W30-Ta</lex.rf>
 </a>
@@ -3268,7 +3509,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <LM id="T-wsj1916-001-p1s10a4">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s10W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s10W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s10W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8641f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -3292,9 +3535,11 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s8a35</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s10a7">
@@ -3308,7 +3553,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1916-001-p1s10a8">
+<children>
+<LM id="T-wsj1916-001-p1s10a8">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s10W4-Ta</lex.rf>
 </a>
@@ -3319,12 +3565,15 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s10a10">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s10W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s10W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s10W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>počátek</t_lemma>
@@ -3333,7 +3582,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1916-001-p1s10a11">
+<children>
+<LM id="T-wsj1916-001-p1s10a11">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s10W10-Ta</lex.rf>
 </a>
@@ -3344,10 +3594,13 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1916-001-p1s10a12">
+<children>
+<LM id="T-wsj1916-001-p1s10a12">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s10W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s10W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s10W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>70</t_lemma>
@@ -3356,17 +3609,23 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>Secondary preposition</type>
 <text>na počátku</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1916-001-p1s10a14">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s10W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s10W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s10W12-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9728f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -3388,10 +3647,13 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1916-001-p1s10a17">
+<children>
+<LM id="T-wsj1916-001-p1s10a17">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s10W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s10W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s10W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>okres</t_lemma>
@@ -3400,7 +3662,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1916-001-p1s10a18">
+<children>
+<LM id="T-wsj1916-001-p1s10a18">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s10W16-Ta</lex.rf>
 </a>
@@ -3411,17 +3674,23 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1916-001-p1s10a20">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s10W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s10W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s10W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -3430,7 +3699,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1916-001-p1s10a21">
+<children>
+<LM id="T-wsj1916-001-p1s10a21">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s10W19-Ta</lex.rf>
 </a>
@@ -3441,6 +3711,7 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s10a22">
@@ -3454,7 +3725,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1916-001-p1s10a23">
+<children>
+<LM id="T-wsj1916-001-p1s10a23">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s10W22-Ta</lex.rf>
 </a>
@@ -3465,12 +3737,15 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s10a25">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s10W25-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s10W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s10W24-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>sever</t_lemma>
@@ -3479,9 +3754,12 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1916-001-p1s10a34">
+<children>
+<LM id="T-wsj1916-001-p1s10a34">
 <a>
-<aux.rf>a#a-wsj1916-001-p1s10W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s10W26-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -3515,10 +3793,13 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s8a38</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 </children>
@@ -3553,9 +3834,11 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>23</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s5a45</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 <annot_comment>
 <LM>
@@ -3569,13 +3852,15 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Caltrans abandoned double-decking in the early 1970s, following the 1971 Sylmar earthquake that destroyed freeway sections just north of Los Angeles, Mr. O'Connell explained.</eng_sentence>
 </LM>
 <LM id="T-wsj1916-001-p1s11">
 <atree.rf>a#a-wsj1916-001-p1s11</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1916-001-p1s11a1">
+<children>
+<LM id="T-wsj1916-001-p1s11a1">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s11W9-Ta</lex.rf>
 </a>
@@ -3609,7 +3894,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1916-001-p1s11a4">
+<children>
+<LM id="T-wsj1916-001-p1s11a4">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s11W1-Ta</lex.rf>
 </a>
@@ -3620,15 +3906,20 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s10a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1916-001-p1s11a5">
@@ -3642,7 +3933,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1916-001-p1s11a7">
+<children>
+<LM id="T-wsj1916-001-p1s11a7">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s11W6-Ta</lex.rf>
 </a>
@@ -3677,7 +3969,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1916-001-p1s11a9">
+<children>
+<LM id="T-wsj1916-001-p1s11a9">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s11W7-Ta</lex.rf>
 </a>
@@ -3688,9 +3981,11 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -3728,7 +4023,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1916-001-p1s11a11">
+<children>
+<LM id="T-wsj1916-001-p1s11a11">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s11W10-Ta</lex.rf>
 </a>
@@ -3740,37 +4036,50 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>10</deepord>
 <annot_comment>
+<LM>
 <type>M-tag</type>
 <text>adjektivum považováno za substantivum</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s1a39</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>Other</type>
 <text>chybí konec věty</text>
+</LM>
 </annot_comment>
 <eng_sentence>That temblor measured 6.1 on the Richter scale; Tuesday's was</eng_sentence>
 </LM>
 <LM id="T-wsj1916-001-p1s12">
 <atree.rf>a#a-wsj1916-001-p1s12</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1916-001-p1s12a1">
+<children>
+<LM id="T-wsj1916-001-p1s12a1">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s12W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s12W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s12W3-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7431f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -3836,7 +4145,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <LM id="T-wsj1916-001-p1s12a8">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s12W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s12W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s12W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6504f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -3865,10 +4176,13 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1916-001-p1s12a11">
+<children>
+<LM id="T-wsj1916-001-p1s12a11">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s12W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s12W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s12W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dálnice</t_lemma>
@@ -3877,22 +4191,27 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>So why even consider stacking freeways now?</eng_sentence>
 </LM>
 <LM id="T-wsj1916-001-p1s13">
 <atree.rf>a#a-wsj1916-001-p1s13</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1916-001-p1s13a1">
+<children>
+<LM id="T-wsj1916-001-p1s13a1">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s13W24-Ta</lex.rf>
 </a>
@@ -3931,7 +4250,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <children>
 <LM id="T-wsj1916-001-p1s13a42">
 <a>
-<aux.rf>a#a-wsj1916-001-p1s13W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s13W2-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -3983,9 +4304,11 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s10a34</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s13a11">
@@ -4023,10 +4346,13 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1916-001-p1s13a13">
+<children>
+<LM id="T-wsj1916-001-p1s13a13">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s13W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s13W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s13W9-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w226f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -4061,9 +4387,12 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 </children>
@@ -4123,7 +4452,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <a>
 <lex.rf>a#a-wsj1916-001-p1s13W17-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1916-001-p1s13a17</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1916-001-p1s13a17</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>kde</t_lemma>
 <functor>DIR3</functor>
@@ -4178,9 +4509,11 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>22</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s10a31</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 <annot_comment>
 <LM>
@@ -4196,7 +4529,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <LM id="T-wsj1916-001-p1s13a30">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s13W30-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s13W29-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s13W29-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7489f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -4217,15 +4552,19 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>23</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s13a25</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s13a33">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s13W33-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s13W32-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s13W32-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w902f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -4235,7 +4574,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>v</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj1916-001-p1s13a35">
+<children>
+<LM id="T-wsj1916-001-p1s13a35">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s13W35-Ta</lex.rf>
 </a>
@@ -4262,7 +4602,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <LM id="T-wsj1916-001-p1s13a37">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s13W37-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s13W36-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s13W36-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>náklad</t_lemma>
@@ -4273,18 +4615,21 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <deepord>28</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>``We've run out of places to build freeways in L.A., and the only place to go is up,'' Mr. O'Connell said, although he acknowledges there are many obstacles, including cost.</eng_sentence>
 </LM>
 <LM id="T-wsj1916-001-p1s14">
 <atree.rf>a#a-wsj1916-001-p1s14</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1916-001-p1s14a2">
+<children>
+<LM id="T-wsj1916-001-p1s14a2">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s14W4-Ta</lex.rf>
 </a>
@@ -4307,15 +4652,19 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s13a41</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s14a4">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s14W2-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s14W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s14W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>bezpečnost</t_lemma>
@@ -4400,9 +4749,11 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s12a5</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s14a12">
@@ -4417,7 +4768,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <LM id="T-wsj1916-001-p1s14a13">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s14W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s14W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s14W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>beton</t_lemma>
@@ -4427,7 +4780,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1916-001-p1s14a14">
+<children>
+<LM id="T-wsj1916-001-p1s14a14">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s14W13-Ta</lex.rf>
 </a>
@@ -4438,7 +4792,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1916-001-p1s14a15">
+<children>
+<LM id="T-wsj1916-001-p1s14a15">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s14W12-Ta</lex.rf>
 </a>
@@ -4449,13 +4804,17 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s14a16">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s14W17-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s14W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s14W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>sloup</t_lemma>
@@ -4481,7 +4840,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <LM id="T-wsj1916-001-p1s14a18">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s14W26-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s14W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s14W20-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8628f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -4503,7 +4864,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <a>
 <lex.rf>a#a-wsj1916-001-p1s14W19-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1916-001-p1s14a16</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1916-001-p1s14a16</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -4515,7 +4878,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <LM id="T-wsj1916-001-p1s14a23">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s14W22-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s14W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s14W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zemětřesení</t_lemma>
@@ -4524,10 +4889,13 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1916-001-p1s14a25">
+<children>
+<LM id="T-wsj1916-001-p1s14a25">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s14W24-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s14W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s14W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>okres</t_lemma>
@@ -4536,7 +4904,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1916-001-p1s14a26">
+<children>
+<LM id="T-wsj1916-001-p1s14a26">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s14W25-Ta</lex.rf>
 </a>
@@ -4547,21 +4916,29 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s10a17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s11a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -4601,7 +4978,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <LM id="T-wsj1916-001-p1s14a34">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s14W34-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s14W33-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s14W33-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>síla</t_lemma>
@@ -4610,7 +4989,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj1916-001-p1s14a35">
+<children>
+<LM id="T-wsj1916-001-p1s14a35">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s14W38-Ta</lex.rf>
 </a>
@@ -4670,7 +5050,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>30</deepord>
-<children id="T-wsj1916-001-p1s14a40">
+<children>
+<LM id="T-wsj1916-001-p1s14a40">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s14W39-Ta</lex.rf>
 </a>
@@ -4681,27 +5062,33 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>29</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>But as for safety, he says double-deck freeways built today with the heavily reinforced concrete and thicker columns required after the Sylmar quake should withstand a calamitous temblor of 7.5 to 8 on the Richter scale.</eng_sentence>
 </LM>
 <LM id="T-wsj1916-001-p1s15">
 <atree.rf>a#a-wsj1916-001-p1s15</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1916-001-p1s15a1">
+<children>
+<LM id="T-wsj1916-001-p1s15a1">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s15W6-Ta</lex.rf>
 </a>
@@ -4725,7 +5112,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1916-001-p1s15a4">
+<children>
+<LM id="T-wsj1916-001-p1s15a4">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s15W2-Ta</lex.rf>
 </a>
@@ -4736,7 +5124,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1916-001-p1s15a5">
+<children>
+<LM id="T-wsj1916-001-p1s15a5">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s15W3-Ta</lex.rf>
 </a>
@@ -4747,7 +5136,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1916-001-p1s15a9">
+<children>
+<LM id="T-wsj1916-001-p1s15a9">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -4779,18 +5169,25 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s7a5</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s7a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s15a7">
@@ -4805,9 +5202,11 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s9a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s15a8">
@@ -4823,13 +5222,15 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <deepord>9</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Reasons for the collapse of the Nimitz Freeway were sketchy yesterday.</eng_sentence>
 </LM>
 <LM id="T-wsj1916-001-p1s16">
 <atree.rf>a#a-wsj1916-001-p1s16</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1916-001-p1s16a1">
+<children>
+<LM id="T-wsj1916-001-p1s16a1">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s16W6-Ta</lex.rf>
 </a>
@@ -4853,7 +5254,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1916-001-p1s16a4">
+<children>
+<LM id="T-wsj1916-001-p1s16a4">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s16W3-Ta</lex.rf>
 </a>
@@ -4864,7 +5266,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1916-001-p1s16a5">
+<children>
+<LM id="T-wsj1916-001-p1s16a5">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s16W2-Ta</lex.rf>
 </a>
@@ -4875,7 +5278,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s16a2">
@@ -4899,9 +5304,11 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s15a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s16a14">
@@ -4949,7 +5356,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1916-001-p1s16a10">
+<children>
+<LM id="T-wsj1916-001-p1s16a10">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s16W12-Ta</lex.rf>
 </a>
@@ -4966,7 +5374,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <a>
 <lex.rf>a#a-wsj1916-001-p1s16W11-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1916-001-p1s16a9</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1916-001-p1s16a9</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -4988,6 +5398,7 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <deepord>12</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -5004,7 +5415,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj1916-001-p1s16a19">
+<children>
+<LM id="T-wsj1916-001-p1s16a19">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s16W25-Ta</lex.rf>
 </a>
@@ -5024,10 +5436,13 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1916-001-p1s16a23">
+<children>
+<LM id="T-wsj1916-001-p1s16a23">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s16W21-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s16W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s16W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dálnice</t_lemma>
@@ -5037,16 +5452,21 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>16</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s15a5</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s16a20">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s16W22-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s16W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s16W18-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -5102,7 +5522,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <LM id="T-wsj1916-001-p1s16a28">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s16W28-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s16W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s16W26-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zemětřesení</t_lemma>
@@ -5111,7 +5533,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj1916-001-p1s16a29">
+<children>
+<LM id="T-wsj1916-001-p1s16a29">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s16W27-Ta</lex.rf>
 </a>
@@ -5122,10 +5545,13 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>21</deepord>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1916-001-p1s16a31">
@@ -5168,18 +5594,21 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </children>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>But most structural engineers attributed the destruction to improper reinforcement of the columns that supported the decks, and the fact that the ground beneath the highway is largely landfill and can become unstable, or ``liquefy,'' in a major quake.</eng_sentence>
 </LM>
 <LM id="T-wsj1916-001-p1s17">
 <atree.rf>a#a-wsj1916-001-p1s17</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1916-001-p1s17a1">
+<children>
+<LM id="T-wsj1916-001-p1s17a1">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s17W16-Ta</lex.rf>
 </a>
@@ -5249,10 +5678,13 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1916-001-p1s17a9">
+<children>
+<LM id="T-wsj1916-001-p1s17a9">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s17W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s17W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s17W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>polovina</t_lemma>
@@ -5261,7 +5693,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1916-001-p1s17a10">
+<children>
+<LM id="T-wsj1916-001-p1s17a10">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s17W10-Ta</lex.rf>
 </a>
@@ -5272,10 +5705,13 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1916-001-p1s17a11">
+<children>
+<LM id="T-wsj1916-001-p1s17a11">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s17W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s17W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s17W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>40</t_lemma>
@@ -5284,8 +5720,11 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s17a15">
@@ -5300,7 +5739,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1916-001-p1s17a14">
+<children>
+<LM id="T-wsj1916-001-p1s17a14">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s17W13-Ta</lex.rf>
 </a>
@@ -5311,7 +5751,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1916-001-p1s17a16">
+<children>
+<LM id="T-wsj1916-001-p1s17a16">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s17W14-Ta</lex.rf>
 </a>
@@ -5322,16 +5763,20 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s16a23</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s17a17">
@@ -5345,7 +5790,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1916-001-p1s17a18">
+<children>
+<LM id="T-wsj1916-001-p1s17a18">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s17W18-Ta</lex.rf>
 </a>
@@ -5356,7 +5802,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj1916-001-p1s17a19">
+<children>
+<LM id="T-wsj1916-001-p1s17a19">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s17W22-Ta</lex.rf>
 </a>
@@ -5373,7 +5820,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <a>
 <lex.rf>a#a-wsj1916-001-p1s17W20-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1916-001-p1s17a18</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1916-001-p1s17a18</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -5433,7 +5882,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <LM id="T-wsj1916-001-p1s17a26">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s17W32-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s17W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s17W28-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4135f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -5455,7 +5906,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <a>
 <lex.rf>a#a-wsj1916-001-p1s17W27-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1916-001-p1s17a23</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1916-001-p1s17a23</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -5476,15 +5929,19 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>23</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s14a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s17a32">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s17W31-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s17W30-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s17W30-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>silnice</t_lemma>
@@ -5499,17 +5956,21 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </children>
 </LM>
 </children>
-</children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The two-story roadway, designed in the mid-1940s and completed in 1957, was supported by columns that apparently lacked the kind of steel reinforcement used in highways today.</eng_sentence>
 </LM>
 <LM id="T-wsj1916-001-p1s18">
 <atree.rf>a#a-wsj1916-001-p1s18</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1916-001-p1s18a1">
+<children>
+<LM id="T-wsj1916-001-p1s18a1">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s18W10-Ta</lex.rf>
 </a>
@@ -5550,7 +6011,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1916-001-p1s18a3">
+<children>
+<LM id="T-wsj1916-001-p1s18a3">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s18W1-Ta</lex.rf>
 </a>
@@ -5561,6 +6023,7 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s18a5">
@@ -5590,7 +6053,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </LM>
 <LM id="T-wsj1916-001-p1s18a41">
 <a>
-<aux.rf>a#a-wsj1916-001-p1s18W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s18W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -5624,9 +6089,11 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s13a42</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -5636,7 +6103,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <LM id="T-wsj1916-001-p1s18a13">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s18W26-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s18W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s18W12-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4019f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -5657,9 +6126,11 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>11</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s18a42</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s18a15">
@@ -5691,15 +6162,19 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s17a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s18a20">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s18W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s18W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s18W17-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9778f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -5727,15 +6202,19 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>16</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s18a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1916-001-p1s18a21">
@@ -5761,7 +6240,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1916-001-p1s18a23">
+<children>
+<LM id="T-wsj1916-001-p1s18a23">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s18W19-Ta</lex.rf>
 </a>
@@ -5772,6 +6252,7 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>17</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s18a24">
@@ -5879,7 +6360,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <a>
 <lex.rf>a#a-wsj1916-001-p1s18W34-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1916-001-p1s18a29</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1916-001-p1s18a29</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -5921,13 +6404,15 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>While the pillars did have long metal bars running vertically through them for reinforcement, they apparently lacked an adequate number of metal ``ties'' that run horizontally through the column, said Leo Parker, a structural engineer in Los Angeles.</eng_sentence>
 </LM>
 <LM id="T-wsj1916-001-p1s19">
 <atree.rf>a#a-wsj1916-001-p1s19</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1916-001-p1s19a2">
+<children>
+<LM id="T-wsj1916-001-p1s19a2">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s19W3-Ta</lex.rf>
 </a>
@@ -5964,13 +6449,17 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s10a5</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>vygenerováno bez s</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1916-001-p1s19a5">
@@ -5996,7 +6485,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1916-001-p1s19a7">
+<children>
+<LM id="T-wsj1916-001-p1s19a7">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s19W9-Ta</lex.rf>
 </a>
@@ -6013,7 +6503,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <a>
 <lex.rf>a#a-wsj1916-001-p1s19W7-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1916-001-p1s19a6</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1916-001-p1s19a6</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -6034,22 +6526,29 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s18a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>velké písmeno</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s19a12">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s19W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s19W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s19W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>tyč</t_lemma>
@@ -6100,13 +6599,15 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Caltrans today uses a variation of the design Mr. Parker describes, with spiraling steel rods inside.</eng_sentence>
 </LM>
 <LM id="T-wsj1916-001-p1s20">
 <atree.rf>a#a-wsj1916-001-p1s20</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1916-001-p1s20a1">
+<children>
+<LM id="T-wsj1916-001-p1s20a1">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s20W10-Ta</lex.rf>
 </a>
@@ -6134,7 +6635,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1916-001-p1s20a43">
+<children>
+<LM id="T-wsj1916-001-p1s20a43">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -6166,11 +6668,14 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <deepord>4</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s17a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s20a7">
@@ -6193,7 +6698,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1916-001-p1s20a9">
+<children>
+<LM id="T-wsj1916-001-p1s20a9">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s20W9-Ta</lex.rf>
 </a>
@@ -6204,7 +6710,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1916-001-p1s20a10">
+<children>
+<LM id="T-wsj1916-001-p1s20a10">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s20W8-Ta</lex.rf>
 </a>
@@ -6215,16 +6722,22 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s19a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>původně záporné t-lemma</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1916-001-p1s20a44">
@@ -6247,7 +6760,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1916-001-p1s20a15">
+<children>
+<LM id="T-wsj1916-001-p1s20a15">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s20W15-Ta</lex.rf>
 </a>
@@ -6259,10 +6773,13 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>11</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s18a39</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s20a13">
@@ -6310,10 +6827,13 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>v</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj1916-001-p1s20a20">
+<children>
+<LM id="T-wsj1916-001-p1s20a20">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s20W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s20W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s20W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>tíha</t_lemma>
@@ -6322,7 +6842,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1916-001-p1s20a21">
+<children>
+<LM id="T-wsj1916-001-p1s20a21">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s20W22-Ta</lex.rf>
 </a>
@@ -6333,7 +6854,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1916-001-p1s20a22">
+<children>
+<LM id="T-wsj1916-001-p1s20a22">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s20W21-Ta</lex.rf>
 </a>
@@ -6344,8 +6866,11 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -6353,7 +6878,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <LM id="T-wsj1916-001-p1s20a25">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s20W25-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s20W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s20W12-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5595f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -6364,7 +6891,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>v</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1916-001-p1s20a26">
+<children>
+<LM id="T-wsj1916-001-p1s20a26">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s20W26-Ta</lex.rf>
 </a>
@@ -6375,7 +6903,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj1916-001-p1s20a27">
+<children>
+<LM id="T-wsj1916-001-p1s20a27">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s20W29-Ta</lex.rf>
 </a>
@@ -6392,7 +6921,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <a>
 <lex.rf>a#a-wsj1916-001-p1s20W28-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1916-001-p1s20a26</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1916-001-p1s20a26</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -6412,10 +6943,13 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>26</deepord>
-<children id="T-wsj1916-001-p1s20a31">
+<children>
+<LM id="T-wsj1916-001-p1s20a31">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s20W33-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s20W30-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s20W30-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>stop</t_lemma>
@@ -6424,7 +6958,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj1916-001-p1s20a32">
+<children>
+<LM id="T-wsj1916-001-p1s20a32">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s20W32-Ta</lex.rf>
 </a>
@@ -6435,7 +6970,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj1916-001-p1s20a33">
+<children>
+<LM id="T-wsj1916-001-p1s20a33">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s20W31-Ta</lex.rf>
 </a>
@@ -6446,8 +6982,11 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>23</deepord>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s20a34">
@@ -6461,7 +7000,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>27</deepord>
-<children id="T-wsj1916-001-p1s20a45">
+<children>
+<LM id="T-wsj1916-001-p1s20a45">
 <a>
 <aux.rf>
 <LM>a#a-wsj1916-001-p1s20W36-Ta</LM>
@@ -6469,18 +7009,23 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <LM>a#a-wsj1916-001-p1s20W38-Ta</LM>
 </aux.rf>
 </a>
-<coref_gram.rf>T-wsj1916-001-p1s20a29</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1916-001-p1s20a29</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Rcp</t_lemma>
 <functor>DIR3</functor>
 <deepord>28</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s20a40">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s20W41-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s20W39-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s20W39-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>špička</t_lemma>
@@ -6489,7 +7034,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>30</deepord>
-<children id="T-wsj1916-001-p1s20a41">
+<children>
+<LM id="T-wsj1916-001-p1s20a41">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s20W40-Ta</lex.rf>
 </a>
@@ -6500,22 +7046,27 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>29</deepord>
-</children>
 </LM>
-</children>
-</children>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>But in the case of the Nimitz Freeway, the lack of such support caused the core of the columns to crumble and buckle under the weight of the second deck, crushing motorists who were lined up in bumper-to-bumper rush-hour traffic on the lower deck nearly 15 feet below.</eng_sentence>
 </LM>
 <LM id="T-wsj1916-001-p1s21">
 <atree.rf>a#a-wsj1916-001-p1s21</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1916-001-p1s21a1">
+<children>
+<LM id="T-wsj1916-001-p1s21a1">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s21W5-Ta</lex.rf>
 </a>
@@ -6546,7 +7097,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1916-001-p1s21a3">
+<children>
+<LM id="T-wsj1916-001-p1s21a3">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s21W4-Ta</lex.rf>
 </a>
@@ -6584,10 +7136,13 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s19a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s21a6">
@@ -6670,9 +7225,11 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s20a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s21a17">
@@ -6686,18 +7243,22 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Officials of the state agency didn't have any immediate explanation why the reinforcement didn't hold up.</eng_sentence>
 </LM>
 <LM id="T-wsj1916-001-p1s22">
 <atree.rf>a#a-wsj1916-001-p1s22</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1916-001-p1s22a37">
+<children>
+<LM id="T-wsj1916-001-p1s22a37">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s22W14-Ta</lex.rf>
 </a>
@@ -6718,9 +7279,11 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s21a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s22a1">
@@ -6748,7 +7311,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1916-001-p1s22a9">
+<children>
+<LM id="T-wsj1916-001-p1s22a9">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s22W2-Ta</lex.rf>
 </a>
@@ -6759,17 +7323,22 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s20a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s22a11">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s22W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s22W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s22W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -6778,7 +7347,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1916-001-p1s22a12">
+<children>
+<LM id="T-wsj1916-001-p1s22a12">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s22W7-Ta</lex.rf>
 </a>
@@ -6789,14 +7359,19 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s22a3">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s22W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s22W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s22W8-Ta</LM>
+</aux.rf>
 </a>
-<compl.rf>T-wsj1916-001-p1s22a8</compl.rf>
+<compl.rf>
+<LM>T-wsj1916-001-p1s22a8</LM>
+</compl.rf>
 <nodetype>complex</nodetype>
 <t_lemma>část</t_lemma>
 <functor>COMPL</functor>
@@ -6804,7 +7379,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1916-001-p1s22a5">
+<children>
+<LM id="T-wsj1916-001-p1s22a5">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s22W12-Ta</lex.rf>
 </a>
@@ -6824,7 +7400,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <t_lemma>milionový</t_lemma>
 <functor>RSTR</functor>
 <deepord>9</deepord>
-<children id="T-wsj1916-001-p1s22a6">
+<children>
+<LM id="T-wsj1916-001-p1s22a6">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s22W10-Ta</lex.rf>
 </a>
@@ -6835,10 +7412,13 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>Word segmentation</type>
 <text>2 v 1</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1916-001-p1s22a7">
@@ -6854,6 +7434,7 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <deepord>10</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -6884,7 +7465,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <LM id="T-wsj1916-001-p1s22a16">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s22W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s22W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s22W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>připevnění</t_lemma>
@@ -6905,9 +7488,11 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s22a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s22a17">
@@ -6921,7 +7506,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1916-001-p1s22a18">
+<children>
+<LM id="T-wsj1916-001-p1s22a18">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s22W18-Ta</lex.rf>
 </a>
@@ -6933,16 +7519,21 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>16</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s22a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s22a21">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s22W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s22W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s22W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>sloup</t_lemma>
@@ -6954,14 +7545,18 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1916-001-p1s22a22">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s22W22-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s22W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s22W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>prevence</t_lemma>
@@ -6971,7 +7566,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1916-001-p1s22a26">
+<children>
+<LM id="T-wsj1916-001-p1s22a26">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s22W30-Ta</lex.rf>
 <aux.rf>
@@ -6999,7 +7595,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <LM id="T-wsj1916-001-p1s22a29">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s22W28-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s22W27-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s22W27-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zemětřesení</t_lemma>
@@ -7009,8 +7607,10 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>21</deepord>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1916-001-p1s22a30">
@@ -7025,16 +7625,21 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>22</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s22a18</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>vygenerována t-lemma: nakloněný (ale označeno za sloveso)</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 </children>
@@ -7050,7 +7655,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>26</deepord>
-<children id="T-wsj1916-001-p1s22a34">
+<children>
+<LM id="T-wsj1916-001-p1s22a34">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s22W33-Ta</lex.rf>
 </a>
@@ -7061,18 +7667,21 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>25</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Caltrans reinforced the highway in 1977 as part of a $55 million statewide project, using steel cables to tie the decks of the freeway to the columns and prevent the structure from swaying in a quake.</eng_sentence>
 </LM>
 <LM id="T-wsj1916-001-p1s23">
 <atree.rf>a#a-wsj1916-001-p1s23</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1916-001-p1s23a1">
+<children>
+<LM id="T-wsj1916-001-p1s23a1">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s23W8-Ta</lex.rf>
 </a>
@@ -7108,7 +7717,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1916-001-p1s23a3">
+<children>
+<LM id="T-wsj1916-001-p1s23a3">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s23W2-Ta</lex.rf>
 </a>
@@ -7132,14 +7742,18 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>3</deepord>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>vygenerováno t-lemma bez s</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1916-001-p1s23a8">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s23W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s23W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s23W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Sacramento</t_lemma>
@@ -7149,17 +7763,22 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>6</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s6a5</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s22a39</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s23a6">
@@ -7176,8 +7795,10 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>vygenerováno: draga</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1916-001-p1s23a9">
@@ -7194,7 +7815,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <deepord>9</deepord>
 <children>
 <LM id="T-wsj1916-001-p1s23a16">
-<coref_gram.rf>T-wsj1916-001-p1s23a4</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1916-001-p1s23a4</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -7242,7 +7865,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <a>
 <lex.rf>a#a-wsj1916-001-p1s23W13-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1916-001-p1s23a10</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1916-001-p1s23a10</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -7263,9 +7888,11 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>13</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s21a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -7275,13 +7902,15 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Caltrans spokesman Jim Drago in Sacramento declined to identify the engineering firm that did the reinforcement work.</eng_sentence>
 </LM>
 <LM id="T-wsj1916-001-p1s24">
 <atree.rf>a#a-wsj1916-001-p1s24</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1916-001-p1s24a21">
+<children>
+<LM id="T-wsj1916-001-p1s24a21">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s24W25-Ta</lex.rf>
 </a>
@@ -7297,7 +7926,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <LM id="T-wsj1916-001-p1s24a1">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s24W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s24W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s24W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9283f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -7320,10 +7951,13 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1916-001-p1s24a4">
+<children>
+<LM id="T-wsj1916-001-p1s24a4">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s24W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s24W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s24W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9889f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -7333,7 +7967,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1916-001-p1s24a5">
+<children>
+<LM id="T-wsj1916-001-p1s24a5">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s24W5-Ta</lex.rf>
 </a>
@@ -7368,22 +8003,30 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s22a30</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s16a6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s24a13">
@@ -7470,7 +8113,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj1916-001-p1s24a19">
+<children>
+<LM id="T-wsj1916-001-p1s24a19">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s24W18-Ta</lex.rf>
 </a>
@@ -7481,12 +8125,15 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -7502,7 +8149,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj1916-001-p1s24a25">
+<children>
+<LM id="T-wsj1916-001-p1s24a25">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s24W21-Ta</lex.rf>
 </a>
@@ -7513,6 +8161,7 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>15</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -7540,7 +8189,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1916-001-p1s24a28">
+<children>
+<LM id="T-wsj1916-001-p1s24a28">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s24W26-Ta</lex.rf>
 </a>
@@ -7551,6 +8201,7 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s24a29">
@@ -7569,7 +8220,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <LM id="T-wsj1916-001-p1s24a31">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s24W31-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s24W30-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s24W30-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Tacoma</t_lemma>
@@ -7578,10 +8231,13 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj1916-001-p1s24a33">
+<children>
+<LM id="T-wsj1916-001-p1s24a33">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s24W33-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s24W32-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s24W32-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Washington</t_lemma>
@@ -7590,12 +8246,15 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s24a34">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s24W34-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s24W35-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s24W35-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zabývající_se</t_lemma>
@@ -7604,7 +8263,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj1916-001-p1s24a36">
+<children>
+<LM id="T-wsj1916-001-p1s24a36">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s24W36-Ta</lex.rf>
 </a>
@@ -7615,10 +8275,13 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj1916-001-p1s24a38">
+<children>
+<LM id="T-wsj1916-001-p1s24a38">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s24W38-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s24W37-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s24W37-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zdraví</t_lemma>
@@ -7627,13 +8290,17 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>26</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s24a39">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s24W42-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s24W41-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s24W41-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6322f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -7648,7 +8315,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <a>
 <lex.rf>a#a-wsj1916-001-p1s24W40-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1916-001-p1s24a22</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1916-001-p1s24a22</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -7660,7 +8329,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <LM id="T-wsj1916-001-p1s24a44">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s24W44-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s24W43-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s24W43-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>případ</t_lemma>
@@ -7669,7 +8340,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>29</deepord>
-<children id="T-wsj1916-001-p1s24a45">
+<children>
+<LM id="T-wsj1916-001-p1s24a45">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s24W46-Ta</lex.rf>
 </a>
@@ -7726,30 +8398,32 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
-</annot_comment>
 </LM>
-</children>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-<annot_comment>
-<type>Typo</type>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Liability in the bridge and road collapses will revolve around whether government took ``reasonable care'' to build and maintain the structures, says John Messina, a Tacoma, Wash., personal-injury attorney who specializes in highway design and maintenance cases.</eng_sentence>
 </LM>
 <LM id="T-wsj1916-001-p1s25">
 <atree.rf>a#a-wsj1916-001-p1s25</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1916-001-p1s25a3">
+<children>
+<LM id="T-wsj1916-001-p1s25a3">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s25W4-Ta</lex.rf>
 <aux.rf>
@@ -7798,7 +8472,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1916-001-p1s25a7">
+<children>
+<LM id="T-wsj1916-001-p1s25a7">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s25W9-Ta</lex.rf>
 </a>
@@ -7815,7 +8490,9 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <a>
 <lex.rf>a#a-wsj1916-001-p1s25W8-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1916-001-p1s25a6</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1916-001-p1s25a6</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -7835,10 +8512,13 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1916-001-p1s25a12">
+<children>
+<LM id="T-wsj1916-001-p1s25a12">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s25W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s25W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s25W11-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9433f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -7859,9 +8539,11 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s25a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s25a13">
@@ -7876,34 +8558,44 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>10</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s24a5</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s23a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The firm brought in to strengthen the structure could be liable as well.</eng_sentence>
 </LM>
 <LM id="T-wsj1916-001-p1s26">
 <atree.rf>a#a-wsj1916-001-p1s26</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1916-001-p1s26a13">
+<children>
+<LM id="T-wsj1916-001-p1s26a13">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s26W13-Ta</lex.rf>
 </a>
@@ -7941,7 +8633,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1916-001-p1s26a3">
+<children>
+<LM id="T-wsj1916-001-p1s26a3">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s26W2-Ta</lex.rf>
 </a>
@@ -7953,14 +8646,19 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s11a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s26a4">
@@ -7990,7 +8688,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1916-001-p1s26a8">
+<children>
+<LM id="T-wsj1916-001-p1s26a8">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s26W9-Ta</lex.rf>
 <aux.rf>
@@ -8032,7 +8731,8 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1916-001-p1s26a11">
+<children>
+<LM id="T-wsj1916-001-p1s26a11">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s26W10-Ta</lex.rf>
 </a>
@@ -8043,21 +8743,27 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>A CPHR({péče})
 Otázka, zda byla poskytnuta přiměřená péče.</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>A CPHR({otázka})
 Následky zemětřesení vyvolávají otázky.</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1916-001-p1s26a14">
@@ -8072,22 +8778,28 @@ Následky zemětřesení vyvolávají otázky.</text>
 </gram>
 <deepord>13</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s24a41</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The results of the quake certainly raise questions about whether reasonable care was taken, Mr. Messina says.</eng_sentence>
 </LM>
 <LM id="T-wsj1916-001-p1s27">
 <atree.rf>a#a-wsj1916-001-p1s27</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1916-001-p1s27a1">
+<children>
+<LM id="T-wsj1916-001-p1s27a1">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s27W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s27W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s27W13-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9378f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -8101,7 +8813,9 @@ Následky zemětřesení vyvolávají otázky.</text>
 <LM id="T-wsj1916-001-p1s27a3">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s27W1-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s27W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s27W3-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8657f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -8125,7 +8839,9 @@ Následky zemětřesení vyvolávají otázky.</text>
 <LM id="T-wsj1916-001-p1s27a5">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s27W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s27W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s27W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>dphr</nodetype>
 <t_lemma>v_úvahu</t_lemma>
@@ -8167,7 +8883,8 @@ Následky zemětřesení vyvolávají otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1916-001-p1s27a9">
+<children>
+<LM id="T-wsj1916-001-p1s27a9">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s27W9-Ta</lex.rf>
 </a>
@@ -8178,11 +8895,14 @@ Následky zemětřesení vyvolávají otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s2a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -8204,7 +8924,9 @@ Následky zemětřesení vyvolávají otázky.</text>
 <LM id="T-wsj1916-001-p1s27a17">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s27W21-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s27W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s27W16-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -8226,10 +8948,13 @@ Následky zemětřesení vyvolávají otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1916-001-p1s27a20">
+<children>
+<LM id="T-wsj1916-001-p1s27a20">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s27W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s27W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s27W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>síla</t_lemma>
@@ -8238,7 +8963,8 @@ Následky zemětřesení vyvolávají otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1916-001-p1s27a21">
+<children>
+<LM id="T-wsj1916-001-p1s27a21">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s27W20-Ta</lex.rf>
 </a>
@@ -8249,11 +8975,15 @@ Následky zemětřesení vyvolávají otázky.</text>
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1916-001-p1s27a22">
@@ -8267,7 +8997,8 @@ Následky zemětřesení vyvolávají otázky.</text>
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1916-001-p1s27a23">
+<children>
+<LM id="T-wsj1916-001-p1s27a23">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s27W22-Ta</lex.rf>
 </a>
@@ -8278,18 +9009,21 @@ Následky zemětřesení vyvolávají otázky.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Given the seismic history of the Bay Area, ``it seems to me that a 6.9 earthquake is a foreseeable event.''</eng_sentence>
 </LM>
 <LM id="T-wsj1916-001-p1s28">
 <atree.rf>a#a-wsj1916-001-p1s28</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1916-001-p1s28a1">
+<children>
+<LM id="T-wsj1916-001-p1s28a1">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s28W11-Ta</lex.rf>
 </a>
@@ -8313,10 +9047,13 @@ Následky zemětřesení vyvolávají otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1916-001-p1s28a4">
+<children>
+<LM id="T-wsj1916-001-p1s28a4">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s28W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s28W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s28W2-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>úřad</t_lemma>
@@ -8325,7 +9062,8 @@ Následky zemětřesení vyvolávají otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1916-001-p1s28a5">
+<children>
+<LM id="T-wsj1916-001-p1s28a5">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s28W4-Ta</lex.rf>
 </a>
@@ -8336,21 +9074,29 @@ Následky zemětřesení vyvolávají otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s23a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s23a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>vygenerováno: draga</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1916-001-p1s28a6">
@@ -8377,15 +9123,19 @@ Následky zemětřesení vyvolávají otázky.</text>
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s28a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s28a9">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s28W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s28W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s28W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dálnice</t_lemma>
@@ -8394,7 +9144,8 @@ Následky zemětřesení vyvolávají otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1916-001-p1s28a12">
+<children>
+<LM id="T-wsj1916-001-p1s28a12">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -8426,23 +9177,28 @@ Následky zemětřesení vyvolávají otázky.</text>
 <deepord>8</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s24a7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Caltrans' Mr. Drago defended the agency's work on the Nimitz Freeway.</eng_sentence>
 </LM>
 <LM id="T-wsj1916-001-p1s29">
 <atree.rf>a#a-wsj1916-001-p1s29</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1916-001-p1s29a7">
+<children>
+<LM id="T-wsj1916-001-p1s29a7">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s29W8-Ta</lex.rf>
 </a>
@@ -8458,7 +9214,9 @@ Následky zemětřesení vyvolávají otázky.</text>
 <LM id="T-wsj1916-001-p1s29a1">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s29W4-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s29W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s29W3-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4616f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -8489,9 +9247,11 @@ Následky zemětřesení vyvolávají otázky.</text>
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s28a6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s29a5">
@@ -8525,19 +9285,23 @@ Následky zemětřesení vyvolávají otázky.</text>
 </gram>
 <deepord>6</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s28a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>``The work was done properly,'' he said.</eng_sentence>
 </LM>
 <LM id="T-wsj1916-001-p1s30">
 <atree.rf>a#a-wsj1916-001-p1s30</atree.rf>
 <deepord>1</deepord>
-<children id="T-wsj1916-001-p1s30a1">
+<children>
+<LM id="T-wsj1916-001-p1s30a1">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s30W10-Ta</lex.rf>
 </a>
@@ -8549,7 +9313,9 @@ Následky zemětřesení vyvolávají otázky.</text>
 <LM id="T-wsj1916-001-p1s30a3">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s30W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s30W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s30W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1855f3</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -8574,7 +9340,9 @@ Následky zemětřesení vyvolávají otázky.</text>
 <LM id="T-wsj1916-001-p1s30a5">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s30W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s30W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s30W2-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>atom</nodetype>
 <t_lemma>podstata</t_lemma>
@@ -8640,26 +9408,34 @@ Následky zemětřesení vyvolávají otázky.</text>
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s30a7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s26a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -8667,7 +9443,9 @@ Následky zemětřesení vyvolávají otázky.</text>
 <LM id="T-wsj1916-001-p1s30a15">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s30W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s30W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s30W15-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7337f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -8691,9 +9469,11 @@ Následky zemětřesení vyvolávají otázky.</text>
 </gram>
 <deepord>10</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s30a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s30a12">
@@ -8707,7 +9487,8 @@ Následky zemětřesení vyvolávají otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1916-001-p1s30a13">
+<children>
+<LM id="T-wsj1916-001-p1s30a13">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s30W12-Ta</lex.rf>
 </a>
@@ -8718,11 +9499,14 @@ Následky zemětřesení vyvolávají otázky.</text>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s28a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s30a14">
@@ -8744,13 +9528,15 @@ Následky zemětřesení vyvolávají otázky.</text>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>``Basically, we had a severe earthquake of significant duration and it was just something the structure couldn't withstand.''</eng_sentence>
 </LM>
 <LM id="T-wsj1916-001-p1s31">
 <atree.rf>a#a-wsj1916-001-p1s31</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1916-001-p1s31a31">
+<children>
+<LM id="T-wsj1916-001-p1s31a31">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s31W15-Ta</lex.rf>
 </a>
@@ -8771,9 +9557,11 @@ Následky zemětřesení vyvolávají otázky.</text>
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s28a7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s31a1">
@@ -8828,7 +9616,9 @@ Následky zemětřesení vyvolávají otázky.</text>
 <deepord>6</deepord>
 <children>
 <LM id="T-wsj1916-001-p1s31a29">
-<coref_gram.rf>T-wsj1916-001-p1s31a2</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1916-001-p1s31a2</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -8838,7 +9628,9 @@ Následky zemětřesení vyvolávají otázky.</text>
 <LM id="T-wsj1916-001-p1s31a7">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s31W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s31W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s31W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>etapa</t_lemma>
@@ -8903,10 +9695,13 @@ Následky zemětřesení vyvolávají otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1916-001-p1s31a13">
+<children>
+<LM id="T-wsj1916-001-p1s31a13">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s31W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s31W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s31W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>stát</t_lemma>
@@ -8916,16 +9711,21 @@ Následky zemětřesení vyvolávají otázky.</text>
 </gram>
 <deepord>13</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s2a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -8971,7 +9771,8 @@ Následky zemětřesení vyvolávají otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1916-001-p1s31a19">
+<children>
+<LM id="T-wsj1916-001-p1s31a19">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s31W19-Ta</lex.rf>
 </a>
@@ -8982,12 +9783,15 @@ Následky zemětřesení vyvolávají otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s31a21">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s31W23-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s31W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s31W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>plášť</t_lemma>
@@ -8996,7 +9800,8 @@ Následky zemětřesení vyvolávají otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj1916-001-p1s31a23">
+<children>
+<LM id="T-wsj1916-001-p1s31a23">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s31W22-Ta</lex.rf>
 </a>
@@ -9007,12 +9812,15 @@ Následky zemětřesení vyvolávají otázky.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>19</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s31a27">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s31W28-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s31W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s31W26-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8610f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -9033,9 +9841,11 @@ Následky zemětřesení vyvolávají otázky.</text>
 </gram>
 <deepord>21</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s31a29</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s31a28">
@@ -9050,9 +9860,11 @@ Následky zemětřesení vyvolávají otázky.</text>
 </gram>
 <deepord>22</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s31a18</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -9060,13 +9872,15 @@ Následky zemětřesení vyvolávají otázky.</text>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Ironically, Caltrans this year began working on a second round of seismic reinforcements of freeways around the state, this time wrapping freeway columns in ``steel blankets'' to reinforce them.</eng_sentence>
 </LM>
 <LM id="T-wsj1916-001-p1s32">
 <atree.rf>a#a-wsj1916-001-p1s32</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1916-001-p1s32a20">
+<children>
+<LM id="T-wsj1916-001-p1s32a20">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s32W23-Ta</lex.rf>
 </a>
@@ -9114,7 +9928,8 @@ Následky zemětřesení vyvolávají otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1916-001-p1s32a4">
+<children>
+<LM id="T-wsj1916-001-p1s32a4">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s32W1-Ta</lex.rf>
 </a>
@@ -9125,6 +9940,7 @@ Následky zemětřesení vyvolávají otázky.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s32a1">
@@ -9156,7 +9972,8 @@ Následky zemětřesení vyvolávají otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1916-001-p1s32a7">
+<children>
+<LM id="T-wsj1916-001-p1s32a7">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s32W7-Ta</lex.rf>
 </a>
@@ -9167,7 +9984,8 @@ Následky zemětřesení vyvolávají otázky.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1916-001-p1s32a8">
+<children>
+<LM id="T-wsj1916-001-p1s32a8">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s32W9-Ta</lex.rf>
 </a>
@@ -9204,19 +10022,25 @@ Následky zemětřesení vyvolávají otázky.</text>
 <deepord>10</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>A CPHR({priorita}) Prioritu měly mosty podepřené jednou řadou sloupů.</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1916-001-p1s32a17">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s32W21-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s32W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s32W20-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8150f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -9284,7 +10108,8 @@ Následky zemětřesení vyvolávají otázky.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj1916-001-p1s32a22">
+<children>
+<LM id="T-wsj1916-001-p1s32a22">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s32W18-Ta</lex.rf>
 </a>
@@ -9295,7 +10120,8 @@ Následky zemětřesení vyvolávají otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1916-001-p1s32a23">
+<children>
+<LM id="T-wsj1916-001-p1s32a23">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s32W17-Ta</lex.rf>
 </a>
@@ -9306,14 +10132,18 @@ Následky zemětřesení vyvolávají otázky.</text>
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>17</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s30a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s32a25">
@@ -9346,23 +10176,29 @@ Následky zemětřesení vyvolávají otázky.</text>
 </gram>
 <deepord>23</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s29a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>vygenerováno: draga</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>But only bridges supported with single rows of columns were top priority, and the Nimitz Freeway, supported by double rows, was left out, Mr. Drago explained.</eng_sentence>
 </LM>
 <LM id="T-wsj1916-001-p1s33">
 <atree.rf>a#a-wsj1916-001-p1s33</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1916-001-p1s33a1">
+<children>
+<LM id="T-wsj1916-001-p1s33a1">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s33W20-Ta</lex.rf>
 </a>
@@ -9385,9 +10221,11 @@ Následky zemětřesení vyvolávají otázky.</text>
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s32a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s33a2">
@@ -9419,7 +10257,9 @@ Následky zemětřesení vyvolávají otázky.</text>
 <LM id="T-wsj1916-001-p1s33a7">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s33W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s33W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s33W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -9453,10 +10293,13 @@ Následky zemětřesení vyvolávají otázky.</text>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1916-001-p1s33a14">
+<children>
+<LM id="T-wsj1916-001-p1s33a14">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s33W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s33W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s33W10-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -9484,9 +10327,11 @@ Následky zemětřesení vyvolávají otázky.</text>
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s31a30</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1916-001-p1s33a15">
@@ -9500,7 +10345,8 @@ Následky zemětřesení vyvolávají otázky.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj1916-001-p1s33a16">
+<children>
+<LM id="T-wsj1916-001-p1s33a16">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s33W17-Ta</lex.rf>
 </a>
@@ -9514,7 +10360,9 @@ Následky zemětřesení vyvolávají otázky.</text>
 <deepord>15</deepord>
 <children>
 <LM id="T-wsj1916-001-p1s33a26">
-<coref_gram.rf>T-wsj1916-001-p1s33a24</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1916-001-p1s33a24</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -9532,10 +10380,13 @@ Následky zemětřesení vyvolávají otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1916-001-p1s33a19">
+<children>
+<LM id="T-wsj1916-001-p1s33a19">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s33W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s33W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s33W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>sloup</t_lemma>
@@ -9544,7 +10395,8 @@ Následky zemětřesení vyvolávají otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1916-001-p1s33a20">
+<children>
+<LM id="T-wsj1916-001-p1s33a20">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s33W13-Ta</lex.rf>
 </a>
@@ -9555,13 +10407,9 @@ Následky zemětřesení vyvolávají otázky.</text>
 <sempos>adj.quant.grad</sempos>
 </gram>
 <deepord>11</deepord>
-</children>
-</children>
 </LM>
 </children>
-</children>
 </LM>
-</children>
 </children>
 </LM>
 </children>
@@ -9569,13 +10417,23 @@ Následky zemětřesení vyvolávají otázky.</text>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>``The reason is that the technology is such that we're not able to retrofit multi-column structures,'' he said.</eng_sentence>
 </LM>
 <LM id="T-wsj1916-001-p1s34">
 <atree.rf>a#a-wsj1916-001-p1s34</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1916-001-p1s34a2">
+<children>
+<LM id="T-wsj1916-001-p1s34a2">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s34W4-Ta</lex.rf>
 </a>
@@ -9591,7 +10449,9 @@ Následky zemětřesení vyvolávají otázky.</text>
 <LM id="T-wsj1916-001-p1s34a4">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s34W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1916-001-p1s34W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s34W1-Ta</LM>
+</aux.rf>
 </a>
 <coref_special>segm</coref_special>
 <nodetype>complex</nodetype>
@@ -9601,7 +10461,8 @@ Následky zemětřesení vyvolávají otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1916-001-p1s34a5">
+<children>
+<LM id="T-wsj1916-001-p1s34a5">
 <a>
 <lex.rf>a#a-wsj1916-001-p1s34W2-Ta</lex.rf>
 </a>
@@ -9612,6 +10473,7 @@ Následky zemětřesení vyvolávají otázky.</text>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1916-001-p1s34a1">
@@ -9650,7 +10512,9 @@ Následky zemětřesení vyvolávají otázky.</text>
 </LM>
 <LM id="T-wsj1916-001-p1s34a18">
 <a>
-<aux.rf>a#a-wsj1916-001-p1s34W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s34W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -9681,9 +10545,11 @@ Následky zemětřesení vyvolávají otázky.</text>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s5a83</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -9727,7 +10593,9 @@ Následky zemětřesení vyvolávají otázky.</text>
 </LM>
 <LM id="T-wsj1916-001-p1s34a19">
 <a>
-<aux.rf>a#a-wsj1916-001-p1s34W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1916-001-p1s34W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -9761,9 +10629,11 @@ Následky zemětřesení vyvolávají otázky.</text>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1916-001-p1s18a41</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -9771,6 +10641,7 @@ Následky zemětřesení vyvolávají otázky.</text>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Charles McCoy in San Francisco and John R. Emshwiller in Los Angeles contributed to this article.</eng_sentence>
 </LM>

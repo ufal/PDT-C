@@ -4,14 +4,15 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj1747.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj1747-001-p1s0">
 <atree.rf>a#a-wsj1747-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1747-001-p1s0a1">
+<children>
+<LM id="T-wsj1747-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1747-001-p1s0W9-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1747-001-p1s0a3">
+<children>
+<LM id="T-wsj1747-001-p1s0a3">
 <a>
 <lex.rf>a#a-wsj1747-001-p1s0W2-Ta</lex.rf>
 </a>
@@ -46,7 +48,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1747-001-p1s0a20">
+<children>
+<LM id="T-wsj1747-001-p1s0a20">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -84,13 +87,17 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1747-001-p1s0a8">
 <a>
 <lex.rf>a#a-wsj1747-001-p1s0W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1747-001-p1s0W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1747-001-p1s0W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>kvartál</t_lemma>
@@ -99,7 +106,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1747-001-p1s0a9">
+<children>
+<LM id="T-wsj1747-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj1747-001-p1s0W7-Ta</lex.rf>
 </a>
@@ -110,6 +118,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1747-001-p1s0a12">
@@ -124,7 +133,9 @@
 <LM id="T-wsj1747-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj1747-001-p1s0W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1747-001-p1s0W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1747-001-p1s0W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milion</t_lemma>
@@ -159,15 +170,13 @@
 <deepord>13</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>milionn</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1747-001-p1s0a17">
 <a>
 <lex.rf>a#a-wsj1747-001-p1s0W17-Ta</lex.rf>
-<aux.rf>a#a-wsj1747-001-p1s0W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1747-001-p1s0W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -200,7 +209,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1747-001-p1s0a19">
+<children>
+<LM id="T-wsj1747-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj1747-001-p1s0W18-Ta</lex.rf>
 </a>
@@ -211,18 +221,21 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>16</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>VIACOM Inc.'s loss narrowed to $21.7 million in the third quarter from $56.9 million a year ago.</eng_sentence>
 </LM>
 <LM id="T-wsj1747-001-p1s1">
 <atree.rf>a#a-wsj1747-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1747-001-p1s1a1">
+<children>
+<LM id="T-wsj1747-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1747-001-p1s1W4-Ta</lex.rf>
 </a>
@@ -246,7 +259,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1747-001-p1s1a3">
+<children>
+<LM id="T-wsj1747-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj1747-001-p1s1W1-Ta</lex.rf>
 </a>
@@ -257,10 +271,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1747-001-p1s1a4">
@@ -306,18 +323,23 @@
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1747-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Thursday's edition misstated the narrowing.</eng_sentence>
 </LM>

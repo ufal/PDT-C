@@ -4,14 +4,15 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj1838.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj1838-001-p1s0">
 <atree.rf>a#a-wsj1838-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1838-001-p1s0a52">
+<children>
+<LM id="T-wsj1838-001-p1s0a52">
 <a>
 <lex.rf>a#a-wsj1838-001-p1s0W31-Ta</lex.rf>
 </a>
@@ -23,7 +24,9 @@
 <LM id="T-wsj1838-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1838-001-p1s0W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1838-001-p1s0W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1838-001-p1s0W14-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9986f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -156,7 +159,9 @@
 <LM id="T-wsj1838-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj1838-001-p1s0W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1838-001-p1s0W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1838-001-p1s0W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výslužba</t_lemma>
@@ -182,7 +187,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1838-001-p1s0a17">
+<children>
+<LM id="T-wsj1838-001-p1s0a17">
 <a>
 <lex.rf>a#a-wsj1838-001-p1s0W18-Ta</lex.rf>
 </a>
@@ -217,7 +223,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1838-001-p1s0a19">
+<children>
+<LM id="T-wsj1838-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj1838-001-p1s0W26-Ta</lex.rf>
 </a>
@@ -259,7 +266,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1838-001-p1s0a24">
+<children>
+<LM id="T-wsj1838-001-p1s0a24">
 <a>
 <lex.rf>a#a-wsj1838-001-p1s0W24-Ta</lex.rf>
 </a>
@@ -270,6 +278,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>21</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1838-001-p1s0a25">
@@ -319,9 +328,11 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -350,15 +361,19 @@
 </gram>
 <deepord>25</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1838-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1838-001-p1s0a34">
 <a>
 <lex.rf>a#a-wsj1838-001-p1s0W34-Ta</lex.rf>
-<aux.rf>a#a-wsj1838-001-p1s0W33-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1838-001-p1s0W33-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>místo</t_lemma>
@@ -367,12 +382,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>28</deepord>
-<children id="T-wsj1838-001-p1s0a36">
+<children>
+<LM id="T-wsj1838-001-p1s0a36">
 <a>
 <lex.rf>a#a-wsj1838-001-p1s0W36-Ta</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>Lafontanta</t_lemma>
+<t_lemma>Lafontantová</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -415,7 +431,9 @@
 <a>
 <lex.rf>a#a-wsj1838-001-p1s0W38-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1838-001-p1s0a36</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1838-001-p1s0a36</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -451,9 +469,11 @@
 </gram>
 <deepord>33</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1838-001-p1s0a39</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1838-001-p1s0a44">
@@ -467,10 +487,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>35</deepord>
-<children id="T-wsj1838-001-p1s0a46">
+<children>
+<LM id="T-wsj1838-001-p1s0a46">
 <a>
 <lex.rf>a#a-wsj1838-001-p1s0W46-Ta</lex.rf>
-<aux.rf>a#a-wsj1838-001-p1s0W45-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1838-001-p1s0W45-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>vláda</t_lemma>
@@ -479,6 +502,11 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>36</deepord>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 </children>
@@ -486,11 +514,9 @@
 </children>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
-</children>
 </children>
 <eng_sentence>Gen. Paul X. Kelley, retired commandant of the U.S. Marine Corps, was elected a director of this plastics, specialty materials and aerospace concern, succeeding Jewel Lafontant, who resigned to accept a government position.</eng_sentence>
 </LM>

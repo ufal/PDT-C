@@ -4,14 +4,15 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj1406.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj1406-001-p1s0">
 <atree.rf>a#a-wsj1406-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1406-001-p1s0a1">
+<children>
+<LM id="T-wsj1406-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1406-001-p1s0W3-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1406-001-p1s0a3">
+<children>
+<LM id="T-wsj1406-001-p1s0a3">
 <a>
 <lex.rf>a#a-wsj1406-001-p1s0W1-Ta</lex.rf>
 </a>
@@ -46,6 +48,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1406-001-p1s0a6">
@@ -60,7 +63,9 @@
 <LM id="T-wsj1406-001-p1s0a7">
 <a>
 <lex.rf>a#a-wsj1406-001-p1s0W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1406-001-p1s0W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1406-001-p1s0W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1396f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -113,7 +118,9 @@
 <LM id="T-wsj1406-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj1406-001-p1s0W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1406-001-p1s0W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1406-001-p1s0W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dekáda</t_lemma>
@@ -165,7 +172,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1406-001-p1s0a19">
+<children>
+<LM id="T-wsj1406-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj1406-001-p1s0W17-Ta</lex.rf>
 </a>
@@ -176,18 +184,22 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1406-001-p1s0a22">
 <a>
 <lex.rf>a#a-wsj1406-001-p1s0W21-Ta</lex.rf>
-<aux.rf>a#a-wsj1406-001-p1s0W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1406-001-p1s0W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>14</deepord>
-<children id="T-wsj1406-001-p1s0a21">
+<children>
+<LM id="T-wsj1406-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj1406-001-p1s0W20-Ta</lex.rf>
 </a>
@@ -198,6 +210,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -205,7 +218,9 @@
 <LM id="T-wsj1406-001-p1s0a24">
 <a>
 <lex.rf>a#a-wsj1406-001-p1s0W28-Ta</lex.rf>
-<aux.rf>a#a-wsj1406-001-p1s0W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1406-001-p1s0W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6551f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -227,9 +242,11 @@
 </gram>
 <deepord>16</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1406-001-p1s0a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1406-001-p1s0a28">
@@ -252,13 +269,16 @@
 <LM id="T-wsj1406-001-p1s0a31">
 <a>
 <lex.rf>a#a-wsj1406-001-p1s0W31-Ta</lex.rf>
-<aux.rf>a#a-wsj1406-001-p1s0W29-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1406-001-p1s0W29-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>20</deepord>
-<children id="T-wsj1406-001-p1s0a30">
+<children>
+<LM id="T-wsj1406-001-p1s0a30">
 <a>
 <lex.rf>a#a-wsj1406-001-p1s0W30-Ta</lex.rf>
 </a>
@@ -269,20 +289,23 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>19</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Japan's wholesale prices in the first 10 days of October fell 0.3% from the previous 10 days but rose 3.3% from a year ago, the Bank of Japan said.</eng_sentence>
 </LM>
 <LM id="T-wsj1406-001-p1s1">
 <atree.rf>a#a-wsj1406-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1406-001-p1s1a1">
+<children>
+<LM id="T-wsj1406-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1406-001-p1s1W4-Ta</lex.rf>
 </a>
@@ -306,7 +329,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1406-001-p1s1a3">
+<children>
+<LM id="T-wsj1406-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj1406-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -317,7 +341,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1406-001-p1s1a4">
+<children>
+<LM id="T-wsj1406-001-p1s1a4">
 <a>
 <lex.rf>a#a-wsj1406-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -328,13 +353,17 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1406-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj1406-001-p1s1W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1406-001-p1s1W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1406-001-p1s1W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>89.6</t_lemma>
@@ -343,7 +372,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1406-001-p1s1a9">
+<children>
+<LM id="T-wsj1406-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj1406-001-p1s1W10-Ta</lex.rf>
 </a>
@@ -369,7 +399,8 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>6</deepord>
-<children id="T-wsj1406-001-p1s1a12">
+<children>
+<LM id="T-wsj1406-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj1406-001-p1s1W9-Ta</lex.rf>
 </a>
@@ -381,11 +412,8 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>7</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>Typo</type>
-<text>roku</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1406-001-p1s1a10">
 <a>
@@ -401,9 +429,11 @@
 <deepord>9</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The wholesale price index stood at 89.6 (1985 equals 100).</eng_sentence>
 </LM>
