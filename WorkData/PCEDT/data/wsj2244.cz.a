@@ -15,7 +15,6 @@
 <trees>
 <LM id="a-wsj2244-001-p1s0">
 <s.rf>m#m-wsj2244-001-p1s0</s.rf>
-<afun>AuxS</afun>
 <ord>0</ord>
 <children>
 <LM id="a-wsj2244-001-p1s0W5-Ta">
@@ -141,7 +140,6 @@
 </LM>
 <LM id="a-wsj2244-001-p1s1">
 <s.rf>m#m-wsj2244-001-p1s1</s.rf>
-<afun>AuxS</afun>
 <ord>0</ord>
 <children>
 <LM id="a-wsj2244-001-p1s1W1-Ta">
@@ -270,7 +268,6 @@
 </LM>
 <LM id="a-wsj2244-001-p1s2">
 <s.rf>m#m-wsj2244-001-p1s2</s.rf>
-<afun>AuxS</afun>
 <ord>0</ord>
 <children>
 <LM id="a-wsj2244-001-p1s2W7-Ta">
@@ -388,7 +385,6 @@
 </LM>
 <LM id="a-wsj2244-001-p1s3">
 <s.rf>m#m-wsj2244-001-p1s3</s.rf>
-<afun>AuxS</afun>
 <ord>0</ord>
 <children>
 <LM id="a-wsj2244-001-p1s3W13-Ta">
@@ -629,7 +625,6 @@
 </LM>
 <LM id="a-wsj2244-001-p1s4">
 <s.rf>m#m-wsj2244-001-p1s4</s.rf>
-<afun>AuxS</afun>
 <ord>0</ord>
 <children>
 <LM id="a-wsj2244-001-p1s4W4-Ta">
