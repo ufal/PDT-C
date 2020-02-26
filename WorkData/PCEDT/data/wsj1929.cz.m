@@ -761,8 +761,6 @@
 <form>52</form>
 <tag>
 <AM lemma="52" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1929-001-p1s2W1-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -794,8 +792,6 @@
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1929-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11921,8 +11917,6 @@
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">P9FS4----------</AM>
 <AM lemma="nížit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="nížit" src="auto">Vi-S---3--A-I-4</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1929-001-p1s41W7-Ta">
 <src.rf>tagger-a</src.rf>

@@ -2709,8 +2709,6 @@
 <form>120</form>
 <tag>
 <AM lemma="120" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0429-001-p1s6W1-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -2746,8 +2744,6 @@
 <AM lemma="denní" src="auto">AANS1----1A----</AM>
 <AM lemma="denní" src="auto">AANS4----1A----</AM>
 <AM lemma="denní" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0429-001-p1s6W2-Ta">
 <src.rf>tagger-a</src.rf>

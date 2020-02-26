@@ -1012,8 +1012,6 @@
 <AM lemma="vlastnost" src="auto">NNFS3-----A----</AM>
 <AM lemma="vlastnost" src="auto">NNFS5-----A----</AM>
 <AM lemma="vlastnost" src="auto">NNFS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1622-001-p1s3W10-Ta">
 <src.rf>tagger-a</src.rf>

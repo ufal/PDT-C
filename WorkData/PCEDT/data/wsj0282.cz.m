@@ -9430,8 +9430,6 @@
 <form>milionů</form>
 <tag>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0282-001-p1s26W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -15702,8 +15700,6 @@
 <AM lemma="křižácký" src="auto" recommended="1">AANS1----1A----</AM>
 <AM lemma="křižácký" src="auto">AANS4----1A----</AM>
 <AM lemma="křižácký" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0282-001-p1s46W41-Ta">
 <src.rf>tagger-a</src.rf>

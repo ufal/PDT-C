@@ -1329,8 +1329,6 @@
 <form>rozhodne</form>
 <tag>
 <AM lemma="rozhodnout" src="auto" recommended="1">VB-S---3P-AAP--</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0598-001-p1s6W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2888,8 +2886,6 @@
 <tag>
 <AM lemma="radost" src="auto">NNFP2-----A----</AM>
 <AM lemma="radost" src="auto" recommended="1">NNFS7-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0598-001-p1s12W16-Ta">
 <src.rf>tagger-a</src.rf>

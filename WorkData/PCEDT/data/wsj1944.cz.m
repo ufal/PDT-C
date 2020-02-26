@@ -6627,8 +6627,6 @@
 <AM lemma="newyorský" src="auto">AANS1----1A----</AM>
 <AM lemma="newyorský" src="auto">AANS4----1A----</AM>
 <AM lemma="newyorský" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1944-001-p1s29W6-Ta">
 <src.rf>tagger-a</src.rf>

@@ -259,8 +259,6 @@
 <form>vykládat</form>
 <tag>
 <AM lemma="vykládat" src="auto" recommended="1">Vf--------A-I--</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1849-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>

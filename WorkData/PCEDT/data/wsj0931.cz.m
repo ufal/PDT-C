@@ -2337,8 +2337,6 @@
 <tag>
 <AM lemma="představitel" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="představitel" src="auto">NNMP5-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0931-001-p1s6W26-Ta">
 <src.rf>tagger-a</src.rf>

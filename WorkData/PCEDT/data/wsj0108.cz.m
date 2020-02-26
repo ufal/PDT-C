@@ -7611,8 +7611,6 @@
 <form>oficiálně</form>
 <tag>
 <AM lemma="oficiálně_^(*1í)" src="auto" recommended="1">Dg-------1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0108-001-p1s37W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10098,8 +10096,6 @@
 <AM lemma="o-77_,t" src="auto">F%-------------</AM>
 <AM lemma="o-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="obchodní_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0108-001-p1s44W18-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -10109,8 +10105,6 @@
 <form>'</form>
 <tag>
 <AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0108-001-p1s44W18-Ta-sw2">
 <src.rf>tagger-a</src.rf>
@@ -10120,8 +10114,6 @@
 <form>Brien</form>
 <tag>
 <AM lemma="Brien_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0108-001-p1s44W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11533,8 +11525,6 @@
 <AM lemma="o-77_,t" src="auto">F%-------------</AM>
 <AM lemma="o-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="obchodní_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0108-001-p1s51W3-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -11544,8 +11534,6 @@
 <form>'</form>
 <tag>
 <AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0108-001-p1s51W3-Ta-sw2">
 <src.rf>tagger-a</src.rf>
@@ -11555,8 +11543,6 @@
 <form>Brien</form>
 <tag>
 <AM lemma="Brien_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0108-001-p1s51W4-Ta">
 <src.rf>tagger-a</src.rf>

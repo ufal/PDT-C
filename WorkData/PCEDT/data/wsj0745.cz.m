@@ -8490,8 +8490,6 @@
 <AM lemma="zabraňující_^(*5ovat)" src="auto">AGNP3-----A----</AM>
 <AM lemma="zabraňující_^(*5ovat)" src="auto" recommended="1">AGNS6-----A----</AM>
 <AM lemma="zabraňující_^(*5ovat)" src="auto">AGNS7-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0745-001-p1s25W9-Ta">
 <src.rf>tagger-a</src.rf>

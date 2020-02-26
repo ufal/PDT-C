@@ -2459,8 +2459,6 @@
 <form>obhajob</form>
 <tag>
 <AM lemma="obhajoba" src="auto" recommended="1">NNFP2-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2336-001-p1s6W31-Ta">
 <src.rf>tagger-a</src.rf>

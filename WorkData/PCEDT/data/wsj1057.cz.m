@@ -7623,8 +7623,6 @@
 <form>zhořknout</form>
 <tag>
 <AM lemma="zhořknout" src="auto" recommended="1">Vf--------A-P--</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1057-001-p1s28W23-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -7635,8 +7633,6 @@
 <tag>
 <AM lemma="hodně-3" src="auto" recommended="1">Dg-------1A----</AM>
 <AM lemma="hodně_^(být_hoden;nezlobivý)_(*1ý)" src="auto">Dg-------1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1057-001-p1s28W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -14083,8 +14079,6 @@
 <form>49</form>
 <tag>
 <AM lemma="49" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1057-001-p1s50W1-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -14116,8 +14110,6 @@
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1057-001-p1s50W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -17144,8 +17136,6 @@
 <AM lemma="vysílání_^(*3at)" src="auto">NNNS4-----A----</AM>
 <AM lemma="vysílání_^(*3at)" src="auto">NNNS5-----A----</AM>
 <AM lemma="vysílání_^(*3at)" src="auto" recommended="1">NNNS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1057-001-p1s61W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -29438,8 +29428,6 @@
 <tag>
 <AM lemma="rozdíl" src="auto">NNIS1-----A----</AM>
 <AM lemma="rozdíl" src="auto" recommended="1">NNIS4-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1057-001-p1s111W11-Ta">
 <src.rf>tagger-a</src.rf>

@@ -480,8 +480,6 @@
 <AM lemma="dallaský" src="auto">AANS1----1A---6</AM>
 <AM lemma="dallaský" src="auto">AANS4----1A---6</AM>
 <AM lemma="dallaský" src="auto">AANS5----1A---6</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0329-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>

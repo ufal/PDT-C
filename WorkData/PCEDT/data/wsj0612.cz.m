@@ -2322,8 +2322,6 @@
 <AM lemma="desetiletý" src="auto">AAIP7----1A----</AM>
 <AM lemma="desetiletý" src="auto">AAMP7----1A----</AM>
 <AM lemma="desetiletý" src="auto">AANP7----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0612-001-p1s5W22-Ta">
 <src.rf>tagger-a</src.rf>

@@ -4724,8 +4724,6 @@
 <form>12</form>
 <tag>
 <AM lemma="12" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1936-001-p1s18W10-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -4757,8 +4755,6 @@
 <AM lemma="slabičný" src="auto">AANS1----1A---6</AM>
 <AM lemma="slabičný" src="auto">AANS4----1A---6</AM>
 <AM lemma="slabičný" src="auto">AANS5----1A---6</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1936-001-p1s18W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6286,8 +6282,6 @@
 <form>25</form>
 <tag>
 <AM lemma="25" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1936-001-p1s22W12-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -6298,8 +6292,6 @@
 <tag>
 <AM lemma="letý" src="auto" recommended="1">AAFS4----1A----</AM>
 <AM lemma="letý" src="auto">AAFS7----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1936-001-p1s22W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -16011,8 +16003,6 @@
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS4---------6</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8FS6----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8FS7----------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1936-001-p1s54W7-Ta">
 <src.rf>tagger-a</src.rf>

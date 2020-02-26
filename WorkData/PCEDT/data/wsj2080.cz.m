@@ -162,8 +162,6 @@
 <form>91</form>
 <tag>
 <AM lemma="91" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2080-001-p1s0W10-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -176,8 +174,6 @@
 <AM lemma="denní" src="auto" recommended="1">AAIP7----1A----</AM>
 <AM lemma="denní" src="auto">AAMP7----1A----</AM>
 <AM lemma="denní" src="auto">AANP7----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2080-001-p1s0W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -795,8 +791,6 @@
 <form>182</form>
 <tag>
 <AM lemma="182" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2080-001-p1s2W12-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -809,8 +803,6 @@
 <AM lemma="denní" src="auto" recommended="1">AAIP7----1A----</AM>
 <AM lemma="denní" src="auto">AAMP7----1A----</AM>
 <AM lemma="denní" src="auto">AANP7----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2080-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>

@@ -6188,8 +6188,6 @@
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSMS4FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSZS2FS3-------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0286-001-p1s20W3-Ta">
 <src.rf>tagger-a</src.rf>

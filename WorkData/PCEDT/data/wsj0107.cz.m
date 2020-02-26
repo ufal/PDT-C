@@ -1648,8 +1648,6 @@
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGMP6-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGNP2-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGNP6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0107-001-p1s5W8-Ta">
 <src.rf>tagger-a</src.rf>

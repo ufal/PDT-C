@@ -2475,8 +2475,6 @@
 <AM lemma="politováníhodný" src="auto">AANS1----1A---6</AM>
 <AM lemma="politováníhodný" src="auto">AANS4----1A---6</AM>
 <AM lemma="politováníhodný" src="auto">AANS5----1A---6</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0485-001-p1s6W12-Ta">
 <src.rf>tagger-a</src.rf>

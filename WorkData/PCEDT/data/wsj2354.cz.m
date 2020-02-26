@@ -2649,8 +2649,6 @@
 <tag>
 <AM lemma="dallaský" src="auto" recommended="1">AAMP1----1A----</AM>
 <AM lemma="dallaský" src="auto">AAMP5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2354-001-p1s6W37-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1809,8 +1809,6 @@
 <AM lemma="bankovní" src="auto">AANS1----1A----</AM>
 <AM lemma="bankovní" src="auto">AANS4----1A----</AM>
 <AM lemma="bankovní" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0457-001-p1s10W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7441,8 +7439,6 @@
 <form>7.875</form>
 <tag>
 <AM lemma="7.875" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0457-001-p1s26W12-Ta">
 <src.rf>tagger-a</src.rf>

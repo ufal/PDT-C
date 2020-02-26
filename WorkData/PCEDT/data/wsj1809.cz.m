@@ -1406,8 +1406,6 @@
 <form>40</form>
 <tag>
 <AM lemma="40" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1809-001-p1s6W5-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -1439,8 +1437,6 @@
 <AM lemma="miliardový" src="auto">AANS1----1A---6</AM>
 <AM lemma="miliardový" src="auto">AANS4----1A---6</AM>
 <AM lemma="miliardový" src="auto">AANS5----1A---6</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1809-001-p1s6W6-Ta">
 <src.rf>tagger-a</src.rf>

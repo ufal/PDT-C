@@ -16568,8 +16568,6 @@
 <form>37</form>
 <tag>
 <AM lemma="37" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0044-001-p1s57W13-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -16583,8 +16581,6 @@
 <AM lemma="letý" src="auto">AANP1----1A----</AM>
 <AM lemma="letý" src="auto">AANP4----1A----</AM>
 <AM lemma="letý" src="auto">AANP5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0044-001-p1s57W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -24057,8 +24053,6 @@
 <form>48</form>
 <tag>
 <AM lemma="48" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0044-001-p1s85W8-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -24070,8 +24064,6 @@
 <AM lemma="hodinový" src="auto" recommended="1">AAIS6----1A----</AM>
 <AM lemma="hodinový" src="auto">AAMS6----1A----</AM>
 <AM lemma="hodinový" src="auto">AANS6----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0044-001-p1s85W9-Ta">
 <src.rf>tagger-a</src.rf>

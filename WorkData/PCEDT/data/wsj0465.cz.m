@@ -6985,8 +6985,6 @@
 <AM lemma="pracující-3" src="auto">NNFS5-----A----</AM>
 <AM lemma="pracující-3" src="auto">NNFS6-----A----</AM>
 <AM lemma="pracující-3" src="auto">NNFS7-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0465-001-p1s22W3-Ta">
 <src.rf>tagger-a</src.rf>

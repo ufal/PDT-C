@@ -9814,8 +9814,6 @@
 <form>100</form>
 <tag>
 <AM lemma="100" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1128-001-p1s37W39-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -9827,8 +9825,6 @@
 <AM lemma="akrový" src="auto" recommended="1">AAIS6----1A----</AM>
 <AM lemma="akrový" src="auto">AAMS6----1A----</AM>
 <AM lemma="akrový" src="auto">AANS6----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1128-001-p1s37W40-Ta">
 <src.rf>tagger-a</src.rf>

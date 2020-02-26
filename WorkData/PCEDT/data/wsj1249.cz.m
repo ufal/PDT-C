@@ -517,8 +517,6 @@
 <tag>
 <AM lemma="který" src="auto" recommended="1">P4FS4----------</AM>
 <AM lemma="který" src="auto">P4FS7----------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1249-001-p1s1W30-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4825,8 +4823,6 @@
 <form>Američanů</form>
 <tag>
 <AM lemma="Američan_;E" src="auto" recommended="1">NNMP2-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1249-001-p1s20W15-Ta">
 <src.rf>tagger-a</src.rf>

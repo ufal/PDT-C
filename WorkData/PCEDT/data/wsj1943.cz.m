@@ -3152,8 +3152,6 @@
 <AM lemma="desetiletý" src="auto">AAMP6----1A----</AM>
 <AM lemma="desetiletý" src="auto">AANP2----1A----</AM>
 <AM lemma="desetiletý" src="auto">AANP6----1A----</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1943-001-p1s10W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3354,8 +3352,6 @@
 <AM lemma="třicetiletý" src="auto">AAMP6----1A----</AM>
 <AM lemma="třicetiletý" src="auto">AANP2----1A----</AM>
 <AM lemma="třicetiletý" src="auto">AANP6----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1943-001-p1s10W51-Ta">
 <src.rf>tagger-a</src.rf>

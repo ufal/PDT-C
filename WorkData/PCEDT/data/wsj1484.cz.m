@@ -1526,8 +1526,6 @@
 <AM lemma="který" src="auto">P4XP1---------6</AM>
 <AM lemma="který" src="auto">P4XP4---------6</AM>
 <AM lemma="který" src="auto">P4YS1----------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1484-001-p1s3W20-Ta">
 <src.rf>tagger-a</src.rf>

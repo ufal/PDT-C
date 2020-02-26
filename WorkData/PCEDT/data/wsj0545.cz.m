@@ -1065,8 +1065,6 @@
 <AM lemma="letopočet_:B" src="auto">NNIS2-----A---8</AM>
 <AM lemma="letopočet_:B" src="auto">NNIS7-----A---8</AM>
 <AM lemma="litr" src="auto">NNIXX-----A---8</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0545-001-p1s4W2-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -1076,8 +1074,6 @@
 <form>.</form>
 <tag>
 <AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0545-001-p1s4W3-Ta">
 <src.rf>tagger-a</src.rf>

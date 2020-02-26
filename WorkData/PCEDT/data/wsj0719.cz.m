@@ -12551,8 +12551,6 @@
 <AM lemma="Frankfurt_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Frankfurt_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Frankfurt_;G" src="auto" recommended="1">NNIS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0719-001-p1s39W38-Ta">
 <src.rf>tagger-a</src.rf>

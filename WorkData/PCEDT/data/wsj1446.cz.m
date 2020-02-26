@@ -7897,8 +7897,6 @@
 <form>Garcia</form>
 <tag>
 <AM lemma="Garcia_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1446-001-p1s28W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7966,8 +7964,6 @@
 <form>49</form>
 <tag>
 <AM lemma="49" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1446-001-p1s29W1-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -7981,8 +7977,6 @@
 <AM lemma="letý" src="auto">AANP1----1A----</AM>
 <AM lemma="letý" src="auto">AANP4----1A----</AM>
 <AM lemma="letý" src="auto">AANP5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1446-001-p1s29W2-Ta">
 <src.rf>tagger-a</src.rf>

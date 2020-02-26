@@ -5734,8 +5734,6 @@
 <AM lemma="Reaganův_;S_^(*2)" src="auto">AUNP6M---------</AM>
 <AM lemma="Reaganová_;S" src="auto">NNFP2-----A----</AM>
 <AM lemma="Reaganová_;S" src="auto">NNFP6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0909-001-p1s22W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -19696,8 +19694,6 @@
 <AM lemma="postavení_^(*3it)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="postavení_^(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="postavení_^(*3it)" src="auto">NNNS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0909-001-p1s80W35-Ta">
 <src.rf>tagger-a</src.rf>

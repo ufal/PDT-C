@@ -5787,8 +5787,6 @@
 <tag>
 <AM lemma="nesrovnalost_^(*3ý)" src="auto" recommended="1">NNFP3-----A----</AM>
 <AM lemma="srovnalost_^(*3ý)" src="auto">NNFP3-----N----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0619-001-p1s19W16-Ta">
 <src.rf>tagger-a</src.rf>

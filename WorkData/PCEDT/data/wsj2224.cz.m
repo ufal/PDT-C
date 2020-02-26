@@ -1779,8 +1779,6 @@
 <form>600</form>
 <tag>
 <AM lemma="600" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2224-001-p1s6W14-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -1805,8 +1803,6 @@
 <AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AANS1----1A----</AM>
 <AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AANS4----1A----</AM>
 <AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2224-001-p1s6W15-Ta">
 <src.rf>tagger-a</src.rf>

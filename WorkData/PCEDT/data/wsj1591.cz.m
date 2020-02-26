@@ -591,8 +591,6 @@
 <form>32</form>
 <tag>
 <AM lemma="32" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1591-001-p1s2W14-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -604,8 +602,6 @@
 <AM lemma="bitový" src="auto" recommended="1">AAIS6----1A----</AM>
 <AM lemma="bitový" src="auto">AAMS6----1A----</AM>
 <AM lemma="bitový" src="auto">AANS6----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1591-001-p1s2W15-Ta">
 <src.rf>tagger-a</src.rf>

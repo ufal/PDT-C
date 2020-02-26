@@ -1533,8 +1533,6 @@
 <form>soukromě</form>
 <tag>
 <AM lemma="soukromě_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2317-001-p1s4W15-Ta">
 <src.rf>tagger-a</src.rf>

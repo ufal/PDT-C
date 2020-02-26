@@ -250,8 +250,6 @@
 <form>190</form>
 <tag>
 <AM lemma="190" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0240-001-p1s0W21-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -264,8 +262,6 @@
 <AM lemma="bodový" src="auto">AAMS2----1A----</AM>
 <AM lemma="bodový" src="auto">AAMS4----1A----</AM>
 <AM lemma="bodový" src="auto">AANS2----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0240-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1145,8 +1145,6 @@
 <AM lemma="Institute-77" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="institut" src="auto">NNIS5-----A----</AM>
 <AM lemma="institute-77_,t" src="auto">F%-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1613-001-p1s4W10-Ta">
 <src.rf>tagger-a</src.rf>

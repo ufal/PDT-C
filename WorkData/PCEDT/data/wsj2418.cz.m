@@ -2685,8 +2685,6 @@
 <form>61</form>
 <tag>
 <AM lemma="61" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2418-001-p1s9W7-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -2699,8 +2697,6 @@
 <AM lemma="letý" src="auto">AAMS2----1A----</AM>
 <AM lemma="letý" src="auto" recommended="1">AAMS4----1A----</AM>
 <AM lemma="letý" src="auto">AANS2----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2418-001-p1s9W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12075,8 +12071,6 @@
 <form>síních</form>
 <tag>
 <AM lemma="síň" src="auto" recommended="1">NNFP6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2418-001-p1s47W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12962,8 +12956,6 @@
 <AM lemma="výrobek" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="výrobek" src="auto">NNIP5-----A----</AM>
 <AM lemma="výrobek" src="auto">NNIP7-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2418-001-p1s49W36-Ta">
 <src.rf>tagger-a</src.rf>

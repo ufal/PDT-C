@@ -1645,8 +1645,6 @@
 <AM lemma="životní_^(souvisí_se_životem;_prostředí,...)" src="auto">AAMS2----1A----</AM>
 <AM lemma="životní_^(souvisí_se_životem;_prostředí,...)" src="auto">AAMS4----1A----</AM>
 <AM lemma="životní_^(souvisí_se_životem;_prostředí,...)" src="auto" recommended="1">AANS2----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2231-001-p1s3W54-Ta">
 <src.rf>tagger-a</src.rf>

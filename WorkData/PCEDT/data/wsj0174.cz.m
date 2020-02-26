@@ -2004,8 +2004,6 @@
 <tag>
 <AM lemma="Moskva_;G" src="auto">NNFS3-----A----</AM>
 <AM lemma="Moskva_;G" src="auto" recommended="1">NNFS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0174-001-p1s7W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2686,8 +2684,6 @@
 <form>funkcionář</form>
 <tag>
 <AM lemma="funkcionář" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0174-001-p1s10W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3386,8 +3382,6 @@
 <AM lemma="Alzheimerův_;S_^(*2)" src="auto">AUNP4M---------</AM>
 <AM lemma="Alzheimerův_;S_^(*2)" src="auto">AUNP5M---------</AM>
 <AM lemma="Alzheimerův_;S_^(*2)" src="auto">AUNS2M---------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0174-001-p1s13W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3520,8 +3514,6 @@
 <AM lemma="Michigan_;G" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="Michigan_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Michigan_;G" src="auto">NNIS6-----A----</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0174-001-p1s14W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3585,8 +3577,6 @@
 <AM lemma="který" src="auto">P4XP1---------6</AM>
 <AM lemma="který" src="auto">P4XP4---------6</AM>
 <AM lemma="který" src="auto" recommended="1">P4YS1----------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0174-001-p1s14W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7796,8 +7786,6 @@
 <form>237</form>
 <tag>
 <AM lemma="237" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0174-001-p1s28W16-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -7809,8 +7797,6 @@
 <AM lemma="členný" src="auto">AAIS6----1A----</AM>
 <AM lemma="členný" src="auto">AAMS6----1A----</AM>
 <AM lemma="členný" src="auto" recommended="1">AANS6----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0174-001-p1s28W17-Ta">
 <src.rf>tagger-a</src.rf>

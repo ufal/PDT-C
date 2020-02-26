@@ -2120,8 +2120,6 @@
 <form>vesměs</form>
 <tag>
 <AM lemma="vesměs" src="auto" recommended="1">Db-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1672-001-p1s8W5-Ta">
 <src.rf>tagger-a</src.rf>

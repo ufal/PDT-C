@@ -5794,8 +5794,6 @@
 <AM lemma="surový" src="auto">AANS1----1A----</AM>
 <AM lemma="surový" src="auto">AANS4----1A----</AM>
 <AM lemma="surový" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2325-001-p1s22W3-Ta">
 <src.rf>tagger-a</src.rf>

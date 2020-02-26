@@ -3713,8 +3713,6 @@
 <AM lemma="který" src="auto">P4NS1----------</AM>
 <AM lemma="který" src="auto">P4NS4----------</AM>
 <AM lemma="který" src="auto" recommended="1">P4YP4----------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0938-001-p1s9W12-Ta">
 <src.rf>tagger-a</src.rf>

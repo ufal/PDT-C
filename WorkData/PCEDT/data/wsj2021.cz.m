@@ -2628,8 +2628,6 @@
 <form>osobnostmi</form>
 <tag>
 <AM lemma="osobnost" src="auto" recommended="1">NNFP7-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2021-001-p1s10W8-Ta">
 <src.rf>tagger-a</src.rf>

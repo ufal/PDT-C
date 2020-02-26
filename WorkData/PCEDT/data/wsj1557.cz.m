@@ -730,8 +730,6 @@
 <form>30</form>
 <tag>
 <AM lemma="30" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1557-001-p1s3W7-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -767,8 +765,6 @@
 <AM lemma="denní" src="auto">AANS1----1A----</AM>
 <AM lemma="denní" src="auto">AANS4----1A----</AM>
 <AM lemma="denní" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1557-001-p1s3W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1025,8 +1021,6 @@
 <form>300</form>
 <tag>
 <AM lemma="300" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1557-001-p1s4W7-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -1045,8 +1039,6 @@
 <AM lemma="denní" src="auto">AANP3----1A----</AM>
 <AM lemma="denní" src="auto">AANS6----1A----</AM>
 <AM lemma="denní" src="auto">AANS7----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1557-001-p1s4W8-Ta">
 <src.rf>tagger-a</src.rf>

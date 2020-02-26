@@ -3937,8 +3937,6 @@
 <form>obchodují</form>
 <tag>
 <AM lemma="obchodovat" src="auto" recommended="1">VB-P---3P-AAI--</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0525-001-p1s9W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5762,8 +5760,6 @@
 <AM lemma="akciový" src="auto">AAMP6----1A----</AM>
 <AM lemma="akciový" src="auto">AANP2----1A----</AM>
 <AM lemma="akciový" src="auto">AANP6----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0525-001-p1s16W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13649,8 +13645,6 @@
 <AM lemma="termínový" src="auto">AANP3----1A----</AM>
 <AM lemma="termínový" src="auto">AANS6----1A---7</AM>
 <AM lemma="termínový" src="auto">AANS7----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0525-001-p1s39W7-Ta">
 <src.rf>tagger-a</src.rf>

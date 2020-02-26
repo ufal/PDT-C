@@ -791,8 +791,6 @@
 <AM lemma="po-1" src="auto">RR--4----------</AM>
 <AM lemma="po-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="pondělí" src="auto">NNNXX-----A---8</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1502-001-p1s1W30-Ta">
 <src.rf>tagger-a</src.rf>

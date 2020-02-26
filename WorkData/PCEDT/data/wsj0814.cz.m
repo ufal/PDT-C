@@ -8190,8 +8190,6 @@
 <AM lemma="svázaný_^(*2t)" src="auto">AANS1----1A----</AM>
 <AM lemma="svázaný_^(*2t)" src="auto">AANS4----1A----</AM>
 <AM lemma="svázaný_^(*2t)" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0814-001-p1s25W8-Ta">
 <src.rf>tagger-a</src.rf>

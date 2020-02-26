@@ -4090,8 +4090,6 @@
 <AM lemma="nedávno-2" src="auto">NNNS1-----A----</AM>
 <AM lemma="nedávno-2" src="auto">NNNS4-----A----</AM>
 <AM lemma="nedávno-2" src="auto">NNNS5-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1791-001-p1s12W7-Ta">
 <src.rf>tagger-a</src.rf>

@@ -109,8 +109,6 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2437-001-p1s0W8-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -120,8 +118,6 @@
 <form>.</form>
 <tag>
 <AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2437-001-p1s0W8-Ta-sw2">
 <src.rf>tagger-a</src.rf>
@@ -139,8 +135,6 @@
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
 <AM lemma="a-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2437-001-p1s0W8-Ta-sw3">
 <src.rf>tagger-a</src.rf>
@@ -150,8 +144,6 @@
 <form>.</form>
 <tag>
 <AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2437-001-p1s0W8-Ta-sw4">
 <src.rf>tagger-a</src.rf>
@@ -161,8 +153,6 @@
 <form>uvedla</form>
 <tag>
 <AM lemma="uvést" src="auto" recommended="1">VpQW----R-AAP--</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2437-001-p1s0W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -481,8 +471,6 @@
 <form>milionů</form>
 <tag>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2437-001-p1s0W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -673,8 +661,6 @@
 <AM lemma="francouzský" src="auto">AANP1----1A----</AM>
 <AM lemma="francouzský" src="auto">AANP4----1A----</AM>
 <AM lemma="francouzský" src="auto">AANP5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2437-001-p1s1W4-Ta">
 <src.rf>tagger-a</src.rf>

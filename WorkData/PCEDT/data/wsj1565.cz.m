@@ -1303,8 +1303,6 @@
 <tag>
 <AM lemma="Medellín_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Medellín_;G" src="auto">NNIS4-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1565-001-p1s4W12-Ta">
 <src.rf>tagger-a</src.rf>

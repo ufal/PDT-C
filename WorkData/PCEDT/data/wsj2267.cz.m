@@ -310,8 +310,6 @@
 <form>1</form>
 <tag>
 <AM lemma="1" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2267-001-p1s1W28-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -321,8 +319,6 @@
 <form>.</form>
 <tag>
 <AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2267-001-p1s1W28-Ta-sw2">
 <src.rf>tagger-a</src.rf>
@@ -334,8 +330,6 @@
 <AM lemma="listopad" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="listopad" src="auto">NNIS3-----A----</AM>
 <AM lemma="listopad" src="auto">NNIS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2267-001-p1s1W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1025,8 +1019,6 @@
 <form>1</form>
 <tag>
 <AM lemma="1" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2267-001-p1s4W26-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -1036,8 +1028,6 @@
 <form>.</form>
 <tag>
 <AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2267-001-p1s4W26-Ta-sw2">
 <src.rf>tagger-a</src.rf>
@@ -1049,8 +1039,6 @@
 <AM lemma="listopad" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="listopad" src="auto">NNIS3-----A----</AM>
 <AM lemma="listopad" src="auto">NNIS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2267-001-p1s4W27-Ta">
 <src.rf>tagger-a</src.rf>

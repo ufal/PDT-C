@@ -1527,8 +1527,6 @@
 <AM lemma="hmotný" src="auto">AAMP6----1N----</AM>
 <AM lemma="hmotný" src="auto" recommended="1">AANP2----1N----</AM>
 <AM lemma="hmotný" src="auto">AANP6----1N----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0161-001-p1s3W10-Ta">
 <src.rf>tagger-a</src.rf>

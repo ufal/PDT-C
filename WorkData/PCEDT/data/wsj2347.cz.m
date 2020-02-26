@@ -4931,8 +4931,6 @@
 <form>81</form>
 <tag>
 <AM lemma="81" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2347-001-p1s16W2-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -4945,8 +4943,6 @@
 <AM lemma="letý" src="auto" recommended="1">AAMS2----1A----</AM>
 <AM lemma="letý" src="auto">AAMS4----1A----</AM>
 <AM lemma="letý" src="auto">AANS2----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2347-001-p1s16W3-Ta">
 <src.rf>tagger-a</src.rf>

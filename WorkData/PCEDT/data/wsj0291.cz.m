@@ -1899,8 +1899,6 @@
 <AM lemma="pomoc" src="auto">NNFP2-----A----</AM>
 <AM lemma="pomoc" src="auto" recommended="1">NNFS7-----A----</AM>
 <AM lemma="pomocí" src="auto">RR--2----------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0291-001-p1s3W43-Ta">
 <src.rf>tagger-a</src.rf>

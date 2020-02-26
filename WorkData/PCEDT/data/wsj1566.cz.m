@@ -1629,8 +1629,6 @@
 <tag>
 <AM lemma="já" src="auto" recommended="1">PP-S3--1-------</AM>
 <AM lemma="já" src="auto">PP-S6--1-------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1566-001-p1s7W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11452,8 +11450,6 @@
 <AM lemma="pomoc" src="auto">NNFS3-----A----</AM>
 <AM lemma="pomoc" src="auto">NNFS5-----A----</AM>
 <AM lemma="pomoc" src="auto">NNFS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1566-001-p1s40W5-Ta">
 <src.rf>tagger-a</src.rf>

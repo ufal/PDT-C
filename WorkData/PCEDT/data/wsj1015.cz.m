@@ -4934,8 +4934,6 @@
 <form>100</form>
 <tag>
 <AM lemma="100" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1015-001-p1s22W1-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -4967,8 +4965,6 @@
 <AM lemma="akciový" src="auto">AANS1----1A---6</AM>
 <AM lemma="akciový" src="auto">AANS4----1A---6</AM>
 <AM lemma="akciový" src="auto">AANS5----1A---6</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1015-001-p1s22W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5148,8 +5144,6 @@
 <form>30</form>
 <tag>
 <AM lemma="30" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1015-001-p1s23W2-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -5181,8 +5175,6 @@
 <AM lemma="akciový" src="auto">AANS1----1A---6</AM>
 <AM lemma="akciový" src="auto">AANS4----1A---6</AM>
 <AM lemma="akciový" src="auto">AANS5----1A---6</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1015-001-p1s23W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9959,8 +9951,6 @@
 <form>80</form>
 <tag>
 <AM lemma="80" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1015-001-p1s39W26-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -9985,8 +9975,6 @@
 <AM lemma="bodový" src="auto">AANS1----1A----</AM>
 <AM lemma="bodový" src="auto">AANS4----1A----</AM>
 <AM lemma="bodový" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1015-001-p1s39W27-Ta">
 <src.rf>tagger-a</src.rf>

@@ -4747,8 +4747,6 @@
 <AM lemma="očekávaný_^(*2t)" src="auto">AANS1----1A----</AM>
 <AM lemma="očekávaný_^(*2t)" src="auto">AANS4----1A----</AM>
 <AM lemma="očekávaný_^(*2t)" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1017-001-p1s13W18-Ta">
 <src.rf>tagger-a</src.rf>

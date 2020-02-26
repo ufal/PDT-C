@@ -5671,8 +5671,6 @@
 <form>prodejnách</form>
 <tag>
 <AM lemma="prodejna" src="auto" recommended="1">NNFP6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0968-001-p1s15W15-Ta">
 <src.rf>tagger-a</src.rf>

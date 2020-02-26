@@ -15282,8 +15282,6 @@
 <form>mohou</form>
 <tag>
 <AM lemma="moci" src="auto" recommended="1">VB-P---3P-AAI-1</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0633-001-p1s62W4-Ta">
 <src.rf>tagger-a</src.rf>

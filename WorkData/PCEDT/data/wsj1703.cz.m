@@ -1586,8 +1586,6 @@
 <AM lemma="spora" src="auto">NNFP2-----A----</AM>
 <AM lemma="spor_^([soudní]_pře)" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="spor_^([soudní]_pře)" src="auto">NNIS4-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1703-001-p1s3W37-Ta">
 <src.rf>tagger-a</src.rf>

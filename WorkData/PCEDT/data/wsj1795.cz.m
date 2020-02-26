@@ -5902,8 +5902,6 @@
 <AM lemma="desetinásobný`10" src="auto">AANS1----1A----</AM>
 <AM lemma="desetinásobný`10" src="auto" recommended="1">AANS4----1A----</AM>
 <AM lemma="desetinásobný`10" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1795-001-p1s21W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8368,8 +8366,6 @@
 <form>touhou</form>
 <tag>
 <AM lemma="touha" src="auto" recommended="1">NNFS7-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1795-001-p1s31W5-Ta">
 <src.rf>tagger-a</src.rf>

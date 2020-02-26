@@ -297,8 +297,6 @@
 <form>ji</form>
 <tag>
 <AM lemma="on-1" src="auto" recommended="1">PPFS4--3-------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2226-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>

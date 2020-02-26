@@ -1756,8 +1756,6 @@
 <AM lemma="hlavní" src="auto">AANP3----1A----</AM>
 <AM lemma="hlavní" src="auto">AANS6----1A----</AM>
 <AM lemma="hlavní" src="auto">AANS7----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1331-001-p1s4W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5247,8 +5245,6 @@
 <AM lemma="zúčastněný_^(*3it)" src="auto">AAIP7----1N----</AM>
 <AM lemma="zúčastněný_^(*3it)" src="auto" recommended="1">AAMP7----1N----</AM>
 <AM lemma="zúčastněný_^(*3it)" src="auto">AANP7----1N----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1331-001-p1s18W3-Ta">
 <src.rf>tagger-a</src.rf>

@@ -2114,8 +2114,6 @@
 <AM lemma="který" src="auto">P4XP1---------6</AM>
 <AM lemma="který" src="auto">P4XP4---------6</AM>
 <AM lemma="který" src="auto">P4YS1----------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0349-001-p1s6W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12302,8 +12300,6 @@
 <form>dolarů</form>
 <tag>
 <AM lemma="dolar" src="auto" recommended="1">NNIP2-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0349-001-p1s39W30-Ta">
 <src.rf>tagger-a</src.rf>

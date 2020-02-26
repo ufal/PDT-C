@@ -780,8 +780,6 @@
 <form>6</form>
 <tag>
 <AM lemma="6" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0451-001-p1s1W42-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -794,8 +792,6 @@
 <AM lemma="litrový" src="auto" recommended="1">AAIP7----1A----</AM>
 <AM lemma="litrový" src="auto">AAMP7----1A----</AM>
 <AM lemma="litrový" src="auto">AANP7----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0451-001-p1s1W43-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4856,8 +4852,6 @@
 <form>24</form>
 <tag>
 <AM lemma="24" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0451-001-p1s15W14-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -4895,8 +4889,6 @@
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AANS5----1A----</AM>
 <AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP1----1A----</AM>
 <AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0451-001-p1s15W15-Ta">
 <src.rf>tagger-a</src.rf>

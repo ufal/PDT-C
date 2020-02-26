@@ -1323,8 +1323,6 @@
 <tag>
 <AM lemma="měsíc" src="auto">NNIS1-----A----</AM>
 <AM lemma="měsíc" src="auto" recommended="1">NNIS4-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1994-001-p1s3W5-Ta">
 <src.rf>tagger-a</src.rf>

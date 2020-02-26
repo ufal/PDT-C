@@ -911,8 +911,6 @@
 <AM lemma="proměnlivý" src="auto">AANP3----1A----</AM>
 <AM lemma="proměnlivý" src="auto">AANS6----1A---7</AM>
 <AM lemma="proměnlivý" src="auto">AANS7----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0599-001-p1s3W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1670,8 +1668,6 @@
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS7-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0599-001-p1s5W28-Ta">
 <src.rf>tagger-a</src.rf>

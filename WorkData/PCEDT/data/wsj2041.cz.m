@@ -13600,8 +13600,6 @@
 <form>77</form>
 <tag>
 <AM lemma="77" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2041-001-p1s51W31-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -13616,8 +13614,6 @@
 <AM lemma="b-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="bod_:B" src="auto">NNIXX-----A----</AM>
 <AM lemma="bodový" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2041-001-p1s51W32-Ta">
 <src.rf>tagger-a</src.rf>

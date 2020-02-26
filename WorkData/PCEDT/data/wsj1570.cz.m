@@ -5820,8 +5820,6 @@
 <AM lemma="příležitost" src="auto">NNFS3-----A----</AM>
 <AM lemma="příležitost" src="auto">NNFS5-----A----</AM>
 <AM lemma="příležitost" src="auto">NNFS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1570-001-p1s19W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11764,8 +11762,6 @@
 <AM lemma="jež-99_:B_;S" src="auto">NNXXX-----A----</AM>
 <AM lemma="ježit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="ježit" src="auto">Vi-S---3--A-I-4</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1570-001-p1s32W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -17493,8 +17489,6 @@
 <AM lemma="jež-99_:B_;S" src="auto">NNXXX-----A----</AM>
 <AM lemma="ježit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="ježit" src="auto">Vi-S---3--A-I-4</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1570-001-p1s47W12-Ta">
 <src.rf>tagger-a</src.rf>

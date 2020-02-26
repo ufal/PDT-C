@@ -8838,8 +8838,6 @@
 <form>specialistka</form>
 <tag>
 <AM lemma="specialistka_^(*2a)" src="auto" recommended="1">NNFS1-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0530-001-p1s28W19-Ta">
 <src.rf>tagger-a</src.rf>

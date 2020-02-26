@@ -6399,8 +6399,6 @@
 <AM lemma="pravidlo" src="auto">NNNP4-----A----</AM>
 <AM lemma="pravidlo" src="auto">NNNP5-----A----</AM>
 <AM lemma="pravidlo" src="auto">NNNS2-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1135-001-p1s15W8-Ta">
 <src.rf>tagger-a</src.rf>

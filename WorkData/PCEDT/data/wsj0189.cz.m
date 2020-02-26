@@ -686,8 +686,6 @@
 <AM lemma="akcie" src="auto">NNFS3-----A----</AM>
 <AM lemma="akcie" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="akcie" src="auto">NNFS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0189-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1781,8 +1779,6 @@
 <form>13</form>
 <tag>
 <AM lemma="13" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0189-001-p1s5W13-Ta">
 <src.rf>tagger-a</src.rf>

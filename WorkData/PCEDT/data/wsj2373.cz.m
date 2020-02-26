@@ -337,8 +337,6 @@
 <AM lemma="komunikace" src="auto">NNFS1-----A----</AM>
 <AM lemma="komunikace" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="komunikace" src="auto">NNFS5-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2373-001-p1s0W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -938,8 +936,6 @@
 <AM lemma="statistika_^(věda)" src="auto">NNFP4-----A----</AM>
 <AM lemma="statistika_^(věda)" src="auto">NNFP5-----A----</AM>
 <AM lemma="statistika_^(věda)" src="auto">NNFS2-----A----</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2373-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -964,8 +960,6 @@
 <AM lemma="zmiňovaný_^(*2t)" src="auto">AANS1----1A----</AM>
 <AM lemma="zmiňovaný_^(*2t)" src="auto">AANS4----1A----</AM>
 <AM lemma="zmiňovaný_^(*2t)" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2373-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1100,8 +1094,6 @@
 <AM lemma="r-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="r-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="rok_:B" src="auto" recommended="1">NNIXX-----A---8</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2373-001-p1s3W14-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -1111,8 +1103,6 @@
 <form>.</form>
 <tag>
 <AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2373-001-p1s3W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1145,8 +1135,6 @@
 <AM lemma="r-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="r-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="rok_:B" src="auto" recommended="1">NNIXX-----A---8</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2373-001-p1s3W17-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -1156,8 +1144,6 @@
 <form>.</form>
 <tag>
 <AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2373-001-p1s3W18-Ta">
 <src.rf>tagger-a</src.rf>

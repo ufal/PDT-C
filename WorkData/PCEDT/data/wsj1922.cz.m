@@ -718,8 +718,6 @@
 <form>desetkrát</form>
 <tag>
 <AM lemma="desetkrát`10" src="auto" recommended="1">Cv-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1922-001-p1s1W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -741,8 +739,6 @@
 <form>dvacetkrát</form>
 <tag>
 <AM lemma="dvacetkrát`20" src="auto" recommended="1">Cv-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1922-001-p1s1W31-Ta">
 <src.rf>tagger-a</src.rf>

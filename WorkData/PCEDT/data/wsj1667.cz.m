@@ -364,8 +364,6 @@
 <form>1.5</form>
 <tag>
 <AM lemma="1.5" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1667-001-p1s0W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -377,8 +375,6 @@
 <AM lemma="mílový" src="auto" recommended="1">AAIS6----1A----</AM>
 <AM lemma="mílový" src="auto">AAMS6----1A----</AM>
 <AM lemma="mílový" src="auto">AANS6----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1667-001-p1s0W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6732,8 +6728,6 @@
 <AM lemma="sanfranciský" src="auto">AAMS2----1A----</AM>
 <AM lemma="sanfranciský" src="auto">AAMS4----1A----</AM>
 <AM lemma="sanfranciský" src="auto">AANS2----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1667-001-p1s23W16-Ta">
 <src.rf>tagger-a</src.rf>

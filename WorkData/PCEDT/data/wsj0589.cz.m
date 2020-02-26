@@ -13924,8 +13924,6 @@
 <form>řadou</form>
 <tag>
 <AM lemma="řada_^(linka,zástup,pořadí,...)" src="auto" recommended="1">NNFS7-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0589-001-p1s46W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -14650,8 +14648,6 @@
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS4-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0589-001-p1s49W2-Ta">
 <src.rf>tagger-a</src.rf>

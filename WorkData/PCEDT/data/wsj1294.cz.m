@@ -5873,8 +5873,6 @@
 <AM lemma="ministerstvo" src="auto" recommended="1">NNNS1-----A----</AM>
 <AM lemma="ministerstvo" src="auto">NNNS4-----A----</AM>
 <AM lemma="ministerstvo" src="auto">NNNS5-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1294-001-p1s17W15-Ta">
 <src.rf>tagger-a</src.rf>

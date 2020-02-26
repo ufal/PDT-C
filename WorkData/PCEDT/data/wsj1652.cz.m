@@ -5126,8 +5126,6 @@
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS4-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1652-001-p1s19W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5805,8 +5803,6 @@
 <AM lemma="síla_^(fyzická,_vojenská;_moc)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="sílit_^(získávat_sílu)" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="sílit_^(získávat_sílu)" src="auto">Vi-S---3--A-I-4</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1652-001-p1s21W19-Ta">
 <src.rf>tagger-a</src.rf>

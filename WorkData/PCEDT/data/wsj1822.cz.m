@@ -7471,8 +7471,6 @@
 <AM lemma="odkupující_^(*5ovat)" src="auto">AGNS1-----A----</AM>
 <AM lemma="odkupující_^(*5ovat)" src="auto">AGNS4-----A----</AM>
 <AM lemma="odkupující_^(*5ovat)" src="auto">AGNS5-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1822-001-p1s23W5-Ta">
 <src.rf>tagger-a</src.rf>

@@ -907,8 +907,6 @@
 <AM lemma="Violetta_;Y" src="auto">NNFP4-----A----</AM>
 <AM lemma="Violetta_;Y" src="auto">NNFP5-----A----</AM>
 <AM lemma="Violetta_;Y" src="auto" recommended="1">NNFS2-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1154-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3616,8 +3614,6 @@
 <tag>
 <AM lemma="Harringtonová_;S" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Harringtonová_;S" src="auto">NNFS5-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1154-001-p1s14W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6133,8 +6129,6 @@
 <AM lemma="nemotorný" src="auto">AAIP7----1A----</AM>
 <AM lemma="nemotorný" src="auto">AAMP7----1A----</AM>
 <AM lemma="nemotorný" src="auto" recommended="1">AANP7----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1154-001-p1s22W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9756,8 +9750,6 @@
 <form>zazpívat</form>
 <tag>
 <AM lemma="zazpívat" src="auto" recommended="1">Vf--------A-P--</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1154-001-p1s34W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13385,8 +13377,6 @@
 <AM lemma="vysoký" src="auto">AANP5----1A----</AM>
 <AM lemma="vysoká_^(zvěř)" src="auto">NNFS1-----A----</AM>
 <AM lemma="vysoká_^(zvěř)" src="auto">NNFS5-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1154-001-p1s45W12-Ta">
 <src.rf>tagger-a</src.rf>

@@ -2878,8 +2878,6 @@
 <tag>
 <AM lemma="investor" src="auto" recommended="1">NNMP1-----A----</AM>
 <AM lemma="investor" src="auto">NNMP5-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2415-001-p1s14W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13006,8 +13004,6 @@
 <tag>
 <AM lemma="takzvaný_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
 <AM lemma="takzvaně_:B" src="auto">Dg-------1A---8</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2415-001-p1s54W21-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -13017,8 +13013,6 @@
 <form>.</form>
 <tag>
 <AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2415-001-p1s54W22-Ta">
 <src.rf>tagger-a</src.rf>

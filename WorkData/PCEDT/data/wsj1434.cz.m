@@ -6434,8 +6434,6 @@
 <AM lemma="mezibankovní" src="auto">AANS1----1A----</AM>
 <AM lemma="mezibankovní" src="auto">AANS4----1A----</AM>
 <AM lemma="mezibankovní" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1434-001-p1s21W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8670,8 +8668,6 @@
 <AM lemma="sdružení_^(*3it)" src="auto">NNNS4-----A----</AM>
 <AM lemma="sdružení_^(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="sdružení_^(*3it)" src="auto">NNNS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1434-001-p1s27W5-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1031,8 +1031,6 @@
 <tag>
 <AM lemma="obligace" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="obligace" src="auto">NNFS7-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0476-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3427,8 +3425,6 @@
 <form>30</form>
 <tag>
 <AM lemma="30" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0476-001-p1s13W21-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -3441,8 +3437,6 @@
 <AM lemma="denní" src="auto">AAMS2----1A----</AM>
 <AM lemma="denní" src="auto">AAMS4----1A----</AM>
 <AM lemma="denní" src="auto">AANS2----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0476-001-p1s13W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4221,8 +4215,6 @@
 <form>certifikátů</form>
 <tag>
 <AM lemma="certifikát" src="auto" recommended="1">NNIP2-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0476-001-p1s16W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5549,8 +5541,6 @@
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGMS2-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGMS4-----A----</AM>
 <AM lemma="zahrnující_^(*5ovat)" src="auto">AGNS2-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0476-001-p1s21W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6339,8 +6329,6 @@
 <AM lemma="pojišťovací_^(*2t)" src="auto">AANS1----1A----</AM>
 <AM lemma="pojišťovací_^(*2t)" src="auto">AANS4----1A----</AM>
 <AM lemma="pojišťovací_^(*2t)" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0476-001-p1s26W3-Ta">
 <src.rf>tagger-a</src.rf>

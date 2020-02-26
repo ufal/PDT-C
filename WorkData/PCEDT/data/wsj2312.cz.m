@@ -318,8 +318,6 @@
 <form>64</form>
 <tag>
 <AM lemma="64" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2312-001-p1s1W13-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -336,8 +334,6 @@
 <AM lemma="palcový" src="auto">AAMP6----1A----</AM>
 <AM lemma="palcový" src="auto">AANP2----1A----</AM>
 <AM lemma="palcový" src="auto">AANP6----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2312-001-p1s1W14-Ta">
 <src.rf>tagger-a</src.rf>

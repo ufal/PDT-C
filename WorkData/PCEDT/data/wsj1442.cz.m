@@ -13903,8 +13903,6 @@
 <AM lemma="spojený_^(*3it)" src="auto">AANP3----1A----</AM>
 <AM lemma="spojený_^(*3it)" src="auto">AANS6----1A---7</AM>
 <AM lemma="spojený_^(*3it)" src="auto">AANS7----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1442-001-p1s41W17-Ta">
 <src.rf>tagger-a</src.rf>

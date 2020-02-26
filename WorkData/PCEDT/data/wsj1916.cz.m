@@ -1123,8 +1123,6 @@
 <form>2.5</form>
 <tag>
 <AM lemma="2.5" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1916-001-p1s3W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1137,8 +1135,6 @@
 <AM lemma="mílový" src="auto">AAMS2----1A----</AM>
 <AM lemma="mílový" src="auto">AAMS4----1A----</AM>
 <AM lemma="mílový" src="auto">AANS2----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1916-001-p1s3W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2974,8 +2970,6 @@
 <form>2.5</form>
 <tag>
 <AM lemma="2.5" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1916-001-p1s8W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2988,8 +2982,6 @@
 <AM lemma="mílový" src="auto">AAMS2----1A----</AM>
 <AM lemma="mílový" src="auto">AAMS4----1A----</AM>
 <AM lemma="mílový" src="auto">AANS2----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1916-001-p1s8W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7469,8 +7461,6 @@
 <form>55</form>
 <tag>
 <AM lemma="55" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1916-001-p1s22W10-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -7483,8 +7473,6 @@
 <AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AAMS2----1A----</AM>
 <AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AAMS4----1A----</AM>
 <AM lemma="milionový_,s_^(^DD**miliónový)" src="auto">AANS2----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1916-001-p1s22W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8280,8 +8268,6 @@
 <form>právník</form>
 <tag>
 <AM lemma="právník" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1916-001-p1s24W30-Ta">
 <src.rf>tagger-a</src.rf>

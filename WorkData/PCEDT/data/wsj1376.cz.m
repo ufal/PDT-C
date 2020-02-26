@@ -10096,8 +10096,6 @@
 <tag>
 <AM lemma="Cleveland_;G" src="auto">NNIS1-----A----</AM>
 <AM lemma="Cleveland_;G" src="auto" recommended="1">NNIS4-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1376-001-p1s36W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12749,8 +12747,6 @@
 <form>3.2</form>
 <tag>
 <AM lemma="3.2" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1376-001-p1s44W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12782,8 +12778,6 @@
 <AM lemma="akrový" src="auto">AANS1----1A---6</AM>
 <AM lemma="akrový" src="auto">AANS4----1A---6</AM>
 <AM lemma="akrový" src="auto">AANS5----1A---6</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1376-001-p1s44W8-Ta">
 <src.rf>tagger-a</src.rf>

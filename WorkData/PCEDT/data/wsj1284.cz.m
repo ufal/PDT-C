@@ -4456,8 +4456,6 @@
 <form>dvacetkrát</form>
 <tag>
 <AM lemma="dvacetkrát`20" src="auto" recommended="1">Cv-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1284-001-p1s12W5-Ta">
 <src.rf>tagger-a</src.rf>

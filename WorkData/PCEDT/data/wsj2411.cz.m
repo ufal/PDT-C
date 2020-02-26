@@ -491,8 +491,6 @@
 <AM lemma="kanadský" src="auto">AANS1----1A----</AM>
 <AM lemma="kanadský" src="auto">AANS4----1A----</AM>
 <AM lemma="kanadský" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2411-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>

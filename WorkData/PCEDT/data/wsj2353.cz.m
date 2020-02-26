@@ -1765,8 +1765,6 @@
 <AM lemma="milión`1000000" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="milión`1000000" src="auto">NNIP5-----A----</AM>
 <AM lemma="milión`1000000" src="auto">NNIP7-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2353-001-p1s4W29-Ta">
 <src.rf>tagger-a</src.rf>

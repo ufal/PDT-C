@@ -619,8 +619,6 @@
 <tag>
 <AM lemma="úřad" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="úřad" src="auto">NNIS4-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2366-001-p1s5W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4304,8 +4302,6 @@
 <tag>
 <AM lemma="tento" src="auto">PDIS4----------</AM>
 <AM lemma="tento" src="auto" recommended="1">PDYS1----------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2366-001-p1s21W2-Ta">
 <src.rf>tagger-a</src.rf>

@@ -5132,8 +5132,6 @@
 <form>pokračují</form>
 <tag>
 <AM lemma="pokračovat" src="auto" recommended="1">VB-P---3P-AAI--</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0725-001-p1s22W26-Ta">
 <src.rf>tagger-a</src.rf>

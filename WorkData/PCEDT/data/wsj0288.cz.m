@@ -4770,8 +4770,6 @@
 <form>lodích</form>
 <tag>
 <AM lemma="loď" src="auto" recommended="1">NNFP6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0288-001-p1s14W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9192,8 +9190,6 @@
 <AM lemma="životní_^(souvisí_se_životem;_prostředí,...)" src="auto">AAMS2----1A----</AM>
 <AM lemma="životní_^(souvisí_se_životem;_prostředí,...)" src="auto">AAMS4----1A----</AM>
 <AM lemma="životní_^(souvisí_se_životem;_prostředí,...)" src="auto" recommended="1">AANS2----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0288-001-p1s26W18-Ta">
 <src.rf>tagger-a</src.rf>

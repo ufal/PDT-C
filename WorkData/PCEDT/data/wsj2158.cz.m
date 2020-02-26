@@ -823,8 +823,6 @@
 <AM lemma="b-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="bod_:B" src="auto">NNIXX-----A----</AM>
 <AM lemma="bodový" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2158-001-p1s1W33-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -834,8 +832,6 @@
 <form>.</form>
 <tag>
 <AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2158-001-p1s1W33-Ta-sw2">
 <src.rf>tagger-a</src.rf>
@@ -850,8 +846,6 @@
 <AM lemma="b-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="bod_:B" src="auto">NNIXX-----A----</AM>
 <AM lemma="bodový" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2158-001-p1s1W34-Ta">
 <src.rf>tagger-a</src.rf>

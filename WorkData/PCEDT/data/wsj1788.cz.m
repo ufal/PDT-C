@@ -1033,8 +1033,6 @@
 <AM lemma="sněmovní" src="auto">AAMS2----1A----</AM>
 <AM lemma="sněmovní" src="auto">AAMS4----1A----</AM>
 <AM lemma="sněmovní" src="auto">AANS2----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1788-001-p1s2W20-Ta">
 <src.rf>tagger-a</src.rf>

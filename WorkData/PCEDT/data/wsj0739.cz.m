@@ -953,8 +953,6 @@
 <AM lemma="týdeník" src="auto">NNIS3-----A----</AM>
 <AM lemma="týdeník" src="auto">NNIS5-----A----</AM>
 <AM lemma="týdeník" src="auto">NNIS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0739-001-p1s2W24-Ta">
 <src.rf>tagger-a</src.rf>

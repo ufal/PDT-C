@@ -1198,8 +1198,6 @@
 <form>1.65</form>
 <tag>
 <AM lemma="1.65" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0316-001-p1s4W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1212,8 +1210,6 @@
 <AM lemma="násobek" src="auto">NNIS3-----A----</AM>
 <AM lemma="násobek" src="auto">NNIS5-----A----</AM>
 <AM lemma="násobek" src="auto">NNIS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0316-001-p1s4W9-Ta">
 <src.rf>tagger-a</src.rf>

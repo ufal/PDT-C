@@ -4502,8 +4502,6 @@
 <form>společnostech</form>
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFP6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0404-001-p1s13W15-Ta">
 <src.rf>tagger-a</src.rf>

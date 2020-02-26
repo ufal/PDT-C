@@ -4930,8 +4930,6 @@
 <tag>
 <AM lemma="zamezit" src="auto">VB-P---3P-AAP--</AM>
 <AM lemma="zamezit" src="auto" recommended="1">VB-S---3P-AAP--</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1789-001-p1s18W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7870,8 +7868,6 @@
 <AM lemma="investiční" src="auto" recommended="1">AAIS3----1A----</AM>
 <AM lemma="investiční" src="auto">AAMS3----1A----</AM>
 <AM lemma="investiční" src="auto">AANS3----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1789-001-p1s30W5-Ta">
 <src.rf>tagger-a</src.rf>

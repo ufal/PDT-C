@@ -6392,8 +6392,6 @@
 <form>3.5</form>
 <tag>
 <AM lemma="3.5" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1606-001-p1s20W16-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6418,8 +6416,6 @@
 <AM lemma="palcový" src="auto">AANS1----1A----</AM>
 <AM lemma="palcový" src="auto">AANS4----1A----</AM>
 <AM lemma="palcový" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1606-001-p1s20W17-Ta">
 <src.rf>tagger-a</src.rf>

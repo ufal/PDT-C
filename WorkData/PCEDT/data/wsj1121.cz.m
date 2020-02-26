@@ -6418,8 +6418,6 @@
 <form>18</form>
 <tag>
 <AM lemma="18" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1121-001-p1s24W4-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -6444,8 +6442,6 @@
 <AM lemma="jamkový" src="auto" recommended="1">AANS1----1A----</AM>
 <AM lemma="jamkový" src="auto">AANS4----1A----</AM>
 <AM lemma="jamkový" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1121-001-p1s24W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7323,8 +7319,6 @@
 <tag>
 <AM lemma="namibijský" src="auto">AAFS4----1A----</AM>
 <AM lemma="namibijský" src="auto" recommended="1">AAFS7----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1121-001-p1s27W13-Ta">
 <src.rf>tagger-a</src.rf>

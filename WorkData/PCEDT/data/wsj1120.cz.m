@@ -4525,8 +4525,6 @@
 <form>konferencích</form>
 <tag>
 <AM lemma="konference" src="auto" recommended="1">NNFP6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1120-001-p1s20W12-Ta">
 <src.rf>tagger-a</src.rf>

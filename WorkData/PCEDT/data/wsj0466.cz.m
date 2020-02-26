@@ -712,8 +712,6 @@
 <tag>
 <AM lemma="výrobek" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="výrobek" src="auto">NNIS4-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0466-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7692,8 +7690,6 @@
 <AM lemma="na-1" src="auto">RR--4----------</AM>
 <AM lemma="na-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="na-2" src="auto">II-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0466-001-p1s28W20-Ta">
 <src.rf>tagger-a</src.rf>

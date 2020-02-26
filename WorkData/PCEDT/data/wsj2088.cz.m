@@ -660,8 +660,6 @@
 <AM lemma="Hollanderův_;S_^(*2)" src="auto">AUNP4M---------</AM>
 <AM lemma="Hollanderův_;S_^(*2)" src="auto">AUNP5M---------</AM>
 <AM lemma="Hollanderův_;S_^(*2)" src="auto">AUNS2M---------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2088-001-p1s1W2-Ta">
 <src.rf>tagger-a</src.rf>

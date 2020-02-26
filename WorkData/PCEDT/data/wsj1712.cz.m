@@ -990,8 +990,6 @@
 <form>jsou</form>
 <tag>
 <AM lemma="být" src="auto" recommended="1">VB-P---3P-AAI--</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1712-001-p1s2W21-Ta">
 <src.rf>tagger-a</src.rf>

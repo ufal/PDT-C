@@ -5009,8 +5009,6 @@
 <form>láme</form>
 <tag>
 <AM lemma="lámat" src="auto" recommended="1">VB-S---3P-AAI--</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1094-001-p1s21W6-Ta">
 <src.rf>tagger-a</src.rf>

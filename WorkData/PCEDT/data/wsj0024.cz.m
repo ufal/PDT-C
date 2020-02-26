@@ -1287,8 +1287,6 @@
 <form>polích</form>
 <tag>
 <AM lemma="pole" src="auto" recommended="1">NNNP6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0024-001-p1s5W7-Ta">
 <src.rf>tagger-a</src.rf>

@@ -2967,8 +2967,6 @@
 <AM lemma="film" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="film" src="auto">NNIS3-----A----</AM>
 <AM lemma="film" src="auto">NNIS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0039-001-p1s10W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8338,8 +8336,6 @@
 <AM lemma="Louisa_;Y_,t" src="auto">NNFS3-----A----</AM>
 <AM lemma="Louisa_;Y_,t" src="auto">NNFS6-----A----</AM>
 <AM lemma="Louise_;Y" src="auto" recommended="1">NNFXX-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0039-001-p1s32W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9286,8 +9282,6 @@
 <AM lemma="Louisa_;Y_,t" src="auto">NNFS3-----A----</AM>
 <AM lemma="Louisa_;Y_,t" src="auto">NNFS6-----A----</AM>
 <AM lemma="Louise_;Y" src="auto" recommended="1">NNFXX-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0039-001-p1s37W4-Ta">
 <src.rf>tagger-a</src.rf>

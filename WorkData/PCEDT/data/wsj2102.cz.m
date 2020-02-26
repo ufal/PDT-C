@@ -9020,8 +9020,6 @@
 <AM lemma="světový" src="auto">AANS1----1A----</AM>
 <AM lemma="světový" src="auto">AANS4----1A----</AM>
 <AM lemma="světový" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2102-001-p1s28W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11612,8 +11610,6 @@
 <form>Kolumbijců</form>
 <tag>
 <AM lemma="Kolumbijec_;E" src="auto" recommended="1">NNMP2-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2102-001-p1s37W20-Ta">
 <src.rf>tagger-a</src.rf>

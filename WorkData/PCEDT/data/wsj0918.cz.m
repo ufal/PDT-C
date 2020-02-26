@@ -2592,8 +2592,6 @@
 <form>jsme</form>
 <tag>
 <AM lemma="být" src="auto" recommended="1">VB-P---1P-AAI--</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0918-001-p1s8W4-Ta">
 <src.rf>tagger-a</src.rf>

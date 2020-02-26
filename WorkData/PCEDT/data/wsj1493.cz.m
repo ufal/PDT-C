@@ -2339,8 +2339,6 @@
 <form>19</form>
 <tag>
 <AM lemma="19" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1493-001-p1s8W11-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -2365,8 +2363,6 @@
 <AM lemma="letý" src="auto">AANS1----1A----</AM>
 <AM lemma="letý" src="auto">AANS4----1A----</AM>
 <AM lemma="letý" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1493-001-p1s8W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11034,8 +11030,6 @@
 <tag>
 <AM lemma="jamajský" src="auto">AAFS4----1A----</AM>
 <AM lemma="jamajský" src="auto" recommended="1">AAFS7----1A----</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1493-001-p1s36W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11045,8 +11039,6 @@
 <form>firmou</form>
 <tag>
 <AM lemma="firma" src="auto" recommended="1">NNFS7-----A----</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1493-001-p1s36W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11057,8 +11049,6 @@
 <tag>
 <AM lemma="najatý_^(*3mout)" src="auto">AAFS4----1A----</AM>
 <AM lemma="najatý_^(*3mout)" src="auto" recommended="1">AAFS7----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1493-001-p1s36W25-Ta">
 <src.rf>tagger-a</src.rf>

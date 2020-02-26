@@ -2208,8 +2208,6 @@
 <tag>
 <AM lemma="přestěhovaný_^(*2t)" src="auto" recommended="1">AAMP1----1A----</AM>
 <AM lemma="přestěhovaný_^(*2t)" src="auto">AAMP5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1561-001-p1s8W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4023,8 +4021,6 @@
 <AM lemma="pouhý" src="auto">AANP1----1A----</AM>
 <AM lemma="pouhý" src="auto" recommended="1">AANP4----1A----</AM>
 <AM lemma="pouhý" src="auto">AANP5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1561-001-p1s12W36-Ta">
 <src.rf>tagger-a</src.rf>

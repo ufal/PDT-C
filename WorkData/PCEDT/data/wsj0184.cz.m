@@ -736,8 +736,6 @@
 <AM lemma="důchod" src="auto">NNIS2-----A----</AM>
 <AM lemma="důchod" src="auto">NNIS3-----A----</AM>
 <AM lemma="důchod" src="auto" recommended="1">NNIS6-----A---1</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0184-001-p1s1W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -807,8 +805,6 @@
 <AM lemma="vyjádření_^(*3it)" src="auto">NNNS4-----A----</AM>
 <AM lemma="vyjádření_^(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="vyjádření_^(*3it)" src="auto">NNNS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0184-001-p1s2W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2413,8 +2409,6 @@
 <form>zaměstnanců</form>
 <tag>
 <AM lemma="zaměstnanec" src="auto" recommended="1">NNMP2-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0184-001-p1s8W14-Ta">
 <src.rf>tagger-a</src.rf>

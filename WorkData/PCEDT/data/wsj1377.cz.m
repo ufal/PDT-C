@@ -1025,8 +1025,6 @@
 <form>dlouhodobě</form>
 <tag>
 <AM lemma="dlouhodobě_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1377-001-p1s5W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5813,8 +5811,6 @@
 <form>55</form>
 <tag>
 <AM lemma="55" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1377-001-p1s22W3-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -5828,8 +5824,6 @@
 <AM lemma="letý" src="auto">AANP1----1A----</AM>
 <AM lemma="letý" src="auto">AANP4----1A----</AM>
 <AM lemma="letý" src="auto">AANP5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1377-001-p1s22W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -15476,8 +15470,6 @@
 <AM lemma="zřetelný" src="auto">AANS1----1A---6</AM>
 <AM lemma="zřetelný" src="auto">AANS4----1A---6</AM>
 <AM lemma="zřetelný" src="auto">AANS5----1A---6</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1377-001-p1s56W7-Ta">
 <src.rf>tagger-a</src.rf>

@@ -5103,8 +5103,6 @@
 <form>magnátem</form>
 <tag>
 <AM lemma="magnát" src="auto" recommended="1">NNMS7-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2345-001-p1s15W18-Ta">
 <src.rf>tagger-a</src.rf>

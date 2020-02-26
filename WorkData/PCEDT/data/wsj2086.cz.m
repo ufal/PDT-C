@@ -1238,8 +1238,6 @@
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2086-001-p1s4W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10793,8 +10791,6 @@
 <tag>
 <AM lemma="svůj-1_^(přivlast.)" src="auto">P8MS4----------</AM>
 <AM lemma="svůj-1_^(přivlast.)" src="auto" recommended="1">P8ZS2----------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2086-001-p1s36W17-Ta">
 <src.rf>tagger-a</src.rf>

@@ -2037,8 +2037,6 @@
 <AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGMP6-----A----</AM>
 <AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGNP2-----A----</AM>
 <AM lemma="rostoucí-2_^(*9ůst-2)" src="auto">AGNP6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2341-001-p1s4W27-Ta">
 <src.rf>tagger-a</src.rf>

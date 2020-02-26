@@ -8826,8 +8826,6 @@
 <AM lemma="přezkoumání_^(*3at)" src="auto">NNNS4-----A----</AM>
 <AM lemma="přezkoumání_^(*3at)" src="auto">NNNS5-----A----</AM>
 <AM lemma="přezkoumání_^(*3at)" src="auto">NNNS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2331-001-p1s27W2-Ta">
 <src.rf>tagger-a</src.rf>

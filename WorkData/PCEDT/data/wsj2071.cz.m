@@ -981,8 +981,6 @@
 <tag>
 <AM lemma="takzvaný_:B" src="auto" recommended="1">AAXXX----1A---8</AM>
 <AM lemma="takzvaně_:B" src="auto">Dg-------1A---8</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2071-001-p1s2W4-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -992,8 +990,6 @@
 <form>.</form>
 <tag>
 <AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2071-001-p1s2W5-Ta">
 <src.rf>tagger-a</src.rf>

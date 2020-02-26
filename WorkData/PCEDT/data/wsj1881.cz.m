@@ -302,8 +302,6 @@
 <form>být</form>
 <tag>
 <AM lemma="být" src="auto" recommended="1">Vf--------A-I--</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1881-001-p1s0W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -696,8 +694,6 @@
 <form>milionů</form>
 <tag>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIP2-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1881-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9481,8 +9477,6 @@
 <AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1881-001-p1s31W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11440,8 +11434,6 @@
 <form>začlenit</form>
 <tag>
 <AM lemma="začlenit" src="auto" recommended="1">Vf--------A-P--</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1881-001-p1s40W23-Ta">
 <src.rf>tagger-a</src.rf>

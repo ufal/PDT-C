@@ -11835,8 +11835,6 @@
 <AM lemma="můj_^(přivlast.)" src="auto">PSIS4-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto" recommended="1">PSYS1-P1-------</AM>
 <AM lemma="můj_^(přivlast.)" src="auto">PSYS5-P1-------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2104-001-p1s30W15-Ta">
 <src.rf>tagger-a</src.rf>

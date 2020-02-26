@@ -12867,8 +12867,6 @@
 <AM lemma="nutný" src="auto">AANP1----1A----</AM>
 <AM lemma="nutný" src="auto">AANP4----1A----</AM>
 <AM lemma="nutný" src="auto">AANP5----1A----</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0314-001-p1s42W17-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -12878,8 +12876,6 @@
 <form>'</form>
 <tag>
 <AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0314-001-p1s42W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12917,8 +12913,6 @@
 <AM lemma="přiměřený_^(*3it)" src="auto">AANP1----1A----</AM>
 <AM lemma="přiměřený_^(*3it)" src="auto">AANP4----1A----</AM>
 <AM lemma="přiměřený_^(*3it)" src="auto">AANP5----1A----</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0314-001-p1s42W20-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -12928,8 +12922,6 @@
 <form>'</form>
 <tag>
 <AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0314-001-p1s42W21-Ta">
 <src.rf>tagger-a</src.rf>

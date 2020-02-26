@@ -14305,8 +14305,6 @@
 <AM lemma="jež-99_:B_;S" src="auto">NNXXX-----A----</AM>
 <AM lemma="ježit" src="auto">Vi-S---2--A-I--</AM>
 <AM lemma="ježit" src="auto">Vi-S---3--A-I-4</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0446-001-p1s44W20-Ta">
 <src.rf>tagger-a</src.rf>

@@ -14148,8 +14148,6 @@
 <form>ohledech</form>
 <tag>
 <AM lemma="ohled" src="auto" recommended="1">NNIP6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2034-001-p1s44W13-Ta">
 <src.rf>tagger-a</src.rf>

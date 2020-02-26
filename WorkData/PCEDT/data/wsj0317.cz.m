@@ -443,8 +443,6 @@
 <AM lemma="r-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="r-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="rok_:B" src="auto">NNIXX-----A---8</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0317-001-p1s1W2-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -454,8 +452,6 @@
 <form>.</form>
 <tag>
 <AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0317-001-p1s1W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2468,8 +2464,6 @@
 <form>62.875</form>
 <tag>
 <AM lemma="62.875" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0317-001-p1s6W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2551,8 +2545,6 @@
 <form>20.125</form>
 <tag>
 <AM lemma="20.125" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0317-001-p1s6W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2855,8 +2847,6 @@
 <form>50.875</form>
 <tag>
 <AM lemma="50.875" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0317-001-p1s7W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5916,8 +5906,6 @@
 <form>dolarů</form>
 <tag>
 <AM lemma="dolar" src="auto" recommended="1">NNIP2-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0317-001-p1s17W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -15975,8 +15963,6 @@
 <tag>
 <AM lemma="kandidát" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="kandidát" src="auto">NNMP7-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0317-001-p1s52W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -16658,8 +16644,6 @@
 <form>27.875</form>
 <tag>
 <AM lemma="27.875" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0317-001-p1s53W39-Ta">
 <src.rf>tagger-a</src.rf>
@@ -16754,8 +16738,6 @@
 <form>2.375</form>
 <tag>
 <AM lemma="2.375" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0317-001-p1s53W47-Ta">
 <src.rf>tagger-a</src.rf>

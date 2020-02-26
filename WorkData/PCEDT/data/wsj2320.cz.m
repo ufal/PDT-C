@@ -728,8 +728,6 @@
 <form>Vzrůstají</form>
 <tag>
 <AM lemma="vzrůstat" src="auto" recommended="1">VB-P---3P-AAI--</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2320-001-p1s3W2-Ta">
 <src.rf>tagger-a</src.rf>

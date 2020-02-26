@@ -2313,8 +2313,6 @@
 <form>patnáctkrát</form>
 <tag>
 <AM lemma="patnáctkrát`15_^(*4)" src="auto" recommended="1">Cv-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2019-001-p1s10W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3776,8 +3774,6 @@
 <AM lemma="mimoburzovní" src="auto">AAMS2----1A----</AM>
 <AM lemma="mimoburzovní" src="auto">AAMS4----1A----</AM>
 <AM lemma="mimoburzovní" src="auto" recommended="1">AANS2----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2019-001-p1s18W6-Ta">
 <src.rf>tagger-a</src.rf>

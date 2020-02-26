@@ -3228,8 +3228,6 @@
 <form>30</form>
 <tag>
 <AM lemma="30" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1782-001-p1s11W8-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -3246,8 +3244,6 @@
 <AM lemma="letý" src="auto">AAMP6----1A----</AM>
 <AM lemma="letý" src="auto">AANP2----1A----</AM>
 <AM lemma="letý" src="auto">AANP6----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1782-001-p1s11W9-Ta">
 <src.rf>tagger-a</src.rf>

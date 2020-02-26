@@ -606,8 +606,6 @@
 <AM lemma="střední" src="auto">AAMS2----1A----</AM>
 <AM lemma="střední" src="auto">AAMS4----1A----</AM>
 <AM lemma="střední" src="auto">AANS2----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0999-001-p1s2W14-Ta">
 <src.rf>tagger-a</src.rf>

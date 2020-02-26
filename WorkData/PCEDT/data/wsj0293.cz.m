@@ -289,8 +289,6 @@
 <tag>
 <AM lemma="úřad" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="úřad" src="auto">NNIS4-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0293-001-p1s1W9-Ta">
 <src.rf>tagger-a</src.rf>

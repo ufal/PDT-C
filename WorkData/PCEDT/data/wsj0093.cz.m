@@ -2672,8 +2672,6 @@
 <form>-</form>
 <tag>
 <AM lemma="-" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0093-001-p1s7W23-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -2684,8 +2682,6 @@
 <form>4</form>
 <tag>
 <AM lemma="4" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0093-001-p1s7W24-Ta">
 <src.rf>tagger-a</src.rf>

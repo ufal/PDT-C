@@ -4870,8 +4870,6 @@
 <AM lemma="jen-2_^(japonská_měna)" src="auto">NNIS4-----A----</AM>
 <AM lemma="jen-3" src="auto">J,-------------</AM>
 <AM lemma="jen-4_^(pouze)" src="auto" recommended="1">Db-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0456-001-p1s18W15-Ta">
 <src.rf>tagger-a</src.rf>

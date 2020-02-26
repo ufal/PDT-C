@@ -2602,8 +2602,6 @@
 <form>52</form>
 <tag>
 <AM lemma="52" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2376-001-p1s12W19-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -2616,8 +2614,6 @@
 <AM lemma="týdenní" src="auto">AAMS2----1A----</AM>
 <AM lemma="týdenní" src="auto">AAMS4----1A----</AM>
 <AM lemma="týdenní" src="auto" recommended="1">AANS2----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2376-001-p1s12W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4723,8 +4719,6 @@
 <form>12.5</form>
 <tag>
 <AM lemma="12.5" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2376-001-p1s24W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4735,8 +4729,6 @@
 <tag>
 <AM lemma="násobek" src="auto">NNIS1-----A----</AM>
 <AM lemma="násobek" src="auto" recommended="1">NNIS4-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2376-001-p1s24W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10941,8 +10933,6 @@
 <AM lemma="finanční" src="auto">AANS1----1A----</AM>
 <AM lemma="finanční" src="auto">AANS4----1A----</AM>
 <AM lemma="finanční" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2376-001-p1s59W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11078,8 +11068,6 @@
 <form>Galbraith</form>
 <tag>
 <AM lemma="Galbraith_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2376-001-p1s59W18-Ta">
 <src.rf>tagger-a</src.rf>

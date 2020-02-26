@@ -792,8 +792,6 @@
 <AM lemma="doporučující_^(*5ovat)" src="auto">AGMP6-----A----</AM>
 <AM lemma="doporučující_^(*5ovat)" src="auto">AGNP2-----A----</AM>
 <AM lemma="doporučující_^(*5ovat)" src="auto">AGNP6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2412-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1666,8 +1664,6 @@
 <form>Claiborne</form>
 <tag>
 <AM lemma="Claiborne_;S" src="auto" recommended="1">NNFXX-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2412-001-p1s4W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10640,8 +10636,6 @@
 <form>víc</form>
 <tag>
 <AM lemma="hodně-3" src="auto" recommended="1">Dg-------2A---1</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2412-001-p1s56W22-Ta">
 <src.rf>tagger-a</src.rf>

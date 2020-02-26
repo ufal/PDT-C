@@ -807,8 +807,6 @@
 <AM lemma="odpovídající_^(*4t)" src="auto">AGNP3-----A----</AM>
 <AM lemma="odpovídající_^(*4t)" src="auto">AGNS6-----A----</AM>
 <AM lemma="odpovídající_^(*4t)" src="auto">AGNS7-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0232-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>

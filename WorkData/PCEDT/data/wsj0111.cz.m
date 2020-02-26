@@ -37,8 +37,6 @@
 <AM lemma="letopočet_:B" src="auto">NNIS2-----A---8</AM>
 <AM lemma="letopočet_:B" src="auto">NNIS7-----A---8</AM>
 <AM lemma="litr" src="auto">NNIXX-----A---8</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0111-001-p1s0W2-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -48,8 +46,6 @@
 <form>.</form>
 <tag>
 <AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0111-001-p1s0W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -513,8 +509,6 @@
 <AM lemma="letopočet_:B" src="auto">NNIS2-----A---8</AM>
 <AM lemma="letopočet_:B" src="auto">NNIS7-----A---8</AM>
 <AM lemma="litr" src="auto">NNIXX-----A---8</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0111-001-p1s1W14-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -524,8 +518,6 @@
 <form>.</form>
 <tag>
 <AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0111-001-p1s1W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1027,8 +1019,6 @@
 <AM lemma="letopočet_:B" src="auto">NNIS2-----A---8</AM>
 <AM lemma="letopočet_:B" src="auto">NNIS7-----A---8</AM>
 <AM lemma="litr" src="auto">NNIXX-----A---8</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0111-001-p1s3W2-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -1038,8 +1028,6 @@
 <form>.</form>
 <tag>
 <AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0111-001-p1s3W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1210,8 +1198,6 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0111-001-p1s3W17-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -1221,8 +1207,6 @@
 <form>.</form>
 <tag>
 <AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0111-001-p1s3W17-Ta-sw2">
 <src.rf>tagger-a</src.rf>
@@ -1239,8 +1223,6 @@
 <AM lemma="i-2" src="auto">TT-------------</AM>
 <AM lemma="i-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="i-88_:B" src="auto">NNXXX-----A----</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0111-001-p1s3W17-Ta-sw3">
 <src.rf>tagger-a</src.rf>
@@ -1250,8 +1232,6 @@
 <form>.</form>
 <tag>
 <AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0111-001-p1s3W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1693,8 +1673,6 @@
 <AM lemma="letopočet_:B" src="auto">NNIS2-----A---8</AM>
 <AM lemma="letopočet_:B" src="auto">NNIS7-----A---8</AM>
 <AM lemma="litr" src="auto">NNIXX-----A---8</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0111-001-p1s6W2-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -1704,8 +1682,6 @@
 <form>.</form>
 <tag>
 <AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0111-001-p1s6W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2497,8 +2473,6 @@
 <AM lemma="letopočet_:B" src="auto">NNIS2-----A---8</AM>
 <AM lemma="letopočet_:B" src="auto">NNIS7-----A---8</AM>
 <AM lemma="litr" src="auto">NNIXX-----A---8</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0111-001-p1s8W21-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -2508,8 +2482,6 @@
 <form>.</form>
 <tag>
 <AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0111-001-p1s8W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3764,8 +3736,6 @@
 <AM lemma="letopočet_:B" src="auto">NNIS2-----A---8</AM>
 <AM lemma="letopočet_:B" src="auto">NNIS7-----A---8</AM>
 <AM lemma="litr" src="auto">NNIXX-----A---8</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0111-001-p1s15W2-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -3775,8 +3745,6 @@
 <form>.</form>
 <tag>
 <AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0111-001-p1s15W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6594,8 +6562,6 @@
 <AM lemma="letopočet_:B" src="auto">NNIS2-----A---8</AM>
 <AM lemma="letopočet_:B" src="auto">NNIS7-----A---8</AM>
 <AM lemma="litr" src="auto">NNIXX-----A---8</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0111-001-p1s23W2-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -6605,8 +6571,6 @@
 <form>.</form>
 <tag>
 <AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0111-001-p1s23W3-Ta">
 <src.rf>tagger-a</src.rf>

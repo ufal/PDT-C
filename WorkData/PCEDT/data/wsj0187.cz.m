@@ -2034,8 +2034,6 @@
 <AM lemma="každý" src="auto">AANS1----1A---6</AM>
 <AM lemma="každý" src="auto">AANS4----1A---6</AM>
 <AM lemma="každý" src="auto">AANS5----1A---6</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0187-001-p1s6W19-Ta">
 <src.rf>tagger-a</src.rf>

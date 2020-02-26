@@ -7793,8 +7793,6 @@
 <AM lemma="jen-2_^(japonská_měna)" src="auto">NNIS4-----A----</AM>
 <AM lemma="jen-3" src="auto">J,-------------</AM>
 <AM lemma="jen-4_^(pouze)" src="auto" recommended="1">Db-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0755-001-p1s26W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8309,8 +8307,6 @@
 <form>400</form>
 <tag>
 <AM lemma="400" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0755-001-p1s28W10-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -8346,8 +8342,6 @@
 <AM lemma="denní" src="auto">AANS1----1A----</AM>
 <AM lemma="denní" src="auto">AANS4----1A----</AM>
 <AM lemma="denní" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0755-001-p1s28W11-Ta">
 <src.rf>tagger-a</src.rf>

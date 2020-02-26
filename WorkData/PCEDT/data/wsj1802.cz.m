@@ -2517,8 +2517,6 @@
 <form>100</form>
 <tag>
 <AM lemma="100" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1802-001-p1s5W31-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -2531,8 +2529,6 @@
 <AM lemma="akciový" src="auto">AAMS2----1A----</AM>
 <AM lemma="akciový" src="auto">AAMS4----1A----</AM>
 <AM lemma="akciový" src="auto">AANS2----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1802-001-p1s5W32-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3813,8 +3809,6 @@
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS4-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1802-001-p1s8W9-Ta">
 <src.rf>tagger-a</src.rf>

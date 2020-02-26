@@ -1236,8 +1236,6 @@
 <form>většinu</form>
 <tag>
 <AM lemma="většina" src="auto" recommended="1">NNFS4-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0537-001-p1s2W41-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5584,8 +5582,6 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0537-001-p1s12W19-Ta">
 <src.rf>tagger-a</src.rf>

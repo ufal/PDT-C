@@ -9690,8 +9690,6 @@
 <AM lemma="Maguire_;S" src="auto" recommended="1">NNMS1-----A----</AM>
 <AM lemma="Maguire_;S" src="auto">NNMS5-----A----</AM>
 <AM lemma="Maguire_;S" src="auto">NNMXX-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1162-001-p1s32W2-Ta">
 <src.rf>tagger-a</src.rf>

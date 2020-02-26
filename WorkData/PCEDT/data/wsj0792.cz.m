@@ -199,8 +199,6 @@
 <form>48</form>
 <tag>
 <AM lemma="48" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0792-001-p1s0W17-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -238,8 +236,6 @@
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AANS5----1A----</AM>
 <AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP1----1A----</AM>
 <AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0792-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>

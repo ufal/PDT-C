@@ -7121,8 +7121,6 @@
 <form>90</form>
 <tag>
 <AM lemma="90" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0071-001-p1s24W20-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -7154,8 +7152,6 @@
 <AM lemma="dolarový" src="auto">AANS1----1A---6</AM>
 <AM lemma="dolarový" src="auto">AANS4----1A---6</AM>
 <AM lemma="dolarový" src="auto">AANS5----1A---6</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0071-001-p1s24W21-Ta">
 <src.rf>tagger-a</src.rf>

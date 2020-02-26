@@ -5909,8 +5909,6 @@
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0280-001-p1s25W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6944,8 +6942,6 @@
 <AM lemma="prodejní" src="auto">AANS5----1A----</AM>
 <AM lemma="prodejný" src="auto">AAMP1----1A----</AM>
 <AM lemma="prodejný" src="auto">AAMP5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0280-001-p1s29W15-Ta">
 <src.rf>tagger-a</src.rf>

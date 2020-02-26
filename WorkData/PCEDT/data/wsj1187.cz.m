@@ -607,8 +607,6 @@
 <form>100</form>
 <tag>
 <AM lemma="100" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1187-001-p1s2W2-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -640,8 +638,6 @@
 <AM lemma="akciový" src="auto">AANS1----1A---6</AM>
 <AM lemma="akciový" src="auto">AANS4----1A---6</AM>
 <AM lemma="akciový" src="auto">AANS5----1A---6</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1187-001-p1s2W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2130,8 +2126,6 @@
 <form>30</form>
 <tag>
 <AM lemma="30" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1187-001-p1s6W1-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -2163,8 +2157,6 @@
 <AM lemma="akciový" src="auto">AANS1----1A---6</AM>
 <AM lemma="akciový" src="auto">AANS4----1A---6</AM>
 <AM lemma="akciový" src="auto">AANS5----1A---6</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1187-001-p1s6W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6497,8 +6489,6 @@
 <AM lemma="pondělní" src="auto">AANP3----1A----</AM>
 <AM lemma="pondělní" src="auto">AANS6----1A----</AM>
 <AM lemma="pondělní" src="auto">AANS7----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1187-001-p1s20W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12639,8 +12629,6 @@
 <form>35</form>
 <tag>
 <AM lemma="35" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1187-001-p1s42W16-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -12653,8 +12641,6 @@
 <AM lemma="hodinový" src="auto">AAMS2----1A----</AM>
 <AM lemma="hodinový" src="auto">AAMS4----1A----</AM>
 <AM lemma="hodinový" src="auto">AANS2----1A----</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1187-001-p1s42W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12763,8 +12749,6 @@
 <form>37</form>
 <tag>
 <AM lemma="37" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1187-001-p1s42W25-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -12776,8 +12760,6 @@
 <AM lemma="hodinový" src="auto" recommended="1">AAIS3----1A----</AM>
 <AM lemma="hodinový" src="auto">AAMS3----1A----</AM>
 <AM lemma="hodinový" src="auto">AANS3----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1187-001-p1s42W26-Ta">
 <src.rf>tagger-a</src.rf>

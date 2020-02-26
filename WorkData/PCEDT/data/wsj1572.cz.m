@@ -2290,8 +2290,6 @@
 <AM lemma="hlavní" src="auto">AAMS2----1A----</AM>
 <AM lemma="hlavní" src="auto">AAMS4----1A----</AM>
 <AM lemma="hlavní" src="auto" recommended="1">AANS2----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1572-001-p1s11W35-Ta">
 <src.rf>tagger-a</src.rf>
@@ -19673,8 +19671,6 @@
 <form>33</form>
 <tag>
 <AM lemma="33" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1572-001-p1s73W1-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -19706,8 +19702,6 @@
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1572-001-p1s73W2-Ta">
 <src.rf>tagger-a</src.rf>

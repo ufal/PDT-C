@@ -914,8 +914,6 @@
 <AM lemma="strategický" src="auto">AANS1----1A----</AM>
 <AM lemma="strategický" src="auto">AANS4----1A----</AM>
 <AM lemma="strategický" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2053-001-p1s2W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5799,8 +5797,6 @@
 <AM lemma="senát" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="senát" src="auto">NNIS3-----A----</AM>
 <AM lemma="senát" src="auto">NNIS6-----A---1</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2053-001-p1s21W18-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6004,8 +6000,6 @@
 <AM lemma="minulý" src="auto">AANS1----1A---6</AM>
 <AM lemma="minulý" src="auto">AANS4----1A---6</AM>
 <AM lemma="minulý" src="auto">AANS5----1A---6</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2053-001-p1s22W4-Ta">
 <src.rf>tagger-a</src.rf>

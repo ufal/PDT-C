@@ -397,8 +397,6 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2427-001-p1s0W26-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -408,8 +406,6 @@
 <form>.</form>
 <tag>
 <AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2427-001-p1s0W26-Ta-sw2">
 <src.rf>tagger-a</src.rf>
@@ -427,8 +423,6 @@
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
 <AM lemma="a-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2427-001-p1s0W27-Ta">
 <src.rf>tagger-a</src.rf>

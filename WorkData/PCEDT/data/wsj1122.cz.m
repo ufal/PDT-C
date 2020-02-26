@@ -5317,8 +5317,6 @@
 <form>15</form>
 <tag>
 <AM lemma="15" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1122-001-p1s21W13-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -5329,8 +5327,6 @@
 <tag>
 <AM lemma="akrový" src="auto" recommended="1">AAFS4----1A----</AM>
 <AM lemma="akrový" src="auto">AAFS7----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1122-001-p1s21W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5930,8 +5926,6 @@
 <form>15</form>
 <tag>
 <AM lemma="15" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1122-001-p1s22W33-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -5950,8 +5944,6 @@
 <AM lemma="akrový" src="auto">AANP3----1A----</AM>
 <AM lemma="akrový" src="auto">AANS6----1A---7</AM>
 <AM lemma="akrový" src="auto">AANS7----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1122-001-p1s22W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8463,8 +8455,6 @@
 <form>dávkách</form>
 <tag>
 <AM lemma="dávka" src="auto" recommended="1">NNFP6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1122-001-p1s29W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9032,8 +9022,6 @@
 <AM lemma="daňový" src="auto">AANP1----1A----</AM>
 <AM lemma="daňový" src="auto" recommended="1">AANP4----1A----</AM>
 <AM lemma="daňový" src="auto">AANP5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1122-001-p1s31W20-Ta">
 <src.rf>tagger-a</src.rf>

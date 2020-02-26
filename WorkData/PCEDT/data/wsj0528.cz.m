@@ -1420,8 +1420,6 @@
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
 <AM lemma="a-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0528-001-p1s7W4-Ta">
 <src.rf>tagger-a</src.rf>

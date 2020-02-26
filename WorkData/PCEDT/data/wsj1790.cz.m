@@ -5011,8 +5011,6 @@
 <tag>
 <AM lemma="činit" src="auto">VB-P---3P-AAI--</AM>
 <AM lemma="činit" src="auto" recommended="1">VB-S---3P-AAI--</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1790-001-p1s15W34-Ta">
 <src.rf>tagger-a</src.rf>

@@ -18086,8 +18086,6 @@
 <form>egoista</form>
 <tag>
 <AM lemma="egoista" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0944-001-p1s59W17-Ta">
 <src.rf>tagger-a</src.rf>

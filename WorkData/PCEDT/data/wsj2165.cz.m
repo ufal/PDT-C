@@ -871,8 +871,6 @@
 <AM lemma="letadlo" src="auto">NNNP4-----A----</AM>
 <AM lemma="letadlo" src="auto">NNNP5-----A----</AM>
 <AM lemma="letadlo" src="auto" recommended="1">NNNS2-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2165-001-p1s4W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1174,8 +1172,6 @@
 <form>30</form>
 <tag>
 <AM lemma="30" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2165-001-p1s7W10-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -1207,8 +1203,6 @@
 <AM lemma="minutový" src="auto">AANS1----1A---6</AM>
 <AM lemma="minutový" src="auto">AANS4----1A---6</AM>
 <AM lemma="minutový" src="auto">AANS5----1A---6</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2165-001-p1s7W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5452,8 +5446,6 @@
 <AM lemma="cena" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="cena" src="auto">NNFP5-----A----</AM>
 <AM lemma="cena" src="auto">NNFS2-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2165-001-p1s24W14-Ta">
 <src.rf>tagger-a</src.rf>

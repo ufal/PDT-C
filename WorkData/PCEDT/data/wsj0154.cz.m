@@ -1310,8 +1310,6 @@
 <form>tj</form>
 <tag>
 <AM lemma="tj-1_:B_^(to_je/jest)" src="auto" recommended="1">J^-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0154-001-p1s3W25-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -1321,8 +1319,6 @@
 <form>.</form>
 <tag>
 <AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0154-001-p1s3W26-Ta">
 <src.rf>tagger-a</src.rf>

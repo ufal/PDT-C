@@ -2149,8 +2149,6 @@
 <AM lemma="rozklad" src="auto">NNIS2-----A----</AM>
 <AM lemma="rozklad" src="auto" recommended="1">NNIS3-----A----</AM>
 <AM lemma="rozklad" src="auto">NNIS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1141-001-p1s9W37-Ta">
 <src.rf>tagger-a</src.rf>

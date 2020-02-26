@@ -2540,8 +2540,6 @@
 <form>nabídkou</form>
 <tag>
 <AM lemma="nabídka" src="auto" recommended="1">NNFS7-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1531-001-p1s6W25-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1059,8 +1059,6 @@
 <AM lemma="Street-1_;G" src="auto">NNIS4-----A----</AM>
 <AM lemma="Street-77" src="auto" recommended="1">F%-------------</AM>
 <AM lemma="street-77" src="auto">F%-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1221-001-p1s3W9-Ta">
 <src.rf>tagger-a</src.rf>

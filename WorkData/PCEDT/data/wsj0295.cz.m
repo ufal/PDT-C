@@ -11308,8 +11308,6 @@
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0295-001-p1s44W3-Ta">
 <src.rf>tagger-a</src.rf>

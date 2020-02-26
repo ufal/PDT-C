@@ -2244,8 +2244,6 @@
 <AM lemma="cíl" src="auto">NNIS3-----A----</AM>
 <AM lemma="cíl" src="auto">NNIS5-----A----</AM>
 <AM lemma="cíl" src="auto">NNIS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1767-001-p1s5W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3911,8 +3909,6 @@
 <form>vozů</form>
 <tag>
 <AM lemma="vůz" src="auto" recommended="1">NNIP2-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1767-001-p1s10W20-Ta">
 <src.rf>tagger-a</src.rf>

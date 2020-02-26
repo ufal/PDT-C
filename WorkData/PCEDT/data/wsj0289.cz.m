@@ -558,8 +558,6 @@
 <form>bilionů</form>
 <tag>
 <AM lemma="bilión" src="auto" recommended="1">NNIP2-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0289-001-p1s0W42-Ta">
 <src.rf>tagger-a</src.rf>

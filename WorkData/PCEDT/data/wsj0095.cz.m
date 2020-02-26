@@ -874,8 +874,6 @@
 <form>profesorka</form>
 <tag>
 <AM lemma="profesorka_^(*2)" src="auto" recommended="1">NNFS1-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0095-001-p1s1W21-Ta">
 <src.rf>tagger-a</src.rf>

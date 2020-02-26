@@ -16273,8 +16273,6 @@
 <AM lemma="nad-1" src="auto">RR--4----------</AM>
 <AM lemma="nad-1" src="auto" recommended="1">RR--7----------</AM>
 <AM lemma="nad-7_^(předpona,_sam.)" src="auto">A2--------A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2372-001-p1s50W36-Ta">
 <src.rf>tagger-a</src.rf>

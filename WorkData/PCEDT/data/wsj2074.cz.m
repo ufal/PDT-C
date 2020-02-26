@@ -372,8 +372,6 @@
 <AM lemma="Kolumbie_;G" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="Kolumbie_;G" src="auto">NNFS2-----A----</AM>
 <AM lemma="Kolumbie_;G" src="auto">NNFS5-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2074-001-p1s1W10-Ta">
 <src.rf>tagger-a</src.rf>

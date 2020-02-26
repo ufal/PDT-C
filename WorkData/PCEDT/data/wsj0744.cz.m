@@ -2278,8 +2278,6 @@
 <AM lemma="vedoucí-2" src="auto">NNMP6-----A----</AM>
 <AM lemma="vedoucí-3" src="auto">NNFP2-----A----</AM>
 <AM lemma="vedoucí-3" src="auto">NNFP6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0744-001-p1s6W5-Ta">
 <src.rf>tagger-a</src.rf>

@@ -9358,8 +9358,6 @@
 <AM lemma="úspěšný" src="auto">AANS1----1A----</AM>
 <AM lemma="úspěšný" src="auto">AANS4----1A----</AM>
 <AM lemma="úspěšný" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2145-001-p1s34W16-Ta">
 <src.rf>tagger-a</src.rf>

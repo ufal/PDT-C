@@ -2085,8 +2085,6 @@
 <AM lemma="vedený_^(*5ést)" src="auto">AAIS3----1A----</AM>
 <AM lemma="vedený_^(*5ést)" src="auto">AAMS3----1A----</AM>
 <AM lemma="vedený_^(*5ést)" src="auto" recommended="1">AANS3----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1253-001-p1s9W6-Ta">
 <src.rf>tagger-a</src.rf>

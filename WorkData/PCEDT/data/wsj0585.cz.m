@@ -2389,8 +2389,6 @@
 <form>příčinou</form>
 <tag>
 <AM lemma="příčina" src="auto" recommended="1">NNFS7-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0585-001-p1s7W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -13449,8 +13447,6 @@
 <AM lemma="akcie" src="auto">NNFS1-----A----</AM>
 <AM lemma="akcie" src="auto">NNFS2-----A----</AM>
 <AM lemma="akcie" src="auto">NNFS5-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0585-001-p1s47W29-Ta">
 <src.rf>tagger-a</src.rf>

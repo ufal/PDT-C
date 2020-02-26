@@ -11325,8 +11325,6 @@
 <AM lemma="basketbalový" src="auto">AANS1----1A----</AM>
 <AM lemma="basketbalový" src="auto">AANS4----1A----</AM>
 <AM lemma="basketbalový" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0749-001-p1s52W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11339,8 +11337,6 @@
 <AM lemma="příprava" src="auto">NNFP4-----A----</AM>
 <AM lemma="příprava" src="auto">NNFP5-----A----</AM>
 <AM lemma="příprava" src="auto" recommended="1">NNFS2-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0749-001-p1s52W37-Ta">
 <src.rf>tagger-a</src.rf>

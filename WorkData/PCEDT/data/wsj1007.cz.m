@@ -3204,8 +3204,6 @@
 <form>1.8353</form>
 <tag>
 <AM lemma="1.8353" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1007-001-p1s9W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3335,8 +3333,6 @@
 <form>1.8355</form>
 <tag>
 <AM lemma="1.8355" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1007-001-p1s9W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3591,8 +3587,6 @@
 <form>1.6145</form>
 <tag>
 <AM lemma="1.6145" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1007-001-p1s10W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3729,8 +3723,6 @@
 <form>1.6055</form>
 <tag>
 <AM lemma="1.6055" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1007-001-p1s10W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7317,8 +7309,6 @@
 <form>akciích</form>
 <tag>
 <AM lemma="akcie" src="auto" recommended="1">NNFP6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1007-001-p1s18W32-Ta">
 <src.rf>tagger-a</src.rf>

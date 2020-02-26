@@ -2668,8 +2668,6 @@
 <form>101</form>
 <tag>
 <AM lemma="101" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2109-001-p1s9W3-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -2680,8 +2678,6 @@
 <tag>
 <AM lemma="letý" src="auto">AAFS4----1A----</AM>
 <AM lemma="letý" src="auto" recommended="1">AAFS7----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2109-001-p1s9W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9296,8 +9292,6 @@
 <form>osmdesátkrát</form>
 <tag>
 <AM lemma="osmdesátkrát`80_^(*4)" src="auto" recommended="1">Cv-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2109-001-p1s28W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12324,8 +12318,6 @@
 <AM lemma="Cincinnatus_;S" src="auto">NNMP1-----A---1</AM>
 <AM lemma="Cincinnatus_;S" src="auto">NNMP5-----A---1</AM>
 <AM lemma="Cincinnati_;G" src="auto" recommended="1">NNNXX-----A----</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2109-001-p1s41W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12614,8 +12606,6 @@
 <AM lemma="Cincinnatus_;S" src="auto">NNMP1-----A---1</AM>
 <AM lemma="Cincinnatus_;S" src="auto">NNMP5-----A---1</AM>
 <AM lemma="Cincinnati_;G" src="auto" recommended="1">NNNXX-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2109-001-p1s41W38-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12848,8 +12838,6 @@
 <form>49</form>
 <tag>
 <AM lemma="49" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2109-001-p1s44W5-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -12881,8 +12869,6 @@
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2109-001-p1s44W6-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1597,8 +1597,6 @@
 <AM lemma="Dr_:B_^(doktor,_akad._titul)" src="auto" recommended="1">NNXXX-----A----</AM>
 <AM lemma="dr-99_:B_;S" src="auto">NNXXX-----A----</AM>
 <AM lemma="dr_:B_^(doktor,_akad._titul)" src="auto">NNXXX-----A----</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2098-001-p1s4W1-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -1608,8 +1606,6 @@
 <form>.</form>
 <tag>
 <AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2098-001-p1s4W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2366,8 +2362,6 @@
 <tag>
 <AM lemma="dr-99_:B_;S" src="auto">NNXXX-----A----</AM>
 <AM lemma="dr_:B_^(doktor,_akad._titul)" src="auto" recommended="1">NNXXX-----A----</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2098-001-p1s5W22-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -2377,8 +2371,6 @@
 <form>.</form>
 <tag>
 <AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2098-001-p1s5W23-Ta">
 <src.rf>tagger-a</src.rf>

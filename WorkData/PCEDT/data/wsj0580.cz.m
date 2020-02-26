@@ -699,8 +699,6 @@
 <form>zprávou</form>
 <tag>
 <AM lemma="zpráva" src="auto" recommended="1">NNFS7-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0580-001-p1s2W13-Ta">
 <src.rf>tagger-a</src.rf>

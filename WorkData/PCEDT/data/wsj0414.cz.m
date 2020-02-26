@@ -549,8 +549,6 @@
 <AM lemma="zhroucení_^(*4tit)" src="auto">NNNS4-----A----</AM>
 <AM lemma="zhroucení_^(*4tit)" src="auto">NNNS5-----A----</AM>
 <AM lemma="zhroucení_^(*4tit)" src="auto" recommended="1">NNNS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0414-001-p1s2W30-Ta">
 <src.rf>tagger-a</src.rf>

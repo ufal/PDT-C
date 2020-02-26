@@ -61,8 +61,6 @@
 <form>později</form>
 <tag>
 <AM lemma="pozdě" src="auto" recommended="1">Dg-------2A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1751-001-p1s0W6-Ta">
 <src.rf>tagger-a</src.rf>

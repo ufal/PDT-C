@@ -4705,8 +4705,6 @@
 <AM lemma="odhadovaný_^(*2t)" src="auto">AAMP6----1A----</AM>
 <AM lemma="odhadovaný_^(*2t)" src="auto">AANP2----1A----</AM>
 <AM lemma="odhadovaný_^(*2t)" src="auto">AANP6----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0552-001-p1s17W21-Ta">
 <src.rf>tagger-a</src.rf>

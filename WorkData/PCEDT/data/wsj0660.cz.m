@@ -682,8 +682,6 @@
 <tag>
 <AM lemma="složený_^(*3it)" src="auto">AAFS4----1A----</AM>
 <AM lemma="složený_^(*3it)" src="auto" recommended="1">AAFS7----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0660-001-p1s2W12-Ta">
 <src.rf>tagger-a</src.rf>

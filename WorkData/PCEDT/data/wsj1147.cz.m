@@ -8046,8 +8046,6 @@
 <AM lemma="drobný" src="auto">AANP6----1A----</AM>
 <AM lemma="drobné_^(peníze)" src="auto">NNIP2-----A----</AM>
 <AM lemma="drobné_^(peníze)" src="auto">NNIP6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1147-001-p1s20W33-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12589,8 +12587,6 @@
 <AM lemma="sněmovna" src="auto">NNFP4-----A----</AM>
 <AM lemma="sněmovna" src="auto">NNFP5-----A----</AM>
 <AM lemma="sněmovna" src="auto" recommended="1">NNFS2-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1147-001-p1s34W3-Ta">
 <src.rf>tagger-a</src.rf>

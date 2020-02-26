@@ -476,8 +476,6 @@
 <AM lemma="čtyřicetiletý" src="auto">AAMP6----1A----</AM>
 <AM lemma="čtyřicetiletý" src="auto">AANP2----1A----</AM>
 <AM lemma="čtyřicetiletý" src="auto">AANP6----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2278-001-p1s1W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9471,8 +9469,6 @@
 <form>19</form>
 <tag>
 <AM lemma="19" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2278-001-p1s32W1-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -9504,8 +9500,6 @@
 <AM lemma="členný" src="auto">AANS1----1A---6</AM>
 <AM lemma="členný" src="auto">AANS4----1A---6</AM>
 <AM lemma="členný" src="auto">AANS5----1A---6</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2278-001-p1s32W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9829,8 +9823,6 @@
 <form>165</form>
 <tag>
 <AM lemma="165" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2278-001-p1s32W26-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -9842,8 +9834,6 @@
 <AM lemma="členný" src="auto" recommended="1">AAIS6----1A----</AM>
 <AM lemma="členný" src="auto">AAMS6----1A----</AM>
 <AM lemma="členný" src="auto">AANS6----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2278-001-p1s32W27-Ta">
 <src.rf>tagger-a</src.rf>

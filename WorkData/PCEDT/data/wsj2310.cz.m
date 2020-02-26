@@ -183,8 +183,6 @@
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS3-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS6-----A----</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2310-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -217,8 +215,6 @@
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS3-----A----</AM>
 <AM lemma="milion`1000000_,s_^(^DD**milión)" src="auto">NNIS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2310-001-p1s0W20-Ta">
 <src.rf>tagger-a</src.rf>

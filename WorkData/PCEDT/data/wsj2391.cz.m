@@ -382,8 +382,6 @@
 <form>52</form>
 <tag>
 <AM lemma="52" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2391-001-p1s2W24-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -396,8 +394,6 @@
 <AM lemma="týdenní" src="auto">AAMS2----1A----</AM>
 <AM lemma="týdenní" src="auto">AAMS4----1A----</AM>
 <AM lemma="týdenní" src="auto" recommended="1">AANS2----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2391-001-p1s2W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1504,8 +1500,6 @@
 <AM lemma="který" src="auto" recommended="1">P4FS1----------</AM>
 <AM lemma="který" src="auto">P4NP1----------</AM>
 <AM lemma="který" src="auto">P4NP4----------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2391-001-p1s7W12-Ta">
 <src.rf>tagger-a</src.rf>

@@ -4791,8 +4791,6 @@
 <AM lemma="finanční" src="auto" recommended="1">AAIS3----1A----</AM>
 <AM lemma="finanční" src="auto">AAMS3----1A----</AM>
 <AM lemma="finanční" src="auto">AANS3----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0961-001-p1s11W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -5885,8 +5883,6 @@
 <form>12</form>
 <tag>
 <AM lemma="12" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0961-001-p1s15W21-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -5911,8 +5907,6 @@
 <AM lemma="členný" src="auto">AANS1----1A----</AM>
 <AM lemma="členný" src="auto">AANS4----1A----</AM>
 <AM lemma="členný" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0961-001-p1s15W22-Ta">
 <src.rf>tagger-a</src.rf>

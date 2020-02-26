@@ -11002,8 +11002,6 @@
 <form>2</form>
 <tag>
 <AM lemma="2" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1626-001-p1s35W14-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -11035,8 +11033,6 @@
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1626-001-p1s35W15-Ta">
 <src.rf>tagger-a</src.rf>

@@ -2417,8 +2417,6 @@
 <form>45</form>
 <tag>
 <AM lemma="45" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1174-001-p1s8W34-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -2429,8 +2427,6 @@
 <tag>
 <AM lemma="akrový" src="auto" recommended="1">AAFS4----1A----</AM>
 <AM lemma="akrový" src="auto">AAFS7----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1174-001-p1s8W35-Ta">
 <src.rf>tagger-a</src.rf>

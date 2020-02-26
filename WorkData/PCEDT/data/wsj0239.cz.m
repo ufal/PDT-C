@@ -3676,8 +3676,6 @@
 <AM lemma="Épinal_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Épinal_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Épinal_;G" src="auto" recommended="1">NNIS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0239-001-p1s12W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6973,8 +6971,6 @@
 <tag>
 <AM lemma="já" src="auto">PP-S3--1-------</AM>
 <AM lemma="já" src="auto" recommended="1">PP-S6--1-------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0239-001-p1s28W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10949,8 +10945,6 @@
 <form>jsme</form>
 <tag>
 <AM lemma="být" src="auto" recommended="1">VB-P---1P-AAI--</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0239-001-p1s45W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12142,8 +12136,6 @@
 <AM lemma="Épinal_;G" src="auto" recommended="1">NNIS2-----A----</AM>
 <AM lemma="Épinal_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Épinal_;G" src="auto">NNIS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0239-001-p1s50W19-Ta">
 <src.rf>tagger-a</src.rf>

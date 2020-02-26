@@ -3494,8 +3494,6 @@
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFP2-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS7-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1480-001-p1s12W27-Ta">
 <src.rf>tagger-a</src.rf>
@@ -18677,8 +18675,6 @@
 <AM lemma="zabývající_^(*4t)" src="auto">AGMP6-----A----</AM>
 <AM lemma="zabývající_^(*4t)" src="auto">AGNP2-----A----</AM>
 <AM lemma="zabývající_^(*4t)" src="auto">AGNP6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1480-001-p1s66W4-Ta">
 <src.rf>tagger-a</src.rf>

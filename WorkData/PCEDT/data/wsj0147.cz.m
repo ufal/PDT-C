@@ -669,8 +669,6 @@
 <form>Missouri</form>
 <tag>
 <AM lemma="Missouri_;G" src="auto" recommended="1">NNNXX-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0147-001-p1s1W18-Ta">
 <src.rf>tagger-a</src.rf>

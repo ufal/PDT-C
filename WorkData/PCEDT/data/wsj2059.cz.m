@@ -15399,8 +15399,6 @@
 <AM lemma="uchopení_^(*3it)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="uchopení_^(*3it)" src="auto">NNNS5-----A----</AM>
 <AM lemma="uchopení_^(*3it)" src="auto">NNNS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2059-001-p1s49W7-Ta">
 <src.rf>tagger-a</src.rf>

@@ -882,8 +882,6 @@
 <form>stále</form>
 <tag>
 <AM lemma="stále_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0579-001-p1s3W11-Ta">
 <src.rf>tagger-a</src.rf>

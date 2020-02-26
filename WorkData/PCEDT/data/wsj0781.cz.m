@@ -11548,8 +11548,6 @@
 <form>16</form>
 <tag>
 <AM lemma="16" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0781-001-p1s40W25-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -11581,8 +11579,6 @@
 <AM lemma="bitový" src="auto">AANS1----1A---6</AM>
 <AM lemma="bitový" src="auto">AANS4----1A---6</AM>
 <AM lemma="bitový" src="auto">AANS5----1A---6</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0781-001-p1s40W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11736,8 +11732,6 @@
 <form>16</form>
 <tag>
 <AM lemma="16" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0781-001-p1s41W2-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -11769,8 +11763,6 @@
 <AM lemma="bitový" src="auto">AANS1----1A---6</AM>
 <AM lemma="bitový" src="auto">AANS4----1A---6</AM>
 <AM lemma="bitový" src="auto">AANS5----1A---6</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0781-001-p1s41W3-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11952,8 +11944,6 @@
 <form>32</form>
 <tag>
 <AM lemma="32" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0781-001-p1s41W14-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -11978,8 +11968,6 @@
 <AM lemma="bitový" src="auto">AANS1----1A----</AM>
 <AM lemma="bitový" src="auto">AANS4----1A----</AM>
 <AM lemma="bitový" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0781-001-p1s41W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12164,8 +12152,6 @@
 <form>16</form>
 <tag>
 <AM lemma="16" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0781-001-p1s42W13-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -12182,8 +12168,6 @@
 <AM lemma="bitový" src="auto">AAMP6----1A----</AM>
 <AM lemma="bitový" src="auto">AANP2----1A----</AM>
 <AM lemma="bitový" src="auto">AANP6----1A----</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0781-001-p1s42W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12207,8 +12191,6 @@
 <form>32</form>
 <tag>
 <AM lemma="32" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0781-001-p1s42W15-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -12225,8 +12207,6 @@
 <AM lemma="bitový" src="auto">AAMP6----1A----</AM>
 <AM lemma="bitový" src="auto">AANP2----1A----</AM>
 <AM lemma="bitový" src="auto">AANP6----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0781-001-p1s42W16-Ta">
 <src.rf>tagger-a</src.rf>

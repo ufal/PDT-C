@@ -524,8 +524,6 @@
 <AM lemma="restaurace" src="auto" recommended="1">NNFS1-----A----</AM>
 <AM lemma="restaurace" src="auto">NNFS2-----A----</AM>
 <AM lemma="restaurace" src="auto">NNFS5-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0261-001-p1s2W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1544,8 +1542,6 @@
 <form>5</form>
 <tag>
 <AM lemma="5" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0261-001-p1s5W20-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -1557,8 +1553,6 @@
 <AM lemma="x-5_^(náhr._symbolu_krát,_mat._symbol)" src="auto" recommended="1">J*-------------</AM>
 <AM lemma="x-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="x-88_:B" src="auto">NNXXX-----A----</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0261-001-p1s5W20-Ta-sw2">
 <src.rf>tagger-a</src.rf>
@@ -1568,8 +1562,6 @@
 <form>8</form>
 <tag>
 <AM lemma="8" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0261-001-p1s5W21-Ta">
 <src.rf>tagger-a</src.rf>

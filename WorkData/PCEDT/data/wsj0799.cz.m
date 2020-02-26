@@ -13488,8 +13488,6 @@
 <AM lemma="používaný_^(*2t)" src="auto">AAMS2----1A----</AM>
 <AM lemma="používaný_^(*2t)" src="auto">AAMS4----1A----</AM>
 <AM lemma="používaný_^(*2t)" src="auto" recommended="1">AANS2----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0799-001-p1s46W21-Ta">
 <src.rf>tagger-a</src.rf>

@@ -11538,8 +11538,6 @@
 <AM lemma="desetidenní" src="auto">AANS1----1A----</AM>
 <AM lemma="desetidenní" src="auto">AANS4----1A----</AM>
 <AM lemma="desetidenní" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2308-001-p1s36W36-Ta">
 <src.rf>tagger-a</src.rf>

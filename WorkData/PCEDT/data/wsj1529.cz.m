@@ -2950,8 +2950,6 @@
 <AM lemma="srovnání_^(*3at)" src="auto">NNNS4-----A----</AM>
 <AM lemma="srovnání_^(*3at)" src="auto">NNNS5-----A----</AM>
 <AM lemma="srovnání_^(*3at)" src="auto" recommended="1">NNNS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1529-001-p1s7W41-Ta">
 <src.rf>tagger-a</src.rf>

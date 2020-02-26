@@ -11974,8 +11974,6 @@
 <form>57</form>
 <tag>
 <AM lemma="57" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1037-001-p1s38W39-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -12013,8 +12011,6 @@
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AANS5----1A----</AM>
 <AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP1----1A----</AM>
 <AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1037-001-p1s38W40-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12324,8 +12320,6 @@
 <form>29</form>
 <tag>
 <AM lemma="29" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1037-001-p1s39W17-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -12336,8 +12330,6 @@
 <tag>
 <AM lemma="palcový" src="auto">AAFS4----1A----</AM>
 <AM lemma="palcový" src="auto" recommended="1">AAFS7----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1037-001-p1s39W18-Ta">
 <src.rf>tagger-a</src.rf>

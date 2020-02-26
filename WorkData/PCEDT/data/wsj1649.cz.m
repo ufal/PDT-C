@@ -2548,8 +2548,6 @@
 <AM lemma="Marlowův_;S_^(*2e)" src="auto">AUNP4M---------</AM>
 <AM lemma="Marlowův_;S_^(*2e)" src="auto">AUNP5M---------</AM>
 <AM lemma="Marlowův_;S_^(*2e)" src="auto" recommended="1">AUNS2M---------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1649-001-p1s9W27-Ta">
 <src.rf>tagger-a</src.rf>

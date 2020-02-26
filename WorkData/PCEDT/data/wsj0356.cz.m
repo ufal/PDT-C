@@ -946,8 +946,6 @@
 <form>Williamem</form>
 <tag>
 <AM lemma="William_;Y" src="auto" recommended="1">NNMS7-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0356-001-p1s3W21-Ta">
 <src.rf>tagger-a</src.rf>

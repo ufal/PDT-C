@@ -900,8 +900,6 @@
 <form>jenž</form>
 <tag>
 <AM lemma="jenž_^(který_[ve_vedl.větě])" src="auto" recommended="1">PJYS1----------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1206-001-p1s2W30-Ta">
 <src.rf>tagger-a</src.rf>

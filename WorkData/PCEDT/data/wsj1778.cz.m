@@ -8644,8 +8644,6 @@
 <tag>
 <AM lemma="vestoje" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="vstoje_,x" src="auto">Db-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1778-001-p1s68W5-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9016,8 +9014,6 @@
 <AM lemma="několik" src="auto">Ca--3----------</AM>
 <AM lemma="několik" src="auto">Ca--6----------</AM>
 <AM lemma="několik" src="auto" recommended="1">Ca--7----------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1778-001-p1s76W3-Ta">
 <src.rf>tagger-a</src.rf>

@@ -411,8 +411,6 @@
 <form>miliard</form>
 <tag>
 <AM lemma="miliarda`1000000000" src="auto" recommended="1">NNFP2-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0164-001-p1s0W31-Ta">
 <src.rf>tagger-a</src.rf>
@@ -805,8 +803,6 @@
 <form>miliard</form>
 <tag>
 <AM lemma="miliarda`1000000000" src="auto" recommended="1">NNFP2-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0164-001-p1s2W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1536,8 +1532,6 @@
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0164-001-p1s5W11-Ta">
 <src.rf>tagger-a</src.rf>

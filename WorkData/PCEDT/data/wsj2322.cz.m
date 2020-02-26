@@ -2348,8 +2348,6 @@
 <tag>
 <AM lemma="zavazovat" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="zavazovat" src="auto">VeYS------A-I--</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2322-001-p1s8W25-Ta">
 <src.rf>tagger-a</src.rf>

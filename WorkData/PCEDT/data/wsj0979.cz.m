@@ -2085,8 +2085,6 @@
 <form>1.5</form>
 <tag>
 <AM lemma="1.5" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0979-001-p1s5W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2097,8 +2095,6 @@
 <tag>
 <AM lemma="miliardový" src="auto" recommended="1">AAFS4----1A----</AM>
 <AM lemma="miliardový" src="auto">AAFS7----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0979-001-p1s5W21-Ta">
 <src.rf>tagger-a</src.rf>

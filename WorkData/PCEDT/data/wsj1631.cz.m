@@ -10800,8 +10800,6 @@
 <tag>
 <AM lemma="investice" src="auto">NNFP2-----A----</AM>
 <AM lemma="investice" src="auto" recommended="1">NNFS7-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1631-001-p1s40W34-Ta">
 <src.rf>tagger-a</src.rf>

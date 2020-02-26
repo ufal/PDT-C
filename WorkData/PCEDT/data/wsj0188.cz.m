@@ -1644,8 +1644,6 @@
 <tag>
 <AM lemma="pan_^(oslovení)" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="pan_^(oslovení)" src="auto">NNMS4-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0188-001-p1s4W5-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1035,8 +1035,6 @@
 <form>neboli</form>
 <tag>
 <AM lemma="neboli" src="auto" recommended="1">J^-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0157-001-p1s2W11-Ta">
 <src.rf>tagger-a</src.rf>

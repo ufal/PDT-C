@@ -7228,8 +7228,6 @@
 <AM lemma="klíčový" src="auto">AANP3----1A----</AM>
 <AM lemma="klíčový" src="auto">AANS6----1A---7</AM>
 <AM lemma="klíčový" src="auto">AANS7----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1022-001-p1s20W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12786,8 +12784,6 @@
 <form>Bidenem</form>
 <tag>
 <AM lemma="Biden_;S" src="auto" recommended="1">NNMS7-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1022-001-p1s38W11-Ta">
 <src.rf>tagger-a</src.rf>

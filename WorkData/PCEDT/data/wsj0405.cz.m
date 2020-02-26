@@ -4867,8 +4867,6 @@
 <AM lemma="schopnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
 <AM lemma="schopnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="schopnost_^(*3ý)" src="auto">NNFS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0405-001-p1s18W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8665,8 +8663,6 @@
 <AM lemma="oblast" src="auto">NNFS3-----A----</AM>
 <AM lemma="oblast" src="auto">NNFS5-----A----</AM>
 <AM lemma="oblast" src="auto">NNFS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0405-001-p1s34W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -9410,8 +9406,6 @@
 <AM lemma="schopnost_^(*3ý)" src="auto">NNFS3-----A----</AM>
 <AM lemma="schopnost_^(*3ý)" src="auto">NNFS5-----A----</AM>
 <AM lemma="schopnost_^(*3ý)" src="auto">NNFS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0405-001-p1s36W24-Ta">
 <src.rf>tagger-a</src.rf>

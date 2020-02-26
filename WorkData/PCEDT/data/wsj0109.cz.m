@@ -22,8 +22,6 @@
 <AM lemma="r-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="r-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="rok_:B" src="auto">NNIXX-----A---8</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0109-001-p1s0W1-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -33,8 +31,6 @@
 <form>.</form>
 <tag>
 <AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0109-001-p1s0W2-Ta">
 <src.rf>tagger-a</src.rf>
@@ -780,8 +776,6 @@
 <AM lemma="letopočet_:B" src="auto">NNIS2-----A---8</AM>
 <AM lemma="letopočet_:B" src="auto">NNIS7-----A---8</AM>
 <AM lemma="litr" src="auto">NNIXX-----A---8</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0109-001-p1s1W22-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -791,8 +785,6 @@
 <form>.</form>
 <tag>
 <AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0109-001-p1s1W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3234,8 +3226,6 @@
 <form>Campbell</form>
 <tag>
 <AM lemma="Campbell_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0109-001-p1s11W4-Ta">
 <src.rf>tagger-a</src.rf>

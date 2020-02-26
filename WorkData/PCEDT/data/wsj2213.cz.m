@@ -1246,8 +1246,6 @@
 <form>25</form>
 <tag>
 <AM lemma="25" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2213-001-p1s1W66-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -1261,8 +1259,6 @@
 <AM lemma="dolarový" src="auto">AANP1----1A----</AM>
 <AM lemma="dolarový" src="auto">AANP4----1A----</AM>
 <AM lemma="dolarový" src="auto">AANP5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2213-001-p1s1W67-Ta">
 <src.rf>tagger-a</src.rf>

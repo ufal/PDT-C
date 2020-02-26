@@ -12677,8 +12677,6 @@
 <AM lemma="o-77_,t" src="auto">F%-------------</AM>
 <AM lemma="o-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="obchodní_^(jen_obch._společnost)" src="auto">AAFXX----1A---8</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0192-001-p1s47W29-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -12688,8 +12686,6 @@
 <form>'</form>
 <tag>
 <AM lemma="'" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0192-001-p1s47W29-Ta-sw2">
 <src.rf>tagger-a</src.rf>
@@ -12699,8 +12695,6 @@
 <form>Neill</form>
 <tag>
 <AM lemma="Neill_;S" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0192-001-p1s47W30-Ta">
 <src.rf>tagger-a</src.rf>

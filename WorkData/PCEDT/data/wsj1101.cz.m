@@ -686,8 +686,6 @@
 <form>20</form>
 <tag>
 <AM lemma="20" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1101-001-p1s2W7-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -719,8 +717,6 @@
 <AM lemma="stránkový" src="auto">AANS1----1A---6</AM>
 <AM lemma="stránkový" src="auto">AANS4----1A---6</AM>
 <AM lemma="stránkový" src="auto">AANS5----1A---6</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1101-001-p1s2W8-Ta">
 <src.rf>tagger-a</src.rf>

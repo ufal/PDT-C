@@ -8547,8 +8547,6 @@
 <form>90</form>
 <tag>
 <AM lemma="90" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2330-001-p1s27W11-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -8565,8 +8563,6 @@
 <AM lemma="librový" src="auto">AAMP6----1A----</AM>
 <AM lemma="librový" src="auto">AANP2----1A----</AM>
 <AM lemma="librový" src="auto">AANP6----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2330-001-p1s27W12-Ta">
 <src.rf>tagger-a</src.rf>

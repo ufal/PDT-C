@@ -1407,8 +1407,6 @@
 <tag>
 <AM lemma="čtvrtletí" src="auto">NNNP3-----A----</AM>
 <AM lemma="čtvrtletí" src="auto" recommended="1">NNNS7-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2364-001-p1s2W30-Ta">
 <src.rf>tagger-a</src.rf>

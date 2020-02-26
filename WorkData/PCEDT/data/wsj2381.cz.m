@@ -11602,8 +11602,6 @@
 <AM lemma="národní" src="auto">AANP3----1A----</AM>
 <AM lemma="národní" src="auto">AANS6----1A----</AM>
 <AM lemma="národní" src="auto">AANS7----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2381-001-p1s40W3-Ta">
 <src.rf>tagger-a</src.rf>

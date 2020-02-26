@@ -136,8 +136,6 @@
 <AM lemma="zpochybnit" src="auto" recommended="1">VB-S---3P-AAP--</AM>
 <AM lemma="zpochybnět_,s" src="auto">VB-P---3P-AAP-1</AM>
 <AM lemma="zpochybnět_,s" src="auto">VB-S---3P-AAP--</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1190-001-p1s0W13-Ta">
 <src.rf>tagger-a</src.rf>

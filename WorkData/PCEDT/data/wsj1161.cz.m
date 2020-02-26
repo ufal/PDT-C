@@ -949,8 +949,6 @@
 <form>10</form>
 <tag>
 <AM lemma="10" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1161-001-p1s2W18-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -963,8 +961,6 @@
 <AM lemma="letý" src="auto" recommended="1">AAIP7----1A----</AM>
 <AM lemma="letý" src="auto">AAMP7----1A----</AM>
 <AM lemma="letý" src="auto">AANP7----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1161-001-p1s2W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2644,8 +2640,6 @@
 <form>9.275</form>
 <tag>
 <AM lemma="9.275" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1161-001-p1s7W36-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2826,8 +2820,6 @@
 <form>10</form>
 <tag>
 <AM lemma="10" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1161-001-p1s8W14-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -2840,8 +2832,6 @@
 <AM lemma="letý" src="auto" recommended="1">AAIP7----1A----</AM>
 <AM lemma="letý" src="auto">AAMP7----1A----</AM>
 <AM lemma="letý" src="auto">AANP7----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1161-001-p1s8W15-Ta">
 <src.rf>tagger-a</src.rf>
@@ -4995,8 +4985,6 @@
 <form>10</form>
 <tag>
 <AM lemma="10" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1161-001-p1s14W25-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -5009,8 +4997,6 @@
 <AM lemma="letý" src="auto" recommended="1">AAIP7----1A----</AM>
 <AM lemma="letý" src="auto">AAMP7----1A----</AM>
 <AM lemma="letý" src="auto">AANP7----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1161-001-p1s14W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6351,8 +6337,6 @@
 <form>10</form>
 <tag>
 <AM lemma="10" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1161-001-p1s18W12-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -6365,8 +6349,6 @@
 <AM lemma="letý" src="auto" recommended="1">AAIP7----1A----</AM>
 <AM lemma="letý" src="auto">AAMP7----1A----</AM>
 <AM lemma="letý" src="auto">AANP7----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1161-001-p1s18W13-Ta">
 <src.rf>tagger-a</src.rf>

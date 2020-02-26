@@ -4707,8 +4707,6 @@
 <tag>
 <AM lemma="Stanley_;S" src="auto" recommended="1">NNMS2-----A----</AM>
 <AM lemma="Stanley_;S" src="auto">NNMS4-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2264-001-p1s15W13-Ta">
 <src.rf>tagger-a</src.rf>

@@ -1834,8 +1834,6 @@
 <form>:</form>
 <tag>
 <AM lemma=":" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2379-001-p1s6W4-Ta">
 <src.rf>tagger-a</src.rf>

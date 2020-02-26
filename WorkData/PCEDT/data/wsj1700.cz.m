@@ -6804,8 +6804,6 @@
 <tag>
 <AM lemma="alespoň-1" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="alespoň-2" src="auto">TT-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1700-001-p1s23W16-Ta">
 <src.rf>tagger-a</src.rf>

@@ -4524,8 +4524,6 @@
 <form>21</form>
 <tag>
 <AM lemma="21" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1004-001-p1s12W18-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -4563,8 +4561,6 @@
 <AM lemma="měsíční_^(lhůta;svit)" src="auto">AANS5----1A----</AM>
 <AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP1----1A----</AM>
 <AM lemma="měsíčný_^(arch.;_př._měsíčná_noc)" src="auto">AAMP5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1004-001-p1s12W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7177,8 +7173,6 @@
 <form>250</form>
 <tag>
 <AM lemma="250" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1004-001-p1s21W29-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -7189,8 +7183,6 @@
 <tag>
 <AM lemma="krát-1_^(mat._operace;_2_krát_3)" src="auto">J*-------------</AM>
 <AM lemma="krát-2" src="auto" recommended="1">Db-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1004-001-p1s21W30-Ta">
 <src.rf>tagger-a</src.rf>

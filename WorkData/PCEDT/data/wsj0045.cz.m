@@ -4686,8 +4686,6 @@
 <form>10</form>
 <tag>
 <AM lemma="10" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0045-001-p1s13W7-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -4697,8 +4695,6 @@
 <form>milionkrát</form>
 <tag>
 <AM lemma="milionkrát`1000000_,s_^(^DD**miliónkrát)" src="auto" recommended="1">Cv-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0045-001-p1s13W8-Ta">
 <src.rf>tagger-a</src.rf>

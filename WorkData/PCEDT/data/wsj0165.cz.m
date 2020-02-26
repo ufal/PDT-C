@@ -2050,8 +2050,6 @@
 <AM lemma="obchodní" src="auto">AAMP6----1A----</AM>
 <AM lemma="obchodní" src="auto">AANP2----1A----</AM>
 <AM lemma="obchodní" src="auto">AANP6----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0165-001-p1s5W15-Ta">
 <src.rf>tagger-a</src.rf>

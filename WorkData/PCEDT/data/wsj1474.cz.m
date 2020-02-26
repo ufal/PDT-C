@@ -5970,8 +5970,6 @@
 <AM lemma="obranný" src="auto">AAMP6----1A----</AM>
 <AM lemma="obranný" src="auto">AANP2----1A----</AM>
 <AM lemma="obranný" src="auto">AANP6----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1474-001-p1s18W19-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7016,8 +7014,6 @@
 <AM lemma="vysoký" src="auto">AANS6----1A---7</AM>
 <AM lemma="vysoký" src="auto" recommended="1">AANS7----1A----</AM>
 <AM lemma="vysoká_^(zvěř)" src="auto">NNFP3-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1474-001-p1s22W10-Ta">
 <src.rf>tagger-a</src.rf>

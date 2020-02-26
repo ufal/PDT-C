@@ -2071,8 +2071,6 @@
 <AM lemma="mluvčí-1" src="auto">NNMP6-----A----</AM>
 <AM lemma="mluvčí-2" src="auto">NNFP2-----A----</AM>
 <AM lemma="mluvčí-2" src="auto">NNFP6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2383-001-p1s5W5-Ta">
 <src.rf>tagger-a</src.rf>

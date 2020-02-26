@@ -192,8 +192,6 @@
 <form>80</form>
 <tag>
 <AM lemma="80" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0480-001-p1s0W17-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -204,8 +202,6 @@
 <tag>
 <AM lemma="megabytový" src="auto" recommended="1">AAFS4----1A----</AM>
 <AM lemma="megabytový" src="auto">AAFS7----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0480-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>

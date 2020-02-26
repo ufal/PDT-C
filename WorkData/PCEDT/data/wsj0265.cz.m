@@ -172,8 +172,6 @@
 <form>120</form>
 <tag>
 <AM lemma="120" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0265-001-p1s0W16-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -192,8 +190,6 @@
 <AM lemma="denní" src="auto">AANP3----1A----</AM>
 <AM lemma="denní" src="auto" recommended="1">AANS6----1A----</AM>
 <AM lemma="denní" src="auto">AANS7----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0265-001-p1s0W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1241,8 +1237,6 @@
 <form>120</form>
 <tag>
 <AM lemma="120" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0265-001-p1s2W13-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -1255,8 +1249,6 @@
 <AM lemma="denní" src="auto">AAMS2----1A----</AM>
 <AM lemma="denní" src="auto">AAMS4----1A----</AM>
 <AM lemma="denní" src="auto" recommended="1">AANS2----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0265-001-p1s2W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1744,8 +1736,6 @@
 <AM lemma="investující_^(*5ovat)" src="auto" recommended="1">AGIS3-----A----</AM>
 <AM lemma="investující_^(*5ovat)" src="auto">AGMS3-----A----</AM>
 <AM lemma="investující_^(*5ovat)" src="auto">AGNS3-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0265-001-p1s3W27-Ta">
 <src.rf>tagger-a</src.rf>

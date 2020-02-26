@@ -258,8 +258,6 @@
 <AM lemma="Houston-1_;G" src="auto">NNIS6-----A----</AM>
 <AM lemma="Houston-2_;S" src="auto">NNMS3-----A---1</AM>
 <AM lemma="Houston-2_;S" src="auto">NNMS6-----A---1</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1439-001-p1s0W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2983,8 +2981,6 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1439-001-p1s8W32-Ta">
 <src.rf>tagger-a</src.rf>

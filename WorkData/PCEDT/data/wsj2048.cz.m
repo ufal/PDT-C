@@ -182,8 +182,6 @@
 <AM lemma="Karolín_;G" src="auto">NNIS6-----A----</AM>
 <AM lemma="Karolína_;Y" src="auto">NNFS3-----A----</AM>
 <AM lemma="Karolína_;Y" src="auto" recommended="1">NNFS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2048-001-p1s0W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2897,8 +2895,6 @@
 <form>ze</form>
 <tag>
 <AM lemma="z-1" src="auto" recommended="1">RV--2----------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2048-001-p1s12W12-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6794,8 +6790,6 @@
 <AM lemma="Karolína_;Y" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="Karolínum_;G_;K_,s_^(^DD**Karolinum)" src="auto">NNNS3-----A----</AM>
 <AM lemma="Karolínum_;G_;K_,s_^(^DD**Karolinum)" src="auto">NNNS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2048-001-p1s26W9-Ta">
 <src.rf>tagger-a</src.rf>

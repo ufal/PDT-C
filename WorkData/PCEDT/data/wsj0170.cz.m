@@ -256,8 +256,6 @@
 <tag>
 <AM lemma="společnost_^(*3ý)" src="auto">NNFP2-----A----</AM>
 <AM lemma="společnost_^(*3ý)" src="auto" recommended="1">NNFS7-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0170-001-p1s0W20-Ta">
 <src.rf>tagger-a</src.rf>

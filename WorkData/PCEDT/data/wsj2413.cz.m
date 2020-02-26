@@ -7290,8 +7290,6 @@
 <form>17</form>
 <tag>
 <AM lemma="17" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2413-001-p1s24W12-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -7304,8 +7302,6 @@
 <AM lemma="h-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="hodina" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="hodinový" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2413-001-p1s24W13-Ta">
 <src.rf>tagger-a</src.rf>
@@ -8705,8 +8701,6 @@
 <AM lemma="r-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="r-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="rok_:B" src="auto" recommended="1">NNIXX-----A---8</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2413-001-p1s29W19-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -8716,8 +8710,6 @@
 <form>.</form>
 <tag>
 <AM lemma="." src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2413-001-p1s29W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10289,8 +10281,6 @@
 <form>Michaelem</form>
 <tag>
 <AM lemma="Michael_;S_;Y" src="auto" recommended="1">NNMS7-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2413-001-p1s36W11-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11324,8 +11314,6 @@
 <form>10</form>
 <tag>
 <AM lemma="10" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2413-001-p1s39W23-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -11338,8 +11326,6 @@
 <AM lemma="h-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="hodina" src="auto" recommended="1">NNFXX-----A---8</AM>
 <AM lemma="hodinový" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2413-001-p1s39W24-Ta">
 <src.rf>tagger-a</src.rf>

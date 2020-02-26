@@ -3491,8 +3491,6 @@
 <AM lemma="šance" src="auto">NNFS3-----A----</AM>
 <AM lemma="šance" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="šance" src="auto">NNFS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0617-001-p1s10W7-Ta">
 <src.rf>tagger-a</src.rf>

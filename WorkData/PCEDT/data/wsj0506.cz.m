@@ -202,8 +202,6 @@
 <AM lemma="F-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="f-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="f-88_:B" src="auto">NNXXX-----A----</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0506-001-p1s0W17-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -213,8 +211,6 @@
 <form>-</form>
 <tag>
 <AM lemma="-" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0506-001-p1s0W17-Ta-sw2">
 <src.rf>tagger-a</src.rf>
@@ -232,8 +228,6 @@
 <AM lemma="a-77_,t" src="auto">F%-------------</AM>
 <AM lemma="a-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="akciový" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0506-001-p1s0W18-Ta">
 <src.rf>tagger-a</src.rf>

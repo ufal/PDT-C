@@ -455,8 +455,6 @@
 <AM lemma="který" src="auto" recommended="1">P4FS1----------</AM>
 <AM lemma="který" src="auto">P4NP1----------</AM>
 <AM lemma="který" src="auto">P4NP4----------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1894-001-p1s0W34-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1183,8 +1181,6 @@
 <AM lemma="bankrotový" src="auto">AANS1----1A---6</AM>
 <AM lemma="bankrotový" src="auto">AANS4----1A---6</AM>
 <AM lemma="bankrotový" src="auto">AANS5----1A---6</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1894-001-p1s2W18-Ta">
 <src.rf>tagger-a</src.rf>

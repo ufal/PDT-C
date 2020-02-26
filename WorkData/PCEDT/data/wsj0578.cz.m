@@ -8749,8 +8749,6 @@
 <AM lemma="Petersův_;S_^(*2)" src="auto">AUMS6M--------1</AM>
 <AM lemma="Petersův_;S_^(*2)" src="auto">AUNS3M---------</AM>
 <AM lemma="Petersův_;S_^(*2)" src="auto">AUNS6M--------1</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0578-001-p1s25W11-Ta">
 <src.rf>tagger-a</src.rf>

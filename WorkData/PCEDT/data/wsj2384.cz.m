@@ -2887,8 +2887,6 @@
 <AM lemma="stanice" src="auto">NNFS3-----A----</AM>
 <AM lemma="stanice" src="auto">NNFS4-----A----</AM>
 <AM lemma="stanice" src="auto" recommended="1">NNFS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2384-001-p1s10W43-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10458,8 +10456,6 @@
 <form>190</form>
 <tag>
 <AM lemma="190" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2384-001-p1s33W8-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -10472,8 +10468,6 @@
 <AM lemma="bodový" src="auto">AAMS2----1A----</AM>
 <AM lemma="bodový" src="auto">AAMS4----1A----</AM>
 <AM lemma="bodový" src="auto">AANS2----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2384-001-p1s33W9-Ta">
 <src.rf>tagger-a</src.rf>

@@ -6782,8 +6782,6 @@
 <form>ji</form>
 <tag>
 <AM lemma="on-1" src="auto" recommended="1">PPFS4--3-------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0946-001-p1s23W50-Ta">
 <src.rf>tagger-a</src.rf>

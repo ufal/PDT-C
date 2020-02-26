@@ -684,8 +684,6 @@
 <AM lemma="vytvořený_^(*3it)" src="auto">AANP1----1A----</AM>
 <AM lemma="vytvořený_^(*3it)" src="auto">AANP4----1A----</AM>
 <AM lemma="vytvořený_^(*3it)" src="auto">AANP5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2002-001-p1s2W16-Ta">
 <src.rf>tagger-a</src.rf>

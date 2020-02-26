@@ -9757,8 +9757,6 @@
 <AM lemma="inzerce" src="auto">NNFS1-----A----</AM>
 <AM lemma="inzerce" src="auto" recommended="1">NNFS2-----A----</AM>
 <AM lemma="inzerce" src="auto">NNFS5-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2337-001-p1s28W12-Ta">
 <src.rf>tagger-a</src.rf>

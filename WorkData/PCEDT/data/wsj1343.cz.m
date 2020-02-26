@@ -220,8 +220,6 @@
 <form>Guadalajara</form>
 <tag>
 <AM lemma="Guadalajara_;G" src="auto" recommended="1">NNFS1-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1343-001-p1s0W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -644,8 +642,6 @@
 <form>Guadalajara</form>
 <tag>
 <AM lemma="Guadalajara_;G" src="auto" recommended="1">NNFS1-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1343-001-p1s2W10-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1013,8 +1009,6 @@
 <form>Guadalajara</form>
 <tag>
 <AM lemma="Guadalajara_;G" src="auto" recommended="1">NNFS1-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1343-001-p1s3W13-Ta">
 <src.rf>tagger-a</src.rf>

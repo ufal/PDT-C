@@ -821,8 +821,6 @@
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP5FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS1FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSZS5FS3-------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1998-001-p1s3W8-Ta">
 <src.rf>tagger-a</src.rf>

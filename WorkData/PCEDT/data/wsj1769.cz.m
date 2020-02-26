@@ -782,8 +782,6 @@
 <AM lemma="stejný" src="auto">AAMS2----1A----</AM>
 <AM lemma="stejný" src="auto">AAMS4----1A----</AM>
 <AM lemma="stejný" src="auto">AANS2----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1769-001-p1s1W26-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2178,8 +2176,6 @@
 <AM lemma="stejný" src="auto">AAMS2----1A----</AM>
 <AM lemma="stejný" src="auto">AAMS4----1A----</AM>
 <AM lemma="stejný" src="auto">AANS2----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1769-001-p1s5W29-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2515,8 +2511,6 @@
 <AM lemma="stejný" src="auto">AAMS2----1A----</AM>
 <AM lemma="stejný" src="auto">AAMS4----1A----</AM>
 <AM lemma="stejný" src="auto">AANS2----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1769-001-p1s6W24-Ta">
 <src.rf>tagger-a</src.rf>

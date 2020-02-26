@@ -3340,8 +3340,6 @@
 <AM lemma="do-2_^(tae-kwon-do)" src="auto">NNNXX-----A----</AM>
 <AM lemma="do-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
 <AM lemma="do-99_:B_;S" src="auto">NNXXX-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2407-001-p1s9W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6622,8 +6620,6 @@
 <AM lemma="osmnáctiletý" src="auto">AANP1----1A----</AM>
 <AM lemma="osmnáctiletý" src="auto">AANP4----1A----</AM>
 <AM lemma="osmnáctiletý" src="auto">AANP5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2407-001-p1s19W16-Ta">
 <src.rf>tagger-a</src.rf>

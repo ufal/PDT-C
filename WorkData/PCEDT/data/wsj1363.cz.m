@@ -2495,8 +2495,6 @@
 <form>10.625</form>
 <tag>
 <AM lemma="10.625" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1363-001-p1s8W10-Ta">
 <src.rf>tagger-a</src.rf>

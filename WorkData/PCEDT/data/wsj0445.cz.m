@@ -1091,8 +1091,6 @@
 <AM lemma="technika" src="auto">NNFP4-----A----</AM>
 <AM lemma="technika" src="auto">NNFP5-----A----</AM>
 <AM lemma="technika" src="auto" recommended="1">NNFS2-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0445-001-p1s2W23-Ta">
 <src.rf>tagger-a</src.rf>
@@ -12018,8 +12016,6 @@
 <form>66</form>
 <tag>
 <AM lemma="66" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0445-001-p1s48W16-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -12051,8 +12047,6 @@
 <AM lemma="letý" src="auto">AANS1----1A---6</AM>
 <AM lemma="letý" src="auto">AANS4----1A---6</AM>
 <AM lemma="letý" src="auto">AANS5----1A---6</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0445-001-p1s48W17-Ta">
 <src.rf>tagger-a</src.rf>

@@ -2913,8 +2913,6 @@
 <form>80</form>
 <tag>
 <AM lemma="80" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0267-001-p1s9W7-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -2939,8 +2937,6 @@
 <AM lemma="stránkový" src="auto">AANS1----1A----</AM>
 <AM lemma="stránkový" src="auto">AANS4----1A----</AM>
 <AM lemma="stránkový" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0267-001-p1s9W8-Ta">
 <src.rf>tagger-a</src.rf>
@@ -11376,8 +11372,6 @@
 <form>jedním</form>
 <tag>
 <AM lemma="jeden`1" src="auto" recommended="1">ClZS7----------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0267-001-p1s31W15-Ta">
 <src.rf>tagger-a</src.rf>

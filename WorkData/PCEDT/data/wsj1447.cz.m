@@ -3317,8 +3317,6 @@
 <AM lemma="on-1_^(ona)" src="auto" recommended="1">PPFS3--3-------</AM>
 <AM lemma="on-1_^(ona)" src="auto">PPFS4--3------6</AM>
 <AM lemma="on-1_^(ona)" src="auto">PPFS7--3-------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1447-001-p1s10W26-Ta">
 <src.rf>tagger-a</src.rf>

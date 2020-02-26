@@ -1082,8 +1082,6 @@
 <AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
 <AM lemma="versus_:B" src="auto">RR--1---------9</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2274-001-p1s3W50-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -1096,8 +1094,6 @@
 <AM lemma="rámec" src="auto">NNIS3-----A----</AM>
 <AM lemma="rámec" src="auto">NNIS5-----A----</AM>
 <AM lemma="rámec" src="auto" recommended="1">NNIS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2274-001-p1s3W51-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1304,8 +1300,6 @@
 <AM lemma="Connecticut_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Connecticut_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Connecticut_;G" src="auto" recommended="1">NNIS6-----A----</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj2274-001-p1s4W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1426,8 +1420,6 @@
 <AM lemma="Connecticut_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Connecticut_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Connecticut_;G" src="auto" recommended="1">NNIS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2274-001-p1s4W25-Ta">
 <src.rf>tagger-a</src.rf>

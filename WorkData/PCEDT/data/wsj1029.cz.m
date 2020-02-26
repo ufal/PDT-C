@@ -624,8 +624,6 @@
 <AM lemma="další" src="auto">AAMP6----1A----</AM>
 <AM lemma="další" src="auto">AANP2----1A----</AM>
 <AM lemma="další" src="auto">AANP6----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1029-001-p1s1W22-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1307,8 +1305,6 @@
 <AM lemma="massachusettský" src="auto">AAMS2----1A----</AM>
 <AM lemma="massachusettský" src="auto">AAMS4----1A----</AM>
 <AM lemma="massachusettský" src="auto">AANS2----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1029-001-p1s4W10-Ta">
 <src.rf>tagger-a</src.rf>

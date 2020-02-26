@@ -1783,8 +1783,6 @@
 <AM lemma="Pennsylvanie_;G" src="auto">NNFS3-----A----</AM>
 <AM lemma="Pennsylvanie_;G" src="auto">NNFS4-----A----</AM>
 <AM lemma="Pennsylvanie_;G" src="auto" recommended="1">NNFS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1754-001-p1s5W24-Ta">
 <src.rf>tagger-a</src.rf>

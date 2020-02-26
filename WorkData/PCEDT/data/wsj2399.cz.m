@@ -1055,8 +1055,6 @@
 <AM lemma="desetiletý" src="auto">AAIP7----1A----</AM>
 <AM lemma="desetiletý" src="auto">AAMP7----1A----</AM>
 <AM lemma="desetiletý" src="auto">AANP7----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2399-001-p1s3W28-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2203,8 +2201,6 @@
 <AM lemma="desetiletý" src="auto">AAIP7----1A----</AM>
 <AM lemma="desetiletý" src="auto">AAMP7----1A----</AM>
 <AM lemma="desetiletý" src="auto">AANP7----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2399-001-p1s7W24-Ta">
 <src.rf>tagger-a</src.rf>
@@ -3906,8 +3902,6 @@
 <AM lemma="desetiletý" src="auto" recommended="1">AAIP7----1A----</AM>
 <AM lemma="desetiletý" src="auto">AAMP7----1A----</AM>
 <AM lemma="desetiletý" src="auto">AANP7----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2399-001-p1s12W39-Ta">
 <src.rf>tagger-a</src.rf>

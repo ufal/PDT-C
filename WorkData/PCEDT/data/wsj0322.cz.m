@@ -4436,8 +4436,6 @@
 <AM lemma="nakupování_^(*3at)" src="auto">NNNS4-----A----</AM>
 <AM lemma="nakupování_^(*3at)" src="auto">NNNS5-----A----</AM>
 <AM lemma="nakupování_^(*3at)" src="auto" recommended="1">NNNS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0322-001-p1s17W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6426,8 +6424,6 @@
 <AM lemma="z-1" src="auto" recommended="1">RR--2----------</AM>
 <AM lemma="z-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="z-88_:B" src="auto">NNXXX-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0322-001-p1s27W3-Ta">
 <src.rf>tagger-a</src.rf>

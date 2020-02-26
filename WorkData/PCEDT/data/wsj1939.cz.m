@@ -2819,8 +2819,6 @@
 <AM lemma="strategie" src="auto">NNFS3-----A----</AM>
 <AM lemma="strategie" src="auto" recommended="1">NNFS4-----A----</AM>
 <AM lemma="strategie" src="auto">NNFS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1939-001-p1s8W22-Ta">
 <src.rf>tagger-a</src.rf>

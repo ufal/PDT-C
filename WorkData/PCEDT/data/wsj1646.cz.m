@@ -2511,8 +2511,6 @@
 <form>ochladit</form>
 <tag>
 <AM lemma="ochladit" src="auto" recommended="1">Vf--------A-P--</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1646-001-p1s9W17-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2555,8 +2553,6 @@
 <form>zkrotit</form>
 <tag>
 <AM lemma="zkrotit" src="auto" recommended="1">Vf--------A-P--</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1646-001-p1s9W21-Ta">
 <src.rf>tagger-a</src.rf>
@@ -2972,8 +2968,6 @@
 <AM lemma="který" src="auto">P4XP1---------6</AM>
 <AM lemma="který" src="auto">P4XP4---------6</AM>
 <AM lemma="který" src="auto" recommended="1">P4YS1----------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1646-001-p1s11W12-Ta">
 <src.rf>tagger-a</src.rf>

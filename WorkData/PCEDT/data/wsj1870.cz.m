@@ -14648,8 +14648,6 @@
 <form>desetkrát</form>
 <tag>
 <AM lemma="desetkrát`10" src="auto" recommended="1">Cv-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1870-001-p1s51W7-Ta">
 <src.rf>tagger-a</src.rf>
@@ -14671,8 +14669,6 @@
 <form>padesátkrát</form>
 <tag>
 <AM lemma="padesátkrát`50_^(*4)" src="auto" recommended="1">Cv-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1870-001-p1s51W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -16735,8 +16731,6 @@
 <form>ekonomka</form>
 <tag>
 <AM lemma="ekonomka_^(*2)" src="auto" recommended="1">NNFS1-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1870-001-p1s58W25-Ta">
 <src.rf>tagger-a</src.rf>
@@ -27365,8 +27359,6 @@
 <form>2</form>
 <tag>
 <AM lemma="2" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1870-001-p1s100W5-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -27398,8 +27390,6 @@
 <AM lemma="mílový" src="auto">AANS1----1A---6</AM>
 <AM lemma="mílový" src="auto">AANS4----1A---6</AM>
 <AM lemma="mílový" src="auto">AANS5----1A---6</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1870-001-p1s100W6-Ta">
 <src.rf>tagger-a</src.rf>
@@ -31085,8 +31075,6 @@
 <form>85</form>
 <tag>
 <AM lemma="85" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1870-001-p1s111W1-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -31100,8 +31088,6 @@
 <AM lemma="letý" src="auto">AANP1----1A----</AM>
 <AM lemma="letý" src="auto">AANP4----1A----</AM>
 <AM lemma="letý" src="auto">AANP5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1870-001-p1s111W2-Ta">
 <src.rf>tagger-a</src.rf>

@@ -3115,8 +3115,6 @@
 <AM lemma="plánování_^(*3at)" src="auto" recommended="1">NNNS4-----A----</AM>
 <AM lemma="plánování_^(*3at)" src="auto">NNNS5-----A----</AM>
 <AM lemma="plánování_^(*3at)" src="auto">NNNS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2394-001-p1s7W29-Ta">
 <src.rf>tagger-a</src.rf>

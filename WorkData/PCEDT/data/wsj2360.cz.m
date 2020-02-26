@@ -4398,8 +4398,6 @@
 <tag>
 <AM lemma="ocenění_^(*3it)" src="auto" recommended="1">NNNP3-----A----</AM>
 <AM lemma="ocenění_^(*3it)" src="auto">NNNS7-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2360-001-p1s13W11-Ta">
 <src.rf>tagger-a</src.rf>

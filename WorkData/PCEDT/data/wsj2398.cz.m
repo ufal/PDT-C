@@ -9536,8 +9536,6 @@
 <form>centů</form>
 <tag>
 <AM lemma="cent" src="auto" recommended="1">NNIP2-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2398-001-p1s31W9-Ta">
 <src.rf>tagger-a</src.rf>
@@ -10462,8 +10460,6 @@
 <AM lemma="Wilmington_;G" src="auto">NNIS2-----A----</AM>
 <AM lemma="Wilmington_;G" src="auto">NNIS3-----A----</AM>
 <AM lemma="Wilmington_;G" src="auto" recommended="1">NNIS6-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2398-001-p1s33W7-Ta">
 <src.rf>tagger-a</src.rf>

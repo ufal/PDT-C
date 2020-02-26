@@ -10253,8 +10253,6 @@
 <form>43</form>
 <tag>
 <AM lemma="43" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj1903-001-p1s42W8-Ta-sw1">
 <src.rf>tagger-a</src.rf>
@@ -10265,8 +10263,6 @@
 <tag>
 <AM lemma="letý" src="auto" recommended="1">AAFS4----1A----</AM>
 <AM lemma="letý" src="auto">AAFS7----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1903-001-p1s42W9-Ta">
 <src.rf>tagger-a</src.rf>

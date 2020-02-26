@@ -6194,8 +6194,6 @@
 <AM lemma="minimální" src="auto">AANS1----1A----</AM>
 <AM lemma="minimální" src="auto">AANS4----1A----</AM>
 <AM lemma="minimální" src="auto">AANS5----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1635-001-p1s30W12-Ta">
 <src.rf>tagger-a</src.rf>

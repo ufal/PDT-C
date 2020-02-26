@@ -3824,8 +3824,6 @@
 <tag>
 <AM lemma="Connecticut_;G" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Connecticut_;G" src="auto">NNIS4-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2362-001-p1s10W21-Ta">
 <src.rf>tagger-a</src.rf>

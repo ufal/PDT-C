@@ -1345,8 +1345,6 @@
 <tag>
 <AM lemma="jeho_^(přivlast.)" src="auto" recommended="1">PSXP2FS3-------</AM>
 <AM lemma="jeho_^(přivlast.)" src="auto">PSXP6FS3-------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0702-001-p1s3W30-Ta">
 <src.rf>tagger-a</src.rf>

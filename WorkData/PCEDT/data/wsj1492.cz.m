@@ -3506,8 +3506,6 @@
 <AM lemma="jeden`1" src="auto" recommended="1">ClFS7----------</AM>
 <AM lemma="jednou-1" src="auto">Cv-------------</AM>
 <AM lemma="jednou-2" src="auto">Db-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj1492-001-p1s10W5-Ta">
 <src.rf>tagger-a</src.rf>

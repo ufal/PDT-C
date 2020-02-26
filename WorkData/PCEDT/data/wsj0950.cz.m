@@ -1375,8 +1375,6 @@
 <form>1.875</form>
 <tag>
 <AM lemma="1.875" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m>
 <m id="m-wsj0950-001-p1s3W14-Ta">
 <src.rf>tagger-a</src.rf>
@@ -1432,8 +1430,6 @@
 <form>44.875</form>
 <tag>
 <AM lemma="44.875" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0950-001-p1s3W18-Ta">
 <src.rf>tagger-a</src.rf>

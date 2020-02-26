@@ -2671,8 +2671,6 @@
 <AM lemma="jiný" src="auto">AANP3----1A----</AM>
 <AM lemma="jiný" src="auto">AANS6----1A---7</AM>
 <AM lemma="jiný" src="auto" recommended="1">AANS7----1A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj2272-001-p1s8W13-Ta">
 <src.rf>tagger-a</src.rf>

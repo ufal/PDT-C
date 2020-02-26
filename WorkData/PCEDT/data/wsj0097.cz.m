@@ -1230,8 +1230,6 @@
 <form>představitel</form>
 <tag>
 <AM lemma="představitel" src="auto" recommended="1">NNMS1-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-wsj0097-001-p1s3W17-Ta">
 <src.rf>tagger-a</src.rf>
