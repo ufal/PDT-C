@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="adata_schema.xml"/>
+<schema href="adata_schema.xml" />
 <references>
-<reffile id="m" name="mdata" href="wsj2070.cz.m"/>
-<reffile id="w" name="wdata" href="wsj2070.cz.w"/>
+<reffile id="m" name="mdata" href="wsj2070.cz.m" />
+<reffile id="w" name="wdata" href="wsj2070.cz.w" />
 </references>
 </head>
 <meta>
@@ -2703,37 +2703,44 @@
 <LM id="a-wsj2070-001-p1s18W49-Ta">
 <m.rf>m#m-wsj2070-001-p1s18W49-Ta</m.rf>
 <afun>Adv</afun>
-<ord>49</ord>
+<ord>50</ord>
 <children>
 <LM id="a-wsj2070-001-p1s18W48-Ta">
 <m.rf>m#m-wsj2070-001-p1s18W48-Ta</m.rf>
 <afun>Atr</afun>
 <ord>48</ord>
+<children>
+<LM id="m-wsj2070-001-p1s18W48-Ta-sw1-ia">
+<m.rf>m#m-wsj2070-001-p1s18W48-Ta-sw1</m.rf>
+<afun>ExD</afun>
+<ord>49</ord>
+</LM>
+</children>
 </LM>
 <LM id="a-wsj2070-001-p1s18W50-Ta">
 <m.rf>m#m-wsj2070-001-p1s18W50-Ta</m.rf>
 <afun>AuxP</afun>
-<ord>50</ord>
+<ord>51</ord>
 <children>
 <LM id="a-wsj2070-001-p1s18W52-Ta">
 <m.rf>m#m-wsj2070-001-p1s18W52-Ta</m.rf>
 <afun>Adv</afun>
-<ord>52</ord>
+<ord>53</ord>
 <children>
 <LM id="a-wsj2070-001-p1s18W51-Ta">
 <m.rf>m#m-wsj2070-001-p1s18W51-Ta</m.rf>
 <afun>Atr</afun>
-<ord>51</ord>
+<ord>52</ord>
 </LM>
 <LM id="a-wsj2070-001-p1s18W54-Ta">
 <m.rf>m#m-wsj2070-001-p1s18W54-Ta</m.rf>
 <afun>Atr</afun>
-<ord>54</ord>
+<ord>55</ord>
 <children>
 <LM id="a-wsj2070-001-p1s18W53-Ta">
 <m.rf>m#m-wsj2070-001-p1s18W53-Ta</m.rf>
 <afun>Atr</afun>
-<ord>53</ord>
+<ord>54</ord>
 </LM>
 </children>
 </LM>
@@ -2784,7 +2791,7 @@
 <LM id="a-wsj2070-001-p1s18W55-Ta">
 <m.rf>m#m-wsj2070-001-p1s18W55-Ta</m.rf>
 <afun>AuxK</afun>
-<ord>55</ord>
+<ord>56</ord>
 </LM>
 </children>
 </LM>

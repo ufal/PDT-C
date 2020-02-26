@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="adata_schema.xml"/>
+<schema href="adata_schema.xml" />
 <references>
-<reffile id="m" name="mdata" href="wsj2415.cz.m"/>
-<reffile id="w" name="wdata" href="wsj2415.cz.w"/>
+<reffile id="m" name="mdata" href="wsj2415.cz.m" />
+<reffile id="w" name="wdata" href="wsj2415.cz.w" />
 </references>
 </head>
 <meta>
@@ -7079,44 +7079,51 @@
 <m.rf>m#m-wsj2415-001-p1s54W23-Ta</m.rf>
 <afun>Obj</afun>
 <is_member>1</is_member>
-<ord>23</ord>
+<ord>24</ord>
 <children>
 <LM id="a-wsj2415-001-p1s54W21-Ta">
 <m.rf>m#m-wsj2415-001-p1s54W21-Ta</m.rf>
 <afun>Atr</afun>
 <ord>21</ord>
+<children>
+<LM id="m-wsj2415-001-p1s54W21-Ta-sw1-ia">
+<m.rf>m#m-wsj2415-001-p1s54W21-Ta-sw1</m.rf>
+<afun>ExD</afun>
+<ord>22</ord>
+</LM>
+</children>
 </LM>
 <LM id="a-wsj2415-001-p1s54W22-Ta">
 <m.rf>m#m-wsj2415-001-p1s54W22-Ta</m.rf>
 <afun>Atr</afun>
-<ord>22</ord>
+<ord>23</ord>
 </LM>
 </children>
 </LM>
 <LM id="a-wsj2415-001-p1s54W24-Ta">
 <m.rf>m#m-wsj2415-001-p1s54W24-Ta</m.rf>
 <afun>AuxG</afun>
-<ord>24</ord>
+<ord>25</ord>
 </LM>
 <LM id="a-wsj2415-001-p1s54W28-Ta">
 <m.rf>m#m-wsj2415-001-p1s54W28-Ta</m.rf>
 <afun>Atr</afun>
-<ord>28</ord>
+<ord>29</ord>
 <children>
 <LM id="a-wsj2415-001-p1s54W25-Ta">
 <m.rf>m#m-wsj2415-001-p1s54W25-Ta</m.rf>
 <afun>Adv</afun>
-<ord>25</ord>
+<ord>26</ord>
 </LM>
 <LM id="a-wsj2415-001-p1s54W26-Ta">
 <m.rf>m#m-wsj2415-001-p1s54W26-Ta</m.rf>
 <afun>Sb</afun>
-<ord>26</ord>
+<ord>27</ord>
 <children>
 <LM id="a-wsj2415-001-p1s54W27-Ta">
 <m.rf>m#m-wsj2415-001-p1s54W27-Ta</m.rf>
 <afun>Atr</afun>
-<ord>27</ord>
+<ord>28</ord>
 </LM>
 </children>
 </LM>
@@ -7153,7 +7160,7 @@
 <LM id="a-wsj2415-001-p1s54W29-Ta">
 <m.rf>m#m-wsj2415-001-p1s54W29-Ta</m.rf>
 <afun>AuxK</afun>
-<ord>29</ord>
+<ord>30</ord>
 </LM>
 </children>
 </LM>

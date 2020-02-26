@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="adata_schema.xml"/>
+<schema href="adata_schema.xml" />
 <references>
-<reffile id="m" name="mdata" href="wsj0564.cz.m"/>
-<reffile id="w" name="wdata" href="wsj0564.cz.w"/>
+<reffile id="m" name="mdata" href="wsj0564.cz.m" />
+<reffile id="w" name="wdata" href="wsj0564.cz.w" />
 </references>
 </head>
 <meta>
@@ -283,7 +283,7 @@
 <LM id="a-wsj0564-001-p1s2W30-Ta">
 <m.rf>m#m-wsj0564-001-p1s2W30-Ta</m.rf>
 <afun>Atr</afun>
-<ord>30</ord>
+<ord>31</ord>
 <children>
 <LM id="a-wsj0564-001-p1s2W24-Ta">
 <m.rf>m#m-wsj0564-001-p1s2W24-Ta</m.rf>
@@ -293,29 +293,36 @@
 <LM id="a-wsj0564-001-p1s2W29-Ta">
 <m.rf>m#m-wsj0564-001-p1s2W29-Ta</m.rf>
 <afun>Sb</afun>
-<ord>29</ord>
+<ord>30</ord>
 <children>
 <LM id="a-wsj0564-001-p1s2W26-Ta">
 <m.rf>m#m-wsj0564-001-p1s2W26-Ta</m.rf>
 <afun>Atr</afun>
-<ord>26</ord>
+<ord>27</ord>
 <children>
 <LM id="a-wsj0564-001-p1s2W25-Ta">
 <m.rf>m#m-wsj0564-001-p1s2W25-Ta</m.rf>
 <afun>Atr</afun>
 <ord>25</ord>
+<children>
+<LM id="m-wsj0564-001-p1s2W25-Ta-sw1-ia">
+<m.rf>m#m-wsj0564-001-p1s2W25-Ta-sw1</m.rf>
+<afun>ExD</afun>
+<ord>26</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
 <LM id="a-wsj0564-001-p1s2W27-Ta">
 <m.rf>m#m-wsj0564-001-p1s2W27-Ta</m.rf>
 <afun>Atr</afun>
-<ord>27</ord>
+<ord>28</ord>
 <children>
 <LM id="a-wsj0564-001-p1s2W28-Ta">
 <m.rf>m#m-wsj0564-001-p1s2W28-Ta</m.rf>
 <afun>AuxG</afun>
-<ord>28</ord>
+<ord>29</ord>
 </LM>
 </children>
 </LM>
@@ -324,17 +331,17 @@
 <LM id="a-wsj0564-001-p1s2W31-Ta">
 <m.rf>m#m-wsj0564-001-p1s2W31-Ta</m.rf>
 <afun>AuxP</afun>
-<ord>31</ord>
+<ord>32</ord>
 <children>
 <LM id="a-wsj0564-001-p1s2W33-Ta">
 <m.rf>m#m-wsj0564-001-p1s2W33-Ta</m.rf>
 <afun>Adv</afun>
-<ord>33</ord>
+<ord>34</ord>
 <children>
 <LM id="a-wsj0564-001-p1s2W32-Ta">
 <m.rf>m#m-wsj0564-001-p1s2W32-Ta</m.rf>
 <afun>Atr</afun>
-<ord>32</ord>
+<ord>33</ord>
 </LM>
 </children>
 </LM>
@@ -343,7 +350,7 @@
 <LM id="a-wsj0564-001-p1s2W34-Ta">
 <m.rf>m#m-wsj0564-001-p1s2W34-Ta</m.rf>
 <afun>Obj</afun>
-<ord>34</ord>
+<ord>35</ord>
 </LM>
 </children>
 </LM>
@@ -374,7 +381,7 @@
 <LM id="a-wsj0564-001-p1s2W35-Ta">
 <m.rf>m#m-wsj0564-001-p1s2W35-Ta</m.rf>
 <afun>AuxK</afun>
-<ord>35</ord>
+<ord>36</ord>
 </LM>
 </children>
 </LM>

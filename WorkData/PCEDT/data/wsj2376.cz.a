@@ -1276,7 +1276,7 @@
 <LM id="a-wsj2376-001-p1s12W21-Ta">
 <m.rf>m#m-wsj2376-001-p1s12W21-Ta</m.rf>
 <afun>Coord</afun>
-<ord>21</ord>
+<ord>22</ord>
 <children>
 <LM id="a-wsj2376-001-p1s12W3-Ta">
 <m.rf>m#m-wsj2376-001-p1s12W3-Ta</m.rf>
@@ -1380,12 +1380,19 @@
 <LM id="a-wsj2376-001-p1s12W20-Ta">
 <m.rf>m#m-wsj2376-001-p1s12W20-Ta</m.rf>
 <afun>Obj</afun>
-<ord>20</ord>
+<ord>21</ord>
 <children>
 <LM id="a-wsj2376-001-p1s12W19-Ta">
 <m.rf>m#m-wsj2376-001-p1s12W19-Ta</m.rf>
 <afun>Atr</afun>
 <ord>19</ord>
+<children>
+<LM id="m-wsj2376-001-p1s12W19-Ta-sw1-ia">
+<m.rf>m#m-wsj2376-001-p1s12W19-Ta-sw1</m.rf>
+<afun>ExD</afun>
+<ord>20</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -1403,46 +1410,46 @@
 <m.rf>m#m-wsj2376-001-p1s12W24-Ta</m.rf>
 <afun>Pred</afun>
 <is_member>1</is_member>
-<ord>24</ord>
+<ord>25</ord>
 <children>
 <LM id="a-wsj2376-001-p1s12W23-Ta">
 <m.rf>m#m-wsj2376-001-p1s12W23-Ta</m.rf>
 <afun>Obj</afun>
-<ord>23</ord>
+<ord>24</ord>
 <children>
 <LM id="a-wsj2376-001-p1s12W22-Ta">
 <m.rf>m#m-wsj2376-001-p1s12W22-Ta</m.rf>
 <afun>Atr</afun>
-<ord>22</ord>
+<ord>23</ord>
 </LM>
 </children>
 </LM>
 <LM id="a-wsj2376-001-p1s12W25-Ta">
 <m.rf>m#m-wsj2376-001-p1s12W25-Ta</m.rf>
 <afun>AuxP</afun>
-<ord>25</ord>
+<ord>26</ord>
 <children>
 <LM id="a-wsj2376-001-p1s12W26-Ta">
 <m.rf>m#m-wsj2376-001-p1s12W26-Ta</m.rf>
 <afun>Adv</afun>
-<ord>26</ord>
+<ord>27</ord>
 </LM>
 </children>
 </LM>
 <LM id="a-wsj2376-001-p1s12W28-Ta">
 <m.rf>m#m-wsj2376-001-p1s12W28-Ta</m.rf>
 <afun>Sb</afun>
-<ord>28</ord>
+<ord>29</ord>
 <children>
 <LM id="a-wsj2376-001-p1s12W27-Ta">
 <m.rf>m#m-wsj2376-001-p1s12W27-Ta</m.rf>
 <afun>AuxZ</afun>
-<ord>27</ord>
+<ord>28</ord>
 </LM>
 <LM id="a-wsj2376-001-p1s12W29-Ta">
 <m.rf>m#m-wsj2376-001-p1s12W29-Ta</m.rf>
 <afun>Atr</afun>
-<ord>29</ord>
+<ord>30</ord>
 </LM>
 </children>
 </LM>
@@ -1453,7 +1460,7 @@
 <LM id="a-wsj2376-001-p1s12W30-Ta">
 <m.rf>m#m-wsj2376-001-p1s12W30-Ta</m.rf>
 <afun>AuxK</afun>
-<ord>30</ord>
+<ord>31</ord>
 </LM>
 </children>
 <eng_sentence>Mr. Granville says he wouldn't even think of buying until at least 600 to 700 stocks have hit 52-week lows; about 100 stocks hit new lows Friday.</eng_sentence>

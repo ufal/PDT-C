@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="aanot_schema.xml" />
 <references>
-<reffile id="m" href="wsj2385.cz.m" name="mdata"/>
-<reffile id="w" href="wsj2385.cz.w" name="wdata"/>
+<reffile id="m" name="mdata" href="wsj2385.cz.m" />
+<reffile id="w" name="wdata" href="wsj2385.cz.w" />
 </references>
 </head>
 <meta>
@@ -342,12 +342,19 @@
 <LM id="a-wsj2385-001-p1s3W6-Ta">
 <m.rf>m#m-wsj2385-001-p1s3W6-Ta</m.rf>
 <afun>Atr</afun>
-<ord>6</ord>
+<ord>7</ord>
 <children>
 <LM id="a-wsj2385-001-p1s3W5-Ta">
 <m.rf>m#m-wsj2385-001-p1s3W5-Ta</m.rf>
 <afun>Atr</afun>
 <ord>5</ord>
+<children>
+<LM id="m-wsj2385-001-p1s3W5-Ta-sw1-ia">
+<m.rf>m#m-wsj2385-001-p1s3W5-Ta-sw1</m.rf>
+<afun>ExD</afun>
+<ord>6</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -362,7 +369,7 @@
 <LM id="a-wsj2385-001-p1s3W7-Ta">
 <m.rf>m#m-wsj2385-001-p1s3W7-Ta</m.rf>
 <afun>AuxK</afun>
-<ord>7</ord>
+<ord>8</ord>
 </LM>
 </children>
 <eng_sentence>$9.75 billion of 52-week bills.</eng_sentence>

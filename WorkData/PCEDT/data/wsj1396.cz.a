@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="adata_schema.xml"/>
+<schema href="adata_schema.xml" />
 <references>
-<reffile id="m" name="mdata" href="wsj1396.cz.m"/>
-<reffile id="w" name="wdata" href="wsj1396.cz.w"/>
+<reffile id="m" name="mdata" href="wsj1396.cz.m" />
+<reffile id="w" name="wdata" href="wsj1396.cz.w" />
 </references>
 </head>
 <meta>
@@ -106,12 +106,19 @@
 <m.rf>m#m-wsj1396-001-p1s0W18-Ta</m.rf>
 <afun>Atr</afun>
 <is_member>1</is_member>
-<ord>18</ord>
+<ord>19</ord>
 <children>
 <LM id="a-wsj1396-001-p1s0W17-Ta">
 <m.rf>m#m-wsj1396-001-p1s0W17-Ta</m.rf>
 <afun>Atr</afun>
 <ord>17</ord>
+<children>
+<LM id="m-wsj1396-001-p1s0W17-Ta-sw1-ia">
+<m.rf>m#m-wsj1396-001-p1s0W17-Ta-sw1</m.rf>
+<afun>ExD</afun>
+<ord>18</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -119,47 +126,47 @@
 <m.rf>m#m-wsj1396-001-p1s0W19-Ta</m.rf>
 <afun>Pred</afun>
 <is_member>1</is_member>
-<ord>19</ord>
+<ord>20</ord>
 <children>
 <LM id="a-wsj1396-001-p1s0W20-Ta">
 <m.rf>m#m-wsj1396-001-p1s0W20-Ta</m.rf>
 <afun>AuxP</afun>
-<ord>20</ord>
+<ord>21</ord>
 <children>
 <LM id="a-wsj1396-001-p1s0W23-Ta">
 <m.rf>m#m-wsj1396-001-p1s0W23-Ta</m.rf>
 <afun>Adv</afun>
-<ord>23</ord>
+<ord>24</ord>
 <children>
 <LM id="a-wsj1396-001-p1s0W21-Ta">
 <m.rf>m#m-wsj1396-001-p1s0W21-Ta</m.rf>
 <afun>Atr</afun>
-<ord>21</ord>
+<ord>22</ord>
 </LM>
 <LM id="a-wsj1396-001-p1s0W22-Ta">
 <m.rf>m#m-wsj1396-001-p1s0W22-Ta</m.rf>
 <afun>Atr</afun>
-<ord>22</ord>
+<ord>23</ord>
 </LM>
 <LM id="a-wsj1396-001-p1s0W24-Ta">
 <m.rf>m#m-wsj1396-001-p1s0W24-Ta</m.rf>
 <afun>AuxP</afun>
-<ord>24</ord>
+<ord>25</ord>
 <children>
 <LM id="a-wsj1396-001-p1s0W25-Ta">
 <m.rf>m#m-wsj1396-001-p1s0W25-Ta</m.rf>
 <afun>Atr</afun>
-<ord>25</ord>
+<ord>26</ord>
 <children>
 <LM id="a-wsj1396-001-p1s0W26-Ta">
 <m.rf>m#m-wsj1396-001-p1s0W26-Ta</m.rf>
 <afun>Atr</afun>
-<ord>26</ord>
+<ord>27</ord>
 <children>
 <LM id="a-wsj1396-001-p1s0W27-Ta">
 <m.rf>m#m-wsj1396-001-p1s0W27-Ta</m.rf>
 <afun>Atr</afun>
-<ord>27</ord>
+<ord>28</ord>
 </LM>
 </children>
 </LM>
@@ -174,7 +181,7 @@
 <LM id="a-wsj1396-001-p1s0W28-Ta">
 <m.rf>m#m-wsj1396-001-p1s0W28-Ta</m.rf>
 <afun>Adv</afun>
-<ord>28</ord>
+<ord>29</ord>
 </LM>
 </children>
 </LM>
@@ -197,7 +204,7 @@
 <LM id="a-wsj1396-001-p1s0W29-Ta">
 <m.rf>m#m-wsj1396-001-p1s0W29-Ta</m.rf>
 <afun>AuxK</afun>
-<ord>29</ord>
+<ord>30</ord>
 </LM>
 </children>
 </LM>

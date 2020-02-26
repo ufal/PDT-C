@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="aanot_schema.xml" />
 <references>
-<reffile id="m" href="wsj2207.cz.m" name="mdata"/>
-<reffile id="w" href="wsj2207.cz.w" name="wdata"/>
+<reffile id="m" name="mdata" href="wsj2207.cz.m" />
+<reffile id="w" name="wdata" href="wsj2207.cz.w" />
 </references>
 </head>
 <meta>
@@ -2657,17 +2657,24 @@
 <LM id="a-wsj2207-001-p1s15W30-Ta">
 <m.rf>m#m-wsj2207-001-p1s15W30-Ta</m.rf>
 <afun>Obj</afun>
-<ord>30</ord>
+<ord>31</ord>
 <children>
 <LM id="a-wsj2207-001-p1s15W28-Ta">
 <m.rf>m#m-wsj2207-001-p1s15W28-Ta</m.rf>
 <afun>Atr</afun>
 <ord>28</ord>
+<children>
+<LM id="m-wsj2207-001-p1s15W28-Ta-sw1-ia">
+<m.rf>m#m-wsj2207-001-p1s15W28-Ta-sw1</m.rf>
+<afun>ExD</afun>
+<ord>29</ord>
+</LM>
+</children>
 </LM>
 <LM id="a-wsj2207-001-p1s15W29-Ta">
 <m.rf>m#m-wsj2207-001-p1s15W29-Ta</m.rf>
 <afun>Atr</afun>
-<ord>29</ord>
+<ord>30</ord>
 </LM>
 </children>
 </LM>
@@ -2676,7 +2683,7 @@
 <LM id="a-wsj2207-001-p1s15W31-Ta">
 <m.rf>m#m-wsj2207-001-p1s15W31-Ta</m.rf>
 <afun>AuxK</afun>
-<ord>31</ord>
+<ord>32</ord>
 </LM>
 </children>
 <eng_sentence>In general, the bill would give the Transportation Department a 30-day review period before 15% or more of the voting stock of a major U.S. air carrier could be acquired.</eng_sentence>

@@ -1,0 +1,54 @@
+#!btred -e insert_anodes()
+# -*- cperl -*-
+
+use warnings;
+use strict;
+use feature qw{ say };
+
+use XML::LibXML;
+use Path::Tiny qw{ path };
+
+my $xpc = 'XML::LibXML::XPathContext'->new;
+$xpc->registerNs(pml => 'http://ufal.mff.cuni.cz/pdt/pml/');
+
+sub insert_anodes {
+    my $afile = FileName();
+    my $adom = 'XML::LibXML'->load_xml(location => $afile);
+    my $mfile = $xpc->findvalue(
+        '/pml:adata/pml:head/pml:references/pml:reffile[@name="mdata"]/@href',
+        $adom);
+    my $path = path($afile)->parent->stringify;
+    my $mdom = 'XML::LibXML'->load_xml(location => "$path/$mfile");
+    my @sentences = $xpc->findnodes('//pml:s', $mdom);
+    do {{
+        my $sentence = shift @sentences;
+        die 'Not enough sentences in m' unless $sentence;
+
+        my $i = 0;
+        my %mnodes = map +( $_->{id} => [$i++, $_] ),
+                     $xpc->findnodes('pml:m', $sentence);
+
+        for my $anode ($this->descendants) {
+            say 'Missing m/id', $anode->{id} unless $anode->attr('m/id');
+            delete $mnodes{ $anode->attr('m/id') }
+        }
+        for my $mid (sort { $mnodes{$a}[0] <=> $mnodes{$b}[0] } keys %mnodes) {
+            my $previous_m = ($xpc->findnodes('preceding-sibling::pml:m',
+                                              $mnodes{$mid}[1]))[-1];
+            die "Not implemented: no preceding node" unless $previous_m->{id};
+
+            my ($previous_a) = grep $_->attr('m/id') eq $previous_m->{id},
+                $this->descendants;
+            die "Node not found for $previous_m->{id}" unless $previous_a;
+
+            my $new = NewSon($previous_a);
+            $new->set_attr('afun', 'ExD');
+            $new->set_attr('m/#knit_prefix', 'm');
+            $new->set_attr('m/id', "$mid");
+            $new->set_attr('id', "$mid-ia");
+            ChangingFile(1);
+            FPosition($new);
+        }
+    }} while NextTree();
+    die 'Too many sentences in m' if @sentences;
+}

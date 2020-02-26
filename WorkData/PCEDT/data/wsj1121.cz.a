@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="adata_schema.xml"/>
+<schema href="adata_schema.xml" />
 <references>
-<reffile id="m" name="mdata" href="wsj1121.cz.m"/>
-<reffile id="w" name="wdata" href="wsj1121.cz.w"/>
+<reffile id="m" name="mdata" href="wsj1121.cz.m" />
+<reffile id="w" name="wdata" href="wsj1121.cz.w" />
 </references>
 </head>
 <meta>
@@ -3417,52 +3417,59 @@
 <LM id="a-wsj1121-001-p1s24W6-Ta">
 <m.rf>m#m-wsj1121-001-p1s24W6-Ta</m.rf>
 <afun>Sb</afun>
-<ord>6</ord>
+<ord>7</ord>
 <children>
 <LM id="a-wsj1121-001-p1s24W4-Ta">
 <m.rf>m#m-wsj1121-001-p1s24W4-Ta</m.rf>
 <afun>Atr</afun>
 <ord>4</ord>
+<children>
+<LM id="m-wsj1121-001-p1s24W4-Ta-sw1-ia">
+<m.rf>m#m-wsj1121-001-p1s24W4-Ta-sw1</m.rf>
+<afun>ExD</afun>
+<ord>5</ord>
+</LM>
+</children>
 </LM>
 <LM id="a-wsj1121-001-p1s24W5-Ta">
 <m.rf>m#m-wsj1121-001-p1s24W5-Ta</m.rf>
 <afun>Atr</afun>
-<ord>5</ord>
+<ord>6</ord>
 </LM>
 <LM id="a-wsj1121-001-p1s24W8-Ta">
 <m.rf>m#m-wsj1121-001-p1s24W8-Ta</m.rf>
 <afun>AuxP</afun>
-<ord>8</ord>
+<ord>9</ord>
 <children>
 <LM id="a-wsj1121-001-p1s24W7-Ta">
 <m.rf>m#m-wsj1121-001-p1s24W7-Ta</m.rf>
 <afun>AuxG</afun>
-<ord>7</ord>
+<ord>8</ord>
 </LM>
 <LM id="a-wsj1121-001-p1s24W11-Ta">
 <m.rf>m#m-wsj1121-001-p1s24W11-Ta</m.rf>
 <afun>Atr</afun>
-<ord>11</ord>
+<ord>12</ord>
 <children>
 <LM id="a-wsj1121-001-p1s24W9-Ta">
 <m.rf>m#m-wsj1121-001-p1s24W9-Ta</m.rf>
 <afun>Atr</afun>
-<ord>9</ord>
+<ord>10</ord>
 </LM>
 <LM id="a-wsj1121-001-p1s24W10-Ta">
 <m.rf>m#m-wsj1121-001-p1s24W10-Ta</m.rf>
 <afun>Atr</afun>
-<ord>10</ord>
+<ord>11</ord>
 </LM>
 <LM id="a-wsj1121-001-p1s24W12-Ta">
 <m.rf>m#m-wsj1121-001-p1s24W12-Ta</m.rf>
 <afun>AuxP</afun>
-<ord>12</ord>
+<ord>13</ord>
 <children>
 <LM id="a-wsj1121-001-p1s24W13-Ta">
 <m.rf>m#m-wsj1121-001-p1s24W13-Ta</m.rf>
 <afun>Atr</afun>
-<ord>13</ord>
+<ord>14</ord>
 </LM>
 </children>
 </LM>
@@ -3477,7 +3484,7 @@
 <LM id="a-wsj1121-001-p1s24W14-Ta">
 <m.rf>m#m-wsj1121-001-p1s24W14-Ta</m.rf>
 <afun>AuxK</afun>
-<ord>14</ord>
+<ord>15</ord>
 </LM>
 </children>
 </LM>

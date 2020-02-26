@@ -1886,7 +1886,7 @@
 <LM id="a-wsj1490-001-p1s7W28-Ta">
 <m.rf>m#m-wsj1490-001-p1s7W28-Ta</m.rf>
 <afun>Pnom</afun>
-<ord>28</ord>
+<ord>29</ord>
 <children>
 <LM id="a-wsj1490-001-p1s7W27-Ta">
 <m.rf>m#m-wsj1490-001-p1s7W27-Ta</m.rf>
@@ -1897,6 +1897,11 @@
 <m.rf>m#m-wsj1490-001-p1s7W26-Ta</m.rf>
 <afun>AuxZ</afun>
 <ord>26</ord>
+</LM>
+<LM id="m-wsj1490-001-p1s7W27-Ta-sw1-ia">
+<m.rf>m#m-wsj1490-001-p1s7W27-Ta-sw1</m.rf>
+<afun>ExD</afun>
+<ord>28</ord>
 </LM>
 </children>
 </LM>
@@ -1927,7 +1932,7 @@
 <LM id="a-wsj1490-001-p1s7W29-Ta">
 <m.rf>m#m-wsj1490-001-p1s7W29-Ta</m.rf>
 <afun>AuxK</afun>
-<ord>29</ord>
+<ord>30</ord>
 </LM>
 </children>
 </LM>

@@ -25776,15 +25776,20 @@
 <afun>Sb</afun>
 <ord>6</ord>
 </LM>
+<LM id="m-wsj0118-001-p1s166W7-Ta-sw1-ia">
+<m.rf>m#m-wsj0118-001-p1s166W7-Ta-sw1</m.rf>
+<afun>ExD</afun>
+<ord>8</ord>
+</LM>
 <LM id="a-wsj0118-001-p1s166W9-Ta">
 <m.rf>m#m-wsj0118-001-p1s166W9-Ta</m.rf>
 <afun>Obj</afun>
-<ord>9</ord>
+<ord>10</ord>
 <children>
 <LM id="a-wsj0118-001-p1s166W8-Ta">
 <m.rf>m#m-wsj0118-001-p1s166W8-Ta</m.rf>
 <afun>Atr</afun>
-<ord>8</ord>
+<ord>9</ord>
 </LM>
 </children>
 </LM>
@@ -25799,7 +25804,7 @@
 <LM id="a-wsj0118-001-p1s166W10-Ta">
 <m.rf>m#m-wsj0118-001-p1s166W10-Ta</m.rf>
 <afun>AuxK</afun>
-<ord>10</ord>
+<ord>11</ord>
 </LM>
 </children>
 </LM>

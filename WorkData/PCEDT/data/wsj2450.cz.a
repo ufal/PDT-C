@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="adata_schema.xml"/>
+<schema href="adata_schema.xml" />
 <references>
-<reffile id="m" name="mdata" href="wsj2450.cz.m"/>
-<reffile id="w" name="wdata" href="wsj2450.cz.w"/>
+<reffile id="m" name="mdata" href="wsj2450.cz.m" />
+<reffile id="w" name="wdata" href="wsj2450.cz.w" />
 </references>
 </head>
 <meta>
@@ -1456,62 +1456,69 @@
 <m.rf>m#m-wsj2450-001-p1s8W32-Ta</m.rf>
 <afun>Sb</afun>
 <ord>32</ord>
+<children>
+<LM id="m-wsj2450-001-p1s8W32-Ta-sw1-ia">
+<m.rf>m#m-wsj2450-001-p1s8W32-Ta-sw1</m.rf>
+<afun>ExD</afun>
+<ord>33</ord>
+</LM>
+</children>
 </LM>
 <LM id="a-wsj2450-001-p1s8W34-Ta">
 <m.rf>m#m-wsj2450-001-p1s8W34-Ta</m.rf>
 <afun>Sb</afun>
-<ord>34</ord>
+<ord>35</ord>
 <children>
 <LM id="a-wsj2450-001-p1s8W33-Ta">
 <m.rf>m#m-wsj2450-001-p1s8W33-Ta</m.rf>
 <afun>Atr</afun>
-<ord>33</ord>
+<ord>34</ord>
 </LM>
 </children>
 </LM>
 <LM id="a-wsj2450-001-p1s8W35-Ta">
 <m.rf>m#m-wsj2450-001-p1s8W35-Ta</m.rf>
 <afun>Apos</afun>
-<ord>35</ord>
+<ord>36</ord>
 </LM>
 <LM id="a-wsj2450-001-p1s8W36-Ta">
 <m.rf>m#m-wsj2450-001-p1s8W36-Ta</m.rf>
 <afun>Sb</afun>
-<ord>36</ord>
+<ord>37</ord>
 <children>
 <LM id="a-wsj2450-001-p1s8W37-Ta">
 <m.rf>m#m-wsj2450-001-p1s8W37-Ta</m.rf>
 <afun>AuxP</afun>
-<ord>37</ord>
+<ord>38</ord>
 <children>
 <LM id="a-wsj2450-001-p1s8W38-Ta">
 <m.rf>m#m-wsj2450-001-p1s8W38-Ta</m.rf>
 <afun>Atr</afun>
-<ord>38</ord>
+<ord>39</ord>
 <children>
 <LM id="a-wsj2450-001-p1s8W41-Ta">
 <m.rf>m#m-wsj2450-001-p1s8W41-Ta</m.rf>
 <afun>ExD</afun>
-<ord>41</ord>
+<ord>42</ord>
 </LM>
 </children>
 </LM>
 <LM id="a-wsj2450-001-p1s8W39-Ta">
 <m.rf>m#m-wsj2450-001-p1s8W39-Ta</m.rf>
 <afun>Apos</afun>
-<ord>39</ord>
+<ord>40</ord>
 <children>
 <LM id="a-wsj2450-001-p1s8W40-Ta">
 <m.rf>m#m-wsj2450-001-p1s8W40-Ta</m.rf>
 <afun>ExD</afun>
 <is_member>1</is_member>
-<ord>40</ord>
+<ord>41</ord>
 <children>
 <LM id="a-wsj2450-001-p1s8W42-Ta">
 <m.rf>m#m-wsj2450-001-p1s8W42-Ta</m.rf>
 <afun>ExD</afun>
 <is_parenthesis_root>1</is_parenthesis_root>
-<ord>42</ord>
+<ord>43</ord>
 </LM>
 </children>
 </LM>
@@ -1526,7 +1533,7 @@
 <LM id="a-wsj2450-001-p1s8W43-Ta">
 <m.rf>m#m-wsj2450-001-p1s8W43-Ta</m.rf>
 <afun>AuxK</afun>
-<ord>43</ord>
+<ord>44</ord>
 </LM>
 </children>
 </LM>

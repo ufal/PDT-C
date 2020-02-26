@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="adata_schema.xml"/>
+<schema href="adata_schema.xml" />
 <references>
-<reffile id="m" name="mdata" href="wsj1204.cz.m"/>
-<reffile id="w" name="wdata" href="wsj1204.cz.w"/>
+<reffile id="m" name="mdata" href="wsj1204.cz.m" />
+<reffile id="w" name="wdata" href="wsj1204.cz.w" />
 </references>
 </head>
 <meta>
@@ -847,27 +847,34 @@
 <LM id="a-wsj1204-001-p1s3W33-Ta">
 <m.rf>m#m-wsj1204-001-p1s3W33-Ta</m.rf>
 <afun>Atr</afun>
-<ord>33</ord>
+<ord>34</ord>
 <children>
 <LM id="a-wsj1204-001-p1s3W32-Ta">
 <m.rf>m#m-wsj1204-001-p1s3W32-Ta</m.rf>
 <afun>Atr</afun>
 <ord>32</ord>
+<children>
+<LM id="m-wsj1204-001-p1s3W32-Ta-sw1-ia">
+<m.rf>m#m-wsj1204-001-p1s3W32-Ta-sw1</m.rf>
+<afun>ExD</afun>
+<ord>33</ord>
+</LM>
+</children>
 </LM>
 <LM id="a-wsj1204-001-p1s3W34-Ta">
 <m.rf>m#m-wsj1204-001-p1s3W34-Ta</m.rf>
 <afun>Atr</afun>
-<ord>34</ord>
+<ord>35</ord>
 <children>
 <LM id="a-wsj1204-001-p1s3W35-Ta">
 <m.rf>m#m-wsj1204-001-p1s3W35-Ta</m.rf>
 <afun>Obj</afun>
-<ord>35</ord>
+<ord>36</ord>
 <children>
 <LM id="a-wsj1204-001-p1s3W36-Ta">
 <m.rf>m#m-wsj1204-001-p1s3W36-Ta</m.rf>
 <afun>Atr</afun>
-<ord>36</ord>
+<ord>37</ord>
 </LM>
 </children>
 </LM>
@@ -944,7 +951,7 @@
 <LM id="a-wsj1204-001-p1s3W37-Ta">
 <m.rf>m#m-wsj1204-001-p1s3W37-Ta</m.rf>
 <afun>AuxK</afun>
-<ord>37</ord>
+<ord>38</ord>
 </LM>
 </children>
 </LM>

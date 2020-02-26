@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="aanot_schema.xml"/>
+<schema href="aanot_schema.xml" />
 <references>
-<reffile id="m" href="wsj2213.cz.m" name="mdata"/>
-<reffile id="w" href="wsj2213.cz.w" name="wdata"/>
+<reffile id="m" name="mdata" href="wsj2213.cz.m" />
+<reffile id="w" name="wdata" href="wsj2213.cz.w" />
 </references>
 </head>
 <meta>
@@ -644,7 +644,7 @@
 <LM id="a-wsj2213-001-p1s1W67-Ta">
 <m.rf>m#m-wsj2213-001-p1s1W67-Ta</m.rf>
 <afun>Obj</afun>
-<ord>67</ord>
+<ord>68</ord>
 <children>
 <LM id="a-wsj2213-001-p1s1W65-Ta">
 <m.rf>m#m-wsj2213-001-p1s1W65-Ta</m.rf>
@@ -662,16 +662,23 @@
 <m.rf>m#m-wsj2213-001-p1s1W66-Ta</m.rf>
 <afun>ExD</afun>
 <ord>66</ord>
+<children>
+<LM id="m-wsj2213-001-p1s1W66-Ta-sw1-ia">
+<m.rf>m#m-wsj2213-001-p1s1W66-Ta-sw1</m.rf>
+<afun>ExD</afun>
+<ord>67</ord>
+</LM>
+</children>
 </LM>
 <LM id="a-wsj2213-001-p1s1W69-Ta">
 <m.rf>m#m-wsj2213-001-p1s1W69-Ta</m.rf>
 <afun>Pnom</afun>
-<ord>69</ord>
+<ord>70</ord>
 <children>
 <LM id="a-wsj2213-001-p1s1W68-Ta">
 <m.rf>m#m-wsj2213-001-p1s1W68-Ta</m.rf>
 <afun>Adv</afun>
-<ord>68</ord>
+<ord>69</ord>
 </LM>
 </children>
 </LM>
@@ -684,7 +691,7 @@
 <LM id="a-wsj2213-001-p1s1W71-Ta">
 <m.rf>m#m-wsj2213-001-p1s1W71-Ta</m.rf>
 <afun>AuxG</afun>
-<ord>71</ord>
+<ord>72</ord>
 </LM>
 </children>
 </LM>
@@ -693,7 +700,7 @@
 <LM id="a-wsj2213-001-p1s1W70-Ta">
 <m.rf>m#m-wsj2213-001-p1s1W70-Ta</m.rf>
 <afun>AuxK</afun>
-<ord>70</ord>
+<ord>71</ord>
 </LM>
 </children>
 <eng_sentence>In a letter filed with the Securities and Exchange Commission, the group, which holds about 4.5 million Telerate shares, or about 4.7% of the shares outstanding, said ``... at present none of us believes an offer for less than $25 per share would be fair and some believe that $25 is too low.''</eng_sentence>

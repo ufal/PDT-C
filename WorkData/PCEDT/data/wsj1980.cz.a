@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="adata_schema.xml"/>
+<schema href="adata_schema.xml" />
 <references>
-<reffile id="m" name="mdata" href="wsj1980.cz.m"/>
-<reffile id="w" name="wdata" href="wsj1980.cz.w"/>
+<reffile id="m" name="mdata" href="wsj1980.cz.m" />
+<reffile id="w" name="wdata" href="wsj1980.cz.w" />
 </references>
 </head>
 <meta>
@@ -2250,11 +2250,18 @@
 <m.rf>m#m-wsj1980-001-p1s12W26-Ta</m.rf>
 <afun>Atr</afun>
 <ord>26</ord>
+<children>
+<LM id="m-wsj1980-001-p1s12W26-Ta-sw1-ia">
+<m.rf>m#m-wsj1980-001-p1s12W26-Ta-sw1</m.rf>
+<afun>ExD</afun>
+<ord>27</ord>
+</LM>
+</children>
 </LM>
 <LM id="a-wsj1980-001-p1s12W29-Ta">
 <m.rf>m#m-wsj1980-001-p1s12W29-Ta</m.rf>
 <afun>Atr</afun>
-<ord>29</ord>
+<ord>30</ord>
 <children>
 <LM id="a-wsj1980-001-p1s12W25-Ta">
 <m.rf>m#m-wsj1980-001-p1s12W25-Ta</m.rf>
@@ -2264,52 +2271,52 @@
 <LM id="a-wsj1980-001-p1s12W27-Ta">
 <m.rf>m#m-wsj1980-001-p1s12W27-Ta</m.rf>
 <afun>Atr</afun>
-<ord>27</ord>
+<ord>28</ord>
 </LM>
 <LM id="a-wsj1980-001-p1s12W28-Ta">
 <m.rf>m#m-wsj1980-001-p1s12W28-Ta</m.rf>
 <afun>Atr</afun>
-<ord>28</ord>
+<ord>29</ord>
 </LM>
 <LM id="a-wsj1980-001-p1s12W33-Ta">
 <m.rf>m#m-wsj1980-001-p1s12W33-Ta</m.rf>
 <afun>Atr</afun>
-<ord>33</ord>
+<ord>34</ord>
 <children>
 <LM id="a-wsj1980-001-p1s12W30-Ta">
 <m.rf>m#m-wsj1980-001-p1s12W30-Ta</m.rf>
 <afun>AuxX</afun>
-<ord>30</ord>
+<ord>31</ord>
 </LM>
 <LM id="a-wsj1980-001-p1s12W31-Ta">
 <m.rf>m#m-wsj1980-001-p1s12W31-Ta</m.rf>
 <afun>Sb</afun>
-<ord>31</ord>
+<ord>32</ord>
 </LM>
 <LM id="a-wsj1980-001-p1s12W34-Ta">
 <m.rf>m#m-wsj1980-001-p1s12W34-Ta</m.rf>
 <afun>Obj</afun>
-<ord>34</ord>
+<ord>35</ord>
 <children>
 <LM id="a-wsj1980-001-p1s12W32-Ta">
 <m.rf>m#m-wsj1980-001-p1s12W32-Ta</m.rf>
 <afun>AuxT</afun>
-<ord>32</ord>
+<ord>33</ord>
 </LM>
 <LM id="a-wsj1980-001-p1s12W35-Ta">
 <m.rf>m#m-wsj1980-001-p1s12W35-Ta</m.rf>
 <afun>Adv</afun>
-<ord>35</ord>
+<ord>36</ord>
 <children>
 <LM id="a-wsj1980-001-p1s12W37-Ta">
 <m.rf>m#m-wsj1980-001-p1s12W37-Ta</m.rf>
 <afun>Atr</afun>
-<ord>37</ord>
+<ord>38</ord>
 <children>
 <LM id="a-wsj1980-001-p1s12W36-Ta">
 <m.rf>m#m-wsj1980-001-p1s12W36-Ta</m.rf>
 <afun>Atr</afun>
-<ord>36</ord>
+<ord>37</ord>
 </LM>
 </children>
 </LM>
@@ -2336,7 +2343,7 @@
 <LM id="a-wsj1980-001-p1s12W38-Ta">
 <m.rf>m#m-wsj1980-001-p1s12W38-Ta</m.rf>
 <afun>AuxK</afun>
-<ord>38</ord>
+<ord>39</ord>
 </LM>
 </children>
 </LM>
@@ -2964,32 +2971,39 @@
 <LM id="a-wsj1980-001-p1s15W25-Ta">
 <m.rf>m#m-wsj1980-001-p1s15W25-Ta</m.rf>
 <afun>Obj</afun>
-<ord>25</ord>
+<ord>26</ord>
 <children>
 <LM id="a-wsj1980-001-p1s15W24-Ta">
 <m.rf>m#m-wsj1980-001-p1s15W24-Ta</m.rf>
 <afun>Atr</afun>
 <ord>24</ord>
+<children>
+<LM id="m-wsj1980-001-p1s15W24-Ta-sw1-ia">
+<m.rf>m#m-wsj1980-001-p1s15W24-Ta-sw1</m.rf>
+<afun>ExD</afun>
+<ord>25</ord>
+</LM>
+</children>
 </LM>
 <LM id="a-wsj1980-001-p1s15W26-Ta">
 <m.rf>m#m-wsj1980-001-p1s15W26-Ta</m.rf>
 <afun>AuxP</afun>
-<ord>26</ord>
+<ord>27</ord>
 <children>
 <LM id="a-wsj1980-001-p1s15W27-Ta">
 <m.rf>m#m-wsj1980-001-p1s15W27-Ta</m.rf>
 <afun>Atr</afun>
-<ord>27</ord>
+<ord>28</ord>
 <children>
 <LM id="a-wsj1980-001-p1s15W29-Ta">
 <m.rf>m#m-wsj1980-001-p1s15W29-Ta</m.rf>
 <afun>Atr</afun>
-<ord>29</ord>
+<ord>30</ord>
 <children>
 <LM id="a-wsj1980-001-p1s15W28-Ta">
 <m.rf>m#m-wsj1980-001-p1s15W28-Ta</m.rf>
 <afun>Atr</afun>
-<ord>28</ord>
+<ord>29</ord>
 </LM>
 </children>
 </LM>
@@ -3008,7 +3022,7 @@
 <LM id="a-wsj1980-001-p1s15W30-Ta">
 <m.rf>m#m-wsj1980-001-p1s15W30-Ta</m.rf>
 <afun>AuxK</afun>
-<ord>30</ord>
+<ord>31</ord>
 </LM>
 </children>
 </LM>
