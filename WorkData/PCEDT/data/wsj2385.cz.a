@@ -348,13 +348,11 @@
 <m.rf>m#m-wsj2385-001-p1s3W5-Ta</m.rf>
 <afun>Atr</afun>
 <ord>5</ord>
-<children>
+</LM>
 <LM id="m-wsj2385-001-p1s3W5-Ta-sw1-ia">
 <m.rf>m#m-wsj2385-001-p1s3W5-Ta-sw1</m.rf>
-<afun>ExD</afun>
+<afun>Atr</afun>
 <ord>6</ord>
-</LM>
-</children>
 </LM>
 </children>
 </LM>

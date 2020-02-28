@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj1464.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -8980,7 +8980,7 @@
 <children>
 <LM id="T-wsj1464-001-p1s31a39">
 <a>
-<lex.rf>a#a-wsj1464-001-p1s31W43-Ta</lex.rf>
+<lex.rf>a#m-wsj1464-001-p1s31W43-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -9000,12 +9000,6 @@
 <deepord>37</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -10705,7 +10699,7 @@
 <children>
 <LM id="T-wsj1464-001-p1s38a27">
 <a>
-<lex.rf>a#a-wsj1464-001-p1s38W28-Ta</lex.rf>
+<lex.rf>a#m-wsj1464-001-p1s38W28-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -10725,12 +10719,6 @@
 <deepord>25</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1464-001-p1s38a29">
 <a>
@@ -13351,7 +13339,7 @@
 <children>
 <LM id="T-wsj1464-001-p1s51a3">
 <a>
-<lex.rf>a#a-wsj1464-001-p1s51W1-Ta</lex.rf>
+<lex.rf>a#m-wsj1464-001-p1s51W1-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -13371,12 +13359,6 @@
 <deepord>1</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1464-001-p1s51a4">
 <a>
@@ -14337,7 +14319,7 @@
 <children>
 <LM id="T-wsj1464-001-p1s54a18">
 <a>
-<lex.rf>a#a-wsj1464-001-p1s54W17-Ta</lex.rf>
+<lex.rf>a#m-wsj1464-001-p1s54W17-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -14357,12 +14339,6 @@
 <deepord>17</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1464-001-p1s54a19">
 <a>
@@ -16546,7 +16522,7 @@
 </LM>
 <LM id="T-wsj1464-001-p1s62a19">
 <a>
-<lex.rf>a#a-wsj1464-001-p1s62W18-Ta</lex.rf>
+<lex.rf>a#m-wsj1464-001-p1s62W18-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -16566,12 +16542,6 @@
 <deepord>15</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1464-001-p1s62a20">
 <a>

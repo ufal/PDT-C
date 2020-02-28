@@ -4,17 +4,20 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0366.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj0366-001-p1s0">
 <atree.rf>a#a-wsj0366-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0366-001-p1s0a1">
+<children>
+<LM id="T-wsj0366-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0366-001-p1s0W21-Ta</lex.rf>
-<aux.rf>a#a-wsj0366-001-p1s0W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0366-001-p1s0W20-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1344f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -105,7 +108,7 @@
 <children>
 <LM id="T-wsj0366-001-p1s0a11">
 <a>
-<lex.rf>a#a-wsj0366-001-p1s0W6-Ta</lex.rf>
+<lex.rf>a#m-wsj0366-001-p1s0W6-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -114,7 +117,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0366-001-p1s0a31">
+<children>
+<LM id="T-wsj0366-001-p1s0a31">
 <a>
 <lex.rf>a#a-wsj0366-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -122,11 +126,8 @@
 <t_lemma>56</t_lemma>
 <functor>RSTR</functor>
 <deepord>5</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0366-001-p1s0a12">
 <a>
@@ -154,7 +155,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj0366-001-p1s0a14">
+<children>
+<LM id="T-wsj0366-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj0366-001-p1s0W10-Ta</lex.rf>
 </a>
@@ -165,6 +167,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0366-001-p1s0a15">
@@ -178,7 +181,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj0366-001-p1s0a33">
+<children>
+<LM id="T-wsj0366-001-p1s0a33">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -258,6 +262,7 @@
 <deepord>20</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -267,7 +272,9 @@
 <LM id="T-wsj0366-001-p1s0a23">
 <a>
 <lex.rf>a#a-wsj0366-001-p1s0W24-Ta</lex.rf>
-<aux.rf>a#a-wsj0366-001-p1s0W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0366-001-p1s0W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>funkce</t_lemma>
@@ -300,7 +307,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj0366-001-p1s0a26">
+<children>
+<LM id="T-wsj0366-001-p1s0a26">
 <a>
 <lex.rf>a#a-wsj0366-001-p1s0W29-Ta</lex.rf>
 </a>
@@ -350,15 +358,19 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0366-001-p1s0a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Joe F. Lynch, the 56-year-old chairman and chief executive officer of First Continental Real Estate Investment Trust, was named to the new post of vice chairman of this bank holding company.</eng_sentence>
 </LM>

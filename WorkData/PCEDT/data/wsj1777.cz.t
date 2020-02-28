@@ -4,17 +4,20 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj1777.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj1777-001-p1s0">
 <atree.rf>a#a-wsj1777-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1777-001-p1s0a1">
+<children>
+<LM id="T-wsj1777-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1777-001-p1s0W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1777-001-p1s0W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1777-001-p1s0W18-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1344f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -95,7 +98,7 @@
 <children>
 <LM id="T-wsj1777-001-p1s0a43">
 <a>
-<lex.rf>a#a-wsj1777-001-p1s0W5-Ta</lex.rf>
+<lex.rf>a#m-wsj1777-001-p1s0W5-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -104,7 +107,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1777-001-p1s0a56">
+<children>
+<LM id="T-wsj1777-001-p1s0a56">
 <a>
 <lex.rf>a#a-wsj1777-001-p1s0W5-Ta</lex.rf>
 </a>
@@ -112,11 +116,8 @@
 <t_lemma>60</t_lemma>
 <functor>RSTR</functor>
 <deepord>6</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1777-001-p1s0a44">
 <a>
@@ -208,7 +209,8 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>18</deepord>
-<children id="T-wsj1777-001-p1s0a4">
+<children>
+<LM id="T-wsj1777-001-p1s0a4">
 <a>
 <lex.rf>a#a-wsj1777-001-p1s0W14-Ta</lex.rf>
 </a>
@@ -221,9 +223,12 @@
 <is_parenthesis>1</is_parenthesis>
 <deepord>17</deepord>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>Velké písmeno</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 </children>
@@ -245,7 +250,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1777-001-p1s0a8">
+<children>
+<LM id="T-wsj1777-001-p1s0a8">
 <a>
 <lex.rf>a#a-wsj1777-001-p1s0W22-Ta</lex.rf>
 </a>
@@ -290,7 +296,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj1777-001-p1s0a50">
+<children>
+<LM id="T-wsj1777-001-p1s0a50">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -364,6 +371,7 @@
 <deepord>30</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1777-001-p1s0a15">
@@ -394,7 +402,9 @@
 <LM id="T-wsj1777-001-p1s0a20">
 <a>
 <lex.rf>a#a-wsj1777-001-p1s0W35-Ta</lex.rf>
-<aux.rf>a#a-wsj1777-001-p1s0W33-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1777-001-p1s0W33-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>management</t_lemma>
@@ -499,7 +509,9 @@
 <a>
 <lex.rf>a#a-wsj1777-001-p1s0W42-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1777-001-p1s0a22</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1777-001-p1s0a22</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -582,8 +594,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>Coref</type>
 <text>pravděpodobně odkazuje k něčemu v předchozím kontextu, který zde ale chybí</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -599,16 +613,19 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Sir Richard Butler, 60-year-old chairman of Agricola (U.K.) Ltd., was named chairman of County NatWest Investment Management Ltd., the investment management subsidiary of County NatWest Ltd., the investment banking arm of this British bank.</eng_sentence>
 </LM>
 <LM id="T-wsj1777-001-p1s1">
 <atree.rf>a#a-wsj1777-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1777-001-p1s1a1">
+<children>
+<LM id="T-wsj1777-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1777-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -632,7 +649,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1777-001-p1s1a3">
+<children>
+<LM id="T-wsj1777-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj1777-001-p1s1W1-Ta</lex.rf>
 </a>
@@ -643,11 +661,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1777-001-p1s0a55</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1777-001-p1s1a13">
@@ -660,7 +681,9 @@
 <LM id="T-wsj1777-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj1777-001-p1s1W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1777-001-p1s1W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1777-001-p1s1W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Plastow</t_lemma>
@@ -706,7 +729,9 @@
 <a>
 <lex.rf>a#a-wsj1777-001-p1s1W8-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1777-001-p1s1a6</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1777-001-p1s1a6</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -718,7 +743,9 @@
 <LM id="T-wsj1777-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj1777-001-p1s1W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1777-001-p1s1W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1777-001-p1s1W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>červenec</t_lemma>
@@ -733,13 +760,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Sir Richard succeeds John Plastow, who resigned in July.</eng_sentence>
 </LM>
 <LM id="T-wsj1777-001-p1s2">
 <atree.rf>a#a-wsj1777-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1777-001-p1s2a1">
+<children>
+<LM id="T-wsj1777-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1777-001-p1s2W3-Ta</lex.rf>
 </a>
@@ -763,7 +792,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1777-001-p1s2a3">
+<children>
+<LM id="T-wsj1777-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj1777-001-p1s2W1-Ta</lex.rf>
 </a>
@@ -774,11 +804,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1777-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1777-001-p1s2a4">
@@ -841,7 +874,9 @@
 <LM id="T-wsj1777-001-p1s2a10">
 <a>
 <lex.rf>a#a-wsj1777-001-p1s2W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1777-001-p1s2W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1777-001-p1s2W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>banka</t_lemma>
@@ -850,7 +885,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1777-001-p1s2a11">
+<children>
+<LM id="T-wsj1777-001-p1s2a11">
 <a>
 <lex.rf>a#a-wsj1777-001-p1s2W14-Ta</lex.rf>
 </a>
@@ -949,13 +985,15 @@
 </children>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Sir Richard is also a non-executive director at National Westminister Bank and NatWest Investment Bank Ltd.</eng_sentence>
 </LM>

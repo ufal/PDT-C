@@ -4,14 +4,15 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0572.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj0572-001-p1s0">
 <atree.rf>a#a-wsj0572-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0572-001-p1s0a1">
+<children>
+<LM id="T-wsj0572-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0572-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -38,7 +39,7 @@
 <children>
 <LM id="T-wsj0572-001-p1s0a4">
 <a>
-<lex.rf>a#a-wsj0572-001-p1s0W1-Ta</lex.rf>
+<lex.rf>a#m-wsj0572-001-p1s0W1-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -47,7 +48,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0572-001-p1s0a18">
+<children>
+<LM id="T-wsj0572-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj0572-001-p1s0W1-Ta</lex.rf>
 </a>
@@ -55,11 +57,8 @@
 <t_lemma>52</t_lemma>
 <functor>RSTR</functor>
 <deepord>1</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0572-001-p1s0a3">
 <a>
@@ -121,7 +120,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0572-001-p1s0a11">
+<children>
+<LM id="T-wsj0572-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj0572-001-p1s0W9-Ta</lex.rf>
 </a>
@@ -132,6 +132,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0572-001-p1s0a12">
@@ -146,7 +147,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0572-001-p1s0a13">
+<children>
+<LM id="T-wsj0572-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj0572-001-p1s0W14-Ta</lex.rf>
 </a>
@@ -208,23 +210,28 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>Coref</type>
 <text>odkaz na něco v předchozím kontextu, který zde ale chybí</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Joseph P. Jordan, 52 years old, becomes president, chief executive officer and a director of the bank company.</eng_sentence>
 </LM>
 <LM id="T-wsj0572-001-p1s1">
 <atree.rf>a#a-wsj0572-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0572-001-p1s1a1">
+<children>
+<LM id="T-wsj0572-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0572-001-p1s1W21-Ta</lex.rf>
 </a>
@@ -307,7 +314,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj0572-001-p1s1a11">
+<children>
+<LM id="T-wsj0572-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj0572-001-p1s1W6-Ta</lex.rf>
 </a>
@@ -318,6 +326,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0572-001-p1s1a12">
@@ -332,7 +341,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0572-001-p1s1a13">
+<children>
+<LM id="T-wsj0572-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj0572-001-p1s1W9-Ta</lex.rf>
 </a>
@@ -343,6 +353,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0572-001-p1s1a36">
@@ -385,7 +396,9 @@
 <LM id="T-wsj0572-001-p1s1a15">
 <a>
 <lex.rf>a#a-wsj0572-001-p1s1W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0572-001-p1s1W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0572-001-p1s1W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Beacon</t_lemma>
@@ -394,10 +407,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj0572-001-p1s1a17">
+<children>
+<LM id="T-wsj0572-001-p1s1a17">
 <a>
 <lex.rf>a#a-wsj0572-001-p1s1W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0572-001-p1s1W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0572-001-p1s1W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>stát</t_lemma>
@@ -406,7 +422,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj0572-001-p1s1a37">
+<children>
+<LM id="T-wsj0572-001-p1s1a37">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -435,7 +452,9 @@
 <deepord>18</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -444,9 +463,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0572-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0572-001-p1s1a38">
@@ -459,7 +480,9 @@
 <LM id="T-wsj0572-001-p1s1a24">
 <a>
 <lex.rf>a#a-wsj0572-001-p1s1W24-Ta</lex.rf>
-<aux.rf>a#a-wsj0572-001-p1s1W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0572-001-p1s1W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Broderick</t_lemma>
@@ -498,7 +521,9 @@
 <a>
 <lex.rf>a#a-wsj0572-001-p1s1W26-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0572-001-p1s1a24</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0572-001-p1s1a24</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -510,7 +535,9 @@
 <LM id="T-wsj0572-001-p1s1a29">
 <a>
 <lex.rf>a#a-wsj0572-001-p1s1W30-Ta</lex.rf>
-<aux.rf>a#a-wsj0572-001-p1s1W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0572-001-p1s1W28-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -520,7 +547,8 @@
 </gram>
 <is_state>1</is_state>
 <deepord>26</deepord>
-<children id="T-wsj0572-001-p1s1a30">
+<children>
+<LM id="T-wsj0572-001-p1s1a30">
 <a>
 <lex.rf>a#a-wsj0572-001-p1s1W29-Ta</lex.rf>
 </a>
@@ -531,12 +559,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>25</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0572-001-p1s1a32">
 <a>
 <lex.rf>a#a-wsj0572-001-p1s1W32-Ta</lex.rf>
-<aux.rf>a#a-wsj0572-001-p1s1W31-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0572-001-p1s1W31-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>autonehoda</t_lemma>
@@ -550,10 +581,13 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>M-lemma</type>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Mr. Jordan, formerly president and chief executive of Fishkill National Bank in Beacon, N.Y., succeeds Donald Broderick, who died at 52 in an automobile accident.</eng_sentence>
 </LM>

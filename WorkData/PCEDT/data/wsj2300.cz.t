@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj2300.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -4868,7 +4868,7 @@
 <children>
 <LM id="T-wsj2300-001-p1s18a15">
 <a>
-<lex.rf>a#a-wsj2300-001-p1s18W14-Ta</lex.rf>
+<lex.rf>a#m-wsj2300-001-p1s18W14-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>bodový</t_lemma>
@@ -4886,20 +4886,8 @@
 <t_lemma>508</t_lemma>
 <functor>RSTR</functor>
 <deepord>13</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2300-001-p1s18a16">
 <a>
@@ -10768,10 +10756,10 @@
 <children>
 <LM id="T-wsj2300-001-p1s38a22">
 <a>
-<lex.rf>a#a-wsj2300-001-p1s38W22-Ta</lex.rf>
+<lex.rf>a#m-wsj2300-001-p1s38W22-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>bodovém</t_lemma>
+<t_lemma>bodový</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -10786,20 +10774,8 @@
 <t_lemma>100</t_lemma>
 <functor>RSTR</functor>
 <deepord>19</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2300-001-p1s38a26">
 <a>
@@ -20115,7 +20091,7 @@
 <children>
 <LM id="T-wsj2300-001-p1s72a24">
 <a>
-<lex.rf>a#a-wsj2300-001-p1s72W23-Ta</lex.rf>
+<lex.rf>a#m-wsj2300-001-p1s72W23-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>bodový</t_lemma>
@@ -20133,20 +20109,8 @@
 <t_lemma>30</t_lemma>
 <functor>RSTR</functor>
 <deepord>21</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

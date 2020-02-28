@@ -2663,13 +2663,11 @@
 <m.rf>m#m-wsj2207-001-p1s15W28-Ta</m.rf>
 <afun>Atr</afun>
 <ord>28</ord>
-<children>
+</LM>
 <LM id="m-wsj2207-001-p1s15W28-Ta-sw1-ia">
 <m.rf>m#m-wsj2207-001-p1s15W28-Ta-sw1</m.rf>
-<afun>ExD</afun>
+<afun>Atr</afun>
 <ord>29</ord>
-</LM>
-</children>
 </LM>
 <LM id="a-wsj2207-001-p1s15W29-Ta">
 <m.rf>m#m-wsj2207-001-p1s15W29-Ta</m.rf>

@@ -4,17 +4,20 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj1811.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj1811-001-p1s0">
 <atree.rf>a#a-wsj1811-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1811-001-p1s0a1">
+<children>
+<LM id="T-wsj1811-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1811-001-p1s0W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1811-001-p1s0W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1811-001-p1s0W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1344f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -46,7 +49,7 @@
 <children>
 <LM id="T-wsj1811-001-p1s0a4">
 <a>
-<lex.rf>a#a-wsj1811-001-p1s0W1-Ta</lex.rf>
+<lex.rf>a#m-wsj1811-001-p1s0W1-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -55,7 +58,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1811-001-p1s0a20">
+<children>
+<LM id="T-wsj1811-001-p1s0a20">
 <a>
 <lex.rf>a#a-wsj1811-001-p1s0W1-Ta</lex.rf>
 </a>
@@ -63,15 +67,8 @@
 <t_lemma>46</t_lemma>
 <functor>RSTR</functor>
 <deepord>2</deepord>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1 </text>
-</annot_comment>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1811-001-p1s0a3">
 <a>
@@ -133,7 +130,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1811-001-p1s0a11">
+<children>
+<LM id="T-wsj1811-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj1811-001-p1s0W12-Ta</lex.rf>
 </a>
@@ -215,7 +213,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1811-001-p1s0a18">
+<children>
+<LM id="T-wsj1811-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj1811-001-p1s0W17-Ta</lex.rf>
 </a>
@@ -226,6 +225,11 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>17</deepord>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 </children>
@@ -233,21 +237,22 @@
 </children>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
-</children>
 </children>
 <eng_sentence>James L. Madson, 46 years old, was named a vice president and assistant general manager of this producer of copper and other minerals.</eng_sentence>
 </LM>
 <LM id="T-wsj1811-001-p1s1">
 <atree.rf>a#a-wsj1811-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1811-001-p1s1a1">
+<children>
+<LM id="T-wsj1811-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1811-001-p1s1W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1811-001-p1s1W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1811-001-p1s1W10-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6496f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -311,7 +316,9 @@
 <LM id="T-wsj1811-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj1811-001-p1s1W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1811-001-p1s1W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1811-001-p1s1W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>funkce</t_lemma>
@@ -320,7 +327,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1811-001-p1s1a9">
+<children>
+<LM id="T-wsj1811-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj1811-001-p1s1W9-Ta</lex.rf>
 </a>
@@ -331,7 +339,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1811-001-p1s1a10">
+<children>
+<LM id="T-wsj1811-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj1811-001-p1s1W8-Ta</lex.rf>
 </a>
@@ -342,7 +351,9 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -357,9 +368,11 @@
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1811-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1811-001-p1s1a12">
@@ -377,7 +390,9 @@
 <LM id="T-wsj1811-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj1811-001-p1s1W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1811-001-p1s1W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1811-001-p1s1W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>1</t_lemma>
@@ -404,7 +419,9 @@
 <a>
 <lex.rf>a#a-wsj1811-001-p1s1W16-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1811-001-p1s1a12</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1811-001-p1s1a12</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>kdy</t_lemma>
 <functor>TWHEN</functor>
@@ -425,15 +442,19 @@
 </gram>
 <deepord>13</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1811-001-p1s1a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1811-001-p1s1a20">
 <a>
 <lex.rf>a#a-wsj1811-001-p1s1W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1811-001-p1s1W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1811-001-p1s1W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>penze</t_lemma>
@@ -450,8 +471,11 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>M-lemma</type>
+</LM>
 </annot_comment>
+</LM>
 </children>
 <eng_sentence>He will succeed Arthur E. Himebaugh as general manager Feb. 1, when Mr. Himebaugh retires.</eng_sentence>
 </LM>

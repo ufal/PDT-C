@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0162.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -1004,7 +1004,7 @@
 <nodetype>coap</nodetype>
 <t_lemma>#Semicolon</t_lemma>
 <functor>CONJ</functor>
-<deepord>10</deepord>
+<deepord>12</deepord>
 <children>
 <LM id="T-wsj0162-001-p1s3a1">
 <a>
@@ -1018,7 +1018,7 @@
 <gram>
 <sempos>v</sempos>
 </gram>
-<deepord>7</deepord>
+<deepord>9</deepord>
 <children>
 <LM id="T-wsj0162-001-p1s3a2">
 <a>
@@ -1065,12 +1065,30 @@
 <lex.rf>a#a-wsj0162-001-p1s3W4-Ta</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>Poor's</t_lemma>
+<t_lemma>Poor</t_lemma>
 <functor>FPHR</functor>
 <gram>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
+<LM id="T-wsj0162-001-p1s3a24">
+<a>
+<lex.rf>a#m-wsj0162-001-p1s3W4-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>'</t_lemma>
+<functor>FPHR</functor>
+<deepord>6</deepord>
+</LM>
+<LM id="T-wsj0162-001-p1s3a25">
+<a>
+<lex.rf>a#m-wsj0162-001-p1s3W4-Ta-sw2-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>s</t_lemma>
+<functor>FPHR</functor>
+<deepord>7</deepord>
 </LM>
 <LM id="T-wsj0162-001-p1s3a6">
 <a>
@@ -1082,7 +1100,7 @@
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
-<deepord>6</deepord>
+<deepord>8</deepord>
 </LM>
 </children>
 </LM>
@@ -1101,7 +1119,7 @@
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
-<deepord>8</deepord>
+<deepord>10</deepord>
 </LM>
 <LM id="T-wsj0162-001-p1s3a10">
 <a>
@@ -1116,7 +1134,7 @@
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
-<deepord>9</deepord>
+<deepord>11</deepord>
 </LM>
 </children>
 </LM>
@@ -1132,7 +1150,7 @@
 <gram>
 <sempos>v</sempos>
 </gram>
-<deepord>13</deepord>
+<deepord>15</deepord>
 <children>
 <LM id="T-wsj0162-001-p1s3a13">
 <a>
@@ -1144,7 +1162,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>11</deepord>
+<deepord>13</deepord>
 <children>
 <LM id="T-wsj0162-001-p1s3a14">
 <a>
@@ -1156,7 +1174,7 @@
 <gram>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
-<deepord>12</deepord>
+<deepord>14</deepord>
 </LM>
 </children>
 </LM>
@@ -1170,7 +1188,7 @@
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
-<deepord>14</deepord>
+<deepord>16</deepord>
 <children>
 <LM id="T-wsj0162-001-p1s3a17">
 <a>
@@ -1185,7 +1203,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>17</deepord>
+<deepord>19</deepord>
 <children>
 <LM id="T-wsj0162-001-p1s3a18">
 <a>
@@ -1197,7 +1215,7 @@
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
-<deepord>16</deepord>
+<deepord>18</deepord>
 <children>
 <LM id="T-wsj0162-001-p1s3a19">
 <a>
@@ -1209,7 +1227,7 @@
 <gram>
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
-<deepord>15</deepord>
+<deepord>17</deepord>
 </LM>
 </children>
 </LM>
@@ -1218,7 +1236,7 @@
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
 <functor>RSTR</functor>
-<deepord>18</deepord>
+<deepord>20</deepord>
 <children>
 <LM id="T-wsj0162-001-p1s3a20">
 <a>
@@ -1230,7 +1248,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>19</deepord>
+<deepord>21</deepord>
 </LM>
 <LM id="T-wsj0162-001-p1s3a21">
 <a>
@@ -1242,7 +1260,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>20</deepord>
+<deepord>22</deepord>
 </LM>
 </children>
 <coref_text>
@@ -4019,6 +4037,9 @@
 <LM id="T-wsj0162-001-p1s13a26">
 <a>
 <lex.rf>a#a-wsj0162-001-p1s13W26-Ta</lex.rf>
+<aux.rf>
+<LM>a#m-wsj0162-001-p1s13W25-Ta-sw1-ia</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>realizace</t_lemma>
@@ -4072,16 +4093,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Coref</type>
-<text>není to špatně přeloženo? - realizace by měla být v genitivu, a tedy ne EFF, a ACT "vyrovnat" by pak byl Cor odkazující ke Gen ADDR "pomoci"</text>
-</LM>
-<LM>
-<type>Typo</type>
-<text>realizace (genitiv)</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -11903,6 +11914,9 @@
 <LM id="T-wsj0162-001-p1s32a18">
 <a>
 <lex.rf>a#a-wsj0162-001-p1s32W21-Ta</lex.rf>
+<aux.rf>
+<LM>a#m-wsj0162-001-p1s32W18-Ta-sw1-ia</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8188f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -11915,9 +11929,9 @@
 <deepord>19</deepord>
 <children>
 <LM id="T-wsj0162-001-p1s32a24">
-<nodetype>complex</nodetype>
+<nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
+<t_lemma>#Gen</t_lemma>
 <functor>ACT</functor>
 <gram>
 <sempos>n.pron.def.pers</sempos>

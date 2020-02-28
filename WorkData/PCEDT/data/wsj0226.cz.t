@@ -4,14 +4,15 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0226.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj0226-001-p1s0">
 <atree.rf>a#a-wsj0226-001-p1s0</atree.rf>
 <deepord>1</deepord>
-<children id="T-wsj0226-001-p1s0a1">
+<children>
+<LM id="T-wsj0226-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0226-001-p1s0W32-Ta</lex.rf>
 </a>
@@ -23,7 +24,9 @@
 <LM id="T-wsj0226-001-p1s0a17">
 <a>
 <lex.rf>a#a-wsj0226-001-p1s0W25-Ta</lex.rf>
-<aux.rf>a#a-wsj0226-001-p1s0W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0226-001-p1s0W24-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1344f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -66,7 +69,7 @@
 <children>
 <LM id="T-wsj0226-001-p1s0a7">
 <a>
-<lex.rf>a#a-wsj0226-001-p1s0W1-Ta</lex.rf>
+<lex.rf>a#m-wsj0226-001-p1s0W1-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -75,7 +78,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0226-001-p1s0a53">
+<children>
+<LM id="T-wsj0226-001-p1s0a53">
 <a>
 <lex.rf>a#a-wsj0226-001-p1s0W1-Ta</lex.rf>
 </a>
@@ -83,15 +87,8 @@
 <t_lemma>44</t_lemma>
 <functor>RSTR</functor>
 <deepord>3</deepord>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0226-001-p1s0a6">
 <a>
@@ -131,7 +128,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0226-001-p1s0a10">
+<children>
+<LM id="T-wsj0226-001-p1s0a10">
 <a>
 <lex.rf>a#a-wsj0226-001-p1s0W8-Ta</lex.rf>
 </a>
@@ -275,7 +273,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj0226-001-p1s0a25">
+<children>
+<LM id="T-wsj0226-001-p1s0a25">
 <a>
 <lex.rf>a#a-wsj0226-001-p1s0W21-Ta</lex.rf>
 </a>
@@ -286,17 +285,21 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>21</deepord>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>Coref</type>
 <text>odkaz na něco v předchozím kontextu, který zde ale chybí</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -304,7 +307,9 @@
 <LM id="T-wsj0226-001-p1s0a28">
 <a>
 <lex.rf>a#a-wsj0226-001-p1s0W28-Ta</lex.rf>
-<aux.rf>a#a-wsj0226-001-p1s0W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0226-001-p1s0W26-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>funkce</t_lemma>
@@ -337,7 +342,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>27</deepord>
-<children id="T-wsj0226-001-p1s0a31">
+<children>
+<LM id="T-wsj0226-001-p1s0a31">
 <a>
 <lex.rf>a#a-wsj0226-001-p1s0W29-Ta</lex.rf>
 </a>
@@ -348,6 +354,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>26</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -378,9 +385,11 @@
 </gram>
 <deepord>30</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0226-001-p1s0a52</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0226-001-p1s0a34">
@@ -448,7 +457,9 @@
 <a>
 <lex.rf>a#a-wsj0226-001-p1s0W40-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0226-001-p1s0a35</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0226-001-p1s0a35</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -460,7 +471,9 @@
 <LM id="T-wsj0226-001-p1s0a41">
 <a>
 <lex.rf>a#a-wsj0226-001-p1s0W42-Ta</lex.rf>
-<aux.rf>a#a-wsj0226-001-p1s0W41-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0226-001-p1s0W41-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>věk</t_lemma>
@@ -469,7 +482,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>36</deepord>
-<children id="T-wsj0226-001-p1s0a42">
+<children>
+<LM id="T-wsj0226-001-p1s0a42">
 <a>
 <lex.rf>a#a-wsj0226-001-p1s0W44-Ta</lex.rf>
 </a>
@@ -480,7 +494,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>38</deepord>
-<children id="T-wsj0226-001-p1s0a43">
+<children>
+<LM id="T-wsj0226-001-p1s0a43">
 <a>
 <lex.rf>a#a-wsj0226-001-p1s0W43-Ta</lex.rf>
 </a>
@@ -491,15 +506,21 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>37</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0226-001-p1s0a44">
 <a>
 <lex.rf>a#a-wsj0226-001-p1s0W47-Ta</lex.rf>
-<aux.rf>a#a-wsj0226-001-p1s0W46-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0226-001-p1s0W46-Ta</LM>
+</aux.rf>
 </a>
-<compl.rf>T-wsj0226-001-p1s0a39</compl.rf>
+<compl.rf>
+<LM>T-wsj0226-001-p1s0a39</LM>
+</compl.rf>
 <nodetype>complex</nodetype>
 <t_lemma>místopředseda</t_lemma>
 <functor>COMPL</functor>
@@ -507,7 +528,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>40</deepord>
-<children id="T-wsj0226-001-p1s0a46">
+<children>
+<LM id="T-wsj0226-001-p1s0a46">
 <a>
 <lex.rf>a#a-wsj0226-001-p1s0W49-Ta</lex.rf>
 </a>
@@ -518,7 +540,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>42</deepord>
-<children id="T-wsj0226-001-p1s0a47">
+<children>
+<LM id="T-wsj0226-001-p1s0a47">
 <a>
 <lex.rf>a#a-wsj0226-001-p1s0W48-Ta</lex.rf>
 </a>
@@ -529,17 +552,21 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>41</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0226-001-p1s0a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <str_comment>
+<LM>
 <name>AMBIG</name>
 <comment>asi</comment>
+</LM>
 </str_comment>
 <src>LH</src>
+</LM>
 </coref_text>
-</children>
 </LM>
 </children>
 </LM>
@@ -548,6 +575,9 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>William A. Wise, 44 years old, president of the El Paso Natural Gas Co. unit of this energy and natural-resources concern, was named to the additional post of chief executive officer, succeeding Travis H. Petty, 61, who continues as a vice chairman of the parent.</eng_sentence>
 </LM>

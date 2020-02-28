@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj2201.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -151,7 +151,7 @@
 </LM>
 <LM id="T-wsj2201-001-p1s1a36">
 <a>
-<lex.rf>a#a-wsj2201-001-p1s1W4-Ta</lex.rf>
+<lex.rf>a#m-wsj2201-001-p1s1W4-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>bodový</t_lemma>
@@ -171,12 +171,6 @@
 <deepord>3</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2201-001-p1s1a9">
 <a>
@@ -12273,9 +12267,9 @@
 <children>
 <LM id="T-wsj2201-001-p1s55a37">
 <a>
-<lex.rf>a#a-wsj2201-001-p1s55W1-Ta</lex.rf>
+<lex.rf>a#m-wsj2201-001-p1s55W1-Ta-sw1-ia</lex.rf>
 </a>
-<nodetype>complex</nodetype>
+<nodetype>atom</nodetype>
 <t_lemma>stránkový</t_lemma>
 <functor>RSTR</functor>
 <deepord>2</deepord>
@@ -12293,12 +12287,6 @@
 <deepord>1</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2201-001-p1s55a5">
 <a>

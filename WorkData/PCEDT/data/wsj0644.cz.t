@@ -4,17 +4,20 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0644.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj0644-001-p1s0">
 <atree.rf>a#a-wsj0644-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0644-001-p1s0a1">
+<children>
+<LM id="T-wsj0644-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0644-001-p1s0W16-Ta</lex.rf>
-<aux.rf>a#a-wsj0644-001-p1s0W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0644-001-p1s0W11-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1344f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -115,7 +118,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0644-001-p1s0a11">
+<children>
+<LM id="T-wsj0644-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj0644-001-p1s0W8-Ta</lex.rf>
 </a>
@@ -126,6 +130,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -135,7 +140,9 @@
 <LM id="T-wsj0644-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj0644-001-p1s0W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0644-001-p1s0W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0644-001-p1s0W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>funkce</t_lemma>
@@ -149,7 +156,9 @@
 <a>
 <lex.rf>a#a-wsj0644-001-p1s0W13-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0644-001-p1s0a28</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0644-001-p1s0a28</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -172,15 +181,19 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0644-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0644-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj0644-001-p1s0W19-Ta</lex.rf>
-<aux.rf>a#a-wsj0644-001-p1s0W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0644-001-p1s0W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>funkce</t_lemma>
@@ -210,7 +223,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj0644-001-p1s0a21">
+<children>
+<LM id="T-wsj0644-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj0644-001-p1s0W21-Ta</lex.rf>
 </a>
@@ -221,7 +235,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj0644-001-p1s0a22">
+<children>
+<LM id="T-wsj0644-001-p1s0a22">
 <a>
 <lex.rf>a#a-wsj0644-001-p1s0W26-Ta</lex.rf>
 </a>
@@ -283,19 +298,23 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Bruce W. Wilkinson, president and chief executive officer, was named to the additional post of chairman of this architectural and design services concern.</eng_sentence>
 </LM>
 <LM id="T-wsj0644-001-p1s1">
 <atree.rf>a#a-wsj0644-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0644-001-p1s1a2">
+<children>
+<LM id="T-wsj0644-001-p1s1a2">
 <a>
 <lex.rf>a#a-wsj0644-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -319,9 +338,10 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0644-001-p1s1a4">
+<children>
+<LM id="T-wsj0644-001-p1s1a4">
 <a>
-<lex.rf>a#a-wsj0644-001-p1s1W1-Ta</lex.rf>
+<lex.rf>a#m-wsj0644-001-p1s1W1-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -330,7 +350,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0644-001-p1s1a30">
+<children>
+<LM id="T-wsj0644-001-p1s1a30">
 <a>
 <lex.rf>a#a-wsj0644-001-p1s1W1-Ta</lex.rf>
 </a>
@@ -338,16 +359,16 @@
 <t_lemma>45</t_lemma>
 <functor>RSTR</functor>
 <deepord>1</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0644-001-p1s0a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0644-001-p1s1a7">
@@ -364,7 +385,7 @@
 <children>
 <LM id="T-wsj0644-001-p1s1a6">
 <a>
-<lex.rf>a#a-wsj0644-001-p1s1W4-Ta</lex.rf>
+<lex.rf>a#m-wsj0644-001-p1s1W4-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -373,7 +394,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj0644-001-p1s1a31">
+<children>
+<LM id="T-wsj0644-001-p1s1a31">
 <a>
 <lex.rf>a#a-wsj0644-001-p1s1W4-Ta</lex.rf>
 </a>
@@ -381,11 +403,8 @@
 <t_lemma>66</t_lemma>
 <functor>RSTR</functor>
 <deepord>5</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0644-001-p1s1a5">
 <a>
@@ -424,7 +443,9 @@
 <a>
 <lex.rf>a#a-wsj0644-001-p1s1W10-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0644-001-p1s1a7</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0644-001-p1s1a7</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -450,7 +471,9 @@
 <LM id="T-wsj0644-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj0644-001-p1s1W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0644-001-p1s1W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0644-001-p1s1W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>místo</t_lemma>
@@ -459,7 +482,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj0644-001-p1s1a15">
+<children>
+<LM id="T-wsj0644-001-p1s1a15">
 <a>
 <lex.rf>a#a-wsj0644-001-p1s1W14-Ta</lex.rf>
 </a>
@@ -470,7 +494,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj0644-001-p1s1a16">
+<children>
+<LM id="T-wsj0644-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj0644-001-p1s1W15-Ta</lex.rf>
 </a>
@@ -482,22 +507,30 @@
 </gram>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0644-001-p1s0a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0644-001-p1s0a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0644-001-p1s1a18">
 <a>
 <lex.rf>a#a-wsj0644-001-p1s1W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0644-001-p1s1W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0644-001-p1s1W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>penze</t_lemma>
@@ -512,7 +545,9 @@
 <LM id="T-wsj0644-001-p1s1a20">
 <a>
 <lex.rf>a#a-wsj0644-001-p1s1W22-Ta</lex.rf>
-<aux.rf>a#a-wsj0644-001-p1s1W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0644-001-p1s1W20-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5388f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -555,9 +590,13 @@
 <LM id="T-wsj0644-001-p1s1a25">
 <a>
 <lex.rf>a#a-wsj0644-001-p1s1W24-Ta</lex.rf>
-<aux.rf>a#a-wsj0644-001-p1s1W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0644-001-p1s1W23-Ta</LM>
+</aux.rf>
 </a>
-<compl.rf>T-wsj0644-001-p1s1a12</compl.rf>
+<compl.rf>
+<LM>T-wsj0644-001-p1s1a12</LM>
+</compl.rf>
 <nodetype>complex</nodetype>
 <t_lemma>člen</t_lemma>
 <functor>COMPL</functor>
@@ -566,7 +605,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj0644-001-p1s1a26">
+<children>
+<LM id="T-wsj0644-001-p1s1a26">
 <a>
 <lex.rf>a#a-wsj0644-001-p1s1W25-Ta</lex.rf>
 </a>
@@ -578,18 +618,25 @@
 </gram>
 <deepord>21</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0644-001-p1s1a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0644-001-p1s1a27">
 <a>
 <lex.rf>a#a-wsj0644-001-p1s1W27-Ta</lex.rf>
-<aux.rf>a#a-wsj0644-001-p1s1W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0644-001-p1s1W23-Ta</LM>
+</aux.rf>
 </a>
-<compl.rf>T-wsj0644-001-p1s1a12</compl.rf>
+<compl.rf>
+<LM>T-wsj0644-001-p1s1a12</LM>
+</compl.rf>
 <nodetype>complex</nodetype>
 <t_lemma>předseda</t_lemma>
 <functor>COMPL</functor>
@@ -598,7 +645,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj0644-001-p1s1a28">
+<children>
+<LM id="T-wsj0644-001-p1s1a28">
 <a>
 <lex.rf>a#a-wsj0644-001-p1s1W29-Ta</lex.rf>
 </a>
@@ -609,7 +657,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj0644-001-p1s1a29">
+<children>
+<LM id="T-wsj0644-001-p1s1a29">
 <a>
 <lex.rf>a#a-wsj0644-001-p1s1W28-Ta</lex.rf>
 </a>
@@ -620,8 +669,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>24</deepord>
-</children>
-</children>
 </LM>
 </children>
 </LM>
@@ -632,6 +679,11 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Mr. Wilkinson, 45 years old, succeeds Thomas A. Bullock, 66, who is retiring as chairman but will continue as a director and chairman of the executive committee.</eng_sentence>
 </LM>

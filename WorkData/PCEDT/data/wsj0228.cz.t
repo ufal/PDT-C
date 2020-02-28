@@ -4,17 +4,20 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0228.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj0228-001-p1s0">
 <atree.rf>a#a-wsj0228-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0228-001-p1s0a1">
+<children>
+<LM id="T-wsj0228-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0228-001-p1s0W20-Ta</lex.rf>
-<aux.rf>a#a-wsj0228-001-p1s0W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0228-001-p1s0W19-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1344f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -126,7 +129,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0228-001-p1s0a11">
+<children>
+<LM id="T-wsj0228-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj0228-001-p1s0W8-Ta</lex.rf>
 </a>
@@ -138,9 +142,12 @@
 </gram>
 <deepord>8</deepord>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>velké písmeno</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 </children>
@@ -157,7 +164,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0228-001-p1s0a13">
+<children>
+<LM id="T-wsj0228-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj0228-001-p1s0W13-Ta</lex.rf>
 </a>
@@ -216,7 +224,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj0228-001-p1s0a18">
+<children>
+<LM id="T-wsj0228-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj0228-001-p1s0W16-Ta</lex.rf>
 </a>
@@ -227,15 +236,19 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>Coref</type>
 <text>odkaz na něco v předchozím kontextu, který zde ale chybí</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -253,7 +266,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj0228-001-p1s0a22">
+<children>
+<LM id="T-wsj0228-001-p1s0a22">
 <a>
 <lex.rf>a#a-wsj0228-001-p1s0W23-Ta</lex.rf>
 </a>
@@ -264,7 +278,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj0228-001-p1s0a23">
+<children>
+<LM id="T-wsj0228-001-p1s0a23">
 <a>
 <lex.rf>a#a-wsj0228-001-p1s0W22-Ta</lex.rf>
 </a>
@@ -275,22 +290,28 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>20</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0228-001-p1s0a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Robert Q. Marston, president emeritus, University of Florida, and a director of this maker of medical devices, was named chairman.</eng_sentence>
 </LM>
 <LM id="T-wsj0228-001-p1s1">
 <atree.rf>a#a-wsj0228-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0228-001-p1s1a1">
+<children>
+<LM id="T-wsj0228-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0228-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -314,9 +335,10 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0228-001-p1s1a3">
+<children>
+<LM id="T-wsj0228-001-p1s1a3">
 <a>
-<lex.rf>a#a-wsj0228-001-p1s1W1-Ta</lex.rf>
+<lex.rf>a#m-wsj0228-001-p1s1W1-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -325,7 +347,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0228-001-p1s1a25">
+<children>
+<LM id="T-wsj0228-001-p1s1a25">
 <a>
 <lex.rf>a#a-wsj0228-001-p1s1W1-Ta</lex.rf>
 </a>
@@ -333,20 +356,16 @@
 <t_lemma>66</t_lemma>
 <functor>RSTR</functor>
 <deepord>2</deepord>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0228-001-p1s0a25</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0228-001-p1s1a26">
@@ -359,7 +378,9 @@
 <LM id="T-wsj0228-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj0228-001-p1s1W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0228-001-p1s1W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0228-001-p1s1W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Daignault</t_lemma>
@@ -405,7 +426,8 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>11</deepord>
-<children id="T-wsj0228-001-p1s1a11">
+<children>
+<LM id="T-wsj0228-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj0228-001-p1s1W10-Ta</lex.rf>
 </a>
@@ -417,6 +439,7 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0228-001-p1s1a9">
@@ -443,7 +466,9 @@
 <a>
 <lex.rf>a#a-wsj0228-001-p1s1W13-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0228-001-p1s1a6</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0228-001-p1s1a6</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -467,7 +492,9 @@
 <LM id="T-wsj0228-001-p1s1a17">
 <a>
 <lex.rf>a#a-wsj0228-001-p1s1W19-Ta</lex.rf>
-<aux.rf>a#a-wsj0228-001-p1s1W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0228-001-p1s1W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>politika</t_lemma>
@@ -504,7 +531,9 @@
 <LM id="T-wsj0228-001-p1s1a21">
 <a>
 <lex.rf>a#a-wsj0228-001-p1s1W21-Ta</lex.rf>
-<aux.rf>a#a-wsj0228-001-p1s1W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0228-001-p1s1W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>člen</t_lemma>
@@ -513,7 +542,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj0228-001-p1s1a22">
+<children>
+<LM id="T-wsj0228-001-p1s1a22">
 <a>
 <lex.rf>a#a-wsj0228-001-p1s1W23-Ta</lex.rf>
 </a>
@@ -524,7 +554,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj0228-001-p1s1a23">
+<children>
+<LM id="T-wsj0228-001-p1s1a23">
 <a>
 <lex.rf>a#a-wsj0228-001-p1s1W22-Ta</lex.rf>
 </a>
@@ -535,13 +566,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>19</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0228-001-p1s0a22</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
-</children>
 </LM>
 </children>
 </LM>
@@ -550,6 +583,9 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Dr. Marston, 66 years old, succeeds Alexander T. Daignault, 72, who didn't stand for re-election due to mandatory board retirement policy.</eng_sentence>
 </LM>

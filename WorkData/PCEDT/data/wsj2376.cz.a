@@ -1386,13 +1386,11 @@
 <m.rf>m#m-wsj2376-001-p1s12W19-Ta</m.rf>
 <afun>Atr</afun>
 <ord>19</ord>
-<children>
+</LM>
 <LM id="m-wsj2376-001-p1s12W19-Ta-sw1-ia">
 <m.rf>m#m-wsj2376-001-p1s12W19-Ta-sw1</m.rf>
-<afun>ExD</afun>
+<afun>Atr</afun>
 <ord>20</ord>
-</LM>
-</children>
 </LM>
 </children>
 </LM>

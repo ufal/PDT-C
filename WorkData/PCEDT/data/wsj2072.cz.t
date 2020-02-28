@@ -4,14 +4,15 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj2072.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj2072-001-p1s0">
 <atree.rf>a#a-wsj2072-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2072-001-p1s0a1">
+<children>
+<LM id="T-wsj2072-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s0W5-Ta</lex.rf>
 </a>
@@ -23,7 +24,8 @@
 <sempos>v</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj2072-001-p1s0a2">
+<children>
+<LM id="T-wsj2072-001-p1s0a2">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s0W2-Ta</lex.rf>
 </a>
@@ -59,7 +61,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj2072-001-p1s0a5">
+<children>
+<LM id="T-wsj2072-001-p1s0a5">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s0W4-Ta</lex.rf>
 </a>
@@ -70,21 +73,27 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
+</LM>
 </children>
 <eng_sentence>NBC's winning streak has been canceled.</eng_sentence>
 </LM>
 <LM id="T-wsj2072-001-p1s1">
 <atree.rf>a#a-wsj2072-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2072-001-p1s1a1">
+<children>
+<LM id="T-wsj2072-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s1W15-Ta</lex.rf>
 </a>
@@ -118,7 +127,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj2072-001-p1s1a45">
+<children>
+<LM id="T-wsj2072-001-p1s1a45">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -162,6 +172,7 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2072-001-p1s1a9">
@@ -176,7 +187,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj2072-001-p1s1a10">
+<children>
+<LM id="T-wsj2072-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s1W8-Ta</lex.rf>
 </a>
@@ -187,7 +199,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj2072-001-p1s1a47">
+<children>
+<LM id="T-wsj2072-001-p1s1a47">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -234,14 +247,18 @@
 <deepord>14</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2072-001-p1s0a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2072-001-p1s1a15">
@@ -272,7 +289,9 @@
 <a>
 <lex.rf>a#a-wsj2072-001-p1s1W16-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj2072-001-p1s1a46</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj2072-001-p1s1a46</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -295,7 +314,7 @@
 </LM>
 <LM id="T-wsj2072-001-p1s1a19">
 <a>
-<lex.rf>a#a-wsj2072-001-p1s1W18-Ta</lex.rf>
+<lex.rf>a#m-wsj2072-001-p1s1W18-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>týdenní</t_lemma>
@@ -304,7 +323,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj2072-001-p1s1a48">
+<children>
+<LM id="T-wsj2072-001-p1s1a48">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s1W18-Ta</lex.rf>
 </a>
@@ -312,11 +332,8 @@
 <t_lemma>68</t_lemma>
 <functor>RSTR</functor>
 <deepord>19</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj2072-001-p1s1a20">
 <a>
@@ -345,7 +362,9 @@
 <LM id="T-wsj2072-001-p1s1a23">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s1W25-Ta</lex.rf>
-<aux.rf>a#a-wsj2072-001-p1s1W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2072-001-p1s1W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>čas</t_lemma>
@@ -383,8 +402,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj2072-001-p1s1a26">
@@ -404,7 +425,9 @@
 <a>
 <lex.rf>a#a-wsj2072-001-p1s1W27-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj2072-001-p1s1a16</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj2072-001-p1s1a16</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -416,7 +439,9 @@
 <LM id="T-wsj2072-001-p1s1a30">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s1W29-Ta</lex.rf>
-<aux.rf>a#a-wsj2072-001-p1s1W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2072-001-p1s1W28-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
@@ -426,9 +451,11 @@
 </gram>
 <deepord>28</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2072-001-p1s1a17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2072-001-p1s1a57">
@@ -516,7 +543,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>37</deepord>
-<children id="T-wsj2072-001-p1s1a49">
+<children>
+<LM id="T-wsj2072-001-p1s1a49">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -572,7 +600,6 @@
 <deepord>43</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
@@ -583,16 +610,22 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The National Broadcasting Co., a unit of General Electric Co., had its record-breaking 68-week reign as the prime-time ratings leader snapped yesterday by ABC-TV, a subsidiary of Capital Cities/ABC Inc.</eng_sentence>
 </LM>
 <LM id="T-wsj2072-001-p1s2">
 <atree.rf>a#a-wsj2072-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2072-001-p1s2a1">
+<children>
+<LM id="T-wsj2072-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s2W21-Ta</lex.rf>
-<aux.rf>a#a-wsj2072-001-p1s2W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2072-001-p1s2W12-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7151f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -606,7 +639,9 @@
 <LM id="T-wsj2072-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s2W2-Ta</lex.rf>
-<aux.rf>a#a-wsj2072-001-p1s2W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2072-001-p1s2W1-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1078f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -634,9 +669,11 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2072-001-p1s2a5</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2072-001-p1s2a4">
@@ -650,7 +687,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj2072-001-p1s2a5">
+<children>
+<LM id="T-wsj2072-001-p1s2a5">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s2W4-Ta</lex.rf>
 </a>
@@ -661,7 +699,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj2072-001-p1s2a36">
+<children>
+<LM id="T-wsj2072-001-p1s2a36">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -738,13 +777,17 @@
 <deepord>13</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj2072-001-p1s2a14">
@@ -788,7 +831,9 @@
 <a>
 <lex.rf>a#a-wsj2072-001-p1s2W16-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj2072-001-p1s2a14</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj2072-001-p1s2a14</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -808,7 +853,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj2072-001-p1s2a20">
+<children>
+<LM id="T-wsj2072-001-p1s2a20">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s2W18-Ta</lex.rf>
 </a>
@@ -820,24 +866,31 @@
 </gram>
 <deepord>18</deepord>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>velké písmeno</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2072-001-p1s1a57</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2072-001-p1s2a23">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s2W24-Ta</lex.rf>
-<aux.rf>a#a-wsj2072-001-p1s2W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2072-001-p1s2W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>příčka</t_lemma>
@@ -846,7 +899,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj2072-001-p1s2a24">
+<children>
+<LM id="T-wsj2072-001-p1s2a24">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s2W23-Ta</lex.rf>
 </a>
@@ -857,6 +911,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>21</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2072-001-p1s2a25">
@@ -871,7 +926,9 @@
 <LM id="T-wsj2072-001-p1s2a27">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s2W26-Ta</lex.rf>
-<aux.rf>a#a-wsj2072-001-p1s2W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2072-001-p1s2W25-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodnocení</t_lemma>
@@ -881,7 +938,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj2072-001-p1s2a28">
+<children>
+<LM id="T-wsj2072-001-p1s2a28">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s2W27-Ta</lex.rf>
 </a>
@@ -892,16 +950,21 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>24</deepord>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj2072-001-p1s2a30">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s2W30-Ta</lex.rf>
-<aux.rf>a#a-wsj2072-001-p1s2W29-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2072-001-p1s2W29-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>podíl</t_lemma>
@@ -911,7 +974,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>26</deepord>
-<children id="T-wsj2072-001-p1s2a31">
+<children>
+<LM id="T-wsj2072-001-p1s2a31">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s2W31-Ta</lex.rf>
 </a>
@@ -922,18 +986,21 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>27</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>In the ratings compiled by the A.C. Nielsen Co., ABC, which broadcast the World Series, topped the competition with a 14.8 rating and 25 share.</eng_sentence>
 </LM>
 <LM id="T-wsj2072-001-p1s3">
 <atree.rf>a#a-wsj2072-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2072-001-p1s3a35">
+<children>
+<LM id="T-wsj2072-001-p1s3a35">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s3W13-Ta</lex.rf>
 </a>
@@ -967,7 +1034,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj2072-001-p1s3a4">
+<children>
+<LM id="T-wsj2072-001-p1s3a4">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s3W2-Ta</lex.rf>
 </a>
@@ -978,11 +1046,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2072-001-p1s1a30</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2072-001-p1s3a34">
@@ -995,16 +1066,20 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2072-001-p1s2a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2072-001-p1s3a5">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s3W4-Ta</lex.rf>
 </a>
-<compl.rf>T-wsj2072-001-p1s3a3</compl.rf>
+<compl.rf>
+<LM>T-wsj2072-001-p1s3a3</LM>
+</compl.rf>
 <nodetype>complex</nodetype>
 <t_lemma>dva</t_lemma>
 <functor>COMPL</functor>
@@ -1025,7 +1100,9 @@
 <LM id="T-wsj2072-001-p1s3a7">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s3W6-Ta</lex.rf>
-<aux.rf>a#a-wsj2072-001-p1s3W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2072-001-p1s3W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodnocení</t_lemma>
@@ -1035,7 +1112,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj2072-001-p1s3a8">
+<children>
+<LM id="T-wsj2072-001-p1s3a8">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s3W7-Ta</lex.rf>
 </a>
@@ -1046,16 +1124,21 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj2072-001-p1s3a12">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s3W11-Ta</lex.rf>
-<aux.rf>a#a-wsj2072-001-p1s3W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2072-001-p1s3W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>podíl</t_lemma>
@@ -1065,7 +1148,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj2072-001-p1s3a13">
+<children>
+<LM id="T-wsj2072-001-p1s3a13">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s3W12-Ta</lex.rf>
 </a>
@@ -1076,6 +1160,7 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -1131,7 +1216,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj2072-001-p1s3a36">
+<children>
+<LM id="T-wsj2072-001-p1s3a36">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1169,6 +1255,7 @@
 <deepord>19</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -1185,7 +1272,9 @@
 <LM id="T-wsj2072-001-p1s3a23">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s3W22-Ta</lex.rf>
-<aux.rf>a#a-wsj2072-001-p1s3W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2072-001-p1s3W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodnocení</t_lemma>
@@ -1195,7 +1284,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj2072-001-p1s3a24">
+<children>
+<LM id="T-wsj2072-001-p1s3a24">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s3W23-Ta</lex.rf>
 </a>
@@ -1206,16 +1296,21 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>21</deepord>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj2072-001-p1s3a26">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s3W26-Ta</lex.rf>
-<aux.rf>a#a-wsj2072-001-p1s3W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2072-001-p1s3W25-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>podíl</t_lemma>
@@ -1225,7 +1320,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj2072-001-p1s3a27">
+<children>
+<LM id="T-wsj2072-001-p1s3a27">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s3W27-Ta</lex.rf>
 </a>
@@ -1236,24 +1332,29 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>24</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>Translation</type>
 <text>vymazat, před "a s podílem 24"</text>
+</LM>
 </annot_comment>
 <eng_sentence>NBC was second with a 13.9 rating and 24 share followed by CBS Inc.'s television network with a 12.5 rating and 21 share.</eng_sentence>
 </LM>
 <LM id="T-wsj2072-001-p1s4">
 <atree.rf>a#a-wsj2072-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2072-001-p1s4a1">
+<children>
+<LM id="T-wsj2072-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s4W9-Ta</lex.rf>
 </a>
@@ -1337,20 +1438,26 @@
 <is_parenthesis>1</is_parenthesis>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2072-001-p1s2a32</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2072-001-p1s3a34</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -1438,7 +1545,8 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>13</deepord>
-<children id="T-wsj2072-001-p1s4a13">
+<children>
+<LM id="T-wsj2072-001-p1s4a13">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s4W15-Ta</lex.rf>
 </a>
@@ -1478,18 +1586,21 @@
 <deepord>15</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>(A ratings point represents 904,000 television households; shares indicate the percentage of sets in use.)</eng_sentence>
 </LM>
 <LM id="T-wsj2072-001-p1s5">
 <atree.rf>a#a-wsj2072-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2072-001-p1s5a34">
+<children>
+<LM id="T-wsj2072-001-p1s5a34">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s5W20-Ta</lex.rf>
 </a>
@@ -1545,7 +1656,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj2072-001-p1s5a6">
+<children>
+<LM id="T-wsj2072-001-p1s5a6">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s5W4-Ta</lex.rf>
 </a>
@@ -1557,20 +1669,27 @@
 </gram>
 <deepord>4</deepord>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>velké písmeno</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2072-001-p1s2a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2072-001-p1s5a8">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s5W7-Ta</lex.rf>
-<aux.rf>a#a-wsj2072-001-p1s5W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2072-001-p1s5W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>tým</t_lemma>
@@ -1579,7 +1698,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj2072-001-p1s5a9">
+<children>
+<LM id="T-wsj2072-001-p1s5a9">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s5W10-Ta</lex.rf>
 </a>
@@ -1660,6 +1780,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -1667,7 +1788,9 @@
 <LM id="T-wsj2072-001-p1s5a15">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s5W19-Ta</lex.rf>
-<aux.rf>a#a-wsj2072-001-p1s5W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2072-001-p1s5W14-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7151f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1698,7 +1821,9 @@
 <LM id="T-wsj2072-001-p1s5a19">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s5W18-Ta</lex.rf>
-<aux.rf>a#a-wsj2072-001-p1s5W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2072-001-p1s5W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>desítka</t_lemma>
@@ -1707,7 +1832,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj2072-001-p1s5a20">
+<children>
+<LM id="T-wsj2072-001-p1s5a20">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s5W17-Ta</lex.rf>
 </a>
@@ -1718,6 +1844,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>17</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -1756,7 +1883,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>27</deepord>
-<children id="T-wsj2072-001-p1s5a25">
+<children>
+<LM id="T-wsj2072-001-p1s5a25">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s5W25-Ta</lex.rf>
 </a>
@@ -1804,18 +1932,21 @@
 <deepord>26</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The first two games of the World Series between the Oakland Athletics and San Francisco Giants didn't finish in the top 10; instead they landed in 16th and 18th place.</eng_sentence>
 </LM>
 <LM id="T-wsj2072-001-p1s6">
 <atree.rf>a#a-wsj2072-001-p1s6</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2072-001-p1s6a1">
+<children>
+<LM id="T-wsj2072-001-p1s6a1">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s6W4-Ta</lex.rf>
 </a>
@@ -1839,7 +1970,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj2072-001-p1s6a3">
+<children>
+<LM id="T-wsj2072-001-p1s6a3">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s6W2-Ta</lex.rf>
 </a>
@@ -1850,7 +1982,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj2072-001-p1s6a4">
+<children>
+<LM id="T-wsj2072-001-p1s6a4">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s6W1-Ta</lex.rf>
 </a>
@@ -1861,7 +1994,9 @@
 <sempos>adj.quant.grad</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2072-001-p1s6a5">
@@ -1875,7 +2010,8 @@
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj2072-001-p1s6a6">
+<children>
+<LM id="T-wsj2072-001-p1s6a6">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s6W5-Ta</lex.rf>
 </a>
@@ -1883,6 +2019,7 @@
 <t_lemma>i</t_lemma>
 <functor>RHEM</functor>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2072-001-p1s6a13">
@@ -1915,7 +2052,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj2072-001-p1s6a11">
+<children>
+<LM id="T-wsj2072-001-p1s6a11">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s6W11-Ta</lex.rf>
 </a>
@@ -1926,23 +2064,28 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2072-001-p1s2a18</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The highest-rated show continues to be ABC's ``Roseanne.''</eng_sentence>
 </LM>
 <LM id="T-wsj2072-001-p1s7">
 <atree.rf>a#a-wsj2072-001-p1s7</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2072-001-p1s7a1">
+<children>
+<LM id="T-wsj2072-001-p1s7a1">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s7W12-Ta</lex.rf>
 </a>
@@ -1976,7 +2119,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj2072-001-p1s7a4">
+<children>
+<LM id="T-wsj2072-001-p1s7a4">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s7W2-Ta</lex.rf>
 </a>
@@ -1987,11 +2131,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2072-001-p1s3a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2072-001-p1s7a6">
@@ -2005,7 +2152,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj2072-001-p1s7a5">
+<children>
+<LM id="T-wsj2072-001-p1s7a5">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s7W4-Ta</lex.rf>
 </a>
@@ -2016,12 +2164,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2072-001-p1s7a8">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s7W8-Ta</lex.rf>
-<aux.rf>a#a-wsj2072-001-p1s7W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2072-001-p1s7W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>desítka</t_lemma>
@@ -2030,7 +2181,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj2072-001-p1s7a9">
+<children>
+<LM id="T-wsj2072-001-p1s7a9">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s7W7-Ta</lex.rf>
 </a>
@@ -2041,11 +2193,14 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2072-001-p1s5a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -2071,7 +2226,8 @@
 <t_lemma>#Idph</t_lemma>
 <functor>ACT</functor>
 <deepord>11</deepord>
-<children id="T-wsj2072-001-p1s7a11">
+<children>
+<LM id="T-wsj2072-001-p1s7a11">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s7W10-Ta</lex.rf>
 </a>
@@ -2082,11 +2238,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2072-001-p1s6a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2072-001-p1s7a18">
@@ -2108,7 +2267,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj2072-001-p1s7a12">
+<children>
+<LM id="T-wsj2072-001-p1s7a12">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s7W11-Ta</lex.rf>
 </a>
@@ -2119,6 +2279,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -2144,7 +2305,8 @@
 <t_lemma>#Idph</t_lemma>
 <functor>ACT</functor>
 <deepord>16</deepord>
-<children id="T-wsj2072-001-p1s7a13">
+<children>
+<LM id="T-wsj2072-001-p1s7a13">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s7W13-Ta</lex.rf>
 </a>
@@ -2155,11 +2317,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2072-001-p1s3a18</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2072-001-p1s7a22">
@@ -2181,7 +2346,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj2072-001-p1s7a14">
+<children>
+<LM id="T-wsj2072-001-p1s7a14">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s7W14-Ta</lex.rf>
 </a>
@@ -2192,18 +2358,21 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>20</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>NBC had five of the top 10 shows; ABC had four and CBS had one.</eng_sentence>
 </LM>
 <LM id="T-wsj2072-001-p1s8">
 <atree.rf>a#a-wsj2072-001-p1s8</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2072-001-p1s8a1">
+<children>
+<LM id="T-wsj2072-001-p1s8a1">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s8W3-Ta</lex.rf>
 </a>
@@ -2227,7 +2396,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj2072-001-p1s8a3">
+<children>
+<LM id="T-wsj2072-001-p1s8a3">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s8W2-Ta</lex.rf>
 </a>
@@ -2238,11 +2408,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2072-001-p1s7a20</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2072-001-p1s8a4">
@@ -2269,7 +2442,9 @@
 <LM id="T-wsj2072-001-p1s8a8">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s8W10-Ta</lex.rf>
-<aux.rf>a#a-wsj2072-001-p1s8W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2072-001-p1s8W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>prvenství</t_lemma>
@@ -2290,10 +2465,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj2072-001-p1s8a13">
+<children>
+<LM id="T-wsj2072-001-p1s8a13">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s8W8-Ta</lex.rf>
-<aux.rf>a#a-wsj2072-001-p1s8W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2072-001-p1s8W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
@@ -2302,6 +2480,7 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2072-001-p1s8a11">
@@ -2316,7 +2495,8 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>10</deepord>
-<children id="T-wsj2072-001-p1s8a10">
+<children>
+<LM id="T-wsj2072-001-p1s8a10">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s8W12-Ta</lex.rf>
 </a>
@@ -2328,6 +2508,7 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -2337,7 +2518,9 @@
 <LM id="T-wsj2072-001-p1s8a16">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s8W16-Ta</lex.rf>
-<aux.rf>a#a-wsj2072-001-p1s8W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2072-001-p1s8W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>období</t_lemma>
@@ -2346,7 +2529,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj2072-001-p1s8a17">
+<children>
+<LM id="T-wsj2072-001-p1s8a17">
 <a>
 <lex.rf>a#a-wsj2072-001-p1s8W18-Ta</lex.rf>
 </a>
@@ -2382,9 +2566,11 @@
 <deepord>14</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>CBS held the previous record for consecutive No. 1 victories -- 46 weeks -- during the 1962-63 season.</eng_sentence>
 </LM>

@@ -4,14 +4,15 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj2220.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj2220-001-p1s0">
 <atree.rf>a#a-wsj2220-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2220-001-p1s0a1">
+<children>
+<LM id="T-wsj2220-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj2220-001-p1s0W5-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj2220-001-p1s0a30">
+<children>
+<LM id="T-wsj2220-001-p1s0a30">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -70,12 +72,15 @@
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2220-001-p1s0a8">
 <a>
 <lex.rf>a#a-wsj2220-001-p1s0W8-Ta</lex.rf>
-<aux.rf>a#a-wsj2220-001-p1s0W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2220-001-p1s0W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3559f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -96,9 +101,11 @@
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2220-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2220-001-p1s0a9">
@@ -116,7 +123,9 @@
 <LM id="T-wsj2220-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj2220-001-p1s0W13-Ta</lex.rf>
-<aux.rf>a#a-wsj2220-001-p1s0W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2220-001-p1s0W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Selig</t_lemma>
@@ -155,7 +164,9 @@
 <LM id="T-wsj2220-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj2220-001-p1s0W15-Ta</lex.rf>
-<aux.rf>a#a-wsj2220-001-p1s0W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2220-001-p1s0W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>koupě</t_lemma>
@@ -186,7 +197,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj2220-001-p1s0a18">
+<children>
+<LM id="T-wsj2220-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj2220-001-p1s0W18-Ta</lex.rf>
 </a>
@@ -197,11 +209,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj2220-001-p1s0a19">
+<children>
+<LM id="T-wsj2220-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj2220-001-p1s0W17-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj2220-001-p1s0a29</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj2220-001-p1s0a29</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -209,7 +224,9 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>15</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2220-001-p1s0a31">
@@ -263,7 +280,9 @@
 <LM id="T-wsj2220-001-p1s0a26">
 <a>
 <lex.rf>a#a-wsj2220-001-p1s0W26-Ta</lex.rf>
-<aux.rf>a#a-wsj2220-001-p1s0W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2220-001-p1s0W24-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -306,16 +325,20 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Seafirst Corp. said it signed an agreement with builder Martin Selig to purchase its headquarters building, the Columbia Seafirst Center, for $354 million.</eng_sentence>
 </LM>
 <LM id="T-wsj2220-001-p1s1">
 <atree.rf>a#a-wsj2220-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2220-001-p1s1a1">
+<children>
+<LM id="T-wsj2220-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj2220-001-p1s1W6-Ta</lex.rf>
-<aux.rf>a#a-wsj2220-001-p1s1W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2220-001-p1s1W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7291f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -337,7 +360,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj2220-001-p1s1a3">
+<children>
+<LM id="T-wsj2220-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj2220-001-p1s1W4-Ta</lex.rf>
 </a>
@@ -363,7 +387,7 @@
 </LM>
 <LM id="T-wsj2220-001-p1s1a5">
 <a>
-<lex.rf>a#a-wsj2220-001-p1s1W3-Ta</lex.rf>
+<lex.rf>a#m-wsj2220-001-p1s1W3-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>patrový</t_lemma>
@@ -372,7 +396,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj2220-001-p1s1a28">
+<children>
+<LM id="T-wsj2220-001-p1s1a28">
 <a>
 <lex.rf>a#a-wsj2220-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -380,27 +405,25 @@
 <t_lemma>76</t_lemma>
 <functor>RSTR</functor>
 <deepord>4</deepord>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2220-001-p1s0a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2220-001-p1s0a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2220-001-p1s1a23">
@@ -428,7 +451,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj2220-001-p1s1a10">
+<children>
+<LM id="T-wsj2220-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj2220-001-p1s1W9-Ta</lex.rf>
 </a>
@@ -439,6 +463,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2220-001-p1s1a13">
@@ -457,7 +482,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj2220-001-p1s1a14">
+<children>
+<LM id="T-wsj2220-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj2220-001-p1s1W13-Ta</lex.rf>
 </a>
@@ -468,7 +494,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj2220-001-p1s1a11">
+<children>
+<LM id="T-wsj2220-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj2220-001-p1s1W16-Ta</lex.rf>
 </a>
@@ -489,7 +516,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj2220-001-p1s1a16">
+<children>
+<LM id="T-wsj2220-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj2220-001-p1s1W15-Ta</lex.rf>
 </a>
@@ -500,11 +528,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2220-001-p1s0a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2220-001-p1s1a17">
@@ -532,9 +563,11 @@
 </gram>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2220-001-p1s1a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2220-001-p1s1a19">
@@ -591,7 +624,9 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2220-001-p1s1a24">
@@ -610,7 +645,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj2220-001-p1s1a25">
+<children>
+<LM id="T-wsj2220-001-p1s1a25">
 <a>
 <lex.rf>a#a-wsj2220-001-p1s1W26-Ta</lex.rf>
 </a>
@@ -621,7 +657,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj2220-001-p1s1a26">
+<children>
+<LM id="T-wsj2220-001-p1s1a26">
 <a>
 <lex.rf>a#a-wsj2220-001-p1s1W25-Ta</lex.rf>
 </a>
@@ -632,12 +669,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>23</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Purchase of the 76-story structure is subject to execution of a definitive agreement, approval by the boards of Seafirst and its parent company BankAmerica Corp., and approval by regulators.</eng_sentence>
 </LM>

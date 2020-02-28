@@ -4,14 +4,15 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj1537.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj1537-001-p1s0">
 <atree.rf>a#a-wsj1537-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1537-001-p1s0a1">
+<children>
+<LM id="T-wsj1537-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1537-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1537-001-p1s0a31">
+<children>
+<LM id="T-wsj1537-001-p1s0a31">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -82,6 +84,7 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1537-001-p1s0a9">
@@ -191,7 +194,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj1537-001-p1s0a19">
+<children>
+<LM id="T-wsj1537-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj1537-001-p1s0W16-Ta</lex.rf>
 </a>
@@ -202,6 +206,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>15</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -318,9 +323,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1537-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -330,13 +337,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Manhattan National Corp. said Michael A. Conway, president and chief executive officer, was elected chief executive of the holding company's two principal insurance subsidiaries.</eng_sentence>
 </LM>
 <LM id="T-wsj1537-001-p1s1">
 <atree.rf>a#a-wsj1537-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1537-001-p1s1a1">
+<children>
+<LM id="T-wsj1537-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1537-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -361,15 +370,19 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1537-001-p1s0a27</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1537-001-p1s1a5">
 <a>
 <lex.rf>a#a-wsj1537-001-p1s1W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1537-001-p1s1W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1537-001-p1s1W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -390,9 +403,11 @@
 </gram>
 <deepord>3</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1537-001-p1s0a32</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1537-001-p1s1a6">
@@ -406,7 +421,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1537-001-p1s1a7">
+<children>
+<LM id="T-wsj1537-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj1537-001-p1s1W10-Ta</lex.rf>
 </a>
@@ -471,7 +487,9 @@
 <a>
 <lex.rf>a#a-wsj1537-001-p1s1W14-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1537-001-p1s1a7</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1537-001-p1s1a7</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -507,9 +525,11 @@
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1537-001-p1s1a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1537-001-p1s1a20">
@@ -556,24 +576,31 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>špatný nominativ</text>
+</LM>
 </annot_comment>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>He succeeds Paul P. Aniskovich Jr., who resigned to pursue other business interests, the company said.</eng_sentence>
 </LM>
 <LM id="T-wsj1537-001-p1s2">
 <atree.rf>a#a-wsj1537-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1537-001-p1s2a1">
+<children>
+<LM id="T-wsj1537-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1537-001-p1s2W4-Ta</lex.rf>
-<aux.rf>a#a-wsj1537-001-p1s2W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1537-001-p1s2W3-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9986f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -602,9 +629,10 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1537-001-p1s2a3">
+<children>
+<LM id="T-wsj1537-001-p1s2a3">
 <a>
-<lex.rf>a#a-wsj1537-001-p1s2W1-Ta</lex.rf>
+<lex.rf>a#m-wsj1537-001-p1s2W1-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -613,7 +641,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1537-001-p1s2a36">
+<children>
+<LM id="T-wsj1537-001-p1s2a36">
 <a>
 <lex.rf>a#a-wsj1537-001-p1s2W1-Ta</lex.rf>
 </a>
@@ -621,16 +650,16 @@
 <t_lemma>42</t_lemma>
 <functor>RSTR</functor>
 <deepord>2</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1537-001-p1s1a25</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1537-001-p1s2a17">
@@ -664,7 +693,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1537-001-p1s2a7">
+<children>
+<LM id="T-wsj1537-001-p1s2a7">
 <a>
 <lex.rf>a#a-wsj1537-001-p1s2W6-Ta</lex.rf>
 </a>
@@ -675,6 +705,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1537-001-p1s2a8">
@@ -702,7 +733,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1537-001-p1s2a10">
+<children>
+<LM id="T-wsj1537-001-p1s2a10">
 <a>
 <lex.rf>a#a-wsj1537-001-p1s2W10-Ta</lex.rf>
 </a>
@@ -713,6 +745,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1537-001-p1s2a11">
@@ -726,7 +759,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1537-001-p1s2a30">
+<children>
+<LM id="T-wsj1537-001-p1s2a30">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -779,6 +813,7 @@
 <deepord>18</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -818,7 +853,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj1537-001-p1s2a22">
+<children>
+<LM id="T-wsj1537-001-p1s2a22">
 <a>
 <lex.rf>a#a-wsj1537-001-p1s2W21-Ta</lex.rf>
 </a>
@@ -829,6 +865,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>22</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1537-001-p1s2a23">
@@ -842,7 +879,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj1537-001-p1s2a32">
+<children>
+<LM id="T-wsj1537-001-p1s2a32">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -898,20 +936,23 @@
 <deepord>30</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Mr. Conway, 42 years old, was elected chairman, president and chief executive of Manhattan Life Insurance Co. and president and chief executive of Manhattan National Life Insurance Co.</eng_sentence>
 </LM>
 <LM id="T-wsj1537-001-p1s3">
 <atree.rf>a#a-wsj1537-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1537-001-p1s3a1">
+<children>
+<LM id="T-wsj1537-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1537-001-p1s3W12-Ta</lex.rf>
 </a>
@@ -948,7 +989,7 @@
 <children>
 <LM id="T-wsj1537-001-p1s3a6">
 <a>
-<lex.rf>a#a-wsj1537-001-p1s3W1-Ta</lex.rf>
+<lex.rf>a#m-wsj1537-001-p1s3W1-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -957,7 +998,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1537-001-p1s3a22">
+<children>
+<LM id="T-wsj1537-001-p1s3a22">
 <a>
 <lex.rf>a#a-wsj1537-001-p1s3W1-Ta</lex.rf>
 </a>
@@ -965,11 +1007,8 @@
 <t_lemma>69</t_lemma>
 <functor>RSTR</functor>
 <deepord>1</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1537-001-p1s3a5">
 <a>
@@ -997,7 +1036,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1537-001-p1s3a8">
+<children>
+<LM id="T-wsj1537-001-p1s3a8">
 <a>
 <lex.rf>a#a-wsj1537-001-p1s3W6-Ta</lex.rf>
 </a>
@@ -1008,7 +1048,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1537-001-p1s3a9">
+<children>
+<LM id="T-wsj1537-001-p1s3a9">
 <a>
 <lex.rf>a#a-wsj1537-001-p1s3W9-Ta</lex.rf>
 </a>
@@ -1046,11 +1087,15 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1537-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -1075,7 +1120,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1537-001-p1s3a14">
+<children>
+<LM id="T-wsj1537-001-p1s3a14">
 <a>
 <lex.rf>a#a-wsj1537-001-p1s3W14-Ta</lex.rf>
 </a>
@@ -1086,7 +1132,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj1537-001-p1s3a15">
+<children>
+<LM id="T-wsj1537-001-p1s3a15">
 <a>
 <lex.rf>a#a-wsj1537-001-p1s3W15-Ta</lex.rf>
 </a>
@@ -1097,7 +1144,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1537-001-p1s3a21">
+<children>
+<LM id="T-wsj1537-001-p1s3a21">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1153,23 +1201,30 @@
 <deepord>21</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1537-001-p1s2a23</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
-</children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Harry Rossi, 69, chairman of the holding company, also remains chairman of Manhattan National Life Insurance Co.</eng_sentence>
 </LM>
 <LM id="T-wsj1537-001-p1s4">
 <atree.rf>a#a-wsj1537-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1537-001-p1s4a1">
+<children>
+<LM id="T-wsj1537-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj1537-001-p1s4W2-Ta</lex.rf>
 </a>
@@ -1194,9 +1249,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1537-001-p1s2a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1537-001-p1s4a3">
@@ -1220,7 +1277,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1537-001-p1s4a5">
+<children>
+<LM id="T-wsj1537-001-p1s4a5">
 <a>
 <lex.rf>a#a-wsj1537-001-p1s4W3-Ta</lex.rf>
 </a>
@@ -1231,6 +1289,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1537-001-p1s4a6">
@@ -1245,7 +1304,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1537-001-p1s4a7">
+<children>
+<LM id="T-wsj1537-001-p1s4a7">
 <a>
 <lex.rf>a#a-wsj1537-001-p1s4W6-Ta</lex.rf>
 </a>
@@ -1256,6 +1316,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1537-001-p1s4a8">
@@ -1338,14 +1399,17 @@
 </LM>
 <LM id="T-wsj1537-001-p1s4a36">
 <a>
-<aux.rf>a#a-wsj1537-001-p1s4W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1537-001-p1s4W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
 <functor>DIR1</functor>
 <deepord>14</deepord>
-<children id="T-wsj1537-001-p1s4a16">
+<children>
+<LM id="T-wsj1537-001-p1s4a16">
 <a>
 <lex.rf>a#a-wsj1537-001-p1s4W16-Ta</lex.rf>
 </a>
@@ -1356,6 +1420,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -1365,7 +1430,9 @@
 <LM id="T-wsj1537-001-p1s4a18">
 <a>
 <lex.rf>a#a-wsj1537-001-p1s4W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1537-001-p1s4W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1537-001-p1s4W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -1374,7 +1441,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1537-001-p1s4a19">
+<children>
+<LM id="T-wsj1537-001-p1s4a19">
 <a>
 <lex.rf>a#a-wsj1537-001-p1s4W19-Ta</lex.rf>
 </a>
@@ -1385,12 +1453,15 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>19</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1537-001-p1s4a22">
 <a>
 <lex.rf>a#a-wsj1537-001-p1s4W25-Ta</lex.rf>
-<aux.rf>a#a-wsj1537-001-p1s4W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1537-001-p1s4W21-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8891f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1412,7 +1483,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj1537-001-p1s4a37">
+<children>
+<LM id="T-wsj1537-001-p1s4a37">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1444,11 +1516,14 @@
 <deepord>23</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1537-001-p1s4a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1537-001-p1s4a26">
@@ -1471,7 +1546,8 @@
 <t_lemma>#Percnt</t_lemma>
 <functor>RSTR</functor>
 <deepord>26</deepord>
-<children id="T-wsj1537-001-p1s4a27">
+<children>
+<LM id="T-wsj1537-001-p1s4a27">
 <a>
 <lex.rf>a#a-wsj1537-001-p1s4W26-Ta</lex.rf>
 </a>
@@ -1482,12 +1558,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>25</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1537-001-p1s4a30">
 <a>
 <lex.rf>a#a-wsj1537-001-p1s4W30-Ta</lex.rf>
-<aux.rf>a#a-wsj1537-001-p1s4W29-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1537-001-p1s4W29-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -1496,7 +1575,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>28</deepord>
-<children id="T-wsj1537-001-p1s4a38">
+<children>
+<LM id="T-wsj1537-001-p1s4a38">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1534,11 +1614,14 @@
 <deepord>32</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1537-001-p1s3a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -1546,13 +1629,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Mr. Conway was executive vice president and chief investment officer of Union Central Life Insurance Co., of Cincinnati, in 1987, when Union Central bought a 54% interest in Manhattan National Corp.</eng_sentence>
 </LM>
 <LM id="T-wsj1537-001-p1s5">
 <atree.rf>a#a-wsj1537-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1537-001-p1s5a1">
+<children>
+<LM id="T-wsj1537-001-p1s5a1">
 <a>
 <lex.rf>a#a-wsj1537-001-p1s5W11-Ta</lex.rf>
 </a>
@@ -1575,9 +1660,11 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1537-001-p1s5a18</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1537-001-p1s5a4">
@@ -1607,9 +1694,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1537-001-p1s4a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1537-001-p1s5a5">
@@ -1639,7 +1728,9 @@
 <LM id="T-wsj1537-001-p1s5a8">
 <a>
 <lex.rf>a#a-wsj1537-001-p1s5W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1537-001-p1s5W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1537-001-p1s5W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -1648,7 +1739,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1537-001-p1s5a20">
+<children>
+<LM id="T-wsj1537-001-p1s5a20">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1680,11 +1772,14 @@
 <deepord>9</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1537-001-p1s4a30</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -1694,7 +1789,9 @@
 <LM id="T-wsj1537-001-p1s5a13">
 <a>
 <lex.rf>a#a-wsj1537-001-p1s5W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1537-001-p1s5W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1537-001-p1s5W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>vedení</t_lemma>
@@ -1703,7 +1800,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1537-001-p1s5a14">
+<children>
+<LM id="T-wsj1537-001-p1s5a14">
 <a>
 <lex.rf>a#a-wsj1537-001-p1s5W14-Ta</lex.rf>
 </a>
@@ -1714,7 +1812,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1537-001-p1s5a19">
+<children>
+<LM id="T-wsj1537-001-p1s5a19">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1746,19 +1845,26 @@
 <deepord>15</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1537-001-p1s4a24</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>He resigned as an officer of Central Life to accept the Manhattan National presidency.</eng_sentence>
 </LM>

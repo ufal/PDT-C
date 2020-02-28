@@ -5582,13 +5582,11 @@
 <m.rf>m#m-wsj2384-001-p1s33W8-Ta</m.rf>
 <afun>Atr</afun>
 <ord>8</ord>
-<children>
+</LM>
 <LM id="m-wsj2384-001-p1s33W8-Ta-sw1-ia">
 <m.rf>m#m-wsj2384-001-p1s33W8-Ta-sw1</m.rf>
-<afun>ExD</afun>
+<afun>Atr</afun>
 <ord>9</ord>
-</LM>
-</children>
 </LM>
 </children>
 </LM>

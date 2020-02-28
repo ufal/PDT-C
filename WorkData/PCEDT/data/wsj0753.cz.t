@@ -4,14 +4,15 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0753.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj0753-001-p1s0">
 <atree.rf>a#a-wsj0753-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0753-001-p1s0a3">
+<children>
+<LM id="T-wsj0753-001-p1s0a3">
 <a>
 <lex.rf>a#a-wsj0753-001-p1s0W7-Ta</lex.rf>
 </a>
@@ -100,7 +101,9 @@
 </LM>
 <LM id="T-wsj0753-001-p1s0a15">
 <a>
-<aux.rf>a#a-wsj0753-001-p1s0W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0753-001-p1s0W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -135,19 +138,25 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 <eng_sentence>CRESTMONT FEDERAL SAVINGS &amp; LOAN ASSOCIATION (Edison, N.J.) --</eng_sentence>
 </LM>
 <LM id="T-wsj0753-001-p1s1">
 <atree.rf>a#a-wsj0753-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0753-001-p1s1a1">
+<children>
+<LM id="T-wsj0753-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0753-001-p1s1W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0753-001-p1s1W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0753-001-p1s1W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1344f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -176,7 +185,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0753-001-p1s1a3">
+<children>
+<LM id="T-wsj0753-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj0753-001-p1s1W6-Ta</lex.rf>
 </a>
@@ -239,10 +249,13 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0753-001-p1s0a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0753-001-p1s1a11">
@@ -259,7 +272,7 @@
 <children>
 <LM id="T-wsj0753-001-p1s1a10">
 <a>
-<lex.rf>a#a-wsj0753-001-p1s1W9-Ta</lex.rf>
+<lex.rf>a#m-wsj0753-001-p1s1W9-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -268,7 +281,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0753-001-p1s1a14">
+<children>
+<LM id="T-wsj0753-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj0753-001-p1s1W9-Ta</lex.rf>
 </a>
@@ -276,11 +290,8 @@
 <t_lemma>41</t_lemma>
 <functor>RSTR</functor>
 <deepord>9</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0753-001-p1s1a9">
 <a>
@@ -309,13 +320,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Lawrence B. Seidman, 41 years old, was named chairman of this savings and loan institution.</eng_sentence>
 </LM>
 <LM id="T-wsj0753-001-p1s2">
 <atree.rf>a#a-wsj0753-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0753-001-p1s2a1">
+<children>
+<LM id="T-wsj0753-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0753-001-p1s2W1-Ta</lex.rf>
 </a>
@@ -338,9 +351,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0753-001-p1s1a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0753-001-p1s2a20">
@@ -426,7 +441,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0753-001-p1s2a10">
+<children>
+<LM id="T-wsj0753-001-p1s2a10">
 <a>
 <lex.rf>a#a-wsj0753-001-p1s2W9-Ta</lex.rf>
 </a>
@@ -437,6 +453,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0753-001-p1s2a11">
@@ -456,7 +473,9 @@
 <a>
 <lex.rf>a#a-wsj0753-001-p1s2W12-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0753-001-p1s2a20</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0753-001-p1s2a20</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -476,7 +495,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj0753-001-p1s2a15">
+<children>
+<LM id="T-wsj0753-001-p1s2a15">
 <a>
 <lex.rf>a#a-wsj0753-001-p1s2W13-Ta</lex.rf>
 </a>
@@ -487,12 +507,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0753-001-p1s2a17">
 <a>
 <lex.rf>a#a-wsj0753-001-p1s2W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0753-001-p1s2W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0753-001-p1s2W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>důchod</t_lemma>
@@ -510,13 +533,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>He will succeed Charles L. Harrington, chairman and chief executive officer, who retired last month.</eng_sentence>
 </LM>
 <LM id="T-wsj0753-001-p1s3">
 <atree.rf>a#a-wsj0753-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0753-001-p1s3a1">
+<children>
+<LM id="T-wsj0753-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj0753-001-p1s3W4-Ta</lex.rf>
 </a>
@@ -540,7 +565,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0753-001-p1s3a3">
+<children>
+<LM id="T-wsj0753-001-p1s3a3">
 <a>
 <lex.rf>a#a-wsj0753-001-p1s3W2-Ta</lex.rf>
 </a>
@@ -551,11 +577,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0753-001-p1s1a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0753-001-p1s3a4">
@@ -582,7 +611,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj0753-001-p1s3a6">
+<children>
+<LM id="T-wsj0753-001-p1s3a6">
 <a>
 <lex.rf>a#a-wsj0753-001-p1s3W5-Ta</lex.rf>
 </a>
@@ -593,16 +623,19 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Crestmont is conducting a search for a chief executive.</eng_sentence>
 </LM>
 <LM id="T-wsj0753-001-p1s4">
 <atree.rf>a#a-wsj0753-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0753-001-p1s4a1">
+<children>
+<LM id="T-wsj0753-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj0753-001-p1s4W13-Ta</lex.rf>
 </a>
@@ -626,7 +659,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0753-001-p1s4a3">
+<children>
+<LM id="T-wsj0753-001-p1s4a3">
 <a>
 <lex.rf>a#a-wsj0753-001-p1s4W4-Ta</lex.rf>
 </a>
@@ -643,7 +677,9 @@
 <a>
 <lex.rf>a#a-wsj0753-001-p1s4W3-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0753-001-p1s4a2</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0753-001-p1s4a2</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -655,7 +691,9 @@
 <LM id="T-wsj0753-001-p1s4a7">
 <a>
 <lex.rf>a#a-wsj0753-001-p1s4W6-Ta</lex.rf>
-<aux.rf>a#a-wsj0753-001-p1s4W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0753-001-p1s4W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>červen</t_lemma>
@@ -676,7 +714,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0753-001-p1s4a9">
+<children>
+<LM id="T-wsj0753-001-p1s4a9">
 <a>
 <lex.rf>a#a-wsj0753-001-p1s4W9-Ta</lex.rf>
 </a>
@@ -711,7 +750,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0753-001-p1s4a12">
+<children>
+<LM id="T-wsj0753-001-p1s4a12">
 <a>
 <lex.rf>a#a-wsj0753-001-p1s4W11-Ta</lex.rf>
 </a>
@@ -722,22 +762,29 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0753-001-p1s3a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0753-001-p1s2a18</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0753-001-p1s4a14">
@@ -755,7 +802,9 @@
 <LM id="T-wsj0753-001-p1s4a16">
 <a>
 <lex.rf>a#a-wsj0753-001-p1s4W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0753-001-p1s4W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0753-001-p1s4W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>ručení</t_lemma>
@@ -764,7 +813,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj0753-001-p1s4a17">
+<children>
+<LM id="T-wsj0753-001-p1s4a17">
 <a>
 <lex.rf>a#a-wsj0753-001-p1s4W16-Ta</lex.rf>
 </a>
@@ -775,16 +825,21 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0753-001-p1s4a19">
 <a>
 <lex.rf>a#a-wsj0753-001-p1s4W19-Ta</lex.rf>
-<aux.rf>a#a-wsj0753-001-p1s4W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0753-001-p1s4W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -853,7 +908,9 @@
 <a>
 <lex.rf>a#a-wsj0753-001-p1s4W24-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0753-001-p1s4a19</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0753-001-p1s4a19</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -894,7 +951,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj0753-001-p1s4a29">
+<children>
+<LM id="T-wsj0753-001-p1s4a29">
 <a>
 <lex.rf>a#a-wsj0753-001-p1s4W29-Ta</lex.rf>
 </a>
@@ -905,11 +963,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0753-001-p1s4a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -921,6 +982,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Mr. Seidman, a director of Crestmont since July, is general partner of Seidman Financial Associates, which owns 9.89% of Crestmont.</eng_sentence>
 </LM>

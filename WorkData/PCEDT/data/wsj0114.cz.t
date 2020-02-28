@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0114.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -8733,18 +8733,12 @@
 <lex.rf>a#a-wsj0114-001-p1s33W8-Ta</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>L.</t_lemma>
+<t_lemma>L</t_lemma>
 <functor>FPHR</functor>
 <gram>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>tečka nepatří do lematu</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0114-001-p1s33a6">
 <a>

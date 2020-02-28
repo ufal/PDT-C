@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj1549.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -1131,7 +1131,7 @@
 </LM>
 <LM id="T-wsj1549-001-p1s4a16">
 <a>
-<lex.rf>a#a-wsj1549-001-p1s4W15-Ta</lex.rf>
+<lex.rf>a#m-wsj1549-001-p1s4W15-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -1153,12 +1153,6 @@
 <deepord>12</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1549-001-p1s4a17">
 <a>
@@ -2602,7 +2596,7 @@
 <children>
 <LM id="T-wsj1549-001-p1s10a10">
 <a>
-<lex.rf>a#a-wsj1549-001-p1s10W9-Ta</lex.rf>
+<lex.rf>a#m-wsj1549-001-p1s10W9-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -2622,12 +2616,6 @@
 <deepord>8</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1549-001-p1s10a11">
 <a>
@@ -9944,7 +9932,7 @@
 <children>
 <LM id="T-wsj1549-001-p1s43a19">
 <a>
-<lex.rf>a#a-wsj1549-001-p1s43W18-Ta</lex.rf>
+<lex.rf>a#m-wsj1549-001-p1s43W18-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -9964,12 +9952,6 @@
 <deepord>14</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1549-001-p1s43a20">
 <a>

@@ -4,17 +4,20 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0813.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj0813-001-p1s0">
 <atree.rf>a#a-wsj0813-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0813-001-p1s0a1">
+<children>
+<LM id="T-wsj0813-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0813-001-p1s0W7-Ta</lex.rf>
-<aux.rf>a#a-wsj0813-001-p1s0W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0813-001-p1s0W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1344f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -46,16 +49,17 @@
 <children>
 <LM id="T-wsj0813-001-p1s0a4">
 <a>
-<lex.rf>a#a-wsj0813-001-p1s0W1-Ta</lex.rf>
+<lex.rf>a#m-wsj0813-001-p1s0W1-Ta-sw1-ia</lex.rf>
 </a>
-<nodetype>complex</nodetype>
+<nodetype>atom</nodetype>
 <t_lemma>letý</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0813-001-p1s0a11">
+<children>
+<LM id="T-wsj0813-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj0813-001-p1s0W1-Ta</lex.rf>
 </a>
@@ -63,11 +67,8 @@
 <t_lemma>46</t_lemma>
 <functor>RSTR</functor>
 <deepord>3</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0813-001-p1s0a3">
 <a>
@@ -92,9 +93,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -109,7 +107,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0813-001-p1s0a9">
+<children>
+<LM id="T-wsj0813-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj0813-001-p1s0W8-Ta</lex.rf>
 </a>
@@ -120,16 +119,19 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>F. Gil Troutman, 46 years old, was named chief executive officer.</eng_sentence>
 </LM>
 <LM id="T-wsj0813-001-p1s1">
 <atree.rf>a#a-wsj0813-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0813-001-p1s1a8">
+<children>
+<LM id="T-wsj0813-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj0813-001-p1s1W8-Ta</lex.rf>
 </a>
@@ -148,9 +150,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0813-001-p1s0a6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0813-001-p1s1a1">
@@ -171,7 +175,9 @@
 <a>
 <lex.rf>a#a-wsj0813-001-p1s1W2-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0813-001-p1s1a28</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0813-001-p1s1a28</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>ADDR</functor>
@@ -191,7 +197,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0813-001-p1s1a4">
+<children>
+<LM id="T-wsj0813-001-p1s1a4">
 <a>
 <lex.rf>a#a-wsj0813-001-p1s1W5-Ta</lex.rf>
 </a>
@@ -225,7 +232,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0813-001-p1s1a7">
+<children>
+<LM id="T-wsj0813-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj0813-001-p1s1W6-Ta</lex.rf>
 </a>
@@ -236,9 +244,11 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -260,7 +270,9 @@
 <LM id="T-wsj0813-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj0813-001-p1s1W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0813-001-p1s1W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0813-001-p1s1W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>funkce</t_lemma>
@@ -269,7 +281,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj0813-001-p1s1a12">
+<children>
+<LM id="T-wsj0813-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj0813-001-p1s1W12-Ta</lex.rf>
 </a>
@@ -280,7 +293,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0813-001-p1s1a13">
+<children>
+<LM id="T-wsj0813-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj0813-001-p1s1W11-Ta</lex.rf>
 </a>
@@ -291,12 +305,16 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0813-001-p1s0a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0813-001-p1s1a15">
@@ -364,7 +382,9 @@
 <a>
 <lex.rf>a#a-wsj0813-001-p1s1W21-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0813-001-p1s1a15</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0813-001-p1s1a15</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -384,7 +404,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj0813-001-p1s1a24">
+<children>
+<LM id="T-wsj0813-001-p1s1a24">
 <a>
 <lex.rf>a#a-wsj0813-001-p1s1W25-Ta</lex.rf>
 </a>
@@ -395,7 +416,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj0813-001-p1s1a25">
+<children>
+<LM id="T-wsj0813-001-p1s1a25">
 <a>
 <lex.rf>a#a-wsj0813-001-p1s1W24-Ta</lex.rf>
 </a>
@@ -406,26 +428,32 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>22</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>M-lemma</type>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>He retains his titles of president and chief operating officer and succeeds as chief executive Howard O. Painter Jr., who remains chairman of the board.</eng_sentence>
 </LM>
 <LM id="T-wsj0813-001-p1s2">
 <atree.rf>a#a-wsj0813-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0813-001-p1s2a1">
+<children>
+<LM id="T-wsj0813-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0813-001-p1s2W3-Ta</lex.rf>
 </a>
@@ -449,7 +477,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0813-001-p1s2a3">
+<children>
+<LM id="T-wsj0813-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj0813-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -460,6 +489,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0813-001-p1s2a4">
@@ -508,10 +538,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0813-001-p1s2a9">
+<children>
+<LM id="T-wsj0813-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj0813-001-p1s2W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0813-001-p1s2W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0813-001-p1s2W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>sběr</t_lemma>
@@ -520,7 +553,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0813-001-p1s2a10">
+<children>
+<LM id="T-wsj0813-001-p1s2a10">
 <a>
 <lex.rf>a#a-wsj0813-001-p1s2W10-Ta</lex.rf>
 </a>
@@ -531,12 +565,15 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>DSP makes electronic instrumentation and data acquisition systems.</eng_sentence>
 </LM>

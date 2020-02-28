@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj2420.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -133,7 +133,9 @@
 <LM id="T-wsj2420-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj2420-001-p1s0W11-Ta</lex.rf>
-<aux.rf>a#a-wsj2420-001-p1s0W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2420-001-p1s0W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>správa</t_lemma>
@@ -142,7 +144,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj2420-001-p1s0a12">
+<children>
+<LM id="T-wsj2420-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj2420-001-p1s0W13-Ta</lex.rf>
 </a>
@@ -241,7 +244,9 @@
 <a>
 <lex.rf>a#a-wsj2420-001-p1s0W19-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj2420-001-p1s0a12</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj2420-001-p1s0a12</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>RSTR</functor>
@@ -314,6 +319,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -400,24 +406,29 @@
 </gram>
 <deepord>31</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2420-001-p1s0a1</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>Sentence segmentation</type>
 <text>2 v 1</text>
+</LM>
 </annot_comment>
 <eng_sentence>Dresdner Bank AG of West Germany has announced a friendly tender offer for control of Banque Internationale de Placements, a French bank whose main shareholder is France's Societe Generale, the Societe de Bourses Francaises said.</eng_sentence>
 </LM>
 <LM id="T-wsj2420-001-p1s1">
 <atree.rf>a#a-wsj2420-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2420-001-p1s1a1">
+<children>
+<LM id="T-wsj2420-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj2420-001-p1s1W8-Ta</lex.rf>
 </a>
@@ -516,16 +527,20 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2420-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2420-001-p1s0a7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2420-001-p1s1a9">
@@ -541,13 +556,15 @@
 <deepord>9</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The tender offer by West Germany's second-biggest commercial bank is in two stages.</eng_sentence>
 </LM>
 <LM id="T-wsj2420-001-p1s2">
 <atree.rf>a#a-wsj2420-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2420-001-p1s2a1">
+<children>
+<LM id="T-wsj2420-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj2420-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -573,7 +590,8 @@
 <t_lemma>#Forn</t_lemma>
 <functor>ACT</functor>
 <deepord>4</deepord>
-<children id="T-wsj2420-001-p1s2a2">
+<children>
+<LM id="T-wsj2420-001-p1s2a2">
 <a>
 <lex.rf>a#a-wsj2420-001-p1s2W1-Ta</lex.rf>
 </a>
@@ -581,11 +599,14 @@
 <t_lemma>Dresdner</t_lemma>
 <functor>FPHR</functor>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2420-001-p1s1a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2420-001-p1s2a3">
@@ -608,9 +629,11 @@
 <functor>ACT</functor>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2420-001-p1s2a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2420-001-p1s2a6">
@@ -652,7 +675,8 @@
 <t_lemma>#Idph</t_lemma>
 <functor>RSTR</functor>
 <deepord>10</deepord>
-<children id="T-wsj2420-001-p1s2a7">
+<children>
+<LM id="T-wsj2420-001-p1s2a7">
 <a>
 <lex.rf>a#a-wsj2420-001-p1s2W7-Ta</lex.rf>
 </a>
@@ -663,17 +687,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2420-001-p1s0a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2420-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj2420-001-p1s2W9-Ta</lex.rf>
-<aux.rf>a#a-wsj2420-001-p1s2W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2420-001-p1s2W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>cena</t_lemma>
@@ -705,7 +734,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj2420-001-p1s2a11">
+<children>
+<LM id="T-wsj2420-001-p1s2a11">
 <a>
 <lex.rf>a#a-wsj2420-001-p1s2W10-Ta</lex.rf>
 </a>
@@ -716,6 +746,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2420-001-p1s2a14">
@@ -731,7 +762,8 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>17</deepord>
-<children id="T-wsj2420-001-p1s2a13">
+<children>
+<LM id="T-wsj2420-001-p1s2a13">
 <a>
 <lex.rf>a#a-wsj2420-001-p1s2W13-Ta</lex.rf>
 </a>
@@ -743,6 +775,7 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>16</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -750,7 +783,9 @@
 <LM id="T-wsj2420-001-p1s2a17">
 <a>
 <lex.rf>a#a-wsj2420-001-p1s2W17-Ta</lex.rf>
-<aux.rf>a#a-wsj2420-001-p1s2W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2420-001-p1s2W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akcie</t_lemma>
@@ -764,25 +799,31 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>M-tag</type>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Dresdner is offering to acquire 32.99% of BIP's capital for 1,015 francs ($156.82) a share.</eng_sentence>
 </LM>
 <LM id="T-wsj2420-001-p1s3">
 <atree.rf>a#a-wsj2420-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2420-001-p1s3a1">
+<children>
+<LM id="T-wsj2420-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj2420-001-p1s3W3-Ta</lex.rf>
 </a>
@@ -806,7 +847,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj2420-001-p1s3a3">
+<children>
+<LM id="T-wsj2420-001-p1s3a3">
 <a>
 <lex.rf>a#a-wsj2420-001-p1s3W2-Ta</lex.rf>
 </a>
@@ -818,10 +860,13 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2420-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2420-001-p1s3a4">
@@ -932,7 +977,9 @@
 <LM id="T-wsj2420-001-p1s3a14">
 <a>
 <lex.rf>a#a-wsj2420-001-p1s3W16-Ta</lex.rf>
-<aux.rf>a#a-wsj2420-001-p1s3W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2420-001-p1s3W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>podíl</t_lemma>
@@ -941,7 +988,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj2420-001-p1s3a16">
+<children>
+<LM id="T-wsj2420-001-p1s3a16">
 <a>
 <lex.rf>a#a-wsj2420-001-p1s3W15-Ta</lex.rf>
 </a>
@@ -949,7 +997,8 @@
 <t_lemma>#Percnt</t_lemma>
 <functor>RSTR</functor>
 <deepord>13</deepord>
-<children id="T-wsj2420-001-p1s3a15">
+<children>
+<LM id="T-wsj2420-001-p1s3a15">
 <a>
 <lex.rf>a#a-wsj2420-001-p1s3W14-Ta</lex.rf>
 </a>
@@ -960,19 +1009,23 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The terms of the offer put a value of 528 million francs ($81.6 million) on the 32.99% shareholding.</eng_sentence>
 </LM>
 <LM id="T-wsj2420-001-p1s4">
 <atree.rf>a#a-wsj2420-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2420-001-p1s4a1">
+<children>
+<LM id="T-wsj2420-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj2420-001-p1s4W5-Ta</lex.rf>
 </a>
@@ -1044,9 +1097,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2420-001-p1s0a42</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2420-001-p1s4a8">
@@ -1096,7 +1151,9 @@
 <LM id="T-wsj2420-001-p1s4a11">
 <a>
 <lex.rf>a#a-wsj2420-001-p1s4W17-Ta</lex.rf>
-<aux.rf>a#a-wsj2420-001-p1s4W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2420-001-p1s4W10-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7650f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1171,36 +1228,24 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<annot_comment>
-<type>Word segmentation</type>
-<text>3 v 1</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj2420-001-p1s4a31">
 <a>
-<lex.rf>a#a-wsj2420-001-p1s4W15-Ta</lex.rf>
+<lex.rf>a#m-wsj2420-001-p1s4W15-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
 <t_lemma>.</t_lemma>
 <functor>FPHR</functor>
 <deepord>17</deepord>
-<annot_comment>
-<type>Word segmentation</type>
-<text>3 v 1</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj2420-001-p1s4a33">
 <a>
-<lex.rf>a#a-wsj2420-001-p1s4W15-Ta</lex.rf>
+<lex.rf>a#m-wsj2420-001-p1s4W15-Ta-sw2-ia</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
 <t_lemma>A</t_lemma>
 <functor>FPHR</functor>
 <deepord>18</deepord>
-<annot_comment>
-<type>Word segmentation</type>
-<text>3 v 1</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj2420-001-p1s4a30">
 <a>
@@ -1221,7 +1266,8 @@
 <t_lemma>#Percnt</t_lemma>
 <functor>PAT</functor>
 <deepord>21</deepord>
-<children id="T-wsj2420-001-p1s4a12">
+<children>
+<LM id="T-wsj2420-001-p1s4a12">
 <a>
 <lex.rf>a#a-wsj2420-001-p1s4W18-Ta</lex.rf>
 </a>
@@ -1232,6 +1278,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>20</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -1239,7 +1286,9 @@
 <LM id="T-wsj2420-001-p1s4a28">
 <a>
 <lex.rf>a#a-wsj2420-001-p1s4W17-Ta</lex.rf>
-<aux.rf>a#a-wsj2420-001-p1s4W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2420-001-p1s4W10-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7650f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1316,7 +1365,8 @@
 <t_lemma>#Percnt</t_lemma>
 <functor>PAT</functor>
 <deepord>30</deepord>
-<children id="T-wsj2420-001-p1s4a24">
+<children>
+<LM id="T-wsj2420-001-p1s4a24">
 <a>
 <lex.rf>a#a-wsj2420-001-p1s4W25-Ta</lex.rf>
 </a>
@@ -1327,13 +1377,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>29</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The Societe Generale banking group controls 18.2% of the shareholding, while Societe Generale de Belgique S.A. owns 9.69% and Financiere Tradition, a holding company, owns 5.1%.</eng_sentence>
 </LM>

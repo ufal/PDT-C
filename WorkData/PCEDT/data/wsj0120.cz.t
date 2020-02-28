@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0120.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -2510,9 +2510,13 @@
 <LM id="T-wsj0120-001-p1s12a3">
 <a>
 <lex.rf>a#a-wsj0120-001-p1s12W2-Ta</lex.rf>
+<aux.rf>
+<LM>a#m-wsj0120-001-p1s12W2-Ta-sw1-ia</LM>
+<LM>a#m-wsj0120-001-p1s12W2-Ta-sw2-ia</LM>
+</aux.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>Christie's</t_lemma>
+<t_lemma>Christie_'_s</t_lemma>
 <functor>FPHR</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -6860,12 +6864,30 @@
 <lex.rf>a#a-wsj0120-001-p1s29W21-Ta</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>Sprint's</t_lemma>
+<t_lemma>Sprint</t_lemma>
 <functor>FPHR</functor>
 <gram>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
+<LM id="T-wsj0120-001-p1s29a27">
+<a>
+<lex.rf>a#m-wsj0120-001-p1s29W21-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>'</t_lemma>
+<functor>FPHR</functor>
+<deepord>17</deepord>
+</LM>
+<LM id="T-wsj0120-001-p1s29a28">
+<a>
+<lex.rf>a#m-wsj0120-001-p1s29W21-Ta-sw2-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>s</t_lemma>
+<functor>FPHR</functor>
+<deepord>18</deepord>
 </LM>
 <LM id="T-wsj0120-001-p1s29a22">
 <a>
@@ -6877,7 +6899,7 @@
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
-<deepord>17</deepord>
+<deepord>19</deepord>
 </LM>
 <LM id="T-wsj0120-001-p1s29a23">
 <a>
@@ -6889,7 +6911,7 @@
 <gram>
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
-<deepord>18</deepord>
+<deepord>20</deepord>
 </LM>
 </children>
 </LM>

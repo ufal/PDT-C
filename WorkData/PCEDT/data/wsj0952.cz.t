@@ -4,17 +4,20 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0952.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj0952-001-p1s0">
 <atree.rf>a#a-wsj0952-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0952-001-p1s0a1">
+<children>
+<LM id="T-wsj0952-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0952-001-p1s0W20-Ta</lex.rf>
-<aux.rf>a#a-wsj0952-001-p1s0W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0952-001-p1s0W19-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9986f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -85,7 +88,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0952-001-p1s0a8">
+<children>
+<LM id="T-wsj0952-001-p1s0a8">
 <a>
 <lex.rf>a#a-wsj0952-001-p1s0W7-Ta</lex.rf>
 </a>
@@ -148,7 +152,9 @@
 <LM id="T-wsj0952-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj0952-001-p1s0W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0952-001-p1s0W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0952-001-p1s0W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>město</t_lemma>
@@ -190,14 +196,17 @@
 </LM>
 <LM id="T-wsj0952-001-p1s0a32">
 <a>
-<aux.rf>a#a-wsj0952-001-p1s0W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0952-001-p1s0W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
 <functor>LOC</functor>
 <deepord>16</deepord>
-<children id="T-wsj0952-001-p1s0a18">
+<children>
+<LM id="T-wsj0952-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj0952-001-p1s0W17-Ta</lex.rf>
 </a>
@@ -208,11 +217,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 </children>
@@ -235,7 +246,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj0952-001-p1s0a22">
+<children>
+<LM id="T-wsj0952-001-p1s0a22">
 <a>
 <lex.rf>a#a-wsj0952-001-p1s0W23-Ta</lex.rf>
 </a>
@@ -262,7 +274,9 @@
 <LM id="T-wsj0952-001-p1s0a24">
 <a>
 <lex.rf>a#a-wsj0952-001-p1s0W24-Ta</lex.rf>
-<aux.rf>a#a-wsj0952-001-p1s0W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0952-001-p1s0W25-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zabývající_se</t_lemma>
@@ -271,7 +285,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj0952-001-p1s0a26">
+<children>
+<LM id="T-wsj0952-001-p1s0a26">
 <a>
 <lex.rf>a#a-wsj0952-001-p1s0W27-Ta</lex.rf>
 </a>
@@ -282,7 +297,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj0952-001-p1s0a27">
+<children>
+<LM id="T-wsj0952-001-p1s0a27">
 <a>
 <lex.rf>a#a-wsj0952-001-p1s0W26-Ta</lex.rf>
 </a>
@@ -293,20 +309,25 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>24</deepord>
-</children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Alvin W. Trivelpiece, director of Oak Ridge National Laboratory, Oak Ridge, Tenn., was elected a director of this optical-products concern.</eng_sentence>
 </LM>
 <LM id="T-wsj0952-001-p1s1">
 <atree.rf>a#a-wsj0952-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0952-001-p1s1a1">
+<children>
+<LM id="T-wsj0952-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0952-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -330,9 +351,10 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0952-001-p1s1a3">
+<children>
+<LM id="T-wsj0952-001-p1s1a3">
 <a>
-<lex.rf>a#a-wsj0952-001-p1s1W1-Ta</lex.rf>
+<lex.rf>a#m-wsj0952-001-p1s1W1-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -341,7 +363,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0952-001-p1s1a12">
+<children>
+<LM id="T-wsj0952-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj0952-001-p1s1W1-Ta</lex.rf>
 </a>
@@ -349,16 +372,16 @@
 <t_lemma>58</t_lemma>
 <functor>RSTR</functor>
 <deepord>1</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0952-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0952-001-p1s1a13">
@@ -371,7 +394,9 @@
 <LM id="T-wsj0952-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj0952-001-p1s1W6-Ta</lex.rf>
-<aux.rf>a#a-wsj0952-001-p1s1W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0952-001-p1s1W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Bolger</t_lemma>
@@ -410,7 +435,9 @@
 <a>
 <lex.rf>a#a-wsj0952-001-p1s1W8-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0952-001-p1s1a6</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0952-001-p1s1a6</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -422,7 +449,9 @@
 <LM id="T-wsj0952-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj0952-001-p1s1W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0952-001-p1s1W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0952-001-p1s1W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>srpen</t_lemma>
@@ -437,6 +466,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Mr. Trivelpiece, 58 years old, succeeds William Bolger, who died in August.</eng_sentence>
 </LM>

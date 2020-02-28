@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0018.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -1312,7 +1312,7 @@
 <gram>
 <sempos>v</sempos>
 </gram>
-<deepord>13</deepord>
+<deepord>14</deepord>
 <children>
 <LM id="T-wsj0018-001-p1s3a11">
 <a>
@@ -1328,7 +1328,7 @@
 <gram>
 <sempos>v</sempos>
 </gram>
-<deepord>8</deepord>
+<deepord>9</deepord>
 <children>
 <LM id="T-wsj0018-001-p1s3a12">
 <a>
@@ -1340,6 +1340,15 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
+<deepord>8</deepord>
+<children>
+<LM id="T-wsj0018-001-p1s3a38">
+<a>
+<lex.rf>a#m-wsj0018-001-p1s3W9-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>complex</nodetype>
+<t_lemma>letý</t_lemma>
+<functor>RSTR</functor>
 <deepord>7</deepord>
 <children>
 <LM id="T-wsj0018-001-p1s3a34">
@@ -1350,6 +1359,8 @@
 <t_lemma>64</t_lemma>
 <functor>RSTR</functor>
 <deepord>6</deepord>
+</LM>
+</children>
 </LM>
 </children>
 <coref_text>
@@ -1373,7 +1384,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>9</deepord>
+<deepord>10</deepord>
 <coref_text>
 <LM>
 <target-node.rf>T-wsj0018-001-p1s2a47</target-node.rf>
@@ -1392,7 +1403,7 @@
 <gram>
 <sempos>adj.quant.grad</sempos>
 </gram>
-<deepord>10</deepord>
+<deepord>11</deepord>
 <children>
 <LM id="T-wsj0018-001-p1s3a22">
 <a>
@@ -1407,7 +1418,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>12</deepord>
+<deepord>13</deepord>
 <children>
 <LM id="T-wsj0018-001-p1s3a21">
 <a>
@@ -1419,7 +1430,7 @@
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
-<deepord>11</deepord>
+<deepord>12</deepord>
 </LM>
 </children>
 </LM>
@@ -1437,14 +1448,14 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>14</deepord>
+<deepord>15</deepord>
 <children>
 <LM id="T-wsj0018-001-p1s3a36">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
 <functor>ID</functor>
-<deepord>15</deepord>
+<deepord>16</deepord>
 <children>
 <LM id="T-wsj0018-001-p1s3a17">
 <a>
@@ -1456,7 +1467,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>16</deepord>
+<deepord>17</deepord>
 </LM>
 <LM id="T-wsj0018-001-p1s3a37">
 <a>
@@ -1465,7 +1476,7 @@
 <nodetype>fphr</nodetype>
 <t_lemma>-</t_lemma>
 <functor>FPHR</functor>
-<deepord>17</deepord>
+<deepord>18</deepord>
 </LM>
 <LM id="T-wsj0018-001-p1s3a24">
 <a>
@@ -1477,7 +1488,7 @@
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
-<deepord>18</deepord>
+<deepord>19</deepord>
 </LM>
 </children>
 </LM>
@@ -1500,7 +1511,7 @@
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
-<deepord>22</deepord>
+<deepord>23</deepord>
 <children>
 <LM id="T-wsj0018-001-p1s3a23">
 <a>
@@ -1512,7 +1523,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>21</deepord>
+<deepord>22</deepord>
 <children>
 <LM id="T-wsj0018-001-p1s3a27">
 <a>
@@ -1524,7 +1535,7 @@
 <gram>
 <sempos>adj.quant.grad</sempos>
 </gram>
-<deepord>19</deepord>
+<deepord>20</deepord>
 </LM>
 <LM id="T-wsj0018-001-p1s3a26">
 <a>
@@ -1536,7 +1547,7 @@
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
-<deepord>20</deepord>
+<deepord>21</deepord>
 </LM>
 </children>
 </LM>
@@ -1553,7 +1564,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>25</deepord>
+<deepord>26</deepord>
 <children>
 <LM id="T-wsj0018-001-p1s3a30">
 <a>
@@ -1565,7 +1576,7 @@
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
-<deepord>24</deepord>
+<deepord>25</deepord>
 <children>
 <LM id="T-wsj0018-001-p1s3a31">
 <a>
@@ -1577,7 +1588,7 @@
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
-<deepord>23</deepord>
+<deepord>24</deepord>
 </LM>
 </children>
 </LM>

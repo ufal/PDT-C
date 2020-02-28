@@ -4,14 +4,15 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0262.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj0262-001-p1s0">
 <atree.rf>a#a-wsj0262-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0262-001-p1s0a1">
+<children>
+<LM id="T-wsj0262-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0262-001-p1s0a21">
+<children>
+<LM id="T-wsj0262-001-p1s0a21">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -85,6 +87,7 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0262-001-p1s0a7">
@@ -98,7 +101,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0262-001-p1s0a8">
+<children>
+<LM id="T-wsj0262-001-p1s0a8">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s0W7-Ta</lex.rf>
 </a>
@@ -109,12 +113,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0262-001-p1s0a10">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s0W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0262-001-p1s0W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0262-001-p1s0W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>post</t_lemma>
@@ -123,7 +130,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0262-001-p1s0a11">
+<children>
+<LM id="T-wsj0262-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s0W10-Ta</lex.rf>
 </a>
@@ -134,12 +142,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0262-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s0W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0262-001-p1s0W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0262-001-p1s0W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výměna</t_lemma>
@@ -197,9 +208,11 @@
 </gram>
 <deepord>16</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0262-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -207,7 +220,9 @@
 <LM id="T-wsj0262-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s0W20-Ta</lex.rf>
-<aux.rf>a#a-wsj0262-001-p1s0W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0262-001-p1s0W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>týden</t_lemma>
@@ -216,7 +231,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj0262-001-p1s0a20">
+<children>
+<LM id="T-wsj0262-001-p1s0a20">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s0W19-Ta</lex.rf>
 </a>
@@ -227,21 +243,26 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>17</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Newport Electronics Inc. named a new slate of officers, a move that follows replacement of the company's five incumbent directors last week.</eng_sentence>
 </LM>
 <LM id="T-wsj0262-001-p1s1">
 <atree.rf>a#a-wsj0262-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0262-001-p1s1a1">
+<children>
+<LM id="T-wsj0262-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s1W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0262-001-p1s1W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0262-001-p1s1W12-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1344f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -262,9 +283,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0262-001-p1s0a17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0262-001-p1s1a3">
@@ -308,7 +331,9 @@
 <a>
 <lex.rf>a#a-wsj0262-001-p1s1W4-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0262-001-p1s1a3</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0262-001-p1s1a3</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -327,7 +352,9 @@
 <LM id="T-wsj0262-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s1W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0262-001-p1s1W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0262-001-p1s1W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Weekesa</t_lemma>
@@ -381,7 +408,7 @@
 <children>
 <LM id="T-wsj0262-001-p1s1a15">
 <a>
-<lex.rf>a#a-wsj0262-001-p1s1W14-Ta</lex.rf>
+<lex.rf>a#m-wsj0262-001-p1s1W14-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -390,7 +417,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0262-001-p1s1a20">
+<children>
+<LM id="T-wsj0262-001-p1s1a20">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s1W14-Ta</lex.rf>
 </a>
@@ -398,15 +426,8 @@
 <t_lemma>60</t_lemma>
 <functor>RSTR</functor>
 <deepord>12</deepord>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1 </text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0262-001-p1s1a14">
 <a>
@@ -435,13 +456,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Milton B. Hollander, 60 years old, was named chief executive officer, succeeding Barrett B. Weekes.</eng_sentence>
 </LM>
 <LM id="T-wsj0262-001-p1s2">
 <atree.rf>a#a-wsj0262-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0262-001-p1s2a1">
+<children>
+<LM id="T-wsj0262-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s2W11-Ta</lex.rf>
 </a>
@@ -478,9 +501,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0262-001-p1s1a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0262-001-p1s2a5">
@@ -555,7 +580,9 @@
 <LM id="T-wsj0262-001-p1s2a11">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s2W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0262-001-p1s2W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0262-001-p1s2W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Stamford</t_lemma>
@@ -570,7 +597,9 @@
 <LM id="T-wsj0262-001-p1s2a13">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s2W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0262-001-p1s2W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0262-001-p1s2W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>srpen</t_lemma>
@@ -583,7 +612,9 @@
 <LM id="T-wsj0262-001-p1s2a15">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s2W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0262-001-p1s2W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0262-001-p1s2W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Newport</t_lemma>
@@ -593,9 +624,11 @@
 </gram>
 <deepord>13</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0262-001-p1s1a18</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0262-001-p1s2a16">
@@ -625,7 +658,9 @@
 <LM id="T-wsj0262-001-p1s2a19">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s2W21-Ta</lex.rf>
-<aux.rf>a#a-wsj0262-001-p1s2W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0262-001-p1s2W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>podíl</t_lemma>
@@ -634,7 +669,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj0262-001-p1s2a21">
+<children>
+<LM id="T-wsj0262-001-p1s2a21">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s2W20-Ta</lex.rf>
 </a>
@@ -642,7 +678,8 @@
 <t_lemma>#Percnt</t_lemma>
 <functor>RSTR</functor>
 <deepord>17</deepord>
-<children id="T-wsj0262-001-p1s2a20">
+<children>
+<LM id="T-wsj0262-001-p1s2a20">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s2W19-Ta</lex.rf>
 </a>
@@ -653,19 +690,23 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Mr. Hollander's Stamford, Conn.-based High Technology Holding Co. acquired most of its 49.4% stake in Newport in August.</eng_sentence>
 </LM>
 <LM id="T-wsj0262-001-p1s3">
 <atree.rf>a#a-wsj0262-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0262-001-p1s3a20">
+<children>
+<LM id="T-wsj0262-001-p1s3a20">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s3W8-Ta</lex.rf>
 </a>
@@ -677,7 +718,9 @@
 <LM id="T-wsj0262-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s3W3-Ta</lex.rf>
-<aux.rf>a#a-wsj0262-001-p1s3W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0262-001-p1s3W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1344f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -699,9 +742,11 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0262-001-p1s2a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0262-001-p1s3a2">
@@ -716,9 +761,11 @@
 </gram>
 <deepord>3</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0262-001-p1s2a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0262-001-p1s3a4">
@@ -744,7 +791,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0262-001-p1s3a6">
+<children>
+<LM id="T-wsj0262-001-p1s3a6">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s3W5-Ta</lex.rf>
 </a>
@@ -755,11 +803,14 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0262-001-p1s0a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -788,9 +839,11 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0262-001-p1s3a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0262-001-p1s3a21">
@@ -803,7 +856,9 @@
 <LM id="T-wsj0262-001-p1s3a11">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s3W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0262-001-p1s3W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0262-001-p1s3W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Weekes</t_lemma>
@@ -812,7 +867,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0262-001-p1s3a12">
+<children>
+<LM id="T-wsj0262-001-p1s3a12">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s3W14-Ta</lex.rf>
 </a>
@@ -829,7 +885,9 @@
 <a>
 <lex.rf>a#a-wsj0262-001-p1s3W13-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0262-001-p1s3a11</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0262-001-p1s3a11</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -841,7 +899,9 @@
 <LM id="T-wsj0262-001-p1s3a16">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s3W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0262-001-p1s3W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0262-001-p1s3W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>ředitel</t_lemma>
@@ -850,7 +910,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj0262-001-p1s3a17">
+<children>
+<LM id="T-wsj0262-001-p1s3a17">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s3W16-Ta</lex.rf>
 </a>
@@ -861,31 +922,39 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0262-001-p1s0a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0262-001-p1s1a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Mr. Hollander was named chairman last week, succeeding Mr. Weekes, who was among the ousted directors.</eng_sentence>
 </LM>
 <LM id="T-wsj0262-001-p1s4">
 <atree.rf>a#a-wsj0262-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0262-001-p1s4a1">
+<children>
+<LM id="T-wsj0262-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s4W8-Ta</lex.rf>
 </a>
@@ -920,9 +989,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0262-001-p1s3a18</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0262-001-p1s4a4">
@@ -936,10 +1007,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0262-001-p1s4a6">
+<children>
+<LM id="T-wsj0262-001-p1s4a6">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s4W5-Ta</lex.rf>
-<aux.rf>a#a-wsj0262-001-p1s4W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0262-001-p1s4W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>prodiskutování</t_lemma>
@@ -959,9 +1033,11 @@
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0262-001-p1s4a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0262-001-p1s4a7">
@@ -978,9 +1054,12 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 </children>
@@ -1018,9 +1097,11 @@
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0262-001-p1s3a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0262-001-p1s4a15">
@@ -1052,9 +1133,11 @@
 </gram>
 <deepord>11</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0262-001-p1s3a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0262-001-p1s4a16">
@@ -1068,7 +1151,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj0262-001-p1s4a17">
+<children>
+<LM id="T-wsj0262-001-p1s4a17">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s4W16-Ta</lex.rf>
 </a>
@@ -1079,23 +1163,28 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>13</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The company has declined requests to discuss the changes, but Mr. Weekes has said that Mr. Hollander wanted to have his own team.</eng_sentence>
 </LM>
 <LM id="T-wsj0262-001-p1s5">
 <atree.rf>a#a-wsj0262-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0262-001-p1s5a13">
+<children>
+<LM id="T-wsj0262-001-p1s5a13">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s5W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0262-001-p1s5W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0262-001-p1s5W16-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1344f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1174,7 +1263,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj0262-001-p1s5a8">
+<children>
+<LM id="T-wsj0262-001-p1s5a8">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s5W5-Ta</lex.rf>
 </a>
@@ -1185,6 +1275,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -1209,7 +1300,9 @@
 <a>
 <lex.rf>a#a-wsj0262-001-p1s5W8-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0262-001-p1s5a3</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0262-001-p1s5a3</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>ACT</functor>
@@ -1229,7 +1322,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0262-001-p1s5a11">
+<children>
+<LM id="T-wsj0262-001-p1s5a11">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s5W13-Ta</lex.rf>
 </a>
@@ -1251,7 +1345,9 @@
 <functor>PAT</functor>
 <deepord>11</deepord>
 <annot_comment>
+<LM>
 <type>M-lemma</type>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0262-001-p1s5a18">
@@ -1266,12 +1362,15 @@
 </gram>
 <deepord>13</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0262-001-p1s4a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -1288,9 +1387,11 @@
 </gram>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0262-001-p1s4a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0262-001-p1s5a15">
@@ -1304,7 +1405,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj0262-001-p1s5a16">
+<children>
+<LM id="T-wsj0262-001-p1s5a16">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s5W18-Ta</lex.rf>
 </a>
@@ -1315,16 +1417,19 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Scott Wakeman was named president and chief operating officer of U.S. operations, titles that had been held by Mr. Weekes.</eng_sentence>
 </LM>
 <LM id="T-wsj0262-001-p1s6">
 <atree.rf>a#a-wsj0262-001-p1s6</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0262-001-p1s6a1">
+<children>
+<LM id="T-wsj0262-001-p1s6a1">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s6W2-Ta</lex.rf>
 </a>
@@ -1349,9 +1454,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0262-001-p1s5a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0262-001-p1s6a3">
@@ -1365,7 +1472,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0262-001-p1s6a4">
+<children>
+<LM id="T-wsj0262-001-p1s6a4">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s6W4-Ta</lex.rf>
 </a>
@@ -1389,7 +1497,9 @@
 <LM id="T-wsj0262-001-p1s6a7">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s6W6-Ta</lex.rf>
-<aux.rf>a#a-wsj0262-001-p1s6W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0262-001-p1s6W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>přístroj</t_lemma>
@@ -1403,7 +1513,9 @@
 <LM id="T-wsj0262-001-p1s6a8">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s6W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0262-001-p1s6W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0262-001-p1s6W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>kontrola</t_lemma>
@@ -1441,7 +1553,9 @@
 <LM id="T-wsj0262-001-p1s6a11">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s6W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0262-001-p1s6W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0262-001-p1s6W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>počet</t_lemma>
@@ -1569,7 +1683,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj0262-001-p1s6a22">
+<children>
+<LM id="T-wsj0262-001-p1s6a22">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s6W22-Ta</lex.rf>
 </a>
@@ -1581,10 +1696,13 @@
 </gram>
 <deepord>21</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0262-001-p1s4a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 </children>
@@ -1593,19 +1711,24 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Mr. Wakeman was vice president of the instrument and controls division of closely held Omega Engineering Inc., another company controlled by Mr. Hollander.</eng_sentence>
 </LM>
 <LM id="T-wsj0262-001-p1s7">
 <atree.rf>a#a-wsj0262-001-p1s7</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0262-001-p1s7a1">
+<children>
+<LM id="T-wsj0262-001-p1s7a1">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s7W3-Ta</lex.rf>
 </a>
@@ -1636,7 +1759,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0262-001-p1s7a3">
+<children>
+<LM id="T-wsj0262-001-p1s7a3">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s7W2-Ta</lex.rf>
 </a>
@@ -1648,14 +1772,19 @@
 </gram>
 <deepord>3</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0262-001-p1s5a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <str_comment>
+<LM>
 <name>AMBIG</name>
 <comment>nebo příp. společnost Omega</comment>
+</LM>
 </str_comment>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0262-001-p1s7a4">
@@ -1669,7 +1798,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj0262-001-p1s7a5">
+<children>
+<LM id="T-wsj0262-001-p1s7a5">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s7W4-Ta</lex.rf>
 </a>
@@ -1681,23 +1811,30 @@
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0262-001-p1s6a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>A company spokesman didn't know Mr. Wakeman's age.</eng_sentence>
 </LM>
 <LM id="T-wsj0262-001-p1s8">
 <atree.rf>a#a-wsj0262-001-p1s8</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0262-001-p1s8a1">
+<children>
+<LM id="T-wsj0262-001-p1s8a1">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s8W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0262-001-p1s8W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0262-001-p1s8W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1344f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1718,9 +1855,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0262-001-p1s7a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0262-001-p1s8a2">
@@ -1744,7 +1883,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0262-001-p1s8a4">
+<children>
+<LM id="T-wsj0262-001-p1s8a4">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s8W1-Ta</lex.rf>
 </a>
@@ -1755,6 +1895,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0262-001-p1s8a5">
@@ -1793,7 +1934,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0262-001-p1s8a8">
+<children>
+<LM id="T-wsj0262-001-p1s8a8">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s8W6-Ta</lex.rf>
 </a>
@@ -1804,6 +1946,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -1834,7 +1977,7 @@
 <children>
 <LM id="T-wsj0262-001-p1s8a11">
 <a>
-<lex.rf>a#a-wsj0262-001-p1s8W10-Ta</lex.rf>
+<lex.rf>a#m-wsj0262-001-p1s8W10-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -1843,7 +1986,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0262-001-p1s8a28">
+<children>
+<LM id="T-wsj0262-001-p1s8a28">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s8W10-Ta</lex.rf>
 </a>
@@ -1851,15 +1995,8 @@
 <t_lemma>51</t_lemma>
 <functor>RSTR</functor>
 <deepord>11</deepord>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0262-001-p1s8a10">
 <a>
@@ -1936,9 +2073,11 @@
 </gram>
 <deepord>19</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0262-001-p1s8a27</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -1960,7 +2099,9 @@
 <a>
 <lex.rf>a#a-wsj0262-001-p1s8W21-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0262-001-p1s8a12</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0262-001-p1s8a12</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -2017,9 +2158,11 @@
 </gram>
 <deepord>24</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0262-001-p1s5a18</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -2031,13 +2174,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>James R. Lees, 51, vice president of Newport's European operations, was named executive vice president and chief operating officer of European operations, assuming some former duties of Mr. Weekes.</eng_sentence>
 </LM>
 <LM id="T-wsj0262-001-p1s9">
 <atree.rf>a#a-wsj0262-001-p1s9</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0262-001-p1s9a26">
+<children>
+<LM id="T-wsj0262-001-p1s9a26">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s9W11-Ta</lex.rf>
 </a>
@@ -2049,7 +2194,9 @@
 <LM id="T-wsj0262-001-p1s9a1">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s9W3-Ta</lex.rf>
-<aux.rf>a#a-wsj0262-001-p1s9W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0262-001-p1s9W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1344f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -2071,9 +2218,11 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0262-001-p1s8a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0262-001-p1s9a2">
@@ -2111,9 +2260,10 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0262-001-p1s9a5">
+<children>
+<LM id="T-wsj0262-001-p1s9a5">
 <a>
-<lex.rf>a#a-wsj0262-001-p1s9W4-Ta</lex.rf>
+<lex.rf>a#m-wsj0262-001-p1s9W4-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -2122,7 +2272,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0262-001-p1s9a25">
+<children>
+<LM id="T-wsj0262-001-p1s9a25">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s9W4-Ta</lex.rf>
 </a>
@@ -2130,15 +2281,9 @@
 <t_lemma>34</t_lemma>
 <functor>RSTR</functor>
 <deepord>6</deepord>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0262-001-p1s9a7">
@@ -2193,9 +2338,11 @@
 </gram>
 <deepord>11</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0262-001-p1s9a6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0262-001-p1s9a27">
@@ -2208,7 +2355,9 @@
 <LM id="T-wsj0262-001-p1s9a15">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s9W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0262-001-p1s9W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0262-001-p1s9W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Virtue</t_lemma>
@@ -2247,7 +2396,9 @@
 <a>
 <lex.rf>a#a-wsj0262-001-p1s9W17-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0262-001-p1s9a15</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0262-001-p1s9a15</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -2268,7 +2419,9 @@
 <LM id="T-wsj0262-001-p1s9a21">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s9W22-Ta</lex.rf>
-<aux.rf>a#a-wsj0262-001-p1s9W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0262-001-p1s9W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>ředitel</t_lemma>
@@ -2277,7 +2430,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj0262-001-p1s9a22">
+<children>
+<LM id="T-wsj0262-001-p1s9a22">
 <a>
 <lex.rf>a#a-wsj0262-001-p1s9W21-Ta</lex.rf>
 </a>
@@ -2288,11 +2442,14 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>19</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0262-001-p1s3a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -2302,6 +2459,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Arthur B. Crozier, 34, an attorney, was named secretary, succeeding John Virtue, who was another of the ousted directors.</eng_sentence>
 </LM>

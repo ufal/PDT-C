@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj2153.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -8536,12 +8536,6 @@
 </annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>ke slovesu je přidaná uvozovka, a tak to tred analyzovat jako n.denom</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <annot_comment>
@@ -8952,21 +8946,24 @@
 <lex.rf>a#a-wsj2153-001-p1s36W17-Ta</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>Corp.</t_lemma>
+<t_lemma>Corp</t_lemma>
 <functor>FPHR</functor>
 <deepord>17</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
 </LM>
-</annot_comment>
+<LM id="T-wsj2153-001-p1s36a20">
+<a>
+<lex.rf>a#m-wsj2153-001-p1s36W17-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>.</t_lemma>
+<functor>FPHR</functor>
+<deepord>18</deepord>
 </LM>
 <LM id="T-wsj2153-001-p1s36a18">
 <a>
 <lex.rf>a#a-wsj2153-001-p1s36W18-Ta</lex.rf>
 <aux.rf>
-<LM>a#a-wsj2153-001-p1s36W17-Ta</LM>
+<LM>a#m-wsj2153-001-p1s36W17-Ta-sw2-ia</LM>
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
@@ -8975,7 +8972,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>18</deepord>
+<deepord>19</deepord>
 </LM>
 </children>
 </LM>

@@ -129,13 +129,11 @@
 <m.rf>m#m-wsj2305-001-p1s0W18-Ta</m.rf>
 <afun>Atr</afun>
 <ord>18</ord>
-<children>
+</LM>
 <LM id="m-wsj2305-001-p1s0W18-Ta-sw1-ia">
 <m.rf>m#m-wsj2305-001-p1s0W18-Ta-sw1</m.rf>
-<afun>ExD</afun>
+<afun>Atr</afun>
 <ord>19</ord>
-</LM>
-</children>
 </LM>
 <LM id="a-wsj2305-001-p1s0W20-Ta">
 <m.rf>m#m-wsj2305-001-p1s0W20-Ta</m.rf>

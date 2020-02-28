@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj1980.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -4036,7 +4036,7 @@
 </LM>
 <LM id="T-wsj1980-001-p1s12a25">
 <a>
-<lex.rf>a#a-wsj1980-001-p1s12W26-Ta</lex.rf>
+<lex.rf>a#m-wsj1980-001-p1s12W26-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>měsíční</t_lemma>
@@ -4054,20 +4054,8 @@
 <t_lemma>24</t_lemma>
 <functor>RSTR</functor>
 <deepord>24</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1980-001-p1s12a28">
 <a>
@@ -5357,7 +5345,7 @@
 <children>
 <LM id="T-wsj1980-001-p1s15a25">
 <a>
-<lex.rf>a#a-wsj1980-001-p1s15W24-Ta</lex.rf>
+<lex.rf>a#m-wsj1980-001-p1s15W24-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milionový</t_lemma>
@@ -5375,20 +5363,8 @@
 <t_lemma>400</t_lemma>
 <functor>RSTR</functor>
 <deepord>21</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1980-001-p1s15a27">
 <a>

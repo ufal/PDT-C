@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj1916.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -7394,7 +7394,7 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <children>
 <LM id="T-wsj1916-001-p1s22a38">
 <a>
-<lex.rf>a#a-wsj1916-001-p1s22W10-Ta</lex.rf>
+<lex.rf>a#m-wsj1916-001-p1s22W10-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milionový</t_lemma>
@@ -7414,12 +7414,6 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <deepord>8</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1916-001-p1s22a7">
 <a>

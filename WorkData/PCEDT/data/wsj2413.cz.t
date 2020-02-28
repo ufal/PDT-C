@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj2413.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -6423,13 +6423,13 @@
 </LM>
 <LM id="T-wsj2413-001-p1s24a13">
 <a>
-<lex.rf>a#a-wsj2413-001-p1s24W12-Ta</lex.rf>
+<lex.rf>a#m-wsj2413-001-p1s24W12-Ta-sw1-ia</lex.rf>
 <aux.rf>
 <LM>a#a-wsj2413-001-p1s24W11-Ta</LM>
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>h</t_lemma>
+<t_lemma>hodina</t_lemma>
 <functor>TWHEN</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -6465,12 +6465,6 @@
 <t_lemma>17</t_lemma>
 <functor>RSTR</functor>
 <deepord>11</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2413-001-p1s24a16">
 <a>
@@ -6541,12 +6535,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <annot_comment>
@@ -10392,13 +10380,13 @@
 </LM>
 <LM id="T-wsj2413-001-p1s39a22">
 <a>
-<lex.rf>a#a-wsj2413-001-p1s39W23-Ta</lex.rf>
+<lex.rf>a#m-wsj2413-001-p1s39W23-Ta-sw1-ia</lex.rf>
 <aux.rf>
 <LM>a#a-wsj2413-001-p1s39W22-Ta</LM>
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>h</t_lemma>
+<t_lemma>hodina</t_lemma>
 <functor>LOC</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -10413,20 +10401,8 @@
 <t_lemma>10</t_lemma>
 <functor>RSTR</functor>
 <deepord>25</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2413-001-p1s39a24">
 <a>

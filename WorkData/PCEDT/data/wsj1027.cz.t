@@ -4,17 +4,20 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj1027.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj1027-001-p1s0">
 <atree.rf>a#a-wsj1027-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1027-001-p1s0a3">
+<children>
+<LM id="T-wsj1027-001-p1s0a3">
 <a>
 <lex.rf>a#a-wsj1027-001-p1s0W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1027-001-p1s0W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1027-001-p1s0W13-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1344f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -58,9 +61,10 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1027-001-p1s0a7">
+<children>
+<LM id="T-wsj1027-001-p1s0a7">
 <a>
-<lex.rf>a#a-wsj1027-001-p1s0W1-Ta</lex.rf>
+<lex.rf>a#m-wsj1027-001-p1s0W1-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -69,7 +73,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1027-001-p1s0a34">
+<children>
+<LM id="T-wsj1027-001-p1s0a34">
 <a>
 <lex.rf>a#a-wsj1027-001-p1s0W1-Ta</lex.rf>
 </a>
@@ -77,11 +82,9 @@
 <t_lemma>64</t_lemma>
 <functor>RSTR</functor>
 <deepord>2</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1027-001-p1s0a8">
@@ -110,7 +113,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1027-001-p1s0a11">
+<children>
+<LM id="T-wsj1027-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj1027-001-p1s0W11-Ta</lex.rf>
 </a>
@@ -160,9 +164,12 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>Coref</type>
 <text>odkaz na něco v předchozím kontextu, který zde ale chybí</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 </children>
@@ -195,7 +202,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1027-001-p1s0a18">
+<children>
+<LM id="T-wsj1027-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj1027-001-p1s0W15-Ta</lex.rf>
 </a>
@@ -206,6 +214,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1027-001-p1s0a19">
@@ -220,7 +229,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1027-001-p1s0a20">
+<children>
+<LM id="T-wsj1027-001-p1s0a20">
 <a>
 <lex.rf>a#a-wsj1027-001-p1s0W18-Ta</lex.rf>
 </a>
@@ -231,6 +241,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>17</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1027-001-p1s0a1">
@@ -255,13 +266,17 @@
 </gram>
 <deepord>19</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1027-001-p1s0a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <str_comment>
+<LM>
 <name>AMBIG</name>
 <comment>asi</comment>
+</LM>
 </str_comment>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1027-001-p1s0a22">
@@ -298,9 +313,11 @@
 </gram>
 <deepord>22</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1027-001-p1s0a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1027-001-p1s0a25">
@@ -357,7 +374,9 @@
 <LM id="T-wsj1027-001-p1s0a30">
 <a>
 <lex.rf>a#a-wsj1027-001-p1s0W30-Ta</lex.rf>
-<aux.rf>a#a-wsj1027-001-p1s0W29-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1027-001-p1s0W29-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>město</t_lemma>
@@ -366,7 +385,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>29</deepord>
-<children id="T-wsj1027-001-p1s0a36">
+<children>
+<LM id="T-wsj1027-001-p1s0a36">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -395,7 +415,6 @@
 <deepord>32</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
@@ -404,13 +423,17 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Richard D. Sutton, 64 years old, chairman of this bank-holding company, was named acting president and chief executive officer of the company and its First National Bank of Toms River subsidiary.</eng_sentence>
 </LM>
 <LM id="T-wsj1027-001-p1s1">
 <atree.rf>a#a-wsj1027-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1027-001-p1s1a1">
+<children>
+<LM id="T-wsj1027-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1027-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -435,9 +458,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1027-001-p1s0a24</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1027-001-p1s1a5">
@@ -467,9 +492,11 @@
 </gram>
 <deepord>3</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1027-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1027-001-p1s1a6">
@@ -495,9 +522,10 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1027-001-p1s1a8">
+<children>
+<LM id="T-wsj1027-001-p1s1a8">
 <a>
-<lex.rf>a#a-wsj1027-001-p1s1W5-Ta</lex.rf>
+<lex.rf>a#m-wsj1027-001-p1s1W5-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -506,7 +534,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1027-001-p1s1a16">
+<children>
+<LM id="T-wsj1027-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj1027-001-p1s1W5-Ta</lex.rf>
 </a>
@@ -514,11 +543,9 @@
 <t_lemma>61</t_lemma>
 <functor>RSTR</functor>
 <deepord>5</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1027-001-p1s1a9">
@@ -538,7 +565,9 @@
 <LM id="T-wsj1027-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj1027-001-p1s1W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1027-001-p1s1W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1027-001-p1s1W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>pozice</t_lemma>
@@ -547,7 +576,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1027-001-p1s1a14">
+<children>
+<LM id="T-wsj1027-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj1027-001-p1s1W12-Ta</lex.rf>
 </a>
@@ -558,23 +588,28 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1027-001-p1s0a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Joseph W. Robertson, 61, was dismissed from those posts, the company said.</eng_sentence>
 </LM>
 <LM id="T-wsj1027-001-p1s2">
 <atree.rf>a#a-wsj1027-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1027-001-p1s2a5">
+<children>
+<LM id="T-wsj1027-001-p1s2a5">
 <a>
 <lex.rf>a#a-wsj1027-001-p1s2W5-Ta</lex.rf>
 </a>
@@ -615,12 +650,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1027-001-p1s2a19">
+<children>
+<LM id="T-wsj1027-001-p1s2a19">
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Benef</t_lemma>
 <functor>BEN</functor>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1027-001-p1s2a3">
@@ -637,7 +674,9 @@
 <deepord>7</deepord>
 <children>
 <LM id="T-wsj1027-001-p1s2a14">
-<coref_gram.rf>T-wsj1027-001-p1s2a19</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1027-001-p1s2a19</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -656,9 +695,11 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1027-001-p1s1a6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -668,7 +709,9 @@
 <LM id="T-wsj1027-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj1027-001-p1s2W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1027-001-p1s2W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1027-001-p1s2W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1443f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -691,7 +734,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1027-001-p1s2a8">
+<children>
+<LM id="T-wsj1027-001-p1s2a8">
 <a>
 <lex.rf>a#a-wsj1027-001-p1s2W7-Ta</lex.rf>
 </a>
@@ -703,10 +747,13 @@
 </gram>
 <deepord>10</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1027-001-p1s1a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1027-001-p1s2a10">
@@ -731,9 +778,11 @@
 </gram>
 <deepord>11</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1027-001-p1s2a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1027-001-p1s2a16">
@@ -753,20 +802,26 @@
 </gram>
 <deepord>13</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1027-001-p1s2a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1027-001-p1s1a5</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1027-001-p1s2a11">
@@ -791,16 +846,20 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>He couldn't be reached and a company spokesman wouldn't comment on the dismissal.</eng_sentence>
 </LM>
 <LM id="T-wsj1027-001-p1s3">
 <atree.rf>a#a-wsj1027-001-p1s3</atree.rf>
 <deepord>1</deepord>
-<children id="T-wsj1027-001-p1s3a2">
+<children>
+<LM id="T-wsj1027-001-p1s3a2">
 <a>
 <lex.rf>a#a-wsj1027-001-p1s3W4-Ta</lex.rf>
-<aux.rf>a#a-wsj1027-001-p1s3W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1027-001-p1s3W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2961f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -821,9 +880,11 @@
 </gram>
 <deepord>0</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1027-001-p1s2a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1027-001-p1s3a3">
@@ -838,9 +899,11 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1027-001-p1s2a17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1027-001-p1s3a5">
@@ -864,7 +927,9 @@
 <LM id="T-wsj1027-001-p1s3a7">
 <a>
 <lex.rf>a#a-wsj1027-001-p1s3W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1027-001-p1s3W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1027-001-p1s3W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>předsednictvo</t_lemma>
@@ -874,7 +939,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1027-001-p1s3a10">
+<children>
+<LM id="T-wsj1027-001-p1s3a10">
 <a>
 <lex.rf>a#a-wsj1027-001-p1s3W9-Ta</lex.rf>
 </a>
@@ -895,7 +961,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1027-001-p1s3a9">
+<children>
+<LM id="T-wsj1027-001-p1s3a9">
 <a>
 <lex.rf>a#a-wsj1027-001-p1s3W7-Ta</lex.rf>
 </a>
@@ -906,6 +973,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1027-001-p1s3a11">
@@ -963,7 +1031,9 @@
 <LM id="T-wsj1027-001-p1s3a16">
 <a>
 <lex.rf>a#a-wsj1027-001-p1s3W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1027-001-p1s3W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1027-001-p1s3W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>obvod</t_lemma>
@@ -972,7 +1042,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj1027-001-p1s3a28">
+<children>
+<LM id="T-wsj1027-001-p1s3a28">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1019,17 +1090,21 @@
 <deepord>19</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1027-001-p1s3a23">
 <a>
 <lex.rf>a#a-wsj1027-001-p1s3W23-Ta</lex.rf>
-<aux.rf>a#a-wsj1027-001-p1s3W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1027-001-p1s3W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>banka</t_lemma>
@@ -1039,9 +1114,12 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj1027-001-p1s3a33">
+<children>
+<LM id="T-wsj1027-001-p1s3a33">
 <a>
-<aux.rf>a#a-wsj1027-001-p1s3W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1027-001-p1s3W24-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -1071,11 +1149,13 @@
 <deepord>24</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Mr. Robertson was also removed from the board of First National Bank of New Jersey-Salem County, another unit, and the Toms River bank.</eng_sentence>
 </LM>

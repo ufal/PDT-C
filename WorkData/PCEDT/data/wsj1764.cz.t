@@ -4,14 +4,15 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj1764.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj1764-001-p1s0">
 <atree.rf>a#a-wsj1764-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1764-001-p1s0a1">
+<children>
+<LM id="T-wsj1764-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1764-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -87,8 +88,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>Coref</type>
 <text>odkaz na něco v předchozím kontextu, který zde ale chybí</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1764-001-p1s0a27">
@@ -128,9 +131,11 @@
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1764-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1764-001-p1s0a11">
@@ -168,7 +173,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1764-001-p1s0a14">
+<children>
+<LM id="T-wsj1764-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj1764-001-p1s0W13-Ta</lex.rf>
 </a>
@@ -179,6 +185,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -207,7 +214,9 @@
 <a>
 <lex.rf>a#a-wsj1764-001-p1s0W16-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1764-001-p1s0a9</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1764-001-p1s0a9</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>MEANS</functor>
@@ -227,7 +236,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1764-001-p1s0a20">
+<children>
+<LM id="T-wsj1764-001-p1s0a20">
 <a>
 <lex.rf>a#a-wsj1764-001-p1s0W19-Ta</lex.rf>
 </a>
@@ -238,7 +248,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1764-001-p1s0a21">
+<children>
+<LM id="T-wsj1764-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj1764-001-p1s0W21-Ta</lex.rf>
 </a>
@@ -249,7 +260,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1764-001-p1s0a22">
+<children>
+<LM id="T-wsj1764-001-p1s0a22">
 <a>
 <lex.rf>a#a-wsj1764-001-p1s0W20-Ta</lex.rf>
 </a>
@@ -260,19 +272,26 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>19</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1764-001-p1s0a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1764-001-p1s0a24">
 <a>
 <lex.rf>a#a-wsj1764-001-p1s0W24-Ta</lex.rf>
-<aux.rf>a#a-wsj1764-001-p1s0W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1764-001-p1s0W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>10</t_lemma>
@@ -287,13 +306,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>This magazine and book publisher said three men were elected directors, increasing the board to 10.</eng_sentence>
 </LM>
 <LM id="T-wsj1764-001-p1s1">
 <atree.rf>a#a-wsj1764-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1764-001-p1s1a1">
+<children>
+<LM id="T-wsj1764-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1764-001-p1s1W1-Ta</lex.rf>
 </a>
@@ -318,9 +339,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1764-001-p1s0a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1764-001-p1s1a19">
@@ -357,7 +380,7 @@
 <children>
 <LM id="T-wsj1764-001-p1s1a7">
 <a>
-<lex.rf>a#a-wsj1764-001-p1s1W4-Ta</lex.rf>
+<lex.rf>a#m-wsj1764-001-p1s1W4-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -366,7 +389,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1764-001-p1s1a58">
+<children>
+<LM id="T-wsj1764-001-p1s1a58">
 <a>
 <lex.rf>a#a-wsj1764-001-p1s1W4-Ta</lex.rf>
 </a>
@@ -374,11 +398,8 @@
 <t_lemma>62</t_lemma>
 <functor>RSTR</functor>
 <deepord>3</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1764-001-p1s1a6">
 <a>
@@ -406,8 +427,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>vygenerována chybná zákl. forma (tag v pořádku), změněno z Eiszmer na Eiszner</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1764-001-p1s1a3">
@@ -445,7 +468,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1764-001-p1s1a13">
+<children>
+<LM id="T-wsj1764-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj1764-001-p1s1W12-Ta</lex.rf>
 </a>
@@ -456,6 +480,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1764-001-p1s1a14">
@@ -469,7 +494,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj1764-001-p1s1a59">
+<children>
+<LM id="T-wsj1764-001-p1s1a59">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -519,6 +545,7 @@
 <deepord>18</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -550,7 +577,7 @@
 <children>
 <LM id="T-wsj1764-001-p1s1a24">
 <a>
-<lex.rf>a#a-wsj1764-001-p1s1W20-Ta</lex.rf>
+<lex.rf>a#m-wsj1764-001-p1s1W20-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -559,7 +586,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1764-001-p1s1a61">
+<children>
+<LM id="T-wsj1764-001-p1s1a61">
 <a>
 <lex.rf>a#a-wsj1764-001-p1s1W20-Ta</lex.rf>
 </a>
@@ -567,11 +595,8 @@
 <t_lemma>61</t_lemma>
 <functor>RSTR</functor>
 <deepord>20</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1764-001-p1s1a23">
 <a>
@@ -647,7 +672,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>28</deepord>
-<children id="T-wsj1764-001-p1s1a32">
+<children>
+<LM id="T-wsj1764-001-p1s1a32">
 <a>
 <lex.rf>a#a-wsj1764-001-p1s1W30-Ta</lex.rf>
 </a>
@@ -658,6 +684,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>29</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1764-001-p1s1a33">
@@ -671,7 +698,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>30</deepord>
-<children id="T-wsj1764-001-p1s1a56">
+<children>
+<LM id="T-wsj1764-001-p1s1a56">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -724,6 +752,7 @@
 <deepord>37</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -755,7 +784,7 @@
 <children>
 <LM id="T-wsj1764-001-p1s1a43">
 <a>
-<lex.rf>a#a-wsj1764-001-p1s1W40-Ta</lex.rf>
+<lex.rf>a#m-wsj1764-001-p1s1W40-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -764,7 +793,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>38</deepord>
-<children id="T-wsj1764-001-p1s1a64">
+<children>
+<LM id="T-wsj1764-001-p1s1a64">
 <a>
 <lex.rf>a#a-wsj1764-001-p1s1W40-Ta</lex.rf>
 </a>
@@ -772,11 +802,8 @@
 <t_lemma>53</t_lemma>
 <functor>RSTR</functor>
 <deepord>39</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1764-001-p1s1a42">
 <a>
@@ -839,7 +866,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>46</deepord>
-<children id="T-wsj1764-001-p1s1a49">
+<children>
+<LM id="T-wsj1764-001-p1s1a49">
 <a>
 <lex.rf>a#a-wsj1764-001-p1s1W48-Ta</lex.rf>
 </a>
@@ -850,6 +878,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>47</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1764-001-p1s1a50">
@@ -863,7 +892,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>48</deepord>
-<children id="T-wsj1764-001-p1s1a65">
+<children>
+<LM id="T-wsj1764-001-p1s1a65">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -907,7 +937,6 @@
 <deepord>53</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
@@ -916,6 +945,9 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>They are: James R. Eiszner, 62 years old and chairman and chief executive officer of CPC International Inc.; Robert G. Schwartz, 61, chairman, president and chief executive officer of Metropolitan Life Insurance Co., and Walter V. Shipley, 53, chairman and chief executive officer of Chemical Banking Corp.</eng_sentence>
 </LM>

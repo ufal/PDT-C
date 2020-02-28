@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0108.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -10693,10 +10693,14 @@
 </LM>
 <LM id="T-wsj0108-001-p1s44a16">
 <a>
-<lex.rf>a#a-wsj0108-001-p1s44W18-Ta</lex.rf>
+<lex.rf>a#m-wsj0108-001-p1s44W18-Ta-sw2-ia</lex.rf>
+<aux.rf>
+<LM>a#m-wsj0108-001-p1s44W18-Ta-sw1-ia</LM>
+<LM>a#a-wsj0108-001-p1s44W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>O'Brien</t_lemma>
+<t_lemma>O_'_Brien</t_lemma>
 <functor>ACT</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -12291,10 +12295,14 @@
 </LM>
 <LM id="T-wsj0108-001-p1s51a3">
 <a>
-<lex.rf>a#a-wsj0108-001-p1s51W3-Ta</lex.rf>
+<lex.rf>a#m-wsj0108-001-p1s51W3-Ta-sw2-ia</lex.rf>
+<aux.rf>
+<LM>a#a-wsj0108-001-p1s51W3-Ta</LM>
+<LM>a#m-wsj0108-001-p1s51W3-Ta-sw1-ia</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>O'Brien</t_lemma>
+<t_lemma>O_'_Brien</t_lemma>
 <functor>ACT</functor>
 <gram>
 <sempos>n.denot</sempos>

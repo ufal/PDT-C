@@ -4,17 +4,20 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj1763.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj1763-001-p1s0">
 <atree.rf>a#a-wsj1763-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1763-001-p1s0a1">
+<children>
+<LM id="T-wsj1763-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1763-001-p1s0W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1763-001-p1s0W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1763-001-p1s0W15-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9986f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -141,7 +144,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1763-001-p1s0a13">
+<children>
+<LM id="T-wsj1763-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj1763-001-p1s0W13-Ta</lex.rf>
 </a>
@@ -179,9 +183,12 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>Coref</type>
 <text>odkaz na něco v předchozím kontextu, který zde ale chybí</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 </children>
@@ -191,7 +198,9 @@
 <LM id="T-wsj1763-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj1763-001-p1s0W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1763-001-p1s0W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1763-001-p1s0W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>funkce</t_lemma>
@@ -224,7 +233,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1763-001-p1s0a21">
+<children>
+<LM id="T-wsj1763-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj1763-001-p1s0W20-Ta</lex.rf>
 </a>
@@ -235,21 +245,26 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>17</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Robert A. Oswald, chief financial officer and a director of this natural-gas pipeline company, was elected to the additional position of executive vice president.</eng_sentence>
 </LM>
 <LM id="T-wsj1763-001-p1s1">
 <atree.rf>a#a-wsj1763-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1763-001-p1s1a1">
+<children>
+<LM id="T-wsj1763-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1763-001-p1s1W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1763-001-p1s1W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1763-001-p1s1W12-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1344f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -287,10 +302,14 @@
 <children>
 <LM id="T-wsj1763-001-p1s1a3">
 <a>
-<lex.rf>a#a-wsj1763-001-p1s1W5-Ta</lex.rf>
+<lex.rf>a#m-wsj1763-001-p1s1W5-Ta-sw2-ia</lex.rf>
+<aux.rf>
+<LM>a#a-wsj1763-001-p1s1W5-Ta</LM>
+<LM>a#m-wsj1763-001-p1s1W5-Ta-sw1-ia</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>O'Donnell</t_lemma>
+<t_lemma>O_'_Donnell</t_lemma>
 <functor>PAT</functor>
 <is_member>1</is_member>
 <gram>
@@ -360,7 +379,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1763-001-p1s1a10">
+<children>
+<LM id="T-wsj1763-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj1763-001-p1s1W9-Ta</lex.rf>
 </a>
@@ -371,6 +391,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -398,7 +419,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1763-001-p1s1a16">
+<children>
+<LM id="T-wsj1763-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj1763-001-p1s1W17-Ta</lex.rf>
 </a>
@@ -435,6 +457,7 @@
 <deepord>14</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1763-001-p1s1a19">
@@ -473,7 +496,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj1763-001-p1s1a22">
+<children>
+<LM id="T-wsj1763-001-p1s1a22">
 <a>
 <lex.rf>a#a-wsj1763-001-p1s1W21-Ta</lex.rf>
 </a>
@@ -484,11 +508,14 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>19</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1763-001-p1s0a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -496,13 +523,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>In addition, Michael W. O'Donnell, executive vice president of a Columbia unit, was named assistant chief financial officer and a senior vice president of the parent company.</eng_sentence>
 </LM>
 <LM id="T-wsj1763-001-p1s2">
 <atree.rf>a#a-wsj1763-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1763-001-p1s2a1">
+<children>
+<LM id="T-wsj1763-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1763-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -538,9 +567,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1763-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1763-001-p1s2a6">
@@ -560,20 +591,26 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1763-001-p1s1a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1763-001-p1s1a1</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1763-001-p1s2a3">
@@ -599,10 +636,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1763-001-p1s2a5">
+<children>
+<LM id="T-wsj1763-001-p1s2a5">
 <a>
 <lex.rf>a#a-wsj1763-001-p1s2W4-Ta</lex.rf>
-<aux.rf>a#a-wsj1763-001-p1s2W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1763-001-p1s2W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>1</t_lemma>
@@ -611,16 +651,19 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The appointments take effect Nov. 1.</eng_sentence>
 </LM>
 <LM id="T-wsj1763-001-p1s3">
 <atree.rf>a#a-wsj1763-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1763-001-p1s3a1">
+<children>
+<LM id="T-wsj1763-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1763-001-p1s3W3-Ta</lex.rf>
 </a>
@@ -644,7 +687,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1763-001-p1s3a3">
+<children>
+<LM id="T-wsj1763-001-p1s3a3">
 <a>
 <lex.rf>a#a-wsj1763-001-p1s3W1-Ta</lex.rf>
 </a>
@@ -655,6 +699,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <bridging>
 <LM>
@@ -680,7 +725,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1763-001-p1s3a4">
+<children>
+<LM id="T-wsj1763-001-p1s3a4">
 <a>
 <lex.rf>a#a-wsj1763-001-p1s3W4-Ta</lex.rf>
 </a>
@@ -691,9 +737,11 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Both men are 44 years old.</eng_sentence>
 </LM>

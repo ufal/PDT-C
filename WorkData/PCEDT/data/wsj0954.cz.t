@@ -4,17 +4,20 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0954.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj0954-001-p1s0">
 <atree.rf>a#a-wsj0954-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0954-001-p1s0a31">
+<children>
+<LM id="T-wsj0954-001-p1s0a31">
 <a>
 <lex.rf>a#a-wsj0954-001-p1s0W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0954-001-p1s0W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0954-001-p1s0W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6496f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -66,7 +69,9 @@
 <LM id="T-wsj0954-001-p1s0a8">
 <a>
 <lex.rf>a#a-wsj0954-001-p1s0W7-Ta</lex.rf>
-<aux.rf>a#a-wsj0954-001-p1s0W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0954-001-p1s0W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>platnost</t_lemma>
@@ -75,10 +80,13 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0954-001-p1s0a10">
+<children>
+<LM id="T-wsj0954-001-p1s0a10">
 <a>
 <lex.rf>a#a-wsj0954-001-p1s0W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0954-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0954-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>leden</t_lemma>
@@ -87,10 +95,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj0954-001-p1s0a11">
+<children>
+<LM id="T-wsj0954-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj0954-001-p1s0W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0954-001-p1s0W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0954-001-p1s0W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>1</t_lemma>
@@ -99,7 +110,9 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0954-001-p1s0a13">
@@ -136,7 +149,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0954-001-p1s0a16">
+<children>
+<LM id="T-wsj0954-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj0954-001-p1s0W15-Ta</lex.rf>
 </a>
@@ -147,6 +161,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0954-001-p1s0a23">
@@ -170,7 +185,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj0954-001-p1s0a32">
+<children>
+<LM id="T-wsj0954-001-p1s0a32">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -229,6 +245,7 @@
 <deepord>18</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0954-001-p1s0a24">
@@ -243,7 +260,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj0954-001-p1s0a25">
+<children>
+<LM id="T-wsj0954-001-p1s0a25">
 <a>
 <lex.rf>a#a-wsj0954-001-p1s0W27-Ta</lex.rf>
 </a>
@@ -280,6 +298,7 @@
 <deepord>22</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -288,15 +307,19 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>M-lemma</type>
+</LM>
 </annot_comment>
+</LM>
 </children>
 <eng_sentence>C. Hyde Tucker will become president and chief executive officer of Bell Atlantic International Inc., a unit of this telecommunications concern, effective Jan. 1.</eng_sentence>
 </LM>
 <LM id="T-wsj0954-001-p1s1">
 <atree.rf>a#a-wsj0954-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0954-001-p1s1a1">
+<children>
+<LM id="T-wsj0954-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0954-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -320,9 +343,10 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0954-001-p1s1a3">
+<children>
+<LM id="T-wsj0954-001-p1s1a3">
 <a>
-<lex.rf>a#a-wsj0954-001-p1s1W1-Ta</lex.rf>
+<lex.rf>a#m-wsj0954-001-p1s1W1-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -331,7 +355,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0954-001-p1s1a21">
+<children>
+<LM id="T-wsj0954-001-p1s1a21">
 <a>
 <lex.rf>a#a-wsj0954-001-p1s1W1-Ta</lex.rf>
 </a>
@@ -339,22 +364,24 @@
 <t_lemma>56</t_lemma>
 <functor>RSTR</functor>
 <deepord>1</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0954-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0954-001-p1s1a5">
 <a>
 <lex.rf>a#a-wsj0954-001-p1s1W6-Ta</lex.rf>
-<aux.rf>a#a-wsj0954-001-p1s1W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0954-001-p1s1W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>doba</t_lemma>
@@ -363,7 +390,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj0954-001-p1s1a6">
+<children>
+<LM id="T-wsj0954-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj0954-001-p1s1W5-Ta</lex.rf>
 </a>
@@ -374,6 +402,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0954-001-p1s1a7">
@@ -410,7 +439,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0954-001-p1s1a10">
+<children>
+<LM id="T-wsj0954-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj0954-001-p1s1W9-Ta</lex.rf>
 </a>
@@ -421,6 +451,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0954-001-p1s1a16">
@@ -444,7 +475,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0954-001-p1s1a22">
+<children>
+<LM id="T-wsj0954-001-p1s1a22">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -491,6 +523,7 @@
 <deepord>16</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0954-001-p1s1a17">
@@ -505,7 +538,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj0954-001-p1s1a18">
+<children>
+<LM id="T-wsj0954-001-p1s1a18">
 <a>
 <lex.rf>a#a-wsj0954-001-p1s1W18-Ta</lex.rf>
 </a>
@@ -516,7 +550,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj0954-001-p1s1a23">
+<children>
+<LM id="T-wsj0954-001-p1s1a23">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -545,26 +580,32 @@
 <deepord>22</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0954-001-p1s0a25</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Mr. Tucker, 56 years old, is currently vice president and chief operating officer of Bell Atlantic's C&amp;P Telephone unit.</eng_sentence>
 </LM>
 <LM id="T-wsj0954-001-p1s2">
 <atree.rf>a#a-wsj0954-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0954-001-p1s2a1">
+<children>
+<LM id="T-wsj0954-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0954-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -589,9 +630,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0954-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0954-001-p1s2a4">
@@ -608,7 +651,7 @@
 <children>
 <LM id="T-wsj0954-001-p1s2a6">
 <a>
-<lex.rf>a#a-wsj0954-001-p1s2W3-Ta</lex.rf>
+<lex.rf>a#m-wsj0954-001-p1s2W3-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -617,7 +660,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0954-001-p1s2a31">
+<children>
+<LM id="T-wsj0954-001-p1s2a31">
 <a>
 <lex.rf>a#a-wsj0954-001-p1s2W3-Ta</lex.rf>
 </a>
@@ -625,11 +669,8 @@
 <t_lemma>64</t_lemma>
 <functor>RSTR</functor>
 <deepord>3</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0954-001-p1s2a5">
 <a>
@@ -658,7 +699,9 @@
 <LM id="T-wsj0954-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj0954-001-p1s2W24-Ta</lex.rf>
-<aux.rf>a#a-wsj0954-001-p1s2W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0954-001-p1s2W19-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9154f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -673,7 +716,9 @@
 <a>
 <lex.rf>a#a-wsj0954-001-p1s2W9-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0954-001-p1s2a4</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0954-001-p1s2a4</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -685,7 +730,9 @@
 <LM id="T-wsj0954-001-p1s2a10">
 <a>
 <lex.rf>a#a-wsj0954-001-p1s2W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0954-001-p1s2W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0954-001-p1s2W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>odchod</t_lemma>
@@ -708,7 +755,9 @@
 <a>
 <lex.rf>a#a-wsj0954-001-p1s2W12-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0954-001-p1s2a12</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0954-001-p1s2a12</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -721,7 +770,9 @@
 <LM id="T-wsj0954-001-p1s2a16">
 <a>
 <lex.rf>a#a-wsj0954-001-p1s2W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0954-001-p1s2W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0954-001-p1s2W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>důchod</t_lemma>
@@ -742,10 +793,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj0954-001-p1s2a18">
+<children>
+<LM id="T-wsj0954-001-p1s2a18">
 <a>
 <lex.rf>a#a-wsj0954-001-p1s2W16-Ta</lex.rf>
-<aux.rf>a#a-wsj0954-001-p1s2W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0954-001-p1s2W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>1</t_lemma>
@@ -754,6 +808,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -761,7 +816,9 @@
 <LM id="T-wsj0954-001-p1s2a22">
 <a>
 <lex.rf>a#a-wsj0954-001-p1s2W23-Ta</lex.rf>
-<aux.rf>a#a-wsj0954-001-p1s2W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0954-001-p1s2W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>jednotka</t_lemma>
@@ -797,9 +854,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0954-001-p1s0a23</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0954-001-p1s2a25">
@@ -825,7 +884,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj0954-001-p1s2a27">
+<children>
+<LM id="T-wsj0954-001-p1s2a27">
 <a>
 <lex.rf>a#a-wsj0954-001-p1s2W25-Ta</lex.rf>
 </a>
@@ -836,6 +896,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>19</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0954-001-p1s2a28">
@@ -857,6 +918,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Mr. Tucker will succeed Salvatore J. Barbera, 64, who will hold the newly created position of chairman of the international unit until his retirement April 1.</eng_sentence>
 </LM>

@@ -4,17 +4,20 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj2094.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj2094-001-p1s0">
 <atree.rf>a#a-wsj2094-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2094-001-p1s0a21">
+<children>
+<LM id="T-wsj2094-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj2094-001-p1s0W23-Ta</lex.rf>
-<aux.rf>a#a-wsj2094-001-p1s0W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2094-001-p1s0W22-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1344f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -46,7 +49,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj2094-001-p1s0a3">
+<children>
+<LM id="T-wsj2094-001-p1s0a3">
 <a>
 <lex.rf>a#a-wsj2094-001-p1s0W1-Ta</lex.rf>
 </a>
@@ -57,10 +61,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>proprium</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj2094-001-p1s0a6">
@@ -147,7 +154,9 @@
 <LM id="T-wsj2094-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj2094-001-p1s0W11-Ta</lex.rf>
-<aux.rf>a#a-wsj2094-001-p1s0W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2094-001-p1s0W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>kapitál</t_lemma>
@@ -156,10 +165,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj2094-001-p1s0a13">
+<children>
+<LM id="T-wsj2094-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj2094-001-p1s0W14-Ta</lex.rf>
-<aux.rf>a#a-wsj2094-001-p1s0W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2094-001-p1s0W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>aktivita</t_lemma>
@@ -168,7 +180,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj2094-001-p1s0a14">
+<children>
+<LM id="T-wsj2094-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj2094-001-p1s0W13-Ta</lex.rf>
 </a>
@@ -179,13 +192,17 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2094-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj2094-001-p1s0W16-Ta</lex.rf>
-<aux.rf>a#a-wsj2094-001-p1s0W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2094-001-p1s0W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>sídlo</t_lemma>
@@ -194,9 +211,12 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj2094-001-p1s0a30">
+<children>
+<LM id="T-wsj2094-001-p1s0a30">
 <a>
-<aux.rf>a#a-wsj2094-001-p1s0W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2094-001-p1s0W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -241,6 +261,7 @@
 <deepord>18</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -261,9 +282,11 @@
 </gram>
 <deepord>19</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2094-001-p1s0a1</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2094-001-p1s0a23">
@@ -277,7 +300,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj2094-001-p1s0a24">
+<children>
+<LM id="T-wsj2094-001-p1s0a24">
 <a>
 <lex.rf>a#a-wsj2094-001-p1s0W27-Ta</lex.rf>
 </a>
@@ -315,20 +339,25 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2094-001-p1s0a28</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Paul Ely, general partner of Alpha Partners, a venture-capital firm based in Menlo Park, Calif., was named a director of this computer company.</eng_sentence>
 </LM>
 <LM id="T-wsj2094-001-p1s1">
 <atree.rf>a#a-wsj2094-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2094-001-p1s1a1">
+<children>
+<LM id="T-wsj2094-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj2094-001-p1s1W5-Ta</lex.rf>
 </a>
@@ -379,13 +408,17 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2094-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>proprium</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj2094-001-p1s1a5">
@@ -411,7 +444,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj2094-001-p1s1a7">
+<children>
+<LM id="T-wsj2094-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj2094-001-p1s1W8-Ta</lex.rf>
 </a>
@@ -422,7 +456,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj2094-001-p1s1a8">
+<children>
+<LM id="T-wsj2094-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj2094-001-p1s1W7-Ta</lex.rf>
 </a>
@@ -433,13 +468,17 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2094-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj2094-001-p1s1W10-Ta</lex.rf>
-<aux.rf>a#a-wsj2094-001-p1s1W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2094-001-p1s1W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>sedm</t_lemma>
@@ -450,13 +489,15 @@
 <deepord>9</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Mr. Ely, 57 years old, temporarily increases the board to seven members.</eng_sentence>
 </LM>
 <LM id="T-wsj2094-001-p1s2">
 <atree.rf>a#a-wsj2094-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2094-001-p1s2a2">
+<children>
+<LM id="T-wsj2094-001-p1s2a2">
 <a>
 <lex.rf>a#a-wsj2094-001-p1s2W5-Ta</lex.rf>
 </a>
@@ -478,10 +519,14 @@
 </LM>
 <LM id="T-wsj2094-001-p1s2a3">
 <a>
-<lex.rf>a#a-wsj2094-001-p1s2W3-Ta</lex.rf>
+<lex.rf>a#m-wsj2094-001-p1s2W3-Ta-sw2-ia</lex.rf>
+<aux.rf>
+<LM>a#m-wsj2094-001-p1s2W3-Ta-sw1-ia</LM>
+<LM>a#a-wsj2094-001-p1s2W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>O'Rourke</t_lemma>
+<t_lemma>O_'_Rourke</t_lemma>
 <functor>ACT</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -550,9 +595,11 @@
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2094-001-p1s2a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2094-001-p1s2a9">
@@ -566,7 +613,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj2094-001-p1s2a10">
+<children>
+<LM id="T-wsj2094-001-p1s2a10">
 <a>
 <lex.rf>a#a-wsj2094-001-p1s2W8-Ta</lex.rf>
 </a>
@@ -577,12 +625,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2094-001-p1s2a12">
 <a>
 <lex.rf>a#a-wsj2094-001-p1s2W12-Ta</lex.rf>
-<aux.rf>a#a-wsj2094-001-p1s2W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2094-001-p1s2W10-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9122f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -617,15 +668,19 @@
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2094-001-p1s0a24</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj2094-001-p1s2a22">
@@ -638,7 +693,9 @@
 <LM id="T-wsj2094-001-p1s2a17">
 <a>
 <lex.rf>a#a-wsj2094-001-p1s2W18-Ta</lex.rf>
-<aux.rf>a#a-wsj2094-001-p1s2W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2094-001-p1s2W16-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9984f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -671,9 +728,11 @@
 </gram>
 <deepord>17</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2094-001-p1s2a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2094-001-p1s2a23">
@@ -686,20 +745,25 @@
 </gram>
 <deepord>18</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2094-001-p1s2a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>However, director Thomas O'Rourke has said he won't seek re-election at the company's annual meeting next month.</eng_sentence>
 </LM>

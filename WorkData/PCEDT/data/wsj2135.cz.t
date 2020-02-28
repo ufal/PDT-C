@@ -4,17 +4,20 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj2135.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj2135-001-p1s0">
 <atree.rf>a#a-wsj2135-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2135-001-p1s0a1">
+<children>
+<LM id="T-wsj2135-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj2135-001-p1s0W6-Ta</lex.rf>
-<aux.rf>a#a-wsj2135-001-p1s0W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2135-001-p1s0W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1344f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -106,8 +109,10 @@
 </gram>
 <deepord>8</deepord>
 <annot_comment>
+<LM>
 <type>Coref</type>
 <text>odkaz na něco v předchozím kontextu, který zde ale chybí</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -115,7 +120,9 @@
 <LM id="T-wsj2135-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj2135-001-p1s0W11-Ta</lex.rf>
-<aux.rf>a#a-wsj2135-001-p1s0W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2135-001-p1s0W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>účinnost</t_lemma>
@@ -124,10 +131,13 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj2135-001-p1s0a13">
+<children>
+<LM id="T-wsj2135-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj2135-001-p1s0W15-Ta</lex.rf>
-<aux.rf>a#a-wsj2135-001-p1s0W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2135-001-p1s0W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>den</t_lemma>
@@ -162,16 +172,19 @@
 <deepord>11</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Selwyn B. Kossuth was named executive director of the commission, effective early November.</eng_sentence>
 </LM>
 <LM id="T-wsj2135-001-p1s1">
 <atree.rf>a#a-wsj2135-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2135-001-p1s1a1">
+<children>
+<LM id="T-wsj2135-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj2135-001-p1s1W4-Ta</lex.rf>
 </a>
@@ -198,7 +211,7 @@
 <children>
 <LM id="T-wsj2135-001-p1s1a3">
 <a>
-<lex.rf>a#a-wsj2135-001-p1s1W1-Ta</lex.rf>
+<lex.rf>a#m-wsj2135-001-p1s1W1-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -207,7 +220,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj2135-001-p1s1a23">
+<children>
+<LM id="T-wsj2135-001-p1s1a23">
 <a>
 <lex.rf>a#a-wsj2135-001-p1s1W1-Ta</lex.rf>
 </a>
@@ -215,15 +229,8 @@
 <t_lemma>52</t_lemma>
 <functor>RSTR</functor>
 <deepord>2</deepord>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj2135-001-p1s1a2">
 <a>
@@ -239,9 +246,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2135-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2135-001-p1s1a7">
@@ -258,7 +267,7 @@
 <children>
 <LM id="T-wsj2135-001-p1s1a6">
 <a>
-<lex.rf>a#a-wsj2135-001-p1s1W5-Ta</lex.rf>
+<lex.rf>a#m-wsj2135-001-p1s1W5-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -267,7 +276,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj2135-001-p1s1a24">
+<children>
+<LM id="T-wsj2135-001-p1s1a24">
 <a>
 <lex.rf>a#a-wsj2135-001-p1s1W5-Ta</lex.rf>
 </a>
@@ -275,15 +285,8 @@
 <t_lemma>36</t_lemma>
 <functor>RSTR</functor>
 <deepord>7</deepord>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj2135-001-p1s1a5">
 <a>
@@ -321,7 +324,9 @@
 <a>
 <lex.rf>a#a-wsj2135-001-p1s1W9-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj2135-001-p1s1a7</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj2135-001-p1s1a7</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -333,7 +338,9 @@
 <LM id="T-wsj2135-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj2135-001-p1s1W12-Ta</lex.rf>
-<aux.rf>a#a-wsj2135-001-p1s1W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2135-001-p1s1W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>odchod</t_lemma>
@@ -342,10 +349,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj2135-001-p1s1a14">
+<children>
+<LM id="T-wsj2135-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj2135-001-p1s1W15-Ta</lex.rf>
-<aux.rf>a#a-wsj2135-001-p1s1W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2135-001-p1s1W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Komise</t_lemma>
@@ -379,7 +389,9 @@
 <LM id="T-wsj2135-001-p1s1a18">
 <a>
 <lex.rf>a#a-wsj2135-001-p1s1W18-Ta</lex.rf>
-<aux.rf>a#a-wsj2135-001-p1s1W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2135-001-p1s1W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>papír</t_lemma>
@@ -389,7 +401,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj2135-001-p1s1a19">
+<children>
+<LM id="T-wsj2135-001-p1s1a19">
 <a>
 <lex.rf>a#a-wsj2135-001-p1s1W17-Ta</lex.rf>
 </a>
@@ -400,12 +413,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2135-001-p1s1a20">
 <a>
 <lex.rf>a#a-wsj2135-001-p1s1W21-Ta</lex.rf>
-<aux.rf>a#a-wsj2135-001-p1s1W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2135-001-p1s1W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>obchod</t_lemma>
@@ -415,7 +431,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj2135-001-p1s1a21">
+<children>
+<LM id="T-wsj2135-001-p1s1a21">
 <a>
 <lex.rf>a#a-wsj2135-001-p1s1W20-Ta</lex.rf>
 </a>
@@ -426,15 +443,9 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>19</deepord>
-</children>
 </LM>
 </children>
 </LM>
-</children>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </children>
 </LM>
 </children>
@@ -442,13 +453,19 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Mr. Kossuth, 52 years old, succeeds Ermanno Pascutto, 36, who resigned to join Hong Kong's Securities and Futures Commission.</eng_sentence>
 </LM>
 <LM id="T-wsj2135-001-p1s2">
 <atree.rf>a#a-wsj2135-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2135-001-p1s2a1">
+<children>
+<LM id="T-wsj2135-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj2135-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -473,9 +490,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2135-001-p1s1a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2135-001-p1s2a3">
@@ -516,7 +535,9 @@
 <LM id="T-wsj2135-001-p1s2a7">
 <a>
 <lex.rf>a#a-wsj2135-001-p1s2W7-Ta</lex.rf>
-<aux.rf>a#a-wsj2135-001-p1s2W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2135-001-p1s2W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w953f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -548,8 +569,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj2135-001-p1s2a16">
@@ -564,7 +587,9 @@
 <LM id="T-wsj2135-001-p1s2a10">
 <a>
 <lex.rf>a#a-wsj2135-001-p1s2W10-Ta</lex.rf>
-<aux.rf>a#a-wsj2135-001-p1s2W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2135-001-p1s2W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -574,7 +599,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj2135-001-p1s2a21">
+<children>
+<LM id="T-wsj2135-001-p1s2a21">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -639,12 +665,15 @@
 <deepord>15</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2135-001-p1s2a17">
 <a>
 <lex.rf>a#a-wsj2135-001-p1s2W19-Ta</lex.rf>
-<aux.rf>a#a-wsj2135-001-p1s2W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2135-001-p1s2W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zprostředkovatel</t_lemma>
@@ -686,6 +715,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Mr. Kossuth was vice president and director, corporate finance, of Nesbitt Thomson Deacon Inc., a Toronto investment dealer.</eng_sentence>
 </LM>

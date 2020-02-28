@@ -31,13 +31,11 @@
 <m.rf>m#m-wsj2371-001-p1s0W1-Ta</m.rf>
 <afun>Atr</afun>
 <ord>1</ord>
-<children>
+</LM>
 <LM id="m-wsj2371-001-p1s0W1-Ta-sw1-ia">
 <m.rf>m#m-wsj2371-001-p1s0W1-Ta-sw1</m.rf>
-<afun>ExD</afun>
+<afun>Atr</afun>
 <ord>2</ord>
-</LM>
-</children>
 </LM>
 <LM id="a-wsj2371-001-p1s0W2-Ta">
 <m.rf>m#m-wsj2371-001-p1s0W2-Ta</m.rf>
@@ -349,13 +347,11 @@
 <m.rf>m#m-wsj2371-001-p1s2W1-Ta</m.rf>
 <afun>Atr</afun>
 <ord>1</ord>
-<children>
+</LM>
 <LM id="m-wsj2371-001-p1s2W1-Ta-sw1-ia">
 <m.rf>m#m-wsj2371-001-p1s2W1-Ta-sw1</m.rf>
-<afun>ExD</afun>
+<afun>Atr</afun>
 <ord>2</ord>
-</LM>
-</children>
 </LM>
 <LM id="a-wsj2371-001-p1s2W2-Ta">
 <m.rf>m#m-wsj2371-001-p1s2W2-Ta</m.rf>

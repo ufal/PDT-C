@@ -4,14 +4,15 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj1341.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj1341-001-p1s0">
 <atree.rf>a#a-wsj1341-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1341-001-p1s0a3">
+<children>
+<LM id="T-wsj1341-001-p1s0a3">
 <a>
 <lex.rf>a#a-wsj1341-001-p1s0W1-Ta</lex.rf>
 </a>
@@ -120,16 +121,20 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>BRISTOL-MYERS SQUIBB Co. (New York) --</eng_sentence>
 </LM>
 <LM id="T-wsj1341-001-p1s1">
 <atree.rf>a#a-wsj1341-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1341-001-p1s1a1">
+<children>
+<LM id="T-wsj1341-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1341-001-p1s1W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1341-001-p1s1W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1341-001-p1s1W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1344f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -161,7 +166,7 @@
 <children>
 <LM id="T-wsj1341-001-p1s1a4">
 <a>
-<lex.rf>a#a-wsj1341-001-p1s1W1-Ta</lex.rf>
+<lex.rf>a#m-wsj1341-001-p1s1W1-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -170,7 +175,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1341-001-p1s1a23">
+<children>
+<LM id="T-wsj1341-001-p1s1a23">
 <a>
 <lex.rf>a#a-wsj1341-001-p1s1W1-Ta</lex.rf>
 </a>
@@ -178,11 +184,8 @@
 <t_lemma>47</t_lemma>
 <functor>RSTR</functor>
 <deepord>2</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1341-001-p1s1a3">
 <a>
@@ -221,7 +224,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1341-001-p1s1a9">
+<children>
+<LM id="T-wsj1341-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj1341-001-p1s1W9-Ta</lex.rf>
 </a>
@@ -272,7 +276,9 @@
 <LM id="T-wsj1341-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj1341-001-p1s1W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1341-001-p1s1W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1341-001-p1s1W15-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8746f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -287,7 +293,9 @@
 <a>
 <lex.rf>a#a-wsj1341-001-p1s1W14-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1341-001-p1s1a11</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1341-001-p1s1a11</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -330,10 +338,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1341-001-p1s1a21">
+<children>
+<LM id="T-wsj1341-001-p1s1a21">
 <a>
 <lex.rf>a#a-wsj1341-001-p1s1W21-Ta</lex.rf>
-<aux.rf>a#a-wsj1341-001-p1s1W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1341-001-p1s1W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zdraví</t_lemma>
@@ -342,6 +353,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -350,22 +362,27 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1341-001-p1s0a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Gerald C. Beddall, 47 years old, was named president of the Clairol division of this pharmaceuticals and health-care company.</eng_sentence>
 </LM>
 <LM id="T-wsj1341-001-p1s2">
 <atree.rf>a#a-wsj1341-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1341-001-p1s2a1">
+<children>
+<LM id="T-wsj1341-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1341-001-p1s2W1-Ta</lex.rf>
 </a>
@@ -388,9 +405,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1341-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1341-001-p1s2a5">
@@ -458,7 +477,9 @@
 <a>
 <lex.rf>a#a-wsj1341-001-p1s2W9-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1341-001-p1s2a5</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1341-001-p1s2a5</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -470,7 +491,9 @@
 <LM id="T-wsj1341-001-p1s2a12">
 <a>
 <lex.rf>a#a-wsj1341-001-p1s2W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1341-001-p1s2W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1341-001-p1s2W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>listopad</t_lemma>
@@ -479,10 +502,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1341-001-p1s2a13">
+<children>
+<LM id="T-wsj1341-001-p1s2a13">
 <a>
 <lex.rf>a#a-wsj1341-001-p1s2W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1341-001-p1s2W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1341-001-p1s2W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>1</t_lemma>
@@ -491,12 +517,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1341-001-p1s2a16">
 <a>
 <lex.rf>a#a-wsj1341-001-p1s2W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1341-001-p1s2W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1341-001-p1s2W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>penze</t_lemma>
@@ -512,13 +541,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>He succeeds C. Benjamin Brooks Jr., who will retire Nov. 1.</eng_sentence>
 </LM>
 <LM id="T-wsj1341-001-p1s3">
 <atree.rf>a#a-wsj1341-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1341-001-p1s3a1">
+<children>
+<LM id="T-wsj1341-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1341-001-p1s3W7-Ta</lex.rf>
 </a>
@@ -539,9 +570,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1341-001-p1s2a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1341-001-p1s3a2">
@@ -557,7 +590,8 @@
 <sempos>v</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1341-001-p1s3a4">
+<children>
+<LM id="T-wsj1341-001-p1s3a4">
 <a>
 <lex.rf>a#a-wsj1341-001-p1s3W3-Ta</lex.rf>
 </a>
@@ -578,7 +612,9 @@
 <deepord>3</deepord>
 </LM>
 <LM id="T-wsj1341-001-p1s3a17">
-<coref_gram.rf>T-wsj1341-001-p1s3a3</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1341-001-p1s3a3</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -596,11 +632,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1341-001-p1s3a6">
+<children>
+<LM id="T-wsj1341-001-p1s3a6">
 <a>
 <lex.rf>a#a-wsj1341-001-p1s3W4-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1341-001-p1s3a17</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1341-001-p1s3a17</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -609,9 +648,11 @@
 </gram>
 <deepord>6</deepord>
 <is_exception>1</is_exception>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1341-001-p1s3a8">
@@ -638,7 +679,9 @@
 <LM id="T-wsj1341-001-p1s3a11">
 <a>
 <lex.rf>a#a-wsj1341-001-p1s3W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1341-001-p1s3W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1341-001-p1s3W10-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1339f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -648,10 +691,13 @@
 <sempos>v</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1341-001-p1s3a13">
+<children>
+<LM id="T-wsj1341-001-p1s3a13">
 <a>
 <lex.rf>a#a-wsj1341-001-p1s3W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1341-001-p1s3W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1341-001-p1s3W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>odchod</t_lemma>
@@ -676,7 +722,9 @@
 <LM id="T-wsj1341-001-p1s3a16">
 <a>
 <lex.rf>a#a-wsj1341-001-p1s3W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1341-001-p1s3W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1341-001-p1s3W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>penze</t_lemma>
@@ -687,18 +735,21 @@
 <deepord>14</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Mr. Brooks declined to give his age, but he said his leaving is a normal retirement.</eng_sentence>
 </LM>
 <LM id="T-wsj1341-001-p1s4">
 <atree.rf>a#a-wsj1341-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1341-001-p1s4a1">
+<children>
+<LM id="T-wsj1341-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj1341-001-p1s4W2-Ta</lex.rf>
 </a>
@@ -723,15 +774,19 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1341-001-p1s2a17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1341-001-p1s4a4">
 <a>
 <lex.rf>a#a-wsj1341-001-p1s4W4-Ta</lex.rf>
-<aux.rf>a#a-wsj1341-001-p1s4W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1341-001-p1s4W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>duben</t_lemma>
@@ -777,21 +832,25 @@
 </gram>
 <deepord>6</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1341-001-p1s1a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Mr. Beddall had been executive vice president of the division since April.</eng_sentence>
 </LM>
 <LM id="T-wsj1341-001-p1s5">
 <atree.rf>a#a-wsj1341-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1341-001-p1s5a1">
+<children>
+<LM id="T-wsj1341-001-p1s5a1">
 <a>
 <lex.rf>a#a-wsj1341-001-p1s5W12-Ta</lex.rf>
 </a>
@@ -845,7 +904,9 @@
 <a>
 <lex.rf>a#a-wsj1341-001-p1s5W4-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1341-001-p1s5a2</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1341-001-p1s5a2</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -865,7 +926,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1341-001-p1s5a9">
+<children>
+<LM id="T-wsj1341-001-p1s5a9">
 <a>
 <lex.rf>a#a-wsj1341-001-p1s5W9-Ta</lex.rf>
 </a>
@@ -877,7 +939,9 @@
 <LM id="T-wsj1341-001-p1s5a10">
 <a>
 <lex.rf>a#a-wsj1341-001-p1s5W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1341-001-p1s5W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1341-001-p1s5W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>vlas</t_lemma>
@@ -891,7 +955,9 @@
 <LM id="T-wsj1341-001-p1s5a11">
 <a>
 <lex.rf>a#a-wsj1341-001-p1s5W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1341-001-p1s5W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1341-001-p1s5W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>pokožka</t_lemma>
@@ -903,15 +969,18 @@
 <deepord>8</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1341-001-p1s4a7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1341-001-p1s5a13">
@@ -925,7 +994,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1341-001-p1s5a14">
+<children>
+<LM id="T-wsj1341-001-p1s5a14">
 <a>
 <lex.rf>a#a-wsj1341-001-p1s5W14-Ta</lex.rf>
 </a>
@@ -936,7 +1006,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1341-001-p1s5a27">
+<children>
+<LM id="T-wsj1341-001-p1s5a27">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -977,7 +1048,9 @@
 <deepord>15</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1341-001-p1s5a20">
@@ -1010,7 +1083,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1341-001-p1s5a23">
+<children>
+<LM id="T-wsj1341-001-p1s5a23">
 <a>
 <lex.rf>a#a-wsj1341-001-p1s5W23-Ta</lex.rf>
 </a>
@@ -1021,17 +1095,22 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1341-001-p1s5a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1341-001-p1s5a25">
 <a>
 <lex.rf>a#a-wsj1341-001-p1s5W27-Ta</lex.rf>
-<aux.rf>a#a-wsj1341-001-p1s5W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1341-001-p1s5W26-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -1040,7 +1119,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1341-001-p1s5a26">
+<children>
+<LM id="T-wsj1341-001-p1s5a26">
 <a>
 <lex.rf>a#a-wsj1341-001-p1s5W28-Ta</lex.rf>
 </a>
@@ -1051,11 +1131,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Clairol, which makes hair and skin products, was a division of Bristol-Myers Co. before that company's merger with Squibb Corp.</eng_sentence>
 </LM>

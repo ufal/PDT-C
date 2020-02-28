@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj2169.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -6176,12 +6176,48 @@
 <lex.rf>a#a-wsj2169-001-p1s20W46-Ta</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>M.D.C</t_lemma>
+<t_lemma>M</t_lemma>
 <functor>FPHR</functor>
 <gram>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>43</deepord>
+</LM>
+<LM id="T-wsj2169-001-p1s20a71">
+<a>
+<lex.rf>a#m-wsj2169-001-p1s20W46-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>.</t_lemma>
+<functor>FPHR</functor>
+<deepord>44</deepord>
+</LM>
+<LM id="T-wsj2169-001-p1s20a72">
+<a>
+<lex.rf>a#m-wsj2169-001-p1s20W46-Ta-sw2-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>D</t_lemma>
+<functor>FPHR</functor>
+<deepord>45</deepord>
+</LM>
+<LM id="T-wsj2169-001-p1s20a73">
+<a>
+<lex.rf>a#m-wsj2169-001-p1s20W46-Ta-sw4-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>C</t_lemma>
+<functor>FPHR</functor>
+<deepord>46</deepord>
+</LM>
+<LM id="T-wsj2169-001-p1s20a74">
+<a>
+<lex.rf>a#a-wsj2169-001-p1s20W47-Ta</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>.</t_lemma>
+<functor>FPHR</functor>
+<deepord>47</deepord>
 </LM>
 <LM id="T-wsj2169-001-p1s20a53">
 <a>
@@ -6193,7 +6229,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>45</deepord>
+<deepord>49</deepord>
 </LM>
 </children>
 </LM>
@@ -6215,7 +6251,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>46</deepord>
+<deepord>50</deepord>
 </LM>
 </children>
 </LM>
@@ -6225,7 +6261,7 @@
 <t_lemma>#Forn</t_lemma>
 <functor>RSTR</functor>
 <is_member>1</is_member>
-<deepord>44</deepord>
+<deepord>48</deepord>
 <children>
 <LM id="T-wsj2169-001-p1s20a32">
 <a>
@@ -6234,7 +6270,7 @@
 <nodetype>fphr</nodetype>
 <t_lemma>Leaseway</t_lemma>
 <functor>FPHR</functor>
-<deepord>47</deepord>
+<deepord>51</deepord>
 </LM>
 <LM id="T-wsj2169-001-p1s20a33">
 <a>
@@ -6243,7 +6279,7 @@
 <nodetype>fphr</nodetype>
 <t_lemma>Transportation</t_lemma>
 <functor>FPHR</functor>
-<deepord>48</deepord>
+<deepord>52</deepord>
 </LM>
 </children>
 </LM>
@@ -6253,22 +6289,16 @@
 <t_lemma>#Forn</t_lemma>
 <functor>RSTR</functor>
 <is_member>1</is_member>
-<deepord>49</deepord>
+<deepord>53</deepord>
 <children>
 <LM id="T-wsj2169-001-p1s20a55">
 <a>
-<lex.rf>a#a-wsj2169-001-p1s20W54-Ta</lex.rf>
+<lex.rf>a#m-wsj2169-001-p1s20W54-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
 <t_lemma>Price</t_lemma>
 <functor>FPHR</functor>
-<deepord>50</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
+<deepord>54</deepord>
 </LM>
 <LM id="T-wsj2169-001-p1s20a31">
 <a>
@@ -6277,17 +6307,11 @@
 <nodetype>fphr</nodetype>
 <t_lemma>Communications</t_lemma>
 <functor>FPHR</functor>
-<deepord>51</deepord>
+<deepord>55</deepord>
 </LM>
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

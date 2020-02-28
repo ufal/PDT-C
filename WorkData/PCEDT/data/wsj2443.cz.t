@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj2443.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -6421,47 +6421,8 @@
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
 <functor>ID</functor>
-<deepord>4</deepord>
-<children>
-<LM id="T-wsj2443-001-p1s22a54">
-<a>
-<lex.rf>a#a-wsj2443-001-p1s22W3-Ta</lex.rf>
-</a>
-<nodetype>fphr</nodetype>
-<t_lemma>A</t_lemma>
-<functor>FPHR</functor>
-<deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>3 v 1</text>
-</LM>
-</annot_comment>
-</LM>
-<LM id="T-wsj2443-001-p1s22a53">
-<a>
-<lex.rf>a#a-wsj2443-001-p1s22W4-Ta</lex.rf>
-</a>
-<nodetype>fphr</nodetype>
-<t_lemma>.</t_lemma>
-<functor>FPHR</functor>
-<deepord>6</deepord>
-</LM>
-<LM id="T-wsj2443-001-p1s22a52">
-<a>
-<lex.rf>a#a-wsj2443-001-p1s22W3-Ta</lex.rf>
-</a>
-<nodetype>fphr</nodetype>
-<t_lemma>.</t_lemma>
-<functor>FPHR</functor>
 <deepord>7</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>3 v 1</text>
-</LM>
-</annot_comment>
-</LM>
+<children>
 <LM id="T-wsj2443-001-p1s22a10">
 <a>
 <lex.rf>a#a-wsj2443-001-p1s22W2-Ta</lex.rf>
@@ -6472,25 +6433,46 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>8</deepord>
+<deepord>4</deepord>
 </LM>
-<LM id="T-wsj2443-001-p1s22a11">
+<LM id="T-wsj2443-001-p1s22a52">
 <a>
 <lex.rf>a#a-wsj2443-001-p1s22W3-Ta</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
 <t_lemma>S</t_lemma>
 <functor>FPHR</functor>
+<deepord>5</deepord>
+</LM>
+<LM id="T-wsj2443-001-p1s22a11">
+<a>
+<lex.rf>a#m-wsj2443-001-p1s22W3-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>.</t_lemma>
+<functor>FPHR</functor>
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>9</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>3 v 1</text>
+<deepord>6</deepord>
 </LM>
-</annot_comment>
+<LM id="T-wsj2443-001-p1s22a54">
+<a>
+<lex.rf>a#m-wsj2443-001-p1s22W3-Ta-sw2-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>A</t_lemma>
+<functor>FPHR</functor>
+<deepord>8</deepord>
+</LM>
+<LM id="T-wsj2443-001-p1s22a53">
+<a>
+<lex.rf>a#a-wsj2443-001-p1s22W4-Ta</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>.</t_lemma>
+<functor>FPHR</functor>
+<deepord>9</deepord>
 </LM>
 </children>
 </LM>

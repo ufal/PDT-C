@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj1121.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -6138,7 +6138,7 @@
 <children>
 <LM id="T-wsj1121-001-p1s24a5">
 <a>
-<lex.rf>a#a-wsj1121-001-p1s24W4-Ta</lex.rf>
+<lex.rf>a#m-wsj1121-001-p1s24W4-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>jamkový</t_lemma>
@@ -6158,12 +6158,6 @@
 <deepord>4</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1121-001-p1s24a6">
 <a>

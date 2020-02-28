@@ -1076,13 +1076,12 @@
 <afun>Atr</afun>
 <is_member>1</is_member>
 <ord>14</ord>
-<children>
+</LM>
 <LM id="m-wsj2382-001-p1s6W14-Ta-sw1-ia">
 <m.rf>m#m-wsj2382-001-p1s6W14-Ta-sw1</m.rf>
-<afun>ExD</afun>
+<afun>Atr</afun>
+<is_member>1</is_member>
 <ord>15</ord>
-</LM>
-</children>
 </LM>
 <LM id="a-wsj2382-001-p1s6W15-Ta">
 <m.rf>m#m-wsj2382-001-p1s6W15-Ta</m.rf>
@@ -1094,13 +1093,12 @@
 <afun>Atr</afun>
 <is_member>1</is_member>
 <ord>18</ord>
-<children>
+</LM>
 <LM id="m-wsj2382-001-p1s6W17-Ta-sw1-ia">
 <m.rf>m#m-wsj2382-001-p1s6W17-Ta-sw1</m.rf>
-<afun>ExD</afun>
+<afun>Atr</afun>
+<is_member>1</is_member>
 <ord>19</ord>
-</LM>
-</children>
 </LM>
 </children>
 </LM>

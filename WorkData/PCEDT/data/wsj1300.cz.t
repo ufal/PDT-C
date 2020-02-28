@@ -4,17 +4,20 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj1300.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj1300-001-p1s0">
 <atree.rf>a#a-wsj1300-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1300-001-p1s0a1">
+<children>
+<LM id="T-wsj1300-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1300-001-p1s0W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1300-001-p1s0W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1300-001-p1s0W12-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1344f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -80,8 +83,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>chybný nominativ</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1300-001-p1s0a8">
@@ -96,7 +101,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1300-001-p1s0a9">
+<children>
+<LM id="T-wsj1300-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj1300-001-p1s0W10-Ta</lex.rf>
 </a>
@@ -146,9 +152,12 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>Coref</type>
 <text>odkaz na něco v předchozím kontextu, který zde ale chybí</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 </children>
@@ -156,7 +165,9 @@
 <LM id="T-wsj1300-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj1300-001-p1s0W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1300-001-p1s0W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1300-001-p1s0W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>pozice</t_lemma>
@@ -189,7 +200,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj1300-001-p1s0a27">
+<children>
+<LM id="T-wsj1300-001-p1s0a27">
 <a>
 <lex.rf>a#a-wsj1300-001-p1s0W21-Ta</lex.rf>
 </a>
@@ -223,9 +235,11 @@
 </gram>
 <deepord>15</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1300-001-p1s0a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1300-001-p1s0a20">
@@ -254,7 +268,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1300-001-p1s0a28">
+<children>
+<LM id="T-wsj1300-001-p1s0a28">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -286,21 +301,25 @@
 <deepord>22</deepord>
 </LM>
 </children>
-</children>
-</LM>
-</children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Randolph W. McElroy, a vice chairman of this bank-holding company, was named to the additional position of chairman of its principal unit, Sovran Bank.</eng_sentence>
 </LM>
 <LM id="T-wsj1300-001-p1s1">
 <atree.rf>a#a-wsj1300-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1300-001-p1s1a1">
+<children>
+<LM id="T-wsj1300-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1300-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -324,9 +343,10 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1300-001-p1s1a10">
+<children>
+<LM id="T-wsj1300-001-p1s1a10">
 <a>
-<lex.rf>a#a-wsj1300-001-p1s1W1-Ta</lex.rf>
+<lex.rf>a#m-wsj1300-001-p1s1W1-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -335,7 +355,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1300-001-p1s1a3">
+<children>
+<LM id="T-wsj1300-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj1300-001-p1s1W1-Ta</lex.rf>
 </a>
@@ -346,20 +367,22 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1300-001-p1s0a26</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>chybný nominativ</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1300-001-p1s1a4">
@@ -396,7 +419,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1300-001-p1s1a7">
+<children>
+<LM id="T-wsj1300-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj1300-001-p1s1W6-Ta</lex.rf>
 </a>
@@ -407,6 +431,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1300-001-p1s1a8">
@@ -420,7 +445,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1300-001-p1s1a9">
+<children>
+<LM id="T-wsj1300-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj1300-001-p1s1W8-Ta</lex.rf>
 </a>
@@ -431,23 +457,28 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1300-001-p1s0a27</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Mr. McElroy, 54 years old, will remain president and chief executive officer of the unit.</eng_sentence>
 </LM>
 <LM id="T-wsj1300-001-p1s2">
 <atree.rf>a#a-wsj1300-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1300-001-p1s2a38">
+<children>
+<LM id="T-wsj1300-001-p1s2a38">
 <a>
 <lex.rf>a#a-wsj1300-001-p1s2W27-Ta</lex.rf>
 </a>
@@ -477,7 +508,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1300-001-p1s2a3">
+<children>
+<LM id="T-wsj1300-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj1300-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -488,11 +520,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1300-001-p1s1a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1300-001-p1s2a4">
@@ -567,7 +602,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1300-001-p1s2a8">
+<children>
+<LM id="T-wsj1300-001-p1s2a8">
 <a>
 <lex.rf>a#a-wsj1300-001-p1s2W12-Ta</lex.rf>
 </a>
@@ -588,7 +624,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1300-001-p1s2a13">
+<children>
+<LM id="T-wsj1300-001-p1s2a13">
 <a>
 <lex.rf>a#a-wsj1300-001-p1s2W10-Ta</lex.rf>
 </a>
@@ -599,11 +636,14 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1300-001-p1s0a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1300-001-p1s2a14">
@@ -619,12 +659,15 @@
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1300-001-p1s2a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -655,15 +698,19 @@
 </gram>
 <deepord>15</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1300-001-p1s2a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1300-001-p1s2a18">
 <a>
 <lex.rf>a#a-wsj1300-001-p1s2W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1300-001-p1s2W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1300-001-p1s2W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>pozice</t_lemma>
@@ -684,7 +731,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1300-001-p1s2a20">
+<children>
+<LM id="T-wsj1300-001-p1s2a20">
 <a>
 <lex.rf>a#a-wsj1300-001-p1s2W18-Ta</lex.rf>
 </a>
@@ -695,6 +743,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1300-001-p1s2a21">
@@ -744,7 +793,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj1300-001-p1s2a37">
+<children>
+<LM id="T-wsj1300-001-p1s2a37">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -776,15 +826,20 @@
 <deepord>25</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1300-001-p1s2a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <str_comment>
+<LM>
 <name>AMBIG</name>
 <comment>asi</comment>
+</LM>
 </str_comment>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -798,7 +853,9 @@
 <LM id="T-wsj1300-001-p1s2a27">
 <a>
 <lex.rf>a#a-wsj1300-001-p1s2W34-Ta</lex.rf>
-<aux.rf>a#a-wsj1300-001-p1s2W29-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1300-001-p1s2W29-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w10007f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -814,7 +871,9 @@
 <a>
 <lex.rf>a#a-wsj1300-001-p1s2W28-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1300-001-p1s2a1</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1300-001-p1s2a1</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>MEANS</functor>
@@ -834,7 +893,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>28</deepord>
-<children id="T-wsj1300-001-p1s2a32">
+<children>
+<LM id="T-wsj1300-001-p1s2a32">
 <a>
 <lex.rf>a#a-wsj1300-001-p1s2W31-Ta</lex.rf>
 </a>
@@ -845,7 +905,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>29</deepord>
-<children id="T-wsj1300-001-p1s2a33">
+<children>
+<LM id="T-wsj1300-001-p1s2a33">
 <a>
 <lex.rf>a#a-wsj1300-001-p1s2W32-Ta</lex.rf>
 </a>
@@ -856,7 +917,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>30</deepord>
-<children id="T-wsj1300-001-p1s2a34">
+<children>
+<LM id="T-wsj1300-001-p1s2a34">
 <a>
 <lex.rf>a#a-wsj1300-001-p1s2W33-Ta</lex.rf>
 </a>
@@ -868,18 +930,25 @@
 </gram>
 <deepord>31</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1300-001-p1s2a24</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1300-001-p1s2a36">
 <a>
 <lex.rf>a#a-wsj1300-001-p1s2W36-Ta</lex.rf>
-<aux.rf>a#a-wsj1300-001-p1s2W35-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1300-001-p1s2W35-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>35</t_lemma>
@@ -892,13 +961,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Sovran also named John B. Werner a vice chairman of the parent company and the unit and elected him to the newly created position of chief credit officer of Sovran Financial, increasing the number of corporate board members to 35.</eng_sentence>
 </LM>
 <LM id="T-wsj1300-001-p1s3">
 <atree.rf>a#a-wsj1300-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1300-001-p1s3a1">
+<children>
+<LM id="T-wsj1300-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1300-001-p1s3W3-Ta</lex.rf>
 </a>
@@ -922,9 +993,10 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1300-001-p1s3a12">
+<children>
+<LM id="T-wsj1300-001-p1s3a12">
 <a>
-<lex.rf>a#a-wsj1300-001-p1s3W1-Ta</lex.rf>
+<lex.rf>a#m-wsj1300-001-p1s3W1-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -933,7 +1005,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1300-001-p1s3a3">
+<children>
+<LM id="T-wsj1300-001-p1s3a3">
 <a>
 <lex.rf>a#a-wsj1300-001-p1s3W1-Ta</lex.rf>
 </a>
@@ -944,16 +1017,16 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1300-001-p1s2a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1300-001-p1s3a4">
@@ -1025,7 +1098,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1300-001-p1s3a10">
+<children>
+<LM id="T-wsj1300-001-p1s3a10">
 <a>
 <lex.rf>a#a-wsj1300-001-p1s3W8-Ta</lex.rf>
 </a>
@@ -1036,11 +1110,14 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1300-001-p1s2a34</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1300-001-p1s3a11">
@@ -1056,9 +1133,11 @@
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1300-001-p1s2a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -1066,6 +1145,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Mr. Werner, 58, was formerly senior executive vice president of the parent company and the unit.</eng_sentence>
 </LM>

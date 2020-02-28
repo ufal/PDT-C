@@ -4,14 +4,15 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0069.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj0069-001-p1s0">
 <atree.rf>a#a-wsj0069-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0069-001-p1s0a15">
+<children>
+<LM id="T-wsj0069-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj0069-001-p1s0W21-Ta</lex.rf>
 </a>
@@ -41,7 +42,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0069-001-p1s0a3">
+<children>
+<LM id="T-wsj0069-001-p1s0a3">
 <a>
 <lex.rf>a#a-wsj0069-001-p1s0W1-Ta</lex.rf>
 </a>
@@ -52,6 +54,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0069-001-p1s0a4">
@@ -93,7 +96,7 @@
 </LM>
 <LM id="T-wsj0069-001-p1s0a36">
 <a>
-<lex.rf>a#a-wsj0069-001-p1s0W4-Ta</lex.rf>
+<lex.rf>a#m-wsj0069-001-p1s0W4-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -102,7 +105,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0069-001-p1s0a5">
+<children>
+<LM id="T-wsj0069-001-p1s0a5">
 <a>
 <lex.rf>a#a-wsj0069-001-p1s0W4-Ta</lex.rf>
 </a>
@@ -113,21 +117,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>word segmentation</text>
-</annot_comment>
+</LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>word segmentation</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0069-001-p1s0a8">
 <a>
@@ -199,7 +190,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj0069-001-p1s0a14">
+<children>
+<LM id="T-wsj0069-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj0069-001-p1s0W13-Ta</lex.rf>
 </a>
@@ -210,14 +202,17 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>Coref</type>
 <text>odkaz na něco v předchozím kontextu, který zde ale chybí</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -227,7 +222,9 @@
 <LM id="T-wsj0069-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj0069-001-p1s0W19-Ta</lex.rf>
-<aux.rf>a#a-wsj0069-001-p1s0W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0069-001-p1s0W16-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6496f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -242,7 +239,9 @@
 <LM id="T-wsj0069-001-p1s0a20">
 <a>
 <lex.rf>a#a-wsj0069-001-p1s0W18-Ta</lex.rf>
-<aux.rf>a#a-wsj0069-001-p1s0W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0069-001-p1s0W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>květen</t_lemma>
@@ -266,8 +265,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>špatně utvořený infinitiv</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0069-001-p1s0a22">
@@ -299,7 +300,9 @@
 <LM id="T-wsj0069-001-p1s0a25">
 <a>
 <lex.rf>a#a-wsj0069-001-p1s0W25-Ta</lex.rf>
-<aux.rf>a#a-wsj0069-001-p1s0W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0069-001-p1s0W24-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>funkce</t_lemma>
@@ -345,7 +348,8 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>26</deepord>
-<children id="T-wsj0069-001-p1s0a28">
+<children>
+<LM id="T-wsj0069-001-p1s0a28">
 <a>
 <lex.rf>a#a-wsj0069-001-p1s0W29-Ta</lex.rf>
 </a>
@@ -357,6 +361,7 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>25</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0069-001-p1s0a30">
@@ -376,7 +381,9 @@
 <a>
 <lex.rf>a#a-wsj0069-001-p1s0W32-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0069-001-p1s0a26</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0069-001-p1s0a26</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -388,7 +395,9 @@
 <LM id="T-wsj0069-001-p1s0a35">
 <a>
 <lex.rf>a#a-wsj0069-001-p1s0W35-Ta</lex.rf>
-<aux.rf>a#a-wsj0069-001-p1s0W34-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0069-001-p1s0W34-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>důchod</t_lemma>
@@ -405,13 +414,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Michael Henderson, 51-year-old group chief executive of this U.K. metals and industrial materials maker, will become chairman in May, succeeding Ian Butler, 64, who is retiring.</eng_sentence>
 </LM>
 <LM id="T-wsj0069-001-p1s1">
 <atree.rf>a#a-wsj0069-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0069-001-p1s1a1">
+<children>
+<LM id="T-wsj0069-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0069-001-p1s1W4-Ta</lex.rf>
 </a>
@@ -435,7 +446,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0069-001-p1s1a3">
+<children>
+<LM id="T-wsj0069-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj0069-001-p1s1W1-Ta</lex.rf>
 </a>
@@ -446,11 +458,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0069-001-p1s0a33</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0069-001-p1s1a5">
@@ -464,7 +479,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0069-001-p1s1a6">
+<children>
+<LM id="T-wsj0069-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj0069-001-p1s1W6-Ta</lex.rf>
 </a>
@@ -475,14 +491,19 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0069-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj0069-001-p1s1W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0069-001-p1s1W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0069-001-p1s1W7-Ta</LM>
+</aux.rf>
 </a>
-<compl.rf>T-wsj0069-001-p1s1a2</compl.rf>
+<compl.rf>
+<LM>T-wsj0069-001-p1s1a2</LM>
+</compl.rf>
 <nodetype>complex</nodetype>
 <t_lemma>ředitel</t_lemma>
 <functor>COMPL</functor>
@@ -490,7 +511,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0069-001-p1s1a9">
+<children>
+<LM id="T-wsj0069-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj0069-001-p1s1W8-Ta</lex.rf>
 </a>
@@ -501,9 +523,11 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Mr. Butler will remain on the board as a nonexecutive director.</eng_sentence>
 </LM>

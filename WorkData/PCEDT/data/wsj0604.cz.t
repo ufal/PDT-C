@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0604.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -1128,7 +1128,7 @@
 <children>
 <LM id="T-wsj0604-001-p1s5a4">
 <a>
-<lex.rf>a#a-wsj0604-001-p1s5W5-Ta</lex.rf>
+<lex.rf>a#m-wsj0604-001-p1s5W5-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -1146,20 +1146,8 @@
 <t_lemma>63</t_lemma>
 <functor>RSTR</functor>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2000,7 +1988,7 @@
 <children>
 <LM id="T-wsj0604-001-p1s7a4">
 <a>
-<lex.rf>a#a-wsj0604-001-p1s7W1-Ta</lex.rf>
+<lex.rf>a#m-wsj0604-001-p1s7W1-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -2018,20 +2006,8 @@
 <t_lemma>42</t_lemma>
 <functor>RSTR</functor>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0604-001-p1s7a5">
 <a>
@@ -12791,7 +12767,7 @@
 </LM>
 <LM id="T-wsj0604-001-p1s44a15">
 <a>
-<lex.rf>a#a-wsj0604-001-p1s44W14-Ta</lex.rf>
+<lex.rf>a#m-wsj0604-001-p1s44W14-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>týdenní</t_lemma>
@@ -12809,20 +12785,8 @@
 <t_lemma>20</t_lemma>
 <functor>RSTR</functor>
 <deepord>12</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0604-001-p1s44a17">
 <a>

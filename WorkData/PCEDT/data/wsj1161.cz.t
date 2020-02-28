@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj1161.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -945,7 +945,7 @@
 <children>
 <LM id="T-wsj1161-001-p1s2a19">
 <a>
-<lex.rf>a#a-wsj1161-001-p1s2W18-Ta</lex.rf>
+<lex.rf>a#m-wsj1161-001-p1s2W18-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -963,20 +963,8 @@
 <t_lemma>10</t_lemma>
 <functor>RSTR</functor>
 <deepord>14</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>změněno na základě špatné segmentace</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1161-001-p1s2a20">
 <a>
@@ -2756,7 +2744,7 @@
 <children>
 <LM id="T-wsj1161-001-p1s8a15">
 <a>
-<lex.rf>a#a-wsj1161-001-p1s8W14-Ta</lex.rf>
+<lex.rf>a#m-wsj1161-001-p1s8W14-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -2774,20 +2762,8 @@
 <t_lemma>10</t_lemma>
 <functor>RSTR</functor>
 <deepord>12</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>změněno na základě špatné segmentace</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1161-001-p1s8a16">
 <a>
@@ -4803,7 +4779,7 @@
 <children>
 <LM id="T-wsj1161-001-p1s14a26">
 <a>
-<lex.rf>a#a-wsj1161-001-p1s14W25-Ta</lex.rf>
+<lex.rf>a#m-wsj1161-001-p1s14W25-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -4821,20 +4797,8 @@
 <t_lemma>10</t_lemma>
 <functor>RSTR</functor>
 <deepord>21</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>změněno na základě špatné segmentace</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1161-001-p1s14a27">
 <a>
@@ -5988,7 +5952,7 @@
 <children>
 <LM id="T-wsj1161-001-p1s18a13">
 <a>
-<lex.rf>a#a-wsj1161-001-p1s18W12-Ta</lex.rf>
+<lex.rf>a#m-wsj1161-001-p1s18W12-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -6006,20 +5970,8 @@
 <t_lemma>10</t_lemma>
 <functor>RSTR</functor>
 <deepord>10</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>změněno na základě špatné segmentace</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1161-001-p1s18a14">
 <a>

@@ -4,14 +4,15 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0951.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj0951-001-p1s0">
 <atree.rf>a#a-wsj0951-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0951-001-p1s0a29">
+<children>
+<LM id="T-wsj0951-001-p1s0a29">
 <a>
 <lex.rf>a#a-wsj0951-001-p1s0W19-Ta</lex.rf>
 </a>
@@ -23,7 +24,9 @@
 <LM id="T-wsj0951-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0951-001-p1s0W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0951-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0951-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9986f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -56,7 +59,7 @@
 <children>
 <LM id="T-wsj0951-001-p1s0a4">
 <a>
-<lex.rf>a#a-wsj0951-001-p1s0W1-Ta</lex.rf>
+<lex.rf>a#m-wsj0951-001-p1s0W1-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -65,7 +68,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0951-001-p1s0a28">
+<children>
+<LM id="T-wsj0951-001-p1s0a28">
 <a>
 <lex.rf>a#a-wsj0951-001-p1s0W1-Ta</lex.rf>
 </a>
@@ -73,11 +77,8 @@
 <t_lemma>48</t_lemma>
 <functor>RSTR</functor>
 <deepord>2</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0951-001-p1s0a3">
 <a>
@@ -128,7 +129,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0951-001-p1s0a11">
+<children>
+<LM id="T-wsj0951-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj0951-001-p1s0W12-Ta</lex.rf>
 </a>
@@ -179,7 +181,9 @@
 <LM id="T-wsj0951-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj0951-001-p1s0W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0951-001-p1s0W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0951-001-p1s0W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zabývající_se</t_lemma>
@@ -188,7 +192,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj0951-001-p1s0a17">
+<children>
+<LM id="T-wsj0951-001-p1s0a17">
 <a>
 <lex.rf>a#a-wsj0951-001-p1s0W17-Ta</lex.rf>
 </a>
@@ -199,7 +204,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj0951-001-p1s0a18">
+<children>
+<LM id="T-wsj0951-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj0951-001-p1s0W18-Ta</lex.rf>
 </a>
@@ -210,12 +216,15 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -223,7 +232,9 @@
 <LM id="T-wsj0951-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj0951-001-p1s0W23-Ta</lex.rf>
-<aux.rf>a#a-wsj0951-001-p1s0W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0951-001-p1s0W21-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5777f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -239,7 +250,9 @@
 <a>
 <lex.rf>a#a-wsj0951-001-p1s0W20-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0951-001-p1s0a1</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0951-001-p1s0a1</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>MEANS</functor>
@@ -270,7 +283,9 @@
 <LM id="T-wsj0951-001-p1s0a26">
 <a>
 <lex.rf>a#a-wsj0951-001-p1s0W26-Ta</lex.rf>
-<aux.rf>a#a-wsj0951-001-p1s0W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0951-001-p1s0W24-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>člen</t_lemma>
@@ -279,7 +294,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj0951-001-p1s0a25">
+<children>
+<LM id="T-wsj0951-001-p1s0a25">
 <a>
 <lex.rf>a#a-wsj0951-001-p1s0W25-Ta</lex.rf>
 </a>
@@ -290,11 +306,13 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>22</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>William C. Ballard Jr., 48 years old, was elected a director of this distilled beverages concern, expanding the board to 11 members.</eng_sentence>
 </LM>

@@ -4,17 +4,20 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj1816.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj1816-001-p1s0">
 <atree.rf>a#a-wsj1816-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1816-001-p1s0a1">
+<children>
+<LM id="T-wsj1816-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1816-001-p1s0W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1816-001-p1s0W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1816-001-p1s0W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9986f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -129,7 +132,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1816-001-p1s0a14">
+<children>
+<LM id="T-wsj1816-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj1816-001-p1s0W13-Ta</lex.rf>
 </a>
@@ -140,6 +144,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -147,7 +152,9 @@
 <LM id="T-wsj1816-001-p1s0a17">
 <a>
 <lex.rf>a#a-wsj1816-001-p1s0W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1816-001-p1s0W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1816-001-p1s0W16-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2014f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -168,15 +175,19 @@
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1816-001-p1s0a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1816-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj1816-001-p1s0W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1816-001-p1s0W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1816-001-p1s0W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>funkce</t_lemma>
@@ -239,7 +250,9 @@
 <a>
 <lex.rf>a#a-wsj1816-001-p1s0W25-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1816-001-p1s0a20</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1816-001-p1s0a20</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -251,7 +264,9 @@
 <LM id="T-wsj1816-001-p1s0a28">
 <a>
 <lex.rf>a#a-wsj1816-001-p1s0W28-Ta</lex.rf>
-<aux.rf>a#a-wsj1816-001-p1s0W27-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1816-001-p1s0W27-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>důchod</t_lemma>
@@ -269,13 +284,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>John E. Hayes Jr. was elected chairman, president and chief executive officer, succeeding David S. Black, who retired.</eng_sentence>
 </LM>
 <LM id="T-wsj1816-001-p1s1">
 <atree.rf>a#a-wsj1816-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1816-001-p1s1a1">
+<children>
+<LM id="T-wsj1816-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1816-001-p1s1W26-Ta</lex.rf>
 </a>
@@ -298,7 +315,7 @@
 <children>
 <LM id="T-wsj1816-001-p1s1a5">
 <a>
-<lex.rf>a#a-wsj1816-001-p1s1W1-Ta</lex.rf>
+<lex.rf>a#m-wsj1816-001-p1s1W1-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -307,7 +324,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1816-001-p1s1a59">
+<children>
+<LM id="T-wsj1816-001-p1s1a59">
 <a>
 <lex.rf>a#a-wsj1816-001-p1s1W1-Ta</lex.rf>
 </a>
@@ -315,15 +333,8 @@
 <t_lemma>52</t_lemma>
 <functor>RSTR</functor>
 <deepord>1</deepord>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1816-001-p1s1a4">
 <a>
@@ -351,9 +362,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1816-001-p1s0a30</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1816-001-p1s1a2">
@@ -373,7 +386,9 @@
 <LM id="T-wsj1816-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj1816-001-p1s1W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1816-001-p1s1W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1816-001-p1s1W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>leden</t_lemma>
@@ -386,7 +401,9 @@
 <LM id="T-wsj1816-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj1816-001-p1s1W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1816-001-p1s1W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1816-001-p1s1W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -473,16 +490,20 @@
 </gram>
 <deepord>15</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1816-001-p1s1a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1816-001-p1s1a19">
 <a>
 <lex.rf>a#a-wsj1816-001-p1s1W17-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1816-001-p1s1a11</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1816-001-p1s1a11</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>kde</t_lemma>
 <functor>LOC</functor>
@@ -538,7 +559,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj1816-001-p1s1a25">
+<children>
+<LM id="T-wsj1816-001-p1s1a25">
 <a>
 <lex.rf>a#a-wsj1816-001-p1s1W23-Ta</lex.rf>
 </a>
@@ -549,6 +571,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>21</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -572,10 +595,13 @@
 <sempos>v</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj1816-001-p1s1a29">
+<children>
+<LM id="T-wsj1816-001-p1s1a29">
 <a>
 <lex.rf>a#a-wsj1816-001-p1s1W29-Ta</lex.rf>
-<aux.rf>a#a-wsj1816-001-p1s1W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1816-001-p1s1W28-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -629,7 +655,9 @@
 </LM>
 <LM id="T-wsj1816-001-p1s1a58">
 <a>
-<aux.rf>a#a-wsj1816-001-p1s1W33-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1816-001-p1s1W33-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -677,7 +705,9 @@
 <a>
 <lex.rf>a#a-wsj1816-001-p1s1W38-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1816-001-p1s1a29</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1816-001-p1s1a29</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -711,7 +741,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>36</deepord>
-<children id="T-wsj1816-001-p1s1a44">
+<children>
+<LM id="T-wsj1816-001-p1s1a44">
 <a>
 <lex.rf>a#a-wsj1816-001-p1s1W42-Ta</lex.rf>
 </a>
@@ -722,6 +753,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>35</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1816-001-p1s1a46">
@@ -806,19 +838,24 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Mr. Hayes, 52 years old, left Southwestern Bell Telephone Co. in January, where he had been chairman, president and chief executive, to join Triad Capital Partners, a St. Louis company with interests in solid waste and recycling, telecommunications and international venture capital.</eng_sentence>
 </LM>
 <LM id="T-wsj1816-001-p1s2">
 <atree.rf>a#a-wsj1816-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1816-001-p1s2a1">
+<children>
+<LM id="T-wsj1816-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1816-001-p1s2W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1816-001-p1s2W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1816-001-p1s2W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8641f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -839,9 +876,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1816-001-p1s1a55</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1816-001-p1s2a2">
@@ -860,7 +899,9 @@
 <a>
 <lex.rf>a#a-wsj1816-001-p1s2W1-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1816-001-p1s2a18</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1816-001-p1s2a18</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -872,7 +913,9 @@
 <LM id="T-wsj1816-001-p1s2a5">
 <a>
 <lex.rf>a#a-wsj1816-001-p1s2W4-Ta</lex.rf>
-<aux.rf>a#a-wsj1816-001-p1s2W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1816-001-p1s2W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -881,7 +924,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1816-001-p1s2a6">
+<children>
+<LM id="T-wsj1816-001-p1s2a6">
 <a>
 <lex.rf>a#a-wsj1816-001-p1s2W5-Ta</lex.rf>
 </a>
@@ -892,11 +936,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1816-001-p1s1a39</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -929,9 +976,11 @@
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1816-001-p1s2a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1816-001-p1s2a13">
@@ -945,10 +994,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1816-001-p1s2a15">
+<children>
+<LM id="T-wsj1816-001-p1s2a15">
 <a>
 <lex.rf>a#a-wsj1816-001-p1s2W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1816-001-p1s2W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1816-001-p1s2W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -957,7 +1009,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1816-001-p1s2a21">
+<children>
+<LM id="T-wsj1816-001-p1s2a21">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -989,24 +1042,30 @@
 <deepord>13</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1816-001-p1s0a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>He has resigned his posts at Triad to take the Kansas Power positions.</eng_sentence>
 </LM>
 <LM id="T-wsj1816-001-p1s3">
 <atree.rf>a#a-wsj1816-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1816-001-p1s3a1">
+<children>
+<LM id="T-wsj1816-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1816-001-p1s3W4-Ta</lex.rf>
 </a>
@@ -1030,7 +1089,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1816-001-p1s3a19">
+<children>
+<LM id="T-wsj1816-001-p1s3a19">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1062,11 +1122,14 @@
 <deepord>4</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1816-001-p1s2a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1816-001-p1s3a7">
@@ -1100,7 +1163,7 @@
 <children>
 <LM id="T-wsj1816-001-p1s3a10">
 <a>
-<lex.rf>a#a-wsj1816-001-p1s3W7-Ta</lex.rf>
+<lex.rf>a#m-wsj1816-001-p1s3W7-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -1109,7 +1172,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1816-001-p1s3a20">
+<children>
+<LM id="T-wsj1816-001-p1s3a20">
 <a>
 <lex.rf>a#a-wsj1816-001-p1s3W7-Ta</lex.rf>
 </a>
@@ -1117,15 +1181,8 @@
 <t_lemma>61</t_lemma>
 <functor>RSTR</functor>
 <deepord>6</deepord>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1816-001-p1s3a9">
 <a>
@@ -1153,15 +1210,19 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1816-001-p1s0a26</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1816-001-p1s3a15">
 <a>
 <lex.rf>a#a-wsj1816-001-p1s3W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1816-001-p1s3W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1816-001-p1s3W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>odchod</t_lemma>
@@ -1186,7 +1247,9 @@
 <LM id="T-wsj1816-001-p1s3a18">
 <a>
 <lex.rf>a#a-wsj1816-001-p1s3W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1816-001-p1s3W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1816-001-p1s3W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>důchod</t_lemma>
@@ -1196,9 +1259,11 @@
 </gram>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1816-001-p1s0a28</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -1206,6 +1271,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Kansas Power said Mr. Black, 61, chose early retirement.</eng_sentence>
 </LM>

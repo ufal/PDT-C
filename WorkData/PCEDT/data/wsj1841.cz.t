@@ -4,17 +4,20 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj1841.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj1841-001-p1s0">
 <atree.rf>a#a-wsj1841-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1841-001-p1s0a1">
+<children>
+<LM id="T-wsj1841-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1841-001-p1s0W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1841-001-p1s0W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1841-001-p1s0W15-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9986f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -56,7 +59,7 @@
 <children>
 <LM id="T-wsj1841-001-p1s0a23">
 <a>
-<lex.rf>a#a-wsj1841-001-p1s0W1-Ta</lex.rf>
+<lex.rf>a#m-wsj1841-001-p1s0W1-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -65,7 +68,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1841-001-p1s0a6">
+<children>
+<LM id="T-wsj1841-001-p1s0a6">
 <a>
 <lex.rf>a#a-wsj1841-001-p1s0W1-Ta</lex.rf>
 </a>
@@ -76,11 +80,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1841-001-p1s0a5">
 <a>
@@ -120,7 +121,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1841-001-p1s0a10">
+<children>
+<LM id="T-wsj1841-001-p1s0a10">
 <a>
 <lex.rf>a#a-wsj1841-001-p1s0W9-Ta</lex.rf>
 </a>
@@ -147,7 +149,9 @@
 <LM id="T-wsj1841-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj1841-001-p1s0W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1841-001-p1s0W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1841-001-p1s0W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zabývající_se</t_lemma>
@@ -156,7 +160,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1841-001-p1s0a14">
+<children>
+<LM id="T-wsj1841-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj1841-001-p1s0W13-Ta</lex.rf>
 </a>
@@ -167,7 +172,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1841-001-p1s0a15">
+<children>
+<LM id="T-wsj1841-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj1841-001-p1s0W12-Ta</lex.rf>
 </a>
@@ -178,10 +184,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>12</deepord>
-</children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 </children>
@@ -189,7 +198,9 @@
 <LM id="T-wsj1841-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj1841-001-p1s0W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1841-001-p1s0W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1841-001-p1s0W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>funkce</t_lemma>
@@ -222,7 +233,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1841-001-p1s0a21">
+<children>
+<LM id="T-wsj1841-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj1841-001-p1s0W21-Ta</lex.rf>
 </a>
@@ -233,18 +245,21 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Frederick W. Lang, 65 years old, the founder of this software services concern, was elected to the new post of chairman.</eng_sentence>
 </LM>
 <LM id="T-wsj1841-001-p1s1">
 <atree.rf>a#a-wsj1841-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1841-001-p1s1a1">
+<children>
+<LM id="T-wsj1841-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1841-001-p1s1W9-Ta</lex.rf>
 </a>
@@ -326,7 +341,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1841-001-p1s1a9">
+<children>
+<LM id="T-wsj1841-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj1841-001-p1s1W6-Ta</lex.rf>
 </a>
@@ -337,15 +353,18 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1841-001-p1s0a24</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1841-001-p1s1a10">
@@ -359,7 +378,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1841-001-p1s1a11">
+<children>
+<LM id="T-wsj1841-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj1841-001-p1s1W10-Ta</lex.rf>
 </a>
@@ -370,16 +390,19 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence> Formerly president and treasurer, Mr. Lang remains chief executive officer.</eng_sentence>
 </LM>
 <LM id="T-wsj1841-001-p1s2">
 <atree.rf>a#a-wsj1841-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1841-001-p1s2a1">
+<children>
+<LM id="T-wsj1841-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1841-001-p1s2W16-Ta</lex.rf>
 </a>
@@ -405,7 +428,9 @@
 <LM id="T-wsj1841-001-p1s2a4">
 <a>
 <lex.rf>a#a-wsj1841-001-p1s2W2-Ta</lex.rf>
-<aux.rf>a#a-wsj1841-001-p1s2W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1841-001-p1s2W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>funkce</t_lemma>
@@ -414,7 +439,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1841-001-p1s2a5">
+<children>
+<LM id="T-wsj1841-001-p1s2a5">
 <a>
 <lex.rf>a#a-wsj1841-001-p1s2W3-Ta</lex.rf>
 </a>
@@ -425,6 +451,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1841-001-p1s2a6">
@@ -439,9 +466,11 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1841-001-p1s1a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -470,7 +499,7 @@
 <children>
 <LM id="T-wsj1841-001-p1s2a22">
 <a>
-<lex.rf>a#a-wsj1841-001-p1s2W6-Ta</lex.rf>
+<lex.rf>a#m-wsj1841-001-p1s2W6-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -479,7 +508,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1841-001-p1s2a10">
+<children>
+<LM id="T-wsj1841-001-p1s2a10">
 <a>
 <lex.rf>a#a-wsj1841-001-p1s2W6-Ta</lex.rf>
 </a>
@@ -490,10 +520,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1841-001-p1s2a9">
@@ -576,7 +603,8 @@
 <sempos>v</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1841-001-p1s2a18">
+<children>
+<LM id="T-wsj1841-001-p1s2a18">
 <a>
 <lex.rf>a#a-wsj1841-001-p1s2W19-Ta</lex.rf>
 </a>
@@ -611,7 +639,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1841-001-p1s2a21">
+<children>
+<LM id="T-wsj1841-001-p1s2a21">
 <a>
 <lex.rf>a#a-wsj1841-001-p1s2W20-Ta</lex.rf>
 </a>
@@ -622,12 +651,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>18</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Victor C. Benda, 58, formerly executive vice president, succeeds Mr. Lang as president and becomes chief operating officer, a new post.</eng_sentence>
 </LM>

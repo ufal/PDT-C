@@ -4799,13 +4799,11 @@
 <m.rf>m#m-wsj2343-001-p1s29W4-Ta</m.rf>
 <afun>Atr</afun>
 <ord>4</ord>
-<children>
+</LM>
 <LM id="m-wsj2343-001-p1s29W4-Ta-sw1-ia">
 <m.rf>m#m-wsj2343-001-p1s29W4-Ta-sw1</m.rf>
-<afun>ExD</afun>
+<afun>Atr</afun>
 <ord>5</ord>
-</LM>
-</children>
 </LM>
 <LM id="a-wsj2343-001-p1s29W22-Ta">
 <m.rf>m#m-wsj2343-001-p1s29W22-Ta</m.rf>

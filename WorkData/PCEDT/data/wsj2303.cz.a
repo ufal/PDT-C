@@ -301,13 +301,11 @@
 <m.rf>m#m-wsj2303-001-p1s1W7-Ta</m.rf>
 <afun>Atr</afun>
 <ord>7</ord>
-<children>
+</LM>
 <LM id="m-wsj2303-001-p1s1W7-Ta-sw1-ia">
 <m.rf>m#m-wsj2303-001-p1s1W7-Ta-sw1</m.rf>
-<afun>ExD</afun>
+<afun>Atr</afun>
 <ord>8</ord>
-</LM>
-</children>
 </LM>
 </children>
 </LM>
@@ -1694,13 +1692,11 @@
 <m.rf>m#m-wsj2303-001-p1s10W6-Ta</m.rf>
 <afun>Atr</afun>
 <ord>6</ord>
-<children>
+</LM>
 <LM id="m-wsj2303-001-p1s10W6-Ta-sw1-ia">
 <m.rf>m#m-wsj2303-001-p1s10W6-Ta-sw1</m.rf>
-<afun>ExD</afun>
+<afun>Atr</afun>
 <ord>7</ord>
-</LM>
-</children>
 </LM>
 </children>
 </LM>

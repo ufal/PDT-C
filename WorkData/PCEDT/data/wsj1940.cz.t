@@ -4,14 +4,15 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj1940.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj1940-001-p1s0">
 <atree.rf>a#a-wsj1940-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1940-001-p1s0a1">
+<children>
+<LM id="T-wsj1940-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1940-001-p1s0W3-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1940-001-p1s0a3">
+<children>
+<LM id="T-wsj1940-001-p1s0a3">
 <a>
 <lex.rf>a#a-wsj1940-001-p1s0W1-Ta</lex.rf>
 </a>
@@ -46,6 +48,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1940-001-p1s0a6">
@@ -75,7 +78,9 @@
 <LM id="T-wsj1940-001-p1s0a8">
 <a>
 <lex.rf>a#a-wsj1940-001-p1s0W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1940-001-p1s0W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1940-001-p1s0W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9542f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -137,7 +142,9 @@
 <LM id="T-wsj1940-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj1940-001-p1s0W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1940-001-p1s0W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1940-001-p1s0W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>průmysl</t_lemma>
@@ -146,7 +153,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1940-001-p1s0a15">
+<children>
+<LM id="T-wsj1940-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj1940-001-p1s0W13-Ta</lex.rf>
 </a>
@@ -157,14 +165,17 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1940-001-p1s0a17">
@@ -178,7 +189,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj1940-001-p1s0a18">
+<children>
+<LM id="T-wsj1940-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj1940-001-p1s0W17-Ta</lex.rf>
 </a>
@@ -189,21 +201,26 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>13</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Federal prosecutors said they have obtained a guilty plea from another person in the government's ongoing probe of illegal payments in the record industry.</eng_sentence>
 </LM>
 <LM id="T-wsj1940-001-p1s1">
 <atree.rf>a#a-wsj1940-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1940-001-p1s1a1">
+<children>
+<LM id="T-wsj1940-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1940-001-p1s1W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1940-001-p1s1W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1940-001-p1s1W9-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5353f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -235,7 +252,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1940-001-p1s1a10">
+<children>
+<LM id="T-wsj1940-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj1940-001-p1s1W1-Ta</lex.rf>
 </a>
@@ -246,6 +264,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1940-001-p1s1a11">
@@ -284,7 +303,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1940-001-p1s1a14">
+<children>
+<LM id="T-wsj1940-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj1940-001-p1s1W6-Ta</lex.rf>
 </a>
@@ -295,20 +315,25 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1940-001-p1s0a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1940-001-p1s0a17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1940-001-p1s1a28">
@@ -323,7 +348,9 @@
 <LM id="T-wsj1940-001-p1s1a5">
 <a>
 <lex.rf>a#a-wsj1940-001-p1s1W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1940-001-p1s1W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1940-001-p1s1W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Feess</t_lemma>
@@ -333,7 +360,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1940-001-p1s1a4">
+<children>
+<LM id="T-wsj1940-001-p1s1a4">
 <a>
 <lex.rf>a#a-wsj1940-001-p1s1W11-Ta</lex.rf>
 </a>
@@ -344,12 +372,15 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1940-001-p1s1a17">
 <a>
 <lex.rf>a#a-wsj1940-001-p1s1W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1940-001-p1s1W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1940-001-p1s1W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zástupce</t_lemma>
@@ -400,7 +431,9 @@
 <LM id="T-wsj1940-001-p1s1a21">
 <a>
 <lex.rf>a#a-wsj1940-001-p1s1W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1940-001-p1s1W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1940-001-p1s1W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>korupce</t_lemma>
@@ -414,7 +447,9 @@
 <LM id="T-wsj1940-001-p1s1a22">
 <a>
 <lex.rf>a#a-wsj1940-001-p1s1W23-Ta</lex.rf>
-<aux.rf>a#a-wsj1940-001-p1s1W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1940-001-p1s1W19-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9372f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -443,9 +478,11 @@
 </gram>
 <deepord>18</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1940-001-p1s1a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1940-001-p1s1a23">
@@ -462,20 +499,24 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>William Craig, an independent record promoter, pleaded guilty to payola and criminal tax charges, according to a statement issued by Gary Feess, the U.S. attorney here.</eng_sentence>
 </LM>
 <LM id="T-wsj1940-001-p1s2">
 <atree.rf>a#a-wsj1940-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1940-001-p1s2a1">
+<children>
+<LM id="T-wsj1940-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1940-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -503,7 +544,9 @@
 <LM id="T-wsj1940-001-p1s2a4">
 <a>
 <lex.rf>a#a-wsj1940-001-p1s2W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1940-001-p1s2W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1940-001-p1s2W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>platba</t_lemma>
@@ -548,7 +591,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1940-001-p1s2a8">
+<children>
+<LM id="T-wsj1940-001-p1s2a8">
 <a>
 <lex.rf>a#a-wsj1940-001-p1s2W9-Ta</lex.rf>
 </a>
@@ -559,7 +603,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1940-001-p1s2a9">
+<children>
+<LM id="T-wsj1940-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj1940-001-p1s2W8-Ta</lex.rf>
 </a>
@@ -570,7 +615,9 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1940-001-p1s2a14">
@@ -614,7 +661,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1940-001-p1s2a17">
+<children>
+<LM id="T-wsj1940-001-p1s2a17">
 <a>
 <lex.rf>a#a-wsj1940-001-p1s2W16-Ta</lex.rf>
 </a>
@@ -625,20 +673,23 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>11</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Payola is the practice of making illegal, undisclosed payments to radio station personnel in return for getting the stations to play certain songs over the air.</eng_sentence>
 </LM>
 <LM id="T-wsj1940-001-p1s3">
 <atree.rf>a#a-wsj1940-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1940-001-p1s3a1">
+<children>
+<LM id="T-wsj1940-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1940-001-p1s3W9-Ta</lex.rf>
 </a>
@@ -678,9 +729,11 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1940-001-p1s1a26</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1940-001-p1s3a5">
@@ -694,10 +747,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1940-001-p1s3a7">
+<children>
+<LM id="T-wsj1940-001-p1s3a7">
 <a>
 <lex.rf>a#a-wsj1940-001-p1s3W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1940-001-p1s3W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1940-001-p1s3W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>bod</t_lemma>
@@ -732,17 +788,22 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1940-001-p1s1a1</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1940-001-p1s3a10">
@@ -756,9 +817,10 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1940-001-p1s3a11">
+<children>
+<LM id="T-wsj1940-001-p1s3a11">
 <a>
-<lex.rf>a#a-wsj1940-001-p1s3W10-Ta</lex.rf>
+<lex.rf>a#m-wsj1940-001-p1s3W10-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -767,7 +829,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1940-001-p1s3a17">
+<children>
+<LM id="T-wsj1940-001-p1s3a17">
 <a>
 <lex.rf>a#a-wsj1940-001-p1s3W10-Ta</lex.rf>
 </a>
@@ -775,16 +838,16 @@
 <t_lemma>44</t_lemma>
 <functor>RSTR</functor>
 <deepord>8</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1940-001-p1s3a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1940-001-p1s3a13">
@@ -810,7 +873,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1940-001-p1s3a12">
+<children>
+<LM id="T-wsj1940-001-p1s3a12">
 <a>
 <lex.rf>a#a-wsj1940-001-p1s3W12-Ta</lex.rf>
 </a>
@@ -821,6 +885,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1940-001-p1s3a15">
@@ -835,20 +900,24 @@
 </gram>
 <deepord>14</deepord>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>As part of his plea agreement with the government, the 44-year-old Mr. Craig faces a maximum of three years in prison.</eng_sentence>
 </LM>
 <LM id="T-wsj1940-001-p1s4">
 <atree.rf>a#a-wsj1940-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1940-001-p1s4a1">
+<children>
+<LM id="T-wsj1940-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj1940-001-p1s4W17-Ta</lex.rf>
 </a>
@@ -885,7 +954,9 @@
 <LM id="T-wsj1940-001-p1s4a4">
 <a>
 <lex.rf>a#a-wsj1940-001-p1s4W2-Ta</lex.rf>
-<aux.rf>a#a-wsj1940-001-p1s4W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1940-001-p1s4W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>oplátka</t_lemma>
@@ -907,9 +978,11 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1940-001-p1s3a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1940-001-p1s4a10">
@@ -948,15 +1021,19 @@
 </gram>
 <deepord>6</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1940-001-p1s4a5</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1940-001-p1s4a13">
 <a>
 <lex.rf>a#a-wsj1940-001-p1s4W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1940-001-p1s4W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1940-001-p1s4W11-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9542f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1005,13 +1082,17 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1940-001-p1s0a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -1029,7 +1110,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1940-001-p1s4a19">
+<children>
+<LM id="T-wsj1940-001-p1s4a19">
 <a>
 <lex.rf>a#a-wsj1940-001-p1s4W20-Ta</lex.rf>
 </a>
@@ -1040,7 +1122,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1940-001-p1s4a20">
+<children>
+<LM id="T-wsj1940-001-p1s4a20">
 <a>
 <lex.rf>a#a-wsj1940-001-p1s4W19-Ta</lex.rf>
 </a>
@@ -1051,20 +1134,26 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
-</children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>In return, Mr. Craig agreed to cooperate in the government's continuing payola probe, says a spokeswoman for the U.S. attorney's office.</eng_sentence>
 </LM>
 <LM id="T-wsj1940-001-p1s5">
 <atree.rf>a#a-wsj1940-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1940-001-p1s5a2">
+<children>
+<LM id="T-wsj1940-001-p1s5a2">
 <a>
 <lex.rf>a#a-wsj1940-001-p1s5W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1940-001-p1s5W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1940-001-p1s5W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2584f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1085,7 +1174,9 @@
 <LM id="T-wsj1940-001-p1s5a4">
 <a>
 <lex.rf>a#a-wsj1940-001-p1s5W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1940-001-p1s5W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1940-001-p1s5W1-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9542f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1106,9 +1197,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1940-001-p1s4a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1940-001-p1s5a5">
@@ -1137,13 +1230,17 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1940-001-p1s4a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1940-001-p1s5a8">
@@ -1180,9 +1277,11 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1940-001-p1s4a23</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1940-001-p1s5a10">
@@ -1227,13 +1326,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Mr. Craig and three others were indicted last year as part of that payola probe.</eng_sentence>
 </LM>
 <LM id="T-wsj1940-001-p1s6">
 <atree.rf>a#a-wsj1940-001-p1s6</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1940-001-p1s6a1">
+<children>
+<LM id="T-wsj1940-001-p1s6a1">
 <a>
 <lex.rf>a#a-wsj1940-001-p1s6W8-Ta</lex.rf>
 </a>
@@ -1245,7 +1346,9 @@
 <LM id="T-wsj1940-001-p1s6a2">
 <a>
 <lex.rf>a#a-wsj1940-001-p1s6W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1940-001-p1s6W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1940-001-p1s6W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5353f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1302,7 +1405,9 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>M-lemma</type>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1940-001-p1s6a7">
@@ -1331,7 +1436,9 @@
 <LM id="T-wsj1940-001-p1s6a9">
 <a>
 <lex.rf>a#a-wsj1940-001-p1s6W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1940-001-p1s6W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1940-001-p1s6W12-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6466f6_ZU</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1361,10 +1468,13 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1940-001-p1s6a18">
+<children>
+<LM id="T-wsj1940-001-p1s6a18">
 <a>
 <lex.rf>a#a-wsj1940-001-p1s6W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1940-001-p1s6W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1940-001-p1s6W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
@@ -1374,7 +1484,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1940-001-p1s6a12">
+<children>
+<LM id="T-wsj1940-001-p1s6a12">
 <a>
 <lex.rf>a#a-wsj1940-001-p1s6W11-Ta</lex.rf>
 </a>
@@ -1385,19 +1496,26 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>M-lemma</type>
+</LM>
 </annot_comment>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Two other defendants previously pleaded guilty, and charges against the third were dropped.</eng_sentence>
 </LM>

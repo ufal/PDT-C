@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj1213.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -3089,7 +3089,7 @@
 <children>
 <LM id="T-wsj1213-001-p1s12a3">
 <a>
-<lex.rf>a#a-wsj1213-001-p1s12W1-Ta</lex.rf>
+<lex.rf>a#m-wsj1213-001-p1s12W1-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -3109,12 +3109,6 @@
 <deepord>2</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2v1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1213-001-p1s12a4">
 <a>
@@ -10947,7 +10941,7 @@
 <children>
 <LM id="T-wsj1213-001-p1s42a21">
 <a>
-<lex.rf>a#a-wsj1213-001-p1s42W9-Ta</lex.rf>
+<lex.rf>a#m-wsj1213-001-p1s42W9-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -10968,20 +10962,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatná segmentace</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2v1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1213-001-p1s42a12">
 <a>
@@ -12074,7 +12056,7 @@
 </LM>
 <LM id="T-wsj1213-001-p1s46a7">
 <a>
-<lex.rf>a#a-wsj1213-001-p1s46W5-Ta</lex.rf>
+<lex.rf>a#m-wsj1213-001-p1s46W5-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -12092,20 +12074,8 @@
 <t_lemma>30</t_lemma>
 <functor>RSTR</functor>
 <deepord>7</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>word segmentation</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2v1</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -12414,7 +12384,7 @@
 </LM>
 <LM id="T-wsj1213-001-p1s47a4">
 <a>
-<lex.rf>a#a-wsj1213-001-p1s47W2-Ta</lex.rf>
+<lex.rf>a#m-wsj1213-001-p1s47W2-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -12432,20 +12402,8 @@
 <t_lemma>10</t_lemma>
 <functor>RSTR</functor>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>word segmentation</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2v1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1213-001-p1s47a5">
 <a>
@@ -14230,7 +14188,7 @@
 <children>
 <LM id="T-wsj1213-001-p1s55a19">
 <a>
-<lex.rf>a#a-wsj1213-001-p1s55W18-Ta</lex.rf>
+<lex.rf>a#m-wsj1213-001-p1s55W18-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -14248,20 +14206,8 @@
 <t_lemma>10</t_lemma>
 <functor>RSTR</functor>
 <deepord>19</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>word segmentation</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2v1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1213-001-p1s55a20">
 <a>
@@ -21227,7 +21173,7 @@
 </LM>
 <LM id="T-wsj1213-001-p1s79a31">
 <a>
-<lex.rf>a#a-wsj1213-001-p1s79W22-Ta</lex.rf>
+<lex.rf>a#m-wsj1213-001-p1s79W22-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -21248,20 +21194,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>word segmentation</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2v1</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

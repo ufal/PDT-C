@@ -4,17 +4,20 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj1089.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj1089-001-p1s0">
 <atree.rf>a#a-wsj1089-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1089-001-p1s0a1">
+<children>
+<LM id="T-wsj1089-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1089-001-p1s0W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1089-001-p1s0W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1089-001-p1s0W17-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9986f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -95,7 +98,7 @@
 <children>
 <LM id="T-wsj1089-001-p1s0a8">
 <a>
-<lex.rf>a#a-wsj1089-001-p1s0W6-Ta</lex.rf>
+<lex.rf>a#m-wsj1089-001-p1s0W6-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>
@@ -104,7 +107,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1089-001-p1s0a28">
+<children>
+<LM id="T-wsj1089-001-p1s0a28">
 <a>
 <lex.rf>a#a-wsj1089-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -112,11 +116,8 @@
 <t_lemma>47</t_lemma>
 <functor>RSTR</functor>
 <deepord>7</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1089-001-p1s0a9">
 <a>
@@ -142,7 +143,9 @@
 <LM id="T-wsj1089-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj1089-001-p1s0W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1089-001-p1s0W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1089-001-p1s0W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Washington</t_lemma>
@@ -156,7 +159,9 @@
 <LM id="T-wsj1089-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj1089-001-p1s0W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1089-001-p1s0W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1089-001-p1s0W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Nashville</t_lemma>
@@ -166,16 +171,20 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1089-001-p1s0a27">
+<children>
+<LM id="T-wsj1089-001-p1s0a27">
 <a>
-<aux.rf>a#a-wsj1089-001-p1s0W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1089-001-p1s0W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
 <functor>LOC</functor>
 <deepord>13</deepord>
-<children id="T-wsj1089-001-p1s0a16">
+<children>
+<LM id="T-wsj1089-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj1089-001-p1s0W15-Ta</lex.rf>
 </a>
@@ -186,7 +195,9 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -198,7 +209,9 @@
 <LM id="T-wsj1089-001-p1s0a20">
 <a>
 <lex.rf>a#a-wsj1089-001-p1s0W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1089-001-p1s0W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1089-001-p1s0W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rada</t_lemma>
@@ -207,7 +220,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj1089-001-p1s0a21">
+<children>
+<LM id="T-wsj1089-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj1089-001-p1s0W25-Ta</lex.rf>
 </a>
@@ -270,22 +284,29 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>Coref</type>
 <text>odkaz na něco v předchozím kontextu, který zde ale chybí</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Fred D. Thompson, a 47-year-old attorney in private practice in Washington and Nashville, Tenn., was elected to the board of this engineering and construction company.</eng_sentence>
 </LM>
 <LM id="T-wsj1089-001-p1s1">
 <atree.rf>a#a-wsj1089-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1089-001-p1s1a1">
+<children>
+<LM id="T-wsj1089-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1089-001-p1s1W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1089-001-p1s1W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1089-001-p1s1W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w10007f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -307,7 +328,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1089-001-p1s1a3">
+<children>
+<LM id="T-wsj1089-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj1089-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -318,7 +340,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1089-001-p1s1a4">
+<children>
+<LM id="T-wsj1089-001-p1s1a4">
 <a>
 <lex.rf>a#a-wsj1089-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -330,17 +353,23 @@
 </gram>
 <deepord>3</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1089-001-p1s0a20</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1089-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj1089-001-p1s1W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1089-001-p1s1W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1089-001-p1s1W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>11</t_lemma>
@@ -351,6 +380,7 @@
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The board increased to 11 seats.</eng_sentence>
 </LM>

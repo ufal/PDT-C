@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj2055.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -148,12 +148,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -317,12 +311,6 @@
 <t_lemma>L</t_lemma>
 <functor>RSTR</functor>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text> 2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2340,31 +2328,19 @@
 <t_lemma>Archer</t_lemma>
 <functor>FPHR</functor>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>3 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2055-001-p1s10a21">
 <a>
-<lex.rf>a#a-wsj2055-001-p1s10W3-Ta</lex.rf>
+<lex.rf>a#m-wsj2055-001-p1s10W3-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
 <t_lemma>-</t_lemma>
 <functor>FPHR</functor>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>3 V 1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2055-001-p1s10a5">
 <a>
-<lex.rf>a#a-wsj2055-001-p1s10W3-Ta</lex.rf>
+<lex.rf>a#m-wsj2055-001-p1s10W3-Ta-sw2-ia</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
 <t_lemma>Daniels</t_lemma>
@@ -2373,12 +2349,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>asi 3 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2055-001-p1s10a4">
 <a>
@@ -8864,25 +8834,46 @@
 <gram>
 <sempos>v</sempos>
 </gram>
-<deepord>3</deepord>
+<deepord>6</deepord>
+<children>
+<LM id="T-wsj2055-001-p1s33a27">
+<nodetype>list</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#Forn</t_lemma>
+<functor>ID</functor>
+<deepord>1</deepord>
 <children>
 <LM id="T-wsj2055-001-p1s33a2">
 <a>
 <lex.rf>a#a-wsj2055-001-p1s33W1-Ta</lex.rf>
 </a>
-<nodetype>complex</nodetype>
-<t_lemma>Christie's</t_lemma>
-<functor>ACT</functor>
+<nodetype>fphr</nodetype>
+<t_lemma>Christie</t_lemma>
+<functor>FPHR</functor>
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>proprium</text>
+<deepord>2</deepord>
 </LM>
-</annot_comment>
+<LM id="T-wsj2055-001-p1s33a28">
+<a>
+<lex.rf>a#m-wsj2055-001-p1s33W1-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>'</t_lemma>
+<functor>FPHR</functor>
+<deepord>3</deepord>
+</LM>
+<LM id="T-wsj2055-001-p1s33a29">
+<a>
+<lex.rf>a#m-wsj2055-001-p1s33W1-Ta-sw2-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>s</t_lemma>
+<functor>FPHR</functor>
+<deepord>4</deepord>
+</LM>
+</children>
 </LM>
 <LM id="T-wsj2055-001-p1s33a3">
 <a>
@@ -8894,7 +8885,7 @@
 <gram>
 <sempos>adv.denot.grad.nneg</sempos>
 </gram>
-<deepord>2</deepord>
+<deepord>5</deepord>
 </LM>
 <LM id="T-wsj2055-001-p1s33a4">
 <a>
@@ -8906,7 +8897,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>4</deepord>
+<deepord>7</deepord>
 <children>
 <LM id="T-wsj2055-001-p1s33a5">
 <a>
@@ -8918,7 +8909,7 @@
 <gram>
 <sempos>n.denot.neg</sempos>
 </gram>
-<deepord>5</deepord>
+<deepord>8</deepord>
 <children>
 <LM id="T-wsj2055-001-p1s33a8">
 <a>
@@ -8927,7 +8918,7 @@
 <nodetype>coap</nodetype>
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
-<deepord>8</deepord>
+<deepord>11</deepord>
 <children>
 <LM id="T-wsj2055-001-p1s33a7">
 <a>
@@ -8943,7 +8934,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>6</deepord>
+<deepord>9</deepord>
 <children>
 <LM id="T-wsj2055-001-p1s33a9">
 <a>
@@ -8955,7 +8946,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>7</deepord>
+<deepord>10</deepord>
 </LM>
 </children>
 </LM>
@@ -8973,7 +8964,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>9</deepord>
+<deepord>12</deepord>
 </LM>
 </children>
 </LM>
@@ -9001,7 +8992,7 @@
 <gram>
 <sempos>v</sempos>
 </gram>
-<deepord>11</deepord>
+<deepord>14</deepord>
 <children>
 <LM id="T-wsj2055-001-p1s33a14">
 <a>
@@ -9013,7 +9004,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>10</deepord>
+<deepord>13</deepord>
 </LM>
 <LM id="T-wsj2055-001-p1s33a15">
 <a>
@@ -9025,7 +9016,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>12</deepord>
+<deepord>15</deepord>
 </LM>
 <LM id="T-wsj2055-001-p1s33a16">
 <a>
@@ -9037,7 +9028,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>13</deepord>
+<deepord>16</deepord>
 <children>
 <LM id="T-wsj2055-001-p1s33a17">
 <a>
@@ -9049,7 +9040,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>20</deepord>
+<deepord>23</deepord>
 <children>
 <LM id="T-wsj2055-001-p1s33a18">
 <a>
@@ -9058,7 +9049,7 @@
 <nodetype>coap</nodetype>
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
-<deepord>18</deepord>
+<deepord>21</deepord>
 <children>
 <LM id="T-wsj2055-001-p1s33a19">
 <a>
@@ -9071,7 +9062,7 @@
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
-<deepord>14</deepord>
+<deepord>17</deepord>
 </LM>
 <LM id="T-wsj2055-001-p1s33a21">
 <a>
@@ -9084,7 +9075,7 @@
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
-<deepord>15</deepord>
+<deepord>18</deepord>
 </LM>
 <LM id="T-wsj2055-001-p1s33a23">
 <a>
@@ -9097,7 +9088,7 @@
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
-<deepord>16</deepord>
+<deepord>19</deepord>
 </LM>
 <LM id="T-wsj2055-001-p1s33a25">
 <a>
@@ -9110,7 +9101,7 @@
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
-<deepord>17</deepord>
+<deepord>20</deepord>
 </LM>
 <LM id="T-wsj2055-001-p1s33a26">
 <a>
@@ -9123,7 +9114,7 @@
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
-<deepord>19</deepord>
+<deepord>22</deepord>
 </LM>
 </children>
 </LM>

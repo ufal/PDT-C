@@ -662,13 +662,11 @@
 <m.rf>m#m-wsj2213-001-p1s1W66-Ta</m.rf>
 <afun>ExD</afun>
 <ord>66</ord>
-<children>
+</LM>
 <LM id="m-wsj2213-001-p1s1W66-Ta-sw1-ia">
 <m.rf>m#m-wsj2213-001-p1s1W66-Ta-sw1</m.rf>
 <afun>ExD</afun>
 <ord>67</ord>
-</LM>
-</children>
 </LM>
 <LM id="a-wsj2213-001-p1s1W69-Ta">
 <m.rf>m#m-wsj2213-001-p1s1W69-Ta</m.rf>

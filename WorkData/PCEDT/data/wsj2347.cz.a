@@ -2634,13 +2634,11 @@
 <m.rf>m#m-wsj2347-001-p1s16W2-Ta</m.rf>
 <afun>Atr</afun>
 <ord>2</ord>
-<children>
+</LM>
 <LM id="m-wsj2347-001-p1s16W2-Ta-sw1-ia">
 <m.rf>m#m-wsj2347-001-p1s16W2-Ta-sw1</m.rf>
-<afun>ExD</afun>
+<afun>Atr</afun>
 <ord>3</ord>
-</LM>
-</children>
 </LM>
 </children>
 </LM>

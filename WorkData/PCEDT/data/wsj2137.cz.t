@@ -4,14 +4,15 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj2137.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj2137-001-p1s0">
 <atree.rf>a#a-wsj2137-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2137-001-p1s0a51">
+<children>
+<LM id="T-wsj2137-001-p1s0a51">
 <a>
 <lex.rf>a#a-wsj2137-001-p1s0W32-Ta</lex.rf>
 </a>
@@ -23,7 +24,9 @@
 <LM id="T-wsj2137-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj2137-001-p1s0W20-Ta</lex.rf>
-<aux.rf>a#a-wsj2137-001-p1s0W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2137-001-p1s0W19-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9986f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -66,16 +69,17 @@
 <children>
 <LM id="T-wsj2137-001-p1s0a5">
 <a>
-<lex.rf>a#a-wsj2137-001-p1s0W1-Ta</lex.rf>
+<lex.rf>a#m-wsj2137-001-p1s0W1-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>63letý</t_lemma>
+<t_lemma>letý</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj2137-001-p1s0a52">
+<children>
+<LM id="T-wsj2137-001-p1s0a52">
 <a>
 <lex.rf>a#a-wsj2137-001-p1s0W1-Ta</lex.rf>
 </a>
@@ -83,21 +87,8 @@
 <t_lemma>63</t_lemma>
 <functor>RSTR</functor>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
 </LM>
-<LM>
-<type>T-lemma</type>
-<text>63letý na 63</text>
-</LM>
-</annot_comment>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj2137-001-p1s0a4">
 <a>
@@ -184,7 +175,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj2137-001-p1s0a44">
+<children>
+<LM id="T-wsj2137-001-p1s0a44">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -252,6 +244,7 @@
 <deepord>19</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -271,7 +264,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj2137-001-p1s0a22">
+<children>
+<LM id="T-wsj2137-001-p1s0a22">
 <a>
 <lex.rf>a#a-wsj2137-001-p1s0W23-Ta</lex.rf>
 </a>
@@ -317,8 +311,10 @@
 </gram>
 <deepord>25</deepord>
 <annot_comment>
+<LM>
 <type>M-lemma</type>
 <text>není od kořit</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj2137-001-p1s0a27">
@@ -333,7 +329,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>27</deepord>
-<children id="T-wsj2137-001-p1s0a28">
+<children>
+<LM id="T-wsj2137-001-p1s0a28">
 <a>
 <lex.rf>a#a-wsj2137-001-p1s0W26-Ta</lex.rf>
 </a>
@@ -344,6 +341,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>26</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2137-001-p1s0a29">
@@ -358,7 +356,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>30</deepord>
-<children id="T-wsj2137-001-p1s0a30">
+<children>
+<LM id="T-wsj2137-001-p1s0a30">
 <a>
 <lex.rf>a#a-wsj2137-001-p1s0W29-Ta</lex.rf>
 </a>
@@ -369,15 +368,19 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>29</deepord>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>Coref</type>
 <text>zřejmě odkaz na něco v předchozím kontextu, který zde ale chybí</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 </children>
@@ -406,9 +409,11 @@
 </gram>
 <deepord>31</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2137-001-p1s0a49</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2137-001-p1s0a39">
@@ -425,16 +430,17 @@
 <children>
 <LM id="T-wsj2137-001-p1s0a35">
 <a>
-<lex.rf>a#a-wsj2137-001-p1s0W34-Ta</lex.rf>
+<lex.rf>a#m-wsj2137-001-p1s0W34-Ta-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>65letý</t_lemma>
+<t_lemma>letý</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>33</deepord>
-<children id="T-wsj2137-001-p1s0a53">
+<children>
+<LM id="T-wsj2137-001-p1s0a53">
 <a>
 <lex.rf>a#a-wsj2137-001-p1s0W34-Ta</lex.rf>
 </a>
@@ -442,21 +448,8 @@
 <t_lemma>65</t_lemma>
 <functor>RSTR</functor>
 <deepord>34</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>65letý na 65</text>
 </LM>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj2137-001-p1s0a34">
 <a>
@@ -521,7 +514,9 @@
 <a>
 <lex.rf>a#a-wsj2137-001-p1s0W42-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj2137-001-p1s0a39</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj2137-001-p1s0a39</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -537,6 +532,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>George W. Koch, 63 years old, president and chief executive officer of Grocery Manufacturers of America Inc., was elected a director of this maker of spices, seasonings and specialty foods, succeeding Erskin N. White Jr., 65, who resigned.</eng_sentence>
 </LM>

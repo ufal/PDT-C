@@ -4,14 +4,15 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0506.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
 <LM id="T-wsj0506-001-p1s0">
 <atree.rf>a#a-wsj0506-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0506-001-p1s0a1">
+<children>
+<LM id="T-wsj0506-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0506-001-p1s0a30">
+<children>
+<LM id="T-wsj0506-001-p1s0a30">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -82,6 +84,7 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0506-001-p1s0a7">
@@ -99,7 +102,9 @@
 <LM id="T-wsj0506-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s0W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0506-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0506-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodnota</t_lemma>
@@ -168,12 +173,14 @@
 <nodetype>coap</nodetype>
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
-<deepord>20</deepord>
+<deepord>24</deepord>
 <children>
 <LM id="T-wsj0506-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s0W16-Ta</lex.rf>
-<aux.rf>a#a-wsj0506-001-p1s0W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0506-001-p1s0W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letadlo</t_lemma>
@@ -196,39 +203,72 @@
 </gram>
 <deepord>14</deepord>
 </LM>
+<LM id="T-wsj0506-001-p1s0a31">
+<nodetype>list</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#Forn</t_lemma>
+<functor>ID</functor>
+<deepord>16</deepord>
+<children>
 <LM id="T-wsj0506-001-p1s0a17">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s0W17-Ta</lex.rf>
 </a>
-<nodetype>complex</nodetype>
-<t_lemma>F-A</t_lemma>
-<functor>ID</functor>
+<nodetype>fphr</nodetype>
+<t_lemma>F</t_lemma>
+<functor>FPHR</functor>
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>16</deepord>
-<children id="T-wsj0506-001-p1s0a18">
+<deepord>17</deepord>
+</LM>
+<LM id="T-wsj0506-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s0W19-Ta</lex.rf>
-<aux.rf>a#a-wsj0506-001-p1s0W18-Ta</aux.rf>
 </a>
-<nodetype>complex</nodetype>
+<nodetype>fphr</nodetype>
 <t_lemma>18</t_lemma>
-<functor>RSTR</functor>
+<functor>FPHR</functor>
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
-<deepord>17</deepord>
+<deepord>18</deepord>
+</LM>
+<LM id="T-wsj0506-001-p1s0a32">
+<a>
+<lex.rf>a#m-wsj0506-001-p1s0W17-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>-</t_lemma>
+<functor>FPHR</functor>
+<deepord>19</deepord>
+</LM>
+<LM id="T-wsj0506-001-p1s0a33">
+<a>
+<lex.rf>a#m-wsj0506-001-p1s0W17-Ta-sw2-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>A</t_lemma>
+<functor>FPHR</functor>
+<deepord>20</deepord>
+</LM>
+<LM id="T-wsj0506-001-p1s0a34">
+<a>
+<lex.rf>a#a-wsj0506-001-p1s0W18-Ta</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>-</t_lemma>
+<functor>FPHR</functor>
+<deepord>21</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>t-lemma pokračuje i za spojovníkem, který je součástí</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0506-001-p1s0a22">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s0W22-Ta</lex.rf>
-<aux.rf>a#a-wsj0506-001-p1s0W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0506-001-p1s0W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>námořnictvo</t_lemma>
@@ -236,8 +276,9 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>19</deepord>
-<children id="T-wsj0506-001-p1s0a23">
+<deepord>23</deepord>
+<children>
+<LM id="T-wsj0506-001-p1s0a23">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s0W21-Ta</lex.rf>
 </a>
@@ -247,7 +288,8 @@
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
-<deepord>18</deepord>
+<deepord>22</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -255,7 +297,9 @@
 <LM id="T-wsj0506-001-p1s0a24">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s0W25-Ta</lex.rf>
-<aux.rf>a#a-wsj0506-001-p1s0W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0506-001-p1s0W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>díl</t_lemma>
@@ -264,7 +308,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>22</deepord>
+<deepord>26</deepord>
 <children>
 <LM id="T-wsj0506-001-p1s0a25">
 <a>
@@ -276,12 +320,14 @@
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
-<deepord>21</deepord>
+<deepord>25</deepord>
 </LM>
 <LM id="T-wsj0506-001-p1s0a27">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s0W27-Ta</lex.rf>
-<aux.rf>a#a-wsj0506-001-p1s0W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0506-001-p1s0W26-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>vrtulník</t_lemma>
@@ -289,11 +335,14 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>23</deepord>
-<children id="T-wsj0506-001-p1s0a29">
+<deepord>27</deepord>
+<children>
+<LM id="T-wsj0506-001-p1s0a29">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s0W29-Ta</lex.rf>
-<aux.rf>a#a-wsj0506-001-p1s0W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0506-001-p1s0W28-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>armáda</t_lemma>
@@ -301,8 +350,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>24</deepord>
-</children>
+<deepord>28</deepord>
 </LM>
 </children>
 </LM>
@@ -311,16 +359,22 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>McDonnell Douglas Corp. received contracts totaling $244.8 million for 72 F-A-18 aircraft for the Navy and helicopter spare parts for the Army.</eng_sentence>
 </LM>
 <LM id="T-wsj0506-001-p1s1">
 <atree.rf>a#a-wsj0506-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0506-001-p1s1a12">
+<children>
+<LM id="T-wsj0506-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s1W14-Ta</lex.rf>
-<aux.rf>a#a-wsj0506-001-p1s1W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0506-001-p1s1W13-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5114f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -352,7 +406,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0506-001-p1s1a32">
+<children>
+<LM id="T-wsj0506-001-p1s1a32">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -396,6 +451,7 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0506-001-p1s1a2">
@@ -410,7 +466,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0506-001-p1s1a3">
+<children>
+<LM id="T-wsj0506-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s1W8-Ta</lex.rf>
 </a>
@@ -421,7 +478,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0506-001-p1s1a33">
+<children>
+<LM id="T-wsj0506-001-p1s1a33">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -459,7 +517,9 @@
 <deepord>13</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -486,7 +546,9 @@
 <LM id="T-wsj0506-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s1W18-Ta</lex.rf>
-<aux.rf>a#a-wsj0506-001-p1s1W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0506-001-p1s1W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letectvo</t_lemma>
@@ -495,7 +557,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj0506-001-p1s1a17">
+<children>
+<LM id="T-wsj0506-001-p1s1a17">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s1W17-Ta</lex.rf>
 </a>
@@ -506,12 +569,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>17</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0506-001-p1s1a19">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s1W20-Ta</lex.rf>
-<aux.rf>a#a-wsj0506-001-p1s1W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0506-001-p1s1W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodnota</t_lemma>
@@ -520,7 +586,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj0506-001-p1s1a21">
+<children>
+<LM id="T-wsj0506-001-p1s1a21">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s1W22-Ta</lex.rf>
 </a>
@@ -557,12 +624,15 @@
 <deepord>22</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0506-001-p1s1a24">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s1W26-Ta</lex.rf>
-<aux.rf>a#a-wsj0506-001-p1s1W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0506-001-p1s1W24-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>motor</t_lemma>
@@ -595,7 +665,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj0506-001-p1s1a27">
+<children>
+<LM id="T-wsj0506-001-p1s1a27">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s1W28-Ta</lex.rf>
 </a>
@@ -606,20 +677,23 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>26</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Aerojet General Corp., a unit of GenCorp Inc., was awarded a $40.1 million Air Force contract for Minuteman missile rocket motors.</eng_sentence>
 </LM>
 <LM id="T-wsj0506-001-p1s2">
 <atree.rf>a#a-wsj0506-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0506-001-p1s2a1">
+<children>
+<LM id="T-wsj0506-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s2W6-Ta</lex.rf>
 </a>
@@ -643,7 +717,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0506-001-p1s2a20">
+<children>
+<LM id="T-wsj0506-001-p1s2a20">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -690,6 +765,7 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0506-001-p1s2a7">
@@ -707,7 +783,9 @@
 <LM id="T-wsj0506-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s2W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0506-001-p1s2W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0506-001-p1s2W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>námořnictvo</t_lemma>
@@ -716,7 +794,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0506-001-p1s2a10">
+<children>
+<LM id="T-wsj0506-001-p1s2a10">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s2W9-Ta</lex.rf>
 </a>
@@ -727,17 +806,22 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0506-001-p1s0a22</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0506-001-p1s2a12">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s2W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0506-001-p1s2W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0506-001-p1s2W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodnota</t_lemma>
@@ -746,7 +830,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0506-001-p1s2a14">
+<children>
+<LM id="T-wsj0506-001-p1s2a14">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s2W14-Ta</lex.rf>
 </a>
@@ -783,12 +868,15 @@
 <deepord>14</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0506-001-p1s2a17">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s2W19-Ta</lex.rf>
-<aux.rf>a#a-wsj0506-001-p1s2W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0506-001-p1s2W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>střela</t_lemma>
@@ -827,13 +915,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Rockwell International Corp. received a $26.7 million Navy contract for submarine ballistic missiles.</eng_sentence>
 </LM>
 <LM id="T-wsj0506-001-p1s3">
 <atree.rf>a#a-wsj0506-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0506-001-p1s3a1">
+<children>
+<LM id="T-wsj0506-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s3W5-Ta</lex.rf>
 </a>
@@ -857,7 +947,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0506-001-p1s3a21">
+<children>
+<LM id="T-wsj0506-001-p1s3a21">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -898,6 +989,7 @@
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0506-001-p1s3a6">
@@ -915,7 +1007,9 @@
 <LM id="T-wsj0506-001-p1s3a8">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s3W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0506-001-p1s3W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0506-001-p1s3W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>námořnictvo</t_lemma>
@@ -924,7 +1018,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0506-001-p1s3a9">
+<children>
+<LM id="T-wsj0506-001-p1s3a9">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s3W8-Ta</lex.rf>
 </a>
@@ -935,17 +1030,22 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0506-001-p1s2a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0506-001-p1s3a11">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s3W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0506-001-p1s3W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0506-001-p1s3W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodnota</t_lemma>
@@ -954,7 +1054,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0506-001-p1s3a13">
+<children>
+<LM id="T-wsj0506-001-p1s3a13">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s3W13-Ta</lex.rf>
 </a>
@@ -991,12 +1092,15 @@
 <deepord>13</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0506-001-p1s3a16">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s3W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0506-001-p1s3W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0506-001-p1s3W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>sada</t_lemma>
@@ -1021,7 +1125,9 @@
 <LM id="T-wsj0506-001-p1s3a19">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s3W20-Ta</lex.rf>
-<aux.rf>a#a-wsj0506-001-p1s3W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0506-001-p1s3W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>střela</t_lemma>
@@ -1030,7 +1136,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj0506-001-p1s3a20">
+<children>
+<LM id="T-wsj0506-001-p1s3a20">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s3W19-Ta</lex.rf>
 </a>
@@ -1041,20 +1148,23 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>16</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Honeywell Inc. got a $22.3 million Navy contract for aircraft missile warning sets.</eng_sentence>
 </LM>
 <LM id="T-wsj0506-001-p1s4">
 <atree.rf>a#a-wsj0506-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0506-001-p1s4a1">
+<children>
+<LM id="T-wsj0506-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s4W13-Ta</lex.rf>
 </a>
@@ -1088,7 +1198,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0506-001-p1s4a29">
+<children>
+<LM id="T-wsj0506-001-p1s4a29">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1135,6 +1246,7 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0506-001-p1s4a8">
@@ -1149,7 +1261,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0506-001-p1s4a9">
+<children>
+<LM id="T-wsj0506-001-p1s4a9">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s4W8-Ta</lex.rf>
 </a>
@@ -1160,7 +1273,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0506-001-p1s4a30">
+<children>
+<LM id="T-wsj0506-001-p1s4a30">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1195,7 +1309,9 @@
 <deepord>13</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -1215,7 +1331,9 @@
 <LM id="T-wsj0506-001-p1s4a16">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s4W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0506-001-p1s4W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0506-001-p1s4W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letectvo</t_lemma>
@@ -1224,7 +1342,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj0506-001-p1s4a17">
+<children>
+<LM id="T-wsj0506-001-p1s4a17">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s4W16-Ta</lex.rf>
 </a>
@@ -1235,17 +1354,22 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0506-001-p1s1a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0506-001-p1s4a19">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s4W19-Ta</lex.rf>
-<aux.rf>a#a-wsj0506-001-p1s4W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0506-001-p1s4W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodnota</t_lemma>
@@ -1254,7 +1378,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj0506-001-p1s4a21">
+<children>
+<LM id="T-wsj0506-001-p1s4a21">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s4W21-Ta</lex.rf>
 </a>
@@ -1291,12 +1416,15 @@
 <deepord>21</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0506-001-p1s4a24">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s4W24-Ta</lex.rf>
-<aux.rf>a#a-wsj0506-001-p1s4W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0506-001-p1s4W23-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8714f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1317,9 +1445,11 @@
 </gram>
 <deepord>22</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0506-001-p1s4a7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0506-001-p1s4a25">
@@ -1333,7 +1463,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj0506-001-p1s4a26">
+<children>
+<LM id="T-wsj0506-001-p1s4a26">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s4W26-Ta</lex.rf>
 </a>
@@ -1344,10 +1475,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj0506-001-p1s4a27">
+<children>
+<LM id="T-wsj0506-001-p1s4a27">
 <a>
 <lex.rf>a#a-wsj0506-001-p1s4W28-Ta</lex.rf>
-<aux.rf>a#a-wsj0506-001-p1s4W27-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0506-001-p1s4W27-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>12</t_lemma>
@@ -1356,22 +1490,29 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>26</deepord>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>T-lemma</type>
 <text>velké písmeno</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Beech Aircraft Corp., a unit of Raytheon Co., received an $11.5 million Air Force contract for C-12 aircraft support.</eng_sentence>
 </LM>

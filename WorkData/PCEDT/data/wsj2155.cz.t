@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj2155.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -2266,15 +2266,18 @@
 <lex.rf>a#a-wsj2155-001-p1s5W44-Ta</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>Ltd.</t_lemma>
+<t_lemma>Ltd</t_lemma>
 <functor>FPHR</functor>
 <deepord>37</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
 </LM>
-</annot_comment>
+<LM id="T-wsj2155-001-p1s5a56">
+<a>
+<lex.rf>a#m-wsj2155-001-p1s5W44-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>.</t_lemma>
+<functor>FPHR</functor>
+<deepord>38</deepord>
 </LM>
 </children>
 </LM>
@@ -2286,7 +2289,7 @@
 <aux.rf>
 <LM>a#a-wsj2155-001-p1s5W46-Ta</LM>
 <LM>a#a-wsj2155-001-p1s5W45-Ta</LM>
-<LM>a#a-wsj2155-001-p1s5W44-Ta</LM>
+<LM>a#m-wsj2155-001-p1s5W44-Ta-sw2-ia</LM>
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
@@ -2295,7 +2298,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>38</deepord>
+<deepord>39</deepord>
 <children>
 <LM id="T-wsj2155-001-p1s5a49">
 <a>
@@ -2310,7 +2313,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>39</deepord>
+<deepord>40</deepord>
 </LM>
 </children>
 </LM>
@@ -2486,7 +2489,7 @@
 <gram>
 <sempos>v</sempos>
 </gram>
-<deepord>9</deepord>
+<deepord>11</deepord>
 <children>
 <LM id="T-wsj2155-001-p1s7a2">
 <a>
@@ -2554,12 +2557,30 @@
 <lex.rf>a#a-wsj2155-001-p1s7W6-Ta</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>N.Y</t_lemma>
+<t_lemma>N</t_lemma>
 <functor>FPHR</functor>
 <gram>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
+<LM id="T-wsj2155-001-p1s7a14">
+<a>
+<lex.rf>a#m-wsj2155-001-p1s7W6-Ta-sw1-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>.</t_lemma>
+<functor>FPHR</functor>
+<deepord>8</deepord>
+</LM>
+<LM id="T-wsj2155-001-p1s7a15">
+<a>
+<lex.rf>a#m-wsj2155-001-p1s7W6-Ta-sw2-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<t_lemma>Y</t_lemma>
+<functor>FPHR</functor>
+<deepord>9</deepord>
 </LM>
 <LM id="T-wsj2155-001-p1s7a13">
 <a>
@@ -2568,7 +2589,7 @@
 <nodetype>fphr</nodetype>
 <t_lemma>.</t_lemma>
 <functor>FPHR</functor>
-<deepord>8</deepord>
+<deepord>10</deepord>
 </LM>
 </children>
 </LM>
@@ -2591,7 +2612,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>10</deepord>
+<deepord>12</deepord>
 </LM>
 </children>
 </LM>
