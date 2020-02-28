@@ -13170,7 +13170,7 @@
 <annot_comment>
 <LM>
 <type>Coref</type>
-<text>Shoda zachycená v překladu neodpovídá původnímu textu ani tektogramatickému stromu (kola - neut. pl. => která byla)!</text>
+<text>Shoda zachycená v překladu neodpovídá původnímu textu ani tektogramatickému stromu (kola - neut. pl. =&gt; která byla)!</text>
 </LM>
 <LM>
 <type>Typo</type>

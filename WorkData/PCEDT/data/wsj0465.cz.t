@@ -6132,7 +6132,7 @@
 <annot_comment>
 <LM>
 <type>Translation</type>
-<text>po tom co -> potom, co</text>
+<text>po tom co -&gt; potom, co</text>
 </LM>
 </annot_comment>
 <eng_sentence>Mr. Quinlan, 30 years old, knew he carried a damaged gene, having lost an eye to the rare tumor when he was only two months old -- after his mother had suffered the same fate when she was a baby.</eng_sentence>
