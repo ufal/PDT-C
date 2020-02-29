@@ -16368,12 +16368,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>pobočky</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

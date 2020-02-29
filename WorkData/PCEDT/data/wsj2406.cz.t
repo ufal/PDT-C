@@ -7289,11 +7289,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2406-001-p1s28a20">
 <a>
