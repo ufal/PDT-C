@@ -7320,17 +7320,13 @@
 <LM>w#w-wsj2007-001-p1s24W12</LM>
 </w.rf>
 <form_change>spell</form_change>
-<form>získaném</form>
+<form>získanému</form>
 <tag>
-<AM lemma="získaný_^(*2t)" src="auto" recommended="1">AAIS6----1A----</AM>
-<AM lemma="získaný_^(*2t)" src="auto">AAMS6----1A----</AM>
-<AM lemma="získaný_^(*2t)" src="auto">AANS6----1A----</AM>
+<AM lemma="získaný_^(*2t)" src="auto" recommended="1">AAIS3----1A----</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AAMS3----1A----</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AANS3----1A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>získanému</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
 </m>
 <m id="m-wsj2007-001-p1s24W13-Ta">
 <src.rf>tagger-a</src.rf>
