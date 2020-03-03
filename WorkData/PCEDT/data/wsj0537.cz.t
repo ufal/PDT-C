@@ -2326,11 +2326,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4022,12 +4017,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Malé písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0537-001-p1s9a31">
 <a>
@@ -4729,12 +4718,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Malé písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -5079,11 +5062,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -5936,11 +5914,6 @@
 <deepord>16</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0537-001-p1s13a22">
 <a>
@@ -5975,11 +5948,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0537-001-p1s13a24">
 <a>
@@ -6700,12 +6668,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velká písmena</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -6740,11 +6702,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -8055,12 +8012,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0537-001-p1s19a19">
 <a>
@@ -8073,11 +8024,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -8100,12 +8046,6 @@
 <src>LH</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velká písmena</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

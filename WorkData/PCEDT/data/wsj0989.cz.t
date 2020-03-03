@@ -307,11 +307,6 @@
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0989-001-p1s1a23">
 <nodetype>complex</nodetype>
@@ -2544,12 +2539,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0989-001-p1s11a6">
 <a>
@@ -2943,12 +2932,6 @@
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0989-001-p1s12a14">
 <a>
@@ -3336,12 +3319,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>peníze</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0989-001-p1s13a31">
 <a>
@@ -3939,12 +3916,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4137,11 +4108,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4677,12 +4643,6 @@
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -9187,12 +9147,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -9673,12 +9627,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -11871,12 +11819,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -12219,12 +12161,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0989-001-p1s43a28">
 <a>
@@ -13809,11 +13745,6 @@
 <deepord>4</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <eng_sentence>Terms weren't disclosed.</eng_sentence>

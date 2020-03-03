@@ -1055,11 +1055,6 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2362-001-p1s2a11">
 <a>
@@ -1215,9 +1210,6 @@
 <LM>
 <type>New valency frame</type>
 <text>P</text>
-</LM>
-<LM>
-<type>M-tag</type>
 </LM>
 </annot_comment>
 </LM>
@@ -1627,11 +1619,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1916,11 +1903,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2899,12 +2881,6 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>18</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3414,11 +3390,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3513,12 +3484,6 @@
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>proprium</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2362-001-p1s10a4">
 <a>
@@ -3680,11 +3645,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3982,11 +3942,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -4383,11 +4338,6 @@
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4906,12 +4856,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>proprium</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -5457,12 +5401,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>proprium</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -5623,12 +5561,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>proprium</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -5800,12 +5732,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>28</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>proprium</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -5821,9 +5747,6 @@
 <LM>
 <type>New valency frame</type>
 <text>P</text>
-</LM>
-<LM>
-<type>M-tag</type>
 </LM>
 </annot_comment>
 </LM>
@@ -6114,11 +6037,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -6407,11 +6325,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -6533,11 +6446,6 @@
 <t_lemma>co</t_lemma>
 <functor>ACT</functor>
 <deepord>24</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2362-001-p1s17a33">
 <a>
@@ -6657,12 +6565,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>proprium</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -6761,11 +6663,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -6775,12 +6672,6 @@
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>o</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7723,12 +7614,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -9276,12 +9161,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>lépe #Comma, opravit středník na čárku</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <eng_sentence>In missiles, Thomson is already overshadowed by British Aerospace and by its home rival, France's Aerospatiale S.A.; to better compete, Thomson officials say, they need a partnership.</eng_sentence>
@@ -9532,11 +9411,6 @@
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2362-001-p1s26a21">
 <a>
@@ -10273,11 +10147,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2362-001-p1s29a21">
 <a>

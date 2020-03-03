@@ -2946,12 +2946,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>malé C</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5994,20 +5988,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatný nominativ</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatný nominativ</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6632,9 +6614,6 @@
 <LM>
 <type>New valency frame</type>
 <text>P</text>
-</LM>
-<LM>
-<type>M-tag</type>
 </LM>
 </annot_comment>
 </LM>

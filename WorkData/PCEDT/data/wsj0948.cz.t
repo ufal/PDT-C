@@ -739,11 +739,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0948-001-p1s2a15">
 <a>
@@ -1119,12 +1114,6 @@
 <deepord>2</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>P</text>
-</LM>
-</annot_comment>
 <bridging>
 <LM>
 <target-node.rf>T-wsj0948-001-p1s2a1</target-node.rf>
@@ -1137,6 +1126,12 @@
 <src>JP</src>
 </LM>
 </bridging>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>P</text>
+</LM>
+</annot_comment>
 </LM>
 <LM id="T-wsj0948-001-p1s3a3">
 <a>

@@ -11,7 +11,8 @@
 <LM id="T-wsj0212-001-p1s0">
 <atree.rf>a#a-wsj0212-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0212-001-p1s0a18">
+<children>
+<LM id="T-wsj0212-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj0212-001-p1s0W36-Ta</lex.rf>
 </a>
@@ -23,7 +24,9 @@
 <LM id="T-wsj0212-001-p1s0a20">
 <a>
 <lex.rf>a#a-wsj0212-001-p1s0W29-Ta</lex.rf>
-<aux.rf>a#a-wsj0212-001-p1s0W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0212-001-p1s0W28-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1344f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -93,7 +96,8 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>7</deepord>
-<children id="T-wsj0212-001-p1s0a44">
+<children>
+<LM id="T-wsj0212-001-p1s0a44">
 <a>
 <lex.rf>a#a-wsj0212-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -105,6 +109,7 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -140,7 +145,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0212-001-p1s0a9">
+<children>
+<LM id="T-wsj0212-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj0212-001-p1s0W11-Ta</lex.rf>
 </a>
@@ -155,7 +161,9 @@
 <LM id="T-wsj0212-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj0212-001-p1s0W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0212-001-p1s0W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0212-001-p1s0W12-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9809f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -176,9 +184,11 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0212-001-p1s0a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0212-001-p1s0a12">
@@ -195,8 +205,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0212-001-p1s0a13">
@@ -234,7 +246,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj0212-001-p1s0a42">
+<children>
+<LM id="T-wsj0212-001-p1s0a42">
 <a>
 <lex.rf>a#a-wsj0212-001-p1s0W25-Ta</lex.rf>
 </a>
@@ -255,7 +268,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj0212-001-p1s0a17">
+<children>
+<LM id="T-wsj0212-001-p1s0a17">
 <a>
 <lex.rf>a#a-wsj0212-001-p1s0W18-Ta</lex.rf>
 </a>
@@ -266,6 +280,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>18</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0212-001-p1s0a39">
@@ -280,10 +295,13 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj0212-001-p1s0a41">
+<children>
+<LM id="T-wsj0212-001-p1s0a41">
 <a>
 <lex.rf>a#a-wsj0212-001-p1s0W23-Ta</lex.rf>
-<aux.rf>a#a-wsj0212-001-p1s0W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0212-001-p1s0W22-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9809f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -304,9 +322,11 @@
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0212-001-p1s0a39</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0212-001-p1s0a46">
@@ -323,13 +343,18 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0212-001-p1s0a47">
@@ -344,20 +369,21 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>26</deepord>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>Coref</type>
 <text>odkaz na něco v předchozím kontextu, který zde ale chybí</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -398,7 +424,9 @@
 <LM id="T-wsj0212-001-p1s0a25">
 <a>
 <lex.rf>a#a-wsj0212-001-p1s0W33-Ta</lex.rf>
-<aux.rf>a#a-wsj0212-001-p1s0W32-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0212-001-p1s0W32-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>oblast</t_lemma>
@@ -407,7 +435,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>29</deepord>
-<children id="T-wsj0212-001-p1s0a26">
+<children>
+<LM id="T-wsj0212-001-p1s0a26">
 <a>
 <lex.rf>a#a-wsj0212-001-p1s0W35-Ta</lex.rf>
 </a>
@@ -418,7 +447,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>31</deepord>
-<children id="T-wsj0212-001-p1s0a27">
+<children>
+<LM id="T-wsj0212-001-p1s0a27">
 <a>
 <lex.rf>a#a-wsj0212-001-p1s0W34-Ta</lex.rf>
 </a>
@@ -429,7 +459,9 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>30</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -460,9 +492,11 @@
 </gram>
 <deepord>34</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0212-001-p1s0a6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0212-001-p1s0a29">
@@ -530,7 +564,9 @@
 <a>
 <lex.rf>a#a-wsj0212-001-p1s0W44-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0212-001-p1s0a30</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0212-001-p1s0a30</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -542,7 +578,9 @@
 <LM id="T-wsj0212-001-p1s0a38">
 <a>
 <lex.rf>a#a-wsj0212-001-p1s0W46-Ta</lex.rf>
-<aux.rf>a#a-wsj0212-001-p1s0W45-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0212-001-p1s0W45-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>pondělí</t_lemma>
@@ -559,6 +597,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Raymond E. Ross, 53 years old, formerly group vice president, U.S. plastics machinery, at this machine tool, plastics machinery and robots concern, was named senior vice president, industrial systems, succeeding David A. Entrekin, who resigned Monday.</eng_sentence>
 </LM>

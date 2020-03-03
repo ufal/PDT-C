@@ -721,12 +721,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velkými písmeny</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -753,11 +747,6 @@
 </annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2075,12 +2064,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velkými písmeny</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -2261,12 +2244,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velkými písmeny</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>

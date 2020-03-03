@@ -11,7 +11,8 @@
 <LM id="T-wsj0099-001-p1s0">
 <atree.rf>a#a-wsj0099-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0099-001-p1s0a1">
+<children>
+<LM id="T-wsj0099-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0099-001-p1s0W16-Ta</lex.rf>
 </a>
@@ -45,7 +46,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0099-001-p1s0a34">
+<children>
+<LM id="T-wsj0099-001-p1s0a34">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -104,6 +106,7 @@
 <deepord>7</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0099-001-p1s0a10">
@@ -142,7 +145,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0099-001-p1s0a35">
+<children>
+<LM id="T-wsj0099-001-p1s0a35">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -186,6 +190,7 @@
 <deepord>16</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -207,7 +212,9 @@
 <LM id="T-wsj0099-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj0099-001-p1s0W19-Ta</lex.rf>
-<aux.rf>a#a-wsj0099-001-p1s0W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0099-001-p1s0W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>námořnictvo</t_lemma>
@@ -220,7 +227,9 @@
 <LM id="T-wsj0099-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj0099-001-p1s0W21-Ta</lex.rf>
-<aux.rf>a#a-wsj0099-001-p1s0W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0099-001-p1s0W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výše</t_lemma>
@@ -229,7 +238,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj0099-001-p1s0a23">
+<children>
+<LM id="T-wsj0099-001-p1s0a23">
 <a>
 <lex.rf>a#a-wsj0099-001-p1s0W23-Ta</lex.rf>
 </a>
@@ -266,10 +276,7 @@
 <deepord>23</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0099-001-p1s0a27">
@@ -284,7 +291,9 @@
 <LM id="T-wsj0099-001-p1s0a26">
 <a>
 <lex.rf>a#a-wsj0099-001-p1s0W26-Ta</lex.rf>
-<aux.rf>a#a-wsj0099-001-p1s0W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0099-001-p1s0W25-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>software</t_lemma>
@@ -298,7 +307,9 @@
 <LM id="T-wsj0099-001-p1s0a28">
 <a>
 <lex.rf>a#a-wsj0099-001-p1s0W28-Ta</lex.rf>
-<aux.rf>a#a-wsj0099-001-p1s0W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0099-001-p1s0W25-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>servis</t_lemma>
@@ -308,7 +319,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>26</deepord>
-<children id="T-wsj0099-001-p1s0a29">
+<children>
+<LM id="T-wsj0099-001-p1s0a29">
 <a>
 <lex.rf>a#a-wsj0099-001-p1s0W29-Ta</lex.rf>
 </a>
@@ -319,6 +331,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>27</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -326,7 +339,9 @@
 <LM id="T-wsj0099-001-p1s0a31">
 <a>
 <lex.rf>a#a-wsj0099-001-p1s0W31-Ta</lex.rf>
-<aux.rf>a#a-wsj0099-001-p1s0W30-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0099-001-p1s0W30-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>období</t_lemma>
@@ -335,7 +350,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>28</deepord>
-<children id="T-wsj0099-001-p1s0a33">
+<children>
+<LM id="T-wsj0099-001-p1s0a33">
 <a>
 <lex.rf>a#a-wsj0099-001-p1s0W33-Ta</lex.rf>
 </a>
@@ -346,7 +362,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>30</deepord>
-<children id="T-wsj0099-001-p1s0a32">
+<children>
+<LM id="T-wsj0099-001-p1s0a32">
 <a>
 <lex.rf>a#a-wsj0099-001-p1s0W32-Ta</lex.rf>
 </a>
@@ -357,19 +374,23 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>29</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Zenith Data Systems Corp., a subsidiary of Zenith Electronics Corp., received a $534 million Navy contract for software and services of microcomputers over an 84-month period.</eng_sentence>
 </LM>
 <LM id="T-wsj0099-001-p1s1">
 <atree.rf>a#a-wsj0099-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0099-001-p1s1a1">
+<children>
+<LM id="T-wsj0099-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0099-001-p1s1W6-Ta</lex.rf>
 </a>
@@ -393,7 +414,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0099-001-p1s1a25">
+<children>
+<LM id="T-wsj0099-001-p1s1a25">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -437,6 +459,7 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0099-001-p1s1a7">
@@ -454,7 +477,9 @@
 <LM id="T-wsj0099-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj0099-001-p1s1W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0099-001-p1s1W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0099-001-p1s1W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letectvo</t_lemma>
@@ -463,7 +488,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0099-001-p1s1a10">
+<children>
+<LM id="T-wsj0099-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj0099-001-p1s1W9-Ta</lex.rf>
 </a>
@@ -474,12 +500,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0099-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj0099-001-p1s1W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0099-001-p1s1W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0099-001-p1s1W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výše</t_lemma>
@@ -488,7 +517,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0099-001-p1s1a14">
+<children>
+<LM id="T-wsj0099-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj0099-001-p1s1W14-Ta</lex.rf>
 </a>
@@ -525,16 +555,15 @@
 <deepord>14</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0099-001-p1s1a17">
 <a>
 <lex.rf>a#a-wsj0099-001-p1s1W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0099-001-p1s1W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0099-001-p1s1W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letoun</t_lemma>
@@ -555,7 +584,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj0099-001-p1s1a19">
+<children>
+<LM id="T-wsj0099-001-p1s1a19">
 <a>
 <lex.rf>a#a-wsj0099-001-p1s1W18-Ta</lex.rf>
 </a>
@@ -566,6 +596,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0099-001-p1s1a20">
@@ -579,7 +610,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj0099-001-p1s1a26">
+<children>
+<LM id="T-wsj0099-001-p1s1a26">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -620,20 +652,23 @@
 <deepord>22</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Rockwell International Corp. won a $130.7 million Air Force contract for AC-130U gunship replacement aircraft.</eng_sentence>
 </LM>
 <LM id="T-wsj0099-001-p1s2">
 <atree.rf>a#a-wsj0099-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0099-001-p1s2a1">
+<children>
+<LM id="T-wsj0099-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0099-001-p1s2W6-Ta</lex.rf>
 </a>
@@ -657,7 +692,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0099-001-p1s2a22">
+<children>
+<LM id="T-wsj0099-001-p1s2a22">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -704,6 +740,7 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0099-001-p1s2a7">
@@ -721,7 +758,9 @@
 <LM id="T-wsj0099-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj0099-001-p1s2W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0099-001-p1s2W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0099-001-p1s2W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letectvo</t_lemma>
@@ -730,7 +769,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0099-001-p1s2a10">
+<children>
+<LM id="T-wsj0099-001-p1s2a10">
 <a>
 <lex.rf>a#a-wsj0099-001-p1s2W9-Ta</lex.rf>
 </a>
@@ -741,17 +781,22 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0099-001-p1s1a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0099-001-p1s2a12">
 <a>
 <lex.rf>a#a-wsj0099-001-p1s2W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0099-001-p1s2W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0099-001-p1s2W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výše</t_lemma>
@@ -760,7 +805,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0099-001-p1s2a14">
+<children>
+<LM id="T-wsj0099-001-p1s2a14">
 <a>
 <lex.rf>a#a-wsj0099-001-p1s2W14-Ta</lex.rf>
 </a>
@@ -797,16 +843,15 @@
 <deepord>14</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0099-001-p1s2a17">
 <a>
 <lex.rf>a#a-wsj0099-001-p1s2W21-Ta</lex.rf>
-<aux.rf>a#a-wsj0099-001-p1s2W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0099-001-p1s2W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zařízení</t_lemma>
@@ -867,20 +912,24 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Martin Marietta Corp. was given a $29.9 million Air Force contract for low-altitude navigation and targeting equipment.</eng_sentence>
 </LM>
 <LM id="T-wsj0099-001-p1s3">
 <atree.rf>a#a-wsj0099-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0099-001-p1s3a1">
+<children>
+<LM id="T-wsj0099-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj0099-001-p1s3W6-Ta</lex.rf>
 </a>
@@ -904,7 +953,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0099-001-p1s3a20">
+<children>
+<LM id="T-wsj0099-001-p1s3a20">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -954,6 +1004,7 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0099-001-p1s3a7">
@@ -971,7 +1022,9 @@
 <LM id="T-wsj0099-001-p1s3a9">
 <a>
 <lex.rf>a#a-wsj0099-001-p1s3W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0099-001-p1s3W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0099-001-p1s3W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letectvo</t_lemma>
@@ -980,7 +1033,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0099-001-p1s3a10">
+<children>
+<LM id="T-wsj0099-001-p1s3a10">
 <a>
 <lex.rf>a#a-wsj0099-001-p1s3W9-Ta</lex.rf>
 </a>
@@ -991,17 +1045,22 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0099-001-p1s2a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0099-001-p1s3a12">
 <a>
 <lex.rf>a#a-wsj0099-001-p1s3W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0099-001-p1s3W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0099-001-p1s3W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výše</t_lemma>
@@ -1010,7 +1069,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0099-001-p1s3a14">
+<children>
+<LM id="T-wsj0099-001-p1s3a14">
 <a>
 <lex.rf>a#a-wsj0099-001-p1s3W14-Ta</lex.rf>
 </a>
@@ -1047,16 +1107,15 @@
 <deepord>14</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0099-001-p1s3a17">
 <a>
 <lex.rf>a#a-wsj0099-001-p1s3W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0099-001-p1s3W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0099-001-p1s3W16-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9812f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1077,9 +1136,11 @@
 </gram>
 <deepord>16</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0099-001-p1s3a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0099-001-p1s3a18">
@@ -1093,7 +1154,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj0099-001-p1s3a19">
+<children>
+<LM id="T-wsj0099-001-p1s3a19">
 <a>
 <lex.rf>a#a-wsj0099-001-p1s3W18-Ta</lex.rf>
 </a>
@@ -1104,17 +1166,21 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>17</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Federal Data Corp. got a $29.4 million Air Force contract for intelligence data handling.</eng_sentence>
 </LM>

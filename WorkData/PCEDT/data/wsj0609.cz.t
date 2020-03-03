@@ -305,12 +305,6 @@
 <src>PCEDT</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>akuzativ</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0609-001-p1s1a3">
 <a>
@@ -982,12 +976,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1366,12 +1354,6 @@
 <sempos>n.pron.indef</sempos>
 </gram>
 <deepord>16</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>instrumentál</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0609-001-p1s5a28">
 <nodetype>complex</nodetype>
@@ -1638,12 +1620,6 @@
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2168,12 +2144,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2394,12 +2364,6 @@
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0609-001-p1s8a18">
 <a>
@@ -2566,12 +2530,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -2724,12 +2682,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0609-001-p1s9a20">
 <a>
@@ -2782,12 +2734,6 @@
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>substantivum</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3293,10 +3239,6 @@
 <type>New valency frame</type>
 <text>P</text>
 </LM>
-<LM>
-<type>M-tag</type>
-<text>akuzativ</text>
-</LM>
 </annot_comment>
 </LM>
 </children>
@@ -3544,12 +3486,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3655,16 +3591,6 @@
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>akuzativ</text>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0609-001-p1s12a9">
 <a>
@@ -3767,12 +3693,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -4083,10 +4003,6 @@
 <LM>
 <type>New valency frame</type>
 <text>P</text>
-</LM>
-<LM>
-<type>M-tag</type>
-<text>akuzativ</text>
 </LM>
 </annot_comment>
 </LM>
@@ -4426,12 +4342,6 @@
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0609-001-p1s14a31">
 <a>
@@ -4856,12 +4766,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>akuzativ</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5193,12 +5097,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -5467,12 +5365,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>adjektivum</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6865,12 +6757,6 @@
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>nominativ</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0609-001-p1s23a32">
 <a>
@@ -6914,12 +6800,6 @@
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7069,12 +6949,6 @@
 <t_lemma>I</t_lemma>
 <functor>ID</functor>
 <deepord>10</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>není spojka</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7328,12 +7202,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0609-001-p1s24a34">
 <a>
@@ -7361,12 +7229,6 @@
 <deepord>28</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7474,12 +7336,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>36</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8249,12 +8105,6 @@
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>akuzativ</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0609-001-p1s26a16">
 <a>
@@ -8764,12 +8614,6 @@
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>akuzativ</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0609-001-p1s27a12">
 <a>
@@ -8866,12 +8710,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -9857,12 +9695,6 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>nominativ plurálu</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0609-001-p1s29a42">
 <a>
@@ -10434,12 +10266,6 @@
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -11897,12 +11723,6 @@
 <sempos>n.pron.indef</sempos>
 </gram>
 <deepord>13</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>akuzativ</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0609-001-p1s36a30">
 <nodetype>complex</nodetype>
@@ -12680,12 +12500,6 @@
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>nominativ</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0609-001-p1s39a22">
 <a>
@@ -13624,12 +13438,6 @@
 <deepord>3</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>nominativ</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0609-001-p1s42a9">
 <a>
@@ -13919,12 +13727,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>27</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0609-001-p1s42a40">
 <a>
@@ -13944,12 +13746,6 @@
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -15418,12 +15214,6 @@
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0609-001-p1s47a31">
 <a>
@@ -15458,12 +15248,6 @@
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -15675,12 +15459,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>29</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <annot_comment>
@@ -15966,12 +15744,6 @@
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0609-001-p1s47a60">
 <a>
@@ -16009,12 +15781,6 @@
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

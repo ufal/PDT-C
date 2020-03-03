@@ -11,7 +11,8 @@
 <LM id="T-wsj0025-001-p1s0">
 <atree.rf>a#a-wsj0025-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0025-001-p1s0a1">
+<children>
+<LM id="T-wsj0025-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0025-001-p1s0W9-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0025-001-p1s0a36">
+<children>
+<LM id="T-wsj0025-001-p1s0a36">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -109,12 +111,15 @@
 <deepord>9</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0025-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj0025-001-p1s0W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0025-001-p1s0W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0025-001-p1s0W11-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w598f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -135,9 +140,11 @@
 </gram>
 <deepord>11</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0025-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0025-001-p1s0a13">
@@ -168,7 +175,9 @@
 <a>
 <lex.rf>a#a-wsj0025-001-p1s0W14-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0025-001-p1s0a35</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0025-001-p1s0a35</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -227,7 +236,9 @@
 <LM id="T-wsj0025-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj0025-001-p1s0W21-Ta</lex.rf>
-<aux.rf>a#a-wsj0025-001-p1s0W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0025-001-p1s0W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milion</t_lemma>
@@ -262,10 +273,6 @@
 <deepord>22</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0025-001-p1s0a23">
 <a>
@@ -278,7 +285,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj0025-001-p1s0a24">
+<children>
+<LM id="T-wsj0025-001-p1s0a24">
 <a>
 <lex.rf>a#a-wsj0025-001-p1s0W24-Ta</lex.rf>
 </a>
@@ -289,7 +297,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj0025-001-p1s0a25">
+<children>
+<LM id="T-wsj0025-001-p1s0a25">
 <a>
 <lex.rf>a#a-wsj0025-001-p1s0W31-Ta</lex.rf>
 </a>
@@ -322,7 +331,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj0025-001-p1s0a28">
+<children>
+<LM id="T-wsj0025-001-p1s0a28">
 <a>
 <lex.rf>a#a-wsj0025-001-p1s0W26-Ta</lex.rf>
 </a>
@@ -334,10 +344,13 @@
 </gram>
 <deepord>26</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0025-001-p1s0a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0025-001-p1s0a29">
@@ -378,7 +391,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>32</deepord>
-<children id="T-wsj0025-001-p1s0a33">
+<children>
+<LM id="T-wsj0025-001-p1s0a33">
 <a>
 <lex.rf>a#a-wsj0025-001-p1s0W32-Ta</lex.rf>
 </a>
@@ -389,10 +403,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>31</deepord>
-</children>
 </LM>
-</children>
-</children>
 </children>
 </LM>
 </children>
@@ -400,16 +411,26 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>R.P. Scherer Corp. said it completed the $10.2 million sale of its Southern Optical subsidiary to a group led by the unit's president, Thomas R. Sloan, and other managers.</eng_sentence>
 </LM>
 <LM id="T-wsj0025-001-p1s1">
 <atree.rf>a#a-wsj0025-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0025-001-p1s1a11">
+<children>
+<LM id="T-wsj0025-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj0025-001-p1s1W24-Ta</lex.rf>
-<aux.rf>a#a-wsj0025-001-p1s1W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0025-001-p1s1W19-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5635f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -423,7 +444,9 @@
 <LM id="T-wsj0025-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj0025-001-p1s1W2-Ta</lex.rf>
-<aux.rf>a#a-wsj0025-001-p1s1W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0025-001-p1s1W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akvizice</t_lemma>
@@ -444,7 +467,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0025-001-p1s1a37">
+<children>
+<LM id="T-wsj0025-001-p1s1a37">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -503,11 +527,14 @@
 <deepord>8</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0025-001-p1s0a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0025-001-p1s1a1">
@@ -521,7 +548,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0025-001-p1s1a2">
+<children>
+<LM id="T-wsj0025-001-p1s1a2">
 <a>
 <lex.rf>a#a-wsj0025-001-p1s1W10-Ta</lex.rf>
 </a>
@@ -532,7 +560,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0025-001-p1s1a3">
+<children>
+<LM id="T-wsj0025-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj0025-001-p1s1W11-Ta</lex.rf>
 </a>
@@ -543,7 +572,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0025-001-p1s1a40">
+<children>
+<LM id="T-wsj0025-001-p1s1a40">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -587,8 +617,11 @@
 <deepord>15</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0025-001-p1s1a7">
@@ -606,7 +639,9 @@
 <LM id="T-wsj0025-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj0025-001-p1s1W18-Ta</lex.rf>
-<aux.rf>a#a-wsj0025-001-p1s1W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0025-001-p1s1W16-Ta</LM>
+</aux.rf>
 </a>
 <coref_special>exoph</coref_special>
 <nodetype>complex</nodetype>
@@ -616,7 +651,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj0025-001-p1s1a10">
+<children>
+<LM id="T-wsj0025-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj0025-001-p1s1W17-Ta</lex.rf>
 </a>
@@ -627,6 +663,7 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>17</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -666,7 +703,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj0025-001-p1s1a24">
+<children>
+<LM id="T-wsj0025-001-p1s1a24">
 <a>
 <lex.rf>a#a-wsj0025-001-p1s1W22-Ta</lex.rf>
 </a>
@@ -677,19 +715,24 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>21</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0025-001-p1s1a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0025-001-p1s1a25">
 <a>
 <lex.rf>a#a-wsj0025-001-p1s1W25-Ta</lex.rf>
-<aux.rf>a#a-wsj0025-001-p1s1W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0025-001-p1s1W26-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9336f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -701,7 +744,9 @@
 <deepord>25</deepord>
 <children>
 <LM id="T-wsj0025-001-p1s1a34">
-<coref_gram.rf>T-wsj0025-001-p1s1a21</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0025-001-p1s1a21</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -736,7 +781,9 @@
 <a>
 <lex.rf>a#a-wsj0025-001-p1s1W28-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0025-001-p1s1a34</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0025-001-p1s1a34</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -769,7 +816,9 @@
 <a>
 <lex.rf>a#a-wsj0025-001-p1s1W31-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0025-001-p1s1a27</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0025-001-p1s1a27</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -797,13 +846,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Following the acquisition of R.P. Scherer by a buy-out group led by Shearson Lehman Hutton earlier this year, the maker of gelatin capsules decided to divest itself of certain of its non-encapsulating businesses.</eng_sentence>
 </LM>
 <LM id="T-wsj0025-001-p1s2">
 <atree.rf>a#a-wsj0025-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0025-001-p1s2a1">
+<children>
+<LM id="T-wsj0025-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0025-001-p1s2W5-Ta</lex.rf>
 </a>
@@ -827,7 +878,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0025-001-p1s2a4">
+<children>
+<LM id="T-wsj0025-001-p1s2a4">
 <a>
 <lex.rf>a#a-wsj0025-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -838,7 +890,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0025-001-p1s2a9">
+<children>
+<LM id="T-wsj0025-001-p1s2a9">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -870,17 +923,23 @@
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0025-001-p1s0a28</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0025-001-p1s0a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0025-001-p1s2a6">
@@ -894,7 +953,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0025-001-p1s2a7">
+<children>
+<LM id="T-wsj0025-001-p1s2a7">
 <a>
 <lex.rf>a#a-wsj0025-001-p1s2W8-Ta</lex.rf>
 </a>
@@ -905,7 +965,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0025-001-p1s2a8">
+<children>
+<LM id="T-wsj0025-001-p1s2a8">
 <a>
 <lex.rf>a#a-wsj0025-001-p1s2W7-Ta</lex.rf>
 </a>
@@ -916,15 +977,20 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0025-001-p1s1a25</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The sale of Southern Optical is a part of the program.</eng_sentence>
 </LM>

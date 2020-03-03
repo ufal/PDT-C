@@ -365,12 +365,6 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>26</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>jeho</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0642-001-p1s0a34">
 <a>

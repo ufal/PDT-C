@@ -11,7 +11,8 @@
 <LM id="T-wsj0006-001-p1s0">
 <atree.rf>a#a-wsj0006-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0006-001-p1s0a1">
+<children>
+<LM id="T-wsj0006-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0006-001-p1s0W7-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0006-001-p1s0a34">
+<children>
+<LM id="T-wsj0006-001-p1s0a34">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -88,12 +90,15 @@
 <deepord>7</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0006-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj0006-001-p1s0W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0006-001-p1s0W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0006-001-p1s0W9-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6054f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -141,9 +146,11 @@
 </gram>
 <deepord>11</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0006-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0006-001-p1s0a15">
@@ -232,7 +239,9 @@
 <LM id="T-wsj0006-001-p1s0a23">
 <a>
 <lex.rf>a#a-wsj0006-001-p1s0W22-Ta</lex.rf>
-<aux.rf>a#a-wsj0006-001-p1s0W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0006-001-p1s0W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dolar</t_lemma>
@@ -258,7 +267,9 @@
 <LM id="T-wsj0006-001-p1s0a25">
 <a>
 <lex.rf>a#a-wsj0006-001-p1s0W24-Ta</lex.rf>
-<aux.rf>a#a-wsj0006-001-p1s0W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0006-001-p1s0W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akcie</t_lemma>
@@ -273,7 +284,9 @@
 <LM id="T-wsj0006-001-p1s0a29">
 <a>
 <lex.rf>a#a-wsj0006-001-p1s0W29-Ta</lex.rf>
-<aux.rf>a#a-wsj0006-001-p1s0W27-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0006-001-p1s0W27-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milion</t_lemma>
@@ -309,29 +322,29 @@
 <deepord>26</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Pacific First Financial Corp. said shareholders approved its acquisition by Royal Trustco Ltd. of Toronto for $27 a share, or $212 million.</eng_sentence>
 </LM>
 <LM id="T-wsj0006-001-p1s1">
 <atree.rf>a#a-wsj0006-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0006-001-p1s1a1">
+<children>
+<LM id="T-wsj0006-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0006-001-p1s1W5-Ta</lex.rf>
 </a>
@@ -401,15 +414,19 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0006-001-p1s0a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0006-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj0006-001-p1s1W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0006-001-p1s1W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0006-001-p1s1W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2608f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -430,9 +447,11 @@
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0006-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0006-001-p1s1a12">
@@ -451,9 +470,11 @@
 <functor>ACT</functor>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0006-001-p1s1a20</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0006-001-p1s1a9">
@@ -489,9 +510,11 @@
 <functor>ACT</functor>
 <deepord>11</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0006-001-p1s1a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0006-001-p1s1a24">
@@ -501,9 +524,11 @@
 <functor>PAT</functor>
 <deepord>13</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0006-001-p1s0a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0006-001-p1s1a25">
@@ -513,21 +538,27 @@
 <functor>ADDR</functor>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0006-001-p1s1a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0006-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj0006-001-p1s1W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0006-001-p1s1W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0006-001-p1s1W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>regulátor</t_lemma>
@@ -539,8 +570,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0006-001-p1s1a14">
@@ -569,15 +602,19 @@
 </gram>
 <deepord>18</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0006-001-p1s1a24</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0006-001-p1s1a17">
 <a>
 <lex.rf>a#a-wsj0006-001-p1s1W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0006-001-p1s1W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0006-001-p1s1W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>konec</t_lemma>
@@ -586,7 +623,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj0006-001-p1s1a18">
+<children>
+<LM id="T-wsj0006-001-p1s1a18">
 <a>
 <lex.rf>a#a-wsj0006-001-p1s1W18-Ta</lex.rf>
 </a>
@@ -598,12 +636,15 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -611,6 +652,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The thrift holding company said it expects to obtain regulatory approval and complete the transaction by year-end.</eng_sentence>
 </LM>

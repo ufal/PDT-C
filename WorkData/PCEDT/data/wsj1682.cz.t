@@ -777,12 +777,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>brada</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1682-001-p1s2a28">
 <a>
@@ -1637,12 +1631,6 @@
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>brada</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1682-001-p1s5a4">
 <a>
@@ -1830,10 +1818,6 @@
 <LM>
 <type>Typo</type>
 <text>chybí e: Breeden</text>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>Bredena</text>
 </LM>
 </annot_comment>
 </LM>
@@ -3512,12 +3496,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Džibrila</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3644,12 +3622,6 @@
 <src>PCEDT</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno t-lemma "ho"</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1682-001-p1s11a11">
 <a>
@@ -3748,12 +3720,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno jako sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1682-001-p1s12a9">
 <a>
@@ -3852,12 +3818,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno jako Foleye</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1682-001-p1s12a16">
 <a>
@@ -4949,12 +4909,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno jako Grammova</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1682-001-p1s15a19">
 <a>
@@ -10111,12 +10065,6 @@
 <deepord>1</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>v tagu špatný pád: gen sg místo nom pl</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <eng_sentence>MINOR MEMOS:</eng_sentence>

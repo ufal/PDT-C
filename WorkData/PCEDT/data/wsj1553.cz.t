@@ -11,7 +11,8 @@
 <LM id="T-wsj1553-001-p1s0">
 <atree.rf>a#a-wsj1553-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1553-001-p1s0a11">
+<children>
+<LM id="T-wsj1553-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s0W5-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1553-001-p1s0a42">
+<children>
+<LM id="T-wsj1553-001-p1s0a42">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -70,12 +72,15 @@
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1553-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s0W17-Ta</lex.rf>
-<aux.rf>a#a-wsj1553-001-p1s0W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1553-001-p1s0W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w598f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -107,7 +112,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1553-001-p1s0a4">
+<children>
+<LM id="T-wsj1553-001-p1s0a4">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s0W8-Ta</lex.rf>
 </a>
@@ -119,10 +125,13 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1553-001-p1s0a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1553-001-p1s0a5">
@@ -137,7 +146,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1553-001-p1s0a43">
+<children>
+<LM id="T-wsj1553-001-p1s0a43">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -184,6 +194,7 @@
 <deepord>16</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -211,7 +222,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1553-001-p1s0a39">
+<children>
+<LM id="T-wsj1553-001-p1s0a39">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -276,6 +288,7 @@
 <deepord>25</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1553-001-p1s0a27">
@@ -290,7 +303,9 @@
 <LM id="T-wsj1553-001-p1s0a29">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s0W28-Ta</lex.rf>
-<aux.rf>a#a-wsj1553-001-p1s0W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1553-001-p1s0W26-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -330,7 +345,9 @@
 <LM id="T-wsj1553-001-p1s0a31">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s0W31-Ta</lex.rf>
-<aux.rf>a#a-wsj1553-001-p1s0W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1553-001-p1s0W26-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5059f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -352,9 +369,11 @@
 </gram>
 <deepord>30</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1553-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1553-001-p1s0a32">
@@ -368,10 +387,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>32</deepord>
-<children id="T-wsj1553-001-p1s0a34">
+<children>
+<LM id="T-wsj1553-001-p1s0a34">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s0W34-Ta</lex.rf>
-<aux.rf>a#a-wsj1553-001-p1s0W33-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1553-001-p1s0W33-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodnota</t_lemma>
@@ -380,7 +402,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>33</deepord>
-<children id="T-wsj1553-001-p1s0a36">
+<children>
+<LM id="T-wsj1553-001-p1s0a36">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s0W36-Ta</lex.rf>
 </a>
@@ -417,13 +440,17 @@
 <deepord>36</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -433,13 +460,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Lynch Corp. said its Lynch Telephone Corp. subsidiary completed the acquisition of Western New Mexico Telephone Co. for $20 million plus assumption of $24 million of debt.</eng_sentence>
 </LM>
 <LM id="T-wsj1553-001-p1s1">
 <atree.rf>a#a-wsj1553-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1553-001-p1s1a1">
+<children>
+<LM id="T-wsj1553-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s1W9-Ta</lex.rf>
 </a>
@@ -517,7 +546,9 @@
 </LM>
 <LM id="T-wsj1553-001-p1s1a24">
 <a>
-<aux.rf>a#a-wsj1553-001-p1s1W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1553-001-p1s1W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -553,9 +584,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1553-001-p1s0a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1553-001-p1s1a10">
@@ -637,7 +670,9 @@
 <LM id="T-wsj1553-001-p1s1a17">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s1W17-Ta</lex.rf>
-<aux.rf>a#a-wsj1553-001-p1s1W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1553-001-p1s1W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>tržba</t_lemma>
@@ -646,7 +681,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1553-001-p1s1a19">
+<children>
+<LM id="T-wsj1553-001-p1s1a19">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s1W20-Ta</lex.rf>
 </a>
@@ -661,7 +697,9 @@
 <LM id="T-wsj1553-001-p1s1a20">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s1W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1553-001-p1s1W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1553-001-p1s1W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>10</t_lemma>
@@ -684,20 +722,25 @@
 <deepord>20</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>A CPHR({zisk}) Společnost měla vlnoni čistý zisk 1,9 milionu dolarů.</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 <eng_sentence>Western New Mexico Telephone, Silver City, had net income of $1.9 million on revenue of about $10 million last year.</eng_sentence>
 </LM>
 <LM id="T-wsj1553-001-p1s2">
 <atree.rf>a#a-wsj1553-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1553-001-p1s2a1">
+<children>
+<LM id="T-wsj1553-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s2W1-Ta</lex.rf>
 </a>
@@ -722,9 +765,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1553-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1553-001-p1s2a3">
@@ -780,7 +825,9 @@
 <a>
 <lex.rf>a#a-wsj1553-001-p1s2W7-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1553-001-p1s2a3</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1553-001-p1s2a3</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -842,7 +889,9 @@
 <LM id="T-wsj1553-001-p1s2a14">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s2W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1553-001-p1s2W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1553-001-p1s2W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>jihozápad</t_lemma>
@@ -851,7 +900,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1553-001-p1s2a15">
+<children>
+<LM id="T-wsj1553-001-p1s2a15">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s2W16-Ta</lex.rf>
 </a>
@@ -862,7 +912,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1553-001-p1s2a16">
+<children>
+<LM id="T-wsj1553-001-p1s2a16">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s2W15-Ta</lex.rf>
 </a>
@@ -873,12 +924,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</annot_comment>
-</children>
-</children>
 </LM>
 </children>
 </LM>
@@ -887,13 +932,19 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>It is an independent phone company with a service area of 15,000 square miles in southwest New Mexico.</eng_sentence>
 </LM>
 <LM id="T-wsj1553-001-p1s3">
 <atree.rf>a#a-wsj1553-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1553-001-p1s3a1">
+<children>
+<LM id="T-wsj1553-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s3W2-Ta</lex.rf>
 </a>
@@ -916,9 +967,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1553-001-p1s2a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1553-001-p1s3a2">
@@ -948,7 +1001,9 @@
 <LM id="T-wsj1553-001-p1s3a5">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s3W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1553-001-p1s3W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1553-001-p1s3W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>franšíza</t_lemma>
@@ -957,7 +1012,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1553-001-p1s3a6">
+<children>
+<LM id="T-wsj1553-001-p1s3a6">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s3W8-Ta</lex.rf>
 </a>
@@ -1010,7 +1066,9 @@
 <a>
 <lex.rf>a#a-wsj1553-001-p1s3W10-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1553-001-p1s3a6</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1553-001-p1s3a6</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -1030,7 +1088,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1553-001-p1s3a13">
+<children>
+<LM id="T-wsj1553-001-p1s3a13">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s3W13-Ta</lex.rf>
 </a>
@@ -1041,7 +1100,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1553-001-p1s3a14">
+<children>
+<LM id="T-wsj1553-001-p1s3a14">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s3W15-Ta</lex.rf>
 </a>
@@ -1052,7 +1112,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1553-001-p1s3a15">
+<children>
+<LM id="T-wsj1553-001-p1s3a15">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s3W14-Ta</lex.rf>
 </a>
@@ -1063,32 +1124,36 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1553-001-p1s2a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>It is also a partner in the wireline cellular franchise covering most of western New Mexico.</eng_sentence>
 </LM>
 <LM id="T-wsj1553-001-p1s4">
 <atree.rf>a#a-wsj1553-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1553-001-p1s4a1">
+<children>
+<LM id="T-wsj1553-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s4W3-Ta</lex.rf>
 </a>
@@ -1112,7 +1177,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1553-001-p1s4a3">
+<children>
+<LM id="T-wsj1553-001-p1s4a3">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s4W1-Ta</lex.rf>
 </a>
@@ -1123,11 +1189,14 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1553-001-p1s0a18</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1553-001-p1s4a4">
@@ -1153,7 +1222,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1553-001-p1s4a6">
+<children>
+<LM id="T-wsj1553-001-p1s4a6">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s4W6-Ta</lex.rf>
 </a>
@@ -1164,17 +1234,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1553-001-p1s0a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1553-001-p1s4a8">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s4W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1553-001-p1s4W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1553-001-p1s4W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3600f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1206,20 +1281,24 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The transaction represents Lynch's entry into the telephone business.</eng_sentence>
 </LM>
 <LM id="T-wsj1553-001-p1s5">
 <atree.rf>a#a-wsj1553-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1553-001-p1s5a1">
+<children>
+<LM id="T-wsj1553-001-p1s5a1">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s5W22-Ta</lex.rf>
 </a>
@@ -1273,7 +1352,9 @@
 <a>
 <lex.rf>a#a-wsj1553-001-p1s5W4-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1553-001-p1s5a2</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1553-001-p1s5a2</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -1293,7 +1374,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1553-001-p1s5a9">
+<children>
+<LM id="T-wsj1553-001-p1s5a9">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s5W13-Ta</lex.rf>
 </a>
@@ -1305,7 +1387,9 @@
 <LM id="T-wsj1553-001-p1s5a10">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s5W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1553-001-p1s5W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1553-001-p1s5W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>televize</t_lemma>
@@ -1319,7 +1403,9 @@
 <LM id="T-wsj1553-001-p1s5a12">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s5W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1553-001-p1s5W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1553-001-p1s5W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>služba</t_lemma>
@@ -1329,7 +1415,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1553-001-p1s5a13">
+<children>
+<LM id="T-wsj1553-001-p1s5a13">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s5W12-Ta</lex.rf>
 </a>
@@ -1340,7 +1427,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1553-001-p1s5a14">
+<children>
+<LM id="T-wsj1553-001-p1s5a14">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s5W11-Ta</lex.rf>
 </a>
@@ -1351,13 +1439,17 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1553-001-p1s5a15">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s5W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1553-001-p1s5W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1553-001-p1s5W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zařízení</t_lemma>
@@ -1367,7 +1459,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1553-001-p1s5a18">
+<children>
+<LM id="T-wsj1553-001-p1s5a18">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s5W18-Ta</lex.rf>
 </a>
@@ -1379,7 +1472,9 @@
 <LM id="T-wsj1553-001-p1s5a17">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s5W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1553-001-p1s5W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1553-001-p1s5W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výroba</t_lemma>
@@ -1389,7 +1484,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1553-001-p1s5a19">
+<children>
+<LM id="T-wsj1553-001-p1s5a19">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s5W17-Ta</lex.rf>
 </a>
@@ -1400,12 +1496,15 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1553-001-p1s5a20">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s5W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1553-001-p1s5W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1553-001-p1s5W15-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9809f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1438,37 +1537,49 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>A CPHR({účast}) Společnost má účast v televizi a zařízeních pro výrobu skla.</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1553-001-p1s4a5</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1553-001-p1s5a25">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s5W25-Ta</lex.rf>
-<aux.rf>a#a-wsj1553-001-p1s5W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1553-001-p1s5W24-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3462f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1489,9 +1600,11 @@
 </gram>
 <deepord>19</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1553-001-p1s5a6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1553-001-p1s5a26">
@@ -1505,7 +1618,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj1553-001-p1s5a27">
+<children>
+<LM id="T-wsj1553-001-p1s5a27">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s5W26-Ta</lex.rf>
 </a>
@@ -1516,12 +1630,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>22</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1553-001-p1s5a29">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s5W30-Ta</lex.rf>
-<aux.rf>a#a-wsj1553-001-p1s5W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1553-001-p1s5W28-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>průmysl</t_lemma>
@@ -1530,7 +1647,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj1553-001-p1s5a30">
+<children>
+<LM id="T-wsj1553-001-p1s5a30">
 <a>
 <lex.rf>a#a-wsj1553-001-p1s5W29-Ta</lex.rf>
 </a>
@@ -1541,11 +1659,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>24</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The company, which has interests in television, trucking services, and glass-making and food-processing equipment, said it plans to make other acquisitions in the telephone industry.</eng_sentence>
 </LM>

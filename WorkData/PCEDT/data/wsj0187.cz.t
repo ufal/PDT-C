@@ -3481,12 +3481,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>malé písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0187-001-p1s11a13">
 <nodetype>qcomplex</nodetype>

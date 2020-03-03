@@ -11,7 +11,8 @@
 <LM id="T-wsj1579-001-p1s0">
 <atree.rf>a#a-wsj1579-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1579-001-p1s0a1">
+<children>
+<LM id="T-wsj1579-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1579-001-p1s0W9-Ta</lex.rf>
 </a>
@@ -86,7 +87,9 @@
 </LM>
 <LM id="T-wsj1579-001-p1s0a31">
 <a>
-<aux.rf>a#a-wsj1579-001-p1s0W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1579-001-p1s0W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -125,7 +128,9 @@
 <LM id="T-wsj1579-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj1579-001-p1s0W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1579-001-p1s0W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1579-001-p1s0W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>námořnictvo</t_lemma>
@@ -146,10 +151,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1579-001-p1s0a14">
+<children>
+<LM id="T-wsj1579-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj1579-001-p1s0W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1579-001-p1s0W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1579-001-p1s0W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodnota</t_lemma>
@@ -158,7 +166,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1579-001-p1s0a16">
+<children>
+<LM id="T-wsj1579-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj1579-001-p1s0W16-Ta</lex.rf>
 </a>
@@ -195,17 +204,17 @@
 <deepord>16</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1579-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj1579-001-p1s0W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1579-001-p1s0W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1579-001-p1s0W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>účel</t_lemma>
@@ -214,7 +223,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1579-001-p1s0a20">
+<children>
+<LM id="T-wsj1579-001-p1s0a20">
 <a>
 <lex.rf>a#a-wsj1579-001-p1s0W20-Ta</lex.rf>
 </a>
@@ -237,9 +247,11 @@
 </gram>
 <deepord>18</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1579-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1579-001-p1s0a21">
@@ -253,7 +265,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj1579-001-p1s0a22">
+<children>
+<LM id="T-wsj1579-001-p1s0a22">
 <a>
 <lex.rf>a#a-wsj1579-001-p1s0W23-Ta</lex.rf>
 </a>
@@ -264,7 +277,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj1579-001-p1s0a23">
+<children>
+<LM id="T-wsj1579-001-p1s0a23">
 <a>
 <lex.rf>a#a-wsj1579-001-p1s0W22-Ta</lex.rf>
 </a>
@@ -275,19 +289,24 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>21</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1579-001-p1s0a26">
 <a>
 <lex.rf>a#a-wsj1579-001-p1s0W26-Ta</lex.rf>
-<aux.rf>a#a-wsj1579-001-p1s0W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1579-001-p1s0W24-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>24</deepord>
-<children id="T-wsj1579-001-p1s0a25">
+<children>
+<LM id="T-wsj1579-001-p1s0a25">
 <a>
 <lex.rf>a#a-wsj1579-001-p1s0W25-Ta</lex.rf>
 </a>
@@ -298,23 +317,29 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>23</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Avondale Industries Inc., New Orleans, received a $23 million contract from the Navy to enlarge by 50% the capacity of an auxiliary oiler.</eng_sentence>
 </LM>
 <LM id="T-wsj1579-001-p1s1">
 <atree.rf>a#a-wsj1579-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1579-001-p1s1a1">
+<children>
+<LM id="T-wsj1579-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1579-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -350,9 +375,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1579-001-p1s0a1</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1579-001-p1s1a17">
@@ -365,21 +392,27 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1579-001-p1s0a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1579-001-p1s1a4">
 <a>
 <lex.rf>a#a-wsj1579-001-p1s1W4-Ta</lex.rf>
-<aux.rf>a#a-wsj1579-001-p1s1W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1579-001-p1s1W3-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7211f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -400,9 +433,11 @@
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1579-001-p1s1a17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1579-001-p1s1a5">
@@ -416,7 +451,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1579-001-p1s1a6">
+<children>
+<LM id="T-wsj1579-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj1579-001-p1s1W5-Ta</lex.rf>
 </a>
@@ -427,12 +463,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1579-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj1579-001-p1s1W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1579-001-p1s1W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1579-001-p1s1W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>smlouva</t_lemma>
@@ -471,7 +510,9 @@
 <a>
 <lex.rf>a#a-wsj1579-001-p1s1W11-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1579-001-p1s1a8</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1579-001-p1s1a8</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>CPHR</functor>
@@ -492,15 +533,19 @@
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1579-001-p1s1a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1579-001-p1s1a15">
 <a>
 <lex.rf>a#a-wsj1579-001-p1s1W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1579-001-p1s1W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1579-001-p1s1W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -509,7 +554,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1579-001-p1s1a16">
+<children>
+<LM id="T-wsj1579-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj1579-001-p1s1W15-Ta</lex.rf>
 </a>
@@ -520,11 +566,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1579-001-p1s0a29</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -533,11 +582,14 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The award results from the Navy's exercising of an option in an earlier contract it awarded Avondale.</eng_sentence>
 </LM>

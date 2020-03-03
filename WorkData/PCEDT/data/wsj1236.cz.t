@@ -11,10 +11,13 @@
 <LM id="T-wsj1236-001-p1s0">
 <atree.rf>a#a-wsj1236-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1236-001-p1s0a1">
+<children>
+<LM id="T-wsj1236-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1236-001-p1s0W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1236-001-p1s0W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1236-001-p1s0W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w10007f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -72,10 +75,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1236-001-p1s0a7">
+<children>
+<LM id="T-wsj1236-001-p1s0a7">
 <a>
 <lex.rf>a#a-wsj1236-001-p1s0W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1236-001-p1s0W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1236-001-p1s0W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zboží</t_lemma>
@@ -84,6 +90,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -91,7 +98,9 @@
 <LM id="T-wsj1236-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj1236-001-p1s0W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1236-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1236-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>měsíc</t_lemma>
@@ -112,7 +121,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1236-001-p1s0a11">
+<children>
+<LM id="T-wsj1236-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj1236-001-p1s0W9-Ta</lex.rf>
 </a>
@@ -123,6 +133,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1236-001-p1s0a13">
@@ -136,7 +147,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1236-001-p1s0a14">
+<children>
+<LM id="T-wsj1236-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj1236-001-p1s0W13-Ta</lex.rf>
 </a>
@@ -147,6 +159,7 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -154,7 +167,9 @@
 <LM id="T-wsj1236-001-p1s0a17">
 <a>
 <lex.rf>a#a-wsj1236-001-p1s0W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1236-001-p1s0W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1236-001-p1s0W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -205,7 +220,9 @@
 <LM id="T-wsj1236-001-p1s0a22">
 <a>
 <lex.rf>a#a-wsj1236-001-p1s0W22-Ta</lex.rf>
-<aux.rf>a#a-wsj1236-001-p1s0W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1236-001-p1s0W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>miliarda</t_lemma>
@@ -242,13 +259,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The Philippine merchandise trade deficit widened to $1.71 billion during the first eight months of 1989 from $807 million a year earlier.</eng_sentence>
 </LM>
 <LM id="T-wsj1236-001-p1s1">
 <atree.rf>a#a-wsj1236-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1236-001-p1s1a1">
+<children>
+<LM id="T-wsj1236-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1236-001-p1s1W16-Ta</lex.rf>
 </a>
@@ -319,7 +338,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1236-001-p1s1a7">
+<children>
+<LM id="T-wsj1236-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj1236-001-p1s1W5-Ta</lex.rf>
 </a>
@@ -330,12 +350,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1236-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj1236-001-p1s1W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1236-001-p1s1W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1236-001-p1s1W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>příjem</t_lemma>
@@ -344,10 +367,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1236-001-p1s1a13">
+<children>
+<LM id="T-wsj1236-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj1236-001-p1s1W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1236-001-p1s1W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1236-001-p1s1W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zásilka</t_lemma>
@@ -372,7 +398,9 @@
 <LM id="T-wsj1236-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj1236-001-p1s1W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1236-001-p1s1W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1236-001-p1s1W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zahraničí</t_lemma>
@@ -383,6 +411,7 @@
 <deepord>10</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -410,10 +439,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1236-001-p1s1a19">
 <a>
@@ -430,13 +455,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Imports continued to outpace Philippine exports, despite gains in shipments abroad, the government National Statistics Office said.</eng_sentence>
 </LM>
 <LM id="T-wsj1236-001-p1s2">
 <atree.rf>a#a-wsj1236-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1236-001-p1s2a2">
+<children>
+<LM id="T-wsj1236-001-p1s2a2">
 <a>
 <lex.rf>a#a-wsj1236-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -527,7 +554,9 @@
 <a>
 <lex.rf>a#a-wsj1236-001-p1s2W7-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1236-001-p1s2a5</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1236-001-p1s2a5</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>ACT</functor>
@@ -559,15 +588,19 @@
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1236-001-p1s2a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1236-001-p1s2a12">
 <a>
 <lex.rf>a#a-wsj1236-001-p1s2W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1236-001-p1s2W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1236-001-p1s2W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>miliarda</t_lemma>
@@ -617,8 +650,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -628,7 +663,9 @@
 <LM id="T-wsj1236-001-p1s2a17">
 <a>
 <lex.rf>a#a-wsj1236-001-p1s2W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1236-001-p1s2W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1236-001-p1s2W16-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6551f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -654,7 +691,9 @@
 <LM id="T-wsj1236-001-p1s2a21">
 <a>
 <lex.rf>a#a-wsj1236-001-p1s2W21-Ta</lex.rf>
-<aux.rf>a#a-wsj1236-001-p1s2W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1236-001-p1s2W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>miliarda</t_lemma>
@@ -693,7 +732,9 @@
 <LM id="T-wsj1236-001-p1s2a25">
 <a>
 <lex.rf>a#a-wsj1236-001-p1s2W25-Ta</lex.rf>
-<aux.rf>a#a-wsj1236-001-p1s2W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1236-001-p1s2W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>miliarda</t_lemma>
@@ -732,13 +773,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Exports reached $5.12 billion, up from $4.52 billion a year earlier, while imports rose to $6.81 billion from $5.33 billion.</eng_sentence>
 </LM>
 <LM id="T-wsj1236-001-p1s3">
 <atree.rf>a#a-wsj1236-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1236-001-p1s3a1">
+<children>
+<LM id="T-wsj1236-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1236-001-p1s3W7-Ta</lex.rf>
 </a>
@@ -779,7 +822,9 @@
 <LM id="T-wsj1236-001-p1s3a7">
 <a>
 <lex.rf>a#a-wsj1236-001-p1s3W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1236-001-p1s3W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1236-001-p1s3W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>měsíc</t_lemma>
@@ -788,7 +833,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1236-001-p1s3a5">
+<children>
+<LM id="T-wsj1236-001-p1s3a5">
 <a>
 <lex.rf>a#a-wsj1236-001-p1s3W5-Ta</lex.rf>
 </a>
@@ -799,7 +845,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1236-001-p1s3a6">
+<children>
+<LM id="T-wsj1236-001-p1s3a6">
 <a>
 <lex.rf>a#a-wsj1236-001-p1s3W4-Ta</lex.rf>
 </a>
@@ -810,12 +857,16 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1236-001-p1s0a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -840,10 +891,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1236-001-p1s3a22">
+<children>
+<LM id="T-wsj1236-001-p1s3a22">
 <a>
 <lex.rf>a#a-wsj1236-001-p1s3W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1236-001-p1s3W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1236-001-p1s3W10-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -895,7 +949,9 @@
 <LM id="T-wsj1236-001-p1s3a14">
 <a>
 <lex.rf>a#a-wsj1236-001-p1s3W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1236-001-p1s3W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1236-001-p1s3W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výše</t_lemma>
@@ -904,7 +960,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1236-001-p1s3a16">
+<children>
+<LM id="T-wsj1236-001-p1s3a16">
 <a>
 <lex.rf>a#a-wsj1236-001-p1s3W16-Ta</lex.rf>
 </a>
@@ -941,12 +998,15 @@
 <deepord>16</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1236-001-p1s3a19">
 <a>
 <lex.rf>a#a-wsj1236-001-p1s3W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1236-001-p1s3W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1236-001-p1s3W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -985,16 +1045,19 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The trade deficit in the first eight months is already wider than the trade gap of $1.09 billion for all of 1988.</eng_sentence>
 </LM>
 <LM id="T-wsj1236-001-p1s4">
 <atree.rf>a#a-wsj1236-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1236-001-p1s4a1">
+<children>
+<LM id="T-wsj1236-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj1236-001-p1s4W2-Ta</lex.rf>
 </a>
@@ -1022,7 +1085,9 @@
 <LM id="T-wsj1236-001-p1s4a7">
 <a>
 <lex.rf>a#a-wsj1236-001-p1s4W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1236-001-p1s4W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1236-001-p1s4W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4852f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1060,7 +1125,9 @@
 <LM id="T-wsj1236-001-p1s4a11">
 <a>
 <lex.rf>a#a-wsj1236-001-p1s4W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1236-001-p1s4W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1236-001-p1s4W7-Ta</LM>
+</aux.rf>
 </a>
 <coref_special>exoph</coref_special>
 <nodetype>complex</nodetype>
@@ -1070,7 +1137,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1236-001-p1s4a12">
+<children>
+<LM id="T-wsj1236-001-p1s4a12">
 <a>
 <lex.rf>a#a-wsj1236-001-p1s4W8-Ta</lex.rf>
 </a>
@@ -1081,11 +1149,14 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1236-001-p1s0a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -1131,7 +1202,9 @@
 <LM id="T-wsj1236-001-p1s4a16">
 <a>
 <lex.rf>a#a-wsj1236-001-p1s4W23-Ta</lex.rf>
-<aux.rf>a#a-wsj1236-001-p1s4W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1236-001-p1s4W15-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w10009f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1153,7 +1226,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1236-001-p1s4a19">
+<children>
+<LM id="T-wsj1236-001-p1s4a19">
 <a>
 <lex.rf>a#a-wsj1236-001-p1s4W20-Ta</lex.rf>
 </a>
@@ -1165,7 +1239,9 @@
 <LM id="T-wsj1236-001-p1s4a20">
 <a>
 <lex.rf>a#a-wsj1236-001-p1s4W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1236-001-p1s4W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1236-001-p1s4W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zařízení</t_lemma>
@@ -1175,7 +1251,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1236-001-p1s4a21">
+<children>
+<LM id="T-wsj1236-001-p1s4a21">
 <a>
 <lex.rf>a#a-wsj1236-001-p1s4W18-Ta</lex.rf>
 </a>
@@ -1186,16 +1263,21 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1236-001-p1s4a22">
 <a>
 <lex.rf>a#a-wsj1236-001-p1s4W21-Ta</lex.rf>
-<aux.rf>a#a-wsj1236-001-p1s4W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1236-001-p1s4W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>surovina</t_lemma>
@@ -1207,6 +1289,7 @@
 <deepord>15</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1236-001-p1s4a23">
@@ -1238,6 +1321,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Analysts expect the trade gap for the year to surpass $2 billion as demand for capital equipment and raw materials continues to push imports higher.</eng_sentence>
 </LM>

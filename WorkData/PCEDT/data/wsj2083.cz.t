@@ -1037,12 +1037,6 @@
 <deepord>17</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>proprium</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2083-001-p1s3a14">
 <a>
@@ -1501,11 +1495,6 @@
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>10</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2083-001-p1s5a14">
 <a>

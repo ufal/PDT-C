@@ -11,10 +11,13 @@
 <LM id="T-wsj1444-001-p1s0">
 <atree.rf>a#a-wsj1444-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1444-001-p1s0a1">
+<children>
+<LM id="T-wsj1444-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s0W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1444-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1444-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9085f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -35,7 +38,9 @@
 <LM id="T-wsj1444-001-p1s0a3">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s0W2-Ta</lex.rf>
-<aux.rf>a#a-wsj1444-001-p1s0W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1444-001-p1s0W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Komise</t_lemma>
@@ -44,10 +49,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1444-001-p1s0a5">
+<children>
+<LM id="T-wsj1444-001-p1s0a5">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s0W4-Ta</lex.rf>
-<aux.rf>a#a-wsj1444-001-p1s0W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1444-001-p1s0W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>regulace</t_lemma>
@@ -56,7 +64,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1444-001-p1s0a6">
+<children>
+<LM id="T-wsj1444-001-p1s0a6">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s0W5-Ta</lex.rf>
 </a>
@@ -67,7 +76,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1444-001-p1s0a7">
+<children>
+<LM id="T-wsj1444-001-p1s0a7">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s0W7-Ta</lex.rf>
 </a>
@@ -78,7 +88,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1444-001-p1s0a8">
+<children>
+<LM id="T-wsj1444-001-p1s0a8">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -89,19 +100,21 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1444-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s0W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1444-001-p1s0W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1444-001-p1s0W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>doba</t_lemma>
@@ -110,7 +123,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1444-001-p1s0a12">
+<children>
+<LM id="T-wsj1444-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s0W10-Ta</lex.rf>
 </a>
@@ -121,6 +135,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1444-001-p1s0a13">
@@ -135,7 +150,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1444-001-p1s0a14">
+<children>
+<LM id="T-wsj1444-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s0W13-Ta</lex.rf>
 </a>
@@ -146,16 +162,19 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The following issues were recently filed with the Securities and Exchange Commission:</eng_sentence>
 </LM>
 <LM id="T-wsj1444-001-p1s1">
 <atree.rf>a#a-wsj1444-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1444-001-p1s1a10">
+<children>
+<LM id="T-wsj1444-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s1W13-Ta</lex.rf>
 </a>
@@ -265,7 +284,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1444-001-p1s1a32">
+<children>
+<LM id="T-wsj1444-001-p1s1a32">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -309,6 +329,7 @@
 <deepord>14</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -339,7 +360,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1444-001-p1s1a14">
+<children>
+<LM id="T-wsj1444-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s1W14-Ta</lex.rf>
 </a>
@@ -350,12 +372,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1444-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s1W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1444-001-p1s1W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1444-001-p1s1W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výše</t_lemma>
@@ -364,7 +389,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1444-001-p1s1a19">
+<children>
+<LM id="T-wsj1444-001-p1s1a19">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s1W21-Ta</lex.rf>
 </a>
@@ -413,6 +439,7 @@
 <deepord>23</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1444-001-p1s1a22">
@@ -427,7 +454,9 @@
 <LM id="T-wsj1444-001-p1s1a23">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s1W26-Ta</lex.rf>
-<aux.rf>a#a-wsj1444-001-p1s1W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1444-001-p1s1W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>papír</t_lemma>
@@ -467,7 +496,9 @@
 <LM id="T-wsj1444-001-p1s1a26">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s1W29-Ta</lex.rf>
-<aux.rf>a#a-wsj1444-001-p1s1W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1444-001-p1s1W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>list</t_lemma>
@@ -477,7 +508,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>29</deepord>
-<children id="T-wsj1444-001-p1s1a27">
+<children>
+<LM id="T-wsj1444-001-p1s1a27">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s1W28-Ta</lex.rf>
 </a>
@@ -488,20 +520,23 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>28</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Heller Financial Inc., an indirect subsidiary of Fuji Bank Ltd., shelf offering of up to $1 billion debt securities and warrants.</eng_sentence>
 </LM>
 <LM id="T-wsj1444-001-p1s2">
 <atree.rf>a#a-wsj1444-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1444-001-p1s2a26">
+<children>
+<LM id="T-wsj1444-001-p1s2a26">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s2W5-Ta</lex.rf>
 </a>
@@ -622,7 +657,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1444-001-p1s2a11">
+<children>
+<LM id="T-wsj1444-001-p1s2a11">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s2W10-Ta</lex.rf>
 </a>
@@ -633,6 +669,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -648,10 +685,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1444-001-p1s2a13">
+<children>
+<LM id="T-wsj1444-001-p1s2a13">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s2W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1444-001-p1s2W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1444-001-p1s2W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -660,7 +700,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj1444-001-p1s2a14">
+<children>
+<LM id="T-wsj1444-001-p1s2a14">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s2W21-Ta</lex.rf>
 </a>
@@ -783,19 +824,23 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Jason Overseas Ltd., proposed offering of five million common shares, via Smith Barney &amp; Co. and Mabon Nugent &amp; Co.</eng_sentence>
 </LM>
 <LM id="T-wsj1444-001-p1s3">
 <atree.rf>a#a-wsj1444-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1444-001-p1s3a5">
+<children>
+<LM id="T-wsj1444-001-p1s3a5">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s3W5-Ta</lex.rf>
 </a>
@@ -880,7 +925,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1444-001-p1s3a8">
+<children>
+<LM id="T-wsj1444-001-p1s3a8">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s3W6-Ta</lex.rf>
 </a>
@@ -891,6 +937,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1444-001-p1s3a9">
@@ -934,7 +981,9 @@
 <LM id="T-wsj1444-001-p1s3a13">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s3W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1444-001-p1s3W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1444-001-p1s3W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výše</t_lemma>
@@ -943,7 +992,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1444-001-p1s3a18">
+<children>
+<LM id="T-wsj1444-001-p1s3a18">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s3W16-Ta</lex.rf>
 </a>
@@ -992,6 +1042,7 @@
 <deepord>17</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1444-001-p1s3a14">
@@ -1005,10 +1056,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1444-001-p1s3a42">
+<children>
+<LM id="T-wsj1444-001-p1s3a42">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s3W21-Ta</lex.rf>
-<aux.rf>a#a-wsj1444-001-p1s3W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1444-001-p1s3W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -1017,7 +1071,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1444-001-p1s3a20">
+<children>
+<LM id="T-wsj1444-001-p1s3a20">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s3W39-Ta</lex.rf>
 </a>
@@ -1268,19 +1323,23 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>MCI Communications Corp., shelf offering of up to $750 million of debt securities via Merrill Lynch Capital Markets, Drexel Burnham Lambert Inc., Goldman, Sachs &amp; Co., and Salomon Brothers Inc.</eng_sentence>
 </LM>
 <LM id="T-wsj1444-001-p1s4">
 <atree.rf>a#a-wsj1444-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1444-001-p1s4a1">
+<children>
+<LM id="T-wsj1444-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s4W4-Ta</lex.rf>
 </a>
@@ -1386,7 +1445,9 @@
 <LM id="T-wsj1444-001-p1s4a10">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s4W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1444-001-p1s4W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1444-001-p1s4W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodnota</t_lemma>
@@ -1395,7 +1456,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1444-001-p1s4a12">
+<children>
+<LM id="T-wsj1444-001-p1s4a12">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s4W12-Ta</lex.rf>
 </a>
@@ -1432,6 +1494,7 @@
 <deepord>13</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1444-001-p1s4a14">
@@ -1445,10 +1508,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj1444-001-p1s4a17">
+<children>
+<LM id="T-wsj1444-001-p1s4a17">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s4W17-Ta</lex.rf>
-<aux.rf>a#a-wsj1444-001-p1s4W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1444-001-p1s4W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -1457,7 +1523,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1444-001-p1s4a27">
+<children>
+<LM id="T-wsj1444-001-p1s4a27">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1528,19 +1595,23 @@
 <deepord>22</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Millicom Inc., offering of $60 million subordinated exchangeable debentures, via Bear, Stearns &amp; Co. Inc.</eng_sentence>
 </LM>
 <LM id="T-wsj1444-001-p1s5">
 <atree.rf>a#a-wsj1444-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1444-001-p1s5a1">
+<children>
+<LM id="T-wsj1444-001-p1s5a1">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s5W6-Ta</lex.rf>
 </a>
@@ -1634,10 +1705,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1444-001-p1s5a10">
+<children>
+<LM id="T-wsj1444-001-p1s5a10">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s5W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1444-001-p1s5W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1444-001-p1s5W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>správa</t_lemma>
@@ -1646,7 +1720,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1444-001-p1s5a11">
+<children>
+<LM id="T-wsj1444-001-p1s5a11">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s5W11-Ta</lex.rf>
 </a>
@@ -1657,10 +1732,13 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1444-001-p1s5a13">
+<children>
+<LM id="T-wsj1444-001-p1s5a13">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s5W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1444-001-p1s5W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1444-001-p1s5W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodnota</t_lemma>
@@ -1669,7 +1747,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1444-001-p1s5a15">
+<children>
+<LM id="T-wsj1444-001-p1s5a15">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s5W15-Ta</lex.rf>
 </a>
@@ -1706,13 +1785,19 @@
 <deepord>15</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1444-001-p1s5a17">
@@ -1726,10 +1811,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj1444-001-p1s5a20">
+<children>
+<LM id="T-wsj1444-001-p1s5a20">
 <a>
 <lex.rf>a#a-wsj1444-001-p1s5W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1444-001-p1s5W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1444-001-p1s5W19-Ta</LM>
+</aux.rf>
 </a>
 <coref_special>segm</coref_special>
 <nodetype>complex</nodetype>
@@ -1739,7 +1827,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1444-001-p1s5a26">
+<children>
+<LM id="T-wsj1444-001-p1s5a26">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1771,12 +1860,15 @@
 <deepord>20</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Union Tank Car Co., offering of $100 million of equipment trust certificates, via Salomon Brothers.</eng_sentence>
 </LM>

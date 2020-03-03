@@ -3008,12 +3008,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>původně "zastavět"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <eng_sentence>But that won't stop plaintiffs' lawyers from seeking a little room for maneuvering.</eng_sentence>

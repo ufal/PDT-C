@@ -973,12 +973,6 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>přidáno _se</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1059,12 +1053,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -1249,15 +1237,6 @@
 <deepord>6</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>přidáno _se</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <eng_sentence>Within 25 years Jews will probably be the minority.</eng_sentence>
@@ -1389,12 +1368,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>přidáno _se</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1141-001-p1s8a1">
 <a>
@@ -1898,12 +1871,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2157,12 +2124,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1141-001-p1s10a10">
 <a>
@@ -2323,15 +2284,6 @@
 <deepord>16</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>přidáno _se</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1141-001-p1s10a28">
 <a>
@@ -2376,15 +2328,6 @@
 <deepord>20</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>přidáno _se</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

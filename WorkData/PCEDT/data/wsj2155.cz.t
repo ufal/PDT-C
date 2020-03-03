@@ -2757,12 +2757,6 @@
 <src>LH</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>obrázek - obr</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2155-001-p1s8a15">
 <a>
@@ -4813,11 +4807,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -6477,11 +6466,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2155-001-p1s21a27">
 <a>
@@ -7331,11 +7315,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2155-001-p1s24a19">
 <a>

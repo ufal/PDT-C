@@ -11,7 +11,8 @@
 <LM id="T-wsj1271-001-p1s0">
 <atree.rf>a#a-wsj1271-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s0a31">
+<children>
+<LM id="T-wsj1271-001-p1s0a31">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s0W32-Ta</lex.rf>
 </a>
@@ -43,7 +44,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1271-001-p1s0a5">
+<children>
+<LM id="T-wsj1271-001-p1s0a5">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s0W1-Ta</lex.rf>
 </a>
@@ -54,12 +56,15 @@
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s0a6">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s0W4-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s0W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s0W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>snažící_se</t_lemma>
@@ -68,7 +73,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1271-001-p1s0a8">
+<children>
+<LM id="T-wsj1271-001-p1s0a8">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -91,9 +97,11 @@
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s0a7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s0a10">
@@ -111,7 +119,9 @@
 <LM id="T-wsj1271-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s0W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>systém</t_lemma>
@@ -132,7 +142,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1271-001-p1s0a14">
+<children>
+<LM id="T-wsj1271-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s0W9-Ta</lex.rf>
 </a>
@@ -144,9 +155,12 @@
 </gram>
 <deepord>8</deepord>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s0a15">
@@ -164,7 +178,9 @@
 <LM id="T-wsj1271-001-p1s0a17">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s0W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s0W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s0W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>oblast</t_lemma>
@@ -173,7 +189,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1271-001-p1s0a18">
+<children>
+<LM id="T-wsj1271-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s0W15-Ta</lex.rf>
 </a>
@@ -184,11 +201,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 </children>
@@ -250,7 +269,9 @@
 <LM>a#a-wsj1271-001-p1s0W21-Ta</LM>
 </aux.rf>
 </a>
-<coref_gram.rf>T-wsj1271-001-p1s0a40</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1271-001-p1s0a40</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Rcp</t_lemma>
@@ -258,14 +279,13 @@
 <deepord>18</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 <LM id="T-wsj1271-001-p1s0a24">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s0W23-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s0W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s0W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>podzemka</t_lemma>
@@ -290,10 +310,13 @@
 <sempos>v</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj1271-001-p1s0a26">
+<children>
+<LM id="T-wsj1271-001-p1s0a26">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s0W28-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s0W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s0W26-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zácpa</t_lemma>
@@ -318,7 +341,9 @@
 <LM id="T-wsj1271-001-p1s0a29">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s0W31-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s0W29-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s0W29-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dálnice</t_lemma>
@@ -327,7 +352,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj1271-001-p1s0a30">
+<children>
+<LM id="T-wsj1271-001-p1s0a30">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s0W30-Ta</lex.rf>
 </a>
@@ -338,9 +364,11 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>23</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s0a33">
@@ -372,7 +400,9 @@
 <LM id="T-wsj1271-001-p1s0a36">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s0W36-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s0W35-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s0W35-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>autobus</t_lemma>
@@ -385,13 +415,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>About 400,000 commuters trying to find their way through the Bay area's quake-torn transportation system wedged cheek-to-jowl into subways, sat in traffic jams on major freeways or waited forlornly for buses yesterday.</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s1">
 <atree.rf>a#a-wsj1271-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s1a1">
+<children>
+<LM id="T-wsj1271-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s1W4-Ta</lex.rf>
 </a>
@@ -415,7 +447,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1271-001-p1s1a3">
+<children>
+<LM id="T-wsj1271-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s1W1-Ta</lex.rf>
 </a>
@@ -426,6 +459,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s1a5">
@@ -440,9 +474,11 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s0a31</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s1a12">
@@ -460,7 +496,9 @@
 <LM id="T-wsj1271-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s1W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s1W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s1W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
@@ -473,7 +511,9 @@
 <LM id="T-wsj1271-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s1W4-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s1W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s1W9-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -530,7 +570,9 @@
 <LM id="T-wsj1271-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s1W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s1W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s1W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Manhattan</t_lemma>
@@ -542,8 +584,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -551,16 +595,20 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>In other words, it was a better-than-average Manhattan commute.</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s2">
 <atree.rf>a#a-wsj1271-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s2a20">
+<children>
+<LM id="T-wsj1271-001-p1s2a20">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s2W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s2W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s2W3-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2436f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -582,7 +630,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1271-001-p1s2a6">
+<children>
+<LM id="T-wsj1271-001-p1s2a6">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s2W1-Ta</lex.rf>
 </a>
@@ -593,12 +642,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s2W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s2W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s2W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>den</t_lemma>
@@ -623,7 +675,9 @@
 <LM id="T-wsj1271-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s2W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s2W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s2W9-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2529f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -645,7 +699,9 @@
 <a>
 <lex.rf>a#a-wsj1271-001-p1s2W8-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1271-001-p1s2a9</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1271-001-p1s2a9</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>kdy</t_lemma>
 <functor>TWHEN</functor>
@@ -657,7 +713,9 @@
 <LM id="T-wsj1271-001-p1s2a12">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s2W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s2W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s2W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zemětřesení</t_lemma>
@@ -666,10 +724,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1271-001-p1s2a14">
+<children>
+<LM id="T-wsj1271-001-p1s2a14">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s2W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s2W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s2W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>úterek</t_lemma>
@@ -678,7 +739,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1271-001-p1s2a15">
+<children>
+<LM id="T-wsj1271-001-p1s2a15">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s2W13-Ta</lex.rf>
 </a>
@@ -689,16 +751,22 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s0a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1271-001-p1s2a16">
@@ -754,7 +822,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj1271-001-p1s2a22">
+<children>
+<LM id="T-wsj1271-001-p1s2a22">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s2W21-Ta</lex.rf>
 </a>
@@ -765,16 +834,19 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>15</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>City officials feared widespread gridlock on the first day that normal business operations were resumed following last Tuesday's earthquake.</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s3">
 <atree.rf>a#a-wsj1271-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s3a1">
+<children>
+<LM id="T-wsj1271-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s3W22-Ta</lex.rf>
 </a>
@@ -836,7 +908,9 @@
 <a>
 <lex.rf>a#a-wsj1271-001-p1s3W5-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1271-001-p1s3a3</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1271-001-p1s3a3</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -865,7 +939,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1271-001-p1s3a10">
+<children>
+<LM id="T-wsj1271-001-p1s3a10">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s3W8-Ta</lex.rf>
 </a>
@@ -876,19 +951,24 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s2a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1271-001-p1s3a2">
@@ -933,7 +1013,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1271-001-p1s3a44">
+<children>
+<LM id="T-wsj1271-001-p1s3a44">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -962,6 +1043,7 @@
 <deepord>14</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s3a17">
@@ -1004,7 +1086,9 @@
 <LM id="T-wsj1271-001-p1s3a21">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s3W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s3W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s3W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>východ</t_lemma>
@@ -1033,7 +1117,8 @@
 <sempos>v</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj1271-001-p1s3a24">
+<children>
+<LM id="T-wsj1271-001-p1s3a24">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s3W24-Ta</lex.rf>
 </a>
@@ -1044,7 +1129,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj1271-001-p1s3a29">
+<children>
+<LM id="T-wsj1271-001-p1s3a29">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s3W32-Ta</lex.rf>
 </a>
@@ -1065,7 +1151,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj1271-001-p1s3a26">
+<children>
+<LM id="T-wsj1271-001-p1s3a26">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s3W26-Ta</lex.rf>
 </a>
@@ -1076,10 +1163,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj1271-001-p1s3a28">
+<children>
+<LM id="T-wsj1271-001-p1s3a28">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s3W28-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s3W27-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s3W27-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dálnice</t_lemma>
@@ -1088,7 +1178,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj1271-001-p1s3a30">
+<children>
+<LM id="T-wsj1271-001-p1s3a30">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s3W29-Ta</lex.rf>
 </a>
@@ -1099,7 +1190,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>26</deepord>
-<children id="T-wsj1271-001-p1s3a32">
+<children>
+<LM id="T-wsj1271-001-p1s3a32">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s3W31-Ta</lex.rf>
 </a>
@@ -1110,9 +1202,13 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>27</deepord>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s3a33">
@@ -1127,10 +1223,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>29</deepord>
-<children id="T-wsj1271-001-p1s3a35">
+<children>
+<LM id="T-wsj1271-001-p1s3a35">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s3W38-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s3W34-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s3W34-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>tepna</t_lemma>
@@ -1179,7 +1278,9 @@
 <LM id="T-wsj1271-001-p1s3a40">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s3W40-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s3W39-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s3W39-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>jih</t_lemma>
@@ -1191,24 +1292,31 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s3a28</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 </children>
-</children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The massive temblor, which killed at least 61 people, severed the Bay Bridge, a major artery to the east, and closed most ramps leading to and from Highway 101, the biggest artery to the south.</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s4">
 <atree.rf>a#a-wsj1271-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s4a1">
+<children>
+<LM id="T-wsj1271-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s4W6-Ta</lex.rf>
 </a>
@@ -1242,7 +1350,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1271-001-p1s4a4">
+<children>
+<LM id="T-wsj1271-001-p1s4a4">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s4W2-Ta</lex.rf>
 </a>
@@ -1254,10 +1363,13 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s3a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s4a6">
@@ -1271,7 +1383,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1271-001-p1s4a5">
+<children>
+<LM id="T-wsj1271-001-p1s4a5">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s4W4-Ta</lex.rf>
 </a>
@@ -1282,6 +1395,7 @@
 <sempos>adj.quant.indef</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -1311,7 +1425,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1271-001-p1s4a8">
+<children>
+<LM id="T-wsj1271-001-p1s4a8">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s4W8-Ta</lex.rf>
 </a>
@@ -1322,6 +1437,7 @@
 <sempos>adj.quant.indef</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s4a12">
@@ -1359,10 +1475,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1271-001-p1s4a16">
+<children>
+<LM id="T-wsj1271-001-p1s4a16">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s4W17-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s4W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s4W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>přípojka</t_lemma>
@@ -1371,7 +1490,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj1271-001-p1s4a17">
+<children>
+<LM id="T-wsj1271-001-p1s4a17">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s4W16-Ta</lex.rf>
 </a>
@@ -1382,33 +1502,43 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>A ACT(než[.v]) Zabere několik měsíců, než 
 bude opravena část ze 101 přípojek.</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>Translation</type>
 <text>chyba v překladu, lépe: ... bude opravena část z přípojek stojedničky/dálnice č. 101.</text>
+</LM>
 </annot_comment>
 <eng_sentence>It will take several weeks to repair the bridge, and several months to repair some of the 101 connections.</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s5">
 <atree.rf>a#a-wsj1271-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s5a1">
+<children>
+<LM id="T-wsj1271-001-p1s5a1">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s5W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s5W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s5W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7291f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1429,7 +1559,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s5a3">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s5W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s5W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s5W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>bouře</t_lemma>
@@ -1438,7 +1570,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1271-001-p1s5a4">
+<children>
+<LM id="T-wsj1271-001-p1s5a4">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s5W2-Ta</lex.rf>
 </a>
@@ -1449,6 +1582,7 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s5a6">
@@ -1472,9 +1606,11 @@ bude opravena část ze 101 přípojek.</text>
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s2a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s5a13">
@@ -1526,7 +1662,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1271-001-p1s5a17">
+<children>
+<LM id="T-wsj1271-001-p1s5a17">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s5W14-Ta</lex.rf>
 </a>
@@ -1537,6 +1674,7 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s5a34">
@@ -1647,7 +1785,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>29</deepord>
-<children id="T-wsj1271-001-p1s5a27">
+<children>
+<LM id="T-wsj1271-001-p1s5a27">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s5W27-Ta</lex.rf>
 </a>
@@ -1659,13 +1798,16 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s5a26">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s5W26-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s5W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s5W24-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>22</deepord>
-<children id="T-wsj1271-001-p1s5a25">
+<children>
+<LM id="T-wsj1271-001-p1s5a25">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s5W25-Ta</lex.rf>
 </a>
@@ -1676,12 +1818,15 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>21</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s5a37">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s5W23-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s5W29-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s5W29-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4930f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1717,9 +1862,11 @@ bude opravena část ze 101 přípojek.</text>
 </gram>
 <deepord>27</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s5a28</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s5a38">
@@ -1732,9 +1879,11 @@ bude opravena část ze 101 přípojek.</text>
 </gram>
 <deepord>28</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s5a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s5a30">
@@ -1752,18 +1901,21 @@ bude opravena část ze 101 přípojek.</text>
 </children>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>But in spite of a wind-driven rainstorm, gridlock never materialized, mainly because the Bay Area Rapid Transit subway system carried 50% more passengers than normal.</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s6">
 <atree.rf>a#a-wsj1271-001-p1s6</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s6a1">
+<children>
+<LM id="T-wsj1271-001-p1s6a1">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s6W4-Ta</lex.rf>
 </a>
@@ -1787,10 +1939,13 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1271-001-p1s6a4">
+<children>
+<LM id="T-wsj1271-001-p1s6a4">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s6W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s6W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s6W2-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>historie</t_lemma>
@@ -1799,12 +1954,15 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s6a6">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s6W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s6W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s6W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>vůz</t_lemma>
@@ -1849,7 +2007,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1271-001-p1s6a10">
+<children>
+<LM id="T-wsj1271-001-p1s6a10">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s6W10-Ta</lex.rf>
 </a>
@@ -1860,15 +2019,14 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velká písmena</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s5a38</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -1876,7 +2034,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s6a12">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s6W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s6W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s6W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>dphr</nodetype>
 <t_lemma>k_dispozici</t_lemma>
@@ -1903,10 +2063,13 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1271-001-p1s6a16">
+<children>
+<LM id="T-wsj1271-001-p1s6a16">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s6W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s6W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s6W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>stání</t_lemma>
@@ -1915,7 +2078,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1271-001-p1s6a17">
+<children>
+<LM id="T-wsj1271-001-p1s6a17">
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -1925,25 +2089,33 @@ bude opravena část ze 101 přípojek.</text>
 </gram>
 <deepord>13</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s5a39</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>For the first time in memory, it was standing-room only in BART's sleek, modern railcars.</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s7">
 <atree.rf>a#a-wsj1271-001-p1s7</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s7a30">
+<children>
+<LM id="T-wsj1271-001-p1s7a30">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s7W17-Ta</lex.rf>
 </a>
@@ -1955,7 +2127,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s7a1">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s7W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s7W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s7W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7782f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1993,7 +2167,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s7a5">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s7W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s7W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s7W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>most</t_lemma>
@@ -2087,7 +2263,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s7a13">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s7W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s7W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s7W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>oblast</t_lemma>
@@ -2096,7 +2274,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1271-001-p1s7a32">
+<children>
+<LM id="T-wsj1271-001-p1s7a32">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -2125,6 +2304,7 @@ bude opravena část ze 101 přípojek.</text>
 <deepord>15</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -2163,7 +2343,9 @@ bude opravena část ze 101 přípojek.</text>
 <a>
 <lex.rf>a#a-wsj1271-001-p1s7W18-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1271-001-p1s7a1</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1271-001-p1s7a1</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>ACT</functor>
@@ -2182,7 +2364,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s7a22">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s7W23-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s7W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s7W21-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3493f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -2208,7 +2392,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s7a25">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s7W25-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s7W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s7W24-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zastavení</t_lemma>
@@ -2217,7 +2403,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj1271-001-p1s7a29">
+<children>
+<LM id="T-wsj1271-001-p1s7a29">
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#PersPron</t_lemma>
@@ -2227,35 +2414,46 @@ bude opravena část ze 101 přípojek.</text>
 </gram>
 <deepord>24</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s7a23</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>A PAT(aby[.v]) Což umožnilo, aby doprava plynula bez obtíží.</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Moreover, the two main bridges still connecting San Francisco with the East Bay didn't charge tolls, allowing traffic to zip through without stopping.</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s8">
 <atree.rf>a#a-wsj1271-001-p1s8</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s8a1">
+<children>
+<LM id="T-wsj1271-001-p1s8a1">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s8W4-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s8W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s8W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w634f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -2290,7 +2488,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s8a7">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s8W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s8W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s8W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3830f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -2334,7 +2534,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1271-001-p1s8a10">
+<children>
+<LM id="T-wsj1271-001-p1s8a10">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s8W11-Ta</lex.rf>
 </a>
@@ -2375,7 +2576,9 @@ bude opravena část ze 101 přípojek.</text>
 <a>
 <lex.rf>a#a-wsj1271-001-p1s8W13-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1271-001-p1s8a10</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1271-001-p1s8a10</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -2419,15 +2622,19 @@ bude opravena část ze 101 přípojek.</text>
 </gram>
 <deepord>13</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s8a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s8a18">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s8W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s8W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s8W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>práce</t_lemma>
@@ -2440,7 +2647,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s8a23">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s8W21-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s8W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s8W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>čas</t_lemma>
@@ -2449,7 +2658,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj1271-001-p1s8a24">
+<children>
+<LM id="T-wsj1271-001-p1s8a24">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s8W20-Ta</lex.rf>
 </a>
@@ -2460,17 +2670,21 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>15</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1271-001-p1s8a21">
@@ -2485,10 +2699,13 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1271-001-p1s8a27">
+<children>
+<LM id="T-wsj1271-001-p1s8a27">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s8W30-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s8W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s8W26-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9939f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -2510,7 +2727,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj1271-001-p1s8a28">
+<children>
+<LM id="T-wsj1271-001-p1s8a28">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s8W27-Ta</lex.rf>
 </a>
@@ -2521,6 +2739,7 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.quant.grad</sempos>
 </gram>
 <deepord>19</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s8a30">
@@ -2548,23 +2767,28 @@ bude opravena část ze 101 přípojek.</text>
 <deepord>23</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Officials also suspect that traffic benefited from steps by major employers to get workers to come in at odd hours, or that many workers are still staying at home.</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s9">
 <atree.rf>a#a-wsj1271-001-p1s9</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s9a26">
+<children>
+<LM id="T-wsj1271-001-p1s9a26">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s9W26-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s9W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s9W24-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w696f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -2623,7 +2847,9 @@ bude opravena část ze 101 přípojek.</text>
 <a>
 <lex.rf>a#a-wsj1271-001-p1s9W4-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1271-001-p1s9a6</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1271-001-p1s9a6</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -2647,7 +2873,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s9a11">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s9W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s9W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s9W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>most</t_lemma>
@@ -2687,7 +2915,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s9a2">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s9W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s9W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s9W13-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7476f8</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -2702,7 +2932,9 @@ bude opravena část ze 101 přípojek.</text>
 <a>
 <lex.rf>a#a-wsj1271-001-p1s9W12-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1271-001-p1s9a11</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1271-001-p1s9a11</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -2727,7 +2959,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s9a20">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s9W17-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s9W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s9W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>týden</t_lemma>
@@ -2736,7 +2970,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj1271-001-p1s9a19">
+<children>
+<LM id="T-wsj1271-001-p1s9a19">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s9W16-Ta</lex.rf>
 </a>
@@ -2747,6 +2982,7 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.quant.indef</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s9a49">
@@ -2759,7 +2995,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s9a22">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s9W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s9W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s9W19-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4048f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -2780,9 +3018,11 @@ bude opravena část ze 101 přípojek.</text>
 </gram>
 <deepord>17</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s3a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s9a23">
@@ -2796,7 +3036,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj1271-001-p1s9a24">
+<children>
+<LM id="T-wsj1271-001-p1s9a24">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s9W21-Ta</lex.rf>
 </a>
@@ -2807,21 +3048,26 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>19</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s4a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -2843,7 +3089,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s9a28">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s9W28-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s9W27-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s9W27-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>práce</t_lemma>
@@ -2864,10 +3112,13 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj1271-001-p1s9a31">
+<children>
+<LM id="T-wsj1271-001-p1s9a31">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s9W30-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s9W29-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s9W29-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>trochu</t_lemma>
@@ -2876,6 +3127,7 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>24</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s9a42">
@@ -2889,7 +3141,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>26</deepord>
-<children id="T-wsj1271-001-p1s9a41">
+<children>
+<LM id="T-wsj1271-001-p1s9a41">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s9W33-Ta</lex.rf>
 </a>
@@ -2900,21 +3153,22 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>27</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s6a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s9a34">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s9W39-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s9W35-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s9W35-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w586f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -2935,15 +3189,19 @@ bude opravena část ze 101 přípojek.</text>
 </gram>
 <deepord>28</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s9a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s9a36">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s9W38-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s9W36-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s9W36-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>stanice</t_lemma>
@@ -2952,7 +3210,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>30</deepord>
-<children id="T-wsj1271-001-p1s9a37">
+<children>
+<LM id="T-wsj1271-001-p1s9a37">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s9W37-Ta</lex.rf>
 </a>
@@ -2963,6 +3222,7 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>29</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s9a38">
@@ -2979,7 +3239,9 @@ bude opravena část ze 101 přípojek.</text>
 <deepord>33</deepord>
 <children>
 <LM id="T-wsj1271-001-p1s9a47">
-<coref_gram.rf>T-wsj1271-001-p1s9a46</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1271-001-p1s9a46</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -2997,7 +3259,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>35</deepord>
-<children id="T-wsj1271-001-p1s9a40">
+<children>
+<LM id="T-wsj1271-001-p1s9a40">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s9W41-Ta</lex.rf>
 </a>
@@ -3008,20 +3271,23 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>34</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Many commuters who normally drove across the Bay Bridge, which is shut down for several weeks because of damage to one span, actually may have reached work a bit faster on BART yesterday, provided they could find a parking space at the system's jammed stations.</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s10">
 <atree.rf>a#a-wsj1271-001-p1s10</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s10a1">
+<children>
+<LM id="T-wsj1271-001-p1s10a1">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s10W16-Ta</lex.rf>
 </a>
@@ -3056,7 +3322,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s10a4">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s10W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s10W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s10W2-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>období</t_lemma>
@@ -3103,7 +3371,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1271-001-p1s10a32">
+<children>
+<LM id="T-wsj1271-001-p1s10a32">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -3132,11 +3401,14 @@ bude opravena část ze 101 přípojek.</text>
 <deepord>9</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s9a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s10a11">
@@ -3150,7 +3422,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1271-001-p1s10a12">
+<children>
+<LM id="T-wsj1271-001-p1s10a12">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s10W10-Ta</lex.rf>
 </a>
@@ -3165,7 +3438,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s10a14">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s10W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s10W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s10W12-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w583f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -3192,14 +3467,18 @@ bude opravena část ze 101 přípojek.</text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1271-001-p1s10a16">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s10W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s10W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s10W14-Ta</LM>
+</aux.rf>
 </a>
 <coref_special>segm</coref_special>
 <nodetype>complex</nodetype>
@@ -3211,6 +3490,7 @@ bude opravena část ze 101 přípojek.</text>
 <deepord>15</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -3218,7 +3498,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s10a20">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s10W22-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s10W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s10W19-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w311f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -3233,7 +3515,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s10a18">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s10W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s10W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s10W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>kolona</t_lemma>
@@ -3262,9 +3546,11 @@ bude opravena část ze 101 přípojek.</text>
 </gram>
 <deepord>19</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s10a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s10a23">
@@ -3307,7 +3593,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>26</deepord>
-<children id="T-wsj1271-001-p1s10a24">
+<children>
+<LM id="T-wsj1271-001-p1s10a24">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s10W24-Ta</lex.rf>
 </a>
@@ -3343,6 +3630,7 @@ bude opravena část ze 101 přípojek.</text>
 <deepord>25</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s10a29">
@@ -3372,13 +3660,15 @@ bude opravena část ze 101 přípojek.</text>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>In the best of times, the Bay Bridge is the worst commute in the region, often experiencing back-ups of 20 to 30 minutes or more.</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s11">
 <atree.rf>a#a-wsj1271-001-p1s11</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s11a12">
+<children>
+<LM id="T-wsj1271-001-p1s11a12">
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#EmpVerb</t_lemma>
@@ -3414,7 +3704,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s11a4">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s11W4-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s11W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s11W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w735f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -3426,7 +3718,9 @@ bude opravena část ze 101 přípojek.</text>
 <deepord>4</deepord>
 <children>
 <LM id="T-wsj1271-001-p1s11a11">
-<coref_gram.rf>T-wsj1271-001-p1s11a13</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1271-001-p1s11a13</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -3436,7 +3730,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s11a8">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s11W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s11W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s11W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>město</t_lemma>
@@ -3446,9 +3742,11 @@ bude opravena část ze 101 přípojek.</text>
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s7a31</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -3475,13 +3773,15 @@ bude opravena část ze 101 přípojek.</text>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Not that getting into town was easy.</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s12">
 <atree.rf>a#a-wsj1271-001-p1s12</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s12a1">
+<children>
+<LM id="T-wsj1271-001-p1s12a1">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s12W8-Ta</lex.rf>
 </a>
@@ -3515,10 +3815,13 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1271-001-p1s12a5">
+<children>
+<LM id="T-wsj1271-001-p1s12a5">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s12W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s12W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s12W2-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>bouře</t_lemma>
@@ -3528,10 +3831,13 @@ bude opravena část ze 101 přípojek.</text>
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s5a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s12a6">
@@ -3545,10 +3851,13 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1271-001-p1s12a8">
+<children>
+<LM id="T-wsj1271-001-p1s12a8">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s12W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s12W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s12W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dálnice</t_lemma>
@@ -3557,6 +3866,7 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -3564,7 +3874,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s12a12">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s12W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s12W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s12W12-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2085f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -3587,7 +3899,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1271-001-p1s12a10">
+<children>
+<LM id="T-wsj1271-001-p1s12a10">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s12W9-Ta</lex.rf>
 </a>
@@ -3598,13 +3911,16 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.quant.grad</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s12a13">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s12W11-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1271-001-p1s12a11</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1271-001-p1s12a11</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>BEN</functor>
@@ -3624,10 +3940,13 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1271-001-p1s12a16">
+<children>
+<LM id="T-wsj1271-001-p1s12a16">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s12W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s12W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s12W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>stanice</t_lemma>
@@ -3636,7 +3955,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1271-001-p1s12a17">
+<children>
+<LM id="T-wsj1271-001-p1s12a17">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s12W17-Ta</lex.rf>
 </a>
@@ -3647,7 +3967,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1271-001-p1s12a18">
+<children>
+<LM id="T-wsj1271-001-p1s12a18">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s12W18-Ta</lex.rf>
 </a>
@@ -3658,23 +3979,26 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velká písmeno</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s9a42</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s12a21">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s12W22-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s12W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s12W20-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -3709,7 +4033,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s12a25">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s12W25-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s12W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s12W24-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>svítání</t_lemma>
@@ -3719,8 +4045,10 @@ bude opravena část ze 101 přípojek.</text>
 </gram>
 <deepord>18</deepord>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1271-001-p1s12a26">
@@ -3740,13 +4068,15 @@ bude opravena část ze 101 přípojek.</text>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Storm flooding caused back-ups on the freeway, and many commuters had to find rides to BART's stations, because parking lots were full before dawn.</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s13">
 <atree.rf>a#a-wsj1271-001-p1s13</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s13a1">
+<children>
+<LM id="T-wsj1271-001-p1s13a1">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s13W6-Ta</lex.rf>
 </a>
@@ -3811,7 +4141,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1271-001-p1s13a6">
+<children>
+<LM id="T-wsj1271-001-p1s13a6">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s13W4-Ta</lex.rf>
 </a>
@@ -3822,6 +4153,7 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -3886,7 +4218,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1271-001-p1s13a16">
+<children>
+<LM id="T-wsj1271-001-p1s13a16">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s13W12-Ta</lex.rf>
 </a>
@@ -3897,6 +4230,7 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -3904,7 +4238,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s13a14">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s13W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s13W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s13W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>dphr</nodetype>
 <t_lemma>ve_štychu</t_lemma>
@@ -3917,13 +4253,15 @@ bude opravena část ze 101 přípojek.</text>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Bus schedules were sometimes in disarray, stranding commuters such as Marilyn Sullivan.</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s14">
 <atree.rf>a#a-wsj1271-001-p1s14</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s14a1">
+<children>
+<LM id="T-wsj1271-001-p1s14a1">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s14W23-Ta</lex.rf>
 </a>
@@ -3960,15 +4298,19 @@ bude opravena část ze 101 přípojek.</text>
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s13a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s14a5">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s14W4-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s14W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s14W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>práce</t_lemma>
@@ -3981,7 +4323,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s14a7">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s14W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s14W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s14W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Petalumy</t_lemma>
@@ -3990,10 +4334,13 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1271-001-p1s14a9">
+<children>
+<LM id="T-wsj1271-001-p1s14a9">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s14W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s14W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s14W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Kalifornie</t_lemma>
@@ -4002,12 +4349,15 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s14a11">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s14W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s14W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s14W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>most</t_lemma>
@@ -4067,7 +4417,9 @@ bude opravena část ze 101 přípojek.</text>
 <a>
 <lex.rf>a#a-wsj1271-001-p1s14W14-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1271-001-p1s14a11</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1271-001-p1s14a11</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -4109,15 +4461,19 @@ bude opravena část ze 101 přípojek.</text>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s11a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s14a20">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s14W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s14W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s14W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>oblast</t_lemma>
@@ -4126,7 +4482,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1271-001-p1s14a30">
+<children>
+<LM id="T-wsj1271-001-p1s14a30">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -4152,6 +4509,7 @@ bude opravena část ze 101 přípojek.</text>
 <deepord>18</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -4206,7 +4564,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj1271-001-p1s14a27">
+<children>
+<LM id="T-wsj1271-001-p1s14a27">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s14W27-Ta</lex.rf>
 </a>
@@ -4217,18 +4576,21 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>23</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Her commute from Petaluma, Calif., normally takes an hour and 15 minutes, via the Golden Gate Bridge, which connects San Francisco with the North Bay area.</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s15">
 <atree.rf>a#a-wsj1271-001-p1s15</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s15a6">
+<children>
+<LM id="T-wsj1271-001-p1s15a6">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s15W5-Ta</lex.rf>
 </a>
@@ -4274,7 +4636,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1271-001-p1s15a5">
+<children>
+<LM id="T-wsj1271-001-p1s15a5">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s15W3-Ta</lex.rf>
 </a>
@@ -4285,6 +4648,7 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -4338,7 +4702,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s15a10">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s15W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s15W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s15W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zastávka</t_lemma>
@@ -4347,7 +4713,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1271-001-p1s15a11">
+<children>
+<LM id="T-wsj1271-001-p1s15a11">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s15W9-Ta</lex.rf>
 </a>
@@ -4358,6 +4725,7 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -4372,15 +4740,19 @@ bude opravena část ze 101 přípojek.</text>
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s14a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s15a12">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s15W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s15W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s15W13-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6234f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -4391,7 +4763,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>v</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1271-001-p1s15a14">
+<children>
+<LM id="T-wsj1271-001-p1s15a14">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s15W14-Ta</lex.rf>
 </a>
@@ -4412,7 +4785,9 @@ bude opravena část ze 101 přípojek.</text>
 <deepord>14</deepord>
 </LM>
 <LM id="T-wsj1271-001-p1s15a24">
-<coref_gram.rf>T-wsj1271-001-p1s15a23</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1271-001-p1s15a23</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -4422,7 +4797,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s15a16">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s15W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s15W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s15W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>autobus</t_lemma>
@@ -4431,7 +4808,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1271-001-p1s15a17">
+<children>
+<LM id="T-wsj1271-001-p1s15a17">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s15W17-Ta</lex.rf>
 </a>
@@ -4442,10 +4820,13 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1271-001-p1s15a19">
+<children>
+<LM id="T-wsj1271-001-p1s15a19">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s15W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s15W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s15W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>čtvrt</t_lemma>
@@ -4454,7 +4835,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj1271-001-p1s15a20">
+<children>
+<LM id="T-wsj1271-001-p1s15a20">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s15W19-Ta</lex.rf>
 </a>
@@ -4465,23 +4847,29 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>19</deepord>
-</children>
-</children>
-</children>
 </LM>
-</children>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Yesterday, she was still waiting at a bus stop after three hours, trying to transfer to a bus going to the financial district.</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s16">
 <atree.rf>a#a-wsj1271-001-p1s16</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s16a1">
+<children>
+<LM id="T-wsj1271-001-p1s16a1">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s16W12-Ta</lex.rf>
 </a>
@@ -4511,9 +4899,11 @@ bude opravena část ze 101 přípojek.</text>
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s16a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s16a2">
@@ -4590,9 +4980,11 @@ bude opravena část ze 101 přípojek.</text>
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s15a24</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -4600,13 +4992,15 @@ bude opravena část ze 101 přípojek.</text>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>``It's worse than I thought,'' she said.</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s17">
 <atree.rf>a#a-wsj1271-001-p1s17</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s17a1">
+<children>
+<LM id="T-wsj1271-001-p1s17a1">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s17W2-Ta</lex.rf>
 </a>
@@ -4636,9 +5030,11 @@ bude opravena část ze 101 přípojek.</text>
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s16a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s17a3">
@@ -4708,13 +5104,15 @@ bude opravena část ze 101 přípojek.</text>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>``I don't know where all the buses are.''</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s18">
 <atree.rf>a#a-wsj1271-001-p1s18</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s18a1">
+<children>
+<LM id="T-wsj1271-001-p1s18a1">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s18W19-Ta</lex.rf>
 </a>
@@ -4737,15 +5135,19 @@ bude opravena část ze 101 přípojek.</text>
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s18a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s18a3">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s18W2-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s18W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s18W1-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -4780,7 +5182,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s18a6">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s18W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s18W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s18W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>most</t_lemma>
@@ -4789,7 +5193,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1271-001-p1s18a22">
+<children>
+<LM id="T-wsj1271-001-p1s18a22">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -4821,17 +5226,22 @@ bude opravena část ze 101 přípojek.</text>
 <deepord>8</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s14a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s18a11">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s18W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s18W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s18W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>špička</t_lemma>
@@ -4840,7 +5250,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1271-001-p1s18a12">
+<children>
+<LM id="T-wsj1271-001-p1s18a12">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s18W10-Ta</lex.rf>
 </a>
@@ -4851,6 +5262,7 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s18a13">
@@ -4870,7 +5282,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s18a17">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s18W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s18W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s18W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodina</t_lemma>
@@ -4879,7 +5293,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1271-001-p1s18a16">
+<children>
+<LM id="T-wsj1271-001-p1s18a16">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s18W15-Ta</lex.rf>
 </a>
@@ -4890,6 +5305,7 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s18a18">
@@ -4914,13 +5330,15 @@ bude opravena část ze 101 přípojek.</text>
 <deepord>15</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>But while traffic was heavy early in the commute over the Golden Gate, by 8 a.m. it already had thinned out.</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s19">
 <atree.rf>a#a-wsj1271-001-p1s19</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s19a1">
+<children>
+<LM id="T-wsj1271-001-p1s19a1">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s19W17-Ta</lex.rf>
 </a>
@@ -4982,7 +5400,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s19a7">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s19W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s19W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s19W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>cesta</t_lemma>
@@ -5007,7 +5427,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s19a10">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s19W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s19W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s19W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>práce</t_lemma>
@@ -5022,7 +5444,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s19a11">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s19W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s19W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s19W12-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -5043,16 +5467,20 @@ bude opravena část ze 101 přípojek.</text>
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s19a20</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s19a13">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s19W11-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1271-001-p1s19a7</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1271-001-p1s19a7</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>jaký</t_lemma>
 <functor>PAT</functor>
@@ -5100,7 +5528,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj1271-001-p1s19a19">
+<children>
+<LM id="T-wsj1271-001-p1s19a19">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s19W18-Ta</lex.rf>
 </a>
@@ -5111,6 +5540,7 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s19a21">
@@ -5155,7 +5585,9 @@ bude opravena část ze 101 přípojek.</text>
 <a>
 <lex.rf>a#a-wsj1271-001-p1s19W24-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1271-001-p1s19a20</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1271-001-p1s19a20</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -5185,7 +5617,9 @@ bude opravena část ze 101 přípojek.</text>
 </LM>
 <LM id="T-wsj1271-001-p1s19a35">
 <a>
-<aux.rf>a#a-wsj1271-001-p1s19W27-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s19W27-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -5219,7 +5653,9 @@ bude opravena část ze 101 přípojek.</text>
 </LM>
 <LM id="T-wsj1271-001-p1s19a38">
 <a>
-<aux.rf>a#a-wsj1271-001-p1s19W30-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s19W30-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -5262,16 +5698,20 @@ bude opravena část ze 101 přípojek.</text>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>``It's one of the smoothest commutes I've ever had,'' said Charles Catania, an insurance broker on the bus from Mill Valley in Marin County.</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s20">
 <atree.rf>a#a-wsj1271-001-p1s20</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s20a1">
+<children>
+<LM id="T-wsj1271-001-p1s20a1">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s20W2-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s20W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s20W3-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5203f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -5292,9 +5732,11 @@ bude opravena část ze 101 přípojek.</text>
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s19a34</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s20a10">
@@ -5303,7 +5745,8 @@ bude opravena část ze 101 přípojek.</text>
 <t_lemma>#Equal</t_lemma>
 <functor>MANN</functor>
 <deepord>3</deepord>
-<children id="T-wsj1271-001-p1s20a8">
+<children>
+<LM id="T-wsj1271-001-p1s20a8">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s20W2-Ta</lex.rf>
 <aux.rf>
@@ -5324,7 +5767,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s20a6">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s20W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s20W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s20W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dovolená</t_lemma>
@@ -5351,22 +5796,27 @@ bude opravena část ze 101 přípojek.</text>
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s20a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>``It looks like a holiday.</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s21">
 <atree.rf>a#a-wsj1271-001-p1s21</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s21a1">
+<children>
+<LM id="T-wsj1271-001-p1s21a1">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s21W1-Ta</lex.rf>
 </a>
@@ -5389,9 +5839,11 @@ bude opravena část ze 101 přípojek.</text>
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s20a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s21a4">
@@ -5414,7 +5866,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1271-001-p1s21a5">
+<children>
+<LM id="T-wsj1271-001-p1s21a5">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s21W4-Ta</lex.rf>
 </a>
@@ -5425,6 +5878,7 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.quant.grad</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s21a7">
@@ -5448,7 +5902,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s21a9">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s21W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s21W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s21W3-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9938f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -5459,7 +5915,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>v</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1271-001-p1s21a10">
+<children>
+<LM id="T-wsj1271-001-p1s21a10">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s21W10-Ta</lex.rf>
 </a>
@@ -5470,18 +5927,21 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adv.denot.ngrad.neg</sempos>
 </gram>
 <deepord>8</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>I think a lot of people got scared and stayed home.''</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s22">
 <atree.rf>a#a-wsj1271-001-p1s22</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s22a7">
+<children>
+<LM id="T-wsj1271-001-p1s22a7">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s22W7-Ta</lex.rf>
 </a>
@@ -5505,7 +5965,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1271-001-p1s22a3">
+<children>
+<LM id="T-wsj1271-001-p1s22a3">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s22W2-Ta</lex.rf>
 </a>
@@ -5516,7 +5977,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1271-001-p1s22a30">
+<children>
+<LM id="T-wsj1271-001-p1s22a30">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -5554,7 +6016,9 @@ bude opravena část ze 101 přípojek.</text>
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s22a1">
@@ -5576,7 +6040,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s22a10">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s22W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s22W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s22W9-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -5635,7 +6101,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s22a15">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s22W17-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s22W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s22W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -5683,9 +6151,11 @@ bude opravena část ze 101 přípojek.</text>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s22a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s22a21">
@@ -5703,7 +6173,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s22a20">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s22W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s22W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s22W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
@@ -5716,7 +6188,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s22a31">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s22W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s22W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s22W22-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -5738,9 +6212,11 @@ bude opravena část ze 101 přípojek.</text>
 </gram>
 <deepord>22</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s22a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s22a32">
@@ -5753,7 +6229,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s22a24">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s22W25-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s22W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s22W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>den</t_lemma>
@@ -5762,7 +6240,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj1271-001-p1s22a25">
+<children>
+<LM id="T-wsj1271-001-p1s22a25">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s22W24-Ta</lex.rf>
 </a>
@@ -5773,7 +6252,6 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>24</deepord>
-</children>
 </LM>
 </children>
 </LM>
@@ -5782,16 +6260,22 @@ bude opravena část ze 101 přípojek.</text>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>However, a spokeswoman for BankAmerica Corp. said yesterday's absenteeism at the bank holding company was no greater than on an average day.</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s23">
 <atree.rf>a#a-wsj1271-001-p1s23</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s23a1">
+<children>
+<LM id="T-wsj1271-001-p1s23a1">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s23W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s23W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s23W16-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4862f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -5805,7 +6289,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s23a4">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s23W2-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s23W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s23W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>most</t_lemma>
@@ -5877,7 +6363,9 @@ bude opravena část ze 101 přípojek.</text>
 <a>
 <lex.rf>a#a-wsj1271-001-p1s23W7-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1271-001-p1s23a4</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1271-001-p1s23a4</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -5897,7 +6385,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1271-001-p1s23a12">
+<children>
+<LM id="T-wsj1271-001-p1s23a12">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s23W9-Ta</lex.rf>
 </a>
@@ -5908,12 +6397,15 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s23a14">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s23W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s23W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s23W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>oblast</t_lemma>
@@ -5922,7 +6414,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1271-001-p1s23a29">
+<children>
+<LM id="T-wsj1271-001-p1s23a29">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -5951,11 +6444,14 @@ bude opravena část ze 101 přípojek.</text>
 <deepord>13</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s7a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -5985,10 +6481,13 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj1271-001-p1s23a20">
+<children>
+<LM id="T-wsj1271-001-p1s23a20">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s23W24-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s23W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s23W22-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3701f3</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -6003,7 +6502,9 @@ bude opravena část ze 101 přípojek.</text>
 <a>
 <lex.rf>a#a-wsj1271-001-p1s23W21-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1271-001-p1s23a19</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1271-001-p1s23a19</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>jaký</t_lemma>
 <functor>MANN</functor>
@@ -6025,16 +6526,19 @@ bude opravena část ze 101 přípojek.</text>
 <deepord>18</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>At the San Mateo Bridge, which connects the San Francisco peninsula with the East Bay, police were surprised at the speed with which traffic moved.</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s24">
 <atree.rf>a#a-wsj1271-001-p1s24</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s24a10">
+<children>
+<LM id="T-wsj1271-001-p1s24a10">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s24W10-Ta</lex.rf>
 </a>
@@ -6072,7 +6576,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s24a4">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s24W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s24W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s24W3-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9046f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -6118,12 +6624,14 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>v</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1271-001-p1s24a19">
+<children>
+<LM id="T-wsj1271-001-p1s24a19">
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Gen</t_lemma>
 <functor>ADDR</functor>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -6156,7 +6664,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1271-001-p1s24a12">
+<children>
+<LM id="T-wsj1271-001-p1s24a12">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s24W11-Ta</lex.rf>
 </a>
@@ -6167,10 +6676,7 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s24a14">
@@ -6185,7 +6691,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1271-001-p1s24a15">
+<children>
+<LM id="T-wsj1271-001-p1s24a15">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s24W17-Ta</lex.rf>
 </a>
@@ -6222,18 +6729,21 @@ bude opravena část ze 101 přípojek.</text>
 <deepord>15</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>``Everybody pretty much pitched in and cooperated,'' said Stan Perez, a sergeant with the California Highway Patrol.</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s25">
 <atree.rf>a#a-wsj1271-001-p1s25</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s25a1">
+<children>
+<LM id="T-wsj1271-001-p1s25a1">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s25W3-Ta</lex.rf>
 </a>
@@ -6257,7 +6767,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1271-001-p1s25a2">
+<children>
+<LM id="T-wsj1271-001-p1s25a2">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s25W1-Ta</lex.rf>
 </a>
@@ -6268,6 +6779,7 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.quant.grad</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s25a7">
@@ -6298,7 +6810,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1271-001-p1s25a9">
+<children>
+<LM id="T-wsj1271-001-p1s25a9">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s25W7-Ta</lex.rf>
 </a>
@@ -6309,6 +6822,7 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s25a10">
@@ -6358,7 +6872,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1271-001-p1s25a14">
+<children>
+<LM id="T-wsj1271-001-p1s25a14">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s25W15-Ta</lex.rf>
 </a>
@@ -6369,7 +6884,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1271-001-p1s25a15">
+<children>
+<LM id="T-wsj1271-001-p1s25a15">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s25W14-Ta</lex.rf>
 </a>
@@ -6380,21 +6896,25 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>11</deepord>
-</children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>There were many indications that the new work hours implemented by major corporations played a big role.</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s26">
 <atree.rf>a#a-wsj1271-001-p1s26</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s26a1">
+<children>
+<LM id="T-wsj1271-001-p1s26a1">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s26W11-Ta</lex.rf>
 </a>
@@ -6428,7 +6948,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1271-001-p1s26a25">
+<children>
+<LM id="T-wsj1271-001-p1s26a25">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -6460,16 +6981,15 @@ bude opravena část ze 101 přípojek.</text>
 <deepord>4</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s18a6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
-<annot_comment>
-<type>T-lemma</type>
-<text>malé písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1271-001-p1s26a24">
 <nodetype>qcomplex</nodetype>
@@ -6508,7 +7028,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1271-001-p1s26a7">
+<children>
+<LM id="T-wsj1271-001-p1s26a7">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s26W6-Ta</lex.rf>
 </a>
@@ -6519,10 +7040,13 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1271-001-p1s26a22">
+<children>
+<LM id="T-wsj1271-001-p1s26a22">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s26W4-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s26W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s26W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4930f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -6558,9 +7082,11 @@ bude opravena část ze 101 přípojek.</text>
 </gram>
 <deepord>13</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s26a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s26a26">
@@ -6573,9 +7099,11 @@ bude opravena část ze 101 přípojek.</text>
 </gram>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s26a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s26a10">
@@ -6591,7 +7119,9 @@ bude opravena část ze 101 přípojek.</text>
 <deepord>16</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -6613,7 +7143,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s26a14">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s26W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s26W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s26W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zácpa</t_lemma>
@@ -6661,9 +7193,11 @@ bude opravena část ze 101 přípojek.</text>
 </gram>
 <deepord>21</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s26a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s26a20">
@@ -6681,7 +7215,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj1271-001-p1s26a21">
+<children>
+<LM id="T-wsj1271-001-p1s26a21">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s26W20-Ta</lex.rf>
 </a>
@@ -6692,18 +7227,21 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>23</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The Golden Gate handled as many cars as normally yesterday, but over four hours rather than the usual two-hour crush.</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s27">
 <atree.rf>a#a-wsj1271-001-p1s27</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s27a1">
+<children>
+<LM id="T-wsj1271-001-p1s27a1">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s27W14-Ta</lex.rf>
 </a>
@@ -6737,7 +7275,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1271-001-p1s27a49">
+<children>
+<LM id="T-wsj1271-001-p1s27a49">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -6784,6 +7323,7 @@ bude opravena část ze 101 přípojek.</text>
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s27a7">
@@ -6834,7 +7374,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1271-001-p1s27a12">
+<children>
+<LM id="T-wsj1271-001-p1s27a12">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s27W12-Ta</lex.rf>
 </a>
@@ -6871,6 +7412,7 @@ bude opravena část ze 101 přípojek.</text>
 <deepord>14</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -6880,7 +7422,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s27a17">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s27W17-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s27W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s27W16-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9273f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -6901,9 +7445,11 @@ bude opravena část ze 101 přípojek.</text>
 </gram>
 <deepord>16</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s27a53</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s27a18">
@@ -6921,7 +7467,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s27a20">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s27W22-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s27W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s27W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>doba</t_lemma>
@@ -6958,7 +7506,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s27a24">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s27W25-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s27W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s27W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodina</t_lemma>
@@ -6997,7 +7547,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s27a28">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s27W29-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s27W27-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s27W27-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodina</t_lemma>
@@ -7047,9 +7599,13 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s27a34">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s27W33-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s27W32-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s27W32-Ta</LM>
+</aux.rf>
 </a>
-<coref_gram.rf>T-wsj1271-001-p1s27a18</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1271-001-p1s27a18</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>CRIT</functor>
@@ -7073,7 +7629,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s27a40">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s27W40-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s27W36-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s27W36-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7796f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -7089,7 +7647,9 @@ bude opravena část ze 101 přípojek.</text>
 <a>
 <lex.rf>a#a-wsj1271-001-p1s27W34-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1271-001-p1s27a35</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1271-001-p1s27a35</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>BEN</functor>
@@ -7101,7 +7661,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s27a37">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s27W39-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s27W37-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s27W37-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodina</t_lemma>
@@ -7110,7 +7672,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>32</deepord>
-<children id="T-wsj1271-001-p1s27a38">
+<children>
+<LM id="T-wsj1271-001-p1s27a38">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s27W38-Ta</lex.rf>
 </a>
@@ -7121,11 +7684,14 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>31</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s27a20</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s27a42">
@@ -7171,7 +7737,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s27a45">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s27W45-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s27W36-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s27W36-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5158f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -7182,10 +7750,13 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>v</sempos>
 </gram>
 <deepord>38</deepord>
-<children id="T-wsj1271-001-p1s27a47">
+<children>
+<LM id="T-wsj1271-001-p1s27a47">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s27W47-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s27W46-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s27W46-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>práce</t_lemma>
@@ -7194,26 +7765,31 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>39</deepord>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Bechtel Group Inc., the giant closely held engineering concern, says it has instituted a 6 a.m. to 8 p.m. flextime arrangement, whereby employees may select any eight-hour period during those hours to go to work.</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s28">
 <atree.rf>a#a-wsj1271-001-p1s28</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s28a1">
+<children>
+<LM id="T-wsj1271-001-p1s28a1">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s28W14-Ta</lex.rf>
 </a>
@@ -7247,7 +7823,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1271-001-p1s28a8">
+<children>
+<LM id="T-wsj1271-001-p1s28a8">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s28W8-Ta</lex.rf>
 </a>
@@ -7262,7 +7839,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s28a4">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s28W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s28W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s28W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zaměstnanec</t_lemma>
@@ -7295,7 +7874,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1271-001-p1s28a7">
+<children>
+<LM id="T-wsj1271-001-p1s28a7">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s28W5-Ta</lex.rf>
 </a>
@@ -7306,11 +7886,14 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s27a51</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -7328,16 +7911,21 @@ bude opravena část ze 101 přípojek.</text>
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s28a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s28a25">
 <a>
-<aux.rf>a#a-wsj1271-001-p1s28W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s28W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -7371,9 +7959,11 @@ bude opravena část ze 101 přípojek.</text>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s14a34</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -7422,7 +8012,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s28a19">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s28W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s28W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s28W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
@@ -7433,9 +8025,11 @@ bude opravena část ze 101 přípojek.</text>
 <is_parenthesis>1</is_parenthesis>
 <deepord>15</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s28a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -7451,7 +8045,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s28a21">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s28W22-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s28W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s28W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>oblast</t_lemma>
@@ -7510,21 +8106,25 @@ bude opravena část ze 101 přípojek.</text>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s23a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Of Bechtel's 17,500 employees, about 4,000 work in San Francisco -- one-third of them commuting from stricken East Bay.</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s29">
 <atree.rf>a#a-wsj1271-001-p1s29</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s29a1">
+<children>
+<LM id="T-wsj1271-001-p1s29a1">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s29W8-Ta</lex.rf>
 </a>
@@ -7548,7 +8148,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1271-001-p1s29a27">
+<children>
+<LM id="T-wsj1271-001-p1s29a27">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -7616,6 +8217,7 @@ bude opravena část ze 101 přípojek.</text>
 <deepord>8</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s29a10">
@@ -7634,7 +8236,9 @@ bude opravena část ze 101 přípojek.</text>
 <a>
 <lex.rf>a#a-wsj1271-001-p1s29W9-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1271-001-p1s29a2</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1271-001-p1s29a2</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -7756,7 +8360,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s29a26">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s29W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s29W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s29W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>6.00</t_lemma>
@@ -7769,7 +8375,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s29a21">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s29W21-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s29W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s29W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>14.00</t_lemma>
@@ -7798,7 +8406,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s29a23">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s29W24-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s29W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s29W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>10.00</t_lemma>
@@ -7811,7 +8421,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s29a25">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s29W26-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s29W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s29W25-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>18.00</t_lemma>
@@ -7828,13 +8440,15 @@ bude opravena část ze 101 přípojek.</text>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Pacific Gas &amp; Electric Co. is offering its 6,000 San Francisco employees a two-tier flextime schedule -- either 6 a.m. to 2 p.m. or 10 a.m. to 6 p.m.</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s30">
 <atree.rf>a#a-wsj1271-001-p1s30</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s30a24">
+<children>
+<LM id="T-wsj1271-001-p1s30a24">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s30W24-Ta</lex.rf>
 </a>
@@ -7899,9 +8513,11 @@ bude opravena část ze 101 přípojek.</text>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s29a30</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s30a5">
@@ -7916,7 +8532,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s30a7">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s30W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s30W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s30W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>tři</t_lemma>
@@ -7925,7 +8543,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1271-001-p1s30a8">
+<children>
+<LM id="T-wsj1271-001-p1s30a8">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s30W5-Ta</lex.rf>
 </a>
@@ -7936,6 +8555,7 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s30a9">
@@ -7949,7 +8569,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1271-001-p1s30a10">
+<children>
+<LM id="T-wsj1271-001-p1s30a10">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s30W10-Ta</lex.rf>
 </a>
@@ -7972,7 +8593,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1271-001-p1s30a27">
+<children>
+<LM id="T-wsj1271-001-p1s30a27">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -8010,11 +8632,14 @@ bude opravena část ze 101 přípojek.</text>
 <deepord>14</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s29a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s30a15">
@@ -8034,7 +8659,9 @@ bude opravena část ze 101 přípojek.</text>
 <a>
 <lex.rf>a#a-wsj1271-001-p1s30W16-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1271-001-p1s30a10</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1271-001-p1s30a10</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -8058,7 +8685,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s30a20">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s30W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s30W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s30W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>9.00</t_lemma>
@@ -8071,7 +8700,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s30a22">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s30W22-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s30W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s30W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>17.00</t_lemma>
@@ -8084,6 +8715,7 @@ bude opravena část ze 101 přípojek.</text>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -8108,13 +8740,15 @@ bude opravena část ze 101 přípojek.</text>
 <deepord>22</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The flextime may cut by almost a third the number of PG&amp;E employees working conventional 9-5 hours, a spokesman says.</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s31">
 <atree.rf>a#a-wsj1271-001-p1s31</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s31a4">
+<children>
+<LM id="T-wsj1271-001-p1s31a4">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s31W5-Ta</lex.rf>
 <aux.rf>
@@ -8142,7 +8776,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1271-001-p1s31a3">
+<children>
+<LM id="T-wsj1271-001-p1s31a3">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s31W2-Ta</lex.rf>
 </a>
@@ -8153,12 +8788,15 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s31a7">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s31W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s31W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s31W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>týden</t_lemma>
@@ -8195,7 +8833,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s31a11">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s31W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s31W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s31W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodina</t_lemma>
@@ -8236,7 +8876,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s31a16">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s31W17-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s31W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s31W15-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6250f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -8257,9 +8899,11 @@ bude opravena část ze 101 přípojek.</text>
 </gram>
 <deepord>10</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s31a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s31a17">
@@ -8292,27 +8936,34 @@ bude opravena část ze 101 přípojek.</text>
 </gram>
 <deepord>13</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s31a22</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1271-001-p1s31a20">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s31W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s31W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s31W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>16</deepord>
-<children id="T-wsj1271-001-p1s31a19">
+<children>
+<LM id="T-wsj1271-001-p1s31a19">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s31W19-Ta</lex.rf>
 </a>
@@ -8323,18 +8974,21 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>15</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Some of the utility's employees may opt for a four-day workweek, 10 hours a day, to cut the commute by 20%.</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s32">
 <atree.rf>a#a-wsj1271-001-p1s32</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s32a30">
+<children>
+<LM id="T-wsj1271-001-p1s32a30">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s32W30-Ta</lex.rf>
 </a>
@@ -8350,7 +9004,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s32a5">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s32W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s32W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s32W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3848f4</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -8365,7 +9021,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s32a7">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s32W2-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s32W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s32W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -8374,7 +9032,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1271-001-p1s32a36">
+<children>
+<LM id="T-wsj1271-001-p1s32a36">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -8412,6 +9071,7 @@ bude opravena část ze 101 přípojek.</text>
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s32a8">
@@ -8462,7 +9122,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s32a12">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s32W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s32W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s32W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>skupina</t_lemma>
@@ -8526,7 +9188,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj1271-001-p1s32a20">
+<children>
+<LM id="T-wsj1271-001-p1s32a20">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s32W18-Ta</lex.rf>
 </a>
@@ -8537,7 +9200,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1271-001-p1s32a21">
+<children>
+<LM id="T-wsj1271-001-p1s32a21">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s32W21-Ta</lex.rf>
 </a>
@@ -8575,11 +9239,15 @@ bude opravena část ze 101 přípojek.</text>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s32a7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s32a25">
@@ -8597,7 +9265,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s32a27">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s32W28-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s32W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s32W25-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>doba</t_lemma>
@@ -8657,16 +9327,20 @@ bude opravena část ze 101 přípojek.</text>
 <deepord>26</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>At Pacific Telesis Group, flextime is left up to individual working groups, because some of the telephone company's employees must be on-site during normal business hours, a spokeswoman says.</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s33">
 <atree.rf>a#a-wsj1271-001-p1s33</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s33a1">
+<children>
+<LM id="T-wsj1271-001-p1s33a1">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s33W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s33W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s33W3-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3781f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -8688,7 +9362,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1271-001-p1s33a3">
+<children>
+<LM id="T-wsj1271-001-p1s33a3">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s33W1-Ta</lex.rf>
 </a>
@@ -8699,13 +9374,16 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.pron.indef</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s33a4">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s33W4-Ta</lex.rf>
 </a>
-<compl.rf>T-wsj1271-001-p1s33a2</compl.rf>
+<compl.rf>
+<LM>T-wsj1271-001-p1s33a2</LM>
+</compl.rf>
 <nodetype>complex</nodetype>
 <t_lemma>sám</t_lemma>
 <functor>COMPL</functor>
@@ -8717,7 +9395,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s33a7">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s33W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s33W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s33W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>cena</t_lemma>
@@ -8726,7 +9406,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1271-001-p1s33a8">
+<children>
+<LM id="T-wsj1271-001-p1s33a8">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s33W7-Ta</lex.rf>
 </a>
@@ -8737,12 +9418,15 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s33a9">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s33W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s33W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s33W3-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7903f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -8754,7 +9438,9 @@ bude opravena část ze 101 přípojek.</text>
 <deepord>8</deepord>
 <children>
 <LM id="T-wsj1271-001-p1s33a12">
-<coref_gram.rf>T-wsj1271-001-p1s33a2</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1271-001-p1s33a2</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -8772,7 +9458,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1271-001-p1s33a11">
+<children>
+<LM id="T-wsj1271-001-p1s33a11">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s33W10-Ta</lex.rf>
 </a>
@@ -8783,18 +9470,21 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Some individuals went to some lengths on their own to avoid the anticipated gridlock.</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s34">
 <atree.rf>a#a-wsj1271-001-p1s34</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s34a1">
+<children>
+<LM id="T-wsj1271-001-p1s34a1">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s34W6-Ta</lex.rf>
 </a>
@@ -8861,7 +9551,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1271-001-p1s34a2">
+<children>
+<LM id="T-wsj1271-001-p1s34a2">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s34W5-Ta</lex.rf>
 </a>
@@ -8872,11 +9563,14 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s28a6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -8884,7 +9578,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s34a9">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s34W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s34W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s34W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7733f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -8905,15 +9601,19 @@ bude opravena část ze 101 přípojek.</text>
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s34a27</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s34a11">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s34W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s34W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s34W9-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w576f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -8934,14 +9634,18 @@ bude opravena část ze 101 přípojek.</text>
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s34a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s34a28">
 <a>
-<aux.rf>a#a-wsj1271-001-p1s34W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s34W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -8972,14 +9676,18 @@ bude opravena část ze 101 přípojek.</text>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s28a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s34a29">
 <a>
-<aux.rf>a#a-wsj1271-001-p1s34W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s34W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -9013,9 +9721,11 @@ bude opravena část ze 101 přípojek.</text>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s28a25</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -9023,7 +9733,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s34a20">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s34W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s34W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s34W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>tři</t_lemma>
@@ -9048,16 +9760,20 @@ bude opravena část ze 101 přípojek.</text>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>One senior vice president at Bechtel said he got up at 3 a.m. to drive into San Francisco from the East Bay.</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s35">
 <atree.rf>a#a-wsj1271-001-p1s35</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s35a2">
+<children>
+<LM id="T-wsj1271-001-p1s35a2">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s35W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s35W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s35W3-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2436f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -9079,7 +9795,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1271-001-p1s35a4">
+<children>
+<LM id="T-wsj1271-001-p1s35a4">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s35W1-Ta</lex.rf>
 </a>
@@ -9090,6 +9807,7 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s35a1">
@@ -9167,8 +9885,10 @@ bude opravena část ze 101 přípojek.</text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1271-001-p1s35a13">
@@ -9208,13 +9928,15 @@ bude opravena část ze 101 přípojek.</text>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>But transportation officials worry that such extraordinary measures and cooperation may not last.</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s36">
 <atree.rf>a#a-wsj1271-001-p1s36</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s36a21">
+<children>
+<LM id="T-wsj1271-001-p1s36a21">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s36W25-Ta</lex.rf>
 </a>
@@ -9230,7 +9952,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s36a3">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s36W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s36W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s36W1-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7449f11_ZU</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -9307,7 +10031,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1271-001-p1s36a10">
+<children>
+<LM id="T-wsj1271-001-p1s36a10">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s36W11-Ta</lex.rf>
 </a>
@@ -9331,7 +10056,9 @@ bude opravena část ze 101 přípojek.</text>
 <a>
 <lex.rf>a#a-wsj1271-001-p1s36W10-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1271-001-p1s36a9</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1271-001-p1s36a9</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -9351,7 +10078,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1271-001-p1s36a14">
+<children>
+<LM id="T-wsj1271-001-p1s36a14">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s36W13-Ta</lex.rf>
 </a>
@@ -9362,9 +10090,11 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s36a17">
@@ -9390,9 +10120,11 @@ bude opravena část ze 101 přípojek.</text>
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s36a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1271-001-p1s36a19">
@@ -9409,8 +10141,10 @@ bude opravena část ze 101 přípojek.</text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -9421,7 +10155,9 @@ bude opravena část ze 101 přípojek.</text>
 <a>
 <lex.rf>a#a-wsj1271-001-p1s36W22-Ta</lex.rf>
 </a>
-<compl.rf>T-wsj1271-001-p1s36a26</compl.rf>
+<compl.rf>
+<LM>T-wsj1271-001-p1s36a26</LM>
+</compl.rf>
 <nodetype>complex</nodetype>
 <t_lemma>sám</t_lemma>
 <functor>COMPL</functor>
@@ -9433,7 +10169,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s36a32">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s36W24-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s36W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s36W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>vůz</t_lemma>
@@ -9466,7 +10204,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1271-001-p1s36a28">
+<children>
+<LM id="T-wsj1271-001-p1s36a28">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s36W26-Ta</lex.rf>
 </a>
@@ -9477,6 +10216,7 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>18</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s36a29">
@@ -9502,7 +10242,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj1271-001-p1s36a46">
+<children>
+<LM id="T-wsj1271-001-p1s36a46">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -9535,10 +10276,13 @@ bude opravena část ze 101 přípojek.</text>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1271-001-p1s26a26</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s36a38">
@@ -9584,13 +10328,15 @@ bude opravena část ze 101 přípojek.</text>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Although one transportation official said drivers who didn't use car pools were committing ``an anti-social act,'' about two-thirds of the motorists crossing the Golden Gate were alone, compared with the normal 70% rate.</eng_sentence>
 </LM>
 <LM id="T-wsj1271-001-p1s37">
 <atree.rf>a#a-wsj1271-001-p1s37</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1271-001-p1s37a14">
+<children>
+<LM id="T-wsj1271-001-p1s37a14">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s37W15-Ta</lex.rf>
 <aux.rf>
@@ -9627,7 +10373,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1271-001-p1s37a2">
+<children>
+<LM id="T-wsj1271-001-p1s37a2">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s37W2-Ta</lex.rf>
 </a>
@@ -9638,13 +10385,16 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.pron.indef</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1271-001-p1s37a4">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s37W5-Ta</lex.rf>
 </a>
-<compl.rf>T-wsj1271-001-p1s37a3</compl.rf>
+<compl.rf>
+<LM>T-wsj1271-001-p1s37a3</LM>
+</compl.rf>
 <val_frame.rf>v#v-w7107f1</val_frame.rf>
 <nodetype>complex</nodetype>
 <t_lemma>uklidnit</t_lemma>
@@ -9655,7 +10405,9 @@ bude opravena část ze 101 přípojek.</text>
 <deepord>5</deepord>
 <children>
 <LM id="T-wsj1271-001-p1s37a22">
-<coref_gram.rf>T-wsj1271-001-p1s37a3</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1271-001-p1s37a3</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -9697,7 +10449,8 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1271-001-p1s37a11">
+<children>
+<LM id="T-wsj1271-001-p1s37a11">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s37W10-Ta</lex.rf>
 </a>
@@ -9708,6 +10461,7 @@ bude opravena část ze 101 přípojek.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -9717,7 +10471,9 @@ bude opravena část ze 101 přípojek.</text>
 <LM id="T-wsj1271-001-p1s37a17">
 <a>
 <lex.rf>a#a-wsj1271-001-p1s37W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1271-001-p1s37W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1271-001-p1s37W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>způsob</t_lemma>
@@ -9731,7 +10487,9 @@ bude opravena část ze 101 přípojek.</text>
 <a>
 <lex.rf>a#a-wsj1271-001-p1s37W17-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1271-001-p1s37a22</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1271-001-p1s37a22</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -9756,6 +10514,7 @@ bude opravena část ze 101 přípojek.</text>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>And some commuters, relieved by the absence of gridlock, were planning to return to their old ways.</eng_sentence>
 </LM>

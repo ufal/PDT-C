@@ -339,12 +339,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>-s</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -694,12 +688,6 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>7</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>-s</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>

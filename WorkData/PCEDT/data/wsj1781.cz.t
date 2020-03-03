@@ -1784,12 +1784,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>považováno za subst.</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1781-001-p1s7a7">
 <a>
@@ -3676,12 +3670,6 @@
 <deepord>4</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno: povést_se</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1781-001-p1s12a8">
 <a>
@@ -7936,12 +7924,6 @@
 <sempos>v</sempos>
 </gram>
 <deepord>13</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>považováno za sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8159,12 +8141,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1781-001-p1s28a21">
 <a>
@@ -8346,12 +8322,6 @@
 <src>LH</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>měkké i</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <annot_comment>
@@ -8392,12 +8362,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno bez i</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -8736,12 +8700,6 @@
 <deepord>18</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno: zvést se</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -9973,12 +9931,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno záporné t-lemma</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -10876,12 +10828,6 @@ zmírnění nárůstu.</text>
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno: zvést</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1781-001-p1s39a12">
 <a>
@@ -12429,12 +12375,6 @@ zmírnění nárůstu.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -12558,12 +12498,6 @@ zmírnění nárůstu.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -13386,12 +13320,6 @@ zmírnění nárůstu.</text>
 <sempos>adv.denot.grad.neg</sempos>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>záporné t-lemma</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

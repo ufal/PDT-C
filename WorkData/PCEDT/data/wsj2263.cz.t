@@ -11,7 +11,8 @@
 <LM id="T-wsj2263-001-p1s0">
 <atree.rf>a#a-wsj2263-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2263-001-p1s0a1">
+<children>
+<LM id="T-wsj2263-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s0W15-Ta</lex.rf>
 </a>
@@ -208,9 +209,11 @@
 </gram>
 <deepord>16</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2263-001-p1s0a5</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2263-001-p1s0a17">
@@ -261,11 +264,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj2263-001-p1s0a22">
+<children>
+<LM id="T-wsj2263-001-p1s0a22">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s0W20-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj2263-001-p1s0a17</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj2263-001-p1s0a17</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>RSTR</functor>
@@ -273,6 +279,7 @@
 <sempos>n.pron.indef</sempos>
 </gram>
 <deepord>20</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2263-001-p1s0a23">
@@ -298,13 +305,17 @@
 </gram>
 <deepord>23</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2263-001-p1s0a22</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2263-001-p1s0a36">
-<coref_gram.rf>T-wsj2263-001-p1s0a24</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj2263-001-p1s0a24</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Rcp</t_lemma>
@@ -322,7 +333,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>27</deepord>
-<children id="T-wsj2263-001-p1s0a25">
+<children>
+<LM id="T-wsj2263-001-p1s0a25">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s0W24-Ta</lex.rf>
 </a>
@@ -333,12 +345,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>26</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2263-001-p1s0a27">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s0W28-Ta</lex.rf>
-<aux.rf>a#a-wsj2263-001-p1s0W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2263-001-p1s0W26-Ta</LM>
+</aux.rf>
 </a>
 <coref_special>segm</coref_special>
 <nodetype>complex</nodetype>
@@ -348,7 +363,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>29</deepord>
-<children id="T-wsj2263-001-p1s0a28">
+<children>
+<LM id="T-wsj2263-001-p1s0a28">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s0W27-Ta</lex.rf>
 </a>
@@ -359,12 +375,15 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>28</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -373,21 +392,27 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>United Biscuits (Holdings) PLC, a British food producer, announced the creation of a European group to bring together its trading interests in the region.</eng_sentence>
 </LM>
 <LM id="T-wsj2263-001-p1s1">
 <atree.rf>a#a-wsj2263-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2263-001-p1s1a1">
+<children>
+<LM id="T-wsj2263-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s1W4-Ta</lex.rf>
-<aux.rf>a#a-wsj2263-001-p1s1W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2263-001-p1s1W3-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8805f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -409,7 +434,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj2263-001-p1s1a3">
+<children>
+<LM id="T-wsj2263-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s1W1-Ta</lex.rf>
 </a>
@@ -420,11 +446,14 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2263-001-p1s0a32</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2263-001-p1s1a5">
@@ -499,7 +528,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj2263-001-p1s1a25">
+<children>
+<LM id="T-wsj2263-001-p1s1a25">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -531,17 +561,22 @@
 <deepord>12</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2263-001-p1s0a31</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2263-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s1W14-Ta</lex.rf>
-<aux.rf>a#a-wsj2263-001-p1s1W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2263-001-p1s1W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>sféra</t_lemma>
@@ -550,7 +585,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj2263-001-p1s1a15">
+<children>
+<LM id="T-wsj2263-001-p1s1a15">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s1W15-Ta</lex.rf>
 </a>
@@ -561,16 +597,20 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj2263-001-p1s1a27">
+<children>
+<LM id="T-wsj2263-001-p1s1a27">
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Total</t_lemma>
 <functor>RSTR</functor>
 <deepord>15</deepord>
-<children id="T-wsj2263-001-p1s1a26">
+<children>
+<LM id="T-wsj2263-001-p1s1a26">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s1W17-Ta</lex.rf>
-<aux.rf>a#a-wsj2263-001-p1s1W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2263-001-p1s1W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
@@ -579,7 +619,8 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj2263-001-p1s1a18">
+<children>
+<LM id="T-wsj2263-001-p1s1a18">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s1W20-Ta</lex.rf>
 </a>
@@ -596,7 +637,9 @@
 <a>
 <lex.rf>a#a-wsj2263-001-p1s1W19-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj2263-001-p1s1a26</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj2263-001-p1s1a26</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -620,7 +663,9 @@
 <LM id="T-wsj2263-001-p1s1a23">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s1W24-Ta</lex.rf>
-<aux.rf>a#a-wsj2263-001-p1s1W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2263-001-p1s1W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>stát</t_lemma>
@@ -629,7 +674,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj2263-001-p1s1a24">
+<children>
+<LM id="T-wsj2263-001-p1s1a24">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s1W23-Ta</lex.rf>
 </a>
@@ -640,28 +686,31 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
-</children>
 </LM>
 </children>
-</children>
-</children>
-</children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The new group will comprise all of United Biscuit's manufacturing and marketing operations in the food sector apart from those based in the U.S..</eng_sentence>
 </LM>
 <LM id="T-wsj2263-001-p1s2">
 <atree.rf>a#a-wsj2263-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2263-001-p1s2a1">
+<children>
+<LM id="T-wsj2263-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s2W4-Ta</lex.rf>
 </a>
@@ -685,7 +734,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj2263-001-p1s2a50">
+<children>
+<LM id="T-wsj2263-001-p1s2a50">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -717,17 +767,22 @@
 <deepord>4</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2263-001-p1s1a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2263-001-p1s2a22">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s2W24-Ta</lex.rf>
-<aux.rf>a#a-wsj2263-001-p1s2W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2263-001-p1s2W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w523f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -765,7 +820,9 @@
 <LM id="T-wsj2263-001-p1s2a7">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s2W12-Ta</lex.rf>
-<aux.rf>a#a-wsj2263-001-p1s2W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2263-001-p1s2W11-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8805f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -780,7 +837,9 @@
 <a>
 <lex.rf>a#a-wsj2263-001-p1s2W10-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj2263-001-p1s2a5</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj2263-001-p1s2a5</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -818,7 +877,8 @@
 <functor>PAT</functor>
 <is_member>1</is_member>
 <deepord>12</deepord>
-<children id="T-wsj2263-001-p1s2a12">
+<children>
+<LM id="T-wsj2263-001-p1s2a12">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s2W17-Ta</lex.rf>
 </a>
@@ -839,7 +899,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj2263-001-p1s2a15">
+<children>
+<LM id="T-wsj2263-001-p1s2a15">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s2W16-Ta</lex.rf>
 </a>
@@ -850,9 +911,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2263-001-p1s2a16">
@@ -922,6 +981,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -930,9 +990,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2263-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2263-001-p1s2a36">
@@ -972,7 +1034,9 @@
 <LM id="T-wsj2263-001-p1s2a26">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s2W28-Ta</lex.rf>
-<aux.rf>a#a-wsj2263-001-p1s2W27-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2263-001-p1s2W27-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výše</t_lemma>
@@ -981,7 +1045,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj2263-001-p1s2a27">
+<children>
+<LM id="T-wsj2263-001-p1s2a27">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s2W29-Ta</lex.rf>
 </a>
@@ -992,7 +1057,8 @@
 <sempos>adj.quant.grad</sempos>
 </gram>
 <deepord>26</deepord>
-<children id="T-wsj2263-001-p1s2a53">
+<children>
+<LM id="T-wsj2263-001-p1s2a53">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s2W34-Ta</lex.rf>
 </a>
@@ -1005,7 +1071,9 @@
 <LM id="T-wsj2263-001-p1s2a30">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s2W32-Ta</lex.rf>
-<aux.rf>a#a-wsj2263-001-p1s2W30-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2263-001-p1s2W30-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>miliarda</t_lemma>
@@ -1045,7 +1113,9 @@
 <LM id="T-wsj2263-001-p1s2a34">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s2W36-Ta</lex.rf>
-<aux.rf>a#a-wsj2263-001-p1s2W30-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2263-001-p1s2W30-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>miliarda</t_lemma>
@@ -1086,7 +1156,9 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -1127,7 +1199,8 @@
 <sempos>adj.quant.grad</sempos>
 </gram>
 <deepord>37</deepord>
-<children id="T-wsj2263-001-p1s2a54">
+<children>
+<LM id="T-wsj2263-001-p1s2a54">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s2W47-Ta</lex.rf>
 </a>
@@ -1140,7 +1213,9 @@
 <LM id="T-wsj2263-001-p1s2a41">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s2W45-Ta</lex.rf>
-<aux.rf>a#a-wsj2263-001-p1s2W43-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2263-001-p1s2W43-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -1180,7 +1255,9 @@
 <LM id="T-wsj2263-001-p1s2a46">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s2W49-Ta</lex.rf>
-<aux.rf>a#a-wsj2263-001-p1s2W43-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2263-001-p1s2W43-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -1221,7 +1298,6 @@
 </children>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
@@ -1230,13 +1306,17 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>United Biscuits said the combined group, which will include businesses such as McVities biscuits and Terry's confectionery, will have annual sales of more than #1.5 billion ($2.35 billion) and trading profit of more than #160 million ($251 million).</eng_sentence>
 </LM>
 <LM id="T-wsj2263-001-p1s3">
 <atree.rf>a#a-wsj2263-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2263-001-p1s3a26">
+<children>
+<LM id="T-wsj2263-001-p1s3a26">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s3W27-Ta</lex.rf>
 </a>
@@ -1313,7 +1393,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj2263-001-p1s3a39">
+<children>
+<LM id="T-wsj2263-001-p1s3a39">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1345,11 +1426,14 @@
 <deepord>8</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2263-001-p1s2a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2263-001-p1s3a11">
@@ -1384,7 +1468,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj2263-001-p1s3a16">
+<children>
+<LM id="T-wsj2263-001-p1s3a16">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s3W14-Ta</lex.rf>
 </a>
@@ -1395,6 +1480,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2263-001-p1s3a18">
@@ -1419,15 +1505,19 @@
 </gram>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2263-001-p1s3a6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2263-001-p1s3a20">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s3W20-Ta</lex.rf>
-<aux.rf>a#a-wsj2263-001-p1s3W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2263-001-p1s3W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>příležitost</t_lemma>
@@ -1436,10 +1526,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj2263-001-p1s3a21">
+<children>
+<LM id="T-wsj2263-001-p1s3a21">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s3W21-Ta</lex.rf>
-<aux.rf>a#a-wsj2263-001-p1s3W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2263-001-p1s3W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>týkající_se</t_lemma>
@@ -1448,7 +1541,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj2263-001-p1s3a23">
+<children>
+<LM id="T-wsj2263-001-p1s3a23">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s3W24-Ta</lex.rf>
 </a>
@@ -1459,7 +1553,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj2263-001-p1s3a24">
+<children>
+<LM id="T-wsj2263-001-p1s3a24">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s3W23-Ta</lex.rf>
 </a>
@@ -1470,8 +1565,11 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>17</deepord>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -1506,7 +1604,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj2263-001-p1s3a29">
+<children>
+<LM id="T-wsj2263-001-p1s3a29">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s3W28-Ta</lex.rf>
 </a>
@@ -1517,6 +1616,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2263-001-p1s3a27">
@@ -1541,7 +1641,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj2263-001-p1s3a32">
+<children>
+<LM id="T-wsj2263-001-p1s3a32">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s3W31-Ta</lex.rf>
 </a>
@@ -1552,6 +1653,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>23</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2263-001-p1s3a33">
@@ -1591,9 +1693,11 @@
 </gram>
 <deepord>28</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2263-001-p1s2a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -1603,13 +1707,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>``The new structure will enable United Biscuits to focus clearly upon opportunities for planned growth during the 1990s,'' said Bob Clarke, deputy chairman and group chief executive.</eng_sentence>
 </LM>
 <LM id="T-wsj2263-001-p1s4">
 <atree.rf>a#a-wsj2263-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2263-001-p1s4a1">
+<children>
+<LM id="T-wsj2263-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s4W6-Ta</lex.rf>
 </a>
@@ -1633,7 +1739,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj2263-001-p1s4a4">
+<children>
+<LM id="T-wsj2263-001-p1s4a4">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s4W1-Ta</lex.rf>
 </a>
@@ -1644,6 +1751,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2263-001-p1s4a5">
@@ -1657,7 +1765,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj2263-001-p1s4a25">
+<children>
+<LM id="T-wsj2263-001-p1s4a25">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1689,17 +1798,22 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2263-001-p1s3a40</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2263-001-p1s4a8">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s4W8-Ta</lex.rf>
-<aux.rf>a#a-wsj2263-001-p1s4W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2263-001-p1s4W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>prodej</t_lemma>
@@ -1737,7 +1851,9 @@
 <a>
 <lex.rf>a#a-wsj2263-001-p1s4W10-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj2263-001-p1s4a5</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj2263-001-p1s4a5</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -1843,7 +1959,9 @@
 <LM id="T-wsj2263-001-p1s4a21">
 <a>
 <lex.rf>a#a-wsj2263-001-p1s4W21-Ta</lex.rf>
-<aux.rf>a#a-wsj2263-001-p1s4W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2263-001-p1s4W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -1882,6 +2000,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Last month, United Biscuits agreed to sell its entire restaurant operations to Grand Metropolitan PLC for #180 million.</eng_sentence>
 </LM>

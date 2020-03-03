@@ -11,10 +11,13 @@
 <LM id="T-wsj1402-001-p1s0">
 <atree.rf>a#a-wsj1402-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1402-001-p1s0a1">
+<children>
+<LM id="T-wsj1402-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1402-001-p1s0W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1402-001-p1s0W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1402-001-p1s0W11-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7449f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -35,7 +38,9 @@
 <LM id="T-wsj1402-001-p1s0a7">
 <a>
 <lex.rf>a#a-wsj1402-001-p1s0W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1402-001-p1s0W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1402-001-p1s0W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>článek</t_lemma>
@@ -60,7 +65,9 @@
 <LM id="T-wsj1402-001-p1s0a10">
 <a>
 <lex.rf>a#a-wsj1402-001-p1s0W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1402-001-p1s0W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1402-001-p1s0W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>říjen</t_lemma>
@@ -69,10 +76,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1402-001-p1s0a11">
+<children>
+<LM id="T-wsj1402-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj1402-001-p1s0W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1402-001-p1s0W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1402-001-p1s0W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>2</t_lemma>
@@ -81,12 +91,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1402-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj1402-001-p1s0W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1402-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1402-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Yankelovich</t_lemma>
@@ -95,7 +108,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1402-001-p1s0a15">
+<children>
+<LM id="T-wsj1402-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj1402-001-p1s0W9-Ta</lex.rf>
 </a>
@@ -106,6 +120,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -113,7 +128,9 @@
 <LM id="T-wsj1402-001-p1s0a22">
 <a>
 <lex.rf>a#a-wsj1402-001-p1s0W26-Ta</lex.rf>
-<aux.rf>a#a-wsj1402-001-p1s0W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1402-001-p1s0W14-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3703f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -135,7 +152,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1402-001-p1s0a5">
+<children>
+<LM id="T-wsj1402-001-p1s0a5">
 <a>
 <lex.rf>a#a-wsj1402-001-p1s0W18-Ta</lex.rf>
 </a>
@@ -159,10 +177,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1402-001-p1s0a32">
+<children>
+<LM id="T-wsj1402-001-p1s0a32">
 <a>
 <lex.rf>a#a-wsj1402-001-p1s0W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1402-001-p1s0W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1402-001-p1s0W22-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -198,7 +219,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj1402-001-p1s0a26">
+<children>
+<LM id="T-wsj1402-001-p1s0a26">
 <a>
 <lex.rf>a#a-wsj1402-001-p1s0W24-Ta</lex.rf>
 </a>
@@ -209,9 +231,11 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>17</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1402-001-p1s0a19">
@@ -225,7 +249,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1402-001-p1s0a20">
+<children>
+<LM id="T-wsj1402-001-p1s0a20">
 <a>
 <lex.rf>a#a-wsj1402-001-p1s0W19-Ta</lex.rf>
 </a>
@@ -236,15 +261,19 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1402-001-p1s0a28">
 <a>
 <lex.rf>a#a-wsj1402-001-p1s0W31-Ta</lex.rf>
-<aux.rf>a#a-wsj1402-001-p1s0W27-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1402-001-p1s0W27-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Quijot</t_lemma>
@@ -283,13 +312,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Your Oct. 2 article on Daniel Yankelovich cited the quote ``A good name is better than great riches'' as being from Cervantes' ``Don Quixote.''</eng_sentence>
 </LM>
 <LM id="T-wsj1402-001-p1s1">
 <atree.rf>a#a-wsj1402-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1402-001-p1s1a1">
+<children>
+<LM id="T-wsj1402-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1402-001-p1s1W15-Ta</lex.rf>
 </a>
@@ -301,7 +332,9 @@
 <LM id="T-wsj1402-001-p1s1a2">
 <a>
 <lex.rf>a#a-wsj1402-001-p1s1W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1402-001-p1s1W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1402-001-p1s1W3-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8277f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -316,7 +349,9 @@
 <LM id="T-wsj1402-001-p1s1a4">
 <a>
 <lex.rf>a#a-wsj1402-001-p1s1W2-Ta</lex.rf>
-<aux.rf>a#a-wsj1402-001-p1s1W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1402-001-p1s1W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>atom</nodetype>
 <t_lemma>skutečnost</t_lemma>
@@ -335,9 +370,11 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1402-001-p1s0a34</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1402-001-p1s1a7">
@@ -351,7 +388,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1402-001-p1s1a8">
+<children>
+<LM id="T-wsj1402-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj1402-001-p1s1W5-Ta</lex.rf>
 </a>
@@ -362,17 +400,22 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1402-001-p1s0a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1402-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj1402-001-p1s1W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1402-001-p1s1W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1402-001-p1s1W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>spisovatel</t_lemma>
@@ -381,7 +424,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1402-001-p1s1a12">
+<children>
+<LM id="T-wsj1402-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj1402-001-p1s1W14-Ta</lex.rf>
 </a>
@@ -392,10 +436,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1402-001-p1s1a28">
+<children>
+<LM id="T-wsj1402-001-p1s1a28">
 <a>
 <lex.rf>a#a-wsj1402-001-p1s1W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1402-001-p1s1W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1402-001-p1s1W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -430,7 +477,9 @@
 <deepord>8</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -498,7 +547,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj1402-001-p1s1a21">
+<children>
+<LM id="T-wsj1402-001-p1s1a21">
 <a>
 <lex.rf>a#a-wsj1402-001-p1s1W19-Ta</lex.rf>
 </a>
@@ -509,17 +559,22 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>15</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1402-001-p1s1a7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1402-001-p1s1a23">
 <a>
 <lex.rf>a#a-wsj1402-001-p1s1W23-Ta</lex.rf>
-<aux.rf>a#a-wsj1402-001-p1s1W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1402-001-p1s1W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Kniha</t_lemma>
@@ -555,21 +610,19 @@
 <deepord>20</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Actually, Cervantes borrowed that quote from a writer of some 25 centuries earlier: Israel's King Solomon wrote those words in the Book of Proverbs (22:1).</eng_sentence>
 </LM>
 <LM id="T-wsj1402-001-p1s2">
 <atree.rf>a#a-wsj1402-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1402-001-p1s2a1">
+<children>
+<LM id="T-wsj1402-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1402-001-p1s2W4-Ta</lex.rf>
 </a>
@@ -606,6 +659,7 @@
 <deepord>2</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Michael E. Hill</eng_sentence>
 </LM>

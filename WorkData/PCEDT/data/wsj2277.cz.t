@@ -433,12 +433,6 @@
 <deepord>32</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>1 V 2</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2277-001-p1s0a59">
 <a>

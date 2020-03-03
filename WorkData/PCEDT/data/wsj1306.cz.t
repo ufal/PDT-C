@@ -437,12 +437,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno: Tanda</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -905,12 +899,6 @@
 <deepord>5</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno: peníz</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1306-001-p1s3a9">
 <a>
@@ -1795,12 +1783,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno: Tanda</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -2648,12 +2630,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>35</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno: Tanda</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -2732,12 +2708,6 @@
 <deepord>2</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>považováno za sloveso kanout</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1306-001-p1s8a5">
 <a>
@@ -3946,15 +3916,6 @@
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>považováno za "kanout"</text>
-</LM>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1306-001-p1s11a54">
 <a>
@@ -4141,12 +4102,6 @@
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>považováno za sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1306-001-p1s12a5">
 <a>

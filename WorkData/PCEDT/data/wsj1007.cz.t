@@ -106,12 +106,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1007-001-p1s0a7">
 <a>
@@ -128,12 +122,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -422,12 +410,6 @@
 <src>LH</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>poses. adj.</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -1033,12 +1015,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1007-001-p1s3a8">
 <a>
@@ -1051,12 +1027,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3104,12 +3074,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>TYPO</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <eng_sentence>In late New York trading yesterday, the dollar was quoted at 1.8353 marks, down from 1.8355 marks Tuesday, and at 141.52 yen, up from 141.45 yen late Tuesday.</eng_sentence>
@@ -3299,12 +3263,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>kótovat</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <eng_sentence>Sterling was quoted at $1.6145, up from $1.6055 late Tuesday.</eng_sentence>
@@ -4042,12 +4000,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1007-001-p1s13a38">
 <a>
@@ -4218,12 +4170,6 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>moci - jiný slovní druh</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1007-001-p1s13a32">
 <a>
@@ -5262,11 +5208,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6448,12 +6389,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1007-001-p1s19a28">
 <a>
@@ -6972,12 +6907,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>kótovat</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <eng_sentence>In early trading in Hong Kong Thursday, gold was quoted at $368.24 an ounce.</eng_sentence>

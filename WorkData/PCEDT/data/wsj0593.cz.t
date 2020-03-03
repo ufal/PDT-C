@@ -11,10 +11,13 @@
 <LM id="T-wsj0593-001-p1s0">
 <atree.rf>a#a-wsj0593-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0593-001-p1s0a1">
+<children>
+<LM id="T-wsj0593-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0593-001-p1s0W18-Ta</lex.rf>
-<aux.rf>a#a-wsj0593-001-p1s0W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0593-001-p1s0W17-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9986f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -151,7 +154,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0593-001-p1s0a26">
+<children>
+<LM id="T-wsj0593-001-p1s0a26">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -213,6 +217,7 @@
 <deepord>17</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -224,7 +229,9 @@
 <LM id="T-wsj0593-001-p1s0a20">
 <a>
 <lex.rf>a#a-wsj0593-001-p1s0W20-Ta</lex.rf>
-<aux.rf>a#a-wsj0593-001-p1s0W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0593-001-p1s0W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rada</t_lemma>
@@ -233,7 +240,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj0593-001-p1s0a21">
+<children>
+<LM id="T-wsj0593-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj0593-001-p1s0W21-Ta</lex.rf>
 </a>
@@ -244,7 +252,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj0593-001-p1s0a22">
+<children>
+<LM id="T-wsj0593-001-p1s0a22">
 <a>
 <lex.rf>a#a-wsj0593-001-p1s0W23-Ta</lex.rf>
 </a>
@@ -282,25 +291,33 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0593-001-p1s0a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <str_comment>
+<LM>
 <name>AMBIG</name>
 <comment>nebo něco v předchozím kontextu, který zde ale chybí</comment>
+</LM>
 </str_comment>
 <src>LH</src>
+</LM>
 </coref_text>
-</children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Joseph L. Dionne, chairman and chief executive officer of McGraw-Hill Inc., was elected to the board of directors of this electronics manufacturer.</eng_sentence>
 </LM>
 <LM id="T-wsj0593-001-p1s1">
 <atree.rf>a#a-wsj0593-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0593-001-p1s1a1">
+<children>
+<LM id="T-wsj0593-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0593-001-p1s1W1-Ta</lex.rf>
 </a>
@@ -323,9 +340,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0593-001-p1s0a27</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0593-001-p1s1a3">
@@ -388,7 +407,9 @@
 <a>
 <lex.rf>a#a-wsj0593-001-p1s1W7-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0593-001-p1s1a3</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0593-001-p1s1a3</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -400,7 +421,9 @@
 <LM id="T-wsj0593-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj0593-001-p1s1W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0593-001-p1s1W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0593-001-p1s1W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>důchod</t_lemma>
@@ -413,11 +436,9 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>He succeeds the retiring James W. Wilcock.</eng_sentence>
 </LM>

@@ -2442,12 +2442,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>zvednout se</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <eng_sentence>The yield on six-month Treasury bills sold at Monday's auction, for example, rose to 8.04% from 7.90%.</eng_sentence>

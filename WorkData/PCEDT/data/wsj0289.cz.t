@@ -1513,12 +1513,6 @@
 <deepord>7</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>z místo s</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0289-001-p1s3a15">
 <a>
@@ -1963,12 +1957,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>nesmyslné lemma</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -2178,12 +2166,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>nesmyslné lemma</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -2434,12 +2416,6 @@
 <deepord>25</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>krátce</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

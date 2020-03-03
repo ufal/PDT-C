@@ -11,7 +11,8 @@
 <LM id="T-wsj1240-001-p1s0">
 <atree.rf>a#a-wsj1240-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1240-001-p1s0a1">
+<children>
+<LM id="T-wsj1240-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s0W25-Ta</lex.rf>
 </a>
@@ -77,7 +78,9 @@
 <LM id="T-wsj1240-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s0W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1240-001-p1s0W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1240-001-p1s0W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>ocelárna</t_lemma>
@@ -92,7 +95,9 @@
 <LM id="T-wsj1240-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s0W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1240-001-p1s0W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1240-001-p1s0W6-Ta</LM>
+</aux.rf>
 </a>
 <coref_special>exoph</coref_special>
 <nodetype>complex</nodetype>
@@ -102,7 +107,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1240-001-p1s0a14">
+<children>
+<LM id="T-wsj1240-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s0W7-Ta</lex.rf>
 </a>
@@ -113,6 +119,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -128,7 +135,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1240-001-p1s0a16">
+<children>
+<LM id="T-wsj1240-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s0W9-Ta</lex.rf>
 </a>
@@ -139,18 +147,22 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1240-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s0W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1240-001-p1s0W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1240-001-p1s0W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>11</deepord>
-<children id="T-wsj1240-001-p1s0a18">
+<children>
+<LM id="T-wsj1240-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s0W13-Ta</lex.rf>
 </a>
@@ -161,12 +173,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1240-001-p1s0a22">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s0W17-Ta</lex.rf>
-<aux.rf>a#a-wsj1240-001-p1s0W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1240-001-p1s0W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>tuna</t_lemma>
@@ -175,7 +190,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1240-001-p1s0a21">
+<children>
+<LM id="T-wsj1240-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s0W16-Ta</lex.rf>
 </a>
@@ -186,12 +202,15 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1240-001-p1s0a24">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s0W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1240-001-p1s0W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1240-001-p1s0W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>tuna</t_lemma>
@@ -200,7 +219,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1240-001-p1s0a25">
+<children>
+<LM id="T-wsj1240-001-p1s0a25">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s0W19-Ta</lex.rf>
 </a>
@@ -211,12 +231,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1240-001-p1s0a27">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s0W23-Ta</lex.rf>
-<aux.rf>a#a-wsj1240-001-p1s0W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1240-001-p1s0W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>týden</t_lemma>
@@ -225,7 +248,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1240-001-p1s0a28">
+<children>
+<LM id="T-wsj1240-001-p1s0a28">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s0W22-Ta</lex.rf>
 </a>
@@ -236,6 +260,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -263,10 +288,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1240-001-p1s0a5">
 <a>
@@ -280,7 +301,9 @@
 <LM id="T-wsj1240-001-p1s0a30">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s0W29-Ta</lex.rf>
-<aux.rf>a#a-wsj1240-001-p1s0W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1240-001-p1s0W28-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>železo</t_lemma>
@@ -294,7 +317,9 @@
 <LM id="T-wsj1240-001-p1s0a31">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s0W31-Ta</lex.rf>
-<aux.rf>a#a-wsj1240-001-p1s0W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1240-001-p1s0W28-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>ocel</t_lemma>
@@ -310,13 +335,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Raw-steel production by the nation's mills decreased 0.7% last week to 1,816,000 tons from 1,828,000 tons the previous week, the American Iron and Steel Institute said.</eng_sentence>
 </LM>
 <LM id="T-wsj1240-001-p1s1">
 <atree.rf>a#a-wsj1240-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1240-001-p1s1a1">
+<children>
+<LM id="T-wsj1240-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -340,7 +367,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1240-001-p1s1a3">
+<children>
+<LM id="T-wsj1240-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s1W1-Ta</lex.rf>
 </a>
@@ -351,11 +379,14 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1240-001-p1s0a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1240-001-p1s1a4">
@@ -369,7 +400,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1240-001-p1s1a5">
+<children>
+<LM id="T-wsj1240-001-p1s1a5">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s1W5-Ta</lex.rf>
 </a>
@@ -380,18 +412,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1240-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s1W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1240-001-p1s1W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1240-001-p1s1W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>7</deepord>
-<children id="T-wsj1240-001-p1s1a7">
+<children>
+<LM id="T-wsj1240-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s1W7-Ta</lex.rf>
 </a>
@@ -402,12 +438,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1240-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s1W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1240-001-p1s1W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1240-001-p1s1W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>tuna</t_lemma>
@@ -440,10 +479,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1240-001-p1s1a14">
+<children>
+<LM id="T-wsj1240-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s1W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1240-001-p1s1W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1240-001-p1s1W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -452,18 +494,21 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Last week's output fell 1.7% from the 1,848,000 tons produced a year earlier.</eng_sentence>
 </LM>
 <LM id="T-wsj1240-001-p1s2">
 <atree.rf>a#a-wsj1240-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1240-001-p1s2a2">
+<children>
+<LM id="T-wsj1240-001-p1s2a2">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s2W6-Ta</lex.rf>
 </a>
@@ -488,7 +533,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1240-001-p1s2a4">
+<children>
+<LM id="T-wsj1240-001-p1s2a4">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s2W1-Ta</lex.rf>
 </a>
@@ -499,12 +545,15 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1240-001-p1s2a6">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s2W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1240-001-p1s2W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1240-001-p1s2W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>týden</t_lemma>
@@ -513,7 +562,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1240-001-p1s2a7">
+<children>
+<LM id="T-wsj1240-001-p1s2a7">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s2W4-Ta</lex.rf>
 </a>
@@ -524,11 +574,14 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1240-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1240-001-p1s2a9">
@@ -563,11 +616,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1240-001-p1s2a11">
+<children>
+<LM id="T-wsj1240-001-p1s2a11">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s2W9-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1240-001-p1s2a3</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1240-001-p1s2a3</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -575,6 +631,7 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -618,7 +675,9 @@
 <LM id="T-wsj1240-001-p1s2a18">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s2W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1240-001-p1s2W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1240-001-p1s2W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>týden</t_lemma>
@@ -627,7 +686,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1240-001-p1s2a19">
+<children>
+<LM id="T-wsj1240-001-p1s2a19">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s2W17-Ta</lex.rf>
 </a>
@@ -638,11 +698,14 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1240-001-p1s0a27</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -677,7 +740,9 @@
 <LM id="T-wsj1240-001-p1s2a23">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s2W23-Ta</lex.rf>
-<aux.rf>a#a-wsj1240-001-p1s2W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1240-001-p1s2W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -692,13 +757,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The industry used 81.6% of its capability last week, compared with 82.2% the previous week and 86.2% a year ago.</eng_sentence>
 </LM>
 <LM id="T-wsj1240-001-p1s3">
 <atree.rf>a#a-wsj1240-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1240-001-p1s3a1">
+<children>
+<LM id="T-wsj1240-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s3W7-Ta</lex.rf>
 </a>
@@ -734,10 +801,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1240-001-p1s3a5">
 <a>
@@ -751,7 +814,9 @@
 <LM id="T-wsj1240-001-p1s3a6">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s3W4-Ta</lex.rf>
-<aux.rf>a#a-wsj1240-001-p1s3W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1240-001-p1s3W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>železo</t_lemma>
@@ -765,7 +830,9 @@
 <LM id="T-wsj1240-001-p1s3a7">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s3W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1240-001-p1s3W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1240-001-p1s3W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>ocel</t_lemma>
@@ -780,9 +847,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1240-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1240-001-p1s3a8">
@@ -810,7 +879,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1240-001-p1s3a11">
+<children>
+<LM id="T-wsj1240-001-p1s3a11">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s3W10-Ta</lex.rf>
 </a>
@@ -844,14 +914,13 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>malé písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1240-001-p1s3a13">
 <a>
@@ -864,10 +933,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1240-001-p1s3a17">
+<children>
+<LM id="T-wsj1240-001-p1s3a17">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s3W17-Ta</lex.rf>
-<aux.rf>a#a-wsj1240-001-p1s3W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1240-001-p1s3W16-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7092f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -889,7 +961,9 @@
 <a>
 <lex.rf>a#a-wsj1240-001-p1s3W15-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1240-001-p1s3a13</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1240-001-p1s3a13</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -914,7 +988,9 @@
 <LM id="T-wsj1240-001-p1s3a21">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s3W21-Ta</lex.rf>
-<aux.rf>a#a-wsj1240-001-p1s3W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1240-001-p1s3W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>procento</t_lemma>
@@ -947,7 +1023,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1240-001-p1s3a24">
+<children>
+<LM id="T-wsj1240-001-p1s3a24">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s3W22-Ta</lex.rf>
 </a>
@@ -958,6 +1035,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>18</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -977,7 +1055,9 @@
 <LM id="T-wsj1240-001-p1s3a27">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s3W27-Ta</lex.rf>
-<aux.rf>a#a-wsj1240-001-p1s3W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1240-001-p1s3W25-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>týden</t_lemma>
@@ -986,7 +1066,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj1240-001-p1s3a28">
+<children>
+<LM id="T-wsj1240-001-p1s3a28">
 <a>
 <lex.rf>a#a-wsj1240-001-p1s3W26-Ta</lex.rf>
 </a>
@@ -997,16 +1078,19 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>21</deepord>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The American Iron and Steel Institute reported: The capability utilization rate is a calculation designed to indicate at what percent of its production capability the industry is operating in a given week.</eng_sentence>
 </LM>

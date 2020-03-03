@@ -264,12 +264,6 @@
 <deepord>18</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatně utvořený infinitiv</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0069-001-p1s0a22">
 <a>

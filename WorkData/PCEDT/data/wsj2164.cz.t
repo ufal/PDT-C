@@ -11,10 +11,13 @@
 <LM id="T-wsj2164-001-p1s0">
 <atree.rf>a#a-wsj2164-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2164-001-p1s0a1">
+<children>
+<LM id="T-wsj2164-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj2164-001-p1s0W17-Ta</lex.rf>
-<aux.rf>a#a-wsj2164-001-p1s0W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2164-001-p1s0W12-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1344f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -92,7 +95,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj2164-001-p1s0a27">
+<children>
+<LM id="T-wsj2164-001-p1s0a27">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -110,9 +114,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 <LM id="T-wsj2164-001-p1s0a3">
 <a>
@@ -148,6 +149,7 @@
 <deepord>11</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -155,7 +157,9 @@
 <LM id="T-wsj2164-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj2164-001-p1s0W16-Ta</lex.rf>
-<aux.rf>a#a-wsj2164-001-p1s0W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2164-001-p1s0W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>leden</t_lemma>
@@ -164,10 +168,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj2164-001-p1s0a16">
+<children>
+<LM id="T-wsj2164-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj2164-001-p1s0W14-Ta</lex.rf>
-<aux.rf>a#a-wsj2164-001-p1s0W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2164-001-p1s0W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>1</t_lemma>
@@ -176,6 +183,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2164-001-p1s0a18">
@@ -213,7 +221,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj2164-001-p1s0a21">
+<children>
+<LM id="T-wsj2164-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj2164-001-p1s0W23-Ta</lex.rf>
 </a>
@@ -251,26 +260,33 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2164-001-p1s0a27</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>G. William Ryan, president of Post-Newsweek Stations, was named chief executive officer of the unit of this media company, effective Jan. 1.</eng_sentence>
 </LM>
 <LM id="T-wsj2164-001-p1s1">
 <atree.rf>a#a-wsj2164-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2164-001-p1s1a1">
+<children>
+<LM id="T-wsj2164-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj2164-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -295,15 +311,19 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2164-001-p1s0a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2164-001-p1s1a5">
 <a>
 <lex.rf>a#a-wsj2164-001-p1s1W5-Ta</lex.rf>
-<aux.rf>a#a-wsj2164-001-p1s1W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2164-001-p1s1W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2014f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -324,9 +344,11 @@
 </gram>
 <deepord>3</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2164-001-p1s0a26</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2164-001-p1s1a6">
@@ -380,7 +402,9 @@
 <a>
 <lex.rf>a#a-wsj2164-001-p1s1W9-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj2164-001-p1s1a6</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj2164-001-p1s1a6</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -400,7 +424,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj2164-001-p1s1a13">
+<children>
+<LM id="T-wsj2164-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj2164-001-p1s1W12-Ta</lex.rf>
 </a>
@@ -412,10 +437,13 @@
 </gram>
 <deepord>10</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2164-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 </children>
@@ -423,7 +451,9 @@
 <LM id="T-wsj2164-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj2164-001-p1s1W16-Ta</lex.rf>
-<aux.rf>a#a-wsj2164-001-p1s1W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2164-001-p1s1W15-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5500f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -445,9 +475,11 @@
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2164-001-p1s1a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2164-001-p1s1a15">
@@ -473,7 +505,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj2164-001-p1s1a28">
+<children>
+<LM id="T-wsj2164-001-p1s1a28">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -491,9 +524,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 <LM id="T-wsj2164-001-p1s1a17">
 <a>
@@ -517,12 +547,15 @@
 <deepord>19</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2164-001-p1s1a21">
 <a>
 <lex.rf>a#a-wsj2164-001-p1s1W24-Ta</lex.rf>
-<aux.rf>a#a-wsj2164-001-p1s1W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2164-001-p1s1W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>organizace</t_lemma>
@@ -567,6 +600,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>He will succeed Joel Chaseman, who will remain a vice president of the company and continue to represent Post-Newsweek stations in several industry organizations, the company said.</eng_sentence>
 </LM>

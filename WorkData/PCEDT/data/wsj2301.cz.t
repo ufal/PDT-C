@@ -11,7 +11,8 @@
 <LM id="T-wsj2301-001-p1s0">
 <atree.rf>a#a-wsj2301-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2301-001-p1s0a1">
+<children>
+<LM id="T-wsj2301-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj2301-001-p1s0W17-Ta</lex.rf>
 </a>
@@ -27,7 +28,9 @@
 <LM id="T-wsj2301-001-p1s0a3">
 <a>
 <lex.rf>a#a-wsj2301-001-p1s0W3-Ta</lex.rf>
-<aux.rf>a#a-wsj2301-001-p1s0W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2301-001-p1s0W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>článek</t_lemma>
@@ -52,7 +55,9 @@
 <LM id="T-wsj2301-001-p1s0a6">
 <a>
 <lex.rf>a#a-wsj2301-001-p1s0W6-Ta</lex.rf>
-<aux.rf>a#a-wsj2301-001-p1s0W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2301-001-p1s0W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>strana</t_lemma>
@@ -61,7 +66,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj2301-001-p1s0a7">
+<children>
+<LM id="T-wsj2301-001-p1s0a7">
 <a>
 <lex.rf>a#a-wsj2301-001-p1s0W5-Ta</lex.rf>
 </a>
@@ -72,12 +78,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2301-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj2301-001-p1s0W10-Ta</lex.rf>
-<aux.rf>a#a-wsj2301-001-p1s0W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2301-001-p1s0W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>září</t_lemma>
@@ -86,7 +95,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj2301-001-p1s0a10">
+<children>
+<LM id="T-wsj2301-001-p1s0a10">
 <a>
 <lex.rf>a#a-wsj2301-001-p1s0W8-Ta</lex.rf>
 </a>
@@ -97,6 +107,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2301-001-p1s0a13">
@@ -111,7 +122,9 @@
 <LM id="T-wsj2301-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj2301-001-p1s0W13-Ta</lex.rf>
-<aux.rf>a#a-wsj2301-001-p1s0W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2301-001-p1s0W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Charles</t_lemma>
@@ -121,7 +134,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj2301-001-p1s0a14">
+<children>
+<LM id="T-wsj2301-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj2301-001-p1s0W12-Ta</lex.rf>
 </a>
@@ -132,12 +146,15 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2301-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj2301-001-p1s0W15-Ta</lex.rf>
-<aux.rf>a#a-wsj2301-001-p1s0W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2301-001-p1s0W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>pijavice</t_lemma>
@@ -208,7 +225,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj2301-001-p1s0a22">
+<children>
+<LM id="T-wsj2301-001-p1s0a22">
 <a>
 <lex.rf>a#a-wsj2301-001-p1s0W25-Ta</lex.rf>
 </a>
@@ -225,7 +243,9 @@
 <a>
 <lex.rf>a#a-wsj2301-001-p1s0W24-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj2301-001-p1s0a27</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj2301-001-p1s0a27</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>TWHEN</functor>
@@ -259,18 +279,21 @@
 <deepord>20</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Concerning your Sept. 21 page-one article on Prince Charles and the leeches: It's a few hundred years since England has been a kingdom.</eng_sentence>
 </LM>
 <LM id="T-wsj2301-001-p1s1">
 <atree.rf>a#a-wsj2301-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2301-001-p1s1a7">
+<children>
+<LM id="T-wsj2301-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj2301-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -307,9 +330,11 @@
 </gram>
 <deepord>3</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2301-001-p1s0a26</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2301-001-p1s1a10">
@@ -335,10 +360,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj2301-001-p1s1a12">
 <a>
@@ -361,7 +382,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj2301-001-p1s1a14">
+<children>
+<LM id="T-wsj2301-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj2301-001-p1s1W6-Ta</lex.rf>
 </a>
@@ -372,10 +394,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2301-001-p1s1a15">
@@ -390,7 +409,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj2301-001-p1s1a16">
+<children>
+<LM id="T-wsj2301-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj2301-001-p1s1W9-Ta</lex.rf>
 </a>
@@ -401,10 +421,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 </children>
@@ -430,7 +447,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj2301-001-p1s1a26">
+<children>
+<LM id="T-wsj2301-001-p1s1a26">
 <a>
 <lex.rf>a#a-wsj2301-001-p1s1W17-Ta</lex.rf>
 </a>
@@ -464,7 +482,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj2301-001-p1s1a20">
+<children>
+<LM id="T-wsj2301-001-p1s1a20">
 <a>
 <lex.rf>a#a-wsj2301-001-p1s1W15-Ta</lex.rf>
 </a>
@@ -475,10 +494,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2301-001-p1s1a21">
@@ -495,6 +511,7 @@
 <deepord>16</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2301-001-p1s1a27">
@@ -541,9 +558,11 @@
 </gram>
 <deepord>22</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2301-001-p1s0a25</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -562,13 +581,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>It's now the United Kingdom of Great Britain and Northern Ireland, comprising Wales, Northern Ireland, Scotland, and... oh yes, England, too.</eng_sentence>
 </LM>
 <LM id="T-wsj2301-001-p1s2">
 <atree.rf>a#a-wsj2301-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2301-001-p1s2a1">
+<children>
+<LM id="T-wsj2301-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj2301-001-p1s2W1-Ta</lex.rf>
 <aux.rf>
@@ -622,9 +643,11 @@
 </gram>
 <deepord>3</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2301-001-p1s0a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2301-001-p1s2a8">
@@ -644,7 +667,9 @@
 <a>
 <lex.rf>a#a-wsj2301-001-p1s2W8-Ta</lex.rf>
 </a>
-<compl.rf>T-wsj2301-001-p1s2a12</compl.rf>
+<compl.rf>
+<LM>T-wsj2301-001-p1s2a12</LM>
+</compl.rf>
 <nodetype>complex</nodetype>
 <t_lemma>rád</t_lemma>
 <functor>COMPL</functor>
@@ -656,13 +681,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence> Just thought you'd like to know.</eng_sentence>
 </LM>
 <LM id="T-wsj2301-001-p1s3">
 <atree.rf>a#a-wsj2301-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2301-001-p1s3a1">
+<children>
+<LM id="T-wsj2301-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj2301-001-p1s3W2-Ta</lex.rf>
 </a>
@@ -673,7 +700,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj2301-001-p1s3a2">
+<children>
+<LM id="T-wsj2301-001-p1s3a2">
 <a>
 <lex.rf>a#a-wsj2301-001-p1s3W1-Ta</lex.rf>
 </a>
@@ -684,12 +712,16 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2301-001-p1s2a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 <eng_sentence>George Morton</eng_sentence>
 </LM>

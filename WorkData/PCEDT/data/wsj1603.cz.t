@@ -797,12 +797,6 @@
 <deepord>2</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>malé písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <eng_sentence>The Tire King</eng_sentence>
@@ -2849,11 +2843,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1603-001-p1s17a2">
 <a>
@@ -4428,11 +4417,6 @@
 <src>PCEDT</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1603-001-p1s24a7">
 <a>
@@ -5881,12 +5865,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>28</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <annot_comment>
@@ -9651,12 +9629,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1603-001-p1s48a5">
 <a>
@@ -11704,12 +11676,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno a špatný nominativ</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1603-001-p1s56a13">
 <a>
@@ -11997,12 +11963,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatný nominativ</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -12996,11 +12956,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -14859,20 +14814,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatný nominativ</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1603-001-p1s73a16">
 <a>
@@ -15908,12 +15851,6 @@
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatný základní tvar</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1603-001-p1s78a5">
 <a>

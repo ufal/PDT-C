@@ -2067,12 +2067,6 @@
 <deepord>27</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>patrně má jiný význam</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3016,12 +3010,6 @@
 <deepord>7</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>patrně má jiný význam</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4313,12 +4301,6 @@
 <deepord>7</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatný tvar</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0595-001-p1s16a12">
 <a>
@@ -4399,12 +4381,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatná podoba</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0595-001-p1s16a20">
 <a>
@@ -4451,12 +4427,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Institute</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7180,11 +7150,6 @@
 <sempos>v</sempos>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0595-001-p1s23a2">
 <a>
@@ -7564,12 +7529,6 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>21</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8149,12 +8108,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>nesmyslné lemma</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8200,12 +8153,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>nesmyslné lemma</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0595-001-p1s26a21">
 <a>
@@ -8443,12 +8390,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>konzervatismus</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8516,12 +8457,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>s místo z</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0595-001-p1s27a26">
 <a>
@@ -9053,12 +8988,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>36</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velká písmena</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -9758,11 +9687,6 @@
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>23</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0595-001-p1s30a29">
 <a>
@@ -10846,12 +10770,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

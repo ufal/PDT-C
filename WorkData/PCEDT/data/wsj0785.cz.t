@@ -11,7 +11,8 @@
 <LM id="T-wsj0785-001-p1s0">
 <atree.rf>a#a-wsj0785-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0785-001-p1s0a30">
+<children>
+<LM id="T-wsj0785-001-p1s0a30">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s0W18-Ta</lex.rf>
 </a>
@@ -69,7 +70,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0785-001-p1s0a5">
+<children>
+<LM id="T-wsj0785-001-p1s0a5">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s0W3-Ta</lex.rf>
 </a>
@@ -80,6 +82,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -87,7 +90,9 @@
 <LM id="T-wsj0785-001-p1s0a7">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s0W6-Ta</lex.rf>
-<aux.rf>a#a-wsj0785-001-p1s0W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0785-001-p1s0W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>září</t_lemma>
@@ -100,13 +105,16 @@
 <LM id="T-wsj0785-001-p1s0a31">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s0W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0785-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0785-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>8</deepord>
-<children id="T-wsj0785-001-p1s0a9">
+<children>
+<LM id="T-wsj0785-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s0W9-Ta</lex.rf>
 </a>
@@ -117,12 +125,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0785-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s0W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0785-001-p1s0W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0785-001-p1s0W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>období</t_lemma>
@@ -147,7 +158,9 @@
 <LM id="T-wsj0785-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s0W16-Ta</lex.rf>
-<aux.rf>a#a-wsj0785-001-p1s0W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0785-001-p1s0W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -156,7 +169,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj0785-001-p1s0a16">
+<children>
+<LM id="T-wsj0785-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s0W15-Ta</lex.rf>
 </a>
@@ -167,6 +181,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -214,7 +229,9 @@
 <LM id="T-wsj0785-001-p1s0a23">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s0W23-Ta</lex.rf>
-<aux.rf>a#a-wsj0785-001-p1s0W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0785-001-p1s0W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>sektor</t_lemma>
@@ -223,7 +240,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj0785-001-p1s0a24">
+<children>
+<LM id="T-wsj0785-001-p1s0a24">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s0W22-Ta</lex.rf>
 </a>
@@ -234,15 +252,20 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0785-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <str_comment>
+<LM>
 <name>AMBIG</name>
 <comment>nebo typ GEN</comment>
+</LM>
 </str_comment>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -279,11 +302,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj0785-001-p1s0a28">
+<children>
+<LM id="T-wsj0785-001-p1s0a28">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s0W27-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0785-001-p1s0a20</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0785-001-p1s0a20</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -291,20 +317,23 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>21</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Canadian production of market pulp rose 1% in September from a year earlier as the industry operated at 87% of capacity.</eng_sentence>
 </LM>
 <LM id="T-wsj0785-001-p1s1">
 <atree.rf>a#a-wsj0785-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0785-001-p1s1a1">
+<children>
+<LM id="T-wsj0785-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s1W9-Ta</lex.rf>
 </a>
@@ -340,7 +369,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0785-001-p1s1a3">
+<children>
+<LM id="T-wsj0785-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s1W1-Ta</lex.rf>
 </a>
@@ -351,6 +381,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0785-001-p1s1a5">
@@ -364,10 +395,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0785-001-p1s1a7">
 <a>
@@ -381,7 +408,9 @@
 <LM id="T-wsj0785-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s1W6-Ta</lex.rf>
-<aux.rf>a#a-wsj0785-001-p1s1W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0785-001-p1s1W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dřevovina</t_lemma>
@@ -395,7 +424,9 @@
 <LM id="T-wsj0785-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s1W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0785-001-p1s1W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0785-001-p1s1W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>papír</t_lemma>
@@ -413,7 +444,9 @@
 <LM id="T-wsj0785-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s1W16-Ta</lex.rf>
-<aux.rf>a#a-wsj0785-001-p1s1W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0785-001-p1s1W11-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8298f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -435,7 +468,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0785-001-p1s1a14">
+<children>
+<LM id="T-wsj0785-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s1W12-Ta</lex.rf>
 </a>
@@ -446,12 +480,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0785-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s1W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0785-001-p1s1W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0785-001-p1s1W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>září</t_lemma>
@@ -461,9 +498,11 @@
 </gram>
 <deepord>11</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0785-001-p1s0a7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0785-001-p1s1a18">
@@ -513,7 +552,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj0785-001-p1s1a21">
+<children>
+<LM id="T-wsj0785-001-p1s1a21">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s1W20-Ta</lex.rf>
 </a>
@@ -524,6 +564,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -584,7 +625,9 @@
 <LM id="T-wsj0785-001-p1s1a30">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s1W30-Ta</lex.rf>
-<aux.rf>a#a-wsj0785-001-p1s1W29-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0785-001-p1s1W29-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>září</t_lemma>
@@ -599,13 +642,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The Canadian Pulp and Paper Association, an industry group, said Canadian mills produced 532,000 metric tons of market pulp in September, compared with 527,000 metric tons a year earlier.</eng_sentence>
 </LM>
 <LM id="T-wsj0785-001-p1s2">
 <atree.rf>a#a-wsj0785-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0785-001-p1s2a1">
+<children>
+<LM id="T-wsj0785-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s2W3-Ta</lex.rf>
 </a>
@@ -629,7 +674,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0785-001-p1s2a3">
+<children>
+<LM id="T-wsj0785-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s2W1-Ta</lex.rf>
 </a>
@@ -640,6 +686,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0785-001-p1s2a4">
@@ -653,7 +700,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0785-001-p1s2a5">
+<children>
+<LM id="T-wsj0785-001-p1s2a5">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s2W5-Ta</lex.rf>
 </a>
@@ -668,7 +716,9 @@
 <LM id="T-wsj0785-001-p1s2a7">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s2W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0785-001-p1s2W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0785-001-p1s2W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>trh</t_lemma>
@@ -677,7 +727,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0785-001-p1s2a8">
+<children>
+<LM id="T-wsj0785-001-p1s2a8">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s2W7-Ta</lex.rf>
 </a>
@@ -688,6 +739,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0785-001-p1s2a9">
@@ -701,7 +753,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0785-001-p1s2a10">
+<children>
+<LM id="T-wsj0785-001-p1s2a10">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s2W11-Ta</lex.rf>
 </a>
@@ -735,7 +788,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj0785-001-p1s2a13">
+<children>
+<LM id="T-wsj0785-001-p1s2a13">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s2W12-Ta</lex.rf>
 </a>
@@ -746,25 +800,32 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Market pulp is wood pulp sold on the open market to producers of paper and other products.</eng_sentence>
 </LM>
 <LM id="T-wsj0785-001-p1s3">
 <atree.rf>a#a-wsj0785-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0785-001-p1s3a2">
+<children>
+<LM id="T-wsj0785-001-p1s3a2">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s3W4-Ta</lex.rf>
-<aux.rf>a#a-wsj0785-001-p1s3W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0785-001-p1s3W3-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7998f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -785,7 +846,9 @@
 <LM id="T-wsj0785-001-p1s3a4">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s3W2-Ta</lex.rf>
-<aux.rf>a#a-wsj0785-001-p1s3W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0785-001-p1s3W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>statistik</t_lemma>
@@ -806,7 +869,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0785-001-p1s3a8">
+<children>
+<LM id="T-wsj0785-001-p1s3a8">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s3W11-Ta</lex.rf>
 </a>
@@ -840,7 +904,9 @@
 <LM id="T-wsj0785-001-p1s3a20">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s3W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0785-001-p1s3W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0785-001-p1s3W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>závod</t_lemma>
@@ -849,7 +915,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0785-001-p1s3a21">
+<children>
+<LM id="T-wsj0785-001-p1s3a21">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s3W9-Ta</lex.rf>
 </a>
@@ -860,6 +927,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -876,10 +944,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0785-001-p1s3a11">
+<children>
+<LM id="T-wsj0785-001-p1s3a11">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s3W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0785-001-p1s3W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0785-001-p1s3W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>továrna</t_lemma>
@@ -918,7 +989,9 @@
 <a>
 <lex.rf>a#a-wsj0785-001-p1s3W17-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0785-001-p1s3a11</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0785-001-p1s3a11</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -938,7 +1011,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj0785-001-p1s3a17">
+<children>
+<LM id="T-wsj0785-001-p1s3a17">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s3W21-Ta</lex.rf>
 </a>
@@ -949,7 +1023,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj0785-001-p1s3a18">
+<children>
+<LM id="T-wsj0785-001-p1s3a18">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s3W20-Ta</lex.rf>
 </a>
@@ -960,25 +1035,31 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The statistics exclude pulp consumed at the producing mill or shipped to another mill that is affiliated with the producing mill.</eng_sentence>
 </LM>
 <LM id="T-wsj0785-001-p1s4">
 <atree.rf>a#a-wsj0785-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0785-001-p1s4a1">
+<children>
+<LM id="T-wsj0785-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s4W2-Ta</lex.rf>
 </a>
@@ -1050,7 +1131,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0785-001-p1s4a7">
+<children>
+<LM id="T-wsj0785-001-p1s4a7">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s4W6-Ta</lex.rf>
 </a>
@@ -1061,18 +1143,21 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Canada is the world's largest producer of market pulp.</eng_sentence>
 </LM>
 <LM id="T-wsj0785-001-p1s5">
 <atree.rf>a#a-wsj0785-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0785-001-p1s5a1">
+<children>
+<LM id="T-wsj0785-001-p1s5a1">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s5W16-Ta</lex.rf>
 </a>
@@ -1114,7 +1199,8 @@
 <t_lemma>#Percnt</t_lemma>
 <functor>RSTR</functor>
 <deepord>3</deepord>
-<children id="T-wsj0785-001-p1s5a5">
+<children>
+<LM id="T-wsj0785-001-p1s5a5">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s5W2-Ta</lex.rf>
 </a>
@@ -1125,6 +1211,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0785-001-p1s5a7">
@@ -1154,7 +1241,8 @@
 <sempos>v</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj0785-001-p1s5a8">
+<children>
+<LM id="T-wsj0785-001-p1s5a8">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s5W7-Ta</lex.rf>
 </a>
@@ -1165,10 +1253,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0785-001-p1s5a10">
+<children>
+<LM id="T-wsj0785-001-p1s5a10">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s5W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0785-001-p1s5W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0785-001-p1s5W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>intenzita</t_lemma>
@@ -1186,7 +1277,8 @@
 <t_lemma>#Percnt</t_lemma>
 <functor>RSTR</functor>
 <deepord>9</deepord>
-<children id="T-wsj0785-001-p1s5a11">
+<children>
+<LM id="T-wsj0785-001-p1s5a11">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s5W9-Ta</lex.rf>
 </a>
@@ -1197,6 +1289,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0785-001-p1s5a13">
@@ -1214,7 +1307,9 @@
 <LM id="T-wsj0785-001-p1s5a15">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s5W14-Ta</lex.rf>
-<aux.rf>a#a-wsj0785-001-p1s5W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0785-001-p1s5W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>srpen</t_lemma>
@@ -1225,13 +1320,17 @@
 <deepord>12</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0785-001-p1s5a17">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s5W20-Ta</lex.rf>
-<aux.rf>a#a-wsj0785-001-p1s5W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0785-001-p1s5W19-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9616f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1253,7 +1352,9 @@
 <LM id="T-wsj0785-001-p1s5a19">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s5W18-Ta</lex.rf>
-<aux.rf>a#a-wsj0785-001-p1s5W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0785-001-p1s5W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>loňsko</t_lemma>
@@ -1263,21 +1364,25 @@
 </gram>
 <deepord>15</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0785-001-p1s0a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The September 87% operating rate compared with a rate of 101% in August but was unchanged from a year earlier.</eng_sentence>
 </LM>
 <LM id="T-wsj0785-001-p1s6">
 <atree.rf>a#a-wsj0785-001-p1s6</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0785-001-p1s6a1">
+<children>
+<LM id="T-wsj0785-001-p1s6a1">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s6W7-Ta</lex.rf>
 </a>
@@ -1293,7 +1398,9 @@
 <LM id="T-wsj0785-001-p1s6a5">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s6W4-Ta</lex.rf>
-<aux.rf>a#a-wsj0785-001-p1s6W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0785-001-p1s6W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>měsíc</t_lemma>
@@ -1338,7 +1445,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0785-001-p1s6a7">
+<children>
+<LM id="T-wsj0785-001-p1s6a7">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s6W5-Ta</lex.rf>
 </a>
@@ -1349,6 +1457,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -1431,7 +1540,9 @@
 <a>
 <lex.rf>a#a-wsj0785-001-p1s6W13-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0785-001-p1s6a23</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0785-001-p1s6a23</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>ACT</functor>
@@ -1444,7 +1555,9 @@
 <LM id="T-wsj0785-001-p1s6a16">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s6W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0785-001-p1s6W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0785-001-p1s6W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -1453,7 +1566,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj0785-001-p1s6a17">
+<children>
+<LM id="T-wsj0785-001-p1s6a17">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s6W16-Ta</lex.rf>
 </a>
@@ -1464,11 +1578,14 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0785-001-p1s5a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0785-001-p1s6a18">
@@ -1482,10 +1599,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj0785-001-p1s6a20">
+<children>
+<LM id="T-wsj0785-001-p1s6a20">
 <a>
 <lex.rf>a#a-wsj0785-001-p1s6W22-Ta</lex.rf>
-<aux.rf>a#a-wsj0785-001-p1s6W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0785-001-p1s6W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>tuna</t_lemma>
@@ -1520,13 +1640,15 @@
 <deepord>18</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>In the first nine months of this year output was 5,377,000 metric tons, down from 5,441,000 metric tons a year earlier.</eng_sentence>
 </LM>

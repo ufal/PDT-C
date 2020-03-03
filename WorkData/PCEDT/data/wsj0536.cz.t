@@ -11,7 +11,8 @@
 <LM id="T-wsj0536-001-p1s0">
 <atree.rf>a#a-wsj0536-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0536-001-p1s0a1">
+<children>
+<LM id="T-wsj0536-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0536-001-p1s0W9-Ta</lex.rf>
 </a>
@@ -87,7 +88,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj0536-001-p1s0a27">
+<children>
+<LM id="T-wsj0536-001-p1s0a27">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -131,6 +133,7 @@
 <deepord>11</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -146,7 +149,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj0536-001-p1s0a12">
+<children>
+<LM id="T-wsj0536-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj0536-001-p1s0W12-Ta</lex.rf>
 </a>
@@ -173,7 +177,9 @@
 <LM id="T-wsj0536-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj0536-001-p1s0W14-Ta</lex.rf>
-<aux.rf>a#a-wsj0536-001-p1s0W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0536-001-p1s0W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hotovost</t_lemma>
@@ -184,12 +190,15 @@
 <deepord>16</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0536-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj0536-001-p1s0W16-Ta</lex.rf>
-<aux.rf>a#a-wsj0536-001-p1s0W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0536-001-p1s0W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>model</t_lemma>
@@ -275,7 +284,9 @@
 <LM id="T-wsj0536-001-p1s0a24">
 <a>
 <lex.rf>a#a-wsj0536-001-p1s0W25-Ta</lex.rf>
-<aux.rf>a#a-wsj0536-001-p1s0W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0536-001-p1s0W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>velikost</t_lemma>
@@ -284,7 +295,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj0536-001-p1s0a25">
+<children>
+<LM id="T-wsj0536-001-p1s0a25">
 <a>
 <lex.rf>a#a-wsj0536-001-p1s0W24-Ta</lex.rf>
 </a>
@@ -295,20 +307,23 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>24</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>General Motors Corp.'s GMC Truck division put a $750 cash incentive on its 1990 full-sized Jimmy and Suburban trucks.</eng_sentence>
 </LM>
 <LM id="T-wsj0536-001-p1s1">
 <atree.rf>a#a-wsj0536-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0536-001-p1s1a1">
+<children>
+<LM id="T-wsj0536-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0536-001-p1s1W10-Ta</lex.rf>
 </a>
@@ -340,7 +355,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0536-001-p1s1a3">
+<children>
+<LM id="T-wsj0536-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj0536-001-p1s1W4-Ta</lex.rf>
 </a>
@@ -357,7 +373,9 @@
 <a>
 <lex.rf>a#a-wsj0536-001-p1s1W3-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0536-001-p1s1a2</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0536-001-p1s1a2</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -369,7 +387,9 @@
 <LM id="T-wsj0536-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj0536-001-p1s1W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0536-001-p1s1W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0536-001-p1s1W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>leden</t_lemma>
@@ -378,10 +398,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj0536-001-p1s1a8">
+<children>
+<LM id="T-wsj0536-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj0536-001-p1s1W6-Ta</lex.rf>
-<aux.rf>a#a-wsj0536-001-p1s1W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0536-001-p1s1W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>4</t_lemma>
@@ -390,9 +413,11 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0536-001-p1s1a11">
@@ -407,7 +432,9 @@
 <LM id="T-wsj0536-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj0536-001-p1s1W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0536-001-p1s1W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0536-001-p1s1W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>sleva</t_lemma>
@@ -416,10 +443,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0536-001-p1s1a15">
+<children>
+<LM id="T-wsj0536-001-p1s1a15">
 <a>
 <lex.rf>a#a-wsj0536-001-p1s1W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0536-001-p1s1W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0536-001-p1s1W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hotovost</t_lemma>
@@ -428,20 +458,21 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0536-001-p1s0a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <str_comment>
+<LM>
 <name>AMBIG</name>
 <comment>nebo jakékoli uplatnitelné slevy</comment>
+</LM>
 </str_comment>
 <src>LH</src>
+</LM>
 </coref_text>
-<annot_comment>
-<type>M-tag</type>
-<text>místo</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0536-001-p1s1a16">
 <a>
@@ -473,7 +504,9 @@
 <LM id="T-wsj0536-001-p1s1a18">
 <a>
 <lex.rf>a#a-wsj0536-001-p1s1W19-Ta</lex.rf>
-<aux.rf>a#a-wsj0536-001-p1s1W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0536-001-p1s1W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>úrok</t_lemma>
@@ -482,7 +515,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj0536-001-p1s1a19">
+<children>
+<LM id="T-wsj0536-001-p1s1a19">
 <a>
 <lex.rf>a#a-wsj0536-001-p1s1W18-Ta</lex.rf>
 </a>
@@ -493,15 +527,19 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The program, which runs through Jan. 4, also offers low-rate financing in lieu of the cash rebate.</eng_sentence>
 </LM>

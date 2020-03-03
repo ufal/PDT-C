@@ -11,7 +11,8 @@
 <LM id="T-wsj0033-001-p1s0">
 <atree.rf>a#a-wsj0033-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0033-001-p1s0a1">
+<children>
+<LM id="T-wsj0033-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0033-001-p1s0W4-Ta</lex.rf>
 </a>
@@ -72,7 +73,9 @@
 <LM id="T-wsj0033-001-p1s0a7">
 <a>
 <lex.rf>a#a-wsj0033-001-p1s0W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0033-001-p1s0W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0033-001-p1s0W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1396f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -94,7 +97,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj0033-001-p1s0a9">
+<children>
+<LM id="T-wsj0033-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj0033-001-p1s0W13-Ta</lex.rf>
 </a>
@@ -195,12 +199,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0033-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj0033-001-p1s0W19-Ta</lex.rf>
-<aux.rf>a#a-wsj0033-001-p1s0W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0033-001-p1s0W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>říjen</t_lemma>
@@ -213,7 +220,9 @@
 <LM id="T-wsj0033-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj0033-001-p1s0W22-Ta</lex.rf>
-<aux.rf>a#a-wsj0033-001-p1s0W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0033-001-p1s0W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>částka</t_lemma>
@@ -278,7 +287,9 @@
 <LM id="T-wsj0033-001-p1s0a28">
 <a>
 <lex.rf>a#a-wsj0033-001-p1s0W28-Ta</lex.rf>
-<aux.rf>a#a-wsj0033-001-p1s0W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0033-001-p1s0W26-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>miliarda</t_lemma>
@@ -317,13 +328,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Japan's reserves of gold, convertible foreign currencies, and special drawing rights fell by a hefty $1.82 billion in October to $84.29 billion, the Finance Ministry said.</eng_sentence>
 </LM>
 <LM id="T-wsj0033-001-p1s1">
 <atree.rf>a#a-wsj0033-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0033-001-p1s1a1">
+<children>
+<LM id="T-wsj0033-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0033-001-p1s1W4-Ta</lex.rf>
 </a>
@@ -374,9 +387,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0033-001-p1s0a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0033-001-p1s1a5">
@@ -418,7 +433,9 @@
 <LM id="T-wsj0033-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj0033-001-p1s1W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0033-001-p1s1W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0033-001-p1s1W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>řada</t_lemma>
@@ -431,13 +448,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The total marks the sixth consecutive monthly decline.</eng_sentence>
 </LM>
 <LM id="T-wsj0033-001-p1s2">
 <atree.rf>a#a-wsj0033-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0033-001-p1s2a1">
+<children>
+<LM id="T-wsj0033-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0033-001-p1s2W4-Ta</lex.rf>
 </a>
@@ -524,7 +543,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0033-001-p1s2a8">
+<children>
+<LM id="T-wsj0033-001-p1s2a8">
 <a>
 <lex.rf>a#a-wsj0033-001-p1s2W7-Ta</lex.rf>
 </a>
@@ -535,16 +555,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0033-001-p1s2a10">
 <a>
 <lex.rf>a#a-wsj0033-001-p1s2W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0033-001-p1s2W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0033-001-p1s2W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>podpora</t_lemma>
@@ -553,7 +572,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0033-001-p1s2a11">
+<children>
+<LM id="T-wsj0033-001-p1s2a11">
 <a>
 <lex.rf>a#a-wsj0033-001-p1s2W11-Ta</lex.rf>
 </a>
@@ -564,6 +584,7 @@
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0033-001-p1s2a12">
@@ -577,10 +598,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0033-001-p1s2a15">
+<children>
+<LM id="T-wsj0033-001-p1s2a15">
 <a>
 <lex.rf>a#a-wsj0033-001-p1s2W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0033-001-p1s2W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0033-001-p1s2W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>červen</t_lemma>
@@ -616,7 +640,9 @@
 <a>
 <lex.rf>a#a-wsj0033-001-p1s2W17-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0033-001-p1s2a15</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0033-001-p1s2a15</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>kdy</t_lemma>
 <functor>TWHEN</functor>
@@ -636,7 +662,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj0033-001-p1s2a20">
+<children>
+<LM id="T-wsj0033-001-p1s2a20">
 <a>
 <lex.rf>a#a-wsj0033-001-p1s2W18-Ta</lex.rf>
 </a>
@@ -647,6 +674,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>15</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0033-001-p1s2a21">
@@ -672,10 +700,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj0033-001-p1s2a24">
+<children>
+<LM id="T-wsj0033-001-p1s2a24">
 <a>
 <lex.rf>a#a-wsj0033-001-p1s2W24-Ta</lex.rf>
-<aux.rf>a#a-wsj0033-001-p1s2W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0033-001-p1s2W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výše</t_lemma>
@@ -684,7 +715,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj0033-001-p1s2a26">
+<children>
+<LM id="T-wsj0033-001-p1s2a26">
 <a>
 <lex.rf>a#a-wsj0033-001-p1s2W26-Ta</lex.rf>
 </a>
@@ -695,7 +727,8 @@
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj0033-001-p1s2a25">
+<children>
+<LM id="T-wsj0033-001-p1s2a25">
 <a>
 <lex.rf>a#a-wsj0033-001-p1s2W25-Ta</lex.rf>
 </a>
@@ -706,25 +739,31 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>21</deepord>
+</LM>
 </children>
-</children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The protracted downturn reflects the intensity of Bank of Japan yen-support intervention since June, when the U.S. currency temporarily surged above the 150.00 yen level.</eng_sentence>
 </LM>
 <LM id="T-wsj0033-001-p1s3">
 <atree.rf>a#a-wsj0033-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0033-001-p1s3a1">
+<children>
+<LM id="T-wsj0033-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj0033-001-p1s3W3-Ta</lex.rf>
 </a>
@@ -760,9 +799,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0033-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0033-001-p1s3a3">
@@ -794,26 +835,34 @@
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0033-001-p1s0a7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0033-001-p1s0a1</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0033-001-p1s3a5">
 <a>
 <lex.rf>a#a-wsj0033-001-p1s3W7-Ta</lex.rf>
-<aux.rf>a#a-wsj0033-001-p1s3W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0033-001-p1s3W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>pád</t_lemma>
@@ -900,7 +949,9 @@
 <LM id="T-wsj0033-001-p1s3a14">
 <a>
 <lex.rf>a#a-wsj0033-001-p1s3W14-Ta</lex.rf>
-<aux.rf>a#a-wsj0033-001-p1s3W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0033-001-p1s3W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>miliarda</t_lemma>
@@ -939,7 +990,9 @@
 <LM id="T-wsj0033-001-p1s3a18">
 <a>
 <lex.rf>a#a-wsj0033-001-p1s3W18-Ta</lex.rf>
-<aux.rf>a#a-wsj0033-001-p1s3W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0033-001-p1s3W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>miliarda</t_lemma>
@@ -978,6 +1031,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The announcement follows a sharper $2.2 billion decline in the country's foreign reserves in September to $86.12 billion.</eng_sentence>
 </LM>

@@ -488,12 +488,6 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>37</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>1 ve 3</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2104-001-p1s0a49">
 <a>
@@ -661,12 +655,6 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>7</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>1 ve 3</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1530,11 +1518,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6677,12 +6660,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>připravily se</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

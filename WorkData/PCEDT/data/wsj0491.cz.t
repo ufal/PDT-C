@@ -11,7 +11,8 @@
 <LM id="T-wsj0491-001-p1s0">
 <atree.rf>a#a-wsj0491-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0491-001-p1s0a1">
+<children>
+<LM id="T-wsj0491-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0491-001-p1s0W5-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0491-001-p1s0a45">
+<children>
+<LM id="T-wsj0491-001-p1s0a45">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -50,9 +52,6 @@
 <t_lemma>Fluor</t_lemma>
 <functor>FPHR</functor>
 <deepord>1</deepord>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 <LM id="T-wsj0491-001-p1s0a3">
 <a>
@@ -73,12 +72,15 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0491-001-p1s0a8">
 <a>
 <lex.rf>a#a-wsj0491-001-p1s0W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0491-001-p1s0W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0491-001-p1s0W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9501f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -99,9 +101,11 @@
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0491-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0491-001-p1s0a9">
@@ -119,7 +123,9 @@
 <LM id="T-wsj0491-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj0491-001-p1s0W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0491-001-p1s0W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0491-001-p1s0W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodnota</t_lemma>
@@ -128,7 +134,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0491-001-p1s0a13">
+<children>
+<LM id="T-wsj0491-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj0491-001-p1s0W13-Ta</lex.rf>
 </a>
@@ -165,12 +172,15 @@
 <deepord>13</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0491-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj0491-001-p1s0W16-Ta</lex.rf>
-<aux.rf>a#a-wsj0491-001-p1s0W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0491-001-p1s0W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>poskytování</t_lemma>
@@ -190,9 +200,11 @@
 </gram>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0491-001-p1s0a42</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0491-001-p1s0a17">
@@ -269,7 +281,9 @@
 <LM id="T-wsj0491-001-p1s0a25">
 <a>
 <lex.rf>a#a-wsj0491-001-p1s0W26-Ta</lex.rf>
-<aux.rf>a#a-wsj0491-001-p1s0W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0491-001-p1s0W24-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>důl</t_lemma>
@@ -293,7 +307,9 @@
 </LM>
 <LM id="T-wsj0491-001-p1s0a46">
 <a>
-<aux.rf>a#a-wsj0491-001-p1s0W27-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0491-001-p1s0W27-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -328,7 +344,9 @@
 <LM id="T-wsj0491-001-p1s0a31">
 <a>
 <lex.rf>a#a-wsj0491-001-p1s0W31-Ta</lex.rf>
-<aux.rf>a#a-wsj0491-001-p1s0W30-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0491-001-p1s0W30-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Indonésie</t_lemma>
@@ -345,7 +363,9 @@
 <LM id="T-wsj0491-001-p1s0a33">
 <a>
 <lex.rf>a#a-wsj0491-001-p1s0W33-Ta</lex.rf>
-<aux.rf>a#a-wsj0491-001-p1s0W32-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0491-001-p1s0W32-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>jednotka</t_lemma>
@@ -354,7 +374,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>27</deepord>
-<children id="T-wsj0491-001-p1s0a34">
+<children>
+<LM id="T-wsj0491-001-p1s0a34">
 <a>
 <lex.rf>a#a-wsj0491-001-p1s0W34-Ta</lex.rf>
 </a>
@@ -365,7 +386,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>30</deepord>
-<children id="T-wsj0491-001-p1s0a40">
+<children>
+<LM id="T-wsj0491-001-p1s0a40">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -424,13 +446,17 @@
 <deepord>34</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -438,16 +464,20 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Fluor Corp. said it was awarded a $300 million contract to provide engineering and construction-management services at a copper mine in Irian Jaya, Indonesia, for a unit of Freeport-McMoRan Copper Co.</eng_sentence>
 </LM>
 <LM id="T-wsj0491-001-p1s1">
 <atree.rf>a#a-wsj0491-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0491-001-p1s1a1">
+<children>
+<LM id="T-wsj0491-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0491-001-p1s1W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0491-001-p1s1W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0491-001-p1s1W10-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5879f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -481,20 +511,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0491-001-p1s1a5">
 <a>
 <lex.rf>a#a-wsj0491-001-p1s1W4-Ta</lex.rf>
-<aux.rf>a#a-wsj0491-001-p1s1W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0491-001-p1s1W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>sídlo</t_lemma>
@@ -503,9 +526,12 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0491-001-p1s1a26">
+<children>
+<LM id="T-wsj0491-001-p1s1a26">
 <a>
-<aux.rf>a#a-wsj0491-001-p1s1W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0491-001-p1s1W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -528,7 +554,9 @@
 <LM id="T-wsj0491-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj0491-001-p1s1W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0491-001-p1s1W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0491-001-p1s1W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>stát</t_lemma>
@@ -537,7 +565,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0491-001-p1s1a10">
+<children>
+<LM id="T-wsj0491-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj0491-001-p1s1W9-Ta</lex.rf>
 </a>
@@ -548,16 +577,20 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0491-001-p1s0a43</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0491-001-p1s1a12">
@@ -591,7 +624,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0491-001-p1s1a14">
+<children>
+<LM id="T-wsj0491-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj0491-001-p1s1W14-Ta</lex.rf>
 </a>
@@ -603,16 +637,21 @@
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0491-001-p1s0a25</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0491-001-p1s1a17">
 <a>
 <lex.rf>a#a-wsj0491-001-p1s1W18-Ta</lex.rf>
-<aux.rf>a#a-wsj0491-001-p1s1W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0491-001-p1s1W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>tuna</t_lemma>
@@ -663,7 +702,9 @@
 <LM id="T-wsj0491-001-p1s1a22">
 <a>
 <lex.rf>a#a-wsj0491-001-p1s1W23-Ta</lex.rf>
-<aux.rf>a#a-wsj0491-001-p1s1W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0491-001-p1s1W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>tuna</t_lemma>
@@ -713,21 +754,27 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Fluor, based in Irvine, Calif., will direct expansion of the mine's capacity to 52,000 metric tons a day from 32,000 metric tons a day.</eng_sentence>
 </LM>
 <LM id="T-wsj0491-001-p1s2">
 <atree.rf>a#a-wsj0491-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0491-001-p1s2a1">
+<children>
+<LM id="T-wsj0491-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0491-001-p1s2W4-Ta</lex.rf>
-<aux.rf>a#a-wsj0491-001-p1s2W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0491-001-p1s2W3-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2608f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -777,21 +824,27 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0491-001-p1s1a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0491-001-p1s2a6">
 <a>
 <lex.rf>a#a-wsj0491-001-p1s2W6-Ta</lex.rf>
-<aux.rf>a#a-wsj0491-001-p1s2W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0491-001-p1s2W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>polovina</t_lemma>
@@ -800,7 +853,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj0491-001-p1s2a7">
+<children>
+<LM id="T-wsj0491-001-p1s2a7">
 <a>
 <lex.rf>a#a-wsj0491-001-p1s2W7-Ta</lex.rf>
 </a>
@@ -811,7 +865,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0491-001-p1s2a8">
+<children>
+<LM id="T-wsj0491-001-p1s2a8">
 <a>
 <lex.rf>a#a-wsj0491-001-p1s2W8-Ta</lex.rf>
 </a>
@@ -822,17 +877,21 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>8</deepord>
-</children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Completion of the project is expected by mid-1992.</eng_sentence>
 </LM>
 <LM id="T-wsj0491-001-p1s3">
 <atree.rf>a#a-wsj0491-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0491-001-p1s3a2">
+<children>
+<LM id="T-wsj0491-001-p1s3a2">
 <a>
 <lex.rf>a#a-wsj0491-001-p1s3W4-Ta</lex.rf>
 </a>
@@ -848,7 +907,9 @@
 <LM id="T-wsj0491-001-p1s3a4">
 <a>
 <lex.rf>a#a-wsj0491-001-p1s3W2-Ta</lex.rf>
-<aux.rf>a#a-wsj0491-001-p1s3W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0491-001-p1s3W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -857,7 +918,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0491-001-p1s3a5">
+<children>
+<LM id="T-wsj0491-001-p1s3a5">
 <a>
 <lex.rf>a#a-wsj0491-001-p1s3W3-Ta</lex.rf>
 </a>
@@ -868,6 +930,7 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0491-001-p1s3a12">
@@ -881,7 +944,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0491-001-p1s3a13">
+<children>
+<LM id="T-wsj0491-001-p1s3a13">
 <a>
 <lex.rf>a#a-wsj0491-001-p1s3W6-Ta</lex.rf>
 </a>
@@ -892,20 +956,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
 </LM>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0491-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0491-001-p1s3a1">
@@ -929,7 +987,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj0491-001-p1s3a16">
+<children>
+<LM id="T-wsj0491-001-p1s3a16">
 <a>
 <lex.rf>a#a-wsj0491-001-p1s3W9-Ta</lex.rf>
 </a>
@@ -966,6 +1025,7 @@
 <deepord>9</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0491-001-p1s3a18">
@@ -980,7 +1040,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj0491-001-p1s3a6">
+<children>
+<LM id="T-wsj0491-001-p1s3a6">
 <a>
 <lex.rf>a#a-wsj0491-001-p1s3W17-Ta</lex.rf>
 </a>
@@ -1056,7 +1117,9 @@
 <LM id="T-wsj0491-001-p1s3a11">
 <a>
 <lex.rf>a#a-wsj0491-001-p1s3W21-Ta</lex.rf>
-<aux.rf>a#a-wsj0491-001-p1s3W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0491-001-p1s3W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akcie</t_lemma>
@@ -1069,11 +1132,13 @@
 </children>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>In 1988, Fluor had revenue of $5.1 billion and earnings of $56.4 million, or 71 cents a share.</eng_sentence>
 </LM>

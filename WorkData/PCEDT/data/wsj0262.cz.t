@@ -1344,11 +1344,6 @@
 <t_lemma>jenž</t_lemma>
 <functor>PAT</functor>
 <deepord>11</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0262-001-p1s5a18">
 <a>

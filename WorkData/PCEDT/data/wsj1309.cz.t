@@ -1589,12 +1589,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1309-001-p1s5a8">
 <a>
@@ -2013,12 +2007,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2227,12 +2215,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenorováno: milión</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1309-001-p1s7a18">
 <a>
@@ -3097,12 +3079,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno: milión</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3522,12 +3498,6 @@
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno: zranění</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1309-001-p1s13a26">
 <nodetype>complex</nodetype>
@@ -4504,12 +4474,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

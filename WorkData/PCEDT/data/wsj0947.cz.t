@@ -11,7 +11,8 @@
 <LM id="T-wsj0947-001-p1s0">
 <atree.rf>a#a-wsj0947-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0947-001-p1s0a1">
+<children>
+<LM id="T-wsj0947-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0947-001-p1s0W10-Ta</lex.rf>
 </a>
@@ -58,10 +59,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0947-001-p1s0a5">
 <a>
@@ -75,7 +72,9 @@
 <LM id="T-wsj0947-001-p1s0a6">
 <a>
 <lex.rf>a#a-wsj0947-001-p1s0W4-Ta</lex.rf>
-<aux.rf>a#a-wsj0947-001-p1s0W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0947-001-p1s0W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letectví</t_lemma>
@@ -89,7 +88,9 @@
 <LM id="T-wsj0947-001-p1s0a7">
 <a>
 <lex.rf>a#a-wsj0947-001-p1s0W6-Ta</lex.rf>
-<aux.rf>a#a-wsj0947-001-p1s0W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0947-001-p1s0W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>kosmonautika</t_lemma>
@@ -112,7 +113,8 @@
 <is_member>1</is_member>
 <is_parenthesis>1</is_parenthesis>
 <deepord>7</deepord>
-<children id="T-wsj0947-001-p1s0a9">
+<children>
+<LM id="T-wsj0947-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj0947-001-p1s0W8-Ta</lex.rf>
 </a>
@@ -124,10 +126,7 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>8</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velká písmena, jiný tvar</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 </children>
@@ -135,7 +134,9 @@
 <LM id="T-wsj0947-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj0947-001-p1s0W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0947-001-p1s0W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0947-001-p1s0W12-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7022f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -156,9 +157,11 @@
 </gram>
 <deepord>10</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0947-001-p1s0a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0947-001-p1s0a14">
@@ -172,7 +175,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj0947-001-p1s0a46">
+<children>
+<LM id="T-wsj0947-001-p1s0a46">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -219,6 +223,7 @@
 <deepord>17</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0947-001-p1s0a19">
@@ -232,10 +237,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj0947-001-p1s0a21">
+<children>
+<LM id="T-wsj0947-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj0947-001-p1s0W21-Ta</lex.rf>
-<aux.rf>a#a-wsj0947-001-p1s0W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0947-001-p1s0W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodnota</t_lemma>
@@ -244,7 +252,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj0947-001-p1s0a23">
+<children>
+<LM id="T-wsj0947-001-p1s0a23">
 <a>
 <lex.rf>a#a-wsj0947-001-p1s0W23-Ta</lex.rf>
 </a>
@@ -281,17 +290,17 @@
 <deepord>22</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0947-001-p1s0a27">
 <a>
 <lex.rf>a#a-wsj0947-001-p1s0W30-Ta</lex.rf>
-<aux.rf>a#a-wsj0947-001-p1s0W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0947-001-p1s0W26-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8282f9_ZU</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -312,15 +321,19 @@
 </gram>
 <deepord>23</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0947-001-p1s0a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0947-001-p1s0a29">
 <a>
 <lex.rf>a#a-wsj0947-001-p1s0W28-Ta</lex.rf>
-<aux.rf>a#a-wsj0947-001-p1s0W27-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0947-001-p1s0W27-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>červen</t_lemma>
@@ -329,7 +342,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj0947-001-p1s0a30">
+<children>
+<LM id="T-wsj0947-001-p1s0a30">
 <a>
 <lex.rf>a#a-wsj0947-001-p1s0W29-Ta</lex.rf>
 </a>
@@ -340,6 +354,7 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>25</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0947-001-p1s0a47">
@@ -371,10 +386,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>28</deepord>
-<children id="T-wsj0947-001-p1s0a33">
+<children>
+<LM id="T-wsj0947-001-p1s0a33">
 <a>
 <lex.rf>a#a-wsj0947-001-p1s0W33-Ta</lex.rf>
-<aux.rf>a#a-wsj0947-001-p1s0W32-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0947-001-p1s0W32-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výzkum</t_lemma>
@@ -383,7 +401,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>29</deepord>
-<children id="T-wsj0947-001-p1s0a34">
+<children>
+<LM id="T-wsj0947-001-p1s0a34">
 <a>
 <lex.rf>a#a-wsj0947-001-p1s0W35-Ta</lex.rf>
 </a>
@@ -453,8 +472,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0947-001-p1s0a38">
@@ -473,7 +494,9 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0947-001-p1s0a51">
@@ -484,7 +507,8 @@
 <is_member>1</is_member>
 <is_parenthesis>1</is_parenthesis>
 <deepord>39</deepord>
-<children id="T-wsj0947-001-p1s0a40">
+<children>
+<LM id="T-wsj0947-001-p1s0a40">
 <a>
 <lex.rf>a#a-wsj0947-001-p1s0W40-Ta</lex.rf>
 </a>
@@ -496,7 +520,6 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>40</deepord>
-</children>
 </LM>
 </children>
 </LM>
@@ -505,13 +528,17 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The National Aeronautics and Space Administration said it awarded General Dynamics Corp. a $64 million contract to launch the Combined Release and Radiation Effects Satellite in June 1990.</eng_sentence>
 </LM>
 <LM id="T-wsj0947-001-p1s1">
 <atree.rf>a#a-wsj0947-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0947-001-p1s1a1">
+<children>
+<LM id="T-wsj0947-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0947-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -535,7 +562,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0947-001-p1s1a3">
+<children>
+<LM id="T-wsj0947-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj0947-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -546,15 +574,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>nesmyslný tvar</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0947-001-p1s0a39</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0947-001-p1s1a4">
@@ -597,7 +624,8 @@
 <functor>RSTR</functor>
 <is_member>1</is_member>
 <deepord>6</deepord>
-<children id="T-wsj0947-001-p1s1a7">
+<children>
+<LM id="T-wsj0947-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj0947-001-p1s1W6-Ta</lex.rf>
 </a>
@@ -608,11 +636,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0947-001-p1s0a42</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0947-001-p1s1a8">
@@ -627,7 +658,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0947-001-p1s1a9">
+<children>
+<LM id="T-wsj0947-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj0947-001-p1s1W8-Ta</lex.rf>
 </a>
@@ -638,6 +670,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -645,7 +678,9 @@
 <LM id="T-wsj0947-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj0947-001-p1s1W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0947-001-p1s1W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0947-001-p1s1W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>studium</t_lemma>
@@ -654,7 +689,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0947-001-p1s1a12">
+<children>
+<LM id="T-wsj0947-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj0947-001-p1s1W12-Ta</lex.rf>
 </a>
@@ -677,7 +713,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj0947-001-p1s1a14">
+<children>
+<LM id="T-wsj0947-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj0947-001-p1s1W13-Ta</lex.rf>
 </a>
@@ -688,12 +725,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0947-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj0947-001-p1s1W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0947-001-p1s1W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0947-001-p1s1W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>součástka</t_lemma>
@@ -702,7 +742,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj0947-001-p1s1a17">
+<children>
+<LM id="T-wsj0947-001-p1s1a17">
 <a>
 <lex.rf>a#a-wsj0947-001-p1s1W16-Ta</lex.rf>
 </a>
@@ -713,21 +754,25 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>15</deepord>
-</children>
-</LM>
-</children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>CRRES is a joint NASA-Air Force satellite to study the effects of space radiation on micro-electronic components.</eng_sentence>
 </LM>
 <LM id="T-wsj0947-001-p1s2">
 <atree.rf>a#a-wsj0947-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0947-001-p1s2a1">
+<children>
+<LM id="T-wsj0947-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0947-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -753,7 +798,8 @@
 <t_lemma>#Idph</t_lemma>
 <functor>ACT</functor>
 <deepord>2</deepord>
-<children id="T-wsj0947-001-p1s2a2">
+<children>
+<LM id="T-wsj0947-001-p1s2a2">
 <a>
 <lex.rf>a#a-wsj0947-001-p1s2W1-Ta</lex.rf>
 </a>
@@ -764,17 +810,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0947-001-p1s1a18</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0947-001-p1s2a5">
 <a>
 <lex.rf>a#a-wsj0947-001-p1s2W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0947-001-p1s2W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0947-001-p1s2W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8282f9_ZU</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -796,7 +847,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0947-001-p1s2a21">
+<children>
+<LM id="T-wsj0947-001-p1s2a21">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -825,11 +877,14 @@
 <deepord>8</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0947-001-p1s0a44</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0947-001-p1s2a22">
@@ -850,7 +905,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0947-001-p1s2a10">
+<children>
+<LM id="T-wsj0947-001-p1s2a10">
 <a>
 <lex.rf>a#a-wsj0947-001-p1s2W10-Ta</lex.rf>
 </a>
@@ -861,17 +917,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0947-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0947-001-p1s2a12">
 <a>
 <lex.rf>a#a-wsj0947-001-p1s2W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0947-001-p1s2W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0947-001-p1s2W11-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4131f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -892,9 +953,11 @@
 </gram>
 <deepord>13</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0947-001-p1s2a6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0947-001-p1s2a13">
@@ -908,7 +971,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj0947-001-p1s2a14">
+<children>
+<LM id="T-wsj0947-001-p1s2a14">
 <a>
 <lex.rf>a#a-wsj0947-001-p1s2W14-Ta</lex.rf>
 </a>
@@ -919,7 +983,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj0947-001-p1s2a15">
+<children>
+<LM id="T-wsj0947-001-p1s2a15">
 <a>
 <lex.rf>a#a-wsj0947-001-p1s2W15-Ta</lex.rf>
 </a>
@@ -930,22 +995,23 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>17</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>NASA said General Dynamics will launch CRRES using an Atlas 1 rocket.</eng_sentence>
 </LM>

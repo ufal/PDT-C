@@ -11,7 +11,8 @@
 <LM id="T-wsj0431-001-p1s0">
 <atree.rf>a#a-wsj0431-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0431-001-p1s0a1">
+<children>
+<LM id="T-wsj0431-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0431-001-p1s0W7-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0431-001-p1s0a39">
+<children>
+<LM id="T-wsj0431-001-p1s0a39">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -97,12 +99,15 @@
 <deepord>7</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0431-001-p1s0a10">
 <a>
 <lex.rf>a#a-wsj0431-001-p1s0W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0431-001-p1s0W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0431-001-p1s0W9-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6275f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -123,15 +128,19 @@
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0431-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0431-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj0431-001-p1s0W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0431-001-p1s0W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0431-001-p1s0W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>koupě</t_lemma>
@@ -192,7 +201,9 @@
 <LM id="T-wsj0431-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj0431-001-p1s0W19-Ta</lex.rf>
-<aux.rf>a#a-wsj0431-001-p1s0W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0431-001-p1s0W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>oděv</t_lemma>
@@ -201,7 +212,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj0431-001-p1s0a19">
+<children>
+<LM id="T-wsj0431-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj0431-001-p1s0W18-Ta</lex.rf>
 </a>
@@ -212,6 +224,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -228,7 +241,9 @@
 <LM id="T-wsj0431-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj0431-001-p1s0W21-Ta</lex.rf>
-<aux.rf>a#a-wsj0431-001-p1s0W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0431-001-p1s0W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -238,7 +253,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj0431-001-p1s0a36">
+<children>
+<LM id="T-wsj0431-001-p1s0a36">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -291,12 +307,15 @@
 <deepord>23</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0431-001-p1s0a28">
 <a>
 <lex.rf>a#a-wsj0431-001-p1s0W28-Ta</lex.rf>
-<aux.rf>a#a-wsj0431-001-p1s0W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0431-001-p1s0W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>jednotka</t_lemma>
@@ -306,7 +325,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj0431-001-p1s0a29">
+<children>
+<LM id="T-wsj0431-001-p1s0a29">
 <a>
 <lex.rf>a#a-wsj0431-001-p1s0W29-Ta</lex.rf>
 </a>
@@ -363,7 +383,9 @@
 <LM id="T-wsj0431-001-p1s0a34">
 <a>
 <lex.rf>a#a-wsj0431-001-p1s0W34-Ta</lex.rf>
-<aux.rf>a#a-wsj0431-001-p1s0W33-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0431-001-p1s0W33-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Toronto</t_lemma>
@@ -374,7 +396,6 @@
 <deepord>31</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
@@ -383,16 +404,22 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Edison Brothers Stores Inc. said it agreed to buy 229 Foxmoor women's apparel stores from Foxmoor Specialty Stores Corp., a unit of Dylex Ltd. of Toronto.</eng_sentence>
 </LM>
 <LM id="T-wsj0431-001-p1s1">
 <atree.rf>a#a-wsj0431-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0431-001-p1s1a1">
+<children>
+<LM id="T-wsj0431-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0431-001-p1s1W3-Ta</lex.rf>
-<aux.rf>a#a-wsj0431-001-p1s1W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0431-001-p1s1W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9966f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -430,17 +457,15 @@
 <deepord>4</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>M-lemma</type>
-<text>špatně utvořený infinitiv - zveřejnět</text>
-</annot_comment>
+</LM>
 </children>
 <eng_sentence>Terms weren't disclosed.</eng_sentence>
 </LM>
 <LM id="T-wsj0431-001-p1s2">
 <atree.rf>a#a-wsj0431-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0431-001-p1s2a1">
+<children>
+<LM id="T-wsj0431-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0431-001-p1s2W3-Ta</lex.rf>
 </a>
@@ -464,7 +489,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0431-001-p1s2a2">
+<children>
+<LM id="T-wsj0431-001-p1s2a2">
 <a>
 <lex.rf>a#a-wsj0431-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -475,11 +501,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0431-001-p1s0a38</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0431-001-p1s2a6">
@@ -509,9 +538,11 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0431-001-p1s2a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0431-001-p1s2a7">
@@ -525,7 +556,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj0431-001-p1s2a8">
+<children>
+<LM id="T-wsj0431-001-p1s2a8">
 <a>
 <lex.rf>a#a-wsj0431-001-p1s2W6-Ta</lex.rf>
 </a>
@@ -536,17 +568,22 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0431-001-p1s0a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0431-001-p1s2a11">
 <a>
 <lex.rf>a#a-wsj0431-001-p1s2W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0431-001-p1s2W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0431-001-p1s2W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>provoz</t_lemma>
@@ -568,9 +605,11 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0431-001-p1s2a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0431-001-p1s2a13">
@@ -590,6 +629,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Edison said the acquired stores would be integrated into its current operations.</eng_sentence>
 </LM>

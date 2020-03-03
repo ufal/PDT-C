@@ -11,7 +11,8 @@
 <LM id="T-wsj2409-001-p1s0">
 <atree.rf>a#a-wsj2409-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2409-001-p1s0a1">
+<children>
+<LM id="T-wsj2409-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj2409-001-p1s0W7-Ta</lex.rf>
 </a>
@@ -96,7 +97,9 @@
 <LM id="T-wsj2409-001-p1s0a10">
 <a>
 <lex.rf>a#a-wsj2409-001-p1s0W15-Ta</lex.rf>
-<aux.rf>a#a-wsj2409-001-p1s0W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2409-001-p1s0W9-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1578f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -117,15 +120,19 @@
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2409-001-p1s0a35</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2409-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj2409-001-p1s0W13-Ta</lex.rf>
-<aux.rf>a#a-wsj2409-001-p1s0W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2409-001-p1s0W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -146,7 +153,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj2409-001-p1s0a12">
+<children>
+<LM id="T-wsj2409-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj2409-001-p1s0W11-Ta</lex.rf>
 </a>
@@ -157,6 +165,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2409-001-p1s0a15">
@@ -175,7 +184,9 @@
 </LM>
 <LM id="T-wsj2409-001-p1s0a37">
 <a>
-<aux.rf>a#a-wsj2409-001-p1s0W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2409-001-p1s0W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -253,7 +264,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj2409-001-p1s0a29">
+<children>
+<LM id="T-wsj2409-001-p1s0a29">
 <a>
 <lex.rf>a#a-wsj2409-001-p1s0W22-Ta</lex.rf>
 </a>
@@ -264,6 +276,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>21</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2409-001-p1s0a22">
@@ -277,7 +290,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj2409-001-p1s0a31">
+<children>
+<LM id="T-wsj2409-001-p1s0a31">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -324,20 +338,23 @@
 <deepord>29</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>American Physicians Service Group Inc. said it purchased about 42% of Prime Medical Services Inc. for about $5 million from Texas American Energy Corp.</eng_sentence>
 </LM>
 <LM id="T-wsj2409-001-p1s1">
 <atree.rf>a#a-wsj2409-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2409-001-p1s1a1">
+<children>
+<LM id="T-wsj2409-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj2409-001-p1s1W4-Ta</lex.rf>
 </a>
@@ -389,15 +406,19 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2409-001-p1s0a33</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2409-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj2409-001-p1s1W11-Ta</lex.rf>
-<aux.rf>a#a-wsj2409-001-p1s1W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2409-001-p1s1W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2014f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -411,7 +432,9 @@
 <LM id="T-wsj2409-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj2409-001-p1s1W9-Ta</lex.rf>
-<aux.rf>a#a-wsj2409-001-p1s1W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2409-001-p1s1W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výbor</t_lemma>
@@ -420,7 +443,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj2409-001-p1s1a10">
+<children>
+<LM id="T-wsj2409-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj2409-001-p1s1W8-Ta</lex.rf>
 </a>
@@ -431,6 +455,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2409-001-p1s1a19">
@@ -439,7 +464,8 @@
 <t_lemma>#Forn</t_lemma>
 <functor>ACT</functor>
 <deepord>10</deepord>
-<children id="T-wsj2409-001-p1s1a11">
+<children>
+<LM id="T-wsj2409-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj2409-001-p1s1W10-Ta</lex.rf>
 </a>
@@ -450,11 +476,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2409-001-p1s0a22</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2409-001-p1s1a12">
@@ -514,9 +543,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2409-001-p1s0a37</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -524,13 +555,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>American Physicians said it also replaced four Texas American representatives on Prime's five-member board.</eng_sentence>
 </LM>
 <LM id="T-wsj2409-001-p1s2">
 <atree.rf>a#a-wsj2409-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2409-001-p1s2a1">
+<children>
+<LM id="T-wsj2409-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj2409-001-p1s2W3-Ta</lex.rf>
 </a>
@@ -554,7 +587,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj2409-001-p1s2a3">
+<children>
+<LM id="T-wsj2409-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj2409-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -565,11 +599,14 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2409-001-p1s1a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2409-001-p1s2a4">
@@ -648,13 +685,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>American provides a variety of financial services to doctors and hospitals.</eng_sentence>
 </LM>
 <LM id="T-wsj2409-001-p1s3">
 <atree.rf>a#a-wsj2409-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2409-001-p1s3a1">
+<children>
+<LM id="T-wsj2409-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj2409-001-p1s3W11-Ta</lex.rf>
 </a>
@@ -694,7 +733,9 @@
 <LM id="T-wsj2409-001-p1s3a5">
 <a>
 <lex.rf>a#a-wsj2409-001-p1s3W4-Ta</lex.rf>
-<aux.rf>a#a-wsj2409-001-p1s3W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2409-001-p1s3W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>sídlo</t_lemma>
@@ -703,10 +744,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj2409-001-p1s3a7">
+<children>
+<LM id="T-wsj2409-001-p1s3a7">
 <a>
 <lex.rf>a#a-wsj2409-001-p1s3W6-Ta</lex.rf>
-<aux.rf>a#a-wsj2409-001-p1s3W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2409-001-p1s3W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Bedmister</t_lemma>
@@ -715,7 +759,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj2409-001-p1s3a22">
+<children>
+<LM id="T-wsj2409-001-p1s3a22">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -744,14 +789,18 @@
 <deepord>7</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2409-001-p1s1a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2409-001-p1s3a12">
@@ -765,7 +814,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj2409-001-p1s3a13">
+<children>
+<LM id="T-wsj2409-001-p1s3a13">
 <a>
 <lex.rf>a#a-wsj2409-001-p1s3W12-Ta</lex.rf>
 </a>
@@ -776,6 +826,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2409-001-p1s3a14">
@@ -838,7 +889,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj2409-001-p1s3a19">
+<children>
+<LM id="T-wsj2409-001-p1s3a19">
 <a>
 <lex.rf>a#a-wsj2409-001-p1s3W20-Ta</lex.rf>
 </a>
@@ -849,7 +901,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj2409-001-p1s3a20">
+<children>
+<LM id="T-wsj2409-001-p1s3a20">
 <a>
 <lex.rf>a#a-wsj2409-001-p1s3W19-Ta</lex.rf>
 </a>
@@ -860,22 +913,23 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>16</deepord>
-</children>
-</children>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Prime, based in Bedminster, N.J., provides management services to cardiac rehabilitation clinics and diagnostic imaging centers.</eng_sentence>
 </LM>
 <LM id="T-wsj2409-001-p1s4">
 <atree.rf>a#a-wsj2409-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2409-001-p1s4a1">
+<children>
+<LM id="T-wsj2409-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj2409-001-p1s4W7-Ta</lex.rf>
 </a>
@@ -891,7 +945,9 @@
 <LM id="T-wsj2409-001-p1s4a3">
 <a>
 <lex.rf>a#a-wsj2409-001-p1s4W2-Ta</lex.rf>
-<aux.rf>a#a-wsj2409-001-p1s4W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2409-001-p1s4W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -900,7 +956,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj2409-001-p1s4a4">
+<children>
+<LM id="T-wsj2409-001-p1s4a4">
 <a>
 <lex.rf>a#a-wsj2409-001-p1s4W3-Ta</lex.rf>
 </a>
@@ -911,7 +968,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj2409-001-p1s4a5">
+<children>
+<LM id="T-wsj2409-001-p1s4a5">
 <a>
 <lex.rf>a#a-wsj2409-001-p1s4W6-Ta</lex.rf>
 </a>
@@ -922,10 +980,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj2409-001-p1s4a6">
+<children>
+<LM id="T-wsj2409-001-p1s4a6">
 <a>
 <lex.rf>a#a-wsj2409-001-p1s4W4-Ta</lex.rf>
-<aux.rf>a#a-wsj2409-001-p1s4W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2409-001-p1s4W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>30</t_lemma>
@@ -934,8 +995,11 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2409-001-p1s4a8">
@@ -949,7 +1013,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj2409-001-p1s4a10">
+<children>
+<LM id="T-wsj2409-001-p1s4a10">
 <a>
 <lex.rf>a#a-wsj2409-001-p1s4W9-Ta</lex.rf>
 </a>
@@ -960,11 +1025,14 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2409-001-p1s3a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2409-001-p1s4a9">
@@ -1032,7 +1100,9 @@
 <LM id="T-wsj2409-001-p1s4a16">
 <a>
 <lex.rf>a#a-wsj2409-001-p1s4W16-Ta</lex.rf>
-<aux.rf>a#a-wsj2409-001-p1s4W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2409-001-p1s4W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>obchod</t_lemma>
@@ -1041,10 +1111,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj2409-001-p1s4a18">
+<children>
+<LM id="T-wsj2409-001-p1s4a18">
 <a>
 <lex.rf>a#a-wsj2409-001-p1s4W18-Ta</lex.rf>
-<aux.rf>a#a-wsj2409-001-p1s4W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2409-001-p1s4W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výše</t_lemma>
@@ -1053,7 +1126,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj2409-001-p1s4a20">
+<children>
+<LM id="T-wsj2409-001-p1s4a20">
 <a>
 <lex.rf>a#a-wsj2409-001-p1s4W20-Ta</lex.rf>
 </a>
@@ -1090,12 +1164,15 @@
 <deepord>17</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>For the year ended June 30, Prime had a net loss of $3 million on sales of $13.8 million.</eng_sentence>
 </LM>

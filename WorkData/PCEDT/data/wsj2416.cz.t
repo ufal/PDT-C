@@ -1130,11 +1130,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1316,11 +1311,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2416-001-p1s3a20">
 <a>
@@ -1641,11 +1631,6 @@
 <deepord>31</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1820,12 +1805,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>místo je prepos. ne n. denot</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2943,11 +2922,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3544,11 +3518,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>42</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2416-001-p1s11a56">
 <a>
@@ -3746,11 +3715,6 @@
 <t_lemma>Trust</t_lemma>
 <functor>FPHR</functor>
 <deepord>61</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2416-001-p1s11a64">
 <a>
@@ -3815,11 +3779,6 @@
 <t_lemma>Trust</t_lemma>
 <functor>FPHR</functor>
 <deepord>69</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2416-001-p1s11a72">
 <a>
@@ -4074,11 +4033,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -4446,12 +4400,6 @@
 <deepord>12</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2416-001-p1s13a15">
 <a>
@@ -4719,11 +4667,6 @@
 <t_lemma>Western</t_lemma>
 <functor>FPHR</functor>
 <deepord>18</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2416-001-p1s14a22">
 <a>

@@ -4226,12 +4226,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>zkratka</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1606-001-p1s14a22">
 <a>
@@ -4673,12 +4667,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>zkratka</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1606-001-p1s15a12">
 <a>
@@ -4743,12 +4731,6 @@
 <src>PCEDT</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>zájmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1606-001-p1s15a22">
 <a>
@@ -5402,11 +5384,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1606-001-p1s18a1">
 <a>
@@ -7451,12 +7428,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>nesklonné</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

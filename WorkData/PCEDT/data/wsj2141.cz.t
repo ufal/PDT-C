@@ -11,10 +11,13 @@
 <LM id="T-wsj2141-001-p1s0">
 <atree.rf>a#a-wsj2141-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2141-001-p1s0a1">
+<children>
+<LM id="T-wsj2141-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj2141-001-p1s0W7-Ta</lex.rf>
-<aux.rf>a#a-wsj2141-001-p1s0W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2141-001-p1s0W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1344f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -55,7 +58,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj2141-001-p1s0a17">
+<children>
+<LM id="T-wsj2141-001-p1s0a17">
 <a>
 <lex.rf>a#a-wsj2141-001-p1s0W1-Ta</lex.rf>
 </a>
@@ -63,15 +67,8 @@
 <t_lemma>44</t_lemma>
 <functor>RSTR</functor>
 <deepord>3</deepord>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj2141-001-p1s0a3">
 <a>
@@ -133,7 +130,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj2141-001-p1s0a11">
+<children>
+<LM id="T-wsj2141-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj2141-001-p1s0W11-Ta</lex.rf>
 </a>
@@ -144,7 +142,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj2141-001-p1s0a12">
+<children>
+<LM id="T-wsj2141-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj2141-001-p1s0W15-Ta</lex.rf>
 </a>
@@ -194,22 +193,28 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>Coref</type>
 <text>odkaz na něco v předchozím kontextu, který zde ale chybí</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Robert P. Bulseco, 44 years old, was named president and chief administrative officer of this regional commercial bank.</eng_sentence>
 </LM>
 <LM id="T-wsj2141-001-p1s1">
 <atree.rf>a#a-wsj2141-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2141-001-p1s1a1">
+<children>
+<LM id="T-wsj2141-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj2141-001-p1s1W4-Ta</lex.rf>
 </a>
@@ -260,9 +265,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2141-001-p1s0a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2141-001-p1s1a5">
@@ -278,16 +285,20 @@
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Both posts had been vacant.</eng_sentence>
 </LM>
 <LM id="T-wsj2141-001-p1s2">
 <atree.rf>a#a-wsj2141-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2141-001-p1s2a1">
+<children>
+<LM id="T-wsj2141-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj2141-001-p1s2W5-Ta</lex.rf>
-<aux.rf>a#a-wsj2141-001-p1s2W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2141-001-p1s2W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1344f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -328,7 +339,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj2141-001-p1s2a16">
+<children>
+<LM id="T-wsj2141-001-p1s2a16">
 <a>
 <lex.rf>a#a-wsj2141-001-p1s2W1-Ta</lex.rf>
 </a>
@@ -336,15 +348,8 @@
 <t_lemma>51</t_lemma>
 <functor>RSTR</functor>
 <deepord>3</deepord>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj2141-001-p1s2a3">
 <a>
@@ -363,7 +368,9 @@
 <LM id="T-wsj2141-001-p1s2a7">
 <a>
 <lex.rf>a#a-wsj2141-001-p1s2W9-Ta</lex.rf>
-<aux.rf>a#a-wsj2141-001-p1s2W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2141-001-p1s2W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>pozice</t_lemma>
@@ -384,7 +391,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj2141-001-p1s2a9">
+<children>
+<LM id="T-wsj2141-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj2141-001-p1s2W7-Ta</lex.rf>
 </a>
@@ -395,6 +403,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2141-001-p1s2a10">
@@ -431,7 +440,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj2141-001-p1s2a13">
+<children>
+<LM id="T-wsj2141-001-p1s2a13">
 <a>
 <lex.rf>a#a-wsj2141-001-p1s2W14-Ta</lex.rf>
 </a>
@@ -442,7 +452,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj2141-001-p1s2a14">
+<children>
+<LM id="T-wsj2141-001-p1s2a14">
 <a>
 <lex.rf>a#a-wsj2141-001-p1s2W13-Ta</lex.rf>
 </a>
@@ -453,14 +464,17 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>13</deepord>
-</children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Robert Robie, 51, was named to the new positions of vice chairman and chief credit officer.</eng_sentence>
 </LM>

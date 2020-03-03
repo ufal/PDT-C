@@ -886,11 +886,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1549,12 +1544,6 @@
 <deepord>5</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0476-001-p1s5a7">
 <a>
@@ -1724,12 +1713,6 @@
 <deepord>6</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <annot_comment>
@@ -2612,12 +2595,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0476-001-p1s10a13">
 <a>
@@ -3305,12 +3282,6 @@
 <deepord>20</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3588,12 +3559,6 @@
 <deepord>5</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0476-001-p1s15a7">
 <a>
@@ -3686,12 +3651,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Translation</type>
-<text>jde o 2 různé společnosti</text>
-</LM>
-</annot_comment>
 <bridging>
 <LM>
 <target-node.rf>T-wsj0476-001-p1s5a7</target-node.rf>
@@ -3704,6 +3663,12 @@
 <src>LH</src>
 </LM>
 </bridging>
+<annot_comment>
+<LM>
+<type>Translation</type>
+<text>jde o 2 různé společnosti</text>
+</LM>
+</annot_comment>
 </LM>
 <LM id="T-wsj0476-001-p1s15a18">
 <a>
@@ -5113,12 +5078,6 @@
 <deepord>4</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0476-001-p1s21a7">
 <a>
@@ -5991,12 +5950,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0476-001-p1s26a3">
 <a>

@@ -11,7 +11,8 @@
 <LM id="T-wsj0549-001-p1s0">
 <atree.rf>a#a-wsj0549-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0549-001-p1s0a1">
+<children>
+<LM id="T-wsj0549-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0549-001-p1s0W5-Ta</lex.rf>
 </a>
@@ -47,10 +48,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0549-001-p1s0a4">
 <a>
@@ -63,7 +60,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0549-001-p1s0a5">
+<children>
+<LM id="T-wsj0549-001-p1s0a5">
 <a>
 <lex.rf>a#a-wsj0549-001-p1s0W3-Ta</lex.rf>
 </a>
@@ -74,6 +72,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -120,10 +119,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0549-001-p1s0a11">
+<children>
+<LM id="T-wsj0549-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj0549-001-p1s0W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0549-001-p1s0W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0549-001-p1s0W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>burza</t_lemma>
@@ -133,10 +135,13 @@
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0549-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0549-001-p1s0a28">
@@ -151,7 +156,9 @@
 <LM id="T-wsj0549-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj0549-001-p1s0W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0549-001-p1s0W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0549-001-p1s0W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dolar</t_lemma>
@@ -161,7 +168,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj0549-001-p1s0a15">
+<children>
+<LM id="T-wsj0549-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj0549-001-p1s0W14-Ta</lex.rf>
 </a>
@@ -172,6 +180,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0549-001-p1s0a13">
@@ -195,10 +204,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj0549-001-p1s0a29">
+<children>
+<LM id="T-wsj0549-001-p1s0a29">
 <a>
 <lex.rf>a#a-wsj0549-001-p1s0W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0549-001-p1s0W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0549-001-p1s0W19-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4313f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -227,9 +239,11 @@
 </gram>
 <deepord>18</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0549-001-p1s0a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0549-001-p1s0a30">
@@ -242,7 +256,9 @@
 <LM id="T-wsj0549-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj0549-001-p1s0W22-Ta</lex.rf>
-<aux.rf>a#a-wsj0549-001-p1s0W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0549-001-p1s0W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>prodej</t_lemma>
@@ -275,10 +291,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj0549-001-p1s0a24">
+<children>
+<LM id="T-wsj0549-001-p1s0a24">
 <a>
 <lex.rf>a#a-wsj0549-001-p1s0W23-Ta</lex.rf>
-<aux.rf>a#a-wsj0549-001-p1s0W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0549-001-p1s0W24-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>13</t_lemma>
@@ -287,25 +306,29 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>22</deepord>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The American Stock Exchange said a seat was sold for $165,000, unchanged from the previous sale Oct. 13.</eng_sentence>
 </LM>
 <LM id="T-wsj0549-001-p1s1">
 <atree.rf>a#a-wsj0549-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0549-001-p1s1a1">
+<children>
+<LM id="T-wsj0549-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0549-001-p1s1W13-Ta</lex.rf>
 </a>
@@ -339,10 +362,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0549-001-p1s1a4">
+<children>
+<LM id="T-wsj0549-001-p1s1a4">
 <a>
 <lex.rf>a#a-wsj0549-001-p1s1W3-Ta</lex.rf>
-<aux.rf>a#a-wsj0549-001-p1s1W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0549-001-p1s1W2-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>burza</t_lemma>
@@ -351,7 +377,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0549-001-p1s1a6">
+<children>
+<LM id="T-wsj0549-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj0549-001-p1s1W4-Ta</lex.rf>
 </a>
@@ -362,18 +389,24 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0549-001-p1s0a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0549-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj0549-001-p1s1W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0549-001-p1s1W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0549-001-p1s1W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>doba</t_lemma>
@@ -382,7 +415,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj0549-001-p1s1a9">
+<children>
+<LM id="T-wsj0549-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj0549-001-p1s1W7-Ta</lex.rf>
 </a>
@@ -393,6 +427,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0549-001-p1s1a10">
@@ -430,7 +465,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0549-001-p1s1a12">
+<children>
+<LM id="T-wsj0549-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj0549-001-p1s1W11-Ta</lex.rf>
 </a>
@@ -441,6 +477,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -450,7 +487,9 @@
 <LM id="T-wsj0549-001-p1s1a15">
 <a>
 <lex.rf>a#a-wsj0549-001-p1s1W14-Ta</lex.rf>
-<aux.rf>a#a-wsj0549-001-p1s1W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0549-001-p1s1W15-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4230f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -480,7 +519,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj0549-001-p1s1a16">
+<children>
+<LM id="T-wsj0549-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj0549-001-p1s1W16-Ta</lex.rf>
 </a>
@@ -491,11 +531,13 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>14</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Seats on the Amex currently are quoted at $151,000 bid and $200,000 asked.</eng_sentence>
 </LM>

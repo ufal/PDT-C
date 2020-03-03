@@ -11,10 +11,13 @@
 <LM id="T-wsj2020-001-p1s0">
 <atree.rf>a#a-wsj2020-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2020-001-p1s0a1">
+<children>
+<LM id="T-wsj2020-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s0W10-Ta</lex.rf>
-<aux.rf>a#a-wsj2020-001-p1s0W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2020-001-p1s0W9-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1344f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -80,7 +83,8 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>6</deepord>
-<children id="T-wsj2020-001-p1s0a9">
+<children>
+<LM id="T-wsj2020-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -92,12 +96,10 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 </children>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 <LM id="T-wsj2020-001-p1s0a7">
 <a>
@@ -173,7 +175,9 @@
 <LM id="T-wsj2020-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s0W19-Ta</lex.rf>
-<aux.rf>a#a-wsj2020-001-p1s0W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2020-001-p1s0W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>počet</t_lemma>
@@ -216,16 +220,20 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Robert M. Jelenic, 39, was named president and chief operating officer of this closely held publisher.</eng_sentence>
 </LM>
 <LM id="T-wsj2020-001-p1s1">
 <atree.rf>a#a-wsj2020-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2020-001-p1s1a1">
+<children>
+<LM id="T-wsj2020-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s1W6-Ta</lex.rf>
-<aux.rf>a#a-wsj2020-001-p1s1W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2020-001-p1s1W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2558f5</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -262,9 +270,11 @@
 </gram>
 <deepord>3</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2020-001-p1s0a7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2020-001-p1s1a6">
@@ -278,7 +288,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj2020-001-p1s1a4">
+<children>
+<LM id="T-wsj2020-001-p1s1a4">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -289,7 +300,8 @@
 <sempos>adj.quant.grad</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj2020-001-p1s1a11">
+<children>
+<LM id="T-wsj2020-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s1W4-Ta</lex.rf>
 </a>
@@ -297,17 +309,21 @@
 <t_lemma>než</t_lemma>
 <functor>DPHR</functor>
 <deepord>5</deepord>
-</children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The post had been vacant for more than a year.</eng_sentence>
 </LM>
 <LM id="T-wsj2020-001-p1s2">
 <atree.rf>a#a-wsj2020-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2020-001-p1s2a1">
+<children>
+<LM id="T-wsj2020-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -332,13 +348,12 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2020-001-p1s0a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 <LM id="T-wsj2020-001-p1s2a3">
 <a>
@@ -379,7 +394,9 @@
 <LM id="T-wsj2020-001-p1s2a7">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s2W7-Ta</lex.rf>
-<aux.rf>a#a-wsj2020-001-p1s2W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2020-001-p1s2W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>provoz</t_lemma>
@@ -392,13 +409,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Mr. Jelenic had been executive vice president for operations.</eng_sentence>
 </LM>
 <LM id="T-wsj2020-001-p1s3">
 <atree.rf>a#a-wsj2020-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2020-001-p1s3a2">
+<children>
+<LM id="T-wsj2020-001-p1s3a2">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s3W15-Ta</lex.rf>
 </a>
@@ -455,7 +474,9 @@
 <LM id="T-wsj2020-001-p1s3a5">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s3W3-Ta</lex.rf>
-<aux.rf>a#a-wsj2020-001-p1s3W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2020-001-p1s3W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>II</t_lemma>
@@ -477,7 +498,8 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>6</deepord>
-<children id="T-wsj2020-001-p1s3a9">
+<children>
+<LM id="T-wsj2020-001-p1s3a9">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s3W6-Ta</lex.rf>
 </a>
@@ -489,6 +511,7 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -528,7 +551,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj2020-001-p1s3a14">
+<children>
+<LM id="T-wsj2020-001-p1s3a14">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s3W11-Ta</lex.rf>
 </a>
@@ -539,6 +563,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -574,9 +599,13 @@
 <LM id="T-wsj2020-001-p1s3a20">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s3W20-Ta</lex.rf>
-<aux.rf>a#a-wsj2020-001-p1s3W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2020-001-p1s3W19-Ta</LM>
+</aux.rf>
 </a>
-<compl.rf>T-wsj2020-001-p1s3a27</compl.rf>
+<compl.rf>
+<LM>T-wsj2020-001-p1s3a27</LM>
+</compl.rf>
 <nodetype>complex</nodetype>
 <t_lemma>šéfredaktor</t_lemma>
 <functor>COMPL</functor>
@@ -584,7 +613,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj2020-001-p1s3a22">
+<children>
+<LM id="T-wsj2020-001-p1s3a22">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s3W21-Ta</lex.rf>
 </a>
@@ -596,10 +626,13 @@
 </gram>
 <deepord>15</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2020-001-p1s0a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2020-001-p1s3a27">
@@ -612,9 +645,11 @@
 </gram>
 <deepord>17</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2020-001-p1s3a26</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2020-001-p1s3a23">
@@ -628,7 +663,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj2020-001-p1s3a24">
+<children>
+<LM id="T-wsj2020-001-p1s3a24">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s3W23-Ta</lex.rf>
 </a>
@@ -639,18 +675,21 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>18</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>In addition, Ralph Ingersoll II, 43, chairman and chief executive, said he would take on additional responsibilities as editor in chief of the company.</eng_sentence>
 </LM>
 <LM id="T-wsj2020-001-p1s4">
 <atree.rf>a#a-wsj2020-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2020-001-p1s4a1">
+<children>
+<LM id="T-wsj2020-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s4W3-Ta</lex.rf>
 </a>
@@ -674,7 +713,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj2020-001-p1s4a3">
+<children>
+<LM id="T-wsj2020-001-p1s4a3">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s4W1-Ta</lex.rf>
 </a>
@@ -685,12 +725,15 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2020-001-p1s4a5">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s4W5-Ta</lex.rf>
-<aux.rf>a#a-wsj2020-001-p1s4W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2020-001-p1s4W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>funkce</t_lemma>
@@ -699,7 +742,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj2020-001-p1s4a6">
+<children>
+<LM id="T-wsj2020-001-p1s4a6">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s4W6-Ta</lex.rf>
 </a>
@@ -710,16 +754,19 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>John Wilpers resigned as editor in chief.</eng_sentence>
 </LM>
 <LM id="T-wsj2020-001-p1s5">
 <atree.rf>a#a-wsj2020-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2020-001-p1s5a1">
+<children>
+<LM id="T-wsj2020-001-p1s5a1">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s5W3-Ta</lex.rf>
 </a>
@@ -743,7 +790,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj2020-001-p1s5a3">
+<children>
+<LM id="T-wsj2020-001-p1s5a3">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s5W1-Ta</lex.rf>
 </a>
@@ -754,15 +802,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>malé písmeno</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2020-001-p1s3a27</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2020-001-p1s5a4">
@@ -776,7 +823,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj2020-001-p1s5a5">
+<children>
+<LM id="T-wsj2020-001-p1s5a5">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s5W5-Ta</lex.rf>
 </a>
@@ -859,7 +907,9 @@
 <a>
 <lex.rf>a#a-wsj2020-001-p1s5W11-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj2020-001-p1s5a5</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj2020-001-p1s5a5</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -880,9 +930,11 @@
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2020-001-p1s3a22</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2020-001-p1s5a14">
@@ -900,19 +952,24 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Mr. Ingersoll remains editor in chief of the company's recently launched daily, the St. Louis Sun.</eng_sentence>
 </LM>
 <LM id="T-wsj2020-001-p1s6">
 <atree.rf>a#a-wsj2020-001-p1s6</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2020-001-p1s6a1">
+<children>
+<LM id="T-wsj2020-001-p1s6a1">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s6W11-Ta</lex.rf>
-<aux.rf>a#a-wsj2020-001-p1s6W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2020-001-p1s6W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1344f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -990,7 +1047,8 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>7</deepord>
-<children id="T-wsj2020-001-p1s6a10">
+<children>
+<LM id="T-wsj2020-001-p1s6a10">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s6W8-Ta</lex.rf>
 </a>
@@ -1002,6 +1060,7 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -1027,7 +1086,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj2020-001-p1s6a14">
+<children>
+<LM id="T-wsj2020-001-p1s6a14">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s6W12-Ta</lex.rf>
 </a>
@@ -1038,6 +1098,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2020-001-p1s6a16">
@@ -1065,7 +1126,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj2020-001-p1s6a18">
+<children>
+<LM id="T-wsj2020-001-p1s6a18">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s6W17-Ta</lex.rf>
 </a>
@@ -1076,18 +1138,21 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>13</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Also, Jean B. Clifton, 28, was named executive vice president, treasurer and chief financial officer.</eng_sentence>
 </LM>
 <LM id="T-wsj2020-001-p1s7">
 <atree.rf>a#a-wsj2020-001-p1s7</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2020-001-p1s7a1">
+<children>
+<LM id="T-wsj2020-001-p1s7a1">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s7W6-Ta</lex.rf>
 </a>
@@ -1111,7 +1176,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj2020-001-p1s7a3">
+<children>
+<LM id="T-wsj2020-001-p1s7a3">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s7W1-Ta</lex.rf>
 </a>
@@ -1122,12 +1188,15 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2020-001-p1s7a5">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s7W5-Ta</lex.rf>
-<aux.rf>a#a-wsj2020-001-p1s7W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2020-001-p1s7W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>post</t_lemma>
@@ -1136,7 +1205,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj2020-001-p1s7a6">
+<children>
+<LM id="T-wsj2020-001-p1s7a6">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s7W4-Ta</lex.rf>
 </a>
@@ -1147,17 +1217,22 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2020-001-p1s6a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2020-001-p1s7a10">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s7W10-Ta</lex.rf>
-<aux.rf>a#a-wsj2020-001-p1s7W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2020-001-p1s7W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -1166,7 +1241,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj2020-001-p1s7a8">
+<children>
+<LM id="T-wsj2020-001-p1s7a8">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s7W8-Ta</lex.rf>
 </a>
@@ -1177,7 +1253,8 @@
 <sempos>adj.quant.grad</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj2020-001-p1s7a11">
+<children>
+<LM id="T-wsj2020-001-p1s7a11">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s7W9-Ta</lex.rf>
 </a>
@@ -1185,17 +1262,21 @@
 <t_lemma>než</t_lemma>
 <functor>DPHR</functor>
 <deepord>7</deepord>
-</children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Michael Applebaum resigned after less than a year in the posts.</eng_sentence>
 </LM>
 <LM id="T-wsj2020-001-p1s8">
 <atree.rf>a#a-wsj2020-001-p1s8</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2020-001-p1s8a1">
+<children>
+<LM id="T-wsj2020-001-p1s8a1">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s8W3-Ta</lex.rf>
 </a>
@@ -1219,7 +1300,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj2020-001-p1s8a3">
+<children>
+<LM id="T-wsj2020-001-p1s8a3">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s8W1-Ta</lex.rf>
 </a>
@@ -1230,11 +1312,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2020-001-p1s6a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2020-001-p1s8a5">
@@ -1296,7 +1381,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj2020-001-p1s8a9">
+<children>
+<LM id="T-wsj2020-001-p1s8a9">
 <a>
 <lex.rf>a#a-wsj2020-001-p1s8W9-Ta</lex.rf>
 </a>
@@ -1307,11 +1393,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Ms. Clifton had been executive financial assistant to the chairman.</eng_sentence>
 </LM>

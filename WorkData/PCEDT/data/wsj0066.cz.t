@@ -372,12 +372,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatně utvořený infinitiv stanout</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <eng_sentence>Sir Peter Walters, 58-year-old chairman of British Petroleum Co. until next March, joins the board of this cement products company on Dec. 1.</eng_sentence>

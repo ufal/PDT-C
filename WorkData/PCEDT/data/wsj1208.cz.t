@@ -2933,12 +2933,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1208-001-p1s16a14">
 <a>
@@ -7884,12 +7878,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8088,12 +8076,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8508,12 +8490,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -9333,12 +9309,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1208-001-p1s39a8">
 <a>
@@ -18825,12 +18795,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>44</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>není sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -19999,12 +19963,6 @@
 <sempos>n.pron.indef</sempos>
 </gram>
 <deepord>8</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>dativ</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1208-001-p1s78a11">
 <a>
@@ -20958,12 +20916,6 @@
 <deepord>9</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>sloveso, ne adjektivum</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

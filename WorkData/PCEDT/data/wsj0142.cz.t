@@ -1058,28 +1058,8 @@
 <t_lemma>30</t_lemma>
 <functor>RSTR</functor>
 <deepord>9</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>špatně rozdělené</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>špatně rozdělené</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0142-001-p1s3a11">
 <a>
@@ -1417,28 +1397,8 @@
 <t_lemma>30</t_lemma>
 <functor>RSTR</functor>
 <deepord>35</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>špatně rozdělené</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatně rozdělené</text>
-</LM>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0142-001-p1s3a40">
 <a>
@@ -6263,12 +6223,6 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>1 ve 2</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0142-001-p1s21a6">
 <a>
@@ -6741,28 +6695,8 @@
 <t_lemma>30</t_lemma>
 <functor>RSTR</functor>
 <deepord>20</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>špatně rozdělené</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>špatně rozdělené</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7145,28 +7079,8 @@
 <t_lemma>10</t_lemma>
 <functor>RSTR</functor>
 <deepord>26</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>špatně rozdělené</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>špatně rozdělené</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0142-001-p1s24a32">
 <a>
@@ -7378,28 +7292,8 @@
 <t_lemma>30</t_lemma>
 <functor>RSTR</functor>
 <deepord>7</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>špatně rozdělené</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>špatně rozdělené</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7689,28 +7583,8 @@
 <t_lemma>30</t_lemma>
 <functor>RSTR</functor>
 <deepord>31</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>špatně rozdělené</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatně rozdělené</text>
-</LM>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0142-001-p1s25a34">
 <a>
@@ -9255,11 +9129,6 @@
 <deepord>6</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0142-001-p1s30a9">
 <a>
@@ -9377,28 +9246,8 @@
 <t_lemma>30</t_lemma>
 <functor>RSTR</functor>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>špatně rozdělené</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>špatně rozdělené</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -9964,28 +9813,8 @@
 <t_lemma>10</t_lemma>
 <functor>RSTR</functor>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>špatně rozdělené</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>špatně rozdělené</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0142-001-p1s33a5">
 <a>
@@ -10245,12 +10074,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>"kótovat", ne "kotovat"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <eng_sentence>The latest 10-year notes were quoted at 100 22/32 to yield 7.88% compared with 100 16/32 to yield 7.90%.</eng_sentence>
@@ -13291,11 +13114,6 @@
 <deepord>5</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -14308,28 +14126,8 @@
 <t_lemma>12</t_lemma>
 <functor>RSTR</functor>
 <deepord>14</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>špatně rozdělené</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>špatně rozdělené</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0142-001-p1s49a18">
 <nodetype>complex</nodetype>
@@ -17679,28 +17477,8 @@
 <t_lemma>10</t_lemma>
 <functor>RSTR</functor>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>špatně rozdělené</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>špatně rozdělené</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0142-001-p1s63a14">
 <a>
@@ -18023,12 +17801,6 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>16</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>1 ve 2</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0142-001-p1s64a26">
 <a>

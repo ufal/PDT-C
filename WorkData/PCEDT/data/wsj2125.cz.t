@@ -1738,12 +1738,6 @@
 <deepord>6</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatný infinitiv</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2125-001-p1s5a13">
 <a>
@@ -2640,12 +2634,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>slovesné adj. - infinitiv</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2826,12 +2814,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>inf. změněn na adj.</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3540,11 +3522,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -4559,12 +4536,6 @@
 <t_lemma>nejenže</t_lemma>
 <functor>CM</functor>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>1 v 2</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2125-001-p1s18a8">
 <a>
@@ -6274,11 +6245,6 @@
 <deepord>7</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2125-001-p1s24a44">
 <a>

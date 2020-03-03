@@ -716,12 +716,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -923,12 +917,6 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatný nominativ - původně megaotázek</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1886,12 +1874,6 @@
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>zájmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0629-001-p1s9a21">
 <nodetype>complex</nodetype>
@@ -2509,12 +2491,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>akuzativ</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6894,12 +6870,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0629-001-p1s30a21">
 <a>
@@ -7965,12 +7935,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>nominativ v mužském rodě</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8476,12 +8440,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>nominativ v mužském rodě</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -9741,12 +9699,6 @@
 <deepord>6</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>nominativ</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -11076,12 +11028,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0629-001-p1s47a13">
 <a>
@@ -11222,12 +11168,6 @@
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -15821,12 +15761,6 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>adjektivum</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

@@ -11,7 +11,8 @@
 <LM id="T-wsj0236-001-p1s0">
 <atree.rf>a#a-wsj0236-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0236-001-p1s0a1">
+<children>
+<LM id="T-wsj0236-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0236-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0236-001-p1s0a32">
+<children>
+<LM id="T-wsj0236-001-p1s0a32">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -82,12 +84,15 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0236-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj0236-001-p1s0W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0236-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0236-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7929f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -108,9 +113,11 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0236-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0236-001-p1s0a10">
@@ -128,7 +135,9 @@
 <LM id="T-wsj0236-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj0236-001-p1s0W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0236-001-p1s0W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0236-001-p1s0W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -167,7 +176,9 @@
 <LM id="T-wsj0236-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj0236-001-p1s0W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0236-001-p1s0W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0236-001-p1s0W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>služba</t_lemma>
@@ -188,10 +199,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0236-001-p1s0a18">
 <a>
@@ -204,7 +211,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj0236-001-p1s0a19">
+<children>
+<LM id="T-wsj0236-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj0236-001-p1s0W18-Ta</lex.rf>
 </a>
@@ -215,10 +223,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 </children>
@@ -235,7 +240,9 @@
 <LM id="T-wsj0236-001-p1s0a22">
 <a>
 <lex.rf>a#a-wsj0236-001-p1s0W21-Ta</lex.rf>
-<aux.rf>a#a-wsj0236-001-p1s0W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0236-001-p1s0W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výroba</t_lemma>
@@ -249,7 +256,9 @@
 <LM id="T-wsj0236-001-p1s0a23">
 <a>
 <lex.rf>a#a-wsj0236-001-p1s0W23-Ta</lex.rf>
-<aux.rf>a#a-wsj0236-001-p1s0W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0236-001-p1s0W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>instalace</t_lemma>
@@ -271,10 +280,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj0236-001-p1s0a26">
+<children>
+<LM id="T-wsj0236-001-p1s0a26">
 <a>
 <lex.rf>a#a-wsj0236-001-p1s0W27-Ta</lex.rf>
-<aux.rf>a#a-wsj0236-001-p1s0W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0236-001-p1s0W25-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6932f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -295,9 +307,11 @@
 </gram>
 <deepord>22</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0236-001-p1s0a24</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0236-001-p1s0a27">
@@ -326,10 +340,11 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
-</children>
 </LM>
 </children>
 </LM>
@@ -338,13 +353,17 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Martin Marietta Corp. said it won a $38.2 million contract from the U.S. Postal Service to manufacture and install automated mail-sorting machines.</eng_sentence>
 </LM>
 <LM id="T-wsj0236-001-p1s1">
 <atree.rf>a#a-wsj0236-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0236-001-p1s1a1">
+<children>
+<LM id="T-wsj0236-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0236-001-p1s1W4-Ta</lex.rf>
 </a>
@@ -375,7 +394,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0236-001-p1s1a25">
+<children>
+<LM id="T-wsj0236-001-p1s1a25">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -407,11 +427,14 @@
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0236-001-p1s0a30</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0236-001-p1s1a7">
@@ -433,15 +456,19 @@
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0236-001-p1s1a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0236-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj0236-001-p1s1W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0236-001-p1s1W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0236-001-p1s1W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>podmínka</t_lemma>
@@ -450,7 +477,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0236-001-p1s1a11">
+<children>
+<LM id="T-wsj0236-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj0236-001-p1s1W10-Ta</lex.rf>
 </a>
@@ -461,7 +489,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0236-001-p1s1a12">
+<children>
+<LM id="T-wsj0236-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj0236-001-p1s1W9-Ta</lex.rf>
 </a>
@@ -472,18 +501,24 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0236-001-p1s0a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0236-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj0236-001-p1s1W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0236-001-p1s1W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0236-001-p1s1W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8298f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -498,7 +533,9 @@
 <LM id="T-wsj0236-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj0236-001-p1s1W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0236-001-p1s1W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0236-001-p1s1W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w10048f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -509,10 +546,13 @@
 <sempos>v</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj0236-001-p1s1a18">
+<children>
+<LM id="T-wsj0236-001-p1s1a18">
 <a>
 <lex.rf>a#a-wsj0236-001-p1s1W20-Ta</lex.rf>
-<aux.rf>a#a-wsj0236-001-p1s1W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0236-001-p1s1W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>úřad</t_lemma>
@@ -547,6 +587,7 @@
 <deepord>18</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0236-001-p1s1a15">
@@ -590,13 +631,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Under terms of the three-year contract, Martin Marietta said it will make and install 267 of the new machines at 156 postal offices.</eng_sentence>
 </LM>
 <LM id="T-wsj0236-001-p1s2">
 <atree.rf>a#a-wsj0236-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0236-001-p1s2a1">
+<children>
+<LM id="T-wsj0236-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0236-001-p1s2W3-Ta</lex.rf>
 </a>
@@ -620,7 +663,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0236-001-p1s2a3">
+<children>
+<LM id="T-wsj0236-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj0236-001-p1s2W1-Ta</lex.rf>
 </a>
@@ -631,6 +675,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0236-001-p1s2a4">
@@ -644,7 +689,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0236-001-p1s2a7">
+<children>
+<LM id="T-wsj0236-001-p1s2a7">
 <a>
 <lex.rf>a#a-wsj0236-001-p1s2W7-Ta</lex.rf>
 </a>
@@ -660,7 +706,9 @@
 <LM id="T-wsj0236-001-p1s2a6">
 <a>
 <lex.rf>a#a-wsj0236-001-p1s2W6-Ta</lex.rf>
-<aux.rf>a#a-wsj0236-001-p1s2W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0236-001-p1s2W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodina</t_lemma>
@@ -671,7 +719,9 @@
 <deepord>5</deepord>
 </LM>
 <LM id="T-wsj0236-001-p1s2a21">
-<coref_gram.rf>T-wsj0236-001-p1s2a2</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0236-001-p1s2a2</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -681,7 +731,9 @@
 <LM id="T-wsj0236-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj0236-001-p1s2W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0236-001-p1s2W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0236-001-p1s2W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>číslo</t_lemma>
@@ -690,7 +742,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0236-001-p1s2a10">
+<children>
+<LM id="T-wsj0236-001-p1s2a10">
 <a>
 <lex.rf>a#a-wsj0236-001-p1s2W9-Ta</lex.rf>
 </a>
@@ -701,6 +754,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0236-001-p1s2a13">
@@ -726,7 +780,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0236-001-p1s2a12">
+<children>
+<LM id="T-wsj0236-001-p1s2a12">
 <a>
 <lex.rf>a#a-wsj0236-001-p1s2W11-Ta</lex.rf>
 </a>
@@ -737,6 +792,7 @@
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0236-001-p1s2a14">
@@ -775,7 +831,9 @@
 <LM id="T-wsj0236-001-p1s2a19">
 <a>
 <lex.rf>a#a-wsj0236-001-p1s2W18-Ta</lex.rf>
-<aux.rf>a#a-wsj0236-001-p1s2W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0236-001-p1s2W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>časopis</t_lemma>
@@ -789,7 +847,9 @@
 <LM id="T-wsj0236-001-p1s2a20">
 <a>
 <lex.rf>a#a-wsj0236-001-p1s2W20-Ta</lex.rf>
-<aux.rf>a#a-wsj0236-001-p1s2W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0236-001-p1s2W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>balík</t_lemma>
@@ -805,9 +865,11 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The new machines are capable of sorting by zip code up to 10,000 large flat mail pieces, including magazines and parcels, an hour.</eng_sentence>
 </LM>

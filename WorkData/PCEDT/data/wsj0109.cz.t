@@ -7321,16 +7321,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>adjektivum: obeznámený</text>
-</LM>
-<LM>
-<type>M-tag</type>
-<text>adjektivum: obeznámený</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8049,12 +8039,6 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>18</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

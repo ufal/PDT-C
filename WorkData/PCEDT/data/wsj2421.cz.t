@@ -11,7 +11,8 @@
 <LM id="T-wsj2421-001-p1s0">
 <atree.rf>a#a-wsj2421-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2421-001-p1s0a1">
+<children>
+<LM id="T-wsj2421-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj2421-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -47,7 +48,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj2421-001-p1s0a4">
+<children>
+<LM id="T-wsj2421-001-p1s0a4">
 <a>
 <lex.rf>a#a-wsj2421-001-p1s0W1-Ta</lex.rf>
 </a>
@@ -58,6 +60,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2421-001-p1s0a2">
@@ -109,7 +112,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj2421-001-p1s0a9">
+<children>
+<LM id="T-wsj2421-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj2421-001-p1s0W11-Ta</lex.rf>
 </a>
@@ -156,7 +160,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj2421-001-p1s0a24">
+<children>
+<LM id="T-wsj2421-001-p1s0a24">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -209,9 +214,11 @@
 <deepord>17</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2421-001-p1s0a12">
@@ -225,7 +232,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj2421-001-p1s0a17">
+<children>
+<LM id="T-wsj2421-001-p1s0a17">
 <a>
 <lex.rf>a#a-wsj2421-001-p1s0W20-Ta</lex.rf>
 </a>
@@ -242,7 +250,9 @@
 <a>
 <lex.rf>a#a-wsj2421-001-p1s0W19-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj2421-001-p1s0a12</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj2421-001-p1s0a12</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -262,10 +272,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj2421-001-p1s0a22">
+<children>
+<LM id="T-wsj2421-001-p1s0a22">
 <a>
 <lex.rf>a#a-wsj2421-001-p1s0W22-Ta</lex.rf>
-<aux.rf>a#a-wsj2421-001-p1s0W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2421-001-p1s0W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
@@ -275,25 +288,31 @@
 </gram>
 <deepord>21</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2421-001-p1s0a6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
-</children>
-</LM>
-</children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Mexican investor Joel Rocha Garza said he sold a block of 600,000 shares of Smith Laboratories Inc. common stock to companies affiliated with him.</eng_sentence>
 </LM>
 <LM id="T-wsj2421-001-p1s1">
 <atree.rf>a#a-wsj2421-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2421-001-p1s1a1">
+<children>
+<LM id="T-wsj2421-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj2421-001-p1s1W10-Ta</lex.rf>
 </a>
@@ -316,7 +335,9 @@
 <LM id="T-wsj2421-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj2421-001-p1s1W2-Ta</lex.rf>
-<aux.rf>a#a-wsj2421-001-p1s1W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2421-001-p1s1W1-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1322f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -344,15 +365,19 @@
 </gram>
 <deepord>3</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2421-001-p1s0a22</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2421-001-p1s1a5">
 <a>
 <lex.rf>a#a-wsj2421-001-p1s1W5-Ta</lex.rf>
-<aux.rf>a#a-wsj2421-001-p1s1W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2421-001-p1s1W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>komise</t_lemma>
@@ -377,7 +402,9 @@
 <LM id="T-wsj2421-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj2421-001-p1s1W7-Ta</lex.rf>
-<aux.rf>a#a-wsj2421-001-p1s1W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2421-001-p1s1W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>burza</t_lemma>
@@ -386,7 +413,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj2421-001-p1s1a9">
+<children>
+<LM id="T-wsj2421-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj2421-001-p1s1W9-Ta</lex.rf>
 </a>
@@ -397,7 +425,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj2421-001-p1s1a10">
+<children>
+<LM id="T-wsj2421-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj2421-001-p1s1W8-Ta</lex.rf>
 </a>
@@ -408,15 +437,19 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj2421-001-p1s1a15">
@@ -457,15 +490,19 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2421-001-p1s1a52</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2421-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj2421-001-p1s1W31-Ta</lex.rf>
-<aux.rf>a#a-wsj2421-001-p1s1W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2421-001-p1s1W15-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1578f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -501,9 +538,6 @@
 <t_lemma>Biscayne</t_lemma>
 <functor>FPHR</functor>
 <deepord>14</deepord>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 <LM id="T-wsj2421-001-p1s1a20">
 <a>
@@ -646,9 +680,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2421-001-p1s0a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2421-001-p1s1a32">
@@ -662,10 +698,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>32</deepord>
-<children id="T-wsj2421-001-p1s1a33">
+<children>
+<LM id="T-wsj2421-001-p1s1a33">
 <a>
 <lex.rf>a#a-wsj2421-001-p1s1W32-Ta</lex.rf>
-<aux.rf>a#a-wsj2421-001-p1s1W33-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2421-001-p1s1W33-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>11</t_lemma>
@@ -674,6 +713,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>31</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2421-001-p1s1a38">
@@ -687,7 +727,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>34</deepord>
-<children id="T-wsj2421-001-p1s1a37">
+<children>
+<LM id="T-wsj2421-001-p1s1a37">
 <a>
 <lex.rf>a#a-wsj2421-001-p1s1W35-Ta</lex.rf>
 </a>
@@ -698,11 +739,14 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>33</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2421-001-p1s0a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2421-001-p1s1a59">
@@ -717,7 +761,9 @@
 <LM id="T-wsj2421-001-p1s1a40">
 <a>
 <lex.rf>a#a-wsj2421-001-p1s1W39-Ta</lex.rf>
-<aux.rf>a#a-wsj2421-001-p1s1W37-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2421-001-p1s1W37-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -766,7 +812,9 @@
 <LM id="T-wsj2421-001-p1s1a44">
 <a>
 <lex.rf>a#a-wsj2421-001-p1s1W44-Ta</lex.rf>
-<aux.rf>a#a-wsj2421-001-p1s1W37-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2421-001-p1s1W37-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dolar</t_lemma>
@@ -792,7 +840,9 @@
 <LM id="T-wsj2421-001-p1s1a46">
 <a>
 <lex.rf>a#a-wsj2421-001-p1s1W46-Ta</lex.rf>
-<aux.rf>a#a-wsj2421-001-p1s1W45-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2421-001-p1s1W45-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akcie</t_lemma>
@@ -804,8 +854,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>Typo</type>
 <text>dolarů</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -813,13 +865,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>In a filing with the Securities and Exchange Commission, Mr. Rocha Garza said Biscayne Syndicate Inc., Lahus II Inc., and Lahus III Inc. bought the 600,000 shares on Oct. 11 for $1.4 million, or $2.375 a share.</eng_sentence>
 </LM>
 <LM id="T-wsj2421-001-p1s2">
 <atree.rf>a#a-wsj2421-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2421-001-p1s2a1">
+<children>
+<LM id="T-wsj2421-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj2421-001-p1s2W4-Ta</lex.rf>
 </a>
@@ -862,9 +916,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 <LM id="T-wsj2421-001-p1s2a3">
 <a>
@@ -880,9 +931,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2421-001-p1s1a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2421-001-p1s2a7">
@@ -897,7 +950,9 @@
 <LM id="T-wsj2421-001-p1s2a45">
 <a>
 <lex.rf>a#a-wsj2421-001-p1s2W22-Ta</lex.rf>
-<aux.rf>a#a-wsj2421-001-p1s2W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2421-001-p1s2W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -931,9 +986,11 @@
 </gram>
 <deepord>6</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2421-001-p1s2a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2421-001-p1s2a42">
@@ -992,7 +1049,8 @@
 <functor>ACT</functor>
 <is_member>1</is_member>
 <deepord>15</deepord>
-<children id="T-wsj2421-001-p1s2a18">
+<children>
+<LM id="T-wsj2421-001-p1s2a18">
 <a>
 <lex.rf>a#a-wsj2421-001-p1s2W14-Ta</lex.rf>
 </a>
@@ -1000,14 +1058,14 @@
 <t_lemma>Biscayne</t_lemma>
 <functor>FPHR</functor>
 <deepord>11</deepord>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2421-001-p1s1a54</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2421-001-p1s2a44">
@@ -1041,9 +1099,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2421-001-p1s1a55</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2421-001-p1s2a35">
@@ -1080,9 +1140,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2421-001-p1s1a48</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -1098,16 +1160,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 </children>
 </LM>
 <LM id="T-wsj2421-001-p1s2a25">
 <a>
 <lex.rf>a#a-wsj2421-001-p1s2W25-Ta</lex.rf>
-<aux.rf>a#a-wsj2421-001-p1s2W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2421-001-p1s2W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w839f3</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1129,9 +1190,11 @@
 </gram>
 <deepord>24</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2421-001-p1s2a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2421-001-p1s2a26">
@@ -1167,7 +1230,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>28</deepord>
-<children id="T-wsj2421-001-p1s2a27">
+<children>
+<LM id="T-wsj2421-001-p1s2a27">
 <a>
 <lex.rf>a#a-wsj2421-001-p1s2W27-Ta</lex.rf>
 </a>
@@ -1178,6 +1242,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>27</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2421-001-p1s2a46">
@@ -1189,7 +1254,8 @@
 <functor>PAT</functor>
 <is_member>1</is_member>
 <deepord>30</deepord>
-<children id="T-wsj2421-001-p1s2a31">
+<children>
+<LM id="T-wsj2421-001-p1s2a31">
 <a>
 <lex.rf>a#a-wsj2421-001-p1s2W31-Ta</lex.rf>
 </a>
@@ -1200,7 +1266,6 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>31</deepord>
-</children>
 </LM>
 </children>
 </LM>
@@ -1209,13 +1274,17 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Mr. Rocha Garza said that he, Clarendon Group Ltd., Biscayne, Lahus II, and Lahus III are all affiliated and hold a combined stake of 1,234,100 shares, or 9.33%.</eng_sentence>
 </LM>
 <LM id="T-wsj2421-001-p1s3">
 <atree.rf>a#a-wsj2421-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2421-001-p1s3a1">
+<children>
+<LM id="T-wsj2421-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj2421-001-p1s3W4-Ta</lex.rf>
 </a>
@@ -1258,9 +1327,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 <LM id="T-wsj2421-001-p1s3a3">
 <a>
@@ -1276,15 +1342,19 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2421-001-p1s2a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2421-001-p1s3a7">
 <a>
 <lex.rf>a#a-wsj2421-001-p1s3W7-Ta</lex.rf>
-<aux.rf>a#a-wsj2421-001-p1s3W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2421-001-p1s3W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1855f6</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1305,9 +1375,11 @@
 </gram>
 <deepord>6</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2421-001-p1s3a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2421-001-p1s3a8">
@@ -1321,10 +1393,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj2421-001-p1s3a10">
+<children>
+<LM id="T-wsj2421-001-p1s3a10">
 <a>
 <lex.rf>a#a-wsj2421-001-p1s3W10-Ta</lex.rf>
-<aux.rf>a#a-wsj2421-001-p1s3W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2421-001-p1s3W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>koupě</t_lemma>
@@ -1333,7 +1408,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj2421-001-p1s3a11">
+<children>
+<LM id="T-wsj2421-001-p1s3a11">
 <a>
 <lex.rf>a#a-wsj2421-001-p1s3W12-Ta</lex.rf>
 </a>
@@ -1344,7 +1420,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj2421-001-p1s3a12">
+<children>
+<LM id="T-wsj2421-001-p1s3a12">
 <a>
 <lex.rf>a#a-wsj2421-001-p1s3W11-Ta</lex.rf>
 </a>
@@ -1355,20 +1432,25 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
-</children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Mr. Rocha Garza has said he wants to purchase more shares.</eng_sentence>
 </LM>
 <LM id="T-wsj2421-001-p1s4">
 <atree.rf>a#a-wsj2421-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2421-001-p1s4a1">
+<children>
+<LM id="T-wsj2421-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj2421-001-p1s4W9-Ta</lex.rf>
 </a>
@@ -1411,7 +1493,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj2421-001-p1s4a17">
+<children>
+<LM id="T-wsj2421-001-p1s4a17">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1444,10 +1527,13 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2421-001-p1s0a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2421-001-p1s4a6">
@@ -1466,7 +1552,9 @@
 </LM>
 <LM id="T-wsj2421-001-p1s4a18">
 <a>
-<aux.rf>a#a-wsj2421-001-p1s4W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2421-001-p1s4W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -1503,7 +1591,9 @@
 <LM id="T-wsj2421-001-p1s4a12">
 <a>
 <lex.rf>a#a-wsj2421-001-p1s4W14-Ta</lex.rf>
-<aux.rf>a#a-wsj2421-001-p1s4W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2421-001-p1s4W11-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1525,7 +1615,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj2421-001-p1s4a14">
+<children>
+<LM id="T-wsj2421-001-p1s4a14">
 <a>
 <lex.rf>a#a-wsj2421-001-p1s4W13-Ta</lex.rf>
 </a>
@@ -1536,11 +1627,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2421-001-p1s1a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2421-001-p1s4a15">
@@ -1558,6 +1652,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>In San Diego, Smith Laboratories President Timothy Wollaeger said the transfer of the shares isn't significant.</eng_sentence>
 </LM>

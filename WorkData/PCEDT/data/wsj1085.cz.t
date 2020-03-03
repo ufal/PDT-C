@@ -11,7 +11,8 @@
 <LM id="T-wsj1085-001-p1s0">
 <atree.rf>a#a-wsj1085-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1085-001-p1s0a1">
+<children>
+<LM id="T-wsj1085-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1085-001-p1s0W19-Ta</lex.rf>
 </a>
@@ -45,7 +46,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1085-001-p1s0a53">
+<children>
+<LM id="T-wsj1085-001-p1s0a53">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -89,6 +91,7 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1085-001-p1s0a12">
@@ -159,7 +162,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj1085-001-p1s0a15">
+<children>
+<LM id="T-wsj1085-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj1085-001-p1s0W14-Ta</lex.rf>
 </a>
@@ -220,6 +224,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -229,7 +234,9 @@
 <LM id="T-wsj1085-001-p1s0a22">
 <a>
 <lex.rf>a#a-wsj1085-001-p1s0W27-Ta</lex.rf>
-<aux.rf>a#a-wsj1085-001-p1s0W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1085-001-p1s0W21-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9501f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -243,7 +250,9 @@
 <LM id="T-wsj1085-001-p1s0a24">
 <a>
 <lex.rf>a#a-wsj1085-001-p1s0W25-Ta</lex.rf>
-<aux.rf>a#a-wsj1085-001-p1s0W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1085-001-p1s0W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>sbor</t_lemma>
@@ -264,10 +273,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1085-001-p1s0a26">
 <a>
@@ -287,7 +292,8 @@
 <t_lemma>#Idph</t_lemma>
 <functor>RSTR</functor>
 <deepord>25</deepord>
-<children id="T-wsj1085-001-p1s0a27">
+<children>
+<LM id="T-wsj1085-001-p1s0a27">
 <a>
 <lex.rf>a#a-wsj1085-001-p1s0W26-Ta</lex.rf>
 </a>
@@ -298,6 +304,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>26</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -312,9 +319,11 @@
 </gram>
 <deepord>28</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1085-001-p1s0a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1085-001-p1s0a28">
@@ -332,7 +341,9 @@
 <LM id="T-wsj1085-001-p1s0a30">
 <a>
 <lex.rf>a#a-wsj1085-001-p1s0W30-Ta</lex.rf>
-<aux.rf>a#a-wsj1085-001-p1s0W29-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1085-001-p1s0W29-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodnota</t_lemma>
@@ -341,7 +352,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>30</deepord>
-<children id="T-wsj1085-001-p1s0a32">
+<children>
+<LM id="T-wsj1085-001-p1s0a32">
 <a>
 <lex.rf>a#a-wsj1085-001-p1s0W32-Ta</lex.rf>
 </a>
@@ -378,16 +390,15 @@
 <deepord>33</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1085-001-p1s0a35">
 <a>
 <lex.rf>a#a-wsj1085-001-p1s0W35-Ta</lex.rf>
-<aux.rf>a#a-wsj1085-001-p1s0W34-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1085-001-p1s0W34-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7474f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -408,9 +419,11 @@
 </gram>
 <deepord>34</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1085-001-p1s0a56</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1085-001-p1s0a36">
@@ -460,7 +473,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>39</deepord>
-<children id="T-wsj1085-001-p1s0a57">
+<children>
+<LM id="T-wsj1085-001-p1s0a57">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -501,12 +515,15 @@
 <deepord>43</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1085-001-p1s0a42">
 <a>
 <lex.rf>a#a-wsj1085-001-p1s0W44-Ta</lex.rf>
-<aux.rf>a#a-wsj1085-001-p1s0W43-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1085-001-p1s0W43-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>okres</t_lemma>
@@ -531,7 +548,9 @@
 <LM id="T-wsj1085-001-p1s0a45">
 <a>
 <lex.rf>a#a-wsj1085-001-p1s0W47-Ta</lex.rf>
-<aux.rf>a#a-wsj1085-001-p1s0W46-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1085-001-p1s0W46-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>stát</t_lemma>
@@ -540,7 +559,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>46</deepord>
-<children id="T-wsj1085-001-p1s0a51">
+<children>
+<LM id="T-wsj1085-001-p1s0a51">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -566,6 +586,7 @@
 <deepord>49</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -574,8 +595,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -583,13 +606,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>International Technology Corp. and Davy McKee Corp., a unit of London's Davy Corp., said they were awarded a $55 million contract by the U.S. Army Corps of Engineers for the closure of the Helen Kramer Landfill Superfund site in Mantua Township, N.J.</eng_sentence>
 </LM>
 <LM id="T-wsj1085-001-p1s1">
 <atree.rf>a#a-wsj1085-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1085-001-p1s1a1">
+<children>
+<LM id="T-wsj1085-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1085-001-p1s1W12-Ta</lex.rf>
 </a>
@@ -623,7 +648,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1085-001-p1s1a36">
+<children>
+<LM id="T-wsj1085-001-p1s1a36">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -652,6 +678,7 @@
 <deepord>4</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1085-001-p1s1a7">
@@ -666,10 +693,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1085-001-p1s1a8">
+<children>
+<LM id="T-wsj1085-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj1085-001-p1s1W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1085-001-p1s1W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1085-001-p1s1W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zabývající_se</t_lemma>
@@ -678,7 +708,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1085-001-p1s1a10">
+<children>
+<LM id="T-wsj1085-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj1085-001-p1s1W8-Ta</lex.rf>
 </a>
@@ -689,7 +720,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1085-001-p1s1a11">
+<children>
+<LM id="T-wsj1085-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj1085-001-p1s1W10-Ta</lex.rf>
 </a>
@@ -700,7 +732,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1085-001-p1s1a12">
+<children>
+<LM id="T-wsj1085-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj1085-001-p1s1W9-Ta</lex.rf>
 </a>
@@ -711,22 +744,30 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1085-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1085-001-p1s1a15">
 <a>
 <lex.rf>a#a-wsj1085-001-p1s1W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1085-001-p1s1W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1085-001-p1s1W14-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8805f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -749,9 +790,11 @@
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1085-001-p1s0a28</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1085-001-p1s1a17">
@@ -777,9 +820,11 @@
 </gram>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1085-001-p1s0a52</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1085-001-p1s1a22">
@@ -803,7 +848,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1085-001-p1s1a19">
+<children>
+<LM id="T-wsj1085-001-p1s1a19">
 <a>
 <lex.rf>a#a-wsj1085-001-p1s1W18-Ta</lex.rf>
 </a>
@@ -814,6 +860,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1085-001-p1s1a26">
@@ -828,10 +875,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1085-001-p1s1a21">
+<children>
+<LM id="T-wsj1085-001-p1s1a21">
 <a>
 <lex.rf>a#a-wsj1085-001-p1s1W23-Ta</lex.rf>
-<aux.rf>a#a-wsj1085-001-p1s1W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1085-001-p1s1W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>jímání</t_lemma>
@@ -840,7 +890,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1085-001-p1s1a24">
+<children>
+<LM id="T-wsj1085-001-p1s1a24">
 <a>
 <lex.rf>a#a-wsj1085-001-p1s1W24-Ta</lex.rf>
 </a>
@@ -851,11 +902,15 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1085-001-p1s1a27">
@@ -894,7 +949,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj1085-001-p1s1a30">
+<children>
+<LM id="T-wsj1085-001-p1s1a30">
 <a>
 <lex.rf>a#a-wsj1085-001-p1s1W28-Ta</lex.rf>
 </a>
@@ -905,6 +961,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>23</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -921,7 +978,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>26</deepord>
-<children id="T-wsj1085-001-p1s1a32">
+<children>
+<LM id="T-wsj1085-001-p1s1a32">
 <a>
 <lex.rf>a#a-wsj1085-001-p1s1W33-Ta</lex.rf>
 </a>
@@ -932,7 +990,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>28</deepord>
-<children id="T-wsj1085-001-p1s1a33">
+<children>
+<LM id="T-wsj1085-001-p1s1a33">
 <a>
 <lex.rf>a#a-wsj1085-001-p1s1W32-Ta</lex.rf>
 </a>
@@ -943,20 +1002,25 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>27</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>International Technology, an environmental management concern, said the contract includes construction of slurry walls, gas collection systems, a multilayer cap and water treatment plant.</eng_sentence>
 </LM>

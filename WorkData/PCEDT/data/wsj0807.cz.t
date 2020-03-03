@@ -4666,12 +4666,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno jako sloveso přesvědčit</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

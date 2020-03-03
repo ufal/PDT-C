@@ -68,12 +68,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno; napsáno celé velkými písmeny</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1377-001-p1s1a3">
 <a>
@@ -271,11 +265,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1377-001-p1s2a53">
 <nodetype>list</nodetype>
@@ -6231,12 +6220,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>krátké E</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1377-001-p1s24a24">
 <a>
@@ -8453,12 +8436,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -12050,12 +12027,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -14884,11 +14855,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <eng_sentence>Ed Voyles Olds recently established a special section in the service department for owners whose cars are less than a year old, so they get quicker service.</eng_sentence>
@@ -16733,12 +16699,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1377-001-p1s67a12">
 <a>

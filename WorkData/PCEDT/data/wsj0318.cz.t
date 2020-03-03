@@ -11,7 +11,8 @@
 <LM id="T-wsj0318-001-p1s0">
 <atree.rf>a#a-wsj0318-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0318-001-p1s0a14">
+<children>
+<LM id="T-wsj0318-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj0318-001-p1s0W17-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0318-001-p1s0a1">
+<children>
+<LM id="T-wsj0318-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0318-001-p1s0W9-Ta</lex.rf>
 </a>
@@ -85,7 +87,9 @@
 <LM id="T-wsj0318-001-p1s0a7">
 <a>
 <lex.rf>a#a-wsj0318-001-p1s0W6-Ta</lex.rf>
-<aux.rf>a#a-wsj0318-001-p1s0W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0318-001-p1s0W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Rosemonet</t_lemma>
@@ -94,10 +98,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj0318-001-p1s0a9">
+<children>
+<LM id="T-wsj0318-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj0318-001-p1s0W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0318-001-p1s0W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0318-001-p1s0W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Illionis</t_lemma>
@@ -106,6 +113,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -162,7 +170,9 @@
 </LM>
 <LM id="T-wsj0318-001-p1s0a56">
 <a>
-<aux.rf>a#a-wsj0318-001-p1s0W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0318-001-p1s0W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -199,12 +209,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0318-001-p1s0a20">
 <a>
 <lex.rf>a#a-wsj0318-001-p1s0W25-Ta</lex.rf>
-<aux.rf>a#a-wsj0318-001-p1s0W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0318-001-p1s0W19-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7022f4_ZU</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -233,7 +246,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj0318-001-p1s0a23">
+<children>
+<LM id="T-wsj0318-001-p1s0a23">
 <a>
 <lex.rf>a#a-wsj0318-001-p1s0W23-Ta</lex.rf>
 </a>
@@ -245,7 +259,9 @@
 <LM id="T-wsj0318-001-p1s0a24">
 <a>
 <lex.rf>a#a-wsj0318-001-p1s0W22-Ta</lex.rf>
-<aux.rf>a#a-wsj0318-001-p1s0W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0318-001-p1s0W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>potravina</t_lemma>
@@ -259,7 +275,9 @@
 <LM id="T-wsj0318-001-p1s0a25">
 <a>
 <lex.rf>a#a-wsj0318-001-p1s0W24-Ta</lex.rf>
-<aux.rf>a#a-wsj0318-001-p1s0W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0318-001-p1s0W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>léčivo</t_lemma>
@@ -271,11 +289,8 @@
 <deepord>22</deepord>
 </LM>
 </children>
+</LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0318-001-p1s0a26">
 <a>
@@ -348,7 +363,9 @@
 <LM id="T-wsj0318-001-p1s0a32">
 <a>
 <lex.rf>a#a-wsj0318-001-p1s0W32-Ta</lex.rf>
-<aux.rf>a#a-wsj0318-001-p1s0W31-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0318-001-p1s0W31-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>léčba</t_lemma>
@@ -357,7 +374,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>30</deepord>
-<children id="T-wsj0318-001-p1s0a33">
+<children>
+<LM id="T-wsj0318-001-p1s0a33">
 <a>
 <lex.rf>a#a-wsj0318-001-p1s0W33-Ta</lex.rf>
 </a>
@@ -368,7 +386,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>31</deepord>
-<children id="T-wsj0318-001-p1s0a34">
+<children>
+<LM id="T-wsj0318-001-p1s0a34">
 <a>
 <lex.rf>a#a-wsj0318-001-p1s0W38-Ta</lex.rf>
 </a>
@@ -384,9 +403,13 @@
 <LM id="T-wsj0318-001-p1s0a37">
 <a>
 <lex.rf>a#a-wsj0318-001-p1s0W36-Ta</lex.rf>
-<aux.rf>a#a-wsj0318-001-p1s0W35-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0318-001-p1s0W35-Ta</LM>
+</aux.rf>
 </a>
-<coref_gram.rf>T-wsj0318-001-p1s0a33</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0318-001-p1s0a33</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>TWHEN</functor>
@@ -459,7 +482,9 @@
 <LM id="T-wsj0318-001-p1s0a44">
 <a>
 <lex.rf>a#a-wsj0318-001-p1s0W44-Ta</lex.rf>
-<aux.rf>a#a-wsj0318-001-p1s0W43-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0318-001-p1s0W43-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>minuta</t_lemma>
@@ -472,31 +497,39 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Lyphomed Inc., Rosemont, Ill., and Medco Research Inc., Los Angeles, said the Food and Drug Administration granted full marketing approval for a new drug for the treatment of a condition in which the heart beats between 150 and 200 beats a minute.</eng_sentence>
 </LM>
 <LM id="T-wsj0318-001-p1s1">
 <atree.rf>a#a-wsj0318-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0318-001-p1s1a1">
+<children>
+<LM id="T-wsj0318-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0318-001-p1s1W12-Ta</lex.rf>
 </a>
@@ -544,10 +577,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0318-001-p1s1a6">
+<children>
+<LM id="T-wsj0318-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj0318-001-p1s1W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0318-001-p1s1W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0318-001-p1s1W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9881f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -593,7 +629,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0318-001-p1s1a11">
+<children>
+<LM id="T-wsj0318-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj0318-001-p1s1W9-Ta</lex.rf>
 </a>
@@ -604,24 +641,32 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0318-001-p1s0a37</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0318-001-p1s1a14">
@@ -636,7 +681,9 @@
 <LM id="T-wsj0318-001-p1s1a15">
 <a>
 <lex.rf>a#a-wsj0318-001-p1s1W14-Ta</lex.rf>
-<aux.rf>a#a-wsj0318-001-p1s1W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0318-001-p1s1W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>závrať</t_lemma>
@@ -650,7 +697,9 @@
 <LM id="T-wsj0318-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj0318-001-p1s1W16-Ta</lex.rf>
-<aux.rf>a#a-wsj0318-001-p1s1W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0318-001-p1s1W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>mdloba</t_lemma>
@@ -664,13 +713,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The condition, known as paroxysmal supraventricular tachycardia, leads to dizziness and fainting.</eng_sentence>
 </LM>
 <LM id="T-wsj0318-001-p1s2">
 <atree.rf>a#a-wsj0318-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0318-001-p1s2a1">
+<children>
+<LM id="T-wsj0318-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0318-001-p1s2W4-Ta</lex.rf>
 </a>
@@ -736,7 +787,9 @@
 <LM id="T-wsj0318-001-p1s2a7">
 <a>
 <lex.rf>a#a-wsj0318-001-p1s2W7-Ta</lex.rf>
-<aux.rf>a#a-wsj0318-001-p1s2W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0318-001-p1s2W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>minuta</t_lemma>
@@ -747,13 +800,15 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The typical healthy heart beats 70 times a minute.</eng_sentence>
 </LM>
 <LM id="T-wsj0318-001-p1s3">
 <atree.rf>a#a-wsj0318-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0318-001-p1s3a1">
+<children>
+<LM id="T-wsj0318-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj0318-001-p1s3W11-Ta</lex.rf>
 </a>
@@ -790,7 +845,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0318-001-p1s3a3">
+<children>
+<LM id="T-wsj0318-001-p1s3a3">
 <a>
 <lex.rf>a#a-wsj0318-001-p1s3W3-Ta</lex.rf>
 </a>
@@ -801,7 +857,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0318-001-p1s3a2">
+<children>
+<LM id="T-wsj0318-001-p1s3a2">
 <a>
 <lex.rf>a#a-wsj0318-001-p1s3W4-Ta</lex.rf>
 </a>
@@ -812,12 +869,16 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0318-001-p1s0a29</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0318-001-p1s3a9">
@@ -843,7 +904,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0318-001-p1s3a11">
+<children>
+<LM id="T-wsj0318-001-p1s3a11">
 <a>
 <lex.rf>a#a-wsj0318-001-p1s3W8-Ta</lex.rf>
 </a>
@@ -854,6 +916,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -869,7 +932,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0318-001-p1s3a13">
+<children>
+<LM id="T-wsj0318-001-p1s3a13">
 <a>
 <lex.rf>a#a-wsj0318-001-p1s3W13-Ta</lex.rf>
 </a>
@@ -880,16 +944,19 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The drug, called adenocard, returns the heart to a normal rhythm within seconds, according to Lyphomed.</eng_sentence>
 </LM>
 <LM id="T-wsj0318-001-p1s4">
 <atree.rf>a#a-wsj0318-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0318-001-p1s4a1">
+<children>
+<LM id="T-wsj0318-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj0318-001-p1s4W7-Ta</lex.rf>
 </a>
@@ -909,7 +976,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0318-001-p1s4a19">
+<children>
+<LM id="T-wsj0318-001-p1s4a19">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -941,6 +1009,7 @@
 <deepord>4</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0318-001-p1s4a5">
@@ -956,7 +1025,8 @@
 <sempos>v</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0318-001-p1s4a6">
+<children>
+<LM id="T-wsj0318-001-p1s4a6">
 <a>
 <lex.rf>a#a-wsj0318-001-p1s4W5-Ta</lex.rf>
 </a>
@@ -967,7 +1037,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj0318-001-p1s4a7">
+<children>
+<LM id="T-wsj0318-001-p1s4a7">
 <a>
 <lex.rf>a#a-wsj0318-001-p1s4W4-Ta</lex.rf>
 </a>
@@ -978,12 +1049,16 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0318-001-p1s3a6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0318-001-p1s4a8">
@@ -1011,7 +1086,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0318-001-p1s4a10">
+<children>
+<LM id="T-wsj0318-001-p1s4a10">
 <a>
 <lex.rf>a#a-wsj0318-001-p1s4W10-Ta</lex.rf>
 </a>
@@ -1022,17 +1098,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0318-001-p1s3a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0318-001-p1s4a12">
 <a>
 <lex.rf>a#a-wsj0318-001-p1s4W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0318-001-p1s4W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0318-001-p1s4W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>prodej</t_lemma>
@@ -1054,9 +1135,11 @@
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0318-001-p1s4a6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0318-001-p1s4a15">
@@ -1071,7 +1154,9 @@
 <LM id="T-wsj0318-001-p1s4a16">
 <a>
 <lex.rf>a#a-wsj0318-001-p1s4W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0318-001-p1s4W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0318-001-p1s4W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>USA</t_lemma>
@@ -1085,7 +1170,9 @@
 <LM id="T-wsj0318-001-p1s4a17">
 <a>
 <lex.rf>a#a-wsj0318-001-p1s4W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0318-001-p1s4W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0318-001-p1s4W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Kanada</t_lemma>
@@ -1103,6 +1190,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Medco Research developed the drug and licensed it to Lyphomed for sale in the U.S. and Canada.</eng_sentence>
 </LM>

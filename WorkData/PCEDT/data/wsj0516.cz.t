@@ -11,7 +11,8 @@
 <LM id="T-wsj0516-001-p1s0">
 <atree.rf>a#a-wsj0516-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0516-001-p1s0a1">
+<children>
+<LM id="T-wsj0516-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0516-001-p1s0W5-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0516-001-p1s0a31">
+<children>
+<LM id="T-wsj0516-001-p1s0a31">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -70,12 +72,15 @@
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0516-001-p1s0a8">
 <a>
 <lex.rf>a#a-wsj0516-001-p1s0W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0516-001-p1s0W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0516-001-p1s0W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w598f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -96,9 +101,11 @@
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0516-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0516-001-p1s0a9">
@@ -124,7 +131,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0516-001-p1s0a11">
+<children>
+<LM id="T-wsj0516-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj0516-001-p1s0W9-Ta</lex.rf>
 </a>
@@ -135,6 +143,7 @@
 <sempos>adv.denot.grad.nneg</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0516-001-p1s0a17">
@@ -158,7 +167,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj0516-001-p1s0a32">
+<children>
+<LM id="T-wsj0516-001-p1s0a32">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -205,6 +215,7 @@
 <deepord>17</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0516-001-p1s0a18">
@@ -241,7 +252,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj0516-001-p1s0a21">
+<children>
+<LM id="T-wsj0516-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj0516-001-p1s0W19-Ta</lex.rf>
 </a>
@@ -252,6 +264,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>20</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0516-001-p1s0a22">
@@ -266,7 +279,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj0516-001-p1s0a23">
+<children>
+<LM id="T-wsj0516-001-p1s0a23">
 <a>
 <lex.rf>a#a-wsj0516-001-p1s0W22-Ta</lex.rf>
 </a>
@@ -277,6 +291,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>23</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -284,7 +299,9 @@
 <LM id="T-wsj0516-001-p1s0a25">
 <a>
 <lex.rf>a#a-wsj0516-001-p1s0W25-Ta</lex.rf>
-<aux.rf>a#a-wsj0516-001-p1s0W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0516-001-p1s0W24-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>sídlo</t_lemma>
@@ -293,9 +310,12 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj0516-001-p1s0a33">
+<children>
+<LM id="T-wsj0516-001-p1s0a33">
 <a>
-<aux.rf>a#a-wsj0516-001-p1s0W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0516-001-p1s0W26-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -328,7 +348,6 @@
 <deepord>28</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
@@ -339,13 +358,17 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Kellwood Co. said it completed a previously announced acquisition of Crowntuft Manufacturing Corp., a New York-based maker of chenille robes and lounge wear.</eng_sentence>
 </LM>
 <LM id="T-wsj0516-001-p1s1">
 <atree.rf>a#a-wsj0516-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0516-001-p1s1a1">
+<children>
+<LM id="T-wsj0516-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0516-001-p1s1W6-Ta</lex.rf>
 </a>
@@ -403,9 +426,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0516-001-p1s0a30</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0516-001-p1s1a5">
@@ -419,7 +444,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0516-001-p1s1a6">
+<children>
+<LM id="T-wsj0516-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj0516-001-p1s1W5-Ta</lex.rf>
 </a>
@@ -430,19 +456,19 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 </children>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
+</LM>
 </children>
 <eng_sentence>The apparel maker wouldn't disclose terms of the agreement.</eng_sentence>
 </LM>
 <LM id="T-wsj0516-001-p1s2">
 <atree.rf>a#a-wsj0516-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0516-001-p1s2a1">
+<children>
+<LM id="T-wsj0516-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0516-001-p1s2W3-Ta</lex.rf>
 </a>
@@ -466,7 +492,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0516-001-p1s2a3">
+<children>
+<LM id="T-wsj0516-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj0516-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -477,17 +504,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0516-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0516-001-p1s2a6">
 <a>
 <lex.rf>a#a-wsj0516-001-p1s2W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0516-001-p1s2W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0516-001-p1s2W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9938f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -537,7 +569,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj0516-001-p1s2a12">
+<children>
+<LM id="T-wsj0516-001-p1s2a12">
 <a>
 <lex.rf>a#a-wsj0516-001-p1s2W11-Ta</lex.rf>
 </a>
@@ -548,11 +581,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0516-001-p1s0a17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -604,10 +640,6 @@
 <deepord>11</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0516-001-p1s2a18">
 <a>
@@ -621,7 +653,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj0516-001-p1s2a19">
+<children>
+<LM id="T-wsj0516-001-p1s2a19">
 <a>
 <lex.rf>a#a-wsj0516-001-p1s2W19-Ta</lex.rf>
 </a>
@@ -632,7 +665,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj0516-001-p1s2a20">
+<children>
+<LM id="T-wsj0516-001-p1s2a20">
 <a>
 <lex.rf>a#a-wsj0516-001-p1s2W20-Ta</lex.rf>
 </a>
@@ -643,19 +677,24 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0516-001-p1s2a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Kellwood said Gabriel Hakim Sr., president of Crowntuft, will continue to head Crowntuft's management group.</eng_sentence>
 </LM>

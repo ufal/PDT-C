@@ -11,7 +11,8 @@
 <LM id="T-wsj1352-001-p1s0">
 <atree.rf>a#a-wsj1352-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1352-001-p1s0a1">
+<children>
+<LM id="T-wsj1352-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1352-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -63,7 +64,9 @@
 <LM id="T-wsj1352-001-p1s0a6">
 <a>
 <lex.rf>a#a-wsj1352-001-p1s0W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1352-001-p1s0W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1352-001-p1s0W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Cleveland</t_lemma>
@@ -78,7 +81,9 @@
 <LM id="T-wsj1352-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj1352-001-p1s0W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1352-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1352-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7842f10</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -99,9 +104,11 @@
 </gram>
 <deepord>6</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1352-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1352-001-p1s0a22">
@@ -150,7 +157,9 @@
 <LM id="T-wsj1352-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj1352-001-p1s0W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1352-001-p1s0W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1352-001-p1s0W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>papír</t_lemma>
@@ -183,7 +192,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj1352-001-p1s0a17">
+<children>
+<LM id="T-wsj1352-001-p1s0a17">
 <a>
 <lex.rf>a#a-wsj1352-001-p1s0W17-Ta</lex.rf>
 </a>
@@ -194,10 +204,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1352-001-p1s0a19">
+<children>
+<LM id="T-wsj1352-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj1352-001-p1s0W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1352-001-p1s0W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1352-001-p1s0W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>leasing</t_lemma>
@@ -206,8 +219,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-</children>
-</children>
 </LM>
 </children>
 </LM>
@@ -216,13 +227,19 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>LDI Corp., Cleveland, said it will offer $50 million in commercial paper backed by lease-rental receivables.</eng_sentence>
 </LM>
 <LM id="T-wsj1352-001-p1s1">
 <atree.rf>a#a-wsj1352-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1352-001-p1s1a1">
+<children>
+<LM id="T-wsj1352-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1352-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -246,7 +263,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1352-001-p1s1a3">
+<children>
+<LM id="T-wsj1352-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj1352-001-p1s1W1-Ta</lex.rf>
 </a>
@@ -257,11 +275,14 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1352-001-p1s0a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1352-001-p1s1a4">
@@ -275,7 +296,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1352-001-p1s1a5">
+<children>
+<LM id="T-wsj1352-001-p1s1a5">
 <a>
 <lex.rf>a#a-wsj1352-001-p1s1W5-Ta</lex.rf>
 </a>
@@ -286,10 +308,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1352-001-p1s1a7">
+<children>
+<LM id="T-wsj1352-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj1352-001-p1s1W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1352-001-p1s1W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1352-001-p1s1W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>prodej</t_lemma>
@@ -298,7 +323,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1352-001-p1s1a8">
+<children>
+<LM id="T-wsj1352-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj1352-001-p1s1W9-Ta</lex.rf>
 </a>
@@ -325,7 +351,9 @@
 <LM id="T-wsj1352-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj1352-001-p1s1W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1352-001-p1s1W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1352-001-p1s1W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>pronájem</t_lemma>
@@ -334,7 +362,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1352-001-p1s1a13">
+<children>
+<LM id="T-wsj1352-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj1352-001-p1s1W12-Ta</lex.rf>
 </a>
@@ -370,21 +399,27 @@
 <deepord>11</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
-</children>
-</children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The program matches funds raised from the sale of the commercial paper with small to medium-sized leases.</eng_sentence>
 </LM>
 <LM id="T-wsj1352-001-p1s2">
 <atree.rf>a#a-wsj1352-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1352-001-p1s2a1">
+<children>
+<LM id="T-wsj1352-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1352-001-p1s2W5-Ta</lex.rf>
 </a>
@@ -408,7 +443,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1352-001-p1s2a3">
+<children>
+<LM id="T-wsj1352-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj1352-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -419,11 +455,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1352-001-p1s0a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1352-001-p1s2a4">
@@ -437,7 +476,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1352-001-p1s2a5">
+<children>
+<LM id="T-wsj1352-001-p1s2a5">
 <a>
 <lex.rf>a#a-wsj1352-001-p1s2W3-Ta</lex.rf>
 </a>
@@ -448,11 +488,14 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1352-001-p1s0a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1352-001-p1s2a31">
@@ -506,8 +549,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1352-001-p1s2a9">
@@ -528,7 +573,9 @@
 <a>
 <lex.rf>a#a-wsj1352-001-p1s2W11-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1352-001-p1s2a6</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1352-001-p1s2a6</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>ACT</functor>
@@ -606,7 +653,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1352-001-p1s2a19">
+<children>
+<LM id="T-wsj1352-001-p1s2a19">
 <a>
 <lex.rf>a#a-wsj1352-001-p1s2W20-Ta</lex.rf>
 </a>
@@ -617,11 +665,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1352-001-p1s2a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -629,7 +680,9 @@
 <LM id="T-wsj1352-001-p1s2a33">
 <a>
 <lex.rf>a#a-wsj1352-001-p1s2W17-Ta</lex.rf>
-<aux.rf>a#a-wsj1352-001-p1s2W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1352-001-p1s2W16-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8188f4_ZU</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -652,7 +705,9 @@
 <LM id="T-wsj1352-001-p1s2a24">
 <a>
 <lex.rf>a#a-wsj1352-001-p1s2W24-Ta</lex.rf>
-<aux.rf>a#a-wsj1352-001-p1s2W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1352-001-p1s2W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>pohledávka</t_lemma>
@@ -661,10 +716,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj1352-001-p1s2a26">
+<children>
+<LM id="T-wsj1352-001-p1s2a26">
 <a>
 <lex.rf>a#a-wsj1352-001-p1s2W26-Ta</lex.rf>
-<aux.rf>a#a-wsj1352-001-p1s2W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1352-001-p1s2W25-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>pronájem</t_lemma>
@@ -673,7 +731,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-</children>
 </LM>
 </children>
 </LM>
@@ -684,13 +741,17 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>LDI termed the paper ``non-recourse financing,'' meaning that investors would be repaid from the lease receivables, rather than directly by LDI Corp.</eng_sentence>
 </LM>
 <LM id="T-wsj1352-001-p1s3">
 <atree.rf>a#a-wsj1352-001-p1s3</atree.rf>
 <deepord>1</deepord>
-<children id="T-wsj1352-001-p1s3a1">
+<children>
+<LM id="T-wsj1352-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1352-001-p1s3W4-Ta</lex.rf>
 </a>
@@ -717,7 +778,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1352-001-p1s3a4">
+<children>
+<LM id="T-wsj1352-001-p1s3a4">
 <a>
 <lex.rf>a#a-wsj1352-001-p1s3W2-Ta</lex.rf>
 </a>
@@ -728,15 +790,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>t-lemma malými písmeny</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1352-001-p1s2a18</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1352-001-p1s3a2">
@@ -778,7 +839,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1352-001-p1s3a8">
+<children>
+<LM id="T-wsj1352-001-p1s3a8">
 <a>
 <lex.rf>a#a-wsj1352-001-p1s3W12-Ta</lex.rf>
 </a>
@@ -790,7 +852,9 @@
 <LM id="T-wsj1352-001-p1s3a9">
 <a>
 <lex.rf>a#a-wsj1352-001-p1s3W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1352-001-p1s3W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1352-001-p1s3W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9809f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -823,14 +887,18 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1352-001-p1s3a12">
 <a>
 <lex.rf>a#a-wsj1352-001-p1s3W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1352-001-p1s3W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1352-001-p1s3W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>telekomunikace</t_lemma>
@@ -844,7 +912,9 @@
 <LM id="T-wsj1352-001-p1s3a13">
 <a>
 <lex.rf>a#a-wsj1352-001-p1s3W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1352-001-p1s3W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1352-001-p1s3W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>účel</t_lemma>
@@ -878,7 +948,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1352-001-p1s3a16">
+<children>
+<LM id="T-wsj1352-001-p1s3a16">
 <a>
 <lex.rf>a#a-wsj1352-001-p1s3W17-Ta</lex.rf>
 </a>
@@ -889,7 +960,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1352-001-p1s3a17">
+<children>
+<LM id="T-wsj1352-001-p1s3a17">
 <a>
 <lex.rf>a#a-wsj1352-001-p1s3W16-Ta</lex.rf>
 </a>
@@ -900,19 +972,25 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>LDI leases and sells data-processing, telecommunications and other high-tech equipment.</eng_sentence>
 </LM>

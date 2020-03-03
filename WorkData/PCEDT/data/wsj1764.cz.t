@@ -426,12 +426,6 @@
 <deepord>6</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerována chybná zákl. forma (tag v pořádku), změněno z Eiszmer na Eiszner</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1764-001-p1s1a3">
 <a>

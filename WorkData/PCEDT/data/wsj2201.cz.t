@@ -1922,12 +1922,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2527,11 +2521,6 @@
 <sempos>v</sempos>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3069,11 +3058,6 @@
 </annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3229,12 +3213,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno: Fidelita</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -3636,12 +3614,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno jako přivlasňovací adj.</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4429,12 +4401,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4742,12 +4708,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vygenerováno: vyvážet</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6096,12 +6056,6 @@
 <deepord>20</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno: Farellův</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2201-001-p1s26a22">
 <a>
@@ -6402,12 +6356,6 @@
 <src>LH</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno: Farrell</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -9051,12 +8999,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -11095,12 +11037,6 @@
 <deepord>4</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vygenerováno: zveřejnět</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <eng_sentence>Terms weren't disclosed.</eng_sentence>
@@ -11411,12 +11347,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vygenerováno: stanout</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <eng_sentence>Mr. Eskandarian, who resigned his Della Femina post in September, becomes chairman and chief executive of Arnold.</eng_sentence>

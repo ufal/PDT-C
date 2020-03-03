@@ -11,7 +11,8 @@
 <LM id="T-wsj1082-001-p1s0">
 <atree.rf>a#a-wsj1082-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1082-001-p1s0a1">
+<children>
+<LM id="T-wsj1082-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1082-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1082-001-p1s0a18">
+<children>
+<LM id="T-wsj1082-001-p1s0a18">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -85,12 +87,15 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1082-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj1082-001-p1s0W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1082-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1082-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6054f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -125,9 +130,11 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1082-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1082-001-p1s0a12">
@@ -155,7 +162,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1082-001-p1s0a15">
+<children>
+<LM id="T-wsj1082-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj1082-001-p1s0W17-Ta</lex.rf>
 </a>
@@ -183,7 +191,9 @@
 <a>
 <lex.rf>a#a-wsj1082-001-p1s0W15-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1082-001-p1s0a10</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1082-001-p1s0a10</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -205,21 +215,26 @@
 <deepord>15</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Bob Evans Inc. said its board authorized the purchase of as many as 500,000 shares of its common.</eng_sentence>
 </LM>
 <LM id="T-wsj1082-001-p1s1">
 <atree.rf>a#a-wsj1082-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1082-001-p1s1a1">
+<children>
+<LM id="T-wsj1082-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1082-001-p1s1W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1082-001-p1s1W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1082-001-p1s1W17-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w839f3</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -240,9 +255,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1082-001-p1s0a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1082-001-p1s1a2">
@@ -286,7 +303,9 @@
 <a>
 <lex.rf>a#a-wsj1082-001-p1s1W4-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1082-001-p1s1a2</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1082-001-p1s1a2</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -298,7 +317,9 @@
 <LM id="T-wsj1082-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj1082-001-p1s1W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1082-001-p1s1W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1082-001-p1s1W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>koupě</t_lemma>
@@ -320,7 +341,9 @@
 <LM id="T-wsj1082-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj1082-001-p1s1W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1082-001-p1s1W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1082-001-p1s1W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>trh</t_lemma>
@@ -330,7 +353,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1082-001-p1s1a12">
+<children>
+<LM id="T-wsj1082-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj1082-001-p1s1W9-Ta</lex.rf>
 </a>
@@ -341,12 +365,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1082-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj1082-001-p1s1W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1082-001-p1s1W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1082-001-p1s1W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>transakce</t_lemma>
@@ -356,7 +383,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1082-001-p1s1a15">
+<children>
+<LM id="T-wsj1082-001-p1s1a15">
 <a>
 <lex.rf>a#a-wsj1082-001-p1s1W14-Ta</lex.rf>
 </a>
@@ -367,7 +395,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1082-001-p1s1a16">
+<children>
+<LM id="T-wsj1082-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj1082-001-p1s1W13-Ta</lex.rf>
 </a>
@@ -378,7 +407,9 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -387,17 +418,23 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1082-001-p1s0a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1082-001-p1s1a19">
 <a>
 <lex.rf>a#a-wsj1082-001-p1s1W21-Ta</lex.rf>
-<aux.rf>a#a-wsj1082-001-p1s1W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1082-001-p1s1W19-Ta</LM>
+</aux.rf>
 </a>
-<compl.rf>T-wsj1082-001-p1s1a2</compl.rf>
+<compl.rf>
+<LM>T-wsj1082-001-p1s1a2</LM>
+</compl.rf>
 <nodetype>complex</nodetype>
 <t_lemma>poukázka</t_lemma>
 <functor>COMPL</functor>
@@ -430,7 +467,9 @@
 <LM id="T-wsj1082-001-p1s1a24">
 <a>
 <lex.rf>a#a-wsj1082-001-p1s1W24-Ta</lex.rf>
-<aux.rf>a#a-wsj1082-001-p1s1W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1082-001-p1s1W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>opce</t_lemma>
@@ -440,7 +479,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1082-001-p1s1a25">
+<children>
+<LM id="T-wsj1082-001-p1s1a25">
 <a>
 <lex.rf>a#a-wsj1082-001-p1s1W23-Ta</lex.rf>
 </a>
@@ -451,12 +491,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1082-001-p1s1a27">
 <a>
 <lex.rf>a#a-wsj1082-001-p1s1W30-Ta</lex.rf>
-<aux.rf>a#a-wsj1082-001-p1s1W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1082-001-p1s1W26-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>záměr</t_lemma>
@@ -510,13 +553,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The stock, to be purchased on the open market or through privately negotiated transactions, will be held as treasury shares for stock options or other general corporate purposes.</eng_sentence>
 </LM>
 <LM id="T-wsj1082-001-p1s2">
 <atree.rf>a#a-wsj1082-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1082-001-p1s2a1">
+<children>
+<LM id="T-wsj1082-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1082-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -553,10 +598,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1082-001-p1s2a4">
+<children>
+<LM id="T-wsj1082-001-p1s2a4">
 <a>
 <lex.rf>a#a-wsj1082-001-p1s2W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1082-001-p1s2W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1082-001-p1s2W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>27</t_lemma>
@@ -565,16 +613,19 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The program expires April 27.</eng_sentence>
 </LM>
 <LM id="T-wsj1082-001-p1s3">
 <atree.rf>a#a-wsj1082-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1082-001-p1s3a1">
+<children>
+<LM id="T-wsj1082-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1082-001-p1s3W4-Ta</lex.rf>
 </a>
@@ -625,15 +676,19 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1082-001-p1s1a31</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1082-001-p1s3a6">
 <a>
 <lex.rf>a#a-wsj1082-001-p1s3W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1082-001-p1s3W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1082-001-p1s3W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>srpen</t_lemma>
@@ -642,10 +697,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1082-001-p1s3a7">
+<children>
+<LM id="T-wsj1082-001-p1s3a7">
 <a>
 <lex.rf>a#a-wsj1082-001-p1s3W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1082-001-p1s3W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1082-001-p1s3W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>29</t_lemma>
@@ -654,12 +712,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1082-001-p1s3a10">
 <a>
 <lex.rf>a#a-wsj1082-001-p1s3W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1082-001-p1s3W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1082-001-p1s3W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>oběh</t_lemma>
@@ -706,12 +767,9 @@
 <deepord>10</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The restaurant operator had 32.2 million shares outstanding as of Sept. 29.</eng_sentence>
 </LM>

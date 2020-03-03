@@ -11,7 +11,8 @@
 <LM id="T-wsj1954-001-p1s0">
 <atree.rf>a#a-wsj1954-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1954-001-p1s0a1">
+<children>
+<LM id="T-wsj1954-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1954-001-p1s0W3-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1954-001-p1s0a3">
+<children>
+<LM id="T-wsj1954-001-p1s0a3">
 <a>
 <lex.rf>a#a-wsj1954-001-p1s0W1-Ta</lex.rf>
 </a>
@@ -46,6 +48,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1954-001-p1s0a4">
@@ -68,7 +71,8 @@
 <t_lemma>#Percnt</t_lemma>
 <functor>RSTR</functor>
 <deepord>5</deepord>
-<children id="T-wsj1954-001-p1s0a5">
+<children>
+<LM id="T-wsj1954-001-p1s0a5">
 <a>
 <lex.rf>a#a-wsj1954-001-p1s0W4-Ta</lex.rf>
 </a>
@@ -79,6 +83,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1954-001-p1s0a7">
@@ -92,7 +97,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1954-001-p1s0a21">
+<children>
+<LM id="T-wsj1954-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj1954-001-p1s0W10-Ta</lex.rf>
 </a>
@@ -107,7 +113,9 @@
 <LM id="T-wsj1954-001-p1s0a22">
 <a>
 <lex.rf>a#a-wsj1954-001-p1s0W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1954-001-p1s0W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1954-001-p1s0W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>15</t_lemma>
@@ -130,12 +138,15 @@
 <deepord>10</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1954-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj1954-001-p1s0W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1954-001-p1s0W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1954-001-p1s0W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodnota</t_lemma>
@@ -203,7 +214,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1954-001-p1s0a14">
+<children>
+<LM id="T-wsj1954-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj1954-001-p1s0W17-Ta</lex.rf>
 </a>
@@ -214,13 +226,10 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>15</deepord>
+</LM>
 </children>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1954-001-p1s0a17">
 <a>
@@ -261,7 +270,8 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>21</deepord>
-<children id="T-wsj1954-001-p1s0a19">
+<children>
+<LM id="T-wsj1954-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj1954-001-p1s0W22-Ta</lex.rf>
 </a>
@@ -273,13 +283,6 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>20</deepord>
-</children>
-</LM>
-</children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -288,13 +291,19 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The Canadian government auctioned 750 million Canadian dollars (US$637.5 million) of 9.25% bonds due Dec. 15, 1994.</eng_sentence>
 </LM>
 <LM id="T-wsj1954-001-p1s1">
 <atree.rf>a#a-wsj1954-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1954-001-p1s1a1">
+<children>
+<LM id="T-wsj1954-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1954-001-p1s1W6-Ta</lex.rf>
 </a>
@@ -346,7 +355,9 @@
 <LM id="T-wsj1954-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj1954-001-p1s1W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1954-001-p1s1W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1954-001-p1s1W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výtěžek</t_lemma>
@@ -382,7 +393,9 @@
 <LM id="T-wsj1954-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj1954-001-p1s1W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1954-001-p1s1W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1954-001-p1s1W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>cena</t_lemma>
@@ -391,7 +404,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1954-001-p1s1a11">
+<children>
+<LM id="T-wsj1954-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj1954-001-p1s1W11-Ta</lex.rf>
 </a>
@@ -402,7 +416,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1954-001-p1s1a12">
+<children>
+<LM id="T-wsj1954-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj1954-001-p1s1W12-Ta</lex.rf>
 </a>
@@ -413,22 +428,28 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The average accepted yield bid was 9.617% for a price equivalent of 98.523.</eng_sentence>
 </LM>
 <LM id="T-wsj1954-001-p1s2">
 <atree.rf>a#a-wsj1954-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1954-001-p1s2a2">
+<children>
+<LM id="T-wsj1954-001-p1s2a2">
 <a>
 <lex.rf>a#a-wsj1954-001-p1s2W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1954-001-p1s2W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1954-001-p1s2W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4130f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -449,9 +470,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1954-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1954-001-p1s2a3">
@@ -465,10 +488,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1954-001-p1s2a5">
+<children>
+<LM id="T-wsj1954-001-p1s2a5">
 <a>
 <lex.rf>a#a-wsj1954-001-p1s2W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1954-001-p1s2W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1954-001-p1s2W2-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>prodej</t_lemma>
@@ -478,10 +504,13 @@
 </gram>
 <deepord>3</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1954-001-p1s0a1</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1954-001-p1s2a1">
@@ -496,7 +525,9 @@
 <LM id="T-wsj1954-001-p1s2a8">
 <a>
 <lex.rf>a#a-wsj1954-001-p1s2W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1954-001-p1s2W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1954-001-p1s2W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8186f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -518,9 +549,11 @@
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1954-001-p1s2a25</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1954-001-p1s2a9">
@@ -558,7 +591,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1954-001-p1s2a11">
+<children>
+<LM id="T-wsj1954-001-p1s2a11">
 <a>
 <lex.rf>a#a-wsj1954-001-p1s2W13-Ta</lex.rf>
 </a>
@@ -569,10 +603,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1954-001-p1s2a13">
+<children>
+<LM id="T-wsj1954-001-p1s2a13">
 <a>
 <lex.rf>a#a-wsj1954-001-p1s2W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1954-001-p1s2W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1954-001-p1s2W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>1</t_lemma>
@@ -581,13 +618,17 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1954-001-p1s2a16">
 <a>
 <lex.rf>a#a-wsj1954-001-p1s2W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1954-001-p1s2W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1954-001-p1s2W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodnota</t_lemma>
@@ -596,7 +637,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1954-001-p1s2a18">
+<children>
+<LM id="T-wsj1954-001-p1s2a18">
 <a>
 <lex.rf>a#a-wsj1954-001-p1s2W17-Ta</lex.rf>
 </a>
@@ -631,7 +673,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj1954-001-p1s2a20">
+<children>
+<LM id="T-wsj1954-001-p1s2a20">
 <a>
 <lex.rf>a#a-wsj1954-001-p1s2W18-Ta</lex.rf>
 </a>
@@ -642,27 +685,29 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>15</deepord>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-<annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1954-001-p1s2a22">
 <a>
 <lex.rf>a#a-wsj1954-001-p1s2W23-Ta</lex.rf>
-<aux.rf>a#a-wsj1954-001-p1s2W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1954-001-p1s2W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>účel</t_lemma>
@@ -697,9 +742,11 @@
 </gram>
 <deepord>20</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1954-001-p1s2a26</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -707,6 +754,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Proceeds of the sale will be used to redeem C$675 million of government bonds maturing Nov. 1 and for general government purposes.</eng_sentence>
 </LM>

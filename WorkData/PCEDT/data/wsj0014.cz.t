@@ -11,10 +11,13 @@
 <LM id="T-wsj0014-001-p1s0">
 <atree.rf>a#a-wsj0014-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0014-001-p1s0a1">
+<children>
+<LM id="T-wsj0014-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0014-001-p1s0W34-Ta</lex.rf>
-<aux.rf>a#a-wsj0014-001-p1s0W33-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0014-001-p1s0W33-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9986f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -66,7 +69,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0014-001-p1s0a14">
+<children>
+<LM id="T-wsj0014-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj0014-001-p1s0W2-Ta</lex.rf>
 </a>
@@ -77,7 +81,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0014-001-p1s0a15">
+<children>
+<LM id="T-wsj0014-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj0014-001-p1s0W1-Ta</lex.rf>
 </a>
@@ -88,7 +93,9 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0014-001-p1s0a12">
@@ -113,7 +120,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj0014-001-p1s0a18">
+<children>
+<LM id="T-wsj0014-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj0014-001-p1s0W5-Ta</lex.rf>
 </a>
@@ -124,6 +132,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0014-001-p1s0a19">
@@ -138,7 +147,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0014-001-p1s0a20">
+<children>
+<LM id="T-wsj0014-001-p1s0a20">
 <a>
 <lex.rf>a#a-wsj0014-001-p1s0W8-Ta</lex.rf>
 </a>
@@ -149,6 +159,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0014-001-p1s0a21">
@@ -162,7 +173,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0014-001-p1s0a48">
+<children>
+<LM id="T-wsj0014-001-p1s0a48">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -236,6 +248,7 @@
 <deepord>19</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -315,7 +328,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>26</deepord>
-<children id="T-wsj0014-001-p1s0a35">
+<children>
+<LM id="T-wsj0014-001-p1s0a35">
 <a>
 <lex.rf>a#a-wsj0014-001-p1s0W27-Ta</lex.rf>
 </a>
@@ -326,7 +340,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>27</deepord>
-<children id="T-wsj0014-001-p1s0a52">
+<children>
+<LM id="T-wsj0014-001-p1s0a52">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -370,7 +385,9 @@
 <deepord>32</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -388,7 +405,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>34</deepord>
-<children id="T-wsj0014-001-p1s0a4">
+<children>
+<LM id="T-wsj0014-001-p1s0a4">
 <a>
 <lex.rf>a#a-wsj0014-001-p1s0W38-Ta</lex.rf>
 </a>
@@ -436,7 +454,9 @@
 <LM id="T-wsj0014-001-p1s0a41">
 <a>
 <lex.rf>a#a-wsj0014-001-p1s0W41-Ta</lex.rf>
-<aux.rf>a#a-wsj0014-001-p1s0W39-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0014-001-p1s0W39-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>elektronika</t_lemma>
@@ -446,7 +466,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>39</deepord>
-<children id="T-wsj0014-001-p1s0a42">
+<children>
+<LM id="T-wsj0014-001-p1s0a42">
 <a>
 <lex.rf>a#a-wsj0014-001-p1s0W40-Ta</lex.rf>
 </a>
@@ -457,12 +478,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>38</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0014-001-p1s0a43">
 <a>
 <lex.rf>a#a-wsj0014-001-p1s0W43-Ta</lex.rf>
-<aux.rf>a#a-wsj0014-001-p1s0W39-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0014-001-p1s0W39-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>spotřebič</t_lemma>
@@ -477,19 +501,24 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>Coref</type>
 <text>odkaz na něco v předchozím kontextu, který zde ale chybí</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Norman Ricken, 52 years old and former president and chief operating officer of Toys ``R'' Us Inc., and Frederick Deane Jr., 63, chairman of Signet Banking Corp., were elected directors of this consumer electronics and appliances retailing chain.</eng_sentence>
 </LM>
 <LM id="T-wsj0014-001-p1s1">
 <atree.rf>a#a-wsj0014-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0014-001-p1s1a1">
+<children>
+<LM id="T-wsj0014-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0014-001-p1s1W5-Ta</lex.rf>
 </a>
@@ -512,15 +541,19 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0014-001-p1s0a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0014-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj0014-001-p1s1W4-Ta</lex.rf>
-<aux.rf>a#a-wsj0014-001-p1s1W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0014-001-p1s1W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rada</t_lemma>
@@ -599,9 +632,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 <LM id="T-wsj0014-001-p1s1a9">
 <a>
@@ -653,7 +683,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj0014-001-p1s1a35">
+<children>
+<LM id="T-wsj0014-001-p1s1a35">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -682,6 +713,7 @@
 <deepord>15</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0014-001-p1s1a16">
@@ -701,7 +733,9 @@
 <a>
 <lex.rf>a#a-wsj0014-001-p1s1W17-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0014-001-p1s1a7</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0014-001-p1s1a7</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -713,7 +747,9 @@
 <LM id="T-wsj0014-001-p1s1a20">
 <a>
 <lex.rf>a#a-wsj0014-001-p1s1W20-Ta</lex.rf>
-<aux.rf>a#a-wsj0014-001-p1s1W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0014-001-p1s1W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>důchod</t_lemma>
@@ -790,7 +826,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj0014-001-p1s1a27">
+<children>
+<LM id="T-wsj0014-001-p1s1a27">
 <a>
 <lex.rf>a#a-wsj0014-001-p1s1W29-Ta</lex.rf>
 </a>
@@ -820,7 +857,8 @@
 <t_lemma>#Idph</t_lemma>
 <functor>RSTR</functor>
 <deepord>27</deepord>
-<children id="T-wsj0014-001-p1s1a29">
+<children>
+<LM id="T-wsj0014-001-p1s1a29">
 <a>
 <lex.rf>a#a-wsj0014-001-p1s1W31-Ta</lex.rf>
 </a>
@@ -831,16 +869,19 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>28</deepord>
-</children>
-</LM>
-</children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>They succeed Daniel M. Rexinger, retired Circuit City executive vice president, and Robert R. Glauber, U.S. Treasury undersecretary, on the 12-member board.</eng_sentence>
 </LM>

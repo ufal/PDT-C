@@ -11,7 +11,8 @@
 <LM id="T-wsj1991-001-p1s0">
 <atree.rf>a#a-wsj1991-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1991-001-p1s0a1">
+<children>
+<LM id="T-wsj1991-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1991-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1991-001-p1s0a27">
+<children>
+<LM id="T-wsj1991-001-p1s0a27">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -82,12 +84,15 @@
 <deepord>7</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1991-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj1991-001-p1s0W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1991-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1991-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4326f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -122,9 +127,11 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1991-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1991-001-p1s0a12">
@@ -152,10 +159,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1991-001-p1s0a15">
+<children>
+<LM id="T-wsj1991-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj1991-001-p1s0W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1991-001-p1s0W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1991-001-p1s0W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>nákup</t_lemma>
@@ -164,7 +174,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1991-001-p1s0a16">
+<children>
+<LM id="T-wsj1991-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj1991-001-p1s0W17-Ta</lex.rf>
 </a>
@@ -191,7 +202,9 @@
 <LM id="T-wsj1991-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj1991-001-p1s0W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1991-001-p1s0W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1991-001-p1s0W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akcie</t_lemma>
@@ -213,9 +226,11 @@
 </gram>
 <deepord>16</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1991-001-p1s0a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1991-001-p1s0a21">
@@ -235,7 +250,9 @@
 <a>
 <lex.rf>a#a-wsj1991-001-p1s0W22-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1991-001-p1s0a19</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1991-001-p1s0a19</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -247,7 +264,9 @@
 <LM id="T-wsj1991-001-p1s0a25">
 <a>
 <lex.rf>a#a-wsj1991-001-p1s0W25-Ta</lex.rf>
-<aux.rf>a#a-wsj1991-001-p1s0W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1991-001-p1s0W24-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>oběh</t_lemma>
@@ -263,19 +282,23 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Apogee Robotics Inc. said its board extended until Feb. 1 the exercise period of Apogee's existing stock purchase warrants outstanding.</eng_sentence>
 </LM>
 <LM id="T-wsj1991-001-p1s1">
 <atree.rf>a#a-wsj1991-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1991-001-p1s1a1">
+<children>
+<LM id="T-wsj1991-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1991-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -300,9 +323,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1991-001-p1s0a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1991-001-p1s1a3">
@@ -316,10 +341,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1991-001-p1s1a4">
+<children>
+<LM id="T-wsj1991-001-p1s1a4">
 <a>
 <lex.rf>a#a-wsj1991-001-p1s1W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1991-001-p1s1W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1991-001-p1s1W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>3</t_lemma>
@@ -328,16 +356,19 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The expiration date had been Nov. 3.</eng_sentence>
 </LM>
 <LM id="T-wsj1991-001-p1s2">
 <atree.rf>a#a-wsj1991-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1991-001-p1s2a1">
+<children>
+<LM id="T-wsj1991-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1991-001-p1s2W6-Ta</lex.rf>
 </a>
@@ -361,10 +392,13 @@
 <sempos>n.pron.indef</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1991-001-p1s2a4">
+<children>
+<LM id="T-wsj1991-001-p1s2a4">
 <a>
 <lex.rf>a#a-wsj1991-001-p1s2W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1991-001-p1s2W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1991-001-p1s2W2-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>list</t_lemma>
@@ -399,6 +433,7 @@
 <deepord>4</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1991-001-p1s2a7">
@@ -416,7 +451,9 @@
 <LM id="T-wsj1991-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj1991-001-p1s2W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1991-001-p1s2W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1991-001-p1s2W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>koupě</t_lemma>
@@ -453,7 +490,9 @@
 <LM id="T-wsj1991-001-p1s2a13">
 <a>
 <lex.rf>a#a-wsj1991-001-p1s2W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1991-001-p1s2W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1991-001-p1s2W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akcie</t_lemma>
@@ -487,9 +526,11 @@
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1991-001-p1s0a20</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -499,7 +540,9 @@
 <LM id="T-wsj1991-001-p1s2a18">
 <a>
 <lex.rf>a#a-wsj1991-001-p1s2W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1991-001-p1s2W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1991-001-p1s2W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dolar</t_lemma>
@@ -508,7 +551,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj1991-001-p1s2a17">
+<children>
+<LM id="T-wsj1991-001-p1s2a17">
 <a>
 <lex.rf>a#a-wsj1991-001-p1s2W17-Ta</lex.rf>
 </a>
@@ -519,21 +563,26 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>13</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Each of the 1,075,000 warrants entitle the holders to purchase one share of Apogee common stock for $2.25.</eng_sentence>
 </LM>
 <LM id="T-wsj1991-001-p1s3">
 <atree.rf>a#a-wsj1991-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1991-001-p1s3a1">
+<children>
+<LM id="T-wsj1991-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1991-001-p1s3W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1991-001-p1s3W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1991-001-p1s3W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2483f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -569,7 +618,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1991-001-p1s3a3">
+<children>
+<LM id="T-wsj1991-001-p1s3a3">
 <a>
 <lex.rf>a#a-wsj1991-001-p1s3W2-Ta</lex.rf>
 </a>
@@ -580,7 +630,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1991-001-p1s3a4">
+<children>
+<LM id="T-wsj1991-001-p1s3a4">
 <a>
 <lex.rf>a#a-wsj1991-001-p1s3W3-Ta</lex.rf>
 </a>
@@ -591,15 +642,16 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1991-001-p1s2a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1991-001-p1s3a6">
@@ -617,7 +669,9 @@
 <LM id="T-wsj1991-001-p1s3a8">
 <a>
 <lex.rf>a#a-wsj1991-001-p1s3W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1991-001-p1s3W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1991-001-p1s3W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>trh</t_lemma>
@@ -626,7 +680,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1991-001-p1s3a9">
+<children>
+<LM id="T-wsj1991-001-p1s3a9">
 <a>
 <lex.rf>a#a-wsj1991-001-p1s3W7-Ta</lex.rf>
 </a>
@@ -637,12 +692,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1991-001-p1s3a11">
 <a>
 <lex.rf>a#a-wsj1991-001-p1s3W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1991-001-p1s3W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1991-001-p1s3W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>cena</t_lemma>
@@ -675,7 +733,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1991-001-p1s3a13">
+<children>
+<LM id="T-wsj1991-001-p1s3a13">
 <a>
 <lex.rf>a#a-wsj1991-001-p1s3W13-Ta</lex.rf>
 </a>
@@ -686,11 +745,13 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>13</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Apogee was quoted in the over-the-counter market yesterday at $2 bid.</eng_sentence>
 </LM>

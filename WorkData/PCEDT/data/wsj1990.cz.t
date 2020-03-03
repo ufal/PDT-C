@@ -11,7 +11,8 @@
 <LM id="T-wsj1990-001-p1s0">
 <atree.rf>a#a-wsj1990-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1990-001-p1s0a1">
+<children>
+<LM id="T-wsj1990-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1990-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1990-001-p1s0a29">
+<children>
+<LM id="T-wsj1990-001-p1s0a29">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -79,12 +81,15 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1990-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj1990-001-p1s0W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1990-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1990-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w714f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -105,9 +110,11 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1990-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1990-001-p1s0a10">
@@ -137,7 +144,9 @@
 <LM id="T-wsj1990-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj1990-001-p1s0W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1990-001-p1s0W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1990-001-p1s0W12-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5059f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -158,9 +167,11 @@
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1990-001-p1s0a25</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1990-001-p1s0a14">
@@ -186,7 +197,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1990-001-p1s0a30">
+<children>
+<LM id="T-wsj1990-001-p1s0a30">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -248,6 +260,7 @@
 <deepord>21</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1990-001-p1s0a17">
@@ -280,16 +293,20 @@
 </gram>
 <deepord>23</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1990-001-p1s0a26</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1990-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj1990-001-p1s0W22-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1990-001-p1s0a14</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1990-001-p1s0a14</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -316,8 +333,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -325,13 +344,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Crown Resources Corp. said it reached a definitive agreement to acquire the Gold Texas Resources Ltd. shares it doesn't already own.</eng_sentence>
 </LM>
 <LM id="T-wsj1990-001-p1s1">
 <atree.rf>a#a-wsj1990-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1990-001-p1s1a1">
+<children>
+<LM id="T-wsj1990-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1990-001-p1s1W5-Ta</lex.rf>
 </a>
@@ -355,7 +376,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1990-001-p1s1a3">
+<children>
+<LM id="T-wsj1990-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj1990-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -366,7 +388,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1990-001-p1s1a41">
+<children>
+<LM id="T-wsj1990-001-p1s1a41">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -398,12 +421,16 @@
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1990-001-p1s0a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1990-001-p1s1a8">
@@ -422,15 +449,19 @@
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1990-001-p1s0a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1990-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj1990-001-p1s1W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1990-001-p1s1W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1990-001-p1s1W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
@@ -439,10 +470,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1990-001-p1s1a13">
+<children>
+<LM id="T-wsj1990-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj1990-001-p1s1W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1990-001-p1s1W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1990-001-p1s1W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -451,7 +485,8 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1990-001-p1s1a14">
+<children>
+<LM id="T-wsj1990-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj1990-001-p1s1W14-Ta</lex.rf>
 </a>
@@ -486,7 +521,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1990-001-p1s1a42">
+<children>
+<LM id="T-wsj1990-001-p1s1a42">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -518,11 +554,14 @@
 <deepord>15</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1990-001-p1s1a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1990-001-p1s1a18">
@@ -549,7 +588,9 @@
 <a>
 <lex.rf>a#a-wsj1990-001-p1s1W19-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1990-001-p1s1a14</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1990-001-p1s1a14</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -581,7 +622,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1990-001-p1s1a23">
+<children>
+<LM id="T-wsj1990-001-p1s1a23">
 <a>
 <lex.rf>a#a-wsj1990-001-p1s1W22-Ta</lex.rf>
 </a>
@@ -592,21 +634,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1990-001-p1s0a27</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1990-001-p1s1a25">
@@ -644,7 +687,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj1990-001-p1s1a28">
+<children>
+<LM id="T-wsj1990-001-p1s1a28">
 <a>
 <lex.rf>a#a-wsj1990-001-p1s1W28-Ta</lex.rf>
 </a>
@@ -655,11 +699,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1990-001-p1s1a22</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1990-001-p1s1a29">
@@ -679,7 +726,9 @@
 <a>
 <lex.rf>a#a-wsj1990-001-p1s1W30-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1990-001-p1s1a27</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1990-001-p1s1a27</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -717,7 +766,8 @@
 <t_lemma>#Percnt</t_lemma>
 <functor>RSTR</functor>
 <deepord>30</deepord>
-<children id="T-wsj1990-001-p1s1a34">
+<children>
+<LM id="T-wsj1990-001-p1s1a34">
 <a>
 <lex.rf>a#a-wsj1990-001-p1s1W33-Ta</lex.rf>
 </a>
@@ -728,6 +778,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>29</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1990-001-p1s1a36">
@@ -741,7 +792,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>32</deepord>
-<children id="T-wsj1990-001-p1s1a43">
+<children>
+<LM id="T-wsj1990-001-p1s1a43">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -773,11 +825,14 @@
 <deepord>35</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1990-001-p1s1a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -787,13 +842,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Under the proposed agreement, Gold Texas holders will receive 1.43 Crown shares for each of the 1.1 million Gold Texas shares not owned by Crown, which already owns 65%.</eng_sentence>
 </LM>
 <LM id="T-wsj1990-001-p1s2">
 <atree.rf>a#a-wsj1990-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1990-001-p1s2a1">
+<children>
+<LM id="T-wsj1990-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1990-001-p1s2W3-Ta</lex.rf>
 </a>
@@ -817,7 +874,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1990-001-p1s2a2">
+<children>
+<LM id="T-wsj1990-001-p1s2a2">
 <a>
 <lex.rf>a#a-wsj1990-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -828,15 +886,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1990-001-p1s1a31</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1990-001-p1s2a6">
@@ -875,9 +932,11 @@
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1990-001-p1s1a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1990-001-p1s2a9">
@@ -891,7 +950,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1990-001-p1s2a10">
+<children>
+<LM id="T-wsj1990-001-p1s2a10">
 <a>
 <lex.rf>a#a-wsj1990-001-p1s2W11-Ta</lex.rf>
 </a>
@@ -914,10 +974,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1990-001-p1s2a12">
 <a>
@@ -930,7 +986,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1990-001-p1s2a13">
+<children>
+<LM id="T-wsj1990-001-p1s2a13">
 <a>
 <lex.rf>a#a-wsj1990-001-p1s2W14-Ta</lex.rf>
 </a>
@@ -941,7 +998,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1990-001-p1s2a14">
+<children>
+<LM id="T-wsj1990-001-p1s2a14">
 <a>
 <lex.rf>a#a-wsj1990-001-p1s2W13-Ta</lex.rf>
 </a>
@@ -952,26 +1010,27 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
-</children>
-</children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The arrangement is subject to approval by the Supreme Court of British Columbia province, Crown said.</eng_sentence>
 </LM>
 <LM id="T-wsj1990-001-p1s3">
 <atree.rf>a#a-wsj1990-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1990-001-p1s3a1">
+<children>
+<LM id="T-wsj1990-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1990-001-p1s3W10-Ta</lex.rf>
 </a>
@@ -1005,7 +1064,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1990-001-p1s3a16">
+<children>
+<LM id="T-wsj1990-001-p1s3a16">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1037,17 +1097,22 @@
 <deepord>4</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1990-001-p1s1a36</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1990-001-p1s3a7">
 <a>
 <lex.rf>a#a-wsj1990-001-p1s3W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1990-001-p1s3W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1990-001-p1s3W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Vancouver</t_lemma>
@@ -1056,10 +1121,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1990-001-p1s3a9">
+<children>
+<LM id="T-wsj1990-001-p1s3a9">
 <a>
 <lex.rf>a#a-wsj1990-001-p1s3W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1990-001-p1s3W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1990-001-p1s3W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Kolumbie</t_lemma>
@@ -1068,7 +1136,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1990-001-p1s3a10">
+<children>
+<LM id="T-wsj1990-001-p1s3a10">
 <a>
 <lex.rf>a#a-wsj1990-001-p1s3W8-Ta</lex.rf>
 </a>
@@ -1079,16 +1148,16 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1990-001-p1s2a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 </children>
@@ -1119,7 +1188,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1990-001-p1s3a17">
+<children>
+<LM id="T-wsj1990-001-p1s3a17">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1148,17 +1218,22 @@
 <deepord>14</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1990-001-p1s2a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1990-001-p1s3a15">
 <a>
 <lex.rf>a#a-wsj1990-001-p1s3W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1990-001-p1s3W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1990-001-p1s3W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Denver</t_lemma>
@@ -1171,13 +1246,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Gold Texas is based in Vancouver, British Columbia, and Crown Resources is based in Denver.</eng_sentence>
 </LM>
 <LM id="T-wsj1990-001-p1s4">
 <atree.rf>a#a-wsj1990-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1990-001-p1s4a1">
+<children>
+<LM id="T-wsj1990-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj1990-001-p1s4W3-Ta</lex.rf>
 </a>
@@ -1201,7 +1278,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1990-001-p1s4a3">
+<children>
+<LM id="T-wsj1990-001-p1s4a3">
 <a>
 <lex.rf>a#a-wsj1990-001-p1s4W1-Ta</lex.rf>
 </a>
@@ -1212,6 +1290,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <bridging>
 <LM>
@@ -1237,7 +1316,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1990-001-p1s4a5">
+<children>
+<LM id="T-wsj1990-001-p1s4a5">
 <a>
 <lex.rf>a#a-wsj1990-001-p1s4W4-Ta</lex.rf>
 </a>
@@ -1248,9 +1328,11 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Both are mining concerns.</eng_sentence>
 </LM>

@@ -11,7 +11,8 @@
 <LM id="T-wsj0216-001-p1s0">
 <atree.rf>a#a-wsj0216-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0216-001-p1s0a1">
+<children>
+<LM id="T-wsj0216-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0216-001-p1s0W8-Ta</lex.rf>
 </a>
@@ -42,7 +43,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0216-001-p1s0a29">
+<children>
+<LM id="T-wsj0216-001-p1s0a29">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -116,12 +118,15 @@
 <deepord>9</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0216-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj0216-001-p1s0W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0216-001-p1s0W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0216-001-p1s0W10-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9501f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -142,9 +147,11 @@
 </gram>
 <deepord>11</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0216-001-p1s0a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0216-001-p1s0a12">
@@ -174,7 +181,9 @@
 <LM id="T-wsj0216-001-p1s0a17">
 <a>
 <lex.rf>a#a-wsj0216-001-p1s0W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0216-001-p1s0W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0216-001-p1s0W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -195,7 +204,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj0216-001-p1s0a16">
+<children>
+<LM id="T-wsj0216-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj0216-001-p1s0W14-Ta</lex.rf>
 </a>
@@ -206,6 +216,7 @@
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>15</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0216-001-p1s0a18">
@@ -225,7 +236,9 @@
 <LM id="T-wsj0216-001-p1s0a20">
 <a>
 <lex.rf>a#a-wsj0216-001-p1s0W20-Ta</lex.rf>
-<aux.rf>a#a-wsj0216-001-p1s0W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0216-001-p1s0W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výstavba</t_lemma>
@@ -234,7 +247,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj0216-001-p1s0a21">
+<children>
+<LM id="T-wsj0216-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj0216-001-p1s0W21-Ta</lex.rf>
 </a>
@@ -245,7 +259,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj0216-001-p1s0a23">
+<children>
+<LM id="T-wsj0216-001-p1s0a23">
 <a>
 <lex.rf>a#a-wsj0216-001-p1s0W22-Ta</lex.rf>
 </a>
@@ -256,7 +271,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj0216-001-p1s0a22">
+<children>
+<LM id="T-wsj0216-001-p1s0a22">
 <a>
 <lex.rf>a#a-wsj0216-001-p1s0W24-Ta</lex.rf>
 </a>
@@ -267,7 +283,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj0216-001-p1s0a24">
+<children>
+<LM id="T-wsj0216-001-p1s0a24">
 <a>
 <lex.rf>a#a-wsj0216-001-p1s0W23-Ta</lex.rf>
 </a>
@@ -278,9 +295,11 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>22</deepord>
+</LM>
 </children>
+</LM>
 </children>
-</children>
+</LM>
 </children>
 </LM>
 </children>
@@ -288,13 +307,17 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Stewart &amp; Stevenson Services Inc. said it received two contracts totaling $19 million to build gas-turbine generators.</eng_sentence>
 </LM>
 <LM id="T-wsj0216-001-p1s1">
 <atree.rf>a#a-wsj0216-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0216-001-p1s1a2">
+<children>
+<LM id="T-wsj0216-001-p1s1a2">
 <a>
 <lex.rf>a#a-wsj0216-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -318,7 +341,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0216-001-p1s1a4">
+<children>
+<LM id="T-wsj0216-001-p1s1a4">
 <a>
 <lex.rf>a#a-wsj0216-001-p1s1W1-Ta</lex.rf>
 </a>
@@ -329,11 +353,14 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0216-001-p1s0a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0216-001-p1s1a1">
@@ -348,7 +375,9 @@
 <LM id="T-wsj0216-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj0216-001-p1s1W5-Ta</lex.rf>
-<aux.rf>a#a-wsj0216-001-p1s1W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0216-001-p1s1W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -370,7 +399,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0216-001-p1s1a7">
+<children>
+<LM id="T-wsj0216-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj0216-001-p1s1W8-Ta</lex.rf>
 </a>
@@ -381,7 +411,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0216-001-p1s1a9">
+<children>
+<LM id="T-wsj0216-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj0216-001-p1s1W7-Ta</lex.rf>
 </a>
@@ -392,7 +423,9 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0216-001-p1s1a30">
@@ -455,7 +488,9 @@
 <LM id="T-wsj0216-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj0216-001-p1s1W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0216-001-p1s1W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0216-001-p1s1W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Paragould</t_lemma>
@@ -464,10 +499,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj0216-001-p1s1a18">
+<children>
+<LM id="T-wsj0216-001-p1s1a18">
 <a>
 <lex.rf>a#a-wsj0216-001-p1s1W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0216-001-p1s1W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0216-001-p1s1W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Arkansas</t_lemma>
@@ -476,6 +514,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -493,7 +532,9 @@
 <LM id="T-wsj0216-001-p1s1a20">
 <a>
 <lex.rf>a#a-wsj0216-001-p1s1W20-Ta</lex.rf>
-<aux.rf>a#a-wsj0216-001-p1s1W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0216-001-p1s1W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -503,7 +544,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj0216-001-p1s1a31">
+<children>
+<LM id="T-wsj0216-001-p1s1a31">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -544,12 +586,15 @@
 <deepord>21</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0216-001-p1s1a25">
 <a>
 <lex.rf>a#a-wsj0216-001-p1s1W25-Ta</lex.rf>
-<aux.rf>a#a-wsj0216-001-p1s1W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0216-001-p1s1W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>provozovatel</t_lemma>
@@ -559,7 +604,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj0216-001-p1s1a26">
+<children>
+<LM id="T-wsj0216-001-p1s1a26">
 <a>
 <lex.rf>a#a-wsj0216-001-p1s1W27-Ta</lex.rf>
 </a>
@@ -586,7 +632,9 @@
 <LM id="T-wsj0216-001-p1s1a29">
 <a>
 <lex.rf>a#a-wsj0216-001-p1s1W29-Ta</lex.rf>
-<aux.rf>a#a-wsj0216-001-p1s1W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0216-001-p1s1W28-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Houston</t_lemma>
@@ -597,20 +645,23 @@
 <deepord>26</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The separate contracts were from Paragould Light &amp; Water Commission, a utility in Paragould, Ark., and PSE Inc., a cogeneration-plant operator in Houston.</eng_sentence>
 </LM>
 <LM id="T-wsj0216-001-p1s2">
 <atree.rf>a#a-wsj0216-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0216-001-p1s2a1">
+<children>
+<LM id="T-wsj0216-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0216-001-p1s2W5-Ta</lex.rf>
 </a>
@@ -634,7 +685,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0216-001-p1s2a12">
+<children>
+<LM id="T-wsj0216-001-p1s2a12">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -675,11 +727,14 @@
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0216-001-p1s0a27</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0216-001-p1s2a6">
@@ -693,7 +748,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0216-001-p1s2a7">
+<children>
+<LM id="T-wsj0216-001-p1s2a7">
 <a>
 <lex.rf>a#a-wsj0216-001-p1s2W7-Ta</lex.rf>
 </a>
@@ -704,7 +760,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0216-001-p1s2a8">
+<children>
+<LM id="T-wsj0216-001-p1s2a8">
 <a>
 <lex.rf>a#a-wsj0216-001-p1s2W11-Ta</lex.rf>
 </a>
@@ -715,7 +772,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj0216-001-p1s2a9">
+<children>
+<LM id="T-wsj0216-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj0216-001-p1s2W9-Ta</lex.rf>
 </a>
@@ -736,9 +794,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 <LM id="T-wsj0216-001-p1s2a11">
 <a>
@@ -754,15 +809,21 @@
 <deepord>11</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Stewart &amp; Stevenson makes equipment powered with diesel and gas turbines.</eng_sentence>
 </LM>

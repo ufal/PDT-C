@@ -11,10 +11,13 @@
 <LM id="T-wsj2016-001-p1s0">
 <atree.rf>a#a-wsj2016-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2016-001-p1s0a1">
+<children>
+<LM id="T-wsj2016-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj2016-001-p1s0W14-Ta</lex.rf>
-<aux.rf>a#a-wsj2016-001-p1s0W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2016-001-p1s0W13-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9986f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -46,7 +49,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj2016-001-p1s0a2">
+<children>
+<LM id="T-wsj2016-001-p1s0a2">
 <a>
 <lex.rf>a#a-wsj2016-001-p1s0W1-Ta</lex.rf>
 </a>
@@ -57,11 +61,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj2016-001-p1s0a3">
 <a>
@@ -186,7 +187,9 @@
 <LM id="T-wsj2016-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj2016-001-p1s0W17-Ta</lex.rf>
-<aux.rf>a#a-wsj2016-001-p1s0W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2016-001-p1s0W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>pozice</t_lemma>
@@ -196,7 +199,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj2016-001-p1s0a17">
+<children>
+<LM id="T-wsj2016-001-p1s0a17">
 <a>
 <lex.rf>a#a-wsj2016-001-p1s0W16-Ta</lex.rf>
 </a>
@@ -207,12 +211,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2016-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj2016-001-p1s0W20-Ta</lex.rf>
-<aux.rf>a#a-wsj2016-001-p1s0W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2016-001-p1s0W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>funkce</t_lemma>
@@ -222,7 +229,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj2016-001-p1s0a20">
+<children>
+<LM id="T-wsj2016-001-p1s0a20">
 <a>
 <lex.rf>a#a-wsj2016-001-p1s0W24-Ta</lex.rf>
 </a>
@@ -293,7 +301,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj2016-001-p1s0a32">
+<children>
+<LM id="T-wsj2016-001-p1s0a32">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -337,23 +346,27 @@
 <deepord>28</deepord>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Robin Honiss, president and chief executive officer of this bank holding company, was elected to the additional posts of chairman, president and chief executive of the company's New England Savings Bank subsidiary.</eng_sentence>
 </LM>
 <LM id="T-wsj2016-001-p1s1">
 <atree.rf>a#a-wsj2016-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2016-001-p1s1a1">
+<children>
+<LM id="T-wsj2016-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj2016-001-p1s1W8-Ta</lex.rf>
 </a>
@@ -416,7 +429,9 @@
 <LM id="T-wsj2016-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj2016-001-p1s1W7-Ta</lex.rf>
-<aux.rf>a#a-wsj2016-001-p1s1W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2016-001-p1s1W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>funkce</t_lemma>
@@ -426,7 +441,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj2016-001-p1s1a8">
+<children>
+<LM id="T-wsj2016-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj2016-001-p1s1W6-Ta</lex.rf>
 </a>
@@ -437,11 +453,14 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2016-001-p1s0a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2016-001-p1s1a9">
@@ -459,7 +478,9 @@
 <LM id="T-wsj2016-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj2016-001-p1s1W13-Ta</lex.rf>
-<aux.rf>a#a-wsj2016-001-p1s1W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2016-001-p1s1W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>místo</t_lemma>
@@ -469,10 +490,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj2016-001-p1s1a15">
+<children>
+<LM id="T-wsj2016-001-p1s1a15">
 <a>
 <lex.rf>a#a-wsj2016-001-p1s1W15-Ta</lex.rf>
-<aux.rf>a#a-wsj2016-001-p1s1W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2016-001-p1s1W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>správa</t_lemma>
@@ -481,7 +505,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj2016-001-p1s1a16">
+<children>
+<LM id="T-wsj2016-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj2016-001-p1s1W16-Ta</lex.rf>
 </a>
@@ -492,7 +517,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj2016-001-p1s1a17">
+<children>
+<LM id="T-wsj2016-001-p1s1a17">
 <a>
 <lex.rf>a#a-wsj2016-001-p1s1W17-Ta</lex.rf>
 </a>
@@ -503,25 +529,32 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2016-001-p1s0a27</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>William R. Attridge resigned those posts, as well as a seat on NESB's board.</eng_sentence>
 </LM>
 <LM id="T-wsj2016-001-p1s2">
 <atree.rf>a#a-wsj2016-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2016-001-p1s2a1">
+<children>
+<LM id="T-wsj2016-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj2016-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -540,7 +573,8 @@
 <t_lemma>#Idph</t_lemma>
 <functor>ACT</functor>
 <deepord>3</deepord>
-<children id="T-wsj2016-001-p1s2a2">
+<children>
+<LM id="T-wsj2016-001-p1s2a2">
 <a>
 <lex.rf>a#a-wsj2016-001-p1s2W1-Ta</lex.rf>
 </a>
@@ -551,11 +585,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2016-001-p1s1a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2016-001-p1s2a3">
@@ -602,13 +639,11 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>NESB is also the parent of Omnibank.</eng_sentence>
 </LM>

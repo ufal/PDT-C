@@ -11,7 +11,8 @@
 <LM id="T-wsj0454-001-p1s0">
 <atree.rf>a#a-wsj0454-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0454-001-p1s0a1">
+<children>
+<LM id="T-wsj0454-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0454-001-p1s0W1-Ta</lex.rf>
 </a>
@@ -22,16 +23,20 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <eng_sentence>RADIO:</eng_sentence>
 </LM>
 <LM id="T-wsj0454-001-p1s1">
 <atree.rf>a#a-wsj0454-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0454-001-p1s1a2">
+<children>
+<LM id="T-wsj0454-001-p1s1a2">
 <a>
 <lex.rf>a#a-wsj0454-001-p1s1W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0454-001-p1s1W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0454-001-p1s1W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5635f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -53,7 +58,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0454-001-p1s1a36">
+<children>
+<LM id="T-wsj0454-001-p1s1a36">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -103,6 +109,7 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0454-001-p1s1a9">
@@ -131,7 +138,9 @@
 <deepord>10</deepord>
 <children>
 <LM id="T-wsj0454-001-p1s1a34">
-<coref_gram.rf>T-wsj0454-001-p1s1a3</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0454-001-p1s1a3</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -141,7 +150,9 @@
 <LM id="T-wsj0454-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj0454-001-p1s1W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0454-001-p1s1W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0454-001-p1s1W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -150,7 +161,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0454-001-p1s1a38">
+<children>
+<LM id="T-wsj0454-001-p1s1a38">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -197,6 +209,7 @@
 <deepord>16</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0454-001-p1s1a1">
@@ -220,7 +233,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj0454-001-p1s1a15">
+<children>
+<LM id="T-wsj0454-001-p1s1a15">
 <a>
 <lex.rf>a#a-wsj0454-001-p1s1W17-Ta</lex.rf>
 </a>
@@ -231,7 +245,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj0454-001-p1s1a21">
+<children>
+<LM id="T-wsj0454-001-p1s1a21">
 <a>
 <lex.rf>a#a-wsj0454-001-p1s1W19-Ta</lex.rf>
 </a>
@@ -243,11 +258,10 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>19</deepord>
+</LM>
 </children>
+</LM>
 </children>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 <LM id="T-wsj0454-001-p1s1a40">
 <a>
@@ -262,7 +276,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj0454-001-p1s1a23">
+<children>
+<LM id="T-wsj0454-001-p1s1a23">
 <a>
 <lex.rf>a#a-wsj0454-001-p1s1W22-Ta</lex.rf>
 </a>
@@ -273,7 +288,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj0454-001-p1s1a24">
+<children>
+<LM id="T-wsj0454-001-p1s1a24">
 <a>
 <lex.rf>a#a-wsj0454-001-p1s1W24-Ta</lex.rf>
 </a>
@@ -284,19 +300,16 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>zkratka</text>
-</annot_comment>
+</LM>
 </children>
+</LM>
 </children>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 <LM id="T-wsj0454-001-p1s1a41">
 <a>
-<aux.rf>a#a-wsj0454-001-p1s1W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0454-001-p1s1W25-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -335,7 +348,9 @@
 <LM id="T-wsj0454-001-p1s1a30">
 <a>
 <lex.rf>a#a-wsj0454-001-p1s1W30-Ta</lex.rf>
-<aux.rf>a#a-wsj0454-001-p1s1W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0454-001-p1s1W28-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -374,6 +389,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Viacom Broadcasting Inc. definitively agreed to acquire KOFY (AM) and KOFY-FM in San Francisco for about $19.5 million from Pacific FM Inc.</eng_sentence>
 </LM>

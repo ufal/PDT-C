@@ -524,12 +524,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Pawtuckeet opraven na Pawtucket</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1514,11 +1508,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

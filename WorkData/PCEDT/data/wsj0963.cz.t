@@ -11,10 +11,13 @@
 <LM id="T-wsj0963-001-p1s0">
 <atree.rf>a#a-wsj0963-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0963-001-p1s0a1">
+<children>
+<LM id="T-wsj0963-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0963-001-p1s0W7-Ta</lex.rf>
-<aux.rf>a#a-wsj0963-001-p1s0W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0963-001-p1s0W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9986f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -55,7 +58,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0963-001-p1s0a21">
+<children>
+<LM id="T-wsj0963-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj0963-001-p1s0W1-Ta</lex.rf>
 </a>
@@ -63,11 +67,8 @@
 <t_lemma>52</t_lemma>
 <functor>RSTR</functor>
 <deepord>2</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0963-001-p1s0a4">
 <a>
@@ -98,7 +99,9 @@
 <LM id="T-wsj0963-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj0963-001-p1s0W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0963-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0963-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>funkce</t_lemma>
@@ -107,7 +110,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0963-001-p1s0a10">
+<children>
+<LM id="T-wsj0963-001-p1s0a10">
 <a>
 <lex.rf>a#a-wsj0963-001-p1s0W10-Ta</lex.rf>
 </a>
@@ -118,7 +122,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0963-001-p1s0a11">
+<children>
+<LM id="T-wsj0963-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj0963-001-p1s0W13-Ta</lex.rf>
 </a>
@@ -177,16 +182,20 @@
 </gram>
 <deepord>13</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0963-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0963-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj0963-001-p1s0W15-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0963-001-p1s0a11</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0963-001-p1s0a11</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>kde</t_lemma>
 <functor>LOC</functor>
@@ -206,7 +215,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj0963-001-p1s0a18">
+<children>
+<LM id="T-wsj0963-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj0963-001-p1s0W17-Ta</lex.rf>
 </a>
@@ -217,22 +227,27 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
-</children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Eugene A. Miller, 52 years old, was elected a director of this electric utility company, filling a vacancy.</eng_sentence>
 </LM>
 <LM id="T-wsj0963-001-p1s1">
 <atree.rf>a#a-wsj0963-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0963-001-p1s1a1">
+<children>
+<LM id="T-wsj0963-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0963-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -255,9 +270,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0963-001-p1s0a20</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0963-001-p1s1a2">
@@ -306,7 +323,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0963-001-p1s1a6">
+<children>
+<LM id="T-wsj0963-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj0963-001-p1s1W5-Ta</lex.rf>
 </a>
@@ -317,6 +335,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0963-001-p1s1a7">
@@ -376,7 +395,9 @@
 <LM id="T-wsj0963-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj0963-001-p1s1W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0963-001-p1s1W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0963-001-p1s1W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Detroit</t_lemma>
@@ -391,6 +412,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>He is president and chief executive officer of Comerica Inc. in Detroit.</eng_sentence>
 </LM>

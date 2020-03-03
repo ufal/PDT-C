@@ -351,12 +351,6 @@
 <deepord>26</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>chybná podoba</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

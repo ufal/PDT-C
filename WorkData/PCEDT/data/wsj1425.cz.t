@@ -11,7 +11,8 @@
 <LM id="T-wsj1425-001-p1s0">
 <atree.rf>a#a-wsj1425-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1425-001-p1s0a1">
+<children>
+<LM id="T-wsj1425-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1425-001-p1s0W11-Ta</lex.rf>
 </a>
@@ -78,7 +79,9 @@
 <LM id="T-wsj1425-001-p1s0a7">
 <a>
 <lex.rf>a#a-wsj1425-001-p1s0W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1425-001-p1s0W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1425-001-p1s0W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>město</t_lemma>
@@ -124,7 +127,9 @@
 <LM id="T-wsj1425-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj1425-001-p1s0W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1425-001-p1s0W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1425-001-p1s0W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Kalifornie</t_lemma>
@@ -153,7 +158,9 @@
 <LM id="T-wsj1425-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj1425-001-p1s0W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1425-001-p1s0W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1425-001-p1s0W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>námořnictvo</t_lemma>
@@ -166,7 +173,9 @@
 <LM id="T-wsj1425-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj1425-001-p1s0W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1425-001-p1s0W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1425-001-p1s0W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výše</t_lemma>
@@ -175,7 +184,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj1425-001-p1s0a18">
+<children>
+<LM id="T-wsj1425-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj1425-001-p1s0W18-Ta</lex.rf>
 </a>
@@ -212,16 +222,15 @@
 <deepord>17</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1425-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj1425-001-p1s0W21-Ta</lex.rf>
-<aux.rf>a#a-wsj1425-001-p1s0W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1425-001-p1s0W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>systém</t_lemma>
@@ -230,7 +239,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1425-001-p1s0a22">
+<children>
+<LM id="T-wsj1425-001-p1s0a22">
 <a>
 <lex.rf>a#a-wsj1425-001-p1s0W23-Ta</lex.rf>
 </a>
@@ -241,7 +251,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj1425-001-p1s0a23">
+<children>
+<LM id="T-wsj1425-001-p1s0a23">
 <a>
 <lex.rf>a#a-wsj1425-001-p1s0W22-Ta</lex.rf>
 </a>
@@ -252,19 +263,23 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>19</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Translant Inc., Rancho Cucamonga, Calif., got an $86 million Navy contract for missile-launch systems.</eng_sentence>
 </LM>
 <LM id="T-wsj1425-001-p1s1">
 <atree.rf>a#a-wsj1425-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1425-001-p1s1a1">
+<children>
+<LM id="T-wsj1425-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1425-001-p1s1W6-Ta</lex.rf>
 </a>
@@ -288,7 +303,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1425-001-p1s1a22">
+<children>
+<LM id="T-wsj1425-001-p1s1a22">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -332,6 +348,7 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1425-001-p1s1a7">
@@ -349,7 +366,9 @@
 <LM id="T-wsj1425-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj1425-001-p1s1W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1425-001-p1s1W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1425-001-p1s1W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letectvo</t_lemma>
@@ -358,7 +377,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1425-001-p1s1a10">
+<children>
+<LM id="T-wsj1425-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj1425-001-p1s1W9-Ta</lex.rf>
 </a>
@@ -369,12 +389,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1425-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj1425-001-p1s1W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1425-001-p1s1W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1425-001-p1s1W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výše</t_lemma>
@@ -383,7 +406,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1425-001-p1s1a14">
+<children>
+<LM id="T-wsj1425-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj1425-001-p1s1W14-Ta</lex.rf>
 </a>
@@ -420,16 +444,15 @@
 <deepord>14</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1425-001-p1s1a17">
 <a>
 <lex.rf>a#a-wsj1425-001-p1s1W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1425-001-p1s1W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1425-001-p1s1W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>kužel</t_lemma>
@@ -494,13 +517,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>General Electric Co. received a $30.6 million Air Force contract for MX-missile nose cones.</eng_sentence>
 </LM>
 <LM id="T-wsj1425-001-p1s2">
 <atree.rf>a#a-wsj1425-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1425-001-p1s2a1">
+<children>
+<LM id="T-wsj1425-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1425-001-p1s2W8-Ta</lex.rf>
 </a>
@@ -524,7 +549,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1425-001-p1s2a24">
+<children>
+<LM id="T-wsj1425-001-p1s2a24">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -592,6 +618,7 @@
 <deepord>8</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1425-001-p1s2a9">
@@ -609,7 +636,9 @@
 <LM id="T-wsj1425-001-p1s2a11">
 <a>
 <lex.rf>a#a-wsj1425-001-p1s2W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1425-001-p1s2W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1425-001-p1s2W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>armáda</t_lemma>
@@ -622,7 +651,9 @@
 <LM id="T-wsj1425-001-p1s2a13">
 <a>
 <lex.rf>a#a-wsj1425-001-p1s2W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1425-001-p1s2W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1425-001-p1s2W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výše</t_lemma>
@@ -631,7 +662,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1425-001-p1s2a15">
+<children>
+<LM id="T-wsj1425-001-p1s2a15">
 <a>
 <lex.rf>a#a-wsj1425-001-p1s2W15-Ta</lex.rf>
 </a>
@@ -668,16 +700,15 @@
 <deepord>15</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1425-001-p1s2a18">
 <a>
 <lex.rf>a#a-wsj1425-001-p1s2W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1425-001-p1s2W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1425-001-p1s2W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>součástka</t_lemma>
@@ -686,10 +717,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj1425-001-p1s2a20">
+<children>
+<LM id="T-wsj1425-001-p1s2a20">
 <a>
 <lex.rf>a#a-wsj1425-001-p1s2W21-Ta</lex.rf>
-<aux.rf>a#a-wsj1425-001-p1s2W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1425-001-p1s2W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>vozidlo</t_lemma>
@@ -698,7 +732,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1425-001-p1s2a21">
+<children>
+<LM id="T-wsj1425-001-p1s2a21">
 <a>
 <lex.rf>a#a-wsj1425-001-p1s2W20-Ta</lex.rf>
 </a>
@@ -709,19 +744,23 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>17</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Goodyear Tire &amp; Rubber Co. was awarded a $19.1 million Army contract for armored-vehicle parts.</eng_sentence>
 </LM>
 <LM id="T-wsj1425-001-p1s3">
 <atree.rf>a#a-wsj1425-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1425-001-p1s3a1">
+<children>
+<LM id="T-wsj1425-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1425-001-p1s3W6-Ta</lex.rf>
 </a>
@@ -745,7 +784,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1425-001-p1s3a21">
+<children>
+<LM id="T-wsj1425-001-p1s3a21">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -789,6 +829,7 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1425-001-p1s3a7">
@@ -806,7 +847,9 @@
 <LM id="T-wsj1425-001-p1s3a9">
 <a>
 <lex.rf>a#a-wsj1425-001-p1s3W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1425-001-p1s3W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1425-001-p1s3W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letectvo</t_lemma>
@@ -815,7 +858,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1425-001-p1s3a10">
+<children>
+<LM id="T-wsj1425-001-p1s3a10">
 <a>
 <lex.rf>a#a-wsj1425-001-p1s3W9-Ta</lex.rf>
 </a>
@@ -826,17 +870,22 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1425-001-p1s1a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1425-001-p1s3a12">
 <a>
 <lex.rf>a#a-wsj1425-001-p1s3W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1425-001-p1s3W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1425-001-p1s3W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výše</t_lemma>
@@ -845,7 +894,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1425-001-p1s3a14">
+<children>
+<LM id="T-wsj1425-001-p1s3a14">
 <a>
 <lex.rf>a#a-wsj1425-001-p1s3W14-Ta</lex.rf>
 </a>
@@ -882,16 +932,15 @@
 <deepord>14</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1425-001-p1s3a17">
 <a>
 <lex.rf>a#a-wsj1425-001-p1s3W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1425-001-p1s3W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1425-001-p1s3W16-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8714f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -919,9 +968,11 @@
 </gram>
 <deepord>16</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1425-001-p1s3a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1425-001-p1s3a18">
@@ -938,13 +989,16 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Analytic Sciences Corp. was awarded a $10.1 million Air Force contract for technical support.</eng_sentence>
 </LM>

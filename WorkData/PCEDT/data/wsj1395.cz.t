@@ -11,7 +11,8 @@
 <LM id="T-wsj1395-001-p1s0">
 <atree.rf>a#a-wsj1395-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1395-001-p1s0a1">
+<children>
+<LM id="T-wsj1395-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1395-001-p1s0W5-Ta</lex.rf>
 </a>
@@ -42,7 +43,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1395-001-p1s0a27">
+<children>
+<LM id="T-wsj1395-001-p1s0a27">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -77,12 +79,15 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1395-001-p1s0a8">
 <a>
 <lex.rf>a#a-wsj1395-001-p1s0W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1395-001-p1s0W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1395-001-p1s0W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2451f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -103,9 +108,11 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1395-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1395-001-p1s0a9">
@@ -135,7 +142,9 @@
 <LM id="T-wsj1395-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj1395-001-p1s0W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1395-001-p1s0W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1395-001-p1s0W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výše</t_lemma>
@@ -144,7 +153,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1395-001-p1s0a14">
+<children>
+<LM id="T-wsj1395-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj1395-001-p1s0W14-Ta</lex.rf>
 </a>
@@ -181,6 +191,7 @@
 <deepord>15</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1395-001-p1s0a17">
@@ -195,7 +206,9 @@
 <LM id="T-wsj1395-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj1395-001-p1s0W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1395-001-p1s0W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1395-001-p1s0W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>vozidlo</t_lemma>
@@ -235,7 +248,9 @@
 <LM id="T-wsj1395-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj1395-001-p1s0W23-Ta</lex.rf>
-<aux.rf>a#a-wsj1395-001-p1s0W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1395-001-p1s0W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zařízení</t_lemma>
@@ -272,8 +287,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -283,13 +300,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Harsco Corp. said it obtained a $33.1 million export order for armored recovery vehicles and related support equipment.</eng_sentence>
 </LM>
 <LM id="T-wsj1395-001-p1s1">
 <atree.rf>a#a-wsj1395-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1395-001-p1s1a1">
+<children>
+<LM id="T-wsj1395-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1395-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -313,7 +332,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1395-001-p1s1a3">
+<children>
+<LM id="T-wsj1395-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj1395-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -324,14 +344,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1395-001-p1s0a26</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1395-001-p1s1a4">
@@ -348,7 +368,9 @@
 <deepord>5</deepord>
 <children>
 <LM id="T-wsj1395-001-p1s1a10">
-<coref_gram.rf>T-wsj1395-001-p1s1a2</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1395-001-p1s1a2</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -378,9 +400,11 @@
 </gram>
 <deepord>6</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1395-001-p1s1a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1395-001-p1s1a9">
@@ -394,7 +418,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1395-001-p1s1a7">
+<children>
+<LM id="T-wsj1395-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj1395-001-p1s1W6-Ta</lex.rf>
 </a>
@@ -405,6 +430,7 @@
 <sempos>adj.pron.indef</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1395-001-p1s1a8">
@@ -419,9 +445,11 @@
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1395-001-p1s0a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -429,13 +457,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Harsco declined to say what country placed the order.</eng_sentence>
 </LM>
 <LM id="T-wsj1395-001-p1s2">
 <atree.rf>a#a-wsj1395-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1395-001-p1s2a1">
+<children>
+<LM id="T-wsj1395-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1395-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -460,15 +490,19 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1395-001-p1s1a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1395-001-p1s2a5">
 <a>
 <lex.rf>a#a-wsj1395-001-p1s2W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1395-001-p1s2W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1395-001-p1s2W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2451f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -489,9 +523,11 @@
 </gram>
 <deepord>3</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1395-001-p1s2a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1395-001-p1s2a25">
@@ -515,10 +551,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1395-001-p1s2a9">
+<children>
+<LM id="T-wsj1395-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj1395-001-p1s2W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1395-001-p1s2W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1395-001-p1s2W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>vozidlo</t_lemma>
@@ -557,7 +596,9 @@
 <a>
 <lex.rf>a#a-wsj1395-001-p1s2W11-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1395-001-p1s2a9</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1395-001-p1s2a9</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -673,7 +714,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1395-001-p1s2a23">
+<children>
+<LM id="T-wsj1395-001-p1s2a23">
 <a>
 <lex.rf>a#a-wsj1395-001-p1s2W21-Ta</lex.rf>
 </a>
@@ -685,10 +727,13 @@
 </gram>
 <deepord>17</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1395-001-p1s2a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1395-001-p1s2a24">
@@ -719,9 +764,11 @@
 </gram>
 <deepord>20</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1395-001-p1s2a23</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1395-001-p1s2a33">
@@ -733,8 +780,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -742,6 +791,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1395-001-p1s2a27">
@@ -756,10 +806,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj1395-001-p1s2a29">
+<children>
+<LM id="T-wsj1395-001-p1s2a29">
 <a>
 <lex.rf>a#a-wsj1395-001-p1s2W29-Ta</lex.rf>
-<aux.rf>a#a-wsj1395-001-p1s2W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1395-001-p1s2W28-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>16</t_lemma>
@@ -768,7 +821,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj1395-001-p1s2a30">
+<children>
+<LM id="T-wsj1395-001-p1s2a30">
 <a>
 <lex.rf>a#a-wsj1395-001-p1s2W30-Ta</lex.rf>
 </a>
@@ -779,26 +833,32 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>26</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1395-001-p1s1a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The company said it received an order for 23 of the vehicles, which retrieve tanks and other heavy-tracked vehicles when they break down or are damaged, and an option for 16 more.</eng_sentence>
 </LM>
 <LM id="T-wsj1395-001-p1s3">
 <atree.rf>a#a-wsj1395-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1395-001-p1s3a4">
+<children>
+<LM id="T-wsj1395-001-p1s3a4">
 <a>
 <lex.rf>a#a-wsj1395-001-p1s3W4-Ta</lex.rf>
 <aux.rf>
@@ -831,7 +891,9 @@
 <LM id="T-wsj1395-001-p1s3a6">
 <a>
 <lex.rf>a#a-wsj1395-001-p1s3W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1395-001-p1s3W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1395-001-p1s3W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -840,7 +902,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1395-001-p1s3a7">
+<children>
+<LM id="T-wsj1395-001-p1s3a7">
 <a>
 <lex.rf>a#a-wsj1395-001-p1s3W7-Ta</lex.rf>
 </a>
@@ -851,16 +914,19 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Delivery is to begin in early 1991.</eng_sentence>
 </LM>
 <LM id="T-wsj1395-001-p1s4">
 <atree.rf>a#a-wsj1395-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1395-001-p1s4a1">
+<children>
+<LM id="T-wsj1395-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj1395-001-p1s4W3-Ta</lex.rf>
 </a>
@@ -884,7 +950,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1395-001-p1s4a3">
+<children>
+<LM id="T-wsj1395-001-p1s4a3">
 <a>
 <lex.rf>a#a-wsj1395-001-p1s4W2-Ta</lex.rf>
 </a>
@@ -895,14 +962,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1395-001-p1s2a32</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1395-001-p1s4a4">
@@ -916,10 +983,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1395-001-p1s4a6">
+<children>
+<LM id="T-wsj1395-001-p1s4a6">
 <a>
 <lex.rf>a#a-wsj1395-001-p1s4W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1395-001-p1s4W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1395-001-p1s4W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>trh</t_lemma>
@@ -928,7 +998,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1395-001-p1s4a7">
+<children>
+<LM id="T-wsj1395-001-p1s4a7">
 <a>
 <lex.rf>a#a-wsj1395-001-p1s4W11-Ta</lex.rf>
 </a>
@@ -990,10 +1061,13 @@
 <deepord>9</deepord>
 </LM>
 </children>
-</children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Harsco produces products for defense, industrial, commercial and construction markets.</eng_sentence>
 </LM>

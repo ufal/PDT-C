@@ -580,12 +580,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>malé písmeno C</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>

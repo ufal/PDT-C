@@ -11,7 +11,8 @@
 <LM id="T-wsj1359-001-p1s0">
 <atree.rf>a#a-wsj1359-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1359-001-p1s0a1">
+<children>
+<LM id="T-wsj1359-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s0W11-Ta</lex.rf>
 </a>
@@ -58,15 +59,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1359-001-p1s0a5">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s0W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1359-001-p1s0W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1359-001-p1s0W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>doprava</t_lemma>
@@ -91,7 +90,9 @@
 <LM id="T-wsj1359-001-p1s0a8">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s0W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1359-001-p1s0W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1359-001-p1s0W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dálnice</t_lemma>
@@ -113,7 +114,8 @@
 <is_member>1</is_member>
 <is_parenthesis>1</is_parenthesis>
 <deepord>7</deepord>
-<children id="T-wsj1359-001-p1s0a9">
+<children>
+<LM id="T-wsj1359-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s0W9-Ta</lex.rf>
 </a>
@@ -125,10 +127,7 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>8</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>vygenerováno s malými písmeny</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 </children>
@@ -136,7 +135,9 @@
 <LM id="T-wsj1359-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s0W17-Ta</lex.rf>
-<aux.rf>a#a-wsj1359-001-p1s0W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1359-001-p1s0W13-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7449f4</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -157,9 +158,11 @@
 </gram>
 <deepord>10</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1359-001-p1s0a31</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1359-001-p1s0a15">
@@ -173,10 +176,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1359-001-p1s0a16">
+<children>
+<LM id="T-wsj1359-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s0W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1359-001-p1s0W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1359-001-p1s0W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>31</t_lemma>
@@ -185,12 +191,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1359-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s0W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1359-001-p1s0W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1359-001-p1s0W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>platnost</t_lemma>
@@ -228,7 +237,9 @@
 <LM id="T-wsj1359-001-p1s0a23">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s0W25-Ta</lex.rf>
-<aux.rf>a#a-wsj1359-001-p1s0W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1359-001-p1s0W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>trh</t_lemma>
@@ -262,7 +273,9 @@
 <LM id="T-wsj1359-001-p1s0a27">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s0W28-Ta</lex.rf>
-<aux.rf>a#a-wsj1359-001-p1s0W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1359-001-p1s0W26-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>vozidlo</t_lemma>
@@ -271,7 +284,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj1359-001-p1s0a28">
+<children>
+<LM id="T-wsj1359-001-p1s0a28">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s0W27-Ta</lex.rf>
 </a>
@@ -282,7 +296,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>20</deepord>
-</children>
 </LM>
 </children>
 </LM>
@@ -291,13 +304,17 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The National Highway Traffic Safety Administration said it will start enforcing stiffer regulations Jan. 31 for so-called gray-market imports of vehicles.</eng_sentence>
 </LM>
 <LM id="T-wsj1359-001-p1s1">
 <atree.rf>a#a-wsj1359-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1359-001-p1s1a10">
+<children>
+<LM id="T-wsj1359-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s1W12-Ta</lex.rf>
 <aux.rf>
@@ -325,7 +342,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1359-001-p1s1a2">
+<children>
+<LM id="T-wsj1359-001-p1s1a2">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s1W8-Ta</lex.rf>
 </a>
@@ -342,7 +360,9 @@
 <a>
 <lex.rf>a#a-wsj1359-001-p1s1W3-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1359-001-p1s1a1</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1359-001-p1s1a1</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -362,7 +382,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1359-001-p1s1a8">
+<children>
+<LM id="T-wsj1359-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s1W6-Ta</lex.rf>
 </a>
@@ -397,20 +418,20 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
-</children>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1359-001-p1s0a20</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1359-001-p1s1a13">
@@ -424,7 +445,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1359-001-p1s1a14">
+<children>
+<LM id="T-wsj1359-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s1W14-Ta</lex.rf>
 </a>
@@ -435,7 +457,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1359-001-p1s1a22">
+<children>
+<LM id="T-wsj1359-001-p1s1a22">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s1W30-Ta</lex.rf>
 </a>
@@ -448,7 +471,9 @@
 <a>
 <lex.rf>a#a-wsj1359-001-p1s1W16-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1359-001-p1s1a14</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1359-001-p1s1a14</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -460,7 +485,9 @@
 <LM id="T-wsj1359-001-p1s1a15">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s1W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1359-001-p1s1W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1359-001-p1s1W17-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8298f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -513,9 +540,11 @@
 </gram>
 <deepord>16</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1359-001-p1s1a17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1359-001-p1s1a24">
@@ -553,7 +582,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj1359-001-p1s1a27">
+<children>
+<LM id="T-wsj1359-001-p1s1a27">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s1W25-Ta</lex.rf>
 </a>
@@ -564,12 +594,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>19</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1359-001-p1s1a29">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s1W28-Ta</lex.rf>
-<aux.rf>a#a-wsj1359-001-p1s1W27-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1359-001-p1s1W27-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>automobil</t_lemma>
@@ -588,7 +621,9 @@
 <LM id="T-wsj1359-001-p1s1a31">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s1W32-Ta</lex.rf>
-<aux.rf>a#a-wsj1359-001-p1s1W31-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1359-001-p1s1W31-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8977f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -617,7 +652,9 @@
 <LM id="T-wsj1359-001-p1s1a34">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s1W34-Ta</lex.rf>
-<aux.rf>a#a-wsj1359-001-p1s1W33-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1359-001-p1s1W33-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7496f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -638,9 +675,11 @@
 </gram>
 <deepord>26</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1359-001-p1s1a49</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1359-001-p1s1a46">
@@ -662,7 +701,9 @@
 <LM id="T-wsj1359-001-p1s1a36">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s1W36-Ta</lex.rf>
-<aux.rf>a#a-wsj1359-001-p1s1W35-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1359-001-p1s1W35-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Evropa</t_lemma>
@@ -685,10 +726,13 @@
 <sempos>adv.denot.ngrad.neg</sempos>
 </gram>
 <deepord>31</deepord>
-<children id="T-wsj1359-001-p1s1a40">
+<children>
+<LM id="T-wsj1359-001-p1s1a40">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s1W40-Ta</lex.rf>
-<aux.rf>a#a-wsj1359-001-p1s1W39-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1359-001-p1s1W39-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zahraničí</t_lemma>
@@ -697,30 +741,37 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>32</deepord>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
-</children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The regulations, required under legislation enacted by Congress last year, will apply to imports of vehicles that weren't built to meet U.S. government auto safety standards and were intended for use in Europe or elsewhere abroad.</eng_sentence>
 </LM>
 <LM id="T-wsj1359-001-p1s2">
 <atree.rf>a#a-wsj1359-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1359-001-p1s2a1">
+<children>
+<LM id="T-wsj1359-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s2W3-Ta</lex.rf>
 </a>
@@ -744,7 +795,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1359-001-p1s2a3">
+<children>
+<LM id="T-wsj1359-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s2W1-Ta</lex.rf>
 </a>
@@ -755,12 +807,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1359-001-p1s2a6">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s2W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1359-001-p1s2W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1359-001-p1s2W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w777f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -782,7 +837,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1359-001-p1s2a8">
+<children>
+<LM id="T-wsj1359-001-p1s2a8">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s2W6-Ta</lex.rf>
 </a>
@@ -793,11 +849,14 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1359-001-p1s0a23</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1359-001-p1s2a33">
@@ -870,7 +929,9 @@
 <LM id="T-wsj1359-001-p1s2a14">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s2W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1359-001-p1s2W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1359-001-p1s2W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -900,7 +961,9 @@
 <a>
 <lex.rf>a#a-wsj1359-001-p1s2W16-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1359-001-p1s2a12</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1359-001-p1s2a12</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>ACT</functor>
@@ -936,7 +999,9 @@
 <LM id="T-wsj1359-001-p1s2a25">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s2W21-Ta</lex.rf>
-<aux.rf>a#a-wsj1359-001-p1s2W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1359-001-p1s2W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodně</t_lemma>
@@ -945,10 +1010,13 @@
 <sempos>adj.quant.grad</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1359-001-p1s2a23">
+<children>
+<LM id="T-wsj1359-001-p1s2a23">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s2W24-Ta</lex.rf>
-<aux.rf>a#a-wsj1359-001-p1s2W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1359-001-p1s2W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -981,7 +1049,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj1359-001-p1s2a26">
+<children>
+<LM id="T-wsj1359-001-p1s2a26">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s2W26-Ta</lex.rf>
 </a>
@@ -1008,7 +1077,9 @@
 <LM id="T-wsj1359-001-p1s2a29">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s2W29-Ta</lex.rf>
-<aux.rf>a#a-wsj1359-001-p1s2W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1359-001-p1s2W28-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>USA</t_lemma>
@@ -1019,10 +1090,6 @@
 <deepord>24</deepord>
 </LM>
 </children>
-</children>
-</LM>
-</children>
-</children>
 </LM>
 </children>
 </LM>
@@ -1033,13 +1100,21 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>U.S. officials estimated that gray-market imports total about 2,100 units a year, a small part of the more than three million vehicles exported to the U.S. each year.</eng_sentence>
 </LM>
 <LM id="T-wsj1359-001-p1s3">
 <atree.rf>a#a-wsj1359-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1359-001-p1s3a1">
+<children>
+<LM id="T-wsj1359-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s3W5-Ta</lex.rf>
 </a>
@@ -1070,7 +1145,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1359-001-p1s3a3">
+<children>
+<LM id="T-wsj1359-001-p1s3a3">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s3W1-Ta</lex.rf>
 </a>
@@ -1081,23 +1157,29 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1359-001-p1s1a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1359-001-p1s3a43">
 <a>
-<aux.rf>a#a-wsj1359-001-p1s3W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1359-001-p1s3W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Idph</t_lemma>
 <functor>CRIT</functor>
 <deepord>6</deepord>
-<children id="T-wsj1359-001-p1s3a5">
+<children>
+<LM id="T-wsj1359-001-p1s3a5">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s3W4-Ta</lex.rf>
 </a>
@@ -1108,17 +1190,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1359-001-p1s0a29</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1359-001-p1s3a28">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s3W30-Ta</lex.rf>
-<aux.rf>a#a-wsj1359-001-p1s3W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1359-001-p1s3W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w777f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1140,7 +1227,8 @@
 <sempos>n.pron.indef</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1359-001-p1s3a18">
+<children>
+<LM id="T-wsj1359-001-p1s3a18">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s3W19-Ta</lex.rf>
 </a>
@@ -1152,7 +1240,9 @@
 <LM id="T-wsj1359-001-p1s3a11">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s3W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1359-001-p1s3W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1359-001-p1s3W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dovozce</t_lemma>
@@ -1162,7 +1252,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1359-001-p1s3a8">
+<children>
+<LM id="T-wsj1359-001-p1s3a8">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s3W14-Ta</lex.rf>
 </a>
@@ -1179,7 +1270,9 @@
 <a>
 <lex.rf>a#a-wsj1359-001-p1s3W12-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1359-001-p1s3a11</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1359-001-p1s3a11</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -1192,7 +1285,9 @@
 <a>
 <lex.rf>a#a-wsj1359-001-p1s3W13-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1359-001-p1s3a13</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1359-001-p1s3a13</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>PAT</functor>
@@ -1205,7 +1300,9 @@
 <LM id="T-wsj1359-001-p1s3a16">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s3W17-Ta</lex.rf>
-<aux.rf>a#a-wsj1359-001-p1s3W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1359-001-p1s3W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>vláda</t_lemma>
@@ -1214,7 +1311,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1359-001-p1s3a17">
+<children>
+<LM id="T-wsj1359-001-p1s3a17">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s3W16-Ta</lex.rf>
 </a>
@@ -1225,20 +1323,26 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1359-001-p1s1a26</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1359-001-p1s3a20">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s3W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1359-001-p1s3W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1359-001-p1s3W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>osoba</t_lemma>
@@ -1248,7 +1352,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1359-001-p1s3a21">
+<children>
+<LM id="T-wsj1359-001-p1s3a21">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s3W23-Ta</lex.rf>
 </a>
@@ -1265,7 +1370,9 @@
 <a>
 <lex.rf>a#a-wsj1359-001-p1s3W22-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1359-001-p1s3a20</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1359-001-p1s3a20</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -1285,10 +1392,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1359-001-p1s3a26">
+<children>
+<LM id="T-wsj1359-001-p1s3a26">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s3W27-Ta</lex.rf>
-<aux.rf>a#a-wsj1359-001-p1s3W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1359-001-p1s3W25-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dovozce</t_lemma>
@@ -1297,7 +1407,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj1359-001-p1s3a27">
+<children>
+<LM id="T-wsj1359-001-p1s3a27">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s3W26-Ta</lex.rf>
 </a>
@@ -1308,13 +1419,17 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>19</deepord>
-</children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1359-001-p1s3a29">
@@ -1347,7 +1462,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj1359-001-p1s3a31">
+<children>
+<LM id="T-wsj1359-001-p1s3a31">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s3W34-Ta</lex.rf>
 </a>
@@ -1371,7 +1487,9 @@
 <a>
 <lex.rf>a#a-wsj1359-001-p1s3W33-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1359-001-p1s3a30</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1359-001-p1s3a30</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -1419,7 +1537,9 @@
 <LM id="T-wsj1359-001-p1s3a38">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s3W39-Ta</lex.rf>
-<aux.rf>a#a-wsj1359-001-p1s3W38-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1359-001-p1s3W38-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>automobil</t_lemma>
@@ -1431,24 +1551,29 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1359-001-p1s1a24</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>According to the NHTSA, the new regulations will prohibit anyone other than an importer that has registered with the U.S. government, or a person who has a contract with a registered importer, from permanently importing a vehicle that doesn't meet the U.S. auto safety standards.</eng_sentence>
 </LM>
 <LM id="T-wsj1359-001-p1s4">
 <atree.rf>a#a-wsj1359-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1359-001-p1s4a2">
+<children>
+<LM id="T-wsj1359-001-p1s4a2">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s4W1-Ta</lex.rf>
 <aux.rf>
@@ -1504,9 +1629,11 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1359-001-p1s4a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1359-001-p1s4a12">
@@ -1552,9 +1679,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1359-001-p1s3a34</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -1570,7 +1699,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1359-001-p1s4a17">
+<children>
+<LM id="T-wsj1359-001-p1s4a17">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s4W16-Ta</lex.rf>
 </a>
@@ -1581,6 +1711,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1359-001-p1s4a22">
@@ -1625,7 +1756,9 @@
 <a>
 <lex.rf>a#a-wsj1359-001-p1s4W25-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1359-001-p1s4a22</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1359-001-p1s4a22</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>kdy</t_lemma>
 <functor>TWHEN</functor>
@@ -1637,7 +1770,9 @@
 <LM id="T-wsj1359-001-p1s4a29">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s4W29-Ta</lex.rf>
-<aux.rf>a#a-wsj1359-001-p1s4W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1359-001-p1s4W26-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w777f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1660,7 +1795,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj1359-001-p1s4a28">
+<children>
+<LM id="T-wsj1359-001-p1s4a28">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s4W27-Ta</lex.rf>
 </a>
@@ -1671,11 +1807,14 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1359-001-p1s4a47</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1359-001-p1s4a48">
@@ -1702,7 +1841,9 @@
 <LM id="T-wsj1359-001-p1s4a32">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s4W32-Ta</lex.rf>
-<aux.rf>a#a-wsj1359-001-p1s4W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1359-001-p1s4W26-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1883f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1726,9 +1867,11 @@
 </gram>
 <deepord>20</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1359-001-p1s4a27</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1359-001-p1s4a34">
@@ -1742,10 +1885,13 @@
 <sempos>adv.pron.def</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj1359-001-p1s4a37">
+<children>
+<LM id="T-wsj1359-001-p1s4a37">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s4W37-Ta</lex.rf>
-<aux.rf>a#a-wsj1359-001-p1s4W36-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1359-001-p1s4W36-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6347f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1766,9 +1912,11 @@
 </gram>
 <deepord>22</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1359-001-p1s4a33</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1359-001-p1s4a38">
@@ -1782,7 +1930,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj1359-001-p1s4a39">
+<children>
+<LM id="T-wsj1359-001-p1s4a39">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s4W38-Ta</lex.rf>
 </a>
@@ -1793,15 +1942,17 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>24</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1359-001-p1s4a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
@@ -1810,13 +1961,17 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The registered importer would be required to bring such vehicles into compliance with the U.S. safety standards, compared with the current situation in which anyone can bring in such vehicles and modify them to meet the U.S. standards.</eng_sentence>
 </LM>
 <LM id="T-wsj1359-001-p1s5">
 <atree.rf>a#a-wsj1359-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1359-001-p1s5a1">
+<children>
+<LM id="T-wsj1359-001-p1s5a1">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s5W2-Ta</lex.rf>
 </a>
@@ -1841,14 +1996,12 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1359-001-p1s1a7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1359-001-p1s5a3">
 <a>
@@ -1877,7 +2030,9 @@
 <LM id="T-wsj1359-001-p1s5a6">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s5W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1359-001-p1s5W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1359-001-p1s5W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>automobil</t_lemma>
@@ -1889,15 +2044,19 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1359-001-p1s4a38</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1359-001-p1s5a8">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s5W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1359-001-p1s5W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1359-001-p1s5W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>trh</t_lemma>
@@ -1933,9 +2092,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1359-001-p1s2a7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1359-001-p1s5a15">
@@ -1995,7 +2156,9 @@
 <LM id="T-wsj1359-001-p1s5a22">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s5W21-Ta</lex.rf>
-<aux.rf>a#a-wsj1359-001-p1s5W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1359-001-p1s5W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>prodejce</t_lemma>
@@ -2028,7 +2191,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1359-001-p1s5a25">
+<children>
+<LM id="T-wsj1359-001-p1s5a25">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s5W22-Ta</lex.rf>
 </a>
@@ -2039,6 +2203,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -2079,9 +2244,11 @@
 </gram>
 <deepord>18</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1359-001-p1s5a17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1359-001-p1s5a49">
@@ -2106,7 +2273,9 @@
 <LM id="T-wsj1359-001-p1s5a32">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s5W39-Ta</lex.rf>
-<aux.rf>a#a-wsj1359-001-p1s5W32-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1359-001-p1s5W32-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9515f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -2177,7 +2346,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>27</deepord>
-<children id="T-wsj1359-001-p1s5a39">
+<children>
+<LM id="T-wsj1359-001-p1s5a39">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s5W37-Ta</lex.rf>
 </a>
@@ -2188,22 +2358,24 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>26</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1359-001-p1s5a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<type>M-tag</type>
-</annot_comment>
 </LM>
 <LM id="T-wsj1359-001-p1s5a42">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s5W43-Ta</lex.rf>
-<aux.rf>a#a-wsj1359-001-p1s5W41-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1359-001-p1s5W41-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6349f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -2272,7 +2444,9 @@
 <LM id="T-wsj1359-001-p1s5a48">
 <a>
 <lex.rf>a#a-wsj1359-001-p1s5W48-Ta</lex.rf>
-<aux.rf>a#a-wsj1359-001-p1s5W47-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1359-001-p1s5W47-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>automobil</t_lemma>
@@ -2284,9 +2458,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1359-001-p1s5a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -2298,6 +2474,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Congress tightened auto safety standards for gray-market imports after U.S. auto dealers, including franchised foreign-car dealers, complained that they often were blamed when the second and third buyers of such vehicles found that the cars couldn't meet U.S. auto safety standards.</eng_sentence>
 </LM>

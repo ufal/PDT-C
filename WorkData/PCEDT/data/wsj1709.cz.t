@@ -2257,12 +2257,6 @@
 <src>LH</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>poses. adj.</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1709-001-p1s8a13">
 <a>

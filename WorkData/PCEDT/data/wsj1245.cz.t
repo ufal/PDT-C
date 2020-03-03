@@ -11,7 +11,8 @@
 <LM id="T-wsj1245-001-p1s0">
 <atree.rf>a#a-wsj1245-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1245-001-p1s0a1">
+<children>
+<LM id="T-wsj1245-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1245-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1245-001-p1s0a28">
+<children>
+<LM id="T-wsj1245-001-p1s0a28">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -82,12 +84,15 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1245-001-p1s0a8">
 <a>
 <lex.rf>a#a-wsj1245-001-p1s0W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1245-001-p1s0W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1245-001-p1s0W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>komise</t_lemma>
@@ -108,15 +113,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1245-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj1245-001-p1s0W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1245-001-p1s0W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1245-001-p1s0W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>služba</t_lemma>
@@ -125,7 +128,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1245-001-p1s0a12">
+<children>
+<LM id="T-wsj1245-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj1245-001-p1s0W11-Ta</lex.rf>
 </a>
@@ -136,6 +140,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -151,10 +156,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1245-001-p1s0a15">
+<children>
+<LM id="T-wsj1245-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj1245-001-p1s0W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1245-001-p1s0W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1245-001-p1s0W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>nákup</t_lemma>
@@ -179,7 +187,9 @@
 <LM id="T-wsj1245-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj1245-001-p1s0W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1245-001-p1s0W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1245-001-p1s0W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>elektrárna</t_lemma>
@@ -213,6 +223,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1245-001-p1s0a23">
@@ -230,7 +241,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1245-001-p1s0a24">
+<children>
+<LM id="T-wsj1245-001-p1s0a24">
 <a>
 <lex.rf>a#a-wsj1245-001-p1s0W25-Ta</lex.rf>
 </a>
@@ -265,7 +277,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj1245-001-p1s0a27">
+<children>
+<LM id="T-wsj1245-001-p1s0a27">
 <a>
 <lex.rf>a#a-wsj1245-001-p1s0W27-Ta</lex.rf>
 </a>
@@ -277,23 +290,29 @@
 </gram>
 <deepord>22</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1245-001-p1s0a18</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Consumers Power Co. filed with the Michigan Public Service Commission a contract to buy power from the Palisades nuclear plant under a proposed new ownership arrangement for the plant.</eng_sentence>
 </LM>
 <LM id="T-wsj1245-001-p1s1">
 <atree.rf>a#a-wsj1245-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1245-001-p1s1a1">
+<children>
+<LM id="T-wsj1245-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1245-001-p1s1W12-Ta</lex.rf>
 </a>
@@ -317,7 +336,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1245-001-p1s1a2">
+<children>
+<LM id="T-wsj1245-001-p1s1a2">
 <a>
 <lex.rf>a#a-wsj1245-001-p1s1W4-Ta</lex.rf>
 </a>
@@ -407,12 +427,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1245-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj1245-001-p1s1W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1245-001-p1s1W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1245-001-p1s1W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -421,7 +444,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1245-001-p1s1a12">
+<children>
+<LM id="T-wsj1245-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj1245-001-p1s1W10-Ta</lex.rf>
 </a>
@@ -432,6 +456,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1245-001-p1s1a13">
@@ -457,9 +482,11 @@
 </gram>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1245-001-p1s1a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1245-001-p1s1a14">
@@ -473,10 +500,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj1245-001-p1s1a16">
+<children>
+<LM id="T-wsj1245-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj1245-001-p1s1W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1245-001-p1s1W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1245-001-p1s1W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>účast</t_lemma>
@@ -511,6 +541,7 @@
 <deepord>18</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1245-001-p1s1a21">
@@ -528,7 +559,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj1245-001-p1s1a22">
+<children>
+<LM id="T-wsj1245-001-p1s1a22">
 <a>
 <lex.rf>a#a-wsj1245-001-p1s1W22-Ta</lex.rf>
 </a>
@@ -539,10 +571,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj1245-001-p1s1a25">
+<children>
+<LM id="T-wsj1245-001-p1s1a25">
 <a>
 <lex.rf>a#a-wsj1245-001-p1s1W28-Ta</lex.rf>
-<aux.rf>a#a-wsj1245-001-p1s1W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1245-001-p1s1W25-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7650f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -557,7 +592,9 @@
 <a>
 <lex.rf>a#a-wsj1245-001-p1s1W24-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1245-001-p1s1a22</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1245-001-p1s1a22</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -626,7 +663,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>29</deepord>
-<children id="T-wsj1245-001-p1s1a32">
+<children>
+<LM id="T-wsj1245-001-p1s1a32">
 <a>
 <lex.rf>a#a-wsj1245-001-p1s1W31-Ta</lex.rf>
 </a>
@@ -637,35 +675,47 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>28</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1245-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <str_comment>
+<LM>
 <name>AMBIG</name>
 <comment>asi</comment>
+</LM>
 </str_comment>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1245-001-p1s0a27</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Consumers Power and Bechtel Power Corp. last year announced a joint venture to buy the plant, currently owned completely by the utility.</eng_sentence>
 </LM>

@@ -902,12 +902,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>nesklonné</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -1298,12 +1292,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>nesklonné</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>

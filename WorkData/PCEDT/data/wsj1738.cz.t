@@ -11,7 +11,8 @@
 <LM id="T-wsj1738-001-p1s0">
 <atree.rf>a#a-wsj1738-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1738-001-p1s0a1">
+<children>
+<LM id="T-wsj1738-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s0W10-Ta</lex.rf>
 </a>
@@ -46,10 +47,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1738-001-p1s0a4">
+<children>
+<LM id="T-wsj1738-001-p1s0a4">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s0W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1738-001-p1s0W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1738-001-p1s0W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5886f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -78,7 +82,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1738-001-p1s0a7">
+<children>
+<LM id="T-wsj1738-001-p1s0a7">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s0W4-Ta</lex.rf>
 </a>
@@ -89,13 +94,17 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1738-001-p1s0a41">
@@ -106,7 +115,8 @@
 <is_member>1</is_member>
 <is_parenthesis>1</is_parenthesis>
 <deepord>7</deepord>
-<children id="T-wsj1738-001-p1s0a8">
+<children>
+<LM id="T-wsj1738-001-p1s0a8">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s0W7-Ta</lex.rf>
 </a>
@@ -118,6 +128,7 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -137,7 +148,9 @@
 <LM id="T-wsj1738-001-p1s0a25">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s0W25-Ta</lex.rf>
-<aux.rf>a#a-wsj1738-001-p1s0W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1738-001-p1s0W12-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1855f8</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -189,7 +202,9 @@
 <a>
 <lex.rf>a#a-wsj1738-001-p1s0W16-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1738-001-p1s0a13</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1738-001-p1s0a13</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -233,14 +248,12 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1738-001-p1s0a42">
 <a>
-<aux.rf>a#a-wsj1738-001-p1s0W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1738-001-p1s0W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -341,9 +354,11 @@
 </gram>
 <deepord>25</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1738-001-p1s0a18</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1738-001-p1s0a34">
@@ -357,10 +372,13 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>27</deepord>
-<children id="T-wsj1738-001-p1s0a36">
+<children>
+<LM id="T-wsj1738-001-p1s0a36">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s0W37-Ta</lex.rf>
-<aux.rf>a#a-wsj1738-001-p1s0W35-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1738-001-p1s0W35-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výkon</t_lemma>
@@ -369,7 +387,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>29</deepord>
-<children id="T-wsj1738-001-p1s0a37">
+<children>
+<LM id="T-wsj1738-001-p1s0a37">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s0W36-Ta</lex.rf>
 </a>
@@ -380,11 +399,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>28</deepord>
+</LM>
 </children>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -394,13 +417,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The Nuclear Regulatory Commission ruled unanimously that the financial troubles facing the Seabrook, N.H., nuclear-power plant have no impact on whether the plant receives a full-power license.</eng_sentence>
 </LM>
 <LM id="T-wsj1738-001-p1s1">
 <atree.rf>a#a-wsj1738-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1738-001-p1s1a1">
+<children>
+<LM id="T-wsj1738-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s1W12-Ta</lex.rf>
 </a>
@@ -499,7 +524,9 @@
 <a>
 <lex.rf>a#a-wsj1738-001-p1s1W7-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1738-001-p1s1a2</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1738-001-p1s1a2</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -511,7 +538,9 @@
 <LM id="T-wsj1738-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s1W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1738-001-p1s1W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1738-001-p1s1W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>oprávnění</t_lemma>
@@ -521,13 +550,17 @@
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1738-001-p1s0a34</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -561,15 +594,19 @@
 </gram>
 <deepord>11</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1738-001-p1s1a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1738-001-p1s1a18">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s1W17-Ta</lex.rf>
-<aux.rf>a#a-wsj1738-001-p1s1W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1738-001-p1s1W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rozhodnutí</t_lemma>
@@ -579,19 +616,25 @@
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1738-001-p1s0a1</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1738-001-p1s1a20">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s1W21-Ta</lex.rf>
-<aux.rf>a#a-wsj1738-001-p1s1W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1738-001-p1s1W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>soud</t_lemma>
@@ -600,7 +643,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1738-001-p1s1a21">
+<children>
+<LM id="T-wsj1738-001-p1s1a21">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s1W20-Ta</lex.rf>
 </a>
@@ -611,18 +655,21 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Massachusetts Attorney General James Shannon, opposing the license, said he will appeal the ruling in federal court.</eng_sentence>
 </LM>
 <LM id="T-wsj1738-001-p1s2">
 <atree.rf>a#a-wsj1738-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1738-001-p1s2a1">
+<children>
+<LM id="T-wsj1738-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s2W4-Ta</lex.rf>
 </a>
@@ -646,7 +693,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1738-001-p1s2a3">
+<children>
+<LM id="T-wsj1738-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -657,7 +705,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1738-001-p1s2a4">
+<children>
+<LM id="T-wsj1738-001-p1s2a4">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s2W3-Ta</lex.rf>
 </a>
@@ -668,16 +717,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1738-001-p1s0a33</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1738-001-p1s2a10">
@@ -710,9 +765,11 @@
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1738-001-p1s2a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1738-001-p1s2a11">
@@ -740,7 +797,9 @@
 <LM id="T-wsj1738-001-p1s2a13">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s2W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1738-001-p1s2W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1738-001-p1s2W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>provoz</t_lemma>
@@ -749,7 +808,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1738-001-p1s2a14">
+<children>
+<LM id="T-wsj1738-001-p1s2a14">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s2W13-Ta</lex.rf>
 </a>
@@ -760,23 +820,30 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1738-001-p1s1a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1738-001-p1s2a16">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s2W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1738-001-p1s2W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1738-001-p1s2W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>konec</t_lemma>
@@ -785,7 +852,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1738-001-p1s2a17">
+<children>
+<LM id="T-wsj1738-001-p1s2a17">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s2W17-Ta</lex.rf>
 </a>
@@ -797,27 +865,34 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>Secondary preposition</type>
 <text>do konce</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>A CPHR({oprávnění})
 Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Seabrook officials said the plant could receive a full-power license by the end of the year.</eng_sentence>
 </LM>
 <LM id="T-wsj1738-001-p1s3">
 <atree.rf>a#a-wsj1738-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1738-001-p1s3a1">
+<children>
+<LM id="T-wsj1738-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s3W2-Ta</lex.rf>
 </a>
@@ -836,7 +911,8 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <t_lemma>#Idph</t_lemma>
 <functor>ACT</functor>
 <deepord>3</deepord>
-<children id="T-wsj1738-001-p1s3a2">
+<children>
+<LM id="T-wsj1738-001-p1s3a2">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s3W1-Ta</lex.rf>
 </a>
@@ -847,11 +923,14 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1738-001-p1s0a5</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1738-001-p1s3a3">
@@ -878,15 +957,19 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1738-001-p1s1a26</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1738-001-p1s3a7">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s3W23-Ta</lex.rf>
-<aux.rf>a#a-wsj1738-001-p1s3W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1738-001-p1s3W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -964,7 +1047,9 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <LM id="T-wsj1738-001-p1s3a14">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s3W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1738-001-p1s3W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1738-001-p1s3W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Hampshire</t_lemma>
@@ -973,7 +1058,8 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj1738-001-p1s3a15">
+<children>
+<LM id="T-wsj1738-001-p1s3a15">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s3W13-Ta</lex.rf>
 </a>
@@ -984,15 +1070,14 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1738-001-p1s0a42</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1738-001-p1s3a16">
@@ -1012,7 +1097,9 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <a>
 <lex.rf>a#a-wsj1738-001-p1s3W16-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1738-001-p1s3a8</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1738-001-p1s3a8</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -1056,7 +1143,8 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1738-001-p1s3a22">
+<children>
+<LM id="T-wsj1738-001-p1s3a22">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s3W21-Ta</lex.rf>
 </a>
@@ -1067,15 +1155,14 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1738-001-p1s2a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -1137,7 +1224,8 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj1738-001-p1s3a30">
+<children>
+<LM id="T-wsj1738-001-p1s3a30">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s3W31-Ta</lex.rf>
 </a>
@@ -1151,7 +1239,9 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <deepord>28</deepord>
 <children>
 <LM id="T-wsj1738-001-p1s3a37">
-<coref_gram.rf>T-wsj1738-001-p1s3a8</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1738-001-p1s3a8</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -1206,31 +1296,38 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 </gram>
 <deepord>31</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1738-001-p1s3a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The NRC rejected Mr. Shannon's argument that Public Service Co. of New Hampshire, which owns the largest share of Seabrook, and 11 other owners are financially unable to guarantee the plant's safe operation.</eng_sentence>
 </LM>
 <LM id="T-wsj1738-001-p1s4">
 <atree.rf>a#a-wsj1738-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1738-001-p1s4a1">
+<children>
+<LM id="T-wsj1738-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s4W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1738-001-p1s4W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1738-001-p1s4W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6234f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1253,9 +1350,11 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1738-001-p1s3a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1738-001-p1s4a8">
@@ -1282,7 +1381,8 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <t_lemma>#Idph</t_lemma>
 <functor>ACT</functor>
 <deepord>5</deepord>
-<children id="T-wsj1738-001-p1s4a9">
+<children>
+<LM id="T-wsj1738-001-p1s4a9">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s4W8-Ta</lex.rf>
 </a>
@@ -1293,17 +1393,22 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1738-001-p1s3a38</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1738-001-p1s4a11">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s4W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1738-001-p1s4W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1738-001-p1s4W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>politika</t_lemma>
@@ -1312,7 +1417,8 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1738-001-p1s4a12">
+<children>
+<LM id="T-wsj1738-001-p1s4a12">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s4W18-Ta</lex.rf>
 </a>
@@ -1329,7 +1435,9 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <a>
 <lex.rf>a#a-wsj1738-001-p1s4W13-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1738-001-p1s4a11</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1738-001-p1s4a11</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -1341,7 +1449,9 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <LM id="T-wsj1738-001-p1s4a16">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s4W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1738-001-p1s4W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1738-001-p1s4W14-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5637f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1362,15 +1472,19 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1738-001-p1s4a22</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1738-001-p1s4a18">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s4W17-Ta</lex.rf>
-<aux.rf>a#a-wsj1738-001-p1s4W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1738-001-p1s4W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>licence</t_lemma>
@@ -1382,8 +1496,10 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1738-001-p1s4a19">
@@ -1397,7 +1513,8 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1738-001-p1s4a20">
+<children>
+<LM id="T-wsj1738-001-p1s4a20">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s4W19-Ta</lex.rf>
 </a>
@@ -1408,21 +1525,25 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>12</deepord>
-</children>
-</LM>
-</children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Mr. Shannon was seeking a waiver of NRC policy that ignores financial considerations in making licensing decisions.</eng_sentence>
 </LM>
 <LM id="T-wsj1738-001-p1s5">
 <atree.rf>a#a-wsj1738-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1738-001-p1s5a1">
+<children>
+<LM id="T-wsj1738-001-p1s5a1">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s5W5-Ta</lex.rf>
 </a>
@@ -1441,7 +1562,8 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <t_lemma>#Idph</t_lemma>
 <functor>ACT</functor>
 <deepord>2</deepord>
-<children id="T-wsj1738-001-p1s5a2">
+<children>
+<LM id="T-wsj1738-001-p1s5a2">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s5W1-Ta</lex.rf>
 </a>
@@ -1452,17 +1574,22 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1738-001-p1s4a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1738-001-p1s5a4">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s5W4-Ta</lex.rf>
-<aux.rf>a#a-wsj1738-001-p1s5W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1738-001-p1s5W2-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rozhodnutí</t_lemma>
@@ -1471,11 +1598,14 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1738-001-p1s5a5">
+<children>
+<LM id="T-wsj1738-001-p1s5a5">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s5W3-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1738-001-p1s5a54</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1738-001-p1s5a54</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -1483,21 +1613,28 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1738-001-p1s1a18</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1738-001-p1s5a20">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s5W36-Ta</lex.rf>
-<aux.rf>a#a-wsj1738-001-p1s5W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1738-001-p1s5W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1538,9 +1675,11 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 </gram>
 <deepord>6</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1738-001-p1s5a5</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1738-001-p1s5a13">
@@ -1554,7 +1693,8 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1738-001-p1s5a14">
+<children>
+<LM id="T-wsj1738-001-p1s5a14">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s5W14-Ta</lex.rf>
 </a>
@@ -1565,11 +1705,14 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1738-001-p1s3a34</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1738-001-p1s5a26">
@@ -1608,15 +1751,19 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 </gram>
 <deepord>10</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1738-001-p1s5a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1738-001-p1s5a23">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s5W21-Ta</lex.rf>
-<aux.rf>a#a-wsj1738-001-p1s5W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1738-001-p1s5W20-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3772f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1627,7 +1774,8 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1738-001-p1s5a24">
+<children>
+<LM id="T-wsj1738-001-p1s5a24">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s5W22-Ta</lex.rf>
 </a>
@@ -1638,7 +1786,8 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1738-001-p1s5a25">
+<children>
+<LM id="T-wsj1738-001-p1s5a25">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s5W23-Ta</lex.rf>
 </a>
@@ -1649,17 +1798,23 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1738-001-p1s5a29">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s5W26-Ta</lex.rf>
-<aux.rf>a#a-wsj1738-001-p1s5W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1738-001-p1s5W25-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7050f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1670,7 +1825,8 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1738-001-p1s5a30">
+<children>
+<LM id="T-wsj1738-001-p1s5a30">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s5W28-Ta</lex.rf>
 </a>
@@ -1697,7 +1853,9 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <LM id="T-wsj1738-001-p1s5a33">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s5W30-Ta</lex.rf>
-<aux.rf>a#a-wsj1738-001-p1s5W29-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1738-001-p1s5W29-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výstavba</t_lemma>
@@ -1708,10 +1866,13 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <deepord>18</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -1726,9 +1887,11 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 </gram>
 <deepord>20</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1738-001-p1s5a52</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1738-001-p1s5a34">
@@ -1742,7 +1905,8 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj1738-001-p1s5a35">
+<children>
+<LM id="T-wsj1738-001-p1s5a35">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s5W33-Ta</lex.rf>
 </a>
@@ -1753,7 +1917,8 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj1738-001-p1s5a36">
+<children>
+<LM id="T-wsj1738-001-p1s5a36">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s5W32-Ta</lex.rf>
 </a>
@@ -1764,7 +1929,9 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>21</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -1782,10 +1949,13 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj1738-001-p1s5a39">
+<children>
+<LM id="T-wsj1738-001-p1s5a39">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s5W40-Ta</lex.rf>
-<aux.rf>a#a-wsj1738-001-p1s5W38-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1738-001-p1s5W38-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>situace</t_lemma>
@@ -1820,6 +1990,7 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <deepord>28</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1738-001-p1s5a42">
@@ -1837,13 +2008,15 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>In its ruling, the NRC said that because Seabrook will be allowed to charge rates sufficient to run the plant and make payments on past construction costs, consideration of the owners' financial condition is pointless.</eng_sentence>
 </LM>
 <LM id="T-wsj1738-001-p1s6">
 <atree.rf>a#a-wsj1738-001-p1s6</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1738-001-p1s6a29">
+<children>
+<LM id="T-wsj1738-001-p1s6a29">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s6W29-Ta</lex.rf>
 </a>
@@ -1881,7 +2054,8 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1738-001-p1s6a4">
+<children>
+<LM id="T-wsj1738-001-p1s6a4">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s6W3-Ta</lex.rf>
 </a>
@@ -1893,16 +2067,21 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1738-001-p1s5a54</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1738-001-p1s6a7">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s6W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1738-001-p1s6W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1738-001-p1s6W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3581f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1931,7 +2110,8 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1738-001-p1s6a9">
+<children>
+<LM id="T-wsj1738-001-p1s6a9">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s6W8-Ta</lex.rf>
 </a>
@@ -1943,6 +2123,7 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1738-001-p1s6a10">
@@ -1956,10 +2137,13 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1738-001-p1s6a39">
+<children>
+<LM id="T-wsj1738-001-p1s6a39">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s6W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1738-001-p1s6W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1738-001-p1s6W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>strana</t_lemma>
@@ -1968,7 +2152,8 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1738-001-p1s6a13">
+<children>
+<LM id="T-wsj1738-001-p1s6a13">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s6W14-Ta</lex.rf>
 </a>
@@ -2003,7 +2188,8 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1738-001-p1s6a16">
+<children>
+<LM id="T-wsj1738-001-p1s6a16">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s6W16-Ta</lex.rf>
 </a>
@@ -2018,7 +2204,9 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <LM id="T-wsj1738-001-p1s6a18">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s6W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1738-001-p1s6W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1738-001-p1s6W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>fond</t_lemma>
@@ -2027,7 +2215,8 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1738-001-p1s6a19">
+<children>
+<LM id="T-wsj1738-001-p1s6a19">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s6W18-Ta</lex.rf>
 </a>
@@ -2038,12 +2227,15 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1738-001-p1s6a20">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s6W23-Ta</lex.rf>
-<aux.rf>a#a-wsj1738-001-p1s6W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1738-001-p1s6W22-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6462f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -2058,7 +2250,9 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <a>
 <lex.rf>a#a-wsj1738-001-p1s6W21-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1738-001-p1s6a16</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1738-001-p1s6a16</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -2070,7 +2264,9 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <LM id="T-wsj1738-001-p1s6a25">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s6W26-Ta</lex.rf>
-<aux.rf>a#a-wsj1738-001-p1s6W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1738-001-p1s6W24-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>provoz</t_lemma>
@@ -2079,7 +2275,8 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1738-001-p1s6a26">
+<children>
+<LM id="T-wsj1738-001-p1s6a26">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s6W25-Ta</lex.rf>
 </a>
@@ -2090,15 +2287,19 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>18</deepord>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
-</children>
+</LM>
 </children>
 </LM>
 </children>
@@ -2123,7 +2324,8 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj1738-001-p1s6a31">
+<children>
+<LM id="T-wsj1738-001-p1s6a31">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s6W31-Ta</lex.rf>
 </a>
@@ -2135,20 +2337,25 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 </gram>
 <deepord>23</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1738-001-p1s6a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>``The commissioners found the circumstances of the case didn't undercut the assurance from government rate setters of available funds adequate for safe operation,'' said a commission spokesman.</eng_sentence>
 </LM>
 <LM id="T-wsj1738-001-p1s7">
 <atree.rf>a#a-wsj1738-001-p1s7</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1738-001-p1s7a36">
+<children>
+<LM id="T-wsj1738-001-p1s7a36">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s7W19-Ta</lex.rf>
 </a>
@@ -2181,7 +2388,9 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <LM id="T-wsj1738-001-p1s7a3">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s7W2-Ta</lex.rf>
-<aux.rf>a#a-wsj1738-001-p1s7W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1738-001-p1s7W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>leden</t_lemma>
@@ -2190,7 +2399,8 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1738-001-p1s7a4">
+<children>
+<LM id="T-wsj1738-001-p1s7a4">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s7W3-Ta</lex.rf>
 </a>
@@ -2201,6 +2411,7 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1738-001-p1s7a5">
@@ -2238,7 +2449,8 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1738-001-p1s7a8">
+<children>
+<LM id="T-wsj1738-001-p1s7a8">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s7W8-Ta</lex.rf>
 </a>
@@ -2249,7 +2461,8 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1738-001-p1s7a9">
+<children>
+<LM id="T-wsj1738-001-p1s7a9">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s7W7-Ta</lex.rf>
 </a>
@@ -2260,14 +2473,18 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1738-001-p1s3a18</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1738-001-p1s7a10">
@@ -2281,10 +2498,13 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1738-001-p1s7a12">
+<children>
+<LM id="T-wsj1738-001-p1s7a12">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s7W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1738-001-p1s7W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1738-001-p1s7W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>ochrana</t_lemma>
@@ -2293,12 +2513,15 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1738-001-p1s7a14">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s7W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1738-001-p1s7W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1738-001-p1s7W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>kapitola</t_lemma>
@@ -2380,7 +2603,9 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <a>
 <lex.rf>a#a-wsj1738-001-p1s7W20-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1738-001-p1s7a1</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1738-001-p1s7a1</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>ACT</functor>
@@ -2401,9 +2626,11 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 </gram>
 <deepord>19</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1738-001-p1s7a5</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1738-001-p1s7a23">
@@ -2420,7 +2647,9 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <deepord>22</deepord>
 <children>
 <LM id="T-wsj1738-001-p1s7a35">
-<coref_gram.rf>T-wsj1738-001-p1s7a22</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1738-001-p1s7a22</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -2430,7 +2659,9 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <LM id="T-wsj1738-001-p1s7a25">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s7W25-Ta</lex.rf>
-<aux.rf>a#a-wsj1738-001-p1s7W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1738-001-p1s7W24-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>provoz</t_lemma>
@@ -2443,7 +2674,9 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <LM id="T-wsj1738-001-p1s7a27">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s7W28-Ta</lex.rf>
-<aux.rf>a#a-wsj1738-001-p1s7W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1738-001-p1s7W26-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>ochrana</t_lemma>
@@ -2468,7 +2701,9 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <LM id="T-wsj1738-001-p1s7a30">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s7W31-Ta</lex.rf>
-<aux.rf>a#a-wsj1738-001-p1s7W29-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1738-001-p1s7W29-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>pře</t_lemma>
@@ -2493,7 +2728,9 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 <LM id="T-wsj1738-001-p1s7a33">
 <a>
 <lex.rf>a#a-wsj1738-001-p1s7W33-Ta</lex.rf>
-<aux.rf>a#a-wsj1738-001-p1s7W32-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1738-001-p1s7W32-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>věřitel</t_lemma>
@@ -2512,6 +2749,7 @@ Elektrárna by mohla získat oprávnění k provozu do konce roku.</text>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>In January 1988, the utility filed for protection under Chapter 11 of the federal Bankruptcy Code, allowing it to continue to operate while protected from creditors' lawsuits.</eng_sentence>
 </LM>

@@ -11,7 +11,8 @@
 <LM id="T-wsj2311-001-p1s0">
 <atree.rf>a#a-wsj2311-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2311-001-p1s0a1">
+<children>
+<LM id="T-wsj2311-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj2311-001-p1s0W10-Ta</lex.rf>
 </a>
@@ -69,7 +70,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj2311-001-p1s0a17">
+<children>
+<LM id="T-wsj2311-001-p1s0a17">
 <a>
 <lex.rf>a#a-wsj2311-001-p1s0W4-Ta</lex.rf>
 </a>
@@ -80,6 +82,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -95,7 +98,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj2311-001-p1s0a7">
+<children>
+<LM id="T-wsj2311-001-p1s0a7">
 <a>
 <lex.rf>a#a-wsj2311-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -106,12 +110,15 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2311-001-p1s0a10">
 <a>
 <lex.rf>a#a-wsj2311-001-p1s0W9-Ta</lex.rf>
-<aux.rf>a#a-wsj2311-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2311-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Paříž</t_lemma>
@@ -148,9 +155,11 @@
 </gram>
 <deepord>11</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2311-001-p1s0a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2311-001-p1s0a12">
@@ -164,7 +173,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj2311-001-p1s0a11">
+<children>
+<LM id="T-wsj2311-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj2311-001-p1s0W11-Ta</lex.rf>
 </a>
@@ -175,12 +185,15 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2311-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj2311-001-p1s0W14-Ta</lex.rf>
-<aux.rf>a#a-wsj2311-001-p1s0W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2311-001-p1s0W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Londýn</t_lemma>
@@ -193,16 +206,20 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>CONCORDE trans-Atlantic flights are $2,400 to Paris and $3,200 to London.</eng_sentence>
 </LM>
 <LM id="T-wsj2311-001-p1s1">
 <atree.rf>a#a-wsj2311-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2311-001-p1s1a1">
+<children>
+<LM id="T-wsj2311-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj2311-001-p1s1W12-Ta</lex.rf>
-<aux.rf>a#a-wsj2311-001-p1s1W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2311-001-p1s1W9-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7449f3</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -223,7 +240,9 @@
 <LM id="T-wsj2311-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj2311-001-p1s1W2-Ta</lex.rf>
-<aux.rf>a#a-wsj2311-001-p1s1W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2311-001-p1s1W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>článek</t_lemma>
@@ -232,9 +251,12 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj2311-001-p1s1a15">
+<children>
+<LM id="T-wsj2311-001-p1s1a15">
 <a>
-<aux.rf>a#a-wsj2311-001-p1s1W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2311-001-p1s1W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -274,7 +296,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj2311-001-p1s1a9">
+<children>
+<LM id="T-wsj2311-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj2311-001-p1s1W8-Ta</lex.rf>
 </a>
@@ -285,13 +308,11 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>7</deepord>
-</children>
-<annot_comment>
-<type>T-lemma</type>
-<text>zkratka</text>
-</annot_comment>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2311-001-p1s1a11">
@@ -305,7 +326,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj2311-001-p1s1a12">
+<children>
+<LM id="T-wsj2311-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj2311-001-p1s1W10-Ta</lex.rf>
 </a>
@@ -316,6 +338,7 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 <bridging>
 <LM>
@@ -343,6 +366,7 @@
 <deepord>11</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>In a Centennial Journal article Oct. 5, the fares were reversed.</eng_sentence>
 </LM>

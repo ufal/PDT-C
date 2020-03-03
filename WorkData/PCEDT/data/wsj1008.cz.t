@@ -11,7 +11,8 @@
 <LM id="T-wsj1008-001-p1s0">
 <atree.rf>a#a-wsj1008-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1008-001-p1s0a1">
+<children>
+<LM id="T-wsj1008-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s0W7-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1008-001-p1s0a37">
+<children>
+<LM id="T-wsj1008-001-p1s0a37">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -91,12 +93,15 @@
 <deepord>7</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1008-001-p1s0a10">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s0W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1008-001-p1s0W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1008-001-p1s0W9-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9501f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -110,7 +115,9 @@
 <LM id="T-wsj1008-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s0W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1008-001-p1s0W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1008-001-p1s0W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>spořitelna</t_lemma>
@@ -186,15 +193,19 @@
 </gram>
 <deepord>16</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1008-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1008-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s0W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1008-001-p1s0W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1008-001-p1s0W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -310,7 +321,9 @@
 <LM id="T-wsj1008-001-p1s0a28">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s0W28-Ta</lex.rf>
-<aux.rf>a#a-wsj1008-001-p1s0W27-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1008-001-p1s0W27-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Houston</t_lemma>
@@ -344,7 +357,9 @@
 <a>
 <lex.rf>a#a-wsj1008-001-p1s0W30-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1008-001-p1s0a46</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1008-001-p1s0a46</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -426,8 +441,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -439,13 +456,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Lawrence Insurance Group Inc. said it acquired United Republic Reinsurance Co., a Houston property and casualty reinsurance company, from United Savings Association of Texas for $28 million.</eng_sentence>
 </LM>
 <LM id="T-wsj1008-001-p1s1">
 <atree.rf>a#a-wsj1008-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1008-001-p1s1a1">
+<children>
+<LM id="T-wsj1008-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s1W5-Ta</lex.rf>
 </a>
@@ -469,7 +488,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1008-001-p1s1a20">
+<children>
+<LM id="T-wsj1008-001-p1s1a20">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -501,11 +521,14 @@
 <deepord>4</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1008-001-p1s0a47</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1008-001-p1s1a5">
@@ -552,11 +575,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1008-001-p1s1a9">
+<children>
+<LM id="T-wsj1008-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s1W8-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1008-001-p1s1a2</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1008-001-p1s1a2</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -564,6 +590,7 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -571,7 +598,9 @@
 <LM id="T-wsj1008-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s1W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1008-001-p1s1W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1008-001-p1s1W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dolar</t_lemma>
@@ -580,7 +609,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1008-001-p1s1a11">
+<children>
+<LM id="T-wsj1008-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s1W11-Ta</lex.rf>
 </a>
@@ -591,6 +621,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1008-001-p1s1a13">
@@ -609,7 +640,9 @@
 <a>
 <lex.rf>a#a-wsj1008-001-p1s1W13-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1008-001-p1s1a2</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1008-001-p1s1a2</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -672,13 +705,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Lawrence Insurance also sold 3.2 million of its shares for $7.125 each to its parent, Lawrence Group Inc.</eng_sentence>
 </LM>
 <LM id="T-wsj1008-001-p1s2">
 <atree.rf>a#a-wsj1008-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1008-001-p1s2a10">
+<children>
+<LM id="T-wsj1008-001-p1s2a10">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s2W13-Ta</lex.rf>
 </a>
@@ -706,7 +741,9 @@
 <LM id="T-wsj1008-001-p1s2a2">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s2W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1008-001-p1s2W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1008-001-p1s2W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>sídlo</t_lemma>
@@ -715,10 +752,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1008-001-p1s2a4">
+<children>
+<LM id="T-wsj1008-001-p1s2a4">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s2W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1008-001-p1s2W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1008-001-p1s2W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>město</t_lemma>
@@ -734,7 +774,8 @@
 <t_lemma>#Forn</t_lemma>
 <functor>ID</functor>
 <deepord>2</deepord>
-<children id="T-wsj1008-001-p1s2a5">
+<children>
+<LM id="T-wsj1008-001-p1s2a5">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s2W8-Ta</lex.rf>
 </a>
@@ -745,12 +786,15 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1008-001-p1s2a7">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s2W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1008-001-p1s2W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1008-001-p1s2W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>stát</t_lemma>
@@ -759,7 +803,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1008-001-p1s2a33">
+<children>
+<LM id="T-wsj1008-001-p1s2a33">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -788,9 +833,11 @@
 <deepord>11</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1008-001-p1s2a31">
@@ -828,9 +875,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1008-001-p1s1a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1008-001-p1s2a11">
@@ -847,7 +896,9 @@
 <deepord>15</deepord>
 <children>
 <LM id="T-wsj1008-001-p1s2a29">
-<coref_gram.rf>T-wsj1008-001-p1s2a12</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1008-001-p1s2a12</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -893,7 +944,9 @@
 <LM id="T-wsj1008-001-p1s2a19">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s2W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1008-001-p1s2W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1008-001-p1s2W18-Ta</LM>
+</aux.rf>
 </a>
 <coref_special>segm</coref_special>
 <nodetype>complex</nodetype>
@@ -903,7 +956,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1008-001-p1s2a20">
+<children>
+<LM id="T-wsj1008-001-p1s2a20">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s2W19-Ta</lex.rf>
 </a>
@@ -914,6 +968,7 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>20</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -921,7 +976,9 @@
 <LM id="T-wsj1008-001-p1s2a22">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s2W22-Ta</lex.rf>
-<aux.rf>a#a-wsj1008-001-p1s2W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1008-001-p1s2W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>pomoc</t_lemma>
@@ -930,10 +987,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj1008-001-p1s2a24">
+<children>
+<LM id="T-wsj1008-001-p1s2a24">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s2W24-Ta</lex.rf>
-<aux.rf>a#a-wsj1008-001-p1s2W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1008-001-p1s2W23-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w953f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -954,9 +1014,11 @@
 </gram>
 <deepord>22</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1008-001-p1s2a29</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1008-001-p1s2a25">
@@ -970,7 +1032,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj1008-001-p1s2a26">
+<children>
+<LM id="T-wsj1008-001-p1s2a26">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s2W26-Ta</lex.rf>
 </a>
@@ -981,7 +1044,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj1008-001-p1s2a34">
+<children>
+<LM id="T-wsj1008-001-p1s2a34">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1013,36 +1077,47 @@
 <deepord>28</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1008-001-p1s0a31</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1008-001-p1s0a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Lawrence Insurance, based in Albany, N.Y., plans to use the $22.5 million in proceeds to help finance the acquisition of United Republic.</eng_sentence>
 </LM>
 <LM id="T-wsj1008-001-p1s3">
 <atree.rf>a#a-wsj1008-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1008-001-p1s3a1">
+<children>
+<LM id="T-wsj1008-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s3W4-Ta</lex.rf>
 </a>
@@ -1078,9 +1153,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1008-001-p1s1a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1008-001-p1s3a3">
@@ -1094,7 +1171,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1008-001-p1s3a4">
+<children>
+<LM id="T-wsj1008-001-p1s3a4">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s3W2-Ta</lex.rf>
 </a>
@@ -1105,17 +1183,22 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1008-001-p1s1a7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1008-001-p1s3a5">
@@ -1129,7 +1212,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1008-001-p1s3a20">
+<children>
+<LM id="T-wsj1008-001-p1s3a20">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1155,11 +1239,14 @@
 <deepord>9</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1008-001-p1s3a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1008-001-p1s3a8">
@@ -1178,7 +1265,9 @@
 <a>
 <lex.rf>a#a-wsj1008-001-p1s3W8-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1008-001-p1s3a5</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1008-001-p1s3a5</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -1190,7 +1279,9 @@
 <LM id="T-wsj1008-001-p1s3a11">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s3W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1008-001-p1s3W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1008-001-p1s3W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -1199,7 +1290,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1008-001-p1s3a21">
+<children>
+<LM id="T-wsj1008-001-p1s3a21">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1228,11 +1320,14 @@
 <deepord>15</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1008-001-p1s2a30</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -1240,13 +1335,16 @@
 <LM id="T-wsj1008-001-p1s3a16">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s3W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1008-001-p1s3W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1008-001-p1s3W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>EFF</functor>
 <deepord>17</deepord>
-<children id="T-wsj1008-001-p1s3a15">
+<children>
+<LM id="T-wsj1008-001-p1s3a15">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s3W15-Ta</lex.rf>
 </a>
@@ -1257,18 +1355,22 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1008-001-p1s3a22">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s3W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1008-001-p1s3W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1008-001-p1s3W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>ORIG</functor>
 <deepord>18</deepord>
-<children id="T-wsj1008-001-p1s3a18">
+<children>
+<LM id="T-wsj1008-001-p1s3a18">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s3W18-Ta</lex.rf>
 </a>
@@ -1279,16 +1381,19 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>19</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>By acquiring the shares, Lawrence Group increased its stake in Lawrence Insurance to 93.2% from 91.2%.</eng_sentence>
 </LM>
 <LM id="T-wsj1008-001-p1s4">
 <atree.rf>a#a-wsj1008-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1008-001-p1s4a1">
+<children>
+<LM id="T-wsj1008-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s4W3-Ta</lex.rf>
 </a>
@@ -1319,7 +1424,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1008-001-p1s4a3">
+<children>
+<LM id="T-wsj1008-001-p1s4a3">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s4W2-Ta</lex.rf>
 </a>
@@ -1331,20 +1437,27 @@
 </gram>
 <deepord>3</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1008-001-p1s3a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <str_comment>
+<LM>
 <name>AMBIG</name>
 <comment>nebo Lawrence Group</comment>
+</LM>
 </str_comment>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1008-001-p1s4a6">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s4W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1008-001-p1s4W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1008-001-p1s4W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3978f11_ZU</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1373,7 +1486,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1008-001-p1s4a18">
+<children>
+<LM id="T-wsj1008-001-p1s4a18">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1405,11 +1519,14 @@
 <deepord>9</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1008-001-p1s4a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1008-001-p1s4a10">
@@ -1465,20 +1582,24 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Lawrence Insurance underwrites mostly primary insurance, a company spokesman said.</eng_sentence>
 </LM>
 <LM id="T-wsj1008-001-p1s5">
 <atree.rf>a#a-wsj1008-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1008-001-p1s5a1">
+<children>
+<LM id="T-wsj1008-001-p1s5a1">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s5W4-Ta</lex.rf>
 </a>
@@ -1502,7 +1623,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1008-001-p1s5a3">
+<children>
+<LM id="T-wsj1008-001-p1s5a3">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s5W1-Ta</lex.rf>
 </a>
@@ -1513,11 +1635,14 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1008-001-p1s4a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1008-001-p1s5a4">
@@ -1543,10 +1668,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1008-001-p1s5a9">
+<children>
+<LM id="T-wsj1008-001-p1s5a9">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s5W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1008-001-p1s5W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1008-001-p1s5W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5686f4</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1561,7 +1689,9 @@
 <a>
 <lex.rf>a#a-wsj1008-001-p1s5W7-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1008-001-p1s5a5</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1008-001-p1s5a5</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -1581,7 +1711,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1008-001-p1s5a11">
+<children>
+<LM id="T-wsj1008-001-p1s5a11">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s5W13-Ta</lex.rf>
 </a>
@@ -1618,19 +1749,23 @@
 <deepord>11</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>A reinsurance company effectively insures insurance companies that wish to spread the risk of a particular policy.</eng_sentence>
 </LM>
 <LM id="T-wsj1008-001-p1s6">
 <atree.rf>a#a-wsj1008-001-p1s6</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1008-001-p1s6a7">
+<children>
+<LM id="T-wsj1008-001-p1s6a7">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s6W5-Ta</lex.rf>
 </a>
@@ -1654,7 +1789,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1008-001-p1s6a27">
+<children>
+<LM id="T-wsj1008-001-p1s6a27">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1680,11 +1816,14 @@
 <deepord>4</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1008-001-p1s3a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1008-001-p1s6a8">
@@ -1717,7 +1856,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1008-001-p1s6a28">
+<children>
+<LM id="T-wsj1008-001-p1s6a28">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1764,6 +1904,7 @@
 <deepord>13</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1008-001-p1s6a1">
@@ -1788,7 +1929,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1008-001-p1s6a14">
+<children>
+<LM id="T-wsj1008-001-p1s6a14">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s6W12-Ta</lex.rf>
 </a>
@@ -1799,6 +1941,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1008-001-p1s6a15">
@@ -1819,7 +1962,9 @@
 <LM id="T-wsj1008-001-p1s6a17">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s6W17-Ta</lex.rf>
-<aux.rf>a#a-wsj1008-001-p1s6W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1008-001-p1s6W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>sídlo</t_lemma>
@@ -1828,10 +1973,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1008-001-p1s6a19">
+<children>
+<LM id="T-wsj1008-001-p1s6a19">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s6W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1008-001-p1s6W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1008-001-p1s6W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>město</t_lemma>
@@ -1847,7 +1995,8 @@
 <t_lemma>#Forn</t_lemma>
 <functor>ID</functor>
 <deepord>20</deepord>
-<children id="T-wsj1008-001-p1s6a20">
+<children>
+<LM id="T-wsj1008-001-p1s6a20">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s6W20-Ta</lex.rf>
 </a>
@@ -1858,12 +2007,15 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1008-001-p1s6a22">
 <a>
 <lex.rf>a#a-wsj1008-001-p1s6W22-Ta</lex.rf>
-<aux.rf>a#a-wsj1008-001-p1s6W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1008-001-p1s6W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>stát</t_lemma>
@@ -1872,7 +2024,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj1008-001-p1s6a29">
+<children>
+<LM id="T-wsj1008-001-p1s6a29">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1901,22 +2054,24 @@
 <deepord>25</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1008-001-p1s2a7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Lawrence Group also owns Lawrence Agency Corp., Schenectady, N.Y., an insurance agency and brokerage.</eng_sentence>
 </LM>

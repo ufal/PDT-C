@@ -11,7 +11,8 @@
 <LM id="T-wsj2247-001-p1s0">
 <atree.rf>a#a-wsj2247-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2247-001-p1s0a1">
+<children>
+<LM id="T-wsj2247-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -42,7 +43,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj2247-001-p1s0a39">
+<children>
+<LM id="T-wsj2247-001-p1s0a39">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -92,6 +94,7 @@
 <deepord>7</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2247-001-p1s0a9">
@@ -106,7 +109,9 @@
 <LM id="T-wsj2247-001-p1s0a10">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s0W9-Ta</lex.rf>
-<aux.rf>a#a-wsj2247-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2247-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6275f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -117,10 +122,13 @@
 <sempos>v</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj2247-001-p1s0a12">
+<children>
+<LM id="T-wsj2247-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s0W11-Ta</lex.rf>
-<aux.rf>a#a-wsj2247-001-p1s0W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2247-001-p1s0W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>nákup</t_lemma>
@@ -129,7 +137,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj2247-001-p1s0a15">
+<children>
+<LM id="T-wsj2247-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s0W13-Ta</lex.rf>
 </a>
@@ -171,7 +180,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj2247-001-p1s0a42">
+<children>
+<LM id="T-wsj2247-001-p1s0a42">
 <a/>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -225,6 +235,7 @@
 <deepord>19</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2247-001-p1s0a21">
@@ -252,14 +263,18 @@
 </gram>
 <deepord>21</deepord>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj2247-001-p1s0a24">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s0W24-Ta</lex.rf>
-<aux.rf>a#a-wsj2247-001-p1s0W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2247-001-p1s0W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>počet</t_lemma>
@@ -300,7 +315,9 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2247-001-p1s0a41">
@@ -313,15 +330,19 @@
 </gram>
 <deepord>10</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2247-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2247-001-p1s0a28">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s0W28-Ta</lex.rf>
-<aux.rf>a#a-wsj2247-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2247-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5060f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -366,9 +387,11 @@
 </gram>
 <deepord>29</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2247-001-p1s0a44</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2247-001-p1s0a32">
@@ -386,7 +409,9 @@
 <LM id="T-wsj2247-001-p1s0a34">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s0W34-Ta</lex.rf>
-<aux.rf>a#a-wsj2247-001-p1s0W33-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2247-001-p1s0W33-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výše</t_lemma>
@@ -395,7 +420,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>32</deepord>
-<children id="T-wsj2247-001-p1s0a36">
+<children>
+<LM id="T-wsj2247-001-p1s0a36">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s0W36-Ta</lex.rf>
 </a>
@@ -432,7 +458,6 @@
 <deepord>35</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
@@ -441,13 +466,17 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Gitano Group Inc. said it agreed to buy 50% of Regatta Sport Ltd., a closely held apparel maker, with the assumption of $3 million of contingent debt.</eng_sentence>
 </LM>
 <LM id="T-wsj2247-001-p1s1">
 <atree.rf>a#a-wsj2247-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2247-001-p1s1a33">
+<children>
+<LM id="T-wsj2247-001-p1s1a33">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s1W4-Ta</lex.rf>
 </a>
@@ -463,7 +492,9 @@
 <LM id="T-wsj2247-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s1W3-Ta</lex.rf>
-<aux.rf>a#a-wsj2247-001-p1s1W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2247-001-p1s1W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>podmínka</t_lemma>
@@ -472,7 +503,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj2247-001-p1s1a4">
+<children>
+<LM id="T-wsj2247-001-p1s1a4">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -483,12 +515,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2247-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s1W6-Ta</lex.rf>
-<aux.rf>a#a-wsj2247-001-p1s1W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2247-001-p1s1W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>ustanovení</t_lemma>
@@ -497,7 +532,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj2247-001-p1s1a7">
+<children>
+<LM id="T-wsj2247-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s1W7-Ta</lex.rf>
 </a>
@@ -508,10 +544,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj2247-001-p1s1a10">
@@ -552,9 +591,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2247-001-p1s0a41</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2247-001-p1s1a9">
@@ -568,7 +609,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj2247-001-p1s1a8">
+<children>
+<LM id="T-wsj2247-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s1W12-Ta</lex.rf>
 </a>
@@ -582,7 +624,9 @@
 <deepord>10</deepord>
 <children>
 <LM id="T-wsj2247-001-p1s1a34">
-<coref_gram.rf>T-wsj2247-001-p1s1a10</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj2247-001-p1s1a10</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -663,7 +707,9 @@
 <a>
 <lex.rf>a#a-wsj2247-001-p1s1W19-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj2247-001-p1s1a14</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj2247-001-p1s1a14</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -683,7 +729,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj2247-001-p1s1a22">
+<children>
+<LM id="T-wsj2247-001-p1s1a22">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s1W25-Ta</lex.rf>
 </a>
@@ -759,7 +806,9 @@
 <LM id="T-wsj2247-001-p1s1a29">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s1W30-Ta</lex.rf>
-<aux.rf>a#a-wsj2247-001-p1s1W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2247-001-p1s1W28-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dům</t_lemma>
@@ -768,7 +817,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>27</deepord>
-<children id="T-wsj2247-001-p1s1a30">
+<children>
+<LM id="T-wsj2247-001-p1s1a30">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s1W29-Ta</lex.rf>
 </a>
@@ -779,39 +829,48 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>26</deepord>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2247-001-p1s0a31</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Under the terms of the contract, New York-based Gitano has the option to acquire the remaining 50% of Regatta, a maker of men's and women's clothes sold primarily in department stores, under certain conditions.</eng_sentence>
 </LM>
 <LM id="T-wsj2247-001-p1s2">
 <atree.rf>a#a-wsj2247-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2247-001-p1s2a7">
+<children>
+<LM id="T-wsj2247-001-p1s2a7">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s2W5-Ta</lex.rf>
 </a>
@@ -859,9 +918,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2247-001-p1s1a17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2247-001-p1s2a8">
@@ -898,7 +959,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj2247-001-p1s2a3">
+<children>
+<LM id="T-wsj2247-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s2W6-Ta</lex.rf>
 </a>
@@ -909,6 +971,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2247-001-p1s2a1">
@@ -946,7 +1009,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj2247-001-p1s2a12">
+<children>
+<LM id="T-wsj2247-001-p1s2a12">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s2W11-Ta</lex.rf>
 </a>
@@ -957,6 +1021,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2247-001-p1s2a13">
@@ -970,7 +1035,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj2247-001-p1s2a14">
+<children>
+<LM id="T-wsj2247-001-p1s2a14">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s2W14-Ta</lex.rf>
 </a>
@@ -981,11 +1047,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2247-001-p1s1a20</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -993,7 +1062,9 @@
 <LM id="T-wsj2247-001-p1s2a15">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s2W20-Ta</lex.rf>
-<aux.rf>a#a-wsj2247-001-p1s2W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2247-001-p1s2W17-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5879f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1008,7 +1079,9 @@
 <a>
 <lex.rf>a#a-wsj2247-001-p1s2W16-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj2247-001-p1s2a29</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj2247-001-p1s2a29</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -1016,10 +1089,6 @@
 <sempos>n.pron.indef</sempos>
 </gram>
 <deepord>15</deepord>
-<annot_comment>
-<type>M-tag</type>
-<text>nominativ</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj2247-001-p1s2a19">
 <a>
@@ -1032,7 +1101,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj2247-001-p1s2a20">
+<children>
+<LM id="T-wsj2247-001-p1s2a20">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s2W19-Ta</lex.rf>
 </a>
@@ -1044,10 +1114,13 @@
 </gram>
 <deepord>17</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2247-001-p1s2a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2247-001-p1s2a23">
@@ -1062,7 +1135,9 @@
 <LM id="T-wsj2247-001-p1s2a22">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s2W24-Ta</lex.rf>
-<aux.rf>a#a-wsj2247-001-p1s2W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2247-001-p1s2W22-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5059f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1085,9 +1160,11 @@
 </gram>
 <deepord>20</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2247-001-p1s2a20</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2247-001-p1s2a25">
@@ -1101,7 +1178,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj2247-001-p1s2a26">
+<children>
+<LM id="T-wsj2247-001-p1s2a26">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s2W26-Ta</lex.rf>
 </a>
@@ -1112,17 +1190,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2247-001-p1s1a34</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -1130,17 +1213,15 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<type>M-lemma</type>
-<text>sloveso - ne adjektivum</text>
-</annot_comment>
+</LM>
 </children>
 <eng_sentence>That 50% is now held by Clifford Parker, Regatta's president and chief executive officer, who will continue to manage Regatta's operations under Gitano.</eng_sentence>
 </LM>
 <LM id="T-wsj2247-001-p1s3">
 <atree.rf>a#a-wsj2247-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2247-001-p1s3a2">
+<children>
+<LM id="T-wsj2247-001-p1s3a2">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s3W2-Ta</lex.rf>
 </a>
@@ -1172,9 +1253,11 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2247-001-p1s2a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2247-001-p1s3a1">
@@ -1189,7 +1272,9 @@
 <LM id="T-wsj2247-001-p1s3a8">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s3W6-Ta</lex.rf>
-<aux.rf>a#a-wsj2247-001-p1s3W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2247-001-p1s3W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -1198,7 +1283,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj2247-001-p1s3a9">
+<children>
+<LM id="T-wsj2247-001-p1s3a9">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s3W7-Ta</lex.rf>
 </a>
@@ -1209,12 +1295,15 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2247-001-p1s3a6">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s3W8-Ta</lex.rf>
-<aux.rf>a#a-wsj2247-001-p1s3W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2247-001-p1s3W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4956f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1237,7 +1326,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj2247-001-p1s3a11">
+<children>
+<LM id="T-wsj2247-001-p1s3a11">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s3W10-Ta</lex.rf>
 </a>
@@ -1248,7 +1338,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj2247-001-p1s3a12">
+<children>
+<LM id="T-wsj2247-001-p1s3a12">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s3W11-Ta</lex.rf>
 </a>
@@ -1259,12 +1350,16 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2247-001-p1s2a24</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2247-001-p1s3a15">
@@ -1310,7 +1405,9 @@
 <LM id="T-wsj2247-001-p1s3a18">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s3W19-Ta</lex.rf>
-<aux.rf>a#a-wsj2247-001-p1s3W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2247-001-p1s3W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8000f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1334,9 +1431,11 @@
 </gram>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2247-001-p1s3a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2247-001-p1s3a20">
@@ -1356,13 +1455,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>In 1989, Regatta will have sales ``in excess of $10 million'' and will show a profit, Mr. Parker said.</eng_sentence>
 </LM>
 <LM id="T-wsj2247-001-p1s4">
 <atree.rf>a#a-wsj2247-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2247-001-p1s4a1">
+<children>
+<LM id="T-wsj2247-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s4W20-Ta</lex.rf>
 </a>
@@ -1416,7 +1517,9 @@
 <a>
 <lex.rf>a#a-wsj2247-001-p1s4W4-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj2247-001-p1s4a2</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj2247-001-p1s4a2</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -1477,7 +1580,8 @@
 <functor>LOC</functor>
 <is_member>1</is_member>
 <deepord>9</deepord>
-<children id="T-wsj2247-001-p1s4a15">
+<children>
+<LM id="T-wsj2247-001-p1s4a15">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s4W15-Ta</lex.rf>
 </a>
@@ -1514,10 +1618,6 @@
 <t_lemma>K</t_lemma>
 <functor>FPHR</functor>
 <deepord>15</deepord>
-<annot_comment>
-<type>M-tag</type>
-<text>není předložka</text>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1533,10 +1633,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj2247-001-p1s4a17">
+<children>
+<LM id="T-wsj2247-001-p1s4a17">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s4W16-Ta</lex.rf>
-<aux.rf>a#a-wsj2247-001-p1s4W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2247-001-p1s4W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>dphr</nodetype>
 <t_lemma>Wal_-</t_lemma>
@@ -1545,15 +1648,19 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2247-001-p1s4a12">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s4W11-Ta</lex.rf>
-<aux.rf>a#a-wsj2247-001-p1s4W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2247-001-p1s4W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>řetězec</t_lemma>
@@ -1579,23 +1686,29 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2247-001-p1s2a25</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2247-001-p1s4a23">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s4W26-Ta</lex.rf>
-<aux.rf>a#a-wsj2247-001-p1s4W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2247-001-p1s4W22-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3623f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1617,7 +1730,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj2247-001-p1s4a25">
+<children>
+<LM id="T-wsj2247-001-p1s4a25">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s4W24-Ta</lex.rf>
 </a>
@@ -1628,7 +1742,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj2247-001-p1s4a26">
+<children>
+<LM id="T-wsj2247-001-p1s4a26">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s4W25-Ta</lex.rf>
 </a>
@@ -1639,12 +1754,16 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2247-001-p1s3a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2247-001-p1s4a28">
@@ -1671,9 +1790,11 @@
 </gram>
 <deepord>24</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2247-001-p1s4a6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2247-001-p1s4a27">
@@ -1690,7 +1811,9 @@
 <deepord>26</deepord>
 <children>
 <LM id="T-wsj2247-001-p1s4a34">
-<coref_gram.rf>T-wsj2247-001-p1s4a29</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj2247-001-p1s4a29</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -1700,7 +1823,9 @@
 <LM id="T-wsj2247-001-p1s4a31">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s4W32-Ta</lex.rf>
-<aux.rf>a#a-wsj2247-001-p1s4W30-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2247-001-p1s4W30-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dům</t_lemma>
@@ -1709,7 +1834,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>28</deepord>
-<children id="T-wsj2247-001-p1s4a32">
+<children>
+<LM id="T-wsj2247-001-p1s4a32">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s4W31-Ta</lex.rf>
 </a>
@@ -1720,7 +1846,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>27</deepord>
-</children>
 </LM>
 </children>
 </LM>
@@ -1729,13 +1854,17 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Gitano, which makes budget-priced apparel sold mainly through mass merchandisers like K mart and Wal-Mart, said the Regatta acquisition will enhance its strategy to expand into department stores.</eng_sentence>
 </LM>
 <LM id="T-wsj2247-001-p1s5">
 <atree.rf>a#a-wsj2247-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2247-001-p1s5a1">
+<children>
+<LM id="T-wsj2247-001-p1s5a1">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s5W3-Ta</lex.rf>
 </a>
@@ -1759,7 +1888,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj2247-001-p1s5a2">
+<children>
+<LM id="T-wsj2247-001-p1s5a2">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s5W2-Ta</lex.rf>
 </a>
@@ -1770,17 +1900,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2247-001-p1s4a34</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2247-001-p1s5a5">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s5W5-Ta</lex.rf>
-<aux.rf>a#a-wsj2247-001-p1s5W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2247-001-p1s5W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>podzim</t_lemma>
@@ -1804,7 +1939,9 @@
 <deepord>6</deepord>
 <children>
 <LM id="T-wsj2247-001-p1s5a19">
-<coref_gram.rf>T-wsj2247-001-p1s5a3</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj2247-001-p1s5a3</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -1822,10 +1959,13 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj2247-001-p1s5a9">
+<children>
+<LM id="T-wsj2247-001-p1s5a9">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s5W10-Ta</lex.rf>
-<aux.rf>a#a-wsj2247-001-p1s5W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2247-001-p1s5W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>cena</t_lemma>
@@ -1834,7 +1974,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj2247-001-p1s5a10">
+<children>
+<LM id="T-wsj2247-001-p1s5a10">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s5W9-Ta</lex.rf>
 </a>
@@ -1845,17 +1986,23 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj2247-001-p1s5a12">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s5W12-Ta</lex.rf>
-<aux.rf>a#a-wsj2247-001-p1s5W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2247-001-p1s5W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>značka</t_lemma>
@@ -1921,16 +2068,20 @@
 </gram>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2247-001-p1s5a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2247-001-p1s5a17">
 <a>
 <lex.rf>a#a-wsj2247-001-p1s5W16-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj2247-001-p1s5a12</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj2247-001-p1s5a12</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -1958,6 +2109,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>This fall, Gitano began manufacturing moderately priced clothes aimed at department stores under the Gloria Vanderbilt trademark, which Gitano recently acquired.</eng_sentence>
 </LM>

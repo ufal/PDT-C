@@ -11,7 +11,8 @@
 <LM id="T-wsj1539-001-p1s0">
 <atree.rf>a#a-wsj1539-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1539-001-p1s0a1">
+<children>
+<LM id="T-wsj1539-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s0W9-Ta</lex.rf>
 </a>
@@ -96,7 +97,9 @@
 <LM id="T-wsj1539-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s0W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1539-001-p1s0W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1539-001-p1s0W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Minneapolis</t_lemma>
@@ -111,7 +114,9 @@
 <LM id="T-wsj1539-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s0W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1539-001-p1s0W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1539-001-p1s0W11-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w10862f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -134,9 +139,11 @@
 </gram>
 <deepord>10</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1539-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1539-001-p1s0a14">
@@ -180,7 +187,9 @@
 <LM id="T-wsj1539-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s0W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1539-001-p1s0W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1539-001-p1s0W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rozsudek</t_lemma>
@@ -219,7 +228,9 @@
 <LM id="T-wsj1539-001-p1s0a27">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s0W23-Ta</lex.rf>
-<aux.rf>a#a-wsj1539-001-p1s0W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1539-001-p1s0W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>prospěch</t_lemma>
@@ -228,7 +239,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1539-001-p1s0a28">
+<children>
+<LM id="T-wsj1539-001-p1s0a28">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s0W22-Ta</lex.rf>
 </a>
@@ -240,22 +252,27 @@
 </gram>
 <deepord>18</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1539-001-p1s0a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>SciMed Life Systems Inc., Minneapolis, said a federal appeals court vacated an earlier summary judgment in its favor.</eng_sentence>
 </LM>
 <LM id="T-wsj1539-001-p1s1">
 <atree.rf>a#a-wsj1539-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1539-001-p1s1a1">
+<children>
+<LM id="T-wsj1539-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s1W10-Ta</lex.rf>
 </a>
@@ -301,7 +318,9 @@
 </LM>
 <LM id="T-wsj1539-001-p1s1a38">
 <a>
-<aux.rf>a#a-wsj1539-001-p1s1W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1539-001-p1s1W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -349,7 +368,9 @@
 <LM id="T-wsj1539-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s1W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1539-001-p1s1W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1539-001-p1s1W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>září</t_lemma>
@@ -358,7 +379,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1539-001-p1s1a10">
+<children>
+<LM id="T-wsj1539-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s1W9-Ta</lex.rf>
 </a>
@@ -369,12 +391,15 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1539-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s1W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1539-001-p1s1W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1539-001-p1s1W12-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3929f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -403,7 +428,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1539-001-p1s1a15">
+<children>
+<LM id="T-wsj1539-001-p1s1a15">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s1W15-Ta</lex.rf>
 </a>
@@ -438,7 +464,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1539-001-p1s1a18">
+<children>
+<LM id="T-wsj1539-001-p1s1a18">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s1W17-Ta</lex.rf>
 </a>
@@ -449,14 +476,18 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1539-001-p1s0a28</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1539-001-p1s1a19">
@@ -470,7 +501,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1539-001-p1s1a20">
+<children>
+<LM id="T-wsj1539-001-p1s1a20">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s1W22-Ta</lex.rf>
 </a>
@@ -487,7 +519,9 @@
 <a>
 <lex.rf>a#a-wsj1539-001-p1s1W21-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1539-001-p1s1a19</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1539-001-p1s1a19</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -517,7 +551,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj1539-001-p1s1a35">
+<children>
+<LM id="T-wsj1539-001-p1s1a35">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -555,6 +590,7 @@
 <deepord>25</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1539-001-p1s1a28">
@@ -569,7 +605,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>27</deepord>
-<children id="T-wsj1539-001-p1s1a29">
+<children>
+<LM id="T-wsj1539-001-p1s1a29">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s1W29-Ta</lex.rf>
 </a>
@@ -580,7 +617,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>28</deepord>
-<children id="T-wsj1539-001-p1s1a40">
+<children>
+<LM id="T-wsj1539-001-p1s1a40">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -630,24 +668,29 @@
 <deepord>33</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>A lower court in St. Paul had ruled in September 1988 that a heart catheter SciMed manufactures doesn't infringe on a patent owned by Advanced Cardiovascular Systems, a unit of Eli Lilly &amp; Co.</eng_sentence>
 </LM>
 <LM id="T-wsj1539-001-p1s2">
 <atree.rf>a#a-wsj1539-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1539-001-p1s2a1">
+<children>
+<LM id="T-wsj1539-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s2W3-Ta</lex.rf>
 </a>
@@ -671,7 +714,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1539-001-p1s2a3">
+<children>
+<LM id="T-wsj1539-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -682,17 +726,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1539-001-p1s1a17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1539-001-p1s2a6">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s2W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1539-001-p1s2W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1539-001-p1s2W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7705f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -714,7 +763,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1539-001-p1s2a8">
+<children>
+<LM id="T-wsj1539-001-p1s2a8">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s2W6-Ta</lex.rf>
 </a>
@@ -725,11 +775,14 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1539-001-p1s0a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1539-001-p1s2a9">
@@ -768,7 +821,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1539-001-p1s2a11">
+<children>
+<LM id="T-wsj1539-001-p1s2a11">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s2W11-Ta</lex.rf>
 </a>
@@ -779,17 +833,22 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1539-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1539-001-p1s2a14">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s2W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1539-001-p1s2W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1539-001-p1s2W13-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4382f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -810,9 +869,11 @@
 </gram>
 <deepord>11</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1539-001-p1s2a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1539-001-p1s2a17">
@@ -825,9 +886,11 @@
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1539-001-p1s2a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1539-001-p1s2a15">
@@ -844,20 +907,24 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>SciMed said the appeals court remanded the case back to the district court for further proceedings.</eng_sentence>
 </LM>
 <LM id="T-wsj1539-001-p1s3">
 <atree.rf>a#a-wsj1539-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1539-001-p1s3a1">
+<children>
+<LM id="T-wsj1539-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s3W6-Ta</lex.rf>
 </a>
@@ -873,7 +940,9 @@
 <LM id="T-wsj1539-001-p1s3a3">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s3W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1539-001-p1s3W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1539-001-p1s3W1-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2482f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -936,8 +1005,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1539-001-p1s3a7">
@@ -951,7 +1022,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1539-001-p1s3a8">
+<children>
+<LM id="T-wsj1539-001-p1s3a8">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s3W8-Ta</lex.rf>
 </a>
@@ -962,7 +1034,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1539-001-p1s3a9">
+<children>
+<LM id="T-wsj1539-001-p1s3a9">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s3W9-Ta</lex.rf>
 </a>
@@ -973,18 +1046,24 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1539-001-p1s2a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1539-001-p1s3a12">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s3W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1539-001-p1s3W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1539-001-p1s3W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dolar</t_lemma>
@@ -993,7 +1072,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1539-001-p1s3a11">
+<children>
+<LM id="T-wsj1539-001-p1s3a11">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s3W11-Ta</lex.rf>
 </a>
@@ -1004,12 +1084,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1539-001-p1s3a15">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s3W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1539-001-p1s3W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1539-001-p1s3W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dolar</t_lemma>
@@ -1018,7 +1101,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj1539-001-p1s3a14">
+<children>
+<LM id="T-wsj1539-001-p1s3a14">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s3W14-Ta</lex.rf>
 </a>
@@ -1029,16 +1113,19 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>In national over-the-counter trading Friday, SciMed shares tumbled $2.75 to $43.</eng_sentence>
 </LM>
 <LM id="T-wsj1539-001-p1s4">
 <atree.rf>a#a-wsj1539-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1539-001-p1s4a1">
+<children>
+<LM id="T-wsj1539-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s4W3-Ta</lex.rf>
 </a>
@@ -1062,7 +1149,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1539-001-p1s4a3">
+<children>
+<LM id="T-wsj1539-001-p1s4a3">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s4W2-Ta</lex.rf>
 </a>
@@ -1073,17 +1161,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1539-001-p1s3a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1539-001-p1s4a6">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s4W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1539-001-p1s4W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1539-001-p1s4W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1104,9 +1197,11 @@
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1539-001-p1s4a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1539-001-p1s4a8">
@@ -1132,7 +1227,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1539-001-p1s4a10">
+<children>
+<LM id="T-wsj1539-001-p1s4a10">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s4W10-Ta</lex.rf>
 </a>
@@ -1146,7 +1242,9 @@
 <deepord>9</deepord>
 <children>
 <LM id="T-wsj1539-001-p1s4a49">
-<coref_gram.rf>T-wsj1539-001-p1s4a54</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1539-001-p1s4a54</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -1156,7 +1254,9 @@
 <LM id="T-wsj1539-001-p1s4a20">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s4W28-Ta</lex.rf>
-<aux.rf>a#a-wsj1539-001-p1s4W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1539-001-p1s4W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>coap</nodetype>
 <t_lemma>jak_tak</t_lemma>
@@ -1207,7 +1307,9 @@
 <a>
 <lex.rf>a#a-wsj1539-001-p1s4W17-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1539-001-p1s4a49</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1539-001-p1s4a49</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -1219,7 +1321,9 @@
 <LM id="T-wsj1539-001-p1s4a13">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s4W22-Ta</lex.rf>
-<aux.rf>a#a-wsj1539-001-p1s4W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1539-001-p1s4W20-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3931f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1260,7 +1364,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1539-001-p1s4a16">
+<children>
+<LM id="T-wsj1539-001-p1s4a16">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s4W24-Ta</lex.rf>
 </a>
@@ -1271,7 +1376,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1539-001-p1s4a17">
+<children>
+<LM id="T-wsj1539-001-p1s4a17">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s4W25-Ta</lex.rf>
 </a>
@@ -1282,7 +1388,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1539-001-p1s4a18">
+<children>
+<LM id="T-wsj1539-001-p1s4a18">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s4W26-Ta</lex.rf>
 </a>
@@ -1293,27 +1400,32 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>nesklonné</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1539-001-p1s1a29</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1539-001-p1s1a27</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1539-001-p1s1a22</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -1334,7 +1446,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj1539-001-p1s4a31">
+<children>
+<LM id="T-wsj1539-001-p1s4a31">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s4W31-Ta</lex.rf>
 </a>
@@ -1375,7 +1488,9 @@
 <a>
 <lex.rf>a#a-wsj1539-001-p1s4W33-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1539-001-p1s4a30</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1539-001-p1s4a30</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>kde</t_lemma>
 <functor>LOC</functor>
@@ -1394,9 +1509,11 @@
 </gram>
 <deepord>27</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1539-001-p1s4a28</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1539-001-p1s4a37">
@@ -1427,7 +1544,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>28</deepord>
-<children id="T-wsj1539-001-p1s4a40">
+<children>
+<LM id="T-wsj1539-001-p1s4a40">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s4W39-Ta</lex.rf>
 </a>
@@ -1438,15 +1556,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>29</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>nesklonné</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1539-001-p1s4a17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1539-001-p1s4a42">
@@ -1482,9 +1599,11 @@
 </gram>
 <deepord>31</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1539-001-p1s4a39</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1539-001-p1s4a43">
@@ -1498,7 +1617,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>34</deepord>
-<children id="T-wsj1539-001-p1s4a44">
+<children>
+<LM id="T-wsj1539-001-p1s4a44">
 <a>
 <lex.rf>a#a-wsj1539-001-p1s4W42-Ta</lex.rf>
 </a>
@@ -1509,12 +1629,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>33</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1539-001-p1s4a45">
@@ -1563,16 +1686,19 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>SciMed said it ``remains committed'' both to the ``vigorous defense'' of its position that the catheter doesn't infringe the Lilly unit's patent, and to the pursuit of its own counterclaims, which allege Lilly engaged in antitrust violations and other wrongful acts.</eng_sentence>
 </LM>

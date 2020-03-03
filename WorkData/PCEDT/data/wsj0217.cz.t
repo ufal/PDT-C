@@ -11,7 +11,8 @@
 <LM id="T-wsj0217-001-p1s0">
 <atree.rf>a#a-wsj0217-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0217-001-p1s0a1">
+<children>
+<LM id="T-wsj0217-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0217-001-p1s0W5-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0217-001-p1s0a36">
+<children>
+<LM id="T-wsj0217-001-p1s0a36">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -76,6 +78,7 @@
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0217-001-p1s0a20">
@@ -119,9 +122,11 @@
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0217-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0217-001-p1s0a11">
@@ -181,7 +186,9 @@
 <LM id="T-wsj0217-001-p1s0a30">
 <a>
 <lex.rf>a#a-wsj0217-001-p1s0W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0217-001-p1s0W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0217-001-p1s0W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Florence</t_lemma>
@@ -190,10 +197,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj0217-001-p1s0a32">
+<children>
+<LM id="T-wsj0217-001-p1s0a32">
 <a>
 <lex.rf>a#a-wsj0217-001-p1s0W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0217-001-p1s0W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0217-001-p1s0W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Kentucky</t_lemma>
@@ -202,9 +212,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
+</LM>
 </children>
 </LM>
 </children>
@@ -236,7 +244,9 @@
 <LM id="T-wsj0217-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj0217-001-p1s0W22-Ta</lex.rf>
-<aux.rf>a#a-wsj0217-001-p1s0W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0217-001-p1s0W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>duben</t_lemma>
@@ -260,15 +270,19 @@
 </gram>
 <deepord>19</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0217-001-p1s0a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0217-001-p1s0a23">
 <a>
 <lex.rf>a#a-wsj0217-001-p1s0W27-Ta</lex.rf>
-<aux.rf>a#a-wsj0217-001-p1s0W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0217-001-p1s0W26-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>transakce</t_lemma>
@@ -277,10 +291,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj0217-001-p1s0a25">
+<children>
+<LM id="T-wsj0217-001-p1s0a25">
 <a>
 <lex.rf>a#a-wsj0217-001-p1s0W29-Ta</lex.rf>
-<aux.rf>a#a-wsj0217-001-p1s0W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0217-001-p1s0W28-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodnota</t_lemma>
@@ -289,7 +306,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj0217-001-p1s0a27">
+<children>
+<LM id="T-wsj0217-001-p1s0a27">
 <a>
 <lex.rf>a#a-wsj0217-001-p1s0W31-Ta</lex.rf>
 </a>
@@ -326,19 +344,23 @@
 <deepord>25</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Liberty National Bancorp said its acquisition of Florence Deposit Bank, Florence, Ky., first announced in April, has been completed in a transaction valued at $13.1 million.</eng_sentence>
 </LM>
 <LM id="T-wsj0217-001-p1s1">
 <atree.rf>a#a-wsj0217-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0217-001-p1s1a1">
+<children>
+<LM id="T-wsj0217-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0217-001-p1s1W4-Ta</lex.rf>
 </a>
@@ -362,7 +384,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0217-001-p1s1a20">
+<children>
+<LM id="T-wsj0217-001-p1s1a20">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -394,11 +417,14 @@
 <deepord>4</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0217-001-p1s0a34</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0217-001-p1s1a7">
@@ -424,7 +450,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0217-001-p1s1a6">
+<children>
+<LM id="T-wsj0217-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj0217-001-p1s1W5-Ta</lex.rf>
 </a>
@@ -435,13 +462,16 @@
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0217-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj0217-001-p1s1W7-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0217-001-p1s1a2</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0217-001-p1s1a2</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -467,7 +497,9 @@
 <LM id="T-wsj0217-001-p1s1a21">
 <a>
 <lex.rf>a#a-wsj0217-001-p1s1W14-Ta</lex.rf>
-<aux.rf>a#a-wsj0217-001-p1s1W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0217-001-p1s1W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
@@ -477,7 +509,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj0217-001-p1s1a11">
+<children>
+<LM id="T-wsj0217-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj0217-001-p1s1W11-Ta</lex.rf>
 </a>
@@ -488,10 +521,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0217-001-p1s1a13">
+<children>
+<LM id="T-wsj0217-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj0217-001-p1s1W14-Ta</lex.rf>
-<aux.rf>a#a-wsj0217-001-p1s1W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0217-001-p1s1W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akcie</t_lemma>
@@ -524,7 +560,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj0217-001-p1s1a22">
+<children>
+<LM id="T-wsj0217-001-p1s1a22">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -556,17 +593,22 @@
 <deepord>18</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0217-001-p1s0a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0217-001-p1s1a19">
 <a>
 <lex.rf>a#a-wsj0217-001-p1s1W19-Ta</lex.rf>
-<aux.rf>a#a-wsj0217-001-p1s1W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0217-001-p1s1W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>oběh</t_lemma>
@@ -577,17 +619,21 @@
 <deepord>19</deepord>
 </LM>
 </children>
-</children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Liberty National exchanged about 78.64 shares of its common stock for each of Florence Deposit's 5,600 shares outstanding.</eng_sentence>
 </LM>
 <LM id="T-wsj0217-001-p1s2">
 <atree.rf>a#a-wsj0217-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0217-001-p1s2a1">
+<children>
+<LM id="T-wsj0217-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0217-001-p1s2W5-Ta</lex.rf>
 </a>
@@ -659,9 +705,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0217-001-p1s1a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0217-001-p1s2a6">
@@ -675,7 +723,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0217-001-p1s2a7">
+<children>
+<LM id="T-wsj0217-001-p1s2a7">
 <a>
 <lex.rf>a#a-wsj0217-001-p1s2W7-Ta</lex.rf>
 </a>
@@ -686,7 +735,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0217-001-p1s2a9">
+<children>
+<LM id="T-wsj0217-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj0217-001-p1s2W9-Ta</lex.rf>
 </a>
@@ -723,10 +773,13 @@
 <deepord>11</deepord>
 </LM>
 </children>
-</children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Liberty National, a bank holding company, has assets exceeding $3 billion.</eng_sentence>
 </LM>

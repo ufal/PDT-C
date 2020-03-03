@@ -11,7 +11,8 @@
 <LM id="T-wsj2099-001-p1s0">
 <atree.rf>a#a-wsj2099-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2099-001-p1s0a1">
+<children>
+<LM id="T-wsj2099-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s0W9-Ta</lex.rf>
 </a>
@@ -47,10 +48,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>malé písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj2099-001-p1s0a43">
 <nodetype>list</nodetype>
@@ -94,7 +91,9 @@
 <LM id="T-wsj2099-001-p1s0a8">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s0W7-Ta</lex.rf>
-<aux.rf>a#a-wsj2099-001-p1s0W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2099-001-p1s0W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>stát</t_lemma>
@@ -103,7 +102,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj2099-001-p1s0a9">
+<children>
+<LM id="T-wsj2099-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s0W8-Ta</lex.rf>
 </a>
@@ -114,6 +114,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -130,7 +131,9 @@
 <LM id="T-wsj2099-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s0W12-Ta</lex.rf>
-<aux.rf>a#a-wsj2099-001-p1s0W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2099-001-p1s0W11-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9501f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -152,9 +155,11 @@
 </gram>
 <deepord>11</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2099-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2099-001-p1s0a13">
@@ -249,7 +254,9 @@
 <LM id="T-wsj2099-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s0W21-Ta</lex.rf>
-<aux.rf>a#a-wsj2099-001-p1s0W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2099-001-p1s0W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>transakce</t_lemma>
@@ -258,7 +265,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj2099-001-p1s0a22">
+<children>
+<LM id="T-wsj2099-001-p1s0a22">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s0W22-Ta</lex.rf>
 </a>
@@ -269,7 +277,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj2099-001-p1s0a23">
+<children>
+<LM id="T-wsj2099-001-p1s0a23">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s0W25-Ta</lex.rf>
 </a>
@@ -281,7 +290,9 @@
 <LM id="T-wsj2099-001-p1s0a25">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s0W24-Ta</lex.rf>
-<aux.rf>a#a-wsj2099-001-p1s0W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2099-001-p1s0W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hotovost</t_lemma>
@@ -308,7 +319,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>26</deepord>
-<children id="T-wsj2099-001-p1s0a29">
+<children>
+<LM id="T-wsj2099-001-p1s0a29">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s0W28-Ta</lex.rf>
 </a>
@@ -319,10 +331,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>25</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -445,13 +460,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Unilab Corp., Norcross, Ga., said it acquired the clinical laboratories of closely held Central Diagnostic Laboratory Inc. in a cash and securities transaction valued at $85 million.</eng_sentence>
 </LM>
 <LM id="T-wsj2099-001-p1s1">
 <atree.rf>a#a-wsj2099-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2099-001-p1s1a1">
+<children>
+<LM id="T-wsj2099-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -483,9 +500,11 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2099-001-p1s0a41</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2099-001-p1s1a34">
@@ -500,7 +519,9 @@
 <LM id="T-wsj2099-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s1W19-Ta</lex.rf>
-<aux.rf>a#a-wsj2099-001-p1s1W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2099-001-p1s1W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9020f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -569,7 +590,9 @@
 <a>
 <lex.rf>a#a-wsj2099-001-p1s1W9-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj2099-001-p1s1a46</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj2099-001-p1s1a46</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -611,9 +634,11 @@
 </gram>
 <deepord>11</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2099-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -623,7 +648,9 @@
 <LM id="T-wsj2099-001-p1s1a48">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s1W16-Ta</lex.rf>
-<aux.rf>a#a-wsj2099-001-p1s1W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2099-001-p1s1W15-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9499f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -645,7 +672,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj2099-001-p1s1a18">
+<children>
+<LM id="T-wsj2099-001-p1s1a18">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s1W17-Ta</lex.rf>
 </a>
@@ -656,11 +684,14 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2099-001-p1s0a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2099-001-p1s1a49">
@@ -673,20 +704,26 @@
 </gram>
 <deepord>17</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2099-001-p1s1a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2099-001-p1s0a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj2099-001-p1s1a21">
@@ -753,7 +790,9 @@
 <LM id="T-wsj2099-001-p1s1a24">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s1W25-Ta</lex.rf>
-<aux.rf>a#a-wsj2099-001-p1s1W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2099-001-p1s1W24-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hotovost</t_lemma>
@@ -843,9 +882,11 @@
 </gram>
 <deepord>29</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2099-001-p1s1a49</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2099-001-p1s1a35">
@@ -863,7 +904,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>31</deepord>
-<children id="T-wsj2099-001-p1s1a36">
+<children>
+<LM id="T-wsj2099-001-p1s1a36">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s1W35-Ta</lex.rf>
 </a>
@@ -874,6 +916,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>30</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -907,9 +950,11 @@
 </gram>
 <deepord>34</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2099-001-p1s1a51</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2099-001-p1s1a38">
@@ -965,7 +1010,9 @@
 <LM id="T-wsj2099-001-p1s1a42">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s1W43-Ta</lex.rf>
-<aux.rf>a#a-wsj2099-001-p1s1W42-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2099-001-p1s1W42-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akcie</t_lemma>
@@ -980,13 +1027,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Unilab said its wholly owned MetWest Inc. unit paid $25 million in cash, provided $30 million in notes and $30 million in preferred stock to acquire Central's labs in the Western U.S..</eng_sentence>
 </LM>
 <LM id="T-wsj2099-001-p1s2">
 <atree.rf>a#a-wsj2099-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2099-001-p1s2a1">
+<children>
+<LM id="T-wsj2099-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s2W6-Ta</lex.rf>
 </a>
@@ -1028,9 +1077,11 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2099-001-p1s1a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2099-001-p1s2a4">
@@ -1090,7 +1141,9 @@
 <LM id="T-wsj2099-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s2W9-Ta</lex.rf>
-<aux.rf>a#a-wsj2099-001-p1s2W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2099-001-p1s2W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>oblast</t_lemma>
@@ -1099,7 +1152,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj2099-001-p1s2a10">
+<children>
+<LM id="T-wsj2099-001-p1s2a10">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s2W8-Ta</lex.rf>
 </a>
@@ -1110,6 +1164,7 @@
 <sempos>adj.quant.grad</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2099-001-p1s2a21">
@@ -1122,9 +1177,11 @@
 </gram>
 <deepord>11</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2099-001-p1s2a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2099-001-p1s2a11">
@@ -1138,7 +1195,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj2099-001-p1s2a12">
+<children>
+<LM id="T-wsj2099-001-p1s2a12">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s2W12-Ta</lex.rf>
 </a>
@@ -1165,7 +1223,9 @@
 <LM id="T-wsj2099-001-p1s2a15">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s2W15-Ta</lex.rf>
-<aux.rf>a#a-wsj2099-001-p1s2W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2099-001-p1s2W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>sídlo</t_lemma>
@@ -1174,10 +1234,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj2099-001-p1s2a17">
+<children>
+<LM id="T-wsj2099-001-p1s2a17">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s2W18-Ta</lex.rf>
-<aux.rf>a#a-wsj2099-001-p1s2W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2099-001-p1s2W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>město</t_lemma>
@@ -1210,32 +1273,34 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>proprium</text>
-</annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2099-001-p1s1a17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Unilab, which provides clinical laboratory services, competed with Central, based in Tarzana, Calif., in a number of areas.</eng_sentence>
 </LM>
 <LM id="T-wsj2099-001-p1s3">
 <atree.rf>a#a-wsj2099-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2099-001-p1s3a7">
+<children>
+<LM id="T-wsj2099-001-p1s3a7">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s3W7-Ta</lex.rf>
 <aux.rf>
@@ -1262,15 +1327,19 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2099-001-p1s2a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2099-001-p1s3a3">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s3W2-Ta</lex.rf>
-<aux.rf>a#a-wsj2099-001-p1s3W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2099-001-p1s3W1-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2904f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1291,9 +1360,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2099-001-p1s3a6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2099-001-p1s3a4">
@@ -1310,8 +1381,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj2099-001-p1s3a6">
@@ -1326,9 +1399,11 @@
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2099-001-p1s1a48</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2099-001-p1s3a8">
@@ -1346,7 +1421,9 @@
 <LM id="T-wsj2099-001-p1s3a11">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s3W13-Ta</lex.rf>
-<aux.rf>a#a-wsj2099-001-p1s3W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2099-001-p1s3W12-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5874f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1377,9 +1454,11 @@
 <is_parenthesis>1</is_parenthesis>
 <deepord>10</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2099-001-p1s3a7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2099-001-p1s3a25">
@@ -1405,7 +1484,8 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>13</deepord>
-<children id="T-wsj2099-001-p1s3a14">
+<children>
+<LM id="T-wsj2099-001-p1s3a14">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s3W14-Ta</lex.rf>
 </a>
@@ -1417,6 +1497,7 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>12</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2099-001-p1s3a17">
@@ -1458,7 +1539,8 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>16</deepord>
-<children id="T-wsj2099-001-p1s3a20">
+<children>
+<LM id="T-wsj2099-001-p1s3a20">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s3W20-Ta</lex.rf>
 </a>
@@ -1470,11 +1552,14 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>17</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2099-001-p1s3a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -1484,13 +1569,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Beyond removing a competitor, the combination should provide ``synergies,'' said Fred Harlow, Unilab's chief financial officer.</eng_sentence>
 </LM>
 <LM id="T-wsj2099-001-p1s4">
 <atree.rf>a#a-wsj2099-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2099-001-p1s4a1">
+<children>
+<LM id="T-wsj2099-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s4W3-Ta</lex.rf>
 </a>
@@ -1524,9 +1611,11 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2099-001-p1s3a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2099-001-p1s4a4">
@@ -1540,7 +1629,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj2099-001-p1s4a5">
+<children>
+<LM id="T-wsj2099-001-p1s4a5">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s4W4-Ta</lex.rf>
 </a>
@@ -1551,16 +1641,19 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>It also will hand Unilab new markets.</eng_sentence>
 </LM>
 <LM id="T-wsj2099-001-p1s5">
 <atree.rf>a#a-wsj2099-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2099-001-p1s5a1">
+<children>
+<LM id="T-wsj2099-001-p1s5a1">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s5W5-Ta</lex.rf>
 </a>
@@ -1584,7 +1677,9 @@
 </LM>
 <LM id="T-wsj2099-001-p1s5a22">
 <a>
-<aux.rf>a#a-wsj2099-001-p1s5W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2099-001-p1s5W2-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -1630,9 +1725,11 @@
 </gram>
 <deepord>6</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2099-001-p1s2a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2099-001-p1s5a8">
@@ -1676,7 +1773,9 @@
 <LM id="T-wsj2099-001-p1s5a12">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s5W15-Ta</lex.rf>
-<aux.rf>a#a-wsj2099-001-p1s5W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2099-001-p1s5W11-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1855f3</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1690,7 +1789,9 @@
 <LM id="T-wsj2099-001-p1s5a15">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s5W14-Ta</lex.rf>
-<aux.rf>a#a-wsj2099-001-p1s5W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2099-001-p1s5W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Harlow</t_lemma>
@@ -1699,7 +1800,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj2099-001-p1s5a14">
+<children>
+<LM id="T-wsj2099-001-p1s5a14">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s5W13-Ta</lex.rf>
 </a>
@@ -1710,11 +1812,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2099-001-p1s3a25</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2099-001-p1s5a16">
@@ -1729,15 +1834,19 @@
 </gram>
 <deepord>13</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2099-001-p1s4a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2099-001-p1s5a18">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s5W19-Ta</lex.rf>
-<aux.rf>a#a-wsj2099-001-p1s5W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2099-001-p1s5W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>oblast</t_lemma>
@@ -1746,7 +1855,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj2099-001-p1s5a19">
+<children>
+<LM id="T-wsj2099-001-p1s5a19">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s5W18-Ta</lex.rf>
 </a>
@@ -1757,11 +1867,14 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2099-001-p1s5a22</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2099-001-p1s5a20">
@@ -1775,7 +1888,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj2099-001-p1s5a21">
+<children>
+<LM id="T-wsj2099-001-p1s5a21">
 <a>
 <lex.rf>a#a-wsj2099-001-p1s5W21-Ta</lex.rf>
 </a>
@@ -1786,11 +1900,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>17</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>In Los Angeles, for example, Central has had a strong market position while Unilab's presence has been less prominent, according to Mr. Harlow.</eng_sentence>
 </LM>

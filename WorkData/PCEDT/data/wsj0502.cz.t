@@ -11,7 +11,8 @@
 <LM id="T-wsj0502-001-p1s0">
 <atree.rf>a#a-wsj0502-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0502-001-p1s0a23">
+<children>
+<LM id="T-wsj0502-001-p1s0a23">
 <a>
 <lex.rf>a#a-wsj0502-001-p1s0W23-Ta</lex.rf>
 </a>
@@ -49,7 +50,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0502-001-p1s0a28">
+<children>
+<LM id="T-wsj0502-001-p1s0a28">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -78,6 +80,7 @@
 <deepord>4</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0502-001-p1s0a5">
@@ -91,7 +94,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0502-001-p1s0a6">
+<children>
+<LM id="T-wsj0502-001-p1s0a6">
 <a>
 <lex.rf>a#a-wsj0502-001-p1s0W5-Ta</lex.rf>
 </a>
@@ -102,6 +106,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0502-001-p1s0a7">
@@ -120,7 +125,9 @@
 <a>
 <lex.rf>a#a-wsj0502-001-p1s0W7-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0502-001-p1s0a2</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0502-001-p1s0a2</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -146,13 +153,16 @@
 <LM id="T-wsj0502-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj0502-001-p1s0W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0502-001-p1s0W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0502-001-p1s0W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>12</deepord>
-<children id="T-wsj0502-001-p1s0a11">
+<children>
+<LM id="T-wsj0502-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj0502-001-p1s0W11-Ta</lex.rf>
 </a>
@@ -163,6 +173,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0502-001-p1s0a13">
@@ -187,9 +198,11 @@
 </gram>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0502-001-p1s0a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0502-001-p1s0a14">
@@ -251,7 +264,9 @@
 <children>
 <LM id="T-wsj0502-001-p1s0a30">
 <a>
-<aux.rf>a#a-wsj0502-001-p1s0W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0502-001-p1s0W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -259,7 +274,8 @@
 <functor>LOC</functor>
 <is_member>1</is_member>
 <deepord>21</deepord>
-<children id="T-wsj0502-001-p1s0a20">
+<children>
+<LM id="T-wsj0502-001-p1s0a20">
 <a>
 <lex.rf>a#a-wsj0502-001-p1s0W19-Ta</lex.rf>
 </a>
@@ -270,12 +286,15 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0502-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj0502-001-p1s0W21-Ta</lex.rf>
-<aux.rf>a#a-wsj0502-001-p1s0W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0502-001-p1s0W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Evropa</t_lemma>
@@ -292,8 +311,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -330,13 +351,15 @@
 <deepord>26</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>American Airlines will expand its trans-Atlantic service 30% beginning next year with six new daily flights between the U.S. and Europe, officials announced yesterday.</eng_sentence>
 </LM>
 <LM id="T-wsj0502-001-p1s1">
 <atree.rf>a#a-wsj0502-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0502-001-p1s1a1">
+<children>
+<LM id="T-wsj0502-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0502-001-p1s1W10-Ta</lex.rf>
 </a>
@@ -370,7 +393,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0502-001-p1s1a3">
+<children>
+<LM id="T-wsj0502-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj0502-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -378,6 +402,7 @@
 <t_lemma>American</t_lemma>
 <functor>ID</functor>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0502-001-p1s1a6">
@@ -392,7 +417,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0502-001-p1s1a7">
+<children>
+<LM id="T-wsj0502-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj0502-001-p1s1W5-Ta</lex.rf>
 </a>
@@ -403,7 +429,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0502-001-p1s1a16">
+<children>
+<LM id="T-wsj0502-001-p1s1a16">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -438,14 +465,18 @@
 <deepord>9</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0502-001-p1s0a29</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0502-001-p1s1a11">
@@ -487,7 +518,9 @@
 <LM id="T-wsj0502-001-p1s1a15">
 <a>
 <lex.rf>a#a-wsj0502-001-p1s1W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0502-001-p1s1W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0502-001-p1s1W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>země</t_lemma>
@@ -497,21 +530,25 @@
 </gram>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0502-001-p1s0a30</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>American, a unit of AMR Corp., is the nation's largest airline.</eng_sentence>
 </LM>
 <LM id="T-wsj0502-001-p1s2">
 <atree.rf>a#a-wsj0502-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0502-001-p1s2a15">
+<children>
+<LM id="T-wsj0502-001-p1s2a15">
 <a>
 <lex.rf>a#a-wsj0502-001-p1s2W45-Ta</lex.rf>
 </a>
@@ -541,7 +578,9 @@
 <LM id="T-wsj0502-001-p1s2a5">
 <a>
 <lex.rf>a#a-wsj0502-001-p1s2W4-Ta</lex.rf>
-<aux.rf>a#a-wsj0502-001-p1s2W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0502-001-p1s2W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>let</t_lemma>
@@ -592,7 +631,9 @@
 <a>
 <lex.rf>a#a-wsj0502-001-p1s2W6-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0502-001-p1s2a5</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0502-001-p1s2a5</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -604,7 +645,9 @@
 <LM id="T-wsj0502-001-p1s2a12">
 <a>
 <lex.rf>a#a-wsj0502-001-p1s2W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0502-001-p1s2W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0502-001-p1s2W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>květen</t_lemma>
@@ -618,9 +661,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0502-001-p1s0a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0502-001-p1s2a17">
@@ -644,7 +689,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0502-001-p1s2a19">
+<children>
+<LM id="T-wsj0502-001-p1s2a19">
 <a>
 <lex.rf>a#a-wsj0502-001-p1s2W24-Ta</lex.rf>
 </a>
@@ -806,6 +852,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0502-001-p1s2a32">
@@ -897,9 +944,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 <LM id="T-wsj0502-001-p1s2a39">
 <a>
@@ -990,9 +1034,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1017,19 +1058,23 @@
 </gram>
 <deepord>39</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0502-001-p1s0a25</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The new nonstop flights, starting next May, will include Chicago-Warsaw, Chicago-Helsinki, Miami-Madrid, Dallas-Barcelona, a second daily Chicago-Paris flight and a second daily Chicago-Manchester flight, the officials said.</eng_sentence>
 </LM>
 <LM id="T-wsj0502-001-p1s3">
 <atree.rf>a#a-wsj0502-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0502-001-p1s3a1">
+<children>
+<LM id="T-wsj0502-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj0502-001-p1s3W2-Ta</lex.rf>
 </a>
@@ -1090,7 +1135,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0502-001-p1s3a6">
+<children>
+<LM id="T-wsj0502-001-p1s3a6">
 <a>
 <lex.rf>a#a-wsj0502-001-p1s3W7-Ta</lex.rf>
 </a>
@@ -1101,7 +1147,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0502-001-p1s3a7">
+<children>
+<LM id="T-wsj0502-001-p1s3a7">
 <a>
 <lex.rf>a#a-wsj0502-001-p1s3W6-Ta</lex.rf>
 </a>
@@ -1112,7 +1159,9 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -1120,7 +1169,9 @@
 <LM id="T-wsj0502-001-p1s3a9">
 <a>
 <lex.rf>a#a-wsj0502-001-p1s3W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0502-001-p1s3W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0502-001-p1s3W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>město</t_lemma>
@@ -1145,7 +1196,9 @@
 <LM id="T-wsj0502-001-p1s3a12">
 <a>
 <lex.rf>a#a-wsj0502-001-p1s3W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0502-001-p1s3W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0502-001-p1s3W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Polsko</t_lemma>
@@ -1158,16 +1211,20 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Chicago has the largest population of citizens of Polish heritage in any city outside Poland.</eng_sentence>
 </LM>
 <LM id="T-wsj0502-001-p1s4">
 <atree.rf>a#a-wsj0502-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0502-001-p1s4a1">
+<children>
+<LM id="T-wsj0502-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj0502-001-p1s4W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0502-001-p1s4W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0502-001-p1s4W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4628f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1181,7 +1238,9 @@
 <LM id="T-wsj0502-001-p1s4a3">
 <a>
 <lex.rf>a#a-wsj0502-001-p1s4W4-Ta</lex.rf>
-<aux.rf>a#a-wsj0502-001-p1s4W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0502-001-p1s4W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>spoj</t_lemma>
@@ -1217,9 +1276,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0502-001-p1s2a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0502-001-p1s4a7">
@@ -1233,7 +1294,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0502-001-p1s4a8">
+<children>
+<LM id="T-wsj0502-001-p1s4a8">
 <a>
 <lex.rf>a#a-wsj0502-001-p1s4W7-Ta</lex.rf>
 </a>
@@ -1241,11 +1303,14 @@
 <t_lemma>American</t_lemma>
 <functor>ID</functor>
 <deepord>5</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0502-001-p1s1a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0502-001-p1s4a10">
@@ -1287,7 +1352,9 @@
 <LM id="T-wsj0502-001-p1s4a12">
 <a>
 <lex.rf>a#a-wsj0502-001-p1s4W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0502-001-p1s4W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0502-001-p1s4W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>město</t_lemma>
@@ -1326,13 +1393,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>With the new service, American will fly 161 flights a week to 17 European cities.</eng_sentence>
 </LM>
 <LM id="T-wsj0502-001-p1s5">
 <atree.rf>a#a-wsj0502-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0502-001-p1s5a1">
+<children>
+<LM id="T-wsj0502-001-p1s5a1">
 <a>
 <lex.rf>a#a-wsj0502-001-p1s5W2-Ta</lex.rf>
 </a>
@@ -1368,9 +1437,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0502-001-p1s4a7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0502-001-p1s5a38">
@@ -1383,20 +1454,26 @@
 </gram>
 <deepord>3</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0502-001-p1s0a7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0502-001-p1s0a1</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0502-001-p1s5a3">
@@ -1422,7 +1499,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj0502-001-p1s5a5">
+<children>
+<LM id="T-wsj0502-001-p1s5a5">
 <a>
 <lex.rf>a#a-wsj0502-001-p1s5W5-Ta</lex.rf>
 </a>
@@ -1430,17 +1508,22 @@
 <t_lemma>American</t_lemma>
 <functor>ID</functor>
 <deepord>7</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0502-001-p1s5a37</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0502-001-p1s5a6">
 <a>
 <lex.rf>a#a-wsj0502-001-p1s5W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0502-001-p1s5W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0502-001-p1s5W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dopravce</t_lemma>
@@ -1510,7 +1593,9 @@
 <LM id="T-wsj0502-001-p1s5a16">
 <a>
 <lex.rf>a#a-wsj0502-001-p1s5W14-Ta</lex.rf>
-<aux.rf>a#a-wsj0502-001-p1s5W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0502-001-p1s5W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>firma</t_lemma>
@@ -1586,7 +1671,9 @@
 <a>
 <lex.rf>a#a-wsj0502-001-p1s5W20-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0502-001-p1s5a16</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0502-001-p1s5a16</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -1606,7 +1693,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj0502-001-p1s5a39">
+<children>
+<LM id="T-wsj0502-001-p1s5a39">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1644,6 +1732,7 @@
 <deepord>25</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -1653,7 +1742,9 @@
 <LM id="T-wsj0502-001-p1s5a28">
 <a>
 <lex.rf>a#a-wsj0502-001-p1s5W28-Ta</lex.rf>
-<aux.rf>a#a-wsj0502-001-p1s5W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0502-001-p1s5W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>firma</t_lemma>
@@ -1663,7 +1754,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>27</deepord>
-<children id="T-wsj0502-001-p1s5a36">
+<children>
+<LM id="T-wsj0502-001-p1s5a36">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1701,7 +1793,6 @@
 <deepord>31</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
@@ -1710,6 +1801,9 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The additions solidify American's position as the third-largest U.S. transatlantic carrier, behind PanAm Corp.'s Pan American World Airways and Trans World Airlines.</eng_sentence>
 </LM>

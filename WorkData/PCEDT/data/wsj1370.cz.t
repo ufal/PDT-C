@@ -11,7 +11,8 @@
 <LM id="T-wsj1370-001-p1s0">
 <atree.rf>a#a-wsj1370-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1370-001-p1s0a1">
+<children>
+<LM id="T-wsj1370-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1370-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1370-001-p1s0a32">
+<children>
+<LM id="T-wsj1370-001-p1s0a32">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -85,12 +87,15 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1370-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj1370-001-p1s0W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1370-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1370-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4313f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -111,9 +116,11 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1370-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1370-001-p1s0a10">
@@ -139,10 +146,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1370-001-p1s0a12">
 <a>
@@ -155,7 +158,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1370-001-p1s0a13">
+<children>
+<LM id="T-wsj1370-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj1370-001-p1s0W11-Ta</lex.rf>
 </a>
@@ -166,10 +170,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 </children>
@@ -195,10 +196,13 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj1370-001-p1s0a16">
+<children>
+<LM id="T-wsj1370-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj1370-001-p1s0W21-Ta</lex.rf>
-<aux.rf>a#a-wsj1370-001-p1s0W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1370-001-p1s0W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>systém</t_lemma>
@@ -212,7 +216,9 @@
 <a>
 <lex.rf>a#a-wsj1370-001-p1s0W16-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1370-001-p1s0a31</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1370-001-p1s0a31</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -272,6 +278,7 @@
 <deepord>19</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1370-001-p1s0a27">
@@ -286,7 +293,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj1370-001-p1s0a35">
+<children>
+<LM id="T-wsj1370-001-p1s0a35">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -360,20 +368,23 @@
 <deepord>29</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Cray Research Inc. said it sold one of its newest and largest computer systems, the Cray Y-MP/832, to the United Kingdom Meteorological Office.</eng_sentence>
 </LM>
 <LM id="T-wsj1370-001-p1s1">
 <atree.rf>a#a-wsj1370-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1370-001-p1s1a1">
+<children>
+<LM id="T-wsj1370-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1370-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -397,7 +408,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1370-001-p1s1a3">
+<children>
+<LM id="T-wsj1370-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj1370-001-p1s1W1-Ta</lex.rf>
 </a>
@@ -408,11 +420,14 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1370-001-p1s0a34</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1370-001-p1s1a4">
@@ -442,7 +457,9 @@
 <LM id="T-wsj1370-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj1370-001-p1s1W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1370-001-p1s1W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1370-001-p1s1W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>smlouva</t_lemma>
@@ -479,7 +496,9 @@
 <LM id="T-wsj1370-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj1370-001-p1s1W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1370-001-p1s1W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1370-001-p1s1W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -488,7 +507,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1370-001-p1s1a12">
+<children>
+<LM id="T-wsj1370-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj1370-001-p1s1W13-Ta</lex.rf>
 </a>
@@ -548,23 +568,28 @@
 </children>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The system is the first to be sold through the joint marketing agreement between Cray and Control Data Corp.</eng_sentence>
 </LM>
 <LM id="T-wsj1370-001-p1s2">
 <atree.rf>a#a-wsj1370-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1370-001-p1s2a1">
+<children>
+<LM id="T-wsj1370-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1370-001-p1s2W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1370-001-p1s2W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1370-001-p1s2W11-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1274f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -623,7 +648,9 @@
 <a>
 <lex.rf>a#a-wsj1370-001-p1s2W4-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1370-001-p1s2a2</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1370-001-p1s2a2</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -643,7 +670,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1370-001-p1s2a9">
+<children>
+<LM id="T-wsj1370-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj1370-001-p1s2W8-Ta</lex.rf>
 </a>
@@ -680,21 +708,26 @@
 <deepord>9</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1370-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1370-001-p1s2a14">
 <a>
 <lex.rf>a#a-wsj1370-001-p1s2W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1370-001-p1s2W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1370-001-p1s2W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>čtvrtletí</t_lemma>
@@ -727,7 +760,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1370-001-p1s2a17">
+<children>
+<LM id="T-wsj1370-001-p1s2a17">
 <a>
 <lex.rf>a#a-wsj1370-001-p1s2W17-Ta</lex.rf>
 </a>
@@ -738,6 +772,7 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -745,7 +780,9 @@
 <LM id="T-wsj1370-001-p1s2a19">
 <a>
 <lex.rf>a#a-wsj1370-001-p1s2W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1370-001-p1s2W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1370-001-p1s2W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>ústředí</t_lemma>
@@ -754,7 +791,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1370-001-p1s2a20">
+<children>
+<LM id="T-wsj1370-001-p1s2a20">
 <a>
 <lex.rf>a#a-wsj1370-001-p1s2W22-Ta</lex.rf>
 </a>
@@ -793,7 +831,9 @@
 <LM id="T-wsj1370-001-p1s2a24">
 <a>
 <lex.rf>a#a-wsj1370-001-p1s2W24-Ta</lex.rf>
-<aux.rf>a#a-wsj1370-001-p1s2W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1370-001-p1s2W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>město</t_lemma>
@@ -802,7 +842,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1370-001-p1s2a25">
+<children>
+<LM id="T-wsj1370-001-p1s2a25">
 <a>
 <lex.rf>a#a-wsj1370-001-p1s2W25-Ta</lex.rf>
 </a>
@@ -813,10 +854,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj1370-001-p1s2a27">
+<children>
+<LM id="T-wsj1370-001-p1s2a27">
 <a>
 <lex.rf>a#a-wsj1370-001-p1s2W27-Ta</lex.rf>
-<aux.rf>a#a-wsj1370-001-p1s2W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1370-001-p1s2W26-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Anglie</t_lemma>
@@ -825,18 +869,24 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1370-001-p1s0a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The supercomputer, which lists for $18.5 million, will be installed in the first quarter of 1990 in the meteorological office's headquarters in Bracknell, England.</eng_sentence>
 </LM>

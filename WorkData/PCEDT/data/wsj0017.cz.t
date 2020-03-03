@@ -11,7 +11,8 @@
 <LM id="T-wsj0017-001-p1s0">
 <atree.rf>a#a-wsj0017-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0017-001-p1s0a1">
+<children>
+<LM id="T-wsj0017-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0017-001-p1s0W15-Ta</lex.rf>
 </a>
@@ -52,7 +53,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0017-001-p1s0a33">
+<children>
+<LM id="T-wsj0017-001-p1s0a33">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -111,6 +113,7 @@
 <deepord>8</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0017-001-p1s0a10">
@@ -125,7 +128,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0017-001-p1s0a11">
+<children>
+<LM id="T-wsj0017-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj0017-001-p1s0W9-Ta</lex.rf>
 </a>
@@ -136,7 +140,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0017-001-p1s0a35">
+<children>
+<LM id="T-wsj0017-001-p1s0a35">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -183,7 +188,9 @@
 <deepord>16</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -211,9 +218,11 @@
 </gram>
 <deepord>18</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0017-001-p1s0a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0017-001-p1s0a17">
@@ -243,7 +252,9 @@
 <LM id="T-wsj0017-001-p1s0a20">
 <a>
 <lex.rf>a#a-wsj0017-001-p1s0W20-Ta</lex.rf>
-<aux.rf>a#a-wsj0017-001-p1s0W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0017-001-p1s0W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výroba</t_lemma>
@@ -252,7 +263,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj0017-001-p1s0a21">
+<children>
+<LM id="T-wsj0017-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj0017-001-p1s0W22-Ta</lex.rf>
 </a>
@@ -263,7 +275,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj0017-001-p1s0a22">
+<children>
+<LM id="T-wsj0017-001-p1s0a22">
 <a>
 <lex.rf>a#a-wsj0017-001-p1s0W21-Ta</lex.rf>
 </a>
@@ -274,17 +287,23 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>23</deepord>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0017-001-p1s0a24">
 <a>
 <lex.rf>a#a-wsj0017-001-p1s0W25-Ta</lex.rf>
-<aux.rf>a#a-wsj0017-001-p1s0W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0017-001-p1s0W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Korea</t_lemma>
@@ -293,7 +312,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>26</deepord>
-<children id="T-wsj0017-001-p1s0a25">
+<children>
+<LM id="T-wsj0017-001-p1s0a25">
 <a>
 <lex.rf>a#a-wsj0017-001-p1s0W24-Ta</lex.rf>
 </a>
@@ -304,28 +324,29 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Texas Instruments Japan Ltd., a unit of Texas Instruments Inc., said it opened a plant in South Korea to manufacture control devices.</eng_sentence>
 </LM>
 <LM id="T-wsj0017-001-p1s1">
 <atree.rf>a#a-wsj0017-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0017-001-p1s1a1">
+<children>
+<LM id="T-wsj0017-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0017-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -350,15 +371,19 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0017-001-p1s0a32</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0017-001-p1s1a5">
 <a>
 <lex.rf>a#a-wsj0017-001-p1s1W18-Ta</lex.rf>
-<aux.rf>a#a-wsj0017-001-p1s1W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0017-001-p1s1W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3830f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -415,7 +440,9 @@
 <LM id="T-wsj0017-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj0017-001-p1s1W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0017-001-p1s1W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0017-001-p1s1W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Chinchon</t_lemma>
@@ -448,7 +475,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0017-001-p1s1a14">
+<children>
+<LM id="T-wsj0017-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj0017-001-p1s1W12-Ta</lex.rf>
 </a>
@@ -459,12 +487,15 @@
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0017-001-p1s1a17">
 <a>
 <lex.rf>a#a-wsj0017-001-p1s1W16-Ta</lex.rf>
-<aux.rf>a#a-wsj0017-001-p1s1W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0017-001-p1s1W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Soul</t_lemma>
@@ -475,18 +506,16 @@
 <deepord>11</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>není zkratka</text>
-</annot_comment>
 </LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0017-001-p1s0a17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0017-001-p1s1a19">
@@ -503,7 +532,9 @@
 <deepord>14</deepord>
 <children>
 <LM id="T-wsj0017-001-p1s1a34">
-<coref_gram.rf>T-wsj0017-001-p1s1a33</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0017-001-p1s1a33</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -534,7 +565,9 @@
 <LM id="T-wsj0017-001-p1s1a20">
 <a>
 <lex.rf>a#a-wsj0017-001-p1s1W20-Ta</lex.rf>
-<aux.rf>a#a-wsj0017-001-p1s1W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0017-001-p1s1W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zvyšující_se</t_lemma>
@@ -548,7 +581,9 @@
 <LM id="T-wsj0017-001-p1s1a23">
 <a>
 <lex.rf>a#a-wsj0017-001-p1s1W23-Ta</lex.rf>
-<aux.rf>a#a-wsj0017-001-p1s1W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0017-001-p1s1W24-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rozrůzňující_se</t_lemma>
@@ -564,7 +599,9 @@
 <LM id="T-wsj0017-001-p1s1a27">
 <a>
 <lex.rf>a#a-wsj0017-001-p1s1W28-Ta</lex.rf>
-<aux.rf>a#a-wsj0017-001-p1s1W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0017-001-p1s1W26-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zařízení</t_lemma>
@@ -573,7 +610,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj0017-001-p1s1a28">
+<children>
+<LM id="T-wsj0017-001-p1s1a28">
 <a>
 <lex.rf>a#a-wsj0017-001-p1s1W27-Ta</lex.rf>
 </a>
@@ -584,16 +622,21 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>19</deepord>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0017-001-p1s1a30">
 <a>
 <lex.rf>a#a-wsj0017-001-p1s1W31-Ta</lex.rf>
-<aux.rf>a#a-wsj0017-001-p1s1W29-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0017-001-p1s1W29-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Korea</t_lemma>
@@ -602,7 +645,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj0017-001-p1s1a31">
+<children>
+<LM id="T-wsj0017-001-p1s1a31">
 <a>
 <lex.rf>a#a-wsj0017-001-p1s1W30-Ta</lex.rf>
 </a>
@@ -613,15 +657,14 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0017-001-p1s0a24</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -631,16 +674,20 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The new plant, located in Chinchon about 60 miles from Seoul, will help meet increasing and diversifying demand for control products in South Korea, the company said.</eng_sentence>
 </LM>
 <LM id="T-wsj0017-001-p1s2">
 <atree.rf>a#a-wsj0017-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0017-001-p1s2a1">
+<children>
+<LM id="T-wsj0017-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0017-001-p1s2W3-Ta</lex.rf>
-<aux.rf>a#a-wsj0017-001-p1s2W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0017-001-p1s2W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8288f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -663,9 +710,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0017-001-p1s1a6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0017-001-p1s2a4">
@@ -703,7 +752,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0017-001-p1s2a8">
+<children>
+<LM id="T-wsj0017-001-p1s2a8">
 <a>
 <lex.rf>a#a-wsj0017-001-p1s2W10-Ta</lex.rf>
 </a>
@@ -715,7 +765,9 @@
 <LM id="T-wsj0017-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj0017-001-p1s2W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0017-001-p1s2W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0017-001-p1s2W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>vozidlo</t_lemma>
@@ -725,7 +777,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0017-001-p1s2a10">
+<children>
+<LM id="T-wsj0017-001-p1s2a10">
 <a>
 <lex.rf>a#a-wsj0017-001-p1s2W8-Ta</lex.rf>
 </a>
@@ -736,12 +789,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0017-001-p1s2a11">
 <a>
 <lex.rf>a#a-wsj0017-001-p1s2W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0017-001-p1s2W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0017-001-p1s2W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>spotřebič</t_lemma>
@@ -751,7 +807,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0017-001-p1s2a12">
+<children>
+<LM id="T-wsj0017-001-p1s2a12">
 <a>
 <lex.rf>a#a-wsj0017-001-p1s2W11-Ta</lex.rf>
 </a>
@@ -762,18 +819,23 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The plant will produce control devices used in motor vehicles and household appliances.</eng_sentence>
 </LM>

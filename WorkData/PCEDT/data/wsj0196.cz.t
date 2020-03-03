@@ -11,7 +11,8 @@
 <LM id="T-wsj0196-001-p1s0">
 <atree.rf>a#a-wsj0196-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0196-001-p1s0a46">
+<children>
+<LM id="T-wsj0196-001-p1s0a46">
 <a>
 <lex.rf>a#a-wsj0196-001-p1s0W34-Ta</lex.rf>
 </a>
@@ -23,7 +24,9 @@
 <LM id="T-wsj0196-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0196-001-p1s0W29-Ta</lex.rf>
-<aux.rf>a#a-wsj0196-001-p1s0W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0196-001-p1s0W28-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9986f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -135,7 +138,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0196-001-p1s0a18">
+<children>
+<LM id="T-wsj0196-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj0196-001-p1s0W8-Ta</lex.rf>
 </a>
@@ -146,6 +150,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0196-001-p1s0a19">
@@ -183,7 +188,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj0196-001-p1s0a22">
+<children>
+<LM id="T-wsj0196-001-p1s0a22">
 <a>
 <lex.rf>a#a-wsj0196-001-p1s0W11-Ta</lex.rf>
 </a>
@@ -194,6 +200,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -263,10 +270,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj0196-001-p1s0a25">
+<children>
+<LM id="T-wsj0196-001-p1s0a25">
 <a>
 <lex.rf>a#a-wsj0196-001-p1s0W24-Ta</lex.rf>
-<aux.rf>a#a-wsj0196-001-p1s0W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0196-001-p1s0W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>fakulta</t_lemma>
@@ -299,7 +309,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj0196-001-p1s0a28">
+<children>
+<LM id="T-wsj0196-001-p1s0a28">
 <a>
 <lex.rf>a#a-wsj0196-001-p1s0W25-Ta</lex.rf>
 </a>
@@ -310,13 +321,11 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -326,7 +335,9 @@
 <LM id="T-wsj0196-001-p1s0a31">
 <a>
 <lex.rf>a#a-wsj0196-001-p1s0W31-Ta</lex.rf>
-<aux.rf>a#a-wsj0196-001-p1s0W30-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0196-001-p1s0W30-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>člen</t_lemma>
@@ -335,7 +346,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj0196-001-p1s0a32">
+<children>
+<LM id="T-wsj0196-001-p1s0a32">
 <a>
 <lex.rf>a#a-wsj0196-001-p1s0W33-Ta</lex.rf>
 </a>
@@ -346,7 +358,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>27</deepord>
-<children id="T-wsj0196-001-p1s0a33">
+<children>
+<LM id="T-wsj0196-001-p1s0a33">
 <a>
 <lex.rf>a#a-wsj0196-001-p1s0W32-Ta</lex.rf>
 </a>
@@ -357,7 +370,9 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>26</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -386,16 +401,20 @@
 </gram>
 <deepord>29</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0196-001-p1s0a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0196-001-p1s0a36">
 <a>
 <lex.rf>a#a-wsj0196-001-p1s0W35-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0196-001-p1s0a1</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0196-001-p1s0a1</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>MEANS</functor>
@@ -415,7 +434,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>32</deepord>
-<children id="T-wsj0196-001-p1s0a38">
+<children>
+<LM id="T-wsj0196-001-p1s0a38">
 <a>
 <lex.rf>a#a-wsj0196-001-p1s0W38-Ta</lex.rf>
 </a>
@@ -426,7 +446,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>33</deepord>
-<children id="T-wsj0196-001-p1s0a39">
+<children>
+<LM id="T-wsj0196-001-p1s0a39">
 <a>
 <lex.rf>a#a-wsj0196-001-p1s0W39-Ta</lex.rf>
 </a>
@@ -438,17 +459,23 @@
 </gram>
 <deepord>34</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0196-001-p1s0a32</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0196-001-p1s0a41">
 <a>
 <lex.rf>a#a-wsj0196-001-p1s0W41-Ta</lex.rf>
-<aux.rf>a#a-wsj0196-001-p1s0W40-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0196-001-p1s0W40-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>devět</t_lemma>
@@ -461,6 +488,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Leon J. Level, vice president and chief financial officer of this computer services concern, and F. Warren McFarlan, a professor at Harvard University's Graduate School of Business, were elected directors, increasing board membership to nine.</eng_sentence>
 </LM>

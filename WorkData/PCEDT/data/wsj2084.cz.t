@@ -1400,12 +1400,6 @@
 <deepord>10</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>přestože</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2084-001-p1s3a17">
 <a>
@@ -1627,12 +1621,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>malé písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>

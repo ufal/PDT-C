@@ -1014,12 +1014,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>v m-tagu jako nominativ</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0214-001-p1s4a7">
 <a>
@@ -1033,12 +1027,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>v m-tagu jako nominativ</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4121,12 +4109,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>29</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Genus</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4189,12 +4171,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>34</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Rolli</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4762,22 +4738,10 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Davea</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>ulívek</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7165,12 +7129,6 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>považováno za substantivum na -ní</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -11157,12 +11115,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Cheva</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -11365,12 +11317,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Carl</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0214-001-p1s45a15">
 <a>
@@ -12620,12 +12566,6 @@
 <src>LH</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>chápáno jako sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0214-001-p1s48a15">
 <a>
@@ -16770,12 +16710,6 @@
 <deepord>9</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>milion</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -17501,12 +17435,6 @@
 <deepord>7</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>milion</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

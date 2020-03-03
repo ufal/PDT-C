@@ -11,7 +11,8 @@
 <LM id="T-wsj1787-001-p1s0">
 <atree.rf>a#a-wsj1787-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1787-001-p1s0a1">
+<children>
+<LM id="T-wsj1787-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1787-001-p1s0W8-Ta</lex.rf>
 </a>
@@ -42,7 +43,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1787-001-p1s0a46">
+<children>
+<LM id="T-wsj1787-001-p1s0a46">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -110,12 +112,15 @@
 <deepord>9</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1787-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj1787-001-p1s0W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1787-001-p1s0W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1787-001-p1s0W10-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6275f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -136,15 +141,19 @@
 </gram>
 <deepord>11</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1787-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1787-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj1787-001-p1s0W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1787-001-p1s0W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1787-001-p1s0W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>prodej</t_lemma>
@@ -170,7 +179,9 @@
 <a>
 <lex.rf>a#a-wsj1787-001-p1s0W14-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1787-001-p1s0a44</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1787-001-p1s0a44</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -182,7 +193,9 @@
 <LM id="T-wsj1787-001-p1s0a17">
 <a>
 <lex.rf>a#a-wsj1787-001-p1s0W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1787-001-p1s0W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1787-001-p1s0W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>10%</t_lemma>
@@ -191,15 +204,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<annot_comment>
-<type>Word segmentation</type>
-<text> 1 v 2</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1787-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj1787-001-p1s0W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1787-001-p1s0W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1787-001-p1s0W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -208,7 +219,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1787-001-p1s0a47">
+<children>
+<LM id="T-wsj1787-001-p1s0a47">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -259,12 +271,9 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>proprium</text>
-</annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -272,7 +281,9 @@
 <LM id="T-wsj1787-001-p1s0a26">
 <a>
 <lex.rf>a#a-wsj1787-001-p1s0W26-Ta</lex.rf>
-<aux.rf>a#a-wsj1787-001-p1s0W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1787-001-p1s0W24-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -319,7 +330,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>26</deepord>
-<children id="T-wsj1787-001-p1s0a28">
+<children>
+<LM id="T-wsj1787-001-p1s0a28">
 <a>
 <lex.rf>a#a-wsj1787-001-p1s0W34-Ta</lex.rf>
 </a>
@@ -442,20 +454,23 @@
 </children>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Affiliated Bankshares of Colorado Inc. said it agreed to sell its 10% interest in Rocky Mountain Bankcard Systems for $18.5 million to Colorado National Bank of Denver and Central Bank of Denver.</eng_sentence>
 </LM>
 <LM id="T-wsj1787-001-p1s1">
 <atree.rf>a#a-wsj1787-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1787-001-p1s1a13">
+<children>
+<LM id="T-wsj1787-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj1787-001-p1s1W13-Ta</lex.rf>
 </a>
@@ -490,7 +505,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1787-001-p1s1a28">
+<children>
+<LM id="T-wsj1787-001-p1s1a28">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -519,6 +535,7 @@
 <deepord>4</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1787-001-p1s1a3">
@@ -556,7 +573,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1787-001-p1s1a29">
+<children>
+<LM id="T-wsj1787-001-p1s1a29">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -618,6 +636,7 @@
 <deepord>14</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -650,7 +669,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj1787-001-p1s1a16">
+<children>
+<LM id="T-wsj1787-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj1787-001-p1s1W15-Ta</lex.rf>
 </a>
@@ -661,6 +681,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1787-001-p1s1a17">
@@ -698,7 +719,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj1787-001-p1s1a27">
+<children>
+<LM id="T-wsj1787-001-p1s1a27">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -757,20 +779,23 @@
 <deepord>27</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Colorado National is a unit of Colorado National Bankshares Inc. and Central is a unit of First Bank System of Minneapolis.</eng_sentence>
 </LM>
 <LM id="T-wsj1787-001-p1s2">
 <atree.rf>a#a-wsj1787-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1787-001-p1s2a1">
+<children>
+<LM id="T-wsj1787-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1787-001-p1s2W3-Ta</lex.rf>
 </a>
@@ -794,7 +819,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1787-001-p1s2a3">
+<children>
+<LM id="T-wsj1787-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj1787-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -805,17 +831,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1787-001-p1s0a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1787-001-p1s2a6">
 <a>
 <lex.rf>a#a-wsj1787-001-p1s2W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1787-001-p1s2W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1787-001-p1s2W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2608f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -836,9 +867,11 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1787-001-p1s2a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1787-001-p1s2a14">
@@ -856,7 +889,9 @@
 <LM id="T-wsj1787-001-p1s2a8">
 <a>
 <lex.rf>a#a-wsj1787-001-p1s2W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1787-001-p1s2W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1787-001-p1s2W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>prodej</t_lemma>
@@ -865,7 +900,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1787-001-p1s2a9">
+<children>
+<LM id="T-wsj1787-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj1787-001-p1s2W9-Ta</lex.rf>
 </a>
@@ -892,7 +928,9 @@
 <LM id="T-wsj1787-001-p1s2a12">
 <a>
 <lex.rf>a#a-wsj1787-001-p1s2W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1787-001-p1s2W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1787-001-p1s2W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>karta</t_lemma>
@@ -901,7 +939,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1787-001-p1s2a13">
+<children>
+<LM id="T-wsj1787-001-p1s2a13">
 <a>
 <lex.rf>a#a-wsj1787-001-p1s2W11-Ta</lex.rf>
 </a>
@@ -912,25 +951,33 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1787-001-p1s0a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1787-001-p1s0a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1787-001-p1s2a16">
 <a>
 <lex.rf>a#a-wsj1787-001-p1s2W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1787-001-p1s2W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1787-001-p1s2W15-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9372f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -948,9 +995,11 @@
 <functor>PAT</functor>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1787-001-p1s2a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1787-001-p1s2a46">
@@ -962,14 +1011,18 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1787-001-p1s2a18">
 <a>
 <lex.rf>a#a-wsj1787-001-p1s2W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1787-001-p1s2W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1787-001-p1s2W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výše</t_lemma>
@@ -978,7 +1031,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1787-001-p1s2a50">
+<children>
+<LM id="T-wsj1787-001-p1s2a50">
 <a>
 <lex.rf>a#a-wsj1787-001-p1s2W23-Ta</lex.rf>
 </a>
@@ -1011,7 +1065,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1787-001-p1s2a19">
+<children>
+<LM id="T-wsj1787-001-p1s2a19">
 <a>
 <lex.rf>a#a-wsj1787-001-p1s2W19-Ta</lex.rf>
 </a>
@@ -1022,6 +1077,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>17</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1787-001-p1s2a22">
@@ -1060,7 +1116,9 @@
 <a>
 <lex.rf>a#a-wsj1787-001-p1s2W24-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1787-001-p1s2a21</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1787-001-p1s2a21</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>ACT</functor>
@@ -1080,7 +1138,8 @@
 <sempos>adj.quant.grad</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj1787-001-p1s2a51">
+<children>
+<LM id="T-wsj1787-001-p1s2a51">
 <a>
 <lex.rf>a#a-wsj1787-001-p1s2W28-Ta</lex.rf>
 </a>
@@ -1088,6 +1147,7 @@
 <t_lemma>než</t_lemma>
 <functor>DPHR</functor>
 <deepord>23</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1787-001-p1s2a30">
@@ -1167,7 +1227,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>31</deepord>
-<children id="T-wsj1787-001-p1s2a35">
+<children>
+<LM id="T-wsj1787-001-p1s2a35">
 <a>
 <lex.rf>a#a-wsj1787-001-p1s2W34-Ta</lex.rf>
 </a>
@@ -1178,6 +1239,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>30</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1787-001-p1s2a37">
@@ -1192,10 +1254,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>33</deepord>
-<children id="T-wsj1787-001-p1s2a39">
+<children>
+<LM id="T-wsj1787-001-p1s2a39">
 <a>
 <lex.rf>a#a-wsj1787-001-p1s2W40-Ta</lex.rf>
-<aux.rf>a#a-wsj1787-001-p1s2W38-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1787-001-p1s2W38-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>majetek</t_lemma>
@@ -1204,7 +1269,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>35</deepord>
-<children id="T-wsj1787-001-p1s2a40">
+<children>
+<LM id="T-wsj1787-001-p1s2a40">
 <a>
 <lex.rf>a#a-wsj1787-001-p1s2W39-Ta</lex.rf>
 </a>
@@ -1215,7 +1281,9 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>34</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -1225,7 +1293,9 @@
 <LM id="T-wsj1787-001-p1s2a42">
 <a>
 <lex.rf>a#a-wsj1787-001-p1s2W44-Ta</lex.rf>
-<aux.rf>a#a-wsj1787-001-p1s2W41-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1787-001-p1s2W41-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>kniha</t_lemma>
@@ -1247,9 +1317,11 @@
 </gram>
 <deepord>36</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1787-001-p1s2a45</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1787-001-p1s2a44">
@@ -1268,20 +1340,24 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Affiliated said it expects to record a pretax gain of about $18.5 million from the sale of the credit-card business, which should more than offset any reduction in the carrying value of real estate and real-estate loans on its books.</eng_sentence>
 </LM>

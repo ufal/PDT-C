@@ -11,7 +11,8 @@
 <LM id="T-wsj1068-001-p1s0">
 <atree.rf>a#a-wsj1068-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1068-001-p1s0a1">
+<children>
+<LM id="T-wsj1068-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1068-001-p1s0W5-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1068-001-p1s0a35">
+<children>
+<LM id="T-wsj1068-001-p1s0a35">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -70,6 +72,7 @@
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1068-001-p1s0a9">
@@ -99,9 +102,11 @@
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1068-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1068-001-p1s0a13">
@@ -115,7 +120,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1068-001-p1s0a37">
+<children>
+<LM id="T-wsj1068-001-p1s0a37">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -180,6 +186,7 @@
 <deepord>16</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1068-001-p1s0a11">
@@ -194,7 +201,9 @@
 <LM id="T-wsj1068-001-p1s0a20">
 <a>
 <lex.rf>a#a-wsj1068-001-p1s0W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1068-001-p1s0W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1068-001-p1s0W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milion</t_lemma>
@@ -230,15 +239,13 @@
 <deepord>19</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1068-001-p1s0a33">
 <a>
 <lex.rf>a#a-wsj1068-001-p1s0W22-Ta</lex.rf>
-<aux.rf>a#a-wsj1068-001-p1s0W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1068-001-p1s0W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>protiplnění</t_lemma>
@@ -248,10 +255,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj1068-001-p1s0a23">
+<children>
+<LM id="T-wsj1068-001-p1s0a23">
 <a>
 <lex.rf>a#a-wsj1068-001-p1s0W24-Ta</lex.rf>
-<aux.rf>a#a-wsj1068-001-p1s0W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1068-001-p1s0W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výše</t_lemma>
@@ -260,7 +270,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj1068-001-p1s0a26">
+<children>
+<LM id="T-wsj1068-001-p1s0a26">
 <a>
 <lex.rf>a#a-wsj1068-001-p1s0W27-Ta</lex.rf>
 </a>
@@ -319,10 +330,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>27</deepord>
-<children id="T-wsj1068-001-p1s0a31">
+<children>
+<LM id="T-wsj1068-001-p1s0a31">
 <a>
 <lex.rf>a#a-wsj1068-001-p1s0W33-Ta</lex.rf>
-<aux.rf>a#a-wsj1068-001-p1s0W31-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1068-001-p1s0W31-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -331,7 +345,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>29</deepord>
-<children id="T-wsj1068-001-p1s0a32">
+<children>
+<LM id="T-wsj1068-001-p1s0a32">
 <a>
 <lex.rf>a#a-wsj1068-001-p1s0W32-Ta</lex.rf>
 </a>
@@ -342,19 +357,21 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>28</deepord>
+</LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
-</children>
-</children>
-<annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -362,13 +379,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Kennametal Inc. said it intends to acquire J&amp;L America Inc. for $44 million plus a consideration of as much as an additional $12 million, payable over five years.</eng_sentence>
 </LM>
 <LM id="T-wsj1068-001-p1s1">
 <atree.rf>a#a-wsj1068-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1068-001-p1s1a1">
+<children>
+<LM id="T-wsj1068-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1068-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -392,7 +411,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1068-001-p1s1a3">
+<children>
+<LM id="T-wsj1068-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj1068-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -403,11 +423,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1068-001-p1s0a34</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1068-001-p1s1a4">
@@ -421,10 +444,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1068-001-p1s1a5">
+<children>
+<LM id="T-wsj1068-001-p1s1a5">
 <a>
 <lex.rf>a#a-wsj1068-001-p1s1W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1068-001-p1s1W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1068-001-p1s1W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zabývající_se</t_lemma>
@@ -433,7 +459,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1068-001-p1s1a11">
+<children>
+<LM id="T-wsj1068-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj1068-001-p1s1W11-Ta</lex.rf>
 </a>
@@ -454,10 +481,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1068-001-p1s1a9">
+<children>
+<LM id="T-wsj1068-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj1068-001-p1s1W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1068-001-p1s1W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1068-001-p1s1W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>karbid</t_lemma>
@@ -466,7 +496,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1068-001-p1s1a10">
+<children>
+<LM id="T-wsj1068-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj1068-001-p1s1W9-Ta</lex.rf>
 </a>
@@ -477,7 +508,9 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1068-001-p1s1a12">
@@ -492,7 +525,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1068-001-p1s1a13">
+<children>
+<LM id="T-wsj1068-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj1068-001-p1s1W12-Ta</lex.rf>
 </a>
@@ -503,20 +537,25 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 </children>
-</children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Kennametal is a carbide-products and cutting-tools company.</eng_sentence>
 </LM>
 <LM id="T-wsj1068-001-p1s2">
 <atree.rf>a#a-wsj1068-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1068-001-p1s2a1">
+<children>
+<LM id="T-wsj1068-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1068-001-p1s2W13-Ta</lex.rf>
 </a>
@@ -606,7 +645,9 @@
 <a>
 <lex.rf>a#a-wsj1068-001-p1s2W6-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1068-001-p1s2a2</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1068-001-p1s2a2</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>RSTR</functor>
@@ -632,7 +673,9 @@
 <LM id="T-wsj1068-001-p1s2a12">
 <a>
 <lex.rf>a#a-wsj1068-001-p1s2W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1068-001-p1s2W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1068-001-p1s2W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Detroit</t_lemma>
@@ -646,9 +689,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1068-001-p1s0a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1068-001-p1s2a14">
@@ -696,7 +741,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1068-001-p1s2a18">
+<children>
+<LM id="T-wsj1068-001-p1s2a18">
 <a>
 <lex.rf>a#a-wsj1068-001-p1s2W16-Ta</lex.rf>
 </a>
@@ -707,6 +753,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1068-001-p1s2a19">
@@ -727,16 +774,20 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>J&amp;L, whose principal offices are in Detroit, is a mail-order distributer of industrial tools and supplies.</eng_sentence>
 </LM>
 <LM id="T-wsj1068-001-p1s3">
 <atree.rf>a#a-wsj1068-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1068-001-p1s3a3">
+<children>
+<LM id="T-wsj1068-001-p1s3a3">
 <a>
 <lex.rf>a#a-wsj1068-001-p1s3W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1068-001-p1s3W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1068-001-p1s3W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3590f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -766,9 +817,11 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1068-001-p1s0a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1068-001-p1s3a4">
@@ -794,9 +847,11 @@
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1068-001-p1s3a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1068-001-p1s3a5">
@@ -810,7 +865,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1068-001-p1s3a6">
+<children>
+<LM id="T-wsj1068-001-p1s3a6">
 <a>
 <lex.rf>a#a-wsj1068-001-p1s3W6-Ta</lex.rf>
 </a>
@@ -821,7 +877,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1068-001-p1s3a7">
+<children>
+<LM id="T-wsj1068-001-p1s3a7">
 <a>
 <lex.rf>a#a-wsj1068-001-p1s3W7-Ta</lex.rf>
 </a>
@@ -832,21 +889,28 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1068-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The acquisition is subject to approval by Kennametal's board.</eng_sentence>
 </LM>

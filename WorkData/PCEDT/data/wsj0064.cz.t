@@ -6345,12 +6345,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>původně standarda</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0064-001-p1s21a29">
 <a>

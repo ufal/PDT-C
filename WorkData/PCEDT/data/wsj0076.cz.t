@@ -259,12 +259,6 @@
 <deepord>4</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatně utvořený infinitiv zveřejnět</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <eng_sentence>Terms weren't disclosed.</eng_sentence>

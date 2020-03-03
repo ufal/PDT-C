@@ -1438,11 +1438,6 @@
 <deepord>13</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1870-001-p1s4a20">
 <a>
@@ -1549,12 +1544,6 @@
 <deepord>22</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vygenerováno: milión</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1864,12 +1853,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>malé písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1870-001-p1s6a4">
 <a>
@@ -3862,12 +3845,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno: Bateria</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1870-001-p1s11a4">
 <a>
@@ -4665,12 +4642,6 @@
 <deepord>6</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vygenerováno: kabela</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1870-001-p1s15a25">
 <nodetype>qcomplex</nodetype>
@@ -5957,12 +5928,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1870-001-p1s20a20">
 <a>
@@ -6650,12 +6615,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno: Paulin</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7046,12 +7005,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>malé písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1870-001-p1s25a5">
 <a>
@@ -7278,12 +7231,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1870-001-p1s25a22">
 <a>
@@ -10080,11 +10027,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1870-001-p1s35a34">
 <a>
@@ -11481,12 +11423,6 @@
 <deepord>27</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vytržit</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -12041,12 +11977,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>veké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1870-001-p1s43a5">
 <a>
@@ -12521,12 +12451,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1870-001-p1s45a4">
 <a>
@@ -13325,12 +13249,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1870-001-p1s47a17">
 <a>
@@ -16685,22 +16603,10 @@ průmysl.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno: Georgias</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -18379,12 +18285,6 @@ průmysl.</text>
 <sempos>adv.denot.grad.neg</sempos>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>kladné t-lemma</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1870-001-p1s69a28">
 <nodetype>list</nodetype>
@@ -19647,12 +19547,6 @@ průmysl.</text>
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno: peníz</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1870-001-p1s75a6">
 <a>
@@ -19997,12 +19891,6 @@ průmysl.</text>
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1870-001-p1s76a29">
 <a>
@@ -21936,12 +21824,6 @@ průmysl.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vygenrováno: novota</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1870-001-p1s84a20">
 <a>
@@ -24380,12 +24262,6 @@ průmysl.</text>
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno záporné t-lemma</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <annot_comment>
@@ -25538,12 +25414,6 @@ než jeden z pěti vlastníků domu v Kalifornii.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>malé písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1870-001-p1s96a4">
 <a>
@@ -29414,12 +29284,6 @@ než jeden z pěti vlastníků domu v Kalifornii.</text>
 <deepord>16</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vygenerováno: vytržit</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1870-001-p1s109a24">
 <a>

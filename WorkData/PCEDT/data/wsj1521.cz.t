@@ -11,7 +11,8 @@
 <LM id="T-wsj1521-001-p1s0">
 <atree.rf>a#a-wsj1521-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1521-001-p1s0a1">
+<children>
+<LM id="T-wsj1521-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1521-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1521-001-p1s0a30">
+<children>
+<LM id="T-wsj1521-001-p1s0a30">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -82,12 +84,15 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1521-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj1521-001-p1s0W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1521-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1521-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1578f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -122,9 +127,11 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1521-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1521-001-p1s0a31">
@@ -222,7 +229,9 @@
 <LM id="T-wsj1521-001-p1s0a20">
 <a>
 <lex.rf>a#a-wsj1521-001-p1s0W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1521-001-p1s0W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1521-001-p1s0W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Florida</t_lemma>
@@ -249,7 +258,9 @@
 <a>
 <lex.rf>a#a-wsj1521-001-p1s0W22-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1521-001-p1s0a16</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1521-001-p1s0a16</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -269,7 +280,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj1521-001-p1s0a25">
+<children>
+<LM id="T-wsj1521-001-p1s0a25">
 <a>
 <lex.rf>a#a-wsj1521-001-p1s0W24-Ta</lex.rf>
 </a>
@@ -280,12 +292,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>22</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1521-001-p1s0a28">
 <a>
 <lex.rf>a#a-wsj1521-001-p1s0W28-Ta</lex.rf>
-<aux.rf>a#a-wsj1521-001-p1s0W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1521-001-p1s0W26-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -328,13 +343,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Chambers Development Co. said its Security Bureau Inc. unit purchased two security concerns in Florida that will add $2.1 million of annual revenue.</eng_sentence>
 </LM>
 <LM id="T-wsj1521-001-p1s1">
 <atree.rf>a#a-wsj1521-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1521-001-p1s1a1">
+<children>
+<LM id="T-wsj1521-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1521-001-p1s1W18-Ta</lex.rf>
 </a>
@@ -358,7 +375,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1521-001-p1s1a3">
+<children>
+<LM id="T-wsj1521-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj1521-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -399,7 +417,9 @@
 <a>
 <lex.rf>a#a-wsj1521-001-p1s1W5-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1521-001-p1s1a3</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1521-001-p1s1a3</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -424,7 +444,8 @@
 <functor>ADDR</functor>
 <is_member>1</is_member>
 <deepord>5</deepord>
-<children id="T-wsj1521-001-p1s1a11">
+<children>
+<LM id="T-wsj1521-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj1521-001-p1s1W7-Ta</lex.rf>
 </a>
@@ -435,6 +456,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1521-001-p1s1a31">
@@ -517,7 +539,9 @@
 <LM id="T-wsj1521-001-p1s1a17">
 <a>
 <lex.rf>a#a-wsj1521-001-p1s1W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1521-001-p1s1W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1521-001-p1s1W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Florida</t_lemma>
@@ -527,9 +551,11 @@
 </gram>
 <deepord>16</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1521-001-p1s0a20</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -538,15 +564,20 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1521-001-p1s0a23</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1521-001-p1s0a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1521-001-p1s1a19">
@@ -560,7 +591,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1521-001-p1s1a20">
+<children>
+<LM id="T-wsj1521-001-p1s1a20">
 <a>
 <lex.rf>a#a-wsj1521-001-p1s1W20-Ta</lex.rf>
 </a>
@@ -583,7 +615,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj1521-001-p1s1a29">
+<children>
+<LM id="T-wsj1521-001-p1s1a29">
 <a>
 <lex.rf>a#a-wsj1521-001-p1s1W22-Ta</lex.rf>
 </a>
@@ -594,17 +627,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1521-001-p1s0a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1521-001-p1s1a23">
 <a>
 <lex.rf>a#a-wsj1521-001-p1s1W24-Ta</lex.rf>
-<aux.rf>a#a-wsj1521-001-p1s1W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1521-001-p1s1W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>expanze</t_lemma>
@@ -613,7 +651,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj1521-001-p1s1a26">
+<children>
+<LM id="T-wsj1521-001-p1s1a26">
 <a>
 <lex.rf>a#a-wsj1521-001-p1s1W29-Ta</lex.rf>
 <aux.rf>
@@ -654,22 +693,28 @@
 <deepord>24</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Purchase of the businesses serving Miami, Fort Lauderdale and West Palm Beach, Fla., is part of a plan by Chambers to expand in the growing security industry.</eng_sentence>
 </LM>
 <LM id="T-wsj1521-001-p1s2">
 <atree.rf>a#a-wsj1521-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1521-001-p1s2a1">
+<children>
+<LM id="T-wsj1521-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1521-001-p1s2W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1521-001-p1s2W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1521-001-p1s2W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9966f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -690,9 +735,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1521-001-p1s1a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1521-001-p1s2a2">
@@ -715,10 +762,7 @@
 <deepord>4</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>špatný infinitiv</text>
-</annot_comment>
+</LM>
 </children>
 <eng_sentence>Terms weren't disclosed.</eng_sentence>
 </LM>

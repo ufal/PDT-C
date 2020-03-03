@@ -765,12 +765,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>valké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2353-001-p1s1a31">
 <a>
@@ -939,10 +933,6 @@
 <type>New valency frame</type>
 <text>nP</text>
 </LM>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
 </annot_comment>
 </LM>
 </children>
@@ -1037,10 +1027,6 @@
 <LM>
 <type>New valency frame</type>
 <text>nP</text>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
 </LM>
 </annot_comment>
 </LM>
@@ -1510,12 +1496,6 @@
 <deepord>4</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>původně: zveřejnět</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2353-001-p1s4a6">
 <a>
@@ -2305,10 +2285,6 @@
 <type>New valency frame</type>
 <text>nP</text>
 </LM>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
 </annot_comment>
 </LM>
 </children>
@@ -2532,11 +2508,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2353-001-p1s6a14">
 <a>

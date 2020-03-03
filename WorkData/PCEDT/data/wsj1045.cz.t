@@ -318,12 +318,6 @@
 <deepord>23</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>chybná podoba</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2242,12 +2236,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>zkratka: senior</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -2983,12 +2971,6 @@
 <deepord>21</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>krátce</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

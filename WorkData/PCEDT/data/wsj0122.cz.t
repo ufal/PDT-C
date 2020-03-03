@@ -11,7 +11,8 @@
 <LM id="T-wsj0122-001-p1s0">
 <atree.rf>a#a-wsj0122-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0122-001-p1s0a1">
+<children>
+<LM id="T-wsj0122-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0122-001-p1s0W17-Ta</lex.rf>
 </a>
@@ -45,7 +46,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0122-001-p1s0a39">
+<children>
+<LM id="T-wsj0122-001-p1s0a39">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -110,6 +112,7 @@
 <deepord>8</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0122-001-p1s0a10">
@@ -124,7 +127,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0122-001-p1s0a11">
+<children>
+<LM id="T-wsj0122-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj0122-001-p1s0W13-Ta</lex.rf>
 </a>
@@ -171,7 +175,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj0122-001-p1s0a17">
+<children>
+<LM id="T-wsj0122-001-p1s0a17">
 <a>
 <lex.rf>a#a-wsj0122-001-p1s0W14-Ta</lex.rf>
 </a>
@@ -182,9 +187,11 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -216,15 +223,19 @@
 </gram>
 <deepord>17</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0122-001-p1s0a40</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0122-001-p1s0a23">
 <a>
 <lex.rf>a#a-wsj0122-001-p1s0W24-Ta</lex.rf>
-<aux.rf>a#a-wsj0122-001-p1s0W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0122-001-p1s0W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>korporace</t_lemma>
@@ -257,7 +268,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj0122-001-p1s0a26">
+<children>
+<LM id="T-wsj0122-001-p1s0a26">
 <a>
 <lex.rf>a#a-wsj0122-001-p1s0W26-Ta</lex.rf>
 </a>
@@ -268,7 +280,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj0122-001-p1s0a27">
+<children>
+<LM id="T-wsj0122-001-p1s0a27">
 <a>
 <lex.rf>a#a-wsj0122-001-p1s0W27-Ta</lex.rf>
 </a>
@@ -279,7 +292,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj0122-001-p1s0a28">
+<children>
+<LM id="T-wsj0122-001-p1s0a28">
 <a>
 <lex.rf>a#a-wsj0122-001-p1s0W34-Ta</lex.rf>
 </a>
@@ -296,7 +310,9 @@
 <a>
 <lex.rf>a#a-wsj0122-001-p1s0W29-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0122-001-p1s0a26</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0122-001-p1s0a26</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -316,7 +332,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj0122-001-p1s0a41">
+<children>
+<LM id="T-wsj0122-001-p1s0a41">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -354,20 +371,22 @@
 <deepord>29</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0122-001-p1s0a36</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -375,13 +394,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Young's Market Co., a wholesaler of spirits, wines and other goods, said it will merge with a new corporation formed by the Underwood family, which controls Young's.</eng_sentence>
 </LM>
 <LM id="T-wsj0122-001-p1s1">
 <atree.rf>a#a-wsj0122-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0122-001-p1s1a1">
+<children>
+<LM id="T-wsj0122-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0122-001-p1s1W10-Ta</lex.rf>
 </a>
@@ -397,7 +418,9 @@
 <LM id="T-wsj0122-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj0122-001-p1s1W2-Ta</lex.rf>
-<aux.rf>a#a-wsj0122-001-p1s1W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0122-001-p1s1W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>podmínka</t_lemma>
@@ -406,7 +429,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0122-001-p1s1a4">
+<children>
+<LM id="T-wsj0122-001-p1s1a4">
 <a>
 <lex.rf>a#a-wsj0122-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -417,6 +441,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0122-001-p1s1a5">
@@ -430,7 +455,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0122-001-p1s1a6">
+<children>
+<LM id="T-wsj0122-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj0122-001-p1s1W7-Ta</lex.rf>
 </a>
@@ -454,7 +480,9 @@
 <a>
 <lex.rf>a#a-wsj0122-001-p1s1W6-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0122-001-p1s1a5</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0122-001-p1s1a5</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -475,22 +503,29 @@
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0122-001-p1s0a32</target-node.rf>
 <informal-type>SPEC</informal-type>
 <str_comment>
+<LM>
 <name>OTHER</name>
 <comment>Zajímavá identifikační věta.</comment>
+</LM>
 </str_comment>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0122-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj0122-001-p1s1W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0122-001-p1s1W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0122-001-p1s1W11-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7115f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -511,9 +546,11 @@
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0122-001-p1s0a30</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0122-001-p1s1a13">
@@ -531,7 +568,9 @@
 <LM id="T-wsj0122-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj0122-001-p1s1W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0122-001-p1s1W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0122-001-p1s1W16-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2608f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -553,7 +592,9 @@
 <a>
 <lex.rf>a#a-wsj0122-001-p1s1W15-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0122-001-p1s1a12</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0122-001-p1s1a12</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -565,7 +606,9 @@
 <LM id="T-wsj0122-001-p1s1a19">
 <a>
 <lex.rf>a#a-wsj0122-001-p1s1W19-Ta</lex.rf>
-<aux.rf>a#a-wsj0122-001-p1s1W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0122-001-p1s1W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>prosinec</t_lemma>
@@ -579,13 +622,17 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0122-001-p1s0a20</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0122-001-p1s1a22">
@@ -615,7 +662,9 @@
 <LM id="T-wsj0122-001-p1s1a24">
 <a>
 <lex.rf>a#a-wsj0122-001-p1s1W24-Ta</lex.rf>
-<aux.rf>a#a-wsj0122-001-p1s1W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0122-001-p1s1W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akcie</t_lemma>
@@ -628,13 +677,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Under terms of the agreement, shareholders other than the Underwoods will receive $3,500 a share at closing, which is expected in December.</eng_sentence>
 </LM>
 <LM id="T-wsj0122-001-p1s2">
 <atree.rf>a#a-wsj0122-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0122-001-p1s2a1">
+<children>
+<LM id="T-wsj0122-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0122-001-p1s2W3-Ta</lex.rf>
 </a>
@@ -658,7 +709,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0122-001-p1s2a3">
+<children>
+<LM id="T-wsj0122-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj0122-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -669,21 +721,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0122-001-p1s1a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0122-001-p1s2a6">
 <a>
 <lex.rf>a#a-wsj0122-001-p1s2W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0122-001-p1s2W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0122-001-p1s2W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w10598f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -741,7 +794,8 @@
 <sempos>adj.quant.grad</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj0122-001-p1s2a17">
+<children>
+<LM id="T-wsj0122-001-p1s2a17">
 <a>
 <lex.rf>a#a-wsj0122-001-p1s2W9-Ta</lex.rf>
 </a>
@@ -749,6 +803,7 @@
 <t_lemma>než</t_lemma>
 <functor>DPHR</functor>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0122-001-p1s2a12">
@@ -762,7 +817,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0122-001-p1s2a13">
+<children>
+<LM id="T-wsj0122-001-p1s2a13">
 <a>
 <lex.rf>a#a-wsj0122-001-p1s2W12-Ta</lex.rf>
 </a>
@@ -774,19 +830,24 @@
 </gram>
 <deepord>10</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0122-001-p1s1a28</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0122-001-p1s1a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0122-001-p1s2a14">
@@ -801,9 +862,11 @@
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0122-001-p1s1a17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0122-001-p1s2a15">
@@ -817,7 +880,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj0122-001-p1s2a16">
+<children>
+<LM id="T-wsj0122-001-p1s2a16">
 <a>
 <lex.rf>a#a-wsj0122-001-p1s2W15-Ta</lex.rf>
 </a>
@@ -828,11 +892,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>13</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The Underwood family said that holders of more than a majority of the stock of the company have approved the transaction by written consent.</eng_sentence>
 </LM>

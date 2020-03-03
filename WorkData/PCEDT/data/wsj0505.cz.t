@@ -1530,9 +1530,6 @@
 <type>Typo</type>
 <text>přavděpodobně chyba v textu, lépe "v Seattlu"</text>
 </LM>
-<LM>
-<type>M-lemma</type>
-</LM>
 </annot_comment>
 </LM>
 </children>

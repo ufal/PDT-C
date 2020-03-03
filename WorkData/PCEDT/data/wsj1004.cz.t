@@ -1829,12 +1829,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>T-lema: z Armonek na Armonk</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2436,12 +2430,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>přidáno _se</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <eng_sentence>And IBM worries that the Japanese will take over that equipment market, too, unless U.S. semiconductor companies produce enough memory chips here to keep U.S. equipment makers healthy.</eng_sentence>
@@ -4711,12 +4699,6 @@
 <deepord>11</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>přidáno _se</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1004-001-p1s14a19">
 <a>
@@ -4829,11 +4811,6 @@
 <deepord>2</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1004-001-p1s15a15">
 <a>
@@ -6738,11 +6715,6 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>26</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1004-001-p1s21a39">
 <a>

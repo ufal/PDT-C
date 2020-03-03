@@ -284,12 +284,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>lépe #Comma, chybí interpunkční čárka</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

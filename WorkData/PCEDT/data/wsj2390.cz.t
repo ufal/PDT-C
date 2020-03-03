@@ -11,7 +11,8 @@
 <LM id="T-wsj2390-001-p1s0">
 <atree.rf>a#a-wsj2390-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2390-001-p1s0a1">
+<children>
+<LM id="T-wsj2390-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj2390-001-p1s0W14-Ta</lex.rf>
 </a>
@@ -61,7 +62,9 @@
 <LM id="T-wsj2390-001-p1s0a6">
 <a>
 <lex.rf>a#a-wsj2390-001-p1s0W4-Ta</lex.rf>
-<aux.rf>a#a-wsj2390-001-p1s0W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2390-001-p1s0W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Japonsko</t_lemma>
@@ -76,7 +79,9 @@
 <LM id="T-wsj2390-001-p1s0a8">
 <a>
 <lex.rf>a#a-wsj2390-001-p1s0W7-Ta</lex.rf>
-<aux.rf>a#a-wsj2390-001-p1s0W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2390-001-p1s0W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>září</t_lemma>
@@ -89,13 +94,16 @@
 <LM id="T-wsj2390-001-p1s0a37">
 <a>
 <lex.rf>a#a-wsj2390-001-p1s0W10-Ta</lex.rf>
-<aux.rf>a#a-wsj2390-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2390-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>7</deepord>
-<children id="T-wsj2390-001-p1s0a10">
+<children>
+<LM id="T-wsj2390-001-p1s0a10">
 <a>
 <lex.rf>a#a-wsj2390-001-p1s0W9-Ta</lex.rf>
 </a>
@@ -106,12 +114,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2390-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj2390-001-p1s0W13-Ta</lex.rf>
-<aux.rf>a#a-wsj2390-001-p1s0W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2390-001-p1s0W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -120,7 +131,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj2390-001-p1s0a14">
+<children>
+<LM id="T-wsj2390-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj2390-001-p1s0W12-Ta</lex.rf>
 </a>
@@ -131,6 +143,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -159,9 +172,11 @@
 </gram>
 <deepord>11</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2390-001-p1s0a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2390-001-p1s0a16">
@@ -179,13 +194,16 @@
 <LM id="T-wsj2390-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj2390-001-p1s0W18-Ta</lex.rf>
-<aux.rf>a#a-wsj2390-001-p1s0W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2390-001-p1s0W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>14</deepord>
-<children id="T-wsj2390-001-p1s0a18">
+<children>
+<LM id="T-wsj2390-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj2390-001-p1s0W17-Ta</lex.rf>
 </a>
@@ -196,12 +214,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2390-001-p1s0a32">
 <a>
 <lex.rf>a#a-wsj2390-001-p1s0W15-Ta</lex.rf>
-<aux.rf>a#a-wsj2390-001-p1s0W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2390-001-p1s0W20-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -223,15 +244,19 @@
 </gram>
 <deepord>17</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2390-001-p1s0a34</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2390-001-p1s0a22">
 <a>
 <lex.rf>a#a-wsj2390-001-p1s0W23-Ta</lex.rf>
-<aux.rf>a#a-wsj2390-001-p1s0W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2390-001-p1s0W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>měsíc</t_lemma>
@@ -240,7 +265,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj2390-001-p1s0a23">
+<children>
+<LM id="T-wsj2390-001-p1s0a23">
 <a>
 <lex.rf>a#a-wsj2390-001-p1s0W22-Ta</lex.rf>
 </a>
@@ -251,6 +277,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>18</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2390-001-p1s0a33">
@@ -273,7 +300,9 @@
 <LM id="T-wsj2390-001-p1s0a24">
 <a>
 <lex.rf>a#a-wsj2390-001-p1s0W26-Ta</lex.rf>
-<aux.rf>a#a-wsj2390-001-p1s0W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2390-001-p1s0W25-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3328f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -296,9 +325,11 @@
 <is_parenthesis>1</is_parenthesis>
 <deepord>20</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2390-001-p1s0a1</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2390-001-p1s0a35">
@@ -312,7 +343,9 @@
 <LM id="T-wsj2390-001-p1s0a28">
 <a>
 <lex.rf>a#a-wsj2390-001-p1s0W28-Ta</lex.rf>
-<aux.rf>a#a-wsj2390-001-p1s0W27-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2390-001-p1s0W27-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>pátek</t_lemma>
@@ -348,10 +381,6 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>24</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj2390-001-p1s0a31">
 <a>
@@ -373,13 +402,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Japan's wholesale prices in September rose 3.3% from a year earlier and were up 0.4% from the previous month, the Bank of Japan announced Friday.</eng_sentence>
 </LM>
 <LM id="T-wsj2390-001-p1s1">
 <atree.rf>a#a-wsj2390-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2390-001-p1s1a1">
+<children>
+<LM id="T-wsj2390-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj2390-001-p1s1W4-Ta</lex.rf>
 </a>
@@ -433,7 +464,9 @@
 <LM id="T-wsj2390-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj2390-001-p1s1W6-Ta</lex.rf>
-<aux.rf>a#a-wsj2390-001-p1s1W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2390-001-p1s1W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>90.1</t_lemma>
@@ -475,7 +508,9 @@
 <LM id="T-wsj2390-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj2390-001-p1s1W13-Ta</lex.rf>
-<aux.rf>a#a-wsj2390-001-p1s1W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2390-001-p1s1W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -484,7 +519,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj2390-001-p1s1a14">
+<children>
+<LM id="T-wsj2390-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj2390-001-p1s1W14-Ta</lex.rf>
 </a>
@@ -495,11 +531,13 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>9</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The wholesale price index stood at 90.1, compared with a 1985 base of 100.</eng_sentence>
 </LM>

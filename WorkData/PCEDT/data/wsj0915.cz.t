@@ -11,7 +11,8 @@
 <LM id="T-wsj0915-001-p1s0">
 <atree.rf>a#a-wsj0915-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0915-001-p1s0a1">
+<children>
+<LM id="T-wsj0915-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0915-001-p1s0W5-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0915-001-p1s0a24">
+<children>
+<LM id="T-wsj0915-001-p1s0a24">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -73,12 +75,15 @@
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0915-001-p1s0a8">
 <a>
 <lex.rf>a#a-wsj0915-001-p1s0W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0915-001-p1s0W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0915-001-p1s0W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6275f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -99,15 +104,19 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0915-001-p1s0a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0915-001-p1s0a10">
 <a>
 <lex.rf>a#a-wsj0915-001-p1s0W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0915-001-p1s0W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0915-001-p1s0W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>koupě</t_lemma>
@@ -116,7 +125,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0915-001-p1s0a15">
+<children>
+<LM id="T-wsj0915-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj0915-001-p1s0W15-Ta</lex.rf>
 </a>
@@ -137,7 +147,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0915-001-p1s0a26">
+<children>
+<LM id="T-wsj0915-001-p1s0a26">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -178,6 +189,7 @@
 <deepord>14</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0915-001-p1s0a16">
@@ -195,14 +207,17 @@
 <children>
 <LM id="T-wsj0915-001-p1s0a28">
 <a>
-<aux.rf>a#a-wsj0915-001-p1s0W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0915-001-p1s0W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
 <functor>DIR1</functor>
 <deepord>17</deepord>
-<children id="T-wsj0915-001-p1s0a23">
+<children>
+<LM id="T-wsj0915-001-p1s0a23">
 <a>
 <lex.rf>a#a-wsj0915-001-p1s0W23-Ta</lex.rf>
 </a>
@@ -213,6 +228,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0915-001-p1s0a17">
@@ -242,7 +258,9 @@
 <LM id="T-wsj0915-001-p1s0a20">
 <a>
 <lex.rf>a#a-wsj0915-001-p1s0W21-Ta</lex.rf>
-<aux.rf>a#a-wsj0915-001-p1s0W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0915-001-p1s0W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>ventil</t_lemma>
@@ -251,7 +269,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj0915-001-p1s0a21">
+<children>
+<LM id="T-wsj0915-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj0915-001-p1s0W20-Ta</lex.rf>
 </a>
@@ -262,6 +281,11 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>20</deepord>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 </children>
@@ -269,18 +293,17 @@
 </children>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
-</children>
 </children>
 <eng_sentence>Duriron Co. said it has agreed to buy Automax Inc., a Cincinnati maker of control accessories for industrial valves.</eng_sentence>
 </LM>
 <LM id="T-wsj0915-001-p1s1">
 <atree.rf>a#a-wsj0915-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0915-001-p1s1a1">
+<children>
+<LM id="T-wsj0915-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0915-001-p1s1W5-Ta</lex.rf>
 </a>
@@ -292,7 +315,9 @@
 <LM id="T-wsj0915-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj0915-001-p1s1W3-Ta</lex.rf>
-<aux.rf>a#a-wsj0915-001-p1s1W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0915-001-p1s1W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9966f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -331,10 +356,6 @@
 <deepord>4</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>špatně utvořený infinitiv - zveřejnět</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0915-001-p1s1a6">
 <a>
@@ -361,7 +382,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj0915-001-p1s1a7">
+<children>
+<LM id="T-wsj0915-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj0915-001-p1s1W7-Ta</lex.rf>
 </a>
@@ -372,17 +394,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0915-001-p1s0a29</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0915-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj0915-001-p1s1W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0915-001-p1s1W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0915-001-p1s1W10-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4286f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -405,15 +432,19 @@
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0915-001-p1s0a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0915-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj0915-001-p1s1W14-Ta</lex.rf>
-<aux.rf>a#a-wsj0915-001-p1s1W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0915-001-p1s1W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výměna</t_lemma>
@@ -422,7 +453,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0915-001-p1s1a15">
+<children>
+<LM id="T-wsj0915-001-p1s1a15">
 <a>
 <lex.rf>a#a-wsj0915-001-p1s1W15-Ta</lex.rf>
 </a>
@@ -433,20 +465,23 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Terms weren't disclosed, but Duriron said the deal will be completed through an exchange of stock.</eng_sentence>
 </LM>
 <LM id="T-wsj0915-001-p1s2">
 <atree.rf>a#a-wsj0915-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0915-001-p1s2a1">
+<children>
+<LM id="T-wsj0915-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0915-001-p1s2W7-Ta</lex.rf>
 </a>
@@ -486,7 +521,9 @@
 <LM id="T-wsj0915-001-p1s2a5">
 <a>
 <lex.rf>a#a-wsj0915-001-p1s2W5-Ta</lex.rf>
-<aux.rf>a#a-wsj0915-001-p1s2W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0915-001-p1s2W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>počet</t_lemma>
@@ -524,9 +561,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0915-001-p1s0a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0915-001-p1s2a8">
@@ -576,7 +615,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0915-001-p1s2a11">
+<children>
+<LM id="T-wsj0915-001-p1s2a11">
 <a>
 <lex.rf>a#a-wsj0915-001-p1s2W10-Ta</lex.rf>
 </a>
@@ -587,6 +627,7 @@
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0915-001-p1s2a13">
@@ -606,13 +647,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Closely held Automax has annual sales of about $10 million.</eng_sentence>
 </LM>
 <LM id="T-wsj0915-001-p1s3">
 <atree.rf>a#a-wsj0915-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0915-001-p1s3a1">
+<children>
+<LM id="T-wsj0915-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj0915-001-p1s3W13-Ta</lex.rf>
 </a>
@@ -646,7 +689,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0915-001-p1s3a3">
+<children>
+<LM id="T-wsj0915-001-p1s3a3">
 <a>
 <lex.rf>a#a-wsj0915-001-p1s3W2-Ta</lex.rf>
 </a>
@@ -657,6 +701,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0915-001-p1s3a5">
@@ -671,7 +716,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0915-001-p1s3a6">
+<children>
+<LM id="T-wsj0915-001-p1s3a6">
 <a>
 <lex.rf>a#a-wsj0915-001-p1s3W8-Ta</lex.rf>
 </a>
@@ -746,19 +792,24 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0915-001-p1s1a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0915-001-p1s3a16">
 <a>
 <lex.rf>a#a-wsj0915-001-p1s3W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0915-001-p1s3W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0915-001-p1s3W15-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3305f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -788,9 +839,11 @@
 </gram>
 <deepord>13</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0915-001-p1s1a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0915-001-p1s3a18">
@@ -817,15 +870,19 @@
 </gram>
 <deepord>15</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0915-001-p1s3a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0915-001-p1s3a21">
 <a>
 <lex.rf>a#a-wsj0915-001-p1s3W21-Ta</lex.rf>
-<aux.rf>a#a-wsj0915-001-p1s3W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0915-001-p1s3W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -834,7 +891,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj0915-001-p1s3a22">
+<children>
+<LM id="T-wsj0915-001-p1s3a22">
 <a>
 <lex.rf>a#a-wsj0915-001-p1s3W22-Ta</lex.rf>
 </a>
@@ -845,13 +903,15 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>18</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Duriron, a maker of pumps, valves and other controls, said the acquisition won't impact its 1989 profit.</eng_sentence>
 </LM>

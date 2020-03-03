@@ -1361,11 +1361,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0159-001-p1s2a7">
 <a>
@@ -1593,12 +1588,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>změněno z nebo-li na neboli</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0159-001-p1s3a25">
 <nodetype>qcomplex</nodetype>

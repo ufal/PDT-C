@@ -11,7 +11,8 @@
 <LM id="T-wsj1070-001-p1s0">
 <atree.rf>a#a-wsj1070-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1070-001-p1s0a1">
+<children>
+<LM id="T-wsj1070-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1070-001-p1s0W11-Ta</lex.rf>
 </a>
@@ -63,7 +64,9 @@
 <LM id="T-wsj1070-001-p1s0a6">
 <a>
 <lex.rf>a#a-wsj1070-001-p1s0W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1070-001-p1s0W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1070-001-p1s0W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rakovina</t_lemma>
@@ -87,7 +90,9 @@
 <LM id="T-wsj1070-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj1070-001-p1s0W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1070-001-p1s0W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1070-001-p1s0W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>shromáždění</t_lemma>
@@ -98,14 +103,18 @@
 </gram>
 <deepord>5</deepord>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1070-001-p1s0a10">
 <a>
 <lex.rf>a#a-wsj1070-001-p1s0W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1070-001-p1s0W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1070-001-p1s0W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5886f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -117,8 +126,10 @@
 </gram>
 <deepord>7</deepord>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1070-001-p1s0a11">
@@ -140,9 +151,11 @@
 <functor>ACT</functor>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1070-001-p1s0a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -152,7 +165,9 @@
 <LM id="T-wsj1070-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj1070-001-p1s0W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1070-001-p1s0W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1070-001-p1s0W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -161,7 +176,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1070-001-p1s0a14">
+<children>
+<LM id="T-wsj1070-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj1070-001-p1s0W14-Ta</lex.rf>
 </a>
@@ -172,6 +188,7 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1070-001-p1s0a18">
@@ -221,10 +238,6 @@
 <deepord>15</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1070-001-p1s0a23">
 <a>
@@ -259,7 +272,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj1070-001-p1s0a22">
+<children>
+<LM id="T-wsj1070-001-p1s0a22">
 <a>
 <lex.rf>a#a-wsj1070-001-p1s0W22-Ta</lex.rf>
 </a>
@@ -271,24 +285,29 @@
 </gram>
 <deepord>19</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1070-001-p1s0a26</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>THE AMERICAN CANCER SOCIETY'S 1988 costs of fund raising and administration were $72.4 million, or 23.2% of its revenue.</eng_sentence>
 </LM>
 <LM id="T-wsj1070-001-p1s1">
 <atree.rf>a#a-wsj1070-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1070-001-p1s1a1">
+<children>
+<LM id="T-wsj1070-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1070-001-p1s1W9-Ta</lex.rf>
 </a>
@@ -312,10 +331,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1070-001-p1s1a4">
+<children>
+<LM id="T-wsj1070-001-p1s1a4">
 <a>
 <lex.rf>a#a-wsj1070-001-p1s1W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1070-001-p1s1W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1070-001-p1s1W2-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zpráva</t_lemma>
@@ -352,7 +374,9 @@
 <LM id="T-wsj1070-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj1070-001-p1s1W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1070-001-p1s1W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1070-001-p1s1W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>finance</t_lemma>
@@ -361,7 +385,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1070-001-p1s1a9">
+<children>
+<LM id="T-wsj1070-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj1070-001-p1s1W7-Ta</lex.rf>
 </a>
@@ -372,9 +397,11 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1070-001-p1s1a10">
@@ -412,7 +439,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1070-001-p1s1a25">
+<children>
+<LM id="T-wsj1070-001-p1s1a25">
 <a>
 <lex.rf>a#a-wsj1070-001-p1s1W18-Ta</lex.rf>
 </a>
@@ -424,7 +452,9 @@
 <LM id="T-wsj1070-001-p1s1a15">
 <a>
 <lex.rf>a#a-wsj1070-001-p1s1W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1070-001-p1s1W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1070-001-p1s1W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>noviny</t_lemma>
@@ -434,7 +464,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1070-001-p1s1a24">
+<children>
+<LM id="T-wsj1070-001-p1s1a24">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -460,15 +491,15 @@
 <deepord>15</deepord>
 </LM>
 </children>
+</LM>
 </children>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 <LM id="T-wsj1070-001-p1s1a17">
 <a>
 <lex.rf>a#a-wsj1070-001-p1s1W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1070-001-p1s1W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1070-001-p1s1W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>měsíčník</t_lemma>
@@ -478,7 +509,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj1070-001-p1s1a20">
+<children>
+<LM id="T-wsj1070-001-p1s1a20">
 <a>
 <lex.rf>a#a-wsj1070-001-p1s1W20-Ta</lex.rf>
 </a>
@@ -489,10 +521,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1070-001-p1s1a22">
+<children>
+<LM id="T-wsj1070-001-p1s1a22">
 <a>
 <lex.rf>a#a-wsj1070-001-p1s1W23-Ta</lex.rf>
-<aux.rf>a#a-wsj1070-001-p1s1W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1070-001-p1s1W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>aktivita</t_lemma>
@@ -501,7 +536,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1070-001-p1s1a23">
+<children>
+<LM id="T-wsj1070-001-p1s1a23">
 <a>
 <lex.rf>a#a-wsj1070-001-p1s1W22-Ta</lex.rf>
 </a>
@@ -512,16 +548,21 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>18</deepord>
-</children>
-</children>
-</children>
 </LM>
-</children>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>A chart in last Friday's special report on personal finance contained an incorrect figure supplied by NonProfit Times, a monthly newspaper covering charities.</eng_sentence>
 </LM>

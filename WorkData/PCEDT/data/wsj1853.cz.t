@@ -850,12 +850,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1853-001-p1s2a13">
 <a>
@@ -2569,12 +2563,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatný nominativ</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1853-001-p1s9a6">
 <a>

@@ -470,11 +470,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <eng_sentence>He will succeed Arthur E. Himebaugh as general manager Feb. 1, when Mr. Himebaugh retires.</eng_sentence>

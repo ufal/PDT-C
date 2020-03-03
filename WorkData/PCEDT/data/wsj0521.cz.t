@@ -11,7 +11,8 @@
 <LM id="T-wsj0521-001-p1s0">
 <atree.rf>a#a-wsj0521-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0521-001-p1s0a1">
+<children>
+<LM id="T-wsj0521-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0521-001-p1s0W8-Ta</lex.rf>
 </a>
@@ -47,7 +48,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0521-001-p1s0a4">
+<children>
+<LM id="T-wsj0521-001-p1s0a4">
 <a>
 <lex.rf>a#a-wsj0521-001-p1s0W2-Ta</lex.rf>
 </a>
@@ -58,12 +60,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0521-001-p1s0a6">
 <a>
 <lex.rf>a#a-wsj0521-001-p1s0W6-Ta</lex.rf>
-<aux.rf>a#a-wsj0521-001-p1s0W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0521-001-p1s0W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>počet</t_lemma>
@@ -101,8 +106,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>Coref</type>
 <text>nejspíš odkazuje na něco v předchozím kontextu, který zde ale chybí</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0521-001-p1s0a9">
@@ -139,7 +146,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0521-001-p1s0a12">
+<children>
+<LM id="T-wsj0521-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj0521-001-p1s0W11-Ta</lex.rf>
 </a>
@@ -150,6 +158,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -165,7 +174,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj0521-001-p1s0a14">
+<children>
+<LM id="T-wsj0521-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj0521-001-p1s0W13-Ta</lex.rf>
 </a>
@@ -176,24 +186,19 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>proprium</text>
-</annot_comment>
-</children>
-<annot_comment>
-<type>T-lemma</type>
-<text>proprium</text>
-</annot_comment>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The closely held supermarket chain named Frank Nicastro vice president and treasurer.</eng_sentence>
 </LM>
 <LM id="T-wsj0521-001-p1s1">
 <atree.rf>a#a-wsj0521-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0521-001-p1s1a1">
+<children>
+<LM id="T-wsj0521-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0521-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -217,7 +222,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0521-001-p1s1a3">
+<children>
+<LM id="T-wsj0521-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj0521-001-p1s1W1-Ta</lex.rf>
 </a>
@@ -228,17 +234,22 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0521-001-p1s0a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0521-001-p1s1a5">
 <a>
 <lex.rf>a#a-wsj0521-001-p1s1W5-Ta</lex.rf>
-<aux.rf>a#a-wsj0521-001-p1s1W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0521-001-p1s1W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>firma</t_lemma>
@@ -247,7 +258,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0521-001-p1s1a19">
+<children>
+<LM id="T-wsj0521-001-p1s1a19">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -276,21 +288,28 @@
 <deepord>7</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0521-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <str_comment>
+<LM>
 <name>AMBIG</name>
 <comment>asi</comment>
+</LM>
 </str_comment>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0521-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj0521-001-p1s1W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0521-001-p1s1W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0521-001-p1s1W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -359,16 +378,20 @@
 </gram>
 <deepord>13</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0521-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0521-001-p1s1a15">
 <a>
 <lex.rf>a#a-wsj0521-001-p1s1W14-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0521-001-p1s1a9</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0521-001-p1s1a9</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>kde</t_lemma>
 <functor>LOC</functor>
@@ -388,7 +411,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj0521-001-p1s1a17">
+<children>
+<LM id="T-wsj0521-001-p1s1a17">
 <a>
 <lex.rf>a#a-wsj0521-001-p1s1W16-Ta</lex.rf>
 </a>
@@ -399,13 +423,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>16</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The 47-year-old Mr. Nicastro joins Grand Union from Singer Co., where he was treasurer.</eng_sentence>
 </LM>

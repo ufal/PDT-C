@@ -11,7 +11,8 @@
 <LM id="T-wsj1981-001-p1s0">
 <atree.rf>a#a-wsj1981-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1981-001-p1s0a1">
+<children>
+<LM id="T-wsj1981-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s0W8-Ta</lex.rf>
 </a>
@@ -59,7 +60,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1981-001-p1s0a38">
+<children>
+<LM id="T-wsj1981-001-p1s0a38">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -103,6 +105,7 @@
 <deepord>8</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -110,7 +113,9 @@
 <LM id="T-wsj1981-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s0W27-Ta</lex.rf>
-<aux.rf>a#a-wsj1981-001-p1s0W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1981-001-p1s0W10-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1940f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -138,9 +143,11 @@
 </gram>
 <deepord>11</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1981-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1981-001-p1s0a20">
@@ -155,7 +162,9 @@
 <LM id="T-wsj1981-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s0W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1981-001-p1s0W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1981-001-p1s0W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>automobil</t_lemma>
@@ -170,7 +179,9 @@
 <a>
 <lex.rf>a#a-wsj1981-001-p1s0W12-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1981-001-p1s0a40</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1981-001-p1s0a40</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -194,7 +205,9 @@
 <LM id="T-wsj1981-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s0W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1981-001-p1s0W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1981-001-p1s0W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -203,7 +216,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1981-001-p1s0a19">
+<children>
+<LM id="T-wsj1981-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s0W17-Ta</lex.rf>
 </a>
@@ -214,6 +228,7 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -221,7 +236,9 @@
 <LM id="T-wsj1981-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s0W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1981-001-p1s0W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1981-001-p1s0W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>verze</t_lemma>
@@ -260,7 +277,9 @@
 <a>
 <lex.rf>a#a-wsj1981-001-p1s0W21-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1981-001-p1s0a40</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1981-001-p1s0a40</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -292,7 +311,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj1981-001-p1s0a27">
+<children>
+<LM id="T-wsj1981-001-p1s0a27">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s0W24-Ta</lex.rf>
 </a>
@@ -303,6 +323,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>25</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -314,7 +335,9 @@
 <LM id="T-wsj1981-001-p1s0a29">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s0W29-Ta</lex.rf>
-<aux.rf>a#a-wsj1981-001-p1s0W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1981-001-p1s0W28-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>reakce</t_lemma>
@@ -323,10 +346,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>26</deepord>
-<children id="T-wsj1981-001-p1s0a31">
+<children>
+<LM id="T-wsj1981-001-p1s0a31">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s0W32-Ta</lex.rf>
-<aux.rf>a#a-wsj1981-001-p1s0W30-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1981-001-p1s0W30-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>prodejnost</t_lemma>
@@ -335,7 +361,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>27</deepord>
-<children id="T-wsj1981-001-p1s0a32">
+<children>
+<LM id="T-wsj1981-001-p1s0a32">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s0W31-Ta</lex.rf>
 </a>
@@ -346,11 +373,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>28</deepord>
+</LM>
 </children>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>Secondary preposition</type>
 <text>v reakci na+4</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1981-001-p1s0a33">
@@ -388,7 +419,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>31</deepord>
-<children id="T-wsj1981-001-p1s0a35">
+<children>
+<LM id="T-wsj1981-001-p1s0a35">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s0W35-Ta</lex.rf>
 </a>
@@ -399,20 +431,23 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>32</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>General Motors Corp.'s Chevrolet division, reacting to slow sales, said it will offer $800 rebates on its 1990 Beretta, the two-door version of its core compact-car line.</eng_sentence>
 </LM>
 <LM id="T-wsj1981-001-p1s1">
 <atree.rf>a#a-wsj1981-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1981-001-p1s1a1">
+<children>
+<LM id="T-wsj1981-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s1W10-Ta</lex.rf>
 </a>
@@ -470,7 +505,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1981-001-p1s1a7">
+<children>
+<LM id="T-wsj1981-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s1W4-Ta</lex.rf>
 </a>
@@ -481,6 +517,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1981-001-p1s1a2">
@@ -508,9 +545,11 @@
 </gram>
 <deepord>6</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1981-001-p1s1a6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1981-001-p1s1a9">
@@ -554,7 +593,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1981-001-p1s1a12">
+<children>
+<LM id="T-wsj1981-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s1W12-Ta</lex.rf>
 </a>
@@ -565,11 +605,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1981-001-p1s0a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1981-001-p1s1a13">
@@ -586,7 +629,9 @@
 <deepord>14</deepord>
 <children>
 <LM id="T-wsj1981-001-p1s1a29">
-<coref_gram.rf>T-wsj1981-001-p1s1a11</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1981-001-p1s1a11</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -634,7 +679,9 @@
 <a>
 <lex.rf>a#a-wsj1981-001-p1s1W17-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1981-001-p1s1a14</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1981-001-p1s1a14</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -654,7 +701,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj1981-001-p1s1a20">
+<children>
+<LM id="T-wsj1981-001-p1s1a20">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s1W18-Ta</lex.rf>
 </a>
@@ -665,11 +713,14 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>18</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1981-001-p1s1a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -681,7 +732,9 @@
 <LM id="T-wsj1981-001-p1s1a23">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s1W25-Ta</lex.rf>
-<aux.rf>a#a-wsj1981-001-p1s1W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1981-001-p1s1W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>týden</t_lemma>
@@ -702,7 +755,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj1981-001-p1s1a24">
+<children>
+<LM id="T-wsj1981-001-p1s1a24">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s1W22-Ta</lex.rf>
 </a>
@@ -713,12 +767,15 @@
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>21</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1981-001-p1s1a27">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s1W28-Ta</lex.rf>
-<aux.rf>a#a-wsj1981-001-p1s1W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1981-001-p1s1W26-Ta</LM>
+</aux.rf>
 </a>
 <coref_special>exoph</coref_special>
 <nodetype>complex</nodetype>
@@ -728,7 +785,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj1981-001-p1s1a28">
+<children>
+<LM id="T-wsj1981-001-p1s1a28">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s1W27-Ta</lex.rf>
 </a>
@@ -739,21 +797,26 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>25</deepord>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>Typo</type>
+</LM>
 </annot_comment>
+</LM>
 </children>
 <eng_sentence>Sluggish sales of the Beretta, and its four-door sister car, the Corsica, prompted GM to idle the two plants that build the automobiles for a total of three weeks this month.</eng_sentence>
 </LM>
 <LM id="T-wsj1981-001-p1s2">
 <atree.rf>a#a-wsj1981-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1981-001-p1s2a1">
+<children>
+<LM id="T-wsj1981-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s2W13-Ta</lex.rf>
 </a>
@@ -813,9 +876,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1981-001-p1s1a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1981-001-p1s2a6">
@@ -829,10 +894,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1981-001-p1s2a8">
+<children>
+<LM id="T-wsj1981-001-p1s2a8">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s2W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1981-001-p1s2W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1981-001-p1s2W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výroba</t_lemma>
@@ -857,7 +925,9 @@
 <LM id="T-wsj1981-001-p1s2a11">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s2W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1981-001-p1s2W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1981-001-p1s2W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>divize</t_lemma>
@@ -866,7 +936,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1981-001-p1s2a12">
+<children>
+<LM id="T-wsj1981-001-p1s2a12">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s2W11-Ta</lex.rf>
 </a>
@@ -877,14 +948,18 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1981-001-p1s0a40</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -910,7 +985,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1981-001-p1s2a17">
+<children>
+<LM id="T-wsj1981-001-p1s2a17">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s2W16-Ta</lex.rf>
 </a>
@@ -921,7 +997,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1981-001-p1s2a18">
+<children>
+<LM id="T-wsj1981-001-p1s2a18">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s2W15-Ta</lex.rf>
 </a>
@@ -932,12 +1009,16 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1981-001-p1s2a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1981-001-p1s2a15">
@@ -957,7 +1038,9 @@
 <LM id="T-wsj1981-001-p1s2a20">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s2W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1981-001-p1s2W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1981-001-p1s2W17-Ta</LM>
+</aux.rf>
 </a>
 <coref_special>exoph</coref_special>
 <nodetype>complex</nodetype>
@@ -967,7 +1050,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1981-001-p1s2a21">
+<children>
+<LM id="T-wsj1981-001-p1s2a21">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s2W18-Ta</lex.rf>
 </a>
@@ -978,18 +1062,22 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1981-001-p1s2a24">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s2W23-Ta</lex.rf>
-<aux.rf>a#a-wsj1981-001-p1s2W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1981-001-p1s2W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>18</deepord>
-<children id="T-wsj1981-001-p1s2a23">
+<children>
+<LM id="T-wsj1981-001-p1s2a23">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s2W22-Ta</lex.rf>
 </a>
@@ -1000,6 +1088,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>17</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -1021,7 +1110,9 @@
 <LM id="T-wsj1981-001-p1s2a27">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s2W26-Ta</lex.rf>
-<aux.rf>a#a-wsj1981-001-p1s2W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1981-001-p1s2W25-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>začátek</t_lemma>
@@ -1030,7 +1121,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj1981-001-p1s2a28">
+<children>
+<LM id="T-wsj1981-001-p1s2a28">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s2W27-Ta</lex.rf>
 </a>
@@ -1041,6 +1133,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1981-001-p1s2a29">
@@ -1058,13 +1151,16 @@
 <LM id="T-wsj1981-001-p1s2a32">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s2W32-Ta</lex.rf>
-<aux.rf>a#a-wsj1981-001-p1s2W30-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1981-001-p1s2W30-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>24</deepord>
-<children id="T-wsj1981-001-p1s2a31">
+<children>
+<LM id="T-wsj1981-001-p1s2a31">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s2W31-Ta</lex.rf>
 </a>
@@ -1075,20 +1171,23 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>25</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The Corsica and Beretta make up the highest-volume car line at Chevrolet, but sales of the vehicles are off 9.6% for the year, and fell a steep 34% during early October.</eng_sentence>
 </LM>
 <LM id="T-wsj1981-001-p1s3">
 <atree.rf>a#a-wsj1981-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1981-001-p1s3a1">
+<children>
+<LM id="T-wsj1981-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s3W3-Ta</lex.rf>
 </a>
@@ -1120,9 +1219,11 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1981-001-p1s2a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1981-001-p1s3a3">
@@ -1172,7 +1273,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1981-001-p1s3a6">
+<children>
+<LM id="T-wsj1981-001-p1s3a6">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s3W6-Ta</lex.rf>
 </a>
@@ -1183,12 +1285,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1981-001-p1s3a9">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s3W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1981-001-p1s3W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1981-001-p1s3W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>model</t_lemma>
@@ -1213,7 +1318,9 @@
 <LM id="T-wsj1981-001-p1s3a12">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s3W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1981-001-p1s3W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1981-001-p1s3W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -1222,7 +1329,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1981-001-p1s3a13">
+<children>
+<LM id="T-wsj1981-001-p1s3a13">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s3W13-Ta</lex.rf>
 </a>
@@ -1233,11 +1341,14 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1981-001-p1s0a18</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -1245,13 +1356,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Chevrolet already is offering an $800 rebate on the 1990-model Corsica.</eng_sentence>
 </LM>
 <LM id="T-wsj1981-001-p1s4">
 <atree.rf>a#a-wsj1981-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1981-001-p1s4a1">
+<children>
+<LM id="T-wsj1981-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s4W3-Ta</lex.rf>
 </a>
@@ -1275,7 +1388,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1981-001-p1s4a3">
+<children>
+<LM id="T-wsj1981-001-p1s4a3">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s4W1-Ta</lex.rf>
 </a>
@@ -1286,17 +1400,22 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1981-001-p1s0a33</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1981-001-p1s4a5">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s4W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1981-001-p1s4W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1981-001-p1s4W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>model</t_lemma>
@@ -1333,13 +1452,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The latest rebate is good for all Beretta models.</eng_sentence>
 </LM>
 <LM id="T-wsj1981-001-p1s5">
 <atree.rf>a#a-wsj1981-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1981-001-p1s5a8">
+<children>
+<LM id="T-wsj1981-001-p1s5a8">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s5W12-Ta</lex.rf>
 </a>
@@ -1359,7 +1480,8 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1981-001-p1s5a3">
+<children>
+<LM id="T-wsj1981-001-p1s5a3">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s5W4-Ta</lex.rf>
 </a>
@@ -1376,7 +1498,9 @@
 <a>
 <lex.rf>a#a-wsj1981-001-p1s5W3-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1981-001-p1s5a35</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1981-001-p1s5a35</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>kdo</t_lemma>
 <functor>ACT</functor>
@@ -1398,12 +1522,15 @@
 <deepord>4</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1981-001-p1s5a9">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s5W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1981-001-p1s5W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1981-001-p1s5W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7796f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1419,7 +1546,9 @@
 <a>
 <lex.rf>a#a-wsj1981-001-p1s5W7-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1981-001-p1s5a35</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1981-001-p1s5a35</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>BEN</functor>
@@ -1439,7 +1568,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1981-001-p1s5a12">
+<children>
+<LM id="T-wsj1981-001-p1s5a12">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s5W10-Ta</lex.rf>
 </a>
@@ -1450,11 +1580,14 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1981-001-p1s4a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -1462,7 +1595,9 @@
 <LM id="T-wsj1981-001-p1s5a13">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s5W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1981-001-p1s5W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1981-001-p1s5W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w732f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1473,7 +1608,8 @@
 <sempos>v</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1981-001-p1s5a14">
+<children>
+<LM id="T-wsj1981-001-p1s5a14">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s5W14-Ta</lex.rf>
 </a>
@@ -1488,7 +1624,9 @@
 <LM id="T-wsj1981-001-p1s5a16">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s5W17-Ta</lex.rf>
-<aux.rf>a#a-wsj1981-001-p1s5W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1981-001-p1s5W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>míra</t_lemma>
@@ -1497,7 +1635,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1981-001-p1s5a17">
+<children>
+<LM id="T-wsj1981-001-p1s5a17">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s5W16-Ta</lex.rf>
 </a>
@@ -1508,12 +1647,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1981-001-p1s5a19">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s5W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1981-001-p1s5W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1981-001-p1s5W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rozsah</t_lemma>
@@ -1522,10 +1664,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj1981-001-p1s5a32">
+<children>
+<LM id="T-wsj1981-001-p1s5a32">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s5W26-Ta</lex.rf>
-<aux.rf>a#a-wsj1981-001-p1s5W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1981-001-p1s5W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>coap</nodetype>
 <t_lemma>od_do</t_lemma>
@@ -1557,7 +1702,9 @@
 <LM id="T-wsj1981-001-p1s5a24">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s5W25-Ta</lex.rf>
-<aux.rf>a#a-wsj1981-001-p1s5W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1981-001-p1s5W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>půjčka</t_lemma>
@@ -1566,7 +1713,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj1981-001-p1s5a25">
+<children>
+<LM id="T-wsj1981-001-p1s5a25">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s5W24-Ta</lex.rf>
 </a>
@@ -1577,7 +1725,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1981-001-p1s5a33">
+<children>
+<LM id="T-wsj1981-001-p1s5a33">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s5W24-Ta</lex.rf>
 </a>
@@ -1585,11 +1734,9 @@
 <t_lemma>24</t_lemma>
 <functor>RSTR</functor>
 <deepord>19</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 </children>
@@ -1619,7 +1766,9 @@
 <LM id="T-wsj1981-001-p1s5a30">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s5W31-Ta</lex.rf>
-<aux.rf>a#a-wsj1981-001-p1s5W29-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1981-001-p1s5W29-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>půjčka</t_lemma>
@@ -1628,7 +1777,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj1981-001-p1s5a31">
+<children>
+<LM id="T-wsj1981-001-p1s5a31">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s5W30-Ta</lex.rf>
 </a>
@@ -1639,7 +1789,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj1981-001-p1s5a34">
+<children>
+<LM id="T-wsj1981-001-p1s5a34">
 <a>
 <lex.rf>a#a-wsj1981-001-p1s5W30-Ta</lex.rf>
 </a>
@@ -1647,22 +1798,23 @@
 <t_lemma>60</t_lemma>
 <functor>RSTR</functor>
 <deepord>24</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Chevrolet buyers can take the rebate, or get discount financing at rates ranging from 6.9% on 24-month loans to 10.9% on 60-month loans.</eng_sentence>
 </LM>

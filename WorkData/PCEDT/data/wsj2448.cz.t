@@ -10112,12 +10112,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>i-ě</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

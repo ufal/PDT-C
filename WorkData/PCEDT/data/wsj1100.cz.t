@@ -11,7 +11,8 @@
 <LM id="T-wsj1100-001-p1s0">
 <atree.rf>a#a-wsj1100-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1100-001-p1s0a1">
+<children>
+<LM id="T-wsj1100-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1100-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1100-001-p1s0a17">
+<children>
+<LM id="T-wsj1100-001-p1s0a17">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -85,12 +87,15 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1100-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj1100-001-p1s0W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1100-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1100-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1578f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -111,9 +116,11 @@
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1100-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1100-001-p1s0a12">
@@ -127,7 +134,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1100-001-p1s0a19">
+<children>
+<LM id="T-wsj1100-001-p1s0a19">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -177,21 +185,26 @@
 <deepord>15</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Westinghouse Electric Corp. said it will buy Shaw-Walker Co.</eng_sentence>
 </LM>
 <LM id="T-wsj1100-001-p1s1">
 <atree.rf>a#a-wsj1100-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1100-001-p1s1a5">
+<children>
+<LM id="T-wsj1100-001-p1s1a5">
 <a>
 <lex.rf>a#a-wsj1100-001-p1s1W4-Ta</lex.rf>
-<aux.rf>a#a-wsj1100-001-p1s1W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1100-001-p1s1W3-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9966f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -220,7 +233,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1100-001-p1s1a3">
+<children>
+<LM id="T-wsj1100-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj1100-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -232,10 +246,13 @@
 </gram>
 <deepord>3</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1100-001-p1s0a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1100-001-p1s1a6">
@@ -246,16 +263,15 @@
 <deepord>5</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
+</LM>
 </children>
 <eng_sentence>Terms weren't disclosed.</eng_sentence>
 </LM>
 <LM id="T-wsj1100-001-p1s2">
 <atree.rf>a#a-wsj1100-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1100-001-p1s2a10">
+<children>
+<LM id="T-wsj1100-001-p1s2a10">
 <a>
 <lex.rf>a#a-wsj1100-001-p1s2W11-Ta</lex.rf>
 </a>
@@ -333,10 +349,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1100-001-p1s2a7">
+<children>
+<LM id="T-wsj1100-001-p1s2a7">
 <a>
 <lex.rf>a#a-wsj1100-001-p1s2W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1100-001-p1s2W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1100-001-p1s2W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Muskegon</t_lemma>
@@ -345,10 +364,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1100-001-p1s2a9">
+<children>
+<LM id="T-wsj1100-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj1100-001-p1s2W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1100-001-p1s2W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1100-001-p1s2W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>stát</t_lemma>
@@ -357,7 +379,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1100-001-p1s2a11">
+<children>
+<LM id="T-wsj1100-001-p1s2a11">
 <a>
 <lex.rf>a#a-wsj1100-001-p1s2W10-Ta</lex.rf>
 </a>
@@ -368,15 +391,20 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1100-001-p1s0a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1100-001-p1s2a16">
@@ -450,7 +478,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1100-001-p1s2a18">
+<children>
+<LM id="T-wsj1100-001-p1s2a18">
 <a>
 <lex.rf>a#a-wsj1100-001-p1s2W18-Ta</lex.rf>
 </a>
@@ -486,11 +515,13 @@
 <deepord>18</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Shaw-Walker, based in Muskegon, Mich., makes metal files and desks, and seating and office systems furniture.</eng_sentence>
 </LM>

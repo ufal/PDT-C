@@ -11,7 +11,8 @@
 <LM id="T-wsj0254-001-p1s0">
 <atree.rf>a#a-wsj0254-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0254-001-p1s0a1">
+<children>
+<LM id="T-wsj0254-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s0W14-Ta</lex.rf>
 </a>
@@ -81,7 +82,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0254-001-p1s0a7">
+<children>
+<LM id="T-wsj0254-001-p1s0a7">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s0W5-Ta</lex.rf>
 </a>
@@ -92,6 +94,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -99,7 +102,9 @@
 <LM id="T-wsj0254-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s0W7-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s0W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s0W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>září</t_lemma>
@@ -124,13 +129,16 @@
 <LM id="T-wsj0254-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s0W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s0W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s0W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>10</deepord>
-<children id="T-wsj0254-001-p1s0a12">
+<children>
+<LM id="T-wsj0254-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s0W11-Ta</lex.rf>
 </a>
@@ -141,6 +149,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -174,7 +183,9 @@
 <LM id="T-wsj0254-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s0W20-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s0W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s0W18-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2561f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -245,7 +256,9 @@
 <LM id="T-wsj0254-001-p1s0a28">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s0W26-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s0W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s0W25-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>úroveň</t_lemma>
@@ -254,7 +267,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj0254-001-p1s0a21">
+<children>
+<LM id="T-wsj0254-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s0W33-Ta</lex.rf>
 </a>
@@ -270,9 +284,13 @@
 <LM id="T-wsj0254-001-p1s0a30">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s0W29-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s0W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s0W28-Ta</LM>
+</aux.rf>
 </a>
-<coref_gram.rf>T-wsj0254-001-p1s0a28</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0254-001-p1s0a28</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -292,7 +310,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj0254-001-p1s0a32">
+<children>
+<LM id="T-wsj0254-001-p1s0a32">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s0W32-Ta</lex.rf>
 </a>
@@ -303,7 +322,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj0254-001-p1s0a33">
+<children>
+<LM id="T-wsj0254-001-p1s0a33">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s0W31-Ta</lex.rf>
 </a>
@@ -314,14 +334,11 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
-</children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -331,13 +348,17 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The government's primary economic-forecasting gauge rose a slight 0.2% in September, but economists said the report offered little new information on the degree to which the U.S. economy is slowing.</eng_sentence>
 </LM>
 <LM id="T-wsj0254-001-p1s1">
 <atree.rf>a#a-wsj0254-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0254-001-p1s1a21">
+<children>
+<LM id="T-wsj0254-001-p1s1a21">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s1W22-Ta</lex.rf>
 </a>
@@ -397,7 +418,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0254-001-p1s1a8">
+<children>
+<LM id="T-wsj0254-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s1W4-Ta</lex.rf>
 </a>
@@ -408,6 +430,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0254-001-p1s1a1">
@@ -423,7 +446,9 @@
 <a>
 <lex.rf>a#a-wsj0254-001-p1s1W7-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0254-001-p1s1a6</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0254-001-p1s1a6</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -449,7 +474,9 @@
 <LM id="T-wsj0254-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s1W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s1W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s1W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>srpen</t_lemma>
@@ -462,13 +489,16 @@
 <LM id="T-wsj0254-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s1W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s1W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s1W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>10</deepord>
-<children id="T-wsj0254-001-p1s1a13">
+<children>
+<LM id="T-wsj0254-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s1W12-Ta</lex.rf>
 </a>
@@ -479,6 +509,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -486,7 +517,9 @@
 <LM id="T-wsj0254-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s1W19-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s1W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s1W18-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9616f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -508,7 +541,9 @@
 <LM id="T-wsj0254-001-p1s1a18">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s1W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s1W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s1W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>červenec</t_lemma>
@@ -524,16 +559,20 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s0a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0254-001-p1s1a22">
@@ -556,10 +595,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj0254-001-p1s1a26">
+<children>
+<LM id="T-wsj0254-001-p1s1a26">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s1W28-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s1W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s1W25-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9798hsa_620</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -595,16 +637,19 @@
 <deepord>19</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The small increase in the index of leading indicators, which had climbed 0.5% in August but was unchanged in July, does lend support to the view that the economy has slowed noticeably.</eng_sentence>
 </LM>
 <LM id="T-wsj0254-001-p1s2">
 <atree.rf>a#a-wsj0254-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0254-001-p1s2a2">
+<children>
+<LM id="T-wsj0254-001-p1s2a2">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s2W1-Ta</lex.rf>
 </a>
@@ -641,9 +686,11 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s1a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0254-001-p1s2a1">
@@ -700,7 +747,9 @@
 <LM id="T-wsj0254-001-p1s2a11">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s2W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s2W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s2W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>obzor</t_lemma>
@@ -721,7 +770,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0254-001-p1s2a13">
+<children>
+<LM id="T-wsj0254-001-p1s2a13">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s2W12-Ta</lex.rf>
 </a>
@@ -732,6 +782,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -740,18 +791,22 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>A CPHR({vodítko}) Neposkytuje mnoho vodítek k 
 tomu, zda je na obzoru hospodářský pokles.
 </text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 <eng_sentence>However, it doesn't give much of a clue as to whether a recession is on the horizon.</eng_sentence>
 </LM>
 <LM id="T-wsj0254-001-p1s3">
 <atree.rf>a#a-wsj0254-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0254-001-p1s3a1">
+<children>
+<LM id="T-wsj0254-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s3W14-Ta</lex.rf>
 </a>
@@ -795,15 +850,19 @@ tomu, zda je na obzoru hospodářský pokles.
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s3a17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0254-001-p1s3a6">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s3W6-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s3W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s3W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3978f11_ZU</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -840,9 +899,11 @@ tomu, zda je na obzoru hospodářský pokles.
 </gram>
 <deepord>6</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s0a20</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0254-001-p1s3a9">
@@ -884,7 +945,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <LM id="T-wsj0254-001-p1s3a12">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s3W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s3W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s3W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>ekonomika</t_lemma>
@@ -921,7 +984,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj0254-001-p1s3a16">
+<children>
+<LM id="T-wsj0254-001-p1s3a16">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s3W15-Ta</lex.rf>
 </a>
@@ -932,6 +996,7 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0254-001-p1s3a18">
@@ -946,7 +1011,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj0254-001-p1s3a19">
+<children>
+<LM id="T-wsj0254-001-p1s3a19">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s3W19-Ta</lex.rf>
 </a>
@@ -957,7 +1023,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj0254-001-p1s3a29">
+<children>
+<LM id="T-wsj0254-001-p1s3a29">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1013,19 +1080,23 @@ tomu, zda je na obzoru hospodářský pokles.
 <deepord>22</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>``I don't think it provides much new information on the economy,'' said Richard Rippe, economist at Dean Witter Reynolds Inc.</eng_sentence>
 </LM>
 <LM id="T-wsj0254-001-p1s4">
 <atree.rf>a#a-wsj0254-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0254-001-p1s4a1">
+<children>
+<LM id="T-wsj0254-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s4W16-Ta</lex.rf>
 </a>
@@ -1037,7 +1108,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <LM id="T-wsj0254-001-p1s4a4">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s4W3-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s4W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s4W1-Ta</LM>
+</aux.rf>
 </a>
 <coref_special>exoph</coref_special>
 <nodetype>complex</nodetype>
@@ -1047,7 +1120,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0254-001-p1s4a5">
+<children>
+<LM id="T-wsj0254-001-p1s4a5">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s4W2-Ta</lex.rf>
 </a>
@@ -1058,6 +1132,7 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0254-001-p1s4a6">
@@ -1083,7 +1158,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0254-001-p1s4a8">
+<children>
+<LM id="T-wsj0254-001-p1s4a8">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s4W7-Ta</lex.rf>
 </a>
@@ -1094,7 +1170,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj0254-001-p1s4a9">
+<children>
+<LM id="T-wsj0254-001-p1s4a9">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s4W6-Ta</lex.rf>
 </a>
@@ -1105,12 +1182,16 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s1a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0254-001-p1s4a2">
@@ -1126,10 +1207,13 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>v</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0254-001-p1s4a11">
+<children>
+<LM id="T-wsj0254-001-p1s4a11">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s4W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s4W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s4W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>měsíc</t_lemma>
@@ -1138,7 +1222,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0254-001-p1s4a12">
+<children>
+<LM id="T-wsj0254-001-p1s4a12">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s4W9-Ta</lex.rf>
 </a>
@@ -1149,7 +1234,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0254-001-p1s4a14">
@@ -1165,7 +1252,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>v</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj0254-001-p1s4a15">
+<children>
+<LM id="T-wsj0254-001-p1s4a15">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s4W14-Ta</lex.rf>
 </a>
@@ -1176,7 +1264,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0254-001-p1s4a16">
+<children>
+<LM id="T-wsj0254-001-p1s4a16">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s4W13-Ta</lex.rf>
 </a>
@@ -1187,7 +1276,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0254-001-p1s4a17">
@@ -1215,7 +1306,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj0254-001-p1s4a20">
+<children>
+<LM id="T-wsj0254-001-p1s4a20">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s4W17-Ta</lex.rf>
 </a>
@@ -1226,6 +1318,7 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0254-001-p1s4a18">
@@ -1239,21 +1332,19 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>v</sempos>
 </gram>
 <deepord>17</deepord>
-<annot_comment>
-<type>M-lemma</type>
-<text>považováno za: změnit</text>
-</annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>So far this year, the index of leading indicators has risen in four months, fallen in four months and remained unchanged in the other month.</eng_sentence>
 </LM>
 <LM id="T-wsj0254-001-p1s5">
 <atree.rf>a#a-wsj0254-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0254-001-p1s5a1">
+<children>
+<LM id="T-wsj0254-001-p1s5a1">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s5W7-Ta</lex.rf>
 </a>
@@ -1269,7 +1360,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <LM id="T-wsj0254-001-p1s5a3">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s5W4-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s5W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s5W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zpráva</t_lemma>
@@ -1316,7 +1409,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0254-001-p1s5a7">
+<children>
+<LM id="T-wsj0254-001-p1s5a7">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s5W6-Ta</lex.rf>
 </a>
@@ -1327,12 +1421,15 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0254-001-p1s5a10">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s5W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s5W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s5W9-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1396f3_ZU</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1354,7 +1451,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0254-001-p1s5a12">
+<children>
+<LM id="T-wsj0254-001-p1s5a12">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s5W14-Ta</lex.rf>
 </a>
@@ -1403,12 +1501,15 @@ tomu, zda je na obzoru hospodářský pokles.
 <deepord>10</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0254-001-p1s5a17">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s5W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s5W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s5W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>září</t_lemma>
@@ -1418,21 +1519,26 @@ tomu, zda je na obzoru hospodářský pokles.
 </gram>
 <deepord>13</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s0a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0254-001-p1s5a20">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s5W20-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s5W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s5W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>15</deepord>
-<children id="T-wsj0254-001-p1s5a19">
+<children>
+<LM id="T-wsj0254-001-p1s5a19">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s5W19-Ta</lex.rf>
 </a>
@@ -1443,12 +1549,15 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0254-001-p1s5a22">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s5W23-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s5W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s5W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>míra</t_lemma>
@@ -1485,7 +1594,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <LM id="T-wsj0254-001-p1s5a26">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s5W26-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s5W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s5W25-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>719000</t_lemma>
@@ -1494,10 +1605,13 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj0254-001-p1s5a28">
+<children>
+<LM id="T-wsj0254-001-p1s5a28">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s5W28-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s5W27-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s5W27-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>srpen</t_lemma>
@@ -1507,24 +1621,29 @@ tomu, zda je na obzoru hospodářský pokles.
 </gram>
 <deepord>20</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s1a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>In another report yesterday, the Commerce Department said sales of new single-family houses plunged 14% in September to an annual rate of 618,000 from 719,000 in August.</eng_sentence>
 </LM>
 <LM id="T-wsj0254-001-p1s6">
 <atree.rf>a#a-wsj0254-001-p1s6</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0254-001-p1s6a2">
+<children>
+<LM id="T-wsj0254-001-p1s6a2">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s6W2-Ta</lex.rf>
 </a>
@@ -1549,9 +1668,11 @@ tomu, zda je na obzoru hospodářský pokles.
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s5a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0254-001-p1s6a4">
@@ -1590,7 +1711,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <LM id="T-wsj0254-001-p1s6a7">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s6W6-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s6W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s6W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>severovýchod</t_lemma>
@@ -1604,7 +1727,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <LM id="T-wsj0254-001-p1s6a9">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s6W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s6W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s6W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>jih</t_lemma>
@@ -1621,7 +1746,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <t_lemma>#Idph</t_lemma>
 <functor>RSTR</functor>
 <deepord>8</deepord>
-<children id="T-wsj0254-001-p1s6a10">
+<children>
+<LM id="T-wsj0254-001-p1s6a10">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s6W10-Ta</lex.rf>
 </a>
@@ -1632,11 +1758,14 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s0a32</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0254-001-p1s6a11">
@@ -1656,7 +1785,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <a>
 <lex.rf>a#a-wsj0254-001-p1s6W12-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0254-001-p1s6a1</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0254-001-p1s6a1</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>kde</t_lemma>
 <functor>LOC</functor>
@@ -1676,7 +1807,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj0254-001-p1s6a15">
+<children>
+<LM id="T-wsj0254-001-p1s6a15">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s6W14-Ta</lex.rf>
 </a>
@@ -1687,6 +1819,7 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0254-001-p1s6a17">
@@ -1700,7 +1833,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj0254-001-p1s6a16">
+<children>
+<LM id="T-wsj0254-001-p1s6a16">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s6W17-Ta</lex.rf>
 </a>
@@ -1711,20 +1845,23 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The declines were particularly pronounced in the Northeast and in the South, where Hurricane Hugo was a factor.</eng_sentence>
 </LM>
 <LM id="T-wsj0254-001-p1s7">
 <atree.rf>a#a-wsj0254-001-p1s7</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0254-001-p1s7a1">
+<children>
+<LM id="T-wsj0254-001-p1s7a1">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s7W14-Ta</lex.rf>
 </a>
@@ -1765,7 +1902,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0254-001-p1s7a6">
+<children>
+<LM id="T-wsj0254-001-p1s7a6">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s7W3-Ta</lex.rf>
 </a>
@@ -1776,17 +1914,22 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s6a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0254-001-p1s7a8">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s7W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s7W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s7W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>měsíc</t_lemma>
@@ -1831,7 +1974,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0254-001-p1s7a12">
+<children>
+<LM id="T-wsj0254-001-p1s7a12">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s7W11-Ta</lex.rf>
 </a>
@@ -1842,6 +1986,7 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -1860,9 +2005,11 @@ tomu, zda je na obzoru hospodářský pokles.
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s7a5</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0254-001-p1s7a15">
@@ -1937,7 +2084,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj0254-001-p1s7a23">
+<children>
+<LM id="T-wsj0254-001-p1s7a23">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s7W21-Ta</lex.rf>
 </a>
@@ -1948,12 +2096,15 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>15</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0254-001-p1s7a24">
@@ -1967,10 +2118,13 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adv.denot.grad.nneg</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj0254-001-p1s7a26">
+<children>
+<LM id="T-wsj0254-001-p1s7a26">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s7W26-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s7W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s7W24-Ta</LM>
+</aux.rf>
 </a>
 <coref_special>exoph</coref_special>
 <nodetype>complex</nodetype>
@@ -1980,7 +2134,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj0254-001-p1s7a27">
+<children>
+<LM id="T-wsj0254-001-p1s7a27">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s7W25-Ta</lex.rf>
 </a>
@@ -1991,12 +2146,16 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>18</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s4a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0254-001-p1s7a32">
@@ -2014,7 +2173,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <LM id="T-wsj0254-001-p1s7a29">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s7W29-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s7W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s7W28-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>trh</t_lemma>
@@ -2023,10 +2184,13 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj0254-001-p1s7a31">
+<children>
+<LM id="T-wsj0254-001-p1s7a31">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s7W31-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s7W30-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s7W30-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>bydlení</t_lemma>
@@ -2036,9 +2200,12 @@ tomu, zda je na obzoru hospodářský pokles.
 </gram>
 <deepord>22</deepord>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0254-001-p1s7a33">
@@ -2081,13 +2248,15 @@ tomu, zda je na obzoru hospodářský pokles.
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Although September's weakness followed two strong months for home sales, the decline supports other indications that the drop in mortgage rates earlier this year has had only a limited beneficial effect on the housing market.</eng_sentence>
 </LM>
 <LM id="T-wsj0254-001-p1s8">
 <atree.rf>a#a-wsj0254-001-p1s8</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0254-001-p1s8a12">
+<children>
+<LM id="T-wsj0254-001-p1s8a12">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s8W13-Ta</lex.rf>
 </a>
@@ -2121,7 +2290,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0254-001-p1s8a3">
+<children>
+<LM id="T-wsj0254-001-p1s8a3">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s8W1-Ta</lex.rf>
 </a>
@@ -2132,11 +2302,14 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s7a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0254-001-p1s8a4">
@@ -2150,10 +2323,13 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0254-001-p1s8a6">
+<children>
+<LM id="T-wsj0254-001-p1s8a6">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s8W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s8W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s8W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>pokles</t_lemma>
@@ -2171,7 +2347,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <t_lemma>#Percnt</t_lemma>
 <functor>RSTR</functor>
 <deepord>6</deepord>
-<children id="T-wsj0254-001-p1s8a7">
+<children>
+<LM id="T-wsj0254-001-p1s8a7">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s8W6-Ta</lex.rf>
 </a>
@@ -2182,12 +2359,15 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0254-001-p1s8a10">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s8W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s8W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s8W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>leden</t_lemma>
@@ -2196,7 +2376,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0254-001-p1s8a11">
+<children>
+<LM id="T-wsj0254-001-p1s8a11">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s8W11-Ta</lex.rf>
 </a>
@@ -2207,9 +2388,11 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -2264,7 +2447,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj0254-001-p1s8a18">
+<children>
+<LM id="T-wsj0254-001-p1s8a18">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s8W16-Ta</lex.rf>
 </a>
@@ -2275,6 +2459,7 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -2318,7 +2503,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <LM id="T-wsj0254-001-p1s8a27">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s8W18-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s8W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s8W22-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -2340,15 +2527,19 @@ tomu, zda je na obzoru hospodářský pokles.
 </gram>
 <deepord>20</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s8a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0254-001-p1s8a24">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s8W26-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s8W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s8W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>ukazatel</t_lemma>
@@ -2404,13 +2595,15 @@ tomu, zda je na obzoru hospodářský pokles.
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The September drop was the largest since a 19% drop in January 1982, but monthly changes in this measure are even less reliable than those in other economic indicators.</eng_sentence>
 </LM>
 <LM id="T-wsj0254-001-p1s9">
 <atree.rf>a#a-wsj0254-001-p1s9</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0254-001-p1s9a9">
+<children>
+<LM id="T-wsj0254-001-p1s9a9">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s9W10-Ta</lex.rf>
 </a>
@@ -2462,7 +2655,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <LM id="T-wsj0254-001-p1s9a7">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s9W7-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s9W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s9W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>vzorek</t_lemma>
@@ -2471,7 +2666,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0254-001-p1s9a8">
+<children>
+<LM id="T-wsj0254-001-p1s9a8">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s9W6-Ta</lex.rf>
 </a>
@@ -2482,6 +2678,7 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -2498,15 +2695,19 @@ tomu, zda je na obzoru hospodářský pokles.
 </gram>
 <deepord>6</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s5a6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0254-001-p1s9a13">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s9W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s9W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s9W12-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -2528,16 +2729,20 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0254-001-p1s9a17">
+<children>
+<LM id="T-wsj0254-001-p1s9a17">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s9W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s9W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s9W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>EXT</functor>
 <deepord>11</deepord>
-<children id="T-wsj0254-001-p1s9a16">
+<children>
+<LM id="T-wsj0254-001-p1s9a16">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s9W16-Ta</lex.rf>
 </a>
@@ -2548,7 +2753,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0254-001-p1s9a19">
@@ -2588,7 +2795,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj0254-001-p1s9a24">
+<children>
+<LM id="T-wsj0254-001-p1s9a24">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s9W23-Ta</lex.rf>
 </a>
@@ -2599,12 +2807,15 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0254-001-p1s9a26">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s9W27-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s9W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s9W25-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>měsíc</t_lemma>
@@ -2613,7 +2824,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj0254-001-p1s9a27">
+<children>
+<LM id="T-wsj0254-001-p1s9a27">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s9W26-Ta</lex.rf>
 </a>
@@ -2624,23 +2836,29 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s5a17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0254-001-p1s9a32">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s9W32-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s9W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s9W28-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>21</deepord>
-<children id="T-wsj0254-001-p1s9a29">
+<children>
+<LM id="T-wsj0254-001-p1s9a29">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s9W30-Ta</lex.rf>
 </a>
@@ -2676,20 +2894,23 @@ tomu, zda je na obzoru hospodářský pokles.
 <deepord>20</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Because the figures are based on a small sample, the department said it is 90% confident only that new-home sales fell somewhere between 5% and 23% during the month.</eng_sentence>
 </LM>
 <LM id="T-wsj0254-001-p1s10">
 <atree.rf>a#a-wsj0254-001-p1s10</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0254-001-p1s10a1">
+<children>
+<LM id="T-wsj0254-001-p1s10a1">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s10W3-Ta</lex.rf>
 </a>
@@ -2714,9 +2935,11 @@ tomu, zda je na obzoru hospodářský pokles.
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s9a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0254-001-p1s10a3">
@@ -2731,7 +2954,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <LM id="T-wsj0254-001-p1s10a6">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s10W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s10W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s10W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6923f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -2776,8 +3001,10 @@ tomu, zda je na obzoru hospodářský pokles.
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0254-001-p1s10a9">
@@ -2791,7 +3018,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0254-001-p1s10a10">
+<children>
+<LM id="T-wsj0254-001-p1s10a10">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s10W9-Ta</lex.rf>
 </a>
@@ -2802,21 +3030,26 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>8</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The department also said it takes four months to establish a trend.</eng_sentence>
 </LM>
 <LM id="T-wsj0254-001-p1s11">
 <atree.rf>a#a-wsj0254-001-p1s11</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0254-001-p1s11a2">
+<children>
+<LM id="T-wsj0254-001-p1s11a2">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s11W6-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s11W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s11W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4313f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -2857,7 +3090,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <LM id="T-wsj0254-001-p1s11a6">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s11W5-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s11W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s11W3-Ta</LM>
+</aux.rf>
 </a>
 <coref_special>exoph</coref_special>
 <nodetype>complex</nodetype>
@@ -2867,7 +3102,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0254-001-p1s11a7">
+<children>
+<LM id="T-wsj0254-001-p1s11a7">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s11W4-Ta</lex.rf>
 </a>
@@ -2878,11 +3114,14 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s7a26</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0254-001-p1s11a9">
@@ -2896,7 +3135,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0254-001-p1s11a1">
+<children>
+<LM id="T-wsj0254-001-p1s11a1">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s11W9-Ta</lex.rf>
 </a>
@@ -2934,13 +3174,16 @@ tomu, zda je na obzoru hospodářský pokles.
 <LM id="T-wsj0254-001-p1s11a13">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s11W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s11W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s11W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>11</deepord>
-<children id="T-wsj0254-001-p1s11a12">
+<children>
+<LM id="T-wsj0254-001-p1s11a12">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s11W11-Ta</lex.rf>
 </a>
@@ -2951,6 +3194,7 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0254-001-p1s11a22">
@@ -2995,19 +3239,25 @@ tomu, zda je na obzoru hospodářský pokles.
 </gram>
 <deepord>16</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s11a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <str_comment>
+<LM>
 <name>AMBIG</name>
 <comment>odkaz na slovo, ne koreference</comment>
+</LM>
 </str_comment>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0254-001-p1s11a16">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s11W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s11W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s11W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>měsíc</t_lemma>
@@ -3040,7 +3290,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj0254-001-p1s11a19">
+<children>
+<LM id="T-wsj0254-001-p1s11a19">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s11W19-Ta</lex.rf>
 </a>
@@ -3051,7 +3302,6 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>20</deepord>
-</children>
 </LM>
 </children>
 </LM>
@@ -3060,19 +3310,26 @@ tomu, zda je na obzoru hospodářský pokles.
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>So far this year, 534,000 newly built homes have been sold, down 4.5% from the like months of 1988.</eng_sentence>
 </LM>
 <LM id="T-wsj0254-001-p1s12">
 <atree.rf>a#a-wsj0254-001-p1s12</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0254-001-p1s12a1">
+<children>
+<LM id="T-wsj0254-001-p1s12a1">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s12W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s12W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s12W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w10007f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -3094,7 +3351,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0254-001-p1s12a3">
+<children>
+<LM id="T-wsj0254-001-p1s12a3">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s12W3-Ta</lex.rf>
 </a>
@@ -3105,7 +3363,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0254-001-p1s12a4">
+<children>
+<LM id="T-wsj0254-001-p1s12a4">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s12W2-Ta</lex.rf>
 </a>
@@ -3116,18 +3375,24 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s4a7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0254-001-p1s12a7">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s12W6-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s12W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s12W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1817f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -3148,9 +3413,11 @@ tomu, zda je na obzoru hospodářský pokles.
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s12a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0254-001-p1s12a20">
@@ -3171,7 +3438,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0254-001-p1s12a9">
+<children>
+<LM id="T-wsj0254-001-p1s12a9">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s12W9-Ta</lex.rf>
 </a>
@@ -3182,7 +3450,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0254-001-p1s12a10">
+<children>
+<LM id="T-wsj0254-001-p1s12a10">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s12W8-Ta</lex.rf>
 </a>
@@ -3193,17 +3462,17 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0254-001-p1s12a11">
@@ -3221,7 +3490,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <LM id="T-wsj0254-001-p1s12a13">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s12W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s12W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s12W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>září</t_lemma>
@@ -3231,9 +3502,11 @@ tomu, zda je na obzoru hospodářský pokles.
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s9a26</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0254-001-p1s12a16">
@@ -3298,20 +3571,24 @@ tomu, zda je na obzoru hospodářský pokles.
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The index of leading indicators got a major boost in September from a surge in consumer expectations as measured by the University of Michigan.</eng_sentence>
 </LM>
 <LM id="T-wsj0254-001-p1s13">
 <atree.rf>a#a-wsj0254-001-p1s13</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0254-001-p1s13a1">
+<children>
+<LM id="T-wsj0254-001-p1s13a1">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s13W6-Ta</lex.rf>
 </a>
@@ -3327,7 +3604,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <LM id="T-wsj0254-001-p1s13a3">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s13W2-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s13W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s13W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>srpen</t_lemma>
@@ -3337,9 +3616,11 @@ tomu, zda je na obzoru hospodářský pokles.
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s5a28</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0254-001-p1s13a4">
@@ -3353,7 +3634,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0254-001-p1s13a5">
+<children>
+<LM id="T-wsj0254-001-p1s13a5">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s13W3-Ta</lex.rf>
 </a>
@@ -3364,11 +3646,14 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s12a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0254-001-p1s13a6">
@@ -3384,13 +3669,15 @@ tomu, zda je na obzoru hospodářský pokles.
 <deepord>4</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>This measure had dropped sharply in August.</eng_sentence>
 </LM>
 <LM id="T-wsj0254-001-p1s14">
 <atree.rf>a#a-wsj0254-001-p1s14</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0254-001-p1s14a1">
+<children>
+<LM id="T-wsj0254-001-p1s14a1">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s14W3-Ta</lex.rf>
 </a>
@@ -3414,7 +3701,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0254-001-p1s14a3">
+<children>
+<LM id="T-wsj0254-001-p1s14a3">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s14W2-Ta</lex.rf>
 </a>
@@ -3425,11 +3713,14 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s10a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0254-001-p1s14a10">
@@ -3495,7 +3786,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0254-001-p1s14a16">
+<children>
+<LM id="T-wsj0254-001-p1s14a16">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s14W11-Ta</lex.rf>
 </a>
@@ -3506,10 +3798,13 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0254-001-p1s14a18">
+<children>
+<LM id="T-wsj0254-001-p1s14a18">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s14W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s14W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s14W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výpočet</t_lemma>
@@ -3518,7 +3813,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0254-001-p1s14a19">
+<children>
+<LM id="T-wsj0254-001-p1s14a19">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s14W14-Ta</lex.rf>
 </a>
@@ -3530,12 +3826,17 @@ tomu, zda je na obzoru hospodářský pokles.
 </gram>
 <deepord>10</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s13a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -3551,7 +3852,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0254-001-p1s14a8">
+<children>
+<LM id="T-wsj0254-001-p1s14a8">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s14W18-Ta</lex.rf>
 </a>
@@ -3562,7 +3864,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj0254-001-p1s14a9">
+<children>
+<LM id="T-wsj0254-001-p1s14a9">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s14W17-Ta</lex.rf>
 </a>
@@ -3573,28 +3876,36 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s12a18</target-node.rf>
 <informal-type>SPEC</informal-type>
 <str_comment>
+<LM>
 <name>AMBIG</name>
 <comment>asi</comment>
+</LM>
 </str_comment>
 <src>LH</src>
+</LM>
 </coref_text>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The Commerce Department said that as a result of a new adjustment to the formula used to calculate the index, the influence of this component has been reduced.</eng_sentence>
 </LM>
 <LM id="T-wsj0254-001-p1s15">
 <atree.rf>a#a-wsj0254-001-p1s15</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0254-001-p1s15a2">
+<children>
+<LM id="T-wsj0254-001-p1s15a2">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s15W7-Ta</lex.rf>
 </a>
@@ -3610,7 +3921,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <LM id="T-wsj0254-001-p1s15a8">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s15W6-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s15W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s15W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>září</t_lemma>
@@ -3620,9 +3933,11 @@ tomu, zda je na obzoru hospodářský pokles.
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s12a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0254-001-p1s15a10">
@@ -3658,10 +3973,13 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0254-001-p1s15a4">
+<children>
+<LM id="T-wsj0254-001-p1s15a4">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s15W3-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s15W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s15W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>složka</t_lemma>
@@ -3695,12 +4013,15 @@ tomu, zda je na obzoru hospodářský pokles.
 </gram>
 <deepord>3</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s14a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0254-001-p1s15a11">
@@ -3725,7 +4046,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0254-001-p1s15a14">
+<children>
+<LM id="T-wsj0254-001-p1s15a14">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s15W11-Ta</lex.rf>
 </a>
@@ -3736,6 +4058,7 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0254-001-p1s15a15">
@@ -3750,7 +4073,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0254-001-p1s15a16">
+<children>
+<LM id="T-wsj0254-001-p1s15a16">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s15W17-Ta</lex.rf>
 </a>
@@ -3787,6 +4111,7 @@ tomu, zda je na obzoru hospodářský pokles.
 <deepord>13</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0254-001-p1s15a19">
@@ -3801,7 +4126,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj0254-001-p1s15a20">
+<children>
+<LM id="T-wsj0254-001-p1s15a20">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s15W20-Ta</lex.rf>
 </a>
@@ -3812,20 +4138,23 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Of the 11 components to the index, only three others rose in September: the money supply, the length of the average work week and stock prices.</eng_sentence>
 </LM>
 <LM id="T-wsj0254-001-p1s16">
 <atree.rf>a#a-wsj0254-001-p1s16</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0254-001-p1s16a1">
+<children>
+<LM id="T-wsj0254-001-p1s16a1">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s16W14-Ta</lex.rf>
 </a>
@@ -3866,7 +4195,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <LM id="T-wsj0254-001-p1s16a4">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s16W3-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s16W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s16W2-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>složka</t_lemma>
@@ -3875,7 +4206,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0254-001-p1s16a5">
+<children>
+<LM id="T-wsj0254-001-p1s16a5">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s16W6-Ta</lex.rf>
 </a>
@@ -3892,7 +4224,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <a>
 <lex.rf>a#a-wsj0254-001-p1s16W5-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0254-001-p1s16a4</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0254-001-p1s16a4</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -3912,7 +4246,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj0254-001-p1s16a9">
+<children>
+<LM id="T-wsj0254-001-p1s16a9">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s16W9-Ta</lex.rf>
 </a>
@@ -3949,9 +4284,11 @@ tomu, zda je na obzoru hospodářský pokles.
 <deepord>9</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -3959,7 +4296,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <LM id="T-wsj0254-001-p1s16a14">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s16W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s16W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s16W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>září</t_lemma>
@@ -3969,19 +4308,23 @@ tomu, zda je na obzoru hospodářský pokles.
 </gram>
 <deepord>10</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s15a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Several components that track the health of the manufacturing sector of the economy turned down in September.</eng_sentence>
 </LM>
 <LM id="T-wsj0254-001-p1s17">
 <atree.rf>a#a-wsj0254-001-p1s17</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0254-001-p1s17a1">
+<children>
+<LM id="T-wsj0254-001-p1s17a1">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s17W3-Ta</lex.rf>
 </a>
@@ -3997,7 +4340,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <LM id="T-wsj0254-001-p1s17a3">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s17W2-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s17W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s17W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
@@ -4007,9 +4352,11 @@ tomu, zda je na obzoru hospodářský pokles.
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s16a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0254-001-p1s17a23">
@@ -4049,7 +4396,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <LM id="T-wsj0254-001-p1s17a7">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s17W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s17W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s17W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zboží</t_lemma>
@@ -4099,7 +4448,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0254-001-p1s17a13">
+<children>
+<LM id="T-wsj0254-001-p1s17a13">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s17W14-Ta</lex.rf>
 </a>
@@ -4111,7 +4461,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <LM id="T-wsj0254-001-p1s17a14">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s17W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s17W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s17W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>objednávka</t_lemma>
@@ -4125,7 +4477,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <LM id="T-wsj0254-001-p1s17a15">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s17W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s17W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s17W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dodávka</t_lemma>
@@ -4137,6 +4491,7 @@ tomu, zda je na obzoru hospodářský pokles.
 <deepord>11</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0254-001-p1s17a16">
@@ -4151,7 +4506,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj0254-001-p1s17a18">
+<children>
+<LM id="T-wsj0254-001-p1s17a18">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s17W21-Ta</lex.rf>
 </a>
@@ -4163,7 +4519,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <LM id="T-wsj0254-001-p1s17a20">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s17W20-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s17W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s17W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>továrna</t_lemma>
@@ -4173,7 +4531,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj0254-001-p1s17a21">
+<children>
+<LM id="T-wsj0254-001-p1s17a21">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s17W19-Ta</lex.rf>
 </a>
@@ -4184,12 +4543,15 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0254-001-p1s17a22">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s17W22-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s17W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s17W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>vybavení</t_lemma>
@@ -4200,11 +4562,14 @@ tomu, zda je na obzoru hospodářský pokles.
 </gram>
 <deepord>16</deepord>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0254-001-p1s17a24">
@@ -4235,7 +4600,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <LM id="T-wsj0254-001-p1s17a27">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s17W27-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s17W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s17W26-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zboží</t_lemma>
@@ -4244,7 +4611,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj0254-001-p1s17a28">
+<children>
+<LM id="T-wsj0254-001-p1s17a28">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s17W29-Ta</lex.rf>
 </a>
@@ -4255,7 +4623,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj0254-001-p1s17a29">
+<children>
+<LM id="T-wsj0254-001-p1s17a29">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s17W28-Ta</lex.rf>
 </a>
@@ -4266,21 +4635,25 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>21</deepord>
-</children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>These include new orders for manufactured consumer goods, lead times on vendor deliveries, orders for new plant and equipment, and backlogs of orders for durable goods.</eng_sentence>
 </LM>
 <LM id="T-wsj0254-001-p1s18">
 <atree.rf>a#a-wsj0254-001-p1s18</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0254-001-p1s18a1">
+<children>
+<LM id="T-wsj0254-001-p1s18a1">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s18W6-Ta</lex.rf>
 </a>
@@ -4335,10 +4708,6 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0254-001-p1s18a5">
 <a>
@@ -4354,8 +4723,10 @@ tomu, zda je na obzoru hospodářský pokles.
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0254-001-p1s18a6">
@@ -4373,7 +4744,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <LM id="T-wsj0254-001-p1s18a9">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s18W18-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s18W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s18W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7092f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -4411,7 +4784,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <LM id="T-wsj0254-001-p1s18a13">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s18W14-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s18W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s18W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>pracovník</t_lemma>
@@ -4456,10 +4831,13 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj0254-001-p1s18a18">
+<children>
+<LM id="T-wsj0254-001-p1s18a18">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s18W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s18W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s18W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>svaz</t_lemma>
@@ -4469,10 +4847,13 @@ tomu, zda je na obzoru hospodářský pokles.
 </gram>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s18a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 </children>
@@ -4489,7 +4870,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <LM id="T-wsj0254-001-p1s18a21">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s18W25-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s18W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s18W20-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2608f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -4531,7 +4914,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <LM id="T-wsj0254-001-p1s18a25">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s18W24-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s18W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s18W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
@@ -4541,9 +4926,11 @@ tomu, zda je na obzoru hospodářský pokles.
 </gram>
 <deepord>20</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s18a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -4559,7 +4946,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj0254-001-p1s18a27">
+<children>
+<LM id="T-wsj0254-001-p1s18a27">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s18W26-Ta</lex.rf>
 </a>
@@ -4570,12 +4958,15 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>22</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0254-001-p1s18a29">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s18W29-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s18W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s18W28-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -4584,7 +4975,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj0254-001-p1s18a30">
+<children>
+<LM id="T-wsj0254-001-p1s18a30">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s18W30-Ta</lex.rf>
 </a>
@@ -4595,20 +4987,23 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>25</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Meanwhile, the National Association of Manufacturers said yesterday a recent poll of 53 executives on its board found that 61% don't expect a recession to occur until 1991 or later.</eng_sentence>
 </LM>
 <LM id="T-wsj0254-001-p1s19">
 <atree.rf>a#a-wsj0254-001-p1s19</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0254-001-p1s19a1">
+<children>
+<LM id="T-wsj0254-001-p1s19a1">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s19W2-Ta</lex.rf>
 </a>
@@ -4636,7 +5031,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <LM id="T-wsj0254-001-p1s19a5">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s19W6-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s19W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s19W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8756f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -4661,7 +5058,9 @@ tomu, zda je na obzoru hospodářský pokles.
 </LM>
 <LM id="T-wsj0254-001-p1s19a8">
 <a>
-<aux.rf>a#a-wsj0254-001-p1s19W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s19W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
@@ -4684,17 +5083,21 @@ tomu, zda je na obzoru hospodářský pokles.
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>Other</type>
 <text>Chybí konec věty.</text>
+</LM>
 </annot_comment>
 <eng_sentence>The remainder expect a downturn to begin sometime in</eng_sentence>
 </LM>
 <LM id="T-wsj0254-001-p1s20">
 <atree.rf>a#a-wsj0254-001-p1s20</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0254-001-p1s20a1">
+<children>
+<LM id="T-wsj0254-001-p1s20a1">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s20W15-Ta</lex.rf>
 </a>
@@ -4710,7 +5113,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <LM id="T-wsj0254-001-p1s20a10">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s20W5-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s20W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s20W1-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7683f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -4760,7 +5165,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <LM id="T-wsj0254-001-p1s20a15">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s20W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s20W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s20W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>sazba</t_lemma>
@@ -4830,7 +5237,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0254-001-p1s20a5">
+<children>
+<LM id="T-wsj0254-001-p1s20a5">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s20W13-Ta</lex.rf>
 </a>
@@ -4841,6 +5249,7 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -4872,9 +5281,11 @@ tomu, zda je na obzoru hospodářský pokles.
 </gram>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s20a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0254-001-p1s20a20">
@@ -4929,10 +5340,6 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0254-001-p1s20a27">
 <a>
@@ -4951,9 +5358,13 @@ tomu, zda je na obzoru hospodářský pokles.
 <LM id="T-wsj0254-001-p1s20a29">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s20W31-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s20W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s20W28-Ta</LM>
+</aux.rf>
 </a>
-<compl.rf>T-wsj0254-001-p1s20a28</compl.rf>
+<compl.rf>
+<LM>T-wsj0254-001-p1s20a28</LM>
+</compl.rf>
 <nodetype>complex</nodetype>
 <t_lemma>priorita</t_lemma>
 <functor>COMPL</functor>
@@ -4966,7 +5377,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <a>
 <lex.rf>a#a-wsj0254-001-p1s20W29-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0254-001-p1s20a25</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0254-001-p1s20a25</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -5000,10 +5413,13 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj0254-001-p1s20a34">
+<children>
+<LM id="T-wsj0254-001-p1s20a34">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s20W34-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s20W33-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s20W33-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>inflace</t_lemma>
@@ -5012,6 +5428,7 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0254-001-p1s20a38">
@@ -5043,9 +5460,11 @@ tomu, zda je na obzoru hospodářský pokles.
 </gram>
 <deepord>25</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s20a23</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0254-001-p1s20a40">
@@ -5059,7 +5478,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>28</deepord>
-<children id="T-wsj0254-001-p1s20a41">
+<children>
+<LM id="T-wsj0254-001-p1s20a41">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s20W40-Ta</lex.rf>
 </a>
@@ -5070,7 +5490,6 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>27</deepord>
-</children>
 </LM>
 </children>
 </LM>
@@ -5079,13 +5498,17 @@ tomu, zda je na obzoru hospodářský pokles.
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Although manufacturers often are quick to call for lower interest rates, 60% of the executives said they would prefer that the Fed keep inflation-fighting as its top priority even if that means higher rates.</eng_sentence>
 </LM>
 <LM id="T-wsj0254-001-p1s21">
 <atree.rf>a#a-wsj0254-001-p1s21</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0254-001-p1s21a1">
+<children>
+<LM id="T-wsj0254-001-p1s21a1">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s21W4-Ta</lex.rf>
 </a>
@@ -5106,7 +5529,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <t_lemma>#Percnt</t_lemma>
 <functor>ACT</functor>
 <deepord>3</deepord>
-<children id="T-wsj0254-001-p1s21a2">
+<children>
+<LM id="T-wsj0254-001-p1s21a2">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s21W2-Ta</lex.rf>
 </a>
@@ -5117,7 +5541,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0254-001-p1s21a3">
+<children>
+<LM id="T-wsj0254-001-p1s21a3">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s21W1-Ta</lex.rf>
 </a>
@@ -5128,7 +5553,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0254-001-p1s21a17">
@@ -5163,10 +5590,6 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0254-001-p1s21a11">
 <a>
@@ -5182,9 +5605,11 @@ tomu, zda je na obzoru hospodářský pokles.
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s20a31</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0254-001-p1s21a12">
@@ -5222,7 +5647,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <LM id="T-wsj0254-001-p1s21a16">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s21W16-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s21W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s21W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>inflace</t_lemma>
@@ -5276,7 +5703,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj0254-001-p1s21a21">
+<children>
+<LM id="T-wsj0254-001-p1s21a21">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s21W20-Ta</lex.rf>
 </a>
@@ -5287,23 +5715,28 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The other 40% said the Fed ought to worry less about inflation and bring interest rates down.</eng_sentence>
 </LM>
 <LM id="T-wsj0254-001-p1s22">
 <atree.rf>a#a-wsj0254-001-p1s22</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0254-001-p1s22a1">
+<children>
+<LM id="T-wsj0254-001-p1s22a1">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s22W4-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s22W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s22W3-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7234f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -5333,7 +5766,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0254-001-p1s22a4">
+<children>
+<LM id="T-wsj0254-001-p1s22a4">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s22W1-Ta</lex.rf>
 </a>
@@ -5344,6 +5778,7 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.pron.indef</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0254-001-p1s22a5">
@@ -5357,10 +5792,13 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adv.pron.def</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0254-001-p1s22a8">
+<children>
+<LM id="T-wsj0254-001-p1s22a8">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s22W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s22W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s22W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2858f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -5388,9 +5826,11 @@ tomu, zda je na obzoru hospodářský pokles.
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s22a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0254-001-p1s22a9">
@@ -5432,16 +5872,19 @@ tomu, zda je na obzoru hospodářský pokles.
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>All the figures are adjusted to remove usual seasonal patterns.</eng_sentence>
 </LM>
 <LM id="T-wsj0254-001-p1s23">
 <atree.rf>a#a-wsj0254-001-p1s23</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0254-001-p1s23a1">
+<children>
+<LM id="T-wsj0254-001-p1s23a1">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s23W1-Ta</lex.rf>
 </a>
@@ -5453,7 +5896,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>v</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0254-001-p1s23a2">
+<children>
+<LM id="T-wsj0254-001-p1s23a2">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s23W3-Ta</lex.rf>
 </a>
@@ -5488,7 +5932,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0254-001-p1s23a5">
+<children>
+<LM id="T-wsj0254-001-p1s23a5">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s23W5-Ta</lex.rf>
 </a>
@@ -5511,7 +5956,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0254-001-p1s23a7">
+<children>
+<LM id="T-wsj0254-001-p1s23a7">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s23W6-Ta</lex.rf>
 </a>
@@ -5522,6 +5968,7 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0254-001-p1s23a8">
@@ -5535,7 +5982,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0254-001-p1s23a9">
+<children>
+<LM id="T-wsj0254-001-p1s23a9">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s23W9-Ta</lex.rf>
 </a>
@@ -5546,30 +5994,39 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s14a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s15a6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Here are the net contributions of the components of the Commerce Department's index of leading indicators.</eng_sentence>
 </LM>
 <LM id="T-wsj0254-001-p1s24">
 <atree.rf>a#a-wsj0254-001-p1s24</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0254-001-p1s24a1">
+<children>
+<LM id="T-wsj0254-001-p1s24a1">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s24W4-Ta</lex.rf>
 </a>
@@ -5585,7 +6042,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <LM id="T-wsj0254-001-p1s24a3">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s24W3-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s24W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s24W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>úprava</t_lemma>
@@ -5594,7 +6053,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0254-001-p1s24a4">
+<children>
+<LM id="T-wsj0254-001-p1s24a4">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s24W2-Ta</lex.rf>
 </a>
@@ -5605,6 +6065,7 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0254-001-p1s24a11">
@@ -5638,7 +6099,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <t_lemma>#Percnt</t_lemma>
 <functor>EXT</functor>
 <deepord>5</deepord>
-<children id="T-wsj0254-001-p1s24a6">
+<children>
+<LM id="T-wsj0254-001-p1s24a6">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s24W5-Ta</lex.rf>
 </a>
@@ -5649,12 +6111,15 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0254-001-p1s24a10">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s24W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s24W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s24W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>srpen</t_lemma>
@@ -5664,15 +6129,19 @@ tomu, zda je na obzoru hospodářský pokles.
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s13a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0254-001-p1s24a8">
@@ -5687,9 +6156,11 @@ tomu, zda je na obzoru hospodářský pokles.
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s23a5</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0254-001-p1s24a14">
@@ -5714,7 +6185,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <t_lemma>#Percnt</t_lemma>
 <functor>EXT</functor>
 <deepord>11</deepord>
-<children id="T-wsj0254-001-p1s24a12">
+<children>
+<LM id="T-wsj0254-001-p1s24a12">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s24W12-Ta</lex.rf>
 </a>
@@ -5725,12 +6197,15 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0254-001-p1s24a16">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s24W16-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s24W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s24W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>září</t_lemma>
@@ -5740,27 +6215,33 @@ tomu, zda je na obzoru hospodářský pokles.
 </gram>
 <deepord>13</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s16a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>After various adjustments, they produced a 0.5% rise in the index for August and a 0.2% rise for September.</eng_sentence>
 </LM>
 <LM id="T-wsj0254-001-p1s25">
 <atree.rf>a#a-wsj0254-001-p1s25</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0254-001-p1s25a3">
+<children>
+<LM id="T-wsj0254-001-p1s25a3">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s25W6-Ta</lex.rf>
 </a>
@@ -5791,9 +6272,11 @@ tomu, zda je na obzoru hospodářský pokles.
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s24a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0254-001-p1s25a6">
@@ -5808,10 +6291,13 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0254-001-p1s25a2">
+<children>
+<LM id="T-wsj0254-001-p1s25a2">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s25W5-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s25W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s25W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>srpen</t_lemma>
@@ -5821,10 +6307,13 @@ tomu, zda je na obzoru hospodářský pokles.
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s24a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 </children>
@@ -5832,7 +6321,9 @@ tomu, zda je na obzoru hospodářský pokles.
 <LM id="T-wsj0254-001-p1s25a8">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s25W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s25W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s25W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>1.11</t_lemma>
@@ -5841,10 +6332,13 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj0254-001-p1s25a10">
+<children>
+<LM id="T-wsj0254-001-p1s25a10">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s25W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0254-001-p1s25W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0254-001-p1s25W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>měsíc</t_lemma>
@@ -5853,7 +6347,8 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0254-001-p1s25a11">
+<children>
+<LM id="T-wsj0254-001-p1s25a11">
 <a>
 <lex.rf>a#a-wsj0254-001-p1s25W10-Ta</lex.rf>
 </a>
@@ -5864,19 +6359,26 @@ tomu, zda je na obzoru hospodářský pokles.
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0254-001-p1s25a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <str_comment>
+<LM>
 <name>AMBIG</name>
 <comment>asi</comment>
+</LM>
 </str_comment>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>September, and the change from August, are: from 1.11 in the previous month.</eng_sentence>
 </LM>

@@ -11,7 +11,8 @@
 <LM id="T-wsj1906-001-p1s0">
 <atree.rf>a#a-wsj1906-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1906-001-p1s0a1">
+<children>
+<LM id="T-wsj1906-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s0W20-Ta</lex.rf>
 </a>
@@ -43,10 +44,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1906-001-p1s0a4">
 <a>
@@ -150,10 +147,13 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>11</deepord>
-<children id="T-wsj1906-001-p1s0a13">
+<children>
+<LM id="T-wsj1906-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s0W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1906-001-p1s0W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1906-001-p1s0W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Kalifornie</t_lemma>
@@ -163,6 +163,7 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>12</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -170,7 +171,9 @@
 <LM id="T-wsj1906-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s0W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1906-001-p1s0W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1906-001-p1s0W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>obtěžování</t_lemma>
@@ -181,7 +184,9 @@
 <deepord>14</deepord>
 <children>
 <LM id="T-wsj1906-001-p1s0a29">
-<coref_gram.rf>T-wsj1906-001-p1s0a7</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1906-001-p1s0a7</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -211,7 +216,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj1906-001-p1s0a19">
+<children>
+<LM id="T-wsj1906-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s0W17-Ta</lex.rf>
 </a>
@@ -222,12 +228,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>17</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -298,20 +307,24 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The House Ethics Committee officially cited Rep. Jim Bates (D., Calif.) for sexually harassing two female employees, but didn't recommend formal disciplinary action.</eng_sentence>
 </LM>
 <LM id="T-wsj1906-001-p1s1">
 <atree.rf>a#a-wsj1906-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1906-001-p1s1a1">
+<children>
+<LM id="T-wsj1906-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s1W9-Ta</lex.rf>
 </a>
@@ -345,7 +358,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1906-001-p1s1a4">
+<children>
+<LM id="T-wsj1906-001-p1s1a4">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s1W1-Ta</lex.rf>
 </a>
@@ -356,17 +370,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s0a29</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1906-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s1W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1906-001-p1s1W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1906-001-p1s1W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5161f4</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -387,9 +406,11 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s1a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1906-001-p1s1a8">
@@ -415,9 +436,11 @@
 </gram>
 <deepord>6</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s0a1</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1906-001-p1s1a26">
@@ -430,15 +453,19 @@
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -480,10 +507,13 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1906-001-p1s1a13">
+<children>
+<LM id="T-wsj1906-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s1W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1906-001-p1s1W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1906-001-p1s1W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>oběť</t_lemma>
@@ -493,10 +523,13 @@
 </gram>
 <deepord>11</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s0a18</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1906-001-p1s1a14">
@@ -511,7 +544,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj1906-001-p1s1a15">
+<children>
+<LM id="T-wsj1906-001-p1s1a15">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s1W14-Ta</lex.rf>
 </a>
@@ -522,6 +556,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -575,7 +610,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1906-001-p1s1a22">
+<children>
+<LM id="T-wsj1906-001-p1s1a22">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s1W21-Ta</lex.rf>
 </a>
@@ -586,23 +622,30 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>20</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s1a26</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1906-001-p1s1a24">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s1W25-Ta</lex.rf>
-<aux.rf>a#a-wsj1906-001-p1s1W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1906-001-p1s1W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>absurdní</t_lemma>
@@ -615,13 +658,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Rep. Bates said he accepted the finding, but one of the victims, Dorena Bertussi, denounced the ethics panel's action as ``absurd.''</eng_sentence>
 </LM>
 <LM id="T-wsj1906-001-p1s2">
 <atree.rf>a#a-wsj1906-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1906-001-p1s2a1">
+<children>
+<LM id="T-wsj1906-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s2W11-Ta</lex.rf>
 </a>
@@ -657,7 +702,8 @@
 <sempos>adj.quant.grad</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1906-001-p1s2a36">
+<children>
+<LM id="T-wsj1906-001-p1s2a36">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -665,6 +711,7 @@
 <t_lemma>než</t_lemma>
 <functor>DPHR</functor>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1906-001-p1s2a8">
@@ -696,9 +743,11 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s1a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1906-001-p1s2a10">
@@ -729,9 +778,11 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s1a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1906-001-p1s2a31">
@@ -745,7 +796,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1906-001-p1s2a13">
+<children>
+<LM id="T-wsj1906-001-p1s2a13">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s2W18-Ta</lex.rf>
 </a>
@@ -762,7 +814,9 @@
 <a>
 <lex.rf>a#a-wsj1906-001-p1s2W17-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1906-001-p1s2a31</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1906-001-p1s2a31</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -774,7 +828,9 @@
 <LM id="T-wsj1906-001-p1s2a18">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s2W23-Ta</lex.rf>
-<aux.rf>a#a-wsj1906-001-p1s2W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1906-001-p1s2W20-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5246f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -796,7 +852,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1906-001-p1s2a20">
+<children>
+<LM id="T-wsj1906-001-p1s2a20">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s2W21-Ta</lex.rf>
 </a>
@@ -807,11 +864,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s1a29</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1906-001-p1s2a21">
@@ -837,9 +897,11 @@
 </gram>
 <deepord>15</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s2a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1906-001-p1s2a23">
@@ -853,7 +915,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1906-001-p1s2a22">
+<children>
+<LM id="T-wsj1906-001-p1s2a22">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s2W27-Ta</lex.rf>
 </a>
@@ -888,7 +951,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj1906-001-p1s2a26">
+<children>
+<LM id="T-wsj1906-001-p1s2a26">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s2W29-Ta</lex.rf>
 </a>
@@ -929,34 +993,43 @@
 <deepord>23</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence> Acting more than a year after Ms. Bertussi filed a complaint, the panel issued a ``letter of reproval'' saying Rep. Bates had admitted conduct that violated a House rule forbidding discrimination against employees on account of their sex.</eng_sentence>
 </LM>
 <LM id="T-wsj1906-001-p1s3">
 <atree.rf>a#a-wsj1906-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1906-001-p1s3a4">
+<children>
+<LM id="T-wsj1906-001-p1s3a4">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s3W2-Ta</lex.rf>
 </a>
@@ -981,9 +1054,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s2a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1906-001-p1s3a6">
@@ -997,7 +1072,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1906-001-p1s3a7">
+<children>
+<LM id="T-wsj1906-001-p1s3a7">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s3W3-Ta</lex.rf>
 </a>
@@ -1008,11 +1084,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s2a35</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1906-001-p1s3a8">
@@ -1029,7 +1108,9 @@
 <deepord>6</deepord>
 <children>
 <LM id="T-wsj1906-001-p1s3a16">
-<coref_gram.rf>T-wsj1906-001-p1s3a6</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1906-001-p1s3a6</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -1058,9 +1139,11 @@
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s2a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1906-001-p1s3a1">
@@ -1085,7 +1168,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1906-001-p1s3a10">
+<children>
+<LM id="T-wsj1906-001-p1s3a10">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s3W8-Ta</lex.rf>
 </a>
@@ -1096,6 +1180,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1906-001-p1s3a12">
@@ -1110,7 +1195,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1906-001-p1s3a11">
+<children>
+<LM id="T-wsj1906-001-p1s3a11">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s3W11-Ta</lex.rf>
 </a>
@@ -1121,15 +1207,18 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s1a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1906-001-p1s3a14">
@@ -1143,7 +1232,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1906-001-p1s3a15">
+<children>
+<LM id="T-wsj1906-001-p1s3a15">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s3W14-Ta</lex.rf>
 </a>
@@ -1154,18 +1244,21 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>It ordered Rep. Bates to write letters of apology to Ms. Bertussi and to a second complainant, Karen Dryden.</eng_sentence>
 </LM>
 <LM id="T-wsj1906-001-p1s4">
 <atree.rf>a#a-wsj1906-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1906-001-p1s4a1">
+<children>
+<LM id="T-wsj1906-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s4W3-Ta</lex.rf>
 </a>
@@ -1189,7 +1282,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1906-001-p1s4a3">
+<children>
+<LM id="T-wsj1906-001-p1s4a3">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s4W1-Ta</lex.rf>
 </a>
@@ -1200,17 +1294,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s3a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1906-001-p1s4a6">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s4W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1906-001-p1s4W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1906-001-p1s4W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2163f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1231,9 +1330,11 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s4a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1906-001-p1s4a7">
@@ -1248,9 +1349,11 @@
 </gram>
 <deepord>6</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s3a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1906-001-p1s4a10">
@@ -1280,9 +1383,11 @@
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s4a6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1906-001-p1s4a15">
@@ -1295,9 +1400,11 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s3a5</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1906-001-p1s4a17">
@@ -1324,9 +1431,11 @@
 </gram>
 <deepord>11</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s4a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -1334,13 +1443,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Rep. Bates said he would write the letters as ordered.</eng_sentence>
 </LM>
 <LM id="T-wsj1906-001-p1s5">
 <atree.rf>a#a-wsj1906-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1906-001-p1s5a1">
+<children>
+<LM id="T-wsj1906-001-p1s5a1">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s5W11-Ta</lex.rf>
 </a>
@@ -1370,9 +1481,11 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s5a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1906-001-p1s5a2">
@@ -1412,7 +1525,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1906-001-p1s5a6">
+<children>
+<LM id="T-wsj1906-001-p1s5a6">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s5W3-Ta</lex.rf>
 </a>
@@ -1423,21 +1537,22 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s4a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1906-001-p1s5a8">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s5W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1906-001-p1s5W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1906-001-p1s5W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>záležitost</t_lemma>
@@ -1446,7 +1561,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1906-001-p1s5a9">
+<children>
+<LM id="T-wsj1906-001-p1s5a9">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s5W6-Ta</lex.rf>
 </a>
@@ -1457,17 +1573,22 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s1a20</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1906-001-p1s5a13">
@@ -1480,21 +1601,25 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s4a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>``I accept the resolution of the matter by the Ethics Committee,'' he said.</eng_sentence>
 </LM>
 <LM id="T-wsj1906-001-p1s6">
 <atree.rf>a#a-wsj1906-001-p1s6</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1906-001-p1s6a1">
+<children>
+<LM id="T-wsj1906-001-p1s6a1">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s6W5-Ta</lex.rf>
 </a>
@@ -1519,9 +1644,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s5a5</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1906-001-p1s6a3">
@@ -1544,7 +1671,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1906-001-p1s6a5">
+<children>
+<LM id="T-wsj1906-001-p1s6a5">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s6W3-Ta</lex.rf>
 </a>
@@ -1555,11 +1683,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s5a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1906-001-p1s6a13">
@@ -1602,9 +1733,11 @@
 </gram>
 <deepord>6</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s6a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1906-001-p1s6a26">
@@ -1617,9 +1750,11 @@
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s2a22</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1906-001-p1s6a9">
@@ -1648,14 +1783,18 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1906-001-p1s6a16">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s6W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1906-001-p1s6W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1906-001-p1s6W14-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w668f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1683,9 +1822,11 @@
 </gram>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s6a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1906-001-p1s6a14">
@@ -1719,7 +1860,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1906-001-p1s6a18">
+<children>
+<LM id="T-wsj1906-001-p1s6a18">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s6W17-Ta</lex.rf>
 </a>
@@ -1730,33 +1872,42 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>17</deepord>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The panel also warned Rep. Bates that any further violations ``may result in a recommendation that disciplinary action be considered.''</eng_sentence>
 </LM>
 <LM id="T-wsj1906-001-p1s7">
 <atree.rf>a#a-wsj1906-001-p1s7</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1906-001-p1s7a2">
+<children>
+<LM id="T-wsj1906-001-p1s7a2">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s7W4-Ta</lex.rf>
-<aux.rf>a#a-wsj1906-001-p1s7W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1906-001-p1s7W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9432f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1786,9 +1937,11 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s3a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1906-001-p1s7a1">
@@ -1803,7 +1956,9 @@
 <LM id="T-wsj1906-001-p1s7a8">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s7W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1906-001-p1s7W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1906-001-p1s7W9-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3546f8</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1826,7 +1981,8 @@
 <sempos>n.pron.indef</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1906-001-p1s7a11">
+<children>
+<LM id="T-wsj1906-001-p1s7a11">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s7W8-Ta</lex.rf>
 </a>
@@ -1837,6 +1993,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1906-001-p1s7a13">
@@ -1850,7 +2007,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1906-001-p1s7a14">
+<children>
+<LM id="T-wsj1906-001-p1s7a14">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s7W11-Ta</lex.rf>
 </a>
@@ -1861,12 +2019,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1906-001-p1s7a16">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s7W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1906-001-p1s7W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1906-001-p1s7W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>komise</t_lemma>
@@ -1875,7 +2036,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1906-001-p1s7a17">
+<children>
+<LM id="T-wsj1906-001-p1s7a17">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s7W14-Ta</lex.rf>
 </a>
@@ -1886,27 +2048,28 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s6a23</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>But Ms. Bertussi asked, ``Who in their right mind is going to file another complaint with the Ethics Committee?''</eng_sentence>
 </LM>
 <LM id="T-wsj1906-001-p1s8">
 <atree.rf>a#a-wsj1906-001-p1s8</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1906-001-p1s8a1">
+<children>
+<LM id="T-wsj1906-001-p1s8a1">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s8W8-Ta</lex.rf>
 </a>
@@ -1940,7 +2103,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1906-001-p1s8a3">
+<children>
+<LM id="T-wsj1906-001-p1s8a3">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s8W1-Ta</lex.rf>
 </a>
@@ -1951,11 +2115,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s6a20</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1906-001-p1s8a5">
@@ -1985,7 +2152,9 @@
 <LM id="T-wsj1906-001-p1s8a8">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s8W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1906-001-p1s8W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1906-001-p1s8W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2847f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -2006,9 +2175,11 @@
 </gram>
 <deepord>6</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s0a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1906-001-p1s8a20">
@@ -2021,9 +2192,11 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s8a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1906-001-p1s8a18">
@@ -2036,15 +2209,19 @@
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s8a6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -2052,7 +2229,9 @@
 <LM id="T-wsj1906-001-p1s8a9">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s8W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1906-001-p1s8W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1906-001-p1s8W9-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9986f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -2075,7 +2254,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1906-001-p1s8a12">
+<children>
+<LM id="T-wsj1906-001-p1s8a12">
 <a>
 <lex.rf>a#a-wsj1906-001-p1s8W10-Ta</lex.rf>
 </a>
@@ -2086,6 +2266,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1906-001-p1s8a13">
@@ -2120,9 +2301,11 @@
 </gram>
 <deepord>16</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1906-001-p1s8a20</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1906-001-p1s8a16">
@@ -2163,6 +2346,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Rep. Bates has publicly begged for forgiveness from voters and was re-elected with 60% of the vote last November.</eng_sentence>
 </LM>

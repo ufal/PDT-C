@@ -11,7 +11,8 @@
 <LM id="T-wsj1845-001-p1s0">
 <atree.rf>a#a-wsj1845-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1845-001-p1s0a1">
+<children>
+<LM id="T-wsj1845-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1845-001-p1s0W23-Ta</lex.rf>
 </a>
@@ -112,10 +113,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1845-001-p1s0a12">
+<children>
+<LM id="T-wsj1845-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj1845-001-p1s0W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1845-001-p1s0W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1845-001-p1s0W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>účast</t_lemma>
@@ -160,7 +164,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1845-001-p1s0a3">
+<children>
+<LM id="T-wsj1845-001-p1s0a3">
 <a>
 <lex.rf>a#a-wsj1845-001-p1s0W17-Ta</lex.rf>
 </a>
@@ -253,9 +258,11 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -272,7 +279,9 @@
 <LM id="T-wsj1845-001-p1s0a26">
 <a>
 <lex.rf>a#a-wsj1845-001-p1s0W28-Ta</lex.rf>
-<aux.rf>a#a-wsj1845-001-p1s0W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1845-001-p1s0W25-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8784f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -295,7 +304,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>26</deepord>
-<children id="T-wsj1845-001-p1s0a28">
+<children>
+<LM id="T-wsj1845-001-p1s0a28">
 <a>
 <lex.rf>a#a-wsj1845-001-p1s0W26-Ta</lex.rf>
 </a>
@@ -306,6 +316,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>25</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1845-001-p1s0a29">
@@ -331,7 +342,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>30</deepord>
-<children id="T-wsj1845-001-p1s0a62">
+<children>
+<LM id="T-wsj1845-001-p1s0a62">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -360,12 +372,15 @@
 <deepord>33</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1845-001-p1s0a34">
 <a>
 <lex.rf>a#a-wsj1845-001-p1s0W34-Ta</lex.rf>
-<aux.rf>a#a-wsj1845-001-p1s0W33-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1845-001-p1s0W33-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Japonsko</t_lemma>
@@ -389,9 +404,11 @@
 </gram>
 <deepord>28</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1845-001-p1s0a56</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1845-001-p1s0a35">
@@ -416,7 +433,9 @@
 <a>
 <lex.rf>a#a-wsj1845-001-p1s0W36-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1845-001-p1s0a26</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1845-001-p1s0a26</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>MEANS</functor>
@@ -491,7 +510,9 @@
 <a>
 <lex.rf>a#a-wsj1845-001-p1s0W44-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1845-001-p1s0a39</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1845-001-p1s0a39</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -511,7 +532,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>44</deepord>
-<children id="T-wsj1845-001-p1s0a47">
+<children>
+<LM id="T-wsj1845-001-p1s0a47">
 <a>
 <lex.rf>a#a-wsj1845-001-p1s0W47-Ta</lex.rf>
 </a>
@@ -522,10 +544,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>45</deepord>
-<children id="T-wsj1845-001-p1s0a49">
+<children>
+<LM id="T-wsj1845-001-p1s0a49">
 <a>
 <lex.rf>a#a-wsj1845-001-p1s0W50-Ta</lex.rf>
-<aux.rf>a#a-wsj1845-001-p1s0W48-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1845-001-p1s0W48-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>stát</t_lemma>
@@ -534,7 +559,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>47</deepord>
-<children id="T-wsj1845-001-p1s0a50">
+<children>
+<LM id="T-wsj1845-001-p1s0a50">
 <a>
 <lex.rf>a#a-wsj1845-001-p1s0W49-Ta</lex.rf>
 </a>
@@ -545,12 +571,11 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>46</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1845-001-p1s0a51">
@@ -568,7 +593,9 @@
 <LM id="T-wsj1845-001-p1s0a53">
 <a>
 <lex.rf>a#a-wsj1845-001-p1s0W53-Ta</lex.rf>
-<aux.rf>a#a-wsj1845-001-p1s0W52-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1845-001-p1s0W52-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Japonsko</t_lemma>
@@ -578,9 +605,11 @@
 </gram>
 <deepord>49</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1845-001-p1s0a34</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -592,13 +621,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Diamond-Star Motors Corp., a joint venture of Chrysler Corp. and Mitsubishi Motors Corp. said it will begin shipping Mitsubishi Eclipse cars to Japan next week, emulating other Japanese auto ventures shipping U.S.-built vehicles back to Japan.</eng_sentence>
 </LM>
 <LM id="T-wsj1845-001-p1s1">
 <atree.rf>a#a-wsj1845-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1845-001-p1s1a1">
+<children>
+<LM id="T-wsj1845-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1845-001-p1s1W5-Ta</lex.rf>
 </a>
@@ -622,7 +653,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1845-001-p1s1a22">
+<children>
+<LM id="T-wsj1845-001-p1s1a22">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -663,17 +695,22 @@
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1845-001-p1s0a61</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1845-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj1845-001-p1s1W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1845-001-p1s1W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1845-001-p1s1W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8547f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -701,15 +738,19 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1845-001-p1s1a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1845-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj1845-001-p1s1W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1845-001-p1s1W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1845-001-p1s1W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>konec</t_lemma>
@@ -718,7 +759,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1845-001-p1s1a11">
+<children>
+<LM id="T-wsj1845-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj1845-001-p1s1W10-Ta</lex.rf>
 </a>
@@ -729,16 +771,21 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>Secondary preposition</type>
 <text>do konce</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1845-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj1845-001-p1s1W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1845-001-p1s1W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1845-001-p1s1W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Japonsko</t_lemma>
@@ -748,9 +795,11 @@
 </gram>
 <deepord>11</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1845-001-p1s0a53</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1845-001-p1s1a16">
@@ -776,7 +825,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj1845-001-p1s1a14">
+<children>
+<LM id="T-wsj1845-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj1845-001-p1s1W14-Ta</lex.rf>
 </a>
@@ -787,6 +837,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1845-001-p1s1a17">
@@ -800,7 +851,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj1845-001-p1s1a18">
+<children>
+<LM id="T-wsj1845-001-p1s1a18">
 <a>
 <lex.rf>a#a-wsj1845-001-p1s1W18-Ta</lex.rf>
 </a>
@@ -811,24 +863,23 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>chybné t-lemma</text>
-</annot_comment>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Diamond-Star said it will export about 1,500 Eclipse cars to Japan by year's end.</eng_sentence>
 </LM>
 <LM id="T-wsj1845-001-p1s2">
 <atree.rf>a#a-wsj1845-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1845-001-p1s2a20">
+<children>
+<LM id="T-wsj1845-001-p1s2a20">
 <a>
 <lex.rf>a#a-wsj1845-001-p1s2W23-Ta</lex.rf>
 </a>
@@ -862,7 +913,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1845-001-p1s2a39">
+<children>
+<LM id="T-wsj1845-001-p1s2a39">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -909,6 +961,7 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1845-001-p1s2a7">
@@ -977,7 +1030,9 @@
 <a>
 <lex.rf>a#a-wsj1845-001-p1s2W12-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1845-001-p1s2a7</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1845-001-p1s2a7</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -989,7 +1044,9 @@
 <LM id="T-wsj1845-001-p1s2a15">
 <a>
 <lex.rf>a#a-wsj1845-001-p1s2W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1845-001-p1s2W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1845-001-p1s2W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Japonsko</t_lemma>
@@ -999,9 +1056,11 @@
 </gram>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1845-001-p1s1a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1845-001-p1s2a16">
@@ -1015,10 +1074,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1845-001-p1s2a18">
+<children>
+<LM id="T-wsj1845-001-p1s2a18">
 <a>
 <lex.rf>a#a-wsj1845-001-p1s2W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1845-001-p1s2W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1845-001-p1s2W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>stát</t_lemma>
@@ -1027,7 +1089,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1845-001-p1s2a19">
+<children>
+<LM id="T-wsj1845-001-p1s2a19">
 <a>
 <lex.rf>a#a-wsj1845-001-p1s2W18-Ta</lex.rf>
 </a>
@@ -1038,16 +1101,16 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1845-001-p1s0a49</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 </children>
@@ -1098,10 +1161,13 @@
 <sempos>adj.quant.grad</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj1845-001-p1s2a26">
+<children>
+<LM id="T-wsj1845-001-p1s2a26">
 <a>
 <lex.rf>a#a-wsj1845-001-p1s2W27-Ta</lex.rf>
-<aux.rf>a#a-wsj1845-001-p1s2W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1845-001-p1s2W25-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>vůz</t_lemma>
@@ -1134,7 +1200,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj1845-001-p1s2a38">
+<children>
+<LM id="T-wsj1845-001-p1s2a38">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1166,12 +1233,15 @@
 <deepord>28</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1845-001-p1s2a31">
 <a>
 <lex.rf>a#a-wsj1845-001-p1s2W32-Ta</lex.rf>
-<aux.rf>a#a-wsj1845-001-p1s2W31-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1845-001-p1s2W31-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>závod</t_lemma>
@@ -1180,10 +1250,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>29</deepord>
-<children id="T-wsj1845-001-p1s2a33">
+<children>
+<LM id="T-wsj1845-001-p1s2a33">
 <a>
 <lex.rf>a#a-wsj1845-001-p1s2W34-Ta</lex.rf>
-<aux.rf>a#a-wsj1845-001-p1s2W33-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1845-001-p1s2W33-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>město</t_lemma>
@@ -1208,7 +1281,9 @@
 <LM id="T-wsj1845-001-p1s2a36">
 <a>
 <lex.rf>a#a-wsj1845-001-p1s2W37-Ta</lex.rf>
-<aux.rf>a#a-wsj1845-001-p1s2W36-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1845-001-p1s2W36-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Ohio</t_lemma>
@@ -1219,12 +1294,15 @@
 <deepord>32</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Honda Motor Co., the first Japanese auto maker to ship cars to Japan from the U.S., is now exporting more than 5,000 Accord Coupes a year from its Marysville, Ohio, factory.</eng_sentence>
 </LM>

@@ -11,7 +11,8 @@
 <LM id="T-wsj1090-001-p1s0">
 <atree.rf>a#a-wsj1090-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1090-001-p1s0a1">
+<children>
+<LM id="T-wsj1090-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1090-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1090-001-p1s0a40">
+<children>
+<LM id="T-wsj1090-001-p1s0a40">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -82,12 +84,15 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1090-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj1090-001-p1s0W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1090-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1090-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6275f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -109,7 +114,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1090-001-p1s0a35">
+<children>
+<LM id="T-wsj1090-001-p1s0a35">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -153,6 +159,7 @@
 <deepord>13</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1090-001-p1s0a19">
@@ -183,15 +190,19 @@
 </gram>
 <deepord>15</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1090-001-p1s0a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1090-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj1090-001-p1s0W22-Ta</lex.rf>
-<aux.rf>a#a-wsj1090-001-p1s0W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1090-001-p1s0W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -250,10 +261,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj1090-001-p1s0a29">
+<children>
+<LM id="T-wsj1090-001-p1s0a29">
 <a>
 <lex.rf>a#a-wsj1090-001-p1s0W29-Ta</lex.rf>
-<aux.rf>a#a-wsj1090-001-p1s0W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1090-001-p1s0W28-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodnota</t_lemma>
@@ -262,7 +276,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj1090-001-p1s0a32">
+<children>
+<LM id="T-wsj1090-001-p1s0a32">
 <a>
 <lex.rf>a#a-wsj1090-001-p1s0W32-Ta</lex.rf>
 </a>
@@ -311,11 +326,9 @@
 <deepord>28</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1090-001-p1s0a26">
@@ -329,7 +342,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj1090-001-p1s0a27">
+<children>
+<LM id="T-wsj1090-001-p1s0a27">
 <a>
 <lex.rf>a#a-wsj1090-001-p1s0W27-Ta</lex.rf>
 </a>
@@ -340,11 +354,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1090-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -352,13 +369,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Sun Microsystems Inc. said Prime Computer Inc. has agreed to resell as much as $200 million  worth of Sun's machines over the next two years.</eng_sentence>
 </LM>
 <LM id="T-wsj1090-001-p1s1">
 <atree.rf>a#a-wsj1090-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1090-001-p1s1a1">
+<children>
+<LM id="T-wsj1090-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1090-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -382,7 +401,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1090-001-p1s1a3">
+<children>
+<LM id="T-wsj1090-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj1090-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -393,17 +413,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1090-001-p1s0a26</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1090-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj1090-001-p1s1W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1090-001-p1s1W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1090-001-p1s1W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4135f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -425,7 +450,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1090-001-p1s1a8">
+<children>
+<LM id="T-wsj1090-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj1090-001-p1s1W6-Ta</lex.rf>
 </a>
@@ -436,10 +462,13 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>Coref</type>
 <text>spíš typ GEN</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1090-001-p1s1a9">
@@ -477,7 +506,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1090-001-p1s1a12">
+<children>
+<LM id="T-wsj1090-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj1090-001-p1s1W11-Ta</lex.rf>
 </a>
@@ -488,15 +518,20 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1090-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <str_comment>
+<LM>
 <name>AMBIG</name>
 <comment>asi</comment>
+</LM>
 </str_comment>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1090-001-p1s1a14">
@@ -510,13 +545,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1090-001-p1s1a15">
+<children>
+<LM id="T-wsj1090-001-p1s1a15">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
 <functor>EFF</functor>
 <deepord>12</deepord>
-<children id="T-wsj1090-001-p1s1a13">
+<children>
+<LM id="T-wsj1090-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj1090-001-p1s1W14-Ta</lex.rf>
 </a>
@@ -527,14 +564,17 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-</children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The computers use the company's own microprocessor called Sparc, Sun said.</eng_sentence>
 </LM>

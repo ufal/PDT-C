@@ -11,7 +11,8 @@
 <LM id="T-wsj1979-001-p1s0">
 <atree.rf>a#a-wsj1979-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1979-001-p1s0a2">
+<children>
+<LM id="T-wsj1979-001-p1s0a2">
 <a>
 <lex.rf>a#a-wsj1979-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -27,7 +28,9 @@
 <LM id="T-wsj1979-001-p1s0a4">
 <a>
 <lex.rf>a#a-wsj1979-001-p1s0W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1979-001-p1s0W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1979-001-p1s0W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>sdružení</t_lemma>
@@ -48,10 +51,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1979-001-p1s0a6">
 <a>
@@ -64,7 +63,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1979-001-p1s0a7">
+<children>
+<LM id="T-wsj1979-001-p1s0a7">
 <a>
 <lex.rf>a#a-wsj1979-001-p1s0W5-Ta</lex.rf>
 </a>
@@ -75,12 +75,15 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1979-001-p1s0a8">
@@ -118,7 +121,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1979-001-p1s0a11">
+<children>
+<LM id="T-wsj1979-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj1979-001-p1s0W9-Ta</lex.rf>
 </a>
@@ -129,6 +133,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -136,7 +141,9 @@
 <LM id="T-wsj1979-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj1979-001-p1s0W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1979-001-p1s0W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1979-001-p1s0W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>září</t_lemma>
@@ -167,7 +174,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1979-001-p1s0a14">
+<children>
+<LM id="T-wsj1979-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj1979-001-p1s0W13-Ta</lex.rf>
 </a>
@@ -178,6 +186,7 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1979-001-p1s0a16">
@@ -198,7 +207,9 @@
 <a>
 <lex.rf>a#a-wsj1979-001-p1s0W16-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1979-001-p1s0a15</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1979-001-p1s0a15</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>ACT</functor>
@@ -218,10 +229,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj1979-001-p1s0a21">
+<children>
+<LM id="T-wsj1979-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj1979-001-p1s0W17-Ta</lex.rf>
-<aux.rf>a#a-wsj1979-001-p1s0W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1979-001-p1s0W19-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w243f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -243,9 +257,11 @@
 </gram>
 <deepord>18</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1979-001-p1s0a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1979-001-p1s0a22">
@@ -268,20 +284,23 @@
 <deepord>20</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>French crude-steel production in September was 1,616,000 metric tons, unchanged from a year earlier, according to the National Steel Manufacturers' Association.</eng_sentence>
 </LM>
 <LM id="T-wsj1979-001-p1s1">
 <atree.rf>a#a-wsj1979-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1979-001-p1s1a1">
+<children>
+<LM id="T-wsj1979-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1979-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -305,7 +324,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1979-001-p1s1a3">
+<children>
+<LM id="T-wsj1979-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj1979-001-p1s1W1-Ta</lex.rf>
 </a>
@@ -316,21 +336,28 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1979-001-p1s0a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1979-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj1979-001-p1s1W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1979-001-p1s1W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1979-001-p1s1W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8153f3</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -418,7 +445,9 @@
 <LM id="T-wsj1979-001-p1s1a15">
 <a>
 <lex.rf>a#a-wsj1979-001-p1s1W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1979-001-p1s1W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1979-001-p1s1W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>měsíc</t_lemma>
@@ -464,7 +493,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1979-001-p1s1a18">
+<children>
+<LM id="T-wsj1979-001-p1s1a18">
 <a>
 <lex.rf>a#a-wsj1979-001-p1s1W17-Ta</lex.rf>
 </a>
@@ -475,6 +505,7 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -493,7 +524,9 @@
 <LM id="T-wsj1979-001-p1s1a30">
 <a>
 <lex.rf>a#a-wsj1979-001-p1s1W21-Ta</lex.rf>
-<aux.rf>a#a-wsj1979-001-p1s1W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1979-001-p1s1W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>tuna</t_lemma>
@@ -503,7 +536,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1979-001-p1s1a29">
+<children>
+<LM id="T-wsj1979-001-p1s1a29">
 <a>
 <lex.rf>a#a-wsj1979-001-p1s1W20-Ta</lex.rf>
 </a>
@@ -514,6 +548,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1979-001-p1s1a19">
@@ -534,7 +569,9 @@
 <a>
 <lex.rf>a#a-wsj1979-001-p1s1W23-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1979-001-p1s1a30</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1979-001-p1s1a30</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>ACT</functor>
@@ -558,13 +595,16 @@
 <LM id="T-wsj1979-001-p1s1a25">
 <a>
 <lex.rf>a#a-wsj1979-001-p1s1W27-Ta</lex.rf>
-<aux.rf>a#a-wsj1979-001-p1s1W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1979-001-p1s1W25-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>22</deepord>
-<children id="T-wsj1979-001-p1s1a24">
+<children>
+<LM id="T-wsj1979-001-p1s1a24">
 <a>
 <lex.rf>a#a-wsj1979-001-p1s1W26-Ta</lex.rf>
 </a>
@@ -575,12 +615,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>21</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1979-001-p1s1a32">
 <a>
 <lex.rf>a#a-wsj1979-001-p1s1W24-Ta</lex.rf>
-<aux.rf>a#a-wsj1979-001-p1s1W29-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1979-001-p1s1W29-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w243f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -602,9 +645,11 @@
 </gram>
 <deepord>25</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1979-001-p1s1a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1979-001-p1s1a33">
@@ -626,9 +671,11 @@
 </gram>
 <deepord>27</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1979-001-p1s0a20</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -642,6 +689,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The association said the September total brought French output for the first nine months this year to 14,789,000 tons, up 4.5% from a year earlier.</eng_sentence>
 </LM>

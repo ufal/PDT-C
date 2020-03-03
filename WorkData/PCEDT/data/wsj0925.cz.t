@@ -11,7 +11,8 @@
 <LM id="T-wsj0925-001-p1s0">
 <atree.rf>a#a-wsj0925-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0925-001-p1s0a1">
+<children>
+<LM id="T-wsj0925-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0925-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0925-001-p1s0a24">
+<children>
+<LM id="T-wsj0925-001-p1s0a24">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -82,12 +84,15 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0925-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj0925-001-p1s0W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0925-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0925-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9501f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -108,9 +113,11 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0925-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0925-001-p1s0a10">
@@ -128,7 +135,9 @@
 <LM id="T-wsj0925-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj0925-001-p1s0W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0925-001-p1s0W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0925-001-p1s0W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>pošta</t_lemma>
@@ -137,13 +146,15 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0925-001-p1s0a25">
+<children>
+<LM id="T-wsj0925-001-p1s0a25">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Idph</t_lemma>
 <functor>RSTR</functor>
 <deepord>12</deepord>
-<children id="T-wsj0925-001-p1s0a13">
+<children>
+<LM id="T-wsj0925-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj0925-001-p1s0W13-Ta</lex.rf>
 </a>
@@ -154,7 +165,9 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0925-001-p1s0a14">
@@ -181,11 +194,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj0925-001-p1s0a17">
+<children>
+<LM id="T-wsj0925-001-p1s0a17">
 <a>
 <lex.rf>a#a-wsj0925-001-p1s0W15-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0925-001-p1s0a10</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0925-001-p1s0a10</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>RSTR</functor>
@@ -193,6 +209,7 @@
 <sempos>n.pron.indef</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0925-001-p1s0a20">
@@ -218,7 +235,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj0925-001-p1s0a19">
+<children>
+<LM id="T-wsj0925-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj0925-001-p1s0W18-Ta</lex.rf>
 </a>
@@ -229,6 +247,7 @@
 <sempos>adv.denot.grad.neg</sempos>
 </gram>
 <deepord>17</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0925-001-p1s0a21">
@@ -244,10 +263,6 @@
 <deepord>20</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -256,13 +271,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Computer Sciences Corp. said it received a U.S. Postal Service contract that will have a value of at least $33 million.</eng_sentence>
 </LM>
 <LM id="T-wsj0925-001-p1s1">
 <atree.rf>a#a-wsj0925-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0925-001-p1s1a1">
+<children>
+<LM id="T-wsj0925-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0925-001-p1s1W17-Ta</lex.rf>
 </a>
@@ -301,9 +318,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0925-001-p1s0a17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0925-001-p1s1a2">
@@ -317,7 +336,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0925-001-p1s1a35">
+<children>
+<LM id="T-wsj0925-001-p1s1a35">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -349,17 +369,22 @@
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0925-001-p1s0a23</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0925-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj0925-001-p1s1W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0925-001-p1s1W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0925-001-p1s1W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>pošta</t_lemma>
@@ -369,9 +394,11 @@
 </gram>
 <deepord>6</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0925-001-p1s0a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0925-001-p1s1a11">
@@ -397,9 +424,11 @@
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0925-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0925-001-p1s1a12">
@@ -416,8 +445,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0925-001-p1s1a15">
@@ -435,7 +466,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj0925-001-p1s1a16">
+<children>
+<LM id="T-wsj0925-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj0925-001-p1s1W14-Ta</lex.rf>
 </a>
@@ -446,12 +478,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>A CPHR({zpracování}) Bude provádět zpracování dat.</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0925-001-p1s1a18">
@@ -480,9 +515,11 @@
 </gram>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0925-001-p1s1a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0925-001-p1s1a20">
@@ -545,7 +582,9 @@
 <LM id="T-wsj0925-001-p1s1a25">
 <a>
 <lex.rf>a#a-wsj0925-001-p1s1W31-Ta</lex.rf>
-<aux.rf>a#a-wsj0925-001-p1s1W30-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0925-001-p1s1W30-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6480f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -566,17 +605,23 @@
 </gram>
 <deepord>21</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0925-001-p1s1a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0925-001-p1s1a27">
 <a>
 <lex.rf>a#a-wsj0925-001-p1s1W27-Ta</lex.rf>
-<aux.rf>a#a-wsj0925-001-p1s1W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0925-001-p1s1W26-Ta</LM>
+</aux.rf>
 </a>
-<coref_gram.rf>T-wsj0925-001-p1s1a20</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0925-001-p1s1a20</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>THL</functor>
@@ -611,7 +656,9 @@
 <deepord>26</deepord>
 <children>
 <LM id="T-wsj0925-001-p1s1a34">
-<coref_gram.rf>T-wsj0925-001-p1s1a33</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0925-001-p1s1a33</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Rcp</t_lemma>
@@ -642,8 +689,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0925-001-p1s1a37">
@@ -660,13 +709,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Computer Sciences will perform data processing work for the Postal Service under the three-year contract, which also includes two additional option years for which compensation hasn't yet been fixed.</eng_sentence>
 </LM>
 <LM id="T-wsj0925-001-p1s2">
 <atree.rf>a#a-wsj0925-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0925-001-p1s2a1">
+<children>
+<LM id="T-wsj0925-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0925-001-p1s2W4-Ta</lex.rf>
 </a>
@@ -690,7 +741,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0925-001-p1s2a15">
+<children>
+<LM id="T-wsj0925-001-p1s2a15">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -721,22 +773,29 @@
 </gram>
 <deepord>4</deepord>
 <annot_comment>
+<LM>
 <type>Other</type>
 <text>předtím v datech Sciences</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0925-001-p1s1a36</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0925-001-p1s2a7">
 <a>
 <lex.rf>a#a-wsj0925-001-p1s2W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0925-001-p1s2W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0925-001-p1s2W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w10006f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -758,7 +817,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0925-001-p1s2a9">
+<children>
+<LM id="T-wsj0925-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj0925-001-p1s2W7-Ta</lex.rf>
 </a>
@@ -770,10 +830,13 @@
 </gram>
 <deepord>6</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0925-001-p1s2a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0925-001-p1s2a10">
@@ -787,7 +850,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0925-001-p1s2a11">
+<children>
+<LM id="T-wsj0925-001-p1s2a11">
 <a>
 <lex.rf>a#a-wsj0925-001-p1s2W11-Ta</lex.rf>
 </a>
@@ -821,21 +885,26 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Computer Sciences said its work will improve mail-processing efficiency.</eng_sentence>
 </LM>
 <LM id="T-wsj0925-001-p1s3">
 <atree.rf>a#a-wsj0925-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0925-001-p1s3a1">
+<children>
+<LM id="T-wsj0925-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj0925-001-p1s3W8-Ta</lex.rf>
 </a>
@@ -851,7 +920,9 @@
 <LM id="T-wsj0925-001-p1s3a3">
 <a>
 <lex.rf>a#a-wsj0925-001-p1s3W3-Ta</lex.rf>
-<aux.rf>a#a-wsj0925-001-p1s3W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0925-001-p1s3W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -884,7 +955,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0925-001-p1s3a6">
+<children>
+<LM id="T-wsj0925-001-p1s3a6">
 <a>
 <lex.rf>a#a-wsj0925-001-p1s3W7-Ta</lex.rf>
 </a>
@@ -895,10 +967,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0925-001-p1s3a7">
+<children>
+<LM id="T-wsj0925-001-p1s3a7">
 <a>
 <lex.rf>a#a-wsj0925-001-p1s3W5-Ta</lex.rf>
-<aux.rf>a#a-wsj0925-001-p1s3W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0925-001-p1s3W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>31</t_lemma>
@@ -907,7 +982,9 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -923,7 +1000,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0925-001-p1s3a16">
+<children>
+<LM id="T-wsj0925-001-p1s3a16">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -954,16 +1032,21 @@
 </gram>
 <deepord>10</deepord>
 <annot_comment>
+<LM>
 <type>Other</type>
 <text>předtím v datech Sciences</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0925-001-p1s2a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0925-001-p1s3a12">
@@ -977,7 +1060,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0925-001-p1s3a14">
+<children>
+<LM id="T-wsj0925-001-p1s3a14">
 <a>
 <lex.rf>a#a-wsj0925-001-p1s3W14-Ta</lex.rf>
 </a>
@@ -1014,9 +1098,11 @@
 <deepord>14</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>For its fiscal year ended March 31, Computer Sciences had revenue of $1.3 billion.</eng_sentence>
 </LM>

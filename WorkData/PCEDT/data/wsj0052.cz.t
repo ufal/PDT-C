@@ -11,7 +11,8 @@
 <LM id="T-wsj0052-001-p1s0">
 <atree.rf>a#a-wsj0052-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0052-001-p1s0a1">
+<children>
+<LM id="T-wsj0052-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0052-001-p1s0W2-Ta</lex.rf>
 </a>
@@ -22,7 +23,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0052-001-p1s0a2">
+<children>
+<LM id="T-wsj0052-001-p1s0a2">
 <a>
 <lex.rf>a#a-wsj0052-001-p1s0W1-Ta</lex.rf>
 </a>
@@ -33,17 +35,22 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
+</LM>
 </children>
 <eng_sentence>PAPERS:</eng_sentence>
 </LM>
 <LM id="T-wsj0052-001-p1s1">
 <atree.rf>a#a-wsj0052-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0052-001-p1s1a1">
+<children>
+<LM id="T-wsj0052-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0052-001-p1s1W7-Ta</lex.rf>
-<aux.rf>a#a-wsj0052-001-p1s1W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0052-001-p1s1W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w561f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -72,7 +79,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0052-001-p1s1a34">
+<children>
+<LM id="T-wsj0052-001-p1s1a34">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -122,12 +130,15 @@
 <deepord>8</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0052-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj0052-001-p1s1W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0052-001-p1s1W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0052-001-p1s1W9-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9501f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -148,9 +159,11 @@
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0052-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0052-001-p1s1a11">
@@ -232,7 +245,9 @@
 <a>
 <lex.rf>a#a-wsj0052-001-p1s1W17-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0052-001-p1s1a11</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0052-001-p1s1a11</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -254,7 +269,8 @@
 <sempos>v</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj0052-001-p1s1a21">
+<children>
+<LM id="T-wsj0052-001-p1s1a21">
 <a>
 <lex.rf>a#a-wsj0052-001-p1s1W21-Ta</lex.rf>
 </a>
@@ -291,6 +307,7 @@
 <deepord>22</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0052-001-p1s1a23">
@@ -306,7 +323,8 @@
 <sempos>v</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj0052-001-p1s1a24">
+<children>
+<LM id="T-wsj0052-001-p1s1a24">
 <a>
 <lex.rf>a#a-wsj0052-001-p1s1W25-Ta</lex.rf>
 </a>
@@ -369,7 +387,6 @@
 </children>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
@@ -378,16 +395,22 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Backe Group Inc. agreed to acquire Atlantic Publications Inc., which has 30 community papers and annual sales of $7 million.</eng_sentence>
 </LM>
 <LM id="T-wsj0052-001-p1s2">
 <atree.rf>a#a-wsj0052-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0052-001-p1s2a1">
+<children>
+<LM id="T-wsj0052-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0052-001-p1s2W3-Ta</lex.rf>
-<aux.rf>a#a-wsj0052-001-p1s2W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0052-001-p1s2W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9966f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -425,16 +448,15 @@
 <deepord>4</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
+</LM>
 </children>
 <eng_sentence>Terms weren't disclosed.</eng_sentence>
 </LM>
 <LM id="T-wsj0052-001-p1s3">
 <atree.rf>a#a-wsj0052-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0052-001-p1s3a1">
+<children>
+<LM id="T-wsj0052-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj0052-001-p1s3W3-Ta</lex.rf>
 </a>
@@ -458,7 +480,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0052-001-p1s3a2">
+<children>
+<LM id="T-wsj0052-001-p1s3a2">
 <a>
 <lex.rf>a#a-wsj0052-001-p1s3W2-Ta</lex.rf>
 </a>
@@ -469,11 +492,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0052-001-p1s1a31</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0052-001-p1s3a4">
@@ -503,7 +529,9 @@
 <LM id="T-wsj0052-001-p1s3a7">
 <a>
 <lex.rf>a#a-wsj0052-001-p1s3W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0052-001-p1s3W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0052-001-p1s3W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>počet</t_lemma>
@@ -542,7 +570,9 @@
 <LM id="T-wsj0052-001-p1s3a13">
 <a>
 <lex.rf>a#a-wsj0052-001-p1s3W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0052-001-p1s3W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0052-001-p1s3W12-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5879f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -557,7 +587,9 @@
 <a>
 <lex.rf>a#a-wsj0052-001-p1s3W11-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0052-001-p1s3a4</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0052-001-p1s3a4</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -613,7 +645,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj0052-001-p1s3a22">
+<children>
+<LM id="T-wsj0052-001-p1s3a22">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -654,6 +687,7 @@
 <deepord>19</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -671,28 +705,21 @@
 <deepord>18</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Backe is a closely held media firm run by former CBS Inc. President John Backe.</eng_sentence>
 </LM>
 <LM id="T-wsj0052-001-p1s4">
 <atree.rf>a#a-wsj0052-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0052-001-p1s4a1">
+<children>
+<LM id="T-wsj0052-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj0052-001-p1s4W2-Ta</lex.rf>
 </a>
@@ -703,7 +730,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0052-001-p1s4a2">
+<children>
+<LM id="T-wsj0052-001-p1s4a2">
 <a>
 <lex.rf>a#a-wsj0052-001-p1s4W1-Ta</lex.rf>
 </a>
@@ -714,14 +742,17 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
+</LM>
 </children>
 <eng_sentence>TV:</eng_sentence>
 </LM>
 <LM id="T-wsj0052-001-p1s5">
 <atree.rf>a#a-wsj0052-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0052-001-p1s5a1">
+<children>
+<LM id="T-wsj0052-001-p1s5a1">
 <a>
 <lex.rf>a#a-wsj0052-001-p1s5W25-Ta</lex.rf>
 </a>
@@ -741,7 +772,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0052-001-p1s5a34">
+<children>
+<LM id="T-wsj0052-001-p1s5a34">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -785,6 +817,7 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0052-001-p1s5a2">
@@ -800,7 +833,8 @@
 <sempos>v</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj0052-001-p1s5a8">
+<children>
+<LM id="T-wsj0052-001-p1s5a8">
 <a>
 <lex.rf>a#a-wsj0052-001-p1s5W7-Ta</lex.rf>
 </a>
@@ -828,7 +862,9 @@
 <a>
 <lex.rf>a#a-wsj0052-001-p1s5W8-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0052-001-p1s5a3</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0052-001-p1s5a3</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -874,7 +910,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj0052-001-p1s5a35">
+<children>
+<LM id="T-wsj0052-001-p1s5a35">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -915,12 +952,15 @@
 <deepord>17</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0052-001-p1s5a19">
 <a>
 <lex.rf>a#a-wsj0052-001-p1s5W18-Ta</lex.rf>
-<aux.rf>a#a-wsj0052-001-p1s5W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0052-001-p1s5W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -966,7 +1006,9 @@
 <LM id="T-wsj0052-001-p1s5a23">
 <a>
 <lex.rf>a#a-wsj0052-001-p1s5W21-Ta</lex.rf>
-<aux.rf>a#a-wsj0052-001-p1s5W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0052-001-p1s5W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hotovost</t_lemma>
@@ -980,7 +1022,9 @@
 <LM id="T-wsj0052-001-p1s5a25">
 <a>
 <lex.rf>a#a-wsj0052-001-p1s5W24-Ta</lex.rf>
-<aux.rf>a#a-wsj0052-001-p1s5W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0052-001-p1s5W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>směnka</t_lemma>
@@ -996,6 +1040,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0052-001-p1s5a26">
@@ -1016,7 +1061,9 @@
 <a>
 <lex.rf>a#a-wsj0052-001-p1s5W27-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0052-001-p1s5a3</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0052-001-p1s5a3</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>ADDR</functor>
@@ -1028,7 +1075,9 @@
 <LM id="T-wsj0052-001-p1s5a29">
 <a>
 <lex.rf>a#a-wsj0052-001-p1s5W30-Ta</lex.rf>
-<aux.rf>a#a-wsj0052-001-p1s5W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0052-001-p1s5W28-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>podnik</t_lemma>
@@ -1037,7 +1086,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>27</deepord>
-<children id="T-wsj0052-001-p1s5a30">
+<children>
+<LM id="T-wsj0052-001-p1s5a30">
 <a>
 <lex.rf>a#a-wsj0052-001-p1s5W29-Ta</lex.rf>
 </a>
@@ -1048,10 +1098,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>28</deepord>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>Coref</type>
 <text>není jasné, k čemu odkazuje</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0052-001-p1s5a31">
@@ -1065,7 +1118,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>29</deepord>
-<children id="T-wsj0052-001-p1s5a33">
+<children>
+<LM id="T-wsj0052-001-p1s5a33">
 <a>
 <lex.rf>a#a-wsj0052-001-p1s5W32-Ta</lex.rf>
 </a>
@@ -1073,7 +1127,8 @@
 <t_lemma>#Percnt</t_lemma>
 <functor>RSTR</functor>
 <deepord>30</deepord>
-<children id="T-wsj0052-001-p1s5a32">
+<children>
+<LM id="T-wsj0052-001-p1s5a32">
 <a>
 <lex.rf>a#a-wsj0052-001-p1s5W31-Ta</lex.rf>
 </a>
@@ -1084,19 +1139,23 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>31</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Price Communications Corp. completed the sale of four of its TV stations to NTG Inc. for $120 million in cash and notes, retaining a 10% equity stake in the new concern.</eng_sentence>
 </LM>
 <LM id="T-wsj0052-001-p1s6">
 <atree.rf>a#a-wsj0052-001-p1s6</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0052-001-p1s6a2">
+<children>
+<LM id="T-wsj0052-001-p1s6a2">
 <a>
 <lex.rf>a#a-wsj0052-001-p1s6W3-Ta</lex.rf>
 </a>
@@ -1120,7 +1179,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0052-001-p1s6a4">
+<children>
+<LM id="T-wsj0052-001-p1s6a4">
 <a>
 <lex.rf>a#a-wsj0052-001-p1s6W2-Ta</lex.rf>
 </a>
@@ -1131,11 +1191,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0052-001-p1s5a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0052-001-p1s6a1">
@@ -1159,7 +1222,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0052-001-p1s6a13">
+<children>
+<LM id="T-wsj0052-001-p1s6a13">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1206,6 +1270,7 @@
 <deepord>12</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0052-001-p1s6a12">
@@ -1221,7 +1286,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0052-001-p1s6a14">
+<children>
+<LM id="T-wsj0052-001-p1s6a14">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1250,11 +1316,13 @@
 <deepord>14</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>NTG was formed by Osborn Communications Corp. and Desai Capital.</eng_sentence>
 </LM>

@@ -11,7 +11,8 @@
 <LM id="T-wsj0233-001-p1s0">
 <atree.rf>a#a-wsj0233-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0233-001-p1s0a1">
+<children>
+<LM id="T-wsj0233-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0233-001-p1s0W25-Ta</lex.rf>
 </a>
@@ -73,7 +74,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0233-001-p1s0a6">
+<children>
+<LM id="T-wsj0233-001-p1s0a6">
 <a>
 <lex.rf>a#a-wsj0233-001-p1s0W3-Ta</lex.rf>
 </a>
@@ -84,6 +86,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -91,7 +94,9 @@
 <LM id="T-wsj0233-001-p1s0a8">
 <a>
 <lex.rf>a#a-wsj0233-001-p1s0W7-Ta</lex.rf>
-<aux.rf>a#a-wsj0233-001-p1s0W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0233-001-p1s0W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>srpen</t_lemma>
@@ -116,7 +121,9 @@
 <LM id="T-wsj0233-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj0233-001-p1s0W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0233-001-p1s0W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0233-001-p1s0W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>květen</t_lemma>
@@ -129,7 +136,9 @@
 <LM id="T-wsj0233-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj0233-001-p1s0W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0233-001-p1s0W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0233-001-p1s0W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>63.6</t_lemma>
@@ -142,7 +151,9 @@
 <LM id="T-wsj0233-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj0233-001-p1s0W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0233-001-p1s0W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0233-001-p1s0W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hranice</t_lemma>
@@ -201,7 +212,9 @@
 <LM id="T-wsj0233-001-p1s0a20">
 <a>
 <lex.rf>a#a-wsj0233-001-p1s0W22-Ta</lex.rf>
-<aux.rf>a#a-wsj0233-001-p1s0W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0233-001-p1s0W21-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5554f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -216,7 +229,9 @@
 <a>
 <lex.rf>a#a-wsj0233-001-p1s0W20-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0233-001-p1s0a15</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0233-001-p1s0a15</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -254,10 +269,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj0233-001-p1s0a28">
+<children>
+<LM id="T-wsj0233-001-p1s0a28">
 <a>
 <lex.rf>a#a-wsj0233-001-p1s0W29-Ta</lex.rf>
-<aux.rf>a#a-wsj0233-001-p1s0W27-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0233-001-p1s0W27-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3460f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -296,26 +314,29 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
-</annot_comment>
-</children>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Japan's index of leading indicators rose to 63.6 in August, above the so-called boom-or-bust line of 50 for the first time since May, the Economic Planning Agency said.</eng_sentence>
 </LM>
 <LM id="T-wsj0233-001-p1s1">
 <atree.rf>a#a-wsj0233-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0233-001-p1s1a1">
+<children>
+<LM id="T-wsj0233-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0233-001-p1s1W7-Ta</lex.rf>
-<aux.rf>a#a-wsj0233-001-p1s1W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0233-001-p1s1W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8674f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -329,7 +350,9 @@
 <LM id="T-wsj0233-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj0233-001-p1s1W2-Ta</lex.rf>
-<aux.rf>a#a-wsj0233-001-p1s1W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0233-001-p1s1W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>mluvčí</t_lemma>
@@ -338,7 +361,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0233-001-p1s1a4">
+<children>
+<LM id="T-wsj0233-001-p1s1a4">
 <a>
 <lex.rf>a#a-wsj0233-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -350,10 +374,13 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0233-001-p1s0a26</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0233-001-p1s1a6">
@@ -367,7 +394,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0233-001-p1s1a7">
+<children>
+<LM id="T-wsj0233-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj0233-001-p1s1W5-Ta</lex.rf>
 </a>
@@ -378,17 +406,22 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0233-001-p1s0a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0233-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj0233-001-p1s1W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0233-001-p1s1W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0233-001-p1s1W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>úroveň</t_lemma>
@@ -439,7 +472,9 @@
 <LM id="T-wsj0233-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj0233-001-p1s1W14-Ta</lex.rf>
-<aux.rf>a#a-wsj0233-001-p1s1W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0233-001-p1s1W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>jiný</t_lemma>
@@ -461,7 +496,9 @@
 <LM id="T-wsj0233-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj0233-001-p1s1W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0233-001-p1s1W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0233-001-p1s1W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výkon</t_lemma>
@@ -499,7 +536,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj0233-001-p1s1a21">
+<children>
+<LM id="T-wsj0233-001-p1s1a21">
 <a>
 <lex.rf>a#a-wsj0233-001-p1s1W20-Ta</lex.rf>
 </a>
@@ -510,6 +548,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -517,7 +556,9 @@
 <LM id="T-wsj0233-001-p1s1a23">
 <a>
 <lex.rf>a#a-wsj0233-001-p1s1W24-Ta</lex.rf>
-<aux.rf>a#a-wsj0233-001-p1s1W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0233-001-p1s1W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>objednávka</t_lemma>
@@ -551,7 +592,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj0233-001-p1s1a26">
+<children>
+<LM id="T-wsj0233-001-p1s1a26">
 <a>
 <lex.rf>a#a-wsj0233-001-p1s1W25-Ta</lex.rf>
 </a>
@@ -562,10 +604,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>18</deepord>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -573,16 +618,20 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The leading index recovered from July's revised level of 36.6 on strong performances in consumer durables and machinery orders, among other factors, according to an agency spokeswoman.</eng_sentence>
 </LM>
 <LM id="T-wsj0233-001-p1s2">
 <atree.rf>a#a-wsj0233-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0233-001-p1s2a3">
+<children>
+<LM id="T-wsj0233-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj0233-001-p1s2W3-Ta</lex.rf>
-<aux.rf>a#a-wsj0233-001-p1s2W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0233-001-p1s2W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1821f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -605,9 +654,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0233-001-p1s1a6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0233-001-p1s2a4">
@@ -649,13 +700,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The index is intended to measure future economic performance.</eng_sentence>
 </LM>
 <LM id="T-wsj0233-001-p1s3">
 <atree.rf>a#a-wsj0233-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0233-001-p1s3a20">
+<children>
+<LM id="T-wsj0233-001-p1s3a20">
 <a>
 <lex.rf>a#a-wsj0233-001-p1s3W10-Ta</lex.rf>
 </a>
@@ -689,10 +742,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0233-001-p1s3a4">
+<children>
+<LM id="T-wsj0233-001-p1s3a4">
 <a>
 <lex.rf>a#a-wsj0233-001-p1s3W3-Ta</lex.rf>
-<aux.rf>a#a-wsj0233-001-p1s3W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0233-001-p1s3W2-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>50</t_lemma>
@@ -701,6 +757,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0233-001-p1s3a5">
@@ -714,7 +771,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0233-001-p1s3a6">
+<children>
+<LM id="T-wsj0233-001-p1s3a6">
 <a>
 <lex.rf>a#a-wsj0233-001-p1s3W9-Ta</lex.rf>
 </a>
@@ -731,7 +789,9 @@
 <a>
 <lex.rf>a#a-wsj0233-001-p1s3W7-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0233-001-p1s3a5</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0233-001-p1s3a5</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -750,6 +810,7 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -779,10 +840,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0233-001-p1s3a13">
+<children>
+<LM id="T-wsj0233-001-p1s3a13">
 <a>
 <lex.rf>a#a-wsj0233-001-p1s3W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0233-001-p1s3W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0233-001-p1s3W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>50</t_lemma>
@@ -791,6 +855,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0233-001-p1s3a17">
@@ -809,10 +874,13 @@
 <sempos>v</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj0233-001-p1s3a19">
+<children>
+<LM id="T-wsj0233-001-p1s3a19">
 <a>
 <lex.rf>a#a-wsj0233-001-p1s3W20-Ta</lex.rf>
-<aux.rf>a#a-wsj0233-001-p1s3W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0233-001-p1s3W19-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3187f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -822,7 +890,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj0233-001-p1s3a23">
+<children>
+<LM id="T-wsj0233-001-p1s3a23">
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Gen</t_lemma>
@@ -831,16 +900,21 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>A figure above 50 indicates the economy is likely to expand; one below 50 indicates a contraction may be ahead.</eng_sentence>
 </LM>

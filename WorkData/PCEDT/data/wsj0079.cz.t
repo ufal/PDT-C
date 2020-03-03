@@ -11,7 +11,8 @@
 <LM id="T-wsj0079-001-p1s0">
 <atree.rf>a#a-wsj0079-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0079-001-p1s0a1">
+<children>
+<LM id="T-wsj0079-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0079-001-p1s0W5-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0079-001-p1s0a27">
+<children>
+<LM id="T-wsj0079-001-p1s0a27">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -70,12 +72,15 @@
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0079-001-p1s0a8">
 <a>
 <lex.rf>a#a-wsj0079-001-p1s0W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0079-001-p1s0W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0079-001-p1s0W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4313f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -96,9 +101,11 @@
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0079-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0079-001-p1s0a9">
@@ -117,7 +124,9 @@
 <a>
 <lex.rf>a#a-wsj0079-001-p1s0W9-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0079-001-p1s0a25</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0079-001-p1s0a25</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -193,7 +202,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj0079-001-p1s0a17">
+<children>
+<LM id="T-wsj0079-001-p1s0a17">
 <a>
 <lex.rf>a#a-wsj0079-001-p1s0W17-Ta</lex.rf>
 </a>
@@ -204,7 +214,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj0079-001-p1s0a18">
+<children>
+<LM id="T-wsj0079-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj0079-001-p1s0W18-Ta</lex.rf>
 </a>
@@ -215,7 +226,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj0079-001-p1s0a19">
+<children>
+<LM id="T-wsj0079-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj0079-001-p1s0W20-Ta</lex.rf>
 </a>
@@ -226,7 +238,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj0079-001-p1s0a20">
+<children>
+<LM id="T-wsj0079-001-p1s0a20">
 <a>
 <lex.rf>a#a-wsj0079-001-p1s0W19-Ta</lex.rf>
 </a>
@@ -237,29 +250,39 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>19</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0079-001-p1s0a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
-</children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Eaton Corp. said it sold its Pacific Sierra Research Corp. unit to a company formed by employees of that unit.</eng_sentence>
 </LM>
 <LM id="T-wsj0079-001-p1s1">
 <atree.rf>a#a-wsj0079-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0079-001-p1s1a1">
+<children>
+<LM id="T-wsj0079-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0079-001-p1s1W4-Ta</lex.rf>
-<aux.rf>a#a-wsj0079-001-p1s1W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0079-001-p1s1W3-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9966f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -288,7 +311,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0079-001-p1s1a3">
+<children>
+<LM id="T-wsj0079-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj0079-001-p1s1W1-Ta</lex.rf>
 </a>
@@ -299,6 +323,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0079-001-p1s1a5">
@@ -309,17 +334,15 @@
 <deepord>5</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>špatně utvořený infinitiv zveřejnět</text>
-</annot_comment>
+</LM>
 </children>
 <eng_sentence>Terms weren't disclosed.</eng_sentence>
 </LM>
 <LM id="T-wsj0079-001-p1s2">
 <atree.rf>a#a-wsj0079-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0079-001-p1s2a1">
+<children>
+<LM id="T-wsj0079-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0079-001-p1s2W13-Ta</lex.rf>
 </a>
@@ -376,7 +399,9 @@
 <LM id="T-wsj0079-001-p1s2a7">
 <a>
 <lex.rf>a#a-wsj0079-001-p1s2W5-Ta</lex.rf>
-<aux.rf>a#a-wsj0079-001-p1s2W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0079-001-p1s2W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>sídlo</t_lemma>
@@ -385,9 +410,12 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0079-001-p1s2a24">
+<children>
+<LM id="T-wsj0079-001-p1s2a24">
 <a>
-<aux.rf>a#a-wsj0079-001-p1s2W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0079-001-p1s2W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -420,13 +448,16 @@
 <deepord>8</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0079-001-p1s0a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0079-001-p1s2a5">
@@ -442,7 +473,8 @@
 <sempos>v</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0079-001-p1s2a12">
+<children>
+<LM id="T-wsj0079-001-p1s2a12">
 <a>
 <lex.rf>a#a-wsj0079-001-p1s2W12-Ta</lex.rf>
 </a>
@@ -453,10 +485,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0079-001-p1s2a13">
+<children>
+<LM id="T-wsj0079-001-p1s2a13">
 <a>
 <lex.rf>a#a-wsj0079-001-p1s2W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0079-001-p1s2W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0079-001-p1s2W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>200</t_lemma>
@@ -465,7 +500,9 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0079-001-p1s2a14">
@@ -510,7 +547,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj0079-001-p1s2a17">
+<children>
+<LM id="T-wsj0079-001-p1s2a17">
 <a>
 <lex.rf>a#a-wsj0079-001-p1s2W15-Ta</lex.rf>
 </a>
@@ -521,6 +559,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>15</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0079-001-p1s2a18">
@@ -551,7 +590,9 @@
 <LM id="T-wsj0079-001-p1s2a21">
 <a>
 <lex.rf>a#a-wsj0079-001-p1s2W21-Ta</lex.rf>
-<aux.rf>a#a-wsj0079-001-p1s2W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0079-001-p1s2W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>průmysl</t_lemma>
@@ -568,13 +609,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Pacific Sierra, based in Los Angeles, has about 200 employees and supplies professional services and advanced products to industry.</eng_sentence>
 </LM>
 <LM id="T-wsj0079-001-p1s3">
 <atree.rf>a#a-wsj0079-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0079-001-p1s3a1">
+<children>
+<LM id="T-wsj0079-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj0079-001-p1s3W3-Ta</lex.rf>
 </a>
@@ -598,7 +641,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0079-001-p1s3a2">
+<children>
+<LM id="T-wsj0079-001-p1s3a2">
 <a>
 <lex.rf>a#a-wsj0079-001-p1s3W2-Ta</lex.rf>
 </a>
@@ -609,11 +653,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0079-001-p1s0a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0079-001-p1s3a4">
@@ -627,7 +674,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0079-001-p1s3a5">
+<children>
+<LM id="T-wsj0079-001-p1s3a5">
 <a>
 <lex.rf>a#a-wsj0079-001-p1s3W5-Ta</lex.rf>
 </a>
@@ -638,7 +686,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0079-001-p1s3a6">
+<children>
+<LM id="T-wsj0079-001-p1s3a6">
 <a>
 <lex.rf>a#a-wsj0079-001-p1s3W10-Ta</lex.rf>
 </a>
@@ -659,7 +708,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0079-001-p1s3a8">
+<children>
+<LM id="T-wsj0079-001-p1s3a8">
 <a>
 <lex.rf>a#a-wsj0079-001-p1s3W6-Ta</lex.rf>
 </a>
@@ -670,6 +720,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0079-001-p1s3a10">
@@ -697,7 +748,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj0079-001-p1s3a12">
+<children>
+<LM id="T-wsj0079-001-p1s3a12">
 <a>
 <lex.rf>a#a-wsj0079-001-p1s3W12-Ta</lex.rf>
 </a>
@@ -733,13 +785,17 @@
 <deepord>12</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
-</children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Eaton is an automotive parts, controls and aerospace electronics concern.</eng_sentence>
 </LM>

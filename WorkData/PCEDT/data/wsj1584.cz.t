@@ -11,7 +11,8 @@
 <LM id="T-wsj1584-001-p1s0">
 <atree.rf>a#a-wsj1584-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1584-001-p1s0a1">
+<children>
+<LM id="T-wsj1584-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1584-001-p1s0W7-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1584-001-p1s0a25">
+<children>
+<LM id="T-wsj1584-001-p1s0a25">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -88,12 +90,15 @@
 <deepord>7</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1584-001-p1s0a10">
 <a>
 <lex.rf>a#a-wsj1584-001-p1s0W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1584-001-p1s0W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1584-001-p1s0W9-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8256f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -128,9 +133,11 @@
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1584-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1584-001-p1s0a26">
@@ -168,7 +175,9 @@
 <LM id="T-wsj1584-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj1584-001-p1s0W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1584-001-p1s0W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1584-001-p1s0W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>ložisko</t_lemma>
@@ -182,7 +191,9 @@
 <a>
 <lex.rf>a#a-wsj1584-001-p1s0W16-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1584-001-p1s0a11</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1584-001-p1s0a11</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -218,7 +229,9 @@
 <LM id="T-wsj1584-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj1584-001-p1s0W22-Ta</lex.rf>
-<aux.rf>a#a-wsj1584-001-p1s0W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1584-001-p1s0W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>moře</t_lemma>
@@ -227,7 +240,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj1584-001-p1s0a22">
+<children>
+<LM id="T-wsj1584-001-p1s0a22">
 <a>
 <lex.rf>a#a-wsj1584-001-p1s0W21-Ta</lex.rf>
 </a>
@@ -238,10 +252,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 </children>
@@ -257,7 +268,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj1584-001-p1s0a24">
+<children>
+<LM id="T-wsj1584-001-p1s0a24">
 <a>
 <lex.rf>a#a-wsj1584-001-p1s0W23-Ta</lex.rf>
 </a>
@@ -268,18 +280,21 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>21</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The British Petroleum Co. PLC said its BP Exploration unit has produced the first oil from its Don oilfield in the North Sea.</eng_sentence>
 </LM>
 <LM id="T-wsj1584-001-p1s1">
 <atree.rf>a#a-wsj1584-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1584-001-p1s1a1">
+<children>
+<LM id="T-wsj1584-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1584-001-p1s1W6-Ta</lex.rf>
 </a>
@@ -295,7 +310,9 @@
 <LM id="T-wsj1584-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj1584-001-p1s1W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1584-001-p1s1W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1584-001-p1s1W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zpráva</t_lemma>
@@ -304,7 +321,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1584-001-p1s1a4">
+<children>
+<LM id="T-wsj1584-001-p1s1a4">
 <a>
 <lex.rf>a#a-wsj1584-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -315,6 +333,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1584-001-p1s1a5">
@@ -328,7 +347,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1584-001-p1s1a6">
+<children>
+<LM id="T-wsj1584-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj1584-001-p1s1W5-Ta</lex.rf>
 </a>
@@ -339,15 +359,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>není zkratka</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1584-001-p1s0a17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1584-001-p1s1a7">
@@ -362,7 +381,9 @@
 <LM id="T-wsj1584-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj1584-001-p1s1W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1584-001-p1s1W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1584-001-p1s1W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w714f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -401,7 +422,9 @@
 <LM id="T-wsj1584-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj1584-001-p1s1W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1584-001-p1s1W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1584-001-p1s1W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>ložisko</t_lemma>
@@ -411,16 +434,20 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1584-001-p1s0a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1584-001-p1s0a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1584-001-p1s1a16">
@@ -466,7 +493,9 @@
 <LM id="T-wsj1584-001-p1s1a19">
 <a>
 <lex.rf>a#a-wsj1584-001-p1s1W25-Ta</lex.rf>
-<aux.rf>a#a-wsj1584-001-p1s1W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1584-001-p1s1W18-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2608f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -488,15 +517,19 @@
 </gram>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1584-001-p1s1a5</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1584-001-p1s1a21">
 <a>
 <lex.rf>a#a-wsj1584-001-p1s1W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1584-001-p1s1W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1584-001-p1s1W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -505,7 +538,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1584-001-p1s1a22">
+<children>
+<LM id="T-wsj1584-001-p1s1a22">
 <a>
 <lex.rf>a#a-wsj1584-001-p1s1W21-Ta</lex.rf>
 </a>
@@ -516,12 +550,15 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1584-001-p1s1a24">
 <a>
 <lex.rf>a#a-wsj1584-001-p1s1W24-Ta</lex.rf>
-<aux.rf>a#a-wsj1584-001-p1s1W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1584-001-p1s1W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>ložisko</t_lemma>
@@ -530,7 +567,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1584-001-p1s1a25">
+<children>
+<LM id="T-wsj1584-001-p1s1a25">
 <a>
 <lex.rf>a#a-wsj1584-001-p1s1W23-Ta</lex.rf>
 </a>
@@ -541,11 +579,14 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>17</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1584-001-p1s1a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1584-001-p1s1a26">
@@ -571,9 +612,11 @@
 </gram>
 <deepord>20</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1584-001-p1s1a32</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1584-001-p1s1a27">
@@ -642,8 +685,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -651,6 +696,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>In an official release, BP said initial production from the field was 11,000 barrels a day, and that it expects peak output from the field of 15,000 barrels a day to be reached in 1990.</eng_sentence>
 </LM>

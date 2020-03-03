@@ -11,7 +11,8 @@
 <LM id="T-wsj1958-001-p1s0">
 <atree.rf>a#a-wsj1958-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1958-001-p1s0a1">
+<children>
+<LM id="T-wsj1958-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1958-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1958-001-p1s0a26">
+<children>
+<LM id="T-wsj1958-001-p1s0a26">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -85,12 +87,15 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1958-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj1958-001-p1s0W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1958-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1958-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w732f29_ZU</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -111,9 +116,11 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1958-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1958-001-p1s0a10">
@@ -150,7 +157,9 @@
 <deepord>13</deepord>
 <children>
 <LM id="T-wsj1958-001-p1s0a25">
-<coref_gram.rf>T-wsj1958-001-p1s0a24</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1958-001-p1s0a24</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -160,7 +169,9 @@
 <LM id="T-wsj1958-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj1958-001-p1s0W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1958-001-p1s0W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1958-001-p1s0W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>projekt</t_lemma>
@@ -197,7 +208,9 @@
 <LM id="T-wsj1958-001-p1s0a17">
 <a>
 <lex.rf>a#a-wsj1958-001-p1s0W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1958-001-p1s0W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1958-001-p1s0W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodnota</t_lemma>
@@ -275,26 +288,32 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>A PAT(na+6)</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Zurn Industries Inc. said it received approval to proceed on four separate projects with a total contract value of $59 million.</eng_sentence>
 </LM>
 <LM id="T-wsj1958-001-p1s1">
 <atree.rf>a#a-wsj1958-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1958-001-p1s1a1">
+<children>
+<LM id="T-wsj1958-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1958-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -310,7 +329,9 @@
 <LM id="T-wsj1958-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj1958-001-p1s1W2-Ta</lex.rf>
-<aux.rf>a#a-wsj1958-001-p1s1W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1958-001-p1s1W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>projekt</t_lemma>
@@ -320,9 +341,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1958-001-p1s0a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1958-001-p1s1a13">
@@ -358,7 +381,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1958-001-p1s1a6">
+<children>
+<LM id="T-wsj1958-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj1958-001-p1s1W6-Ta</lex.rf>
 </a>
@@ -369,12 +393,15 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1958-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj1958-001-p1s1W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1958-001-p1s1W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1958-001-p1s1W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výkon</t_lemma>
@@ -383,7 +410,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1958-001-p1s1a10">
+<children>
+<LM id="T-wsj1958-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj1958-001-p1s1W10-Ta</lex.rf>
 </a>
@@ -394,7 +422,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1958-001-p1s1a9">
+<children>
+<LM id="T-wsj1958-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj1958-001-p1s1W9-Ta</lex.rf>
 </a>
@@ -405,13 +434,17 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1958-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj1958-001-p1s1W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1958-001-p1s1W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1958-001-p1s1W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -420,7 +453,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1958-001-p1s1a53">
+<children>
+<LM id="T-wsj1958-001-p1s1a53">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -491,12 +525,15 @@
 <deepord>16</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1958-001-p1s1a22">
 <a>
 <lex.rf>a#a-wsj1958-001-p1s1W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1958-001-p1s1W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1958-001-p1s1W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>město</t_lemma>
@@ -521,7 +558,9 @@
 <LM id="T-wsj1958-001-p1s1a25">
 <a>
 <lex.rf>a#a-wsj1958-001-p1s1W23-Ta</lex.rf>
-<aux.rf>a#a-wsj1958-001-p1s1W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1958-001-p1s1W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Michigan</t_lemma>
@@ -563,7 +602,9 @@
 <LM id="T-wsj1958-001-p1s1a33">
 <a>
 <lex.rf>a#a-wsj1958-001-p1s1W28-Ta</lex.rf>
-<aux.rf>a#a-wsj1958-001-p1s1W27-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1958-001-p1s1W27-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Ontario</t_lemma>
@@ -572,10 +613,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj1958-001-p1s1a35">
+<children>
+<LM id="T-wsj1958-001-p1s1a35">
 <a>
 <lex.rf>a#a-wsj1958-001-p1s1W30-Ta</lex.rf>
-<aux.rf>a#a-wsj1958-001-p1s1W29-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1958-001-p1s1W29-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Kalifornie</t_lemma>
@@ -584,6 +628,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1958-001-p1s1a27">
@@ -599,7 +644,9 @@
 <a>
 <lex.rf>a#a-wsj1958-001-p1s1W32-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1958-001-p1s1a30</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1958-001-p1s1a30</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -619,7 +666,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj1958-001-p1s1a38">
+<children>
+<LM id="T-wsj1958-001-p1s1a38">
 <a>
 <lex.rf>a#a-wsj1958-001-p1s1W35-Ta</lex.rf>
 </a>
@@ -630,21 +678,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>26</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>proprium</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1958-001-p1s0a25</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1958-001-p1s1a29">
 <a>
 <lex.rf>a#a-wsj1958-001-p1s1W36-Ta</lex.rf>
-<aux.rf>a#a-wsj1958-001-p1s1W33-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1958-001-p1s1W33-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7650f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -659,7 +708,9 @@
 <LM id="T-wsj1958-001-p1s1a51">
 <a>
 <lex.rf>a#a-wsj1958-001-p1s1W38-Ta</lex.rf>
-<aux.rf>a#a-wsj1958-001-p1s1W33-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1958-001-p1s1W33-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4628f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -703,7 +754,9 @@
 <LM id="T-wsj1958-001-p1s1a42">
 <a>
 <lex.rf>a#a-wsj1958-001-p1s1W44-Ta</lex.rf>
-<aux.rf>a#a-wsj1958-001-p1s1W43-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1958-001-p1s1W43-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5886f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -732,7 +785,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>36</deepord>
-<children id="T-wsj1958-001-p1s1a44">
+<children>
+<LM id="T-wsj1958-001-p1s1a44">
 <a>
 <lex.rf>a#a-wsj1958-001-p1s1W45-Ta</lex.rf>
 </a>
@@ -743,12 +797,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>35</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1958-001-p1s1a46">
 <a>
 <lex.rf>a#a-wsj1958-001-p1s1W48-Ta</lex.rf>
-<aux.rf>a#a-wsj1958-001-p1s1W47-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1958-001-p1s1W47-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>okres</t_lemma>
@@ -791,7 +848,9 @@
 <LM id="T-wsj1958-001-p1s1a50">
 <a>
 <lex.rf>a#a-wsj1958-001-p1s1W52-Ta</lex.rf>
-<aux.rf>a#a-wsj1958-001-p1s1W51-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1958-001-p1s1W51-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Kalifornie</t_lemma>
@@ -801,17 +860,21 @@
 </gram>
 <deepord>41</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1958-001-p1s1a35</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -819,6 +882,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The projects include construction of a 29,400 kilowatt waste-to-energy plant for Ada Cogeneration L.P., Ada, Mich.; a steam generating plant at Ontario, Calif., that Zurn will own and operate, and two waste-water control projects in Orange County, Calif.</eng_sentence>
 </LM>

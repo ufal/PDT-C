@@ -11,10 +11,13 @@
 <LM id="T-wsj1720-001-p1s0">
 <atree.rf>a#a-wsj1720-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1720-001-p1s0a1">
+<children>
+<LM id="T-wsj1720-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s0W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1720-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1720-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8759f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -80,7 +83,9 @@
 <LM id="T-wsj1720-001-p1s0a7">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s0W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1720-001-p1s0W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1720-001-p1s0W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Kansas</t_lemma>
@@ -94,7 +99,9 @@
 <LM id="T-wsj1720-001-p1s0a8">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s0W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1720-001-p1s0W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1720-001-p1s0W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Texas</t_lemma>
@@ -112,7 +119,9 @@
 <LM id="T-wsj1720-001-p1s0a25">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s0W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1720-001-p1s0W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1720-001-p1s0W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>program</t_lemma>
@@ -219,7 +228,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1720-001-p1s0a15">
+<children>
+<LM id="T-wsj1720-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s0W20-Ta</lex.rf>
 </a>
@@ -230,6 +240,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1720-001-p1s0a16">
@@ -243,7 +254,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj1720-001-p1s0a17">
+<children>
+<LM id="T-wsj1720-001-p1s0a17">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s0W23-Ta</lex.rf>
 </a>
@@ -254,17 +266,22 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>19</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1720-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1720-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s0W26-Ta</lex.rf>
-<aux.rf>a#a-wsj1720-001-p1s0W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1720-001-p1s0W25-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>insolventní</t_lemma>
@@ -304,9 +321,11 @@
 </gram>
 <deepord>23</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1720-001-p1s0a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1720-001-p1s0a36">
@@ -315,7 +334,8 @@
 <t_lemma>#Idph</t_lemma>
 <functor>PAT</functor>
 <deepord>25</deepord>
-<children id="T-wsj1720-001-p1s0a21">
+<children>
+<LM id="T-wsj1720-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s0W29-Ta</lex.rf>
 </a>
@@ -326,15 +346,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>26</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>zkratkové slovo</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1720-001-p1s0a35</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1720-001-p1s0a22">
@@ -348,7 +367,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>28</deepord>
-<children id="T-wsj1720-001-p1s0a23">
+<children>
+<LM id="T-wsj1720-001-p1s0a23">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s0W30-Ta</lex.rf>
 </a>
@@ -360,27 +380,34 @@
 </gram>
 <deepord>27</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1720-001-p1s0a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Three savings-and-loan institutions in Kansas and Texas were added to the Resolution Trust Corp.'s conservatorship program after federal regulators declared the thrifts insolvent and named the RTC their receiver.</eng_sentence>
 </LM>
 <LM id="T-wsj1720-001-p1s1">
 <atree.rf>a#a-wsj1720-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1720-001-p1s1a1">
+<children>
+<LM id="T-wsj1720-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s1W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1720-001-p1s1W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1720-001-p1s1W10-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5039f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -445,7 +472,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1720-001-p1s1a7">
+<children>
+<LM id="T-wsj1720-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s1W5-Ta</lex.rf>
 </a>
@@ -456,6 +484,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1720-001-p1s1a8">
@@ -496,9 +525,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1720-001-p1s0a23</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -513,7 +544,9 @@
 <LM id="T-wsj1720-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s1W17-Ta</lex.rf>
-<aux.rf>a#a-wsj1720-001-p1s1W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1720-001-p1s1W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>instituce</t_lemma>
@@ -534,7 +567,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1720-001-p1s1a15">
+<children>
+<LM id="T-wsj1720-001-p1s1a15">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s1W13-Ta</lex.rf>
 </a>
@@ -545,6 +579,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1720-001-p1s1a16">
@@ -574,13 +609,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The deposits, assets and certain liabilities of the three thrifts were transferred to newly chartered federal mutual institutions.</eng_sentence>
 </LM>
 <LM id="T-wsj1720-001-p1s2">
 <atree.rf>a#a-wsj1720-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1720-001-p1s2a1">
+<children>
+<LM id="T-wsj1720-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s2W4-Ta</lex.rf>
 </a>
@@ -631,9 +668,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1720-001-p1s1a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1720-001-p1s2a52">
@@ -728,7 +767,9 @@
 <LM id="T-wsj1720-001-p1s2a6">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s2W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1720-001-p1s2W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1720-001-p1s2W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Wichita</t_lemma>
@@ -755,7 +796,9 @@
 <a>
 <lex.rf>a#a-wsj1720-001-p1s2W16-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1720-001-p1s2a57</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1720-001-p1s2a57</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -915,7 +958,9 @@
 <LM id="T-wsj1720-001-p1s2a25">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s2W33-Ta</lex.rf>
-<aux.rf>a#a-wsj1720-001-p1s2W32-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1720-001-p1s2W32-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>město</t_lemma>
@@ -924,7 +969,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>29</deepord>
-<children id="T-wsj1720-001-p1s2a26">
+<children>
+<LM id="T-wsj1720-001-p1s2a26">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s2W34-Ta</lex.rf>
 </a>
@@ -935,10 +981,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>30</deepord>
-<children id="T-wsj1720-001-p1s2a36">
+<children>
+<LM id="T-wsj1720-001-p1s2a36">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s2W36-Ta</lex.rf>
-<aux.rf>a#a-wsj1720-001-p1s2W35-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1720-001-p1s2W35-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Texas</t_lemma>
@@ -948,17 +997,23 @@
 </gram>
 <deepord>32</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1720-001-p1s0a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1720-001-p1s2a38">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s2W39-Ta</lex.rf>
-<aux.rf>a#a-wsj1720-001-p1s2W37-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1720-001-p1s2W37-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodnota</t_lemma>
@@ -1065,7 +1120,9 @@
 </LM>
 <LM id="T-wsj1720-001-p1s2a62">
 <a>
-<aux.rf>a#a-wsj1720-001-p1s2W47-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1720-001-p1s2W47-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -1102,7 +1159,9 @@
 <LM id="T-wsj1720-001-p1s2a47">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s2W52-Ta</lex.rf>
-<aux.rf>a#a-wsj1720-001-p1s2W50-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1720-001-p1s2W50-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodnota</t_lemma>
@@ -1169,16 +1228,20 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The three institutions are: Mid Kansas Federal Savings &amp; Loan Association, Wichita, which had $830.5 million in assets; Valley Federal Savings &amp; Loan Association of McAllen, McAllen, Texas, with $582.6 million in assets; and Surety Savings Association, El Paso, with $309.3 million in assets.</eng_sentence>
 </LM>
 <LM id="T-wsj1720-001-p1s3">
 <atree.rf>a#a-wsj1720-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1720-001-p1s3a17">
+<children>
+<LM id="T-wsj1720-001-p1s3a17">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s3W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1720-001-p1s3W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1720-001-p1s3W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>coap</nodetype>
 <t_lemma>a_a</t_lemma>
@@ -1237,9 +1300,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1720-001-p1s2a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1720-001-p1s3a6">
@@ -1285,7 +1350,9 @@
 <LM id="T-wsj1720-001-p1s3a9">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s3W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1720-001-p1s3W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1720-001-p1s3W9-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4601f6</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1307,9 +1374,11 @@
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1720-001-p1s3a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1720-001-p1s3a11">
@@ -1323,7 +1392,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1720-001-p1s3a12">
+<children>
+<LM id="T-wsj1720-001-p1s3a12">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s3W11-Ta</lex.rf>
 </a>
@@ -1334,12 +1404,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1720-001-p1s3a14">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s3W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1720-001-p1s3W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1720-001-p1s3W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dohled</t_lemma>
@@ -1348,7 +1421,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1720-001-p1s3a15">
+<children>
+<LM id="T-wsj1720-001-p1s3a15">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s3W16-Ta</lex.rf>
 </a>
@@ -1383,13 +1457,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1720-001-p1s3a33">
+<children>
+<LM id="T-wsj1720-001-p1s3a33">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Idph</t_lemma>
 <functor>ACT</functor>
 <deepord>16</deepord>
-<children id="T-wsj1720-001-p1s3a18">
+<children>
+<LM id="T-wsj1720-001-p1s3a18">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s3W18-Ta</lex.rf>
 </a>
@@ -1400,19 +1476,20 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velká písmena</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1720-001-p1s0a36</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -1420,7 +1497,9 @@
 <LM id="T-wsj1720-001-p1s3a21">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s3W23-Ta</lex.rf>
-<aux.rf>a#a-wsj1720-001-p1s3W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1720-001-p1s3W21-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3781f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1438,7 +1517,8 @@
 <t_lemma>#Idph</t_lemma>
 <functor>ACT</functor>
 <deepord>20</deepord>
-<children id="T-wsj1720-001-p1s3a20">
+<children>
+<LM id="T-wsj1720-001-p1s3a20">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s3W20-Ta</lex.rf>
 </a>
@@ -1449,15 +1529,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velká písmena</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1720-001-p1s3a33</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1720-001-p1s3a23">
@@ -1493,7 +1572,9 @@
 <deepord>23</deepord>
 </LM>
 <LM id="T-wsj1720-001-p1s3a28">
-<coref_gram.rf>T-wsj1720-001-p1s3a34</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1720-001-p1s3a34</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -1544,8 +1625,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -1553,13 +1636,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The three insolvent thrifts will maintain normal business hours and operations under RTC-appointed managing agents, while the RTC tries to negotiate permanent resolutions.</eng_sentence>
 </LM>
 <LM id="T-wsj1720-001-p1s4">
 <atree.rf>a#a-wsj1720-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1720-001-p1s4a3">
+<children>
+<LM id="T-wsj1720-001-p1s4a3">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s4W8-Ta</lex.rf>
 </a>
@@ -1658,7 +1743,9 @@
 <LM id="T-wsj1720-001-p1s4a12">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s4W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1720-001-p1s4W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1720-001-p1s4W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Phoenix</t_lemma>
@@ -1667,10 +1754,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1720-001-p1s4a14">
+<children>
+<LM id="T-wsj1720-001-p1s4a14">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s4W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1720-001-p1s4W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1720-001-p1s4W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>stát</t_lemma>
@@ -1679,7 +1769,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1720-001-p1s4a15">
+<children>
+<LM id="T-wsj1720-001-p1s4a15">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s4W15-Ta</lex.rf>
 </a>
@@ -1690,19 +1781,23 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Separately, Century Bank, Phoenix, Ariz., was closed by Arizona banking officials.</eng_sentence>
 </LM>
 <LM id="T-wsj1720-001-p1s5">
 <atree.rf>a#a-wsj1720-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1720-001-p1s5a9">
+<children>
+<LM id="T-wsj1720-001-p1s5a9">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s5W8-Ta</lex.rf>
 </a>
@@ -1726,7 +1821,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1720-001-p1s5a32">
+<children>
+<LM id="T-wsj1720-001-p1s5a32">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1791,6 +1887,7 @@
 <deepord>8</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1720-001-p1s5a10">
@@ -1852,7 +1949,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj1720-001-p1s5a14">
+<children>
+<LM id="T-wsj1720-001-p1s5a14">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s5W12-Ta</lex.rf>
 </a>
@@ -1863,6 +1961,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1720-001-p1s5a33">
@@ -1895,9 +1994,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1720-001-p1s4a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -1927,7 +2028,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj1720-001-p1s5a19">
+<children>
+<LM id="T-wsj1720-001-p1s5a19">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s5W17-Ta</lex.rf>
 </a>
@@ -1938,6 +2040,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>19</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1720-001-p1s5a20">
@@ -1963,7 +2066,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj1720-001-p1s5a34">
+<children>
+<LM id="T-wsj1720-001-p1s5a34">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1972,7 +2076,9 @@
 <children>
 <LM id="T-wsj1720-001-p1s5a35">
 <a>
-<aux.rf>a#a-wsj1720-001-p1s5W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1720-001-p1s5W26-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -2046,24 +2152,29 @@
 <deepord>29</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The Federal Deposit Insurance Corp. approved the assumption of Century's deposits and fully secured liabilities by a newly chartered subsidiary of Valley Capital Corp., Las Vegas.</eng_sentence>
 </LM>
 <LM id="T-wsj1720-001-p1s6">
 <atree.rf>a#a-wsj1720-001-p1s6</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1720-001-p1s6a1">
+<children>
+<LM id="T-wsj1720-001-p1s6a1">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s6W8-Ta</lex.rf>
 </a>
@@ -2075,7 +2186,9 @@
 <LM id="T-wsj1720-001-p1s6a2">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s6W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1720-001-p1s6W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1720-001-p1s6W3-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1345f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -2098,7 +2211,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1720-001-p1s6a4">
+<children>
+<LM id="T-wsj1720-001-p1s6a4">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s6W1-Ta</lex.rf>
 </a>
@@ -2109,11 +2223,14 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1720-001-p1s5a17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1720-001-p1s6a6">
@@ -2157,7 +2274,9 @@
 <LM id="T-wsj1720-001-p1s6a13">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s6W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1720-001-p1s6W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1720-001-p1s6W13-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3265f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -2204,7 +2323,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1720-001-p1s6a12">
+<children>
+<LM id="T-wsj1720-001-p1s6a12">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s6W11-Ta</lex.rf>
 </a>
@@ -2215,11 +2335,14 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1720-001-p1s5a33</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -2234,9 +2357,11 @@
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1720-001-p1s6a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1720-001-p1s6a15">
@@ -2266,13 +2391,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The new institution is also called Century Bank, and the failed bank's five offices will reopen today.</eng_sentence>
 </LM>
 <LM id="T-wsj1720-001-p1s7">
 <atree.rf>a#a-wsj1720-001-p1s7</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1720-001-p1s7a1">
+<children>
+<LM id="T-wsj1720-001-p1s7a1">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s7W3-Ta</lex.rf>
 </a>
@@ -2296,7 +2423,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1720-001-p1s7a3">
+<children>
+<LM id="T-wsj1720-001-p1s7a3">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s7W1-Ta</lex.rf>
 </a>
@@ -2307,11 +2435,14 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1720-001-p1s6a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1720-001-p1s7a4">
@@ -2325,10 +2456,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1720-001-p1s7a6">
+<children>
+<LM id="T-wsj1720-001-p1s7a6">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s7W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1720-001-p1s7W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1720-001-p1s7W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výše</t_lemma>
@@ -2337,7 +2471,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1720-001-p1s7a7">
+<children>
+<LM id="T-wsj1720-001-p1s7a7">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s7W9-Ta</lex.rf>
 </a>
@@ -2360,7 +2495,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1720-001-p1s7a10">
+<children>
+<LM id="T-wsj1720-001-p1s7a10">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s7W7-Ta</lex.rf>
 </a>
@@ -2371,6 +2507,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1720-001-p1s7a9">
@@ -2386,17 +2523,21 @@
 <deepord>9</deepord>
 </LM>
 </children>
-</children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The failed bank had assets of about $129.6 million.</eng_sentence>
 </LM>
 <LM id="T-wsj1720-001-p1s8">
 <atree.rf>a#a-wsj1720-001-p1s8</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1720-001-p1s8a1">
+<children>
+<LM id="T-wsj1720-001-p1s8a1">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s8W13-Ta</lex.rf>
 </a>
@@ -2416,7 +2557,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1720-001-p1s8a3">
+<children>
+<LM id="T-wsj1720-001-p1s8a3">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s8W2-Ta</lex.rf>
 </a>
@@ -2427,7 +2569,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1720-001-p1s8a4">
+<children>
+<LM id="T-wsj1720-001-p1s8a4">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s8W1-Ta</lex.rf>
 </a>
@@ -2438,12 +2581,16 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1720-001-p1s6a18</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1720-001-p1s8a5">
@@ -2459,7 +2606,8 @@
 <sempos>v</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1720-001-p1s8a8">
+<children>
+<LM id="T-wsj1720-001-p1s8a8">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s8W7-Ta</lex.rf>
 </a>
@@ -2482,7 +2630,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1720-001-p1s8a6">
+<children>
+<LM id="T-wsj1720-001-p1s8a6">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s8W5-Ta</lex.rf>
 </a>
@@ -2493,6 +2642,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1720-001-p1s8a9">
@@ -2510,7 +2660,9 @@
 <LM id="T-wsj1720-001-p1s8a11">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s8W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1720-001-p1s8W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1720-001-p1s8W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>účet</t_lemma>
@@ -2547,6 +2699,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1720-001-p1s8a14">
@@ -2569,7 +2722,8 @@
 <t_lemma>#Idph</t_lemma>
 <functor>ADDR</functor>
 <deepord>14</deepord>
-<children id="T-wsj1720-001-p1s8a15">
+<children>
+<LM id="T-wsj1720-001-p1s8a15">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s8W15-Ta</lex.rf>
 </a>
@@ -2580,11 +2734,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1720-001-p1s5a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1720-001-p1s8a16">
@@ -2614,7 +2771,9 @@
 <LM id="T-wsj1720-001-p1s8a19">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s8W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1720-001-p1s8W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1720-001-p1s8W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výše</t_lemma>
@@ -2623,7 +2782,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1720-001-p1s8a21">
+<children>
+<LM id="T-wsj1720-001-p1s8a21">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s8W21-Ta</lex.rf>
 </a>
@@ -2660,20 +2820,23 @@
 <deepord>21</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The newly chartered bank will assume about $125.7 million in 10,300 deposit accounts and pay the FDIC a purchase premium of $2.9 million.</eng_sentence>
 </LM>
 <LM id="T-wsj1720-001-p1s9">
 <atree.rf>a#a-wsj1720-001-p1s9</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1720-001-p1s9a7">
+<children>
+<LM id="T-wsj1720-001-p1s9a7">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s9W8-Ta</lex.rf>
 </a>
@@ -2706,9 +2869,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1720-001-p1s8a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1720-001-p1s9a2">
@@ -2743,7 +2908,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1720-001-p1s9a4">
+<children>
+<LM id="T-wsj1720-001-p1s9a4">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s9W3-Ta</lex.rf>
 </a>
@@ -2754,6 +2920,7 @@
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1720-001-p1s9a6">
@@ -2767,7 +2934,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1720-001-p1s9a8">
+<children>
+<LM id="T-wsj1720-001-p1s9a8">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s9W7-Ta</lex.rf>
 </a>
@@ -2778,6 +2946,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -2804,7 +2973,8 @@
 <t_lemma>#Idph</t_lemma>
 <functor>ACT</functor>
 <deepord>11</deepord>
-<children id="T-wsj1720-001-p1s9a9">
+<children>
+<LM id="T-wsj1720-001-p1s9a9">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s9W9-Ta</lex.rf>
 </a>
@@ -2815,11 +2985,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1720-001-p1s8a23</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1720-001-p1s9a10">
@@ -2833,7 +3006,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1720-001-p1s9a11">
+<children>
+<LM id="T-wsj1720-001-p1s9a11">
 <a>
 <lex.rf>a#a-wsj1720-001-p1s9W10-Ta</lex.rf>
 </a>
@@ -2844,15 +3018,20 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1720-001-p1s9a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <str_comment>
+<LM>
 <name>AMBIG</name>
 <comment>asi</comment>
+</LM>
 </str_comment>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1720-001-p1s9a14">
@@ -2896,6 +3075,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>It also will buy about $91.7 million of assets, and the FDIC will advance $31.8 million to the assuming bank.</eng_sentence>
 </LM>

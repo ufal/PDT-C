@@ -11,7 +11,8 @@
 <LM id="T-wsj0249-001-p1s0">
 <atree.rf>a#a-wsj0249-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0249-001-p1s0a1">
+<children>
+<LM id="T-wsj0249-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0249-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0249-001-p1s0a43">
+<children>
+<LM id="T-wsj0249-001-p1s0a43">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -82,12 +84,15 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0249-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj0249-001-p1s0W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0249-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0249-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9501f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -108,9 +113,11 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0249-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0249-001-p1s0a10">
@@ -128,7 +135,9 @@
 <LM id="T-wsj0249-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj0249-001-p1s0W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0249-001-p1s0W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0249-001-p1s0W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -137,7 +146,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj0249-001-p1s0a13">
+<children>
+<LM id="T-wsj0249-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj0249-001-p1s0W12-Ta</lex.rf>
 </a>
@@ -148,12 +158,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0249-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj0249-001-p1s0W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0249-001-p1s0W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0249-001-p1s0W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodně</t_lemma>
@@ -162,10 +175,13 @@
 <sempos>adj.quant.grad</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj0249-001-p1s0a18">
+<children>
+<LM id="T-wsj0249-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj0249-001-p1s0W18-Ta</lex.rf>
-<aux.rf>a#a-wsj0249-001-p1s0W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0249-001-p1s0W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milion</t_lemma>
@@ -200,16 +216,15 @@
 <deepord>16</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0249-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj0249-001-p1s0W21-Ta</lex.rf>
-<aux.rf>a#a-wsj0249-001-p1s0W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0249-001-p1s0W20-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3976f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -237,9 +252,11 @@
 </gram>
 <deepord>18</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0249-001-p1s0a40</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0249-001-p1s0a22">
@@ -253,10 +270,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj0249-001-p1s0a23">
+<children>
+<LM id="T-wsj0249-001-p1s0a23">
 <a>
 <lex.rf>a#a-wsj0249-001-p1s0W23-Ta</lex.rf>
-<aux.rf>a#a-wsj0249-001-p1s0W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0249-001-p1s0W24-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>týkající_se</t_lemma>
@@ -265,7 +285,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj0249-001-p1s0a25">
+<children>
+<LM id="T-wsj0249-001-p1s0a25">
 <a>
 <lex.rf>a#a-wsj0249-001-p1s0W29-Ta</lex.rf>
 </a>
@@ -286,9 +307,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 <LM id="T-wsj0249-001-p1s0a28">
 <a>
@@ -302,7 +320,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj0249-001-p1s0a29">
+<children>
+<LM id="T-wsj0249-001-p1s0a29">
 <a>
 <lex.rf>a#a-wsj0249-001-p1s0W27-Ta</lex.rf>
 </a>
@@ -313,10 +332,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>23</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 <LM id="T-wsj0249-001-p1s0a30">
 <a>
@@ -358,7 +375,9 @@
 <LM id="T-wsj0249-001-p1s0a34">
 <a>
 <lex.rf>a#a-wsj0249-001-p1s0W34-Ta</lex.rf>
-<aux.rf>a#a-wsj0249-001-p1s0W33-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0249-001-p1s0W33-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -367,7 +386,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>29</deepord>
-<children id="T-wsj0249-001-p1s0a44">
+<children>
+<LM id="T-wsj0249-001-p1s0a44">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -423,18 +443,23 @@
 <deepord>34</deepord>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
-</children>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -442,6 +467,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>MCI Communications Corp. said it received a three-year contract valued at more than $15 million to provide network, credit-card and other telecommunications services to Drexel Burnham Lambert Inc.</eng_sentence>
 </LM>

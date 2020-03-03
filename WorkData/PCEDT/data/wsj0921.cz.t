@@ -11,7 +11,8 @@
 <LM id="T-wsj0921-001-p1s0">
 <atree.rf>a#a-wsj0921-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0921-001-p1s0a1">
+<children>
+<LM id="T-wsj0921-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0921-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -95,7 +96,9 @@
 <LM id="T-wsj0921-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj0921-001-p1s0W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0921-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0921-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w714f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -116,9 +119,11 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0921-001-p1s0a5</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0921-001-p1s0a10">
@@ -132,10 +137,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0921-001-p1s0a12">
+<children>
+<LM id="T-wsj0921-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj0921-001-p1s0W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0921-001-p1s0W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0921-001-p1s0W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>koupě</t_lemma>
@@ -268,7 +276,9 @@
 <LM id="T-wsj0921-001-p1s0a24">
 <a>
 <lex.rf>a#a-wsj0921-001-p1s0W24-Ta</lex.rf>
-<aux.rf>a#a-wsj0921-001-p1s0W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0921-001-p1s0W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milion</t_lemma>
@@ -302,7 +312,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj0921-001-p1s0a26">
+<children>
+<LM id="T-wsj0921-001-p1s0a26">
 <a>
 <lex.rf>a#a-wsj0921-001-p1s0W25-Ta</lex.rf>
 </a>
@@ -313,18 +324,17 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>24</deepord>
+</LM>
 </children>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0921-001-p1s0a29">
 <a>
 <lex.rf>a#a-wsj0921-001-p1s0W29-Ta</lex.rf>
-<aux.rf>a#a-wsj0921-001-p1s0W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0921-001-p1s0W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milion</t_lemma>
@@ -363,26 +373,25 @@
 <deepord>29</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
 </LM>
 </children>
 </LM>
-</children>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Finnish conglomerate Nokia Oy AB said it reached an agreement to buy Dutch cable company NKF Kabel B.V. for 420 million Finnish markka ($99.5 million).</eng_sentence>
 </LM>
 <LM id="T-wsj0921-001-p1s1">
 <atree.rf>a#a-wsj0921-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0921-001-p1s1a1">
+<children>
+<LM id="T-wsj0921-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0921-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -406,7 +415,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0921-001-p1s1a2">
+<children>
+<LM id="T-wsj0921-001-p1s1a2">
 <a>
 <lex.rf>a#a-wsj0921-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -417,17 +427,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0921-001-p1s0a32</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0921-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj0921-001-p1s1W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0921-001-p1s1W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0921-001-p1s1W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9501f14_ZU</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -448,9 +463,11 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0921-001-p1s1a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0921-001-p1s1a11">
@@ -464,10 +481,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0921-001-p1s1a8">
+<children>
+<LM id="T-wsj0921-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj0921-001-p1s1W7-Ta</lex.rf>
-<aux.rf>a#a-wsj0921-001-p1s1W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0921-001-p1s1W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -476,7 +496,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0921-001-p1s1a38">
+<children>
+<LM id="T-wsj0921-001-p1s1a38">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -508,12 +529,16 @@
 <deepord>8</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0921-001-p1s0a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0921-001-p1s1a12">
@@ -527,7 +552,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0921-001-p1s1a15">
+<children>
+<LM id="T-wsj0921-001-p1s1a15">
 <a>
 <lex.rf>a#a-wsj0921-001-p1s1W14-Ta</lex.rf>
 </a>
@@ -559,7 +585,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj0921-001-p1s1a16">
+<children>
+<LM id="T-wsj0921-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj0921-001-p1s1W16-Ta</lex.rf>
 </a>
@@ -660,7 +687,9 @@
 <a>
 <lex.rf>a#a-wsj0921-001-p1s1W24-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0921-001-p1s1a16</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0921-001-p1s1a16</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -680,7 +709,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj0921-001-p1s1a37">
+<children>
+<LM id="T-wsj0921-001-p1s1a37">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -712,36 +742,43 @@
 <deepord>28</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0921-001-p1s1a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
-</children>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0921-001-p1s0a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>A CPHR({kontrola}) Získá kontrolu nákupem 51 % akcií.</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Nokia said it will gain control over NKF Kabel by buying 51% of the shares in NKF Holding N.V., which owns NKF Kabel.</eng_sentence>
 </LM>

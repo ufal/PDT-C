@@ -11,7 +11,8 @@
 <LM id="T-wsj1933-001-p1s0">
 <atree.rf>a#a-wsj1933-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1933-001-p1s0a1">
+<children>
+<LM id="T-wsj1933-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1933-001-p1s0W8-Ta</lex.rf>
 </a>
@@ -35,10 +36,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1933-001-p1s0a4">
+<children>
+<LM id="T-wsj1933-001-p1s0a4">
 <a>
 <lex.rf>a#a-wsj1933-001-p1s0W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1933-001-p1s0W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1933-001-p1s0W2-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>regulace</t_lemma>
@@ -47,7 +51,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1933-001-p1s0a5">
+<children>
+<LM id="T-wsj1933-001-p1s0a5">
 <a>
 <lex.rf>a#a-wsj1933-001-p1s0W4-Ta</lex.rf>
 </a>
@@ -58,7 +63,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1933-001-p1s0a6">
+<children>
+<LM id="T-wsj1933-001-p1s0a6">
 <a>
 <lex.rf>a#a-wsj1933-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -69,7 +75,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1933-001-p1s0a7">
+<children>
+<LM id="T-wsj1933-001-p1s0a7">
 <a>
 <lex.rf>a#a-wsj1933-001-p1s0W5-Ta</lex.rf>
 </a>
@@ -80,14 +87,14 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno - název</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1933-001-p1s0a8">
 <a>
@@ -112,7 +119,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1933-001-p1s0a10">
+<children>
+<LM id="T-wsj1933-001-p1s0a10">
 <a>
 <lex.rf>a#a-wsj1933-001-p1s0W9-Ta</lex.rf>
 </a>
@@ -123,6 +131,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 <bridging>
 <LM>
@@ -143,13 +152,15 @@
 </bridging>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The following issues were recently filed with the Securities and Exchange Commission:</eng_sentence>
 </LM>
 <LM id="T-wsj1933-001-p1s1">
 <atree.rf>a#a-wsj1933-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1933-001-p1s1a36">
+<children>
+<LM id="T-wsj1933-001-p1s1a36">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -176,10 +187,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>Care</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1933-001-p1s1a4">
 <a>
@@ -213,10 +220,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>Inc</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1933-001-p1s1a37">
 <a>
@@ -280,7 +283,9 @@
 <LM id="T-wsj1933-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj1933-001-p1s1W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1933-001-p1s1W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1933-001-p1s1W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -289,7 +294,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1933-001-p1s1a13">
+<children>
+<LM id="T-wsj1933-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj1933-001-p1s1W26-Ta</lex.rf>
 </a>
@@ -353,10 +359,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>Markets</text>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -424,10 +426,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>Inc</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1933-001-p1s1a34">
 <a>
@@ -495,26 +493,25 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>30</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>Inc</text>
-</annot_comment>
 </LM>
 </children>
 </LM>
-</children>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Health Care Property Investors Inc., offering of 2,250,000 shares of common stock, via Merrill Lynch Capital Markets, Alex. Brown &amp; Sons Inc. and Dean Witter Reynolds Inc.</eng_sentence>
 </LM>
 <LM id="T-wsj1933-001-p1s2">
 <atree.rf>a#a-wsj1933-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1933-001-p1s2a20">
+<children>
+<LM id="T-wsj1933-001-p1s2a20">
 <a>
 <lex.rf>a#a-wsj1933-001-p1s2W5-Ta</lex.rf>
 </a>
@@ -551,10 +548,6 @@
 <t_lemma>Pacific</t_lemma>
 <functor>FPHR</functor>
 <deepord>2</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>Pacific</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1933-001-p1s2a1">
 <a>
@@ -664,7 +657,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj1933-001-p1s2a12">
+<children>
+<LM id="T-wsj1933-001-p1s2a12">
 <a>
 <lex.rf>a#a-wsj1933-001-p1s2W12-Ta</lex.rf>
 </a>
@@ -675,6 +669,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -682,7 +677,9 @@
 <LM id="T-wsj1933-001-p1s2a14">
 <a>
 <lex.rf>a#a-wsj1933-001-p1s2W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1933-001-p1s2W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1933-001-p1s2W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výše</t_lemma>
@@ -691,7 +688,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1933-001-p1s2a17">
+<children>
+<LM id="T-wsj1933-001-p1s2a17">
 <a>
 <lex.rf>a#a-wsj1933-001-p1s2W18-Ta</lex.rf>
 </a>
@@ -714,7 +712,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1933-001-p1s2a16">
+<children>
+<LM id="T-wsj1933-001-p1s2a16">
 <a>
 <lex.rf>a#a-wsj1933-001-p1s2W16-Ta</lex.rf>
 </a>
@@ -725,6 +724,7 @@
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1933-001-p1s2a18">
@@ -740,22 +740,21 @@
 <deepord>19</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>milion</text>
-</annot_comment>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Union Pacific Corp., shelf offering of up to $500 million debt securities and warrants.</eng_sentence>
 </LM>
 <LM id="T-wsj1933-001-p1s3">
 <atree.rf>a#a-wsj1933-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1933-001-p1s3a1">
+<children>
+<LM id="T-wsj1933-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1933-001-p1s3W5-Ta</lex.rf>
 </a>
@@ -918,7 +917,9 @@
 <LM id="T-wsj1933-001-p1s3a15">
 <a>
 <lex.rf>a#a-wsj1933-001-p1s3W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1933-001-p1s3W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1933-001-p1s3W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výše</t_lemma>
@@ -927,7 +928,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1933-001-p1s3a18">
+<children>
+<LM id="T-wsj1933-001-p1s3a18">
 <a>
 <lex.rf>a#a-wsj1933-001-p1s3W18-Ta</lex.rf>
 </a>
@@ -950,7 +952,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1933-001-p1s3a17">
+<children>
+<LM id="T-wsj1933-001-p1s3a17">
 <a>
 <lex.rf>a#a-wsj1933-001-p1s3W16-Ta</lex.rf>
 </a>
@@ -961,6 +964,7 @@
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1933-001-p1s3a19">
@@ -976,15 +980,13 @@
 <deepord>19</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>milion</text>
-</annot_comment>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>United Technologies Corp., shelf offering of up to $500 million unsubordinated non-convertible unsecured debt securities.</eng_sentence>
 </LM>

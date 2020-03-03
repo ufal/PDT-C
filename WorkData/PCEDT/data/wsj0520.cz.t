@@ -1552,12 +1552,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>38</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0520-001-p1s2a35">
 <a>
@@ -2989,12 +2983,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0520-001-p1s6a15">
 <a>

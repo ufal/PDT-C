@@ -761,20 +761,8 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Newhous změněno na Newhouse</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2074,12 +2062,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>adjektivum</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2611,12 +2593,6 @@
 <deepord>3</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>povést se změněno na vést si</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0111-001-p1s10a8">
 <a>
@@ -3368,12 +3344,6 @@
 <sempos>adv.denot.ngrad.neg</sempos>
 </gram>
 <deepord>11</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>nepříliš změněno na příliš</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5004,12 +4974,6 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>lépe #Comma, chybí čárka</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0111-001-p1s19a45">
 <a>
@@ -5144,11 +5108,6 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

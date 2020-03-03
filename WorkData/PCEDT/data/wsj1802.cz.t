@@ -1623,12 +1623,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1802-001-p1s3a7">
 <a>
@@ -1700,12 +1694,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>substantivum</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2374,12 +2362,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatně utvořený infinitiv</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -4252,12 +4234,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>46</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4979,12 +4955,6 @@
 <deepord>9</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>akuzativ</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5831,12 +5801,6 @@
 <deepord>4</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>akuzativ</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7638,12 +7602,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatně utvořený infinitiv - zpomalet</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1802-001-p1s19a12">
 <a>
@@ -8591,12 +8549,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>akuzativ</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1802-001-p1s23a6">
 <a>
@@ -11191,12 +11143,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>akuzativ</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -11931,12 +11877,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>substantivum</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

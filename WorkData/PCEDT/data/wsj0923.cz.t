@@ -11,7 +11,8 @@
 <LM id="T-wsj0923-001-p1s0">
 <atree.rf>a#a-wsj0923-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0923-001-p1s0a1">
+<children>
+<LM id="T-wsj0923-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0923-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0923-001-p1s0a32">
+<children>
+<LM id="T-wsj0923-001-p1s0a32">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -82,12 +84,15 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0923-001-p1s0a10">
 <a>
 <lex.rf>a#a-wsj0923-001-p1s0W27-Ta</lex.rf>
-<aux.rf>a#a-wsj0923-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0923-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3559f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -125,7 +130,9 @@
 <LM id="T-wsj0923-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj0923-001-p1s0W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0923-001-p1s0W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0923-001-p1s0W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>koupě</t_lemma>
@@ -146,7 +153,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj0923-001-p1s0a16">
+<children>
+<LM id="T-wsj0923-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj0923-001-p1s0W13-Ta</lex.rf>
 </a>
@@ -157,11 +165,14 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0923-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0923-001-p1s0a22">
@@ -176,7 +187,9 @@
 <LM id="T-wsj0923-001-p1s0a20">
 <a>
 <lex.rf>a#a-wsj0923-001-p1s0W18-Ta</lex.rf>
-<aux.rf>a#a-wsj0923-001-p1s0W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0923-001-p1s0W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milion</t_lemma>
@@ -198,7 +211,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj0923-001-p1s0a18">
+<children>
+<LM id="T-wsj0923-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj0923-001-p1s0W16-Ta</lex.rf>
 </a>
@@ -209,6 +223,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0923-001-p1s0a21">
@@ -224,15 +239,13 @@
 <deepord>16</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0923-001-p1s0a25">
 <a>
 <lex.rf>a#a-wsj0923-001-p1s0W23-Ta</lex.rf>
-<aux.rf>a#a-wsj0923-001-p1s0W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0923-001-p1s0W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dolar</t_lemma>
@@ -258,7 +271,9 @@
 <LM id="T-wsj0923-001-p1s0a27">
 <a>
 <lex.rf>a#a-wsj0923-001-p1s0W25-Ta</lex.rf>
-<aux.rf>a#a-wsj0923-001-p1s0W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0923-001-p1s0W24-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akcie</t_lemma>
@@ -287,10 +302,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj0923-001-p1s0a30">
+<children>
+<LM id="T-wsj0923-001-p1s0a30">
 <a>
 <lex.rf>a#a-wsj0923-001-p1s0W30-Ta</lex.rf>
-<aux.rf>a#a-wsj0923-001-p1s0W29-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0923-001-p1s0W29-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Seattle</t_lemma>
@@ -299,18 +317,21 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Kyle Technology Corp. said a Seattle investor has signed a letter of intent to buy the company for about $3.1 million, or $1.20 a share.</eng_sentence>
 </LM>
 <LM id="T-wsj0923-001-p1s1">
 <atree.rf>a#a-wsj0923-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0923-001-p1s1a11">
+<children>
+<LM id="T-wsj0923-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj0923-001-p1s1W12-Ta</lex.rf>
 </a>
@@ -333,7 +354,9 @@
 <LM id="T-wsj0923-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj0923-001-p1s1W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0923-001-p1s1W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0923-001-p1s1W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4628f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -408,9 +431,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0923-001-p1s0a28</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0923-001-p1s1a9">
@@ -425,9 +450,11 @@
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0923-001-p1s0a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -443,7 +470,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0923-001-p1s1a14">
+<children>
+<LM id="T-wsj0923-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj0923-001-p1s1W14-Ta</lex.rf>
 </a>
@@ -454,7 +482,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0923-001-p1s1a15">
+<children>
+<LM id="T-wsj0923-001-p1s1a15">
 <a>
 <lex.rf>a#a-wsj0923-001-p1s1W15-Ta</lex.rf>
 </a>
@@ -465,22 +494,28 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0923-001-p1s1a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The investor, Donald A. Wright, plans to run the company, said a spokesman for Kyle.</eng_sentence>
 </LM>
 <LM id="T-wsj0923-001-p1s2">
 <atree.rf>a#a-wsj0923-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0923-001-p1s2a1">
+<children>
+<LM id="T-wsj0923-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0923-001-p1s2W9-Ta</lex.rf>
 </a>
@@ -492,7 +527,9 @@
 <LM id="T-wsj0923-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj0923-001-p1s2W3-Ta</lex.rf>
-<aux.rf>a#a-wsj0923-001-p1s2W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0923-001-p1s2W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6054f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -516,9 +553,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0923-001-p1s0a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0923-001-p1s2a5">
@@ -556,7 +595,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0923-001-p1s2a8">
+<children>
+<LM id="T-wsj0923-001-p1s2a8">
 <a>
 <lex.rf>a#a-wsj0923-001-p1s2W7-Ta</lex.rf>
 </a>
@@ -567,11 +607,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0923-001-p1s1a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -602,9 +645,11 @@
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0923-001-p1s2a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0923-001-p1s2a11">
@@ -642,9 +687,11 @@
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0923-001-p1s2a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0923-001-p1s2a12">
@@ -658,7 +705,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj0923-001-p1s2a14">
+<children>
+<LM id="T-wsj0923-001-p1s2a14">
 <a>
 <lex.rf>a#a-wsj0923-001-p1s2W14-Ta</lex.rf>
 </a>
@@ -670,17 +718,17 @@
 </gram>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0923-001-p1s2a7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
 <LM>
 <type>New valency frame</type>
 <text>P</text>
@@ -690,13 +738,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The transaction has been approved by Kyle's board, but requires the approval of the company's shareholders.</eng_sentence>
 </LM>
 <LM id="T-wsj0923-001-p1s3">
 <atree.rf>a#a-wsj0923-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0923-001-p1s3a1">
+<children>
+<LM id="T-wsj0923-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj0923-001-p1s3W3-Ta</lex.rf>
 </a>
@@ -720,7 +770,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0923-001-p1s3a3">
+<children>
+<LM id="T-wsj0923-001-p1s3a3">
 <a>
 <lex.rf>a#a-wsj0923-001-p1s3W2-Ta</lex.rf>
 </a>
@@ -731,11 +782,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0923-001-p1s2a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0923-001-p1s3a4">
@@ -749,7 +803,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0923-001-p1s3a5">
+<children>
+<LM id="T-wsj0923-001-p1s3a5">
 <a>
 <lex.rf>a#a-wsj0923-001-p1s3W4-Ta</lex.rf>
 </a>
@@ -760,9 +815,11 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Kyle manufactures electronic components.</eng_sentence>
 </LM>

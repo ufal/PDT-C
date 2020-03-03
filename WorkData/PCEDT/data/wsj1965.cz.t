@@ -11,7 +11,8 @@
 <LM id="T-wsj1965-001-p1s0">
 <atree.rf>a#a-wsj1965-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1965-001-p1s0a1">
+<children>
+<LM id="T-wsj1965-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1965-001-p1s0W5-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1965-001-p1s0a16">
+<children>
+<LM id="T-wsj1965-001-p1s0a16">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -70,12 +72,15 @@
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1965-001-p1s0a7">
 <a>
 <lex.rf>a#a-wsj1965-001-p1s0W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1965-001-p1s0W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1965-001-p1s0W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>čtvrtletí</t_lemma>
@@ -84,7 +89,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1965-001-p1s0a8">
+<children>
+<LM id="T-wsj1965-001-p1s0a8">
 <a>
 <lex.rf>a#a-wsj1965-001-p1s0W7-Ta</lex.rf>
 </a>
@@ -95,6 +101,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1965-001-p1s0a9">
@@ -124,7 +131,9 @@
 <LM id="T-wsj1965-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj1965-001-p1s0W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1965-001-p1s0W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1965-001-p1s0W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výše</t_lemma>
@@ -133,7 +142,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1965-001-p1s0a14">
+<children>
+<LM id="T-wsj1965-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj1965-001-p1s0W14-Ta</lex.rf>
 </a>
@@ -170,21 +180,26 @@
 <deepord>14</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>NCNB Corp. raised $1 billion in new capital during the third quarter.</eng_sentence>
 </LM>
 <LM id="T-wsj1965-001-p1s1">
 <atree.rf>a#a-wsj1965-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1965-001-p1s1a1">
+<children>
+<LM id="T-wsj1965-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1965-001-p1s1W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1965-001-p1s1W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1965-001-p1s1W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7449f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -205,7 +220,9 @@
 <LM id="T-wsj1965-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj1965-001-p1s1W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1965-001-p1s1W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1965-001-p1s1W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>vydání</t_lemma>
@@ -214,7 +231,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1965-001-p1s1a4">
+<children>
+<LM id="T-wsj1965-001-p1s1a4">
 <a>
 <lex.rf>a#a-wsj1965-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -225,10 +243,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1965-001-p1s1a6">
@@ -254,7 +275,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1965-001-p1s1a8">
+<children>
+<LM id="T-wsj1965-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj1965-001-p1s1W9-Ta</lex.rf>
 </a>
@@ -265,7 +287,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1965-001-p1s1a9">
+<children>
+<LM id="T-wsj1965-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj1965-001-p1s1W8-Ta</lex.rf>
 </a>
@@ -276,18 +299,20 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1965-001-p1s0a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
-</children>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>In yesterday's edition, the amount of new capital was misstated.</eng_sentence>
 </LM>

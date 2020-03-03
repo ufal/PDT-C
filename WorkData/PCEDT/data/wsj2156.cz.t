@@ -703,11 +703,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3332,10 +3327,6 @@
 </children>
 <annot_comment>
 <LM>
-<type>M-lemma</type>
-<text>nemá sempos, a tak nemůžu ho změnit na v</text>
-</LM>
-<LM>
 <type>Typo</type>
 </LM>
 </annot_comment>
@@ -4249,11 +4240,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2156-001-p1s17a8">
 <a>
@@ -4623,11 +4609,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2156-001-p1s18a11">
 <a>
@@ -5226,11 +5207,6 @@
 <t_lemma>Kentucky</t_lemma>
 <functor>FPHR</functor>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2156-001-p1s20a29">
 <a>
@@ -5973,11 +5949,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2156-001-p1s22a11">
 <a>

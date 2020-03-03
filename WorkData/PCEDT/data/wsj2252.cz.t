@@ -11,7 +11,8 @@
 <LM id="T-wsj2252-001-p1s0">
 <atree.rf>a#a-wsj2252-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2252-001-p1s0a1">
+<children>
+<LM id="T-wsj2252-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj2252-001-p1s0W21-Ta</lex.rf>
 </a>
@@ -278,10 +279,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj2252-001-p1s0a24">
+<children>
+<LM id="T-wsj2252-001-p1s0a24">
 <a>
 <lex.rf>a#a-wsj2252-001-p1s0W24-Ta</lex.rf>
-<aux.rf>a#a-wsj2252-001-p1s0W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2252-001-p1s0W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>koupě</t_lemma>
@@ -290,7 +294,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj2252-001-p1s0a40">
+<children>
+<LM id="T-wsj2252-001-p1s0a40">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -349,20 +354,26 @@
 <deepord>31</deepord>
 </LM>
 </children>
-</children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Agip S.p. A. and Societe National Elf Aquitaine, the state oil companies of Italy and France, respectively, submitted an offer to buy Gatoil Suisse S.A.</eng_sentence>
 </LM>
 <LM id="T-wsj2252-001-p1s1">
 <atree.rf>a#a-wsj2252-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2252-001-p1s1a1">
+<children>
+<LM id="T-wsj2252-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj2252-001-p1s1W3-Ta</lex.rf>
-<aux.rf>a#a-wsj2252-001-p1s1W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2252-001-p1s1W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3328f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -400,13 +411,15 @@
 <deepord>4</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The price wasn't disclosed.</eng_sentence>
 </LM>
 <LM id="T-wsj2252-001-p1s2">
 <atree.rf>a#a-wsj2252-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2252-001-p1s2a1">
+<children>
+<LM id="T-wsj2252-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj2252-001-p1s2W4-Ta</lex.rf>
 </a>
@@ -437,7 +450,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj2252-001-p1s2a4">
+<children>
+<LM id="T-wsj2252-001-p1s2a4">
 <a>
 <lex.rf>a#a-wsj2252-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -448,7 +462,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj2252-001-p1s2a2">
+<children>
+<LM id="T-wsj2252-001-p1s2a2">
 <a>
 <lex.rf>a#a-wsj2252-001-p1s2W3-Ta</lex.rf>
 </a>
@@ -459,18 +474,24 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2252-001-p1s0a40</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2252-001-p1s2a7">
 <a>
 <lex.rf>a#a-wsj2252-001-p1s2W10-Ta</lex.rf>
-<aux.rf>a#a-wsj2252-001-p1s2W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2252-001-p1s2W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9543f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -519,9 +540,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2252-001-p1s2a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2252-001-p1s2a11">
@@ -547,7 +570,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj2252-001-p1s2a12">
+<children>
+<LM id="T-wsj2252-001-p1s2a12">
 <a>
 <lex.rf>a#a-wsj2252-001-p1s2W15-Ta</lex.rf>
 </a>
@@ -558,7 +582,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj2252-001-p1s2a26">
+<children>
+<LM id="T-wsj2252-001-p1s2a26">
 <a>
 <lex.rf>a#a-wsj2252-001-p1s2W14-Ta</lex.rf>
 </a>
@@ -569,7 +594,9 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2252-001-p1s2a18">
@@ -644,7 +671,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj2252-001-p1s2a25">
+<children>
+<LM id="T-wsj2252-001-p1s2a25">
 <a>
 <lex.rf>a#a-wsj2252-001-p1s2W25-Ta</lex.rf>
 </a>
@@ -655,6 +683,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>19</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -663,21 +692,25 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2252-001-p1s0a22</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>A spokesman for Gatoil said that the Swiss oil concern was examining the offer, submitted last Friday, along with two other offers, also submitted last week.</eng_sentence>
 </LM>
 <LM id="T-wsj2252-001-p1s3">
 <atree.rf>a#a-wsj2252-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2252-001-p1s3a1">
+<children>
+<LM id="T-wsj2252-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj2252-001-p1s3W6-Ta</lex.rf>
 </a>
@@ -738,9 +771,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2252-001-p1s2a18</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2252-001-p1s3a6">
@@ -783,9 +818,11 @@
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2252-001-p1s2a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2252-001-p1s3a9">
@@ -802,7 +839,9 @@
 <deepord>10</deepord>
 <children>
 <LM id="T-wsj2252-001-p1s3a12">
-<coref_gram.rf>T-wsj2252-001-p1s3a8</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj2252-001-p1s3a8</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -820,7 +859,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj2252-001-p1s3a11">
+<children>
+<LM id="T-wsj2252-001-p1s3a11">
 <a>
 <lex.rf>a#a-wsj2252-001-p1s3W10-Ta</lex.rf>
 </a>
@@ -831,20 +871,23 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>11</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Those two offers were private and the spokesman refused to identify the bidding companies.</eng_sentence>
 </LM>
 <LM id="T-wsj2252-001-p1s4">
 <atree.rf>a#a-wsj2252-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2252-001-p1s4a1">
+<children>
+<LM id="T-wsj2252-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj2252-001-p1s4W3-Ta</lex.rf>
 </a>
@@ -876,9 +919,11 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2252-001-p1s3a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2252-001-p1s4a3">
@@ -917,15 +962,19 @@
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2252-001-p1s2a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2252-001-p1s4a8">
 <a>
 <lex.rf>a#a-wsj2252-001-p1s4W8-Ta</lex.rf>
-<aux.rf>a#a-wsj2252-001-p1s4W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2252-001-p1s4W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>týden</t_lemma>
@@ -934,7 +983,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj2252-001-p1s4a9">
+<children>
+<LM id="T-wsj2252-001-p1s4a9">
 <a>
 <lex.rf>a#a-wsj2252-001-p1s4W7-Ta</lex.rf>
 </a>
@@ -945,6 +995,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2252-001-p1s4a11">
@@ -970,7 +1021,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj2252-001-p1s4a13">
+<children>
+<LM id="T-wsj2252-001-p1s4a13">
 <a>
 <lex.rf>a#a-wsj2252-001-p1s4W11-Ta</lex.rf>
 </a>
@@ -981,6 +1033,7 @@
 <sempos>adv.denot.grad.neg</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2252-001-p1s4a14">
@@ -1000,7 +1053,9 @@
 <LM id="T-wsj2252-001-p1s4a16">
 <a>
 <lex.rf>a#a-wsj2252-001-p1s4W17-Ta</lex.rf>
-<aux.rf>a#a-wsj2252-001-p1s4W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2252-001-p1s4W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -1009,7 +1064,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj2252-001-p1s4a17">
+<children>
+<LM id="T-wsj2252-001-p1s4a17">
 <a>
 <lex.rf>a#a-wsj2252-001-p1s4W16-Ta</lex.rf>
 </a>
@@ -1020,18 +1076,21 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>13</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The spokesman further said that at least two more offers are expected from other companies within two weeks.</eng_sentence>
 </LM>
 <LM id="T-wsj2252-001-p1s5">
 <atree.rf>a#a-wsj2252-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2252-001-p1s5a4">
+<children>
+<LM id="T-wsj2252-001-p1s5a4">
 <a>
 <lex.rf>a#a-wsj2252-001-p1s5W3-Ta</lex.rf>
 </a>
@@ -1074,9 +1133,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2252-001-p1s4a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2252-001-p1s5a3">
@@ -1106,7 +1167,9 @@
 <LM id="T-wsj2252-001-p1s5a7">
 <a>
 <lex.rf>a#a-wsj2252-001-p1s5W7-Ta</lex.rf>
-<aux.rf>a#a-wsj2252-001-p1s5W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2252-001-p1s5W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Švýcarsko</t_lemma>
@@ -1119,7 +1182,9 @@
 <LM id="T-wsj2252-001-p1s5a9">
 <a>
 <lex.rf>a#a-wsj2252-001-p1s5W9-Ta</lex.rf>
-<aux.rf>a#a-wsj2252-001-p1s5W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2252-001-p1s5W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>kapacita</t_lemma>
@@ -1128,7 +1193,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj2252-001-p1s5a11">
+<children>
+<LM id="T-wsj2252-001-p1s5a11">
 <a>
 <lex.rf>a#a-wsj2252-001-p1s5W11-Ta</lex.rf>
 </a>
@@ -1165,6 +1231,7 @@
 <deepord>11</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2252-001-p1s5a15">
@@ -1182,7 +1249,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj2252-001-p1s5a16">
+<children>
+<LM id="T-wsj2252-001-p1s5a16">
 <a>
 <lex.rf>a#a-wsj2252-001-p1s5W16-Ta</lex.rf>
 </a>
@@ -1193,7 +1261,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj2252-001-p1s5a17">
+<children>
+<LM id="T-wsj2252-001-p1s5a17">
 <a>
 <lex.rf>a#a-wsj2252-001-p1s5W18-Ta</lex.rf>
 </a>
@@ -1204,7 +1273,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj2252-001-p1s5a18">
+<children>
+<LM id="T-wsj2252-001-p1s5a18">
 <a>
 <lex.rf>a#a-wsj2252-001-p1s5W17-Ta</lex.rf>
 </a>
@@ -1215,19 +1285,17 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
-</children>
-</children>
-</children>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 </children>
 </LM>
 </children>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Gatoil Suisse owns an oil refinery in Switzerland with a capacity of 70,000 barrels a day, along with a network of gasoline retailing outlets.</eng_sentence>
 </LM>

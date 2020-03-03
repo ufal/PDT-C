@@ -306,11 +306,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <eng_sentence>C. Hyde Tucker will become president and chief executive officer of Bell Atlantic International Inc., a unit of this telecommunications concern, effective Jan. 1.</eng_sentence>

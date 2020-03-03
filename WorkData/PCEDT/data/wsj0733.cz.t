@@ -11,10 +11,13 @@
 <LM id="T-wsj0733-001-p1s0">
 <atree.rf>a#a-wsj0733-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0733-001-p1s0a1">
+<children>
+<LM id="T-wsj0733-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0733-001-p1s0W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0733-001-p1s0W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0733-001-p1s0W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9986f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -68,7 +71,8 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>5</deepord>
-<children id="T-wsj0733-001-p1s0a5">
+<children>
+<LM id="T-wsj0733-001-p1s0a5">
 <a>
 <lex.rf>a#a-wsj0733-001-p1s0W4-Ta</lex.rf>
 </a>
@@ -80,6 +84,7 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -118,7 +123,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0733-001-p1s0a12">
+<children>
+<LM id="T-wsj0733-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj0733-001-p1s0W11-Ta</lex.rf>
 </a>
@@ -129,6 +135,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0733-001-p1s0a13">
@@ -168,7 +175,9 @@
 <a>
 <lex.rf>a#a-wsj0733-001-p1s0W16-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0733-001-p1s0a13</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0733-001-p1s0a13</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -204,12 +213,14 @@
 <sempos>v</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj0733-001-p1s0a31">
+<children>
+<LM id="T-wsj0733-001-p1s0a31">
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Gen</t_lemma>
 <functor>ADDR</functor>
 <deepord>17</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0733-001-p1s0a20">
@@ -290,7 +301,9 @@
 <LM id="T-wsj0733-001-p1s0a29">
 <a>
 <lex.rf>a#a-wsj0733-001-p1s0W29-Ta</lex.rf>
-<aux.rf>a#a-wsj0733-001-p1s0W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0733-001-p1s0W28-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>televize</t_lemma>
@@ -302,28 +315,34 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>Coref</type>
 <text>odkaz na něco v předchozím kontextu, který zde ale chybí</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Isaac Hersly, 41 years old, was elected president and chief operating officer of this designer and marketer of graphics, video, cable and other television-related equipment.</eng_sentence>
 </LM>
 <LM id="T-wsj0733-001-p1s1">
 <atree.rf>a#a-wsj0733-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0733-001-p1s1a1">
+<children>
+<LM id="T-wsj0733-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0733-001-p1s1W1-Ta</lex.rf>
 </a>
@@ -346,9 +365,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0733-001-p1s0a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0733-001-p1s1a2">
@@ -362,7 +383,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0733-001-p1s1a9">
+<children>
+<LM id="T-wsj0733-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj0733-001-p1s1W8-Ta</lex.rf>
 </a>
@@ -385,9 +407,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 <LM id="T-wsj0733-001-p1s1a10">
 <a>
@@ -425,7 +444,8 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>9</deepord>
-<children id="T-wsj0733-001-p1s1a14">
+<children>
+<LM id="T-wsj0733-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj0733-001-p1s1W10-Ta</lex.rf>
 </a>
@@ -437,6 +457,7 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0733-001-p1s1a4">
@@ -456,7 +477,9 @@
 <a>
 <lex.rf>a#a-wsj0733-001-p1s1W13-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0733-001-p1s1a9</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0733-001-p1s1a9</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -484,9 +507,13 @@
 <LM id="T-wsj0733-001-p1s1a17">
 <a>
 <lex.rf>a#a-wsj0733-001-p1s1W16-Ta</lex.rf>
-<aux.rf>a#a-wsj0733-001-p1s1W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0733-001-p1s1W15-Ta</LM>
+</aux.rf>
 </a>
-<compl.rf>T-wsj0733-001-p1s1a6</compl.rf>
+<compl.rf>
+<LM>T-wsj0733-001-p1s1a6</LM>
+</compl.rf>
 <nodetype>complex</nodetype>
 <t_lemma>předseda</t_lemma>
 <functor>COMPL</functor>
@@ -499,9 +526,13 @@
 <LM id="T-wsj0733-001-p1s1a18">
 <a>
 <lex.rf>a#a-wsj0733-001-p1s1W19-Ta</lex.rf>
-<aux.rf>a#a-wsj0733-001-p1s1W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0733-001-p1s1W15-Ta</LM>
+</aux.rf>
 </a>
-<compl.rf>T-wsj0733-001-p1s1a6</compl.rf>
+<compl.rf>
+<LM>T-wsj0733-001-p1s1a6</LM>
+</compl.rf>
 <nodetype>complex</nodetype>
 <t_lemma>ředitel</t_lemma>
 <functor>COMPL</functor>
@@ -510,7 +541,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj0733-001-p1s1a19">
+<children>
+<LM id="T-wsj0733-001-p1s1a19">
 <a>
 <lex.rf>a#a-wsj0733-001-p1s1W18-Ta</lex.rf>
 </a>
@@ -521,6 +553,11 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>15</deepord>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 </children>
@@ -528,16 +565,15 @@
 </children>
 </LM>
 </children>
-</children>
 </LM>
-</children>
 </children>
 <eng_sentence>He succeeds Alfred O.P. Leubert, 66, who continues as chairman and chief executive officer.</eng_sentence>
 </LM>
 <LM id="T-wsj0733-001-p1s2">
 <atree.rf>a#a-wsj0733-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0733-001-p1s2a1">
+<children>
+<LM id="T-wsj0733-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0733-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -562,9 +598,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0733-001-p1s1a20</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0733-001-p1s2a3">
@@ -600,7 +638,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0733-001-p1s2a5">
+<children>
+<LM id="T-wsj0733-001-p1s2a5">
 <a>
 <lex.rf>a#a-wsj0733-001-p1s2W5-Ta</lex.rf>
 </a>
@@ -624,7 +663,9 @@
 <LM id="T-wsj0733-001-p1s2a8">
 <a>
 <lex.rf>a#a-wsj0733-001-p1s2W7-Ta</lex.rf>
-<aux.rf>a#a-wsj0733-001-p1s2W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0733-001-p1s2W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>marketing</t_lemma>
@@ -638,7 +679,9 @@
 <LM id="T-wsj0733-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj0733-001-p1s2W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0733-001-p1s2W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0733-001-p1s2W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3460f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -660,9 +703,11 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0733-001-p1s2a5</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0733-001-p1s2a10">
@@ -679,8 +724,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -696,7 +743,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0733-001-p1s2a13">
+<children>
+<LM id="T-wsj0733-001-p1s2a13">
 <a>
 <lex.rf>a#a-wsj0733-001-p1s2W12-Ta</lex.rf>
 </a>
@@ -707,18 +755,24 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0733-001-p1s0a17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <str_comment>
+<LM>
 <name>AMBIG</name>
 <comment>asi</comment>
+</LM>
 </str_comment>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0733-001-p1s2a14">
@@ -733,7 +787,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj0733-001-p1s2a15">
+<children>
+<LM id="T-wsj0733-001-p1s2a15">
 <a>
 <lex.rf>a#a-wsj0733-001-p1s2W15-Ta</lex.rf>
 </a>
@@ -744,7 +799,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj0733-001-p1s2a18">
+<children>
+<LM id="T-wsj0733-001-p1s2a18">
 <a>
 <lex.rf>a#a-wsj0733-001-p1s2W18-Ta</lex.rf>
 </a>
@@ -765,7 +821,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj0733-001-p1s2a17">
+<children>
+<LM id="T-wsj0733-001-p1s2a17">
 <a>
 <lex.rf>a#a-wsj0733-001-p1s2W16-Ta</lex.rf>
 </a>
@@ -776,6 +833,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0733-001-p1s2a20">
@@ -790,7 +848,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj0733-001-p1s2a19">
+<children>
+<LM id="T-wsj0733-001-p1s2a19">
 <a>
 <lex.rf>a#a-wsj0733-001-p1s2W19-Ta</lex.rf>
 </a>
@@ -801,15 +860,19 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-</children>
 </LM>
-</children>
-</children>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Mr. Hersly formerly was group vice president of marketing and product planning for Chyron and president of the telesystems and video products division.</eng_sentence>
 </LM>

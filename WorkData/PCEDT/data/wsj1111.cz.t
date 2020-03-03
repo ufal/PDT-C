@@ -11,7 +11,8 @@
 <LM id="T-wsj1111-001-p1s0">
 <atree.rf>a#a-wsj1111-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1111-001-p1s0a1">
+<children>
+<LM id="T-wsj1111-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s0W7-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1111-001-p1s0a3">
+<children>
+<LM id="T-wsj1111-001-p1s0a3">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s0W2-Ta</lex.rf>
 </a>
@@ -46,7 +48,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1111-001-p1s0a27">
+<children>
+<LM id="T-wsj1111-001-p1s0a27">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -90,7 +93,9 @@
 <deepord>7</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1111-001-p1s0a9">
@@ -131,9 +136,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s0a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1111-001-p1s0a11">
@@ -183,7 +190,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1111-001-p1s0a14">
+<children>
+<LM id="T-wsj1111-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s0W13-Ta</lex.rf>
 </a>
@@ -194,6 +202,7 @@
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1111-001-p1s0a16">
@@ -220,9 +229,11 @@
 </gram>
 <deepord>18</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s0a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1111-001-p1s0a18">
@@ -254,7 +265,9 @@
 <a>
 <lex.rf>a#a-wsj1111-001-p1s0W19-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1111-001-p1s0a16</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1111-001-p1s0a16</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>RSTR</functor>
@@ -320,24 +333,24 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Norfolk Southern Corp. directors authorized the railroad company to buy back as many as 45 million of its shares, which would have a current value of more than $1.7 billion.</eng_sentence>
 </LM>
 <LM id="T-wsj1111-001-p1s1">
 <atree.rf>a#a-wsj1111-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1111-001-p1s1a1">
+<children>
+<LM id="T-wsj1111-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s1W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s1W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s1W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6250f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -386,9 +399,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s0a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1111-001-p1s1a9">
@@ -419,7 +434,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1111-001-p1s1a11">
+<children>
+<LM id="T-wsj1111-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s1W8-Ta</lex.rf>
 </a>
@@ -430,6 +446,7 @@
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1111-001-p1s1a12">
@@ -481,10 +498,6 @@
 <deepord>10</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -515,7 +528,9 @@
 <LM id="T-wsj1111-001-p1s1a19">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s1W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s1W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s1W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>oběh</t_lemma>
@@ -530,7 +545,9 @@
 <LM id="T-wsj1111-001-p1s1a21">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s1W21-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s1W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s1W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodně</t_lemma>
@@ -539,16 +556,20 @@
 <sempos>adj.quant.grad</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1111-001-p1s1a24">
+<children>
+<LM id="T-wsj1111-001-p1s1a24">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s1W24-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s1W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s1W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>CPR</functor>
 <deepord>17</deepord>
-<children id="T-wsj1111-001-p1s1a23">
+<children>
+<LM id="T-wsj1111-001-p1s1a23">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s1W23-Ta</lex.rf>
 </a>
@@ -559,17 +580,21 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>16</deepord>
-</children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The buy-back, coupled with a nearly completed earlier purchase of 20 million shares, would reduce shares outstanding by more than 26%.</eng_sentence>
 </LM>
 <LM id="T-wsj1111-001-p1s2">
 <atree.rf>a#a-wsj1111-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1111-001-p1s2a1">
+<children>
+<LM id="T-wsj1111-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s2W10-Ta</lex.rf>
 </a>
@@ -609,7 +634,9 @@
 <LM id="T-wsj1111-001-p1s2a5">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s2W4-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s2W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s2W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>sídlo</t_lemma>
@@ -618,10 +645,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1111-001-p1s2a7">
+<children>
+<LM id="T-wsj1111-001-p1s2a7">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s2W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s2W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s2W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Norfolk</t_lemma>
@@ -630,10 +660,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1111-001-p1s2a9">
+<children>
+<LM id="T-wsj1111-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s2W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s2W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s2W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>stát</t_lemma>
@@ -642,7 +675,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1111-001-p1s2a10">
+<children>
+<LM id="T-wsj1111-001-p1s2a10">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s2W9-Ta</lex.rf>
 </a>
@@ -653,21 +687,28 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s0a17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1111-001-p1s2a12">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s2W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s2W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s2W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>oběh</t_lemma>
@@ -714,19 +755,17 @@
 <deepord>11</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The Norfolk, Va., company has 172.2 million shares outstanding.</eng_sentence>
 </LM>
 <LM id="T-wsj1111-001-p1s3">
 <atree.rf>a#a-wsj1111-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1111-001-p1s3a1">
+<children>
+<LM id="T-wsj1111-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s3W13-Ta</lex.rf>
 </a>
@@ -822,7 +861,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1111-001-p1s3a10">
+<children>
+<LM id="T-wsj1111-001-p1s3a10">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s3W8-Ta</lex.rf>
 </a>
@@ -833,6 +873,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1111-001-p1s3a11">
@@ -847,9 +888,11 @@
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s2a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -859,7 +902,9 @@
 <LM id="T-wsj1111-001-p1s3a13">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s3W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s3W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s3W11-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4355f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -887,15 +932,19 @@
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s3a33</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1111-001-p1s3a18">
@@ -951,7 +1000,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj1111-001-p1s3a22">
+<children>
+<LM id="T-wsj1111-001-p1s3a22">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s3W19-Ta</lex.rf>
 </a>
@@ -962,24 +1012,31 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s0a1</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1111-001-p1s3a25">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s3W25-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s3W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s3W24-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w10004f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1000,9 +1057,11 @@
 </gram>
 <deepord>19</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s3a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1111-001-p1s3a26">
@@ -1016,7 +1075,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj1111-001-p1s3a27">
+<children>
+<LM id="T-wsj1111-001-p1s3a27">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s3W28-Ta</lex.rf>
 </a>
@@ -1027,7 +1087,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj1111-001-p1s3a28">
+<children>
+<LM id="T-wsj1111-001-p1s3a28">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s3W27-Ta</lex.rf>
 </a>
@@ -1038,25 +1099,31 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>22</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>In a statement, Arnold B. McKinnon, chairman and chief executive officer, noted that the new repurchase program ``should serve to enhance shareholder value.''</eng_sentence>
 </LM>
 <LM id="T-wsj1111-001-p1s4">
 <atree.rf>a#a-wsj1111-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1111-001-p1s4a1">
+<children>
+<LM id="T-wsj1111-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s4W2-Ta</lex.rf>
 </a>
@@ -1110,9 +1177,11 @@
 </gram>
 <deepord>3</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s3a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1111-001-p1s4a14">
@@ -1150,11 +1219,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1111-001-p1s4a17">
+<children>
+<LM id="T-wsj1111-001-p1s4a17">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s4W9-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1111-001-p1s4a12</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1111-001-p1s4a12</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -1162,13 +1234,16 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s3a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1111-001-p1s4a10">
@@ -1192,7 +1267,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1111-001-p1s4a7">
+<children>
+<LM id="T-wsj1111-001-p1s4a7">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s4W13-Ta</lex.rf>
 </a>
@@ -1203,10 +1279,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1111-001-p1s4a9">
+<children>
+<LM id="T-wsj1111-001-p1s4a9">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s4W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s4W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s4W14-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4131f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1227,9 +1306,11 @@
 </gram>
 <deepord>11</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s4a6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1111-001-p1s4a30">
@@ -1242,17 +1323,23 @@
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s4a17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1111-001-p1s4a18">
@@ -1280,7 +1367,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj1111-001-p1s4a21">
+<children>
+<LM id="T-wsj1111-001-p1s4a21">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s4W28-Ta</lex.rf>
 </a>
@@ -1297,7 +1385,9 @@
 <a>
 <lex.rf>a#a-wsj1111-001-p1s4W22-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1111-001-p1s4a19</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1111-001-p1s4a19</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -1317,7 +1407,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1111-001-p1s4a25">
+<children>
+<LM id="T-wsj1111-001-p1s4a25">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s4W24-Ta</lex.rf>
 </a>
@@ -1328,17 +1419,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s4a30</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1111-001-p1s4a27">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s4W27-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s4W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s4W25-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2607f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1359,16 +1455,20 @@
 </gram>
 <deepord>20</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s4a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1111-001-p1s4a28">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s4W26-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1111-001-p1s4a24</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1111-001-p1s4a24</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>ACT</functor>
@@ -1379,25 +1479,30 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>A spokeswoman said the company will finance the buy-back with cash on hand, borrowing and ``cash Norfolk expects to generate.''</eng_sentence>
 </LM>
 <LM id="T-wsj1111-001-p1s5">
 <atree.rf>a#a-wsj1111-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1111-001-p1s5a1">
+<children>
+<LM id="T-wsj1111-001-p1s5a1">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s5W2-Ta</lex.rf>
 </a>
@@ -1434,7 +1539,9 @@
 <LM id="T-wsj1111-001-p1s5a6">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s5W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s5W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s5W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2608f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1456,9 +1563,11 @@
 </gram>
 <deepord>3</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s5a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1111-001-p1s5a7">
@@ -1472,7 +1581,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1111-001-p1s5a8">
+<children>
+<LM id="T-wsj1111-001-p1s5a8">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s5W5-Ta</lex.rf>
 </a>
@@ -1483,11 +1593,14 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s4a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -1495,7 +1608,9 @@
 <LM id="T-wsj1111-001-p1s5a9">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s5W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s5W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s5W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7455f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1530,7 +1645,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1111-001-p1s5a12">
+<children>
+<LM id="T-wsj1111-001-p1s5a12">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s5W10-Ta</lex.rf>
 </a>
@@ -1541,11 +1657,14 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s5a7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1111-001-p1s5a13">
@@ -1565,13 +1684,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Analysts said they expected the action, and investors applauded the move.</eng_sentence>
 </LM>
 <LM id="T-wsj1111-001-p1s6">
 <atree.rf>a#a-wsj1111-001-p1s6</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1111-001-p1s6a29">
+<children>
+<LM id="T-wsj1111-001-p1s6a29">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s6W17-Ta</lex.rf>
 </a>
@@ -1597,7 +1718,9 @@
 <LM id="T-wsj1111-001-p1s6a3">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s6W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s6W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s6W1-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2482f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1637,7 +1760,9 @@
 <LM id="T-wsj1111-001-p1s6a6">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s6W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s6W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s6W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>burza</t_lemma>
@@ -1658,10 +1783,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1111-001-p1s6a8">
 <a>
@@ -1674,7 +1795,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1111-001-p1s6a9">
+<children>
+<LM id="T-wsj1111-001-p1s6a9">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s6W7-Ta</lex.rf>
 </a>
@@ -1685,14 +1807,17 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1111-001-p1s6a10">
@@ -1706,7 +1831,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1111-001-p1s6a11">
+<children>
+<LM id="T-wsj1111-001-p1s6a11">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s6W11-Ta</lex.rf>
 </a>
@@ -1717,7 +1843,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1111-001-p1s6a28">
+<children>
+<LM id="T-wsj1111-001-p1s6a28">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1749,18 +1876,24 @@
 <deepord>14</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s4a28</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1111-001-p1s6a23">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s6W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s6W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s6W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dolar</t_lemma>
@@ -1769,7 +1902,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj1111-001-p1s6a22">
+<children>
+<LM id="T-wsj1111-001-p1s6a22">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s6W15-Ta</lex.rf>
 </a>
@@ -1781,9 +1915,12 @@
 </gram>
 <deepord>15</deepord>
 <annot_comment>
+<LM>
 <type>Typo</type>
 <text>desetinná čárka</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 </children>
@@ -1806,7 +1943,9 @@
 <a>
 <lex.rf>a#a-wsj1111-001-p1s6W18-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1111-001-p1s6a1</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1111-001-p1s6a1</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>ACT</functor>
@@ -1838,15 +1977,19 @@
 </gram>
 <deepord>20</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s6a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1111-001-p1s6a20">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s6W23-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s6W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s6W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dolar</t_lemma>
@@ -1855,7 +1998,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj1111-001-p1s6a19">
+<children>
+<LM id="T-wsj1111-001-p1s6a19">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s6W22-Ta</lex.rf>
 </a>
@@ -1867,27 +2011,34 @@
 </gram>
 <deepord>22</deepord>
 <annot_comment>
+<LM>
 <type>Typo</type>
 <text>desetinná čárka</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>In composite trading on the New York Stock Exchange, Norfolk Southern shares closed at $37.875, up $1.125.</eng_sentence>
 </LM>
 <LM id="T-wsj1111-001-p1s7">
 <atree.rf>a#a-wsj1111-001-p1s7</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1111-001-p1s7a1">
+<children>
+<LM id="T-wsj1111-001-p1s7a1">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s7W3-Ta</lex.rf>
 </a>
@@ -1931,7 +2082,9 @@
 <LM id="T-wsj1111-001-p1s7a6">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s7W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s7W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s7W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3305f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1980,9 +2133,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s5a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1111-001-p1s7a10">
@@ -2020,10 +2175,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1111-001-p1s7a14">
+<children>
+<LM id="T-wsj1111-001-p1s7a14">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s7W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s7W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s7W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akcie</t_lemma>
@@ -2032,18 +2190,21 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Still, analysts don't expect the buy-back to significantly affect per-share earnings in the short term.</eng_sentence>
 </LM>
 <LM id="T-wsj1111-001-p1s8">
 <atree.rf>a#a-wsj1111-001-p1s8</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1111-001-p1s8a1">
+<children>
+<LM id="T-wsj1111-001-p1s8a1">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s8W8-Ta</lex.rf>
 </a>
@@ -2100,7 +2261,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1111-001-p1s8a7">
+<children>
+<LM id="T-wsj1111-001-p1s8a7">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s8W4-Ta</lex.rf>
 </a>
@@ -2111,6 +2273,7 @@
 <sempos>adv.pron.indef</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -2142,7 +2305,9 @@
 <LM id="T-wsj1111-001-p1s8a12">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s8W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s8W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s8W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -2151,7 +2316,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1111-001-p1s8a16">
+<children>
+<LM id="T-wsj1111-001-p1s8a16">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -2186,18 +2352,21 @@
 <deepord>13</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>``The impact won't be that great,'' said Graeme Lidgerwood of First Boston Corp.</eng_sentence>
 </LM>
 <LM id="T-wsj1111-001-p1s9">
 <atree.rf>a#a-wsj1111-001-p1s9</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1111-001-p1s9a1">
+<children>
+<LM id="T-wsj1111-001-p1s9a1">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s9W16-Ta</lex.rf>
 </a>
@@ -2220,9 +2389,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s8a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1111-001-p1s9a2">
@@ -2263,9 +2434,11 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s8a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1111-001-p1s9a9">
@@ -2297,12 +2470,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1111-001-p1s9a19">
+<children>
+<LM id="T-wsj1111-001-p1s9a19">
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Benef</t_lemma>
 <functor>BEN</functor>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1111-001-p1s9a11">
@@ -2319,7 +2494,9 @@
 <deepord>9</deepord>
 <children>
 <LM id="T-wsj1111-001-p1s9a18">
-<coref_gram.rf>T-wsj1111-001-p1s9a19</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1111-001-p1s9a19</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -2337,7 +2514,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1111-001-p1s9a13">
+<children>
+<LM id="T-wsj1111-001-p1s9a13">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s9W12-Ta</lex.rf>
 </a>
@@ -2348,10 +2526,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1111-001-p1s9a15">
+<children>
+<LM id="T-wsj1111-001-p1s9a15">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s9W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s9W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s9W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>oběh</t_lemma>
@@ -2360,8 +2541,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-</children>
-</children>
 </LM>
 </children>
 </LM>
@@ -2370,13 +2549,19 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>That is in part because of the effect of having to average the number of shares outstanding, she said.</eng_sentence>
 </LM>
 <LM id="T-wsj1111-001-p1s10">
 <atree.rf>a#a-wsj1111-001-p1s10</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1111-001-p1s10a1">
+<children>
+<LM id="T-wsj1111-001-p1s10a1">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s10W3-Ta</lex.rf>
 </a>
@@ -2401,9 +2586,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s9a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1111-001-p1s10a3">
@@ -2435,7 +2622,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1111-001-p1s10a8">
+<children>
+<LM id="T-wsj1111-001-p1s10a8">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s10W7-Ta</lex.rf>
 </a>
@@ -2446,17 +2634,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s6a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1111-001-p1s10a6">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s10W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s10W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s10W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7816f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -2504,7 +2697,9 @@
 <LM id="T-wsj1111-001-p1s10a14">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s10W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s10W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s10W13-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w955f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -2525,9 +2720,11 @@
 </gram>
 <deepord>10</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s10a7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1111-001-p1s10a15">
@@ -2542,9 +2739,11 @@
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s7a7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -2563,7 +2762,9 @@
 <LM id="T-wsj1111-001-p1s10a19">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s10W21-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s10W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s10W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6250f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -2578,7 +2779,9 @@
 <LM id="T-wsj1111-001-p1s10a21">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s10W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s10W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s10W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
@@ -2599,7 +2802,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1111-001-p1s10a23">
+<children>
+<LM id="T-wsj1111-001-p1s10a23">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s10W22-Ta</lex.rf>
 </a>
@@ -2610,20 +2814,23 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>17</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>In addition, Mrs. Lidgerwood said, Norfolk is likely to draw down its cash initially to finance the purchases and thus forfeit some interest income.</eng_sentence>
 </LM>
 <LM id="T-wsj1111-001-p1s11">
 <atree.rf>a#a-wsj1111-001-p1s11</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1111-001-p1s11a1">
+<children>
+<LM id="T-wsj1111-001-p1s11a1">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s11W19-Ta</lex.rf>
 </a>
@@ -2646,7 +2853,9 @@
 <LM id="T-wsj1111-001-p1s11a12">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s11W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s11W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s11W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w10006f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -2661,7 +2870,9 @@
 <LM id="T-wsj1111-001-p1s11a5">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s11W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s11W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s11W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hledisko</t_lemma>
@@ -2670,7 +2881,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1111-001-p1s11a6">
+<children>
+<LM id="T-wsj1111-001-p1s11a6">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s11W2-Ta</lex.rf>
 </a>
@@ -2681,6 +2893,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1111-001-p1s11a2">
@@ -2730,15 +2943,19 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s10a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1111-001-p1s11a11">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s11W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s11W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s11W9-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2607f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -2759,9 +2976,11 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s11a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1111-001-p1s11a23">
@@ -2773,8 +2992,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1111-001-p1s11a13">
@@ -2792,7 +3013,9 @@
 <LM id="T-wsj1111-001-p1s11a18">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s11W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s11W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s11W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -2839,19 +3062,23 @@
 </gram>
 <deepord>17</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s10a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Longer term, however, the buy-back is expected to increase earnings, especially after 1990, Mrs. Lidgerwood said.</eng_sentence>
 </LM>
 <LM id="T-wsj1111-001-p1s12">
 <atree.rf>a#a-wsj1111-001-p1s12</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1111-001-p1s12a1">
+<children>
+<LM id="T-wsj1111-001-p1s12a1">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s12W11-Ta</lex.rf>
 </a>
@@ -2923,9 +3150,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s3a32</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1111-001-p1s12a6">
@@ -2972,7 +3201,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1111-001-p1s12a10">
+<children>
+<LM id="T-wsj1111-001-p1s12a10">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s12W9-Ta</lex.rf>
 </a>
@@ -2983,6 +3213,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -3010,7 +3241,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1111-001-p1s12a12">
+<children>
+<LM id="T-wsj1111-001-p1s12a12">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s12W12-Ta</lex.rf>
 </a>
@@ -3021,6 +3253,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1111-001-p1s12a15">
@@ -3035,7 +3268,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1111-001-p1s12a16">
+<children>
+<LM id="T-wsj1111-001-p1s12a16">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s12W16-Ta</lex.rf>
 </a>
@@ -3046,7 +3280,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj1111-001-p1s12a23">
+<children>
+<LM id="T-wsj1111-001-p1s12a23">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -3108,19 +3343,23 @@
 <deepord>22</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Moreover, the extensive program in effect establishes a floor for the stock price, said Joel Price, analyst for Donaldson, Lufkin &amp; Jenrette.</eng_sentence>
 </LM>
 <LM id="T-wsj1111-001-p1s13">
 <atree.rf>a#a-wsj1111-001-p1s13</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1111-001-p1s13a1">
+<children>
+<LM id="T-wsj1111-001-p1s13a1">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s13W26-Ta</lex.rf>
 </a>
@@ -3185,9 +3424,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s11a7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1111-001-p1s13a7">
@@ -3214,7 +3455,9 @@
 <LM id="T-wsj1111-001-p1s13a10">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s13W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s13W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s13W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>ten</t_lemma>
@@ -3223,10 +3466,13 @@
 <sempos>n.pron.def.demon</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1111-001-p1s13a14">
+<children>
+<LM id="T-wsj1111-001-p1s13a14">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s13W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s13W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s13W12-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1639f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -3241,7 +3487,9 @@
 <a>
 <lex.rf>a#a-wsj1111-001-p1s13W11-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1111-001-p1s13a10</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1111-001-p1s13a10</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -3261,7 +3509,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1111-001-p1s13a16">
+<children>
+<LM id="T-wsj1111-001-p1s13a16">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s13W18-Ta</lex.rf>
 </a>
@@ -3277,9 +3526,13 @@
 <LM id="T-wsj1111-001-p1s13a19">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s13W17-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s13W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s13W16-Ta</LM>
+</aux.rf>
 </a>
-<coref_gram.rf>T-wsj1111-001-p1s13a15</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1111-001-p1s13a15</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>BEN</functor>
@@ -3328,9 +3581,11 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -3345,19 +3600,23 @@
 </gram>
 <deepord>17</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s12a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The buy-back ``is really a comfort to those who want to buy the stock that there is a [price] floor,'' he said.</eng_sentence>
 </LM>
 <LM id="T-wsj1111-001-p1s14">
 <atree.rf>a#a-wsj1111-001-p1s14</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1111-001-p1s14a17">
+<children>
+<LM id="T-wsj1111-001-p1s14a17">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s14W18-Ta</lex.rf>
 </a>
@@ -3369,7 +3628,9 @@
 <LM id="T-wsj1111-001-p1s14a7">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s14W4-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s14W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s14W2-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>cena</t_lemma>
@@ -3378,7 +3639,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1111-001-p1s14a8">
+<children>
+<LM id="T-wsj1111-001-p1s14a8">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s14W3-Ta</lex.rf>
 </a>
@@ -3389,12 +3651,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1111-001-p1s14a5">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s14W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s14W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s14W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -3421,7 +3686,9 @@
 <LM id="T-wsj1111-001-p1s14a10">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s14W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s14W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s14W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>vedení</t_lemma>
@@ -3430,7 +3697,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1111-001-p1s14a11">
+<children>
+<LM id="T-wsj1111-001-p1s14a11">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s14W13-Ta</lex.rf>
 </a>
@@ -3442,14 +3710,19 @@
 </gram>
 <deepord>6</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s10a24</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1111-001-p1s14a12">
@@ -3469,7 +3742,9 @@
 <LM id="T-wsj1111-001-p1s14a18">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s14W17-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s14W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s14W16-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1339f3</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -3480,12 +3755,14 @@
 <sempos>v</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1111-001-p1s14a21">
+<children>
+<LM id="T-wsj1111-001-p1s14a21">
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Oblfm</t_lemma>
 <functor>DIR3</functor>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1111-001-p1s14a22">
@@ -3498,15 +3775,19 @@
 </gram>
 <deepord>11</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s13a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1111-001-p1s14a19">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s14W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s14W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s14W16-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1578f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -3517,7 +3798,8 @@
 <sempos>v</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1111-001-p1s14a20">
+<children>
+<LM id="T-wsj1111-001-p1s14a20">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s14W20-Ta</lex.rf>
 </a>
@@ -3529,20 +3811,25 @@
 </gram>
 <deepord>13</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s14a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>``At a certain price, if the management thinks [the stock] is cheap, they can go in and buy it.''</eng_sentence>
 </LM>
 <LM id="T-wsj1111-001-p1s15">
 <atree.rf>a#a-wsj1111-001-p1s15</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1111-001-p1s15a14">
+<children>
+<LM id="T-wsj1111-001-p1s15a14">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s15W3-Ta</lex.rf>
 </a>
@@ -3566,7 +3853,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1111-001-p1s15a3">
+<children>
+<LM id="T-wsj1111-001-p1s15a3">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s15W2-Ta</lex.rf>
 </a>
@@ -3577,17 +3865,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s14a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1111-001-p1s15a5">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s15W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s15W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s15W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>program</t_lemma>
@@ -3596,7 +3889,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1111-001-p1s15a6">
+<children>
+<LM id="T-wsj1111-001-p1s15a6">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s15W5-Ta</lex.rf>
 </a>
@@ -3607,17 +3901,22 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s12a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1111-001-p1s15a8">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s15W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s15W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s15W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>dphr</nodetype>
 <t_lemma>v_plánu</t_lemma>
@@ -3638,7 +3937,9 @@
 <deepord>7</deepord>
 <children>
 <LM id="T-wsj1111-001-p1s15a16">
-<coref_gram.rf>T-wsj1111-001-p1s15a2</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1111-001-p1s15a2</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -3660,7 +3961,9 @@
 <LM id="T-wsj1111-001-p1s15a12">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s15W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s15W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s15W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>trh</t_lemma>
@@ -3669,7 +3972,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1111-001-p1s15a13">
+<children>
+<LM id="T-wsj1111-001-p1s15a13">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s15W12-Ta</lex.rf>
 </a>
@@ -3680,21 +3984,26 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Under the program, Norfolk plans to acquire shares in the open market.</eng_sentence>
 </LM>
 <LM id="T-wsj1111-001-p1s16">
 <atree.rf>a#a-wsj1111-001-p1s16</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1111-001-p1s16a1">
+<children>
+<LM id="T-wsj1111-001-p1s16a1">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s16W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s16W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s16W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4148f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -3715,15 +4024,19 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1111-001-p1s16a3">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s16W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s16W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s16W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>plán</t_lemma>
@@ -3732,7 +4045,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1111-001-p1s16a4">
+<children>
+<LM id="T-wsj1111-001-p1s16a4">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s16W2-Ta</lex.rf>
 </a>
@@ -3743,6 +4057,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1111-001-p1s16a7">
@@ -3756,7 +4071,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1111-001-p1s16a6">
+<children>
+<LM id="T-wsj1111-001-p1s16a6">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s16W6-Ta</lex.rf>
 </a>
@@ -3767,17 +4083,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s15a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1111-001-p1s16a9">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s16W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1111-001-p1s16W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1111-001-p1s16W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -3786,7 +4107,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1111-001-p1s16a10">
+<children>
+<LM id="T-wsj1111-001-p1s16a10">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s16W9-Ta</lex.rf>
 </a>
@@ -3797,6 +4119,7 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1111-001-p1s16a11">
@@ -3813,7 +4136,9 @@
 <deepord>10</deepord>
 <children>
 <LM id="T-wsj1111-001-p1s16a19">
-<coref_gram.rf>T-wsj1111-001-p1s16a7</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1111-001-p1s16a7</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -3843,7 +4168,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1111-001-p1s16a13">
+<children>
+<LM id="T-wsj1111-001-p1s16a13">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s16W12-Ta</lex.rf>
 </a>
@@ -3854,6 +4180,7 @@
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1111-001-p1s16a15">
@@ -3869,21 +4196,19 @@
 <deepord>14</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Under the earlier plan, Norfolk was authorized in 1987 to buy up to 20 million shares.</eng_sentence>
 </LM>
 <LM id="T-wsj1111-001-p1s17">
 <atree.rf>a#a-wsj1111-001-p1s17</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1111-001-p1s17a1">
+<children>
+<LM id="T-wsj1111-001-p1s17a1">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s17W1-Ta</lex.rf>
 </a>
@@ -3906,9 +4231,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s16a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1111-001-p1s17a4">
@@ -3935,9 +4262,11 @@
 </gram>
 <deepord>3</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1111-001-p1s16a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1111-001-p1s17a3">
@@ -3951,7 +4280,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1111-001-p1s17a2">
+<children>
+<LM id="T-wsj1111-001-p1s17a2">
 <a>
 <lex.rf>a#a-wsj1111-001-p1s17W3-Ta</lex.rf>
 </a>
@@ -3962,15 +4292,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>It has purchased about 19 million of them.</eng_sentence>
 </LM>

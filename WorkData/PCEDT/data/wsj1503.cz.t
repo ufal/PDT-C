@@ -11,7 +11,8 @@
 <LM id="T-wsj1503-001-p1s0">
 <atree.rf>a#a-wsj1503-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1503-001-p1s0a1">
+<children>
+<LM id="T-wsj1503-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1503-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1503-001-p1s0a27">
+<children>
+<LM id="T-wsj1503-001-p1s0a27">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -82,12 +84,15 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1503-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj1503-001-p1s0W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1503-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1503-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9131f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -108,9 +113,11 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1503-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1503-001-p1s0a10">
@@ -124,10 +131,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1503-001-p1s0a12">
+<children>
+<LM id="T-wsj1503-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj1503-001-p1s0W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1503-001-p1s0W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1503-001-p1s0W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>regulace</t_lemma>
@@ -136,7 +146,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1503-001-p1s0a13">
+<children>
+<LM id="T-wsj1503-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj1503-001-p1s0W12-Ta</lex.rf>
 </a>
@@ -147,7 +158,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1503-001-p1s0a14">
+<children>
+<LM id="T-wsj1503-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj1503-001-p1s0W14-Ta</lex.rf>
 </a>
@@ -158,7 +170,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1503-001-p1s0a15">
+<children>
+<LM id="T-wsj1503-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj1503-001-p1s0W13-Ta</lex.rf>
 </a>
@@ -169,14 +182,14 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1503-001-p1s0a16">
 <a>
@@ -205,7 +218,9 @@
 <LM id="T-wsj1503-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj1503-001-p1s0W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1503-001-p1s0W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1503-001-p1s0W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>nabídka</t_lemma>
@@ -262,7 +277,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj1503-001-p1s0a24">
+<children>
+<LM id="T-wsj1503-001-p1s0a24">
 <a>
 <lex.rf>a#a-wsj1503-001-p1s0W23-Ta</lex.rf>
 </a>
@@ -273,7 +289,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>21</deepord>
-</children>
 </LM>
 </children>
 </LM>
@@ -284,13 +299,17 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>MGM Grand Inc. said it filed a registration statement with the Securities and Exchange Commission for a public offering of six million common shares.</eng_sentence>
 </LM>
 <LM id="T-wsj1503-001-p1s1">
 <atree.rf>a#a-wsj1503-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1503-001-p1s1a1">
+<children>
+<LM id="T-wsj1503-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1503-001-p1s1W8-Ta</lex.rf>
 </a>
@@ -329,7 +348,9 @@
 </LM>
 <LM id="T-wsj1503-001-p1s1a22">
 <a>
-<aux.rf>a#a-wsj1503-001-p1s1W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1503-001-p1s1W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -363,7 +384,9 @@
 <LM id="T-wsj1503-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj1503-001-p1s1W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1503-001-p1s1W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1503-001-p1s1W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Kalifornie</t_lemma>
@@ -375,9 +398,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1503-001-p1s0a26</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1503-001-p1s1a11">
@@ -407,15 +432,19 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1503-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1503-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj1503-001-p1s1W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1503-001-p1s1W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1503-001-p1s1W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>nabídka</t_lemma>
@@ -425,15 +454,19 @@
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1503-001-p1s0a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1503-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj1503-001-p1s1W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1503-001-p1s1W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1503-001-p1s1W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>oběh</t_lemma>
@@ -478,7 +511,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1503-001-p1s1a20">
+<children>
+<LM id="T-wsj1503-001-p1s1a20">
 <a>
 <lex.rf>a#a-wsj1503-001-p1s1W19-Ta</lex.rf>
 </a>
@@ -489,20 +523,23 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The Beverly Hills, Calif.-based company said it would have 26.9 million common shares outstanding after the offering.</eng_sentence>
 </LM>
 <LM id="T-wsj1503-001-p1s2">
 <atree.rf>a#a-wsj1503-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1503-001-p1s2a1">
+<children>
+<LM id="T-wsj1503-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1503-001-p1s2W8-Ta</lex.rf>
 </a>
@@ -550,7 +587,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1503-001-p1s2a5">
+<children>
+<LM id="T-wsj1503-001-p1s2a5">
 <a>
 <lex.rf>a#a-wsj1503-001-p1s2W5-Ta</lex.rf>
 </a>
@@ -586,13 +624,16 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1503-001-p1s1a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1503-001-p1s2a8">
@@ -644,7 +685,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1503-001-p1s2a19">
+<children>
+<LM id="T-wsj1503-001-p1s2a19">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -691,21 +733,26 @@
 <deepord>16</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The hotel and Gaming company said Merrill Lynch Capital Markets will lead the underwriters.</eng_sentence>
 </LM>
 <LM id="T-wsj1503-001-p1s3">
 <atree.rf>a#a-wsj1503-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1503-001-p1s3a2">
+<children>
+<LM id="T-wsj1503-001-p1s3a2">
 <a>
 <lex.rf>a#a-wsj1503-001-p1s3W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1503-001-p1s3W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1503-001-p1s3W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8528f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -727,10 +774,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1503-001-p1s3a5">
+<children>
+<LM id="T-wsj1503-001-p1s3a5">
 <a>
 <lex.rf>a#a-wsj1503-001-p1s3W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1503-001-p1s3W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1503-001-p1s3W2-Ta</LM>
+</aux.rf>
 </a>
 <coref_special>segm</coref_special>
 <nodetype>complex</nodetype>
@@ -740,6 +790,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1503-001-p1s3a26">
@@ -752,9 +803,11 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1503-001-p1s2a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1503-001-p1s3a1">
@@ -769,7 +822,9 @@
 <LM id="T-wsj1503-001-p1s3a8">
 <a>
 <lex.rf>a#a-wsj1503-001-p1s3W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1503-001-p1s3W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1503-001-p1s3W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>projekt</t_lemma>
@@ -779,7 +834,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1503-001-p1s3a9">
+<children>
+<LM id="T-wsj1503-001-p1s3a9">
 <a>
 <lex.rf>a#a-wsj1503-001-p1s3W9-Ta</lex.rf>
 </a>
@@ -815,12 +871,15 @@
 <deepord>8</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1503-001-p1s3a13">
 <a>
 <lex.rf>a#a-wsj1503-001-p1s3W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1503-001-p1s3W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1503-001-p1s3W12-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7799f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -842,9 +901,11 @@
 </gram>
 <deepord>10</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1503-001-p1s3a26</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1503-001-p1s3a14">
@@ -948,7 +1009,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj1503-001-p1s3a22">
+<children>
+<LM id="T-wsj1503-001-p1s3a22">
 <a>
 <lex.rf>a#a-wsj1503-001-p1s3W21-Ta</lex.rf>
 </a>
@@ -959,19 +1021,23 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>20</deepord>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Proceeds from the sale will be used for remodeling and refurbishing projects, as well as for the planned MGM Grand hotel/casino and theme park.</eng_sentence>
 </LM>

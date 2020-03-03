@@ -1040,12 +1040,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>van</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2002-001-p1s5a15">
 <a>
@@ -1134,12 +1128,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Pella</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

@@ -11,7 +11,8 @@
 <LM id="T-wsj1477-001-p1s0">
 <atree.rf>a#a-wsj1477-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1477-001-p1s0a1">
+<children>
+<LM id="T-wsj1477-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1477-001-p1s0W7-Ta</lex.rf>
 </a>
@@ -42,7 +43,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1477-001-p1s0a27">
+<children>
+<LM id="T-wsj1477-001-p1s0a27">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -95,12 +97,15 @@
 <deepord>8</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1477-001-p1s0a10">
 <a>
 <lex.rf>a#a-wsj1477-001-p1s0W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1477-001-p1s0W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1477-001-p1s0W9-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3559f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -121,9 +126,11 @@
 </gram>
 <deepord>10</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1477-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1477-001-p1s0a11">
@@ -153,7 +160,9 @@
 <LM id="T-wsj1477-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj1477-001-p1s0W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1477-001-p1s0W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1477-001-p1s0W13-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9499f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -174,9 +183,11 @@
 </gram>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1477-001-p1s0a25</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1477-001-p1s0a15">
@@ -226,7 +237,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1477-001-p1s0a22">
+<children>
+<LM id="T-wsj1477-001-p1s0a22">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -261,14 +273,17 @@
 <deepord>23</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -276,16 +291,20 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Citizens &amp; Southern Corp. said it signed a definitive agreement to acquire Security Pacific Corp.'s New York-based factoring unit.</eng_sentence>
 </LM>
 <LM id="T-wsj1477-001-p1s1">
 <atree.rf>a#a-wsj1477-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1477-001-p1s1a1">
+<children>
+<LM id="T-wsj1477-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1477-001-p1s1W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1477-001-p1s1W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1477-001-p1s1W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9966f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -314,7 +333,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1477-001-p1s1a3">
+<children>
+<LM id="T-wsj1477-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj1477-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -325,7 +345,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1477-001-p1s1a4">
+<children>
+<LM id="T-wsj1477-001-p1s1a4">
 <a>
 <lex.rf>a#a-wsj1477-001-p1s1W6-Ta</lex.rf>
 </a>
@@ -384,18 +405,24 @@
 <target-node.rf>T-wsj1477-001-p1s0a18</target-node.rf>
 <informal-type>SUB_SET</informal-type>
 <str_comment>
+<LM>
 <name>AMBIG</name>
 <comment>nebo přímo jednotka</comment>
+</LM>
 </str_comment>
 <src>LH</src>
 </LM>
 </bridging>
+</LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1477-001-p1s0a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1477-001-p1s1a9">
@@ -406,17 +433,15 @@
 <deepord>9</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>opraveno z: zveřejnět</text>
-</annot_comment>
+</LM>
 </children>
 <eng_sentence>Terms of the bank holding companies' agreement weren't disclosed.</eng_sentence>
 </LM>
 <LM id="T-wsj1477-001-p1s2">
 <atree.rf>a#a-wsj1477-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1477-001-p1s2a1">
+<children>
+<LM id="T-wsj1477-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1477-001-p1s2W3-Ta</lex.rf>
 </a>
@@ -440,7 +465,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1477-001-p1s2a3">
+<children>
+<LM id="T-wsj1477-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj1477-001-p1s2W1-Ta</lex.rf>
 </a>
@@ -451,6 +477,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1477-001-p1s2a4">
@@ -506,7 +533,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1477-001-p1s2a8">
+<children>
+<LM id="T-wsj1477-001-p1s2a8">
 <a>
 <lex.rf>a#a-wsj1477-001-p1s2W9-Ta</lex.rf>
 </a>
@@ -517,7 +545,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1477-001-p1s2a9">
+<children>
+<LM id="T-wsj1477-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj1477-001-p1s2W8-Ta</lex.rf>
 </a>
@@ -528,25 +557,31 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Factoring involves the purchase and collection of another company's receivables.</eng_sentence>
 </LM>
 <LM id="T-wsj1477-001-p1s3">
 <atree.rf>a#a-wsj1477-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1477-001-p1s3a1">
+<children>
+<LM id="T-wsj1477-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1477-001-p1s3W7-Ta</lex.rf>
 </a>
@@ -589,15 +624,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>chybný nominativ</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1477-001-p1s3a5">
 <a>
 <lex.rf>a#a-wsj1477-001-p1s3W4-Ta</lex.rf>
-<aux.rf>a#a-wsj1477-001-p1s3W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1477-001-p1s3W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>sídlo</t_lemma>
@@ -606,10 +639,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1477-001-p1s3a7">
+<children>
+<LM id="T-wsj1477-001-p1s3a7">
 <a>
 <lex.rf>a#a-wsj1477-001-p1s3W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1477-001-p1s3W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1477-001-p1s3W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Atlanta</t_lemma>
@@ -618,13 +654,16 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1477-001-p1s0a26</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1477-001-p1s3a35">
@@ -639,7 +678,9 @@
 <LM id="T-wsj1477-001-p1s3a10">
 <a>
 <lex.rf>a#a-wsj1477-001-p1s3W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1477-001-p1s3W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1477-001-p1s3W9-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1855f3</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -661,15 +702,19 @@
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1477-001-p1s3a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1477-001-p1s3a12">
 <a>
 <lex.rf>a#a-wsj1477-001-p1s3W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1477-001-p1s3W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1477-001-p1s3W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>prodej</t_lemma>
@@ -678,7 +723,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1477-001-p1s3a13">
+<children>
+<LM id="T-wsj1477-001-p1s3a13">
 <a>
 <lex.rf>a#a-wsj1477-001-p1s3W12-Ta</lex.rf>
 </a>
@@ -689,6 +735,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1477-001-p1s3a14">
@@ -726,7 +773,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1477-001-p1s3a16">
+<children>
+<LM id="T-wsj1477-001-p1s3a16">
 <a>
 <lex.rf>a#a-wsj1477-001-p1s3W15-Ta</lex.rf>
 </a>
@@ -737,6 +785,7 @@
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1477-001-p1s3a18">
@@ -780,7 +829,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1477-001-p1s3a23">
+<children>
+<LM id="T-wsj1477-001-p1s3a23">
 <a>
 <lex.rf>a#a-wsj1477-001-p1s3W22-Ta</lex.rf>
 </a>
@@ -791,7 +841,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1477-001-p1s3a36">
+<children>
+<LM id="T-wsj1477-001-p1s3a36">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -823,17 +874,23 @@
 <deepord>21</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1477-001-p1s0a18</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1477-001-p1s0a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1477-001-p1s3a26">
@@ -871,7 +928,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj1477-001-p1s3a27">
+<children>
+<LM id="T-wsj1477-001-p1s3a27">
 <a>
 <lex.rf>a#a-wsj1477-001-p1s3W27-Ta</lex.rf>
 </a>
@@ -882,6 +940,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>24</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1477-001-p1s3a30">
@@ -903,13 +962,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Citizens, based in Atlanta, said it has about $4.6 billion in factored sales annually; the Security Pacific unit has about $1.8 billion annually.</eng_sentence>
 </LM>
 <LM id="T-wsj1477-001-p1s4">
 <atree.rf>a#a-wsj1477-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1477-001-p1s4a1">
+<children>
+<LM id="T-wsj1477-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj1477-001-p1s4W6-Ta</lex.rf>
 </a>
@@ -957,7 +1018,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1477-001-p1s4a20">
+<children>
+<LM id="T-wsj1477-001-p1s4a20">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -989,25 +1051,31 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1477-001-p1s3a23</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 <LM id="T-wsj1477-001-p1s4a21">
 <a>
-<aux.rf>a#a-wsj1477-001-p1s4W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1477-001-p1s4W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#EmpNoun</t_lemma>
 <functor>RESTR</functor>
 <deepord>8</deepord>
-<children id="T-wsj1477-001-p1s4a9">
+<children>
+<LM id="T-wsj1477-001-p1s4a9">
 <a>
 <lex.rf>a#a-wsj1477-001-p1s4W8-Ta</lex.rf>
 </a>
@@ -1018,6 +1086,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1477-001-p1s4a8">
@@ -1031,10 +1100,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1477-001-p1s4a11">
+<children>
+<LM id="T-wsj1477-001-p1s4a11">
 <a>
 <lex.rf>a#a-wsj1477-001-p1s4W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1477-001-p1s4W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1477-001-p1s4W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -1043,10 +1115,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1477-001-p1s4a13">
+<children>
+<LM id="T-wsj1477-001-p1s4a13">
 <a>
 <lex.rf>a#a-wsj1477-001-p1s4W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1477-001-p1s4W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1477-001-p1s4W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>průmysl</t_lemma>
@@ -1055,7 +1130,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj1477-001-p1s4a14">
+<children>
+<LM id="T-wsj1477-001-p1s4a14">
 <a>
 <lex.rf>a#a-wsj1477-001-p1s4W16-Ta</lex.rf>
 </a>
@@ -1104,11 +1180,15 @@
 <deepord>15</deepord>
 </LM>
 </children>
-</children>
-</children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Security Pacific's factoring business works with companies in the apparel, textile and food industries, among others.</eng_sentence>
 </LM>

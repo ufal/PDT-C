@@ -11,10 +11,13 @@
 <LM id="T-wsj0200-001-p1s0">
 <atree.rf>a#a-wsj0200-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0200-001-p1s0a1">
+<children>
+<LM id="T-wsj0200-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0200-001-p1s0W40-Ta</lex.rf>
-<aux.rf>a#a-wsj0200-001-p1s0W31-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0200-001-p1s0W31-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5245f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -35,7 +38,9 @@
 <LM id="T-wsj0200-001-p1s0a4">
 <a>
 <lex.rf>a#a-wsj0200-001-p1s0W2-Ta</lex.rf>
-<aux.rf>a#a-wsj0200-001-p1s0W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0200-001-p1s0W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>recenze</t_lemma>
@@ -68,15 +73,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0200-001-p1s0a10">
 <a>
 <lex.rf>a#a-wsj0200-001-p1s0W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0200-001-p1s0W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0200-001-p1s0W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>divadlo</t_lemma>
@@ -135,8 +138,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0200-001-p1s0a49">
@@ -179,7 +184,9 @@
 <LM id="T-wsj0200-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj0200-001-p1s0W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0200-001-p1s0W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0200-001-p1s0W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>scéna</t_lemma>
@@ -189,10 +196,13 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>12</deepord>
-<children id="T-wsj0200-001-p1s0a21">
+<children>
+<LM id="T-wsj0200-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj0200-001-p1s0W20-Ta</lex.rf>
-<aux.rf>a#a-wsj0200-001-p1s0W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0200-001-p1s0W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>město</t_lemma>
@@ -202,7 +212,8 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>15</deepord>
-<children id="T-wsj0200-001-p1s0a22">
+<children>
+<LM id="T-wsj0200-001-p1s0a22">
 <a>
 <lex.rf>a#a-wsj0200-001-p1s0W19-Ta</lex.rf>
 </a>
@@ -214,7 +225,9 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>13</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -271,7 +284,9 @@
 <LM id="T-wsj0200-001-p1s0a29">
 <a>
 <lex.rf>a#a-wsj0200-001-p1s0W30-Ta</lex.rf>
-<aux.rf>a#a-wsj0200-001-p1s0W27-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0200-001-p1s0W27-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>říjen</t_lemma>
@@ -280,10 +295,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj0200-001-p1s0a30">
+<children>
+<LM id="T-wsj0200-001-p1s0a30">
 <a>
 <lex.rf>a#a-wsj0200-001-p1s0W28-Ta</lex.rf>
-<aux.rf>a#a-wsj0200-001-p1s0W29-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0200-001-p1s0W29-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>19</t_lemma>
@@ -292,6 +310,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>20</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -331,7 +350,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj0200-001-p1s0a39">
+<children>
+<LM id="T-wsj0200-001-p1s0a39">
 <a>
 <lex.rf>a#a-wsj0200-001-p1s0W37-Ta</lex.rf>
 </a>
@@ -342,7 +362,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>26</deepord>
-<children id="T-wsj0200-001-p1s0a36">
+<children>
+<LM id="T-wsj0200-001-p1s0a36">
 <a>
 <lex.rf>a#a-wsj0200-001-p1s0W36-Ta</lex.rf>
 </a>
@@ -353,7 +374,9 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -381,7 +404,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>30</deepord>
-<children id="T-wsj0200-001-p1s0a41">
+<children>
+<LM id="T-wsj0200-001-p1s0a41">
 <a>
 <lex.rf>a#a-wsj0200-001-p1s0W41-Ta</lex.rf>
 </a>
@@ -392,19 +416,24 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>29</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>In an Oct. 19 review of ``The Misanthrope'' at Chicago's Goodman Theatre (``Revitalized Classics Take the Stage in Windy City,'' Leisure &amp; Arts), the role of Celimene, played by Kim Cattrall, was mistakenly attributed to Christina Haag.</eng_sentence>
 </LM>
 <LM id="T-wsj0200-001-p1s1">
 <atree.rf>a#a-wsj0200-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0200-001-p1s1a1">
+<children>
+<LM id="T-wsj0200-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0200-001-p1s1W3-Ta</lex.rf>
-<aux.rf>a#a-wsj0200-001-p1s1W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0200-001-p1s1W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4763f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -434,15 +463,19 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0200-001-p1s0a42</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0200-001-p1s1a5">
 <a>
 <lex.rf>a#a-wsj0200-001-p1s1W5-Ta</lex.rf>
-<aux.rf>a#a-wsj0200-001-p1s1W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0200-001-p1s1W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>role</t_lemma>
@@ -451,7 +484,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0200-001-p1s1a8">
+<children>
+<LM id="T-wsj0200-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj0200-001-p1s1W6-Ta</lex.rf>
 </a>
@@ -462,9 +496,11 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Ms. Haag plays Elianti.</eng_sentence>
 </LM>

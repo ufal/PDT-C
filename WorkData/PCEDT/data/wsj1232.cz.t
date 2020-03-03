@@ -11,10 +11,13 @@
 <LM id="T-wsj1232-001-p1s0">
 <atree.rf>a#a-wsj1232-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1232-001-p1s0a1">
+<children>
+<LM id="T-wsj1232-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1232-001-p1s0W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1232-001-p1s0W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1232-001-p1s0W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1344f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -69,9 +72,6 @@
 <deepord>4</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 <LM id="T-wsj1232-001-p1s0a7">
 <a>
@@ -100,7 +100,9 @@
 <LM id="T-wsj1232-001-p1s0a10">
 <a>
 <lex.rf>a#a-wsj1232-001-p1s0W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1232-001-p1s0W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1232-001-p1s0W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>ředitelství</t_lemma>
@@ -160,8 +162,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>Coref</type>
 <text>odkaz na něco v předchozím kontextu, který zde ale chybí</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -169,13 +173,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Walter M. Brady was named a senior vice president of this insurer in the Canadian head office.</eng_sentence>
 </LM>
 <LM id="T-wsj1232-001-p1s1">
 <atree.rf>a#a-wsj1232-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1232-001-p1s1a1">
+<children>
+<LM id="T-wsj1232-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1232-001-p1s1W4-Ta</lex.rf>
 </a>
@@ -198,15 +204,19 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1232-001-p1s0a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1232-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj1232-001-p1s1W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1232-001-p1s1W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1232-001-p1s1W1-Ta</LM>
+</aux.rf>
 </a>
 <coref_special>segm</coref_special>
 <nodetype>complex</nodetype>
@@ -216,7 +226,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1232-001-p1s1a4">
+<children>
+<LM id="T-wsj1232-001-p1s1a4">
 <a>
 <lex.rf>a#a-wsj1232-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -227,6 +238,7 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1232-001-p1s1a5">
@@ -240,7 +252,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1232-001-p1s1a6">
+<children>
+<LM id="T-wsj1232-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj1232-001-p1s1W6-Ta</lex.rf>
 </a>
@@ -251,16 +264,19 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>He had been vice president in that office.</eng_sentence>
 </LM>
 <LM id="T-wsj1232-001-p1s2">
 <atree.rf>a#a-wsj1232-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1232-001-p1s2a1">
+<children>
+<LM id="T-wsj1232-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1232-001-p1s2W9-Ta</lex.rf>
 </a>
@@ -272,7 +288,9 @@
 <LM id="T-wsj1232-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj1232-001-p1s2W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1232-001-p1s2W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1232-001-p1s2W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1344f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -321,9 +339,6 @@
 <deepord>3</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 <LM id="T-wsj1232-001-p1s2a20">
 <nodetype>qcomplex</nodetype>
@@ -343,7 +358,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1232-001-p1s2a9">
+<children>
+<LM id="T-wsj1232-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj1232-001-p1s2W7-Ta</lex.rf>
 </a>
@@ -354,6 +370,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -382,9 +399,11 @@
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1232-001-p1s2a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1232-001-p1s2a13">
@@ -419,7 +438,9 @@
 <LM id="T-wsj1232-001-p1s2a16">
 <a>
 <lex.rf>a#a-wsj1232-001-p1s2W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1232-001-p1s2W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1232-001-p1s2W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>služba</t_lemma>
@@ -457,23 +478,29 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>John B. Foy was named senior vice president and remains responsible for the individual policy services department.</eng_sentence>
 </LM>
 <LM id="T-wsj1232-001-p1s3">
 <atree.rf>a#a-wsj1232-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1232-001-p1s3a1">
+<children>
+<LM id="T-wsj1232-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1232-001-p1s3W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1232-001-p1s3W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1232-001-p1s3W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1344f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -564,10 +591,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1232-001-p1s3a11">
+<children>
+<LM id="T-wsj1232-001-p1s3a11">
 <a>
 <lex.rf>a#a-wsj1232-001-p1s3W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1232-001-p1s3W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1232-001-p1s3W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>oddělení</t_lemma>
@@ -576,10 +606,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1232-001-p1s3a13">
+<children>
+<LM id="T-wsj1232-001-p1s3a13">
 <a>
 <lex.rf>a#a-wsj1232-001-p1s3W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1232-001-p1s3W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1232-001-p1s3W12-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w953f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -611,26 +644,34 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Frank J. Ollari was named senior vice president in charge of the mortgage finance department.</eng_sentence>
 </LM>
 <LM id="T-wsj1232-001-p1s4">
 <atree.rf>a#a-wsj1232-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1232-001-p1s4a1">
+<children>
+<LM id="T-wsj1232-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj1232-001-p1s4W4-Ta</lex.rf>
 </a>
@@ -653,15 +694,19 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1232-001-p1s3a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1232-001-p1s4a3">
 <a>
 <lex.rf>a#a-wsj1232-001-p1s4W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1232-001-p1s4W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1232-001-p1s4W1-Ta</LM>
+</aux.rf>
 </a>
 <coref_special>segm</coref_special>
 <nodetype>complex</nodetype>
@@ -671,7 +716,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1232-001-p1s4a4">
+<children>
+<LM id="T-wsj1232-001-p1s4a4">
 <a>
 <lex.rf>a#a-wsj1232-001-p1s4W2-Ta</lex.rf>
 </a>
@@ -682,6 +728,7 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1232-001-p1s4a5">
@@ -695,7 +742,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1232-001-p1s4a6">
+<children>
+<LM id="T-wsj1232-001-p1s4a6">
 <a>
 <lex.rf>a#a-wsj1232-001-p1s4W7-Ta</lex.rf>
 </a>
@@ -722,7 +770,9 @@
 <LM id="T-wsj1232-001-p1s4a8">
 <a>
 <lex.rf>a#a-wsj1232-001-p1s4W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1232-001-p1s4W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1232-001-p1s4W10-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2341f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -737,7 +787,9 @@
 <a>
 <lex.rf>a#a-wsj1232-001-p1s4W9-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1232-001-p1s4a6</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1232-001-p1s4a6</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -769,7 +821,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1232-001-p1s4a14">
+<children>
+<LM id="T-wsj1232-001-p1s4a14">
 <a>
 <lex.rf>a#a-wsj1232-001-p1s4W14-Ta</lex.rf>
 </a>
@@ -780,27 +833,36 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1232-001-p1s3a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>He had been vice president of the department, which was formerly called the real estate department.</eng_sentence>
 </LM>

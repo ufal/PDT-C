@@ -11,10 +11,13 @@
 <LM id="T-wsj0424-001-p1s0">
 <atree.rf>a#a-wsj0424-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0424-001-p1s0a1">
+<children>
+<LM id="T-wsj0424-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0424-001-p1s0W6-Ta</lex.rf>
-<aux.rf>a#a-wsj0424-001-p1s0W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0424-001-p1s0W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9986f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -73,7 +76,9 @@
 <LM id="T-wsj0424-001-p1s0a8">
 <a>
 <lex.rf>a#a-wsj0424-001-p1s0W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0424-001-p1s0W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0424-001-p1s0W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rada</t_lemma>
@@ -130,7 +135,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0424-001-p1s0a13">
+<children>
+<LM id="T-wsj0424-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj0424-001-p1s0W12-Ta</lex.rf>
 </a>
@@ -141,24 +147,29 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>Coref</type>
 <text>odkaz na něco v předchozím kontextu, který zde ale chybí</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Vernon E. Jordan was elected to the board of this transportation services concern.</eng_sentence>
 </LM>
 <LM id="T-wsj0424-001-p1s1">
 <atree.rf>a#a-wsj0424-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0424-001-p1s1a2">
+<children>
+<LM id="T-wsj0424-001-p1s1a2">
 <a>
 <lex.rf>a#a-wsj0424-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -183,9 +194,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0424-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0424-001-p1s1a16">
@@ -200,9 +213,13 @@
 <LM id="T-wsj0424-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj0424-001-p1s1W5-Ta</lex.rf>
-<aux.rf>a#a-wsj0424-001-p1s1W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0424-001-p1s1W3-Ta</LM>
+</aux.rf>
 </a>
-<compl.rf>T-wsj0424-001-p1s1a3</compl.rf>
+<compl.rf>
+<LM>T-wsj0424-001-p1s1a3</LM>
+</compl.rf>
 <nodetype>complex</nodetype>
 <t_lemma>ředitel</t_lemma>
 <functor>COMPL</functor>
@@ -235,7 +252,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0424-001-p1s1a30">
+<children>
+<LM id="T-wsj0424-001-p1s1a30">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -288,6 +306,7 @@
 <deepord>10</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -295,9 +314,13 @@
 <LM id="T-wsj0424-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj0424-001-p1s1W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0424-001-p1s1W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0424-001-p1s1W3-Ta</LM>
+</aux.rf>
 </a>
-<compl.rf>T-wsj0424-001-p1s1a3</compl.rf>
+<compl.rf>
+<LM>T-wsj0424-001-p1s1a3</LM>
+</compl.rf>
 <nodetype>complex</nodetype>
 <t_lemma>ředitel</t_lemma>
 <functor>COMPL</functor>
@@ -306,7 +329,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0424-001-p1s1a13">
+<children>
+<LM id="T-wsj0424-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj0424-001-p1s1W13-Ta</lex.rf>
 </a>
@@ -352,8 +376,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0424-001-p1s1a17">
@@ -379,10 +405,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0424-001-p1s1a19">
 <a>
@@ -399,14 +421,19 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0424-001-p1s1a20">
 <a>
 <lex.rf>a#a-wsj0424-001-p1s1W21-Ta</lex.rf>
-<aux.rf>a#a-wsj0424-001-p1s1W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0424-001-p1s1W3-Ta</LM>
+</aux.rf>
 </a>
-<compl.rf>T-wsj0424-001-p1s1a3</compl.rf>
+<compl.rf>
+<LM>T-wsj0424-001-p1s1a3</LM>
+</compl.rf>
 <nodetype>complex</nodetype>
 <t_lemma>konzultant</t_lemma>
 <functor>COMPL</functor>
@@ -431,7 +458,9 @@
 <LM id="T-wsj0424-001-p1s1a23">
 <a>
 <lex.rf>a#a-wsj0424-001-p1s1W23-Ta</lex.rf>
-<aux.rf>a#a-wsj0424-001-p1s1W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0424-001-p1s1W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Úřad</t_lemma>
@@ -452,7 +481,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj0424-001-p1s1a25">
+<children>
+<LM id="T-wsj0424-001-p1s1a25">
 <a>
 <lex.rf>a#a-wsj0424-001-p1s1W24-Ta</lex.rf>
 </a>
@@ -463,16 +493,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0424-001-p1s1a27">
 <a>
 <lex.rf>a#a-wsj0424-001-p1s1W28-Ta</lex.rf>
-<aux.rf>a#a-wsj0424-001-p1s1W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0424-001-p1s1W26-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>příležitost</t_lemma>
@@ -481,7 +510,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>26</deepord>
-<children id="T-wsj0424-001-p1s1a28">
+<children>
+<LM id="T-wsj0424-001-p1s1a28">
 <a>
 <lex.rf>a#a-wsj0424-001-p1s1W27-Ta</lex.rf>
 </a>
@@ -492,29 +522,30 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>25</deepord>
-</children>
-</LM>
-</children>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Mr. Jordan has served as executive director of the United Negro College Fund, director of the Voter Education Project of the Southern Regional Council and attorney-consultant to the U.S. Office of Economic Opportunity.</eng_sentence>
 </LM>
 <LM id="T-wsj0424-001-p1s2">
 <atree.rf>a#a-wsj0424-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0424-001-p1s2a1">
+<children>
+<LM id="T-wsj0424-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0424-001-p1s2W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0424-001-p1s2W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0424-001-p1s2W3-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w10007f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -550,9 +581,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0424-001-p1s1a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0424-001-p1s2a13">
@@ -564,8 +597,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0424-001-p1s2a6">
@@ -579,7 +614,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0424-001-p1s2a7">
+<children>
+<LM id="T-wsj0424-001-p1s2a7">
 <a>
 <lex.rf>a#a-wsj0424-001-p1s2W5-Ta</lex.rf>
 </a>
@@ -590,7 +626,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0424-001-p1s2a8">
+<children>
+<LM id="T-wsj0424-001-p1s2a8">
 <a>
 <lex.rf>a#a-wsj0424-001-p1s2W7-Ta</lex.rf>
 </a>
@@ -625,7 +662,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0424-001-p1s2a5">
+<children>
+<LM id="T-wsj0424-001-p1s2a5">
 <a>
 <lex.rf>a#a-wsj0424-001-p1s2W9-Ta</lex.rf>
 </a>
@@ -636,26 +674,35 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0424-001-p1s0a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0424-001-p1s0a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0424-001-p1s2a12">
 <a>
 <lex.rf>a#a-wsj0424-001-p1s2W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0424-001-p1s2W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0424-001-p1s2W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>14</t_lemma>
@@ -666,6 +713,7 @@
 <deepord>11</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>His election increases Ryder's board to 14 members.</eng_sentence>
 </LM>

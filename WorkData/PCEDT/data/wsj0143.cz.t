@@ -11,7 +11,8 @@
 <LM id="T-wsj0143-001-p1s0">
 <atree.rf>a#a-wsj0143-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0143-001-p1s0a1">
+<children>
+<LM id="T-wsj0143-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0143-001-p1s0W7-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0143-001-p1s0a21">
+<children>
+<LM id="T-wsj0143-001-p1s0a21">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -94,12 +96,15 @@
 <deepord>7</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0143-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj0143-001-p1s0W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0143-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0143-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>pohledávka</t_lemma>
@@ -108,10 +113,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0143-001-p1s0a11">
+<children>
+<LM id="T-wsj0143-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj0143-001-p1s0W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0143-001-p1s0W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0143-001-p1s0W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodnota</t_lemma>
@@ -120,7 +128,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0143-001-p1s0a14">
+<children>
+<LM id="T-wsj0143-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj0143-001-p1s0W14-Ta</lex.rf>
 </a>
@@ -143,7 +152,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj0143-001-p1s0a13">
+<children>
+<LM id="T-wsj0143-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj0143-001-p1s0W12-Ta</lex.rf>
 </a>
@@ -154,6 +164,7 @@
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0143-001-p1s0a15">
@@ -169,7 +180,9 @@
 <deepord>14</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0143-001-p1s0a16">
@@ -186,14 +199,17 @@
 </LM>
 <LM id="T-wsj0143-001-p1s0a22">
 <a>
-<aux.rf>a#a-wsj0143-001-p1s0W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0143-001-p1s0W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Idph</t_lemma>
 <functor>EFF</functor>
 <deepord>16</deepord>
-<children id="T-wsj0143-001-p1s0a18">
+<children>
+<LM id="T-wsj0143-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj0143-001-p1s0W18-Ta</lex.rf>
 </a>
@@ -204,18 +220,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0143-001-p1s0a23">
 <a>
-<aux.rf>a#a-wsj0143-001-p1s0W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0143-001-p1s0W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Idph</t_lemma>
 <functor>ORIG</functor>
 <deepord>18</deepord>
-<children id="T-wsj0143-001-p1s0a20">
+<children>
+<LM id="T-wsj0143-001-p1s0a20">
 <a>
 <lex.rf>a#a-wsj0143-001-p1s0W20-Ta</lex.rf>
 </a>
@@ -226,19 +246,19 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Standard &amp; Poor's Corp. lowered to double-C from triple-C the rating on about $130 million of debt.</eng_sentence>
 </LM>
 <LM id="T-wsj0143-001-p1s1">
 <atree.rf>a#a-wsj0143-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0143-001-p1s1a1">
+<children>
+<LM id="T-wsj0143-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0143-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -269,7 +289,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0143-001-p1s1a3">
+<children>
+<LM id="T-wsj0143-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj0143-001-p1s1W1-Ta</lex.rf>
 </a>
@@ -280,6 +301,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0143-001-p1s1a6">
@@ -294,7 +316,9 @@
 <LM id="T-wsj0143-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj0143-001-p1s1W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0143-001-p1s1W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0143-001-p1s1W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5055f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -393,13 +417,17 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0143-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <str_comment>
+<LM>
 <name>OTHER</name>
 <comment>Tady se mi zdá, jestli ten překlad u antecedentu není špatně, ale nevím, anotuji to tak, jak je to přeložené.</comment>
+</LM>
 </str_comment>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -415,7 +443,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj0143-001-p1s1a16">
+<children>
+<LM id="T-wsj0143-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj0143-001-p1s1W14-Ta</lex.rf>
 </a>
@@ -426,12 +455,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0143-001-p1s1a19">
 <a>
 <lex.rf>a#a-wsj0143-001-p1s1W19-Ta</lex.rf>
-<aux.rf>a#a-wsj0143-001-p1s1W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0143-001-p1s1W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rozmezí</t_lemma>
@@ -440,7 +472,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj0143-001-p1s1a20">
+<children>
+<LM id="T-wsj0143-001-p1s1a20">
 <a>
 <lex.rf>a#a-wsj0143-001-p1s1W18-Ta</lex.rf>
 </a>
@@ -451,6 +484,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>15</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -458,7 +492,9 @@
 <LM id="T-wsj0143-001-p1s1a22">
 <a>
 <lex.rf>a#a-wsj0143-001-p1s1W22-Ta</lex.rf>
-<aux.rf>a#a-wsj0143-001-p1s1W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0143-001-p1s1W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9317f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -480,9 +516,11 @@
 </gram>
 <deepord>18</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0143-001-p1s1a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0143-001-p1s1a23">
@@ -521,15 +559,19 @@
 </gram>
 <deepord>22</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0143-001-p1s1a42</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0143-001-p1s1a27">
 <a>
 <lex.rf>a#a-wsj0143-001-p1s1W27-Ta</lex.rf>
-<aux.rf>a#a-wsj0143-001-p1s1W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0143-001-p1s1W26-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9372f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -550,9 +592,11 @@
 </gram>
 <deepord>23</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0143-001-p1s1a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0143-001-p1s1a40">
@@ -564,14 +608,18 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0143-001-p1s1a29">
 <a>
 <lex.rf>a#a-wsj0143-001-p1s1W29-Ta</lex.rf>
-<aux.rf>a#a-wsj0143-001-p1s1W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0143-001-p1s1W28-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výše</t_lemma>
@@ -580,7 +628,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>26</deepord>
-<children id="T-wsj0143-001-p1s1a31">
+<children>
+<LM id="T-wsj0143-001-p1s1a31">
 <a>
 <lex.rf>a#a-wsj0143-001-p1s1W31-Ta</lex.rf>
 </a>
@@ -617,12 +666,15 @@
 <deepord>29</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0143-001-p1s1a34">
 <a>
 <lex.rf>a#a-wsj0143-001-p1s1W35-Ta</lex.rf>
-<aux.rf>a#a-wsj0143-001-p1s1W33-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0143-001-p1s1W33-Ta</LM>
+</aux.rf>
 </a>
 <coref_special>exoph</coref_special>
 <nodetype>complex</nodetype>
@@ -656,7 +708,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>32</deepord>
-<children id="T-wsj0143-001-p1s1a37">
+<children>
+<LM id="T-wsj0143-001-p1s1a37">
 <a>
 <lex.rf>a#a-wsj0143-001-p1s1W39-Ta</lex.rf>
 </a>
@@ -667,10 +720,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>34</deepord>
-<children id="T-wsj0143-001-p1s1a38">
+<children>
+<LM id="T-wsj0143-001-p1s1a38">
 <a>
 <lex.rf>a#a-wsj0143-001-p1s1W37-Ta</lex.rf>
-<aux.rf>a#a-wsj0143-001-p1s1W38-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0143-001-p1s1W38-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>30</t_lemma>
@@ -679,8 +735,6 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>33</deepord>
-</children>
-</children>
 </LM>
 </children>
 </LM>
@@ -691,6 +745,11 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The rating concern said the textile and clothing company's interest expense exceeds operating profit ``by a wide margin'' and it noted United's estimated after-tax loss of $24 million for the year ended June 30.</eng_sentence>
 </LM>

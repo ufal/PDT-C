@@ -742,11 +742,6 @@
 <src>LH</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -841,11 +836,6 @@
 <src>LH</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1966,11 +1956,6 @@
 <src>LH</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2418-001-p1s8a13">
 <a>
@@ -3438,11 +3423,6 @@
 <src>LH</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4393,11 +4373,6 @@
 <sempos>adv.pron.def</sempos>
 </gram>
 <deepord>7</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -6930,12 +6905,6 @@
 <src>LH</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Kay</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2418-001-p1s28a4">
 <a>
@@ -7428,12 +7397,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>rádium</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8029,12 +7992,6 @@
 <src>LH</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Kay</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2418-001-p1s32a21">
 <a>
@@ -8990,12 +8947,6 @@
 <src>LH</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Kay</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2418-001-p1s35a14">
 <a>
@@ -10581,12 +10532,6 @@
 <src>LH</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Justýna</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -12842,11 +12787,6 @@
 <deepord>31</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -13421,12 +13361,6 @@
 <src>LH</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Kay</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2418-001-p1s53a6">
 <a>
@@ -13609,12 +13543,6 @@
 <src>LH</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Kay</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2418-001-p1s54a19">
 <a>

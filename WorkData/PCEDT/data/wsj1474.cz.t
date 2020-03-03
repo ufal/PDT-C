@@ -487,12 +487,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>t-lemma slovesa (ale označeno jako adj.)</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -825,12 +819,6 @@
 </annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>Považováno za subst.</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4387,12 +4375,6 @@ Mají na to slabou pozici.</text>
 <deepord>14</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerované t-lemma: zmocnět</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4597,11 +4579,6 @@ Mají na to slabou pozici.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1474-001-p1s15a17">
 <a>
@@ -5371,12 +5348,6 @@ Mají na to slabou pozici.</text>
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1474-001-p1s18a21">
 <a>
@@ -5520,12 +5491,6 @@ Mají na to slabou pozici.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velká písmena</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -5979,12 +5944,6 @@ Mají na to slabou pozici.</text>
 <deepord>5</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vygenerováno slovesné t-lemma</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6380,12 +6339,6 @@ Mají na to slabou pozici.</text>
 <deepord>1</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerované t-lemma: Brod</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1474-001-p1s23a35">
 <a>
@@ -6788,11 +6741,6 @@ Mají na to slabou pozici.</text>
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6875,12 +6823,6 @@ Mají na to slabou pozici.</text>
 <src>LH</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Opraveno z: Brod</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1474-001-p1s24a8">
 <a>
@@ -7680,12 +7622,6 @@ Mají na to slabou pozici.</text>
 <src>LH</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>opraveno z: Brod</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1474-001-p1s27a4">
 <a>
@@ -8197,12 +8133,6 @@ Mají na to slabou pozici.</text>
 <src>LH</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>opraveno z: Brod</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8367,11 +8297,6 @@ Mají na to slabou pozici.</text>
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -9008,12 +8933,6 @@ Mají na to slabou pozici.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>29</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velká písmena</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -10739,11 +10658,6 @@ Mají na to slabou pozici.</text>
 <sempos>v</sempos>
 </gram>
 <deepord>8</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -10956,12 +10870,6 @@ Mají na to slabou pozici.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velká písmena</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -11096,12 +11004,6 @@ Mají na to slabou pozici.</text>
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>považováno za adjektivum</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1474-001-p1s40a6">
 <a>
@@ -12164,12 +12066,6 @@ Mají na to slabou pozici.</text>
 <deepord>2</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>opraveno z: hurda</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1474-001-p1s44a5">
 <a>
@@ -12396,12 +12292,6 @@ Mají na to slabou pozici.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

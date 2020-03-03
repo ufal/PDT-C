@@ -521,12 +521,6 @@
 <deepord>34</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>akuzativ</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0095-001-p1s0a53">
 <a>
@@ -1723,12 +1717,6 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatně utvořený infinitiv: povést_se</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

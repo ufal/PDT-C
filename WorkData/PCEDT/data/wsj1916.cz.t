@@ -2052,16 +2052,6 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <deepord>39</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno jako více uzlů</text>
-</LM>
-<LM>
-<type>Word segmentation</type>
-<text>1 v 3</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1916-001-p1s5a51">
 <a>
@@ -2123,12 +2113,6 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>45</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1916-001-p1s5a56">
 <a>
@@ -2229,12 +2213,6 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>54</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno t-lemma bez s</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2291,12 +2269,6 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>chybělo s</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1916-001-p1s6a5">
 <a>
@@ -3407,12 +3379,6 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno: pater</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1916-001-p1s9a18">
 <a>
@@ -3840,16 +3806,6 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno jako více uzlů</text>
-</LM>
-<LM>
-<type>Word segmentation</type>
-<text>1 v 3</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4035,12 +3991,6 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>adjektivum považováno za substantivum</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -4515,16 +4465,6 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno jako více uzlů</text>
-</LM>
-<LM>
-<type>Word segmentation</type>
-<text>1 v 3</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1916-001-p1s13a30">
 <a>
@@ -6455,12 +6395,6 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno bez s</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1916-001-p1s19a5">
 <a>
@@ -6532,12 +6466,6 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6733,12 +6661,6 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>původně záporné t-lemma</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1916-001-p1s20a44">
 <a>
@@ -7627,12 +7549,6 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerována t-lemma: nakloněný (ale označeno za sloveso)</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7735,12 +7651,6 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno t-lemma bez s</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1916-001-p1s23a8">
 <a>
@@ -7788,12 +7698,6 @@ Existují i jiné následky, které vyvolávají závažné otázky.</text>
 <deepord>4</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno: draga</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1916-001-p1s23a9">
 <a>
@@ -9086,12 +8990,6 @@ Následky zemětřesení vyvolávají otázky.</text>
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno: draga</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1916-001-p1s28a6">
 <a>
@@ -10176,12 +10074,6 @@ Následky zemětřesení vyvolávají otázky.</text>
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno: draga</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

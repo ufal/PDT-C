@@ -11,7 +11,8 @@
 <LM id="T-wsj1060-001-p1s0">
 <atree.rf>a#a-wsj1060-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1060-001-p1s0a1">
+<children>
+<LM id="T-wsj1060-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1060-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1060-001-p1s0a24">
+<children>
+<LM id="T-wsj1060-001-p1s0a24">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -79,6 +81,7 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1060-001-p1s0a7">
@@ -92,7 +95,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1060-001-p1s0a19">
+<children>
+<LM id="T-wsj1060-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj1060-001-p1s0W19-Ta</lex.rf>
 </a>
@@ -113,7 +117,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1060-001-p1s0a25">
+<children>
+<LM id="T-wsj1060-001-p1s0a25">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -214,6 +219,7 @@
 <deepord>20</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1060-001-p1s0a20">
@@ -252,7 +258,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj1060-001-p1s0a23">
+<children>
+<LM id="T-wsj1060-001-p1s0a23">
 <a>
 <lex.rf>a#a-wsj1060-001-p1s0W22-Ta</lex.rf>
 </a>
@@ -263,24 +270,30 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>24</deepord>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
-</children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Concord Camera Corp. completed the acquisition of Peter Bauser G.m.b. H., a West German photographic products distributor.</eng_sentence>
 </LM>
 <LM id="T-wsj1060-001-p1s1">
 <atree.rf>a#a-wsj1060-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1060-001-p1s1a4">
+<children>
+<LM id="T-wsj1060-001-p1s1a4">
 <a>
 <lex.rf>a#a-wsj1060-001-p1s1W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1060-001-p1s1W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1060-001-p1s1W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9966f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -318,16 +331,15 @@
 <deepord>4</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
+</LM>
 </children>
 <eng_sentence>Terms weren't disclosed.</eng_sentence>
 </LM>
 <LM id="T-wsj1060-001-p1s2">
 <atree.rf>a#a-wsj1060-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1060-001-p1s2a2">
+<children>
+<LM id="T-wsj1060-001-p1s2a2">
 <a>
 <lex.rf>a#a-wsj1060-001-p1s2W3-Ta</lex.rf>
 </a>
@@ -351,7 +363,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1060-001-p1s2a3">
+<children>
+<LM id="T-wsj1060-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj1060-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -362,11 +375,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1060-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1060-001-p1s2a5">
@@ -380,7 +396,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1060-001-p1s2a7">
+<children>
+<LM id="T-wsj1060-001-p1s2a7">
 <a>
 <lex.rf>a#a-wsj1060-001-p1s2W5-Ta</lex.rf>
 </a>
@@ -391,7 +408,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1060-001-p1s2a1">
+<children>
+<LM id="T-wsj1060-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1060-001-p1s2W7-Ta</lex.rf>
 </a>
@@ -425,7 +443,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1060-001-p1s2a9">
+<children>
+<LM id="T-wsj1060-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj1060-001-p1s2W8-Ta</lex.rf>
 </a>
@@ -436,13 +455,17 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 </children>
-</children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Concord is a camera and photographic products company.</eng_sentence>
 </LM>

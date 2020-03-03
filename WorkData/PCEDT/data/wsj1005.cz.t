@@ -11,7 +11,8 @@
 <LM id="T-wsj1005-001-p1s0">
 <atree.rf>a#a-wsj1005-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1005-001-p1s0a1">
+<children>
+<LM id="T-wsj1005-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1005-001-p1s0W8-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1005-001-p1s0a31">
+<children>
+<LM id="T-wsj1005-001-p1s0a31">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -103,6 +105,7 @@
 <deepord>9</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1005-001-p1s0a9">
@@ -120,7 +123,9 @@
 <LM id="T-wsj1005-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj1005-001-p1s0W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1005-001-p1s0W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1005-001-p1s0W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodnota</t_lemma>
@@ -129,7 +134,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1005-001-p1s0a13">
+<children>
+<LM id="T-wsj1005-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj1005-001-p1s0W13-Ta</lex.rf>
 </a>
@@ -166,12 +172,15 @@
 <deepord>14</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1005-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj1005-001-p1s0W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1005-001-p1s0W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1005-001-p1s0W15-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7766f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -192,9 +201,11 @@
 </gram>
 <deepord>15</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1005-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1005-001-p1s0a17">
@@ -232,7 +243,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1005-001-p1s0a30">
+<children>
+<LM id="T-wsj1005-001-p1s0a30">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -261,6 +273,7 @@
 <deepord>22</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -300,16 +313,15 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<annot_comment>
-<type>M-tag</type>
-</annot_comment>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -317,7 +329,9 @@
 <LM id="T-wsj1005-001-p1s0a26">
 <a>
 <lex.rf>a#a-wsj1005-001-p1s0W26-Ta</lex.rf>
-<aux.rf>a#a-wsj1005-001-p1s0W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1005-001-p1s0W25-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -326,7 +340,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>26</deepord>
-<children id="T-wsj1005-001-p1s0a34">
+<children>
+<LM id="T-wsj1005-001-p1s0a34">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -367,16 +382,19 @@
 <deepord>30</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Allied-Signal Aerospace Co. received a $65 million contract to outfit Continental Airlines' 393 planes with the Bendix/King Traffic Alert and Collision Avoidance System.</eng_sentence>
 </LM>
 <LM id="T-wsj1005-001-p1s1">
 <atree.rf>a#a-wsj1005-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1005-001-p1s1a1">
+<children>
+<LM id="T-wsj1005-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1005-001-p1s1W5-Ta</lex.rf>
 </a>
@@ -400,7 +418,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1005-001-p1s1a25">
+<children>
+<LM id="T-wsj1005-001-p1s1a25">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -441,11 +460,14 @@
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1005-001-p1s0a33</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1005-001-p1s1a8">
@@ -495,15 +517,19 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1005-001-p1s0a22</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1005-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj1005-001-p1s1W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1005-001-p1s1W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1005-001-p1s1W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4243f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -514,7 +540,8 @@
 <sempos>v</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1005-001-p1s1a15">
+<children>
+<LM id="T-wsj1005-001-p1s1a15">
 <a>
 <lex.rf>a#a-wsj1005-001-p1s1W16-Ta</lex.rf>
 <aux.rf>
@@ -555,12 +582,15 @@
 <deepord>14</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1005-001-p1s1a18">
 <a>
 <lex.rf>a#a-wsj1005-001-p1s1W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1005-001-p1s1W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1005-001-p1s1W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1254f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -587,7 +617,9 @@
 <LM id="T-wsj1005-001-p1s1a21">
 <a>
 <lex.rf>a#a-wsj1005-001-p1s1W22-Ta</lex.rf>
-<aux.rf>a#a-wsj1005-001-p1s1W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1005-001-p1s1W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>provoz</t_lemma>
@@ -596,7 +628,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1005-001-p1s1a22">
+<children>
+<LM id="T-wsj1005-001-p1s1a22">
 <a>
 <lex.rf>a#a-wsj1005-001-p1s1W21-Ta</lex.rf>
 </a>
@@ -607,20 +640,23 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>18</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The airborne system operates independent of ground-based radar systems, informing pilots of nearby aircraft, Allied-Signal said.</eng_sentence>
 </LM>
 <LM id="T-wsj1005-001-p1s2">
 <atree.rf>a#a-wsj1005-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1005-001-p1s2a1">
+<children>
+<LM id="T-wsj1005-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1005-001-p1s2W3-Ta</lex.rf>
 </a>
@@ -643,9 +679,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1005-001-p1s1a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1005-001-p1s2a2">
@@ -660,9 +698,11 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1005-001-p1s1a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1005-001-p1s2a3">
@@ -685,10 +725,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1005-001-p1s2a6">
+<children>
+<LM id="T-wsj1005-001-p1s2a6">
 <a>
 <lex.rf>a#a-wsj1005-001-p1s2W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1005-001-p1s2W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1005-001-p1s2W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>korekce</t_lemma>
@@ -697,7 +740,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1005-001-p1s2a7">
+<children>
+<LM id="T-wsj1005-001-p1s2a7">
 <a>
 <lex.rf>a#a-wsj1005-001-p1s2W7-Ta</lex.rf>
 </a>
@@ -708,17 +752,21 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-</children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The system also provides course-correction advisories.</eng_sentence>
 </LM>
 <LM id="T-wsj1005-001-p1s3">
 <atree.rf>a#a-wsj1005-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1005-001-p1s3a1">
+<children>
+<LM id="T-wsj1005-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1005-001-p1s3W5-Ta</lex.rf>
 </a>
@@ -742,7 +790,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1005-001-p1s3a30">
+<children>
+<LM id="T-wsj1005-001-p1s3a30">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -783,11 +832,14 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1005-001-p1s1a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1005-001-p1s3a6">
@@ -801,7 +853,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1005-001-p1s3a33">
+<children>
+<LM id="T-wsj1005-001-p1s3a33">
 <a>
 <lex.rf>a#a-wsj1005-001-p1s3W13-Ta</lex.rf>
 </a>
@@ -822,7 +875,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1005-001-p1s3a32">
+<children>
+<LM id="T-wsj1005-001-p1s3a32">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -881,6 +935,7 @@
 <deepord>15</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1005-001-p1s3a13">
@@ -895,10 +950,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj1005-001-p1s3a15">
+<children>
+<LM id="T-wsj1005-001-p1s3a15">
 <a>
 <lex.rf>a#a-wsj1005-001-p1s3W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1005-001-p1s3W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1005-001-p1s3W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zájem</t_lemma>
@@ -907,7 +965,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj1005-001-p1s3a21">
+<children>
+<LM id="T-wsj1005-001-p1s3a21">
 <a>
 <lex.rf>a#a-wsj1005-001-p1s3W25-Ta</lex.rf>
 </a>
@@ -919,7 +978,9 @@
 <LM id="T-wsj1005-001-p1s3a17">
 <a>
 <lex.rf>a#a-wsj1005-001-p1s3W21-Ta</lex.rf>
-<aux.rf>a#a-wsj1005-001-p1s3W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1005-001-p1s3W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>průmysl</t_lemma>
@@ -929,7 +990,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1005-001-p1s3a18">
+<children>
+<LM id="T-wsj1005-001-p1s3a18">
 <a>
 <lex.rf>a#a-wsj1005-001-p1s3W19-Ta</lex.rf>
 </a>
@@ -965,12 +1027,15 @@
 <deepord>21</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1005-001-p1s3a24">
 <a>
 <lex.rf>a#a-wsj1005-001-p1s3W24-Ta</lex.rf>
-<aux.rf>a#a-wsj1005-001-p1s3W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1005-001-p1s3W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výrobek</t_lemma>
@@ -980,7 +1045,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj1005-001-p1s3a25">
+<children>
+<LM id="T-wsj1005-001-p1s3a25">
 <a>
 <lex.rf>a#a-wsj1005-001-p1s3W23-Ta</lex.rf>
 </a>
@@ -991,12 +1057,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>23</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1005-001-p1s3a26">
 <a>
 <lex.rf>a#a-wsj1005-001-p1s3W27-Ta</lex.rf>
-<aux.rf>a#a-wsj1005-001-p1s3W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1005-001-p1s3W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>materiál</t_lemma>
@@ -1006,7 +1075,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>26</deepord>
-<children id="T-wsj1005-001-p1s3a27">
+<children>
+<LM id="T-wsj1005-001-p1s3a27">
 <a>
 <lex.rf>a#a-wsj1005-001-p1s3W26-Ta</lex.rf>
 </a>
@@ -1017,23 +1087,29 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>25</deepord>
+</LM>
 </children>
 </LM>
 </children>
-</children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Allied-Signal is a unit of Allied-Signal Inc., a manufacturer with interests in aerospace, automotive products and engineered materials.</eng_sentence>
 </LM>
 <LM id="T-wsj1005-001-p1s4">
 <atree.rf>a#a-wsj1005-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1005-001-p1s4a1">
+<children>
+<LM id="T-wsj1005-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj1005-001-p1s4W4-Ta</lex.rf>
 </a>
@@ -1057,7 +1133,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1005-001-p1s4a14">
+<children>
+<LM id="T-wsj1005-001-p1s4a14">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1086,11 +1163,14 @@
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1005-001-p1s0a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1005-001-p1s4a5">
@@ -1104,7 +1184,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1005-001-p1s4a6">
+<children>
+<LM id="T-wsj1005-001-p1s4a6">
 <a>
 <lex.rf>a#a-wsj1005-001-p1s4W6-Ta</lex.rf>
 </a>
@@ -1164,7 +1245,9 @@
 <LM id="T-wsj1005-001-p1s4a12">
 <a>
 <lex.rf>a#a-wsj1005-001-p1s4W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1005-001-p1s4W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1005-001-p1s4W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Houston</t_lemma>
@@ -1175,9 +1258,11 @@
 <deepord>13</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Continental Airlines is a unit of Texas Air Corp., Houston.</eng_sentence>
 </LM>

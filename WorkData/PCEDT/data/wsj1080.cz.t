@@ -11,7 +11,8 @@
 <LM id="T-wsj1080-001-p1s0">
 <atree.rf>a#a-wsj1080-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1080-001-p1s0a1">
+<children>
+<LM id="T-wsj1080-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1080-001-p1s0W5-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1080-001-p1s0a42">
+<children>
+<LM id="T-wsj1080-001-p1s0a42">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -70,12 +72,15 @@
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1080-001-p1s0a43">
 <a>
 <lex.rf>a#a-wsj1080-001-p1s0W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1080-001-p1s0W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1080-001-p1s0W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1855f43</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -89,7 +94,9 @@
 <LM id="T-wsj1080-001-p1s0a47">
 <a>
 <lex.rf>a#a-wsj1080-001-p1s0W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1080-001-p1s0W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1080-001-p1s0W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>dphr</nodetype>
 <t_lemma>v_plánu</t_lemma>
@@ -103,9 +110,11 @@
 <functor>ACT</functor>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1080-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1080-001-p1s0a9">
@@ -130,7 +139,8 @@
 <sempos>v</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1080-001-p1s0a13">
+<children>
+<LM id="T-wsj1080-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj1080-001-p1s0W14-Ta</lex.rf>
 </a>
@@ -167,6 +177,7 @@
 <deepord>12</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1080-001-p1s0a16">
@@ -194,7 +205,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1080-001-p1s0a17">
+<children>
+<LM id="T-wsj1080-001-p1s0a17">
 <a>
 <lex.rf>a#a-wsj1080-001-p1s0W18-Ta</lex.rf>
 </a>
@@ -205,7 +217,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1080-001-p1s0a18">
+<children>
+<LM id="T-wsj1080-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj1080-001-p1s0W17-Ta</lex.rf>
 </a>
@@ -213,13 +226,17 @@
 <t_lemma>až</t_lemma>
 <functor>RHEM</functor>
 <deepord>17</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1080-001-p1s0a22">
 <a>
 <lex.rf>a#a-wsj1080-001-p1s0W22-Ta</lex.rf>
-<aux.rf>a#a-wsj1080-001-p1s0W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1080-001-p1s0W21-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9810f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -240,9 +257,11 @@
 </gram>
 <deepord>20</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1080-001-p1s0a46</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1080-001-p1s0a23">
@@ -292,16 +311,20 @@
 </gram>
 <deepord>24</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1080-001-p1s0a39</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1080-001-p1s0a27">
 <a>
 <lex.rf>a#a-wsj1080-001-p1s0W26-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1080-001-p1s0a23</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1080-001-p1s0a23</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -313,7 +336,9 @@
 <LM id="T-wsj1080-001-p1s0a29">
 <a>
 <lex.rf>a#a-wsj1080-001-p1s0W30-Ta</lex.rf>
-<aux.rf>a#a-wsj1080-001-p1s0W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1080-001-p1s0W28-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>oceán</t_lemma>
@@ -322,7 +347,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>28</deepord>
-<children id="T-wsj1080-001-p1s0a30">
+<children>
+<LM id="T-wsj1080-001-p1s0a30">
 <a>
 <lex.rf>a#a-wsj1080-001-p1s0W29-Ta</lex.rf>
 </a>
@@ -333,10 +359,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>27</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1080-001-p1s0a32">
@@ -362,7 +385,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>30</deepord>
-<children id="T-wsj1080-001-p1s0a33">
+<children>
+<LM id="T-wsj1080-001-p1s0a33">
 <a>
 <lex.rf>a#a-wsj1080-001-p1s0W31-Ta</lex.rf>
 </a>
@@ -373,12 +397,15 @@
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>29</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1080-001-p1s0a35">
 <a>
 <lex.rf>a#a-wsj1080-001-p1s0W35-Ta</lex.rf>
-<aux.rf>a#a-wsj1080-001-p1s0W34-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1080-001-p1s0W34-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>pobřeží</t_lemma>
@@ -387,7 +414,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>32</deepord>
-<children id="T-wsj1080-001-p1s0a36">
+<children>
+<LM id="T-wsj1080-001-p1s0a36">
 <a>
 <lex.rf>a#a-wsj1080-001-p1s0W36-Ta</lex.rf>
 </a>
@@ -398,17 +426,10 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>33</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>chybná podoba</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>není zkratka pro milion</text>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -419,7 +440,9 @@
 </children>
 </LM>
 <LM id="T-wsj1080-001-p1s0a46">
-<coref_gram.rf>T-wsj1080-001-p1s0a44</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1080-001-p1s0a44</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -431,13 +454,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Amoco Corp. said it plans to install two platforms and drill as many as 22 wells to develop oil reserves it discovered in the Atlantic Ocean about 25 miles off the coast of Congo.</eng_sentence>
 </LM>
 <LM id="T-wsj1080-001-p1s1">
 <atree.rf>a#a-wsj1080-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1080-001-p1s1a1">
+<children>
+<LM id="T-wsj1080-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1080-001-p1s1W13-Ta</lex.rf>
 </a>
@@ -498,9 +523,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1080-001-p1s0a40</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1080-001-p1s1a6">
@@ -527,7 +554,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1080-001-p1s1a8">
+<children>
+<LM id="T-wsj1080-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj1080-001-p1s1W6-Ta</lex.rf>
 </a>
@@ -538,12 +566,15 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1080-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj1080-001-p1s1W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1080-001-p1s1W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1080-001-p1s1W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>podíl</t_lemma>
@@ -561,7 +592,8 @@
 <t_lemma>#Percnt</t_lemma>
 <functor>RSTR</functor>
 <deepord>9</deepord>
-<children id="T-wsj1080-001-p1s1a11">
+<children>
+<LM id="T-wsj1080-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj1080-001-p1s1W9-Ta</lex.rf>
 </a>
@@ -572,6 +604,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1080-001-p1s1a13">
@@ -609,7 +642,9 @@
 <LM id="T-wsj1080-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj1080-001-p1s1W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1080-001-p1s1W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1080-001-p1s1W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>partner</t_lemma>
@@ -618,7 +653,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj1080-001-p1s1a17">
+<children>
+<LM id="T-wsj1080-001-p1s1a17">
 <a>
 <lex.rf>a#a-wsj1080-001-p1s1W15-Ta</lex.rf>
 </a>
@@ -629,6 +665,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1080-001-p1s1a18">
@@ -662,7 +699,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj1080-001-p1s1a44">
+<children>
+<LM id="T-wsj1080-001-p1s1a44">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -688,6 +726,7 @@
 <deepord>19</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1080-001-p1s1a24">
@@ -742,7 +781,9 @@
 <LM id="T-wsj1080-001-p1s1a29">
 <a>
 <lex.rf>a#a-wsj1080-001-p1s1W30-Ta</lex.rf>
-<aux.rf>a#a-wsj1080-001-p1s1W27-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1080-001-p1s1W27-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>podíl</t_lemma>
@@ -751,7 +792,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>27</deepord>
-<children id="T-wsj1080-001-p1s1a31">
+<children>
+<LM id="T-wsj1080-001-p1s1a31">
 <a>
 <lex.rf>a#a-wsj1080-001-p1s1W29-Ta</lex.rf>
 </a>
@@ -759,7 +801,8 @@
 <t_lemma>#Percnt</t_lemma>
 <functor>RSTR</functor>
 <deepord>26</deepord>
-<children id="T-wsj1080-001-p1s1a30">
+<children>
+<LM id="T-wsj1080-001-p1s1a30">
 <a>
 <lex.rf>a#a-wsj1080-001-p1s1W28-Ta</lex.rf>
 </a>
@@ -770,7 +813,9 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>25</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -859,7 +904,9 @@
 <LM id="T-wsj1080-001-p1s1a41">
 <a>
 <lex.rf>a#a-wsj1080-001-p1s1W43-Ta</lex.rf>
-<aux.rf>a#a-wsj1080-001-p1s1W40-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1080-001-p1s1W40-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>podíl</t_lemma>
@@ -868,7 +915,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>39</deepord>
-<children id="T-wsj1080-001-p1s1a43">
+<children>
+<LM id="T-wsj1080-001-p1s1a43">
 <a>
 <lex.rf>a#a-wsj1080-001-p1s1W42-Ta</lex.rf>
 </a>
@@ -876,7 +924,8 @@
 <t_lemma>#Percnt</t_lemma>
 <functor>RSTR</functor>
 <deepord>38</deepord>
-<children id="T-wsj1080-001-p1s1a42">
+<children>
+<LM id="T-wsj1080-001-p1s1a42">
 <a>
 <lex.rf>a#a-wsj1080-001-p1s1W41-Ta</lex.rf>
 </a>
@@ -887,8 +936,6 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>37</deepord>
-</children>
-</children>
 </LM>
 </children>
 </LM>
@@ -897,16 +944,24 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Amoco, an energy concern, is the operator of the project with a 43.75% working interest, and other partners include Hydro Congo, the Congolese state oil company, with a 50% interest, and Kuwait Foreign Petroleum Exploration Co. with a 6.25% stake.</eng_sentence>
 </LM>
 <LM id="T-wsj1080-001-p1s2">
 <atree.rf>a#a-wsj1080-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1080-001-p1s2a1">
+<children>
+<LM id="T-wsj1080-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1080-001-p1s2W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1080-001-p1s2W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1080-001-p1s2W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2608f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -920,7 +975,9 @@
 <LM id="T-wsj1080-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj1080-001-p1s2W2-Ta</lex.rf>
-<aux.rf>a#a-wsj1080-001-p1s2W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1080-001-p1s2W1-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7115f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -950,7 +1007,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1080-001-p1s2a5">
+<children>
+<LM id="T-wsj1080-001-p1s2a5">
 <a>
 <lex.rf>a#a-wsj1080-001-p1s2W3-Ta</lex.rf>
 </a>
@@ -961,12 +1019,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1080-001-p1s2a15">
@@ -987,7 +1048,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1080-001-p1s2a10">
+<children>
+<LM id="T-wsj1080-001-p1s2a10">
 <a>
 <lex.rf>a#a-wsj1080-001-p1s2W10-Ta</lex.rf>
 </a>
@@ -1010,7 +1072,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1080-001-p1s2a9">
+<children>
+<LM id="T-wsj1080-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj1080-001-p1s2W8-Ta</lex.rf>
 </a>
@@ -1021,6 +1084,7 @@
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1080-001-p1s2a11">
@@ -1048,9 +1112,11 @@
 <deepord>12</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Production is expected to be about 40,000 barrels of oil a day after completion of the drilling program.</eng_sentence>
 </LM>

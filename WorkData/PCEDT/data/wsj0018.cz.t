@@ -765,12 +765,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1049,12 +1043,6 @@
 </annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>milion</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0018-001-p1s2a32">
 <a>
@@ -2300,12 +2288,6 @@
 <deepord>28</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>zveřejnit</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <eng_sentence>While many of the risks were anticipated when Minneapolis-based Cray Research first announced the spinoff in May, the strings it attached to the financing hadn't been made public until yesterday.</eng_sentence>
@@ -3198,12 +3180,6 @@
 </annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>krátce</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0018-001-p1s9a21">
 <a>
@@ -3637,12 +3613,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0018-001-p1s11a20">
 <a>
@@ -3997,12 +3967,6 @@
 <deepord>17</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>krátce</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5018,12 +4982,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatná podoba</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -5134,12 +5092,6 @@
 <deepord>11</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>s místo z</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6330,12 +6282,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6736,12 +6682,6 @@
 <deepord>17</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>milion</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7635,12 +7575,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>Coref</type>
-<text>#zik: má být ACT (viz Aj)</text>
-</LM>
-</annot_comment>
 <bridging>
 <LM>
 <target-node.rf>T-wsj0018-001-p1s22a40</target-node.rf>
@@ -7653,6 +7587,12 @@
 <src>LH</src>
 </LM>
 </bridging>
+<annot_comment>
+<LM>
+<type>Coref</type>
+<text>#zik: má být ACT (viz Aj)</text>
+</LM>
+</annot_comment>
 </LM>
 <LM id="T-wsj0018-001-p1s24a6">
 <a>
@@ -8471,12 +8411,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>krátce</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8966,12 +8900,6 @@
 <deepord>20</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>krátce</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -9071,12 +8999,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>krátce</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -9247,12 +9169,6 @@
 <deepord>12</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>krátce</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -10514,11 +10430,6 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>26</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

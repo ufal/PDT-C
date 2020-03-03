@@ -2783,12 +2783,6 @@
 <deepord>1</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4574,12 +4568,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno: benzína</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7229,12 +7217,6 @@
 <deepord>5</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1789-001-p1s28a7">
 <a>
@@ -11405,12 +11387,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno znárodnět</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -12291,12 +12267,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno: stanout</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

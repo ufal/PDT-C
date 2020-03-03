@@ -11,10 +11,13 @@
 <LM id="T-wsj1517-001-p1s0">
 <atree.rf>a#a-wsj1517-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1517-001-p1s0a1">
+<children>
+<LM id="T-wsj1517-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1517-001-p1s0W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1517-001-p1s0W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1517-001-p1s0W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1344f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -116,7 +119,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1517-001-p1s0a11">
+<children>
+<LM id="T-wsj1517-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj1517-001-p1s0W10-Ta</lex.rf>
 </a>
@@ -127,18 +131,21 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Gary J. Schantz, 44 years old, was named president and chief operating officer.</eng_sentence>
 </LM>
 <LM id="T-wsj1517-001-p1s1">
 <atree.rf>a#a-wsj1517-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1517-001-p1s1a1">
+<children>
+<LM id="T-wsj1517-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1517-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -162,7 +169,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1517-001-p1s1a3">
+<children>
+<LM id="T-wsj1517-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj1517-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -173,6 +181,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1517-001-p1s1a4">
@@ -190,7 +199,9 @@
 <LM id="T-wsj1517-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj1517-001-p1s1W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1517-001-p1s1W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1517-001-p1s1W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>báze</t_lemma>
@@ -199,7 +210,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1517-001-p1s1a7">
+<children>
+<LM id="T-wsj1517-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj1517-001-p1s1W7-Ta</lex.rf>
 </a>
@@ -210,6 +222,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1517-001-p1s1a8">
@@ -235,16 +248,20 @@
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1517-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1517-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj1517-001-p1s1W9-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1517-001-p1s1a4</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1517-001-p1s1a4</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -256,7 +273,9 @@
 <LM id="T-wsj1517-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj1517-001-p1s1W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1517-001-p1s1W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1517-001-p1s1W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dřevo</t_lemma>
@@ -265,7 +284,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1517-001-p1s1a14">
+<children>
+<LM id="T-wsj1517-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj1517-001-p1s1W13-Ta</lex.rf>
 </a>
@@ -276,20 +296,23 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Polymerix makes lumber-like materials that it describes as ``plastic wood.''</eng_sentence>
 </LM>
 <LM id="T-wsj1517-001-p1s2">
 <atree.rf>a#a-wsj1517-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1517-001-p1s2a1">
+<children>
+<LM id="T-wsj1517-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1517-001-p1s2W4-Ta</lex.rf>
 </a>
@@ -313,7 +336,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1517-001-p1s2a3">
+<children>
+<LM id="T-wsj1517-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj1517-001-p1s2W3-Ta</lex.rf>
 </a>
@@ -324,7 +348,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1517-001-p1s2a4">
+<children>
+<LM id="T-wsj1517-001-p1s2a4">
 <a>
 <lex.rf>a#a-wsj1517-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -335,7 +360,9 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1517-001-p1s2a6">
@@ -363,16 +390,20 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The operating chief's post is new.</eng_sentence>
 </LM>
 <LM id="T-wsj1517-001-p1s3">
 <atree.rf>a#a-wsj1517-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1517-001-p1s3a1">
+<children>
+<LM id="T-wsj1517-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1517-001-p1s3W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1517-001-p1s3W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1517-001-p1s3W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1344f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -411,7 +442,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1517-001-p1s3a4">
+<children>
+<LM id="T-wsj1517-001-p1s3a4">
 <a>
 <lex.rf>a#a-wsj1517-001-p1s3W1-Ta</lex.rf>
 </a>
@@ -422,6 +454,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1517-001-p1s3a5">
@@ -478,13 +511,15 @@
 <deepord>9</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Martin Schrager, 51, who had been president, was named vice chairman.</eng_sentence>
 </LM>
 <LM id="T-wsj1517-001-p1s4">
 <atree.rf>a#a-wsj1517-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1517-001-p1s4a1">
+<children>
+<LM id="T-wsj1517-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj1517-001-p1s4W4-Ta</lex.rf>
 </a>
@@ -507,9 +542,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1517-001-p1s3a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1517-001-p1s4a3">
@@ -553,7 +590,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1517-001-p1s4a6">
+<children>
+<LM id="T-wsj1517-001-p1s4a6">
 <a>
 <lex.rf>a#a-wsj1517-001-p1s4W5-Ta</lex.rf>
 </a>
@@ -564,16 +602,19 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>He remains chief executive officer.</eng_sentence>
 </LM>
 <LM id="T-wsj1517-001-p1s5">
 <atree.rf>a#a-wsj1517-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1517-001-p1s5a1">
+<children>
+<LM id="T-wsj1517-001-p1s5a1">
 <a>
 <lex.rf>a#a-wsj1517-001-p1s5W3-Ta</lex.rf>
 </a>
@@ -597,7 +638,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1517-001-p1s5a3">
+<children>
+<LM id="T-wsj1517-001-p1s5a3">
 <a>
 <lex.rf>a#a-wsj1517-001-p1s5W1-Ta</lex.rf>
 </a>
@@ -608,15 +650,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>malé písmeno</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1517-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1517-001-p1s5a4">
@@ -631,9 +672,13 @@
 <LM id="T-wsj1517-001-p1s5a6">
 <a>
 <lex.rf>a#a-wsj1517-001-p1s5W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1517-001-p1s5W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1517-001-p1s5W4-Ta</LM>
+</aux.rf>
 </a>
-<compl.rf>T-wsj1517-001-p1s5a2</compl.rf>
+<compl.rf>
+<LM>T-wsj1517-001-p1s5a2</LM>
+</compl.rf>
 <nodetype>complex</nodetype>
 <t_lemma>viceprezident</t_lemma>
 <functor>COMPL</functor>
@@ -646,9 +691,13 @@
 <LM id="T-wsj1517-001-p1s5a7">
 <a>
 <lex.rf>a#a-wsj1517-001-p1s5W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1517-001-p1s5W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1517-001-p1s5W4-Ta</LM>
+</aux.rf>
 </a>
-<compl.rf>T-wsj1517-001-p1s5a2</compl.rf>
+<compl.rf>
+<LM>T-wsj1517-001-p1s5a2</LM>
+</compl.rf>
 <nodetype>complex</nodetype>
 <t_lemma>ředitel</t_lemma>
 <functor>COMPL</functor>
@@ -657,7 +706,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1517-001-p1s5a8">
+<children>
+<LM id="T-wsj1517-001-p1s5a8">
 <a>
 <lex.rf>a#a-wsj1517-001-p1s5W7-Ta</lex.rf>
 </a>
@@ -668,6 +718,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -675,7 +726,9 @@
 <LM id="T-wsj1517-001-p1s5a10">
 <a>
 <lex.rf>a#a-wsj1517-001-p1s5W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1517-001-p1s5W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1517-001-p1s5W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>divize</t_lemma>
@@ -708,7 +761,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1517-001-p1s5a16">
+<children>
+<LM id="T-wsj1517-001-p1s5a16">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -743,21 +797,26 @@
 <deepord>14</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Mr. Schantz was vice president and chief operating officer of the Acrylic division of Polycast Technology Corp.</eng_sentence>
 </LM>
 <LM id="T-wsj1517-001-p1s6">
 <atree.rf>a#a-wsj1517-001-p1s6</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1517-001-p1s6a1">
+<children>
+<LM id="T-wsj1517-001-p1s6a1">
 <a>
 <lex.rf>a#a-wsj1517-001-p1s6W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1517-001-p1s6W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1517-001-p1s6W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5777f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -840,8 +899,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1517-001-p1s6a9">
@@ -855,7 +916,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1517-001-p1s6a10">
+<children>
+<LM id="T-wsj1517-001-p1s6a10">
 <a>
 <lex.rf>a#a-wsj1517-001-p1s6W8-Ta</lex.rf>
 </a>
@@ -866,6 +928,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1517-001-p1s6a15">
@@ -878,7 +941,9 @@
 <LM id="T-wsj1517-001-p1s6a13">
 <a>
 <lex.rf>a#a-wsj1517-001-p1s6W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1517-001-p1s6W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1517-001-p1s6W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>člen</t_lemma>
@@ -887,7 +952,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1517-001-p1s6a12">
+<children>
+<LM id="T-wsj1517-001-p1s6a12">
 <a>
 <lex.rf>a#a-wsj1517-001-p1s6W12-Ta</lex.rf>
 </a>
@@ -898,16 +964,19 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Separately, the board expanded to six members with the election of David L. Holewinski, a consultant.</eng_sentence>
 </LM>
 <LM id="T-wsj1517-001-p1s7">
 <atree.rf>a#a-wsj1517-001-p1s7</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1517-001-p1s7a1">
+<children>
+<LM id="T-wsj1517-001-p1s7a1">
 <a>
 <lex.rf>a#a-wsj1517-001-p1s7W3-Ta</lex.rf>
 </a>
@@ -932,9 +1001,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1517-001-p1s1a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1517-001-p1s7a3">
@@ -949,7 +1020,9 @@
 <LM id="T-wsj1517-001-p1s7a6">
 <a>
 <lex.rf>a#a-wsj1517-001-p1s7W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1517-001-p1s7W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1517-001-p1s7W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8097f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -982,9 +1055,11 @@
 </gram>
 <deepord>6</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1517-001-p1s7a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1517-001-p1s7a8">
@@ -1021,7 +1096,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1517-001-p1s7a11">
+<children>
+<LM id="T-wsj1517-001-p1s7a11">
 <a>
 <lex.rf>a#a-wsj1517-001-p1s7W10-Ta</lex.rf>
 </a>
@@ -1032,12 +1108,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1517-001-p1s7a13">
 <a>
 <lex.rf>a#a-wsj1517-001-p1s7W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1517-001-p1s7W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1517-001-p1s7W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodnota</t_lemma>
@@ -1046,7 +1125,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1517-001-p1s7a15">
+<children>
+<LM id="T-wsj1517-001-p1s7a15">
 <a>
 <lex.rf>a#a-wsj1517-001-p1s7W15-Ta</lex.rf>
 </a>
@@ -1057,7 +1137,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1517-001-p1s7a14">
+<children>
+<LM id="T-wsj1517-001-p1s7a14">
 <a>
 <lex.rf>a#a-wsj1517-001-p1s7W14-Ta</lex.rf>
 </a>
@@ -1068,14 +1149,17 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>12</deepord>
-</children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The company also said it privately placed stock and warrants in exchange for $750,000.</eng_sentence>
 </LM>

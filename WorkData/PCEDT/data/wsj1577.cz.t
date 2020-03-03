@@ -11,7 +11,8 @@
 <LM id="T-wsj1577-001-p1s0">
 <atree.rf>a#a-wsj1577-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1577-001-p1s0a1">
+<children>
+<LM id="T-wsj1577-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1577-001-p1s0W5-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1577-001-p1s0a41">
+<children>
+<LM id="T-wsj1577-001-p1s0a41">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -70,6 +72,7 @@
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1577-001-p1s0a24">
@@ -115,9 +118,11 @@
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1577-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1577-001-p1s0a12">
@@ -230,7 +235,9 @@
 <LM id="T-wsj1577-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj1577-001-p1s0W26-Ta</lex.rf>
-<aux.rf>a#a-wsj1577-001-p1s0W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1577-001-p1s0W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>banka</t_lemma>
@@ -294,7 +301,9 @@
 <LM id="T-wsj1577-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj1577-001-p1s0W30-Ta</lex.rf>
-<aux.rf>a#a-wsj1577-001-p1s0W27-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1577-001-p1s0W27-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>banka</t_lemma>
@@ -335,7 +344,9 @@
 <LM id="T-wsj1577-001-p1s0a32">
 <a>
 <lex.rf>a#a-wsj1577-001-p1s0W32-Ta</lex.rf>
-<aux.rf>a#a-wsj1577-001-p1s0W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1577-001-p1s0W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9615f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -358,11 +369,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>30</deepord>
-<children id="T-wsj1577-001-p1s0a34">
+<children>
+<LM id="T-wsj1577-001-p1s0a34">
 <a>
 <lex.rf>a#a-wsj1577-001-p1s0W33-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1577-001-p1s0a42</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1577-001-p1s0a42</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -370,11 +384,14 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>29</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1577-001-p1s0a44">
 <a>
-<aux.rf>a#a-wsj1577-001-p1s0W35-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1577-001-p1s0W35-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -410,13 +427,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>HomeFed Corp. said its main subsidiary, Home Federal Savings &amp; Loan, converted from a federal savings and loan to a federal savings bank and changed its name to HomeFed Bank.</eng_sentence>
 </LM>
 <LM id="T-wsj1577-001-p1s1">
 <atree.rf>a#a-wsj1577-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1577-001-p1s1a1">
+<children>
+<LM id="T-wsj1577-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1577-001-p1s1W15-Ta</lex.rf>
 </a>
@@ -470,7 +489,9 @@
 <LM id="T-wsj1577-001-p1s1a5">
 <a>
 <lex.rf>a#a-wsj1577-001-p1s1W4-Ta</lex.rf>
-<aux.rf>a#a-wsj1577-001-p1s1W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1577-001-p1s1W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dohled</t_lemma>
@@ -479,7 +500,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1577-001-p1s1a7">
+<children>
+<LM id="T-wsj1577-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj1577-001-p1s1W7-Ta</lex.rf>
 </a>
@@ -491,7 +513,9 @@
 <LM id="T-wsj1577-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj1577-001-p1s1W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1577-001-p1s1W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1577-001-p1s1W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>spořitelna</t_lemma>
@@ -505,7 +529,9 @@
 <LM id="T-wsj1577-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj1577-001-p1s1W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1577-001-p1s1W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1577-001-p1s1W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>sdružení</t_lemma>
@@ -515,7 +541,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1577-001-p1s1a10">
+<children>
+<LM id="T-wsj1577-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj1577-001-p1s1W8-Ta</lex.rf>
 </a>
@@ -526,20 +553,20 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1577-001-p1s1a13">
 <a>
@@ -552,7 +579,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1577-001-p1s1a14">
+<children>
+<LM id="T-wsj1577-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj1577-001-p1s1W10-Ta</lex.rf>
 </a>
@@ -563,6 +591,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1577-001-p1s1a12">
@@ -577,9 +606,11 @@
 </gram>
 <deepord>10</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1577-001-p1s0a24</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -595,7 +626,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1577-001-p1s1a17">
+<children>
+<LM id="T-wsj1577-001-p1s1a17">
 <a>
 <lex.rf>a#a-wsj1577-001-p1s1W17-Ta</lex.rf>
 </a>
@@ -606,21 +638,26 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1577-001-p1s0a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The federal Office of Thrift Supervision approved the conversion last Friday, HomeFed said.</eng_sentence>
 </LM>
 <LM id="T-wsj1577-001-p1s2">
 <atree.rf>a#a-wsj1577-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1577-001-p1s2a1">
+<children>
+<LM id="T-wsj1577-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1577-001-p1s2W15-Ta</lex.rf>
 </a>
@@ -665,7 +702,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1577-001-p1s2a4">
+<children>
+<LM id="T-wsj1577-001-p1s2a4">
 <a>
 <lex.rf>a#a-wsj1577-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -676,11 +714,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1577-001-p1s0a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1577-001-p1s2a8">
@@ -739,8 +780,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1577-001-p1s2a12">
@@ -794,7 +837,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1577-001-p1s2a15">
+<children>
+<LM id="T-wsj1577-001-p1s2a15">
 <a>
 <lex.rf>a#a-wsj1577-001-p1s2W13-Ta</lex.rf>
 </a>
@@ -806,10 +850,13 @@
 </gram>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1577-001-p1s0a34</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 </children>
@@ -829,6 +876,7 @@
 <deepord>16</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The change in charter doesn't alter the federal insurance of deposits, federal regulatory powers or company operations, a spokesman said.</eng_sentence>
 </LM>

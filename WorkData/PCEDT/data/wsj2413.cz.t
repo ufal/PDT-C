@@ -886,12 +886,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>t-lema adjektivní</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4794,11 +4788,6 @@
 <src>LH</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2413-001-p1s16a5">
 <a>
@@ -7488,11 +7477,6 @@
 <src>LH</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2413-001-p1s28a9">
 <a>
@@ -8236,11 +8220,6 @@
 <src>LH</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2413-001-p1s31a14">
 <a>
@@ -8363,12 +8342,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>podnik</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2413-001-p1s32a9">
 <a>
@@ -8582,12 +8555,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>podnik</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -8638,12 +8605,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>podnik</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -10498,12 +10459,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>podnik</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>

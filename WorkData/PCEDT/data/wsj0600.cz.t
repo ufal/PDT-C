@@ -11,10 +11,13 @@
 <LM id="T-wsj0600-001-p1s0">
 <atree.rf>a#a-wsj0600-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0600-001-p1s0a1">
+<children>
+<LM id="T-wsj0600-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0600-001-p1s0W19-Ta</lex.rf>
-<aux.rf>a#a-wsj0600-001-p1s0W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0600-001-p1s0W18-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9986f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -163,7 +166,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj0600-001-p1s0a14">
+<children>
+<LM id="T-wsj0600-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj0600-001-p1s0W16-Ta</lex.rf>
 </a>
@@ -174,7 +178,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj0600-001-p1s0a16">
+<children>
+<LM id="T-wsj0600-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj0600-001-p1s0W14-Ta</lex.rf>
 </a>
@@ -210,13 +215,17 @@
 <deepord>15</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>Coref</type>
 <text>odkaz na něco v předchozím kontextu, který zde ale chybí</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -236,7 +245,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj0600-001-p1s0a21">
+<children>
+<LM id="T-wsj0600-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj0600-001-p1s0W21-Ta</lex.rf>
 </a>
@@ -247,16 +257,19 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Spencer J. Volk, president and chief operating officer of this consumer and industrial products company, was elected a director.</eng_sentence>
 </LM>
 <LM id="T-wsj0600-001-p1s1">
 <atree.rf>a#a-wsj0600-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0600-001-p1s1a1">
+<children>
+<LM id="T-wsj0600-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0600-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -280,7 +293,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0600-001-p1s1a3">
+<children>
+<LM id="T-wsj0600-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj0600-001-p1s1W1-Ta</lex.rf>
 </a>
@@ -291,7 +305,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0600-001-p1s1a14">
+<children>
+<LM id="T-wsj0600-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj0600-001-p1s1W1-Ta</lex.rf>
 </a>
@@ -299,32 +314,16 @@
 <t_lemma>55</t_lemma>
 <functor>RSTR</functor>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
 </LM>
-<LM>
-<type>T-lemma</type>
-<text>špatně rozdělené</text>
-</LM>
-</annot_comment>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatně rozdělené</text>
 </LM>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0600-001-p1s0a23</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0600-001-p1s1a4">
@@ -375,7 +374,9 @@
 <a>
 <lex.rf>a#a-wsj0600-001-p1s1W7-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0600-001-p1s1a4</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0600-001-p1s1a4</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -387,7 +388,9 @@
 <LM id="T-wsj0600-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj0600-001-p1s1W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0600-001-p1s1W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0600-001-p1s1W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>září</t_lemma>
@@ -400,7 +403,9 @@
 <LM id="T-wsj0600-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj0600-001-p1s1W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0600-001-p1s1W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0600-001-p1s1W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>důchod</t_lemma>
@@ -415,6 +420,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Mr. Volk, 55 years old, succeeds Duncan Dwight, who retired in September.</eng_sentence>
 </LM>

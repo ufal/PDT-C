@@ -5577,12 +5577,6 @@
 <sempos>adv.pron.indef</sempos>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>kam</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0128-001-p1s16a5">
 <a>
@@ -12994,11 +12988,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -13492,11 +13481,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

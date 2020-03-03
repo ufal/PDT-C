@@ -7018,12 +7018,6 @@
 <src>LH</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Pooreový</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0062-001-p1s26a25">
 <a>
@@ -11017,12 +11011,6 @@
 <deepord>19</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>zveřejnět</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <eng_sentence>Billings weren't disclosed for the small account, which had been serviced at Young &amp; Rubicam, New York.</eng_sentence>
@@ -12334,12 +12322,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>původně Pittsburek</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -12599,12 +12581,6 @@
 <deepord>4</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>zveřejnět</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <eng_sentence>Terms weren't disclosed.</eng_sentence>

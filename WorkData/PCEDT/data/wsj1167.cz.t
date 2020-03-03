@@ -11,7 +11,8 @@
 <LM id="T-wsj1167-001-p1s0">
 <atree.rf>a#a-wsj1167-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1167-001-p1s0a1">
+<children>
+<LM id="T-wsj1167-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1167-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1167-001-p1s0a31">
+<children>
+<LM id="T-wsj1167-001-p1s0a31">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -88,12 +90,15 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1167-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj1167-001-p1s0W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1167-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1167-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6054f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -114,9 +119,11 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1167-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1167-001-p1s0a10">
@@ -130,7 +137,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1167-001-p1s0a11">
+<children>
+<LM id="T-wsj1167-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj1167-001-p1s0W11-Ta</lex.rf>
 </a>
@@ -141,7 +149,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1167-001-p1s0a15">
+<children>
+<LM id="T-wsj1167-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj1167-001-p1s0W17-Ta</lex.rf>
 </a>
@@ -153,7 +162,9 @@
 <LM id="T-wsj1167-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj1167-001-p1s0W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1167-001-p1s0W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1167-001-p1s0W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>plnění</t_lemma>
@@ -185,14 +196,18 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1167-001-p1s0a17">
 <a>
 <lex.rf>a#a-wsj1167-001-p1s0W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1167-001-p1s0W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1167-001-p1s0W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>distribuce</t_lemma>
@@ -206,7 +221,9 @@
 <LM id="T-wsj1167-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj1167-001-p1s0W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1167-001-p1s0W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1167-001-p1s0W12-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2482f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -228,7 +245,9 @@
 <LM id="T-wsj1167-001-p1s0a20">
 <a>
 <lex.rf>a#a-wsj1167-001-p1s0W21-Ta</lex.rf>
-<aux.rf>a#a-wsj1167-001-p1s0W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1167-001-p1s0W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výrobek</t_lemma>
@@ -307,7 +326,9 @@
 <LM id="T-wsj1167-001-p1s0a27">
 <a>
 <lex.rf>a#a-wsj1167-001-p1s0W27-Ta</lex.rf>
-<aux.rf>a#a-wsj1167-001-p1s0W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1167-001-p1s0W26-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Austrálie</t_lemma>
@@ -323,24 +344,30 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Lion Nathan Ltd. agreed to buy the franchise to bottle, distribute and market Pepsi-Cola soft-drink products in Australia, the company said.</eng_sentence>
 </LM>
 <LM id="T-wsj1167-001-p1s1">
 <atree.rf>a#a-wsj1167-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1167-001-p1s1a1">
+<children>
+<LM id="T-wsj1167-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1167-001-p1s1W10-Ta</lex.rf>
 </a>
@@ -418,7 +445,9 @@
 <LM id="T-wsj1167-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj1167-001-p1s1W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1167-001-p1s1W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1167-001-p1s1W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zabývající_se</t_lemma>
@@ -427,7 +456,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1167-001-p1s1a8">
+<children>
+<LM id="T-wsj1167-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj1167-001-p1s1W8-Ta</lex.rf>
 </a>
@@ -463,23 +493,28 @@
 <deepord>10</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1167-001-p1s0a28</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The New Zealand brewing and retail concern didn't disclose terms.</eng_sentence>
 </LM>
 <LM id="T-wsj1167-001-p1s2">
 <atree.rf>a#a-wsj1167-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1167-001-p1s2a1">
+<children>
+<LM id="T-wsj1167-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1167-001-p1s2W7-Ta</lex.rf>
 </a>
@@ -500,9 +535,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1167-001-p1s0a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1167-001-p1s2a3">
@@ -542,10 +579,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1167-001-p1s2a6">
+<children>
+<LM id="T-wsj1167-001-p1s2a6">
 <a>
 <lex.rf>a#a-wsj1167-001-p1s2W4-Ta</lex.rf>
-<aux.rf>a#a-wsj1167-001-p1s2W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1167-001-p1s2W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>1</t_lemma>
@@ -554,6 +594,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -571,7 +612,8 @@
 <sempos>v</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1167-001-p1s2a9">
+<children>
+<LM id="T-wsj1167-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj1167-001-p1s2W9-Ta</lex.rf>
 </a>
@@ -594,9 +636,11 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1167-001-p1s2a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1167-001-p1s2a10">
@@ -623,13 +667,17 @@
 </gram>
 <deepord>10</deepord>
 <annot_comment>
+<LM>
 <type>Typo</type>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1167-001-p1s2a13">
 <a>
 <lex.rf>a#a-wsj1167-001-p1s2W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1167-001-p1s2W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1167-001-p1s2W12-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1078f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -658,7 +706,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1167-001-p1s2a15">
+<children>
+<LM id="T-wsj1167-001-p1s2a15">
 <a>
 <lex.rf>a#a-wsj1167-001-p1s2W14-Ta</lex.rf>
 </a>
@@ -669,12 +718,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -682,31 +734,34 @@
 <LM>
 <type>Typo</type>
 </LM>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
 </annot_comment>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>Translation</type>
 <text>australský Úřad má být v 2. či 7. pádě, ne ve 3.</text>
+</LM>
 </annot_comment>
 <eng_sentence>The agreement is effective Jan. 1 and is subject to approval from Australia's Foreign Investment Review Board.</eng_sentence>
 </LM>
 <LM id="T-wsj1167-001-p1s3">
 <atree.rf>a#a-wsj1167-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1167-001-p1s3a1">
+<children>
+<LM id="T-wsj1167-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1167-001-p1s3W5-Ta</lex.rf>
 </a>
@@ -722,7 +777,9 @@
 <LM id="T-wsj1167-001-p1s3a3">
 <a>
 <lex.rf>a#a-wsj1167-001-p1s3W4-Ta</lex.rf>
-<aux.rf>a#a-wsj1167-001-p1s3W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1167-001-p1s3W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -793,7 +850,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1167-001-p1s3a10">
+<children>
+<LM id="T-wsj1167-001-p1s3a10">
 <a>
 <lex.rf>a#a-wsj1167-001-p1s3W9-Ta</lex.rf>
 </a>
@@ -801,18 +859,23 @@
 <t_lemma>Pepsi</t_lemma>
 <functor>ID</functor>
 <deepord>8</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1167-001-p1s0a22</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1167-001-p1s0a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1167-001-p1s3a13">
@@ -826,7 +889,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1167-001-p1s3a19">
+<children>
+<LM id="T-wsj1167-001-p1s3a19">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -873,16 +937,19 @@
 <deepord>14</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Cadbury Schweppes Australia Ltd. has held the Australian Pepsi franchise for the past four years.</eng_sentence>
 </LM>
 <LM id="T-wsj1167-001-p1s4">
 <atree.rf>a#a-wsj1167-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1167-001-p1s4a1">
+<children>
+<LM id="T-wsj1167-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj1167-001-p1s4W17-Ta</lex.rf>
 </a>
@@ -916,7 +983,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1167-001-p1s4a27">
+<children>
+<LM id="T-wsj1167-001-p1s4a27">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -948,11 +1016,14 @@
 <deepord>4</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1167-001-p1s1a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1167-001-p1s4a28">
@@ -977,7 +1048,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1167-001-p1s4a29">
+<children>
+<LM id="T-wsj1167-001-p1s4a29">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1009,6 +1081,7 @@
 <deepord>9</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1167-001-p1s4a2">
@@ -1023,7 +1096,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1167-001-p1s4a12">
+<children>
+<LM id="T-wsj1167-001-p1s4a12">
 <a>
 <lex.rf>a#a-wsj1167-001-p1s4W10-Ta</lex.rf>
 </a>
@@ -1080,7 +1154,9 @@
 <LM id="T-wsj1167-001-p1s4a17">
 <a>
 <lex.rf>a#a-wsj1167-001-p1s4W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1167-001-p1s4W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1167-001-p1s4W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>USA</t_lemma>
@@ -1092,10 +1168,13 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1167-001-p1s3a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 </children>
@@ -1121,7 +1200,9 @@
 <LM id="T-wsj1167-001-p1s4a20">
 <a>
 <lex.rf>a#a-wsj1167-001-p1s4W22-Ta</lex.rf>
-<aux.rf>a#a-wsj1167-001-p1s4W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1167-001-p1s4W21-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w839f3</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1156,9 +1237,11 @@
 </gram>
 <deepord>22</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1167-001-p1s3a6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1167-001-p1s4a33">
@@ -1179,7 +1262,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj1167-001-p1s4a34">
+<children>
+<LM id="T-wsj1167-001-p1s4a34">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1208,20 +1292,26 @@
 <deepord>28</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1167-001-p1s3a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>Translation</type>
 <text>chybí čárka po NEUVEDLY</text>
+</LM>
 </annot_comment>
 <eng_sentence>Lion Nathan and PepsiCola Australia, a unit of PepsiCo Inc. of the U.S., didn't say why Cadbury Schweppes will no longer hold the franchise.</eng_sentence>
 </LM>

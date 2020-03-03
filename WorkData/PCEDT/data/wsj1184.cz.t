@@ -2047,12 +2047,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1184-001-p1s4a18">
 <a>
@@ -5803,12 +5797,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatný nominativ - vlastní jméno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6540,12 +6528,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>26</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>"kalý" v češtině neexistuje</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1184-001-p1s15a33">
 <a>
@@ -8048,11 +8030,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

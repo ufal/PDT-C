@@ -11,7 +11,8 @@
 <LM id="T-wsj1114-001-p1s0">
 <atree.rf>a#a-wsj1114-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1114-001-p1s0a46">
+<children>
+<LM id="T-wsj1114-001-p1s0a46">
 <a>
 <lex.rf>a#a-wsj1114-001-p1s0W31-Ta</lex.rf>
 </a>
@@ -23,7 +24,9 @@
 <LM id="T-wsj1114-001-p1s0a23">
 <a>
 <lex.rf>a#a-wsj1114-001-p1s0W24-Ta</lex.rf>
-<aux.rf>a#a-wsj1114-001-p1s0W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1114-001-p1s0W23-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1344f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -82,10 +85,6 @@
 <deepord>3</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1114-001-p1s0a1">
 <a>
@@ -146,7 +145,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1114-001-p1s0a43">
+<children>
+<LM id="T-wsj1114-001-p1s0a43">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -208,6 +208,7 @@
 <deepord>19</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -229,7 +230,9 @@
 <a>
 <lex.rf>a#a-wsj1114-001-p1s0W17-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1114-001-p1s0a42</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1114-001-p1s0a42</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -250,7 +253,9 @@
 <LM id="T-wsj1114-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj1114-001-p1s0W21-Ta</lex.rf>
-<aux.rf>a#a-wsj1114-001-p1s0W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1114-001-p1s0W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>důchod</t_lemma>
@@ -285,7 +290,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj1114-001-p1s0a26">
+<children>
+<LM id="T-wsj1114-001-p1s0a26">
 <a>
 <lex.rf>a#a-wsj1114-001-p1s0W27-Ta</lex.rf>
 </a>
@@ -312,7 +318,9 @@
 <LM id="T-wsj1114-001-p1s0a29">
 <a>
 <lex.rf>a#a-wsj1114-001-p1s0W29-Ta</lex.rf>
-<aux.rf>a#a-wsj1114-001-p1s0W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1114-001-p1s0W28-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>odvětví</t_lemma>
@@ -321,7 +329,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>26</deepord>
-<children id="T-wsj1114-001-p1s0a30">
+<children>
+<LM id="T-wsj1114-001-p1s0a30">
 <a>
 <lex.rf>a#a-wsj1114-001-p1s0W30-Ta</lex.rf>
 </a>
@@ -332,9 +341,11 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>27</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -342,7 +353,9 @@
 <LM id="T-wsj1114-001-p1s0a31">
 <a>
 <lex.rf>a#a-wsj1114-001-p1s0W38-Ta</lex.rf>
-<aux.rf>a#a-wsj1114-001-p1s0W33-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1114-001-p1s0W33-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w10007f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -358,7 +371,9 @@
 <a>
 <lex.rf>a#a-wsj1114-001-p1s0W32-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1114-001-p1s0a23</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1114-001-p1s0a23</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>MEANS</functor>
@@ -378,7 +393,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>30</deepord>
-<children id="T-wsj1114-001-p1s0a36">
+<children>
+<LM id="T-wsj1114-001-p1s0a36">
 <a>
 <lex.rf>a#a-wsj1114-001-p1s0W35-Ta</lex.rf>
 </a>
@@ -389,7 +405,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>31</deepord>
-<children id="T-wsj1114-001-p1s0a37">
+<children>
+<LM id="T-wsj1114-001-p1s0a37">
 <a>
 <lex.rf>a#a-wsj1114-001-p1s0W37-Ta</lex.rf>
 </a>
@@ -400,7 +417,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>32</deepord>
-<children id="T-wsj1114-001-p1s0a38">
+<children>
+<LM id="T-wsj1114-001-p1s0a38">
 <a>
 <lex.rf>a#a-wsj1114-001-p1s0W36-Ta</lex.rf>
 </a>
@@ -411,14 +429,19 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>33</deepord>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1114-001-p1s0a40">
 <a>
 <lex.rf>a#a-wsj1114-001-p1s0W40-Ta</lex.rf>
-<aux.rf>a#a-wsj1114-001-p1s0W39-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1114-001-p1s0W39-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>šest</t_lemma>
@@ -431,6 +454,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Richard W. Lock, retired vice president and treasurer of Owens-Illinois Inc., was named a director of this transportation industry supplier, increasing its board to six members.</eng_sentence>
 </LM>

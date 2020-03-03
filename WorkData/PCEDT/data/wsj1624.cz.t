@@ -4056,12 +4056,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>adjektivum</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1624-001-p1s13a7">
 <a>
@@ -4415,12 +4409,6 @@
 <deepord>31</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>substantivum</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1624-001-p1s13a40">
 <a>
@@ -6587,12 +6575,6 @@
 </annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>adjektivum</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -9220,12 +9202,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1624-001-p1s32a4">
 <a>
@@ -9656,12 +9632,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1624-001-p1s33a14">
 <a>
@@ -10265,12 +10235,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1624-001-p1s35a12">
 <a>
@@ -11038,24 +11002,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>word segmentation</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>word segmentation</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -11202,12 +11150,6 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>20</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Chybí desetinná čárka 7.955.</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -11336,12 +11278,6 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>25</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Chybí desetinná čárka 8.032.</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -11456,24 +11392,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>word segmentation</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>word segmentation</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -11624,12 +11544,6 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>24</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Chybí desetinná čárka.</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -11741,12 +11655,6 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>20</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Chybí desetinná čárka 7.937.</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -12239,24 +12147,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>word segmentation</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>word segmentation</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1624-001-p1s43a11">
 <a>
@@ -12567,24 +12459,8 @@
 <t_lemma>52</t_lemma>
 <functor>RSTR</functor>
 <deepord>19</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>word segmentation</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>word segmentation</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -17500,12 +17376,6 @@
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1624-001-p1s65a11">
 <a>
@@ -18878,12 +18748,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1624-001-p1s71a8">
 <a>
@@ -19145,12 +19009,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>30</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -19683,12 +19541,6 @@
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -20772,12 +20624,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>26</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1624-001-p1s75a31">
 <a>
@@ -21319,24 +21165,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>word segmentation</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>word segmentation</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -23246,12 +23076,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

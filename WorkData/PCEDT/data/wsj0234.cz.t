@@ -11,7 +11,8 @@
 <LM id="T-wsj0234-001-p1s0">
 <atree.rf>a#a-wsj0234-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0234-001-p1s0a1">
+<children>
+<LM id="T-wsj0234-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0234-001-p1s0W5-Ta</lex.rf>
 </a>
@@ -42,7 +43,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0234-001-p1s0a48">
+<children>
+<LM id="T-wsj0234-001-p1s0a48">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -80,6 +82,7 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0234-001-p1s0a8">
@@ -130,9 +133,11 @@
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0234-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0234-001-p1s0a49">
@@ -193,7 +198,9 @@
 <children>
 <LM id="T-wsj0234-001-p1s0a50">
 <a>
-<aux.rf>a#a-wsj0234-001-p1s0W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0234-001-p1s0W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -261,7 +268,9 @@
 <LM id="T-wsj0234-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj0234-001-p1s0W23-Ta</lex.rf>
-<aux.rf>a#a-wsj0234-001-p1s0W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0234-001-p1s0W15-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2858f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -277,7 +286,9 @@
 <a>
 <lex.rf>a#a-wsj0234-001-p1s0W22-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0234-001-p1s0a50</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0234-001-p1s0a50</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>ACT</functor>
@@ -310,9 +321,11 @@
 </gram>
 <deepord>25</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0234-001-p1s0a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0234-001-p1s0a26">
@@ -383,7 +396,9 @@
 <a>
 <lex.rf>a#a-wsj0234-001-p1s0W31-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0234-001-p1s0a26</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0234-001-p1s0a26</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -427,7 +442,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>35</deepord>
-<children id="T-wsj0234-001-p1s0a37">
+<children>
+<LM id="T-wsj0234-001-p1s0a37">
 <a>
 <lex.rf>a#a-wsj0234-001-p1s0W37-Ta</lex.rf>
 </a>
@@ -464,13 +480,16 @@
 <deepord>38</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0234-001-p1s0a25</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0234-001-p1s0a41">
@@ -496,9 +515,11 @@
 </gram>
 <deepord>40</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0234-001-p1s0a34</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0234-001-p1s0a42">
@@ -512,11 +533,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>43</deepord>
-<children id="T-wsj0234-001-p1s0a43">
+<children>
+<LM id="T-wsj0234-001-p1s0a43">
 <a>
 <lex.rf>a#a-wsj0234-001-p1s0W42-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0234-001-p1s0a33</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0234-001-p1s0a33</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -524,12 +548,15 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>42</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -545,13 +572,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Metromedia Co. said its Metromedia Long Distance unit has been renamed Metromedia-ITT Long Distance, reflecting acquisitions from ITT Corp., which licenses its name to closely held Metromedia.</eng_sentence>
 </LM>
 <LM id="T-wsj0234-001-p1s1">
 <atree.rf>a#a-wsj0234-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0234-001-p1s1a1">
+<children>
+<LM id="T-wsj0234-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0234-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -575,7 +604,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0234-001-p1s1a3">
+<children>
+<LM id="T-wsj0234-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj0234-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -586,17 +616,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0234-001-p1s0a47</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0234-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj0234-001-p1s1W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0234-001-p1s1W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0234-001-p1s1W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -618,7 +653,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0234-001-p1s1a8">
+<children>
+<LM id="T-wsj0234-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj0234-001-p1s1W6-Ta</lex.rf>
 </a>
@@ -630,15 +666,20 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0234-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0234-001-p1s0a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0234-001-p1s1a9">
@@ -704,7 +745,9 @@
 <LM id="T-wsj0234-001-p1s1a15">
 <a>
 <lex.rf>a#a-wsj0234-001-p1s1W16-Ta</lex.rf>
-<aux.rf>a#a-wsj0234-001-p1s1W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0234-001-p1s1W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>vzdálenost</t_lemma>
@@ -713,7 +756,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj0234-001-p1s1a16">
+<children>
+<LM id="T-wsj0234-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj0234-001-p1s1W15-Ta</lex.rf>
 </a>
@@ -724,6 +768,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -731,7 +776,9 @@
 <LM id="T-wsj0234-001-p1s1a18">
 <a>
 <lex.rf>a#a-wsj0234-001-p1s1W19-Ta</lex.rf>
-<aux.rf>a#a-wsj0234-001-p1s1W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0234-001-p1s1W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>stát</t_lemma>
@@ -740,7 +787,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj0234-001-p1s1a19">
+<children>
+<LM id="T-wsj0234-001-p1s1a19">
 <a>
 <lex.rf>a#a-wsj0234-001-p1s1W18-Ta</lex.rf>
 </a>
@@ -751,16 +799,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0234-001-p1s1a21">
 <a>
 <lex.rf>a#a-wsj0234-001-p1s1W22-Ta</lex.rf>
-<aux.rf>a#a-wsj0234-001-p1s1W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0234-001-p1s1W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>příjem</t_lemma>
@@ -785,7 +832,9 @@
 <LM id="T-wsj0234-001-p1s1a25">
 <a>
 <lex.rf>a#a-wsj0234-001-p1s1W25-Ta</lex.rf>
-<aux.rf>a#a-wsj0234-001-p1s1W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0234-001-p1s1W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -824,7 +873,9 @@
 <LM id="T-wsj0234-001-p1s1a28">
 <a>
 <lex.rf>a#a-wsj0234-001-p1s1W28-Ta</lex.rf>
-<aux.rf>a#a-wsj0234-001-p1s1W27-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0234-001-p1s1W27-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -833,7 +884,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj0234-001-p1s1a29">
+<children>
+<LM id="T-wsj0234-001-p1s1a29">
 <a>
 <lex.rf>a#a-wsj0234-001-p1s1W29-Ta</lex.rf>
 </a>
@@ -844,7 +896,6 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>22</deepord>
-</children>
 </LM>
 </children>
 </LM>
@@ -853,13 +904,17 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Metromedia said its unit is the fifth-largest provider of long-distance communications service in the U.S., with projected 1989 revenue of more than $550 million.</eng_sentence>
 </LM>
 <LM id="T-wsj0234-001-p1s2">
 <atree.rf>a#a-wsj0234-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0234-001-p1s2a1">
+<children>
+<LM id="T-wsj0234-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0234-001-p1s2W10-Ta</lex.rf>
 </a>
@@ -907,7 +962,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0234-001-p1s2a6">
+<children>
+<LM id="T-wsj0234-001-p1s2a6">
 <a>
 <lex.rf>a#a-wsj0234-001-p1s2W8-Ta</lex.rf>
 </a>
@@ -944,13 +1000,16 @@
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0234-001-p1s1a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0234-001-p1s2a11">
@@ -977,7 +1036,9 @@
 <LM id="T-wsj0234-001-p1s2a14">
 <a>
 <lex.rf>a#a-wsj0234-001-p1s2W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0234-001-p1s2W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0234-001-p1s2W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>telekomunikace</t_lemma>
@@ -991,7 +1052,9 @@
 <LM id="T-wsj0234-001-p1s2a16">
 <a>
 <lex.rf>a#a-wsj0234-001-p1s2W16-Ta</lex.rf>
-<aux.rf>a#a-wsj0234-001-p1s2W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0234-001-p1s2W12-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2273f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1031,14 +1094,18 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0234-001-p1s2a19">
 <a>
 <lex.rf>a#a-wsj0234-001-p1s2W19-Ta</lex.rf>
-<aux.rf>a#a-wsj0234-001-p1s2W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0234-001-p1s2W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>program</t_lemma>
@@ -1048,7 +1115,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj0234-001-p1s2a20">
+<children>
+<LM id="T-wsj0234-001-p1s2a20">
 <a>
 <lex.rf>a#a-wsj0234-001-p1s2W18-Ta</lex.rf>
 </a>
@@ -1059,12 +1127,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0234-001-p1s2a22">
 <a>
 <lex.rf>a#a-wsj0234-001-p1s2W21-Ta</lex.rf>
-<aux.rf>a#a-wsj0234-001-p1s2W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0234-001-p1s2W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>restaurace</t_lemma>
@@ -1078,7 +1149,9 @@
 <LM id="T-wsj0234-001-p1s2a23">
 <a>
 <lex.rf>a#a-wsj0234-001-p1s2W24-Ta</lex.rf>
-<aux.rf>a#a-wsj0234-001-p1s2W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0234-001-p1s2W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>průmysl</t_lemma>
@@ -1088,7 +1161,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj0234-001-p1s2a24">
+<children>
+<LM id="T-wsj0234-001-p1s2a24">
 <a>
 <lex.rf>a#a-wsj0234-001-p1s2W23-Ta</lex.rf>
 </a>
@@ -1099,11 +1173,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>18</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Metromedia, headed by John W. Kluge, has interests in telecommunications, robotic painting, computer software, restaurants and entertainment.</eng_sentence>
 </LM>

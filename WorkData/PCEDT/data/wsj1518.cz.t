@@ -11,10 +11,13 @@
 <LM id="T-wsj1518-001-p1s0">
 <atree.rf>a#a-wsj1518-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1518-001-p1s0a1">
+<children>
+<LM id="T-wsj1518-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1518-001-p1s0W23-Ta</lex.rf>
-<aux.rf>a#a-wsj1518-001-p1s0W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1518-001-p1s0W12-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9986f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -58,10 +61,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>špatný nominativ</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1518-001-p1s0a21">
 <a>
@@ -125,7 +124,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1518-001-p1s0a7">
+<children>
+<LM id="T-wsj1518-001-p1s0a7">
 <a>
 <lex.rf>a#a-wsj1518-001-p1s0W9-Ta</lex.rf>
 </a>
@@ -136,6 +136,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -145,7 +146,9 @@
 <LM id="T-wsj1518-001-p1s0a10">
 <a>
 <lex.rf>a#a-wsj1518-001-p1s0W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1518-001-p1s0W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1518-001-p1s0W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>koncern</t_lemma>
@@ -170,7 +173,9 @@
 <LM id="T-wsj1518-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj1518-001-p1s0W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1518-001-p1s0W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1518-001-p1s0W18-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8746f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -185,7 +190,9 @@
 <a>
 <lex.rf>a#a-wsj1518-001-p1s0W17-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1518-001-p1s0a10</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1518-001-p1s0a10</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -205,7 +212,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1518-001-p1s0a17">
+<children>
+<LM id="T-wsj1518-001-p1s0a17">
 <a>
 <lex.rf>a#a-wsj1518-001-p1s0W20-Ta</lex.rf>
 </a>
@@ -216,14 +224,17 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>Coref</type>
 <text>odkaz na něco v předchozím kontextu, který zde ale chybí</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1518-001-p1s0a34">
@@ -236,15 +247,19 @@
 </gram>
 <deepord>17</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1518-001-p1s0a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1518-001-p1s0a25">
 <a>
 <lex.rf>a#a-wsj1518-001-p1s0W26-Ta</lex.rf>
-<aux.rf>a#a-wsj1518-001-p1s0W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1518-001-p1s0W24-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>pozice</t_lemma>
@@ -277,10 +292,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj1518-001-p1s0a29">
+<children>
+<LM id="T-wsj1518-001-p1s0a29">
 <a>
 <lex.rf>a#a-wsj1518-001-p1s0W29-Ta</lex.rf>
-<aux.rf>a#a-wsj1518-001-p1s0W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1518-001-p1s0W28-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>prodej</t_lemma>
@@ -289,10 +307,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj1518-001-p1s0a31">
+<children>
+<LM id="T-wsj1518-001-p1s0a31">
 <a>
 <lex.rf>a#a-wsj1518-001-p1s0W32-Ta</lex.rf>
-<aux.rf>a#a-wsj1518-001-p1s0W30-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1518-001-p1s0W30-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Amerika</t_lemma>
@@ -301,7 +322,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj1518-001-p1s0a32">
+<children>
+<LM id="T-wsj1518-001-p1s0a32">
 <a>
 <lex.rf>a#a-wsj1518-001-p1s0W31-Ta</lex.rf>
 </a>
@@ -312,27 +334,30 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
-</children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Terry L. Haines, formerly general manager of Canadian operations, was elected to the new position of vice president, North American sales, of this plastics concern.</eng_sentence>
 </LM>
 <LM id="T-wsj1518-001-p1s1">
 <atree.rf>a#a-wsj1518-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1518-001-p1s1a1">
+<children>
+<LM id="T-wsj1518-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1518-001-p1s1W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1518-001-p1s1W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1518-001-p1s1W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1344f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -353,9 +378,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1518-001-p1s0a34</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1518-001-p1s1a3">
@@ -446,7 +473,9 @@
 <LM id="T-wsj1518-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj1518-001-p1s1W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1518-001-p1s1W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1518-001-p1s1W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>provoz</t_lemma>
@@ -455,10 +484,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1518-001-p1s1a14">
+<children>
+<LM id="T-wsj1518-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj1518-001-p1s1W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1518-001-p1s1W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1518-001-p1s1W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Amerika</t_lemma>
@@ -467,7 +499,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1518-001-p1s1a15">
+<children>
+<LM id="T-wsj1518-001-p1s1a15">
 <a>
 <lex.rf>a#a-wsj1518-001-p1s1W13-Ta</lex.rf>
 </a>
@@ -478,16 +511,16 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1518-001-p1s0a31</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 </children>
@@ -515,7 +548,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1518-001-p1s1a18">
+<children>
+<LM id="T-wsj1518-001-p1s1a18">
 <a>
 <lex.rf>a#a-wsj1518-001-p1s1W20-Ta</lex.rf>
 </a>
@@ -562,7 +596,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1518-001-p1s1a22">
+<children>
+<LM id="T-wsj1518-001-p1s1a22">
 <a>
 <lex.rf>a#a-wsj1518-001-p1s1W21-Ta</lex.rf>
 </a>
@@ -573,14 +608,18 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>17</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1518-001-p1s1a29</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1518-001-p1s1a23">
@@ -601,7 +640,9 @@
 <a>
 <lex.rf>a#a-wsj1518-001-p1s1W24-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1518-001-p1s1a17</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1518-001-p1s1a17</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>ACT</functor>
@@ -653,13 +694,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Also, Larry A. Kushkin, executive vice president, North American operations, was named head of the company's international automotive operations, another new position.</eng_sentence>
 </LM>
 <LM id="T-wsj1518-001-p1s2">
 <atree.rf>a#a-wsj1518-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1518-001-p1s2a1">
+<children>
+<LM id="T-wsj1518-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1518-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -684,9 +727,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1518-001-p1s1a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1518-001-p1s2a3">
@@ -701,7 +746,9 @@
 <LM id="T-wsj1518-001-p1s2a6">
 <a>
 <lex.rf>a#a-wsj1518-001-p1s2W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1518-001-p1s2W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1518-001-p1s2W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9938f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -723,9 +770,11 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1518-001-p1s1a30</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1518-001-p1s2a7">
@@ -751,7 +800,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1518-001-p1s2a9">
+<children>
+<LM id="T-wsj1518-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj1518-001-p1s2W7-Ta</lex.rf>
 </a>
@@ -762,6 +812,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -769,7 +820,9 @@
 <LM id="T-wsj1518-001-p1s2a11">
 <a>
 <lex.rf>a#a-wsj1518-001-p1s2W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1518-001-p1s2W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1518-001-p1s2W10-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2858f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -805,9 +858,11 @@
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1518-001-p1s2a31</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1518-001-p1s2a14">
@@ -824,9 +879,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1518-001-p1s1a25</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1518-001-p1s2a15">
@@ -894,9 +951,13 @@
 <LM id="T-wsj1518-001-p1s2a21">
 <a>
 <lex.rf>a#a-wsj1518-001-p1s2W22-Ta</lex.rf>
-<aux.rf>a#a-wsj1518-001-p1s2W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1518-001-p1s2W21-Ta</LM>
+</aux.rf>
 </a>
-<compl.rf>T-wsj1518-001-p1s2a18</compl.rf>
+<compl.rf>
+<LM>T-wsj1518-001-p1s2a18</LM>
+</compl.rf>
 <nodetype>complex</nodetype>
 <t_lemma>trh</t_lemma>
 <functor>COMPL</functor>
@@ -904,10 +965,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1518-001-p1s2a24">
+<children>
+<LM id="T-wsj1518-001-p1s2a24">
 <a>
 <lex.rf>a#a-wsj1518-001-p1s2W27-Ta</lex.rf>
-<aux.rf>a#a-wsj1518-001-p1s2W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1518-001-p1s2W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>materiál</t_lemma>
@@ -928,7 +992,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj1518-001-p1s2a26">
+<children>
+<LM id="T-wsj1518-001-p1s2a26">
 <a>
 <lex.rf>a#a-wsj1518-001-p1s2W24-Ta</lex.rf>
 </a>
@@ -939,6 +1004,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>19</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1518-001-p1s2a27">
@@ -964,7 +1030,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj1518-001-p1s2a32">
+<children>
+<LM id="T-wsj1518-001-p1s2a32">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1005,15 +1072,17 @@
 <deepord>27</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1518-001-p1s2a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
@@ -1022,13 +1091,17 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>He remains an executive vice president, the company said, and his new position reflects ``the growing importance of the world automotive market as a market for A. Schulman's high performance plastic materials.''</eng_sentence>
 </LM>
 <LM id="T-wsj1518-001-p1s3">
 <atree.rf>a#a-wsj1518-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1518-001-p1s3a1">
+<children>
+<LM id="T-wsj1518-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1518-001-p1s3W2-Ta</lex.rf>
 </a>
@@ -1060,9 +1133,11 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1518-001-p1s2a28</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1518-001-p1s3a5">
@@ -1077,7 +1152,9 @@
 <LM id="T-wsj1518-001-p1s3a6">
 <a>
 <lex.rf>a#a-wsj1518-001-p1s3W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1518-001-p1s3W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1518-001-p1s3W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2014f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1100,7 +1177,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1518-001-p1s3a7">
+<children>
+<LM id="T-wsj1518-001-p1s3a7">
 <a>
 <lex.rf>a#a-wsj1518-001-p1s3W5-Ta</lex.rf>
 </a>
@@ -1111,11 +1189,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1518-001-p1s3a10">
 <a>
@@ -1155,15 +1230,19 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1518-001-p1s0a33</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1518-001-p1s3a14">
 <a>
 <lex.rf>a#a-wsj1518-001-p1s3W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1518-001-p1s3W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1518-001-p1s3W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>pozice</t_lemma>
@@ -1172,7 +1251,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1518-001-p1s3a15">
+<children>
+<LM id="T-wsj1518-001-p1s3a15">
 <a>
 <lex.rf>a#a-wsj1518-001-p1s3W14-Ta</lex.rf>
 </a>
@@ -1183,7 +1263,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1518-001-p1s3a16">
+<children>
+<LM id="T-wsj1518-001-p1s3a16">
 <a>
 <lex.rf>a#a-wsj1518-001-p1s3W15-Ta</lex.rf>
 </a>
@@ -1194,10 +1275,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1518-001-p1s3a18">
+<children>
+<LM id="T-wsj1518-001-p1s3a18">
 <a>
 <lex.rf>a#a-wsj1518-001-p1s3W17-Ta</lex.rf>
-<aux.rf>a#a-wsj1518-001-p1s3W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1518-001-p1s3W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Kanada</t_lemma>
@@ -1206,8 +1290,11 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -1289,14 +1376,12 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1518-001-p1s2a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
-<annot_comment>
-<type>T-lemma</type>
-<text>špatný nominativ</text>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1332,6 +1417,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Gordon Trimmer will succeed Mr. Haines as manager of Canadian operations, and Mr. Kushkin's former position isn't being filled at this time, the company said.</eng_sentence>
 </LM>

@@ -11,7 +11,8 @@
 <LM id="T-wsj0565-001-p1s0">
 <atree.rf>a#a-wsj0565-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0565-001-p1s0a1">
+<children>
+<LM id="T-wsj0565-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0565-001-p1s0W5-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0565-001-p1s0a24">
+<children>
+<LM id="T-wsj0565-001-p1s0a24">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -70,6 +72,7 @@
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0565-001-p1s0a2">
@@ -99,7 +102,9 @@
 <LM id="T-wsj0565-001-p1s0a5">
 <a>
 <lex.rf>a#a-wsj0565-001-p1s0W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0565-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0565-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>prodej</t_lemma>
@@ -108,7 +113,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0565-001-p1s0a6">
+<children>
+<LM id="T-wsj0565-001-p1s0a6">
 <a>
 <lex.rf>a#a-wsj0565-001-p1s0W10-Ta</lex.rf>
 </a>
@@ -119,7 +125,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0565-001-p1s0a7">
+<children>
+<LM id="T-wsj0565-001-p1s0a7">
 <a>
 <lex.rf>a#a-wsj0565-001-p1s0W11-Ta</lex.rf>
 </a>
@@ -130,7 +137,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0565-001-p1s0a25">
+<children>
+<LM id="T-wsj0565-001-p1s0a25">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -186,8 +194,11 @@
 <deepord>18</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -195,7 +206,9 @@
 <LM id="T-wsj0565-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj0565-001-p1s0W19-Ta</lex.rf>
-<aux.rf>a#a-wsj0565-001-p1s0W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0565-001-p1s0W18-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7449f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -218,9 +231,11 @@
 <is_parenthesis>1</is_parenthesis>
 <deepord>15</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0565-001-p1s0a1</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0565-001-p1s0a20">
@@ -235,7 +250,8 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>21</deepord>
-<children id="T-wsj0565-001-p1s0a21">
+<children>
+<LM id="T-wsj0565-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj0565-001-p1s0W20-Ta</lex.rf>
 </a>
@@ -247,6 +263,7 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>20</deepord>
+</LM>
 </children>
 <bridging>
 <LM>
@@ -264,13 +281,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Ultimate Corp. signed a letter of intent to market Hewlett-Packard Co. minicomputers, the companies said.</eng_sentence>
 </LM>
 <LM id="T-wsj0565-001-p1s1">
 <atree.rf>a#a-wsj0565-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0565-001-p1s1a6">
+<children>
+<LM id="T-wsj0565-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj0565-001-p1s1W20-Ta</lex.rf>
 </a>
@@ -290,7 +309,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0565-001-p1s1a3">
+<children>
+<LM id="T-wsj0565-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj0565-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -301,11 +321,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0565-001-p1s0a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0565-001-p1s1a1">
@@ -321,10 +344,13 @@
 <sempos>v</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0565-001-p1s1a11">
+<children>
+<LM id="T-wsj0565-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj0565-001-p1s1W14-Ta</lex.rf>
-<aux.rf>a#a-wsj0565-001-p1s1W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0565-001-p1s1W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5197f6_ZU</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -346,10 +372,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0565-001-p1s1a18">
+<children>
+<LM id="T-wsj0565-001-p1s1a18">
 <a>
 <lex.rf>a#a-wsj0565-001-p1s1W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0565-001-p1s1W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0565-001-p1s1W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -358,7 +387,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0565-001-p1s1a24">
+<children>
+<LM id="T-wsj0565-001-p1s1a24">
 <nodetype>coap</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Separ</t_lemma>
@@ -417,12 +447,16 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0565-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0565-001-p1s1a19">
@@ -437,9 +471,11 @@
 </gram>
 <deepord>11</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0565-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0565-001-p1s1a20">
@@ -453,7 +489,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj0565-001-p1s1a22">
+<children>
+<LM id="T-wsj0565-001-p1s1a22">
 <a>
 <lex.rf>a#a-wsj0565-001-p1s1W17-Ta</lex.rf>
 </a>
@@ -490,19 +527,19 @@
 <deepord>16</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0565-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj0565-001-p1s1W22-Ta</lex.rf>
-<aux.rf>a#a-wsj0565-001-p1s1W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0565-001-p1s1W23-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2702f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -536,16 +573,20 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Ultimate expects the 3 1/2-year agreement to generate $100 million in sales, but it wouldn't estimate profit.</eng_sentence>
 </LM>
 <LM id="T-wsj0565-001-p1s2">
 <atree.rf>a#a-wsj0565-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0565-001-p1s2a14">
+<children>
+<LM id="T-wsj0565-001-p1s2a14">
 <a>
 <lex.rf>a#a-wsj0565-001-p1s2W14-Ta</lex.rf>
-<aux.rf>a#a-wsj0565-001-p1s2W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0565-001-p1s2W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4316f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -571,7 +612,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0565-001-p1s2a5">
+<children>
+<LM id="T-wsj0565-001-p1s2a5">
 <a>
 <lex.rf>a#a-wsj0565-001-p1s2W3-Ta</lex.rf>
 </a>
@@ -582,6 +624,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0565-001-p1s2a6">
@@ -605,7 +648,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0565-001-p1s2a9">
+<children>
+<LM id="T-wsj0565-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj0565-001-p1s2W7-Ta</lex.rf>
 </a>
@@ -616,6 +660,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0565-001-p1s2a7">
@@ -630,7 +675,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj0565-001-p1s2a10">
+<children>
+<LM id="T-wsj0565-001-p1s2a10">
 <a>
 <lex.rf>a#a-wsj0565-001-p1s2W10-Ta</lex.rf>
 </a>
@@ -641,7 +687,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0565-001-p1s2a11">
+<children>
+<LM id="T-wsj0565-001-p1s2a11">
 <a>
 <lex.rf>a#a-wsj0565-001-p1s2W12-Ta</lex.rf>
 </a>
@@ -652,7 +699,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0565-001-p1s2a12">
+<children>
+<LM id="T-wsj0565-001-p1s2a12">
 <a>
 <lex.rf>a#a-wsj0565-001-p1s2W11-Ta</lex.rf>
 </a>
@@ -663,15 +711,20 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0565-001-p1s1a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0565-001-p1s2a26">
@@ -761,7 +814,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj0565-001-p1s2a21">
+<children>
+<LM id="T-wsj0565-001-p1s2a21">
 <a>
 <lex.rf>a#a-wsj0565-001-p1s2W21-Ta</lex.rf>
 </a>
@@ -772,12 +826,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>19</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0565-001-p1s2a24">
 <a>
 <lex.rf>a#a-wsj0565-001-p1s2W24-Ta</lex.rf>
-<aux.rf>a#a-wsj0565-001-p1s2W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0565-001-p1s2W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>uživatel</t_lemma>
@@ -786,7 +843,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj0565-001-p1s2a23">
+<children>
+<LM id="T-wsj0565-001-p1s2a23">
 <a>
 <lex.rf>a#a-wsj0565-001-p1s2W23-Ta</lex.rf>
 </a>
@@ -797,20 +855,23 @@
 <sempos>adj.quant.grad</sempos>
 </gram>
 <deepord>20</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Under terms of the pact, Ultimate, a computer-systems concern, will market the full line of HP 9000 series 800 multipleuser minicomputers.</eng_sentence>
 </LM>
 <LM id="T-wsj0565-001-p1s3">
 <atree.rf>a#a-wsj0565-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0565-001-p1s3a1">
+<children>
+<LM id="T-wsj0565-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj0565-001-p1s3W5-Ta</lex.rf>
 </a>
@@ -834,7 +895,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0565-001-p1s3a13">
+<children>
+<LM id="T-wsj0565-001-p1s3a13">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -863,11 +925,14 @@
 <deepord>4</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0565-001-p1s0a7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0565-001-p1s3a6">
@@ -885,7 +950,9 @@
 <LM id="T-wsj0565-001-p1s3a8">
 <a>
 <lex.rf>a#a-wsj0565-001-p1s3W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0565-001-p1s3W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0565-001-p1s3W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>město</t_lemma>
@@ -931,7 +998,9 @@
 <LM id="T-wsj0565-001-p1s3a12">
 <a>
 <lex.rf>a#a-wsj0565-001-p1s3W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0565-001-p1s3W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0565-001-p1s3W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Kalifornie</t_lemma>
@@ -944,6 +1013,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Hewlett-Packard is based in Palo Alto, Calif.</eng_sentence>
 </LM>

@@ -11,7 +11,8 @@
 <LM id="T-wsj1799-001-p1s0">
 <atree.rf>a#a-wsj1799-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1799-001-p1s0a1">
+<children>
+<LM id="T-wsj1799-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1799-001-p1s0W9-Ta</lex.rf>
 </a>
@@ -52,7 +53,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1799-001-p1s0a4">
+<children>
+<LM id="T-wsj1799-001-p1s0a4">
 <a>
 <lex.rf>a#a-wsj1799-001-p1s0W1-Ta</lex.rf>
 </a>
@@ -63,6 +65,7 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1799-001-p1s0a5">
@@ -89,10 +92,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1799-001-p1s0a8">
+<children>
+<LM id="T-wsj1799-001-p1s0a8">
 <a>
 <lex.rf>a#a-wsj1799-001-p1s0W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1799-001-p1s0W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1799-001-p1s0W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>tiskárna</t_lemma>
@@ -101,7 +107,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1799-001-p1s0a9">
+<children>
+<LM id="T-wsj1799-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj1799-001-p1s0W7-Ta</lex.rf>
 </a>
@@ -112,22 +119,25 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
+</LM>
 </children>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>Coref</type>
 <text>odkaz na něco v předchozím kontextu, který zde ale chybí</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1799-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj1799-001-p1s0W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1799-001-p1s0W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1799-001-p1s0W11-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w598f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -148,15 +158,19 @@
 </gram>
 <deepord>10</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1799-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1799-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj1799-001-p1s0W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1799-001-p1s0W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1799-001-p1s0W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>nabídka</t_lemma>
@@ -239,7 +253,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1799-001-p1s0a21">
+<children>
+<LM id="T-wsj1799-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj1799-001-p1s0W20-Ta</lex.rf>
 </a>
@@ -250,6 +265,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>18</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -257,7 +273,9 @@
 <LM id="T-wsj1799-001-p1s0a23">
 <a>
 <lex.rf>a#a-wsj1799-001-p1s0W24-Ta</lex.rf>
-<aux.rf>a#a-wsj1799-001-p1s0W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1799-001-p1s0W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dolar</t_lemma>
@@ -282,7 +300,9 @@
 <LM id="T-wsj1799-001-p1s0a26">
 <a>
 <lex.rf>a#a-wsj1799-001-p1s0W26-Ta</lex.rf>
-<aux.rf>a#a-wsj1799-001-p1s0W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1799-001-p1s0W25-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akcie</t_lemma>
@@ -299,13 +319,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>This maker and marketer of cartridge tape systems said it completed the sale of 2.85 million shares of common priced at $10 a share in an initial public offering.</eng_sentence>
 </LM>
 <LM id="T-wsj1799-001-p1s1">
 <atree.rf>a#a-wsj1799-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1799-001-p1s1a1">
+<children>
+<LM id="T-wsj1799-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1799-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -330,9 +352,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1799-001-p1s0a29</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1799-001-p1s1a3">
@@ -354,7 +378,9 @@
 <LM id="T-wsj1799-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj1799-001-p1s1W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1799-001-p1s1W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1799-001-p1s1W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4316f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -376,9 +402,11 @@
 </gram>
 <deepord>3</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1799-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1799-001-p1s1a7">
@@ -424,7 +452,9 @@
 <LM id="T-wsj1799-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj1799-001-p1s1W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1799-001-p1s1W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1799-001-p1s1W10-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4316f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -448,7 +478,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1799-001-p1s1a12">
+<children>
+<LM id="T-wsj1799-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj1799-001-p1s1W11-Ta</lex.rf>
 </a>
@@ -459,6 +490,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1799-001-p1s1a13">
@@ -472,7 +504,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj1799-001-p1s1a14">
+<children>
+<LM id="T-wsj1799-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj1799-001-p1s1W13-Ta</lex.rf>
 </a>
@@ -483,23 +516,28 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>13</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The company said that it is selling two million shares and that the rest are being sold by certain stockholders.</eng_sentence>
 </LM>
 <LM id="T-wsj1799-001-p1s2">
 <atree.rf>a#a-wsj1799-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1799-001-p1s2a1">
+<children>
+<LM id="T-wsj1799-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1799-001-p1s2W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1799-001-p1s2W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1799-001-p1s2W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4130f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -541,7 +579,9 @@
 <LM id="T-wsj1799-001-p1s2a6">
 <a>
 <lex.rf>a#a-wsj1799-001-p1s2W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1799-001-p1s2W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1799-001-p1s2W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výdaj</t_lemma>
@@ -551,7 +591,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1799-001-p1s2a7">
+<children>
+<LM id="T-wsj1799-001-p1s2a7">
 <a>
 <lex.rf>a#a-wsj1799-001-p1s2W5-Ta</lex.rf>
 </a>
@@ -562,12 +603,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1799-001-p1s2a8">
 <a>
 <lex.rf>a#a-wsj1799-001-p1s2W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1799-001-p1s2W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1799-001-p1s2W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>kapitál</t_lemma>
@@ -577,7 +621,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1799-001-p1s2a9">
+<children>
+<LM id="T-wsj1799-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj1799-001-p1s2W8-Ta</lex.rf>
 </a>
@@ -588,18 +633,21 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Proceeds will be used for capital expenditures and working capital.</eng_sentence>
 </LM>
 <LM id="T-wsj1799-001-p1s3">
 <atree.rf>a#a-wsj1799-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1799-001-p1s3a1">
+<children>
+<LM id="T-wsj1799-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1799-001-p1s3W2-Ta</lex.rf>
 </a>
@@ -624,9 +672,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1799-001-p1s0a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1799-001-p1s3a4">
@@ -640,7 +690,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1799-001-p1s3a3">
+<children>
+<LM id="T-wsj1799-001-p1s3a3">
 <a>
 <lex.rf>a#a-wsj1799-001-p1s3W10-Ta</lex.rf>
 </a>
@@ -769,9 +820,11 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Goldman, Sachs &amp; Co. and Montgomery Securities Inc. are co-managing the offering.</eng_sentence>
 </LM>

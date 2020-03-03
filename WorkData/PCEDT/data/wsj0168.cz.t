@@ -54,10 +54,6 @@
 <deepord>3</deepord>
 <annot_comment>
 <LM>
-<type>T-lemma</type>
-<text>původní t-lemma meridián</text>
-</LM>
-<LM>
 <type>Typo</type>
 <text>překlep</text>
 </LM>

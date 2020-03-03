@@ -963,12 +963,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>32</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>arbitražéře</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1906,12 +1900,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>chápáno jako jméno "Arbitražéer"</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1490-001-p1s3a3">
 <a>
@@ -2226,12 +2214,6 @@
 <src>PCEDT</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>chápáno jako sloveso "být"</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1490-001-p1s3a31">
 <a>
@@ -8549,12 +8531,6 @@
 <is_exception>1</is_exception>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>peníz</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1490-001-p1s20a15">
 <a>
@@ -9019,12 +8995,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>pilota</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1490-001-p1s22a5">
 <a>
@@ -9442,12 +9412,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>pilota</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1490-001-p1s23a14">
 <a>
@@ -15140,12 +15104,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>pilota</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1490-001-p1s39a71">
 <a>
@@ -15635,10 +15593,6 @@
 </gram>
 <deepord>1</deepord>
 <annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
 <LM>
 <type>Typo</type>
 <text>arbitražéer</text>
@@ -16134,12 +16088,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>chápáno jako adjektivum</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -16343,12 +16291,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>arbitražéře</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1490-001-p1s42a21">
 <a>
@@ -16563,12 +16505,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>arbitražéře</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1490-001-p1s43a11">
 <a>

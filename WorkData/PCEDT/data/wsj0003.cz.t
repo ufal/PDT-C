@@ -1429,12 +1429,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>zveřejnit</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <eng_sentence>Although preliminary findings were reported more than a year ago, the latest results appear in today's New England Journal of Medicine, a forum likely to bring new attention to the problem.</eng_sentence>
@@ -2379,20 +2373,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Dana</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Faber</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0003-001-p1s8a28">
 <a>
@@ -2472,12 +2454,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>zkratka</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -2548,12 +2524,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Národní</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0003-001-p1s9a12">
 <a>
@@ -2647,12 +2617,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Harvardský</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0003-001-p1s9a20">
 <a>
@@ -2666,22 +2630,10 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Bostonský</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>universita</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4168,12 +4120,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>zkratka</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -4670,12 +4616,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vlastnit</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -4831,12 +4771,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Dr</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -5392,12 +5326,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5769,12 +5697,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>zkratka</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -6052,12 +5974,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0003-001-p1s21a9">
 <a>

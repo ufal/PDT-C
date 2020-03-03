@@ -11,7 +11,8 @@
 <LM id="T-wsj1714-001-p1s0">
 <atree.rf>a#a-wsj1714-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1714-001-p1s0a12">
+<children>
+<LM id="T-wsj1714-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj1714-001-p1s0W12-Ta</lex.rf>
 </a>
@@ -160,7 +161,9 @@
 <LM id="T-wsj1714-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj1714-001-p1s0W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1714-001-p1s0W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1714-001-p1s0W14-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w523f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -181,9 +184,11 @@
 </gram>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1714-001-p1s0a1</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1714-001-p1s0a16">
@@ -201,7 +206,9 @@
 <LM id="T-wsj1714-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj1714-001-p1s0W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1714-001-p1s0W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1714-001-p1s0W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -304,9 +311,11 @@
 </gram>
 <deepord>21</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1714-001-p1s0a43</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1714-001-p1s0a30">
@@ -317,7 +326,9 @@
 <LM>a#a-wsj1714-001-p1s0W26-Ta</LM>
 </aux.rf>
 </a>
-<coref_gram.rf>T-wsj1714-001-p1s0a16</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1714-001-p1s0a16</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>CRIT</functor>
@@ -361,12 +372,14 @@
 <sempos>v</sempos>
 </gram>
 <deepord>29</deepord>
-<children id="T-wsj1714-001-p1s0a50">
+<children>
+<LM id="T-wsj1714-001-p1s0a50">
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Gen</t_lemma>
 <functor>ADDR</functor>
 <deepord>30</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1714-001-p1s0a34">
@@ -380,7 +393,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>32</deepord>
-<children id="T-wsj1714-001-p1s0a35">
+<children>
+<LM id="T-wsj1714-001-p1s0a35">
 <a>
 <lex.rf>a#a-wsj1714-001-p1s0W34-Ta</lex.rf>
 </a>
@@ -391,12 +405,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>31</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1714-001-p1s0a37">
 <a>
 <lex.rf>a#a-wsj1714-001-p1s0W37-Ta</lex.rf>
-<aux.rf>a#a-wsj1714-001-p1s0W36-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1714-001-p1s0W36-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4131f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -417,9 +434,11 @@
 </gram>
 <deepord>34</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1714-001-p1s0a51</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1714-001-p1s0a38">
@@ -433,7 +452,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>35</deepord>
-<children id="T-wsj1714-001-p1s0a39">
+<children>
+<LM id="T-wsj1714-001-p1s0a39">
 <a>
 <lex.rf>a#a-wsj1714-001-p1s0W39-Ta</lex.rf>
 </a>
@@ -444,12 +464,15 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>36</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -459,13 +482,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Aussedat Rey S.A., a French paper producer, said it concluded an agreement with Japan's Fuji Photo Film Co. that will allow Aussedat Rey to manufacture and sell thermal paper using Fuji technology.</eng_sentence>
 </LM>
 <LM id="T-wsj1714-001-p1s1">
 <atree.rf>a#a-wsj1714-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1714-001-p1s1a1">
+<children>
+<LM id="T-wsj1714-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1714-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -511,9 +536,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1714-001-p1s0a57</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1714-001-p1s1a4">
@@ -573,7 +600,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1714-001-p1s1a9">
+<children>
+<LM id="T-wsj1714-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj1714-001-p1s1W7-Ta</lex.rf>
 </a>
@@ -584,6 +612,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1714-001-p1s1a10">
@@ -598,10 +627,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1714-001-p1s1a12">
+<children>
+<LM id="T-wsj1714-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj1714-001-p1s1W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1714-001-p1s1W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1714-001-p1s1W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>tisk</t_lemma>
@@ -610,7 +642,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1714-001-p1s1a13">
+<children>
+<LM id="T-wsj1714-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj1714-001-p1s1W12-Ta</lex.rf>
 </a>
@@ -621,24 +654,30 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>12</deepord>
-</children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Aussedat Rey is a leading French maker of copying and electronic printing paper.</eng_sentence>
 </LM>
 <LM id="T-wsj1714-001-p1s2">
 <atree.rf>a#a-wsj1714-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1714-001-p1s2a1">
+<children>
+<LM id="T-wsj1714-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1714-001-p1s2W4-Ta</lex.rf>
-<aux.rf>a#a-wsj1714-001-p1s2W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1714-001-p1s2W3-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4135f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -667,7 +706,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1714-001-p1s2a3">
+<children>
+<LM id="T-wsj1714-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj1714-001-p1s2W1-Ta</lex.rf>
 </a>
@@ -678,12 +718,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1714-001-p1s2a6">
 <a>
 <lex.rf>a#a-wsj1714-001-p1s2W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1714-001-p1s2W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1714-001-p1s2W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>přístroj</t_lemma>
@@ -692,7 +735,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1714-001-p1s2a7">
+<children>
+<LM id="T-wsj1714-001-p1s2a7">
 <a>
 <lex.rf>a#a-wsj1714-001-p1s2W6-Ta</lex.rf>
 </a>
@@ -703,19 +747,24 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Thermal paper is used in facsimile machines.</eng_sentence>
 </LM>
 <LM id="T-wsj1714-001-p1s3">
 <atree.rf>a#a-wsj1714-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1714-001-p1s3a1">
+<children>
+<LM id="T-wsj1714-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1714-001-p1s3W4-Ta</lex.rf>
-<aux.rf>a#a-wsj1714-001-p1s3W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1714-001-p1s3W3-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9966f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -744,7 +793,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1714-001-p1s3a3">
+<children>
+<LM id="T-wsj1714-001-p1s3a3">
 <a>
 <lex.rf>a#a-wsj1714-001-p1s3W2-Ta</lex.rf>
 </a>
@@ -756,10 +806,13 @@
 </gram>
 <deepord>3</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1714-001-p1s0a30</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1714-001-p1s3a5">
@@ -770,16 +823,15 @@
 <deepord>5</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
+</LM>
 </children>
 <eng_sentence>Terms of the agreement weren't disclosed.</eng_sentence>
 </LM>
 <LM id="T-wsj1714-001-p1s4">
 <atree.rf>a#a-wsj1714-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1714-001-p1s4a1">
+<children>
+<LM id="T-wsj1714-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj1714-001-p1s4W4-Ta</lex.rf>
 </a>
@@ -803,7 +855,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1714-001-p1s4a24">
+<children>
+<LM id="T-wsj1714-001-p1s4a24">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -836,21 +889,28 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1714-001-p1s1a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1714-001-p1s3a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1714-001-p1s4a6">
 <a>
 <lex.rf>a#a-wsj1714-001-p1s4W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1714-001-p1s4W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1714-001-p1s4W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dohoda</t_lemma>
@@ -875,7 +935,9 @@
 <LM id="T-wsj1714-001-p1s4a9">
 <a>
 <lex.rf>a#a-wsj1714-001-p1s4W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1714-001-p1s4W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1714-001-p1s4W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>licence</t_lemma>
@@ -884,7 +946,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1714-001-p1s4a12">
+<children>
+<LM id="T-wsj1714-001-p1s4a12">
 <a>
 <lex.rf>a#a-wsj1714-001-p1s4W12-Ta</lex.rf>
 <aux.rf>
@@ -899,6 +962,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1714-001-p1s4a14">
@@ -913,7 +977,9 @@
 <LM id="T-wsj1714-001-p1s4a15">
 <a>
 <lex.rf>a#a-wsj1714-001-p1s4W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1714-001-p1s4W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1714-001-p1s4W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>producent</t_lemma>
@@ -947,7 +1013,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1714-001-p1s4a18">
+<children>
+<LM id="T-wsj1714-001-p1s4a18">
 <a>
 <lex.rf>a#a-wsj1714-001-p1s4W16-Ta</lex.rf>
 </a>
@@ -958,6 +1025,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -965,7 +1033,9 @@
 <LM id="T-wsj1714-001-p1s4a19">
 <a>
 <lex.rf>a#a-wsj1714-001-p1s4W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1714-001-p1s4W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1714-001-p1s4W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>skupina</t_lemma>
@@ -991,7 +1061,9 @@
 <LM id="T-wsj1714-001-p1s4a22">
 <a>
 <lex.rf>a#a-wsj1714-001-p1s4W23-Ta</lex.rf>
-<aux.rf>a#a-wsj1714-001-p1s4W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1714-001-p1s4W21-Ta</LM>
+</aux.rf>
 </a>
 <coref_special>segm</coref_special>
 <nodetype>complex</nodetype>
@@ -1001,7 +1073,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1714-001-p1s4a23">
+<children>
+<LM id="T-wsj1714-001-p1s4a23">
 <a>
 <lex.rf>a#a-wsj1714-001-p1s4W22-Ta</lex.rf>
 </a>
@@ -1012,7 +1085,6 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>17</deepord>
-</children>
 </LM>
 </children>
 </LM>
@@ -1021,6 +1093,9 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Aussedat Rey's move follows similar technology-licensing agreements between Japanese producers of thermal paper and European paper groups.</eng_sentence>
 </LM>

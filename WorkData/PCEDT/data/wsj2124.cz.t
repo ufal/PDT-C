@@ -1041,11 +1041,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3130,12 +3125,6 @@
 <deepord>17</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text> předložka o má špatné m-lema</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3596,12 +3585,6 @@
 <t_lemma>#Some</t_lemma>
 <functor>PAT</functor>
 <deepord>16</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>radši dávám #Some než abych zkopírovala vysoký, je to totiž předtím adverbium a kopírovaní uzel musí být adjektivum</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2124-001-p1s12a20">
 <a>
@@ -5228,12 +5211,6 @@
 <src>LH</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>proprium</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6725,11 +6702,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8547,11 +8519,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>36</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -9872,11 +9839,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -11277,12 +11239,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>jedná se o substantivum pomnožné</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2124-001-p1s44a4">
 <a>

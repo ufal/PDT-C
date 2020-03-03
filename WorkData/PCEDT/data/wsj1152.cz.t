@@ -11,7 +11,8 @@
 <LM id="T-wsj1152-001-p1s0">
 <atree.rf>a#a-wsj1152-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1152-001-p1s0a1">
+<children>
+<LM id="T-wsj1152-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1152-001-p1s0W20-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1152-001-p1s0a26">
+<children>
+<LM id="T-wsj1152-001-p1s0a26">
 <a>
 <lex.rf>a#a-wsj1152-001-p1s0W9-Ta</lex.rf>
 </a>
@@ -128,14 +130,16 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>11</deepord>
-<children id="T-wsj1152-001-p1s0a27">
+<children>
+<LM id="T-wsj1152-001-p1s0a27">
 <nodetype>complex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#EmpNoun</t_lemma>
 <functor>RSTR</functor>
 <is_parenthesis>1</is_parenthesis>
 <deepord>12</deepord>
-<children id="T-wsj1152-001-p1s0a12">
+<children>
+<LM id="T-wsj1152-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj1152-001-p1s0W12-Ta</lex.rf>
 </a>
@@ -174,14 +178,13 @@
 <deepord>16</deepord>
 </LM>
 </children>
-</children>
-</children>
-<annot_comment>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</annot_comment>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1152-001-p1s0a17">
@@ -196,7 +199,9 @@
 <LM id="T-wsj1152-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj1152-001-p1s0W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1152-001-p1s0W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1152-001-p1s0W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>budoucnost</t_lemma>
@@ -205,7 +210,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1152-001-p1s0a20">
+<children>
+<LM id="T-wsj1152-001-p1s0a20">
 <a>
 <lex.rf>a#a-wsj1152-001-p1s0W18-Ta</lex.rf>
 </a>
@@ -216,6 +222,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>18</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1152-001-p1s0a21">
@@ -257,13 +264,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>``Lifestyles of the Rich and Famous'' may be visiting some new venues in the near future.</eng_sentence>
 </LM>
 <LM id="T-wsj1152-001-p1s1">
 <atree.rf>a#a-wsj1152-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1152-001-p1s1a10">
+<children>
+<LM id="T-wsj1152-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj1152-001-p1s1W12-Ta</lex.rf>
 </a>
@@ -338,7 +347,8 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>6</deepord>
-<children id="T-wsj1152-001-p1s1a8">
+<children>
+<LM id="T-wsj1152-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj1152-001-p1s1W6-Ta</lex.rf>
 </a>
@@ -350,15 +360,8 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>7</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -394,7 +397,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1152-001-p1s1a13">
+<children>
+<LM id="T-wsj1152-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj1152-001-p1s1W13-Ta</lex.rf>
 </a>
@@ -405,12 +409,15 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1152-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj1152-001-p1s1W17-Ta</lex.rf>
-<aux.rf>a#a-wsj1152-001-p1s1W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1152-001-p1s1W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -449,7 +456,9 @@
 <LM id="T-wsj1152-001-p1s1a22">
 <a>
 <lex.rf>a#a-wsj1152-001-p1s1W25-Ta</lex.rf>
-<aux.rf>a#a-wsj1152-001-p1s1W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1152-001-p1s1W20-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2886f3_ZU</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -471,9 +480,12 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj1152-001-p1s1a44">
+<children>
+<LM id="T-wsj1152-001-p1s1a44">
 <a>
-<aux.rf>a#a-wsj1152-001-p1s1W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1152-001-p1s1W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -503,6 +515,7 @@
 <deepord>18</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1152-001-p1s1a29">
@@ -555,7 +568,9 @@
 <LM id="T-wsj1152-001-p1s1a31">
 <a>
 <lex.rf>a#a-wsj1152-001-p1s1W31-Ta</lex.rf>
-<aux.rf>a#a-wsj1152-001-p1s1W29-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1152-001-p1s1W29-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>den</t_lemma>
@@ -565,7 +580,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj1152-001-p1s1a32">
+<children>
+<LM id="T-wsj1152-001-p1s1a32">
 <a>
 <lex.rf>a#a-wsj1152-001-p1s1W30-Ta</lex.rf>
 </a>
@@ -576,12 +592,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>24</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1152-001-p1s1a34">
 <a>
 <lex.rf>a#a-wsj1152-001-p1s1W35-Ta</lex.rf>
-<aux.rf>a#a-wsj1152-001-p1s1W33-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1152-001-p1s1W33-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodina</t_lemma>
@@ -615,10 +634,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>28</deepord>
-<children id="T-wsj1152-001-p1s1a38">
+<children>
+<LM id="T-wsj1152-001-p1s1a38">
 <a>
 <lex.rf>a#a-wsj1152-001-p1s1W38-Ta</lex.rf>
-<aux.rf>a#a-wsj1152-001-p1s1W37-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1152-001-p1s1W37-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>bezdomovkyně</t_lemma>
@@ -627,7 +649,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>29</deepord>
-</children>
 </LM>
 </children>
 </LM>
@@ -636,13 +657,17 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Judge Robert (``Maximum Bob'') Potter sentenced Jim Bakker to 45 years in the big house yesterday, while a Beverly Hills judge tucked away Zsa Zsa Gabor for three days, plus 120 hours of work with homeless women.</eng_sentence>
 </LM>
 <LM id="T-wsj1152-001-p1s2">
 <atree.rf>a#a-wsj1152-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1152-001-p1s2a1">
+<children>
+<LM id="T-wsj1152-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1152-001-p1s2W3-Ta</lex.rf>
 </a>
@@ -666,7 +691,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1152-001-p1s2a3">
+<children>
+<LM id="T-wsj1152-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj1152-001-p1s2W1-Ta</lex.rf>
 </a>
@@ -677,11 +703,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1152-001-p1s1a29</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1152-001-p1s2a4">
@@ -707,7 +736,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1152-001-p1s2a6">
+<children>
+<LM id="T-wsj1152-001-p1s2a6">
 <a>
 <lex.rf>a#a-wsj1152-001-p1s2W4-Ta</lex.rf>
 </a>
@@ -718,12 +748,15 @@
 <sempos>adv.denot.grad.nneg</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1152-001-p1s2a8">
 <a>
 <lex.rf>a#a-wsj1152-001-p1s2W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1152-001-p1s2W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1152-001-p1s2W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>lesbička</t_lemma>
@@ -732,10 +765,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1152-001-p1s2a10">
+<children>
+<LM id="T-wsj1152-001-p1s2a10">
 <a>
 <lex.rf>a#a-wsj1152-001-p1s2W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1152-001-p1s2W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1152-001-p1s2W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>vězení</t_lemma>
@@ -744,18 +780,21 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Miss Gabor recanted her earlier-expressed fear of jailhouse lesbians.</eng_sentence>
 </LM>
 <LM id="T-wsj1152-001-p1s3">
 <atree.rf>a#a-wsj1152-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1152-001-p1s3a2">
+<children>
+<LM id="T-wsj1152-001-p1s3a2">
 <a>
 <lex.rf>a#a-wsj1152-001-p1s3W2-Ta</lex.rf>
 </a>
@@ -787,9 +826,11 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1152-001-p1s1a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1152-001-p1s3a6">
@@ -819,9 +860,11 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1152-001-p1s3a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1152-001-p1s3a1">
@@ -873,16 +916,20 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Mr. Bakker said he was guilty of sin but not fraud.</eng_sentence>
 </LM>
 <LM id="T-wsj1152-001-p1s4">
 <atree.rf>a#a-wsj1152-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1152-001-p1s4a2">
+<children>
+<LM id="T-wsj1152-001-p1s4a2">
 <a>
 <lex.rf>a#a-wsj1152-001-p1s4W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1152-001-p1s4W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1152-001-p1s4W1-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1013f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -976,7 +1023,9 @@
 <LM id="T-wsj1152-001-p1s4a10">
 <a>
 <lex.rf>a#a-wsj1152-001-p1s4W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1152-001-p1s4W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1152-001-p1s4W13-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6496f4</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -990,9 +1039,13 @@
 <LM id="T-wsj1152-001-p1s4a13">
 <a>
 <lex.rf>a#a-wsj1152-001-p1s4W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1152-001-p1s4W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1152-001-p1s4W11-Ta</LM>
+</aux.rf>
 </a>
-<coref_gram.rf>T-wsj1152-001-p1s4a7</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1152-001-p1s4a7</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -1040,21 +1093,13 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>přidáno _se</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>We can only wonder who will be the next lost soul chosen to be America's Celebrity Convict.</eng_sentence>
 </LM>

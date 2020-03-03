@@ -1830,12 +1830,6 @@
 <deepord>12</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>P</text>
-</LM>
-</annot_comment>
 <bridging>
 <LM>
 <target-node.rf>T-wsj0103-001-p1s3a5</target-node.rf>
@@ -1848,6 +1842,12 @@
 <src>JP</src>
 </LM>
 </bridging>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>P</text>
+</LM>
+</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4335,12 +4335,6 @@
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>se není zájmeno ale předložka</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0103-001-p1s12a11">
 <a>
@@ -5578,12 +5572,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>správně asi: nezbytný</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5866,12 +5854,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>35</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>chyba v t-lematu - Osho</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0103-001-p1s16a43">
 <a>
@@ -6327,12 +6309,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatná lematizace - Osho</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -6723,12 +6699,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>36</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>chybná lematizace</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0103-001-p1s18a33">
 <a>

@@ -11,7 +11,8 @@
 <LM id="T-wsj1401-001-p1s0">
 <atree.rf>a#a-wsj1401-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1401-001-p1s0a1">
+<children>
+<LM id="T-wsj1401-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1401-001-p1s0W8-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1401-001-p1s0a33">
+<children>
+<LM id="T-wsj1401-001-p1s0a33">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -81,8 +83,10 @@
 </gram>
 <deepord>6</deepord>
 <annot_comment>
+<LM>
 <type>Typo</type>
 <text>malá písmena</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1401-001-p1s0a36">
@@ -104,12 +108,15 @@
 <deepord>8</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1401-001-p1s0a10">
 <a>
 <lex.rf>a#a-wsj1401-001-p1s0W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1401-001-p1s0W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1401-001-p1s0W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -148,7 +155,9 @@
 <a>
 <lex.rf>a#a-wsj1401-001-p1s0W13-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1401-001-p1s0a10</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1401-001-p1s0a10</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -168,10 +177,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1401-001-p1s0a16">
+<children>
+<LM id="T-wsj1401-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj1401-001-p1s0W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1401-001-p1s0W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1401-001-p1s0W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>30</t_lemma>
@@ -180,6 +192,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -213,7 +226,9 @@
 <LM id="T-wsj1401-001-p1s0a23">
 <a>
 <lex.rf>a#a-wsj1401-001-p1s0W22-Ta</lex.rf>
-<aux.rf>a#a-wsj1401-001-p1s0W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1401-001-p1s0W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výše</t_lemma>
@@ -222,7 +237,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1401-001-p1s0a19">
+<children>
+<LM id="T-wsj1401-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj1401-001-p1s0W27-Ta</lex.rf>
 </a>
@@ -269,10 +285,6 @@
 <deepord>21</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1401-001-p1s0a29">
 <a>
@@ -302,7 +314,9 @@
 <LM id="T-wsj1401-001-p1s0a31">
 <a>
 <lex.rf>a#a-wsj1401-001-p1s0W31-Ta</lex.rf>
-<aux.rf>a#a-wsj1401-001-p1s0W30-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1401-001-p1s0W30-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akcie</t_lemma>
@@ -315,21 +329,26 @@
 </children>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>H&amp;R BLOCK Inc. had net income of $100.2 million, or $1.90 a share, in the fiscal year ended April 30.</eng_sentence>
 </LM>
 <LM id="T-wsj1401-001-p1s1">
 <atree.rf>a#a-wsj1401-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1401-001-p1s1a1">
+<children>
+<LM id="T-wsj1401-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1401-001-p1s1W23-Ta</lex.rf>
-<aux.rf>a#a-wsj1401-001-p1s1W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1401-001-p1s1W3-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7449f3</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -358,7 +377,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1401-001-p1s1a7">
+<children>
+<LM id="T-wsj1401-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj1401-001-p1s1W1-Ta</lex.rf>
 </a>
@@ -369,17 +389,22 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1401-001-p1s0a20</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1401-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj1401-001-p1s1W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1401-001-p1s1W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1401-001-p1s1W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>tabulka</t_lemma>
@@ -388,7 +413,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1401-001-p1s1a3">
+<children>
+<LM id="T-wsj1401-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj1401-001-p1s1W8-Ta</lex.rf>
 </a>
@@ -405,7 +431,9 @@
 <a>
 <lex.rf>a#a-wsj1401-001-p1s1W7-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1401-001-p1s1a9</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1401-001-p1s1a9</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -417,7 +445,9 @@
 <LM id="T-wsj1401-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj1401-001-p1s1W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1401-001-p1s1W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1401-001-p1s1W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>sloupek</t_lemma>
@@ -504,7 +534,9 @@
 <LM id="T-wsj1401-001-p1s1a18">
 <a>
 <lex.rf>a#a-wsj1401-001-p1s1W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1401-001-p1s1W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1401-001-p1s1W18-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4156f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -537,10 +569,6 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>16</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1401-001-p1s1a33">
 <nodetype>qcomplex</nodetype>
@@ -557,6 +585,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1401-001-p1s1a26">
@@ -574,9 +603,13 @@
 <LM id="T-wsj1401-001-p1s1a22">
 <a>
 <lex.rf>a#a-wsj1401-001-p1s1W26-Ta</lex.rf>
-<aux.rf>a#a-wsj1401-001-p1s1W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1401-001-p1s1W24-Ta</LM>
+</aux.rf>
 </a>
-<compl.rf>T-wsj1401-001-p1s1a6</compl.rf>
+<compl.rf>
+<LM>T-wsj1401-001-p1s1a6</LM>
+</compl.rf>
 <nodetype>complex</nodetype>
 <t_lemma>ztráta</t_lemma>
 <functor>COMPL</functor>
@@ -584,7 +617,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj1401-001-p1s1a24">
+<children>
+<LM id="T-wsj1401-001-p1s1a24">
 <a>
 <lex.rf>a#a-wsj1401-001-p1s1W25-Ta</lex.rf>
 </a>
@@ -595,9 +629,11 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>21</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The figure was incorrectly shown as a net loss in a chart accompanying Friday's Heard on the Street column.</eng_sentence>
 </LM>

@@ -11,7 +11,8 @@
 <LM id="T-wsj1237-001-p1s0">
 <atree.rf>a#a-wsj1237-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1237-001-p1s0a1">
+<children>
+<LM id="T-wsj1237-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1237-001-p1s0W5-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1237-001-p1s0a55">
+<children>
+<LM id="T-wsj1237-001-p1s0a55">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -70,12 +72,15 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1237-001-p1s0a8">
 <a>
 <lex.rf>a#a-wsj1237-001-p1s0W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1237-001-p1s0W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1237-001-p1s0W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3559f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -96,9 +101,11 @@
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1237-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1237-001-p1s0a9">
@@ -137,7 +144,9 @@
 <LM id="T-wsj1237-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj1237-001-p1s0W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1237-001-p1s0W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1237-001-p1s0W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -229,7 +238,9 @@
 <LM id="T-wsj1237-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj1237-001-p1s0W21-Ta</lex.rf>
-<aux.rf>a#a-wsj1237-001-p1s0W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1237-001-p1s0W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>sídlo</t_lemma>
@@ -241,7 +252,9 @@
 <children>
 <LM id="T-wsj1237-001-p1s0a59">
 <a>
-<aux.rf>a#a-wsj1237-001-p1s0W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1237-001-p1s0W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -278,7 +291,9 @@
 <LM id="T-wsj1237-001-p1s0a26">
 <a>
 <lex.rf>a#a-wsj1237-001-p1s0W26-Ta</lex.rf>
-<aux.rf>a#a-wsj1237-001-p1s0W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1237-001-p1s0W25-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>stát</t_lemma>
@@ -287,7 +302,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj1237-001-p1s0a51">
+<children>
+<LM id="T-wsj1237-001-p1s0a51">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -313,6 +329,7 @@
 <deepord>28</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -322,7 +339,9 @@
 <LM id="T-wsj1237-001-p1s0a30">
 <a>
 <lex.rf>a#a-wsj1237-001-p1s0W30-Ta</lex.rf>
-<aux.rf>a#a-wsj1237-001-p1s0W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1237-001-p1s0W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výrobce</t_lemma>
@@ -332,7 +351,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>29</deepord>
-<children id="T-wsj1237-001-p1s0a31">
+<children>
+<LM id="T-wsj1237-001-p1s0a31">
 <a>
 <lex.rf>a#a-wsj1237-001-p1s0W32-Ta</lex.rf>
 </a>
@@ -343,7 +363,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>30</deepord>
-<children id="T-wsj1237-001-p1s0a32">
+<children>
+<LM id="T-wsj1237-001-p1s0a32">
 <a>
 <lex.rf>a#a-wsj1237-001-p1s0W31-Ta</lex.rf>
 </a>
@@ -354,7 +375,9 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>31</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -362,7 +385,9 @@
 <LM id="T-wsj1237-001-p1s0a35">
 <a>
 <lex.rf>a#a-wsj1237-001-p1s0W35-Ta</lex.rf>
-<aux.rf>a#a-wsj1237-001-p1s0W34-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1237-001-p1s0W34-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>koupě</t_lemma>
@@ -371,7 +396,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>33</deepord>
-<children id="T-wsj1237-001-p1s0a36">
+<children>
+<LM id="T-wsj1237-001-p1s0a36">
 <a>
 <lex.rf>a#a-wsj1237-001-p1s0W36-Ta</lex.rf>
 </a>
@@ -448,7 +474,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>40</deepord>
-<children id="T-wsj1237-001-p1s0a42">
+<children>
+<LM id="T-wsj1237-001-p1s0a42">
 <a>
 <lex.rf>a#a-wsj1237-001-p1s0W41-Ta</lex.rf>
 </a>
@@ -459,17 +486,22 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>39</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1237-001-p1s0a29</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1237-001-p1s0a46">
 <a>
 <lex.rf>a#a-wsj1237-001-p1s0W46-Ta</lex.rf>
-<aux.rf>a#a-wsj1237-001-p1s0W44-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1237-001-p1s0W44-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -490,7 +522,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>42</deepord>
-<children id="T-wsj1237-001-p1s0a45">
+<children>
+<LM id="T-wsj1237-001-p1s0a45">
 <a>
 <lex.rf>a#a-wsj1237-001-p1s0W43-Ta</lex.rf>
 </a>
@@ -501,6 +534,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>41</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1237-001-p1s0a47">
@@ -518,20 +552,23 @@
 </children>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Birtcher Corp. said it signed a definitive agreement with C.R. Bard Inc., a Murray Hill, N.J., maker of health-care products, for the purchase of the company's Bard/EMS Electrosurgery division for about $11 million.</eng_sentence>
 </LM>
 <LM id="T-wsj1237-001-p1s1">
 <atree.rf>a#a-wsj1237-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1237-001-p1s1a1">
+<children>
+<LM id="T-wsj1237-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1237-001-p1s1W9-Ta</lex.rf>
 </a>
@@ -565,7 +602,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1237-001-p1s1a2">
+<children>
+<LM id="T-wsj1237-001-p1s1a2">
 <a>
 <lex.rf>a#a-wsj1237-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -576,9 +614,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1237-001-p1s1a5">
@@ -593,7 +629,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1237-001-p1s1a6">
+<children>
+<LM id="T-wsj1237-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj1237-001-p1s1W7-Ta</lex.rf>
 </a>
@@ -631,16 +668,21 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1237-001-p1s0a53</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1237-001-p1s1a15">
@@ -684,9 +726,11 @@
 </gram>
 <deepord>10</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1237-001-p1s0a35</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1237-001-p1s1a20">
@@ -710,10 +754,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1237-001-p1s1a18">
+<children>
+<LM id="T-wsj1237-001-p1s1a18">
 <a>
 <lex.rf>a#a-wsj1237-001-p1s1W17-Ta</lex.rf>
-<aux.rf>a#a-wsj1237-001-p1s1W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1237-001-p1s1W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>30</t_lemma>
@@ -722,6 +769,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1237-001-p1s1a21">
@@ -742,13 +790,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Birtcher, a maker of electronic medical equipment, said the transaction is expected to close on or before Nov. 30.</eng_sentence>
 </LM>
 <LM id="T-wsj1237-001-p1s2">
 <atree.rf>a#a-wsj1237-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1237-001-p1s2a4">
+<children>
+<LM id="T-wsj1237-001-p1s2a4">
 <a>
 <lex.rf>a#a-wsj1237-001-p1s2W15-Ta</lex.rf>
 </a>
@@ -786,7 +836,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1237-001-p1s2a18">
+<children>
+<LM id="T-wsj1237-001-p1s2a18">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -827,17 +878,22 @@
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1237-001-p1s0a36</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1237-001-p1s2a8">
 <a>
 <lex.rf>a#a-wsj1237-001-p1s2W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1237-001-p1s2W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1237-001-p1s2W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -846,7 +902,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1237-001-p1s2a9">
+<children>
+<LM id="T-wsj1237-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj1237-001-p1s2W8-Ta</lex.rf>
 </a>
@@ -857,6 +914,7 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1237-001-p1s2a10">
@@ -870,7 +928,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1237-001-p1s2a13">
+<children>
+<LM id="T-wsj1237-001-p1s2a13">
 <a>
 <lex.rf>a#a-wsj1237-001-p1s2W12-Ta</lex.rf>
 </a>
@@ -893,7 +952,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1237-001-p1s2a11">
+<children>
+<LM id="T-wsj1237-001-p1s2a11">
 <a>
 <lex.rf>a#a-wsj1237-001-p1s2W10-Ta</lex.rf>
 </a>
@@ -904,6 +964,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1237-001-p1s2a14">
@@ -919,6 +980,7 @@
 <deepord>14</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -934,7 +996,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1237-001-p1s2a17">
+<children>
+<LM id="T-wsj1237-001-p1s2a17">
 <a>
 <lex.rf>a#a-wsj1237-001-p1s2W17-Ta</lex.rf>
 </a>
@@ -945,14 +1008,18 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1237-001-p1s1a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Bard/EMS had 1988 sales of about $14 million, Birtcher said.</eng_sentence>
 </LM>

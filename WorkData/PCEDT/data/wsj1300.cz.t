@@ -82,12 +82,6 @@
 <deepord>3</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>chybný nominativ</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1300-001-p1s0a8">
 <a>
@@ -378,12 +372,6 @@
 <src>LH</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>chybný nominativ</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1300-001-p1s1a4">
 <a>

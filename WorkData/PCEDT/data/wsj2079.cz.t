@@ -11,7 +11,8 @@
 <LM id="T-wsj2079-001-p1s0">
 <atree.rf>a#a-wsj2079-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2079-001-p1s0a1">
+<children>
+<LM id="T-wsj2079-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj2079-001-p1s0W7-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj2079-001-p1s0a42">
+<children>
+<LM id="T-wsj2079-001-p1s0a42">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -91,12 +93,15 @@
 <deepord>7</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2079-001-p1s0a10">
 <a>
 <lex.rf>a#a-wsj2079-001-p1s0W10-Ta</lex.rf>
-<aux.rf>a#a-wsj2079-001-p1s0W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2079-001-p1s0W9-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w714f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -117,9 +122,11 @@
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2079-001-p1s0a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2079-001-p1s0a11">
@@ -133,10 +140,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj2079-001-p1s0a13">
+<children>
+<LM id="T-wsj2079-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj2079-001-p1s0W13-Ta</lex.rf>
-<aux.rf>a#a-wsj2079-001-p1s0W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2079-001-p1s0W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>prodej</t_lemma>
@@ -162,7 +172,9 @@
 <a>
 <lex.rf>a#a-wsj2079-001-p1s0W14-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj2079-001-p1s0a41</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj2079-001-p1s0a41</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -208,7 +220,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj2079-001-p1s0a19">
+<children>
+<LM id="T-wsj2079-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj2079-001-p1s0W17-Ta</lex.rf>
 </a>
@@ -219,6 +232,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2079-001-p1s0a43">
@@ -289,7 +303,9 @@
 <a>
 <lex.rf>a#a-wsj2079-001-p1s0W25-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj2079-001-p1s0a17</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj2079-001-p1s0a17</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -394,7 +410,9 @@
 <LM id="T-wsj2079-001-p1s0a36">
 <a>
 <lex.rf>a#a-wsj2079-001-p1s0W36-Ta</lex.rf>
-<aux.rf>a#a-wsj2079-001-p1s0W35-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2079-001-p1s0W35-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>sídlo</t_lemma>
@@ -403,10 +421,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>35</deepord>
-<children id="T-wsj2079-001-p1s0a38">
+<children>
+<LM id="T-wsj2079-001-p1s0a38">
 <a>
 <lex.rf>a#a-wsj2079-001-p1s0W39-Ta</lex.rf>
-<aux.rf>a#a-wsj2079-001-p1s0W37-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2079-001-p1s0W37-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Kjóto</t_lemma>
@@ -415,7 +436,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>37</deepord>
-<children id="T-wsj2079-001-p1s0a39">
+<children>
+<LM id="T-wsj2079-001-p1s0a39">
 <a>
 <lex.rf>a#a-wsj2079-001-p1s0W38-Ta</lex.rf>
 </a>
@@ -426,7 +448,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>36</deepord>
+</LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 </children>
@@ -438,18 +468,15 @@
 </children>
 </LM>
 </children>
-</children>
 </LM>
-</children>
-</LM>
-</children>
 </children>
 <eng_sentence>Cross &amp; Trecker Corp. said it reached an agreement to sell its Wiedemann division to recently created Murata Wiedemann Inc., a U.S. affiliate of Murata Machinery Ltd. of Kyoto, Japan.</eng_sentence>
 </LM>
 <LM id="T-wsj2079-001-p1s1">
 <atree.rf>a#a-wsj2079-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2079-001-p1s1a1">
+<children>
+<LM id="T-wsj2079-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj2079-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -474,9 +501,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2079-001-p1s0a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2079-001-p1s1a3">
@@ -546,7 +575,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj2079-001-p1s1a25">
+<children>
+<LM id="T-wsj2079-001-p1s1a25">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -584,11 +614,14 @@
 <deepord>11</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2079-001-p1s0a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -605,7 +638,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj2079-001-p1s1a26">
+<children>
+<LM id="T-wsj2079-001-p1s1a26">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -655,6 +689,7 @@
 <deepord>18</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -706,7 +741,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj2079-001-p1s1a27">
+<children>
+<LM id="T-wsj2079-001-p1s1a27">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -732,29 +768,36 @@
 <deepord>25</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2079-001-p1s0a30</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The agreement also includes the purchase of Cross &amp; Trecker's Warner &amp; Swasey (Switzerland) AG unit by a European affiliate of Murata Machinery.</eng_sentence>
 </LM>
 <LM id="T-wsj2079-001-p1s2">
 <atree.rf>a#a-wsj2079-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2079-001-p1s2a1">
+<children>
+<LM id="T-wsj2079-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj2079-001-p1s2W6-Ta</lex.rf>
 </a>
@@ -778,7 +821,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj2079-001-p1s2a20">
+<children>
+<LM id="T-wsj2079-001-p1s2a20">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -816,11 +860,14 @@
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2079-001-p1s1a7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2079-001-p1s2a6">
@@ -848,7 +895,9 @@
 <a>
 <lex.rf>a#a-wsj2079-001-p1s2W7-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj2079-001-p1s2a3</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj2079-001-p1s2a3</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -860,7 +909,9 @@
 <LM id="T-wsj2079-001-p1s2a10">
 <a>
 <lex.rf>a#a-wsj2079-001-p1s2W12-Ta</lex.rf>
-<aux.rf>a#a-wsj2079-001-p1s2W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2079-001-p1s2W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>podnik</t_lemma>
@@ -951,7 +1002,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj2079-001-p1s2a21">
+<children>
+<LM id="T-wsj2079-001-p1s2a21">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -977,21 +1029,26 @@
 <deepord>20</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2079-001-p1s1a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Cross &amp; Trecker is also selling its equity interest in a Japanese joint venture, Murata Warner Swasey, to Murata Machinery.</eng_sentence>
 </LM>
 <LM id="T-wsj2079-001-p1s3">
 <atree.rf>a#a-wsj2079-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2079-001-p1s3a1">
+<children>
+<LM id="T-wsj2079-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj2079-001-p1s3W15-Ta</lex.rf>
 </a>
@@ -1025,7 +1082,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj2079-001-p1s3a26">
+<children>
+<LM id="T-wsj2079-001-p1s3a26">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1063,6 +1121,7 @@
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2079-001-p1s3a7">
@@ -1089,7 +1148,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj2079-001-p1s3a9">
+<children>
+<LM id="T-wsj2079-001-p1s3a9">
 <a>
 <lex.rf>a#a-wsj2079-001-p1s3W7-Ta</lex.rf>
 </a>
@@ -1100,11 +1160,14 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2079-001-p1s3a27">
 <a>
-<aux.rf>a#a-wsj2079-001-p1s3W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2079-001-p1s3W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -1139,7 +1202,9 @@
 <LM id="T-wsj2079-001-p1s3a14">
 <a>
 <lex.rf>a#a-wsj2079-001-p1s3W13-Ta</lex.rf>
-<aux.rf>a#a-wsj2079-001-p1s3W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2079-001-p1s3W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Michigan</t_lemma>
@@ -1155,15 +1220,19 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2079-001-p1s2a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2079-001-p1s3a18">
 <a>
 <lex.rf>a#a-wsj2079-001-p1s3W22-Ta</lex.rf>
-<aux.rf>a#a-wsj2079-001-p1s3W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2079-001-p1s3W17-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w327f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1210,7 +1279,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj2079-001-p1s3a22">
+<children>
+<LM id="T-wsj2079-001-p1s3a22">
 <a>
 <lex.rf>a#a-wsj2079-001-p1s3W20-Ta</lex.rf>
 </a>
@@ -1221,6 +1291,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>17</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -1262,21 +1333,19 @@
 <deepord>22</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Cross &amp; Trecker, a Bloomfield Hills, Mich., machine-tool maker, said the net sales price of the total transaction is $24 million.</eng_sentence>
 </LM>
 <LM id="T-wsj2079-001-p1s4">
 <atree.rf>a#a-wsj2079-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2079-001-p1s4a1">
+<children>
+<LM id="T-wsj2079-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj2079-001-p1s4W3-Ta</lex.rf>
 </a>
@@ -1300,7 +1369,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj2079-001-p1s4a3">
+<children>
+<LM id="T-wsj2079-001-p1s4a3">
 <a>
 <lex.rf>a#a-wsj2079-001-p1s4W1-Ta</lex.rf>
 </a>
@@ -1311,11 +1381,14 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2079-001-p1s0a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2079-001-p1s4a4">
@@ -1329,10 +1402,13 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj2079-001-p1s4a6">
+<children>
+<LM id="T-wsj2079-001-p1s4a6">
 <a>
 <lex.rf>a#a-wsj2079-001-p1s4W7-Ta</lex.rf>
-<aux.rf>a#a-wsj2079-001-p1s4W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2079-001-p1s4W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>podnik</t_lemma>
@@ -1369,7 +1445,9 @@
 <LM id="T-wsj2079-001-p1s4a10">
 <a>
 <lex.rf>a#a-wsj2079-001-p1s4W10-Ta</lex.rf>
-<aux.rf>a#a-wsj2079-001-p1s4W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2079-001-p1s4W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>prodej</t_lemma>
@@ -1406,7 +1484,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj2079-001-p1s4a15">
+<children>
+<LM id="T-wsj2079-001-p1s4a15">
 <a>
 <lex.rf>a#a-wsj2079-001-p1s4W15-Ta</lex.rf>
 </a>
@@ -1417,7 +1496,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj2079-001-p1s4a27">
+<children>
+<LM id="T-wsj2079-001-p1s4a27">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1458,18 +1538,24 @@
 <deepord>15</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2079-001-p1s3a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2079-001-p1s4a19">
 <a>
 <lex.rf>a#a-wsj2079-001-p1s4W22-Ta</lex.rf>
-<aux.rf>a#a-wsj2079-001-p1s4W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2079-001-p1s4W21-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4760f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1491,7 +1577,9 @@
 <a>
 <lex.rf>a#a-wsj2079-001-p1s4W20-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj2079-001-p1s4a13</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj2079-001-p1s4a13</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -1503,7 +1591,9 @@
 <LM id="T-wsj2079-001-p1s4a24">
 <a>
 <lex.rf>a#a-wsj2079-001-p1s4W24-Ta</lex.rf>
-<aux.rf>a#a-wsj2079-001-p1s4W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2079-001-p1s4W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>červenec</t_lemma>
@@ -1520,16 +1610,19 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The Wiedemann division was one of three businesses put up for sale in Cross &amp; Trecker's restructuring program announced in July.</eng_sentence>
 </LM>
 <LM id="T-wsj2079-001-p1s5">
 <atree.rf>a#a-wsj2079-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj2079-001-p1s5a1">
+<children>
+<LM id="T-wsj2079-001-p1s5a1">
 <a>
 <lex.rf>a#a-wsj2079-001-p1s5W5-Ta</lex.rf>
 </a>
@@ -1553,7 +1646,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj2079-001-p1s5a26">
+<children>
+<LM id="T-wsj2079-001-p1s5a26">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1591,17 +1685,22 @@
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2079-001-p1s4a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2079-001-p1s5a9">
 <a>
 <lex.rf>a#a-wsj2079-001-p1s5W11-Ta</lex.rf>
-<aux.rf>a#a-wsj2079-001-p1s5W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2079-001-p1s5W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4287f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1615,7 +1714,9 @@
 <LM id="T-wsj2079-001-p1s5a11">
 <a>
 <lex.rf>a#a-wsj2079-001-p1s5W10-Ta</lex.rf>
-<aux.rf>a#a-wsj2079-001-p1s5W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2079-001-p1s5W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>doba</t_lemma>
@@ -1624,7 +1725,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj2079-001-p1s5a12">
+<children>
+<LM id="T-wsj2079-001-p1s5a12">
 <a>
 <lex.rf>a#a-wsj2079-001-p1s5W9-Ta</lex.rf>
 </a>
@@ -1635,6 +1737,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2079-001-p1s5a13">
@@ -1667,15 +1770,19 @@
 </gram>
 <deepord>11</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj2079-001-p1s5a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj2079-001-p1s5a15">
 <a>
 <lex.rf>a#a-wsj2079-001-p1s5W14-Ta</lex.rf>
-<aux.rf>a#a-wsj2079-001-p1s5W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2079-001-p1s5W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>prodej</t_lemma>
@@ -1684,10 +1791,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj2079-001-p1s5a28">
+<children>
+<LM id="T-wsj2079-001-p1s5a28">
 <a>
 <lex.rf>a#a-wsj2079-001-p1s5W19-Ta</lex.rf>
-<aux.rf>a#a-wsj2079-001-p1s5W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj2079-001-p1s5W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>coap</nodetype>
 <t_lemma>a_to</t_lemma>
@@ -1706,7 +1816,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj2079-001-p1s5a17">
+<children>
+<LM id="T-wsj2079-001-p1s5a17">
 <a>
 <lex.rf>a#a-wsj2079-001-p1s5W15-Ta</lex.rf>
 </a>
@@ -1717,6 +1828,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj2079-001-p1s5a20">
@@ -1731,7 +1843,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj2079-001-p1s5a18">
+<children>
+<LM id="T-wsj2079-001-p1s5a18">
 <a>
 <lex.rf>a#a-wsj2079-001-p1s5W21-Ta</lex.rf>
 </a>
@@ -1742,20 +1855,25 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Cross &amp; Trecker said negotiations are under way for the sale of another company, RobertsCorp.</eng_sentence>
 </LM>

@@ -290,11 +290,6 @@
 <t_lemma>A</t_lemma>
 <functor>ID</functor>
 <deepord>24</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

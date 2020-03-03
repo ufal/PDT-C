@@ -11,7 +11,8 @@
 <LM id="T-wsj0657-001-p1s0">
 <atree.rf>a#a-wsj0657-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0657-001-p1s0a1">
+<children>
+<LM id="T-wsj0657-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s0W5-Ta</lex.rf>
 </a>
@@ -42,7 +43,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0657-001-p1s0a45">
+<children>
+<LM id="T-wsj0657-001-p1s0a45">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -77,12 +79,15 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0657-001-p1s0a8">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s0W23-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s0W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s0W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8687f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -96,7 +101,9 @@
 <LM id="T-wsj0657-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s0W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>pololetí</t_lemma>
@@ -135,7 +142,9 @@
 <a>
 <lex.rf>a#a-wsj0657-001-p1s0W12-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0657-001-p1s0a12</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0657-001-p1s0a12</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -155,10 +164,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj0657-001-p1s0a17">
+<children>
+<LM id="T-wsj0657-001-p1s0a17">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s0W14-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s0W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s0W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>30</t_lemma>
@@ -167,6 +179,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -197,9 +210,11 @@
 </gram>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0657-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0657-001-p1s0a21">
@@ -217,7 +232,9 @@
 <LM id="T-wsj0657-001-p1s0a23">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s0W22-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s0W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s0W21-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9372f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -238,9 +255,11 @@
 </gram>
 <deepord>17</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0657-001-p1s0a20</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0657-001-p1s0a43">
@@ -252,8 +271,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -261,13 +282,16 @@
 <LM id="T-wsj0657-001-p1s0a26">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s0W26-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s0W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s0W24-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>22</deepord>
-<children id="T-wsj0657-001-p1s0a25">
+<children>
+<LM id="T-wsj0657-001-p1s0a25">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s0W25-Ta</lex.rf>
 </a>
@@ -278,12 +302,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>21</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0657-001-p1s0a29">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s0W30-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s0W27-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s0W27-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>miliarda</t_lemma>
@@ -344,7 +371,9 @@
 <LM id="T-wsj0657-001-p1s0a34">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s0W34-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s0W32-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s0W32-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>miliarda</t_lemma>
@@ -384,7 +413,9 @@
 <LM id="T-wsj0657-001-p1s0a38">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s0W38-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s0W32-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s0W32-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milion</t_lemma>
@@ -423,23 +454,21 @@
 <deepord>33</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Nikon Corp. said unconsolidated pretax profit increased 70% to 12.12 billion yen ($85.3 million) in the first half ended Sept. 30, from 7.12 billion yen a year ago.</eng_sentence>
 </LM>
 <LM id="T-wsj0657-001-p1s1">
 <atree.rf>a#a-wsj0657-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0657-001-p1s1a1">
+<children>
+<LM id="T-wsj0657-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s1W5-Ta</lex.rf>
 </a>
@@ -502,9 +531,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0657-001-p1s0a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0657-001-p1s1a8">
@@ -535,7 +566,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0657-001-p1s1a10">
+<children>
+<LM id="T-wsj0657-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s1W8-Ta</lex.rf>
 </a>
@@ -546,6 +578,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0657-001-p1s1a12">
@@ -559,7 +592,8 @@
 <sempos>adj.quant.grad</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0657-001-p1s1a35">
+<children>
+<LM id="T-wsj0657-001-p1s1a35">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s1W12-Ta</lex.rf>
 </a>
@@ -567,6 +601,7 @@
 <t_lemma>než</t_lemma>
 <functor>DPHR</functor>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0657-001-p1s1a18">
@@ -581,7 +616,9 @@
 <LM id="T-wsj0657-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s1W16-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s1W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s1W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>miliarda</t_lemma>
@@ -621,7 +658,9 @@
 <LM id="T-wsj0657-001-p1s1a21">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s1W21-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s1W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s1W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>jen</t_lemma>
@@ -647,7 +686,9 @@
 <LM id="T-wsj0657-001-p1s1a23">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s1W23-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s1W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s1W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akcie</t_lemma>
@@ -673,7 +714,9 @@
 <LM id="T-wsj0657-001-p1s1a27">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s1W27-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s1W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s1W25-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>miliarda</t_lemma>
@@ -713,7 +756,9 @@
 <LM id="T-wsj0657-001-p1s1a32">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s1W32-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s1W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s1W25-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>jen</t_lemma>
@@ -739,7 +784,9 @@
 <LM id="T-wsj0657-001-p1s1a34">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s1W34-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s1W33-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s1W33-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akcie</t_lemma>
@@ -756,13 +803,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The Tokyo camera maker said net income more than doubled to 5.85 billion yen, or 16.08 a share, from 2.63 billion yen, or 7.24 yen a share.</eng_sentence>
 </LM>
 <LM id="T-wsj0657-001-p1s2">
 <atree.rf>a#a-wsj0657-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0657-001-p1s2a1">
+<children>
+<LM id="T-wsj0657-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s2W3-Ta</lex.rf>
 </a>
@@ -786,7 +835,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0657-001-p1s2a3">
+<children>
+<LM id="T-wsj0657-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -797,17 +847,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0657-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0657-001-p1s2a6">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s2W7-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s2W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s2W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8687f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -833,7 +888,9 @@
 <LM id="T-wsj0657-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s2W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s2W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s2W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dopad</t_lemma>
@@ -906,7 +963,9 @@
 <LM id="T-wsj0657-001-p1s2a15">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s2W18-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s2W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s2W17-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9273f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -928,7 +987,9 @@
 <a>
 <lex.rf>a#a-wsj0657-001-p1s2W16-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0657-001-p1s2a11</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0657-001-p1s2a11</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -940,7 +1001,9 @@
 <LM id="T-wsj0657-001-p1s2a20">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s2W20-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s2W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s2W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>duben</t_lemma>
@@ -959,13 +1022,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Nikon said sales rose despite the adverse effect of Japan's unpopular consumption tax, introduced in April.</eng_sentence>
 </LM>
 <LM id="T-wsj0657-001-p1s3">
 <atree.rf>a#a-wsj0657-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0657-001-p1s3a10">
+<children>
+<LM id="T-wsj0657-001-p1s3a10">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s3W9-Ta</lex.rf>
 </a>
@@ -990,7 +1055,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0657-001-p1s3a9">
+<children>
+<LM id="T-wsj0657-001-p1s3a9">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s3W1-Ta</lex.rf>
 </a>
@@ -1001,12 +1067,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0657-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s3W5-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s3W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s3W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7449f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1038,7 +1107,8 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>5</deepord>
-<children id="T-wsj0657-001-p1s3a5">
+<children>
+<LM id="T-wsj0657-001-p1s3a5">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s3W7-Ta</lex.rf>
 </a>
@@ -1050,11 +1120,14 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>6</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0657-001-p1s2a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -1084,7 +1157,9 @@
 <LM id="T-wsj0657-001-p1s3a12">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s3W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s3W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s3W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zvyšující_se</t_lemma>
@@ -1120,7 +1195,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj0657-001-p1s3a16">
+<children>
+<LM id="T-wsj0657-001-p1s3a16">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s3W15-Ta</lex.rf>
 </a>
@@ -1131,18 +1207,21 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>12</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Increasing personal spending and capital investment are fueling growth, the company said.</eng_sentence>
 </LM>
 <LM id="T-wsj0657-001-p1s4">
 <atree.rf>a#a-wsj0657-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0657-001-p1s4a1">
+<children>
+<LM id="T-wsj0657-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s4W9-Ta</lex.rf>
 </a>
@@ -1172,7 +1251,9 @@
 <LM id="T-wsj0657-001-p1s4a4">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s4W3-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s4W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s4W1-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2322f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1193,9 +1274,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0657-001-p1s2a7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0657-001-p1s4a12">
@@ -1219,13 +1302,17 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0657-001-p1s3a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0657-001-p1s4a6">
@@ -1248,7 +1335,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0657-001-p1s4a8">
+<children>
+<LM id="T-wsj0657-001-p1s4a8">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s4W7-Ta</lex.rf>
 </a>
@@ -1259,6 +1347,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -1274,7 +1363,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0657-001-p1s4a11">
+<children>
+<LM id="T-wsj0657-001-p1s4a11">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s4W11-Ta</lex.rf>
 </a>
@@ -1285,24 +1375,31 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0657-001-p1s3a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Rising export sales also contributed to strong growth, Nikon added.</eng_sentence>
 </LM>
 <LM id="T-wsj0657-001-p1s5">
 <atree.rf>a#a-wsj0657-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0657-001-p1s5a1">
+<children>
+<LM id="T-wsj0657-001-p1s5a1">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s5W4-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s5W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s5W3-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w10007f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1324,7 +1421,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0657-001-p1s5a3">
+<children>
+<LM id="T-wsj0657-001-p1s5a3">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s5W1-Ta</lex.rf>
 </a>
@@ -1335,18 +1433,22 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0657-001-p1s5a7">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s5W7-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s5W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s5W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>5</deepord>
-<children id="T-wsj0657-001-p1s5a6">
+<children>
+<LM id="T-wsj0657-001-p1s5a6">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s5W6-Ta</lex.rf>
 </a>
@@ -1357,12 +1459,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0657-001-p1s5a10">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s5W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s5W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s5W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>miliarda</t_lemma>
@@ -1401,7 +1506,9 @@
 <LM id="T-wsj0657-001-p1s5a14">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s5W14-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s5W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s5W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>miliarda</t_lemma>
@@ -1438,13 +1545,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Total sales gained 20% to 122.36 billion yen from 102.01 billion yen.</eng_sentence>
 </LM>
 <LM id="T-wsj0657-001-p1s6">
 <atree.rf>a#a-wsj0657-001-p1s6</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0657-001-p1s6a23">
+<children>
+<LM id="T-wsj0657-001-p1s6a23">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s6W11-Ta</lex.rf>
 </a>
@@ -1499,7 +1608,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0657-001-p1s6a5">
+<children>
+<LM id="T-wsj0657-001-p1s6a5">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s6W3-Ta</lex.rf>
 </a>
@@ -1510,6 +1620,7 @@
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0657-001-p1s6a3">
@@ -1539,7 +1650,9 @@
 <LM id="T-wsj0657-001-p1s6a9">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s6W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s6W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s6W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -1548,7 +1661,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0657-001-p1s6a10">
+<children>
+<LM id="T-wsj0657-001-p1s6a10">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s6W9-Ta</lex.rf>
 </a>
@@ -1559,6 +1673,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -1585,7 +1700,9 @@
 <a>
 <lex.rf>a#a-wsj0657-001-p1s6W12-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0657-001-p1s6a1</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0657-001-p1s6a1</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>ACT</functor>
@@ -1617,9 +1734,11 @@
 </gram>
 <deepord>13</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0657-001-p1s6a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0657-001-p1s6a21">
@@ -1632,7 +1751,9 @@
 <LM id="T-wsj0657-001-p1s6a24">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s6W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s6W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s6W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
@@ -1654,7 +1775,9 @@
 <LM id="T-wsj0657-001-p1s6a19">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s6W20-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s6W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s6W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -1663,7 +1786,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj0657-001-p1s6a20">
+<children>
+<LM id="T-wsj0657-001-p1s6a20">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s6W19-Ta</lex.rf>
 </a>
@@ -1674,26 +1798,31 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>18</deepord>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Exports made up 46.2% of the latest year's total, up from 39.8% a year ago.</eng_sentence>
 </LM>
 <LM id="T-wsj0657-001-p1s7">
 <atree.rf>a#a-wsj0657-001-p1s7</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0657-001-p1s7a1">
+<children>
+<LM id="T-wsj0657-001-p1s7a1">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s7W3-Ta</lex.rf>
 </a>
@@ -1717,7 +1846,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0657-001-p1s7a3">
+<children>
+<LM id="T-wsj0657-001-p1s7a3">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s7W1-Ta</lex.rf>
 </a>
@@ -1728,6 +1858,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0657-001-p1s7a4">
@@ -1741,10 +1872,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0657-001-p1s7a6">
+<children>
+<LM id="T-wsj0657-001-p1s7a6">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s7W6-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s7W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s7W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>prodej</t_lemma>
@@ -1769,7 +1903,9 @@
 <LM id="T-wsj0657-001-p1s7a8">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s7W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s7W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s7W10-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w10007f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1784,7 +1920,9 @@
 <a>
 <lex.rf>a#a-wsj0657-001-p1s7W9-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0657-001-p1s7a6</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0657-001-p1s7a6</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -1796,13 +1934,16 @@
 <LM id="T-wsj0657-001-p1s7a14">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s7W14-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s7W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s7W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>10</deepord>
-<children id="T-wsj0657-001-p1s7a13">
+<children>
+<LM id="T-wsj0657-001-p1s7a13">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s7W13-Ta</lex.rf>
 </a>
@@ -1813,12 +1954,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0657-001-p1s7a17">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s7W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s7W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s7W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>miliarda</t_lemma>
@@ -1857,16 +2001,19 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Camera sales showed the strongest gains, rising 37% to 50.59 billion yen.</eng_sentence>
 </LM>
 <LM id="T-wsj0657-001-p1s8">
 <atree.rf>a#a-wsj0657-001-p1s8</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0657-001-p1s8a1">
+<children>
+<LM id="T-wsj0657-001-p1s8a1">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s8W3-Ta</lex.rf>
 </a>
@@ -1890,7 +2037,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0657-001-p1s8a2">
+<children>
+<LM id="T-wsj0657-001-p1s8a2">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s8W2-Ta</lex.rf>
 </a>
@@ -1901,17 +2049,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0657-001-p1s4a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0657-001-p1s8a6">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s8W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s8W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s8W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8687f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1933,10 +2086,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0657-001-p1s8a9">
+<children>
+<LM id="T-wsj0657-001-p1s8a9">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s8W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s8W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s8W7-Ta</LM>
+</aux.rf>
 </a>
 <coref_special>exoph</coref_special>
 <nodetype>complex</nodetype>
@@ -1976,7 +2132,9 @@
 <a>
 <lex.rf>a#a-wsj0657-001-p1s8W11-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0657-001-p1s8a9</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0657-001-p1s8a9</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -1996,10 +2154,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0657-001-p1s8a15">
+<children>
+<LM id="T-wsj0657-001-p1s8a15">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s8W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s8W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s8W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>31</t_lemma>
@@ -2008,28 +2169,35 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0657-001-p1s6a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0657-001-p1s8a20">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s8W20-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s8W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s8W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>13</deepord>
-<children id="T-wsj0657-001-p1s8a19">
+<children>
+<LM id="T-wsj0657-001-p1s8a19">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s8W19-Ta</lex.rf>
 </a>
@@ -2040,12 +2208,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0657-001-p1s8a23">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s8W23-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s8W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s8W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>miliarda</t_lemma>
@@ -2084,13 +2255,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Nikon forecast sales for the year ending March 31 will rise 9.6% to 240 billion yen.</eng_sentence>
 </LM>
 <LM id="T-wsj0657-001-p1s9">
 <atree.rf>a#a-wsj0657-001-p1s9</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0657-001-p1s9a1">
+<children>
+<LM id="T-wsj0657-001-p1s9a1">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s9W18-Ta</lex.rf>
 </a>
@@ -2102,7 +2275,9 @@
 <LM id="T-wsj0657-001-p1s9a2">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s9W1-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s9W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s9W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2608f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -2149,10 +2324,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0657-001-p1s9a9">
+<children>
+<LM id="T-wsj0657-001-p1s9a9">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s9W7-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s9W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s9W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9372f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -2173,9 +2351,11 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0657-001-p1s9a7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0657-001-p1s9a33">
@@ -2187,21 +2367,27 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0657-001-p1s9a13">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s9W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s9W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s9W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>9</deepord>
-<children id="T-wsj0657-001-p1s9a12">
+<children>
+<LM id="T-wsj0657-001-p1s9a12">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s9W11-Ta</lex.rf>
 </a>
@@ -2212,12 +2398,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0657-001-p1s9a16">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s9W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s9W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s9W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>miliarda</t_lemma>
@@ -2286,7 +2475,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj0657-001-p1s9a21">
+<children>
+<LM id="T-wsj0657-001-p1s9a21">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s9W19-Ta</lex.rf>
 </a>
@@ -2297,18 +2487,22 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0657-001-p1s9a26">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s9W26-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s9W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s9W24-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>18</deepord>
-<children id="T-wsj0657-001-p1s9a25">
+<children>
+<LM id="T-wsj0657-001-p1s9a25">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s9W25-Ta</lex.rf>
 </a>
@@ -2319,12 +2513,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>17</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0657-001-p1s9a29">
 <a>
 <lex.rf>a#a-wsj0657-001-p1s9W29-Ta</lex.rf>
-<aux.rf>a#a-wsj0657-001-p1s9W27-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0657-001-p1s9W27-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>miliarda</t_lemma>
@@ -2363,6 +2560,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Pretax profit is expected to increase 18% to 22 billion yen and net income is expected to rise 53% to 10.5 billion yen.</eng_sentence>
 </LM>

@@ -310,12 +310,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>není od kořit</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2137-001-p1s0a27">
 <a>

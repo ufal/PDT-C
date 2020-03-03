@@ -2465,11 +2465,6 @@
 <sempos>n.pron.indef</sempos>
 </gram>
 <deepord>25</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0265-001-p1s5a37">
 <a>

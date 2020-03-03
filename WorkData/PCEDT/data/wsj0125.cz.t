@@ -127,12 +127,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0125-001-p1s0a16">
 <a>
@@ -744,12 +738,6 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>20</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>doplněna tečka</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2033,12 +2021,6 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>34</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>chybí desetinná tečka</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0125-001-p1s7a46">
 <a>
@@ -2441,12 +2423,6 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>21</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>doplněna tečka</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2856,12 +2832,6 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>7</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>nominativ</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2895,12 +2865,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <annot_comment>
@@ -3054,12 +3018,6 @@
 <functor>ID</functor>
 <is_member>1</is_member>
 <deepord>10</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>není spojka</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0125-001-p1s12a12">
 <a>
@@ -3073,12 +3031,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3436,12 +3388,6 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>39</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>doplněna tečka</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0125-001-p1s12a47">
 <a>
@@ -3778,12 +3724,6 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>20</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>doplněna tečka</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4005,12 +3945,6 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>37</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>doplněna tečka</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4511,12 +4445,6 @@
 <deepord>5</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0125-001-p1s16a9">
 <a>
@@ -4592,12 +4520,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6630,12 +6552,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>původně kupón</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -9493,12 +9409,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>kratké O</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0125-001-p1s36a29">
 <a>
@@ -10649,12 +10559,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>krátké O</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0125-001-p1s41a31">
 <a>

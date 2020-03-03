@@ -11,7 +11,8 @@
 <LM id="T-wsj0514-001-p1s0">
 <atree.rf>a#a-wsj0514-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0514-001-p1s0a16">
+<children>
+<LM id="T-wsj0514-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj0514-001-p1s0W16-Ta</lex.rf>
 </a>
@@ -77,7 +78,9 @@
 <a>
 <lex.rf>a#a-wsj0514-001-p1s0W6-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0514-001-p1s0a1</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0514-001-p1s0a1</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -110,7 +113,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0514-001-p1s0a9">
+<children>
+<LM id="T-wsj0514-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj0514-001-p1s0W9-Ta</lex.rf>
 </a>
@@ -121,6 +125,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -130,7 +135,9 @@
 <LM id="T-wsj0514-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj0514-001-p1s0W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0514-001-p1s0W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0514-001-p1s0W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>prosinec</t_lemma>
@@ -139,10 +146,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0514-001-p1s0a14">
+<children>
+<LM id="T-wsj0514-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj0514-001-p1s0W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0514-001-p1s0W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0514-001-p1s0W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>31</t_lemma>
@@ -151,6 +161,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0514-001-p1s0a17">
@@ -169,7 +180,9 @@
 <a>
 <lex.rf>a#a-wsj0514-001-p1s0W17-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0514-001-p1s0a1</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0514-001-p1s0a1</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -205,7 +218,9 @@
 <LM id="T-wsj0514-001-p1s0a22">
 <a>
 <lex.rf>a#a-wsj0514-001-p1s0W25-Ta</lex.rf>
-<aux.rf>a#a-wsj0514-001-p1s0W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0514-001-p1s0W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -253,8 +268,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>Coref</type>
 <text>odkaz na něco v předchozím kontextu, který zde ale chybí</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -262,13 +279,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Charles A. Pearce, 66 years old, will retire from his post as chief executive officer of this bank holding company effective Dec. 31.</eng_sentence>
 </LM>
 <LM id="T-wsj0514-001-p1s1">
 <atree.rf>a#a-wsj0514-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0514-001-p1s1a1">
+<children>
+<LM id="T-wsj0514-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0514-001-p1s1W1-Ta</lex.rf>
 </a>
@@ -291,9 +310,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0514-001-p1s0a18</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0514-001-p1s1a2">
@@ -309,13 +330,15 @@
 <deepord>3</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>He will remain chairman.</eng_sentence>
 </LM>
 <LM id="T-wsj0514-001-p1s2">
 <atree.rf>a#a-wsj0514-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0514-001-p1s2a1">
+<children>
+<LM id="T-wsj0514-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0514-001-p1s2W4-Ta</lex.rf>
 </a>
@@ -339,7 +362,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0514-001-p1s2a3">
+<children>
+<LM id="T-wsj0514-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj0514-001-p1s2W3-Ta</lex.rf>
 </a>
@@ -350,7 +374,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0514-001-p1s2a4">
+<children>
+<LM id="T-wsj0514-001-p1s2a4">
 <a>
 <lex.rf>a#a-wsj0514-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -361,16 +386,17 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0514-001-p1s0a17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
-<annot_comment>
-<type>M-tag</type>
-</annot_comment>
 </LM>
 <LM id="T-wsj0514-001-p1s2a6">
 <a>
@@ -447,7 +473,9 @@
 <a>
 <lex.rf>a#a-wsj0514-001-p1s2W12-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0514-001-p1s2a6</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0514-001-p1s2a6</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -480,7 +508,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj0514-001-p1s2a17">
+<children>
+<LM id="T-wsj0514-001-p1s2a17">
 <a>
 <lex.rf>a#a-wsj0514-001-p1s2W15-Ta</lex.rf>
 </a>
@@ -491,6 +520,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -532,7 +562,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj0514-001-p1s2a21">
+<children>
+<LM id="T-wsj0514-001-p1s2a21">
 <a>
 <lex.rf>a#a-wsj0514-001-p1s2W20-Ta</lex.rf>
 </a>
@@ -543,13 +574,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>17</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Charles R. Simpson Jr., 46, president and chief operating officer, will assume the chief executive's post.</eng_sentence>
 </LM>

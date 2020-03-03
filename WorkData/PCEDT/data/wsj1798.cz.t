@@ -11,7 +11,8 @@
 <LM id="T-wsj1798-001-p1s0">
 <atree.rf>a#a-wsj1798-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1798-001-p1s0a3">
+<children>
+<LM id="T-wsj1798-001-p1s0a3">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -40,13 +41,15 @@
 <deepord>3</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Wall Street</eng_sentence>
 </LM>
 <LM id="T-wsj1798-001-p1s1">
 <atree.rf>a#a-wsj1798-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1798-001-p1s1a33">
+<children>
+<LM id="T-wsj1798-001-p1s1a33">
 <a>
 <lex.rf>a#a-wsj1798-001-p1s1W26-Ta</lex.rf>
 </a>
@@ -152,15 +155,19 @@
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1798-001-p1s1a30</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1798-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj1798-001-p1s1W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1798-001-p1s1W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1798-001-p1s1W11-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6558f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -170,7 +177,8 @@
 <sempos>v</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1798-001-p1s1a13">
+<children>
+<LM id="T-wsj1798-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj1798-001-p1s1W12-Ta</lex.rf>
 </a>
@@ -181,6 +189,7 @@
 <sempos>adv.pron.indef</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -198,10 +207,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1798-001-p1s1a15">
+<children>
+<LM id="T-wsj1798-001-p1s1a15">
 <a>
 <lex.rf>a#a-wsj1798-001-p1s1W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1798-001-p1s1W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1798-001-p1s1W19-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1917f3</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -222,17 +234,23 @@
 </gram>
 <deepord>11</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1798-001-p1s1a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1798-001-p1s1a19">
 <a>
 <lex.rf>a#a-wsj1798-001-p1s1W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1798-001-p1s1W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1798-001-p1s1W17-Ta</LM>
+</aux.rf>
 </a>
-<coref_gram.rf>T-wsj1798-001-p1s1a14</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1798-001-p1s1a14</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -244,7 +262,9 @@
 <LM id="T-wsj1798-001-p1s1a23">
 <a>
 <lex.rf>a#a-wsj1798-001-p1s1W24-Ta</lex.rf>
-<aux.rf>a#a-wsj1798-001-p1s1W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1798-001-p1s1W22-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5804f3</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -267,9 +287,11 @@
 </gram>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1798-001-p1s1a32</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1798-001-p1s1a35">
@@ -292,14 +314,17 @@
 </gram>
 <deepord>17</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1798-001-p1s1a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1798-001-p1s1a25">
@@ -336,7 +361,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj1798-001-p1s1a29">
+<children>
+<LM id="T-wsj1798-001-p1s1a29">
 <a>
 <lex.rf>a#a-wsj1798-001-p1s1W29-Ta</lex.rf>
 </a>
@@ -347,18 +373,21 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>21</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>When I was just a child And confronted by my fears, The things that I thought would get me Had fangs and pointed ears.</eng_sentence>
 </LM>
 <LM id="T-wsj1798-001-p1s2">
 <atree.rf>a#a-wsj1798-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1798-001-p1s2a22">
+<children>
+<LM id="T-wsj1798-001-p1s2a22">
 <a>
 <lex.rf>a#a-wsj1798-001-p1s2W4-Ta</lex.rf>
 </a>
@@ -370,7 +399,9 @@
 <LM id="T-wsj1798-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj1798-001-p1s2W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1798-001-p1s2W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1798-001-p1s2W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9616f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -416,7 +447,9 @@
 <LM id="T-wsj1798-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1798-001-p1s2W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1798-001-p1s2W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1798-001-p1s2W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-whsa_294hsa_295</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -438,9 +471,11 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1798-001-p1s1a24</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1798-001-p1s2a6">
@@ -478,7 +513,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1798-001-p1s2a11">
+<children>
+<LM id="T-wsj1798-001-p1s2a11">
 <a>
 <lex.rf>a#a-wsj1798-001-p1s2W9-Ta</lex.rf>
 </a>
@@ -489,6 +525,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -541,9 +578,11 @@
 </gram>
 <deepord>15</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1798-001-p1s2a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1798-001-p1s2a16">
@@ -588,13 +627,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Nothing much has changed -- My periodic scares Are still from hostile animals, Only now, they're bulls and bears.</eng_sentence>
 </LM>
 <LM id="T-wsj1798-001-p1s3">
 <atree.rf>a#a-wsj1798-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1798-001-p1s3a2">
+<children>
+<LM id="T-wsj1798-001-p1s3a2">
 <a>
 <lex.rf>a#a-wsj1798-001-p1s3W5-Ta</lex.rf>
 <aux.rf>
@@ -609,7 +650,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1798-001-p1s3a1">
+<children>
+<LM id="T-wsj1798-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1798-001-p1s3W2-Ta</lex.rf>
 </a>
@@ -620,18 +662,17 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
+</LM>
 </children>
 <eng_sentence>-- Pat D'Amico.</eng_sentence>
 </LM>
 <LM id="T-wsj1798-001-p1s4">
 <atree.rf>a#a-wsj1798-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1798-001-p1s4a1">
+<children>
+<LM id="T-wsj1798-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj1798-001-p1s4W1-Ta</lex.rf>
 </a>
@@ -642,16 +683,15 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
+</LM>
 </children>
 <eng_sentence>Daffynition</eng_sentence>
 </LM>
 <LM id="T-wsj1798-001-p1s5">
 <atree.rf>a#a-wsj1798-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1798-001-p1s5a1">
+<children>
+<LM id="T-wsj1798-001-p1s5a1">
 <a>
 <lex.rf>a#a-wsj1798-001-p1s5W3-Ta</lex.rf>
 </a>
@@ -671,7 +711,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1798-001-p1s5a3">
+<children>
+<LM id="T-wsj1798-001-p1s5a3">
 <a>
 <lex.rf>a#a-wsj1798-001-p1s5W1-Ta</lex.rf>
 </a>
@@ -682,6 +723,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1798-001-p1s5a4">
@@ -695,18 +737,17 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Trained dolphins: pur-poises.</eng_sentence>
 </LM>
 <LM id="T-wsj1798-001-p1s6">
 <atree.rf>a#a-wsj1798-001-p1s6</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1798-001-p1s6a3">
+<children>
+<LM id="T-wsj1798-001-p1s6a3">
 <a>
 <lex.rf>a#a-wsj1798-001-p1s6W5-Ta</lex.rf>
 </a>
@@ -743,6 +784,7 @@
 <deepord>2</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>-- Marrill J. Pederson.</eng_sentence>
 </LM>

@@ -11,7 +11,8 @@
 <LM id="T-wsj1959-001-p1s0">
 <atree.rf>a#a-wsj1959-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1959-001-p1s0a1">
+<children>
+<LM id="T-wsj1959-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1959-001-p1s0W9-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1959-001-p1s0a3">
+<children>
+<LM id="T-wsj1959-001-p1s0a3">
 <a>
 <lex.rf>a#a-wsj1959-001-p1s0W5-Ta</lex.rf>
 </a>
@@ -119,12 +121,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1959-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj1959-001-p1s0W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1959-001-p1s0W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1959-001-p1s0W11-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w598f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -145,9 +150,11 @@
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1959-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1959-001-p1s0a13">
@@ -173,7 +180,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1959-001-p1s0a15">
+<children>
+<LM id="T-wsj1959-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj1959-001-p1s0W13-Ta</lex.rf>
 </a>
@@ -184,6 +192,7 @@
 <sempos>adv.denot.grad.nneg</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1959-001-p1s0a16">
@@ -263,9 +272,12 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj1959-001-p1s0a34">
+<children>
+<LM id="T-wsj1959-001-p1s0a34">
 <a>
-<aux.rf>a#a-wsj1959-001-p1s0W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1959-001-p1s0W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -298,6 +310,7 @@
 <deepord>26</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -315,7 +328,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>27</deepord>
-<children id="T-wsj1959-001-p1s0a28">
+<children>
+<LM id="T-wsj1959-001-p1s0a28">
 <a>
 <lex.rf>a#a-wsj1959-001-p1s0W28-Ta</lex.rf>
 </a>
@@ -326,20 +340,23 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>28</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>AVX Corp. and Unitrode Corp. said they completed the previously reported sale of Unitrode's San Diego-based Passive Components division to AVX.</eng_sentence>
 </LM>
 <LM id="T-wsj1959-001-p1s1">
 <atree.rf>a#a-wsj1959-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1959-001-p1s1a1">
+<children>
+<LM id="T-wsj1959-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1959-001-p1s1W9-Ta</lex.rf>
 </a>
@@ -368,7 +385,8 @@
 <functor>ACT</functor>
 <is_member>1</is_member>
 <deepord>1</deepord>
-<children id="T-wsj1959-001-p1s1a3">
+<children>
+<LM id="T-wsj1959-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj1959-001-p1s1W1-Ta</lex.rf>
 </a>
@@ -379,6 +397,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1959-001-p1s1a4">
@@ -448,9 +467,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1959-001-p1s0a27</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1959-001-p1s1a12">
@@ -474,7 +495,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1959-001-p1s1a11">
+<children>
+<LM id="T-wsj1959-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj1959-001-p1s1W11-Ta</lex.rf>
 </a>
@@ -485,6 +507,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1959-001-p1s1a13">
@@ -511,7 +534,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1959-001-p1s1a15">
+<children>
+<LM id="T-wsj1959-001-p1s1a15">
 <a>
 <lex.rf>a#a-wsj1959-001-p1s1W14-Ta</lex.rf>
 </a>
@@ -522,6 +546,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1959-001-p1s1a16">
@@ -535,10 +560,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj1959-001-p1s1a18">
+<children>
+<LM id="T-wsj1959-001-p1s1a18">
 <a>
 <lex.rf>a#a-wsj1959-001-p1s1W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1959-001-p1s1W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1959-001-p1s1W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Lexington</t_lemma>
@@ -547,15 +575,18 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1959-001-p1s0a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1959-001-p1s1a21">
@@ -597,7 +628,9 @@
 <LM id="T-wsj1959-001-p1s1a24">
 <a>
 <lex.rf>a#a-wsj1959-001-p1s1W24-Ta</lex.rf>
-<aux.rf>a#a-wsj1959-001-p1s1W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1959-001-p1s1W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hotovost</t_lemma>
@@ -608,19 +641,17 @@
 <deepord>21</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>AVX, a New York-based maker of passive electronic products, paid $11 million in cash to Unitrode, a Lexington-based maker of semiconductor products.</eng_sentence>
 </LM>
 <LM id="T-wsj1959-001-p1s2">
 <atree.rf>a#a-wsj1959-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1959-001-p1s2a1">
+<children>
+<LM id="T-wsj1959-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1959-001-p1s2W4-Ta</lex.rf>
 </a>
@@ -644,7 +675,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1959-001-p1s2a11">
+<children>
+<LM id="T-wsj1959-001-p1s2a11">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -670,11 +702,14 @@
 <deepord>4</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1959-001-p1s0a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1959-001-p1s2a5">
@@ -711,10 +746,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1959-001-p1s2a9">
+<children>
+<LM id="T-wsj1959-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj1959-001-p1s2W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1959-001-p1s2W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1959-001-p1s2W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>ochrana</t_lemma>
@@ -723,7 +761,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1959-001-p1s2a10">
+<children>
+<LM id="T-wsj1959-001-p1s2a10">
 <a>
 <lex.rf>a#a-wsj1959-001-p1s2W10-Ta</lex.rf>
 </a>
@@ -734,12 +773,15 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Passive Components makes capacitors and filters used to protect electronics.</eng_sentence>
 </LM>

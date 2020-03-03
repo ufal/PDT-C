@@ -11,7 +11,8 @@
 <LM id="T-wsj1851-001-p1s0">
 <atree.rf>a#a-wsj1851-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1851-001-p1s0a1">
+<children>
+<LM id="T-wsj1851-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1851-001-p1s0W7-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1851-001-p1s0a39">
+<children>
+<LM id="T-wsj1851-001-p1s0a39">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -94,12 +96,15 @@
 <deepord>7</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1851-001-p1s0a10">
 <a>
 <lex.rf>a#a-wsj1851-001-p1s0W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1851-001-p1s0W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1851-001-p1s0W9-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w598f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -120,9 +125,11 @@
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1851-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1851-001-p1s0a12">
@@ -245,7 +252,9 @@
 <LM id="T-wsj1851-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj1851-001-p1s0W21-Ta</lex.rf>
-<aux.rf>a#a-wsj1851-001-p1s0W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1851-001-p1s0W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>sídlo</t_lemma>
@@ -254,10 +263,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj1851-001-p1s0a23">
+<children>
+<LM id="T-wsj1851-001-p1s0a23">
 <a>
 <lex.rf>a#a-wsj1851-001-p1s0W23-Ta</lex.rf>
-<aux.rf>a#a-wsj1851-001-p1s0W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1851-001-p1s0W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Kenton</t_lemma>
@@ -266,10 +278,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj1851-001-p1s0a25">
+<children>
+<LM id="T-wsj1851-001-p1s0a25">
 <a>
 <lex.rf>a#a-wsj1851-001-p1s0W25-Ta</lex.rf>
-<aux.rf>a#a-wsj1851-001-p1s0W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1851-001-p1s0W24-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Ohio</t_lemma>
@@ -278,7 +293,9 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -307,7 +324,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>27</deepord>
-<children id="T-wsj1851-001-p1s0a29">
+<children>
+<LM id="T-wsj1851-001-p1s0a29">
 <a>
 <lex.rf>a#a-wsj1851-001-p1s0W28-Ta</lex.rf>
 </a>
@@ -318,6 +336,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>26</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1851-001-p1s0a30">
@@ -344,11 +363,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>29</deepord>
-<children id="T-wsj1851-001-p1s0a33">
+<children>
+<LM id="T-wsj1851-001-p1s0a33">
 <a>
 <lex.rf>a#a-wsj1851-001-p1s0W31-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1851-001-p1s0a27</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1851-001-p1s0a27</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>RSTR</functor>
@@ -356,6 +378,7 @@
 <sempos>n.pron.indef</sempos>
 </gram>
 <deepord>28</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1851-001-p1s0a34">
@@ -407,16 +430,20 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Federal Paper Board Co. said it completed the previously announced purchase of Imperial Cup Corp., a closely held maker of paper cups based in Kenton, Ohio.</eng_sentence>
 </LM>
 <LM id="T-wsj1851-001-p1s1">
 <atree.rf>a#a-wsj1851-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1851-001-p1s1a1">
+<children>
+<LM id="T-wsj1851-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1851-001-p1s1W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1851-001-p1s1W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1851-001-p1s1W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9966f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -454,17 +481,15 @@
 <deepord>4</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>špatně utvořený infinitiv - zveřejnět</text>
-</annot_comment>
+</LM>
 </children>
 <eng_sentence>Terms weren't disclosed.</eng_sentence>
 </LM>
 <LM id="T-wsj1851-001-p1s2">
 <atree.rf>a#a-wsj1851-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1851-001-p1s2a1">
+<children>
+<LM id="T-wsj1851-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1851-001-p1s2W4-Ta</lex.rf>
 </a>
@@ -488,7 +513,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1851-001-p1s2a11">
+<children>
+<LM id="T-wsj1851-001-p1s2a11">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -520,11 +546,14 @@
 <deepord>4</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1851-001-p1s0a41</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1851-001-p1s2a5">
@@ -574,7 +603,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1851-001-p1s2a7">
+<children>
+<LM id="T-wsj1851-001-p1s2a7">
 <a>
 <lex.rf>a#a-wsj1851-001-p1s2W7-Ta</lex.rf>
 </a>
@@ -585,6 +615,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1851-001-p1s2a10">
@@ -604,13 +635,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Imperial Cup has annual sales of approximately $75 million.</eng_sentence>
 </LM>
 <LM id="T-wsj1851-001-p1s3">
 <atree.rf>a#a-wsj1851-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1851-001-p1s3a2">
+<children>
+<LM id="T-wsj1851-001-p1s3a2">
 <a>
 <lex.rf>a#a-wsj1851-001-p1s3W5-Ta</lex.rf>
 </a>
@@ -641,7 +674,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1851-001-p1s3a13">
+<children>
+<LM id="T-wsj1851-001-p1s3a13">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -685,11 +719,14 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1851-001-p1s0a38</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1851-001-p1s3a7">
@@ -703,7 +740,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1851-001-p1s3a1">
+<children>
+<LM id="T-wsj1851-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1851-001-p1s3W9-Ta</lex.rf>
 </a>
@@ -715,7 +753,9 @@
 <LM id="T-wsj1851-001-p1s3a9">
 <a>
 <lex.rf>a#a-wsj1851-001-p1s3W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1851-001-p1s3W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1851-001-p1s3W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>papír</t_lemma>
@@ -729,7 +769,9 @@
 <LM id="T-wsj1851-001-p1s3a11">
 <a>
 <lex.rf>a#a-wsj1851-001-p1s3W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1851-001-p1s3W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1851-001-p1s3W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dřevo</t_lemma>
@@ -741,9 +783,11 @@
 <deepord>11</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Federal Paper Board sells paper and wood products.</eng_sentence>
 </LM>

@@ -11,7 +11,8 @@
 <LM id="T-wsj0321-001-p1s0">
 <atree.rf>a#a-wsj0321-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0321-001-p1s0a1">
+<children>
+<LM id="T-wsj0321-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s0W9-Ta</lex.rf>
 </a>
@@ -69,7 +70,9 @@
 <LM id="T-wsj0321-001-p1s0a6">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s0W5-Ta</lex.rf>
-<aux.rf>a#a-wsj0321-001-p1s0W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0321-001-p1s0W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Phoenix</t_lemma>
@@ -78,10 +81,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0321-001-p1s0a8">
+<children>
+<LM id="T-wsj0321-001-p1s0a8">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s0W7-Ta</lex.rf>
-<aux.rf>a#a-wsj0321-001-p1s0W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0321-001-p1s0W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Arizona</t_lemma>
@@ -90,6 +96,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -97,7 +104,9 @@
 <LM id="T-wsj0321-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s0W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0321-001-p1s0W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0321-001-p1s0W11-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6471f3_ZU</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -118,9 +127,11 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0321-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0321-001-p1s0a12">
@@ -139,7 +150,9 @@
 <a>
 <lex.rf>a#a-wsj0321-001-p1s0W13-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0321-001-p1s0a47</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0321-001-p1s0a47</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -151,7 +164,9 @@
 <LM id="T-wsj0321-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s0W16-Ta</lex.rf>
-<aux.rf>a#a-wsj0321-001-p1s0W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0321-001-p1s0W15-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5059f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -172,9 +187,11 @@
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0321-001-p1s0a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0321-001-p1s0a16">
@@ -188,7 +205,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj0321-001-p1s0a45">
+<children>
+<LM id="T-wsj0321-001-p1s0a45">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -217,12 +235,15 @@
 <deepord>17</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -230,7 +251,9 @@
 <LM id="T-wsj0321-001-p1s0a22">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s0W29-Ta</lex.rf>
-<aux.rf>a#a-wsj0321-001-p1s0W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0321-001-p1s0W21-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2834f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -275,7 +298,9 @@
 <LM id="T-wsj0321-001-p1s0a26">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s0W25-Ta</lex.rf>
-<aux.rf>a#a-wsj0321-001-p1s0W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0321-001-p1s0W24-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Farmington</t_lemma>
@@ -284,10 +309,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj0321-001-p1s0a28">
+<children>
+<LM id="T-wsj0321-001-p1s0a28">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s0W28-Ta</lex.rf>
-<aux.rf>a#a-wsj0321-001-p1s0W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0321-001-p1s0W26-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Mexiko</t_lemma>
@@ -296,7 +324,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj0321-001-p1s0a29">
+<children>
+<LM id="T-wsj0321-001-p1s0a29">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s0W27-Ta</lex.rf>
 </a>
@@ -307,18 +336,18 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0321-001-p1s0a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0321-001-p1s0a53">
@@ -331,15 +360,19 @@
 </gram>
 <deepord>25</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0321-001-p1s0a48</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0321-001-p1s0a31">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s0W32-Ta</lex.rf>
-<aux.rf>a#a-wsj0321-001-p1s0W30-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0321-001-p1s0W30-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>nabídka</t_lemma>
@@ -348,7 +381,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>27</deepord>
-<children id="T-wsj0321-001-p1s0a32">
+<children>
+<LM id="T-wsj0321-001-p1s0a32">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s0W31-Ta</lex.rf>
 </a>
@@ -360,10 +394,13 @@
 </gram>
 <deepord>26</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0321-001-p1s0a53</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0321-001-p1s0a33">
@@ -389,9 +426,11 @@
 </gram>
 <deepord>28</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0321-001-p1s0a23</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0321-001-p1s0a34">
@@ -431,7 +470,9 @@
 <LM id="T-wsj0321-001-p1s0a39">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s0W40-Ta</lex.rf>
-<aux.rf>a#a-wsj0321-001-p1s0W38-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0321-001-p1s0W38-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>termín</t_lemma>
@@ -465,7 +506,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>35</deepord>
-<children id="T-wsj0321-001-p1s0a42">
+<children>
+<LM id="T-wsj0321-001-p1s0a42">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s0W42-Ta</lex.rf>
 </a>
@@ -476,7 +518,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>36</deepord>
-<children id="T-wsj0321-001-p1s0a43">
+<children>
+<LM id="T-wsj0321-001-p1s0a43">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s0W43-Ta</lex.rf>
 </a>
@@ -487,12 +530,16 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>37</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0321-001-p1s0a32</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 </children>
@@ -501,8 +548,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -510,13 +559,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>StatesWest Airlines, Phoenix, Ariz., said it withdrew its offer to acquire Mesa Airlines because the Farmington, N.M., carrier didn't respond to its offer by the close of business yesterday, a deadline StatesWest had set for a response.</eng_sentence>
 </LM>
 <LM id="T-wsj0321-001-p1s1">
 <atree.rf>a#a-wsj0321-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0321-001-p1s1a2">
+<children>
+<LM id="T-wsj0321-001-p1s1a2">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s1W12-Ta</lex.rf>
 </a>
@@ -556,7 +607,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0321-001-p1s1a4">
+<children>
+<LM id="T-wsj0321-001-p1s1a4">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -567,11 +619,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0321-001-p1s0a42</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0321-001-p1s1a5">
@@ -590,7 +645,9 @@
 <a>
 <lex.rf>a#a-wsj0321-001-p1s1W4-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0321-001-p1s1a3</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0321-001-p1s1a3</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -602,7 +659,9 @@
 <LM id="T-wsj0321-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s1W7-Ta</lex.rf>
-<aux.rf>a#a-wsj0321-001-p1s1W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0321-001-p1s1W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9499f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -623,9 +682,11 @@
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0321-001-p1s1a6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0321-001-p1s1a9">
@@ -651,7 +712,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0321-001-p1s1a11">
+<children>
+<LM id="T-wsj0321-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s1W8-Ta</lex.rf>
 </a>
@@ -662,6 +724,7 @@
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0321-001-p1s1a12">
@@ -678,27 +741,33 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0321-001-p1s0a51</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>However, StatesWest isn't abandoning its pursuit of the much-larger Mesa.</eng_sentence>
 </LM>
 <LM id="T-wsj0321-001-p1s2">
 <atree.rf>a#a-wsj0321-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0321-001-p1s2a1">
+<children>
+<LM id="T-wsj0321-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s2W15-Ta</lex.rf>
 </a>
@@ -752,7 +821,9 @@
 <a>
 <lex.rf>a#a-wsj0321-001-p1s2W4-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0321-001-p1s2a2</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0321-001-p1s2a2</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -781,7 +852,8 @@
 <t_lemma>#Percnt</t_lemma>
 <functor>RSTR</functor>
 <deepord>6</deepord>
-<children id="T-wsj0321-001-p1s2a7">
+<children>
+<LM id="T-wsj0321-001-p1s2a7">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s2W6-Ta</lex.rf>
 </a>
@@ -792,12 +864,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0321-001-p1s2a14">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s2W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0321-001-p1s2W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0321-001-p1s2W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>firma</t_lemma>
@@ -806,7 +881,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0321-001-p1s2a15">
+<children>
+<LM id="T-wsj0321-001-p1s2a15">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s2W13-Ta</lex.rf>
 </a>
@@ -817,11 +893,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0321-001-p1s1a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -830,9 +909,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0321-001-p1s1a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0321-001-p1s2a18">
@@ -854,15 +935,19 @@
 </gram>
 <deepord>10</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0321-001-p1s2a6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0321-001-p1s2a19">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s2W19-Ta</lex.rf>
-<aux.rf>a#a-wsj0321-001-p1s2W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0321-001-p1s2W17-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1578f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -918,7 +1003,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj0321-001-p1s2a24">
+<children>
+<LM id="T-wsj0321-001-p1s2a24">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s2W23-Ta</lex.rf>
 </a>
@@ -929,11 +1015,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0321-001-p1s2a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -943,7 +1032,9 @@
 <LM id="T-wsj0321-001-p1s2a26">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s2W26-Ta</lex.rf>
-<aux.rf>a#a-wsj0321-001-p1s2W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0321-001-p1s2W17-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6999f5</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -954,7 +1045,8 @@
 <sempos>v</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj0321-001-p1s2a27">
+<children>
+<LM id="T-wsj0321-001-p1s2a27">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s2W28-Ta</lex.rf>
 </a>
@@ -1010,7 +1102,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj0321-001-p1s2a32">
+<children>
+<LM id="T-wsj0321-001-p1s2a32">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s2W32-Ta</lex.rf>
 </a>
@@ -1021,32 +1114,40 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0321-001-p1s2a23</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>Translation</type>
 <text>vymazat: pomlčka, ní</text>
+</LM>
 </annot_comment>
 <eng_sentence>StatesWest, which has a 7.25% stake in Mesa, said it may purchase more Mesa stock or make a tender offer directly to Mesa shareholders.</eng_sentence>
 </LM>
 <LM id="T-wsj0321-001-p1s3">
 <atree.rf>a#a-wsj0321-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0321-001-p1s3a1">
+<children>
+<LM id="T-wsj0321-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s3W3-Ta</lex.rf>
 </a>
@@ -1070,7 +1171,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0321-001-p1s3a2">
+<children>
+<LM id="T-wsj0321-001-p1s3a2">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s3W2-Ta</lex.rf>
 </a>
@@ -1081,11 +1183,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0321-001-p1s2a33</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0321-001-p1s3a4">
@@ -1111,9 +1216,11 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0321-001-p1s3a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0321-001-p1s3a5">
@@ -1127,7 +1234,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj0321-001-p1s3a6">
+<children>
+<LM id="T-wsj0321-001-p1s3a6">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s3W6-Ta</lex.rf>
 </a>
@@ -1138,11 +1246,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0321-001-p1s2a31</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0321-001-p1s3a11">
@@ -1157,7 +1268,9 @@
 <LM id="T-wsj0321-001-p1s3a8">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s3W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0321-001-p1s3W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0321-001-p1s3W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>cena</t_lemma>
@@ -1167,7 +1280,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0321-001-p1s3a10">
+<children>
+<LM id="T-wsj0321-001-p1s3a10">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s3W10-Ta</lex.rf>
 </a>
@@ -1194,7 +1308,9 @@
 <LM id="T-wsj0321-001-p1s3a13">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s3W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0321-001-p1s3W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0321-001-p1s3W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akcie</t_lemma>
@@ -1205,12 +1321,15 @@
 <deepord>11</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0321-001-p1s3a31">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s3W31-Ta</lex.rf>
-<aux.rf>a#a-wsj0321-001-p1s3W30-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0321-001-p1s3W30-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>cena</t_lemma>
@@ -1252,7 +1371,9 @@
 <LM id="T-wsj0321-001-p1s3a19">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s3W20-Ta</lex.rf>
-<aux.rf>a#a-wsj0321-001-p1s3W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0321-001-p1s3W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>série</t_lemma>
@@ -1282,7 +1403,8 @@
 <t_lemma>#Percnt</t_lemma>
 <functor>RSTR</functor>
 <deepord>18</deepord>
-<children id="T-wsj0321-001-p1s3a22">
+<children>
+<LM id="T-wsj0321-001-p1s3a22">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s3W21-Ta</lex.rf>
 </a>
@@ -1293,6 +1415,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>17</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0321-001-p1s3a23">
@@ -1342,7 +1465,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj0321-001-p1s3a29">
+<children>
+<LM id="T-wsj0321-001-p1s3a29">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s3W29-Ta</lex.rf>
 </a>
@@ -1353,11 +1477,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0321-001-p1s3a37</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -1393,7 +1520,9 @@
 <LM id="T-wsj0321-001-p1s3a35">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s3W35-Ta</lex.rf>
-<aux.rf>a#a-wsj0321-001-p1s3W34-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0321-001-p1s3W34-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akcie</t_lemma>
@@ -1411,22 +1540,28 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>Translation</type>
 <text>vymazat: pomlčka, ních</text>
+</LM>
 </annot_comment>
 <eng_sentence>StatesWest had proposed acquiring Mesa for $7 a share and one share of a new series of StatesWest 6% convertible preferred stock it values at $3 a share.</eng_sentence>
 </LM>
 <LM id="T-wsj0321-001-p1s4">
 <atree.rf>a#a-wsj0321-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0321-001-p1s4a1">
+<children>
+<LM id="T-wsj0321-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s4W5-Ta</lex.rf>
 </a>
@@ -1450,7 +1585,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0321-001-p1s4a3">
+<children>
+<LM id="T-wsj0321-001-p1s4a3">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s4W2-Ta</lex.rf>
 </a>
@@ -1461,11 +1597,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0321-001-p1s3a5</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0321-001-p1s4a4">
@@ -1524,7 +1663,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0321-001-p1s4a9">
+<children>
+<LM id="T-wsj0321-001-p1s4a9">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s4W9-Ta</lex.rf>
 </a>
@@ -1535,11 +1675,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0321-001-p1s3a28</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0321-001-p1s4a12">
@@ -1570,7 +1713,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0321-001-p1s4a15">
+<children>
+<LM id="T-wsj0321-001-p1s4a15">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s4W13-Ta</lex.rf>
 </a>
@@ -1581,6 +1725,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 <bridging>
 <LM>
@@ -1608,7 +1753,9 @@
 <deepord>12</deepord>
 </LM>
 <LM id="T-wsj0321-001-p1s4a17">
-<coref_gram.rf>T-wsj0321-001-p1s4a14</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0321-001-p1s4a14</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Rcp</t_lemma>
@@ -1620,13 +1767,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Earlier, Mesa had rejected a general proposal from StatesWest to combine the two carriers in some way.</eng_sentence>
 </LM>
 <LM id="T-wsj0321-001-p1s5">
 <atree.rf>a#a-wsj0321-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0321-001-p1s5a1">
+<children>
+<LM id="T-wsj0321-001-p1s5a1">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s5W3-Ta</lex.rf>
 </a>
@@ -1650,7 +1799,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0321-001-p1s5a3">
+<children>
+<LM id="T-wsj0321-001-p1s5a3">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s5W2-Ta</lex.rf>
 </a>
@@ -1661,11 +1811,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0321-001-p1s4a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0321-001-p1s5a5">
@@ -1679,7 +1832,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0321-001-p1s5a4">
+<children>
+<LM id="T-wsj0321-001-p1s5a4">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s5W4-Ta</lex.rf>
 </a>
@@ -1690,6 +1844,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0321-001-p1s5a7">
@@ -1704,7 +1859,9 @@
 <LM id="T-wsj0321-001-p1s5a8">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s5W7-Ta</lex.rf>
-<aux.rf>a#a-wsj0321-001-p1s5W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0321-001-p1s5W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Kalifornie</t_lemma>
@@ -1718,7 +1875,9 @@
 <LM id="T-wsj0321-001-p1s5a10">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s5W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0321-001-p1s5W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0321-001-p1s5W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Arizona</t_lemma>
@@ -1729,15 +1888,19 @@
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0321-001-p1s0a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0321-001-p1s5a11">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s5W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0321-001-p1s5W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0321-001-p1s5W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Nevada</t_lemma>
@@ -1751,13 +1914,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>StatesWest serves 10 cities in California, Arizona and Nevada.</eng_sentence>
 </LM>
 <LM id="T-wsj0321-001-p1s6">
 <atree.rf>a#a-wsj0321-001-p1s6</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0321-001-p1s6a1">
+<children>
+<LM id="T-wsj0321-001-p1s6a1">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s6W3-Ta</lex.rf>
 </a>
@@ -1781,7 +1946,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0321-001-p1s6a3">
+<children>
+<LM id="T-wsj0321-001-p1s6a3">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s6W2-Ta</lex.rf>
 </a>
@@ -1792,17 +1958,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0321-001-p1s4a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0321-001-p1s6a5">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s6W6-Ta</lex.rf>
-<aux.rf>a#a-wsj0321-001-p1s6W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0321-001-p1s6W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>město</t_lemma>
@@ -1845,7 +2016,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0321-001-p1s6a9">
+<children>
+<LM id="T-wsj0321-001-p1s6a9">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s6W8-Ta</lex.rf>
 </a>
@@ -1856,21 +2028,22 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0321-001-p1s0a28</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0321-001-p1s6a12">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s6W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0321-001-p1s6W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0321-001-p1s6W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Arizona</t_lemma>
@@ -1881,15 +2054,19 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0321-001-p1s5a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0321-001-p1s6a14">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s6W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0321-001-p1s6W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0321-001-p1s6W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Wyoming</t_lemma>
@@ -1903,7 +2080,9 @@
 <LM id="T-wsj0321-001-p1s6a16">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s6W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0321-001-p1s6W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0321-001-p1s6W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Colorado</t_lemma>
@@ -1917,7 +2096,9 @@
 <LM id="T-wsj0321-001-p1s6a17">
 <a>
 <lex.rf>a#a-wsj0321-001-p1s6W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0321-001-p1s6W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0321-001-p1s6W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Texas</t_lemma>
@@ -1933,6 +2114,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Mesa flies to 42 cities in New Mexico, Arizona, Wyoming, Colorado and Texas.</eng_sentence>
 </LM>

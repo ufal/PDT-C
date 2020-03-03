@@ -11,7 +11,8 @@
 <LM id="T-wsj0539-001-p1s0">
 <atree.rf>a#a-wsj0539-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0539-001-p1s0a1">
+<children>
+<LM id="T-wsj0539-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0539-001-p1s0W7-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0539-001-p1s0a31">
+<children>
+<LM id="T-wsj0539-001-p1s0a31">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -91,12 +93,15 @@
 <deepord>7</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0539-001-p1s0a10">
 <a>
 <lex.rf>a#a-wsj0539-001-p1s0W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0539-001-p1s0W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0539-001-p1s0W9-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3559f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -117,9 +122,11 @@
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0539-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0539-001-p1s0a11">
@@ -161,7 +168,9 @@
 <LM id="T-wsj0539-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj0539-001-p1s0W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0539-001-p1s0W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0539-001-p1s0W14-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9499f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -182,9 +191,11 @@
 </gram>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0539-001-p1s0a29</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0539-001-p1s0a16">
@@ -256,7 +267,9 @@
 <LM id="T-wsj0539-001-p1s0a22">
 <a>
 <lex.rf>a#a-wsj0539-001-p1s0W22-Ta</lex.rf>
-<aux.rf>a#a-wsj0539-001-p1s0W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0539-001-p1s0W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Kalifornie</t_lemma>
@@ -271,7 +284,9 @@
 <LM id="T-wsj0539-001-p1s0a23">
 <a>
 <lex.rf>a#a-wsj0539-001-p1s0W24-Ta</lex.rf>
-<aux.rf>a#a-wsj0539-001-p1s0W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0539-001-p1s0W25-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zabývající_se</t_lemma>
@@ -280,7 +295,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj0539-001-p1s0a26">
+<children>
+<LM id="T-wsj0539-001-p1s0a26">
 <a>
 <lex.rf>a#a-wsj0539-001-p1s0W27-Ta</lex.rf>
 </a>
@@ -291,7 +307,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj0539-001-p1s0a27">
+<children>
+<LM id="T-wsj0539-001-p1s0a27">
 <a>
 <lex.rf>a#a-wsj0539-001-p1s0W26-Ta</lex.rf>
 </a>
@@ -302,15 +319,19 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>24</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -318,13 +339,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Pacific First Financial Corp. said it signed a non-binding letter of intent to acquire the construction lending unit of Old Stone Bank of California.</eng_sentence>
 </LM>
 <LM id="T-wsj0539-001-p1s1">
 <atree.rf>a#a-wsj0539-001-p1s1</atree.rf>
 <deepord>1</deepord>
-<children id="T-wsj0539-001-p1s1a1">
+<children>
+<LM id="T-wsj0539-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0539-001-p1s1W17-Ta</lex.rf>
 </a>
@@ -357,7 +380,9 @@
 <LM id="T-wsj0539-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj0539-001-p1s1W4-Ta</lex.rf>
-<aux.rf>a#a-wsj0539-001-p1s1W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0539-001-p1s1W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w573f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -412,7 +437,9 @@
 <LM id="T-wsj0539-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj0539-001-p1s1W7-Ta</lex.rf>
-<aux.rf>a#a-wsj0539-001-p1s1W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0539-001-p1s1W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2608f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -423,7 +450,8 @@
 <sempos>v</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0539-001-p1s1a12">
+<children>
+<LM id="T-wsj0539-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj0539-001-p1s1W13-Ta</lex.rf>
 <aux.rf>
@@ -459,15 +487,19 @@
 </gram>
 <deepord>10</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0539-001-p1s0a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0539-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj0539-001-p1s1W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0539-001-p1s1W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0539-001-p1s1W14-Ta</LM>
+</aux.rf>
 </a>
 <coref_special>exoph</coref_special>
 <nodetype>complex</nodetype>
@@ -479,6 +511,7 @@
 <deepord>12</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -494,7 +527,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj0539-001-p1s1a26">
+<children>
+<LM id="T-wsj0539-001-p1s1a26">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -526,21 +560,26 @@
 <deepord>17</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0539-001-p1s0a30</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Terms haven't been finalized, but the transaction is expected to close by year end, Pacific First said.</eng_sentence>
 </LM>
 <LM id="T-wsj0539-001-p1s2">
 <atree.rf>a#a-wsj0539-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0539-001-p1s2a1">
+<children>
+<LM id="T-wsj0539-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0539-001-p1s2W8-Ta</lex.rf>
 </a>
@@ -556,7 +595,9 @@
 <LM id="T-wsj0539-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj0539-001-p1s2W2-Ta</lex.rf>
-<aux.rf>a#a-wsj0539-001-p1s2W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0539-001-p1s2W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>objem</t_lemma>
@@ -565,7 +606,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0539-001-p1s2a4">
+<children>
+<LM id="T-wsj0539-001-p1s2a4">
 <a>
 <lex.rf>a#a-wsj0539-001-p1s2W4-Ta</lex.rf>
 </a>
@@ -600,7 +642,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0539-001-p1s2a18">
+<children>
+<LM id="T-wsj0539-001-p1s2a18">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -632,20 +675,26 @@
 <deepord>7</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0539-001-p1s0a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0539-001-p1s2a10">
 <a>
 <lex.rf>a#a-wsj0539-001-p1s2W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0539-001-p1s2W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0539-001-p1s2W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -678,7 +727,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0539-001-p1s2a13">
+<children>
+<LM id="T-wsj0539-001-p1s2a13">
 <a>
 <lex.rf>a#a-wsj0539-001-p1s2W14-Ta</lex.rf>
 </a>
@@ -705,7 +755,9 @@
 <LM id="T-wsj0539-001-p1s2a16">
 <a>
 <lex.rf>a#a-wsj0539-001-p1s2W16-Ta</lex.rf>
-<aux.rf>a#a-wsj0539-001-p1s2W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0539-001-p1s2W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>nemovitost</t_lemma>
@@ -716,18 +768,21 @@
 <deepord>14</deepord>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Old Stone's construction lending portfolio includes about $250 million in real-estate loans outstanding.</eng_sentence>
 </LM>
 <LM id="T-wsj0539-001-p1s3">
 <atree.rf>a#a-wsj0539-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0539-001-p1s3a1">
+<children>
+<LM id="T-wsj0539-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj0539-001-p1s3W11-Ta</lex.rf>
 </a>
@@ -765,7 +820,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0539-001-p1s3a4">
+<children>
+<LM id="T-wsj0539-001-p1s3a4">
 <a>
 <lex.rf>a#a-wsj0539-001-p1s3W1-Ta</lex.rf>
 </a>
@@ -776,11 +832,14 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0539-001-p1s2a6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0539-001-p1s3a6">
@@ -794,7 +853,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0539-001-p1s3a5">
+<children>
+<LM id="T-wsj0539-001-p1s3a5">
 <a>
 <lex.rf>a#a-wsj0539-001-p1s3W4-Ta</lex.rf>
 </a>
@@ -805,12 +865,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0539-001-p1s3a8">
 <a>
 <lex.rf>a#a-wsj0539-001-p1s3W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0539-001-p1s3W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0539-001-p1s3W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9169f3</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -855,9 +918,11 @@
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0539-001-p1s3a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0539-001-p1s3a13">
@@ -869,8 +934,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -887,23 +954,29 @@
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0539-001-p1s1a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <str_comment>
+<LM>
 <name>AMBIG</name>
 <comment>nebo Old Stone Bank (1. věta)</comment>
+</LM>
 </str_comment>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The unit has 30 employees in four California offices, the company said.</eng_sentence>
 </LM>
 <LM id="T-wsj0539-001-p1s4">
 <atree.rf>a#a-wsj0539-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0539-001-p1s4a6">
+<children>
+<LM id="T-wsj0539-001-p1s4a6">
 <a>
 <lex.rf>a#a-wsj0539-001-p1s4W4-Ta</lex.rf>
 </a>
@@ -927,7 +1000,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0539-001-p1s4a17">
+<children>
+<LM id="T-wsj0539-001-p1s4a17">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -959,11 +1033,14 @@
 <deepord>4</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0539-001-p1s3a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0539-001-p1s4a1">
@@ -987,7 +1064,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj0539-001-p1s4a18">
+<children>
+<LM id="T-wsj0539-001-p1s4a18">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1055,6 +1133,7 @@
 <deepord>12</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0539-001-p1s4a12">
@@ -1093,7 +1172,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj0539-001-p1s4a14">
+<children>
+<LM id="T-wsj0539-001-p1s4a14">
 <a>
 <lex.rf>a#a-wsj0539-001-p1s4W16-Ta</lex.rf>
 </a>
@@ -1104,7 +1184,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj0539-001-p1s4a16">
+<children>
+<LM id="T-wsj0539-001-p1s4a16">
 <a>
 <lex.rf>a#a-wsj0539-001-p1s4W15-Ta</lex.rf>
 </a>
@@ -1115,17 +1196,17 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>17</deepord>
-</children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Pacific First owns Pacific First Federal Savings Banks and other financial services firms.</eng_sentence>
 </LM>

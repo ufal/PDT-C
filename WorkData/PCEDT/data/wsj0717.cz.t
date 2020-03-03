@@ -11,7 +11,8 @@
 <LM id="T-wsj0717-001-p1s0">
 <atree.rf>a#a-wsj0717-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0717-001-p1s0a1">
+<children>
+<LM id="T-wsj0717-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s0W34-Ta</lex.rf>
 </a>
@@ -82,7 +83,9 @@
 <LM id="T-wsj0717-001-p1s0a7">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s0W7-Ta</lex.rf>
-<aux.rf>a#a-wsj0717-001-p1s0W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0717-001-p1s0W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dům</t_lemma>
@@ -135,7 +138,9 @@
 <LM id="T-wsj0717-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s0W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0717-001-p1s0W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0717-001-p1s0W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -144,7 +149,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0717-001-p1s0a13">
+<children>
+<LM id="T-wsj0717-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s0W10-Ta</lex.rf>
 </a>
@@ -155,18 +161,22 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0717-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s0W14-Ta</lex.rf>
-<aux.rf>a#a-wsj0717-001-p1s0W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0717-001-p1s0W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>12</deepord>
-<children id="T-wsj0717-001-p1s0a15">
+<children>
+<LM id="T-wsj0717-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s0W13-Ta</lex.rf>
 </a>
@@ -177,6 +187,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0717-001-p1s0a43">
@@ -192,7 +203,9 @@
 <LM id="T-wsj0717-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s0W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0717-001-p1s0W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0717-001-p1s0W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>bilión</t_lemma>
@@ -232,7 +245,9 @@
 <LM id="T-wsj0717-001-p1s0a24">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s0W21-Ta</lex.rf>
-<aux.rf>a#a-wsj0717-001-p1s0W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0717-001-p1s0W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>miliarda</t_lemma>
@@ -294,7 +309,9 @@
 <a>
 <lex.rf>a#a-wsj0717-001-p1s0W25-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0717-001-p1s0a3</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0717-001-p1s0a3</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>ACT</functor>
@@ -318,7 +335,9 @@
 <LM id="T-wsj0717-001-p1s0a30">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s0W30-Ta</lex.rf>
-<aux.rf>a#a-wsj0717-001-p1s0W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0717-001-p1s0W28-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>měsíc</t_lemma>
@@ -343,9 +362,13 @@
 <LM id="T-wsj0717-001-p1s0a33">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s0W32-Ta</lex.rf>
-<aux.rf>a#a-wsj0717-001-p1s0W31-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0717-001-p1s0W31-Ta</LM>
+</aux.rf>
 </a>
-<coref_gram.rf>T-wsj0717-001-p1s0a4</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0717-001-p1s0a4</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>LOC</functor>
@@ -371,7 +394,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>28</deepord>
-<children id="T-wsj0717-001-p1s0a36">
+<children>
+<LM id="T-wsj0717-001-p1s0a36">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s0W38-Ta</lex.rf>
 </a>
@@ -392,7 +416,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>30</deepord>
-<children id="T-wsj0717-001-p1s0a38">
+<children>
+<LM id="T-wsj0717-001-p1s0a38">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s0W36-Ta</lex.rf>
 </a>
@@ -403,6 +428,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>29</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0717-001-p1s0a39">
@@ -419,20 +445,19 @@
 <deepord>32</deepord>
 </LM>
 </children>
-</children>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>September sales at major Japanese retail stores rose 9.4% from a year earlier to 1.388 trillion yen ($9.81 billion), marking the fifth-consecutive monthly increase, the Ministry of International Trade and Industry announced.</eng_sentence>
 </LM>
 <LM id="T-wsj0717-001-p1s1">
 <atree.rf>a#a-wsj0717-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0717-001-p1s1a1">
+<children>
+<LM id="T-wsj0717-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -448,7 +473,9 @@
 <LM id="T-wsj0717-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s1W2-Ta</lex.rf>
-<aux.rf>a#a-wsj0717-001-p1s1W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0717-001-p1s1W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>ministerstvo</t_lemma>
@@ -458,9 +485,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0717-001-p1s0a35</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0717-001-p1s1a4">
@@ -490,7 +519,9 @@
 <LM id="T-wsj0717-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s1W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0717-001-p1s1W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0717-001-p1s1W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dům</t_lemma>
@@ -531,13 +562,16 @@
 <LM id="T-wsj0717-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s1W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0717-001-p1s1W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0717-001-p1s1W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>9</deepord>
-<children id="T-wsj0717-001-p1s1a11">
+<children>
+<LM id="T-wsj0717-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s1W11-Ta</lex.rf>
 </a>
@@ -548,12 +582,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0717-001-p1s1a15">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s1W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0717-001-p1s1W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0717-001-p1s1W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>miliarda</t_lemma>
@@ -592,7 +629,9 @@
 <LM id="T-wsj0717-001-p1s1a19">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s1W22-Ta</lex.rf>
-<aux.rf>a#a-wsj0717-001-p1s1W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0717-001-p1s1W18-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8687f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -614,10 +653,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj0717-001-p1s1a22">
+<children>
+<LM id="T-wsj0717-001-p1s1a22">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s1W21-Ta</lex.rf>
-<aux.rf>a#a-wsj0717-001-p1s1W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0717-001-p1s1W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>supermarket</t_lemma>
@@ -626,18 +668,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0717-001-p1s1a25">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s1W25-Ta</lex.rf>
-<aux.rf>a#a-wsj0717-001-p1s1W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0717-001-p1s1W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>17</deepord>
-<children id="T-wsj0717-001-p1s1a24">
+<children>
+<LM id="T-wsj0717-001-p1s1a24">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s1W24-Ta</lex.rf>
 </a>
@@ -648,12 +694,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0717-001-p1s1a28">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s1W28-Ta</lex.rf>
-<aux.rf>a#a-wsj0717-001-p1s1W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0717-001-p1s1W26-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>miliarda</t_lemma>
@@ -692,13 +741,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>According to the ministry, retail sales at major department stores were up 12% to 745.7 billion yen, while sales at supermarkets rose 6.7% to 642 billion yen.</eng_sentence>
 </LM>
 <LM id="T-wsj0717-001-p1s2">
 <atree.rf>a#a-wsj0717-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0717-001-p1s2a1">
+<children>
+<LM id="T-wsj0717-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s2W16-Ta</lex.rf>
 </a>
@@ -755,17 +806,23 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0717-001-p1s0a27</target-node.rf>
 <informal-type>SPEC</informal-type>
 <str_comment>
+<LM>
 <name>AMBIG</name>
 <comment>nebo SEGM</comment>
+</LM>
 </str_comment>
 <src>LH</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0717-001-p1s2a11">
@@ -780,7 +837,9 @@
 <LM id="T-wsj0717-001-p1s2a6">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s2W7-Ta</lex.rf>
-<aux.rf>a#a-wsj0717-001-p1s2W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0717-001-p1s2W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>růst</t_lemma>
@@ -799,7 +858,8 @@
 <t_lemma>#Percnt</t_lemma>
 <functor>RSTR</functor>
 <deepord>6</deepord>
-<children id="T-wsj0717-001-p1s2a7">
+<children>
+<LM id="T-wsj0717-001-p1s2a7">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s2W5-Ta</lex.rf>
 </a>
@@ -810,12 +870,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0717-001-p1s2a10">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s2W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0717-001-p1s2W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0717-001-p1s2W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>červenec</t_lemma>
@@ -830,7 +893,9 @@
 <LM id="T-wsj0717-001-p1s2a14">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s2W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0717-001-p1s2W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0717-001-p1s2W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w10004f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -850,7 +915,8 @@
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>11</deepord>
-<children id="T-wsj0717-001-p1s2a12">
+<children>
+<LM id="T-wsj0717-001-p1s2a12">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s2W11-Ta</lex.rf>
 </a>
@@ -861,6 +927,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0717-001-p1s2a26">
@@ -873,7 +940,9 @@
 <LM id="T-wsj0717-001-p1s2a16">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s2W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0717-001-p1s2W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0717-001-p1s2W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>srpen</t_lemma>
@@ -885,8 +954,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -917,9 +988,11 @@
 </gram>
 <deepord>16</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0717-001-p1s2a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0717-001-p1s2a18">
@@ -989,13 +1062,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>September's growth followed a 8.7% rise in July and an 8% increase in August, showing continued expansion at high year-on-year levels.</eng_sentence>
 </LM>
 <LM id="T-wsj0717-001-p1s3">
 <atree.rf>a#a-wsj0717-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0717-001-p1s3a1">
+<children>
+<LM id="T-wsj0717-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s3W3-Ta</lex.rf>
 </a>
@@ -1019,7 +1094,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0717-001-p1s3a3">
+<children>
+<LM id="T-wsj0717-001-p1s3a3">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s3W2-Ta</lex.rf>
 </a>
@@ -1031,16 +1107,21 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0717-001-p1s1a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0717-001-p1s3a6">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s3W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0717-001-p1s3W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0717-001-p1s3W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7583f11</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1062,7 +1143,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0717-001-p1s3a8">
+<children>
+<LM id="T-wsj0717-001-p1s3a8">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s3W6-Ta</lex.rf>
 </a>
@@ -1073,21 +1155,28 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0717-001-p1s2a28</target-node.rf>
 <informal-type>SPEC</informal-type>
 <str_comment>
+<LM>
 <name>AMBIG</name>
 <comment>nebo "vzestup" v 1. větě</comment>
+</LM>
 </str_comment>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0717-001-p1s3a10">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s3W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0717-001-p1s3W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0717-001-p1s3W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>závěr</t_lemma>
@@ -1096,10 +1185,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0717-001-p1s3a13">
+<children>
+<LM id="T-wsj0717-001-p1s3a13">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s3W14-Ta</lex.rf>
-<aux.rf>a#a-wsj0717-001-p1s3W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0717-001-p1s3W12-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3824f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1170,7 +1262,9 @@
 <LM id="T-wsj0717-001-p1s3a19">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s3W22-Ta</lex.rf>
-<aux.rf>a#a-wsj0717-001-p1s3W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0717-001-p1s3W21-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9273f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1192,7 +1286,9 @@
 <a>
 <lex.rf>a#a-wsj0717-001-p1s3W20-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0717-001-p1s3a17</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0717-001-p1s3a17</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -1204,7 +1300,9 @@
 <LM id="T-wsj0717-001-p1s3a24">
 <a>
 <lex.rf>a#a-wsj0717-001-p1s3W24-Ta</lex.rf>
-<aux.rf>a#a-wsj0717-001-p1s3W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0717-001-p1s3W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>duben</t_lemma>
@@ -1221,11 +1319,13 @@
 </children>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>A ministry official said the growth leads to the conclusion the adverse effects of a consumption tax introduced in April have diminished.</eng_sentence>
 </LM>

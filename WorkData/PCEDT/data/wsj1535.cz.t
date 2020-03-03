@@ -11,7 +11,8 @@
 <LM id="T-wsj1535-001-p1s0">
 <atree.rf>a#a-wsj1535-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1535-001-p1s0a1">
+<children>
+<LM id="T-wsj1535-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s0W3-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1535-001-p1s0a3">
+<children>
+<LM id="T-wsj1535-001-p1s0a3">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s0W2-Ta</lex.rf>
 </a>
@@ -46,16 +48,15 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1535-001-p1s0a6">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s0W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1535-001-p1s0W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1535-001-p1s0W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8687f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -119,7 +120,9 @@
 <LM id="T-wsj1535-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s0W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1535-001-p1s0W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1535-001-p1s0W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>září</t_lemma>
@@ -132,7 +135,9 @@
 <LM id="T-wsj1535-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s0W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1535-001-p1s0W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1535-001-p1s0W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>miliarda</t_lemma>
@@ -171,7 +176,9 @@
 <LM id="T-wsj1535-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s0W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1535-001-p1s0W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1535-001-p1s0W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>miliarda</t_lemma>
@@ -210,13 +217,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>U.S. official reserve assets rose $6.05 billion in September, to $68.42 billion, the Treasury Department said.</eng_sentence>
 </LM>
 <LM id="T-wsj1535-001-p1s1">
 <atree.rf>a#a-wsj1535-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1535-001-p1s1a1">
+<children>
+<LM id="T-wsj1535-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -241,15 +250,19 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1535-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1535-001-p1s1a5">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s1W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1535-001-p1s1W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1535-001-p1s1W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -271,7 +284,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1535-001-p1s1a7">
+<children>
+<LM id="T-wsj1535-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s1W5-Ta</lex.rf>
 </a>
@@ -282,11 +296,14 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1535-001-p1s0a6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1535-001-p1s1a8">
@@ -300,10 +317,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1535-001-p1s1a10">
+<children>
+<LM id="T-wsj1535-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s1W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1535-001-p1s1W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1535-001-p1s1W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>pokles</t_lemma>
@@ -336,7 +356,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1535-001-p1s1a13">
+<children>
+<LM id="T-wsj1535-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s1W12-Ta</lex.rf>
 </a>
@@ -347,12 +368,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1535-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s1W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1535-001-p1s1W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1535-001-p1s1W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>miliarda</t_lemma>
@@ -391,7 +415,9 @@
 <LM id="T-wsj1535-001-p1s1a20">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s1W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1535-001-p1s1W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1535-001-p1s1W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>miliarda</t_lemma>
@@ -428,21 +454,26 @@
 </children>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The gain compared with a $1.10 billion decline in reserve assets in August to $62.36 billion, the department said.</eng_sentence>
 </LM>
 <LM id="T-wsj1535-001-p1s2">
 <atree.rf>a#a-wsj1535-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1535-001-p1s2a1">
+<children>
+<LM id="T-wsj1535-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s2W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1535-001-p1s2W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1535-001-p1s2W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6105f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -503,7 +534,9 @@
 <LM id="T-wsj1535-001-p1s2a7">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s2W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1535-001-p1s2W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1535-001-p1s2W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>měna</t_lemma>
@@ -513,7 +546,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1535-001-p1s2a8">
+<children>
+<LM id="T-wsj1535-001-p1s2a8">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s2W7-Ta</lex.rf>
 </a>
@@ -524,12 +558,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1535-001-p1s2a10">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s2W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1535-001-p1s2W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1535-001-p1s2W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zlato</t_lemma>
@@ -543,7 +580,9 @@
 <LM id="T-wsj1535-001-p1s2a11">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s2W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1535-001-p1s2W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1535-001-p1s2W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>právo</t_lemma>
@@ -600,7 +639,9 @@
 <LM id="T-wsj1535-001-p1s2a17">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s2W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1535-001-p1s2W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1535-001-p1s2W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>fond</t_lemma>
@@ -621,10 +662,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1535-001-p1s2a19">
 <a>
@@ -642,8 +679,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -651,7 +690,9 @@
 <LM id="T-wsj1535-001-p1s2a20">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s2W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1535-001-p1s2W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1535-001-p1s2W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>stav</t_lemma>
@@ -661,7 +702,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1535-001-p1s2a23">
+<children>
+<LM id="T-wsj1535-001-p1s2a23">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s2W23-Ta</lex.rf>
 </a>
@@ -683,7 +725,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1535-001-p1s2a22">
+<children>
+<LM id="T-wsj1535-001-p1s2a22">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s2W21-Ta</lex.rf>
 </a>
@@ -694,6 +737,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>18</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1535-001-p1s2a25">
@@ -709,7 +753,8 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>21</deepord>
-<children id="T-wsj1535-001-p1s2a26">
+<children>
+<LM id="T-wsj1535-001-p1s2a26">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s2W25-Ta</lex.rf>
 </a>
@@ -734,9 +779,11 @@
 <is_parenthesis>1</is_parenthesis>
 <deepord>22</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1535-001-p1s2a34</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1535-001-p1s2a27">
@@ -751,7 +798,8 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>25</deepord>
-<children id="T-wsj1535-001-p1s2a28">
+<children>
+<LM id="T-wsj1535-001-p1s2a28">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s2W26-Ta</lex.rf>
 </a>
@@ -763,15 +811,19 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>24</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1535-001-p1s2a30">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s2W30-Ta</lex.rf>
-<aux.rf>a#a-wsj1535-001-p1s2W29-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1535-001-p1s2W29-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>MMF</t_lemma>
@@ -781,27 +833,34 @@
 </gram>
 <deepord>26</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1535-001-p1s2a17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>U.S. reserve assets consist of foreign currencies, gold, special drawing rights at the International Monetary Fund and the U.S. reserve position -- its ability to draw foreign currencies -- at the IMF.</eng_sentence>
 </LM>
 <LM id="T-wsj1535-001-p1s3">
 <atree.rf>a#a-wsj1535-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1535-001-p1s3a1">
+<children>
+<LM id="T-wsj1535-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s3W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1535-001-p1s3W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1535-001-p1s3W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w10007f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -847,7 +906,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1535-001-p1s3a5">
+<children>
+<LM id="T-wsj1535-001-p1s3a5">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s3W3-Ta</lex.rf>
 </a>
@@ -858,6 +918,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -865,7 +926,9 @@
 <LM id="T-wsj1535-001-p1s3a8">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s3W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1535-001-p1s3W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1535-001-p1s3W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>září</t_lemma>
@@ -875,15 +938,19 @@
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1535-001-p1s0a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1535-001-p1s3a11">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s3W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1535-001-p1s3W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1535-001-p1s3W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>miliarda</t_lemma>
@@ -922,7 +989,9 @@
 <LM id="T-wsj1535-001-p1s3a15">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s3W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1535-001-p1s3W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1535-001-p1s3W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>miliarda</t_lemma>
@@ -961,7 +1030,9 @@
 <LM id="T-wsj1535-001-p1s3a19">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s3W21-Ta</lex.rf>
-<aux.rf>a#a-wsj1535-001-p1s3W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1535-001-p1s3W18-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9938f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -983,7 +1054,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1535-001-p1s3a24">
+<children>
+<LM id="T-wsj1535-001-p1s3a24">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s3W20-Ta</lex.rf>
 </a>
@@ -994,12 +1066,15 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1535-001-p1s3a21">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s3W23-Ta</lex.rf>
-<aux.rf>a#a-wsj1535-001-p1s3W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1535-001-p1s3W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>atom</nodetype>
 <t_lemma>podstata</t_lemma>
@@ -1017,14 +1092,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 <LM id="T-wsj1535-001-p1s3a27">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s3W27-Ta</lex.rf>
-<aux.rf>a#a-wsj1535-001-p1s3W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1535-001-p1s3W25-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>miliarda</t_lemma>
@@ -1063,13 +1137,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The nation's holdings of foreign currencies increased $5.67 billion in September to $39.08 billion, while its gold reserves were virtually unchanged at $11.07 billion.</eng_sentence>
 </LM>
 <LM id="T-wsj1535-001-p1s4">
 <atree.rf>a#a-wsj1535-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1535-001-p1s4a1">
+<children>
+<LM id="T-wsj1535-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s4W20-Ta</lex.rf>
 </a>
@@ -1169,21 +1245,27 @@
 </gram>
 <deepord>7</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1535-001-p1s2a33</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1535-001-p1s4a9">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s4W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1535-001-p1s4W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1535-001-p1s4W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>MMF</t_lemma>
@@ -1193,9 +1275,11 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1535-001-p1s2a30</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -1205,7 +1289,9 @@
 <LM id="T-wsj1535-001-p1s4a11">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s4W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1535-001-p1s4W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1535-001-p1s4W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>měsíc</t_lemma>
@@ -1214,7 +1300,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1535-001-p1s4a12">
+<children>
+<LM id="T-wsj1535-001-p1s4a12">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s4W9-Ta</lex.rf>
 </a>
@@ -1225,17 +1312,22 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1535-001-p1s3a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1535-001-p1s4a15">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s4W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1535-001-p1s4W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1535-001-p1s4W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -1274,7 +1366,9 @@
 <LM id="T-wsj1535-001-p1s4a19">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s4W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1535-001-p1s4W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1535-001-p1s4W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>miliarda</t_lemma>
@@ -1315,7 +1409,9 @@
 <LM id="T-wsj1535-001-p1s4a21">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s4W26-Ta</lex.rf>
-<aux.rf>a#a-wsj1535-001-p1s4W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1535-001-p1s4W25-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w10007f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1338,7 +1434,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1535-001-p1s4a23">
+<children>
+<LM id="T-wsj1535-001-p1s4a23">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s4W22-Ta</lex.rf>
 </a>
@@ -1349,10 +1446,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj1535-001-p1s4a25">
+<children>
+<LM id="T-wsj1535-001-p1s4a25">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s4W24-Ta</lex.rf>
-<aux.rf>a#a-wsj1535-001-p1s4W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1535-001-p1s4W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>MMF</t_lemma>
@@ -1362,17 +1462,23 @@
 </gram>
 <deepord>21</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1535-001-p1s4a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1535-001-p1s4a29">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s4W29-Ta</lex.rf>
-<aux.rf>a#a-wsj1535-001-p1s4W27-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1535-001-p1s4W27-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -1411,7 +1517,9 @@
 <LM id="T-wsj1535-001-p1s4a33">
 <a>
 <lex.rf>a#a-wsj1535-001-p1s4W33-Ta</lex.rf>
-<aux.rf>a#a-wsj1535-001-p1s4W31-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1535-001-p1s4W31-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>miliarda</t_lemma>
@@ -1450,6 +1558,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>U.S. holdings of IMF special drawing rights last month rose $247 million, to $9.49 billion, and its reserve position at the IMF increased $142 million, to $8.79 billion.</eng_sentence>
 </LM>

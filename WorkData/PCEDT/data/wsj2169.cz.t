@@ -262,12 +262,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <eng_sentence>The market for $200 billion of high-yield junk bonds regained some of its footing as the Dow Jones Industrial Average rebounded from Friday's plunge.</eng_sentence>
@@ -383,12 +377,6 @@
 <t_lemma>RJR</t_lemma>
 <functor>FPHR</functor>
 <deepord>8</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatná lematizace</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2169-001-p1s1a12">
 <a>
@@ -401,12 +389,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatná lematizace</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2386,12 +2368,6 @@
 <t_lemma>RJR</t_lemma>
 <functor>FPHR</functor>
 <deepord>14</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatná lematizace</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2169-001-p1s9a8">
 <a>
@@ -2404,12 +2380,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>lematizace</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -7325,12 +7295,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

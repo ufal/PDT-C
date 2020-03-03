@@ -11,13 +11,15 @@
 <LM id="T-wsj0901-001-p1s0">
 <atree.rf>a#a-wsj0901-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0901-001-p1s0a2">
+<children>
+<LM id="T-wsj0901-001-p1s0a2">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
 <functor>DENOM</functor>
 <deepord>1</deepord>
-<children id="T-wsj0901-001-p1s0a1">
+<children>
+<LM id="T-wsj0901-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0901-001-p1s0W1-Ta</lex.rf>
 </a>
@@ -28,14 +30,17 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
+</LM>
 </children>
 <eng_sentence>WASHINGTON --</eng_sentence>
 </LM>
 <LM id="T-wsj0901-001-p1s1">
 <atree.rf>a#a-wsj0901-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0901-001-p1s1a2">
+<children>
+<LM id="T-wsj0901-001-p1s1a2">
 <a>
 <lex.rf>a#a-wsj0901-001-p1s1W6-Ta</lex.rf>
 </a>
@@ -59,7 +64,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0901-001-p1s1a21">
+<children>
+<LM id="T-wsj0901-001-p1s1a21">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -106,6 +112,7 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0901-001-p1s1a8">
@@ -135,7 +142,9 @@
 <LM id="T-wsj0901-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj0901-001-p1s1W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0901-001-p1s1W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0901-001-p1s1W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodnota</t_lemma>
@@ -144,7 +153,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0901-001-p1s1a13">
+<children>
+<LM id="T-wsj0901-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj0901-001-p1s1W12-Ta</lex.rf>
 </a>
@@ -181,10 +191,7 @@
 <deepord>13</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0901-001-p1s1a1">
@@ -199,7 +206,9 @@
 <LM id="T-wsj0901-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj0901-001-p1s1W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0901-001-p1s1W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0901-001-p1s1W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>úprava</t_lemma>
@@ -209,7 +218,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj0901-001-p1s1a17">
+<children>
+<LM id="T-wsj0901-001-p1s1a17">
 <a>
 <lex.rf>a#a-wsj0901-001-p1s1W16-Ta</lex.rf>
 </a>
@@ -220,12 +230,15 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0901-001-p1s1a19">
 <a>
 <lex.rf>a#a-wsj0901-001-p1s1W20-Ta</lex.rf>
-<aux.rf>a#a-wsj0901-001-p1s1W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0901-001-p1s1W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>díl</t_lemma>
@@ -235,7 +248,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj0901-001-p1s1a20">
+<children>
+<LM id="T-wsj0901-001-p1s1a20">
 <a>
 <lex.rf>a#a-wsj0901-001-p1s1W19-Ta</lex.rf>
 </a>
@@ -246,23 +260,28 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>17</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>United Technologies Corp. won an $18 million Army contract for helicopter modifications and spare parts.</eng_sentence>
 </LM>
 <LM id="T-wsj0901-001-p1s2">
 <atree.rf>a#a-wsj0901-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0901-001-p1s2a1">
+<children>
+<LM id="T-wsj0901-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0901-001-p1s2W3-Ta</lex.rf>
-<aux.rf>a#a-wsj0901-001-p1s2W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0901-001-p1s2W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7236f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -285,9 +304,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0901-001-p1s1a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0901-001-p1s2a4">
@@ -382,7 +403,9 @@
 <LM id="T-wsj0901-001-p1s2a12">
 <a>
 <lex.rf>a#a-wsj0901-001-p1s2W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0901-001-p1s2W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0901-001-p1s2W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>konfigurace</t_lemma>
@@ -403,7 +426,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj0901-001-p1s2a15">
+<children>
+<LM id="T-wsj0901-001-p1s2a15">
 <a>
 <lex.rf>a#a-wsj0901-001-p1s2W15-Ta</lex.rf>
 </a>
@@ -439,12 +463,15 @@
 <deepord>15</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0901-001-p1s2a18">
 <a>
 <lex.rf>a#a-wsj0901-001-p1s2W18-Ta</lex.rf>
-<aux.rf>a#a-wsj0901-001-p1s2W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0901-001-p1s2W17-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4131f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -465,9 +492,11 @@
 </gram>
 <deepord>16</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0901-001-p1s2a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0901-001-p1s2a19">
@@ -510,20 +539,24 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The company will modify one UH-60A Blackhawk transport helicopter to the prototype MH-60K configuration for use by military special forces.</eng_sentence>
 </LM>
 <LM id="T-wsj0901-001-p1s3">
 <atree.rf>a#a-wsj0901-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0901-001-p1s3a1">
+<children>
+<LM id="T-wsj0901-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj0901-001-p1s3W14-Ta</lex.rf>
 </a>
@@ -557,7 +590,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0901-001-p1s3a27">
+<children>
+<LM id="T-wsj0901-001-p1s3a27">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -607,6 +641,7 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0901-001-p1s3a8">
@@ -621,7 +656,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0901-001-p1s3a9">
+<children>
+<LM id="T-wsj0901-001-p1s3a9">
 <a>
 <lex.rf>a#a-wsj0901-001-p1s3W8-Ta</lex.rf>
 </a>
@@ -632,7 +668,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0901-001-p1s3a32">
+<children>
+<LM id="T-wsj0901-001-p1s3a32">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -679,7 +716,9 @@
 <deepord>14</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -715,10 +754,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj0901-001-p1s3a18">
+<children>
+<LM id="T-wsj0901-001-p1s3a18">
 <a>
 <lex.rf>a#a-wsj0901-001-p1s3W18-Ta</lex.rf>
-<aux.rf>a#a-wsj0901-001-p1s3W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0901-001-p1s3W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>služba</t_lemma>
@@ -727,10 +769,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj0901-001-p1s3a19">
+<children>
+<LM id="T-wsj0901-001-p1s3a19">
 <a>
 <lex.rf>a#a-wsj0901-001-p1s3W19-Ta</lex.rf>
-<aux.rf>a#a-wsj0901-001-p1s3W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0901-001-p1s3W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>týkající_se</t_lemma>
@@ -739,7 +784,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj0901-001-p1s3a21">
+<children>
+<LM id="T-wsj0901-001-p1s3a21">
 <a>
 <lex.rf>a#a-wsj0901-001-p1s3W21-Ta</lex.rf>
 </a>
@@ -750,14 +796,19 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0901-001-p1s3a24">
 <a>
 <lex.rf>a#a-wsj0901-001-p1s3W24-Ta</lex.rf>
-<aux.rf>a#a-wsj0901-001-p1s3W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0901-001-p1s3W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milion</t_lemma>
@@ -792,18 +843,17 @@
 <deepord>24</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Ingalls Shipbuilding Inc., a division of Litton Industries Inc., was given a $15.5 million extension on a contract for shipyard services.</eng_sentence>
 </LM>

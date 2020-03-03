@@ -281,12 +281,6 @@
 <deepord>10</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno: stanout</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1006,12 +1000,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>chybný nominativ</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -3323,12 +3311,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1303-001-p1s13a22">
 <a>
@@ -9395,12 +9377,6 @@ odborné znalosti.</text>
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno: učít</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1303-001-p1s35a13">
 <a>
@@ -10555,12 +10531,6 @@ odborné znalosti.</text>
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>malé písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

@@ -11,10 +11,13 @@
 <LM id="T-wsj1498-001-p1s0">
 <atree.rf>a#a-wsj1498-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1498-001-p1s0a12">
+<children>
+<LM id="T-wsj1498-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj1498-001-p1s0W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1498-001-p1s0W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1498-001-p1s0W13-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9986f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -85,7 +88,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1498-001-p1s0a7">
+<children>
+<LM id="T-wsj1498-001-p1s0a7">
 <a>
 <lex.rf>a#a-wsj1498-001-p1s0W7-Ta</lex.rf>
 </a>
@@ -96,7 +100,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1498-001-p1s0a27">
+<children>
+<LM id="T-wsj1498-001-p1s0a27">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -114,9 +119,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 <LM id="T-wsj1498-001-p1s0a10">
 <a>
@@ -149,7 +151,9 @@
 <deepord>11</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -164,15 +168,19 @@
 </gram>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1498-001-p1s0a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1498-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj1498-001-p1s0W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1498-001-p1s0W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1498-001-p1s0W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>představenstvo</t_lemma>
@@ -181,7 +189,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj1498-001-p1s0a16">
+<children>
+<LM id="T-wsj1498-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj1498-001-p1s0W19-Ta</lex.rf>
 </a>
@@ -220,7 +229,9 @@
 <LM id="T-wsj1498-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj1498-001-p1s0W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1498-001-p1s0W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1498-001-p1s0W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zabývající_se</t_lemma>
@@ -229,7 +240,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1498-001-p1s0a21">
+<children>
+<LM id="T-wsj1498-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj1498-001-p1s0W23-Ta</lex.rf>
 </a>
@@ -240,7 +252,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj1498-001-p1s0a22">
+<children>
+<LM id="T-wsj1498-001-p1s0a22">
 <a>
 <lex.rf>a#a-wsj1498-001-p1s0W22-Ta</lex.rf>
 </a>
@@ -251,25 +264,32 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>19</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1498-001-p1s0a7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Roland J. Hawkins, chairman of Jet Vacations Inc., was elected to the board of this cruise line.</eng_sentence>
 </LM>
 <LM id="T-wsj1498-001-p1s1">
 <atree.rf>a#a-wsj1498-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1498-001-p1s1a1">
+<children>
+<LM id="T-wsj1498-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1498-001-p1s1W4-Ta</lex.rf>
 </a>
@@ -294,9 +314,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1498-001-p1s0a25</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1498-001-p1s1a4">
@@ -315,7 +337,9 @@
 <a>
 <lex.rf>a#a-wsj1498-001-p1s1W2-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1498-001-p1s1a2</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1498-001-p1s1a2</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>PAT</functor>
@@ -327,7 +351,9 @@
 <LM id="T-wsj1498-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj1498-001-p1s1W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1498-001-p1s1W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1498-001-p1s1W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>člen</t_lemma>
@@ -336,7 +362,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1498-001-p1s1a6">
+<children>
+<LM id="T-wsj1498-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj1498-001-p1s1W6-Ta</lex.rf>
 </a>
@@ -347,13 +374,17 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>Coref</type>
 <text>spíš "rozšiřovat se"</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 <eng_sentence>The board expands to seven members.</eng_sentence>
 </LM>

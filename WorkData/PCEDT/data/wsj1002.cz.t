@@ -3049,20 +3049,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmenko</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1002-001-p1s8a13">
 <a>
@@ -3135,11 +3123,6 @@
 <deepord>11</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1002-001-p1s8a19">
 <a>
@@ -3822,12 +3805,6 @@
 <deepord>5</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>stanout</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8536,12 +8513,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>přesvědčit</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -12229,12 +12200,6 @@
 <src>PCEDT</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>"být" zmeneno na "je"</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1002-001-p1s46a19">
 <a>
@@ -13101,12 +13066,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Buda</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -13902,12 +13861,6 @@
 <deepord>12</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>povést_se</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -14715,12 +14668,6 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>zastavět</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1002-001-p1s61a19">
 <nodetype>qcomplex</nodetype>

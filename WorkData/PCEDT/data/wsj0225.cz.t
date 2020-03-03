@@ -11,7 +11,8 @@
 <LM id="T-wsj0225-001-p1s0">
 <atree.rf>a#a-wsj0225-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0225-001-p1s0a1">
+<children>
+<LM id="T-wsj0225-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0225-001-p1s0W21-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0225-001-p1s0a13">
+<children>
+<LM id="T-wsj0225-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj0225-001-p1s0W13-Ta</lex.rf>
 </a>
@@ -91,7 +93,9 @@
 <LM id="T-wsj0225-001-p1s0a8">
 <a>
 <lex.rf>a#a-wsj0225-001-p1s0W7-Ta</lex.rf>
-<aux.rf>a#a-wsj0225-001-p1s0W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0225-001-p1s0W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>sídlo</t_lemma>
@@ -100,10 +104,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj0225-001-p1s0a10">
+<children>
+<LM id="T-wsj0225-001-p1s0a10">
 <a>
 <lex.rf>a#a-wsj0225-001-p1s0W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0225-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0225-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Midland</t_lemma>
@@ -112,10 +119,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0225-001-p1s0a12">
+<children>
+<LM id="T-wsj0225-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj0225-001-p1s0W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0225-001-p1s0W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0225-001-p1s0W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>stát</t_lemma>
@@ -124,7 +134,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0225-001-p1s0a14">
+<children>
+<LM id="T-wsj0225-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj0225-001-p1s0W12-Ta</lex.rf>
 </a>
@@ -135,8 +146,11 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -206,7 +220,9 @@
 <LM id="T-wsj0225-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj0225-001-p1s0W20-Ta</lex.rf>
-<aux.rf>a#a-wsj0225-001-p1s0W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0225-001-p1s0W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Indianapolis</t_lemma>
@@ -219,12 +235,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0225-001-p1s0a24">
 <a>
 <lex.rf>a#a-wsj0225-001-p1s0W24-Ta</lex.rf>
-<aux.rf>a#a-wsj0225-001-p1s0W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0225-001-p1s0W23-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w598f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -245,9 +264,11 @@
 </gram>
 <deepord>20</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0225-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0225-001-p1s0a25">
@@ -273,9 +294,11 @@
 </gram>
 <deepord>22</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0225-001-p1s0a49</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0225-001-p1s0a26">
@@ -346,7 +369,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>29</deepord>
-<children id="T-wsj0225-001-p1s0a38">
+<children>
+<LM id="T-wsj0225-001-p1s0a38">
 <a>
 <lex.rf>a#a-wsj0225-001-p1s0W38-Ta</lex.rf>
 </a>
@@ -380,9 +404,11 @@
 </gram>
 <deepord>30</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0225-001-p1s0a50</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0225-001-p1s0a36">
@@ -400,7 +426,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>33</deepord>
-<children id="T-wsj0225-001-p1s0a37">
+<children>
+<LM id="T-wsj0225-001-p1s0a37">
 <a>
 <lex.rf>a#a-wsj0225-001-p1s0W36-Ta</lex.rf>
 </a>
@@ -411,6 +438,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>32</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -440,7 +468,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>36</deepord>
-<children id="T-wsj0225-001-p1s0a41">
+<children>
+<LM id="T-wsj0225-001-p1s0a41">
 <a>
 <lex.rf>a#a-wsj0225-001-p1s0W41-Ta</lex.rf>
 </a>
@@ -451,6 +480,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>37</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0225-001-p1s0a44">
@@ -502,33 +532,40 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Dow Chemical Co., Midland, Mich., and Eli Lilly &amp; Co., Indianapolis, said they completed the formation of Dow Elanco, a joint venture combining their plant-sciences businesses as well as Dow's industrial pest-control business.</eng_sentence>
 </LM>
 <LM id="T-wsj0225-001-p1s1">
 <atree.rf>a#a-wsj0225-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0225-001-p1s1a1">
+<children>
+<LM id="T-wsj0225-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0225-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -553,15 +590,19 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0225-001-p1s0a33</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0225-001-p1s1a5">
 <a>
 <lex.rf>a#a-wsj0225-001-p1s1W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0225-001-p1s1W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0225-001-p1s1W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -583,7 +624,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0225-001-p1s1a28">
+<children>
+<LM id="T-wsj0225-001-p1s1a28">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -612,11 +654,14 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0225-001-p1s0a26</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0225-001-p1s1a9">
@@ -670,7 +715,9 @@
 <LM id="T-wsj0225-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj0225-001-p1s1W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0225-001-p1s1W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0225-001-p1s1W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Amerika</t_lemma>
@@ -679,7 +726,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj0225-001-p1s1a15">
+<children>
+<LM id="T-wsj0225-001-p1s1a15">
 <a>
 <lex.rf>a#a-wsj0225-001-p1s1W14-Ta</lex.rf>
 </a>
@@ -690,16 +738,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0225-001-p1s1a17">
 <a>
 <lex.rf>a#a-wsj0225-001-p1s1W18-Ta</lex.rf>
-<aux.rf>a#a-wsj0225-001-p1s1W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0225-001-p1s1W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>příjem</t_lemma>
@@ -724,7 +771,9 @@
 <LM id="T-wsj0225-001-p1s1a20">
 <a>
 <lex.rf>a#a-wsj0225-001-p1s1W20-Ta</lex.rf>
-<aux.rf>a#a-wsj0225-001-p1s1W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0225-001-p1s1W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výše</t_lemma>
@@ -733,7 +782,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj0225-001-p1s1a22">
+<children>
+<LM id="T-wsj0225-001-p1s1a22">
 <a>
 <lex.rf>a#a-wsj0225-001-p1s1W22-Ta</lex.rf>
 </a>
@@ -770,12 +820,15 @@
 <deepord>19</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0225-001-p1s1a25">
 <a>
 <lex.rf>a#a-wsj0225-001-p1s1W26-Ta</lex.rf>
-<aux.rf>a#a-wsj0225-001-p1s1W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0225-001-p1s1W24-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>rok</t_lemma>
@@ -784,7 +837,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj0225-001-p1s1a26">
+<children>
+<LM id="T-wsj0225-001-p1s1a26">
 <a>
 <lex.rf>a#a-wsj0225-001-p1s1W25-Ta</lex.rf>
 </a>
@@ -795,7 +849,6 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>20</deepord>
-</children>
 </LM>
 </children>
 </LM>
@@ -804,13 +857,17 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The companies said Dow Elanco will be the largest research-based agricultural concern in North America, with projected first-year revenue of $1.5 billion.</eng_sentence>
 </LM>
 <LM id="T-wsj0225-001-p1s2">
 <atree.rf>a#a-wsj0225-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0225-001-p1s2a1">
+<children>
+<LM id="T-wsj0225-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0225-001-p1s2W9-Ta</lex.rf>
 </a>
@@ -822,7 +879,9 @@
 <LM id="T-wsj0225-001-p1s2a2">
 <a>
 <lex.rf>a#a-wsj0225-001-p1s2W4-Ta</lex.rf>
-<aux.rf>a#a-wsj0225-001-p1s2W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0225-001-p1s2W3-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7650f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -845,7 +904,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0225-001-p1s2a4">
+<children>
+<LM id="T-wsj0225-001-p1s2a4">
 <a>
 <lex.rf>a#a-wsj0225-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -856,11 +916,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0225-001-p1s0a40</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0225-001-p1s2a7">
@@ -895,7 +958,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0225-001-p1s2a9">
+<children>
+<LM id="T-wsj0225-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj0225-001-p1s2W7-Ta</lex.rf>
 </a>
@@ -906,11 +970,14 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0225-001-p1s1a6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -944,7 +1011,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0225-001-p1s2a15">
+<children>
+<LM id="T-wsj0225-001-p1s2a15">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -976,6 +1044,7 @@
 <deepord>13</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0225-001-p1s2a11">
@@ -993,16 +1062,20 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Dow will own 60% of the venture, with Eli Lilly holding the rest.</eng_sentence>
 </LM>
 <LM id="T-wsj0225-001-p1s3">
 <atree.rf>a#a-wsj0225-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0225-001-p1s3a1">
+<children>
+<LM id="T-wsj0225-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj0225-001-p1s3W3-Ta</lex.rf>
-<aux.rf>a#a-wsj0225-001-p1s3W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0225-001-p1s3W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1855f9</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1025,9 +1098,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0225-001-p1s2a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0225-001-p1s3a4">
@@ -1045,7 +1120,9 @@
 <LM id="T-wsj0225-001-p1s3a6">
 <a>
 <lex.rf>a#a-wsj0225-001-p1s3W6-Ta</lex.rf>
-<aux.rf>a#a-wsj0225-001-p1s3W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0225-001-p1s3W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Indianapolis</t_lemma>
@@ -1055,12 +1132,15 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0225-001-p1s0a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The venture will be based in Indianapolis.</eng_sentence>
 </LM>

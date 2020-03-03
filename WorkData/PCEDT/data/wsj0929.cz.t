@@ -11,10 +11,13 @@
 <LM id="T-wsj0929-001-p1s0">
 <atree.rf>a#a-wsj0929-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0929-001-p1s0a1">
+<children>
+<LM id="T-wsj0929-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0929-001-p1s0W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0929-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0929-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1344f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -79,10 +82,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>zkratka</text>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -145,7 +144,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0929-001-p1s0a15">
+<children>
+<LM id="T-wsj0929-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj0929-001-p1s0W13-Ta</lex.rf>
 </a>
@@ -156,20 +156,23 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>C.B. Rogers Jr. was named chief executive officer of this business information concern.</eng_sentence>
 </LM>
 <LM id="T-wsj0929-001-p1s1">
 <atree.rf>a#a-wsj0929-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0929-001-p1s1a7">
+<children>
+<LM id="T-wsj0929-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj0929-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -193,7 +196,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0929-001-p1s1a9">
+<children>
+<LM id="T-wsj0929-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj0929-001-p1s1W1-Ta</lex.rf>
 </a>
@@ -204,11 +208,14 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0929-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0929-001-p1s1a22">
@@ -221,7 +228,9 @@
 <LM id="T-wsj0929-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj0929-001-p1s1W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0929-001-p1s1W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0929-001-p1s1W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>White</t_lemma>
@@ -284,7 +293,9 @@
 <a>
 <lex.rf>a#a-wsj0929-001-p1s1W12-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0929-001-p1s1a11</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0929-001-p1s1a11</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -304,7 +315,8 @@
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0929-001-p1s1a5">
+<children>
+<LM id="T-wsj0929-001-p1s1a5">
 <a>
 <lex.rf>a#a-wsj0929-001-p1s1W13-Ta</lex.rf>
 </a>
@@ -312,6 +324,7 @@
 <t_lemma>i</t_lemma>
 <functor>RHEM</functor>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0929-001-p1s1a6">
@@ -335,7 +348,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj0929-001-p1s1a18">
+<children>
+<LM id="T-wsj0929-001-p1s1a18">
 <a>
 <lex.rf>a#a-wsj0929-001-p1s1W17-Ta</lex.rf>
 </a>
@@ -346,6 +360,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0929-001-p1s1a19">
@@ -360,7 +375,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj0929-001-p1s1a20">
+<children>
+<LM id="T-wsj0929-001-p1s1a20">
 <a>
 <lex.rf>a#a-wsj0929-001-p1s1W21-Ta</lex.rf>
 </a>
@@ -371,7 +387,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj0929-001-p1s1a21">
+<children>
+<LM id="T-wsj0929-001-p1s1a21">
 <a>
 <lex.rf>a#a-wsj0929-001-p1s1W20-Ta</lex.rf>
 </a>
@@ -382,8 +399,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>17</deepord>
-</children>
-</children>
 </LM>
 </children>
 </LM>
@@ -392,13 +407,19 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Mr. Rogers, 60 years old, succeeds J.V. White, 64, who will remain chairman and chairman of the executive committee.</eng_sentence>
 </LM>
 <LM id="T-wsj0929-001-p1s2">
 <atree.rf>a#a-wsj0929-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0929-001-p1s2a11">
+<children>
+<LM id="T-wsj0929-001-p1s2a11">
 <a>
 <lex.rf>a#a-wsj0929-001-p1s2W13-Ta</lex.rf>
 </a>
@@ -422,7 +443,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0929-001-p1s2a2">
+<children>
+<LM id="T-wsj0929-001-p1s2a2">
 <a>
 <lex.rf>a#a-wsj0929-001-p1s2W4-Ta</lex.rf>
 </a>
@@ -439,7 +461,9 @@
 <a>
 <lex.rf>a#a-wsj0929-001-p1s2W3-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0929-001-p1s2a1</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0929-001-p1s2a1</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -506,7 +530,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0929-001-p1s2a10">
+<children>
+<LM id="T-wsj0929-001-p1s2a10">
 <a>
 <lex.rf>a#a-wsj0929-001-p1s2W10-Ta</lex.rf>
 </a>
@@ -517,11 +542,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0929-001-p1s0a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -529,18 +557,23 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0929-001-p1s1a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0929-001-p1s2a13">
 <a>
 <lex.rf>a#a-wsj0929-001-p1s2W12-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0929-001-p1s2a4</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0929-001-p1s2a4</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>BEN</functor>
@@ -566,7 +599,9 @@
 <a>
 <lex.rf>a#a-wsj0929-001-p1s2W14-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0929-001-p1s2a4</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0929-001-p1s2a4</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -590,13 +625,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Mr. Rogers, who was president and chief operating officer of Equifax, will retain his position as president.</eng_sentence>
 </LM>
 <LM id="T-wsj0929-001-p1s3">
 <atree.rf>a#a-wsj0929-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0929-001-p1s3a1">
+<children>
+<LM id="T-wsj0929-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj0929-001-p1s3W2-Ta</lex.rf>
 </a>
@@ -621,9 +658,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0929-001-p1s2a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0929-001-p1s3a5">
@@ -698,6 +737,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The company said a new chief operating officer won't be appointed.</eng_sentence>
 </LM>

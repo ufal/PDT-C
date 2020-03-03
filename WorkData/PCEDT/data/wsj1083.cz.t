@@ -11,7 +11,8 @@
 <LM id="T-wsj1083-001-p1s0">
 <atree.rf>a#a-wsj1083-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1083-001-p1s0a1">
+<children>
+<LM id="T-wsj1083-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1083-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1083-001-p1s0a33">
+<children>
+<LM id="T-wsj1083-001-p1s0a33">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -85,12 +87,15 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1083-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj1083-001-p1s0W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1083-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1083-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w598f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -111,9 +116,11 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1083-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1083-001-p1s0a10">
@@ -139,7 +146,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1083-001-p1s0a35">
+<children>
+<LM id="T-wsj1083-001-p1s0a35">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -192,6 +200,7 @@
 <deepord>17</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1083-001-p1s0a17">
@@ -205,7 +214,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1083-001-p1s0a36">
+<children>
+<LM id="T-wsj1083-001-p1s0a36">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -249,12 +259,15 @@
 <deepord>23</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1083-001-p1s0a24">
 <a>
 <lex.rf>a#a-wsj1083-001-p1s0W24-Ta</lex.rf>
-<aux.rf>a#a-wsj1083-001-p1s0W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1083-001-p1s0W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milion</t_lemma>
@@ -300,7 +313,9 @@
 <LM id="T-wsj1083-001-p1s0a28">
 <a>
 <lex.rf>a#a-wsj1083-001-p1s0W27-Ta</lex.rf>
-<aux.rf>a#a-wsj1083-001-p1s0W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1083-001-p1s0W26-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hotovost</t_lemma>
@@ -314,7 +329,9 @@
 <LM id="T-wsj1083-001-p1s0a30">
 <a>
 <lex.rf>a#a-wsj1083-001-p1s0W30-Ta</lex.rf>
-<aux.rf>a#a-wsj1083-001-p1s0W29-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1083-001-p1s0W29-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dluhopis</t_lemma>
@@ -328,23 +345,21 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Coda Energy Inc. said it completed the sale of Phenix-Transmission Co. to Bishop Pipeline Co., for $17 million in cash and notes.</eng_sentence>
 </LM>
 <LM id="T-wsj1083-001-p1s1">
 <atree.rf>a#a-wsj1083-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1083-001-p1s1a1">
+<children>
+<LM id="T-wsj1083-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1083-001-p1s1W9-Ta</lex.rf>
 </a>
@@ -378,7 +393,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1083-001-p1s1a2">
+<children>
+<LM id="T-wsj1083-001-p1s1a2">
 <a>
 <lex.rf>a#a-wsj1083-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -389,6 +405,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1083-001-p1s1a4">
@@ -403,7 +420,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1083-001-p1s1a5">
+<children>
+<LM id="T-wsj1083-001-p1s1a5">
 <a>
 <lex.rf>a#a-wsj1083-001-p1s1W5-Ta</lex.rf>
 </a>
@@ -439,19 +457,24 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1083-001-p1s0a32</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1083-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj1083-001-p1s1W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1083-001-p1s1W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1083-001-p1s1W11-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w732f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -484,9 +507,11 @@
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1083-001-p1s1a34</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1083-001-p1s1a15">
@@ -501,7 +526,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1083-001-p1s1a16">
+<children>
+<LM id="T-wsj1083-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj1083-001-p1s1W14-Ta</lex.rf>
 </a>
@@ -513,10 +539,13 @@
 </gram>
 <deepord>11</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1083-001-p1s1a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 </children>
@@ -524,7 +553,9 @@
 <LM id="T-wsj1083-001-p1s1a18">
 <a>
 <lex.rf>a#a-wsj1083-001-p1s1W21-Ta</lex.rf>
-<aux.rf>a#a-wsj1083-001-p1s1W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1083-001-p1s1W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>potrubí</t_lemma>
@@ -572,13 +603,17 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1083-001-p1s0a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <str_comment>
+<LM>
 <name>AMBIG</name>
 <comment>nebo SEGM</comment>
+</LM>
 </str_comment>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1083-001-p1s1a27">
@@ -630,7 +665,9 @@
 <LM id="T-wsj1083-001-p1s1a26">
 <a>
 <lex.rf>a#a-wsj1083-001-p1s1W26-Ta</lex.rf>
-<aux.rf>a#a-wsj1083-001-p1s1W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1083-001-p1s1W25-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hotovost</t_lemma>
@@ -641,10 +678,6 @@
 <deepord>21</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1083-001-p1s1a29">
 <a>
@@ -686,7 +719,9 @@
 <LM id="T-wsj1083-001-p1s1a32">
 <a>
 <lex.rf>a#a-wsj1083-001-p1s1W33-Ta</lex.rf>
-<aux.rf>a#a-wsj1083-001-p1s1W31-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1083-001-p1s1W31-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dluhopis</t_lemma>
@@ -695,7 +730,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>27</deepord>
-<children id="T-wsj1083-001-p1s1a33">
+<children>
+<LM id="T-wsj1083-001-p1s1a33">
 <a>
 <lex.rf>a#a-wsj1083-001-p1s1W32-Ta</lex.rf>
 </a>
@@ -706,26 +742,25 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>26</deepord>
-</children>
-</LM>
-</children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Coda, an oil and gas concern, said it and its partners received $7 million in cash and $10 million in five-year notes for the Kansas intrastate pipeline.</eng_sentence>
 </LM>
 <LM id="T-wsj1083-001-p1s2">
 <atree.rf>a#a-wsj1083-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1083-001-p1s2a1">
+<children>
+<LM id="T-wsj1083-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1083-001-p1s2W7-Ta</lex.rf>
 </a>
@@ -759,7 +794,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1083-001-p1s2a4">
+<children>
+<LM id="T-wsj1083-001-p1s2a4">
 <a>
 <lex.rf>a#a-wsj1083-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -770,11 +806,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1083-001-p1s1a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1083-001-p1s2a7">
@@ -810,9 +849,11 @@
 </gram>
 <deepord>6</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1083-001-p1s1a18</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -856,7 +897,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1083-001-p1s2a11">
+<children>
+<LM id="T-wsj1083-001-p1s2a11">
 <a>
 <lex.rf>a#a-wsj1083-001-p1s2W10-Ta</lex.rf>
 </a>
@@ -867,18 +909,21 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Coda owned 60% of the pipeline and private entities owned the rest.</eng_sentence>
 </LM>
 <LM id="T-wsj1083-001-p1s3">
 <atree.rf>a#a-wsj1083-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1083-001-p1s3a1">
+<children>
+<LM id="T-wsj1083-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1083-001-p1s3W3-Ta</lex.rf>
 </a>
@@ -902,7 +947,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1083-001-p1s3a2">
+<children>
+<LM id="T-wsj1083-001-p1s3a2">
 <a>
 <lex.rf>a#a-wsj1083-001-p1s3W2-Ta</lex.rf>
 </a>
@@ -913,17 +959,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1083-001-p1s0a17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1083-001-p1s3a5">
 <a>
 <lex.rf>a#a-wsj1083-001-p1s3W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1083-001-p1s3W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1083-001-p1s3W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>město</t_lemma>
@@ -948,7 +999,9 @@
 <LM id="T-wsj1083-001-p1s3a8">
 <a>
 <lex.rf>a#a-wsj1083-001-p1s3W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1083-001-p1s3W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1083-001-p1s3W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Kansas</t_lemma>
@@ -961,6 +1014,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Bishop is based in Hutchinson, Kansas.</eng_sentence>
 </LM>

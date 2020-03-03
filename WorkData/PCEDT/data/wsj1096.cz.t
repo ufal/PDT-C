@@ -11,7 +11,8 @@
 <LM id="T-wsj1096-001-p1s0">
 <atree.rf>a#a-wsj1096-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1096-001-p1s0a1">
+<children>
+<LM id="T-wsj1096-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1096-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1096-001-p1s0a28">
+<children>
+<LM id="T-wsj1096-001-p1s0a28">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -82,12 +84,15 @@
 <deepord>7</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1096-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj1096-001-p1s0W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1096-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1096-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3969f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -108,9 +113,11 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1096-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1096-001-p1s0a10">
@@ -124,10 +131,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1096-001-p1s0a12">
+<children>
+<LM id="T-wsj1096-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj1096-001-p1s0W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1096-001-p1s0W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1096-001-p1s0W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>provoz</t_lemma>
@@ -141,7 +151,9 @@
 <a>
 <lex.rf>a#a-wsj1096-001-p1s0W12-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1096-001-p1s0a27</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1096-001-p1s0a27</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -163,12 +175,15 @@
 <deepord>13</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1096-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj1096-001-p1s0W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1096-001-p1s0W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1096-001-p1s0W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>organizace</t_lemma>
@@ -220,7 +235,9 @@
 <a>
 <lex.rf>a#a-wsj1096-001-p1s0W20-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1096-001-p1s0a16</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1096-001-p1s0a16</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -274,13 +291,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Ford Motor Co. said it is consolidating control of its Asian operations under a new organization here that will be headed by W. Wayne Booker.</eng_sentence>
 </LM>
 <LM id="T-wsj1096-001-p1s1">
 <atree.rf>a#a-wsj1096-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1096-001-p1s1a16">
+<children>
+<LM id="T-wsj1096-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj1096-001-p1s1W24-Ta</lex.rf>
 </a>
@@ -300,7 +319,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1096-001-p1s1a38">
+<children>
+<LM id="T-wsj1096-001-p1s1a38">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -353,17 +373,22 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1096-001-p1s0a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1096-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj1096-001-p1s1W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1096-001-p1s1W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1096-001-p1s1W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1548f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -386,7 +411,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1096-001-p1s1a9">
+<children>
+<LM id="T-wsj1096-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj1096-001-p1s1W10-Ta</lex.rf>
 </a>
@@ -421,7 +447,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1096-001-p1s1a34">
+<children>
+<LM id="T-wsj1096-001-p1s1a34">
 <a>
 <lex.rf>a#a-wsj1096-001-p1s1W12-Ta</lex.rf>
 </a>
@@ -432,11 +459,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1096-001-p1s0a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1096-001-p1s1a12">
@@ -451,7 +481,9 @@
 <LM id="T-wsj1096-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj1096-001-p1s1W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1096-001-p1s1W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1096-001-p1s1W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Japonsko</t_lemma>
@@ -465,7 +497,9 @@
 <LM id="T-wsj1096-001-p1s1a18">
 <a>
 <lex.rf>a#a-wsj1096-001-p1s1W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1096-001-p1s1W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1096-001-p1s1W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Austrálie</t_lemma>
@@ -479,7 +513,9 @@
 <LM id="T-wsj1096-001-p1s1a30">
 <a>
 <lex.rf>a#a-wsj1096-001-p1s1W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1096-001-p1s1W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1096-001-p1s1W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Tchajwan</t_lemma>
@@ -493,7 +529,9 @@
 <LM id="T-wsj1096-001-p1s1a32">
 <a>
 <lex.rf>a#a-wsj1096-001-p1s1W23-Ta</lex.rf>
-<aux.rf>a#a-wsj1096-001-p1s1W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1096-001-p1s1W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Zéland</t_lemma>
@@ -503,7 +541,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1096-001-p1s1a33">
+<children>
+<LM id="T-wsj1096-001-p1s1a33">
 <a>
 <lex.rf>a#a-wsj1096-001-p1s1W22-Ta</lex.rf>
 </a>
@@ -514,19 +553,19 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</annot_comment>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1096-001-p1s1a39">
-<coref_gram.rf>T-wsj1096-001-p1s1a8</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1096-001-p1s1a8</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Rcp</t_lemma>
@@ -538,7 +577,9 @@
 <LM id="T-wsj1096-001-p1s1a19">
 <a>
 <lex.rf>a#a-wsj1096-001-p1s1W26-Ta</lex.rf>
-<aux.rf>a#a-wsj1096-001-p1s1W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1096-001-p1s1W25-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6394f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -549,10 +590,13 @@
 <sempos>v</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj1096-001-p1s1a22">
+<children>
+<LM id="T-wsj1096-001-p1s1a22">
 <a>
 <lex.rf>a#a-wsj1096-001-p1s1W29-Ta</lex.rf>
-<aux.rf>a#a-wsj1096-001-p1s1W27-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1096-001-p1s1W27-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>partner</t_lemma>
@@ -577,7 +621,9 @@
 <LM id="T-wsj1096-001-p1s1a25">
 <a>
 <lex.rf>a#a-wsj1096-001-p1s1W32-Ta</lex.rf>
-<aux.rf>a#a-wsj1096-001-p1s1W30-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1096-001-p1s1W30-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>část</t_lemma>
@@ -610,7 +656,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>26</deepord>
-<children id="T-wsj1096-001-p1s1a28">
+<children>
+<LM id="T-wsj1096-001-p1s1a28">
 <a>
 <lex.rf>a#a-wsj1096-001-p1s1W33-Ta</lex.rf>
 </a>
@@ -621,29 +668,37 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>27</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1096-001-p1s1a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Ford Asia-Pacific will coordinate the activities of Ford subsidiaries in Japan, Australia, Taiwan and New Zealand and work with Ford business associates throughout the region.</eng_sentence>
 </LM>
 <LM id="T-wsj1096-001-p1s2">
 <atree.rf>a#a-wsj1096-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1096-001-p1s2a2">
+<children>
+<LM id="T-wsj1096-001-p1s2a2">
 <a>
 <lex.rf>a#a-wsj1096-001-p1s2W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1096-001-p1s2W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1096-001-p1s2W3-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8024f6_ZU</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -666,7 +721,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1096-001-p1s2a4">
+<children>
+<LM id="T-wsj1096-001-p1s2a4">
 <a>
 <lex.rf>a#a-wsj1096-001-p1s2W1-Ta</lex.rf>
 </a>
@@ -677,6 +733,7 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1096-001-p1s2a6">
@@ -710,7 +767,9 @@
 <children>
 <LM id="T-wsj1096-001-p1s2a21">
 <a>
-<aux.rf>a#a-wsj1096-001-p1s2W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1096-001-p1s2W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
@@ -734,7 +793,9 @@
 <LM id="T-wsj1096-001-p1s2a10">
 <a>
 <lex.rf>a#a-wsj1096-001-p1s2W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1096-001-p1s2W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1096-001-p1s2W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Austrálie</t_lemma>
@@ -744,9 +805,11 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1096-001-p1s1a18</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -754,7 +817,9 @@
 <LM id="T-wsj1096-001-p1s2a12">
 <a>
 <lex.rf>a#a-wsj1096-001-p1s2W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1096-001-p1s2W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1096-001-p1s2W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>ředitelství</t_lemma>
@@ -776,7 +841,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1096-001-p1s2a14">
+<children>
+<LM id="T-wsj1096-001-p1s2a14">
 <a>
 <lex.rf>a#a-wsj1096-001-p1s2W14-Ta</lex.rf>
 </a>
@@ -787,17 +853,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1096-001-p1s1a11</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1096-001-p1s2a16">
 <a>
 <lex.rf>a#a-wsj1096-001-p1s2W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1096-001-p1s2W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1096-001-p1s2W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>město</t_lemma>
@@ -822,7 +893,9 @@
 <LM id="T-wsj1096-001-p1s2a19">
 <a>
 <lex.rf>a#a-wsj1096-001-p1s2W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1096-001-p1s2W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1096-001-p1s2W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Michigan</t_lemma>
@@ -839,16 +912,20 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>These functions are currently performed out of Melbourne, Australia, and at Ford's headquarters in Dearborn, Mich.</eng_sentence>
 </LM>
 <LM id="T-wsj1096-001-p1s3">
 <atree.rf>a#a-wsj1096-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1096-001-p1s3a14">
+<children>
+<LM id="T-wsj1096-001-p1s3a14">
 <a>
 <lex.rf>a#a-wsj1096-001-p1s3W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1096-001-p1s3W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1096-001-p1s3W18-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1344f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -870,7 +947,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1096-001-p1s3a2">
+<children>
+<LM id="T-wsj1096-001-p1s3a2">
 <a>
 <lex.rf>a#a-wsj1096-001-p1s3W4-Ta</lex.rf>
 </a>
@@ -887,7 +965,9 @@
 <a>
 <lex.rf>a#a-wsj1096-001-p1s3W3-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1096-001-p1s3a1</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1096-001-p1s3a1</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -899,7 +979,9 @@
 <LM id="T-wsj1096-001-p1s3a6">
 <a>
 <lex.rf>a#a-wsj1096-001-p1s3W6-Ta</lex.rf>
-<aux.rf>a#a-wsj1096-001-p1s3W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1096-001-p1s3W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>prosinec</t_lemma>
@@ -908,7 +990,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1096-001-p1s3a7">
+<children>
+<LM id="T-wsj1096-001-p1s3a7">
 <a>
 <lex.rf>a#a-wsj1096-001-p1s3W7-Ta</lex.rf>
 </a>
@@ -919,6 +1002,7 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1096-001-p1s3a8">
@@ -1005,7 +1089,9 @@
 <LM id="T-wsj1096-001-p1s3a23">
 <a>
 <lex.rf>a#a-wsj1096-001-p1s3W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1096-001-p1s3W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1096-001-p1s3W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Amerika</t_lemma>
@@ -1014,7 +1100,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj1096-001-p1s3a24">
+<children>
+<LM id="T-wsj1096-001-p1s3a24">
 <a>
 <lex.rf>a#a-wsj1096-001-p1s3W15-Ta</lex.rf>
 </a>
@@ -1025,22 +1112,22 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</annot_comment>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1096-001-p1s0a22</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1096-001-p1s3a25">
@@ -1061,7 +1148,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1096-001-p1s3a17">
+<children>
+<LM id="T-wsj1096-001-p1s3a17">
 <a>
 <lex.rf>a#a-wsj1096-001-p1s3W21-Ta</lex.rf>
 </a>
@@ -1072,7 +1160,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1096-001-p1s3a27">
+<children>
+<LM id="T-wsj1096-001-p1s3a27">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1125,15 +1214,20 @@
 <deepord>23</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1096-001-p1s1a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Mr. Booker, executive director of Ford's Latin America Automotive Operations since December 1988, was named vice president of Ford Asia-Pacific.</eng_sentence>
 </LM>

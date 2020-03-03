@@ -2169,12 +2169,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0965-001-p1s7a11">
 <a>
@@ -2442,12 +2436,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>31</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0965-001-p1s7a36">
 <a>
@@ -2567,12 +2555,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0965-001-p1s8a9">
 <a>
@@ -3570,12 +3552,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0965-001-p1s14a7">
 <a>
@@ -4773,12 +4749,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>kótovat</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <eng_sentence>In late New York trading the U.S. currency was quoted at 1.8353 marks and 141.52 yen, compared with 1.8355 marks and 141.45 yen Tuesday.</eng_sentence>

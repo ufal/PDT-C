@@ -11,7 +11,8 @@
 <LM id="T-wsj1718-001-p1s0">
 <atree.rf>a#a-wsj1718-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1718-001-p1s0a1">
+<children>
+<LM id="T-wsj1718-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s0W3-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1718-001-p1s0a3">
+<children>
+<LM id="T-wsj1718-001-p1s0a3">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s0W1-Ta</lex.rf>
 </a>
@@ -46,6 +48,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1718-001-p1s0a4">
@@ -59,7 +62,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1718-001-p1s0a5">
+<children>
+<LM id="T-wsj1718-001-p1s0a5">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s0W5-Ta</lex.rf>
 </a>
@@ -70,6 +74,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1718-001-p1s0a6">
@@ -83,7 +88,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1718-001-p1s0a7">
+<children>
+<LM id="T-wsj1718-001-p1s0a7">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s0W7-Ta</lex.rf>
 </a>
@@ -94,10 +100,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1718-001-p1s0a9">
+<children>
+<LM id="T-wsj1718-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s0W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1718-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1718-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5776f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -156,7 +165,9 @@
 <LM id="T-wsj1718-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s0W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1718-001-p1s0W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1718-001-p1s0W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -193,7 +204,9 @@
 <LM id="T-wsj1718-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s0W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1718-001-p1s0W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1718-001-p1s0W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>majetek</t_lemma>
@@ -202,7 +215,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj1718-001-p1s0a19">
+<children>
+<LM id="T-wsj1718-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s0W19-Ta</lex.rf>
 </a>
@@ -213,6 +227,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1718-001-p1s0a21">
@@ -227,7 +242,9 @@
 <LM id="T-wsj1718-001-p1s0a22">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s0W21-Ta</lex.rf>
-<aux.rf>a#a-wsj1718-001-p1s0W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1718-001-p1s0W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Alberta</t_lemma>
@@ -241,7 +258,9 @@
 <LM id="T-wsj1718-001-p1s0a24">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s0W23-Ta</lex.rf>
-<aux.rf>a#a-wsj1718-001-p1s0W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1718-001-p1s0W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Saskatchewan</t_lemma>
@@ -255,7 +274,9 @@
 <LM id="T-wsj1718-001-p1s0a25">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s0W25-Ta</lex.rf>
-<aux.rf>a#a-wsj1718-001-p1s0W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1718-001-p1s0W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Manitoba</t_lemma>
@@ -272,20 +293,26 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
-</children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The Canadian government introduced in the House of Commons legislation to extend federal regulatory authority over provincial government-owned telephone utilities in Alberta, Saskatchewan and Manitoba.</eng_sentence>
 </LM>
 <LM id="T-wsj1718-001-p1s1">
 <atree.rf>a#a-wsj1718-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1718-001-p1s1a1">
+<children>
+<LM id="T-wsj1718-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -309,7 +336,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj1718-001-p1s1a3">
+<children>
+<LM id="T-wsj1718-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s1W1-Ta</lex.rf>
 </a>
@@ -320,6 +348,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>1</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1718-001-p1s1a6">
@@ -377,15 +406,19 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1718-001-p1s0a6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1718-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s1W13-Ta</lex.rf>
-<aux.rf>a#a-wsj1718-001-p1s1W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1718-001-p1s1W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>provincie</t_lemma>
@@ -421,9 +454,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1718-001-p1s0a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1718-001-p1s1a15">
@@ -450,7 +485,9 @@
 <LM id="T-wsj1718-001-p1s1a17">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s1W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1718-001-p1s1W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1718-001-p1s1W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>počet</t_lemma>
@@ -484,7 +521,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1718-001-p1s1a20">
+<children>
+<LM id="T-wsj1718-001-p1s1a20">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s1W19-Ta</lex.rf>
 </a>
@@ -495,6 +533,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -502,7 +541,9 @@
 <LM id="T-wsj1718-001-p1s1a22">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s1W23-Ta</lex.rf>
-<aux.rf>a#a-wsj1718-001-p1s1W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1718-001-p1s1W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>konkurence</t_lemma>
@@ -548,13 +589,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The legislation would open the way for more telephone services and more competition in the telephone business in the three provinces, federal officials said.</eng_sentence>
 </LM>
 <LM id="T-wsj1718-001-p1s2">
 <atree.rf>a#a-wsj1718-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1718-001-p1s2a1">
+<children>
+<LM id="T-wsj1718-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s2W5-Ta</lex.rf>
 </a>
@@ -603,7 +646,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1718-001-p1s2a5">
+<children>
+<LM id="T-wsj1718-001-p1s2a5">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s2W3-Ta</lex.rf>
 </a>
@@ -614,11 +658,14 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1718-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -626,7 +673,9 @@
 <LM id="T-wsj1718-001-p1s2a7">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s2W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1718-001-p1s2W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1718-001-p1s2W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5636f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -679,10 +728,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1718-001-p1s2a11">
 <a>
@@ -744,12 +789,17 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1718-001-p1s2a17">
+<children>
+<LM id="T-wsj1718-001-p1s2a17">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s2W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1718-001-p1s2W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1718-001-p1s2W13-Ta</LM>
+</aux.rf>
 </a>
-<coref_gram.rf>T-wsj1718-001-p1s2a7</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1718-001-p1s2a7</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>CRIT</functor>
@@ -757,6 +807,7 @@
 <sempos>n.pron.indef</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1718-001-p1s2a18">
@@ -774,7 +825,9 @@
 <LM id="T-wsj1718-001-p1s2a12">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s2W24-Ta</lex.rf>
-<aux.rf>a#a-wsj1718-001-p1s2W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1718-001-p1s2W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>coap</nodetype>
 <t_lemma>a_a</t_lemma>
@@ -784,7 +837,9 @@
 <LM id="T-wsj1718-001-p1s2a21">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s2W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1718-001-p1s2W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1718-001-p1s2W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Alberta</t_lemma>
@@ -795,15 +850,19 @@
 </gram>
 <deepord>16</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1718-001-p1s0a22</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1718-001-p1s2a23">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s2W21-Ta</lex.rf>
-<aux.rf>a#a-wsj1718-001-p1s2W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1718-001-p1s2W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Saskatchewan</t_lemma>
@@ -814,15 +873,19 @@
 </gram>
 <deepord>17</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1718-001-p1s0a24</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1718-001-p1s2a24">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s2W23-Ta</lex.rf>
-<aux.rf>a#a-wsj1718-001-p1s2W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1718-001-p1s2W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Manitoba</t_lemma>
@@ -833,9 +896,11 @@
 </gram>
 <deepord>18</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1718-001-p1s0a25</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1718-001-p1s2a25">
@@ -850,7 +915,9 @@
 <LM id="T-wsj1718-001-p1s2a27">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s2W27-Ta</lex.rf>
-<aux.rf>a#a-wsj1718-001-p1s2W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1718-001-p1s2W26-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>provincie</t_lemma>
@@ -860,10 +927,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj1718-001-p1s2a29">
+<children>
+<LM id="T-wsj1718-001-p1s2a29">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s2W29-Ta</lex.rf>
-<aux.rf>a#a-wsj1718-001-p1s2W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1718-001-p1s2W28-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>pobřeží</t_lemma>
@@ -872,7 +942,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj1718-001-p1s2a30">
+<children>
+<LM id="T-wsj1718-001-p1s2a30">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s2W30-Ta</lex.rf>
 </a>
@@ -883,7 +954,9 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -901,7 +974,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>26</deepord>
-<children id="T-wsj1718-001-p1s2a34">
+<children>
+<LM id="T-wsj1718-001-p1s2a34">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s2W32-Ta</lex.rf>
 </a>
@@ -912,6 +986,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>25</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -940,9 +1015,11 @@
 </gram>
 <deepord>29</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1718-001-p1s2a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1718-001-p1s2a36">
@@ -989,18 +1066,22 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The federal government initiative follows a recent Canadian Supreme Court decision that held that the major telephone companies in Alberta, Saskatchewan and Manitoba and in the Atlantic coast provinces were interprovincial undertakings and subject to federal legislative authority.</eng_sentence>
 </LM>
 <LM id="T-wsj1718-001-p1s3">
 <atree.rf>a#a-wsj1718-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1718-001-p1s3a1">
+<children>
+<LM id="T-wsj1718-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s3W7-Ta</lex.rf>
 </a>
@@ -1016,7 +1097,9 @@
 <LM id="T-wsj1718-001-p1s3a3">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s3W4-Ta</lex.rf>
-<aux.rf>a#a-wsj1718-001-p1s3W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1718-001-p1s3W1-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5636f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1034,9 +1117,11 @@
 <functor>PAT</functor>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1718-001-p1s2a31</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1718-001-p1s3a23">
@@ -1046,9 +1131,11 @@
 <functor>ACT</functor>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1718-001-p1s2a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1718-001-p1s3a4">
@@ -1077,13 +1164,17 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1718-001-p1s2a17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1718-001-p1s3a6">
@@ -1097,7 +1188,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj1718-001-p1s3a7">
+<children>
+<LM id="T-wsj1718-001-p1s3a7">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s3W5-Ta</lex.rf>
 </a>
@@ -1108,11 +1200,14 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1718-001-p1s2a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1718-001-p1s3a9">
@@ -1169,15 +1264,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>proprium</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1718-001-p1s3a16">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s3W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1718-001-p1s3W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1718-001-p1s3W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Ontario</t_lemma>
@@ -1191,7 +1284,9 @@
 <LM id="T-wsj1718-001-p1s3a17">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s3W17-Ta</lex.rf>
-<aux.rf>a#a-wsj1718-001-p1s3W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1718-001-p1s3W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Kolumbie</t_lemma>
@@ -1201,7 +1296,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1718-001-p1s3a18">
+<children>
+<LM id="T-wsj1718-001-p1s3a18">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s3W16-Ta</lex.rf>
 </a>
@@ -1212,16 +1308,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1718-001-p1s3a20">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s3W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1718-001-p1s3W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1718-001-p1s3W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>oblast</t_lemma>
@@ -1231,10 +1326,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1718-001-p1s3a22">
+<children>
+<LM id="T-wsj1718-001-p1s3a22">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s3W22-Ta</lex.rf>
-<aux.rf>a#a-wsj1718-001-p1s3W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1718-001-p1s3W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>severozápad</t_lemma>
@@ -1243,20 +1341,23 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Prior to the ruling the federal government had regulated only the telephone companies in Quebec, Ontario, British Columbia and the Northwest Territories.</eng_sentence>
 </LM>
 <LM id="T-wsj1718-001-p1s4">
 <atree.rf>a#a-wsj1718-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1718-001-p1s4a1">
+<children>
+<LM id="T-wsj1718-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s4W14-Ta</lex.rf>
 </a>
@@ -1280,7 +1381,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1718-001-p1s4a4">
+<children>
+<LM id="T-wsj1718-001-p1s4a4">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s4W6-Ta</lex.rf>
 </a>
@@ -1292,7 +1394,9 @@
 <LM id="T-wsj1718-001-p1s4a5">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s4W3-Ta</lex.rf>
-<aux.rf>a#a-wsj1718-001-p1s4W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1718-001-p1s4W2-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Alberta</t_lemma>
@@ -1303,15 +1407,19 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1718-001-p1s2a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1718-001-p1s4a7">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s4W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1718-001-p1s4W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1718-001-p1s4W2-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Saskatchewan</t_lemma>
@@ -1322,15 +1430,19 @@
 </gram>
 <deepord>3</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1718-001-p1s2a23</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1718-001-p1s4a8">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s4W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1718-001-p1s4W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1718-001-p1s4W2-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Manitoba</t_lemma>
@@ -1341,12 +1453,15 @@
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1718-001-p1s2a24</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1718-001-p1s4a9">
@@ -1389,7 +1504,9 @@
 <a>
 <lex.rf>a#a-wsj1718-001-p1s4W10-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1718-001-p1s4a2</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1718-001-p1s4a2</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -1412,9 +1529,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1718-001-p1s0a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -1432,13 +1551,15 @@
 <deepord>11</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The governments of Alberta, Saskatchewan and Manitoba have strongly opposed federal regulation of their telephone companies.</eng_sentence>
 </LM>
 <LM id="T-wsj1718-001-p1s5">
 <atree.rf>a#a-wsj1718-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1718-001-p1s5a1">
+<children>
+<LM id="T-wsj1718-001-p1s5a1">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s5W11-Ta</lex.rf>
 </a>
@@ -1520,7 +1641,9 @@
 <LM id="T-wsj1718-001-p1s5a7">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s5W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1718-001-p1s5W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1718-001-p1s5W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -1545,7 +1668,9 @@
 <LM id="T-wsj1718-001-p1s5a10">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s5W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1718-001-p1s5W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1718-001-p1s5W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>provincie</t_lemma>
@@ -1554,7 +1679,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1718-001-p1s5a11">
+<children>
+<LM id="T-wsj1718-001-p1s5a11">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s5W9-Ta</lex.rf>
 </a>
@@ -1565,14 +1691,17 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1718-001-p1s5a12">
@@ -1586,7 +1715,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1718-001-p1s5a13">
+<children>
+<LM id="T-wsj1718-001-p1s5a13">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s5W12-Ta</lex.rf>
 </a>
@@ -1597,12 +1727,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1718-001-p1s5a18">
 <a>
 <lex.rf>a#a-wsj1718-001-p1s5W17-Ta</lex.rf>
-<aux.rf>a#a-wsj1718-001-p1s5W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1718-001-p1s5W15-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7650f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1625,13 +1758,12 @@
 </gram>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1718-001-p1s5a7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 <LM id="T-wsj1718-001-p1s5a17">
 <a>
@@ -1646,11 +1778,9 @@
 <deepord>16</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The extension of federal regulatory authority over telephone utilities in the Atlantic provinces hasn't required special legislation because they are investor-owned.</eng_sentence>
 </LM>

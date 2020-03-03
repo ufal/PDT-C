@@ -11,7 +11,8 @@
 <LM id="T-wsj1638-001-p1s0">
 <atree.rf>a#a-wsj1638-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1638-001-p1s0a1">
+<children>
+<LM id="T-wsj1638-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1638-001-p1s0W8-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj1638-001-p1s0a33">
+<children>
+<LM id="T-wsj1638-001-p1s0a33">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -103,12 +105,15 @@
 <deepord>8</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1638-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj1638-001-p1s0W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1638-001-p1s0W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1638-001-p1s0W10-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9501f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -129,15 +134,19 @@
 </gram>
 <deepord>10</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1638-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1638-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj1638-001-p1s0W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1638-001-p1s0W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1638-001-p1s0W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>transakce</t_lemma>
@@ -146,7 +155,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1638-001-p1s0a15">
+<children>
+<LM id="T-wsj1638-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj1638-001-p1s0W13-Ta</lex.rf>
 </a>
@@ -182,12 +192,15 @@
 <deepord>15</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1638-001-p1s0a20">
 <a>
 <lex.rf>a#a-wsj1638-001-p1s0W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1638-001-p1s0W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1638-001-p1s0W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -297,8 +310,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1638-001-p1s0a27">
@@ -329,7 +344,9 @@
 <LM id="T-wsj1638-001-p1s0a30">
 <a>
 <lex.rf>a#a-wsj1638-001-p1s0W31-Ta</lex.rf>
-<aux.rf>a#a-wsj1638-001-p1s0W29-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1638-001-p1s0W29-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>služba</t_lemma>
@@ -338,7 +355,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>28</deepord>
-<children id="T-wsj1638-001-p1s0a31">
+<children>
+<LM id="T-wsj1638-001-p1s0a31">
 <a>
 <lex.rf>a#a-wsj1638-001-p1s0W30-Ta</lex.rf>
 </a>
@@ -349,12 +367,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>27</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
@@ -362,13 +383,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Health Care Property Investors Inc. said it acquired three long-term care facilities and one assisted-living facility in a purchase-and-lease transaction valued at $15 million.</eng_sentence>
 </LM>
 <LM id="T-wsj1638-001-p1s1">
 <atree.rf>a#a-wsj1638-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1638-001-p1s1a1">
+<children>
+<LM id="T-wsj1638-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1638-001-p1s1W5-Ta</lex.rf>
 </a>
@@ -431,15 +454,19 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1638-001-p1s0a35</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1638-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj1638-001-p1s1W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1638-001-p1s1W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1638-001-p1s1W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4454f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -488,13 +515,17 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1638-001-p1s0a22</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1638-001-p1s1a26">
@@ -507,9 +538,11 @@
 </gram>
 <deepord>10</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1638-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1638-001-p1s1a12">
@@ -596,7 +629,9 @@
 <LM id="T-wsj1638-001-p1s1a20">
 <a>
 <lex.rf>a#a-wsj1638-001-p1s1W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1638-001-p1s1W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1638-001-p1s1W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Buffalo</t_lemma>
@@ -605,10 +640,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1638-001-p1s1a22">
+<children>
+<LM id="T-wsj1638-001-p1s1a22">
 <a>
 <lex.rf>a#a-wsj1638-001-p1s1W22-Ta</lex.rf>
-<aux.rf>a#a-wsj1638-001-p1s1W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1638-001-p1s1W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>stát</t_lemma>
@@ -617,7 +655,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj1638-001-p1s1a28">
+<children>
+<LM id="T-wsj1638-001-p1s1a28">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -646,21 +685,25 @@
 <deepord>23</deepord>
 </LM>
 </children>
-</children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The real estate investment trust said that it leased the three Florida facilities to National Health Care Affiliates Inc. of Buffalo, N.Y.</eng_sentence>
 </LM>
 <LM id="T-wsj1638-001-p1s2">
 <atree.rf>a#a-wsj1638-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1638-001-p1s2a6">
+<children>
+<LM id="T-wsj1638-001-p1s2a6">
 <a>
 <lex.rf>a#a-wsj1638-001-p1s2W5-Ta</lex.rf>
 </a>
@@ -684,7 +727,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1638-001-p1s2a13">
+<children>
+<LM id="T-wsj1638-001-p1s2a13">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -728,11 +772,14 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1638-001-p1s1a26</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1638-001-p1s2a5">
@@ -746,10 +793,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1638-001-p1s2a8">
+<children>
+<LM id="T-wsj1638-001-p1s2a8">
 <a>
 <lex.rf>a#a-wsj1638-001-p1s2W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1638-001-p1s2W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1638-001-p1s2W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zařízení</t_lemma>
@@ -774,7 +824,9 @@
 <LM id="T-wsj1638-001-p1s2a11">
 <a>
 <lex.rf>a#a-wsj1638-001-p1s2W12-Ta</lex.rf>
-<aux.rf>a#a-wsj1638-001-p1s2W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1638-001-p1s2W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>stát</t_lemma>
@@ -783,7 +835,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1638-001-p1s2a12">
+<children>
+<LM id="T-wsj1638-001-p1s2a12">
 <a>
 <lex.rf>a#a-wsj1638-001-p1s2W11-Ta</lex.rf>
 </a>
@@ -794,19 +847,21 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 </children>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
+</LM>
 </children>
 <eng_sentence>Health Care Property holds an interest in 139 facilities in 30 states.</eng_sentence>
 </LM>

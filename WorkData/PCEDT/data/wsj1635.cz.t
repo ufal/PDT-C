@@ -1139,12 +1139,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>připravit, chápáno jako trpné participium</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2340,12 +2334,6 @@
 <deepord>21</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>povést_se</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5895,12 +5883,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -17696,12 +17678,6 @@
 <deepord>7</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>kareta</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -17776,12 +17752,6 @@
 <deepord>4</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>kareta</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -17944,12 +17914,6 @@
 <deepord>8</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>kareta</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1635-001-p1s80a13">
 <a>
@@ -19561,12 +19525,6 @@
 <src>JP</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>DeVoeovo</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1635-001-p1s86a28">
 <a>
@@ -20202,12 +20160,6 @@
 <deepord>1</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>v m-tagu není jako nominativ</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <eng_sentence>* Principal amount</eng_sentence>

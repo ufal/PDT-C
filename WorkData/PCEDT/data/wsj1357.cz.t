@@ -11,7 +11,8 @@
 <LM id="T-wsj1357-001-p1s0">
 <atree.rf>a#a-wsj1357-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1357-001-p1s0a1">
+<children>
+<LM id="T-wsj1357-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s0W3-Ta</lex.rf>
 </a>
@@ -42,7 +43,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1357-001-p1s0a3">
+<children>
+<LM id="T-wsj1357-001-p1s0a3">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s0W1-Ta</lex.rf>
 </a>
@@ -53,6 +55,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1357-001-p1s0a4">
@@ -138,7 +141,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1357-001-p1s0a11">
+<children>
+<LM id="T-wsj1357-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s0W10-Ta</lex.rf>
 </a>
@@ -149,18 +153,17 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>11</deepord>
+</LM>
 </children>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1357-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s0W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1357-001-p1s0W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1357-001-p1s0W14-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7116f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -175,7 +178,9 @@
 <a>
 <lex.rf>a#a-wsj1357-001-p1s0W13-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1357-001-p1s0a6</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1357-001-p1s0a6</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -199,7 +204,9 @@
 <LM id="T-wsj1357-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s0W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1357-001-p1s0W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1357-001-p1s0W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>půjčka</t_lemma>
@@ -221,7 +228,9 @@
 <LM id="T-wsj1357-001-p1s0a20">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s0W22-Ta</lex.rf>
-<aux.rf>a#a-wsj1357-001-p1s0W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1357-001-p1s0W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>škola</t_lemma>
@@ -243,10 +252,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1357-001-p1s0a22">
 <a>
@@ -265,7 +270,9 @@
 <LM id="T-wsj1357-001-p1s0a23">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s0W25-Ta</lex.rf>
-<aux.rf>a#a-wsj1357-001-p1s0W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1357-001-p1s0W19-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -281,7 +288,9 @@
 <a>
 <lex.rf>a#a-wsj1357-001-p1s0W24-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1357-001-p1s0a20</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1357-001-p1s0a20</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>ACT</functor>
@@ -301,7 +310,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj1357-001-p1s0a27">
+<children>
+<LM id="T-wsj1357-001-p1s0a27">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s0W28-Ta</lex.rf>
 </a>
@@ -377,6 +387,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -389,20 +400,24 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>A federal judge granted a temporary stay of the California Student Aid Commission's emergency action to stop guaranteeing loans for National Technical Schools, a unit of United Education &amp; Software Inc.</eng_sentence>
 </LM>
 <LM id="T-wsj1357-001-p1s1">
 <atree.rf>a#a-wsj1357-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1357-001-p1s1a17">
+<children>
+<LM id="T-wsj1357-001-p1s1a17">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s1W7-Ta</lex.rf>
 </a>
@@ -450,7 +465,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1357-001-p1s1a21">
+<children>
+<LM id="T-wsj1357-001-p1s1a21">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -461,18 +477,17 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1357-001-p1s0a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1357-001-p1s1a22">
 <a>
@@ -485,7 +500,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1357-001-p1s1a23">
+<children>
+<LM id="T-wsj1357-001-p1s1a23">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s1W5-Ta</lex.rf>
 </a>
@@ -496,15 +512,20 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1357-001-p1s0a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1357-001-p1s1a24">
@@ -518,10 +539,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1357-001-p1s1a25">
+<children>
+<LM id="T-wsj1357-001-p1s1a25">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s1W8-Ta</lex.rf>
-<aux.rf>a#a-wsj1357-001-p1s1W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1357-001-p1s1W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>15</t_lemma>
@@ -530,6 +554,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1357-001-p1s1a38">
@@ -552,7 +577,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj1357-001-p1s1a3">
+<children>
+<LM id="T-wsj1357-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s1W14-Ta</lex.rf>
 </a>
@@ -563,6 +589,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1357-001-p1s1a1">
@@ -582,7 +609,8 @@
 <sempos>v</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1357-001-p1s1a14">
+<children>
+<LM id="T-wsj1357-001-p1s1a14">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s1W40-Ta</lex.rf>
 </a>
@@ -594,7 +622,9 @@
 <LM id="T-wsj1357-001-p1s1a5">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s1W22-Ta</lex.rf>
-<aux.rf>a#a-wsj1357-001-p1s1W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1357-001-p1s1W18-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1855f5</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -629,10 +659,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1357-001-p1s1a8">
 <a>
@@ -648,9 +674,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1357-001-p1s0a35</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1357-001-p1s1a9">
@@ -676,7 +704,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1357-001-p1s1a11">
+<children>
+<LM id="T-wsj1357-001-p1s1a11">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s1W24-Ta</lex.rf>
 </a>
@@ -687,7 +716,8 @@
 <sempos>adv.denot.ngrad.neg</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj1357-001-p1s1a39">
+<children>
+<LM id="T-wsj1357-001-p1s1a39">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s1W30-Ta</lex.rf>
 <aux.rf>
@@ -715,9 +745,11 @@
 </gram>
 <deepord>20</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1357-001-p1s1a6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1357-001-p1s1a40">
@@ -731,10 +763,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj1357-001-p1s1a42">
+<children>
+<LM id="T-wsj1357-001-p1s1a42">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s1W33-Ta</lex.rf>
-<aux.rf>a#a-wsj1357-001-p1s1W32-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1357-001-p1s1W32-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>účast</t_lemma>
@@ -743,10 +778,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj1357-001-p1s1a44">
+<children>
+<LM id="T-wsj1357-001-p1s1a44">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s1W35-Ta</lex.rf>
-<aux.rf>a#a-wsj1357-001-p1s1W34-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1357-001-p1s1W34-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>program</t_lemma>
@@ -755,7 +793,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj1357-001-p1s1a45">
+<children>
+<LM id="T-wsj1357-001-p1s1a45">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s1W36-Ta</lex.rf>
 </a>
@@ -766,10 +805,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj1357-001-p1s1a47">
+<children>
+<LM id="T-wsj1357-001-p1s1a47">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s1W38-Ta</lex.rf>
-<aux.rf>a#a-wsj1357-001-p1s1W37-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1357-001-p1s1W37-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>vzdělání</t_lemma>
@@ -779,16 +821,24 @@
 </gram>
 <deepord>26</deepord>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
-</children>
-</children>
-</children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 </children>
@@ -796,7 +846,9 @@
 <LM id="T-wsj1357-001-p1s1a48">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s1W49-Ta</lex.rf>
-<aux.rf>a#a-wsj1357-001-p1s1W41-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1357-001-p1s1W41-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w4957f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -819,7 +871,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>28</deepord>
-<children id="T-wsj1357-001-p1s1a33">
+<children>
+<LM id="T-wsj1357-001-p1s1a33">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s1W44-Ta</lex.rf>
 </a>
@@ -843,9 +896,11 @@
 </gram>
 <deepord>29</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1357-001-p1s1a63</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1357-001-p1s1a35">
@@ -859,10 +914,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>31</deepord>
-<children id="T-wsj1357-001-p1s1a37">
+<children>
+<LM id="T-wsj1357-001-p1s1a37">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s1W47-Ta</lex.rf>
-<aux.rf>a#a-wsj1357-001-p1s1W46-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1357-001-p1s1W46-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>škola</t_lemma>
@@ -871,9 +929,11 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>32</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1357-001-p1s1a50">
@@ -899,7 +959,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>36</deepord>
-<children id="T-wsj1357-001-p1s1a52">
+<children>
+<LM id="T-wsj1357-001-p1s1a52">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s1W50-Ta</lex.rf>
 </a>
@@ -910,11 +971,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>35</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1357-001-p1s1a54">
@@ -934,7 +997,8 @@
 <sempos>v</sempos>
 </gram>
 <deepord>38</deepord>
-<children id="T-wsj1357-001-p1s1a55">
+<children>
+<LM id="T-wsj1357-001-p1s1a55">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s1W57-Ta</lex.rf>
 </a>
@@ -957,9 +1021,11 @@
 </gram>
 <deepord>39</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1357-001-p1s1a34</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1357-001-p1s1a56">
@@ -1025,21 +1091,26 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The California Student Aid Commission took the action Oct. 15 after a government audit cited National Technical Schools for having courses too short to be eligible for the educational loan program and having a student drop-out rate far in excess of federal standards, and it alleged other serious violations of law and regulations.</eng_sentence>
 </LM>
 <LM id="T-wsj1357-001-p1s2">
 <atree.rf>a#a-wsj1357-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1357-001-p1s2a1">
+<children>
+<LM id="T-wsj1357-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s2W11-Ta</lex.rf>
 </a>
@@ -1152,7 +1223,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1357-001-p1s2a10">
+<children>
+<LM id="T-wsj1357-001-p1s2a10">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s2W8-Ta</lex.rf>
 </a>
@@ -1163,15 +1235,18 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1357-001-p1s0a27</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1357-001-p1s2a12">
@@ -1185,7 +1260,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1357-001-p1s2a13">
+<children>
+<LM id="T-wsj1357-001-p1s2a13">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s2W13-Ta</lex.rf>
 </a>
@@ -1197,19 +1273,26 @@
 </gram>
 <deepord>13</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1357-001-p1s1a18</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1357-001-p1s1a22</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1357-001-p1s2a14">
@@ -1250,13 +1333,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>United Education &amp; Software, a Los Angeles education services company, called the commission's action ``precipitous and unwarranted.''</eng_sentence>
 </LM>
 <LM id="T-wsj1357-001-p1s3">
 <atree.rf>a#a-wsj1357-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1357-001-p1s3a1">
+<children>
+<LM id="T-wsj1357-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s3W2-Ta</lex.rf>
 </a>
@@ -1292,7 +1377,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1357-001-p1s3a4">
+<children>
+<LM id="T-wsj1357-001-p1s3a4">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s3W4-Ta</lex.rf>
 </a>
@@ -1303,10 +1389,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj1357-001-p1s3a6">
+<children>
+<LM id="T-wsj1357-001-p1s3a6">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s3W7-Ta</lex.rf>
-<aux.rf>a#a-wsj1357-001-p1s3W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1357-001-p1s3W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>opatření</t_lemma>
@@ -1315,7 +1404,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1357-001-p1s3a7">
+<children>
+<LM id="T-wsj1357-001-p1s3a7">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s3W6-Ta</lex.rf>
 </a>
@@ -1326,27 +1416,38 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1357-001-p1s2a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1357-001-p1s3a9">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s3W11-Ta</lex.rf>
-<aux.rf>a#a-wsj1357-001-p1s3W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1357-001-p1s3W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>říjen</t_lemma>
@@ -1355,10 +1456,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1357-001-p1s3a10">
+<children>
+<LM id="T-wsj1357-001-p1s3a10">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s3W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1357-001-p1s3W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1357-001-p1s3W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>30</t_lemma>
@@ -1367,16 +1471,19 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The court set a hearing on the emergency action for Oct. 30.</eng_sentence>
 </LM>
 <LM id="T-wsj1357-001-p1s4">
 <atree.rf>a#a-wsj1357-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1357-001-p1s4a1">
+<children>
+<LM id="T-wsj1357-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s4W6-Ta</lex.rf>
 </a>
@@ -1400,7 +1507,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1357-001-p1s4a39">
+<children>
+<LM id="T-wsj1357-001-p1s4a39">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1453,11 +1561,14 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1357-001-p1s2a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1357-001-p1s4a10">
@@ -1485,7 +1596,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1357-001-p1s4a11">
+<children>
+<LM id="T-wsj1357-001-p1s4a11">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s4W11-Ta</lex.rf>
 </a>
@@ -1496,7 +1608,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1357-001-p1s4a12">
+<children>
+<LM id="T-wsj1357-001-p1s4a12">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s4W10-Ta</lex.rf>
 </a>
@@ -1507,12 +1620,16 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1357-001-p1s2a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1357-001-p1s4a13">
@@ -1531,7 +1648,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj1357-001-p1s4a14">
+<children>
+<LM id="T-wsj1357-001-p1s4a14">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s4W13-Ta</lex.rf>
 </a>
@@ -1542,6 +1660,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -1561,7 +1680,9 @@
 <LM id="T-wsj1357-001-p1s4a17">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s4W17-Ta</lex.rf>
-<aux.rf>a#a-wsj1357-001-p1s4W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1357-001-p1s4W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodnota</t_lemma>
@@ -1570,7 +1691,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1357-001-p1s4a19">
+<children>
+<LM id="T-wsj1357-001-p1s4a19">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s4W19-Ta</lex.rf>
 </a>
@@ -1581,7 +1703,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1357-001-p1s4a18">
+<children>
+<LM id="T-wsj1357-001-p1s4a18">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s4W18-Ta</lex.rf>
 </a>
@@ -1592,13 +1715,17 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1357-001-p1s4a21">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s4W22-Ta</lex.rf>
-<aux.rf>a#a-wsj1357-001-p1s4W20-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1357-001-p1s4W20-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>ztráta</t_lemma>
@@ -1607,7 +1734,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj1357-001-p1s4a22">
+<children>
+<LM id="T-wsj1357-001-p1s4a22">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s4W21-Ta</lex.rf>
 </a>
@@ -1618,6 +1746,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>18</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1357-001-p1s4a23">
@@ -1643,9 +1772,11 @@
 </gram>
 <deepord>20</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1357-001-p1s4a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1357-001-p1s4a37">
@@ -1658,16 +1789,20 @@
 </gram>
 <deepord>21</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1357-001-p1s4a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1357-001-p1s4a25">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s4W24-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1357-001-p1s4a15</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1357-001-p1s4a15</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>MEANS</functor>
@@ -1679,7 +1814,9 @@
 <LM id="T-wsj1357-001-p1s4a27">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s4W26-Ta</lex.rf>
-<aux.rf>a#a-wsj1357-001-p1s4W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1357-001-p1s4W25-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>slyšení</t_lemma>
@@ -1689,19 +1826,25 @@
 </gram>
 <deepord>23</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1357-001-p1s3a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj1357-001-p1s4a29">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s4W31-Ta</lex.rf>
-<aux.rf>a#a-wsj1357-001-p1s4W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1357-001-p1s4W28-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>půjčka</t_lemma>
@@ -1738,7 +1881,9 @@
 <LM id="T-wsj1357-001-p1s4a33">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s4W33-Ta</lex.rf>
-<aux.rf>a#a-wsj1357-001-p1s4W32-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1357-001-p1s4W32-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>student</t_lemma>
@@ -1747,7 +1892,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>28</deepord>
-<children id="T-wsj1357-001-p1s4a34">
+<children>
+<LM id="T-wsj1357-001-p1s4a34">
 <a>
 <lex.rf>a#a-wsj1357-001-p1s4W36-Ta</lex.rf>
 </a>
@@ -1770,10 +1916,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>29</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1357-001-p1s4a36">
 <a>
@@ -1789,11 +1931,12 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1357-001-p1s1a66</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
-</children>
 </LM>
 </children>
 </LM>
@@ -1802,6 +1945,9 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>United Education &amp; Software posted a $250,000 bond against potential losses to the student aid commission and to taxpayers in guaranteeing any more loans for National Technical Schools students prior to the hearing.</eng_sentence>
 </LM>

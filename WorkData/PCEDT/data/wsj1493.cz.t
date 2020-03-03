@@ -3525,12 +3525,6 @@
 <deepord>6</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>1 ve 2</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1493-001-p1s12a10">
 <a>
@@ -6600,12 +6594,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>1 ve 2</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1493-001-p1s21a14">
 <a>
@@ -7883,12 +7871,6 @@
 <src>LH</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>1 ve 3</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1493-001-p1s25a6">
 <a>
@@ -10879,12 +10861,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>29</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>chápáno jako adj snadný</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -13013,10 +12989,6 @@
 </children>
 <annot_comment>
 <LM>
-<type>M-tag</type>
-<text>v tagu není jako nominativ</text>
-</LM>
-<LM>
 <type>New valency frame</type>
 <text>P</text>
 </LM>
@@ -13637,12 +13609,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

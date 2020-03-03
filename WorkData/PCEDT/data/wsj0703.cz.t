@@ -11,10 +11,13 @@
 <LM id="T-wsj0703-001-p1s0">
 <atree.rf>a#a-wsj0703-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0703-001-p1s0a1">
+<children>
+<LM id="T-wsj0703-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0703-001-p1s0W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0703-001-p1s0W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0703-001-p1s0W5-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7332f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -36,7 +39,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0703-001-p1s0a3">
+<children>
+<LM id="T-wsj0703-001-p1s0a3">
 <a>
 <lex.rf>a#a-wsj0703-001-p1s0W2-Ta</lex.rf>
 </a>
@@ -47,10 +51,13 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0703-001-p1s0a5">
+<children>
+<LM id="T-wsj0703-001-p1s0a5">
 <a>
 <lex.rf>a#a-wsj0703-001-p1s0W4-Ta</lex.rf>
-<aux.rf>a#a-wsj0703-001-p1s0W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0703-001-p1s0W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Francie</t_lemma>
@@ -59,13 +66,17 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0703-001-p1s0a8">
 <a>
 <lex.rf>a#a-wsj0703-001-p1s0W7-Ta</lex.rf>
-<aux.rf>a#a-wsj0703-001-p1s0W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0703-001-p1s0W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>září</t_lemma>
@@ -78,13 +89,16 @@
 <LM id="T-wsj0703-001-p1s0a11">
 <a>
 <lex.rf>a#a-wsj0703-001-p1s0W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0703-001-p1s0W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0703-001-p1s0W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>LOC</functor>
 <deepord>7</deepord>
-<children id="T-wsj0703-001-p1s0a10">
+<children>
+<LM id="T-wsj0703-001-p1s0a10">
 <a>
 <lex.rf>a#a-wsj0703-001-p1s0W10-Ta</lex.rf>
 </a>
@@ -95,12 +109,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0703-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj0703-001-p1s0W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0703-001-p1s0W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0703-001-p1s0W12-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>úprava</t_lemma>
@@ -109,7 +126,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0703-001-p1s0a14">
+<children>
+<LM id="T-wsj0703-001-p1s0a14">
 <a>
 <lex.rf>a#a-wsj0703-001-p1s0W15-Ta</lex.rf>
 </a>
@@ -120,7 +138,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0703-001-p1s0a15">
+<children>
+<LM id="T-wsj0703-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj0703-001-p1s0W14-Ta</lex.rf>
 </a>
@@ -131,13 +150,17 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0703-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj0703-001-p1s0W18-Ta</lex.rf>
-<aux.rf>a#a-wsj0703-001-p1s0W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0703-001-p1s0W17-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7449f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -160,9 +183,11 @@
 <is_parenthesis>1</is_parenthesis>
 <deepord>12</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0703-001-p1s0a1</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0703-001-p1s0a19">
@@ -177,7 +202,8 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>13</deepord>
-<children id="T-wsj0703-001-p1s0a20">
+<children>
+<LM id="T-wsj0703-001-p1s0a20">
 <a>
 <lex.rf>a#a-wsj0703-001-p1s0W21-Ta</lex.rf>
 </a>
@@ -189,7 +215,8 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>15</deepord>
-<children id="T-wsj0703-001-p1s0a21">
+<children>
+<LM id="T-wsj0703-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj0703-001-p1s0W20-Ta</lex.rf>
 </a>
@@ -201,19 +228,23 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>14</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>France's unemployment rate was steady at a seasonally adjusted 9.5% in September, the Social Affairs Ministry said.</eng_sentence>
 </LM>
 <LM id="T-wsj0703-001-p1s1">
 <atree.rf>a#a-wsj0703-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0703-001-p1s1a1">
+<children>
+<LM id="T-wsj0703-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0703-001-p1s1W3-Ta</lex.rf>
 </a>
@@ -229,7 +260,9 @@
 <LM id="T-wsj0703-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj0703-001-p1s1W2-Ta</lex.rf>
-<aux.rf>a#a-wsj0703-001-p1s1W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0703-001-p1s1W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>září</t_lemma>
@@ -239,9 +272,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0703-001-p1s0a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0703-001-p1s1a4">
@@ -255,7 +290,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0703-001-p1s1a5">
+<children>
+<LM id="T-wsj0703-001-p1s1a5">
 <a>
 <lex.rf>a#a-wsj0703-001-p1s1W5-Ta</lex.rf>
 </a>
@@ -266,10 +302,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0703-001-p1s1a7">
+<children>
+<LM id="T-wsj0703-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj0703-001-p1s1W7-Ta</lex.rf>
-<aux.rf>a#a-wsj0703-001-p1s1W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0703-001-p1s1W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>práce</t_lemma>
@@ -278,19 +317,24 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0703-001-p1s1a22">
 <a>
 <lex.rf>a#a-wsj0703-001-p1s1W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0703-001-p1s1W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0703-001-p1s1W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>7</deepord>
-<children id="T-wsj0703-001-p1s1a9">
+<children>
+<LM id="T-wsj0703-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj0703-001-p1s1W9-Ta</lex.rf>
 </a>
@@ -301,12 +345,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0703-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj0703-001-p1s1W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0703-001-p1s1W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0703-001-p1s1W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>měsíc</t_lemma>
@@ -315,7 +362,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0703-001-p1s1a13">
+<children>
+<LM id="T-wsj0703-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj0703-001-p1s1W12-Ta</lex.rf>
 </a>
@@ -326,12 +374,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0703-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj0703-001-p1s1W16-Ta</lex.rf>
-<aux.rf>a#a-wsj0703-001-p1s1W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0703-001-p1s1W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milión</t_lemma>
@@ -364,14 +415,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 <LM id="T-wsj0703-001-p1s1a19">
 <a>
 <lex.rf>a#a-wsj0703-001-p1s1W19-Ta</lex.rf>
-<aux.rf>a#a-wsj0703-001-p1s1W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0703-001-p1s1W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>úprava</t_lemma>
@@ -380,7 +430,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj0703-001-p1s1a20">
+<children>
+<LM id="T-wsj0703-001-p1s1a20">
 <a>
 <lex.rf>a#a-wsj0703-001-p1s1W21-Ta</lex.rf>
 </a>
@@ -391,7 +442,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj0703-001-p1s1a21">
+<children>
+<LM id="T-wsj0703-001-p1s1a21">
 <a>
 <lex.rf>a#a-wsj0703-001-p1s1W20-Ta</lex.rf>
 </a>
@@ -402,17 +454,22 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0703-001-p1s0a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>In September, the number of jobless rose 0.1% from the previous month to 2.5 million on a seasonally adjusted basis.</eng_sentence>
 </LM>

@@ -131,12 +131,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>počínaje</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2267-001-p1s1a12">
 <a>
@@ -655,9 +649,6 @@
 </gram>
 <deepord>15</deepord>
 <annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
 <LM>
 <type>Typo</type>
 </LM>

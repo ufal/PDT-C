@@ -2152,12 +2152,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>lépe Comma, chybí čárka</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2271-001-p1s7a16">
 <a>

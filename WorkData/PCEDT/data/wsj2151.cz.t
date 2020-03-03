@@ -154,12 +154,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>jiný tvar propria</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2151-001-p1s0a12">
 <a>
@@ -250,11 +244,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -387,12 +376,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>ranvej prepsano na runway</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1222,12 +1205,6 @@
 <sempos>n.pron.indef</sempos>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>který - co</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3639,12 +3616,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>proprium</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5905,11 +5876,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>31</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2151-001-p1s27a36">
 <a>
@@ -6382,12 +6348,6 @@
 <sempos>n.pron.indef</sempos>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>který - co</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6808,12 +6768,6 @@
 <deepord>13</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>rok - let</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8043,12 +7997,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>28</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>proprium</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2151-001-p1s35a44">
 <a>
@@ -9623,12 +9571,6 @@
 <src>LH</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>proprium</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2151-001-p1s43a35">
 <a>
@@ -10717,12 +10659,6 @@
 <src>LH</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>jiný tvar propria</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

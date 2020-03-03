@@ -240,12 +240,6 @@
 <deepord>17</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>3 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2434-001-p1s0a27">
 <a>
@@ -276,12 +270,6 @@
 <deepord>20</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>3 v  1</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

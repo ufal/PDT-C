@@ -11,7 +11,8 @@
 <LM id="T-wsj0468-001-p1s0">
 <atree.rf>a#a-wsj0468-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0468-001-p1s0a1">
+<children>
+<LM id="T-wsj0468-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0468-001-p1s0W10-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0468-001-p1s0a44">
+<children>
+<LM id="T-wsj0468-001-p1s0a44">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -124,12 +126,15 @@
 <deepord>10</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0468-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj0468-001-p1s0W19-Ta</lex.rf>
-<aux.rf>a#a-wsj0468-001-p1s0W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0468-001-p1s0W12-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6054f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -151,10 +156,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj0468-001-p1s0a16">
+<children>
+<LM id="T-wsj0468-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj0468-001-p1s0W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0468-001-p1s0W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0468-001-p1s0W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>kontrola</t_lemma>
@@ -163,7 +171,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj0468-001-p1s0a17">
+<children>
+<LM id="T-wsj0468-001-p1s0a17">
 <a>
 <lex.rf>a#a-wsj0468-001-p1s0W17-Ta</lex.rf>
 </a>
@@ -199,12 +208,10 @@
 <deepord>16</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0468-001-p1s0a20">
 <a>
@@ -217,7 +224,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj0468-001-p1s0a21">
+<children>
+<LM id="T-wsj0468-001-p1s0a21">
 <a>
 <lex.rf>a#a-wsj0468-001-p1s0W21-Ta</lex.rf>
 </a>
@@ -244,7 +252,9 @@
 <LM id="T-wsj0468-001-p1s0a41">
 <a>
 <lex.rf>a#a-wsj0468-001-p1s0W25-Ta</lex.rf>
-<aux.rf>a#a-wsj0468-001-p1s0W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0468-001-p1s0W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>tlak</t_lemma>
@@ -253,7 +263,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj0468-001-p1s0a42">
+<children>
+<LM id="T-wsj0468-001-p1s0a42">
 <a>
 <lex.rf>a#a-wsj0468-001-p1s0W24-Ta</lex.rf>
 </a>
@@ -264,12 +275,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>21</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0468-001-p1s0a22">
 <a>
 <lex.rf>a#a-wsj0468-001-p1s0W29-Ta</lex.rf>
-<aux.rf>a#a-wsj0468-001-p1s0W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0468-001-p1s0W28-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8551f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -291,7 +305,9 @@
 <a>
 <lex.rf>a#a-wsj0468-001-p1s0W27-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0468-001-p1s0a21</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0468-001-p1s0a21</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -303,7 +319,9 @@
 <LM id="T-wsj0468-001-p1s0a27">
 <a>
 <lex.rf>a#a-wsj0468-001-p1s0W31-Ta</lex.rf>
-<aux.rf>a#a-wsj0468-001-p1s0W30-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0468-001-p1s0W30-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>podnik</t_lemma>
@@ -312,10 +330,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>26</deepord>
-<children id="T-wsj0468-001-p1s0a29">
+<children>
+<LM id="T-wsj0468-001-p1s0a29">
 <a>
 <lex.rf>a#a-wsj0468-001-p1s0W35-Ta</lex.rf>
-<aux.rf>a#a-wsj0468-001-p1s0W32-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0468-001-p1s0W32-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>účast</t_lemma>
@@ -361,7 +382,9 @@
 <LM id="T-wsj0468-001-p1s0a33">
 <a>
 <lex.rf>a#a-wsj0468-001-p1s0W37-Ta</lex.rf>
-<aux.rf>a#a-wsj0468-001-p1s0W36-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0468-001-p1s0W36-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -371,7 +394,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>30</deepord>
-<children id="T-wsj0468-001-p1s0a34">
+<children>
+<LM id="T-wsj0468-001-p1s0a34">
 <a>
 <lex.rf>a#a-wsj0468-001-p1s0W38-Ta</lex.rf>
 </a>
@@ -382,17 +406,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>31</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0468-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0468-001-p1s0a36">
 <a>
 <lex.rf>a#a-wsj0468-001-p1s0W42-Ta</lex.rf>
-<aux.rf>a#a-wsj0468-001-p1s0W36-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0468-001-p1s0W36-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>koncern</t_lemma>
@@ -432,23 +461,27 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>G.D. Searle &amp; Co. said the Food and Drug Administration approved the sale of Kerlone, a hypertension drug developed by a joint venture between Searle and a French concern.</eng_sentence>
 </LM>
 <LM id="T-wsj0468-001-p1s1">
 <atree.rf>a#a-wsj0468-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0468-001-p1s1a1">
+<children>
+<LM id="T-wsj0468-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0468-001-p1s1W10-Ta</lex.rf>
 </a>
@@ -482,7 +515,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0468-001-p1s1a6">
+<children>
+<LM id="T-wsj0468-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj0468-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -493,6 +527,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0468-001-p1s1a3">
@@ -507,7 +542,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0468-001-p1s1a4">
+<children>
+<LM id="T-wsj0468-001-p1s1a4">
 <a>
 <lex.rf>a#a-wsj0468-001-p1s1W5-Ta</lex.rf>
 </a>
@@ -518,7 +554,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0468-001-p1s1a65">
+<children>
+<LM id="T-wsj0468-001-p1s1a65">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -553,20 +590,26 @@
 <deepord>9</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0468-001-p1s0a33</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0468-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj0468-001-p1s1W25-Ta</lex.rf>
-<aux.rf>a#a-wsj0468-001-p1s1W12-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0468-001-p1s1W12-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w243f80_ZU</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -654,7 +697,9 @@
 <LM id="T-wsj0468-001-p1s1a24">
 <a>
 <lex.rf>a#a-wsj0468-001-p1s1W23-Ta</lex.rf>
-<aux.rf>a#a-wsj0468-001-p1s1W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0468-001-p1s1W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>název</t_lemma>
@@ -663,7 +708,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj0468-001-p1s1a25">
+<children>
+<LM id="T-wsj0468-001-p1s1a25">
 <a>
 <lex.rf>a#a-wsj0468-001-p1s1W24-Ta</lex.rf>
 </a>
@@ -674,13 +720,16 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0468-001-p1s0a24</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0468-001-p1s1a26">
@@ -710,7 +759,9 @@
 <LM id="T-wsj0468-001-p1s1a28">
 <a>
 <lex.rf>a#a-wsj0468-001-p1s1W31-Ta</lex.rf>
-<aux.rf>a#a-wsj0468-001-p1s1W30-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0468-001-p1s1W30-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w735f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -725,7 +776,9 @@
 <a>
 <lex.rf>a#a-wsj0468-001-p1s1W29-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0468-001-p1s1a26</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0468-001-p1s1a26</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -737,7 +790,9 @@
 <LM id="T-wsj0468-001-p1s1a33">
 <a>
 <lex.rf>a#a-wsj0468-001-p1s1W33-Ta</lex.rf>
-<aux.rf>a#a-wsj0468-001-p1s1W32-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0468-001-p1s1W32-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>trh</t_lemma>
@@ -759,7 +814,9 @@
 <LM id="T-wsj0468-001-p1s1a35">
 <a>
 <lex.rf>a#a-wsj0468-001-p1s1W35-Ta</lex.rf>
-<aux.rf>a#a-wsj0468-001-p1s1W34-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0468-001-p1s1W34-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -769,7 +826,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj0468-001-p1s1a66">
+<children>
+<LM id="T-wsj0468-001-p1s1a66">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -798,12 +856,15 @@
 <deepord>28</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0468-001-p1s1a50">
 <a>
 <lex.rf>a#a-wsj0468-001-p1s1W40-Ta</lex.rf>
-<aux.rf>a#a-wsj0468-001-p1s1W34-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0468-001-p1s1W34-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -843,7 +904,9 @@
 <a>
 <lex.rf>a#a-wsj0468-001-p1s1W42-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0468-001-p1s1a67</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0468-001-p1s1a67</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>PAT</functor>
@@ -885,7 +948,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>35</deepord>
-<children id="T-wsj0468-001-p1s1a57">
+<children>
+<LM id="T-wsj0468-001-p1s1a57">
 <a>
 <lex.rf>a#a-wsj0468-001-p1s1W46-Ta</lex.rf>
 </a>
@@ -896,11 +960,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>36</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0468-001-p1s1a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0468-001-p1s1a68">
@@ -925,7 +992,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>38</deepord>
-<children id="T-wsj0468-001-p1s1a58">
+<children>
+<LM id="T-wsj0468-001-p1s1a58">
 <a>
 <lex.rf>a#a-wsj0468-001-p1s1W49-Ta</lex.rf>
 </a>
@@ -936,6 +1004,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>39</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0468-001-p1s1a38">
@@ -986,7 +1055,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>44</deepord>
-<children id="T-wsj0468-001-p1s1a43">
+<children>
+<LM id="T-wsj0468-001-p1s1a43">
 <a>
 <lex.rf>a#a-wsj0468-001-p1s1W57-Ta</lex.rf>
 </a>
@@ -1077,31 +1147,33 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0468-001-p1s0a36</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0468-001-p1s0a27</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -1111,6 +1183,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Searle, a unit of Monsanto Co., said the ``beta-blocker'' high-blood-pressure drug Kerlone is the first product to reach the market through Lorex Pharmaceuticals, the U.S. company jointly owned by Searle and Synthelabo, a French pharmaceutical concern owned by France's L'Oreal S.A.</eng_sentence>
 </LM>

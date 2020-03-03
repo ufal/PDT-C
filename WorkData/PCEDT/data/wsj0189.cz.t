@@ -2187,12 +2187,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>adjektivum; v povrchovém vyjádření ve zkráceném tvaru</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0189-001-p1s7a14">
 <a>
@@ -2231,12 +2225,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>adjektivum; v povrchovém vyjádření ve zkráceném tvaru</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0189-001-p1s7a16">
 <a>
@@ -3449,12 +3437,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

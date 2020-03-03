@@ -107,12 +107,6 @@
 <deepord>7</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>původně strana</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -270,12 +264,6 @@
 <deepord>20</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>původně strana</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -417,12 +405,6 @@
 <deepord>3</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>původně zveřejnět</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <eng_sentence>Terms weren't disclosed.</eng_sentence>

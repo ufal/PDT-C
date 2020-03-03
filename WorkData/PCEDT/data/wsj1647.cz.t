@@ -10848,12 +10848,6 @@
 <src>PCEDT</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>chápáno jako sloveso "být"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

@@ -1213,11 +1213,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <eng_sentence>Nissan scheduled a seven-yen interim dividend payment, unchanged.</eng_sentence>
@@ -1281,11 +1276,6 @@
 <deepord>2</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj0164-001-p1s5a3">
 <a>

@@ -11,7 +11,8 @@
 <LM id="T-wsj0760-001-p1s0">
 <atree.rf>a#a-wsj0760-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0760-001-p1s0a1">
+<children>
+<LM id="T-wsj0760-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s0W5-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0760-001-p1s0a41">
+<children>
+<LM id="T-wsj0760-001-p1s0a41">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -73,12 +75,15 @@
 <deepord>5</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0760-001-p1s0a8">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s0W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s0W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s0W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w1396f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -116,7 +121,9 @@
 <LM id="T-wsj0760-001-p1s0a12">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s0W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s0W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s0W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>čtvrtletí</t_lemma>
@@ -125,7 +132,8 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0760-001-p1s0a13">
+<children>
+<LM id="T-wsj0760-001-p1s0a13">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s0W11-Ta</lex.rf>
 </a>
@@ -136,6 +144,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>9</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -143,13 +152,16 @@
 <LM id="T-wsj0760-001-p1s0a16">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s0W16-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s0W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s0W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>13</deepord>
-<children id="T-wsj0760-001-p1s0a15">
+<children>
+<LM id="T-wsj0760-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s0W15-Ta</lex.rf>
 </a>
@@ -160,6 +172,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>12</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0760-001-p1s0a17">
@@ -174,7 +187,9 @@
 <LM id="T-wsj0760-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s0W19-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s0W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s0W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milion</t_lemma>
@@ -210,15 +225,13 @@
 <deepord>16</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0760-001-p1s0a23">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s0W24-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s0W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s0W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>cent</t_lemma>
@@ -244,7 +257,9 @@
 <LM id="T-wsj0760-001-p1s0a27">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s0W26-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s0W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s0W25-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akcie</t_lemma>
@@ -270,7 +285,9 @@
 <LM id="T-wsj0760-001-p1s0a31">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s0W30-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s0W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s0W28-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milion</t_lemma>
@@ -306,15 +323,13 @@
 <deepord>23</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0760-001-p1s0a36">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s0W36-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s0W34-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s0W34-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>cent</t_lemma>
@@ -340,7 +355,9 @@
 <LM id="T-wsj0760-001-p1s0a38">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s0W38-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s0W37-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s0W37-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akcie</t_lemma>
@@ -357,13 +374,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Norton Co. said net income for the third quarter fell 6% to $20.6 million, or 98 cents a share, from $22 million, or $1.03 a share.</eng_sentence>
 </LM>
 <LM id="T-wsj0760-001-p1s1">
 <atree.rf>a#a-wsj0760-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0760-001-p1s1a43">
+<children>
+<LM id="T-wsj0760-001-p1s1a43">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s1W24-Ta</lex.rf>
 </a>
@@ -437,7 +456,9 @@
 <LM id="T-wsj0760-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s1W5-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s1W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s1W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>zabývající_se</t_lemma>
@@ -446,7 +467,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0760-001-p1s1a1">
+<children>
+<LM id="T-wsj0760-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s1W11-Ta</lex.rf>
 </a>
@@ -480,7 +502,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0760-001-p1s1a7">
+<children>
+<LM id="T-wsj0760-001-p1s1a7">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s1W9-Ta</lex.rf>
 </a>
@@ -491,6 +514,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0760-001-p1s1a8">
@@ -505,7 +529,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>11</deepord>
-<children id="T-wsj0760-001-p1s1a9">
+<children>
+<LM id="T-wsj0760-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s1W12-Ta</lex.rf>
 </a>
@@ -516,16 +541,20 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>10</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0760-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -577,10 +606,6 @@
 <deepord>15</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0760-001-p1s1a13">
 <a>
@@ -610,7 +635,9 @@
 <LM id="T-wsj0760-001-p1s1a15">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s1W23-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s1W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s1W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akcie</t_lemma>
@@ -644,7 +671,9 @@
 <a>
 <lex.rf>a#a-wsj0760-001-p1s1W25-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0760-001-p1s1a18</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0760-001-p1s1a18</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>ACT</functor>
@@ -676,13 +705,16 @@
 <LM id="T-wsj0760-001-p1s1a30">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s1W30-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s1W28-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s1W28-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>26</deepord>
-<children id="T-wsj0760-001-p1s1a29">
+<children>
+<LM id="T-wsj0760-001-p1s1a29">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s1W29-Ta</lex.rf>
 </a>
@@ -693,6 +725,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>25</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0760-001-p1s1a35">
@@ -707,7 +740,9 @@
 <LM id="T-wsj0760-001-p1s1a33">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s1W33-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s1W31-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s1W31-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milion</t_lemma>
@@ -743,15 +778,13 @@
 <deepord>29</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0760-001-p1s1a38">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s1W38-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s1W31-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s1W31-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>cent</t_lemma>
@@ -777,7 +810,9 @@
 <LM id="T-wsj0760-001-p1s1a40">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s1W40-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s1W39-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s1W39-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akcie</t_lemma>
@@ -793,20 +828,24 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Operating profit for the abrasives, engineering materials and petroleum services concern was $19.2 million, or 91 cents a share, up 3% from $18.7 million, or 87 cents a share.</eng_sentence>
 </LM>
 <LM id="T-wsj0760-001-p1s2">
 <atree.rf>a#a-wsj0760-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0760-001-p1s2a1">
+<children>
+<LM id="T-wsj0760-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -831,9 +870,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0760-001-p1s1a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0760-001-p1s2a3">
@@ -863,7 +904,9 @@
 <LM id="T-wsj0760-001-p1s2a6">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s2W6-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s2W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s2W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výše</t_lemma>
@@ -872,7 +915,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0760-001-p1s2a8">
+<children>
+<LM id="T-wsj0760-001-p1s2a8">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s2W8-Ta</lex.rf>
 </a>
@@ -909,22 +953,21 @@
 <deepord>8</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The company had a tax credit of $1.4 million.</eng_sentence>
 </LM>
 <LM id="T-wsj0760-001-p1s3">
 <atree.rf>a#a-wsj0760-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0760-001-p1s3a1">
+<children>
+<LM id="T-wsj0760-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s3W6-Ta</lex.rf>
 </a>
@@ -940,7 +983,9 @@
 <LM id="T-wsj0760-001-p1s3a3">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s3W3-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s3W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s3W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>čtvrtletí</t_lemma>
@@ -973,7 +1018,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0760-001-p1s3a6">
+<children>
+<LM id="T-wsj0760-001-p1s3a6">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s3W4-Ta</lex.rf>
 </a>
@@ -984,6 +1030,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -999,7 +1046,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0760-001-p1s3a8">
+<children>
+<LM id="T-wsj0760-001-p1s3a8">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s3W7-Ta</lex.rf>
 </a>
@@ -1010,6 +1058,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0760-001-p1s3a10">
@@ -1049,19 +1098,17 @@
 <deepord>10</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>In the year-earlier quarter, the tax credit was $3.3 million.</eng_sentence>
 </LM>
 <LM id="T-wsj0760-001-p1s4">
 <atree.rf>a#a-wsj0760-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0760-001-p1s4a1">
+<children>
+<LM id="T-wsj0760-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s4W2-Ta</lex.rf>
 </a>
@@ -1089,13 +1136,16 @@
 <LM id="T-wsj0760-001-p1s4a5">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s4W5-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s4W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s4W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>4</deepord>
-<children id="T-wsj0760-001-p1s4a4">
+<children>
+<LM id="T-wsj0760-001-p1s4a4">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s4W4-Ta</lex.rf>
 </a>
@@ -1106,12 +1156,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0760-001-p1s4a7">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s4W7-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s4W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s4W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>340.7</t_lemma>
@@ -1124,7 +1177,9 @@
 <LM id="T-wsj0760-001-p1s4a10">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s4W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s4W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s4W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milion</t_lemma>
@@ -1159,19 +1214,17 @@
 <deepord>8</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Sales rose 8% to $368.5 million from $340.7 million.</eng_sentence>
 </LM>
 <LM id="T-wsj0760-001-p1s5">
 <atree.rf>a#a-wsj0760-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0760-001-p1s5a12">
+<children>
+<LM id="T-wsj0760-001-p1s5a12">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s5W13-Ta</lex.rf>
 </a>
@@ -1183,7 +1236,9 @@
 <LM id="T-wsj0760-001-p1s5a1">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s5W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s5W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s5W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w10007f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1198,7 +1253,9 @@
 <LM id="T-wsj0760-001-p1s5a3">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s5W2-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s5W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s5W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>segment</t_lemma>
@@ -1207,7 +1264,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0760-001-p1s5a4">
+<children>
+<LM id="T-wsj0760-001-p1s5a4">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s5W3-Ta</lex.rf>
 </a>
@@ -1218,6 +1276,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0760-001-p1s5a6">
@@ -1256,9 +1315,11 @@
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0760-001-p1s2a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -1266,13 +1327,16 @@
 <LM id="T-wsj0760-001-p1s5a11">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s5W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s5W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s5W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>8</deepord>
-<children id="T-wsj0760-001-p1s5a10">
+<children>
+<LM id="T-wsj0760-001-p1s5a10">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s5W10-Ta</lex.rf>
 </a>
@@ -1283,6 +1347,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -1328,7 +1393,9 @@
 <LM id="T-wsj0760-001-p1s5a18">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s5W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s5W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s5W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>segment</t_lemma>
@@ -1337,7 +1404,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj0760-001-p1s5a19">
+<children>
+<LM id="T-wsj0760-001-p1s5a19">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s5W19-Ta</lex.rf>
 </a>
@@ -1348,7 +1416,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj0760-001-p1s5a20">
+<children>
+<LM id="T-wsj0760-001-p1s5a20">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s5W18-Ta</lex.rf>
 </a>
@@ -1359,7 +1428,9 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -1367,13 +1438,16 @@
 <LM id="T-wsj0760-001-p1s5a23">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s5W23-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s5W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s5W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>17</deepord>
-<children id="T-wsj0760-001-p1s5a22">
+<children>
+<LM id="T-wsj0760-001-p1s5a22">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s5W22-Ta</lex.rf>
 </a>
@@ -1384,18 +1458,21 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>16</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Operating profit in the company's abrasives segment rose 16% while operating profit in the engineering materials segment rose 2%.</eng_sentence>
 </LM>
 <LM id="T-wsj0760-001-p1s6">
 <atree.rf>a#a-wsj0760-001-p1s6</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0760-001-p1s6a1">
+<children>
+<LM id="T-wsj0760-001-p1s6a1">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s6W9-Ta</lex.rf>
 </a>
@@ -1450,7 +1527,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0760-001-p1s6a6">
+<children>
+<LM id="T-wsj0760-001-p1s6a6">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s6W2-Ta</lex.rf>
 </a>
@@ -1461,6 +1539,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0760-001-p1s6a7">
@@ -1475,9 +1554,11 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0760-001-p1s5a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -1522,9 +1603,11 @@
 </gram>
 <deepord>10</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0760-001-p1s6a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0760-001-p1s6a12">
@@ -1574,10 +1657,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj0760-001-p1s6a17">
+<children>
+<LM id="T-wsj0760-001-p1s6a17">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s6W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s6W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s6W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>odkup</t_lemma>
@@ -1607,7 +1693,8 @@
 <t_lemma>#Percnt</t_lemma>
 <functor>RSTR</functor>
 <deepord>17</deepord>
-<children id="T-wsj0760-001-p1s6a19">
+<children>
+<LM id="T-wsj0760-001-p1s6a19">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s6W18-Ta</lex.rf>
 </a>
@@ -1618,12 +1705,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>16</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0760-001-p1s6a22">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s6W22-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s6W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s6W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -1632,7 +1722,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj0760-001-p1s6a41">
+<children>
+<LM id="T-wsj0760-001-p1s6a41">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1682,6 +1773,7 @@
 <deepord>24</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -1689,7 +1781,9 @@
 <LM id="T-wsj0760-001-p1s6a30">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s6W28-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s6W27-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s6W27-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -1698,7 +1792,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<children id="T-wsj0760-001-p1s6a42">
+<children>
+<LM id="T-wsj0760-001-p1s6a42">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1742,6 +1837,7 @@
 <deepord>30</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0760-001-p1s6a27">
@@ -1760,9 +1856,13 @@
 <LM id="T-wsj0760-001-p1s6a36">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s6W35-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s6W34-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s6W34-Ta</LM>
+</aux.rf>
 </a>
-<coref_gram.rf>T-wsj0760-001-p1s6a17</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0760-001-p1s6a17</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -1782,7 +1882,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>34</deepord>
-<children id="T-wsj0760-001-p1s6a38">
+<children>
+<LM id="T-wsj0760-001-p1s6a38">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s6W37-Ta</lex.rf>
 </a>
@@ -1793,25 +1894,29 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>33</deepord>
-</children>
-</LM>
-</children>
-</LM>
-</children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>However, the company's petroleum services segment, while profitable, was hurt by high financing costs associated with the company's buy-out of a 50% stake in Eastman Christensen Co. from Texas Eastern Corp. last June.</eng_sentence>
 </LM>
 <LM id="T-wsj0760-001-p1s7">
 <atree.rf>a#a-wsj0760-001-p1s7</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0760-001-p1s7a1">
+<children>
+<LM id="T-wsj0760-001-p1s7a1">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s7W7-Ta</lex.rf>
 </a>
@@ -1845,7 +1950,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0760-001-p1s7a5">
+<children>
+<LM id="T-wsj0760-001-p1s7a5">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s7W2-Ta</lex.rf>
 </a>
@@ -1856,11 +1962,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0760-001-p1s6a7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0760-001-p1s7a6">
@@ -1875,7 +1984,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0760-001-p1s7a21">
+<children>
+<LM id="T-wsj0760-001-p1s7a21">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -1907,11 +2017,14 @@
 <deepord>7</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0760-001-p1s6a30</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -1931,10 +2044,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0760-001-p1s7a12">
+<children>
+<LM id="T-wsj0760-001-p1s7a12">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s7W14-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s7W11-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s7W11-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>účast</t_lemma>
@@ -1971,7 +2087,9 @@
 <LM id="T-wsj0760-001-p1s7a16">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s7W16-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s7W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s7W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>
@@ -1980,7 +2098,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj0760-001-p1s7a17">
+<children>
+<LM id="T-wsj0760-001-p1s7a17">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s7W17-Ta</lex.rf>
 </a>
@@ -1991,14 +2110,18 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0760-001-p1s6a22</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0760-001-p1s7a19">
@@ -2012,7 +2135,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj0760-001-p1s7a20">
+<children>
+<LM id="T-wsj0760-001-p1s7a20">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s7W19-Ta</lex.rf>
 </a>
@@ -2020,7 +2144,8 @@
 <t_lemma>#Percnt</t_lemma>
 <functor>RSTR</functor>
 <deepord>16</deepord>
-<children id="T-wsj0760-001-p1s7a18">
+<children>
+<LM id="T-wsj0760-001-p1s7a18">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s7W18-Ta</lex.rf>
 </a>
@@ -2031,17 +2156,21 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>15</deepord>
-</children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Norton and Texas Eastern had each held a 50% stake in Eastman in a joint venture.</eng_sentence>
 </LM>
 <LM id="T-wsj0760-001-p1s8">
 <atree.rf>a#a-wsj0760-001-p1s8</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0760-001-p1s8a1">
+<children>
+<LM id="T-wsj0760-001-p1s8a1">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s8W6-Ta</lex.rf>
 </a>
@@ -2065,7 +2194,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0760-001-p1s8a2">
+<children>
+<LM id="T-wsj0760-001-p1s8a2">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s8W2-Ta</lex.rf>
 </a>
@@ -2076,17 +2206,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0760-001-p1s7a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0760-001-p1s8a5">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s8W4-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s8W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s8W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>začátek</t_lemma>
@@ -2095,7 +2230,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0760-001-p1s8a6">
+<children>
+<LM id="T-wsj0760-001-p1s8a6">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s8W5-Ta</lex.rf>
 </a>
@@ -2107,12 +2243,15 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0760-001-p1s8a9">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s8W9-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s8W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s8W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9950f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -2133,9 +2272,11 @@
 </gram>
 <deepord>6</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0760-001-p1s8a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0760-001-p1s8a12">
@@ -2231,9 +2372,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0760-001-p1s7a16</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0760-001-p1s8a17">
@@ -2248,7 +2391,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj0760-001-p1s8a18">
+<children>
+<LM id="T-wsj0760-001-p1s8a18">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s8W17-Ta</lex.rf>
 </a>
@@ -2260,11 +2404,12 @@
 </gram>
 <deepord>16</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0760-001-p1s8a14</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
-</children>
 </LM>
 </children>
 </LM>
@@ -2273,13 +2418,17 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Norton announced earlier this month that it was exploring the possible sale of all or part of Eastman Christensen.</eng_sentence>
 </LM>
 <LM id="T-wsj0760-001-p1s9">
 <atree.rf>a#a-wsj0760-001-p1s9</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0760-001-p1s9a1">
+<children>
+<LM id="T-wsj0760-001-p1s9a1">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s9W20-Ta</lex.rf>
 </a>
@@ -2291,7 +2440,9 @@
 <LM id="T-wsj0760-001-p1s9a5">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s9W4-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s9W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s9W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>měsíc</t_lemma>
@@ -2340,7 +2491,8 @@
 <sempos>v</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0760-001-p1s9a9">
+<children>
+<LM id="T-wsj0760-001-p1s9a9">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s9W9-Ta</lex.rf>
 </a>
@@ -2411,10 +2563,6 @@
 <deepord>11</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0760-001-p1s9a17">
 <a>
@@ -2444,7 +2592,9 @@
 <LM id="T-wsj0760-001-p1s9a19">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s9W18-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s9W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s9W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akcie</t_lemma>
@@ -2459,6 +2609,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0760-001-p1s9a7">
@@ -2472,7 +2623,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0760-001-p1s9a8">
+<children>
+<LM id="T-wsj0760-001-p1s9a8">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s9W7-Ta</lex.rf>
 </a>
@@ -2483,11 +2635,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0760-001-p1s8a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0760-001-p1s9a28">
@@ -2504,7 +2659,8 @@
 <sempos>v</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj0760-001-p1s9a21">
+<children>
+<LM id="T-wsj0760-001-p1s9a21">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s9W22-Ta</lex.rf>
 </a>
@@ -2531,7 +2687,9 @@
 <LM id="T-wsj0760-001-p1s9a24">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s9W24-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s9W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s9W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výše</t_lemma>
@@ -2540,7 +2698,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj0760-001-p1s9a26">
+<children>
+<LM id="T-wsj0760-001-p1s9a26">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s9W26-Ta</lex.rf>
 </a>
@@ -2577,27 +2736,29 @@
 <deepord>23</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>Vallex</type>
 <text>Výjimka pro kopírování</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>For the nine months, Norton had net of $81.2 million, or $3.87 a share, and a tax credit of $4.4 million.</eng_sentence>
 </LM>
 <LM id="T-wsj0760-001-p1s10">
 <atree.rf>a#a-wsj0760-001-p1s10</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0760-001-p1s10a1">
+<children>
+<LM id="T-wsj0760-001-p1s10a1">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s10W20-Ta</lex.rf>
 </a>
@@ -2609,7 +2770,9 @@
 <LM id="T-wsj0760-001-p1s10a4">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s10W3-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s10W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s10W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>období</t_lemma>
@@ -2642,7 +2805,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<children id="T-wsj0760-001-p1s10a7">
+<children>
+<LM id="T-wsj0760-001-p1s10a7">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s10W4-Ta</lex.rf>
 </a>
@@ -2653,11 +2817,14 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0760-001-p1s3a5</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -2675,7 +2842,8 @@
 <sempos>v</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0760-001-p1s10a9">
+<children>
+<LM id="T-wsj0760-001-p1s10a9">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s10W9-Ta</lex.rf>
 </a>
@@ -2746,10 +2914,6 @@
 <deepord>11</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0760-001-p1s10a17">
 <a>
@@ -2779,7 +2943,9 @@
 <LM id="T-wsj0760-001-p1s10a19">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s10W18-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s10W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s10W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akcie</t_lemma>
@@ -2794,6 +2960,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0760-001-p1s10a8">
@@ -2808,9 +2975,11 @@
 </gram>
 <deepord>6</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0760-001-p1s9a7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0760-001-p1s10a28">
@@ -2827,7 +2996,8 @@
 <sempos>v</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj0760-001-p1s10a21">
+<children>
+<LM id="T-wsj0760-001-p1s10a21">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s10W22-Ta</lex.rf>
 </a>
@@ -2854,7 +3024,9 @@
 <LM id="T-wsj0760-001-p1s10a24">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s10W24-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s10W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s10W23-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>výše</t_lemma>
@@ -2863,7 +3035,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj0760-001-p1s10a26">
+<children>
+<LM id="T-wsj0760-001-p1s10a26">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s10W26-Ta</lex.rf>
 </a>
@@ -2900,27 +3073,29 @@
 <deepord>23</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>Vallex</type>
 <text>Výjimka pro kopírování</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>In the year-earlier period, the company had net of $77.2 million, or $3.68 a share, and a tax credit of $7.7 million.</eng_sentence>
 </LM>
 <LM id="T-wsj0760-001-p1s11">
 <atree.rf>a#a-wsj0760-001-p1s11</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0760-001-p1s11a34">
+<children>
+<LM id="T-wsj0760-001-p1s11a34">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s11W15-Ta</lex.rf>
 </a>
@@ -2954,7 +3129,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0760-001-p1s11a3">
+<children>
+<LM id="T-wsj0760-001-p1s11a3">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s11W2-Ta</lex.rf>
 </a>
@@ -2965,11 +3141,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0760-001-p1s10a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0760-001-p1s11a4">
@@ -3043,10 +3222,6 @@
 <deepord>8</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0760-001-p1s11a12">
 <a>
@@ -3076,7 +3251,9 @@
 <LM id="T-wsj0760-001-p1s11a14">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s11W14-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s11W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s11W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akcie</t_lemma>
@@ -3112,7 +3289,9 @@
 <a>
 <lex.rf>a#a-wsj0760-001-p1s11W16-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0760-001-p1s11a1</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0760-001-p1s11a1</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>ACT</functor>
@@ -3144,13 +3323,16 @@
 <LM id="T-wsj0760-001-p1s11a21">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s11W21-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s11W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s11W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>19</deepord>
-<children id="T-wsj0760-001-p1s11a20">
+<children>
+<LM id="T-wsj0760-001-p1s11a20">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s11W20-Ta</lex.rf>
 </a>
@@ -3161,6 +3343,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>18</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0760-001-p1s11a26">
@@ -3175,7 +3358,9 @@
 <LM id="T-wsj0760-001-p1s11a24">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s11W24-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s11W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s11W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>milion</t_lemma>
@@ -3211,15 +3396,13 @@
 <deepord>22</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>krátce</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0760-001-p1s11a29">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s11W29-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s11W22-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s11W22-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>dolar</t_lemma>
@@ -3245,7 +3428,9 @@
 <LM id="T-wsj0760-001-p1s11a31">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s11W31-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s11W30-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s11W30-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akcie</t_lemma>
@@ -3261,23 +3446,29 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Norton had operating profit of $76.8 million, or $3.66 a share, up 11% from $69.5 million, or $3.31 a share.</eng_sentence>
 </LM>
 <LM id="T-wsj0760-001-p1s12">
 <atree.rf>a#a-wsj0760-001-p1s12</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0760-001-p1s12a1">
+<children>
+<LM id="T-wsj0760-001-p1s12a1">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s12W3-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s12W2-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s12W2-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w10007f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -3303,13 +3494,16 @@
 <LM id="T-wsj0760-001-p1s12a6">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s12W6-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s12W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s12W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>DIFF</functor>
 <deepord>4</deepord>
-<children id="T-wsj0760-001-p1s12a5">
+<children>
+<LM id="T-wsj0760-001-p1s12a5">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s12W5-Ta</lex.rf>
 </a>
@@ -3320,12 +3514,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0760-001-p1s12a8">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s12W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s12W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s12W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>1.06</t_lemma>
@@ -3338,7 +3535,9 @@
 <LM id="T-wsj0760-001-p1s12a11">
 <a>
 <lex.rf>a#a-wsj0760-001-p1s12W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0760-001-p1s12W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0760-001-p1s12W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>miliarda</t_lemma>
@@ -3375,6 +3574,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Sales rose 8% to $1.15 billion from $1.06 billion.</eng_sentence>
 </LM>

@@ -11,7 +11,8 @@
 <LM id="T-wsj1956-001-p1s0">
 <atree.rf>a#a-wsj1956-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1956-001-p1s0a1">
+<children>
+<LM id="T-wsj1956-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1956-001-p1s0W7-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1956-001-p1s0a30">
+<children>
+<LM id="T-wsj1956-001-p1s0a30">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -88,12 +90,15 @@
 <deepord>7</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1956-001-p1s0a10">
 <a>
 <lex.rf>a#a-wsj1956-001-p1s0W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1956-001-p1s0W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1956-001-p1s0W9-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3462f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -114,9 +119,11 @@
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1956-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1956-001-p1s0a11">
@@ -133,7 +140,9 @@
 <deepord>12</deepord>
 <children>
 <LM id="T-wsj1956-001-p1s0a33">
-<coref_gram.rf>T-wsj1956-001-p1s0a32</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1956-001-p1s0a32</LM>
+</coref_gram.rf>
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Cor</t_lemma>
@@ -192,7 +201,9 @@
 <a>
 <lex.rf>a#a-wsj1956-001-p1s0W15-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj1956-001-p1s0a33</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj1956-001-p1s0a33</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
 <functor>RSTR</functor>
@@ -225,13 +236,16 @@
 <LM id="T-wsj1956-001-p1s0a20">
 <a>
 <lex.rf>a#a-wsj1956-001-p1s0W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1956-001-p1s0W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1956-001-p1s0W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>
 <t_lemma>#Percnt</t_lemma>
 <functor>EXT</functor>
 <deepord>19</deepord>
-<children id="T-wsj1956-001-p1s0a19">
+<children>
+<LM id="T-wsj1956-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj1956-001-p1s0W18-Ta</lex.rf>
 </a>
@@ -242,6 +256,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>18</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -298,7 +313,9 @@
 <LM id="T-wsj1956-001-p1s0a27">
 <a>
 <lex.rf>a#a-wsj1956-001-p1s0W28-Ta</lex.rf>
-<aux.rf>a#a-wsj1956-001-p1s0W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1956-001-p1s0W26-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>nákup</t_lemma>
@@ -307,7 +324,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>28</deepord>
-<children id="T-wsj1956-001-p1s0a28">
+<children>
+<LM id="T-wsj1956-001-p1s0a28">
 <a>
 <lex.rf>a#a-wsj1956-001-p1s0W27-Ta</lex.rf>
 </a>
@@ -318,20 +336,23 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>27</deepord>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>National Patent Development Corp. said it plans to purchase as many as 200,000 common shares of its 81%-controlled Interferon Sciences Inc. unit in periodic, open-market purchases.</eng_sentence>
 </LM>
 <LM id="T-wsj1956-001-p1s1">
 <atree.rf>a#a-wsj1956-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1956-001-p1s1a1">
+<children>
+<LM id="T-wsj1956-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj1956-001-p1s1W4-Ta</lex.rf>
 </a>
@@ -382,9 +403,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1956-001-p1s0a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1956-001-p1s1a7">
@@ -407,7 +430,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj1956-001-p1s1a6">
+<children>
+<LM id="T-wsj1956-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj1956-001-p1s1W5-Ta</lex.rf>
 </a>
@@ -418,6 +442,7 @@
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>5</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1956-001-p1s1a8">
@@ -443,7 +468,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1956-001-p1s1a10">
+<children>
+<LM id="T-wsj1956-001-p1s1a10">
 <a>
 <lex.rf>a#a-wsj1956-001-p1s1W8-Ta</lex.rf>
 </a>
@@ -454,6 +480,7 @@
 <sempos>adv.denot.ngrad.nneg</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1956-001-p1s1a11">
@@ -479,13 +506,15 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>12</deepord>
-<children id="T-wsj1956-001-p1s1a20">
+<children>
+<LM id="T-wsj1956-001-p1s1a20">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
 <functor>ID</functor>
 <deepord>13</deepord>
-<children id="T-wsj1956-001-p1s1a13">
+<children>
+<LM id="T-wsj1956-001-p1s1a13">
 <a>
 <lex.rf>a#a-wsj1956-001-p1s1W13-Ta</lex.rf>
 </a>
@@ -496,22 +525,24 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>Interferon</text>
-</annot_comment>
+</LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1956-001-p1s0a17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1956-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj1956-001-p1s1W16-Ta</lex.rf>
-<aux.rf>a#a-wsj1956-001-p1s1W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1956-001-p1s1W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>podíl</t_lemma>
@@ -520,7 +551,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj1956-001-p1s1a17">
+<children>
+<LM id="T-wsj1956-001-p1s1a17">
 <a>
 <lex.rf>a#a-wsj1956-001-p1s1W17-Ta</lex.rf>
 </a>
@@ -531,7 +563,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj1956-001-p1s1a21">
+<children>
+<LM id="T-wsj1956-001-p1s1a21">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -560,29 +593,37 @@
 <deepord>19</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1956-001-p1s0a18</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>The 200,000 shares are about 23% of Interferon's common shares outstanding, excluding National Patent's stake.</eng_sentence>
 </LM>
 <LM id="T-wsj1956-001-p1s2">
 <atree.rf>a#a-wsj1956-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1956-001-p1s2a1">
+<children>
+<LM id="T-wsj1956-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1956-001-p1s2W23-Ta</lex.rf>
-<aux.rf>a#a-wsj1956-001-p1s2W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1956-001-p1s2W24-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7971f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -603,15 +644,19 @@
 </gram>
 <deepord>2</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1956-001-p1s2a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1956-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj1956-001-p1s2W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1956-001-p1s2W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1956-001-p1s2W1-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w5225f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -640,7 +685,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj1956-001-p1s2a38">
+<children>
+<LM id="T-wsj1956-001-p1s2a38">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -669,17 +715,22 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1956-001-p1s1a17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1956-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj1956-001-p1s2W14-Ta</lex.rf>
-<aux.rf>a#a-wsj1956-001-p1s2W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1956-001-p1s2W7-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6054f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -701,10 +752,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1956-001-p1s2a12">
+<children>
+<LM id="T-wsj1956-001-p1s2a12">
 <a>
 <lex.rf>a#a-wsj1956-001-p1s2W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1956-001-p1s2W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1956-001-p1s2W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>kontrola</t_lemma>
@@ -713,7 +767,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1956-001-p1s2a13">
+<children>
+<LM id="T-wsj1956-001-p1s2a13">
 <a>
 <lex.rf>a#a-wsj1956-001-p1s2W12-Ta</lex.rf>
 </a>
@@ -749,12 +804,10 @@
 <deepord>12</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj1956-001-p1s2a16">
 <a>
@@ -771,7 +824,9 @@
 <LM id="T-wsj1956-001-p1s2a18">
 <a>
 <lex.rf>a#a-wsj1956-001-p1s2W18-Ta</lex.rf>
-<aux.rf>a#a-wsj1956-001-p1s2W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1956-001-p1s2W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>bradavice</t_lemma>
@@ -780,7 +835,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj1956-001-p1s2a19">
+<children>
+<LM id="T-wsj1956-001-p1s2a19">
 <a>
 <lex.rf>a#a-wsj1956-001-p1s2W17-Ta</lex.rf>
 </a>
@@ -791,12 +847,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>15</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1956-001-p1s2a21">
 <a>
 <lex.rf>a#a-wsj1956-001-p1s2W20-Ta</lex.rf>
-<aux.rf>a#a-wsj1956-001-p1s2W19-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1956-001-p1s2W19-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>firma</t_lemma>
@@ -805,7 +864,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1956-001-p1s2a40">
+<children>
+<LM id="T-wsj1956-001-p1s2a40">
 <a>
 <lex.rf>a#a-wsj1956-001-p1s2W21-Ta</lex.rf>
 </a>
@@ -816,11 +876,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1956-001-p1s1a12</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -832,7 +895,9 @@
 <LM id="T-wsj1956-001-p1s2a27">
 <a>
 <lex.rf>a#a-wsj1956-001-p1s2W30-Ta</lex.rf>
-<aux.rf>a#a-wsj1956-001-p1s2W26-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1956-001-p1s2W26-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -846,7 +911,9 @@
 <LM id="T-wsj1956-001-p1s2a29">
 <a>
 <lex.rf>a#a-wsj1956-001-p1s2W29-Ta</lex.rf>
-<aux.rf>a#a-wsj1956-001-p1s2W27-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1956-001-p1s2W27-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>názor</t_lemma>
@@ -855,7 +922,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj1956-001-p1s2a30">
+<children>
+<LM id="T-wsj1956-001-p1s2a30">
 <a>
 <lex.rf>a#a-wsj1956-001-p1s2W28-Ta</lex.rf>
 </a>
@@ -867,10 +935,13 @@
 </gram>
 <deepord>20</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1956-001-p1s2a35</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1956-001-p1s2a31">
@@ -884,7 +955,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>23</deepord>
-<children id="T-wsj1956-001-p1s2a32">
+<children>
+<LM id="T-wsj1956-001-p1s2a32">
 <a>
 <lex.rf>a#a-wsj1956-001-p1s2W32-Ta</lex.rf>
 </a>
@@ -895,7 +967,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>24</deepord>
-<children id="T-wsj1956-001-p1s2a41">
+<children>
+<LM id="T-wsj1956-001-p1s2a41">
 <a>
 <lex.rf>a#a-wsj1956-001-p1s2W33-Ta</lex.rf>
 </a>
@@ -906,12 +979,16 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1956-001-p1s2a21</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>JP</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1956-001-p1s2a34">
@@ -929,6 +1006,7 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence> Noting the recent Food and Drug Administration approval of Interferon's genital warts treatment, National Patent said it believes Interferon's stock is undervalued.</eng_sentence>
 </LM>

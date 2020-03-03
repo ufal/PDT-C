@@ -11,7 +11,8 @@
 <LM id="T-wsj1414-001-p1s0">
 <atree.rf>a#a-wsj1414-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1414-001-p1s0a1">
+<children>
+<LM id="T-wsj1414-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj1414-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -35,7 +36,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1414-001-p1s0a32">
+<children>
+<LM id="T-wsj1414-001-p1s0a32">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -79,12 +81,15 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1414-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj1414-001-p1s0W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1414-001-p1s0W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1414-001-p1s0W8-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w598f2</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -105,9 +110,11 @@
 </gram>
 <deepord>8</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1414-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1414-001-p1s0a10">
@@ -121,7 +128,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj1414-001-p1s0a33">
+<children>
+<LM id="T-wsj1414-001-p1s0a33">
 <a>
 <lex.rf>a#a-wsj1414-001-p1s0W20-Ta</lex.rf>
 </a>
@@ -191,7 +199,9 @@
 <LM id="T-wsj1414-001-p1s0a17">
 <a>
 <lex.rf>a#a-wsj1414-001-p1s0W17-Ta</lex.rf>
-<aux.rf>a#a-wsj1414-001-p1s0W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1414-001-p1s0W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Clintonville</t_lemma>
@@ -200,10 +210,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<children id="T-wsj1414-001-p1s0a19">
+<children>
+<LM id="T-wsj1414-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj1414-001-p1s0W19-Ta</lex.rf>
-<aux.rf>a#a-wsj1414-001-p1s0W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1414-001-p1s0W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Wisconsin</t_lemma>
@@ -212,6 +225,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -240,7 +254,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<children id="T-wsj1414-001-p1s0a20">
+<children>
+<LM id="T-wsj1414-001-p1s0a20">
 <a>
 <lex.rf>a#a-wsj1414-001-p1s0W21-Ta</lex.rf>
 </a>
@@ -251,6 +266,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>20</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj1414-001-p1s0a24">
@@ -292,7 +308,9 @@
 <LM id="T-wsj1414-001-p1s0a28">
 <a>
 <lex.rf>a#a-wsj1414-001-p1s0W29-Ta</lex.rf>
-<aux.rf>a#a-wsj1414-001-p1s0W27-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1414-001-p1s0W27-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>stát</t_lemma>
@@ -301,7 +319,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>27</deepord>
-<children id="T-wsj1414-001-p1s0a29">
+<children>
+<LM id="T-wsj1414-001-p1s0a29">
 <a>
 <lex.rf>a#a-wsj1414-001-p1s0W28-Ta</lex.rf>
 </a>
@@ -312,28 +331,34 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>26</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1414-001-p1s0a19</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Rochester Telephone Corp. said it completed its purchase of Urban Telephone Corp., of Clintonville, Wis., the second-largest unaffiliated independent telephone company in that state.</eng_sentence>
 </LM>
 <LM id="T-wsj1414-001-p1s1">
 <atree.rf>a#a-wsj1414-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1414-001-p1s1a21">
+<children>
+<LM id="T-wsj1414-001-p1s1a21">
 <a>
 <lex.rf>a#a-wsj1414-001-p1s1W22-Ta</lex.rf>
 </a>
@@ -367,7 +392,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1414-001-p1s1a27">
+<children>
+<LM id="T-wsj1414-001-p1s1a27">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -399,11 +425,14 @@
 <deepord>4</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1414-001-p1s0a31</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1414-001-p1s1a7">
@@ -433,9 +462,11 @@
 </gram>
 <deepord>6</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1414-001-p1s1a4</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1414-001-p1s1a8">
@@ -449,7 +480,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj1414-001-p1s1a9">
+<children>
+<LM id="T-wsj1414-001-p1s1a9">
 <a>
 <lex.rf>a#a-wsj1414-001-p1s1W7-Ta</lex.rf>
 </a>
@@ -460,11 +492,14 @@
 <sempos>adj.pron.def.demon</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1414-001-p1s0a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1414-001-p1s1a11">
@@ -503,9 +538,11 @@
 </gram>
 <deepord>11</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1414-001-p1s1a25</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1414-001-p1s1a14">
@@ -525,7 +562,9 @@
 <LM id="T-wsj1414-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj1414-001-p1s1W17-Ta</lex.rf>
-<aux.rf>a#a-wsj1414-001-p1s1W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1414-001-p1s1W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akcie</t_lemma>
@@ -558,7 +597,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj1414-001-p1s1a28">
+<children>
+<LM id="T-wsj1414-001-p1s1a28">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -590,11 +630,14 @@
 <deepord>19</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1414-001-p1s0a33</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
@@ -608,7 +651,9 @@
 <LM id="T-wsj1414-001-p1s1a23">
 <a>
 <lex.rf>a#a-wsj1414-001-p1s1W25-Ta</lex.rf>
-<aux.rf>a#a-wsj1414-001-p1s1W24-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1414-001-p1s1W24-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9966f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -630,9 +675,11 @@
 </gram>
 <deepord>20</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1414-001-p1s1a13</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>PCEDT</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1414-001-p1s1a24">
@@ -655,19 +702,17 @@
 <deepord>24</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>špatná koncovka: zveřejnět</text>
-</annot_comment>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Rochester Telephone said the acquisition was made in an exchange of its common shares for all the shares of Urban Telephone, but a price wasn't disclosed.</eng_sentence>
 </LM>
 <LM id="T-wsj1414-001-p1s2">
 <atree.rf>a#a-wsj1414-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1414-001-p1s2a1">
+<children>
+<LM id="T-wsj1414-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj1414-001-p1s2W3-Ta</lex.rf>
 </a>
@@ -691,13 +736,15 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1414-001-p1s2a10">
+<children>
+<LM id="T-wsj1414-001-p1s2a10">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
 <functor>ID</functor>
 <deepord>2</deepord>
-<children id="T-wsj1414-001-p1s2a2">
+<children>
+<LM id="T-wsj1414-001-p1s2a2">
 <a>
 <lex.rf>a#a-wsj1414-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -708,12 +755,16 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1414-001-p1s1a18</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1414-001-p1s2a4">
@@ -767,7 +818,9 @@
 <LM id="T-wsj1414-001-p1s2a9">
 <a>
 <lex.rf>a#a-wsj1414-001-p1s2W9-Ta</lex.rf>
-<aux.rf>a#a-wsj1414-001-p1s2W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1414-001-p1s2W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Wisconsin</t_lemma>
@@ -777,21 +830,25 @@
 </gram>
 <deepord>9</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1414-001-p1s0a28</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Urban is the company's first telephone subsidiary in Wisconsin.</eng_sentence>
 </LM>
 <LM id="T-wsj1414-001-p1s3">
 <atree.rf>a#a-wsj1414-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj1414-001-p1s3a1">
+<children>
+<LM id="T-wsj1414-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj1414-001-p1s3W6-Ta</lex.rf>
 </a>
@@ -815,7 +872,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj1414-001-p1s3a16">
+<children>
+<LM id="T-wsj1414-001-p1s3a16">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -847,17 +905,22 @@
 <deepord>4</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1414-001-p1s1a26</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj1414-001-p1s3a6">
 <a>
 <lex.rf>a#a-wsj1414-001-p1s3W5-Ta</lex.rf>
-<aux.rf>a#a-wsj1414-001-p1s3W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1414-001-p1s3W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>červen</t_lemma>
@@ -894,7 +957,9 @@
 <LM id="T-wsj1414-001-p1s3a10">
 <a>
 <lex.rf>a#a-wsj1414-001-p1s3W10-Ta</lex.rf>
-<aux.rf>a#a-wsj1414-001-p1s3W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1414-001-p1s3W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>koupě</t_lemma>
@@ -903,7 +968,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj1414-001-p1s3a11">
+<children>
+<LM id="T-wsj1414-001-p1s3a11">
 <a>
 <lex.rf>a#a-wsj1414-001-p1s3W13-Ta</lex.rf>
 </a>
@@ -942,7 +1008,9 @@
 <LM id="T-wsj1414-001-p1s3a15">
 <a>
 <lex.rf>a#a-wsj1414-001-p1s3W15-Ta</lex.rf>
-<aux.rf>a#a-wsj1414-001-p1s3W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj1414-001-p1s3W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Wisconsin</t_lemma>
@@ -952,17 +1020,21 @@
 </gram>
 <deepord>13</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj1414-001-p1s2a9</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>Since June, Rochester Telephone signed letters of intent to purchase three other Wisconsin firms.</eng_sentence>
 </LM>

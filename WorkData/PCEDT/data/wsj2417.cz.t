@@ -2179,12 +2179,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>bradový</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2417-001-p1s9a12">
 <a>
@@ -2475,12 +2469,6 @@
 <src>LH</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>bradový</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <annot_comment>
@@ -9020,10 +9008,6 @@
 <type>Coref</type>
 <text>překlad: její (dle Aj kontextu)</text>
 </LM>
-<LM>
-<type>M-lemma</type>
-<text>její</text>
-</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj2417-001-p1s33a13">
@@ -9251,11 +9235,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2417-001-p1s34a13">
 <a>
@@ -9798,11 +9777,6 @@
 <deepord>32</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2417-001-p1s35a38">
 <a>
@@ -10979,11 +10953,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -11715,11 +11684,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <eng_sentence>``Circuit breakers'' set to soften big drops:</eng_sentence>
@@ -13317,11 +13281,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <eng_sentence>-- If Dow Industrials fall 250 points, trading on the Big Board halts for an hour.</eng_sentence>
@@ -13457,11 +13416,6 @@
 <deepord>9</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <eng_sentence>S&amp;P and MMI contracts also halt.</eng_sentence>
@@ -13656,11 +13610,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <eng_sentence>-- If DJIA drops 400 points, Big Board halts trading for two hours.</eng_sentence>
@@ -13839,11 +13788,6 @@
 <deepord>12</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <eng_sentence>Trading in MMI and S&amp;P futures also halted.</eng_sentence>
@@ -16670,11 +16614,6 @@
 <src>LH</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -18511,11 +18450,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -18856,12 +18790,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>$</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -21451,12 +21379,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>$</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -23971,11 +23893,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2417-001-p1s92a24">
 <a>

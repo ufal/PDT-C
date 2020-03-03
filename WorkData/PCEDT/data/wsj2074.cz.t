@@ -144,11 +144,6 @@
 <sempos>n.quant.def</sempos>
 </gram>
 <deepord>10</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2074-001-p1s0a12">
 <a>

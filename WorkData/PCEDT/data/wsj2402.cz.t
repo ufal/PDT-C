@@ -1279,11 +1279,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2402-001-p1s4a33">
 <a>
@@ -6358,12 +6353,6 @@
 <deepord>25</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>kombinačka</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2402-001-p1s26a30">
 <a>
@@ -7006,12 +6995,6 @@
 </annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>výsledný stav</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -9346,11 +9329,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -9518,11 +9496,6 @@
 <deepord>16</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -11125,12 +11098,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>starý</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -12057,11 +12024,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2402-001-p1s45a6">
 <a>
@@ -12557,12 +12519,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Zs</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2402-001-p1s46a8">
 <a>
@@ -12646,12 +12602,6 @@
 <src>LH</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Zs</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

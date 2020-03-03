@@ -128,12 +128,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -785,12 +779,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>31</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1922-001-p1s1a46">
 <a>
@@ -981,12 +969,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno: milión</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1161,12 +1143,6 @@
 <deepord>6</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno: milión</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1362,12 +1338,6 @@
 <deepord>6</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno: milión</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1922-001-p1s4a10">
 <a>
@@ -1459,12 +1429,6 @@
 <deepord>14</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno: milión</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1922-001-p1s4a36">
 <a>
@@ -2487,12 +2451,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>31</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj1922-001-p1s6a40">
 <a>
@@ -3522,12 +3480,6 @@
 <deepord>15</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>považováno za sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

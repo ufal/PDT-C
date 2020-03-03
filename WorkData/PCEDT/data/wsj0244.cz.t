@@ -11,7 +11,8 @@
 <LM id="T-wsj0244-001-p1s0">
 <atree.rf>a#a-wsj0244-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0244-001-p1s0a17">
+<children>
+<LM id="T-wsj0244-001-p1s0a17">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s0W19-Ta</lex.rf>
 </a>
@@ -31,7 +32,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0244-001-p1s0a4">
+<children>
+<LM id="T-wsj0244-001-p1s0a4">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s0W2-Ta</lex.rf>
 </a>
@@ -42,10 +44,13 @@
 <sempos>n.denot.neg</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0244-001-p1s0a6">
+<children>
+<LM id="T-wsj0244-001-p1s0a6">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s0W4-Ta</lex.rf>
-<aux.rf>a#a-wsj0244-001-p1s0W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0244-001-p1s0W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Norsko</t_lemma>
@@ -54,7 +59,9 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0244-001-p1s0a1">
@@ -89,7 +96,8 @@
 <t_lemma>#Percnt</t_lemma>
 <functor>EXT</functor>
 <deepord>5</deepord>
-<children id="T-wsj0244-001-p1s0a9">
+<children>
+<LM id="T-wsj0244-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s0W8-Ta</lex.rf>
 </a>
@@ -100,12 +108,15 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>7</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0244-001-p1s0a8">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s0W7-Ta</lex.rf>
-<aux.rf>a#a-wsj0244-001-p1s0W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0244-001-p1s0W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>říjen</t_lemma>
@@ -143,7 +154,9 @@
 <LM id="T-wsj0244-001-p1s0a15">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s0W14-Ta</lex.rf>
-<aux.rf>a#a-wsj0244-001-p1s0W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0244-001-p1s0W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>září</t_lemma>
@@ -164,10 +177,6 @@
 <sempos>v</sempos>
 </gram>
 <deepord>12</deepord>
-<annot_comment>
-<type>M-lemma</type>
-<text>adjektivum</text>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -176,7 +185,9 @@
 <LM id="T-wsj0244-001-p1s0a18">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s0W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0244-001-p1s0W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0244-001-p1s0W18-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w10007f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -187,7 +198,8 @@
 <sempos>v</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj0244-001-p1s0a24">
+<children>
+<LM id="T-wsj0244-001-p1s0a24">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s0W24-Ta</lex.rf>
 <aux.rf>
@@ -216,7 +228,9 @@
 <LM id="T-wsj0244-001-p1s0a26">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s0W27-Ta</lex.rf>
-<aux.rf>a#a-wsj0244-001-p1s0W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0244-001-p1s0W25-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>měsíc</t_lemma>
@@ -249,7 +263,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<children id="T-wsj0244-001-p1s0a29">
+<children>
+<LM id="T-wsj0244-001-p1s0a29">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s0W28-Ta</lex.rf>
 </a>
@@ -260,21 +275,25 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>19</deepord>
+</LM>
+</children>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
-</children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Norway's unemployment rate for October was 3.6%, unchanged from September but up from 2.6% in the same month last year.</eng_sentence>
 </LM>
 <LM id="T-wsj0244-001-p1s1">
 <atree.rf>a#a-wsj0244-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0244-001-p1s1a1">
+<children>
+<LM id="T-wsj0244-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -342,7 +361,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>6</deepord>
-<children id="T-wsj0244-001-p1s1a6">
+<children>
+<LM id="T-wsj0244-001-p1s1a6">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s1W6-Ta</lex.rf>
 </a>
@@ -353,10 +373,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0244-001-p1s1a8">
+<children>
+<LM id="T-wsj0244-001-p1s1a8">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s1W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0244-001-p1s1W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0244-001-p1s1W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>program</t_lemma>
@@ -403,7 +426,9 @@
 <deepord>10</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -411,7 +436,9 @@
 <LM id="T-wsj0244-001-p1s1a12">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s1W16-Ta</lex.rf>
-<aux.rf>a#a-wsj0244-001-p1s1W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0244-001-p1s1W13-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3328f5_ZU</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -434,7 +461,9 @@
 <LM id="T-wsj0244-001-p1s1a16">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s1W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0244-001-p1s1W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0244-001-p1s1W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>úterý</t_lemma>
@@ -457,7 +486,8 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>15</deepord>
-<children id="T-wsj0244-001-p1s1a18">
+<children>
+<LM id="T-wsj0244-001-p1s1a18">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s1W18-Ta</lex.rf>
 </a>
@@ -469,7 +499,8 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>16</deepord>
-<children id="T-wsj0244-001-p1s1a19">
+<children>
+<LM id="T-wsj0244-001-p1s1a19">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s1W19-Ta</lex.rf>
 </a>
@@ -481,23 +512,23 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>17</deepord>
+</LM>
 </children>
-<annot_comment>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The figure excludes a record number employed by extraordinary government work programs, the Labor Directorate announced Tuesday.</eng_sentence>
 </LM>
 <LM id="T-wsj0244-001-p1s2">
 <atree.rf>a#a-wsj0244-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0244-001-p1s2a1">
+<children>
+<LM id="T-wsj0244-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s2W6-Ta</lex.rf>
 </a>
@@ -513,7 +544,9 @@
 <LM id="T-wsj0244-001-p1s2a8">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s2W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0244-001-p1s2W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0244-001-p1s2W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>říjen</t_lemma>
@@ -523,15 +556,19 @@
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0244-001-p1s0a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0244-001-p1s2a10">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s2W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0244-001-p1s2W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0244-001-p1s2W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>práce</t_lemma>
@@ -540,7 +577,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0244-001-p1s2a11">
+<children>
+<LM id="T-wsj0244-001-p1s2a11">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s2W9-Ta</lex.rf>
 </a>
@@ -551,6 +589,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0244-001-p1s2a12">
@@ -565,7 +604,9 @@
 <LM id="T-wsj0244-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s2W2-Ta</lex.rf>
-<aux.rf>a#a-wsj0244-001-p1s2W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0244-001-p1s2W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>člověk</t_lemma>
@@ -574,10 +615,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0244-001-p1s2a5">
+<children>
+<LM id="T-wsj0244-001-p1s2a5">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s2W5-Ta</lex.rf>
-<aux.rf>a#a-wsj0244-001-p1s2W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0244-001-p1s2W3-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>program</t_lemma>
@@ -586,7 +630,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0244-001-p1s2a6">
+<children>
+<LM id="T-wsj0244-001-p1s2a6">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s2W4-Ta</lex.rf>
 </a>
@@ -597,12 +642,16 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>2</deepord>
+</LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0244-001-p1s1a5</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0244-001-p1s2a14">
@@ -617,7 +666,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0244-001-p1s2a13">
+<children>
+<LM id="T-wsj0244-001-p1s2a13">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s2W12-Ta</lex.rf>
 </a>
@@ -628,6 +678,7 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0244-001-p1s2a19">
@@ -663,7 +714,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj0244-001-p1s2a18">
+<children>
+<LM id="T-wsj0244-001-p1s2a18">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s2W18-Ta</lex.rf>
 </a>
@@ -674,6 +726,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>13</deepord>
+</LM>
 </children>
 </LM>
 </children>
@@ -683,7 +736,9 @@
 <LM id="T-wsj0244-001-p1s2a22">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s2W23-Ta</lex.rf>
-<aux.rf>a#a-wsj0244-001-p1s2W21-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0244-001-p1s2W21-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>136800</t_lemma>
@@ -692,7 +747,8 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj0244-001-p1s2a23">
+<children>
+<LM id="T-wsj0244-001-p1s2a23">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s2W22-Ta</lex.rf>
 </a>
@@ -703,19 +759,24 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>15</deepord>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Including those in the state programs, there were 143,800 Norwegians, or about 6.5% of the work force, without permanent employment in October, up from September's 136,800.</eng_sentence>
 </LM>
 <LM id="T-wsj0244-001-p1s3">
 <atree.rf>a#a-wsj0244-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0244-001-p1s3a1">
+<children>
+<LM id="T-wsj0244-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s3W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0244-001-p1s3W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0244-001-p1s3W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w6251f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -737,7 +798,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0244-001-p1s3a3">
+<children>
+<LM id="T-wsj0244-001-p1s3a3">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s3W2-Ta</lex.rf>
 </a>
@@ -748,7 +810,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0244-001-p1s3a4">
+<children>
+<LM id="T-wsj0244-001-p1s3a4">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s3W3-Ta</lex.rf>
 </a>
@@ -759,10 +822,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0244-001-p1s3a5">
+<children>
+<LM id="T-wsj0244-001-p1s3a5">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s3W5-Ta</lex.rf>
-<aux.rf>a#a-wsj0244-001-p1s3W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0244-001-p1s3W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>nezaměstnaný</t_lemma>
@@ -771,14 +837,19 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0244-001-p1s3a12">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s3W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0244-001-p1s3W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0244-001-p1s3W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>září</t_lemma>
@@ -788,15 +859,19 @@
 </gram>
 <deepord>6</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0244-001-p1s0a15</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0244-001-p1s3a17">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s3W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0244-001-p1s3W7-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0244-001-p1s3W7-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>konec</t_lemma>
@@ -805,7 +880,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0244-001-p1s3a10">
+<children>
+<LM id="T-wsj0244-001-p1s3a10">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s3W9-Ta</lex.rf>
 </a>
@@ -817,20 +893,27 @@
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0244-001-p1s2a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 <annot_comment>
+<LM>
 <type>Secondary preposition</type>
 <text>na konci + 2</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0244-001-p1s3a14">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s3W14-Ta</lex.rf>
-<aux.rf>a#a-wsj0244-001-p1s3W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0244-001-p1s3W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>900</t_lemma>
@@ -843,7 +926,9 @@
 <LM id="T-wsj0244-001-p1s3a16">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s3W16-Ta</lex.rf>
-<aux.rf>a#a-wsj0244-001-p1s3W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0244-001-p1s3W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>78600</t_lemma>
@@ -854,13 +939,15 @@
 <deepord>10</deepord>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The number of people registered as jobless at the end of October declined by 900 from September to 78,600.</eng_sentence>
 </LM>
 <LM id="T-wsj0244-001-p1s4">
 <atree.rf>a#a-wsj0244-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0244-001-p1s4a19">
+<children>
+<LM id="T-wsj0244-001-p1s4a19">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s4W19-Ta</lex.rf>
 </a>
@@ -876,7 +963,9 @@
 <LM id="T-wsj0244-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s4W13-Ta</lex.rf>
-<aux.rf>a#a-wsj0244-001-p1s4W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0244-001-p1s4W9-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w10007f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -899,7 +988,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0244-001-p1s4a3">
+<children>
+<LM id="T-wsj0244-001-p1s4a3">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s4W2-Ta</lex.rf>
 </a>
@@ -910,7 +1000,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0244-001-p1s4a4">
+<children>
+<LM id="T-wsj0244-001-p1s4a4">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s4W3-Ta</lex.rf>
 </a>
@@ -921,10 +1012,13 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>3</deepord>
-<children id="T-wsj0244-001-p1s4a6">
+<children>
+<LM id="T-wsj0244-001-p1s4a6">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s4W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0244-001-p1s4W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0244-001-p1s4W4-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>program</t_lemma>
@@ -945,7 +1039,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0244-001-p1s4a8">
+<children>
+<LM id="T-wsj0244-001-p1s4a8">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s4W5-Ta</lex.rf>
 </a>
@@ -957,10 +1052,13 @@
 </gram>
 <deepord>4</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0244-001-p1s0a6</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0244-001-p1s4a9">
@@ -976,14 +1074,19 @@
 <deepord>6</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0244-001-p1s4a12">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s4W12-Ta</lex.rf>
-<aux.rf>a#a-wsj0244-001-p1s4W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0244-001-p1s4W10-Ta</LM>
+</aux.rf>
 </a>
 <coref_special>segm</coref_special>
 <nodetype>complex</nodetype>
@@ -993,7 +1096,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0244-001-p1s4a13">
+<children>
+<LM id="T-wsj0244-001-p1s4a13">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s4W11-Ta</lex.rf>
 </a>
@@ -1004,12 +1108,15 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0244-001-p1s4a15">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s4W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0244-001-p1s4W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0244-001-p1s4W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>7400</t_lemma>
@@ -1022,7 +1129,9 @@
 <LM id="T-wsj0244-001-p1s4a17">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s4W17-Ta</lex.rf>
-<aux.rf>a#a-wsj0244-001-p1s4W16-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0244-001-p1s4W16-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>65200</t_lemma>
@@ -1046,22 +1155,28 @@
 </gram>
 <deepord>14</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0244-001-p1s1a17</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>Those employed in state-funded special programs increased by 7,400 to 65,200 in the same period, the Directorate said.</eng_sentence>
 </LM>
 <LM id="T-wsj0244-001-p1s5">
 <atree.rf>a#a-wsj0244-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0244-001-p1s5a5">
+<children>
+<LM id="T-wsj0244-001-p1s5a5">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s5W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0244-001-p1s5W4-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0244-001-p1s5W4-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w8943f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1082,7 +1197,9 @@
 <LM id="T-wsj0244-001-p1s5a3">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s5W2-Ta</lex.rf>
-<aux.rf>a#a-wsj0244-001-p1s5W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0244-001-p1s5W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>říjen</t_lemma>
@@ -1091,7 +1208,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0244-001-p1s5a4">
+<children>
+<LM id="T-wsj0244-001-p1s5a4">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s5W3-Ta</lex.rf>
 </a>
@@ -1103,21 +1221,28 @@
 </gram>
 <deepord>3</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0244-001-p1s0a28</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0244-001-p1s0a26</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0244-001-p1s5a7">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s5W7-Ta</lex.rf>
-<aux.rf>a#a-wsj0244-001-p1s5W5-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0244-001-p1s5W5-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>program</t_lemma>
@@ -1126,7 +1251,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<children id="T-wsj0244-001-p1s5a8">
+<children>
+<LM id="T-wsj0244-001-p1s5a8">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s5W6-Ta</lex.rf>
 </a>
@@ -1137,6 +1263,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>4</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0244-001-p1s5a9">
@@ -1150,10 +1277,13 @@
 <sempos>adj.quant.grad</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0244-001-p1s5a12">
+<children>
+<LM id="T-wsj0244-001-p1s5a12">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s5W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0244-001-p1s5W9-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0244-001-p1s5W9-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>člověk</t_lemma>
@@ -1162,7 +1292,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0244-001-p1s5a11">
+<children>
+<LM id="T-wsj0244-001-p1s5a11">
 <a>
 <lex.rf>a#a-wsj0244-001-p1s5W10-Ta</lex.rf>
 </a>
@@ -1173,10 +1304,13 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>7</deepord>
-</children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>In October 1988, there were 40,800 fewer employed by government programs.</eng_sentence>
 </LM>

@@ -11,7 +11,8 @@
 <LM id="T-wsj0489-001-p1s0">
 <atree.rf>a#a-wsj0489-001-p1s0</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0489-001-p1s0a2">
+<children>
+<LM id="T-wsj0489-001-p1s0a2">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s0W12-Ta</lex.rf>
 </a>
@@ -86,7 +87,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0489-001-p1s0a10">
+<children>
+<LM id="T-wsj0489-001-p1s0a10">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s0W6-Ta</lex.rf>
 </a>
@@ -97,7 +99,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>9</deepord>
-<children id="T-wsj0489-001-p1s0a45">
+<children>
+<LM id="T-wsj0489-001-p1s0a45">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
@@ -153,7 +156,9 @@
 <deepord>18</deepord>
 </LM>
 </children>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -169,7 +174,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj0489-001-p1s0a1">
+<children>
+<LM id="T-wsj0489-001-p1s0a1">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s0W16-Ta</lex.rf>
 </a>
@@ -190,7 +196,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>13</deepord>
-<children id="T-wsj0489-001-p1s0a9">
+<children>
+<LM id="T-wsj0489-001-p1s0a9">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s0W15-Ta</lex.rf>
 </a>
@@ -201,15 +208,7 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
 </LM>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </children>
 </LM>
 <LM id="T-wsj0489-001-p1s0a44">
@@ -225,7 +224,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj0489-001-p1s0a17">
+<children>
+<LM id="T-wsj0489-001-p1s0a17">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s0W17-Ta</lex.rf>
 </a>
@@ -236,13 +236,11 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>Velké písmeno uprostřed slova: C</text>
-</annot_comment>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0489-001-p1s0a46">
@@ -257,7 +255,9 @@
 <LM id="T-wsj0489-001-p1s0a19">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s0W24-Ta</lex.rf>
-<aux.rf>a#a-wsj0489-001-p1s0W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0489-001-p1s0W18-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>sdružení</t_lemma>
@@ -279,10 +279,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0489-001-p1s0a20">
 <a>
@@ -336,7 +332,9 @@
 <LM id="T-wsj0489-001-p1s0a26">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s0W26-Ta</lex.rf>
-<aux.rf>a#a-wsj0489-001-p1s0W25-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0489-001-p1s0W25-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Omaha</t_lemma>
@@ -345,10 +343,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>28</deepord>
-<children id="T-wsj0489-001-p1s0a28">
+<children>
+<LM id="T-wsj0489-001-p1s0a28">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s0W28-Ta</lex.rf>
-<aux.rf>a#a-wsj0489-001-p1s0W27-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0489-001-p1s0W27-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>stát</t_lemma>
@@ -357,7 +358,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>29</deepord>
-<children id="T-wsj0489-001-p1s0a29">
+<children>
+<LM id="T-wsj0489-001-p1s0a29">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s0W29-Ta</lex.rf>
 </a>
@@ -368,19 +370,25 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>30</deepord>
+</LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>nP</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0489-001-p1s0a30">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s0W32-Ta</lex.rf>
-<aux.rf>a#a-wsj0489-001-p1s0W18-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0489-001-p1s0W18-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w243f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -396,7 +404,9 @@
 <a>
 <lex.rf>a#a-wsj0489-001-p1s0W31-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0489-001-p1s0a19</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0489-001-p1s0a19</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>co</t_lemma>
 <functor>ACT</functor>
@@ -416,7 +426,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>33</deepord>
-<children id="T-wsj0489-001-p1s0a34">
+<children>
+<LM id="T-wsj0489-001-p1s0a34">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s0W34-Ta</lex.rf>
 </a>
@@ -476,7 +487,9 @@
 <LM id="T-wsj0489-001-p1s0a40">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s0W40-Ta</lex.rf>
-<aux.rf>a#a-wsj0489-001-p1s0W39-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0489-001-p1s0W39-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Omaha</t_lemma>
@@ -486,29 +499,36 @@
 </gram>
 <deepord>40</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0489-001-p1s0a26</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
-</children>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>General Electric Capital Corp.'s Monogram Bank USA acquired a Visa and MasterCard portfolio from Commercial Federal Savings &amp; Loan Association, an Omaha, Neb., unit of Commercial Federal Corp. of Omaha.</eng_sentence>
 </LM>
 <LM id="T-wsj0489-001-p1s1">
 <atree.rf>a#a-wsj0489-001-p1s1</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0489-001-p1s1a1">
+<children>
+<LM id="T-wsj0489-001-p1s1a1">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s1W4-Ta</lex.rf>
-<aux.rf>a#a-wsj0489-001-p1s1W3-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0489-001-p1s1W3-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w9966f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -537,7 +557,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0489-001-p1s1a3">
+<children>
+<LM id="T-wsj0489-001-p1s1a3">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s1W2-Ta</lex.rf>
 </a>
@@ -549,10 +570,13 @@
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0489-001-p1s0a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0489-001-p1s1a5">
@@ -563,16 +587,15 @@
 <deepord>4</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
+</LM>
 </children>
 <eng_sentence>Terms weren't disclosed.</eng_sentence>
 </LM>
 <LM id="T-wsj0489-001-p1s2">
 <atree.rf>a#a-wsj0489-001-p1s2</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0489-001-p1s2a1">
+<children>
+<LM id="T-wsj0489-001-p1s2a1">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s2W4-Ta</lex.rf>
 </a>
@@ -596,7 +619,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0489-001-p1s2a4">
+<children>
+<LM id="T-wsj0489-001-p1s2a4">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s2W3-Ta</lex.rf>
 </a>
@@ -607,7 +631,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0489-001-p1s2a3">
+<children>
+<LM id="T-wsj0489-001-p1s2a3">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s2W2-Ta</lex.rf>
 </a>
@@ -618,18 +643,24 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0489-001-p1s0a10</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0489-001-p1s2a7">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s2W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0489-001-p1s2W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0489-001-p1s2W6-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w2561f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -652,15 +683,19 @@
 </gram>
 <deepord>5</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0489-001-p1s0a7</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0489-001-p1s2a18">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s2W10-Ta</lex.rf>
-<aux.rf>a#a-wsj0489-001-p1s2W8-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0489-001-p1s2W8-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>doba</t_lemma>
@@ -669,7 +704,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<children id="T-wsj0489-001-p1s2a11">
+<children>
+<LM id="T-wsj0489-001-p1s2a11">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s2W9-Ta</lex.rf>
 </a>
@@ -680,6 +716,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0489-001-p1s2a13">
@@ -721,7 +758,9 @@
 <LM id="T-wsj0489-001-p1s2a16">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s2W16-Ta</lex.rf>
-<aux.rf>a#a-wsj0489-001-p1s2W15-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0489-001-p1s2W15-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>pohledávka</t_lemma>
@@ -736,13 +775,15 @@
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>The portfolio currently includes $95 million in receivables, GE Capital said.</eng_sentence>
 </LM>
 <LM id="T-wsj0489-001-p1s3">
 <atree.rf>a#a-wsj0489-001-p1s3</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0489-001-p1s3a1">
+<children>
+<LM id="T-wsj0489-001-p1s3a1">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s3W4-Ta</lex.rf>
 </a>
@@ -766,7 +807,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0489-001-p1s3a3">
+<children>
+<LM id="T-wsj0489-001-p1s3a3">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s3W3-Ta</lex.rf>
 </a>
@@ -777,7 +819,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0489-001-p1s3a4">
+<children>
+<LM id="T-wsj0489-001-p1s3a4">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s3W2-Ta</lex.rf>
 </a>
@@ -788,12 +831,16 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0489-001-p1s2a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0489-001-p1s3a5">
@@ -811,7 +858,9 @@
 <LM id="T-wsj0489-001-p1s3a7">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s3W8-Ta</lex.rf>
-<aux.rf>a#a-wsj0489-001-p1s3W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0489-001-p1s3W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>služba</t_lemma>
@@ -820,7 +869,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>7</deepord>
-<children id="T-wsj0489-001-p1s3a8">
+<children>
+<LM id="T-wsj0489-001-p1s3a8">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s3W7-Ta</lex.rf>
 </a>
@@ -831,6 +881,7 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>6</deepord>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0489-001-p1s3a9">
@@ -896,7 +947,9 @@
 <LM id="T-wsj0489-001-p1s3a15">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s3W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0489-001-p1s3W14-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0489-001-p1s3W14-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>město</t_lemma>
@@ -921,7 +974,9 @@
 <LM id="T-wsj0489-001-p1s3a18">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s3W18-Ta</lex.rf>
-<aux.rf>a#a-wsj0489-001-p1s3W17-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0489-001-p1s3W17-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Connecticut</t_lemma>
@@ -950,7 +1005,9 @@
 <a>
 <lex.rf>a#a-wsj0489-001-p1s3W20-Ta</lex.rf>
 </a>
-<coref_gram.rf>T-wsj0489-001-p1s3a9</coref_gram.rf>
+<coref_gram.rf>
+<LM>T-wsj0489-001-p1s3a9</LM>
+</coref_gram.rf>
 <nodetype>complex</nodetype>
 <t_lemma>který</t_lemma>
 <functor>ACT</functor>
@@ -1023,8 +1080,10 @@
 </LM>
 </children>
 <annot_comment>
+<LM>
 <type>New valency frame</type>
 <text>P</text>
+</LM>
 </annot_comment>
 </LM>
 <LM id="T-wsj0489-001-p1s3a28">
@@ -1043,7 +1102,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>26</deepord>
-<children id="T-wsj0489-001-p1s3a29">
+<children>
+<LM id="T-wsj0489-001-p1s3a29">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s3W28-Ta</lex.rf>
 </a>
@@ -1054,7 +1114,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>25</deepord>
-</children>
 </LM>
 </children>
 </LM>
@@ -1065,13 +1124,17 @@
 </children>
 </LM>
 </children>
+</LM>
+</children>
+</LM>
 </children>
 <eng_sentence>GE Capital is a financial services subsidiary of General Electric Co. of Fairfield, Conn., which also has broadcasting and electrical-products businesses.</eng_sentence>
 </LM>
 <LM id="T-wsj0489-001-p1s4">
 <atree.rf>a#a-wsj0489-001-p1s4</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0489-001-p1s4a1">
+<children>
+<LM id="T-wsj0489-001-p1s4a1">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s4W4-Ta</lex.rf>
 </a>
@@ -1095,7 +1158,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<children id="T-wsj0489-001-p1s4a4">
+<children>
+<LM id="T-wsj0489-001-p1s4a4">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s4W3-Ta</lex.rf>
 </a>
@@ -1106,7 +1170,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<children id="T-wsj0489-001-p1s4a3">
+<children>
+<LM id="T-wsj0489-001-p1s4a3">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s4W2-Ta</lex.rf>
 </a>
@@ -1117,12 +1182,16 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>3</deepord>
+</LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0489-001-p1s3a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0489-001-p1s4a7">
@@ -1172,10 +1241,6 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0489-001-p1s4a10">
 <a>
@@ -1228,9 +1293,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0489-001-p1s0a46</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0489-001-p1s4a20">
@@ -1265,7 +1332,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>15</deepord>
-<children id="T-wsj0489-001-p1s4a19">
+<children>
+<LM id="T-wsj0489-001-p1s4a19">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s4W20-Ta</lex.rf>
 </a>
@@ -1286,7 +1354,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>16</deepord>
-<children id="T-wsj0489-001-p1s4a18">
+<children>
+<LM id="T-wsj0489-001-p1s4a18">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s4W19-Ta</lex.rf>
 </a>
@@ -1297,20 +1366,14 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>17</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
 </LM>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0489-001-p1s0a8</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0489-001-p1s4a40">
@@ -1326,7 +1389,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj0489-001-p1s4a21">
+<children>
+<LM id="T-wsj0489-001-p1s4a21">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s4W21-Ta</lex.rf>
 </a>
@@ -1337,18 +1401,18 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>Velké písmeno uprostřed slova: C</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0489-001-p1s0a44</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 <LM id="T-wsj0489-001-p1s4a24">
@@ -1371,7 +1435,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>22</deepord>
-<children id="T-wsj0489-001-p1s4a27">
+<children>
+<LM id="T-wsj0489-001-p1s4a27">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s4W25-Ta</lex.rf>
 </a>
@@ -1382,21 +1447,22 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>21</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</annot_comment>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0489-001-p1s0a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0489-001-p1s4a25">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s4W26-Ta</lex.rf>
-<aux.rf>a#a-wsj0489-001-p1s4W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0489-001-p1s4W23-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w3978f3</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1426,7 +1492,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>28</deepord>
-<children id="T-wsj0489-001-p1s4a28">
+<children>
+<LM id="T-wsj0489-001-p1s4a28">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s4W29-Ta</lex.rf>
 </a>
@@ -1447,9 +1514,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>25</deepord>
-<annot_comment>
-<type>M-tag</type>
-</annot_comment>
 </LM>
 <LM id="T-wsj0489-001-p1s4a32">
 <a>
@@ -1465,6 +1529,7 @@
 <deepord>29</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
@@ -1472,7 +1537,9 @@
 <LM id="T-wsj0489-001-p1s4a35">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s4W35-Ta</lex.rf>
-<aux.rf>a#a-wsj0489-001-p1s4W23-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0489-001-p1s4W23-Ta</LM>
+</aux.rf>
 </a>
 <val_frame.rf>v#v-w7650f1</val_frame.rf>
 <nodetype>complex</nodetype>
@@ -1518,22 +1585,21 @@
 <deepord>33</deepord>
 </LM>
 </children>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>GE Capital said Commercial Federal Savings will continue to market Visa and MasterCard programs while Monogram provides ``operational and marketing support'' and actually owns the accounts.</eng_sentence>
 </LM>
 <LM id="T-wsj0489-001-p1s5">
 <atree.rf>a#a-wsj0489-001-p1s5</atree.rf>
 <deepord>0</deepord>
-<children id="T-wsj0489-001-p1s5a1">
+<children>
+<LM id="T-wsj0489-001-p1s5a1">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s5W21-Ta</lex.rf>
 </a>
@@ -1563,7 +1629,9 @@
 <LM id="T-wsj0489-001-p1s5a3">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s5W2-Ta</lex.rf>
-<aux.rf>a#a-wsj0489-001-p1s5W1-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0489-001-p1s5W1-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>akvizice</t_lemma>
@@ -1573,9 +1641,11 @@
 </gram>
 <deepord>1</deepord>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0489-001-p1s1a3</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0489-001-p1s5a4">
@@ -1601,15 +1671,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</annot_comment>
 </LM>
 <LM id="T-wsj0489-001-p1s5a8">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s5W7-Ta</lex.rf>
-<aux.rf>a#a-wsj0489-001-p1s5W6-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0489-001-p1s5W6-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>město</t_lemma>
@@ -1655,7 +1723,9 @@
 <LM id="T-wsj0489-001-p1s5a12">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s5W11-Ta</lex.rf>
-<aux.rf>a#a-wsj0489-001-p1s5W10-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0489-001-p1s5W10-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>Ohio</t_lemma>
@@ -1669,9 +1739,11 @@
 </LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0489-001-p1s4a26</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 <LM id="T-wsj0489-001-p1s5a13">
@@ -1685,10 +1757,13 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<children id="T-wsj0489-001-p1s5a15">
+<children>
+<LM id="T-wsj0489-001-p1s5a15">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s5W15-Ta</lex.rf>
-<aux.rf>a#a-wsj0489-001-p1s5W13-Ta</aux.rf>
+<aux.rf>
+<LM>a#a-wsj0489-001-p1s5W13-Ta</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hodnota</t_lemma>
@@ -1721,7 +1796,8 @@
 <sempos>adj.denot</sempos>
 </gram>
 <deepord>14</deepord>
-<children id="T-wsj0489-001-p1s5a19">
+<children>
+<LM id="T-wsj0489-001-p1s5a19">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s5W18-Ta</lex.rf>
 </a>
@@ -1758,15 +1834,14 @@
 <deepord>17</deepord>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
+</LM>
 </children>
 </LM>
 </children>
-<annot_comment>
-<type>M-lemma</type>
-</annot_comment>
 </LM>
 <LM id="T-wsj0489-001-p1s5a22">
 <a>
@@ -1779,7 +1854,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>18</deepord>
-<children id="T-wsj0489-001-p1s5a24">
+<children>
+<LM id="T-wsj0489-001-p1s5a24">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s5W24-Ta</lex.rf>
 </a>
@@ -1790,7 +1866,8 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>19</deepord>
-<children id="T-wsj0489-001-p1s5a23">
+<children>
+<LM id="T-wsj0489-001-p1s5a23">
 <a>
 <lex.rf>a#a-wsj0489-001-p1s5W23-Ta</lex.rf>
 </a>
@@ -1801,15 +1878,20 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>20</deepord>
+</LM>
 </children>
+</LM>
 </children>
 <coref_text>
+<LM>
 <target-node.rf>T-wsj0489-001-p1s4a2</target-node.rf>
 <informal-type>SPEC</informal-type>
 <src>LH</src>
+</LM>
 </coref_text>
 </LM>
 </children>
+</LM>
 </children>
 <eng_sentence>With the acquisition, Monogram, Blue Ash, Ohio, has more than 2.4 million total accounts, GE Capital added.</eng_sentence>
 </LM>
