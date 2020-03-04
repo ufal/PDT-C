@@ -472,10 +472,9 @@
 <tag>
 <AM lemma="letý" src="auto">AAIS2----1A----</AM>
 <AM lemma="letý" src="auto">AAMS2----1A----</AM>
-<AM lemma="letý" src="auto" recommended="1">AAMS4----1A----</AM>
+<AM lemma="letý" src="auto" recommended="1" selected="1">AAMS4----1A----</AM>
 <AM lemma="letý" src="auto">AANS2----1A----</AM>
 </tag>
-<form_change>spell</form_change>
 </m>
 <m id="m-wsj0066-001-p1s1W5-Ta">
 <src.rf>tagger-a</src.rf>

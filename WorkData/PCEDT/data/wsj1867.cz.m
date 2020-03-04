@@ -6723,7 +6723,7 @@
 <form_change>spell</form_change>
 <form>indikujících</form>
 <tag>
-<AM lemma="indikující_^(*5ovat)" src="auto" recommended="1">AGFP2-----A----</AM>
+<AM lemma="indikující_^(*5ovat)" src="auto" recommended="1" selected="1">AGFP2-----A----</AM>
 <AM lemma="indikující_^(*5ovat)" src="auto">AGFP6-----A----</AM>
 <AM lemma="indikující_^(*5ovat)" src="auto">AGIP2-----A----</AM>
 <AM lemma="indikující_^(*5ovat)" src="auto">AGIP6-----A----</AM>
@@ -6732,7 +6732,6 @@
 <AM lemma="indikující_^(*5ovat)" src="auto">AGNP2-----A----</AM>
 <AM lemma="indikující_^(*5ovat)" src="auto">AGNP6-----A----</AM>
 </tag>
-<form_change>spell</form_change>
 </m>
 <m id="m-wsj1867-001-p1s33W20-Ta">
 <src.rf>tagger-a</src.rf>
@@ -6758,7 +6757,8 @@
 <form>kupon</form>
 <tag>
 <AM lemma="kupón" src="auto" recommended="1">NNIS1-----A----</AM>
-<AM lemma="kupón" src="auto" selected="1">NNIS4-----A----</AM>
+<AM lemma="kupón" src="auto">NNIS4-----A----</AM>
+<AM lemma="kupon_,s_^(^DD**kupón)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-wsj1867-001-p1s33W23-Ta">

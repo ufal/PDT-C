@@ -15928,14 +15928,14 @@
 <w.rf>
 <LM>w#w-wsj1743-001-p1s57W4</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>pobočky</form>
 <tag>
 <AM lemma="pobočka" src="auto">NNFP1-----A----</AM>
 <AM lemma="pobočka" src="auto">NNFP4-----A----</AM>
 <AM lemma="pobočka" src="auto">NNFP5-----A----</AM>
-<AM lemma="pobočka" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="pobočka" src="auto" recommended="1" selected="1">NNFS2-----A----</AM>
 </tag>
-<form_change>spell</form_change>
 </m>
 <m id="m-wsj1743-001-p1s57W5-Ta">
 <src.rf>tagger-a</src.rf>

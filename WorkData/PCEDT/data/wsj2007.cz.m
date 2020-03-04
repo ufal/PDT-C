@@ -7322,11 +7322,10 @@
 <form_change>spell</form_change>
 <form>získanému</form>
 <tag>
-<AM lemma="získaný_^(*2t)" src="auto" recommended="1">AAIS3----1A----</AM>
+<AM lemma="získaný_^(*2t)" src="auto" recommended="1" selected="1">AAIS3----1A----</AM>
 <AM lemma="získaný_^(*2t)" src="auto">AAMS3----1A----</AM>
 <AM lemma="získaný_^(*2t)" src="auto">AANS3----1A----</AM>
 </tag>
-<form_change>spell</form_change>
 </m>
 <m id="m-wsj2007-001-p1s24W13-Ta">
 <src.rf>tagger-a</src.rf>

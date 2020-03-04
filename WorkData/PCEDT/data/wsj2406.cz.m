@@ -741,12 +741,13 @@
 <w.rf>
 <LM>w#w-wsj2406-001-p1s3W3</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>si</form>
 <tag>
 <AM lemma="být" src="auto">VB-S---2P-AAI-7</AM>
 <AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X3----------</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="manual" selected="1">P7--3----------</AM>
 </tag>
-<form_change>spell</form_change>
 </m>
 <m id="m-wsj2406-001-p1s3W4-Ta">
 <src.rf>tagger-a</src.rf>
@@ -7747,11 +7748,9 @@
 <w.rf>
 <LM>w#w-wsj2406-001-p1s28W20</LM>
 </w.rf>
-<form>životě</form>
-<tag>
-<AM lemma="život" src="auto" recommended="1">NNIS6-----A----</AM>
-</tag>
 <form_change>spell</form_change>
+<form>životě</form>
+<tag lemma="život" src="auto" recommended="1">NNIS6-----A----</tag>
 </m>
 <m id="m-wsj2406-001-p1s28W21-Ta">
 <src.rf>tagger-a</src.rf>
