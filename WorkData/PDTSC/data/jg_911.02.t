@@ -4173,12 +4173,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4196,11 +4190,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>8</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4710,11 +4699,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="jg-12941_01.02-SCzechT-m-d1t849-3">
 <a>
@@ -7001,6 +6985,12 @@
 </gram>
 <is_state>1</is_state>
 <deepord>3</deepord>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>nP</text>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>jg-12941_01.02-SCzechT-m-d1t908-3</target-node.rf>
@@ -7008,12 +6998,6 @@
 <src>lenk</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>nP</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="jg-12941_01.02-SCzechT-m-d1t928-9">
 <a>

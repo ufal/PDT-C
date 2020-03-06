@@ -649,12 +649,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>změněno z instrumentálu na nominativ</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3363,12 +3357,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>změněno ze substantiva taka na adverbium taky</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

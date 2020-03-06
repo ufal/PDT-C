@@ -1701,12 +1701,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml_124.08-SCzechT-m-d1t1342-16">
 <a>
@@ -4456,12 +4450,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno "chodovská"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -4618,12 +4606,6 @@
 <deepord>5</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno t-lemma "aut"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

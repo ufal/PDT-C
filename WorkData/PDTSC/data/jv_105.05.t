@@ -1393,12 +1393,6 @@
 <src>mark</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="jv_105.05-SCzechT-jv_105-d1e1215-x2-n5">
 <nodetype>complex</nodetype>
@@ -1624,11 +1618,6 @@
 <number>sg</number>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="jv_105.05-SCzechT-m-d1t1230-6">
 <a>

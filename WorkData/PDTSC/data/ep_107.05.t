@@ -4378,12 +4378,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>7</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>lemma upraveno na plurál a dopsáno velké počáteční písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ep_107.05-SCzechT-m-d1t1120-30">
 <a>
@@ -5471,12 +5465,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>lemma změněno na plurál</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5818,12 +5806,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno; lemma změněno na plurál</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ep_107.05-SCzechT-m-d1t1139-30">
 <a>
@@ -6916,12 +6898,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>lemma změněno na plurál</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ep_107.05-SCzechT-m-d1t1152-12">
 <a>

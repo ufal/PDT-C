@@ -6049,11 +6049,6 @@
 <functor>PARTL</functor>
 <sentmod>enunc</sentmod>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ep_141.01-SCzechT-ep_141-d1e298-x2-roota4">
 <nodetype>complex</nodetype>

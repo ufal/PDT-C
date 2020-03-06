@@ -313,12 +313,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno, jiný tvar</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -708,11 +702,6 @@
 <deepord>5</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3992,12 +3981,6 @@
 <t_lemma>netáhlo</t_lemma>
 <functor>PAT</functor>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>není sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5252,11 +5235,6 @@
 <deepord>3</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="hs_049.16-SCzechT-m-d1t4200-4">
 <a>
@@ -5273,11 +5251,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="hs_049.16-SCzechT-m-d1t4200-8">
 <a>
@@ -5669,11 +5642,6 @@
 <src>coref</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="hs_049.16-SCzechT-m-d1t4211-3">
 <a>
@@ -5706,11 +5674,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

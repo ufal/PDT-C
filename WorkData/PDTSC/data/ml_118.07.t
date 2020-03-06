@@ -2097,12 +2097,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml_118.07-SCzechT-m-d1t1324-20">
 <a>

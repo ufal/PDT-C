@@ -1663,12 +1663,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>změněno ze substantiva "peklo" na sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3767,12 +3761,6 @@
 <deepord>6</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>pasivní konstrukce - změněno na sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml_014.02-SCzechT-m-d1t891-1">
 <a>
@@ -4820,11 +4808,6 @@
 <t_lemma>zato</t_lemma>
 <functor>CM</functor>
 <deepord>9</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml_014.02-SCzechT-ml_014-992-roota7">
 <nodetype>qcomplex</nodetype>
@@ -6180,12 +6163,6 @@
 <deepord>3</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>změněno ze slova "part" na slovo "parta"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6865,11 +6842,6 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml_014.02-SCzechT-m-d1t1059-17">
 <a>

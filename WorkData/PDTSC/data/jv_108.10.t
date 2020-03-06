@@ -93,12 +93,6 @@
 <functor>ATT</functor>
 <is_parenthesis>1</is_parenthesis>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>kleslá parenteze</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="jv_108.10-SCzechT-jv_108-d1e1804-x2-roota1">
 <nodetype>complex</nodetype>
@@ -1083,11 +1077,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="jv_108.10-SCzechT-m-d1t1835-6">
 <a>
@@ -2116,11 +2105,6 @@
 <src>anna</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <bridging>

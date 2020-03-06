@@ -166,12 +166,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>femininum</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1308,12 +1302,6 @@
 <functor>PARTL</functor>
 <is_parenthesis>1</is_parenthesis>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>částice/citoslovce</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ez_126.00-SCzechT-m-d1t55-7">
 <a>

@@ -187,12 +187,6 @@
 <deepord>10</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>lépe #Comma</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -710,11 +704,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>17</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1083,11 +1072,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>10</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1616,12 +1600,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ps_112.02-SCzechT-m-d1t626-11">
 <a>
@@ -6268,11 +6246,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>21</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6729,12 +6702,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ps_112.02-SCzechT-m-d1t748-4">
 <a>
@@ -7453,12 +7420,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ps_112.02-SCzechT-m-d1t768-13">
 <a>
@@ -7505,20 +7466,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>9</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

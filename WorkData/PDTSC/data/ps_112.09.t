@@ -361,11 +361,6 @@
 <functor>ATT</functor>
 <is_parenthesis>1</is_parenthesis>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ps_112.09-SCzechT-m-d1t2293-4">
 <a>
@@ -1694,11 +1689,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>

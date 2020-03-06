@@ -983,12 +983,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2807,6 +2801,12 @@
 <deepord>1</deepord>
 </LM>
 </children>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>P</text>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>es_135.09-SCzechT-m-d1t1684-18</target-node.rf>
@@ -2814,12 +2814,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>P</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_135.09-SCzechT-es_135-d1e1689-x3-roota2">
 <nodetype>qcomplex</nodetype>
@@ -3239,6 +3233,12 @@
 </coref_text>
 </LM>
 </children>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>P</text>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>es_135.09-SCzechT-m-d1t1684-23</target-node.rf>
@@ -3246,12 +3246,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>P</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -3639,12 +3633,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>7</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7851,12 +7839,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>7</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_135.09-SCzechT-m-d1t1786-12">
 <a>
@@ -8038,12 +8020,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

@@ -420,11 +420,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1824,11 +1819,6 @@
 <src>lenk</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1973,11 +1963,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4907,11 +4892,6 @@
 <functor>PARTL</functor>
 <sentmod>inter</sentmod>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

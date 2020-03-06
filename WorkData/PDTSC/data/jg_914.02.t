@@ -242,12 +242,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>14</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -923,12 +917,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>8</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1076,11 +1064,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>7</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="jg-12941_04.02-SCzechT-m-d1t867-4">
 <a>
@@ -2991,12 +2974,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -3096,11 +3073,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3420,11 +3392,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5373,12 +5340,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>9</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5400,11 +5361,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>12</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5981,12 +5937,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>10</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6189,12 +6139,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>9</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="jg-12941_04.02-SCzechT-m-d1t1031-2">
 <a>
@@ -6407,11 +6351,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8313,6 +8252,12 @@
 </children>
 </LM>
 </children>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>nP</text>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>jg-12941_04.02-SCzechT-m-d1t1096-4</target-node.rf>
@@ -8320,12 +8265,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>nP</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="jg-12941_04.02-SCzechT-jg-12941_04-1571-roota4">
 <nodetype>qcomplex</nodetype>

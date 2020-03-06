@@ -153,11 +153,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>7</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk-26171_01.04-SCzechT-m-d1t984-6">
 <a>
@@ -426,11 +421,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk-26171_01.04-SCzechT-m-d1t990-4">
 <a>
@@ -913,11 +903,6 @@
 <deepord>6</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk-26171_01.04-SCzechT-lk-26171_01-d1e875-x15-roota1">
 <a>
@@ -952,11 +937,6 @@
 <deepord>9</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk-26171_01.04-SCzechT-lk-26171_01-d1e875-x15-roota2">
 <a>
@@ -991,11 +971,6 @@
 <deepord>11</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2030,11 +2005,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>11</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk-26171_01.04-SCzechT-lk-26171_01-288-roota2">
 <a>
@@ -6748,14 +6718,6 @@
 <sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk-26171_01.04-SCzechT-lk-26171_01-d1e1136-x4-n10">
 <nodetype>complex</nodetype>
@@ -9516,11 +9478,6 @@
 <deepord>9</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -9678,11 +9635,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

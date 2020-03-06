@@ -687,15 +687,6 @@
 <t_lemma>Prosím</t_lemma>
 <functor>PARTL</functor>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>ustrnulý tvar</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4246,11 +4237,6 @@
 <deepord>7</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4474,11 +4460,6 @@
 <t_lemma>zato</t_lemma>
 <functor>PREC</functor>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="jv_105.09-SCzechT-m-d1t2216-4">
 <a>
@@ -4872,11 +4853,6 @@
 <sempos>adv.denot.grad.neg</sempos>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="jv_105.09-SCzechT-m-d1t2221-10">
 <a>
@@ -5306,15 +5282,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="jv_105.09-SCzechT-m-d1t2246-11">
 <a>
@@ -5388,15 +5355,6 @@
 <t_lemma>prosím_tě</t_lemma>
 <functor>PARTL</functor>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>ustrnulý tvar</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="jv_105.09-SCzechT-m-d1t2246-15">
 <a>
@@ -5419,11 +5377,6 @@
 <src>mark</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="jv_105.09-SCzechT-jv_105-107-roota2">
 <nodetype>complex</nodetype>
@@ -5457,11 +5410,6 @@
 <deepord>5</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

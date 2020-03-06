@@ -1173,11 +1173,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="pk_015.06-SCzechT-m-d1t1504-23">
 <a>
@@ -1841,12 +1836,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1910,12 +1899,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="pk_015.06-SCzechT-m-d1t1542-5">
 <a>
@@ -2009,12 +1992,6 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4876,12 +4853,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>9</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5426,11 +5397,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>7</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="pk_015.06-SCzechT-pk_015-98-roota2">
 <nodetype>qcomplex</nodetype>
@@ -7031,11 +6997,6 @@
 <src>mark</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="pk_015.06-SCzechT-m-d1t1650-26">
 <a>
@@ -8425,11 +8386,6 @@
 <deepord>11</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8504,9 +8460,6 @@
 </LM>
 </children>
 <annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
 <LM>
 <type>Other</type>
 <text>změněn gram/sempos z n.denot na v pro přiřazení valenčního rámce</text>

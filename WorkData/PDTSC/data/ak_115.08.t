@@ -133,12 +133,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ak_115.08-SCzechT-m-d1t1261-43">
 <a>
@@ -1053,12 +1047,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2429,12 +2417,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>8</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -6475,6 +6457,12 @@
 <deepord>2</deepord>
 </LM>
 </children>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>P</text>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>ak_115.08-SCzechT-m-d1t1375-16</target-node.rf>
@@ -6482,12 +6470,6 @@
 <src>vojt</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>P</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ak_115.08-SCzechT-ak_115-505-roota2">
 <nodetype>complex</nodetype>
@@ -6731,12 +6713,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

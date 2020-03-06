@@ -2795,12 +2795,6 @@
 <src>coref</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>zájmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk_016.01-SCzechT-m-d1t594-4">
 <a>
@@ -5729,12 +5723,6 @@
 <deepord>14</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatně utvořený infinitiv</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7419,6 +7407,12 @@
 </children>
 </LM>
 </children>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>P</text>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>lk_016.01-SCzechT-m-d1t881-1</target-node.rf>
@@ -7426,12 +7420,6 @@
 <src>anna</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>P</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

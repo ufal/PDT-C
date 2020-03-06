@@ -5831,11 +5831,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6107,11 +6102,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="hg-26797_03.05-SCzechT-m-id65884-7">
 <a>
@@ -6316,11 +6306,6 @@
 <t_lemma>dál</t_lemma>
 <functor>DIR3</functor>
 <deepord>16</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8918,20 +8903,8 @@
 <t_lemma>vás</t_lemma>
 <functor>DPHR</functor>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>ustrnulý tvar</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>ustrnulý tvar</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="hg-26797_03.05-SCzechT-m-id66234-6">
 <a>

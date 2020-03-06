@@ -1454,12 +1454,6 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>8</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ak_145.02-SCzechT-m-d1t381-13">
 <a>
@@ -1738,12 +1732,6 @@
 <deepord>5</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

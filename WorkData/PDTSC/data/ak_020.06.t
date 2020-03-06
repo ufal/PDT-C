@@ -2372,11 +2372,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>15</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ak_020.06-SCzechT-m-d1t1235-11">
 <a>
@@ -3975,12 +3970,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>10</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ak_020.06-SCzechT-ak_020-533-roota1">
 <nodetype>complex</nodetype>
@@ -4408,12 +4397,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ak_020.06-SCzechT-ak_020-554-roota2">
 <nodetype>complex</nodetype>

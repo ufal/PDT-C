@@ -2162,12 +2162,6 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>opraveno z lemmatu "řečit"</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk_021.07-SCzechT-m-d1t2435-18">
 <a>
@@ -4723,6 +4717,12 @@
 </coref_text>
 </LM>
 </children>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>P</text>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>lk_021.07-SCzechT-m-d1t2533-5</target-node.rf>
@@ -4730,12 +4730,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>P</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk_021.07-SCzechT-m-d1t2535-4">
 <a>
@@ -5456,12 +5450,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>12</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk_021.07-SCzechT-m-d1t2565-23">
 <a>
@@ -6516,12 +6504,6 @@
 <functor>PARTL</functor>
 <sentmod>inter</sentmod>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>změna ze slovesného lemmatu na lemma částice</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

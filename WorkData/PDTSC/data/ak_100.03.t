@@ -2418,11 +2418,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>11</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3551,12 +3546,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>11</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>jedná se o firmu, ne produkt</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ak_100.03-SCzechT-m-d1t854-3">
 <a>

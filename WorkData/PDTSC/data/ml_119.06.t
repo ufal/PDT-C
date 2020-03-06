@@ -1086,15 +1086,6 @@
 <t_lemma>Prosím</t_lemma>
 <functor>PARTL</functor>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>ustrnulý tvar</text>
-</LM>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1621,12 +1612,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>10</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml_119.06-SCzechT-m-d1t1279-17">
 <a>
@@ -3339,12 +3324,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>9</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4931,15 +4910,6 @@
 <t_lemma>Prosím</t_lemma>
 <functor>PARTL</functor>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>ustrnulý tvar</text>
-</LM>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

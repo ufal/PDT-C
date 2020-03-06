@@ -1473,11 +1473,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2007,12 +2002,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>14</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ep_148.06-SCzechT-m-d1t2754-3">
 <a>
@@ -2058,12 +2047,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>18</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2829,12 +2812,6 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ep_148.06-SCzechT-m-d1t2795-7">
 <a>
@@ -3157,12 +3134,6 @@
 <deepord>13</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno, chybné lemma</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

@@ -1676,12 +1676,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>lépe #Comma</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <annot_comment>
@@ -8313,12 +8307,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>maskulinum</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ez_144.01-SCzechT-m-d1t441-4">
 <a>
@@ -8703,12 +8691,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>není sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

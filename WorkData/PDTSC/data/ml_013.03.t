@@ -6790,10 +6790,6 @@
 <LM>
 <type>Typo</type>
 </LM>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
 </annot_comment>
 </LM>
 </children>
@@ -7162,11 +7158,6 @@
 <deepord>8</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

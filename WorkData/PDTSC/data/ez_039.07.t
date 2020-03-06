@@ -186,12 +186,6 @@
 <sempos>adv.denot.grad.neg</sempos>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>zájmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ez_039.07-SCzechT-m-d1t2828-6">
 <a>
@@ -1598,12 +1592,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>1 v 2</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ez_039.07-SCzechT-m-d1t2886-1">
 <a>
@@ -6440,6 +6428,12 @@
 </coref_text>
 </LM>
 </children>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>P</text>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>ez_039.07-SCzechT-m-d1t3175-5</target-node.rf>
@@ -6447,12 +6441,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>P</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ez_039.07-SCzechT-m-d1t3190-6">
 <a>
@@ -6849,12 +6837,6 @@
 <t_lemma>takzvaně</t_lemma>
 <functor>ATT</functor>
 <deepord>8</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>1 v 2</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

@@ -1675,11 +1675,6 @@
 <sempos>adv.pron.indef</sempos>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ak_046.10-SCzechT-m-d1t2832-3">
 <a>

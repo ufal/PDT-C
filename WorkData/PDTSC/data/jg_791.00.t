@@ -1573,12 +1573,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2010,12 +2004,6 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>9</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -2494,11 +2482,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>10</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2518,11 +2501,6 @@
 <t_lemma>a</t_lemma>
 <functor>ID</functor>
 <deepord>12</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2548,11 +2526,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>14</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2686,11 +2659,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>25</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2740,11 +2708,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>29</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2789,11 +2752,6 @@
 <t_lemma>i</t_lemma>
 <functor>ID</functor>
 <deepord>34</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2844,11 +2802,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>38</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3013,11 +2966,6 @@
 </annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4471,11 +4419,6 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <annot_comment>
@@ -6325,11 +6268,6 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

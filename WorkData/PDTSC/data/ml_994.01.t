@@ -620,12 +620,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3224,11 +3218,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>10</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4091,12 +4080,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4957,11 +4940,6 @@
 <sempos>adv.denot.grad.neg</sempos>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml-25819_04.01-SCzechT-m-d1t531-8">
 <a>
@@ -5539,10 +5517,6 @@
 <annot_comment>
 <LM>
 <type>T-lemma with underscore</type>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>částicový význam</text>
 </LM>
 </annot_comment>
 </LM>

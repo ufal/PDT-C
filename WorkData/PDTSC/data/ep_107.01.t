@@ -1779,6 +1779,12 @@
 <deepord>3</deepord>
 </LM>
 </children>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>P</text>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>ep_107.01-SCzechT-m-d1t271-8</target-node.rf>
@@ -1786,12 +1792,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>P</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ep_107.01-SCzechT-m-d1t273-5">
 <a>
@@ -6879,12 +6879,6 @@
 <functor>PARTL</functor>
 <sentmod>inter</sentmod>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>změněno ze sloveso na částici</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

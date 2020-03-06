@@ -549,12 +549,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>malé písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="jv_133.08-SCzechT-jv_133-d1e2168-x4-roota3">
 <nodetype>qcomplex</nodetype>
@@ -1551,12 +1545,6 @@
 <deepord>11</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1960,12 +1948,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2090,12 +2072,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4235,12 +4211,6 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>překlep</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="jv_133.08-SCzechT-jv_133-212-roota4">
 <a>
@@ -4321,12 +4291,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>překlep</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="jv_133.08-SCzechT-jv_133-212-roota2">
 <nodetype>complex</nodetype>
@@ -6544,12 +6508,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7526,12 +7484,6 @@
 <deepord>6</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>feminimun</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7867,12 +7819,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>

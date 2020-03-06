@@ -166,12 +166,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>femininum</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1056,12 +1050,6 @@
 <functor>PARTL</functor>
 <is_parenthesis>1</is_parenthesis>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>částice/citoslovce</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_149.00-SCzechT-m-d1t54-9">
 <a>
@@ -1426,12 +1414,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>8</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1968,12 +1950,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>lépe #Comma</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_149.00-SCzechT-es_149-32-n12">
 <nodetype>complex</nodetype>
@@ -4661,12 +4637,6 @@
 <functor>PARTL</functor>
 <is_parenthesis>1</is_parenthesis>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>částice/citoslovce</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_149.00-SCzechT-m-d1t145-6">
 <a>
@@ -5892,12 +5862,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>13</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6092,12 +6056,6 @@
 <deepord>25</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

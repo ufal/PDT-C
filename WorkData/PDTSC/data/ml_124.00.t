@@ -164,12 +164,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>lemma Pavel místo Pavla</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1679,6 +1673,12 @@
 <deepord>15</deepord>
 </LM>
 </children>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>nP</text>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>ml_124.00-SCzechT-m-d1t59-8</target-node.rf>
@@ -1686,12 +1686,6 @@
 <src>anna</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>nP</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7671,14 +7665,6 @@
 <deepord>23</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

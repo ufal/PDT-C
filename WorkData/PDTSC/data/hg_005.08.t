@@ -1628,12 +1628,6 @@
 <functor>ATT</functor>
 <is_parenthesis>1</is_parenthesis>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>kleslá parenteze</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="hg_005.08-SCzechT-m-d1t2799-5">
 <a>
@@ -2938,11 +2932,6 @@
 <src>coref</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="hg_005.08-SCzechT-m-d1t2911-13">
 <a>

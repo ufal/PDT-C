@@ -155,11 +155,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3029,11 +3024,6 @@
 <deepord>6</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_139.00-SCzechT-m-d1t129-5">
 <a>
@@ -5932,12 +5922,6 @@
 <functor>ATT</functor>
 <is_parenthesis>1</is_parenthesis>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>kleslá parenteze</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_139.00-SCzechT-es_139-d1e285-x2-roota1">
 <nodetype>complex</nodetype>
@@ -7340,11 +7324,6 @@
 <deepord>10</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_139.00-SCzechT-m-d1t362-6">
 <a>

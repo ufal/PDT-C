@@ -6380,12 +6380,6 @@
 <t_lemma>škoda</t_lemma>
 <functor>ATT</functor>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>malé písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

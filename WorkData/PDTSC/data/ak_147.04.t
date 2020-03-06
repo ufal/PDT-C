@@ -2599,11 +2599,6 @@
 </bridging>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3003,11 +2998,6 @@
 <deepord>4</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3937,11 +3927,6 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ak_147.04-SCzechT-ak_147-136-roota9">
 <nodetype>complex</nodetype>
@@ -7122,12 +7107,6 @@
 <deepord>9</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>krátce</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

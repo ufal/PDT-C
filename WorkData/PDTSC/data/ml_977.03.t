@@ -420,12 +420,6 @@
 <src>lenk</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml-26797_07.03-SCzechT-m-id61846-3">
 <a>
@@ -995,12 +989,6 @@
 <deepord>6</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>jiné sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml-26797_07.03-SCzechT-m-id61921-9">
 <a>
@@ -7960,12 +7948,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8052,15 +8034,6 @@
 <deepord>8</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>ustrnulý tvar</text>
-</LM>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml-26797_07.03-SCzechT-m-1202-1216">
 <a>
@@ -9235,12 +9208,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml-26797_07.03-SCzechT-m-id62930-5">
 <a>

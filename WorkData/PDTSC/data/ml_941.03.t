@@ -308,11 +308,6 @@
 <deepord>4</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2566,20 +2561,8 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>ustrnulý tvar</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>kleslá parenteze</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml-27484_01.03-SCzechT-m-d1t1446-2">
 <a>
@@ -9400,6 +9383,12 @@
 </coref_text>
 </LM>
 </children>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>P</text>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>ml-27484_01.03-SCzechT-m-d1t1489-3</target-node.rf>
@@ -9407,12 +9396,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>P</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml-27484_01.03-SCzechT-m-d1t1685-4">
 <a>

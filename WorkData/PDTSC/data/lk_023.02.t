@@ -1151,12 +1151,6 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>změněno ze substantivního lemmatu na slovesné</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk_023.02-SCzechT-m-d1t985-13">
 <a>
@@ -1217,12 +1211,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>změněno ze substantivního lemmatu na slovesné</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2148,12 +2136,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>změněno ze substantivního lemmatu na slovesné</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk_023.02-SCzechT-m-d1t1040-4">
 <a>

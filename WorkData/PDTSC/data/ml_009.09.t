@@ -2524,12 +2524,6 @@
 <functor>PARTL</functor>
 <sentmod>inter</sentmod>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>ustrnulý tvar</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3524,12 +3518,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>malé písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml_009.09-SCzechT-m-d1t2583-8">
 <a>
@@ -4216,12 +4204,6 @@
 <functor>PARTL</functor>
 <sentmod>inter</sentmod>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>ustrnulý tvar</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4901,12 +4883,6 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>18</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml_009.09-SCzechT-m-d1t2637-18">
 <a>
@@ -7480,12 +7456,6 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>8</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>ustrnulý tvar</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml_009.09-SCzechT-m-d1t2722-10x3">
 <nodetype>complex</nodetype>

@@ -402,12 +402,6 @@
 <deepord>4</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml_118.09-SCzechT-m-d1t1670-29">
 <a>
@@ -949,12 +943,6 @@
 <src>coref</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>zájmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2164,12 +2152,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>7</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml_118.09-SCzechT-m-d1t1701-12">
 <a>
@@ -2202,12 +2184,6 @@
 <deepord>10</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4719,6 +4695,12 @@
 </coref_text>
 </LM>
 </children>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>nP</text>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>ml_118.09-SCzechT-m-d1t1781-1</target-node.rf>
@@ -4726,12 +4708,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>nP</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7212,12 +7188,6 @@
 <t_lemma>mimo</t_lemma>
 <functor>TWHEN</functor>
 <deepord>9</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>příslovce</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml_118.09-SCzechT-m-d1t1844-17">
 <a>

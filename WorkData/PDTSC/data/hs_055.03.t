@@ -3771,11 +3771,6 @@
 <deepord>4</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="hs_055.03-SCzechT-m-d1t1459-6">
 <a>

@@ -1710,12 +1710,6 @@
 <deepord>12</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4171,12 +4165,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>měkké "i"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5590,12 +5578,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>24</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatně utvořený nominativ vlastního jména</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_149.08-SCzechT-m-d1t1769-49">
 <a>
@@ -7079,12 +7061,6 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>chybí zájmeno "si"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7168,12 +7144,6 @@
 <deepord>4</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>chybí zájmeno "si"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

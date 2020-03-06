@@ -61,12 +61,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno: burka</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_135.08-SCzechT-m-d1t1416-7">
 <a>
@@ -3823,6 +3817,12 @@
 <negation>neg0</negation>
 </gram>
 <deepord>7</deepord>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>P</text>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>es_135.08-SCzechT-m-d1t1504-1</target-node.rf>
@@ -3830,12 +3830,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>P</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_135.08-SCzechT-m-d1t1506-14">
 <a>
@@ -4008,12 +4002,6 @@
 <deepord>18</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>nerozpoznáno sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5447,6 +5435,12 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>P</text>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>es_135.08-SCzechT-m-d1t1521-6</target-node.rf>
@@ -5454,12 +5448,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>P</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8369,12 +8357,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vygenerováno "řečit"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -9829,12 +9811,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>15</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -10364,10 +10340,6 @@
 </gram>
 <deepord>5</deepord>
 <annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno: Ludovíku</text>
-</LM>
 <LM>
 <type>Other</type>
 <text>Jmenoval se ovšem Ludvík.</text>

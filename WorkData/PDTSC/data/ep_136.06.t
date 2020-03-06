@@ -3465,6 +3465,12 @@
 </coref_text>
 </LM>
 </children>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>P</text>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>ep_136.06-SCzechT-m-d1t2817-5</target-node.rf>
@@ -3472,16 +3478,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>malé písmeno</text>
-</LM>
-<LM>
-<type>New valency frame</type>
-<text>P</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ep_136.06-SCzechT-m-d1t2823-5">
 <a>
@@ -5422,12 +5418,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5680,10 +5670,6 @@
 </LM>
 </children>
 <annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>1 v 2</text>
-</LM>
 <LM>
 <type>Typo</type>
 <text>"anebo" psát dohromady</text>

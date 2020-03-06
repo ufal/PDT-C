@@ -224,12 +224,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -713,11 +707,6 @@
 <deepord>5</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="hs_002.06-SCzechT-m-d1t1685-1">
 <a>
@@ -844,12 +833,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>13</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1233,12 +1216,6 @@
 <deepord>22</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>proprium</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1737,11 +1714,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2166,11 +2138,6 @@
 <deepord>9</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2485,12 +2452,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>proprium</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="hs_002.06-SCzechT-m-840-1404">
 <a>
@@ -2608,6 +2569,12 @@
 <negation>neg0</negation>
 </gram>
 <deepord>14</deepord>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>nP</text>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>hs_002.06-SCzechT-m-840-1410</target-node.rf>
@@ -2615,15 +2582,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-<LM>
-<type>New valency frame</type>
-<text>nP</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="hs_002.06-SCzechT-m-840-1390">
 <a>
@@ -2707,12 +2665,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2844,11 +2796,6 @@
 <src>coref</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="hs_002.06-SCzechT-m-840-1362">
 <a>
@@ -3306,12 +3253,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>čárka</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4452,6 +4393,12 @@
 </children>
 </LM>
 </children>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>nP</text>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>hs_002.06-SCzechT-hs_002-2551-roota3</target-node.rf>
@@ -4459,12 +4406,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>nP</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8384,12 +8325,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8699,12 +8634,6 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>8</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

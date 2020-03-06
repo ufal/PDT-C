@@ -3980,12 +3980,6 @@
 <functor>PARTL</functor>
 <sentmod>enunc</sentmod>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>lemma změněno na částici</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

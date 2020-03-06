@@ -197,12 +197,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>10</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2946,12 +2940,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>1 v 2</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4901,6 +4889,12 @@
 <deepord>3</deepord>
 </LM>
 </children>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>P</text>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>ez_039.06-SCzechT-m-d1t2616-6</target-node.rf>
@@ -4908,12 +4902,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>P</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ez_039.06-SCzechT-m-d1t2675-2">
 <a>
@@ -5020,6 +5008,12 @@
 <deepord>4</deepord>
 </LM>
 </children>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>P</text>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>ez_039.06-SCzechT-m-d1t2675-3</target-node.rf>
@@ -5027,12 +5021,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>P</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ez_039.06-SCzechT-m-d1t2681-3">
 <a>

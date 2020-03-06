@@ -155,12 +155,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2187,12 +2181,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno Slovan</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4733,12 +4721,6 @@
 <sempos>n.pron.indef</sempos>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>chyba v tagu</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="hs_032.00-SCzechT-m-d1t269-8x3">
 <nodetype>complex</nodetype>
@@ -4788,12 +4770,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno Slovan</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5524,12 +5500,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>považováno za substantivum</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7561,12 +7531,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno Danuše</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

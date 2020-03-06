@@ -1666,12 +1666,6 @@
 <deepord>4</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno lemma "Dam"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2170,12 +2164,6 @@
 <deepord>9</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno lemma Francl</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>

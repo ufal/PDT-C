@@ -2179,12 +2179,6 @@
 <src>coref</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>změněno ze slovesa na zájmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml_014.00-SCzechT-m-d1t130-17">
 <a>

@@ -166,12 +166,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>změněno z maskulina na femininum</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3674,6 +3668,12 @@
 <negation>neg0</negation>
 </gram>
 <deepord>21</deepord>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>nP</text>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>ep_141.00-SCzechT-m-d1t101-5</target-node.rf>
@@ -3681,12 +3681,6 @@
 <src>lenk</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>nP</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

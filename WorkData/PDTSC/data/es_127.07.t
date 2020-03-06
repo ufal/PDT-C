@@ -135,12 +135,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>8</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>lemma změněno z instrumentálu na nominativ</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

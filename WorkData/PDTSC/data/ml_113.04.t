@@ -208,12 +208,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>přivlastňovací zájmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml_113.04-SCzechT-m-d1t977-22">
 <a>
@@ -724,12 +718,6 @@
 <src>mark</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatně utvořený nominativ</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml_113.04-SCzechT-m-d1t989-1">
 <a>
@@ -7231,12 +7219,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml_113.04-SCzechT-m-d1t1131-11">
 <a>

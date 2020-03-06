@@ -1425,12 +1425,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="hg-28105_01.01-SCzechT-m-d1t567-4">
 <a>
@@ -2236,12 +2230,6 @@
 <deepord>7</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2677,12 +2665,6 @@
 <src>lenk</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2755,12 +2737,6 @@
 <src>lenk</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="hg-28105_01.01-SCzechT-m-d1t637-9">
 <a>
@@ -2956,12 +2932,6 @@
 <src>lenk</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="hg-28105_01.01-SCzechT-m-d1t650-6">
 <a>
@@ -5880,12 +5850,6 @@
 <functor>PAT</functor>
 <is_member>1</is_member>
 <deepord>23</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>tři tečky</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="hg-28105_01.01-SCzechT-m-d1t766-3">
 <a>
@@ -8115,12 +8079,6 @@
 <src>lenk</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8426,12 +8384,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -8783,12 +8735,6 @@
 <src>lenk</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="hg-28105_01.01-SCzechT-m-d1t910-5">
 <a>
@@ -8821,12 +8767,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>

@@ -5943,12 +5943,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>změněno ze slovesného lemmatu "být" na substantivní</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk_037.07-SCzechT-m-d1t2454-4">
 <a>
@@ -5980,12 +5974,6 @@
 <deepord>6</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>změněno ze substantivního lemmatu "máma" na slovesné lemma</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6992,12 +6980,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>11</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>lemma upraveno na nominativ singuláru</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk_037.07-SCzechT-m-387-388">
 <a>

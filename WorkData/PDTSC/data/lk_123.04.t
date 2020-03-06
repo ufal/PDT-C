@@ -1611,12 +1611,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>9</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2444,10 +2438,6 @@
 <type>Typo</type>
 <text>velké písmeno</text>
 </LM>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
 </annot_comment>
 </LM>
 <LM id="lk_123.04-SCzechT-m-d1t1380-15">
@@ -2756,12 +2746,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5951,12 +5935,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatně utvořený nominativ</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

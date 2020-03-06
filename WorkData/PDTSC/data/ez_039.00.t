@@ -153,12 +153,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -347,12 +341,6 @@
 <deepord>3</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatně utvořený nominativ vlastního jména</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1709,12 +1697,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>špatně rozpoznaný tvar</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ez_039.00-SCzechT-m-d1t86-2">
 <a>
@@ -4580,12 +4562,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4678,12 +4654,6 @@
 <deepord>8</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ez_039.00-SCzechT-m-d1e299-x2-83">
 <a>
@@ -5358,12 +5328,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>10</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

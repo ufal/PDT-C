@@ -3193,11 +3193,6 @@
 <src>coref</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml_053.03-SCzechT-m-d1t1159-1">
 <a>
@@ -4724,12 +4719,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>lépe #Comma</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <annot_comment>
@@ -5125,12 +5114,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>9</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

@@ -467,12 +467,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>17</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>lemma cizího jména: změněno z "Most" na "Mosta"</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_127.04-SCzechT-es_127-73-roota1">
 <a>
@@ -3597,12 +3591,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>lemma změněno ze zájmenného na slovesné</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

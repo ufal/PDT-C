@@ -210,12 +210,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk_016.06-SCzechT-lk_016-d1e2884-x2-roota1">
 <nodetype>atom</nodetype>
@@ -1848,12 +1842,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>adjektivum</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -3316,12 +3304,6 @@
 <src>anna</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3723,12 +3705,6 @@
 <functor>PARTL</functor>
 <sentmod>enunc</sentmod>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>částice/citoslovce</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

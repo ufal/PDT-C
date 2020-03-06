@@ -1512,12 +1512,6 @@
 <deepord>8</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2322,12 +2316,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>adjektivum</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5076,10 +5064,6 @@
 <type>Typo</type>
 <text>machy</text>
 </LM>
-<LM>
-<type>T-lemma</type>
-<text>špatně utvořený nominativ</text>
-</LM>
 </annot_comment>
 </LM>
 </children>
@@ -6982,12 +6966,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>10</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

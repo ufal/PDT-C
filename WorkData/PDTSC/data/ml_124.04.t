@@ -3258,12 +3258,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml_124.04-SCzechT-m-d1t774-1">
 <a>
@@ -5324,12 +5318,6 @@
 <deepord>5</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>chápáno jako substantivum "mazal"</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml_124.04-SCzechT-m-d1t815-3">
 <a>
@@ -5426,12 +5414,6 @@
 <deepord>3</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>chápáno jako substantivum</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7362,12 +7344,6 @@
 <src>coref</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>chápáno jako sloveso "mít"</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml_124.04-SCzechT-m-d1t858-11">
 <a>
@@ -7556,12 +7532,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>11</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml_124.04-SCzechT-m-d1t860-17">
 <a>

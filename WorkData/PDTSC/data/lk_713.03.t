@@ -1593,11 +1593,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk-26171_03.03-SCzechT-m-id60863-9">
 <a>
@@ -1700,11 +1695,6 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk-26171_03.03-SCzechT-lk-26171_03-5366-roota1">
 <nodetype>atom</nodetype>
@@ -2412,11 +2402,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk-26171_03.03-SCzechT-lk-26171_03-912-roota2">
 <nodetype>qcomplex</nodetype>
@@ -4309,11 +4294,6 @@
 <src>mark</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk-26171_03.03-SCzechT-m-id61063-6">
 <a>
@@ -7542,11 +7522,6 @@
 <deepord>14</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

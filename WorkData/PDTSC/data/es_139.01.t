@@ -1356,12 +1356,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_139.01-SCzechT-m-d1t484-4">
 <a>
@@ -3625,12 +3619,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>22</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4636,11 +4624,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5062,6 +5045,12 @@
 <deepord>16</deepord>
 </LM>
 </children>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>nP</text>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>es_139.01-SCzechT-m-d1t607-7</target-node.rf>
@@ -5069,12 +5058,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>nP</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7240,6 +7223,11 @@
 <deepord>1</deepord>
 </LM>
 </children>
+<annot_comment>
+<LM>
+<type>Typo</type>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>es_139.01-SCzechT-m-d1t724-4</target-node.rf>
@@ -7247,11 +7235,6 @@
 <src>coref</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_139.01-SCzechT-es_139-d1e738-x2-roota1">
 <coref_gram.rf>
@@ -8520,12 +8503,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>10</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <annot_comment>
@@ -8720,14 +8697,13 @@
 <negation>neg0</negation>
 </gram>
 <deepord>7</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
+<annot_comment>
+<LM>
+<type>Typo</type>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>es_139.01-SCzechT-m-d1t805-4</target-node.rf>
@@ -8735,11 +8711,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

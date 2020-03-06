@@ -4419,6 +4419,12 @@
 </children>
 </LM>
 </children>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>nP</text>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>ps_058.06-SCzechT-m-d1t2876-7</target-node.rf>
@@ -4426,12 +4432,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>nP</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ps_058.06-SCzechT-m-d1t2921-10">
 <a>
@@ -5769,10 +5769,6 @@
 </LM>
 </children>
 <annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>překlep</text>
-</LM>
 <LM>
 <type>Typo</type>
 </LM>

@@ -6870,11 +6870,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>15</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk_109.08-SCzechT-m-d1t1381-14">
 <a>

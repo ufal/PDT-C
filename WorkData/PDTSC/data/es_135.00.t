@@ -166,12 +166,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>považováno za Pavel</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2634,11 +2628,6 @@
 <t_lemma>prosím</t_lemma>
 <functor>PARTL</functor>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_135.00-SCzechT-m-d1t89-6">
 <a>

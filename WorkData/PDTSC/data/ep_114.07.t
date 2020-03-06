@@ -2452,11 +2452,6 @@
 <functor>PARTL</functor>
 <sentmod>enunc</sentmod>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6273,12 +6268,6 @@
 <deepord>22</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>proprium</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7443,12 +7432,6 @@
 <src>mark</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>prorpium</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ep_114.07-SCzechT-m-d1t2238-2">
 <a>

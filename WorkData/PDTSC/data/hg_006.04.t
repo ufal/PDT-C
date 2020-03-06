@@ -3123,11 +3123,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3302,12 +3297,6 @@
 <deepord>8</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="hg_006.04-SCzechT-m-d1t1555-7">
 <a>
@@ -4165,12 +4154,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>1 ve 2</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="hg_006.04-SCzechT-m-d1t1590-7">
 <a>
@@ -6046,6 +6029,11 @@
 <politeness>basic</politeness>
 </gram>
 <deepord>10</deepord>
+<annot_comment>
+<LM>
+<type>Typo</type>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>hg_006.04-SCzechT-hg_006-d1e1680-x2-roota4</target-node.rf>
@@ -6053,11 +6041,6 @@
 <src>coref</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

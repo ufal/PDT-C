@@ -3022,6 +3022,12 @@
 </coref_text>
 </LM>
 </children>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>nP</text>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>es_127.03-SCzechT-m-d1t699-11</target-node.rf>
@@ -3029,12 +3035,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>nP</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_127.03-SCzechT-m-d1t699-21">
 <a>
@@ -6162,12 +6162,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>lemma změněno ze slovesného na adjektivní</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_127.03-SCzechT-m-d1t774-7">
 <a>
@@ -6182,15 +6176,6 @@
 <negation>neg1</negation>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>lemma změněno ze slovesného na adjektivní</text>
-</LM>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7455,20 +7440,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>změněno ze slovesného lemmatu na adjektivní</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>změněno z pronominálního lemmatu na slovesné</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_127.03-SCzechT-m-d1t805-8">
 <a>
@@ -8037,11 +8010,6 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>11</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8896,12 +8864,6 @@
 <deepord>12</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

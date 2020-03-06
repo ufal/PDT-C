@@ -521,11 +521,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="hs_048.09-SCzechT-m-d1t2510-9x3">
 <coref_special>exoph</coref_special>
@@ -3189,12 +3184,6 @@
 <t_lemma>sed</t_lemma>
 <functor>MANN</functor>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>lemma asi sed?</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5440,12 +5429,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

@@ -5029,11 +5029,6 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="pk_143.04-SCzechT-m-d1t1292-5">
 <a>

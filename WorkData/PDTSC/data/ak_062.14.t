@@ -1591,12 +1591,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1829,12 +1823,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno, krátce</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2000,12 +1988,6 @@
 <functor>ATT</functor>
 <is_parenthesis>1</is_parenthesis>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>kleslá parenteze</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ak_062.14-SCzechT-m-d1t3128-3">
 <a>
@@ -3939,12 +3921,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>malé písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ak_062.14-SCzechT-m-d1t3178-5">
 <a>
@@ -5260,12 +5236,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>1 ve 2</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

@@ -893,12 +893,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>tři tečky</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1843,11 +1837,6 @@
 <src>lenk</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk-28105_04.01-SCzechT-m-d1t634-3">
 <a>
@@ -4831,12 +4820,6 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>tři tečky</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5323,11 +5306,6 @@
 <sempos>adv.denot.grad.neg</sempos>
 </gram>
 <deepord>13</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

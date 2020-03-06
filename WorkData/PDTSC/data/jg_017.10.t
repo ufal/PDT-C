@@ -2003,11 +2003,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="jg_017.10-SCzechT-m-d1t3072-1">
 <a>

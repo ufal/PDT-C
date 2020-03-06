@@ -3552,10 +3552,6 @@
 <type>Typo</type>
 <text>Poláky</text>
 </LM>
-<LM>
-<type>M-tag</type>
-<text>špatný pád kvůli překlepu</text>
-</LM>
 </annot_comment>
 </LM>
 </children>
@@ -3837,11 +3833,6 @@
 <functor>PARTL</functor>
 <sentmod>enunc</sentmod>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

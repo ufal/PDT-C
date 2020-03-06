@@ -166,12 +166,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>změněno z "Pavel"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6374,12 +6368,6 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>změněno ze substantiva "povídal" na sloveso "povídat"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -6762,12 +6750,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>změněno ze zájmena na sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

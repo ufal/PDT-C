@@ -985,27 +985,10 @@
 <t_lemma>7,7</t_lemma>
 <functor>ID</functor>
 <deepord>20</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>1 ve 3</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk-16379_04.03-SCzechT-m-d1t795-24">
 <a>
@@ -3538,11 +3521,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk-16379_04.03-SCzechT-m-d1t849-18">
 <a>
@@ -3635,11 +3613,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>8</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk-16379_04.03-SCzechT-m-d1t849-25">
 <a>
@@ -4174,11 +4147,6 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk-16379_04.03-SCzechT-m-d1t857-16">
 <a>
@@ -5968,11 +5936,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7655,11 +7618,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

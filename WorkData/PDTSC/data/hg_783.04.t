@@ -1430,12 +1430,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>ze slovesného lemmatu změněno na substantivní</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="hg-27638_03.04-SCzechT-m-d1t1560-3">
 <a>
@@ -2534,12 +2528,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>substantivní lemma změněno na adverbiální</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="hg-27638_03.04-SCzechT-m-d1t1602-8">
 <a>
@@ -8399,12 +8387,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>změněno z "elektrum" na "elektra"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8564,12 +8546,6 @@
 <src>mark</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>změněno z "elektrum" na "elektra"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

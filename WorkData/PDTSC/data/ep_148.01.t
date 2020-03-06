@@ -2394,12 +2394,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>11</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>chybná analýza</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ep_148.01-SCzechT-ep_148-496-roota1">
 <nodetype>qcomplex</nodetype>
@@ -3253,11 +3247,6 @@
 <src>lenk</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4761,12 +4750,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>nerozpoznáno velmi neobvyklé sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7604,12 +7587,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>15</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>chybné lemma</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -7831,12 +7808,6 @@
 <src>lenk</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>chybné jméno obce</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <annot_comment>
@@ -7892,12 +7863,6 @@
 <src>lenk</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>chybné jméno obce</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ep_148.01-SCzechT-m-d1t759-2">
 <a>
@@ -8246,11 +8211,6 @@
 <functor>PARTL</functor>
 <sentmod>enunc</sentmod>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8659,12 +8619,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>chybná analýza</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

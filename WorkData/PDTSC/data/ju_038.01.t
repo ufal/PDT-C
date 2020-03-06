@@ -3661,10 +3661,6 @@
 <type>Typo</type>
 <text>správně pomáhat</text>
 </LM>
-<LM>
-<type>M-tag</type>
-<text>špatný sempos, není přiřazen valenční rámec</text>
-</LM>
 </annot_comment>
 </LM>
 <LM id="ju_038.01-SCzechT-m-d1t450-11">
@@ -6896,11 +6892,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

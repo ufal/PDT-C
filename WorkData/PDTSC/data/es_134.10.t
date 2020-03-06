@@ -1283,6 +1283,12 @@
 <deepord>5</deepord>
 </LM>
 </children>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>P</text>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>es_134.10-SCzechT-m-d1t1233-13</target-node.rf>
@@ -1290,12 +1296,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>P</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1877,6 +1877,12 @@
 <deepord>2</deepord>
 </LM>
 </children>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>P</text>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>es_134.10-SCzechT-m-d1t1240-4</target-node.rf>
@@ -1884,12 +1890,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>P</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_134.10-SCzechT-es_134-580-n13">
 <nodetype>complex</nodetype>
@@ -6985,15 +6985,6 @@
 <t_lemma>prosím_vás</t_lemma>
 <functor>PARTL</functor>
 <deepord>10</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>ustrnulý tvar</text>
-</LM>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_134.10-SCzechT-es_134-126-roota4">
 <nodetype>complex</nodetype>
@@ -7065,18 +7056,8 @@
 <deepord>14</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7916,11 +7897,6 @@
 <src>coref</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_134.10-SCzechT-m-d1t1301-50">
 <a>
@@ -8862,11 +8838,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_134.10-SCzechT-es_134-820-roota4">
 <nodetype>complex</nodetype>
@@ -9018,11 +8989,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>13</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_134.10-SCzechT-es_134-820-n19">
 <nodetype>complex</nodetype>
@@ -9650,11 +9616,6 @@
 <deepord>12</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -9945,11 +9906,6 @@
 <deepord>5</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_134.10-SCzechT-es_134-839-roota2">
 <coref_special>exoph</coref_special>
@@ -10105,11 +10061,6 @@
 <src>coref</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_134.10-SCzechT-m-d1t1328-36">
 <a>
@@ -10287,11 +10238,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_134.10-SCzechT-m-d1t1333-15">
 <a>

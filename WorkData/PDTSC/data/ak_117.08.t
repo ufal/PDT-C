@@ -1485,6 +1485,12 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>nP</text>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>ak_117.08-SCzechT-m-d1t2021-21</target-node.rf>
@@ -1492,12 +1498,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>nP</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ak_117.08-SCzechT-m-d1t2023-5">
 <a>
@@ -3641,12 +3641,6 @@
 <src>coref</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>zájmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ak_117.08-SCzechT-m-d1t2109-3">
 <a>
@@ -3717,12 +3711,6 @@
 <src>coref</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>zájmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ak_117.08-SCzechT-m-d1t2109-8">
 <a>
@@ -3821,12 +3809,6 @@
 <functor>PARTL</functor>
 <sentmod>enunc</sentmod>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>částice/citoslovce</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5737,12 +5719,6 @@
 <functor>ACT</functor>
 <is_member>1</is_member>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>3 tečky</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ak_117.08-SCzechT-m-d1t2180-2">
 <a>

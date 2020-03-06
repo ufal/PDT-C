@@ -1078,12 +1078,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3188,11 +3182,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3940,12 +3929,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>považováno za substantivum</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4434,16 +4417,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>1 v 2</text>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>chybná mezera (nebo zapomenutá čárka, obojí je možné)</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_135.01-SCzechT-m-d1t258-6">
 <a>
@@ -5556,16 +5529,6 @@
 <t_lemma>víceméně</t_lemma>
 <functor>RHEM</functor>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>1 v 2</text>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>chybná mezera</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_135.01-SCzechT-m-d1t269-22">
 <a>

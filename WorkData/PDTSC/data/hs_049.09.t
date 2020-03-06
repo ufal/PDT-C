@@ -810,11 +810,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="hs_049.09-SCzechT-hs_049-702-roota4">
 <nodetype>complex</nodetype>
@@ -2602,11 +2597,6 @@
 <deepord>6</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="hs_049.09-SCzechT-m-d1t2330-4">
 <a>
@@ -2796,12 +2786,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>krátce</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="hs_049.09-SCzechT-m-d1t2338-9">
 <a>
@@ -3308,12 +3292,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3391,12 +3369,6 @@
 <t_lemma>ASAB</t_lemma>
 <functor>ID</functor>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>chybný tvar</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5320,11 +5292,6 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

@@ -1272,9 +1272,6 @@
 <deepord>1</deepord>
 <annot_comment>
 <LM>
-<type>M-lemma</type>
-</LM>
-<LM>
 <type>Other</type>
 <text>bez valence, navazovací částice</text>
 </LM>
@@ -1644,12 +1641,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5082,12 +5073,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>12</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>

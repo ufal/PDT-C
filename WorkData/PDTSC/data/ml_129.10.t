@@ -498,11 +498,6 @@
 <sempos>adv.denot.grad.neg</sempos>
 </gram>
 <deepord>9</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml_129.10-SCzechT-m-d1t2410-3">
 <a>
@@ -5307,12 +5302,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>lemma předěláno na množné číslo</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5757,12 +5746,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>lemma zmněněno na množné číslo</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

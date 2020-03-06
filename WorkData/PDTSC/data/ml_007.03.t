@@ -4933,12 +4933,6 @@
 <src>anna</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno lemma "modravě"</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml_007.03-SCzechT-m-d1t1208-18">
 <a>

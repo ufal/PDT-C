@@ -6609,12 +6609,6 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>18</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>"proolejované" změněno na "proolejovaný"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

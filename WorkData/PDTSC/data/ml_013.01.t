@@ -6382,11 +6382,6 @@
 <src>anna</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml_013.01-SCzechT-m-d1t695-4">
 <a>

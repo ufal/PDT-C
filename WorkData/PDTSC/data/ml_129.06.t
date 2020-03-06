@@ -1287,12 +1287,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>mužský rod (metr) změněn na střední (metro)</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml_129.06-SCzechT-ml_129-292-n8">
 <coref_special>exoph</coref_special>
@@ -1367,12 +1361,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>7</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>pomnožné slovo, změněno z "Lužin" na "Lužiny"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5058,12 +5046,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>změněno z adverbia "domů" na substantivum "dům"</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml_129.06-SCzechT-m-d1t1589-9">
 <a>
@@ -5962,12 +5944,6 @@
 <src>mark</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>z mužského rodu (metr) změněno na střední (metro)</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml_129.06-SCzechT-ml_129-445-n7">
 <nodetype>complex</nodetype>
@@ -6943,12 +6919,6 @@
 <deepord>15</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>lemma změněno z ženského rodu (remízka) na mužský (remízek)</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

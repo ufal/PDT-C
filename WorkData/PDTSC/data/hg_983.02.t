@@ -2943,12 +2943,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>z místo s</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="hg-13808_03.02-SCzechT-hg-13808_03-614-n6">
 <nodetype>complex</nodetype>
@@ -4047,12 +4041,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>z místo s</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5390,9 +5378,6 @@
 </gram>
 <deepord>18</deepord>
 <annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
 <LM>
 <type>Other</type>
 <text>nejsem si jista lemmatem</text>
@@ -8116,11 +8101,6 @@
 <sempos>adv.pron.def</sempos>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="hg-13808_03.02-SCzechT-m-d1t1176-2">
 <a>

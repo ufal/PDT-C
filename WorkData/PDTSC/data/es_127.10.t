@@ -5507,12 +5507,6 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>lemma změněno z imperativu na infinitiv</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7336,11 +7330,6 @@
 <deepord>19</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_127.10-SCzechT-m-d1t2306-8">
 <a>
@@ -7631,11 +7620,6 @@
 <functor>PARTL</functor>
 <sentmod>enunc</sentmod>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

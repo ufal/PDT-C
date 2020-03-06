@@ -1202,11 +1202,6 @@
 <sempos>n.pron.indef</sempos>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ez_128.04-SCzechT-m-d1t1058-5">
 <a>
@@ -1716,12 +1711,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>chybný tvar t-lemmatu</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ez_128.04-SCzechT-m-d1t1081-5">
 <a>
@@ -5595,12 +5584,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>14</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

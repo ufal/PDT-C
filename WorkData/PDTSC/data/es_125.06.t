@@ -507,14 +507,14 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>špatně utvořený nominativ</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
+<annot_comment>
+<LM>
+<type>Typo</type>
+<text>malé písmeno</text>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>es_125.06-SCzechT-m-d1t1010-9</target-node.rf>
@@ -522,16 +522,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>malé písmeno</text>
-</LM>
-<LM>
-<type>Typo</type>
-<text>malé písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -571,12 +561,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>špatně utvořený nominativ</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_125.06-SCzechT-m-d1t1015-3">
 <a>
@@ -2304,12 +2288,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>17</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_125.06-SCzechT-m-d1t1051-16">
 <a>
@@ -2341,12 +2319,6 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>19</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2459,12 +2431,6 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>25</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2532,12 +2498,6 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>29</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4064,12 +4024,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>25</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>špatně utvořený nominativ</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6222,12 +6176,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>13</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_125.06-SCzechT-m-d1t1140-6">
 <a>
@@ -6567,12 +6515,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6926,12 +6868,6 @@
 <deepord>6</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>nominativ</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8347,12 +8283,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8620,12 +8550,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_125.06-SCzechT-m-d1t1189-13">
 <a>
@@ -8710,12 +8634,6 @@
 <negation>neg1</negation>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Původně "smírně"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

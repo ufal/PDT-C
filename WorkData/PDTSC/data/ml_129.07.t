@@ -667,12 +667,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>lemma opraveno z genitivu na nominativ</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2442,12 +2436,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4531,12 +4519,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>11</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>ze substantivního lemmatu (důl) změněno na adverbiální (dolů)</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7127,12 +7109,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>lemma změněno z maskulina (Radek) na femininum (Radka)</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

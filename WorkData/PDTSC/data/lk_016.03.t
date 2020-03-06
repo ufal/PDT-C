@@ -5757,12 +5757,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>9</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6646,12 +6640,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>7</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk_016.03-SCzechT-m-d1t1823-6">
 <a>
@@ -6672,10 +6660,6 @@
 </gram>
 <deepord>8</deepord>
 <annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
 <LM>
 <type>Typo</type>
 <text>velké písmeno</text>

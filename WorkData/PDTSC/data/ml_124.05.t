@@ -1869,12 +1869,6 @@
 <deepord>8</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno jako ústava</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7095,12 +7089,6 @@
 <deepord>12</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno jako "bok"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7565,12 +7553,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8264,11 +8246,6 @@
 <functor>PARTL</functor>
 <sentmod>enunc</sentmod>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml_124.05-SCzechT-ml_124-d1e1016-x2-roota2">
 <nodetype>complex</nodetype>

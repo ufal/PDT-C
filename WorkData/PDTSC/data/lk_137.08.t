@@ -1367,12 +1367,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatně utvořený nominativ místního jména</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3335,12 +3329,6 @@
 <deepord>11</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>adjektivum</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6215,12 +6203,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatně utvořený nominativ místního jména</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8569,12 +8551,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>24</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>změna přivlastňovacího adjektiva na substantivum</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

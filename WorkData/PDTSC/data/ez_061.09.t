@@ -2676,12 +2676,6 @@
 <t_lemma>ježiš</t_lemma>
 <functor>PARTL</functor>
 <deepord>29</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>malé písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ez_061.09-SCzechT-m-d1e3304-x2-331">
 <a>
@@ -5634,15 +5628,6 @@
 <t_lemma>ježíš</t_lemma>
 <functor>PARTL</functor>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>malé písmeno</text>
-</LM>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ez_061.09-SCzechT-m-d1t3447-6">
 <a>

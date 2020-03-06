@@ -590,12 +590,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>lemma změněno ze substantivního "troška" na adverbiální</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="hg-27638_03.02-SCzechT-m-d1t764-8">
 <a>
@@ -5447,22 +5441,10 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>substantivum "ras" změněno na adjektivum</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>opisné pasivum</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5751,12 +5733,6 @@
 <deepord>9</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>lemma změněno ze slovesného na adjektivní</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8794,12 +8770,6 @@
 <deepord>8</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>změněno ze slovesného lemmatu na adjektivní - reflexivně pojatý děj</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

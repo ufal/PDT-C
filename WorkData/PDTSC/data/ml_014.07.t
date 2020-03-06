@@ -256,12 +256,6 @@
 <deepord>14</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>změněno ze substantiva na sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml_014.07-SCzechT-m-d1t2509-1">
 <a>
@@ -760,10 +754,6 @@
 <LM>
 <type>New valency frame</type>
 <text>P</text>
-</LM>
-<LM>
-<type>M-lemma</type>
-<text>změněno z adjektiva na substantivum</text>
 </LM>
 </annot_comment>
 </LM>

@@ -799,12 +799,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>10</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -1886,12 +1880,6 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>chybné t-lemma</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1948,12 +1936,6 @@
 <t_lemma>zrovínka</t_lemma>
 <functor>RHEM</functor>
 <deepord>10</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>dlouhé í</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_135.10-SCzechT-m-d1t1841-14">
 <a>
@@ -5379,12 +5361,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>18</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -9769,6 +9745,12 @@
 <deepord>9</deepord>
 </LM>
 </children>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>nP</text>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>es_135.10-SCzechT-m-d1t1938-5</target-node.rf>
@@ -9776,12 +9758,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>nP</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -10264,12 +10240,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>jako lemma vygenerováno "viz"</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_135.10-SCzechT-m-d1t1944-4">
 <a>

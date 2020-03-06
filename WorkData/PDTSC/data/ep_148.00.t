@@ -1143,12 +1143,6 @@
 <t_lemma>prosím</t_lemma>
 <functor>PARTL</functor>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>chybné t-lemma</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ep_148.00-SCzechT-m-d1t60-6">
 <a>
@@ -7375,11 +7369,6 @@
 <functor>PARTL</functor>
 <sentmod>enunc</sentmod>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

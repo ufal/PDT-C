@@ -1899,12 +1899,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2858,11 +2852,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>12</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4010,12 +3999,6 @@
 <src>anna</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>ustrnulé spojení</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6921,31 +6904,14 @@
 <negation>neg0</negation>
 </gram>
 <deepord>11</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
-</LM>
-</children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
 </LM>
-</annot_comment>
+</children>
 </LM>
 </children>
 </LM>
@@ -7257,12 +7223,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>malé písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk_012.00-SCzechT-m-d1t440-5">
 <a>
@@ -7320,11 +7280,6 @@
 <src>anna</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk_012.00-SCzechT-m-d1t442-3">
 <a>

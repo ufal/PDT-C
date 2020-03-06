@@ -1466,6 +1466,12 @@
 </coref_text>
 </LM>
 </children>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>P</text>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>ml_124.09-SCzechT-m-d1t1456-3</target-node.rf>
@@ -1473,12 +1479,6 @@
 <src>mark</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>P</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml_124.09-SCzechT-m-d1t1471-5">
 <a>
@@ -4277,10 +4277,6 @@
 </gram>
 <deepord>14</deepord>
 <annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>kvůli překlepu vygenerováno lemma "letět"</text>
-</LM>
 <LM>
 <type>Typo</type>
 <text>má být "létě"</text>

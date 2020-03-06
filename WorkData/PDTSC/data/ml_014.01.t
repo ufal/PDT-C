@@ -6877,12 +6877,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>změněno ze substantiva na sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

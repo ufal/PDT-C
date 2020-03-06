@@ -991,12 +991,6 @@
 <t_lemma>#Period3</t_lemma>
 <functor>PAT</functor>
 <deepord>12</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>tři tečky</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2367,12 +2361,6 @@
 <src>lenk</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatně utvořený nominativ místního jména</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3391,12 +3379,6 @@
 <t_lemma>taky</t_lemma>
 <functor>RHEM</functor>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>příslovce</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk-28105_03.00-SCzechT-lk-28105_03-d1e84-x7-n10">
 <nodetype>complex</nodetype>
@@ -5250,12 +5232,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>tři tečky</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5406,12 +5382,6 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>8</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>adjektivum</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk-28105_03.00-SCzechT-m-d1t275-1">
 <a>
@@ -5847,12 +5817,6 @@
 <t_lemma>#Period3</t_lemma>
 <functor>DIR3</functor>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>tři tečky</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7477,12 +7441,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>10</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatně utvořený nominativ místního jména</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7527,12 +7485,6 @@
 <src>lenk</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatně utvořený nominativ místního jména</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7573,12 +7525,6 @@
 <src>lenk</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatně utvořený nominativ místního jména</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -9089,12 +9035,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>lépe #Comma</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <annot_comment>

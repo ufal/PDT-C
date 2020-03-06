@@ -155,12 +155,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2724,13 +2718,6 @@
 <deepord>9</deepord>
 <annot_comment>
 <LM>
-<type>M-lemma</type>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>kleslá parenteze</text>
-</LM>
-<LM>
 <type>Other</type>
 <text>kleslá parenteze, bez valence</text>
 </LM>
@@ -2767,15 +2754,6 @@
 <deepord>11</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4941,10 +4919,6 @@
 <is_parenthesis>1</is_parenthesis>
 <deepord>2</deepord>
 <annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>kleslá parenteze</text>
-</LM>
 <LM>
 <type>Other</type>
 <text>kleslá parenteze, bez valence</text>

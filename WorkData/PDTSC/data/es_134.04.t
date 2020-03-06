@@ -5651,12 +5651,6 @@
 <deepord>11</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>z místo s</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5938,11 +5932,6 @@
 <sempos>adv.pron.def</sempos>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_134.04-SCzechT-m-d1t576-2">
 <a>

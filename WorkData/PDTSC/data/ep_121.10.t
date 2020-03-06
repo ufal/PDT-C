@@ -137,12 +137,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ep_121.10-SCzechT-m-d1t2031-9">
 <a>
@@ -1566,6 +1560,12 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>nP</text>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>ep_121.10-SCzechT-m-d1t2031-3</target-node.rf>
@@ -1573,12 +1573,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>nP</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ep_121.10-SCzechT-m-d1t2050-4">
 <a>
@@ -2780,12 +2774,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vlastní jméno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3015,12 +3003,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vlastní jméno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3229,12 +3211,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vlastní jméno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ep_121.10-SCzechT-ep_121-653-roota1">
 <coref_gram.rf>
@@ -4832,12 +4808,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vlastní jméno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

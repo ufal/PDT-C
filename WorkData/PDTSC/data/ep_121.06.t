@@ -295,12 +295,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vlastní jméno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -364,12 +358,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vlastní jméno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ep_121.06-SCzechT-m-d1t1308-6">
 <a>
@@ -559,12 +547,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vlastní jméno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ep_121.06-SCzechT-m-d1t1312-7">
 <a>
@@ -623,12 +605,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vlastní jméno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ep_121.06-SCzechT-m-d1t1312-9">
 <a>
@@ -2893,12 +2869,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3353,12 +3323,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>chybný tvar</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ep_121.06-SCzechT-m-d1t1362-7">
 <a>
@@ -4500,12 +4464,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8548,11 +8506,6 @@
 <src>coref</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ep_121.06-SCzechT-m-d1t1483-1">
 <a>

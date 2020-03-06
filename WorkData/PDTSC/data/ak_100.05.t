@@ -6042,9 +6042,6 @@
 <LM>
 <type>T-lemma with underscore</type>
 </LM>
-<LM>
-<type>M-tag</type>
-</LM>
 </annot_comment>
 </LM>
 <LM id="ak_100.05-SCzechT-m-d1t1354-9">

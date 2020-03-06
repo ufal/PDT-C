@@ -1806,12 +1806,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>11</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>substantivum</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ps_101.07-SCzechT-ps_101-96-roota1">
 <nodetype>atom</nodetype>
@@ -4766,12 +4760,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatně utvořený nominativ vlastního jména</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ps_101.07-SCzechT-m-d1t1275-15">
 <a>

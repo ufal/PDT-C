@@ -926,12 +926,6 @@
 <deepord>12</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>zástupné t-lemma</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5771,11 +5765,6 @@
 <deepord>8</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk_123.07-SCzechT-lk_123-40-roota1">
 <nodetype>atom</nodetype>

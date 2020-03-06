@@ -204,12 +204,6 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>12</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -315,12 +309,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk-16379_07.00-SCzechT-m-d1t23-18">
 <a>
@@ -3095,11 +3083,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk-16379_07.00-SCzechT-lk-16379_07-770-roota13">
 <a>
@@ -3471,20 +3454,8 @@
 <t_lemma>vás</t_lemma>
 <functor>DPHR</functor>
 <deepord>11</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>ustrnulý tvar</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>ustrnulý tvar</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk-16379_07.00-SCzechT-lk-16379_07-d1e20-x12-roota4">
 <nodetype>complex</nodetype>
@@ -6044,11 +6015,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -10267,11 +10233,6 @@
 <t_lemma>vlastní</t_lemma>
 <functor>RSTR</functor>
 <deepord>10</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk-16379_07.00-SCzechT-m-d1t242-12">
 <a>

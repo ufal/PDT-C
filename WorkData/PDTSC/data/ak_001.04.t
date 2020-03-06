@@ -6819,12 +6819,6 @@
 <src>coref</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>zájmeno ukazovací</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ak_001.04-SCzechT-m-d1t1420-16">
 <a>

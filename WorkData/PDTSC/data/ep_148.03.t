@@ -6329,20 +6329,8 @@
 <t_lemma>jiný</t_lemma>
 <functor>RSTR</functor>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ep_148.03-SCzechT-m-d1t1614-2">
 <a>
@@ -7834,12 +7822,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>16</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8279,12 +8261,6 @@
 <deepord>13</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8495,12 +8471,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>10</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

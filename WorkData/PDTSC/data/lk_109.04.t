@@ -8956,11 +8956,6 @@
 <src>coref</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk_109.04-SCzechT-m-d1t771-10">
 <a>

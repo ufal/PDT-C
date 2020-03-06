@@ -3728,12 +3728,6 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>jiné sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

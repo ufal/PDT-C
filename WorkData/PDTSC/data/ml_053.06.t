@@ -437,12 +437,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>13</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5445,12 +5439,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>pást</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml_053.06-SCzechT-m-d1t2277-1">
 <a>

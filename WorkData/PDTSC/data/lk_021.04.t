@@ -4744,12 +4744,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno změněno na malé</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

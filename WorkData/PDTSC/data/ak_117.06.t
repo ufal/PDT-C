@@ -437,12 +437,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ak_117.06-SCzechT-m-d1t1535-10">
 <a>
@@ -3112,12 +3106,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>1 v 2</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5911,12 +5899,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

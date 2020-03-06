@@ -919,12 +919,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>17</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3275,12 +3269,6 @@
 <deepord>14</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>2 v 1</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="jg-12941_04.01-SCzechT-m-d1t500-10">
 <a>
@@ -4287,6 +4275,12 @@
 <deepord>6</deepord>
 </LM>
 </children>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>P</text>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>jg-12941_04.01-SCzechT-m-d1t511-10</target-node.rf>
@@ -4294,12 +4288,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>P</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="jg-12941_04.01-SCzechT-jg-12941_04-4108-roota1">
 <nodetype>qcomplex</nodetype>
@@ -4956,11 +4944,6 @@
 <t_lemma>by</t_lemma>
 <functor>FPHR</functor>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="jg-12941_04.01-SCzechT-m-d1t526-5">
 <a>
@@ -11348,12 +11331,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>14</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>krátce</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <annot_comment>
@@ -11436,12 +11413,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>18</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -12764,12 +12735,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>krátce</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

@@ -1159,12 +1159,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>8</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>příslovce</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml_043.03-SCzechT-ml_043-d1e1014-x2-roota1">
 <nodetype>qcomplex</nodetype>
@@ -5114,12 +5108,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>16</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6155,12 +6143,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>10</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml_043.03-SCzechT-m-d1t1218-6">
 <a>

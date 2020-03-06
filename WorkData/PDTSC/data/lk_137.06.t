@@ -1159,12 +1159,6 @@
 <sempos>adv.denot.grad.neg</sempos>
 </gram>
 <deepord>14</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>není spojka</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

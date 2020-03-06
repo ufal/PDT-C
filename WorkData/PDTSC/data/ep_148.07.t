@@ -7641,19 +7641,9 @@
 <negation>neg0</negation>
 </gram>
 <deepord>7</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>chybné jméno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>nespisovný tvar způsobil nerozpoznání lemmatu</text>
-</LM>
 <LM>
 <type>Typo</type>
 <text>jedeme</text>

@@ -166,12 +166,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>femininum</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3208,12 +3202,6 @@
 <deepord>12</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>špatně utvořený nominativ místního jména</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6654,6 +6642,12 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>nP</text>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>ep_136.00-SCzechT-m-d1t270-4</target-node.rf>
@@ -6661,12 +6655,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>nP</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

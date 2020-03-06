@@ -298,9 +298,6 @@
 <type>Other</type>
 <text>deminutivum bez singuláru</text>
 </LM>
-<LM>
-<type>M-tag</type>
-</LM>
 </annot_comment>
 </LM>
 <LM id="hg_006.07-SCzechT-m-d1t2380-7">

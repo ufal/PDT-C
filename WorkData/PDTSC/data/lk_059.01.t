@@ -1404,12 +1404,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>chybné t-lemma</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk_059.01-SCzechT-m-d1t508-8">
 <a>

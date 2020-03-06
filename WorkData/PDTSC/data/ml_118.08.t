@@ -3334,12 +3334,6 @@
 <t_lemma>taky</t_lemma>
 <functor>RHEM</functor>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>příslovce</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml_118.08-SCzechT-m-d1t1565-4">
 <a>
@@ -5769,12 +5763,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ml_118.08-SCzechT-m-d1t1640-6">
 <a>
@@ -6139,12 +6127,6 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

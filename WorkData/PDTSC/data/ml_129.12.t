@@ -4079,12 +4079,6 @@
 </coref_text>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>změněno ze substantiva "Píša" na sloveso "psát"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

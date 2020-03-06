@@ -3564,12 +3564,6 @@
 <deepord>7</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vygenerováno jako sloveso stát</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -4007,12 +4001,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>změněno ze slovesa</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ak_051.10-SCzechT-m-d1t3717-9">
 <a>

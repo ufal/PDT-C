@@ -1337,12 +1337,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>lemma změněno na nominativ</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1405,12 +1399,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>lemma změněno na nominativ</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <coref_text>
@@ -6733,12 +6721,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>lemma změněno na nominativ</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk_021.08-SCzechT-m-d1t2957-4x3">
 <nodetype>complex</nodetype>

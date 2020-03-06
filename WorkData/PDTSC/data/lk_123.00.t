@@ -3107,12 +3107,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk_123.00-SCzechT-lk_123-68-roota1">
 <a>

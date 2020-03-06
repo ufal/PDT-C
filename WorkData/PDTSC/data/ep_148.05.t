@@ -2857,12 +2857,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8200,10 +8194,6 @@
 <deepord>6</deepord>
 <annot_comment>
 <LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-<LM>
 <type>Typo</type>
 <text>tak řeká se jmenuje Divoká Orlice</text>
 </LM>
@@ -8214,12 +8204,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8381,12 +8365,6 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>7</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

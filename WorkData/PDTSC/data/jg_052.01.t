@@ -996,12 +996,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>chybné t-lemma</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="jg_052.01-SCzechT-m-d1t427-6">
 <a>
@@ -1021,12 +1015,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>chybné t-lemma</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1130,12 +1118,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno: sjezdovka</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="jg_052.01-SCzechT-m-d1t433-3">
 <a>
@@ -1162,12 +1144,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno: běžka</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1308,12 +1284,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno běžka</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1685,12 +1655,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>běžka</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="jg_052.01-SCzechT-m-d1t453-4">
 <a>
@@ -1872,12 +1836,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>sjezdovka</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="jg_052.01-SCzechT-m-d1t466-1">
 <a>
@@ -3897,12 +3855,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6459,11 +6411,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

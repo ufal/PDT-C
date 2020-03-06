@@ -1183,12 +1183,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>14</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1312,12 +1306,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>22</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3115,12 +3103,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ez_061.02-SCzechT-m-470-527">
 <a>
@@ -8084,6 +8066,12 @@
 <politeness>basic</politeness>
 </gram>
 <deepord>4</deepord>
+<annot_comment>
+<LM>
+<type>Typo</type>
+<text>chyba ve větě, správně "ji"</text>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>ez_061.02-SCzechT-ez_061-77-roota1</target-node.rf>
@@ -8091,12 +8079,6 @@
 <src>coref</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>chyba ve větě, správně "ji"</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ez_061.02-SCzechT-m-d1t988-4">
 <a>

@@ -2329,12 +2329,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>změněno z feminina "parka" na maskulinum "park"</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_127.11-SCzechT-m-d1t2405-13">
 <a>
@@ -3133,6 +3127,12 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>nP</text>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>es_127.11-SCzechT-m-d1t2401-9</target-node.rf>
@@ -3140,12 +3140,6 @@
 <src>hana</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>nP</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_127.11-SCzechT-m-d1t2426-15">
 <a>
@@ -7788,12 +7782,6 @@
 <functor>PARTL</functor>
 <sentmod>enunc</sentmod>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>ze slovesného lemmatu změněno na lemma částice</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

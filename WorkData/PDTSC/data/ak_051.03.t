@@ -4291,12 +4291,6 @@
 <src>coref</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>ze slovesa změněno na zájmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

@@ -133,12 +133,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>7</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>chybný tvar</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -901,11 +895,6 @@
 <t_lemma>tuš</t_lemma>
 <functor>MEANS</functor>
 <deepord>9</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1548,12 +1537,6 @@
 <sempos>v</sempos>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>český pravopis</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk_109.01-SCzechT-m-d1t178-2">
 <a>
@@ -7403,12 +7386,6 @@
 <deepord>12</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk_109.01-SCzechT-m-d1t271-28">
 <a>
@@ -8463,12 +8440,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>10</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="lk_109.01-SCzechT-m-d1t290-15">
 <a>

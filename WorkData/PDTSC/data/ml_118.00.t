@@ -120,12 +120,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>femininum</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

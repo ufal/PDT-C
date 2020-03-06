@@ -2405,12 +2405,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>substantivizované adjektivum</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_139.04-SCzechT-es_139-d1e1777-x2-n7">
 <nodetype>complex</nodetype>
@@ -4423,11 +4417,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>7</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4674,12 +4663,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>substantivizované adjektivum</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_139.04-SCzechT-es_139-d1e1896-x2-n6">
 <nodetype>complex</nodetype>
@@ -8736,6 +8719,12 @@
 </coref_text>
 </LM>
 </children>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>P</text>
+</LM>
+</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>es_139.04-SCzechT-m-d1t1918-3</target-node.rf>
@@ -8743,12 +8732,6 @@
 <src>maru</src>
 </LM>
 </coref_text>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>P</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="es_139.04-SCzechT-m-d1t2071-4">
 <a>

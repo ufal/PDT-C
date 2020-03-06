@@ -65,20 +65,8 @@
 <t_lemma>vás</t_lemma>
 <functor>DPHR</functor>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>ustrnulý tvar</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>ustrnulý tvar</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="hg-26797_05.03-SCzechT-hg-26797_05-id62774-x1-roota3">
 <coref_special>exoph</coref_special>
@@ -6603,11 +6591,6 @@
 <t_lemma>předepsaný</t_lemma>
 <functor>EFF</functor>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="hg-26797_05.03-SCzechT-m-id63792-7">
 <a>
@@ -6843,12 +6826,6 @@
 <deepord>2</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>kleslá parenteze</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="hg-26797_05.03-SCzechT-m-id63802-17">
 <a>
@@ -7922,12 +7899,6 @@
 <deepord>3</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>kleslá parenteze</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="hg-26797_05.03-SCzechT-m-id63963-7">
 <a>

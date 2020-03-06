@@ -3812,12 +3812,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno t-lemma "pokoupili"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
