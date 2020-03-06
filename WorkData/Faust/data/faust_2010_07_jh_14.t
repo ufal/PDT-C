@@ -1011,12 +1011,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>zkratka</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1647,11 +1641,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2071,11 +2060,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>23</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3070,11 +3054,6 @@
 <t_lemma>Peru</t_lemma>
 <functor>LOC</functor>
 <deepord>9</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_jh_14-SCzechT-p1465-s1-w12">
 <a>
@@ -3777,11 +3756,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3846,11 +3820,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_jh_14-SCzechT-p1471-s1-w7">
 <a>
@@ -4085,11 +4054,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>22</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_jh_14-SCzechT-p1471-s1-w31">
 <a>
@@ -4749,11 +4713,6 @@
 <t_lemma>dík</t_lemma>
 <functor>PAT</functor>
 <deepord>16</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5070,11 +5029,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_jh_14-SCzechT-p1480-s1-w4">
 <a>
@@ -5517,15 +5471,6 @@
 <sempos>n.denot</sempos>
 </gram>
 <deepord>10</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>1 ve 3</text>
-</LM>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5688,11 +5633,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_jh_14-SCzechT-p1493-s1-w3">
 <a>
@@ -6652,10 +6592,6 @@
 </gram>
 <deepord>6</deepord>
 <annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>český pravopis</text>
-</LM>
 <LM>
 <type>New valency frame</type>
 <text>W ACT(.1) PAT(.4) Naskenoval články.</text>
@@ -7885,12 +7821,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

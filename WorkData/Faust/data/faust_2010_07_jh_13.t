@@ -197,11 +197,6 @@
 <deepord>1</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_jh_13-SCzechT-p1296-s1-roota1">
 <nodetype>qcomplex</nodetype>
@@ -1413,9 +1408,6 @@
 <deepord>2</deepord>
 <annot_comment>
 <LM>
-<type>M-tag</type>
-</LM>
-<LM>
 <type>Other</type>
 <text>nejsem si jista lemmatem</text>
 </LM>
@@ -1468,11 +1460,6 @@
 <deepord>5</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_jh_13-SCzechT-p1315-s1-w8">
 <a>
@@ -1521,11 +1508,6 @@
 <deepord>8</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_jh_13-SCzechT-p1315-s1-w12">
 <a>
@@ -1700,11 +1682,6 @@
 <deepord>19</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_jh_13-SCzechT-p1315-s1-w24">
 <a>
@@ -1753,11 +1730,6 @@
 <deepord>22</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_jh_13-SCzechT-p1315-s1-w28">
 <a>
@@ -1806,11 +1778,6 @@
 <deepord>25</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_jh_13-SCzechT-p1315-s1-w32">
 <a>
@@ -1843,11 +1810,6 @@
 <deepord>26</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1947,15 +1909,6 @@
 <t_lemma>Prosím</t_lemma>
 <functor>PARTL</functor>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>ustrnulý tvar</text>
-</LM>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_jh_13-SCzechT-p1320-s1-roota1">
 <nodetype>qcomplex</nodetype>
@@ -2101,9 +2054,6 @@
 <type>New valency frame</type>
 <text>P</text>
 </LM>
-<LM>
-<type>M-tag</type>
-</LM>
 </annot_comment>
 </LM>
 </children>
@@ -2142,15 +2092,6 @@
 <t_lemma>Prosím</t_lemma>
 <functor>PARTL</functor>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>ustrnulý tvar</text>
-</LM>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_jh_13-SCzechT-p1326-s1-roota2">
 <nodetype>qcomplex</nodetype>
@@ -2571,23 +2512,8 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2819,11 +2745,6 @@
 <deepord>1</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2937,14 +2858,6 @@
 <deepord>3</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3151,12 +3064,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>12</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velká písmena</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3190,12 +3097,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>14</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_jh_13-SCzechT-p1354-s1-w16">
 <a>
@@ -4386,12 +4287,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>28</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>ne zkratka</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4526,11 +4421,6 @@
 </annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4615,12 +4505,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_jh_13-SCzechT-p1371-s1-w3">
 <a>
@@ -5604,15 +5488,6 @@
 <t_lemma>prosím</t_lemma>
 <functor>PARTL</functor>
 <deepord>13</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>ustrnulý tvar</text>
-</LM>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_jh_13-SCzechT-p1389-s1-w13">
 <a>

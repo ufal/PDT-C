@@ -599,10 +599,6 @@
 <type>New valency frame</type>
 <text>F ACT(.1) PAT(.1;.4;pro+4) LOC(.1;.4;na+6;*) Příklad zarážky viz obrázek 3.</text>
 </LM>
-<LM>
-<type>T-lemma</type>
-<text>změněno na infinitiv</text>
-</LM>
 </annot_comment>
 </LM>
 </children>
@@ -3410,10 +3406,6 @@
 <type>New valency frame</type>
 <text>W ACT(.1) ADDR(s+7) ?PAT(o+6) Nerada se mnou chatuješ.</text>
 </LM>
-<LM>
-<type>M-lemma</type>
-<text>změněno ze substantiva na sloveso</text>
-</LM>
 </annot_comment>
 </LM>
 </children>
@@ -3889,10 +3881,6 @@
 <LM>
 <type>New valency frame</type>
 <text>F ACT(.1) PAT(.1;.4;pro+4) LOC(.1;.4;na+6;*) Viz obrázek 1.</text>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>lemma změněno na infinitiv</text>
 </LM>
 </annot_comment>
 </LM>
@@ -4403,12 +4391,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>7</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>změněno ze slovesa na zájmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <annot_comment>
@@ -4483,12 +4465,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>změněno z vokativu na nominativ</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_19-SCzechT-p2034-s1-w5">
 <a>
@@ -4930,12 +4906,6 @@
 <deepord>33</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>lemma opraveno ze substantiva na sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_19-SCzechT-p2034-s1-w37">
 <a>
@@ -5112,12 +5082,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>43</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>upraveno na první pád</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_19-SCzechT-p2034-s1-w47">
 <a>
@@ -6244,12 +6208,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>7</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>změněno ze substantiva na adjektivum</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_19-SCzechT-p2049-s1-w14">
 <a>
@@ -6773,11 +6731,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_19-SCzechT-p2049-s1-w58">
 <a>
@@ -6937,9 +6890,6 @@
 </LM>
 </children>
 <annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
 <LM>
 <type>New valency frame</type>
 <text>nP</text>
@@ -7924,12 +7874,6 @@
 <deepord>3</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>změněno z adverbia na sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_19-SCzechT-p2073-s1-roota1">
 <nodetype>qcomplex</nodetype>
@@ -9207,10 +9151,6 @@
 <LM>
 <type>New valency frame</type>
 <text>F ACT(.1) PAT(.1;.4;pro+4) LOC(.1;.4;na+6;*) Viz http://postmaster.yahoo.com</text>
-</LM>
-<LM>
-<type>T-lemma</type>
-<text>změněno na infinitiv</text>
 </LM>
 </annot_comment>
 </LM>

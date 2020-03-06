@@ -726,11 +726,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_jh_02-SCzechT-p0103-s1-w3">
 <a>
@@ -1726,12 +1721,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_jh_02-SCzechT-p0112-s1-w4">
 <a>
@@ -3580,11 +3569,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3975,11 +3959,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>26</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7921,9 +7900,6 @@
 </children>
 <annot_comment>
 <LM>
-<type>M-lemma</type>
-</LM>
-<LM>
 <type>New valency frame</type>
 <text>A CPHR({síla}) Dej mi sílu pokračovat.</text>
 </LM>
@@ -8822,11 +8798,6 @@
 <t_lemma>onspot</t_lemma>
 <functor>FPHR</functor>
 <deepord>27</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_jh_02-SCzechT-p0194-s1C-roota3">
 <a>

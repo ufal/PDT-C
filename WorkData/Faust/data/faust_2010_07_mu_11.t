@@ -807,10 +807,6 @@
 <type>New valency frame</type>
 <text>W ACT(.1) PAT(.4) % Chci, abys mě šukal do bezvědomí.</text>
 </LM>
-<LM>
-<type>M-lemma</type>
-<text>vygenerováno jako substantivum s lemmatem "šukal"</text>
-</LM>
 </annot_comment>
 </LM>
 </children>
@@ -2074,12 +2070,6 @@
 <deepord>5</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vygenerováno jako sloveso "bratřit"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2732,12 +2722,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>změněno ze substantiva na adjektivum</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3855,12 +3839,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vygenerováno lemma "bož"</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_11-SCzechT-p1141-s1-roota1">
 <nodetype>qcomplex</nodetype>
@@ -4883,12 +4861,6 @@
 </annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vygenerováno jako "dno"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

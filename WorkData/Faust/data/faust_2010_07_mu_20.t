@@ -8872,12 +8872,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>49</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>změněno na nominativ</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

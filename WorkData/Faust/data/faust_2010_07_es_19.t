@@ -240,10 +240,6 @@
 <type>New valency frame</type>
 <text>P</text>
 </LM>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
 </annot_comment>
 </LM>
 <LM id="faust_2010_07_es_19-SCzechT-p1990-s1-w9">
@@ -318,12 +314,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>8</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -655,20 +645,11 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>30</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>1 ve 3</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
 </children>
 <annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
 <LM>
 <type>New valency frame</type>
 <text>F ($2&lt;i&gt;) ACT(.1) PAT(.1;.4;pro+4) LOC(.1;.4;na+6;*) Příklad viz obrázek 3.22.</text>
@@ -1002,10 +983,6 @@
 </LM>
 </children>
 <annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
 <LM>
 <type>New valency frame</type>
 <text>P</text>
@@ -1446,11 +1423,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1703,10 +1675,6 @@
 <deepord>2</deepord>
 <annot_comment>
 <LM>
-<type>T-lemma</type>
-<text>kleslá parenteze</text>
-</LM>
-<LM>
 <type>Other</type>
 <text>kleslá parenteze, bez valence</text>
 </LM>
@@ -1761,11 +1729,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2463,12 +2426,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>7</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_es_19-SCzechT-p2018-s1-w12">
 <a>
@@ -2768,12 +2725,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>27</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3139,12 +3090,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3330,12 +3275,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>18</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3726,9 +3665,6 @@
 <LM>
 <type>Typo</type>
 </LM>
-<LM>
-<type>M-lemma</type>
-</LM>
 </annot_comment>
 </LM>
 </children>
@@ -4035,18 +3971,9 @@
 <deepord>28</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
 <LM>
 <type>New valency frame</type>
 <text>F ($2&lt;i&gt;) ACT(.1) PAT(.1;.4;pro+4) LOC(.1;.4;na+6;*) Viz Obrázek 1.</text>
@@ -4583,11 +4510,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>7</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4671,11 +4593,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4723,10 +4640,6 @@
 <is_parenthesis>1</is_parenthesis>
 <deepord>6</deepord>
 <annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>kleslá parenteze</text>
-</LM>
 <LM>
 <type>Other</type>
 <text>kleslá parenteze, bez valence</text>
@@ -5361,11 +5274,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>47</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_es_19-SCzechT-p2034-s1-roota19">
 <a>
@@ -5524,11 +5432,6 @@
 <t_lemma>dík</t_lemma>
 <functor>PAT</functor>
 <deepord>58</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6258,12 +6161,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <annot_comment>
@@ -6426,11 +6323,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_es_19-SCzechT-p2049-s1-w3">
 <a>
@@ -6901,11 +6793,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>43</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7063,9 +6950,6 @@
 </children>
 <annot_comment>
 <LM>
-<type>M-lemma</type>
-</LM>
-<LM>
 <type>Typo</type>
 </LM>
 <LM>
@@ -7109,11 +6993,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>38</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_es_19-SCzechT-p2049-s1-w51">
 <a>
@@ -7207,11 +7086,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>47</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_es_19-SCzechT-p2049-s1-w59">
 <a>
@@ -7344,9 +7218,6 @@
 <type>New valency frame</type>
 <text>P</text>
 </LM>
-<LM>
-<type>M-tag</type>
-</LM>
 </annot_comment>
 </LM>
 </children>
@@ -7450,9 +7321,6 @@
 </LM>
 </children>
 <annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
 <LM>
 <type>New valency frame</type>
 <text>F ($2&lt;i&gt;) ACT(.1) PAT(.1;.4;pro+4) LOC(.1;.4;na+6;*) Podrobnosti viz</text>
@@ -7583,12 +7451,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>Velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8272,11 +8134,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8366,9 +8223,6 @@
 </LM>
 </children>
 <annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
 <LM>
 <type>Other</type>
 <text>změněn gram/sempos z adv.denot.grad.nneg na v pro přiřazení existujícího valrámce pro sloveso</text>
@@ -8720,11 +8574,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>18</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_es_19-SCzechT-p2075-s1-w19">
 <a>
@@ -9151,11 +9000,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -9446,12 +9290,6 @@
 <numertype>basic</numertype>
 </gram>
 <deepord>18</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>1 v 7</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -9765,9 +9603,6 @@
 </LM>
 </children>
 <annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
 <LM>
 <type>New valency frame</type>
 <text>F ($2&lt;i&gt;) ACT(.1) PAT(.1;.4;pro+4) LOC(.1;.4;na+6;*) Viz https://postmaster.yahoo.com/421.html</text>

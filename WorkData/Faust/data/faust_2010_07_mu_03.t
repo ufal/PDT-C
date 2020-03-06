@@ -874,11 +874,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_03-SCzechT-p0206-s1-w3">
 <a>
@@ -894,11 +889,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_03-SCzechT-p0206-s1-roota3">
 <nodetype>atom</nodetype>
@@ -1836,12 +1826,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1886,17 +1870,11 @@
 </children>
 <annot_comment>
 <LM>
-<type>M-lemma</type>
-</LM>
-<LM>
 <type>Typo</type>
 </LM>
 <LM>
 <type>New valency frame</type>
 <text>W ACT(.1) PAT(s+7) ?EFF(do+2;v+4) (sdružit se) Semknout se v šik.</text>
-</LM>
-<LM>
-<type>M-tag</type>
 </LM>
 </annot_comment>
 </LM>
@@ -2098,9 +2076,6 @@
 </LM>
 </children>
 <annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
 <LM>
 <type>Typo</type>
 </LM>
@@ -2502,11 +2477,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3396,11 +3366,6 @@
 <deepord>2</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3459,12 +3424,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_03-SCzechT-p0242-s1-roota1">
 <nodetype>qcomplex</nodetype>
@@ -5114,11 +5073,6 @@
 <deepord>27</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_03-SCzechT-p0258-s1-w37">
 <a>
@@ -5203,11 +5157,6 @@
 <deepord>33</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_03-SCzechT-p0258-s1-w46">
 <a>
@@ -5339,11 +5288,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

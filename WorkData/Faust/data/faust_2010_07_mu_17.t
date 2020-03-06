@@ -220,12 +220,6 @@
 <number>pl</number>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vygenerováno jako ukazovací zájmeno "ten"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -397,12 +391,6 @@
 <deepord>10</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>vygenerováno lemma "k"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -944,10 +932,6 @@
 <type>New valency frame</type>
 <text>F ACT(.1) PAT(.1;.4;pro+4) LOC(.1;.4;na+6;*) viz obrázek 4.</text>
 </LM>
-<LM>
-<type>T-lemma</type>
-<text>předěláno na infinitiv</text>
-</LM>
 </annot_comment>
 </LM>
 </children>
@@ -1215,12 +1199,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>jako lemma vygenerován sedmý pád</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1319,12 +1297,6 @@
 <deepord>10</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>změněno z infinitivu na participium</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1408,12 +1380,6 @@
 <number>pl</number>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>lemma změněno z ukazovacího zájmena "ten" na osobní zájmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_17-SCzechT-p1761-s1-w4">
 <a>
@@ -2019,12 +1985,6 @@
 <deepord>1</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>lemma změněno ze slovesa na osobní jméno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_17-SCzechT-p1769-s1-w5">
 <a>
@@ -4134,12 +4094,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vygenerováno jako jméno "Lollina"</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_17-SCzechT-p1786-s1-w2">
 <a>
@@ -6994,12 +6948,6 @@
 <number>pl</number>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>lemma změněno z ukazovacího zájmena na osobní</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_17-SCzechT-p1815-s1-w5">
 <a>
@@ -7323,12 +7271,6 @@
 <number>pl</number>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>lemma změněno z ukazovacího zájmena na osobní</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_17-SCzechT-p1816-s1-roota1">
 <nodetype>qcomplex</nodetype>
@@ -8030,11 +7972,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>14</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8090,12 +8027,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>lemma změněno na maskulinum singuláru</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

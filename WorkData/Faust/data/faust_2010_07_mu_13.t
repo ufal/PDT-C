@@ -1715,11 +1715,6 @@
 <deepord>24</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1874,12 +1869,6 @@
 <deepord>7</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vygenerováno lemma "dej"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2040,12 +2029,6 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>úprava lemmatu na ustrnulý tvar</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_13-SCzechT-p1326-s1-roota2">
 <nodetype>qcomplex</nodetype>
@@ -3285,11 +3268,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3359,12 +3337,6 @@
 <deepord>4</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vygenerováno substantivní lemma mysl</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3678,11 +3650,6 @@
 <deepord>3</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4704,12 +4671,6 @@
 <deepord>3</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>změněno ze substantiv "nadšení" na adjektivum</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4968,12 +4929,6 @@
 </annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>změna lemmatu z "díky" na "dík"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5195,12 +5150,6 @@
 <sempos>adv.pron.def</sempos>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vygenerováno adverbiální lemma "tady"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5406,12 +5355,6 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>10</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>změna na ustálené lemma</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_13-SCzechT-p1389-s1B-roota1">
 <nodetype>qcomplex</nodetype>

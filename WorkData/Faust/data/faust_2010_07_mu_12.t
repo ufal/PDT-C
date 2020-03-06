@@ -286,12 +286,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>1 v 3</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -852,12 +846,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vygenerováno lemma "budit"</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_12-SCzechT-p1212-s1-roota1">
 <nodetype>qcomplex</nodetype>
@@ -1643,12 +1631,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vygenerováno adjektivní lemma "zdraví"</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_12-SCzechT-p1221-s1-w13">
 <a>
@@ -1900,12 +1882,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vygenerováno "onlinův"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2008,11 +1984,6 @@
 <deepord>2</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_12-SCzechT-p1224-s1-w6">
 <a>
@@ -2029,11 +2000,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_12-SCzechT-p1224-s1-w8">
 <a>
@@ -2601,12 +2567,6 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>14</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-<text>chybný pád v m-tagu</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2675,11 +2635,6 @@
 <deepord>18</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_12-SCzechT-p1239-s1-w32">
 <a>
@@ -2714,16 +2669,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>19</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>3 v 2</text>
-</LM>
-<LM>
-<type>M-lemma</type>
-<text>vygenerován tvar adjektiva v ženském rodě</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_12-SCzechT-p1239-s1-w31">
 <a>
@@ -4325,12 +4270,6 @@
 <deepord>8</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vygenerován ženský rod "prostora"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5964,12 +5903,6 @@
 <deepord>6</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vygenerováno lemma "smsko"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <annot_comment>
@@ -6018,12 +5951,6 @@
 <number>pl</number>
 </gram>
 <deepord>9</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vygenerováno zájmeno "ten"</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_12-SCzechT-p1276-s1A-roota5">
 <nodetype>qcomplex</nodetype>
@@ -6127,12 +6054,6 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>15</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>změna na ustrnulý tvar</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_12-SCzechT-p1276-s1B-roota1">
 <nodetype>qcomplex</nodetype>
@@ -6366,9 +6287,6 @@
 </LM>
 </children>
 <annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
 <LM>
 <type>New valency frame</type>
 <text>P</text>

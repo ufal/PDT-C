@@ -5264,12 +5264,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>10</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>1 v 3</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

@@ -445,9 +445,6 @@
 </children>
 <annot_comment>
 <LM>
-<type>M-tag</type>
-</LM>
-<LM>
 <type>New valency frame</type>
 <text>P</text>
 </LM>
@@ -1224,12 +1221,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vygenerováno jako maskulinum "spondylolistéz"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2131,12 +2122,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>malé písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2299,12 +2284,6 @@
 <sempos>adv.pron.def</sempos>
 </gram>
 <deepord>13</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vygenerováno jako příslovce místa</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_15-SCzechT-p1556-s1-w13">
 <a>
@@ -4089,12 +4068,6 @@
 </annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vygenerováno lemma budit</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4781,12 +4754,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vygenerováno lemma "Bož"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

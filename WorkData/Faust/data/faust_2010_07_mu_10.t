@@ -254,12 +254,6 @@
 </children>
 <annot_comment>
 <LM>
-<type>M-lemma</type>
-</LM>
-<LM>
-<type>M-tag</type>
-</LM>
-<LM>
 <type>Typo</type>
 </LM>
 </annot_comment>
@@ -547,11 +541,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_10-SCzechT-p0990-s1-w5">
 <a>
@@ -1082,12 +1071,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_10-SCzechT-p0995-s1-w11">
 <a>
@@ -2223,11 +2206,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>8</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4892,11 +4870,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_10-SCzechT-p1044-s1-roota5">
 <a>
@@ -5466,11 +5439,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6068,12 +6036,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>1 v 3</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_10-SCzechT-p1049-s1-w6">
 <a>
@@ -7121,12 +7083,6 @@
 <deepord>32</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>1 v 2</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <annot_comment>
@@ -7479,13 +7435,7 @@
 </children>
 <annot_comment>
 <LM>
-<type>M-lemma</type>
-</LM>
-<LM>
 <type>Typo</type>
-</LM>
-<LM>
-<type>M-tag</type>
 </LM>
 <LM>
 <type>New valency frame</type>
@@ -7654,14 +7604,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_10-SCzechT-p1072-s1-w5">
 <a>
@@ -7832,11 +7774,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>14</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_10-SCzechT-p1072-s1-w23">
 <a>

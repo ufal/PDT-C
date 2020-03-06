@@ -962,12 +962,6 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>změna na ustálené lemma</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_18-SCzechT-p1872-s1-roota1">
 <nodetype>qcomplex</nodetype>
@@ -2610,12 +2604,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>7</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>změněno lemma "hodina"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <annot_comment>
@@ -2639,12 +2627,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>8</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>změněno lemma "hodina"</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_18-SCzechT-p1883-s1-w11">
 <a>
@@ -3173,12 +3155,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>42</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>změněno lemma "hodina"</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_18-SCzechT-p1883-s1-roota10">
 <nodetype>qcomplex</nodetype>
@@ -6471,12 +6447,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-<text>vygenerováno jako substantivum, změněno na sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6549,11 +6519,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

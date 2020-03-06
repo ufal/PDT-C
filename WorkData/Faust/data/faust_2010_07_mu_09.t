@@ -316,11 +316,6 @@
 <deepord>6</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -480,9 +475,6 @@
 </gram>
 <deepord>6</deepord>
 <annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
 <LM>
 <type>Typo</type>
 </LM>
@@ -1528,12 +1520,6 @@
 <numertype>basic</numertype>
 </gram>
 <deepord>8</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>1 v 3</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_09-SCzechT-p0895-s1-w12">
 <a>
@@ -1808,12 +1794,6 @@
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>23</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>1 v 3</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2344,11 +2324,6 @@
 <deepord>27</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_09-SCzechT-p0896-s1-w32">
 <a>
@@ -2507,12 +2482,6 @@
 <numertype>basic</numertype>
 </gram>
 <deepord>5</deepord>
-<annot_comment>
-<LM>
-<type>Word segmentation</type>
-<text>1 v 3</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2658,12 +2627,6 @@
 <deepord>15</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>opraveno na infinitiv</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3455,11 +3418,6 @@
 <deepord>1</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4419,9 +4377,6 @@
 </children>
 <annot_comment>
 <LM>
-<type>M-lemma</type>
-</LM>
-<LM>
 <type>Typo</type>
 </LM>
 </annot_comment>
@@ -4791,11 +4746,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5271,11 +5221,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_09-SCzechT-p0937-s1-w4">
 <a>
@@ -6189,9 +6134,6 @@
 </children>
 <annot_comment>
 <LM>
-<type>M-lemma</type>
-</LM>
-<LM>
 <type>Typo</type>
 </LM>
 </annot_comment>
@@ -6348,14 +6290,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>10</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6624,11 +6558,6 @@
 <deepord>3</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_09-SCzechT-p0952-s1-w10">
 <a>
@@ -6971,11 +6900,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>M-tag</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -7361,12 +7285,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>T-lemma</type>
-<text>velké písmeno</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_09-SCzechT-p0959-s1-w3">
 <a>
@@ -7405,11 +7323,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>M-lemma</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
