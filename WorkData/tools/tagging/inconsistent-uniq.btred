@@ -1,0 +1,22 @@
+#!btred -NTe lemma2pos()
+# -*- cperl -*-
+use warnings;
+use strict;
+
+open my $in, '<:encoding(UTF-8)', 'pdt-uniq.txt' or die $!;
+chomp( my @words = <$in> );
+my $regex = join '|', @words;
+$regex = qr/^(?:$regex)\b/;
+
+sub lemma2pos {
+    return if $this == $root;
+    my $lemma;
+    if (IsAlt($this->attr('tag'))) {
+        my @alts = AltV($this->attr('tag'));
+        $lemma = (grep $_->{selected}, @alts)[0]{lemma};
+    } else {
+        $lemma = $this->attr('tag/lemma');
+    }
+    print("!!!\t"), FPosition() unless defined $lemma;
+    print("$lemma\t"), FPosition() if defined $lemma && $lemma =~ $regex;
+}
