@@ -1357,13 +1357,14 @@
 <w.rf>
 <LM>w#w-es_20-SCzechM-p2102-s1-w10</LM>
 </w.rf>
-<form>_</form>
-<tag lemma="_" recommended="1">Z:-------------</tag>
-<comment>
-<LM type="New Form">
-<text>k</text>
-</LM>
-</comment>
+<form>k</form>
+<tag>
+<AM lemma="k-1" src="auto" recommended="1">RR--3----------</AM>
+<AM lemma="k-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="k-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="komanditní_:B_^(jen_komanditní_společnost)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="kůň" src="auto">NNMXX-----A---8</AM>
+</tag>
 </m>
 <m id="es_20-SCzechM-p2102-s1-w11">
 <w.rf>
@@ -1471,13 +1472,16 @@
 <w.rf>
 <LM>w#w-es_20-SCzechM-p2102-s1-w19</LM>
 </w.rf>
-<form>imformace</form>
-<tag lemma="imformace">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>informace</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>informace</form>
+<tag>
+<AM lemma="informace" src="auto">NNFP1-----A----</AM>
+<AM lemma="informace" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="informace" src="auto">NNFP5-----A----</AM>
+<AM lemma="informace" src="auto">NNFS1-----A----</AM>
+<AM lemma="informace" src="auto">NNFS2-----A----</AM>
+<AM lemma="informace" src="auto">NNFS5-----A----</AM>
+</tag>
 </m>
 <m id="es_20-SCzechM-p2102-s1-w20">
 <w.rf>

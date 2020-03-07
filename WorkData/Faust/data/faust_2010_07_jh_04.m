@@ -1768,13 +1768,9 @@
 <w.rf>
 <LM>w#w-jh_04-SCzechM-p0333-s1-w55</LM>
 </w.rf>
-<form>prodloužít</form>
-<tag lemma="prodloužít">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>prodloužit</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>prodloužit</form>
+<tag lemma="prodloužit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="jh_04-SCzechM-p0333-s1-w56">
 <w.rf>
@@ -1932,27 +1928,27 @@
 <w.rf>
 <LM>w#w-jh_04-SCzechM-p0335-s1-w11</LM>
 </w.rf>
-<form>0x00000000</form>
-<tag lemma="0x00000000">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>0</text>
-</LM>
-</comment>
-</m><m id="jh_04-SCzechM-p0335-s1-w11-sw1">
+<form>0</form>
+<tag lemma="0" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="jh_04-SCzechM-p0335-s1-w11-sw1">
 <w.rf>
 <LM>w#w-jh_04-SCzechM-p0335-s1-w11</LM>
 </w.rf>
-<form>0x00000000</form>
-<tag lemma="0x00000000">X@-------------</tag>
-<comment><LM type="New Form"><text>x</text></LM></comment>
-</m><m id="jh_04-SCzechM-p0335-s1-w11-sw2">
+<form>x</form>
+<tag>
+<AM lemma="x-5_^(náhr._symbolu_krát,_mat._symbol)" src="auto" recommended="1">J*-------------</AM>
+<AM lemma="x-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="x-88_:B" src="auto">NNXXX-----A----</AM>
+</tag>
+</m>
+<m id="jh_04-SCzechM-p0335-s1-w11-sw2">
 <w.rf>
 <LM>w#w-jh_04-SCzechM-p0335-s1-w11</LM>
 </w.rf>
-<form>0x00000000</form>
-<tag lemma="0x00000000">X@-------------</tag>
-<comment><LM type="New Form"><text>00000000</text></LM></comment>
+<form_change>spell</form_change>
+<form>00000000</form>
+<tag lemma="00000000" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="jh_04-SCzechM-p0335-s1-w12">
 <w.rf>
@@ -3224,23 +3220,13 @@
 <w.rf>
 <LM>w#w-jh_04-SCzechM-p0356-s1-w31</LM>
 </w.rf>
-<form>který</form>
+<form_change>spell</form_change>
+<form>která</form>
 <tag>
-<AM lemma="který" recommended="1">P4YS1----------</AM>
-<AM lemma="který">P4FS2---------6</AM>
-<AM lemma="který">P4FS3---------6</AM>
-<AM lemma="který">P4FS6---------6</AM>
-<AM lemma="který">P4IS4----------</AM>
-<AM lemma="který">P4NS1---------6</AM>
-<AM lemma="který">P4NS4---------6</AM>
-<AM lemma="který">P4XP1---------6</AM>
-<AM lemma="který">P4XP4---------6</AM>
+<AM lemma="který" src="auto" recommended="1">P4FS1----------</AM>
+<AM lemma="který" src="auto">P4NP1----------</AM>
+<AM lemma="který" src="auto">P4NP4----------</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>která</text>
-</LM>
-</comment>
 </m>
 <m id="jh_04-SCzechM-p0356-s1-w32">
 <w.rf>
@@ -4300,13 +4286,52 @@
 <w.rf>
 <LM>w#w-jh_04-SCzechM-p0374-s1-w16</LM>
 </w.rf>
-<form>rozhodší</form>
-<tag lemma="rozhodší">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>rozhodčí</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>rozhodčí</form>
+<tag>
+<AM lemma="rozhodčí-2" src="auto">AAFP1----1A----</AM>
+<AM lemma="rozhodčí-2" src="auto">AAFP4----1A----</AM>
+<AM lemma="rozhodčí-2" src="auto">AAFP5----1A----</AM>
+<AM lemma="rozhodčí-2" src="auto">AAFS1----1A----</AM>
+<AM lemma="rozhodčí-2" src="auto">AAFS2----1A----</AM>
+<AM lemma="rozhodčí-2" src="auto">AAFS3----1A----</AM>
+<AM lemma="rozhodčí-2" src="auto">AAFS4----1A----</AM>
+<AM lemma="rozhodčí-2" src="auto">AAFS5----1A----</AM>
+<AM lemma="rozhodčí-2" src="auto">AAFS6----1A----</AM>
+<AM lemma="rozhodčí-2" src="auto">AAFS7----1A----</AM>
+<AM lemma="rozhodčí-2" src="auto">AAIP1----1A----</AM>
+<AM lemma="rozhodčí-2" src="auto">AAIP4----1A----</AM>
+<AM lemma="rozhodčí-2" src="auto">AAIP5----1A----</AM>
+<AM lemma="rozhodčí-2" src="auto">AAIS1----1A----</AM>
+<AM lemma="rozhodčí-2" src="auto">AAIS4----1A----</AM>
+<AM lemma="rozhodčí-2" src="auto">AAIS5----1A----</AM>
+<AM lemma="rozhodčí-2" src="auto">AAMP1----1A----</AM>
+<AM lemma="rozhodčí-2" src="auto">AAMP4----1A----</AM>
+<AM lemma="rozhodčí-2" src="auto">AAMP5----1A----</AM>
+<AM lemma="rozhodčí-2" src="auto">AAMS1----1A----</AM>
+<AM lemma="rozhodčí-2" src="auto">AAMS5----1A----</AM>
+<AM lemma="rozhodčí-2" src="auto">AANP1----1A----</AM>
+<AM lemma="rozhodčí-2" src="auto">AANP4----1A----</AM>
+<AM lemma="rozhodčí-2" src="auto">AANP5----1A----</AM>
+<AM lemma="rozhodčí-2" src="auto">AANS1----1A----</AM>
+<AM lemma="rozhodčí-2" src="auto">AANS4----1A----</AM>
+<AM lemma="rozhodčí-2" src="auto">AANS5----1A----</AM>
+<AM lemma="rozhodčí-2" src="auto">NNMP1-----A----</AM>
+<AM lemma="rozhodčí-2" src="auto">NNMP4-----A----</AM>
+<AM lemma="rozhodčí-2" src="auto">NNMP5-----A----</AM>
+<AM lemma="rozhodčí-2" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="rozhodčí-2" src="auto">NNMS5-----A----</AM>
+<AM lemma="rozhodčí-3" src="auto">NNFP1-----A----</AM>
+<AM lemma="rozhodčí-3" src="auto">NNFP4-----A----</AM>
+<AM lemma="rozhodčí-3" src="auto">NNFP5-----A----</AM>
+<AM lemma="rozhodčí-3" src="auto">NNFS1-----A----</AM>
+<AM lemma="rozhodčí-3" src="auto">NNFS2-----A----</AM>
+<AM lemma="rozhodčí-3" src="auto">NNFS3-----A----</AM>
+<AM lemma="rozhodčí-3" src="auto">NNFS4-----A----</AM>
+<AM lemma="rozhodčí-3" src="auto">NNFS5-----A----</AM>
+<AM lemma="rozhodčí-3" src="auto">NNFS6-----A----</AM>
+<AM lemma="rozhodčí-3" src="auto">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="jh_04-SCzechM-p0374-s1-w17">
 <w.rf>

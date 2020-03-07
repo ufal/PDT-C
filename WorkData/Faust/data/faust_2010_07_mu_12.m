@@ -1787,13 +1787,37 @@
 <w.rf>
 <LM>w#w-mu_12-SCzechM-p1235-s1-w1</LM>
 </w.rf>
-<form>místni</form>
-<tag lemma="místni">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>místní</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>místní</form>
+<tag>
+<AM lemma="místní" src="auto">AAFP1----1A----</AM>
+<AM lemma="místní" src="auto">AAFP4----1A----</AM>
+<AM lemma="místní" src="auto">AAFP5----1A----</AM>
+<AM lemma="místní" src="auto">AAFS1----1A----</AM>
+<AM lemma="místní" src="auto">AAFS2----1A----</AM>
+<AM lemma="místní" src="auto">AAFS3----1A----</AM>
+<AM lemma="místní" src="auto">AAFS4----1A----</AM>
+<AM lemma="místní" src="auto">AAFS5----1A----</AM>
+<AM lemma="místní" src="auto">AAFS6----1A----</AM>
+<AM lemma="místní" src="auto">AAFS7----1A----</AM>
+<AM lemma="místní" src="auto">AAIP1----1A----</AM>
+<AM lemma="místní" src="auto">AAIP4----1A----</AM>
+<AM lemma="místní" src="auto">AAIP5----1A----</AM>
+<AM lemma="místní" src="auto">AAIS1----1A----</AM>
+<AM lemma="místní" src="auto">AAIS4----1A----</AM>
+<AM lemma="místní" src="auto">AAIS5----1A----</AM>
+<AM lemma="místní" src="auto">AAMP1----1A----</AM>
+<AM lemma="místní" src="auto">AAMP4----1A----</AM>
+<AM lemma="místní" src="auto">AAMP5----1A----</AM>
+<AM lemma="místní" src="auto">AAMS1----1A----</AM>
+<AM lemma="místní" src="auto">AAMS5----1A----</AM>
+<AM lemma="místní" src="auto">AANP1----1A----</AM>
+<AM lemma="místní" src="auto">AANP4----1A----</AM>
+<AM lemma="místní" src="auto">AANP5----1A----</AM>
+<AM lemma="místní" src="auto">AANS1----1A----</AM>
+<AM lemma="místní" src="auto" recommended="1">AANS4----1A----</AM>
+<AM lemma="místní" src="auto">AANS5----1A----</AM>
+</tag>
 </m>
 <m id="mu_12-SCzechM-p1235-s1-w2">
 <w.rf>
@@ -1909,26 +1933,23 @@
 <w.rf>
 <LM>w#w-mu_12-SCzechM-p1239-s1-w7</LM>
 </w.rf>
-<form>Tádžmahál</form>
+<form>Tádž</form>
 <tag>
-<AM lemma="Tádžmahál">X@-------------</AM>
-<AM lemma="Tádžmahál_;G" src="manual">NNIS1-----A----</AM>
+<AM lemma="Tádž_;K" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Tádž_;K" src="auto">NNIS4-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Tádž</text>
-</LM>
-</comment>
-</m><m id="mu_12-SCzechM-p1239-s1-w7-sw1">
+</m>
+<m id="mu_12-SCzechM-p1239-s1-w7-sw1">
 <w.rf>
 <LM>w#w-mu_12-SCzechM-p1239-s1-w7</LM>
 </w.rf>
-<form>Tádžmahál</form>
+<form>Mahal</form>
 <tag>
-<AM lemma="Tádžmahál">X@-------------</AM>
-<AM lemma="Tádžmahál_;G" src="manual">NNIS1-----A----</AM>
+<AM lemma="Mahal-1_;G" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="Mahal-1_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="Mahal-2_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Mahala_;G" src="auto">NNFP2-----A----</AM>
 </tag>
-<comment><LM type="New Form"><text>Mahal</text></LM></comment>
 </m>
 <m id="mu_12-SCzechM-p1239-s1-w8">
 <w.rf>
@@ -2369,13 +2390,14 @@
 <w.rf>
 <LM>w#w-mu_12-SCzechM-p1239-s1-w46</LM>
 </w.rf>
-<form>Kláštěr</form>
-<tag lemma="Kláštěr">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Klášter</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Klášter</form>
+<tag>
+<AM lemma="Klášter_;G" src="auto">NNIS1-----A----</AM>
+<AM lemma="Klášter_;G" src="auto">NNIS4-----A----</AM>
+<AM lemma="klášter" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="klášter" src="auto">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="mu_12-SCzechM-p1239-s1-w47">
 <w.rf>
@@ -4008,13 +4030,12 @@
 <w.rf>
 <LM>w#w-mu_12-SCzechM-p1263-s1-w40</LM>
 </w.rf>
-<form>Nájemnící</form>
-<tag lemma="Nájemnící">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Nájemníci</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Nájemníci</form>
+<tag>
+<AM lemma="nájemník" src="auto" recommended="1">NNMP1-----A----</AM>
+<AM lemma="nájemník" src="auto">NNMP5-----A----</AM>
+</tag>
 </m>
 <m id="mu_12-SCzechM-p1263-s1-w41">
 <w.rf>
@@ -4686,13 +4707,22 @@
 <w.rf>
 <LM>w#w-mu_12-SCzechM-p1265-s1-w35</LM>
 </w.rf>
-<form>hormadění</form>
-<tag lemma="hormadění">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>hromadění</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>hromadění</form>
+<tag>
+<AM lemma="hromaděný_^(*3it)" src="auto">AAMP1----1A----</AM>
+<AM lemma="hromaděný_^(*3it)" src="auto">AAMP5----1A----</AM>
+<AM lemma="hromadění_^(*3it)" src="auto">NNNP1-----A----</AM>
+<AM lemma="hromadění_^(*3it)" src="auto">NNNP2-----A----</AM>
+<AM lemma="hromadění_^(*3it)" src="auto">NNNP4-----A----</AM>
+<AM lemma="hromadění_^(*3it)" src="auto">NNNP5-----A----</AM>
+<AM lemma="hromadění_^(*3it)" src="auto">NNNS1-----A----</AM>
+<AM lemma="hromadění_^(*3it)" src="auto">NNNS2-----A----</AM>
+<AM lemma="hromadění_^(*3it)" src="auto" recommended="1">NNNS3-----A----</AM>
+<AM lemma="hromadění_^(*3it)" src="auto">NNNS4-----A----</AM>
+<AM lemma="hromadění_^(*3it)" src="auto">NNNS5-----A----</AM>
+<AM lemma="hromadění_^(*3it)" src="auto">NNNS6-----A----</AM>
+</tag>
 </m>
 <m id="mu_12-SCzechM-p1265-s1-w36">
 <w.rf>
@@ -5216,13 +5246,9 @@
 <w.rf>
 <LM>w#w-mu_12-SCzechM-p1276-s1-w11</LM>
 </w.rf>
-<form>nedopověděla</form>
-<tag lemma="dopovědět" recommended="1">VpQW----R-NAP--</tag>
-<comment>
-<LM type="New Form">
-<text>neodpověděla</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>neodpověděla</form>
+<tag lemma="odpovědět" src="auto" recommended="1">VpQW---XR-NAP--</tag>
 </m>
 <m id="mu_12-SCzechM-p1276-s1-w12">
 <w.rf>

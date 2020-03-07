@@ -3018,13 +3018,9 @@
 <w.rf>
 <LM>w#w-mu_13-SCzechM-p1362-s1-w5</LM>
 </w.rf>
-<form>tvrobu</form>
-<tag lemma="tvrobu">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>tvorbu</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>tvorbu</form>
+<tag lemma="tvorba" src="auto" recommended="1">NNFS4-----A----</tag>
 </m>
 <m id="mu_13-SCzechM-p1362-s1-w6">
 <w.rf>
@@ -3228,13 +3224,26 @@
 <w.rf>
 <LM>w#w-mu_13-SCzechM-p1364-s1-w5</LM>
 </w.rf>
-<form>neobyklé</form>
-<tag lemma="neobyklé">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>neobvyklé</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>neobvyklé</form>
+<tag>
+<AM lemma="obvyklý" src="auto">AAFP1----1N----</AM>
+<AM lemma="obvyklý" src="auto">AAFP4----1N----</AM>
+<AM lemma="obvyklý" src="auto">AAFP5----1N----</AM>
+<AM lemma="obvyklý" src="auto" recommended="1">AAFS2----1N----</AM>
+<AM lemma="obvyklý" src="auto">AAFS3----1N----</AM>
+<AM lemma="obvyklý" src="auto">AAFS6----1N----</AM>
+<AM lemma="obvyklý" src="auto">AAIP1----1N----</AM>
+<AM lemma="obvyklý" src="auto">AAIP4----1N----</AM>
+<AM lemma="obvyklý" src="auto">AAIP5----1N----</AM>
+<AM lemma="obvyklý" src="auto">AAMP4----1N----</AM>
+<AM lemma="obvyklý" src="auto">AANP1----1N---6</AM>
+<AM lemma="obvyklý" src="auto">AANP4----1N---6</AM>
+<AM lemma="obvyklý" src="auto">AANP5----1N---6</AM>
+<AM lemma="obvyklý" src="auto">AANS1----1N----</AM>
+<AM lemma="obvyklý" src="auto">AANS4----1N----</AM>
+<AM lemma="obvyklý" src="auto">AANS5----1N----</AM>
+</tag>
 </m>
 <m id="mu_13-SCzechM-p1364-s1-w6">
 <w.rf>
@@ -5003,16 +5012,20 @@
 <w.rf>
 <LM>w#w-mu_13-SCzechM-p1390-s1-w14</LM>
 </w.rf>
-<form>najímaní</form>
+<form_change>spell</form_change>
+<form>najímání</form>
 <tag>
-<AM lemma="najímaný_^(*2t)" recommended="1">AAMP5----1A----</AM>
-<AM lemma="najímaný_^(*2t)">AAMP1----1A----</AM>
+<AM lemma="najímání_^(*3at)" src="auto">NNNP1-----A----</AM>
+<AM lemma="najímání_^(*3at)" src="auto">NNNP2-----A----</AM>
+<AM lemma="najímání_^(*3at)" src="auto">NNNP4-----A----</AM>
+<AM lemma="najímání_^(*3at)" src="auto">NNNP5-----A----</AM>
+<AM lemma="najímání_^(*3at)" src="auto">NNNS1-----A----</AM>
+<AM lemma="najímání_^(*3at)" src="auto">NNNS2-----A----</AM>
+<AM lemma="najímání_^(*3at)" src="auto">NNNS3-----A----</AM>
+<AM lemma="najímání_^(*3at)" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="najímání_^(*3at)" src="auto">NNNS5-----A----</AM>
+<AM lemma="najímání_^(*3at)" src="auto">NNNS6-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>najímání</text>
-</LM>
-</comment>
 </m>
 <m id="mu_13-SCzechM-p1390-s1-w15">
 <w.rf>

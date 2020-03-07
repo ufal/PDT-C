@@ -2313,13 +2313,9 @@
 <w.rf>
 <LM>w#w-jh_03-SCzechM-p0233-s1-w7</LM>
 </w.rf>
-<form>oreintačně</form>
-<tag lemma="oreintačně">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>orientačně</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>orientačně</form>
+<tag lemma="orientačně_^(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="jh_03-SCzechM-p0233-s1-w8">
 <w.rf>

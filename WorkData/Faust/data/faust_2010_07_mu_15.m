@@ -549,13 +549,14 @@
 <w.rf>
 <LM>w#w-mu_15-SCzechM-p1538-s1-w16</LM>
 </w.rf>
-<form>bezpečnostího</form>
-<tag lemma="bezpečnostího">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>bezpečnostního</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>bezpečnostního</form>
+<tag>
+<AM lemma="bezpečnostní" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="bezpečnostní" src="auto">AAMS2----1A----</AM>
+<AM lemma="bezpečnostní" src="auto">AAMS4----1A----</AM>
+<AM lemma="bezpečnostní" src="auto">AANS2----1A----</AM>
+</tag>
 </m>
 <m id="mu_15-SCzechM-p1538-s1-w17">
 <w.rf>
@@ -1518,20 +1519,27 @@
 <w.rf>
 <LM>w#w-mu_15-SCzechM-p1556-s1-w1</LM>
 </w.rf>
-<form>Způlky</form>
-<tag lemma="Způlky">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Z</text>
-</LM>
-</comment>
-</m><m id="mu_15-SCzechM-p1556-s1-w1-sw1">
+<form>Z</form>
+<tag>
+<AM lemma="Z-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="Z-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="z-1" src="auto" recommended="1">RR--2----------</AM>
+<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="z-88_:B" src="auto">NNXXX-----A----</AM>
+</tag>
+</m>
+<m id="mu_15-SCzechM-p1556-s1-w1-sw1">
 <w.rf>
 <LM>w#w-mu_15-SCzechM-p1556-s1-w1</LM>
 </w.rf>
-<form>Způlky</form>
-<tag lemma="Způlky">X@-------------</tag>
-<comment><LM type="New Form"><text>půlky</text></LM></comment>
+<form_change>spell</form_change>
+<form>půlky</form>
+<tag>
+<AM lemma="půlka" src="auto">NNFP1-----A----</AM>
+<AM lemma="půlka" src="auto">NNFP4-----A----</AM>
+<AM lemma="půlka" src="auto">NNFP5-----A----</AM>
+<AM lemma="půlka" src="auto" recommended="1">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="mu_15-SCzechM-p1556-s1-w2">
 <w.rf>
@@ -3615,17 +3623,12 @@
 <w.rf>
 <LM>w#w-mu_15-SCzechM-p1604-s1-w2</LM>
 </w.rf>
-<form>vůli</form>
+<form_change>spell</form_change>
+<form>vůlí</form>
 <tag>
-<AM lemma="vůle" recommended="1">NNFS3-----A----</AM>
-<AM lemma="vůle">NNFS4-----A----</AM>
-<AM lemma="vůle">NNFS6-----A----</AM>
+<AM lemma="vůle" src="auto">NNFP2-----A----</AM>
+<AM lemma="vůle" src="auto" recommended="1">NNFS7-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>vůlí</text>
-</LM>
-</comment>
 </m>
 <m id="mu_15-SCzechM-p1604-s1-w3">
 <w.rf>

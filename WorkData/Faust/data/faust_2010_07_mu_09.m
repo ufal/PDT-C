@@ -339,13 +339,15 @@
 <w.rf>
 <LM>w#w-mu_09-SCzechM-p0876-s1-w8</LM>
 </w.rf>
-<form>jedn</form>
-<tag lemma="jednotka_:B" recommended="1">NNFXX-----A---8</tag>
-<comment>
-<LM type="New Form">
-<text>jen</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>jen</form>
+<tag>
+<AM lemma="jen-1" src="auto" recommended="1">TT-------------</AM>
+<AM lemma="jen-2_^(japonská_měna)" src="auto">NNIS1-----A----</AM>
+<AM lemma="jen-2_^(japonská_měna)" src="auto">NNIS4-----A----</AM>
+<AM lemma="jen-3" src="auto">J,-------------</AM>
+<AM lemma="jen-4_^(pouze)" src="auto">Db-------------</AM>
+</tag>
 </m>
 <m id="mu_09-SCzechM-p0876-s1-w9">
 <w.rf>
@@ -2040,20 +2042,15 @@
 <w.rf>
 <LM>w#w-mu_09-SCzechM-p0897-s1-w4</LM>
 </w.rf>
-<form>3330kg</form>
-<tag lemma="3330kg">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>3330</text>
-</LM>
-</comment>
-</m><m id="mu_09-SCzechM-p0897-s1-w4-sw1">
+<form>3330</form>
+<tag lemma="3330" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="mu_09-SCzechM-p0897-s1-w4-sw1">
 <w.rf>
 <LM>w#w-mu_09-SCzechM-p0897-s1-w4</LM>
 </w.rf>
-<form>3330kg</form>
-<tag lemma="3330kg">X@-------------</tag>
-<comment><LM type="New Form"><text>kg</text></LM></comment>
+<form>kg</form>
+<tag lemma="kilogram" src="auto" recommended="1">NNIXX-----A---8</tag>
 </m>
 <m id="mu_09-SCzechM-p0897-s1-w5">
 <w.rf>
@@ -2087,26 +2084,23 @@
 <w.rf>
 <LM>w#w-mu_09-SCzechM-p0897-s1-w9</LM>
 </w.rf>
-<form>m3</form>
+<form>m</form>
 <tag>
-<AM lemma="m3-1_:B_^(metr_krychlový)" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="m3_^(metr_krychlový)" src="manual">NNIXX-----A---b</AM>
+<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="metr" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="metrový" src="auto">AAXXX----1A---8</AM>
+<AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="moře_:B" src="auto">NNNS7-----A---8</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>m</text>
-</LM>
-</comment>
-</m><m id="mu_09-SCzechM-p0897-s1-w9-sw1">
+</m>
+<m id="mu_09-SCzechM-p0897-s1-w9-sw1">
 <w.rf>
 <LM>w#w-mu_09-SCzechM-p0897-s1-w9</LM>
 </w.rf>
-<form>m3</form>
-<tag>
-<AM lemma="m3-1_:B_^(metr_krychlový)" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="m3_^(metr_krychlový)" src="manual">NNIXX-----A---b</AM>
-</tag>
-<comment><LM type="New Form"><text>3</text></LM></comment>
+<form_change>spell</form_change>
+<form>3</form>
+<tag lemma="3" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="mu_09-SCzechM-p0897-s1-w10">
 <w.rf>
@@ -3379,20 +3373,24 @@
 <w.rf>
 <LM>w#w-mu_09-SCzechM-p0913-s1-w15</LM>
 </w.rf>
-<form>Narodíl</form>
-<tag lemma="Narodíl">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Na</text>
-</LM>
-</comment>
-</m><m id="mu_09-SCzechM-p0913-s1-w15-sw1">
+<form>Na</form>
+<tag>
+<AM lemma="Na-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
+<AM lemma="na-1" src="auto">RR--6----------</AM>
+<AM lemma="na-2" src="auto">II-------------</AM>
+</tag>
+</m>
+<m id="mu_09-SCzechM-p0913-s1-w15-sw1">
 <w.rf>
 <LM>w#w-mu_09-SCzechM-p0913-s1-w15</LM>
 </w.rf>
-<form>Narodíl</form>
-<tag lemma="Narodíl">X@-------------</tag>
-<comment><LM type="New Form"><text>rozdíl</text></LM></comment>
+<form_change>spell</form_change>
+<form>rozdíl</form>
+<tag>
+<AM lemma="rozdíl" src="auto">NNIS1-----A----</AM>
+<AM lemma="rozdíl" src="auto" recommended="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="mu_09-SCzechM-p0913-s1-w16">
 <w.rf>
@@ -3693,13 +3691,9 @@
 <w.rf>
 <LM>w#w-mu_09-SCzechM-p0921-s1-w10</LM>
 </w.rf>
-<form>okmažicích</form>
-<tag lemma="okmažicích">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>okamžicích</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>okamžicích</form>
+<tag lemma="okamžik" src="auto" recommended="1">NNIP6-----A----</tag>
 </m>
 <m id="mu_09-SCzechM-p0921-s1-w11">
 <w.rf>
@@ -4127,13 +4121,13 @@
 <w.rf>
 <LM>w#w-mu_09-SCzechM-p0930-s1-w17</LM>
 </w.rf>
-<form>Hollywodu</form>
-<tag lemma="Hollywodu">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Hollywoodu</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Hollywoodu</form>
+<tag>
+<AM lemma="Hollywood_;G" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="Hollywood_;G" src="auto">NNIS3-----A----</AM>
+<AM lemma="Hollywood_;G" src="auto">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="mu_09-SCzechM-p0930-s1-w18">
 <w.rf>
@@ -5353,13 +5347,37 @@
 <w.rf>
 <LM>w#w-mu_09-SCzechM-p0942-s1-w7</LM>
 </w.rf>
-<form>vyšíí</form>
-<tag lemma="vyšíí">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>vyšší</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>vyšší</form>
+<tag>
+<AM lemma="vysoký" src="auto">AAFP1----2A----</AM>
+<AM lemma="vysoký" src="auto">AAFP4----2A----</AM>
+<AM lemma="vysoký" src="auto">AAFP5----2A----</AM>
+<AM lemma="vysoký" src="auto">AAFS1----2A----</AM>
+<AM lemma="vysoký" src="auto">AAFS2----2A----</AM>
+<AM lemma="vysoký" src="auto">AAFS3----2A----</AM>
+<AM lemma="vysoký" src="auto">AAFS4----2A----</AM>
+<AM lemma="vysoký" src="auto">AAFS5----2A----</AM>
+<AM lemma="vysoký" src="auto">AAFS6----2A----</AM>
+<AM lemma="vysoký" src="auto" recommended="1">AAFS7----2A----</AM>
+<AM lemma="vysoký" src="auto">AAIP1----2A----</AM>
+<AM lemma="vysoký" src="auto">AAIP4----2A----</AM>
+<AM lemma="vysoký" src="auto">AAIP5----2A----</AM>
+<AM lemma="vysoký" src="auto">AAIS1----2A----</AM>
+<AM lemma="vysoký" src="auto">AAIS4----2A----</AM>
+<AM lemma="vysoký" src="auto">AAIS5----2A----</AM>
+<AM lemma="vysoký" src="auto">AAMP1----2A----</AM>
+<AM lemma="vysoký" src="auto">AAMP4----2A----</AM>
+<AM lemma="vysoký" src="auto">AAMP5----2A----</AM>
+<AM lemma="vysoký" src="auto">AAMS1----2A----</AM>
+<AM lemma="vysoký" src="auto">AAMS5----2A----</AM>
+<AM lemma="vysoký" src="auto">AANP1----2A----</AM>
+<AM lemma="vysoký" src="auto">AANP4----2A----</AM>
+<AM lemma="vysoký" src="auto">AANP5----2A----</AM>
+<AM lemma="vysoký" src="auto">AANS1----2A----</AM>
+<AM lemma="vysoký" src="auto">AANS4----2A----</AM>
+<AM lemma="vysoký" src="auto">AANS5----2A----</AM>
+</tag>
 </m>
 <m id="mu_09-SCzechM-p0942-s1-w8">
 <w.rf>
@@ -6380,13 +6398,12 @@
 <w.rf>
 <LM>w#w-mu_09-SCzechM-p0957-s1-w1</LM>
 </w.rf>
-<form>haromonogram</form>
-<tag lemma="haromonogram">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>harmonogram</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>harmonogram</form>
+<tag>
+<AM lemma="harmonogram" src="auto">NNIS1-----A----</AM>
+<AM lemma="harmonogram" src="auto" recommended="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="mu_09-SCzechM-p0957-s1-w2">
 <w.rf>

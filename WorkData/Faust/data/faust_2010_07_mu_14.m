@@ -923,13 +923,12 @@
 <w.rf>
 <LM>w#w-mu_14-SCzechM-p1407-s1-w1</LM>
 </w.rf>
-<form>zmáčknětě</form>
-<tag lemma="zmáčknětě">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>zmáčkněte</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>zmáčkněte</form>
+<tag>
+<AM lemma="zmáčknout" src="auto" recommended="1">Vi-P---2--A-P--</AM>
+<AM lemma="zmáčknout" src="auto">Vi-P---3--A-P-4</AM>
+</tag>
 </m>
 <m id="mu_14-SCzechM-p1407-s1-w2">
 <w.rf>
@@ -1940,13 +1939,33 @@
 <w.rf>
 <LM>w#w-mu_14-SCzechM-p1442-s1-w1</LM>
 </w.rf>
-<form>zodpověný</form>
-<tag lemma="zodpověný">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>zodpovědný</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>zodpovědný</form>
+<tag>
+<AM lemma="zodpovědný" src="auto">AAFP1----1A---6</AM>
+<AM lemma="zodpovědný" src="auto">AAFP4----1A---6</AM>
+<AM lemma="zodpovědný" src="auto">AAFP5----1A---6</AM>
+<AM lemma="zodpovědný" src="auto">AAFS2----1A---6</AM>
+<AM lemma="zodpovědný" src="auto">AAFS3----1A---6</AM>
+<AM lemma="zodpovědný" src="auto">AAFS6----1A---6</AM>
+<AM lemma="zodpovědný" src="auto">AAIP1----1A---6</AM>
+<AM lemma="zodpovědný" src="auto">AAIP4----1A---6</AM>
+<AM lemma="zodpovědný" src="auto">AAIP5----1A---6</AM>
+<AM lemma="zodpovědný" src="auto">AAIS1----1A----</AM>
+<AM lemma="zodpovědný" src="auto">AAIS4----1A----</AM>
+<AM lemma="zodpovědný" src="auto">AAIS5----1A----</AM>
+<AM lemma="zodpovědný" src="auto">AAMP1----1A---6</AM>
+<AM lemma="zodpovědný" src="auto">AAMP4----1A---6</AM>
+<AM lemma="zodpovědný" src="auto">AAMP5----1A---6</AM>
+<AM lemma="zodpovědný" src="auto" recommended="1">AAMS1----1A----</AM>
+<AM lemma="zodpovědný" src="auto">AAMS5----1A----</AM>
+<AM lemma="zodpovědný" src="auto">AANP1----1A---6</AM>
+<AM lemma="zodpovědný" src="auto">AANP4----1A---6</AM>
+<AM lemma="zodpovědný" src="auto">AANP5----1A---6</AM>
+<AM lemma="zodpovědný" src="auto">AANS1----1A---6</AM>
+<AM lemma="zodpovědný" src="auto">AANS4----1A---6</AM>
+<AM lemma="zodpovědný" src="auto">AANS5----1A---6</AM>
+</tag>
 </m>
 <m id="mu_14-SCzechM-p1442-s1-w2">
 <w.rf>
@@ -5152,13 +5171,17 @@
 <w.rf>
 <LM>w#w-mu_14-SCzechM-p1505-s1-w3</LM>
 </w.rf>
-<form>politky</form>
-<tag lemma="politky">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>politiky</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>politiky</form>
+<tag>
+<AM lemma="politik" src="auto">NNMP4-----A----</AM>
+<AM lemma="politik" src="auto">NNMP7-----A----</AM>
+<AM lemma="politika_^(věda)" src="auto">NNFP1-----A----</AM>
+<AM lemma="politika_^(věda)" src="auto">NNFP4-----A----</AM>
+<AM lemma="politika_^(věda)" src="auto">NNFP5-----A----</AM>
+<AM lemma="politika_^(věda)" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="politikum" src="auto">NNNP7-----A----</AM>
+</tag>
 </m>
 </s>
 <s id="s-mu_14-SCzechM-p1507-s1-w1">

@@ -5515,26 +5515,22 @@
 <w.rf>
 <LM>w#w-jh_06-SCzechM-p0628-s1-w23</LM>
 </w.rf>
-<form>m2</form>
+<form>m</form>
 <tag>
-<AM lemma="m2-1_:B_^(metr_čtvereční)" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="m2_:B_^(metr_čtvereční)" src="manual">NNIXX-----A----</AM>
+<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="metr" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="metrový" src="auto">AAXXX----1A---8</AM>
+<AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="moře_:B" src="auto">NNNS7-----A---8</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>m</text>
-</LM>
-</comment>
-</m><m id="jh_06-SCzechM-p0628-s1-w23-sw1">
+</m>
+<m id="jh_06-SCzechM-p0628-s1-w23-sw1">
 <w.rf>
 <LM>w#w-jh_06-SCzechM-p0628-s1-w23</LM>
 </w.rf>
-<form>m2</form>
-<tag>
-<AM lemma="m2-1_:B_^(metr_čtvereční)" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="m2_:B_^(metr_čtvereční)" src="manual">NNIXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>2</text></LM></comment>
+<form>2</form>
+<tag lemma="2" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="jh_06-SCzechM-p0628-s1-w24">
 <w.rf>
@@ -5608,26 +5604,23 @@
 <w.rf>
 <LM>w#w-jh_06-SCzechM-p0628-s1-w30</LM>
 </w.rf>
-<form>m2</form>
+<form>m</form>
 <tag>
-<AM lemma="m2-1_:B_^(metr_čtvereční)" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="m2_:B_^(metr_čtvereční)" src="manual">NNIXX-----A----</AM>
+<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="metr" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="metrový" src="auto">AAXXX----1A---8</AM>
+<AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="moře_:B" src="auto">NNNS7-----A---8</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>m</text>
-</LM>
-</comment>
-</m><m id="jh_06-SCzechM-p0628-s1-w30-sw1">
+</m>
+<m id="jh_06-SCzechM-p0628-s1-w30-sw1">
 <w.rf>
 <LM>w#w-jh_06-SCzechM-p0628-s1-w30</LM>
 </w.rf>
-<form>m2</form>
-<tag>
-<AM lemma="m2-1_:B_^(metr_čtvereční)" recommended="1">NNIXX-----A---8</AM>
-<AM lemma="m2_:B_^(metr_čtvereční)" src="manual">NNIXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>2</text></LM></comment>
+<form_change>spell</form_change>
+<form>2</form>
+<tag lemma="2" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="jh_06-SCzechM-p0628-s1-w31">
 <w.rf>
@@ -6298,16 +6291,9 @@
 <w.rf>
 <LM>w#w-jh_06-SCzechM-p0629-s1-w16</LM>
 </w.rf>
-<form>ríd</form>
-<tag>
-<AM lemma="ríd">X@-------------</AM>
-<AM lemma="ríd-77" src="manual">F%-------------</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>rád</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>rád</form>
+<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
 </m>
 <m id="jh_06-SCzechM-p0629-s1-w17">
 <w.rf>

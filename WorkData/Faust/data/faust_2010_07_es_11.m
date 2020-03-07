@@ -303,16 +303,12 @@
 <w.rf>
 <LM>w#w-es_11-SCzechM-p1076-s1-w20</LM>
 </w.rf>
-<form>Doprovod</form>
+<form_change>spell</form_change>
+<form>doprovod</form>
 <tag>
-<AM lemma="doprovod" recommended="1">NNIS1-----A----</AM>
-<AM lemma="doprovod">NNIS4-----A----</AM>
+<AM lemma="doprovod" src="auto">NNIS1-----A----</AM>
+<AM lemma="doprovod" src="auto" recommended="1">NNIS4-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>doprovod</text>
-</LM>
-</comment>
 </m>
 </s>
 <s id="s-es_11-SCzechM-p1081-s1-w7">
@@ -4139,13 +4135,13 @@
 <w.rf>
 <LM>w#w-es_11-SCzechM-p1166-s1-w19</LM>
 </w.rf>
-<form>každěm</form>
-<tag lemma="každěm">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>každém</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>každém</form>
+<tag>
+<AM lemma="každý" src="auto">AAIS6----1A----</AM>
+<AM lemma="každý" src="auto">AAMS6----1A----</AM>
+<AM lemma="každý" src="auto" recommended="1">AANS6----1A----</AM>
+</tag>
 </m>
 <m id="es_11-SCzechM-p1166-s1-w20">
 <w.rf>
@@ -4356,13 +4352,9 @@
 <w.rf>
 <LM>w#w-es_11-SCzechM-p1170-s1-w2</LM>
 </w.rf>
-<form>jse</form>
-<tag lemma="jse">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>jde</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>jde</form>
+<tag lemma="jít" src="auto" recommended="1">VB-S---3P-AAI--</tag>
 </m>
 <m id="es_11-SCzechM-p1170-s1-w3">
 <w.rf>
@@ -5010,13 +5002,9 @@
 <w.rf>
 <LM>w#w-es_11-SCzechM-p1172-s1-w2</LM>
 </w.rf>
-<form>základana</form>
-<tag lemma="základana">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>základna</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>základna</form>
+<tag lemma="základna" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="es_11-SCzechM-p1172-s1-w3">
 <w.rf>

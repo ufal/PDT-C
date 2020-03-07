@@ -471,13 +471,8 @@
 <w.rf>
 <LM>w#w-mu_17-SCzechM-p1754-s1-w29</LM>
 </w.rf>
-<form>Nyni</form>
-<tag lemma="Nyni">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Nyní</text>
-</LM>
-</comment>
+<form>Nyní</form>
+<tag lemma="nyní" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="mu_17-SCzechM-p1754-s1-w30">
 <w.rf>
@@ -580,13 +575,8 @@
 <w.rf>
 <LM>w#w-mu_17-SCzechM-p1754-s1-w37</LM>
 </w.rf>
-<form>bodl</form>
-<tag lemma="bodnout" recommended="1">VpYS----R-AAP-1</tag>
-<comment>
-<LM type="New Form">
-<text>bodů</text>
-</LM>
-</comment>
+<form>bodů</form>
+<tag lemma="bod" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="mu_17-SCzechM-p1754-s1-w38">
 <w.rf>
@@ -869,13 +859,9 @@
 <w.rf>
 <LM>w#w-mu_17-SCzechM-p1754-s1-w61</LM>
 </w.rf>
-<form>dokázano</form>
-<tag lemma="dokázano">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>dokázáno</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>dokázáno</form>
+<tag lemma="dokázat" src="auto" recommended="1">VsNS---XX-APP--</tag>
 </m>
 <m id="mu_17-SCzechM-p1754-s1-w62">
 <w.rf>
@@ -1224,13 +1210,9 @@
 <w.rf>
 <LM>w#w-mu_17-SCzechM-p1763-s1-w7</LM>
 </w.rf>
-<form>Navštívíl</form>
-<tag lemma="Navštívíl">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Navštívil</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Navštívil</form>
+<tag lemma="navštívit" src="auto" recommended="1">VpYS---XR-AAP--</tag>
 </m>
 <m id="mu_17-SCzechM-p1763-s1-w8">
 <w.rf>
@@ -2052,13 +2034,9 @@
 <w.rf>
 <LM>w#w-mu_17-SCzechM-p1769-s1-w37</LM>
 </w.rf>
-<form>skrvnami</form>
-<tag lemma="skrvnami">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>skvrnami</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>skvrnami</form>
+<tag lemma="skvrna" src="auto" recommended="1">NNFP7-----A----</tag>
 </m>
 <m id="mu_17-SCzechM-p1769-s1-w38">
 <w.rf>
@@ -2904,13 +2882,16 @@
 <w.rf>
 <LM>w#w-mu_17-SCzechM-p1778-s1-w43</LM>
 </w.rf>
-<form>Cambdrige</form>
-<tag lemma="Cambdrige">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Cambridge</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Cambridge</form>
+<tag>
+<AM lemma="Cambridge_;G" src="auto">NNFP1-----A----</AM>
+<AM lemma="Cambridge_;G" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="Cambridge_;G" src="auto">NNFP5-----A----</AM>
+<AM lemma="Cambridge_;G" src="auto">NNFS1-----A----</AM>
+<AM lemma="Cambridge_;G" src="auto">NNFS2-----A----</AM>
+<AM lemma="Cambridge_;G" src="auto">NNFS4-----A----</AM>
+</tag>
 </m>
 <m id="mu_17-SCzechM-p1778-s1-w44">
 <w.rf>
@@ -4579,13 +4560,9 @@
 <w.rf>
 <LM>w#w-mu_17-SCzechM-p1803-s1-w6</LM>
 </w.rf>
-<form>dousd</form>
-<tag lemma="dousd">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>dosud</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>dosud</form>
+<tag lemma="dosud" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="mu_17-SCzechM-p1803-s1-w7">
 <w.rf>

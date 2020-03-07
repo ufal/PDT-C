@@ -430,13 +430,13 @@
 <w.rf>
 <LM>w#w-jh_09-SCzechM-p0876-s1-w13</LM>
 </w.rf>
-<form>jeno</form>
-<tag lemma="jeno">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>jednou</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>jednou</form>
+<tag>
+<AM lemma="jeden`1" src="auto">ClFS7----------</AM>
+<AM lemma="jednou-1" src="auto">Cv-------------</AM>
+<AM lemma="jednou-2" src="auto" recommended="1">Db-------------</AM>
+</tag>
 </m>
 <m id="jh_09-SCzechM-p0876-s1-w14">
 <w.rf>
@@ -700,16 +700,8 @@
 <w.rf>
 <LM>w#w-jh_09-SCzechM-p0887-s1-w2</LM>
 </w.rf>
-<form>Borur</form>
-<tag>
-<AM lemma="Borur">X@-------------</AM>
-<AM lemma="Borur_;S" src="manual">NNMS1-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>Boruc</text>
-</LM>
-</comment>
+<form>Boruc</form>
+<tag lemma="Boruc_;S" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="jh_09-SCzechM-p0887-s1-w3">
 <w.rf>
@@ -722,13 +714,15 @@
 <w.rf>
 <LM>w#w-jh_09-SCzechM-p0887-s1-w4</LM>
 </w.rf>
-<form>čílo</form>
-<tag lemma="čílo">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>číslo</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>číslo</form>
+<tag>
+<AM lemma="číslo" src="auto" recommended="1">NNNS1-----A----</AM>
+<AM lemma="číslo" src="auto">NNNS4-----A----</AM>
+<AM lemma="číslo" src="auto">NNNS5-----A----</AM>
+<AM lemma="čísnout-1_,h_^(praštit)" src="auto">VpNS---XR-AAP-1</AM>
+<AM lemma="čísnout-2_,a_^(přejet_hřebenem)" src="auto">VpNS---XR-AAP-1</AM>
+</tag>
 </m>
 <m id="jh_09-SCzechM-p0887-s1-w5">
 <w.rf>
@@ -2106,32 +2100,30 @@
 <w.rf>
 <LM>w#w-jh_09-SCzechM-p0897-s1-w8</LM>
 </w.rf>
-<form>.</form>
-<tag lemma="." recommended="1">Z:-------------</tag>
-<comment>
-<LM type="New Form">
-<text>6.96</text>
-</LM>
-</comment>
+<form>6.96</form>
+<tag lemma="6.96" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="jh_09-SCzechM-p0897-s1-w9">
 <w.rf>
 <LM>w#w-jh_09-SCzechM-p0897-s1-w9</LM>
 </w.rf>
-<form>96m3</form>
-<tag lemma="96m3">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>m</text>
-</LM>
-</comment>
-</m><m id="jh_09-SCzechM-p0897-s1-w9-sw1">
+<form>m</form>
+<tag>
+<AM lemma="m-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="m-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="metr" src="auto" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="metrový" src="auto">AAXXX----1A---8</AM>
+<AM lemma="minuta_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="moře_:B" src="auto">NNNS7-----A---8</AM>
+</tag>
+</m>
+<m id="jh_09-SCzechM-p0897-s1-w9-sw1">
 <w.rf>
 <LM>w#w-jh_09-SCzechM-p0897-s1-w9</LM>
 </w.rf>
-<form>96m3</form>
-<tag lemma="96m3">X@-------------</tag>
-<comment><LM type="New Form"><text>3</text></LM></comment>
+<form_change>spell</form_change>
+<form>3</form>
+<tag lemma="3" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="jh_09-SCzechM-p0897-s1-w10">
 <w.rf>

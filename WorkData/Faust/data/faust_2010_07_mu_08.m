@@ -344,17 +344,22 @@
 <w.rf>
 <LM>w#w-mu_08-SCzechM-p0755-s1-w11</LM>
 </w.rf>
-<form>se</form>
+<form_change>spell</form_change>
+<form>s</form>
 <tag>
-<AM lemma="s-1" recommended="1">RV--7----------</AM>
-<AM lemma="se_^(zvr._zájmeno/částice)">P7-X4----------</AM>
-<AM lemma="s-1">RV--2----------</AM>
+<AM lemma="s-1" src="auto">RR--2----------</AM>
+<AM lemma="s-1" src="auto">RR--4----------</AM>
+<AM lemma="s-1" src="auto" recommended="1">RR--7----------</AM>
+<AM lemma="s-9_^(být_s_to)" src="auto">TT-------------</AM>
+<AM lemma="s-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="s-77_,t" src="auto">F%-------------</AM>
+<AM lemma="s-88_:B" src="auto">NNXXX-----A---8</AM>
+<AM lemma="sekunda_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="soudruh_:B" src="auto">NNMXX-----A---8</AM>
+<AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
+<AM lemma="strana" src="auto">NNFXX-----A---8</AM>
+<AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>s</text>
-</LM>
-</comment>
 </m>
 <m id="mu_08-SCzechM-p0755-s1-w12">
 <w.rf>
@@ -2594,27 +2599,27 @@
 <w.rf>
 <LM>w#w-mu_08-SCzechM-p0796-s1-w10</LM>
 </w.rf>
-<form>0x00000000</form>
-<tag lemma="0x00000000">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>0</text>
-</LM>
-</comment>
-</m><m id="mu_08-SCzechM-p0796-s1-w10-sw1">
+<form>0</form>
+<tag lemma="0" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="mu_08-SCzechM-p0796-s1-w10-sw1">
 <w.rf>
 <LM>w#w-mu_08-SCzechM-p0796-s1-w10</LM>
 </w.rf>
-<form>0x00000000</form>
-<tag lemma="0x00000000">X@-------------</tag>
-<comment><LM type="New Form"><text>x</text></LM></comment>
-</m><m id="mu_08-SCzechM-p0796-s1-w10-sw2">
+<form>x</form>
+<tag>
+<AM lemma="x-5_^(náhr._symbolu_krát,_mat._symbol)" src="auto" recommended="1">J*-------------</AM>
+<AM lemma="x-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="x-88_:B" src="auto">NNXXX-----A----</AM>
+</tag>
+</m>
+<m id="mu_08-SCzechM-p0796-s1-w10-sw2">
 <w.rf>
 <LM>w#w-mu_08-SCzechM-p0796-s1-w10</LM>
 </w.rf>
-<form>0x00000000</form>
-<tag lemma="0x00000000">X@-------------</tag>
-<comment><LM type="New Form"><text>00000000</text></LM></comment>
+<form_change>spell</form_change>
+<form>00000000</form>
+<tag lemma="00000000" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="mu_08-SCzechM-p0796-s1-w11">
 <w.rf>
@@ -3267,13 +3272,9 @@
 <w.rf>
 <LM>w#w-mu_08-SCzechM-p0815-s1-w1</LM>
 </w.rf>
-<form>přípojit</form>
-<tag lemma="přípojit">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>připojit</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>připojit</form>
+<tag lemma="připojit" src="auto" recommended="1">Vf--------A-P--</tag>
 </m>
 <m id="mu_08-SCzechM-p0815-s1-w2">
 <w.rf>
@@ -4040,13 +4041,9 @@
 <w.rf>
 <LM>w#w-mu_08-SCzechM-p0827-s1-w25</LM>
 </w.rf>
-<form>neusposlechne</form>
-<tag lemma="neusposlechne">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>neuposlechne</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>neuposlechne</form>
+<tag lemma="uposlechnout" src="auto" recommended="1">VB-S---3P-NAP--</tag>
 </m>
 <m id="mu_08-SCzechM-p0827-s1-w26">
 <w.rf>
@@ -4668,13 +4665,8 @@
 <w.rf>
 <LM>w#w-mu_08-SCzechM-p0842-s1-w5</LM>
 </w.rf>
-<form>používalo</form>
-<tag lemma="používat_^(*3t)" recommended="1">VpNS----R-AAI--</tag>
-<comment>
-<LM type="New Form">
-<text>používal</text>
-</LM>
-</comment>
+<form>používal</form>
+<tag lemma="používat_^(*3t)" src="auto" recommended="1">VpYS---XR-AAI--</tag>
 </m>
 <m id="mu_08-SCzechM-p0842-s1-w6">
 <w.rf>
@@ -4801,13 +4793,18 @@
 <w.rf>
 <LM>w#w-mu_08-SCzechM-p0842-s1-w16</LM>
 </w.rf>
-<form>uplunylých</form>
-<tag lemma="uplunylých">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>uplynulých</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>uplynulých</form>
+<tag>
+<AM lemma="uplynulý_^(*3out)" src="auto">AAFP2----1A----</AM>
+<AM lemma="uplynulý_^(*3out)" src="auto">AAFP6----1A----</AM>
+<AM lemma="uplynulý_^(*3out)" src="auto">AAIP2----1A----</AM>
+<AM lemma="uplynulý_^(*3out)" src="auto">AAIP6----1A----</AM>
+<AM lemma="uplynulý_^(*3out)" src="auto">AAMP2----1A----</AM>
+<AM lemma="uplynulý_^(*3out)" src="auto">AAMP6----1A----</AM>
+<AM lemma="uplynulý_^(*3out)" src="auto" recommended="1">AANP2----1A----</AM>
+<AM lemma="uplynulý_^(*3out)" src="auto">AANP6----1A----</AM>
+</tag>
 </m>
 <m id="mu_08-SCzechM-p0842-s1-w17">
 <w.rf>

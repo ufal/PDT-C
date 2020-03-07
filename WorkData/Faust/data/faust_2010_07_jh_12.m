@@ -661,13 +661,9 @@
 <w.rf>
 <LM>w#w-jh_12-SCzechM-p1212-s1-w12</LM>
 </w.rf>
-<form>účasnit</form>
-<tag lemma="účasnit">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>účastnit</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>účastnit</form>
+<tag lemma="účastnit" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="jh_12-SCzechM-p1212-s1-w13">
 <w.rf>
@@ -3328,16 +3324,9 @@
 <w.rf>
 <LM>w#w-jh_12-SCzechM-p1259-s1-w3</LM>
 </w.rf>
-<form>vidě</form>
-<tag>
-<AM lemma="vidět_:T" recommended="1">VeYS------A----</AM>
-<AM lemma="vidět" src="manual">Vf--------A-I--</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>vidět</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>vidět</form>
+<tag lemma="vidět" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="jh_12-SCzechM-p1259-s1-w4">
 <w.rf>
@@ -3518,13 +3507,18 @@
 <w.rf>
 <LM>w#w-jh_12-SCzechM-p1261-s1-w11</LM>
 </w.rf>
-<form>placenýc</form>
-<tag lemma="placenýc">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>placených</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>placených</form>
+<tag>
+<AM lemma="placený_^(*4tit)" src="auto" recommended="1">AAFP2----1A----</AM>
+<AM lemma="placený_^(*4tit)" src="auto">AAFP6----1A----</AM>
+<AM lemma="placený_^(*4tit)" src="auto">AAIP2----1A----</AM>
+<AM lemma="placený_^(*4tit)" src="auto">AAIP6----1A----</AM>
+<AM lemma="placený_^(*4tit)" src="auto">AAMP2----1A----</AM>
+<AM lemma="placený_^(*4tit)" src="auto">AAMP6----1A----</AM>
+<AM lemma="placený_^(*4tit)" src="auto">AANP2----1A----</AM>
+<AM lemma="placený_^(*4tit)" src="auto">AANP6----1A----</AM>
+</tag>
 </m>
 <m id="jh_12-SCzechM-p1261-s1-w12">
 <w.rf>
@@ -5027,13 +5021,12 @@
 <w.rf>
 <LM>w#w-jh_12-SCzechM-p1276-s1-w6</LM>
 </w.rf>
-<form>dlouho</form>
-<tag lemma="dlouho_^(o_čase;_př._dlouhá_doba)" recommended="1">Dg-------1A----</tag>
-<comment>
-<LM type="New Form">
-<text>dlouhou</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>dlouhou</form>
+<tag>
+<AM lemma="dlouhý_^(tyč;doba)" src="auto" recommended="1">AAFS4----1A----</AM>
+<AM lemma="dlouhý_^(tyč;doba)" src="auto">AAFS7----1A----</AM>
+</tag>
 </m>
 <m id="jh_12-SCzechM-p1276-s1-w7">
 <w.rf>

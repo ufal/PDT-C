@@ -3927,26 +3927,26 @@
 <w.rf>
 <LM>w#w-mu_16-SCzechM-p1706-s1-w15</LM>
 </w.rf>
-<form>obdržení</form>
+<form_change>spell</form_change>
+<form>obdržené</form>
 <tag>
-<AM lemma="obdržení_^(*2t)" recommended="1">NNNS2-----A----</AM>
-<AM lemma="obdržený_^(*2t)">AAMP1----1A----</AM>
-<AM lemma="obdržený_^(*2t)">AAMP5----1A----</AM>
-<AM lemma="obdržení_^(*2t)">NNNP1-----A----</AM>
-<AM lemma="obdržení_^(*2t)">NNNP2-----A----</AM>
-<AM lemma="obdržení_^(*2t)">NNNP4-----A----</AM>
-<AM lemma="obdržení_^(*2t)">NNNP5-----A----</AM>
-<AM lemma="obdržení_^(*2t)">NNNS1-----A----</AM>
-<AM lemma="obdržení_^(*2t)">NNNS3-----A----</AM>
-<AM lemma="obdržení_^(*2t)">NNNS4-----A----</AM>
-<AM lemma="obdržení_^(*2t)">NNNS5-----A----</AM>
-<AM lemma="obdržení_^(*2t)">NNNS6-----A----</AM>
+<AM lemma="obdržený_^(*2t)" src="auto">AAFP1----1A----</AM>
+<AM lemma="obdržený_^(*2t)" src="auto">AAFP4----1A----</AM>
+<AM lemma="obdržený_^(*2t)" src="auto">AAFP5----1A----</AM>
+<AM lemma="obdržený_^(*2t)" src="auto">AAFS2----1A----</AM>
+<AM lemma="obdržený_^(*2t)" src="auto">AAFS3----1A----</AM>
+<AM lemma="obdržený_^(*2t)" src="auto">AAFS6----1A----</AM>
+<AM lemma="obdržený_^(*2t)" src="auto">AAIP1----1A----</AM>
+<AM lemma="obdržený_^(*2t)" src="auto">AAIP4----1A----</AM>
+<AM lemma="obdržený_^(*2t)" src="auto">AAIP5----1A----</AM>
+<AM lemma="obdržený_^(*2t)" src="auto">AAMP4----1A----</AM>
+<AM lemma="obdržený_^(*2t)" src="auto">AANP1----1A---6</AM>
+<AM lemma="obdržený_^(*2t)" src="auto">AANP4----1A---6</AM>
+<AM lemma="obdržený_^(*2t)" src="auto">AANP5----1A---6</AM>
+<AM lemma="obdržený_^(*2t)" src="auto" recommended="1">AANS1----1A----</AM>
+<AM lemma="obdržený_^(*2t)" src="auto">AANS4----1A----</AM>
+<AM lemma="obdržený_^(*2t)" src="auto">AANS5----1A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>obdržené</text>
-</LM>
-</comment>
 </m>
 <m id="mu_16-SCzechM-p1706-s1-w16">
 <w.rf>

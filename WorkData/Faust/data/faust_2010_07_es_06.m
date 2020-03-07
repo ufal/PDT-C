@@ -2777,41 +2777,13 @@
 <w.rf>
 <LM>w#w-es_06-SCzechM-p0594-s1-w3</LM>
 </w.rf>
-<form>následující</form>
+<form>následujícího</form>
 <tag>
-<AM lemma="následující_^(*5ovat)" recommended="1">AGFS2-----A----</AM>
-<AM lemma="následující_^(*5ovat)">AGFP1-----A----</AM>
-<AM lemma="následující_^(*5ovat)">AGFP4-----A----</AM>
-<AM lemma="následující_^(*5ovat)">AGFP5-----A----</AM>
-<AM lemma="následující_^(*5ovat)">AGFS1-----A----</AM>
-<AM lemma="následující_^(*5ovat)">AGFS3-----A----</AM>
-<AM lemma="následující_^(*5ovat)">AGFS4-----A----</AM>
-<AM lemma="následující_^(*5ovat)">AGFS5-----A----</AM>
-<AM lemma="následující_^(*5ovat)">AGFS6-----A----</AM>
-<AM lemma="následující_^(*5ovat)">AGFS7-----A----</AM>
-<AM lemma="následující_^(*5ovat)">AGIP1-----A----</AM>
-<AM lemma="následující_^(*5ovat)">AGIP4-----A----</AM>
-<AM lemma="následující_^(*5ovat)">AGIP5-----A----</AM>
-<AM lemma="následující_^(*5ovat)">AGIS1-----A----</AM>
-<AM lemma="následující_^(*5ovat)">AGIS4-----A----</AM>
-<AM lemma="následující_^(*5ovat)">AGIS5-----A----</AM>
-<AM lemma="následující_^(*5ovat)">AGMP1-----A----</AM>
-<AM lemma="následující_^(*5ovat)">AGMP4-----A----</AM>
-<AM lemma="následující_^(*5ovat)">AGMP5-----A----</AM>
-<AM lemma="následující_^(*5ovat)">AGMS1-----A----</AM>
-<AM lemma="následující_^(*5ovat)">AGMS5-----A----</AM>
-<AM lemma="následující_^(*5ovat)">AGNP1-----A----</AM>
-<AM lemma="následující_^(*5ovat)">AGNP4-----A----</AM>
-<AM lemma="následující_^(*5ovat)">AGNP5-----A----</AM>
-<AM lemma="následující_^(*5ovat)">AGNS1-----A----</AM>
-<AM lemma="následující_^(*5ovat)">AGNS4-----A----</AM>
-<AM lemma="následující_^(*5ovat)">AGNS5-----A----</AM>
+<AM lemma="následující_^(*5ovat)" src="auto" recommended="1">AGIS2-----A----</AM>
+<AM lemma="následující_^(*5ovat)" src="auto">AGMS2-----A----</AM>
+<AM lemma="následující_^(*5ovat)" src="auto">AGMS4-----A----</AM>
+<AM lemma="následující_^(*5ovat)" src="auto">AGNS2-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>následujícího</text>
-</LM>
-</comment>
 </m>
 <m id="es_06-SCzechM-p0594-s1-w4">
 <w.rf>
@@ -2871,41 +2843,14 @@
 <w.rf>
 <LM>w#w-es_06-SCzechM-p0594-s1-w10</LM>
 </w.rf>
-<form>pracovní</form>
+<form_change>spell</form_change>
+<form>pracovního</form>
 <tag>
-<AM lemma="pracovní" recommended="1">AAFS2----1A----</AM>
-<AM lemma="pracovní">AAFP1----1A----</AM>
-<AM lemma="pracovní">AAFP4----1A----</AM>
-<AM lemma="pracovní">AAFP5----1A----</AM>
-<AM lemma="pracovní">AAFS1----1A----</AM>
-<AM lemma="pracovní">AAFS3----1A----</AM>
-<AM lemma="pracovní">AAFS4----1A----</AM>
-<AM lemma="pracovní">AAFS5----1A----</AM>
-<AM lemma="pracovní">AAFS6----1A----</AM>
-<AM lemma="pracovní">AAFS7----1A----</AM>
-<AM lemma="pracovní">AAIP1----1A----</AM>
-<AM lemma="pracovní">AAIP4----1A----</AM>
-<AM lemma="pracovní">AAIP5----1A----</AM>
-<AM lemma="pracovní">AAIS1----1A----</AM>
-<AM lemma="pracovní">AAIS4----1A----</AM>
-<AM lemma="pracovní">AAIS5----1A----</AM>
-<AM lemma="pracovní">AAMP1----1A----</AM>
-<AM lemma="pracovní">AAMP4----1A----</AM>
-<AM lemma="pracovní">AAMP5----1A----</AM>
-<AM lemma="pracovní">AAMS1----1A----</AM>
-<AM lemma="pracovní">AAMS5----1A----</AM>
-<AM lemma="pracovní">AANP1----1A----</AM>
-<AM lemma="pracovní">AANP4----1A----</AM>
-<AM lemma="pracovní">AANP5----1A----</AM>
-<AM lemma="pracovní">AANS1----1A----</AM>
-<AM lemma="pracovní">AANS4----1A----</AM>
-<AM lemma="pracovní">AANS5----1A----</AM>
+<AM lemma="pracovní" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="pracovní" src="auto">AAMS2----1A----</AM>
+<AM lemma="pracovní" src="auto">AAMS4----1A----</AM>
+<AM lemma="pracovní" src="auto">AANS2----1A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>pracovního</text>
-</LM>
-</comment>
 </m>
 <m id="es_06-SCzechM-p0594-s1-w11">
 <w.rf>
@@ -3066,13 +3011,12 @@
 <w.rf>
 <LM>w#w-es_06-SCzechM-p0596-s1-w6</LM>
 </w.rf>
-<form>uči</form>
-<tag lemma="uči">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>učí</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>učí</form>
+<tag>
+<AM lemma="učit" src="auto" recommended="1">VB-P---3P-AAI--</AM>
+<AM lemma="učit" src="auto">VB-S---3P-AAI--</AM>
+</tag>
 </m>
 <m id="es_06-SCzechM-p0596-s1-w7">
 <w.rf>

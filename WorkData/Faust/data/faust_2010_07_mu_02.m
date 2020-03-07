@@ -2824,13 +2824,26 @@
 <w.rf>
 <LM>w#w-mu_02-SCzechM-p0124-s1-w19</LM>
 </w.rf>
-<form>pravděpoboné</form>
-<tag lemma="pravděpoboné">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>pravděpodobné</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>pravděpodobné</form>
+<tag>
+<AM lemma="pravděpodobný" src="auto">AAFP1----1A----</AM>
+<AM lemma="pravděpodobný" src="auto" recommended="1">AAFP4----1A----</AM>
+<AM lemma="pravděpodobný" src="auto">AAFP5----1A----</AM>
+<AM lemma="pravděpodobný" src="auto">AAFS2----1A----</AM>
+<AM lemma="pravděpodobný" src="auto">AAFS3----1A----</AM>
+<AM lemma="pravděpodobný" src="auto">AAFS6----1A----</AM>
+<AM lemma="pravděpodobný" src="auto">AAIP1----1A----</AM>
+<AM lemma="pravděpodobný" src="auto">AAIP4----1A----</AM>
+<AM lemma="pravděpodobný" src="auto">AAIP5----1A----</AM>
+<AM lemma="pravděpodobný" src="auto">AAMP4----1A----</AM>
+<AM lemma="pravděpodobný" src="auto">AANP1----1A---6</AM>
+<AM lemma="pravděpodobný" src="auto">AANP4----1A---6</AM>
+<AM lemma="pravděpodobný" src="auto">AANP5----1A---6</AM>
+<AM lemma="pravděpodobný" src="auto">AANS1----1A----</AM>
+<AM lemma="pravděpodobný" src="auto">AANS4----1A----</AM>
+<AM lemma="pravděpodobný" src="auto">AANS5----1A----</AM>
+</tag>
 </m>
 <m id="mu_02-SCzechM-p0124-s1-w20">
 <w.rf>
@@ -5045,16 +5058,20 @@
 <w.rf>
 <LM>w#w-mu_02-SCzechM-p0161-s1-w13</LM>
 </w.rf>
-<form>zemětřesní</form>
+<form_change>spell</form_change>
+<form>zemětřesení</form>
 <tag>
-<AM lemma="zemětřesný" recommended="1">AAMP1----1A----</AM>
-<AM lemma="zemětřesný">AAMP5----1A----</AM>
+<AM lemma="zemětřesení" src="auto">NNNP1-----A----</AM>
+<AM lemma="zemětřesení" src="auto">NNNP2-----A----</AM>
+<AM lemma="zemětřesení" src="auto">NNNP4-----A----</AM>
+<AM lemma="zemětřesení" src="auto">NNNP5-----A----</AM>
+<AM lemma="zemětřesení" src="auto">NNNS1-----A----</AM>
+<AM lemma="zemětřesení" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="zemětřesení" src="auto">NNNS3-----A----</AM>
+<AM lemma="zemětřesení" src="auto">NNNS4-----A----</AM>
+<AM lemma="zemětřesení" src="auto">NNNS5-----A----</AM>
+<AM lemma="zemětřesení" src="auto">NNNS6-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>zemětřesení</text>
-</LM>
-</comment>
 </m>
 <m id="mu_02-SCzechM-p0161-s1-w14">
 <w.rf>
@@ -5824,13 +5841,9 @@
 <w.rf>
 <LM>w#w-mu_02-SCzechM-p0172-s1-w9</LM>
 </w.rf>
-<form>byl</form>
-<tag lemma="být" recommended="1">VpYS----R-AAI--</tag>
-<comment>
-<LM type="New Form">
-<text>byla</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>byla</form>
+<tag lemma="být" src="auto" recommended="1">VpQW---XR-AAI--</tag>
 </m>
 <m id="mu_02-SCzechM-p0172-s1-w10">
 <w.rf>

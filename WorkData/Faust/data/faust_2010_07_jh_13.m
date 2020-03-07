@@ -2942,19 +2942,26 @@
 <w.rf>
 <LM>w#w-jh_13-SCzechM-p1362-s1-w6</LM>
 </w.rf>
-<form>zodpovědná</form>
+<form_change>spell</form_change>
+<form>zodpovědné</form>
 <tag>
-<AM lemma="zodpovědný" recommended="1">AAFS1----1A----</AM>
-<AM lemma="zodpovědný">AAFS5----1A----</AM>
-<AM lemma="zodpovědný">AANP1----1A----</AM>
-<AM lemma="zodpovědný">AANP4----1A----</AM>
-<AM lemma="zodpovědný">AANP5----1A----</AM>
+<AM lemma="zodpovědný" src="auto" recommended="1">AAFP1----1A----</AM>
+<AM lemma="zodpovědný" src="auto">AAFP4----1A----</AM>
+<AM lemma="zodpovědný" src="auto">AAFP5----1A----</AM>
+<AM lemma="zodpovědný" src="auto">AAFS2----1A----</AM>
+<AM lemma="zodpovědný" src="auto">AAFS3----1A----</AM>
+<AM lemma="zodpovědný" src="auto">AAFS6----1A----</AM>
+<AM lemma="zodpovědný" src="auto">AAIP1----1A----</AM>
+<AM lemma="zodpovědný" src="auto">AAIP4----1A----</AM>
+<AM lemma="zodpovědný" src="auto">AAIP5----1A----</AM>
+<AM lemma="zodpovědný" src="auto">AAMP4----1A----</AM>
+<AM lemma="zodpovědný" src="auto">AANP1----1A---6</AM>
+<AM lemma="zodpovědný" src="auto">AANP4----1A---6</AM>
+<AM lemma="zodpovědný" src="auto">AANP5----1A---6</AM>
+<AM lemma="zodpovědný" src="auto">AANS1----1A----</AM>
+<AM lemma="zodpovědný" src="auto">AANS4----1A----</AM>
+<AM lemma="zodpovědný" src="auto">AANS5----1A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>zodpovědné</text>
-</LM>
-</comment>
 </m>
 <m id="jh_13-SCzechM-p1362-s1-w7">
 <w.rf>

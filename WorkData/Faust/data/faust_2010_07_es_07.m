@@ -4322,30 +4322,18 @@
 <w.rf>
 <LM>w#w-es_07-SCzechM-p0711-s1-w14</LM>
 </w.rf>
-<form>mailové</form>
+<form_change>spell</form_change>
+<form>mailových</form>
 <tag>
-<AM lemma="mailový" recommended="1">AAFS2----1A----</AM>
-<AM lemma="mailový">AAFP1----1A----</AM>
-<AM lemma="mailový">AAFP4----1A----</AM>
-<AM lemma="mailový">AAFP5----1A----</AM>
-<AM lemma="mailový">AAFS3----1A----</AM>
-<AM lemma="mailový">AAFS6----1A----</AM>
-<AM lemma="mailový">AAIP1----1A----</AM>
-<AM lemma="mailový">AAIP4----1A----</AM>
-<AM lemma="mailový">AAIP5----1A----</AM>
-<AM lemma="mailový">AAMP4----1A----</AM>
-<AM lemma="mailový">AANP1----1A---6</AM>
-<AM lemma="mailový">AANP4----1A---6</AM>
-<AM lemma="mailový">AANP5----1A---6</AM>
-<AM lemma="mailový">AANS1----1A----</AM>
-<AM lemma="mailový">AANS4----1A----</AM>
-<AM lemma="mailový">AANS5----1A----</AM>
+<AM lemma="mailový" src="auto" recommended="1">AAFP2----1A----</AM>
+<AM lemma="mailový" src="auto">AAFP6----1A----</AM>
+<AM lemma="mailový" src="auto">AAIP2----1A----</AM>
+<AM lemma="mailový" src="auto">AAIP6----1A----</AM>
+<AM lemma="mailový" src="auto">AAMP2----1A----</AM>
+<AM lemma="mailový" src="auto">AAMP6----1A----</AM>
+<AM lemma="mailový" src="auto">AANP2----1A----</AM>
+<AM lemma="mailový" src="auto">AANP6----1A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>mailových</text>
-</LM>
-</comment>
 </m>
 <m id="es_07-SCzechM-p0711-s1-w15">
 <w.rf>

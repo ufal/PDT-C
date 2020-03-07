@@ -1629,13 +1629,36 @@
 <w.rf>
 <LM>w#w-jh_02-SCzechM-p0112-s1-w9</LM>
 </w.rf>
-<form>zašťitující</form>
-<tag lemma="zašťitující">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>zaštiťující</text>
-</LM>
-</comment>
+<form>zaštiťující</form>
+<tag>
+<AM lemma="zaštiťující_^(*5ovat)" src="auto">AGFP1-----A----</AM>
+<AM lemma="zaštiťující_^(*5ovat)" src="auto">AGFP4-----A----</AM>
+<AM lemma="zaštiťující_^(*5ovat)" src="auto">AGFP5-----A----</AM>
+<AM lemma="zaštiťující_^(*5ovat)" src="auto" recommended="1">AGFS1-----A----</AM>
+<AM lemma="zaštiťující_^(*5ovat)" src="auto">AGFS2-----A----</AM>
+<AM lemma="zaštiťující_^(*5ovat)" src="auto">AGFS3-----A----</AM>
+<AM lemma="zaštiťující_^(*5ovat)" src="auto">AGFS4-----A----</AM>
+<AM lemma="zaštiťující_^(*5ovat)" src="auto">AGFS5-----A----</AM>
+<AM lemma="zaštiťující_^(*5ovat)" src="auto">AGFS6-----A----</AM>
+<AM lemma="zaštiťující_^(*5ovat)" src="auto">AGFS7-----A----</AM>
+<AM lemma="zaštiťující_^(*5ovat)" src="auto">AGIP1-----A----</AM>
+<AM lemma="zaštiťující_^(*5ovat)" src="auto">AGIP4-----A----</AM>
+<AM lemma="zaštiťující_^(*5ovat)" src="auto">AGIP5-----A----</AM>
+<AM lemma="zaštiťující_^(*5ovat)" src="auto">AGIS1-----A----</AM>
+<AM lemma="zaštiťující_^(*5ovat)" src="auto">AGIS4-----A----</AM>
+<AM lemma="zaštiťující_^(*5ovat)" src="auto">AGIS5-----A----</AM>
+<AM lemma="zaštiťující_^(*5ovat)" src="auto">AGMP1-----A----</AM>
+<AM lemma="zaštiťující_^(*5ovat)" src="auto">AGMP4-----A----</AM>
+<AM lemma="zaštiťující_^(*5ovat)" src="auto">AGMP5-----A----</AM>
+<AM lemma="zaštiťující_^(*5ovat)" src="auto">AGMS1-----A----</AM>
+<AM lemma="zaštiťující_^(*5ovat)" src="auto">AGMS5-----A----</AM>
+<AM lemma="zaštiťující_^(*5ovat)" src="auto">AGNP1-----A----</AM>
+<AM lemma="zaštiťující_^(*5ovat)" src="auto">AGNP4-----A----</AM>
+<AM lemma="zaštiťující_^(*5ovat)" src="auto">AGNP5-----A----</AM>
+<AM lemma="zaštiťující_^(*5ovat)" src="auto">AGNS1-----A----</AM>
+<AM lemma="zaštiťující_^(*5ovat)" src="auto">AGNS4-----A----</AM>
+<AM lemma="zaštiťující_^(*5ovat)" src="auto">AGNS5-----A----</AM>
+</tag>
 </m>
 <m id="jh_02-SCzechM-p0112-s1-w10">
 <w.rf>
@@ -2064,24 +2087,12 @@
 <w.rf>
 <LM>w#w-jh_02-SCzechM-p0112-s1-w47</LM>
 </w.rf>
-<form>kuplířství</form>
+<form_change>spell</form_change>
+<form>kuplířstvím</form>
 <tag>
-<AM lemma="kuplířství" recommended="1">NNNS1-----A----</AM>
-<AM lemma="kuplířství">NNNP1-----A----</AM>
-<AM lemma="kuplířství">NNNP2-----A----</AM>
-<AM lemma="kuplířství">NNNP4-----A----</AM>
-<AM lemma="kuplířství">NNNP5-----A----</AM>
-<AM lemma="kuplířství">NNNS2-----A----</AM>
-<AM lemma="kuplířství">NNNS3-----A----</AM>
-<AM lemma="kuplířství">NNNS4-----A----</AM>
-<AM lemma="kuplířství">NNNS5-----A----</AM>
-<AM lemma="kuplířství">NNNS6-----A----</AM>
+<AM lemma="kuplířství" src="auto">NNNP3-----A----</AM>
+<AM lemma="kuplířství" src="auto" recommended="1">NNNS7-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>kuplířstvím</text>
-</LM>
-</comment>
 </m>
 <m id="jh_02-SCzechM-p0112-s1-w48">
 <w.rf>
@@ -3627,13 +3638,12 @@
 <w.rf>
 <LM>w#w-jh_02-SCzechM-p0140-s1-w1</LM>
 </w.rf>
-<form>řeni</form>
-<tag lemma="řeni">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>řekni</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>řekni</form>
+<tag>
+<AM lemma="říci" src="auto" recommended="1">Vi-S---2--A-P--</AM>
+<AM lemma="říci" src="auto">Vi-S---3--A-P-4</AM>
+</tag>
 </m>
 <m id="jh_02-SCzechM-p0140-s1-w2">
 <w.rf>
@@ -5118,13 +5128,9 @@
 <w.rf>
 <LM>w#w-jh_02-SCzechM-p0158-s1-w4</LM>
 </w.rf>
-<form>rostli</form>
-<tag lemma="růst-2" recommended="1">VpMP----R-AAI--</tag>
-<comment>
-<LM type="New Form">
-<text>rostlin</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>rostlin</form>
+<tag lemma="rostlina" src="auto" recommended="1">NNFP2-----A----</tag>
 </m>
 </s>
 <s id="s-jh_02-SCzechM-p0159-s1-w1">

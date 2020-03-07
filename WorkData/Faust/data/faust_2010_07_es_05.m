@@ -714,13 +714,33 @@
 <w.rf>
 <LM>w#w-es_05-SCzechM-p0454-s1-w4</LM>
 </w.rf>
-<form>straré</form>
-<tag lemma="straré">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>staré</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>staré</form>
+<tag>
+<AM lemma="stará-1_^(manželka)" src="auto">NNFP1-----A----</AM>
+<AM lemma="stará-1_^(manželka)" src="auto">NNFP4-----A----</AM>
+<AM lemma="stará-1_^(manželka)" src="auto">NNFP5-----A----</AM>
+<AM lemma="stará-1_^(manželka)" src="auto">NNFS2-----A----</AM>
+<AM lemma="stará-1_^(manželka)" src="auto">NNFS3-----A----</AM>
+<AM lemma="stará-1_^(manželka)" src="auto">NNFS6-----A----</AM>
+<AM lemma="starý-1_^(manžel)" src="auto">NNMP4-----A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AAFP1----1A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AAFP4----1A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AAFP5----1A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AAFS2----1A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AAFS3----1A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AAFS6----1A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto" recommended="1">AAIP1----1A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AAIP4----1A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AAIP5----1A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AAMP4----1A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AANP1----1A---6</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AANP4----1A---6</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AANP5----1A---6</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AANS1----1A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AANS4----1A----</AM>
+<AM lemma="starý-2_^(člověk,_věc)" src="auto">AANS5----1A----</AM>
+</tag>
 </m>
 <m id="es_05-SCzechM-p0454-s1-w5">
 <w.rf>

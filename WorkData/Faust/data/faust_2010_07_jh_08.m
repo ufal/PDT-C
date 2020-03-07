@@ -2342,13 +2342,9 @@
 <w.rf>
 <LM>w#w-jh_08-SCzechM-p0793-s1-w6</LM>
 </w.rf>
-<form>protže</form>
-<tag lemma="protže">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>protože</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>protože</form>
+<tag lemma="protože" src="auto" recommended="1">J,-------------</tag>
 </m>
 <m id="jh_08-SCzechM-p0793-s1-w7">
 <w.rf>
@@ -2735,27 +2731,27 @@
 <w.rf>
 <LM>w#w-jh_08-SCzechM-p0796-s1-w9</LM>
 </w.rf>
-<form>0x00000000</form>
-<tag lemma="0x00000000">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>0</text>
-</LM>
-</comment>
-</m><m id="jh_08-SCzechM-p0796-s1-w9-sw1">
+<form>0</form>
+<tag lemma="0" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="jh_08-SCzechM-p0796-s1-w9-sw1">
 <w.rf>
 <LM>w#w-jh_08-SCzechM-p0796-s1-w9</LM>
 </w.rf>
-<form>0x00000000</form>
-<tag lemma="0x00000000">X@-------------</tag>
-<comment><LM type="New Form"><text>x</text></LM></comment>
-</m><m id="jh_08-SCzechM-p0796-s1-w9-sw2">
+<form>x</form>
+<tag>
+<AM lemma="x-5_^(náhr._symbolu_krát,_mat._symbol)" src="auto" recommended="1">J*-------------</AM>
+<AM lemma="x-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="x-88_:B" src="auto">NNXXX-----A----</AM>
+</tag>
+</m>
+<m id="jh_08-SCzechM-p0796-s1-w9-sw2">
 <w.rf>
 <LM>w#w-jh_08-SCzechM-p0796-s1-w9</LM>
 </w.rf>
-<form>0x00000000</form>
-<tag lemma="0x00000000">X@-------------</tag>
-<comment><LM type="New Form"><text>00000000</text></LM></comment>
+<form_change>spell</form_change>
+<form>00000000</form>
+<tag lemma="00000000" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="jh_08-SCzechM-p0796-s1-w10">
 <w.rf>

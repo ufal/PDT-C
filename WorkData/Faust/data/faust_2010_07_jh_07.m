@@ -2758,13 +2758,12 @@
 <w.rf>
 <LM>w#w-jh_07-SCzechM-p0684-s1-w1</LM>
 </w.rf>
-<form>certifkát</form>
-<tag lemma="certifkát">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>certifikát</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>certifikát</form>
+<tag>
+<AM lemma="certifikát" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="certifikát" src="auto">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="jh_07-SCzechM-p0684-s1-w2">
 <w.rf>
@@ -4733,20 +4732,24 @@
 <w.rf>
 <LM>w#w-jh_07-SCzechM-p0711-s1-w2</LM>
 </w.rf>
-<form>znás</form>
-<tag lemma="znás">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>z</text>
-</LM>
-</comment>
-</m><m id="jh_07-SCzechM-p0711-s1-w2-sw1">
+<form>z</form>
+<tag>
+<AM lemma="z-1" src="auto" recommended="1">RR--2----------</AM>
+<AM lemma="z-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="z-88_:B" src="auto">NNXXX-----A----</AM>
+</tag>
+</m>
+<m id="jh_07-SCzechM-p0711-s1-w2-sw1">
 <w.rf>
 <LM>w#w-jh_07-SCzechM-p0711-s1-w2</LM>
 </w.rf>
-<form>znás</form>
-<tag lemma="znás">X@-------------</tag>
-<comment><LM type="New Form"><text>nás</text></LM></comment>
+<form_change>spell</form_change>
+<form>nás</form>
+<tag>
+<AM lemma="já" src="auto" recommended="1">PP-P2--1-------</AM>
+<AM lemma="já" src="auto">PP-P4--1-------</AM>
+<AM lemma="já" src="auto">PP-P6--1-------</AM>
+</tag>
 </m>
 <m id="jh_07-SCzechM-p0711-s1-w3">
 <w.rf>

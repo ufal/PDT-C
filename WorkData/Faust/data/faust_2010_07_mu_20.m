@@ -1364,13 +1364,14 @@
 <w.rf>
 <LM>w#w-mu_20-SCzechM-p2102-s1-w11</LM>
 </w.rf>
-<form>neužitěčnými</form>
-<tag lemma="neužitěčnými">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>neužitečnými</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>neužitečnými</form>
+<tag>
+<AM lemma="užitečný" src="auto" recommended="1">AAFP7----1N----</AM>
+<AM lemma="užitečný" src="auto">AAIP7----1N----</AM>
+<AM lemma="užitečný" src="auto">AAMP7----1N----</AM>
+<AM lemma="užitečný" src="auto">AANP7----1N----</AM>
+</tag>
 </m>
 <m id="mu_20-SCzechM-p2102-s1-w12">
 <w.rf>
@@ -1458,13 +1459,20 @@
 <w.rf>
 <LM>w#w-mu_20-SCzechM-p2104-s1-w5</LM>
 </w.rf>
-<form>uploadovní</form>
-<tag lemma="uploadovní">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>uploadování</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>uploadování</form>
+<tag>
+<AM lemma="uploadování_^(*3at)" src="auto">NNNP1-----A----</AM>
+<AM lemma="uploadování_^(*3at)" src="auto">NNNP2-----A----</AM>
+<AM lemma="uploadování_^(*3at)" src="auto">NNNP4-----A----</AM>
+<AM lemma="uploadování_^(*3at)" src="auto">NNNP5-----A----</AM>
+<AM lemma="uploadování_^(*3at)" src="auto">NNNS1-----A----</AM>
+<AM lemma="uploadování_^(*3at)" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="uploadování_^(*3at)" src="auto">NNNS3-----A----</AM>
+<AM lemma="uploadování_^(*3at)" src="auto">NNNS4-----A----</AM>
+<AM lemma="uploadování_^(*3at)" src="auto">NNNS5-----A----</AM>
+<AM lemma="uploadování_^(*3at)" src="auto">NNNS6-----A----</AM>
+</tag>
 </m>
 <m id="mu_20-SCzechM-p2104-s1-w6">
 <w.rf>
@@ -3549,13 +3557,12 @@
 <w.rf>
 <LM>w#w-mu_20-SCzechM-p2141-s1-w26</LM>
 </w.rf>
-<form>licensováním</form>
-<tag lemma="licensováním">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>licencováním</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>licencováním</form>
+<tag>
+<AM lemma="licencování_^(*3at)" src="auto">NNNP3-----A----</AM>
+<AM lemma="licencování_^(*3at)" src="auto" recommended="1">NNNS7-----A----</AM>
+</tag>
 </m>
 <m id="mu_20-SCzechM-p2141-s1-w27">
 <w.rf>
@@ -4163,13 +4170,9 @@
 <w.rf>
 <LM>w#w-mu_20-SCzechM-p2146-s1-w6</LM>
 </w.rf>
-<form>jit</form>
-<tag lemma="jít_,h" recommended="1">Vf--------A---6</tag>
-<comment>
-<LM type="New Form">
-<text>jít</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>jít</form>
+<tag lemma="jít" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="mu_20-SCzechM-p2146-s1-w7">
 <w.rf>
@@ -8160,16 +8163,12 @@
 <w.rf>
 <LM>w#w-mu_20-SCzechM-p2182-s1-w12</LM>
 </w.rf>
-<form>zápis</form>
+<form_change>spell</form_change>
+<form>zápise</form>
 <tag>
-<AM lemma="zápis" recommended="1">NNIS4-----A----</AM>
-<AM lemma="zápis">NNIS1-----A----</AM>
+<AM lemma="zápis" src="auto">NNIS5-----A----</AM>
+<AM lemma="zápis" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>zápise</text>
-</LM>
-</comment>
 </m>
 <m id="mu_20-SCzechM-p2182-s1-w13">
 <w.rf>
@@ -8632,13 +8631,14 @@
 <w.rf>
 <LM>w#w-mu_20-SCzechM-p2185-s1-w23</LM>
 </w.rf>
-<form>stranky</form>
-<tag lemma="stranky">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>stránky</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>stránky</form>
+<tag>
+<AM lemma="stránka" src="auto">NNFP1-----A----</AM>
+<AM lemma="stránka" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="stránka" src="auto">NNFP5-----A----</AM>
+<AM lemma="stránka" src="auto">NNFS2-----A----</AM>
+</tag>
 </m>
 <m id="mu_20-SCzechM-p2185-s1-w24">
 <w.rf>

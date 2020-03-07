@@ -1921,13 +1921,16 @@
 <w.rf>
 <LM>w#w-es_16-SCzechM-p1663-s1-w9</LM>
 </w.rf>
-<form>srategie</form>
-<tag lemma="srategie">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>strategie</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>strategie</form>
+<tag>
+<AM lemma="strategie" src="auto">NNFP1-----A----</AM>
+<AM lemma="strategie" src="auto">NNFP4-----A----</AM>
+<AM lemma="strategie" src="auto">NNFP5-----A----</AM>
+<AM lemma="strategie" src="auto">NNFS1-----A----</AM>
+<AM lemma="strategie" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="strategie" src="auto">NNFS5-----A----</AM>
+</tag>
 </m>
 <m id="es_16-SCzechM-p1663-s1-w10">
 <w.rf>
@@ -2560,13 +2563,13 @@
 <w.rf>
 <LM>w#w-es_16-SCzechM-p1674-s1-w1</LM>
 </w.rf>
-<form>Om</form>
-<tag lemma="Om">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>On</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>On</form>
+<tag>
+<AM lemma="on-1" src="auto" recommended="1">PPYS1--3-------</AM>
+<AM lemma="on-2_^(on-line)" src="auto">A2--------A----</AM>
+<AM lemma="on-77" src="auto">F%-------------</AM>
+</tag>
 </m>
 <m id="es_16-SCzechM-p1674-s1-w2">
 <w.rf>
@@ -3824,13 +3827,22 @@
 <w.rf>
 <LM>w#w-es_16-SCzechM-p1706-s1-w4</LM>
 </w.rf>
-<form>zpoždní</form>
-<tag lemma="zpoždní">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>zpoždění</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>zpoždění</form>
+<tag>
+<AM lemma="zpožděný_^(*5zdit)" src="auto">AAMP1----1A----</AM>
+<AM lemma="zpožděný_^(*5zdit)" src="auto">AAMP5----1A----</AM>
+<AM lemma="zpoždění_^(*5zdit)" src="auto">NNNP1-----A----</AM>
+<AM lemma="zpoždění_^(*5zdit)" src="auto">NNNP2-----A----</AM>
+<AM lemma="zpoždění_^(*5zdit)" src="auto">NNNP4-----A----</AM>
+<AM lemma="zpoždění_^(*5zdit)" src="auto">NNNP5-----A----</AM>
+<AM lemma="zpoždění_^(*5zdit)" src="auto">NNNS1-----A----</AM>
+<AM lemma="zpoždění_^(*5zdit)" src="auto">NNNS2-----A----</AM>
+<AM lemma="zpoždění_^(*5zdit)" src="auto">NNNS3-----A----</AM>
+<AM lemma="zpoždění_^(*5zdit)" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="zpoždění_^(*5zdit)" src="auto">NNNS5-----A----</AM>
+<AM lemma="zpoždění_^(*5zdit)" src="auto">NNNS6-----A----</AM>
+</tag>
 </m>
 <m id="es_16-SCzechM-p1706-s1-w5">
 <w.rf>
@@ -4573,13 +4585,9 @@
 <w.rf>
 <LM>w#w-es_16-SCzechM-p1722-s1-w20</LM>
 </w.rf>
-<form>indentifikovaly</form>
-<tag lemma="indentifikovaly">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>identifikovaly</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>identifikovaly</form>
+<tag lemma="identifikovat" src="auto" recommended="1">VpTP---XR-AAB--</tag>
 </m>
 <m id="es_16-SCzechM-p1722-s1-w21">
 <w.rf>
@@ -5025,16 +5033,12 @@
 <w.rf>
 <LM>w#w-es_16-SCzechM-p1730-s1-w20</LM>
 </w.rf>
-<form>mě</form>
+<form_change>spell</form_change>
+<form>mně</form>
 <tag>
-<AM lemma="já" recommended="1">PH-S4--1-------</AM>
-<AM lemma="já">PH-S2--1-------</AM>
+<AM lemma="já" src="auto" recommended="1">PP-S3--1-------</AM>
+<AM lemma="já" src="auto">PP-S6--1-------</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>mně</text>
-</LM>
-</comment>
 </m>
 <m id="es_16-SCzechM-p1730-s1-w21">
 <w.rf>

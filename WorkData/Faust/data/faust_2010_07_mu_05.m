@@ -305,13 +305,11 @@
 <w.rf>
 <LM>w#w-mu_05-SCzechM-p0436-s1-w5</LM>
 </w.rf>
-<form>lide</form>
-<tag lemma="lid_^(naší_země)" recommended="1">NNIS5-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>lidé</text>
-</LM>
-</comment>
+<form>lidé</form>
+<tag>
+<AM lemma="člověk" src="auto" recommended="1">NNMP1-----A---1</AM>
+<AM lemma="člověk" src="auto">NNMP5-----A---1</AM>
+</tag>
 </m>
 <m id="mu_05-SCzechM-p0436-s1-w6">
 <w.rf>
@@ -713,13 +711,36 @@
 <w.rf>
 <LM>w#w-mu_05-SCzechM-p0436-s1-w37</LM>
 </w.rf>
-<form>vniřní</form>
-<tag lemma="vniřní">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>vnitřní</text>
-</LM>
-</comment>
+<form>vnitřní</form>
+<tag>
+<AM lemma="vnitřní" src="auto">AAFP1----1A----</AM>
+<AM lemma="vnitřní" src="auto">AAFP4----1A----</AM>
+<AM lemma="vnitřní" src="auto">AAFP5----1A----</AM>
+<AM lemma="vnitřní" src="auto">AAFS1----1A----</AM>
+<AM lemma="vnitřní" src="auto">AAFS2----1A----</AM>
+<AM lemma="vnitřní" src="auto">AAFS3----1A----</AM>
+<AM lemma="vnitřní" src="auto">AAFS4----1A----</AM>
+<AM lemma="vnitřní" src="auto">AAFS5----1A----</AM>
+<AM lemma="vnitřní" src="auto" recommended="1">AAFS6----1A----</AM>
+<AM lemma="vnitřní" src="auto">AAFS7----1A----</AM>
+<AM lemma="vnitřní" src="auto">AAIP1----1A----</AM>
+<AM lemma="vnitřní" src="auto">AAIP4----1A----</AM>
+<AM lemma="vnitřní" src="auto">AAIP5----1A----</AM>
+<AM lemma="vnitřní" src="auto">AAIS1----1A----</AM>
+<AM lemma="vnitřní" src="auto">AAIS4----1A----</AM>
+<AM lemma="vnitřní" src="auto">AAIS5----1A----</AM>
+<AM lemma="vnitřní" src="auto">AAMP1----1A----</AM>
+<AM lemma="vnitřní" src="auto">AAMP4----1A----</AM>
+<AM lemma="vnitřní" src="auto">AAMP5----1A----</AM>
+<AM lemma="vnitřní" src="auto">AAMS1----1A----</AM>
+<AM lemma="vnitřní" src="auto">AAMS5----1A----</AM>
+<AM lemma="vnitřní" src="auto">AANP1----1A----</AM>
+<AM lemma="vnitřní" src="auto">AANP4----1A----</AM>
+<AM lemma="vnitřní" src="auto">AANP5----1A----</AM>
+<AM lemma="vnitřní" src="auto">AANS1----1A----</AM>
+<AM lemma="vnitřní" src="auto">AANS4----1A----</AM>
+<AM lemma="vnitřní" src="auto">AANS5----1A----</AM>
+</tag>
 </m>
 <m id="mu_05-SCzechM-p0436-s1-w38">
 <w.rf>
@@ -811,13 +832,9 @@
 <w.rf>
 <LM>w#w-mu_05-SCzechM-p0436-s1-w47</LM>
 </w.rf>
-<form>nejlbíž</form>
-<tag lemma="nejlbíž">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>nejblíž</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>nejblíž</form>
+<tag lemma="blízko-1" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="mu_05-SCzechM-p0436-s1-w48">
 <w.rf>
@@ -1156,13 +1173,12 @@
 <w.rf>
 <LM>w#w-mu_05-SCzechM-p0454-s1-w13</LM>
 </w.rf>
-<form>fosílí</form>
-<tag lemma="fosílí">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>fosílií</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>fosílií</form>
+<tag>
+<AM lemma="fosílie" src="auto">NNFP2-----A----</AM>
+<AM lemma="fosílie" src="auto" recommended="1">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="mu_05-SCzechM-p0454-s1-w14">
 <w.rf>
@@ -4036,13 +4052,16 @@
 <w.rf>
 <LM>w#w-mu_05-SCzechM-p0500-s1-w4</LM>
 </w.rf>
-<form>globalizce</form>
-<tag lemma="globalizce">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>globalizace</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>globalizace</form>
+<tag>
+<AM lemma="globalizace" src="auto">NNFP1-----A----</AM>
+<AM lemma="globalizace" src="auto">NNFP4-----A----</AM>
+<AM lemma="globalizace" src="auto">NNFP5-----A----</AM>
+<AM lemma="globalizace" src="auto">NNFS1-----A----</AM>
+<AM lemma="globalizace" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="globalizace" src="auto">NNFS5-----A----</AM>
+</tag>
 </m>
 <m id="mu_05-SCzechM-p0500-s1-w5">
 <w.rf>
@@ -4871,13 +4890,20 @@
 <w.rf>
 <LM>w#w-mu_05-SCzechM-p0508-s1-w2</LM>
 </w.rf>
-<form>následujícícm</form>
-<tag lemma="následujícícm">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>následujícím</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>následujícím</form>
+<tag>
+<AM lemma="následující_^(*5ovat)" src="auto">AGFP3-----A----</AM>
+<AM lemma="následující_^(*5ovat)" src="auto">AGIP3-----A----</AM>
+<AM lemma="následující_^(*5ovat)" src="auto">AGIS6-----A----</AM>
+<AM lemma="následující_^(*5ovat)" src="auto">AGIS7-----A----</AM>
+<AM lemma="následující_^(*5ovat)" src="auto" recommended="1">AGMP3-----A----</AM>
+<AM lemma="následující_^(*5ovat)" src="auto">AGMS6-----A----</AM>
+<AM lemma="následující_^(*5ovat)" src="auto">AGMS7-----A----</AM>
+<AM lemma="následující_^(*5ovat)" src="auto">AGNP3-----A----</AM>
+<AM lemma="následující_^(*5ovat)" src="auto">AGNS6-----A----</AM>
+<AM lemma="následující_^(*5ovat)" src="auto">AGNS7-----A----</AM>
+</tag>
 </m>
 <m id="mu_05-SCzechM-p0508-s1-w3">
 <w.rf>
@@ -5012,13 +5038,14 @@
 <w.rf>
 <LM>w#w-mu_05-SCzechM-p0510-s1-w9</LM>
 </w.rf>
-<form>interkativního</form>
-<tag lemma="interkativního">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>interaktivního</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>interaktivního</form>
+<tag>
+<AM lemma="interaktivní" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="interaktivní" src="auto">AAMS2----1A----</AM>
+<AM lemma="interaktivní" src="auto">AAMS4----1A----</AM>
+<AM lemma="interaktivní" src="auto">AANS2----1A----</AM>
+</tag>
 </m>
 <m id="mu_05-SCzechM-p0510-s1-w10">
 <w.rf>
@@ -6247,13 +6274,33 @@
 <w.rf>
 <LM>w#w-mu_05-SCzechM-p0538-s1-w4</LM>
 </w.rf>
-<form>štastný</form>
-<tag lemma="štastný">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>šťastný</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>šťastný</form>
+<tag>
+<AM lemma="šťastný" src="auto">AAFP1----1A---6</AM>
+<AM lemma="šťastný" src="auto">AAFP4----1A---6</AM>
+<AM lemma="šťastný" src="auto">AAFP5----1A---6</AM>
+<AM lemma="šťastný" src="auto">AAFS2----1A---6</AM>
+<AM lemma="šťastný" src="auto">AAFS3----1A---6</AM>
+<AM lemma="šťastný" src="auto">AAFS6----1A---6</AM>
+<AM lemma="šťastný" src="auto">AAIP1----1A---6</AM>
+<AM lemma="šťastný" src="auto">AAIP4----1A---6</AM>
+<AM lemma="šťastný" src="auto">AAIP5----1A---6</AM>
+<AM lemma="šťastný" src="auto">AAIS1----1A----</AM>
+<AM lemma="šťastný" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="šťastný" src="auto">AAIS5----1A----</AM>
+<AM lemma="šťastný" src="auto">AAMP1----1A---6</AM>
+<AM lemma="šťastný" src="auto">AAMP4----1A---6</AM>
+<AM lemma="šťastný" src="auto">AAMP5----1A---6</AM>
+<AM lemma="šťastný" src="auto">AAMS1----1A----</AM>
+<AM lemma="šťastný" src="auto">AAMS5----1A----</AM>
+<AM lemma="šťastný" src="auto">AANP1----1A---6</AM>
+<AM lemma="šťastný" src="auto">AANP4----1A---6</AM>
+<AM lemma="šťastný" src="auto">AANP5----1A---6</AM>
+<AM lemma="šťastný" src="auto">AANS1----1A---6</AM>
+<AM lemma="šťastný" src="auto">AANS4----1A---6</AM>
+<AM lemma="šťastný" src="auto">AANS5----1A---6</AM>
+</tag>
 </m>
 <m id="mu_05-SCzechM-p0538-s1-w5">
 <w.rf>

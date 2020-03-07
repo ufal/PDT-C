@@ -2048,13 +2048,13 @@
 <w.rf>
 <LM>w#w-mu_07-SCzechM-p0678-s1-w11</LM>
 </w.rf>
-<form>bázenu</form>
-<tag lemma="bázenu">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>bazénu</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>bazénu</form>
+<tag>
+<AM lemma="bazén" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="bazén" src="auto">NNIS3-----A----</AM>
+<AM lemma="bazén" src="auto">NNIS6-----A---1</AM>
+</tag>
 </m>
 <m id="mu_07-SCzechM-p0678-s1-w12">
 <w.rf>
@@ -2721,13 +2721,18 @@
 <w.rf>
 <LM>w#w-mu_07-SCzechM-p0684-s1-w9</LM>
 </w.rf>
-<form>rúzných</form>
-<tag lemma="rúzných">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>různých</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>různých</form>
+<tag>
+<AM lemma="různý" src="auto">AAFP2----1A----</AM>
+<AM lemma="různý" src="auto" recommended="1">AAFP6----1A----</AM>
+<AM lemma="různý" src="auto">AAIP2----1A----</AM>
+<AM lemma="různý" src="auto">AAIP6----1A----</AM>
+<AM lemma="různý" src="auto">AAMP2----1A----</AM>
+<AM lemma="různý" src="auto">AAMP6----1A----</AM>
+<AM lemma="různý" src="auto">AANP2----1A----</AM>
+<AM lemma="různý" src="auto">AANP6----1A----</AM>
+</tag>
 </m>
 <m id="mu_07-SCzechM-p0684-s1-w10">
 <w.rf>
@@ -3151,13 +3156,11 @@
 <w.rf>
 <LM>w#w-mu_07-SCzechM-p0696-s1-w20</LM>
 </w.rf>
-<form>Trénik</form>
-<tag lemma="Trénik">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Trénink</text>
-</LM>
-</comment>
+<form>Trénink</form>
+<tag>
+<AM lemma="trénink" src="auto" recommended="1">NNIS1-----A----</AM>
+<AM lemma="trénink" src="auto">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="mu_07-SCzechM-p0696-s1-w21">
 <w.rf>
@@ -3174,13 +3177,9 @@
 <w.rf>
 <LM>w#w-mu_07-SCzechM-p0696-s1-w22</LM>
 </w.rf>
-<form>vzydvihována</form>
-<tag lemma="vzydvihována">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>vyzdvihována</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>vyzdvihována</form>
+<tag lemma="vyzdvihovat" src="auto" recommended="1">VsQW---XX-API--</tag>
 </m>
 <m id="mu_07-SCzechM-p0696-s1-w23">
 <w.rf>
@@ -3542,13 +3541,9 @@
 <w.rf>
 <LM>w#w-mu_07-SCzechM-p0701-s1-w20</LM>
 </w.rf>
-<form>kteři</form>
-<tag lemma="kteři">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>kteří</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>kteří</form>
+<tag lemma="který" src="auto" recommended="1">P4MP1----------</tag>
 </m>
 <m id="mu_07-SCzechM-p0701-s1-w21">
 <w.rf>
@@ -3893,16 +3888,9 @@
 <w.rf>
 <LM>w#w-mu_07-SCzechM-p0703-s1-w15</LM>
 </w.rf>
-<form>mí</form>
-<tag>
-<AM lemma="můj_^(přivlast.)" recommended="1">PSMP5-S1------1</AM>
-<AM lemma="můj_^(přivlast.)">PSMP1-S1------1</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>mi</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>mi</form>
+<tag lemma="já" src="auto" recommended="1">PH-S3--1-------</tag>
 </m>
 <m id="mu_07-SCzechM-p0703-s1-w16">
 <w.rf>

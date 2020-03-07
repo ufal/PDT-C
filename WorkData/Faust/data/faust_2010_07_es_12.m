@@ -4838,13 +4838,9 @@
 <w.rf>
 <LM>w#w-es_12-SCzechM-p1276-s1-w14</LM>
 </w.rf>
-<form>neeodpověděl</form>
-<tag lemma="neeodpověděl">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>neodpověděl</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>neodpověděl</form>
+<tag lemma="odpovědět" src="auto" recommended="1">VpYS---XR-NAP--</tag>
 </m>
 <m id="es_12-SCzechM-p1276-s1-w15">
 <w.rf>

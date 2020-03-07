@@ -2137,36 +2137,27 @@
 <w.rf>
 <LM>w#w-es_04-SCzechM-p0335-s1-w12</LM>
 </w.rf>
-<form>0x00000000</form>
-<tag>
-<AM lemma="0x00000000">X@-------------</AM>
-<AM lemma="0x00000000" src="manual">C=-------------</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>0</text>
-</LM>
-</comment>
-</m><m id="es_04-SCzechM-p0335-s1-w12-sw1">
+<form>0</form>
+<tag lemma="0" src="auto" recommended="1">C=-------------</tag>
+</m>
+<m id="es_04-SCzechM-p0335-s1-w12-sw1">
 <w.rf>
 <LM>w#w-es_04-SCzechM-p0335-s1-w12</LM>
 </w.rf>
-<form>0x00000000</form>
+<form>x</form>
 <tag>
-<AM lemma="0x00000000">X@-------------</AM>
-<AM lemma="0x00000000" src="manual">C=-------------</AM>
+<AM lemma="x-5_^(náhr._symbolu_krát,_mat._symbol)" src="auto" recommended="1">J*-------------</AM>
+<AM lemma="x-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="x-88_:B" src="auto">NNXXX-----A----</AM>
 </tag>
-<comment><LM type="New Form"><text>x</text></LM></comment>
-</m><m id="es_04-SCzechM-p0335-s1-w12-sw2">
+</m>
+<m id="es_04-SCzechM-p0335-s1-w12-sw2">
 <w.rf>
 <LM>w#w-es_04-SCzechM-p0335-s1-w12</LM>
 </w.rf>
-<form>0x00000000</form>
-<tag>
-<AM lemma="0x00000000">X@-------------</AM>
-<AM lemma="0x00000000" src="manual">C=-------------</AM>
-</tag>
-<comment><LM type="New Form"><text>00000000</text></LM></comment>
+<form_change>spell</form_change>
+<form>00000000</form>
+<tag lemma="00000000" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="es_04-SCzechM-p0335-s1-w13">
 <w.rf>
@@ -2763,13 +2754,20 @@
 <w.rf>
 <LM>w#w-es_04-SCzechM-p0349-s1-w29</LM>
 </w.rf>
-<form>královsví</form>
-<tag lemma="královsví">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>království</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>království</form>
+<tag>
+<AM lemma="království" src="auto">NNNP1-----A----</AM>
+<AM lemma="království" src="auto">NNNP2-----A----</AM>
+<AM lemma="království" src="auto">NNNP4-----A----</AM>
+<AM lemma="království" src="auto">NNNP5-----A----</AM>
+<AM lemma="království" src="auto">NNNS1-----A----</AM>
+<AM lemma="království" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="království" src="auto">NNNS3-----A----</AM>
+<AM lemma="království" src="auto">NNNS4-----A----</AM>
+<AM lemma="království" src="auto">NNNS5-----A----</AM>
+<AM lemma="království" src="auto">NNNS6-----A----</AM>
+</tag>
 </m>
 <m id="es_04-SCzechM-p0349-s1-w30">
 <w.rf>
@@ -3904,13 +3902,17 @@
 <w.rf>
 <LM>w#w-es_04-SCzechM-p0365-s1-w8</LM>
 </w.rf>
-<form>příleřitosti</form>
-<tag lemma="příleřitosti">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>příležitosti</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>příležitosti</form>
+<tag>
+<AM lemma="příležitost" src="auto">NNFP1-----A----</AM>
+<AM lemma="příležitost" src="auto">NNFP4-----A----</AM>
+<AM lemma="příležitost" src="auto">NNFP5-----A----</AM>
+<AM lemma="příležitost" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="příležitost" src="auto">NNFS3-----A----</AM>
+<AM lemma="příležitost" src="auto">NNFS5-----A----</AM>
+<AM lemma="příležitost" src="auto">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="es_04-SCzechM-p0365-s1-w9">
 <w.rf>

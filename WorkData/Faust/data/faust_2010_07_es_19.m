@@ -2806,13 +2806,12 @@
 <w.rf>
 <LM>w#w-es_19-SCzechM-p2026-s1-w6</LM>
 </w.rf>
-<form>kllienta</form>
-<tag lemma="kllienta">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>klienta</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>klienta</form>
+<tag>
+<AM lemma="klient" src="auto">NNMS2-----A----</AM>
+<AM lemma="klient" src="auto" recommended="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="es_19-SCzechM-p2026-s1-w7">
 <w.rf>
@@ -5224,13 +5223,9 @@
 <w.rf>
 <LM>w#w-es_19-SCzechM-p2049-s1-w23</LM>
 </w.rf>
-<form>Doporučtuji</form>
-<tag lemma="Doporučtuji">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Doporučuji</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Doporučuji</form>
+<tag lemma="doporučovat" src="auto" recommended="1">VB-S---1P-AAI-1</tag>
 </m>
 <m id="es_19-SCzechM-p2049-s1-w24">
 <w.rf>

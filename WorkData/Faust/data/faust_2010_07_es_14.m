@@ -5375,13 +5375,12 @@
 <w.rf>
 <LM>w#w-es_14-SCzechM-p1517-s1-w6</LM>
 </w.rf>
-<form>parvda</form>
-<tag lemma="parvda">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>pravda</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>pravda</form>
+<tag>
+<AM lemma="pravda-1" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="pravda-2" src="auto">TT-------------</AM>
+</tag>
 </m>
 <m id="es_14-SCzechM-p1517-s1-w7">
 <w.rf>

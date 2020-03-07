@@ -1537,13 +1537,9 @@
 <w.rf>
 <LM>w#w-mu_04-SCzechM-p0333-s1-w30</LM>
 </w.rf>
-<form>vymázano</form>
-<tag lemma="vymázano">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>vymazáno</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>vymazáno</form>
+<tag lemma="vymazat" src="auto" recommended="1">VsNS---XX-APP--</tag>
 </m>
 <m id="mu_04-SCzechM-p0333-s1-w31">
 <w.rf>
@@ -2762,13 +2758,18 @@
 <w.rf>
 <LM>w#w-mu_04-SCzechM-p0351-s1-w4</LM>
 </w.rf>
-<form>kratokodobých</form>
-<tag lemma="kratokodobých">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>krátkodobých</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>krátkodobých</form>
+<tag>
+<AM lemma="krátkodobý" src="auto" recommended="1">AAFP2----1A----</AM>
+<AM lemma="krátkodobý" src="auto">AAFP6----1A----</AM>
+<AM lemma="krátkodobý" src="auto">AAIP2----1A----</AM>
+<AM lemma="krátkodobý" src="auto">AAIP6----1A----</AM>
+<AM lemma="krátkodobý" src="auto">AAMP2----1A----</AM>
+<AM lemma="krátkodobý" src="auto">AAMP6----1A----</AM>
+<AM lemma="krátkodobý" src="auto">AANP2----1A----</AM>
+<AM lemma="krátkodobý" src="auto">AANP6----1A----</AM>
+</tag>
 </m>
 <m id="mu_04-SCzechM-p0351-s1-w5">
 <w.rf>
@@ -3952,13 +3953,9 @@
 <w.rf>
 <LM>w#w-mu_04-SCzechM-p0369-s1-w12</LM>
 </w.rf>
-<form>pravědopodbně</form>
-<tag lemma="pravědopodbně">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>pravděpodobně</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>pravděpodobně</form>
+<tag lemma="pravděpodobně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="mu_04-SCzechM-p0369-s1-w13">
 <w.rf>
@@ -5070,13 +5067,11 @@
 <w.rf>
 <LM>w#w-mu_04-SCzechM-p0390-s1-w2</LM>
 </w.rf>
-<form>zákaznika</form>
-<tag lemma="zákaznika">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>zákazníka</text>
-</LM>
-</comment>
+<form>zákazníka</form>
+<tag>
+<AM lemma="zákazník" src="auto" recommended="1">NNMS2-----A----</AM>
+<AM lemma="zákazník" src="auto">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="mu_04-SCzechM-p0390-s1-w3">
 <w.rf>
@@ -5405,13 +5400,12 @@
 <w.rf>
 <LM>w#w-mu_04-SCzechM-p0390-s1-w36</LM>
 </w.rf>
-<form>nejčestěji</form>
-<tag lemma="nejčestěji">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>nejčastěji</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>nejčastěji</form>
+<tag>
+<AM lemma="často" src="auto" recommended="1">Dg-------3A----</AM>
+<AM lemma="častě_^(*1ý)" src="auto">Dg-------3A----</AM>
+</tag>
 </m>
 <m id="mu_04-SCzechM-p0390-s1-w37">
 <w.rf>
@@ -6748,13 +6742,12 @@
 <w.rf>
 <LM>w#w-mu_04-SCzechM-p0414-s1-w6</LM>
 </w.rf>
-<form>začnětě</form>
-<tag lemma="začnětě">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>začněte</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>začněte</form>
+<tag>
+<AM lemma="začít-1_^(začnout)" src="auto" recommended="1">Vi-P---2--A-P--</AM>
+<AM lemma="začít-1_^(začnout)" src="auto">Vi-P---3--A-P-4</AM>
+</tag>
 </m>
 <m id="mu_04-SCzechM-p0414-s1-w7">
 <w.rf>
@@ -7146,16 +7139,12 @@
 <w.rf>
 <LM>w#w-mu_04-SCzechM-p0425-s1-w2</LM>
 </w.rf>
-<form>jsi</form>
+<form_change>spell</form_change>
+<form>si</form>
 <tag>
-<AM lemma="být" recommended="1">VB-S---2P-AAI--</AM>
-<AM lemma="být">VB-S---2P-AA--2</AM>
+<AM lemma="být" src="auto">VB-S---2P-AAI-7</AM>
+<AM lemma="se_^(zvr._zájmeno/částice)" src="auto" recommended="1">P7-X3----------</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>si</text>
-</LM>
-</comment>
 </m>
 <m id="mu_04-SCzechM-p0425-s1-w3">
 <w.rf>

@@ -145,13 +145,24 @@
 <w.rf>
 <LM>w#w-jh_14-SCzechM-p1397-s1-w4</LM>
 </w.rf>
-<form>mlučí</form>
-<tag lemma="mlučí">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>mluvčí</text>
-</LM>
-</comment>
+<form>mluvčí</form>
+<tag>
+<AM lemma="mluvčí-1" src="auto">NNMP1-----A----</AM>
+<AM lemma="mluvčí-1" src="auto">NNMP4-----A----</AM>
+<AM lemma="mluvčí-1" src="auto">NNMP5-----A----</AM>
+<AM lemma="mluvčí-1" src="auto" recommended="1">NNMS1-----A----</AM>
+<AM lemma="mluvčí-1" src="auto">NNMS5-----A----</AM>
+<AM lemma="mluvčí-2" src="auto">NNFP1-----A----</AM>
+<AM lemma="mluvčí-2" src="auto">NNFP4-----A----</AM>
+<AM lemma="mluvčí-2" src="auto">NNFP5-----A----</AM>
+<AM lemma="mluvčí-2" src="auto">NNFS1-----A----</AM>
+<AM lemma="mluvčí-2" src="auto">NNFS2-----A----</AM>
+<AM lemma="mluvčí-2" src="auto">NNFS3-----A----</AM>
+<AM lemma="mluvčí-2" src="auto">NNFS4-----A----</AM>
+<AM lemma="mluvčí-2" src="auto">NNFS5-----A----</AM>
+<AM lemma="mluvčí-2" src="auto">NNFS6-----A----</AM>
+<AM lemma="mluvčí-2" src="auto">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="jh_14-SCzechM-p1397-s1-w5">
 <w.rf>
@@ -406,13 +417,23 @@
 <w.rf>
 <LM>w#w-jh_14-SCzechM-p1397-s1-w21</LM>
 </w.rf>
-<form>Dominkánské</form>
-<tag lemma="Dominkánské">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Dominikánské</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Dominikánské</form>
+<tag>
+<AM lemma="dominikánský" src="auto">AAFP1----1A----</AM>
+<AM lemma="dominikánský" src="auto">AAFP4----1A----</AM>
+<AM lemma="dominikánský" src="auto">AAFP5----1A----</AM>
+<AM lemma="dominikánský" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="dominikánský" src="auto">AAFS3----1A----</AM>
+<AM lemma="dominikánský" src="auto">AAFS6----1A----</AM>
+<AM lemma="dominikánský" src="auto">AAIP1----1A----</AM>
+<AM lemma="dominikánský" src="auto">AAIP4----1A----</AM>
+<AM lemma="dominikánský" src="auto">AAIP5----1A----</AM>
+<AM lemma="dominikánský" src="auto">AAMP4----1A----</AM>
+<AM lemma="dominikánský" src="auto">AANS1----1A----</AM>
+<AM lemma="dominikánský" src="auto">AANS4----1A----</AM>
+<AM lemma="dominikánský" src="auto">AANS5----1A----</AM>
+</tag>
 </m>
 <m id="jh_14-SCzechM-p1397-s1-w22">
 <w.rf>
@@ -3449,13 +3470,9 @@
 <w.rf>
 <LM>w#w-jh_14-SCzechM-p1471-s1-w12</LM>
 </w.rf>
-<form>věla</form>
-<tag lemma="věla">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>věděla</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>věděla</form>
+<tag lemma="vědět" src="auto" recommended="1">VpQW---XR-AAI--</tag>
 </m>
 <m id="jh_14-SCzechM-p1471-s1-w13">
 <w.rf>
@@ -4310,13 +4327,16 @@
 <w.rf>
 <LM>w#w-jh_14-SCzechM-p1480-s1-w2</LM>
 </w.rf>
-<form>technoloige</form>
-<tag lemma="technoloige">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>technologie</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>technologie</form>
+<tag>
+<AM lemma="technologie" src="auto">NNFP1-----A----</AM>
+<AM lemma="technologie" src="auto">NNFP4-----A----</AM>
+<AM lemma="technologie" src="auto">NNFP5-----A----</AM>
+<AM lemma="technologie" src="auto" recommended="1">NNFS1-----A----</AM>
+<AM lemma="technologie" src="auto">NNFS2-----A----</AM>
+<AM lemma="technologie" src="auto">NNFS5-----A----</AM>
+</tag>
 </m>
 <m id="jh_14-SCzechM-p1480-s1-w3">
 <w.rf>

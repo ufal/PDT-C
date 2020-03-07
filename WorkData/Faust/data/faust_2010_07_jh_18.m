@@ -1044,13 +1044,9 @@
 <w.rf>
 <LM>w#w-jh_18-SCzechM-p1874-s1-w7</LM>
 </w.rf>
-<form>cetou</form>
-<tag lemma="cetou">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>cestou</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>cestou</form>
+<tag lemma="cesta_^(konkrétní_i_abstr.;_i_'soudní_cestou')" src="auto" recommended="1">NNFS7-----A----</tag>
 </m>
 <m id="jh_18-SCzechM-p1874-s1-w8">
 <w.rf>
@@ -1171,13 +1167,12 @@
 <w.rf>
 <LM>w#w-jh_18-SCzechM-p1875-s1-w6</LM>
 </w.rf>
-<form>kteoru</form>
-<tag lemma="kteoru">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>kterou</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>kterou</form>
+<tag>
+<AM lemma="který" src="auto" recommended="1">P4FS4----------</AM>
+<AM lemma="který" src="auto">P4FS7----------</AM>
+</tag>
 </m>
 <m id="jh_18-SCzechM-p1875-s1-w7">
 <w.rf>

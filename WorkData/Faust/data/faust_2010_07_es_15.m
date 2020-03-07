@@ -2060,13 +2060,13 @@
 <w.rf>
 <LM>w#w-es_15-SCzechM-p1562-s1-w5</LM>
 </w.rf>
-<form>podnikem</form>
-<tag lemma="podnik" recommended="1">NNIS7-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>podnik</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>podnik</form>
+<tag>
+<AM lemma="podnik" src="auto">NNIS1-----A----</AM>
+<AM lemma="podnik" src="auto" recommended="1">NNIS4-----A----</AM>
+<AM lemma="podniknout" src="auto">VpYS---XR-AAP-6</AM>
+</tag>
 </m>
 <m id="es_15-SCzechM-p1562-s1-w6">
 <w.rf>
@@ -3530,13 +3530,16 @@
 <w.rf>
 <LM>w#w-es_15-SCzechM-p1595-s1-w1</LM>
 </w.rf>
-<form>fotogragie</form>
-<tag lemma="fotogragie">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>fotografie</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>fotografie</form>
+<tag>
+<AM lemma="fotografie" src="auto" recommended="1">NNFP1-----A----</AM>
+<AM lemma="fotografie" src="auto">NNFP4-----A----</AM>
+<AM lemma="fotografie" src="auto">NNFP5-----A----</AM>
+<AM lemma="fotografie" src="auto">NNFS1-----A----</AM>
+<AM lemma="fotografie" src="auto">NNFS2-----A----</AM>
+<AM lemma="fotografie" src="auto">NNFS5-----A----</AM>
+</tag>
 </m>
 <m id="es_15-SCzechM-p1595-s1-w2">
 <w.rf>

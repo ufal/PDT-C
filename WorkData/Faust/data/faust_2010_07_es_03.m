@@ -2669,25 +2669,44 @@
 <w.rf>
 <LM>w#w-es_03-SCzechM-p0239-s1-w1</LM>
 </w.rf>
-<form>Štastný</form>
+<form_change>spell</form_change>
+<form>Šťastný</form>
 <tag>
-<AM lemma="Štastný_;S" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Štastná_;S_^(*1ý)">NNFP1-----A---6</AM>
-<AM lemma="Štastná_;S_^(*1ý)">NNFP4-----A---6</AM>
-<AM lemma="Štastná_;S_^(*1ý)">NNFP5-----A---6</AM>
-<AM lemma="Štastná_;S_^(*1ý)">NNFS2-----A---6</AM>
-<AM lemma="Štastná_;S_^(*1ý)">NNFS3-----A---6</AM>
-<AM lemma="Štastná_;S_^(*1ý)">NNFS6-----A---6</AM>
-<AM lemma="Štastný_;S">NNMP1-----A---6</AM>
-<AM lemma="Štastný_;S">NNMP4-----A---6</AM>
-<AM lemma="Štastný_;S">NNMP5-----A---6</AM>
-<AM lemma="Štastný_;S">NNMS5-----A----</AM>
+<AM lemma="Šťastná_;S_^(*1ý)" src="auto">NNFP1-----A---6</AM>
+<AM lemma="Šťastná_;S_^(*1ý)" src="auto">NNFP4-----A---6</AM>
+<AM lemma="Šťastná_;S_^(*1ý)" src="auto">NNFP5-----A---6</AM>
+<AM lemma="Šťastná_;S_^(*1ý)" src="auto">NNFS2-----A---6</AM>
+<AM lemma="Šťastná_;S_^(*1ý)" src="auto">NNFS3-----A---6</AM>
+<AM lemma="Šťastná_;S_^(*1ý)" src="auto">NNFS6-----A---6</AM>
+<AM lemma="Šťastný_;S" src="auto">NNMP1-----A---6</AM>
+<AM lemma="Šťastný_;S" src="auto">NNMP4-----A---6</AM>
+<AM lemma="Šťastný_;S" src="auto">NNMP5-----A---6</AM>
+<AM lemma="Šťastný_;S" src="auto">NNMS1-----A----</AM>
+<AM lemma="Šťastný_;S" src="auto">NNMS5-----A----</AM>
+<AM lemma="šťastný" src="auto">AAFP1----1A---6</AM>
+<AM lemma="šťastný" src="auto">AAFP4----1A---6</AM>
+<AM lemma="šťastný" src="auto">AAFP5----1A---6</AM>
+<AM lemma="šťastný" src="auto">AAFS2----1A---6</AM>
+<AM lemma="šťastný" src="auto">AAFS3----1A---6</AM>
+<AM lemma="šťastný" src="auto">AAFS6----1A---6</AM>
+<AM lemma="šťastný" src="auto">AAIP1----1A---6</AM>
+<AM lemma="šťastný" src="auto">AAIP4----1A---6</AM>
+<AM lemma="šťastný" src="auto">AAIP5----1A---6</AM>
+<AM lemma="šťastný" src="auto">AAIS1----1A----</AM>
+<AM lemma="šťastný" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="šťastný" src="auto">AAIS5----1A----</AM>
+<AM lemma="šťastný" src="auto">AAMP1----1A---6</AM>
+<AM lemma="šťastný" src="auto">AAMP4----1A---6</AM>
+<AM lemma="šťastný" src="auto">AAMP5----1A---6</AM>
+<AM lemma="šťastný" src="auto">AAMS1----1A----</AM>
+<AM lemma="šťastný" src="auto">AAMS5----1A----</AM>
+<AM lemma="šťastný" src="auto">AANP1----1A---6</AM>
+<AM lemma="šťastný" src="auto">AANP4----1A---6</AM>
+<AM lemma="šťastný" src="auto">AANP5----1A---6</AM>
+<AM lemma="šťastný" src="auto">AANS1----1A---6</AM>
+<AM lemma="šťastný" src="auto">AANS4----1A---6</AM>
+<AM lemma="šťastný" src="auto">AANS5----1A---6</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>Šťastný</text>
-</LM>
-</comment>
 </m>
 <m id="es_03-SCzechM-p0239-s1-w2">
 <w.rf>

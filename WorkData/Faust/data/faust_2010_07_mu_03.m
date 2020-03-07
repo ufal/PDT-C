@@ -493,13 +493,12 @@
 <w.rf>
 <LM>w#w-mu_03-SCzechM-p0202-s1-w3</LM>
 </w.rf>
-<form>těnto</form>
-<tag lemma="těnto">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>tento</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>tento</form>
+<tag>
+<AM lemma="tento" src="auto">PDIS4----------</AM>
+<AM lemma="tento" src="auto" recommended="1">PDYS1----------</AM>
+</tag>
 </m>
 <m id="mu_03-SCzechM-p0202-s1-w4">
 <w.rf>
@@ -1507,13 +1506,12 @@
 <w.rf>
 <LM>w#w-mu_03-SCzechM-p0218-s1-w1</LM>
 </w.rf>
-<form>Semknětě</form>
-<tag lemma="Semknětě">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Semkněte</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Semkněte</form>
+<tag>
+<AM lemma="semknout" src="auto" recommended="1">Vi-P---2--A-P--</AM>
+<AM lemma="semknout" src="auto">Vi-P---3--A-P-4</AM>
+</tag>
 </m>
 <m id="mu_03-SCzechM-p0218-s1-w2">
 <w.rf>
@@ -1664,13 +1662,12 @@
 <w.rf>
 <LM>w#w-mu_03-SCzechM-p0219-s1-w9</LM>
 </w.rf>
-<form>dostaňtě</form>
-<tag lemma="dostaňtě">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>dostaňte</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>dostaňte</form>
+<tag>
+<AM lemma="dostat" src="auto" recommended="1">Vi-P---2--A-P--</AM>
+<AM lemma="dostat" src="auto">Vi-P---3--A-P-4</AM>
+</tag>
 </m>
 <m id="mu_03-SCzechM-p0219-s1-w10">
 <w.rf>
@@ -2488,13 +2485,8 @@
 <w.rf>
 <LM>w#w-mu_03-SCzechM-p0233-s1-w14</LM>
 </w.rf>
-<form>směrekm</form>
-<tag lemma="směrekm">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>směrem</text>
-</LM>
-</comment>
+<form>směrem</form>
+<tag lemma="směr" src="auto" recommended="1">NNIS7-----A----</tag>
 </m>
 <m id="mu_03-SCzechM-p0233-s1-w15">
 <w.rf>
@@ -2522,22 +2514,19 @@
 <w.rf>
 <LM>w#w-mu_03-SCzechM-p0233-s1-w17</LM>
 </w.rf>
-<form>uzavírajících</form>
+<form>uzavírajícím</form>
 <tag>
-<AM lemma="uzavírající_^(*4t)" recommended="1">AGMP2-----A----</AM>
-<AM lemma="uzavírající_^(*4t)">AGFP2-----A----</AM>
-<AM lemma="uzavírající_^(*4t)">AGFP6-----A----</AM>
-<AM lemma="uzavírající_^(*4t)">AGIP2-----A----</AM>
-<AM lemma="uzavírající_^(*4t)">AGIP6-----A----</AM>
-<AM lemma="uzavírající_^(*4t)">AGMP6-----A----</AM>
-<AM lemma="uzavírající_^(*4t)">AGNP2-----A----</AM>
-<AM lemma="uzavírající_^(*4t)">AGNP6-----A----</AM>
+<AM lemma="uzavírající_^(*4t)" src="auto">AGFP3-----A----</AM>
+<AM lemma="uzavírající_^(*4t)" src="auto">AGIP3-----A----</AM>
+<AM lemma="uzavírající_^(*4t)" src="auto">AGIS6-----A----</AM>
+<AM lemma="uzavírající_^(*4t)" src="auto">AGIS7-----A----</AM>
+<AM lemma="uzavírající_^(*4t)" src="auto" recommended="1">AGMP3-----A----</AM>
+<AM lemma="uzavírající_^(*4t)" src="auto">AGMS6-----A----</AM>
+<AM lemma="uzavírající_^(*4t)" src="auto">AGMS7-----A----</AM>
+<AM lemma="uzavírající_^(*4t)" src="auto">AGNP3-----A----</AM>
+<AM lemma="uzavírající_^(*4t)" src="auto">AGNS6-----A----</AM>
+<AM lemma="uzavírající_^(*4t)" src="auto">AGNS7-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>uzavírajícím</text>
-</LM>
-</comment>
 </m>
 <m id="mu_03-SCzechM-p0233-s1-w18">
 <w.rf>
@@ -2652,52 +2641,27 @@
 <w.rf>
 <LM>w#w-mu_03-SCzechM-p0233-s1-w25</LM>
 </w.rf>
-<form>dvojlomný</form>
+<form>dvojlomným</form>
 <tag>
-<AM lemma="dvojlomný" recommended="1">AAIS4----1A----</AM>
-<AM lemma="dvojlomný">AAFP1----1A---6</AM>
-<AM lemma="dvojlomný">AAFP4----1A---6</AM>
-<AM lemma="dvojlomný">AAFP5----1A---6</AM>
-<AM lemma="dvojlomný">AAFS2----1A---6</AM>
-<AM lemma="dvojlomný">AAFS3----1A---6</AM>
-<AM lemma="dvojlomný">AAFS6----1A---6</AM>
-<AM lemma="dvojlomný">AAIP1----1A---6</AM>
-<AM lemma="dvojlomný">AAIP4----1A---6</AM>
-<AM lemma="dvojlomný">AAIP5----1A---6</AM>
-<AM lemma="dvojlomný">AAIS1----1A----</AM>
-<AM lemma="dvojlomný">AAIS5----1A----</AM>
-<AM lemma="dvojlomný">AAMP1----1A---6</AM>
-<AM lemma="dvojlomný">AAMP4----1A---6</AM>
-<AM lemma="dvojlomný">AAMP5----1A---6</AM>
-<AM lemma="dvojlomný">AAMS1----1A----</AM>
-<AM lemma="dvojlomný">AAMS5----1A----</AM>
-<AM lemma="dvojlomný">AANP1----1A---6</AM>
-<AM lemma="dvojlomný">AANP4----1A---6</AM>
-<AM lemma="dvojlomný">AANP5----1A---6</AM>
-<AM lemma="dvojlomný">AANS1----1A---6</AM>
-<AM lemma="dvojlomný">AANS4----1A---6</AM>
-<AM lemma="dvojlomný">AANS5----1A---6</AM>
+<AM lemma="dvojlomný" src="auto">AAFP3----1A----</AM>
+<AM lemma="dvojlomný" src="auto">AAIP3----1A----</AM>
+<AM lemma="dvojlomný" src="auto">AAIS6----1A---7</AM>
+<AM lemma="dvojlomný" src="auto" recommended="1">AAIS7----1A----</AM>
+<AM lemma="dvojlomný" src="auto">AAMP3----1A----</AM>
+<AM lemma="dvojlomný" src="auto">AAMS6----1A---7</AM>
+<AM lemma="dvojlomný" src="auto">AAMS7----1A----</AM>
+<AM lemma="dvojlomný" src="auto">AANP3----1A----</AM>
+<AM lemma="dvojlomný" src="auto">AANS6----1A---7</AM>
+<AM lemma="dvojlomný" src="auto">AANS7----1A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>dvojlomným</text>
-</LM>
-</comment>
 </m>
 <m id="mu_03-SCzechM-p0233-s1-w26">
 <w.rf>
 <LM>w#w-mu_03-SCzechM-p0233-s1-w26</LM>
 </w.rf>
-<form>index</form>
-<tag>
-<AM lemma="index" recommended="1">NNIS4-----A----</AM>
-<AM lemma="index">NNIS1-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>indexem</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>indexem</form>
+<tag lemma="index" src="auto" recommended="1">NNIS7-----A----</tag>
 </m>
 <m id="mu_03-SCzechM-p0233-s1-w27">
 <w.rf>

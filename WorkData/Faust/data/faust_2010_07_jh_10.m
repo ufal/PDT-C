@@ -2015,13 +2015,16 @@
 <w.rf>
 <LM>w#w-jh_10-SCzechM-p1005-s1-w10</LM>
 </w.rf>
-<form>galrie</form>
-<tag lemma="galrie">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>galerie</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>galerie</form>
+<tag>
+<AM lemma="galerie" src="auto">NNFP1-----A----</AM>
+<AM lemma="galerie" src="auto">NNFP4-----A----</AM>
+<AM lemma="galerie" src="auto">NNFP5-----A----</AM>
+<AM lemma="galerie" src="auto">NNFS1-----A----</AM>
+<AM lemma="galerie" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="galerie" src="auto">NNFS5-----A----</AM>
+</tag>
 </m>
 <m id="jh_10-SCzechM-p1005-s1-w11">
 <w.rf>
@@ -3357,13 +3360,9 @@
 <w.rf>
 <LM>w#w-jh_10-SCzechM-p1021-s1-w1</LM>
 </w.rf>
-<form>Cheš</form>
-<tag lemma="Cheš">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Chceš</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Chceš</form>
+<tag lemma="chtít" src="auto" recommended="1">VB-S---2P-AAI--</tag>
 </m>
 <m id="jh_10-SCzechM-p1021-s1-w2">
 <w.rf>
@@ -4038,13 +4037,9 @@
 <w.rf>
 <LM>w#w-jh_10-SCzechM-p1038-s1-w2</LM>
 </w.rf>
-<form>kamer</form>
-<tag lemma="kamera" recommended="1">NNFP2-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>kamera</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>kamera</form>
+<tag lemma="kamera" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 </s>
 <s id="s-jh_10-SCzechM-p1039-s1-w1">

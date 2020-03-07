@@ -6048,13 +6048,16 @@
 <w.rf>
 <LM>w#w-jh_17-SCzechM-p1815-s1-w19</LM>
 </w.rf>
-<form>všechy</form>
-<tag lemma="všechy">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>všechny</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>všechny</form>
+<tag>
+<AM lemma="všechen" src="auto">PLFP1----------</AM>
+<AM lemma="všechen" src="auto">PLFP4----------</AM>
+<AM lemma="všechen" src="auto">PLFP5----------</AM>
+<AM lemma="všechen" src="auto">PLIP1----------</AM>
+<AM lemma="všechen" src="auto">PLIP5----------</AM>
+<AM lemma="všechen" src="auto" recommended="1">PLYP4----------</AM>
+</tag>
 </m>
 <m id="jh_17-SCzechM-p1815-s1-w20">
 <w.rf>

@@ -2581,13 +2581,9 @@
 <w.rf>
 <LM>w#w-es_02-SCzechM-p0119-s1-w6</LM>
 </w.rf>
-<form>soborů</form>
-<tag lemma="soborů">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>souborů</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>souborů</form>
+<tag lemma="soubor" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="es_02-SCzechM-p0119-s1-w7">
 <w.rf>
@@ -6320,13 +6316,9 @@
 <w.rf>
 <LM>w#w-es_02-SCzechM-p0180-s1-w10</LM>
 </w.rf>
-<form>abch</form>
-<tag lemma="abch">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>abych</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>abych</form>
+<tag lemma="aby" src="auto" recommended="1">J,-S---1-------</tag>
 </m>
 <m id="es_02-SCzechM-p0180-s1-w11">
 <w.rf>

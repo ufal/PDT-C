@@ -1596,26 +1596,15 @@
 <w.rf>
 <LM>w#w-es_17-SCzechM-p1769-s1-w12</LM>
 </w.rf>
-<form>PT10</form>
-<tag>
-<AM lemma="PT10">X@-------------</AM>
-<AM lemma="PT10-88_:B" src="manual">NNXXX-----A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>PT</text>
-</LM>
-</comment>
-</m><m id="es_17-SCzechM-p1769-s1-w12-sw1">
+<form>PT</form>
+<tag lemma="Pt_:B_^(platina)" src="auto" recommended="1">NNXXX-----A----</tag>
+</m>
+<m id="es_17-SCzechM-p1769-s1-w12-sw1">
 <w.rf>
 <LM>w#w-es_17-SCzechM-p1769-s1-w12</LM>
 </w.rf>
-<form>PT10</form>
-<tag>
-<AM lemma="PT10">X@-------------</AM>
-<AM lemma="PT10-88_:B" src="manual">NNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>10</text></LM></comment>
+<form>10</form>
+<tag lemma="10" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="es_17-SCzechM-p1769-s1-w13">
 <w.rf>
@@ -1680,26 +1669,23 @@
 <w.rf>
 <LM>w#w-es_17-SCzechM-p1769-s1-w21</LM>
 </w.rf>
-<form>T6</form>
+<form>T</form>
 <tag>
-<AM lemma="T6">X@-------------</AM>
-<AM lemma="T6-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="T-33_^(označení_pomocí_písmene)" src="auto" recommended="1">NNNXX-----A----</AM>
+<AM lemma="T-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="t-1_^(t-mobile)" src="auto">A2--------A----</AM>
+<AM lemma="t-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="t-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="tuna" src="auto">NNFXX-----A---8</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>T</text>
-</LM>
-</comment>
-</m><m id="es_17-SCzechM-p1769-s1-w21-sw1">
+</m>
+<m id="es_17-SCzechM-p1769-s1-w21-sw1">
 <w.rf>
 <LM>w#w-es_17-SCzechM-p1769-s1-w21</LM>
 </w.rf>
-<form>T6</form>
-<tag>
-<AM lemma="T6">X@-------------</AM>
-<AM lemma="T6-88_:B" src="manual">NNXXX-----A----</AM>
-</tag>
-<comment><LM type="New Form"><text>6</text></LM></comment>
+<form_change>spell</form_change>
+<form>6</form>
+<tag lemma="6" src="auto" recommended="1">C=-------------</tag>
 </m>
 <m id="es_17-SCzechM-p1769-s1-w22">
 <w.rf>
@@ -3459,13 +3445,12 @@
 <w.rf>
 <LM>w#w-es_17-SCzechM-p1786-s1-w10</LM>
 </w.rf>
-<form>stčí</form>
-<tag lemma="stčí">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>strčí</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>strčí</form>
+<tag>
+<AM lemma="strčit" src="auto">VB-P---3P-AAP--</AM>
+<AM lemma="strčit" src="auto" recommended="1">VB-S---3P-AAP--</AM>
+</tag>
 </m>
 <m id="es_17-SCzechM-p1786-s1-w11">
 <w.rf>

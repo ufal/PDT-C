@@ -6291,13 +6291,22 @@
 <w.rf>
 <LM>w#w-mu_10-SCzechM-p1071-s1-w8</LM>
 </w.rf>
-<form>hodocení</form>
-<tag lemma="hodocení">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>hodnocení</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>hodnocení</form>
+<tag>
+<AM lemma="hodnocený_^(*4tit)" src="auto">AAMP1----1A----</AM>
+<AM lemma="hodnocený_^(*4tit)" src="auto">AAMP5----1A----</AM>
+<AM lemma="hodnocení_^(*4tit)" src="auto">NNNP1-----A----</AM>
+<AM lemma="hodnocení_^(*4tit)" src="auto">NNNP2-----A----</AM>
+<AM lemma="hodnocení_^(*4tit)" src="auto">NNNP4-----A----</AM>
+<AM lemma="hodnocení_^(*4tit)" src="auto">NNNP5-----A----</AM>
+<AM lemma="hodnocení_^(*4tit)" src="auto">NNNS1-----A----</AM>
+<AM lemma="hodnocení_^(*4tit)" src="auto">NNNS2-----A----</AM>
+<AM lemma="hodnocení_^(*4tit)" src="auto">NNNS3-----A----</AM>
+<AM lemma="hodnocení_^(*4tit)" src="auto" recommended="1">NNNS4-----A----</AM>
+<AM lemma="hodnocení_^(*4tit)" src="auto">NNNS5-----A----</AM>
+<AM lemma="hodnocení_^(*4tit)" src="auto">NNNS6-----A----</AM>
+</tag>
 </m>
 <m id="mu_10-SCzechM-p1071-s1-w9">
 <w.rf>

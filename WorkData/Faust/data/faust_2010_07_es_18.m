@@ -6772,13 +6772,22 @@
 <w.rf>
 <LM>w#w-es_18-SCzechM-p1958-s1-w21</LM>
 </w.rf>
-<form>návrhářslé</form>
-<tag lemma="návrhářslé">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>návrhářské</text>
-</LM>
-</comment>
+<form>návrhářské</form>
+<tag>
+<AM lemma="návrhářský" src="auto" recommended="1">AAFP1----1A----</AM>
+<AM lemma="návrhářský" src="auto">AAFP4----1A----</AM>
+<AM lemma="návrhářský" src="auto">AAFP5----1A----</AM>
+<AM lemma="návrhářský" src="auto">AAFS2----1A----</AM>
+<AM lemma="návrhářský" src="auto">AAFS3----1A----</AM>
+<AM lemma="návrhářský" src="auto">AAFS6----1A----</AM>
+<AM lemma="návrhářský" src="auto">AAIP1----1A----</AM>
+<AM lemma="návrhářský" src="auto">AAIP4----1A----</AM>
+<AM lemma="návrhářský" src="auto">AAIP5----1A----</AM>
+<AM lemma="návrhářský" src="auto">AAMP4----1A----</AM>
+<AM lemma="návrhářský" src="auto">AANS1----1A----</AM>
+<AM lemma="návrhářský" src="auto">AANS4----1A----</AM>
+<AM lemma="návrhářský" src="auto">AANS5----1A----</AM>
+</tag>
 </m>
 <m id="es_18-SCzechM-p1958-s1-w22">
 <w.rf>
@@ -7124,13 +7133,13 @@
 <w.rf>
 <LM>w#w-es_18-SCzechM-p1958-s1-w45</LM>
 </w.rf>
-<form>elektonickém</form>
-<tag lemma="elektonickém">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>elektronickém</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>elektronickém</form>
+<tag>
+<AM lemma="elektronický" src="auto">AAIS6----1A----</AM>
+<AM lemma="elektronický" src="auto">AAMS6----1A----</AM>
+<AM lemma="elektronický" src="auto" recommended="1">AANS6----1A----</AM>
+</tag>
 </m>
 <m id="es_18-SCzechM-p1958-s1-w46">
 <w.rf>

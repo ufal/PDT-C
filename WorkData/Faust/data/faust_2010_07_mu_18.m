@@ -1752,13 +1752,14 @@
 <w.rf>
 <LM>w#w-mu_18-SCzechM-p1878-s1-w8</LM>
 </w.rf>
-<form>přenáěeného</form>
-<tag lemma="přenáěeného">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>přenášeného</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>přenášeného</form>
+<tag>
+<AM lemma="přenášený_^(*2t)" src="auto" recommended="1">AAIS2----1A----</AM>
+<AM lemma="přenášený_^(*2t)" src="auto">AAMS2----1A----</AM>
+<AM lemma="přenášený_^(*2t)" src="auto">AAMS4----1A----</AM>
+<AM lemma="přenášený_^(*2t)" src="auto">AANS2----1A----</AM>
+</tag>
 </m>
 <m id="mu_18-SCzechM-p1878-s1-w9">
 <w.rf>
@@ -2895,13 +2896,33 @@
 <w.rf>
 <LM>w#w-mu_18-SCzechM-p1887-s1-w13</LM>
 </w.rf>
-<form>krátky</form>
-<tag lemma="krátky">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>krátký</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>krátký</form>
+<tag>
+<AM lemma="krátký" src="auto">AAFP1----1A---6</AM>
+<AM lemma="krátký" src="auto">AAFP4----1A---6</AM>
+<AM lemma="krátký" src="auto">AAFP5----1A---6</AM>
+<AM lemma="krátký" src="auto">AAFS2----1A---6</AM>
+<AM lemma="krátký" src="auto">AAFS3----1A---6</AM>
+<AM lemma="krátký" src="auto">AAFS6----1A---6</AM>
+<AM lemma="krátký" src="auto">AAIP1----1A---6</AM>
+<AM lemma="krátký" src="auto">AAIP4----1A---6</AM>
+<AM lemma="krátký" src="auto">AAIP5----1A---6</AM>
+<AM lemma="krátký" src="auto">AAIS1----1A----</AM>
+<AM lemma="krátký" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="krátký" src="auto">AAIS5----1A----</AM>
+<AM lemma="krátký" src="auto">AAMP1----1A---6</AM>
+<AM lemma="krátký" src="auto">AAMP4----1A---6</AM>
+<AM lemma="krátký" src="auto">AAMP5----1A---6</AM>
+<AM lemma="krátký" src="auto">AAMS1----1A----</AM>
+<AM lemma="krátký" src="auto">AAMS5----1A----</AM>
+<AM lemma="krátký" src="auto">AANP1----1A---6</AM>
+<AM lemma="krátký" src="auto">AANP4----1A---6</AM>
+<AM lemma="krátký" src="auto">AANP5----1A---6</AM>
+<AM lemma="krátký" src="auto">AANS1----1A---6</AM>
+<AM lemma="krátký" src="auto">AANS4----1A---6</AM>
+<AM lemma="krátký" src="auto">AANS5----1A---6</AM>
+</tag>
 </m>
 <m id="mu_18-SCzechM-p1887-s1-w14">
 <w.rf>
@@ -3666,13 +3687,33 @@
 <w.rf>
 <LM>w#w-mu_18-SCzechM-p1897-s1-w8</LM>
 </w.rf>
-<form>používáný</form>
-<tag lemma="používáný">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>používaný</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>používaný</form>
+<tag>
+<AM lemma="používaný_^(*2t)" src="auto">AAFP1----1A---6</AM>
+<AM lemma="používaný_^(*2t)" src="auto">AAFP4----1A---6</AM>
+<AM lemma="používaný_^(*2t)" src="auto">AAFP5----1A---6</AM>
+<AM lemma="používaný_^(*2t)" src="auto">AAFS2----1A---6</AM>
+<AM lemma="používaný_^(*2t)" src="auto">AAFS3----1A---6</AM>
+<AM lemma="používaný_^(*2t)" src="auto">AAFS6----1A---6</AM>
+<AM lemma="používaný_^(*2t)" src="auto">AAIP1----1A---6</AM>
+<AM lemma="používaný_^(*2t)" src="auto">AAIP4----1A---6</AM>
+<AM lemma="používaný_^(*2t)" src="auto">AAIP5----1A---6</AM>
+<AM lemma="používaný_^(*2t)" src="auto" recommended="1">AAIS1----1A----</AM>
+<AM lemma="používaný_^(*2t)" src="auto">AAIS4----1A----</AM>
+<AM lemma="používaný_^(*2t)" src="auto">AAIS5----1A----</AM>
+<AM lemma="používaný_^(*2t)" src="auto">AAMP1----1A---6</AM>
+<AM lemma="používaný_^(*2t)" src="auto">AAMP4----1A---6</AM>
+<AM lemma="používaný_^(*2t)" src="auto">AAMP5----1A---6</AM>
+<AM lemma="používaný_^(*2t)" src="auto">AAMS1----1A----</AM>
+<AM lemma="používaný_^(*2t)" src="auto">AAMS5----1A----</AM>
+<AM lemma="používaný_^(*2t)" src="auto">AANP1----1A---6</AM>
+<AM lemma="používaný_^(*2t)" src="auto">AANP4----1A---6</AM>
+<AM lemma="používaný_^(*2t)" src="auto">AANP5----1A---6</AM>
+<AM lemma="používaný_^(*2t)" src="auto">AANS1----1A---6</AM>
+<AM lemma="používaný_^(*2t)" src="auto">AANS4----1A---6</AM>
+<AM lemma="používaný_^(*2t)" src="auto">AANS5----1A---6</AM>
+</tag>
 </m>
 <m id="mu_18-SCzechM-p1897-s1-w9">
 <w.rf>
@@ -5544,13 +5585,16 @@
 <w.rf>
 <LM>w#w-mu_18-SCzechM-p1933-s1-w1</LM>
 </w.rf>
-<form>Iinformace</form>
-<tag lemma="Iinformace">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Informace</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Informace</form>
+<tag>
+<AM lemma="informace" src="auto">NNFP1-----A----</AM>
+<AM lemma="informace" src="auto" recommended="1">NNFP4-----A----</AM>
+<AM lemma="informace" src="auto">NNFP5-----A----</AM>
+<AM lemma="informace" src="auto">NNFS1-----A----</AM>
+<AM lemma="informace" src="auto">NNFS2-----A----</AM>
+<AM lemma="informace" src="auto">NNFS5-----A----</AM>
+</tag>
 </m>
 <m id="mu_18-SCzechM-p1933-s1-w2">
 <w.rf>

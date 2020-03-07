@@ -1886,13 +1886,33 @@
 <w.rf>
 <LM>w#w-mu_01-SCzechM-p0033-s1-w2</LM>
 </w.rf>
-<form>požadový</form>
-<tag lemma="požadový">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>požadovaný</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>požadovaný</form>
+<tag>
+<AM lemma="požadovaný_^(*2t)" src="auto">AAFP1----1A---6</AM>
+<AM lemma="požadovaný_^(*2t)" src="auto">AAFP4----1A---6</AM>
+<AM lemma="požadovaný_^(*2t)" src="auto">AAFP5----1A---6</AM>
+<AM lemma="požadovaný_^(*2t)" src="auto">AAFS2----1A---6</AM>
+<AM lemma="požadovaný_^(*2t)" src="auto">AAFS3----1A---6</AM>
+<AM lemma="požadovaný_^(*2t)" src="auto">AAFS6----1A---6</AM>
+<AM lemma="požadovaný_^(*2t)" src="auto">AAIP1----1A---6</AM>
+<AM lemma="požadovaný_^(*2t)" src="auto">AAIP4----1A---6</AM>
+<AM lemma="požadovaný_^(*2t)" src="auto">AAIP5----1A---6</AM>
+<AM lemma="požadovaný_^(*2t)" src="auto">AAIS1----1A----</AM>
+<AM lemma="požadovaný_^(*2t)" src="auto" recommended="1">AAIS4----1A----</AM>
+<AM lemma="požadovaný_^(*2t)" src="auto">AAIS5----1A----</AM>
+<AM lemma="požadovaný_^(*2t)" src="auto">AAMP1----1A---6</AM>
+<AM lemma="požadovaný_^(*2t)" src="auto">AAMP4----1A---6</AM>
+<AM lemma="požadovaný_^(*2t)" src="auto">AAMP5----1A---6</AM>
+<AM lemma="požadovaný_^(*2t)" src="auto">AAMS1----1A----</AM>
+<AM lemma="požadovaný_^(*2t)" src="auto">AAMS5----1A----</AM>
+<AM lemma="požadovaný_^(*2t)" src="auto">AANP1----1A---6</AM>
+<AM lemma="požadovaný_^(*2t)" src="auto">AANP4----1A---6</AM>
+<AM lemma="požadovaný_^(*2t)" src="auto">AANP5----1A---6</AM>
+<AM lemma="požadovaný_^(*2t)" src="auto">AANS1----1A---6</AM>
+<AM lemma="požadovaný_^(*2t)" src="auto">AANS4----1A---6</AM>
+<AM lemma="požadovaný_^(*2t)" src="auto">AANS5----1A---6</AM>
+</tag>
 </m>
 <m id="mu_01-SCzechM-p0033-s1-w3">
 <w.rf>
@@ -2728,13 +2748,39 @@
 <w.rf>
 <LM>w#w-mu_01-SCzechM-p0050-s1-w2</LM>
 </w.rf>
-<form>ustřední</form>
-<tag lemma="ustřední">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>ústřední</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>ústřední</form>
+<tag>
+<AM lemma="ústřední" src="auto">AAFP1----1A----</AM>
+<AM lemma="ústřední" src="auto">AAFP4----1A----</AM>
+<AM lemma="ústřední" src="auto">AAFP5----1A----</AM>
+<AM lemma="ústřední" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="ústřední" src="auto">AAFS2----1A----</AM>
+<AM lemma="ústřední" src="auto">AAFS3----1A----</AM>
+<AM lemma="ústřední" src="auto">AAFS4----1A----</AM>
+<AM lemma="ústřední" src="auto">AAFS5----1A----</AM>
+<AM lemma="ústřední" src="auto">AAFS6----1A----</AM>
+<AM lemma="ústřední" src="auto">AAFS7----1A----</AM>
+<AM lemma="ústřední" src="auto">AAIP1----1A----</AM>
+<AM lemma="ústřední" src="auto">AAIP4----1A----</AM>
+<AM lemma="ústřední" src="auto">AAIP5----1A----</AM>
+<AM lemma="ústřední" src="auto">AAIS1----1A----</AM>
+<AM lemma="ústřední" src="auto">AAIS4----1A----</AM>
+<AM lemma="ústřední" src="auto">AAIS5----1A----</AM>
+<AM lemma="ústřední" src="auto">AAMP1----1A----</AM>
+<AM lemma="ústřední" src="auto">AAMP4----1A----</AM>
+<AM lemma="ústřední" src="auto">AAMP5----1A----</AM>
+<AM lemma="ústřední" src="auto">AAMS1----1A----</AM>
+<AM lemma="ústřední" src="auto">AAMS5----1A----</AM>
+<AM lemma="ústřední" src="auto">AANP1----1A----</AM>
+<AM lemma="ústřední" src="auto">AANP4----1A----</AM>
+<AM lemma="ústřední" src="auto">AANP5----1A----</AM>
+<AM lemma="ústřední" src="auto">AANS1----1A----</AM>
+<AM lemma="ústřední" src="auto">AANS4----1A----</AM>
+<AM lemma="ústřední" src="auto">AANS5----1A----</AM>
+<AM lemma="ústředný_,s" src="auto">AAMP1----1A----</AM>
+<AM lemma="ústředný_,s" src="auto">AAMP5----1A----</AM>
+</tag>
 </m>
 <m id="mu_01-SCzechM-p0050-s1-w3">
 <w.rf>
@@ -3966,13 +4012,12 @@
 <w.rf>
 <LM>w#w-mu_01-SCzechM-p0073-s1-w2</LM>
 </w.rf>
-<form>všeoběcně</form>
-<tag lemma="všeoběcně">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>všeobecně</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>všeobecně</form>
+<tag>
+<AM lemma="všeobecno_,a" src="auto">NNNS6-----A----</AM>
+<AM lemma="všeobecně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="mu_01-SCzechM-p0073-s1-w3">
 <w.rf>
@@ -5212,13 +5257,15 @@
 <w.rf>
 <LM>w#w-mu_01-SCzechM-p0094-s1-w18</LM>
 </w.rf>
-<form>soušasná</form>
-<tag lemma="soušasná">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>současná</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>současná</form>
+<tag>
+<AM lemma="současný" src="auto" recommended="1">AAFS1----1A----</AM>
+<AM lemma="současný" src="auto">AAFS5----1A----</AM>
+<AM lemma="současný" src="auto">AANP1----1A----</AM>
+<AM lemma="současný" src="auto">AANP4----1A----</AM>
+<AM lemma="současný" src="auto">AANP5----1A----</AM>
+</tag>
 </m>
 <m id="mu_01-SCzechM-p0094-s1-w19">
 <w.rf>

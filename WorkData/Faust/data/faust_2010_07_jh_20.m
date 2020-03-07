@@ -669,13 +669,16 @@
 <w.rf>
 <LM>w#w-jh_20-SCzechM-p2093-s1-w19</LM>
 </w.rf>
-<form>kontamiace</form>
-<tag lemma="kontamiace">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>kontaminace</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>kontaminace</form>
+<tag>
+<AM lemma="kontaminace" src="auto">NNFP1-----A----</AM>
+<AM lemma="kontaminace" src="auto">NNFP4-----A----</AM>
+<AM lemma="kontaminace" src="auto">NNFP5-----A----</AM>
+<AM lemma="kontaminace" src="auto">NNFS1-----A----</AM>
+<AM lemma="kontaminace" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="kontaminace" src="auto">NNFS5-----A----</AM>
+</tag>
 </m>
 <m id="jh_20-SCzechM-p2093-s1-w20">
 <w.rf>
@@ -1429,13 +1432,14 @@
 <w.rf>
 <LM>w#w-jh_20-SCzechM-p2102-s1-w6</LM>
 </w.rf>
-<form>_</form>
-<tag lemma="_" recommended="1">Z:-------------</tag>
-<comment>
-<LM type="New Form">
-<text>k</text>
-</LM>
-</comment>
+<form>k</form>
+<tag>
+<AM lemma="k-1" src="auto" recommended="1">RR--3----------</AM>
+<AM lemma="k-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="k-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="komanditní_:B_^(jen_komanditní_společnost)" src="auto">AAXXX----1A---8</AM>
+<AM lemma="kůň" src="auto">NNMXX-----A---8</AM>
+</tag>
 </m>
 <m id="jh_20-SCzechM-p2102-s1-w7">
 <w.rf>
@@ -1463,16 +1467,22 @@
 <w.rf>
 <LM>w#w-jh_20-SCzechM-p2102-s1-w9</LM>
 </w.rf>
-<form>plněním</form>
+<form_change>spell</form_change>
+<form>plnění</form>
 <tag>
-<AM lemma="plnění_^(*3it)" recommended="1">NNNS7-----A----</AM>
-<AM lemma="plnění_^(*3it)">NNNP3-----A----</AM>
+<AM lemma="plněný_^(*3it)" src="auto">AAMP1----1A----</AM>
+<AM lemma="plněný_^(*3it)" src="auto">AAMP5----1A----</AM>
+<AM lemma="plnění_^(*3it)" src="auto">NNNP1-----A----</AM>
+<AM lemma="plnění_^(*3it)" src="auto">NNNP2-----A----</AM>
+<AM lemma="plnění_^(*3it)" src="auto">NNNP4-----A----</AM>
+<AM lemma="plnění_^(*3it)" src="auto">NNNP5-----A----</AM>
+<AM lemma="plnění_^(*3it)" src="auto">NNNS1-----A----</AM>
+<AM lemma="plnění_^(*3it)" src="auto">NNNS2-----A----</AM>
+<AM lemma="plnění_^(*3it)" src="auto" recommended="1">NNNS3-----A----</AM>
+<AM lemma="plnění_^(*3it)" src="auto">NNNS4-----A----</AM>
+<AM lemma="plnění_^(*3it)" src="auto">NNNS5-----A----</AM>
+<AM lemma="plnění_^(*3it)" src="auto">NNNS6-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>plnění</text>
-</LM>
-</comment>
 </m>
 <m id="jh_20-SCzechM-p2102-s1-w10">
 <w.rf>
@@ -2017,13 +2027,9 @@
 <w.rf>
 <LM>w#w-jh_20-SCzechM-p2117-s1-w5</LM>
 </w.rf>
-<form>angličina</form>
-<tag lemma="angličina">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>angličtina</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>angličtina</form>
+<tag lemma="angličtina" src="auto" recommended="1">NNFS1-----A----</tag>
 </m>
 <m id="jh_20-SCzechM-p2117-s1-w6">
 <w.rf>
@@ -5528,13 +5534,33 @@
 <w.rf>
 <LM>w#w-jh_20-SCzechM-p2155-s1-w7</LM>
 </w.rf>
-<form>vylepšeý</form>
-<tag lemma="vylepšeý">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>vylepšený</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>vylepšený</form>
+<tag>
+<AM lemma="vylepšený_^(*3it)" src="auto">AAFP1----1A---6</AM>
+<AM lemma="vylepšený_^(*3it)" src="auto">AAFP4----1A---6</AM>
+<AM lemma="vylepšený_^(*3it)" src="auto">AAFP5----1A---6</AM>
+<AM lemma="vylepšený_^(*3it)" src="auto">AAFS2----1A---6</AM>
+<AM lemma="vylepšený_^(*3it)" src="auto">AAFS3----1A---6</AM>
+<AM lemma="vylepšený_^(*3it)" src="auto">AAFS6----1A---6</AM>
+<AM lemma="vylepšený_^(*3it)" src="auto">AAIP1----1A---6</AM>
+<AM lemma="vylepšený_^(*3it)" src="auto">AAIP4----1A---6</AM>
+<AM lemma="vylepšený_^(*3it)" src="auto">AAIP5----1A---6</AM>
+<AM lemma="vylepšený_^(*3it)" src="auto">AAIS1----1A----</AM>
+<AM lemma="vylepšený_^(*3it)" src="auto">AAIS4----1A----</AM>
+<AM lemma="vylepšený_^(*3it)" src="auto">AAIS5----1A----</AM>
+<AM lemma="vylepšený_^(*3it)" src="auto">AAMP1----1A---6</AM>
+<AM lemma="vylepšený_^(*3it)" src="auto">AAMP4----1A---6</AM>
+<AM lemma="vylepšený_^(*3it)" src="auto">AAMP5----1A---6</AM>
+<AM lemma="vylepšený_^(*3it)" src="auto" recommended="1">AAMS1----1A----</AM>
+<AM lemma="vylepšený_^(*3it)" src="auto">AAMS5----1A----</AM>
+<AM lemma="vylepšený_^(*3it)" src="auto">AANP1----1A---6</AM>
+<AM lemma="vylepšený_^(*3it)" src="auto">AANP4----1A---6</AM>
+<AM lemma="vylepšený_^(*3it)" src="auto">AANP5----1A---6</AM>
+<AM lemma="vylepšený_^(*3it)" src="auto">AANS1----1A---6</AM>
+<AM lemma="vylepšený_^(*3it)" src="auto">AANS4----1A---6</AM>
+<AM lemma="vylepšený_^(*3it)" src="auto">AANS5----1A---6</AM>
+</tag>
 </m>
 <m id="jh_20-SCzechM-p2155-s1-w8">
 <w.rf>
@@ -7143,13 +7169,37 @@
 <w.rf>
 <LM>w#w-jh_20-SCzechM-p2164-s1-w41</LM>
 </w.rf>
-<form>mezinárodné</form>
-<tag lemma="mezinárodné">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>mezinárodní</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>mezinárodní</form>
+<tag>
+<AM lemma="mezinárodní" src="auto" recommended="1">AAFP1----1A----</AM>
+<AM lemma="mezinárodní" src="auto">AAFP4----1A----</AM>
+<AM lemma="mezinárodní" src="auto">AAFP5----1A----</AM>
+<AM lemma="mezinárodní" src="auto">AAFS1----1A----</AM>
+<AM lemma="mezinárodní" src="auto">AAFS2----1A----</AM>
+<AM lemma="mezinárodní" src="auto">AAFS3----1A----</AM>
+<AM lemma="mezinárodní" src="auto">AAFS4----1A----</AM>
+<AM lemma="mezinárodní" src="auto">AAFS5----1A----</AM>
+<AM lemma="mezinárodní" src="auto">AAFS6----1A----</AM>
+<AM lemma="mezinárodní" src="auto">AAFS7----1A----</AM>
+<AM lemma="mezinárodní" src="auto">AAIP1----1A----</AM>
+<AM lemma="mezinárodní" src="auto">AAIP4----1A----</AM>
+<AM lemma="mezinárodní" src="auto">AAIP5----1A----</AM>
+<AM lemma="mezinárodní" src="auto">AAIS1----1A----</AM>
+<AM lemma="mezinárodní" src="auto">AAIS4----1A----</AM>
+<AM lemma="mezinárodní" src="auto">AAIS5----1A----</AM>
+<AM lemma="mezinárodní" src="auto">AAMP1----1A----</AM>
+<AM lemma="mezinárodní" src="auto">AAMP4----1A----</AM>
+<AM lemma="mezinárodní" src="auto">AAMP5----1A----</AM>
+<AM lemma="mezinárodní" src="auto">AAMS1----1A----</AM>
+<AM lemma="mezinárodní" src="auto">AAMS5----1A----</AM>
+<AM lemma="mezinárodní" src="auto">AANP1----1A----</AM>
+<AM lemma="mezinárodní" src="auto">AANP4----1A----</AM>
+<AM lemma="mezinárodní" src="auto">AANP5----1A----</AM>
+<AM lemma="mezinárodní" src="auto">AANS1----1A----</AM>
+<AM lemma="mezinárodní" src="auto">AANS4----1A----</AM>
+<AM lemma="mezinárodní" src="auto">AANS5----1A----</AM>
+</tag>
 </m>
 <m id="jh_20-SCzechM-p2164-s1-w42">
 <w.rf>
@@ -7717,13 +7767,8 @@
 <w.rf>
 <LM>w#w-jh_20-SCzechM-p2180-s1-w10</LM>
 </w.rf>
-<form>systemů</form>
-<tag lemma="systemů">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>systémů</text>
-</LM>
-</comment>
+<form>systémů</form>
+<tag lemma="systém" src="auto" recommended="1">NNIP2-----A----</tag>
 </m>
 <m id="jh_20-SCzechM-p2180-s1-w11">
 <w.rf>
@@ -8055,13 +8100,26 @@
 <w.rf>
 <LM>w#w-jh_20-SCzechM-p2180-s1-w36</LM>
 </w.rf>
-<form>nastrádané</form>
-<tag lemma="nastrádané">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>nastřádané</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>nastřádané</form>
+<tag>
+<AM lemma="nastřádaný_^(*2t)" src="auto">AAFP1----1A----</AM>
+<AM lemma="nastřádaný_^(*2t)" src="auto" recommended="1">AAFP4----1A----</AM>
+<AM lemma="nastřádaný_^(*2t)" src="auto">AAFP5----1A----</AM>
+<AM lemma="nastřádaný_^(*2t)" src="auto">AAFS2----1A----</AM>
+<AM lemma="nastřádaný_^(*2t)" src="auto">AAFS3----1A----</AM>
+<AM lemma="nastřádaný_^(*2t)" src="auto">AAFS6----1A----</AM>
+<AM lemma="nastřádaný_^(*2t)" src="auto">AAIP1----1A----</AM>
+<AM lemma="nastřádaný_^(*2t)" src="auto">AAIP4----1A----</AM>
+<AM lemma="nastřádaný_^(*2t)" src="auto">AAIP5----1A----</AM>
+<AM lemma="nastřádaný_^(*2t)" src="auto">AAMP4----1A----</AM>
+<AM lemma="nastřádaný_^(*2t)" src="auto">AANP1----1A---6</AM>
+<AM lemma="nastřádaný_^(*2t)" src="auto">AANP4----1A---6</AM>
+<AM lemma="nastřádaný_^(*2t)" src="auto">AANP5----1A---6</AM>
+<AM lemma="nastřádaný_^(*2t)" src="auto">AANS1----1A----</AM>
+<AM lemma="nastřádaný_^(*2t)" src="auto">AANS4----1A----</AM>
+<AM lemma="nastřádaný_^(*2t)" src="auto">AANS5----1A----</AM>
+</tag>
 </m>
 <m id="jh_20-SCzechM-p2180-s1-w37">
 <w.rf>

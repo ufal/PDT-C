@@ -5286,13 +5286,20 @@
 <w.rf>
 <LM>w#w-jh_01-SCzechM-p0094-s1-w19</LM>
 </w.rf>
-<form>Dilí</form>
-<tag lemma="Dilí">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>Dillí</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Dillí</form>
+<tag>
+<AM lemma="dillí" src="auto">NNNP1-----A----</AM>
+<AM lemma="dillí" src="auto">NNNP2-----A----</AM>
+<AM lemma="dillí" src="auto">NNNP4-----A----</AM>
+<AM lemma="dillí" src="auto">NNNP5-----A----</AM>
+<AM lemma="dillí" src="auto">NNNS1-----A----</AM>
+<AM lemma="dillí" src="auto">NNNS2-----A----</AM>
+<AM lemma="dillí" src="auto">NNNS3-----A----</AM>
+<AM lemma="dillí" src="auto">NNNS4-----A----</AM>
+<AM lemma="dillí" src="auto">NNNS5-----A----</AM>
+<AM lemma="dillí" src="auto" recommended="1">NNNS6-----A----</AM>
+</tag>
 </m>
 <m id="jh_01-SCzechM-p0094-s1-w20">
 <w.rf>

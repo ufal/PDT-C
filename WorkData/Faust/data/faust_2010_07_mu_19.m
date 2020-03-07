@@ -3738,13 +3738,9 @@
 <w.rf>
 <LM>w#w-mu_19-SCzechM-p2034-s1-w34</LM>
 </w.rf>
-<form>vedět</form>
-<tag lemma="vedět">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>vědět</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>vědět</form>
+<tag lemma="vědět" src="auto" recommended="1">Vf--------A-I--</tag>
 </m>
 <m id="mu_19-SCzechM-p2034-s1-w35">
 <w.rf>
@@ -6835,13 +6831,17 @@
 <w.rf>
 <LM>w#w-mu_19-SCzechM-p2078-s1-w19</LM>
 </w.rf>
-<form>nástupište</form>
-<tag lemma="nástupište">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>nástupiště</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>nástupiště</form>
+<tag>
+<AM lemma="nástupiště" src="auto">NNNP1-----A----</AM>
+<AM lemma="nástupiště" src="auto">NNNP4-----A----</AM>
+<AM lemma="nástupiště" src="auto">NNNP5-----A----</AM>
+<AM lemma="nástupiště" src="auto">NNNS1-----A----</AM>
+<AM lemma="nástupiště" src="auto" recommended="1">NNNS2-----A----</AM>
+<AM lemma="nástupiště" src="auto">NNNS4-----A----</AM>
+<AM lemma="nástupiště" src="auto">NNNS5-----A----</AM>
+</tag>
 </m>
 <m id="mu_19-SCzechM-p2078-s1-w20">
 <w.rf>

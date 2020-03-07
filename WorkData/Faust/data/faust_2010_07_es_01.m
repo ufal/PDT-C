@@ -922,13 +922,9 @@
 <w.rf>
 <LM>w#w-es_01-SCzechM-p0015-s1-w43</LM>
 </w.rf>
-<form>jem</form>
-<tag lemma="jem">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>jsem</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>jsem</form>
+<tag lemma="být" src="auto" recommended="1">VB-S---1P-AAI--</tag>
 </m>
 <m id="es_01-SCzechM-p0015-s1-w44">
 <w.rf>
@@ -5540,13 +5536,9 @@
 <w.rf>
 <LM>w#w-es_01-SCzechM-p0094-s1-w21</LM>
 </w.rf>
-<form>spoučasně</form>
-<tag lemma="spoučasně">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>současně</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>současně</form>
+<tag lemma="současně_^(*1ý)" src="auto" recommended="1">Dg-------1A----</tag>
 </m>
 <m id="es_01-SCzechM-p0094-s1-w22">
 <w.rf>

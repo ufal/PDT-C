@@ -2694,13 +2694,32 @@
 <w.rf>
 <LM>w#w-jh_19-SCzechM-p2021-s1-w18</LM>
 </w.rf>
-<form>proměné</form>
-<tag lemma="proměné">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>proměnné</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>proměnné</form>
+<tag>
+<AM lemma="proměnná" src="auto">NNFP1-----A----</AM>
+<AM lemma="proměnná" src="auto">NNFP4-----A----</AM>
+<AM lemma="proměnná" src="auto">NNFP5-----A----</AM>
+<AM lemma="proměnná" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="proměnná" src="auto">NNFS3-----A----</AM>
+<AM lemma="proměnná" src="auto">NNFS6-----A----</AM>
+<AM lemma="proměnný" src="auto">AAFP1----1A----</AM>
+<AM lemma="proměnný" src="auto">AAFP4----1A----</AM>
+<AM lemma="proměnný" src="auto">AAFP5----1A----</AM>
+<AM lemma="proměnný" src="auto">AAFS2----1A----</AM>
+<AM lemma="proměnný" src="auto">AAFS3----1A----</AM>
+<AM lemma="proměnný" src="auto">AAFS6----1A----</AM>
+<AM lemma="proměnný" src="auto">AAIP1----1A----</AM>
+<AM lemma="proměnný" src="auto">AAIP4----1A----</AM>
+<AM lemma="proměnný" src="auto">AAIP5----1A----</AM>
+<AM lemma="proměnný" src="auto">AAMP4----1A----</AM>
+<AM lemma="proměnný" src="auto">AANP1----1A---6</AM>
+<AM lemma="proměnný" src="auto">AANP4----1A---6</AM>
+<AM lemma="proměnný" src="auto">AANP5----1A---6</AM>
+<AM lemma="proměnný" src="auto">AANS1----1A----</AM>
+<AM lemma="proměnný" src="auto">AANS4----1A----</AM>
+<AM lemma="proměnný" src="auto">AANS5----1A----</AM>
+</tag>
 </m>
 <m id="jh_19-SCzechM-p2021-s1-w19">
 <w.rf>
@@ -4456,13 +4475,37 @@
 <w.rf>
 <LM>w#w-jh_19-SCzechM-p2035-s1-w10</LM>
 </w.rf>
-<form>intehentní</form>
-<tag lemma="intehentní">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>inherentní</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>inherentní</form>
+<tag>
+<AM lemma="inherentní" src="auto">AAFP1----1A----</AM>
+<AM lemma="inherentní" src="auto">AAFP4----1A----</AM>
+<AM lemma="inherentní" src="auto">AAFP5----1A----</AM>
+<AM lemma="inherentní" src="auto">AAFS1----1A----</AM>
+<AM lemma="inherentní" src="auto" recommended="1">AAFS2----1A----</AM>
+<AM lemma="inherentní" src="auto">AAFS3----1A----</AM>
+<AM lemma="inherentní" src="auto">AAFS4----1A----</AM>
+<AM lemma="inherentní" src="auto">AAFS5----1A----</AM>
+<AM lemma="inherentní" src="auto">AAFS6----1A----</AM>
+<AM lemma="inherentní" src="auto">AAFS7----1A----</AM>
+<AM lemma="inherentní" src="auto">AAIP1----1A----</AM>
+<AM lemma="inherentní" src="auto">AAIP4----1A----</AM>
+<AM lemma="inherentní" src="auto">AAIP5----1A----</AM>
+<AM lemma="inherentní" src="auto">AAIS1----1A----</AM>
+<AM lemma="inherentní" src="auto">AAIS4----1A----</AM>
+<AM lemma="inherentní" src="auto">AAIS5----1A----</AM>
+<AM lemma="inherentní" src="auto">AAMP1----1A----</AM>
+<AM lemma="inherentní" src="auto">AAMP4----1A----</AM>
+<AM lemma="inherentní" src="auto">AAMP5----1A----</AM>
+<AM lemma="inherentní" src="auto">AAMS1----1A----</AM>
+<AM lemma="inherentní" src="auto">AAMS5----1A----</AM>
+<AM lemma="inherentní" src="auto">AANP1----1A----</AM>
+<AM lemma="inherentní" src="auto">AANP4----1A----</AM>
+<AM lemma="inherentní" src="auto">AANP5----1A----</AM>
+<AM lemma="inherentní" src="auto">AANS1----1A----</AM>
+<AM lemma="inherentní" src="auto">AANS4----1A----</AM>
+<AM lemma="inherentní" src="auto">AANS5----1A----</AM>
+</tag>
 </m>
 <m id="jh_19-SCzechM-p2035-s1-w11">
 <w.rf>
@@ -6197,13 +6240,13 @@
 <w.rf>
 <LM>w#w-jh_19-SCzechM-p2063-s1-w3</LM>
 </w.rf>
-<form>servru</form>
-<tag lemma="servru">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>serveru</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>serveru</form>
+<tag>
+<AM lemma="server" src="auto" recommended="1">NNIS2-----A----</AM>
+<AM lemma="server" src="auto">NNIS3-----A----</AM>
+<AM lemma="server" src="auto">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="jh_19-SCzechM-p2063-s1-w4">
 <w.rf>

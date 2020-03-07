@@ -737,19 +737,26 @@
 <w.rf>
 <LM>w#w-jh_16-SCzechM-p1634-s1-w24</LM>
 </w.rf>
-<form>získaná</form>
+<form_change>spell</form_change>
+<form>získané</form>
 <tag>
-<AM lemma="získaný_^(*2t)" recommended="1">AAFS1----1A----</AM>
-<AM lemma="získaný_^(*2t)">AAFS5----1A----</AM>
-<AM lemma="získaný_^(*2t)">AANP1----1A----</AM>
-<AM lemma="získaný_^(*2t)">AANP4----1A----</AM>
-<AM lemma="získaný_^(*2t)">AANP5----1A----</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AAFP1----1A----</AM>
+<AM lemma="získaný_^(*2t)" src="auto" recommended="1">AAFP4----1A----</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AAFP5----1A----</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AAFS2----1A----</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AAFS3----1A----</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AAFS6----1A----</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AAIP1----1A----</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AAIP4----1A----</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AAIP5----1A----</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AAMP4----1A----</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AANP1----1A---6</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AANP4----1A---6</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AANP5----1A---6</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AANS1----1A----</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AANS4----1A----</AM>
+<AM lemma="získaný_^(*2t)" src="auto">AANS5----1A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>získané</text>
-</LM>
-</comment>
 </m>
 <m id="jh_16-SCzechM-p1634-s1-w25">
 <w.rf>
@@ -961,13 +968,9 @@
 <w.rf>
 <LM>w#w-jh_16-SCzechM-p1637-s1-w4</LM>
 </w.rf>
-<form>podívaly</form>
-<tag lemma="podívat" recommended="1">VpTP----R-AAP--</tag>
-<comment>
-<LM type="New Form">
-<text>podívali</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>podívali</form>
+<tag lemma="podívat" src="auto" recommended="1">VpMP---XR-AAP--</tag>
 </m>
 <m id="jh_16-SCzechM-p1637-s1-w5">
 <w.rf>
@@ -2625,13 +2628,20 @@
 <w.rf>
 <LM>w#w-jh_16-SCzechM-p1675-s1-w1</LM>
 </w.rf>
-<form>čeknání</form>
-<tag lemma="čeknání">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>čekání</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>čekání</form>
+<tag>
+<AM lemma="čekání_^(*3at)" src="auto" recommended="1">NNNP1-----A----</AM>
+<AM lemma="čekání_^(*3at)" src="auto">NNNP2-----A----</AM>
+<AM lemma="čekání_^(*3at)" src="auto">NNNP4-----A----</AM>
+<AM lemma="čekání_^(*3at)" src="auto">NNNP5-----A----</AM>
+<AM lemma="čekání_^(*3at)" src="auto">NNNS1-----A----</AM>
+<AM lemma="čekání_^(*3at)" src="auto">NNNS2-----A----</AM>
+<AM lemma="čekání_^(*3at)" src="auto">NNNS3-----A----</AM>
+<AM lemma="čekání_^(*3at)" src="auto">NNNS4-----A----</AM>
+<AM lemma="čekání_^(*3at)" src="auto">NNNS5-----A----</AM>
+<AM lemma="čekání_^(*3at)" src="auto">NNNS6-----A----</AM>
+</tag>
 </m>
 <m id="jh_16-SCzechM-p1675-s1-w2">
 <w.rf>

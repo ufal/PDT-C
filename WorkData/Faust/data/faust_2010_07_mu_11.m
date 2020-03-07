@@ -3636,25 +3636,61 @@
 <w.rf>
 <LM>w#w-mu_11-SCzechM-p1149-s1-w1</LM>
 </w.rf>
-<form>vrchí</form>
-<tag lemma="vrchí">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>vrchní</text>
-</LM>
-</comment>
+<form>vrchní</form>
+<tag>
+<AM lemma="vrchní-1_^(horní)" src="auto">AAFP1----1A----</AM>
+<AM lemma="vrchní-1_^(horní)" src="auto">AAFP4----1A----</AM>
+<AM lemma="vrchní-1_^(horní)" src="auto">AAFP5----1A----</AM>
+<AM lemma="vrchní-1_^(horní)" src="auto">AAFS1----1A----</AM>
+<AM lemma="vrchní-1_^(horní)" src="auto">AAFS2----1A----</AM>
+<AM lemma="vrchní-1_^(horní)" src="auto">AAFS3----1A----</AM>
+<AM lemma="vrchní-1_^(horní)" src="auto">AAFS4----1A----</AM>
+<AM lemma="vrchní-1_^(horní)" src="auto">AAFS5----1A----</AM>
+<AM lemma="vrchní-1_^(horní)" src="auto">AAFS6----1A----</AM>
+<AM lemma="vrchní-1_^(horní)" src="auto">AAFS7----1A----</AM>
+<AM lemma="vrchní-1_^(horní)" src="auto">AAIP1----1A----</AM>
+<AM lemma="vrchní-1_^(horní)" src="auto">AAIP4----1A----</AM>
+<AM lemma="vrchní-1_^(horní)" src="auto">AAIP5----1A----</AM>
+<AM lemma="vrchní-1_^(horní)" src="auto">AAIS1----1A----</AM>
+<AM lemma="vrchní-1_^(horní)" src="auto">AAIS4----1A----</AM>
+<AM lemma="vrchní-1_^(horní)" src="auto">AAIS5----1A----</AM>
+<AM lemma="vrchní-1_^(horní)" src="auto">AAMP1----1A----</AM>
+<AM lemma="vrchní-1_^(horní)" src="auto">AAMP4----1A----</AM>
+<AM lemma="vrchní-1_^(horní)" src="auto">AAMP5----1A----</AM>
+<AM lemma="vrchní-1_^(horní)" src="auto" recommended="1">AAMS1----1A----</AM>
+<AM lemma="vrchní-1_^(horní)" src="auto">AAMS5----1A----</AM>
+<AM lemma="vrchní-1_^(horní)" src="auto">AANP1----1A----</AM>
+<AM lemma="vrchní-1_^(horní)" src="auto">AANP4----1A----</AM>
+<AM lemma="vrchní-1_^(horní)" src="auto">AANP5----1A----</AM>
+<AM lemma="vrchní-1_^(horní)" src="auto">AANS1----1A----</AM>
+<AM lemma="vrchní-1_^(horní)" src="auto">AANS4----1A----</AM>
+<AM lemma="vrchní-1_^(horní)" src="auto">AANS5----1A----</AM>
+<AM lemma="vrchný_,a_^(horní)" src="auto">AAMP1----1A----</AM>
+<AM lemma="vrchný_,a_^(horní)" src="auto">AAMP5----1A----</AM>
+<AM lemma="vrchní-2_^(vrchní_číšník;;vrchnostenský_úředník)" src="auto">NNMP1-----A----</AM>
+<AM lemma="vrchní-2_^(vrchní_číšník;;vrchnostenský_úředník)" src="auto">NNMP4-----A----</AM>
+<AM lemma="vrchní-2_^(vrchní_číšník;;vrchnostenský_úředník)" src="auto">NNMP5-----A----</AM>
+<AM lemma="vrchní-2_^(vrchní_číšník;;vrchnostenský_úředník)" src="auto">NNMS1-----A----</AM>
+<AM lemma="vrchní-2_^(vrchní_číšník;;vrchnostenský_úředník)" src="auto">NNMS5-----A----</AM>
+<AM lemma="vrchní-3_^(vrchní_číšník;;vrchnostenský_úředník)" src="auto">NNFP1-----A----</AM>
+<AM lemma="vrchní-3_^(vrchní_číšník;;vrchnostenský_úředník)" src="auto">NNFP4-----A----</AM>
+<AM lemma="vrchní-3_^(vrchní_číšník;;vrchnostenský_úředník)" src="auto">NNFP5-----A----</AM>
+<AM lemma="vrchní-3_^(vrchní_číšník;;vrchnostenský_úředník)" src="auto">NNFS1-----A----</AM>
+<AM lemma="vrchní-3_^(vrchní_číšník;;vrchnostenský_úředník)" src="auto">NNFS2-----A----</AM>
+<AM lemma="vrchní-3_^(vrchní_číšník;;vrchnostenský_úředník)" src="auto">NNFS3-----A----</AM>
+<AM lemma="vrchní-3_^(vrchní_číšník;;vrchnostenský_úředník)" src="auto">NNFS4-----A----</AM>
+<AM lemma="vrchní-3_^(vrchní_číšník;;vrchnostenský_úředník)" src="auto">NNFS5-----A----</AM>
+<AM lemma="vrchní-3_^(vrchní_číšník;;vrchnostenský_úředník)" src="auto">NNFS6-----A----</AM>
+<AM lemma="vrchní-3_^(vrchní_číšník;;vrchnostenský_úředník)" src="auto">NNFS7-----A----</AM>
+</tag>
 </m>
 <m id="mu_11-SCzechM-p1149-s1-w2">
 <w.rf>
 <LM>w#w-mu_11-SCzechM-p1149-s1-w2</LM>
 </w.rf>
-<form>tajmeník</form>
-<tag lemma="tajmeník">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>tajemník</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>tajemník</form>
+<tag lemma="tajemník" src="auto" recommended="1">NNMS1-----A----</tag>
 </m>
 <m id="mu_11-SCzechM-p1149-s1-w3">
 <w.rf>
@@ -4327,13 +4363,9 @@
 <w.rf>
 <LM>w#w-mu_11-SCzechM-p1166-s1-w13</LM>
 </w.rf>
-<form>neplynujeli</form>
-<tag lemma="neplynujeli">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>nejplynuleji</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>nejplynuleji</form>
+<tag lemma="plynule_^(*1ý)" src="auto" recommended="1">Dg-------3A----</tag>
 </m>
 <m id="mu_11-SCzechM-p1166-s1-w14">
 <w.rf>
@@ -4604,13 +4636,18 @@
 <w.rf>
 <LM>w#w-mu_11-SCzechM-p1170-s1-w5</LM>
 </w.rf>
-<form>weboých</form>
-<tag lemma="weboých">X@-------------</tag>
-<comment>
-<LM type="New Form">
-<text>webových</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>webových</form>
+<tag>
+<AM lemma="webový_,t" src="auto" recommended="1">AAFP2----1A----</AM>
+<AM lemma="webový_,t" src="auto">AAFP6----1A----</AM>
+<AM lemma="webový_,t" src="auto">AAIP2----1A----</AM>
+<AM lemma="webový_,t" src="auto">AAIP6----1A----</AM>
+<AM lemma="webový_,t" src="auto">AAMP2----1A----</AM>
+<AM lemma="webový_,t" src="auto">AAMP6----1A----</AM>
+<AM lemma="webový_,t" src="auto">AANP2----1A----</AM>
+<AM lemma="webový_,t" src="auto">AANP6----1A----</AM>
+</tag>
 </m>
 <m id="mu_11-SCzechM-p1170-s1-w6">
 <w.rf>
