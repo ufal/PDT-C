@@ -1494,8 +1494,6 @@
 <form>krávo</form>
 <tag>
 <AM lemma="kráva" src="auto" recommended="1">NNFS5-----A----</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m-mf920925-104-p3s5w15">
 <src.rf>manual</src.rf>
