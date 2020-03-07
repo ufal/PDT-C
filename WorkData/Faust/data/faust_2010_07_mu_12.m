@@ -1915,10 +1915,20 @@
 <AM lemma="Tádžmahál_;G" src="manual">NNIS1-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: Tádž Mahal</text>
+<LM type="New Form">
+<text>Tádž</text>
 </LM>
 </comment>
+</m><m id="mu_12-SCzechM-p1239-s1-w7-sw1">
+<w.rf>
+<LM>w#w-mu_12-SCzechM-p1239-s1-w7</LM>
+</w.rf>
+<form>Tádžmahál</form>
+<tag>
+<AM lemma="Tádžmahál">X@-------------</AM>
+<AM lemma="Tádžmahál_;G" src="manual">NNIS1-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>Mahal</text></LM></comment>
 </m>
 <m id="mu_12-SCzechM-p1239-s1-w8">
 <w.rf>

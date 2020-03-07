@@ -2738,10 +2738,24 @@
 <form>0x00000000</form>
 <tag lemma="0x00000000">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>3v1: 0 x 00000000</text>
+<LM type="New Form">
+<text>0</text>
 </LM>
 </comment>
+</m><m id="jh_08-SCzechM-p0796-s1-w9-sw1">
+<w.rf>
+<LM>w#w-jh_08-SCzechM-p0796-s1-w9</LM>
+</w.rf>
+<form>0x00000000</form>
+<tag lemma="0x00000000">X@-------------</tag>
+<comment><LM type="New Form"><text>x</text></LM></comment>
+</m><m id="jh_08-SCzechM-p0796-s1-w9-sw2">
+<w.rf>
+<LM>w#w-jh_08-SCzechM-p0796-s1-w9</LM>
+</w.rf>
+<form>0x00000000</form>
+<tag lemma="0x00000000">X@-------------</tag>
+<comment><LM type="New Form"><text>00000000</text></LM></comment>
 </m>
 <m id="jh_08-SCzechM-p0796-s1-w10">
 <w.rf>

@@ -1521,10 +1521,17 @@
 <form>Způlky</form>
 <tag lemma="Způlky">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: Z půlky</text>
+<LM type="New Form">
+<text>Z</text>
 </LM>
 </comment>
+</m><m id="mu_15-SCzechM-p1556-s1-w1-sw1">
+<w.rf>
+<LM>w#w-mu_15-SCzechM-p1556-s1-w1</LM>
+</w.rf>
+<form>Způlky</form>
+<tag lemma="Způlky">X@-------------</tag>
+<comment><LM type="New Form"><text>půlky</text></LM></comment>
 </m>
 <m id="mu_15-SCzechM-p1556-s1-w2">
 <w.rf>

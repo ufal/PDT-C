@@ -2043,10 +2043,17 @@
 <form>3330kg</form>
 <tag lemma="3330kg">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: 3330 kg</text>
+<LM type="New Form">
+<text>3330</text>
 </LM>
 </comment>
+</m><m id="mu_09-SCzechM-p0897-s1-w4-sw1">
+<w.rf>
+<LM>w#w-mu_09-SCzechM-p0897-s1-w4</LM>
+</w.rf>
+<form>3330kg</form>
+<tag lemma="3330kg">X@-------------</tag>
+<comment><LM type="New Form"><text>kg</text></LM></comment>
 </m>
 <m id="mu_09-SCzechM-p0897-s1-w5">
 <w.rf>
@@ -2086,10 +2093,20 @@
 <AM lemma="m3_^(metr_krychlový)" src="manual">NNIXX-----A---b</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: m 3</text>
+<LM type="New Form">
+<text>m</text>
 </LM>
 </comment>
+</m><m id="mu_09-SCzechM-p0897-s1-w9-sw1">
+<w.rf>
+<LM>w#w-mu_09-SCzechM-p0897-s1-w9</LM>
+</w.rf>
+<form>m3</form>
+<tag>
+<AM lemma="m3-1_:B_^(metr_krychlový)" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="m3_^(metr_krychlový)" src="manual">NNIXX-----A---b</AM>
+</tag>
+<comment><LM type="New Form"><text>3</text></LM></comment>
 </m>
 <m id="mu_09-SCzechM-p0897-s1-w10">
 <w.rf>
@@ -3365,10 +3382,17 @@
 <form>Narodíl</form>
 <tag lemma="Narodíl">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: Na rozdíl</text>
+<LM type="New Form">
+<text>Na</text>
 </LM>
 </comment>
+</m><m id="mu_09-SCzechM-p0913-s1-w15-sw1">
+<w.rf>
+<LM>w#w-mu_09-SCzechM-p0913-s1-w15</LM>
+</w.rf>
+<form>Narodíl</form>
+<tag lemma="Narodíl">X@-------------</tag>
+<comment><LM type="New Form"><text>rozdíl</text></LM></comment>
 </m>
 <m id="mu_09-SCzechM-p0913-s1-w16">
 <w.rf>

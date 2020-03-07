@@ -4736,10 +4736,17 @@
 <form>znás</form>
 <tag lemma="znás">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: z nás</text>
+<LM type="New Form">
+<text>z</text>
 </LM>
 </comment>
+</m><m id="jh_07-SCzechM-p0711-s1-w2-sw1">
+<w.rf>
+<LM>w#w-jh_07-SCzechM-p0711-s1-w2</LM>
+</w.rf>
+<form>znás</form>
+<tag lemma="znás">X@-------------</tag>
+<comment><LM type="New Form"><text>nás</text></LM></comment>
 </m>
 <m id="jh_07-SCzechM-p0711-s1-w3">
 <w.rf>

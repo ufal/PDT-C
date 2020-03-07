@@ -5521,10 +5521,20 @@
 <AM lemma="m2_:B_^(metr_čtvereční)" src="manual">NNIXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: m 2</text>
+<LM type="New Form">
+<text>m</text>
 </LM>
 </comment>
+</m><m id="jh_06-SCzechM-p0628-s1-w23-sw1">
+<w.rf>
+<LM>w#w-jh_06-SCzechM-p0628-s1-w23</LM>
+</w.rf>
+<form>m2</form>
+<tag>
+<AM lemma="m2-1_:B_^(metr_čtvereční)" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="m2_:B_^(metr_čtvereční)" src="manual">NNIXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>2</text></LM></comment>
 </m>
 <m id="jh_06-SCzechM-p0628-s1-w24">
 <w.rf>
@@ -5604,10 +5614,20 @@
 <AM lemma="m2_:B_^(metr_čtvereční)" src="manual">NNIXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: m 2</text>
+<LM type="New Form">
+<text>m</text>
 </LM>
 </comment>
+</m><m id="jh_06-SCzechM-p0628-s1-w30-sw1">
+<w.rf>
+<LM>w#w-jh_06-SCzechM-p0628-s1-w30</LM>
+</w.rf>
+<form>m2</form>
+<tag>
+<AM lemma="m2-1_:B_^(metr_čtvereční)" recommended="1">NNIXX-----A---8</AM>
+<AM lemma="m2_:B_^(metr_čtvereční)" src="manual">NNIXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>2</text></LM></comment>
 </m>
 <m id="jh_06-SCzechM-p0628-s1-w31">
 <w.rf>

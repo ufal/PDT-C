@@ -2102,18 +2102,6 @@
 <form>/</form>
 <tag lemma="/" recommended="1">Z:-------------</tag>
 </m>
-<m id="jh_09-SCzechM-p0897-s1-w7">
-<w.rf>
-<LM>w#w-jh_09-SCzechM-p0897-s1-w7</LM>
-</w.rf>
-<form>6</form>
-<tag lemma="6" recommended="1">C=-------------</tag>
-<comment>
-<LM type="Other">
-<text>1v2: >6.96</text>
-</LM>
-</comment>
-</m>
 <m id="jh_09-SCzechM-p0897-s1-w8">
 <w.rf>
 <LM>w#w-jh_09-SCzechM-p0897-s1-w8</LM>
@@ -2121,8 +2109,8 @@
 <form>.</form>
 <tag lemma="." recommended="1">Z:-------------</tag>
 <comment>
-<LM type="Other">
-<text>1v2: &lt;6.96</text>
+<LM type="New Form">
+<text>6.96</text>
 </LM>
 </comment>
 </m>
@@ -2133,10 +2121,17 @@
 <form>96m3</form>
 <tag lemma="96m3">X@-------------</tag>
 <comment>
-<LM type="Other">
-<text>2v1: m 3</text>
+<LM type="New Form">
+<text>m</text>
 </LM>
 </comment>
+</m><m id="jh_09-SCzechM-p0897-s1-w9-sw1">
+<w.rf>
+<LM>w#w-jh_09-SCzechM-p0897-s1-w9</LM>
+</w.rf>
+<form>96m3</form>
+<tag lemma="96m3">X@-------------</tag>
+<comment><LM type="New Form"><text>3</text></LM></comment>
 </m>
 <m id="jh_09-SCzechM-p0897-s1-w10">
 <w.rf>

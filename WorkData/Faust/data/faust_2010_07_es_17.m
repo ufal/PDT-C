@@ -1602,10 +1602,20 @@
 <AM lemma="PT10-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: PT 10</text>
+<LM type="New Form">
+<text>PT</text>
 </LM>
 </comment>
+</m><m id="es_17-SCzechM-p1769-s1-w12-sw1">
+<w.rf>
+<LM>w#w-es_17-SCzechM-p1769-s1-w12</LM>
+</w.rf>
+<form>PT10</form>
+<tag>
+<AM lemma="PT10">X@-------------</AM>
+<AM lemma="PT10-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>10</text></LM></comment>
 </m>
 <m id="es_17-SCzechM-p1769-s1-w13">
 <w.rf>
@@ -1676,10 +1686,20 @@
 <AM lemma="T6-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: T 6</text>
+<LM type="New Form">
+<text>T</text>
 </LM>
 </comment>
+</m><m id="es_17-SCzechM-p1769-s1-w21-sw1">
+<w.rf>
+<LM>w#w-es_17-SCzechM-p1769-s1-w21</LM>
+</w.rf>
+<form>T6</form>
+<tag>
+<AM lemma="T6">X@-------------</AM>
+<AM lemma="T6-88_:B" src="manual">NNXXX-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>6</text></LM></comment>
 </m>
 <m id="es_17-SCzechM-p1769-s1-w22">
 <w.rf>
