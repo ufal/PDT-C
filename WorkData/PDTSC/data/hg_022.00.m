@@ -502,8 +502,6 @@
 <AM lemma="společnost_:B" src="auto">NNFXX-----A---8</AM>
 <AM lemma="strana" src="auto">NNFXX-----A---8</AM>
 <AM lemma="státní_:B" src="auto">AAXXX----1A---8</AM></tag>
-<comment>
-</comment>
 </m><m id="m022-d1t62-5-sw1">
 <w.rf>
 <LM>w#w-d1t62-5</LM>
@@ -511,7 +509,6 @@
 <form>vámi</form>
 <tag>
 <AM lemma="ty" src="auto" recommended="1">PP-P7--2-------</AM></tag>
-<comment></comment>
 <form_change>spell</form_change></m>
 <m id="m022-d1t62-6">
 <w.rf>

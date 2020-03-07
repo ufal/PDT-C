@@ -72,8 +72,6 @@
 <form>100</form>
 <tag>
 <AM lemma="100" src="auto" recommended="1">C=-------------</AM></tag>
-<comment>
-</comment>
 </m><m id="m111-d1t881-14-sw1">
 <w.rf>
 <LM>w#w-d1t881-14</LM>
@@ -81,7 +79,6 @@
 <form>+</form>
 <tag>
 <AM lemma="+" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment></comment>
 </m><m id="m111-d1t881-14-sw2">
 <w.rf>
 <LM>w#w-d1t881-14</LM>
@@ -89,7 +86,6 @@
 <form>1</form>
 <tag>
 <AM lemma="1" src="auto" recommended="1">C=-------------</AM></tag>
-<comment></comment>
 <form_change>spell</form_change></m>
 <m id="m111-d1t883-2">
 <w.rf>

@@ -1423,7 +1423,6 @@
 <form>&amp;</form>
 <tag>
 <AM lemma="&amp;amp;" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment></comment>
 </m><m id="m106-d1t502-16-sw2">
 <w.rf>
 <LM>w#w-d1t502-16</LM>
@@ -1436,7 +1435,6 @@
 <AM lemma="Celsius" src="auto">NNMXX-----A---8</AM>
 <AM lemma="c-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
 <AM lemma="c-88_:B" src="auto" recommended="1">NNXXX-----A----</AM></tag>
-<comment></comment>
 <form_change>spell</form_change></m>
 <m id="m106-d1t504-1">
 <w.rf>

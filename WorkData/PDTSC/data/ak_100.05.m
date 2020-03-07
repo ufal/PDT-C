@@ -1141,8 +1141,6 @@
 <AM lemma="být" src="auto" recommended="1">VB-S---3P-AAI--</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPNS4--3-------</AM>
 <AM lemma="on-1_^(oni/ono)" src="auto">PPXP4--3-------</AM></tag>
-<comment>
-</comment>
 </m><m id="m100-d1t1222-6-sw1">
 <w.rf>
 <LM>w#w-d1t1222-6</LM>
@@ -1150,7 +1148,6 @@
 <form>-</form>
 <tag>
 <AM lemma="-" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment></comment>
 </m><m id="m100-d1t1222-6-sw2">
 <w.rf>
 <LM>w#w-d1t1222-6</LM>
@@ -1160,7 +1157,6 @@
 <AM lemma="li-1" src="auto">TT-------------</AM>
 <AM lemma="li-2" src="auto" recommended="1">J,-------------</AM>
 <AM lemma="li-99_:B_;S" src="auto">NNXXX-----A----</AM></tag>
-<comment></comment>
 <form_change>spell</form_change></m>
 <m id="m100-d1t1222-7">
 <w.rf>

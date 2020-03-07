@@ -1406,8 +1406,6 @@
 <tag>
 <AM lemma="odleva-1" src="auto">NNFS1-----A----</AM>
 <AM lemma="odleva-2" src="auto" recommended="1">Db-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m019-d1t1154-4">
 <w.rf>

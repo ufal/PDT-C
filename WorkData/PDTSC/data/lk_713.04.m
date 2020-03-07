@@ -1120,8 +1120,6 @@
 <form>říkali</form>
 <tag>
 <AM lemma="říkat" src="auto" recommended="1">VpMP----R-AAI--</AM></tag>
-<comment>
-</comment>
 </m><m id="m713-453-489-sw1">
 <w.rf>
 <LM>w#w-453-489</LM>
@@ -1129,7 +1127,6 @@
 <form>:</form>
 <tag>
 <AM lemma=":" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment></comment>
 <form_change>spell</form_change></m>
 <m id="m713-453-488">
 <w.rf>

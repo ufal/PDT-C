@@ -2286,7 +2286,6 @@
 <form>tom</form>
 <tag>
 <AM lemma="ten" src="auto" recommended="1">PDZS6----------</AM></tag>
-<comment></comment>
 <form_change>spell</form_change></m>
 <m id="m100-d-id70352-punct">
 <w.rf>

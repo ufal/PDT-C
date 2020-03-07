@@ -1727,8 +1727,6 @@
 <form>vzadu</form>
 <tag>
 <AM lemma="vzadu" src="auto" recommended="1">Db-------------</AM></tag>
-<comment>
-</comment>
 <form_change>spell</form_change></m>
 <m id="m145-d1t2628-15">
 <w.rf>

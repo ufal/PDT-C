@@ -2917,7 +2917,6 @@
 <form>-</form>
 <tag>
 <AM lemma="-" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment></comment>
 </m><m id="m065-d1t3619-3-sw2">
 <w.rf>
 <LM>w#w-d1t3619-3</LM>
@@ -2927,7 +2926,6 @@
 <tag>
 <AM lemma="pair" src="auto">NNMS1-----A----</AM>
 <AM lemma="pair-2_^(au-pair)" src="auto" recommended="1">NNFXX-----A----</AM></tag>
-<comment></comment>
 <form_change>spell</form_change></m>
 <m id="m065-d1t3622-3">
 <w.rf>

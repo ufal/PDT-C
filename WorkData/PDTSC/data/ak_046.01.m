@@ -1405,8 +1405,6 @@
 <AM lemma="po-1" src="auto">RR--4----------</AM>
 <AM lemma="po-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="pondělí" src="auto">NNNXX-----A---8</AM></tag>
-<comment>
-</comment>
 </m><m id="m046-d1t425-4-sw1">
 <w.rf>
 <LM>w#w-d1t425-4</LM>
@@ -1414,7 +1412,6 @@
 <form>tom</form>
 <tag>
 <AM lemma="ten" src="auto" recommended="1">PDZS6----------</AM></tag>
-<comment></comment>
 <form_change>spell</form_change></m>
 <m id="m046-d1t425-5">
 <w.rf>

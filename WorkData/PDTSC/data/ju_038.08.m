@@ -965,8 +965,6 @@
 <AM lemma="dva`2" src="auto" recommended="1">ClYP1----------</AM>
 <AM lemma="dva`2" src="auto">ClYP4----------</AM>
 <AM lemma="dva`2" src="auto">ClYP5----------</AM></tag>
-<comment>
-</comment>
 </m><m id="m038-d1t2572-5-sw1">
 <w.rf>
 <LM>w#w-d1t2572-5</LM>
@@ -977,7 +975,6 @@
 <AM lemma="tisíc-2`1000" src="auto">NNIP4-----A----</AM>
 <AM lemma="tisíc-2`1000" src="auto">NNIP5-----A----</AM>
 <AM lemma="tisíc-2`1000" src="auto">NNIS2-----A----</AM></tag>
-<comment></comment>
 <form_change>spell</form_change></m>
 <m id="m038-d1t2572-6">
 <w.rf>

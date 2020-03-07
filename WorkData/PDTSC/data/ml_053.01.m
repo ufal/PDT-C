@@ -1104,8 +1104,6 @@
 <form>tady</form>
 <tag>
 <AM lemma="tady" src="auto" recommended="1">Db-------------</AM></tag>
-<comment>
-</comment>
 </m><m id="m053-d1t361-9-sw1">
 <w.rf>
 <LM>w#w-d1t361-9</LM>
@@ -1113,7 +1111,6 @@
 <form>odtud</form>
 <tag>
 <AM lemma="odtud" src="auto" recommended="1">Db-------------</AM></tag>
-<comment></comment>
 <form_change>spell</form_change></m>
 <m id="m053-d-id66512-punct">
 <w.rf>

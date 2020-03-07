@@ -3968,7 +3968,6 @@
 <form>?</form>
 <tag>
 <AM lemma="?" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment></comment>
 <form_change>spell</form_change></m>
 </s>
 <s id="m002-2374">

@@ -429,7 +429,6 @@
 <form>-</form>
 <tag>
 <AM lemma="-" src="auto" recommended="1">Z:-------------</AM></tag>
-<comment></comment>
 </m><m id="m127-d1t2363-18-sw2">
 <w.rf>
 <LM>w#w-d1t2363-18</LM>
@@ -440,7 +439,6 @@
 <AM lemma="li-1" src="auto">TT-------------</AM>
 <AM lemma="li-2" src="auto" recommended="1">J,-------------</AM>
 <AM lemma="li-99_:B_;S" src="auto">NNXXX-----A----</AM></tag>
-<comment></comment>
 <form_change>spell</form_change></m>
 <m id="m127-d1t2363-19">
 <w.rf>
