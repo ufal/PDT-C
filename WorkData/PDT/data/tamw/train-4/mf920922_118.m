@@ -229,7 +229,8 @@
 <form>super</form>
 <tag>
 <AM lemma="super_,h_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="super-1_;R" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="super-1_;R" src="manual">NNIS4-----A----</AM>
+<AM lemma="super-2" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-118-p4s2w13">

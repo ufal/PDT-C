@@ -2855,7 +2855,10 @@
 <LM>w#w-lnd91303-064-p5s2w12</LM>
 </w.rf>
 <form>anti</form>
-<tag lemma="anti" src="orig" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="anti" src="orig">TT-------------</AM>
+<AM lemma="anti" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m-lnd91303-064-p5s2w13">
 <src.rf>manual</src.rf>

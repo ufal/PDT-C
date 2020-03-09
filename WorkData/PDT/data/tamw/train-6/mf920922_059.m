@@ -166,7 +166,8 @@
 <tag>
 <AM lemma="Hami_;G" src="orig">NNNXX-----A----</AM>
 <AM lemma="Hami_;R" src="auto" recommended="1">NNNSX-----A----</AM>
-<AM lemma="Hami-2_;G" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Hami-2_;G" src="manual">NNNXX-----A----</AM>
+<AM lemma="Hami_;G_;R" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-059-p2s1w16">
@@ -2009,7 +2010,8 @@
 <tag>
 <AM lemma="Hami_;G" src="orig">NNNXX-----A----</AM>
 <AM lemma="Hami_;R" src="auto" recommended="1">NNNSX-----A----</AM>
-<AM lemma="Hami-2_;G" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Hami-2_;G" src="manual">NNNXX-----A----</AM>
+<AM lemma="Hami_;G_;R" src="manual" selected="1">NNNXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920922-059-p4s1w5">

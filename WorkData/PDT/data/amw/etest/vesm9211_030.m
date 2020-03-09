@@ -12688,7 +12688,8 @@
 <form>nm</form>
 <tag>
 <AM lemma="nanometr_:B" src="orig">NNIXX-----A---8</AM>
-<AM lemma="nanometr" src="manual" selected="1">NNIXX-----A---8</AM>
+<AM lemma="nanometr" src="manual">NNIXX-----A---8</AM>
+<AM lemma="nanometr" src="manual" selected="1">NNIXX-----A---b</AM>
 </tag>
 </m>
 <m id="m-vesm9211-030-p26s5w12">

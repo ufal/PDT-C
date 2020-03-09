@@ -737,7 +737,10 @@
 <LM>w#w-ln94200-130-p3s1w9</LM>
 </w.rf>
 <form>anti</form>
-<tag lemma="anti" src="orig" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="anti" src="orig">TT-------------</AM>
+<AM lemma="anti" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94200-130-p3s1w10">
 <src.rf>manual</src.rf>

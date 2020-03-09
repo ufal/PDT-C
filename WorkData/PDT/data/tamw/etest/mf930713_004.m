@@ -809,8 +809,9 @@
 </w.rf>
 <form>Bět</form>
 <tag>
-<AM lemma="Bět" src="orig" selected="1">NNXXX-----A----</AM>
+<AM lemma="Bět" src="orig">NNXXX-----A----</AM>
 <AM lemma="Běta_;Y" src="auto" recommended="1">NNFP2-----A----</AM>
+<AM lemma="Bět" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-004-p3s6w12">
@@ -859,7 +860,10 @@
 <LM>w#w-mf930713-004-p3s6w17</LM>
 </w.rf>
 <form>ák</form>
-<tag lemma="ák" src="orig" selected="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="ák" src="orig">NNXXX-----A----</AM>
+<AM lemma="ák_^(přípona)" src="manual" selected="1">SNMS1-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930713-004-p3s6w18">
 <src.rf>manual</src.rf>
@@ -972,7 +976,8 @@
 <form>li</form>
 <tag>
 <AM lemma="li-1" src="auto">TT-------------</AM>
-<AM lemma="li-1" src="manual" selected="1">J,-------------</AM>
+<AM lemma="li-1" src="manual">J,-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-mf930713-004-p3s7w4">

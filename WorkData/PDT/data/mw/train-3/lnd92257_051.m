@@ -1950,7 +1950,10 @@
 <LM>w#w-lnd92257-051-p5s4w19</LM>
 </w.rf>
 <form>dobytek</form>
-<tag lemma="dobytek" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="dobytek" src="orig">NNMS1-----A----</AM>
+<AM lemma="dobytek-1_^(zvířata)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-051-p5s4w20">
 <src.rf>manual</src.rf>

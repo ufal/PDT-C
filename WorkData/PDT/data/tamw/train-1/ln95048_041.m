@@ -227,7 +227,8 @@
 <form>pop</form>
 <tag>
 <AM lemma="pop-3_,t_^(př._ve_spojení_pop_music)" src="orig">AAXXX----1A----</AM>
-<AM lemma="pop-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="pop-77" src="manual">F%-------------</AM>
+<AM lemma="pop-4" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-041-p2s3w6">
@@ -238,7 +239,8 @@
 <form>art</form>
 <tag>
 <AM lemma="art" src="orig">NNIS1-----A----</AM>
-<AM lemma="art-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="art-77" src="manual">F%-------------</AM>
+<AM lemma="art-1" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-041-p2s3w7">
@@ -292,7 +294,8 @@
 <form>art</form>
 <tag>
 <AM lemma="art" src="orig">NNIS1-----A----</AM>
-<AM lemma="art-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="art-77" src="manual">F%-------------</AM>
+<AM lemma="art-1" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-041-p2s3w13">

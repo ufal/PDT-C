@@ -807,7 +807,11 @@
 <LM>w#w-ln95047-050-p2s4w34</LM>
 </w.rf>
 <form>Bounty</form>
-<tag lemma="Bounty-1_;R_^(jméno_lodě)" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Bounty-1_;R_^(jméno_lodě)" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bounty_;R_;Y_^(čokol._tyčinka;;loď;;klisna)" src="manual">NNXXX-----A----</AM>
+<AM lemma="Bounty_;R_;Y_^(čokol._tyčinka;;loď;;klisna)" src="manual" selected="1">NNFXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95047-050-p2s4w35">
 <src.rf>manual</src.rf>

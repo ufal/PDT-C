@@ -1148,7 +1148,8 @@
 <form>skinhead</form>
 <tag>
 <AM lemma="skinhead" src="orig">NNMS1-----A----</AM>
-<AM lemma="skinhead-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="skinhead-77" src="manual">F%-------------</AM>
+<AM lemma="skinhead-2" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-122-p2s10w12">

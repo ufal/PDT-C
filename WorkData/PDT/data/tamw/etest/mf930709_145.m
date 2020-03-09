@@ -535,7 +535,8 @@
 <tag>
 <AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
 <AM lemma="Reuter_;K" src="manual">NNXXX-----A----</AM>
-<AM lemma="Reuter-2_;K_^(^DS**Reuters)" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="Reuter-2_;K_^(^DS**Reuters)" src="manual">NNIXX-----A----</AM>
+<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930709-145-p2s3w20">

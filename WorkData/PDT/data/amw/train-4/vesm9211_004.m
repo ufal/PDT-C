@@ -554,7 +554,10 @@
 <LM>w#w-vesm9211-004-p3s5w13</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9211-004-p3s5w14">
 <src.rf>manual</src.rf>

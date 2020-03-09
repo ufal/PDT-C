@@ -8717,7 +8717,8 @@
 <tag>
 <AM lemma="super_,h_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="super_,h_,t" src="manual">A2--------A----</AM>
-<AM lemma="super" src="manual" selected="1">A2--------A----</AM>
+<AM lemma="super" src="manual">A2--------A----</AM>
+<AM lemma="super-3" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-11-p5s8w8">

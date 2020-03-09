@@ -2927,7 +2927,8 @@
 <tag>
 <AM lemma="online-1_,t" src="auto">AAXXX----1A----</AM>
 <AM lemma="online-1" src="manual">AAXXX----1A----</AM>
-<AM lemma="online" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="online" src="manual">AAXXX----1A----</AM>
+<AM lemma="online-1" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-3-p8s3w11">

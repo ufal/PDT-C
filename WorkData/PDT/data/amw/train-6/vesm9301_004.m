@@ -3851,7 +3851,10 @@
 <LM>w#w-vesm9301-004-p9s2w12</LM>
 </w.rf>
 <form>sucha</form>
-<tag lemma="sucho" src="orig" selected="1">NNNS2-----A----</tag>
+<tag>
+<AM lemma="sucho" src="orig">NNNS2-----A----</AM>
+<AM lemma="sucho-2" src="manual" selected="1">NNNS2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9301-004-p9s2w13">
 <src.rf>manual</src.rf>
@@ -7859,7 +7862,10 @@
 <LM>w#w-vesm9301-004-p14s4w8</LM>
 </w.rf>
 <form>dobytka</form>
-<tag lemma="dobytek" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="dobytek" src="orig">NNMS2-----A----</AM>
+<AM lemma="dobytek-1_^(zvířata)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9301-004-p14s4w9">
 <src.rf>manual</src.rf>

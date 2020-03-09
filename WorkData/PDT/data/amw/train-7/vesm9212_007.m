@@ -4116,7 +4116,10 @@
 <LM>w#w-vesm9212-007-p6s2w10</LM>
 </w.rf>
 <form>Nerudovými</form>
-<tag lemma="nerudův_^(*2a)" src="orig" selected="1">AUIP7M---------</tag>
+<tag>
+<AM lemma="nerudův_^(*2a)" src="orig">AUIP7M---------</AM>
+<AM lemma="Nerudův_;S_^(*2a)" src="manual" selected="1">AUIP7M---------</AM>
+</tag>
 </m>
 <m id="m-vesm9212-007-p6s2w11">
 <src.rf>manual</src.rf>
@@ -4772,7 +4775,10 @@
 <LM>w#w-vesm9212-007-p6s4w26</LM>
 </w.rf>
 <form>Nerudu</form>
-<tag lemma="neruda" src="orig" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="neruda" src="orig">NNMS4-----A----</AM>
+<AM lemma="Neruda_;S" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9212-007-p6s4w27">
 <src.rf>manual</src.rf>

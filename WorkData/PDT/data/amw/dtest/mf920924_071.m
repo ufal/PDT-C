@@ -995,7 +995,8 @@
 <AM lemma="art_,t" src="orig">AAXXX----1A----</AM>
 <AM lemma="art" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="art" src="auto">NNIS4-----A----</AM>
-<AM lemma="art-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="art-77" src="manual">F%-------------</AM>
+<AM lemma="art-3" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-mf920924-071-p10s2w5">

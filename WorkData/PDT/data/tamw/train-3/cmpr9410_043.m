@@ -4509,10 +4509,11 @@
 </w.rf>
 <form>strašáku</form>
 <tag>
-<AM lemma="strašák" src="orig" selected="1">NNIS2-----A----</AM>
+<AM lemma="strašák" src="orig">NNIS2-----A----</AM>
 <AM lemma="strašák" src="auto" recommended="1">NNMS3-----A---1</AM>
 <AM lemma="strašák" src="auto">NNMS5-----A----</AM>
 <AM lemma="strašák" src="auto">NNMS6-----A---1</AM>
+<AM lemma="strašák-2" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9410-043-p14s1w3">

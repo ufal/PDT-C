@@ -5883,7 +5883,10 @@
 <LM>w#w-ln94201-137-p13s1w15</LM>
 </w.rf>
 <form>online</form>
-<tag lemma="online-1_,t" src="auto" selected="1">AAXXX----1A----</tag>
+<tag>
+<AM lemma="online-1_,t" src="auto">AAXXX----1A----</AM>
+<AM lemma="online-1" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-137-p13s1w16">
 <src.rf>manual</src.rf>

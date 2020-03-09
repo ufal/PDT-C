@@ -3421,7 +3421,10 @@
 <LM>w#w-lnd92254-075-p3s36w10</LM>
 </w.rf>
 <form>Art</form>
-<tag lemma="art" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="art" src="orig">NNIS1-----A----</AM>
+<AM lemma="art-1" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92254-075-p3s36w11">
 <src.rf>manual</src.rf>

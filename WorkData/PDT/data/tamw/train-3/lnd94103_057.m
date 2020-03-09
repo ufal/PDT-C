@@ -19,7 +19,10 @@
 <LM>w#w-lnd94103-057-p1s1Aw1</LM>
 </w.rf>
 <form>Strašákem</form>
-<tag lemma="strašák" src="orig" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="strašák" src="orig">NNMS7-----A----</AM>
+<AM lemma="strašák-2" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd94103-057-p1s1Aw2">
 <src.rf>manual</src.rf>

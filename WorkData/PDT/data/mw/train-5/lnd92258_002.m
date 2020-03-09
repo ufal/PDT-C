@@ -5426,7 +5426,8 @@
 <form>double</form>
 <tag>
 <AM lemma="double_,t_^(dvojitý)" src="orig">AAXXX----1A----</AM>
-<AM lemma="double-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="double-77" src="manual">F%-------------</AM>
+<AM lemma="double-3" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-lnd92258-002-p10s4w11">

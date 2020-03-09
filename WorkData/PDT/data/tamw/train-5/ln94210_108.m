@@ -523,7 +523,8 @@
 <form>Anděla</form>
 <tag>
 <AM lemma="Anděla_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Anděl-2_;G" src="manual" selected="1">NNIS2-----A----</AM>
+<AM lemma="Anděl-2_;G" src="manual">NNIS2-----A----</AM>
+<AM lemma="Anděl-2_;G" src="manual" selected="1">NNIS2-----A---1</AM>
 </tag>
 </m>
 <m id="m-ln94210-108-p2s3w22">

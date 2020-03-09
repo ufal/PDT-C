@@ -2942,9 +2942,9 @@
 </w.rf>
 <form>mama</form>
 <tag>
-<AM lemma="mama_,n" src="auto">NNFS1-----A----</AM>
+<AM lemma="mama_,n" src="auto" selected="1">NNFS1-----A----</AM>
 <AM lemma="mama_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="mama-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="mama-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-051-p3s5w13">
@@ -10805,7 +10805,10 @@
 <LM>w#w-ln95048-051-p8s11w11</LM>
 </w.rf>
 <form>bezpečno</form>
-<tag lemma="bezpečno" src="orig" selected="1">NNNS1-----A----</tag>
+<tag>
+<AM lemma="bezpečno" src="orig">NNNS1-----A----</AM>
+<AM lemma="bezpečno-1" src="manual" selected="1">Dg-------1A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-051-p8s11w12">
 <src.rf>manual</src.rf>
@@ -19273,8 +19276,8 @@
 </w.rf>
 <form>Zebra</form>
 <tag>
-<AM lemma="zebra" src="orig">NNFS1-----A----</AM>
-<AM lemma="Zebra-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="zebra" src="orig" selected="1">NNFS1-----A----</AM>
+<AM lemma="Zebra-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95048-051-p12s9w2">
@@ -22485,7 +22488,10 @@
 <LM>w#w-ln95048-051-p14s13w32</LM>
 </w.rf>
 <form>sucha</form>
-<tag lemma="sucho" src="orig" selected="1">NNNP1-----A----</tag>
+<tag>
+<AM lemma="sucho" src="orig">NNNP1-----A----</AM>
+<AM lemma="sucho-2" src="manual" selected="1">NNNP1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95048-051-p14s13w33">
 <src.rf>manual</src.rf>

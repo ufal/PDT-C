@@ -5280,7 +5280,10 @@
 <LM>w#w-ln94209-48-p8s3w9</LM>
 </w.rf>
 <form>strašák</form>
-<tag lemma="strašák" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="strašák" src="orig">NNMS1-----A----</AM>
+<AM lemma="strašák-2" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-48-p8s3w10">
 <src.rf>manual</src.rf>
@@ -6070,7 +6073,10 @@
 <LM>w#w-ln94209-48-p9s3w39</LM>
 </w.rf>
 <form>strašákem</form>
-<tag lemma="strašák" src="orig" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="strašák" src="orig">NNMS7-----A----</AM>
+<AM lemma="strašák-2" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94209-48-p9s3w40">
 <src.rf>manual</src.rf>

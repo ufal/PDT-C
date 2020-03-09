@@ -2245,7 +2245,10 @@
 <LM>w#w-ln94204-106-p4s2w5</LM>
 </w.rf>
 <form>punku</form>
-<tag lemma="punk" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="punk" src="orig">NNIS2-----A----</AM>
+<AM lemma="punk-1" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-106-p4s2w6">
 <src.rf>manual</src.rf>
@@ -2282,7 +2285,8 @@
 <AM lemma="rock-1" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="rock-1" src="auto">NNIS4-----A----</AM>
 <AM lemma="rock_^(rock'n'roll)" src="manual">NNXXX-----A----</AM>
-<AM lemma="rock-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="rock-77" src="manual">F%-------------</AM>
+<AM lemma="rock-3" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-106-p4s2w10">
@@ -2310,7 +2314,8 @@
 <AM lemma="nádraží_:B" src="auto">NNNXX-----A---9</AM>
 <AM lemma="národní_:B" src="auto">AAXXX----1A---8</AM>
 <AM lemma="and_:B_,t" src="manual">J^------------8</AM>
-<AM lemma="n-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="n-77" src="manual">F%-------------</AM>
+<AM lemma="n-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-106-p4s2w12">
@@ -2367,7 +2372,10 @@
 <LM>w#w-ln94204-106-p4s2w18</LM>
 </w.rf>
 <form>reggae</form>
-<tag lemma="reggae_;u_,t" src="auto" selected="1">NNNXX-----A----</tag>
+<tag>
+<AM lemma="reggae_;u_,t" src="auto">NNNXX-----A----</AM>
+<AM lemma="reggae" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-106-p4s2w19">
 <src.rf>manual</src.rf>
@@ -2589,7 +2597,8 @@
 <form>Sandinista</form>
 <tag>
 <AM lemma="sandinista" src="orig">NNMS1-----A----</AM>
-<AM lemma="Sandinista-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Sandinista-77" src="manual">F%-------------</AM>
+<AM lemma="sandinista" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94204-106-p4s4w13">

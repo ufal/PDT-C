@@ -2415,7 +2415,11 @@
 <LM>w#w-ln94201-38-p5s3w11</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Bohemia_;K" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bohemia_;K_;m" src="manual">NNFS1-----A----</AM>
+<AM lemma="Bohemia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-38-p5s3w12">
 <src.rf>manual</src.rf>
@@ -2425,7 +2429,9 @@
 <form>Art</form>
 <tag>
 <AM lemma="Art-3_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="art" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="art" src="manual">NNIXX-----A----</AM>
+<AM lemma="art-1" src="manual">NNIS1-----A----</AM>
+<AM lemma="Art-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-38-p5s3w13">
@@ -2483,8 +2489,9 @@
 </w.rf>
 <form>Poldi</form>
 <tag>
-<AM lemma="Poldi_;K_;Y" src="auto" selected="1">NNFXX-----A----</AM>
+<AM lemma="Poldi_;K_;Y" src="auto">NNFXX-----A----</AM>
 <AM lemma="Poldi_;K" src="manual">NNNXX-----A----</AM>
+<AM lemma="Poldi-1_;K" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-38-p5s3w20">
@@ -3107,7 +3114,10 @@
 <LM>w#w-ln94201-38-p5s7w5</LM>
 </w.rf>
 <form>Bohemia</form>
-<tag lemma="Bohemia_;K" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="Bohemia_;K" src="orig">NNFXX-----A----</AM>
+<AM lemma="Bohemia-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-38-p5s7w6">
 <src.rf>manual</src.rf>
@@ -3117,7 +3127,8 @@
 <form>Art</form>
 <tag>
 <AM lemma="Art-3_;K_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="art" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="art" src="manual">NNIXX-----A----</AM>
+<AM lemma="Art-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln94201-38-p5s7w7">

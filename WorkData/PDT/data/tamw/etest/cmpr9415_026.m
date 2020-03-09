@@ -2651,7 +2651,8 @@
 <form>geschäftsführer</form>
 <tag>
 <AM lemma="geschäftsführer_,t" src="orig">NNMXX-----A----</AM>
-<AM lemma="geschäftsführer-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="geschäftsführer-77" src="manual">F%-------------</AM>
+<AM lemma="geschäftsführer" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9415-026-p10s1w17">

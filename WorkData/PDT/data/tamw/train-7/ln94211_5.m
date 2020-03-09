@@ -6143,7 +6143,8 @@
 <AM lemma="Apple_;K" src="auto">NNIS5-----A----</AM>
 <AM lemma="Apple_;K" src="auto">NNISX-----A----</AM>
 <AM lemma="apple_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="Apple-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Apple-77" src="manual">F%-------------</AM>
+<AM lemma="Apple_;K" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-5-p10s3w13">

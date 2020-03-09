@@ -428,7 +428,10 @@
 <LM>w#w-lnd92255-098-p2s3w33</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-lnd92255-098-p2s3w34">
 <src.rf>manual</src.rf>

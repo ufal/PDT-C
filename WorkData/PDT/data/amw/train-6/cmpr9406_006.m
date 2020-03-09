@@ -5408,8 +5408,9 @@
 </w.rf>
 <form>super</form>
 <tag>
-<AM lemma="super-2_^(benzín)" src="orig" selected="1">NNIS1-----A----</AM>
+<AM lemma="super-2_^(benzín)" src="orig">NNIS1-----A----</AM>
 <AM lemma="super_,h_,t" src="auto" recommended="1">AAXXX----1A----</AM>
+<AM lemma="super-2" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9406-006-p17s7w5">

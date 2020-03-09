@@ -1459,7 +1459,10 @@
 <LM>w#w-ln95043-030-p3s3w5</LM>
 </w.rf>
 <form>anti</form>
-<tag lemma="anti" src="orig" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="anti" src="orig">TT-------------</AM>
+<AM lemma="anti" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m-ln95043-030-p3s3w6">
 <src.rf>manual</src.rf>

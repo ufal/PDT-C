@@ -29,7 +29,9 @@
 <form>Almu</form>
 <tag>
 <AM lemma="Alma_;Y" src="orig">NNFS4-----A----</AM>
-<AM lemma="Alma-2_;K" src="manual" selected="1">NNFS4-----A----</AM>
+<AM lemma="Alma-2_;K" src="manual">NNFS4-----A----</AM>
+<AM lemma="Alma-2_;K_;Y" src="manual">NNFS4-----A----</AM>
+<AM lemma="Alma_;K_;Y" src="manual" selected="1">NNFS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-113-p1s1w3">
@@ -108,7 +110,8 @@
 <form>Alma</form>
 <tag>
 <AM lemma="Alma_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Alma-2_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Alma-2_;K" src="manual">NNFS1-----A----</AM>
+<AM lemma="Alma_;K_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-113-p2s1Bw5">
@@ -530,7 +533,8 @@
 <form>Alma</form>
 <tag>
 <AM lemma="Alma_;Y" src="orig">NNFS1-----A----</AM>
-<AM lemma="Alma-2_;K" src="manual" selected="1">NNFS1-----A----</AM>
+<AM lemma="Alma-2_;K" src="manual">NNFS1-----A----</AM>
+<AM lemma="Alma_;K_;Y" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95041-113-p3s1w5">

@@ -3624,7 +3624,10 @@
 <LM>w#w-ln94202-81-p6s7w7</LM>
 </w.rf>
 <form>diskusi</form>
-<tag lemma="diskuse" src="orig" selected="1">NNFS6-----A----</tag>
+<tag>
+<AM lemma="diskuse" src="orig">NNFS6-----A----</AM>
+<AM lemma="diskuse_,s_^(^DD**diskuze)" src="manual" selected="1">NNFS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94202-81-p6s7w8">
 <src.rf>manual</src.rf>

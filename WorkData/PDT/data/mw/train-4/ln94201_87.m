@@ -7981,7 +7981,10 @@
 <LM>w#w-ln94201-87-p6s4w65</LM>
 </w.rf>
 <form>Zabrze</form>
-<tag lemma="Zabrze_;G" src="auto" selected="1">NNNSX-----A----</tag>
+<tag>
+<AM lemma="Zabrze_;G" src="auto">NNNSX-----A----</AM>
+<AM lemma="Zabrze_;G" src="manual" selected="1">NNNXX-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94201-87-p6s4w66">
 <src.rf>manual</src.rf>
@@ -8010,7 +8013,8 @@
 <form>Wacker</form>
 <tag>
 <AM lemma="Wacker_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Wacker-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Wacker-2_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Wacker-2_;K" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94201-87-p6s4w69">

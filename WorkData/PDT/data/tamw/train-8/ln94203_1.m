@@ -119,7 +119,8 @@
 <form>KRESBA</form>
 <tag>
 <AM lemma="kresba" src="orig">NNFS1-----A----</AM>
-<AM lemma="KRESBA-88_:B" src="manual" selected="1">NNXXX-----A---8</AM>
+<AM lemma="KRESBA-88_:B" src="manual">NNXXX-----A---8</AM>
+<AM lemma="kresba" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 </s>

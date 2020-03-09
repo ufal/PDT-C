@@ -1553,7 +1553,10 @@
 <LM>w#w-ln95049-035-p3s5w8</LM>
 </w.rf>
 <form>suchu</form>
-<tag lemma="sucho" src="orig" selected="1">NNNS6-----A----</tag>
+<tag>
+<AM lemma="sucho" src="orig">NNNS6-----A----</AM>
+<AM lemma="sucho-2" src="manual" selected="1">NNNS6-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95049-035-p3s5w9">
 <src.rf>manual</src.rf>

@@ -1096,7 +1096,10 @@
 <LM>w#w-ln94204-18-p5s2w17</LM>
 </w.rf>
 <form>dobytek</form>
-<tag lemma="dobytek" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="dobytek" src="auto">NNIS4-----A----</AM>
+<AM lemma="dobytek-1_^(zvířata)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94204-18-p5s2w18">
 <src.rf>manual</src.rf>

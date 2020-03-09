@@ -56,7 +56,8 @@
 <AM lemma="super_,h_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="super_,h" src="manual">AAXXX----1A----</AM>
 <AM lemma="super-1_;R" src="manual">NNXXX-----A----</AM>
-<AM lemma="super-1_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="super-1_;R" src="manual">NNIS1-----A----</AM>
+<AM lemma="super-2" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 </s>
@@ -441,7 +442,8 @@
 <AM lemma="super_,h_,t" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="super_,h" src="manual">AAXXX----1A----</AM>
 <AM lemma="super-1_;R" src="manual">NNXXX-----A----</AM>
-<AM lemma="super-1_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="super-1_;R" src="manual">NNIS1-----A----</AM>
+<AM lemma="super-2" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94206-146-p2s3w13">

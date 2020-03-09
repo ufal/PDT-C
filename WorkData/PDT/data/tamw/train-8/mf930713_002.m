@@ -3413,7 +3413,8 @@
 <AM lemma="art-2_;K" src="orig">NNISX-----A----</AM>
 <AM lemma="art" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="art" src="auto">NNIS4-----A----</AM>
-<AM lemma="art-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="art-77" src="manual">F%-------------</AM>
+<AM lemma="art-1" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-002-p19s1w16">
@@ -3577,7 +3578,8 @@
 <AM lemma="art-2_;K" src="orig">NNISX-----A----</AM>
 <AM lemma="art" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="art" src="auto">NNIS4-----A----</AM>
-<AM lemma="art-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="art-77" src="manual">F%-------------</AM>
+<AM lemma="art-1" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-002-p20s1w13">
@@ -13126,7 +13128,7 @@
 </w.rf>
 <form>Matičky</form>
 <tag>
-<AM lemma="Matička_;S" src="orig">NNMS2-----A----</AM>
+<AM lemma="Matička_;S" src="orig" selected="1">NNMS2-----A----</AM>
 <AM lemma="matička-1_^(^DI*5ka-1)_(malá_součástka)" src="auto">NNFP1-----A----</AM>
 <AM lemma="matička-1_^(^DI*5ka-1)_(malá_součástka)" src="auto">NNFP4-----A----</AM>
 <AM lemma="matička-1_^(^DI*5ka-1)_(malá_součástka)" src="auto">NNFP5-----A----</AM>
@@ -13135,7 +13137,7 @@
 <AM lemma="matička-2_^(^DI*5ka-2)_(maminka)" src="auto">NNFP4-----A----</AM>
 <AM lemma="matička-2_^(^DI*5ka-2)_(maminka)" src="auto">NNFP5-----A----</AM>
 <AM lemma="matička-2_^(^DI*5ka-2)_(maminka)" src="auto">NNFS2-----A----</AM>
-<AM lemma="Matička-3_;S" src="manual" selected="1">NNMS2-----A----</AM>
+<AM lemma="Matička-3_;S" src="manual">NNMS2-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930713-002-p81s2w30">

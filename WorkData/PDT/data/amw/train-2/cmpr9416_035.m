@@ -135,7 +135,10 @@
 <LM>w#w-cmpr9416-035-p4s1w3</LM>
 </w.rf>
 <form>strašáky</form>
-<tag lemma="strašák" src="orig" selected="1">NNMP4-----A----</tag>
+<tag>
+<AM lemma="strašák" src="orig">NNMP4-----A----</AM>
+<AM lemma="strašák-2" src="manual" selected="1">NNIP4-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-035-p4s1w4">
 <src.rf>manual</src.rf>
@@ -5000,7 +5003,11 @@
 <LM>w#w-cmpr9416-035-p23s1w3</LM>
 </w.rf>
 <form>STRAŠÁK</form>
-<tag lemma="strašák" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="strašák" src="orig">NNMS1-----A----</AM>
+<AM lemma="strašák-1" src="manual">NNMS1-----A----</AM>
+<AM lemma="strašák-2" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9416-035-p23s1w4">
 <src.rf>manual</src.rf>

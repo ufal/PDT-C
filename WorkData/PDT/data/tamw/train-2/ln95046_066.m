@@ -68,7 +68,10 @@
 <LM>w#w-ln95046-066-p1s1w7</LM>
 </w.rf>
 <form>gumáky</form>
-<tag lemma="gumák" src="orig" selected="1">NNMP4-----A----</tag>
+<tag>
+<AM lemma="gumák" src="orig">NNMP4-----A----</AM>
+<AM lemma="gumák-2" src="manual" selected="1">NNMP4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln95046-066-p1s1w8">
 <src.rf>manual</src.rf>

@@ -4190,7 +4190,10 @@
 <LM>w#w-ln94210-122-p4s11w10</LM>
 </w.rf>
 <form>krátko</form>
-<tag lemma="krátko" src="orig" selected="1">Db-------------</tag>
+<tag>
+<AM lemma="krátko" src="orig">Db-------------</AM>
+<AM lemma="krátko-2" src="manual" selected="1">NNNS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94210-122-p4s11w11">
 <src.rf>manual</src.rf>

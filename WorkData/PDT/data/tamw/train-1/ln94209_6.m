@@ -2110,7 +2110,8 @@
 <form>Mega</form>
 <tag>
 <AM lemma="Mega_;G" src="orig">NNFS1-----A----</AM>
-<AM lemma="mega" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="mega" src="manual">AAXXX----1A----</AM>
+<AM lemma="mega-1" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-6-p6s1w17">

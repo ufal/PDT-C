@@ -1977,7 +1977,8 @@
 <form>Sokolové</form>
 <tag>
 <AM lemma="Sokol-1_;S" src="orig">NNMP1-----A----</AM>
-<AM lemma="sokol-2_;K_^(organizace)" src="manual" selected="1">NNIP1-----A----</AM>
+<AM lemma="sokol-2_;K_^(organizace)" src="manual">NNIP1-----A----</AM>
+<AM lemma="sokol-1" src="manual" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94104-076-p1s15w7">

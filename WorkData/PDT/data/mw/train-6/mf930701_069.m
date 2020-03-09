@@ -254,7 +254,8 @@
 <AM lemma="forman" src="auto">NNMS2-----A----</AM>
 <AM lemma="forman" src="auto" recommended="1">NNMS4-----A----</AM>
 <AM lemma="forman-2_;R_^(vozidlo)" src="manual">NNMS4-----A----</AM>
-<AM lemma="forman-2_;R_^(vozidlo)" src="manual" selected="1">NNMS4-----A----</AM>
+<AM lemma="forman-2_;R_^(vozidlo)" src="manual">NNMS4-----A----</AM>
+<AM lemma="forman-2_;R_^(vozidlo)" src="manual" selected="1">NNIS4-----A---1</AM>
 </tag>
 </m>
 <m id="m-mf930701-069-p4s2w4">

@@ -217,7 +217,9 @@
 <form>Reuter</form>
 <tag>
 <AM lemma="Reuter_;K" src="orig">NNMS1-----A----</AM>
-<AM lemma="Reuter-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Reuter-77" src="manual">F%-------------</AM>
+<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual">NNIS1-----A----</AM>
+<AM lemma="Reuter-2_;K_,i_^(^DS**Reuters)" src="manual" selected="1">NNIXX-----A----</AM>
 </tag>
 </m>
 </s>

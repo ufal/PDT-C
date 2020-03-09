@@ -1632,7 +1632,8 @@
 <form>li</form>
 <tag>
 <AM lemma="li-1" src="auto">TT-------------</AM>
-<AM lemma="li-1" src="manual" selected="1">J,-------------</AM>
+<AM lemma="li-1" src="manual">J,-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
 </tag>
 </m>
 <m id="m-ln94202-59-p4s2w11">

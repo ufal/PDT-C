@@ -3991,7 +3991,8 @@
 <form>Todd</form>
 <tag>
 <AM lemma="Todd_;Y" src="auto">NNMS1-----A----</AM>
-<AM lemma="Todd-2_;S_;Y" src="manual" selected="1">NNFXX-----A----</AM>
+<AM lemma="Todd-2_;S_;Y" src="manual">NNFXX-----A----</AM>
+<AM lemma="Todd_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-075-p9s2w21">

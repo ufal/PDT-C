@@ -110,7 +110,8 @@
 <tag>
 <AM lemma="Nadj_;K" src="orig">NNXXX-----A---8</AM>
 <AM lemma="Nadj_;S" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Nadj-2_;K" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Nadj-2_;K" src="manual">NNXXX-----A----</AM>
+<AM lemma="Nadj-2_;m" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-080-p2s1w7">

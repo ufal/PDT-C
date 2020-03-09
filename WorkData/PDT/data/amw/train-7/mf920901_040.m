@@ -863,7 +863,10 @@
 <LM>w#w-mf920901-040-p3s1w21</LM>
 </w.rf>
 <form>sucha</form>
-<tag lemma="sucho" src="orig" selected="1">NNNS2-----A----</tag>
+<tag>
+<AM lemma="sucho" src="orig">NNNS2-----A----</AM>
+<AM lemma="sucho-2" src="manual" selected="1">NNNS2-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-040-p3s1w22">
 <src.rf>manual</src.rf>

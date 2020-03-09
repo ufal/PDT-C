@@ -6099,7 +6099,10 @@
 <LM>w#w-mf930703-118-p13s3w11</LM>
 </w.rf>
 <form>Warner</form>
-<tag lemma="Warner_;S" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="Warner_;S" src="orig">NNMS1-----A----</AM>
+<AM lemma="Warner-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 <m id="m-mf930703-118-p13s3w12">
 <src.rf>manual</src.rf>
@@ -7334,8 +7337,8 @@
 </w.rf>
 <form>Baby</form>
 <tag>
-<AM lemma="baby-2" src="auto">AAXXX----1A----</AM>
-<AM lemma="Baby-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="baby-2" src="auto" selected="1">AAXXX----1A----</AM>
+<AM lemma="Baby-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-118-p14s1w23">
@@ -7345,8 +7348,8 @@
 </w.rf>
 <form>studio</form>
 <tag>
-<AM lemma="studio" src="orig">NNNS1-----A----</AM>
-<AM lemma="studio-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="studio" src="orig" selected="1">NNNS1-----A----</AM>
+<AM lemma="studio-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-118-p14s1w24">

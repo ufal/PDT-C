@@ -147,7 +147,10 @@
 <LM>w#w-lnd92255-017-p1s1w17</LM>
 </w.rf>
 <form>dobytka</form>
-<tag lemma="dobytek" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="dobytek" src="orig">NNMS2-----A----</AM>
+<AM lemma="dobytek-1_^(zvířata)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-017-p1s1w18">
 <src.rf>manual</src.rf>

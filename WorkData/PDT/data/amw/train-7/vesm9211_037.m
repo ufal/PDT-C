@@ -749,7 +749,10 @@
 <LM>w#w-vesm9211-037-p2s3w19</LM>
 </w.rf>
 <form>dobytku</form>
-<tag lemma="dobytek" src="orig" selected="1">NNMS6-----A---1</tag>
+<tag>
+<AM lemma="dobytek" src="orig">NNMS6-----A---1</AM>
+<AM lemma="dobytek-1_^(zvířata)" src="manual" selected="1">NNIS6-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9211-037-p2s3w20">
 <src.rf>manual</src.rf>

@@ -2172,7 +2172,9 @@
 <tag>
 <AM lemma="Todd_;S" src="orig">NNFXX-----A----</AM>
 <AM lemma="Todd_;Y" src="auto" recommended="1">NNMS1-----A----</AM>
-<AM lemma="Todd-2" src="manual" selected="1">A2--------A----</AM>
+<AM lemma="Todd-2" src="manual">A2--------A----</AM>
+<AM lemma="Todd_;Y" src="manual">NNMS1-----A----</AM>
+<AM lemma="Todd_;Y" src="manual" selected="1">NNMXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95047-070-p5s1w34">

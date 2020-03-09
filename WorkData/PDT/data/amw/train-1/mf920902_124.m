@@ -522,7 +522,8 @@
 <tag>
 <AM lemma="keto_,t" src="orig">NNXXX-----A----</AM>
 <AM lemma="Keta_;G" src="auto" recommended="1">NNFS5-----A----</AM>
-<AM lemma="keto" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="keto" src="manual">NNXXX-----A----</AM>
+<AM lemma="KETO-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf920902-124-p23s1w3">

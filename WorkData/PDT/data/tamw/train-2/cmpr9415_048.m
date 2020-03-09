@@ -1789,7 +1789,10 @@
 <LM>w#w-cmpr9415-048-p8s5w14</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9415-048-p8s5w15">
 <src.rf>manual</src.rf>

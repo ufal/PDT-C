@@ -2413,7 +2413,10 @@
 <LM>w#w-mf920925-060-p5s6w2</LM>
 </w.rf>
 <form>Sokola</form>
-<tag lemma="sokol-1_;L_^(pták)" src="auto" selected="1">NNMS4-----A----</tag>
+<tag>
+<AM lemma="sokol-1_;L_^(pták)" src="auto">NNMS4-----A----</AM>
+<AM lemma="sokol-1" src="manual" selected="1">NNMS4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920925-060-p5s6w3">
 <src.rf>manual</src.rf>

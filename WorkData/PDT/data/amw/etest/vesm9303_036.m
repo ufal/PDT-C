@@ -7946,7 +7946,10 @@
 <LM>w#w-vesm9303-036-p26s3w12</LM>
 </w.rf>
 <form>dobytka</form>
-<tag lemma="dobytek" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="dobytek" src="orig">NNMS2-----A----</AM>
+<AM lemma="dobytek-1_^(zvířata)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-036-p26s3w13">
 <src.rf>manual</src.rf>
@@ -8631,7 +8634,10 @@
 <LM>w#w-vesm9303-036-p27s4w21</LM>
 </w.rf>
 <form>dobytek</form>
-<tag lemma="dobytek" src="auto" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="dobytek" src="auto">NNIS4-----A----</AM>
+<AM lemma="dobytek-1_^(zvířata)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9303-036-p27s4w22">
 <src.rf>manual</src.rf>

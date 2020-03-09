@@ -29,7 +29,8 @@
 <form>vicemiss</form>
 <tag>
 <AM lemma="vicemiss_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="vicemiss-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="vicemiss-77" src="manual">F%-------------</AM>
+<AM lemma="vicemiss" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-111-p1s1w3">
@@ -128,7 +129,8 @@
 <form>vicemiss</form>
 <tag>
 <AM lemma="vicemiss_,t" src="auto">NNFXX-----A----</AM>
-<AM lemma="vicemiss-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="vicemiss-77" src="manual">F%-------------</AM>
+<AM lemma="vicemiss" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95049-111-p1s1w15">

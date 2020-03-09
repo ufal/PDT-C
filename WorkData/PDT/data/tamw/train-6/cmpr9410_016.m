@@ -111,7 +111,10 @@
 <LM>w#w-cmpr9410-016-p4s1w4</LM>
 </w.rf>
 <form>strašák</form>
-<tag lemma="strašák" src="orig" selected="1">NNMS1-----A----</tag>
+<tag>
+<AM lemma="strašák" src="orig">NNMS1-----A----</AM>
+<AM lemma="strašák-2" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-016-p4s1w5">
 <src.rf>manual</src.rf>

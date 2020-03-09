@@ -1467,7 +1467,10 @@
 <LM>w#w-vesm9301-003-p5s2w4</LM>
 </w.rf>
 <form>sucha</form>
-<tag lemma="sucho" src="orig" selected="1">NNNP4-----A----</tag>
+<tag>
+<AM lemma="sucho" src="orig">NNNP4-----A----</AM>
+<AM lemma="sucho-2" src="manual" selected="1">NNNP4-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9301-003-p5s2w5">
 <src.rf>manual</src.rf>

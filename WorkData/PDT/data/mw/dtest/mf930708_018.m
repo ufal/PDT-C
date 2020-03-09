@@ -87,7 +87,8 @@
 <form>li</form>
 <tag>
 <AM lemma="li-1" src="auto">TT-------------</AM>
-<AM lemma="li-99_:B_;S" src="manual" selected="1">J,-------------</AM>
+<AM lemma="li-99_:B_;S" src="manual">J,-------------</AM>
+<AM lemma="li-99_;S" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-mf930708-018-p2s1w4">

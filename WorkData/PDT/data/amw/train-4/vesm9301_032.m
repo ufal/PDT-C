@@ -3214,7 +3214,10 @@
 <LM>w#w-vesm9301-032-p7s1w3</LM>
 </w.rf>
 <form>drobcích</form>
-<tag lemma="drobek" src="auto" selected="1">NNMP6-----A----</tag>
+<tag>
+<AM lemma="drobek" src="auto">NNMP6-----A----</AM>
+<AM lemma="drobek-1" src="manual" selected="1">NNIP6-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9301-032-p7s1w4">
 <src.rf>manual</src.rf>

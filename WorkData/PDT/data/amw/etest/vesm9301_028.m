@@ -4880,7 +4880,10 @@
 <LM>w#w-vesm9301-028-p9s2w17</LM>
 </w.rf>
 <form>nanosekund</form>
-<tag lemma="ns-2`nanosekunda" src="orig" selected="1">NNFP2-----A----</tag>
+<tag>
+<AM lemma="ns-2`nanosekunda" src="orig">NNFP2-----A----</AM>
+<AM lemma="nanosekunda" src="manual" selected="1">NNFP2-----A----</AM>
+</tag>
 </m>
 <m id="m-vesm9301-028-p9s2w18">
 <src.rf>manual</src.rf>

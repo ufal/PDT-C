@@ -1928,7 +1928,8 @@
 <form>Ludwig</form>
 <tag>
 <AM lemma="Ludwig_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Ludwig-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Ludwig-77" src="manual">F%-------------</AM>
+<AM lemma="Ludwig_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-070-p3s6w39">

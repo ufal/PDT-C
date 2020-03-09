@@ -1824,8 +1824,8 @@
 </w.rf>
 <form>Newmann</form>
 <tag>
-<AM lemma="Newmann_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Newmann-2_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Newmann_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Newmann-2_;R" src="manual">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-97-p2s13w7">
@@ -1835,8 +1835,8 @@
 </w.rf>
 <form>Haas</form>
 <tag>
-<AM lemma="Haas_;S" src="orig">NNMS1-----A----</AM>
-<AM lemma="Haas-2_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Haas_;S" src="orig" selected="1">NNMS1-----A----</AM>
+<AM lemma="Haas-2_;R" src="manual">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94209-97-p2s13w8">

@@ -717,7 +717,10 @@
 <LM>w#w-ln94206-96-p2s3w12</LM>
 </w.rf>
 <form>rakousko</form>
-<tag lemma="rakouský" src="orig" selected="1">A2--------A----</tag>
+<tag>
+<AM lemma="rakouský" src="orig">A2--------A----</AM>
+<AM lemma="rakouský" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-96-p2s3w13">
 <src.rf>manual</src.rf>
@@ -837,7 +840,10 @@
 <LM>w#w-ln94206-96-p2s3w27</LM>
 </w.rf>
 <form>anti</form>
-<tag lemma="anti" src="orig" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="anti" src="orig">TT-------------</AM>
+<AM lemma="anti" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-96-p2s3w28">
 <src.rf>manual</src.rf>

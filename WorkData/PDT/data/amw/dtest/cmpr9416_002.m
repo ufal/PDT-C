@@ -10001,7 +10001,8 @@
 <AM lemma="drobek" src="orig">NNIP4-----A----</AM>
 <AM lemma="drobek" src="auto" recommended="1">NNMP4-----A----</AM>
 <AM lemma="drobek" src="auto">NNMP7-----A----</AM>
-<AM lemma="drobek-2" src="manual" selected="1">NNIP4-----A----</AM>
+<AM lemma="drobek-2" src="manual">NNIP4-----A----</AM>
+<AM lemma="drobek-1" src="manual" selected="1">NNIP4-----A----</AM>
 </tag>
 </m>
 <m id="m-cmpr9416-002-p36s3w12">

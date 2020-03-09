@@ -13187,7 +13187,10 @@
 <LM>w#w-ln94207-84-p18s2w21</LM>
 </w.rf>
 <form>dobytku</form>
-<tag lemma="dobytek" src="orig" selected="1">NNMS6-----A---1</tag>
+<tag>
+<AM lemma="dobytek" src="orig">NNMS6-----A---1</AM>
+<AM lemma="dobytek-2_^(nadávka)" src="manual" selected="1">NNMS6-----A---1</AM>
+</tag>
 </m>
 <m id="m-ln94207-84-p18s2w22">
 <src.rf>manual</src.rf>

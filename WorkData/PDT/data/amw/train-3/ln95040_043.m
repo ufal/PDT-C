@@ -3816,7 +3816,8 @@
 <form>pop</form>
 <tag>
 <AM lemma="pop-1_^(círk.)" src="orig">NNMS1-----A----</AM>
-<AM lemma="pop-3_^(př._ve_spojení_pop_music)" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="pop-3_^(př._ve_spojení_pop_music)" src="manual">AAXXX----1A----</AM>
+<AM lemma="pop-3" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-043-p4s6w31">
@@ -3851,7 +3852,8 @@
 <form>op</form>
 <tag>
 <AM lemma="op" src="orig">NNMS1-----A----</AM>
-<AM lemma="op-2" src="manual" selected="1">AAXXX----1A----</AM>
+<AM lemma="op-2" src="manual">AAXXX----1A----</AM>
+<AM lemma="op-2" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-ln95040-043-p4s6w35">

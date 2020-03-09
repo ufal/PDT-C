@@ -2517,7 +2517,10 @@
 <LM>w#w-lnd92251-078-p8s2w5</LM>
 </w.rf>
 <form>strašákem</form>
-<tag lemma="strašák" src="orig" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="strašák" src="orig">NNMS7-----A----</AM>
+<AM lemma="strašák-2" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92251-078-p8s2w6">
 <src.rf>manual</src.rf>

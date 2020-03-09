@@ -2647,7 +2647,10 @@
 <LM>w#w-mf930701-145-p70s1w3</LM>
 </w.rf>
 <form>ART</form>
-<tag lemma="art" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="art" src="orig">NNIS1-----A----</AM>
+<AM lemma="ART-77" src="manual" selected="1">F%-------------</AM>
+</tag>
 </m>
 </s>
 <s id="m-mf930701-145-p71s1">

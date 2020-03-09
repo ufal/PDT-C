@@ -1631,7 +1631,10 @@
 <LM>w#w-lnd92257-071-p3s10w8</LM>
 </w.rf>
 <form>punkem</form>
-<tag lemma="punk" src="orig" selected="1">NNIS7-----A----</tag>
+<tag>
+<AM lemma="punk" src="orig">NNIS7-----A----</AM>
+<AM lemma="punk-1" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92257-071-p3s10w9">
 <src.rf>manual</src.rf>
@@ -1649,7 +1652,8 @@
 <form>hard</form>
 <tag>
 <AM lemma="hard_,t_^(tvrdý,_pevný)" src="auto">AAXXX----1A----</AM>
-<AM lemma="hard-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="hard-77" src="manual">F%-------------</AM>
+<AM lemma="hard-1" src="manual" selected="1">AAXXX----1A----</AM>
 </tag>
 </m>
 <m id="m-lnd92257-071-p3s10w11">

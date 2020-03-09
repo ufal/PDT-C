@@ -2997,7 +2997,9 @@
 <form>double</form>
 <tag>
 <AM lemma="double_,t_^(dvojitý)" src="orig">AAXXX----1A----</AM>
-<AM lemma="double-2" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="double-2" src="manual">NNXXX-----A----</AM>
+<AM lemma="double-1_,s_^(^DD**debl)" src="manual">NNIXX-----A----</AM>
+<AM lemma="double-1_,s_^(^DD**debl)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94105-114-p1s14w19">

@@ -5717,7 +5717,10 @@
 <LM>w#w-cmpr9407-048-p25s2w3</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9407-048-p25s2w4">
 <src.rf>manual</src.rf>

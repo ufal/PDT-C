@@ -304,7 +304,8 @@
 <form>mini</form>
 <tag>
 <AM lemma="mini_,h_,t" src="auto">AAXXX----1A----</AM>
-<AM lemma="mini-2" src="manual" selected="1">A2--------A----</AM>
+<AM lemma="mini-2" src="manual">A2--------A----</AM>
+<AM lemma="mini-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-vesm9303-010-p1s2w8">

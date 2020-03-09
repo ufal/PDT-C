@@ -7470,7 +7470,8 @@
 <AM lemma="double-2_,t_^(ve_sportu)" src="orig">NNIS4-----A----</AM>
 <AM lemma="double_,t_^(dvojitý)" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="double-2_,t" src="manual">NNXXX-----A----</AM>
-<AM lemma="double-2" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="double-2" src="manual">NNXXX-----A----</AM>
+<AM lemma="double-1_,s_^(^DD**debl)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94202-106-p11s3w39">

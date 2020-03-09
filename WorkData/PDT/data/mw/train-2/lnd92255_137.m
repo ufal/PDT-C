@@ -5427,7 +5427,11 @@
 <LM>w#w-lnd92255-137-p16s4w1</LM>
 </w.rf>
 <form>Ofelie</form>
-<tag lemma="Ofelie_;Y" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Ofelie_;Y" src="orig">NNFS1-----A----</AM>
+<AM lemma="Ofelie_;Y_,s_^(^DD**Ofélie)" src="manual">NNFS1-----A----</AM>
+<AM lemma="Ofelie_;Y_,s_^(^DD**Ofélie)" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-137-p16s4w2">
 <src.rf>manual</src.rf>
@@ -5617,7 +5621,10 @@
 <LM>w#w-lnd92255-137-p16s8w1</LM>
 </w.rf>
 <form>Oravice</form>
-<tag lemma="Oravice_;G" src="orig" selected="1">NNFS1-----A----</tag>
+<tag>
+<AM lemma="Oravice_;G" src="orig">NNFS1-----A----</AM>
+<AM lemma="Oravice_;G_;Y" src="manual" selected="1">NNFS1-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92255-137-p16s8w2">
 <src.rf>manual</src.rf>

@@ -637,7 +637,10 @@
 <LM>w#w-mf930701-049-p2s5w2</LM>
 </w.rf>
 <form>dobytkem</form>
-<tag lemma="dobytek" src="orig" selected="1">NNMS7-----A----</tag>
+<tag>
+<AM lemma="dobytek" src="orig">NNMS7-----A----</AM>
+<AM lemma="dobytek-1_^(zvířata)" src="manual" selected="1">NNIS7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf930701-049-p2s5w3">
 <src.rf>manual</src.rf>

@@ -2911,7 +2911,10 @@
 <LM>w#w-ln94201-102-p7s4w13</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-ln94201-102-p7s4w14">
 <src.rf>manual</src.rf>

@@ -340,7 +340,8 @@
 <AM lemma="double-77" src="manual">F%-------------</AM>
 <AM lemma="double__^(dvojitý)" src="manual">AAXXX----1A----</AM>
 <AM lemma="double_^(dvojitý)" src="manual">AAXXX----1A----</AM>
-<AM lemma="double-2" src="manual" selected="1">NNIS4-----A----</AM>
+<AM lemma="double-2" src="manual">NNIS4-----A----</AM>
+<AM lemma="double-1_,s_^(^DD**debl)" src="manual" selected="1">NNIS4-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd94103-140-p1s3w17">

@@ -2116,7 +2116,10 @@
 <LM>w#w-vesm9301-006-p5s4w22</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-vesm9301-006-p5s4w23">
 <src.rf>manual</src.rf>

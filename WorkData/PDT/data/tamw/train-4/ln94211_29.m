@@ -1425,8 +1425,8 @@
 </w.rf>
 <form>řekl</form>
 <tag>
-<AM lemma="říci" src="auto">VpYS----R-AAP--</AM>
-<AM lemma="řekl-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="říci" src="auto" selected="1">VpYS----R-AAP--</AM>
+<AM lemma="řekl-88_:B" src="manual">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94211-29-p3s5w24">

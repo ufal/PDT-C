@@ -257,7 +257,9 @@
 <form>Cup</form>
 <tag>
 <AM lemma="Cup-1_;m_;w_,t_^(pohár,_soutěž;_v_názvech)" src="auto">NNIS1-----A----</AM>
-<AM lemma="Cup-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Cup-77" src="manual">F%-------------</AM>
+<AM lemma="cup-1" src="manual">NNIS1-----A----</AM>
+<AM lemma="cup-1_^(pohár)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94208-96-p2s1Cw11">

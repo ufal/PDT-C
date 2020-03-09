@@ -1591,7 +1591,10 @@
 <LM>w#w-mf920924-073-p3s16w9</LM>
 </w.rf>
 <form>pocestné</form>
-<tag lemma="pocestný" src="orig" selected="1">AAMP4----1A----</tag>
+<tag>
+<AM lemma="pocestný" src="orig">AAMP4----1A----</AM>
+<AM lemma="pocestný-1" src="manual" selected="1">NNMP4-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920924-073-p3s16w10">
 <src.rf>manual</src.rf>

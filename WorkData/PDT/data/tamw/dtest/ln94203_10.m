@@ -609,7 +609,8 @@
 <AM lemma="Lipo_;R" src="auto">NNNS2-----A----</AM>
 <AM lemma="Lipa_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="Lipa_:B" src="manual">NNFS1-----A---8</AM>
-<AM lemma="Lipa-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Lipa-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Lipa_;K" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-10-p3s1w14">
@@ -1656,7 +1657,8 @@
 <AM lemma="Lipo_;R" src="auto">NNNS2-----A----</AM>
 <AM lemma="Lipa_:B" src="manual">NNXXX-----A---8</AM>
 <AM lemma="Lipa_:B" src="manual">NNFS1-----A---8</AM>
-<AM lemma="Lipa-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Lipa-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Lipa_;K" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-10-p5s1w4">
@@ -2118,7 +2120,8 @@
 <AM lemma="Lipa_:B_;K_,t_^(Liverpool_Institute_for_Performing_Arts)" src="orig">NNFS2-----A----</AM>
 <AM lemma="Lipo_;R" src="auto" recommended="1">NNNP7-----A----</AM>
 <AM lemma="Lipa_:B" src="manual">NNFS2-----A---8</AM>
-<AM lemma="Lipy-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Lipy-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Lipa_;K" src="manual" selected="1">NNFS2-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-10-p6s1w8">
@@ -3279,7 +3282,8 @@
 <AM lemma="Lipo_;R" src="auto">NNNP5-----A----</AM>
 <AM lemma="Lipo_;R" src="auto">NNNS2-----A----</AM>
 <AM lemma="Lipa_:B" src="manual">NNFS1-----A---8</AM>
-<AM lemma="Lipa-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Lipa-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Lipa_;K" src="manual" selected="1">NNFS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln94203-10-p7s4w6">
@@ -3296,7 +3300,10 @@
 <LM>w#w-ln94203-10-p7s4w7</LM>
 </w.rf>
 <form>show</form>
-<tag lemma="show" src="orig" selected="1">NNFXX-----A----</tag>
+<tag>
+<AM lemma="show" src="orig">NNFXX-----A----</AM>
+<AM lemma="show-3" src="manual" selected="1">AAXXX----1A----</AM>
+</tag>
 </m>
 <m id="m-ln94203-10-p7s4w8">
 <src.rf>manual</src.rf>

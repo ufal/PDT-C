@@ -8018,7 +8018,10 @@
 <LM>w#w-ln94207-79-p19s2w12</LM>
 </w.rf>
 <form>punk</form>
-<tag lemma="punk" src="orig" selected="1">NNIS1-----A----</tag>
+<tag>
+<AM lemma="punk" src="orig">NNIS1-----A----</AM>
+<AM lemma="punk-1" src="manual" selected="1">NNIS1-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94207-79-p19s2w13">
 <src.rf>manual</src.rf>

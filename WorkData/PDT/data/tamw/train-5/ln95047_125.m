@@ -1135,7 +1135,8 @@
 <form>HiNote</form>
 <tag>
 <AM lemma="HiNote_;R_,t" src="orig">NNIXX-----A----</AM>
-<AM lemma="HiNote_;R" src="manual" selected="1">NNIXX-----A----</AM>
+<AM lemma="HiNote_;R" src="manual">NNIXX-----A----</AM>
+<AM lemma="HiNote-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-125-p4s1w16">
@@ -1146,8 +1147,9 @@
 <form>Ultra</form>
 <tag>
 <AM lemma="Ultra_;R_,t" src="orig">AAXXX----1A----</AM>
-<AM lemma="ultra" src="auto" recommended="1" selected="1">AAXXX----1A----</AM>
+<AM lemma="ultra" src="auto" recommended="1">AAXXX----1A----</AM>
 <AM lemma="ultra_,h_,s" src="auto">A2--------A----</AM>
+<AM lemma="Ultra-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-ln95047-125-p4s1w17">

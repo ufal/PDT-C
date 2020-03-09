@@ -1052,7 +1052,8 @@
 <tag>
 <AM lemma="Bounty-1_;R_^(jméno_lodě)" src="auto">NNFXX-----A----</AM>
 <AM lemma="Bounty-2_;Y" src="manual">NNFXX-----A----</AM>
-<AM lemma="Bounty-1_;R_;Y_^(čokol._tyčinka_loď_kůň)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Bounty-1_;R_;Y_^(čokol._tyčinka_loď_kůň)" src="manual">NNXXX-----A----</AM>
+<AM lemma="Bounty-1_;R_;Y_^(čokol._tyčinka_loď_kůň)" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92251-112-p2s5w50">

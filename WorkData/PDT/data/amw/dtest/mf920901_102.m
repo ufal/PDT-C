@@ -525,7 +525,10 @@
 <LM>w#w-mf920901-102-p2s5w7</LM>
 </w.rf>
 <form>suchy</form>
-<tag lemma="sucho" src="orig" selected="1">NNNP7-----A----</tag>
+<tag>
+<AM lemma="sucho" src="orig">NNNP7-----A----</AM>
+<AM lemma="sucho-2" src="manual" selected="1">NNNP7-----A----</AM>
+</tag>
 </m>
 <m id="m-mf920901-102-p2s5w8">
 <src.rf>manual</src.rf>

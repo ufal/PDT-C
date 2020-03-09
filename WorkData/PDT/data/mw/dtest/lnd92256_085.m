@@ -4161,7 +4161,8 @@
 <AM lemma="bod" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="bod" src="auto">NNIP5-----A----</AM>
 <AM lemma="bod" src="auto">NNIP7-----A----</AM>
-<AM lemma="body-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="body-77" src="manual">F%-------------</AM>
+<AM lemma="body" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-085-p7s6w8">
@@ -4178,7 +4179,10 @@
 <LM>w#w-lnd92256-085-p7s6w9</LM>
 </w.rf>
 <form>artu</form>
-<tag lemma="art" src="orig" selected="1">NNIS2-----A----</tag>
+<tag>
+<AM lemma="art" src="orig">NNIS2-----A----</AM>
+<AM lemma="art-1" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-lnd92256-085-p7s6w10">
 <src.rf>manual</src.rf>
@@ -4354,7 +4358,8 @@
 <AM lemma="bod" src="auto" recommended="1">NNIP4-----A----</AM>
 <AM lemma="bod" src="auto">NNIP5-----A----</AM>
 <AM lemma="bod" src="auto">NNIP7-----A----</AM>
-<AM lemma="body-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="body-77" src="manual">F%-------------</AM>
+<AM lemma="body-1" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="m-lnd92256-085-p7s7w13">

@@ -1061,7 +1061,10 @@
 <LM>w#w-ln94206-64-p3s1w7</LM>
 </w.rf>
 <form>dobytka</form>
-<tag lemma="dobytek" src="orig" selected="1">NNMS2-----A----</tag>
+<tag>
+<AM lemma="dobytek" src="orig">NNMS2-----A----</AM>
+<AM lemma="dobytek-1_^(zvířata)" src="manual" selected="1">NNIS2-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-64-p3s1w8">
 <src.rf>manual</src.rf>
@@ -2685,7 +2688,10 @@
 <LM>w#w-ln94206-64-p4s7w11</LM>
 </w.rf>
 <form>dobytek</form>
-<tag lemma="dobytek" src="orig" selected="1">NNIS4-----A----</tag>
+<tag>
+<AM lemma="dobytek" src="orig">NNIS4-----A----</AM>
+<AM lemma="dobytek-1_^(zvířata)" src="manual" selected="1">NNIS4-----A----</AM>
+</tag>
 </m>
 <m id="m-ln94206-64-p4s7w12">
 <src.rf>manual</src.rf>

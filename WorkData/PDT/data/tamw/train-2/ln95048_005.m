@@ -21,7 +21,8 @@
 <form>Dow</form>
 <tag>
 <AM lemma="Dow-1_;S" src="orig">NNMXX-----A----</AM>
-<AM lemma="Dow-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Dow-77" src="manual">F%-------------</AM>
+<AM lemma="Dow-1_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-005-p1s1w2">
@@ -32,7 +33,8 @@
 <form>Jones</form>
 <tag>
 <AM lemma="Jones_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jones-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Jones-77" src="manual">F%-------------</AM>
+<AM lemma="Jones_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-005-p1s1w3">
@@ -43,7 +45,8 @@
 <form>Index</form>
 <tag>
 <AM lemma="index" src="orig">NNIS1-----A----</AM>
-<AM lemma="Index-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Index-77" src="manual">F%-------------</AM>
+<AM lemma="index" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-005-p1s1w4">
@@ -213,7 +216,8 @@
 <form>Dow</form>
 <tag>
 <AM lemma="Dow-1_;S" src="orig">NNMXX-----A----</AM>
-<AM lemma="Dow-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Dow-77" src="manual">F%-------------</AM>
+<AM lemma="Dow-1_;S" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-005-p2s1Bw15">
@@ -224,7 +228,8 @@
 <form>Jones</form>
 <tag>
 <AM lemma="Jones_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="Jones-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Jones-77" src="manual">F%-------------</AM>
+<AM lemma="Jones_;S_;Y" src="manual" selected="1">NNMS1-----A----</AM>
 </tag>
 </m>
 <m id="m-ln95048-005-p2s1Bw16">

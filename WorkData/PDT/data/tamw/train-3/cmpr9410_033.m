@@ -4039,7 +4039,10 @@
 <LM>w#w-cmpr9410-033-p16s1w5</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-033-p16s1w6">
 <src.rf>manual</src.rf>
@@ -4215,7 +4218,10 @@
 <LM>w#w-cmpr9410-033-p16s1w27</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-033-p16s1w28">
 <src.rf>manual</src.rf>
@@ -4393,7 +4399,10 @@
 <LM>w#w-cmpr9410-033-p17s1w5</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-033-p17s1w6">
 <src.rf>manual</src.rf>
@@ -4659,7 +4668,10 @@
 <LM>w#w-cmpr9410-033-p18s1w5</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-033-p18s1w6">
 <src.rf>manual</src.rf>
@@ -4877,7 +4889,10 @@
 <LM>w#w-cmpr9410-033-p19s1w5</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-cmpr9410-033-p19s1w6">
 <src.rf>manual</src.rf>

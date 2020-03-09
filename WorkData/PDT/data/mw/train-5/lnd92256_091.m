@@ -1346,7 +1346,8 @@
 <form>Scott</form>
 <tag>
 <AM lemma="Scott_;Y" src="orig">NNMS1-----A----</AM>
-<AM lemma="Scott-2_;K_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Scott-2_;K_;R" src="manual">NNIS1-----A----</AM>
+<AM lemma="Scott-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="m-lnd92256-091-p4s6w2">
@@ -1555,9 +1556,9 @@
 </w.rf>
 <form>Rex</form>
 <tag>
-<AM lemma="Rex-2_;K" src="orig">NNIS1-----A----</AM>
+<AM lemma="Rex-2_;K" src="orig" selected="1">NNIS1-----A----</AM>
 <AM lemma="Rex_;S" src="auto">NNMS1-----A----</AM>
-<AM lemma="rex" src="auto" recommended="1" selected="1">NNIS1-----A----</AM>
+<AM lemma="rex" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="rex" src="auto">NNIS4-----A----</AM>
 </tag>
 </m>

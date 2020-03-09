@@ -3207,7 +3207,8 @@
 <tag>
 <AM lemma="sokol-1_;L_^(pták)" src="auto">NNMS1-----A----</AM>
 <AM lemma="sokol-88_:B" src="manual">NNXXX-----A---8</AM>
-<AM lemma="sokol-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="sokol-88_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="sokol-2_;K_^(organizace)" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="m-lnd92252-087-p4s9w41">

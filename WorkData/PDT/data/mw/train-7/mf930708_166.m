@@ -1282,7 +1282,10 @@
 <LM>w#w-mf930708-166-p5s1w32</LM>
 </w.rf>
 <form>li</form>
-<tag lemma="li-1" src="auto" selected="1">TT-------------</tag>
+<tag>
+<AM lemma="li-1" src="auto">TT-------------</AM>
+<AM lemma="li-2" src="manual" selected="1">J,-------------</AM>
+</tag>
 </m>
 <m id="m-mf930708-166-p5s1w33">
 <src.rf>manual</src.rf>

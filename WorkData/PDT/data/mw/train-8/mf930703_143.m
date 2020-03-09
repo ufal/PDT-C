@@ -235,8 +235,8 @@
 </w.rf>
 <form>Pravda</form>
 <tag>
-<AM lemma="pravda-1" src="auto">NNFS1-----A----</AM>
-<AM lemma="Pravda-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="pravda-1" src="auto" selected="1">NNFS1-----A----</AM>
+<AM lemma="Pravda-77" src="manual">F%-------------</AM>
 </tag>
 </m>
 <m id="m-mf930703-143-p2s2w7">
