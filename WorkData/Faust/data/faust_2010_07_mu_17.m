@@ -2891,6 +2891,7 @@
 <AM lemma="Cambridge_;G" src="auto">NNFS1-----A----</AM>
 <AM lemma="Cambridge_;G" src="auto">NNFS2-----A----</AM>
 <AM lemma="Cambridge_;G" src="auto">NNFS4-----A----</AM>
+<AM lemma="Cambridge_;G" src="manual" selected="1">NNFXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_17-SCzechM-p1778-s1-w44">

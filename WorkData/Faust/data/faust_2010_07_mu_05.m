@@ -309,6 +309,7 @@
 <tag>
 <AM lemma="člověk" src="auto" recommended="1">NNMP1-----A---1</AM>
 <AM lemma="člověk" src="auto">NNMP5-----A---1</AM>
+<AM lemma="lidé" src="manual" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="mu_05-SCzechM-p0436-s1-w6">
@@ -794,6 +795,7 @@
 <tag>
 <AM lemma="člověk" recommended="1">NNMP1-----A---1</AM>
 <AM lemma="člověk">NNMP5-----A---1</AM>
+<AM lemma="lidé" src="manual" selected="1">NNMP1-----A----</AM>
 </tag>
 </m>
 <m id="mu_05-SCzechM-p0436-s1-w43">
@@ -1178,6 +1180,7 @@
 <tag>
 <AM lemma="fosílie" src="auto">NNFP2-----A----</AM>
 <AM lemma="fosílie" src="auto" recommended="1">NNFS7-----A----</AM>
+<AM lemma="fosílie_,h _^(^GC**fosilie)" src="manual" selected="1">NNFS7-----A----</AM>
 </tag>
 </m>
 <m id="mu_05-SCzechM-p0454-s1-w14">
@@ -5060,7 +5063,8 @@
 <AM lemma="Playstation_;R">NNIS4-----A----</AM>
 <AM lemma="playstation_,t">NNIS1-----A----</AM>
 <AM lemma="playstation_,t">NNIS4-----A----</AM>
-<AM lemma="PlayStation_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="PlayStation_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="PlayStation-1_;R" src="manual" selected="1">NNIS1-----A----</AM>
 </tag>
 </m>
 <m id="mu_05-SCzechM-p0510-s1-w11">

@@ -4647,6 +4647,7 @@
 <AM lemma="webový_,t" src="auto">AAMP6----1A----</AM>
 <AM lemma="webový_,t" src="auto">AANP2----1A----</AM>
 <AM lemma="webový_,t" src="auto">AANP6----1A----</AM>
+<AM lemma="webový" src="manual" selected="1">AAFP2----1A----</AM>
 </tag>
 </m>
 <m id="mu_11-SCzechM-p1170-s1-w6">
@@ -4820,7 +4821,8 @@
 <form>Webflow</form>
 <tag>
 <AM lemma="Webflow">X@-------------</AM>
-<AM lemma="Webflow_;R" src="manual" selected="1">NNIS1-----A----</AM>
+<AM lemma="Webflow_;R" src="manual">NNIS1-----A----</AM>
+<AM lemma="Webflow-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="mu_11-SCzechM-p1170-s1-w20">

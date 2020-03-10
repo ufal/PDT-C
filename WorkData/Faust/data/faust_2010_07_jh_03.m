@@ -2315,7 +2315,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>orientačně</form>
-<tag lemma="orientačně_^(*1í)" src="auto" recommended="1">Dg-------1A----</tag>
+<tag>
+<AM lemma="orientačně_^(*1í)" src="auto" recommended="1">Dg-------1A----</AM>
+<AM lemma="orientačně-2" src="manual" selected="1">S2--------A----</AM>
+</tag>
 </m>
 <m id="jh_03-SCzechM-p0233-s1-w8">
 <w.rf>

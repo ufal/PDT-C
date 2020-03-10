@@ -944,7 +944,8 @@
 <form>Ctrl</form>
 <tag>
 <AM lemma="control_:B_;c_,t" recommended="1">NNNXX-----A---8</AM>
-<AM lemma="Ctrl_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Ctrl_:B" src="manual">NNXXX-----A----</AM>
+<AM lemma="Ctrl_^(Control)" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_14-SCzechM-p1407-s1-w4">

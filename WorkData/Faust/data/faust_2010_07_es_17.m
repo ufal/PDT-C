@@ -1597,7 +1597,10 @@
 <LM>w#w-es_17-SCzechM-p1769-s1-w12</LM>
 </w.rf>
 <form>PT</form>
-<tag lemma="Pt_:B_^(platina)" src="auto" recommended="1">NNXXX-----A----</tag>
+<tag>
+<AM lemma="Pt_:B_^(platina)" src="auto" recommended="1">NNXXX-----A----</AM>
+<AM lemma="PT-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+</tag>
 </m>
 <m id="es_17-SCzechM-p1769-s1-w12-sw1">
 <w.rf>
@@ -3424,6 +3427,7 @@
 <tag>
 <AM lemma="čurák_,v" recommended="1">NNMS4-----A----</AM>
 <AM lemma="čurák_,v">NNMS2-----A----</AM>
+<AM lemma="čurák-2_,v" src="manual" selected="1">NNMS4-----A----</AM>
 </tag>
 </m>
 <m id="es_17-SCzechM-p1786-s1-w9">

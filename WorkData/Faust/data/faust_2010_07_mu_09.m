@@ -3680,7 +3680,7 @@
 <AM lemma="špatný" recommended="1">AAFP6----3A----</AM>
 <AM lemma="špatný">AAFP2----3A----</AM>
 <AM lemma="špatný">AAIP2----3A----</AM>
-<AM lemma="špatný">AAIP6----3A----</AM>
+<AM lemma="špatný" selected="1">AAIP6----3A----</AM>
 <AM lemma="špatný">AAMP2----3A----</AM>
 <AM lemma="špatný">AAMP6----3A----</AM>
 <AM lemma="špatný">AANP2----3A----</AM>
@@ -4096,6 +4096,7 @@
 <AM lemma="kamión" recommended="1">NNIS2-----A----</AM>
 <AM lemma="kamión">NNIS3-----A----</AM>
 <AM lemma="kamión">NNIS6-----A----</AM>
+<AM lemma="kamion_,s_^(^DD**kamión)" src="manual" selected="1">NNIS2-----A----</AM>
 </tag>
 </m>
 <m id="mu_09-SCzechM-p0930-s1-w15">

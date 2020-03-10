@@ -1814,7 +1814,7 @@
 <AM lemma="místní" src="auto">AANP1----1A----</AM>
 <AM lemma="místní" src="auto">AANP4----1A----</AM>
 <AM lemma="místní" src="auto">AANP5----1A----</AM>
-<AM lemma="místní" src="auto">AANS1----1A----</AM>
+<AM lemma="místní" src="auto" selected="1">AANS1----1A----</AM>
 <AM lemma="místní" src="auto" recommended="1">AANS4----1A----</AM>
 <AM lemma="místní" src="auto">AANS5----1A----</AM>
 </tag>
@@ -1937,6 +1937,8 @@
 <tag>
 <AM lemma="Tádž_;K" src="auto" recommended="1">NNIS1-----A----</AM>
 <AM lemma="Tádž_;K" src="auto">NNIS4-----A----</AM>
+<AM lemma="Tádž_;G" src="manual">NNIXX-----A----</AM>
+<AM lemma="Tádž" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="mu_12-SCzechM-p1239-s1-w7-sw1">
@@ -2194,7 +2196,8 @@
 <form>Xi</form>
 <tag>
 <AM lemma="Xi">X@-------------</AM>
-<AM lemma="Xi-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="Xi-77" src="manual">F%-------------</AM>
+<AM lemma="Xi" src="manual" selected="1">S2--------A----</AM>
 </tag>
 </m>
 <m id="mu_12-SCzechM-p1239-s1-w29">

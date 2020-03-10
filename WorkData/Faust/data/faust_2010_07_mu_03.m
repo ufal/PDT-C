@@ -2701,7 +2701,8 @@
 <form>XY</form>
 <tag>
 <AM lemma="XY">X@-------------</AM>
-<AM lemma="XY-33_^(označení_pomocí_písmen)" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="XY-33_^(označení_pomocí_písmen)" src="manual">NNXXX-----A----</AM>
+<AM lemma="XY-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_03-SCzechM-p0233-s1-w31">

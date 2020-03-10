@@ -2908,7 +2908,7 @@
 <AM lemma="krátký" src="auto">AAIP1----1A---6</AM>
 <AM lemma="krátký" src="auto">AAIP4----1A---6</AM>
 <AM lemma="krátký" src="auto">AAIP5----1A---6</AM>
-<AM lemma="krátký" src="auto">AAIS1----1A----</AM>
+<AM lemma="krátký" src="auto" selected="1">AAIS1----1A----</AM>
 <AM lemma="krátký" src="auto" recommended="1">AAIS4----1A----</AM>
 <AM lemma="krátký" src="auto">AAIS5----1A----</AM>
 <AM lemma="krátký" src="auto">AAMP1----1A---6</AM>
@@ -3700,7 +3700,7 @@
 <AM lemma="používaný_^(*2t)" src="auto">AAIP4----1A---6</AM>
 <AM lemma="používaný_^(*2t)" src="auto">AAIP5----1A---6</AM>
 <AM lemma="používaný_^(*2t)" src="auto" recommended="1">AAIS1----1A----</AM>
-<AM lemma="používaný_^(*2t)" src="auto">AAIS4----1A----</AM>
+<AM lemma="používaný_^(*2t)" src="auto" selected="1">AAIS4----1A----</AM>
 <AM lemma="používaný_^(*2t)" src="auto">AAIS5----1A----</AM>
 <AM lemma="používaný_^(*2t)" src="auto">AAMP1----1A---6</AM>
 <AM lemma="používaný_^(*2t)" src="auto">AAMP4----1A---6</AM>
@@ -5588,7 +5588,7 @@
 <form_change>spell</form_change>
 <form>Informace</form>
 <tag>
-<AM lemma="informace" src="auto">NNFP1-----A----</AM>
+<AM lemma="informace" src="auto" selected="1">NNFP1-----A----</AM>
 <AM lemma="informace" src="auto" recommended="1">NNFP4-----A----</AM>
 <AM lemma="informace" src="auto">NNFP5-----A----</AM>
 <AM lemma="informace" src="auto">NNFS1-----A----</AM>

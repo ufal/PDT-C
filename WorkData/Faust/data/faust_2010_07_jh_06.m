@@ -6293,7 +6293,10 @@
 </w.rf>
 <form_change>spell</form_change>
 <form>rád</form>
-<tag lemma="rád" src="auto" recommended="1">ACYS------A----</tag>
+<tag>
+<AM lemma="rád" src="auto" recommended="1">ACYS------A----</AM>
+<AM lemma="rád-1" src="manual" selected="1">ACYS------A----</AM>
+</tag>
 </m>
 <m id="jh_06-SCzechM-p0629-s1-w17">
 <w.rf>

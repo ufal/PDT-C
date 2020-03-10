@@ -6808,7 +6808,8 @@
 <form>Yahoo</form>
 <tag>
 <AM lemma="Yahoo_;R_,t_^(software)" recommended="1">NNNXX-----A----</AM>
-<AM lemma="Yahoo_;R_^(software)" src="manual" selected="1">NNNXX-----A----</AM>
+<AM lemma="Yahoo_;R_^(software)" src="manual">NNNXX-----A----</AM>
+<AM lemma="Yahoo-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="mu_04-SCzechM-p0414-s1-w12">
@@ -6825,8 +6826,8 @@
 <form>Updates</form>
 <tag>
 <AM lemma="Updates">X@-------------</AM>
-<AM lemma="Updates-77" src="manual">F%-------------</AM>
-<AM lemma="updates" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="Updates-77" src="manual" selected="1">F%-------------</AM>
+<AM lemma="updates" src="manual">NNXXX-----A----</AM>
 </tag>
 </m>
 <m id="mu_04-SCzechM-p0414-s1-w14">

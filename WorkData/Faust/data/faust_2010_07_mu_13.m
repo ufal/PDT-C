@@ -3227,7 +3227,7 @@
 <form_change>spell</form_change>
 <form>neobvyklé</form>
 <tag>
-<AM lemma="obvyklý" src="auto">AAFP1----1N----</AM>
+<AM lemma="obvyklý" src="auto" selected="1">AAFP1----1N----</AM>
 <AM lemma="obvyklý" src="auto">AAFP4----1N----</AM>
 <AM lemma="obvyklý" src="auto">AAFP5----1N----</AM>
 <AM lemma="obvyklý" src="auto" recommended="1">AAFS2----1N----</AM>

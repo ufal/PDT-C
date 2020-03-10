@@ -5051,7 +5051,7 @@
 <AM lemma="obrovský" recommended="1">AAMS2----1A----</AM>
 <AM lemma="obrovský">AAIS2----1A----</AM>
 <AM lemma="obrovský">AAMS4----1A----</AM>
-<AM lemma="obrovský">AANS2----1A----</AM>
+<AM lemma="obrovský" selected="1">AANS2----1A----</AM>
 </tag>
 </m>
 <m id="mu_02-SCzechM-p0161-s1-w13">

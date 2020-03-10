@@ -5299,6 +5299,7 @@
 <AM lemma="dillí" src="auto">NNNS4-----A----</AM>
 <AM lemma="dillí" src="auto">NNNS5-----A----</AM>
 <AM lemma="dillí" src="auto" recommended="1">NNNS6-----A----</AM>
+<AM lemma="Dillí_;G" src="manual" selected="1">NNNS6-----A----</AM>
 </tag>
 </m>
 <m id="jh_01-SCzechM-p0094-s1-w20">

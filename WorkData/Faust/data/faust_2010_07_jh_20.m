@@ -5464,8 +5464,8 @@
 <tag>
 <AM lemma="před-1_:B" recommended="1">RR--7---------8</AM>
 <AM lemma="příklad_:B">NNIXX-----A---8</AM>
-<AM lemma="př-88_:B" src="manual">NNXXX-----A----</AM>
-<AM lemma="přídavný" src="manual" selected="1">AAXXX----1A---a</AM>
+<AM lemma="př-88_:B" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="přídavný" src="manual">AAXXX----1A---a</AM>
 </tag>
 </m>
 <m id="jh_20-SCzechM-p2155-s1-w2">
@@ -7196,7 +7196,7 @@
 <AM lemma="mezinárodní" src="auto">AANP1----1A----</AM>
 <AM lemma="mezinárodní" src="auto">AANP4----1A----</AM>
 <AM lemma="mezinárodní" src="auto">AANP5----1A----</AM>
-<AM lemma="mezinárodní" src="auto">AANS1----1A----</AM>
+<AM lemma="mezinárodní" src="auto" selected="1">AANS1----1A----</AM>
 <AM lemma="mezinárodní" src="auto">AANS4----1A----</AM>
 <AM lemma="mezinárodní" src="auto">AANS5----1A----</AM>
 </tag>

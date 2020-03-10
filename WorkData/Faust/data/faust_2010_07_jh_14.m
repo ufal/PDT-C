@@ -4352,7 +4352,8 @@
 <form>SixthSense</form>
 <tag>
 <AM lemma="SixthSense">X@-------------</AM>
-<AM lemma="SixthSense_;R" src="manual" selected="1">NNXXX-----A----</AM>
+<AM lemma="SixthSense_;R" src="manual">NNXXX-----A----</AM>
+<AM lemma="SixthSense-77" src="manual" selected="1">F%-------------</AM>
 </tag>
 </m>
 <m id="jh_14-SCzechM-p1480-s1-w5">
