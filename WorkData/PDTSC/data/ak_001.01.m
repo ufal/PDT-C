@@ -4211,12 +4211,8 @@
 <AM lemma="osm`8" src="auto">Cn-P3----------</AM>
 <AM lemma="osm`8" src="auto">Cn-P6----------</AM>
 <AM lemma="osm`8" src="auto">Cn-P7----------</AM>
+<AM lemma="osmi`8" src="manual" selected="1">S2--------A----</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>osmimetrové by mělo být psáno dohromady - pokud to jde takto upravit</text>
-</LM>
-</comment>
 </m>
 <m id="m001-d1t525-14">
 <w.rf>
@@ -5483,7 +5479,7 @@
 <tag lemma="," src="auto" recommended="1">Z:-------------</tag>
 <comment>
 <LM type="Other">
-<text>chybná interpunkce - opravit?</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>

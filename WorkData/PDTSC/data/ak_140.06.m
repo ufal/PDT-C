@@ -1797,6 +1797,11 @@
 <AM lemma="po-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="pondělí_:B" src="auto">NNNXX-----A---8</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>1v2: >pohromadě</text>
+</LM>
+</comment>
 </m>
 <m id="m140-d1t1185-26">
 <w.rf>
@@ -1810,7 +1815,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>"pohromadě" by mělo být psáno dohromady</text>
+<text>1v2: &lt;pohromadě</text>
 </LM>
 </comment>
 </m>

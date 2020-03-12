@@ -5299,7 +5299,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>je tu špatně slovosled, má být "se na", ale jde logicky o šestý pád</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>
@@ -5323,6 +5323,11 @@
 <AM lemma="tento" src="auto" recommended="1">PDXP2----------</AM>
 <AM lemma="tento" src="auto" selected="1">PDXP6----------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: na těchto</text>
+</LM>
+</comment>
 </m>
 <m id="m141-d1t176-5">
 <w.rf>

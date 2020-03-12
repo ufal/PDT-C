@@ -545,11 +545,6 @@
 <AM lemma="tolik-1" src="auto" recommended="1">Ca--4----------</AM>
 <AM lemma="tolik-3_^(ve_spojení_s_adj.)" src="auto" selected="1">Db-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>správně by "natolik" mělo být psáno dohromady</text>
-</LM>
-</comment>
 </m>
 <m id="m054-129-368">
 <w.rf>

@@ -1614,7 +1614,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>má být v jednom uzlu s následujícím uzlem - proto</text>
+<text>1v2: >proto</text>
 </LM>
 </comment>
 </m>
@@ -1631,7 +1631,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>má být v jednom uzlu s předchozím uzlem: proto</text>
+<text>1v2: &lt;proto</text>
 </LM>
 </comment>
 </m>

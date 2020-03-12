@@ -7294,11 +7294,6 @@
 <AM lemma="bát" src="auto" recommended="1">VpQW---XR-AA---</AM>
 <AM lemma="bala" src="manual" selected="1">Db-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>halabala by mělo být dohromady (je pro to ve slovníku analýza)</text>
-</LM>
-</comment>
 </m>
 <m id="m061-d-id162161-punct">
 <w.rf>

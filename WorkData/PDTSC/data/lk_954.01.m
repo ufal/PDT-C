@@ -4095,7 +4095,7 @@
 <tag lemma="," src="auto" recommended="1">Z:-------------</tag>
 <comment>
 <LM type="Other">
-<text>čárka je ve větě navíc</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>

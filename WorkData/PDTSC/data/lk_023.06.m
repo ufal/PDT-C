@@ -3285,7 +3285,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>nejspíš tu chybí slovo "do" - proto zanechán druhý pád</text>
+<text>2v1: do hospody</text>
 </LM>
 </comment>
 </m>

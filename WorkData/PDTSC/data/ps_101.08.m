@@ -513,7 +513,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>je tu chybný slovosled</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>
@@ -534,6 +534,11 @@
 <AM lemma="ten" src="auto" recommended="1">PDFS3----------</AM>
 <AM lemma="ten" src="auto" selected="1">PDFS6----------</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>2v1: na té</text>
+</LM>
+</comment>
 </m>
 <m id="m101-d1t1353-15">
 <w.rf>

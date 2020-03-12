@@ -2851,7 +2851,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>chybí tu "v"</text>
+<text>2v1: v týdnu</text>
 </LM>
 </comment>
 </m>

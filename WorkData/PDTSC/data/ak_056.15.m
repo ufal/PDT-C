@@ -551,11 +551,6 @@
 <AM lemma="krát-1_^(mat._operace;_2_krát_3)" src="auto">J*-------------</AM>
 <AM lemma="krát-2" src="auto" recommended="1">Db-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>správně by mělo být dohromady - dvakrát</text>
-</LM>
-</comment>
 </m>
 <m id="m056-d1t4141-12">
 <w.rf>

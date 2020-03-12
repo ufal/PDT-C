@@ -1924,6 +1924,11 @@
 <AM lemma="po-1" src="auto" recommended="1">RR--6----------</AM>
 <AM lemma="pondělí_:B" src="auto">NNNXX-----A---8</AM>
 </tag>
+<comment>
+<LM type="Other">
+<text>1v2: >Potmě</text>
+</LM>
+</comment>
 </m>
 <m id="m140-d1t843-3">
 <w.rf>
@@ -1937,7 +1942,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>"potmě" by správně mělo být dohromady</text>
+<text>1v2: &lt;Potmě</text>
 </LM>
 </comment>
 </m>

@@ -2470,7 +2470,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>chybí tu "v", ale jde o 6. pád</text>
+<text>2v1: v Plzni</text>
 </LM>
 </comment>
 </m>

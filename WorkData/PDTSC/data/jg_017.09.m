@@ -1856,7 +1856,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>prohozené pořadí slov - má být "ještě v chatkách"</text>
+<text>delete</text>
 </LM>
 </comment>
 </m>
@@ -1869,11 +1869,6 @@
 <AM lemma="ještě-1" src="auto" recommended="1">Db-------------</AM>
 <AM lemma="ještě-2" src="auto">TT-------------</AM>
 </tag>
-<comment>
-<LM type="Other">
-<text>prohozené pořadí slov - má být "ještě v chatkách"</text>
-</LM>
-</comment>
 </m>
 <m id="m017-d1t2742-24">
 <w.rf>
@@ -1881,6 +1876,11 @@
 </w.rf>
 <form>chatkách</form>
 <tag lemma="chatka" src="auto" recommended="1">NNFP6-----A----</tag>
+<comment>
+<LM type="Other">
+<text>2v1: v chatkách</text>
+</LM>
+</comment>
 </m>
 <m id="m017-949-950">
 <w.rf>

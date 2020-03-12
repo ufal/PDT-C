@@ -3991,7 +3991,7 @@
 </tag>
 <comment>
 <LM type="Other">
-<text>chybí předložka (patrně "na")</text>
+<text>2v1: na ní</text>
 </LM>
 </comment>
 </m>
