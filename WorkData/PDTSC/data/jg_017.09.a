@@ -1190,6 +1190,11 @@
 <afun>AuxZ</afun>
 <ord>9</ord>
 </LM>
+<LM id="m017-d1t2742-24-sw1-ia">
+<m.rf>m#m017-d1t2742-24-sw1</m.rf>
+<afun>ExD</afun>
+<ord>11</ord>
+</LM>
 </children>
 </LM>
 </children>
@@ -1197,7 +1202,7 @@
 <LM id="jg_017.09-SCzechA-m-949-950">
 <m.rf>m#m017-949-950</m.rf>
 <afun>AuxK</afun>
-<ord>11</ord>
+<ord>12</ord>
 </LM>
 </children>
 </LM>

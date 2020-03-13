@@ -298,7 +298,7 @@
 <LM id="ps_101.08-SCzechA-m-d1t1353-18">
 <m.rf>m#m101-d1t1353-18</m.rf>
 <afun>Adv</afun>
-<ord>7</ord>
+<ord>8</ord>
 <children>
 <LM id="ps_101.08-SCzechA-m-d1t1353-16">
 <m.rf>m#m101-d1t1353-16</m.rf>
@@ -308,12 +308,19 @@
 <LM id="ps_101.08-SCzechA-m-d1t1353-15">
 <m.rf>m#m101-d1t1353-15</m.rf>
 <afun>Obj</afun>
-<ord>6</ord>
+<ord>7</ord>
 <children>
 <LM id="ps_101.08-SCzechA-m-d1t1353-14">
 <m.rf>m#m101-d1t1353-14</m.rf>
 <afun>Atr</afun>
 <ord>5</ord>
+<children>
+<LM id="m101-d1t1353-14-sw1-ia">
+<m.rf>m#m101-d1t1353-14-sw1</m.rf>
+<afun>ExD</afun>
+<ord>6</ord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -324,7 +331,7 @@
 <LM id="ps_101.08-SCzechA-m-135-139">
 <m.rf>m#m101-135-139</m.rf>
 <afun>AuxK</afun>
-<ord>8</ord>
+<ord>9</ord>
 </LM>
 </children>
 </LM>
