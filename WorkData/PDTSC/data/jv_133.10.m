@@ -1607,18 +1607,13 @@
 <w.rf>
 <LM>w#w-d1t2880-6</LM>
 </w.rf>
-<form>to</form>
+<form_change>spell</form_change>
+<form>proto</form>
 <tag>
-<AM lemma="ten" src="auto">PDNS1----------</AM>
-<AM lemma="ten" src="auto" recommended="1">PDNS4----------</AM>
-<AM lemma="to-9_^(být_s_to)" src="auto">TT-------------</AM>
-<AM lemma="to-77" src="auto">F%-------------</AM>
+<AM lemma="proto-1_^(proto;_a_proto,_ale_proto,...)" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="auto">Db-------------</AM>
+<AM lemma="proto-3" src="auto">TT-------------</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>proto</text>
-</LM>
-</comment>
 </m>
 <m id="m133-d1t2880-7">
 <w.rf>

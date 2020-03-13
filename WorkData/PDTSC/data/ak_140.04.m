@@ -1918,17 +1918,9 @@
 <w.rf>
 <LM>w#w-d1t843-3</LM>
 </w.rf>
-<form>tmě</form>
-<tag>
-<AM lemma="tma" src="auto">NNFS3-----A----</AM>
-<AM lemma="tma" src="auto" recommended="1">NNFS6-----A----</AM>
-<AM lemma="tmět" src="auto">VeYS------A-I--</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>Potmě</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>Potmě</form>
+<tag lemma="potmě" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m140-d1t843-4">
 <w.rf>

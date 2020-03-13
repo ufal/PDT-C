@@ -2459,34 +2459,29 @@
 <w.rf>
 <LM>w#w-d1t963-6</LM>
 </w.rf>
-<form>Plzni</form>
+<form>v</form>
 <tag>
-<AM lemma="Plzeň_;G" src="auto" recommended="1">NNFS3-----A----</AM>
-<AM lemma="Plzeň_;G" src="auto">NNFS5-----A----</AM>
-<AM lemma="Plzeň_;G" src="auto" selected="1">NNFS6-----A----</AM>
-<AM lemma="plzeň" src="auto">NNFS3-----A----</AM>
-<AM lemma="plzeň" src="auto">NNFS5-----A----</AM>
-<AM lemma="plzeň" src="auto">NNFS6-----A----</AM>
+<AM lemma="v-1" src="auto">RR--4----------</AM>
+<AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
+<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>v</text>
-</LM>
-</comment>
-</m><m id="m047-d1t963-6-sw1">
+</m>
+<m id="m047-d1t963-6-sw1">
 <w.rf>
 <LM>w#w-d1t963-6</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>Plzni</form>
 <tag>
-<AM lemma="Plzeň_;G" src="auto" recommended="1">NNFS3-----A----</AM>
+<AM lemma="Plzeň_;G" src="auto">NNFS3-----A----</AM>
 <AM lemma="Plzeň_;G" src="auto">NNFS5-----A----</AM>
-<AM lemma="Plzeň_;G" src="auto" selected="1">NNFS6-----A----</AM>
+<AM lemma="Plzeň_;G" src="auto" recommended="1">NNFS6-----A----</AM>
 <AM lemma="plzeň" src="auto">NNFS3-----A----</AM>
 <AM lemma="plzeň" src="auto">NNFS5-----A----</AM>
 <AM lemma="plzeň" src="auto">NNFS6-----A----</AM>
 </tag>
-<comment><LM type="New Form"><text>Plzni</text></LM></comment>
 </m>
 <m id="m047-d1t965-1">
 <w.rf>

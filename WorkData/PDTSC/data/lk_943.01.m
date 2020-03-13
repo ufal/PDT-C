@@ -2843,28 +2843,26 @@
 <w.rf>
 <LM>w#w-d1t614-3</LM>
 </w.rf>
-<form>týdnu</form>
+<form>v</form>
 <tag>
-<AM lemma="týden_^(jednotka_času)" src="auto" recommended="1">NNIS2-----A---1</AM>
-<AM lemma="týden_^(jednotka_času)" src="auto">NNIS3-----A----</AM>
-<AM lemma="týden_^(jednotka_času)" src="auto" selected="1">NNIS6-----A----</AM>
+<AM lemma="v-1" src="auto">RR--4----------</AM>
+<AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
+<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="versus_:B" src="auto">RR--1---------9</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>v</text>
-</LM>
-</comment>
-</m><m id="m943-d1t614-3-sw1">
+</m>
+<m id="m943-d1t614-3-sw1">
 <w.rf>
 <LM>w#w-d1t614-3</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>týdnu</form>
 <tag>
-<AM lemma="týden_^(jednotka_času)" src="auto" recommended="1">NNIS2-----A---1</AM>
+<AM lemma="týden_^(jednotka_času)" src="auto">NNIS2-----A---1</AM>
 <AM lemma="týden_^(jednotka_času)" src="auto">NNIS3-----A----</AM>
-<AM lemma="týden_^(jednotka_času)" src="auto" selected="1">NNIS6-----A----</AM>
+<AM lemma="týden_^(jednotka_času)" src="auto" recommended="1">NNIS6-----A----</AM>
 </tag>
-<comment><LM type="New Form"><text>týdnu</text></LM></comment>
 </m>
 <m id="m943-814-944">
 <w.rf>

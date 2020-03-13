@@ -1791,17 +1791,9 @@
 <w.rf>
 <LM>w#w-d1t1185-26</LM>
 </w.rf>
-<form>hromadě</form>
-<tag>
-<AM lemma="hromada_^(písku;_také_valná_h.)" src="auto">NNFS3-----A----</AM>
-<AM lemma="hromada_^(písku;_také_valná_h.)" src="auto" recommended="1">NNFS6-----A----</AM>
-<AM lemma="hromadit_:T_^(získávat_ve_větším_množství;_přech.)" src="auto">VeYS------A----</AM>
-</tag>
-<comment>
-<LM type="New Form">
-<text>pohromadě</text>
-</LM>
-</comment>
+<form_change>spell</form_change>
+<form>pohromadě</form>
+<tag lemma="pohromadě" src="auto" recommended="1">Db-------------</tag>
 </m>
 <m id="m140-d-m-d1e1176-x2-punct-punct">
 <w.rf>

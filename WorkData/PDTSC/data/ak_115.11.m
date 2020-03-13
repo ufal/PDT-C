@@ -3981,32 +3981,26 @@
 <w.rf>
 <LM>w#w-d1t1734-15</LM>
 </w.rf>
-<form>ní</form>
+<form>na</form>
 <tag>
-<AM lemma="on-1" src="auto">P5FS2--3-------</AM>
-<AM lemma="on-1" src="auto">P5FS3--3-------</AM>
-<AM lemma="on-1" src="auto">P5FS4--3------6</AM>
-<AM lemma="on-1" src="auto" selected="1">P5FS6--3-------</AM>
-<AM lemma="on-1" src="auto" recommended="1">P5FS7--3-------</AM>
+<AM lemma="na-1" src="auto">RR--4----------</AM>
+<AM lemma="na-1" src="auto" recommended="1">RR--6----------</AM>
+<AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>na</text>
-</LM>
-</comment>
-</m><m id="m115-d1t1734-15-sw1">
+</m>
+<m id="m115-d1t1734-15-sw1">
 <w.rf>
 <LM>w#w-d1t1734-15</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>ní</form>
 <tag>
 <AM lemma="on-1" src="auto">P5FS2--3-------</AM>
 <AM lemma="on-1" src="auto">P5FS3--3-------</AM>
 <AM lemma="on-1" src="auto">P5FS4--3------6</AM>
-<AM lemma="on-1" src="auto" selected="1">P5FS6--3-------</AM>
-<AM lemma="on-1" src="auto" recommended="1">P5FS7--3-------</AM>
+<AM lemma="on-1" src="auto" recommended="1">P5FS6--3-------</AM>
+<AM lemma="on-1" src="auto">P5FS7--3-------</AM>
 </tag>
-<comment><LM type="New Form"><text>ní</text></LM></comment>
 </m>
 <m id="m115-d1t1734-8">
 <w.rf>

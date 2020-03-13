@@ -3276,22 +3276,19 @@
 <w.rf>
 <LM>w#w-d1t2491-9</LM>
 </w.rf>
-<form>hospody</form>
+<form>do</form>
 <tag>
-<AM lemma="hospoda" src="auto">NNFP1-----A----</AM>
-<AM lemma="hospoda" src="auto">NNFP4-----A----</AM>
-<AM lemma="hospoda" src="auto">NNFP5-----A----</AM>
-<AM lemma="hospoda" src="auto" recommended="1">NNFS2-----A----</AM>
+<AM lemma="do-1" src="auto" recommended="1">RR--2----------</AM>
+<AM lemma="do-2_^(tae-kwon-do)" src="auto">NNNXX-----A----</AM>
+<AM lemma="do-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
+<AM lemma="do-99_:B_;S" src="auto">NNXXX-----A----</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>do</text>
-</LM>
-</comment>
-</m><m id="m023-d1t2491-9-sw1">
+</m>
+<m id="m023-d1t2491-9-sw1">
 <w.rf>
 <LM>w#w-d1t2491-9</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>hospody</form>
 <tag>
 <AM lemma="hospoda" src="auto">NNFP1-----A----</AM>
@@ -3299,7 +3296,6 @@
 <AM lemma="hospoda" src="auto">NNFP5-----A----</AM>
 <AM lemma="hospoda" src="auto" recommended="1">NNFS2-----A----</AM>
 </tag>
-<comment><LM type="New Form"><text>hospody</text></LM></comment>
 </m>
 <m id="m023-2975-3019">
 <w.rf>

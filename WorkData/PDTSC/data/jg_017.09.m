@@ -1856,20 +1856,22 @@
 <w.rf>
 <LM>w#w-d1t2742-24</LM>
 </w.rf>
-<form>chatkách</form>
-<tag lemma="chatka" src="auto" recommended="1">NNFP6-----A----</tag>
-<comment>
-<LM type="New Form">
-<text>v</text>
-</LM>
-</comment>
-</m><m id="m017-d1t2742-24-sw1">
+<form>v</form>
+<tag>
+<AM lemma="v-1" src="auto">RR--4----------</AM>
+<AM lemma="v-1" src="auto" recommended="1">RR--6----------</AM>
+<AM lemma="v-33_^(označení_pomocí_písmene)" src="auto">NNNXX-----A----</AM>
+<AM lemma="v-88_:B" src="auto">NNXXX-----A----</AM>
+<AM lemma="versus_:B" src="auto">RR--1---------9</AM>
+</tag>
+</m>
+<m id="m017-d1t2742-24-sw1">
 <w.rf>
 <LM>w#w-d1t2742-24</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>chatkách</form>
 <tag lemma="chatka" src="auto" recommended="1">NNFP6-----A----</tag>
-<comment><LM type="New Form"><text>chatkách</text></LM></comment>
 </m>
 <m id="m017-949-950">
 <w.rf>

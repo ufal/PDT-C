@@ -5302,26 +5302,23 @@
 <w.rf>
 <LM>w#w-d1t176-4</LM>
 </w.rf>
-<form>těchto</form>
+<form>na</form>
 <tag>
-<AM lemma="tento" src="auto" recommended="1">PDXP2----------</AM>
-<AM lemma="tento" src="auto" selected="1">PDXP6----------</AM>
+<AM lemma="na-1" src="auto">RR--4----------</AM>
+<AM lemma="na-1" src="auto" recommended="1">RR--6----------</AM>
+<AM lemma="na-2" src="auto">II-------------</AM>
 </tag>
-<comment>
-<LM type="New Form">
-<text>na</text>
-</LM>
-</comment>
-</m><m id="m141-d1t176-4-sw1">
+</m>
+<m id="m141-d1t176-4-sw1">
 <w.rf>
 <LM>w#w-d1t176-4</LM>
 </w.rf>
+<form_change>spell</form_change>
 <form>těchto</form>
 <tag>
-<AM lemma="tento" src="auto" recommended="1">PDXP2----------</AM>
-<AM lemma="tento" src="auto" selected="1">PDXP6----------</AM>
+<AM lemma="tento" src="auto">PDXP2----------</AM>
+<AM lemma="tento" src="auto" recommended="1">PDXP6----------</AM>
 </tag>
-<comment><LM type="New Form"><text>těchto</text></LM></comment>
 </m>
 <m id="m141-d1t176-5">
 <w.rf>
