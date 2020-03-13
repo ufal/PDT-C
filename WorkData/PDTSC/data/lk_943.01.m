@@ -2850,10 +2850,21 @@
 <AM lemma="týden_^(jednotka_času)" src="auto" selected="1">NNIS6-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: v týdnu</text>
+<LM type="New Form">
+<text>v</text>
 </LM>
 </comment>
+</m><m id="m943-d1t614-3-sw1">
+<w.rf>
+<LM>w#w-d1t614-3</LM>
+</w.rf>
+<form>týdnu</form>
+<tag>
+<AM lemma="týden_^(jednotka_času)" src="auto" recommended="1">NNIS2-----A---1</AM>
+<AM lemma="týden_^(jednotka_času)" src="auto">NNIS3-----A----</AM>
+<AM lemma="týden_^(jednotka_času)" src="auto" selected="1">NNIS6-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>týdnu</text></LM></comment>
 </m>
 <m id="m943-814-944">
 <w.rf>

@@ -5287,22 +5287,6 @@
 <AM lemma="tenkrát" src="auto" recommended="1">Db-------------</AM>
 </tag>
 </m>
-<m id="m141-d1t176-3">
-<w.rf>
-<LM>w#w-d1t176-3</LM>
-</w.rf>
-<form>na</form>
-<tag>
-<AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
-<AM lemma="na-2" src="auto">II-------------</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
-</m>
 <m id="m141-d1t176-7">
 <w.rf>
 <LM>w#w-d1t176-7</LM>
@@ -5324,10 +5308,20 @@
 <AM lemma="tento" src="auto" selected="1">PDXP6----------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: na těchto</text>
+<LM type="New Form">
+<text>na</text>
 </LM>
 </comment>
+</m><m id="m141-d1t176-4-sw1">
+<w.rf>
+<LM>w#w-d1t176-4</LM>
+</w.rf>
+<form>těchto</form>
+<tag>
+<AM lemma="tento" src="auto" recommended="1">PDXP2----------</AM>
+<AM lemma="tento" src="auto" selected="1">PDXP6----------</AM>
+</tag>
+<comment><LM type="New Form"><text>těchto</text></LM></comment>
 </m>
 <m id="m141-d1t176-5">
 <w.rf>

@@ -501,22 +501,6 @@
 <AM lemma="s-1" src="auto">RV--7----------</AM>
 </tag>
 </m>
-<m id="m101-d1t1353-13">
-<w.rf>
-<LM>w#w-d1t1353-13</LM>
-</w.rf>
-<form>na</form>
-<tag>
-<AM lemma="na-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="na-1" src="auto" selected="1">RR--6----------</AM>
-<AM lemma="na-2" src="auto">II-------------</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
-</m>
 <m id="m101-d1t1353-17">
 <w.rf>
 <LM>w#w-d1t1353-17</LM>
@@ -535,10 +519,21 @@
 <AM lemma="ten" src="auto" selected="1">PDFS6----------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: na té</text>
+<LM type="New Form">
+<text>na</text>
 </LM>
 </comment>
+</m><m id="m101-d1t1353-14-sw1">
+<w.rf>
+<LM>w#w-d1t1353-14</LM>
+</w.rf>
+<form>té</form>
+<tag>
+<AM lemma="ten" src="auto">PDFS2----------</AM>
+<AM lemma="ten" src="auto" recommended="1">PDFS3----------</AM>
+<AM lemma="ten" src="auto" selected="1">PDFS6----------</AM>
+</tag>
+<comment><LM type="New Form"><text>té</text></LM></comment>
 </m>
 <m id="m101-d1t1353-15">
 <w.rf>

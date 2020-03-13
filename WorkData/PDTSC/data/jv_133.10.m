@@ -1603,21 +1603,6 @@
 <form>jsme</form>
 <tag lemma="být" src="auto" recommended="1">VB-P---1P-AAI--</tag>
 </m>
-<m id="m133-d1t2880-5">
-<w.rf>
-<LM>w#w-d1t2880-5</LM>
-</w.rf>
-<form>pro</form>
-<tag>
-<AM lemma="pro-1" src="auto" recommended="1">RR--4----------</AM>
-<AM lemma="pro-7_^(předpona,_sam.)" src="auto">A2--------A----</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>1v2: >proto</text>
-</LM>
-</comment>
-</m>
 <m id="m133-d1t2880-6">
 <w.rf>
 <LM>w#w-d1t2880-6</LM>
@@ -1630,8 +1615,8 @@
 <AM lemma="to-77" src="auto">F%-------------</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>1v2: &lt;proto</text>
+<LM type="New Form">
+<text>proto</text>
 </LM>
 </comment>
 </m>

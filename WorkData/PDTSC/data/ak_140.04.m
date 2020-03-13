@@ -1914,22 +1914,6 @@
 </m>
 </s>
 <s id="m140-252">
-<m id="m140-d1t843-2">
-<w.rf>
-<LM>w#w-d1t843-2</LM>
-</w.rf>
-<form>Po</form>
-<tag>
-<AM lemma="po-1" src="auto">RR--4----------</AM>
-<AM lemma="po-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="pondělí_:B" src="auto">NNNXX-----A---8</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>1v2: >Potmě</text>
-</LM>
-</comment>
-</m>
 <m id="m140-d1t843-3">
 <w.rf>
 <LM>w#w-d1t843-3</LM>
@@ -1941,8 +1925,8 @@
 <AM lemma="tmět" src="auto">VeYS------A-I--</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>1v2: &lt;Potmě</text>
+<LM type="New Form">
+<text>Potmě</text>
 </LM>
 </comment>
 </m>

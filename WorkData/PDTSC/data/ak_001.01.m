@@ -5471,18 +5471,6 @@
 <AM lemma="takový" src="auto">PDNP4----------</AM>
 </tag>
 </m>
-<m id="m001-d-id79787">
-<w.rf>
-<LM>w#w-d-id79787</LM>
-</w.rf>
-<form>,</form>
-<tag lemma="," src="auto" recommended="1">Z:-------------</tag>
-<comment>
-<LM type="Other">
-<text>delete</text>
-</LM>
-</comment>
-</m>
 <m id="m001-d1t573-15">
 <w.rf>
 <LM>w#w-d1t573-15</LM>

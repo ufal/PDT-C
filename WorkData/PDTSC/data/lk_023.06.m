@@ -3284,10 +3284,22 @@
 <AM lemma="hospoda" src="auto" recommended="1">NNFS2-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: do hospody</text>
+<LM type="New Form">
+<text>do</text>
 </LM>
 </comment>
+</m><m id="m023-d1t2491-9-sw1">
+<w.rf>
+<LM>w#w-d1t2491-9</LM>
+</w.rf>
+<form>hospody</form>
+<tag>
+<AM lemma="hospoda" src="auto">NNFP1-----A----</AM>
+<AM lemma="hospoda" src="auto">NNFP4-----A----</AM>
+<AM lemma="hospoda" src="auto">NNFP5-----A----</AM>
+<AM lemma="hospoda" src="auto" recommended="1">NNFS2-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>hospody</text></LM></comment>
 </m>
 <m id="m023-2975-3019">
 <w.rf>

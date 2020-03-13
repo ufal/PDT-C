@@ -1787,22 +1787,6 @@
 <form>drželo</form>
 <tag lemma="držet" src="auto" recommended="1">VpNS----R-AAI--</tag>
 </m>
-<m id="m140-d1t1185-25">
-<w.rf>
-<LM>w#w-d1t1185-25</LM>
-</w.rf>
-<form>po</form>
-<tag>
-<AM lemma="po-1" src="auto">RR--4----------</AM>
-<AM lemma="po-1" src="auto" recommended="1">RR--6----------</AM>
-<AM lemma="pondělí_:B" src="auto">NNNXX-----A---8</AM>
-</tag>
-<comment>
-<LM type="Other">
-<text>1v2: >pohromadě</text>
-</LM>
-</comment>
-</m>
 <m id="m140-d1t1185-26">
 <w.rf>
 <LM>w#w-d1t1185-26</LM>
@@ -1814,8 +1798,8 @@
 <AM lemma="hromadit_:T_^(získávat_ve_větším_množství;_přech.)" src="auto">VeYS------A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>1v2: &lt;pohromadě</text>
+<LM type="New Form">
+<text>pohromadě</text>
 </LM>
 </comment>
 </m>

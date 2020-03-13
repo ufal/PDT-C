@@ -2469,10 +2469,24 @@
 <AM lemma="plzeň" src="auto">NNFS6-----A----</AM>
 </tag>
 <comment>
-<LM type="Other">
-<text>2v1: v Plzni</text>
+<LM type="New Form">
+<text>v</text>
 </LM>
 </comment>
+</m><m id="m047-d1t963-6-sw1">
+<w.rf>
+<LM>w#w-d1t963-6</LM>
+</w.rf>
+<form>Plzni</form>
+<tag>
+<AM lemma="Plzeň_;G" src="auto" recommended="1">NNFS3-----A----</AM>
+<AM lemma="Plzeň_;G" src="auto">NNFS5-----A----</AM>
+<AM lemma="Plzeň_;G" src="auto" selected="1">NNFS6-----A----</AM>
+<AM lemma="plzeň" src="auto">NNFS3-----A----</AM>
+<AM lemma="plzeň" src="auto">NNFS5-----A----</AM>
+<AM lemma="plzeň" src="auto">NNFS6-----A----</AM>
+</tag>
+<comment><LM type="New Form"><text>Plzni</text></LM></comment>
 </m>
 <m id="m047-d1t965-1">
 <w.rf>
