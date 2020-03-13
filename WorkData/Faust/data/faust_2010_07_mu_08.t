@@ -4,7 +4,7 @@
 <schema href="tdata_faust_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="faust_2010_07_mu_08.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -3261,9 +3261,13 @@
 <LM id="faust_2010_07_mu_08-SCzechT-p0796-s1-w10">
 <a>
 <lex.rf>a#faust_2010_07_mu_08-SCzechA-p0796-s1-w10</lex.rf>
+<aux.rf>
+<LM>a#mu_08-SCzechM-p0796-s1-w10-sw1-ia</LM>
+<LM>a#mu_08-SCzechM-p0796-s1-w10-sw2-ia</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>0x00000000</t_lemma>
+<t_lemma>0_x_00000000</t_lemma>
 <functor>ID</functor>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -4972,11 +4976,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5602,12 +5601,6 @@
 <deepord>2</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>správný tvar "vývoje"</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_08-SCzechT-p0842-s1-w4">
 <a>
@@ -5797,7 +5790,7 @@
 <lex.rf>a#faust_2010_07_mu_08-SCzechA-p0842-s1-w16</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>uplunylý</t_lemma>
+<t_lemma>uplynulý</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.denot</sempos>

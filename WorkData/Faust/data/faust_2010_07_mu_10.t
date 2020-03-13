@@ -4,7 +4,7 @@
 <schema href="tdata_faust_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="faust_2010_07_mu_10.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -7434,9 +7434,6 @@
 </LM>
 </children>
 <annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
 <LM>
 <type>New valency frame</type>
 <text>P</text>

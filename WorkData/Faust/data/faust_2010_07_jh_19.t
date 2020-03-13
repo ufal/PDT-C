@@ -4,7 +4,7 @@
 <schema href="tdata_faust_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="faust_2010_07_jh_19.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -571,7 +571,7 @@
 <annot_comment>
 <LM>
 <type>New valency frame</type>
-<text>F ($2&lt;i&gt;) ACT(.1) PAT(.1;.4;pro+4) LOC(.1;.4;na+6;*) Pro příklad odsazení podle čáry, viz obrázek 3.22.</text>
+<text>F ($2&lt;i>) ACT(.1) PAT(.1;.4;pro+4) LOC(.1;.4;na+6;*) Pro příklad odsazení podle čáry, viz obrázek 3.22.</text>
 </LM>
 </annot_comment>
 </LM>
@@ -3145,11 +3145,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>16</deepord>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <annot_comment>
@@ -3807,7 +3802,7 @@
 <annot_comment>
 <LM>
 <type>New valency frame</type>
-<text>F ($2&lt;i&gt;) ACT(.1) PAT(.1;.4;pro+4) LOC(.1;.4;na+6;*) Viz obrázek 1.</text>
+<text>F ($2&lt;i>) ACT(.1) PAT(.1;.4;pro+4) LOC(.1;.4;na+6;*) Viz obrázek 1.</text>
 </LM>
 </annot_comment>
 </LM>
@@ -5234,7 +5229,7 @@
 <lex.rf>a#faust_2010_07_jh_19-SCzechA-p2035-s1-w10</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>intehentní</t_lemma>
+<t_lemma>inherentní</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>adj.denot</sempos>
@@ -8704,7 +8699,7 @@
 <lex.rf>a#faust_2010_07_jh_19-SCzechA-p2080-s1-w7</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>&gt;</t_lemma>
+<t_lemma>></t_lemma>
 <functor>FPHR</functor>
 <deepord>9</deepord>
 </LM>

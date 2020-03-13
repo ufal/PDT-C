@@ -4,7 +4,7 @@
 <schema href="tdata_faust_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="faust_2010_07_es_11.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -352,11 +352,6 @@
 <deepord>18</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5230,11 +5225,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>18</deepord>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_es_11-SCzechT-p1166-s1-roota5">
 <nodetype>qcomplex</nodetype>
@@ -5535,15 +5525,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-<LM>
-<type>Other</type>
-<text>změněn gram/sempos z n.denot na v, aby mohl být přiřazen rámec pro sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_es_11-SCzechT-p1170-s1-w11">
 <a>
@@ -6260,7 +6241,7 @@
 <lex.rf>a#faust_2010_07_es_11-SCzechA-p1172-s1-w2</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>základana</t_lemma>
+<t_lemma>základna</t_lemma>
 <functor>ACT</functor>
 <gram>
 <sempos>n.denot</sempos>

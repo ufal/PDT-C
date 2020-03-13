@@ -4,7 +4,7 @@
 <schema href="tdata_faust_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="faust_2010_07_es_01.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -1228,12 +1228,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>platí pro aux</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_es_01-SCzechT-p0015-s1-w55">
 <a>
@@ -2579,7 +2573,7 @@
 <annot_comment>
 <LM>
 <type>New valency frame</type>
-<text>F ($2&lt;i&gt;) ACT(.1) PAT(.1;.4;pro+4) LOC(.1;.4;na+6;*) Podrobnosti viz na straně 3. Podrobnosti viz strana 3.</text>
+<text>F ($2&lt;i>) ACT(.1) PAT(.1;.4;pro+4) LOC(.1;.4;na+6;*) Podrobnosti viz na straně 3. Podrobnosti viz strana 3.</text>
 </LM>
 </annot_comment>
 </LM>
@@ -6961,11 +6955,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>24</deepord>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

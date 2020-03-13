@@ -4,7 +4,7 @@
 <schema href="tdata_faust_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="faust_2010_07_es_17.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -904,7 +904,7 @@
 <annot_comment>
 <LM>
 <type>New valency frame</type>
-<text>F ($2&lt;i&gt;) ACT(.1) PAT(.1;.4;pro+4) LOC(.1;.4;na+6;*) viz Obrázek 4</text>
+<text>F ($2&lt;i>) ACT(.1) PAT(.1;.4;pro+4) LOC(.1;.4;na+6;*) viz Obrázek 4</text>
 </LM>
 </annot_comment>
 </LM>
@@ -2040,10 +2040,13 @@
 <LM>a#faust_2010_07_es_17-SCzechA-p1769-s1-w14</LM>
 <LM>a#faust_2010_07_es_17-SCzechA-p1769-s1-w15</LM>
 <LM>a#faust_2010_07_es_17-SCzechA-p1769-s1-w16</LM>
+<LM>a#es_17-SCzechM-p1769-s1-w12-sw1-ia</LM>
+<LM>a#faust_2010_07_es_17-SCzechA-p1769-s1-w17</LM>
+<LM>a#faust_2010_07_es_17-SCzechA-p1769-s1-w19</LM>
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>PT10_-_001_-_01</t_lemma>
+<t_lemma>PT_10_-_001_-_01_1_5</t_lemma>
 <functor>ID</functor>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -2052,15 +2055,6 @@
 <numertype>basic</numertype>
 </gram>
 <deepord>9</deepord>
-</LM>
-</children>
-</LM>
-<LM id="faust_2010_07_es_17-SCzechT-p1769-s1-roota5">
-<nodetype>list</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#Idph</t_lemma>
-<functor>RSTR</functor>
-<deepord>14</deepord>
 <children>
 <LM id="faust_2010_07_es_17-SCzechT-p1769-s1-w20">
 <a>
@@ -2068,37 +2062,24 @@
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>SFSV</t_lemma>
-<functor>ID</functor>
+<functor>RSTR</functor>
 <gram>
 <sempos>n.denot</sempos>
 <gender>anim</gender>
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>15</deepord>
-<children>
-<LM id="faust_2010_07_es_17-SCzechT-p1769-s1-roota6">
-<a>
-<lex.rf>a#faust_2010_07_es_17-SCzechA-p1769-s1-w17</lex.rf>
-<aux.rf>
-<LM>a#faust_2010_07_es_17-SCzechA-p1769-s1-w18</LM>
-<LM>a#faust_2010_07_es_17-SCzechA-p1769-s1-w19</LM>
-</aux.rf>
-</a>
-<nodetype>complex</nodetype>
-<t_lemma>1_._5</t_lemma>
-<functor>RSTR</functor>
-<gram>
-<sempos>n.denot</sempos>
-</gram>
 <deepord>13</deepord>
-</LM>
+<children>
 <LM id="faust_2010_07_es_17-SCzechT-p1769-s1-w21">
 <a>
 <lex.rf>a#faust_2010_07_es_17-SCzechA-p1769-s1-w21</lex.rf>
+<aux.rf>
+<LM>a#es_17-SCzechM-p1769-s1-w21-sw1-ia</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>T6</t_lemma>
+<t_lemma>T_6</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.quant.def</sempos>
@@ -2106,14 +2087,14 @@
 <number>nr</number>
 <numertype>basic</numertype>
 </gram>
-<deepord>16</deepord>
+<deepord>14</deepord>
 </LM>
 <LM id="faust_2010_07_es_17-SCzechT-p1769-s1-roota7">
 <nodetype>list</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
 <functor>RSTR</functor>
-<deepord>17</deepord>
+<deepord>15</deepord>
 <children>
 <LM id="faust_2010_07_es_17-SCzechT-p1769-s1-w22">
 <a>
@@ -2128,7 +2109,9 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>18</deepord>
+<deepord>16</deepord>
+</LM>
+</children>
 </LM>
 </children>
 </LM>
@@ -2170,7 +2153,7 @@
 <iterativeness>it0</iterativeness>
 <negation>neg0</negation>
 </gram>
-<deepord>20</deepord>
+<deepord>18</deepord>
 <children>
 <LM id="faust_2010_07_es_17-SCzechT-p1769-s1-w29">
 <a>
@@ -2194,14 +2177,14 @@
 <iterativeness>it0</iterativeness>
 <negation>neg0</negation>
 </gram>
-<deepord>21</deepord>
+<deepord>19</deepord>
 <children>
 <LM id="faust_2010_07_es_17-SCzechT-p1769-s1-roota4">
 <nodetype>qcomplex</nodetype>
 <is_generated>1</is_generated>
 <t_lemma>#NewNode</t_lemma>
 <functor>ACT</functor>
-<deepord>19</deepord>
+<deepord>17</deepord>
 </LM>
 <LM id="faust_2010_07_es_17-SCzechT-p1769-s1-w31">
 <a>
@@ -2216,7 +2199,7 @@
 <number>pl</number>
 <negation>neg0</negation>
 </gram>
-<deepord>23</deepord>
+<deepord>21</deepord>
 <children>
 <LM id="faust_2010_07_es_17-SCzechT-p1769-s1-w30">
 <a>
@@ -2230,7 +2213,7 @@
 <degcmp>pos</degcmp>
 <numertype>basic</numertype>
 </gram>
-<deepord>22</deepord>
+<deepord>20</deepord>
 </LM>
 <LM id="faust_2010_07_es_17-SCzechT-p1769-s1-w34">
 <a>
@@ -2248,7 +2231,7 @@
 <number>pl</number>
 <negation>neg0</negation>
 </gram>
-<deepord>25</deepord>
+<deepord>23</deepord>
 <children>
 <LM id="faust_2010_07_es_17-SCzechT-p1769-s1-w33">
 <a>
@@ -2262,7 +2245,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>24</deepord>
+<deepord>22</deepord>
 </LM>
 <LM id="faust_2010_07_es_17-SCzechT-p1769-s1-w36">
 <a>
@@ -2280,7 +2263,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>26</deepord>
+<deepord>24</deepord>
 <children>
 <LM id="faust_2010_07_es_17-SCzechT-p1769-s1-w37">
 <a>
@@ -2295,7 +2278,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>27</deepord>
+<deepord>25</deepord>
 </LM>
 </children>
 </LM>
@@ -4278,15 +4261,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Other</type>
-<text>změněn gram/sempos z adj.denot na v pro přiřazení rámce pro sloveso</text>
-</LM>
-<LM>
-<type>Typo</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

@@ -4,7 +4,7 @@
 <schema href="tdata_faust_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="faust_2010_07_jh_03.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -2902,7 +2902,7 @@
 <lex.rf>a#faust_2010_07_jh_03-SCzechA-p0233-s1-w7</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>oreintační</t_lemma>
+<t_lemma>orientační</t_lemma>
 <functor>MANN</functor>
 <gram>
 <sempos>n.denot</sempos>

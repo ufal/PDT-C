@@ -4,7 +4,7 @@
 <schema href="tdata_faust_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="faust_2010_07_jh_20.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -883,11 +883,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <annot_comment>
@@ -2662,11 +2657,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_jh_20-SCzechT-p2117-s1-w7">
 <a>
@@ -6934,11 +6924,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_jh_20-SCzechT-p2155-s1-w9">
 <a>
@@ -8967,7 +8952,7 @@
 <lex.rf>a#faust_2010_07_jh_20-SCzechA-p2164-s1-w41</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>mezinárodný</t_lemma>
+<t_lemma>mezinárodní</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>adj.denot</sempos>
@@ -9532,7 +9517,7 @@
 <lex.rf>a#faust_2010_07_jh_20-SCzechA-p2180-s1-w10</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>system</t_lemma>
+<t_lemma>systém</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -9891,11 +9876,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>29</deepord>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_jh_20-SCzechT-p2180-s1-w39">
 <a>

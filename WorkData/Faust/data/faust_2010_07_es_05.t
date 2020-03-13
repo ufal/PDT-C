@@ -4,7 +4,7 @@
 <schema href="tdata_faust_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="faust_2010_07_es_05.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -825,7 +825,7 @@
 <lex.rf>a#faust_2010_07_es_05-SCzechA-p0454-s1-w4</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>strarý</t_lemma>
+<t_lemma>starý</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>adj.denot</sempos>

@@ -4,7 +4,7 @@
 <schema href="tdata_faust_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="faust_2010_07_mu_19.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -4895,7 +4895,7 @@
 <lex.rf>a#faust_2010_07_mu_19-SCzechA-p2034-s1-w34</lex.rf>
 </a>
 <nodetype>dphr</nodetype>
-<t_lemma>vedět</t_lemma>
+<t_lemma>vědět</t_lemma>
 <functor>DPHR</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -8475,7 +8475,7 @@
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>nástupište</t_lemma>
+<t_lemma>nástupiště</t_lemma>
 <functor>DIR1</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -8737,7 +8737,7 @@
 <lex.rf>a#faust_2010_07_mu_19-SCzechA-p2080-s1-w7</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>&gt;</t_lemma>
+<t_lemma>></t_lemma>
 <functor>FPHR</functor>
 <deepord>8</deepord>
 </LM>

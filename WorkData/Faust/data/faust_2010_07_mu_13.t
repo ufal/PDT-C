@@ -4,7 +4,7 @@
 <schema href="tdata_faust_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="faust_2010_07_mu_13.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -3539,12 +3539,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>prohozené r a o</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3640,7 +3634,7 @@
 <lex.rf>a#faust_2010_07_mu_13-SCzechA-p1364-s1-w5</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>neobyklý</t_lemma>
+<t_lemma>neobvyklý</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>adj.denot</sempos>
@@ -5908,10 +5902,6 @@
 <LM>
 <type>New valency frame</type>
 <text>P</text>
-</LM>
-<LM>
-<type>Typo</type>
-<text>druhé "a" má být dlouhé</text>
 </LM>
 </annot_comment>
 </LM>

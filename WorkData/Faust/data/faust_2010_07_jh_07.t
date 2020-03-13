@@ -4,7 +4,7 @@
 <schema href="tdata_faust_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="faust_2010_07_jh_07.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -3366,7 +3366,7 @@
 <lex.rf>a#faust_2010_07_jh_07-SCzechA-p0684-s1-w1</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>certifkát</t_lemma>
+<t_lemma>certifikát</t_lemma>
 <functor>DENOM</functor>
 <sentmod>enunc</sentmod>
 <gram>
@@ -5722,7 +5722,10 @@
 <children>
 <LM id="faust_2010_07_jh_07-SCzechT-p0711-s1-w2">
 <a>
-<lex.rf>a#faust_2010_07_jh_07-SCzechA-p0711-s1-w2</lex.rf>
+<lex.rf>a#jh_07-SCzechM-p0711-s1-w2-sw1-ia</lex.rf>
+<aux.rf>
+<LM>a#faust_2010_07_jh_07-SCzechA-p0711-s1-w2</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>#PersPron</t_lemma>
@@ -5734,12 +5737,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>Other</type>
-<text>nutno doplnit předložku</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

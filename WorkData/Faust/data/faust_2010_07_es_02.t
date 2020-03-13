@@ -4,7 +4,7 @@
 <schema href="tdata_faust_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="faust_2010_07_es_02.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -3229,7 +3229,7 @@
 <lex.rf>a#faust_2010_07_es_02-SCzechA-p0119-s1-w6</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>sobor</t_lemma>
+<t_lemma>soubor</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -8231,12 +8231,6 @@
 <deepord>12</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>platí pro aux</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_es_02-SCzechT-p0180-s1-w7">
 <a>

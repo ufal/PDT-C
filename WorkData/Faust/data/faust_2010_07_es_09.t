@@ -4,7 +4,7 @@
 <schema href="tdata_faust_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="faust_2010_07_es_09.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -2687,7 +2687,7 @@
 <annot_comment>
 <LM>
 <type>New valency frame</type>
-<text>F ($2&lt;i&gt;) ACT(.1) PAT(.1;.4;pro+4) LOC(.1;.4;na+6;*) viz příloha</text>
+<text>F ($2&lt;i>) ACT(.1) PAT(.1;.4;pro+4) LOC(.1;.4;na+6;*) viz příloha</text>
 </LM>
 </annot_comment>
 </LM>
@@ -4026,7 +4026,7 @@
 </aux.rf>
 </a>
 <nodetype>dphr</nodetype>
-<t_lemma>na_to</t_lemma>
+<t_lemma>na_tom</t_lemma>
 <functor>DPHR</functor>
 <gram>
 <sempos>n.pron.def.demon</sempos>
@@ -4607,7 +4607,7 @@
 <children>
 <LM id="faust_2010_07_es_09-SCzechT-p0930-s1-w14">
 <a>
-<lex.rf>a#faust_2010_07_es_09-SCzechA-p0930-s1-w14</lex.rf>
+<lex.rf>a#es_09-SCzechM-p0930-s1-w14-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>

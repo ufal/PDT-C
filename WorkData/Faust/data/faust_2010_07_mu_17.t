@@ -4,7 +4,7 @@
 <schema href="tdata_faust_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="faust_2010_07_mu_17.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -639,12 +639,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>25</deepord>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>na konci má být dlouhé í</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -847,12 +841,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>místo "l" má být na konci "ů"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1095,12 +1083,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>druhé a má být dlouhé</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1124,12 +1106,6 @@
 <deepord>57</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>druhé a má být dlouhé</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1602,12 +1578,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>druhé í má být krátké</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_17-SCzechT-p1763-s1-w15">
 <a>
@@ -2289,7 +2259,7 @@
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>skrvna</t_lemma>
+<t_lemma>skvrna</t_lemma>
 <functor>ACMP</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -3250,7 +3220,7 @@
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>Cambdrige</t_lemma>
+<t_lemma>Cambridge</t_lemma>
 <functor>LOC</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -5452,12 +5422,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>prohozené s a u</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_17-SCzechT-p1803-s1-roota9">
 <nodetype>atom</nodetype>

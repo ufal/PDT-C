@@ -4,7 +4,7 @@
 <schema href="tdata_faust_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="faust_2010_07_es_18.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -8107,7 +8107,7 @@
 <lex.rf>a#faust_2010_07_es_18-SCzechA-p1958-s1-w21</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>návrhářslý</t_lemma>
+<t_lemma>návrhářský</t_lemma>
 <functor>RSTR</functor>
 <is_member>1</is_member>
 <gram>
@@ -8443,7 +8443,7 @@
 <lex.rf>a#faust_2010_07_es_18-SCzechA-p1958-s1-w45</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>elektonický</t_lemma>
+<t_lemma>elektronický</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>adj.denot</sempos>

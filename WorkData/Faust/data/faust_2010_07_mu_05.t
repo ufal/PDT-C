@@ -4,7 +4,7 @@
 <schema href="tdata_faust_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="faust_2010_07_mu_05.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -352,11 +352,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -762,7 +757,7 @@
 <lex.rf>a#faust_2010_07_mu_05-SCzechA-p0436-s1-w37</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>vniřní</t_lemma>
+<t_lemma>vnitřní</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>adj.denot</sempos>
@@ -874,7 +869,7 @@
 <lex.rf>a#faust_2010_07_mu_05-SCzechA-p0436-s1-w47</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>nejlblíž</t_lemma>
+<t_lemma>blízko</t_lemma>
 <functor>LOC</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -901,11 +896,6 @@
 <deepord>37</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -1290,7 +1280,7 @@
 <lex.rf>a#faust_2010_07_mu_05-SCzechA-p0454-s1-w13</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>fosílí</t_lemma>
+<t_lemma>fosílie</t_lemma>
 <functor>PAT</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -4527,7 +4517,7 @@
 <lex.rf>a#faust_2010_07_mu_05-SCzechA-p0500-s1-w4</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>globalizce</t_lemma>
+<t_lemma>globalizace</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -5597,7 +5587,7 @@
 <lex.rf>a#faust_2010_07_mu_05-SCzechA-p0508-s1-w2</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>následujícícm</t_lemma>
+<t_lemma>následující</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -5783,7 +5773,7 @@
 <lex.rf>a#faust_2010_07_mu_05-SCzechA-p0510-s1-w9</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>interkativní</t_lemma>
+<t_lemma>interaktivní</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>adj.denot</sempos>
@@ -7276,7 +7266,7 @@
 <lex.rf>a#faust_2010_07_mu_05-SCzechA-p0538-s1-w4</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>štastný</t_lemma>
+<t_lemma>šťastný</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>adj.denot</sempos>

@@ -4,7 +4,7 @@
 <schema href="tdata_faust_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="faust_2010_07_mu_15.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -840,7 +840,7 @@
 <lex.rf>a#faust_2010_07_mu_15-SCzechA-p1538-s1-w16</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>bezpečností</t_lemma>
+<t_lemma>bezpečnostní</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>adj.denot</sempos>
@@ -2106,22 +2106,19 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>3</deepord>
+<deepord>2</deepord>
 <children>
-<LM id="faust_2010_07_mu_15-SCzechT-p1556-s1-w1">
+<LM id="faust_2010_07_mu_15-SCzechT-p1556-s1-roota7">
 <a>
-<lex.rf>a#faust_2010_07_mu_15-SCzechA-p1556-s1-w1</lex.rf>
+<lex.rf>a#mu_15-SCzechM-p1556-s1-w1-sw1-ia</lex.rf>
+<aux.rf>
+<LM>a#faust_2010_07_mu_15-SCzechA-p1556-s1-w1</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>způlky</t_lemma>
+<t_lemma>půlka</t_lemma>
 <functor>EXT</functor>
-<gram>
-<sempos>n.denot</sempos>
-<gender>anim</gender>
-<number>sg</number>
-<negation>neg0</negation>
-</gram>
-<deepord>2</deepord>
+<deepord>3</deepord>
 </LM>
 </children>
 </LM>
@@ -4788,12 +4785,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>2</deepord>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>má být dlouhé í na konci - "vůlí"</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_15-SCzechT-p1604-s1-w5">
 <a>

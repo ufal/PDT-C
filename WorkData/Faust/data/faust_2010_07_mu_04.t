@@ -4,7 +4,7 @@
 <schema href="tdata_faust_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="faust_2010_07_mu_04.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -2113,11 +2113,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3482,7 +3477,7 @@
 <lex.rf>a#faust_2010_07_mu_04-SCzechA-p0351-s1-w4</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>kratokodobý</t_lemma>
+<t_lemma>krátkodobý</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -5143,11 +5138,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>12</deepord>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_04-SCzechT-p0369-s1-roota8">
 <nodetype>atom</nodetype>
@@ -6653,11 +6643,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <annot_comment>
@@ -7046,7 +7031,7 @@
 <lex.rf>a#faust_2010_07_mu_04-SCzechA-p0390-s1-w36</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>nejčastěji</t_lemma>
+<t_lemma>často</t_lemma>
 <functor>THO</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -7055,11 +7040,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>28</deepord>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_04-SCzechT-p0390-s1-roota5">
 <nodetype>qcomplex</nodetype>
@@ -8888,11 +8868,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -9285,15 +9260,9 @@
 <t_lemma>#PersPron</t_lemma>
 <functor>BEN</functor>
 <gram>
-<sempos>v</sempos>
+<sempos>n.pron.def.pers</sempos>
 </gram>
 <deepord>3</deepord>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>správná podoba "si"</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_04-SCzechT-p0425-s1-w4">
 <a>

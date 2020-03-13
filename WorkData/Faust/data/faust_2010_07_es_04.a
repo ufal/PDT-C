@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <adata xmlns="http://ufal.mff.cuni.cz/pdt/pml/">
 <head>
-<schema href="adata_schema.xml"/>
+<schema href="adata_schema.xml" />
 <references>
-<reffile id="m" name="mdata" href="faust_2010_07_es_04.m"/>
+<reffile id="m" name="mdata" href="faust_2010_07_es_04.m" />
 </references>
 </head>
 <trees>
