@@ -2902,7 +2902,7 @@
 <lex.rf>a#faust_2010_07_jh_03-SCzechA-p0233-s1-w7</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>oreintační</t_lemma>
+<t_lemma>orientační</t_lemma>
 <functor>MANN</functor>
 <gram>
 <sempos>n.denot</sempos>

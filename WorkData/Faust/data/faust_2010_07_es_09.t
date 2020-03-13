@@ -4026,7 +4026,7 @@
 </aux.rf>
 </a>
 <nodetype>dphr</nodetype>
-<t_lemma>na_to</t_lemma>
+<t_lemma>na_tom</t_lemma>
 <functor>DPHR</functor>
 <gram>
 <sempos>n.pron.def.demon</sempos>
@@ -4607,7 +4607,7 @@
 <children>
 <LM id="faust_2010_07_es_09-SCzechT-p0930-s1-w14">
 <a>
-<lex.rf>a#faust_2010_07_es_09-SCzechA-p0930-s1-w14</lex.rf>
+<lex.rf>a#es_09-SCzechM-p0930-s1-w14-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>letý</t_lemma>

@@ -2106,7 +2106,7 @@
 <lex.rf>a#faust_2010_07_es_16-SCzechA-p1663-s1-w9</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>srategie</t_lemma>
+<t_lemma>strategie</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -3014,7 +3014,7 @@
 <lex.rf>a#faust_2010_07_es_16-SCzechA-p1674-s1-w1</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>Om</t_lemma>
+<t_lemma>#PersPron</t_lemma>
 <functor>DENOM</functor>
 <is_member>1</is_member>
 <sentmod>enunc</sentmod>
@@ -4593,19 +4593,6 @@
 <deepord>2</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-<LM>
-<type>New valency frame</type>
-<text>P</text>
-</LM>
-<LM>
-<type>Other</type>
-<text>změněn gram/sempos z adj.denot na n.denot, aby mohl být přiřazen rámec pro substantivum na -ní</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_es_16-SCzechT-p1706-s1-roota2">
 <a>
@@ -5559,15 +5546,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Other</type>
-<text>změněn gram/sempos z n.denot na v pro přiřazení existující rámce pro sloveso</text>
-</LM>
-<LM>
-<type>Typo</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

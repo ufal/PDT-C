@@ -3999,12 +3999,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Other</type>
-<text>změněn gram/sempos z n.denot na v, aby mohl být přiřazen existující rámec pro sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

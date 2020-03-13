@@ -7435,9 +7435,6 @@
 </children>
 <annot_comment>
 <LM>
-<type>Typo</type>
-</LM>
-<LM>
 <type>New valency frame</type>
 <text>P</text>
 </LM>

@@ -5892,15 +5892,6 @@
 <deepord>16</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-<LM>
-<type>Other</type>
-<text>změněn gram/sempos z n.denot na v, aby mohl být přiřazen existující rámec pro sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

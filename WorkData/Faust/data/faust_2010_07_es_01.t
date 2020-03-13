@@ -1228,12 +1228,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>platí pro aux</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_es_01-SCzechT-p0015-s1-w55">
 <a>
@@ -6961,11 +6955,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>24</deepord>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

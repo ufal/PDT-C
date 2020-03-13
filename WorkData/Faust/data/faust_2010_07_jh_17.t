@@ -7205,11 +7205,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>17</deepord>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_jh_17-SCzechT-p1815-s1-w25">
 <a>

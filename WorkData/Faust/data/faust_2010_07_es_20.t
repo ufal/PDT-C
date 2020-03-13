@@ -1878,7 +1878,7 @@
 <lex.rf>a#faust_2010_07_es_20-SCzechA-p2102-s1-w19</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>imformace</t_lemma>
+<t_lemma>informace</t_lemma>
 <functor>PAT</functor>
 <gram>
 <sempos>n.denot</sempos>

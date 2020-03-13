@@ -825,7 +825,7 @@
 <lex.rf>a#faust_2010_07_es_05-SCzechA-p0454-s1-w4</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>strarý</t_lemma>
+<t_lemma>starý</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>adj.denot</sempos>

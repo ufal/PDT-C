@@ -2752,7 +2752,7 @@
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>podnik</t_lemma>
-<functor>BEN</functor>
+<functor>MAT</functor>
 <gram>
 <sempos>n.denot</sempos>
 <gender>inan</gender>
@@ -2760,11 +2760,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>6</deepord>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -4616,7 +4611,7 @@
 <lex.rf>a#faust_2010_07_es_15-SCzechA-p1595-s1-w1</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>fotogragie</t_lemma>
+<t_lemma>fotografie</t_lemma>
 <functor>DENOM</functor>
 <sentmod>enunc</sentmod>
 <gram>

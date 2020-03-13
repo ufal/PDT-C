@@ -2108,12 +2108,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>místo ě má být š</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3396,12 +3390,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>10</deepord>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>poslední y má být dlouhé</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_18-SCzechT-p1887-s1-w18">
 <a>
@@ -4372,12 +4360,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>a nemá být dlouhé</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6592,12 +6574,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>první písmeno tam nemá být</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

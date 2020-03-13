@@ -1115,12 +1115,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>místo posledního "ě" má být "e"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2355,12 +2349,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>mezi "ě" a "n" chybí "d"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6074,7 +6062,7 @@
 <lex.rf>a#faust_2010_07_mu_14-SCzechA-p1505-s1-w3</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>politka</t_lemma>
+<t_lemma>politika</t_lemma>
 <functor>PAT</functor>
 <gram>
 <sempos>n.denot</sempos>

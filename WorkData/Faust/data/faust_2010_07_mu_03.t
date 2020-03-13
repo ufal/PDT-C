@@ -704,7 +704,7 @@
 <lex.rf>a#faust_2010_07_mu_03-SCzechA-p0202-s1-w3</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>těnto</t_lemma>
+<t_lemma>tento</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -1844,6 +1844,7 @@
 <LM>a#faust_2010_07_mu_03-SCzechA-p0218-s1-w2</LM>
 </aux.rf>
 </a>
+<val_frame.rf>v#v-whsa_1138hsa_1139</val_frame.rf>
 <nodetype>complex</nodetype>
 <t_lemma>semknout_se</t_lemma>
 <functor>PRED</functor>
@@ -1868,15 +1869,6 @@
 <deepord>3</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-<LM>
-<type>New valency frame</type>
-<text>W ACT(.1) PAT(s+7) ?EFF(do+2;v+4) (sdružit se) Semknout se v šik.</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -2018,7 +2010,7 @@
 <a>
 <lex.rf>a#faust_2010_07_mu_03-SCzechA-p0219-s1-w9</lex.rf>
 </a>
-<val_frame.rf>v#v-w732f1</val_frame.rf>
+<val_frame.rf>v#v-w732f41_ZU</val_frame.rf>
 <nodetype>complex</nodetype>
 <t_lemma>dostat</t_lemma>
 <functor>PRED</functor>
@@ -2075,15 +2067,6 @@
 <deepord>13</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-<LM>
-<type>Other</type>
-<text>není přiřazen rámec</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3164,12 +3147,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>19</deepord>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>správný tvar "dvojlomným"</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_03-SCzechT-p0233-s1-roota2">
 <a>
@@ -3216,24 +3193,12 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>správný tvar "indexem"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>v auxu správný tvar "směrem"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

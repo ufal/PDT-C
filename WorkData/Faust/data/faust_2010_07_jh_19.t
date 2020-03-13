@@ -3145,11 +3145,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>16</deepord>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <annot_comment>
@@ -5234,7 +5229,7 @@
 <lex.rf>a#faust_2010_07_jh_19-SCzechA-p2035-s1-w10</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>intehentní</t_lemma>
+<t_lemma>inherentní</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>adj.denot</sempos>

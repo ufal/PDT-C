@@ -4895,7 +4895,7 @@
 <lex.rf>a#faust_2010_07_mu_19-SCzechA-p2034-s1-w34</lex.rf>
 </a>
 <nodetype>dphr</nodetype>
-<t_lemma>vedět</t_lemma>
+<t_lemma>vědět</t_lemma>
 <functor>DPHR</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -8475,7 +8475,7 @@
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>nástupište</t_lemma>
+<t_lemma>nástupiště</t_lemma>
 <functor>DIR1</functor>
 <gram>
 <sempos>n.denot</sempos>

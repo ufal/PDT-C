@@ -3243,7 +3243,7 @@
 <lex.rf>a#faust_2010_07_es_03-SCzechA-p0239-s1-w1</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>štastný</t_lemma>
+<t_lemma>šťastný</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.denot</sempos>

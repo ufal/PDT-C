@@ -3229,7 +3229,7 @@
 <lex.rf>a#faust_2010_07_es_02-SCzechA-p0119-s1-w6</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>sobor</t_lemma>
+<t_lemma>soubor</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -8231,12 +8231,6 @@
 <deepord>12</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>platí pro aux</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_es_02-SCzechT-p0180-s1-w7">
 <a>

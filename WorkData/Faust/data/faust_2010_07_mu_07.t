@@ -2511,11 +2511,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>9</deepord>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3340,7 +3335,7 @@
 <lex.rf>a#faust_2010_07_mu_07-SCzechA-p0684-s1-w9</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>rúzný</t_lemma>
+<t_lemma>různý</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>adj.denot</sempos>
@@ -3878,7 +3873,7 @@
 <lex.rf>a#faust_2010_07_mu_07-SCzechA-p0696-s1-w20</lex.rf>
 </a>
 <nodetype>fphr</nodetype>
-<t_lemma>Trénik</t_lemma>
+<t_lemma>Trénink</t_lemma>
 <functor>FPHR</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -3932,11 +3927,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_07-SCzechT-p0696-s1-w26">
 <a>
@@ -4367,7 +4357,7 @@
 <lex.rf>a#faust_2010_07_mu_07-SCzechA-p0701-s1-w20</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>kteři</t_lemma>
+<t_lemma>který</t_lemma>
 <functor>ACT</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -4749,12 +4739,6 @@
 <politeness>basic</politeness>
 </gram>
 <deepord>16</deepord>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>správný tvar "mi"</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_07-SCzechT-p0703-s1-w17">
 <a>

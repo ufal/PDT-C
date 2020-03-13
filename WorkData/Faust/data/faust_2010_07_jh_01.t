@@ -6631,7 +6631,7 @@
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>Dilí</t_lemma>
+<t_lemma>Dillí</t_lemma>
 <functor>LOC</functor>
 <gram>
 <sempos>n.denot</sempos>

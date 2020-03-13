@@ -6682,11 +6682,6 @@
 <politeness>basic</politeness>
 </gram>
 <deepord>20</deepord>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_es_10-SCzechT-p1049-s1-roota4">
 <nodetype>qcomplex</nodetype>
@@ -8505,11 +8500,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

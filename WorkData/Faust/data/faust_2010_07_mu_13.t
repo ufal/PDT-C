@@ -3539,12 +3539,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>prohozené r a o</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3640,7 +3634,7 @@
 <lex.rf>a#faust_2010_07_mu_13-SCzechA-p1364-s1-w5</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>neobyklý</t_lemma>
+<t_lemma>neobvyklý</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>adj.denot</sempos>
@@ -5908,10 +5902,6 @@
 <LM>
 <type>New valency frame</type>
 <text>P</text>
-</LM>
-<LM>
-<type>Typo</type>
-<text>druhé "a" má být dlouhé</text>
 </LM>
 </annot_comment>
 </LM>

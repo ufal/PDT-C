@@ -3483,7 +3483,7 @@
 <lex.rf>a#faust_2010_07_mu_02-SCzechA-p0124-s1-w19</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>pravděpoboný</t_lemma>
+<t_lemma>pravděpodobný</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>adj.denot</sempos>
@@ -6316,9 +6316,6 @@
 </LM>
 </children>
 <annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
 <LM>
 <type>New valency frame</type>
 <text>nP</text>

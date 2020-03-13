@@ -8107,7 +8107,7 @@
 <lex.rf>a#faust_2010_07_es_18-SCzechA-p1958-s1-w21</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>návrhářslý</t_lemma>
+<t_lemma>návrhářský</t_lemma>
 <functor>RSTR</functor>
 <is_member>1</is_member>
 <gram>
@@ -8443,7 +8443,7 @@
 <lex.rf>a#faust_2010_07_es_18-SCzechA-p1958-s1-w45</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>elektonický</t_lemma>
+<t_lemma>elektronický</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>adj.denot</sempos>

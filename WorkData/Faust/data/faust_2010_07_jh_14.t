@@ -216,7 +216,7 @@
 <lex.rf>a#faust_2010_07_jh_14-SCzechA-p1397-s1-w4</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>mlučí</t_lemma>
+<t_lemma>mluvčí</t_lemma>
 <functor>ACT</functor>
 <is_member>1</is_member>
 <gram>
@@ -440,7 +440,7 @@
 <lex.rf>a#faust_2010_07_jh_14-SCzechA-p1397-s1-w21</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>Dominkánský</t_lemma>
+<t_lemma>Dominikánský</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>adj.denot</sempos>
@@ -450,12 +450,6 @@
 <deepord>18</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>mělo by být malé r</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -3985,11 +3979,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -5046,11 +5035,6 @@
 <deepord>3</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

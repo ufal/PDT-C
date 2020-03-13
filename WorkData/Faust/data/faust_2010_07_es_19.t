@@ -3661,11 +3661,6 @@
 <deepord>5</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -6948,15 +6943,6 @@
 </annot_comment>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-<LM>
-<type>Other</type>
-<text>změněn gram/sempos z adj.denot na v pro přiřazení existujícího valrámce</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

@@ -1836,7 +1836,7 @@
 <lex.rf>a#faust_2010_07_mu_20-SCzechA-p2102-s1-w11</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>neužitěčný</t_lemma>
+<t_lemma>neužitečný</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.denot</sempos>
@@ -1990,10 +1990,6 @@
 <LM>
 <type>New valency frame</type>
 <text>P</text>
-</LM>
-<LM>
-<type>Typo</type>
-<text>chybí á mezi v a n / změněno na substantivum</text>
 </LM>
 </annot_comment>
 </LM>
@@ -4632,7 +4628,7 @@
 <lex.rf>a#faust_2010_07_mu_20-SCzechA-p2141-s1-w26</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>licensování</t_lemma>
+<t_lemma>licencování</t_lemma>
 <functor>MEANS</functor>
 <gram>
 <sempos>n.denot.neg</sempos>
@@ -5502,12 +5498,6 @@
 <deepord>10</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>i má být dlouhé / změněno na sloveso</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>
@@ -10052,12 +10042,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>špatný pád - má být ablativ</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 <annot_comment>
@@ -10603,12 +10587,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>a má být dlouhé</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

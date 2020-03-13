@@ -2301,12 +2301,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>1</deepord>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>původně krátké i na konci</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_12-SCzechT-p1235-s1-w4">
 <a>
@@ -2357,7 +2351,7 @@
 <nodetype>coap</nodetype>
 <t_lemma>#Semicolon</t_lemma>
 <functor>CONJ</functor>
-<deepord>29</deepord>
+<deepord>31</deepord>
 <children>
 <LM id="faust_2010_07_mu_12-SCzechT-p1239-s1-w3">
 <a>
@@ -2421,14 +2415,21 @@
 </LM>
 </children>
 </LM>
+<LM id="faust_2010_07_mu_12-SCzechT-p1239-s1-roota6">
+<nodetype>list</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>#Forn</t_lemma>
+<functor>DENOM</functor>
+<is_member>1</is_member>
+<deepord>6</deepord>
+<children>
 <LM id="faust_2010_07_mu_12-SCzechT-p1239-s1-w7">
 <a>
 <lex.rf>a#faust_2010_07_mu_12-SCzechA-p1239-s1-w7</lex.rf>
 </a>
-<nodetype>complex</nodetype>
-<t_lemma>Tádžmahál</t_lemma>
-<functor>DENOM</functor>
-<is_member>1</is_member>
+<nodetype>fphr</nodetype>
+<t_lemma>Tádž</t_lemma>
+<functor>FPHR</functor>
 <gram>
 <sempos>n.denot</sempos>
 <gender>fem</gender>
@@ -2436,14 +2437,24 @@
 <negation>neg0</negation>
 </gram>
 <deepord>5</deepord>
-<children>
+</LM>
+<LM id="faust_2010_07_mu_12-SCzechT-p1239-s1-roota7">
+<a>
+<lex.rf>a#mu_12-SCzechM-p1239-s1-w7-sw1-ia</lex.rf>
+</a>
+<nodetype>fphr</nodetype>
+<is_generated>1</is_generated>
+<t_lemma>Mahal</t_lemma>
+<functor>FPHR</functor>
+<deepord>7</deepord>
+</LM>
 <LM id="faust_2010_07_mu_12-SCzechT-p1239-s1-w9">
 <a>
 <lex.rf>a#faust_2010_07_mu_12-SCzechA-p1239-s1-w9</lex.rf>
 </a>
-<nodetype>complex</nodetype>
+<nodetype>fphr</nodetype>
 <t_lemma>Indie</t_lemma>
-<functor>PAR</functor>
+<functor>FPHR</functor>
 <gram>
 <sempos>n.denot</sempos>
 <gender>fem</gender>
@@ -2451,7 +2462,7 @@
 <negation>neg0</negation>
 </gram>
 <is_parenthesis>1</is_parenthesis>
-<deepord>6</deepord>
+<deepord>8</deepord>
 </LM>
 </children>
 </LM>
@@ -2461,7 +2472,7 @@
 <t_lemma>#Forn</t_lemma>
 <functor>DENOM</functor>
 <is_member>1</is_member>
-<deepord>8</deepord>
+<deepord>10</deepord>
 <children>
 <LM id="faust_2010_07_mu_12-SCzechT-p1239-s1-w11">
 <a>
@@ -2476,7 +2487,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>7</deepord>
+<deepord>9</deepord>
 </LM>
 <LM id="faust_2010_07_mu_12-SCzechT-p1239-s1-w14">
 <a>
@@ -2492,7 +2503,7 @@
 <negation>neg0</negation>
 </gram>
 <is_parenthesis>1</is_parenthesis>
-<deepord>10</deepord>
+<deepord>12</deepord>
 <children>
 <LM id="faust_2010_07_mu_12-SCzechT-p1239-s1-w13">
 <a>
@@ -2507,7 +2518,7 @@
 <negation>neg0</negation>
 </gram>
 <is_parenthesis>1</is_parenthesis>
-<deepord>9</deepord>
+<deepord>11</deepord>
 </LM>
 </children>
 </LM>
@@ -2519,7 +2530,7 @@
 <t_lemma>#Forn</t_lemma>
 <functor>DENOM</functor>
 <is_member>1</is_member>
-<deepord>13</deepord>
+<deepord>15</deepord>
 <children>
 <LM id="faust_2010_07_mu_12-SCzechT-p1239-s1-w16">
 <a>
@@ -2535,7 +2546,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>11</deepord>
+<deepord>13</deepord>
 </LM>
 <LM id="faust_2010_07_mu_12-SCzechT-p1239-s1-w17">
 <a>
@@ -2550,7 +2561,7 @@
 <number>nr</number>
 <negation>neg0</negation>
 </gram>
-<deepord>12</deepord>
+<deepord>14</deepord>
 </LM>
 <LM id="faust_2010_07_mu_12-SCzechT-p1239-s1-w19">
 <a>
@@ -2566,7 +2577,7 @@
 <negation>neg0</negation>
 </gram>
 <is_parenthesis>1</is_parenthesis>
-<deepord>14</deepord>
+<deepord>16</deepord>
 </LM>
 </children>
 </LM>
@@ -2584,7 +2595,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>16</deepord>
+<deepord>18</deepord>
 <children>
 <LM id="faust_2010_07_mu_12-SCzechT-p1239-s1-w21">
 <a>
@@ -2598,7 +2609,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>15</deepord>
+<deepord>17</deepord>
 </LM>
 <LM id="faust_2010_07_mu_12-SCzechT-p1239-s1-w24">
 <a>
@@ -2616,7 +2627,7 @@
 <number>nr</number>
 <negation>neg0</negation>
 </gram>
-<deepord>17</deepord>
+<deepord>19</deepord>
 </LM>
 <LM id="faust_2010_07_mu_12-SCzechT-p1239-s1-w26">
 <a>
@@ -2632,7 +2643,7 @@
 <negation>neg0</negation>
 </gram>
 <is_parenthesis>1</is_parenthesis>
-<deepord>18</deepord>
+<deepord>20</deepord>
 </LM>
 </children>
 </LM>
@@ -2650,7 +2661,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>21</deepord>
+<deepord>23</deepord>
 <children>
 <LM id="faust_2010_07_mu_12-SCzechT-p1239-s1-w30">
 <a>
@@ -2668,7 +2679,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>19</deepord>
+<deepord>21</deepord>
 </LM>
 <LM id="faust_2010_07_mu_12-SCzechT-p1239-s1-w31">
 <a>
@@ -2682,7 +2693,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>20</deepord>
+<deepord>22</deepord>
 </LM>
 <LM id="faust_2010_07_mu_12-SCzechT-p1239-s1-w34">
 <a>
@@ -2698,7 +2709,7 @@
 <negation>neg0</negation>
 </gram>
 <is_parenthesis>1</is_parenthesis>
-<deepord>22</deepord>
+<deepord>24</deepord>
 </LM>
 </children>
 </LM>
@@ -2716,7 +2727,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>24</deepord>
+<deepord>26</deepord>
 <children>
 <LM id="faust_2010_07_mu_12-SCzechT-p1239-s1-w36">
 <a>
@@ -2730,7 +2741,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>23</deepord>
+<deepord>25</deepord>
 </LM>
 <LM id="faust_2010_07_mu_12-SCzechT-p1239-s1-w40">
 <a>
@@ -2748,7 +2759,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>26</deepord>
+<deepord>28</deepord>
 <children>
 <LM id="faust_2010_07_mu_12-SCzechT-p1239-s1-w39">
 <a>
@@ -2762,7 +2773,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>25</deepord>
+<deepord>27</deepord>
 </LM>
 <LM id="faust_2010_07_mu_12-SCzechT-p1239-s1-w42">
 <a>
@@ -2780,7 +2791,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>27</deepord>
+<deepord>29</deepord>
 </LM>
 </children>
 </LM>
@@ -2798,7 +2809,7 @@
 <negation>neg0</negation>
 </gram>
 <is_parenthesis>1</is_parenthesis>
-<deepord>28</deepord>
+<deepord>30</deepord>
 </LM>
 </children>
 </LM>
@@ -2807,7 +2818,7 @@
 <lex.rf>a#faust_2010_07_mu_12-SCzechA-p1239-s1-w46</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>Kláštěr</t_lemma>
+<t_lemma>Klášter</t_lemma>
 <functor>DENOM</functor>
 <is_member>1</is_member>
 <gram>
@@ -2816,7 +2827,7 @@
 <number>nr</number>
 <negation>neg0</negation>
 </gram>
-<deepord>30</deepord>
+<deepord>32</deepord>
 <children>
 <LM id="faust_2010_07_mu_12-SCzechT-p1239-s1-w48">
 <a>
@@ -2831,7 +2842,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>32</deepord>
+<deepord>34</deepord>
 <children>
 <LM id="faust_2010_07_mu_12-SCzechT-p1239-s1-w47">
 <a>
@@ -2845,7 +2856,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>31</deepord>
+<deepord>33</deepord>
 </LM>
 <LM id="faust_2010_07_mu_12-SCzechT-p1239-s1-roota5">
 <a>
@@ -2857,7 +2868,7 @@
 <is_generated>1</is_generated>
 <t_lemma>#Forn</t_lemma>
 <functor>DIR1</functor>
-<deepord>33</deepord>
+<deepord>35</deepord>
 <children>
 <LM id="faust_2010_07_mu_12-SCzechT-p1239-s1-w50">
 <a>
@@ -2871,7 +2882,7 @@
 <degcmp>pos</degcmp>
 <negation>neg0</negation>
 </gram>
-<deepord>34</deepord>
+<deepord>36</deepord>
 </LM>
 <LM id="faust_2010_07_mu_12-SCzechT-p1239-s1-w51">
 <a>
@@ -2886,7 +2897,7 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>35</deepord>
+<deepord>37</deepord>
 </LM>
 </children>
 </LM>
@@ -2906,7 +2917,7 @@
 <negation>neg0</negation>
 </gram>
 <is_parenthesis>1</is_parenthesis>
-<deepord>36</deepord>
+<deepord>38</deepord>
 </LM>
 </children>
 </LM>
@@ -4685,12 +4696,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>33</deepord>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>poslední í má být krátké</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_12-SCzechT-p1263-s1-w43">
 <a>
@@ -5323,10 +5328,6 @@
 </LM>
 </children>
 <annot_comment>
-<LM>
-<type>Typo</type>
-<text>původně "hormadění"</text>
-</LM>
 <LM>
 <type>New valency frame</type>
 <text>P</text>
@@ -5993,12 +5994,6 @@
 <deepord>14</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>prohozené "d" a "o"</text>
-</LM>
-</annot_comment>
 </LM>
 </children>
 </LM>

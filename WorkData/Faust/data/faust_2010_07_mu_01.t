@@ -2266,7 +2266,7 @@
 <lex.rf>a#faust_2010_07_mu_01-SCzechA-p0033-s1-w2</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>požadový</t_lemma>
+<t_lemma>požadovaný</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>adj.denot</sempos>
@@ -3372,7 +3372,7 @@
 <lex.rf>a#faust_2010_07_mu_01-SCzechA-p0050-s1-w2</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>ustřední</t_lemma>
+<t_lemma>ústřední</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>adj.denot</sempos>
@@ -4965,7 +4965,7 @@
 <lex.rf>a#faust_2010_07_mu_01-SCzechA-p0073-s1-w2</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>všeoběcně</t_lemma>
+<t_lemma>všeobecný</t_lemma>
 <functor>MANN</functor>
 <gram>
 <sempos>adv.denot.grad.neg</sempos>
@@ -6480,11 +6480,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>14</deepord>
-<annot_comment>
-<LM>
-<type>Typo</type>
-</LM>
-</annot_comment>
 </LM>
 <LM id="faust_2010_07_mu_01-SCzechT-p0094-s1-w22">
 <a>
