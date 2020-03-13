@@ -1,5 +1,12 @@
 # -*- mode: org -*-
 
+* Broken links t->a
+
+for tb in PCEDT PDTSC ; do
+    grep 'id=' WorkData/$tb/data/*.a | cut -f2 -d\" | grep ... | \
+    grep -vwFf- <(grep 'a#' WorkData/$tb/data/*.t)
+done
+
 * PCEDT + Faust [0/2]
 - [ ] Fix forms (new dictionary?)
 - [ ] Repeat all steps for Faust
