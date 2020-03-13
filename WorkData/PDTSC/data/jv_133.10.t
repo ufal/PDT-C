@@ -2184,7 +2184,6 @@
 <a>
 <lex.rf>a#jv_133.10-SCzechA-m-d1t2880-6</lex.rf>
 <aux.rf>
-<LM>a#jv_133.10-SCzechA-m-d1t2880-5</LM>
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>

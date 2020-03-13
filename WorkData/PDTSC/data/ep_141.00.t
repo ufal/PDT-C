@@ -8055,7 +8055,6 @@
 <a>
 <lex.rf>a#ep_141.00-SCzechA-m-d1t176-5</lex.rf>
 <aux.rf>
-<LM>a#ep_141.00-SCzechA-m-d1t176-3</LM>
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>

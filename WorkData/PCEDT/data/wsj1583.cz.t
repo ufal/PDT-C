@@ -1197,7 +1197,6 @@
 <LM>a#a-wsj1583-001-p1s5W12-Ta</LM>
 <LM>a#a-wsj1583-001-p1s5W11-Ta</LM>
 <LM>a#a-wsj1583-001-p1s5W10-Ta</LM>
-<LM>a#a-wsj1583-001-p1s5W14-Ta</LM>
 </aux.rf>
 </a>
 <val_frame.rf>v#v-w2455f1</val_frame.rf>

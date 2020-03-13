@@ -1062,7 +1062,6 @@
 </LM>
 <LM id="T-wsj0135-001-p1s3a1">
 <a>
-<lex.rf>a#a-wsj0135-001-p1s3W12-Ta</lex.rf>
 </a>
 <nodetype>coap</nodetype>
 <t_lemma>neboli</t_lemma>

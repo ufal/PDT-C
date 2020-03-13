@@ -4995,7 +4995,6 @@
 <children>
 <LM id="T-wsj2034-001-p1s18a12">
 <a>
-<lex.rf>a#a-wsj2034-001-p1s18W12-Ta</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>až</t_lemma>

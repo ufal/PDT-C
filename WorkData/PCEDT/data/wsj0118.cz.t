@@ -4749,7 +4749,6 @@
 <a>
 <lex.rf>a#a-wsj0118-001-p1s13W39-Ta</lex.rf>
 <aux.rf>
-<LM>a#a-wsj0118-001-p1s13W38-Ta</LM>
 <LM>a#a-wsj0118-001-p1s13W35-Ta</LM>
 </aux.rf>
 </a>

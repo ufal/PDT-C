@@ -233,7 +233,6 @@
 <children>
 <LM id="T-wsj2089-001-p1s0a36">
 <a>
-<lex.rf>a#a-wsj2089-001-p1s0W31-Ta</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>5,80</t_lemma>

@@ -710,7 +710,6 @@
 <a>
 <lex.rf>a#ps_101.08-SCzechA-m-d1t1353-15</lex.rf>
 <aux.rf>
-<LM>a#ps_101.08-SCzechA-m-d1t1353-13</LM>
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>

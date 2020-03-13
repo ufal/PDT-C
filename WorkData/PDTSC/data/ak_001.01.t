@@ -7898,7 +7898,6 @@
 </LM>
 <LM id="ak_001.01-SCzechT-ak_001-d1e566-x2-roota4">
 <a>
-<lex.rf>a#ak_001.01-SCzechA-m-d-id79787</lex.rf>
 </a>
 <nodetype>coap</nodetype>
 <t_lemma>#Comma</t_lemma>

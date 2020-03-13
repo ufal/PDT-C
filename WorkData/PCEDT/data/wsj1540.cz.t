@@ -303,7 +303,6 @@
 </LM>
 <LM id="T-wsj1540-001-p1s1a12">
 <a>
-<lex.rf>a#a-wsj1540-001-p1s1W12-Ta</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>společnost</t_lemma>

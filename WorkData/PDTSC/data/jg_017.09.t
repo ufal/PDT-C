@@ -2646,7 +2646,6 @@
 <a>
 <lex.rf>a#jg_017.09-SCzechA-m-d1t2742-24</lex.rf>
 <aux.rf>
-<LM>a#jg_017.09-SCzechA-m-d1t2742-23</LM>
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>

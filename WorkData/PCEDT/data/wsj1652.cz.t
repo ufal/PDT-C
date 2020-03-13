@@ -2687,7 +2687,6 @@
 <lex.rf>a#a-wsj1652-001-p1s11W26-Ta</lex.rf>
 <aux.rf>
 <LM>a#a-wsj1652-001-p1s11W25-Ta</LM>
-<LM>a#a-wsj1652-001-p1s11W24-Ta</LM>
 <LM>a#a-wsj1652-001-p1s11W21-Ta</LM>
 </aux.rf>
 </a>

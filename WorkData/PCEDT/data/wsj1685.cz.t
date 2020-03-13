@@ -1294,7 +1294,6 @@
 <a>
 <lex.rf>a#a-wsj1685-001-p1s5W22-Ta</lex.rf>
 <aux.rf>
-<LM>a#a-wsj1685-001-p1s5W19-Ta</LM>
 <LM>a#a-wsj1685-001-p1s5W20-Ta</LM>
 <LM>a#a-wsj1685-001-p1s5W21-Ta</LM>
 </aux.rf>

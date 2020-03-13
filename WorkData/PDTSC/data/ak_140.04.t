@@ -2770,7 +2770,6 @@
 <a>
 <lex.rf>a#ak_140.04-SCzechA-m-d1t843-3</lex.rf>
 <aux.rf>
-<LM>a#ak_140.04-SCzechA-m-d1t843-2</LM>
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>

@@ -2855,7 +2855,6 @@
 <a>
 <lex.rf>a#ak_140.06-SCzechA-m-d1t1185-26</lex.rf>
 <aux.rf>
-<LM>a#ak_140.06-SCzechA-m-d1t1185-25</LM>
 </aux.rf>
 </a>
 <nodetype>dphr</nodetype>

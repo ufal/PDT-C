@@ -233,7 +233,6 @@
 <LM id="T-wsj2149-001-p1s0a41">
 <a>
 <aux.rf>
-<LM>a#a-wsj2149-001-p1s0W20-Ta</LM>
 </aux.rf>
 </a>
 <nodetype>qcomplex</nodetype>

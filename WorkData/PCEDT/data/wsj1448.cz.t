@@ -33,7 +33,6 @@
 <lex.rf>a#a-wsj1448-001-p1s0W7-Ta</lex.rf>
 <aux.rf>
 <LM>a#a-wsj1448-001-p1s0W2-Ta</LM>
-<LM>a#a-wsj1448-001-p1s0W6-Ta</LM>
 <LM>a#a-wsj1448-001-p1s0W1-Ta</LM>
 </aux.rf>
 </a>

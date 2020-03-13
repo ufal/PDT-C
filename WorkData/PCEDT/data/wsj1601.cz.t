@@ -5729,7 +5729,6 @@
 <children>
 <LM id="T-wsj1601-001-p1s20a6">
 <a>
-<lex.rf>a#a-wsj1601-001-p1s20W16-Ta</lex.rf>
 <aux.rf>
 <LM>a#a-wsj1601-001-p1s20W15-Ta</LM>
 </aux.rf>
