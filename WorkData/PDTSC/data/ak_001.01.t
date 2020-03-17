@@ -4,7 +4,7 @@
 <schema href="tanot_coref_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ak_001.01.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -7898,6 +7898,7 @@
 </LM>
 <LM id="ak_001.01-SCzechT-ak_001-d1e566-x2-roota4">
 <a>
+<lex.rf>a#ak_001.01-SCzechA-m-d-id79732</lex.rf>
 </a>
 <nodetype>coap</nodetype>
 <t_lemma>#Comma</t_lemma>
@@ -8138,12 +8139,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Reconstruction</type>
-<text>špatně umístěná interpuinkční čárka</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ak_001.01-SCzechT-ak_001-d1e566-x3-root">
 <atree.rf>a#ak_001.01-SCzechA-ak_001-d1e566-x3-root</atree.rf>

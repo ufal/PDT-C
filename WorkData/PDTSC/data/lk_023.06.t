@@ -4,7 +4,7 @@
 <schema href="tanot_coref_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="lk_023.06.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -4682,18 +4682,18 @@
 </gram>
 <deepord>2</deepord>
 </LM>
-<LM id="lk_023.06-SCzechT-m-d1t2491-9">
+<LM id="lk_023.06-SCzechT-lk_023-2975-roota1">
 <a>
-<lex.rf>a#lk_023.06-SCzechA-m-d1t2491-9</lex.rf>
+<lex.rf>a#m023-d1t2491-9-sw1-ia</lex.rf>
+<aux.rf>
+<LM>a#lk_023.06-SCzechA-m-d1t2491-9</LM>
+</aux.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>hospoda</t_lemma>
 <functor>DIR3</functor>
 <gram>
 <sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>sg</number>
-<negation>neg0</negation>
 </gram>
 <deepord>4</deepord>
 </LM>

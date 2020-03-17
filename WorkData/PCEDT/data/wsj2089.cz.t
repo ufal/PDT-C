@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj2089.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -193,12 +193,6 @@
 <sempos>adj.quant.def</sempos>
 </gram>
 <deepord>22</deepord>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>v anglickém originále ale je 9,482 (desetinné číslo)!</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2089-001-p1s0a29">
 <a>
@@ -233,21 +227,16 @@
 <children>
 <LM id="T-wsj2089-001-p1s0a36">
 <a>
+<lex.rf>a#a-wsj2089-001-p1s0W33-Ta</lex.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>5,80</t_lemma>
+<t_lemma>5.80</t_lemma>
 <functor>RSTR</functor>
 <gram>
 <sempos>n.quant.def</sempos>
 </gram>
 <is_parenthesis>1</is_parenthesis>
 <deepord>26</deepord>
-<annot_comment>
-<LM>
-<type>Typo</type>
-<text>0 není 0,  ale velké o - O</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="T-wsj2089-001-p1s0a34">
 <a>
@@ -498,16 +487,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Translation</type>
-<text>##Vymazat: {5} , 8O</text>
-</LM>
-<LM>
-<type>Translation</type>
-<text>##opravit 5 na 5.80 (desetinné číslo), podobně 9482 má být desetinné číslo</text>
-</LM>
-</annot_comment>
 <eng_sentence>Sandoz AG, a major Swiss chemical and pharmaceutical group, said that its group sales rose 25% to 9.482 billion francs ($5.80 billion) in the first nine months of this year, with strong gains in all divisions.</eng_sentence>
 </LM>
 <LM id="T-wsj2089-001-p1s1">

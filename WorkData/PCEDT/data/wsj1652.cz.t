@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj1652.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -2734,12 +2734,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Translation</type>
-<text>by si pohoršily</text>
-</LM>
-</annot_comment>
 <eng_sentence>Gasoline margins may rebound this quarter, some industry officials say, but they believe chemical margins could worsen.</eng_sentence>
 </LM>
 <LM id="T-wsj1652-001-p1s12">

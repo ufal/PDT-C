@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0118.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -4873,12 +4873,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Translation</type>
-<text>nerozumím smyslu: prováděné se týká arbitráží, nebo obchodování a je tam špatný pád? + vypustit vlastní NA účet</text>
-</LM>
-</annot_comment>
 <eng_sentence> Stung by charges that their greed is turning the stock market into a gigantic crapshoot, almost all the big investment banking houses have abandoned index arbitrage, a common form of program trading, for their own accounts in the past few days.</eng_sentence>
 </LM>
 <LM id="T-wsj0118-001-p1s14">

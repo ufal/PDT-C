@@ -4,7 +4,7 @@
 <schema href="tanot_coref_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="lk_954.01.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -6431,7 +6431,7 @@
 <nodetype>coap</nodetype>
 <t_lemma>a</t_lemma>
 <functor>CONJ</functor>
-<deepord>6</deepord>
+<deepord>7</deepord>
 <children>
 <LM id="lk-28105_04.01-SCzechT-m-d1t887-8">
 <a>
@@ -6439,10 +6439,9 @@
 <aux.rf>
 <LM>a#lk-28105_04.01-SCzechA-m-d1t887-6</LM>
 <LM>a#lk-28105_04.01-SCzechA-m-d1t887-7</LM>
-<LM>a#lk-28105_04.01-SCzechA-m-d1t887-5</LM>
 </aux.rf>
 </a>
-<val_frame.rf>v#v-w8659f14_ZU</val_frame.rf>
+<val_frame.rf>v#v-w8659f19_MM</val_frame.rf>
 <nodetype>complex</nodetype>
 <t_lemma>vzít_si</t_lemma>
 <functor>EFF</functor>
@@ -6478,9 +6477,19 @@
 <number>sg</number>
 <negation>neg0</negation>
 </gram>
-<deepord>5</deepord>
+<deepord>6</deepord>
 </LM>
 </children>
+</LM>
+<LM id="lk-28105_04.01-SCzechT-lk-28105_04-d1e863-x3-roota6">
+<a>
+<lex.rf>a#lk-28105_04.01-SCzechA-m-d1t887-5</lex.rf>
+</a>
+<coref_special>segm</coref_special>
+<nodetype>complex</nodetype>
+<t_lemma>ten</t_lemma>
+<functor>PAT</functor>
+<deepord>5</deepord>
 </LM>
 <LM id="lk-28105_04.01-SCzechT-lk-28105_04-d1e863-x3-n11">
 <nodetype>complex</nodetype>
@@ -6490,7 +6499,7 @@
 <gram>
 <sempos>n.pron.def.pers</sempos>
 </gram>
-<deepord>8</deepord>
+<deepord>9</deepord>
 <coref_text>
 <LM>
 <target-node.rf>lk-28105_04.01-SCzechT-lk-28105_04-d1e863-x3-roota4</target-node.rf>
@@ -6504,7 +6513,6 @@
 <lex.rf>a#lk-28105_04.01-SCzechA-m-d1t890-3</lex.rf>
 <aux.rf>
 <LM>a#lk-28105_04.01-SCzechA-m-d1t887-6</LM>
-<LM>a#lk-28105_04.01-SCzechA-m-d1t887-5</LM>
 </aux.rf>
 </a>
 <val_frame.rf>v#v-w9050f1</val_frame.rf>
@@ -6525,7 +6533,7 @@
 <person>3</person>
 <negation>neg1</negation>
 </gram>
-<deepord>9</deepord>
+<deepord>10</deepord>
 <children>
 <LM id="lk-28105_04.01-SCzechT-m-d1t890-2">
 <a>
@@ -6538,24 +6546,7 @@
 <sempos>adv.pron.indef</sempos>
 <indeftype>negat</indeftype>
 </gram>
-<deepord>7</deepord>
-</LM>
-<LM id="lk-28105_04.01-SCzechT-lk-28105_04-d1e863-x3-roota5">
-<nodetype>complex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#PersPron</t_lemma>
-<functor>PAT</functor>
-<gram>
-<sempos>n.pron.def.pers</sempos>
-</gram>
-<deepord>10</deepord>
-<coref_text>
-<LM>
-<target-node.rf>lk-28105_04.01-SCzechT-m-d1t879-2</target-node.rf>
-<informal-type>SPEC</informal-type>
-<src>coref</src>
-</LM>
-</coref_text>
+<deepord>8</deepord>
 </LM>
 <LM id="lk-28105_04.01-SCzechT-lk-28105_04-d1e863-x3-roota1">
 <nodetype>atom</nodetype>

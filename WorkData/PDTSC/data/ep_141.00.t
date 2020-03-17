@@ -4,7 +4,7 @@
 <schema href="tanot_coref_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ep_141.00.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -3668,12 +3668,6 @@
 <negation>neg0</negation>
 </gram>
 <deepord>21</deepord>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>nP</text>
-</LM>
-</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>ep_141.00-SCzechT-m-d1t101-5</target-node.rf>
@@ -3681,6 +3675,12 @@
 <src>lenk</src>
 </LM>
 </coref_text>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>nP</text>
+</LM>
+</annot_comment>
 </LM>
 </children>
 </LM>
@@ -8055,6 +8055,7 @@
 <a>
 <lex.rf>a#ep_141.00-SCzechA-m-d1t176-5</lex.rf>
 <aux.rf>
+<LM>a#ep_141.00-SCzechA-m-d1t176-4</LM>
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
@@ -8070,7 +8071,7 @@
 <children>
 <LM id="ep_141.00-SCzechT-m-d1t176-4">
 <a>
-<lex.rf>a#ep_141.00-SCzechA-m-d1t176-4</lex.rf>
+<lex.rf>a#m141-d1t176-4-sw1-ia</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>tento</t_lemma>
@@ -8223,12 +8224,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Reconstruction</type>
-<text>vyměněná slova: má být "tenkrát se na těchto typech"</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ep_141.00-SCzechT-ep_141-93-root">
 <atree.rf>a#ep_141.00-SCzechA-ep_141-93-root</atree.rf>

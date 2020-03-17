@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj1601.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -5727,15 +5727,13 @@
 <atree.rf>a#a-wsj1601-001-p1s20</atree.rf>
 <deepord>0</deepord>
 <children>
-<LM id="T-wsj1601-001-p1s20a6">
+<LM id="T-wsj1601-001-p1s20a26">
 <a>
-<aux.rf>
-<LM>a#a-wsj1601-001-p1s20W15-Ta</LM>
-</aux.rf>
+<lex.rf>a#a-wsj1601-001-p1s20W15-Ta</lex.rf>
 </a>
-<val_frame.rf>v#v-w7583f8</val_frame.rf>
+<val_frame.rf>v#v-w243f181_ZU</val_frame.rf>
 <nodetype>complex</nodetype>
-<t_lemma>vést</t_lemma>
+<t_lemma>být</t_lemma>
 <functor>PRED</functor>
 <gram>
 <sempos>v</sempos>
@@ -5884,13 +5882,6 @@
 </LM>
 </children>
 </LM>
-<LM id="T-wsj1601-001-p1s20a25">
-<nodetype>qcomplex</nodetype>
-<is_generated>1</is_generated>
-<t_lemma>#Gen</t_lemma>
-<functor>PAT</functor>
-<deepord>13</deepord>
-</LM>
 <LM id="T-wsj1601-001-p1s20a9">
 <a>
 <lex.rf>a#a-wsj1601-001-p1s20W18-Ta</lex.rf>
@@ -5904,7 +5895,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>14</deepord>
+<deepord>13</deepord>
 <children>
 <LM id="T-wsj1601-001-p1s20a11">
 <a>
@@ -5919,7 +5910,7 @@
 <gram>
 <sempos>n.denot</sempos>
 </gram>
-<deepord>17</deepord>
+<deepord>16</deepord>
 <children>
 <LM id="T-wsj1601-001-p1s20a12">
 <a>
@@ -5931,7 +5922,7 @@
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
-<deepord>15</deepord>
+<deepord>14</deepord>
 </LM>
 <LM id="T-wsj1601-001-p1s20a13">
 <a>
@@ -5943,7 +5934,7 @@
 <gram>
 <sempos>adj.denot</sempos>
 </gram>
-<deepord>16</deepord>
+<deepord>15</deepord>
 </LM>
 </children>
 </LM>

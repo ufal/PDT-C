@@ -1610,7 +1610,7 @@
 <form_change>spell</form_change>
 <form>proto</form>
 <tag>
-<AM lemma="proto-1_^(proto;_a_proto,_ale_proto,...)" src="auto" recommended="1">J^-------------</AM>
+<AM lemma="proto-1_^(proto;_a_proto,_ale_proto,...)" src="auto" recommended="1" selected="1">J^-------------</AM>
 <AM lemma="proto-2_^(dal_mu_co_proto,_tak_proto!)" src="auto">Db-------------</AM>
 <AM lemma="proto-3" src="auto">TT-------------</AM>
 </tag>

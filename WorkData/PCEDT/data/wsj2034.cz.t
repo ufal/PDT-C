@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj2034.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -4991,18 +4991,16 @@
 <gram>
 <sempos>adj.quant.def</sempos>
 </gram>
-<deepord>12</deepord>
+<deepord>11</deepord>
 <children>
-<LM id="T-wsj2034-001-p1s18a12">
+<LM id="T-wsj2034-001-p1s18a39">
 <a>
+<lex.rf>a#a-wsj2034-001-p1s18W11-Ta</lex.rf>
 </a>
 <nodetype>complex</nodetype>
 <t_lemma>až</t_lemma>
 <functor>EXT</functor>
-<gram>
-<sempos>n.denot</sempos>
-</gram>
-<deepord>11</deepord>
+<deepord>12</deepord>
 </LM>
 </children>
 </LM>
@@ -5242,12 +5240,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Translation</type>
-<text>##Vymazat: {rychlostí} až</text>
-</LM>
-</annot_comment>
 <eng_sentence>Such skills allow riders to fly down treacherous mountain grades at speeds of up to 40 miles an hour -- a thrill for the cyclist but a nightmare for unsuspecting hikers or equestrians.</eng_sentence>
 </LM>
 <LM id="T-wsj2034-001-p1s19">
@@ -13018,7 +13010,7 @@
 <annot_comment>
 <LM>
 <type>Coref</type>
-<text>Shoda zachycená v překladu neodpovídá původnímu textu ani tektogramatickému stromu (kola - neut. pl. =&gt; která byla)!</text>
+<text>Shoda zachycená v překladu neodpovídá původnímu textu ani tektogramatickému stromu (kola - neut. pl. => která byla)!</text>
 </LM>
 <LM>
 <type>Typo</type>

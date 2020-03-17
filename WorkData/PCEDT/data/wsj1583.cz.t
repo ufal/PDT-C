@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj1583.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -1269,12 +1269,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Translation</type>
-<text>vypustit: obejít SE bez vánoční večeře</text>
-</LM>
-</annot_comment>
 <eng_sentence>One of the best deals, though, may mean skipping Christmas dinner with the relatives.</eng_sentence>
 </LM>
 <LM id="T-wsj1583-001-p1s6">

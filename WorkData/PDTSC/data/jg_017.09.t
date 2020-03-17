@@ -4,7 +4,7 @@
 <schema href="tanot_coref_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="jg_017.09.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -2642,10 +2642,11 @@
 <functor>RHEM</functor>
 <deepord>7</deepord>
 </LM>
-<LM id="jg_017.09-SCzechT-m-d1t2742-24">
+<LM id="jg_017.09-SCzechT-jg_017-949-roota1">
 <a>
-<lex.rf>a#jg_017.09-SCzechA-m-d1t2742-24</lex.rf>
+<lex.rf>a#m017-d1t2742-24-sw1-ia</lex.rf>
 <aux.rf>
+<LM>a#jg_017.09-SCzechA-m-d1t2742-24</LM>
 </aux.rf>
 </a>
 <nodetype>complex</nodetype>
@@ -2653,9 +2654,6 @@
 <functor>LOC</functor>
 <gram>
 <sempos>n.denot</sempos>
-<gender>fem</gender>
-<number>pl</number>
-<negation>neg0</negation>
 </gram>
 <deepord>8</deepord>
 </LM>
@@ -6099,12 +6097,6 @@
 <deepord>5</deepord>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>New valency frame</type>
-<text>nP</text>
-</LM>
-</annot_comment>
 <coref_text>
 <LM>
 <target-node.rf>jg_017.09-SCzechT-m-d1t2866-12</target-node.rf>
@@ -6112,6 +6104,12 @@
 <src>mark</src>
 </LM>
 </coref_text>
+<annot_comment>
+<LM>
+<type>New valency frame</type>
+<text>nP</text>
+</LM>
+</annot_comment>
 </LM>
 </children>
 </LM>

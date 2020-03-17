@@ -4,7 +4,7 @@
 <schema href="tanot_coref_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="ak_140.04.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -2769,11 +2769,9 @@
 <LM id="ak_140.04-SCzechT-m-d1t843-3">
 <a>
 <lex.rf>a#ak_140.04-SCzechA-m-d1t843-3</lex.rf>
-<aux.rf>
-</aux.rf>
 </a>
 <nodetype>complex</nodetype>
-<t_lemma>tma</t_lemma>
+<t_lemma>potmě</t_lemma>
 <functor>COND</functor>
 <is_member>1</is_member>
 <gram>
@@ -2896,12 +2894,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Reconstruction</type>
-<text>dospodu - jako 1 slovo</text>
-</LM>
-</annot_comment>
 </LM>
 <LM id="ak_140.04-SCzechT-ak_140-254-root">
 <atree.rf>a#ak_140.04-SCzechA-ak_140-254-root</atree.rf>

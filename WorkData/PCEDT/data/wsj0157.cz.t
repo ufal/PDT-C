@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj0157.cz.a" />
-<reffile id="v" name="vallex" href="vallex3.xml" />
+<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -962,6 +962,7 @@
 </LM>
 <LM id="T-wsj0157-001-p1s2a7">
 <a>
+<lex.rf>a#a-wsj0157-001-p1s2W10-Ta</lex.rf>
 </a>
 <nodetype>coap</nodetype>
 <t_lemma>neboli</t_lemma>
@@ -1054,12 +1055,6 @@
 </children>
 </LM>
 </children>
-<annot_comment>
-<LM>
-<type>Translation</type>
-<text>Vymazat: -li</text>
-</LM>
-</annot_comment>
 <eng_sentence>Previously, it offered $13.65 a share in cash, or $29 million.</eng_sentence>
 </LM>
 <LM id="T-wsj0157-001-p1s3">
