@@ -4,7 +4,7 @@
 <schema href="tanot_schema.xml" />
 <references>
 <reffile id="a" name="adata" href="wsj2034.cz.a" />
-<reffile id="v" name="vallex" href="../../../../Users/Marie%20Mikulov%E1/AppData/Roaming/.tred.d/extensions/pdt_c_m/resources/vallex3.xml" />
+<reffile id="v" name="vallex" href="vallex3.xml" />
 </references>
 </head>
 <trees>
@@ -13010,7 +13010,7 @@
 <annot_comment>
 <LM>
 <type>Coref</type>
-<text>Shoda zachycená v překladu neodpovídá původnímu textu ani tektogramatickému stromu (kola - neut. pl. => která byla)!</text>
+<text>Shoda zachycená v překladu neodpovídá původnímu textu ani tektogramatickému stromu (kola - neut. pl. =&gt; která byla)!</text>
 </LM>
 <LM>
 <type>Typo</type>
